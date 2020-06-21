@@ -102,7 +102,7 @@ ram964
 - Rahul Katamneni
 - Jeremiah Zagada
 - Shweta Karwa
-- [Iago Nunes](https>://github.com/iago)
+- [Iago Nunes](https://github.com/iago)
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Ruth Ikegah] (https://github.com/Ruth-ikegah)
