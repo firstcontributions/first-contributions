@@ -132,7 +132,7 @@
 - Costea Ionut-Andrei
 - Mathias
 - [Mark Kulube](https://github.com/markkulube)
-- [Malachi Ivey](https://github.com/zarekivey)
+- Malachi Ivey
 - [Gega Darakhvelidze](https://github.com/gdara17)
 - Reem
 - [limetree1723](https://github.com/limetree1723)
