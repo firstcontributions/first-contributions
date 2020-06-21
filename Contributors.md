@@ -1530,6 +1530,7 @@ Kayla Rubin
 - [Brian Joo](https://github.com/brianhjoo)
 - [Odafe](https://github.com/od41)
 - [Ramesh Joshi](https://github.com/rjoshig)
+- [finicu](https://github.com/finicu212)
 - [Shreyash Phakade Pawar](https://github.com/Observert)
 - [Allen Shin](https://github.com/geeuho)
 - [Yulian Karapetkov](https://github.com/yuliankarapetkov)
