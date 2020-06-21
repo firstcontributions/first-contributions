@@ -2073,6 +2073,7 @@
 - [Tomiwa Salau 🤩🤩🤩](https://github.com/AyonzOnTop)
 - [Pavel Malinov](https://github.com/pmmalinov01)
 - [pankaj kumar](https://github.com/pankaj2961)
+- [Garon Smith](https://github.com/GaronSmith)
 - [Jessie Matias](https://github.com/jessiematias)
 - [Kola Campbell](https://github.com/kcola)
 - [Travis Byr](https://github.com/travisbyr)
