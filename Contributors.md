@@ -76,6 +76,7 @@
 - Jahnavi(https://github.com/jahnavi-muralidhar)
 - [Atharva Ikhar](https://github.com/atharva444/)
 - Amit
+- [Aakash Kashyap](https://github.com/aakashyap)
 - Ethan So (https://github.com/ethanso56)
 - Jorge Sanchez (https://github.com/jjsanchezf)
 - Satya Prakash Satyam (https://github.com/satty2810/)
