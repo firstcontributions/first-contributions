@@ -9,6 +9,7 @@
 - rahul123@
 - jenny heyyy
 - aslam khan
+- CLosch
 - [Iqra Muhammad](https://github.com/cemeiq)	
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
