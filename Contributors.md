@@ -25,6 +25,7 @@
 - [Ayush Sinha](https://github.com/ayushsinha-13)
 - Deppah
 - [Oliver Mak](https://github.com/oliver139)
+- Eddie Lewis
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
