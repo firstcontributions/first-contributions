@@ -11,6 +11,7 @@
 - jenny heyyy
 - aslam khan
 - [Iqra Muhammad](https://github.com/cemeiq)	
+- [Jayon Kim](https://github.com/jpkim921)	
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
