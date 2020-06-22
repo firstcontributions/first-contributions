@@ -10,7 +10,7 @@
 - rahul123@
 - jenny heyyy
 - aslam khan
-- [Iqra Muhammad](https://github.com/cemeiq)	
+- [Iqra Muhammad](https://github.com/cemeiq)
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
@@ -205,6 +205,7 @@
 - [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
 - [Kehinde Abe](https://github.com/kennyOlakunle)
+- [Jasmine Valera] (https://github.com/jvalera174)
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
@@ -2148,7 +2149,7 @@
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
 - [Selam Gessese](https://github.com/sygessese)
-- [Sachin Diwate](https://github.com/dsachin) 
+- [Sachin Diwate](https://github.com/dsachin)
 - [Sukritee Shrivastava](https://github.com/sukritee)
 - [Steven Rouk](https://github.com/stevenrouk)
 - [Bexx Modebadze](http://gituhub.com/bexxmodd)
