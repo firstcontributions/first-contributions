@@ -42,6 +42,7 @@
 - Satty Kaur (https://github.com/SattyKaur)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Sherry C
+- [wilsoncode](https://github.com/wilsoncode)
 - Mihir Rane (https://github.com/ranemihir)
 - [Nirbhay Singh](https://github.com/Nirbhay007)
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
