@@ -2149,3 +2149,4 @@
 - [Sukritee Shrivastava](https://github.com/sukritee)
 - [Steven Rouk](https://github.com/stevenrouk)
 - [Bexx Modebadze](http://gituhub.com/bexxmodd)
+- [Kornel Kwiatecki](http://github.com/kwiatek023)
