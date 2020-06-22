@@ -799,6 +799,7 @@
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
 - [Rahul Sonanis](https://github.com/RahulSonanis)
+- [Arvind Kalathil](https://github.com/Arvind-Kal/)
 - [Brandon E](https://github.com/ChoppinLumber)
 - [CodeSadhu](https://github.com/CodeSadhu)
 - [John Prideaux](https://github.com/jpridx)
