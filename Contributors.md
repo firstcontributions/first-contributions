@@ -1038,7 +1038,7 @@
 - [Sharath Rao](https://github.com/srylix10)
 - [Bulent Turkmen](https://github.com/faranjit)
 - [Chor Visalrotanak](https://github.com/visalrotanak)
-- Oliver Mak
+- [Oliver Mak](https://github.com/oliver139)
 - [Jannik](https://github.com/EpansU)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
