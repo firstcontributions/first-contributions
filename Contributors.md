@@ -39,6 +39,7 @@
 - Aastha Panta(https://github.com/AasthaPanta)
 - Leandro B (https://github.com/lerbal7)
 - Oyindamola Olatunji (https://github.com/ikeadeoyin)
+- Kristin Grue (https://github.com/thorgerd)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
