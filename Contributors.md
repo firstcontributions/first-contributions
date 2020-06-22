@@ -44,6 +44,7 @@
 - Adam Asaad
 - Falguni Raina
 - [Michael Mamich](https://github.com/MMMamich) 🤓
+- [Lucas Amaral](https://github.com/doamaral)
 - LA
 - [Temitope Babatola](https://github.com/BBimie)
 - [Vinnicius Andrade](https://github.com/vinnicius)
