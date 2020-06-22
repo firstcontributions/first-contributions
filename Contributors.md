@@ -31,6 +31,7 @@
 - [Divisha Gupta](https://github.com/divishagupta99)
 - Francisco Javier Olmos
 - [Augustine Virgo](https://github.com/virgoaugustine)
+- Aastha Panta(https://github.com/AasthaPanta)
 - Leandro B (https://github.com/lerbal7)
 - Oyindamola Olatunji (https://github.com/ikeadeoyin)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
