@@ -41,6 +41,8 @@
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
+- Sherry C
+- [wilsoncode](https://github.com/wilsoncode)
 - Mihir Rane (https://github.com/ranemihir)
 - [Nirbhay Singh](https://github.com/Nirbhay007)
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
@@ -2151,3 +2153,4 @@
 - [Steven Rouk](https://github.com/stevenrouk)
 - [Bexx Modebadze](http://gituhub.com/bexxmodd)
 - [Kornel Kwiatecki](http://github.com/kwiatek023)
+- [Hemanth Savasere](http://github.com/savaserehemanth)
