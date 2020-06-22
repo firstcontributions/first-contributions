@@ -10,7 +10,7 @@
 - rahul123@
 - jenny heyyy
 - aslam khan
-- [Iqra Muhammad](https://github.com/cemeiq)	
+- [Iqra Muhammad](https://github.com/cemeiq)
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
@@ -219,6 +219,7 @@
 - [limetree1723](https://github.com/limetree1723)
 - CatTail
 - [Tarun Kanodia](https://github.com/tarunkanodia)
+- [Juan Pablo Pinto](https://github.com/jpinto7)
 - [Mike Dombrowski](https://github.com/m-dombrowski)
 - [Naqiya Ghulamali](https://github.com/Kia-G)
 - [Alka Trivedi](https://github.com/Alka-git12)
@@ -2148,7 +2149,7 @@
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
 - [Selam Gessese](https://github.com/sygessese)
-- [Sachin Diwate](https://github.com/dsachin) 
+- [Sachin Diwate](https://github.com/dsachin)
 - [Sukritee Shrivastava](https://github.com/sukritee)
 - [Steven Rouk](https://github.com/stevenrouk)
 - [Bexx Modebadze](http://gituhub.com/bexxmodd)
