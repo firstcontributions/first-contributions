@@ -1,6 +1,7 @@
 # Contributors
 - [srcme20](https://github.com/srcme20)
 - [Zeke Jeske](https://github.com/zeke-jeske)
+- pradeep kumar
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
