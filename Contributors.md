@@ -445,6 +445,7 @@
 - [Ssali Jonathan](https://github.com/jod35)
 - [Banobe Pascal](https://github.com/banobepascal)
 - [David Rozmajzl](https://github.com/dmr121)
+- [Nihar Patel](https://github.com/nihar21)
 - [Binu David](https://github.com/BinuDavid)
 - [Alec Barnard](https://github.com/alecbar)
 - [Mohammed Tausif Uddin Ansari](https://github.com/TausifAnsari)
