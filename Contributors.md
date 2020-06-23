@@ -12,8 +12,8 @@
 - fflobert
 - jenny heyyy
 - aslam khan
-- [Iqra Muhammad](https://github.com/cemeiq)	
-- [Jayon Kim](https://github.com/jpkim921)	
+- [Iqra Muhammad](https://github.com/cemeiq)
+- [Jayon Kim](https://github.com/jpkim921)
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
@@ -25,6 +25,7 @@
 - Krishnasai
 - [Mahmoud Attia](https://github.com/Atattia
 - Jens D.
+- Emily F.
 - [Anuj Upadhyaya](https://github.com/anuj98)
 - [Ayush Sinha](https://github.com/ayushsinha-13)
 - Deppah
@@ -2152,7 +2153,7 @@
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
 - [Selam Gessese](https://github.com/sygessese)
-- [Sachin Diwate](https://github.com/dsachin) 
+- [Sachin Diwate](https://github.com/dsachin)
 - [Sukritee Shrivastava](https://github.com/sukritee)
 - [Steven Rouk](https://github.com/stevenrouk)
 - [Bexx Modebadze](http://gituhub.com/bexxmodd)
