@@ -76,6 +76,7 @@
 - [Praveen Nair](https://github.com/PraveenCNR)
 - Aditya Tambi (https://github.com/adityatambi)
 - [Jersey Fonseca](https://github.com/jfonseca8)
+- [Gradin](https://github.com/nidarg)
 - [Hored Otniel SOSSOU](https://github.com/morten12)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Neilzon Viloria](https://github.com/neilZon)
