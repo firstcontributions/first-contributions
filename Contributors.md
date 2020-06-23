@@ -214,6 +214,7 @@
 - [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
 - [Kehinde Abe](https://github.com/kennyOlakunle)
+- [Jasmine Valera] (https://github.com/jvalera174)
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
