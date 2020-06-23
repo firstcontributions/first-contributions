@@ -1773,6 +1773,7 @@
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
 - [ZanderBE](https://github.com/ZanderBE)
+- [liamcclane](https://github.com/liamcclane)
 - [Ankit Kumar](https://github.com/NotAnkit)
 - [malworks](https://github.com/malworks/)
 - [Shivam Rajput](https://github.com/ChaoticBlack)
