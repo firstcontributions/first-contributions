@@ -16,6 +16,7 @@
 - jenny heyyy
 - celia
 - aslam khan
+- annika wischnewsky (https://github.com/wischn)
 - fatima mahmoud
 - tr43om (https://github.com/tr43om)
 - [Iqra Muhammad](https://github.com/cemeiq)
