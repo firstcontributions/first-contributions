@@ -14,6 +14,7 @@
 - jenny heyyy
 - celia
 - aslam khan
+- fatima mahmoud
 - tr43om (https://github.com/tr43om)
 - [Iqra Muhammad](https://github.com/cemeiq)
 - [Jayon Kim](https://github.com/jpkim921)	
