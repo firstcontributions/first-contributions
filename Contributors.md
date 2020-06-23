@@ -760,6 +760,7 @@
 - [Alberto Valdiviez](https://github.com/albertogfv)
 - [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
 - [Srishti Gupta](https://github.com/Srishti-1302)
+- [Shaun O'Neill](https://github.com/shaun-oneill)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
 - [Amanda B](https://github.com/critterconvention)
