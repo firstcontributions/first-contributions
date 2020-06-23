@@ -1996,6 +1996,7 @@
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
 - [Joe Lee](https://github.com/jlee-sysdig)
+- [Grayson Watkins](https://github.com/Graysless)
 - [Garima Kalra](https://github.com/kalragarima)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Marko Monsalud](https://github.com/markomonsalud)
