@@ -439,6 +439,7 @@
 - [Rumen Kasabov](https://github.com/rkasabov)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Claire](https://github.com/claire-1)
+- [mmorys](https://github.com/mmorys)
 - [Saurabh Pal](https://github.com/bestpal97)
 - [Vishal Yadav](https://github.com/Vishal1297)
 - [Isaac Oldwood](https://github.com/IsaacOldwood)
