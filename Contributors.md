@@ -2170,3 +2170,4 @@
 - [Nándor Réfi](https://github.com/nandorrefi)
 - [Christine Luo] (https://github.com/christinealuo)
 - [C Lin](https://github.com/chrisflectionlin)
+- [Lilian Costes] (https://github.com/Holoule)
