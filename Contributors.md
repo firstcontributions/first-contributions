@@ -92,6 +92,7 @@
 - [Callum Gander](https://github.com/Callumgander)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
+- [Joe Vu](https://github.com/coz119) 🤓
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - [Dana Brannon](https://github.com/dmbrannon)
