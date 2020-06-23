@@ -2184,3 +2184,4 @@
 - [Lilian Costes] (https://github.com/Holoule)
 - [CMofjeld](https://github.com/CMofjeld)
 - Mubashar Ahmad
+- [Ming Tsai :robot:](https://github.com/ming-tsai)
