@@ -15,6 +15,7 @@
 - fflobert
 - jenny heyyy
 - celia
+- Oluwaseyi Kareem
 - aslam khan
 - annika wischnewsky (https://github.com/wischn)
 - fatima mahmoud
