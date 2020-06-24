@@ -22,7 +22,7 @@
 - fatima mahmoud
 - tr43om (https://github.com/tr43om)
 - [Iqra Muhammad](https://github.com/cemeiq)
-- [Jayon Kim](https://github.com/jpkim921)	
+- [Jayon Kim](https://github.com/jpkim921)
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
@@ -1171,6 +1171,7 @@
 - [Michael Properzi](https://github.com/erzimj)
 - [TheDopplerEffects](https://github.com/TheDopplerEffects)
 - [Masahiro Okamoto](https://github.com/okamotchan)
+- [Elizabeth Beers](https://github.com/ebeers-png/)
 - [Robiquet](https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
 - [Teresa Ingram](https://github.com/malteserteresa)
