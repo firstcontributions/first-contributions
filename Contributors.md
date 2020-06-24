@@ -3,6 +3,7 @@
 - [srcme20](https://github.com/srcme20)
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
+- [tozzomat](https://github.com/tozzomat)
 - pradeep kumar
 - adi satrio wibowo
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
@@ -44,6 +45,7 @@
 - [Oliver Mak](https://github.com/oliver139)
 - Eddie Lewis
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
+- [tozzomat](https://github.com/tozzomat)
 - David Hunter
 - Abah Gift
 - [Michael Acolatse](https://github.com/mikeaco)
