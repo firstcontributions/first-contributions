@@ -2206,3 +2206,4 @@
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
 - [Brandon Tripp](https://github.com/Brandon-G-Tripp/)
+- [Hugo Rodriguez] (https://github.com/hugo-2306/)
