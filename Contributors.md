@@ -222,6 +222,7 @@
 - [Akshit Proothi](https://github.com/akshitproothi)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [CF]
+- [Lukas Ferreira Machado](https://github.com/swallville)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Sam Thoyre](https://github.com/thorski1)
 - [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
