@@ -66,6 +66,7 @@
 - Rahul Rajan
 - Adam Asaad
 - Falguni Raina
+- malde11
 - [Michael Mamich](https://github.com/MMMamich) 🤓
 - [Lucas Amaral](https://github.com/doamaral)
 - LA
