@@ -1018,6 +1018,7 @@
 - [Daniel](https://github.com/jfdaniel77)
 - [Hassan Tasleem](https://github.com/hass321)
 - [Shivaram Gopalakrishnan](https://github.com/shivaramg)
+- [Ingo Rotzinger](https://github.com/iro1965)
 - [Steven Jiang](https://github.com/xiangj1)
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
