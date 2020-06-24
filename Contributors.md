@@ -13,6 +13,7 @@
 - pramish22 (https://github.com/pramish22)
 - rahul123@
 - zoe (https://github.com/quicksilversel)
+- [Lewis Keech](https://github.com/Lewizard98)
 - fflobert
 - jenny heyyy
 - ankita mishra
