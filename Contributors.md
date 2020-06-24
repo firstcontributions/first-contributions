@@ -1364,6 +1364,7 @@
 - [Hayes](https://github.com/hazer888)
 - [Pankil Kalra](https://github.com/pankilkalra10)
 - [1F0](https://github.com/1f0)
+- [Kasanderh] (https://github.com/kasanderh)
 - [Yuvansh Agrawal](https://github.com/yuvag)
 - [lahla81](https://github.com/lahla81)
 - [Dhananjay](https://github.com/dhanoz)
