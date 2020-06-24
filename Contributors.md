@@ -121,6 +121,7 @@
 - raj chordia
 - yuvarajan
 - Alex Y.
+- NRampton
 - Colby Haskell (https://github.com/colbyhaskell)
 - Enda Moore (https://github.com/EndaMoore)
 - Viktor Basharkevich (https://github.com/ViktorBash)
