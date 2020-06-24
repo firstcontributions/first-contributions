@@ -12,6 +12,7 @@
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - pramish22 (https://github.com/pramish22)
 - rahul123@
+- zoe (https://github.com/quicksilversel)
 - fflobert
 - jenny heyyy
 - ankita mishra
