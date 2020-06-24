@@ -19,6 +19,7 @@
 - fflobert
 - jenny heyyy
 - ankita mishra
+- Chelsae Taylor
 - celia
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
@@ -1229,7 +1230,7 @@
 - [Dominika Malinowska](https://github.com/doma1991)
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
-- [Karan G0vil](https://github.com/karangovil)
+
 - [Jordan van Beijnhem](https://github.com/jordanvanbeijnhem)
 - [JonatanBarr](https://github.com/jonybar9)
 - [Vidit Jain](https://github.com/viditjain5598)
