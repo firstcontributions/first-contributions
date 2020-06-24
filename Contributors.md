@@ -71,6 +71,7 @@
 - [yvnr](https://github.com/yvnr)
 - Rahul Rajan
 - Adam Asaad
+- Dagmar Hengesbach
 - Falguni Raina
 - malde11
 - [Michael Mamich](https://github.com/MMMamich) 🤓
