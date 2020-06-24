@@ -20,6 +20,7 @@
 - jenny heyyy
 - ankita mishra
 - celia
+- yogeshwaran
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
 - [Fatih Avcı](https://github.com/rinqtmith)
