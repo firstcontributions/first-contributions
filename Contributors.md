@@ -20,6 +20,7 @@
 - ankita mishra
 - celia
 - Oluwaseyi Kareem
+- [Fatih Avcı](https://github.com/rinqtmith)
 - aslam khan
 - annika wischnewsky (https://github.com/wischn)
 - fatima mahmoud
