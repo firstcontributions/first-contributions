@@ -5,6 +5,7 @@
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - pradeep kumar
+- Akanksha Priya (https://github.com/Spring-dot)
 - Werner E.
 - adi satrio wibowo
 - Rochisha
