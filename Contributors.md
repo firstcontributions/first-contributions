@@ -2236,3 +2236,4 @@
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
 - [Matt Wood] (https://github.com/MattWood21)
+- [Robert Hunziker](https://github.com/osgard1)
