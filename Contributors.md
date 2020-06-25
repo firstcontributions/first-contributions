@@ -13,6 +13,7 @@
 - Werner E.
 - adi satrio wibowo
 - Rochisha
+- Barry Johnson (https://github.com/JamesJohnson11)
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [Jacob Kerr](https://github.com/jakejack13)
