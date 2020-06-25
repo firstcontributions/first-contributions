@@ -336,6 +336,7 @@
 - [Hy Nguyen](https://github.com/khanghy2130)
 - [Manjushree Pradhan](https://github.com/first-contributions_WS)
 - [Jaspreet Singh](https://github.com/Jsar3004)
+- [Noemi Glaeser](https://github.com/nglaeser)
 - [Duo Chen](https://github.com/duochen13)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
