@@ -124,6 +124,7 @@
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - [Dana Brannon](https://github.com/dmbrannon)
+- [Klaus-Dieter Warzecha](https://github.com/klauswarzecha)
 - Jahnavi(https://github.com/jahnavi-muralidhar)
 - [Atharva Ikhar](https://github.com/atharva444/)
 - Amit
