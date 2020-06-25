@@ -9,6 +9,7 @@
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [manish prajapati](https://github.com/Manish-210)
 - pradeep kumar
+- [Lucas Ravy](https://github.com/lucasravy)
 - Akanksha Priya (https://github.com/Spring-dot)
 - Werner E.
 - adi satrio wibowo
