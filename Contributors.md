@@ -1274,6 +1274,7 @@
 - [Joydeep Tapaswi](https://github.com/tapaswimail)
 - [Sandeepa AMCP](https://github.com/sandeepaamcp)
 - [John Murphy](https://github.com/johnemurphy1/)
+- [Benjamin Löhden](https://github.com/loehden)
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
 - [Arriola Coding](https://github.com/nparriola)
 - [Pierre Monferrand](https://github.com/monferrand)
