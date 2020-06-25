@@ -2227,6 +2227,7 @@
 - [CMofjeld](https://github.com/CMofjeld)
 - Mubashar Ahmad
 - mikrobi
+- [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
 - [jopaha](https://github.com/jopaha/)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
@@ -2238,3 +2239,4 @@
 - [BazzeDE](https://github.com/BazzeDe)
 - [Matt Wood] (https://github.com/MattWood21)
 - [Robert Hunziker](https://github.com/osgard1)
+
