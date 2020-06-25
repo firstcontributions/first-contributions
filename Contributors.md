@@ -1363,6 +1363,7 @@
 - [FcKoOl](https://github.com/FcKoOl) -[Omrigl](https://github.com/omrigl)
 - [Edmund Lewry](https://github.com/EdmundLewry)
 - [Janne Ilonen](https://github.com/JanneIlonen)
+- [samuli.p](https://github.com/samuli-p)
 - [Zizy Zhu](https://github.com/zuzy)
 - [Kenny McEwan](https://github.com/kennymce)
 - [Leonard Green](https://github.com/laroygreen)
