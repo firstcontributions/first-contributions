@@ -75,6 +75,7 @@
 - Satty Kaur (https://github.com/SattyKaur)
 - Drshika A. (https://github.com/drsxhi)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
+- Karsten W. (https://github.com/Fflowka)
 - Sherry C
 - [wilsoncode](https://github.com/wilsoncode)
 - Mihir Rane (https://github.com/ranemihir)
