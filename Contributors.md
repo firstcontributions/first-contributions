@@ -63,6 +63,7 @@
 - David Hunter
 - Abah Gift
 - [Michael Acolatse](https://github.com/mikeaco)
+- Babyhulk66
 - [Divisha Gupta](https://github.com/divishagupta99)
 - Francisco Javier Olmos
 - [Augustine Virgo](https://github.com/virgoaugustine)
