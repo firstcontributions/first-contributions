@@ -486,6 +486,7 @@
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Rohit Nethi](https://github.com/RohitNethi)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
+- [anorte]/https//github.com/anorte)
 - [Joel Hartman](https://github.com/joelhart)
 - [Sultan Sarazbanov](https://gitbhub.com/avokado1337)
 - [Gunish Matta](https://github.com/gunishmatta)
