@@ -1,5 +1,6 @@
 # Contributors
 - Luis Holzer (https://github.com/Luis089)
+- [Feroz Mughal](https://github.com/fmugha2)
 - [Peter Gloor](https://github.com/petergloor)
 - [Charlie Ales](https://github.com/Spaceflightrelated)
 - [srcme20](https://github.com/srcme20)
