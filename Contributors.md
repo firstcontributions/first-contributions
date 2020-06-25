@@ -595,6 +595,7 @@
 - [Urse Searle](https://github.com/GleebleNeeble)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
+- [Safal Adhikari](https://github.com/safaladhikari1)
 - [Mayank Rikh](https://github.com/mrikh)
 - [Peter Stange](https://github.com/dipstange)
 - [Thomas Moulton](https://github.com/Thomas6)
