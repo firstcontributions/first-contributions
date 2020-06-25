@@ -163,6 +163,7 @@
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
 - [Ruth Ikegah] (https://github.com/Ruth-ikegah)
+- Yavis Yuan
 - Andrew Barton
 - Sylveste
 - Shweta
