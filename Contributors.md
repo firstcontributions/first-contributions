@@ -998,6 +998,7 @@
 - [Markus Wernersbach](https://github.com/wernersbacher)
 - [David E. Williams](https://github.com/laxcougar18)
 - [Max Marzolf](https://github.com/maxmarzolf)
+- [Chester Wu](https://github.com/chester2)
 - [Rajiv K.](https://github.com/jeevesofrkdia)
 - [Alberto Oporto Ames](https://github.com/otreblan)
 - [Thien Tran](https://github.com/gau-nernst)
