@@ -7,9 +7,10 @@
 - pradeep kumar
 - Werner E.
 - adi satrio wibowo
-- Rochisha 
+- Rochisha
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
+- [Jacob Kerr](https://github.com/jakejack13)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - [Frostack](https://github.com/Frostack)
 - [Mihir Parekh](https://github.com/parekhmihir98)
