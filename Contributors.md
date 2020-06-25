@@ -2235,4 +2235,4 @@
 - [excelsior091224](https://github.com/excelsior091224)
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
-- [Matt Wood] (https://github.com/MattWood21)
+- [Matt Wood](https://github.com/MattWood21)
