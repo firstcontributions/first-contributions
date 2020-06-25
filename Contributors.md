@@ -1597,6 +1597,7 @@
 - [Nanthakarn limkool](https://github.com/ZEZAY)
 - [Walker Scott]
 - [Vaishnavi]
+- [Nehal Patel](https://github.com/nehalpatel)
 - [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
 - [Ron Mallory](https://github.com/RonMallory)
@@ -1634,7 +1635,6 @@
 - [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
 - [Conor Gaughan](https://github.com/conor-gaughan)
-- [Arpit Pandey](https://github.com./arpitansu)
 - [Deanna Thompson](https://github.com/deannathompson)
 - [Stephanie Stevens](https://github.com/lekaceleb)
 - [Saurabh kumar](https://github.com/LuGO0)
