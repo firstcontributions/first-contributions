@@ -1,6 +1,6 @@
 # Contributors
 - Luis Holzer (https://github.com/Luis089)
-- [Prithvi Kannan] (https://github.com/prithvikannan)
+- [Prithvi Kannan](https://github.com/prithvikannan)
 - [Feroz Mughal](https://github.com/fmugha2)
 - [Eswar Prasad Clinton] (https://github.com/Deepzzz54321/)
 - [Peter Gloor](https://github.com/petergloor)
