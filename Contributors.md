@@ -1,5 +1,6 @@
 # Contributors
 - Luis Holzer (https://github.com/Luis089)
+- [SEYI-JS] (https://github.com/seyi-js)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Feroz Mughal](https://github.com/fmugha2)
 - [Eswar Prasad Clinton] (https://github.com/Deepzzz54321/)
