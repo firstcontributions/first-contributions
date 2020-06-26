@@ -12,6 +12,7 @@
 - pradeep kumar
 - [Lucas Ravy](https://github.com/lucasravy)
 - Akanksha Priya (https://github.com/Spring-dot)
+- Michał Krakiewicz
 - Werner E.
 - adi satrio wibowo
 - Rochisha
