@@ -89,6 +89,7 @@
 - [Nirbhay Singh](https://github.com/Nirbhay007)
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
 - [Faris Hasković](https://github.com/Faski1)
+- Steph Damaica https://github.com/stephDamaica
 - [yvnr](https://github.com/yvnr)
 - Rahul Rajan
 - Adam Asaad
