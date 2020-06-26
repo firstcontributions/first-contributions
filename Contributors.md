@@ -2277,4 +2277,4 @@ Chris Ryan
 [Davin-1](https://github.com/july2017-test/)
 [PepeTheRoya](https://github.com/pepetheroya)
 - [Michael K.](https://github.com/m1c6a3l)
-- [tomoyuch K.](https://github.com/tomoyuch)
+- [tomoyuch](https://github.com/tomoyuch)
