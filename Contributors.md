@@ -40,6 +40,7 @@
 - ankita mishra
 - celia
 - yogeshwaran
+- [Vik-Ch] (https://github.com/Vik-Ch)   
 - tivrfoa
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
