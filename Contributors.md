@@ -1358,6 +1358,7 @@
 - [Yunfei Jing](https://github.com/yunfeijing)
 - [Ole Gensch](https://github.com/Taragos)
 - [Rafal Grzyb](https://github.com/Grzybotron)
+- [Mark Wild](https://github.com/MorkWood2)
 - [sotajensede](https://github.com/sotajensede)
 - [Jack Nowinski](https://github.com/jnowinski)
 - [peterp](https://github.com/peterp)
