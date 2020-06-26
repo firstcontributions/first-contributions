@@ -1785,6 +1785,7 @@
 - [Romanch Sharma](https://github.com/romanchsharma)
 - [Steven Delaney](https://github.com/sddelaney)
 - [Dilith Jayakody](https://github.com/dilithjay)
+- [Gabe Nedden](https://github.com/GabeNedden)
 - [Madusudhanan Bairappan](https://github.com/madhusona)
 - [Jake Kwon](https://github.com/FoxeyesJK)
 - [OmkarLubal](https://github.com/omkarlubal/)
