@@ -14,6 +14,7 @@
 - Akanksha Priya (https://github.com/Spring-dot)
 - Michał Krakiewicz
 - Werner E.
+- [Aichi Chang](https://github.com/aichi-chang)
 - adi satrio wibowo
 - Rochisha
 - Barry Johnson (https://github.com/JamesJohnson11)
