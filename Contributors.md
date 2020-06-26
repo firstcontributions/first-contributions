@@ -15,6 +15,7 @@
 - Michał Krakiewicz
 - Werner E.
 - Werner G.
+- [Robert Bogner](https://github.com/bowclaw)
 - [Aichi Chang](https://github.com/aichi-chang)
 - adi satrio wibowo
 - Rochisha
