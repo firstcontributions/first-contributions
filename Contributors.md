@@ -2241,6 +2241,7 @@
 - [Charles Kuo](https://github.com/kuoyenchia)
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
+- [Meagan](https://github.com/olsenme)
 - [Selam Gessese](https://github.com/sygessese)
 Chris Ryan
 - [Sachin Diwate](https://github.com/dsachin)
