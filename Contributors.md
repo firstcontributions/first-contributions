@@ -689,6 +689,7 @@
 - [Sai charan](https://github.com/Saicharan67)
 - [Uyin Solomon](https://github.com/rootleet)
 - [Caio Canoas](https://github.com/caiocanoas)
+- [Jonathan Tran](https://github.com/jontran1)
 - [Myat Thu Ko](https://github.com/MyatThuKo)
 - [Surya Shankar](https://github.com/Freakqency)
 - [Brandon Allen](https://github.com/eldon2)
