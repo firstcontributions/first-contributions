@@ -2255,3 +2255,4 @@ Chris Ryan
 - [Robert Hunziker](https://github.com/osgard1)
 - [Gladis NDOUAB'S](https://github.com/dincas)
 - Reuven Sayag
+-[Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
