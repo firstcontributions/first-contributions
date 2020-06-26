@@ -1644,6 +1644,7 @@
 - [Amos Mwangi](https://github.com/AmosMwangi)
 - [Cyprian Tingiweh](https://github.com/cypriantingiweh)
 - [Bob Wilson](https://github.com/bwilson753)
+- [collaBasti](https://github.com/collaBasti)
 - [wmorian](https://github.com/wmorian)
 - [Jordi van Dooren](https://github.com/jordivandooren)
 - [Bridget Chew](https://github.com/bchew3)
