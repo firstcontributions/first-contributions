@@ -1,4 +1,5 @@
 # Contributors
+- Yash Gaitonde (https://github.com/ygaitonde)
 - Luis Holzer (https://github.com/Luis089)
 - [SEYI-JS] (https://github.com/seyi-js)
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
