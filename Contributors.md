@@ -49,6 +49,7 @@
 - ankita mishra
 - celia
 - Leszek
+- [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - [Vik-Ch] (https://github.com/Vik-Ch)   
 - tivrfoa
