@@ -63,7 +63,8 @@
 - [Oluwatomi Ayobami](https://github.com/Taurean04)
 - Murat Görgüner
 - Krishnasai
-- [Mahmoud Attia](https://github.com/Atattia
+- [Mahmoud Attia](https://github.com/Atattia)
+- [Mayank Mohak](https://github.com/mayankmohak)
 - Jens D.
 - [Paulo Galuzio](https://github.com/ppgaluzio)
 - [Anuj Upadhyaya](https://github.com/anuj98)
