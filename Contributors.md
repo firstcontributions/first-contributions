@@ -1787,6 +1787,7 @@
 - [Ayoub Idouhamou](https://github.com/ayoub-idouhamou)
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
+- [Mike]
 - [Kirk Lennon](https://github.com/kirklennon)
 - [Phil H.](https://github.com/kungfuphil)
 - [Zachary Yamaoka](https://github.com/zacharyyamaoka)
