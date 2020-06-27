@@ -1638,6 +1638,7 @@
 - [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
 - [Ron Mallory](https://github.com/RonMallory)
+- [John Cotton](https://github.com/johncotton)
 - [Joseph Ng](https://github.com/ktng91)
 - [@brownesc](https://github.com/brownesc)
 - [Chaitanya Sama](https://github.com/chaitanyasama)
