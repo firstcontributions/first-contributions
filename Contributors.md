@@ -37,7 +37,8 @@
 - [Abhishek Vaish](https://github.com/Abhishekvaish)
 - Murat Görgüner
 - Krishnasai
-- [Mahmoud Attia](https://github.com/Atattia
+- [Mahmoud Attia](https://github.com/Atattia)
+- [Mayank Mohak](https://github.com/mayankmohak)
 - Jens D.
 - [Anuj Upadhyaya](https://github.com/anuj98)
 - [Ayush Sinha](https://github.com/ayushsinha-13)
