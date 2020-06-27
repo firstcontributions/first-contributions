@@ -29,6 +29,7 @@
 - Chris Ramos (https://github.com/Cramos711)
 - Rochisha
 - Barry Johnson (https://github.com/JamesJohnson11)
+- [Dickson anyaele] (https://github.com/elitekaycy)
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [Jacob Kerr](https://github.com/jakejack13)
