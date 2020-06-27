@@ -91,6 +91,7 @@
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Karsten W. (https://github.com/Fflowka)
 - Sherry C
+- Dhruv Sachdev (https://github.com/Dhruv-Sachdev)
 - [wilsoncode](https://github.com/wilsoncode)
 - Mihir Rane (https://github.com/ranemihir)
 - [Nirbhay Singh](https://github.com/Nirbhay007)
