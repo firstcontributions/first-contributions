@@ -22,6 +22,7 @@
 - [Robert Bogner](https://github.com/bowclaw)
 - [Aichi Chang](https://github.com/aichi-chang)
 - adi satrio wibowo
+- Dhruv Roy Talukdar
 - Chris B.
 - Chris Ramos (https://github.com/Cramos711)
 - Rochisha
