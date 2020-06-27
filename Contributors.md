@@ -2291,3 +2291,4 @@
 - [Anthony Evans](https://github.com/antonedev)
 - [Eduardo Garza](https://github.com/eduardocgarza)
 - [Jeaniuss](https://github.com/jeaniuss)
+- [Salam Waddah](http://github.com/salamwaddah)
