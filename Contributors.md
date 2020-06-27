@@ -16,6 +16,7 @@
 - [Anshika Gupta](https://githun.com/csendranshi)
 - pradeep kumar
 - [Lucas Ravy](https://github.com/lucasravy)
+- [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
 - Akanksha Priya (https://github.com/Spring-dot)
 - Michał Krakiewicz
 - Werner E.
