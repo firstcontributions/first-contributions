@@ -47,6 +47,7 @@
 - jenny heyyy
 - ankita mishra
 - celia
+- Leszek
 - yogeshwaran
 - [Vik-Ch] (https://github.com/Vik-Ch)   
 - tivrfoa
