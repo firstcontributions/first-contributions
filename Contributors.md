@@ -21,6 +21,7 @@
 - [Robert Bogner](https://github.com/bowclaw)
 - [Aichi Chang](https://github.com/aichi-chang)
 - adi satrio wibowo
+- Chris Ramos (https://github.com/Cramos711)
 - Rochisha
 - Barry Johnson (https://github.com/JamesJohnson11)
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
