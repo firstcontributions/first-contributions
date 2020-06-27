@@ -2299,3 +2299,4 @@ Chris Ryan
 - [Eduardo Garza](https://github.com/eduardocgarza)
 - [Jeaniuss](https://github.com/jeaniuss)
 - [Edward Han](https://github.com/edwardhuahan)
+- [Digituar] (https://github.com/digituar)
