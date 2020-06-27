@@ -2,6 +2,7 @@
 - Yash Gaitonde (https://github.com/ygaitonde)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - Luis Holzer (https://github.com/Luis089)
+- Manzano Akhtar (https://github.com/manzanoakhtar7)
 - [SEYI-JS] (https://github.com/seyi-js)
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Prithvi Kannan](https://github.com/prithvikannan)
