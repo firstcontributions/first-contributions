@@ -2278,3 +2278,4 @@ Chris Ryan
 [PepeTheRoya](https://github.com/pepetheroya)
 - [Michael K.](https://github.com/m1c6a3l)
 - [tomoyuch](https://github.com/tomoyuch)
+- [Eduardo Garza](https://github.com/eduardocgarza)
