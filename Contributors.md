@@ -1031,6 +1031,7 @@
 - [Berkay Coban](https://github.com/bcobann)
 - [Tineke Franssen](https://github.com/TinekeFrineke)
 - [Anurag Sethi](https://github.com/anurag00)
+- [Juan Antonio Barranga Noguera] (https://github.com/jabarragann)
 - [Luis Chilo](https://github.com/gfxargentina)
 - [Markus Wernersbach](https://github.com/wernersbacher)
 - [David E. Williams](https://github.com/laxcougar18)
