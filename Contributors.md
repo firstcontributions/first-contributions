@@ -2310,3 +2310,4 @@ Chris Ryan
 - [Edward Han](https://github.com/edwardhuahan)
 - [Digituar] (https://github.com/digituar)
 - [Bruno Fontes] (https://github.com/brunofontes)
+- Max
