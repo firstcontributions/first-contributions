@@ -2188,6 +2188,7 @@
 - [joshi-b](https://github.com/joshi-b)
 - [Hailey Gu](https://github.com/HaileyGu)
 - Loki
+- [gmonea]
 - [Alexander Garcia](https://github.com/yalex1402)
 - [Simon Aust](http://github.com/siaust)
 - [Phil Liao](https://github.com/phil-ociraptor)
