@@ -4,6 +4,7 @@
 - Samir Mughal (https://github.com/codewithmughal)
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
+- Zion Williamson (Pelicans, number 1)
 - [Britta23714](https://github.com/Britta23714)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
