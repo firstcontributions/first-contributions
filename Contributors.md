@@ -1,5 +1,6 @@
 # Contributors
 - Yash Gaitonde (https://github.com/ygaitonde)
+- Samir Mughal (https://github.com/codewithmughal)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
