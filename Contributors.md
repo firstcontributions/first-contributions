@@ -1,4 +1,5 @@
 # Contributors
+- CodeWithMughal
 - Yash Gaitonde (https://github.com/ygaitonde)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - Luis Holzer (https://github.com/Luis089)
