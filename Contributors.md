@@ -2317,3 +2317,4 @@ Chris Ryan
 - [Digituar] (https://github.com/digituar)
 - [Bruno Fontes] (https://github.com/brunofontes)
 - Max
+- [Susmita Benerjee](https://github.com/Susmo31)
