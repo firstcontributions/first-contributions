@@ -44,6 +44,7 @@
 - Chris Ramos (https://github.com/Cramos711)
 - Rochisha
 - Rama C
+- >[KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
 - Barry Johnson (https://github.com/JamesJohnson11)
 - [Dickson anyaele] (https://github.com/elitekaycy)
