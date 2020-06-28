@@ -48,6 +48,7 @@
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [Jacob Kerr](https://github.com/jakejack13)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
+- [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
 - [Frostack](https://github.com/Frostack)
 - [Fanni Takacs](https://github.com/FanniTakax)
 - [Mihir Parekh](https://github.com/parekhmihir98)
