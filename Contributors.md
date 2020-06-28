@@ -2,6 +2,7 @@
 - CodeWithMughal
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Samir Mughal (https://github.com/codewithmughal)
+- [Amy Yee] (https://github.com/amy-yee)
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - Zion Williamson (Pelicans, number 1)
