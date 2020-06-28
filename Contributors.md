@@ -3,6 +3,7 @@
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Samir Mughal (https://github.com/codewithmughal)
 - [BedrockCoder](https://github.com/BedrockCoder)
+- [Britta23714](https://github.com/Britta23714)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
 - [SEYI-JS] (https://github.com/seyi-js)
