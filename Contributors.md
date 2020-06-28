@@ -14,7 +14,8 @@
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [manish prajapati](https://github.com/Manish-210)
-- [Anshika Gupta](https://githun.com/csendranshi)
+- [Anshika Gupta](https://github.com/csendranshi)
+- [Yash Mihsra](https://github.com/Codedude1)
 - pradeep kumar
 - [Lucas Ravy](https://github.com/lucasravy)
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
