@@ -25,7 +25,7 @@
 | <img src="../assets/poland.png" width="22"> | [Polski](README.pl.md) |
 | <img src="../assets/iran.png" width="22"> | [فارسی](README.fa.md) |
 | <img src="../assets/iran.png" width="22"> | [Persian_Finglish](README.fa.en.md) |
-| <img src="../assets/liechtenstein.png" width="22"> | [Lietuvių kalba](README.lt.md) |
+| <img src="../assets/lithuania.png" width="22"> | [Lietuvių kalba](README.lt.md) |
 | <img src="../assets/south-korea.png" width="22"> <img src="../assets/north-korea.png" width="22"> | [한국어](README.ko.md) |
 | <img src="../assets/germany.png" width="22">  | [Deutsch](README.de.md) |
 | <img src="../assets/china.png" width="22"> <img src="../assets/taiwan.png" width="22"> | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
