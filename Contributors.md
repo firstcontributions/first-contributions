@@ -59,6 +59,7 @@
 - Oluwaseyi Kareem
 - [Fatih Avcı](https://github.com/rinqtmith)
 - aslam khan
+- Zachary Judson
 - annika wischnewsky (https://github.com/wischn)
 - fatima mahmoud
 - tr43om (https://github.com/tr43om)
