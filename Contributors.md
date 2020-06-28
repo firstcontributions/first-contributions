@@ -2,7 +2,11 @@
 - CodeWithMughal
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Samir Mughal (https://github.com/codewithmughal)
+- [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
+- Zion Williamson (Pelicans, number 1)
+- [Britta23714](https://github.com/Britta23714)
+- Jordan Sills (https://github.com/JordanDSills)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
 - [SEYI-JS] (https://github.com/seyi-js)
@@ -20,6 +24,7 @@
 - [Anshika Gupta](https://github.com/csendranshi)
 - [Yash Mihsra](https://github.com/Codedude1)
 - pradeep kumar
+- [Josias Aurel](https://github.com/JosiasAurel)
 - Jeet Bardapurkar (https://github.com/jeetb)
 - [Lucas Ravy](https://github.com/lucasravy)
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
@@ -27,6 +32,7 @@
 - Michał Krakiewicz
 - Werner E.
 - Werner G.
+- Karthick191999
 - [Hasibul Islam](https://github.com/starhasibul)
 - [Robert Bogner](https://github.com/bowclaw)
 - [Aichi Chang](https://github.com/aichi-chang)
@@ -43,6 +49,7 @@
 - [Jacob Kerr](https://github.com/jakejack13)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - [Frostack](https://github.com/Frostack)
+- [Fanni Takacs](https://github.com/FanniTakax)
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - pramish22 (https://github.com/pramish22)
@@ -387,6 +394,7 @@
 - [Duo Chen](https://github.com/duochen13)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
+- [Giridaramoorthy ](https://github.com/Gzix-Joker)
 - [Adin Ilfeld](https://github.com/adinilfeld)
 - [Tony Nicola](https://github.com/tdnicola)
 - [viswitha](https://github.com/viswitha)
@@ -2319,3 +2327,4 @@ Chris Ryan
 - [Bruno Fontes] (https://github.com/brunofontes)
 - Max
 - [Susmita Banerjee](https://github.com/Susmo31)
+- malik
