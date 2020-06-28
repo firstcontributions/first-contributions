@@ -1,4 +1,5 @@
 # Contributors
+- CodeWithMughal
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Samir Mughal (https://github.com/codewithmughal)
 - [BedrockCoder](https://github.com/BedrockCoder)
