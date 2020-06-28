@@ -5,6 +5,7 @@
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - Zion Williamson (Pelicans, number 1)
+- Avya (Avi) Sharma (https://github.com/avyasharma)
 - [Britta23714](https://github.com/Britta23714)
 - Jordan Sills (https://github.com/JordanDSills)
 - Luis Holzer (https://github.com/Luis089)
@@ -100,7 +101,7 @@
 - Deppah
 - [Oliver Mak](https://github.com/oliver139)
 - Eddie Lewis
-- Or Dotan 
+- Or Dotan
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
@@ -159,7 +160,7 @@
 - [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
-- [halo42](https://github.com/halo42) 
+- [halo42](https://github.com/halo42)
 - Hope T
 - [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace] (https://github.com/cswall86)
