@@ -2,6 +2,7 @@
 - CodeWithMughal
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Samir Mughal (https://github.com/codewithmughal)
+- [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Britta23714](https://github.com/Britta23714)
 - Luis Holzer (https://github.com/Luis089)
