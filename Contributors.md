@@ -18,6 +18,7 @@
 - [Charlie Ales](https://github.com/Spaceflightrelated)
 - [Pranjal Aggarwal] (https://github.com/pranjalagg)
 - [srcme20](https://github.com/srcme20)
+- Austin H.
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [manish prajapati](https://github.com/Manish-210)
@@ -100,7 +101,7 @@
 - Deppah
 - [Oliver Mak](https://github.com/oliver139)
 - Eddie Lewis
-- Or Dotan 
+- Or Dotan
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
@@ -159,7 +160,7 @@
 - [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
-- [halo42](https://github.com/halo42) 
+- [halo42](https://github.com/halo42)
 - Hope T
 - [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace] (https://github.com/cswall86)
