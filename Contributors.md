@@ -2327,4 +2327,5 @@ Chris Ryan
 - [Bruno Fontes] (https://github.com/brunofontes)
 - Max
 - [Susmita Banerjee](https://github.com/Susmo31)
+- [Erik Klockare](https://github.com/eklockare)
 - malik
