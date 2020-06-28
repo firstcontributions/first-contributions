@@ -2334,3 +2334,4 @@ Chris Ryan
 - [Susmita Banerjee](https://github.com/Susmo31)
 - [Erik Klockare](https://github.com/eklockare)
 - malik
+- [HakaCode](https://github.com/HakaCode)
