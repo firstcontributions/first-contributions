@@ -2246,6 +2246,7 @@
 - [Jack Delahunt](https://github.com/jackdelahunt)
 - [Benjamin Kiepke] (https://github.com/bkiepke/)
 - [Marc Timperley](https://github.com/MarcTimperley)
+- [Junhyung Choi](https://github.com/Junhyung-Choi)
 - [Allen Yao](https://github.com/ayao451)
 - [Dimitra Athina Moraiti](https://github.com/DimitraMoraiti)
 - [Surya Teja Togaru](https://github.com/ayrustogaru)
