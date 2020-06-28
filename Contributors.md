@@ -55,6 +55,7 @@
 - yogeshwaran
 - [Vik-Ch] (https://github.com/Vik-Ch)   
 - tivrfoa
+- [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
 - [Fatih Avcı](https://github.com/rinqtmith)
