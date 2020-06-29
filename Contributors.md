@@ -2330,16 +2330,14 @@ Chris Ryan
 - [excelsior091224](https://github.com/excelsior091224)
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
-- [Matt Wood] (https://github.com/MattWood21)
-- [Saikat Roy] (https://github.com/njmsaikat)
+- [Matt Wood](https://github.com/MattWood21)
 - [Robert Hunziker](https://github.com/osgard1)
 - [Gladis NDOUAB'S](https://github.com/dincas)
-- Reuven Sayag
-- [claraki] (https://github.com/claraki/)
--[Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
+- [claraki](https://github.com/claraki/)
+- [Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
 - [Sushant Yadav] (https://github.com/sushantyadav1)
-[Davin-1](https://github.com/july2017-test/)
-[PepeTheRoya](https://github.com/pepetheroya)
+- [Davin-1](https://github.com/july2017-test/)
+- [PepeTheRoya](https://github.com/pepetheroya)
 - [Michael K.](https://github.com/m1c6a3l)
 - [tomoyuch](https://github.com/tomoyuch)
 - [Anthony Evans](https://github.com/antonedev)
@@ -2348,9 +2346,8 @@ Chris Ryan
 - [Edward Han](https://github.com/edwardhuahan)
 - [Digituar] (https://github.com/digituar)
 - [Bruno Fontes] (https://github.com/brunofontes)
-- Max
 - [Susmita Banerjee](https://github.com/Susmo31)
+- [Saikat Roy](https://github.com/njmsaikat)
 - [Erik Klockare](https://github.com/eklockare)
-- malik
 - [HakaCode](https://github.com/HakaCode)
 amin-da
