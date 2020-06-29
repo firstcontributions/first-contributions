@@ -1505,6 +1505,7 @@
 - [Turpster](https://github.com/Turpster)
 - [Lian De Ho](https://github.com/LDHo)
 - [Patricia Ray](https://github.com/pray9)
+- [Jeffrey Lui](https://github.com/jlui820)
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss](https://github.com/ceheiss)
 - [diksub](https://github.com/dikisubagja)
