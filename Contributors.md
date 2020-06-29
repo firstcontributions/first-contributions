@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - CodeWithMughal
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
@@ -2356,3 +2356,4 @@ Chris Ryan
 - [HakaCode](https://github.com/HakaCode)
 amin-da
 - [James Ledger](https://github.com/JamesLedger)
+- [steelslugs](https://github.com/steelslugs)
