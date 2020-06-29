@@ -2356,3 +2356,4 @@ Chris Ryan
 - [HakaCode](https://github.com/HakaCode)
 amin-da
 - [James Ledger](https://github.com/JamesLedger)
+- [Dhruval Patel](https://github.com/D-U-Patel)
