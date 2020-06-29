@@ -786,6 +786,7 @@
 - [Rachit Tiwari](https://github.com/rachittiwari8562)
 - [Iniobong Benson](https://github.com/linibensonjr)
 - [Tristan Mc](https://github.com/T-mclennan)
+- [Vishal Anand](https://github.com/vishalofficial965)
 - [Dugg Antocicco](https://github.com/dantocicco)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
