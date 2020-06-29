@@ -130,6 +130,7 @@
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Karsten W. (https://github.com/Fflowka)
 - Sherry C
+- errrii
 - A. Gestin
 - Dhruv Sachdev (https://github.com/Dhruv-Sachdev)
 - [wilsoncode](https://github.com/wilsoncode)
