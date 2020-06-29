@@ -35,6 +35,7 @@
 - [Lucas Ravy](https://github.com/lucasravy)
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
 - Akanksha Priya (https://github.com/Spring-dot)
+- Or Lanir (https://github.com/Laniros)
 - [Dipanjan Jayswal](https://github.com/dipscodehub)
 - Rio Hayakawa
 - Michał Krakiewicz
