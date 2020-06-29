@@ -32,6 +32,7 @@
 - [Lucas Ravy](https://github.com/lucasravy)
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
 - Akanksha Priya (https://github.com/Spring-dot)
+- Rio Hayakawa
 - Michał Krakiewicz
 - Werner E.
 - Werner G.
