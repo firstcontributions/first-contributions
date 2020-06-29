@@ -109,6 +109,7 @@
 - [Ayush Sinha](https://github.com/ayushsinha-13)
 - Deppah
 - [Oliver Mak](https://github.com/oliver139)
+- lk-git
 - Eddie Lewis
 - Or Dotan 
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
