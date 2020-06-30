@@ -52,6 +52,7 @@ Bala Hantsi
 - Werner E.
 - Werner G.
 - Karthick191999
+- [Godfred Gameli](https://github.com/Godfredgameli)
 - [Hasibul Islam](https://github.com/starhasibul)
 - [Robert Bogner](https://github.com/bowclaw)
 - [Aichi Chang](https://github.com/aichi-chang)
