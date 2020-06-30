@@ -313,6 +313,7 @@
 - [Jonathan Watson](https://github.com/jrwatson99)
 - [Akshit Proothi](https://github.com/akshitproothi)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
+- [Tobias] (https://github.com/TobiasSMI)
 - [CF]
 - [Lukas Ferreira Machado](https://github.com/swallville)
 - [Yosef Salmalian](https://github.com/usefss)
