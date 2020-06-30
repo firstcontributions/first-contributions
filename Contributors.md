@@ -2348,6 +2348,7 @@ Chris Ryan
 - [Jeaniuss](https://github.com/jeaniuss)
 - [Edward Han](https://github.com/edwardhuahan)
 - [Digituar] (https://github.com/digituar)
+- [steelslugs] (https://github.com/steelslugs)
 - [Bruno Fontes] (https://github.com/brunofontes)
 - Max
 - [Susmita Banerjee](https://github.com/Susmo31)
