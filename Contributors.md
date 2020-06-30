@@ -117,7 +117,8 @@
 - [Oliver Mak](https://github.com/oliver139)
 - lk-git
 - Eddie Lewis
-- Or Dotan 
+- Or Dotan
+- [bog204](https://github.com/bog204) 
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
