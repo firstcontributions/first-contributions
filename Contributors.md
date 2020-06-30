@@ -554,6 +554,7 @@
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
 - [Katie Wilday](https://github.com/katiewilday)
+- [Moin Khan](https://github.com/moinkhanif)
 - [Blaize Guerra](https://github.com/guerrabl)
 - [Farooq Chawla](https://github.com/farooqhassanchawla)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
