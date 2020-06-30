@@ -248,6 +248,7 @@
 - Jens Krueger
 - Janitha Missaka
 - Sinclair Guthrie
+- Shantanu Kale(https://github.com/pega-sys)
 - Anirudh N
 - Shabunken (https://github.com/shabunken))
 - [Shiva](https://github.com/shivaak)
