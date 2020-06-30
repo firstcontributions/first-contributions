@@ -414,6 +414,7 @@ Bala Hantsi
 - [Kwame Asante](https://github.com/kwamekert)
 - [AxVultis](https://github.com/AxVultis)
 - [Cassio Leite](https://github.com/cassiopl)
+- Richard
 - [Zulfiqar Ahmed](https://github.com/zulfiqarjunejo)
 - [Jacob Rodgers](https://github.com/rodgersj097)
 - [Anirudh Sharma](https://github.com/Minecraftian14)
