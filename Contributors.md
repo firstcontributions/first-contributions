@@ -341,6 +341,7 @@
 - CatTail
 - [Tarun Kanodia](https://github.com/tarunkanodia)
 - [Juan Pablo Pinto](https://github.com/jpinto7)
+- [Wolfgang Kramer}(https://github.com/WolfgangKramer/Fints-MariaDB-Banking)
 - [Mike Dombrowski](https://github.com/m-dombrowski)
 - [Naqiya Ghulamali](https://github.com/Kia-G)
 - [Alka Trivedi](https://github.com/Alka-git12)
