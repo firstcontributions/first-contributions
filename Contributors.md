@@ -13,6 +13,7 @@
 - [Amy Yee] (https://github.com/amy-yee)
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
+- [Nilesh Hazra](https://github.com/nileshhazra)
 - Zion Williamson (Pelicans, number 1)
 - [Britta23714](https://github.com/Britta23714)
 - Jordan Sills (https://github.com/JordanDSills)
