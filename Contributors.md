@@ -16,7 +16,6 @@ Bala Hantsi
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - Zion Williamson (Pelicans, number 1)
-- Avya (Avi) Sharma (https://github.com/avyasharma)
 - [Britta23714](https://github.com/Britta23714)
 - Jordan Sills (https://github.com/JordanDSills)
 - Su Willu (https://github.com/SuWillu)
@@ -125,7 +124,7 @@ Bala Hantsi
 - lk-git
 - Eddie Lewis
 - Or Dotan
- add-avya-sharma
+- Avya (Avi) Sharma (https://github.com/avyasharma)
 - [bog204](https://github.com/bog204) 
 master
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
