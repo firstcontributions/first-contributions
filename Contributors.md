@@ -8,6 +8,7 @@
 - Michael He (https://github.com/yh8953)
 - Wolfgang Feurer (https://github.com/wfeurer)
 Bala Hantsi
+- Kieran Ringel (hhtps://github.com/kieran-ringel)
 - [Shakeib Shaida] (https://github.com/shakeib98)
 - Samir Mughal (https://github.com/codewithmughal)
 - [Hai Dao] (https://github.com/haidao0923)
