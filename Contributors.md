@@ -240,6 +240,7 @@
 - Sylveste
 - Shweta
 - Upquark00
+- Chjkaro [baonq243](https://github.com/baonq243)
 - anizhou
 - Jens Krueger
 - Janitha Missaka
