@@ -1,5 +1,6 @@
 # Contributors
 - CodeWithMughal
+- Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
 - Andres Advincula (https://github.com/an288705)
