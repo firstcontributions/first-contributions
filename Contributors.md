@@ -66,6 +66,7 @@ Bala Hantsi
 - Stoney96
 - Barry Johnson (https://github.com/JamesJohnson11)
 - [Dickson anyaele] (https://github.com/elitekaycy)
+- [Cristhyano](https://github.com/crdpa)
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [Jacob Kerr](https://github.com/jakejack13)
