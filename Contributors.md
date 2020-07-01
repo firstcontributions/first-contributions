@@ -1,6 +1,7 @@
 # Contributors
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
+- [Virendra Giri] (https://github.com/ThePresence)
 - Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
@@ -18,7 +19,7 @@ Bala Hantsi
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - Zion Williamson (Pelicans, number 1)
 - [Britta23714](https://github.com/Britta23714)
-- [Lakshay Yadav](https://github.com/Lucky0108) 
+- [Lakshay Yadav](https://github.com/Lucky0108)
 - Jordan Sills (https://github.com/JordanDSills)
 - Su Willu (https://github.com/SuWillu)
 - Luis Holzer (https://github.com/Luis089)
@@ -96,7 +97,7 @@ Bala Hantsi
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
-- [Vik-Ch] (https://github.com/Vik-Ch)   
+- [Vik-Ch] (https://github.com/Vik-Ch)
 - tivrfoa
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
@@ -132,7 +133,7 @@ Bala Hantsi
 - lk-git
 - Eddie Lewis
 - Or Dotan
-- [bog204](https://github.com/bog204) 
+- [bog204](https://github.com/bog204)
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
@@ -193,8 +194,8 @@ Bala Hantsi
 - [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
-- [halo42](https://github.com/halo42) 
-- motr528 
+- [halo42](https://github.com/halo42)
+- motr528
 - Hope T
 - [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace] (https://github.com/cswall86)
