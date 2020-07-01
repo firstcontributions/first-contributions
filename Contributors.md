@@ -1808,6 +1808,7 @@ Bala Hantsi
 - [Jyhe Mark](https://github.com/jyhemark)
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
 - [Arzyon](https://github.com/Arzyon)
+- [haris iltifat](https://github.com/harisiltifat)
 - [Lamouri Marwane](https://github.com/Lamourio)
 - [Aidan McArthur](https://github.com/amcarthur)
 - [MegaSalmon](https://github.com/MegaSalmon)
