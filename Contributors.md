@@ -50,6 +50,7 @@ Bala Hantsi
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
 - Akanksha Priya (https://github.com/Spring-dot)
 - [Dipanjan Jayswal](https://github.com/dipscodehub)
+- [TamaraNC] (https://github.com/TamaraNC)
 - Rio Hayakawa
 - Michał Krakiewicz
 - Werner E.
