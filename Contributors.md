@@ -1611,7 +1611,7 @@
 - [Shaswat Swarup](https://github.com/shaswat94)
 - [Daryl Galvez](https://github.com/darylkevin)
 - [Snehansh Akhaury](https://github.com/snehansh)
-- [Princewill Ohuabunwa] (https://github.com/princewill)
+- [Princewill Ohuabunwa](https://github.com/princewill)
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Jared Strober](https://github.com/JaredStrober)
 - [Andy Wei](https://github.com/AndrewWei-Colosseum)
@@ -1640,7 +1640,7 @@
 - [Damilola Oduronbi](https://github.com/oracleot)
 - [Jason Liu](https://github.com/jkfliu)
 - [Vivek Gupta](https://github.com/vivekguptaraw)
--Hrushikesh Akhade
+- Hrushikesh Akhade
 - [Julian Boyce](https://github.com/julianboyce)
 - [Pete James](https://github.com/PeteJames21)
 - [Jansen Yan](https://github.com/jyan500)
