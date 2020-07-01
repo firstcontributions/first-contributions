@@ -1252,6 +1252,7 @@ Bala Hantsi
 - [Martin Zamarski](https://github.com/momom88)
 - [Ayush Khandelwal](https://github.com/thegaribguy)
 - [Rocky Liao](https://github.com/SeemsRocky)
+- [Garrett Groce](https://github.com/ggroce)
 - [Saylee Pradhan](https://github.com/sayleepradhan)
 - [Mohamed Shiha](https://github.com/MohamedShiha)
 - [Alexandros Kalamaras](https://github.com/akalamaras)
