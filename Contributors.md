@@ -115,6 +115,7 @@ Bala Hantsi
 - [Oluwatomi Ayobami](https://github.com/Taurean04)
 - Murat Görgüner
 - Krishnasai
+- Yoon-Orn Chin
 - [Mahmoud Attia](https://github.com/Atattia)
 - [Mayank Mohak](https://github.com/mayankmohak)
 - Jens D.
