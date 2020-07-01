@@ -25,6 +25,7 @@ ram964
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - Amit
+- [Karine Valença](https://github.com/KarineValenca/)
 - [Harshavardhan](https://github.com/Ajatasatruvu)
 - Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
