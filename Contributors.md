@@ -61,6 +61,7 @@ Bala Hantsi
 - adi satrio wibowo
 - belublem
 - Dhruv Roy Talukdar
+- John
 - Chris B.
 - Chris Ramos (https://github.com/Cramos711)
 - Rochisha
