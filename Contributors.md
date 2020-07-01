@@ -2,6 +2,7 @@
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
 - Daniel Pyon (https://github.com/danielpyon)
+- Sylvain k (https://github.com/skamdem)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
 - Andres Advincula (https://github.com/an288705)
