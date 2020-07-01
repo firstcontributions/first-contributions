@@ -79,6 +79,7 @@ Bala Hantsi
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - pramish22 (https://github.com/pramish22)
 - rahul123@
+- [dumbitdownjr] (https://github.com/dumbitdownjr)
 - zoe (https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
 - fflobert
