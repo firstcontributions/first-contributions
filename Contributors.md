@@ -2288,6 +2288,7 @@ Bala Hantsi
 - [Ahmed Abdulkarim](https://github.com/quipcode)
 - [David Xu](https://github.com/Thexumaker)
 - [Andrew]
+- [Ryan Hannant]
 - [Oxana2014]
 - [Jagadish](https://github.com/Jaggu437)
 - [Steven S](https://github.com/sysung)
