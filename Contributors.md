@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
 - Daniel Pyon (https://github.com/danielpyon)
@@ -26,6 +26,7 @@ Bala Hantsi
 - [SEYI-JS] (https://github.com/seyi-js)
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
+- [AnycoK](https://github.com/AnycoK)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Feroz Mughal](https://github.com/fmugha2)
 - [Eswar Prasad Clinton] (https://github.com/Deepzzz54321/)
