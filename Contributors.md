@@ -47,7 +47,7 @@ Bala Hantsi
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [manish prajapati](https://github.com/Manish-210)
-  [Curt Bridgers] (https://github.com/orcalikastecona)
+- [Curt Bridgers] (https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
 - [Yash Mihsra](https://github.com/Codedude1)
 - [oakoudad](https://github.com/oakoudad1)
