@@ -21,6 +21,7 @@ Bala Hantsi
 - Zion Williamson (Pelicans, number 1)
 - [Britta23714](https://github.com/Britta23714)
 - [Silas Monahan](https://github.com/monahans)
+- Gerald Tay (https://github.com/penguinoob)
 - [Lakshay Yadav](https://github.com/Lucky0108) 
 - Jordan Sills (https://github.com/JordanDSills)
 - Su Willu (https://github.com/SuWillu)
