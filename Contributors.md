@@ -40,6 +40,7 @@ Bala Hantsi
 - [Ines Romdhani](https://github.com/inesRom)
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
+- [Zekinah Lecaros](https://github.com/zekinah)
 - [manish prajapati](https://github.com/Manish-210)
 - [Anshika Gupta](https://github.com/csendranshi)
 - [Yash Mihsra](https://github.com/Codedude1)
