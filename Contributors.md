@@ -10,6 +10,7 @@
 - Wolfgang Feurer (https://github.com/wfeurer)
 - microcluster (https://github.com/microcluster)
 Bala Hantsi
+- Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
 - [Shakeib Shaida] (https://github.com/shakeib98)
 - Samir Mughal (https://github.com/codewithmughal)
 - [Hai Dao] (https://github.com/haidao0923)
