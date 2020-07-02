@@ -2379,6 +2379,7 @@ Chris Ryan
 [PepeTheRoya](https://github.com/pepetheroya)
 - [Michael K.](https://github.com/m1c6a3l)
 - [tomoyuch](https://github.com/tomoyuch)
+- [Daniel Hewitson](https://github.com/DHewitson1991)
 - [Anthony Evans](https://github.com/antonedev)
 - [mich](https://github.com/stardust229)
 - [Eduardo Garza](https://github.com/eduardocgarza)
