@@ -30,6 +30,7 @@ Bala Hantsi
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
+- Vaja L.
 - [Chris Richardson] (https://github.com/ctrich) 
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M] (https://github.com/muthuraj27)
