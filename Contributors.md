@@ -10,16 +10,19 @@
 - Wolfgang Feurer (https://github.com/wfeurer)
 - microcluster (https://github.com/microcluster)
 Bala Hantsi
+- Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
 - [Shakeib Shaida] (https://github.com/shakeib98)
 - Samir Mughal (https://github.com/codewithmughal)
 - [Hai Dao] (https://github.com/haidao0923)
 - [Amy Yee] (https://github.com/amy-yee)
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
+- [Faith Gaiciumia] (https://github.com/faithgaiciumia)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - Zion Williamson (Pelicans, number 1)
 - [Britta23714](https://github.com/Britta23714)
 - [Silas Monahan](https://github.com/monahans)
+- Gerald Tay (https://github.com/penguinoob)
 - [Lakshay Yadav](https://github.com/Lucky0108) 
 - Jordan Sills (https://github.com/JordanDSills)
 - Su Willu (https://github.com/SuWillu)
@@ -29,8 +32,11 @@ Bala Hantsi
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
+- Vaja L.
+- [Piyush Bajaj](https://github.com/piyushxbajaj)
 - [Chris Richardson] (https://github.com/ctrich) 
 - [Prithvi Kannan](https://github.com/prithvikannan)
+- [Muthuraj M] (https://github.com/muthuraj27)
 - [Feroz Mughal](https://github.com/fmugha2)
 - [Eswar Prasad Clinton] (https://github.com/Deepzzz54321/)
 - [Peter Gloor](https://github.com/petergloor)
@@ -42,6 +48,7 @@ Bala Hantsi
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [manish prajapati](https://github.com/Manish-210)
+  [Curt Bridgers] (https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
 - [Yash Mihsra](https://github.com/Codedude1)
 - [oakoudad](https://github.com/oakoudad1)
@@ -258,6 +265,7 @@ Bala Hantsi
 - Andrew Barton
 - Sylveste
 - Shweta
+- icysn
 - Upquark00
 - Chjkaro [baonq243](https://github.com/baonq243)
 - anizhou
@@ -517,6 +525,7 @@ Bala Hantsi
 - [Kyle Conlon](https://github.com/KConlon13)
 - [Dhairya](https://github.com/dhairya2019)
 - [Pratik Singh](https://github.com/kitarp29)
+- [Joshua Ryan Velasquez](https://github.com/joshua-afk)
 - [Priyanka Jalan](https://github.com/prianka01)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
@@ -531,6 +540,7 @@ Bala Hantsi
 - [Neil Sharma](https://github.com/neil-sharma-123)
 - [Newman Thurairatnam](https://github.com/NewmanJ1987)
 - [Livia Hedin](https://github.com/LivHed)
+- [Thong La] (https://github.com/tkla)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [dpluong](https://github.com/dpluong)
 - [Ajith Arakkal](https://github.com/Ajith1202)
@@ -1522,6 +1532,7 @@ Bala Hantsi
 - [Calen Robinette](https://github.com/calenrobinette)
 - [Guen Jargalsaikhan](https://github.com/guen0610)
 - [Kevin Dowling](https://github.com/tellikakneezus)
+- [David Amaku] (https://github.com/maestroh1git)
 - [HappyCappybara](https://github.com/happycappybara)
 - [c0dr7](https://github.com/c0dr7)
 - [Arham Abiyan](https://github.com/arham09)
@@ -2372,6 +2383,7 @@ Chris Ryan
 - [Robert Hunziker](https://github.com/osgard1)
 - [Gladis NDOUAB'S](https://github.com/dincas)
 - Reuven Sayag
+-Gopal Dasbairagya
 - [claraki] (https://github.com/claraki/)
 -[Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
 - [Sushant Yadav] (https://github.com/sushantyadav1)
@@ -2387,6 +2399,7 @@ Chris Ryan
 - [Edward Han](https://github.com/edwardhuahan)
 - [Digituar] (https://github.com/digituar)
 - [steelslugs] (https://github.com/steelslugs)
+- [dotmiki] (https://github.com/dotmiki)
 - [Bruno Fontes] (https://github.com/brunofontes)
 - Max
 - [Susmita Banerjee](https://github.com/Susmo31)
@@ -2401,3 +2414,6 @@ amin-da
 - [Brian Wolff](https://github.com/bdwolff)]
 - [MesubenJeemusu](https://github.com/mesubenjeemusu)
 - [Toni Tester] (My first contribution)
+- [Matthew MacFadyen] (https://github.com/mattmacfadyen96)]
+- [Niels Ehehalt] (https://github.com/Niels1303)
+ 
