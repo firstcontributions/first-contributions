@@ -1100,6 +1100,7 @@ Jeremiah Harkins
 - [Visaj Kapadia](https://github.com/visajkapadia)
 - [Jorge Gabitto](https://github.com/jgabitto)
 - [Yvon Manzi](https://github.com/yvonmanzi)
+- [Petr Rajtslegr](https://github.com/RajceP)
 - [Genard Montes](https://github.com/G-Montes)
 - [Trevor Seyller](https://github.com/seyllert)
 - [Flavio Stutz](https://github.com/flaviostutz)
