@@ -16,6 +16,7 @@ Bala Hantsi
 - Samir Mughal (https://github.com/codewithmughal)
 - [Hai Dao] (https://github.com/haidao0923)
 - [Amy Yee] (https://github.com/amy-yee)
+- [David Sykes] (https://github.com/davidjsykes)
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
