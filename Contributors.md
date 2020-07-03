@@ -71,6 +71,7 @@ Bala Hantsi
 - Werner E.
 - Werner G.
 - Karthick191999
+- Dana Sherman
 - [Godfred Gameli](https://github.com/Godfredgameli)
 - [Hasibul Islam](https://github.com/starhasibul)
 - [Robert Bogner](https://github.com/bowclaw)
