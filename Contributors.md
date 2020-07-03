@@ -97,6 +97,7 @@ Jeremiah Harkins
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - pramish22 (https://github.com/pramish22)
 - rahul123@
+- [Rafael Farias Lima](https://github.com/finhaa)
 - [dumbitdownjr] (https://github.com/dumbitdownjr)
 - zoe (https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
