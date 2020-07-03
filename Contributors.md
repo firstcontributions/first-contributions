@@ -74,6 +74,7 @@ Bala Hantsi
 - belublem
 - Dhruv Roy Talukdar
 - John
+Jeremiah Harkins
 - Chris B.
 - Chris Ramos (https://github.com/Cramos711)
 - Rochisha
