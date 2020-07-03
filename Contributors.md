@@ -184,6 +184,7 @@ Jeremiah Harkins
 - Steph Damaica https://github.com/stephDamaica
 - [yvnr](https://github.com/yvnr)
 - Rahul Rajan
+- Shachindra Pandit
 - Adam Asaad
 - Dagmar Hengesbach
 - Falguni Raina
