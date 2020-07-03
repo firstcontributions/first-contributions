@@ -25,7 +25,7 @@ Bala Hantsi
 - [Britta23714](https://github.com/Britta23714)
 - [Silas Monahan](https://github.com/monahans)
 - Gerald Tay (https://github.com/penguinoob)
-- [Lakshay Yadav](https://github.com/Lucky0108) 
+- [Lakshay Yadav](https://github.com/Lucky0108)
 - Jordan Sills (https://github.com/JordanDSills)
 - Su Willu (https://github.com/SuWillu)
 - Luis Holzer (https://github.com/Luis089)
@@ -36,7 +36,7 @@ Bala Hantsi
 - [AnycoK](https://github.com/AnycoK)
 - Vaja L.
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
-- [Chris Richardson] (https://github.com/ctrich) 
+- [Chris Richardson] (https://github.com/ctrich)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M] (https://github.com/muthuraj27)
 - [Feroz Mughal](https://github.com/fmugha2)
@@ -44,6 +44,7 @@ Bala Hantsi
 - [Peter Gloor](https://github.com/petergloor)
 - [Charlie Ales](https://github.com/Spaceflightrelated)
 - [Pranjal Aggarwal] (https://github.com/pranjalagg)
+- [Rajesh Padigela] (https://github.com/rajeshpadigela)
 - [Paul Mueller] (https://github.com/potawatomboy)
 - [srcme20](https://github.com/srcme20)
 - [Ines Romdhani](https://github.com/inesRom)
@@ -148,7 +149,7 @@ Jeremiah Harkins
 - lk-git
 - Eddie Lewis
 - Or Dotan
-- [bog204](https://github.com/bog204) 
+- [bog204](https://github.com/bog204)
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
@@ -209,8 +210,8 @@ Jeremiah Harkins
 - [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
-- [halo42](https://github.com/halo42) 
-- motr528 
+- [halo42](https://github.com/halo42)
+- motr528
 - Hope T
 - [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace] (https://github.com/cswall86)
