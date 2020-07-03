@@ -2414,6 +2414,7 @@ Chris Ryan
 - [Susmita Banerjee](https://github.com/Susmo31)
 - [Erik Klockare](https://github.com/eklockare)
 - malik
+- [Guruprasad Veerannavaru] (https://github.com/urguru)
 - [HakaCode](https://github.com/HakaCode)
 amin-da
 - [James Ledger](https://github.com/JamesLedger)
