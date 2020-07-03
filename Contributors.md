@@ -79,6 +79,7 @@ Bala Hantsi
 Jeremiah Harkins
 - Chris B.
 - Chris Ramos (https://github.com/Cramos711)
+- Lumi-H
 - Rochisha
 - Rama C
 - >[KhadkaBinu](https://github.com/khadkabinay)
