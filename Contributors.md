@@ -132,6 +132,7 @@ Jeremiah Harkins
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - cw
 - fis Arain
+- Seb Ots
 - [Jane Muthoni](https://github.com/muchirijane)
 - [Mahmoud Attia](https://github.com/Atattia)
 - [Akash Raj](https://github.com/aaksr)
