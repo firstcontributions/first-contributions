@@ -115,6 +115,7 @@ Jeremiah Harkins
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
 - [Fatih Avcı](https://github.com/rinqtmith)
+- [dkgian](https://github.com/dkgian)
 - aslam khan
 - Zachary Judson
 - annika wischnewsky (https://github.com/wischn)
