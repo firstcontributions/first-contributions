@@ -2447,3 +2447,4 @@ amin-da
 - [Marcio Rocha] (https://github.com/marciojunior88)
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
 - [Konstantin Grigorev] (https://github.com/konstantingrigorev)
+- [Anna e só](https://github.com/contraexemplo)
