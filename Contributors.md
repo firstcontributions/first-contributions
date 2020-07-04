@@ -25,6 +25,7 @@ Bala Hantsi
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - Zion Williamson (Pelicans, number 1)
+- [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
 - [Silas Monahan](https://github.com/monahans)
 - [Aminat Yakubu] (https://github.com/giselle2323/)
