@@ -33,6 +33,7 @@ Bala Hantsi
 - Gerald Tay (https://github.com/penguinoob)
 - [Lakshay Yadav](https://github.com/Lucky0108) 
 - Jordan Sills (https://github.com/JordanDSills)
+- Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Su Willu (https://github.com/SuWillu)
 - [Pankaj Khushalani] (https://github.com/pk-218)
 - Luis Holzer (https://github.com/Luis089)
