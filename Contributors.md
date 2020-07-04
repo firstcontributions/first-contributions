@@ -724,6 +724,7 @@ Jeremiah Harkins
 - [Eric Sanders](https://github.com/BigECire)
 - [Urse Searle](https://github.com/GleebleNeeble)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
+- [Nassima Allaoui](https://github.com/allnassima)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [Safal Adhikari](https://github.com/safaladhikari1)
 - [Mayank Rikh](https://github.com/mrikh)
