@@ -100,6 +100,7 @@ Jeremiah Harkins
 - [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
 - [Frostack](https://github.com/Frostack)
 - [Fanni Takacs](https://github.com/FanniTakax)
+- [Yondy](https://github.com/dms-yondy)
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - pramish22 (https://github.com/pramish22)
