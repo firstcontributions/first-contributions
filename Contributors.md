@@ -2,6 +2,7 @@
 - Git Goode
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
+- Ghassan Alrayyes
 - Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
