@@ -34,6 +34,7 @@ Bala Hantsi
 - [Lakshay Yadav](https://github.com/Lucky0108) 
 - Jordan Sills (https://github.com/JordanDSills)
 - Su Willu (https://github.com/SuWillu)
+- [Pankaj Khushalani] (https://github.com/pk-218)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
 - [SEYI-JS] (https://github.com/seyi-js)
