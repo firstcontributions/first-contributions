@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Git Goode
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
@@ -2435,3 +2435,4 @@ amin-da
 - [Niels Ehehalt] (https://github.com/Niels1303)
 - [Marcio Rocha] (https://github.com/marciojunior88)
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
+- [haatoresu] (https://github.com/haatoresu)
