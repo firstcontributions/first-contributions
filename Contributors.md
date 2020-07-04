@@ -207,6 +207,7 @@ Jeremiah Harkins
 - [Sebastien Casimir](https://github.com/scasimir327)
 - [Sharukh](https://github.com/syedm1)
 - ram964
+- [whabbot](https://github.com/whabbot)
 - [Sachin Naik]
 - [Praveen Nair](https://github.com/PraveenCNR)
 - Aditya Tambi (https://github.com/adityatambi)
