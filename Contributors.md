@@ -12,6 +12,7 @@
 - Michael He (https://github.com/yh8953)
 - Wolfgang Feurer (https://github.com/wfeurer)
 - microcluster (https://github.com/microcluster)
+- [Sean Gorham](https://github.com/sgorham)
 Bala Hantsi
 - Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
 - [nouvelle](https://github.com/nouvelle)
