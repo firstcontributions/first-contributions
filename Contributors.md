@@ -2448,3 +2448,4 @@ amin-da
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
 - [Konstantin Grigorev] (https://github.com/konstantingrigorev)
 - [Anna e só](https://github.com/contraexemplo)
+- [Felipe Windmoller](https://github.com/felipewind)
