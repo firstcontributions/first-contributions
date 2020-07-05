@@ -2372,6 +2372,7 @@ Jeremiah Harkins
 - [Kherin Bundhoo](https://github.com/kherin)
 - Ahmed Zaki
 - [Zhang heng](https://github.com/msdn129)
+- [Bill Edwards](https://github.com/AdditionalPylons
 - Yuvraj Metrani(https://github.com/yuvrajmetrani2)
 - [Pierce McGeough](https://github.com/piercemcgeough)
 - [AmineAML](https://github.com/AmineAML)
