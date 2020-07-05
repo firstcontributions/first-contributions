@@ -439,6 +439,7 @@ Jeremiah Harkins
 - [Basian Lesi](https://github.com/BasianLesi)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Andrea Grillo](https://github.com/andregri)
+- [Ricardo Patiño](https://github.com/richypati)
 - [Pranav Garg](https://github.com/PranavGarg01/)
 - [Michael Cope](https://github.com/Mecope1/)
 - [Chathura Nimesh](https://github.com/kana800)
