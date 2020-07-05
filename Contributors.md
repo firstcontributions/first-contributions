@@ -68,6 +68,7 @@ Bala Hantsi
 - [oakoudad](https://github.com/oakoudad1)
 - pradeep kumar
 - glakshmi
+- [Islam Umarov](https://github.com/UmarovIslam)
 - [Josias Aurel](https://github.com/JosiasAurel)
 - Jeet Bardapurkar (https://github.com/jeetb)
 - [Vicente015](https://github.com/Vicente015)
