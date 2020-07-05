@@ -2466,5 +2466,6 @@ amin-da
 - [Patrick Williams] (https://github.com/anvilpw)
 - [Felipe Windmoller](https://github.com/felipewind)
 - [R2Jens2](https://github.com/r2jens2)
-- [Jeremy Jones] (https://github.com/jerome1232)
 - [King0fSpace] (https://github.com/king0fspace)
+- [Jeremy Jones] (https://github.com/jerome1232)
+
