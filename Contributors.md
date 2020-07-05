@@ -45,6 +45,7 @@ Bala Hantsi
 - [AnycoK](https://github.com/AnycoK)
 - Vaja L.
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
+- [Pratyush Kumar](https://github.com/Pratyukumar)
 - [Chris Richardson] (https://github.com/ctrich)
 - [Harshank Pathak](https://github.com/H4rsh4nk) 
 - [Prithvi Kannan](https://github.com/prithvikannan)
