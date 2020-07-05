@@ -374,6 +374,7 @@ Jeremiah Harkins
 - [Zaid Jilani](https://github.com/zjilani)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Jonathan Watson](https://github.com/jrwatson99)
+- [Jason Blais](https://github.com/jasonblais)
 - [Akshit Proothi](https://github.com/akshitproothi)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Tobias] (https://github.com/TobiasSMI)
