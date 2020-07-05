@@ -343,6 +343,7 @@ Jeremiah Harkins
 - [Shaik Zayeer Hussain](https://github.com/Zayeer)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
+- [Abiola Farounbi](https://github.com/Abiola-Farounbi)
 - [Temitope Babatola](https://github.com/BBimie)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Juan Alegría](https://github.com/zejiran)
