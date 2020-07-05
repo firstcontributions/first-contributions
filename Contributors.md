@@ -244,6 +244,7 @@ Jeremiah Harkins
 - [Joe Vu](https://github.com/coz119) 🤓
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
+- [Philip Paul](https://github.com/philippaul1998)
 - [Triona Moynihan](https://github.com/Tmoyni)
 - [Dana Brannon](https://github.com/dmbrannon)
 - [Klaus-Dieter Warzecha](https://github.com/klauswarzecha)
