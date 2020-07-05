@@ -315,6 +315,7 @@ Jeremiah Harkins
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Rui Luís
+- Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
 - [Ali Risheh](https://github.com/aicam)
