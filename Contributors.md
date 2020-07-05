@@ -1,7 +1,8 @@
-﻿# Contributors
+# Contributors
 - Git Goode
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
+-Eiseid
 - Ghassan Alrayyes
 - Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
