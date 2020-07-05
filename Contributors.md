@@ -8,6 +8,7 @@
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
 - [Ralph Louis Gopez](https://github.com/sevora)
+- Vysh kk (https://github.com/Vyshkk)
 - Andres Advincula (https://github.com/an288705)
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Michael He (https://github.com/yh8953)
