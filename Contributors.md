@@ -2476,3 +2476,4 @@ amin-da
 - [Felipe Windmoller](https://github.com/felipewind)
 - [R2Jens2](https://github.com/r2jens2)
 - [Jeremy Jones] (https://github.com/jerome1232)
+- [Fatih Kula](https://github.com/fatihkula)
