@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 -  Git Goode
 -  [Taha Dharamsi](https://github.com/tahanzania)
 -  CodeWithMughal
@@ -2439,4 +2438,10 @@
 -  [Niels Ehehalt](https://github.com/Niels1303)
 -  [Marcio Rocha](https://github.com/marciojunior88)
 -  [Bhavesh Vaghela](https://github.com/vaghelabhavesh)
+-  [Konstantin Grigorev] (https://github.com/konstantingrigorev)
+-  [Anna e só](https://github.com/contraexemplo)
+-  [Patrick Williams] (https://github.com/anvilpw)
+-  [Felipe Windmoller](https://github.com/felipewind)
+-  [R2Jens2](https://github.com/r2jens2)
+-  [Jeremy Jones] (https://github.com/jerome1232)
 -  [Dariusz Bartyzel](https://github.com/Noxtirion)
