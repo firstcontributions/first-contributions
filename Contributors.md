@@ -75,6 +75,7 @@ Bala Hantsi
 - pradeep kumar
 - glakshmi
 - [Islam Umarov](https://github.com/UmarovIslam)
+- [Tushar Garg] (https://github.com/tushargarg875)
 - [Josias Aurel](https://github.com/JosiasAurel)
 - Jeet Bardapurkar (https://github.com/jeetb)
 - [Vicente015](https://github.com/Vicente015)
