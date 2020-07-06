@@ -205,6 +205,7 @@ Jeremiah Harkins
 - errrii
 - $!D
 - A. Gestin
+- [Jeremy Moudy](https://github.com/j-moudy)
 - Dhruv Sachdev (https://github.com/Dhruv-Sachdev)
 - [wilsoncode](https://github.com/wilsoncode)
 - Mihir Rane (https://github.com/ranemihir)
