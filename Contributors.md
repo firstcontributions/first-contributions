@@ -519,6 +519,7 @@ Jeremiah Harkins
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Swarag-N👩‍🚀](https://github.com/Swarag-N)
 - Similoluwa Okunowo
+- [Hadi Tahmasbi] (https://github.com/Hadit1993)
 - [nilayrajderkar](https://github.com/nilayrajderkar)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
