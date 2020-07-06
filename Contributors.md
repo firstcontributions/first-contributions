@@ -2477,3 +2477,4 @@ amin-da
 - [R2Jens2](https://github.com/r2jens2)
 - [Jeremy Jones] (https://github.com/jerome1232)
 - [Fatih Kula](https://github.com/fatihkula)
+- [James Hough](https://github.com/jehough)
