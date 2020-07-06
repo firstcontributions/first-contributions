@@ -119,6 +119,7 @@ Jeremiah Harkins
 - [Yondy](https://github.com/dms-yondy)
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
+- [PikaPool](https://github.com/Pika-Pool/)
 - pramish22 (https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
