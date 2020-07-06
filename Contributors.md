@@ -4,7 +4,7 @@
 - CodeWithMughal
 -Eiseid
 - Ghassan Alrayyes
-- [Jacob Garcia] (https://github.com/JacobGDev)
+- [Jacob Garcia] (https://github.com/JacobRobertG)
 - [Anna Wijetunga] (https://github.com/AnnaWijetunga)
 - Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
