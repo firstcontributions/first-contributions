@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Git Goode
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
@@ -1445,6 +1445,7 @@ Jeremiah Harkins
 - [Bassem - NextGLabs](https://github.com/nextglabs)
 - [Raghid Elewa](https://github.com/relewa)
 - [Ryan Deckard](https://github.com/rldeckard)
+- [Metkel Kebede](https://github.com/MetkelK)
 - [Abhishek Mohite](https://github.com/astroncoda)
 - [Saullo Carvalho](https://github.com/saullocarvalho)
 - [Richard Chan](https://github.com/NG-Rich/)
