@@ -87,6 +87,7 @@ Dante Chakravorti
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
 - Akanksha Priya (https://github.com/Spring-dot)
 - [Dipanjan Jayswal](https://github.com/dipscodehub)
+- [Carlos Hernandez](https://github.com/caedhesa)
 - Rio Hayakawa
 - Michał Krakiewicz
 - Werner E.
