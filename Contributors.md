@@ -19,6 +19,7 @@
 - microcluster (https://github.com/microcluster)
 - [Sean Gorham](https://github.com/sgorham)
 Bala Hantsi
+Dante Chakravorti
 - Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
 - [nouvelle](https://github.com/nouvelle)
 - [Shakeib Shaida] (https://github.com/shakeib98)
