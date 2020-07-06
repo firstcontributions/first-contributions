@@ -260,6 +260,7 @@ Jeremiah Harkins
 - [Klaus-Dieter Warzecha](https://github.com/klauswarzecha)
 - Jahnavi(https://github.com/jahnavi-muralidhar)
 - [Atharva Ikhar](https://github.com/atharva444/)
+- Kristin Bradley (https://github.com/acromafireair)
 - Amit
 - [Aakash Kashyap](https://github.com/aakashyap)
 - Ethan So (https://github.com/ethanso56)
