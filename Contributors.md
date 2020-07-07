@@ -5,6 +5,7 @@
 -Eiseid
 - Ghassan Alrayyes
 - [Jacob Garcia] (https://github.com/JacobGDev)
+- Anand Krishnan (https://github.com/akrishnan93)
 - [Anna Wijetunga] (https://github.com/AnnaWijetunga)
 - Daniel Pyon (https://github.com/danielpyon)
 - Sarabjyot Singh 
