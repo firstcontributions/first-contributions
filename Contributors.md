@@ -2465,6 +2465,7 @@ Chris Ryan
 - [Digituar] (https://github.com/digituar)
 - [steelslugs] (https://github.com/steelslugs)
 - [dotmiki] (https://github.com/dotmiki)
+- [Sukriti] (https://github.com/sukreeti-98)
 - [Bruno Fontes] (https://github.com/brunofontes)
 - Max
 - [Susmita Banerjee](https://github.com/Susmo31)
