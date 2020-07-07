@@ -43,6 +43,7 @@ Dante Chakravorti
 - [Aminat Yakubu] (https://github.com/giselle2323/)
 - Gerald Tay (https://github.com/penguinoob)
 - [Lakshay Yadav](https://github.com/Lucky0108) 
+- [Ivica Pizent](https://github.com/IvicaPizent)
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Su Willu (https://github.com/SuWillu)
