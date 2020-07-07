@@ -300,6 +300,7 @@ Jeremiah Harkins
 - Moshe Stone
 - Imed Touhami
 - Rahul Katamneni
+- Yaakov Brecher (https://github.com/YBrecher)
 - Mustafa Taha
 - Jeremiah Zagada
 - Shweta Karwa
