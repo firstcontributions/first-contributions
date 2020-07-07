@@ -1132,6 +1132,7 @@ Jeremiah Harkins
 - [Anes Abismail](https://github.com/anesabml)
 - [Lucas Melo](https://github.com/lucasmeloo)
 - [Matt SQ](https://github.com/greyghost13)
+Chidiogo Umezinne
 - [John McGonagle](https://github.com/jgonagle)
 - [Manas Joshi](https://github.com/manasjoshi14)
 - [Steven Zilberberg](https://github.com/srz2)
