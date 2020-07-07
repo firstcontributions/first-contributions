@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [srcme20](https://github.com/srcme20)
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
@@ -212,6 +212,7 @@
 - [Mark Kulube](https://github.com/markkulube)
 - Malachi Ivey
 - [Karim Kohel](https://github.com/karimkohel)
+- Nimrat Kaur
 - [Gega Darakhvelidze](https://github.com/gdara17)
 - Reem
 - [limetree1723](https://github.com/limetree1723)
