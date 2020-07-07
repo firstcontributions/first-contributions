@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Git Goode
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
@@ -349,6 +349,7 @@ Jeremiah Harkins
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
+- Banasri Saha
 - will
 - [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
 - [Ali Najmaldin](https://github.com/OGALI)
