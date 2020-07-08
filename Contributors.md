@@ -42,6 +42,7 @@ Dante Chakravorti
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
 - [Tapan Karecha](https://github.com/tapank)
+- phileinSophos
 - [Silas Monahan](https://github.com/monahans)
 - [Meet Gamdha](https://github.com/meetgamdha02)
 - [Aminat Yakubu] (https://github.com/giselle2323/)
