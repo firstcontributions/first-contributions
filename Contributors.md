@@ -1344,6 +1344,7 @@ Chidiogo Umezinne
 - [elgaspar](https://github.com/elgaspar)
 - [Purvi Patel](https://github.com/ppatel6)
 - [cleverinx](https://github.com/cleverinx)
+- [Jonathan Hay](https://github.com/jahay15)
 - [Carlos Herrera](https://github.com/carlosherrera1113)
 - [Nicholas Lin](https://github.com/Nicholas-Lin)
 - [ritikaaa17](https://github.com/ritikaaa17)
