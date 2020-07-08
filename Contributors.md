@@ -2501,6 +2501,7 @@ amin-da
 - [Anna e só](https://github.com/contraexemplo)
 - [Patrick Williams] (https://github.com/anvilpw)
 - [Felipe Windmoller](https://github.com/felipewind)
+- [Safiq Lodi](https://github.com/modeware)
 - [R2Jens2](https://github.com/r2jens2)
 - [Jeremy Jones] (https://github.com/jerome1232)
 - [Brian Kilburn] (https://github.com/reefman001)
