@@ -901,6 +901,7 @@ Jeremiah Harkins
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 - [Rachit Tiwari](https://github.com/rachittiwari8562)
+- [Vika Shonia](https://github.com/shoniavika)
 - [Iniobong Benson](https://github.com/linibensonjr)
 - [Tristan Mc](https://github.com/T-mclennan)
 - [Vishal Anand](https://github.com/vishalofficial965)
