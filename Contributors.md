@@ -116,6 +116,7 @@ Jeremiah Harkins
 - Chris Ramos (https://github.com/Cramos711)
 - Lumi-H
 - Rochisha
+- Kat P
 - Rama C
 - >[KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
