@@ -2508,3 +2508,4 @@ amin-da
 - [James Hough](https://github.com/jehough)
 - 123
 - [Kevin](https://github.com/kaliomar)
+- [Ryann Ferreira](https://github.com/Ryannnkl)
