@@ -35,6 +35,7 @@ Dante Chakravorti
 - [Hai Dao] (https://github.com/haidao0923)
 - [Amy Yee] (https://github.com/amy-yee)
 - [David Sykes] (https://github.com/davidjsykes)
+- [Pallav Jain] (https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
