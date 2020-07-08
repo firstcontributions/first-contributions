@@ -102,6 +102,7 @@ Dante Chakravorti
 - Werner E.
 - Werner G.
 - Karthick191999
+- Akash Jyoti Sahoo
 - Dana Sherman
 - [Godfred Gameli](https://github.com/Godfredgameli)
 - [Hasibul Islam](https://github.com/starhasibul)
