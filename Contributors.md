@@ -774,6 +774,7 @@ Jeremiah Harkins
 - [Chifundo Kasiya](https://github.com/fundo89)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Eric Sanders](https://github.com/BigECire)
+- [Mohammadreza Mirhajian](https://github.com/mohammadrezza)
 - [Urse Searle](https://github.com/GleebleNeeble)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Nassima Allaoui](https://github.com/allnassima)
