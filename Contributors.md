@@ -25,6 +25,7 @@
 Bala Hantsi
 Dante Chakravorti
 - Nico Tek
+- Nikhil Nair
 - Austin Clements (https://github.com/austinclem1)
 - [Shreyas Dodamani](https://github.com/shreyasdoda)
 - Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
