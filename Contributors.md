@@ -218,6 +218,7 @@ Jeremiah Harkins
 - Karsten W. (https://github.com/Fflowka)
 - Sherry C
 - errrii
+- Dov
 - $!D
 - A. Gestin
 - [Jeremy Moudy](https://github.com/j-moudy)
