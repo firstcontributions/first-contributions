@@ -2474,6 +2474,7 @@ Chris Ryan
 - [Eduardo Garza](https://github.com/eduardocgarza)
 - [Jeaniuss](https://github.com/jeaniuss)
 - [Edward Han](https://github.com/edwardhuahan)
+- [Will Chan](https://github.com/WillWcchan)
 - [Digituar] (https://github.com/digituar)
 - [steelslugs] (https://github.com/steelslugs)
 - [dotmiki] (https://github.com/dotmiki)
