@@ -2520,3 +2520,4 @@ amin-da
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
 - [Gustavo Fiuza](github.com/GusFiuza)
+- [Arturo Fiero] (https://github.com/arturofiero)
