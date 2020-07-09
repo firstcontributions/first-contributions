@@ -2194,6 +2194,7 @@ Chidiogo Umezinne
 - [Pratik](https://github.com/pratiksasmal)
 - PassionCracker
 - [Robert Flaherty](https://github.com/roberteflaherty)
+- [northerreese] (https://github.com/northerreese)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
 - [Merin Babu](https://github.com/MerinBabu)
