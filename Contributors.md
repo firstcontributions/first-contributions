@@ -12,6 +12,7 @@
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
+- Brian Kozub (https://github.com/ticet11)
 - Laurynas Kerezius (https://github.com/larryare)
 - [Jacob Garcia] (https://github.com/JacobGDev)
 - Anand Krishnan (https://github.com/akrishnan93)
