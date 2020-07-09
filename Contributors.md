@@ -2530,6 +2530,7 @@ amin-da
 - [Brian Kilburn] (https://github.com/reefman001)
 - [Fatih Kula](https://github.com/fatihkula)
 - [James Hough](https://github.com/jehough)
+- [Nihal Mittal](https://github.com/codescientist703)
 - 123
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
