@@ -1302,6 +1302,7 @@ Chidiogo Umezinne
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
 - [grun00](https://github.com/grun00)
 - [Shanil De Silva](https://github.com/shanil07)
+- [piotao](https://github.com/piotao)
 - [tsuno](https://gitlab.com/tsuno)
 - [luytena](https://github.com/luytena)
 - [jkrajcir](https://github.com/jkrajcir)
