@@ -2542,3 +2542,4 @@ amin-da
 - [Fatimah Davies](https://github.com/Fatimah019)
 - [Gustavo Fiuza](github.com/GusFiuza)
 - [Blessing Mbonu](https://github.com/Nkemjiks)
+- [Ritik](https://github.com/Foxtrot123-png)
