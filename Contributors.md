@@ -1,6 +1,7 @@
 # Contributors
 -Hariprasath
 - Git Goode
+- [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
@@ -12,6 +13,7 @@
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
+- Brian Kozub (https://github.com/ticet11)
 - Laurynas Kerezius (https://github.com/larryare)
 - [Jacob Garcia] (https://github.com/JacobGDev)
 - Anand Krishnan (https://github.com/akrishnan93)
@@ -156,6 +158,7 @@ Jeremiah Harkins
 - pramish22 (https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
+- [Mark Forsyth](https://github.com/SkeletalWaffles)
 - [dumbitdownjr] (https://github.com/dumbitdownjr)
 - zoe (https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
@@ -498,6 +501,7 @@ Jeremiah Harkins
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
+- [Daniel Floyd](https://github.com/gleekzorp)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - Sitanshu
 - [Hu Yang](https://github.com/huyang117)
@@ -507,6 +511,7 @@ Jeremiah Harkins
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Samuel Sandoval](https://github.com/samuelsandoval1)
 - [Michael King](https://github.com/michaelking178)
+- [Heith Robbins](https://github.com/HeithRobbins)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Donald Shanty Jr.](https://github.com/clefbassman)
 - [Peter Kang](https://github.com/pswk1)
@@ -2544,3 +2549,6 @@ amin-da
 - [Gustavo Fiuza](github.com/GusFiuza)
 - [Blessing Mbonu](https://github.com/Nkemjiks)
 - [Himanshu](https://github.com/stygian-96)
+- [Ritik](https://github.com/Foxtrot123-png)
+- [Samed Touati](https://github.com/sd-404)
+- [TR Fung](https://github.com/trfung)
