@@ -70,6 +70,7 @@ Nico Tek
 - [Nicky Choi](https://github.com/njch5)
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
+- Anna
 - Su Willu (https://github.com/SuWillu)
 - [Hope Miller] (https://github.com/hmiller3)
 - [Pankaj Khushalani] (https://github.com/pk-218)
