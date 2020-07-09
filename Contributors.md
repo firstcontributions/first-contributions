@@ -5,6 +5,7 @@
 - CodeWithMughal
 -Eiseid
 - Ghassan Alrayyes
+-Efraim Klecky (https://github.com/eklecky)
 - Laurynas Kerezius (https://github.com/larryare)
 - [Jacob Garcia] (https://github.com/JacobGDev)
 - Anand Krishnan (https://github.com/akrishnan93)
