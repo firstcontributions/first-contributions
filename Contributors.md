@@ -254,6 +254,7 @@ Jeremiah Harkins
 - Dagmar Hengesbach
 - Falguni Raina
 - malde11
+- Heidi 
 - [Michael Mamich](https://github.com/MMMamich) 🤓
 - [Lucas Amaral](https://github.com/doamaral)
 - LA
