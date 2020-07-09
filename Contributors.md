@@ -4,6 +4,7 @@
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
+- [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
 - jacobsb
 - Ghassan Alrayyes
