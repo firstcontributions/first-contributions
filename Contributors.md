@@ -58,6 +58,7 @@ Nico Tek
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Su Willu (https://github.com/SuWillu)
+- [Hope Miller] (https://github.com/hmiller3)
 - [Pankaj Khushalani] (https://github.com/pk-218)
 - Luis Holzer (https://github.com/Luis089)
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
