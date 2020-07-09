@@ -1915,6 +1915,7 @@ Chidiogo Umezinne
 - [mskaprushchenko](https://github.com/mskarpushchenko)
 - [Ray Rojas](https://github.com/lokcito)
 - [Lucas Bergmann](https://github.com/bergmannlucas)
+- [Ali Malik](https://github.com/AliMalik9599)
 - [Janine Prukop](https://github.com/JaninePrukop)
 - [Jefferson Chen](https://github.com/chenjefferson)
 - [Jyhe Mark](https://github.com/jyhemark)
