@@ -156,6 +156,7 @@ Jeremiah Harkins
 - pramish22 (https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
+- [Mark Forsyth](https://github.com/SkeletalWaffles)
 - [dumbitdownjr] (https://github.com/dumbitdownjr)
 - zoe (https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
