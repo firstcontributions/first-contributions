@@ -2,7 +2,8 @@
 - Atia - first OSS contribution Yay!
 -Hariprasath
 - Git Goode
-- [Faraz Suhail] (https://https://github.com/Faraz710)
+- [George Rod] (https://https://github.com/gnrod) 
+- [Faraz Suhail] (https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
@@ -11,6 +12,7 @@
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
 - jacobsb
+- Andrew Martin
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
