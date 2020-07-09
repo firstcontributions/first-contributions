@@ -611,6 +611,7 @@ Jeremiah Harkins
 - [Priyanka Jalan](https://github.com/prianka01)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
+- [Alexander Komarov](https://github.com/alexandrkaa)
 - [Rupam Dey](https://github.com/jonesjacky)
 - [Ambuj Singh](https://github.com/singhambuj)
 - [Sohan Shingade](https://github.com/sohan-shingade)
