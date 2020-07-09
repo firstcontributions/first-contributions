@@ -2551,3 +2551,4 @@ amin-da
 - [Ritik](https://github.com/Foxtrot123-png)
 - [Samed Touati](https://github.com/sd-404)
 - [TR Fung](https://github.com/trfung)
+- [Daniel Fishman](https://github.com/FishFunk)
