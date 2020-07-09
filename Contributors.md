@@ -2544,3 +2544,4 @@ amin-da
 - [Gustavo Fiuza](github.com/GusFiuza)
 - [Blessing Mbonu](https://github.com/Nkemjiks)
 - [Ritik](https://github.com/Foxtrot123-png)
+- [Samed Touati](https://github.com/sd-404)
