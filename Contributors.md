@@ -997,6 +997,7 @@ Jeremiah Harkins
 - [Shaun O'Neill](https://github.com/shaun-oneill)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
+- [Alex Florides](https://github.com/Alexf97)
 - [Amanda B](https://github.com/critterconvention)
 - [Harsh Prabhu](https://github.com/harsh1599)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
