@@ -498,6 +498,7 @@ Jeremiah Harkins
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
+- [Daniel Floyd](https://github.com/gleekzorp)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - Sitanshu
 - [Hu Yang](https://github.com/huyang117)
