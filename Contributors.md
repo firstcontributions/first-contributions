@@ -1,6 +1,5 @@
 ﻿# Contributors
 - Git Goode
-- Changed
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
