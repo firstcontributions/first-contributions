@@ -4,6 +4,7 @@
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
 -Eiseid
+- jacobsb
 - Ghassan Alrayyes
 - Laurynas Kerezius (https://github.com/larryare)
 - [Jacob Garcia] (https://github.com/JacobGDev)
