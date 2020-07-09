@@ -2563,3 +2563,5 @@ amin-da
 - [Sudha Kaushik](https://github.com/sudhakaushik)
 - [Katie Greathouse](https://github.com/ktgreathouse)
 - [Sterling Watts](https://github.com/SterlingDWatts)
+- [bleirdalag](https://github.com/bleirdalag)
+- [Sterling Watts](https://github.com/SterlingDWatts)
