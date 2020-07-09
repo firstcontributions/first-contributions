@@ -3,7 +3,8 @@
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
--Eiseid
+- keelisetti lokesh (https://github.com/lokeshkeelisetti)
+- Eiseid
 - jacobsb
 - Ghassan Alrayyes
 - Laurynas Kerezius (https://github.com/larryare)
