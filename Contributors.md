@@ -2531,4 +2531,5 @@ amin-da
 - 123
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
+- [armsasmart](https://github.com/armsasmart)
 - [Gustavo Fiuza](github.com/GusFiuza)
