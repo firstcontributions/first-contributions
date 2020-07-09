@@ -2049,6 +2049,7 @@ Chidiogo Umezinne
 - [Doris Verria](https://github.com/dorisverria)
 - [Ola Frankowska](https://github.com/ofrankowska)
 - [Narongrit Unwerawattana](https://github.com/kicito)
+- [Or Paz](https://github.com/orrpaz)
 - [Furkan K.](https://github.com/mfurkankara)
 - [Elizandra Dalpra](https://github.com/ElizandraDalpra)
 - [Wes Roberson](https://github.com/wesrob21)
