@@ -70,6 +70,7 @@ Nico Tek
 - [Nicky Choi](https://github.com/njch5)
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
+- Anna
 - Su Willu (https://github.com/SuWillu)
 - [Hope Miller] (https://github.com/hmiller3)
 - [Pankaj Khushalani] (https://github.com/pk-218)
@@ -253,6 +254,7 @@ Jeremiah Harkins
 - Dagmar Hengesbach
 - Falguni Raina
 - malde11
+- Heidi 
 - [Michael Mamich](https://github.com/MMMamich) 🤓
 - [Lucas Amaral](https://github.com/doamaral)
 - LA
@@ -644,6 +646,7 @@ Jeremiah Harkins
 - [Tom Rowbotham](https://github.com/tomrowbo)
 - [Ajit Bhat](https://github.com/abhat3)
 - [tlylt](https://github.com/tlylt)
+- [xavierhazzardadmin](https://github.com/xavierhazzardadmin)
 - [Nicola Checcacci](https://github.com/stranicola)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
@@ -1302,6 +1305,7 @@ Chidiogo Umezinne
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
 - [grun00](https://github.com/grun00)
 - [Shanil De Silva](https://github.com/shanil07)
+- [piotao](https://github.com/piotao)
 - [tsuno](https://gitlab.com/tsuno)
 - [luytena](https://github.com/luytena)
 - [jkrajcir](https://github.com/jkrajcir)
@@ -2554,3 +2558,4 @@ amin-da
 - [TR Fung](https://github.com/trfung)
 - [Sree Dasari](https://github.com/sreedasari)
 - [Sudha Kaushik](https://github.com/sudhakaushik)
+- [Katie Greathouse](https://github.com/ktgreathouse)
