@@ -7,6 +7,7 @@
 - Eiseid
 - jacobsb
 - Ghassan Alrayyes
+- Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
 - Laurynas Kerezius (https://github.com/larryare)
 - [Jacob Garcia] (https://github.com/JacobGDev)
