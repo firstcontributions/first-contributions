@@ -2534,4 +2534,5 @@ amin-da
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
 - [armsasmart](https://github.com/armsasmart)
+- [Fatimah Davies]
 - [Gustavo Fiuza](github.com/GusFiuza)
