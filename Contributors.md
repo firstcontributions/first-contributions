@@ -5,6 +5,7 @@
 - Hariprasath
 - Git Goode
 - [Xiulei Zhu](https://github.com/acostry/)
+- [Abhishek Wahane](https://github.com/git22abhishek)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
@@ -27,7 +28,7 @@
 - Isaiah Blanks (https://github.com/IsaiahBlanks)
 - Daniel Pyon (https://github.com/danielpyon)
 - Elyahu Jacobi (https://github.com/Elyahu41)
-- Sarabjyot Singh 
+- Sarabjyot Singh
 - Shivam Rawat
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
@@ -73,7 +74,7 @@ Nico Tek
 - [Meet Gamdha](https://github.com/meetgamdha02)
 - [Aminat Yakubu] (https://github.com/giselle2323/)
 - Gerald Tay (https://github.com/penguinoob)
-- [Lakshay Yadav](https://github.com/Lucky0108) 
+- [Lakshay Yadav](https://github.com/Lucky0108)
 - [Ivica Pizent](https://github.com/IvicaPizent)
 - [Nicky Choi](https://github.com/njch5)
 - Jordan Sills (https://github.com/JordanDSills)
@@ -97,7 +98,7 @@ Nico Tek
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
 - [Pratyush Kumar](https://github.com/Pratyukumar)
 - [Chris Richardson] (https://github.com/ctrich)
-- [Harshank Pathak](https://github.com/H4rsh4nk) 
+- [Harshank Pathak](https://github.com/H4rsh4nk)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M] (https://github.com/muthuraj27)
 - [Feroz Mughal](https://github.com/fmugha2)
@@ -185,7 +186,7 @@ Jeremiah Harkins
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
-- [Vik-Ch] (https://github.com/Vik-Ch)   
+- [Vik-Ch] (https://github.com/Vik-Ch)
 - tivrfoa
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
@@ -224,7 +225,7 @@ Jeremiah Harkins
 - lk-git
 - Eddie Lewis
 - Or Dotan
-- [bog204](https://github.com/bog204) 
+- [bog204](https://github.com/bog204)
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
@@ -266,7 +267,7 @@ Jeremiah Harkins
 - Dagmar Hengesbach
 - Falguni Raina
 - malde11
-- Heidi 
+- Heidi
 - [Michael Mamich](https://github.com/MMMamich) 🤓
 - [Lucas Amaral](https://github.com/doamaral)
 - LA
@@ -292,8 +293,8 @@ Jeremiah Harkins
 - [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
-- [halo42](https://github.com/halo42) 
-- motr528 
+- [halo42](https://github.com/halo42)
+- motr528
 - Hope T
 - [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace] (https://github.com/cswall86)
