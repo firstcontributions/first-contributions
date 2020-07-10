@@ -227,6 +227,7 @@ Jeremiah Harkins
 - Francisco Javier Olmos
 - [Augustine Virgo](https://github.com/virgoaugustine)
 - Rodario42
+- [Max van Haastrecht] (https://github.com/MaxvanHaastrecht)
 - [James Murphree] (https://github.com/jamesus95)
 - Aastha Panta(https://github.com/AasthaPanta)
 - Leandro B (https://github.com/lerbal7)
