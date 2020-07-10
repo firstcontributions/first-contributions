@@ -2566,6 +2566,7 @@ amin-da
 - [Jeremy Jones] (https://github.com/jerome1232)
 - [Brian Kilburn] (https://github.com/reefman001)
 - [Fatih Kula](https://github.com/fatihkula)
+- [David Santamaria] (https://github.com/DSantamaria18)]
 - [James Hough](https://github.com/jehough)
 - [Nihal Mittal](https://github.com/codescientist703)
 - 123
