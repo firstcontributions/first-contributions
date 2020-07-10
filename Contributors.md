@@ -78,6 +78,7 @@ Nico Tek
 - Manzano Akhtar (https://github.com/manzanoakhtar7)
 - Thomas Ongley (https://github.com/thomasongley)
 - [SEYI-JS] (https://github.com/seyi-js)
+- Dillon Estrada
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
