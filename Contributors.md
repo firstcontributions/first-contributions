@@ -14,6 +14,7 @@
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
 - jacobsb
+-yosef (did it)
 - Mahir Goel
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
