@@ -74,6 +74,7 @@ Nico Tek
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Anna
 - Su Willu (https://github.com/SuWillu)
+- [Jaydev Singh Rao](https://github.com/JaydevSR)
 - [Hope Miller] (https://github.com/hmiller3)
 - [Pankaj Khushalani] (https://github.com/pk-218)
 - Luis Holzer (https://github.com/Luis089)
