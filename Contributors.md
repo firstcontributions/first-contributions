@@ -1,4 +1,5 @@
 # Contributors
+- Jens Kuipers (https://github.com/jens-kuipers/)
 - Atia - first OSS contribution Yay!
 -Hariprasath
 - Git Goode
