@@ -4,6 +4,7 @@
 - Atia - first OSS contribution Yay!
 - Hariprasath
 - Git Goode
+- Luke Anderson
 - [Xiulei Zhu](https://github.com/acostry/)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
