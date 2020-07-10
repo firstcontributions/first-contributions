@@ -3,6 +3,7 @@
 - [BedrockCoder](https://github.com/BedrockCoder)
 - Luis Holzer (https://github.com/Luis089)
 - [SEYI-JS] (https://github.com/seyi-js)
+- Dillon Estrada
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Feroz Mughal](https://github.com/fmugha2)
