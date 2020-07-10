@@ -24,6 +24,7 @@
 - [Jacob Garcia] (https://github.com/JacobGDev)
 - Anand Krishnan (https://github.com/akrishnan93)
 - [Anna Wijetunga] (https://github.com/AnnaWijetunga)
+- Isaiah Blanks (https://github.com/IsaiahBlanks)
 - Daniel Pyon (https://github.com/danielpyon)
 - Elyahu Jacobi (https://github.com/Elyahu41)
 - Sarabjyot Singh 
