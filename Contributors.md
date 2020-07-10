@@ -2571,3 +2571,4 @@ amin-da
 - [Katie Greathouse](https://github.com/ktgreathouse)
 - [bleirdalag](https://github.com/bleirdalag)
 - [Sterling Watts](https://github.com/SterlingDWatts)
+- [Filipe Estacio](https://github.com/filipeestacio)
