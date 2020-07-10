@@ -932,6 +932,7 @@ Jeremiah Harkins
 - [bethuel](https://github.com/bcmmbaga)
 - [arvind](https://github.com/CoderArvind)
 - [Aryaman](https://github.com/Aryaman2912)
+- [Jesse Huang](https://github.com/JessHua159)
 - [rkg18](https://github.com/rkg18)
 - [Jonathan Kamau](https://github.com/jonathankamau)
 - [m401](https://github.com/m401)
