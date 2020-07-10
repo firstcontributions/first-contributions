@@ -33,6 +33,7 @@
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
 - Aman jain (https://github.com/amanjainn)
 - awotndn (https://github.com/awotndn)
+- [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
 - [Ralph Louis Gopez](https://github.com/sevora)
 - Vysh kk (https://github.com/Vyshkk)
