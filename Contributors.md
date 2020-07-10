@@ -80,6 +80,7 @@ Nico Tek
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Anna
+- Brandt C.
 - Lucas Jeske (https://github.com/pljcgm)
 - Su Willu (https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
