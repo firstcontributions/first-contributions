@@ -205,6 +205,7 @@ Jeremiah Harkins
 - cw
 - fis Arain
 - Seb Ots
+- Rohit Patil
 - [Jane Muthoni](https://github.com/muchirijane)
 - [Mahmoud Attia](https://github.com/Atattia)
 - [Akash Raj](https://github.com/aaksr)
