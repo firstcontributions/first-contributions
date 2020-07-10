@@ -346,6 +346,7 @@ Jeremiah Harkins
 - Imed Touhami
 - Rahul Katamneni
 - Yaakov Brecher (https://github.com/YBrecher)
+- Michael J Cohen
 - Mustafa Taha
 - Jeremiah Zagada
 - Shweta Karwa
