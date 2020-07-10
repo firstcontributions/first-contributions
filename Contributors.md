@@ -1592,6 +1592,7 @@ Chidiogo Umezinne
 - [Dave Holly](https://github.com/daveholly57)
 - [Michael Uy](https://github.com/macky-uy)
 - [Nic Vigil](https://githib.com/nicvigil)
+Arijit
 - [Ronit Singh](https://github.com/ronitsingh1405)
 - [Luke Kuo](https://github.com/DarkGoomba)
 - [Bruno Cezani](https://githib.com/bcezani)
