@@ -30,6 +30,7 @@
 - Sarabjyot Singh 
 - Shivam Rawat
 - Igho Okeoghene (https://github.com/igho-okeoghene)
+- [Harsh Kapadia](https://github.com/HarshKapadia2)
 - Aman jain (https://github.com/amanjainn)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
