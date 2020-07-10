@@ -373,6 +373,7 @@ Jeremiah Harkins
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
+- [Kevin Tong](https://github.com/tong-kevin)
 - Akhil Murthy [https://github.com/akhilmurthy546]
 - [Ali Risheh](https://github.com/aicam)
 - [Shashank](https://github.com/shashankmotruri)
