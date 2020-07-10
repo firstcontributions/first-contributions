@@ -27,6 +27,7 @@
 - Daniel Pyon (https://github.com/danielpyon)
 - Elyahu Jacobi (https://github.com/Elyahu41)
 - Sarabjyot Singh 
+- Shivam Rawat
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - Aman jain (https://github.com/amanjainn)
 - awotndn (https://github.com/awotndn)
