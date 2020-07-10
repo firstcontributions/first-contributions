@@ -1,7 +1,8 @@
 # Contributors
+- [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
 - Atia - first OSS contribution Yay!
--Hariprasath
+- Hariprasath
 - Git Goode
 - [Xiulei Zhu](https://github.com/acostry/)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
