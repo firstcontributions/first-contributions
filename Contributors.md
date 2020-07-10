@@ -599,6 +599,7 @@ Jeremiah Harkins
 - [Yurika Namba](https://github.com/yurikanamba)
 - [Chris Arias](https://github.com/ChrisArias-dev)
 - [chrislockard](https://github.com/chrislockard)
+- [Dhafin Razaq](https://github.com/dhafinrazaq)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Brian McGarry](https://github.com/breenmcgoo)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
