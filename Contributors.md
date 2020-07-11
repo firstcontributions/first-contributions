@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jape Seifu https://github.com/jseifu
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
@@ -6,6 +6,7 @@
 - Hariprasath
 - Git Goode
 - Luke Anderson
+- Michael Spicer (httpes://github.com/Citywideiowa0)
 - Sandip Kumar(https://github.com/Sandip220593)
 - [Xiulei Zhu](https://github.com/acostry/)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
