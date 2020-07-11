@@ -2591,3 +2591,4 @@ amin-da
 - [Filipe Estacio](https://github.com/filipeestacio)
 - [Kyungmin Lee](https://github.com/rekyungmin)
 - [Adexandria](https://github.com/adexandria)
+- [Rick](https://github.com/rickgao12)
