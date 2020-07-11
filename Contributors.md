@@ -1,4 +1,5 @@
 # Contributors
+- Jape Seifu https://github.com/jseifu
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
 - Atia - first OSS contribution Yay!
