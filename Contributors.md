@@ -1142,6 +1142,7 @@ Jeremiah Harkins
 - [Saloni Goyal](https://github.com/gsaloni11)
 - [Andy Palmer](https://github.com/andipalmur)
 - [Shenyu](https://github.com/lishenyu16)
+- [Kamil Chruściński](https://github.com/bubo-py)
 - [Recep Daban](https://github.com/worthrd)
 - [Motunrayo Koyejo](https://github.com/motunrayokoyejo)
 - [Akshat](https://github.com/AkshatChhapolia)
