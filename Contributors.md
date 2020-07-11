@@ -2478,6 +2478,7 @@ Arijit
 - [Justin Cantrall] (https://github.com/jcntrl)
 - [Soroye Sodiq](https://github.com/Soroyesodiq)
 - [Thrishul Sherigar](https://github.com/3shool)
+- [William Gatsinzi](https://github.com/shodai24)
 - [Michael Etiobhio](https://github.com/micodian)
 - [Levi Jacoby](https://github.com/LeviJacoby1991)
 - [Jack Delahunt](https://github.com/jackdelahunt)
