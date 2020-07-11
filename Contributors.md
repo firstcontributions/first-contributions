@@ -18,6 +18,7 @@
 - jacobsb
 -yosef (did it)
 - Mahir Goel
+- Ansh Dhingra (https://github.com/anshdhinhgra47)
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
