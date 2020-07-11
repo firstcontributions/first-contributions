@@ -19,6 +19,7 @@
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
 - jacobsb
+- Taylor Koressel 
 - yosef (did it)
 - Mahir Goel
 - Ansh Dhingra (https://github.com/anshdhinhgra47)
