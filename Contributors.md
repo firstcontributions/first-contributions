@@ -145,6 +145,7 @@ Nico Tek
 - Werner G.
 - Karthick191999
 - Dana Sherman
+- [Max Correia](https://github.com/MaxCorreia)
 - [Godfred Gameli](https://github.com/Godfredgameli)
 - [Hasibul Islam](https://github.com/starhasibul)
 - [Robert Bogner](https://github.com/bowclaw)
