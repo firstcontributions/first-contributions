@@ -160,6 +160,7 @@ Nico Tek
 - belublem
 - Dhruv Roy Talukdar
 - John
+- Victory Chiamaka Wekwa (https://github.com/VictoryWekwa)
 Jeremiah Harkins
 - Chris B.
 - Chris Ramos (https://github.com/Cramos711)
