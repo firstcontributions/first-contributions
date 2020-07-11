@@ -2613,4 +2613,5 @@ amin-da
 - [yuzutree64](https://github.com/yuzutree64)
 - [pniewiadowski](https://github.com/pniewiadowski)
 - [Rashika Rawat](https://github.com/RR190701)
+- [Iurii Sergeev](https://github.com/shterneregen)
 - [Sherlemious](https://github.com/Sherlemious)
