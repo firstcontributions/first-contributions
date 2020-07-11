@@ -84,6 +84,7 @@ Nico Tek
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Anna
 - Brandt C.
+- Katja
 - Lucas Jeske (https://github.com/pljcgm)
 - Su Willu (https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
