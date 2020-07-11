@@ -17,7 +17,7 @@
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
 - jacobsb
--yosef (did it)
+- yosef (did it)
 - Mahir Goel
 - Ansh Dhingra (https://github.com/anshdhinhgra47)
 - Ghassan Alrayyes
@@ -114,6 +114,7 @@ Nico Tek
 - [Arnaud Kaderi](https://github.com/arnay07)
 - [Peter Gloor](https://github.com/petergloor)
 - [Charlie Ales](https://github.com/Spaceflightrelated)
+- [Caleb R.](https://github.com/earthctzn)
 - [Pranjal Aggarwal] (https://github.com/pranjalagg)
 - [Paul Mueller] (https://github.com/potawatomboy)
 - [Grigory Polushkin] (https://github.com/grigoryyar)
