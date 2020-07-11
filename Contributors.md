@@ -2313,6 +2313,7 @@ Arijit
 - [Garima Kalra](https://github.com/kalragarima)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Marko Monsalud](https://github.com/markomonsalud)
+- [Darko_Vucetic](https://github.com/g1dra)
 - [Aastha Singh](https://github.com/aasthasingh650)
 - [Radek Miernik](https://github.com/RadekMiernik)
 - [Hema Omprakash](https://github.com/HemaO)
