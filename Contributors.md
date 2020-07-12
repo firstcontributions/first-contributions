@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Bernard Lucas https://github.com/balucas
 - Jape Seifu https://github.com/jseifu
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
