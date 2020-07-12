@@ -15,6 +15,7 @@
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
+- [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Michael Finn
 - Mayank Goel
