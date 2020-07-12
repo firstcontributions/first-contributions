@@ -96,6 +96,7 @@ Nico Tek
 - Jordan Sills (https://github.com/JordanDSills)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Anna
+- [MFrJ](https://github.com/mfrj)
 - Brandt C.
 - Katja
 - Lucas Jeske (https://github.com/pljcgm)
