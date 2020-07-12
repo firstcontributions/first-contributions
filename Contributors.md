@@ -2421,6 +2421,7 @@ Arijit
 - Loki
 - [gmonea]
 - [Alexander Garcia](https://github.com/yalex1402)
+- [Umizoko](https://github.com/Umizoko)
 - [Simon Aust](http://github.com/siaust)
 - [Phil Liao](https://github.com/phil-ociraptor)
 - [Sinane Si Mohammed](https://github.com/ssi-moha)
