@@ -2620,4 +2620,5 @@ amin-da
 - [pniewiadowski](https://github.com/pniewiadowski)
 - [Rashika Rawat](https://github.com/RR190701)
 - [Iurii Sergeev](https://github.com/shterneregen)
+- [Anushya Krishnankutty](https://github.com/anushyakkutty)
 - [Sherlemious](https://github.com/Sherlemious)
