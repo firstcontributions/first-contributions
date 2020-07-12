@@ -41,6 +41,7 @@
 - Elyahu Jacobi (https://github.com/Elyahu41)
 - Sarabjyot Singh 
 - Shivam Rawat
+- Ramneek Riar (https://github.com/rkriar)
 - Elias Urios Alacreu
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
