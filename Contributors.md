@@ -28,6 +28,7 @@
 - Taylor Koressel 
 - yosef (did it)
 - Mahir Goel
+- Paul Hartman (https://github.com/paulhartman1)
 - Ansh Dhingra (https://github.com/anshdhinhgra47)
 - Ghassan Alrayyes
 - Kumar Yash (https://github.com/kumaryash18)
