@@ -6,6 +6,7 @@
 - Atia - first OSS contribution Yay!
 - Hariprasath
 - Git Goode
+- Miss Supriya
 - Gaurav Sharma (https://github.com/Leovaldez42)
 - Sampada Kathar (https://github.com/AlacritousCreature)
 - Luke Anderson
