@@ -74,6 +74,7 @@ Dante Chakravorti
 - Nikhil Nair
 - Austin Clements (https://github.com/austinclem1)
 - [Shreyas Dodamani](https://github.com/shreyasdoda)
+- [romhacks](https://github.com/romhacks)
 - Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
 - [nouvelle](https://github.com/nouvelle)
 - [Shakeib Shaida] (https://github.com/shakeib98)
