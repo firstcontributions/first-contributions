@@ -28,6 +28,7 @@
 - Eiseid
 - jacobsb
 - Anish Ghimire (https://github.com/anishghimire603)
+- KPIshnik
 - Taylor Koressel 
 - yosef (did it)
 - Mahir Goel
