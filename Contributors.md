@@ -22,6 +22,7 @@
 - CodeWithMughal
 - Michael Finn
 - Mayank Goel
+- Eitan
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
