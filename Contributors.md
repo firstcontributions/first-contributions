@@ -152,6 +152,7 @@ Nico Tek
 - [Daniel Kryszkiewicz](https://github.com/DanielKryszkiewicz)
 - [Yash Mihsra](https://github.com/Codedude1)
 - [oakoudad](https://github.com/oakoudad1)
+- [Steven Sutton](https://github.com/stevenasutton)
 - pradeep kumar
 - glakshmi
 - minaadz
