@@ -2648,3 +2648,4 @@ amin-da
 - [Calvin James] (https://github.com/Hobbesz)
 - [Anoushka Sengupta] (https://github.com/ankasengupta)
 - [bumkeyy] (https://github.com/bumkeyy)
+- [Mohamed AIT BOUAAZA] (https://github.com/medinpt)
