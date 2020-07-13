@@ -173,6 +173,7 @@ Nico Tek
 - Rio Hayakawa
 - Michał Krakiewicz
 - Werner E.
+- [Ahmed Mahfoudh](https://www.linkedin.com/in/ahmed-mahfoudh/)
 - Werner G.
 - Karthick191999
 - Dana Sherman
