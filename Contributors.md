@@ -21,6 +21,7 @@
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
+- Jonas Kim
 - Michael Finn
 - Robert Wright Jr.
 - Mayank Goel
