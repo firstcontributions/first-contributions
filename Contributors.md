@@ -22,6 +22,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Jonas Kim
+- Giacomo Frascarelli
 - Michael Finn'
 - Shashank Mishra
 - Robert Wright Jr.
