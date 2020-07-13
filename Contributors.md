@@ -21,6 +21,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Michael Finn
+- Robert Wright Jr.
 - Mayank Goel
 - Eitan
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
