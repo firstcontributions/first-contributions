@@ -1642,6 +1642,7 @@ Arijit
 - [Janne Ilonen](https://github.com/JanneIlonen)
 - [samuli.p](https://github.com/samuli-p)
 - [Zizy Zhu](https://github.com/zuzy)
+- [Ari](https://github.com/ari-hacks/)
 - [Kenny McEwan](https://github.com/kennymce)
 - [Leonard Green](https://github.com/laroygreen)
 - [kingkoma](https://github.com/kingkoma)
