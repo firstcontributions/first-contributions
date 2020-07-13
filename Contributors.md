@@ -80,6 +80,7 @@ Dante Chakravorti
 - Samir Mughal (https://github.com/codewithmughal)
 - [Hai Dao] (https://github.com/haidao0923)
 - [Amy Yee] (https://github.com/amy-yee)
+  [Shubham Lakhera] (https://github.com/shubhamlakheraa)
 - [David Sykes] (https://github.com/davidjsykes)
 - [Pallav Jain] (https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
