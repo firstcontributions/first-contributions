@@ -48,6 +48,7 @@
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
 - Aman jain (https://github.com/amanjainn)
+- [Asyraf-labs](https://github.com/asyraf-labs)
 - awotndn (https://github.com/awotndn)
 - [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
