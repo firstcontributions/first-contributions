@@ -22,7 +22,8 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Jonas Kim
-- Michael Finn
+- Michael Finn'
+- Shashank Mishra
 - Robert Wright Jr.
 - Mayank Goel
 - Eitan
