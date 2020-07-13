@@ -7,6 +7,8 @@
 - Atia - first OSS contribution Yay!
 - Hariprasath
 - Git Goode
+- David Kwong
+- Miss Supriya
 - Gaurav Sharma (https://github.com/Leovaldez42)
 - Sampada Kathar (https://github.com/AlacritousCreature)
 - Luke Anderson
@@ -21,6 +23,7 @@
 - CodeWithMughal
 - Michael Finn
 - Mayank Goel
+- Eitan
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
 - [Sharique Khan](https://github.com/sharique-tech1987)
 - Eiseid
@@ -49,6 +52,7 @@
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
 - Aman jain (https://github.com/amanjainn)
+- [Asyraf-labs](https://github.com/asyraf-labs)
 - awotndn (https://github.com/awotndn)
 - [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
@@ -627,6 +631,7 @@ Jeremiah Harkins
 - [Rojan Karn](https://github.com/rokarn12)
 - [Raul Galindo](https://github.com/raulesgalindo)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
+- [Nitin Yadav](https://github.com/nitinyy)
 - [trysh](https://github.com/trysh)
 - [Dean Huynh](https://github.com/deanhuynh)
 - [Aryaman Parekh](https://github.com/aparekh5)
@@ -1656,6 +1661,7 @@ Arijit
 - [Janne Ilonen](https://github.com/JanneIlonen)
 - [samuli.p](https://github.com/samuli-p)
 - [Zizy Zhu](https://github.com/zuzy)
+- [Ari](https://github.com/ari-hacks/)
 - [Kenny McEwan](https://github.com/kennymce)
 - [Leonard Green](https://github.com/laroygreen)
 - [kingkoma](https://github.com/kingkoma)
@@ -2632,3 +2638,6 @@ amin-da
 - [Anushya Krishnankutty](https://github.com/anushyakkutty)
 - [Sherlemious](https://github.com/Sherlemious)
 - [Chill6300](https://github.com/chill6300)
+- [Chill6300] (https://github.com/chill6300)
+- [Calvin James] (https://github.com/Hobbesz)
+
