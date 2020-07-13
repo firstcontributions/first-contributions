@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - Bernard Lucas https://github.com/balucas
 - Jape Seifu https://github.com/jseifu
@@ -2651,3 +2651,4 @@ amin-da
 - [Anoushka Sengupta] (https://github.com/ankasengupta)
 - [bumkeyy] (https://github.com/bumkeyy)
 - [Mohamed AIT BOUAAZA] (https://github.com/medinpt)
+- [halilyaman] (https://github.com/halilyaman)
