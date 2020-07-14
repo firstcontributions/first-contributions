@@ -14,7 +14,8 @@
 - Luke Anderson
 - Michael Spicer (httpes://github.com/Citywideiowa0)
 - Sandip Kumar(https://github.com/Sandip220593)
-- [Xiulei Zhu](https://github.com/acostry/)
+ Amar Shukla (why the url) xd.
+- [Xiulei Zhu](https://githum.com/acostry/)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
@@ -61,7 +62,7 @@
 - awotndn (https://github.com/awotndn)
 - [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
-- [Ralph Louis Gopez](https://github.com/sevora)
+- [Ralph Louis pez](https://github.com/sevora)
 - [SM43](https://github.com/sm43)
 - Gautam
 - Vysh kk (https://github.com/Vyshkk)
@@ -94,6 +95,8 @@ Dante Chakravorti
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 Nico Tek
+- Zion Williamson (Pelicans, number 1)
+- Zion Williamson (Pelicans, number 1)
 - Zion Williamson (Pelicans, number 1)
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
@@ -2623,8 +2626,6 @@ amin-da
 - [Anna e só](https://github.com/contraexemplo)
 - [Patrick Williams] (https://github.com/anvilpw)
 - [Felipe Windmoller](https://github.com/felipewind)
-- [Safiq Lodi](https://github.com/modeware)
-- [R2Jens2](https://github.com/r2jens2)
 - [Jeremy Jones] (https://github.com/jerome1232)
 - [Brian Kilburn] (https://github.com/reefman001)
 - [Fatih Kula](https://github.com/fatihkula)
