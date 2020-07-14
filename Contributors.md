@@ -9,6 +9,7 @@
 - Atia - first OSS contribution Yay!
 - Hariprasath
 - Git Goode
+- Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
 - Miss Supriya
 - Gaurav Sharma (https://github.com/Leovaldez42)
