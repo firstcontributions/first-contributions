@@ -130,6 +130,7 @@ Nico Tek
 - Thomas Ongley (https://github.com/thomasongley)
 - [SEYI-JS] (https://github.com/seyi-js)
 - [Kundan-Kumar] (https://github.com/kundan16)
+Sathya S
 - Dillon Estrada
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
