@@ -12,6 +12,7 @@
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
 - Miss Supriya
+-Natalia Alvarez (https://github.com/nataliaalvarez26)
 - Gaurav Sharma (https://github.com/Leovaldez42)
 - Sampada Kathar (https://github.com/AlacritousCreature)
 - Luke Anderson
