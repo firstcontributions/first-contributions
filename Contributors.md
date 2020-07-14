@@ -1,5 +1,6 @@
 # Contributors
 - [Dawid Kluczewski](https://github.com/notedeagle/)
+- [Kaushik Chatterjee](https://github.com/kchatr) 
 - Bernard Lucas https://github.com/balucas
 - Jape Seifu https://github.com/jseifu
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
