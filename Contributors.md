@@ -4,6 +4,7 @@
 - Jape Seifu https://github.com/jseifu
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
+- [Rushi Vachhani](https://github.com/RushiVachhani)
 - Atia - first OSS contribution Yay!
 - Hariprasath
 - Git Goode
