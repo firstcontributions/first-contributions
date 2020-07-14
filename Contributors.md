@@ -222,6 +222,7 @@ Jeremiah Harkins
 - [Lewis Keech](https://github.com/Lewizard98)
 - fflobert
 - nocten
+- Ronald Baumgarten
 - [Eduardo Wallace](https://github.com/eduardolwallace)
 - jenny heyyy
 - ankita mishra
