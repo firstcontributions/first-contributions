@@ -98,6 +98,7 @@ Nico Tek
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
+- [Mohan Periasami](https://github.com/mperiasa2)
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
 - phileinSophos
