@@ -443,6 +443,7 @@ Jeremiah Harkins
 - barua
 - Banasri Saha
 - Manpreet Singh
+- Muhd Ahmad Dahlan (https://github.com/muhdmud)
 - will
 - [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
 - [Ali Najmaldin](https://github.com/OGALI)
