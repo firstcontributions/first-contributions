@@ -578,6 +578,7 @@ Jeremiah Harkins
 - [Daniel Floyd](https://github.com/gleekzorp)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - Sitanshu
+- [Sharan Sudhir](https://github.com/sharansudhir)
 - [Hu Yang](https://github.com/huyang117)
 - [Naga Harshita](https://github.com/NagaHarshita)
 - [Ioane Margiani](https://github.com/iko1133)
