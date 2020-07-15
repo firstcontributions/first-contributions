@@ -2,6 +2,7 @@
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
+- [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - Bernard Lucas https://github.com/balucas
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
