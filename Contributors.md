@@ -99,6 +99,7 @@ Dante Chakravorti
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
 - [Nilesh Hazra](https://github.com/nileshhazra)
+- [Sohaib](https://github.com/Sohaib03)
 Nico Tek
 - Zion Williamson (Pelicans, number 1)
 - [foolmarshal](https://github.com/aakashkumar1997)
