@@ -85,6 +85,7 @@
 - [Sean Gorham](https://github.com/sgorham)
 Bala Hantsi
 Dante Chakravorti
+- Andrew M
 - Nico Tek
 - [James Nacua](https://github.com/jacavena)
 - Abhay (https://github.com/abhay007kr)
