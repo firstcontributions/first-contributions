@@ -13,7 +13,7 @@
 - Git Goode
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
-- [Nathan Garpiel](https://github.com/Garpieln)
+- [Akash Singh](https://github.com/Garpieln)
 - Miss Supriya
 -Natalia Alvarez (https://github.com/nataliaalvarez26)
 - Gaurav Sharma (https://github.com/Leovaldez42)
