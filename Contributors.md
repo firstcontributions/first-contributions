@@ -10,6 +10,7 @@
 - [Rushi Vachhani](https://github.com/RushiVachhani)
 - Atia - first OSS contribution Yay!
 - Hariprasath
+-Arpan
 - Git Goode
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
