@@ -209,6 +209,7 @@ Jeremiah Harkins
 - Lumi-H
 - Rochisha
 - Kat P
+- Suzy D
 - Rama C
 - >[KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
