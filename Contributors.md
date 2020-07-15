@@ -12,6 +12,7 @@
 - Atia - first OSS contribution Yay!
 - Hariprasath
 - ankit kumar
+- [Marc Simon](https://github.com/msimon23)
 - Git Goode
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
