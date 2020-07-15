@@ -220,6 +220,7 @@ Jeremiah Harkins
 - [Cristhyano](https://github.com/crdpa)
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
+- [Atul Kumar] (https://github.com/atulksin)
 - [Jacob Kerr](https://github.com/jakejack13)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
