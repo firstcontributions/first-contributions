@@ -2679,7 +2679,9 @@ amin-da
 - [Calvin James] (https://github.com/Hobbesz)
 - [Anoushka Sengupta] (https://github.com/ankasengupta)
 - [bumkeyy] (https://github.com/bumkeyy)
+- [Nick Rafferty] (https://github.com/nickrafferty78)
 - [Mohamed AIT BOUAAZA] (https://github.com/medinpt)
 - [halilyaman] (https://github.com/halilyaman)
 - [Ajin Sunny] (https://github.com/ajinsunny)
 - [Jeeyo] (https://github.com/jeeyo)
+
