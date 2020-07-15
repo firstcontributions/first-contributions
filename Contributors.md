@@ -28,6 +28,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Jonas Kim
+- [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
 - Shashank Mishra
