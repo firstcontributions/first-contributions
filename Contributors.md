@@ -143,6 +143,7 @@ Nico Tek
 - [Kundan-Kumar] (https://github.com/kundan16)
 Sathya S
 - Dillon Estrada
+- [Maximillian Xavier] (https://github.com/maximillianfx)
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
