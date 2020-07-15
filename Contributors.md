@@ -2491,6 +2491,7 @@ Arijit
 - [richie](https://github.com/cowsed)
 - [Idir D](https://github.com/idir75)
 - [porks](https://github.com/csporks)
+- [Lucas Lo](https://github.com/lucaslmlok)
 - [meih](https://github.com/meih124)
 - [David Druker](https://github.com/gitdove)
 - [Code Scraper] Hello World!
