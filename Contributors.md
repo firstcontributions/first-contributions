@@ -2685,3 +2685,4 @@ amin-da
 - [Ajin Sunny] (https://github.com/ajinsunny)
 - [Jeeyo] (https://github.com/jeeyo)
 - [John Woolbright] (github.com/jwoolbright23)
+- [tyrachol](github.com/tyrachol)
