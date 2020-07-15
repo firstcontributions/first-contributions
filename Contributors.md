@@ -37,6 +37,7 @@
 - Shashank Mishra
 - Robert Wright Jr.
 - Mayank Goel
+- [Bryan Hooper](https://github.com/bthooper)
 - ivioje
 - Eitan
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
