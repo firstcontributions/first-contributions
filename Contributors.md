@@ -3,7 +3,7 @@
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - Bernard Lucas https://github.com/balucas
-- [Biswas Nandamuri] (https://github.com/Biswas-N)
+- [Biswas Nandamuri](https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
