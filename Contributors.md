@@ -2360,6 +2360,7 @@ Arijit
 - [Abhishek Mohanta](https://github.com/FxGs)
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
+- [Jordan Becker](https://github.com/jorder247/)
 - [Sthen Campana](https://github.com/SupremeWhale)
 - [Garrett Chun](https://github.com/kapakahi)
 - [Anshu Aradhyula](https://github.com/yellowyetti)
