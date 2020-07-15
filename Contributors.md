@@ -84,6 +84,7 @@
 Bala Hantsi
 Dante Chakravorti
 - Nico Tek
+- [James Nacua](https://github.com/jacavena)
 - Abhay (https://github.com/abhay007kr)
 - Nikhil Nair
 - Austin Clements (https://github.com/austinclem1)
