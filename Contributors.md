@@ -2688,6 +2688,7 @@ amin-da
 - [halilyaman] (https://github.com/halilyaman)
 - [Ajin Sunny] (https://github.com/ajinsunny)
 - [Jeeyo] (https://github.com/jeeyo)
+- [KrisM10] (https://github.com/KrisM10)
 - [John Woolbright] (github.com/jwoolbright23)
 - [tyrachol](github.com/tyrachol)
 - [SushilG96](SushilG96)
