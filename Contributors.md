@@ -103,6 +103,7 @@ Dante Chakravorti
 - [Sohaib](https://github.com/Sohaib03)
 Nico Tek
 - Zion Williamson (Pelicans, number 1)
+- BVDS
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
