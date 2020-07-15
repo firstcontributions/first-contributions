@@ -14,6 +14,7 @@
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
 - Shruti Kumari
+- Doraemi
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 -Natalia Alvarez (https://github.com/nataliaalvarez26)
