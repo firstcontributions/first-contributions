@@ -1,4 +1,4 @@
-# Contributors 
+﻿# Contributors 
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
@@ -10,6 +10,7 @@
 - Jens Kuipers (https://github.com/jens-kuipers/)
 - [Rushi Vachhani](https://github.com/RushiVachhani)
 - Atia - first OSS contribution Yay!
+- [punchitchewie](https://github.com/punchitchewie)
 - Hariprasath
 - ankit kumar
 - [Marc Simon](https://github.com/msimon23)
