@@ -2671,6 +2671,7 @@ amin-da
 - [David Santamaria] (https://github.com/DSantamaria18)]
 - [James Hough](https://github.com/jehough)
 - [Nihal Mittal](https://github.com/codescientist703)
+- [Sarah Easton](https://github.com/nuthatch-s)
 - 123
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
