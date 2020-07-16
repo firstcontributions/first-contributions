@@ -1,5 +1,6 @@
 ﻿# Contributors 
 - [Dawid Kluczewski](https://github.com/notedeagle/)
+- [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
