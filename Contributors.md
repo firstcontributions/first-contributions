@@ -1,4 +1,4 @@
-﻿# Contributors 
+# Contributors 
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
@@ -15,6 +15,7 @@
 - Mike - Look at me! I'm a contrbuting member of society! (https://github.com/Michael-M-Mike)
 - [punchitchewie](https://github.com/punchitchewie)
 - Hariprasath
+- Mark - mark-nu
 - ankit kumar
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
