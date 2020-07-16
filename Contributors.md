@@ -2693,5 +2693,6 @@ amin-da
 - [Jeeyo] (https://github.com/jeeyo)
 - [KrisM10] (https://github.com/KrisM10)
 - [John Woolbright] (github.com/jwoolbright23)
+- [Bikal Shrestha] (https://github.com/bikal1000/)
 - [tyrachol](github.com/tyrachol)
 - [SushilG96](SushilG96)
