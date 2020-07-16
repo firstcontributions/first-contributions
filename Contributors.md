@@ -417,6 +417,7 @@ Jeremiah Harkins
 - Enda Moore (https://github.com/EndaMoore)
 - Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
+- [Aliya Summers](https://github.com/arsummers)
 - Moshe Stone
 - Imed Touhami
 - Rahul Katamneni
