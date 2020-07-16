@@ -11,6 +11,7 @@
 - Jens Kuipers (https://github.com/jens-kuipers/)
 - [Rushi Vachhani](https://github.com/RushiVachhani)
 - Atia - first OSS contribution Yay!
+- Mike - Look at me! I'm a contrbuting member of society! (https://github.com/Michael-M-Mike)
 - [punchitchewie](https://github.com/punchitchewie)
 - Hariprasath
 - ankit kumar
