@@ -2699,3 +2699,4 @@ amin-da
 - [Bikal Shrestha] (https://github.com/bikal1000/)
 - [tyrachol](github.com/tyrachol)
 - [SushilG96](SushilG96)
+- [Magdiel Dantas](https://github.com/magdielndantas)
