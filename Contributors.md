@@ -998,6 +998,7 @@ Jeremiah Harkins
 - [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Jordi Hoven](https://github.com/Jordakoes)
+- [Mary Adeoye](https://github.com/Aduketemi)
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
 - [Puneeth PS](https://github.com/puneethps)
