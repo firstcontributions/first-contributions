@@ -7,6 +7,7 @@
 - Bernard Lucas https://github.com/balucas
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
+- [Nathaniel Chan](https://github.com/SevenNateNine)
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
 - [Rushi Vachhani](https://github.com/RushiVachhani)
