@@ -35,6 +35,7 @@
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
+- [Gbemi Akerele] (https://github.com/Gbemim)
 - Shashank Mishra
 - Robert Wright Jr.
 - Mayank Goel
