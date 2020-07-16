@@ -1394,6 +1394,7 @@ Chidiogo Umezinne
 - [Blade Boles](https://github.com/BladeBoles)
 - [Nate deBoer](https://github.com/CrazyMuppets)
 - [Giacomo Tumini](https://github.com/jacktumi)
+- [K Munton](https://github.com/Panda4817)
 - [Se7enSquared](https://github.com/Se7enSquared)
 - [Lastminute](https://github.com/lstmnt)
 - [Panasarn Kanchanapiboon](https://github.com/musickn)
