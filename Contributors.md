@@ -218,6 +218,7 @@ Jeremiah Harkins
 - Kat P
 - Suzy D
 - Rama C
+- Rishav Jain(https://github.com/rishav4336)
 - >[KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
 - Barry Johnson (https://github.com/JamesJohnson11)
