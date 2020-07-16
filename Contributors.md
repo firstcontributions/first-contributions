@@ -1773,6 +1773,7 @@ Arijit
 - [Zach Rudy](https://github.com/zcr7948)
 - [Faial](https://github.com/fabfas)
 - [Alex White](https://github.com/alex-wh)
+- [manusanchev](https://github.com/manusanchev)
 - [Shruti Raj](https://github.com/Sparkla)
 - [Mithun Madhav](https://github.com/mithunmqb)
 - [Wahaj Ayub](https://github.com/WahajAyub)
