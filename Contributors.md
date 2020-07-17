@@ -1886,6 +1886,7 @@ Arijit
 - [Rajarajan Balasubramanian](https://github.com/rajarajanb)
 - [Dominik Petrovic](https://github.com/nixxcode)
 - [Chakradhar Koppula](https://github.com/ckoppula199)
+- [ShatteredTrace](https://github.com/ShatteredTrace)
 - [Jang Ho Cho](https://github.com/jhc95/)
 - [Shea Buckner](https://github.com/towhitch)
 - [machao](https://github.com/McSources)
