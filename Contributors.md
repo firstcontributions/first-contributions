@@ -223,6 +223,7 @@ Jeremiah Harkins
 - Shachindra Pandit
 - Adam Asaad
 - Dagmar Hengesbach
+- Tom Allen
 - Falguni Raina
 - malde11
 - [Michael Mamich](https://github.com/MMMamich) 🤓
