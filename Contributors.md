@@ -1,5 +1,6 @@
 # Contributors 
 - [Mayank Meena](https://github.com/mayank-genesis)
+- [Ziad Adeela](https://github.com/ziadadeela)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Brisibe Joseph](https://github.com/brisibe)
