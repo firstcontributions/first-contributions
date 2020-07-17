@@ -870,6 +870,7 @@ Jeremiah Harkins
 - [Zubair Idris Aweda](https://github.com/Zubs)
 - [Yogesh Singh](https://github.com/yogeshsingh01)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
+- [GSS Akash](https://github.com/gssakash)
 - [Rivka Klein](https://github.com/RivkieKlein)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
 - [Eloiza Tabing](https://github.com/elogs)
