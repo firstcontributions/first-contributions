@@ -1,4 +1,5 @@
 # Contributors 
+- [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
