@@ -189,6 +189,7 @@ Sathya S
 - [manish prajapati](https://github.com/Manish-210)
   [Curt Bridgers] (https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
+- [Arpit Kushwaha](https://github.com/arpitkushwaha)
 - [Daniel Kryszkiewicz](https://github.com/DanielKryszkiewicz)
 - [Yash Mihsra](https://github.com/Codedude1)
 - [oakoudad](https://github.com/oakoudad1)
