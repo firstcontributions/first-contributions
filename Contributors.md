@@ -2722,6 +2722,7 @@ amin-da
 - [tyrachol](github.com/tyrachol)
 - [SushilG96](SushilG96)
 - [Magdiel Dantas](https://github.com/magdielndantas)
+-[Susan Wangari](https://github.com/Susan-Wangari)
 - [Thomas Sheehan](https://github.com/twsheehan)
 -[MichelAngelo7](https://github.com/MichelAngelo7)
 - [Ai-Linh Alten](https://github.com/aalten77)
