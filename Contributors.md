@@ -25,6 +25,7 @@
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
+- [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
 -Natalia Alvarez (https://github.com/nataliaalvarez26)
 - Gaurav Sharma (https://github.com/Leovaldez42)
 - Sampada Kathar (https://github.com/AlacritousCreature)
