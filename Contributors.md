@@ -1,4 +1,4 @@
-# Contributors 
+﻿# Contributors 
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Ziad Adeela](https://github.com/ziadadeela)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
@@ -13,7 +13,7 @@
 - Jape Seifu https://github.com/jseifu
 - [Nathaniel Chan](https://github.com/SevenNateNine)
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
-- Jens Kuipers (https://github.com/jens-kuipers/)
+- Jens Kuipers (https://github.com/jens-kuipers/)s
 - [Rushi Vachhani](https://github.com/RushiVachhani)
 - Atia - first OSS contribution Yay!
 - Mike - Look at me! I'm a contrbuting member of society! (https://github.com/Michael-M-Mike)
@@ -21,6 +21,7 @@
 - Hariprasath
 - Mark - mark-nu
 - ankit kumar
+- Mrinal Choudhary
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
 - Minel Aydın - Minnela :) (https://github.com/minnela)
