@@ -11,6 +11,7 @@
 - [Patryk](https://github.com/PatrykB-dot)
 [Biswas Nandamuri] (https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
+- [Daniel A. Villena H.](https://github.com/davillenah)
 - [Nathaniel Chan](https://github.com/SevenNateNine)
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - Jens Kuipers (https://github.com/jens-kuipers/)
