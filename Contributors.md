@@ -21,6 +21,7 @@
 - Git Goode
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
+- [Sascha Lang](Https://github.com/saschalang32)
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 -Natalia Alvarez (https://github.com/nataliaalvarez26)
