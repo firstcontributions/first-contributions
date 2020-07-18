@@ -40,6 +40,7 @@
 - Michael Spicer (httpes://github.com/Citywideiowa0)
 - Sandip Kumar(https://github.com/Sandip220593)
 - [Xiulei Zhu](https://github.com/acostry/)
+- [SleepyFoxCode](https://github.com/sleepyfoxcode)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
