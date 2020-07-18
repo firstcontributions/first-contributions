@@ -135,6 +135,7 @@ Nico Tek
 - Zion Williamson (Pelicans, number 1)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
+- [Richie C.](https://github.com/RTek-dev)
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
