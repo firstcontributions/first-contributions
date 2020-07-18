@@ -56,6 +56,7 @@
 - [Bryan Hooper](https://github.com/bthooper)
 - ivioje
 - Eitan
+- [Aman Bhardwaj](https://github.com/inblack67)
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
