@@ -1701,6 +1701,7 @@ Chidiogo Umezinne
 - [Nic Vigil](https://githib.com/nicvigil)
 Arijit
 - [Ronit Singh](https://github.com/ronitsingh1405)
+- [Ishaan Nerurkar](https://github.com/ishaan-ner)
 - [Luke Kuo](https://github.com/DarkGoomba)
 - [Bruno Cezani](https://githib.com/bcezani)
 - [Jaime R](https://github.com/JaimeRado)
