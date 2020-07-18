@@ -498,6 +498,7 @@ Jeremiah Harkins
 - Manpreet Singh
 - Muhd Ahmad Dahlan (https://github.com/muhdmud)
 - will
+- [Samasth](https://github.com/Samasth)
 - [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Dion Niazi](https://github.com/dn3gy)
