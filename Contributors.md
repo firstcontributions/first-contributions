@@ -187,6 +187,7 @@ Sathya S
 - [Ines Romdhani](https://github.com/inesRom)
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
+- [Zakariya Mohamed](https://github.com/longarmz)
 - [manish prajapati](https://github.com/Manish-210)
   [Curt Bridgers] (https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
