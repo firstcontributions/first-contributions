@@ -2,6 +2,7 @@
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Ziad Adeela](https://github.com/ziadadeela)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
+- [Arjun Puthli](https://github.com/akagam1)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
