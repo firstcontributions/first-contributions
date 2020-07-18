@@ -1687,6 +1687,7 @@ Chidiogo Umezinne
 - [R F](https://github.com/kubr2017)
 - [Sarthak Garg](https://github.com/Ezio-Sarthak)
 - [Daniel Cavalcanti](https://github.com/danielcti)
+- [Bill Hammond](https://github.com/billhammond-dev)
 - [Akshat Katiyar](https://github.com/YellowFoxH4XOR)
 - [Harsimran Singh](https://github.com/harsimran17)
 - [Luiz Felipe Domingues](https://github.com/lfsando)
