@@ -2720,6 +2720,7 @@ amin-da
 - [Sree Dasari](https://github.com/sreedasari)
 - [Sudha Kaushik](https://github.com/sudhakaushik)
 - [Katie Greathouse](https://github.com/ktgreathouse)
+- [Louis Kirkham](https://github.com/TheDancingClown)
 - [bleirdalag](https://github.com/bleirdalag)
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Filipe Estacio](https://github.com/filipeestacio)
