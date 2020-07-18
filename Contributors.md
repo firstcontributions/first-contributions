@@ -47,6 +47,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Jonas Kim
+
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
@@ -168,6 +169,7 @@ Sathya S
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
 - Vaja L.
+Abdullah Zia
 - [Aditya Mahajan](https://github.com/adityam31)
 - [Saurabh K. Pandey](https://github.com/Saurabh200598)
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
