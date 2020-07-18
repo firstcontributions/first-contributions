@@ -69,7 +69,7 @@
 - yosef (did it)
 - Mahir Goel
 - Paul Hartman (https://github.com/paulhartman1)
-- Ansh Dhingra (https://github.com/anshdhinhgra47)
+- [Ansh Dhingra](https://github.com/anshdhinhgra47)
 - Ghassan Alrayyes
 - [Namra Solanki](https://github.com/whonamra)
 - Kumar Yash (https://github.com/kumaryash18)
