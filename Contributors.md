@@ -280,6 +280,7 @@ Jeremiah Harkins
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
+- [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch] (https://github.com/Vik-Ch)   
 - tivrfoa
 - [ozoneburger](https://github.com/ozoneburger)
