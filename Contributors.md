@@ -52,6 +52,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - CodeWithMughal
 - Jonas Kim
+- Sourav Pal
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
