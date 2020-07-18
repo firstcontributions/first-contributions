@@ -240,6 +240,7 @@ Jeremiah Harkins
 - Kat P
 - Suzy D
 - Rama C
+- Tarush Goyal (https://github.com/TarushGoyal)
 - Rishav Jain(https://github.com/rishav4336)
 - >[KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
