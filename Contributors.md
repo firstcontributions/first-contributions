@@ -31,6 +31,7 @@
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
 - [Sascha Lang](Https://github.com/saschalang32)
+- [Saurabh Sisodia](https://github.com/saurabhsisodia)
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
