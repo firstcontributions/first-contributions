@@ -1,5 +1,6 @@
 ﻿# Contributors 
 - [Shashank Aital](https://github.com/aitalshashank2)
+- [Adrian Sowiński](https://github.com/TheAner)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Andes Lee](https://github.com/Leeand17)
