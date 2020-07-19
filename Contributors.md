@@ -1,4 +1,4 @@
-# Contributors 
+﻿# Contributors 
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Andes Lee](https://github.com/Leeand17)
 - [Mayank Meena](https://github.com/mayank-genesis)
@@ -40,6 +40,7 @@
 -Natalia Alvarez (https://github.com/nataliaalvarez26)
 - Gaurav Sharma (https://github.com/Leovaldez42)
 - Tullia Glaeser (https://github.com/tamglaeser)
+-Awais
 - Sampada Kathar (https://github.com/AlacritousCreature)
 - Luke Anderson
 - Michael Spicer (httpes://github.com/Citywideiowa0)
