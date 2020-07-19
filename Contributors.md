@@ -16,7 +16,8 @@
 - Bernard Lucas https://github.com/balucas
 - [Patryk](https://github.com/PatrykB-dot)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
-[Biswas Nandamuri] (https://github.com/Biswas-N)
+- [Biswas Nandamuri] (https://github.com/Biswas-N)
+- [Sushant Athley] (https://github.com/uf-sushant)
 - Jape Seifu https://github.com/jseifu
 - [Daniel A. Villena H.](https://github.com/davillenah)
 - [Nathaniel Chan](https://github.com/SevenNateNine)
