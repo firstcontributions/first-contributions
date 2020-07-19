@@ -14,6 +14,7 @@
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
+- [George Black] 
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - Bernard Lucas https://github.com/balucas
 - [Patryk](https://github.com/PatrykB-dot)
