@@ -11,6 +11,7 @@
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
+- [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - Bernard Lucas https://github.com/balucas
