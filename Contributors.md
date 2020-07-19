@@ -2709,6 +2709,7 @@ amin-da
 - [Toni Tester] (My first contribution)
 - [Matthew MacFadyen] (https://github.com/mattmacfadyen96)]
 - [Niels Ehehalt] (https://github.com/Niels1303)
+- [Jeremy Fredrick Black]
 - [Marcio Rocha] (https://github.com/marciojunior88)
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
 - [Konstantin Grigorev] (https://github.com/konstantingrigorev)
