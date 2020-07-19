@@ -206,7 +206,6 @@ Sathya S
 - [manish prajapati](https://github.com/Manish-210)
   [Curt Bridgers] (https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
-- Dhamodaran Pandiyan (https://github.com/dhamodaran-pandiyan)
 - [Arpit Kushwaha](https://github.com/arpitkushwaha)
 - [Daniel Kryszkiewicz](https://github.com/DanielKryszkiewicz)
 - [Yash Mihsra](https://github.com/Codedude1)
