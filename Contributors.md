@@ -386,6 +386,7 @@ Jeremiah Harkins
 - Rahul Rajan
 - Shachindra Pandit
 - Adam Asaad
+- [Gonzalez Adrian Leonardo](https://github.com/Adrgon) 
 - Dagmar Hengesbach
 - Tom Allen
 - Falguni Raina
