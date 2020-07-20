@@ -157,6 +157,7 @@ Nico Tek
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
 - phileinSophos
+- [Bbosecke](https://github.com/bbosecke)
 - [Silas Monahan](https://github.com/monahans)
 - [Dhamodaran Pandiyan] (https://github.com/dhamodaran-pandiyan)
 - [Meet Gamdha](https://github.com/meetgamdha02)
