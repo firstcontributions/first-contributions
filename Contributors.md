@@ -4,6 +4,7 @@
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Andes Lee](https://github.com/Leeand17)
+- Ameeth :) 
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Ziad Adeela](https://github.com/ziadadeela)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
@@ -52,6 +53,7 @@
 - Sampada Kathar (https://github.com/AlacritousCreature)
 - Luke Anderson
 - Michael Spicer (httpes://github.com/Citywideiowa0)
+- ameethS ;)
 - Sandip Kumar(https://github.com/Sandip220593)
 - [Xiulei Zhu](https://github.com/acostry/)
 - [SleepyFoxCode](https://github.com/sleepyfoxcode)
