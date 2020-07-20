@@ -66,6 +66,7 @@
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - [Bradley Moss] (https://github.com/bradleymoss)
+- 8Dion8
 - CodeWithMughal
 - Jonas Kim
 - Sourav Pal
