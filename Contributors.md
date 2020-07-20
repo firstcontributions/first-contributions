@@ -1,4 +1,5 @@
 ﻿# Contributors
+ - [Parishrut Kushwaha](https://github.com/parish09)
 - [Shivam Singla](https://github.com/shivam7374)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
