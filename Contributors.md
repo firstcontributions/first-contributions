@@ -2262,6 +2262,7 @@ Arijit
 - [AndyCE](https://github.com/AndyCE)
 - [Joshua](https://github.com/joshuabrrs)
 - [samhauer](https://github.com/samhauer)
+- [Megan](https://github.com/mjren23)
 - [Boomly](https://github.com/Boomly)
 - [Grace Wilcox](https://github.com/gracewilcox)
 - [tjalsdud](https://github.com/tjalsdud89)
