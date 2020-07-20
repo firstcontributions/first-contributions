@@ -59,3 +59,4 @@
 | 🇬🇪 | [ქართული](README.ge.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
 | 🇫🇮 | [Suomeksi](README.fi.md) |
+| 🇫🇮 | [Беларуская мова](README.by.md) | 
