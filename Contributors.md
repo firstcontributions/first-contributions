@@ -20,6 +20,7 @@
 - Bernard Lucas https://github.com/balucas
 - [Patryk](https://github.com/PatrykB-dot)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
+- [Rajeswar Sharma](https://github.com/RajeswarSharma)
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
 - [Sushant Athley] (https://github.com/uf-sushant)
 - Jape Seifu https://github.com/jseifu
