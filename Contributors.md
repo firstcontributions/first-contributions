@@ -2788,3 +2788,4 @@ amin-da
 - [Krystian Górecki] (https://github.com/krystiangorecki)
 - [Phil Anderson](https://github.com/philanderson888)
 - [Samman](https://github.com/rssrrr)
+- [Prakhar Bindal](https://github.com/prakhar-bindal)
