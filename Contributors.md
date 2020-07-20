@@ -2797,6 +2797,7 @@ amin-da
 -[Yash Srivastava](https://github.com/Yash9456)
 - [Krystian Górecki] (https://github.com/krystiangorecki)
 - [Phil Anderson](https://github.com/philanderson888)
+- [Mohammad Quanit](https://github.com/Mohammad-Quanit)
 - [Samman](https://github.com/rssrrr)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
 - [manheiba](https://github.com/manheiba)
