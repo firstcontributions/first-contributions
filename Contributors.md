@@ -1051,6 +1051,7 @@ Jeremiah Harkins
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
 - [Puneeth PS](https://github.com/puneethps)
+- [Reniel](https://github.com/ren1el)
 - [Maeve Farrell](https://github.com/maevefarrell)
 - [evanca](https://github.com/evanca)
 - [Tomas Rejhons](https://github.com/tomasrejhons)
