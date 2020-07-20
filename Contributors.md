@@ -97,6 +97,7 @@
 - Anand Krishnan (https://github.com/akrishnan93)
 - [Anna Wijetunga] (https://github.com/AnnaWijetunga)
 - Isaiah Blanks (https://github.com/IsaiahBlanks)
+- [Nithin Kumar] (https://github.com/nithintata)
 - Daniel Pyon (https://github.com/danielpyon)
 - Elyahu Jacobi (https://github.com/Elyahu41)
 - Sarabjyot Singh 
