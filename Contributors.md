@@ -11,7 +11,7 @@
 - [Arjun Puthli](https://github.com/akagam1)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Brisibe Joseph](https://github.com/brisibe)
-- [Kaushik Chatterjee](https://github.com/kchatr)
+- [Endri Celaj] (https://github.com/endri2211)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
