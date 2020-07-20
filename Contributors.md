@@ -61,6 +61,7 @@
 - [Xiulei Zhu](https://github.com/acostry/)
 - [SleepyFoxCode](https://github.com/sleepyfoxcode)
 - [Faraz Suhail] (https://https://github.com/Faraz710)
+- [Fisayo Ojo](https://github.com/FisayoD)
 - [Juliano Paulo] (https://github.com/jsdie099)
 - [Kyle Paulma] (https://github.com/kylepaulma)
 - [Taha Dharamsi] (https://github.com/tahanzania)
