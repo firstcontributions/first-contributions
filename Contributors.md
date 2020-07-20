@@ -89,6 +89,7 @@
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
 - Taylor Koressel 
+- Anya Schechter (https://github.com/abracadabra89/)
 - yosef (did it)
 - Mahir Goel
 - Paul Hartman (https://github.com/paulhartman1)
