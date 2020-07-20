@@ -2791,4 +2791,4 @@ amin-da
 - [Phil Anderson](https://github.com/philanderson888)
 - [Samman](https://github.com/rssrrr)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
-- [manheiba](https://github.com/manheiba)
+- [Manheiba](https://github.com/manheiba)
