@@ -75,6 +75,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - 8Dion8
 - CodeWithMughal
+- farhan
 - Jonas Kim
 - Sourav Pal
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
