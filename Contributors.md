@@ -1022,6 +1022,7 @@ Jeremiah Harkins
 - [Mohammed Saeed](https://github.com/saeed27-dev)
 - [Christopher Gardner](https://github.com/Orbitsub)
 - [Carnival Wilson](https://github.com/TiKebek)
+- [Jack Coggins](https://github.com/VoidAwake)
 - [Austin Hufstetler](https://github.com/austinHufstetler)
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [Jonathan Raxa](https://github.com/jonathanraxa/)
