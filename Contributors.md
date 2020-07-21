@@ -2746,6 +2746,7 @@ amin-da
 - [Arcane Arronax](https://github.com/arcanearronax)
 - [Sarah Easton](https://github.com/nuthatch-s)
 - 123
+- [Jacob](https://github.com/JacobMcCormick16)
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
 - [armsasmart](https://github.com/armsasmart)
