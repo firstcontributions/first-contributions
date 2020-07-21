@@ -2206,6 +2206,7 @@ Arijit
 - [Arpan Kc](https://github.com/nipeshkc7)
 - [Zezhengw Wu](https://github.com/Sec-ant)
 - [Nick Pula](https://github.com/npula)
+- [Theresa Obamwonyi](https://github.com/Resa-Obamwonyi)
 - [CeciliaP.](https://github.com/ceci99pb)
 - [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
