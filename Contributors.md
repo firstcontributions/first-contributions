@@ -5,6 +5,7 @@
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Adrian Sowiński](https://github.com/TheAner)
+- [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Andes Lee](https://github.com/Leeand17)
