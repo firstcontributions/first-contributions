@@ -20,6 +20,7 @@
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [George Black] 
+- [Rishabh Sharma](https://github.com/rishiar4)
 - [Skyler Milliken](https://github.com/relykstm)
 - [Om](https://github.com/OmLakshmi)
 - [Satheesh Gajula](https://github.com/satheesh22g)
