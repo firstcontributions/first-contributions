@@ -2808,6 +2808,7 @@ amin-da
 - [Phil Anderson](https://github.com/philanderson888)
 - [Mohammad Quanit](https://github.com/Mohammad-Quanit)
 - [Samman](https://github.com/rssrrr)
+- [Aakanchha Trivedi](https://github.com/aakanchha01)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
 - [atglenio](https://github.com/atglenio)
 - [manheiba](https://github.com/manheiba)
