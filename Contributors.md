@@ -61,6 +61,7 @@
 - Tullia Glaeser (https://github.com/tamglaeser)
 -Awais
 - Sampada Kathar (https://github.com/AlacritousCreature)
+- Tyler Brennan (https://github.com/tylerbrennan)
 - Luke Anderson
 - Michael Spicer (httpes://github.com/Citywideiowa0)
 - Sandip Kumar(https://github.com/Sandip220593)
