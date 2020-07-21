@@ -8,6 +8,7 @@
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Andes Lee](https://github.com/Leeand17)
+- [Shubham Singh](https://github.com/suubh)
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Ziad Adeela](https://github.com/ziadadeela)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
@@ -19,6 +20,7 @@
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [George Black] 
+- [Skyler Milliken](https://github.com/relykstm)
 - [Om](https://github.com/OmLakshmi)
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - [Godstime Onyibe](https://github.com/Godstyme)
@@ -80,6 +82,7 @@
 - Robert Wright Jr.
 - Mayank Goel
 - [Bryan Hooper](https://github.com/bthooper)
+- Gyanendra Pratap
 - ivioje
 - Eitan
 - [Aman Bhardwaj](https://github.com/inblack67)
@@ -118,6 +121,7 @@
 - Aman jain (https://github.com/amanjainn)
 - Subham Das (https://github.com/das-jishu)
 - [Asyraf-labs](https://github.com/asyraf-labs)
+AMAN4444
 - awotndn (https://github.com/awotndn)
 - [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
@@ -2202,6 +2206,7 @@ Arijit
 - [Arpan Kc](https://github.com/nipeshkc7)
 - [Zezhengw Wu](https://github.com/Sec-ant)
 - [Nick Pula](https://github.com/npula)
+- [Theresa Obamwonyi](https://github.com/Resa-Obamwonyi)
 - [CeciliaP.](https://github.com/ceci99pb)
 - [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
@@ -2745,6 +2750,7 @@ amin-da
 - [Arcane Arronax](https://github.com/arcanearronax)
 - [Sarah Easton](https://github.com/nuthatch-s)
 - 123
+- [Jacob](https://github.com/JacobMcCormick16)
 - [Kevin](https://github.com/kaliomar)
 - [Ryann Ferreira](https://github.com/Ryannnkl)
 - [armsasmart](https://github.com/armsasmart)
@@ -2803,7 +2809,10 @@ amin-da
 - [Mohammad Quanit](https://github.com/Mohammad-Quanit)
 - [Samman](https://github.com/rssrrr)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
+- [atglenio](https://github.com/atglenio)
 - [manheiba](https://github.com/manheiba)
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
 - [Ty Chermsirivatana](https://github.com/WarpWing)
+- [Amjed Saleel](https://github.com/amjedsaleel)
+
