@@ -82,6 +82,7 @@
 - Robert Wright Jr.
 - Mayank Goel
 - [Bryan Hooper](https://github.com/bthooper)
+- Gyanendra Pratap
 - ivioje
 - Eitan
 - [Aman Bhardwaj](https://github.com/inblack67)
