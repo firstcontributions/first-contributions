@@ -253,6 +253,7 @@ Sathya S
 - [Carlos Hernandez](https://github.com/caedhesa)
 - Rio Hayakawa
 - Michał Krakiewicz
+- [Pedro Gonçalves](https://github.com/psgg1981/)
 - [Carl Walker](https://github.com/cwonline) 
 - Werner E.
 - [Ahmed Mahfoudh](https://www.linkedin.com/in/ahmed-mahfoudh/)
