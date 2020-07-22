@@ -2833,4 +2833,5 @@ amin-da
 - [Amjed Saleel](https://github.com/amjedsaleel)
 - [Adnan Khan](https://github.com/Adnan-Khanx)
 - [Abhishek L](https://github.com/Abhishec177)
+- [Sorin Bobocel](https://github.com/sorinbobocel)
 - [Ramon Ferreira](https://github.com/ramonfsk)
