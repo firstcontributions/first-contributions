@@ -1754,6 +1754,7 @@ Chidiogo Umezinne
 - [Akshat Katiyar](https://github.com/YellowFoxH4XOR)
 - [Harsimran Singh](https://github.com/harsimran17)
 - [Luiz Felipe Domingues](https://github.com/lfsando)
+- [Victor Kayan](https://github.com/victor-kayan)
 - [Hardy Xu](https://github.com/xuxin3101)
 - [penpenpng](https://github.com/penpenpng)
 - [Giovanni Ciandrini](https://github.com/gciandro13)
