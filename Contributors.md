@@ -175,6 +175,7 @@ Dante Chakravorti
 - [David Sykes] (https://github.com/davidjsykes)
 - [Pallav Jain] (https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
+- [Chris Bell] (https://github.com/chrisbellcodes)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
 - [Nilesh Hazra](https://github.com/nileshhazra)
