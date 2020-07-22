@@ -380,6 +380,7 @@
 - [Rojan Karn](https://github.com/rokarn12)
 - [Raul Galindo](https://github.com/raulesgalindo)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
+- [Debanjan Dey](https://https://github.com/debjde6400)
 - [trysh](https://github.com/trysh)
 - [Dean Huynh](https://github.com/deanhuynh)
 - [Aryaman Parekh](https://github.com/aparekh5)
