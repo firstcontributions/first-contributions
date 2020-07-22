@@ -10,6 +10,7 @@
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Andes Lee](https://github.com/Leeand17)
+- [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Ziad Adeela](https://github.com/ziadadeela)
