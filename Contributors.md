@@ -1,6 +1,6 @@
 ﻿# Contributors
 -[Samuel Jo] (https://github.com/squireaintready)
- - [Parishrut Kushwaha](https://github.com/parish09)
+- [Parishrut Kushwaha](https://github.com/parish09)
 - [Shivam Singla](https://github.com/shivam7374)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
@@ -9,6 +9,7 @@
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
+- [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
