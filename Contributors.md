@@ -1407,6 +1407,7 @@ Chidiogo Umezinne
 - [Logan Watson](https://github.com/lwatson2)
 - [Ranjit Saimbi](https://github.com/RanjitSaimbi/)
 - [Francesco Sardone](https://github.com/Airsit)
+- [Arthur Song](https://github.com/atribecalledarty)
 - [Michael Shea](https://github.com/soum-io)
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
 - [Andres Hernandez](https://github.com/Thunderbolt2010)
