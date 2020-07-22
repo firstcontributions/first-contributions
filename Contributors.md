@@ -1801,6 +1801,7 @@ Arijit
 - [Darshana] (https://github.com/lady-ada)
 - [Juan Belieni](https://github.com/juanbelieni)
 - [Louis Michael](https://github.com/Louis-Michael)
+- [Ryan Simpson] (https://github.com/Arancium)
 - [Sokratis Kouimtzidis](https://github.com/sokratix)
 - [Don Norkett](https://github.com/dnorkett)
 - [doesnotcompute420](https://github.com/doesnotcompute420)
