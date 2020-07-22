@@ -1678,6 +1678,7 @@ Chidiogo Umezinne
 - [Tom](https://github.com/PsiPhiTheta)
 - [Santeri](https://github.com/sQnteri)
 - [normyp](https://github.com/normyp)
+- Arpan Banerjee (https://github.com/arpan-banerjee7)
 - [Krishna Mohan](https://github.com/kmohan217gg)
 - [Joydeep Tapaswi](https://github.com/tapaswimail)
 - [Sandeepa AMCP](https://github.com/sandeepaamcp)
