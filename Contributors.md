@@ -247,6 +247,7 @@ Sathya S
 - [Arpit Kushwaha](https://github.com/arpitkushwaha)
 - [Daniel Kryszkiewicz](https://github.com/DanielKryszkiewicz)
 - [Yash Mihsra](https://github.com/Codedude1)
+- [Rifqi Dewangga](https://github.com/rifqidewangga)
 - [oakoudad](https://github.com/oakoudad1)
 - [Steven Sutton](https://github.com/stevenasutton)
 - pradeep kumar
