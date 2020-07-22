@@ -2832,3 +2832,4 @@ amin-da
 - [Adnan Khan](https://github.com/Adnan-Khanx)
 - [Abhishek L](https://github.com/Abhishec177)
 - [Ramon Ferreira](https://github.com/ramonfsk)
+- [Firas Mujahidin](https://github.com/firasisme)
