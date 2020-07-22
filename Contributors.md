@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 -[Pawan Solanki](https://github.com/solankipawan)
 -[Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
@@ -24,6 +24,7 @@
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
+- [Sandesh Chapagain](https://github.com/schapagain)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [Aidan Duff](https://github.com/aidanduff)
