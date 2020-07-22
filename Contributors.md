@@ -21,6 +21,7 @@
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
+- [Abhishek Thakur](https://github.com/abhishekthakur0)
 - [George Black] 
 - [Rishabh Sharma](https://github.com/rishiar4)
 - [Skyler Milliken](https://github.com/relykstm)
