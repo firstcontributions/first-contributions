@@ -84,7 +84,7 @@
 - 8Dion8
 - CodeWithMughal
 - farhan
-- [Benson Imoh](https://github.com/stbensonimoh)
+- [Benson Imoh,ST](https://github.com/stbensonimoh)
 - Jonas Kim
 - Sourav Pal
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
