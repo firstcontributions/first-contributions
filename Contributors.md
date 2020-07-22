@@ -20,6 +20,7 @@
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
+- [Aidan Duff](https://github.com/aidanduff)
 - [George Black] 
 - [Rishabh Sharma](https://github.com/rishiar4)
 - [Skyler Milliken](https://github.com/relykstm)
