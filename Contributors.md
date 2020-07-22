@@ -2854,3 +2854,4 @@ amin-da
 - [Visenna88] (https://github.com/Visenna88)
 - [Chris Achinga](https://github.com/ChrisAchinga)
 - [Santanu Biswas](https://github.com/SantanuxDg)
+- [Vinay Kumar Singh](https://github.com/vinay0001)
