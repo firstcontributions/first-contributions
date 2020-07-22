@@ -6,6 +6,7 @@
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shashank Aital](https://github.com/aitalshashank2)
+- [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
 - [Adrian Sowiński](https://github.com/TheAner)
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
