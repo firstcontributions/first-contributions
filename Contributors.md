@@ -23,6 +23,7 @@
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Arjun Puthli](https://github.com/akagam1)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
+- [Kristin Skipper](https://github.com/lifefromashes)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
