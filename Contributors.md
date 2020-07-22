@@ -25,6 +25,7 @@
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Kristin Skipper](https://github.com/lifefromashes)
 - [Brisibe Joseph](https://github.com/brisibe)
+- [Amikk Homr] (https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Sandesh Chapagain](https://github.com/schapagain)
@@ -2860,4 +2861,4 @@ amin-da
 - [Chris Achinga](https://github.com/ChrisAchinga)
 - [Santanu Biswas](https://github.com/SantanuxDg)
 - [Vinay Kumar Singh](https://github.com/vinay0001)
-- [Patrick Roy](https://github.com/paedrik)
+- [Patrick Roy](https://github.com/)
