@@ -48,6 +48,7 @@
 - Hariprasath
 - Mark - mark-nu
 - ankit kumar
+- Samruddhi Padture
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
 - Minel Aydın - Minnela :) (https://github.com/minnela)
