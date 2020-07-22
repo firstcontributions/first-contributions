@@ -1,4 +1,5 @@
 # Contributors
+-[Akash Chouhan](https://github.com/akashchouhan16)
 -[Pawan Solanki](https://github.com/solankipawan)
 -[Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
