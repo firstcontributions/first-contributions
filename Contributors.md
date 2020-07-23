@@ -1,5 +1,6 @@
 # Contributors
 -[Pawan Solanki](https://github.com/solankipawan)
+- [Anthony Gelder](https://github.com/anthonygelder)
 -[Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [Shivam Singla](https://github.com/shivam7374)
