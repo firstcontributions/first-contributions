@@ -1,5 +1,6 @@
 # Contributors
 -[Pawan Solanki](https://github.com/solankipawan)
+-[Mohirbek Odiljonov](https://github.com/mahercoder)
 - [Anthony Gelder](https://github.com/anthonygelder)
 -[Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
