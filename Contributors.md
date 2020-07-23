@@ -1,4 +1,5 @@
 # Contributors
+- [Samantha Monteiro](https://github.com/samanthakem)
 -[Qasim Qlf](https://github.com/qasimqlf)
 -[Pawan Solanki](https://github.com/solankipawan)
 -[Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
@@ -39,7 +40,7 @@
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [Aidan Duff](https://github.com/aidanduff)
-- [George Black] 
+- [George Black]
 - [Rishabh Sharma](https://github.com/rishiar4)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
 - [Skyler Milliken](https://github.com/relykstm)
@@ -121,7 +122,7 @@
 - jacobsb
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
-- Taylor Koressel 
+- Taylor Koressel
 - Anya Schechter (https://github.com/abracadabra89/)
 - yosef (did it)
 - Jimmy Holmes (https://github.com/MrDrHolmes)
@@ -142,7 +143,7 @@
 - [Nithin Kumar] (https://github.com/nithintata)
 - Daniel Pyon (https://github.com/danielpyon)
 - Elyahu Jacobi (https://github.com/Elyahu41)
-- Sarabjyot Singh 
+- Sarabjyot Singh
 - Shivam Rawat
 - Ramneek Riar (https://github.com/rkriar)
 - Elias Urios Alacreu
@@ -210,7 +211,7 @@ Nico Tek
 - [Meet Gamdha](https://github.com/meetgamdha02)
 - [Aminat Yakubu] (https://github.com/giselle2323/)
 - Gerald Tay (https://github.com/penguinoob)
-- [Lakshay Yadav](https://github.com/Lucky0108) 
+- [Lakshay Yadav](https://github.com/Lucky0108)
 - [Steve Fossey] (https://stevefossey.ca/)
 - [Ivica Pizent](https://github.com/IvicaPizent)
 - [Nicky Choi](https://github.com/njch5)
@@ -244,7 +245,7 @@ Sathya S
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
 - [Pratyush Kumar](https://github.com/Pratyukumar)
 - [Chris Richardson] (https://github.com/ctrich)
-- [Harshank Pathak](https://github.com/H4rsh4nk) 
+- [Harshank Pathak](https://github.com/H4rsh4nk)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M] (https://github.com/muthuraj27)
 - [Feroz Mughal](https://github.com/fmugha2)
@@ -288,7 +289,7 @@ Sathya S
 - Rio Hayakawa
 - Michał Krakiewicz
 - [Pedro Goncalves](https://github.com/psgg1981/)
-- [Carl Walker](https://github.com/cwonline) 
+- [Carl Walker](https://github.com/cwonline)
 - Werner E.
 - [Ahmed Mahfoudh](https://www.linkedin.com/in/ahmed-mahfoudh/)
 - Werner G.
@@ -344,14 +345,14 @@ Jeremiah Harkins
 - [Eduardo Wallace](https://github.com/eduardolwallace)
 - jenny heyyy
 - ankita mishra
-- [Jody Eggleston](https://github.com/jmeggles) 
+- [Jody Eggleston](https://github.com/jmeggles)
 - celia
 - Leszek
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
 - [Sikander Nishad](https://github.com/skaisahni)
-- [Vik-Ch] (https://github.com/Vik-Ch)   
+- [Vik-Ch] (https://github.com/Vik-Ch)
 - tivrfoa
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
@@ -392,7 +393,7 @@ Jeremiah Harkins
 - lk-git
 - Eddie Lewis
 - Or Dotan
-- [bog204](https://github.com/bog204) 
+- [bog204](https://github.com/bog204)
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
@@ -432,12 +433,12 @@ Jeremiah Harkins
 - Rahul Rajan
 - Shachindra Pandit
 - Adam Asaad
-- [Gonzalez Adrian Leonardo](https://github.com/Adrgon) 
+- [Gonzalez Adrian Leonardo](https://github.com/Adrgon)
 - Dagmar Hengesbach
 - Tom Allen
 - Falguni Raina
 - malde11
-- Heidi 
+- Heidi
 - [Michael Mamich](https://github.com/MMMamich) 🤓
 - [Lucas Amaral](https://github.com/doamaral)
 - LA
@@ -464,8 +465,8 @@ Jeremiah Harkins
 - [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
-- [halo42](https://github.com/halo42) 
-- motr528 
+- [halo42](https://github.com/halo42)
+- motr528
 - Hope T
 - :) Angelica Jones :) https://github.com/anjones1000
 - [Sean Justice](https://github.com/scjustice)
