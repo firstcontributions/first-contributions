@@ -120,6 +120,7 @@
 - Taylor Koressel 
 - Anya Schechter (https://github.com/abracadabra89/)
 - yosef (did it)
+- Jimmy Holmes (https://github.com/MrDrHolmes)
 - Mahir Goel
 - Paul Hartman (https://github.com/paulhartman1)
 - [Ansh Dhingra](https://github.com/anshdhinhgra47)
