@@ -1,4 +1,5 @@
 # Contributors
+-[Jivthesh M R](https://github.com/jivthesh)
 -[Pawan Solanki](https://github.com/solankipawan)
 - [Anthony Gelder](https://github.com/anthonygelder)
 -[Samuel Jo] (https://github.com/squireaintready)
