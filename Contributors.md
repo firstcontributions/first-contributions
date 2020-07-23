@@ -5,6 +5,7 @@
 - [Anthony Gelder](https://github.com/anthonygelder)
 -[Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
+-[Gajanand Singh](https://github.com/PRINCE1409)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
 - [Shivam Singla](https://github.com/shivam7374)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
