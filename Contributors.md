@@ -10,6 +10,7 @@
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
 - [Adrian Sowiński](https://github.com/TheAner)
+- [Shilpi Maurya] (https://github.com/ShilpiMaurya)
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
