@@ -1223,6 +1223,7 @@ Jeremiah Harkins
 - [Alex Florides](https://github.com/Alexf97)
 - [Amanda B](https://github.com/critterconvention)
 - [Harsh Prabhu](https://github.com/harsh1599)
+- [Bhavesh Lohana](https://github.com/bhaveshlohana)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Mehdi CHERFI](https://github.com/cherfim)
 - [Muhammad Hassan Shakeel](https://github.com/mHassan20896)
