@@ -1157,6 +1157,7 @@ Jeremiah Harkins
 - [Hiba Umair](https://github.com/HibaU)
 - [Wen Liang](https://github.com/wensuk)
 - [Aihab Umair](https://github.com/Aihab1)
+- [duckzord](https://github.com/duckzord)
 - [Stef](https://github.com/iamstefin)
 - [siddharth kumar](https://github.com/Siddharth-coder13)
 - [Mantas Astrauskas](https://github.com/MAstrauskas)
