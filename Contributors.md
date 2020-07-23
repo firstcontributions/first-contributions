@@ -5,6 +5,7 @@
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [Shivam Singla](https://github.com/shivam7374)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
+- [Tilak Bhansali](https://github.com/tilak30)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
