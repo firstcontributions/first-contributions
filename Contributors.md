@@ -24,6 +24,7 @@
 - [Arjun Puthli](https://github.com/akagam1)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Kristin Skipper](https://github.com/lifefromashes)
+- [Vasiliy Harden](https://github.com/VasiliyHarden)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Amikk Homr] (https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
