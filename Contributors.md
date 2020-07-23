@@ -1948,6 +1948,7 @@ Arijit
 - [Titus Wen](https://github.com/wen372)
 - [Toni Blackwelder](https://github.com/toni517b)
 - [Takeen Evens](https://github.com/TakiiCoder)
+- [Baruch Phillips](https://github.com/bphillips95)
 - [Ian Stubbs](https://github.com/Stubbs-Ian)
 - [Minhaz Alam](https://github.com/M1NH42)
 - [Firdaus Ashiddiqi Noor](https://github.com/fowaah55)
