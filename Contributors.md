@@ -6,6 +6,7 @@
 - [Arjun Puthli](https://github.com/akagam1)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Brisibe Joseph](https://github.com/brisibe)
+- [Anjal Binayak](https://github.com/anjalbinayak)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
