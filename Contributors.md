@@ -338,6 +338,7 @@ Jeremiah Harkins
 - [Eduardo Wallace](https://github.com/eduardolwallace)
 - jenny heyyy
 - ankita mishra
+- [Jody Eggleston](https://github.com/jmeggles) 
 - celia
 - Leszek
 - [SmileInYourFace](https://github.com/SmileInYourFace)
