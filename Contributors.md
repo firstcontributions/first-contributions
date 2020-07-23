@@ -2864,5 +2864,5 @@ amin-da
 - [Chris Achinga](https://github.com/ChrisAchinga)
 - [Santanu Biswas](https://github.com/SantanuxDg)
 - [Vinay Kumar Singh](https://github.com/vinay0001)
-
+- [Amr Adel Omar] (https://github.com/amromar-dev)
 - [Patrick Roy](https://github.com/)
