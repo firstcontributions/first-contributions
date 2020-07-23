@@ -1433,6 +1433,7 @@ Chidiogo Umezinne
 - [Ranjit Saimbi](https://github.com/RanjitSaimbi/)
 - [Francesco Sardone](https://github.com/Airsit)
 - [Arthur Song](https://github.com/atribecalledarty)
+- [Danny Whitt](https://github.com/Danny-Whitt-Bose)
 - [Michael Shea](https://github.com/soum-io)
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
 - [Andres Hernandez](https://github.com/Thunderbolt2010)
