@@ -177,6 +177,7 @@ AMAN4444
 Bala Hantsi
 Dante Chakravorti
 - Andrew M
+- [Mark Dixon](https://github.com/ForeverThinking)
 - Nico Tek
 - Isaac M
 - [James Nacua](https://github.com/jacavena)
