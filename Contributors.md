@@ -2896,3 +2896,4 @@ amin-da
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
+- [Franklin Magoba](https://github.com/frankMagoba)
