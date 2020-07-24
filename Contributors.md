@@ -54,6 +54,7 @@
 - [Godstime Onyibe](https://github.com/Godstyme)
 - Bernard Lucas https://github.com/balucas
 - [Patryk](https://github.com/PatrykB-dot)
+- [Felipe Augusto](https://github.com/relipe)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
 - [Rajeswar Sharma](https://github.com/RajeswarSharma)
 - [Charles Topliff](https://github.com/ctopliff)
