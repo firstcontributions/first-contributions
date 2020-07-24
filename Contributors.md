@@ -42,6 +42,7 @@
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [Aidan Duff](https://github.com/aidanduff)
+- [Fotie M. Constant](https://github.com/FotieMConstant)
 - [George Black] 
 - [Rishabh Sharma](https://github.com/rishiar4)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
