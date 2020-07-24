@@ -412,6 +412,7 @@ Jeremiah Harkins
 - [Michael Acolatse](https://github.com/mikeaco)
 - Babyhulk66
 - [Divisha Gupta](https://github.com/divishagupta99)
+- [kafooo](https://github.com/kafooo)
 - Francisco Javier Olmos
 - [Augustine Virgo](https://github.com/virgoaugustine)
 - Rodario42
