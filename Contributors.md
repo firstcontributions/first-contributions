@@ -2881,6 +2881,7 @@ amin-da
 - [Brandon Boettcher](https://github.com/boett)
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mihilt](https://github.com/mihilt)
+- Sagar Varma
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
 -[Ty Chermsirivatana](https://github.com/WarpWing)
 - [Amjed Saleel](https://github.com/amjedsaleel)
