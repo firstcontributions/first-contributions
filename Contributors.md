@@ -172,6 +172,7 @@ Bala Hantsi
 Dante Chakravorti
 - Andrew M
 - Nico Tek
+- Isaac M
 - [James Nacua](https://github.com/jacavena)
 - Abhay (https://github.com/abhay007kr)
 - Nikhil Nair
