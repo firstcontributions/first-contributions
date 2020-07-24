@@ -2889,4 +2889,5 @@
 - [Patrick Roy](https://github.com/)
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
+- [Aakash Thakur](https://github.com/ATakaSKY
 - [Rajwrita Nath](https://github.com/Rajwrita)
