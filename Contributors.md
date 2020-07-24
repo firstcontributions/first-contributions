@@ -2894,3 +2894,4 @@ amin-da
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
+- [Adam Wybierala](https://github.com/Groskilled)
