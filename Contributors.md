@@ -13,6 +13,7 @@
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - Bernard Lucas https://github.com/balucas
 - [Patryk](https://github.com/PatrykB-dot)
+- [Felipe Augusto](https://github.com/relipe)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
 [Biswas Nandamuri] (https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
