@@ -642,6 +642,7 @@ Jeremiah Harkins
 - Costea Ionut-Andrei
 - Mathias
 - alti12
+- wBlanck
 - [Mark Kulube](https://github.com/markkulube)
 - Malachi Ivey
 - [Karim Kohel](https://github.com/karimkohel)
