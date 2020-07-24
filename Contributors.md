@@ -11,6 +11,7 @@
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Tilak Bhansali](https://github.com/tilak30)
 - [Noman Arshad](https://github.com/nomanarshad94)
+ [Abdoulaye Balde] (https://github.com/abdoulayegk)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
