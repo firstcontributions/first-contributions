@@ -126,7 +126,8 @@
 - keelisetti lokesh (https://github.com/lokeshkeelisetti)
 - [Sharique Khan] (https://github.com/sharique-tech1987)
 - Eiseid
-- jacobsb
+- jacob
+- Jesus Arnau Villar (https://github.com/jarnawer)
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
 - Taylor Koressel 
