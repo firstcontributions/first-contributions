@@ -397,6 +397,7 @@ Jeremiah Harkins
 - [Anuj Upadhyaya](https://github.com/anuj98)
 - [Ayush Sinha](https://github.com/ayushsinha-13)
 - Deppah
+- [Janie-Marie](https://github.com/kuskarina)
 - [Oliver Mak](https://github.com/oliver139)
 - lk-git
 - Eddie Lewis
