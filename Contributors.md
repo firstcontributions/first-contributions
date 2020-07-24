@@ -17,7 +17,6 @@
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
 - [Adrian Sowiński](https://github.com/TheAner)
 - [Shilpi Maurya](https://github.com/ShilpiMaurya)
- [Abdoulaye Balde] (https://github.com/abdoulayegk)
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
