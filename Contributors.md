@@ -2897,3 +2897,4 @@ amin-da
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
+- [Prashanth Wagle](https://github.com/prashanthwagle/)
