@@ -21,6 +21,7 @@
 - [Shilpi Maurya](https://github.com/ShilpiMaurya)
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
+- [Zafir Hasan](https://github.com/zafirhsn)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
