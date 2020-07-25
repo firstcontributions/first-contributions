@@ -58,6 +58,7 @@
 - [Sandesh Chapagain](https://github.com/schapagain)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
+- [Abhishek Thakur](https://github.com/abhishekthakur0)
 - [Aidan Duff](https://github.com/aidanduff)
 - George Black
 - [Fotie M. Constant](https://github.com/FotieMConstant)
