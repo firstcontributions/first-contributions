@@ -594,6 +594,7 @@ Jeremiah Harkins
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Rui Luís
+- timamero
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
