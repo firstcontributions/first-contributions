@@ -128,6 +128,7 @@
 - Michael Finn'
 - [Gbemi Akerele] (https://github.com/Gbemim)
 - Shashank Mishra
+- new
 - Robert Wright Jr.
 - Mayank Goel
 - [Bryan Hooper](https://github.com/bthooper)
