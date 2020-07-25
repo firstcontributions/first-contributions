@@ -1804,6 +1804,7 @@ Chidiogo Umezinne
 - [Parkash Pant](https://github.com/parkashpant)
 - [Stephen Paslaski](https://github.com/paslasks)
 - [Josh Hagins](https://github.com/BlitheBacon)
+- [Christopher Walker](https://github.com/chrisashwalker)
 - [Sci-Phy](https://github.com/Sci-Phy)
 - [Ryan Redburn](https://github.com/RyanRedburn)
 - [Ryan Oliveira](https://github.com/Ryoliveira)
