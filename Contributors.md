@@ -12,6 +12,7 @@
 - [Gajanand Singh](https://github.com/PRINCE1409)
 - [Tarang Singhal](https://github.com/Tarang-singhal)
 - [Jivthesh M R](https://github.com/jivthesh)
+- [Ashutosh Raman](https://github.com/ashutosh0709)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
 - [Shivam Singla](https://github.com/shivam7374)
