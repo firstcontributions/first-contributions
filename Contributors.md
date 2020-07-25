@@ -13,6 +13,7 @@
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Tilak Bhansali](https://github.com/tilak30)
 - [Noman Arshad](https://github.com/nomanarshad94)
+- [Siddharth Mishra](https://github.com/Hard-Coder05)
  [Abdoulaye Balde] (https://github.com/abdoulayegk)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
