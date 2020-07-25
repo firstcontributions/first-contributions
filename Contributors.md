@@ -19,6 +19,7 @@
 -[Briana] (https://github.com/MosNeagu) 
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
+- [Joseph Kim](https://github.com/thejykim)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
 - [Adrian Sowiński](https://github.com/TheAner)
