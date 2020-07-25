@@ -149,6 +149,7 @@
 - Sarabjyot Singh 
 - Shivam Rawat
 - Ramneek Riar (https://github.com/rkriar)
+- [Ebeagu Samuel](https://github.com/ebeagusamuel)
 - Elias Urios Alacreu
 - Igho Okeoghene (https://github.com/igho-okeoghene)
 - [Harsh Kapadia](https://github.com/HarshKapadia2)
