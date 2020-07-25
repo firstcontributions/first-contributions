@@ -40,6 +40,7 @@
 - [Ziad Adeela](https://github.com/ziadadeela)
 - [Abbey Dabiri](https://github.com/abbeydabiri)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
+- [Joshua Fritsch] (https://github.com/jfritsch75)
 - [Arjun Puthli](https://github.com/akagam1)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Kristin Skipper](https://github.com/lifefromashes)
