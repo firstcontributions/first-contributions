@@ -82,6 +82,7 @@
 - [Felipe Augusto](https://github.com/relipe)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
 - [Rajeswar Sharma](https://github.com/RajeswarSharma)
+- [Kim Hallberg](https://github.com/thinkverse)
 - [Charles Topliff](https://github.com/ctopliff)
 - [Rakshita Maheshwari](https://github.com/rakshitamaheshwari)
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
