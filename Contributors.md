@@ -2933,6 +2933,7 @@ amin-da
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
+- [Adam Wybierala](https://github.com/Groskilled)
 - [Franklin Magoba](https://github.com/frankMagoba)
 - [Prashanth Wagle](https://github.com/prashanthwagle/)
 - [Everton Volpi] (https://github.com/evolpi)
