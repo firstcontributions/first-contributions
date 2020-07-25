@@ -9,6 +9,7 @@
 -[Gajanand Singh](https://github.com/PRINCE1409)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
 - [Shivam Singla](https://github.com/shivam7374)
+- [Rumit Tandukar](https://github.com/rumit0270)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Tilak Bhansali](https://github.com/tilak30)
 - [Noman Arshad](https://github.com/nomanarshad94)
