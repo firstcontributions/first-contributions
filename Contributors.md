@@ -28,6 +28,7 @@
 - [Andes Lee](https://github.com/Leeand17)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
+- [Vanshaj Bhatnagar](https://github.com/thePrankster)
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Dheeraj Kotwani](https://github.com/dheerajkotwani)
 - [Ziad Adeela](https://github.com/ziadadeela)
