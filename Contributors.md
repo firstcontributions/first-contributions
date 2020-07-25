@@ -2922,5 +2922,6 @@ amin-da
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
+- [Franklin Magoba](https://github.com/frankMagoba)
 - [Prashanth Wagle](https://github.com/prashanthwagle/)
 - [Everton Volpi] (https://github.com/evolpi)
