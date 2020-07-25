@@ -79,6 +79,7 @@
 - [punchitchewie](https://github.com/punchitchewie)
 - Hariprasath
 - Mark - mark-nu
+- Zach Sonnenblick
 - [Darrien Chow](https://github.com/darrien-c)
 - ankit kumar
 - Samruddhi Padture
