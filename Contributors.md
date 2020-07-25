@@ -1,4 +1,5 @@
 # Contributors
+- [Akash Chouhan](https://github.com/akashchouhan16)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
