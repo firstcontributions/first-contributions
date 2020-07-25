@@ -2917,6 +2917,7 @@ amin-da
 - [Mihilt](https://github.com/mihilt)
 - Sagar Varma
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
+- [Aizaz Ahmad](https://github.com/aaizkhan)
 - [Ty Chermsirivatana](https://github.com/WarpWing)
 - [Amjed Saleel](https://github.com/amjedsaleel)
 - [Adnan Khan](https://github.com/Adnan-Khanx)
