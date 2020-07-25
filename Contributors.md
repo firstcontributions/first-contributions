@@ -21,6 +21,7 @@
 - [Noman Arshad](https://github.com/nomanarshad94)
 - [JOnathan White](https://github.com/jonathancwhite)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
+- [Aarushi](https://github.com/xxx32)
 - [Abdoulaye Balde](https://github.com/abdoulayegk)
 - [Briana](https://github.com/MosNeagu) 
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
