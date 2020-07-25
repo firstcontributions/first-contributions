@@ -2904,4 +2904,4 @@
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
 - [Prashanth Wagle](https://github.com/prashanthwagle/)
-- [Julien_Bouafia](https://github.com/julienb86)
+- [Julien Bouafia](https://github.com/julienb86)
