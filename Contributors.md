@@ -119,6 +119,7 @@
 - Tullia Glaeser (https://github.com/tamglaeser)
 -Awais
 - Sampada Kathar (https://github.com/AlacritousCreature)
+- [Rahul Pandey](https://github.com/Marvel-o-us)
 - Tyler Brennan (https://github.com/tylerbrennan)
 - Luke Anderson
 - Michael Spicer (httpes://github.com/Citywideiowa0)
