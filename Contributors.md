@@ -73,6 +73,7 @@
 - [Godstime Onyibe](https://github.com/Godstyme)
 - Bernard Lucas https://github.com/balucas
 - [Patryk](https://github.com/PatrykB-dot)
+- [Rahul Rank](https://github.com/rahulrank)
 - [Felipe Augusto](https://github.com/relipe)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
 - [Rajeswar Sharma](https://github.com/RajeswarSharma)
