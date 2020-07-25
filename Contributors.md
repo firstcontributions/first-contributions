@@ -37,6 +37,7 @@
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
+- Ameeth :) 
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
 - [Vanshaj Bhatnagar](https://github.com/thePrankster)
@@ -115,6 +116,7 @@
 - Tyler Brennan (https://github.com/tylerbrennan)
 - Luke Anderson
 - Michael Spicer (httpes://github.com/Citywideiowa0)
+- ameethS ;)
 - Sandip Kumar(https://github.com/Sandip220593)
 - [Xiulei Zhu](https://github.com/acostry/)
 - [SleepyFoxCode](https://github.com/sleepyfoxcode)
