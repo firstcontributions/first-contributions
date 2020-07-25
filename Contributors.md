@@ -2966,3 +2966,4 @@ amin-da
 - [Everton Volpi] (https://github.com/evolpi)
 - [Lennon ZHA] (https://github.com/lennonn)
 - [Rajat Nigam](https://github.com/rajat965ng)
+- [Anthony Folk](https://github.com/afolk2)
