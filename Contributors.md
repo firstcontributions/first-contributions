@@ -242,6 +242,7 @@ Nico Tek
 - [Dhamodaran Pandiyan] (https://github.com/dhamodaran-pandiyan)
 - [Meet Gamdha](https://github.com/meetgamdha02)
 - [Aminat Yakubu] (https://github.com/giselle2323/)
+- [Eric T.](https://github.com/ejthomp)
 - Gerald Tay (https://github.com/penguinoob)
 - [Lakshay Yadav](https://github.com/Lucky0108)
 - [Steve Fossey] (https://stevefossey.ca/)
