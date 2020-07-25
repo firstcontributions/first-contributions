@@ -120,6 +120,7 @@
 - [Bradley Moss] (https://github.com/bradleymoss)
 - [Sarah Lambert] (https://github.com/Corexm)
 - 8Dion8
+- ergm
 - CodeWithMughal
 - farhan
 - Jonas Kim
