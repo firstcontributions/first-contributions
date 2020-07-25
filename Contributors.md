@@ -2921,6 +2921,7 @@ amin-da
 - [Muskan Kumar](https://github.com/muskanvk)
 - [Santanu Biswas](https://github.com/SantanuxDg)
 - [Vinay Kumar Singh](https://github.com/vinay0001)
+- [Nimrod Perez](https://github.com/interstellar-villain)
 - [Amr Adel Omar] (https://github.com/amromar-dev)
 - [Patrick Roy](https://github.com/)
 - [Jun Parinya](https://github.com/)
