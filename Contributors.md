@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
@@ -2854,6 +2854,7 @@ amin-da
 - [Fatih Kula](https://github.com/fatihkula)
 - [David Santamaria] (https://github.com/DSantamaria18)]
 - [James Hough](https://github.com/jehough)
+- [Fabio Brito](https://github.com/fabiobritoo)
 - [Nihal Mittal](https://github.com/codescientist703)
 - [Arcane Arronax](https://github.com/arcanearronax)
 - [Sarah Easton](https://github.com/nuthatch-s)
