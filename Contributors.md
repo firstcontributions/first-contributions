@@ -120,6 +120,8 @@
 - Mohan-Cloud
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
+- Shruti Kumari
+- Doraemi
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
 - [Brendan Nugara](https://github.com/BrendanNug)
