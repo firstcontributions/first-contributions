@@ -136,16 +136,17 @@
 - Michael Spicer (httpes://github.com/Citywideiowa0)
 - ameethS ;)
 - Sandip Kumar(https://github.com/Sandip220593)
+- Amar Shukla (why the url) xd.
 - [Xiulei Zhu](https://github.com/acostry/)
 - [SleepyFoxCode](https://github.com/sleepyfoxcode)
-- [Faraz Suhail] (https://github.com/Faraz710)
-- [Zafir Khalid] (https://github.com/Zafirmk)
+- [Faraz Suhail](https://github.com/Faraz710)
+- [Zafir Khalid](https://github.com/Zafirmk)
 - [Fisayo Ojo](https://github.com/FisayoD)
-- [Juliano Paulo] (https://github.com/jsdie099)
-- [Kyle Paulma] (https://github.com/kylepaulma)
-- [Taha Dharamsi] (https://github.com/tahanzania)
-- [Bradley Moss] (https://github.com/bradleymoss)
-- [Sarah Lambert] (https://github.com/Corexm)
+- [Juliano Paulo](https://github.com/jsdie099)
+- [Kyle Paulma](https://github.com/kylepaulma)
+- [Taha Dharamsi](https://github.com/tahanzania)
+- [Bradley Moss](https://github.com/bradleymoss)
+- [Sarah Lambert](https://github.com/Corexm)
 - 8Dion8
 - ergm
 - CodeWithMughal
@@ -155,7 +156,7 @@
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
-- [Gbemi Akerele] (https://github.com/Gbemim)
+- [Gbemi Akerele](https://github.com/Gbemim)
 - Shashank Mishra
 - new
 - Robert Wright Jr.
@@ -207,7 +208,7 @@ AMAN4444
 - awotndn (https://github.com/awotndn)
 - [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
-- [Ralph Louis Gopez](https://github.com/sevora)
+- [Ralph Louis pez](https://github.com/sevora)
 - [SM43](https://github.com/sm43)
 - Gautam
 - Vysh kk (https://github.com/Vyshkk)
@@ -2871,8 +2872,6 @@ amin-da
 - [Anna e só](https://github.com/contraexemplo)
 - [Patrick Williams] (https://github.com/anvilpw)
 - [Felipe Windmoller](https://github.com/felipewind)
-- [Safiq Lodi](https://github.com/modeware)
-- [R2Jens2](https://github.com/r2jens2)
 - [Jeremy Jones] (https://github.com/jerome1232)
 - [Brian Kilburn] (https://github.com/reefman001)
 - [Fatih Kula](https://github.com/fatihkula)
