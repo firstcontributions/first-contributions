@@ -79,6 +79,7 @@
 - [Abhishek Thakur](https://github.com/abhishekthakur0)
 - [Aidan Duff](https://github.com/aidanduff)
 - George Black
+- Brian Prince (https://github.com/bcp2415)
 - [Fotie M. Constant](https://github.com/FotieMConstant)
 - [Rishabh Sharma](https://github.com/rishiar4)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
