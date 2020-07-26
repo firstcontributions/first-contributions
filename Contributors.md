@@ -661,6 +661,7 @@ Jeremiah Harkins
 - [Temitope Babatola](https://github.com/BBimie)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Jaime Sanchez](https://github.com/jaime-alex)
+- [Yash Totale](https://github.com/YashTotale)
 - [Juan Alegría](https://github.com/zejiran)
 - [Amin Burhan](https://github.com/aminnb)
 - [Simon Brumfield Jr](https://github.com/brumfields)
