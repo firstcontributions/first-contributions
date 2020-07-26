@@ -2822,6 +2822,7 @@ Chris Ryan
 - Mubashar Ahmad
 - mikrobi
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
+- [Jose Marin](https://github.com/josuamanuel)
 - [jopaha](https://github.com/jopaha/)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
 - [Ronak Lalwani](https://github.com/ronaklalwanii)
