@@ -2977,7 +2977,7 @@ amin-da
 - Julien Bouafia
 - [Muhammad Asim](https://github.com/Asim-2000/)
 - [Everton Volpi] (https://github.com/evolpi)
-- [Lennon ZHA] (https://github.com/lennonn)
+- [Lennon Zhang](https://github.com/lennonn)
 - [Rajat Nigam](https://github.com/rajat965ng)
 - [Anthony Folk](https://github.com/afolk2)
 - [Ravi Mengar](https://github.com/RaviMengar)
