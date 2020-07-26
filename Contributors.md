@@ -2955,6 +2955,7 @@ amin-da
 - [Nimrod Perez](https://github.com/interstellar-villain)
 - [Patrick Roy](https://github.com/)
 - [Jun Parinya](https://github.com/)
+- [Taras Kozak](https://github.com/kozaktar)
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
