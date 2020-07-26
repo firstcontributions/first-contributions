@@ -2979,3 +2979,4 @@ amin-da
 - [Anthony Folk](https://github.com/afolk2)
 - [Ravi Mengar](https://github.com/RaviMengar)
 - [Meraj al Maksud](https://github.com/merajmasuk)
+- [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
