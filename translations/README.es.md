@@ -32,7 +32,7 @@ Abre tu consola o terminal y ejecuta el siguiente comando de git:
 git clone "url que acabas de copiar"
 ```
 
-Donde "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
+Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
@@ -40,7 +40,7 @@ Por ejemplo:
 ```
 git clone https://github.com/este-eres-tu/first-contributions.git
 ```
-Donde `este-eres-tu` es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
+La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
 
 ## Crea una rama (*Branch*)
 
