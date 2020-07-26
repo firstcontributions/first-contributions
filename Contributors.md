@@ -1308,6 +1308,7 @@ Jeremiah Harkins
 - [Muhammad Hamza Niaz] (https://github.com/AlphaPro06)
 - [Muhammad Hassan Shakeel](https://github.com/mHassan20896)
 - [Umair Hafeez](https://github.com/umairhm)
+- [Yarfik Ardiansyah](https://github.com/yarfik)
 - [Deathless Kraken](https://github.com/DeathlessKraken)
 - [Hassan Shakeel](https://github.com/mHassan20896)
 - [Sean Donnellan](https://github.com/seandonnellan)
