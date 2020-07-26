@@ -1854,6 +1854,7 @@ Chidiogo Umezinne
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
 - [Hary Kwon](https://github.com/Harry-Kwon)
 - [Drew Sommer](https://github.com/apsommer)
+- [Ayush Bhardwaj](https://github.com/ayush97bhardwaj)
 - [Fengqing(Aaron) Liu](https://github.com/rangermix)
 - [Ahmet Ö](https://github.com/oeah2)
 - [dlikas](https://github.com/dlikas)
