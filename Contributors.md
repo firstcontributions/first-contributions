@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Govind K](https://github.com/GovindKurapati)
@@ -7,6 +7,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - raymen
+- Felix Jönsson
 - [Pine9](https://github.com/Pine9)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
