@@ -120,6 +120,7 @@
 - Mohan-Cloud
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
+- [Akash Singh](https://github.com/Garpieln)
 - Shruti Kumari
 - Doraemi
 - [Sascha Lang](Https://github.com/saschalang32)
