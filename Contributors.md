@@ -2918,6 +2918,7 @@ amin-da
 - [halilyaman] (https://github.com/halilyaman)
 - [Keliang Liu] (https://github.com/ke-liang-liu)
 - [Ajin Sunny] (https://github.com/ajinsunny)
+- [Wenlong Wang](https://github.com/realwenlongwang)
 - [Jeeyo] (https://github.com/jeeyo)
 - [KrisM10] (https://github.com/KrisM10)
 - [John Woolbright] (github.com/jwoolbright23)
