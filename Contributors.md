@@ -228,6 +228,7 @@ Dante Chakravorti
 - Abhay (https://github.com/abhay007kr)
 - Nikhil Nair
 - Austin Clements (https://github.com/austinclem1)
+- Gerard Barros (https://github.com/gerardbarros)
 - [Shreyas Dodamani](https://github.com/shreyasdoda)
 - [romhacks](https://github.com/romhacks)
 - [Beniamino Tartarini](https://github.com/telriot)
