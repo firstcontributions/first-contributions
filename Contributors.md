@@ -321,6 +321,7 @@ Sathya S
 - [Yash Mihsra](https://github.com/Codedude1)
 - [Rifqi Dewangga](https://github.com/rifqidewangga)
 - [oakoudad](https://github.com/oakoudad1)
+- [Noah Nsimbe](https://github.com/NoahNsimbe)
 - [Steven Sutton](https://github.com/stevenasutton)
 - pradeep kumar
 - glakshmi
