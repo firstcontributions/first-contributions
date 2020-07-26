@@ -34,6 +34,7 @@
 - [Briana](https://github.com/MosNeagu)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
+- [Jarrod Dieppa](https://github.com/jdieppa)
 - [Joseph Kim](https://github.com/thejykim)
 - [Devon Hunter](https://github.com/DevonHunter/)
 - [Shashank Aital](https://github.com/aitalshashank2)
