@@ -2999,3 +2999,4 @@ amin-da
 - [Ravi Mengar](https://github.com/RaviMengar)
 - [Meraj al Maksud](https://github.com/merajmasuk)
 - [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
+- [Edgar Nelson](https://github.com/edgarwilliamnelson)
