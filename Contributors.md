@@ -32,6 +32,7 @@
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
 - [Joseph Kim](https://github.com/thejykim)
+- [Devon Hunter](https://github.com/DevonHunter/)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
 - [ACE AFRICA](https://github.com/acecycle4)
