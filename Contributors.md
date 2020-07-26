@@ -1195,6 +1195,7 @@ Jeremiah Harkins
 - [Jesse Huang](https://github.com/JessHua159)
 - [rkg18](https://github.com/rkg18)
 - [Jonathan Kamau](https://github.com/jonathankamau)
+- [Samuel Menendez](https://github.com/sam-chami)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
 - [Shubham Saha](https://github.com/Helinskii)
