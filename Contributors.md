@@ -2914,6 +2914,7 @@ amin-da
 - [Calvin James] (https://github.com/Hobbesz)
 - [Anoushka Sengupta] (https://github.com/ankasengupta)
 - [bumkeyy] (https://github.com/bumkeyy)
+- [Marcio Madruga] (https://github.com/MarcioMad)
 - [Mohamed AIT BOUAAZA] (https://github.com/medinpt)
 - [halilyaman] (https://github.com/halilyaman)
 - [Keliang Liu] (https://github.com/ke-liang-liu)
