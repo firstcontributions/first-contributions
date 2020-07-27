@@ -62,7 +62,6 @@
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
 - Ameeth :)
-- John Chan
 - [Aditya Malhotra](https://github.com/adimalhotra11)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
