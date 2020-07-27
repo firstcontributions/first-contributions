@@ -942,6 +942,7 @@ Jeremiah Harkins
 - [Newman Thurairatnam](https://github.com/NewmanJ1987)
 - [Livia Hedin](https://github.com/LivHed)
 - [Thong La] (https://github.com/tkla)
+- [Othman Watad](https://github.com/othman18)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [dpluong](https://github.com/dpluong)
 - [Ajith Arakkal](https://github.com/Ajith1202)
