@@ -7,6 +7,7 @@
 - Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
+- alexdelgado
 - [Ralph Louis Gopez](https://github.com/sevora)
 - Vysh kk (https://github.com/Vyshkk)
 - Andres Advincula (https://github.com/an288705)
