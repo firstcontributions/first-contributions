@@ -2213,6 +2213,7 @@ Arijit
 - [Allen Colston](https://github.com/colstona1024)
 - [Brandon Nguyen](https://github.com/branch331)
 - [Afroz Chakure](https://github.com/afrozchakure)
+- [Samisha Khurana](https://github.com/samishakhurana)
 - [Andrew Pecha](https://github.com/AndrewPecha)
 - [Matt Reeder](https://github.com/reedermatthew5)
 - [Jared Vandeventer](https://github.com/jvandy83)
