@@ -775,6 +775,7 @@ Jeremiah Harkins
 - [Helen Chen](https://github.com/helenchen1003)
 - [Daivik Purani](https://github.com/DAIIVIIK)
 - [Austin Ogola](https://github.com/augolla/)
+- [Damilola Ezekiel](https://github.com/dharmelolar)
 - [Ben Holvey](https://github.com/benholvey)
 - [Susan Johnson](https://github.com/cybero)
 - [Tavin Chok](https://github.com/choktn)
