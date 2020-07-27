@@ -129,6 +129,7 @@
 - Samruddhi Padture
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
+- [George Rod] (https://https://github.com/gnrod) 
 - Mohan-Cloud
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
