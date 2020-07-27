@@ -379,6 +379,7 @@ Sathya S
 - [Ahmed Mahfoudh](https://www.linkedin.com/in/ahmed-mahfoudh/)
 - Werner G.
 - Karthick191999
+- Akash Jyoti Sahoo
 - Dana Sherman
 - [Max Correia](https://github.com/MaxCorreia)
 - [Godfred Gameli](https://github.com/Godfredgameli)
