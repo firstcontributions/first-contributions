@@ -23,6 +23,7 @@
 - [AbhipsaGuru1012](https://github.com/AbhipsaGuru1012)
 - [Shivam Singla](https://github.com/shivam7374)
 - [Rumit Tandukar](https://github.com/rumit0270)
+- [Akil Mahmod Tipu](httpss://github.com/akiltipu)
 - [Ingrid Carlson](https://github.com/ingridclaire)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Tilak Bhansali](https://github.com/tilak30)
