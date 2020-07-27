@@ -146,6 +146,7 @@
 - Tullia Glaeser (https://github.com/tamglaeser)
 -Awais
 - Sampada Kathar (https://github.com/AlacritousCreature)
+- Sam Wong (https://github.com/sandymule)
 - [Rahul Pandey](https://github.com/Marvel-o-us)
 - Tyler Brennan (https://github.com/tylerbrennan)
 - Luke Anderson
