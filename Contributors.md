@@ -111,7 +111,7 @@
 - [Naveen Kumar](https://github.com/naveen-27)
 - [Nathaniel Chan](https://github.com/SevenNateNine)
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
-- Jens Kuipers (https://github.com/jens-kuipers/)
+- Jens Kuipers (https://github.com/jens-kuipers/)s
 - [Rushi Vachhani](https://github.com/RushiVachhani)
 - Atia - first OSS contribution Yay!
 - [Cliff Gor](https://github.com/cliffgor)
@@ -123,6 +123,7 @@
 - Zach Sonnenblick
 - [Darrien Chow](https://github.com/darrien-c)
 - ankit kumar
+- Mrinal Choudhary
 - Samruddhi Padture
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
