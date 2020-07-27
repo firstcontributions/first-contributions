@@ -3040,4 +3040,5 @@ amin-da
 - [Kevin Terry] (https://github.com/kterry1)
 - [Karsten C.] (https://github.com/kcastil3)
 - [Arsh Sekhon] (https://github.com/arshsekhon)
+- [Akhil Manoj] (https://github.com/AkM-2018)
 - [K. Stephano] (https://github.com/kstephano)
