@@ -2922,6 +2922,7 @@ amin-da
 - [Ritik](https://github.com/Foxtrot123-png)
 - [Samed Touati](https://github.com/sd-404)
 - [TR Fung](https://github.com/trfung)
+- [Nikita Nair](https://github.com/nikitanair)
 - [Daniel Fishman](https://github.com/FishFunk)
 - [Sree Dasari](https://github.com/sreedasari)
 - [Sudha Kaushik](https://github.com/sudhakaushik)
