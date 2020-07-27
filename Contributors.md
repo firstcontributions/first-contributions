@@ -3001,6 +3001,7 @@ amin-da
 - [Anthony Folk](https://github.com/afolk2)
 - [Ravi Mengar](https://github.com/RaviMengar)
 - [Meraj al Maksud](https://github.com/merajmasuk)
+- [Timothy Yang](https://github.com/timothyy208)
 - [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
 - [Edgar Nelson](https://github.com/edgarwilliamnelson)
 - [Rajesh Vaidya] (https://github.com/squashmeister99)
