@@ -2925,6 +2925,7 @@ amin-da
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Filipe Estacio](https://github.com/filipeestacio)
 - [Kyungmin Lee](https://github.com/rekyungmin)
+- [Todd Crooks](https://github.com/Ujili)
 - [Adexandria](https://github.com/adexandria)
 - [Rick](https://github.com/rickgao12)
 - [yuzutree64](https://github.com/yuzutree64)
