@@ -2553,6 +2553,7 @@ Arijit
 - [Pratik](https://github.com/pratiksasmal)
 - PassionCracker
 - [Robert Flaherty](https://github.com/roberteflaherty)
+- [northerreese] (https://github.com/northerreese)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
 - [Merin Babu](https://github.com/MerinBabu)
@@ -2920,6 +2921,7 @@ amin-da
 - [Gustavo Fiuza](github.com/GusFiuza)
 - [Blessing Mbonu](https://github.com/Nkemjiks)
 - [Ritik](https://github.com/Foxtrot123-png)
+- [Samed Touati](https://github.com/sd-404)
 - [Samed Touati](https://github.com/sd-404)
 - [TR Fung](https://github.com/trfung)
 - [Nikita Nair](https://github.com/nikitanair)
