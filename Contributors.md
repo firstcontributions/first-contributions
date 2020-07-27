@@ -3051,3 +3051,4 @@ amin-da
 - [Arsh Sekhon] (https://github.com/arshsekhon)
 - [Akhil Manoj] (https://github.com/AkM-2018)
 - [K. Stephano] (https://github.com/kstephano)
+- [Davi Sena](https://github.com/davisena)
