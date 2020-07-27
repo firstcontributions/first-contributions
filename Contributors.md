@@ -91,6 +91,7 @@
 - Brian Prince (https://github.com/bcp2415)
 - [Fotie M. Constant](https://github.com/FotieMConstant)
 - [Rishabh Sharma](https://github.com/rishiar4)
+- [SashiKrishna C P](https://github.com/ossCodeJourney)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
 - [Skyler Milliken](https://github.com/relykstm)
 - [Om](https://github.com/OmLakshmi)
