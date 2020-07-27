@@ -8,6 +8,7 @@
 - CamChan
 - raymen
 - Felix Jönsson
+- [sairina merino tsui] (https://github.com/sairina)
 - [Pine9](https://github.com/Pine9)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
