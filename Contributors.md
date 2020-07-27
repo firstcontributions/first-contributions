@@ -198,6 +198,7 @@
 - Paul Hartman (https://github.com/paulhartman1)
 - [Ansh Dhingra](https://github.com/anshdhinhgra47)
 - Ghassan Alrayyes
+- [Efraim Klecky] (https://github.com/eklecky)
 - [Namra Solanki](https://github.com/whonamra)
 - Kumar Yash (https://github.com/kumaryash18)
 - Sai Raman Kilambi (https://github.com/sai-raman)
