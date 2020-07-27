@@ -313,6 +313,7 @@ Sathya S
 - [Ylem](https://github.com/ylem)
 - [AnycoK](https://github.com/AnycoK)
 - Vaja L.
+- Abdullah Zia
 - [Michele Marschner](https://github.com/MicheleMarschner)
 - [Aditya Mahajan](https://github.com/adityam31)
 - [Saurabh K. Pandey](https://github.com/Saurabh200598)
