@@ -3039,3 +3039,5 @@ amin-da
 - [Karsten C.] (https://github.com/kcastil3)
 - [Arsh Sekhon] (https://github.com/arshsekhon)
 - [K. Stephano] (https://github.com/kstephano)
+- [S. Peytrignet] (https://github.com/speytrignet-thf)
+
