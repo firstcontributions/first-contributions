@@ -10,6 +10,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - raymen
+- Akhil Manoj (https://github.com/AkM-2018)
 - Felix Jönsson
 - [sairina merino tsui] (https://github.com/sairina)
   [Malvika Bhargava] (https://github.com/Malvika18)
