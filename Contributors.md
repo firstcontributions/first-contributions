@@ -1987,6 +1987,7 @@ Arijit
 - [Shantanu Chandorkar](https://github.com/Chromares)
 - [Frédéric Thévenon](https://github.com/fredericthevenondev)
 - [Christian Bauer](https://github.com/MyGodItsFull0fStars)
+- [Vinoth Jeba Kumar R](https://github.com/vjeba)
 - [Calen Robinette](https://github.com/calenrobinette)
 - [Guen Jargalsaikhan](https://github.com/guen0610)
 - [Kevin Dowling](https://github.com/tellikakneezus)
