@@ -635,6 +635,7 @@ Jeremiah Harkins
 - Chjkaro [baonq243](https://github.com/baonq243)
 - anizhou
 - Jens Krueger
+- Ha Nguyen [hanguyen0](https://github.com/hanguyen0)
 - Janitha Missaka
 - Sinclair Guthrie
 - Shantanu Kale(https://github.com/pega-sys)
