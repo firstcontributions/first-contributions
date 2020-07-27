@@ -10,6 +10,7 @@
 - Felix Jönsson
 - [sairina merino tsui] (https://github.com/sairina)
 - [Pine9](https://github.com/Pine9)
+- Deepti Patel (https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
 - [Anthony Gelder](https://github.com/anthonygelder)
