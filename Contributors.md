@@ -143,6 +143,7 @@
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
 - [Brendan Nugara](https://github.com/BrendanNug)
 - [Chuck B]
+- [Mo Moledina](https://github.com/Momo4444)
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
