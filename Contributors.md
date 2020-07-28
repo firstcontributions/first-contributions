@@ -468,6 +468,7 @@ Jeremiah Harkins
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch] (https://github.com/Vik-Ch)
 - tivrfoa
+- [Theoajc] (https://github.com/theoajc)
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
