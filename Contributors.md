@@ -3056,6 +3056,7 @@ amin-da
 - [Arsh Sekhon] (https://github.com/arshsekhon)
 - [Akhil Manoj] (https://github.com/AkM-2018)
 - [K. Stephano] (https://github.com/kstephano)
+- [Jonas Fiedler](https://github.com/jefiedler)
 - [Davi Sena](https://github.com/davisena)
 - [Kevin Foong](https://github.com/kevin9foong)
 - [Sabine Schoe](https://github.com/sschoe85)
