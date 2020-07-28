@@ -23,6 +23,7 @@
 - [Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [Gajanand Singh](https://github.com/PRINCE1409)
+- [Peppah Jackk](https://github.com/peppahjackk)
 - [Tarang Singhal](https://github.com/Tarang-singhal)
 - [Jivthesh M R](https://github.com/jivthesh)
 - [Ashutosh Raman](https://github.com/ashutosh0709)
