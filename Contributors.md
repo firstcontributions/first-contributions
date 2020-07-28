@@ -17,6 +17,7 @@
 - [sairina merino tsui] (https://github.com/sairina)
   [Malvika Bhargava] (https://github.com/Malvika18)
 - [Pine9](https://github.com/Pine9)
+- [Jonas Imm](https://github.com/JonasImm)
 - Deepti Patel (https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
