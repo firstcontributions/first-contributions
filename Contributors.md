@@ -66,6 +66,7 @@
 - Ameeth :)
 - John Chan
 - [Aditya Malhotra](https://github.com/adimalhotra11)
+- [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
 - [Vanshaj Bhatnagar](https://github.com/thePrankster)
