@@ -43,6 +43,7 @@
 - [Rumit Tandukar](https://github.com/rumit0270)
 - [Akil Mahmod Tipu](httpss://github.com/akiltipu)
 - [Ingrid Carlson](https://github.com/ingridclaire)
+- [Harald Lilja](https://github.com/Anguse)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Anita Ihuman] (https://github.com/Anita-ihuman)
 - [Tilak Bhansali](https://github.com/tilak30)
