@@ -2823,6 +2823,7 @@ Arijit
 - [Levi Jacoby](https://github.com/LeviJacoby1991)
 - [Jack Delahunt](https://github.com/jackdelahunt)
 - [Benjamin Kiepke] (https://github.com/bkiepke/)
+- [Benjamin Krzis] (https://github.com/drbennemin/)
 - [Marc Timperley](https://github.com/MarcTimperley)
 - [Junhyung Choi](https://github.com/Junhyung-Choi)
 - [Kenny Nguyen](https://github.com/tnguyenken)
