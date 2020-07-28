@@ -17,6 +17,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - raymen
+- Btrox148
 - Akhil Manoj (https://github.com/AkM-2018)
 - Felix Jönsson
 - Marco Skradde (https://github.com/mskradde/)
