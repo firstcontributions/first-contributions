@@ -3,6 +3,8 @@
 - [Ajiboye Fatimo] (https://github.com/Happiness20)
 - first test
 - Atia
+- [My]
+- [Parishrut Kushwaha](https://github.com/parish09)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
 - Hariprasath
