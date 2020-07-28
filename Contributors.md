@@ -3035,6 +3035,7 @@ amin-da
 - [Ramon Ferreira](https://github.com/ramonfsk)
 - [Han-Chin Shing](https://github.com/sidenver)
 - Douze
+- [JoscaWij](https://github.com/JoscaWij)
 - [Visenna88](https://github.com/Visenna88)
 - [Chris Achinga](https://github.com/ChrisAchinga)
 - [Muskan Kumar](https://github.com/muskanvk)
