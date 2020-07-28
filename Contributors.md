@@ -55,6 +55,7 @@
 - [Devon Hunter](https://github.com/DevonHunter/)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
+- [Partyaksh Saini](https://github.com/dexterpuru)
 - [ACE AFRICA](https://github.com/acecycle4)
 - [Adrian Sowiński](https://github.com/TheAner)
 - [Shilpi Maurya](https://github.com/ShilpiMaurya)
