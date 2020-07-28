@@ -964,6 +964,7 @@ Jeremiah Harkins
 - [Nicola Checcacci](https://github.com/stranicola)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
+- [Vadim Lyashenko](https://github.com/VadimLyashenko)
 - [Leon Halinde](https://github.com/LeonHal)
 - [Zeynep Inkaya](https://github.com/zeynepsninkaya)
 - [Bethzait Becerra](https://github.com/bethbecerra)
