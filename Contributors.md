@@ -2765,6 +2765,7 @@ Arijit
 - [Danil Hendra](https://github.com/danilhendras)
 - [joshi-b](https://github.com/joshi-b)
 - [Hailey Gu](https://github.com/HaileyGu)
+- [Mario Smolcic](https://github.com/msmolcic)
 - Loki
 - [gmonea]
 - [Alexander Garcia](https://github.com/yalex1402)
