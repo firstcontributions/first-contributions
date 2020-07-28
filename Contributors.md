@@ -7,6 +7,7 @@
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
+- [Vishay Patel](https://github.com/vp24)
 - Hariprasath
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Akash Chouhan](https://github.com/akashchouhan16)
