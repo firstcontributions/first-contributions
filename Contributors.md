@@ -1,5 +1,4 @@
 # Contributors
-
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
 - first test
