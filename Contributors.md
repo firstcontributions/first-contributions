@@ -265,6 +265,7 @@ Dante Chakravorti
 - [Mark Dixon](https://github.com/ForeverThinking)
 - Nico Tek
 - Isaac M
+- Marius Spomer
 - [James Nacua](https://github.com/jacavena)
 - Abhay (https://github.com/abhay007kr)
 - Nikhil Nair
