@@ -199,6 +199,7 @@
 - ergm
 - CodeWithMughal
 - farhan
+- Matthew Baresch
 - Jonas Kim
 - Sourav Pal
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
