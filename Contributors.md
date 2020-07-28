@@ -3,6 +3,7 @@
 - [Ajiboye Fatimo] (https://github.com/Happiness20)
 - first test
 - Atia
+- Marius Spomer
 - Hariprasath
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Akash Chouhan](https://github.com/akashchouhan16)
@@ -259,6 +260,7 @@ Dante Chakravorti
 - [Mark Dixon](https://github.com/ForeverThinking)
 - Nico Tek
 - Isaac M
+- Marius Spomer
 - [James Nacua](https://github.com/jacavena)
 - Abhay (https://github.com/abhay007kr)
 - Nikhil Nair
