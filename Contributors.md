@@ -253,7 +253,8 @@ AMAN4444
 - awotndn (https://github.com/awotndn)
 - [Vishal Pandey](https://github.com/vMyth)
 - rbsdeg (https://github.com/rbsdeg)
-- [Ralph Louis pez](https://github.com/sevora)
+- alexdelgado
+- [Ralph Louis Gopez](https://github.com/sevora)
 - [SM43](https://github.com/sm43)
 - Gautam
 - Vysh kk (https://github.com/Vyshkk)
