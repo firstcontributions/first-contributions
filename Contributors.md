@@ -3057,4 +3057,5 @@ amin-da
 - [Akhil Manoj] (https://github.com/AkM-2018)
 - [K. Stephano] (https://github.com/kstephano)
 - [Davi Sena](https://github.com/davisena)
+- [Manuelsanchez2](https://github.com/manuelsanchez2)
 - [Kevin Foong](https://github.com/kevin9foong)
