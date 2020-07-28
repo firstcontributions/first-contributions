@@ -18,6 +18,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - raymen
+- Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Akhil Manoj (https://github.com/AkM-2018)
 - Felix Jönsson
