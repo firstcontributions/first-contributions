@@ -3056,3 +3056,4 @@
 - [Davi Sena](https://github.com/davisena)
 - [Kevin Foong](https://github.com/kevin9foong)
 - [Manuel Sanchez](https://github.com/manuelsanchez2)
+- [Sabine Schoe](https://github.com/sschoe85)
