@@ -151,9 +151,9 @@
 - [Brendan Nugara](https://github.com/BrendanNug)
 - [Chuck B]
 - [Mo Moledina](https://github.com/Momo4444)
+- Marius Schmauder
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
-- Marius Schmauder
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
 -Natalia Alvarez (https://github.com/nataliaalvarez26)
 -[Tatchum Nono Yan](https://github.com/TatchumNono)
