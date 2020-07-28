@@ -3058,3 +3058,4 @@ amin-da
 - [K. Stephano] (https://github.com/kstephano)
 - [Davi Sena](https://github.com/davisena)
 - [Kevin Foong](https://github.com/kevin9foong)
+- [Sabine Schoe](https://github.com/sschoe85)
