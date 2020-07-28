@@ -153,6 +153,7 @@
 - [Brendan Nugara](https://github.com/BrendanNug)
 - [Chuck B]
 - [Mo Moledina](https://github.com/Momo4444)
+- Marius Schmauder
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
