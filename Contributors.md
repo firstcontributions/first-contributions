@@ -3,6 +3,7 @@
 - [Ajiboye Fatimo] (https://github.com/Happiness20)
 - first test
 - Atia
+- Emily Cook https://github.com/EmilyCook321
 - Hariprasath
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Akash Chouhan](https://github.com/akashchouhan16)
