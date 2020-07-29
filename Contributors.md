@@ -2964,6 +2964,7 @@ amin-da
 - [Jeremy Fredrick Black]
 - [Marcio Rocha] (https://github.com/marciojunior88)
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
+- [Zachary Doctrove](https://github.com/zDoctrov) 
 - [haatoresu](https://github.com/haatoresu)
 - [Konstantin Grigorev] (https://github.com/konstantingrigorev)
 - [Anna e só](https://github.com/contraexemplo)
