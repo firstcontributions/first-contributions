@@ -21,6 +21,7 @@
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Akhil Manoj (https://github.com/AkM-2018)
+- Kanav Mehra
 - Felix Jönsson
 - Marco Skradde (https://github.com/mskradde/)
 - [sairina merino tsui] (https://github.com/sairina)
