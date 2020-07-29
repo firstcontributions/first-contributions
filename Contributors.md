@@ -449,6 +449,7 @@ Jeremiah Harkins
 - Rishav Jain(https://github.com/rishav4336)
 - >[KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
+- [Hunter Goodreau](https://github.com/ghgoodreau)
 - Barry Johnson (https://github.com/JamesJohnson11)
 - [Dickson anyaele] (https://github.com/elitekaycy)
 - [Cristhyano](https://github.com/crdpa)
