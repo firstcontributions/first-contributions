@@ -201,7 +201,6 @@
 - Matthew Baresch
 - Jonas Kim
 - Sourav Pal
-- Tabitha Kavyu
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
@@ -209,6 +208,7 @@
 - Shashank Mishra
 - new
 - Robert Wright Jr.
+- Tabitha Kavyu
 - Mayank Goel
 - [Bryan Hooper](https://github.com/bthooper)
 - Gyanendra Pratap
