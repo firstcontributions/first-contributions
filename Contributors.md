@@ -24,6 +24,7 @@
 - Felix Jönsson
 - Marco Skradde (https://github.com/mskradde/)
 - [sairina merino tsui] (https://github.com/sairina)
+- [Andrew Tomich] (https://github.com/jAndrewtomich)
   [Malvika Bhargava] (https://github.com/Malvika18)
 - [Pine9](https://github.com/Pine9)
 - [Jonas Imm](https://github.com/JonasImm)
