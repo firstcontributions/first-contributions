@@ -53,6 +53,7 @@
 - [Noman Arshad](https://github.com/nomanarshad94)
 - [JOnathan White](https://github.com/jonathancwhite)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
+- [Shawn Long](https://github.com/shawnlong636)
 - [Aarushi](https://github.com/xxx32)
 - [Abdoulaye Balde](https://github.com/abdoulayegk)
 - [Briana](https://github.com/MosNeagu)
