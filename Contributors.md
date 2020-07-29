@@ -11,6 +11,7 @@
 - [Emily Cook](https://github.com/EmilyCook321)
 - [Vishay Patel](https://github.com/vp24)
 - Hariprasath
+- [EricMackensen] (https://github.com/ericmackensen)
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Govind K](https://github.com/GovindKurapati)
@@ -3114,7 +3115,6 @@ amin-da
 - [Akhil Manoj] (https://github.com/AkM-2018)
 - [K. Stephano] (https://github.com/kstephano)
 - [S. Peytrignet] (https://github.com/speytrignet-thf)
-- [EricMackensen] (https://github.com/ericmackensen)
 - [Jonas Fiedler](https://github.com/jefiedler)
 - [Davi Sena](https://github.com/davisena)
 - [Manuelsanchez2](https://github.com/manuelsanchez2)
