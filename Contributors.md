@@ -2,6 +2,7 @@
 - [Michael Berkowitz] (https://github.com/meberko)
 - Ashild Kummen (https://github.com/ashildkummen)
 - [Aashutosh Sahni] (https://github.com/AashutoshSahni)
+- [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo] (https://github.com/Happiness20)
 - first test
 - Atia
