@@ -20,6 +20,7 @@
 - raymen
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
+- Yash Sarvaiya
 - Akhil Manoj (https://github.com/AkM-2018)
 - Felix Jönsson
 - Marco Skradde (https://github.com/mskradde/)
