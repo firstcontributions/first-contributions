@@ -2960,6 +2960,7 @@ amin-da
 - [Jeremy Fredrick Black]
 - [Marcio Rocha] (https://github.com/marciojunior88)
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
+- [haatoresu](https://github.com/haatoresu)
 - [Konstantin Grigorev] (https://github.com/konstantingrigorev)
 - [Anna e só](https://github.com/contraexemplo)
 - [Patrick Williams] (https://github.com/anvilpw)
