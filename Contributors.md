@@ -153,6 +153,7 @@
 - ankit kumar
 - Mrinal Choudhary
 - Samruddhi Padture
+- [Chad Stucki] (https://github.com/chadstucki)
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
 - [George Rod] (https://https://github.com/gnrod) 
