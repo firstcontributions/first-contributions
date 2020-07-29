@@ -1,4 +1,5 @@
 # Contributors
+- [Michael Berkowitz] (https://github.com/meberko)
 - [Aashutosh Sahni] (https://github.com/AashutoshSahni)
 - [Ajiboye Fatimo] (https://github.com/Happiness20)
 - first test
@@ -134,7 +135,7 @@
 - [Kim Hallberg](https://github.com/thinkverse)
 - [Charles Topliff](https://github.com/ctopliff)
 - [Rakshita Maheshwari](https://github.com/rakshitamaheshwari)
-- Sonu Saha 
+- Sonu Saha
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
 - [Sushant Athley] (https://github.com/uf-sushant)
 - Jape Seifu https://github.com/jseifu
@@ -159,7 +160,7 @@
 - Samruddhi Padture
 - [Marc Simon](https://github.com/msimon23)
 - Git Goode
-- [George Rod] (https://https://github.com/gnrod) 
+- [George Rod] (https://https://github.com/gnrod)
 - Mohan-Cloud
 - Minel Aydın - Minnela :) (https://github.com/minnela)
 - David Kwong
@@ -306,7 +307,7 @@ Dante Chakravorti
 - [Chris Bell] (https://github.com/chrisbellcodes)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Faith Gaiciumia] (https://github.com/faithgaiciumia)
-- 
+-
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - [Sohaib](https://github.com/Sohaib03)
 Nico Tek
@@ -1032,7 +1033,7 @@ Jeremiah Harkins
 - [HussienMoustafaZaky](https://github.com/HussienMoustafa)
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
-Philip Luke K 
+Philip Luke K
 - [Katie Wilday](https://github.com/katiewilday)
 - [Moin Khan](https://github.com/moinkhanif)
 - [Blaize Guerra](https://github.com/guerrabl)
