@@ -3114,6 +3114,7 @@ amin-da
 - [Akhil Manoj] (https://github.com/AkM-2018)
 - [K. Stephano] (https://github.com/kstephano)
 - [S. Peytrignet] (https://github.com/speytrignet-thf)
+- [Eric Mackensen] (https://github.com/ericmackensen)
 - [Jonas Fiedler](https://github.com/jefiedler)
 - [Davi Sena](https://github.com/davisena)
 - [Manuelsanchez2](https://github.com/manuelsanchez2)
