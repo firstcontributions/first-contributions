@@ -24,6 +24,7 @@
 - CamChan
 - raymen
 ms567
+- Chris Hicks (https://github.com/HicksCR-2020)
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Yash Sarvaiya
