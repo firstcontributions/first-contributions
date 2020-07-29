@@ -1000,6 +1000,7 @@ Jeremiah Harkins
 - [Tom Rowbotham](https://github.com/tomrowbo)
 - [Ajit Bhat](https://github.com/abhat3)
 - [tlylt](https://github.com/tlylt)
+- [Hainison Dornelas] (https://github.com/hainison/)
 - [xavierhazzardadmin](https://github.com/xavierhazzardadmin)
 - [Nicola Checcacci](https://github.com/stranicola)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
