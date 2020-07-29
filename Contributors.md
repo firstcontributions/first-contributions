@@ -25,6 +25,7 @@ ms567
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Yash Sarvaiya
+- Siddharth Panjwani
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
 - Felix Jönsson
