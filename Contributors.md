@@ -382,6 +382,7 @@ Sathya S
 - [Charlie Ales](https://github.com/Spaceflightrelated)
 - [Caleb R.](https://github.com/earthctzn)
 - [Pranjal Aggarwal] (https://github.com/pranjalagg)
+- [Rajesh Padigela] (https://github.com/rajeshpadigela)
 - [Paul Mueller] (https://github.com/potawatomboy)
 - [Grigory Polushkin] (https://github.com/grigoryyar)
 - [srcme20](https://github.com/srcme20)
