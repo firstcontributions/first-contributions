@@ -228,6 +228,7 @@
 - Jesus Arnau Villar (https://github.com/jarnawer)
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
+- Reuben Sadler
 - Taylor Koressel
 - Anya Schechter (https://github.com/abracadabra89/)
 - yosef (did it)
