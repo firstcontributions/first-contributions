@@ -2089,6 +2089,7 @@ Arijit
 - [AdamThahir](https://github.com/AdamThahir)
 - [Ryan Shar](https://github.com/rShar01)
 - [Julia González](https://github.com/yuliagg)
+- [yourally2](https://github.com/yourally2)
 - [Luís Lyra](https://github.com/lhllyra)
 - [Jim Schlader](https://github.com/jamesschlader)
 - [Jacob Pieczynski](https://github.com/jacobpie)
