@@ -370,8 +370,8 @@ Sathya S
 - [Saurabh K. Pandey](https://github.com/Saurabh200598)
 - [Preyansh Agrawal](https://github.com/Preyansh17)
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
+- [Chris Richardson](https://github.com/ctrich)
 - [Pratyush Kumar](https://github.com/Pratyukumar)
-- [Chris Richardson] (https://github.com/ctrich)
 - [Harshank Pathak](https://github.com/H4rsh4nk)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M] (https://github.com/muthuraj27)
@@ -2139,6 +2139,7 @@ Arijit
 - [Aradhana Singh](https://github.com/Aradhana-Singh)
 - [3timesFaster](https://github.com/3timesfaster)
 - [viamarie77](https://github.com/viamarie77)
+- [zoldalma999](https://github.com/zoldalma999)
   Kayla Rubin
 - [dystar](https://github.com/dystar)
 - [stephenjwinn](https://github.com/stephenjwinn)
