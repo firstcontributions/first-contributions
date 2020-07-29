@@ -2783,6 +2783,7 @@ Arijit
 - [Hailey Gu](https://github.com/HaileyGu)
 - [Mario Smolcic](https://github.com/msmolcic)
 - Loki
+- [Ryan Flynn](https://github.com/ryanflynndev)
 - [gmonea]
 - [Alexander Garcia](https://github.com/yalex1402)
 - [Umizoko](https://github.com/Umizoko)
