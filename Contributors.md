@@ -14,7 +14,6 @@
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Govind K](https://github.com/GovindKurapati)
 - [Steven Dz](https://github.com/StevenDz)
-- [Tabitha Kavyu](https://github.com/TabithaKavyu)
 - [Jeremy Kim](https://github.com/jthk1106)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
@@ -202,6 +201,7 @@
 - Matthew Baresch
 - Jonas Kim
 - Sourav Pal
+- Tabitha Kavyu
 - [Vinicius Jadiscke de Souza Taso](https://github.com/Jadiscke)
 - Giacomo Frascarelli
 - Michael Finn'
