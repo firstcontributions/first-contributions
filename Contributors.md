@@ -23,6 +23,7 @@
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
 - Felix Jönsson
+- [Avirup Mondal] (https://github.com/Avirup-301294)
 - Marco Skradde (https://github.com/mskradde/)
 - [sairina merino tsui] (https://github.com/sairina)
   [Malvika Bhargava] (https://github.com/Malvika18)
