@@ -23,6 +23,7 @@
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
 - Felix Jönsson
+- [Avirup Mondal] (https://github.com/Avirup-301294)
 - Marco Skradde (https://github.com/mskradde/)
 - [sairina merino tsui] (https://github.com/sairina)
   [Malvika Bhargava] (https://github.com/Malvika18)
@@ -121,7 +122,6 @@
 - [Godstime Onyibe](https://github.com/Godstyme)
 - [Benjamin Price](https://githib.com/BenjaminDavid0527)
 - Bernard Lucas https://github.com/balucas
-- [Avirup Mondal] (https://github.com/Avirup-301294)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - [Patryk](https://github.com/PatrykB-dot)
 - [Rahul Rank](https://github.com/rahulrank)
