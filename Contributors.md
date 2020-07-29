@@ -2965,6 +2965,7 @@ amin-da
 - [Anna e só](https://github.com/contraexemplo)
 - [Patrick Williams] (https://github.com/anvilpw)
 - [Felipe Windmoller](https://github.com/felipewind)
+- [Nick Galluzzo](https://github.com/nick-galluzzo)
 - [Jeremy Jones](https://github.com/jerome1232)
 - [Martin Muehl](https://github.com/joshuatree)
 - [Brian Kilburn](https://github.com/reefman001)
