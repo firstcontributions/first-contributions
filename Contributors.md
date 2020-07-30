@@ -1358,6 +1358,7 @@
 - [tangarts](https://github.com/tangarts)
 - [mihmin98](https://github.com/mihmin98)
 - [Girish Poojari](https://github.com/girishpoojari)
+- [Edwin van der Ven](https://github.com/edwinvanderven)
 - [jtisaac](https://github.com/jtisaac)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [doMConSwiss](https://github.com/doMConSwiss)
