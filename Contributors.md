@@ -4,6 +4,7 @@
 - [Kenny Gosai](https://github.com/kennygosai)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Michael Berkowitz](https://github.com/meberko)
+- [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Rakesh Jarupula](https://github.com/Rakesh148)
