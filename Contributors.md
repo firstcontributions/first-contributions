@@ -271,6 +271,7 @@
 - Isaiah Blanks (https://github.com/IsaiahBlanks)
 - [Nithin Kumar](https://github.com/nithintata)
 - Daniel Pyon (https://github.com/danielpyon)
+- [Sylvain k](https://github.com/skamdem)
 - Elyahu Jacobi (https://github.com/Elyahu41)
 - Sarabjyot Singh
 - Shivam Rawat
