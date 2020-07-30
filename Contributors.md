@@ -437,6 +437,7 @@
 - [oakoudad](https://github.com/oakoudad1)
 - [Noah Nsimbe](https://github.com/NoahNsimbe)
 - [Steven Sutton](https://github.com/stevenasutton)
+- [Miki Kee](https://github.com/nullmutex)
 - pradeep kumar
 - ura
 - glakshmi
