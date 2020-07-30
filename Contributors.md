@@ -31,6 +31,7 @@
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Yash Sarvaiya
+- Mary Magorrian
 - Siddharth Panjwani
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
@@ -44,6 +45,7 @@
 - [Jonas Imm](https://github.com/JonasImm)
 - Deepti Patel (https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
+- [Davis Gitonga](https://github.com/dayon3)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
 - [Anthony Gelder](https://github.com/anthonygelder)
 - [Samuel Jo](https://github.com/squireaintready)
@@ -99,6 +101,7 @@
 - [Phillip Viens](https://github.com/peejmonty)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
 - [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
+- [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
 - [Regine Heimers](https://github.com/rheimers)
@@ -148,8 +151,13 @@
 - [Charles Topliff](https://github.com/ctopliff)
 - [Rakshita Maheshwari](https://github.com/rakshitamaheshwari)
 - Sonu Saha
+  <<<<<<< HEAD
 - [Biswas Nandamuri](https://github.com/Biswas-N)
+- # [Sushant Athley](https://github.com/uf-sushant)
+- [Biswas Nandamuri](https://github.com/Biswas-N)
+- Kay:)
 - [Sushant Athley](https://github.com/uf-sushant)
+  > > > > > > > upstream/master
 - Jape Seifu https://github.com/jseifu
 - [Daniel A. Villena H.](https://github.com/davillenah)
 - [Naveen Kumar](https://github.com/naveen-27)
@@ -734,6 +742,7 @@
 - [Attaf Habib](https://github.com/AttafHabib)
 - [Shaik Zayeer Hussain](https://github.com/Zayeer)
 - [Ashik Paul](https://github.com/Ashikpaul)
+- [Ayushman Singh]
 - [Nithiyashree MG](https://github.com/mgncodes)
 - [Abiola Farounbi](https://github.com/Abiola-Farounbi)
 - [Temitope Babatola](https://github.com/BBimie)
