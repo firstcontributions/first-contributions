@@ -533,6 +533,7 @@ Jeremiah Harkins
 - Deppah
 - [Janie-Marie](https://github.com/kuskarina)
 - [Oliver Mak](https://github.com/oliver139)
+- [Alex Plazas](https://github.com/alexplazas)
 - lk-git
 - Eddie Lewis
 - Or Dotan
