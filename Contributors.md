@@ -417,6 +417,7 @@
 - [Ines Romdhani](https://github.com/inesRom)
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
+- [tozzomat](https://github.com/tozzomat)
 - [Zakariya Mohamed](https://github.com/longarmz)
 - [manish prajapati](https://github.com/Manish-210)
 - [Curt Bridgers](https://github.com/orcalikastecona)
@@ -564,6 +565,7 @@
 - Or Dotan
 - [bog204](https://github.com/bog204)
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
+- [tozzomat](https://github.com/tozzomat)
 - David Hunter
 - Abah Gift
 - [Michael Acolatse](https://github.com/mikeaco)
