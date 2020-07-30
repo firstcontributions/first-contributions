@@ -1,5 +1,4 @@
 # Contributors
-
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Michael Berkowitz](https://github.com/meberko)
@@ -155,7 +154,7 @@
 - [Rakshita Maheshwari](https://github.com/rakshitamaheshwari)
 - Sonu Saha
 - [Biswas Nandamuri](https://github.com/Biswas-N)
-- # [Sushant Athley](https://github.com/uf-sushant)
+- [Sushant Athley](https://github.com/uf-sushant)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - Kay:)
 - [Sushant Athley](https://github.com/uf-sushant)
@@ -235,6 +234,7 @@
 - Shashank Mishra
 - new
 - Robert Wright Jr.
+- Tabitha Kavyu
 - Mayank Goel
 - [Bryan Hooper](https://github.com/bthooper)
 - Gyanendra Pratap
@@ -331,7 +331,7 @@
 - [Olabamiji Oyetubo](https://github.com/bigboybamo)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - [Sohaib](https://github.com/Sohaib03)
-  Nico Tek
+- Nico Tek
 - Zion Williamson (Pelicans, number 1)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
@@ -390,6 +390,7 @@
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
 - [Chris Richardson](https://github.com/ctrich)
 - [Pratyush Kumar](https://github.com/Pratyukumar)
+- [Chris Richardson](https://github.com/ctrich)
 - [Harshank Pathak](https://github.com/H4rsh4nk)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M](https://github.com/muthuraj27)
