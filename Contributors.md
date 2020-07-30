@@ -16,6 +16,7 @@
 - [Vishay Patel](https://github.com/vp24)
 - Hariprasath
 - [Ben Davis](https://github.com/benjewman)
+- [Aditya](https://github.com/Aditya-Ayyagari)
 - [EricMackensen](https://github.com/ericmackensen)
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Akash Chouhan](https://github.com/akashchouhan16)
