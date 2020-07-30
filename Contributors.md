@@ -97,6 +97,7 @@
 - [Shilpi Maurya](https://github.com/ShilpiMaurya)
 - [Lukasz Pekalski](git clone https://github.com/Lukasz-Pe)
 - [Alexandra Ryzhkova](https://github.com/AlexRyzhkova)
+- [Carissa Hicks](https://github.com/carissa406)
 - [Dhairya Shah](https://github.com/DhairyaShah01)
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Shashank Verma](https://github.com/Shashank1816)
