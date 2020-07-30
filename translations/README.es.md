@@ -32,7 +32,7 @@ Abre tu consola o terminal y ejecuta el siguiente comando de git:
 git clone "url que acabas de copiar"
 ```
 
-Donde "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
+Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
@@ -40,7 +40,7 @@ Por ejemplo:
 ```
 git clone https://github.com/este-eres-tu/first-contributions.git
 ```
-Donde `este-eres-tu` es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
+La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
 
 ## Crea una rama (*Branch*)
 
@@ -109,7 +109,7 @@ Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web 
 
 También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la aplicación web](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
