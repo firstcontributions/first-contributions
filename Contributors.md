@@ -84,6 +84,7 @@
 - Ameeth :)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
 - [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
+- [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Shubham Singh](https://github.com/suubh)
 - [Regine Heimers](https://github.com/rheimers)
