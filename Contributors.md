@@ -510,6 +510,7 @@
 - [Eduardo Wallace](https://github.com/eduardolwallace)
 - jenny heyyy
 - ankita mishra
+- Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
 - Leszek
@@ -1904,7 +1905,7 @@
 - [Dominika Malinowska](https://github.com/doma1991)
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
-- [Karan G0vil](https://github.com/karangovil)
+
 - [Jordan van Beijnhem](https://github.com/jordanvanbeijnhem)
 - [JonatanBarr](https://github.com/jonybar9)
 - [Vidit Jain](https://github.com/viditjain5598)
