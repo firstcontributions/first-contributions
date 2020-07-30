@@ -219,6 +219,7 @@
 - [Rahul Pandey](https://github.com/Marvel-o-us)
 - Tyler Brennan (https://github.com/tylerbrennan)
 - Luke Anderson
+- jakeb10
 - Michael Spicer (httpes://github.com/Citywideiowa0)
 - ameethS ;)
 - Sandip Kumar(https://github.com/Sandip220593)
