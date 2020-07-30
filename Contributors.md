@@ -1,4 +1,5 @@
 # Contributors
+-[Jim Galvan] (https://github.com/JimGalvan)
 - [Michael Berkowitz] (https://github.com/meberko)
 - Ashild Kummen (https://github.com/ashildkummen)
 - [Aashutosh Sahni] (https://github.com/AashutoshSahni)
