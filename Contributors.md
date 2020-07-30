@@ -374,6 +374,7 @@
 - Brandt C.
 - Katja
 - Learner
+- [Kamil Gusowski] (https://github.com/gkns1)
 - Lucas Jeske (https://github.com/pljcgm)
 - Su Willu (https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
