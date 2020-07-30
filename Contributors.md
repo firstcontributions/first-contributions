@@ -5,6 +5,7 @@
 - [Michael Berkowitz](https://github.com/meberko)
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
+- [Rakesh Jarupula](https://github.com/Rakesh148)
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
 - first test
