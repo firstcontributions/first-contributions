@@ -465,6 +465,7 @@
 - [Robert Bogner](https://github.com/bowclaw)
 - [Aichi Chang](https://github.com/aichi-chang)
 - adi satrio wibowo
+- Rochisha
 - belublem
 - Dhruv Roy Talukdar
 - John
@@ -700,6 +701,7 @@
 - Mustafa Taha
 - Jeremiah Zagada
 - Shweta Karwa
+- Jeffrey Russell
 - Jacob Beran
 - [Iago Nunes](https://github.com/iago)
 - [Wai Man Lam](https://github.com/waimanlam2019)
