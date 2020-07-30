@@ -131,6 +131,7 @@
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - [Abhishek Thakur](https://github.com/abhishekthakur0)
 - [Aidan Duff](https://github.com/aidanduff)
+- [Joanna Sprott](https://github.com/JoannaSprottHome)
 - George Black
 - Brian Prince (https://github.com/bcp2415)
 - [Fotie M. Constant](https://github.com/FotieMConstant)
