@@ -3,6 +3,7 @@
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
+- [Shipra Verma](https://github.com/Aaishpra)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
 - [Anthony Gelder](https://github.com/anthonygelder)
