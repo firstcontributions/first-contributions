@@ -1,5 +1,6 @@
 # Contributors
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
+  [Franklyn Chisom] (https://github.com/ajifrank75)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Michael Berkowitz](https://github.com/meberko)
