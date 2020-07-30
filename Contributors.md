@@ -12,6 +12,7 @@
 - first test
 - Atia
 - [My]
+- [rroyson](https://github.com/rroyson)
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [Chethan Bhat](https://github.com/chethanbhat)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
