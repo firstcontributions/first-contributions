@@ -2949,6 +2949,7 @@
 - [CMofjeld](https://github.com/CMofjeld)
 - Mubashar Ahmad
 - mikrobi
+- [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
 - [Jose Marin](https://github.com/josuamanuel)
 - [jopaha](https://github.com/jopaha/)
