@@ -671,6 +671,7 @@ Jeremiah Harkins
 - [Iago Nunes](https://github.com/iago)
 - [Wai Man Lam](https://github.com/waimanlam2019)
 - aga
+- [Rafael Adão](https://github.com/RafaelAdao)
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
 - [Ruth Ikegah] (https://github.com/Ruth-ikegah)
