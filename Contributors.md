@@ -1,9 +1,9 @@
 # Contributors
 
--[Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!) -[Jim Galvan](https://github.com/JimGalvan)
-
+- [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
+- [Jim Galvan](https://github.com/JimGalvan)
 - [Michael Berkowitz](https://github.com/meberko)
-- Ashild Kummen (https://github.com/ashildkummen)
+- [Ashild Kummen](https://github.com/ashildkummen)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
@@ -151,13 +151,11 @@
 - [Charles Topliff](https://github.com/ctopliff)
 - [Rakshita Maheshwari](https://github.com/rakshitamaheshwari)
 - Sonu Saha
-  <<<<<<< HEAD
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - # [Sushant Athley](https://github.com/uf-sushant)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - Kay:)
 - [Sushant Athley](https://github.com/uf-sushant)
-  > > > > > > > upstream/master
 - Jape Seifu https://github.com/jseifu
 - [Daniel A. Villena H.](https://github.com/davillenah)
 - [Naveen Kumar](https://github.com/naveen-27)
