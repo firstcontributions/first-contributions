@@ -18,6 +18,7 @@
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
 - [Vishay Patel](https://github.com/vp24)
+- [Tristan Elliott](https://github.com/thePlebDev)
 - Hariprasath
 - [Ben Davis](https://github.com/benjewman)
 - [Aditya](https://github.com/Aditya-Ayyagari)
