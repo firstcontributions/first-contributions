@@ -12,6 +12,7 @@
 - Atia
 - [My]
 - [Parishrut Kushwaha](https://github.com/parish09)
+- [Masood Mohammad](https://github.com/masoodbinmohammad)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
 - [Vishay Patel](https://github.com/vp24)
