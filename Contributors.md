@@ -73,6 +73,7 @@
 - [Harald Lilja](https://github.com/Anguse)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Anita Ihuman](https://github.com/Anita-ihuman)
+  [Samyukta Varshney](https://github.com/samyukta20)
 - [Tilak Bhansali](https://github.com/tilak30)
 - [Noman Arshad](https://github.com/nomanarshad94)
 - [JOnathan White](https://github.com/jonathancwhite)
