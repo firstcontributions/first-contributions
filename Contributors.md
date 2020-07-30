@@ -2989,6 +2989,7 @@
 - [HakaCode](https://github.com/HakaCode)
   amin-da
 - [James Ledger](https://github.com/JamesLedger)
+- [steelslugs](https://github.com/steelslugs)
 - [Dhruval Patel](https://github.com/D-U-Patel)
 - [Tatiana Tarnovskaya](https://github.com/ttarnov)
 - [Kaustubh Chaudhari](https://github.com/kc611)
