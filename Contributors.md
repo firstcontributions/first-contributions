@@ -300,6 +300,9 @@
 - Yash Gaitonde (https://github.com/ygaitonde)
 - Michael He (https://github.com/yh8953)
 - Wolfgang Feurer (https://github.com/wfeurer)
+- Bala Hantsi
+- [Kieran Ringel](hhtps://github.com/kieran-ringel)
+- [Shakeib Shaida] (https://github.com/shakeib98)
 - Kaustubh Kumar (https://github.com/KaustubhKumar05)
 - microcluster (https://github.com/microcluster)
 - [Sean Gorham](https://github.com/sgorham)
