@@ -102,6 +102,7 @@
 - Ameeth :)
 - [Phillip Viens](https://github.com/peejmonty)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
+- [Joem Elias Sanez](https://github.com/israelias)
 - [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
 - [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
 - [Firas Mujahidin](https://github.com/firasisme)
