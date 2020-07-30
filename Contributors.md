@@ -2901,6 +2901,7 @@
 - [Travis Major](https://github.com/schfiftyfive)
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
+- [Jannat Patel](https://github.com/pateljannat)
 - [Shubham Kulkarni](https://github.com/shubhamkulkarni01)
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Ryan Goudie](https://github.com/RyanGoudie)
