@@ -25,6 +25,7 @@
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
+- [Shipra Verma](https://github.com/Aaishpra)
 - raymen
   ms567
 - Chris Hicks (https://github.com/HicksCR-2020)
@@ -181,7 +182,7 @@
 - Git Goode
 - [George Rod](https://https://github.com/gnrod)
 - Mohan-Cloud
-- Minel Aydın - Minnela :) (https://github.com/minnela)
+- Minel Aydın - Minnela :)(https://github.com/minnela)
 - David Kwong
 - [Akash Singh](https://github.com/Garpieln)
 - Shruti Kumari
