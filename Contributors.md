@@ -3115,6 +3115,7 @@
 - [Kishan Pate](https://github.com/kishan151999)
 - kistee
 - [Greg Fanyan](https://github.com/Gregfanyan)
+- [Johannes Kultanen] (https://github.com/jommari)
 - [JCastillo](https://github.com/JesusIgnacio)
 - [Adedipupo](https://github.com/Adedipupo)
 - [Sonntag09](https://github.com/Sonntag09)
