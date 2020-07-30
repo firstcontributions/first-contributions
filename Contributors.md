@@ -3176,3 +3176,4 @@
 - [Domath ID](https://github.com/domathid)
 - [lolo77777](https://github.com/lolo77777)
 - Gunnar Siréus, https://github.com/gunnarsireus
+- [Léo Battin](https://github.com/leobattin)
