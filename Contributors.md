@@ -524,6 +524,7 @@
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
+- [Iqra Muhammad](https://github.com/cemeiq)
 - Zachary Judson
 - Shubham yadav (https://github.com/shubham-yadav-git)
 - annika wischnewsky (https://github.com/wischn)
@@ -2943,6 +2944,7 @@
 - [Kornel Kwiatecki](http://github.com/kwiatek023)
 - [Hemanth Savasere](http://github.com/savaserehemanth)
 - [Lily Zhong](https://github.com/lyzhng)
+- [Rexford Essilfie](https://github.com/RexfordEssilfie)
 - [Nándor Réfi](https://github.com/nandorrefi)
 - [Christine Luo](https://github.com/christinealuo)
 - [C Lin](https://github.com/chrisflectionlin)
