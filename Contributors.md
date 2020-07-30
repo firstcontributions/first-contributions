@@ -44,6 +44,7 @@ ms567
 - [Jonas Imm](https://github.com/JonasImm)
 - Deepti Patel (https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
+- [Davis Gitonga](https://github.com/dayon3)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
 - [Anthony Gelder](https://github.com/anthonygelder)
 - [Samuel Jo] (https://github.com/squireaintready)
