@@ -1850,6 +1850,7 @@
 - [Michael Properzi](https://github.com/erzimj)
 - [TheDopplerEffects](https://github.com/TheDopplerEffects)
 - [Masahiro Okamoto](https://github.com/okamotchan)
+- [Den Chism](https://github.com/Denchism)
 - [Elizabeth Beers](https://github.com/ebeers-png/)
 - [Robiquet](https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
