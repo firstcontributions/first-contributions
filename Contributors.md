@@ -2927,13 +2927,13 @@
 - [AmineAML](https://github.com/AmineAML)
 - [Tony Huang](https://github.com/tonyhuang-hxb)
 - [Yushi Yang](https://github.com/yangyushi)
-  – [F.J. Genus](https://github.com/FJKhan)
+- [F.J. Genus](https://github.com/FJKhan)
 - [Charles Kuo](https://github.com/kuoyenchia)
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
 - [Meagan](https://github.com/olsenme)
 - [Selam Gessese](https://github.com/sygessese)
-  Chris Ryan
+- Chris Ryan
 - [Sachin Diwate](https://github.com/dsachin)
 - [Sukritee Shrivastava](https://github.com/sukritee)
 - [Steven Rouk](https://github.com/stevenrouk)
@@ -2959,16 +2959,18 @@
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
 - [Matt Wood](https://github.com/MattWood21)
+- [Robert Hunziker](https://github.com/osgard1)
 - [Saikat Roy](https://github.com/njmsaikat)
 - [Robert Hunziker](https://github.com/osgard1)
 - [Gladis NDOUAB'S](https://github.com/dincas)
 - Reuven Sayag
-- Khushant arora[https://github.com/khushi1234945]
-  -Gopal Dasbairagya
-- [claraki](https://github.com/claraki/) -[Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
+- [Khushant arora](https://github.com/khushi1234945)
+- Gopal Dasbairagya
+- [claraki](https://github.com/claraki/)
+- [Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
 - [Sushant Yadav](https://github.com/sushantyadav1)
-  [Davin-1](https://github.com/july2017-test/)
-  [PepeTheRoya](https://github.com/pepetheroya)
+- [Davin-1](https://github.com/july2017-test/)
+- [PepeTheRoya](https://github.com/pepetheroya)
 - [Michael K.](https://github.com/m1c6a3l)
 - [tomoyuch](https://github.com/tomoyuch)
 - [Daniel Hewitson](https://github.com/DHewitson1991)
@@ -2989,7 +2991,7 @@
 - malik
 - [Guruprasad Veerannavaru](https://github.com/urguru)
 - [HakaCode](https://github.com/HakaCode)
-  amin-da
+- amin-da
 - [James Ledger](https://github.com/JamesLedger)
 - [steelslugs](https://github.com/steelslugs)
 - [Dhruval Patel](https://github.com/D-U-Patel)
