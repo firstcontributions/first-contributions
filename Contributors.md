@@ -224,6 +224,8 @@
 - 8Dion8
 - ergm
 - CodeWithMughal
+- [Virendra Giri](https://github.com/ThePresence)
+- Eiseid
 - farhan
 - Matthew Baresch
 - Jonas Kim
@@ -341,6 +343,7 @@
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
+- [Lakshay Yadav](https://github.com/Lucky0108)
 - [Mohan Periasami](https://github.com/mperiasa2)
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
@@ -468,7 +471,7 @@
 - Rama C
 - Tarush Goyal (https://github.com/TarushGoyal)
 - Rishav Jain(https://github.com/rishav4336)
-- > [KhadkaBinu](https://github.com/khadkabinay)
+- [KhadkaBinu](https://github.com/khadkabinay)
 - Stoney96
 - [Hunter Goodreau](https://github.com/ghgoodreau)
 - Barry Johnson (https://github.com/JamesJohnson11)
