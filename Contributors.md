@@ -582,6 +582,7 @@
 - Satty Kaur (https://github.com/SattyKaur)
 - Drshika A. (https://github.com/drsxhi)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
+- [Roman Rokon ⭐⭐⭐⭐⭐⭐](https://github.com/rokonxr)
 - Karsten W. (https://github.com/Fflowka)
 - Sherry C
 - errrii
