@@ -3169,6 +3169,7 @@ StephDigital
 - [Ramon Ferreira](https://github.com/ramonfsk)
 - [Han-Chin Shing](https://github.com/sidenver)
 - Douze
+- [PetoriousBIG](https://github.com/PetoriousBIG)
 - [JoscaWij](https://github.com/JoscaWij)
 - [Visenna88](https://github.com/Visenna88)
 - [Chris Achinga](https://github.com/ChrisAchinga)
