@@ -12,6 +12,7 @@
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
 - first test
+- [Akshat Garg](https://github.com/Akshat-009)
 - [Ben Ravin](https://github.com/benravin69/)
 - Atia
 - [My]
@@ -56,6 +57,7 @@
   [Malvika Bhargava](https://github.com/Malvika18)
 - [Pine9](https://github.com/Pine9)
 - [Jonas Imm](https://github.com/JonasImm)
+- [Rahul Sharma](https://github.com/webber2408)
 - Deepti Patel (https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Davis Gitonga](https://github.com/dayon3)
@@ -70,6 +72,7 @@
 - [Ashutosh Raman](https://github.com/ashutosh0709)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
+- [Nirabhra Tapaswi](https://github.com/nirabhratapaswi)
 - [Manuel Papa](https://github.com/manuelpapa)
 - [AbhipsaGuru1012](https://github.com/AbhipsaGuru1012)
 - [Shivam Singla](https://github.com/shivam7374)
@@ -3203,3 +3206,4 @@
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
 - [Ramesh Komarasamy](https://github.com/RameshRise)
+- [Shivasubramaniam Ramiah](https://github.com/shivasubramaniamR/)
