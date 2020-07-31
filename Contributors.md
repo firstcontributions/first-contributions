@@ -136,6 +136,7 @@
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Kristin Skipper](https://github.com/lifefromashes)
 - [Vasiliy Harden](https://github.com/VasiliyHarden)
+- [Speedphoenix](https://github.com/Speedphoenix)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Endri Celaj](https://github.com/endri2211)
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
@@ -3202,6 +3203,7 @@
 - [Keisuke Toyota](https://github.com/ksk001100)
 - [Domath ID](https://github.com/domathid)
 - [lolo77777](https://github.com/lolo77777)
+- Gunnar Siréus, https://github.com/gunnarsireus
 - [Gunnar Siréus](https://github.com/gunnarsireus)
 - [Léo Battin](https://github.com/leobattin)
 - [Paul Ventura](https://github.com/pmventura)
