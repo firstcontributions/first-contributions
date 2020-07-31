@@ -90,6 +90,7 @@
 - [Briana](https://github.com/MosNeagu)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
+[Tushar Muralidharan](https://github.com/tooshwhoosh)
 - [Jarrod Dieppa](https://github.com/jdieppa)
 - [Joseph Kim](https://github.com/thejykim)
 - [Devon Hunter](https://github.com/DevonHunter/)
