@@ -3197,8 +3197,10 @@ StephDigital
 - [Timothy Yang](https://github.com/timothyy208)
 - [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
 - [SlowPoto]
+- [Riya Raj](https://github.com/riya1606)
 - [Edgar Nelson](https://github.com/edgarwilliamnelson)
 - [Rajesh Vaidya](https://github.com/squashmeister99)
+
 - [Kevin Terry](https://github.com/kterry1)
 - [Karsten C.](https://github.com/kcastil3)
 - [Arsh Sekhon](https://github.com/arshsekhon)
@@ -3225,3 +3227,4 @@ StephDigital
 - [Ritik Soni](https://github.com/ritiksoni00)
 - [Krunal Patil](https://github.com/gitkp11)
 - [Mari World](https://github.com/mariworld)
+  
