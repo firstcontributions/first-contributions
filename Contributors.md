@@ -71,6 +71,7 @@
 - [Ashutosh Raman](https://github.com/ashutosh0709)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
+- [Nirabhra Tapaswi](https://github.com/nirabhratapaswi)
 - [Manuel Papa](https://github.com/manuelpapa)
 - [AbhipsaGuru1012](https://github.com/AbhipsaGuru1012)
 - [Shivam Singla](https://github.com/shivam7374)
