@@ -28,6 +28,7 @@
 - [Tristan Elliott](https://github.com/thePlebDev)
 - Hariprasath
 - [Ben Davis](https://github.com/benjewman)
+- [Jayesh Srivastava](https://github.com/jayesh-srivastava)
 - [Aditya](https://github.com/Aditya-Ayyagari)
 - [EricMackensen](https://github.com/ericmackensen)
 - [Abhinav Dhiman](https://github.com/abhinavg916)
