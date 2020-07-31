@@ -269,6 +269,7 @@ StephDigital
 - new
 - Robert Wright Jr.
 - Tabitha Kavyu
+- Richard Pryce
 - Mayank Goel
 - [Bryan Hooper](https://github.com/bthooper)
 - Gyanendra Pratap
