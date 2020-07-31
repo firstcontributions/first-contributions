@@ -17,6 +17,7 @@
 - [Ben Ravin](https://github.com/benravin69/)
 - Atia
 - [Abram] (https://github.com/AbramQuerashi/)
+- [Shay Ben Shimol] (https://github.com/shayben838)
 - [My]
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
