@@ -1748,6 +1748,7 @@
 - [Se7enSquared](https://github.com/Se7enSquared)
 - [Lastminute](https://github.com/lstmnt)
 - [Panasarn Kanchanapiboon](https://github.com/musickn)
+- [Qubone](https://github.com/qubone)
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
 - [Tim](https://github.com/Tim-Smet)
@@ -3213,3 +3214,4 @@
 - [Ramesh Komarasamy](https://github.com/RameshRise)
 - [Shivasubramaniam Ramiah](https://github.com/shivasubramaniamR/)
 - [Krunal Patil](https://github.com/gitkp11)
+
