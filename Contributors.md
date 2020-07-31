@@ -152,6 +152,7 @@
 - [SashiKrishna C P](https://github.com/ossCodeJourney)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
 - [Skyler Milliken](https://github.com/relykstm)
+- [Thomas Wrappe](https://github.com/twrappe)
 - [Om](https://github.com/OmLakshmi)
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - [Godstime Onyibe](https://github.com/Godstyme)
