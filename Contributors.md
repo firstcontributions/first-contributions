@@ -1,6 +1,7 @@
 # Contributors
+
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
-  [Franklyn Chisom] (https://github.com/ajifrank75)
+  [Franklyn Chisom](https://github.com/ajifrank75)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Michael Berkowitz](https://github.com/meberko)
@@ -90,7 +91,7 @@
 - [Briana](https://github.com/MosNeagu)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
-[Tushar Muralidharan](https://github.com/tooshwhoosh)
+  [Tushar Muralidharan](https://github.com/tooshwhoosh)
 - [Jarrod Dieppa](https://github.com/jdieppa)
 - [Joseph Kim](https://github.com/thejykim)
 - [Devon Hunter](https://github.com/DevonHunter/)
@@ -318,7 +319,7 @@
 - Wolfgang Feurer (https://github.com/wfeurer)
 - Bala Hantsi
 - [Kieran Ringel](hhtps://github.com/kieran-ringel)
-- [Shakeib Shaida] (https://github.com/shakeib98)
+- [Shakeib Shaida](https://github.com/shakeib98)
 - Kaustubh Kumar (https://github.com/KaustubhKumar05)
 - microcluster (https://github.com/microcluster)
 - [Sean Gorham](https://github.com/sgorham)
@@ -387,7 +388,7 @@
 - Brandt C.
 - Katja
 - Learner
-- [Kamil Gusowski] (https://github.com/gkns1)
+- [Kamil Gusowski](https://github.com/gkns1)
 - Lucas Jeske (https://github.com/pljcgm)
 - Su Willu (https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
@@ -3121,7 +3122,7 @@
 - [Kishan Pate](https://github.com/kishan151999)
 - kistee
 - [Greg Fanyan](https://github.com/Gregfanyan)
-- [Johannes Kultanen] (https://github.com/jommari)
+- [Johannes Kultanen](https://github.com/jommari)
 - [JCastillo](https://github.com/JesusIgnacio)
 - [Adedipupo](https://github.com/Adedipupo)
 - [Sonntag09](https://github.com/Sonntag09)
@@ -3201,3 +3202,4 @@
 - [Léo Battin](https://github.com/leobattin)
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
+- [Ramesh Komarasamy](https://github.com/RameshRise)
