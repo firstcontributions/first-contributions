@@ -3212,4 +3212,5 @@
 - [Chris M.](https://github.com/HillbillyZT/)
 - [Ramesh Komarasamy](https://github.com/RameshRise)
 - [Shivasubramaniam Ramiah](https://github.com/shivasubramaniamR/)
+- [Ritik Soni](https://github.com/ritiksoni00)
 - [Krunal Patil](https://github.com/gitkp11)
