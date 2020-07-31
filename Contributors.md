@@ -15,6 +15,7 @@
 - first test
 - [Akshat Garg](https://github.com/Akshat-009)
 - [Ben Ravin](https://github.com/benravin69/)
+- [Christian Elías](https://github.com/ChristianECG)
 - Atia
 - [Abram] (https://github.com/AbramQuerashi/)
 - [Shay Ben Shimol] (https://github.com/shayben838)
