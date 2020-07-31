@@ -3180,6 +3180,7 @@ StephDigital
 - [Jeswin Mathew](https://github.com/jxm2012)
 - [Jun Parinya](https://github.com/)
 - [Taras Kozak](https://github.com/kozaktar)
+- [Ezra Schrage](https://github.com/ezraschrage)
 - [M. Faiz Triputra]
 - [Tech](https://github.com/)
 - [Rajwrita Nath](https://github.com/Rajwrita)
