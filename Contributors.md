@@ -3199,3 +3199,4 @@
 - [Gunnar Siréus](https://github.com/gunnarsireus)
 - [Léo Battin](https://github.com/leobattin)
 - [Nins3i](https://github.com/nins3i)
+- [Chris M.](https://github.com/HillbillyZT/)
