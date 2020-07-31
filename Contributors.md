@@ -168,6 +168,7 @@
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - [Patryk](https://github.com/PatrykB-dot)
 - [Rahul Rank](https://github.com/rahulrank)
+- [Katie Barriere](https://github.com/kt2187)
 - [Dan Stara](https://github.com/staradan)
 - [Felipe Augusto](https://github.com/relipe)
 - [Muhammad Ahmad](https://github.com/MA-Ahmad)
