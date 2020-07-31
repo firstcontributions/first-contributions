@@ -3136,6 +3136,7 @@
 - [Manheiba](https://github.com/manheiba)
 - [atglenio](https://github.com/atglenio)
 - [Brandon Boettcher](https://github.com/boett)
+- [m-jay](https://github.com/m-jay)
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mihilt](https://github.com/mihilt)
 - Sagar Varma
