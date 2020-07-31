@@ -3204,6 +3204,7 @@
 - [lolo77777](https://github.com/lolo77777)
 - [Gunnar Siréus](https://github.com/gunnarsireus)
 - [Léo Battin](https://github.com/leobattin)
+- [Paul Ventura](https://github.com/pmventura)
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
 - [Ramesh Komarasamy](https://github.com/RameshRise)
