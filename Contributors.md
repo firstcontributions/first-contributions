@@ -11,6 +11,7 @@
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
 - first test
+- [Akshat Garg](https://github.com/Akshat-009)
 - [Ben Ravin](https://github.com/benravin69/)
 - Atia
 - [My]
