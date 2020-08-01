@@ -3,6 +3,7 @@
 - [Vishakha Tomar] (https://github.com/vish1306)
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
 - [Franklyn Chisom](https://github.com/ajifrank75)
+- [Akib Maredia](https://github.com/akibmaredia)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
