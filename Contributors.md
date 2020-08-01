@@ -296,6 +296,7 @@ StephDigital
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
 - Reuben Sadler
+- Holden Nelson
 - Taylor Koressel
 - mallgyd
 - Anya Schechter (https://github.com/abracadabra89/)
