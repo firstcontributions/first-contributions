@@ -32,6 +32,7 @@
 - [Vishay Patel](https://github.com/vp24)
 - [Tristan Elliott](https://github.com/thePlebDev)
 - Hariprasath
+- [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Ben Davis](https://github.com/benjewman)
 - [Jayesh Srivastava](https://github.com/jayesh-srivastava)
 - [Aditya](https://github.com/Aditya-Ayyagari)
@@ -42,7 +43,6 @@
 - [JustinSilvaCodes](https://github.com/jaymasterflex)
 - [Alex](https://github.com/TheEpicProgrammer)
 - [Steven Dz](https://github.com/StevenDz)
-- [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
