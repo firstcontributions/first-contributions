@@ -1,7 +1,8 @@
 ﻿# Contributors
+
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
-- [Vishakha Tomar] (https://github.com/vish1306)
-- [Lahari Poluparti] (https://github.com/LahariPoluparti)
+- [Vishakha Tomar](https://github.com/vish1306)
+- [Lahari Poluparti](https://github.com/LahariPoluparti)
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
@@ -19,8 +20,8 @@
 - [Ben Ravin](https://github.com/benravin69/)
 - [Christian Elías](https://github.com/ChristianECG)
 - Atia
-- [Abram] (https://github.com/AbramQuerashi/)
-- [Shay Ben Shimol] (https://github.com/shayben838)
+- [Abram](https://github.com/AbramQuerashi/)
+- [Shay Ben Shimol](https://github.com/shayben838)
 - [My]
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
@@ -41,6 +42,7 @@
 - [JustinSilvaCodes](https://github.com/jaymasterflex)
 - [Alex](https://github.com/TheEpicProgrammer)
 - [Steven Dz](https://github.com/StevenDz)
+- [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
@@ -78,7 +80,7 @@
 - [Anthony Gelder](https://github.com/anthonygelder)
 - [Samuel Jo](https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
-- [Vishakha Tomar] (https://github.com/saurabhsaha027)
+- [Vishakha Tomar](https://github.com/saurabhsaha027)
 - [Gajanand Singh](https://github.com/PRINCE1409)
 - [Peppah Jackk](https://github.com/peppahjackk)
 - [Tarang Singhal](https://github.com/Tarang-singhal)
@@ -92,8 +94,7 @@
 - [Shivam Singla](https://github.com/Seeevam)
 - [Rumit Tandukar](https://github.com/rumit0270)
 - [Akil Mahmod Tipu](httpss://github.com/akiltipu)
-- [Ingrid Carlson](https://github.com/ingridclaire)
--[Ssivam Chopra]()
+- [Ingrid Carlson](https://github.com/ingridclaire) -[Ssivam Chopra]()
 - [Harald Lilja](https://github.com/Anguse)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Anita Ihuman](https://github.com/Anita-ihuman)
@@ -155,7 +156,7 @@
 - [Speedphoenix](https://github.com/Speedphoenix)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Endri Celaj](https://github.com/endri2211)
-StephDigital
+  StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
@@ -383,7 +384,7 @@ StephDigital
 - [Olabamiji Oyetubo](https://github.com/bigboybamo)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - [Sohaib](https://github.com/Sohaib03)
-- [Uzo Nwokolo] (https://github.com/uznwokolo)
+- [Uzo Nwokolo](https://github.com/uznwokolo)
 - Nico Tek
 - Zion Williamson (Pelicans, number 1)
 - Arham (WinterAid, EUW)
@@ -1294,7 +1295,7 @@ StephDigital
 - [Lucas Zanin](https://github.com/LucasZan1n)
 - [Ayush Mandloi](https://github.com/ayushmandloi2)
 - [Karthik Panambur] https://github.com/karthik-panambur
-- [Gadi Leh] (https://github.com/gidonleh)
+- [Gadi Leh](https://github.com/gidonleh)
 - [Anthony Hill](https://github.com/anthonyhi11)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Coco](https://github.com/coco4024)
@@ -1626,7 +1627,7 @@ StephDigital
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Col Roberts](https://github.com/ColR)
-Yogakshi Jaiman
+  Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - [Ikenna Victor Echendu](https://github.com/morlimoore)
 - [Manoj M](https://github.com/manoj1222)
