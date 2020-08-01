@@ -3159,6 +3159,7 @@ StephDigital
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mihilt](https://github.com/mihilt)
 - Sagar Varma
+- [Alex Beaty](https://github.com/jncosideout)
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
 - [Aizaz Ahmad](https://github.com/aaizkhan)
 - [Ty Chermsirivatana](https://github.com/WarpWing)
