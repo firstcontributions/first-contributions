@@ -3237,3 +3237,4 @@ Yogakshi Jaiman
 - [Krunal Patil](https://github.com/gitkp11)
 - [Mari World](https://github.com/mariworld)
 - [Amy Har-Even](https://github.com/java-amy)
+- [Piotr Czupyk](https://github.com/SzkyCode)
