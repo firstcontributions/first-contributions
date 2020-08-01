@@ -147,6 +147,7 @@
 - [Abbey Dabiri](https://github.com/abbeydabiri)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Joshua Fritsch](https://github.com/jfritsch75)
+- [Maryam Yusuf](https://github.com/mharyam)
 - [Arjun Puthli](https://github.com/akagam1)
 - [Nilansh Bansal](https://github.com/nilanshbansal)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
