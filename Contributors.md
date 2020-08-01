@@ -3202,3 +3202,4 @@
 - [Léo Battin](https://github.com/leobattin)
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
+- [Shishir Chauhan](https://github.com/Shisir99/)
