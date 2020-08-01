@@ -2422,6 +2422,7 @@ Yogakshi Jaiman
 - [David Azael Bernal](https://github.com/davidazael)
 - [Lydia Velasquez](https://https://github.com/lydiarachel)
 - [Kevin Huber](https://github.com/itskev)
+- [Taylor Nuffer](https://github.com/nuffertaylor)
 - [Monio](https://github.com/monio)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
 - [Cristian Sanchez](https://github.com/cristianscy)
