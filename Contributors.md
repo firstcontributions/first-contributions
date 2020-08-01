@@ -43,6 +43,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - [Shipra Verma](https://github.com/Aaishpra)
+  [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
 - raymen
 - ms567
 - Chris Hicks (https://github.com/HicksCR-2020)
@@ -1616,7 +1617,7 @@ StephDigital
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Col Roberts](https://github.com/ColR)
-Yogakshi Jaiman 
+Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - [Ikenna Victor Echendu](https://github.com/morlimoore)
 - [Manoj M](https://github.com/manoj1222)
