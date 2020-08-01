@@ -287,6 +287,7 @@ StephDigital
 - KPIshnik
 - Reuben Sadler
 - Taylor Koressel
+- mallgyd
 - Anya Schechter (https://github.com/abracadabra89/)
 - yosef (did it)
 - Jimmy Holmes (https://github.com/MrDrHolmes)
