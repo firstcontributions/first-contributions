@@ -253,6 +253,7 @@ StephDigital
 - [Taha Dharamsi](https://github.com/tahanzania)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
+- jamose0
 - 8Dion8
 - ergm
 - CodeWithMughal
