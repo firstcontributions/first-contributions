@@ -1,6 +1,7 @@
 ﻿# Contributors
+
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
-- [Vishakha Tomar] (https://github.com/vish1306)
+- [Vishakha Tomar](https://github.com/vish1306)
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [Jim Galvan](https://github.com/JimGalvan)
@@ -17,8 +18,8 @@
 - [Ben Ravin](https://github.com/benravin69/)
 - [Christian Elías](https://github.com/ChristianECG)
 - Atia
-- [Abram] (https://github.com/AbramQuerashi/)
-- [Shay Ben Shimol] (https://github.com/shayben838)
+- [Abram](https://github.com/AbramQuerashi/)
+- [Shay Ben Shimol](https://github.com/shayben838)
 - [My]
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
@@ -85,8 +86,7 @@
 - [Shivam Singla](https://github.com/Seeevam)
 - [Rumit Tandukar](https://github.com/rumit0270)
 - [Akil Mahmod Tipu](httpss://github.com/akiltipu)
-- [Ingrid Carlson](https://github.com/ingridclaire)
--[Ssivam Chopra]()
+- [Ingrid Carlson](https://github.com/ingridclaire) -[Ssivam Chopra]()
 - [Harald Lilja](https://github.com/Anguse)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Anita Ihuman](https://github.com/Anita-ihuman)
@@ -148,7 +148,7 @@
 - [Speedphoenix](https://github.com/Speedphoenix)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Endri Celaj](https://github.com/endri2211)
-StephDigital
+  StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
@@ -376,7 +376,7 @@ StephDigital
 - [Olabamiji Oyetubo](https://github.com/bigboybamo)
 - [Nilesh Hazra](https://github.com/nileshhazra)
 - [Sohaib](https://github.com/Sohaib03)
-- [Uzo Nwokolo] (https://github.com/uznwokolo)
+- [Uzo Nwokolo](https://github.com/uznwokolo)
 - Nico Tek
 - Zion Williamson (Pelicans, number 1)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
@@ -747,6 +747,7 @@ StephDigital
 - [Iago Nunes](https://github.com/iago)
 - [Wai Man Lam](https://github.com/waimanlam2019)
 - aga
+- [Anurag Gupta](https://github.com/git-anurag-hub)
 - [Rafael Adão](https://github.com/RafaelAdao)
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
@@ -1616,7 +1617,7 @@ StephDigital
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Col Roberts](https://github.com/ColR)
-Yogakshi Jaiman 
+  Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - [Ikenna Victor Echendu](https://github.com/morlimoore)
 - [Manoj M](https://github.com/manoj1222)
