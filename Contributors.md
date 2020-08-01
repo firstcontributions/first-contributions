@@ -1,8 +1,10 @@
 ﻿# Contributors
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Vishakha Tomar](https://github.com/vish1306)
+- [Lahari Poluparti](https://github.com/LahariPoluparti)
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Kenny Gosai](https://github.com/kennygosai)
+- [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Thiru](https://github.com/thiruppathi)
 - [Michael Berkowitz](https://github.com/meberko)
@@ -37,6 +39,7 @@
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Govind K](https://github.com/GovindKurapati)
 - [JustinSilvaCodes](https://github.com/jaymasterflex)
+- [Alex](https://github.com/TheEpicProgrammer)
 - [Steven Dz](https://github.com/StevenDz)
 - [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
@@ -45,6 +48,7 @@
 - [Shipra Verma](https://github.com/Aaishpra)
   [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
 - raymen
+- Lakshita Mohanty
 - ms567
 - Chris Hicks (https://github.com/HicksCR-2020)
 - Zaynab Bawa (https://github.com/jenki98)
@@ -56,6 +60,7 @@
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
 - Felix Jönsson
+- [Silvija Prozinger](https://github.com/SilvijaProzinger)
 - [Harry Jandu](https://github.com/hushee69)
 - [Avirup Mondal](https://github.com/Avirup-301294)
 - Marco Skradde (https://github.com/mskradde/)
@@ -74,6 +79,7 @@
 - [Anthony Gelder](https://github.com/anthonygelder)
 - [Samuel Jo](https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
+- [Vishakha Tomar] (https://github.com/saurabhsaha027)
 - [Gajanand Singh](https://github.com/PRINCE1409)
 - [Peppah Jackk](https://github.com/peppahjackk)
 - [Tarang Singhal](https://github.com/Tarang-singhal)
@@ -291,6 +297,7 @@ StephDigital
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
 - Reuben Sadler
+- Holden Nelson
 - Taylor Koressel
 - mallgyd
 - Anya Schechter (https://github.com/abracadabra89/)
@@ -898,6 +905,7 @@ StephDigital
 - po10tial
 - Phileas Fogg
 - [MoulayYoussef ElAdlouni](https://github.com/androdesu)
+- [Nitish Kumar P](https://github.com/nitishp051843)
 - [Colin W](https://github.com/cw171)
 - Vijay R S(https://github.com/Vijayselvakumar)
 - [Ranajay Medya](https://github.com/ranajay99)
@@ -2415,6 +2423,7 @@ Yogakshi Jaiman
 - [David Azael Bernal](https://github.com/davidazael)
 - [Lydia Velasquez](https://https://github.com/lydiarachel)
 - [Kevin Huber](https://github.com/itskev)
+- [Taylor Nuffer](https://github.com/nuffertaylor)
 - [Monio](https://github.com/monio)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
 - [Cristian Sanchez](https://github.com/cristianscy)
@@ -2635,6 +2644,7 @@ Yogakshi Jaiman
 - [Anna Sherlock](https://github.com/alsherlock)
 - [Jordan Stubblefield](https://github.com/jstubb7939)
 - [Rajendrasinh Parmar](https://github.com/RajendrasinhParmar)
+- [Tarun Maini](https://github.com/tarunmaini16)
 - [Rajesh Padigela](https://github.com/rajeshpadigela)
 - [Muktadir Khan](https://github.com/muktadirkhan889)
 - [Cod3rx](https://github.com/coderx7)
