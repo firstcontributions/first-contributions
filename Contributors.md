@@ -1987,6 +1987,7 @@ StephDigital
 - [Darshan Patidar](https://github.com/darshanpatidar1)
 - [Rai Santosh](https://github.com/Gitsanto)
 - [Lionel Voirol](https://github.com/lionelvoirol)
+- [Ravi Dhavlesha](https://github.com/ravidhavlesha)
 - [Foris Tale](https://github.com/ForisTale)
 - [jonaro00](https://github.com/jonaro00)
 - [Petar Trbos](https://github.com/Petar-T)
