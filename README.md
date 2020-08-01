@@ -134,7 +134,9 @@ Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
+git add .
 ```
+for all modified file in one click;
 
 Now commit those changes using the `git commit` command:
 ```
