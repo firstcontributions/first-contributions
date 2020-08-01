@@ -902,6 +902,7 @@ StephDigital
 - po10tial
 - Phileas Fogg
 - [MoulayYoussef ElAdlouni](https://github.com/androdesu)
+- [Nitish Kumar P](https://github.com/nitishp051843)
 - [Colin W](https://github.com/cw171)
 - Vijay R S(https://github.com/Vijayselvakumar)
 - [Ranajay Medya](https://github.com/ranajay99)
