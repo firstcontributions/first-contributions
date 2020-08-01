@@ -2832,6 +2832,7 @@ Yogakshi Jaiman
 - [John Hsiung](https://github.com/btwear)
 - [Maya Warren](https://github.com/maya-warren)
 - [Jessica Scortecci](https://github.com/jessica-scortecci)
+- [zenje](https://github.com/zenje)
 - [Douglas Ferlini](https://github.com/douglasferlini)
 - [Aswin Mahendiran](https://github.com/aswinmahendiran)
 - [Brian Pechkis](https://github.com/bpechkis)
