@@ -19,8 +19,8 @@
 ## இந்த repository ஐ fork செய்தல்
 
 
-இந்த பக்கத்தின் மேலே உள்ள fork பொத்தானைக் கிளிக் செய்வதன் மூலம் செயட்படுத்தலாம். 
-இது உங்கள் account இல் ஒரு copy ஐ உருவாக்கும். 
+இந்த பக்கத்தின் மேலே உள்ள fork பொத்தானைக் கிளிக் செய்வதன் மூலம் செயட்படுத்தலாம்.
+இது உங்கள் account இல் ஒரு copy ஐ உருவாக்கும்.
 
 ## இந்த repository ஐ clone செய்தல்
 
@@ -43,7 +43,7 @@ git clone "நீங்கள் copy செய்த url"
 git clone https://github.com/இது நீங்கள்/first-contributions.git
 ```
 
-இங்கு `இது நீங்கள்` என்பது GitHub username என்பதாகும். இதன் மூலம் நீங்கள் first-contributions repository இன் பிரதி ஒன்றை உங்கள் GitHub கணக்கில் செயட்படுத்துகிறீர்கள். 
+இங்கு `இது நீங்கள்` என்பது GitHub username என்பதாகும். இதன் மூலம் நீங்கள் first-contributions repository இன் பிரதி ஒன்றை உங்கள் GitHub கணக்கில் செயட்படுத்துகிறீர்கள்.
 
 ## கிளையொன்றை  உருவாக்குதல்
 
@@ -91,7 +91,7 @@ git commit -m "Add <உங்கள்_பெயர்> to Contributors list"
 
 `உங்கள்_பெயர்` என்ற இடத்தில் உங்கள் பெயரை கொடுங்கள்.
 
-## மாற்றங்களை GitHub இட்கு push செய்தல் 
+## மாற்றங்களை GitHub இட்கு push செய்தல்
 
 `git push` கட்டளையைப் பயன்படுத்தி உங்கள் மாற்றங்களைத் தள்ளுங்கள்:
 
@@ -130,6 +130,6 @@ GitHub இல் உள்ள உங்கள் களஞ்சியத்த�
 
 ## பிற கருவிகளைப் பயன்படுத்தி பயிற்சிகள்
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+| <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [GitHub Desktop](github-desktop-tutorial.md)                 | [Visual Studio 2017](github-windows-vs2017-tutorial.md)      | [GitKraken](gitkraken-tutorial.md)                           | [Visual Studio Code](github-windows-vs-code-tutorial.md)     | [Atlassian Sourcetree](sourcetree-macos-tutorial.md)         | [IntelliJ IDEA](github-windows-intellij-tutorial.md)         |

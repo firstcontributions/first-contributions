@@ -6,6 +6,7 @@
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Thiru](https://github.com/thiruppathi)
 - [Michael Berkowitz](https://github.com/meberko)
+- [Sumanth Thyagarajan](https://github.com/sumanth-thyagarajan)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
