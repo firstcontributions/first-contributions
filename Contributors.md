@@ -380,6 +380,7 @@ StephDigital
 - [Uzo Nwokolo] (https://github.com/uznwokolo)
 - Nico Tek
 - Zion Williamson (Pelicans, number 1)
+- Arham (WinterAid, EUW)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
 - [Richie C.](https://github.com/RTek-dev)
