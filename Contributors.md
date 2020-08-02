@@ -4,6 +4,7 @@
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Vishakha Tomar] (https://github.com/vish1306)
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
+- [Abhishek Rathore] (https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Kenny Gosai](https://github.com/kennygosai)
