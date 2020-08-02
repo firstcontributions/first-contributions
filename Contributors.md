@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay] (https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
