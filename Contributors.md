@@ -10,7 +10,7 @@
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Thiru](https://github.com/thiruppathi)
-- [Leonard Oeding] (https://github.com/Zoedingl)
+- [Leonard Oeding](https://github.com/Zoedingl)
 - [Michael Berkowitz](https://github.com/meberko)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
