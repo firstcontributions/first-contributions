@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay] (https://github.com/special-kay)
