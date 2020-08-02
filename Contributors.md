@@ -139,7 +139,7 @@
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
 - Ameeth :)
-- hawwwdi 
+- hawwwdi
 - [Phillip Viens](https://github.com/peejmonty)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
 - [Joem Elias Sanez](https://github.com/israelias)
@@ -318,6 +318,7 @@ StephDigital
 - [Efraim Klecky](https://github.com/eklecky)
 - [Namra Solanki](https://github.com/whonamra)
 - Kumar Yash (https://github.com/kumaryash18)
+- Liangyue Li (https://github.com/jackiey99)
 - Sai Raman Kilambi (https://github.com/sai-raman)
 - Brian Kozub (https://github.com/ticet11)
 - [Muskan Rani](https://github.com/muskanrani)
