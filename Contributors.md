@@ -44,6 +44,7 @@
 - [Steven Dz](https://github.com/StevenDz)
 - [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
+- joel montano
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - [Shipra Verma](https://github.com/Aaishpra)
