@@ -3179,6 +3179,7 @@ Yogakshi Jaiman
 - [Susan Wangari](https://github.com/Susan-Wangari)
 - [Thomas Sheehan](https://github.com/twsheehan)
 - [Keith Ko](https://github.com/ko1keith)
+- [Tony Makis](https://tonymakis.github.io/)
 - [Bob Tate](https://github.com/btate712)
 - [MichelAngelo7](https://github.com/MichelAngelo7)
 - [Ai-Linh Alten](https://github.com/aalten77)
