@@ -11,6 +11,7 @@
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Kenny Gosai](https://github.com/kennygosai)
+- [Eli Goldberg](https://github.com/Goldbee2/)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Shikha Bhat] (https://github.com/shikha-16)
