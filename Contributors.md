@@ -23,6 +23,7 @@
 - [Rakesh Jarupula](https://github.com/Rakesh148)
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
+- [Alex](https://github.com/bili-bu)
 - first test
 - [Allan Qin](https://github.com/allanqin)
 - [Akshat Garg](https://github.com/Akshat-009)
