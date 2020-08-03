@@ -14,6 +14,7 @@
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Thiru](https://github.com/thiruppathi)
 - [Leonard Oeding] (https://github.com/Zoedingl)
+- [Akshay Gangarde] (https://github.com/akshaygangarde)
 - [Michael Berkowitz](https://github.com/meberko)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
