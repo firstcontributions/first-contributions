@@ -1304,6 +1304,7 @@ StephDigital
 - [Meerkat1999](https://github.com/Meerkats1999)
 - [Aman Goel](https://github.com/amangoel185)
 - [Cadi Howley](https://github.com/cadihowley)
+- [Apostol Chokoev](https://github.com/TyraelMight)
 - [Jonas Hucklenbroich](https://johuck.tk)
 - [Takigavin](https://github.com/takigavin)
 - [kryzbone](https://github.com/kryzbone)
