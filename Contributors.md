@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [David Fraser](https://github.com/DavidMatthewFraser)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Yash Damani] (https://github.com/yashdamani)
@@ -148,7 +149,7 @@
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
 - Ameeth :)
-- hawwwdi 
+- hawwwdi
 - [Phillip Viens](https://github.com/peejmonty)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
 - [Joem Elias Sanez](https://github.com/israelias)
