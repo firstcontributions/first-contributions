@@ -1771,6 +1771,7 @@ Yogakshi Jaiman
 - [Ben Walters](https://github.com/bwalterscoding)
 - [VelxusDev](https://github.com/VelxusDev)
 - [Ayush Bhatnagar](https://github.com/Ayush-Bhatnagar)
+- [Deven Patnaik](https://github.com/devennpatnaik)
 - [Jacob Vanmeter](https://github.com/unroasted)
 - [Joshua Cook](https://github.com/jdcook3)
 - [Rafael Rubia](https://github.com/rafaelrubia)
