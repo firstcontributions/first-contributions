@@ -102,6 +102,7 @@
 - [Jivthesh M R](https://github.com/jivthesh)
 - [Ashutosh Raman](https://github.com/ashutosh0709)
 - [Samantha Monteiro](https://github.com/samanthakem)
+- [Mutsa Meda] (https://github.com/mutsameda)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
 - [Nirabhra Tapaswi](https://github.com/nirabhratapaswi)
 - [Manuel Papa](https://github.com/manuelpapa)
