@@ -26,6 +26,7 @@
 - [Alex](https://github.com/bili-bu)
 - first test
 - [Allan Qin](https://github.com/allanqin)
+- [Zach Boyce](https://github.com/ZachBoyce1)
 - [Akshat Garg](https://github.com/Akshat-009)
 - [Ben Ravin](https://github.com/benravin69/)
 - [Christian Elías](https://github.com/ChristianECG)
