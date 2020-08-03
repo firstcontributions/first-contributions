@@ -48,6 +48,7 @@
 - [Aditya](https://github.com/Aditya-Ayyagari)
 - [EricMackensen](https://github.com/ericmackensen)
 - [Abhinav Dhiman](https://github.com/abhinavg916)
+- [Lou Chaney](https://github.com/ftwin)
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Govind K](https://github.com/GovindKurapati)
 - [JustinSilvaCodes](https://github.com/jaymasterflex)
