@@ -1714,6 +1714,7 @@ Yogakshi Jaiman
 - [Jason Bland](https://github.com/jasonbland)
 - [Alex Parmentier](https://github.com/alexparm4)
 - [Andy Long](https://github.com/along5)
+- [Daniel Bar-Sela](https://github.com/CrimsonEpitaph42)
 - [Logan Watson](https://github.com/lwatson2)
 - [Ranjit Saimbi](https://github.com/RanjitSaimbi/)
 - [Francesco Sardone](https://github.com/Airsit)
