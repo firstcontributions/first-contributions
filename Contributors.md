@@ -12,6 +12,7 @@
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
+- [Shikha Bhat] (https://github.com/shikha-16)
 - [Thiru](https://github.com/thiruppathi)
 - [Leonard Oeding] (https://github.com/Zoedingl)
 - [Akshay Gangarde] (https://github.com/akshaygangarde)
