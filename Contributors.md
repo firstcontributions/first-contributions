@@ -3271,3 +3271,4 @@ Yogakshi Jaiman
 - [Tan V](https://github.com/tan-d-vu/)
 - [Mohammed Motorwala](https://github.com/ftmmohd2000)
 - [Matthias Galvin](https://github.com/matthiasgalvin)
+- [Rachitt Shah](https://github.com/godslayer201)
