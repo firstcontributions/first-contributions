@@ -563,6 +563,7 @@ StephDigital
 - [Frostack](https://github.com/Frostack)
 - [Fanni Takacs](https://github.com/FanniTakax)
 - [Yondy](https://github.com/dms-yondy)
+- [Iheb Haboubi](https://github.com/iheb-haboubi)
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
