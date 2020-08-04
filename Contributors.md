@@ -15,6 +15,7 @@
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
+- [Azril Hafizi](https://github.com/azrilhafizi)
 - [Shikha Bhat] (https://github.com/shikha-16)
 - [Vineet Bhat] (https://github.com/itbhat)
 Chandre Kiran G
