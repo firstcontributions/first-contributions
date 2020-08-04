@@ -41,6 +41,7 @@ Chandre Kiran G
 - [Abram] (https://github.com/AbramQuerashi/)
 - [Shay Ben Shimol] (https://github.com/shayben838)
 - [My]
+- [Xiaodobl Lee] (https://github.com/eimcharia)
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
 - [Parishrut Kushwaha](https://github.com/parish09)
