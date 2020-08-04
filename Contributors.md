@@ -17,6 +17,7 @@
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Azril Hafizi](https://github.com/azrilhafizi)
+- [Azibodusi Osain](https://github.com/osain-az)
 - [Shikha Bhat] (https://github.com/shikha-16)
 - [Vineet Bhat] (https://github.com/itbhat)
 Divya Gaurav
