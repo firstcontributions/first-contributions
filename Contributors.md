@@ -3294,4 +3294,4 @@ Yogakshi Jaiman
 - [Rachitt Shah](https://github.com/godslayer201)
 - [Christopher Kalfas](https://github.com/christopherkalfas)
 - [stonefix] (https://github.com/stonefix)
-- [@freazesss](https://https://github.com/freazesss)
+- [@freazesss](https://github.com/freazesss)
