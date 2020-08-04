@@ -1889,6 +1889,7 @@ Yogakshi Jaiman
 - [Jeffrey Warner](https://github.com/jeffnwarner)
 - [William Huynh](https://github.com/w2huy)
 - [Aviral Bajpai](https://github.com/aviral19)
+- [Konstantinos Michelis](https://github.com/ElementalistBTG)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Pretam Ray](https://github.com/raypretam)
 - [Dedy Puji](https://github.com/ddypjj)
