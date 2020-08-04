@@ -5,6 +5,7 @@
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay] (https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
+- [Divyansh Bhandari] (https://github.com/divyxnsh)
 - [Vishakha Tomar] (https://github.com/vish1306)
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
 - [Abhishek Rathore] (https://github.com/Logicless-Coder)
