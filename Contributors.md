@@ -20,6 +20,7 @@
 - [Vineet Bhat] (https://github.com/itbhat)
 Chandre Kiran G
 - [Thiru](https://github.com/thiruppathi)
+- [Siddharth Shah](https://github.com/siddharth2411)
 - [Leonard Oeding] (https://github.com/Zoedingl)
 - [Akshay Gangarde] (https://github.com/akshaygangarde)
 - [Michael Berkowitz](https://github.com/meberko)
