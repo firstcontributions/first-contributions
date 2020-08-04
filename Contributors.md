@@ -20,6 +20,7 @@
 - [Vineet Bhat] (https://github.com/itbhat)
 Divya Gaurav
 Chandre Kiran G
+- [Deeven] (https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
 - [Siddharth Shah](https://github.com/siddharth2411)
 - [Leonard Oeding] (https://github.com/Zoedingl)
