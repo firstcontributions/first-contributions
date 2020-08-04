@@ -55,6 +55,7 @@ Chandre Kiran G
 - [Vishay Patel](https://github.com/vp24)
 - [Tristan Elliott](https://github.com/thePlebDev)
 - Hariprasath
+- [David Papermaster](https://github.com/papermasterd)
 - [Ben Davis](https://github.com/benjewman)
 - [Jayesh Srivastava](https://github.com/jayesh-srivastava)
 - [Aditya](https://github.com/Aditya-Ayyagari)
