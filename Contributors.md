@@ -3295,6 +3295,7 @@ Yogakshi Jaiman
 - [Paul Ventura](https://github.com/pmventura)
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
+- [Evan Henderson.](https://github.com/EvanHendersonRichtByte/)
 - [Ramesh Komarasamy](https://github.com/RameshRise)
 - [Shivasubramaniam Ramiah](https://github.com/shivasubramaniamR/)
 - [Ritik Soni](https://github.com/ritiksoni00)
