@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
@@ -142,6 +142,7 @@ Chandre Kiran G
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Evan Merzon](https://github.com/emerzon1)
 - [Tushar Muralidharan](https://github.com/tooshwhoosh)
+- [Valeria]
 - [Jarrod Dieppa](https://github.com/jdieppa)
 - [Joseph Kim](https://github.com/thejykim)
 - [Devon Hunter](https://github.com/DevonHunter/)
@@ -904,7 +905,8 @@ StephDigital
 - [Lukas Ferreira Machado](https://github.com/swallville)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Sam Thoyre](https://github.com/thorski1)
-- [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
+- [Daooda BA 🐱
+👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
 - [Kehinde Abe](https://github.com/kennyOlakunle)
 - [Jasmine Valera](https://github.com/jvalera174)
@@ -1046,7 +1048,8 @@ StephDigital
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
-- [Swarag-N👩‍🚀](https://github.com/Swarag-N)
+- [Swarag-N👩
+🚀](https://github.com/Swarag-N)
 - Similoluwa Okunowo
 - [Hadi Tahmasbi](https://github.com/Hadit1993)
 - [nilayrajderkar](https://github.com/nilayrajderkar)
