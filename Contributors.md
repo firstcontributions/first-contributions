@@ -18,10 +18,17 @@
 - [Azril Hafizi](https://github.com/azrilhafizi)
 - [Shikha Bhat](https://github.com/shikha-16)
 - [Vineet Bhat](https://github.com/itbhat)
-Chandre Kiran G
 - [Thiru](https://github.com/thiruppathi)
 - [Leonard Oeding](https://github.com/Zoedingl)
 - [Akshay Gangarde](https://github.com/akshaygangarde)
+- [Shikha Bhat] (https://github.com/shikha-16)
+- [Vineet Bhat] (https://github.com/itbhat)
+- Divya Gaurav
+- Chandre Kiran G
+- [Thiru](https://github.com/thiruppathi)
+- [Siddharth Shah](https://github.com/siddharth2411)
+- [Leonard Oeding] (https://github.com/Zoedingl)
+- [Akshay Gangarde] (https://github.com/akshaygangarde)
 - [Michael Berkowitz](https://github.com/meberko)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
@@ -273,6 +280,7 @@ StephDigital
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
 - [Natalia Alvarez ](https://github.com/nataliaalvarez26)
 - [Tatchum Nono Yan](https://github.com/TatchumNono)
+- [Nikolas Haug](https://github.com/nikolas-haug)
 - [Joseph Kwadjo Ampadu](https://github.com/daduam)
 - [Gaurav Sharma](https://github.com/Leovaldez42)
 - [Tullia Glaeser](https://github.com/tamglaeser)
