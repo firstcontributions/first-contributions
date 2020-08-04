@@ -16,6 +16,7 @@
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
 - [Shikha Bhat] (https://github.com/shikha-16)
+- [Vineet Bhat] (https://github.com/itbhat)
 - [Thiru](https://github.com/thiruppathi)
 - [Leonard Oeding] (https://github.com/Zoedingl)
 - [Akshay Gangarde] (https://github.com/akshaygangarde)
