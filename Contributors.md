@@ -88,6 +88,7 @@
 - Upagyya Dixit (https://github.com/upagyya)
 - [sairina merino tsui](https://github.com/sairina)
 - [Andrew Tomich](https://github.com/jAndrewtomich)
+- [Manohar Rajaram](https://github.com/manohar52)
 - [Malvika Bhargava](https://github.com/Malvika18)
 - [Pine9](https://github.com/Pine9)
 - [Jonas Imm](https://github.com/JonasImm)
