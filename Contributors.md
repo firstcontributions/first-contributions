@@ -10,6 +10,7 @@
 - [Abhishek Rathore] (https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Akib Maredia](https://github.com/akibmaredia)
+- [Daniela Diaz](https://github.com/dandiaz10)
 - [Tony Rome](https://github.com/Tony-Rome)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
