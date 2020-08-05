@@ -26,6 +26,7 @@ Chandre Kiran G
 John Mehta
 - [Deeven] (https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
+- [Yogesh Raisinghani](https://github.com/raisinghanii)
 - [Siddharth Shah](https://github.com/siddharth2411)
 - [Leonard Oeding] (https://github.com/Zoedingl)
 - [Akshay Gangarde] (https://github.com/akshaygangarde)
