@@ -1999,6 +1999,7 @@ Yogakshi Jaiman
 - [Tigran Harutyunyan](https://github.com/caboose008)
 - [Jakub Banasik](https://github.com/jakubbanasik)
 - [Hyodo](https://github.com/eduardo-hyodo)
+- Christian Cage 2.0
 - [João Batista](https://github.com/JBDionisio)
 - [Sam Matthews](https://github.com/FiendySam/)
 - [Alec Bartley](https://github.com/tabbartley/)
