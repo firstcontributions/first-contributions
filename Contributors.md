@@ -12,6 +12,7 @@
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
 - [Abhishek Rathore] (https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
+- [Ido Elyashar](https://github.com/Idoos)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Daniela Diaz](https://github.com/dandiaz10)
 - [Tony Rome](https://github.com/Tony-Rome)
