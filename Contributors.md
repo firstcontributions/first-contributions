@@ -2343,6 +2343,7 @@ Yogakshi Jaiman
 - [Michael Luo](https://github.com/michaeljluo)
 - [Aaron Beach](https://github.com/aaron-beach)
 - [Nolan Baldwin](https://github.com/NBALWDIN18)
+- [Matt Banes](https://github.com/mattbanes)
 - [Salma Amr](https://github.com/SalmaAmrAhmed)
 - [Adrian Cruz](https://github.com/ainzacruz)
 - [Olcay Karaduman](https://github.com/olckara)
