@@ -1108,6 +1108,7 @@ StephDigital
 - [Andy Pavey](https://github.com/apavey1)
 - [Kyle Conlon](https://github.com/KConlon13)
 - [Dhairya](https://github.com/dhairya2019)
+- [Pratyay Banerjee](https://github.com/Neilblaze)
 - [Pratik Singh](https://github.com/kitarp29)
 - [Joshua Ryan Velasquez](https://github.com/joshua-afk)
 - [Priyanka Jalan](https://github.com/prianka01)
