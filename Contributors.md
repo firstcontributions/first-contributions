@@ -1,8 +1,9 @@
-﻿# Contributors
+# Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
+- [Nikhita Rachamadugu](https://github.com/nikhita215)
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay] (https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
