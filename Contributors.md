@@ -542,6 +542,7 @@ StephDigital
 - Or Lanir (https://github.com/Laniros)
 - [Dipanjan Jayswal](https://github.com/dipscodehub)
 - [TamaraNC](https://github.com/TamaraNC)
+- Billy
 - [Carlos Hernandez](https://github.com/caedhesa)
 - Rio Hayakawa
 - Michał Krakiewicz
