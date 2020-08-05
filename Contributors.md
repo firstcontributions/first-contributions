@@ -23,6 +23,7 @@
 - [Vineet Bhat] (https://github.com/itbhat)
 Divya Gaurav
 Chandre Kiran G
+John Mehta
 - [Deeven] (https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
 - [Siddharth Shah](https://github.com/siddharth2411)
