@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
+- [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Yash Damani] (https://github.com/yashdamani)
