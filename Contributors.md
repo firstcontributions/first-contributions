@@ -1,5 +1,6 @@
 # Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
+- [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Joseph Cooper](https://github.com/Hamblok0)
