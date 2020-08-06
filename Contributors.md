@@ -5,6 +5,7 @@
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Joseph Cooper](https://github.com/Hamblok0)
+- [Emile Nsengimana](https://github.com/Emile-Nsengimanagit )
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Nikhita Rachamadugu](https://github.com/nikhita215)
 - [Yash Damani] (https://github.com/yashdamani)
