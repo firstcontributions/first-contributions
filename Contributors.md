@@ -30,6 +30,7 @@
 Divya Gaurav
 Chandre Kiran G
 John Mehta
+- [Jason Hsu](https://github.com/jhcode14)
 - [Deeven] (https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
 - [Yogesh Raisinghani](https://github.com/raisinghanii)
