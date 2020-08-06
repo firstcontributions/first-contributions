@@ -97,6 +97,7 @@ John Mehta
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Yash Sarvaiya
+- Ritu Kumari
 - Mary Magorrian
 - Siddharth Panjwani
 - [Bassam El-Shafie](https://github.com/NoClip)
