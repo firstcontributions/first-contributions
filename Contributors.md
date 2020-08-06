@@ -11,6 +11,7 @@
 - [Tim Kay] (https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari] (https://github.com/divyxnsh)
+- [Ankur Ramanuj] (https://github.com/ankurramanuj0202)
 - [Vishakha Tomar] (https://github.com/vish1306)
 - [Fariborz Mirtalebi] (https://github.com/sfmirtalebi)
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
