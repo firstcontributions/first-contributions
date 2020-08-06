@@ -98,6 +98,7 @@ John Mehta
 - Lakshita Mohanty
 - ms567
 - Eric Piacentini (https://github.com/epiacentini)
+- [Yilin Xu](https://github.com/xyloid)
 - pvash1070091
 - Chris Hicks (https://github.com/HicksCR-2020)
 - Zaynab Bawa (https://github.com/jenki98)
