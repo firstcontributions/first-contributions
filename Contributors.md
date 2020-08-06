@@ -1132,6 +1132,7 @@ StephDigital
 - [Rupam Dey](https://github.com/jonesjacky)
 - [Ambuj Singh](https://github.com/singhambuj)
 - [Sohan Shingade](https://github.com/sohan-shingade)
+- [Raj Kishan K] (https://github.com/rajkishan0)
 - [Ryan Samarakoon](https://github.com/samarakoon-ryan)
 - [naczea](https://github.com/naczea)
 - [Wilson Chau](https://github.com/a19950605)
