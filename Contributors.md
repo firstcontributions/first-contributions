@@ -2448,6 +2448,7 @@ Yogakshi Jaiman
 - [run me](https://github.com/run-me)
 - [Erez Ben Said](https://github.com/erezbens)
 - [Sajal Verma](https://github.com/sajalverma17)
+- [Vimal Makadia](https://github.com/vmakadia)
 - [Arpit Pandey](https://github.com./arpitansu)
 - [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
