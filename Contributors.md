@@ -4,6 +4,7 @@
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [Nghia Guillou](https://github.com/guilloutran)
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimanagit )
