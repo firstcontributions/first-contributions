@@ -185,6 +185,7 @@ John Mehta
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
+- [Yug Gajjar](https://github.com/Yug34)
 - Ameeth :)
 - hawwwdi
 - [Phillip Viens](https://github.com/peejmonty)
