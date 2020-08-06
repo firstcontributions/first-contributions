@@ -30,6 +30,7 @@
 Divya Gaurav
 Chandre Kiran G
 John Mehta
+- [Jason Hsu](https://github.com/jhcode14)
 - [Deeven] (https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
 - [Yogesh Raisinghani](https://github.com/raisinghanii)
@@ -50,6 +51,7 @@ John Mehta
 - [Allan Qin](https://github.com/allanqin)
 - [Zach Boyce](https://github.com/ZachBoyce1)
 - [Akshat Garg](https://github.com/Akshat-009)
+- [Aijaz Hassan](https://github.com/aijazhssn)
 - [Ben Ravin](https://github.com/benravin69/)
 - [Christian Elías](https://github.com/ChristianECG)
 - [Saurabh Rajpurohit](https://github.com/saurabhrajpurohit)
@@ -2312,6 +2314,7 @@ Yogakshi Jaiman
 - [Aradhana Singh](https://github.com/Aradhana-Singh)
 - [3timesFaster](https://github.com/3timesfaster)
 - [viamarie77](https://github.com/viamarie77)
+- [deepti chauhan 25](https://github.com/deepti2503)
 - [zoldalma999](https://github.com/zoldalma999)
   Kayla Rubin
 - [dystar](https://github.com/dystar)
@@ -2448,6 +2451,7 @@ Yogakshi Jaiman
 - [run me](https://github.com/run-me)
 - [Erez Ben Said](https://github.com/erezbens)
 - [Sajal Verma](https://github.com/sajalverma17)
+- [Vimal Makadia](https://github.com/vmakadia)
 - [Arpit Pandey](https://github.com./arpitansu)
 - [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
@@ -3322,6 +3326,7 @@ Yogakshi Jaiman
 - [Mari World](https://github.com/mariworld)
 - [Amy Har-Even](https://github.com/java-amy)
 - [Piotr Czupyk](https://github.com/SzkyCode)
+- [Vikas Choudhary](https://github.com/dvlpmnt)
 - [Gokhan Irmak][https://github.com/GokhanIrmak]
   Prabhat 
 - [Tan V](https://github.com/tan-d-vu/)
@@ -3341,3 +3346,4 @@ Yogakshi Jaiman
 - [@roshan](https://github.com/roshnx)
 - [Philip Viljoen](https://github.com/pviljo101)
 - [Lawrence Hebia](https://github.com/lhebia)
+- [Ashish Thombre] (https://github.com/AshishThombre)
