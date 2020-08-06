@@ -20,6 +20,7 @@
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Daniela Diaz](https://github.com/dandiaz10)
 - [Tony Rome](https://github.com/Tony-Rome)
+- [A4jni1n] (https://github.com/A4jni1n)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Jim Galvan](https://github.com/JimGalvan)
