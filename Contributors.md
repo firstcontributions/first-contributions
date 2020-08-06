@@ -1,4 +1,5 @@
 # Contributors
+- [Waris Anwar🚀👨‍💻](https://github.com/warisanwar)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
