@@ -4,6 +4,7 @@
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Nikhita Rachamadugu](https://github.com/nikhita215)
