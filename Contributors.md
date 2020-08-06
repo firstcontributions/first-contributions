@@ -1513,6 +1513,7 @@ StephDigital
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Ololade](https://github.com/lolyparty)
 - [Rendy Setiawan](https://github.com/VenansiusRendy)
+- [Raj Kishan K](https://github.com/rajkishan0)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
 - [Ralph Quirequire](https://github.com/ralphqq)
