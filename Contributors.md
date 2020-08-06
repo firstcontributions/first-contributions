@@ -3355,4 +3355,5 @@ Yogakshi Jaiman
 - [Philip Viljoen](https://github.com/pviljo101)
 - [Ashish Thombre] (https://github.com/AshishThombre)
 - [Simran Raj](https://github.com/SIMRAN88)
-- [L K] (https://github.com/99arp)
+- [L K] (https://github.com/100arp)
+- [Malick Sidi](https://github.com/MalickSidi)
