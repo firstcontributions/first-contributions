@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
@@ -77,6 +77,7 @@ John Mehta
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
 - [Vishay Patel](https://github.com/vp24)
+- [Bala Kumar Periyasamy](https://github.com/bala-me/)
 - [Tristan Elliott](https://github.com/thePlebDev)
 - Hariprasath
 - [David Papermaster](https://github.com/papermasterd)
