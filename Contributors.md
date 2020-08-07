@@ -39,6 +39,7 @@ Chandre Kiran G
 John Mehta
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Jason Hsu](https://github.com/jhcode14)
+- [Caryn Shu](https://github.com/carynshu)
 - [Deeven] (https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
 - [Yogesh Raisinghani](https://github.com/raisinghanii)
@@ -3344,7 +3345,7 @@ Yogakshi Jaiman
 - [Piotr Czupyk](https://github.com/SzkyCode)
 - [Vikas Choudhary](https://github.com/dvlpmnt)
 - [Gokhan Irmak][https://github.com/GokhanIrmak]
-  Prabhat 
+  Prabhat
 - [Tan V](https://github.com/tan-d-vu/)
 - [Noor Rahman](https://github.com/njrahman)
 - [Mohammed Motorwala](https://github.com/ftmmohd2000)
