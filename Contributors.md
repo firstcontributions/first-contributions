@@ -222,6 +222,7 @@ John Mehta
 - [Vasiliy Harden](https://github.com/VasiliyHarden)
 - [Speedphoenix](https://github.com/Speedphoenix)
 - [Brisibe Joseph](https://github.com/brisibe)
+- [Dickson Uwem](https://github.com/dicksonunique)
 - [Endri Celaj](https://github.com/endri2211)
 StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
