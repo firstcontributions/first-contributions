@@ -2,6 +2,7 @@
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
+- [Prateek Garg](https://github.com/avyuktakalki)
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Nghia Guillou](https://github.com/guilloutran)
@@ -13,7 +14,7 @@
 - [Apoorva Srinivasan](https://github.com/apoorvasrinivasan26)
 - [innofarah](https://github.com/innofarah)
 - [Yash Damani] (https://github.com/yashdamani)
-- [Tim Kay] (https://github.com/special-kay)
+- [Tim Kay](https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari] (https://github.com/divyxnsh)
 - [Om Khandwala] (https://github.com/om-khandwala)
