@@ -166,6 +166,7 @@ John Mehta
 - [JOnathan White](https://github.com/jonathancwhite)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Shawn Long](https://github.com/shawnlong636)
+- [Zachary King](https://github.com/lax0248917)
 - [Aarushi](https://github.com/xxx32)
 - [Laura Webber ](https://github.com/lwebber)
 - [Abdoulaye Balde](https://github.com/abdoulayegk)
