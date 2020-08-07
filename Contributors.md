@@ -17,6 +17,7 @@
 - [Tim Kay](https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari] (https://github.com/divyxnsh)
+- [Yuval Mashiach](https://github.com/Yuvalmas)
 - [Crystal Ramirez](www.github.com/cat9563)(call me cat))
 - [Om Khandwala] (https://github.com/om-khandwala)
 - [Ankur Ramanuj] (https://github.com/ankurramanuj0202)
