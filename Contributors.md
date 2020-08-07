@@ -292,6 +292,7 @@ StephDigital
 - Samruddhi Padture
 - [Chad Stucki](https://github.com/chadstucki)
 - [Marc Simon](https://github.com/msimon23)
+- [Brian Reed](https://github.com/BRReed)
 - Git Goode
 - [George Rod](https://https://github.com/gnrod)
 - Mohan-Cloud
