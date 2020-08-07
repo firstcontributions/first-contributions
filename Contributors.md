@@ -157,6 +157,7 @@ John Mehta
 -[Ssivam Chopra]()
 - [Harald Lilja](https://github.com/Anguse)
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
+- [Nafisa S](https://github.com/nafisaaa130)
 - [Anita Ihuman](https://github.com/Anita-ihuman)
 - [Samyukta Varshney](https://github.com/samyukta20)
 - [Tilak Bhansali](https://github.com/tilak30)
