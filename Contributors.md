@@ -449,6 +449,7 @@ StephDigital
 - [David Sykes](https://github.com/davidjsykes)
 - [Pallav Jain](https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
+- [Shubham Hadake](https://github.com/Shubham714)
 - [Chris Bell](https://github.com/chrisbellcodes)
 - [BedrockCoder](https://github.com/BedrockCoder)
 - [Faith Gaiciumia](https://github.com/faithgaiciumia)
