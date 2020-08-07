@@ -3374,3 +3374,4 @@ Yogakshi Jaiman
 - [Leo Li](https://github.com/MikelBai)
 - [Rishav Kumar] (http://github.com/rishavjnv12)
 - [Sandip Mukherjee] (https://github.com/SandyM33)
+- [Jethro Modequillo] (https://github.com/potato874)
