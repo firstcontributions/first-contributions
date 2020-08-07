@@ -152,6 +152,7 @@ John Mehta
 - [Mutsa Meda] (https://github.com/mutsameda)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
 - [Nirabhra Tapaswi](https://github.com/nirabhratapaswi)
+- [Jeff Daquioag](https://github.com/jrdaquioag)
 - [Manuel Papa](https://github.com/manuelpapa)
 - [AbhipsaGuru1012](https://github.com/AbhipsaGuru1012)
 - [Shivam Singla](https://github.com/Seeevam)
