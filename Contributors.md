@@ -4,6 +4,7 @@
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [annkimm](https://github.com/annkimm)
+- [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
 - [Rutul Patel](https://github.com/rutulpatel/)
 - [Parth H Desai](https://github.com/techiParth)
