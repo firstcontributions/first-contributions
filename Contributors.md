@@ -14,6 +14,7 @@
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Ashish Maurya](https://github.com/Ashumaurya)
 - [Joseph Cooper](https://github.com/Hamblok0)
+- [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimanagit )
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Nikhita Rachamadugu](https://github.com/nikhita215)
