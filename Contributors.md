@@ -765,6 +765,7 @@ StephDigital
 - LA
 - [maynpoll](https://github.com/maynpoll)
 - [Temitope Babatola](https://github.com/BBimie)
+- [Lakshmi Prasad](https://github.com/laks1104)
 - [Vinnicius Andrade](https://github.com/vinnicius)
 - [Bolutife O.](https://github.com/bolu-tife)
 - [Sebastien Casimir](https://github.com/scasimir327)
