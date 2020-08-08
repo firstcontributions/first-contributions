@@ -34,6 +34,7 @@
 - [Ido Elyashar](https://github.com/Idoos)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Daniela Diaz](https://github.com/dandiaz10)
+- [Zygimantas Sniurevicius](https://github.com/zygisS22)
 - [Tony Rome](https://github.com/Tony-Rome)
 - [A4jni1n] (https://github.com/A4jni1n)
 - [Kenny Gosai](https://github.com/kennygosai)
