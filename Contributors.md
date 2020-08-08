@@ -17,6 +17,7 @@
 - [innofarah](https://github.com/innofarah)
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay](https://github.com/special-kay)
+- [Seohyun Yoon](https://github.com/seohyun0120)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari] (https://github.com/divyxnsh)
 - [Yuval Mashiach](https://github.com/Yuvalmas)
