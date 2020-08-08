@@ -8,6 +8,7 @@
 - [Rutul Patel](https://github.com/rutulpatel/)
 - [Parth H Desai](https://github.com/techiParth)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [Guilherme Victor](https://github.com/guivictorr)
 - [Nghia Guillou](https://github.com/guilloutran)
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Ashish Maurya](https://github.com/Ashumaurya)
