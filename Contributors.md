@@ -5,6 +5,7 @@
 - [Prateek Garg](https://github.com/avyuktakalki)
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [JungMin O](https://github.com/owjs3901/first-contributions)
 - [Nghia Guillou](https://github.com/guilloutran)
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Ashish Maurya](https://github.com/Ashumaurya)
