@@ -4,6 +4,7 @@
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Prateek Garg](https://github.com/avyuktakalki)
+- [annkimm](https://github.com/annkimm)
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Nghia Guillou](https://github.com/guilloutran)
@@ -124,6 +125,7 @@
 - Mary Magorrian
 - Siddharth Panjwani
 - Rsja
+- [dohee] (https://github.com/sooyun429)
 - [Bassam El-Shafie](https://github.com/NoClip)
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
@@ -2158,6 +2160,7 @@
 - [dlikas](https://github.com/dlikas)
 - [Drake Gens](https://github.com/drakegens)
 - [dvlprsh](https://github.com/dvlprsh)
+- [zigsong](https://github.com/zigsong)
 - [Dave Holly](https://github.com/daveholly57)
 - [Michael Uy](https://github.com/macky-uy)
 - [Nic Vigil](https://githib.com/nicvigil)
@@ -3388,7 +3391,8 @@
 - [L K](https://github.com/100arp)
 - [Malick Sidi](https://github.com/MalickSidi)
 - [Leo Li](https://github.com/MikelBai)
-- [Rishav Kumar](http://github.com/rishavjnv12)
-- [Sandip Mukherjee](https://github.com/SandyM33)
-- [Jethro Modequillo](https://github.com/potato874)
-- [Robert Kegel](https://github.com/robertKegel)
+- [Rishav Kumar] (http://github.com/rishavjnv12)
+- [Sandip Mukherjee] (https://github.com/SandyM33)
+- [Jethro Modequillo] (https://github.com/potato874)
+- [Robert Kegel] (https://github.com/robertKegel)
+- [samsara-ku] (https://github.com/samsara-ku)
