@@ -1269,6 +1269,7 @@ StephDigital
 - [Richard Saseun](https://github.com/richardsaseun14)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Charlotte Sides](https://github.com/charsides)
+- [Brian Yang](https://github.com/sobiyang)
 - [Cedric Muuo](https://github.com/damian-sketch)
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 - [Prateek Kumar Singh](https://github.com/pksgmv)
