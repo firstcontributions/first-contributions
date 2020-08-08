@@ -3395,9 +3395,11 @@ Yogakshi Jaiman
 - [L K] (https://github.com/100arp)
 - [Malick Sidi](https://github.com/MalickSidi)
 - [Leo Li](https://github.com/MikelBai)
+- [Moira Shooter](https://github.com/mshooter)
 - [Rishav Kumar] (http://github.com/rishavjnv12)
 - [Sandip Mukherjee] (https://github.com/SandyM33)
 - [Jethro Modequillo] (https://github.com/potato874)
 - [Robert Kegel] (https://github.com/robertKegel)
 - [samsara-ku] (https://github.com/samsara-ku)
 - [Alicia Fasciocco] (https://github.com/amfosh)
+
