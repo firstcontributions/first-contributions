@@ -1914,6 +1914,7 @@ Yogakshi Jaiman
 - [Keegan Smith](https://github.com/keegan211)
 - [Soniya Doshi](https://github.com/soniyadoshi)
 - [Anton Roesler](https://github.com/antonroesler)
+- [Uchechukwu Nwafor](https://github.com/Caspero-62)
 - [hitalolee](https://github.com/hitalolee)
 - [Sharath Rao](https://github.com/srylix10)
 - [Bulent Turkmen](https://github.com/faranjit)
