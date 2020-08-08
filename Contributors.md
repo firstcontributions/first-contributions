@@ -3,6 +3,7 @@
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Prateek Garg](https://github.com/avyuktakalki)
+- [annkimm](https://github.com/annkimm)
 - Andrew Scott
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Nghia Guillou](https://github.com/guilloutran)
