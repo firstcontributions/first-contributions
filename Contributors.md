@@ -42,6 +42,7 @@
 - [Shikha Bhat] (https://github.com/shikha-16)
 - [Vineet Bhat] (https://github.com/itbhat)
 - danwt
+Deepak Kumar Narayanan
 Divya Gaurav
 Chandre Kiran G
 John Mehta
