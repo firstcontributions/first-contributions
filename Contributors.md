@@ -7,6 +7,7 @@
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Nghia Guillou](https://github.com/guilloutran)
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
+- [Ashish Maurya](https://github.com/Ashumaurya)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimanagit )
 - [Hunter Wilkins](https://github.com/galaxyproduction)
