@@ -123,6 +123,7 @@ John Mehta
 - Mary Magorrian
 - Siddharth Panjwani
 - Rsja
+- [dohee] (https://github.com/sooyun429)
 - [Bassam El-Shafie](https://github.com/NoClip)
 - Akhil Manoj (https://github.com/AkM-2018)
 - Kanav Mehra
