@@ -5,6 +5,7 @@
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [annkimm](https://github.com/annkimm)
 - Andrew Scott
+- [Rutul Patel](https://github.com/rutulpatel/)
 - [Parth H Desai](https://github.com/techiParth)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Nghia Guillou](https://github.com/guilloutran)
