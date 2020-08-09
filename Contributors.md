@@ -801,6 +801,7 @@ StephDigital
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
 - [Annet Tomcy](https://github.com/annettomcy)
+- [Karobwe](https://github.com/Karobwe)
 - [halo42](https://github.com/halo42)
 - motr528
 - Hope T
