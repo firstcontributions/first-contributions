@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
@@ -3437,3 +3437,4 @@ Yogakshi Jaiman
 - [Alicia Fasciocco] (https://github.com/amfosh)
 - [Jying] (https://github.com/jy-ying)
 - [Brihadeesh R K](https://github.com/Brihadeeshrk)
+- [Ido Dickson Evergreen](https://github.com/evergreen2001)
