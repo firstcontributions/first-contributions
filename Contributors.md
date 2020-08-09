@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
@@ -315,6 +315,7 @@ StephDigital
 - [punchitchewie](https://github.com/punchitchewie)
 - Hariprasath
 - Arpan
+- [Ryan Doherty](https://github.com/r-doherty)
 - Mark - mark-nu
 - Zach Sonnenblick
 - [Darrien Chow](https://github.com/darrien-c)
