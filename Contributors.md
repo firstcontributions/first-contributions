@@ -3,6 +3,7 @@
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Prateek Garg](https://github.com/avyuktakalki)
+- [Yukti Kathuria] (https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
