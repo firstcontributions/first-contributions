@@ -1983,6 +1983,7 @@ Yogakshi Jaiman
 - [Garrett Groce](https://github.com/ggroce)
 - [Saylee Pradhan](https://github.com/sayleepradhan)
 - [Mohamed Shiha](https://github.com/MohamedShiha)
+- [Paula aimar](https://github.com/Paula1415)
 - [Alexandros Kalamaras](https://github.com/akalamaras)
 - [Raul Valdez](https://gitub.com/raulvaldez4)
 - [elgaspar](https://github.com/elgaspar)
