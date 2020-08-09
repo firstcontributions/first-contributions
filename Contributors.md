@@ -8,6 +8,7 @@
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
 - [Rutul Patel](https://github.com/rutulpatel/)
+  [Subhasmita](https://github.com/Ask-Subhasmita)
 - [Parth H Desai](https://github.com/techiParth)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
   [devoid](https://github.com/devoidarex)
