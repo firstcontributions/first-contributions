@@ -28,6 +28,7 @@
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari] (https://github.com/divyxnsh)
 - [Yuval Mashiach](https://github.com/Yuvalmas)
+- [Travis Sauer](https://github.com/aUsefulMethod)
 - [Crystal Ramirez](www.github.com/cat9563)(call me cat))
 - [Sourik Dutta](https://github.com/its-a-me-coder)
 - [Om Khandwala] (https://github.com/om-khandwala)
