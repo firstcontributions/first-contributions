@@ -101,6 +101,7 @@ Mike Porter
 - [Vishay Patel](https://github.com/vp24)
 - [Bala Kumar Periyasamy](https://github.com/bala-me/)
 - [Tristan Elliott](https://github.com/thePlebDev)
+- [Isabella Lopez](https://github.com/isalopezt)
 - Hariprasath
 - [David Papermaster](https://github.com/papermasterd)
 - [Ben Davis](https://github.com/benjewman)
