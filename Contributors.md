@@ -132,6 +132,7 @@ Mike Porter
 - Zaynab Bawa (https://github.com/jenki98)
 - Btrox148
 - Yash Sarvaiya
+- Kapil Motwani
 - Ritu Kumari
 - Mary Magorrian
 - Siddharth Panjwani
