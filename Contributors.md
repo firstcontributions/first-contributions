@@ -1136,6 +1136,7 @@ StephDigital
 - [Aryaman Parekh](https://github.com/aparekh5)
 - [Archie Buck](https://github.com/psibuck)
 - [Tristan Deane](https://github.com/IM-Deane)
+- [Aidan Curley](https://gitbub.com/redyelruc)
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Vineet Vatsal](https://github.com/pret3nti0u5)
