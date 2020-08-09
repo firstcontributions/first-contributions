@@ -81,6 +81,7 @@ Mike Porter
 - [Allan Qin](https://github.com/allanqin)
 - [Zach Boyce](https://github.com/ZachBoyce1)
 - [Akshat Garg](https://github.com/Akshat-009)
+- [Devansh Singh](https://github.com/Devansh3712)
 - [Aijaz Hassan](https://github.com/aijazhssn)
 - [Ben Ravin](https://github.com/benravin69/)
 - [Christian Elías](https://github.com/ChristianECG)
