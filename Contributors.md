@@ -1243,6 +1243,7 @@ StephDigital
 - [mmorys](https://github.com/mmorys)
 - [Saurabh Pal](https://github.com/bestpal97)
 - [Vishal Yadav](https://github.com/Vishal1297)
+- [Ryan L.](https://github.com/ryanleong)
 - [Isaac Oldwood](https://github.com/IsaacOldwood)
 - [Neel Shah](https://github.com/ineelshah)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
