@@ -3365,6 +3365,7 @@ Yogakshi Jaiman
 - [Leon Machens](https://github.com/lmachens)
 - [Sabine Schoe](https://github.com/sschoe85)
 - [Keisuke Toyota](https://github.com/ksk001100)
+- [Stewart Kerr](https://github.com/stewarthkerr)
 - [Domath ID](https://github.com/domathid)
 - [lolo77777](https://github.com/lolo77777)
 - Gunnar Siréus, https://github.com/gunnarsireus
