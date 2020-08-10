@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [yuvarajan](https://github.com/dozerex)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
@@ -3458,3 +3458,4 @@ Yogakshi Jaiman
 - [Jying] (https://github.com/jy-ying)
 - [Brihadeesh R K](https://github.com/Brihadeeshrk)
 - [Ido Dickson Evergreen](https://github.com/evergreen2001)
+- [Tomasz Korenberg](https://github.com/TomaszKorenberg)
