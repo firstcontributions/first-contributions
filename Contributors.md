@@ -3141,6 +3141,7 @@ Yogakshi Jaiman
 - [Kenny Nguyen](https://github.com/tnguyenken)
 - [Allen Yao](https://github.com/ayao451)
 - [Dimitra Athina Moraiti](https://github.com/DimitraMoraiti)
+- [Regi Voda aka 'Qwertic'] (https://github.com/Qwertic)
 - [Surya Teja Togaru](https://github.com/ayrustogaru)
 - [Dylan Perry](https://github.com/dperr5910)
 - [Dennis Daubney](https://github.com/MrOolong)
