@@ -1981,6 +1981,7 @@ Yogakshi Jaiman
 - [Alex Rainier](https://github.com/acrainier1)
 - [Steven Moe](https://github.com/stevenny)
 - [Ben Mattson](https://github.com/benmattson7)
+- [Joshua Samuels](https://github.com/armslice)
 - [Tharp Arthur](https://github.com/arthurtharp)
 - [Ayus Das](https://github.com/ayusdas2000)
 - [Primarch Strelok](https://github.com/primarchstrelok)
