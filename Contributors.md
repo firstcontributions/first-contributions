@@ -3410,6 +3410,7 @@ Yogakshi Jaiman
 - [Amy Har-Even](https://github.com/java-amy)
 - [Piotr Czupyk](https://github.com/SzkyCode)
 - [Vikas Choudhary](https://github.com/dvlpmnt)
+- [Thomas DENIMAL][https://github.com/tdenimal]
 - [Gokhan Irmak][https://github.com/GokhanIrmak]
   Prabhat
 - Alexei Test
