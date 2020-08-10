@@ -992,6 +992,7 @@ StephDigital
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Tobias](https://github.com/TobiasSMI)
 - [CF]
+- [Amarachi Emmanuela Azubuike](https://github.com/emmanuellar)
 - [Lukas Ferreira Machado](https://github.com/swallville)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Sam Thoyre](https://github.com/thorski1)
@@ -3459,3 +3460,4 @@ Yogakshi Jaiman
 - [Brihadeesh R K](https://github.com/Brihadeeshrk)
 - [Ido Dickson Evergreen](https://github.com/evergreen2001)
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
+
