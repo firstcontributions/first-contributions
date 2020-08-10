@@ -232,6 +232,7 @@ Mike Porter
 - [Carissa Hicks](https://github.com/carissa406)
 - [Dhairya Shah](https://github.com/DhairyaShah01)
 - [Akshat Mittal](https://github.com/akshat-max)
+- [Jake Schlaerth](https://github.com/jakeschlaerth)
 - [Shashank Verma](https://github.com/Shashank1816)
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
 - [Zafir Hasan](https://github.com/zafirhsn)
