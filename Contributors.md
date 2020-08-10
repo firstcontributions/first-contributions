@@ -3403,6 +3403,7 @@ Yogakshi Jaiman
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
 - [Evan Henderson.](https://github.com/EvanHendersonRichtByte/)
+- [Beni Dibatia.](https://github.com/turzey).
 - [Ramesh Komarasamy](https://github.com/RameshRise)
 - [Shivasubramaniam Ramiah](https://github.com/shivasubramaniamR/)
 - [Ritik Soni](https://github.com/ritiksoni00)
