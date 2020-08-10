@@ -147,6 +147,7 @@ Mike Porter
 - Btrox148
 - Yash Sarvaiya
 - Kapil Motwani
+- [stygarfield] (https://github.com/stygarfield)
 - Ritu Kumari
 - Mary Magorrian
 - Siddharth Panjwani
