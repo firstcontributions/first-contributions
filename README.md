@@ -87,7 +87,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
-Open a terminal and run the following git command:
+Open a **Git Bash** terminal and run the following git command:
 
 ```
 git clone "url you just copied"
