@@ -10,6 +10,7 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
+- Ansh Shankar
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
 - [Aleksandar Mitevski] (https://github.com/AleksandarMitevski)
