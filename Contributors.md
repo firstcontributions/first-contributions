@@ -2,6 +2,7 @@
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
+- [Banjoko Abdulazeez] (https://github.com/murenzo/)
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria] (https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
