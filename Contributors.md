@@ -19,6 +19,7 @@
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
   Octave Kameni
+  [Samuel Mwangi](https://github.com/SAWAMWA)
 - [Aleksandar Mitevski] (https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
   [Subhasmita](https://github.com/Ask-Subhasmita)
