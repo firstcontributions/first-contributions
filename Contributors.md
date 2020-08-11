@@ -1653,6 +1653,7 @@ StephDigital
 - [Ernesto López](https://github.com/aernesto24)
 - [aetenotnk](https://github.com/aetenotnk)
 - [Lam Tran](https://github.com/Lam7150)
+- [Adrian Mendez](https://github.com/adrianmendez03)
 
 - [Nephzee](https://github.com/nephzee)
 - [Andrew Chai](https://github.com/andyctx)
