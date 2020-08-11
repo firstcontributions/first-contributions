@@ -15,6 +15,7 @@
 - Andy 
 - Ansh Shankar
 - Raunak Khemka
+- [Uka Emmanuel](https://github.com/Mista-Rite)
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
   Octave Kameni
