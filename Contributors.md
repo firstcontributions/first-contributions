@@ -2545,6 +2545,7 @@ Yogakshi Jaiman
 - [collaBasti](https://github.com/collaBasti)
 - [wmorian](https://github.com/wmorian)
 - [Jordi van Dooren](https://github.com/jordivandooren)
+- [Jeremiah Jacob](https://github.com/j-kon)
 - [Bridget Chew](https://github.com/bchew3)
 - [Miffy Chen](https://github.com/miffycs)
 - [Yiğit Anış](https://github.com/yigitanis)
