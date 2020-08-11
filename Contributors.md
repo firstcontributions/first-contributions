@@ -1994,6 +1994,7 @@ Yogakshi Jaiman
 - [Lucas Oliveira](https://github.com/Lucas-F-Oliveira)
 - [Taehong Kim](https://github.com/kaestro)
 - [Sunny Setia](https://github.com/sunnysetia93)
+- [Sai Krishna Kattari](https://github.com/krish0902)
 - [nnuch](https://github.com/nnuch)
 - [Tanmay-Chavan](https://github.com/Tanmay-Chavan)
 - [Kinoahi](https://github.com/Kinoahi)
