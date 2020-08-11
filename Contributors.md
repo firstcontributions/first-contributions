@@ -615,6 +615,7 @@ StephDigital
 - glakshmi
 - minaadz
 - Mustafa ab
+- [Eclésio Melo](https://github.com/eclesiomelojunior)
 - [Islam Umarov](https://github.com/UmarovIslam)
 - [Tushar Garg](https://github.com/tushargarg875)
 - [Josias Aurel](https://github.com/JosiasAurel)
