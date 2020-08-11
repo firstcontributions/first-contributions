@@ -2668,6 +2668,7 @@ Yogakshi Jaiman
 - [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
 - [Alexander Santos](https://github.com/ronkiro)
 - [Ayoub Idouhamou](https://github.com/ayoub-idouhamou)
+- [Tanishk Vijay](https://github.com/tanishkvijay2000)
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
 - [Mike]
