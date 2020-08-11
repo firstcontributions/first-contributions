@@ -37,6 +37,7 @@
 - [Shrey Tripathi](https://github.com/shrey27tri01)
 - [Apoorva Srinivasan](https://github.com/apoorvasrinivasan26)
 - [innofarah](https://github.com/innofarah)
+  [Asjad Ahmed Khan](https://github.com/2001asjad)
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay](https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
