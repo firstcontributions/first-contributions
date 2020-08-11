@@ -12,11 +12,12 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
-- Andy Davies
+- Andy 
 - Ansh Shankar
 - Raunak Khemka
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
+  Octave Kameni
 - [Aleksandar Mitevski] (https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
   [Subhasmita](https://github.com/Ask-Subhasmita)
