@@ -107,6 +107,7 @@ Mike Porter
 - [Zach Boyce](https://github.com/ZachBoyce1)
 - [Akshat Garg](https://github.com/Akshat-009)
 - [Devansh Singh](https://github.com/Devansh3712)
+- [Paulo Sestini](https://github.com/paulosestini)
 - [Aijaz Hassan](https://github.com/aijazhssn)
 - [Naman Budhiraja](https://github.com/naman5665)
 - [Ben Ravin](https://github.com/benravin69/)
