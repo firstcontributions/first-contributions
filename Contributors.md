@@ -85,6 +85,7 @@ John Mehta
 - [Siddharth Shah](https://github.com/siddharth2411)
 - [Leonard Oeding] (https://github.com/Zoedingl)
 - [Akshay Gangarde] (https://github.com/akshaygangarde)
+- [Caymus Price] (https://github.com/caymusman)
 - [Michael Berkowitz](https://github.com/meberko)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
