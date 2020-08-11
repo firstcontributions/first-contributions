@@ -404,6 +404,7 @@ StephDigital
 - Tabitha Kavyu
 - Richard Pryce
 - Mayank Goel
+- Lekhotla Mohlakwane
 - [Bryan Hooper](https://github.com/bthooper)
 - Gyanendra Pratap
 - ivioje
