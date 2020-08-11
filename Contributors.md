@@ -46,6 +46,7 @@
 Bala Hantsi
 Dante Chakravorti
 - Nico Tek
+- Jessica
 - Abhay (https://github.com/abhay007kr)
 - Nikhil Nair
 - Austin Clements (https://github.com/austinclem1)
