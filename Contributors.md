@@ -345,6 +345,7 @@ StephDigital
 - [George Rod](https://https://github.com/gnrod)
 - Mohan-Cloud
 - Minel Aydın - Minnela :)(https://github.com/minnela)
+- [Jonathan R]
 - David Kwong
 - [Akash Singh](https://github.com/Garpieln)
 - Shruti Kumari
