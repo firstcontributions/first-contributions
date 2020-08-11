@@ -149,6 +149,7 @@ Mike Porter
 - CamChan
 - [Shipra Verma](https://github.com/Aaishpra)
   [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
+- Matt West (https://github.com/MWest352)
 - raymen
 - Lakshita Mohanty
 - ms567
