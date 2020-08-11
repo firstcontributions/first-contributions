@@ -314,6 +314,7 @@ StephDigital
 - Kay:)
 - [Agbanusi John](https://github.com/agbanusi)
 - [Sushant Athley](https://github.com/uf-sushant)
+- [Renat Norderhaug](https://github.com/Renat97/)
 - Jape Seifu https://github.com/jseifu
 - [Daniel A. Villena H.](https://github.com/davillenah)
 - [Naveen Kumar](https://github.com/naveen-27)
