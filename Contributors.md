@@ -29,6 +29,7 @@
 - [Nghia Guillou](https://github.com/guilloutran)
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Ashish Maurya](https://github.com/Ashumaurya)
+- [Yew Kang Wei](https://github.com/yewyewXD)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
 - [Harshith Venkatesh](https://github.com/Harshi7016)
