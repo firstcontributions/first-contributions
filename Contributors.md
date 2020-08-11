@@ -3478,3 +3478,4 @@ Yogakshi Jaiman
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
 - Stephen Liu
 - [Alex Luna](https://github.com/LeTarrask)
+- [Szymon M](https://github.com/Moras-del)
