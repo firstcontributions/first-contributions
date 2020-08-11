@@ -3485,4 +3485,5 @@ Yogakshi Jaiman
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
 - Stephen Liu
 - [Alex Luna](https://github.com/LeTarrask)
+- [David Stacey](https://github.com/DavidDStacey)
 - [Enrique Lozano](https://github.com/eelozano)
