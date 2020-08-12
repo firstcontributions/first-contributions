@@ -13,6 +13,7 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - [Ayoub El Hayat](https://github.com/ser14joker)
+- [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
 - Andrew Scott
 - Andy 
 - Ansh Shankar
