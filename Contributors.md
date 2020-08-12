@@ -1812,6 +1812,7 @@ StephDigital
 - [Col Roberts](https://github.com/ColR)
 Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
+- Eric D
 - [Ikenna Victor Echendu](https://github.com/morlimoore)
 - [Manoj M](https://github.com/manoj1222)
 - [Jorge N](https://github.com/jinaoc)
