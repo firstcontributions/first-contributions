@@ -207,6 +207,7 @@ Mike Porter
 - [Tarang Singhal](https://github.com/Tarang-singhal)
 - [Jivthesh M R](https://github.com/jivthesh)
 - [Ashutosh Raman](https://github.com/ashutosh0709)
+- [Dan](https://github.com/dan-mba)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Jarryd Palzenberger](https://github.com/jayp1)
 - [Mutsa Meda] (https://github.com/mutsameda)
