@@ -88,6 +88,7 @@ Deepak Kumar Narayanan
 Divya Gaurav
 Chandre Kiran G
 John Mehta
+Fady Bekhit
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Muhammed Alimbet](https://github.com/MuhammedTech)
 - [Jason Hsu](https://github.com/jhcode14)
