@@ -3497,3 +3497,4 @@ Yogakshi Jaiman
 - [Goodness Ifejesu Olajide](https://github.com/ifejesu)
 - [B Chase Babrich] (https://github.com/bcbabrich/)
 - [Raghav Nautiyal](https://github.com/raghavnautiyal)
+- [Satyam Rastogi](https://github.com/satyamrastogi)
