@@ -2867,6 +2867,7 @@ Yogakshi Jaiman
 - [Satyajit](https://github.com/BBBS92)
 - [Juliana Almeida](https://github.com/julinvictus)
 - [Sarawut Klangphukhiao](https://github.com/sarawukl)
+- [InDieTasten](https://github.com/indietasten)
 - [Jens L](https://github.com/PretentiousPanda)
 - [Futuregit](https://github.com/futuregit)
 - [Matt Nelson](https://github.com/Matthew-Nelson)
