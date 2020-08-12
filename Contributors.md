@@ -13,6 +13,7 @@
 - [Yukti Kathuria] (https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
+- [Mohamed Aziz THABET] (https://github.com/ThabetAziz)
 - [Ayoub El Hayat](https://github.com/ser14joker)
 - [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
 - Andrew Scott
