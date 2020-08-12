@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Pranav Sharma](https://github.com/psx95)
 - [yuvarajan](https://github.com/dozerex)
 - [David Fraser](https://github.com/DavidMatthewFraser)
@@ -149,6 +149,7 @@ Mike Porter
 - [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - joel montano
+- [Harshal Jain](https://github.com/Harshal0506)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - [Shipra Verma](https://github.com/Aaishpra)
