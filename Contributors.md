@@ -3367,6 +3367,7 @@ Yogakshi Jaiman
 - [JCastillo](https://github.com/JesusIgnacio)
 - [Adedipupo](https://github.com/Adedipupo)
 - [Sonntag09](https://github.com/Sonntag09)
+- [Diana Lin](https://github.com/dianalin2)
 - [Sreesh Mallya](https://github.com/sreesh-mallya)
 - [Yash Srivastava](https://github.com/Yash9456)
 - [Krystian Górecki](https://github.com/krystiangorecki)
