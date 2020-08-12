@@ -58,6 +58,7 @@
 - [Ankur Ramanuj] (https://github.com/ankurramanuj0202)
 - [Vishakha Tomar] (https://github.com/vish1306)
 - [Suhana Roshan] (https://github.com/suhanar)
+- [Shitiz Bansal](https://github.com/shitizbansal)
 - [Fariborz Mirtalebi] (https://github.com/sfmirtalebi)
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
 - [Abhishek Rathore] (https://github.com/Logicless-Coder)
