@@ -1,4 +1,5 @@
 # Contributors
+- [Pranav Sharma](https://github.com/psx95)
 - [yuvarajan](https://github.com/dozerex)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
