@@ -1296,7 +1296,6 @@ StephDigital
 - [Karsten Aichholz](https://github.com/karsten-aichholz)
 - [HussienMoustafaZaky](https://github.com/HussienMoustafa)
 - [Boy Mustafa](https://github.com/boymustafa)
-- [Robert Makuta](https://github.com/Dabani)
 - [carmour](https://github.com/carmour)
   Philip Luke K
 - [Katie Wilday](https://github.com/katiewilday)
@@ -3497,3 +3496,4 @@ Yogakshi Jaiman
 - [Goodness Ifejesu Olajide](https://github.com/ifejesu)
 - [B Chase Babrich] (https://github.com/bcbabrich/)
 - [Raghav Nautiyal](https://github.com/raghavnautiyal)
+- [Robert Makuta](https://github.com/Dabani)
