@@ -13,7 +13,7 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
-- Andy 
+- Andy
 - Ansh Shankar
 - Raunak Khemka
 - [Uka Emmanuel](https://github.com/Mista-Rite)
@@ -1296,6 +1296,7 @@ StephDigital
 - [Karsten Aichholz](https://github.com/karsten-aichholz)
 - [HussienMoustafaZaky](https://github.com/HussienMoustafa)
 - [Boy Mustafa](https://github.com/boymustafa)
+- [Robert Makuta](https://github.com/Dabani)
 - [carmour](https://github.com/carmour)
   Philip Luke K
 - [Katie Wilday](https://github.com/katiewilday)
