@@ -12,6 +12,7 @@
 - [Yukti Kathuria] (https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
+- [Ayoub El Hayat](https://github.com/ser14joker)
 - Andrew Scott
 - Andy 
 - Ansh Shankar
