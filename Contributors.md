@@ -583,6 +583,7 @@ StephDigital
 - Lucas Jeske (https://github.com/pljcgm)
 - Su Willu (https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
+- [Chira Levy](https://github.com/chiralevy)
 - [Kuntal GHosh](https://github.com/kuntal-ghosh)
 - [Hope Miller](https://github.com/hmiller3)
 - [Pankaj Khushalani](https://github.com/pk-218)
