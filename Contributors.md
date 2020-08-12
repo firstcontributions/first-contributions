@@ -63,6 +63,7 @@
 - [Lahari Poluparti] (https://github.com/LahariPoluparti)
 - [Abhishek Rathore] (https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
+- [Sachin Verma](https://github.com/sachincpu)
 - [Ido Elyashar](https://github.com/Idoos)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Daniela Diaz](https://github.com/dandiaz10)
