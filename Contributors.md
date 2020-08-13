@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pranav Sharma](https://github.com/psx95)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
@@ -3521,3 +3521,4 @@ Yogakshi Jaiman
 - [Satyam Rastogi](https://github.com/satyamrastogi)
 - [Zain Sheraz] (https://github.com/Z41N)
 - [Killian Frappart](https://github.com/KillianFrappartDev)
+- [Ronak Sharma](https://github.com/RonakSharma1)
