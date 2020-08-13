@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pranav Sharma](https://github.com/psx95)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Macallan Savett](https://github.com/Micjoey)
@@ -10,6 +10,7 @@
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez] (https://github.com/murenzo/)
 - [undefined-None](https://github.com/undefined-None)
+- [Darshan Kulkarni][https://github.com/darshan-003]
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria] (https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
@@ -3177,6 +3178,7 @@ Yogakshi Jaiman
 - [Shubham Kulkarni](https://github.com/shubhamkulkarni01)
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Ryan Goudie](https://github.com/RyanGoudie)
+-
 - [Victor Doh Kim](https://github.com/dohkim)
 - [Al An](https://github.com/leftHook8)
 - [Victor Doh Kim](https://github.com/dohkim)
