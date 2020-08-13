@@ -3510,6 +3510,7 @@ Yogakshi Jaiman
 - [Ido Dickson Evergreen](https://github.com/evergreen2001)
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
 - Stephen Liu
+- [Szymon m](https://github.com/Moras-del/)
 - [Alex Luna](https://github.com/LeTarrask)
 - [David Stacey](https://github.com/DavidDStacey)
 - [Enrique Lozano](https://github.com/eelozano)
