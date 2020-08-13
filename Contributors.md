@@ -1,5 +1,6 @@
 # Contributors
 - [Pranav Sharma](https://github.com/psx95)
+- [Sonali_Priya](https://github.com/sonalipriya2203)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
