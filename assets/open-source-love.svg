@@ -1,0 +1,25 @@
+<!--
+  Open Source Badge - Show your love for Open Source
+  https://github.com/ellerbrock/open-source-badge
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20">
+  <linearGradient id="m1" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <g mask="url(#m1)">
+    <rect x="0" y="0"  width="95" height="20" rx="4" ry="4"  style="fill:#555"/>
+    <rect x="90" y="0" width="25" height="20" style="fill:#46BC99"/>
+    <rect x="110" y="0" width="10" height="20" rx="4" ry="4" style="fill:#46BC99"/>
+    <path fill="url(#m1)" d="M0 0h120v20H0z"/>
+  </g>
+  <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
+    <g font-size="12" fill="#fff">
+      <text x="5" y="15" fill="#DDD" fill-opacity=".4">Open Source</text>
+      <text x="5" y="14">Open Source</text>
+    </g>
+    <g font-size="18" fill="red">
+      <text x="97" y="16" stroke="white" stroke-width="1">❤</text>
+    </g>
+  </g>
+</svg>
