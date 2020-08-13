@@ -10,7 +10,6 @@
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez] (https://github.com/murenzo/)
 - [undefined-None](https://github.com/undefined-None)
-- [Darshan Kulkarni][https://github.com/darshan-003]
 - [Darshan][https://github.com/darshan-003]
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria] (https://github.com/Yukti-K)
