@@ -1,5 +1,6 @@
 # Contributors
 - [Pranav Sharma](https://github.com/psx95)
+- [Daniel Florea] (https://github.com/dfloreaa)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
