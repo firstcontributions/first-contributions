@@ -37,6 +37,7 @@
   [devoid](https://github.com/devoidarex)
 - [Guilherme Victor](https://github.com/guivictorr)
 - Bert
+- [Gustaf](https://github.com/Ljungwaldh)
 - [Fabio Gausmann Koerich](https://github.com/fkoerich)
 - [Nghia Guillou](https://github.com/guilloutran)
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
