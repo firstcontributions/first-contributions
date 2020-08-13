@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pranav Sharma](https://github.com/psx95)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Macallan Savett](https://github.com/Micjoey)
@@ -3514,6 +3514,7 @@ Yogakshi Jaiman
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
 - Stephen Liu
 - [Szymon m](https://github.com/Moras-del/)
+- [Ariel Hirschhorn] (https://github.com/arielhirschhorn)
 - [Alex Luna](https://github.com/LeTarrask)
 - [David Stacey](https://github.com/DavidDStacey)
 - [Enrique Lozano](https://github.com/eelozano)
