@@ -14,11 +14,12 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - [Mohamed Aziz THABET] (https://github.com/ThabetAziz)
+-[John Janons]
 - [Ayoub El Hayat](https://github.com/ser14joker)
 - [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
 - Andrew Scott
 - Akshara Dyuti
-- Andy 
+- Andy
 - Ansh Shankar
 - Raunak Khemka
 - [Vinicius Melo](https://github.com/vmeelo)
