@@ -147,6 +147,7 @@ Mike Porter
 - Hariprasath
 - [Abhishek](https://github.com/Abhishek723)
 - [David Papermaster](https://github.com/papermasterd)
+- [Glory Praise Emmanuel] (https://github.com/emmaglorypraise)
 - [Ben Davis](https://github.com/benjewman)
 - [Jayesh Srivastava](https://github.com/jayesh-srivastava)
 - [Aditya](https://github.com/Aditya-Ayyagari)
