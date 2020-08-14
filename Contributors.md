@@ -30,6 +30,7 @@
 - Ansh Shankar
 - Raunak Khemka
 SumitGhosh
+- [Alison Li](https://github.com/Alison-Li)
 - [Levit Kanner](https://github.com/levitkanner)
 - [Vinicius Melo](https://github.com/vmeelo)
 - [Uka Emmanuel](https://github.com/Mista-Rite)
