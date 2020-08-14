@@ -2703,6 +2703,7 @@ Yogakshi Jaiman
 - [Rishiraj Purohit](https://github.com/rishirajpurohit)
 - [Tyler John](https://github.com/tyjohn134)
 - gh-4-me
+- [DozzerCT8](https://github.com/DozzerCR8)
 - [Daemon][https://github.com/prameya21]
 - [Ankita Kaushik](https://github.com/ankitakaushik)
 - [David Jahng](https://github.com/djahng)
