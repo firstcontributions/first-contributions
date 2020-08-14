@@ -21,6 +21,7 @@
 -[John Janons]
 - [Ayoub El Hayat](https://github.com/ser14joker)
 - [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
+- [Lennart Muchow](https://github.com/LennartMuchow)
 - Andrew Scott
 - Akshara Dyuti
 - Andy
