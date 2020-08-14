@@ -29,6 +29,7 @@
 - Andy
 - Ansh Shankar
 - Raunak Khemka
+SumitGhosh
 - [Levit Kanner](https://github.com/levitkanner)
 - [Vinicius Melo](https://github.com/vmeelo)
 - [Uka Emmanuel](https://github.com/Mista-Rite)
