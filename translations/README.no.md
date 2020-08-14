@@ -111,7 +111,7 @@ Behøver du hjelp eller vil stille spørsmål så kan du bli med i vår slack-gr
 
 Nå kan du gå videre og bidra til andre open-source prosjekter. Vi har satt sammen en liste med enkle og overkommelige problemer du kan starte med. Sjekk den ut her: [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [Ekstramateriale](/additional-material/git_workflow_scenarios/additional-material.md)
+### [Ekstramateriale](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Veiledning for andre verktøy

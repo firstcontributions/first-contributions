@@ -6,7 +6,7 @@
 
 # First Contributions
 
-|<img alt="GitKraken" src="/assets/gk-icon.png" width="200">|GitKraken Edition|
+|<img alt="Sublime Merge" src="/assets/sublime-merge.png" width="200">|Sublime Merge Git Client|
 |---|---|
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -14,18 +14,9 @@ It's hard. It's always hard, when you do something for the first time. Especiall
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 
-## Git Kraken
+## Sublime Merge
 
-Download [GitKraken](https://www.gitkraken.com), Install and open it.
-
-
-You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
-
-
-<img style="float: right;" src="assets/gk-login.png" alt="login to GitHub" />
-
-(optional) Go to File -> Preferences and set your project directory to the root of your local repositories.
-
+Download [Sublime Merge](https://www.sublimemerge.com/), Install and open it.
 
 ## Fork this repository
 
@@ -36,61 +27,64 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File -> Clone Repo.
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+
+In Sublime Merge, go to File -> Clone Repository.
 
 
-<img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
+<img style="float: right;" src="assets/sm-clone.png" alt="clone this repository" />
+
+The next step is to clone your repo down to your machine so you can begin making changes. Sublime Merge needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
+
+**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
 
-Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.
+Enter the URL of the repo in Sublime Merge, give it a repository name (or leave it blank) and set your directory where to save the repository.
 
-Once you're satisfied with the path, click "Clone the repo!".
+Once you're satisfied with the path, click "Clone".
 
 
 ## Create a branch
 
-Click the branch button on the toolbar.
+Right click Branches -> Create Branch 
+or 
+Navigate to Repository -> Create Branch
 
 Name your branch "add-your-name", for example: "add-william-sutton"
 
-<img style="float: right;" src="assets/gk-branch.png" alt="name your branch" />
+<img style="float: right;" src="assets/sm-branch.png" alt="name your branch" />
 
 
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor and add your name to it, then save the file.
 
-If you have the repo open in GitKraken you'll see there are changes. Review and stage those changes by selecting the newest commit marked with "// WIP" and the number of files changed and the type of change.
+If you have the repo open in Sublime Merge you'll see there are changes. 
+Select the newest commit at the top, named "x unstaged files"
+Review the files that have been changed and decide what you would like to stage. 
+Give the commit a commit message ("Add <your-name> to Contributors list" sounds nice and descriptive).
+When you are happy with your changes stage those changes by staging them file by file or selecting "stage all". Staging is important to tell git exactly what file changes you want associated with this commit.
 
-<img style="float: right;" src="assets/gk-edit.png" alt="edit some file(s)" />
-
-Review the files that have been changed and decide what you would like to stage.  Staging is important to tell git exactly what file changes you want associated with this commit.
-
-
-<img style="float: right;" src="assets/gk-stage.png" alt="stage your changes" />
-
-
-Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that is modified or "Stage File" to stage an individual file.
-
-
-<img style="float: right;" src="assets/gk-commit.png" alt="clone this repository" />
-
+<img style="float: right;" src="assets/sm-stage.png" alt="stage your changes" />
 
 If you change your mind, you can unstage those changes, or you can discard them all together.
 WARNING: As the word discard implies, this is a destructive operation. Do this only if you don't want any change(s) from whatever repository you're in.
 
-Hit commit.
+Hit commit and enter your username and email address and press Update.
+
+Hit commit again.
 
 Congratulations, you've committed all the changes to your local copy of your branch of your fork of first-contributions.  Onward!
 
 
 ## Push changes to GitHub
 
-<img style="float: right;" src="assets/gk-push.png" alt="push your changes" />
+Navigate to Repository -> Push
+or hit the small arrow in upward direction in the right hand corner.
 
-Click the Push button on the toolbar.
+<img style="float: right;" src="assets/sm-login.png" alt="login" />
 
-<img style="float: right;" src="assets/gk-origin.png" alt="origin or branch" />
+Login to your Github Account with your username and password
 
 Submit changes on the origin branch if you want the changes to reflect in the master branch directly, else select the appropriate branch you want to push.
 
@@ -125,12 +119,3 @@ Now let's get you started with contributing to other projects. We've compiled a 
 |<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|<a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a>|
 |---|---|---|---|---|---|
 |[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|
-
-## Self-Promotion
-
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>

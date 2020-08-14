@@ -6,9 +6,9 @@
 
 # Mga unang kontribusyon
 
-Mahirap. Laging mahirap sa unang beses ng anumang gawain. Lalo na sa isang kolaborasyon, kung saan hindi komportableng tignan at usapan ang mga pagkakamali. Gusto naming simplehan at linawin ang modernong pamamaraan kung papaanong matuto at tumulong ang mga bagong *open-source contributors*.
+Mahirap. Laging mahirap sa unang beses ng anumang gawain. Lalo na sa isang kolaborasyon, kung saan hindi komportableng paglaanan ng tuon ang mga pagkakamali. Gusto naming simplehan at linawin ang modernong pamamaraan kung papaanong matuto at tumulong ang mga bagong *open-source contributors*.
 
-Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*, pero ano pa bang mas epektibong pamamaraan kaysa sa aktual na aplikasyon sa isang pagsasanay? Ang pangunahing pakay ng proyektong ito ay gabayin ang mga baguhan na gawin ang kanilang unang *contribution*. Kung ikaw ay isa sa mga taong iyon, sundin lang ang ibabang instruksyon.
+Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*, pero ano pa bang mas epektibong pamamaraan kaysa sa aktual na aplikasyon ng isang pagsasanay? Ang pangunahing pakay ng proyektong ito ay gabayan ang mga baguhan na gawin ang kanilang unang *contribution*. Kung ikaw ay isa sa mga taong iyon, sundin lang ang mga sumusunod na tagubilin.
 
 #### *Kung hindi ka komportable na gumamit ng *command line*, [ito ay mga tutorials gamit ang mga *GUI* tools.]( #tutorials-using-other-tools )*
 
@@ -18,8 +18,8 @@ Kung hindi naka-*install* ang *git* sa iyong kompyuter, [i-install mo](https://h
 
 ## I-fork ang repository
 
-I-fork ang repository sa pamamagitan ng pag-click ng *fork* button na matatagpuan sa bandang itaas ng webpage na ito.
-Magkakaroon na ng kopya ng repository na ito sa iyong account.
+I-fork ang *repository* sa pamamagitan ng pag-click ng *fork* *button* na matatagpuan sa bandang itaas na kanan ng *webpage* na ito.
+Magkakaroon na ng kopya ng *repository* na ito sa iyong account.
 
 ## I-clone ang repository
 
@@ -32,7 +32,7 @@ Buksan ang terminal at i-enter ang sumusunod na git command:
 ```
 git clone "url na nakopya mo"
 ```
-kung saan ang "url na nakopya mo" (wala ang mga quotation marks) ay ang url ng repository (iyong fork ng proyekto). Pakitingin  nang mabuti ang mga nakaraan na hakbang upang makuha ang url.
+kung saan ang "url na nakopya mo" (wala ang mga panipi) ay ang URL ng repository (ang fork ng iyong proyekto). Pakitingin nang mabuti ang mga nakaraan na hakbang upang makuha ang url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -44,7 +44,7 @@ kung saan ang `iyong-username` ang iyong username sa GitHub. Mula sa command na 
 
 ## Gumawa ng isang branch
 
-Pumunta sa directory ng iyong repository sa iyong kompyuter (kung hindi ka pa nakapunta):
+Pumunta sa kompyuter directory ng iyong repository (kung hindi ka pa nakapunta):
 
 ```
 cd first-contributions
@@ -54,11 +54,11 @@ Ngayon, gumawa na ng isang branch gamit ang `git checkout` command:
 git checkout -b <dagdag-branch-name>
 ```
 
-For example:
+Halimbawa:
 ```
 git checkout -b dagdag-juan-dela-cruz
 ```
-(Hindi kailangan ng salitang *"dagdag"* sa pangalan ng nadagdag na branch pero makatwiran pa rin na gawin dahil layunin ng branch ang pagdagdag ng iyong pangalan sa isang listahan.)
+(Hindi kailangan ng salitang *"dagdag"* sa pangalan ng i-dadagdag na branch pero makatwiran pa rin na gawin dahil layunin ng branch ang pagdagdag ng iyong pangalan sa isang listahan.)
 
 ## Gumawa ng kinakailangan na pagbabago at i-commit ang mga natukoy na pagbabago
 
@@ -112,12 +112,12 @@ Puwede ka rin sumama sa aming Slack team kung kailangan mo ng karagdagan tulong 
 
 Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng listahan ng mga proyekto na may madaling issues na puwedeng-puwede kang makisabay. Paki-visit lang [ang listahan mula sa web app](https://firstcontributions.github.io/#project-list).
 
-### [Mga karagdagan na materyal](additional-material/git_workflow_scenarios/additional-material.md)
+### [Mga karagdagan na materyal](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Mga tutorials gamit ang ibang tools
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/800px-Visual_Studio_2017_Logo.svg.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/800px-Visual_Studio_2017_Logo.svg.png" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 

@@ -121,11 +121,11 @@ git push origin <താങ്കളുടെ-ബ്രാഞ്ചിന്റ�
 
 ഇനി താങ്കൾക്ക് മറ്റുള്ള പ്രൊജെക്ടുകളിൽ സംഭാവന ചെയ്യുവാൻ സാധിക്കും. താങ്കൾക്ക് വേഗം തുടങ്ങുവാൻ വേണ്ടി ഞങ്ങൾ എളുപ്പത്തിൽ തീർക്കാവുന്ന പ്രശ്നങ്ങൾ (issues) ഉള്ള പ്രോജക്ടുകളുടെ ഒരു ലിസ്റ്റ് ഉണ്ടാക്കിയിട്ടുണ്ട്. അത് ഇവിടെ കാണുക: [പ്രോജക്ടുകളുടെ ലിസ്റ്റ്](https://firstcontributions.github.io/#project-list).
 
-### [കൂടുതൽ വായിക്കുക](additional-material/git_workflow_scenarios/additional-material.md)
+### [കൂടുതൽ വായിക്കുക](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## മറ്റു ഉപകരണങ്ങൾ ഉപയോഗിച്ച് ചെയ്യുന്നതിനെ പറ്റിയുള്ള ലേഖനങ്ങൾ
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|

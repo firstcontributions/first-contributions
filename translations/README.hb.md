@@ -191,7 +191,7 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-<h3><a href="additional-material/git_workflow_scenarios/additional-material.md">חומר נוסף</a></h3>
+<h3><a href="../additional-material/git_workflow_scenarios/additional-material.md">חומר נוסף</a></h3>
 </div>
 
 <div dir="rtl">
@@ -202,13 +202,13 @@ git push origin <add-your-branch-name>
   <table style="width:100%">
     <tr>
       <th><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></th>
-      <th><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></th>
+      <th><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></th>
       <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
     </tr>
     <tr>
-      <th><a href="gitkraken-tutorial.md">GitKraken</a></th>
-      <th><a href="github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
-      <th><a href="github-desktop-tutorial.md">GitHub Desktop</a></th>
+      <th><a href="../gitkraken-tutorial.md">GitKraken</a></th>
+      <th><a href="../github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
+      <th><a href="../github-desktop-tutorial.md">GitHub Desktop</a></th>
     </tr>
   </table>
 </div>
