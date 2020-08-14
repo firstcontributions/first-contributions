@@ -3,6 +3,7 @@
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Omar Ghrairi](https://github.com/OGhrairi)
+- [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
 - [David Fraser](https://github.com/DavidMatthewFraser)
