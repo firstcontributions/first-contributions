@@ -390,6 +390,7 @@ StephDigital
 - [Slawomir Ernst](https://github.com/slawoe)
 - ankit kumar
 - Mrinal Choudhary
+- [Ajinkya Brahmankar] (https://github.com/ajinkyabrahmankar)
 - Samruddhi Padture
 - [Chad Stucki](https://github.com/chadstucki)
 - [Marc Simon](https://github.com/msimon23)
