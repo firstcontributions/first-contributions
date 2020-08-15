@@ -3561,3 +3561,4 @@ Yogakshi Jaiman
 - [kshida](https://github.com/kshida)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Eric Deering] (https://github.com/Strahlend)
+- [Rary Gonçalves 👋🏽👨🏽‍💻](https://github.com/rarygoncalves)
