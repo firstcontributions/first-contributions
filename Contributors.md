@@ -110,6 +110,7 @@ Divya Gaurav
 Chandre Kiran G
 John Mehta
 Fady Bekhit
+Tahir Ali
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Muhammed Alimbet](https://github.com/MuhammedTech)
 - [Fusako O](https://github.com/fusakoo)
