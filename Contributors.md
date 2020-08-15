@@ -6,6 +6,7 @@
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
+- [Kauan Rakoski](https://github.com/KauanRakoski)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Anurag Raina](https://github.com/anuragraina)
 - [Cayden W] (https://github.com/lathryx) ^-^ Yay! 
@@ -105,12 +106,12 @@ SumitGhosh
 - [Shikha Bhat] (https://github.com/shikha-16)
 - [Vineet Bhat] (https://github.com/itbhat)
 - danwt
-Deepak Kumar Narayanan
-Divya Gaurav
-Chandre Kiran G
-John Mehta
-Fady Bekhit
-Tahir Ali
+- Deepak Kumar Narayanan
+- Divya Gaurav
+- Chandre Kiran G
+- John Mehta
+- Fady Bekhit
+- Tahir Ali
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Muhammed Alimbet](https://github.com/MuhammedTech)
 - [Fusako O](https://github.com/fusakoo)
@@ -126,7 +127,7 @@ Tahir Ali
 - [Michael Berkowitz](https://github.com/meberko)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
-Mike Porter
+- Mike Porter
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Rakesh Jarupula](https://github.com/Rakesh148)
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
@@ -186,7 +187,7 @@ Mike Porter
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - [Shipra Verma](https://github.com/Aaishpra)
-  [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
+- [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
 - Matt West (https://github.com/MWest352)
 - raymen
 - Lakshita Mohanty
