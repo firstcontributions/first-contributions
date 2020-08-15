@@ -28,6 +28,7 @@
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - Andrew Scott
 - Akshara Dyuti
+- Rishabh Mehta 
 - Andy
 - Ansh Shankar
 - Raunak Khemka
