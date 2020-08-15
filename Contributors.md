@@ -231,6 +231,7 @@ Mike Porter
 - [Shrirang Deshmukh](https://github.com/shrirangpdeshmukh)
 - [Davis Gitonga](https://github.com/dayon3)
 - [Ankur Khandelwal](https://github.com/Ankur-Khandelwal)
+- [David Andrea] (https://github.com/djblackett)
 - [Anthony Gelder](https://github.com/anthonygelder)
 - [Samuel Jo](https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
