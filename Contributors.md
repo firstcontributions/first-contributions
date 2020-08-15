@@ -1,4 +1,5 @@
 # Contributors
+- [Jatin Pandey](https://github.com/jatin837)
 - [Pranav Sharma](https://github.com/psx95)
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
@@ -30,7 +31,7 @@
 - Andy
 - Ansh Shankar
 - Raunak Khemka
-- [Jatin Pandey](https://github.com/jatin837)
+- 
 - [Riyad Khan](https://github.com/rr3khan)
 - [Alison Li](https://github.com/Alison-Li)
 - [Levit Kanner](https://github.com/levitkanner)
