@@ -31,6 +31,7 @@
 - Ansh Shankar
 - Raunak Khemka
 SumitGhosh
+- [Riyad Khan](https://github.com/rr3khan)
 - [Alison Li](https://github.com/Alison-Li)
 - [Levit Kanner](https://github.com/levitkanner)
 - [Vinicius Melo](https://github.com/vmeelo)
