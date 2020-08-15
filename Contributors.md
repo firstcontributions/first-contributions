@@ -32,6 +32,7 @@
 - Andrew Scott
 - Akshara Dyuti
 - Rishabh Mehta 
+- [Michael Bragg](https://github.com/webwizard99)
 - Andy
 - Ansh Shankar
 - Raunak Khemka
