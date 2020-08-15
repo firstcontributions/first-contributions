@@ -30,6 +30,7 @@
 - Andy
 - Ansh Shankar
 - Raunak Khemka
+- Jatin Pandey(https://github.com/jatin837)
 SumitGhosh
 - [Riyad Khan](https://github.com/rr3khan)
 - [Alison Li](https://github.com/Alison-Li)
