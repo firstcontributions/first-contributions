@@ -1146,6 +1146,7 @@ StephDigital
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Daniel Floyd](https://github.com/gleekzorp)
+- [Nick Truong](https://github.com/nicholasctruong)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - Sitanshu
 - [Sharan Sudhir](https://github.com/sharansudhir)
