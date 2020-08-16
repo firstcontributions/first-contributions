@@ -982,6 +982,7 @@ StephDigital
 - Shabunken (https://github.com/shabunken))
 - [Shiva](https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
+- [Atharva C J ](https://github.com/toothsy)
 - [David Lugo Jz](https://github.com/DavidLJz)
 - Christopher LeBoeuf
 - [Christopher Smit - Minc Development]
