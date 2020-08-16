@@ -58,6 +58,7 @@ SumitGhosh
 - [JungMin O](https://github.com/owjs3901/first-contributions)
   [devoid](https://github.com/devoidarex)
 - [Guilherme Victor](https://github.com/guivictorr)
+Lajuan Station
 - Bert
 - [Robert Gooding](https://github.com/goodingr)
 - [Gustaf](https://github.com/Ljungwaldh)
