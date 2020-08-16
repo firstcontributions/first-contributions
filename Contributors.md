@@ -5,6 +5,7 @@
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
+- [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Macallan Savett](https://github.com/Micjoey)
