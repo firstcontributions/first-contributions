@@ -1893,6 +1893,7 @@ Yogakshi Jaiman
 - [Jason Anderson](https://github.com/andersjr1984)
 - [Dalton Maahs](https://github.com/dmaahs2017)
 - [Kim Sangyeon](https://github.com/kimsangyeon)
+- [sangminK](https://github.com/sangminK)
 - [Chris Walters](https://github.com/Chriswalt64)
 - [Visaj Kapadia](https://github.com/visajkapadia)
 - [Jorge Gabitto](https://github.com/jgabitto)
