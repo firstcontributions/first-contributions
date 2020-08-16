@@ -167,6 +167,7 @@ Mike Porter
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
 - [Vishay Patel](https://github.com/vp24)
+- [Tano Rojas](https://github.com/TanoRojas)
 - [Bala Kumar Periyasamy](https://github.com/bala-me/)
 - [Tristan Elliott](https://github.com/thePlebDev)
 - [Isabella Lopez](https://github.com/isalopezt)
