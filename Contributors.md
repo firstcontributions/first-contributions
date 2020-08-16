@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Waris Anwar👨‍💻🚀](https://github.com/warisanwar)
 - [Pranav Sharma](https://github.com/psx95)
 - [Bruce Snow](https://github.com/cbs42)
@@ -305,6 +305,8 @@ Mike Porter
 - hawwwdi
 - [Phillip Viens](https://github.com/peejmonty)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
+- Yusuf Abdulazeez
+- [Olaitan Abdulazeez](https://github.com/horler408)
 - [Joem Elias Sanez](https://github.com/israelias)
 - [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
 - [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
