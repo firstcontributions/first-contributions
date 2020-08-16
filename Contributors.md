@@ -1,4 +1,5 @@
 # Contributors
+- [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
 - [Waris Anwar👨‍💻🚀](https://github.com/warisanwar)
 - [jvkiran](https://github.com/jvkiran)
 - [Pranav Sharma](https://github.com/psx95)
@@ -12,7 +13,7 @@
 - [yuvarajan](https://github.com/dozerex)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Anurag Raina](https://github.com/anuragraina)
-- [Cayden W] (https://github.com/lathryx) ^-^ Yay! 
+- [Cayden W] (https://github.com/lathryx) ^-^ Yay!
 - [Abhay Goyal] (https://github.com/Codebat-man)Help
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
 - [Prateek Garg](https://github.com/avyuktakalki)
@@ -33,7 +34,7 @@
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - Andrew Scott
 - Akshara Dyuti
-- Rishabh Mehta 
+- Rishabh Mehta
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
 - Ansh Shankar
