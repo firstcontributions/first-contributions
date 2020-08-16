@@ -3412,6 +3412,7 @@ Yogakshi Jaiman
 - [tyrachol](github.com/tyrachol)
 - [Harry Tjahja](https://github.com/Harry823)
 - [SushilG96](SushilG96)
+- [Corey Lynch](https://github.com/Bearinawolfpack)
 - [Magdiel Dantas](https://github.com/magdielndantas)
 - [Susan Wangari](https://github.com/Susan-Wangari)
 - [Thomas Sheehan](https://github.com/twsheehan)
