@@ -32,6 +32,7 @@
 - [Lennart Muchow](https://github.com/LennartMuchow)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - Andrew Scott
+- robyea
 - Akshara Dyuti
 - Rishabh Mehta 
 - [Michael Bragg](https://github.com/webwizard99)
