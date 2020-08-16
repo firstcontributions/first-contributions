@@ -68,6 +68,7 @@ SumitGhosh
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
+- [Sandra Bohrer](https://github.com/sandrabohrer)
 - [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
