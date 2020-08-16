@@ -59,6 +59,7 @@ SumitGhosh
   [devoid](https://github.com/devoidarex)
 - [Guilherme Victor](https://github.com/guivictorr)
 - Bert
+- [Robert Gooding](https://github.com/goodingr)
 - [Gustaf](https://github.com/Ljungwaldh)
 - [Aedyn Yeras](https://github.com/Aedyn01)
 - [Fabio Gausmann Koerich](https://github.com/fkoerich)
