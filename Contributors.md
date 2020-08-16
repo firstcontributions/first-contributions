@@ -67,7 +67,6 @@ SumitGhosh
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Ashish Maurya](https://github.com/Ashumaurya)
 - [Yew Kang Wei](https://github.com/yewyewXD)
-- [Michal](https://github.com/michalhq)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
