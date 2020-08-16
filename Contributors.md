@@ -3515,6 +3515,7 @@ Yogakshi Jaiman
   Prabhat
 - Alexei Test
 - [Tan V](https://github.com/tan-d-vu/)
+- [Kennedy Bacelar](https://github.com/kennedybacelar)
 - [Noor Rahman](https://github.com/njrahman)
 - [Mohammed Motorwala](https://github.com/ftmmohd2000)
 - [Matthias Galvin](https://github.com/matthiasgalvin)
