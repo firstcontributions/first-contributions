@@ -10,6 +10,7 @@
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Arushi Sharma](https://github.com/Arushi04)
+- [Shelock Holmes](https://github.com/sherlock)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
