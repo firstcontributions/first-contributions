@@ -341,6 +341,7 @@ Mike Porter
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Joshua Fritsch](https://github.com/jfritsch75)
 - [Maryam Yusuf](https://github.com/mharyam)
+- [Pop Sorina Maria](https://github.com/popsorina)
 - [Kyle Shaw](https://github.com/thebuizelclub)
 - [Arjun Puthli](https://github.com/akagam1)
 - [Nilansh Bansal](https://github.com/nilanshbansal)
