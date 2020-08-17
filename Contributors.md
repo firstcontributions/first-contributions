@@ -223,6 +223,7 @@ Mike Porter
 - Siddharth Panjwani
 - Rsja
 - Leonard Ford
+- Naushad Qamar
 - [dohee] (https://github.com/sooyun429)
 - [Bassam El-Shafie](https://github.com/NoClip)
 - Akhil Manoj (https://github.com/AkM-2018)
