@@ -14,6 +14,7 @@
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
 - [Omar Ghrairi](https://github.com/OGhrairi)
+- [Andre Sorpreso](https://github.com/asorpreso)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
