@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [asmallgod] (https://github.com/asmallgod)
 - [Neila Toofuny] (https://github.com/ntoofuny)
 - [Waris Anwar👨‍💻🚀](https://github.com/warisanwar)
@@ -8,6 +8,7 @@
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
+- [Arushi Sharma](https://github.com/Arushi04)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
