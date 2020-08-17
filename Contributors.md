@@ -6,6 +6,7 @@
 - [Pranav Sharma](https://github.com/psx95)
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea] (https://github.com/dfloreaa)
+- [Janne Prokkola] (https://github.com/Sanaubia/)
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Karan Shetty](https://github.com/shettykaran21/)
@@ -3589,3 +3590,4 @@ Yogakshi Jaiman
 - [Luke Manzitto](https://github.com/LukeM7)
 - [Lan Tianyou](https://github.com/Lantianyou)
 - [Davian Yang](https://github.com/DavianYang)
+
