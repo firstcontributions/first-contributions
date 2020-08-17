@@ -5,6 +5,7 @@
 - [Pranav Sharma](https://github.com/psx95)
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea] (https://github.com/dfloreaa)
+- [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Omar Ghrairi](https://github.com/OGhrairi)
