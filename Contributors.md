@@ -3570,6 +3570,7 @@ Yogakshi Jaiman
 - Stephen Liu
 - [Fawzi Alami](https://github.com/az9000)
 - [Szymon m](https://github.com/Moras-del/)
+- [Sanyam Gupta](https://github.com/sanyam19/)
 - [Ariel Hirschhorn] (https://github.com/arielhirschhorn)
 - [Alex Luna](https://github.com/LeTarrask)
 - [David Stacey](https://github.com/DavidDStacey)
