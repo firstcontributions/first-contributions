@@ -2167,6 +2167,7 @@ Yogakshi Jaiman
 - [Yaron Lidengoltz](https://github.com/Yaron-Lidengoltz)
 - [Chris Woods](https://github.com/c-woods)
 - [Xi Ming](https://github.com/seki2020)
+- [Marko Lapic](https://github.com/mlapic)
 - [Michael Properzi](https://github.com/erzimj)
 - [TheDopplerEffects](https://github.com/TheDopplerEffects)
 - [Masahiro Okamoto](https://github.com/okamotchan)
