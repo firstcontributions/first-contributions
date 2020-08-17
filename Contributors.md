@@ -3598,4 +3598,5 @@ Yogakshi Jaiman
 - [Lan Tianyou](https://github.com/Lantianyou)
 - [Davian Yang](https://github.com/DavianYang)
 - [3Samourai](https://github.com/3Samourai)
--[Jonathan C] (https://github.com/JonathanCilley)
+- [Jonathan C] (https://github.com/JonathanCilley)
+- [Thomas Bazan] (https://github.com/CodeWithThomas)
