@@ -70,6 +70,7 @@ SumitGhosh
 - [Guilherme Victor](https://github.com/guivictorr)
 Lajuan Station
 - Bert
+- [Jeffrey Herr] (paper money pilgrim)
 - [Robert Gooding](https://github.com/goodingr)
 - [Gustaf](https://github.com/Ljungwaldh)
 - [Aedyn Yeras](https://github.com/Aedyn01)
