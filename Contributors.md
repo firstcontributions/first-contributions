@@ -12,6 +12,7 @@
 - [Arushi Sharma](https://github.com/Arushi04)
 - [Shelock Holmes](https://github.com/sherlock)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
+- [Deep Parekh](https://github.com/Deep310)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Macallan Savett](https://github.com/Micjoey)
