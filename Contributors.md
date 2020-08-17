@@ -8,6 +8,7 @@
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
+- [Karan Shetty](https://github.com/shettykaran21/)
 - [Arushi Sharma](https://github.com/Arushi04)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Omar Ghrairi](https://github.com/OGhrairi)
