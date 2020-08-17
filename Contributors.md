@@ -2690,6 +2690,7 @@ Yogakshi Jaiman
 - [Taylor Nuffer](https://github.com/nuffertaylor)
 - [Monio](https://github.com/monio)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
+- [Nishant Pillai](https://github.com/nishantpillai5)
 - [Cristian Sanchez](https://github.com/cristianscy)
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
