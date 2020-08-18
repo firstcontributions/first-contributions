@@ -361,6 +361,7 @@ Mike Porter
 - [Endri Celaj](https://github.com/endri2211)
 StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
+Marco Meinardi
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
