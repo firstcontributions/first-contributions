@@ -1168,6 +1168,7 @@ Marco Meinardi
 - [Susan Johnson](https://github.com/cybero)
 - [Tavin Chok](https://github.com/choktn)
 - [gabgodBB](https://github.com/gabgodBB)
+- [Frederik Adebahr](https://github.com/FrederikAdebahr)
 - [Juan Hernandez](https://github.com/juanphdz)
 - [Escape0707](https://github.com/escape0707)
 - [Basian Lesi](https://github.com/BasianLesi)
