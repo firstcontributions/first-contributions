@@ -18,7 +18,7 @@
 - [yuvarajan](https://github.com/dozerex)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Anurag Raina](https://github.com/anuragraina)
-- [Cayden W] (https://github.com/lathryx) ^-^ Yay! 
+- [Cayden W] (https://github.com/lathryx) ^-^ Yay!
 - [Abhay Goyal] (https://github.com/Codebat-man)Help
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
 - [Prateek Garg](https://github.com/avyuktakalki)
@@ -40,7 +40,7 @@
 - Andrew Scott
 - robyea
 - Akshara Dyuti
-- Rishabh Mehta 
+- Rishabh Mehta
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
 - Ansh Shankar
@@ -130,6 +130,7 @@ Chandre Kiran G
 John Mehta
 Fady Bekhit
 Tahir Ali
+
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Muhammed Alimbet](https://github.com/MuhammedTech)
 - [Fusako O](https://github.com/fusakoo)
@@ -239,6 +240,7 @@ Mike Porter
 - [Avirup Mondal](https://github.com/Avirup-301294)
 - Marco Skradde (https://github.com/mskradde/)
 - Upagyya Dixit (https://github.com/upagyya)
+Stephen Jones
 - [sairina merino tsui](https://github.com/sairina)
 - Swathi Mannem
 - [Andrew Tomich](https://github.com/jAndrewtomich)
