@@ -49,6 +49,7 @@
 - Rishabh Mehta 
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
+- Krystian
 - Ansh Shankar
 - Raunak Khemka
 - Jatin Pandey(https://github.com/jatin837)
