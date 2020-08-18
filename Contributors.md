@@ -510,6 +510,7 @@ StephDigital
 - Anish Ghimire (https://github.com/anishghimire603)
 - KPIshnik
 - Reuben Sadler
+Sean Paz
 - Holden Nelson
 - Taylor Koressel
 - mallgyd
