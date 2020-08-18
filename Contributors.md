@@ -3613,3 +3613,4 @@ Yogakshi Jaiman
 - [3Samourai](https://github.com/3Samourai)
 -[Jonathan C] (https://github.com/JonathanCilley)
 - [Catherine Xiao] (https://github.com/cathxiao)
+- [Kamil Stanuch] (https://github.com/vero500w)
