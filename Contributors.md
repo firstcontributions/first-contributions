@@ -9,6 +9,7 @@
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Karan Shetty](https://github.com/shettykaran21/)
+- [Anugrah Dixit](https://github.com/anugrah3199)
 - [Arushi Sharma](https://github.com/Arushi04)
 - [Santos Soffli](https://github.com/ssoffli)
 - [Shelock Holmes](https://github.com/sherlock)
