@@ -32,6 +32,7 @@
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [undefined-None](https://github.com/undefined-None)
+- [Bryan Guillen](https://github.com/bryg217/)
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria](https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
