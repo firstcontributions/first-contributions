@@ -50,6 +50,7 @@
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - Andrew Scott
 - robyea
+- [katalan1245](https://github.com/katalan1245)
 - Akshara Dyuti
 - Rishabh Mehta 
 - [Michael Bragg](https://github.com/webwizard99)
