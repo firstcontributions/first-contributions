@@ -2785,6 +2785,7 @@ Yogakshi Jaiman
 - [Phil H.](https://github.com/kungfuphil)
 - [Zachary Yamaoka](https://github.com/zacharyyamaoka)
 - [EswarR](https://github.com/EswarR99)
+- Brent Snider
 - [Tong Jin](https://github.com/tjin35)
 - [Sayaka Ono](https://github.com/SayakaOno)
 - [Alex Major](https://github.com/alexmajor)
