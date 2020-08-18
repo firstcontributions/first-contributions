@@ -49,6 +49,7 @@
 - Rishabh Mehta 
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
+- Krystian
 - Ansh Shankar
 - Raunak Khemka
 - Jatin Pandey(https://github.com/jatin837)
@@ -69,6 +70,7 @@ SumitGhosh
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [Lidia Paruzel]
 - [JungMin O](https://github.com/owjs3901/first-contributions)
   [devoid](https://github.com/devoidarex)
 - [Guilherme Victor](https://github.com/guivictorr)
@@ -483,6 +485,7 @@ Marco Meinardi
 - jamose0
 - 8Dion8
 - ergm
+- treeoflife
 - CodeWithMughal
 - [Virendra Giri](https://github.com/ThePresence)
 - Eiseid
@@ -2493,6 +2496,7 @@ Yogakshi Jaiman
 - [Sam McRuvie](https://github.com/SamMcRuvie)
 - [Thomas Dimnet](https://github.com/tdimnet)
   -Abbas Syed
+- [Baibhab Debnath] (https://github.com/Baibhab97)
 - [Danny Vim](https://github.com/DannyVim)
 - [James McDonald](https://github.com/jmcdona1d)
 - [Priyank Patel](https://github.com/patel-priyank)
@@ -3611,6 +3615,7 @@ Yogakshi Jaiman
 - [Lan Tianyou](https://github.com/Lantianyou)
 - [Davian Yang](https://github.com/DavianYang)
 - [3Samourai](https://github.com/3Samourai)
--[Jonathan C] (https://github.com/JonathanCilley)
-- [Catherine Xiao] (https://github.com/cathxiao)
-- [Kamil Stanuch] (https://github.com/vero500w)
+- [Jonathan C](https://github.com/JonathanCilley)
+- [Catherine Xiao](https://github.com/cathxiao)
+- [Kamil Stanuch](https://github.com/vero500w)
+- [KamilBlaz](https://github.com/KamilBlaz)
