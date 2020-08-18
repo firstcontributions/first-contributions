@@ -9,6 +9,7 @@
 - [Daniel Florea](https://github.com/dfloreaa)
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
+- [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
 - [Arushi Sharma](https://github.com/Arushi04)
