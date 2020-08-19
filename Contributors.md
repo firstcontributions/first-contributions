@@ -237,7 +237,7 @@
 - [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
 - [Matt West](https://github.com/MWest352)
 - raymen
-- Lakshita Mohanty
+- [Lakshita Mohanty](https://github.com/Lakshita2002)
 - ms567
 - [Eric Piacentini](https://github.com/epiacentini)
 - [Yilin Xu](https://github.com/xyloid)
