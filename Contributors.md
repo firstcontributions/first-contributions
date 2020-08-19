@@ -8,6 +8,7 @@
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea](https://github.com/dfloreaa)
 - [Michael Zappa](https://github.com/michzappa)
+-[Samatar](https://github.com/samatarcodes)
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
