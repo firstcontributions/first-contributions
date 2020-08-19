@@ -82,6 +82,7 @@
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Lidia Paruzel]
 - [JungMin O](https://github.com/owjs3901/first-contributions)
+- [Chris C](https://github.com/dlegends)
 - [devoid](https://github.com/devoidarex)
 - [Guilherme Victor](https://github.com/guivictorr)
 - Lajuan Station
