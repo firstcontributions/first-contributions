@@ -105,6 +105,7 @@
 - [Sandra Bohrer](https://github.com/sandrabohrer)
 - [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
+- [Smriti Rastogi](https://github.com/special-kay)
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
 - [Nikhita Rachamadugu](https://github.com/nikhita215)
 - [Shrey Tripathi](https://github.com/shrey27tri01)
