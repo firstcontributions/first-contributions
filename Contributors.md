@@ -276,6 +276,7 @@
 - [Yuval Raz](https://github.com/theyuvalraz)
 - [Jonas Imm](https://github.com/JonasImm)
 - [Rahul Sharma](https://github.com/webber2408)
+- [Andy Nguyen](https://github.com/anguye13)
 - [Deepti Patel](https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Shrirang Deshmukh](https://github.com/shrirangpdeshmukh)
@@ -3387,8 +3388,8 @@ Yogakshi Jaiman
 - [Brian Wolff](https://github.com/bdwolff)]
 - [MesubenJeemusu](https://github.com/mesubenjeemusu)
 - [Corvus93](https://github.com/Corvus93)
-- Toni Tester - My first contribution
-- [Matthew MacFadyen](https://github.com/mattmacfadyen96)
+- [Toni Tester](My_first_contribution)
+- [Matthew MacFadyen](https://github.com/mattmacfadyen96)]
 - [Niels Ehehalt](https://github.com/Niels1303)
 - Jeremy Fredrick Black
 - [Marcio Rocha](https://github.com/marciojunior88)
