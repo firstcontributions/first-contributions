@@ -3449,6 +3449,7 @@ Yogakshi Jaiman
 - [Sree Dasari](https://github.com/sreedasari)
 - [Sudha Kaushik](https://github.com/sudhakaushik)
 - [Phuong Nguyen](https://github.com/ntp99)
+- [Stefan Gunnarsson](https://github.com/stebbibg)
 - [Katie Greathouse](https://github.com/ktgreathouse)
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Louis Kirkham](https://github.com/TheDancingClown)
