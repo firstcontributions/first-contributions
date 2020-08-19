@@ -137,6 +137,7 @@ Mees
 - [Mithra Desinguraj](https://github.com/mithrads)
 - [Shitiz Bansal](https://github.com/shitizbansal)
 - [Fariborz Mirtalebi](https://github.com/sfmirtalebi)
+- [Roman Oravec](https://github.com/roman-oravec)
 - [Lahari Poluparti](https://github.com/LahariPoluparti)
 - [Abhishek Rathore](https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
