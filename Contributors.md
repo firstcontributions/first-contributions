@@ -1926,6 +1926,7 @@ Marco Meinardi
 Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - Eric D
+- [Trevor Taylor](https://github.com/Trevis42)
 - [Ikenna Victor Echendu](https://github.com/morlimoore)
 - [Manoj M](https://github.com/manoj1222)
 - [Jorge N](https://github.com/jinaoc)
