@@ -1,4 +1,5 @@
 # Contributors
+- [Chad Moravec](https://github.com/losmanzanos)
 - [KILR](https://github.com/KILR007)
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
