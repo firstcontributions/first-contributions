@@ -106,6 +106,7 @@ Mees
 - [Yew Kang Wei](https://github.com/yewyewXD)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
+- [Brian Loveless 👽 🖖](https://github.com/BrianLoveGa)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
 - [Sandra Bohrer](https://github.com/sandrabohrer)
 - [Harshith Venkatesh](https://github.com/Harshi7016)
