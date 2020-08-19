@@ -2,6 +2,7 @@
 - [KILR](https://github.com/KILR007)
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
+- [Ketan Gupta] {https://github.com/ketangupta34)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
 - [msabur](https://github.com/msabur)
 - [jvkiran](https://github.com/jvkiran)
@@ -913,7 +914,7 @@ Marco Meinardi
 - [Dhruv Sachdev](https://github.com/Dhruv-Sachdev)
 - [wilsoncode](https://github.com/wilsoncode)
 - [Mihir Rane](https://github.com/ranemihir)
-- [Nirbhay Singh](https://github.com/Nirbhay007)
+- [Nirbhay Singhttps://github.com/ketangupta34/first-contributionsh](https://github.com/Nirbhay007)
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
 - [Faris Hasković](https://github.com/Faski1)
 - Steph Damaica https://github.com/stephDamaica
