@@ -10,7 +10,8 @@
 - [Michael Zappa](https://github.com/michzappa)
 -[Samatar](https://github.com/samatarcodes)
 - [Malaika Agrawal]
-- [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
+- [Rahul Kashyap](https://github.com/rahulkashyap-rk/)  
+- [Ashutosh Saxena](https://github.com/ashugit27)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
