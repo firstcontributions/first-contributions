@@ -20,6 +20,7 @@
 - [Shelock Holmes](https://github.com/sherlock)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
+- [Moronfolu Olufunke](https://github.com/MoeRayo)
 - [oralcagan](https://github.com/oralcagan)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Andre Sorpreso](https://github.com/asorpreso)
