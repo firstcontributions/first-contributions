@@ -168,6 +168,7 @@
 - [Akshay Gangarde](https://github.com/akshaygangarde)
 - [Caymus Price](https://github.com/caymusman)
 - [Michael Berkowitz](https://github.com/meberko)
+- [Sumanth Thyagarajan](https://github.com/sumanth-thyagarajan)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
 - Mike Porter
