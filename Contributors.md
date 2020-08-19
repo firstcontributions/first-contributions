@@ -8,7 +8,7 @@
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea](https://github.com/dfloreaa)
 - [Michael Zappa](https://github.com/michzappa)
--[Samatar](https://github.com/samatarcodes)
+- [Samatar](https://github.com/samatarcodes)
 - [Malaika Agrawal]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)  
 - [Ashutosh Saxena](https://github.com/ashugit27)
@@ -352,6 +352,8 @@
 - hawwwdi
 - [Phillip Viens](https://github.com/peejmonty)
 - [Aditya Malhotra](https://github.com/adimalhotra11)
+- Yusuf Abdulazeez
+- [Olaitan Abdulazeez](https://github.com/horler408)
 - [Joem Elias Sanez](https://github.com/israelias)
 - [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
 - [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
