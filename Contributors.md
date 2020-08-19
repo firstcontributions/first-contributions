@@ -110,6 +110,7 @@
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
 - [Nikhita Rachamadugu](https://github.com/nikhita215)
 - [Shrey Tripathi](https://github.com/shrey27tri01)
+- [Peter G](https://github.com/petergue)
 - [Anirudh Mahesh](https://github.com/StrawberryMilsc)
 - [Apoorva Srinivasan](https://github.com/apoorvasrinivasan26)
 - [innofarah](https://github.com/innofarah)
