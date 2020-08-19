@@ -12,6 +12,7 @@
 - [Michael Zappa](https://github.com/michzappa)
 - [Samatar](https://github.com/samatarcodes)
 - [Malaika Agrawal]
+Mees
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)  
 - [Ashutosh Saxena](https://github.com/ashugit27)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
