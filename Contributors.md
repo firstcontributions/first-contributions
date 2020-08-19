@@ -3562,6 +3562,7 @@ Yogakshi Jaiman
 - [Paul Ventura](https://github.com/pmventura)
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
+- [Shishir Chauhan](https://github.com/Shisir99/)
 - [Evan Henderson.](https://github.com/EvanHendersonRichtByte/)
 - [Beni Dibatia.](https://github.com/turzey).
 - [Ramesh Komarasamy](https://github.com/RameshRise)
