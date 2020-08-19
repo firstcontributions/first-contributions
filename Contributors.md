@@ -54,6 +54,7 @@
 - [Lennart Muchow](https://github.com/LennartMuchow)
 - [Tom Hayton](https://github.com/TGH37)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
+- [KaanGaming](https://github.com/KaanGaming)
 - Andrew Scott
 - robyea
 - [katalan1245](https://github.com/katalan1245)
