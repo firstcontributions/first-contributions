@@ -1984,6 +1984,7 @@ Yogakshi Jaiman
 - [Erin Cho](https://github.com/erin-cho)
 - [Pawan Yadav](https://github.com/pawanraocse)
 - [Travis Appel](https://github.com/tlappel)
+- [Matthew Tatum](https://github.com/matttatum97)
 - [Biplab Mazumder](https://github.com/biplab-ca)
 - [Savish Bedi](https://github.com/savish28)
 - [Steve Ctzbee](https://github.com/ctzbee)
