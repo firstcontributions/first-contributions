@@ -59,3 +59,6 @@
 | 🇬🇪 | [ქართული](README.ge.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
 | 🇫🇮 | [Suomeksi](README.fi.md) |
+| 🇲🇽 | [Mexico](README.mx.md) |
+| 🇸🇷 | [Suriname](README.sr.md) |
+| 🇱🇻 | [Latvia](README.lv.md) |
