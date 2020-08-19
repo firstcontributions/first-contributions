@@ -145,6 +145,7 @@
 - danwt
 - Deepak Kumar Narayanan
 - Divya Gaurav
+- Pranav Prakhar
 - Chandre Kiran G
 - John Mehta
 - Fady Bekhit
