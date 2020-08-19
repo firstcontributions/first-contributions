@@ -1,8 +1,7 @@
 # Contributors
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
-- [Waris Anwar👨
-💻🚀](https://github.com/warisanwar)
+- [Waris Anwar👨💻🚀](https://github.com/warisanwar)
 - [msabur](https://github.com/msabur)
 - [jvkiran](https://github.com/jvkiran)
 - [Pranav Sharma](https://github.com/psx95)
@@ -1111,8 +1110,7 @@ Marco Meinardi
 - [Lukas Ferreira Machado](https://github.com/swallville)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Sam Thoyre](https://github.com/thorski1)
-- [Daooda BA 🐱
-👤](https://github.com/daoodaba975)
+- [Daooda BA 🐱👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
 - [Kehinde Abe](https://github.com/kennyOlakunle)
 - [Jasmine Valera](https://github.com/jvalera174)
@@ -1257,8 +1255,7 @@ Marco Meinardi
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
-- [Swarag-N👩
-🚀](https://github.com/Swarag-N)
+- [Swarag-N👩🚀](https://github.com/Swarag-N)
 - Similoluwa Okunowo
 - [Hadi Tahmasbi](https://github.com/Hadit1993)
 - [nilayrajderkar](https://github.com/nilayrajderkar)
@@ -3622,8 +3619,7 @@ Yogakshi Jaiman
 - [kshida](https://github.com/kshida)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Eric Deering](https://github.com/Strahlend)
-- [Rary Gonçalves 👋🏽👨🏽
-💻](https://github.com/rarygoncalves)
+- [Rary Gonçalves 👋🏽👨🏽💻](https://github.com/rarygoncalves)
 - [Luke Manzitto](https://github.com/LukeM7)
 - [Lan Tianyou](https://github.com/Lantianyou)
 - [Davian Yang](https://github.com/DavianYang)
