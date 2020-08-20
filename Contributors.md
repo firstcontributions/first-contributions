@@ -15,6 +15,7 @@
 - [Michael Zappa](https://github.com/michzappa)
 - [Samatar](https://github.com/samatarcodes)
 - [Atharv Phadnis](https://github.com/Athi223)
+- [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
 - [Malaika Agrawal]
 Mees
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
