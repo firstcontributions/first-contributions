@@ -171,6 +171,7 @@ Mees
 - Deepak Kumar Narayanan
 - Divya Gaurav
 - Pranav Prakhar
+- Narayan Sharma
 - Chandre Kiran G
 - John Mehta
 - Fady Bekhit
