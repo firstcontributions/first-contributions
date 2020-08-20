@@ -9,6 +9,7 @@
 - [msabur](https://github.com/msabur)
 - [jvkiran](https://github.com/jvkiran)
 - [Pranav Sharma](https://github.com/psx95)
+- [Leon Li](https://github.com/AuxinJeron)
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea](https://github.com/dfloreaa)
 - [Michael Zappa](https://github.com/michzappa)
