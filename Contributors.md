@@ -14,6 +14,7 @@
 - Andrew Scott
 - Ansh Shankar
 - Raunak Khemka
+- Aditi
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
 - [Aleksandar Mitevski] (https://github.com/AleksandarMitevski)
