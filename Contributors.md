@@ -3661,6 +3661,7 @@ Yogakshi Jaiman
 - [Jan Carreras Prat](https://jcarreras.es)
 - [MorphTail](https://github.com/m0rphtail)
 - [kshida](https://github.com/kshida)
+- [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Eric Deering](https://github.com/Strahlend)
 - [Rary Gonçalves 👋🏽👨🏽💻](https://github.com/rarygoncalves)
@@ -3676,3 +3677,4 @@ Yogakshi Jaiman
 - [Shanborlang Suja](https://github.com/Shanborlang)
 - [Maxwell Gravitte](https://github.com/maxgravitte)
 - [Onur Usluca](https://github.com/onurusluca)
+- 
