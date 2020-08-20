@@ -3682,3 +3682,4 @@ Yogakshi Jaiman
 - [Shanborlang Suja](https://github.com/Shanborlang)
 - [Maxwell Gravitte](https://github.com/maxgravitte)
 - [Onur Usluca](https://github.com/onurusluca)
+- [Michal Terranova](https://github.com/mrterranova)
