@@ -156,6 +156,7 @@ Mees
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Sachin Verma](https://github.com/sachincpu)
 - [Ido Elyashar](https://github.com/Idoos)
+- [Neely Mann](https://github.com/NeelyAnne)
 - [Patrick Sheehan](https://github.com/patrick-sheehan)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Ahel Das Chatterjee](https://github.com/Ahel2000)
