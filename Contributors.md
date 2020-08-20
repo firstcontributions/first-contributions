@@ -3686,3 +3686,4 @@ Yogakshi Jaiman
 - [Maxwell Gravitte](https://github.com/maxgravitte)
 - [Onur Usluca](https://github.com/onurusluca)
 - [Michal Terranova](https://github.com/mrterranova)
+- [Tor Einar Huus](https://github.com/torhuus)
