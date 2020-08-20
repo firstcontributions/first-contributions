@@ -105,6 +105,7 @@ Mees
 - Lajuan Station
 - Frank F
 - Bert
+- Tzach
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr] (paper money pilgrim)
 - [Robert Gooding](https://github.com/goodingr)
