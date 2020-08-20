@@ -3626,4 +3626,5 @@ Yogakshi Jaiman
 - [Jonathan C](https://github.com/JonathanCilley)
 - [Catherine Xiao](https://github.com/cathxiao)
 - [Kamil Stanuch](https://github.com/vero500w)
+- [Joseph-chinedu](https://github.com/Josephchinedu)
 - [KamilBlaz](https://github.com/KamilBlaz)
