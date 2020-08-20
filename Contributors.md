@@ -14,6 +14,7 @@
 - [Daniel Florea](https://github.com/dfloreaa)
 - [Michael Zappa](https://github.com/michzappa)
 - [Samatar](https://github.com/samatarcodes)
+- [Atharv Phadnis](https://github.com/Athi223)
 - [Malaika Agrawal]
 Mees
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
