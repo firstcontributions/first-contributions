@@ -94,6 +94,7 @@ Mees
 - [Aleksandar Mitevski](https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
 - [Subhasmita](https://github.com/Ask-Subhasmita)
+- [Sohom](https://github.com/RandomVariable18)
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
