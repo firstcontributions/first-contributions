@@ -306,6 +306,7 @@ Mees
 - [Silvija Prozinger](https://github.com/SilvijaProzinger)
 - [Harry Jandu](https://github.com/hushee69)
 - [Avirup Mondal](https://github.com/Avirup-301294)
+- Stephen Jones
 - [Marco Skradde](https://github.com/mskradde/)
 - [Upagyya Dixit](https://github.com/upagyya)
 - [sairina merino tsui](https://github.com/sairina)
