@@ -113,6 +113,7 @@ Mees
 - [Robert Gooding](https://github.com/goodingr)
 - [Gustaf](https://github.com/Ljungwaldh)
 - [Aedyn Yeras](https://github.com/Aedyn01)
+- [Gaurva Sharma](https://github.com/gaurav4sharma)
 - [Sai Vikas Desai](https://github.com/svdesai)
 - [Fabio Gausmann Koerich](https://github.com/fkoerich)
 - [Nghia Guillou](https://github.com/guilloutran)
