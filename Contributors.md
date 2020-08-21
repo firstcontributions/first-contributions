@@ -22,7 +22,7 @@
 Mees
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
-- [Prince Agrawal 💻🚀](https://github.com/princeprojects) 
+- [Prince Agrawal 💻🚀](https://github.com/princeprojects)
 - [Ashutosh Saxena](https://github.com/ashugit27)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Karan Shetty](https://github.com/shettykaran21/)
@@ -45,7 +45,7 @@ Mees
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
-- [Cayden W](https://github.com/lathryx) ^-^ Yay! 
+- [Cayden W](https://github.com/lathryx) ^-^ Yay!
 - [Abhay Goyal](https://github.com/Codebat-man)Help
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
 - [Prateek Garg](https://github.com/avyuktakalki)
@@ -75,6 +75,7 @@ Mees
 - Rishabh Mehta
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
+- Jon Trejo
 - Krystian
 - Ansh Shankar
 - Raunak Khemka
@@ -141,7 +142,7 @@ Mees
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari](https://github.com/divyxnsh)
 - [Yuval Mashiach](https://github.com/Yuvalmas)
-- Sachin Jethanandani 
+- Sachin Jethanandani
 - [Travis Sauer](https://github.com/aUsefulMethod)
 - [Crystal Ramirez](www.github.com/cat9563)(call me cat))
 - [Sourik Dutta](https://github.com/its-a-me-coder)
