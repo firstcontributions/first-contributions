@@ -53,7 +53,7 @@ Mees
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Selahittin Saytaş](https://github.com/saytas)
--i-am-none
+- i-am-none
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [undefined-None](https://github.com/undefined-None)
@@ -82,6 +82,7 @@ Mees
 - Krystian
 - Ansh Shankar
 - Raunak Khemka
+- Aditi
 - Jatin Pandey(https://github.com/jatin837)
 - SumitGhosh
 - [Dalon Lobo](https://github.com/dalonlobo)
