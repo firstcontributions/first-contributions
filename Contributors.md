@@ -1215,6 +1215,7 @@ Marco Meinardi
 - [Austin Ogola](https://github.com/augolla/)
 - [Damilola Ezekiel](https://github.com/dharmelolar)
 - [Ben Holvey](https://github.com/benholvey)
+- [Joty Johal](https://github.com/zwolfy)
 - [Susan Johnson](https://github.com/cybero)
 - [Tavin Chok](https://github.com/choktn)
 - [gabgodBB](https://github.com/gabgodBB)
