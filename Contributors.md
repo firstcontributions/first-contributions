@@ -29,6 +29,7 @@ Mees
 - [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
+- [Tanya Garg](http://github.com/tgag17)
 - [Arushi Sharma](https://github.com/Arushi04)
 - [Santos Soffli](https://github.com/ssoffli)
 - [Shelock Holmes](https://github.com/sherlock)
