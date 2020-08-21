@@ -34,6 +34,7 @@ Mees
 - [Tanya Garg](http://github.com/tgag17)
 - [Arushi Sharma](https://github.com/Arushi04)
 - [Santos Soffli](https://github.com/ssoffli)
+- [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
