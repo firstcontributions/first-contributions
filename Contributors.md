@@ -1,6 +1,7 @@
 # Contributors
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
+- James Hall
 - [KILR](https://github.com/KILR007)
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
