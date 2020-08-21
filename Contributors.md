@@ -195,6 +195,7 @@ Mees
 - Fady Bekhit
 - Tahir Ali
 - Luke Karis
+- [Khai Trinh](https://github.com/KhaiTrinh)
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Muhammed Alimbet](https://github.com/MuhammedTech)
 - [Fusako O](https://github.com/fusakoo)
