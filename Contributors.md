@@ -12,6 +12,7 @@
 - [jvkiran](https://github.com/jvkiran)
 - [Pranav Sharma](https://github.com/psx95)
 - [Leon Li](https://github.com/AuxinJeron)
+- [Satish Muddana](https://github.com/satish-muddana)
 - [Bruce Snow](https://github.com/cbs42)
 - [George Sharpe](https://github.com/SharpeCode57)
 - [Yuvraj Singh](https://github.com/yuvraj2701)
