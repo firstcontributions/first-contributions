@@ -293,6 +293,7 @@ Mees
 - Kanav Mehra
 - Mark Simpson
 - Luke Schissler
+- Nhan Nguyen
 - Felix Jönsson
 - [Silvija Prozinger](https://github.com/SilvijaProzinger)
 - [Harry Jandu](https://github.com/hushee69)
