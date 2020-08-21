@@ -71,6 +71,7 @@ Mees
 - [Tom Hayton](https://github.com/TGH37)
 - [Ehsun Amanolahi](https://github.com/eamanola)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
+- [KaanGaming](https://github.com/KaanGaming)
 - Andrew Scott
 - [Bobak Tooyserkani](https://github.com/bt105819)
 - robyea
