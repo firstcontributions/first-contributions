@@ -78,6 +78,7 @@ Mees
 - Krystian
 - Ansh Shankar
 - Raunak Khemka
+- James Hall
 - Jatin Pandey(https://github.com/jatin837)
 - SumitGhosh
 - [Dalon Lobo](https://github.com/dalonlobo)
