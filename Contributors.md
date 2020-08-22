@@ -18,6 +18,7 @@
 - [jvkiran](https://github.com/jvkiran)
 - [Pranav Sharma](https://github.com/psx95)
 - [Leon Li](https://github.com/AuxinJeron)
+- [Soha Parasnis](https://github.com/SohaWithAnS)
 - [Satish Muddana](https://github.com/satish-muddana)
 - [Bruce Snow](https://github.com/cbs42)
 - [George Sharpe](https://github.com/SharpeCode57)
