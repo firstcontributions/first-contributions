@@ -4,6 +4,7 @@
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - James Hall
 - [KILR](https://github.com/KILR007)
+- [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
 - [Ketan Gupta] {https://github.com/ketangupta34)
