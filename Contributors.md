@@ -124,6 +124,7 @@ Mees
 - [Robert Gooding](https://github.com/goodingr)
 - [Gustaf](https://github.com/Ljungwaldh)
 - [Aedyn Yeras](https://github.com/Aedyn01)
+- [Aaron Abreu 🦕](https://github.com/gh0sttttt)
 - [Gaurva Sharma](https://github.com/gaurav4sharma)
 - [Sai Vikas Desai](https://github.com/svdesai)
 - [Fabio Gausmann Koerich](https://github.com/fkoerich)
