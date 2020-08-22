@@ -25,6 +25,7 @@
 - [George Sharpe](https://github.com/SharpeCode57)
 - [Yuvraj Singh](https://github.com/yuvraj2701)
 - [Daniel Florea](https://github.com/dfloreaa)
+- [neckoPecker](https://github.com/neckoPecker)
 - [Michael Zappa](https://github.com/michzappa)
 - [Samatar](https://github.com/samatarcodes)
 - [Atharv Phadnis](https://github.com/Athi223)
