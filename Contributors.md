@@ -3688,6 +3688,7 @@ Yogakshi Jaiman
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
 - Stephen Liu
 - [Fawzi Alami](https://github.com/az9000)
+- [Guilherme Garber](https://github.com/ggarber42)
 - [Szymon m](https://github.com/Moras-del/)
 - [Sanyam Gupta](https://github.com/sanyam19/)
 - [Ariel Hirschhorn](https://github.com/arielhirschhorn)
