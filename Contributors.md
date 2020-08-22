@@ -1,4 +1,5 @@
 # Contributors
+- [André Oliveira](https://github.com/andrefpoliveira)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
