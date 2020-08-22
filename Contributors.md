@@ -3319,6 +3319,7 @@ Yogakshi Jaiman
 - [David Xu](https://github.com/Thexumaker)
 - [John Miller](https://github.com/johndrmiller)
 - [Andrew]
+- [Josh M.]
 - [Steven Jeanneret](https://github.com/steven-jeanneret)
 - [Shaun Coulon](https://github.com/n-manifold)
 - [Ryan Hannant]
