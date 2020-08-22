@@ -7,6 +7,7 @@
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - James Hall
 - [Alex Juan](https://github.com/yyalexyy)
+- [WolframAlph](https://github.com/WolframAlph)
 - [KILR](https://github.com/KILR007)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
