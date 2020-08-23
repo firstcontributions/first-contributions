@@ -98,6 +98,7 @@ Mees
 - Andy
 - Krystian
 - Ansh Shankar
+- [Kuldeep Soni] (https://github.com/kuldeep-soni)
 - Raunak Khemka
 - Aditi
 - Jatin Pandey(https://github.com/jatin837)
