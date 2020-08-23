@@ -1,5 +1,4 @@
 # Contributors
-
 - [Cem Ulus](https://github.com/cemulus)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [EshwarCVS](https://github.com/EshwarCVS)
@@ -34,7 +33,7 @@
 - [Eveline](https://github.com/eveline-xie)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
 - [Malaika Agrawal]
-  Mees
+Mees
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Prince Agrawal 💻🚀](https://github.com/princeprojects)
@@ -119,7 +118,7 @@
 - [Sohom](https://github.com/RandomVariable18)
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
-- [Charan🚀 Teja✨](https://github.com/lcharanteja)
+- [Charan🚀 Teja✨] (https://github.com/lcharanteja)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Lidia Paruzel]
 - [JungMin O](https://github.com/owjs3901/first-contributions)
@@ -190,7 +189,7 @@
 - [Borcani Robert-Raul](https://github.com/borcanirobert)
 - [Daniela Diaz](https://github.com/dandiaz10)
 - [Zygimantas Sniurevicius](https://github.com/zygisS22)
-- [Joaquim Maurício](https://github.com/jmauriciowebdev)
+- [Joaquim Maurício] (https://github.com/jmauriciowebdev)
 - [Tony Rome](https://github.com/Tony-Rome)
 - [Sandy S. Kuo](https://github.com/kuosandys)
 - [A4jni1n](https://github.com/A4jni1n)
@@ -411,7 +410,7 @@
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Jugal Naik](https://github.com/JNaik14)
-  Adding Myself for NO Reason.
+Adding Myself for NO Reason.
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
 - [Yug Gajjar](https://github.com/Yug34)
@@ -450,7 +449,7 @@
 - [Endri Celaj](https://github.com/endri2211)
 - StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
-  Marco Meinardi
+Marco Meinardi
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
@@ -1700,7 +1699,7 @@
 - [Mary Adeoye](https://github.com/Aduketemi)
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
-- [Pablo Herrero](https://github.com/pablohs1986)
+- [Pablo Herrero] (https://github.com/pablohs1986)
 - [Puneeth PS](https://github.com/puneethps)
 - [Reniel](https://github.com/ren1el)
 - [Maeve Farrell](https://github.com/maevefarrell)
@@ -1979,7 +1978,7 @@
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Col Roberts](https://github.com/ColR)
-  Yogakshi Jaiman
+Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - Eric D
 - [Trevor Taylor](https://github.com/Trevis42)
@@ -3732,8 +3731,7 @@
 - [Michal Terranova](https://github.com/mrterranova)
 - [Tor Einar Huus](https://github.com/torhuus)
 - [Tania](https://github.com/taniyourstruly)
-- [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar) 😎
+- [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar)  😎
 - [Mukkun]
 - [Vivek Singh](https://github.com/vivmost)
 - [Sharoz Raees](https://github.com/sharozraees802)
-- [Arif Oyong](https://https://github.com/arifoyong)
