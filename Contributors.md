@@ -3690,6 +3690,7 @@ Yogakshi Jaiman
 - [Ido Dickson Evergreen](https://github.com/evergreen2001)
 - [Tomasz Korenberg](https://github.com/TomaszKorenberg)
 - Stephen Liu
+- [Mahmoud Elbatish](https://github.com/MoeElBatish)
 - [Fawzi Alami](https://github.com/az9000)
 - [Guilherme Garber](https://github.com/ggarber42)
 - [Szymon m](https://github.com/Moras-del/)
