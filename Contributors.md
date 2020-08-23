@@ -9,6 +9,7 @@
 - James Hall
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
+- [Avinash Kumar](https://github.com/Avinash9k5r)
 - [KILR](https://github.com/KILR007)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
