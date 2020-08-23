@@ -3740,6 +3740,7 @@ Yogakshi Jaiman
 - [Tor Einar Huus](https://github.com/torhuus)
 - [Tania](https://github.com/taniyourstruly)
 - [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar)  😎
+- [Harsh]
 - [Mukkun]
 - [Saurav Kumar Sonu](https://github.com/ItsmeSauravSonu)
 - [Vivek Singh](https://github.com/vivmost)
