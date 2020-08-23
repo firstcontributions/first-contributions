@@ -13,6 +13,7 @@
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
 - [Anthony Chavez]
+- [Mohammad Zainuddin]
 - [Ketan Gupta] {https://github.com/ketangupta34)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
   [Pierce Butler](https://github.com/pbutler1418)
