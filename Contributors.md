@@ -12,6 +12,7 @@
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
 - [KILR](https://github.com/KILR007)
+- [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
