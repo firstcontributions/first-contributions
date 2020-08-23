@@ -1,7 +1,8 @@
 # Contributors
+
 - [Cem Ulus](https://github.com/cemulus)
 - [André Oliveira](https://github.com/andrefpoliveira)
-- [DariusPirvulescu](https://github.com/DariusPirvulescu  "CTRL/CMD + click to open in a new tab")
+- [DariusPirvulescu](https://github.com/DariusPirvulescu "CTRL/CMD + click to open in a new tab")
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
@@ -36,7 +37,7 @@
 - [Eveline](https://github.com/eveline-xie)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
 - [Malaika Agrawal]
-Mees
+  Mees
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Prince Agrawal 💻🚀](https://github.com/princeprojects)
@@ -101,7 +102,7 @@ Mees
 - Andy
 - Krystian
 - Ansh Shankar
-- [Kuldeep Soni] (https://github.com/kuldeep-soni)
+- [Kuldeep Soni](https://github.com/kuldeep-soni)
 - Raunak Khemka
 - Aditi
 - Jatin Pandey(https://github.com/jatin837)
@@ -124,8 +125,9 @@ Mees
 - [Sohom](https://github.com/RandomVariable18)
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
-- [Charan🚀 Teja✨] (https://github.com/lcharanteja)
+- [Charan🚀 Teja✨](https://github.com/lcharanteja)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [Sankalpana Karunarathna](https://github.com/sankalpana)
 - [Lidia Paruzel]
 - [JungMin O](https://github.com/owjs3901/first-contributions)
 - [Chris C](https://github.com/dlegends)
@@ -195,7 +197,7 @@ Mees
 - [Borcani Robert-Raul](https://github.com/borcanirobert)
 - [Daniela Diaz](https://github.com/dandiaz10)
 - [Zygimantas Sniurevicius](https://github.com/zygisS22)
-- [Joaquim Maurício] (https://github.com/jmauriciowebdev)
+- [Joaquim Maurício](https://github.com/jmauriciowebdev)
 - [Tony Rome](https://github.com/Tony-Rome)
 - [Sandy S. Kuo](https://github.com/kuosandys)
 - [A4jni1n](https://github.com/A4jni1n)
@@ -417,7 +419,7 @@ Mees
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
 - [Aryan Kaushik](https://github.com/Aryan20)
 - [Jugal Naik](https://github.com/JNaik14)
-Adding Myself for NO Reason.
+  Adding Myself for NO Reason.
 - [Radhika Jadhav](https://github.com/96RadhikaJadhav)
 - [Andes Lee](https://github.com/Leeand17)
 - [Yug Gajjar](https://github.com/Yug34)
@@ -456,7 +458,7 @@ Adding Myself for NO Reason.
 - [Endri Celaj](https://github.com/endri2211)
 - StephDigital
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
-Marco Meinardi
+  Marco Meinardi
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
@@ -1706,7 +1708,7 @@ Marco Meinardi
 - [Mary Adeoye](https://github.com/Aduketemi)
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
-- [Pablo Herrero] (https://github.com/pablohs1986)
+- [Pablo Herrero](https://github.com/pablohs1986)
 - [Puneeth PS](https://github.com/puneethps)
 - [Reniel](https://github.com/ren1el)
 - [Maeve Farrell](https://github.com/maevefarrell)
@@ -1985,7 +1987,7 @@ Marco Meinardi
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Col Roberts](https://github.com/ColR)
-Yogakshi Jaiman
+  Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - Eric D
 - [Trevor Taylor](https://github.com/Trevis42)
@@ -3738,7 +3740,7 @@ Yogakshi Jaiman
 - [Michal Terranova](https://github.com/mrterranova)
 - [Tor Einar Huus](https://github.com/torhuus)
 - [Tania](https://github.com/taniyourstruly)
-- [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar)  😎
+- [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar) 😎
 - [Mukkun]
 - [Vivek Singh](https://github.com/vivmost)
 - [Sharoz Raees](https://github.com/sharozraees802)
