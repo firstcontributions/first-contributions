@@ -58,6 +58,7 @@ Mees
 - [Charlotte Guerin](https://github.com/Loliwe)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
+- [Cassidy McDonnell]
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
