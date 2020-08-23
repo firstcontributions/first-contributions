@@ -2,6 +2,7 @@
 - [Cem Ulus](https://github.com/cemulus)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu  "CTRL/CMD + click to open in a new tab")
+- [Stephen Chou](https://github.com/StephenChou)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
