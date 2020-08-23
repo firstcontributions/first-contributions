@@ -7,6 +7,7 @@
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - James Hall
+- [Mirac Can Yılmaz](https://github.com/miraccan61)
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
