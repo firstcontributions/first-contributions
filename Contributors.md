@@ -107,6 +107,7 @@ Mees
 - Jatin Pandey(https://github.com/jatin837)
 - SumitGhosh
 - [Dalon Lobo](https://github.com/dalonlobo)
+- [Vikas Kumar](https://github.com/svikas641)
 - [Riyad Khan](https://github.com/rr3khan)
 - [Harshit Dixit](https://github.com/harshitdxt3004)
 - [Alison Li](https://github.com/Alison-Li)
