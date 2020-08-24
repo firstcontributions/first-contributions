@@ -99,6 +99,7 @@
 - [Yusuf Ogunjobi](https://github.com/pacesetterplus/)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - [KaanGaming](https://github.com/KaanGaming)
+- [Ayushman Mishra](https://github.com/chetak123)
 - Andrew Scott
 - [Bobak Tooyserkani](https://github.com/bt105819)
 - robyea
