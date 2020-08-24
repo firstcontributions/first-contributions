@@ -137,6 +137,7 @@ Mees
 - [Guilherme Victor](https://github.com/guivictorr)
 - Lajuan Station
 - Frank F
+- [Molly Kizer](https://github.com/LivesInRoom29)
 - Bert
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr] (paper money pilgrim)
