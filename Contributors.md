@@ -1,8 +1,9 @@
 # Contributors
-
 - [Cem Ulus](https://github.com/cemulus)
+- [Yutong Xiao](https://github.com/YutongXiao)
 - [André Oliveira](https://github.com/andrefpoliveira)
-- [DariusPirvulescu](https://github.com/DariusPirvulescu "CTRL/CMD + click to open in a new tab")
+- [DariusPirvulescu](https://github.com/DariusPirvulescu  "CTRL/CMD + click to open in a new tab")
+- [Stephen Chou](https://github.com/StephenChou)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
@@ -13,6 +14,7 @@
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
 - [KILR](https://github.com/KILR007)
+- [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
 - [Neila Toofuny](https://github.com/ntoofuny)
@@ -137,6 +139,7 @@
 - [Guilherme Victor](https://github.com/guivictorr)
 - Lajuan Station
 - Frank F
+- [Molly Kizer](https://github.com/LivesInRoom29)
 - Bert
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr] (paper money pilgrim)
@@ -2074,6 +2077,7 @@
 - [Danny Whitt](https://github.com/Danny-Whitt-Bose)
 - [Michael Shea](https://github.com/soum-io)
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
+- [Kartik Singh]
 - [Andres Hernandez](https://github.com/Thunderbolt2010)
 - [Ahmed Ragab](https://github.com/ahmedrgb1)
 - [Chen Wang](https://github.com/ChenMetanoia)
@@ -3750,4 +3754,5 @@
 - [Vivek Singh](https://github.com/vivmost)
 - [Sharoz Raees](https://github.com/sharozraees802)
 - [Arif Oyong](https://https://github.com/arifoyon)
+- [Aryan T R]
 - [Javi V]
