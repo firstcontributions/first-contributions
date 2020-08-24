@@ -43,6 +43,7 @@
 - [Atharv Phadnis](https://github.com/Athi223)
 - [Eveline](https://github.com/eveline-xie)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
+- [Michal Piatkowski](https://github.com/m-piatkowski-dev)
 - [Malaika Agrawal]
   Mees
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
