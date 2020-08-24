@@ -141,6 +141,7 @@ Mees
 - Frank F
 - [Molly Kizer](https://github.com/LivesInRoom29)
 - Bert
+- Tzach
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr] (paper money pilgrim)
 - [Robert Gooding](https://github.com/goodingr)
