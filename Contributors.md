@@ -517,6 +517,7 @@
 - [Daniel A. Villena H.](https://github.com/davillenah)
 - [Naveen Kumar](https://github.com/naveen-27)
 - [Nathaniel Chan](https://github.com/SevenNateNine)
+- [Ludovic Dine](https://github.com/VirtualPuzzles/)
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - [Jens Kuipers](https://github.com/jens-kuipers/)s
 - [Rushi Vachhani](https://github.com/RushiVachhani)
