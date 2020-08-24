@@ -112,6 +112,7 @@
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
 - Jon Trejo
+- [Greg Curl](https://github.com/gacurl)
 - Krystian
 - Ansh Shankar
 - [Kuldeep Soni](https://github.com/kuldeep-soni)
