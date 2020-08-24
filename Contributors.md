@@ -2404,6 +2404,7 @@
 - [Julio Alvarado](https://github.com/JulioJoulesAlvarado)
 - [Parkash Pant](https://github.com/parkashpant)
 - [Stephen Paslaski](https://github.com/paslasks)
+- [Sophie Xiao](https://github.com/iosophie)
 - [Josh Hagins](https://github.com/BlitheBacon)
 - [Christopher Walker](https://github.com/chrisashwalker)
 - [Caleb](https://github.com/ZzRanger)
