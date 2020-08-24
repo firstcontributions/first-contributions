@@ -26,6 +26,7 @@
   [Pierce Butler](https://github.com/pbutler1418)
 - [msabur](https://github.com/msabur)
 - [jvkiran](https://github.com/jvkiran)
+- [Maria F Ramirez](https://github.com/mfr88)
 - [Pranav Sharma](https://github.com/psx95)
 - [Leon Li](https://github.com/AuxinJeron)
 - [Soha Parasnis](https://github.com/SohaWithAnS)
