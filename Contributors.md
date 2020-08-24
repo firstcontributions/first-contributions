@@ -1,4 +1,5 @@
 # Contributors
+
 - [Cem Ulus](https://github.com/cemulus)
 - [Yutong Xiao](https://github.com/YutongXiao)
 - [André Oliveira](https://github.com/andrefpoliveira)
@@ -3756,12 +3757,12 @@
 - [Michal Terranova](https://github.com/mrterranova)
 - [Tor Einar Huus](https://github.com/torhuus)
 - [Tania](https://github.com/taniyourstruly)
-- [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar)  😎
-- [Harsh]
+- [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar) 😎
 - [Mukkun]
 - [Saurav Kumar Sonu](https://github.com/ItsmeSauravSonu)
 - [Vivek Singh](https://github.com/vivmost)
 - [Sharoz Raees](https://github.com/sharozraees802)
+- [Anurag Srivastava](https://github.com/SingingApple)
 - [Arif Oyong](https://https://github.com/arifoyon)
 - [Aryan T R]
 - [Javi V]
