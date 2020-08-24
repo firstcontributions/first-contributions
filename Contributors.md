@@ -624,6 +624,7 @@ Marco Meinardi
 - Taylor Koressel
 - mallgyd
 - [Pravin](https://pravin772.github.io/pravindev/)
+- Rain
 - [Anya Schechter](https://github.com/abracadabra89/)
 - yosef (did it)
 - [Jimmy Holmes](https://github.com/MrDrHolmes)
