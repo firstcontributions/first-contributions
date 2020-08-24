@@ -22,7 +22,7 @@
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
 - [Mohammad Zainuddin]
-- [Ketan Gupta] (https://github.com/ketangupta34)
+- [Ketan Gupta](https://github.com/ketangupta34)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
   [Pierce Butler](https://github.com/pbutler1418)
 - [msabur](https://github.com/msabur)
@@ -109,7 +109,7 @@
 - Jon Trejo
 - Krystian
 - Ansh Shankar
-- [Kuldeep Soni] (https://github.com/kuldeep-soni)
+- [Kuldeep Soni](https://github.com/kuldeep-soni)
 - Raunak Khemka
 - Heisenberg was here!!!!!! ☻
 - Aditi
@@ -126,6 +126,7 @@
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
 - Octave Kameni
+- [Tyler Skulley](https://github.com/tskull01)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
 - [Aleksandar Mitevski](https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
@@ -133,7 +134,7 @@
 - [Sohom](https://github.com/RandomVariable18)
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
-- [Charan🚀 Teja✨] (https://github.com/lcharanteja)
+- [Charan🚀 Teja✨](https://github.com/lcharanteja)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Lidia Paruzel]
 - [JungMin O](https://github.com/owjs3901/first-contributions)
