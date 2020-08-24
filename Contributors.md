@@ -244,6 +244,7 @@
 - [Sumanth Thyagarajan](https://github.com/sumanth-thyagarajan)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
+- [Anurag Gupta](https://github.com/git-anurag-hub)
 - Mike Porter
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
