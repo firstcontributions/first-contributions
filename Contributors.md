@@ -108,8 +108,9 @@ Mees
 - Ansh Shankar
 - [Kuldeep Soni] (https://github.com/kuldeep-soni)
 - Raunak Khemka
+- Heisenberg was here!!!!!! ☻
 - Aditi
-- Jatin Pandey(https://github.com/jatin837)
+- [Jatin Pandey](https://github.com/jatin837)
 - SumitGhosh
 - [Dalon Lobo](https://github.com/dalonlobo)
 - [Vikas Kumar](https://github.com/svikas641)
