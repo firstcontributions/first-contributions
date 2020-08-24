@@ -1,5 +1,6 @@
 # Contributors
 - [Cem Ulus](https://github.com/cemulus)
+- [Alexander Larbi](https://github.com/alexlarbi)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu  "CTRL/CMD + click to open in a new tab")
 - [Stephen Chou](https://github.com/StephenChou)
