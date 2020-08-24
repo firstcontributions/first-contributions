@@ -24,6 +24,7 @@
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
 - [Mohammad Zainuddin]
+- [Kaiser Isbell]
 - [Ketan Gupta](https://github.com/ketangupta34)
 -[Varsha K.R.](https://github.com/varshakr1298)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
