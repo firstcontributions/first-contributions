@@ -3797,5 +3797,6 @@
 - [Lukas Schmidt](https://github.com/LennardSchmidt)
 - [Jecyu](https://github.com/Jecyu)
 - [Tryo Asnafi](https://github.com/tryoasnafi)
+- [Mohammed Moiyadi](https://github.com/mmoiyadi)
 - [Irwan Syafani](https://github.com/IrwanKhaliq)
 - [Priyanshu Agarwal](https://github.com/priyanshuone6)
