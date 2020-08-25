@@ -8,6 +8,7 @@
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Stephen Chou](https://github.com/StephenChou)
+- [Reuben Udu-Wallace] (https://github.com/rubixcubereubs)
 - [Dinesh Verma] (https://github.com/dvCodeIt)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [EshwarCVS](https://github.com/EshwarCVS)
@@ -22,7 +23,7 @@
 - [Pinky](https://github.com/PinkyWalia)
 - James Hall
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
-- [Mirac Can Yılmaz](https://github.com/miraccan61) 
+- [Mirac Can Yılmaz](https://github.com/miraccan61)
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
