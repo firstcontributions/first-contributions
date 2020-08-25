@@ -98,6 +98,7 @@
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria](https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
+- [Aishwarya Velumani](https://github.com/AishwaryaVelumani)
 - [Shayra Laroche Madero](https://github.com/Shayra89)
 - [Mohamed Aziz THABET](https://github.com/ThabetAziz)
 - [John Janons]
@@ -466,6 +467,7 @@
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
 - [Shubham Singh](https://github.com/suubh)
+- [Kyle Vincent] (https://github.com/kvincent21)
 - [Regine Heimers](https://github.com/rheimers)
 - [Vanshaj Bhatnagar](https://github.com/thePrankster)
 - [Mayank Meena](https://github.com/mayank-genesis)
@@ -711,6 +713,7 @@
 - Nico Tek
 - Isaac M
 - Marius Spomer
+- [Mazhar Khan](https://github.com/khanmazhar/)
 - [Caio Tsubake](https://github.com/CaioTsubake)
 - [James Nacua](https://github.com/jacavena)
 - [Abhay](https://github.com/abhay007kr)
@@ -3796,3 +3799,4 @@
 - [Tryo Asnafi](https://github.com/tryoasnafi)
 - [Mohammed Moiyadi](https://github.com/mmoiyadi)
 - [Irwan Syafani](https://github.com/IrwanKhaliq)
+- [Priyanshu Agarwal](https://github.com/priyanshuone6)
