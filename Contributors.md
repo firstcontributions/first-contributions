@@ -712,6 +712,7 @@
 - Nico Tek
 - Isaac M
 - Marius Spomer
+- [Mazhar Khan](https://github.com/khanmazhar/)
 - [Caio Tsubake](https://github.com/CaioTsubake)
 - [James Nacua](https://github.com/jacavena)
 - [Abhay](https://github.com/abhay007kr)
