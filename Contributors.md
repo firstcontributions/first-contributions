@@ -1,4 +1,5 @@
 # Contributors
+- [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Yutong Xiao](https://github.com/YutongXiao)
