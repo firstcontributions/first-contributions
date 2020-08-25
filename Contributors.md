@@ -6,6 +6,7 @@
 - [DariusPirvulescu](https://github.com/DariusPirvulescu  "CTRL/CMD + click to open in a new tab")
 - [Stephen Chou](https://github.com/StephenChou)
 - [Dinesh Verma] (https://github.com/dvCodeIt)
+- [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
