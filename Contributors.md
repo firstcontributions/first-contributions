@@ -12,6 +12,7 @@
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
 - [Rafael Holanda](https://github.com/rafaelsholanda)
 - [Subhadeep Bej](https://github.com/sbhhdp)
+- [Jakub Gawroński](https://github.com/gawronskijakub)
 - James Hall
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
 - [Alex Juan](https://github.com/yyalexyy)
