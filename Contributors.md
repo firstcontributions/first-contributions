@@ -3532,3 +3532,4 @@
 - [Killian Frappart](https://github.com/KillianFrappartDev)
 - [Kamarul Risman](https://github.com/rismanss)
 - [Jan Carreras Prat](https://jcarreras.es)
+- [Raman Preet Singh](https://github.com/raman08)
