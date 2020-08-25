@@ -2967,6 +2967,7 @@ Yogakshi Jaiman
 - [Sugato Mukhopadhyay](https://github.com/sugato1398/)
 - [Satyajit](https://github.com/BBBS92)
 - [Juliana Almeida](https://github.com/julinvictus)
+- [Kunal More](https://github.com/kunalmore984)
 - [Sarawut Klangphukhiao](https://github.com/sarawukl)
 - [InDieTasten](https://github.com/indietasten)
 - [Jens L](https://github.com/PretentiousPanda)
