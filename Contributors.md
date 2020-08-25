@@ -150,6 +150,7 @@
 - [Vinicius Melo](https://github.com/vmeelo)
 - [Uka Emmanuel](https://github.com/Mista-Rite)
 - [Sachi Tank](https://github.com/sachitank)
+- [Victor Ligas](https://github.com/vligas)
 - [Aditya Anand](https://github.com/ikshavaku)
 - [Shashank Gupta](https://github.com/shashankofficialgupta)
 - Octave Kameni
