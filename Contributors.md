@@ -3763,6 +3763,7 @@
 - [Kamarul Risman](https://github.com/rismanss)
 - [Jan Carreras Prat](https://jcarreras.es)
 - [MorphTail](https://github.com/m0rphtail)
+- [gatzyw](https://github.com/gatzyw)
 - [kshida](https://github.com/kshida)
 - [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
