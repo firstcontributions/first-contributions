@@ -139,6 +139,7 @@
 - [Uka Emmanuel](https://github.com/Mista-Rite)
 - [Sachi Tank](https://github.com/sachitank)
 - [Aditya Anand](https://github.com/ikshavaku)
+- [Shashank Gupta](https://github.com/shashankofficialgupta)
 - Octave Kameni
 - [Tyler Skulley](https://github.com/tskull01)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
