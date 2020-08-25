@@ -1,5 +1,5 @@
 # Contributors
-
+- [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Yutong Xiao](https://github.com/YutongXiao)
 - [André Oliveira](https://github.com/andrefpoliveira)
