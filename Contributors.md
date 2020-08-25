@@ -19,6 +19,7 @@
 - [Rafael Holanda](https://github.com/rafaelsholanda)
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - [Jakub Gawroński](https://github.com/gawronskijakub)
+- [Pinky](https://github.com/PinkyWalia)
 - James Hall
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Mirac Can Yılmaz](https://github.com/miraccan61) 
