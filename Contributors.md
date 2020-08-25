@@ -98,6 +98,7 @@
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria](https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
+- [Aishwarya Velumani](https://github.com/AishwaryaVelumani)
 - [Shayra Laroche Madero](https://github.com/Shayra89)
 - [Mohamed Aziz THABET](https://github.com/ThabetAziz)
 - [John Janons]
