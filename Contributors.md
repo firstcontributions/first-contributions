@@ -3466,6 +3466,7 @@
 - [C Lin](https://github.com/chrisflectionlin)
 - [Lilian Costes](https://github.com/Holoule)
 - [CMofjeld](https://github.com/CMofjeld)
+- [Joshua Thomas](https://github.com/MrJDavidT/first-contributions)
 - Mubashar Ahmad
 - [Z Yang](https://github.com/zaiweiyang/first-contributions)
 - mikrobi
