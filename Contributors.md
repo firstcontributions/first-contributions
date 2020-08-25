@@ -49,6 +49,7 @@
 - [Michael Zappa](https://github.com/michzappa)
 - [Samatar](https://github.com/samatarcodes)
 - [Atharv Phadnis](https://github.com/Athi223)
+- [Pilo](https://github.com/ilovenullptr)
 - [Eveline](https://github.com/eveline-xie)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
 - [Michal Piatkowski](https://github.com/m-piatkowski-dev)
