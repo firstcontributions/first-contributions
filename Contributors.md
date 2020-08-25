@@ -3786,5 +3786,6 @@
 - [Javi V]
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
+- [Lukas Schmidt](https://github.com/LennardSchmidt)
 - [Jecyu](https://github.com/Jecyu)
 - [Tryo Asnafi](https://github.com/tryoasnafi)
