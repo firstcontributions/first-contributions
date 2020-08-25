@@ -2610,6 +2610,7 @@
 - [Devon Lewis](https://github.com/ayodlo)
 - [ThankGod Ofurum](https://github.com/tcofurum)
 - [Ross Wilkinson](https://github.com/rgwilkin)
+- [Luke Wilkinson](https://github.com/userLuke)
 - [michaelrdt](https://github.com/MichaelRDT)
 - [MichaelB](https://github.com/Nessfreak75)
 - [Anwar Saad](https://github.com/nuarneuer20)
