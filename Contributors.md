@@ -117,6 +117,7 @@
 - [Michael Bragg](https://github.com/webwizard99)
 - Andy
 - Jon Trejo
+- JPalm
 - [Greg Curl](https://github.com/gacurl)
 - Krystian
 - Ansh Shankar
