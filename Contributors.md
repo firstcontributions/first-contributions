@@ -16,7 +16,8 @@
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - [Jakub Gawroński](https://github.com/gawronskijakub)
 - James Hall
-- [Mirac Can Yılmaz](https://github.com/miraccan61)
+- [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
+- [Mirac Can Yılmaz](https://github.com/miraccan61) 
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
