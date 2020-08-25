@@ -10,6 +10,7 @@
 - [Sarthak Verma] (https://github.com/sarthakvdev)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Martin Buxmann](https://github.com/BitVivAZ)
+- [Yoni Avni](https://github.com/yoniavn)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
 - [Rafael Holanda](https://github.com/rafaelsholanda)
