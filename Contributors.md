@@ -1940,6 +1940,7 @@
 - [Michelle Law](https//github.com/feamoda)
 - [Vinay Maurya](https//github.com/VinayMaurya001)
 - [Mark Radchuk](https://github.com/mradchuk)
+- [Saksham Rastogi](https://github.com/sak3004)
 - [tkolleh](https://github.com/tkolleh)
 - [muxyu](https://github.com/muxyu)
 - [SignatureKT](https://github.com/SignatureKT)
