@@ -1,6 +1,7 @@
 # Contributors
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
+- [Ivan Bula](https://github.com/ibula))
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Alexander Larbi](https://github.com/alexlarbi)
