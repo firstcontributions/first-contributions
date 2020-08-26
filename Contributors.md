@@ -1609,6 +1609,7 @@
 - [Abhijith Basavaraj](https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
 - [Stephen Phung](https://github.com/StephenP-Hung/)
+- [Fernando Sousa](https://github.com/fsousadev)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Zubair Idris Aweda](https://github.com/Zubs)
 - [Yogesh Singh](https://github.com/yogeshsingh01)
