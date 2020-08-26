@@ -3777,6 +3777,7 @@
 - [Satyam Rastogi](https://github.com/satyamrastogi)
 - [Zain Sheraz](https://github.com/Z41N)
 - [Killian Frappart](https://github.com/KillianFrappartDev)
+- [Ronak Sharma](https://github.com/RonakSharma1)
 - [Kamarul Risman](https://github.com/rismanss)
 - [Jan Carreras Prat](https://jcarreras.es)
 - [MorphTail](https://github.com/m0rphtail)
@@ -3826,4 +3827,4 @@
 - [Raman Preet Singh](https://github.com/raman08)
 - [Yichi Zhang](https://github.com/YichiZ)
 - Shukun Zhang
--<RishiDharshan>(https://github.com/RishiDharshan)
+- [RishiDharshan](https://github.com/RishiDharshan)
