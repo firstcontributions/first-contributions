@@ -739,6 +739,7 @@
 - [romhacks](https://github.com/romhacks)
 - [Beniamino Tartarini](https://github.com/telriot)
 - [Ijeoma Emeruwa](https://github.com/ijeomaemeruwa)
+- [Asher Vu](https://github.com/vuphuc24601)
 - [nouvelle](https://github.com/nouvelle)
 - [Shakeib Shaida](https://github.com/shakeib98)
 - [Samir Mughal](https://github.com/codewithmughal)
