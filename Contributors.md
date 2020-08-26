@@ -585,6 +585,7 @@
 - David Kwong
 - [Akash Singh](https://github.com/Garpieln)
 - Shruti Kumari
+- Prateek Parashar
 - Doraemi
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
