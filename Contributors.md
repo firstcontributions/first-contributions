@@ -1,4 +1,5 @@
 # Contributors
+- [Mark Fowlow](https://github.com/mjfowlow)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Ivan Bula](https://github.com/ibula))
