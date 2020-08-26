@@ -1155,6 +1155,7 @@
 - Sylveste
 - Shweta
 - icysn
+- [Vasil Zhigilei](https://github.com/vasilzhigilei)
 - Upquark00
 - Chjkaro [baonq243](https://github.com/baonq243)
 - anizhou
