@@ -1,4 +1,5 @@
 # Contributors
+
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Aarish Alam](https://github.com/RheagalFire)
@@ -28,7 +29,7 @@
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
 - [KILR](https://github.com/KILR007)
-- [Nitish Singh](https://github.com/nitishsingh158) 
+- [Nitish Singh](https://github.com/nitishsingh158)
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
@@ -1614,6 +1615,7 @@
 - [Zubair Idris Aweda](https://github.com/Zubs)
 - [Yogesh Singh](https://github.com/yogeshsingh01)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
+- [Jome Favourite](https://github.com/jomefavouite)
 - [GSS Akash](https://github.com/gssakash)
 - [Rivka Klein](https://github.com/RivkieKlein)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
