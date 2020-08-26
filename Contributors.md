@@ -1243,6 +1243,7 @@
 - [mkjodhani](https://github.com/mkjodhani)
 - [Lishihong](https://github.com/lieric7766)
 - [Samuel Gits](https://github.com/samgits)
+- [Shalini Kumari](https://github.com/shalinikumari50)
 - [Abdul Rahman Hadji Ibrahim](https://github.com/AbonIamme)
 - [Stephen Darragh](https://github.com/srdau)
 - [Zaid Jilani](https://github.com/zjilani)
