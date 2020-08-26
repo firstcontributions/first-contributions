@@ -29,7 +29,7 @@
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
 - [KILR](https://github.com/KILR007)
-- [Nitish Singh](https://github.com/nitishsingh158) 
+- [Nitish Singh](https://github.com/nitishsingh158)
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
@@ -86,6 +86,7 @@
 - [Moronfolu Olufunke](https://github.com/MoeRayo)
 - [oralcagan](https://github.com/oralcagan)
 - [Omar Ghrairi](https://github.com/OGhrairi)
+- _Djson_
 - [Andre Sorpreso](https://github.com/asorpreso)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Saulius Baltramonaitis](https://github.com/simpson2)
