@@ -2326,6 +2326,7 @@
 - [Jason Klebes](https://github.com/jklebes)
 - [Rishi Khanna](https://github.com/khannar62)
 - [DD155](https://github.com/DD155)
+- [Jon Hawes](https://github.com/JonHawes)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
 - [zer0tolerance](https://github.com/zer0tolerance)
