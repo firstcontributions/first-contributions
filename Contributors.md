@@ -8,6 +8,7 @@
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Stephen Chou](https://github.com/StephenChou)
+- [Kerin Pithawala] (https://github.com/Kerveyfelix)
 - [Reuben Udu-Wallace] (https://github.com/rubixcubereubs)
 - [Dinesh Verma] (https://github.com/dvCodeIt)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
