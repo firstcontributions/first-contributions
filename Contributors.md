@@ -33,6 +33,7 @@
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [asmallgod](https://github.com/asmallgod)
+- [Sammed98](https://github.com/Sammed98)
 - [Neila Toofuny](https://github.com/ntoofuny)
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
