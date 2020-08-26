@@ -3809,6 +3809,7 @@
 - [Sharoz Raees](https://github.com/sharozraees802)
 - [Anurag Srivastava](https://github.com/SingingApple)
 - [Arif Oyong](https://https://github.com/arifoyon)
+- [Dimas Laksana](https://github.com/dimlaksana)
 - [Aryan T R]
 - [Javi V]
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
