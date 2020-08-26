@@ -388,6 +388,9 @@ If you're making changes to a translation, please request a review from our prev
 		<td>
            <a href="../translations/README.ge.md">ქართული</a>
         </td>
+        <td>
+           <a href="../translations/README.pl.md">polski</a>
+        </td>
     </tr>
      <tr>
         <td>
@@ -408,6 +411,9 @@ If you're making changes to a translation, please request a review from our prev
 		<td>
             <img width="100" src="https://avatars0.githubusercontent.com/u/9116447?s=460&v=4" alt="@iko1133" />
         </td>
+        <td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />
+        </td>
     </tr>
     <tr>
         <td>
@@ -427,6 +433,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
 		<td>
             <a href="https://github.com/iko1133">iko1133</a>
+        </td>
+        <td>
+            <a href="https://github.com/mikowhy">mikowhy</a>
         </td>
     </tr>
  </table>
