@@ -29,6 +29,7 @@
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
+- [Varun Choudhary] (https://github.com/warlord40)
 - [KILR](https://github.com/KILR007)
 - [Nitish Singh](https://github.com/nitishsingh158)
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
