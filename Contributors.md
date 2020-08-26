@@ -32,6 +32,7 @@
 - [Nitish Singh](https://github.com/nitishsingh158)
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
+- [AlexARNcode](https://github.com/AlexARNcode)
 - [asmallgod](https://github.com/asmallgod)
 - [Sammed98](https://github.com/Sammed98)
 - [Neila Toofuny](https://github.com/ntoofuny)
