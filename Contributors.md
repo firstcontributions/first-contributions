@@ -1845,6 +1845,7 @@
 - [Art Vandelay](https://github.com/dtboiko)
 - [Nolan McShea](https://github.com/Nuolong)
 - [Satyam Mishra](https://github.com/satyam15mishra)
+- [Rishi Sethia](https://github.com/rishisethia258)
 - [DJFILL](https://github.com/djfill)
 - [Nikhil Bhave](https://github.com/nikhilbhave9)
 - [Arthur Dias](https://github.com/arthurdias-trad)
