@@ -802,6 +802,7 @@
 - [Aditya Singh](https://github.com/adityanjr)
 - [Nicky Choi](https://github.com/njch5)
 - [Jordan Sills](https://github.com/JordanDSills)
+- [Jerremy Ferrer](https://github.com/jerremyferrer)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Anna
 - [MFrJ](https://github.com/mfrj)
