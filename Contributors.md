@@ -1,4 +1,5 @@
 # Contributors
+- [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
