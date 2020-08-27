@@ -1396,6 +1396,7 @@
 - [Gary Shi](https://github.com/Gary1q2)
 - [Justin Sapp](https://github.com/jsapp352)
 - [Hy Nguyen](https://github.com/khanghy2130)
+- [Guilherme de Deus](https://github.com/nizbel)
 - [Manjushree Pradhan](https://github.com/first-contributions_WS)
 - [Jaspreet Singh](https://github.com/Jsar3004)
 - [Noemi Glaeser](https://github.com/nglaeser)
