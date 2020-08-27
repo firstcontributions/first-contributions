@@ -196,6 +196,7 @@
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr] (paper money pilgrim)
 - [Robert Gooding](https://github.com/goodingr)
+- [Aryan Veer Singh] (https://github.com/aryanveer)
 - [Gustaf](https://github.com/Ljungwaldh)
 - [Aedyn Yeras](https://github.com/Aedyn01)
 - [Aaron Abreu 🦕](https://github.com/gh0sttttt)
