@@ -128,6 +128,7 @@
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Ayoub El Hayat](https://github.com/ser14joker)
 - [Tory Moscaritolo](https://github.com/tory24)
+- [Tobs](https://github.com/TobsBit)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
 - [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
 - [Lennart Muchow](https://github.com/LennartMuchow)
