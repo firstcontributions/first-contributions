@@ -26,6 +26,7 @@
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - [Jakub Gawroński](https://github.com/gawronskijakub)
 - [Pinky](https://github.com/PinkyWalia)
+- [ Pooja Prabhu ](https://github.com/POOJAPRABHU450)
 - James Hall
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
@@ -3860,5 +3861,3 @@
 - [Mike Lowrie](https://github.com/MikeLowrie)
 - [Sezan Ahmed](https://github.com/Sezaan)
 - [Dyno Wibowo](https://github.com/dynnhw)
--[ Pooja Prabhu ]
-(https://github.com/POOJAPRABHU450)
