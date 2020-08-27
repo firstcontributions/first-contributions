@@ -1,5 +1,5 @@
 # Contributors
-
+- [Konrad Hyzy] (http://github.com/knrdhz)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Jatin Pandey](https://github.com/jatin837)
@@ -407,6 +407,7 @@
 - [Manohar Rajaram](https://github.com/manohar52)
 - [Doris Chang]
 - [Malvika Bhargava](https://github.com/Malvika18)
+- [Nermin Sehic](https://github.com/nsehic)
 - [Pine9](https://github.com/Pine9)
 - [Yuval Raz](https://github.com/theyuvalraz)
 - [Jonas Imm](https://github.com/JonasImm)
