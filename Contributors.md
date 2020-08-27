@@ -45,6 +45,7 @@
 - [Brenton Doing](https://github.com/brentondoing)
 - [Kaiser Isbell]
 - [Ketan Gupta](https://github.com/ketangupta34)
+- [AdithiyaG](https://github.com/AdithiyaG)
 - [Varsha K.R.](https://github.com/varshakr1298)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
 - [Pierce Butler](https://github.com/pbutler1418)
