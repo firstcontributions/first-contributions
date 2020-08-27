@@ -1,5 +1,6 @@
 # Contributors
 - [Konrad Hyzy] (http://github.com/knrdhz)
+- [pranjalshinde](https://github.com/pranjalshinde)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Jatin Pandey](https://github.com/jatin837)
