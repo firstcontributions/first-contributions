@@ -1,4 +1,5 @@
 # Contributors
+
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Jatin Pandey](https://github.com/jatin837)
@@ -62,6 +63,7 @@
 - [Sonali_Priya](https://github.com/sonalipriya2203)
 - [Leon Li](https://github.com/AuxinJeron)
 - [erwin](https://github.com/erwin-1996)
+- [kolade Afeez](https://github.com/koladeafeez)
 - [Soha Parasnis](https://github.com/SohaWithAnS)
 - [Satish Muddana](https://github.com/satish-muddana)
 - [Bruce Snow](https://github.com/cbs42)
