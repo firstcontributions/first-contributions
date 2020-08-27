@@ -4,6 +4,7 @@
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
+- Damola Olutoke
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Ivan Bula](https://github.com/ibula))
