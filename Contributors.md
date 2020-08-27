@@ -406,6 +406,7 @@
 - [Manohar Rajaram](https://github.com/manohar52)
 - [Doris Chang]
 - [Malvika Bhargava](https://github.com/Malvika18)
+- [Nermin Sehic](https://github.com/nsehic)
 - [Pine9](https://github.com/Pine9)
 - [Yuval Raz](https://github.com/theyuvalraz)
 - [Jonas Imm](https://github.com/JonasImm)
