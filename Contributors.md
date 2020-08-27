@@ -17,6 +17,7 @@
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Martin Buxmann](https://github.com/BitVivAZ)
+- [Eloïse Schmitt](https://github.com/eloiseschmitt)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [Sarthak Verma](https://github.com/sarthakvdev)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
