@@ -7,6 +7,7 @@
 - [Cem Ulus](https://github.com/cemulus)
 - [Alexander Larbi](https://github.com/alexlarbi)
 - [Yutong Xiao](https://github.com/YutongXiao)
+- [Kelly Nguyen](https://github.com/yllekn)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Stephen Chou](https://github.com/StephenChou)
