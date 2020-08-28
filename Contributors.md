@@ -11,6 +11,7 @@
 - [Bow Verboom](https://github.com/1993bow)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
+- [Paridhi Agarwal](https://github.com/paridhi7)
 - [Ivan Bula](https://github.com/ibula))
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
