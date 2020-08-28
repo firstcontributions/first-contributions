@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
@@ -3456,6 +3456,7 @@
 - [John Miller](https://github.com/johndrmiller)
 - [Andrew]
 - [Josh M.]
+- [konte sanjana]
 - [Steven Jeanneret](https://github.com/steven-jeanneret)
 - [Shaun Coulon](https://github.com/n-manifold)
 - [Ryan Hannant]
