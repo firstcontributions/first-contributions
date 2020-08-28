@@ -1473,6 +1473,7 @@
 - [Aidan Curley](https://gitbub.com/redyelruc)
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
+- [Sarah Larkworthy](https://github.com/SLarkworthy)
 - [Vineet Vatsal](https://github.com/pret3nti0u5)
 - [Jared Jacobsen](https://github.com/jaredjacobsen)
 - [Yurika Namba](https://github.com/yurikanamba)
