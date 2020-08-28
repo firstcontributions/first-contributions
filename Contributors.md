@@ -1763,6 +1763,7 @@
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Jordi Hoven](https://github.com/Jordakoes)
 - [Mary Adeoye](https://github.com/Aduketemi)
+- [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
 - [Pablo Herrero](https://github.com/pablohs1986)
