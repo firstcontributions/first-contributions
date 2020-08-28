@@ -1,4 +1,5 @@
 # Contributors
+- [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
