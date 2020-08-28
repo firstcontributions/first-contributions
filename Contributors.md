@@ -2,8 +2,8 @@
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
-- [pranjalshinde](https://github.com/pranjalshinde)
 - [Ben Sultan] (http://github.com/bensultan1985)
+- [Sanjay Marreddi](https://github.com/SanjayMarreddi)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - Damola Olutoke
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
