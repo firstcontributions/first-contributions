@@ -25,6 +25,7 @@
 - [Eloïse Schmitt](https://github.com/eloiseschmitt)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [Sarthak Verma](https://github.com/sarthakvdev)
+- [Zechro] (https://github.com/Zechro)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
 - [AbhishekAgrawal](https://github.com/fazer1929/)
 - [Saksham Singh] (https://github.com/SakshamSingh-v2)
