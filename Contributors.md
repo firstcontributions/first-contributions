@@ -3898,3 +3898,4 @@
 - [passerby223](https://github.com/passerby223)
 - [Kauan Rakoski](https://github.com/KauanRakoski)
 - [Mateus Nunes](https://github.com/mateusnssp)
+- [Aditya Thakur](https://github.com/aadi30thakur)
