@@ -5,6 +5,7 @@
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - Damola Olutoke
+- [Bow Verboom](https://github.com/1993bow)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Ivan Bula](https://github.com/ibula))
