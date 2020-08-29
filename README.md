@@ -1,4 +1,4 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+﻿[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -74,7 +74,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/). [Be sure to follow these steps if you want to use git often after reading this.](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ## Fork this repository
 
