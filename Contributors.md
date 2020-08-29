@@ -3897,6 +3897,7 @@
 - [Javi V]
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
+- [Jantlee](https://github.com/jantlee)
 - [Lukas Schmidt](https://github.com/LennardSchmidt)
 - [Jecyu](https://github.com/Jecyu)
 - [Tryo Asnafi](https://github.com/tryoasnafi)
@@ -3916,7 +3917,7 @@
 - [Kauan Rakoski](https://github.com/KauanRakoski)
 - [Mateus Nunes](https://github.com/mateusnssp)
 - [Aditya Thakur](https://github.com/aadi30thakur)
-- [Chuwei Wang]( https://github.com/softwareX4)
+- [Chuwei Wang](https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
 - [Mansi Agnihotri](https://github.com/pyprogr)
 - [Jose Osuna](https://github.com/joseosuna-engineer)
