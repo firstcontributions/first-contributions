@@ -1,5 +1,6 @@
 # Contributors
 - [Bolaji Olawale] (https://github.com/bolajixi)
+- [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Alex Slobodyansky] (https://github.com/web2ls)
