@@ -74,6 +74,7 @@
 - [Branden Kim](https://github.com/bkbranden)
 - [Prasuna Pulivendula](https://github.com/Prasuna16)
 - [Varsha K.R.](https://github.com/varshakr1298)
+- [Vinay Kushwaha](https://github.com/iamvinayvk)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
 - [Pierce Butler](https://github.com/pbutler1418)
 - [msabur](https://github.com/msabur)
