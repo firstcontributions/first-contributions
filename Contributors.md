@@ -10,6 +10,7 @@
 - [Abidzar Muhammad](https://github.com/Abidzar16)
 - Damola Olutoke
 - [Zain Jandali](https://github.com/zjandali)
+- [Antti Hyppola](https://github.com/4nt1d0t3)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Bow Verboom](https://github.com/1993bow)
 - [Jatin Pandey](https://github.com/jatin837)
