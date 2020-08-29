@@ -36,6 +36,7 @@
 - [ Pooja Prabhu ](https://github.com/POOJAPRABHU450)
 - James Hall
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
+- [Rohan Khanna] (https://github.com/krohan100)
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
