@@ -3917,3 +3917,4 @@
 - [Chuwei Wang]( https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
 - [Mansi Agnihotri](https://github.com/pyprogr)
+- [Jose Osuna](https://github.com/joseosuna-engineer)
