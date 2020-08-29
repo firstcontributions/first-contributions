@@ -7,6 +7,7 @@
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - Damola Olutoke
+- [Zain Jandali](https://github.com/zjandali)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Bow Verboom](https://github.com/1993bow)
 - [Jatin Pandey](https://github.com/jatin837)
