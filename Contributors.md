@@ -1,4 +1,5 @@
 # Contributors
+
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Alex Slobodyansky] (https://github.com/web2ls)
@@ -22,6 +23,7 @@
 - [Tim Rehrmann](https://github.com/timrehrmann)
 - [Alexander Larbi](https://github.com/alexlarbi)
 - [Yutong Xiao](https://github.com/YutongXiao)
+- [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Kelly Nguyen](https://github.com/yllekn)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
