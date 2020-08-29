@@ -126,7 +126,7 @@ Now open `Contributors.md` file in a text editor, add your name to it. To do tha
 ```
 start Contributors.md
 ```
-
+Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 
