@@ -1,4 +1,5 @@
 # Contributors
+
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
@@ -3903,3 +3904,4 @@
 - [Kauan Rakoski](https://github.com/KauanRakoski)
 - [Mateus Nunes](https://github.com/mateusnssp)
 - [Aditya Thakur](https://github.com/aadi30thakur)
+- [Jomar Rumbawa](https://github.com/jrumbawa)
