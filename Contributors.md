@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
@@ -2736,7 +2736,7 @@
 - [Anish](https://github.com/sai9100957575)
 - [alib28](https://github.com/alib28)
 - [Mitali Purwar](https://github.com/MitaliPurwar21)
-- [Teyjattt](https://github.com/Teyjattt)
+- [DanielDeSouzaMelo](https://github.com/DanielDeSouzaMelo)[Teyjattt](https://github.com/Teyjattt)
 - [DonClaveau3](https://github.com/DonClaveau3)
 - [Aradhana Singh](https://github.com/Aradhana-Singh)
 - [3timesFaster](https://github.com/3timesfaster)
