@@ -6,6 +6,7 @@
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
+- [Abidzar Muhammad](https://github.com/Abidzar16)
 - Damola Olutoke
 - [Zain Jandali](https://github.com/zjandali)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
