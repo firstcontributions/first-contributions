@@ -74,7 +74,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/). [Be sure to follow these steps if you want to use git often after reading this.](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/). 
+[Be sure to follow these steps if you plan to use git often after reading this.](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ## Fork this repository
 
