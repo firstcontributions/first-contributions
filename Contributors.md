@@ -109,6 +109,7 @@
   Mees
 - [Sasha Badov](https://github.com/sashabadov)
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
+- [Ken Henkel](https://github.com/KHenkel95)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Prince Agrawal 💻🚀](https://github.com/princeprojects)
 - [Ashutosh Saxena](https://github.com/ashugit27)
