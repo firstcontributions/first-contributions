@@ -1,4 +1,5 @@
-  # Contributors
+# Contributors
+
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
@@ -249,6 +250,7 @@
 - [Yew Kang Wei](https://github.com/yewyewXD)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
+- [Harshit Kumar](https://github.com/HarshitChauhan)
 - [Brian Loveless 👽 🖖](https://github.com/BrianLoveGa)
 - [Brandt Campbell](https://github.com/Reboot82)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
