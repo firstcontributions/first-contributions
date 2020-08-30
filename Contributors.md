@@ -3910,6 +3910,7 @@
 - [Aditya Kumar Seth](https://github.com/adityatwothree)
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
+- [William Guo](https://github.com/wguo1)
 - [Jantlee](https://github.com/jantlee)
 - [Lukas Schmidt](https://github.com/LennardSchmidt)
 - [Jecyu](https://github.com/Jecyu)
