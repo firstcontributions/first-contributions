@@ -126,6 +126,7 @@
 - [Santos Soffli](https://github.com/ssoffli)
 - [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
+- [SanjayDevTech](https://github.com/SanjayDevTech)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
 - [salazar_12](https://github.com/codeSalazar12)
