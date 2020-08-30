@@ -159,6 +159,7 @@
 - [John Janons]
 - [Mohit Kumar]
 - [Mitalee Minde](https://github.com/mitalee18)
+- [Josh Miccolo](https://github.com/Jmiccolo)
 - [Ayoub El Hayat](https://github.com/ser14joker)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
