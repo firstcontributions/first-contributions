@@ -29,6 +29,7 @@
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Stephen Chou](https://github.com/StephenChou)
+- [Narmit Mashruwala](https://github.com/namz11)
 - [Kerin Pithawala] (https://github.com/Kerveyfelix)
 - [Sascha Zengler](https://github.com/saschazengler)
 - [Reuben Udu-Wallace] (https://github.com/rubixcubereubs)
