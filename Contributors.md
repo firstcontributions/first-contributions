@@ -1,4 +1,4 @@
-# Contributors
+  # Contributors
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
@@ -138,6 +138,7 @@
 - [yuvarajan](https://github.com/dozerex)
 - [Cassidy McDonnell]
 - [David Fraser](https://github.com/DavidMatthewFraser)
+- [Louis Bui](https://github.com/longlb)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
 - [Cayden W](https://github.com/lathryx) ^-^ Yay!
