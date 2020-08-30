@@ -1,4 +1,5 @@
-  # Contributors
+# Contributors
+
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
@@ -71,6 +72,7 @@
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
 - [Mohammad Zainuddin]
+- [Ron Boce]
 - [Brenton Doing](https://github.com/brentondoing)
 - [Kaiser Isbell]
 - [Ketan Gupta](https://github.com/ketangupta34)
