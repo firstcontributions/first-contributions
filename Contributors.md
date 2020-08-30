@@ -334,6 +334,7 @@
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Anurag Gupta](https://github.com/git-anurag-hub)
 - Mike Porter
+- [Trevor Tang](https://github.com/AwpData)
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Rakesh Jarupula](https://github.com/Rakesh148)
