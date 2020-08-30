@@ -84,6 +84,7 @@
 - [Maria F Ramirez](https://github.com/mfr88)
 - [Pranav Sharma](https://github.com/psx95)
 - [Sonali_Priya](https://github.com/sonalipriya2203)
+- [Onkar Singh](https://github.com/Onk-ar)
 - [khalil_shaik](https://github.com/khalil192)
 - [Leon Li](https://github.com/AuxinJeron)
 - [erwin](https://github.com/erwin-1996)
