@@ -3898,6 +3898,7 @@
 - [Dimas Laksana](https://github.com/dimlaksana)
 - [Aryan T R]
 - [Javi V]
+- [Aditya Kumar Seth](https://github.com/adityatwothree)
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
 - [Jantlee](https://github.com/jantlee)
