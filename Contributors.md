@@ -1422,6 +1422,7 @@
 - [Geuntaek Kwon](https://github.com/flowertaekk-dev)
 - Kramer Silva
 - [Jitesh Kamnani](https://github.com/jvkamnani)
+- [Utkarsh Bajaj](https://github.com/utkarshbajaj)
 - [Kwame Asante](https://github.com/kwamekert)
 - [AxVultis](https://github.com/AxVultis)
 - [Cassio Leite](https://github.com/cassiopl)
