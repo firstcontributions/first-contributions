@@ -1,5 +1,6 @@
   # Contributors
 - [Bolaji Olawale] (https://github.com/bolajixi)
+- [Ammar Ahmed]    (https://github.com/ammar629)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
