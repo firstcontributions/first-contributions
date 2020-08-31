@@ -16,6 +16,7 @@
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
 - Damola Olutoke
+- [Zack McKenna](https://github.com/zackmckenna)
 - [Zain Jandali](https://github.com/zjandali)
 - [Antti Hyppola](https://github.com/4nt1d0t3)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
