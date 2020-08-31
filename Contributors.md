@@ -3925,6 +3925,7 @@
 - [Anurag Srivastava](https://github.com/SingingApple)
 - [Arif Oyong](https://https://github.com/arifoyon)
 - [Dimas Laksana](https://github.com/dimlaksana)
+- [Aristeidis Fero-Pantidis](https://github.com/fdgenie)
 - [Aryan T R]
 - [Javi V]
 - [Aditya Kumar Seth](https://github.com/adityatwothree)
