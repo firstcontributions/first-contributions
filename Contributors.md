@@ -1,6 +1,6 @@
 # Contributors
 
-- [Prathamesh Borse] (https://github.com/viraldevpb)
+- [viraldevpb] (https://github.com/viraldevpb)
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
