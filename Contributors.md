@@ -1079,6 +1079,7 @@
 - [Oliver Mak](https://github.com/oliver139)
 - [Alex Plazas](https://github.com/alexplazas)
 - lk-git
+- [gmr] (https://github.com/skkskine)
 - Eddie Lewis
 - Or Dotan
 - [bog204](https://github.com/bog204)
