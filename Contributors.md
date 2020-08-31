@@ -2128,6 +2128,7 @@
 - [Robert James](https://github.com/roborbob)
 - [Ewan Stern](https://github.com/ewanstern)
 - [Shehan](https://github.com/shehan1993)
+- [Veronica](https://github.com/g-vero)
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
