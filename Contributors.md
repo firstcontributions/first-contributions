@@ -1,6 +1,7 @@
-  # Contributors
+# Contributors
+
 - [Bolaji Olawale] (https://github.com/bolajixi)
-- [Ammar Ahmed]    (https://github.com/ammar629)
+- [Ammar Ahmed] (https://github.com/ammar629)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
@@ -144,6 +145,7 @@
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
 - [Cassidy McDonnell]
+- [Roberto Castelli](https://github.com/RobertoCastelli)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Louis Bui](https://github.com/longlb)
 - [Anurag Raina](https://github.com/anuragraina)
