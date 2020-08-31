@@ -327,6 +327,7 @@
 - [Azril Hafizi](https://github.com/azrilhafizi)
 - [Azibodusi Osain](https://github.com/osain-az)
 - [Shikha Bhat](https://github.com/shikha-16)
+- [Miha Lebaric](https://github.com/smehko)
 - [Vineet Bhat](https://github.com/itbhat)
 - danwt
 - Deepak Kumar Narayanan
