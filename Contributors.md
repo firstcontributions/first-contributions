@@ -16,7 +16,8 @@
 - [Teal Larson](https://github.com/tealjulia)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
-- [Abidzar Muhammad](https://github.com/Abidzar16)
+- [Abidzar Muhammad](https://github.com/Abidzar16) 
+- Ezwald Uzumaki
 - Damola Olutoke
 - [Zack McKenna](https://github.com/zackmckenna)
 - [Zain Jandali](https://github.com/zjandali)
