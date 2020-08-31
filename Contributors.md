@@ -9,6 +9,7 @@
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
+- [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
