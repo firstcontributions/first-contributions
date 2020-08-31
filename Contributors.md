@@ -44,6 +44,7 @@
 - [Eloïse Schmitt](https://github.com/eloiseschmitt)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [Sarthak Verma](https://github.com/sarthakvdev)
+- [Mohan Kumar S](https://github.com/Mohan40)
 - [Zechro] (https://github.com/Zechro)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
 - [AbhishekAgrawal](https://github.com/fazer1929/)
