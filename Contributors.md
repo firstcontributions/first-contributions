@@ -151,6 +151,7 @@
 - [Louis Bui](https://github.com/longlb)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
+- [Chase Ashby](https://github.com/Chasertx)
 - [Cayden W](https://github.com/lathryx) ^-^ Yay!
 - [Abhay Goyal](https://github.com/Codebat-man)Help
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
