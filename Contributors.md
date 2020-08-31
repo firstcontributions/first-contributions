@@ -3926,6 +3926,7 @@
 - [RishiDharshan](https://github.com/RishiDharshan)
 - [Mike Lowrie](https://github.com/MikeLowrie)
 - [Sezan Ahmed](https://github.com/Sezaan)
+- [Nina Zdanovic](https://github.com/Coyote-Schmoyote)
 - [Dyno Wibowo](https://github.com/dynnhw)
 - [Yohuan](https://github.com/Yohuan)
 - [Jeff Hooton](https://github.com/jeffdhooton)
