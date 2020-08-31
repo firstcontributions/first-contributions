@@ -181,6 +181,7 @@
 - [Tom Hayton](https://github.com/TGH37)
 - [Ehsun Amanolahi](https://github.com/eamanola)
 - [Yusuf Ogunjobi](https://github.com/pacesetterplus/)
+- [Erika Klink] (https://github.com/Erika-Klink)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - [KaanGaming](https://github.com/KaanGaming)
 - [Ayushman Mishra](https://github.com/chetak123)
