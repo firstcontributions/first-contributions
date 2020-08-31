@@ -787,7 +787,7 @@
 - [Kaustubh Kumar](https://github.com/KaustubhKumar05)
 - [microcluster](https://github.com/microcluster)
 - [Sean Gorham](https://github.com/sgorham)
-- [Sydney Lin] (https://github.com/sydneylin12)
+- [Sydney Lin](https://github.com/sydneylin12)
 - monaxle
 - Bala Hantsi
 - Dante Chakravorti
