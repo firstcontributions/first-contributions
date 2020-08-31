@@ -833,6 +833,7 @@
 - Arham (WinterAid, EUW)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
+- [Namraj Pudasaini](http://githubcom/Namrajp)
 - [Richie C.](https://github.com/RTek-dev)
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
