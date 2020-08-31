@@ -21,6 +21,7 @@
 - [Abidzar Muhammad](https://github.com/Abidzar16) 
 - Ezwald Uzumaki
 - Damola Olutoke
+- [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
 - [Zack McKenna](https://github.com/zackmckenna)
 - [Zain Jandali](https://github.com/zjandali)
 - [Antti Hyppola](https://github.com/4nt1d0t3)
