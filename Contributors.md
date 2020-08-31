@@ -1,4 +1,5 @@
   # Contributors
+  [Amit Kinor](https://github.com/amitkinor))
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Ammar Ahmed]    (https://github.com/ammar629)
