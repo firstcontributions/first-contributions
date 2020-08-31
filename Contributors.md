@@ -10,6 +10,7 @@
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
 - [pranjalshinde](https://github.com/pranjalshinde)
+- [Teal Larson](https://github.com/tealjulia)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
