@@ -3524,7 +3524,7 @@
 - [Shubham Kulkarni](https://github.com/shubhamkulkarni01)
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Ryan Goudie](https://github.com/RyanGoudie)
--
+- [Richard Rodrigues](https://github.com/rich1n)
 - [Victor Doh Kim](https://github.com/dohkim)
 - [Al An](https://github.com/leftHook8)
 - [Victor Doh Kim](https://github.com/dohkim)
