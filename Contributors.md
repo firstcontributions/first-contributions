@@ -15,6 +15,7 @@
 - [Alex Slobodyansky](https://github.com/web2ls)
 - [Pablo Pena](https://github.com/Kimeru29)
 - [Konrad Hyzy](http://github.com/knrdhz)
+- [Ásbjörn Skarphéðinsson](http: //github.com/AsiSkarp)
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Teal Larson](https://github.com/tealjulia)
 - [Ben Sultan](http://github.com/bensultan1985)
