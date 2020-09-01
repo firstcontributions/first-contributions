@@ -54,6 +54,7 @@
 - [Martin Buxmann](https://github.com/BitVivAZ)
 - [Dhruv Rawat](https://github.com/dhruvrawat777)
 - [Eloïse Schmitt](https://github.com/eloiseschmitt)
+- [Bernys-Castillo](https://github.com/Bernys)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [Sarthak Verma](https://github.com/sarthakvdev)
 - [Mohan Kumar S](https://github.com/Mohan40)
