@@ -2485,7 +2485,7 @@
 - [Ishaan Radia](https://github.com/iiradia)
 - [Karen White](https://github.com/karen-white)
 - [Jono](https://github.com/EagleOne42)
-- [Nishant Kumar] (https://github.com/nisnym)
+- [Nishant Kumar](https://github.com/nisnym)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
 - [Avani Shah-Trial](https://github.com/avanishah03)
 - [Dominika Malinowska](https://github.com/doma1991)
