@@ -3,6 +3,7 @@
 -[Samuel Jo] (https://github.com/squireaintready)
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [Shivam Singla](https://github.com/shivam7374)
+- 
 - [Lovkush Agarwal](https://github.com/Lovkush-A)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shashank Aital](https://github.com/aitalshashank2)
@@ -1266,6 +1267,7 @@ Jeremiah Harkins
 - [Sure](https://github.com/surebhandari)
 - [Abhishek Ahirwar](https://github.com/abhiahirwar)
 - [Swarna Sarkar](https://github.com/sarkarsd)
+- [Claire-me](https://github.com/claire-me)
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
 - [Rahul Sonanis](https://github.com/RahulSonanis)
