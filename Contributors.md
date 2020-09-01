@@ -3994,3 +3994,4 @@
 - [Valerio Trinca](https://github.com/ValerioTrinca)
 - [Ephraim Atta-Duncan](https://github.com/dephraiim)
 - [songhee](https://github.com/songhee23)
+- [gusanchedev](https://github.com/gustavosanchezgalarza)
