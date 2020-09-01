@@ -41,6 +41,7 @@
 - [Tim Rehrmann](https://github.com/timrehrmann)
 - [Alexander Larbi](https://github.com/alexlarbi)
 - [Yutong Xiao](https://github.com/YutongXiao)
+- [Akshat Sood](https://github.com/akshatsood2249)
   [Dmitry Vladov](https://github.com/dvladov73)
 - [Kelly Nguyen](https://github.com/yllekn)
 - [Olivia Pyskoty](https:github.com/opyskoty)
