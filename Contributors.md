@@ -1989,6 +1989,7 @@
 - [Nikhil K.](https://github.com/nk108)
 - [Isterix](https://github.com/Isterix)
 - [John E.](https://github.com/JohnEver2017)
+- [Karol](https://github.com/kaajoj)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
 - [asubedy](https://github.com/asubedy)
