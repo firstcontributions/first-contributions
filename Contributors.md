@@ -1867,6 +1867,7 @@
 - [Puneeth PS](https://github.com/puneethps)
 - [Reniel](https://github.com/ren1el)
 - [Maeve Farrell](https://github.com/maevefarrell)
+- [Suresh Nagulapalli] (https://github.com/sureshnagulapalli)
 - [evanca](https://github.com/evanca)
 - [Tomas Rejhons](https://github.com/tomasrejhons)
 - [AnhHoang](https://github.com/Splroak)
