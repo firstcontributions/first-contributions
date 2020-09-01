@@ -239,6 +239,7 @@
 - [Shashank Gupta](https://github.com/shashankofficialgupta)
 - Octave Kameni
 - Valeriya K
+- [Elior Levi] (https://github.com/elior8900)
 - [Tyler Skulley](https://github.com/tskull01)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
 - [Aleksandar Mitevski](https://github.com/AleksandarMitevski)
