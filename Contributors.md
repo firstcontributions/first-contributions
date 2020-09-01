@@ -2536,6 +2536,7 @@
 - [Sophie Xiao](https://github.com/iosophie)
 - [Josh Hagins](https://github.com/BlitheBacon)
 - [Christopher Walker](https://github.com/chrisashwalker)
+- [Chase Meyer](https://github.com/chase-meyer)
 - [Caleb](https://github.com/ZzRanger)
 - [Sci-Phy](https://github.com/Sci-Phy)
 - [Ryan Redburn](https://github.com/RyanRedburn)
