@@ -19,7 +19,7 @@
 - [Teal Larson](https://github.com/tealjulia)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
-- [Abidzar Muhammad](https://github.com/Abidzar16) 
+- [Abidzar Muhammad](https://github.com/Abidzar16)
 - Ezwald Uzumaki
 - Damola Olutoke
 - [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
@@ -365,6 +365,7 @@
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Anurag Gupta](https://github.com/git-anurag-hub)
 - Mike Porter
+- Emma
 - [Trevor Tang](https://github.com/AwpData)
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
