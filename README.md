@@ -10,7 +10,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
+#### *If you're not comfortable with using command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
 #### *Read this in [other languages](translations/Translations.md).*
 
@@ -78,7 +78,7 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+You can fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
