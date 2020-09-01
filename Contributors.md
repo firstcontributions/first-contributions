@@ -495,6 +495,7 @@
 - [Tarang Singhal](https://github.com/Tarang-singhal)
 - [Jivthesh M R](https://github.com/jivthesh)
 - [Ashutosh Raman](https://github.com/ashutosh0709)
+- [Narasimha Prasanna HN](https://github.com/Narasimha1997)
 - [Dan](https://github.com/dan-mba)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Jarryd Palzenberger](https://github.com/jayp1)
