@@ -1988,6 +1988,7 @@
 - [Shivam Rathore](https://github.com/rathore05)
 - [Alex Florides](https://github.com/Alexf97)
 - [Amanda B](https://github.com/critterconvention)
+- [Nwosa Emeka Afamefuna](https://github.com/NwosaEmeka)
 - [Harsh Prabhu](https://github.com/harsh1599)
 - [Bhavesh Lohana](https://github.com/bhaveshlohana)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
