@@ -3,6 +3,7 @@
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
 - [Someone ] (https://github.com/LearnerSamuelX)
+- [Ishaq Amin(Zack)] (https://github.com/zackhamin)
 - [Gurucharan Chundi] (https://github.com/gurucharan2206)
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Ammar Ahmed]    (https://github.com/ammar629)
