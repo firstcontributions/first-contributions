@@ -3286,6 +3286,7 @@
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
 - [Arun Thakur](https://github.com/chandarunthakur)
+- [Arvindmani](https://github.com/am-acharya)
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Dillon Bendig](https://github.com/dbendig17)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
