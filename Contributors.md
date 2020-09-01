@@ -233,6 +233,7 @@
 - [Aditya Anand](https://github.com/ikshavaku)
 - [Shashank Gupta](https://github.com/shashankofficialgupta)
 - Octave Kameni
+- Valeriya K
 - [Tyler Skulley](https://github.com/tskull01)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
 - [Aleksandar Mitevski](https://github.com/AleksandarMitevski)
