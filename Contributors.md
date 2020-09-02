@@ -10,6 +10,7 @@
 - [Saksham Agarwal] (https://github.com/skhm123)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
+- [John Mathers] (https://github.com/johnmathers)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
