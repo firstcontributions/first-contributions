@@ -291,6 +291,7 @@
 - [Shubham Rampurkar](https://github.com/AltCtrlDel1999)
 - [Ashish Maurya](https://github.com/Ashumaurya)
 - [Yew Kang Wei](https://github.com/yewyewXD)
+- [Joseph Carlyon](https://github.com/jwcarlyon)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
 - [Brian Loveless 👽 🖖](https://github.com/BrianLoveGa)
