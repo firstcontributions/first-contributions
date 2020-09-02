@@ -1441,6 +1441,7 @@
 - [Andrea Grillo](https://github.com/andregri)
 - [Ricardo Patiño](https://github.com/richypati)
 - [Pranav Garg](https://github.com/PranavGarg01/)
+- [Nour Grati] (https://github.com/Nour-Grati)
 - [Michael Cope](https://github.com/Mecope1/)
 - [Chathura Nimesh](https://github.com/kana800)
 - [Kyle Fanner](https://github.com/KyleFanner)
