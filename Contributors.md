@@ -1,8 +1,9 @@
   # Contributors
-  [Amit Kinor](https://github.com/amitkinor))
-  [Javokhir Jurakhodjaev](https://github.com/leader2one)
-  [Nathan Ross](https://github.com/nwross95)
 - [Someone ] (https://github.com/LearnerSamuelX)
+- [Atishaye Jain](https://github.com/atishaye)
+- [Nathan Ross](https://github.com/nwross95)
+- [Amit Kinor](https://github.com/amitkinor))
+- [Javokhir Jurakhodjaev](https://github.com/leader2one)
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
 - [Gurucharan Chundi] (https://github.com/gurucharan2206)
 - [Bolaji Olawale] (https://github.com/bolajixi)
