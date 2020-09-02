@@ -2851,7 +2851,7 @@
 - [Patrick Carty](https://github.com/pcarty92)
 - [Alejandro Marco](https://amisdoinghisbest.com)
 - [Rajarajan Balasubramanian](https://github.com/rajarajanb)
-- [Gal Mizrahi](https://github.com/galm85/)
+- [Gal Mizrahi ](https://github.com/galm85/)
 - [Dominik Petrovic](https://github.com/nixxcode)
 - [Chakradhar Koppula](https://github.com/ckoppula199)
 - [ShatteredTrace](https://github.com/ShatteredTrace)
