@@ -21,6 +21,7 @@
 - [Konrad Hyzy] (http://github.com/knrdhz)
 - [Atinuke kayode] (https://github.com/iambami)
 - [Devansh Shukla] (https://github.com/devansshh)
+- [keer4n](https://github.com/keer4n)
 - [Ásbjörn Skarphéðinsson] (http: //github.com/AsiSkarp)
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Teal Larson](https://github.com/tealjulia)
