@@ -1,4 +1,4 @@
-﻿  # Contributors
+  # Contributors
   [Amit Kinor](https://github.com/amitkinor))
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
@@ -3930,6 +3930,7 @@
 - [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Eric Deering](https://github.com/Strahlend)
+- [Nidhi Zare](https://github.com/nzare)
 - [Rary Gonçalves 👋🏽👨🏽💻](https://github.com/rarygoncalves)
 - [Luke Manzitto](https://github.com/LukeM7)
 - [Lan Tianyou](https://github.com/Lantianyou)
