@@ -1,4 +1,4 @@
-  # Contributors
+﻿  # Contributors
   [Amit Kinor](https://github.com/amitkinor))
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
@@ -12,6 +12,7 @@
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
+- [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
