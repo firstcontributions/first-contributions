@@ -1,12 +1,14 @@
-  # Contributors
-  [Amit Kinor](https://github.com/amitkinor))
-  [Javokhir Jurakhodjaev](https://github.com/leader2one)
-  [Nathan Ross](https://github.com/nwross95)
+# Contributors
+
+[Amit Kinor](https://github.com/amitkinor))
+[Javokhir Jurakhodjaev](https://github.com/leader2one)
+[Nathan Ross](https://github.com/nwross95)
+
 - [Someone ] (https://github.com/LearnerSamuelX)
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
 - [Gurucharan Chundi] (https://github.com/gurucharan2206)
 - [Bolaji Olawale] (https://github.com/bolajixi)
-- [Ammar Ahmed]    (https://github.com/ammar629)
+- [Ammar Ahmed] (https://github.com/ammar629)
 - [Saksham Agarwal] (https://github.com/skhm123)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
@@ -19,6 +21,7 @@
 - [Konrad Hyzy] (http://github.com/knrdhz)
 - [Devansh Shukla] (https://github.com/devansshh)
 - [Ásbjörn Skarphéðinsson] (http: //github.com/AsiSkarp)
+- [Thangadurai Arumugam] (https://github.com/thanga2014)
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Teal Larson](https://github.com/tealjulia)
 - [Jerrick Zhu] (https://github.com/jerrickzhu)
