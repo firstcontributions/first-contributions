@@ -20,6 +20,7 @@
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16) 
 - Ezwald Uzumaki
+- Nava Pudas
 - Damola Olutoke
 - [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
 - [Zack McKenna](https://github.com/zackmckenna)
