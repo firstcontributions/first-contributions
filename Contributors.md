@@ -274,6 +274,7 @@
 - [Guilherme Victor](https://github.com/guivictorr)
 - Lajuan Station
 - Frank F
+- [Alec Chen](https://github.com/alecchendev)
 - [Molly Kizer](https://github.com/LivesInRoom29)
 - Bert
 - Tzach
