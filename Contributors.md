@@ -3,6 +3,7 @@
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
 - [Someone ] (https://github.com/LearnerSamuelX)
+- [Alison] (https://github.com/alisonzhu
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Ammar Ahmed]    (https://github.com/ammar629)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
