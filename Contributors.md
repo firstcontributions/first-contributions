@@ -18,6 +18,7 @@
 - [John Mathers] (https://github.com/johnmathers)
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
+- [Priya Srivastava] (https://github.com/Priya730)
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Adam Gumieniak] (https://github.com/iLooL)
