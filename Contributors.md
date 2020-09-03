@@ -1,6 +1,7 @@
 ﻿  # Contributors
 - [Juliana Alves] (https://github.com/julianafalves)
   [Amit Kinor](https://github.com/amitkinor))
+  [Surya Vamsi](https://github.com/suryavamsi6)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
 - [Someone ] (https://github.com/LearnerSamuelX)
