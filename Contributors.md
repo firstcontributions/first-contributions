@@ -2,6 +2,7 @@
 - [Juliana Alves] (https://github.com/julianafalves)
   [Amit Kinor](https://github.com/amitkinor))
   [Surya Vamsi](https://github.com/suryavamsi6)
+  [James Price](http://github.com/jamesmp88)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
 - [Imran Ahmad](https://github.com/meetimran)
