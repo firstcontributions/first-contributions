@@ -246,6 +246,7 @@
 - Jon Trejo
 - Leda
 - JPalm
+- [Greg Frediani] (https://github.com/gregxd11)
 - [Greg Curl](https://github.com/gacurl)
 - Krystian
 - Ansh Shankar
