@@ -1,4 +1,5 @@
-﻿  # Contributors
+﻿# Contributors
+
 - [Juliana Alves] (https://github.com/julianafalves)
   [Amit Kinor](https://github.com/amitkinor))
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
@@ -7,8 +8,9 @@
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
 - [Gurucharan Chundi] (https://github.com/gurucharan2206)
 - [Bolaji Olawale] (https://github.com/bolajixi)
-- [Ammar Ahmed]    (https://github.com/ammar629)
+- [Ammar Ahmed] (https://github.com/ammar629)
 - [Saksham Agarwal] (https://github.com/skhm123)
+- [Rohith] (https://github.com/killTheDB)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [John Mathers] (https://github.com/johnmathers)
