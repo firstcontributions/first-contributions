@@ -4,6 +4,7 @@
   [Surya Vamsi](https://github.com/suryavamsi6)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
+- [Imran Ahmad](https://github.com/meetimran)
 - [Someone ] (https://github.com/LearnerSamuelX)
 - [Nikola Grujic](https://github.com/nikolatechie)
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
