@@ -1405,6 +1405,7 @@
 - Aditya Shrivastav
 - [Christoph Weise-Onnen](https://github.com/cweise)
 - [Goutami Padmanabhan](https://github.com/goutamiiyer/)
+- [Rafael Rodero](https://github.com/rrodero83/)
 - Costea Ionut-Andrei
 - Mathias
 - alti12
