@@ -372,6 +372,7 @@
 - Deepak Kumar Narayanan
 - Divya Gaurav
 - Pranav Prakhar
+- [David Corner](https://github.com/davidcorner90)
 - Narayan Sharma
 - Chandre Kiran G
 - John Mehta
