@@ -1521,6 +1521,7 @@
 - [Adin Ilfeld](https://github.com/adinilfeld)
 - [Tony Nicola](https://github.com/tdnicola)
 - [viswitha](https://github.com/viswitha)
+- [Simran Anand ](https://github.com/simrananand-2-11)
 - [Nihit Natu](https://github.com/nihit97natu)
 - [Aashita Agarwal]
 - [Robin Sharma](https://github.com/RS-786)
