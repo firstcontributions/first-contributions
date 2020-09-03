@@ -311,6 +311,7 @@
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
 - [Sandra Bohrer](https://github.com/sandrabohrer)
 - [Harshith Venkatesh](https://github.com/Harshi7016)
+- [Tanvee Balhara](https://github.com/tanvee09)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [Bhavik25](https://github.com/bhavik25)
 - [Smriti Rastogi](https://github.com/special-kay)
