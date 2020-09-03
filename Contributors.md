@@ -458,6 +458,7 @@
 - [Harshal Jain](https://github.com/Harshal0506)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
+- 1412
 - [Shipra Verma](https://github.com/Aaishpra)
 - [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
 - [Matt West](https://github.com/MWest352)
