@@ -40,6 +40,7 @@
 - Nava Pudas
 - Damola Olutoke
 - [Rahul Singh] (https://github.com/rsk07)
+- [Arup Sengupta] (https://github.com/arupsengupta)
 - [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
 - [Zack McKenna](https://github.com/zackmckenna)
 - [Zain Jandali](https://github.com/zjandali)
