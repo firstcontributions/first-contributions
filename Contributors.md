@@ -20,6 +20,7 @@
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [Priya Srivastava] (https://github.com/Priya730)
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
+- [Quynh Vo] (https://github.com/quynhhvo)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
