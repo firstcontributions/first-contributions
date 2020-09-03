@@ -153,6 +153,7 @@
 - [Malaika Agrawal]
   Mees
 - [Sasha Badov](https://github.com/sashabadov)
+- [Jubaer](https://github.com/jubaer997)
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
 - [Ken Henkel](https://github.com/KHenkel95)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
