@@ -1967,6 +1967,7 @@
 - [Tristan Mc](https://github.com/T-mclennan)
 - [Vishal Anand](https://github.com/vishalofficial965)
 - [Dugg Antocicco](https://github.com/dantocicco)
+- [Karl Matthes](https://github.com/CarlKarlQarl)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
