@@ -5,6 +5,7 @@
 - [James Price](http://github.com/mnop)
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
 - [Nathan Ross](https://github.com/kokhogo)
+- [Adnan Kabir](https://github.com/aurorage-git)
 - [Imran Ahmad](https://github.com/dokhomokho)
 - [Someone ](https://github.com/alifbatasa)
 - [Nikola Grujic](https://github.com/ekduitin)
