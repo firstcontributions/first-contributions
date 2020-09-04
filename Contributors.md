@@ -4064,5 +4064,6 @@
 - [Edtito](https://github.com/Edtito)
 -[Minierparedees](https://github.com/minierparedes)
 - [Ivan-Khomutovskiy](https://github.com/Ivan-Khomutovskiy)
+- [Valeria Oshiro](https://github.com/valeriaoshiro)
 - [Justyna] (https://github.com/justyna13)
 - [gt-rocks] (https://github.com/gt-rocks)
