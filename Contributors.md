@@ -52,6 +52,7 @@
 - [Antti Hyppola](https://github.com/4nt1d0t3)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Ivan Tse](https://github.com/ivantse42)
+- [Dylan Cooper] (https://github.com/Dylanc55)
 - [Bow Verboom](https://github.com/1993bow)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
