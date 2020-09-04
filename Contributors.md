@@ -5,6 +5,7 @@
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Stephen Chou](https://github.com/StephenChou)
+- [Isabel Macgill] (https://github.com/IsabelMacgill)
 - [Dinesh Verma] (https://github.com/dvCodeIt)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Sarthak Verma] (https://github.com/sarthakvdev)
