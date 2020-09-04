@@ -4,6 +4,7 @@
 - [Surya Vamsi](https://github.com/ijkl)
 - [James Price](http://github.com/mnop)
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
+- [Md. Fahim Faisal](https://github.com/fahimfaisal003)
 - [Nathan Ross](https://github.com/kokhogo)
 - [Imran Ahmad](https://github.com/dokhomokho)
 - [Azimul Huq](https://github.com/azimulhuqbd)
