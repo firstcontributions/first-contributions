@@ -721,6 +721,7 @@
 - Git Goode
 - [George Rod](https://https://github.com/gnrod)
 - Mohan-Cloud
+- [Brage Rosberg](https://github.com/bragerosberg)
 - [Minel Aydın - Minnela :)](https://github.com/minnela)
 - [Jonathan R]
 - David Kwong
