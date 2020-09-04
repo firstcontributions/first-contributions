@@ -49,6 +49,7 @@
 - [Zain Jandali](https://github.com/zjandali)
 - [Nour Khedr](https://github.com/nkhedr1)
 - [Erik B](https://github.com/DeroBee)
+- [Chandra Kiran G](https://github.com/Chandu-4444)
 - Zainab Iftikhar
 - [Antti Hyppola](https://github.com/4nt1d0t3)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
