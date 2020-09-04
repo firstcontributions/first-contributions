@@ -4053,4 +4053,5 @@
 - [Allen J](https://github.com/uuuiii00)
 - [schmelto](https://github.com/schmelto)
 - [Edtito](https://github.com/Edtito)
+-[Minierparedees](https://github.com/minierparedes)
 - [Ivan-Khomutovskiy](https://github.com/Ivan-Khomutovskiy)
