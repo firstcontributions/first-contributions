@@ -192,6 +192,7 @@
 - [Charlotte Guerin](https://github.com/Loliwe)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
+- [Kartik Gupta](https://github.com/beingkartik)
 - [Cassidy McDonnell]
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Louis Bui](https://github.com/longlb)
