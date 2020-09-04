@@ -87,6 +87,7 @@
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Martin Buxmann](https://github.com/BitVivAZ)
 - [Dhruv Rawat](https://github.com/dhruvrawat777)
+- [Yarden Mezi] (https://github.com/yardenmezi)
 - [Eloïse Schmitt](https://github.com/eloiseschmitt)
 - [Bernys-Castillo](https://github.com/Bernys)
 - [Chad Moravec](https://github.com/losmanzanos)
