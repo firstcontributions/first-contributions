@@ -1,4 +1,5 @@
   # Contributors
+- [Nikolaus Koopmann] (https://github.com/PremKolar)
 - [Juliana Alves] (https://github.com/julianafalves)
   [Amit Kinor](https://github.com/amitkinor))
   [Surya Vamsi](https://github.com/suryavamsi6)
