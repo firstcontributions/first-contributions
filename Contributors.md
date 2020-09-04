@@ -11,6 +11,7 @@
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
+- [Rohit Srivastava] (https://github.com/rcoder23)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Adam Gumieniak] (https://github.com/iLooL)
