@@ -3,6 +3,7 @@
 - [Amit Kinor](https://github.com/efgh)
 - [Surya Vamsi](https://github.com/ijkl)
 - [James Price](http://github.com/mnop)
+- [Gazi Md. Shahnewaz](https://github.com/shahnewaztameem)
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
 - [Md. Fahim Faisal](https://github.com/fahimfaisal003)
 - [Nathan Ross](https://github.com/kokhogo)
