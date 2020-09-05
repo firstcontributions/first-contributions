@@ -4038,6 +4038,7 @@
 - [Kauan Rakoski](https://github.com/KauanRakoski)
 - [Mateus Nunes](https://github.com/mateusnssp)
 - [Aditya Thakur](https://github.com/aadi30thakur)
+- [Hugh Sun](https://github.com/wenjunsun)
 - [Chuwei Wang](https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
 - [Mansi Agnihotri](https://github.com/pyprogr)
