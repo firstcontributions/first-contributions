@@ -37,6 +37,7 @@
 - [keer4n](https://github.com/keer4n)
 - [Ásbjörn Skarphéðinsson] (http: //github.com/AsiSkarp)
 - [pranjalshinde](https://github.com/pranjalshinde)
+- [Tomomi Iwamoto] (https://github.com/tomi-design)
 - [Teal Larson](https://github.com/tealjulia)
 - [Jerrick Zhu] (https://github.com/jerrickzhu)
   [PhoeniXP](https://github.com/drkPrince)
