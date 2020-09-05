@@ -205,6 +205,7 @@
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
 - [Kartik Gupta](https://github.com/beingkartik)
+- [Frank Kiibus](https://github.com/Devil-Shinji)
 - [Cassidy McDonnell]
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Louis Bui](https://github.com/longlb)
