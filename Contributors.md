@@ -68,6 +68,7 @@
 - [Akhil Prem](https://github.com/premakhil)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Paridhi Agarwal](https://github.com/paridhi7)
+- [Sahaj Khandelwal](https://github.com/sahven)
 - [Ivan Bula](https://github.com/ibula))
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
