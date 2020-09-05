@@ -360,6 +360,7 @@
 - [Suhana Roshan](https://github.com/suhanar)
 - [Mithra Desinguraj](https://github.com/mithrads)
 - [Shitiz Bansal](https://github.com/shitizbansal)
+- [Rahul Raj](https://github.com/GhostUser)
 - [Fariborz Mirtalebi](https://github.com/sfmirtalebi)
 - [Roman Oravec](https://github.com/roman-oravec)
 - [Lahari Poluparti](https://github.com/LahariPoluparti)
