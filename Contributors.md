@@ -1,4 +1,5 @@
-  # Contributors
+# Contributors
+
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Juliana Alves] (https://github.com/julianafalves)
@@ -16,8 +17,9 @@
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
 - [Gurucharan Chundi] (https://github.com/gurucharan2206)
 - [Bolaji Olawale] (https://github.com/bolajixi)
-- [Ammar Ahmed]    (https://github.com/ammar629)
+- [Ammar Ahmed] (https://github.com/ammar629)
 - [Saksham Agarwal] (https://github.com/skhm123)
+  [Maya Liberman] (https://github.com/mayaliberman)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [John Mathers] (https://github.com/johnmathers)
@@ -4083,8 +4085,7 @@
 - [Luma Rodrigues](https://github.com/luumarodrigues)
 - [Allen J](https://github.com/uuuiii00)
 - [schmelto](https://github.com/schmelto)
-- [Edtito](https://github.com/Edtito)
--[Minierparedees](https://github.com/minierparedes)
+- [Edtito](https://github.com/Edtito) -[Minierparedees](https://github.com/minierparedes)
 - [Ivan-Khomutovskiy](https://github.com/Ivan-Khomutovskiy)
 - [Valeria Oshiro](https://github.com/valeriaoshiro)
 - [Justyna] (https://github.com/justyna13)
