@@ -7,6 +7,7 @@
   [James Price](http://github.com/jamesmp88)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
+  [Yehoshua Kahan](https://github.com/ykahan)
   [Paimo Emmanuel](https://github.com/paimoemmanuel)
 - [Imran Ahmad](https://github.com/meetimran)
 - [Zach Beecher] (https://github.com/ziggity)
