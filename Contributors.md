@@ -4088,5 +4088,6 @@
 - [gt-rocks] (https://github.com/gt-rocks)
 - [Mosiur-rahman] (https://github.com/Mosiur-Rahman-1)
 - [Arpit Srivastava] (https://github.com/arpit03187)
+- [Sonny Michael Wijaya] (https://github.com/isonnymichael)
 - [Arya Soni] (https://github.com/aryasoni98)
 - [Harsh Karande](https://github.com/harshcut)
