@@ -208,6 +208,7 @@
 - [Frank Kiibus](https://github.com/Devil-Shinji)
 - [Cassidy McDonnell]
 - [David Fraser](https://github.com/DavidMatthewFraser)
+- [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
