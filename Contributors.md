@@ -631,6 +631,7 @@
 - [Joem Elias Sanez](https://github.com/israelias)
 - [Andritiana RANDRIANJATOVO](https://github.com/andritianamktech)
 - [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
+- [James Paulinus](https://github.com/jhaymesdev)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
