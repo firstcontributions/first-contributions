@@ -2044,6 +2044,7 @@
 - [Isterix](https://github.com/Isterix)
 - [John E.](https://github.com/JohnEver2017)
 - [Karol](https://github.com/kaajoj)
+- [Haewook Lee](https://github.com/LHW99)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
 - [asubedy](https://github.com/asubedy)
