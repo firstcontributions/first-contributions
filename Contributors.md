@@ -8,6 +8,7 @@
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
 - [Imran Ahmad](https://github.com/meetimran)
+- [Zach Beecher] (https://github.com/ziggity)
 - [Pankaj Anand](https://github.com/pankajanand26/)
 - [Someone ] (https://github.com/LearnerSamuelX)
 - [Someone Else] (https://github.com/weihanchen0725)
