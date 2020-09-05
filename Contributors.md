@@ -76,6 +76,7 @@
 - [Yutong Xiao](https://github.com/YutongXiao)
 - Wimansha Herath
 - Marc Banuls
+- [Shrish Tripathi](https://github.com/shrishtrip)
 - [Akshat Sood](https://github.com/akshatsood2249)
   [Dmitry Vladov](https://github.com/dvladov73)
 - [Kelly Nguyen](https://github.com/yllekn)
