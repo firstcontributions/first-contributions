@@ -4100,5 +4100,6 @@
 - [Sonny Michael Wijaya] (https://github.com/isonnymichael)
 - [Arya Soni] (https://github.com/aryasoni98)
 - [Harsh Karande](https://github.com/harshcut)
+- [Jeff Chang] (https://github.com/brannigan79)
 - [Jojo]
 - [Omar]
