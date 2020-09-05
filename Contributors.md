@@ -301,6 +301,7 @@
 - [Chris C](https://github.com/dlegends)
 - [devoid](https://github.com/devoidarex)
 - [Guilherme Victor](https://github.com/guivictorr)
+- [Evan DeVault](https://github.com/evandevault)
 - Lajuan Station
 - Frank F
 - [Alec Chen](https://github.com/alecchendev)
