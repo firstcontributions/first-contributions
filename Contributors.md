@@ -47,6 +47,7 @@
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
 - [Andrew Hartwell](https://github.com/arhartwe)
+- [Andres Hernandez] (https://github.com/melkyr)
 - Ezwald Uzumaki
 - Nava Pudas
 - Damola Olutoke
