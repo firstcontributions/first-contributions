@@ -5,6 +5,7 @@
 - [James Price](http://github.com/mnop)
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
 - [Md. Fahim Faisal](https://github.com/fahimfaisal003)
+- [Anjar Husain](https://github.com/AnjarHusain)
 - [Nathan Ross](https://github.com/kokhogo)
 - [Imran Ahmad](https://github.com/dokhomokho)
 - [Azimul Huq](https://github.com/azimulhuqbd)
