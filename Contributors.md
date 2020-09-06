@@ -1,4 +1,5 @@
-  # Contributors
+# Contributors
+
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Kabir Dubey](https://github.com/KabirDubey)
@@ -23,7 +24,7 @@
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
 - [Gurucharan Chundi] (https://github.com/gurucharan2206)
 - [Bolaji Olawale] (https://github.com/bolajixi)
-- [Ammar Ahmed]    (https://github.com/ammar629)
+- [Ammar Ahmed] (https://github.com/ammar629)
 - [Saksham Agarwal] (https://github.com/skhm123)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
@@ -2669,6 +2670,7 @@
 - [Barry Cairns](https://github.com/barrycairns)
 - [Efrén Vázquez](https://github.com/efrensho)
 - [Patrick Uzuwe](https://github.com/puzuwe)
+- [Mads Hougesen](https://github.com/Hougesen)
 - [Alex Ceccotti](https://github.com/alex5995)
 - [James Miller](https://github.com/JamesMMiller)
 - [SolalC](https://github.com/SolalC)
@@ -4101,8 +4103,7 @@
 - [Luma Rodrigues](https://github.com/luumarodrigues)
 - [Allen J](https://github.com/uuuiii00)
 - [schmelto](https://github.com/schmelto)
-- [Edtito](https://github.com/Edtito)
--[Minierparedees](https://github.com/minierparedes)
+- [Edtito](https://github.com/Edtito) -[Minierparedees](https://github.com/minierparedes)
 - [Ivan-Khomutovskiy](https://github.com/Ivan-Khomutovskiy)
 - [Valeria Oshiro](https://github.com/valeriaoshiro)
 - [Justyna] (https://github.com/justyna13)
