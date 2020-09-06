@@ -12,6 +12,7 @@
 - [Imran Ahmad](https://github.com/dokhomokho)
 - [Md. Khairul Islam](https://github.com/rabbykhairul)
 - [Masum Billah](https://github.com/masummim50)
+  [Miraz Muhammod](https://github.com/MirazMuhammod)
 - [Azimul Huq](https://github.com/azimulhuqbd)
 - [Someone ](https://github.com/alifbatasa)
 - [J.Islam](https://github.com/J-Islam-Trine)
