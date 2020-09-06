@@ -10,6 +10,7 @@
   [NotMarty05](https://github.com/NotMarty05)
   [Emil Sundqvist](https://github.com/96emisun/)
   [James Price](http://github.com/jamesmp88)
+  [Felix Emt](https://github.com/Zerthz)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
   [Yehoshua Kahan](https://github.com/ykahan)
