@@ -7,6 +7,7 @@
   [Amit Kinor](https://github.com/amitkinor))
   [Surya Vamsi](https://github.com/suryavamsi6)
   [NotMarty05](https://github.com/NotMarty05)
+  [Emil Sundqvist](https://github.com/96emisun/)
   [James Price](http://github.com/jamesmp88)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
