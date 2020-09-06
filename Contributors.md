@@ -93,6 +93,7 @@
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Stephen Chou](https://github.com/StephenChou)
+- [Isabel Macgill](https://github.com/IsabelMacgill)
 - [Narmit Mashruwala](https://github.com/namz11)
 - [Kerin Pithawala] (https://github.com/Kerveyfelix)
 - [Mukesh Suthar](https://github.com/SutharMukesh)
