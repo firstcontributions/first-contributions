@@ -58,6 +58,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez] (https://github.com/melkyr)
 - [WeiHao Kuang](https://github.com/kuangticus)
+- [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
 - Nava Pudas
 - Damola Olutoke
