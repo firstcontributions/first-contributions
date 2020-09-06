@@ -49,6 +49,7 @@
 - [Abidzar Muhammad](https://github.com/Abidzar16)
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez] (https://github.com/melkyr)
+- [WeiHao Kuang](https://github.com/kuangticus)
 - Ezwald Uzumaki
 - Nava Pudas
 - Damola Olutoke
