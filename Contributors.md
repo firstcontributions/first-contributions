@@ -3,6 +3,7 @@
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [Juliana Alves] (https://github.com/julianafalves)
+- [Upamanyu Kaja](https://github.com/upik-98)
   [Amit Kinor](https://github.com/amitkinor))
   [Surya Vamsi](https://github.com/suryavamsi6)
   [James Price](http://github.com/jamesmp88)
