@@ -441,6 +441,7 @@
 - Mike Porter
 - Emma
 - [Trevor Tang](https://github.com/AwpData)
+- [rydcormier](https://github.com/rydcormier)
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Rakesh Jarupula](https://github.com/Rakesh148)
