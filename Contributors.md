@@ -111,6 +111,7 @@
 - [Bernys-Castillo](https://github.com/Bernys)
 - [Chad Moravec](https://github.com/losmanzanos)
 - [Sarthak Verma](https://github.com/sarthakvdev)
+- [Sammy Nyakabau :fire::rocket:](https://github.com/Sammy-Nyakabau)
 - [Mohan Kumar S](https://github.com/Mohan40)
 - [Zechro] (https://github.com/Zechro)
 - [LakshmiNarayanan💻Lana](https://github.com/imlaxman/)
