@@ -29,6 +29,7 @@
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [John Mathers] (https://github.com/johnmathers)
 - [Nathan Geyer] (https://github.com/n8orz)
+- [Hannanel Gershinsky] (https://github.com/hannanel100)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [Priya Srivastava] (https://github.com/Priya730)
 - [Data Khukhua] (https://github.com/DataKhukhua)
