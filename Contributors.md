@@ -4106,6 +4106,7 @@
 - [Arya Soni] (https://github.com/aryasoni98)
 - [Harsh Karande](https://github.com/harshcut)
 - [Jeff Chang] (https://github.com/brannigan79)
+- [Jaspreet Singh Kalsi] (https://github.com/lazySperm)
 - [Jojo]
 - [Omar]
 - [Thierry]
