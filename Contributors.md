@@ -1,4 +1,5 @@
   # Contributors
+- [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
