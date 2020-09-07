@@ -98,6 +98,7 @@
 - Marc Banuls
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Shrish Tripathi](https://github.com/shrishtrip)
+- [Okezie Chiedozie](https://github.com/okezieuc)
 - [Akshat Sood](https://github.com/akshatsood2249)
   [Dmitry Vladov](https://github.com/dvladov73)
 - [Kelly Nguyen](https://github.com/yllekn)
