@@ -2011,6 +2011,7 @@
 - [Dugg Antocicco](https://github.com/dantocicco)
 - [Karl Matthes](https://github.com/CarlKarlQarl)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
+- [chadmuro](https://github.com/chadmuro)
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
