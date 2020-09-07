@@ -8,6 +8,7 @@
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
 - [Md. Fahim Faisal](https://github.com/fahimfaisal003)
 - [Anjar Husain](https://github.com/AnjarHusain)
+- [Omar Mahdi Rafi](https://github.com/missionone-js20)
 - [Nathan Ross](https://github.com/kokhogo)
 - [Adnan Kabir](https://github.com/aurorage-git)
 - [Imran Ahmad](https://github.com/dokhomokho)
