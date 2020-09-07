@@ -8,6 +8,7 @@
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Surya Vamsi](https://github.com/suryavamsi6)
+- [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
 - [Jon Ting](https://github.com/Jon-Ting)
 - [NotMarty05](https://github.com/NotMarty05)
