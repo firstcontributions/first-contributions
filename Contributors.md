@@ -88,6 +88,7 @@
 - [Paridhi Agarwal](https://github.com/paridhi7)
 - [Sahaj Khandelwal](https://github.com/sahven)
 - [Ivan Bula](https://github.com/ibula))
+- [David Pretty](https://github.com/DavidPretty)
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Tim Rehrmann](https://github.com/timrehrmann)
