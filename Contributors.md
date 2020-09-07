@@ -2686,6 +2686,7 @@
 - [Barry Cairns](https://github.com/barrycairns)
 - [Efrén Vázquez](https://github.com/efrensho)
 - [Patrick Uzuwe](https://github.com/puzuwe)
+- [Mads Hougesen](https://github.com/Hougesen)
 - [Alex Ceccotti](https://github.com/alex5995)
 - [James Miller](https://github.com/JamesMMiller)
 - [SolalC](https://github.com/SolalC)
