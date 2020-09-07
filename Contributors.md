@@ -1,4 +1,5 @@
-  # Contributors
+# Contributors
+
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
@@ -1581,6 +1582,7 @@
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Nathan Ormond](https://github.com/NathOrmond)
 - [Mugilan ES](https://github.com/Mugilan-Codes)
+  [Dave Holst](https://github.com/daveholst)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Andrew Reeves](https://github.com/areeves9)
 - [Runyu](https://github.com/runyud)
