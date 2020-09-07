@@ -972,6 +972,7 @@
 - [Aminat Yakubu](https://github.com/giselle2323/)
 - [Eric T.](https://github.com/ejthomp)
 - [Gerald Tay](https://github.com/penguinoob)
+- [Vatsal R](https://github.com/Vatsalr23)
 - [Lakshay Yadav](https://github.com/Lucky0108)
 - [Steve Fossey](https://stevefossey.ca/)
 - [Ivica Pizent](https://github.com/IvicaPizent)
