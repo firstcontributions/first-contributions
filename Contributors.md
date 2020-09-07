@@ -65,6 +65,7 @@
 - Ezwald Uzumaki
 - Nava Pudas
 - Damola Olutoke
+- [Rajan P Upadhyay](https://github.com/rajanpupa)
 - [Rahul Singh] (https://github.com/rsk07)
 - [Arup Sengupta] (https://github.com/arupsengupta)
 - [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
