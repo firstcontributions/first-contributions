@@ -126,7 +126,7 @@ git checkout -b add-alonzo-church
 ## Make necessary changes and commit those changes
 
 <p>Now open `Contributors.md` file in a text editor </p>
-<p><strong>How to open a `.md` file in a text editor </strong> - One way to do this is by using command <strong>'nano Contributors.md'</strong> right in your terminal and adding your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, to save the file press ctrl + o, enter, ctrl + x</p>
+<p><strong>How to open a `.md` file in a text editor in terminal</strong>  One way to do this is by using command <strong>'nano Contributors.md'</strong> right in your terminal and adding your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, to save the file press ctrl + o, enter, ctrl + x</p>
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
