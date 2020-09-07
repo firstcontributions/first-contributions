@@ -8,6 +8,7 @@
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Ammar Ahmed]    (https://github.com/ammar629)
 - [Saksham Agarwal] (https://github.com/skhm123)
+- [Rohit kumar Srivastava] (https://github.com/rcoder23)
 - [Vinay Sarilla] (https://github.com/VinaySarilla)
 - [Daniel Sogbey] (https://github.com/Daniel-Sogbey)
 - [Nathan Geyer] (https://github.com/n8orz)
