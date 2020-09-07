@@ -1,4 +1,4 @@
- # Contributors
+  # Contributors
 - [Juliana Alves](https://github.com/abcd)
 - [Amit Kinor](https://github.com/efgh)
 - [Surya Vamsi](https://github.com/ijkl)
@@ -8,8 +8,8 @@
 - [Javokhir Jurakhodjaev](https://github.com/qrst)
 - [Md. Fahim Faisal](https://github.com/fahimfaisal003)
 - [Anjar Husain](https://github.com/AnjarHusain)
-- [Nathan Ross](https://github.com/kokhogo)
 - [Omar Mahdi Rafi](https://github.com/missionone-js20)
+- [Nathan Ross](https://github.com/kokhogo)
 - [Adnan Kabir](https://github.com/aurorage-git)
 - [Imran Ahmad](https://github.com/dokhomokho)
 - [Md. Khairul Islam](https://github.com/rabbykhairul)
