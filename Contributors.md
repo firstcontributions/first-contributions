@@ -94,6 +94,7 @@
 - [Yutong Xiao](https://github.com/YutongXiao)
 - Wimansha Herath
 - Marc Banuls
+- [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Shrish Tripathi](https://github.com/shrishtrip)
 - [Akshat Sood](https://github.com/akshatsood2249)
   [Dmitry Vladov](https://github.com/dvladov73)
