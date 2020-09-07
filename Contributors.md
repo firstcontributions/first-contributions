@@ -1,4 +1,5 @@
   # Contributors
+- ## Pablo Rosas
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
