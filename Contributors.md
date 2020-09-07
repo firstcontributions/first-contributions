@@ -1693,6 +1693,7 @@
 - [Sergio Peschiera](https://github.com/sergiopg)
 - [Tom Rowbotham](https://github.com/tomrowbo)
 - [Ajit Bhat](https://github.com/abhat3)
+- [Kandice Everett](https://github.com/kandice11)
 - [tlylt](https://github.com/tlylt)
 - [Hainison Dornelas](https://github.com/hainison/)
 - [xavierhazzardadmin](https://github.com/xavierhazzardadmin)
