@@ -11,6 +11,7 @@
   [Surya Vamsi](https://github.com/suryavamsi6)
   [NotMarty05](https://github.com/NotMarty05)
   [Emil Sundqvist](https://github.com/96emisun/)
+  [Akshat Srivastava](https://github.com/akshat-fsociety)
   [James Price](http://github.com/jamesmp88)
   [Felix Emt](https://github.com/Zerthz)
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
