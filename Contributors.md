@@ -1,5 +1,6 @@
   # Contributors
 - [Nikolaus Koopmann](https://github.com/PremKolar)
+- [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
