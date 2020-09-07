@@ -1,5 +1,4 @@
 # Contributors
-
 - [Juliana Alves](https://github.com/abcd)
 - [Amit Kinor](https://github.com/efgh)
 - [Surya Vamsi](https://github.com/ijkl)
@@ -14,13 +13,14 @@
 - [Adnan Kabir](https://github.com/aurorage-git)
 - [Imran Ahmad](https://github.com/dokhomokho)
 - [Md. Khairul Islam](https://github.com/rabbykhairul)
-- [Md. Nazmul Hasan](https://github.com/Prottoy007)
+- [Md. Nazmul Hasan](https://github.com/Prottoy007) 
 - [Masum Billah](https://github.com/masummim50)
   [Miraz Muhammod](https://github.com/MirazMuhammod)
 - [Azimul Huq](https://github.com/azimulhuqbd)
 - [Someone ](https://github.com/alifbatasa)
 - [J.Islam](https://github.com/J-Islam-Trine)
-- [Nikola Grujic](https://github.com/ekduitin) -[Md. Farhan Hamid](https://github.com/fash33)
+- [Nikola Grujic](https://github.com/ekduitin)
+-[Md. Farhan Hamid] (https://github.com/fash33)
 - [Imtiaz Sakib](https://github.com/imtiazsakib)
 - [Nayeem Islam](https://github.com/nayeemaks)
 - [Mizanur Rahman](https://github.com/Mizzan)
