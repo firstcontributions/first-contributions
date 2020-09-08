@@ -792,6 +792,7 @@
 - [Nikolas Haug](https://github.com/nikolas-haug)
 - [Joseph Kwadjo Ampadu](https://github.com/daduam)
 - [Gaurav Sharma](https://github.com/Leovaldez42)
+- [Samadrit Sarkar](https://github.com/samadritsarkar2)
 - [Tullia Glaeser](https://github.com/tamglaeser)
 - Awais
 - [Sampada Kathar](https://github.com/AlacritousCreature)
@@ -1364,6 +1365,7 @@
 - Janitha Missaka
 - Sinclair Guthrie
 - Shantanu Kale(https://github.com/pega-sys)
+- [Matteo Bongiovanni](https://github.com/MatBon01)
 - Anirudh N
 - [Shabunken](https://github.com/shabunken))
 - [Shiva](https://github.com/shivaak)
@@ -2941,6 +2943,7 @@
 - [Oleg Zinin](https://github.com/OlegZinin)
 - [Alvin Tang](https://github.com/alvintang)
 - [Kevin Chen](https://github.com/KeChing)
+- [Surajeet Das](https://github.com/surajeet310)
 - [Ashford Hill](https://github.com/ashfordhill)
 - [Abhinav Gupta](https://github.com/abhinvgupta/)
 - [Vincent Tern](https://github.com/vincenttern)
@@ -4050,6 +4053,7 @@
 - [Jonathan C](https://github.com/JonathanCilley)
 - [Catherine Xiao](https://github.com/cathxiao)
 - [Kamil Stanuch](https://github.com/vero500w)
+- [Shai Malul 👨‍💻](https://https://github.com/shaimalul)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
 - [KamilBlaz](https://github.com/KamilBlaz)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
@@ -4158,3 +4162,4 @@
 - [Ankit Warbhe](https://github.com/ankitwarbhe)
 - [Rem Fields](https://github.com/fromagi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
+- [Nadezhda Schegoleva](https://github.com/SchegolevaNV)
