@@ -1365,6 +1365,7 @@
 - Janitha Missaka
 - Sinclair Guthrie
 - Shantanu Kale(https://github.com/pega-sys)
+- [Matteo Bongiovanni](https://github.com/MatBon01)
 - Anirudh N
 - [Shabunken](https://github.com/shabunken))
 - [Shiva](https://github.com/shivaak)
