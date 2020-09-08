@@ -4109,6 +4109,7 @@
 - [Andrew](https://github.com/andrewpahl1)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Eunchae Jeon](https://github.com/eunchae-jeon)
+- [Hayat Zakaria](https://github.com/hayatzsala)
 - [Abraham John Paul](https://github.com/abraham-john-paul)
 - [Austin Lam](https://github.com/lamaustin68)
 - [Eric Nguyen](https://github.com/EricNguyen-B)
