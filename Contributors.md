@@ -1,5 +1,4 @@
  # Contributors
-- ## Pablo Rosas
 - [YogeshNile](https://github.com/yogeshnile
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
