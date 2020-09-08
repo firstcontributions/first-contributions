@@ -346,6 +346,7 @@
 - [Molly Kizer](https://github.com/LivesInRoom29)
 - Bert
 - Tzach
+- [David Ayang](https://github.com/dayang4321)
 - YangFan
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr] (paper money pilgrim)
