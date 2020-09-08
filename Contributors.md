@@ -4051,6 +4051,7 @@
 - [Jonathan C](https://github.com/JonathanCilley)
 - [Catherine Xiao](https://github.com/cathxiao)
 - [Kamil Stanuch](https://github.com/vero500w)
+- [Shai Malul 👨‍💻](https://https://github.com/shaimalul)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
 - [KamilBlaz](https://github.com/KamilBlaz)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
