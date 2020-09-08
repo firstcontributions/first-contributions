@@ -792,6 +792,7 @@
 - [Nikolas Haug](https://github.com/nikolas-haug)
 - [Joseph Kwadjo Ampadu](https://github.com/daduam)
 - [Gaurav Sharma](https://github.com/Leovaldez42)
+- [Samadrit Sarkar](https://github.com/samadritsarkar2)
 - [Tullia Glaeser](https://github.com/tamglaeser)
 - Awais
 - [Sampada Kathar](https://github.com/AlacritousCreature)
