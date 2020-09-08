@@ -1,8 +1,9 @@
- # Contributors
+# Contributors
 - [YogeshNile](https://github.com/yogeshnile
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
+- [Rohit kumar Srivastava](https://github.com/rcoder23)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [Juliana Alves](https://github.com/julianafalves)
