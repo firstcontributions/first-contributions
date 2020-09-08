@@ -193,6 +193,7 @@
 - [Anurag Dash](https://github.com/dash-anurag)
 - [George Sharpe](https://github.com/SharpeCode57)
 - [Yuvraj Singh](https://github.com/yuvraj2701)
+- [Karan Hotwani]
 - [Daniel Florea](https://github.com/dfloreaa)
 - [Brian Briles](https://github.com/bkbriles)
 - [neckoPecker](https://github.com/neckoPecker)
