@@ -4168,3 +4168,4 @@
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
 - [Nadezhda Schegoleva](https://github.com/SchegolevaNV)
 - [Vitali Holod](https://github.com/VitaliHolod)
+- [Kajal Kare](https://github.com/Kajalkare17)
