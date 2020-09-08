@@ -1,5 +1,5 @@
 # Contributors
-- [YogeshNile](https://github.com/yogeshnile
+- [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
@@ -9,6 +9,7 @@
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Surya Vamsi](https://github.com/suryavamsi6)
+- [Ikeh Akinyemi] (https://github.com/IkehAkinyemi)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
 - [Jon Ting](https://github.com/Jon-Ting)
@@ -55,7 +56,7 @@
 - [Atinuke kayode] (https://github.com/iambami)
 - [Devansh Shukla] (https://github.com/devansshh)
 - [keer4n](https://github.com/keer4n)
-- [Ásbjörn Skarphéðinsson] (http: //github.com/AsiSkarp)
+- [Ásbjörn Skarphéðinsson] (http://github.com/AsiSkarp)
 - [Unggul Hasan (Arjuna Risang)](https://github.com/arjunarisang)
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Tomomi Iwamoto] (https://github.com/tomi-design)
