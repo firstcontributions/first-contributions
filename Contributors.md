@@ -11,6 +11,7 @@
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [William Arthor](https://github.com/narrowsnap)
+- [Rodrigo Oscar Gonzalez](https://github.com/vorenusCoA)
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Garang Thiong](https://github.com/gthiong)
