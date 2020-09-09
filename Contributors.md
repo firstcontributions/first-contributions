@@ -1,11 +1,12 @@
 # Contributors
-- [YogeshNile](https://github.com/yogeshnile
+- [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Steve Bunting](https://github.com/stebunting)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
+- [Jakob Habsburg](https://github.com/JHabsburg)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
