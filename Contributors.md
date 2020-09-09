@@ -3913,6 +3913,7 @@
 - [Abhishek L](https://github.com/Abhishec177)
 - [Sorin Bobocel](https://github.com/sorinbobocel)
 - [Ramon Ferreira](https://github.com/ramonfsk)
+- [virginie 🇫🇷](https://github.com/vifeng)
 - [Han-Chin Shing](https://github.com/sidenver)
 - Douze
 - [PetoriousBIG](https://github.com/PetoriousBIG)
