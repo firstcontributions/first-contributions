@@ -6,6 +6,7 @@
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
 - [Kabir Dubey](https://github.com/KabirDubey)
+- [Rishabh Gupta](https://github.com/ribsh689)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [William Arthor](https://github.com/narrowsnap)
 - [Juliana Alves](https://github.com/julianafalves)
