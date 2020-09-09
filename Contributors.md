@@ -7,6 +7,7 @@
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
+- [William Arthor](https://github.com/narrowsnap)
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Surya Vamsi](https://github.com/suryavamsi6)
