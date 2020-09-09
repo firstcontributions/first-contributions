@@ -27,6 +27,7 @@
 - [YaBoiMikeyP BOIIIIIIIIIIIIIIIIIIIIIIIIII]
 - [Yehoshua Kahan](https://github.com/ykahan)
 - [Paimo Emmanuel](https://github.com/paimoemmanuel)
+- [Yuktha Sri Vennela](https://github.com/yuktha-0044)
 - [Imran Ahmad](https://github.com/meetimran)
 - [Zach Beecher](https://github.com/ziggity)
 - [Akshaya Ravi](https://github.com/Aksh101)
