@@ -130,8 +130,7 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 
 તમે અમારી સ્લેક ટીમને જોડો છો જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો [સ્લેક પે join કરો](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
-હવે તમે અને પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવાનું શરૂ કરો. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ મુદ્દાઓ છે [પ્રોજેક્ટ્સ ની સૂચિ]
-(https://roshanjossey.github.io/first-contributions/#project-list)
+હવે તમે અને પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવાનું શરૂ કરો. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ મુદ્દાઓ છે [પ્રોજેક્ટ્સ ની સૂચિ](https://roshanjossey.github.io/first-contributions/#project-list)
 
 ## અન્ય સાધનોનો ઉપયોગ કરીને ટ્યુટોરીયલ
 
