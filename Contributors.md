@@ -12,6 +12,7 @@
 - [William Arthor](https://github.com/narrowsnap)
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
+- [Garang Thiong](https://github.com/gthiong)
 - [Surya Vamsi](https://github.com/suryavamsi6)
 - [Yash Gupta](https://github.com/yashgupta18)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
