@@ -13,6 +13,7 @@
 - [William Arthor](https://github.com/narrowsnap)
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
+- [Garang Thiong](https://github.com/gthiong)
 - [Surya Vamsi](https://github.com/suryavamsi6)
 - [Yash Gupta](https://github.com/yashgupta18)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
@@ -60,6 +61,7 @@
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
+- [Constantine Melios] (https://github.com/constantineMelios)
 - [Atinuke kayode] (https://github.com/iambami)
 - [Devansh Shukla] (https://github.com/devansshh)
 - [keer4n](https://github.com/keer4n)
@@ -702,6 +704,7 @@
 - [Speedphoenix](https://github.com/Speedphoenix)
 - [Brisibe Joseph](https://github.com/brisibe)
 - [Dickson Uwem](https://github.com/dicksonunique)
+- [Fun Coder]
 - [Endri Celaj](https://github.com/endri2211)
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
   Marco Meinardi
@@ -2220,6 +2223,7 @@
 - [Luis Sánchez](https://github.com/gareffpma)
 - [thojest](https://github.com/thojest)
 - [Gediminas Makutenas](https://github.com/Senatrius)
+- [Miguel Nolasco](https://github.com/manolasco)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin](https://github.com/bogdaner2)
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
@@ -4185,3 +4189,4 @@
 - [Tyrone Jopp](https://github.com/TyroneJopp)
 - [Kaan Sinar](https://github.com/ksinar)
 - [tim-hub](https://tim.bai.uno)
+- [Jason Evans](https://github.com/GrumpyMonk26)
