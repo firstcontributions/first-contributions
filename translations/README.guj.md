@@ -10,12 +10,12 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-જો તમારા કમ્પ્યુટર પર Git નથી, [ તો install કરો](https://help.github.com/articles/set-up-git/)
+જો તમારા કમ્પ્યુટર પર Git નથી, [ તો Git Install કરો](https://help.github.com/articles/set-up-git/)
 
 
 ## રિપોઝીટરીને ફોર્ક
 
-કાંટા (ફોર્ક) બટન પર ક્લિક કરવાથી આ રિપોઝીટરી ફૉર્ક થાય છે, આ તમારા GitHub એકાઉન્ટમાં આ રિપોઝીટરીની એક નકલ (કૉપિ) બનાવશે.
+કાંટા(ફોર્ક) બટન પર ક્લિક કરવાથી આ રિપોઝીટરી ફૉર્ક થાય છે, આ તમારા GitHub એકાઉન્ટમાં આ રિપોઝીટરીની એક નકલ (કૉપિ) બનાવશે.
 
 
 ## રિપોઝીટરી ક્લોન
@@ -56,7 +56,7 @@ cd first-contributions
 ```
 
 
-હવે 'git checkout' command(આદેશ) નો ઉપયોગ કરીને એક નવી શાખા બનાવો. નવી શાખા બનાવવા માટે -b વિકલ્પનો ઉપયોગ થાય છે.
+હવે 'git checkout' command(આદેશ) નો ઉપયોગ કરીને એક નવી શાખા(Branch) બનાવો. નવી શાખા(Branch) બનાવવા માટે -b વિકલ્પનો ઉપયોગ થાય છે.
 
 ```
 git checkout -b <તમારી-શાખા-નામ-ઉમેરો>
@@ -69,7 +69,7 @@ git checkout -b add-alonzo-church
 ```
 
 
-(શાખાના નામમાં 'add' ઉમેરવાની જરૂર નથી, પરંતુ તેમાં શામેલ કરવું યોગ્ય છે કારણ કે આ શાખાનો હેતુ એક નામ છે, જે નામ ઉમેરવાનું છે.)
+(શાખા(Branch)ના નામમાં 'add' ઉમેરવાની જરૂર નથી, પરંતુ તેમાં શામેલ કરવું યોગ્ય છે કારણ કે શાખા(Branch)નો હેતુ એક નામ છે, જે નામ ઉમેરવાનું છે.)
 
 ## આવશ્યક ફેરફારો કરો અને તે ફેરફારોને કમીટ કરો-
 
@@ -79,7 +79,7 @@ git checkout -b add-alonzo-church
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
-જો તમે `git status` નિર્દેશ ચલાવશો, તો તમે કરેલા પરિવર્તન જોઈ શક્શો. તે પરિવર્તન બનાવવામાં આવેલ શાખામાં ઉમેરવા માટે 'git add` કમાન્ડ વાપરો.
+જો તમે `git status` નિર્દેશ ચલાવશો, તો તમે કરેલા પરિવર્તન જોઈ શક્શો. તે પરિવર્તન બનાવવામાં આવેલ શાખા(Branch)માં ઉમેરવા માટે 'git add` કમાન્ડ વાપરો.
 
 
 ```
@@ -105,7 +105,7 @@ git commit -m "Add <તમારુ-નામ> to Contributors list"
 git push origin <તમારી-શાખા-નામ-ઉમેરો>
 ```
 
-`<તમારી-શાખા-નામ-ઉમેરો>` ની જગ્યાએ તમારી શાખાનુ નામ ઉમેરો.
+`<તમારી-શાખા-નામ-ઉમેરો>` ની જગ્યાએ તમારી શાખા(Branch)નુ નામ ઉમેરો.
 
 ## તમારા ફેરફારોના રીવ્યુ માટે સબમિટ કરો
 
@@ -125,10 +125,10 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 અભિનંદન!:tada: તમે હમણાં જ પૂર્ણ કર્યું છે _ફૉર્ક -> ક્લોન -> edit -> PR_ વર્કફ્લો જેનો તમે વારંવાર સહયોગકર્તા (contributor) તરીકે સામનો કરશો!
 
 
-તમારા પ્રથમ યોગદાનની ઉજવણીમાં ઉજવણી કરો અને તમારા મિત્રો સાથે શેર કરો [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને | 
+તમારા પ્રથમ યોગદાનની ઉજવણીમાં ઉજવણી કરો અને તમારા મિત્રો સાથે શેર કરો [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને
 
 
-તમે અમારી સ્લેક ટીમને જોડો છો જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો [સ્લેક પે join કરો](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+તમે અમારી સ્લેક ટીમને જોડો છો જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો [સ્લેક પે join કરો(https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 હવે તમે અને પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવાનું શરૂ કરો. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ મુદ્દાઓ છે [પ્રોજેક્ટ્સ ની સૂચિ]
 (https://roshanjossey.github.io/first-contributions/#project-list)
