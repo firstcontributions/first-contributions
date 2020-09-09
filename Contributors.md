@@ -962,6 +962,7 @@
 - [Chira](https://github.com/chiralevy)
 - [Kuntal GHosh](https://github.com/kuntal-ghosh)
 - [Hope Miller](https://github.com/hmiller3)
+- [Ifrah Vermeer](https://github.com/ifrahv)
 - [Pankaj Khushalani](https://github.com/pk-218)
 - [Luis Holzer](https://github.com/Luis089)
 - [Manzano Akhtar](https://github.com/manzanoakhtar7)
