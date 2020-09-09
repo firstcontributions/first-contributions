@@ -2,6 +2,7 @@
 - [YogeshNile](https://github.com/yogeshnile
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Steve Bunting](https://github.com/stebunting)
+- [Aman Patel](https://github.com/amanptl)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
