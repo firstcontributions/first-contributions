@@ -2220,6 +2220,7 @@
 - [Luis Sánchez](https://github.com/gareffpma)
 - [thojest](https://github.com/thojest)
 - [Gediminas Makutenas](https://github.com/Senatrius)
+- [Miguel Nolasco](https://github.com/manolasco)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin](https://github.com/bogdaner2)
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
