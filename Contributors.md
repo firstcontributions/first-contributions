@@ -1,4 +1,5 @@
 # Contributors
+
 - [YogeshNile](https://github.com/yogeshnile
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Steve Bunting](https://github.com/stebunting)
@@ -417,6 +418,7 @@
 - [Lahari Poluparti](https://github.com/LahariPoluparti)
 - [Abhishek Rathore](https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
+- [Patrick Mackridge](https://github.com/PatrickMackridge)
 - [Sachin Verma](https://github.com/sachincpu)
 - [Ido Elyashar](https://github.com/Idoos)
 - [Neely Mann](https://github.com/NeelyAnne)
