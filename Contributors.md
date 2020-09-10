@@ -1,6 +1,7 @@
 # Contributors
-- [YogeshNile](https://github.com/yogeshnile
+- [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
+- [Arthur Sena](https://github.com/senaarth)
 - [Steve Bunting](https://github.com/stebunting)
 - [Aman Patel](https://github.com/amanptl)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
