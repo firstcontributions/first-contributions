@@ -2541,6 +2541,7 @@
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
 - [Ayush Khandelwal](https://github.com/thegaribguy)
+- [Arpit Trivedi] (https://github.com/Arpit313)
 - [Rocky Liao](https://github.com/SeemsRocky)
 - [Garrett Groce](https://github.com/ggroce)
 - [Saylee Pradhan](https://github.com/sayleepradhan)
