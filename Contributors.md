@@ -34,6 +34,7 @@
 - [Jaikishan Brijwani](https://github.com/ricknjacky)
 - [YaBoiMikeyP BOIIIIIIIIIIIIIIIIIIIIIIIIII]
 - [Yehoshua Kahan](https://github.com/ykahan)
+- [Alberto Zavala](https://github.com/AlbertoZavala)
 - [Paimo Emmanuel](https://github.com/paimoemmanuel)
 - [Yuktha Sri Vennela](https://github.com/yuktha-0044)
 - [Imran Ahmad](https://github.com/meetimran)
