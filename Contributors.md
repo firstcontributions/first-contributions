@@ -4200,3 +4200,4 @@ abc
 - [Kaan Sinar](https://github.com/ksinar)
 - [tim-hub](https://tim.bai.uno)
 - [Jason Evans](https://github.com/GrumpyMonk26)
+- [Maxime Oriol](https://github.com/Maxime-Oriol)
