@@ -1,6 +1,7 @@
 # Contributors
 - [Oguz](https://github.com/oguztecirlioglu)
-- [juliadiaz] (https://github.com/juliadiaz)
+- [juliadiaz](https://github.com/juliadiaz)
+- [Sarvesh Kumar Sharma](https://github.com/shsarv)
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
