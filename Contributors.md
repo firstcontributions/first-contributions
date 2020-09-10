@@ -4142,6 +4142,7 @@ abc
 - [Hugh Sun](https://github.com/wenjunsun)
 - [Chuwei Wang](https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
+- [Danielle Cole](https://github.com/daniellercole)
 - [Mansi Agnihotri](https://github.com/pyprogr)
 - [Jose Osuna](https://github.com/joseosuna-engineer)
 - [Jake Coldbrook](https://github.com/jakeColdbrook)
