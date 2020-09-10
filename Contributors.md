@@ -19,6 +19,7 @@
 - [Surya Vamsi](https://github.com/suryavamsi6)
 - [Sonu kumar kushwaha](https://github.com/flyingsonu122)
 - [Yash Gupta](https://github.com/yashgupta18)
+- [Praveen Kakumanu](https://github.com/praveenkakumanu)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
 - [Jon Ting](https://github.com/Jon-Ting)
