@@ -1,4 +1,6 @@
 # Contributors
+- [Oguz](https://github.com/oguztecirlioglu)
+- [juliadiaz] (https://github.com/juliadiaz)
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
@@ -770,6 +772,7 @@ abc
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - [Jens Kuipers](https://github.com/jens-kuipers/)s
 - [Rushi Vachhani](https://github.com/RushiVachhani)
+- [Sagar Ramlani](https://github.com/Ramlanisagar)
 - [Saurabh Kushwah](https://github.com/saurabh-kushwah)
 - Atia - first OSS contribution Yay!
 - [Jose Sanchez](https://github.com/josemsanchez)
