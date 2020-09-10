@@ -206,6 +206,7 @@ abc
 - [Onkar Singh](https://github.com/Onk-ar)
 - [khalil_shaik](https://github.com/khalil192)
 - [Leon Li](https://github.com/AuxinJeron)
+- [Bertac Severcan](https://github.com/bertacsevercan)
 - [erwin](https://github.com/erwin-1996)
 - [Soha Parasnis](https://github.com/SohaWithAnS)
 - [Satish Muddana](https://github.com/satish-muddana)
