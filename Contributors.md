@@ -5,6 +5,7 @@
 - [Steve Bunting](https://github.com/stebunting)
 - [Aman Patel](https://github.com/amanptl)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
+- [Rohan Sodha](https://github.com/Rohan12152001)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
