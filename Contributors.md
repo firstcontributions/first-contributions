@@ -17,6 +17,7 @@
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Garang Thiong](https://github.com/gthiong)
 - [Surya Vamsi](https://github.com/suryavamsi6)
+- [Sonu kumar kushwaha](https://github.com/flyingsonu122)
 - [Yash Gupta](https://github.com/yashgupta18)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
