@@ -80,7 +80,6 @@
 - [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
 - [Zack McKenna](https://github.com/zackmckenna)
 - [Zain Jandali](https://github.com/zjandali)
-- [Chirag Bansal]
 - [Nour Khedr](https://github.com/nkhedr1)
 - [Erik B](https://github.com/DeroBee)
 - [Chandra Kiran G](https://github.com/Chandu-4444)
@@ -3412,7 +3411,7 @@
 - [Pratik Tiwari](https://github.com/pratiktiwari13)
 - [David Currie](https://github.com/dc27)
 - [Sagar Datta](https://github.com/sagar-datta)
-chirag bansal
+- chirag bansal
 - [LordRegis22](https://github.com/lordregis22)
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
