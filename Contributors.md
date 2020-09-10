@@ -12,6 +12,7 @@
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Surya Vamsi](https://github.com/suryavamsi6)
+- [Sonu kumar kushwaha](https://github.com/flyingsonu122)
 - [Yash Gupta](https://github.com/yashgupta18)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
