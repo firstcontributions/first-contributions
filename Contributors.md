@@ -19,6 +19,7 @@
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
+- [Frida Luz Fernandez](https://github.com/frida-luz)
 - [William Arthor](https://github.com/narrowsnap)
 - [Rodrigo Oscar Gonzalez](https://github.com/vorenusCoA)
 - [Juliana Alves](https://github.com/julianafalves)
