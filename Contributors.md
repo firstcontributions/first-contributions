@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Oguz](https://github.com/oguztecirlioglu)
 - [juliadiaz] (https://github.com/juliadiaz)
 - [NicholasVormack] (https://github.com/NicholasJVormack)
@@ -1071,6 +1071,7 @@ abc
 - [srcme20](https://github.com/srcme20)
 - Austin H.
 - [Ines Romdhani](https://github.com/inesRom)
+- [Olga Kogiou](https://github.com/OlgaKogiou)
 - [Tarun Chauhan](https://github.com/tarunrajput)
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [tozzomat](https://github.com/tozzomat)
