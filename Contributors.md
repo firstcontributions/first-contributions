@@ -4208,6 +4208,7 @@ abc
 - [James Sabel](https://github.com/james-sabel)
 - [Tyrone Jopp](https://github.com/TyroneJopp)
 - [Kaan Sinar](https://github.com/ksinar)
+- [Hrushikesh Das](https://github.com/Rishi-121)
 - [tim-hub](https://tim.bai.uno)
 - [Jason Evans](https://github.com/GrumpyMonk26)
 - [Maxime Oriol](https://github.com/Maxime-Oriol)
