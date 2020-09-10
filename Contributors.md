@@ -74,6 +74,7 @@
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
+- [André Carvalho] (https://github.com/and2carvalho)
 - [Constantine Melios] (https://github.com/constantineMelios)
 - [Atinuke kayode] (https://github.com/iambami)
 - [Devansh Shukla] (https://github.com/devansshh)
