@@ -4206,6 +4206,7 @@ abc
 - [Nadezhda Schegoleva](https://github.com/SchegolevaNV)
 - [Vitali Holod](https://github.com/VitaliHolod)
 - [Kajal Kare](https://github.com/Kajalkare17)
+- [Hrishikesh Malakar](https://github.com/sanutezu123/)
 - [James Sabel](https://github.com/james-sabel)
 - [Tyrone Jopp](https://github.com/TyroneJopp)
 - [Kaan Sinar](https://github.com/ksinar)
