@@ -2887,6 +2887,7 @@
 - [acmsundar](https://github.com/acmsundar)
 - [HarishST](https://github.com/HarishSTOnline)
 - [Kenneth Matuszewski](https://github.com/kmatusze13)
+- [Aaron Paquette](https://github.com/aaron24386)
 - [Lana](https://github.com/lanaabirached)
 - [Lige Williamson](https://github.com/Lige-w)
 - [CarlosOGM](https://github.com/CarlosOGM)
