@@ -6,6 +6,7 @@
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Arthur Sena](https://github.com/senaarth)
+- [Adam Elitzur] (https://github.com/AdamEli)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
 - [Steve Bunting](https://github.com/stebunting)
 - [Aman Patel](https://github.com/amanptl)
