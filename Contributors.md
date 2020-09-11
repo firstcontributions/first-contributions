@@ -25,6 +25,7 @@
 - [Frida Luz Fernandez](https://github.com/frida-luz)
 - [Mikey Kriegel](https:/github.com/mikkrieg)
 - [William Arthor](https://github.com/narrowsnap)
+- [Vishwanathan Raman](https://github.com/datasigntist)
 - [Rodrigo Oscar Gonzalez](https://github.com/vorenusCoA)
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
