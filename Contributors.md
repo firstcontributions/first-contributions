@@ -79,6 +79,7 @@
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
 - [Quynh Vo] (https://github.com/quynhhvo)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
+- [Kajal Jain] (https://github.com/kajaljain0206)
 - [smullle] (https://github.com/Smullle)
 - [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
