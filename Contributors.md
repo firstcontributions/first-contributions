@@ -10,6 +10,7 @@
 - [Arthur Sena](https://github.com/senaarth)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
+- [Christian Paolo Adriano](https://github.com/Aji7)
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
 - [Steve Bunting](https://github.com/stebunting)
