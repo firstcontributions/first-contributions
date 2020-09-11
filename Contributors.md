@@ -6,6 +6,7 @@
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Arthur Sena](https://github.com/senaarth)
+- [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
 - [Steve Bunting](https://github.com/stebunting)
