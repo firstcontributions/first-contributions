@@ -9,6 +9,7 @@
 - [Arthur Sena](https://github.com/senaarth)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
+- [Deepraj Rakshit](https://github.com/DeepNinja07x)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
 - [Steve Bunting](https://github.com/stebunting)
 - [Aman Patel](https://github.com/amanptl)
