@@ -85,6 +85,7 @@
 - [Quynh Vo] (https://github.com/quynhhvo)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Kajal Jain] (https://github.com/kajaljain0206)
+- [Nabil El assal]  (https://github.com/nabil-e)
 - [smullle] (https://github.com/Smullle)
 - [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
