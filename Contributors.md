@@ -1005,6 +1005,7 @@
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
 - Manu Chauhan(https://github.com/MANU-CHAUHAN)
 - Anna
+- Modaser Mojadiddi
 - [MFrJ](https://github.com/mfrj)
 - Brandt C.
 - Katja
