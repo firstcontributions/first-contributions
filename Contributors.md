@@ -23,6 +23,7 @@
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [Frida Luz Fernandez](https://github.com/frida-luz)
+- [Mikey Kriegel](https:/github.com/mikkrieg)
 - [William Arthor](https://github.com/narrowsnap)
 - [Rodrigo Oscar Gonzalez](https://github.com/vorenusCoA)
 - [Juliana Alves](https://github.com/julianafalves)
