@@ -3701,6 +3701,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Nhan Nguyen](https://github.com/nhtnhan)
 - [Ashok Saini](https://github.com/wifineural)
 - [Nate Jones](https://github.com/n09jones)
+- [Justin Hurst](https://github.com/jhurst502)
 - [Aya Khaled](https://github.com/AyaKhaledYousef)
 - [Víctor González](https://github.com/VictorRdz)
 - [Ahmed Abdulkarim](https://github.com/quipcode)
