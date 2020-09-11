@@ -10,10 +10,6 @@
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
-- [Steve Bunting](https://github.com/stebunting)
-- [Aman Patel](https://github.com/amanptl)
-- [Yash Kiran Chitre](https://github.com/yashchitre03)
-- [Rohan Sodha](https://github.com/Rohan12152001)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
@@ -26,6 +22,7 @@
 - [Mikey Kriegel](https:/github.com/mikkrieg)
 - [William Arthor](https://github.com/narrowsnap)
 - [Vishwanathan Raman](https://github.com/datasigntist)
+  [shabeerjan](https://github.com/shabeerjan)
 - [Rodrigo Oscar Gonzalez](https://github.com/vorenusCoA)
 - [Juliana Alves](https://github.com/julianafalves)
 - [Upamanyu Kaja](https://github.com/upik-98)
