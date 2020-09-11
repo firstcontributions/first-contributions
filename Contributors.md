@@ -111,6 +111,7 @@
 - [WeiHao Kuang](https://github.com/kuangticus)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
+-Scott Parker
 - Nava Pudas
 - Damola Olutoke
 - [Rajan P Upadhyay](https://github.com/rajanpupa)
