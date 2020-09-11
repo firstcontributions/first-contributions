@@ -4,6 +4,7 @@
 - [NicholasVormack] (https://github.com/NicholasJVormack)
 - [Vatsal Gupta (vatsuvaksi) (https://github.com/vatsuvaksi)
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
+- [UmmuZurak](https://github.com/UmmuZurak)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Arthur Sena](https://github.com/senaarth)
