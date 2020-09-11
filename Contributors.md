@@ -4225,4 +4225,5 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Jason Evans](https://github.com/GrumpyMonk26)
 - [Maxime Oriol](https://github.com/Maxime-Oriol)
 - [Russell Wong - "RussellE46"]
+- [Julius Calahi](https://github.com/jcalahi)
 - [Pedro Assunção](https://github.com/Pedroassuncao)
