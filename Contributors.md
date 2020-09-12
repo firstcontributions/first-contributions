@@ -24,6 +24,7 @@
 - [Rohan Sodha](https://github.com/Rohan12152001)
 - [Christopher Frost](https://github.com/CWFrost)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
+- [Marco Barrera](https://github.com/marcobarrera)
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
 - [Jakob Habsburg](https://github.com/JHabsburg)
 - [Irza Kamran Khan](https://github.com/irzakamran)
