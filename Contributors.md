@@ -11,6 +11,7 @@
 - [NicholasVormack] (https://github.com/NicholasJVormack)
 - [Vatsal Gupta (vatsuvaksi) (https://github.com/vatsuvaksi)
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
+- [Marc Episcope] (https://github.com/marc633)
 - [UmmuZurak](https://github.com/UmmuZurak)
 - [deecoders](https://github.com/deecoders)
 - [Muhammed Rizal]
