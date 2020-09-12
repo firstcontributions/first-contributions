@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
@@ -129,6 +129,7 @@
 - [AbhishekAgrawal](https://github.com/fazer1929/)
 - [Saksham Singh] (https://github.com/SakshamSingh-v2)
 - [Rafael Holanda](https://github.com/rafaelsholanda)
+- [Aaradhyaa](https://github.com/Aaradhyaa717)
 - [Emre AYDIN](https://github.com/aemreaydin)
 - [Subhadeep Bej](https://github.com/sbhhdp)
 - [Jakub Gawroński](https://github.com/gawronskijakub)
