@@ -22,6 +22,7 @@
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
   [Nikhil Kushwah](https://github.com/limitless-Sky)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
+- [Mohan Sai Teki](https://github.com/MohanSai1997)
 - [Harshit Parakh](https://github.com/Harsh061)
 - [Steve Bunting](https://github.com/stebunting)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
