@@ -10,6 +10,7 @@
 - [Vatsal Gupta (vatsuvaksi) (https://github.com/vatsuvaksi)
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
 - [UmmuZurak](https://github.com/UmmuZurak)
+- [deecoders](https://github.com/deecoders)
 - [Muhammed Rizal]
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
