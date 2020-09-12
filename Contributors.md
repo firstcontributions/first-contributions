@@ -4262,4 +4262,5 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Pedro Assunção](https://github.com/Pedroassuncao)
 - [Steven (Hongrui) Guo](https://github.com/StevenGuo42)
 - [Jack Dong] (https://github.com/dongr0510
+- [Sang Nguyen] (https://github.com/coldskinsnake/)
 - [JMG] (https://github.com/jmgutu/)
