@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [codedevbrad](https://github.com/codedevbrad)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
 - [idan424](https://github.com/idan424)
@@ -17,6 +17,7 @@
 - [Christian Paolo Adriano](https://github.com/Aji7)
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
+- [Harshit Parakh](https://github.com/Harsh061)
 - [Steve Bunting](https://github.com/stebunting)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
 - [Aman Patel](https://github.com/amanptl)
