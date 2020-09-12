@@ -1,6 +1,7 @@
 # Contributors
 - [<3HaveABeautifulDay<3]
 - [codedevbrad](https://github.com/codedevbrad)
+- [Clint James Estal](https://cjestal.com)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
 - [idan424](https://github.com/idan424)
 - [Oguz](https://github.com/oguztecirlioglu)
