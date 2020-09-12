@@ -18,6 +18,7 @@
 - Adam Elitzur
 - [Christian Paolo Adriano](https://github.com/Aji7)
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
+  [Nikhil Kushwah](https://github.com/limitless-Sky)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
 - [Harshit Parakh](https://github.com/Harsh061)
 - [Steve Bunting](https://github.com/stebunting)
