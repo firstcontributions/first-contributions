@@ -19,6 +19,7 @@
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Christian Paolo Adriano](https://github.com/Aji7)
+- [Gautam Prasad](https://github.com/Gautampd73)
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
   [Nikhil Kushwah](https://github.com/limitless-Sky)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
