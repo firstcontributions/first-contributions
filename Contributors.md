@@ -25,6 +25,7 @@
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Christian Paolo Adriano](https://github.com/Aji7)
+- [Rajaonson Harijaona (Manjaka13)](https://github.com/Manjaka13)
 - [Gautam Prasad](https://github.com/Gautampd73)
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
   [Nikhil Kushwah](https://github.com/limitless-Sky)
