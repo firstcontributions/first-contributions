@@ -4225,7 +4225,6 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Eiji Oga](https://github.com/eqj619)
 - [Luma Rodrigues](https://github.com/luumarodrigues)
 - [Allen J](https://github.com/uuuiii00)
-
 - [schmelto](https://github.com/schmelto)
 - [Edtito](https://github.com/Edtito)
 - [Minierparedees](https://github.com/minierparedes)
@@ -4276,3 +4275,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Huiming Qiu](htps://github.com/qiuhuiming)
 - [James Z](https://github.com/jameszimo)
 - [ducatimaus](https://github.com/ducatimaus/)
+- bsdl
