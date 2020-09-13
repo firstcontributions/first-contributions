@@ -36,6 +36,7 @@
 - [Steve Bunting](https://github.com/stebunting)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
 - [Aman Patel](https://github.com/amanptl)
+- [Omar Ahmed Abdullah] (https://github.com/omarahmed98)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
 - [Rohan Sodha](https://github.com/Rohan12152001)
 - [Christopher Frost](https://github.com/CWFrost)
