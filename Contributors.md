@@ -4272,3 +4272,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Sang Nguyen] (https://github.com/coldskinsnake/)
 - [JMG] (https://github.com/jmgutu/)
 - [Aalaa Eid](https://github.com/aalaaeid)
+- [Huiming Qiu](htps://github.com/qiuhuiming)
