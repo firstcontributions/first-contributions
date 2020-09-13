@@ -84,6 +84,7 @@
 - [Someone ](https://github.com/LearnerSamuelX)
 - [Someone Else](https://github.com/weihanchen0725)
 - [Nikola Grujic](https://github.com/nikolatechie)
+- [Rron Kurtishi](https://github.com/RronKurtishi)
 - [Ohad Koren](https://github.com/ohadkoren)
 - [Ishaq Amin(Zack)](https://github.com/zackhamin)
 - [Kshitij Ozarkar](https://github.com/kozarkar)
