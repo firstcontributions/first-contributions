@@ -211,6 +211,7 @@ abc
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Ahmed A](https://github.com/a-s-ahmed)
 - [Rohan Khanna] (https://github.com/krohan100)
+- [Rachid Amri] (https://github.com/Haroldthe24th)
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
