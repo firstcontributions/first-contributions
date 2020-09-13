@@ -4214,7 +4214,8 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Ephraim Atta-Duncan](https://github.com/dephraiim)
 - [songhee](https://github.com/songhee23)
 - [gusanchedev](https://github.com/gustavosanchezgalarza)
-- [Jilvan Cândido](https://github.com/jilvanx)
+- [Jilvan Cândido](https://github.com/jilvanx
+- [Deepak Kumar] (https://github.com/jdideepak)
 - [Salman-4544](https://github.com/Salman-4544)
 - Reecha Khanal
 - [Stijn Lammers](https://github.com/StijnLammers)
