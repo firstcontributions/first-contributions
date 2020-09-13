@@ -17,6 +17,7 @@
 - [Muhammed Rizal]
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
+- [Mayur Giri](https://github.com/Mayur619)
 - [Arthur Sena](https://github.com/senaarth)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
