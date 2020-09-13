@@ -132,6 +132,7 @@
 -Scott Parker
 - Nava Pudas
 - Damola Olutoke
+- James Cunningham
 - [Rajan P Upadhyay](https://github.com/rajanpupa)
 - [Rahul Singh] (https://github.com/rsk07)
 - [Arup Sengupta] (https://github.com/arupsengupta)
