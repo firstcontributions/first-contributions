@@ -19,6 +19,7 @@
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Mayur Giri](https://github.com/Mayur619)
 - [Arthur Sena](https://github.com/senaarth)
+- [Lee Wannacott](https://github.com/LeeWannacott)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Christian Paolo Adriano](https://github.com/Aji7)
