@@ -439,6 +439,7 @@ abc
 - [Joseph Carlyon](https://github.com/jwcarlyon)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
+- [Antoine Flouzat 😃](https://github.com/Antoine-Flo)
 - [Brian Loveless 👽 🖖](https://github.com/BrianLoveGa)
 - [Brandt Campbell](https://github.com/Reboot82)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
