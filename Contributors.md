@@ -1,5 +1,6 @@
 # Contributors
 - [wow that is a big list]
+  Ken Shay 9-14-2020
 - [Helen Cunningham]
 - [Syed Hassan]
 - [<3HaveABeautifulDay<3]
