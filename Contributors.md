@@ -1998,6 +1998,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Takigavin](https://github.com/takigavin)
 - [kryzbone](https://github.com/kryzbone)
 - [Chris Baird](https://github.com/chris-baird)
+- [Pragya Singhal](https://github.com/Pragya568)
 - [expert-geeks](https://github.com/expert-geeks)
 - [pratyush garg](https://github.com/PratyushGarg2222)
 - [Manzoor](https://github.com/manzoormahmood)
