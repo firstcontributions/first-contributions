@@ -1,4 +1,5 @@
 # Contributors
+
 - [wow that is a big list]
 - [<3HaveABeautifulDay<3]
 - [codedevbrad](https://github.com/codedevbrad)
@@ -107,7 +108,7 @@
 - [Quynh Vo] (https://github.com/quynhhvo)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Kajal Jain] (https://github.com/kajaljain0206)
-- [Nabil El assal]  (https://github.com/nabil-e)
+- [Nabil El assal] (https://github.com/nabil-e)
 - [smullle] (https://github.com/Smullle)
 - [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
@@ -134,7 +135,7 @@
 - [WeiHao Kuang](https://github.com/kuangticus)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
--Scott Parker
+  -Scott Parker
 - Nava Pudas
 - Damola Olutoke
 - James Cunningham
@@ -153,7 +154,7 @@
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Ivan Tse](https://github.com/ivantse42)
 - [Dylan Cooper] (https://github.com/Dylanc55)
-abc
+  abc
 - [Bow Verboom](https://github.com/1993bow)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
@@ -750,7 +751,7 @@ abc
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Dheeraj Kotwani](https://github.com/dheerajkotwani)
 - [Ziad Adeela](https://github.com/ziadadeela)
-https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeydabiri)
+  https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeydabiri)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Joshua Fritsch](https://github.com/jfritsch75)
 - [Maryam Yusuf](https://github.com/mharyam)
@@ -4274,6 +4275,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Maxime Oriol](https://github.com/Maxime-Oriol)
 - [Russell Wong - "RussellE46"]
 - [Julius Calahi](https://github.com/jcalahi)
+- [Casey Clingaman](https://github.com/caseycling)
 - [Pedro Assunção](https://github.com/Pedroassuncao)
 - [Steven (Hongrui) Guo](https://github.com/StevenGuo42)
 - [Jack Dong] (https://github.com/dongr0510
