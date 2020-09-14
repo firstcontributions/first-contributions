@@ -191,6 +191,7 @@ abc
 - [Olivia Pyskoty](https:github.com/opyskoty)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
+- [Zavala Matias](https://github.com/chafaina)
 - [Stephen Chou](https://github.com/StephenChou)
 - [Isabel Macgill](https://github.com/IsabelMacgill)
 - [Narmit Mashruwala](https://github.com/namz11)
