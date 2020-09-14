@@ -4293,8 +4293,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
 - [strangeporcupine] (https://github.com/strangeporcupine)
 - [drmikeida] (https://github.com/drmikeida)
--[crettis](https://github.com/crettis)
--[Jixx](https://github.com/jixx)
-
+-[crettis](https://github.com/crettis
+-[Jixx] (https://github.com/jixx)
 
 
