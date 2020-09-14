@@ -4294,3 +4294,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [strangeporcupine] (https://github.com/strangeporcupine)
 - [drmikeida] (https://github.com/drmikeida)
 -[crettis](https://github.com/crettis)
+- [chiogen1](https://github.com/chiogen1/first-contributions/edit/master/Contributors.md)
