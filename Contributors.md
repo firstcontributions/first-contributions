@@ -8,6 +8,7 @@
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
 - [idan424](https://github.com/idan424)
 - [David Montgomery](https://github.com/davymont)
+- [Phillip Johnson](https://github.com/pjdesigns)
 - [Oguz](https://github.com/oguztecirlioglu)
 - [juliadiaz] (https://github.com/juliadiaz)
 - [NicholasVormack] (https://github.com/NicholasJVormack)
