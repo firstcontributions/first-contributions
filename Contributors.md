@@ -74,6 +74,7 @@
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
 - [Jon Ting](https://github.com/Jon-Ting)
+- [Akshat Adsule](https://github.com/AkshatAdsule)
 - [NotMarty05](https://github.com/NotMarty05)
 - [Emil Sundqvist](https://github.com/96emisun/)
 - [Akshat Srivastava](https://github.com/akshat-fsociety)
