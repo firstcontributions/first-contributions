@@ -3907,6 +3907,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [James Hough](https://github.com/jehough)
 - [Sumeet Pol](https://github.com/polsumeet3666)
 - [Fabio Brito](https://github.com/fabiobritoo)
+- [Michael-Silva](https://github.com/MichaelRSilva)
 - [Nihal Mittal](https://github.com/codescientist703)
 - [Arcane Arronax](https://github.com/arcanearronax)
 - [Sarah Easton](https://github.com/nuthatch-s)
