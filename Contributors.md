@@ -1,5 +1,6 @@
 # Contributors
 - [wow that is a big list]
+- [Syed Hassan]
 - [<3HaveABeautifulDay<3]
 - [wahaha](https://github.com/zhiwei-01)
 - [Richard Bailey](https://richardbailey.xyz)
