@@ -2497,6 +2497,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [piter53](https://github.com/piter53)
 - [Ingo Rotzinger](https://github.com/iro1965)
 - [Steven Jiang](https://github.com/xiangj1)
+- [David Angkawijaya](https://github.com/Daw3yz)
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
 - [Brady Haden](https://github.com/bhaden94)
@@ -3821,7 +3822,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - mikrobi
 - [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
-- [Jose Marin](https://github.com/josuamanuel)
+- [Jose Marin](https://github.com/josuamanuel) 
 - [jopaha](https://github.com/jopaha/)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
 - [Ronak Lalwani](https://github.com/ronaklalwanii)
