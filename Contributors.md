@@ -1,6 +1,7 @@
 # Contributors
 - [wow that is a big list]
 - [<3HaveABeautifulDay<3]
+- [miwatso](#)
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
