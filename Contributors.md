@@ -4303,3 +4303,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 -[crettis](https://github.com/crettis)
 - [LeonClancy](https://github.com/LeonClancy)
 - [Ashish Kini](https://github.com/kiniashish)
+- [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
