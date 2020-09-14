@@ -18,6 +18,7 @@
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
 - [Marc Episcope] (https://github.com/marc633)
 - [UmmuZurak](https://github.com/UmmuZurak)
+- [jim0625](https://github.com/jim0625)
 - [deecoders](https://github.com/deecoders)
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
 - [Muhammed Rizal]
