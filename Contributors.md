@@ -397,6 +397,7 @@ abc
 - [Shashank Gupta](https://github.com/shashankofficialgupta)
 - Octave Kameni
 - Valeriya K
+- [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Elior Levi] (https://github.com/elior8900)
 - [Tyler Skulley](https://github.com/tskull01)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
