@@ -301,6 +301,7 @@ abc
 - [SanjayDevTech](https://github.com/SanjayDevTech)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
+- [Reethik Prasad](https://github.com/reethikprasad)
 - [salazar_12](https://github.com/codeSalazar12)
 - [Moronfolu Olufunke](https://github.com/MoeRayo)
 - [oralcagan](https://github.com/oralcagan)
