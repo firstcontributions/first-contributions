@@ -54,6 +54,7 @@
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [Frida Luz Fernandez](https://github.com/frida-luz)
 - [Mikey Kriegel](https:/github.com/mikkrieg)
+- [maya](https:/github.com/)
 - [William Arthor](https://github.com/narrowsnap)
 - [Vishwanathan Raman](https://github.com/datasigntist)
 - [Rodrigo Oscar Gonzalez](https://github.com/vorenusCoA)
