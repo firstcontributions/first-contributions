@@ -115,10 +115,10 @@ Agora vamos começar a contribuir para outros projetos, compilamos uma lista de 
 
 
 
-### [Material Adicional](../additional-material/git_workflow_scenarios/additional-material.md) (Inglês).
+### [Material Adicional](../../additional-material/translations/additional-material.pt_br.md).
 
 ## Tutoriais usando outras ferramentas
-[Voltar a página principal](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+[Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)
 
 ## Autopromoção
  
