@@ -1,5 +1,6 @@
 # Contributors
 - [wow that is a big list]
+- [Still thousands to come]
 - [Syed Hassan]
 - [<3HaveABeautifulDay<3]
 - [wahaha](https://github.com/zhiwei-01)
@@ -8,6 +9,7 @@
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
+- [Rajdeep Majumder](https://github.com/Rajdp07)
 - [Abhinav Gautam]((https://github.com/abhi-uoh)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
 - [idan424](https://github.com/idan424)
