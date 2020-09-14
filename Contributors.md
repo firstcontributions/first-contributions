@@ -170,6 +170,7 @@ abc
 - [Ivan Bula](https://github.com/ibula))
 - [David Pretty](https://github.com/DavidPretty)
 - [Ishan](https://github.com/Ishan-Saini)
+- [trishu](https://github.com/trishu99)
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Tim Rehrmann](https://github.com/timrehrmann)
