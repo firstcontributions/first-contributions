@@ -21,6 +21,7 @@
 - [James Au](https://github.com/jamesaucode)
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
+- [Mani Yaswanth](https://github.com/ManiYaswanth)
 - [Brandon Allen](https://github.com/eldon2)
 - [Cassandra Lee](https://github.com/yieng)
 - [Jordi Hoven](https://github.com/Jordakoes)
