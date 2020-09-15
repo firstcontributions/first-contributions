@@ -1466,6 +1466,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - Shweta Karwa
 - Jeffrey Russell
 - Jacob Beran
+- Nico Cobelo (https://github.com/nicobelo91)
 - [Iago Nunes](https://github.com/iago)
 - [Wai Man Lam](https://github.com/waimanlam2019)
 - aga
