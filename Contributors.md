@@ -14,6 +14,7 @@
 - [Richard Bailey](https://richardbailey.xyz)
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [miwatso](#)
+- [kuldeep_singh]
 - [Jason Weyland] (https://github.com/JWeyland12)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
@@ -1413,7 +1414,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Temilola Aderibigbe](https://github.com/Temilol)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
-- [Joe Vu](https://github.com/coz119) 🤓
+- [Joe Vu](https://github.com/coz119)    
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - [Philip Paul](https://github.com/philippaul1998)
