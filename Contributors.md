@@ -1,10 +1,12 @@
 # Contributors
+
 - [wow that is a big list]
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
 - [Syed Hassan]
 - [pooja kanojia]
+- [Sachin Kumar](https://github.com/toocoolsachin)
 - [<3HaveABeautifulDay<3]
 - [Lucas Deboch] (https://github.com/lucasdeboch)
 - [Shivu D G](https://github.com/Shivz3232)
@@ -71,7 +73,7 @@
 - [Jakob Habsburg](https://github.com/JHabsburg)
 - [Irza Kamran Khan](https://github.com/irzakamran)
 - [Kabir Dubey](https://github.com/KabirDubey)
-- [Anh Nguyen](https://github.com/anhnhnguyen) 
+- [Anh Nguyen](https://github.com/anhnhnguyen)
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [RidhikGovind](https://github.com/RidhikGovind)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
@@ -136,7 +138,7 @@
 - [Quynh Vo] (https://github.com/quynhhvo)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Kajal Jain] (https://github.com/kajaljain0206)
-- [Nabil El assal]  (https://github.com/nabil-e)
+- [Nabil El assal] (https://github.com/nabil-e)
 - [smullle] (https://github.com/Smullle)
 - [Adam Gumieniak] (https://github.com/iLooL)
 - [Alex Slobodyansky] (https://github.com/web2ls)
@@ -163,7 +165,7 @@
 - [WeiHao Kuang](https://github.com/kuangticus)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
--Scott Parker
+  -Scott Parker
 - Nava Pudas
 - Damola Olutoke
 - James Cunningham
@@ -182,7 +184,7 @@
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Ivan Tse](https://github.com/ivantse42)
 - [Dylan Cooper] (https://github.com/Dylanc55)
-abc
+  abc
 - [Bow Verboom](https://github.com/1993bow)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
@@ -196,7 +198,7 @@ abc
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Tim Rehrmann](https://github.com/timrehrmann)
--  Gaet
+- Gaet
 - [Mike Hall] (https://github.com/phoenicisestuans)
 - [Alexander Larbi](https://github.com/alexlarbi)
 - [Yutong Xiao](https://github.com/YutongXiao)
@@ -788,7 +790,7 @@ abc
 - [Mayank Meena](https://github.com/mayank-genesis)
 - [Dheeraj Kotwani](https://github.com/dheerajkotwani)
 - [Ziad Adeela](https://github.com/ziadadeela)
-https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeydabiri)
+  https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeydabiri)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
 - [Joshua Fritsch](https://github.com/jfritsch75)
 - [Maryam Yusuf](https://github.com/mharyam)
@@ -1414,7 +1416,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Temilola Aderibigbe](https://github.com/Temilol)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
-- [Joe Vu](https://github.com/coz119)    
+- [Joe Vu](https://github.com/coz119)
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - [Philip Paul](https://github.com/philippaul1998)
@@ -3863,7 +3865,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - mikrobi
 - [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
-- [Jose Marin](https://github.com/josuamanuel) 
+- [Jose Marin](https://github.com/josuamanuel)
 - [jopaha](https://github.com/jopaha/)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
 - [Ronak Lalwani](https://github.com/ronaklalwanii)
@@ -4331,8 +4333,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [ducatimaus](https://github.com/ducatimaus/)
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
 - [strangeporcupine] (https://github.com/strangeporcupine)
-- [drmikeida] (https://github.com/drmikeida)
--[crettis](https://github.com/crettis)
+- [drmikeida] (https://github.com/drmikeida) -[crettis](https://github.com/crettis)
 - [LeonClancy](https://github.com/LeonClancy)
 - [Ashish Kini](https://github.com/kiniashish)
 - [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
