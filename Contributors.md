@@ -824,6 +824,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - [Godstime Onyibe](https://github.com/Godstyme)
 - [Benjamin Price](https://githib.com/BenjaminDavid0527)
+- [Jasmin Mustafic](https://github.com/dotundefined)
 - [Chris Kang](https://githib.com/brandedcow)
 - Bernard Lucas https://github.com/balucas
 - [Biswas Nandamuri](https://github.com/Biswas-N)
