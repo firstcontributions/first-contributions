@@ -1118,6 +1118,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Lucas Jeske](https://github.com/pljcgm)
 - [Su Willu](https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
+-[Anastasia Mendoza] (https://github.com/anascnm)
 - [Chira](https://github.com/chiralevy)
 - [Kuntal GHosh](https://github.com/kuntal-ghosh)
 - [Hope Miller](https://github.com/hmiller3)
