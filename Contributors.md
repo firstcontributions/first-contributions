@@ -8,6 +8,7 @@
 - [<3HaveABeautifulDay<3]
 - [Lucas Deboch] (https://github.com/lucasdeboch)
 - [Shivu D G](https://github.com/Shivz3232)
+- [Andrew Zajac](hhtps://github.com/ajzajac)
 - [wahaha](https://github.com/zhiwei-01)
 - [Akshay_C](https://github.com/akshay977)
 - [Richard Bailey](https://richardbailey.xyz)
