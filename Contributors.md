@@ -13,6 +13,7 @@
 - [Richard Bailey](https://richardbailey.xyz)
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [miwatso](#)
+- [Jason Weyland] (https://github.com/JWeyland12)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
