@@ -125,6 +125,7 @@
 - [Saksham Agarwal](https://github.com/skhm123)
 - [Vinay Sarilla](https://github.com/VinaySarilla)
 - [Daniel Sogbey](https://github.com/Daniel-Sogbey)
+- [Shuban Jain](https://github.com/sj00coder)
 - [John Mathers](https://github.com/johnmathers)
 - [Nathan Geyer](https://github.com/n8orz)
 - [Hannanel Gershinsky](https://github.com/hannanel100)
