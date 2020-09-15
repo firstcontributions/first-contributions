@@ -62,6 +62,7 @@
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Anh Nguyen](https://github.com/anhnhnguyen) 
 - [Rishabh Gupta](https://github.com/ribsh689)
+- [RidhikGovind](https://github.com/RidhikGovind)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
 - [Frida Luz Fernandez](https://github.com/frida-luz)
 - [Mikey Kriegel](https:/github.com/mikkrieg)
