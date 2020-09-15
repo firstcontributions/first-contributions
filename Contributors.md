@@ -3569,6 +3569,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Dov Edelson](https://github.com/adredelson)
 - [DefinedRisk](https://github.com/definedrisk)
+- [Lin Minmay](https://github.com/mknkmyzk)
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Brian Cariddi](https://github.com/bcariddi)
 - [Collins Thomas](https://github.com/cicerothoma)
