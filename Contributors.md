@@ -59,6 +59,7 @@
 - [Rohan Sodha](https://github.com/Rohan12152001)
 - [Christopher Frost](https://github.com/CWFrost)
 - [YuriBtr] (https://github.com/Yuribtr)
+- [fightthepower](https://github.com/fightthepower)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Marco Barrera](https://github.com/marcobarrera)
 - [Marcu K](https://github.com/wonderingwombat)
