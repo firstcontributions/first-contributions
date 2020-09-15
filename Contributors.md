@@ -8,6 +8,7 @@
 - [wahaha](https://github.com/zhiwei-01)
 - [Richard Bailey](https://richardbailey.xyz)
 - miwatso
+- [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
