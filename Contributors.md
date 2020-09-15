@@ -307,6 +307,7 @@ abc
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Prince Agrawal 💻🚀](https://github.com/princeprojects)
 - [Ashutosh Saxena](https://github.com/ashugit27)
+- [Goodness Chris-Ugari](https://github.com/goodiec)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
