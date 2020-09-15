@@ -416,6 +416,7 @@ abc
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Elior Levi] (https://github.com/elior8900)
 - [Tyler Skulley](https://github.com/tskull01)
+- [Shail Pokharel](https://github.com/pokharelshail)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
 - [Aleksandar Mitevski](https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
