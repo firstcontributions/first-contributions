@@ -27,6 +27,7 @@
 - [jim0625](https://github.com/jim0625)
 - [deecoders](https://github.com/deecoders)
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
+- [Ausaf Ahmed](https://github.com/ausaf-a)
 - [Muhammed Rizal]
 - [Michelle McFarland](https://github.com/mcfarlm3)
 - [YogeshNile](https://github.com/yogeshnile)
