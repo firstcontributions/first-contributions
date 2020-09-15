@@ -6,6 +6,7 @@
 - [<3HaveABeautifulDay<3]
 - [Shivu D G](https://github.com/Shivz3232)
 - [wahaha](https://github.com/zhiwei-01)
+- [Akshay_C](https://github.com/akshay977)
 - [Richard Bailey](https://richardbailey.xyz)
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [miwatso](#)
