@@ -7,6 +7,7 @@
 - [Shivu D G](https://github.com/Shivz3232)
 - [wahaha](https://github.com/zhiwei-01)
 - [Richard Bailey](https://richardbailey.xyz)
+- [Sabokhat Kalandarova](https://github.com/sabohat)
 - [miwatso](#)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
