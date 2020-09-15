@@ -331,6 +331,7 @@ abc
 - [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
 - [SanjayDevTech](https://github.com/SanjayDevTech)
+- [Pradyumna Yadav](https://github.com/pradyyadav)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
 - [Reethik Prasad](https://github.com/reethikprasad)
