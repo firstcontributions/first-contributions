@@ -71,7 +71,7 @@
 - [Jakob Habsburg](https://github.com/JHabsburg)
 - [Irza Kamran Khan](https://github.com/irzakamran)
 - [Kabir Dubey](https://github.com/KabirDubey)
-- [Anh Nguyen](https://github.com/anhnhnguyen) 
+- [Anh Nguyen](https://github.com/anhnhnguyen)
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [RidhikGovind](https://github.com/RidhikGovind)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
@@ -544,6 +544,7 @@ abc
 - [Vineet Bhat](https://github.com/itbhat)
 - danwt
 - Deepak Kumar Narayanan
+- Isabelle Pouget
 - Divya Gaurav
 - Pranav Prakhar
 - Narayan Sharma
@@ -1416,7 +1417,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Temilola Aderibigbe](https://github.com/Temilol)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
-- [Joe Vu](https://github.com/coz119)    
+- [Joe Vu](https://github.com/coz119)
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - [Philip Paul](https://github.com/philippaul1998)
@@ -3865,7 +3866,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - mikrobi
 - [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
-- [Jose Marin](https://github.com/josuamanuel) 
+- [Jose Marin](https://github.com/josuamanuel)
 - [jopaha](https://github.com/jopaha/)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
 - [Ronak Lalwani](https://github.com/ronaklalwanii)
