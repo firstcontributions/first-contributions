@@ -54,6 +54,7 @@
 - [YuriBtr] (https://github.com/Yuribtr)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Marco Barrera](https://github.com/marcobarrera)
+- [Marcu K](https://github.com/wonderingwombat)
 - [Rohit kumar Srivastava](https://github.com/rcoder23)
 - [Jakob Habsburg](https://github.com/JHabsburg)
 - [Irza Kamran Khan](https://github.com/irzakamran)
