@@ -774,6 +774,7 @@ abc
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Jake Schlaerth](https://github.com/jakeschlaerth)
 - [Shashank Verma](https://github.com/Shashank1816)
+- [David Lutta](https://github.com/davidlutta)
 - [Sneha Chattopadhyay](https://github.com/sneha-nitdgp)
 - [Zafir Hasan](https://github.com/zafirhsn)
 - [Mishkin Berteig](https://github.com/MishkinBerteig)
