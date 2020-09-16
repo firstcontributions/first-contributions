@@ -4363,4 +4363,5 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Luc McAuley] (https://github.com/lucmcauley)
 - [Soumik Chaudhuri] (https://github.com/pinkman7009)
 - [Young Ha](https://github.com/yyyoungha)
-- [Oriol Canades] (https://github.com/ocanades)
+- [Oriol Canades](https://github.com/ocanades)
+- [Jared Grimes](https://github.com/devjared1)
