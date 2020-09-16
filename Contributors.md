@@ -4365,3 +4365,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Soumik Chaudhuri] (https://github.com/pinkman7009)
 - [Young Ha](https://github.com/yyyoungha)
 - [Jared Grimes](https://github.com/devjared1)
+- [David Manitarellis](https://github.com/Davidmh93)
