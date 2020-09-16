@@ -104,6 +104,7 @@
 - [Jon Ting](https://github.com/Jon-Ting)
 - [Akshat Adsule](https://github.com/AkshatAdsule)
 - [NotMarty05](https://github.com/NotMarty05)
+- [John Hunter](https://github.com/jhhunter)
 - [Emil Sundqvist](https://github.com/96emisun/)
 - [Akshat Srivastava](https://github.com/akshat-fsociety)
 - [James Price](http://github.com/jamesmp88)
