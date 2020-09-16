@@ -17,6 +17,7 @@
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [miwatso](#)
 - [kuldeep_singh]
+  [Archit Gupta](https://github.com/rarchitgupta)
 - [Abraham Prince](https://github.com/aprince02)
 - [Jason Weyland] (https://github.com/JWeyland12)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
