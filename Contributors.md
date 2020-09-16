@@ -1774,6 +1774,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Chris Arias](https://github.com/ChrisArias-dev)
 - [chrislockard](https://github.com/chrislockard)
 - [Dhafin Razaq](https://github.com/dhafinrazaq)
+- [Dev Dave] (https://github.com/psychicBlue)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Brian McGarry](https://github.com/breenmcgoo)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
@@ -4345,3 +4346,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Ashish Kini](https://github.com/kiniashish)
 - [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
 - [Luc McAuley] (https://github.com/lucmcauley)
+
