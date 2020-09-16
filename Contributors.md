@@ -4227,6 +4227,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Dimas Laksana](https://github.com/dimlaksana)
 - [Aristeidis Fero-Pantidis](https://github.com/fdgenie)
 - [Aryan T R]
+- [Ayush M]
 - [Javi V]
 - [Aditya Kumar Seth](https://github.com/adityatwothree)
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
