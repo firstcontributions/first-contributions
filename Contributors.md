@@ -4361,3 +4361,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
 - [Vito Ghifari](https://github.com/vanadiumOxide)
 - [Luc McAuley] (https://github.com/lucmcauley)
+- [Soumik Chaudhuri] (https://github.com/pinkman7009)
