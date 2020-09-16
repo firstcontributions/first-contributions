@@ -340,6 +340,7 @@ abc
 - [Tanya Garg](http://github.com/tgag17)
 - [dfcsv](https://github.com/dfcsv)
 - [Arushi Sharma](https://github.com/Arushi04)
+- [Arun Kumar Singh](https://github.com/arun-kmr-singh)
 - [Santos Soffli](https://github.com/ssoffli)
 - [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
@@ -4371,3 +4372,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [David Manitarellis](https://github.com/Davidmh93)
 - [Andrew Dinh](https://github.com/quyctd)
 - [Sheetal](https://github.com/Sheetal777)
+
