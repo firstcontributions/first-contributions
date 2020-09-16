@@ -5,6 +5,7 @@
 - [Helen Cunningham]
 - [Another Contributer]
 - [Syed Hassan]
+- [Sample Message]
 - [こんにちは]
 - [pooja kanojia]
 - [<3HaveABeautifulDay<3]
