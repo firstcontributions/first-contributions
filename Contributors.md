@@ -3865,6 +3865,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Rexford Essilfie](https://github.com/RexfordEssilfie)
 - [Nándor Réfi](https://github.com/nandorrefi)
 - [Christine Luo](https://github.com/christinealuo)
+- [Sam Maher](https://github.com/sammaher)
 - [C Lin](https://github.com/chrisflectionlin)
 - [Lilian Costes](https://github.com/Holoule)
 - [CMofjeld](https://github.com/CMofjeld)
