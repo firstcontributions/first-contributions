@@ -22,6 +22,7 @@
   [Archit Gupta](https://github.com/rarchitgupta)
 - [Abraham Prince](https://github.com/aprince02)
 - [Jason Weyland] (https://github.com/JWeyland12)
+- [V01D] (https://github.com/V01D-NULL)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
