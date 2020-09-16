@@ -101,6 +101,7 @@
 - [Emil Sundqvist](https://github.com/96emisun/)
 - [Akshat Srivastava](https://github.com/akshat-fsociety)
 - [James Price](http://github.com/jamesmp88)
+- [Pratik Giramkar](https://github.com/pratikgiramkar1)
 - [Felix Emt](https://github.com/Zerthz)
 - [Javokhir Jurakhodjaev](https://github.com/leader2one)
 - [Nathan Ross](https://github.com/nwross95)
