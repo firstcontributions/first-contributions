@@ -4,6 +4,7 @@
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
+- [Khalid Elmesallamy](https://github.com/Mosallamy)
 - [Another Contributer]
 - [Syed Hassan]
 - [pooja kanojia]
@@ -85,7 +86,7 @@
 - [Jakob Habsburg](https://github.com/JHabsburg)
 - [Irza Kamran Khan](https://github.com/irzakamran)
 - [Kabir Dubey](https://github.com/KabirDubey)
-- [Anh Nguyen](https://github.com/anhnhnguyen) 
+- [Anh Nguyen](https://github.com/anhnhnguyen)
 - [Rishabh Gupta](https://github.com/ribsh689)
 - [RidhikGovind](https://github.com/RidhikGovind)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
@@ -3896,7 +3897,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - mikrobi
 - [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
-- [Jose Marin](https://github.com/josuamanuel) 
+- [Jose Marin](https://github.com/josuamanuel)
 - [jopaha](https://github.com/jopaha/)
 - [Garrett George](https://github.com/garrettmichaelgeorge)
 - [Ronak Lalwani](https://github.com/ronaklalwanii)
