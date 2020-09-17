@@ -22,6 +22,7 @@
 - [Akshay_C](https://github.com/akshay977)
 - [Richard Bailey](https://richardbailey.xyz)
 - [Michelle Sandford](https://github.com/msandfor)
+- [AbbyCha](https://github.com/ChaAbby)
 - [Lorenzo Ippolito]
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
