@@ -13,6 +13,7 @@
 - [Lucas Deboch] (https://github.com/lucasdeboch)
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
+- [@siddharth963](https://github.com/siddharthmagadum16)
 - [Andrew Zajac](hhtps://github.com/ajzajac)
 - [wahaha](https://github.com/zhiwei-01)
 - [Akshay_C](https://github.com/akshay977)
