@@ -24,6 +24,7 @@
   [Archit Gupta](https://github.com/rarchitgupta)
   [Irwanto Cia](https://github.com/irwantocia)
 - [Abraham Prince](https://github.com/aprince02)
+- [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jason Weyland] (https://github.com/JWeyland12)
 - [V01D] (https://github.com/V01D-NULL)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
