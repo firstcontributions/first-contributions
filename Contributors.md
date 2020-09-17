@@ -15,6 +15,7 @@
 - [Andrew Zajac](hhtps://github.com/ajzajac)
 - [wahaha](https://github.com/zhiwei-01)
 - [Akshay_C](https://github.com/akshay977)
+- [Nirmal Silwal](https://github.com/NirmalSilwal) 
 - [Richard Bailey](https://richardbailey.xyz)
 - [Michelle Sandford](https://github.com/msandfor)
 - [Lorenzo Ippolito]
