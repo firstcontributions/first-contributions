@@ -3735,6 +3735,7 @@
 - [Andy Wei](https://github.com/AndrewWei-Colosseum)
 - [Subash Sreeram](https://github.com/sreesub)
 - [Polly Sutcliffe](https://github.com/pollyj)
+- [Daniel Volosov](https://github.com/danielvolosov)
 - [Katie Gu](https://github.com/katie-gu)
 - [Yuhe Tang](https://github.com/dondon1993)
 - [Elias Nordlinder](https://github.com/EliasNo)
