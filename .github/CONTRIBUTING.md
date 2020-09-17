@@ -16,6 +16,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.mr.md">मराठी</a>
         </td>	
+	<td>
+           <a href="../translations/README.cg.md">छत्तीसगढ़ी</a>
+        </td>    
         <td>
            <a href="../translations/README.mm_unicode.md">မြန်မာ</a>
         </td>
@@ -39,6 +42,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />
         </td>
+	<td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />
+        </td>        
         <td>
             <img width="100" src="https://avatars0.githubusercontent.com/u/13135332?s=460&v=4" alt="@lwinkyawmyat" />
         </td>
