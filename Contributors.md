@@ -3396,6 +3396,7 @@
 - [CeciliaP.](https://github.com/ceci99pb)
 - [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
+- [Ben Davis](https://github.com/bdavs3)
 - [jSprute](https://github.com/jsprute)
 - [ss-won](https://github.com/ss-won)
 - [Raissa](https://github.com/rraissa)
