@@ -19,6 +19,7 @@
 - [Michelle Sandford](https://github.com/msandfor)
 - [Lorenzo Ippolito]
 - [Sabokhat Kalandarova](https://github.com/sabohat)
+- [Reinaldo Araujo](https://github.com/reinaldocomputer/)
 - [miwatso](#)
 - [kuldeep_singh]
   [Archit Gupta](https://github.com/rarchitgupta)
