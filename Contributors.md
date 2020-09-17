@@ -1390,6 +1390,7 @@
 - [Jeremy Moudy](https://github.com/j-moudy)
 - [Dhruv Sachdev](https://github.com/Dhruv-Sachdev)
 - [wilsoncode](https://github.com/wilsoncode)
+- [Shinigami]
 - [Mihir Rane](https://github.com/ranemihir)
 - [Nirbhay Singhttps://github.com/ketangupta34/first-contributionsh](https://github.com/Nirbhay007)
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
