@@ -43,7 +43,7 @@ If you're making changes to a translation, please request a review from our prev
             <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />
         </td>
 	<td>
-		<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav">
+		<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />
 	</td>	
         <td>
             <img width="100" src="https://avatars0.githubusercontent.com/u/13135332?s=460&v=4" alt="@lwinkyawmyat" />
