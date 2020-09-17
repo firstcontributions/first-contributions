@@ -2,6 +2,7 @@
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
+- [Suyash Bhadani]
 - [Another Contributer]
 - [Syed Hassan]
 - [こんにちは]
