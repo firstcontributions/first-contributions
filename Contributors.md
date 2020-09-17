@@ -6,6 +6,7 @@
 - [Syed Hassan]
 - [こんにちは]
 - [Test]
+- [Amr Abedo] (https://github.com/mouraaa)
 - [Matt Westbrook] (https://github.com/mattgw10)
   [Hopper Kremer] (https://github.com/HopperKremer)
 - [pooja kanojia]
