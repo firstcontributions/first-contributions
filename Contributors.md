@@ -56,6 +56,7 @@
 - [Lee Wannacott](https://github.com/LeeWannacott)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
+- [Vijay Yevatkar]
 - [Anicet Nougaret](https://github.com/AnicetNgrt)
 - [Christian Paolo Adriano](https://github.com/Aji7)
 - [Rajaonson Harijaona (Manjaka13)](https://github.com/Manjaka13)
