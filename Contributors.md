@@ -26,6 +26,7 @@
 - [Abraham Prince](https://github.com/aprince02)
 - [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jason Weyland] (https://github.com/JWeyland12)
+- [Lebohang Kuenane] (https://github.com/kuenane)
 - [V01D] (https://github.com/V01D-NULL)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
