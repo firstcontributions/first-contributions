@@ -32,6 +32,7 @@
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
+- [Rajdeep Majumder](https://github.com/Rajdp07)
 - [Abhinav Gautam]((https://github.com/abhi-uoh)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
 - [idan424](https://github.com/idan424)
