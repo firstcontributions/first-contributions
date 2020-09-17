@@ -4372,6 +4372,7 @@
 - [ducatimaus](https://github.com/ducatimaus/)
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
 - [strangeporcupine] (https://github.com/strangeporcupine)
+- [Sarthak Agrawal](https://github.com/sarthakagrawal927)
 - [drmikeida](https://github.com/drmikeida)
 - [crettis](https://github.com/crettis)
 - [LeonClancy](https://github.com/LeonClancy)
