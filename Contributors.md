@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
@@ -197,6 +198,7 @@
 - Nava Pudas
 - Damola Olutoke
 - James Cunningham
+- [Proggreg](https://github.com/proggreg)
 - [Rajan P Upadhyay](https://github.com/rajanpupa)
 - [Rahul Singh] (https://github.com/rsk07)
 - [Arup Sengupta] (https://github.com/arupsengupta)
@@ -410,8 +412,7 @@
 - [Mohit Kumar]
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
-- [Ayoub El Hayat](https://github.com/ser14joker)
--[Mohini Mahato](https://github.com/Mohini0104)
+- [Ayoub El Hayat](https://github.com/ser14joker) -[Mohini Mahato](https://github.com/Mohini0104)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
