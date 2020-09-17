@@ -858,6 +858,7 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [Javier Feliu](https://github.com/wanderindev)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
+- radekcz
 - jamose0
 - 8Dion8
 - ergm
