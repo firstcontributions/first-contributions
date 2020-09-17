@@ -214,6 +214,7 @@
 - [Ivan Bula](https://github.com/ibula))
 - [David Pretty](https://github.com/DavidPretty)
 - [Ishan](https://github.com/Ishan-Saini)
+- [trishu](https://github.com/trishu99)
 - [Aarish Alam](https://github.com/RheagalFire)
 - [Cem Ulus](https://github.com/cemulus)
 - [Tim Rehrmann](https://github.com/timrehrmann)
@@ -469,6 +470,7 @@
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
 - [Charan🚀 Teja✨](https://github.com/lcharanteja)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
+- [trishu](https://github.com/trishu99)
 - [raw-ash](https://github.com/raw-ash)
 - [Lidia Paruzel]
 - [JungMin O](https://github.com/owjs3901/first-contributions)
