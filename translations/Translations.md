@@ -6,7 +6,9 @@
 | 🇮🇳 | [हिन्दी](README.hi.md) |
 | 🇮🇳 | [मराठी](README.mr.md) |
 | 🇮🇳 | [മലയാളം](README.ml.md) |
+| 🇮🇳 | [ಕನ್ನಡ](README.ka.md) |
 | 🇮🇳 | [తెలుగు](README.te.md) |
+| 🇮🇳 | [छत्तीसगढ़ी](README.cg.md) |
 | 🇮🇳 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇮🇳 🇱🇰 | [தமிழ்](README.ta.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
@@ -16,9 +18,9 @@
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
-| 🇧🇬 | [Bulgarian](translations/README.bg.md) |
+| 🇧🇬 | [Bulgarian](README.bg.md) |
 | 🇲🇰 | [Македонски](README.mk.md) |
-| 🇭🇺 | [Magyar](translations/README.hu.md) |
+| 🇭🇺 | [Magyar](README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
@@ -56,4 +58,9 @@
 | 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
 | 🇰🇪 | [Kiswahili (Kenya)](README.kws.md) |
+| 🇬🇪 | [ქართული](README.ge.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
+| 🇫🇮 | [Suomeksi](README.fi.md) |
+| 🇲🇽 | [Mexico](README.mx.md) |
+| 🇸🇷 | [Suriname](README.sr.md) |
+| 🇱🇻 | [Latvia](README.lv.md) |
