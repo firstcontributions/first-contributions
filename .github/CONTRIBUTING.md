@@ -68,6 +68,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/bantya">bantya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
         </td>
+	<td>
+            <a href="https://github.com/pradyyadav">pradyyadav</a>
+        </td>    
         <td>
             <a href="https://github.com/lwinkyawmyat">lwinkyawmyat</a>
         </td>
