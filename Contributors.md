@@ -74,6 +74,7 @@
 - [Tomasz Pastusiak](https://github.com/tomxey)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
 - [Aman Patel](https://github.com/amanptl)
+- [Ayush Kumar](https://github.com/ayushkumar121)
 - [Omar Ahmed Abdullah] (https://github.com/omarahmed98)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
 - [Rohan Sodha](https://github.com/Rohan12152001)
