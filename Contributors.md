@@ -1,5 +1,4 @@
 # Contributors
-- [meyerv]
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
@@ -4278,6 +4277,7 @@
 - [passerby223](https://github.com/passerby223)
 - [Kauan Rakoski](https://github.com/KauanRakoski)
 - [Mateus Nunes](https://github.com/mateusnssp)
+  Chris Whiting
 - [Aditya Thakur](https://github.com/aadi30thakur)
 - [Hugh Sun](https://github.com/wenjunsun)
 - [Chuwei Wang](https://github.com/softwareX4)
