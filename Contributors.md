@@ -2151,6 +2151,7 @@
 - [Maeve Farrell](https://github.com/maevefarrell)
 - [Suresh Nagulapalli] (https://github.com/sureshnagulapalli)
 - [evanca](https://github.com/evanca)
+- [Chris Pinkney](https://github.com/chrispinkney)
 - [Tomas Rejhons](https://github.com/tomasrejhons)
 - [AnhHoang](https://github.com/Splroak)
 - [Shubham Atlani](https://github.com/shubhamatlani)
