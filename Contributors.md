@@ -173,6 +173,7 @@
 - [Jerrick Zhu] (https://github.com/jerrickzhu)
   [PhoeniXP](https://github.com/drkPrince)
   [Ujjwal Goyal](https://github.com/importhuman)
+  [Saikat Karmakar](https://github.com/Aviksaikat)
 - [Ben Sultan] (http://github.com/bensultan1985)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
