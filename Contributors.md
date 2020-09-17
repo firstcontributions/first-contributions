@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
@@ -57,6 +58,7 @@
 - [Ausaf Ahmed](https://github.com/ausaf-a)
 - [Muhammed Rizal]
 - [C5m7b4](https://github.com/C5m7b4)
+- [Alex Langsam](https://github.com/Alangsam)
 - [Michelle McFarland](https://github.com/mcfarlm3)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
@@ -66,6 +68,7 @@
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Vijay Yevatkar]
+- [Alex Langsam](https://github.com/Alangsam)
 - [Anicet Nougaret](https://github.com/AnicetNgrt)
 - [Christian Paolo Adriano](https://github.com/Aji7)
 - [Rajaonson Harijaona (Manjaka13)](https://github.com/Manjaka13)
@@ -408,8 +411,7 @@
 - [Mohit Kumar]
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
-- [Ayoub El Hayat](https://github.com/ser14joker)
--[Mohini Mahato](https://github.com/Mohini0104)
+- [Ayoub El Hayat](https://github.com/ser14joker) -[Mohini Mahato](https://github.com/Mohini0104)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
