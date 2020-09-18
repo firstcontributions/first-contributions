@@ -17,6 +17,7 @@
 - [<3HaveABeautifulDay<3]
 - [Akshit Soneji] (https://github.com/AKSHIT989)
 - [Lucas Deboch] (https://github.com/lucasdeboch)
+- [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
 - [Andrew Zajac](hhtps://github.com/ajzajac)
