@@ -25,6 +25,7 @@
 - [wahaha](https://github.com/zhiwei-01)
 - [Akshay_C](https://github.com/akshay977)
 - [Richard Bailey](https://richardbailey.xyz)
+- [Archi Aggarwal]
 - [Michelle Sandford](https://github.com/msandfor)
 - [AbbyCha](https://github.com/ChaAbby)
 - [Lorenzo Ippolito]
