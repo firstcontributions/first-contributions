@@ -386,6 +386,7 @@
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
+- [Amruta Koshe](https://github.com/AmrutaKoshe)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
 - [Chase Ashby](https://github.com/Chasertx)
