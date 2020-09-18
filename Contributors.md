@@ -1,5 +1,4 @@
-﻿# Contributors
-
+# Contributors
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
@@ -75,6 +74,7 @@
 - [Lee Wannacott](https://github.com/LeeWannacott)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
+- Patrick jeeva(https://github.com/patrickjeeva)
 - [Vijay Yevatkar]
 - [Anicet Nougaret](https://github.com/AnicetNgrt)
 - [Christian Paolo Adriano](https://github.com/Aji7)
