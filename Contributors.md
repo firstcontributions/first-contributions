@@ -4420,6 +4420,7 @@
 - [James Z](https://github.com/jameszimo)
 - [ducatimaus](https://github.com/ducatimaus/)
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
+- [2434nijisanji](https://github.com/2434nijisanji)
 - [Terry910201](https://github.com/Terry910201)
 - [kaoian123](https://github.com/kaoian123)
 - [chiogen1](https://github.com/chiogen1/first-contributions/edit/master/Contributors.md)
