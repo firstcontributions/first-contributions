@@ -3046,6 +3046,7 @@
 - [Fabian Mesias](https://github.com/ifmr24)
 - [Devon Lewis](https://github.com/ayodlo)
 - [ThankGod Ofurum](https://github.com/tcofurum)
+- [Jones R. Bezerra](https://github.com/johny22)
 - [Ross Wilkinson](https://github.com/rgwilkin)
 - [Luke Wilkinson](https://github.com/userLuke)
 - [michaelrdt](https://github.com/MichaelRDT)
