@@ -1,4 +1,5 @@
 # Contributors
+
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile
 - [Hari Kumar]
@@ -36,7 +37,7 @@
 - [Andrew Zajac](hhtps://github.com/ajzajac)
 - [wahaha](https://github.com/zhiwei-01)
 - [Akshay_C](https://github.com/akshay977)
-- [Nirmal Silwal](https://github.com/NirmalSilwal) 
+- [Nirmal Silwal](https://github.com/NirmalSilwal)
 - [Richard Bailey](https://richardbailey.xyz)
 - [Archi Aggarwal]
 - [Michelle Sandford](https://github.com/msandfor)
@@ -620,8 +621,7 @@
 - [Azibodusi Osain](https://github.com/osain-az)
 - [Shikha Bhat](https://github.com/shikha-16)
 - [Miha Lebaric](https://github.com/smehko)
-- [Vineet Bhat](https://github.com/itbhat)
- -[shirly lee]((https://github.com/Shirly0723)
+- [Vineet Bhat](https://github.com/itbhat) -[shirly lee]((https://github.com/Shirly0723)
 - Deepak Kumar Narayanan
 - Isabelle Pouget
 - Divya Gaurav
@@ -4479,3 +4479,4 @@
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
 - [Eric Eric]
+- [Joshua Hew](https://github.com/CSugarPrince)
