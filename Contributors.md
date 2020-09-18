@@ -38,6 +38,7 @@
   [Archit Gupta](https://github.com/rarchitgupta)
   [Irwanto Cia](https://github.com/irwantocia)
 - [Abraham Prince](https://github.com/aprince02)
+- [Reinis Rozensteins](https://github.com/reinitto)
 - [Kartik Shukla](https://github.com/kartiks-21)
 - [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jason Weyland] (https://github.com/JWeyland12)
@@ -421,7 +422,8 @@
 - [Mohit Kumar]
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
-- [Ayoub El Hayat](https://github.com/ser14joker) -[Mohini Mahato](https://github.com/Mohini0104)
+- [Ayoub El Hayat](https://github.com/ser14joker)
+- [Mohini Mahato](https://github.com/Mohini0104)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
@@ -4416,6 +4418,8 @@
 - [David Manitarellis](https://github.com/Davidmh93)
 - [Andrew Dinh](https://github.com/quyctd)
 - [Sheetal](https://github.com/Sheetal777)
+- [Evan Stocker](https://github.com/evanstocker)
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
 - [Eric Eric]
+
