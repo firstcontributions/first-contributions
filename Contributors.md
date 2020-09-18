@@ -217,6 +217,7 @@
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
   -Scott Parker
+- [Jay Stag](https://github.com/JayStag)
 - Nava Pudas
 - Damola Olutoke
 - James Cunningham
