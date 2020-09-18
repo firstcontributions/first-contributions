@@ -31,6 +31,7 @@
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
 - [miwatso](#)
+- [Osman Kamara](https://github.com/osmankbk)
 - [kuldeep_singh]
   [Archit Gupta](https://github.com/rarchitgupta)
   [Irwanto Cia](https://github.com/irwantocia)
