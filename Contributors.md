@@ -4419,6 +4419,7 @@
 - [Huiming Qiu](htps://github.com/qiuhuiming)
 - [James Z](https://github.com/jameszimo)
 - [ducatimaus](https://github.com/ducatimaus/)
+- bsdl
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
 - [LingCH0918](https://github.com/LingCH0918)
 - [Jixx](https://github.com/jixx)
