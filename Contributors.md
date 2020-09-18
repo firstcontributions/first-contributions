@@ -4420,6 +4420,7 @@
 - [James Z](https://github.com/jameszimo)
 - [ducatimaus](https://github.com/ducatimaus/)
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
+- [chiogen1](https://github.com/chiogen1/first-contributions/edit/master/Contributors.md)
 - [yang-ya-chu](https://github.com/Yang-ya-chu)
 - [Sayahitomi](https://github.com/Sayahitomi)
 - [Liao-yalin](https://github.com/Liao-yalin)
