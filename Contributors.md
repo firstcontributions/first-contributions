@@ -1,18 +1,24 @@
 # Contributors
+- [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
+- [Ritwik Singh]
+- [Suyash Bhadani]
 - [Another Contributer]
 - [Syed Hassan]
 - [こんにちは]
 - [Test]
+- [Claudia Matsiaze]
 - [Amr Abedo] (https://github.com/mouraaa)
 - [Matt Westbrook] (https://github.com/mattgw10)
   [Hopper Kremer] (https://github.com/HopperKremer)
 - [pooja kanojia]
+- [Yash Ramchandani] (https://github.com/yashr921)
 - [<3HaveABeautifulDay<3]
 - [Akshit Soneji] (https://github.com/AKSHIT989)
 - [Lucas Deboch] (https://github.com/lucasdeboch)
+- [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
 - [Andrew Zajac](hhtps://github.com/ajzajac)
@@ -20,10 +26,12 @@
 - [Akshay_C](https://github.com/akshay977)
 - [Richard Bailey](https://richardbailey.xyz)
 - [Michelle Sandford](https://github.com/msandfor)
+- [AbbyCha](https://github.com/ChaAbby)
 - [Lorenzo Ippolito]
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
 - [miwatso](#)
+- [Osman Kamara](https://github.com/osmankbk)
 - [kuldeep_singh]
   [Archit Gupta](https://github.com/rarchitgupta)
   [Irwanto Cia](https://github.com/irwantocia)
@@ -140,6 +148,7 @@
 - [Nikola Grujic](https://github.com/nikolatechie)
 - [Ohad Koren](https://github.com/ohadkoren)
 - [Pranay Harjai](https://github.com/pranayharjai7)
+- [Kitti Wateesatogkij](https://github.com/lgmcben)
 - [Ishaq Amin(Zack)](https://github.com/zackhamin)
 - [Kshitij Ozarkar](https://github.com/kozarkar)
 - [Gurucharan Chundi](https://github.com/gurucharan2206)
@@ -212,6 +221,7 @@
 - [Dylan Cooper] (https://github.com/Dylanc55)
   abc
 - [Bow Verboom](https://github.com/1993bow)
+  [Amando Jimenez](https://github.com/Amandoj)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Akhil Prem](https://github.com/premakhil)
@@ -382,6 +392,7 @@
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
+- [Amruta Koshe](https://github.com/AmrutaKoshe)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
 - [Chase Ashby](https://github.com/Chasertx)
@@ -418,6 +429,7 @@
 - [Prateek Shetty](https://github.com/brucewayne-07)
 - [Saidas S R](https://github.com/srsaidas)
 - [Tom Hayton](https://github.com/TGH37)
+- [Pgh Developer](https://github.com/pghdeveloper)
 - [Ehsun Amanolahi](https://github.com/eamanola)
 - [Yusuf Ogunjobi](https://github.com/pacesetterplus/)
 - [Erika Klink] (https://github.com/Erika-Klink)
@@ -2279,6 +2291,7 @@
 - [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
 - [Srishti Gupta](https://github.com/Srishti-1302)
 - [Shaun O'Neill](https://github.com/shaun-oneill)
+- [Joan Rosell](https://github.com/JoanRosell)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Yosif Genchev](https://github.com/yosifgenchev)
 - [Shivam Rathore](https://github.com/rathore05)
@@ -4393,6 +4406,7 @@
 - [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
 - [Vito Ghifari](https://github.com/vanadiumOxide)
 - [Luc McAuley](https://github.com/lucmcauley)
+- [Olaoluwa Mustapha](https://github.com/OlaoluwaM)
 - [Marc Stämpfli](https://github.com/marcstampfli)
 - [Soumik Chaudhuri](https://github.com/pinkman7009)
 - [ChenTongLucky520](https://github.com/ChenTongLucky520/)
@@ -4403,3 +4417,4 @@
 - [Sheetal](https://github.com/Sheetal777)
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
+- [Eric Eric]
