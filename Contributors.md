@@ -1,6 +1,3 @@
-new-entry
-﻿# Contributors
-
 # Contributors
 - [wow that is a big list]
 - [<3HaveABeautifulDay<3]
@@ -24,7 +21,6 @@ new-entry
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
 - [Muhammed Rizal]
 - [YogeshNile](https://github.com/yogeshnile)
-master
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Mayur Giri](https://github.com/Mayur619)
 - [Arthur Sena](https://github.com/senaarth)
