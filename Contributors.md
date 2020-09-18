@@ -4377,6 +4377,7 @@
 - [Stijn Lammers](https://github.com/StijnLammers)
 - caocan
 - [Eiji Oga](https://github.com/eqj619)
+- [Infaz](https://github.com/infaz98)
 - [Luma Rodrigues](https://github.com/luumarodrigues)
 - [Allen J](https://github.com/uuuiii00)
 - [Ahimeir Benisti](https://github.com/MeirBen)
