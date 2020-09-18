@@ -54,6 +54,7 @@
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
 - [Clint James Estal](https://cjestal.com)
+- [Surya Narayan Jena](https://github.com/atulsnjena)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
 - [Rajdeep Majumder](https://github.com/Rajdp07)
 - [Abhinav Gautam]((https://github.com/abhi-uoh)
@@ -3385,7 +3386,6 @@
 - [DozzerCT8](https://github.com/DozzerCR8)
 - [Daemon](https://github.com/prameya21)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
-- n
 - [David Jahng](https://github.com/djahng)
 - [Azhar Anwar](https://github.com/iamazhar)
 - [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
