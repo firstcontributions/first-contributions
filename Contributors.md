@@ -29,6 +29,7 @@
 - [Archi Aggarwal]
 - [Michelle Sandford](https://github.com/msandfor)
 - [AbbyCha](https://github.com/ChaAbby)
+- [Garvit Gupta](https://github.com/garvitgupta13)
 - [Lorenzo Ippolito]
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
