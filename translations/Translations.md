@@ -64,3 +64,5 @@
 | 🇲🇽 | [Mexico](README.mx.md) |
 | 🇸🇷 | [Suriname](README.sr.md) |
 | 🇱🇻 | [Latvia](README.lv.md) |
+| 🇦🇱 | [Shqip](README.al.md) |
+
