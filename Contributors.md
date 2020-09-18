@@ -1,8 +1,8 @@
-﻿# Contributors
-- [Dmi_Krop ]
+# Contributors
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
+- [Sudhindra Pai](https://github.com/Sudhee-bsp)
 - [Helen Cunningham]
 - [Ritwik Singh]
 - [Suyash Bhadani]
