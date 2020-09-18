@@ -4429,6 +4429,7 @@
 - [Jared Grimes](https://github.com/devjared1)
 - [David Manitarellis](https://github.com/Davidmh93)
 - [Andrew Dinh](https://github.com/quyctd)
+- [jaredaritter](https://github.com/jaredaritter)
 - [Sheetal](https://github.com/Sheetal777)
 - [Evan Stocker](https://github.com/evanstocker)
 - [FuckedUp Developer](https://github.com/fupdeveloper)
