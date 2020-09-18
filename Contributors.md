@@ -1,4 +1,5 @@
 # Contributors
+- [YogeshNile](https://github.com/yogeshnile
 - [Hari Kumar]
 - [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
@@ -593,6 +594,7 @@
 - [Lahari Poluparti](https://github.com/LahariPoluparti)
 - [Abhishek Rathore](https://github.com/Logicless-Coder)
 - [Franklyn Chisom](https://github.com/ajifrank75)
+- [Patrick Mackridge](https://github.com/PatrickMackridge)
 - [Sachin Verma](https://github.com/sachincpu)
 - [Ido Elyashar](https://github.com/Idoos)
 - [Neely Mann](https://github.com/NeelyAnne)
@@ -4415,6 +4417,7 @@
 - [Kaan Sinar](https://github.com/ksinar)
 - [Hrushikesh Das](https://github.com/Rishi-121)
 - [tim-hub](https://tim.bai.uno)
+- [Jason Evans](https://github.com/GrumpyMonk26)
 - [GoGi2712](https://github.com/GoGi2712)
 - [Jason Evans](https://github.com/GrumpyMonk26)
 - [Maxime Oriol](https://github.com/Maxime-Oriol)
