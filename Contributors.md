@@ -58,6 +58,7 @@
 - [Rajdeep Majumder](https://github.com/Rajdp07)
 - [Abhinav Gautam]((https://github.com/abhi-uoh)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
+- [Joel McDonough](https://github.com/eternity8)
 - [idan424](https://github.com/idan424)
 - [Aman Raj](https://github.com/amanraj862)
 - [David Montgomery](https://github.com/davymont)
