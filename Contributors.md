@@ -4,6 +4,7 @@
   Ken Shay 9-14-2020
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
 - [Helen Cunningham]
+- [Khalid Elmesallamy](https://github.com/Mosallamy)
 - [Ritwik Singh]
 - [Suyash Bhadani]
 - [Another Contributer]
