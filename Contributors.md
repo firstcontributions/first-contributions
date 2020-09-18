@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Dmi_Krop ]
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
@@ -38,6 +39,7 @@
   [Archit Gupta](https://github.com/rarchitgupta)
   [Irwanto Cia](https://github.com/irwantocia)
 - [Abraham Prince](https://github.com/aprince02)
+- [Reinis Rozensteins](https://github.com/reinitto)
 - [Kartik Shukla](https://github.com/kartiks-21)
 - [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jason Weyland] (https://github.com/JWeyland12)
@@ -421,8 +423,7 @@
 - [Mohit Kumar]
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
-- [Ayoub El Hayat](https://github.com/ser14joker)
--[Mohini Mahato](https://github.com/Mohini0104)
+- [Ayoub El Hayat](https://github.com/ser14joker) -[Mohini Mahato](https://github.com/Mohini0104)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
