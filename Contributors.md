@@ -313,6 +313,7 @@
 - [Rohan Khanna](https://github.com/krohan100)
 - [Rachid Amri](https://github.com/Haroldthe24th)
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
+- [Alex Parsons] (https://github.com/alexanderparsons99)
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
