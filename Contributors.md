@@ -2484,6 +2484,7 @@
   Yogakshi Jaiman
 - [Liulan Zheng](https://github.com/liulanz)
 - Eric D
+- Kristin J
 - [Trevor Taylor](https://github.com/Trevis42)
 - [Ikenna Victor Echendu](https://github.com/morlimoore)
 - [Manoj M](https://github.com/manoj1222)
