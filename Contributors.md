@@ -18,6 +18,7 @@
 - [Syed Hassan]
 - [こんにちは]
 - [Test]
+- [Nicholas Bennett] (https://github.com/bennettnicholas)
 - [Claudia Matsiaze]
 - [Amr Abedo] (https://github.com/mouraaa)
 - [Matt Westbrook] (https://github.com/mattgw10)
