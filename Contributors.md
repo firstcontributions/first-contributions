@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Helen Cunningham]
@@ -23,6 +24,7 @@
 - [Richard Bailey](https://richardbailey.xyz)
 - [Michelle Sandford](https://github.com/msandfor)
 - [AbbyCha](https://github.com/ChaAbby)
+- [Garvit Gupta](https://github.com/garvitgupta13)
 - [Lorenzo Ippolito]
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
@@ -410,8 +412,7 @@
 - [Mohit Kumar]
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
-- [Ayoub El Hayat](https://github.com/ser14joker)
--[Mohini Mahato](https://github.com/Mohini0104)
+- [Ayoub El Hayat](https://github.com/ser14joker) -[Mohini Mahato](https://github.com/Mohini0104)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
