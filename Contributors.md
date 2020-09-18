@@ -214,6 +214,7 @@
 - [Dylan Cooper] (https://github.com/Dylanc55)
   abc
 - [Bow Verboom](https://github.com/1993bow)
+  [Amando Jimenez](https://github.com/Amandoj)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Akhil Prem](https://github.com/premakhil)
