@@ -2289,6 +2289,7 @@
 - [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
 - [Srishti Gupta](https://github.com/Srishti-1302)
 - [Shaun O'Neill](https://github.com/shaun-oneill)
+- [Joan Rosell](https://github.com/JoanRosell)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Yosif Genchev](https://github.com/yosifgenchev)
 - [Shivam Rathore](https://github.com/rathore05)
