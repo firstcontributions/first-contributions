@@ -205,10 +205,10 @@
 - [Tomomi Iwamoto](https://github.com/tomi-design)
 - [Teal Larson](https://github.com/tealjulia)
 - [Jerrick Zhu](https://github.com/jerrickzhu)
-  [PhoeniXP](https://github.com/drkPrince)
-  [Ujjwal Goyal](https://github.com/importhuman)
+- [PhoeniXP](https://github.com/drkPrince)
+- [Ujjwal Goyal](https://github.com/importhuman)
 - [Ben Sultan](http://github.com/bensultan1985)
-  [Saikat Karmakar](https://github.com/Aviksaikat)
+- [Saikat Karmakar](https://github.com/Aviksaikat)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
 - [Andrew Hartwell](https://github.com/arhartwe)
@@ -217,7 +217,7 @@
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
-  -Scott Parker
+- Scott Parker
 - [Jay Stag](https://github.com/JayStag)
 - Nava Pudas
 - Damola Olutoke
@@ -238,9 +238,8 @@
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Ivan Tse](https://github.com/ivantse42)
 - [Dylan Cooper](https://github.com/Dylanc55)
-  abc
 - [Bow Verboom](https://github.com/1993bow)
-  [Amando Jimenez](https://github.com/Amandoj)
+- [Amando Jimenez](https://github.com/Amandoj)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
 - [Akhil Prem](https://github.com/premakhil)
@@ -4410,6 +4409,7 @@
 - [Maxime Oriol](https://github.com/Maxime-Oriol)
 - [Russell Wong - "RussellE46"]
 - [Julius Calahi](https://github.com/jcalahi)
+- [Casey Clingaman](https://github.com/caseycling)
 - [Pedro Assunção](https://github.com/Pedroassuncao)
 - [Steven (Hongrui) Guo](https://github.com/StevenGuo42)
 - [Jack Dong] (https://github.com/dongr0510
