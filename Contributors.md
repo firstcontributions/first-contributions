@@ -606,6 +606,7 @@
 - [Vineet Bhat](https://github.com/itbhat)
 - danwt
 - Deepak Kumar Narayanan
+- Isabelle Pouget
 - Divya Gaurav
 - Pranav Prakhar
 - Narayan Sharma
