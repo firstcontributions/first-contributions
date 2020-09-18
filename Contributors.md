@@ -60,6 +60,7 @@
 - [Rajdeep Majumder](https://github.com/Rajdp07)
 - [Abhinav Gautam]((https://github.com/abhi-uoh)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
+- [Vipin Chandra](https://github.com/easyvipin)
 - [Joel McDonough](https://github.com/eternity8)
 - [idan424](https://github.com/idan424)
 - [Aman Raj](https://github.com/amanraj862)
@@ -304,6 +305,7 @@
 - [Abhay](https://github.com/mn-on)
 - [Pinky](https://github.com/PinkyWalia)
 - [ Pooja Prabhu ](https://github.com/POOJAPRABHU450)
+-
 - James Hall
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Sam Dudeja](https://github.com/sam4184)
