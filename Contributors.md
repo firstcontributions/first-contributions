@@ -1389,6 +1389,7 @@
 - [Akash Raj](https://github.com/aaksr)
 - [Abhishek Vaish](https://github.com/Abhishekvaish)
 - [Oluwatomi Ayobami](https://github.com/Taurean04)
+- [Dario Vogogna](https://github.com/akyrey)
 - Murat Görgüner
 - Krishnasai
 - Yoon-Orn Chin
