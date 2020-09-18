@@ -905,6 +905,7 @@
 - [Fotie M. Constant](https://github.com/FotieMConstant)
 - [Gayathri Natarajan](https://github.com/gayathri0329/)
 - [Rishabh Sharma](https://github.com/rishiar4)
+- [Aniruddha Banerjee](https://github.com/imanirudh1)
 - [SashiKrishna C P](https://github.com/ossCodeJourney)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
 - [Skyler Milliken](https://github.com/relykstm)
@@ -4260,6 +4261,7 @@
 - [Alex Luna](https://github.com/LeTarrask)
 - [David Stacey](https://github.com/DavidDStacey)
 - [Enrique Lozano](https://github.com/eelozano)
+- [Anirudh]
 - [Goodness Ifejesu Olajide](https://github.com/ifejesu)
 - [B Chase Babrich](https://github.com/bcbabrich/)
 - [Zeynep Erol](https://github.com/zeynep05)
@@ -4275,6 +4277,7 @@
 - [MorphTail](https://github.com/m0rphtail)
 - [gatzyw](https://github.com/gatzyw)
 - [kshida](https://github.com/kshida)
+
 - [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Eric Deering](https://github.com/Strahlend)
