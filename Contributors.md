@@ -219,6 +219,7 @@
 - Ezwald Uzumaki
 - Scott Parker
 - [Jay Stag](https://github.com/JayStag)
+- [Chaise Cooper](https://www.coopertechservices.com/)
 - Nava Pudas
 - Damola Olutoke
 - James Cunningham
