@@ -1,4 +1,5 @@
 # Contributors
+- [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
 - [Young Han](https://github.com/yhan0704)
 - [TrickyJ](https://github.com/trickyj)
