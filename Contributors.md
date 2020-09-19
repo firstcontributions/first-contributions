@@ -1503,6 +1503,7 @@
 - [Aditya Tambi](https://github.com/adityatambi)
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Gradin](https://github.com/nidarg)
+- [Tanishk Vijay](https://github.com/tanishk2000)
 - [Hored Otniel SOSSOU](https://github.com/morten12)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Neilzon Viloria](https://github.com/neilZon)
@@ -3436,6 +3437,7 @@
 - [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
 - [Alexander Santos](https://github.com/ronkiro)
 - [Ayoub Idouhamou](https://github.com/ayoub-idouhamou)
+- [Tanishk Vijay](https://github.com/tanishkvijay2000)
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
 - Mike
