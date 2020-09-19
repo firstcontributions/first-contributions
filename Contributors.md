@@ -1,4 +1,5 @@
 # Contributors
+- [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
 - [Atishaye Jain](https://github.com/atishaye)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
