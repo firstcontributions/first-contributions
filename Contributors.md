@@ -354,6 +354,7 @@
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
 - [Mohammad Zainuddin]
+- [Ron Boce]
 - [Brenton Doing](https://github.com/brentondoing)
 - [Kaiser Isbell]
 - [Gaudoin François](https://github.com/Gaudoifr)
