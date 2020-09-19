@@ -3,6 +3,7 @@
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Hari Kumar]
+- [Musavveer Rehaman](https://github.com/musavveer)
 - [Shubham Anand](https://github.com/dark-crusader)
 - [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
