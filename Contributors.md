@@ -631,6 +631,7 @@
 - [Simran Singh](https://github.com/simran1199)
 - [A4jni1n](https://github.com/A4jni1n)
 - [Kenny Gosai](https://github.com/kennygosai)
+- [Eli Goldberg](https://github.com/Goldbee2/)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
 - [Recipe For Disaster](https://github.com/recipefordisaster)
 - [Aryan Pareek](https://github.com/diffrxction)
