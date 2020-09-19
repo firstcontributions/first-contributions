@@ -4488,5 +4488,6 @@
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
 - [Eric Eric]
+-[Jonathan Diamant]
 - [David Fers](https://github.com/davidfers)
 - [Tushar Nankani](https://github.com/tusharnankani)
