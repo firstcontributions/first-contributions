@@ -28,6 +28,7 @@
 - [こんにちは]
 - [Test]
 - [viraldevpb](https://github.com/viraldevpb)
+- [David Tran] (https://github.com/TranDavid1)
 - [Nicholas Bennett](https://github.com/bennettnicholas)
 - [Claudia Matsiaze]
 - [Amr Abedo](https://github.com/mouraaa)
