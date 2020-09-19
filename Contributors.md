@@ -1,5 +1,4 @@
 # Contributors
-
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Hari Kumar]
@@ -17,6 +16,7 @@
 - [Aarushi Gupta]
 - [Helen Cunningham]
 - [Khalid Elmesallamy](https://github.com/Mosallamy)
+- [Yin Jian](https://github.com/Skyseaee)
 - [Ritwik Singh]
 - [Suyash Bhadani]
 - [Another Contributer]
