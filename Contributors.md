@@ -57,6 +57,7 @@
 - Kanav Mehra
 - Felix Jönsson
 - [Harry Jandu](https://github.com/hushee69)
+- Yeshu Wahane
 - [Avirup Mondal](https://github.com/Avirup-301294)
 - Marco Skradde (https://github.com/mskradde/)
 - Upagyya Dixit (https://github.com/upagyya)
