@@ -308,6 +308,7 @@
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Martin Buxmann](https://github.com/BitVivAZ)
+- [Shubham Garg](https://github.com/shub-garg)
 - [Dhruv Rawat](https://github.com/dhruvrawat777)
 - [Yarden Mezi](https://github.com/yardenmezi)
 - [Eloïse Schmitt](https://github.com/eloiseschmitt)
@@ -2056,7 +2057,7 @@
 - Shantanu Shukla
 - Kyle Hayden
 - SK
-- -AL
+- AL
 - [Aggelos Arelakis](https://github.com/papaggalos) hiten
 - [Jake Shoemaker](https://github.com/jakeshoemaker)
 - [Jeremy Wong](https://github.com/jwjeremy)
