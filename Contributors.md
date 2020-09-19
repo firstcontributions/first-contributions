@@ -1,6 +1,7 @@
 # Contributors
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
 - [Atishaye Jain](https://github.com/atishaye)
+- [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Hari Kumar]
 - [Shubham Anand](https://github.com/dark-crusader)
