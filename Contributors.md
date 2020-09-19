@@ -756,6 +756,7 @@
 - Btrox148
 - Yash Sarvaiya
 - Kapil Motwani
+- [stygarfield](https://github.com/stygarfield)
 - Jackie Nunya
 - Ritu Kumari
 - Mallika Ravi
