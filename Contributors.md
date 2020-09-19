@@ -372,6 +372,7 @@
 - [gonzahar](https://github.com/gonzahar)
 - [Maria F Ramirez](https://github.com/mfr88)
 - [Pranav Sharma](https://github.com/psx95)
+- [Travis McGinley](https://github.com/travis-mcginley)
 - [Dereck Bearsong](https://github.com/dkbearsong)
 - [Sonali_Priya](https://github.com/sonalipriya2203)
 - [Onkar Singh](https://github.com/Onk-ar)
