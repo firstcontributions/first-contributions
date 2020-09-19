@@ -347,6 +347,7 @@
 - [Mohammad Zainuddin]
 - [Brenton Doing](https://github.com/brentondoing)
 - [Kaiser Isbell]
+- [Gaudoin François](https://github.com/Gaudoifr)
 - [Ketan Gupta](https://github.com/ketangupta34)
 - [AdithiyaG](https://github.com/AdithiyaG)
 - [Branden Kim](https://github.com/bkbranden)
