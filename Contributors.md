@@ -2,6 +2,7 @@
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile
 - [Hari Kumar]
+- [Shubham Anand](https://github.com/dark-crusader)
 - [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
 - [Young Han](https://github.com/yhan0704)
@@ -36,7 +37,7 @@
 - [Andrew Zajac](hhtps://github.com/ajzajac)
 - [wahaha](https://github.com/zhiwei-01)
 - [Akshay_C](https://github.com/akshay977)
-- [Nirmal Silwal](https://github.com/NirmalSilwal) 
+- [Nirmal Silwal](https://github.com/NirmalSilwal)
 - [Richard Bailey](https://richardbailey.xyz)
 - [Archi Aggarwal]
 - [Michelle Sandford](https://github.com/msandfor)
