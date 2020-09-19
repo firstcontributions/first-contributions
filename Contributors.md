@@ -11,6 +11,7 @@
 - [Yarden Krok](https://github.com/yarden2k3)
   Ken Shay 9-14-2020
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
+- [Aarushi Gupta]
 - [Helen Cunningham]
 - [Khalid Elmesallamy](https://github.com/Mosallamy)
 - [Ritwik Singh]
