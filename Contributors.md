@@ -4275,6 +4275,7 @@
 - [Malick Sidi](https://github.com/MalickSidi)
 - [Malick Sidi](https://github.com/MalickSidi)
 - [Leo Li](https://github.com/MikelBai)
+- [Moira Shooter](https://github.com/mshooter)
 - [Vishnu](https://github.com/vishnusr90/first-contributions)
 - [Sai](http://github.com/snerus11) 
 - [Rishav Kumar](http://github.com/rishavjnv12)
