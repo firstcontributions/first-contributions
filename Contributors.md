@@ -161,6 +161,7 @@
 - [Nathan Ross](https://github.com/nwross95)
 - [Jaikishan Brijwani](https://github.com/ricknjacky)
 - [YaBoiMikeyP BOIIIIIIIIIIIIIIIIIIIIIIIIII]
+- [Apurv Rathore (just learning git just like you)]
 - [Yehoshua Kahan](https://github.com/ykahan)
 - [Alberto Zavala](https://github.com/AlbertoZavala)
 - [Paimo Emmanuel](https://github.com/paimoemmanuel)
