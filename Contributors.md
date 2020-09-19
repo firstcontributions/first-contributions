@@ -1,10 +1,6 @@
 # Contributors
-<<<<<<< HEAD
-
-=======
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
->>>>>>> master
 - [Atishaye Jain](https://github.com/atishaye)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
@@ -651,12 +647,8 @@
 - [Azibodusi Osain](https://github.com/osain-az)
 - [Shikha Bhat](https://github.com/shikha-16)
 - [Miha Lebaric](https://github.com/smehko)
-<<<<<<< HEAD
-- [Vineet Bhat](https://github.com/itbhat) -[shirly lee]((https://github.com/Shirly0723)
-=======
 - [Vineet Bhat](https://github.com/itbhat)
 - [shirly lee](https://github.com/Shirly0723)
->>>>>>> master
 - Deepak Kumar Narayanan
 - Isabelle Pouget
 - Divya Gaurav
