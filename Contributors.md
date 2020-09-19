@@ -369,6 +369,7 @@
 - [Leon Li](https://github.com/AuxinJeron)
 - [Bertac Severcan](https://github.com/bertacsevercan)
 - [erwin](https://github.com/erwin-1996)
+- [kolade Afeez](https://github.com/koladeafeez)
 - [Soha Parasnis](https://github.com/SohaWithAnS)
 - [Satish Muddana](https://github.com/satish-muddana)
 - [Bruce Snow](https://github.com/cbs42)
