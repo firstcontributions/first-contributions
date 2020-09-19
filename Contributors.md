@@ -821,11 +821,11 @@
 - [Jeff Daquioag](https://github.com/jrdaquioag)
 - [Manuel Papa](https://github.com/manuelpapa)
 - [AbhipsaGuru1012](https://github.com/AbhipsaGuru1012)
-- [Shivam Singla](https://github.com/Seeevam)
+- [Shivam Singla](https://github.com/shivam7374)
 - [Rumit Tandukar](https://github.com/rumit0270)
 - [Akil Mahmod Tipu](httpss://github.com/akiltipu)
 - [Ingrid Carlson](https://github.com/ingridclaire)
-- [Ssivam Chopra]
+- [Shivam Chopra](https://github.com/Seeevam)
 - [Ingrid Carlson](https://github.com/ingridclaire)
 - [Ssivam Chopra](https://duck.com/lite?kae=t&q=Ssivam+Chopra)
 - [Harald Lilja](https://github.com/Anguse)
