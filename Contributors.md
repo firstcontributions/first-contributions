@@ -1,4 +1,5 @@
 # Contributors
+- [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile)
 - [Hari Kumar]
