@@ -631,6 +631,7 @@
 - [A4jni1n](https://github.com/A4jni1n)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
+- [Recipe For Disaster](https://github.com/recipefordisaster)
 - [Aryan Pareek](https://github.com/diffrxction)
 - [Bhavik Patel](https://github.com/bhavik25/first-contributions.git)
 - [Jim Galvan](https://github.com/JimGalvan)
