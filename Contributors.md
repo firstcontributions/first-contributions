@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile)
@@ -23,6 +23,7 @@
 - [Syed Hassan]
 - [こんにちは]
 - [Test]
+- [viraldevpb](https://github.com/viraldevpb)
 - [Nicholas Bennett](https://github.com/bennettnicholas)
 - [Claudia Matsiaze]
 - [Amr Abedo](https://github.com/mouraaa)
