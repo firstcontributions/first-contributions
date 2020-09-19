@@ -4485,3 +4485,4 @@
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
 - [Eric Eric]
+- [David Fers](https://github.com/davidfers)
