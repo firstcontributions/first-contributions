@@ -435,6 +435,7 @@
 - [Kartik Gupta](https://github.com/beingkartik)
 - [Frank Kiibus](https://github.com/Devil-Shinji)
 - [Cassidy McDonnell]
+- [Roberto Castelli](https://github.com/RobertoCastelli)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
