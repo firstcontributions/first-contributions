@@ -659,6 +659,7 @@
 - Fady Bekhit
 - Tahir Ali
 - Luke Karis
+- Sarthak Khandelwal
 - [Khai Trinh](https://github.com/KhaiTrinh)
 - [Imron Hajiahmad](https://github.com/imronha)
 - [Muhammed Alimbet](https://github.com/MuhammedTech)
