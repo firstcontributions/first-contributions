@@ -4297,7 +4297,7 @@
 - [toastDev](https://github.com/cykevii)
 - [Moira Shooter](https://github.com/mshooter)
 - [Vishnu](https://github.com/vishnusr90/first-contributions)
-- [Sai](http://github.com/snerus11) 
+- [Sai](http://github.com/snerus11)
 - [Rishav Kumar](http://github.com/rishavjnv12)
 - [Sandip Mukherjee](https://github.com/SandyM33)
 - [Jethro Modequillo](https://github.com/potato874)
@@ -4544,3 +4544,4 @@
 - [Austin Forbert](https://github.com/austin4bert)
 - [Tushar Nankani](https://github.com/tusharnankani)
 - [Angel Martinez](https://github.com/angel-codes)
+- [Patrick Guo] (https://github.com/shpatrickguo)
