@@ -580,6 +580,7 @@
 - [Harshith Venkatesh](https://github.com/Harshi7016)
 - [Tanvee Balhara](https://github.com/tanvee09)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
+- [ssMinji](https://github.com/ssMinji)
 - [Bhavik25](https://github.com/bhavik25)
 - [Smriti Rastogi](https://github.com/special-kay)
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
