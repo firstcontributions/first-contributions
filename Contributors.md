@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Atishaye Jain](https://github.com/atishaye)
 - [YogeshNile](https://github.com/yogeshnile
 - [Hari Kumar]
@@ -44,6 +44,7 @@
 - [Richard Bailey](https://richardbailey.xyz)
 - [Archi Aggarwal]
 - [Michelle Sandford](https://github.com/msandfor)
+- [Mehul Bhatt](https://github.com/mehulbhat)
 - [AbbyCha](https://github.com/ChaAbby)
 - [Garvit Gupta](https://github.com/garvitgupta13)
 - [Lorenzo Ippolito]
