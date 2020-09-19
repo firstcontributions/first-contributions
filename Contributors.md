@@ -703,6 +703,7 @@
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
 - [Parishrut Kushwaha](https://github.com/parish09)
+- [Shivam Singla](https://github.com/shivam7374)
 - [Chethan Bhat](https://github.com/chethanbhat)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Emily Cook](https://github.com/EmilyCook321)
@@ -2431,6 +2432,7 @@
 - [Sure](https://github.com/surebhandari)
 - [Abhishek Ahirwar](https://github.com/abhiahirwar)
 - [Swarna Sarkar](https://github.com/sarkarsd)
+- [Claire-me](https://github.com/claire-me)
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
 - [Jakub Kisiel]
