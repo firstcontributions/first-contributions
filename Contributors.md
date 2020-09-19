@@ -4338,6 +4338,7 @@
 - [Aditya Kumar Seth](https://github.com/adityatwothree)
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
+- [NiumXp](https://github.com/NiumXp)
 - [William Guo](https://github.com/wguo1)
 - [Jantlee](https://github.com/jantlee)
 - [Lukas Schmidt](https://github.com/LennardSchmidt)
