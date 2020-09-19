@@ -34,6 +34,7 @@
 - [Mohan Sai Teki](https://github.com/MohanSai1997)
 - [Harshit Parakh](https://github.com/Harsh061)
 - [Steve Bunting](https://github.com/stebunting)
+- [nerawz hlela](https://github.com/nerawzz)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
 - [Aman Patel](https://github.com/amanptl)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
