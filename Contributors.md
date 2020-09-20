@@ -1,6 +1,8 @@
 # Contributors
+
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Hauve]
+- [Mcaupybugs](https://github.com/mcaupybugs)
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Jennifer Lam](https://github.com/jen-la)
 - [Sakshi kumari](https://github.com/sakshi-06)
@@ -2755,7 +2757,7 @@
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
 - [Akshaytech9](https://github.com/akshaytech9/)
-[Technohermit](https://github.com/technohermit)
+  [Technohermit](https://github.com/technohermit)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
