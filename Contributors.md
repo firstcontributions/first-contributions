@@ -72,6 +72,7 @@
 - [Osman Kamara](https://github.com/osmankbk)
 - [kuldeep_singh]
 - [Archit Gupta](https://github.com/rarchitgupta)
+- [Dwija Bagwe](https://github.com/dwija-bagwe)
 - [Irwanto Cia](https://github.com/irwantocia)
 - [Abraham Prince](https://github.com/aprince02)
 - [Reinis Rozensteins](https://github.com/reinitto)
