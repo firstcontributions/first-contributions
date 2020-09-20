@@ -14,6 +14,7 @@
 - [Bereket Semagn](https://github.com/bereketsemagn)
 - [Savio Martin](https://github.com/saviomartin)
 - [Young Han](https://github.com/yhan0704)
+- [Rishabh]
 - [Jose Cuervo](https://github.com/21Insight)
 - [TrickyJ](https://github.com/trickyj)
 - [Fabio Tolio](https://github.com/FabioT0)
