@@ -8,6 +8,7 @@
 - [Hari Kumar]
 - [PRANAV CHATURVEDI](https://github.com/masterpranav)
 - [Prem Kiran](https://github.com/premkiran7)
+- [Karen Chang](https://github.com/karen-developer)
 - [Shubham Anand](https://github.com/dark-crusader)
 - [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
