@@ -3,6 +3,7 @@
 - [Hauve]
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Jennifer Lam](https://github.com/jen-la)
+- [Sakshi kumari](https://github.com/sakshi-06)
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
 - [Atishaye Jain](https://github.com/atishaye)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
