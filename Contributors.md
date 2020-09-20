@@ -4425,6 +4425,7 @@
 - [Mateus Nunes](https://github.com/mateusnssp)
   Chris Whiting
 - [Aditya Thakur](https://github.com/aadi30thakur)
+- [Jomar Rumbawa](https://github.com/jrumbawa)
 - [Hugh Sun](https://github.com/wenjunsun)
 - [Chuwei Wang](https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
@@ -4563,4 +4564,4 @@
 - [Austin Forbert](https://github.com/austin4bert)
 - [Tushar Nankani](https://github.com/tusharnankani)
 - [Angel Martinez](https://github.com/angel-codes)
-- [Patrick Guo] (https://github.com/shpatrickguo)
+- [Patrick Guo](https://github.com/shpatrickguo)
