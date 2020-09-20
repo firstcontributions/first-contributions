@@ -96,6 +96,7 @@
 - [Aman Raj](https://github.com/amanraj862)
 - [David Montgomery](https://github.com/davymont)
 - [Phillip Johnson](https://github.com/pjdesigns)
+- [Abner Palmeira](https://github.com/abnerpalmeira)
 - [Oguz](https://github.com/oguztecirlioglu)
 - [juliadiaz](https://github.com/juliadiaz)
 - [NicholasVormack](https://github.com/NicholasJVormack)
