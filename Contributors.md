@@ -46,6 +46,7 @@
 - [pooja kanojia]
 - [Anusha Prabhu](https://github.com/anusharp97)
 - [Sachin Kumar](https://github.com/toocoolsachin)
+- [Hyun Jin Kim](https://github.com/hjk068)
 - [Yash Ramchandani](https://github.com/yashr921)
 - [<3HaveABeautifulDay<3]
 - [Akshit Soneji](https://github.com/AKSHIT989)
