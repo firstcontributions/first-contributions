@@ -552,6 +552,7 @@
 - [Aleksandar Mitevski](https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
 - [Subhasmita](https://github.com/Ask-Subhasmita)
+- [Soumen Mahata](https://github.com/MSoumen)
 - [Sohom](https://github.com/RandomVariable18)
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
