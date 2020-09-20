@@ -414,6 +414,7 @@
 - [hemesh2006](https://github.com/hemesh2006)
 - [Samatar](https://github.com/samatarcodes)
 - [Atharv Phadnis](https://github.com/Athi223)
+- [RAM PRAKASH](https://github.com/thedoodler)
 - [Pilo](https://github.com/ilovenullptr)
 - [Eveline](https://github.com/eveline-xie)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
@@ -4425,6 +4426,7 @@
 - [Mateus Nunes](https://github.com/mateusnssp)
   Chris Whiting
 - [Aditya Thakur](https://github.com/aadi30thakur)
+- [Jomar Rumbawa](https://github.com/jrumbawa)
 - [Hugh Sun](https://github.com/wenjunsun)
 - [Chuwei Wang](https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
@@ -4563,6 +4565,5 @@
 - [Austin Forbert](https://github.com/austin4bert)
 - [Tushar Nankani](https://github.com/tusharnankani)
 - [Angel Martinez](https://github.com/angel-codes)
-- [Patrick Guo] (https://github.com/shpatrickguo)
 - [James Yoo](https://github.com/jmsyoo)
-
+- [Patrick Guo](https://github.com/shpatrickguo)
