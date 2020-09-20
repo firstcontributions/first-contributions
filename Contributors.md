@@ -1,6 +1,7 @@
 # Contributors
 - [Hauve]
 - [Thangadurai Arumugam](https://github.com/thanga2014)
+- [Jennifer Lam](https://github.com/jen-la)
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
 - [Atishaye Jain](https://github.com/atishaye)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
