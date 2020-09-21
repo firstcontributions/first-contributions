@@ -4577,3 +4577,4 @@
 - [Patrick Guo](https://github.com/shpatrickguo)
 - [Kevin Abrams](https://github.com/Daykera)
 - [Felipe Santos](https://github.com/felipems11)
+- [hurry](https://github.com/hui477)
