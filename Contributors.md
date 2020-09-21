@@ -9,6 +9,7 @@
 - [Atishaye Jain](https://github.com/atishaye)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
+- [Josh Lavallee](https://github.com/jlavallee76)
 - [Hari Kumar]
 - [Mark-dev1] (https://github.com/Mark-dev1)
 - [PRANAV CHATURVEDI](https://github.com/masterpranav)
