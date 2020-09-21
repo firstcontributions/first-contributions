@@ -3330,6 +3330,7 @@
 - [Ron R](https://github.com/rsrulloda)
 - [lucasebs](https://github.com/lucasebs)
 - [Thomas Ochs](https://github.com/thomasochs82)
+- [Chinmoy Dutta](https://github.com/CD79)
 - [Dale H](https://github.com/dhuettenmoser)
 - [Ben Balentine](https://github.com/BenBamboozled)
 - [jc](https://github.com/jc-appier)
