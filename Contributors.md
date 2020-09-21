@@ -4025,6 +4025,7 @@
 - [Braxton Lamey](https://github.com/Bmc1977)
 - [Meagan](https://github.com/olsenme)
 - [Selam Gessese](https://github.com/sygessese)
+- [Tedi Moci] (https://github.com/TediMoci)
 - Chris Ryan
 - [Sachin Diwate](https://github.com/dsachin)
 - [Sukritee Shrivastava](https://github.com/sukritee)
