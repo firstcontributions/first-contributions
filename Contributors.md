@@ -304,6 +304,7 @@
 - [Cem Ulus](https://github.com/cemulus)
 - [Tim Rehrmann](https://github.com/timrehrmann)
 - Gaet
+- Anish Kulkarni
 - [Mike Hall](https://github.com/phoenicisestuans)
 - [Alexander Larbi](https://github.com/alexlarbi)
 - [Yutong Xiao](https://github.com/YutongXiao)
