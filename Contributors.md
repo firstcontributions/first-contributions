@@ -1,6 +1,8 @@
 # Contributors
+
 - [Dennis Lee](https://github.com/dennislwm)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
+- [Kevwe](https://github.com/K3vwe)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - [Hauve]
@@ -2775,7 +2777,7 @@
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
 - [Akshaytech9](https://github.com/akshaytech9/)
-[Technohermit](https://github.com/technohermit)
+  [Technohermit](https://github.com/technohermit)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
