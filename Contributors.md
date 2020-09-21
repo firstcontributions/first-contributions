@@ -401,6 +401,7 @@ Sameer Choudhary
 - [AdithiyaG](https://github.com/AdithiyaG)
 - [Branden Kim](https://github.com/bkbranden)
 - [Prasuna Pulivendula](https://github.com/Prasuna16)
+- [Chetan Basuray] (https://github.com/chetanbasuray)
 - [Varsha K.R.](https://github.com/varshakr1298)
 - [Vinay Kushwaha](https://github.com/iamvinayvk)
 - [shonuff](https://github.com/sh0nuff373)
