@@ -4230,6 +4230,7 @@
 - [Chris Achinga](https://github.com/ChrisAchinga)
 - [Reuben Wedson 🇹🇿🤓](https://github.com/reubenwedson)
 - [Muskan Kumar](https://github.com/muskanvk)
+- [Siddharth Chandra](https://github.com/siddharth2016)
 - [Santanu Biswas](https://github.com/SantanuxDg)
 - [Vinay Kumar Singh](https://github.com/vinay0001)
 - [Amr Adel Omar](https://github.com/amromar-dev)
