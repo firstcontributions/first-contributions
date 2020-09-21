@@ -634,6 +634,7 @@
 - [Yash Damani](https://github.com/yashdamani)
 - [Tim Kay](https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
+- [Vivek Agrawal](https://github.com/access2content)
 - [Divyansh Bhandari](https://github.com/divyxnsh)
 - [Arne Vermeulen](https://github.com/Eurniee98)
 - [Yuval Mashiach](https://github.com/Yuvalmas)
