@@ -33,6 +33,7 @@
 - [TrickyJ](https://github.com/trickyj)
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
+- [Joe Keating](https://github.com/JoeKeating)
 - Ken Shay 9-14-2020
 - [Divya Chhibber](https://github.com/divyavit)
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
