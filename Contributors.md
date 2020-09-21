@@ -68,6 +68,7 @@
 - [AbbyCha](https://github.com/ChaAbby)
 - [Garvit Gupta](https://github.com/garvitgupta13)
 - [Lorenzo Ippolito]
+- [Sokhuong Uon](https://github.com/SOKHUONG)
 - [Sabokhat Kalandarova](https://github.com/sabohat)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
 - [miwatso]
