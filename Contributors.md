@@ -4398,6 +4398,7 @@
 - [Mikolaj Paczkowski](https://github.com/mikowhy) 🇵🇱 🐍
 - [Jonathan C](https://github.com/JonathanCilley)
 - [Catherine Xiao](https://github.com/cathxiao)
+- [Joe Keating](https://github.com/JoeKeating)
 - [Kamil Stanuch](https://github.com/vero500w)
 - [Shai Malul 👨‍💻](https://https://github.com/shaimalul)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
