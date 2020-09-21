@@ -1,5 +1,7 @@
 # Contributors
+
 -[Aditya Joshi](https://github.com/ajadityajoshi)
+
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - [Hauve]
@@ -308,6 +310,7 @@
 - Wimansha Herath
 - Marc Banuls
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
+- [Ayushi Srivastava](https://github.com/srivastavayushi)
 - [Shrish Tripathi](https://github.com/shrishtrip)
 - [Okezie Chiedozie](https://github.com/okezieuc)
 - [Akshat Sood](https://github.com/akshatsood2249)
@@ -2764,7 +2767,7 @@
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
 - [Akshaytech9](https://github.com/akshaytech9/)
-[Technohermit](https://github.com/technohermit)
+  [Technohermit](https://github.com/technohermit)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
