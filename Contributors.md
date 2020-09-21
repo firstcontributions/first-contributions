@@ -2670,6 +2670,7 @@ Sameer Choudhary
 - [Daniel Bar-Sela](https://github.com/CrimsonEpitaph42)
 - [Logan Watson](https://github.com/lwatson2)
 - [Ranjit Saimbi](https://github.com/RanjitSaimbi/)
+- [Andrew Selvarajah](https://github.com/andrewselvarajah)
 - [Francesco Sardone](https://github.com/Airsit)
 - [Arthur Song](https://github.com/atribecalledarty)
 - [Danny Whitt](https://github.com/Danny-Whitt-Bose)
