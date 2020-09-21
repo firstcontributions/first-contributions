@@ -532,6 +532,7 @@ Sameer Choudhary
 - [KaanGaming](https://github.com/KaanGaming)
 - [Ayushman Mishra](https://github.com/chetak123)
 - [Ryan Mac](https://github.com/r-mac)
+- [Jahred Danker](https://github.com/jdanker)
 - Andrew Scott
 - [Bobak Tooyserkani](https://github.com/bt105819)
 - robyea
