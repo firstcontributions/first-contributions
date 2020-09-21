@@ -33,7 +33,6 @@
 - [TrickyJ](https://github.com/trickyj)
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
-- [Joe Keating](https://github.com/JoeKeating)
 - Ken Shay 9-14-2020
 - [Divya Chhibber](https://github.com/divyavit)
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
@@ -4399,6 +4398,7 @@
 - [Mikolaj Paczkowski](https://github.com/mikowhy) 🇵🇱 🐍
 - [Jonathan C](https://github.com/JonathanCilley)
 - [Catherine Xiao](https://github.com/cathxiao)
+- [Joe Keating](https://github.com/JoeKeating)
 - [Kamil Stanuch](https://github.com/vero500w)
 - [Shai Malul 👨‍💻](https://https://github.com/shaimalul)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
