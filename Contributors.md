@@ -46,6 +46,7 @@
 - [こんにちは]
 - [Test]
 - [viraldevpb](https://github.com/viraldevpb)
+- [Yash Chaudhari]
 - [Devansh Tayal](https://github.com/Devansh2005)
 - [David Tran] (https://github.com/TranDavid1)
 - [Nicholas Bennett](https://github.com/bennettnicholas)
