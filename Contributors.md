@@ -2302,6 +2302,7 @@
 - [Tran Le Quoc Anh](https://github.com/Al0ngsy)
 - [bethuel](https://github.com/bcmmbaga)
 - [arvind](https://github.com/CoderArvind)
+- [Artur Scheibler](https://github.com/arturscheibler)
 - [Aryaman](https://github.com/Aryaman2912)
 - [Jesse Huang](https://github.com/JessHua159)
 - [rkg18](https://github.com/rkg18)
