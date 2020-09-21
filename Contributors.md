@@ -2,6 +2,7 @@
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - [Hauve]
+- [wangzhihaisf](https://github.com/wangzhihaiSF)
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Jennifer Lam](https://github.com/jen-la)
 - [Sakshi kumari](https://github.com/sakshi-06)
