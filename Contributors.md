@@ -372,6 +372,7 @@
 - [asmallgod](https://github.com/asmallgod)
 - [Sammed98](https://github.com/Sammed98)
 - [Neila Toofuny](https://github.com/ntoofuny)
+- [Megh Dedhia](https://github.com/m11dedhia)
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
 - [Mohammad Zainuddin]
