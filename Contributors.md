@@ -4589,5 +4589,7 @@
 - [Kevin Abrams](https://github.com/Daykera)
 - [Felipe Santos](https://github.com/felipems11)
 - [hurry](https://github.com/hui477)
+- [Ann](https://github.com/Annnnn1215)
 - [Vishant Khunti] (https://github.com/vishant93)
 - [Kerogame] (https://zh-tw.facebook.com/kerogame)
+- [Zewi2k] (https://github.com/Zewi2k)
