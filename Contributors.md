@@ -1,5 +1,6 @@
 # Contributors
 - [Dennis Lee](https://github.com/dennislwm)
+- [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
