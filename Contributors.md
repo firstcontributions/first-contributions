@@ -47,6 +47,7 @@
 - [Ritwik Singh]
 - [Suyash Bhadani]
 - [Another Contributer]
+- [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
 - [こんにちは]
 - [Test]
