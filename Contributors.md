@@ -21,6 +21,7 @@
 - [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
 - [Savio Martin](https://github.com/saviomartin)
+- [Jennifer Openshaw] (https://github.com/jlopenshaw41)
 - [Young Han](https://github.com/yhan0704)
 - [Rishabh]
 - [Jose Cuervo](https://github.com/21Insight)
