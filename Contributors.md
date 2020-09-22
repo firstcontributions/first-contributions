@@ -87,6 +87,7 @@
 - [Akshay_C](https://github.com/akshay977)
 - [Nirmal Silwal](https://github.com/NirmalSilwal)
 - [Richard Bailey](https://richardbailey.xyz)
+- [Chaithra Pabbathi]
 - [Archi Aggarwal]
 - [Michelle Sandford](https://github.com/msandfor)
 - [Mehul Bhatt](https://github.com/mehulbhat)
