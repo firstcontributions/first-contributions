@@ -6,6 +6,7 @@
 - [Vincent Martin](https://github.com/vincent2303)
 - [Hauve]
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
+- [Nachiket Sirsikar](https://www.github.com/nachiketS)
 - [wangzhihaisf](https://github.com/wangzhihaiSF)
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Jennifer Lam](https://github.com/jen-la)
