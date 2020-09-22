@@ -4,6 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 *Người dịch: [Tran Ly Vu](https://github.com/tranlyvu)*
+*Người chỉnh sửa: [Phuc Cai](https://github.com/hoangphuc05)* 
 
 # Đóng góp đầu tiên
 
@@ -11,7 +12,7 @@ Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt 
 
 Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? project này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
 
-#### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.]( #tutorials-using-other-tools )*
+#### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.]( #Hướng-dẫn-sử-dụng-các-công-cụ-khác )*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
