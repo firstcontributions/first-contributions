@@ -1,4 +1,5 @@
 # Contributors
+- (Shyamashrita Chatterjee)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
