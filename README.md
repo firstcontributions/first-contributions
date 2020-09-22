@@ -14,7 +14,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 #### _Read this in [other languages](translations/Translations.md)._
 
 [🇦🇱](translations/README.al.md)
-[:bangladesh:](translations/README.bn.md)
+[<img src="assets/flags/bd.png" width="22">](translations/README.bn.md)
 [🇧🇬](translations/README.bg.md)
 [🇧🇷](translations/README.pt_br.md)
 [<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
