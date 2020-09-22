@@ -71,6 +71,7 @@
 - [Hyun Jin Kim](https://github.com/hjk068)
 - [Yash Ramchandani](https://github.com/yashr921)
 - [<3HaveABeautifulDay<3]
+- [Julius Olajumoke](https://github.com/itsjuliuscoder)
 - [Akshit Soneji](https://github.com/AKSHIT989)
 - [Lucas Deboch](https://github.com/lucasdeboch)
 - [Meghana Srinath](https://github.com/Meghana359)
