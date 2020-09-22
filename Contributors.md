@@ -21,6 +21,7 @@
 - [Hari Kumar]
 - [Mark-dev1] (https://github.com/Mark-dev1)
 - [PRANAV CHATURVEDI](https://github.com/masterpranav)
+- [Jacob Voyles](https://github.com/jtvkw2)
 - [Prem Kiran](https://github.com/premkiran7)
 - [Karen Chang](https://github.com/karen-developer)
 - [Shubham Anand](https://github.com/dark-crusader)
