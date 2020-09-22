@@ -4619,3 +4619,4 @@ Sameer Choudhary
 - [Zewi2k] (https://github.com/Zewi2k)
 - [Javed Khan] (https://github.com/jav7zaid)
 - [Enes Bajramovic] (https://github.com/enba00)
+- [Roy Jara](https://github.com/royjara)
