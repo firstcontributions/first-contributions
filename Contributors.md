@@ -1,4 +1,5 @@
 # Contributors
+
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
@@ -98,7 +99,7 @@
 - [Osman Kamara](https://github.com/osmankbk)
 - [kuldeep_singh]
 - Peyton Miller
-Sameer Choudhary
+  Sameer Choudhary
 - [Archit Gupta](https://github.com/rarchitgupta)
 - [Dwija Bagwe](https://github.com/dwija-bagwe)
 - [Irwanto Cia](https://github.com/irwantocia)
@@ -203,6 +204,7 @@ Sameer Choudhary
 - [Praveen Kakumanu](https://github.com/praveenkakumanu)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
 - [Amit Kinor](https://github.com/amitkinor)
+- [Michael Pryor](https://github.com/michaeldavidpryor)
 - [Jon Ting](https://github.com/Jon-Ting)
 - [Akshat Adsule](https://github.com/AkshatAdsule)
 - [NotMarty05](https://github.com/NotMarty05)
@@ -2800,7 +2802,7 @@ Sameer Choudhary
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
 - [Akshaytech9](https://github.com/akshaytech9/)
-[Technohermit](https://github.com/technohermit)
+  [Technohermit](https://github.com/technohermit)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
