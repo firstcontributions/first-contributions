@@ -253,6 +253,7 @@ Sameer Choudhary
 - [Kajal Jain](https://github.com/kajaljain0206)
 - [Nabil El assal](https://github.com/nabil-e)
 - [smullle](https://github.com/Smullle)
+- [Andrea Testini](https://github.com/L0dz)
 - [Adam Gumieniak](https://github.com/iLooL)
 - [Alex Slobodyansky](https://github.com/web2ls)
 - [Pablo Pena](https://github.com/Kimeru29)
