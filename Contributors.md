@@ -1,9 +1,11 @@
 # Contributors
+
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
+- [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
 - [wangzhihaisf](https://github.com/wangzhihaiSF)
@@ -97,7 +99,7 @@
 - [Osman Kamara](https://github.com/osmankbk)
 - [kuldeep_singh]
 - Peyton Miller
-Sameer Choudhary
+  Sameer Choudhary
 - [Archit Gupta](https://github.com/rarchitgupta)
 - [Dwija Bagwe](https://github.com/dwija-bagwe)
 - [Irwanto Cia](https://github.com/irwantocia)
@@ -2798,7 +2800,7 @@ Sameer Choudhary
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
 - [Akshaytech9](https://github.com/akshaytech9/)
-[Technohermit](https://github.com/technohermit)
+  [Technohermit](https://github.com/technohermit)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
