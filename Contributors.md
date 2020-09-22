@@ -57,6 +57,7 @@
 - [Yash Chaudhari]
 - [anuradhasanjeewa]
 - [Devansh Tayal](https://github.com/Devansh2005)
+- [Darshan Sen](https://www.github.com/RaisinTen)
 - [David Tran] (https://github.com/TranDavid1)
 - [Nicholas Bennett](https://github.com/bennettnicholas)
 - [Claudia Matsiaze]
