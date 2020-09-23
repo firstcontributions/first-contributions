@@ -13,7 +13,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### _Read this in [other languages](translations/Translations.md)._
 
-[https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg](translations/README.al.md)
+[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](translations/README.bg.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)
@@ -24,8 +24,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)
-[https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg](translations/README.fr.md)
-[🏴](translations/README.gl.md)
+[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)
+[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gl.svg" width="22">](translations/README.gl.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">](translations/README.gr.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](translations/README.ge.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">](translations/README.hu.md)
