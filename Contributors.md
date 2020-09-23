@@ -4625,6 +4625,7 @@ Pramit Patel
 - [Angel Martinez](https://github.com/angel-codes)
 - [James Yoo](https://github.com/jmsyoo)
 - [Patrick Guo](https://github.com/shpatrickguo)
+- [Sergi Heras](https://github.com/Sergih28)
 - [Kevin Abrams](https://github.com/Daykera)
 - [Felipe Santos](https://github.com/felipems11)
 - [hurry](https://github.com/hui477)
