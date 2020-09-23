@@ -18,5 +18,12 @@ jobs:
     # make the changes between checkout and push
     - name: push
       uses: actions-x/commit@v2
+      with:
+        email: mallikarjunht1997@gmail.com
+        name: GitHub Actions Autocommitter
+        branch: master
+        repository: https://github.com/mallikarjunht1997/first-contributions 
+        token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
       
         
