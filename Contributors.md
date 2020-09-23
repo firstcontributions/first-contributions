@@ -4647,6 +4647,7 @@ Pramit Patel
 - [Sergi Heras](https://github.com/Sergih28)
 - [Kevin Abrams](https://github.com/Daykera)
 - [Felipe Santos](https://github.com/felipems11)
+- [Hurry Yu](https://github.com/hui477)
 - [hurry](https://github.com/hui477)
 - [Anish shetty k](https://github.com/Anishshettyk)
 - [Ann](https://github.com/Annnnn1215)
