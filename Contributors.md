@@ -7,6 +7,7 @@
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - (Shyamashrita Chatterjee)
+- [Jonathan Noack](https://github.com/jonock)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
