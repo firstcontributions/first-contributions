@@ -7,7 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Read/Write data into README
-      uses: mallikarjunht1997/gh-actions-sort-markdown-links@v0.0.1
+      uses: mallikarjunht1997/gh-actions-sort-markdown-links/sort.py
       with:
         md-file-path: '/first-contributions/blob/master/Contributors.md'
         github-token: ${{ secrets.GITHUB_TOKEN }}
