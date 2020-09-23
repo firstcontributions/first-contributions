@@ -339,7 +339,6 @@ Pramit Patel
 - [Arjun Aggarwal](https://github.com/Arjun-Aggarwal)
 - Wimansha Herath
 - Marc Banuls
-- [Charles Adeyinka](https://github.com/Kaykai-19)
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Shrish Tripathi](https://github.com/shrishtrip)
 - [Okezie Chiedozie](https://github.com/okezieuc)
