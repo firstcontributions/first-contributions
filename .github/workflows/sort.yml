@@ -12,5 +12,5 @@ jobs:
         architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
         md-file-path: '/first-contributions/blob/master/Contributors.md'
         github-token: ${{ secrets.GITHUB_TOKEN }}
-    - run: sort.py
+    - run: python sort.py
         
