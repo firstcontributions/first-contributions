@@ -13,17 +13,8 @@ jobs:
         md-file-path: '/first-contributions/blob/master/Contributors.md'
         github-token: ${{ secrets.GITHUB_TOKEN }}
     - run: python sort.py
-    - name: checkout
-      uses: actions/checkout@v2
-    # make the changes between checkout and push
-    - name: push
-      uses: actions-x/commit@v2
-      with:
-        email: mallikarjunht1997@gmail.com
-        name: GitHub Actions Autocommitter
-        branch: master
-        repository: https://github.com/mallikarjunht1997/first-contributions 
-        token: ${{ secrets.GITHUB_TOKEN }}
-        force: true
-      
+    - uses: mikeal/publish-to-github-action@master
+      env :
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_NAME: 'master' #optional defaults to master
         
