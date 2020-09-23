@@ -620,6 +620,7 @@ Pramit Patel
 - [Guilherme Victor](https://github.com/guivictorr)
 - [Evan DeVault](https://github.com/evandevault)
 - Lajuan Station
+- [Koceng]
 - Frank F
 - [Alec Chen](https://github.com/alecchendev)
 - [Molly Kizer](https://github.com/LivesInRoom29)
@@ -4571,6 +4572,8 @@ Pramit Patel
 - [Hrushikesh Das](https://github.com/Rishi-121)
 - [tim-hub](https://tim.bai.uno)
 - [Jason Evans](https://github.com/GrumpyMonk26)
+- [Maxime Oriol](https://github.com/Maxime-Oriol)
+=======
 - [GoGi2712](https://github.com/GoGi2712)
 - [Jason Evans](https://github.com/GrumpyMonk26)
 - [Maxime Oriol](https://github.com/Maxime-Oriol)
@@ -4645,6 +4648,7 @@ Pramit Patel
 - [Zewi2k] (https://github.com/Zewi2k)
 - [Javed Khan] (https://github.com/jav7zaid)
 - [Enes Bajramovic] (https://github.com/enba00)
+- [kucing]
 - [Roy Jara](https://github.com/royjara)
 - [bidetaggle](https://github.com/bidetaggle)
 - [deeryizhixiaolu](https://github.com/deeryizhixiaolu)
