@@ -4621,6 +4621,7 @@ Pramit Patel
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
 - [Eric Eric]
 - [Joshua Hew](https://github.com/CSugarPrince)
+- [Pradeep Appala](https://github.com/pradeepappala)
 - [Erica Gerez](https://github.com/ericagerez)
 - [Jonathan Diamant]
 - [David Fers](https://github.com/davidfers)
