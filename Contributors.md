@@ -2,6 +2,7 @@
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - (Shyamashrita Chatterjee)
+- [Raj Valand] (https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
@@ -100,6 +101,7 @@
 - [Lorenzo Ippolito]
 - [Sokhuong Uon](https://github.com/SOKHUONG)
 - [Sabokhat Kalandarova](https://github.com/sabohat)
+- [Rajz Timba] (https://github.com/Raj142)
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
 - [miwatso]
 - [Osman Kamara](https://github.com/osmankbk)
