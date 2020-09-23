@@ -25,6 +25,7 @@
 - [Zubier Abdullah](https://github.com/ZubierAbd)
 - [Hari Kumar]
 - [Iulian Caleanu] (https://github.com/DayOne723)
+- [Hritwik Som] (https://github.com/DistinctRain9)
 - [Mark-dev1] (https://github.com/Mark-dev1)
 - [PRANAV CHATURVEDI](https://github.com/masterpranav)
 - [Jacob Voyles](https://github.com/jtvkw2)
