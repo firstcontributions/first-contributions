@@ -13,4 +13,10 @@ jobs:
         md-file-path: '/first-contributions/blob/master/Contributors.md'
         github-token: ${{ secrets.GITHUB_TOKEN }}
     - run: python sort.py
+    - name: checkout
+      uses: actions/checkout@v2
+    # make the changes between checkout and push
+    - name: push
+      uses: actions-x/commit@v2
+      
         
