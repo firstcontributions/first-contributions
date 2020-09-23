@@ -4675,6 +4675,7 @@ Pramit Patel
 - [Enes Bajramovic] (https://github.com/enba00)
 - [kucing]
 - [Roy Jara](https://github.com/royjara)
+- [Shmulik Cohen](https://github.com/anuk909)
 - [bidetaggle](https://github.com/bidetaggle)
 - [deeryizhixiaolu](https://github.com/deeryizhixiaolu)
 - [Sean Kim] (https://github.com/seank97)
