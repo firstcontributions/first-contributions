@@ -4593,6 +4593,7 @@ Pramit Patel
 - [Sayahitomi](https://github.com/Sayahitomi)
 - [Liao-yalin](https://github.com/Liao-yalin)
 - [jackey134](https://github.com/jackey134)
+- [LarryCol] (https://github.com/LarryCol)
 - [strangeporcupine](https://github.com/strangeporcupine)
 - [Sarthak Agrawal](https://github.com/sarthakagrawal927)
 - [drmikeida](https://github.com/drmikeida)
