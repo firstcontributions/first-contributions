@@ -12,6 +12,7 @@
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
+- [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
