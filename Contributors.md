@@ -1,4 +1,5 @@
 # Contributors
+- [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - (Shyamashrita Chatterjee)
@@ -350,6 +351,7 @@ Pramit Patel
 - Wimansha Herath
 - Marc Banuls
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
+- [Ayushi Srivastava](https://github.com/srivastavayushi)
 - [Shrish Tripathi](https://github.com/shrishtrip)
 - [Okezie Chiedozie](https://github.com/okezieuc)
 - [Akshat Sood](https://github.com/akshatsood2249)
