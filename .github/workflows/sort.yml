@@ -9,5 +9,5 @@ jobs:
     - name: Read/Write data into README
       uses: mallikarjunht1997/gh-actions-sort-markdown-links@v0.0.1
       with:
-        md-file-path: 'README.md'
+        md-file-path: '/first-contributions/blob/master/Contributors.md'
         github-token: ${{ secrets.GITHUB_TOKEN }}
