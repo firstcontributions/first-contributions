@@ -11,6 +11,7 @@
 - [Jonathan Noack](https://github.com/jonock)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
+- [Sarah Park] (https://github.com/sarahyaepark)
 - [Ali Hayder](http://ahayder.me)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
