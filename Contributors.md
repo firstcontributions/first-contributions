@@ -103,6 +103,7 @@
 - [kuldeep_singh]
 - Peyton Miller
 Sameer Choudhary
+Pramit Patel
 - [Archit Gupta](https://github.com/rarchitgupta)
 - [Dwija Bagwe](https://github.com/dwija-bagwe)
 - [Irwanto Cia](https://github.com/irwantocia)
