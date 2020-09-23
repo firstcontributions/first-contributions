@@ -1,5 +1,6 @@
 # Contributors
 - [Gaurav Pandey](https://github.com/GauravPandey892)
+- [Xefyn](https://github.com/Xefyn)
 - [Tulsi](https://github.com/deytulsi18)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Alison](https://github.com/alisonzhu)
