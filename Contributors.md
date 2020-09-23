@@ -4524,6 +4524,7 @@ Pramit Patel
 - [Eunchae Jeon](https://github.com/eunchae-jeon)
 - [Hayat Zakaria](https://github.com/hayatzsala)
 - [Abraham John Paul](https://github.com/abraham-john-paul)
+- [Sanmit Mandal](https://github.com/sanmitM312)
 - [Faith Chepkorir](https://github.com/chrpkorir)
 - [Austin Lam](https://github.com/lamaustin68)
 - [Eric Nguyen](https://github.com/EricNguyen-B)
