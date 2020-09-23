@@ -84,6 +84,7 @@
 - [Matt Westbrook](https://github.com/mattgw10)
 - [Hopper Kremer](https://github.com/HopperKremer)
 - [pooja kanojia]
+- [Omar Khan](https://github.com/lowsound42)
 - [Anusha Prabhu](https://github.com/anusharp97)
 - [Sachin Kumar](https://github.com/toocoolsachin)
 - [Hyun Jin Kim](https://github.com/hjk068)
