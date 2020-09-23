@@ -6,8 +6,11 @@ jobs:
     name: Sort Links
     steps:
     - uses: actions/checkout@v2
-    - name: Read/Write data into README
-      uses: mallikarjunht1997/gh-actions-sort-markdown-links/sort.py
+    - uses: actions/setup-python@v2
       with:
+        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+        architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
         md-file-path: '/first-contributions/blob/master/Contributors.md'
         github-token: ${{ secrets.GITHUB_TOKEN }}
+    - run: python my_script.py
+        
