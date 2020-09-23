@@ -4509,6 +4509,7 @@ Pramit Patel
 - [Shubham kumar jayswal](https://github.com/sk662516)
 - [Danielle Cole](https://github.com/daniellercole)
 - [Mansi Agnihotri](https://github.com/pyprogr)
+- [Sezgin Mustafa](https://github.com/sezgo/)
 - [Jose Osuna](https://github.com/joseosuna-engineer)
 - [Jake Coldbrook](https://github.com/jakeColdbrook)
 - [Vignesh Vijay](https://github.com/Viggy9)
