@@ -2457,6 +2457,7 @@ Pramit Patel
 - [asubedy](https://github.com/asubedy)
 - [Bhavya](https://github.com/raobhavya92)
 - [Karthik](https://github.com/knagab2/)
+- [Benjamin Manuel](https://github.com/benmanuel12)
 - [Alberto Valdiviez](https://github.com/albertogfv)
 - [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
 - [Srishti Gupta](https://github.com/Srishti-1302)
