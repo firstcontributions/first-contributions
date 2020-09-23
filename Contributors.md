@@ -8,6 +8,7 @@
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
+- Sela01
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
