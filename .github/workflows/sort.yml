@@ -1,0 +1,13 @@
+on: [push]
+
+jobs:
+  table:
+    runs-on: ubuntu-latest
+    name: Sort Links
+    steps:
+    - uses: actions/checkout@v2
+    - name: Read/Write data into README
+      uses: mallikarjunht1997/gh-actions-sort-markdown-links@v0.0.1
+      with:
+        md-file-path: 'README.md'
+        github-token: ${{ secrets.GITHUB_TOKEN }}
