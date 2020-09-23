@@ -4648,6 +4648,7 @@ Pramit Patel
 - [hurry](https://github.com/hui477)
 - [Ann](https://github.com/Annnnn1215)
 - [Vishant Khunti] (https://github.com/vishant93)
+- [SMARTYPANTS87](https://github.com/SMARTYPANTS87)
 - [QQaker](https://github.com/QQaker)
 - [AnnnnnJian](https://github.com/AnnnnnJian)
 - [Kerogame] (https://zh-tw.facebook.com/kerogame)
