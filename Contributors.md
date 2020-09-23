@@ -73,6 +73,7 @@
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
 - [こんにちは]
+- [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
 - [viraldevpb](https://github.com/viraldevpb)
 - [Yash Chaudhari]
