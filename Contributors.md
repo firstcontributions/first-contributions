@@ -1412,6 +1412,7 @@ Pramit Patel
 - [Vicente015](https://github.com/Vicente015)
 - [Lucas Ravy](https://github.com/lucasravy)
 - [Eduardo de Moura Rodrigues](https://github.com/eduardomrodrigues)
+- [Madhusudhan Kumble](https://github.com/madhukumble)
 - [Fernando Campos Schelb](https://github.com/houspiller)
 - [Akanksha Priya](https://github.com/Spring-dot)
 - [Or Lanir](https://github.com/Laniros)
