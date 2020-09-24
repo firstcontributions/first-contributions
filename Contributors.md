@@ -10,6 +10,7 @@
 - [Sakshi Kumar](https://github.com/sakshi006)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - (Shyamashrita Chatterjee)
+  [Meet Vyas](https://github.com/MeetVys)
 - [Jonathan Noack](https://github.com/jonock)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
