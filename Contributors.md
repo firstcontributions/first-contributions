@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
@@ -4729,3 +4728,4 @@
 - [Kavish-Agnihotri](https://github.com/Kavish-Agnihotri)
 - [MananKGarg](https://github.com/MananKGarg)
 - [Damien Archer](https://github.com/daarcher04)
+- [Zac Smith](https://github.com/nmsilverback)
