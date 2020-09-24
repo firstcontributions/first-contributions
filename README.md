@@ -46,7 +46,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">](translations/README.mx.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">](translations/README.my.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ml.svg" width="22">](translations/README.nl.md)</kbd>
-<kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.tl.md)</kbd>
