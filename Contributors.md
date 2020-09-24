@@ -2289,6 +2289,7 @@ Pramit Patel
 - [Yang Ningxin](https://github.com/nixgnin)
 - [Jay Bhoyar](https://github.com/jaybhoyar)
 - [Jay Weber](https://github.com/jayweber04)
+- [Prith Manickam](https://github.com/prithmanickam)
 - [Dan Chif](https://github.com/nadchif)
 - [ripal patel](https://github.com/srip1)
 - [Steve Hardy](https://github.com/Govanator12)
@@ -4698,3 +4699,4 @@ Pramit Patel
 - [Gutas was here]
 - [MananKGarg](https://github.com/MananKGarg)
 - [kiwan97](https://github.com/kiwan97)
+
