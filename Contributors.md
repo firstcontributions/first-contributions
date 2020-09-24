@@ -7,6 +7,7 @@
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Alison](https://github.com/alisonzhu)
 - [Gibran Herrera](https://github.com/GibranHL0)
+- [Sakshi Kumar](https://github.com/sakshi006)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - (Shyamashrita Chatterjee)
 - [Jonathan Noack](https://github.com/jonock)
@@ -15,7 +16,7 @@
 - [Sarah Park] (https://github.com/sarahyaepark)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
--[Lois Choji](https://github.com/LoisChoji)
+- [Lois Choji](https://github.com/LoisChoji)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
@@ -130,8 +131,8 @@
 - [Osman Kamara](https://github.com/osmankbk)
 - [kuldeep_singh]
 - Peyton Miller
-Sameer Choudhary
-Pramit Patel
+  Sameer Choudhary
+  Pramit Patel
 - [Archit Gupta](https://github.com/rarchitgupta)
 - [Dwija Bagwe](https://github.com/dwija-bagwe)
 - [Irwanto Cia](https://github.com/irwantocia)
