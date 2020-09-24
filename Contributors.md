@@ -1,9 +1,11 @@
 ﻿# Contributors
+
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
 - [Xefyn](https://github.com/Xefyn)
+- [Erick Canals](https://github.com/ec7495)
 - [Tulsi](https://github.com/deytulsi18)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Alison](https://github.com/alisonzhu)
@@ -29,7 +31,7 @@
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
 - [Sattwik Palai] (https://github.com/sattwik21)
--[Konstantinos Lamogiannis](https://github.com/kostaslamo)
+- [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Mcaupybugs](https://github.com/mcaupybugs)
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
