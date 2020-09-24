@@ -118,6 +118,7 @@ git push origin <add-your-name>
 
 첫 기여에 대한 소식을 친구들 및 팔로워에게 [웹 앱](https://roshanjossey.github.io/first-contributions/#social-share)을 통해 공유해보세요.
 
+
 그리고 도움이 필요하거나 질문이 있다면 저희의 slack 에서 요청해보세요. -> [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://roshanjossey.github.io/first-contributions/#project-list)에서 확인해보세요.
