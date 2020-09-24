@@ -12,6 +12,7 @@
 - (Shyamashrita Chatterjee)
   [Meet Vyas](https://github.com/MeetVys)
 - [Jonathan Noack](https://github.com/jonock)
+- [Jasleen Kaur](https://github.com/Jasleen01)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Sarah Park] (https://github.com/sarahyaepark)
