@@ -28,6 +28,7 @@
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
 - [Nachiket Sirsikar](https://www.github.com/nachiketS)
 - [Tanmay Gairola]
+- [Valenzuela Horacio] (https://github.com/UnderABloodySky)
 - [Kate Turner] (https://github.com/kateturnerdev)
 - [wangzhihaisf](https://github.com/wangzhihaiSF)
 - [Thangadurai Arumugam](https://github.com/thanga2014)
