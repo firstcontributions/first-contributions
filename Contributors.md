@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
@@ -27,8 +28,7 @@
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
-- [Sattwik Palai] (https://github.com/sattwik21) 
--[Konstantinos Lamogiannis](https://github.com/kostaslamo)
+- [Sattwik Palai] (https://github.com/sattwik21) -[Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Mcaupybugs](https://github.com/mcaupybugs)
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
@@ -4722,3 +4722,4 @@
 - [u10k](https://github.com/u10k)
 - [Kavish-Agnihotri](https://github.com/Kavish-Agnihotri)
 - [MananKGarg](https://github.com/MananKGarg)
+- [Zac Smith](https://github.com/nmsilverback)
