@@ -4298,6 +4298,7 @@
 - [Samman](https://github.com/rssrrr)
 - [Aakanchha Trivedi](https://github.com/aakanchha01)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
+- [Pavel Darazhko](https://github.com/pdarazhko)
 - [Manheiba](https://github.com/manheiba)
 - [atglenio](https://github.com/atglenio)
 - [Brandon Boettcher](https://github.com/boett)
