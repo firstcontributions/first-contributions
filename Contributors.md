@@ -3582,6 +3582,7 @@
 - [Daemon](https://github.com/prameya21)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
 - [David Jahng](https://github.com/djahng)
+- [Brian Xiang](https://github.com/cf12)
 - [Azhar Anwar](https://github.com/iamazhar)
 - [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
 - [Alexander Santos](https://github.com/ronkiro)
