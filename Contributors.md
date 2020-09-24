@@ -17,6 +17,7 @@
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
+- [Ethan Wu](https://github.com/ew2664)
 - [Sarah Park] (https://github.com/sarahyaepark)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
@@ -27,7 +28,7 @@
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
-- [Sattwik Palai] (https://github.com/sattwik21) 
+- [Sattwik Palai] (https://github.com/sattwik21)
 -[Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Mcaupybugs](https://github.com/mcaupybugs)
