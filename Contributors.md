@@ -80,6 +80,7 @@
 - [Yin Jian](https://github.com/Skyseaee)
 - [Ritwik Singh]
 - [Suyash Bhadani]
+- [Moath Farhoud] (https://github.com/moathf123)
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
