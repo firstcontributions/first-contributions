@@ -4394,6 +4394,7 @@
 - [Gokhan Irmak](https://github.com/GokhanIrmak)
   Prabhat
 - [Priya Pisipati](https://github.com/preeap3)
+- [Smriti Naik](https://github.com/shruti1421)
 - [Hen Izon](https://github.com/izonnn)
 - Alexei Test
 - [Idiot](https://github.com/trustMeIAmAnIdiot)
