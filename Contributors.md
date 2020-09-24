@@ -1975,6 +1975,7 @@
 - [Rakesh Pareek](https://github.com/rkpareek)
   [Isha Jain](https://github.com/ishajain15)
 - [Rahul Parmar](https://github.com/ramrap)
+- [Seung Min](https://github.com/saseungmin)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Swarag-N👩🚀](https://github.com/Swarag-N)
