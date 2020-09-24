@@ -1352,6 +1352,7 @@
 - [Ifrah Vermeer](https://github.com/ifrahv)
 - [Pankaj Khushalani](https://github.com/pk-218)
 - [Luis Holzer](https://github.com/Luis089)
+- [Aravind Mohan](https://github.com/aravindmohan88)
 - [Manzano Akhtar](https://github.com/manzanoakhtar7)
 - [Thomas Ongley](https://github.com/thomasongley)
 - [Kathleen Capella](https://github.com/kcapella)
