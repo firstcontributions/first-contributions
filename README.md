@@ -47,7 +47,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ml.svg" width="22">](translations/README.nl.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)
-[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="22">](translations/README.np.md)
+[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.tl.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)
