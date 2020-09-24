@@ -26,7 +26,7 @@
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
 | 🇮🇷 | [فارسی](README.fa.md) |
-| 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
+| 🇮🇷 | [Persian Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
 | 🇩🇪  | [Deutsch](README.de.md) |
@@ -61,8 +61,7 @@
 | 🇬🇪 | [ქართული](README.ge.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
 | 🇫🇮 | [Suomeksi](README.fi.md) |
-| 🇲🇽 | [Mexico](README.mx.md) |
+| 🇲🇽 | [Español de México](README.mx.md) |
 | 🇸🇷 | [Suriname](README.sr.md) |
 | 🇱🇻 | [Latvia](README.lv.md) |
 | 🇦🇱 | [Shqip](README.al.md) |
-
