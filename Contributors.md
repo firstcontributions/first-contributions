@@ -805,6 +805,7 @@
 - [Hamed Ghoochanian](https://github.com/HamedGhoochanian)
 - Brendan Kelly
 - [Catherine Nguyen](https://github.com/catherinevn)
+- [Chris E](https://github.com/MrChrisE)
 - [Raksha Navale](https://github.com/rakshanavale24092000)
 - [Allan Qin](https://github.com/allanqin)
 - [Zach Boyce](https://github.com/ZachBoyce1)
