@@ -11,12 +11,11 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
+
+#### _Read this in [other languages](translations/Translations.md)._
 <table>
 <tr>
 <td>
-
-#### _Read this in [other languages](translations/Translations.md)._
-
 </td>
 </tr>
 <tr>
