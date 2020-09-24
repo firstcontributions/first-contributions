@@ -1,5 +1,7 @@
 ﻿# Contributors
+
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
+- [Ali Jbareen](https://github.com/alijbareen)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
@@ -92,7 +94,7 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
-[Sanad Omar]
+  [Sanad Omar]
 - [こんにちは]
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
@@ -1170,7 +1172,7 @@
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
--wissal
+  -wissal
 - jamose0
 - 8Dion8
 - ergm
