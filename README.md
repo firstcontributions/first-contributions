@@ -13,13 +13,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 
 #### _Read this in [other languages](translations/Translations.md)._
-<table>
-<tr>
-<td>
-</td>
-</tr>
-<tr>
-<td>
+<kbd>
 
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)
@@ -78,9 +72,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)
 [<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)
 
-</td>
-</tr>
-</table>
+</kbd>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
