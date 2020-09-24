@@ -1,68 +1,67 @@
 # Translations
 
-|  | Translated Link |
-| --- | --- |
-| 🇮🇳 | [ગુજરાતી](README.guj.md) |
-| 🇮🇳 | [हिन्दी](README.hi.md) |
-| 🇮🇳 | [मराठी](README.mr.md) |
-| 🇮🇳 | [മലയാളം](README.ml.md) |
-| 🇮🇳 | [ಕನ್ನಡ](README.ka.md) |
-| 🇮🇳 | [తెలుగు](README.te.md) |
-| 🇮🇳 | [छत्तीसगढ़ी](README.cg.md) |
-| 🇮🇳 🇧🇩 | [বাংলা](README.bn.md) |
-| 🇮🇳 🇱🇰 | [தமிழ்](README.ta.md) |
-| 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
-| 🇮🇩 | [Bahasa Indonesia](README.id.md) |
-| <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
-| 🇫🇷 | [Français](README.fr.md) |
-| 🇪🇸 | [Español](README.es.md) |
-| 🇳🇱 | [Nederlands](README.nl.md) |
-| 🇷🇺 | [Русский язык](README.ru.md) |
-| 🇧🇬 | [Bulgarian](README.bg.md) |
-| 🇲🇰 | [Македонски](README.mk.md) |
-| 🇭🇺 | [Magyar](README.hu.md) |
-| :slovakia: | [Slovenčina](README.slk.md) |
-| 🇯🇵 | [日本語](README.ja.md) |
-| 🇻🇳 | [Tiếng Việt](README.vn.md) |
-| 🇵🇱 | [Polski](README.pl.md) |
-| 🇮🇷 | [فارسی](README.fa.md) |
-| 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
-| 🇱🇹 | [Lietuvių kalba](README.lt.md) |
-| 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
-| 🇩🇪  | [Deutsch](README.de.md) |
-| 🇨🇳 🇹🇼 | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
-| 🇬🇷 | [ελληνικά](README.gr.md) |
-| العربية | [العربية](README.ar.md) |
-| 🇺🇦 | [Українська](README.ua.md) |
-| 🇧🇷 | [Português (Brasil)](README.pt_br.md) |
-| 🇵🇹 | [Português (Portugal)](README.pt-pt.md) |
-| 🇮🇹 | [Italiano](README.it.md)
-| 🇹🇭 | [ภาษาไทย](README.th.md) |
-| 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
-| 🇳🇵 | [नेपाली](README.np.md) |
-| 🇵🇰 | [اردو](README.ur.md) |
-| 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
-| :uk: | [English](../README.md) |
-| <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
-| 🇹🇷 | [Türkçe](README.tr.md) |
-| 🇮🇱 | [עברית](README.hb.md) |
-| 🇲🇾 | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md) |
-| 🇨🇿 | [Czech](README.cs.md) |
-| :slovenia: | [Slovenščina](README.sl.md) |
-| 🇳🇴 | [Norsk](README.no.md) |
-| 🇸🇪 | [Svenska](README.se.md) |
-| 🇩🇰 | [Dansk](README.da.md) |
-| 🇪🇬 | [المصرية](README.eg.md) |
-| 🇵🇭 | [Wikang Filipino](README.tl.md) |
-| 🇰🇿 | [Қазақша](README.kz.md) |
-| 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
-| 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
-| 🇰🇪 | [Kiswahili (Kenya)](README.kws.md) |
-| 🇬🇪 | [ქართული](README.ge.md) |
-| 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
-| 🇫🇮 | [Suomeksi](README.fi.md) |
-| 🇲🇽 | [Mexico](README.mx.md) |
-| 🇸🇷 | [Suriname](README.sr.md) |
-| 🇱🇻 | [Latvia](README.lv.md) |
-| 🇦🇱 | [Shqip](README.al.md) |
-
+|                                                                                                                                                                                             | Translated Link                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [ગુજરાતી](README.guj.md)                                              |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [हिन्दी](README.hi.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [मराठी](README.mr.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [മലയാളം](README.ml.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [ಕನ್ನಡ](README.ka.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [తెలుగు](README.te.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                               | [छत्तीसगढ़ी](README.cg.md)                                            |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22"> <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22"> | [বাংলা](README.bn.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22"> <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22"> | [தமிழ்](README.ta.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mm.svg" width="22">                                                                                               | [မြန်မာ](README.mm_unicode.md)                                        |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">                                                                                               | [Bahasa Indonesia](README.id.md)                                      |
+| <img src="../assets/catalan1.png" width="22">                                                                                                                                               | [Català](README.ca.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">                                                                                               | [Français](README.fr.md)                                              |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">                                                                                               | [Español](README.es.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">                                                                                               | [Nederlands](README.nl.md)                                            |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">                                                                                               | [Русский язык](README.ru.md)                                          |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">                                                                                               | [Bulgarian](README.bg.md)                                             |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">                                                                                               | [Македонски](README.mk.md)                                            |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">                                                                                               | [Magyar](README.hu.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">                                                                                               | [Slovenčina](README.slk.md)                                           |
+| <img src="../assets/jp.png" width="22">                                                                                                                                                     | [日本語](README.ja.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">                                                                                               | [Tiếng Việt](README.vn.md)                                            |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">                                                                                               | [Polski](README.pl.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">                                                                                               | [فارسی](README.fa.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">                                                                                               | [Persian_Finglish](README.fa.en.md)                                   |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">                                                                                               | [Lietuvių kalba](README.lt.md)                                        |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22"> | [한국어](README.ko.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">                                                                                               | [Deutsch](README.de.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22"> <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22"> | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">                                                                                               | [ελληνικά](README.gr.md)                                              |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ar.svg" width="22">                                                                                               | [العربية](README.ar.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">                                                                                               | [Українська](README.ua.md)                                            |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">                                                                                               | [Português (Brasil)](README.pt_br.md)                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">                                                                                               | [Português (Portugal)](README.pt-pt.md)                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">                                                                                               | [Italiano](README.it.md)                                              |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">                                                                                               | [ภาษาไทย](README.th.md)                                               |
+| 󠁥󠁳󠁧󠁡<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gl.svg" width="22">                                                                                           | [Galego](README.gl.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">                                                                                               | [नेपाली](README.np.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">                                                                                               | [اردو](README.ur.md)                                                  |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/md.svg" width="22"> <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ro.svg" width="22"> | [Limba Română](README.ro.md)                                          |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">                                                                                               | [English](../README.md)                                               |
+| <img src="../assets/pirate.png" width="22">                                                                                                                                                 | [English (Pirate)](README.en-pirate.md)                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">                                                                                               | [Türkçe](README.tr.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/il.svg" width="22">                                                                                               | [עברית](README.hb.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">                                                                                               | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md)                   |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">                                                                                               | [Czech](README.cs.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">                                                                                               | [Slovenščina](README.sl.md)                                           |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">                                                                                               | [Norsk](README.no.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">                                                                                               | [Svenska](README.se.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">                                                                                               | [Dansk](README.da.md)                                                 |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">                                                                                               | [المصرية](README.eg.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">                                                                                               | [Wikang Filipino](README.tl.md)                                       |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">                                                                                               | [Қазақша](README.kz.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">                                                                                               | [Afrikaans (South Africa)](README.afk.md)                             |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">                                                                                               | [Zulu (South Africa)](README.zul.md)                                  |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">                                                                                               | [Kiswahili (Kenya)](README.kws.md)                                    |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">                                                                                               | [ქართული](README.ge.md)                                               |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">                                                                                               | [Igbo (Nigeria)](README.igb.md)                                       |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">                                                                                               | [Suomeksi](README.fi.md)                                              |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">                                                                                               | [Español de México](README.mx.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sr.svg" width="22">                                                                                               | [Suriname](README.sr.md)                                              |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">                                                                                               | [Latvia](README.lv.md)                                                |
+| <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">                                                                                               | [Shqip](README.al.md)                                                 |
