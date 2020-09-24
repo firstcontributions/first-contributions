@@ -1,4 +1,5 @@
 # Contributors
+- [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
 - [Xefyn](https://github.com/Xefyn)
