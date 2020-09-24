@@ -3772,6 +3772,7 @@ Pramit Patel
 - [Andrew Limaru](https://github.com/andr3wll)
 - [Chuk Robertson](https://github.com/chukrobertson)
 - [Vishwanath Joshi](https://github.com/vishnitin)
+- [Ashwin Yardi](https://github.com/ashwinYardi)
 - [Vishnu Sharma](https://github.com/vish198910)
 - [WxBDM](https://github.com/WxBDM)
 - [Inoarby](https://github.com/Inoarby)
@@ -3788,7 +3789,7 @@ Pramit Patel
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
 - [Chris Vo](https://github.com/VoChrisK)
-- [Rugved](https://github.com/rugved)
+- [Rugved](https://github.com/rugved)s
 - [Thomas Yun](https://github.com/tyun023)
 - [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Futurne](https://github.com/Futurne)
