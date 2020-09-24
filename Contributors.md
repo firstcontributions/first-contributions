@@ -11,6 +11,7 @@
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Ali Hayder](http://ahayder.me)
+-[Lois Choji](https://github.com/LoisChoji)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
