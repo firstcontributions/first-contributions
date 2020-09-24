@@ -1170,6 +1170,7 @@
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
+-wissal
 - jamose0
 - 8Dion8
 - ergm
