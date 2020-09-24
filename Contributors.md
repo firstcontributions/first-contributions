@@ -10,6 +10,7 @@
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Sakshi Kumar](https://github.com/sakshi006)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
+- [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
   [Meet Vyas](https://github.com/MeetVys)
 - [Jonathan Noack](https://github.com/jonock)
