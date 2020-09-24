@@ -1,5 +1,4 @@
 # Contributors
-
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
@@ -16,7 +15,8 @@
 - [Dennis Lee](https://github.com/dennislwm)
 - [Sarah Park] (https://github.com/sarahyaepark)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
-- [Ali Hayder](http://ahayder.me) -[Lois Choji](https://github.com/LoisChoji)
+- [Ali Hayder](http://ahayder.me)
+- [Lois Choji](https://github.com/LoisChoji)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
