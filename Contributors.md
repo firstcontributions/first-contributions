@@ -2302,6 +2302,7 @@
 - [Mohan](https://github.com/mohankgaddam)
 - [Mohammed Saeed](https://github.com/saeed27-dev)
 - [Christopher Gardner](https://github.com/Orbitsub)
+- [Prith Manickam](https://github.com/prithmanickam)
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Jack Coggins](https://github.com/VoidAwake)
 - [Austin Hufstetler](https://github.com/austinHufstetler)
