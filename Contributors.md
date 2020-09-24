@@ -1,6 +1,7 @@
 # Contributors
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
+- [Tobi Oyetunji](https://github.com/Oluwatobi09)
 - [Achyut Paudel](https://github.com/achyut)
 - [Xefyn](https://github.com/Xefyn)
 - [Tulsi](https://github.com/deytulsi18)
