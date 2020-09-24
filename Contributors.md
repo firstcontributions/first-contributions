@@ -4373,3 +4373,4 @@ https://markdown-dungeon.netlify.app/- [Abbey Dabiri](https://github.com/abbeyda
 - [David Manitarellis](https://github.com/Davidmh93)
 - [Andrew Dinh](https://github.com/quyctd)
 - [Sheetal](https://github.com/Sheetal777)
+- [Ryan Thomas] (https://github.com/ryantthomas)
