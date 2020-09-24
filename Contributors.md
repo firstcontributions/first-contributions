@@ -19,6 +19,7 @@
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
+- [Ethan Wu](https://github.com/ew2664)
 - [Sarah Park] (https://github.com/sarahyaepark)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
@@ -29,7 +30,8 @@
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
-- [Sattwik Palai] (https://github.com/sattwik21) -[Konstantinos Lamogiannis](https://github.com/kostaslamo)
+- [Sattwik Palai] (https://github.com/sattwik21)
+- [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Mcaupybugs](https://github.com/mcaupybugs)
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
@@ -90,6 +92,7 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
+[Sanad Omar]
 - [こんにちは]
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
@@ -4299,6 +4302,7 @@
 - [Samman](https://github.com/rssrrr)
 - [Aakanchha Trivedi](https://github.com/aakanchha01)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
+- [Pavel Darazhko](https://github.com/pdarazhko)
 - [Manheiba](https://github.com/manheiba)
 - [atglenio](https://github.com/atglenio)
 - [Brandon Boettcher](https://github.com/boett)
@@ -4396,6 +4400,7 @@
 - [Gokhan Irmak](https://github.com/GokhanIrmak)
   Prabhat
 - [Priya Pisipati](https://github.com/preeap3)
+- [Smriti Naik](https://github.com/shruti1421)
 - [Hen Izon](https://github.com/izonnn)
 - Alexei Test
 - [Idiot](https://github.com/trustMeIAmAnIdiot)
