@@ -84,6 +84,7 @@
 - [Aarushi Gupta]
 - [Helen Cunningham]
 - [Khalid Elmesallamy](https://github.com/Mosallamy)
+- [ChrisIIx](https://github.com/ChrisIIx)
 - [Yin Jian](https://github.com/Skyseaee)
 - [Ritwik Singh]
 - [Suyash Bhadani]
