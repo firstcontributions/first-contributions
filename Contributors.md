@@ -4661,6 +4661,7 @@
 - [Charlie Gray](https://github.com/charlie-gray)
 - [jaredaritter](https://github.com/jaredaritter)
 - [Sheetal](https://github.com/Sheetal777)
+- [Ryan Thomas](https://github.com/ryantthomas)
 - [Evan Stocker](https://github.com/evanstocker)
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
