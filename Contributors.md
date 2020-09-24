@@ -84,6 +84,7 @@
 - [Aarushi Gupta]
 - [Helen Cunningham]
 - [Khalid Elmesallamy](https://github.com/Mosallamy)
+- [ChrisIIx](https://github.com/ChrisIIx)
 - [Yin Jian](https://github.com/Skyseaee)
 - [Ritwik Singh]
 - [Suyash Bhadani]
@@ -804,6 +805,7 @@
 - [Hamed Ghoochanian](https://github.com/HamedGhoochanian)
 - Brendan Kelly
 - [Catherine Nguyen](https://github.com/catherinevn)
+- [Chris E](https://github.com/MrChrisE)
 - [Raksha Navale](https://github.com/rakshanavale24092000)
 - [Allan Qin](https://github.com/allanqin)
 - [Zach Boyce](https://github.com/ZachBoyce1)
@@ -4731,3 +4733,4 @@
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
+- [duffttt](https://github.com/duffttt)
