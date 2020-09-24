@@ -69,7 +69,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
-<kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22"](translations/README.by.md)</kbd>
+<kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
