@@ -25,6 +25,7 @@
 - [Tulsi](https://github.com/deytulsi18)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - pika-pi
+- [Jerry Xu](https://github.com/jerryxu158)
 - [Alison](https://github.com/alisonzhu)
 - [Saumya Bhatt](https://github.com/Saumya-Bhatt)
 - [Gibran Herrera](https://github.com/GibranHL0)
