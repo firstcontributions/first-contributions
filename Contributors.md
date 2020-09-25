@@ -7,6 +7,7 @@
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
 - [Xefyn](https://github.com/Xefyn)
 - [Erick Canals](https://github.com/ec7495)
+- [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Alison](https://github.com/alisonzhu)
