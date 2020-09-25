@@ -163,6 +163,7 @@
 - [Chaithra Pabbathi]
 - [Archi Aggarwal]
 - [Carl Sagan]
+- [Devjeet Roy](https://github.com/devjeetroy98)
 - [Michelle Sandford](https://github.com/msandfor)
 - [Mehul Bhatt](https://github.com/mehulbhat)
 - [AbbyCha](https://github.com/ChaAbby)
