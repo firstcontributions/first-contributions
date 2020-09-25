@@ -2955,6 +2955,7 @@
 - [Konstantinos Michelis](https://github.com/ElementalistBTG)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Pretam Ray](https://github.com/raypretam)
+- [Tommy Tham](https://github.com/tommytham)
 - [Dedy Puji](https://github.com/ddypjj)
 - [Troy Novak](https://github.com/tnovakgh)
 - [Goutham Menon](https://github.com/gouthammenon3)
