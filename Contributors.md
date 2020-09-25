@@ -4738,3 +4738,4 @@
 - [Zac Smith](https://github.com/nmsilverback)
 - [duffttt](https://github.com/duffttt)
 - [Carlos Martel](https://github.com/Letram) 
+- [Adrien Masanet](https://github.com/AdrienMasanet) 
