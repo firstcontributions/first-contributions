@@ -41,6 +41,7 @@
 - [Tanmay Gairola]
 - [Valenzuela Horacio] (https://github.com/UnderABloodySky)
 - [Kate Turner] (https://github.com/kateturnerdev)
+- [Christine Ahn]
 - [wangzhihaisf](https://github.com/wangzhihaiSF)
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Jennifer Lam](https://github.com/jen-la)
