@@ -204,6 +204,7 @@
 - [Vijay Yevatkar]
 - [Alex Langsam](https://github.com/Alangsam)
 - [Anicet Nougaret](https://github.com/AnicetNgrt)
+- [Jay Houston](github.com/jayfromhcomm)
 - [Christian Paolo Adriano](https://github.com/Aji7)
 - [Rajaonson Harijaona (Manjaka13)](https://github.com/Manjaka13)
 - [Gautam Prasad](https://github.com/Gautampd73)
