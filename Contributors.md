@@ -1997,6 +1997,8 @@
 - [Dave Holst](https://github.com/daveholst)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Andrew Reeves](https://github.com/areeves9)
+- [Uwe Kirchengast](https://github.com/trippleU)
+- [Andrew Reeves](https://github.com/areeves9)
 - [Runyu](https://github.com/runyud)
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Raghav Shukla](https://github.com/Raghav-byte)
