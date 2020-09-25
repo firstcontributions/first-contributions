@@ -4749,3 +4749,4 @@
 - [Carlos Martel](https://github.com/Letram) 
 - [Adrien Masanet](https://github.com/AdrienMasanet) 
 - [Ayan Saha]
+- [Quang Hoang](https://github.com/quangpro1610) 
