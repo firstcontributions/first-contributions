@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Arun Prabhakar] (https://github/arun-prabhakar)
+- [Or Zohar] (https://github.com/orZohar)
 - [Mayur](https://github.com/mayursamnani36)
 - [Pragati Alur](https://github.com/PragatiAlur)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
