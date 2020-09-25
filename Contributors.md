@@ -109,6 +109,7 @@
 - Ken Shay 9-14-2020
 - [Divya Chhibber](https://github.com/divyavit)
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
+- [Caden Gerard] (https://github.com/caden3ds)
 - [Rajeev Koushik]
 - [KK]
 - [Aarushi Gupta]
