@@ -9,7 +9,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+#### _If you're not comfortable with the command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 
 #### _Read this in [other languages](translations/Translations.md)._
@@ -85,15 +85,15 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone "URL you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "URL you just copied" (without the quotation marks) is the URL to this repository (your fork of this project). See the previous steps to obtain the URL.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -129,7 +129,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open the `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
