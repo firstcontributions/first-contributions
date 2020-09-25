@@ -116,7 +116,7 @@ cd first-contributions
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b your-new-branch-name
 ```
 
 For example:
