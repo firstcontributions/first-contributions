@@ -2629,6 +2629,7 @@
 - [Paramesh Chandra](https://github.com/paramphy)
 - [Tiji Mathew]
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
+- [Sean Cox](https://github.com/sccx)
 - [Firman Fachrial](https://github.com/ffachrial)
 - [Luis Sánchez](https://github.com/gareffpma)
 - [thojest](https://github.com/thojest)
