@@ -2,6 +2,7 @@
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Mayur](https://github.com/mayursamnani36)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
+- [Devansh Thapa](https://github.com/devansh1903)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Achyut Paudel](https://github.com/achyut)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
