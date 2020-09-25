@@ -73,6 +73,7 @@
 - [Jennifer Openshaw] (https://github.com/jlopenshaw41)
 - [Young Han](https://github.com/yhan0704)
 - [Rishabh]
+- [Jaideep Reddy Kotla](https://github.com/Jaideep07)
 - [Dhaval ]
 - [Chris Greening](https://github.com/chris-greening)
 - [Jose Cuervo](https://github.com/21Insight)
