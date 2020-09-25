@@ -1533,6 +1533,7 @@
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
+- [RachaelAndrew] (https://github.com/r-andrew-dev)
 - Summer Brant 
 - [pramish22](https://github.com/pramish22)
 - rahul123@
