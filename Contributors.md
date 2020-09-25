@@ -27,6 +27,7 @@
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
+- [Muhammad Bella Buay Nunyai](https://github.com/bellabeen)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
