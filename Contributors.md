@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Mayur](https://github.com/mayursamnani36)
+- [Pragati Alur](https://github.com/PragatiAlur)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Devansh Thapa](https://github.com/devansh1903)
