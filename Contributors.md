@@ -4,6 +4,7 @@
 - [Or Zohar] (https://github.com/orZohar)
 - [Mayur](https://github.com/mayursamnani36)
 - [Pragati Alur](https://github.com/PragatiAlur)
+- [Berkay Kan](https://github.com/brkykan)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Devansh Thapa](https://github.com/devansh1903)
