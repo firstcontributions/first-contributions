@@ -6,6 +6,7 @@
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Or Zohar] (https://github.com/orZohar)
 - [Mayur](https://github.com/mayursamnani36)
+- [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
 - [Vinay Manala](https://github.com/VinayManala)
 - [Berkay Kan](https://github.com/brkykan)
