@@ -14,6 +14,7 @@
 - [Damian Romero](https://github.com/damian-romero)
 - [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
+- [Tarush Arora](https://github.com/tarusharora03)
   [Meet Vyas](https://github.com/MeetVys)
 - [Jonathan Noack](https://github.com/jonock)
 - [Jasleen Kaur](https://github.com/Jasleen01)
