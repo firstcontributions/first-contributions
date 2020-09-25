@@ -39,6 +39,7 @@
 - [Soumallya Dev](https://github.com/soumallyadev07)
 - [Ethan Wu](https://github.com/ew2664)
 - [Sarah Park] (https://github.com/sarahyaepark)
+- [Hanny Kishawi] (https://github.com/hkishawi)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
 - [Lois Choji](https://github.com/LoisChoji)
