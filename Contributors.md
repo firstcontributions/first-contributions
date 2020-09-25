@@ -2512,6 +2512,7 @@
 - [Karol](https://github.com/kaajoj)
 - [Haewook Lee](https://github.com/LHW99)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
+- [Hannah Sangar](https://github.com/88Hannah)
 - [pyku](https://github.com/pyku/)
 - [asubedy](https://github.com/asubedy)
 - [Bhavya](https://github.com/raobhavya92)
