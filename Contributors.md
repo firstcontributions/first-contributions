@@ -4558,6 +4558,7 @@
 - [Hugh Sun](https://github.com/wenjunsun)
 - [Chuwei Wang](https://github.com/softwareX4)
 - [Shubham kumar jayswal](https://github.com/sk662516)
+- [Zac Evans](https://github.com/zac-evans)
 - [Danielle Cole](https://github.com/daniellercole)
 - [Mansi Agnihotri](https://github.com/pyprogr)
 - [Sezgin Mustafa](https://github.com/sezgo/)
