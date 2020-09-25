@@ -48,6 +48,7 @@
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
 - [Lois Choji](https://github.com/LoisChoji)
+- [Deril Raju](https://github.com/deril2605)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
@@ -137,7 +138,8 @@
 - [Yash Chaudhari]
 - [anuradhasanjeewa]
 - [Aditya Vats](https://github.com/HADES-01)
-- [gShahr](https://github.com/gShahr)
+- [Domohina Malala]S (https://github.com/NyAina90)
+- [gShahr] (https://github.com/gShahr)
 - [Devansh Tayal](https://github.com/Devansh2005)
 - [Darshan Sen](https://www.github.com/RaisinTen)
 - [David Tran](https://github.com/TranDavid1)
@@ -279,6 +281,7 @@
 - [Frida Luz Fernandez](https://github.com/frida-luz)
 - [Mikey Kriegel](https:/github.com/mikkrieg)
 - [maya](https:/github.com/)
+- [Pingu🐧](https://github.com/pingu94)
 - [Ping Lu](https://github.com/pinglu85)
 - [William Arthor](https://github.com/narrowsnap)
 - [hebbarsjk](https://github.com/hebbarsjk)
