@@ -277,6 +277,7 @@
 - [Frida Luz Fernandez](https://github.com/frida-luz)
 - [Mikey Kriegel](https:/github.com/mikkrieg)
 - [maya](https:/github.com/)
+- [Pingu🐧](https://github.com/pingu94)
 - [Ping Lu](https://github.com/pinglu85)
 - [William Arthor](https://github.com/narrowsnap)
 - [hebbarsjk](https://github.com/hebbarsjk)
