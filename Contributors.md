@@ -12,6 +12,7 @@
 - [Alison](https://github.com/alisonzhu)
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Sakshi Kumar](https://github.com/sakshi006)
+- [Tejan Singh](https://github.com/tejan-singh)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - [Damian Romero](https://github.com/damian-romero)
 - [Vaibhav Sharma](https://github.com/imvsharma)
@@ -1505,7 +1506,7 @@
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
-- Summer Brant 
+- Summer Brant
 - [pramish22](https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
@@ -4751,7 +4752,7 @@
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
+- [Carlos Martel](https://github.com/Letram)
+- [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
