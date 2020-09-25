@@ -15,6 +15,7 @@
 - [Matt Westbrook] (https://github.com/mattgw10)
   [Hopper Kremer] (https://github.com/HopperKremer)
 - [pooja kanojia]
+- [Rishav Saha] (https://github.com/Rishav0907)
 - [Yash Ramchandani] (https://github.com/yashr921)
 - [<3HaveABeautifulDay<3]
 - [Akshit Soneji] (https://github.com/AKSHIT989)
