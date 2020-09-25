@@ -446,6 +446,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/mikowhy">mikowhy</a>
         </td>
+        <td>
+            <a href="https://github.com/quangpro1610">Quang Hoang</a>
+        </td>
     </tr>
  </table>
     
