@@ -89,6 +89,7 @@
 - [Jose Cuervo](https://github.com/21Insight)
 - [Kurtis McAlpine](https://github.com/kmcalpine)
 - [TrickyJ](https://github.com/trickyj)
+- [Oldrich Krupauer](https://github.com/ItsOKayCZ)
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
 - Ken Shay 9-14-2020
