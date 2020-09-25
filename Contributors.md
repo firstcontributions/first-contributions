@@ -6,6 +6,7 @@
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
+- [Ryan Jin](https://github.com/R-Jin)
 - [Achyut Paudel](https://github.com/achyut)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
 - [David bretler](https://github.com/DavidBretler)
