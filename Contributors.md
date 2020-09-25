@@ -11,6 +11,7 @@
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Sakshi Kumar](https://github.com/sakshi006)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
+- [Damian Romero](https://github.com/damian-romero)
 - [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
   [Meet Vyas](https://github.com/MeetVys)
