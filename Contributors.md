@@ -21,6 +21,7 @@
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
+- [Soumallya Dev](https://github.com/soumallyadev07)
 - [Ethan Wu](https://github.com/ew2664)
 - [Sarah Park] (https://github.com/sarahyaepark)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
