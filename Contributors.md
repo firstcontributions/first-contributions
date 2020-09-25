@@ -137,6 +137,7 @@
 - [Richard Bailey](https://richardbailey.xyz)
 - [Chaithra Pabbathi]
 - [Archi Aggarwal]
+- [Carl Sagan]
 - [Michelle Sandford](https://github.com/msandfor)
 - [Mehul Bhatt](https://github.com/mehulbhat)
 - [AbbyCha](https://github.com/ChaAbby)
