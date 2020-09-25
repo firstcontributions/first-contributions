@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Arun Prabhakar] (https://github/arun-prabhakar)
+- [Shreya Garg] (https://github.com/einhawking)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Or Zohar] (https://github.com/orZohar)
