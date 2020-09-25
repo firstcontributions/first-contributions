@@ -55,7 +55,8 @@
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
-- [Sattwik Palai](https://github.com/sattwik21)
+- [Tyler Bacon] (https://github.com/tbacon781)
+- [Sattwik Palai] (https://github.com/sattwik21)
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Grace Landsberg](https://github.com/glandsberg)
