@@ -4714,6 +4714,7 @@
 - [MananKGarg](https://github.com/MananKGarg)
 - [kiwan97](https://github.com/kiwan97)
 - [TobiasTorres]
+- [Eirik Hatlem](https://github.com/ehatlem)
 - [u10k](https://github.com/u10k)
 - [Kavish-Agnihotri](https://github.com/Kavish-Agnihotri)
 - [MananKGarg](https://github.com/MananKGarg)
