@@ -40,6 +40,7 @@
 - [Mostafa Omar](https://github.com/MostafaOmar98)
 - [Raj Valand](https://github.com/Raj142)
 - [Dennis Lee](https://github.com/dennislwm)
+- [Caden Gerard](https://github.com/caden3ds)
 - [noble ordu](https://github.com/nobleordu)
 - [Soumallya Dev](https://github.com/soumallyadev07)
 - [Sagar Sarkar](https://github.com/ssarkar786)
