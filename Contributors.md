@@ -301,6 +301,7 @@
 - [Ohad Koren](https://github.com/ohadkoren)
 - [Pranay Harjai](https://github.com/pranayharjai7)
 - [Kitti Wateesatogkij](https://github.com/lgmcben)
+- [Michael Larsen](https://github.com/michaelmalice)
 - [Ishaq Amin(Zack)](https://github.com/zackhamin)
 - [Kshitij Ozarkar](https://github.com/kozarkar)
 - [Gurucharan Chundi](https://github.com/gurucharan2206)
