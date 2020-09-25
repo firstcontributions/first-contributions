@@ -7,6 +7,7 @@
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Achyut Paudel](https://github.com/achyut)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
+- [David bretler](https://github.com/DavidBretler)
 - [Xefyn](https://github.com/Xefyn)
 - [Erick Canals](https://github.com/ec7495)
 - [Amanullah Mahmood](https://github.com/amaanweb)
