@@ -15,7 +15,6 @@
 - [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
 - [Tarush Arora](https://github.com/tarusharora03)
-  [Meet Vyas](https://github.com/MeetVys)
 - [Jonathan Noack](https://github.com/jonock)
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Raj Valand](https://github.com/Raj142)
