@@ -1,11 +1,9 @@
 ﻿# Contributors
+ -[Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Arun Prabhakar] (https://github/arun-prabhakar)
-- [Asad Moosvi] (https://github.com/asadmoosvi)
-- [Or Zohar] (https://github.com/orZohar)
 - [Mayur](https://github.com/mayursamnani36)
 - [Pragati Alur](https://github.com/PragatiAlur)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
-- [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
