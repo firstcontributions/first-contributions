@@ -4810,3 +4810,4 @@
 - [Pavan Kommisetty](https://github.com/Kazeno21)
 - [Leandro Quiroga] (https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
+- [Pedro Alecrim](https://github.com/pedroalecrim)
