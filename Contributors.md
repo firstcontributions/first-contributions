@@ -1193,6 +1193,7 @@
 - [Ivica Pizent](https://github.com/IvicaPizent)
 - [Nastasa Stefan](https://github.com/RedPipper)
 - [Aditya Singh](https://github.com/adityanjr)
+- [Aditya Singh](https://github.com/c9Addy)
 - [Nicky Choi](https://github.com/njch5)
 - [Jordan Sills](https://github.com/JordanDSills)
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
