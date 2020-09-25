@@ -2049,6 +2049,7 @@
 - [Micheal Omeiza Suleiman](https://github.com/Omeiza17)
 - [Valerie Oakhu](https://github.com/ooakhu)
 - [Andy Pavey](https://github.com/apavey1)
+- [Davi Sales](https://github.com/davigomessales)
 - [Kyle Conlon](https://github.com/KConlon13)
 - [Dhairya](https://github.com/dhairya2019)
 - [Pratyay Banerjee](https://github.com/Neilblaze)
