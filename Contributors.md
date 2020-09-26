@@ -47,6 +47,7 @@
 - [Tarush Arora](https://github.com/tarusharora03)
 - [Jonathan Noack](https://github.com/jonock)
 - [Jasleen Kaur](https://github.com/Jasleen01)
+- [Rushali Sreedhar](https://github.com/rushali09)
 - [Mostafa Omar](https://github.com/MostafaOmar98)
 - [Raj Valand](https://github.com/Raj142)
   [Shreya Shukla](https://github.com/shreyashukla-26)
