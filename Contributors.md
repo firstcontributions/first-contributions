@@ -12,6 +12,7 @@
 - [Mr Sid](https://github.com/mrsidverse)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
+- [Vibhor Tiwari](http://github.com/spyder204)
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
 - [TheIcySpark](https://github.com/TheIcySpark)
