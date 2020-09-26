@@ -4813,3 +4813,4 @@
 - [Leandro Quiroga] (https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
 - [Pedro Alecrim](https://github.com/pedroalecrim)
+- [Mauricio Sako](https://github.com/mauriciosako)
