@@ -1954,7 +1954,7 @@
 - [Xiangshuai Gao](https://github.com/GAO23)
 - po10tial
 - Phileas Fogg
-- [Kaleb] (https://github.com/kalebino)
+- [Kaleb](https://github.com/kalebino)
 - [MoulayYoussef ElAdlouni](https://github.com/androdesu)
 - [Nitish Kumar P](https://github.com/nitishp051843)
 - [Colin W](https://github.com/cw171)
