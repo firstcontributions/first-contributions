@@ -1,5 +1,6 @@
 # Contributors
 - [Harsh Soni] (https://github.com/harsh-dynasty)
+- [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
