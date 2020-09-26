@@ -1,4 +1,5 @@
 # Contributors
+- [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Shreya Garg] (https://github.com/einhawking)
