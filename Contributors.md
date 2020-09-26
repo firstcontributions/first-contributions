@@ -171,6 +171,7 @@
 - [Claudia Matsiaze]
 - [Amr Abedo](https://github.com/mouraaa)
 - [Matt Westbrook](https://github.com/mattgw10)
+- [Eric Soppi](https://github.com/soapdogg)
 - [Hopper Kremer](https://github.com/HopperKremer)
 - [pooja kanojia]
 - [Omar Khan](https://github.com/lowsound42)
