@@ -5,6 +5,7 @@
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Or Zohar] (https://github.com/orZohar)
+- [Tri Nguyen](http://github.com/tri97nguyen)
 - [Mayur](https://github.com/mayursamnani36)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
