@@ -2,6 +2,7 @@
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Shreya Garg] (https://github.com/einhawking)
+- [Aditya Vats] (https://github.com/HADES-01)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Or Zohar] (https://github.com/orZohar)
