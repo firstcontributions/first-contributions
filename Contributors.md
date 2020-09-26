@@ -11,6 +11,7 @@
 - [Mr Sid](https://github.com/mrsidverse)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
+- [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
