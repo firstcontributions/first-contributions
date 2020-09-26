@@ -6,6 +6,7 @@
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
+- [Aditya Baravkar] (https://github.com/Aditya182)
 - [Or Zohar] (https://github.com/orZohar)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Pavan](https://github.com/Pavan-Kumar122)
