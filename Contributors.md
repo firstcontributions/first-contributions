@@ -120,6 +120,7 @@
 - [Bereket Semagn](https://github.com/bereketsemagn)
 - [Savio Martin](https://github.com/saviomartin)
 - [Jennifer Openshaw] (https://github.com/jlopenshaw41)
+- [Alex Koinski] (https://github.com/akoinski7)
 - [Young Han](https://github.com/yhan0704)
 - [Rishabh]
 - [Jaideep Reddy Kotla](https://github.com/Jaideep07)
