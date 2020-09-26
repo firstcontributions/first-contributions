@@ -3509,6 +3509,7 @@
 - [jc](https://github.com/jc-appier)
 - [cwcraw](https://github.com/cwcraw)
 - [Joao](https://github.com/Joaopedrobass)
+- [Diego Carreras](https://github.com/DECarreras)
 - [Jamiel Capatayan](https://github.com/JamielCapatayan)
 - [Mike Bailey](https://github.com/mikebailey-sf)
 - [Remus Sferle](https://github.com/SarCoptU)
