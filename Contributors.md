@@ -2327,6 +2327,7 @@
 - [Ekemini Okpongkpong](https://github.com/KemmieKemy)
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Gary Glatfelter](https://github.com/garyglatfelter)
+- [Cassie Champagne](https://github.com/c-champagne)
 - [Titir Adhikary](http://github.com/cubixpro)
 - [Samarpan Chakravarty](http://github.com/sam308)
 - [Rowan Herbert](https://github.com/RLHerbert)
