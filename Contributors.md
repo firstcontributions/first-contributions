@@ -957,6 +957,7 @@
 - [Adit Alware](https://github.com/aditalware)
 - [dohee](https://github.com/sooyun429)
 - [Bassam El-Shafie](https://github.com/NoClip)
+- Rodion843
 - [Akhil Manoj](https://github.com/AkM-2018)
 - Kanav Mehra
 - Mark Simpson
