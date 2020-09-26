@@ -1,4 +1,5 @@
 # Contributors
+
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Shreya Garg] (https://github.com/einhawking)
@@ -7,9 +8,9 @@
 - [Or Zohar] (https://github.com/orZohar)
 - [Mayur](https://github.com/mayursamnani36)
 - [TheIcySpark](https://github.com/TheIcySpark)
+- [Seymour James](https://github.com/sanjay1510)
 - [Pragati Alur](https://github.com/PragatiAlur)
-- [Vinay Manala](https://github.com/VinayManala)
--[Shivani Singh](https://github.com/shiv-ani-singh)
+- [Vinay Manala](https://github.com/VinayManala) -[Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
@@ -137,7 +138,7 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
-[Sanad Omar]
+  [Sanad Omar]
 - [こんにちは]
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
@@ -1226,7 +1227,7 @@
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
--wissal
+  -wissal
 - jamose0
 - 8Dion8
 - ergm
@@ -1549,7 +1550,7 @@
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
 - [RachaelAndrew] (https://github.com/r-andrew-dev)
-- Summer Brant 
+- Summer Brant
 - [pramish22](https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
@@ -4806,8 +4807,8 @@
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
+- [Carlos Martel](https://github.com/Letram)
+- [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [schmelto](https://github.com/schmelto)
