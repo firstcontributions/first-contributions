@@ -1,5 +1,6 @@
 # Contributors
 - [Harsh Soni] (https://github.com/harsh-dynasty)
+- [SHUBHAM RAI]
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
