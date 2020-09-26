@@ -8,7 +8,7 @@
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Aditya Baravkar] (https://github.com/Aditya182)
-- [Toh De Kai]
+- [Toh De Kai] (https://github.com/TohDeKai)
 - [Or Zohar] (https://github.com/orZohar)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Pavan](https://github.com/Pavan-Kumar122)
