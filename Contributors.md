@@ -2185,6 +2185,7 @@
 - [Mario Calce](https://github.com/calcem)
 - [Bruno Jagmin Ferreira](https://github.com/brunowxd1)
 - [karamba34](https://github.com/karamba34)
+- [Hetul Bhatt](https://github.com/hetulbhatt)
 - [Sareen Shah](https://github.com/sareen279)
 - [Jai Nagda](https://github.com/jainagda)
 - [John Ravager](https://github.com/ravager-io)
