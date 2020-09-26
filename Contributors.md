@@ -235,6 +235,7 @@
 - [Rajdeep Majumder](https://github.com/Rajdp07)
 - [Abhinav Gautam](https://github.com/abhi-uoh)
 - [Ariel Ledesma](https://github.com/ariel-ledesma)
+- [Alex Sakakushev](https://github.com/alexsak)
 - [Vipin Chandra](https://github.com/easyvipin)
 - [Joel McDonough](https://github.com/eternity8)
 - [Nick Laert](https://github.com/nlaert)
