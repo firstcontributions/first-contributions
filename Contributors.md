@@ -110,6 +110,7 @@
 - [Rishabh]
 - [Jaideep Reddy Kotla](https://github.com/Jaideep07)
 - [Dhaval ]
+- [Deepak Kumar Giri](https://github.com/Dkgiri619)
 - [Chris Greening](https://github.com/chris-greening)
 - [Jose Cuervo](https://github.com/21Insight)
 - [Kurtis McAlpine](https://github.com/kmcalpine)
