@@ -115,6 +115,7 @@
 - [Rishabh]
 - [Jaideep Reddy Kotla](https://github.com/Jaideep07)
 - [Dhaval ]
+  [Gaurang Sultania](https://github.com/gaurtaker)
 - [Deepak Kumar Giri](https://github.com/Dkgiri619)
 - [Chris Greening](https://github.com/chris-greening)
 - [Jose Cuervo](https://github.com/21Insight)
