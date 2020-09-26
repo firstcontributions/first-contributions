@@ -42,7 +42,7 @@
 - [Irshad Ahamed](https://github.com/Zinkuth)
 - [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
-  [Meet Vyas](https://github.com/MeetVys)
+- [Tarush Arora](https://github.com/tarusharora03)
 - [Jonathan Noack](https://github.com/jonock)
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Mostafa Omar](https://github.com/MostafaOmar98)
