@@ -3791,6 +3791,7 @@
 - [kilroyjones](https://github.com/kilroyjones/)
 - [leoperegrino](https://github.com/leoperegrino)
 - [abbasafzal10](https://github.com/abbasafzal10)
+- [Kim Leung](https://github.com/leungkimho)
 - [kaulc](https://github.com/kaulc)
 - [Kamil Serafinowicz](https://github.com/Seraphimus)
 - [Bjornsbot](https://github.com/bjornsbot)
