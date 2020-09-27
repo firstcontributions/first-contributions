@@ -1,4 +1,5 @@
 # Contributors
+- [Will Guo]
 -[Ashutosh Dixit](https;//github.com/Di-ashX)
 -[Animish Pande](https://github.com/animishpande)
 - [Harsh Soni] (https://github.com/harsh-dynasty)
