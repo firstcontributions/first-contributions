@@ -12,6 +12,7 @@
 - [Aditya Baravkar] (https://github.com/Aditya182)
 - [Toh De Kai] (https://github.com/TohDeKai)
 - [Or Zohar] (https://github.com/orZohar)
+- [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
