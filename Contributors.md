@@ -18,6 +18,7 @@
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Pavan](https://github.com/Pavan-Kumar122)
+- [Farhan Irani  🚀 😃](https://github.com/farhanirani)
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
 - [Gopi](https://github.com/gopipofficial)
