@@ -7,6 +7,7 @@
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Aditya Vats] (https://github.com/HADES-01)
+- [Vikas Hegde] (https://github.com/vkashegde)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Aditya Baravkar] (https://github.com/Aditya182)
