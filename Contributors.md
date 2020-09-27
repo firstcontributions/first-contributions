@@ -198,7 +198,8 @@
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
 - [David Martel](https://github.com/davey4)
-- [Jahshaka] (https://github.com/JahshakaDEV)
+- [Jahshaka] (https://github.com/JahshakaDEV
+- [Naseem Srour] (https://github.com/NaseemSrour)
 - [@siddharth963](https://github.com/siddharthmagadum16)
 - [Andrew Zajac](hhtps://github.com/ajzajac)
 - [wahaha](https://github.com/zhiwei-01)
