@@ -1,5 +1,7 @@
 # Contributors
+
 -[Animish Pande](https://github.com/animishpande)
+
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
@@ -23,11 +25,9 @@
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
 - [TheIcySpark](https://github.com/TheIcySpark)
-- [Pragati Alur](https://github.com/PragatiAlur)
--[Prajakta Mane](https://github.com/maneprajakta)
+- [Pragati Alur](https://github.com/PragatiAlur) -[Prajakta Mane](https://github.com/maneprajakta)
 - bidlocode
-- [Vinay Manala](https://github.com/VinayManala)
--[Shivani Singh](https://github.com/shiv-ani-singh)
+- [Vinay Manala](https://github.com/VinayManala) -[Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
@@ -123,6 +123,7 @@
 - [Prem Kiran](https://github.com/premkiran7)
 - [Karen Chang](https://github.com/karen-developer)
 - [Shubham Anand](https://github.com/dark-crusader)
+- [TaeHyun](https://github.com/qlemql)
 - [preetichand](https://github.com/preetichand)
 - [Bereket Semagn](https://github.com/bereketsemagn)
 - [Savio Martin](https://github.com/saviomartin)
@@ -160,7 +161,7 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
-[Sanad Omar]
+  [Sanad Omar]
 - [こんにちは]
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
@@ -1255,7 +1256,7 @@
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
--wissal
+  -wissal
 - jamose0
 - 8Dion8
 - ergm
@@ -1578,7 +1579,7 @@
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
 - [RachaelAndrew] (https://github.com/r-andrew-dev)
-- Summer Brant 
+- Summer Brant
 - [pramish22](https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
@@ -2332,7 +2333,7 @@
 - Ethan B
 - Graetdragonn
 - Kirtti Talukdar
-- George 
+- George
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [Mileba Micheal](https://github.com/Mileba)
@@ -4846,8 +4847,8 @@
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
+- [Carlos Martel](https://github.com/Letram)
+- [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [schmelto](https://github.com/schmelto)
@@ -4859,12 +4860,6 @@
 - [Pedro Alecrim](https://github.com/pedroalecrim)
 - [Mauricio Sako](https://github.com/mauriciosako)
 - [Muhammad Ulin Nuha] (https://github.com/nuhaa/)
-[Srirampandian.c](https://github.com/srirampandian17)
--[Amrit Pulak] (https://github.com/amritpulak)
--[Gokul Kannan] (https://github.com/gokulkannan7)
--[Sagar Parmar] (https://github.com/sagarparmar881)
--[Keith Shintaku] (https://github.com/kshintaku)
--[Christopher Funk] (https://github.com/cfunky)
--[Figo Perdana Putra] (https://github.com/figoperdana)
+  [Srirampandian.c](https://github.com/srirampandian17) -[Amrit Pulak] (https://github.com/amritpulak) -[Gokul Kannan] (https://github.com/gokulkannan7) -[Sagar Parmar] (https://github.com/sagarparmar881) -[Keith Shintaku] (https://github.com/kshintaku) -[Christopher Funk] (https://github.com/cfunky) -[Figo Perdana Putra] (https://github.com/figoperdana)
 - [prakharepo](https://github.com/prakharepo)
 - [Alfikri] (https://github.com/alfikridotname)
