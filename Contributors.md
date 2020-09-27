@@ -1210,6 +1210,7 @@
 - [Brian Reed](https://github.com/BRReed)
 - Git Goode
 - [George Rod](https://https://github.com/gnrod)
+-Arnav Menon
 - Mohan-Cloud
 - [Brage Rosberg](https://github.com/bragerosberg)
 - [Minel Aydın - Minnela :)](https://github.com/minnela)
