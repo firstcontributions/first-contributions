@@ -20,6 +20,7 @@
 - [Mayur](https://github.com/mayursamnani36)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
+-[Prajakta Mane](https://github.com/maneprajakta)
 - bidlocode
 - [Vinay Manala](https://github.com/VinayManala)
 -[Shivani Singh](https://github.com/shiv-ani-singh)
