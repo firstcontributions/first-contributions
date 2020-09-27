@@ -3930,6 +3930,7 @@
 - [David Currie](https://github.com/dc27)
 - [Sagar Datta](https://github.com/sagar-datta)
 - chirag bansal
+- [Jani Ruotsalainen] (https://github.com/ruoja)
 - [LordRegis22](https://github.com/lordregis22)
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
