@@ -997,6 +997,7 @@
 - Yeshu Wahane
 - [Avirup Mondal](https://github.com/Avirup-301294)
 - Stephen Jones
+- [Jesse Rankins](https://github.com/ThePuerProgrammer)
 - [Marco Skradde](https://github.com/mskradde/)
 - [Upagyya Dixit](https://github.com/upagyya)
 - [sairina merino tsui](https://github.com/sairina)
