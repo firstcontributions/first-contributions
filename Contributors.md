@@ -8,6 +8,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [UMAR MASUD]
+- [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Arun Prabhakar] (https://github/arun-prabhakar)
