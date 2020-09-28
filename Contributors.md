@@ -4865,6 +4865,7 @@
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [schmelto](https://github.com/schmelto)
+- [vidura](https://github.com/vidurathegeek)
 - [cksharma](https://github.com/cksharma11)
 - [Shramko Serhii](https://github.com/Shramkoweb)
 - [Pavan Kommisetty](https://github.com/Kazeno21)
