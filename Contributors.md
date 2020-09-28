@@ -17,6 +17,7 @@
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
+- [Nick Gumbs]
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Vikas Hegde] (https://github.com/vkashegde)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
