@@ -9,7 +9,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [UMAR MASUD]
-Omar Navarro
+- Omar Navarro
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
