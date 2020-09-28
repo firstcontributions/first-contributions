@@ -6,6 +6,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [UMAR MASUD]
+- [mohashii](https://github.com/mohashii)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
