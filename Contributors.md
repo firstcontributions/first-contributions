@@ -21,6 +21,7 @@
 - [Ankit yadav](https://github.com/imakki)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Mr Sid](https://github.com/mrsidverse)
+- [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
