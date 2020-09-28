@@ -282,6 +282,7 @@ Sumit Sagar
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
 - [Ausaf Ahmed](https://github.com/ausaf-a)
 - [Muhammed Rizal]
+- [Rodolfo Violla](https://github.com/rodolfoviolla)
 - [Hinal Tilavat](https://github.com/HinalTilavat)
 - [C5m7b4](https://github.com/C5m7b4)
 - [Alex Langsam](https://github.com/Alangsam)
