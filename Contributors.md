@@ -2545,6 +2545,7 @@ Sumit Sagar
 - [Rohit Satwadhar](https://github.com/riotgage)
 - [ChiragSaini](https://github.com/ChiragSaini)
 - [Audrey Ndum](https://github.com/Cadreia)
+- [Matej Sestak](https://github.com/sestys)
 - [Zain Qureshi](https://github.com/ZainnQureshii)
 - [Asha Sankar Ramalaxmi](https://github.com/Ashsr)
 - [oranjjun](https://github.com/oranjjun)
