@@ -11,6 +11,7 @@
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
+- [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Vikas Hegde] (https://github.com/vkashegde)
