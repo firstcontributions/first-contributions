@@ -3,6 +3,7 @@
 -[Ashutosh Dixit](https;//github.com/Di-ashX)
 -[Animish Pande](https://github.com/animishpande)
 -[Ankita Singhal](https://github.com/sankita11)
+-[Elizabeth Wiggins]
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
