@@ -4709,6 +4709,7 @@ Sumit Sagar
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Eunchae Jeon](https://github.com/eunchae-jeon)
 - [Hayat Zakaria](https://github.com/hayatzsala)
+- [Frank Peleato] (https://github.com/fjpeleato)
 - [Abraham John Paul](https://github.com/abraham-john-paul)
 - [Sanmit Mandal](https://github.com/sanmitM312)
 - [Faith Chepkorir](https://github.com/chrpkorir)
