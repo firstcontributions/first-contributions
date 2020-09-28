@@ -232,6 +232,7 @@
   Pramit Patel
   Deviner
 - [Archit Gupta](https://github.com/rarchitgupta)
+Sumit Sagar
 - [Dwija Bagwe](https://github.com/dwija-bagwe)
 - [Irwanto Cia](https://github.com/irwantocia)
 - [Abraham Prince](https://github.com/aprince02)
