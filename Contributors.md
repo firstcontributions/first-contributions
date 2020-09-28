@@ -12,6 +12,7 @@
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
+- [Tarun Sharma] (tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
