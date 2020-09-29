@@ -1629,7 +1629,7 @@ Sumit Sagar
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
 - [RachaelAndrew] (https://github.com/r-andrew-dev)
-- Summer Brant 
+- Summer Brant
 - [pramish22](https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
@@ -2040,6 +2040,7 @@ Sumit Sagar
 - [Frederik Adebahr](https://github.com/FrederikAdebahr)
 - [Juan Hernandez](https://github.com/juanphdz)
 - [Escape0707](https://github.com/escape0707)
+- [Rod Gee](https://github.com/gforce1999)
 - [Basian Lesi](https://github.com/BasianLesi)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Andrea Grillo](https://github.com/andregri)
@@ -2386,7 +2387,7 @@ Sumit Sagar
 - Ethan B
 - Graetdragonn
 - Kirtti Talukdar
-- George 
+- George
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [Mileba Micheal](https://github.com/Mileba)
@@ -4911,8 +4912,8 @@ Sumit Sagar
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
+- [Carlos Martel](https://github.com/Letram)
+- [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [schmelto](https://github.com/schmelto)
