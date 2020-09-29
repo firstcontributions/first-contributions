@@ -4873,6 +4873,7 @@ Sumit Sagar
 - [Erica Gerez](https://github.com/ericagerez)
 - [Jonathan Diamant]
 - [David Fers](https://github.com/davidfers)
+- [Aditya Singh](https://github.com/c9Addy)
 - [Austin Forbert](https://github.com/austin4bert)
 - [Tushar Nankani](https://github.com/tusharnankani)
 - [Angel Martinez](https://github.com/angel-codes)
