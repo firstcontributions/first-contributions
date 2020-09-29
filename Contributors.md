@@ -1,13 +1,14 @@
 ﻿# Contributors
 - [Will Guo]
--[Ashutosh Dixit](https;//github.com/Di-ashX)
--[jaanP1]
--[Animish Pande](https://github.com/animishpande)
-- [Crystal Wernicke] (https://github.com/CrystalWernicke)
--[Ankita Singhal](https://github.com/sankita11)
--[Elizabeth Wiggins]
-- [Harsh Soni] (https://github.com/harsh-dynasty)
-- [Metro-95] (https://github.com/metro-95/first-contributions)
+- [Amanda Gonzalez](https://github.com/Amagonzalez27)
+- [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [jaanP1]
+- [Animish Pande](https://github.com/animishpande)
+- [Crystal Wernicke](https://github.com/CrystalWernicke)
+- [Ankita Singhal](https://github.com/sankita11)
+- [Elizabeth Wiggins]
+- [Harsh Soni](https://github.com/harsh-dynasty)
+- [Metro-95](https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [UMAR MASUD]
 - Omar Navarro
@@ -1614,7 +1615,7 @@ Sumit Sagar
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
 - [RachaelAndrew] (https://github.com/r-andrew-dev)
-- Summer Brant 
+- Summer Brant
 - [pramish22](https://github.com/pramish22)
 - rahul123@
 - [Rafael Farias Lima](https://github.com/finhaa)
@@ -2370,7 +2371,7 @@ Sumit Sagar
 - Ethan B
 - Graetdragonn
 - Kirtti Talukdar
-- George 
+- George
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [Mileba Micheal](https://github.com/Mileba)
@@ -4891,8 +4892,8 @@ Sumit Sagar
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
+- [Carlos Martel](https://github.com/Letram)
+- [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [schmelto](https://github.com/schmelto)
@@ -4915,7 +4916,7 @@ Sumit Sagar
 - [prakharepo](https://github.com/prakharepo)
 - [Alfikri] (https://github.com/alfikridotname)
 - [gallags6](https://github.com/gallags6)
-- [Fred Cobb] 
+- [Fred Cobb]
 - [Alice Lia Stapleton] (https://github.com/slimelia)
 - [Artyom Novoselov] (https://github.com/potyoma)
 - [Kendrick Lee] (https://github.com/kendrickleemar)
