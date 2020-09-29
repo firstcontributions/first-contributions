@@ -4920,3 +4920,4 @@ Sumit Sagar
 - [Artyom Novoselov] (https://github.com/potyoma)
 - [Kendrick Lee] (https://github.com/kendrickleemar)
 - [Tanishq Vyas] (https://github.com/tanishqvyas)
+- [SanjayDevTech](https://github.com/SanjayDevTech)
