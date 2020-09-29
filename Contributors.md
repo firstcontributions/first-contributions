@@ -41,6 +41,7 @@
 - [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
+- [Madhav Sodhani](https://github.com/madhav2302)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
 -[Prajakta Mane](https://github.com/maneprajakta)
