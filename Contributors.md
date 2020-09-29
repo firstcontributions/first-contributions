@@ -50,6 +50,7 @@
 - [Ankit yadav](https://github.com/imakki)
 - [sbrmnm]
 - [Sandeep Verma](https://github.com/sandeep-kverma)
+- [Jackson Bates](https://github.com/jbates222)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
@@ -313,6 +314,7 @@ Sumit Sagar
 - [Marc Episcope](https://github.com/marc633)
 - [UmmuZurak](https://github.com/UmmuZurak)
 - [jim0625](https://github.com/jim0625)
+- [Kelly Corey](https://github.com/kellcore)
 - [deecoders](https://github.com/deecoders)
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
 - [Ausaf Ahmed](https://github.com/ausaf-a)
@@ -4977,3 +4979,4 @@ chaitrali
 - [Divyansh Tyagi](https://github.com/divyanshTyagi)
 - [Francesco Cermaria] (https://github.com/fracerma)
 - [Jun Qu] (https://github.com/junqu14)
+- [Ramya Lingari] (https://github.com/RamyaLingari)
