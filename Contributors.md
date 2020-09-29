@@ -4417,6 +4417,7 @@
 - [Taha Moghrabi](https://github.com/marketerly)
 - Tahir Ali
 - [TahsanVai](https://github.com/tahsanvai)
+- [Taijasi Kaveri](https://github.com/Taijasi-Kaveri)
 - [Taizy](https://github.com/snrelghgub) :smile:
 - [Taja House](https://github.com/tajahouse)
 - [Takeen Evens](https://github.com/TakiiCoder)
