@@ -1253,6 +1253,7 @@ Sumit Sagar
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 - [Roman Preis](https://github.com/RomanPreis)
+- [Michael Scott](https://github.com/m5cott)
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
 - [Natalia Alvarez](https://github.com/nataliaalvarez26)
 - [Tatchum Nono Yan](https://github.com/TatchumNono)
