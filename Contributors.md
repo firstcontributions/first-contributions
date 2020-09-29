@@ -4921,6 +4921,7 @@ Sumit Sagar
 - [gallags6](https://github.com/gallags6)
 - [Fred Cobb] 
 - [Alice Lia Stapleton] (https://github.com/slimelia)
+- [Ruan Knoetze] (https://github.com/RuanKnoetze0308)
 - [Artyom Novoselov] (https://github.com/potyoma)
 - [Kendrick Lee] (https://github.com/kendrickleemar)
 - [Tanishq Vyas] (https://github.com/tanishqvyas)
