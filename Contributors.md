@@ -12,6 +12,7 @@
 - [SHUBHAM RAI]
 - [UMAR MASUD]
 - Omar Navarro
+-[Tanweer Ali](https://github.com/tanweeralii)
 - [Advitiay Anand](https://github.com/adizcode)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
