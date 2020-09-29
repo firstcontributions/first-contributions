@@ -1,6 +1,7 @@
 # Contributors
 - [Will Guo]
 -[Ashutosh Dixit](https;//github.com/Di-ashX)
+-[jaanP1]
 -[Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 -[Ankita Singhal](https://github.com/sankita11)
