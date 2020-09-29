@@ -146,6 +146,7 @@
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
+- [Dayeong Kang](https://github.com/tula3and)
 - [Josh Lavallee](https://github.com/jlavallee76)
 - [Zubier Abdullah](https://github.com/ZubierAbd)
 - [Hari Kumar]
@@ -199,8 +200,8 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
+- [Sanad Omar]
 - [chqh](https://github.com/npnv)
-[Sanad Omar]
 - [こんにちは]
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
@@ -1307,7 +1308,7 @@ Sumit Sagar
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
--wissal
+  -wissal
 - jamose0
 - 8Dion8
 - ergm
@@ -1630,7 +1631,7 @@ Sumit Sagar
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
-- [RachaelAndrew] (https://github.com/r-andrew-dev)
+- [RachaelAndrew](https://github.com/r-andrew-dev)
 - Summer Brant
 - [pramish22](https://github.com/pramish22)
 - rahul123@
@@ -4917,6 +4918,8 @@ Sumit Sagar
 - [duffttt](https://github.com/duffttt)
 - [Carlos Martel](https://github.com/Letram)
 - [Adrien Masanet](https://github.com/AdrienMasanet)
+- [Carlos Martel](https://github.com/Letram) 
+- [Adrien Masanet](https://github.com/AdrienMasanet) 
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 chaitrali
