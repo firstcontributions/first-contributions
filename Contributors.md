@@ -46,6 +46,7 @@
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
 -[Prajakta Mane](https://github.com/maneprajakta)
+- [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
 - [Vinay Manala](https://github.com/VinayManala)
 -[Shivani Singh](https://github.com/shiv-ani-singh)
