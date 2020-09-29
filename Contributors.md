@@ -1,4 +1,5 @@
 ﻿# Contributors
+-[Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 -[Mandeep Singh](https://github.com/deepsingh132)
 -[WeLostTheNight](https://github.com/574469831)
