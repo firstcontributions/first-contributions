@@ -4741,6 +4741,7 @@ Sumit Sagar
 - Reecha Khanal
 - [Stijn Lammers](https://github.com/StijnLammers)
 - caocan
+- [Ragosk](https://github.com/Ragosk)
 - [Eiji Oga](https://github.com/eqj619)
 - [Infaz](https://github.com/infaz98)
 - [Luma Rodrigues](https://github.com/luumarodrigues)
