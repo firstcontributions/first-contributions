@@ -1492,6 +1492,7 @@ Sumit Sagar
 - Learner
 - [Kamil Gusowski](https://github.com/gkns1)
 - [Lucas Jeske](https://github.com/pljcgm)
+- [Reza Duha](https://github.com/rezaduha)
 - [Su Willu](https://github.com/SuWillu)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
 - [Anastasia Mendoza](https://github.com/anascnm)
