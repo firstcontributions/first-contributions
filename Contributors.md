@@ -4919,3 +4919,4 @@ Sumit Sagar
 - [Alice Lia Stapleton] (https://github.com/slimelia)
 - [Artyom Novoselov] (https://github.com/potyoma)
 - [Kendrick Lee] (https://github.com/kendrickleemar)
+- [Tanishq Vyas] (https://github.com/tanishqvyas)
