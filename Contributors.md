@@ -1,6 +1,5 @@
 ﻿# Contributors
 
-
 ## Alphabetical <!-- omit in toc -->
 
 - [A](#a)
@@ -3307,6 +3306,7 @@
 - [Omotola Shogunle](https://github.com/Omotola28)
 - [omprakash_swami](https://github.com/opswami75)
 - [Omrigl](https://github.com/omrigl)
+- [Onkar Sharma](https://github.com/KSHAMIN)
 - [Onkar Singh](https://github.com/Onk-ar)
 - [Onn Tai Yong](https://github.com/yongot)
 - [Onur Usluca](https://github.com/onurusluca)
@@ -3579,6 +3579,7 @@
 - [Raghid Elewa](https://github.com/relewa)
 - [Raghu Lohe](https://github.com/raghulohe)
 - [Raghunandan M. A.](https://github.com/raghu-ma)
+- [Ragosk](https://github.com/Ragosk)
 - rahul123@
 - [Rahul Anand](https://github.com/RahulGo8u)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
@@ -3807,6 +3808,7 @@
 - [Rron Kurtishi](https://github.com/RronKurtishi)
 - [rroyson](https://github.com/rroyson)
 - Rsja
+- [Ruan Knoetze](https://github.com/RuanKnoetze0308)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 - [Rudy Summers](https://github.com/rudysummers)
