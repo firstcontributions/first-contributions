@@ -17,7 +17,7 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.mr.md">मराठी</a>
         </td>	
 	<td>
-           <a href="../translations/README.cg.md">छत्तीसगढ़ी</a>
+           <a href="../translations/README.hne.md">छत्तीसगढ़ी</a>
         </td>    
         <td>
            <a href="../translations/README.mm_unicode.md">မြန်မာ</a>
