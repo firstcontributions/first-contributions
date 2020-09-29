@@ -106,6 +106,7 @@
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
 - [noble ordu](https://github.com/nobleordu)
+- [Gabe Corsini](https://github.com/gpcor)
 - [Soumallya Dev](https://github.com/soumallyadev07)
 - [Sagar Sarkar](https://github.com/ssarkar786)
 - [Ethan Wu](https://github.com/ew2664)
