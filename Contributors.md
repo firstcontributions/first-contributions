@@ -97,6 +97,7 @@
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
 - [Rajeev Koushik]
 - [KK]
+- [Taijasi Kaveri](https://github.com/Taijasi-Kaveri)
 - [Aarushi Gupta]
 - [Helen Cunningham]
 - [Khalid Elmesallamy](https://github.com/Mosallamy)
