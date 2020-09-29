@@ -4429,7 +4429,7 @@ Sumit Sagar
 - [Rick](https://github.com/rickgao12)
 - [yuzutree64](https://github.com/yuzutree64)
 - [pniewiadowski](https://github.com/pniewiadowski)
-- [Rashika Rawat](https://github.com/RR190701)
+- [Rashika](https://github.com/RR190701)
 - [Iurii Sergeev](https://github.com/shterneregen)
 - [Anushya Krishnankutty](https://github.com/anushyakkutty)
 - [Sherlemious](https://github.com/Sherlemious)
