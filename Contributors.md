@@ -313,6 +313,7 @@ Sumit Sagar
 - [Marc Episcope](https://github.com/marc633)
 - [UmmuZurak](https://github.com/UmmuZurak)
 - [jim0625](https://github.com/jim0625)
+- [Kelly Corey](https://github.com/kellcore)
 - [deecoders](https://github.com/deecoders)
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
 - [Ausaf Ahmed](https://github.com/ausaf-a)
