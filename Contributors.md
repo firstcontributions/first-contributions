@@ -50,6 +50,7 @@
 - [Ankit yadav](https://github.com/imakki)
 - [sbrmnm]
 - [Sandeep Verma](https://github.com/sandeep-kverma)
+- [Jackson Bates](https://github.com/jbates222)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
