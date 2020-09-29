@@ -39,6 +39,7 @@
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
+- [Saptarshi Basu](https://github.com/saptarshibasu15)
 - [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
