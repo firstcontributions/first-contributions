@@ -15,6 +15,7 @@
 - Omar Navarro
 - Archana Dhaker
 -[Tanweer Ali](https://github.com/tanweeralii)
+- [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
 - [Advitiay Anand](https://github.com/adizcode)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
