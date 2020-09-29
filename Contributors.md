@@ -32,6 +32,7 @@
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Nick Gumbs]
+- [Sujatha Mohan sujathamlak]
 - [Nicole Clearie]
 - [Celine McFarlane] (https://github.com/shoemoo)
 - [Bhagya Singh] (https://github.com/bhagya05)
