@@ -1116,6 +1116,7 @@ Sumit Sagar
 - [Carissa Hicks](https://github.com/carissa406)
 - [Daniel Volosov](https://github.com/danielvolosov)
 - [Dhairya Shah](https://github.com/DhairyaShah01)
+- [Deeksha Lala](https://github.com/deekshalala)
 - [Akshat Mittal](https://github.com/akshat-max)
 - [Jake Schlaerth](https://github.com/jakeschlaerth)
 - [Shashank Verma](https://github.com/Shashank1816)
