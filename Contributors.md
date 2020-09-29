@@ -37,6 +37,7 @@
 - [Amid bashan] (https//:github.com/amidbashan)
 - [Toh De Kai] (https://github.com/TohDeKai)
 - [Or Zohar] (https://github.com/orZohar)
+- [Harshit Kumar Ojha](https://github.com/HarshitKumarOjha)
 - [Ankit yadav](https://github.com/imakki)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Mr Sid](https://github.com/mrsidverse)
