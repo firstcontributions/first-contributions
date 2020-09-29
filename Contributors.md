@@ -4913,6 +4913,7 @@ Sumit Sagar
 - [MananKGarg](https://github.com/MananKGarg)
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
+- [Marcus JB](https://github.com/foreodessa)
 - [duffttt](https://github.com/duffttt)
 - [Carlos Martel](https://github.com/Letram)
 - [Adrien Masanet](https://github.com/AdrienMasanet)
