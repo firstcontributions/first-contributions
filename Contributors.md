@@ -6,6 +6,7 @@
 -[Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 -[Ankita Singhal](https://github.com/sankita11)
+-[sai aka]
 -[Elizabeth Wiggins]
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
