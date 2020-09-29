@@ -11,6 +11,7 @@
 - [SHUBHAM RAI]
 - [UMAR MASUD]
 - Omar Navarro
+- [Advitiay Anand](https://github.com/adizcode)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
