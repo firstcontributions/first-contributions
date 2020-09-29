@@ -4936,6 +4936,7 @@ Sumit Sagar
 -[Figo Perdana Putra] (https://github.com/figoperdana)
 - [prakharepo](https://github.com/prakharepo)
 - [Alfikri] (https://github.com/alfikridotname)
+- [Claire North](https://github.com/clairenorth)
 - [gallags6](https://github.com/gallags6)
 - [Fred Cobb] 
 - [Alice Lia Stapleton] (https://github.com/slimelia)
