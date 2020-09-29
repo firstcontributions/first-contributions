@@ -1030,6 +1030,7 @@ Sumit Sagar
 - [Silvija Prozinger](https://github.com/SilvijaProzinger)
 - [Harry Jandu](https://github.com/hushee69)
 - Yeshu Wahane
+- [Han Wen Xie](https://github.com/SoloChopstick)
 - [Avirup Mondal](https://github.com/Avirup-301294)
 - Stephen Jones
 - [Jesse Rankins](https://github.com/ThePuerProgrammer)
