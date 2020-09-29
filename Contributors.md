@@ -4917,6 +4917,7 @@ Sumit Sagar
 - [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
+chaitrali
 - [schmelto](https://github.com/schmelto)
 - [vidura](https://github.com/vidurathegeek)
 - [cksharma](https://github.com/cksharma11)
