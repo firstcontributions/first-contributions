@@ -2536,6 +2536,7 @@ Sumit Sagar
 - [Samuel Menendez](https://github.com/sam-chami)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
+- [Kevin Ruibin Do](https://github.com/kevdo475)
 - [Shubham Saha](https://github.com/Helinskii)
 - [Ben](https://github.com/ChecksumFailed)
 - [Vladimir Beliakov](https://github.com/VladimirBeliakov)
