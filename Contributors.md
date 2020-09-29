@@ -1,12 +1,13 @@
 # Contributors
 - [Will Guo]
--[WeLostTheNight](https://github.com/574469831)
--[Ashutosh Dixit](https;//github.com/Di-ashX)
--[jaanP1]
--[Animish Pande](https://github.com/animishpande)
+- [CodeBlooded](https://github.com/codeblooded-47)
+- [WeLostTheNight](https://github.com/574469831)
+- [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [jaanP1]
+- [Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
--[Ankita Singhal](https://github.com/sankita11)
--[Elizabeth Wiggins]
+- [Ankita Singhal](https://github.com/sankita11)
+- [Elizabeth Wiggins]
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
@@ -25,16 +26,16 @@
 - [Shreya Garg] (https://github.com/einhawking)
 - [Nick Gumbs]
 - [Nicole Clearie]
-- [Celine McFarlane] (https://github.com/shoemoo)
-- [Bhagya Singh] (https://github.com/bhagya05)
-- [Aditya Vats] (https://github.com/HADES-01)
-- [Vikas Hegde] (https://github.com/vkashegde)
-- [Asad Moosvi] (https://github.com/asadmoosvi)
-- [Sudeep Kumar Gupta] (https://github.com/sudeep423)
-- [Aditya Baravkar] (https://github.com/Aditya182)
-- [Amid bashan] (https//:github.com/amidbashan)
-- [Toh De Kai] (https://github.com/TohDeKai)
-- [Or Zohar] (https://github.com/orZohar)
+- [Celine McFarlane](https://github.com/shoemoo)
+- [Bhagya Singh](https://github.com/bhagya05)
+- [Aditya Vats](https://github.com/HADES-01)
+- [Vikas Hegde](https://github.com/vkashegde)
+- [Asad Moosvi](https://github.com/asadmoosvi)
+- [Sudeep Kumar Gupta](https://github.com/sudeep423)
+- [Aditya Baravkar](https://github.com/Aditya182)
+- [Amid bashan](https//:github.com/amidbashan)
+- [Toh De Kai](https://github.com/TohDeKai)
+- [Or Zohar](https://github.com/orZohar)
 - [Ankit yadav](https://github.com/imakki)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Mr Sid](https://github.com/mrsidverse)
@@ -48,8 +49,8 @@
 - [Madhav Sodhani](https://github.com/madhav2302)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Pragati Alur](https://github.com/PragatiAlur)
-- [Onkar Sharma] (https://github.com/KSHAMIN)
--[Prajakta Mane](https://github.com/maneprajakta)
+- [Onkar Sharma](https://github.com/KSHAMIN)
+- [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
 - [Vinay Manala](https://github.com/VinayManala)
@@ -97,9 +98,9 @@
 - [Soumallya Dev](https://github.com/soumallyadev07)
 - [Sagar Sarkar](https://github.com/ssarkar786)
 - [Ethan Wu](https://github.com/ew2664)
-- [Sarah Park] (https://github.com/sarahyaepark)
-- [Hanny Kishawi] (https://github.com/hkishawi)
-- [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
+- [Sarah Park](https://github.com/sarahyaepark)
+- [Hanny Kishawi](https://github.com/hkishawi)
+- [Siva Kondubhatla](https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
 - [Lois Choji](https://github.com/LoisChoji)
 - [Deril Raju](https://github.com/deril2605)
@@ -110,8 +111,8 @@
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
-- [Tyler Bacon] (https://github.com/tbacon781)
-- [Sattwik Palai] (https://github.com/sattwik21)
+- [Tyler Bacon](https://github.com/tbacon781)
+- [Sattwik Palai](https://github.com/sattwik21)
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Grace Landsberg](https://github.com/glandsberg)
@@ -120,7 +121,7 @@
 - [Nachiket Sirsikar](https://www.github.com/nachiketS)
 - [Tanmay Gairola]
 - [Valenzuela Horacio] (https://github.com/UnderABloodySky)
-- [Kate Turner] (https://github.com/kateturnerdev)
+- [Kate Turner](https://github.com/kateturnerdev)
 - [Christine Ahn]
 - [wangzhihaisf](https://github.com/wangzhihaiSF)
 - [qafui](https://www.github.com/qafui)
@@ -134,7 +135,7 @@
 - [Rhubanraj](https://github.com/MrRhuezzler)
 - [Vladislav Semkin](https://github.com/vasemkin)
 - [Sakshi kumari](https://github.com/sakshi-06)
-- [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
+- [Alex Taietti  🇹](https://github.com/AlexTaietti)
 - [Robin Trumpie](https://github.com/rtrumpie)
 - [Atishaye Jain](https://github.com/atishaye)
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
