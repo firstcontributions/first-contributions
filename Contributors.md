@@ -2148,6 +2148,7 @@
 - [Joel Milligan](https://github.com/Joel-Milligan)
 - joel montano
 - [Joem Elias Sanez](https://github.com/israelias)
+- [JohannaSimoens](https://github.com/JohannaSimoens)
 - [Johannes Kultanen](https://github.com/jommari)
 - [John Boyle](https://github.com/87johnboyle)
 - [John Cotton](https://github.com/johncotton)
@@ -2436,6 +2437,7 @@
 - [Kevin Fu](https://github.com/fpk7660837)
 - [Kevin Huber](https://github.com/itskev)
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
+- [Kevin Ruibin Do](https://github.com/kevdo475)
 - [Kevin Ruiz](https://github.com/Kevin-Lyle-Ruiz)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Kevin Terry](https://github.com/kterry1)
@@ -3180,6 +3182,7 @@
 - [Nicolas Bermudez](https://github.com/nicobermudez)
 - Nicolas Devos
 - [Nicolas Venegas](https:github.com/nicvhub)
+- [Nicole Clearie]
 - [Nidhi Zare](https://github.com/nzare)
 - [Niels Ehehalt](https://github.com/Niels1303)
 - [Nigel Moore](https://github.com/nimows)
@@ -3777,6 +3780,7 @@
 - Rohit Patil
 - [Rohit Satwadhar](https://github.com/riotgage)
 - [Rojan Karn](https://github.com/rokarn12)
+- [Roland Betz] (https://github.com/rolandbetz)
 - [Roland Christensen](https://github.com/RolandChristensen/)
 - [Rolv Apneseth](https://github.com/Rolv-Apneseth)
 - [Roman Oravec](https://github.com/roman-oravec)
