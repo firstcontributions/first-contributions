@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Will Guo]
 -[Ashutosh Dixit](https;//github.com/Di-ashX)
 -[jaanP1]
@@ -23,6 +23,7 @@
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Nick Gumbs]
+- [Celine McFarlane] (https://github.com/shoemoo)
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Vikas Hegde] (https://github.com/vkashegde)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
