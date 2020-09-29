@@ -4938,6 +4938,7 @@ Sumit Sagar
 chaitrali
 - [schmelto](https://github.com/schmelto)
 - [vidura](https://github.com/vidurathegeek)
+- [John Burke Gallagher](https://github.com/burke54)
 - [cksharma](https://github.com/cksharma11)
 - [Shramko Serhii](https://github.com/Shramkoweb)
 - [Pavan Kommisetty](https://github.com/Kazeno21)
