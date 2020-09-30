@@ -38,6 +38,7 @@
 - [Nicole Clearie]
 - [Celine McFarlane] (https://github.com/shoemoo)
 - [Bhagya Singh] (https://github.com/bhagya05)
+- [Johns Vincent] (https://github.com/Johns-Vincent)
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Vikas Hegde] (https://github.com/vkashegde)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
