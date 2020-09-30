@@ -12,6 +12,7 @@
 - [SHUBHAM RAI]
 - [UMAR MASUD]
 - [jarvis3799]
+- [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - Omar Navarro
 - Archana Dhaker
 -[Tanweer Ali](https://github.com/tanweeralii)
