@@ -91,7 +91,6 @@
 - [Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
-- [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Ansh Mishra](https://github.com/theanshm)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
