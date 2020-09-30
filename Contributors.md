@@ -89,6 +89,7 @@
 - [Erick Canals](https://github.com/ec7495)
 - [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
+  [praveen-01](https://github.com/praveen-01)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Stefano Pino](https://github.com/StevePain)
 - [Justin Sebastian](https://github.com/Justin-Thomas-Sebastian)
@@ -4949,8 +4950,6 @@ Keshav goel
 - [duffttt](https://github.com/duffttt)
 - [Carlos Martel](https://github.com/Letram)
 - [Adrien Masanet](https://github.com/AdrienMasanet)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
