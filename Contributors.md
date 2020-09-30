@@ -105,6 +105,7 @@
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
 - [Jerry George Jaimon](https://github.com/jerryjaimon/first-contributions)
+- [Priyanshu Pardhi](https://github.com/PriyanshuPardhi24)
 - [Anjali Soni](https:github.com/anjalisoni3655)
 - [Achyut Paudel](https://github.com/achyut)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
@@ -5016,7 +5017,7 @@ Keshav goel
 - [Claire North](https://github.com/clairenorth)
 - [gallags6](https://github.com/gallags6)
 - [Didar Ali](https://github.com/didar15)
-- [Fred Cobb] 
+- [Fred Cobb]
 - [Alice Lia Stapleton](https://github.com/slimelia)
 - [Ruan Knoetze] (https://github.com/RuanKnoetze0308)
 - [Artyom Novoselov] (https://github.com/potyoma)
