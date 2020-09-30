@@ -50,6 +50,7 @@
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
+- [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - Omar Navarro
 - Praveen Raj
 - Yahaya Kehinde
