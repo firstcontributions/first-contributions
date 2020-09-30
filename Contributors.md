@@ -1555,6 +1555,7 @@
 - [zoe](https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
 - fflobert
+- [Ajay Srivastava](https://github.com/ajaystxus)
 - nocten
 - [Adam Reeves](https://github.com/irish1uck)
 - Ronald Baumgarten
