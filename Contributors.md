@@ -4949,8 +4949,8 @@ Keshav goel
 - [duffttt](https://github.com/duffttt)
 - [Carlos Martel](https://github.com/Letram)
 - [Adrien Masanet](https://github.com/AdrienMasanet)
-- [Carlos Martel](https://github.com/Letram) 
-- [Adrien Masanet](https://github.com/AdrienMasanet) 
+- [Carlos Martel](https://github.com/Letram)
+- [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
@@ -4979,7 +4979,7 @@ chaitrali
 - [Claire North](https://github.com/clairenorth)
 - [gallags6](https://github.com/gallags6)
 - [Didar Ali](https://github.com/didar15)
-- [Fred Cobb] 
+- [Fred Cobb]
 - [Alice Lia Stapleton] (https://github.com/slimelia)
 - [Ruan Knoetze] (https://github.com/RuanKnoetze0308)
 - [Artyom Novoselov] (https://github.com/potyoma)
@@ -4995,3 +4995,4 @@ chaitrali
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
 - [Christian Haag](https://github.com/vanhaaggen)
 - [Feyzullah YILDIZ] (https://github.com/feyzullahyildiz)
+- [Aryan Jain](https://github.com/AryanJ11)
