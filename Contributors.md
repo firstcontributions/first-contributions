@@ -159,6 +159,7 @@
 - [Deril Raju](https://github.com/deril2605)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
+- [Seth Polyniak](https://github.com/sethpoly)
 - [Kevwe](https://github.com/K3vwe)
 - [Muhammad Bella Buay Nunyai](https://github.com/bellabeen)
 - [Shahrukh Ansari](https://github.com/shak1505)
