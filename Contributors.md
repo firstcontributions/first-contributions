@@ -21,6 +21,7 @@
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
 -[Tanweer Ali](https://github.com/tanweeralii)
+- [Codrean Svetlana] (https://github.com/svetlanacodrean)
 - [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
 - [Advitiay Anand](https://github.com/adizcode)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
@@ -29,7 +30,7 @@
 - [Tanay] (https://github.com/sudhatanay)
 - [Tarun Sharma] (tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
-- [Arun Prabhakar] (https://github/arun-prabhakar)
+- [Arun Prabhakar T](https://github.com/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
@@ -90,6 +91,7 @@
 - [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
+- [Stefano Pino](https://github.com/StevePain)
 - [Justin Sebastian](https://github.com/Justin-Thomas-Sebastian)
 - pika-pi
 - [Jerry Xu](https://github.com/jerryxu158)
@@ -147,6 +149,7 @@
 - [Kate Turner] (https://github.com/kateturnerdev)
 - [Christine Ahn]
 - [wangzhihaisf](https://github.com/wangzhihaiSF)
+- [Hrishikesh Sarma](https://github.com/hrishikesharma)
 - [qafui](https://www.github.com/qafui)
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Jatin Jain](https://github.com/jatinjain001)
@@ -213,6 +216,7 @@
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [Yin Jian](https://github.com/Skyseaee)
 - [Ritwik Singh]
+- [Vibha V] (https://github.com/vibha-v)
 - [Suyash Bhadani]
 - [Moath Farhoud] (https://github.com/moathf123)
 - [Another Contributer]
@@ -352,6 +356,7 @@ Sumit Sagar
 - [Mohan Sai Teki](https://github.com/MohanSai1997)
 - [Harshit Parakh](https://github.com/Harsh061)
 - [Steve Bunting](https://github.com/stebunting)
+- [Damla Yıldız](https://github.com/damlayildiz)
 - [nerawz hlela](https://github.com/nerawzz)
 - [Tomasz Pastusiak](https://github.com/tomxey)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
@@ -4989,3 +4994,6 @@ chaitrali
 - [Francesco Cermaria] (https://github.com/fracerma)
 - [Ramya Lingari] (https://github.com/RamyaLingari)
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
+- [Christian Haag](https://github.com/vanhaaggen)
+- [Arihant Tripathy](https://github.com/Arihant25)
+- [Feyzullah YILDIZ](https://github.com/feyzullahyildiz)
