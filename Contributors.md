@@ -39,6 +39,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [BalaGanesh Meyyappan] (https://github.com/bala0406)
 - [SHUBHAM RAI]
+- [USMAN KHALID]
 - [UMAR MASUD]
 - [Devanshi Jain]
 - [Disco Dewani] [Party Rock]
