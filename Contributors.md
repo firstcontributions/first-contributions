@@ -32,6 +32,7 @@
 - [Bo Bleyl](https://github.com/Bobleyl)
 - [Will Guo]
 - [Manjunatha Sai Uppu](https://github.com/manjunani)
+- [Sattwik_Palai](https://github.com/sattwik21)
 - [Sneha Jeevan Kweera](https://github.com/snehakweera77)
 - [Aneesha Kota](https://github.com/AneeshaKota)
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
