@@ -126,6 +126,7 @@
 - [Soumallya Dev](https://github.com/soumallyadev07)
 - [Sagar Sarkar](https://github.com/ssarkar786)
 - [Ethan Wu](https://github.com/ew2664)
+- [Max Lievikoff](https://github.com/lievikoff)
 - [Sarah Park](https://github.com/sarahyaepark)
 - [Hanny Kishawi](https://github.com/hkishawi)
 - [Siva Kondubhatla](https://github.com/SivaKondubhatla)
