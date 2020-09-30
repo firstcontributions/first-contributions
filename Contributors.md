@@ -119,6 +119,7 @@
 - [Jerry Xu](https://github.com/jerryxu158)
 - [Alison](https://github.com/alisonzhu)
 - [Saumya Bhatt](https://github.com/Saumya-Bhatt)
+- [Tiago Oliveira](https://github.com/tiagoods)
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Ajit Kumar Chaurasiya](https://github.com/Ajit-53)
 - [Sakshi Kumar](https://github.com/sakshi006)
