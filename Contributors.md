@@ -13,6 +13,7 @@
 - [Ashutosh Dixit](https;//github.com/Di-ashX)
 - [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
+- [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
