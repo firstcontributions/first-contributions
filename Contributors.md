@@ -1,4 +1,5 @@
 # Contributors
+- [Yash Shukla](https://github.com/Yash1256)
 - [Parth Srivastava](https://github.com/savss624)
 - [Sushant Krishnan](https://github.com/sushantkrishnan/)
 - [Soham Sakaria](https://github.com/sushantkrishnan/)
