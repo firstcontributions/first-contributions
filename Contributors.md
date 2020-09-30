@@ -4978,6 +4978,7 @@ Keshav goel
 - [u10k](https://github.com/u10k)
 - [Kavish-Agnihotri](https://github.com/Kavish-Agnihotri)
 - [MananKGarg](https://github.com/MananKGarg)
+- [SiddhantDugar](https://github.com/SiddhantDugar)
 - [Damien Archer](https://github.com/daarcher04)
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
