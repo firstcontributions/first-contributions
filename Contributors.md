@@ -2,6 +2,7 @@
 - [Kirsten Fure](https://github.com/kfure)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Yash Shukla](https://github.com/Yash1256)
+- [James Dobbe](https://github.com/dobbe2)
 - [Himanshu Pal](https://github.com/TechnonHims)
 - [Parth Srivastava](https://github.com/savss624)
 - [Sushant Krishnan](https://github.com/sushantkrishnan/)
@@ -4885,6 +4886,7 @@ Keshav goel
 - [Kuntal Roy](https://github.com/kroy1809)
 - [jaeik](https://github.com/simjaeik)
 - [tsantos8080](https://github.com/tsantos8080)
+- [Rustam Samigullin](https://github.com/Rustam1993)
 - [Tommy]
 - [JenEeKay](https://github.com/jennyek2019)
 - [Valerio Trinca](https://github.com/ValerioTrinca)
@@ -5108,6 +5110,7 @@ Keshav goel
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
 - [Christian Haag](https://github.com/vanhaaggen)
 - [Aryan Jain](https://github.com/AryanJ11)
+- [Adiv Harjadinata] (https://github.com/adivdn)
 - [Arihant Tripathy](https://github.com/Arihant25)
 - [Feyzullah YILDIZ](https://github.com/feyzullahyildiz)
 - [Made Supardi](https://github.com/madesupardi2)
@@ -5133,3 +5136,4 @@ Keshav goel
 - [Raghav Mehta](https://https://github.com/mehta-raghav)
 - [Yulidar Maulana](https://github.com/yulidarmaulana)
 - [Rucha R] (https://github.com/Ruchared)
+
