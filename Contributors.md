@@ -48,6 +48,7 @@
 - [USMAN KHALID]
 - [UMAR MASUD]
 - [Devanshi Jain]
+  [Divyansh Raina] (https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
