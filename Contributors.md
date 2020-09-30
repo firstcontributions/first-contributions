@@ -5,6 +5,7 @@
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shreya Garg](https://github.com/einhawking)
 - [Asad Moosvi](https://github.com/asadmoosvi)
+-[Manas Sharma](https://github.com/Manas-E)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Or Zohar](https://github.com/orZohar)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
