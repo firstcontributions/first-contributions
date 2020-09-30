@@ -3835,6 +3835,7 @@ Keshav goel
 - [DozzerCT8](https://github.com/DozzerCR8)
 - [Daemon](https://github.com/prameya21)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
+- [Afdul Fauzan](https://github.com/afdulfauzan)
 - [David Jahng](https://github.com/djahng)
 - [Brian Xiang](https://github.com/cf12)
 - [Azhar Anwar](https://github.com/iamazhar)
