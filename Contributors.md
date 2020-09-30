@@ -4992,6 +4992,7 @@ chaitrali
 - [Jitesh Dhamaniya](https://github.com/jiteshdhamaniya)
 - [Divyansh Tyagi](https://github.com/divyanshTyagi)
 - [Francesco Cermaria] (https://github.com/fracerma)
+- [Jun Qu] (https://github.com/junqu14)
 - [Ramya Lingari] (https://github.com/RamyaLingari)
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
 - [Christian Haag](https://github.com/vanhaaggen)
