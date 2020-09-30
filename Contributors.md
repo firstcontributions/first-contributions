@@ -20,6 +20,7 @@
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Shreya Modi] (https://github.com/shreyamodi1999/)
+- [Nikunj Das Kasat] (https://github.com/nikunjdk)
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
