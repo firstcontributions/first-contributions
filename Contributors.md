@@ -17,6 +17,7 @@
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Elly Howells](https://github.com/EJHowells)
 - [Will Guo]
+- [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
