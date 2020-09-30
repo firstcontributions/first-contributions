@@ -40,6 +40,7 @@
 - [Jonah Henry](https://github.com/jnh129)
 - [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
+  [Jeison Ferrer](https://github.com/joferrer)
 - [Bo Bleyl](https://github.com/Bobleyl)
 - [Will Guo]
 - [Manjunatha Sai Uppu](https://github.com/manjunani)
