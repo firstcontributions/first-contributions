@@ -33,6 +33,7 @@
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Sriram](https://github.com/BLNDLYBLV)
 - [Ali Jbareen](https://github.com/alijbareen)
+- [Aish](https://github.com/aishtron7)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
