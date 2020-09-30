@@ -18,6 +18,7 @@
 - [Or Zohar](https://github.com/orZohar)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Elly Howells](https://github.com/EJHowells)
+- [Cormac Krum](https://github.com/cormacKrum)
 - [Will Guo]
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
