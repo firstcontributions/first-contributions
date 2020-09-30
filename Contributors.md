@@ -4957,6 +4957,7 @@ Keshav goel
 - [Hey there, I'm contributing to open source]
 - [JohannaSimoens](https://github.com/JohannaSimoens)
 - [TobiasTorres]
+- [Eirik Hatlem](https://github.com/ehatlem)
 - [Clubtour]
 - [Bayu Kurniawan](https://github.com/sikubay)
 - [u10k](https://github.com/u10k)
