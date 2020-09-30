@@ -17,6 +17,7 @@
 - [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
+- [Manjunatha Sai Uppu](https://github.com/manjunani)
 - [Aneesha Kota](https://github.com/AneeshaKota)
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
 - [CodeBlooded](https://github.com/codeblooded-47)
