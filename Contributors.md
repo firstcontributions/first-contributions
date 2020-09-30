@@ -9,6 +9,7 @@
 -[Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 - [Rohan Poojary](https://github.com/RohanPoojary1107)
+-[Priya Agarwal](https://github.com/Priya2501)
 -[Ankita Singhal](https://github.com/sankita11)
 -[sai aka]
 -[Elizabeth Wiggins]
