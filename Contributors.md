@@ -233,6 +233,7 @@
 - [Zubier Abdullah](https://github.com/ZubierAbd)
 - [Hari Kumar]
 - [Nick Shattuck](https://github.com/nshattuck20)
+- [Allison Harry](https://github.com/aHarry01)
 - [Cornelia Johnson]()
 - [Mateusz Ostrowski]
 - [Iulian Caleanu](https://github.com/DayOne723)
