@@ -1,4 +1,5 @@
 # Contributors
+- [Ronit Chatterjee](https://github.com/i-Rony)
 - [Arun Prabhakar](https://github/arun-prabhakar)
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
