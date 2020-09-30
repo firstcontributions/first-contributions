@@ -1655,6 +1655,7 @@ Sumit Sagar
 - [Madhusudhan Kumble](https://github.com/madhukumble)
 - [Fernando Campos Schelb](https://github.com/houspiller)
 - [Akanksha Priya](https://github.com/Spring-dot)
+- [Jashandeep Singh](https://github.com/Jashandeep2020)
 - [Or Lanir](https://github.com/Laniros)
 - [Dipanjan Jayswal](https://github.com/dipscodehub)
 - [TamaraNC](https://github.com/TamaraNC)
