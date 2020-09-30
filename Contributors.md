@@ -1,4 +1,5 @@
 # Contributors
+- [Riddhi Suteri](https://github.com/ridsuteri)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
