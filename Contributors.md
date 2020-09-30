@@ -10,7 +10,7 @@
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Elly Howells](https://github.com/EJHowells)
 - [Will Guo]
-- [Aditya Ravi Swami](https://github.com/ADshady13)
+- [Aditya Ravi Swami] (https://github.com/ADshady13)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https;//github.com/Di-ashX)
