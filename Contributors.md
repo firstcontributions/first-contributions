@@ -1085,6 +1085,7 @@ Sumit Sagar
 - [Kabir Jain](https://github.com/kkkkkabir)
 - [Sivadej K](https://github.com/sivadej)
 - [Saketh](https://github.com/AnAstutehuMan)
+- [Mason]
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Lou Chaney](https://github.com/ftwin)
 - [Akash Chouhan](https://github.com/akashchouhan16)
