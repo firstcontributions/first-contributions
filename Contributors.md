@@ -1,4 +1,5 @@
 # Contributors
+- [Sushant Krishnan](https://github.com/sushantkrishnan/)
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
