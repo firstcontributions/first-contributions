@@ -676,6 +676,7 @@ Sumit Sagar
 - [dfcsv](https://github.com/dfcsv)
 - [Arushi Sharma](https://github.com/Arushi04)
 - [Arun Kumar Singh](https://github.com/arun-kmr-singh)
+- Markus Böhnke
 - [Santos Soffli](https://github.com/ssoffli)
 - [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
