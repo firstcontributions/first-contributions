@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 -[Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 -[Tommy Deliso](https://github.com/tdeliso)
@@ -8,6 +8,7 @@
 -[jaanP1]
 -[Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
+- [Rohan Poojary](https://github.com/RohanPoojary1107)
 -[Ankita Singhal](https://github.com/sankita11)
 -[sai aka]
 -[Elizabeth Wiggins]
