@@ -18,6 +18,7 @@
 - [UMAR MASUD]
 - [jarvis3799]
 - Omar Navarro
+- Praveen Raj
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
 -[Tanweer Ali](https://github.com/tanweeralii)
