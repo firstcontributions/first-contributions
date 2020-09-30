@@ -11,6 +11,7 @@
 - [Arun Prabhakar](https://github/arun-prabhakar)
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
+- [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
 - [Asad Moosvi](https://github.com/asadmoosvi)
 -[Madison Reese](https://github.com/MadisonReese)
