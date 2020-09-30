@@ -31,6 +31,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [UMAR MASUD]
+- [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - Omar Navarro
