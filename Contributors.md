@@ -1,4 +1,14 @@
 # Contributors
+- [Arun Prabhakar](https://github/arun-prabhakar)
+- [Ivonne Y Mendoza](https://github.com/TiaIvonne)
+- [Shreya Garg](https://github.com/einhawking)
+- [Asad Moosvi](https://github.com/asadmoosvi)
+- [Sudeep Kumar Gupta](https://github.com/sudeep423)
+- [Or Zohar](https://github.com/orZohar)
+- [Jaspar Ifesinachi](https://github.com/if3chi)
+- [Will Guo]
+- [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
 - [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
