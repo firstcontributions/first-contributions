@@ -12,6 +12,7 @@
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shreya Garg](https://github.com/einhawking)
 - [Asad Moosvi](https://github.com/asadmoosvi)
+-[Madison Reese](https://github.com/MadisonReese)
 -[Manas Sharma](https://github.com/Manas-E)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
