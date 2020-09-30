@@ -1,4 +1,5 @@
 # Contributors
+- [Sushant Krishnan](https://github.com/sushantkrishnan/)
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
@@ -45,6 +46,7 @@
 - [USMAN KHALID]
 - [UMAR MASUD]
 - [Devanshi Jain]
+- [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
@@ -5076,3 +5078,5 @@ Keshav goel
 - [Nicolas Cheng](https://github.com/nicolakacha)
 - [Chetan Bansal](https://github.com/Chetan8462)
 - [Sparsh Jain](https://github.com/SparshJain2000)
+- [Blazej Siejek](https://github.com/mrsiejas)
+
