@@ -1415,6 +1415,7 @@ Sumit Sagar
 - [Xiulei Zhu](https://github.com/acostry/)
 - [SleepyFoxCode](https://github.com/sleepyfoxcode)
 - [Pratik Patel](https://github.com/pratikpatelx)
+- [Juliana Jaime](https://github.com/PeppermintNDaisies/)
 - [Faraz Suhail](https://github.com/Faraz710)
 - [Zafir Khalid](https://github.com/Zafirmk)
 - [Fisayo Ojo](https://github.com/FisayoD)
@@ -5131,4 +5132,4 @@ Keshav goel
 - [Rubi Singh](https://github.com/rubisingh2020)
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
 - [Ajay Mittal](https://github.com/ajaymittal2020)
-- [Raghav Mehta](https://https://github.com/mehta-raghav)
+- [Raghav Mehta](https://github.com/mehta-raghav)
