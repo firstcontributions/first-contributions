@@ -47,6 +47,7 @@
 - [SHUBHAM RAI]
 - [USMAN KHALID]
 - [UMAR MASUD]
+- [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
 - [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
