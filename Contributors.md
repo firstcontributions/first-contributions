@@ -6,6 +6,7 @@
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Or Zohar](https://github.com/orZohar)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
+- [Elly Howells](https://github.com/EJHowells)
 - [Will Guo]
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Ali Jbareen](https://github.com/alijbareen)
