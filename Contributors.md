@@ -100,6 +100,7 @@
 - [Asad Moosvi](https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Aditya Baravkar](https://github.com/Aditya182)
+- [Tanay Kamath] (https://github.com/2tanayk)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
 - [Or Zohar](https://github.com/orZohar)
