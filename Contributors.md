@@ -37,6 +37,7 @@
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
 - [Nicole Clearie]
+- [Gaurav Dahal] (https://github.com/gaurav822)
 - [Celine McFarlane] (https://github.com/shoemoo)
 - [Bhagya Singh] (https://github.com/bhagya05)
 - [Johns Vincent] (https://github.com/Johns-Vincent)
