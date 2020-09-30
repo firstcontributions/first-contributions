@@ -30,7 +30,7 @@
 - [Tanay] (https://github.com/sudhatanay)
 - [Tarun Sharma] (tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
-- [Arun Prabhakar] (https://github/arun-prabhakar)
+- [Arun Prabhakar T](https://github.com/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
@@ -216,6 +216,7 @@
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [Yin Jian](https://github.com/Skyseaee)
 - [Ritwik Singh]
+- [Vibha V] (https://github.com/vibha-v)
 - [Suyash Bhadani]
 - [Moath Farhoud] (https://github.com/moathf123)
 - [Another Contributer]
@@ -4994,3 +4995,4 @@ chaitrali
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
 - [Christian Haag](https://github.com/vanhaaggen)
 - [Arihant Tripathy](https://github.com/Arihant25)
+- [Feyzullah YILDIZ](https://github.com/feyzullahyildiz)
