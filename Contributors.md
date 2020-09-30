@@ -1,6 +1,7 @@
 # Contributors
 - [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
+- [Amanda Gonzalez](https://github.com/Amagonzalez27)
 - [CodeBlooded](https://github.com/codeblooded-47)
 - [WeLostTheNight](https://github.com/574469831)
 - [Ashutosh Dixit](https;//github.com/Di-ashX)
