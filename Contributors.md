@@ -1464,6 +1464,7 @@ Sumit Sagar
 - [Nithin Kumar](https://github.com/nithintata)
 - [Daniel Pyon](https://github.com/danielpyon)
 - [Sylvain k](https://github.com/skamdem)
+- [Bhoomi Sawant] (https://github.com/Earthbs)
 - [Elyahu Jacobi](https://github.com/Elyahu41)
 - Sarabjyot Singh
 - Shivam Rawat
