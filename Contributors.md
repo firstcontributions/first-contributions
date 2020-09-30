@@ -1,4 +1,4 @@
-# Contributors
+# Contributor
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
@@ -16,6 +16,7 @@
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [Manasa Samaga](https://github.com/manasasamaga)
 - [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
 - [James Mullarkey](https://github.com/jaymz95)
