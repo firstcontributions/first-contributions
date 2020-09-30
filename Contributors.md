@@ -11,6 +11,7 @@
 - [Asad Moosvi](https://github.com/asadmoosvi)
 -[Manas Sharma](https://github.com/Manas-E)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
+- [Kartikey Sharma](https://github.com/KartikeySharma)
 - [Or Zohar](https://github.com/orZohar)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Elly Howells](https://github.com/EJHowells)
