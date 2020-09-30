@@ -325,6 +325,7 @@
 - [Chaithra Pabbathi]
 - [Archi Aggarwal]
 - [Carl Sagan]
+- [Rahul R]
 - [Devjeet Roy](https://github.com/devjeetroy98)
 - [Michelle Sandford](https://github.com/msandfor)
 - [Mehul Bhatt](https://github.com/mehulbhat)
