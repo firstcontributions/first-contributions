@@ -1420,6 +1420,7 @@ Sumit Sagar
 - mallgyd
 - [Pravin](https://pravin772.github.io/pravindev/)
 - Rain
+- [Katie Bullock] (https://github.com/KatieBullock/)
 - [Anya Schechter](https://github.com/abracadabra89/)
 - yosef (did it)
 - [Jimmy Holmes](https://github.com/MrDrHolmes)
