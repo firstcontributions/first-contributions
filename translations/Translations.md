@@ -1,5 +1,6 @@
 # Translations
 
+
 |                                                                                                                                                                                                                                                                             | Translated Link                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | <img alt="ગુજરાતી" title="ગુજરાતી" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                                                                                                                                                 | [ગુજરાતી](README.guj.md)                                              |
@@ -65,3 +66,4 @@
 | <img alt="Suriname" title="Suriname" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sr.svg" width="22">                                                                                                                                               | [Suriname](README.sr.md)                                              |
 | <img alt="Latvia" title="Latvia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">                                                                                                                                                   | [Latvia](README.lv.md)                                                |
 | <img alt="Shqip" title="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">                                                                                                                                                     | [Shqip](README.al.md)                                                 |
+                                                                                             | [Беларуская мова](README.by.md)                                                      |
