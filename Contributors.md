@@ -4998,5 +4998,6 @@ Keshav goel
 - [Ramya Lingari] (https://github.com/RamyaLingari)
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
 - [Christian Haag](https://github.com/vanhaaggen)
+- [Aryan Jain](https://github.com/AryanJ11)
 - [Arihant Tripathy](https://github.com/Arihant25)
 - [Feyzullah YILDIZ](https://github.com/feyzullahyildiz)
