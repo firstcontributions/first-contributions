@@ -1,4 +1,5 @@
 # Contributors
+- [Kirsten Fure](https://github.com/kfure)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Yash Shukla](https://github.com/Yash1256)
 - [Himanshu Pal](https://github.com/TechnonHims)
