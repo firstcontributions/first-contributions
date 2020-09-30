@@ -74,6 +74,7 @@
 - [Ankit yadav](https://github.com/imakki)
 - [sbrmnm]
 - [Sandeep Verma](https://github.com/sandeep-kverma)
+- [Wasim Raja] (https://github.com/wasim7raja10)
 - [Jackson Bates](https://github.com/jbates222)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Dayeong Kang](https://github.com/tula3and)
