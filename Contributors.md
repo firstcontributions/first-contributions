@@ -4886,6 +4886,7 @@ Keshav goel
 - [Kuntal Roy](https://github.com/kroy1809)
 - [jaeik](https://github.com/simjaeik)
 - [tsantos8080](https://github.com/tsantos8080)
+- [Rustam Samigullin](https://github.com/Rustam1993)
 - [Tommy]
 - [JenEeKay](https://github.com/jennyek2019)
 - [Valerio Trinca](https://github.com/ValerioTrinca)
