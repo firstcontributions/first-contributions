@@ -142,6 +142,7 @@
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
 - [noble ordu](https://github.com/nobleordu)
+- [K Avinash Nayak](https://github.com/kan12340987)
 - [Gabe Corsini](https://github.com/gpcor)
 - [Soumallya Dev](https://github.com/soumallyadev07)
 - [Sagar Sarkar](https://github.com/ssarkar786)
