@@ -20,6 +20,7 @@
 - [Elly Howells](https://github.com/EJHowells)
 - [Will Guo]
 - [SHREY Maurya]
+- [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Shreya Modi] (https://github.com/shreyamodi1999/)
