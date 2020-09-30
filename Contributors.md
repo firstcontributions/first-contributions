@@ -3225,6 +3225,7 @@
 - [peterp](https://github.com/peterp)
 - [Aaron Smith](https://github.com/aarondanielsmith)
 - [Darshana](https://github.com/lady-ada)
+- [Ajay Srivastava](https://github.com/ajaystxus)
 - [Juan Belieni](https://github.com/juanbelieni)
 - [Louis Michael](https://github.com/Louis-Michael)
 - [Ryan Simpson](https://github.com/Arancium)
