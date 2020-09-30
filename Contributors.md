@@ -4966,6 +4966,7 @@ chaitrali
 - [Alfikri] (https://github.com/alfikridotname)
 - [Claire North](https://github.com/clairenorth)
 - [gallags6](https://github.com/gallags6)
+- [Didar Ali](https://github.com/didar15)
 - [Fred Cobb] 
 - [Alice Lia Stapleton] (https://github.com/slimelia)
 - [Ruan Knoetze] (https://github.com/RuanKnoetze0308)
