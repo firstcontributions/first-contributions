@@ -524,6 +524,7 @@ Sumit Sagar
 - [Arjun Aggarwal](https://github.com/Arjun-Aggarwal)
 - Wimansha Herath
 - Marc Banuls
+- [Ritik Kumar](https://github.com/iamr-kumar)
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Ayushi Srivastava](https://github.com/srivastavayushi)
 - [Shrish Tripathi](https://github.com/shrishtrip)
