@@ -153,6 +153,7 @@
 - [Ethan Wu](https://github.com/ew2664)
 - [Max Lievikoff](https://github.com/lievikoff)
 - [Sarah Park](https://github.com/sarahyaepark)
+- [Deepa Gokhale-Bhujle](https://github.com/DeepaGokhale)
 - [Hanny Kishawi](https://github.com/hkishawi)
 - [Siva Kondubhatla](https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
