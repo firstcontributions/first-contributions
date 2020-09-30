@@ -64,6 +64,7 @@
 - Omar Navarro
 - Praveen Raj
 - Yahaya Kehinde
+- [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
 - [0ver3inker](https://github.com/OverthinkersArea)
