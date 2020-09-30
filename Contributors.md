@@ -203,6 +203,7 @@
 - [Josh Lavallee](https://github.com/jlavallee76)
 - [Zubier Abdullah](https://github.com/ZubierAbd)
 - [Hari Kumar]
+- [Nick Shattuck](https://github.com/nshattuck20)
 - [Cornelia Johnson]()
 - [Mateusz Ostrowski]
 - [Iulian Caleanu](https://github.com/DayOne723)
