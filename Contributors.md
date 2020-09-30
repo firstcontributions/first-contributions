@@ -2499,6 +2499,7 @@ Keshav goel
 - [Tanushree Unakal](https://github.com/tanu-unakal)
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Ben Woodley](https://github.com/caislear)
+- [Preetham Venkatesh](https://github.com/preetham-v)
 - Angelo Martínez
 - Ethan B
 - Graetdragonn
