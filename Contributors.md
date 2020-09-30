@@ -98,6 +98,7 @@
 - [Mayur](https://github.com/mayursamnani36)
 - [Madhav Sodhani](https://github.com/madhav2302)
 - [TheIcySpark](https://github.com/TheIcySpark)
+- [Isa Faulifa](https://github.com/isafaulifa)
 - [Seymour James](https://github.com/sanjay1510)
 - [Pragati Alur](https://github.com/PragatiAlur)
 - [Onkar Sharma](https://github.com/KSHAMIN)
