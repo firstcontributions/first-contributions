@@ -1,5 +1,7 @@
 # Contributors
+- [Parth Srivastava](https://github.com/savss624)
 - [Sushant Krishnan](https://github.com/sushantkrishnan/)
+- [Soham Sakaria](https://github.com/sushantkrishnan/)
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
@@ -45,11 +47,14 @@
 - [SHUBHAM RAI]
 - [USMAN KHALID]
 - [UMAR MASUD]
+- [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
+  [Divyansh Raina] (https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
+- [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - Omar Navarro
 - Praveen Raj
 - Yahaya Kehinde
@@ -60,6 +65,7 @@
 - [Codrean Svetlana] (https://github.com/svetlanacodrean)
 - [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
 - [Advitiay Anand](https://github.com/adizcode)
+- [Ankit Podder](https://github.com/ANKITPODDER2000)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
@@ -75,6 +81,7 @@
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
 - [Nicole Clearie]
+-[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
 - [Bhagya Singh](https://github.com/bhagya05)
@@ -165,6 +172,7 @@
 - [Muhammad Sapuan](https://github.com/msapuan)  
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
+- [kirtirajsinh Parmar](https://github.com/kirtirajsinh)
 - [noble ordu](https://github.com/nobleordu)
 - [K Avinash Nayak](https://github.com/kan12340987)
 - [Gabe Corsini](https://github.com/gpcor)
@@ -323,6 +331,7 @@
 - [Chaithra Pabbathi]
 - [Archi Aggarwal]
 - [Carl Sagan]
+- [Rahul R]
 - [Devjeet Roy](https://github.com/devjeetroy98)
 - [Michelle Sandford](https://github.com/msandfor)
 - [Mehul Bhatt](https://github.com/mehulbhat)
@@ -379,6 +388,7 @@ Sumit Sagar
 - [jim0625](https://github.com/jim0625)
 - [Kelly Corey](https://github.com/kellcore)
 - [deecoders](https://github.com/deecoders)
+- [mmott18](https://github.com/mmott18)
 - [Mohammad Sheraj](https://github.com/mdsheraj123)
 - [Ausaf Ahmed](https://github.com/ausaf-a)
 - [Muhammed Rizal]
@@ -1458,6 +1468,7 @@ Sumit Sagar
 - [Nithin Kumar](https://github.com/nithintata)
 - [Daniel Pyon](https://github.com/danielpyon)
 - [Sylvain k](https://github.com/skamdem)
+- [Bhoomi Sawant] (https://github.com/Earthbs)
 - [Elyahu Jacobi](https://github.com/Elyahu41)
 - Sarabjyot Singh
 - Shivam Rawat
@@ -5079,4 +5090,8 @@ Keshav goel
 - [Chetan Bansal](https://github.com/Chetan8462)
 - [Sparsh Jain](https://github.com/SparshJain2000)
 - [Blazej Siejek](https://github.com/mrsiejas)
-
+- [Blazej Siejek](https://github.com/mrsiejas)
+- [Piyush Gahoi](https://github.com/PiyushGahoi)
+- [Namit Chandwani](https://github.com/namit-chandwani)
+- [Wacky Joker](https://github.com/wackyjoker)
+- [Aarushi Shrestha](https://github.com/Aarushi21)
