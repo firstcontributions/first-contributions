@@ -45,7 +45,6 @@
 - [USMAN KHALID]
 - [UMAR MASUD]
 - [Devanshi Jain]
-- [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
@@ -5077,3 +5076,4 @@ Keshav goel
 - [Nicolas Cheng](https://github.com/nicolakacha)
 - [Chetan Bansal](https://github.com/Chetan8462)
 - [Blazej Siejek](https://github.com/mrsiejas)
+- [Deepti](https://github.com/deepti23-web)
