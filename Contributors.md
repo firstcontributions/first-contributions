@@ -6,11 +6,12 @@
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
-- [Aditya Manchanda] (https://github.com/Aditya-1500)
+- [Aditya Manchanda](https://github.com/Aditya-1500)
+- [N Sanketh Reddy](https://github.com/nsankethreddy)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shreya Garg](https://github.com/einhawking)
 - [Asad Moosvi](https://github.com/asadmoosvi)
--[Manas Sharma](https://github.com/Manas-E)
+- [Manas Sharma](https://github.com/Manas-E)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
 - [Or Zohar](https://github.com/orZohar)
@@ -86,7 +87,6 @@
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
-- [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
 - [Nicole Clearie]
@@ -2500,7 +2500,6 @@ Keshav goel
 - [Tanushree Unakal](https://github.com/tanu-unakal)
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Ben Woodley](https://github.com/caislear)
-- [Preetham Venkatesh](https://github.com/preetham-v)
 - Angelo Martínez
 - Ethan B
 - Graetdragonn
