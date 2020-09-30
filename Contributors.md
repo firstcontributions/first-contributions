@@ -3988,6 +3988,7 @@ Keshav goel
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
 - [Jennifer Park](https://github.com/j3nniis)
+- [Anayna Singh](https://github.com/anaynasingh)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
 - [Kevin C.](https://github.com/Lxr82)
 - [mpatel17](https://github.com/mpatel17)
