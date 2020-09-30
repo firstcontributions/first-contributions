@@ -2501,6 +2501,7 @@ Keshav goel
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Ben Woodley](https://github.com/caislear)
 - [Preetham Venkatesh](https://github.com/preetham-v)
+- [Avinash Bharadwaj](https://github.com/avibharadwaj)
 - Angelo Martínez
 - Ethan B
 - Graetdragonn
