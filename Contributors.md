@@ -1,4 +1,5 @@
 # Contributors
+- [Jonah Henry](https://github.com/jnh129)
 - [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
