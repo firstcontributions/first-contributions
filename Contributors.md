@@ -21,6 +21,7 @@
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
 -[Tanweer Ali](https://github.com/tanweeralii)
+- [Codrean Svetlana] (https://github.com/svetlanacodrean)
 - [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
 - [Advitiay Anand](https://github.com/adizcode)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
