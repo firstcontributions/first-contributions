@@ -85,6 +85,7 @@
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
 - [Madhav Sodhani](https://github.com/madhav2302)
+- [Ritwik Goel](https://github.com/ritwikgoel)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Seymour James](https://github.com/sanjay1510)
 - [Pragati Alur](https://github.com/PragatiAlur)
