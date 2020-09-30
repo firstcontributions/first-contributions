@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+- [Yash Shukla](https://github.com/Yash1256)
 - [Parth Srivastava](https://github.com/savss624)
 - [Sushant Krishnan](https://github.com/sushantkrishnan/)
 - [Soham Sakaria](https://github.com/sushantkrishnan/)
@@ -20,6 +21,7 @@
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Shreya Modi] (https://github.com/shreyamodi1999/)
+- [Nikunj Das Kasat] (https://github.com/nikunjdk)
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
@@ -27,8 +29,10 @@
 - [Jonah Henry](https://github.com/jnh129)
 - [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
+- [Bo Bleyl](https://github.com/Bobleyl)
 - [Will Guo]
 - [Manjunatha Sai Uppu](https://github.com/manjunani)
+- [Sattwik_Palai](https://github.com/sattwik21)
 - [Sneha Jeevan Kweera](https://github.com/snehakweera77)
 - [Aneesha Kota](https://github.com/AneeshaKota)
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
@@ -61,6 +65,7 @@
 - Omar Navarro
 - Praveen Raj
 - Yahaya Kehinde
+- [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
 - [0ver3inker](https://github.com/OverthinkersArea)
@@ -95,6 +100,7 @@
 - [Asad Moosvi](https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Aditya Baravkar](https://github.com/Aditya182)
+- [Tanay Kamath] (https://github.com/2tanayk)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
 - [Or Zohar](https://github.com/orZohar)
@@ -5102,3 +5108,5 @@ Keshav goel
 - [Aarushi Shrestha](https://github.com/Aarushi21)
 - [Nadeem Zaya](https://github.com/nadeemreflexis)
 - [antaragh] (https://github.com/antaragh)
+- [Rubi Singh](https://github.com/rubisingh2020)
+- [John Wesley Kommala](https://github.com/JohnWesleyK)
