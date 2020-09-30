@@ -19,6 +19,7 @@
 - [Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 - [Manjunatha Sai Uppu](https://github.com/manjunani)
+- [Sneha Jeevan Kweera](https://github.com/snehakweera77)
 - [Aneesha Kota](https://github.com/AneeshaKota)
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
 - [CodeBlooded](https://github.com/codeblooded-47)
