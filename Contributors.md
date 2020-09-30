@@ -12,10 +12,11 @@
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Elly Howells](https://github.com/EJHowells)
 - [Will Guo]
+- [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ali Jbareen](https://github.com/alijbareen)
-- [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
 - [James Mullarkey](https://github.com/jaymz95)
