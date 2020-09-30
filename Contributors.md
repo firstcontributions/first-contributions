@@ -167,6 +167,7 @@
 - [Muhammad Sapuan](https://github.com/msapuan)  
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
+- [kirtirajsinh Parmar](https://github.com/kirtirajsinh)
 - [noble ordu](https://github.com/nobleordu)
 - [K Avinash Nayak](https://github.com/kan12340987)
 - [Gabe Corsini](https://github.com/gpcor)
