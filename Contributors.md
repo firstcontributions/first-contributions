@@ -4988,3 +4988,4 @@ chaitrali
 - [Francesco Cermaria] (https://github.com/fracerma)
 - [Ramya Lingari] (https://github.com/RamyaLingari)
 - [Pratyush Ranjan] (https://github.com/pranjanpr)
+- [Christian Haag](https://github.com/vanhaaggen)
