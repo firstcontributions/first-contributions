@@ -191,7 +191,7 @@
 - [Ahmed Elsisy](https://github.com/AhmedElsisy)
 - [Raj Valand](https://github.com/Raj142)
   [Shreya Shukla](https://github.com/shreyashukla-26)
-- [Muhammad Sapuan](https://github.com/msapuan)  
+- [Muhammad Sapuan](https://github.com/msapuan)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
 - [kirtirajsinh Parmar](https://github.com/kirtirajsinh)
@@ -5131,3 +5131,4 @@ Keshav goel
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
 - [Ajay Mittal](https://github.com/ajaymittal2020)
 - [Raghav Mehta](https://https://github.com/mehta-raghav)
+- [Rucha R]
