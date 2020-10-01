@@ -4,6 +4,7 @@
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
+- [Hritik Chaudhary](https://github.com/hritikchaudhary)
 - [Virdio Samuel](https://github.com/diosamuel)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
