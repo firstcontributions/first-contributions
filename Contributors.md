@@ -18,6 +18,7 @@
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
+- [Dicka Estu](https://github.com/dickaestu)
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
