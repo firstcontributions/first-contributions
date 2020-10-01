@@ -1117,6 +1117,7 @@ Sumit Sagar
 - [Sivadej K](https://github.com/sivadej)
 - [Saketh](https://github.com/AnAstutehuMan)
 - [Mason]
+- [Gokul](https://github.com/Gokul2406)
 - [Abhinav Dhiman](https://github.com/abhinavg916)
 - [Lou Chaney](https://github.com/ftwin)
 - [Akash Chouhan](https://github.com/akashchouhan16)
