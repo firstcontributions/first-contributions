@@ -1939,6 +1939,7 @@ Sumit Sagar
 - [Aichi Chang](https://github.com/aichi-chang)
 - [Khabiir Khan](https://github.com/khabiirk)
 - John E
+- Alex Borrelli
 - adi satrio wibowo
 - Rochisha
 - belublem
