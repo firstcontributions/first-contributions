@@ -5,7 +5,7 @@
 
 # Kontribusi Pertama
 
-Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor *open-source* baru belajar dan berkontribusi untuk pertama kalinya.
+Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor _open-source_ baru belajar dan berkontribusi untuk pertama kalinya.
 
 Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada langsung mempraktikan hal-hal tersebut? Proyek ini bertujuan untuk memberikan panduan dan menyederhanakan cara memberikan kontribusi pertama bagi pemula. Jika Anda ingin memberikan kontribusi untuk pertama kalinya, ikuti langkah-langkah di bawah ini.
 
@@ -24,7 +24,7 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 [🇷🇺](translations/README.ru.md)
 [🇧🇬](translations/README.bg.md)
 [:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
+[<img src="../assets/jp.png" width="22">](translations/README.ja.md)
 [🇻🇳](translations/README.vn.md)
 [🇵🇱](translations/README.pl.md)
 [🇮🇷](translations/README.fa.md)
@@ -62,21 +62,20 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 [🇳🇬](translations/README.igb.md)
 [🇷🇸](translations/README.sr.md)
 
-
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## Fork Repositori Ini
 
-Fork repositori ini dengan cara menekan tombol *fork* yang ada di bagian kanan atas layar.
+Fork repositori ini dengan cara menekan tombol _fork_ yang ada di bagian kanan atas layar.
 Hal tersebut akan membuat salinan repositori ini di akun anda.
 
 ## Klon Repositori
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
+Sekarang klon repositori ini ke komputer anda. Tekan tombol _clone_ lalu tekan ikon "copy to clipboard".
 
 Buka terminal dan eksekusi perintah git berikut:
 
@@ -94,7 +93,7 @@ Contoh:
 git clone https://github.com/username-anda/first-contributions.git
 ```
 
-`username-anda` adalah *username* Github Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer anda.
+`username-anda` adalah _username_ Github Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer anda.
 
 ## Membuat Cabang (Branch)
 
@@ -150,7 +149,7 @@ Jika Anda membuka repositori Anda di GitHub, maka akan ada tombol `Compare & pul
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Kirimkan *Pull Request* (PR)
+Kirimkan _Pull Request_ (PR)
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
@@ -158,7 +157,7 @@ Segera Saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama 
 
 ## Ke Mana Lagi Setelah dari Sini?
 
-Selamat! Anda baru saja menyelesaikan *fork* -> klon -> ubah -> alur kerja *Pull Request* yang akan sering Anda temui sebagai kontributor!
+Selamat! Anda baru saja menyelesaikan _fork_ -> klon -> ubah -> alur kerja _Pull Request_ yang akan sering Anda temui sebagai kontributor!
 
 Mari rayakan kontribusi Anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
@@ -171,8 +170,8 @@ Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan dafta
 ## Tutorial Menggunakan Alat Lain
 
 | <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a> | <a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gitkraken-tutorial.md)                                                              | [Visual Studio Code](../github-windows-vs-code-tutorial.md)                                                                                                                  |
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+| <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a> | <a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> |
+| ---                                                                                                                                         | ---                                                                                                                                                                                 | ---                                                                                                | ---                                                                                                                                                                          |
+| [GitHub Desktop](../github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gitkraken-tutorial.md)                                                              | [Visual Studio Code](../github-windows-vs-code-tutorial.md)                                                                                                                  |
