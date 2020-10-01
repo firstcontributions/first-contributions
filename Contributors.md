@@ -137,6 +137,7 @@
 - [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
 - Praveen Raj
+- Simon Hanrath
 - Hemanth Reddy
 -[Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
