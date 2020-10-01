@@ -1,5 +1,6 @@
 # Contributors
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
+Ibrahim Bakare (https://github.com/ibakare10/first-contributions/edit/add-ibrahim-name/Contributors.md)
 - [Divya Gupta](https://github/DivyaGupta4)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
 - [Xin Li] (https://github.com/3xinli)
