@@ -497,6 +497,7 @@ Sumit Sagar
 - [Oguz](https://github.com/oguztecirlioglu)
 - [juliadiaz](https://github.com/juliadiaz)
 - [NicholasVormack](https://github.com/NicholasJVormack)
+- [Shrinidhi Mahesh](https://github.com/shrinidhimahesh2001)
 - [Vatsal Gupta (vatsuvaksi)](https://github.com/vatsuvaksi)
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
 - [Marc Episcope](https://github.com/marc633)
