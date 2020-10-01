@@ -1,4 +1,5 @@
 # Contributors
+- [Cari Gan] (https://github.com/cariygan)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
