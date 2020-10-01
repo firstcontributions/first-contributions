@@ -1,4 +1,5 @@
 # Contributors
+- [Amy Huyen](https://github.com/amyhuyen98)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
