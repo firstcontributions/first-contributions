@@ -243,6 +243,7 @@
 - [Alison](https://github.com/alisonzhu)
 - [Saumya Bhatt](https://github.com/Saumya-Bhatt)
 - [Tiago Oliveira](https://github.com/tiagoods)
+- [Virginie 🇫🇷](https://github.com/vifeng)
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Ajit Kumar Chaurasiya](https://github.com/Ajit-53)
 - [Sakshi Kumar](https://github.com/sakshi006)
