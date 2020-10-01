@@ -1,5 +1,6 @@
 # Contributors
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
@@ -46,6 +47,7 @@
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Subhashree Mishra](https://github.com/Mishrasubha)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
@@ -1839,6 +1841,7 @@ Sumit Sagar
 - [TamaraNC](https://github.com/TamaraNC)
 - Billy
 - [Carlos Hernandez](https://github.com/caedhesa)
+-[Sarvesh Arora](https://github.com/sarvesharora)
 - Rio Hayakawa
 - Michał Krakiewicz
 - [Pedro Goncalves](https://github.com/psgg1981/)
@@ -5339,4 +5342,5 @@ Keshav goel
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
 Hirva  Shah
 - [Paul Clement](https://github.com/nut556)
+- [Pooja Arya](https://github.com/poojavarya)
 - [CT]
