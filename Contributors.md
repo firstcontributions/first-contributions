@@ -344,6 +344,7 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
+- [Hardik Sharma]
 - [Sanad Omar]
 - [chqh](https://github.com/npnv)
 - [こんにちは]
