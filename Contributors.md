@@ -12,6 +12,7 @@
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
 - Tanmay Arora
+- Nishtha Ro
 - M007RA
 - Arpit Batra
 - KhushiO BATRA
