@@ -63,6 +63,7 @@
   [Jeison Ferrer](https://github.com/joferrer)
 - [Bo Bleyl](https://github.com/Bobleyl)
 - [Will Guo]
+- [Aarohi Garg](https://github.com/AarohiGarg)
 - [Nilesh Pattanayak] (https://github.com/pattanayaknilesh)
 - [Manjunatha Sai Uppu](https://github.com/manjunani)
 - [Sattwik_Palai](https://github.com/sattwik21)
