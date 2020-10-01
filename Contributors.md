@@ -7,6 +7,7 @@
 - [Souranil Das](https://github.com/sournail)
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
+- [Sudha Tanay](https://github.com/sudhatanay)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
@@ -165,7 +166,6 @@
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
-- [Tanay] (https://github.com/sudhatanay)
 - [Tarun Sharma] (tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Arun Prabhakar T](https://github.com/arun-prabhakar)
