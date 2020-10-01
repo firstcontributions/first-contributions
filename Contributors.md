@@ -67,6 +67,7 @@
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang] 
+- [Sarah Yap](https://github.com/skyuanow) 
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
