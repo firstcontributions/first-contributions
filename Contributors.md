@@ -18,6 +18,7 @@
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
 - [Arunav Sharma](https://github.com/arunav11)
+- [Surya Man Shrestha](https://github.com/surya1243)
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
