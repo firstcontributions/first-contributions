@@ -2745,6 +2745,7 @@ Keshav goel
 - [Mark Mansolino](https://github.com/markjm610)
 - [Chris Pinkney](https://github.com/chrispinkney)
 - [Tomas Rejhons](https://github.com/tomasrejhons)
+- [poormate](https://github.com/poormate)
 - [AnhHoang](https://github.com/Splroak)
 - [Shubham Atlani](https://github.com/shubhamatlani)
 - [Nikhil Arya](https://github.com/nikhilaryann)
