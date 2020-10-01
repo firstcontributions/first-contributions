@@ -40,6 +40,7 @@
 - [Ujjwal](https://github.com/Ujjwal3009)
 -[Arpit](https://github.com/arkreactor-1729)
   [Abhishek jha](https://github.com/abhi-469)
+- [Laukik Verma](https://github.com/Laukik-11)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
