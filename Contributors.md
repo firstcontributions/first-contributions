@@ -2,6 +2,7 @@
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Rendy Andika](https://github.com/rendyandika28)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
