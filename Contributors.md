@@ -2,6 +2,7 @@
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
+- [Akshay Chopade](https://github.com/akshay399)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
