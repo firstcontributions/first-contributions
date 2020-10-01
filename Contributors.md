@@ -5322,6 +5322,7 @@ Keshav goel
 - [Agung Leksono](https://github.com/agungleksono)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
 - [Armin Zardkoohi](https://github.com/github-armin)
+- [Patrick Nickle](https://github.com/PatNick)
 - [Akshat Bhatnagar](https://github.com/akshat12000)
 - [Sripaad Srinivasan](https://github.com/Sripaad)
 - [Chandan Kumar](https://github.com/cksharma122)
