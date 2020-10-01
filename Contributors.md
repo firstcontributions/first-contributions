@@ -530,6 +530,7 @@ Sumit Sagar
 - [Chris Zirkel](https://github.com/chriszirkel)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Garang Thiong](https://github.com/gthiong)
+- [devfoFikiCar] (https://github.com/devfofikicar)
 - [Surya Vamsi](https://github.com/suryavamsi6)
 - [Ikeh Akinyemi](https://github.com/IkehAkinyemi)
 - [Sonu kumar kushwaha](https://github.com/flyingsonu122)
