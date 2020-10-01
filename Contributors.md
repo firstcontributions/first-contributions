@@ -1,6 +1,8 @@
 # Contributors
+- [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Lubna Attar] (https://github.com/lubnaattar)
+- [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
@@ -1561,6 +1563,7 @@ Sumit Sagar
 - [Taha Dharamsi](https://github.com/tahanzania)
 - [Daniel Buompane](https://github.com/dankb82)
 - [Javier Feliu](https://github.com/wanderindev)
+- [Luís Ferreira](https://github.com/Symbolism00)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
@@ -1841,6 +1844,7 @@ Sumit Sagar
 - [TamaraNC](https://github.com/TamaraNC)
 - Billy
 - [Carlos Hernandez](https://github.com/caedhesa)
+-[Sarvesh Arora](https://github.com/sarvesharora)
 - Rio Hayakawa
 - Michał Krakiewicz
 - [Pedro Goncalves](https://github.com/psgg1981/)
@@ -5341,3 +5345,4 @@ Keshav goel
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
 Hirva  Shah
 - [Paul Clement](https://github.com/nut556)
+- [Pooja Arya](https://github.com/poojavarya)
