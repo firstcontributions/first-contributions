@@ -18,6 +18,7 @@
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
+- [Manthan Mitesh Tolia] (https://github.com/manny525)
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
