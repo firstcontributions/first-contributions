@@ -3242,6 +3242,7 @@ Keshav goel
 - [Matt SQ](https://github.com/greyghost13)
 - [Thomas Amlee](https://github.com/thomasamlee)
 - Chidiogo Umezinne
+- [Martyna Krawczyk](https://github.com/Martyna-krawczyk)
 - [John McGonagle](https://github.com/jgonagle)
 - [Manas Joshi](https://github.com/manasjoshi14)
 - [Steven Zilberberg](https://github.com/srz2)
