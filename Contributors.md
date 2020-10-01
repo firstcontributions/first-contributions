@@ -28,6 +28,7 @@
 - M007RA
 Ayush Goyal
 - Arpit Batra
+- Satyam Dua
 mOrTaL💀
 - KhushiO BATRA
 - Harshal Dehra
