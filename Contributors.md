@@ -1,5 +1,6 @@
 # Contributors
 - [Nayan Jain](https://github.com/NayanJain09)
+- {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
