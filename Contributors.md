@@ -1,4 +1,5 @@
 # Contributors
+- [Winny Hu] (https://github.com/huhuining)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
