@@ -59,6 +59,7 @@ mOrTaL💀
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
 - Mikaela Wade
 - Dallin Craven
+- [Jacob Hurley](https://github.com/Jacob-Hurley)
 - [Breno Baptista](https://github.com/brenobaptista)
 - [Souranil Das](https://github.com/sournail)
 - [Sinni Sahu](https://github.com/Xurde-Sni)
