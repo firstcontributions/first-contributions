@@ -35,7 +35,7 @@ git clone "યુઆરએલ જે તમે હમણાં જ નકલ(ક
 
 જ્યાં "યુઆરએલ જે તમે હમણાં જ કૉપિ કર્યું છે" (સિવાય અવતરણ ચિહ્નો) આ સંગ્રહ માટે URL છે. (આ પ્રોજેક્ટનો તમારો ફૉર્ક) URL ને મેળવવા માટે પાછલા પગલાં જુઓ.
 
-ઉદાહરણ તરીકે:
+ઉદાહરણ માટે:
 
 ```
 git clone https://github.com/આ-તમે-છો/first-contributions.git
@@ -62,7 +62,7 @@ cd first-contributions
 git checkout -b <તમારી-શાખા-નામ-ઉમેરો>
 ```
 
-ઉદાહરણ તરીકે:
+ઉદાહરણ માટે:
 
 ```
 git checkout -b add-alonzo-church
@@ -125,12 +125,12 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 અભિનંદન!:tada: તમે હમણાં જ પૂર્ણ કર્યું છે _ફૉર્ક -> ક્લોન -> edit -> PR_ વર્કફ્લો જેનો તમે વારંવાર સહયોગકર્તા (contributor) તરીકે સામનો કરશો!
 
 
-તમારા પ્રથમ યોગદાનની ઉજવણીમાં ઉજવણી કરો અને તમારા મિત્રો સાથે શેર કરો [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને
+તમારા પ્રથમ યોગદાનની ઉજવણીમાં ઉજવણી કરો અને તમારા મિત્રો સાથે શેયર કરો [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને
 
 
 તમે અમારી સ્લેક ટીમને જોડો છો જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો [સ્લેક પે join કરો(https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
-હવે તમે અને પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવાનું શરૂ કરો. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ મુદ્દાઓ છે [પ્રોજેક્ટ્સ ની સૂચિ](https://roshanjossey.github.io/first-contributions/#project-list)
+હવે તમે અને પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવાનું શુરુ કરો. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ મુદ્દાઓ છે [પ્રોજેક્ટ્સ ની સૂચિ](https://roshanjossey.github.io/first-contributions/#project-list)
 
 ## અન્ય સાધનોનો ઉપયોગ કરીને ટ્યુટોરીયલ
 
