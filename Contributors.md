@@ -16,6 +16,7 @@
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
+- [Jai Solanki] (https://github.com/jaiksolanki)
 - Lorin Achey
 - Tanmay Arora
 - M007RA
