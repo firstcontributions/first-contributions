@@ -100,6 +100,7 @@
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
+- Infamous Bolt
 - [0ver3inker](https://github.com/OverthinkersArea)
 - [Tanweer Ali](https://github.com/tanweeralii)
 - [Codrean Svetlana] (https://github.com/svetlanacodrean)
@@ -5171,3 +5172,4 @@ Keshav goel
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
 - [Armin Zardkoohi](https://github.com/github-armin)
 - [Navpreet Kaur](https://github.com/gill-navpreet)
+- [Akshat Bhatnagar](https://github.com/akshat12000)
