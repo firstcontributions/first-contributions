@@ -40,6 +40,7 @@
 - [Ankit yadav](https://github.com/imakki)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Mr Sid](https://github.com/mrsidverse)
+- [Pinak Datta](https://github.com/Pinak-coder)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
