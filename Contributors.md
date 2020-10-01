@@ -1,11 +1,14 @@
 # Contributors
 - [Cassidy Skorczewski](https://github.com/cskor)
+- [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- Lorin Achey
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
 - [Meekha E Saji](https://github.com/meekhasaji)
+- [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
@@ -47,6 +50,7 @@
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
+- [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
@@ -3544,6 +3548,7 @@ Keshav goel
 - [Jaime Garcia, Jr.](https://github.com/JJgar2725)
 - [Rahul Anand](https://github.com/RahulGo8u)
 - [Julio Alvarado](https://github.com/JulioJoulesAlvarado)
+- [Larissa Nguyen] (https://github.com/larissanguyen)
 - [Parkash Pant](https://github.com/parkashpant)
 - [Stephen Paslaski](https://github.com/paslasks)
 - [Sophie Xiao](https://github.com/iosophie)
@@ -4150,6 +4155,7 @@ Keshav goel
 - [Chris Lewis](https://github.com/Ryu1284)
 - Shrey Dua
 - [Martin Watkins](https://github.com/martinw13)
+-Adeyemi Misturah
 - [Jesse Rurka](https://github.com/RurkaJ)
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
@@ -5355,3 +5361,4 @@ Hirva  Shah
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Sanjana Sekar](https://github.com/sanjanasekar)
