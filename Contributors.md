@@ -17,6 +17,7 @@
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
   [Maulik Varshney](https://github.com/MaulikVarshney)
+  [Nick Paisley](https://github.com/nickpaisley)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
