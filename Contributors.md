@@ -17,6 +17,7 @@
 - [Ishika Guleria](https://github.com/ishikaguleria)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
+- [Meera Mehta (https://github.com/meeramehta)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
