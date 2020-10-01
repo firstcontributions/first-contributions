@@ -1,4 +1,5 @@
 # Contributors
+- [Shruthi K] (https://github.com/shkundap)
 - [Divya Varshini](https://github.com/divyavarshini)
 - [Leo Humphreys](https://github.com/Hubbit200)
 - [Franchesca Leung](https://github.com/franchescaleung)
