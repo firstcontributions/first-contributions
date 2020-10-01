@@ -13,6 +13,7 @@
 - [Shreya Garg] (https://github.com/einhawking)
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Vikas Hegde] (https://github.com/vkashegde)
+  [Oscar Quinones] (https://github.com/oq1991/)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Aditya Baravkar] (https://github.com/Aditya182)
