@@ -86,6 +86,7 @@
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - Omar Navarro
 - Praveen Raj
+- Alexis Cumpstone
 - Yahaya Kehinde
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
