@@ -2400,6 +2400,7 @@ Keshav goel
 - [Swarag-N👩🚀](https://github.com/Swarag-N)
 - Similoluwa Okunowo
 - [Hadi Tahmasbi](https://github.com/Hadit1993)
+- [Whit3rose](https://github.com/Whit3rose)
 - [nilayrajderkar](https://github.com/nilayrajderkar)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
