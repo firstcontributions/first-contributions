@@ -1,4 +1,5 @@
 # Contributors
+- [Arushi Agarwal](https://github.com/arushiagar)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
