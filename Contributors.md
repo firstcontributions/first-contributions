@@ -1,6 +1,7 @@
 # Contributors
 - [Nayan Jain](https://github.com/NayanJain09)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [**SOUMAK PODDAR**](https://github.com/soumakpoddar)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [Virdio Samuel](https://github.com/diosamuel)
