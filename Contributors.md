@@ -47,6 +47,7 @@
 - [Shreya Modi] (https://github.com/shreyamodi1999/)
 - [Nikunj Das Kasat] (https://github.com/nikunjdk)
 - [Abhay Mishra](https://github.com/mabhay3420)
+- [Ananya Agarwal](https://github.com/AnanyaAgarwal25)
 - [Sriram](https://github.com/BLNDLYBLV)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Aish](https://github.com/aishtron7)
