@@ -2614,6 +2614,7 @@ Keshav goel
 - [Nihar Patel](https://github.com/nihar21)
 - [Binu David](https://github.com/BinuDavid)
 - [Alec Barnard](https://github.com/alecbar)
+- [Arnold Kwok](https://github.com/akckwok)
 - [Mohammed Tausif Uddin Ansari](https://github.com/TausifAnsari)
 - [Sanskar Patro](https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
