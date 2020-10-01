@@ -1,4 +1,5 @@
 # Contributors
+- [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Celia
 - [Liziane Felix](https://github.com/lizianefelix)
 - [Shruthi K] (https://github.com/shkundap)
