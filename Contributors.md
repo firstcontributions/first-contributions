@@ -26,6 +26,7 @@
 - [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
+- [Ketan Patel] (https://github.com/kpatel2000)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Madhur Agrawal](https://github.com/madhur0809)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
