@@ -29,6 +29,7 @@ Ayush Goyal
 - [Divyanshu Bargali](https://github.com/div-bargali)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
 - [Lucas Moreno](https://github.com/morecoda)
+- [Mayank Jain](https://github.com/mayankjain985)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Parth Lawania](https://github.com/parthlaw)
