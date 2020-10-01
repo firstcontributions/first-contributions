@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
@@ -13,6 +14,7 @@
 - [Kishan Kumar](https://github.com/kishankrs)
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
 - [Souranil Das](https://github.com/sournail)
+- [Andrew Adhikari](https://github.com/t-rhex)
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Aman Chaudhary](https://github.com/agcy1210)
