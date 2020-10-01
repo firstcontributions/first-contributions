@@ -2040,6 +2040,7 @@ Keshav goel
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [munkinut](https://github.com/munkinut)
+- [Karen Ibarra](https://github.com/Klizz)
 - Salsabil
 - [Bruno Rito](https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
