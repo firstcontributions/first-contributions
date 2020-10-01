@@ -1738,6 +1738,7 @@ Sumit Sagar
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
 - [Manu Chauhan](https://github.com/MANU-CHAUHAN)
 - Anna
+- WC 2020 October
 - [Partha Talukdar] (https://github.com/parth93QA]
 - [JoshuA Aningene](https://github.com/JoshuaCode1)
 - Modaser Mojadiddi
