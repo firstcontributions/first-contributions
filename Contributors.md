@@ -13,6 +13,7 @@
 - Lorin Achey
 - Tanmay Arora
 - M007RA
+- Arpit Batra
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
