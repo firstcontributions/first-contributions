@@ -32,7 +32,7 @@
 - [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
+- [Serena Wang]
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -209,7 +209,7 @@
 - [Ahmed Elsisy](https://github.com/AhmedElsisy)
 - [Raj Valand](https://github.com/Raj142)
   [Shreya Shukla](https://github.com/shreyashukla-26)
-- [Muhammad Sapuan](https://github.com/msapuan)  
+- [Muhammad Sapuan](https://github.com/msapuan)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
 - [kirtirajsinh Parmar](https://github.com/kirtirajsinh)
@@ -5160,3 +5160,4 @@ Keshav goel
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
+- [David Ma] (https://github.com/taikon)
