@@ -1597,6 +1597,7 @@ Sumit Sagar
 - [Namraj Pudasaini](http://githubcom/Namrajp)
 - [Itamar Hoshmand](https://github.com/hoshmy)
 - [Richie C.](https://github.com/RTek-dev)
+- [Sarthak Joshi](https://github.com/nick2496)
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
