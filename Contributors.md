@@ -51,6 +51,7 @@ Ayush Goyal
 - [Kishan Kumar](https://github.com/kishankrs)
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
 - Mikaela Wade
+- [Breno Baptista](https://github.com/brenobaptista)
 - [Souranil Das](https://github.com/sournail)
 - [Sinni Sahu](https://github.com/Xurde-Sni)
 - [Anand kumar](http://github.com/anand522)
