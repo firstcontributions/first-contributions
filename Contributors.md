@@ -1696,6 +1696,7 @@ Sumit Sagar
 - [Nastasa Stefan](https://github.com/RedPipper)
 - [Aditya Singh](https://github.com/adityanjr)
 - [Nicky Choi](https://github.com/njch5)
+- [Sujeet patil](https://github.com/sujeet111)
 - [Jordan Sills](https://github.com/JordanDSills)
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
 - [Manu Chauhan](https://github.com/MANU-CHAUHAN)
