@@ -1019,6 +1019,7 @@ Sumit Sagar
 - [Aedyn Yeras](https://github.com/Aedyn01)
 - [Aaron Abreu 🦕](https://github.com/gh0sttttt)
 - [Gaurva Sharma](https://github.com/gaurav4sharma)
+- [Kalyani Kolhe](https://github.com/kalyani489)
 - [Sai Vikas Desai](https://github.com/svdesai)
 - [Fabio Gausmann Koerich](https://github.com/fkoerich)
 - [Nghia Guillou](https://github.com/guilloutran)
