@@ -32,6 +32,7 @@
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
 - [Arunav Sharma](https://github.com/arunav11)
+- [Gisele Bernardes da Silva](https://github.com/gisabernardess)
 - [Jatin Gupta](https://github.com/jg7)
 - [Surya Man Shrestha](https://github.com/surya1243)
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
