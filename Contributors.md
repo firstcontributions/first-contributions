@@ -45,6 +45,7 @@
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [anky301] (`https://github.com/anky301)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
+- [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
 - [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
