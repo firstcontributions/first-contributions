@@ -1,6 +1,7 @@
 # Contributors
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- [Mia Manalastas](https://github.com/mia-m/)
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
