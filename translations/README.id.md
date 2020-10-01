@@ -36,7 +36,7 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 [🇹🇼](translations/README.cht.md)
 [🇬🇷](translations/README.gr.md)
 [🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
+[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](translations/README.ar.md)
 [🇺🇦](translations/README.ua.md)
 [🇧🇷](translations/README.pt_br.md)
 [🇵🇹](translations/README.pt-pt.md)
