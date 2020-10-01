@@ -3126,6 +3126,7 @@ Keshav goel
 - [Brandon E](https://github.com/ChoppinLumber)
 - [Abiud Cantu](https://github.com/Abiud)
 - [CodeSadhu](https://github.com/CodeSadhu)
+- [Akinbode Weezykon](https://github.com/weezykon)
 - [John Prideaux](https://github.com/jpridx)
 - [Rutvik Padhiyar](https://github.com/rutvikpadhiyar04)
 - [Javad Yadegari](https://github.com/jyadegari)
