@@ -4985,6 +4985,7 @@ Keshav goel
 - [Aditya Kumar Seth](https://github.com/adityatwothree)
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
+- [Krishnaraj E](https://github.com/krishnaraj-e)
 - [NiumXp](https://github.com/NiumXp)
 - [William Guo](https://github.com/wguo1)
 - [Jantlee](https://github.com/jantlee)
