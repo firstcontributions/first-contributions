@@ -1,10 +1,11 @@
 ﻿# Contributors
-
+- [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
+  [Archana Singh](https://github.com/archana-1209)
 - [Vedant Chourasia](https://github.com/vc8006)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -989,6 +990,7 @@
 - [Uka Emmanuel](https://github.com/Mista-Rite)
 - [Kayla Tremble]
 - [Synchroynme](https://github.com/Synchronyme)
+- [Ashwinkumar Pillai](https://github.com/AshwinkumarPillai)
 - [Sachi Tank](https://github.com/sachitank)
 - [Victor Ligas](https://github.com/vligas)
 - [Aditya Anand](https://github.com/ikshavaku)
@@ -5295,6 +5297,7 @@
 - [Angelina Tang](https://github.com/AngelinaNTang)
 - [Muhammad Rikzan](https://github.com/rikzanx)
 - [Branislav Puzder](https://github.com/branopuzder)
+- [Andrew Xue](https://github.com/andrewxueax)
 - [Alexandr Stetsyuk]
 - [Abhishek Chandra](https://github.com/abhishekchandra2522k)
 - [Jonathan Martinez.](https://github.com/Jommartinez)
@@ -5310,3 +5313,4 @@
 - [Lord Kerwin](https://github.com/lordkerwin)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Emily Kodl](https://github.com/ekodl)
+- [Tiago Dias](https://github.com/FeltesPT)
