@@ -2008,6 +2008,7 @@ Sumit Sagar
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
 - [Faris Hasković](https://github.com/Faski1)
 - [Steph Damaica](https://github.com/stephDamaica)
+- [Shaunak Inamdar](https://github.com/ShaunakInamdar)
 - [yvnr](https://github.com/yvnr)
 - Rahul Rajan
 - Shachindra Pandit
