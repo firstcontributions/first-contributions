@@ -18,6 +18,7 @@
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
+- [Ruju Jambusaria](https://github.com/rujuj)
 - Lorin Achey
 - Tanmay Arora
 - Tim Peng (https://github.com/typg93)
