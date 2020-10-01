@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
@@ -15,6 +16,8 @@
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
+- [Saul Miquilena](https://github.com/SaulMiquilena)
+- [Genesis KG](https://github.com/GenesisKG)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
@@ -78,6 +81,7 @@
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
+- [Aggarwal]
 - [Anish SOfat](https://github.com/anishsofat)
 - [Asad Moosvi](https://github.com/asadmoosvi)
 - [Jatin Solanki](https://github.com/Jatin17Solanki)
@@ -5206,6 +5210,7 @@ Keshav goel
 - [Black Initial](https://github.com/blackinitial)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
 - chaitrali
+- [Mariyam](https://github.com/AzfaMariyam)
 - [schmelto](https://github.com/schmelto)
 - [vidura](https://github.com/vidurathegeek)
 - [John Burke Gallagher](https://github.com/burke54)
@@ -5306,8 +5311,11 @@ Keshav goel
 - [Aviral Agarwal](https://github.com/Avr8)
 - [fatik07](https://github.com/fatik07)
 - [Mahendra Reddy](https://github.com/reddymahendra52)
+- [Pavel Vašíček](https://github.com/pavev)
 - [Kostas Tanios]
 - [Mohan Sharma](https://github.com/mohan3679)
 - [Raj Joshi] (https://github.com/rocketrunner22)
 - [Hugo Lima](https://github.com/hugolima03)
 - [Geeta Kamte](https://github.com/gkamte/)
+- [Lord Kerwin](https://github.com/lordkerwin)
+- [Anthony Morris](https://github.com/TonyDMorris)
