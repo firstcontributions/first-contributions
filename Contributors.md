@@ -1,5 +1,6 @@
 # Contributors
 - [Sruthi Cherukuri] (https://github.com/sruthi-cherukuri)
+- [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
@@ -7,6 +8,7 @@
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
 - [Meekha E Saji](https://github.com/meekhasaji)
+- [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
@@ -3545,6 +3547,7 @@ Keshav goel
 - [Jaime Garcia, Jr.](https://github.com/JJgar2725)
 - [Rahul Anand](https://github.com/RahulGo8u)
 - [Julio Alvarado](https://github.com/JulioJoulesAlvarado)
+- [Larissa Nguyen] (https://github.com/larissanguyen)
 - [Parkash Pant](https://github.com/parkashpant)
 - [Stephen Paslaski](https://github.com/paslasks)
 - [Sophie Xiao](https://github.com/iosophie)
@@ -5357,3 +5360,4 @@ Hirva  Shah
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Sanjana Sekar](https://github.com/sanjanasekar)
