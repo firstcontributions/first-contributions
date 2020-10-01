@@ -4,6 +4,7 @@
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
+  [Archana Singh](https://github.com/archana-1209)
 - [Vedant Chourasia](https://github.com/vc8006)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
