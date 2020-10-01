@@ -20,6 +20,7 @@
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
+- [Mahee Jaiswal](https://github.com/Maheejaiswal)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
 - [Richa](https://github.com/richa1200)
