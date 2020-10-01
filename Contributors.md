@@ -1,7 +1,10 @@
 # Contributors
 - [Shivam Aranya](https://github.com/shivamdn9)
 - [Nayan Jain](https://github.com/NayanJai
+- [Nayan Jain](https://github.com/NayanJain09)
+- {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Chris Hoang](https://github.com/bucket420)
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
@@ -16,8 +19,10 @@
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
+- [Richa](https://github.com/richa1200)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
+- [Sabyasachi Das](https://github.com/sabya2301)
 - [Parth Srivastava](https://github.com/savss624)
 - [Sushant Krishnan](https://github.com/sushantkrishnan/)
 - [Soham Sakaria](https://github.com/sushantkrishnan/)
@@ -528,6 +533,7 @@ Sumit Sagar
 - [Chris Zirkel](https://github.com/chriszirkel)
 - [Upamanyu Kaja](https://github.com/upik-98)
 - [Garang Thiong](https://github.com/gthiong)
+- [devfoFikiCar] (https://github.com/devfofikicar)
 - [Surya Vamsi](https://github.com/suryavamsi6)
 - [Ikeh Akinyemi](https://github.com/IkehAkinyemi)
 - [Sonu kumar kushwaha](https://github.com/flyingsonu122)
@@ -2576,6 +2582,7 @@ Keshav goel
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [Mileba Micheal](https://github.com/Mileba)
+- [Subhodeep Kundu](https://github.com/Subhodeep2000)
 - [rimow](https://github.com/rimow)
 - [Matthew Sabia](https://github.com/MatthewSabia)
 - [Ekemini Okpongkpong](https://github.com/KemmieKemy)
