@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
@@ -16,6 +16,7 @@
 - [Souranil Das](https://github.com/sournail)
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
+- [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
@@ -77,6 +78,7 @@
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
 - [Visaj Nirav Shah](https://github.com/visajshah)
+-Pramita
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Brajeswar Lenka](https://github.com/brajeswar009)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
@@ -2008,6 +2010,7 @@ Sumit Sagar
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
 - [Faris Hasković](https://github.com/Faski1)
 - [Steph Damaica](https://github.com/stephDamaica)
+- [Shaunak Inamdar](https://github.com/ShaunakInamdar)
 - [yvnr](https://github.com/yvnr)
 - Rahul Rajan
 - Shachindra Pandit
@@ -5334,4 +5337,7 @@ Keshav goel
 - [Ritul Jain](https://github.com/Lutir)
 - [Sagar Utekar](https://github.com/Sagar2366)
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
+avantil
 - [Avanti L](https://github.com/RainbowCoderTP)
+Hirva  Shah
+- [Paul Clement](https://github.com/nut556)
