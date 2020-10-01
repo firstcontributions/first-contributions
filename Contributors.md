@@ -129,6 +129,7 @@ mOrTaL💀
 - [Shivam Aranya](https://github.com/shivamdn9)
 - [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
 - [Anurag Singh](https://github.com/singhanurag05)
+- [Rathin R](https://github.com/meliodas-123)
 - [Richa](https://github.com/richa1200)
 - [Kanishka Vijayvargiya](https://github.com/kanishka8276)
 - [Vishakha Kumaresan](https://github.com/Vishakha1909)
