@@ -7,6 +7,7 @@
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
+- [Pulsejit](https://github.com/pulsejit)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
 - [Parth Srivastava](https://github.com/savss624)
