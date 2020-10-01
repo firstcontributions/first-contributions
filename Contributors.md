@@ -21,6 +21,7 @@
 - M007RA
 Ayush Goyal
 - Arpit Batra
+mOrTaL💀
 - KhushiO BATRA
 - Harshal Dehra
 - Tejas Dehra
