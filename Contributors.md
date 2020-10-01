@@ -19,6 +19,7 @@
 - [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
 - [Kishan Kumar](https://github.com/kishankrs)
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
+- Mikaela Wade
 - [Souranil Das](https://github.com/sournail)
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
