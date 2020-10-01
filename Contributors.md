@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
@@ -20,6 +20,7 @@
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
+- [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
 - [Richa](https://github.com/richa1200)
