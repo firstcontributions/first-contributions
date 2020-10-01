@@ -14,6 +14,7 @@
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
+- [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
