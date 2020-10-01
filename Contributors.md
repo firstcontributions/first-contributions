@@ -46,6 +46,7 @@
 - [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
 - [Anurag Singh](https://github.com/singhanurag05)
 - [Richa](https://github.com/richa1200)
+- [Kanishka Vijayvargiya](https://github.com/kanishka8276)
 - [Vishakha Kumaresan](https://github.com/Vishakha1909)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
