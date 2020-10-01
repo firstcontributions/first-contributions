@@ -1,4 +1,5 @@
 # Contributors
+- [Xin Zhao] (https://github.com/zhaox1999))
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
