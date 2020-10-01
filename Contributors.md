@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
@@ -16,6 +17,7 @@
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
+- [Genesis KG](https://github.com/GenesisKG)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
@@ -5308,8 +5310,10 @@ Keshav goel
 - [Aviral Agarwal](https://github.com/Avr8)
 - [fatik07](https://github.com/fatik07)
 - [Mahendra Reddy](https://github.com/reddymahendra52)
+- [Pavel Vašíček](https://github.com/pavev)
 - [Kostas Tanios]
 - [Mohan Sharma](https://github.com/mohan3679)
 - [Raj Joshi] (https://github.com/rocketrunner22)
-- [Emily Hamberg] (https://github.com/emilyhamberg)
 - [Hugo Lima](https://github.com/hugolima03)
+- [Lord Kerwin](https://github.com/lordkerwin)
+- [Emily Hamberg] (https://github.com/emilyhamberg)
