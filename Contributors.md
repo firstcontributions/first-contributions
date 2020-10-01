@@ -5134,6 +5134,7 @@ Keshav goel
 - [AStar Chen](https://github.com/sda06407)
 - [Eeshan Dutta](https://github.com/EeshanDutta007)
 - [Sanket Bhatt] (https://github.com/sanket-bhatt)
+- [Sumit Raj] (https://github.com/sumit-raj-au5)
 - [Théo Migeat](https://github.com/STM3900)
 - [Nicolas Cheng](https://github.com/nicolakacha)
 - [Chetan Bansal](https://github.com/Chetan8462)
