@@ -1,4 +1,5 @@
 # Contributors
+- [Sruthi Cherukuri] (https://github.com/sruthi-cherukuri)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
