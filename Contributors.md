@@ -271,6 +271,7 @@
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
+- [Kirsten Bolda](https://https://github.com/KirstenBolda)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Josh Lavallee](https://github.com/jlavallee76)
 - [Zubier Abdullah](https://github.com/ZubierAbd)
