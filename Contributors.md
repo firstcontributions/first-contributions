@@ -25,6 +25,7 @@
 - [James Dobbe](https://github.com/dobbe2)
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
+- [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
 - [Richa](https://github.com/richa1200)
 - [Vishakha Kumaresan](https://github.com/Vishakha1909)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
