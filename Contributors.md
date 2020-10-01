@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -410,6 +410,7 @@
 - [Hopper Kremer](https://github.com/HopperKremer)
 - [pooja kanojia]
 - [Rishav Saha](https://github.com/Rishav0907)
+- [Supreeth Rao](https://github.com/SupreethRao99)
 - [Omar Khan](https://github.com/lowsound42)
 - [Anusha Prabhu](https://github.com/anusharp97)
 - [Sachin Kumar](https://github.com/toocoolsachin)
