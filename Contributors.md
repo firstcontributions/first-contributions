@@ -3665,6 +3665,7 @@ Keshav goel
 - [Kasanderh](https://github.com/kasanderh)
 - [Yuvansh Agrawal](https://github.com/yuvag)
 - [lahla81](https://github.com/lahla81)
+- [Sooraj S Nair](https://github.com/sooraj-nair)
 - [Dhananjay](https://github.com/dhanoz)
 - [bekahh](https://github.com/bekahh)
 - [Jeffrey Hui](https://github.com/jeffrey-hui)
