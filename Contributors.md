@@ -2552,6 +2552,7 @@ Keshav goel
 - [Josh Smith](https://github.com/smithjosh024)
 - [Rahul Tumpala](https://github.com/raul-1911)
 - [Aditya Maheshwari](https://github.com/maverick12345678)
+- [Vishal Shete](https://github.com/vishalshete101)
 - [Prabhat Kumar](https://github.com/pkkrsingh877)
 - [Roland Betz] (https://github.com/rolandbetz)
 - [Babatunde Koiki](https://github.com/Babatunde13)
