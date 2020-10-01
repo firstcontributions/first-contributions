@@ -244,6 +244,7 @@
 - [Nikhil Pandey](https://github.com/nikhilrpandey)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
+- [Farhan Irani  🚀 😃](https://github.com/farhanirani)
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
 - [Saptarshi Basu](https://github.com/saptarshibasu15)
