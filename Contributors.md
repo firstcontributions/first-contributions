@@ -3,6 +3,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
 - [Arun Prabhakar] (https://github/arun-prabhakar)
+- [Pranay Kothari] (https://github.com/Heisenberg-737)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Shreya Garg] (https://github.com/einhawking)
