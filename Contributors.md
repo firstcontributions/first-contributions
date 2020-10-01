@@ -62,6 +62,7 @@
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 - [Rohan Poojary](https://github.com/RohanPoojary1107)
 - [Priya Agarwal](https://github.com/Priya2501)
+- [Danny Reina](https://github.com/dannyflatiron)
 - [Ankita Singhal](https://github.com/sankita11)
 - [Elizabeth Wiggins]
 - [Tommy Deliso](https://github.com/tdeliso)
