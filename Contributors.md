@@ -2560,6 +2560,7 @@ Keshav goel
 - [Josh Smith](https://github.com/smithjosh024)
 - [Rahul Tumpala](https://github.com/raul-1911)
 - [Aditya Maheshwari](https://github.com/maverick12345678)
+- [Vishal Shete](https://github.com/vishalshete101)
 - [Prabhat Kumar](https://github.com/pkkrsingh877)
 - [Roland Betz] (https://github.com/rolandbetz)
 - [Babatunde Koiki](https://github.com/Babatunde13)
@@ -5082,6 +5083,7 @@ Keshav goel
 - [Rolv Apneseth](https://github.com/Rolv-Apneseth)
 - [Oriol Canades](https://github.com/ocanades)
 - [Captone Habiyaremye] (https://github.com/Liopun)
+- [Belch](https://github.com/gutchaman)
 - [Jared Grimes](https://github.com/devjared1)
 - [David Manitarellis](https://github.com/Davidmh93)
 - [Andrew Dinh](https://github.com/quyctd)
@@ -5244,3 +5246,4 @@ Keshav goel
 - [Angelina Tang](https://github.com/AngelinaNTang)
 - [Muhammad Rikzan](https://github.com/rikzanx)
 - [Branislav Puzder](https://github.com/branopuzder)
+- [Alexandr Stetsyuk]
