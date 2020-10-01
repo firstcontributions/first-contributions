@@ -2217,6 +2217,7 @@ Keshav goel
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - Yavis Yuan
 - Andrew Barton
+- Mia Gayle
 - Orhan Karaman
 - Sylveste
 - Shweta
