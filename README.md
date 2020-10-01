@@ -150,6 +150,16 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 
 replacing `<your-name>` with your name.
+## Add remote Repo
+
+Below is used to add new remote Origin `git remote`:
+
+```
+git remote add origin git@github.com:User/UserRepo.git
+```
+
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
 
 ## Push changes to GitHub
 
