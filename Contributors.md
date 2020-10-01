@@ -1,4 +1,5 @@
 # Contributors
+- [Jhada Kahan-Thomas] (https://github.com/jhadakt)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
