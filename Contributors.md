@@ -122,6 +122,7 @@
 - [Arun Prabhakar](https://github/arun-prabhakar)
 - [Manthan Mitesh Tolia] (https://github.com/manny525)
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
+- [Divyansha Sharma](https://github.com/divyanshasharma)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
