@@ -1,4 +1,5 @@
 # Contributors
+- [Amy Nelson] (https://github.com/arrmkr)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
