@@ -15,6 +15,7 @@
 - Lorin Achey
 - Tanmay Arora
 - M007RA
+Ayush Goyal
 - Arpit Batra
 - KhushiO BATRA
 - Harshal Dehra
