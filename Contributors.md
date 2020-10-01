@@ -1,4 +1,5 @@
 # Contributors
+- Celia
 - [Liziane Felix](https://github.com/lizianefelix)
 - [Shruthi K] (https://github.com/shkundap)
 - [Divya Varshini](https://github.com/divyavarshini)
