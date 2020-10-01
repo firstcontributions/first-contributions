@@ -7,6 +7,7 @@
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
 - [Meekha E Saji](https://github.com/meekhasaji)
+- [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
