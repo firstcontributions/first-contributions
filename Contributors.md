@@ -36,6 +36,7 @@
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
 - [Visaj Nirav Shah](https://github.com/visajshah)
+- [Ajaydeep singh rajpoot] (https://github.com/Ajaydeep123)
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
