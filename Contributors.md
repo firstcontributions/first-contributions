@@ -1,5 +1,5 @@
 # Contributors
-- [Natalie Redberg] (https://github.com/nredberg)
+- [Natalie Redberg](https://github.com/nredberg)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
