@@ -15,10 +15,10 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 
 [🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
+<kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](translations/README.id.md)</kbd>
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
+<kbd>[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)</kbd>
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
