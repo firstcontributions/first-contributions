@@ -150,6 +150,7 @@
 - [Tanay Kamath] (https://github.com/2tanayk)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
+- [Kalpesh Tated](https://github.com/kalpeshT101)
 - [Or Zohar](https://github.com/orZohar)
 - [Harshit Kumar Ojha](https://github.com/HarshitKumarOjha)
 - [Ankit yadav](https://github.com/imakki)
