@@ -19,6 +19,7 @@
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
+- [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
