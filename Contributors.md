@@ -430,6 +430,7 @@
 - [Rishav Saha](https://github.com/Rishav0907)
 - [Supreeth Rao](https://github.com/SupreethRao99)
 - [Omar Khan](https://github.com/lowsound42)
+- [RapiDash1](https://github.com/RapiDash1)
 - [Anusha Prabhu](https://github.com/anusharp97)
 - [Sachin Kumar](https://github.com/toocoolsachin)
 - [Hyun Jin Kim](https://github.com/hjk068)
