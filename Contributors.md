@@ -172,6 +172,7 @@
 - [Jackson Bates](https://github.com/jbates222)
 - [Mr Sid](https://github.com/mrsidverse)
 - [Ela Gavrilova] (https://github.com/perlbeforeswine)
+- [Nikhil Pandey](https://github.com/nikhilrpandey)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Tri Nguyen](http://github.com/tri97nguyen)
