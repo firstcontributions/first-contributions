@@ -27,6 +27,7 @@
 - Ragavi Murali
 - Tim Peng (https://github.com/typg93)
 - M007RA
+- Fig The Gif
 Ayush Goyal
 - Arpit Batra
 - Satyam Dua
