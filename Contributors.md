@@ -77,6 +77,7 @@
 - Omar Navarro
 - Praveen Raj
 - Yahaya Kehinde
+- [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
 - Archana Dhaker
