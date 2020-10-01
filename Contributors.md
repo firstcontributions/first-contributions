@@ -3,8 +3,10 @@
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
+- [Ayushi Jain] (https://github.com/aj-spec)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
+  [Archana Singh](https://github.com/archana-1209)
 - [Vedant Chourasia](https://github.com/vc8006)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -22,12 +24,14 @@
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Mr.Python](https://github.com/mrpythondev)
 - [Atharva Gulhane](https://github.com/atharvarockx)
 -[Shubham Singh](https://github.com/shubhamcodez)
 - [Apleht](https://github.com/apleht)
 - [VivekSharma](https://github.com/viveksharma2382000)
 - [Ujjwal](https://github.com/Ujjwal3009)
 -[Arpit](https://github.com/arkreactor-1729)
+  [Abhishek jha](https://github.com/abhi-469)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
@@ -999,6 +1003,7 @@ Sumit Sagar
 - [Uka Emmanuel](https://github.com/Mista-Rite)
 - [Kayla Tremble]
 - [Synchroynme](https://github.com/Synchronyme)
+- [Ashwinkumar Pillai](https://github.com/AshwinkumarPillai)
 - [Sachi Tank](https://github.com/sachitank)
 - [Victor Ligas](https://github.com/vligas)
 - [Aditya Anand](https://github.com/ikshavaku)
@@ -1734,6 +1739,7 @@ Sumit Sagar
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
 - [Manu Chauhan](https://github.com/MANU-CHAUHAN)
 - Anna
+- WC 2020 October
 - [Partha Talukdar] (https://github.com/parth93QA]
 - [JoshuA Aningene](https://github.com/JoshuaCode1)
 - Modaser Mojadiddi
@@ -2154,6 +2160,7 @@ Keshav goel
 - Salsabil
 - Rui Luís
 - timamero
+- [Carlos Martins](https://github.com/luacmartins/)
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
@@ -2399,6 +2406,7 @@ Keshav goel
 - [Swarag-N👩🚀](https://github.com/Swarag-N)
 - Similoluwa Okunowo
 - [Hadi Tahmasbi](https://github.com/Hadit1993)
+- [Whit3rose](https://github.com/Whit3rose)
 - [nilayrajderkar](https://github.com/nilayrajderkar)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
@@ -5281,6 +5289,7 @@ Keshav goel
 - [Namit Chandwani](https://github.com/namit-chandwani)
 - [Wacky Joker](https://github.com/wackyjoker)
 - [Aarushi Shrestha](https://github.com/Aarushi21)
+- [Javier Rojas](https://github.com/jav-rojas)
 - [Nadeem Zaya](https://github.com/nadeemreflexis)
 - [Rubi Singh](https://github.com/rubisingh2020)
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
@@ -5322,3 +5331,5 @@ Keshav goel
 - [Lord Kerwin](https://github.com/lordkerwin)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Tiago Dias](https://github.com/FeltesPT)
+- [Ritul Jain](https://github.com/Lutir)
+- [Sagar Utekar](https://github.com/Sagar2366)
