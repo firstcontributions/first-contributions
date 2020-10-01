@@ -1,9 +1,10 @@
 # Contributors
 
-- [Amantina Sosa](https://github.com/amantina05)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
+- [Amantina Sosa](https://github.com/amantina05)
+
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
 - [Shihaan](https://github.com/theneoterik)
