@@ -81,6 +81,7 @@
 - [Harshit Kumar Ojha](https://github.com/HarshitKumarOjha)
 - [Ankit yadav](https://github.com/imakki)
 - [sbrmnm]
+- [Sidharth Anand](https://github.com/sidanand67)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Wasim Raja] (https://github.com/wasim7raja10)
 - [Jackson Bates](https://github.com/jbates222)
