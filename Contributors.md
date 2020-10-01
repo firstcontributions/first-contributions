@@ -15,6 +15,7 @@
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
+- [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
@@ -78,8 +79,10 @@
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
+- [Aggarwal]
 - [Anish SOfat](https://github.com/anishsofat)
 - [Asad Moosvi](https://github.com/asadmoosvi)
+- [Jatin Solanki](https://github.com/Jatin17Solanki)
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
@@ -5309,3 +5312,4 @@ Keshav goel
 - [Mohan Sharma](https://github.com/mohan3679)
 - [Raj Joshi] (https://github.com/rocketrunner22)
 - [Emily Hamberg] (https://github.com/emilyhamberg)
+- [Hugo Lima](https://github.com/hugolima03)
