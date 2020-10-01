@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Ask Jag](https://github.com/AskJag07)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
