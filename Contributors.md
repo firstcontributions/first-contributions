@@ -5,6 +5,7 @@
 - [Rendy Andika](https://github.com/rendyandika28)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
+- [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
@@ -25,6 +26,7 @@
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
+- [Anish SOfat](https://github.com/anishsofat)
 - [Asad Moosvi](https://github.com/asadmoosvi)
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
@@ -2050,6 +2052,7 @@ Keshav goel
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [munkinut](https://github.com/munkinut)
+- [Karen Ibarra](https://github.com/Klizz)
 - Salsabil
 - [Bruno Rito](https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
@@ -5184,3 +5187,4 @@ Keshav goel
 - [Sripaad Srinivasan](https://github.com/Sripaad)
 - [Chandan Kumar](https://github.com/cksharma122)
 - [Anuj Gunjad](https://github.com/anujgunjad)
+- [Suvodeep Sinha](https://github.com/Suvoo)
