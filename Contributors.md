@@ -99,6 +99,7 @@
 - Praveen Raj
 - Alexis Cumpstone
 - Yahaya Kehinde
+## [Harshal Jain] (https://github.com/Harshal0506) 
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
