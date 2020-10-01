@@ -10,6 +10,7 @@
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Divyanshu Bargali](https://github.com/div-bargali)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
+- [Lucas Moreno](https://github.com/morecoda)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
