@@ -5420,3 +5420,4 @@ Hirva  Shah
 - [Anupama Jeevan](https://github.com/anupamajeevan)
 - [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
 - [Monika Sivamoorthy](https://github.com/monikas-github)
+- [Mohd Avesh Farooqui](http://github.com/avesh07a)
