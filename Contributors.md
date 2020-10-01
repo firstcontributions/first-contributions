@@ -836,6 +836,7 @@ Sumit Sagar
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
 - [Amruta Koshe](https://github.com/AmrutaKoshe)
+- [M1neskA](https://github.com/M1neskA)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
 - [Chase Ashby](https://github.com/Chasertx)
