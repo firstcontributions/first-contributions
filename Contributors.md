@@ -29,6 +29,7 @@
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
+- [Joe Giuffrida](https://github.com/joegiuffrida)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
