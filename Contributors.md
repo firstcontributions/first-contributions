@@ -5320,6 +5320,7 @@ Keshav goel
 - [Muhammad Ulin Nuha](https://github.com/nuhaa/)
 - [Srirampandian.c](https://github.com/srirampandian17)
 - [Fuad Olatunji](https://github.com/fuadop)
+- [Kris Hall](https://github.com/zekehul)
 - [Richard Jeremias](https://github.com/rijema)
 - [Amrit Pulak](https://github.com/amritpulak)
 - [Gokul Kannan](https://github.com/gokulkannan7)
