@@ -134,7 +134,7 @@
 - [UMAR MASUD]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
-  [Divyansh Raina] (https://github.com/QuantumBoy-729)
+  [Divyansh Raina](https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
@@ -145,10 +145,10 @@
 - Praveen Raj
 - Simon Hanrath
 - Hemanth Reddy
--[Shagun Sharma](https://github.com/Shagun15)
+- [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
 - Yahaya Kehinde
-## [Harshal Jain] (https://github.com/Harshal0506) 
+- [Harshal Jain] (https://github.com/Harshal0506) 
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -5235,6 +5235,7 @@ Keshav goel
 - [Nicolas Cheng](https://github.com/nicolakacha)
 - [Chetan Bansal](https://github.com/Chetan8462)
 - [Blazej Siejek](https://github.com/mrsiejas)
+- [Deepti](https://github.com/deepti23-web)
 - [Piyush Gahoi](https://github.com/PiyushGahoi)
 - [Namit Chandwani](https://github.com/namit-chandwani)
 - [Wacky Joker](https://github.com/wackyjoker)
