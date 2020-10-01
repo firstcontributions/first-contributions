@@ -1,6 +1,8 @@
 # Contributors
-- [Rachel Quan](https://github.com/rachelquan)
+- [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
+- [Rachel Quan] (https://github.com/rachelquan)
+  [Maulik Varshney](https://github.com/MaulikVarshney)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
 - [Shihaan](https://github.com/theneoterik)
@@ -184,6 +186,7 @@
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
+- [Anders Djursaa](https://github.com/adjuc)
 - Praveen Raj
 - Simon Hanrath
 - Hemanth Reddy
