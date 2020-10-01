@@ -1,5 +1,5 @@
 # Contributors
-- [Franchesca Leung] (https://github.com/franchescaleung) 
+- [Franchesca Leung](https://github.com/franchescaleung) 
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
