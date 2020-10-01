@@ -89,6 +89,7 @@
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
+- [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
 - Praveen Raj
 - Alexis Cumpstone
@@ -270,6 +271,7 @@
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
+- [Kirsten Bolda](https://https://github.com/KirstenBolda)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Josh Lavallee](https://github.com/jlavallee76)
 - [Zubier Abdullah](https://github.com/ZubierAbd)
@@ -5165,3 +5167,4 @@ Keshav goel
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
+- [Armin Zardkoohi](https://github.com/github-armin)
