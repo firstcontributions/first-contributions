@@ -1,4 +1,5 @@
 # Contributors
+- [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [Virdio Samuel](https://github.com/diosamuel)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
