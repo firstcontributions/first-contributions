@@ -1,4 +1,5 @@
 # Contributors
+- [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
