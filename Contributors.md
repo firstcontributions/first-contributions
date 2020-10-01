@@ -1,5 +1,7 @@
 # Contributors
+- [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
@@ -46,6 +48,7 @@
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Subhashree Mishra](https://github.com/Mishrasubha)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
@@ -208,6 +211,7 @@
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
+- [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
@@ -1559,6 +1563,7 @@ Sumit Sagar
 - [Taha Dharamsi](https://github.com/tahanzania)
 - [Daniel Buompane](https://github.com/dankb82)
 - [Javier Feliu](https://github.com/wanderindev)
+- [Luís Ferreira](https://github.com/Symbolism00)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
@@ -1839,6 +1844,7 @@ Sumit Sagar
 - [TamaraNC](https://github.com/TamaraNC)
 - Billy
 - [Carlos Hernandez](https://github.com/caedhesa)
+-[Sarvesh Arora](https://github.com/sarvesharora)
 - Rio Hayakawa
 - Michał Krakiewicz
 - [Pedro Goncalves](https://github.com/psgg1981/)
@@ -5337,11 +5343,9 @@ Keshav goel
 - [Ritul Jain](https://github.com/Lutir)
 - [Sagar Utekar](https://github.com/Sagar2366)
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
-<<<<<<< HEAD
-- [Avanti L](https://github.com/RainbowCoderTP)
-=======
-avantil
 - [Avanti L](https://github.com/RainbowCoderTP)
 Hirva  Shah
 - [Paul Clement](https://github.com/nut556)
->>>>>>> b6aae5073d41110a9ab46dc6929651ccd382f4b5
+- [Pooja Arya](https://github.com/poojavarya)
+- [Nisha Choudhary](https://github.com/choudharynisha)
+
