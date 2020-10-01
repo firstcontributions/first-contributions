@@ -5341,6 +5341,7 @@ Keshav goel
 - [Raj Joshi] (https://github.com/rocketrunner22)
 - [Hugo Lima](https://github.com/hugolima03)
 - [Lord Kerwin](https://github.com/lordkerwin)
+- [Jaymin Patil](https://github.com/Jaymin409)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Tiago Dias](https://github.com/FeltesPT)
 - [Ritul Jain](https://github.com/Lutir)
@@ -5351,4 +5352,3 @@ Hirva  Shah
 - [Pooja Arya](https://github.com/poojavarya)
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
-- [Jaymin Patil](https://github.com/Jaymin409)
