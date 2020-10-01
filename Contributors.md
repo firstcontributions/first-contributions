@@ -2,6 +2,7 @@
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
 - [Souranil Das](https://github.com/sournail)
+- [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
