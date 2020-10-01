@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
@@ -5326,3 +5326,4 @@ Keshav goel
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Tiago Dias](https://github.com/FeltesPT)
 - [Ritul Jain](https://github.com/Lutir)
+- [Hirva Shah](https://github.com/hirva10)
