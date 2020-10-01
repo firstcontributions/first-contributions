@@ -1738,6 +1738,7 @@ Sumit Sagar
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
 - [Manu Chauhan](https://github.com/MANU-CHAUHAN)
 - Anna
+- WC 2020 October
 - [Partha Talukdar] (https://github.com/parth93QA]
 - [JoshuA Aningene](https://github.com/JoshuaCode1)
 - Modaser Mojadiddi
@@ -4984,6 +4985,7 @@ Keshav goel
 - [Aditya Kumar Seth](https://github.com/adityatwothree)
 - [Jaafar Melhem](https://github.com/jaafarmelhem)
 - [Aneri]
+- [Krishnaraj E](https://github.com/krishnaraj-e)
 - [NiumXp](https://github.com/NiumXp)
 - [William Guo](https://github.com/wguo1)
 - [Jantlee](https://github.com/jantlee)
@@ -5332,3 +5334,4 @@ Keshav goel
 - [Ritul Jain](https://github.com/Lutir)
 - [Sagar Utekar](https://github.com/Sagar2366)
 - [Rojina Deuja](https://github.com/rojinadeuja)
+- [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
