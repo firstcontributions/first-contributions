@@ -29,6 +29,7 @@
 - [Uditha Ishan](https://github.com/UdithaIshan)
 - [Or Zohar](https://github.com/orZohar)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
+- [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang] 
