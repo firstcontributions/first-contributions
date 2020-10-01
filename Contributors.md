@@ -1,6 +1,9 @@
 # Contributors
+- [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
+- [Rebecca Yang](https://github.com/RebeccaYang0124)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
@@ -46,6 +49,7 @@
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Subhashree Mishra](https://github.com/Mishrasubha)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
@@ -53,6 +57,7 @@
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [anky301] (`https://github.com/anky301)
+- [José Francisco] (https://github.com/JoseFRH17)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
@@ -78,6 +83,7 @@
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
 - [Visaj Nirav Shah](https://github.com/visajshah)
+-Pramita
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Brajeswar Lenka](https://github.com/brajeswar009)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
@@ -204,9 +210,11 @@
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
+- [Kiran S Baliga]  (https://github.com/kiransbaliga)
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
+- [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
@@ -239,6 +247,7 @@
 - [Nikhil Pandey](https://github.com/nikhilrpandey)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
+- [Farhan Irani  🚀 😃](https://github.com/farhanirani)
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
 - [Saptarshi Basu](https://github.com/saptarshibasu15)
@@ -1558,6 +1567,7 @@ Sumit Sagar
 - [Taha Dharamsi](https://github.com/tahanzania)
 - [Daniel Buompane](https://github.com/dankb82)
 - [Javier Feliu](https://github.com/wanderindev)
+- [Luís Ferreira](https://github.com/Symbolism00)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
@@ -1838,6 +1848,7 @@ Sumit Sagar
 - [TamaraNC](https://github.com/TamaraNC)
 - Billy
 - [Carlos Hernandez](https://github.com/caedhesa)
+-[Sarvesh Arora](https://github.com/sarvesharora)
 - Rio Hayakawa
 - Michał Krakiewicz
 - [Pedro Goncalves](https://github.com/psgg1981/)
@@ -5338,4 +5349,8 @@ Keshav goel
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
 Hirva  Shah
 - [Samuel Boadu Jnr](https://github.com/boadusamuel)
+- [Paul Clement](https://github.com/nut556)
+- [Pooja Arya](https://github.com/poojavarya)
+- [Nisha Choudhary](https://github.com/choudharynisha)
+- [Alan Gordon](https://github.com/alangordon)
 
