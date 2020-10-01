@@ -1,5 +1,6 @@
 # Contributors
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- [Lubna Attar] (https://github.com/lubnaattar)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
