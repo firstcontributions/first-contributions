@@ -66,6 +66,7 @@
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
+- [Vishwas Modhera](https://github.com/vishxm)
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Shreya Modi] (https://github.com/shreyamodi1999/)
