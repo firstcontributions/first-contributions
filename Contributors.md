@@ -1,9 +1,12 @@
 # Contributors
 - [Shivam Aranya](https://github.com/shivamdn9)
+- [Nayan Jain](https://github.com/NayanJai
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [Virdio Samuel](https://github.com/diosamuel)
+-[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
@@ -148,6 +151,7 @@
 - [Tanay Kamath] (https://github.com/2tanayk)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
+- [Kalpesh Tated](https://github.com/kalpeshT101)
 - [Or Zohar](https://github.com/orZohar)
 - [Harshit Kumar Ojha](https://github.com/HarshitKumarOjha)
 - [Ankit yadav](https://github.com/imakki)
@@ -181,6 +185,7 @@
 - [Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
 - [KelvinChan2406](https://github.com/kelvinchan2406)
+- [Kushagra Gupta](https://github.com/KG-1510)
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Ansh Mishra](https://github.com/theanshm)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
@@ -344,6 +349,7 @@
 - [Another Contributer]
 - [kt leary](https://github.com/ktleary)
 - [Syed Hassan]
+- [Hardik Sharma]
 - [Sanad Omar]
 - [chqh](https://github.com/npnv)
 - [こんにちは]
@@ -487,6 +493,7 @@ Sumit Sagar
 - [Tomasz Pastusiak](https://github.com/tomxey)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
 - [Aman Patel](https://github.com/amanptl)
+- [Ali Emir Avcı](https://github.com/Burwor)
 - [Ayush Kumar](https://github.com/ayushkumar121)
 - [Omar Ahmed Abdullah](https://github.com/omarahmed98)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
@@ -833,6 +840,7 @@ Sumit Sagar
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
 - [Amruta Koshe](https://github.com/AmrutaKoshe)
+- [M1neskA](https://github.com/M1neskA)
 - [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
 - [Chase Ashby](https://github.com/Chasertx)
@@ -5190,4 +5198,5 @@ Keshav goel
 - [Sripaad Srinivasan](https://github.com/Sripaad)
 - [Chandan Kumar](https://github.com/cksharma122)
 - [Suvodeep Sinha](https://github.com/Suvoo)
-- 
+- [Hemshree](https://github.com/Hemshree)
+- [mgs salim](https://github.com/wongpenghong)
