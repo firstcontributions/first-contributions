@@ -1,4 +1,5 @@
-# Contributors
+# Contributors\
+- [Stephanie Eldridge] (https://github.com/sleldri)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
