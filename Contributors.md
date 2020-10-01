@@ -97,6 +97,7 @@
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
 - [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
+- [Jitender Pal Singh] (https://github.com/jitender24)
 - [James Dobbe](https://github.com/dobbe2)
 - [Harsh Soni](https://github.com/24Cipher)
 - [Abnaser](https://github.com/Abnaser)
