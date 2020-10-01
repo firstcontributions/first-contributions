@@ -3165,6 +3165,7 @@ Keshav goel
 - [Kin Kin](https://github.com/adkinley)
 - [Nathan Schneider](https://github.com/nathanlschneider)
 - [Rebecca Cho](https://github.com/choeuna)
+- [Eddy Shao](https://github.com/YddEd)
 - [Sreymeas Nao](https://github.com/meass)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Nigel Moore](https://github.com/nimows)
