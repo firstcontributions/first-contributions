@@ -104,7 +104,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 अब अपनी pull request सबमिट करें |
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
-जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मास्टर शाखा में मर्ज क्र दूंगा| आपको एक मेल आजायेगी जब आपके बदलाव मर्ज होंगे |
+जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मास्टर शाखा में मर्ज कर दूंगा| आपको एक मेल आ जायेगी जब आपके बदलाव मर्ज होंगे |
 
 ## यहाँ से कहाँ जाएं ?
 
@@ -112,7 +112,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 अपने पहले योगदान की खुशी में जश्न मनाएं और अपने दोस्तों के साथ शेयर करें [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके | 
 
-आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं अगर आपको कोई मदद चाहिए या आपके कोई परेशानी हों | [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं अगर आपको कोई मदद चाहिए या आपको कोई परेशानी हों | [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 अब आप और प्रोजेक्ट्स में कंट्रीब्यूट करना शुरू कर सकते हैं | हमने आपके लिए एक लिस्ट बनायीं है जो कि बहुत आसान मुद्दे हैं | [प्रोजेक्ट्स कि लिस्ट](https://roshanjossey.github.io/first-contributions/#project-list)
 
