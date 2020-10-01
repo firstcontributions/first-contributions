@@ -50,6 +50,7 @@
 - [Genesis KG](https://github.com/GenesisKG)
 - [Meera Mehta (https://github.com/meeramehta)
 - [Nayan Jain](https://github.com/NayanJain09)
+- [Nicolas Fraisse](https://github.com/nicofraisse)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [Mr.Python](https://github.com/mrpythondev)
@@ -139,9 +140,9 @@
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
-- [Sarah Yap](https://github.com/skyuanow) 
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Serena Wang]
+- [Sarah Yap](https://github.com/skyuanow)
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -213,7 +214,7 @@
 - [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
 - Yahaya Kehinde
-- [Harshal Jain] (https://github.com/Harshal0506) 
+- [Harshal Jain] (https://github.com/Harshal0506)
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -347,7 +348,7 @@
 - [Ahmed Elsisy](https://github.com/AhmedElsisy)
 - [Raj Valand](https://github.com/Raj142)
   [Shreya Shukla](https://github.com/shreyashukla-26)
-- [Muhammad Sapuan](https://github.com/msapuan)  
+- [Muhammad Sapuan](https://github.com/msapuan)
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
 - [kirtirajsinh Parmar](https://github.com/kirtirajsinh)
