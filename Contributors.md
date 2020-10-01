@@ -29,6 +29,7 @@
 - [James Dobbe](https://github.com/dobbe2)
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
+- [Revanth H S](https://github.com/revi97)
 - [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
 - [Anurag Singh](https://github.com/singhanurag05)
 - [Richa](https://github.com/richa1200)
