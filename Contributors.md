@@ -1,4 +1,5 @@
 # Contributors
+- [Ashutosh Pandey] (https://github.com/ap-darknight)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
@@ -110,9 +111,9 @@
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
-- [Sarah Yap](https://github.com/skyuanow) 
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Serena Wang]
+- [Sarah Yap](https://github.com/skyuanow)
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -183,7 +184,7 @@
 - [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
 - Yahaya Kehinde
-- [Harshal Jain] (https://github.com/Harshal0506) 
+- [Harshal Jain] (https://github.com/Harshal0506)
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
