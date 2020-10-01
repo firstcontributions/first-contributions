@@ -4,6 +4,7 @@
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
 - [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
+- [Kishan Kumar](https://github.com/kishankrs)
 - [Souranil Das](https://github.com/sournail)
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
