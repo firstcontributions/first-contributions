@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -759,6 +759,7 @@ Sumit Sagar
 - [Jakub Gawroński](https://github.com/gawronskijakub)
 - [Abhay](https://github.com/mn-on)
 - [Pinky](https://github.com/PinkyWalia)
+- [Naufal Firman](https://github.com/naufalF21)
 - [Pooja Prabhu](https://github.com/POOJAPRABHU450)
 - James Hall
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
