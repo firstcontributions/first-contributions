@@ -1,4 +1,5 @@
 # Contributors
+- [Gisela Font] (https://github.com/gfontsayeras)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
