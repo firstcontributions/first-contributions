@@ -3232,6 +3232,7 @@ Keshav goel
 - [Lastminute](https://github.com/lstmnt)
 - [Panasarn Kanchanapiboon](https://github.com/musickn)
 - [Qubone](https://github.com/qubone)
+- [Sarita](https://github.com/saritadc)
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
 - [Matt Anderson](https://github.com/mattander)
