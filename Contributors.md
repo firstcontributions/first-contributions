@@ -437,6 +437,8 @@
 - [@sascha-alexander](https://github.com/sascha-alexander)
 - [Akshit Soneji](https://github.com/AKSHIT989)
 - [Lucas Deboch](https://github.com/lucasdeboch)
+- [stuffkind](https://github.com/stuffkind/)
+
 - [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
