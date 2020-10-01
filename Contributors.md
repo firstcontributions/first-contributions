@@ -1,4 +1,5 @@
 # Contributors
+- [Moyan Zhou] (https://github.com/bananannn)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
