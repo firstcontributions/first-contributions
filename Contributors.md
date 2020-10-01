@@ -1,4 +1,5 @@
 # Contributors
+- [Nicole Lucien] (https://github.com/nicmlu)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
