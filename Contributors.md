@@ -1,4 +1,5 @@
 # Contributors
+- [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
