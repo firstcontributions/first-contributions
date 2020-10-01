@@ -2447,7 +2447,7 @@ Keshav goel
 - [Rion Ghosh](https://github.com/Rion12)
 - [Sergio Peschiera](https://github.com/sergiopg)
 - [Tom Rowbotham](https://github.com/tomrowbo)
-- [Ajit Bhat](https://github.com/abhat3)
+- [Rahul Bansal](https://github.com/RahulBansal123)
 - [Kandice Everett](https://github.com/kandice11)
 - [tlylt](https://github.com/tlylt)
 - [Hainison Dornelas](https://github.com/hainison/)
