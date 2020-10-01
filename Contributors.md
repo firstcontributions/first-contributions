@@ -47,6 +47,7 @@
 - [Hanny Kishawi] (https://github.com/hkishawi)
 - [Siva Kondubhatla] (https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
+- [Deril]
 - [Lois Choji](https://github.com/LoisChoji)
 - [Aditya Joshi](https://github.com/ajadityajoshi)
 - [Amikar Sinha](https://github.com/killshot11)
