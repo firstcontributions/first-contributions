@@ -1,14 +1,23 @@
-﻿# Contributors
+# Contributors
 - [Elly Fan](https://github.com/ellyfan)
+- [Shruthi K] (https://github.com/shkundap)
+- [Divya Varshini](https://github.com/divyavarshini)
+- [Leo Humphreys](https://github.com/Hubbit200)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
+- [Kajori Ghosh](https://github.com/Kajori4)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
   [Maulik Varshney](https://github.com/MaulikVarshney)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
+- Tanmay Arora
+- M007RA
+- Arpit Batra
+- KhushiO BATRA
 - [Jing Tao](https://github.com/jtaoct)
+- [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Divyanshu Bargali](https://github.com/div-bargali)
@@ -18,6 +27,7 @@
 - [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
+- [Ketan Patel] (https://github.com/kpatel2000)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Madhur Agrawal](https://github.com/madhur0809)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
@@ -187,7 +197,8 @@
 - [Shaikh Mudassir](https://github.com/shaikhmudassir)
 - [USMAN KHALID]
 - [Manav Bokinala](https://github.com/mbokinala)
-- [UMAR MASUD]
+- [UMAR MASUD
+- rathnadev1995]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
   [Divyansh Raina](https://github.com/QuantumBoy-729)
@@ -3164,6 +3175,7 @@ Keshav goel
 - [Kin Kin](https://github.com/adkinley)
 - [Nathan Schneider](https://github.com/nathanlschneider)
 - [Rebecca Cho](https://github.com/choeuna)
+- [Eddy Shao](https://github.com/YddEd)
 - [Sreymeas Nao](https://github.com/meass)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Nigel Moore](https://github.com/nimows)
@@ -3681,6 +3693,7 @@ Keshav goel
 - [Kasanderh](https://github.com/kasanderh)
 - [Yuvansh Agrawal](https://github.com/yuvag)
 - [lahla81](https://github.com/lahla81)
+- [Sooraj S Nair](https://github.com/sooraj-nair)
 - [Dhananjay](https://github.com/dhanoz)
 - [bekahh](https://github.com/bekahh)
 - [Jeffrey Hui](https://github.com/jeffrey-hui)
@@ -5181,6 +5194,7 @@ Keshav goel
 - [Luc McAuley](https://github.com/lucmcauley)
 - [Olaoluwa Mustapha](https://github.com/OlaoluwaM)
 - [Marc Stämpfli](https://github.com/marcstampfli)
+- [Taruna Datta](https://github.com/TarunaDatta)
 - [Soumik Chaudhuri](https://github.com/pinkman7009)
 - [ChenTongLucky520](https://github.com/ChenTongLucky520/)
 - [Young Ha](https://github.com/yyyoungha)
@@ -5379,6 +5393,9 @@ Hirva  Shah
 - [Pooja Arya](https://github.com/poojavarya)
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
+- [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
+- [Abigail Yang](https://github.com/yangjabigail)
 - [Anupama Jeevan](https://github.com/anupamajeevan)
+- [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
