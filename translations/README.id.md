@@ -24,7 +24,7 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 [🇷🇺](translations/README.ru.md)
 [🇧🇬](translations/README.bg.md)
 [:slovakia:](translations/README.slk.md)
-<kbd></kbd>[<img src="[../assets/jp.png](https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg)" width="22">](translations/README.ja.md)</kbd>
+<kbd></kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
 [🇻🇳](translations/README.vn.md)
 [🇵🇱](translations/README.pl.md)
 [🇮🇷](translations/README.fa.md)
