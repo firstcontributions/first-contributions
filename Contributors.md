@@ -196,6 +196,7 @@
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
+- [Abhishek Verma](https://github.com/abhishekanimatron)
 - [Jerry George Jaimon](https://github.com/jerryjaimon/first-contributions)
 - [Priyanshu Pardhi](https://github.com/PriyanshuPardhi24)
 - [Anjali Soni](https:github.com/anjalisoni3655)
