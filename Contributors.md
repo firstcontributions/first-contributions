@@ -1,4 +1,5 @@
 # Contributors
+- [Margarita Fernandez] (https://github.com/Marga1998)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
