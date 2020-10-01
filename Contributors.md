@@ -5164,4 +5164,4 @@ Keshav goel
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
-- [Raied Razi](https://github.com/raiedkhan)
+- [Raied Khan](https://github.com/raiedkhan)
