@@ -11,6 +11,7 @@
   [Maulik Varshney](https://github.com/MaulikVarshney)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
+- Tanmay Arora
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
