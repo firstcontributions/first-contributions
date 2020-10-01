@@ -16,6 +16,7 @@
 - Arpit Batra
 - KhushiO BATRA
 - Harshal Dehra
+- Tejas Dehra
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
