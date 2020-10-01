@@ -1,5 +1,6 @@
 # Contributors
--[Mrunal Bandodkar] (https://github.com/mrunal2u)
+- [Virdio Samuel](https://github.com/diosamuel)
+-[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Yash Shukla](https://github.com/Yash1256)
