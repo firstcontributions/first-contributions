@@ -60,6 +60,7 @@
 - [Murakiki](https://github.com/murakiki)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
 - [Alex Georgiev](https://github.com/GeorgievAlex)
+- [Coconut Alejandro](https://github.com/calmcoconut)
 - [Uditha Ishan](https://github.com/UdithaIshan)
 - [Or Zohar](https://github.com/orZohar)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
