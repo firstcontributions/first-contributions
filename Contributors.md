@@ -167,6 +167,7 @@
 - [Subramanian V V](https://github.com/subramanian-vv)
 - [sbrmnm]
 - [Sidharth Anand](https://github.com/sidanand67)
+- [Samrudhi Patil](https://github.com/samrudhippatil)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
 - [Wasim Raja] (https://github.com/wasim7raja10)
 - [Jackson Bates](https://github.com/jbates222)
