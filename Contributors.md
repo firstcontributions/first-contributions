@@ -75,6 +75,7 @@
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang] 
 - [Sarah Yap](https://github.com/skyuanow) 
+- [Tyson Swords](https://github.com/Zeeennnyyy) 
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
