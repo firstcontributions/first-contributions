@@ -15,6 +15,7 @@
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
+- [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
