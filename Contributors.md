@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
+- [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
 - [Souranil Das](https://github.com/sournail)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Nayan Jain](https://github.com/NayanJain09)
