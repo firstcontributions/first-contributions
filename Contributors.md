@@ -86,6 +86,7 @@ Ayush Goyal
 - [Surya Man Shrestha](https://github.com/surya1243)
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
+- [adwisni] (https://github.com/adwisni)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
