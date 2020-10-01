@@ -1,4 +1,5 @@
 # Contributors
+- [Yingying Wu](https://github.com/CodeYing)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
