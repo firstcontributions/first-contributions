@@ -5360,4 +5360,4 @@ Hirva  Shah
 - [Alan Gordon](https://github.com/alangordon)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
-- [Danyi Huang](https://github.com/dhuang07)
+- [Kristina Wong](https://github.com/dhuang07)
