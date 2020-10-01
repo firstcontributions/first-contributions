@@ -31,6 +31,7 @@
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
+- [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang] 
 - [Will Guo]
@@ -2669,6 +2670,7 @@ Keshav goel
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Todsapon Boontap](https://github.com/at-syot)
 - [Cassandra Lee](https://github.com/yieng)
+- [Ralf Jay Jovenal](https://github.com/ralfjayjovenal-cp)
 - [Elvis Salaton](https://github.com/Salaton)
 - [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
@@ -5161,4 +5163,5 @@ Keshav goel
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
+- [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
 
