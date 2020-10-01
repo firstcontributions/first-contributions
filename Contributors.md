@@ -5,6 +5,7 @@
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+-[Shubham Singh](https://github.com/shubhamcodez)
 - [Apleht](https://github.com/apleht)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Chris Hoang](https://github.com/bucket420)
