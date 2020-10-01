@@ -5044,6 +5044,7 @@ Keshav goel
 - [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
 - [James Hwang](https://github.com/beartt)
 - [Vito Ghifari](https://github.com/vanadiumOxide)
+- [Ayushi Rawat](https://github.com/ayushi7rawat)
 - [Luc McAuley](https://github.com/lucmcauley)
 - [Olaoluwa Mustapha](https://github.com/OlaoluwaM)
 - [Marc Stämpfli](https://github.com/marcstampfli)
