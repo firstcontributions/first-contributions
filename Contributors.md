@@ -7,6 +7,8 @@
 - [Liziane Felix](https://github.com/lizianefelix)
 - [Shruthi K] (https://github.com/shkundap)
 - [Divya Varshini](https://github.com/divyavarshini)
+  Sunny Kannaujiya
+  Jin Mori
 - [Leo Humphreys](https://github.com/Hubbit200)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
