@@ -67,6 +67,7 @@
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [BalaGanesh Meyyappan] (https://github.com/bala0406)
 - [SHUBHAM RAI]
+- [Range Roper]
 - [USMAN KHALID]
 - [UMAR MASUD]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
