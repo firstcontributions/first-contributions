@@ -11,7 +11,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-
 #### _Read this in [other languages](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
@@ -72,7 +71,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 
-
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
@@ -95,6 +93,7 @@ git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+kunal bedi
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
