@@ -20,6 +20,7 @@
 - [Abhishek Rai](https://github.com/Abhishek172)
 - Lorin Achey
 - Tanmay Arora
+- Ragavi Murali
 - Tim Peng (https://github.com/typg93)
 - M007RA
 Ayush Goyal
