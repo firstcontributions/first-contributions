@@ -78,6 +78,7 @@
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
 - [Visaj Nirav Shah](https://github.com/visajshah)
+-Pramita
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Brajeswar Lenka](https://github.com/brajeswar009)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
