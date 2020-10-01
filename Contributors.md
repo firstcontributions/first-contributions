@@ -48,6 +48,7 @@
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - Omar Navarro
+- [Anders Djursaa](https://github.com/adjuc)
 - Praveen Raj
 - Yahaya Kehinde
 - [Anderson Cardoso](https://github.com/anderson-ca)
