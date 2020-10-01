@@ -62,6 +62,7 @@ mOrTaL💀
 - [Kishan Kumar](https://github.com/kishankrs)
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
 - Mikaela Wade
+- [Rahul Kashyap](https://github.com/imKashyap)
 - Dallin Craven
 - [Breno Baptista](https://github.com/brenobaptista)
 - [Souranil Das](https://github.com/sournail)
