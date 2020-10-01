@@ -19,6 +19,7 @@
 - [CodeBlooded](https://github.com/codeblooded-47)
 - [WeLostTheNight](https://github.com/574469831)
 - [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [Utkarsh Nagar]
 - [jaanP1]
 - [Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
@@ -5010,7 +5011,7 @@ Keshav goel
 - [Claire North](https://github.com/clairenorth)
 - [gallags6](https://github.com/gallags6)
 - [Didar Ali](https://github.com/didar15)
-- [Fred Cobb] 
+- [Fred Cobb]
 - [Alice Lia Stapleton](https://github.com/slimelia)
 - [Ruan Knoetze] (https://github.com/RuanKnoetze0308)
 - [Artyom Novoselov] (https://github.com/potyoma)
