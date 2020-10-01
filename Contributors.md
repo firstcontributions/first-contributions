@@ -139,6 +139,7 @@
 - [Danny Reina](https://github.com/dannyflatiron)
 - [Ankita Singhal](https://github.com/sankita11)
 - [Elizabeth Wiggins]
+- [Chamodi Thennakoon](https://github.com/chamodit)
 - [Tommy Deliso](https://github.com/tdeliso)
 - [Mandeep Singh](https://github.com/deepsingh132)
 - [Harsh Soni] (https://github.com/harsh-dynasty)
