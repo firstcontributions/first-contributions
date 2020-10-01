@@ -3,6 +3,7 @@
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
+- [Rebecca Yang](https://github.com/RebeccaYang0124)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
