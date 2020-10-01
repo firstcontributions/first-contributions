@@ -1,5 +1,6 @@
 # Contributors
 - [Theresa Cho] (https://github.com/tcho6319)
+- [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
@@ -211,6 +212,7 @@
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
+- [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
@@ -1562,6 +1564,7 @@ Sumit Sagar
 - [Taha Dharamsi](https://github.com/tahanzania)
 - [Daniel Buompane](https://github.com/dankb82)
 - [Javier Feliu](https://github.com/wanderindev)
+- [Luís Ferreira](https://github.com/Symbolism00)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
@@ -5344,3 +5347,4 @@ Keshav goel
 Hirva  Shah
 - [Paul Clement](https://github.com/nut556)
 - [Pooja Arya](https://github.com/poojavarya)
+- [Nisha Choudhary](https://github.com/choudharynisha)
