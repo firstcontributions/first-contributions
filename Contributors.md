@@ -11,7 +11,7 @@
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
--[Shubham Singh](https://github.com/shubhamcodez)
+- [Shubham Singh](https://github.com/shubhamcodez)
 - [Apleht](https://github.com/apleht)
 - [Ujjwal](https://github.com/Ujjwal3009)
 - [Burak Sürmen](https://github.com/bsurmen)
@@ -26,9 +26,9 @@
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
--[Raunak Priya](https://github.com/raunakpriya)
+- [Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
--[Mrunal Bandodkar](https://github.com/mrunal2u)
+- [Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [anky301] (`https://github.com/anky301)
@@ -65,9 +65,9 @@
 - [Shreya Garg](https://github.com/einhawking)
 - [Anish SOfat](https://github.com/anishsofat)
 - [Asad Moosvi](https://github.com/asadmoosvi)
--[Madison Reese](https://github.com/MadisonReese)
--[Nirmit](https://github.com/Nirmit2207)
--[Manas Sharma](https://github.com/Manas-E)
+- [Madison Reese](https://github.com/MadisonReese)
+- [Nirmit](https://github.com/Nirmit2207)
+- [Manas Sharma](https://github.com/Manas-E)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Murakiki](https://github.com/murakiki)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
@@ -136,7 +136,7 @@
 - [UMAR MASUD]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
-  [Divyansh Raina](https://github.com/QuantumBoy-729)
+- [Divyansh Raina](https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
@@ -179,7 +179,7 @@
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
 - [Nicole Clearie]
--[hamdan abdul](https://github.com/Hamhunter)
+- [hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
 - [Bhagya Singh](https://github.com/bhagya05)
@@ -226,7 +226,7 @@
 - [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
--[Prabaljit Walia](https://github.com/prabal4546)
+- [Prabaljit Walia](https://github.com/prabal4546)
 - [Vinay Manala](https://github.com/VinayManala)
 - [Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
@@ -5279,3 +5279,4 @@ Keshav goel
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
 - [Aviral Agarwal](https://github.com/Avr8)
 - [fatik07](https://github.com/fatik07)
+- [mateBakos](https://github.com/mateBakos)
