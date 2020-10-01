@@ -13,6 +13,7 @@
 - Lorin Achey
 - Tanmay Arora
 - Nishtha Rokde
+- Aishwarya Ro
 - M007RA
 - Arpit Batra
 - KhushiO BATRA
