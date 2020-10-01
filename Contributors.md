@@ -5162,3 +5162,4 @@ Keshav goel
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
+- [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
