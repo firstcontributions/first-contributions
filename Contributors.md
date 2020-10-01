@@ -1,4 +1,5 @@
 # Contributors
+- [Ananya Bal] (https://github.com/Anniebbb)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
