@@ -1,4 +1,5 @@
 # Contributors
+- [Divya Varshini](https://github.com/divyavarshini)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
