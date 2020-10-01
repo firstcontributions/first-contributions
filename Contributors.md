@@ -1831,7 +1831,7 @@ Sumit Sagar
 - [Theoajc](https://github.com/theoajc)
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
-- Oluwaseyi Kareem
+- [EmpalGentong][https://github.com/empalgentong]
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
