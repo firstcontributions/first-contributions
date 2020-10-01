@@ -24,6 +24,7 @@
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
 - [Asad Moosvi](https://github.com/asadmoosvi)
+- [Moh Aarif Ahmed](https://github.com/arifamd00) 
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
