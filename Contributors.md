@@ -103,6 +103,7 @@
 - Archana Dhaker
 - Infamous Bolt
 - [0ver3inker](https://github.com/OverthinkersArea)
+- [Manik Chauhan](https://github.com/Manik-Chauhan)
 - [Tanweer Ali](https://github.com/tanweeralii)
 - [Codrean Svetlana] (https://github.com/svetlanacodrean)
 - [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
