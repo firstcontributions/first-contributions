@@ -69,6 +69,7 @@
 - [SHUBHAM RAI]
 - [Range Roper]
 - [USMAN KHALID]
+- [Manav Bokinala](https://github.com/mbokinala)
 - [UMAR MASUD]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
