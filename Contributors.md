@@ -5282,6 +5282,7 @@ Keshav goel
 - [Namit Chandwani](https://github.com/namit-chandwani)
 - [Wacky Joker](https://github.com/wackyjoker)
 - [Aarushi Shrestha](https://github.com/Aarushi21)
+- [Javier Rojas](https://github.com/jav-rojas)
 - [Nadeem Zaya](https://github.com/nadeemreflexis)
 - [Rubi Singh](https://github.com/rubisingh2020)
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
