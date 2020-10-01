@@ -5,6 +5,7 @@
 - [Rendy Andika](https://github.com/rendyandika28)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
+- [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
