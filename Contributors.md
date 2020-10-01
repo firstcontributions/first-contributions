@@ -2551,6 +2551,7 @@ Keshav goel
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
+- [Catalin Gheorghiu](https://github.com/CatalinGheorghiu)
 - [Andrey Ponomarev](https://github.com/ponomarevandrey)
 - [JebDenou Ladbulab](https://github.com/courrier1)
 - [Andrew Costello](https://github.com/Andrewsyl)
