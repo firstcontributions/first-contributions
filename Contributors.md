@@ -16,6 +16,7 @@
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [anky301] (`https://github.com/anky301)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
+- [Neuroxic] (https://github.com/Neuroxic)
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
