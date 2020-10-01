@@ -89,6 +89,7 @@
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
+- [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
 - Praveen Raj
 - Alexis Cumpstone
