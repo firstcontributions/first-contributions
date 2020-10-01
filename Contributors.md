@@ -5354,3 +5354,4 @@ Hirva  Shah
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Katie Ryan](https://github.com/katier2d2)
