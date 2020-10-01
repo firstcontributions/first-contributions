@@ -85,6 +85,7 @@
 - Lajuan Station
 - Frank F
 - Bert
+- Daniel Cooper
 - [Jeffrey Herr] (paper money pilgrim)
 - [Robert Gooding](https://github.com/goodingr)
 - [Gustaf](https://github.com/Ljungwaldh)
