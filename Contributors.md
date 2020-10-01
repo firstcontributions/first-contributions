@@ -23,6 +23,7 @@
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Mr.Python](https://github.com/mrpythondev)
 - [Atharva Gulhane](https://github.com/atharvarockx)
 -[Shubham Singh](https://github.com/shubhamcodez)
 - [Apleht](https://github.com/apleht)
