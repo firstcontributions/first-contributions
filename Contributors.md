@@ -1,4 +1,5 @@
 # Contributors
+- [Sweta Singhal] (https://github.com/swetasinghal28)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
