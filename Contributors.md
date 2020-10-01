@@ -184,6 +184,7 @@
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
+- [Anders Djursaa](https://github.com/adjuc)
 - Praveen Raj
 - Simon Hanrath
 - Hemanth Reddy
