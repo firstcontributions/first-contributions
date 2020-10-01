@@ -18,6 +18,7 @@
 -[Shubham Singh](https://github.com/shubhamcodez)
 - [Apleht](https://github.com/apleht)
 - [Ujjwal](https://github.com/Ujjwal3009)
+-[Arpit](https://github.com/arkreactor-1729)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
