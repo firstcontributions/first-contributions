@@ -12,6 +12,7 @@
 - [Soham Sakaria](https://github.com/sushantkrishnan/)
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
+- [Ana Vassallo](https://github.com/AnaGVF)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
