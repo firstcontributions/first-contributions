@@ -125,6 +125,7 @@
 - Omar Navarro
 - Praveen Raj
 - Hemanth Reddy
+-[Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
 - Yahaya Kehinde
 ## [Harshal Jain] (https://github.com/Harshal0506) 
