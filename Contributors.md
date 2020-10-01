@@ -1,4 +1,5 @@
 # Contributors
+- [Seongoh Ryoo]
 - Celia
 - [Liziane Felix](https://github.com/lizianefelix)
 - [Shruthi K] (https://github.com/shkundap)
