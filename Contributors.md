@@ -141,12 +141,7 @@
 - [jarvis3799]
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
 - [Abhinav Tiwari] (https://github.com/abhinav-idle)
-- Omar Navarro
-- Praveen Raj
-- Hemanth Reddy
 -[Shagun Sharma](https://github.com/Shagun15)
-- Alexis Cumpstone
-- Yahaya Kehinde
 ## [Harshal Jain] (https://github.com/Harshal0506) 
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
