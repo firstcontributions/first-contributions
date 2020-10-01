@@ -13,6 +13,7 @@
 - Lorin Achey
 - Tanmay Arora
 - M007RA
+Ayush Goyal
 - Arpit Batra
 - KhushiO BATRA
 - [Jing Tao](https://github.com/jtaoct)
