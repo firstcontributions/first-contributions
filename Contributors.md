@@ -3546,6 +3546,7 @@ Keshav goel
 - [Jaime Garcia, Jr.](https://github.com/JJgar2725)
 - [Rahul Anand](https://github.com/RahulGo8u)
 - [Julio Alvarado](https://github.com/JulioJoulesAlvarado)
+- [Larissa Nguyen] (https://github.com/larissanguyen)
 - [Parkash Pant](https://github.com/parkashpant)
 - [Stephen Paslaski](https://github.com/paslasks)
 - [Sophie Xiao](https://github.com/iosophie)
