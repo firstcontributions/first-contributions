@@ -5378,6 +5378,7 @@ Hirva  Shah
 - [Pooja Arya](https://github.com/poojavarya)
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
+- [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
 - [Anupama Jeevan](https://github.com/anupamajeevan)
