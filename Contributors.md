@@ -46,6 +46,7 @@
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
+- [Pam Jiménez](https://github.com/Glyan)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
