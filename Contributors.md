@@ -11,6 +11,7 @@
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
 - [Aditya Baravkar] (https://github.com/Aditya182)
 - [Toh De Kai] (https://github.com/TohDeKai)
+- [Siddarth Awasthi] (https://github.com/siddarth308)
 - [Or Zohar] (https://github.com/orZohar)
 - [Ankit yadav](https://github.com/imakki)
 - [Sandeep Verma](https://github.com/sandeep-kverma)
