@@ -653,6 +653,7 @@ Sumit Sagar
 - [Frida Luz Fernandez](https://github.com/frida-luz)
 - [Mikey Kriegel](https:/github.com/mikkrieg)
 - [maya](https:/github.com/)
+- [Tushar Vohra](https://github.com/tusharvohra)
 - [Pingu🐧](https://github.com/pingu94)
 - [Ping Lu](https://github.com/pinglu85)
 - [William Arthor](https://github.com/narrowsnap)
