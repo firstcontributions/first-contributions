@@ -184,6 +184,7 @@
 - [Tanay Kamath] (https://github.com/2tanayk)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
+- [Vasav Raj Shukla](https://github.com/vasavraj)
 - [Kalpesh Tated](https://github.com/kalpeshT101)
 - [Or Zohar](https://github.com/orZohar)
 - [Harshit Kumar Ojha](https://github.com/HarshitKumarOjha)
