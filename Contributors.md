@@ -58,7 +58,7 @@
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
+- [Serena Wang]
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -121,7 +121,7 @@
 - Praveen Raj
 - Alexis Cumpstone
 - Yahaya Kehinde
-## [Harshal Jain] (https://github.com/Harshal0506) 
+## [Harshal Jain] (https://github.com/Harshal0506)
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -906,6 +906,7 @@ Sumit Sagar
 - Andrew Scott
 - [Bobak Tooyserkani](https://github.com/bt105819)
 - robyea
+- [Nicolo Bargellesi] (https://github.com/Barge-96)
 - [katalan1245](https://github.com/katalan1245)
 - Akshara Dyuti
 - Rishabh Mehta
