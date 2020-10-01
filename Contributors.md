@@ -176,6 +176,7 @@ Ayush Goyal
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Aish](https://github.com/aishtron7)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
+- [Haripriya Mutyala](https://github.com/MutyalaHaripriya)
 - [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
 - [Harpocrat3s](https://github.com/harpocrat3s)
