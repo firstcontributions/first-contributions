@@ -1,4 +1,5 @@
 # Contributors
+- [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [Virdio Samuel](https://github.com/diosamuel)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
@@ -13,6 +14,7 @@
 - [Soham Sakaria](https://github.com/sushantkrishnan/)
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
+- [Visaj Nirav Shah](https://github.com/visajshah)
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
@@ -88,6 +90,7 @@
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - [Charchit Kapoor] (https://github.com/Being-Maverick/first-contributions)
+- [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
 - Praveen Raj
 - Alexis Cumpstone
@@ -270,6 +273,7 @@
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
+- [Kirsten Bolda](https://https://github.com/KirstenBolda)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Josh Lavallee](https://github.com/jlavallee76)
 - [Zubier Abdullah](https://github.com/ZubierAbd)
@@ -1594,6 +1598,7 @@ Sumit Sagar
 - [Namraj Pudasaini](http://githubcom/Namrajp)
 - [Itamar Hoshmand](https://github.com/hoshmy)
 - [Richie C.](https://github.com/RTek-dev)
+- [Sarthak Joshi](https://github.com/nick2496)
 - [foolmarshal](https://github.com/aakashkumar1997)
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
@@ -5164,4 +5169,4 @@ Keshav goel
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
-
+- [Armin Zardkoohi](https://github.com/github-armin)
