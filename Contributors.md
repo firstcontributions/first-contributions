@@ -1,5 +1,5 @@
 # Contributors
-- [Soniya Sadalkar] (https://github.com/soniyasadalkar)
+- [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
