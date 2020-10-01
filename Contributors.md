@@ -15,6 +15,7 @@
 - [Yash Shukla](https://github.com/Yash1256)
 - [James Dobbe](https://github.com/dobbe2)
 - [J Rahul](https://github.com/rahultesla)
+- [Richa](https://github.com/richa1200)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
 - [Parth Srivastava](https://github.com/savss624)
