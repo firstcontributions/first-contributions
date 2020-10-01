@@ -79,6 +79,7 @@
 - [Shreya Garg](https://github.com/einhawking)
 - [Anish SOfat](https://github.com/anishsofat)
 - [Asad Moosvi](https://github.com/asadmoosvi)
+- [Jatin Solanki](https://github.com/Jatin17Solanki)
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
