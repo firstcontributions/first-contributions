@@ -26,6 +26,7 @@
 - [Apleht](https://github.com/apleht)
 - [VivekSharma](https://github.com/viveksharma2382000)
 - [Ujjwal](https://github.com/Ujjwal3009)
+- [Rohit kumar](https://github.com/rohitkr789)
 -[Arpit](https://github.com/arkreactor-1729)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Chris Hoang](https://github.com/bucket420)
@@ -42,6 +43,7 @@
 - [Virdio Samuel](https://github.com/diosamuel)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
+
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
