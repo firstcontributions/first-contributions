@@ -1,5 +1,5 @@
-﻿# Contributors
-- [Daniela Contador](https://github.com/djcontador)
+# Contributors
+- [Daniela Contador Zanforlin](https://github.com/djcontador)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Swayam Kaul](https://github.com/swayamkaul)
