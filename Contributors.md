@@ -1,4 +1,5 @@
 # Contributors
+- [Concordia Chen] (https://github.com/cchen10)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
