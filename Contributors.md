@@ -8,6 +8,7 @@
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Aman Chaudhary](https://github.com/agcy1210)
+- [Ishika Guleria](https://github.com/ishikaguleria)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
