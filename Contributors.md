@@ -26,6 +26,7 @@
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
 - [Richa](https://github.com/richa1200)
+- [Vishakha Kumaresan](https://github.com/Vishakha1909)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
 - [Sabyasachi Das](https://github.com/sabya2301)
