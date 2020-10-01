@@ -1,6 +1,8 @@
 # Contributors
+- [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- Lorin Achey
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
@@ -25,6 +27,7 @@
 - [Ishika Guleria](https://github.com/ishikaguleria)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
+- [Meera Mehta (https://github.com/meeramehta)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
@@ -210,6 +213,7 @@
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
+- [Kiran S Baliga]  (https://github.com/kiransbaliga)
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
 - [Sujatha Mohan sujathamlak]
@@ -4147,6 +4151,7 @@ Keshav goel
 - [Chris Lewis](https://github.com/Ryu1284)
 - Shrey Dua
 - [Martin Watkins](https://github.com/martinw13)
+-Adeyemi Misturah
 - [Jesse Rurka](https://github.com/RurkaJ)
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
@@ -5352,3 +5357,6 @@ Hirva  Shah
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
 - [Sakshi C](https://github.com/sakshi-rg)
+- [Lauren Kosub](https://github.com/laurenkosub)
+- [Sanjana Sekar](https://github.com/sanjanasekar)
+
