@@ -1,4 +1,5 @@
 # Contributors
+- [Tanya Zagumenov] (https://github.com/teezee206)
 - [Divya Varshini](https://github.com/divyavarshini)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
