@@ -25,6 +25,7 @@
 - [Shreya Garg](https://github.com/einhawking)
 - [Asad Moosvi](https://github.com/asadmoosvi)
 -[Madison Reese](https://github.com/MadisonReese)
+-[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Murakiki](https://github.com/murakiki)
