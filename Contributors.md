@@ -8,6 +8,7 @@
 - [J Rahul](https://github.com/rahultesla)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
+- [Sakshi Kedar](https://github.com/sakshikedar)
 - [Parth Srivastava](https://github.com/savss624)
 - [Sushant Krishnan](https://github.com/sushantkrishnan/)
 - [Soham Sakaria](https://github.com/sushantkrishnan/)
