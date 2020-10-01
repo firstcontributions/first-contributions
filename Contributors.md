@@ -56,6 +56,7 @@
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
 - [anky301] (`https://github.com/anky301)
+- [José Francisco] (https://github.com/JoseFRH17)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
