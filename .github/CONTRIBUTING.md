@@ -409,6 +409,8 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.pl.md">polski</a>
         </td>
+       <a href="../translations/README.pl.md">日本語</a>
+        </td>
     </tr>
      <tr>
         <td>
