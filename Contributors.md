@@ -5413,6 +5413,7 @@ Keshav goel
 - [MananKGarg](https://github.com/MananKGarg)
 - [SiddhantDugar](https://github.com/SiddhantDugar)
 - [Damien Archer](https://github.com/daarcher04)
+- [saribricka](https://github.com/saribricka)
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
 - [duffttt](https://github.com/duffttt)
