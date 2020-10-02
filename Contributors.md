@@ -1,6 +1,7 @@
 # Contributors
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
+- [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
