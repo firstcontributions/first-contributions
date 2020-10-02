@@ -5,6 +5,7 @@
 - [Diana Cheng] (https://github.com/dianache4685)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
+- [Mahima Gupta]
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
