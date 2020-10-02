@@ -27,6 +27,7 @@
 - [Ayush Patel](https://www.github.com/ayushnpatel)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
+- Lemon Ruan
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 - Celia
 - WD
