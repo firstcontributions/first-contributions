@@ -2300,7 +2300,7 @@ Keshav goel
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
 - Banasri Saha
-- Aniruddha Bhagawati
+- Aniruddha Bhagawati(https://github.com/911-mickie)
 - Manpreet Singh
 - [Muhd Ahmad Dahlan](https://github.com/muhdmud)
 - will
