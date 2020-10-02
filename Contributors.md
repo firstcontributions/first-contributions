@@ -5474,7 +5474,7 @@ Keshav goel
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel](https://github.com/Letram)
+- [Carlos Martel Lamas](https://github.com/Letram) 
 - [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
