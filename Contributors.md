@@ -2596,6 +2596,7 @@ Keshav goel
 - [Archie Buck](https://github.com/psibuck)
 - [Tristan Deane](https://github.com/IM-Deane)
 - [Aidan Curley](https://gitbub.com/redyelruc)
+- [Jeuel Gutierrez](https://github.com/jeuel2001)
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Sarah Larkworthy](https://github.com/SLarkworthy)
