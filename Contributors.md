@@ -69,6 +69,7 @@
   [Nick Paisley](https://github.com/nickpaisley)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Matheus Phelipe](https://github.com/matheusphalves)
+- [Meer Hamza](https://github.com/MeerHamza1421)
 - [Abhishek Rai](https://github.com/Abhishek172)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Hema A]  (https://github.com/a-hema)
