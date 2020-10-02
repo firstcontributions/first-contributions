@@ -14,6 +14,7 @@
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
+= [Anvesh Verma](https://github.com/anveshverma)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
 - Sejal Jain(https://github.com/sejaljain123)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
