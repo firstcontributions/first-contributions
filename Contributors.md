@@ -1457,6 +1457,7 @@ Sumit Sagar
 - [Ashutosh Raman](https://github.com/ashutosh0709)
 - [Narasimha Prasanna HN](https://github.com/Narasimha1997)
 - [Dan](https://github.com/dan-mba)
+- [Jitendra Sharma](https://github.com/ji10drasharma)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Jarryd Palzenberger](https://github.com/jayp1)
 - [Mutsa Meda](https://github.com/mutsameda)
