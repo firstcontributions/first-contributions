@@ -9,7 +9,8 @@
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Celia
 - Derryl Kevin Monis
-- [Liziane Felix](https://github.com/lizianefelix)
+- [Liziane Felix](ttps://gihthub.com/lizianefelix)
+- Anurag Mishra (https://github.com/i-anuragmishra)
 - [Shruthi K] (https://github.com/shkundap)
 - [HeroCharge] (https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
