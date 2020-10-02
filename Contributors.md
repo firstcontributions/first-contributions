@@ -417,6 +417,7 @@ mOrTaL💀
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
 - [Shreya Garg] (https://github.com/einhawking)
+- [Siddarth Awasthi](https://github.com/siddarth308)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
 - [Kiran S Baliga]  (https://github.com/kiransbaliga)
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
