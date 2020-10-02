@@ -1883,6 +1883,7 @@ Sumit Sagar
 - [Jimmy Holmes](https://github.com/MrDrHolmes)
 - Mahir Goel
 - [Paul Hartman](https://github.com/paulhartman1)
+- [Russ Perry](https://github.com/rperry99)
 - [Ansh Dhingra](https://github.com/anshdhinhgra47)
 - Ghassan Alrayyes
 - [Efraim Klecky](https://github.com/eklecky)
