@@ -9,18 +9,21 @@
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Celia
 - Derryl Kevin Monis
-- [Liziane Felix](https://github.com/lizianefelix)
+- [Liziane Felix](ttps://gihthub.com/lizianefelix)
+- Anurag Mishra (https://github.com/i-anuragmishra)
 - [Shruthi K] (https://github.com/shkundap)
 - [HeroCharge] (https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
 - [Leo Humphreys](https://github.com/Hubbit200)
 - Shaoni Dutta
+- (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
 - [Sandip Baidya](https://github.com/sandip-baidya)
 - [Nancy Lambert] (https://github.com/n-lambert)
 - [Abhinav Shukla] (https://github.com/AbsMechanik)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [cshankerj] (https://github.com/cshankerj)
+- [Shubham Sharma] (https://github.com/Shubham1605)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
 -[Reyna Zaru](https://github.com/reynazee)
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
@@ -118,6 +121,7 @@ mOrTaL💀
 - [Thiago Takehana](https://github.com/thiagotakehana)
 - [Apleht](https://github.com/apleht)
 - [VivekSharma](https://github.com/viveksharma2382000)
+- [Vaishnav Trivedi](https://github.com/Vanhsiav-afk)
 - [Ujjwal](https://github.com/Ujjwal3009)
 -[Arpit](https://github.com/arkreactor-1729)
   [Abhishek jha](https://github.com/abhi-469)
@@ -289,6 +293,7 @@ mOrTaL💀
 - Yahaya Kehinde
 - Ajeet Singh Parmar
 - [Harshal Jain] (https://github.com/Harshal0506)
+- Callina Birdsong 
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -304,6 +309,7 @@ mOrTaL💀
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
+- [Rishikesh Yadav] (https://github.com/rishikesh7355)
 - [Tanay] (https://github.com/sudhatanay)
 - [Tarun Sharma] (tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
@@ -5508,3 +5514,5 @@ Hirva  Shah
 - [Yash Upadhyay](https://github.com/yashupadhyay101)
 - [Samuel Haiden](https://github.com/samhai11)
 - [Pratik Sharma](https://github.com/pratikshar181)
+- [Upasana Sinha] (https://github.com/Usinha31)
+- [Rohit Sharma](https://github.com/rohitsssharma1989)
