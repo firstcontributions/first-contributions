@@ -12,6 +12,7 @@
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
+- [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
 - [Xin Li] (https://github.com/3xinli)
