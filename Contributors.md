@@ -163,6 +163,7 @@
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
+- Abhiroop Agarwal
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Jordan Aquadro] (https://github.com/jquad25)
 - [Peter Chou] (https://github.com/peterchou3788)
