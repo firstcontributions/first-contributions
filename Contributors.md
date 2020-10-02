@@ -51,6 +51,7 @@
 - Fig The Gif
 Ayush Goyal
 - Arpit Batra
+- [Siddharth Shrivastava](https://github.com/Siddharth2430/)
 - Satyam Dua
 mOrTaL💀
 - KhushiO BATRA
