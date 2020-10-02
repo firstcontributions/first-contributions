@@ -2126,6 +2126,7 @@ Sumit Sagar
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [PikaPool](https://github.com/Pika-Pool/)
+- [
 - [RachaelAndrew](https://github.com/r-andrew-dev)
 - Summer Brant
 - [pramish22](https://github.com/pramish22)
@@ -5557,6 +5558,7 @@ Keshav goel
 - [Aarushi Shrestha](https://github.com/Aarushi21)
 - [Javier Rojas](https://github.com/jav-rojas)
 - [Nadeem Zaya](https://github.com/nadeemreflexis)
+- [antaragh] (https://github.com/antaragh)
 - [Rubi Singh](https://github.com/rubisingh2020)
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
 - [Monica Dhanaraj](https://github.com/mds-code)
