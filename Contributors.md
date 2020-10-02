@@ -5480,6 +5480,7 @@ Hirva  Shah
 - [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
 - [Monika Sivamoorthy](https://github.com/monikas-github)
 - [Mohd Avesh Farooqui](http://github.com/avesh07a)
+- [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Khadijah Parks](http://github.com/dijahp)
 - [Sarthak Rana](https://github.com/SarthakRana)
 - [Yi Su] (https://github.com/Superbbbb)
@@ -5492,3 +5493,4 @@ Hirva  Shah
 - [Tim Gao](https://github.com/timegao)
 - [Vedant Satpute](https://github.com/vicinalv)
 - [Lav Senghani](https://github.com/lavlife06)
+- [Nitin Dixit](https://github.com/nitinajaydixit)
