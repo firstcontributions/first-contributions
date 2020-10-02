@@ -3,6 +3,7 @@
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
+- [Ritvika Sonawane](https://github.com/alex-2410)
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
