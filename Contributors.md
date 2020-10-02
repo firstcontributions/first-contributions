@@ -26,6 +26,7 @@
 - [Jamie Tan](https://github.com/jlt10)
 - [Abhinav Jonnada](https://github.com/abhinavjonnada82)
 - [Rachel Quan] (https://github.com/rachelquan)
+- [Jiahuei](https://github.com/Jiahuei99)
   [Maulik Varshney](https://github.com/MaulikVarshney)
   [Nick Paisley](https://github.com/nickpaisley)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
@@ -65,6 +66,7 @@ mOrTaL💀
 - [Parth Lawania](https://github.com/parthlaw)
 - [Gerardo Ruiz Jr](https://github.com/gruiz78)
 - [Katie Cussans](https://github.com/Kat-lc)
+- [Vyomaan Dave] (https://github.com/VyomaanDave0711)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Ketan Patel] (https://github.com/kpatel2000)
@@ -75,6 +77,7 @@ mOrTaL💀
 - [Archana Singh](https://github.com/archana-1209)
 - [Ricardo Escobedo](https://github.com/ricardoesc25)
 - [Vedant Chourasia](https://github.com/vc8006)
+- [Carlos Cornejo](https://github.com/carloantoniocc) 
 - [Laurel Verma](https://github.com/1laurelverma)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -84,6 +87,7 @@ mOrTaL💀
 - Mikaela Wade
 - [Rahul Kashyap](https://github.com/imKashyap)
 - Dallin Craven
+- [Himani Madaan] (https://github.com/himanimadaan)
 - [Jacob Hurley](https://github.com/Jacob-Hurley)
 - [Breno Baptista](https://github.com/brenobaptista)
 - [Souranil Das](https://github.com/sournail)
@@ -5495,4 +5499,4 @@ Hirva  Shah
 - [Devon Fazekas](https://github.com/FazekasDevon96)
 - [Pranav Sivvam](https://github.com/vulf)
 - [Yash Upadhyay](https://github.com/yashupadhyay101)
-- [Yash Upadhyay](https://github.com/yashupadhyay101)
+- [Yash Upadhyay1](https://github.com/yashupadhyay101)
