@@ -5536,3 +5536,4 @@ Hirva  Shah
 - [Jahnavi Juluri](https://github.com/jahnavi1111)
 - [Mohd Muzakkir](https://github.com/mohdmuzakkir)
 - [Jemik Patel](https://github.com/jemikp)
+- [Christos Soteriou](https://github.com/ChristosSoteriou)
