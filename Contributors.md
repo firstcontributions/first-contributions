@@ -387,6 +387,7 @@ mOrTaL💀
 - [Pranav Dani](https://github.com/Pranav1642)
 - [Jonathan Noack](https://github.com/jonock)
 - [Jasleen Kaur](https://github.com/Jasleen01)
+- [Zachary Moseti](https://github.com/ZachyDev)
 - [Rushali Sreedhar](https://github.com/rushali09)
 - [Denice Soper](https://github.com/Denice-S)
 - [Mostafa Omar](https://github.com/MostafaOmar98)
