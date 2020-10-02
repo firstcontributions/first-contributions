@@ -138,6 +138,7 @@ mOrTaL💀
 - [Subhashree Mishra](https://github.com/Mishrasubha)
 -[Raunak Priya](https://github.com/raunakpriya)
 - [Rendy Andika](https://github.com/rendyandika28)
+- [Mykael Baig]  (https://github.com/Mykaelb/CST255-MB)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
 -[Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
