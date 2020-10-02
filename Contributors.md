@@ -61,6 +61,7 @@ mOrTaL💀
 - Tejas Dehra
 - Sahil Dhingra
 - Baani Dhingra
+- Shaanya Singh
   Keshav Kumar
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
 - [Abinash Mishra](https://github.com/IIAbinashMishraII)
