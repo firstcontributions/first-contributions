@@ -267,6 +267,7 @@ mOrTaL💀
 - [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
 - Yahaya Kehinde
+- Ajeet Singh Parmar
 - [Harshal Jain] (https://github.com/Harshal0506) 
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
