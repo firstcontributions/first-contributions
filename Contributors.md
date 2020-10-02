@@ -4836,6 +4836,7 @@ Keshav goel
 - [Patrick Ofili](https://github.com/OfiliPatrick)
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
+- [WM Dieter](https://github.com/wmdieter)
 - [Jannat Patel](https://github.com/pateljannat)
 - [Shubham Kulkarni](https://github.com/shubhamkulkarni01)
 - [Stephen Clarke](https://github.com/sdclarkelab)
