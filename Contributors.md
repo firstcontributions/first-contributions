@@ -10,6 +10,7 @@
 - [Joyce He](https://github.com/jjoycehe)
 - [Mahima Gupta]
 - [MJ](https://github.com/speklet)
+- [Vincent Vais](https://github.com/Vincent-Vais)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
