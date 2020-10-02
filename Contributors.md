@@ -255,6 +255,7 @@ mOrTaL💀
 - [Harsh Soni](https://github.com/24Cipher)
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
+- [Pulsejit](https://github.com/pulsejit)
 - [Revanth H S](https://github.com/revi97)
 - [Shivam Aranya](https://github.com/shivamdn9)
 - [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
