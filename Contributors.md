@@ -272,7 +272,8 @@ mOrTaL💀
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Martin Hoffmann](https://github.com/martinh-dev)
 - [Serena Wang] 
-- [Sarah Yap](https://github.com/skyuanow) 
+- [Sarah Yap](https://github.com/skyuanow)
+- [Jonathan Castillo]
 - [Tyson Swords](https://github.com/Zeeennnyyy) 
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
