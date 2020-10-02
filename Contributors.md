@@ -1644,6 +1644,7 @@ Sumit Sagar
 - [Szymon Jozefczuk](https://github.com/SimonJoz)
 - [Jens Kuipers](https://github.com/jens-kuipers/)s
 - [Rushi Vachhani](https://github.com/RushiVachhani)
+- [Hanqing Liao] (https://github.com/hatchingideas)
 - [Sagar Ramlani](https://github.com/Ramlanisagar)
 - [Saurabh Kushwah](https://github.com/saurabh-kushwah)
 - Atia - first OSS contribution Yay!
