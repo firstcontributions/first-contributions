@@ -1,5 +1,6 @@
 # Contributors
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
+- [Nicole Lucien](https://github.com/nicmlu)
 - [Milanmeu] (https://github.com/milanmeu)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
