@@ -51,7 +51,7 @@
 - [Hema A]  (https://github.com/a-hema)
 - Lorin Achey
 - Tanmay Arora
-- Sreenidhi 
+- Sreenidhi
 - [Vishnu Vardhan Reddy Thokala] (https://github.com/VishnuThokala)
 - Vikrant Arora
 - Ragavi Murali
@@ -103,7 +103,7 @@ mOrTaL💀
 - [Archana Singh](https://github.com/archana-1209)
 - [Ricardo Escobedo](https://github.com/ricardoesc25)
 - [Vedant Chourasia](https://github.com/vc8006)
-- [Carlos Cornejo](https://github.com/carloantoniocc) 
+- [Carlos Cornejo](https://github.com/carloantoniocc)
 - [Laurel Verma](https://github.com/1laurelverma)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -235,9 +235,9 @@ mOrTaL💀
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
-- [Sarah Yap](https://github.com/skyuanow) 
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Serena Wang]
+- [Sarah Yap](https://github.com/skyuanow)
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -313,7 +313,7 @@ mOrTaL💀
 - Yahaya Kehinde
 - Ajeet Singh Parmar
 - [Harshal Jain] (https://github.com/Harshal0506)
-- Callina Birdsong 
+- Callina Birdsong
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -716,6 +716,7 @@ Sumit Sagar
 - [Harshit Parakh](https://github.com/Harsh061)
 - [Steve Bunting](https://github.com/stebunting)
 - [Damla Yıldız](https://github.com/damlayildiz)
+- [Paramamithra](https://github.com/Paramamithra)
 - [nerawz hlela](https://github.com/nerawzz)
 - [Tomasz Pastusiak](https://github.com/tomxey)
 - [Ashfaaq Riphque](https://github.com/Ashfaaq18)
