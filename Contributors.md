@@ -1,5 +1,5 @@
 # Contributors
-- [Preeti Vyas] (https://github.com/preetivyas)
+- [Preeti Vyas](https://github.com/preetivyas)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
