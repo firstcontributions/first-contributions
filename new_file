@@ -1,0 +1,9 @@
+#WAP to input number n. Print the sum 1 + 2 + 3 + … + n
+a=input("Enter a number: ")
+x=int(a)
+i=0
+total=0
+while(i<=x):
+	total=total+i
+	i=i+1
+print(total)
