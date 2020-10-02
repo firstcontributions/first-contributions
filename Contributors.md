@@ -28,6 +28,7 @@
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook] (https://github.com/nada1619)
+- [Gonzalo Alvarez](https://github.com/gonzaloea)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Abhishek Ahirrao] (https://github.com/colmeabhi)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
