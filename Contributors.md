@@ -3914,6 +3914,7 @@ Keshav goel
 - [Ananthalakshmi Sankar](https://github.com/anu294)
 - [Fabian Mesias](https://github.com/ifmr24)
 - [Devon Lewis](https://github.com/ayodlo)
+- [Taresh Rajput](https://github.com/taresh18)
 - [ThankGod Ofurum](https://github.com/tcofurum)
 - [Jones R. Bezerra](https://github.com/johny22)
 - [Ross Wilkinson](https://github.com/rgwilkin)
