@@ -2,6 +2,7 @@
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Diana Cheng] (https://github.com/dianache4685)
+- [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
