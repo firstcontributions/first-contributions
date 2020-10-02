@@ -94,6 +94,7 @@ Ayush Goyal
 mOrTaL💀
 - KhushiO BATRA
 - Amar kumar
+- Yash Lad
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
