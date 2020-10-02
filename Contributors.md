@@ -1,4 +1,5 @@
 # Contributors
+- Lauren Gregg
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Sarah Liang](https://github.com/smliang)
