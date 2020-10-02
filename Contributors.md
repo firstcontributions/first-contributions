@@ -444,6 +444,7 @@ mOrTaL💀
 - [Sujatha Mohan sujathamlak]
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
+- [Kirui victor]
 - [Kevin K Biju]
 -  [Jithin Jose] (https://github.com/defaultRectr0)
 -[hamdan abdul](https://github.com/Hamhunter)
