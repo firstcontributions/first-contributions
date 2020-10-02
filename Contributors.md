@@ -20,6 +20,7 @@
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
+- [Lakshya Sethi](https://github.com/lakshyamcs16)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
