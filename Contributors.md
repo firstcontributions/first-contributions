@@ -247,6 +247,7 @@ mOrTaL💀
 - [anky301] (`https://github.com/anky301)
 - [José Francisco] (https://github.com/JoseFRH17)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
+- [Neuroxic](https://github.com/Neuroxic)
 - [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
