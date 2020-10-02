@@ -1,5 +1,6 @@
 # Contributors
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
+- [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
