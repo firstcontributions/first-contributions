@@ -291,6 +291,7 @@ mOrTaL💀
 - [Aditya Manchanda] (https://github.com/Aditya-1500)
 - [Divyansha Sharma](https://github.com/divyanshasharma)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
+- [Shristi Singh](https://github.com/confusedcoder1)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
 - [Shreya Garg](https://github.com/einhawking)
 - [Aggarwal]
