@@ -385,6 +385,7 @@ mOrTaL💀
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 - [Kevin K Biju]
+-  [Jithin Jose] (https://github.com/defaultRectr0)
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
