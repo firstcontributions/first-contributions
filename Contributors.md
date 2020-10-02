@@ -158,6 +158,7 @@ mOrTaL💀
 - [Visaj Nirav Shah](https://github.com/visajshah)
 -Pramita
 - [Ana Vassallo](https://github.com/AnaGVF)
+- [Jeya Manivannan] (https://github.com/Jeya312)
 - [Brajeswar Lenka](https://github.com/brajeswar009)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
