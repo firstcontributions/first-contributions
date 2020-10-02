@@ -9,6 +9,7 @@
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
+- [Nisarga Patil] (https://github.com/npatil19)
 - [Ritvika Sonawane](https://github.com/alex-2410)
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Brad Wong](https://github.com/bradmwong)
