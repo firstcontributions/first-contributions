@@ -2,6 +2,8 @@
 
 - [Disha Koul](https://github.com/dkoul818)
 - [Pedro Gesta](https://github.com/pedrogestajr
+- [Chintana Prabhu] (https://github.com/chintanaprabhu)
+- [Pedro Gesta](https://github.com/pedrogestajr)
 - [Hasan Haider](https://github.com/hasan-haider)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
