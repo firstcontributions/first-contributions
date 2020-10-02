@@ -1,5 +1,6 @@
 # Contributors
-- [Arya Soman]  (https://github.com/aryasoman333)
+- [Arya Soman](https://github.com/aryasoman333)
+- [Samantha Monteiro](https://github.com/samanthakem)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
@@ -11,7 +12,9 @@
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Ritvika Sonawane](https://github.com/alex-2410)
+-[Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
+- [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
@@ -21,6 +24,7 @@
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
+- [Harsha Bhadra](https://github/harshabhadra)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
@@ -79,6 +83,7 @@
 - [Abhishek Rai](https://github.com/Abhishek172)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Hema A]  (https://github.com/a-hema)
+- [Krishna Maringanty] (https://github.com/KrishnaKavya)
 - Lorin Achey
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
@@ -261,6 +266,7 @@ mOrTaL💀
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
+- [Ana Dias](https://github.com/baiana)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Murakiki](https://github.com/murakiki)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
@@ -2365,6 +2371,7 @@ Keshav goel
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Rui Luís
+- Sarah
 - timamero
 - [Carlos Martins](https://github.com/luacmartins/)
 - Narendra Modi
@@ -5622,3 +5629,4 @@ Hirva  Shah
 -[Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Aarti Bajaj](https://github.com/bajaj-aarti)
