@@ -114,6 +114,7 @@ mOrTaL💀
 - [Rahul Kashyap](https://github.com/imKashyap)
 - Dallin Craven
 - [Himani Madaan] (https://github.com/himanimadaan)
+- [Krishna Sahu](https://github.com/crypt0-c0de)
 - [Jacob Hurley](https://github.com/Jacob-Hurley)
 - [Breno Baptista](https://github.com/brenobaptista)
 - [Souranil Das](https://github.com/sournail)
