@@ -1,5 +1,6 @@
 # Contributors
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
+- [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Divya Gupta](https://github/DivyaGupta4)
