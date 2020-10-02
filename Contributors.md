@@ -19,6 +19,7 @@
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Abhishek Ahirrao] (https://github.com/colmeabhi)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
+- [Benjamin Maquet](https://github.com/BenjMaq)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Nisarga Patil] (https://github.com/npatil19)
