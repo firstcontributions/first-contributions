@@ -2,6 +2,7 @@
 - [Ko Junghwan] (https://github.com/kukuku0517)
 -[himanshu singh (https://github.com/H321-ma)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
+- [Nada Farook] (https://github.com/nada1619)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
