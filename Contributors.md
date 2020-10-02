@@ -2878,6 +2878,7 @@ Keshav goel
 - [Aditya Kshirsagar](https://github.com/ad17ya)
 - [Zowie](https://github.com/Zowie0122)
 - [Reynard Adha Ryanda](https://github.com/reynardryanda)
+- [Daniel Hackenberger](https://github.com/hcknbrgr)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Mohammad Moustafa](https://github.com/mohammadmoustafa)
 - [Russ_Wilcox](https://github.com/rwilcox518)
