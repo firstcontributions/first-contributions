@@ -35,6 +35,7 @@
 - [Yash Shukla](https://github.com/Yash1256)
 - [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
 - [James Dobbe](https://github.com/dobbe2)
+- [Manish Reddy Nandineni](https://github.com/nmreddy1911)
 - [Harsh Soni](https://github.com/24Cipher)
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
