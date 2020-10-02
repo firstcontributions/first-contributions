@@ -21,7 +21,7 @@ There are multiple ways to provide the `git commit` command with your email and 
 
 ### Global Config
 
-When you store something in the global config, it is accessible system wide in all the repositories you work on. This is the preferred way and works for most use cases.
+When you store something in the global config, it is accessible system-wide in all the repositories you work on. This is the preferred way and works for most use cases.
 
 To store something in the global config, you use the `config` command as follows:
 
@@ -36,7 +36,7 @@ $ git config --global user.name "Your Name"
 
 ### Repository Config
 
-As the name says, these configurations are scoped to your current repository. If you want to commit to a particular repository, say, a work related project, with your company's email, then you could use this method.
+As the name says, these configurations are scoped to your current repository. If you want to commit to a particular repository, say, a work-related project, with your company's email, then you could use this method.
 
 To store something in the repository config, you use the `config` command  by emitting the `--global` flag as follows:
 
@@ -51,7 +51,7 @@ $ git config user.name "Your Name"
 
 ### Command-line Config
 
-These type of configurations are scoped to the current command only. All git commands take `-c` arguments before the action verb to set temporary configuration data.
+These types of configurations are scoped to the current command only. All git commands take `-c` arguments before the action verb to set temporary configuration data.
 
 To store something in the command line config, run your command as follows:
 
@@ -67,7 +67,7 @@ Among the three methods described here, the precedence order is `command-line > 
 
 ## Beyond User Details
 
-We have dealt with only the user details till now while working with the config. However, there are several other configuration options available. Some of them are:
+We have dealt with only the user details untill now while working with the config. However, there are several other configuration options available. Some of them are:
 
 1.  `core.editor` - to specify the name of the editor used for writing commit messages, etc.
 2.  `commit.template` - to specify a file on the system as the initial commit template.
