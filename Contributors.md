@@ -1,4 +1,5 @@
 # Contributors
+- [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Divya Gupta](https://github/DivyaGupta4)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
