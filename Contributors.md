@@ -1,5 +1,5 @@
 # Contributors
--[Sriparna Chakraborty] (https://github.com/Sriparna190393)
+[Sriparna Chakraborty] (https://github.com/Sriparna190393)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
