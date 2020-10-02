@@ -48,6 +48,7 @@
 - [Agrim Bansal](https://github.com/Agrim-Bansal)
 - TrueHighGrade
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
+- [Rishu Kumar](https://github.com/Logan7282)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
 - [Dipin Garg](https://github.com/dgargdipin)
