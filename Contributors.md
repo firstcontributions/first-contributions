@@ -21,7 +21,7 @@
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [cshankerj] (https://github.com/cshankerj)
-- Shubham Sharma (https://github.com/Shubham1605)
+- [Shubham Sharma] (https://github.com/Shubham1605)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
 -[Reyna Zaru](https://github.com/reynazee)
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
