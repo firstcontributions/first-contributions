@@ -12,7 +12,7 @@ This document provides information about how to configure user details and other
 
 ### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
 This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
-> Follow these steps if your fork doesn't have any changes in parent repository.
+> Follow these steps if your fork doesn't have any changes in the parent repository.
 
 ### [Moving a Commit to a different Branch](moving-a-commit-to-a-different-branch.md)
 This document provides information about how to move a Commit to another Branch.
@@ -24,7 +24,7 @@ This document provides information about how to remove a file from your local re
 
 ### [Removing a branch from your repository](removing-branch-from-your-repository.md)
 This document provides information about how to delete a branch from your repository.
-> Only do these steps after your pull request get's merged.
+> Only do these steps after your pull request gets merged.
 
 ### [Resolving Merge Conflicts](resolving-merge-conflicts.md)
 This document provides information about how to resolve merge conflicts.
@@ -36,14 +36,14 @@ This document provides information about how to revert a commit on the remote re
 
 ### [Squashing Commits](squashing-commits.md)
 This document provides information about how to squash commits with an interactive rebase.
-> Use this if you want to open a PR in an open source project and the reviewer asks you to squash every commit into one, with an informative commit message.
+> Use this if you want to open a PR in an Open Source project and the reviewer asks you to squash every commit into one, with an informative commit message.
 
 ### [Undo-ing a local commit](undoing-a-commit.md)
-This document provides information about how to undo a commit on your local repository. This is what you need to do when you feel you've messed up your local repository and wish to reset the local repository.
+This document provides information about how to undo a commit to your local repository. This is what you need to do when you feel you've messed up your local repository and wish to reset the local repository.
 > Take these steps if you want to undo/reset a local commit.
 
 ### [Useful Links](Useful-links-for-further-learning.md)
 This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
-This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
+This document explains what a .gitignore file does, why to use it, and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
