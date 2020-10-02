@@ -11,6 +11,7 @@
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Ritvika Sonawane](https://github.com/alex-2410)
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
+- [Izzy Berzsenyi](https://github.com/isabellberzsenyi)
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
