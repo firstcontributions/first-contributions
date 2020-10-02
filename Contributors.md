@@ -63,6 +63,7 @@
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
 - Sreenidhi 
+- Zaidan Pratama
 - [Vishnu Vardhan Reddy Thokala] (https://github.com/VishnuThokala)
 - Vikrant Arora
 - Ragavi Murali
