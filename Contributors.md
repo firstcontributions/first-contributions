@@ -7,6 +7,7 @@
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Celia
+- Derryl Kevin Monis
 - [Liziane Felix](https://github.com/lizianefelix)
 - [Shruthi K] (https://github.com/shkundap)
 - [HeroCharge] (https://github.com/herocharge)
