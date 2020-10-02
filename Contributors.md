@@ -10,6 +10,7 @@
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
+- [Aishwarya rai] (https://github.com/Aishwarya713)
 - Celia
 - Derryl Kevin Monis
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
