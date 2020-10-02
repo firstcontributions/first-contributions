@@ -1,7 +1,9 @@
 # Contributors
 - [Sabrina Wong] (https://github.com/sabrinarwong)
+- [Joyce He](https://github.com/jjoycehe)
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
+- [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
@@ -109,6 +111,7 @@ Ayush Goyal
 mOrTaL💀
 - KhushiO BATRA
 - Amar kumar
+- Yash Lad
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
@@ -116,6 +119,7 @@ mOrTaL💀
 - Tushar Sardana
 - Bhaswati Boro
 - Rishin Pandit
+- Erik Espuñes
 - Shaanya Singh
   Keshav Kumar
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
@@ -403,6 +407,7 @@ mOrTaL💀
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 - [Kevin K Biju]
+-  [Jithin Jose] (https://github.com/defaultRectr0)
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
