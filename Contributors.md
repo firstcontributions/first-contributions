@@ -419,6 +419,7 @@ mOrTaL💀
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Arun Prabhakar T](https://github.com/arun-prabhakar)
 - [Liam Hayden](https://github.com/LiamHayden)
+- [Jessica Duell](https://github.com/jduell12)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
