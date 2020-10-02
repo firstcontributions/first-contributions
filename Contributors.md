@@ -1,5 +1,9 @@
 # Contributors
+- [MJ](https://github.com/speklet)
+- [Samantha Monteiro](https://github.com/samanthakem)
+- [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
+- [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
@@ -10,7 +14,9 @@
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Ritvika Sonawane](https://github.com/alex-2410)
+-[Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
+- [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
@@ -20,6 +26,7 @@
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
+- [Harsha Bhadra](https://github/harshabhadra)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
@@ -27,12 +34,15 @@
 - [Ayush Patel](https://www.github.com/ayushnpatel)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
+- Lemon Ruan
 - [Aishwarya rai] (https://github.com/Aishwarya713)
+-kemayakr
 - Celia
 - WD
   Adarsh Goyal
 - Derryl Kevin Monis
 - Lizard
+- Aditi Debnath
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - Anurag Mishra (https://github.com/i-anuragmishra)
 - [Ritesh Kumar] (https://github.com/Ritesh055)
@@ -44,6 +54,7 @@
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - Shaoni Dutta
 - Manuja
+- [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
 -[Drishti Agarwal](https://github.com/drishti-agarwal)
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
@@ -78,6 +89,7 @@
 - [Abhishek Rai](https://github.com/Abhishek172)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Hema A]  (https://github.com/a-hema)
+- [Krishna Maringanty] (https://github.com/KrishnaKavya)
 - Lorin Achey
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
@@ -97,6 +109,7 @@ Ayush Goyal
 mOrTaL💀
 - KhushiO BATRA
 - Amar kumar
+- Yash Lad
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
@@ -104,6 +117,7 @@ mOrTaL💀
 - Tushar Sardana
 - Bhaswati Boro
 - Rishin Pandit
+- Erik Espuñes
 - Shaanya Singh
   Keshav Kumar
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
@@ -198,6 +212,7 @@ mOrTaL💀
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
+- [Padmaja Madhavan](https://github.com/pmadhavan/)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
@@ -260,6 +275,7 @@ mOrTaL💀
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
+- [Ana Dias](https://github.com/baiana)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Murakiki](https://github.com/murakiki)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
@@ -389,6 +405,7 @@ mOrTaL💀
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 - [Kevin K Biju]
+-  [Jithin Jose] (https://github.com/defaultRectr0)
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
@@ -2364,6 +2381,7 @@ Keshav goel
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Rui Luís
+- Sarah
 - timamero
 - [Carlos Martins](https://github.com/luacmartins/)
 - Narendra Modi
@@ -5620,5 +5638,7 @@ Hirva  Shah
 - [Messy](https://github.com/messy98745)
 -[Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
+- [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
 - [Niku Letang](https://github.com/nikuletang)
+- [Aarti Bajaj](https://github.com/bajaj-aarti)
