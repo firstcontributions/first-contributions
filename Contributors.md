@@ -1,5 +1,5 @@
 # Contributors
--[Rehan Edin] (https://github.com/redin22)
+- [Rehan Edin] (https://github.com/redin22)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
