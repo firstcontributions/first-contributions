@@ -41,7 +41,7 @@ git branch AnyBranchName
 ```
 
 A new branch will be created named AnyBranchName and all the file changes in this branch will not be affected in the main branch.
-For detailed explanation refer [How to create branch]()
+For detailed explanation refer [How to create branch](https://www.atlassian.com/git/tutorials/using-branches)
 
 #### Delete the branch
 
