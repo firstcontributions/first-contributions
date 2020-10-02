@@ -4547,7 +4547,7 @@ Keshav goel
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Dillon Bendig](https://github.com/dbendig17)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
-- [Pratik](https://github.com/pratiksasmal)
+- [Pratik Sasmal](https://github.com/pratiksasmal)
 - PassionCracker
 - [Robert Flaherty](https://github.com/roberteflaherty)
 - [northerreese](https://github.com/northerreese)
