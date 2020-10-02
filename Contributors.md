@@ -5604,6 +5604,7 @@ Keshav goel
 - [David Ma](https://github.com/taikon)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
 - [Armin Zardkoohi](https://github.com/github-armin)
+- [Navpreet Kaur](https://github.com/gill-navpreet)
 - [Akshat Bhatnagar](https://github.com/akshat12000)
 - [Sripaad Srinivasan](https://github.com/Sripaad)
 - [Chandan Kumar](https://github.com/cksharma122)
