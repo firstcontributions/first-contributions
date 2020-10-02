@@ -5634,5 +5634,5 @@ Hirva  Shah
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
-- [Cassidy Schneider](https://github.com/cassidyschneider)
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
+- [Cassidy Schneider](https://github.com/cassidyschneider)
