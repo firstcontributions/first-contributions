@@ -1,6 +1,6 @@
 # Contributors
 - [Ko Junghwan] (https://github.com/kukuku0517)
--[himanshu singh (https://github.com/H321-ma)
+- [himanshu singh (https://github.com/H321-ma)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
@@ -10,6 +10,7 @@
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
+- [Sakshi Saxena](https://github.com/sakshisaxena12)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
 - Sejal Jain(https://github.com/sejaljain123)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
@@ -1122,6 +1123,7 @@ Sumit Sagar
 - [Mohamed Aziz THABET](https://github.com/ThabetAziz)
 - [John Janons]
 - [Mohit Kumar]
+- [Linda Hsu](https://github.com/Paddlepop25)
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
 - [Ayoub El Hayat](https://github.com/ser14joker)
@@ -5588,3 +5590,5 @@ Hirva  Shah
 - [Aishwarya Maggi](https://github.com/AishwaryaMaggi)
 - [Matt Lazana](https://github.com/freder2002)
 - [Virat Kohli](https://github.com/vkohil123987)
+- [Pratik Morve](https://github.com/pratikmorve)
+- [Alan Mathew](https://github.com/alanmatw)
