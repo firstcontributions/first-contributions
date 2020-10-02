@@ -243,6 +243,7 @@ mOrTaL💀
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
+- [Martin Hoffmann](https://github.com/martinh-dev)
 - [Serena Wang] 
 - [Sarah Yap](https://github.com/skyuanow) 
 - [Tyson Swords](https://github.com/Zeeennnyyy) 
