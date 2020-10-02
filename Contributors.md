@@ -241,6 +241,7 @@ mOrTaL💀
 - [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [Yash Shukla](https://github.com/Yash1256)
+- [Rocio Bruna](https://github.com/RocioBruna)
 - [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
 - [Jitender Pal Singh] (https://github.com/jitender24)
 - [James Dobbe](https://github.com/dobbe2)
