@@ -29,6 +29,7 @@
 - Celia
   Adarsh Goyal
 - Derryl Kevin Monis
+- Lizard
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - Anurag Mishra (https://github.com/i-anuragmishra)
 - [Ritesh Kumar] (https://github.com/Ritesh055)
