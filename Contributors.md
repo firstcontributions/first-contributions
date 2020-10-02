@@ -157,6 +157,7 @@ mOrTaL💀
 - [Viswanath Natraj](https://github.com/viswa08)
 - [Andy Huang] (https://github.com/andyhuang3)
 - [Quack Jack](https://github.com/quackjack)
+- [Patbsh] (https://github.com/patbsh)
 - [Mayank Jain](https://github.com/mayankjain985)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Sam Jackhole](https://github.com/samjackhole)
