@@ -5553,6 +5553,8 @@ Keshav goel
 - [Théo Migeat](https://github.com/STM3900)
 - [Nicolas Cheng](https://github.com/nicolakacha)
 - [Chetan Bansal](https://github.com/Chetan8462)
+- [Sparsh Jain](https://github.com/SparshJain2000)
+- [Blazej Siejek](https://github.com/mrsiejas)
 - [Blazej Siejek](https://github.com/mrsiejas)
 - [Deepti](https://github.com/deepti23-web)
 - [Piyush Gahoi](https://github.com/PiyushGahoi)
