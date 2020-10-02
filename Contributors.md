@@ -3409,6 +3409,7 @@ Keshav goel
 - [Deven Patnaik](https://github.com/devennpatnaik)
 - [Jacob Vanmeter](https://github.com/unroasted)
 - [Joshua Cook](https://github.com/jdcook3)
+- [Amin Tai] (https://github.com/amintai)
 - [Rafael Rubia](https://github.com/rafaelrubia)
 - [Max Rumford](https://github.com/Blitzableiter)
 - [Vishal Gole](https://github.com/golevishal)
