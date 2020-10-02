@@ -47,7 +47,7 @@ Entra nella directory della repository (se non lo hai già fatto):
 ```
 cd first-contributions
 ```
-Ora crea un branch usando il comando `git checkout`:
+Ora crea un branch usando il comando `git checkout -b`:
 ```
 git checkout -b <aggiungi-il-tuo-nome>
 ```
@@ -56,7 +56,7 @@ Ad esempio:
 ```
 git checkout -b aggiungi-alonzo-church
 ```
-(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista.)
+(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. Lo scopro di nominare un branch è descrivere le modifiche che andremo ad effettuare.)
 
 ## Fai le modifiche necessarie e crea un commit
 
@@ -102,7 +102,7 @@ Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di
 
 ## E ora?
 
-Potresti anche unirti alla nostra squadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Unisciti alla nostra squadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. Proveremo ad aiutarti! [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Qui sotto puoi trovare delle repo popolari dove cercare problemi semplici da cui partire. Continua nelle repo per imparare di più
 
