@@ -1,4 +1,5 @@
 # Contributors
+- [Diana Cheng] (https://github.com/dianache4685)
 - [Joyce He](https://github.com/jjoycehe)
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
