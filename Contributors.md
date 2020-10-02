@@ -95,6 +95,7 @@ mOrTaL💀
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
 - Lucas Damasceno
 - [Lucas Moreno](https://github.com/morecoda)
+- [Viswanath Natraj](https://github.com/viswa08)
 - [Andy Huang] (https://github.com/andyhuang3)
 - [Quack Jack](https://github.com/quackjack)
 - [Mayank Jain](https://github.com/mayankjain985)
