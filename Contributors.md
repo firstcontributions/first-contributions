@@ -13,6 +13,7 @@
 - [Divya Varshini](https://github.com/divyavarshini)
 - [Leo Humphreys](https://github.com/Hubbit200)
 - Shaoni Dutta
+- [Nancy Lambert] (https://github.com/n-lambert)
 - [Abhinav Shukla] (https://github.com/AbsMechanik)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
