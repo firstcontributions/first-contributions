@@ -33,6 +33,7 @@
 - [Hema A]  (https://github.com/a-hema)
 - Lorin Achey
 - Tanmay Arora
+- Vikrant Arora
 - Ragavi Murali
 - Tim Peng (https://github.com/typg93)
 - M007RA
