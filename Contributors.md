@@ -1,6 +1,7 @@
 # Contributors
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
+- Kapil Singh Negi
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
@@ -48,6 +49,7 @@
 - [Agrim Bansal](https://github.com/Agrim-Bansal)
 - TrueHighGrade
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
+- [Rishu Kumar](https://github.com/Logan7282)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
 - [Dipin Garg](https://github.com/dgargdipin)
@@ -5592,3 +5594,6 @@ Hirva  Shah
 - [Pratik Morve](https://github.com/pratikmorve)
 - [Alan Mathew](https://github.com/alanmatw)
 - [Harald Steinmueller](https://github.com/hsteinmueller)
+- [Rohit Sharma](https://github.com/rssharma9876)
+- [MS Dhoni](https://github.com/msdhonigit1234)
+- [Messy](https://github.com/messy98745)
