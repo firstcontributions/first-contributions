@@ -116,6 +116,7 @@ mOrTaL💀
 - Tushar Sardana
 - Bhaswati Boro
 - Rishin Pandit
+- Erik Espuñes
 - Shaanya Singh
   Keshav Kumar
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
