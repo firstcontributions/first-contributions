@@ -5603,6 +5603,7 @@ Keshav goel
 - [David Ma](https://github.com/taikon)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
 - [Armin Zardkoohi](https://github.com/github-armin)
+- [Deepak Podili Devendra](https://github.com/odin47)
 - [Navpreet Kaur](https://github.com/gill-navpreet)
 - [Akshat Bhatnagar](https://github.com/akshat12000)
 - [Sripaad Srinivasan](https://github.com/Sripaad)
