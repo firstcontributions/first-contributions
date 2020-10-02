@@ -5711,3 +5711,4 @@ Hirva  Shah
 - [Tiago Barros] (https://github.com/tiagobpires)
 - [Marvin Javier] (https://github.com/mjavier2k)
 - [Himanshu] (https://github.com/him2016)
+- [Noah Kennedy] (https://github.com/nakennedy11)
