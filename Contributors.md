@@ -34,6 +34,7 @@
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Lemon Ruan
+- [Emma Brown](https://github.com/nworb95)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 -kemayakr
 - Celia
