@@ -50,6 +50,7 @@ mOrTaL💀
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Parth Lawania](https://github.com/parthlaw)
+- [Katie Cussans](https://github.com/Kat-lc)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Ketan Patel] (https://github.com/kpatel2000)
