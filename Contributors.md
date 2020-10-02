@@ -417,6 +417,7 @@ mOrTaL💀
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
 - [Madhav Sodhani](https://github.com/madhav2302)
+- [Ritwik Goel](https://github.com/ritwikgoel)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Isa Faulifa](https://github.com/isafaulifa)
 - [Archit Khanna](https://github.com/architectual)
