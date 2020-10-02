@@ -2396,6 +2396,7 @@ Keshav goel
 - [Christoph Weise-Onnen](https://github.com/cweise)
 - [Goutami Padmanabhan](https://github.com/goutamiiyer/)
 - [Rafael Rodero](https://github.com/rrodero83/)
+- [Armendra Dahal](https://github.com/armendradahal)
 - Costea Ionut-Andrei
 - Mathias
 - alti12
