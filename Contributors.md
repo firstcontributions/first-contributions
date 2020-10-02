@@ -18,6 +18,7 @@
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [cshankerj] (https://github.com/cshankerj)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
+-[Reyna Zaru](https://github.com/reynazee)
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
@@ -47,6 +48,7 @@ mOrTaL💀
 - Sahil Dhingra
 - Baani Dhingra
   Keshav Kumar
+- [Abinash Mishra](https://github.com/IIAbinashMishraII)
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
@@ -716,6 +718,7 @@ Sumit Sagar
 - [Surya Vamsi](https://github.com/suryavamsi6)
 - [Ikeh Akinyemi](https://github.com/IkehAkinyemi)
 - [Sonu kumar kushwaha](https://github.com/flyingsonu122)
+- [Utkarsh Agnihotri](https://github.com/utkhagni13)
 - [Yash Gupta](https://github.com/yashgupta18)
 - [Praveen Kakumanu](https://github.com/praveenkakumanu)
 - [Ananya Banerjee](https://github.com/AnanyaBanerjee)
@@ -5487,4 +5490,5 @@ Hirva  Shah
 - [Lav Senghani](https://github.com/lavlife06)
 - [Devon Fazekas](https://github.com/FazekasDevon96)
 - [bharat jadhav](https://github.com/bharatjadhav)
+- [Pranav Sivvam](https://github.com/vulf)
 
