@@ -912,6 +912,7 @@ Sumit Sagar
 - [keer4n](https://github.com/keer4n)
 - [Ásbjörn Skarphéðinsson](http://github.com/AsiSkarp)
 - [Unggul Hasan (Arjuna Risang)](https://github.com/arjunarisang)
+- [Venkata Raman](https://github.com/venkataraman123)
 - [pranjalshinde](https://github.com/pranjalshinde)
 - [Tomomi Iwamoto](https://github.com/tomi-design)
 - [Teal Larson](https://github.com/tealjulia)
