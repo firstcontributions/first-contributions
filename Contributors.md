@@ -2,6 +2,7 @@
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Celia
+- Jai Solanki
 - [Liziane Felix](https://github.com/lizianefelix)
 - [Shruthi K] (https://github.com/shkundap)
 - [Divya Varshini](https://github.com/divyavarshini)
