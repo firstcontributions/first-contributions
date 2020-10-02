@@ -4,6 +4,7 @@
 - [Jck](https://github.com/ashujack)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Divya Gupta](https://github/DivyaGupta4)
+- [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
