@@ -1,7 +1,12 @@
 # Contributors
 - [KC] (https://github.com/kamsci)
+- [Diana Cheng] (https://github.com/dianache4685)
+- [Joyce He](https://github.com/jjoycehe)
+- [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
+- [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
+- [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
@@ -32,12 +37,16 @@
 - [Ayush Patel](https://www.github.com/ayushnpatel)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
+- Lemon Ruan
+- [Emma Brown](https://github.com/nworb95)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
+-kemayakr
 - Celia
 - WD
   Adarsh Goyal
 - Derryl Kevin Monis
 - Lizard
+- Aditi Debnath
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - Anurag Mishra (https://github.com/i-anuragmishra)
 - [Ritesh Kumar] (https://github.com/Ritesh055)
@@ -104,6 +113,7 @@ Ayush Goyal
 mOrTaL💀
 - KhushiO BATRA
 - Amar kumar
+- Yash Lad
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
@@ -111,6 +121,7 @@ mOrTaL💀
 - Tushar Sardana
 - Bhaswati Boro
 - Rishin Pandit
+- Erik Espuñes
 - Shaanya Singh
   Keshav Kumar
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
@@ -205,6 +216,7 @@ mOrTaL💀
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
+- [Padmaja Madhavan](https://github.com/pmadhavan/)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
@@ -397,6 +409,7 @@ mOrTaL💀
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 - [Kevin K Biju]
+-  [Jithin Jose] (https://github.com/defaultRectr0)
 -[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
@@ -1167,6 +1180,7 @@ Sumit Sagar
 - [Yusuf Ogunjobi](https://github.com/pacesetterplus/)
 - [Erika Klink](https://github.com/Erika-Klink)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
+- Dhivya
 - [KaanGaming](https://github.com/KaanGaming)
 - [Ayushman Mishra](https://github.com/chetak123)
 - [Ryan Mac](https://github.com/r-mac)
