@@ -2325,6 +2325,7 @@ Sumit Sagar
 - [Sulthan Mohaideen](https://github.com/SulthanNK)
 - [Mikaela Gurney](https://github.com/Mikaelia)
 - [Zainab Abubakar](https://github.com/zaycodes)
+- Sarthak Jha
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
 - [Annet Tomcy](https://github.com/annettomcy)
