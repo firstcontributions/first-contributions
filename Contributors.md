@@ -21,6 +21,7 @@
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
+- [Harsha Bhadra](https://github/harshabhadra)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
