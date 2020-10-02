@@ -42,6 +42,7 @@
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - Shaoni Dutta
 - Manuja
+- Manu Shaurya (https://github.com/manushaurya)
 -[Drishti Agarwal](https://github.com/drishti-agarwal)
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
 - [Sandip Baidya](https://github.com/sandip-baidya)
