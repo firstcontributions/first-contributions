@@ -2117,6 +2117,7 @@ Sumit Sagar
 - Abah Gift
 - [Michael Acolatse](https://github.com/mikeaco)
 - Babyhulk66
+- [Jian Yeung](https://github.com/yjian160)
 - [Divisha Gupta](https://github.com/divishagupta99)
 - [kafooo](https://github.com/kafooo)
 - Francisco Javier Olmos
