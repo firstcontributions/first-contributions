@@ -42,6 +42,7 @@
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
+- [Dipin Garg](https://github.com/dgargdipin)
 - [Jamie Tan](https://github.com/jlt10)
 - [Abhinav Jonnada](https://github.com/abhinavjonnada82)
 - [Rachel Quan] (https://github.com/rachelquan)
