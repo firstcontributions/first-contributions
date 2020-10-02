@@ -18,6 +18,7 @@
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 - Celia
+- [Krishna Mishra] (https://github.com/Krishna-Mishra/)
 - Derryl Kevin Monis
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - Anurag Mishra (https://github.com/i-anuragmishra)
