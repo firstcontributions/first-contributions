@@ -3,7 +3,6 @@
 -[Ashutosh Dixit](https;//github.com/Di-ashX)
 -[Animish Pande](https://github.com/animishpande)
 -[Ankita Singhal](https://github.com/sankita11)
--[Diksha Dixit](https://github.com/diksha0399)
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
@@ -113,6 +112,7 @@
 - [Vladislav Semkin](https://github.com/vasemkin)
 - [Sakshi kumari](https://github.com/sakshi-06)
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
+- [Diksha Dixit](https://github.com/diksha0399)
 - [Robin Trumpie](https://github.com/rtrumpie)
 - [Atishaye Jain](https://github.com/atishaye)
 - [Apoorv Priyadarsh](https://github.com/apoorv-tech)
