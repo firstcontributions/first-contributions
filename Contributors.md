@@ -91,6 +91,7 @@ mOrTaL💀
 - [Atharva Gulhane](https://github.com/atharvarockx)
 [Muskan Agarwal](https://github.com/musk101)
 -[Shubham Singh](https://github.com/shubhamcodez)
+- [Thiago Takehana](https://github.com/thiagotakehana)
 - [Apleht](https://github.com/apleht)
 - [VivekSharma](https://github.com/viveksharma2382000)
 - [Ujjwal](https://github.com/Ujjwal3009)
