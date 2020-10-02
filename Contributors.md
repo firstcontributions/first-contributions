@@ -16,6 +16,7 @@
 - [Jenndroid](https://github.com/jenndroid)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
+- [Nada Farook] (https://github.com/nada1619)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Abhishek Ahirrao] (https://github.com/colmeabhi)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
