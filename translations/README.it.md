@@ -56,7 +56,8 @@ Ad esempio:
 ```
 git checkout -b aggiungi-alonzo-church
 ```
-(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. Lo scopro di nominare un branch è descrivere le modifiche che andremo ad effettuare.)
+(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. 
+Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettuare, il nome deve essere quindi descrittivo e non generale per facilitare il team con cui si collabora.)
 
 ## Fai le modifiche necessarie e crea un commit
 

@@ -309,6 +309,7 @@ mOrTaL💀
 - [Tommy Deliso](https://github.com/tdeliso)
 - [Mandeep Singh](https://github.com/deepsingh132)
 - [Harsh Soni] (https://github.com/harsh-dynasty)
+- [saribricka](https://github.com/saribricka)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [BalaGanesh Meyyappan] (https://github.com/bala0406)
 - [SHUBHAM RAI]
