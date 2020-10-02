@@ -1,4 +1,3 @@
-# Contributor
 # Contributors
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
