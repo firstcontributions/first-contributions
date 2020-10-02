@@ -5628,6 +5628,7 @@ Keshav goel
 - [Hemshree](https://github.com/Hemshree)
 - [mgs salim](https://github.com/wongpenghong)
 - [Kasun Hewagama](https://github.com/KasunHewagama)
+- [Moritz Stüve](https://github.com/mostueve)
 - [Shivam Raj](https://github.com/nullcoder08)
 - [Raman Sharma](https://github.com/creativefisher)
 - [Mihir Soni](https://github.com/mihirsoni826)
