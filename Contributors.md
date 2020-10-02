@@ -73,6 +73,7 @@ mOrTaL💀
 - Tejas Dehra
 - Sahil Dhingra
 - Baani Dhingra
+- Tushar Sardana
 - Rishin Pandit
 - Shaanya Singh
   Keshav Kumar
