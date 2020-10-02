@@ -5466,3 +5466,4 @@ Hirva  Shah
 - [Aman Mahajan](https://github.com/amanmj)
 - [Adriana Chavez](https://github.com/achavez8)
 - [Victoria Ubaldo] (https://github.com/vikyale)
+- [Leonardo Bonetti] (https://github.com/LeonardoBonetti)
