@@ -26,6 +26,7 @@
 - [HeroCharge] (https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
 - [Leo Humphreys](https://github.com/Hubbit200)
+- [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - Shaoni Dutta
 - Manuja
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
