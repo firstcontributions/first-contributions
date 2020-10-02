@@ -55,7 +55,7 @@ Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [🇵🇭](translations/README.tl.md)
 [🇿🇦](translations/README.zul.md)
@@ -67,7 +67,7 @@ Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u
 
 
 
-<img align="right" width="300" src="assets/fork.png" alt="Napravite fork repozitorijuma" />
+<img align="right" width="300" src="../assets/fork.png" alt="Napravite fork repozitorijuma" />
 
 Ukoliko nemati git instaliran na vašoj mašini, [instalirajte ga ovde]( https://help.github.com/articles/set-up-git/).
 
@@ -77,7 +77,7 @@ Napravite račvanje (fork) tako što ćete kliknuti na dugme *fork* na vrhu stra
 
 ## Klonirajte repozitorijum
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Sledeće, klonirajte repozitorijum koji ste prethodno račvali. Posetite svoj GitHub profil, otvorite repozitorijum koji ste račvali, kliknite na *clone* dugme i kliknite na ikonicu *copy to clipboard*.
 
@@ -88,7 +88,7 @@ git clone "url you just copied"
 ```
 Umesto "url you just copied" (bez navodnika i razmaka) upišite url repozitorijuma koji ste kopirali u prethodnom koraku.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Na primer:
 ```
@@ -117,7 +117,7 @@ git checkout -b add-alonzo-church
 
 Otvorite `Contributors.md` fajl u tekst editoru i dodajte vaše ime. Nemojte dodavati ime na sam početak ili kraj. Stavite ga negde u sredinu. Potom sačuvajte fajl.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 Ukoliko odete u radni direktorijum i izvršite komandu `git status`,primetićete da postoje promene.
 
@@ -145,11 +145,11 @@ gde umesto `<add-your-branch-name>` stavljate ime vašeg grananja.
 
 Ukoliko odete na repoyitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 a potom pošaljite zahtev klikom na dugme *submit*.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Nakon toga, ja ću spojiti promene koje ste napravili sa master granom projekta. Dobićete mejl potvrde kada se grane spoje.
 
@@ -165,9 +165,8 @@ A sada, možemo početi sa doprinosima drugim projektima. Napravili smo spisak p
 
 ### [Dodatni materijali](../additional-material/git_workflow_scenarios/additional-material.md)
 
-
 ## Uputstva za druge alate
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
+|[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)|
