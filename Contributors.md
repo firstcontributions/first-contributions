@@ -20,6 +20,7 @@
 - Derryl Kevin Monis
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - Anurag Mishra (https://github.com/i-anuragmishra)
+- [Ritesh Kumar] (https://github.com/Ritesh055)
 - [Shruthi K] (https://github.com/shkundap)
 - [HeroCharge] (https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
