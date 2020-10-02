@@ -70,6 +70,7 @@ mOrTaL💀
 - [Lucas Moreno](https://github.com/morecoda)
 - [Mayank Jain](https://github.com/mayankjain985)
 - [Meekha E Saji](https://github.com/meekhasaji)
+- [Sam Jackhole](https://github.com/samjackhole)
 - [Mandi Gunningham](https://github.com/mgunningham1014)
 - [Parth Lawania](https://github.com/parthlaw)
 - [Gerardo Ruiz Jr](https://github.com/gruiz78)
