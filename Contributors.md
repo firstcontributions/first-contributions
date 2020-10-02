@@ -1,7 +1,6 @@
 # Contributors
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
-- Kapil Singh Negi
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
@@ -5596,3 +5595,5 @@ Hirva  Shah
 - [Rohit Sharma](https://github.com/rssharma9876)
 - [MS Dhoni](https://github.com/msdhonigit1234)
 - [Messy](https://github.com/messy98745)
+- [Ravi Rampaul](https://github.com/raviramp20755)
+- [Jeevan Mendis](https://github.com/jeevanmendis238756)
