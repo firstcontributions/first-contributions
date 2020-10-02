@@ -85,6 +85,7 @@ mOrTaL💀
 - Sahil Dhingra
 - Baani Dhingra
 - Tushar Sardana
+- Bhaswati Boro
 - Rishin Pandit
 - Shaanya Singh
   Keshav Kumar
