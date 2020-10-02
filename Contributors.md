@@ -66,6 +66,7 @@ mOrTaL💀
 - [Parth Lawania](https://github.com/parthlaw)
 - [Gerardo Ruiz Jr](https://github.com/gruiz78)
 - [Katie Cussans](https://github.com/Kat-lc)
+- [Vyomaan Dave] (https://github.com/VyomaanDave0711)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Ketan Patel] (https://github.com/kpatel2000)
