@@ -1,6 +1,6 @@
 # Contributors
 - [Vanessa Yu] (https://github.com/vanessayu19)
-[Ko Junghwan] (https://github.com/kukuku0517)
+- [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
