@@ -1,4 +1,5 @@
 # Contributors
+- [Bettina] (https://github.com/bettina-king-smith)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
@@ -5621,4 +5622,3 @@ Hirva  Shah
 -[Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
-- [Bettina King-Smith] (https://github.com/bettina-king-smith)
