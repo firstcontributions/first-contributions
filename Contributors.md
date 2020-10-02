@@ -70,6 +70,7 @@ mOrTaL💀
 - [Rebecca Yang](https://github.com/RebeccaYang0124)
 - Lucas Damasceno
 - [Lucas Moreno](https://github.com/morecoda)
+- [Andy Huang] (https://github.com/andyhuang3)
 - [Quack Jack](https://github.com/quackjack)
 - [Mayank Jain](https://github.com/mayankjain985)
 - [Meekha E Saji](https://github.com/meekhasaji)
