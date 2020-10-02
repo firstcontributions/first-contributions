@@ -1,9 +1,11 @@
 # Contributors
 
 - [Disha Koul](https://github.com/dkoul818)
+- [Hasan Haider](https://github.com/hasan-haider)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Diana Cheng] (https://github.com/dianache4685)
+- [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
@@ -12,6 +14,7 @@
 - [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
+- [Jenndroid](https://github.com/jenndroid)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
@@ -164,6 +167,7 @@ mOrTaL💀
 - [Carlos Cornejo](https://github.com/carloantoniocc) 
 - [Laurel Verma](https://github.com/1laurelverma)
 - [Swayam Kaul](https://github.com/swayamkaul)
+- [GodSaveTheDoge](https://github.com/GodSaveTheDoge)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
 - [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
 - [Kishan Kumar](https://github.com/kishankrs)
@@ -344,6 +348,7 @@ mOrTaL💀
 - [Priya Agarwal](https://github.com/Priya2501)
 - [Danny Reina](https://github.com/dannyflatiron)
 - [Ankita Singhal](https://github.com/sankita11)
+- KamalSagar
 - [Elizabeth Wiggins]
 - [Chamodi Thennakoon](https://github.com/chamodit)
 - [Tommy Deliso](https://github.com/tdeliso)
@@ -5653,3 +5658,5 @@ Hirva  Shah
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
 - [Muhsin shah](https://github.com/shah21)
 - [Lakshmipriya](https://github.com/lakshmipriyamukundan)
+- [Neeru Mahesh](https://github.com/NeeruMahesh)
+- [Tiago Barros] (https://github.com/tiagobpires)
