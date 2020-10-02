@@ -1522,6 +1522,7 @@ Sumit Sagar
 - [Manuel Papa](https://github.com/manuelpapa)
 - [AbhipsaGuru1012](https://github.com/AbhipsaGuru1012)
 - [Shivam Singla](https://github.com/shivam7374)
+- [Kai Roper-Blackman](https://github.com/kairb)
 - [Rumit Tandukar](https://github.com/rumit0270)
 - [Akil Mahmod Tipu](httpss://github.com/akiltipu)
 - [Ingrid Carlson](https://github.com/ingridclaire)
