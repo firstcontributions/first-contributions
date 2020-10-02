@@ -5447,6 +5447,7 @@ Keshav goel
 - [Oriol Canades](https://github.com/ocanades)
 - [Captone Habiyaremye] (https://github.com/Liopun)
 - [Belch](https://github.com/gutchaman)
+- Syed Zubeen Qadry
 - [Jared Grimes](https://github.com/devjared1)
 - [David Manitarellis](https://github.com/Davidmh93)
 - [Andrew Dinh](https://github.com/quyctd)
