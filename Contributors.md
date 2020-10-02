@@ -67,6 +67,7 @@
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Hema A]  (https://github.com/a-hema)
 - Lorin Achey
+- Arpit Pawar
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
 - Sreenidhi 
