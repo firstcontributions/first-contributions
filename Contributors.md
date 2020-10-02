@@ -1610,6 +1610,7 @@ Sumit Sagar
 - [Ajinkya Brahmankar](https://github.com/ajinkyabrahmankar)
 - Samruddhi Padture
 - [Chad Stucki](https://github.com/chadstucki)
+- [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Marc Simon](https://github.com/msimon23)
 - [Brian Reed](https://github.com/BRReed)
 - Git Goode
@@ -2165,6 +2166,7 @@ Sumit Sagar
 - [Karobwe](https://github.com/Karobwe)
 - [halo42](https://github.com/halo42)
 - motr528
+- [Nitin Dixit](https://github.com/nitinajaydixit)
 - Hope T
 - [:) Angelica Jones :)](https://github.com/anjones1000)
 - [Sean Justice](https://github.com/scjustice)
@@ -3288,6 +3290,7 @@ Keshav goel
 - [Justin Do](https://github.com/justinkhado)
 - [DCSnial](https://github.com/wangyanchang21)
 - [Erin Cho](https://github.com/erin-cho)
+- [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Pawan Yadav](https://github.com/pawanraocse)
 - [Travis Appel](https://github.com/tlappel)
 - [Matthew Tatum](https://github.com/matttatum97)
