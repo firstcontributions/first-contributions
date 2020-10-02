@@ -304,6 +304,7 @@ mOrTaL💀
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
+- [Serena Wang]
 - [Martin Hoffmann](https://github.com/martinh-dev)
 - [Serena Wang] 
 - [Sarah Yap](https://github.com/skyuanow)
@@ -5587,6 +5588,7 @@ Keshav goel
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Agung Leksono](https://github.com/agungleksono)
+- [David Ma](https://github.com/taikon)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
 - [Armin Zardkoohi](https://github.com/github-armin)
 - [Akshat Bhatnagar](https://github.com/akshat12000)
