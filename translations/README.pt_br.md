@@ -9,7 +9,11 @@
 
 Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente pôr a mão na massa em um ambiente prático? Este projeto visa guiar e simplificar a forma com que os novatos fazem a sua primeira contribuição. Se quiser fazer a sua primeira contribuição, siga os passos abaixo.
 
+<<<<<<< HEAD
 #### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #tutoriais-com-outras-ferramentas)*
+=======
+#### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #Tutoriais-usando-outras-ferramentas)*
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 
 #### *Ler em [outros idiomas](../translations/Translations.md)* 

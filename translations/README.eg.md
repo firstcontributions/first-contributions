@@ -37,7 +37,11 @@
 
 <div dir="rtl">
 انسخ المشروع دة لجهازك.
+<<<<<<< HEAD
 اضغط Clone بعدين دوس على أيقونة Copy to clipboard
+=======
+دوس على Clone بعدين دوس على أيقونة Copy to clipboard
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 </div>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
@@ -48,7 +52,11 @@
 git clone "url you just copied"
 ```
 
+<<<<<<< HEAD
 <div dir="rtl">بدل "url you just copied" حط الرابط اللي نسخته من الخطوة اللي فاتت، الرابط دة بتاع المشروع اللي على حسابك فى github.</div>
+=======
+<div dir="rtl">بدل "url you just copied" حط الرابط اللي نسخته من الخطوة اللي فاتت، الرابط دة بتاع المشروع.</div>
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 <div dir="rtl">على سبيل المثال:</div>
 
@@ -57,7 +65,11 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 <div dir="rtl">
+<<<<<<< HEAD
 في هذا المثال دة لاحظ ان 'this-is-you' هيكون إسم حسابك في موقع github، الأمر دة هينسخ محتويات المشروع لجهازك الخاص عشان تقدر تعدل عليه بحرية في أي وقت.
+=======
+في المثال دة لاحظ ان 'this-is-you' هيكون إسم حسابك في موقع github، الأمر دة هينسخ محتويات المشروع لجهازك الخاص عشان تقدر تعدل عليه بحرية في أي وقت.
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 </div>
 <br>
 
@@ -152,6 +164,10 @@ git push origin "add-your-name"
 
 ## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
 
+<<<<<<< HEAD
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+=======
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|

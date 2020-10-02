@@ -174,6 +174,7 @@ Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji msaada wowote au una masw
 
 Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya miradi na masuala rahisi unaweza kuanza. Angalia [orodha ya miradi katika programu ya wavuti](https://roshanjossey.github.io/first-contributions/#project-list).
 
+<<<<<<< HEAD
 ### [Vifaa vingine](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
@@ -181,3 +182,12 @@ Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+=======
+### [Nyenzo za ziada](../additional-material/git_workflow_scenarios/additional-material.md)
+
+## Mafundisho Kutumia Zana Zingine
+
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9

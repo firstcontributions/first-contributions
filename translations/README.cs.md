@@ -25,9 +25,15 @@ Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, j
 
 <img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
 
+<<<<<<< HEAD
 Nyní nakolujte (anglicky *clone*) forknutý repozitář na váš počítač, nakolování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
 Teď otevřte terminál a spusťte následující příkaz:
+=======
+Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
+
+Teď otevřete terminál a spusťte následující příkaz:
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 ```
 git clone "url které jste právě zkopírovali"
@@ -79,7 +85,11 @@ Tyto změny do dané větvě přidáte příkazem `git add`:
 git add Contributors.md
 ```
 
+<<<<<<< HEAD
 Zbýva je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
+=======
+Zbývá už jen potvrdit (anglicky *commit*) změny příkazem `git commit`:
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 ```
 git commit -m "Add <vase-jmeno> to Contributors list"
@@ -105,7 +115,11 @@ Teď vytvořte žádost o přetažení vaší větve do originálního repozitá
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="potvrďte pull request" />
 
+<<<<<<< HEAD
 Brzy budu provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
+=======
+Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 ## Kam dále?
 
@@ -113,16 +127,30 @@ Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ pr
 
 Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://roshanjossey.github.io/first-contributions/#social-share).
 
+<<<<<<< HEAD
 V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu]https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Další materiály](additional-material/git_workflow_scenarios/additional-material.md)
+=======
+V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
+
+### [Další materiály](../additional-material/git_workflow_scenarios/additional-material.md)
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 
 ## Návod za použití dalších nástrojů
 
+<<<<<<< HEAD
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+=======
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 

@@ -38,7 +38,11 @@ Bijvoorbeeld:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+<<<<<<< HEAD
 Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op GitHub naar je systeem.
+=======
+Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je de inhoud van de first-contributions repo op GitHub naar je systeem.
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 
 ## Een branch aanmaken
 
@@ -118,7 +122,11 @@ Merk op dat je in dit geval pusht naar de remote met de naam origin.
 
 ## Tutorials gebruiken Andere hulpmiddelen
 
+<<<<<<< HEAD
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+=======
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+>>>>>>> 612d3e442d0fc58798730e2b8c6e3623eabc13d9
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
