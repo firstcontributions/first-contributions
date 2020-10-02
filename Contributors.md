@@ -1,4 +1,5 @@
 # Contributors
+- [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Jck](https://github.com/ashujack)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
