@@ -1,4 +1,5 @@
 # Contributors
+- [Hasan Haider](https://github.com/hasan-haider)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Diana Cheng] (https://github.com/dianache4685)
