@@ -5493,3 +5493,4 @@ Hirva  Shah
 - [Lav Senghani](https://github.com/lavlife06)
 - [Devon Fazekas](https://github.com/FazekasDevon96)
 - [Pranav Sivvam](https://github.com/vulf)
+- [Yash Upadhyay](https://github.com/yashupadhyay101)
