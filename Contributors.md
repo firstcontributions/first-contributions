@@ -116,6 +116,7 @@ mOrTaL💀
 - [Anand kumar](http://github.com/anand522)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
+- [Nalin Bhargava](https://github.com/nalin12345)
 - [Joe Giuffrida](https://github.com/joegiuffrida)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Omkar Nehete] (https://github.com/OmkarNehete)
