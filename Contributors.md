@@ -1,6 +1,7 @@
 # Contributors
 
 - [Disha Koul](https://github.com/dkoul818)
+- [Diana Cheng] (https://github.com/dianache4685)
 - [Joyce He](https://github.com/jjoycehe)
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
@@ -38,6 +39,7 @@
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Lemon Ruan
+- [Emma Brown](https://github.com/nworb95)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 -kemayakr
 - Celia
@@ -1179,6 +1181,7 @@ Sumit Sagar
 - [Yusuf Ogunjobi](https://github.com/pacesetterplus/)
 - [Erika Klink](https://github.com/Erika-Klink)
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
+- Dhivya
 - [KaanGaming](https://github.com/KaanGaming)
 - [Ayushman Mishra](https://github.com/chetak123)
 - [Ryan Mac](https://github.com/r-mac)
