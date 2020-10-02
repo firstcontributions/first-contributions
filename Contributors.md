@@ -10,6 +10,7 @@
 - [Brad Wong](https://github.com/bradmwong)
 - [Jck](https://github.com/ashujack)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
+- Sejal Jain(https://github.com/sejaljain123)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
