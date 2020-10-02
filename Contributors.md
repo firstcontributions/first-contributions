@@ -23,6 +23,7 @@ Ayush Goyal
 - Tejas Dehra
 - Sahil Dhingra
 - Baani Dhingra
+- Dhivya
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
