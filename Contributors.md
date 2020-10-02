@@ -48,7 +48,6 @@ mOrTaL💀
 - Sahil Dhingra
 - Baani Dhingra
   Keshav Kumar
-- [Abinash Mishra](https://github.com/IIAbinashMishraII)
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
@@ -270,6 +269,7 @@ mOrTaL💀
 - [Anders Djursaa](https://github.com/adjuc)
 - Praveen Raj
 - Simon Hanrath
+- Tuneer Upadhyay
 - Hemanth Reddy
 - [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
@@ -5489,4 +5489,3 @@ Hirva  Shah
 - [Vedant Satpute](https://github.com/vicinalv)
 - [Lav Senghani](https://github.com/lavlife06)
 - [Devon Fazekas](https://github.com/FazekasDevon96)
-- [Pranav Sivvam](https://github.com/vulf)
