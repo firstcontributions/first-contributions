@@ -1,6 +1,8 @@
 # Contributors
 - [Saccha Agriel] (https://github.com/sacchaagriel)
+- [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
+- [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
@@ -115,6 +117,7 @@ mOrTaL💀
 - Tushar Sardana
 - Bhaswati Boro
 - Rishin Pandit
+- Erik Espuñes
 - Shaanya Singh
   Keshav Kumar
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
@@ -209,6 +212,7 @@ mOrTaL💀
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
+- [Padmaja Madhavan](https://github.com/pmadhavan/)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
