@@ -69,6 +69,7 @@ mOrTaL💀
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Ketan Patel] (https://github.com/kpatel2000)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
+- [Pitambara Awadhesh](https://github.com/Pitambara16)
 - [Madhur Agrawal](https://github.com/madhur0809)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Archana Singh](https://github.com/archana-1209)
