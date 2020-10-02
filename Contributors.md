@@ -1,6 +1,7 @@
 # Contributors
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Ko Junghwan] (https://github.com/kukuku0517)
+- [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
