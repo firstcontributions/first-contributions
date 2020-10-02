@@ -53,6 +53,7 @@
 -[Mohit Dayal] (https://github.com/mohit385)
 - [Reyna Zaru](https://github.com/reynazee)
 - [Agrim Bansal](https://github.com/Agrim-Bansal)
+- [Tan Jun Hong] (https://github.com/shiori-12)
 - TrueHighGrade
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Rishu Kumar](https://github.com/Logan7282)
