@@ -9,6 +9,7 @@
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [Mahima Gupta]
+- [Prabhat Malhotra](https://github.com/malhotra1432)
 - [MJ](https://github.com/speklet)
 - [Vincent Vais](https://github.com/Vincent-Vais)
 - [Samantha Monteiro](https://github.com/samanthakem)
