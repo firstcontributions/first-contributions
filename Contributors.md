@@ -699,6 +699,7 @@ mOrTaL💀
 - [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
+- [Al Miller](https://github.com/ANMillerIII)
 - [David Martel](https://github.com/davey4)
 - [Jahshaka] (https://github.com/JahshakaDEV
 - [Naseem Srour] (https://github.com/NaseemSrour)
