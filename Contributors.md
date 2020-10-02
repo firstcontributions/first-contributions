@@ -1,7 +1,9 @@
 # Contributors
 - [Anna Burek](https://github.com/aburek)
+- [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Ko Junghwan] (https://github.com/kukuku0517)
+- [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
@@ -32,12 +34,15 @@
 - [Ayush Patel](https://www.github.com/ayushnpatel)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
+- Lemon Ruan
 - [Aishwarya rai] (https://github.com/Aishwarya713)
+-kemayakr
 - Celia
 - WD
   Adarsh Goyal
 - Derryl Kevin Monis
 - Lizard
+- Aditi Debnath
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - Anurag Mishra (https://github.com/i-anuragmishra)
 - [Ritesh Kumar] (https://github.com/Ritesh055)
@@ -49,6 +54,7 @@
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - Shaoni Dutta
 - Manuja
+- [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
 -[Drishti Agarwal](https://github.com/drishti-agarwal)
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
@@ -204,6 +210,7 @@ mOrTaL💀
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
+- [Padmaja Madhavan](https://github.com/pmadhavan/)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
 - [Virdio Samuel](https://github.com/diosamuel)
