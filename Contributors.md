@@ -30,7 +30,7 @@
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 - Celia
 - [MONISHA MANDAL] (https://github.com/monishamandal02)
-  Adarsh Goyal
+- Adarsh Goyal
 - Derryl Kevin Monis
 - Lizard
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
