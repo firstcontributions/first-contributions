@@ -1,6 +1,7 @@
 # Contributors
 
 - [Disha Koul](https://github.com/dkoul818)
+- [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Diana Cheng] (https://github.com/dianache4685)
 - [Joyce He](https://github.com/jjoycehe)
@@ -18,6 +19,7 @@
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
+- [Nisarga Patil] (https://github.com/npatil19)
 - [Ritvika Sonawane](https://github.com/alex-2410)
 -[Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
@@ -5023,6 +5025,7 @@ Keshav goel
 - [m-jay](https://github.com/m-jay)
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mihilt](https://github.com/mihilt)
+- [Althea McMillian] (https://github.com/althea1900)
 - Sagar Varma
 - [Alex Beaty](https://github.com/jncosideout)
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
@@ -5649,3 +5652,4 @@ Hirva  Shah
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
 - [Muhsin shah](https://github.com/shah21)
+- [Lakshmipriya](https://github.com/lakshmipriyamukundan)
