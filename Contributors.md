@@ -81,6 +81,7 @@
 - [Abhishek Rai](https://github.com/Abhishek172)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Hema A]  (https://github.com/a-hema)
+- [Krishna Maringanty] (https://github.com/KrishnaKavya)
 - Lorin Achey
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
