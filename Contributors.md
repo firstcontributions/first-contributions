@@ -12,6 +12,7 @@
 - Shaoni Dutta
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
+- [cshankerj] (https://github.com/cshankerj)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
 - [Kajori Ghosh](https://github.com/Kajori4)
 - [Jamie Tan](https://github.com/jlt10)
