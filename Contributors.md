@@ -32,6 +32,8 @@
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
 - [Sandip Baidya](https://github.com/sandip-baidya)
 - [Nancy Lambert] (https://github.com/n-lambert)
+  Akshat Tyagi
+
 - [Abhinav Shukla] (https://github.com/AbsMechanik)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
@@ -54,7 +56,7 @@
 - [Hema A]  (https://github.com/a-hema)
 - Lorin Achey
 - Tanmay Arora
-- Sreenidhi 
+- Sreenidhi
 - [Vishnu Vardhan Reddy Thokala] (https://github.com/VishnuThokala)
 - Vikrant Arora
 - Ragavi Murali
@@ -90,6 +92,7 @@ mOrTaL💀
 - [Andy Huang] (https://github.com/andyhuang3)
 - [Quack Jack](https://github.com/quackjack)
 - [Mayank Jain](https://github.com/mayankjain985)
+  [Akshat Tyagi]
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Sam Jackhole](https://github.com/samjackhole)
 - [Mandi Gunningham](https://github.com/mgunningham1014)
@@ -109,7 +112,7 @@ mOrTaL💀
 - [Ricardo Escobedo](https://github.com/ricardoesc25)
 - [Vedant Chourasia](https://github.com/vc8006)
 - [Varshit Sindhu](https://github.com/varshitchoudhary100)
-- [Carlos Cornejo](https://github.com/carloantoniocc) 
+- [Carlos Cornejo](https://github.com/carloantoniocc)
 - [Laurel Verma](https://github.com/1laurelverma)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
@@ -243,9 +246,9 @@ mOrTaL💀
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
-- [Serena Wang] 
-- [Sarah Yap](https://github.com/skyuanow) 
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Serena Wang]
+- [Sarah Yap](https://github.com/skyuanow)
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
@@ -321,7 +324,7 @@ mOrTaL💀
 - Yahaya Kehinde
 - Ajeet Singh Parmar
 - [Harshal Jain] (https://github.com/Harshal0506)
-- Callina Birdsong 
+- Callina Birdsong
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
