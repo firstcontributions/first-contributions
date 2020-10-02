@@ -1,4 +1,5 @@
 # Contributors
+- [Pedro Gesta](https://github.com/pedrogestajr)
 - [Hasan Haider](https://github.com/hasan-haider)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
