@@ -96,6 +96,7 @@
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
+- [Vimal Mishra](https://github.com/mishravimal99)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Hema A]  (https://github.com/a-hema)
 - [Krishna Maringanty] (https://github.com/KrishnaKavya)
