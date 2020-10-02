@@ -48,6 +48,7 @@
 - Lorin Achey
 - Tanmay Arora
 - Sreenidhi 
+- [Vishnu Vardhan Reddy Thokala] (https://github.com/VishnuThokala)
 - Vikrant Arora
 - Ragavi Murali
 - [Raman] (https://github.com/noisefilter19/)
