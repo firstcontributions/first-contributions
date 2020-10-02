@@ -37,6 +37,7 @@
 - [Shubham Sharma] (https://github.com/Shubham1605)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
 -[Reyna Zaru](https://github.com/reynazee)
+-[Devesh Baranwal](https://github.com/DeveshBaranwal)
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
