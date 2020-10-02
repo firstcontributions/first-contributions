@@ -1773,6 +1773,7 @@ Sumit Sagar
 - [Natalia Alvarez](https://github.com/nataliaalvarez26)
 - [Tatchum Nono Yan](https://github.com/TatchumNono)
 - [Nikolas Haug](https://github.com/nikolas-haug)
+- [Manish Kumar](https://github.com/manishprivet)
 - [Joseph Kwadjo Ampadu](https://github.com/daduam)
 - [Gaurav Sharma](https://github.com/Leovaldez42)
 - [Samadrit Sarkar](https://github.com/samadritsarkar2)
