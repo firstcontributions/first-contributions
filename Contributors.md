@@ -39,6 +39,7 @@ Ayush Goyal
 - Satyam Dua
 mOrTaL💀
 - KhushiO BATRA
+- Amar kumar
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
