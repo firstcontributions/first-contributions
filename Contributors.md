@@ -4754,6 +4754,7 @@ Keshav goel
 - [Steven S](https://github.com/sysung)
 - [Grégori Fernandes de Lima](https://github.com/gregoriLima)
 - [Travis Major](https://github.com/schfiftyfive)
+- [Patrick Ofili](https://github.com/OfiliPatrick)
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Jannat Patel](https://github.com/pateljannat)
