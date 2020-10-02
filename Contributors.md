@@ -322,6 +322,8 @@ mOrTaL💀
 - [Ananya Agarwal](https://github.com/AnanyaAgarwal25)
 - [Sriram](https://github.com/BLNDLYBLV)
 - [Ali Jbareen](https://github.com/alijbareen)
+- [Ashutosh Dixit](https;//github.com/Di-ashX)
+- [Manasa Samaga](https://github.com/manasasamaga)
 - [Aish](https://github.com/aishtron7)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Haripriya Mutyala](https://github.com/MutyalaHaripriya)
