@@ -5740,3 +5740,4 @@ Hirva  Shah
 - [Himanshu] (https://github.com/him2016)
 - [Noah Kennedy] (https://github.com/nakennedy11)
 - [Konstantinos Rantos] (https://github.com/RantosKonstantinos)
+- [Victor Neves] (https://github.com/alovictor)
