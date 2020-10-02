@@ -5485,3 +5485,4 @@ Hirva  Shah
 - [Tim Gao](https://github.com/timegao)
 - [Vedant Satpute](https://github.com/vicinalv)
 - [Lav Senghani](https://github.com/lavlife06)
+- [Devon Fazekas](https://github.com/FazekasDevon96)
