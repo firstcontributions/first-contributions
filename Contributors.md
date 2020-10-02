@@ -33,6 +33,7 @@
 - [HeroCharge] (https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
 - [Leo Humphreys](https://github.com/Hubbit200)
+- [Nathan Beard] (https://github.com/nbeard49)
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - Shaoni Dutta
 - Manuja
