@@ -308,6 +308,7 @@ mOrTaL💀
 - [Jonathan Castillo]
 - [Tyson Swords](https://github.com/Zeeennnyyy) 
 - [Will Guo]
+- [Aditya Ravi Swami](https://github.com/ADshady13)
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
