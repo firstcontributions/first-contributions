@@ -5442,6 +5442,7 @@ Keshav goel
 - [Ayushi Rawat](https://github.com/ayushi7rawat)
 - [Luc McAuley](https://github.com/lucmcauley)
 - [Olaoluwa Mustapha](https://github.com/OlaoluwaM)
+- [Cirill Florenz Dalangin](https://github.com/cdalangin)
 - [Marc Stämpfli](https://github.com/marcstampfli)
 - [Taruna Datta](https://github.com/TarunaDatta)
 - [Soumik Chaudhuri](https://github.com/pinkman7009)
