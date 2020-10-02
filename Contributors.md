@@ -625,6 +625,7 @@ mOrTaL💀
 - [Deepak Kumar Giri](https://github.com/Dkgiri619)
 - [Chris Greening](https://github.com/chris-greening)
 - [Jose Cuervo](https://github.com/21Insight)
+- [Anubhav Rawat](https://github.com/anurawat01)
 - [Kurtis McAlpine](https://github.com/kmcalpine)
 - [TrickyJ](https://github.com/trickyj)
 - [Harish Venkataraman](https://github.com/harish-vnkt)
