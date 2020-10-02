@@ -1219,6 +1219,7 @@ Sumit Sagar
 - Andrew Scott
 - [Bobak Tooyserkani](https://github.com/bt105819)
 - robyea
+- [Nicolo Bargellesi] (https://github.com/Barge-96)
 - [katalan1245](https://github.com/katalan1245)
 - Akshara Dyuti
 - Rishabh Mehta
