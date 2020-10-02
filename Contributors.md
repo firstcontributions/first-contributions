@@ -530,6 +530,7 @@ mOrTaL💀
 - [Irshad Ahamed](https://github.com/Zinkuth)
 - [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
+- [ANKIT KUMAR]
 - [Khushi Gandhi](https://github.com/khushi3108)
 - [Meet Vyas](https://github.com/MeetVys)
 - [Derrick Kinoti](https://github.com/DerickKinoti)
