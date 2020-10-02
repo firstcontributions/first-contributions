@@ -43,7 +43,8 @@
 - [cshankerj] (https://github.com/cshankerj)
 - [Shubham Sharma] (https://github.com/Shubham1605)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
--[Reyna Zaru](https://github.com/reynazee)
+- [Reyna Zaru](https://github.com/reynazee)
+- [Agrim Bansal](https://github.com/Agrim-Bansal)
 - TrueHighGrade
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
