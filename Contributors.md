@@ -6,6 +6,7 @@
 - [Sarah Liang](https://github.com/smliang)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
+- [Jenndroid](https://github.com/jenndroid)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
