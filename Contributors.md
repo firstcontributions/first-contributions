@@ -2364,6 +2364,7 @@ Keshav goel
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Rui Luís
+- Sarah
 - timamero
 - [Carlos Martins](https://github.com/luacmartins/)
 - Narendra Modi
