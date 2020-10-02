@@ -48,6 +48,7 @@ mOrTaL💀
 - Sahil Dhingra
 - Baani Dhingra
   Keshav Kumar
+- [Abinash Mishra](https://github.com/IIAbinashMishraII)
 - [Jing Tao](https://github.com/jtaoct)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
