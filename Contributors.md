@@ -1,6 +1,6 @@
 # Contributors
 - [Ko Junghwan] (https://github.com/kukuku0517)
--[himanshu singh (https://github.com/H321-ma)
+- [himanshu singh (https://github.com/H321-ma)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
@@ -1121,6 +1121,7 @@ Sumit Sagar
 - [Mohamed Aziz THABET](https://github.com/ThabetAziz)
 - [John Janons]
 - [Mohit Kumar]
+- [Linda Hsu](https://github.com/Paddlepop25)
 - [Mitalee Minde](https://github.com/mitalee18)
 - [Josh Miccolo](https://github.com/Jmiccolo)
 - [Ayoub El Hayat](https://github.com/ser14joker)
