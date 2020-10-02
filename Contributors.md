@@ -1,4 +1,5 @@
 # Contributors
+-[Kavita Kulkarni]
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [himanshu singh (https://github.com/H321-ma)
@@ -11,7 +12,6 @@
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Ritvika Sonawane](https://github.com/alex-2410)
--[Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
@@ -5627,6 +5627,5 @@ Hirva  Shah
 - [Messy](https://github.com/messy98745)
 -[Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
-- [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
