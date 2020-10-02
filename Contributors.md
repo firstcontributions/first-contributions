@@ -344,6 +344,7 @@ mOrTaL💀
 - [Priya Agarwal](https://github.com/Priya2501)
 - [Danny Reina](https://github.com/dannyflatiron)
 - [Ankita Singhal](https://github.com/sankita11)
+- KamalSagar
 - [Elizabeth Wiggins]
 - [Chamodi Thennakoon](https://github.com/chamodit)
 - [Tommy Deliso](https://github.com/tdeliso)
