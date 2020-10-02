@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Corinne Battle](https://github.com/clearpointweb)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
