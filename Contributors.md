@@ -81,8 +81,9 @@
 Ayush Goyal
 - Arpit Batra
 - [Siddharth Shrivastava](https://github.com/Siddharth2430/)
+- [Arjun Satish](https://github.com/arjunbvb)
 - Satyam Dua
-mOrTaL💀
+mOrTaL💀che
 - KhushiO BATRA
 - Amar kumar
 - Harshal Dehra
