@@ -5347,3 +5347,4 @@ Hirva  Shah
 - [Paul Clement](https://github.com/nut556)
 - [Pooja Arya](https://github.com/poojavarya)
 - [Nisha Choudhary](https://github.com/choudharynisha)
+- [Vera Rodriguez](https://github.com/veralizeth)
