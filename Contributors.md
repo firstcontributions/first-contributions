@@ -2209,6 +2209,7 @@ Sumit Sagar
 - [Godfred Gameli](https://github.com/Godfredgameli)
 - [Hasibul Islam](https://github.com/starhasibul)
 - [Robert Bogner](https://github.com/bowclaw)
+- [Jakub Kochański](https://github.com/jakkoc)
 - Sarah Tyler
 - [Aichi Chang](https://github.com/aichi-chang)
 - [Khabiir Khan](https://github.com/khabiirk)
