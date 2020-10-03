@@ -1,5 +1,5 @@
 # Contributors
-- [my github url] (https://github.com/rladbgus)
+- [yoohyeon] (https://github.com/rladbgus)
 - [Goutham S] (https://github.com/GouthamSurendran)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
 - [Agus Rian](https://github.com/agusrian97)
