@@ -64,6 +64,7 @@
 - [Nada Farook] (https://github.com/nada1619)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
+- [Nikiya Simpson](https://github.com/nikiyasimpson)
 - [Abhishek Ahirrao] (https://github.com/colmeabhi)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [Benjamin Maquet](https://github.com/BenjMaq)
