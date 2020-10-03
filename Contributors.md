@@ -843,6 +843,7 @@ Sumit Sagar
 - [Mayur Giri](https://github.com/Mayur619)
 - [Arthur Sena](https://github.com/senaarth)
 - [Lee Wannacott](https://github.com/LeeWannacott)
+- [Zoraiz Asif](https://github.com/zoraizasif)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
 - [Christeen Fernando](https://github.com/christeen24)
