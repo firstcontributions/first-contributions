@@ -37,6 +37,7 @@
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Gaurav Kar](https://github.com/grvkr777)
+- [Damue Brandon](https://github.com/brandonbawe)
 - Conor Lambert
 - [Jenndroid](https://github.com/jenndroid)
 - [Samik Goyal](https://github.com/Samikdevel)
