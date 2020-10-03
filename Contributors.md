@@ -14,6 +14,7 @@
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Rafael Pavarini] (https://github.com/rafaelcgpava)
 - [sushant kumbhar] (https://github.com/kumbharsushant28)
+- [Chandani Mourya] (https://github.com/ChandaniM)
 - [Diana Cheng] (https://github.com/dianache4685)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
