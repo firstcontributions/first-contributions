@@ -1997,6 +1997,7 @@ Sumit Sagar
 - [Faith Gaiciumia](https://github.com/faithgaiciumia)
 - [Olabamiji Oyetubo](https://github.com/bigboybamo)
 - [Nilesh Hazra](https://github.com/nileshhazra)
+- Alex Hernandez
 - [Corey Campos](https://github.com/coreycampos)
 - [Sohaib](https://github.com/Sohaib03)
 - [Uzo Nwokolo](https://github.com/uznwokolo)
