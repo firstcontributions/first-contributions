@@ -4,6 +4,7 @@
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
+- [Shihaan W S](https://github.com/theneoterik)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
   [Archana Singh](https://github.com/archana-1209)
