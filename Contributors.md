@@ -5826,6 +5826,7 @@ Hirva  Shah
 - [Bruno Almeida](https://github.com/Brunopbb)
 - [Daniel Deng](https://github.com/imgdeng)
 - Bhavana Kumari
+- Kamal Tulsiyani
 - Harsh Kumar
 - Harsha Bhogle
 - Rohit Prasad(Indian)
