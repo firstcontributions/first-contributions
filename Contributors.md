@@ -5860,3 +5860,5 @@ Hirva  Shah
 - [Naka Rapstar] (https://github.com/Nakasz)
 - [Avleen Kaur](https://github.com/avleen2898)
 - [Pedro Perez](github.com/pedrousp)
+- [Thiago](github.com/thiagomedina)
+
