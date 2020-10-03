@@ -7,6 +7,7 @@
 - [William Nicholson](https://github.com/Passenger89)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Nicole Lucien](https://github.com/nicmlu)
+- [Atharva Maid](https://github.com/atharv123-wq)
 - [Pulkit Sapra](https://github.com/pulkitsapra)
 - [HassanRaza](https://github.com/rza8301)
 - [Milanmeu] (https://github.com/milanmeu)
