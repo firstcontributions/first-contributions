@@ -1715,6 +1715,7 @@ Sumit Sagar
 - [Hajanirina Ridjvan Randrianandraina](https://github.com/darijavan)
 - [James Paulinus](https://github.com/jhaymesdev)
 - [Firas Mujahidin](https://github.com/firasisme)
+- [Daniel Sabic](https://github.com/sabicd)
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
 - [Shubham Singh](https://github.com/suubh)
