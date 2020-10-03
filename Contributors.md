@@ -860,6 +860,7 @@ Sumit Sagar
 - [Vipin Chandra](https://github.com/easyvipin)
 - [Joel McDonough](https://github.com/eternity8)
 - [Nick Laert](https://github.com/nlaert)
+- [Daniel Martinez](https://github.com/hendaniel)
 - [idan424](https://github.com/idan424)
 - [Aman Raj](https://github.com/amanraj862)
 - [David Montgomery](https://github.com/davymont)
