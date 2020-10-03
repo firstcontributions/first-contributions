@@ -20,6 +20,7 @@
 - [Bishwash Pokhrel] (https://github.com/bishwash26)
 - [Bifeldy](https://github.com/bifeldy)
 - [Mariem Khlifi](https://github.com/khmariem)
+- [Vishal Gupta] (https://github.com/guptamanu409)
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Rafael Pavarini] (https://github.com/rafaelcgpava)
 - [Utkrist Neupane] (https://github.com/utkrixx)
