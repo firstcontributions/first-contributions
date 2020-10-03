@@ -5851,6 +5851,7 @@ Hirva  Shah
 - [soongjamm](https://github.com/soongjamm)
 - [Bruno Almeida](https://github.com/Brunopbb)
 - [Daniel Deng](https://github.com/imgdeng)
+- [Maxwell Lo](https://github.com/lo-maxwell)
 - Bhavana Kumari
 - Kamal Tulsiyani
 - Harsh Kumar
