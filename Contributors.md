@@ -134,6 +134,7 @@
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
 - Sreenidhi 
+- [Shairan Shrawat](https://github.com/shairanshrawat)
 - Dhruvik Patel
 - Zaidan Pratama
 - [Vishnu Vardhan Reddy Thokala] (https://github.com/VishnuThokala)
