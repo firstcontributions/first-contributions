@@ -673,6 +673,7 @@ mOrTaL💀
 - [Josh Lavallee](https://github.com/jlavallee76)
 - [Zubier Abdullah](https://github.com/ZubierAbd)
 - [Hari Kumar]
+- [Musavveer Rehaman](https://github.com/musavveer)
 - [Nick Shattuck](https://github.com/nshattuck20)
 - [Allison Harry](https://github.com/aHarry01)
 - [Cornelia Johnson]()
