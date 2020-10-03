@@ -1,5 +1,6 @@
 # Contributors
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
+- [Mohamed Salah](https://github.com/M-O-H)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Hasan Haider](https://github.com/hasan-haider)
