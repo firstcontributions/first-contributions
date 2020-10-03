@@ -332,6 +332,7 @@ mOrTaL💀
 - [Riddhi Suteri](https://github.com/ridsuteri)
 - [Ilham Darmawan](https://github.com/idm1303)
 - [Visaj Nirav Shah](https://github.com/visajshah)
+- [Ajaydeep singh rajpoot](https://github.com/Ajaydeep123)
 -Pramita
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Utkarsh Raj](https://github.com/theroyalraj)
