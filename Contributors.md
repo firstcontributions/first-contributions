@@ -17,6 +17,7 @@
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Pretam Chandra]
+- [zelkor](https://github.com/zelkor)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
   [Vaibhav Tripathi](https://github.com/vaibhavtripathi1209)
