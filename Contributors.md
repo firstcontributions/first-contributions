@@ -1,4 +1,5 @@
 # Contributors
+- [Agus Rian](https://github.com/agusrian97)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Nicole Lucien](https://github.com/nicmlu)
 - [Milanmeu] (https://github.com/milanmeu)
