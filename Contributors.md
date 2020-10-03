@@ -5821,6 +5821,7 @@ Hirva  Shah
 - [Preston Crowe](https://github.com/vaugerbird)
 - [soongjamm](https://github.com/soongjamm)
 - [Bruno Almeida](https://github.com/Brunopbb)
+- [Daniel Deng](https://github.com/imgdeng)
 - Bhavana Kumari
 - Harsh Kumar
 - Harsha Bhogle
