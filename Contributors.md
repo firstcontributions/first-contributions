@@ -23,6 +23,7 @@
 - [Mahima Gupta]
 - [Prabhat Malhotra](https://github.com/malhotra1432)
 - [MJ](https://github.com/speklet)
+- [Jordan Ali Hilado](https://github.com/jordanhilado)
 - [Vincent Vais](https://github.com/Vincent-Vais)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
