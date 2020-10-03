@@ -5686,6 +5686,7 @@ Keshav goel
 - [Drunk-Cloud]
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
+- [Fin McCallum](https://github.com/FinMc)
 - [Agung Leksono](https://github.com/agungleksono)
 - [Raied Khan](https://github.com/raiedkhan)
 - [David Ma](https://github.com/taikon)
