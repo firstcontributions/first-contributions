@@ -139,6 +139,7 @@
 - Tim Peng (https://github.com/typg93)
 - M007RA
 - Fig The Gif
+- ZombiMigz
 Ayush Goyal
 - Arpit Batra
 - [Siddharth Shrivastava](https://github.com/Siddharth2430/)
