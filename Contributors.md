@@ -438,7 +438,7 @@ mOrTaL💀
 - rathnadev1995]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
-  [Divyansh Raina](https://github.com/QuantumBoy-729)
+- [Divyansh Raina](https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
 - [Disco Dewani] [Party Rock]
 - [mohashii](https://github.com/mohashii)
@@ -495,10 +495,10 @@ mOrTaL💀
 - [Sujatha Mohan sujathamlak]
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
+- [hamdan abdul](https://github.com/Hamhunter)
 - [Kirui victor]
 - [Kevin K Biju]
 -  [Jithin Jose] (https://github.com/defaultRectr0)
--[hamdan abdul](https://github.com/Hamhunter)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
 - [Bhagya Singh](https://github.com/bhagya05)
@@ -547,7 +547,7 @@ mOrTaL💀
 - [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
--[Prabaljit Walia](https://github.com/prabal4546)
+- [Prabaljit Walia](https://github.com/prabal4546)
 - [Vinay Manala](https://github.com/VinayManala)
 - [Shivani Singh](https://github.com/shiv-ani-singh)
 - [Berkay Kan](https://github.com/brkykan)
@@ -5715,6 +5715,7 @@ Keshav goel
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
 - [Aviral Agarwal](https://github.com/Avr8)
 - [fatik07](https://github.com/fatik07)
+- [mateBakos](https://github.com/mateBakos)
 - [Mahendra Reddy](https://github.com/reddymahendra52)
 - [Pavel Vašíček](https://github.com/pavev)
 - [Kostas Tanios]
