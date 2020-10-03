@@ -5845,6 +5845,7 @@ Hirva  Shah
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Zidni Zidno](https://github.com/zidnizidno/)
 - [Harish]
+- [Yash Soni](https://github.com/Yash2737/)
 - [Pumpkinman](https://github.com/pumpkinman008)
 - [Ritish Kumar](https://github.com/mofolactic)
 - [Swarnim Gupta] (https://github.com/Swarnim01)
