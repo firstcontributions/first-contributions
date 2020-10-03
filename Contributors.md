@@ -430,6 +430,7 @@ mOrTaL💀
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [BalaGanesh Meyyappan] (https://github.com/bala0406)
 - [SHUBHAM RAI]
+- [Pranay Kothari](https://github.com/Heisenberg-737)
 - [Range Roper]
 - [Shaikh Mudassir](https://github.com/shaikhmudassir)
 - [USMAN KHALID]
