@@ -5856,3 +5856,4 @@ Hirva  Shah
 - [Maitreya Dudhgaonkar] (https://github.com/virus2116)
 - [Naka Rapstar] (https://github.com/Nakasz)
 - [Avleen Kaur](https://github.com/avleen2898)
+- [Pedro Perez](github.com/pedrousp)
