@@ -444,6 +444,7 @@ mOrTaL💀
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
 - [Rishikesh Yadav] (https://github.com/rishikesh7355)
+- [Milo Fultz](https://github.com/milofultz)
 - [Tanay] (https://github.com/sudhatanay)
 - [Tarun Sharma] (tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
