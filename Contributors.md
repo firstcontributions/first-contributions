@@ -17,6 +17,7 @@
 - [Grace Young](https://github.com/grace-m-young)
 - [Atharva Maid](https://github.com/atharv123-wq)
 - [Pulkit Sapra](https://github.com/pulkitsapra)
+- [Andrew Bickford](https://github.com/3kmibvxjsi9d)
 - [HassanRaza](https://github.com/rza8301)
 - [LuisRivera162](https://github.com/LuisRivera162)
 - [Milanmeu] (https://github.com/milanmeu)
