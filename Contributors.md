@@ -15,6 +15,7 @@
 - [Rafael Pavarini] (https://github.com/rafaelcgpava)
 - [sushant kumbhar] (https://github.com/kumbharsushant28)
 - [Diana Cheng] (https://github.com/dianache4685)
+- [Shardul Birje] (https://github.com/shardul-b)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [Mahima Gupta]
