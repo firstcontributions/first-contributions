@@ -179,6 +179,7 @@
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Santosh Selvasundar](https://github.com/santosh1997)
 - [Hema A]  (https://github.com/a-hema)
+- [Isaias] (https://github.com/0strichKnight)
 - [Krishna Maringanty] (https://github.com/KrishnaKavya)
 - Lorin Achey
 - Urfa Ansari (https://github.com/Urfafazli)
