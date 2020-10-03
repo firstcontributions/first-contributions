@@ -1471,6 +1471,7 @@ Sumit Sagar
 - [Caro Oviedo](https://github.com/caro-oviedo)
 - [Vineet Bhat](https://github.com/itbhat)
 - [shirly lee](https://github.com/Shirly0723)
+- [Edwin Andrew](https://github.com/EdwinAndrew)
 - Deepak Kumar Narayanan
 - Isabelle Pouget
 - Divya Gaurav
