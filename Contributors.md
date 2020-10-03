@@ -63,6 +63,7 @@
 - [Sriram Sathish](https://github.com/sriram0107)
 - [Sarah Liang](https://github.com/smliang)
 - [Anurag Saxena](https://github.com/anursaxe25)
+- [Amanda Geoffroy] (https://github.com/Matalyn)
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Gaurav Kar](https://github.com/grvkr777)
