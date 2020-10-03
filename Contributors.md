@@ -243,6 +243,7 @@ mOrTaL💀
 - Mikaela Wade
 - [Rahul Kashyap](https://github.com/imKashyap)
 - Dallin Craven
+- [Shrey Parikh] (https://github.com/shreyparikh)
 - [Himani Madaan] (https://github.com/himanimadaan)
 - [Krishna Sahu](https://github.com/crypt0-c0de)
 - [Jacob Hurley](https://github.com/Jacob-Hurley)
