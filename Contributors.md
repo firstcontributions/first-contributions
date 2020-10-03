@@ -5851,13 +5851,13 @@ Hirva  Shah
 - [soongjamm](https://github.com/soongjamm)
 - [Bruno Almeida](https://github.com/Brunopbb)
 - [Daniel Deng](https://github.com/imgdeng)
-- [Maxwell Lo](https://github.com/lo-maxwell)
 - Bhavana Kumari
 - Kamal Tulsiyani
 - Harsh Kumar
 - Harsha Bhogle
 - Rohit Prasad(Indian)
 - Alireza Khorami (https://github.com/alirezakhoramimn)
+- [Maxwell Lo](https://github.com/lo-maxwell)
 - [Hathi Ram](https://github.com/hathiram19999)
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Zidni Zidno](https://github.com/zidnizidno/)
