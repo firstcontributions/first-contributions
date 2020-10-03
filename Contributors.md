@@ -1,5 +1,6 @@
 # Contributors
 
+- [Annu Joshi](https://github.com/AnnuJoshi/)
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
@@ -115,6 +116,7 @@
 - [Leo Humphreys](https://github.com/Hubbit200)
 - [Nathan Beard] (https://github.com/nbeard49)
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
+- [Romain Coudour](https://github.com/RomainCoudour)
 - Shaoni Dutta
 - Manuja
 - [Anusha Rajan](https://github.com/rajananusha)
@@ -5811,6 +5813,7 @@
 - [Bruno Almeida](https://github.com/Brunopbb)
 - [Daniel Deng](https://github.com/imgdeng)
 - Bhavana Kumari
+- Kamal Tulsiyani
 - Harsh Kumar
 - Harsha Bhogle
 - Rohit Prasad(Indian)
