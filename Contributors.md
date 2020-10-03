@@ -5360,6 +5360,7 @@ Keshav goel
 - [Nina Zdanovic](https://github.com/Coyote-Schmoyote)
 - [Dyno Wibowo](https://github.com/dynnhw)
 - [Yohuan](https://github.com/Yohuan)
+- [Geoffroy V]
 - [Jeff Hooton](https://github.com/jeffdhooton)
 - [passerby223](https://github.com/passerby223)
 - [Kauan Rakoski](https://github.com/KauanRakoski)
