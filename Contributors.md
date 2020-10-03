@@ -156,6 +156,7 @@
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Yashvardhan Goel](https://github.com/Yash1909)
 - [Rishu Kumar](https://github.com/Logan7282)
+- [Abhijit Roy](https://github.com/EmberCS15)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
 - [Sujan Chhetri](https://github.com/sujanchhetri)
