@@ -55,6 +55,7 @@
 - [Aurora Wang](https://github.com/auroralimin)
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Saloni Gupta] (https://github.com/shades-7)
+- [Sriram Sathish](https://github.com/sriram0107)
 - [Sarah Liang](https://github.com/smliang)
 - [Anurag Saxena](https://github.com/anursaxe25)
 - [himanshu singh (https://github.com/H321-ma)
