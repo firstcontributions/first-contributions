@@ -15,6 +15,7 @@
 - [Atharva Maid](https://github.com/atharv123-wq)
 - [Pulkit Sapra](https://github.com/pulkitsapra)
 - [HassanRaza](https://github.com/rza8301)
+- [LuisRivera162](https://github.com/LuisRivera162)
 - [Milanmeu] (https://github.com/milanmeu)
 - [Dylan Longlands] (https://github.com/dlonglands99)
 - [mk-knight23] (https://github.com/mk-knight23)
