@@ -27,6 +27,7 @@
 - Conor Lambert
 - [Jenndroid](https://github.com/jenndroid)
 - Marcus Luong (https://github.com/MarcusLuong)
+- [Kaitlyn Zavala](https://github.com/kzavala)
 - [Ahsan Khan](https://github.com/ahsankhan26)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
