@@ -5698,6 +5698,7 @@ Keshav goel
 - [Sang Putu Jaya Anggara Putra](https://github.com/jayaanggara)
 - [Fin McCallum](https://github.com/FinMc)
 - [Agung Leksono](https://github.com/agungleksono)
+- [Prima Kurnia](https://github.com/Prima20)
 - [Raied Khan](https://github.com/raiedkhan)
 - [David Ma](https://github.com/taikon)
 - [Muhamad Nur Hafidz](https://github.com/muhamadhafidz)
