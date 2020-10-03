@@ -63,6 +63,7 @@
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
+- [DavidDahan]
 - [Jck](https://github.com/ashujack)
 - [Divyansh Pandey] (https://github.com/DEAThWALNUt)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
