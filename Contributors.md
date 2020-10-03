@@ -53,6 +53,7 @@
 = [Anvesh Verma](https://github.com/anveshverma)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
 - Sejal Jain(https://github.com/sejaljain123)
+- [Thiago Fonseca Tahara](https://github.com/thiagoft)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
