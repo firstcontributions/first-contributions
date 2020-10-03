@@ -768,6 +768,7 @@ Khushi Gupta
 - [Yash Chaudhari]
 - [anuradhasanjeewa]
 - [Domohina Malala]S (https://github.com/NyAina90)
+- [Sudeep Shukla](https://github.com/sudeepshukla930)
 - [gShahr] (https://github.com/gShahr)
 - [Devansh Tayal](https://github.com/Devansh2005)
 - [Darshan Sen](https://www.github.com/RaisinTen)
