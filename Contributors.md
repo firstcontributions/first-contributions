@@ -5848,3 +5848,4 @@ Hirva  Shah
 - [Swarnim Gupta] (https://github.com/Swarnim01)
 - [Maitreya Dudhgaonkar] (https://github.com/virus2116)
 - [Naka Rapstar] (https://github.com/Nakasz)
+- [Fauzan Edris](https://github.com/FauzanEdris)
