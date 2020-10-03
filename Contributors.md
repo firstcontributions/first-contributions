@@ -151,6 +151,7 @@
 - [Tan Jun Hong] (https://github.com/shiori-12)
 - TrueHighGrade
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
+- [Yashvardhan Goel](https://github.com/Yash1909)
 - [Rishu Kumar](https://github.com/Logan7282)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
