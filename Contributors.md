@@ -784,6 +784,7 @@ Khushi Gupta
 - [Yash Ramchandani](https://github.com/yashr921)
 - [<3HaveABeautifulDay<3]
 - [Julius Olajumoke](https://github.com/itsjuliuscoder)
+- [Sankat Mochan].(https://github.com/smochan)
 - [Kritanjali Jain](https://github.com/kritanjalijain)
 - [@sascha-alexander](https://github.com/sascha-alexander)
 - [Akshit Soneji](https://github.com/AKSHIT989)
