@@ -885,6 +885,7 @@ Sumit Sagar
 - Adam Elitzur
 - [Christeen Fernando](https://github.com/christeen24)
 - [Patrick jeeva](https://github.com/patrickjeeva)
+- [Bruno Gurgel](https://github.com/Bmg1612)
 - [Vijay Yevatkar]
 - [Alex Langsam](https://github.com/Alangsam)
 - [Anicet Nougaret](https://github.com/AnicetNgrt)
