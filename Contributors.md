@@ -25,6 +25,7 @@
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [Mahima Gupta]
+- [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma]https://github.com/MAYANK25402
 - [Prabhat Malhotra](https://github.com/malhotra1432)
 - [MJ](https://github.com/speklet)
