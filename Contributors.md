@@ -2,6 +2,7 @@
 - [Goutham S] (https://github.com/GouthamSurendran)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
 - [Agus Rian](https://github.com/agusrian97)
+- [William Nicholson](https://github.com/Passenger89)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Nicole Lucien](https://github.com/nicmlu)
 - [Pulkit Sapra](https://github.com/pulkitsapra)
