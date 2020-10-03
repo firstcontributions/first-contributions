@@ -9,6 +9,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
+- [Yuvraj Verma](https://github.com/yuvrajverma01)
 - [Bifeldy](https://github.com/bifeldy)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
