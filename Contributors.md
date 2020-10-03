@@ -36,6 +36,7 @@
 - [Gaurav Kar](https://github.com/grvkr777)
 - Conor Lambert
 - [Jenndroid](https://github.com/jenndroid)
+- [Samik Goyal](https://github.com/Samikdevel)
 - Marcus Luong (https://github.com/MarcusLuong)
 - [Kaitlyn Zavala](https://github.com/kzavala)
 - [Ahsan Khan](https://github.com/ahsankhan26)
