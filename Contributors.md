@@ -574,6 +574,7 @@ mOrTaL💀
 - [Priyanshu Pardhi](https://github.com/PriyanshuPardhi24)
 - [Anjali Soni](https:github.com/anjalisoni3655)
 - [Achyut Paudel](https://github.com/achyut)
+- [TeckChun](https://github.com/pangteckchun)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
 - [Varun Bhutani](https://github.com/varunbhutani98)
 - [David bretler](https://github.com/DavidBretler)
