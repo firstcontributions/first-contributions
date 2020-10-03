@@ -663,6 +663,7 @@ mOrTaL💀
 - [Seth Polyniak](https://github.com/sethpoly)
 - [Kevwe](https://github.com/K3vwe)
 - [Muhammad Bella BN](https://github.com/bellabeen)
+- [Breno Xavier](https://github.com/brenoxav)
 - [Shahrukh Ansari](https://github.com/shak1505)
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
