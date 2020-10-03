@@ -14,6 +14,7 @@
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
+- [Sebastian Cadena](https://github.com/jsebastian29)
 - [Mitesh Patil](https://github.com/ke3peR007)
 - [Grace Young](https://github.com/grace-m-young)
 - [Atharva Maid](https://github.com/atharv123-wq)
