@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Bettina King-Smith] (https://github.com/bettina-king-smith/)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
