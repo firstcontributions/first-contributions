@@ -11,6 +11,7 @@
 - [Türkay Tunç](https://github.com/turkaytunc)
 - [William Nicholson](https://github.com/Passenger89)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
+- [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
 - [Mitesh Patil](https://github.com/ke3peR007)
 - [Grace Young](https://github.com/grace-m-young)
