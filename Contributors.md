@@ -15,6 +15,7 @@
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
 - [Achyut Paudel](https://github.com/achyut)
+- [TeckChun](https://github.com/pangteckchun)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
 - [David bretler](https://github.com/DavidBretler)
 - [Xefyn](https://github.com/Xefyn)
