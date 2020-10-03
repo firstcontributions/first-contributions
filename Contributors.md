@@ -98,6 +98,7 @@
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [cshankerj] (https://github.com/cshankerj)
 - [Shubham Sharma] (https://github.com/Shubham1605)
+- [Darshil Papalkar](https://github.com/Darshil-Papalkar)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
 -[Mohit Dayal] (https://github.com/mohit385)
 - [Reyna Zaru](https://github.com/reynazee)
