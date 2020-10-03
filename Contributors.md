@@ -15,6 +15,7 @@
 - [Pretam Chandra]
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
+  [Vaibhav Tripathi](https://github.com/vaibhavtripathi1209)
 - [Yuvraj Verma](https://github.com/yuvrajverma01)
 - [Bishwash Pokhrel] (https://github.com/bishwash26)
 - [Bifeldy](https://github.com/bifeldy)
