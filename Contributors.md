@@ -2,6 +2,7 @@
 - [Agus Rian](https://github.com/agusrian97)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Nicole Lucien](https://github.com/nicmlu)
+- [Pulkit Sapra](https://github.com/pulkitsapra)
 - [HassanRaza](https://github.com/rza8301)
 - [Milanmeu] (https://github.com/milanmeu)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
