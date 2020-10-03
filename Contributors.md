@@ -10,6 +10,7 @@
 - [mk-knight23] (https://github.com/mk-knight23)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
+- [Pretam Chandra]
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
 - [Yuvraj Verma](https://github.com/yuvrajverma01)
