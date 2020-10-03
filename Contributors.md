@@ -211,6 +211,7 @@ mOrTaL💀
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [GodSaveTheDoge](https://github.com/GodSaveTheDoge)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
+- [Guru Nanma](https://github.com/gnp31)
 - [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
 - [Kishan Kumar](https://github.com/kishankrs)
 - [Snehasish Sameer Sourav](https://github.com/Xnehaxixh)
