@@ -4594,6 +4594,7 @@ Keshav goel
 - [Howling Wolf Table](https://https://github.com/HowlingWolfTable)
 - [Rohan George D](https://github.com/Rohan-GD)
 - [Howard Jiang](https://github.com/hjiang4332)
+- [Nisha Bhalavi](https://github.com/NishaBhalavi)
 - [Anna Sherlock](https://github.com/alsherlock)
 - [Jordan Stubblefield](https://github.com/jstubb7939)
 - [Rajendrasinh Parmar](https://github.com/RajendrasinhParmar)
