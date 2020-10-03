@@ -24,6 +24,7 @@
 - [Gaurav Kar](https://github.com/grvkr777)
 - Conor Lambert
 - [Jenndroid](https://github.com/jenndroid)
+- Marcus Luong (https://github.com/MarcusLuong)
 - [Ahsan Khan](https://github.com/ahsankhan26)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
