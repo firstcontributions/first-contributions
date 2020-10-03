@@ -108,6 +108,7 @@
 - [Rishu Kumar](https://github.com/Logan7282)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Kajori Ghosh](https://github.com/Kajori4)
+- [Sujan Chhetri](https://github.com/sujanchhetri)
 - [Dipin Garg](https://github.com/dgargdipin)
 -[sagar sarkar](https://github.com/ssarkar786)
 - [Jamie Tan](https://github.com/jlt10)
