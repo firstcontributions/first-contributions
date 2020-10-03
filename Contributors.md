@@ -5755,6 +5755,7 @@ Hirva  Shah
 - [Rizky Jayusman](https://github.com/rizkyjayusman)
 - [Preston Crowe](https://github.com/vaugerbird)
 - [soongjamm](https://github.com/soongjamm)
+- [Bruno Almeida](https://github.com/Brunopbb)
 - Bhavana Kumari
 - Harsh Kumar
 - Harsha Bhogle
