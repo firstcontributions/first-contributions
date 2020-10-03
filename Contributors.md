@@ -22,6 +22,7 @@
 - [Bifeldy](https://github.com/bifeldy)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
+- [Daniela Contador](https://github.com/djcontador)
 - [Rafael Pavarini] (https://github.com/rafaelcgpava)
 - [Utkrist Neupane] (https://github.com/utkrixx)
 - [sushant kumbhar] (https://github.com/kumbharsushant28)
