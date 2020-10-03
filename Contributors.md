@@ -18,6 +18,7 @@
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [Mahima Gupta]
+- [Yash Gupta](https://github.com/yashgupta966)
 - [Prabhat Malhotra](https://github.com/malhotra1432)
 - [MJ](https://github.com/speklet)
 - [Vincent Vais](https://github.com/Vincent-Vais)
