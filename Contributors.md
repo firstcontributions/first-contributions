@@ -19,6 +19,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Pretam Chandra]
 - [Kritika Yadav]
+- [Richard Young](https://github.com/Richard-Young)
 - [zelkor](https://github.com/zelkor)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
