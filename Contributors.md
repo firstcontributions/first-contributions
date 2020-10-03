@@ -1,4 +1,5 @@
 # Contributors
+- [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Agus Rian](https://github.com/agusrian97)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Nicole Lucien](https://github.com/nicmlu)
