@@ -2,6 +2,7 @@
 - [Agus Rian](https://github.com/agusrian97)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Nicole Lucien](https://github.com/nicmlu)
+- [Atharva Kale](https://github.com/atharvakale343)
 - [HassanRaza](https://github.com/rza8301)
 - [Milanmeu] (https://github.com/milanmeu)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
@@ -127,7 +128,7 @@
 - Lorin Achey
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
-- Sreenidhi 
+- Sreenidhi
 - Dhruvik Patel
 - Zaidan Pratama
 - [Vishnu Vardhan Reddy Thokala] (https://github.com/VishnuThokala)
@@ -188,7 +189,7 @@ mOrTaL💀
 - [Ricardo Escobedo](https://github.com/ricardoesc25)
 - [Vedant Chourasia](https://github.com/vc8006)
 - [Varshit Sindhu](https://github.com/varshitchoudhary100)
-- [Carlos Cornejo](https://github.com/carloantoniocc) 
+- [Carlos Cornejo](https://github.com/carloantoniocc)
 - [Laurel Verma](https://github.com/1laurelverma)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [GodSaveTheDoge](https://github.com/GodSaveTheDoge)
@@ -338,10 +339,10 @@ mOrTaL💀
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang]
 - [Martin Hoffmann](https://github.com/martinh-dev)
-- [Serena Wang] 
+- [Serena Wang]
 - [Sarah Yap](https://github.com/skyuanow)
 - [Jonathan Castillo]
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Aditya Ravi Swami](https://github.com/ADshady13)
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
@@ -423,7 +424,7 @@ mOrTaL💀
 - Yahaya Kehinde
 - Ajeet Singh Parmar
 - [Harshal Jain] (https://github.com/Harshal0506)
-- Callina Birdsong 
+- Callina Birdsong
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -5534,7 +5535,7 @@ Keshav goel
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel Lamas](https://github.com/Letram) 
+- [Carlos Martel Lamas](https://github.com/Letram)
 - [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
