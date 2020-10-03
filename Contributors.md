@@ -1766,6 +1766,7 @@ Sumit Sagar
 - Hariprasath
 - Arpan
 - [Ryan Doherty](https://github.com/r-doherty)
+- [Mateus Faria](https://github.com/WebMat1)
 - Mark - mark-nu
 - Zach Sonnenblick
 - [Darrien Chow](https://github.com/darrien-c)
