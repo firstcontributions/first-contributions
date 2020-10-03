@@ -14,6 +14,7 @@
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Rafael Pavarini] (https://github.com/rafaelcgpava)
+- [Utkrist Neupane] (https://github.com/utkrixx)
 - [sushant kumbhar] (https://github.com/kumbharsushant28)
 - [Chandani Mourya] (https://github.com/ChandaniM)
 - [Diana Cheng] (https://github.com/dianache4685)
