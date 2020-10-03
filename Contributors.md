@@ -1,5 +1,6 @@
 # Contributors
 - [my github url] (https://github.com/rladbgus)
+- [Ishan Roychowdhury] (https://github.com/hi101000)
 - [Goutham S] (https://github.com/GouthamSurendran)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
 - [Agus Rian](https://github.com/agusrian97)
