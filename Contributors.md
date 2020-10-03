@@ -5859,6 +5859,7 @@ Hirva  Shah
 - Harsha Bhogle
 - Rohit Prasad(Indian)
 - Alireza Khorami (https://github.com/alirezakhoramimn)
+- [Maxwell Lo](https://github.com/lo-maxwell)
 - [Hathi Ram](https://github.com/hathiram19999)
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Zidni Zidno](https://github.com/zidnizidno/)
