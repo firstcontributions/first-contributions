@@ -243,6 +243,7 @@ mOrTaL💀
 - [Anand kumar](http://github.com/anand522)
 - [DevBoy](https://github.com/DevBoy69)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
+- [Sudha Tanay](https://github.com/sudhatanay)
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
 - [Nalin Bhargava](https://github.com/nalin12345)
 - [Joe Giuffrida](https://github.com/joegiuffrida)
