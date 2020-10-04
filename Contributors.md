@@ -5906,6 +5906,7 @@ Hirva  Shah
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Aditya Gaidhani](https://https://github.com/Adii-iii)
 - [Gabriela Hernandez](https://github.com/ghernandez103)
 - [Andrea Sharpless](https://github.com/maydrea)
 - [Richa Sinha](https://github.com/richasinha)
