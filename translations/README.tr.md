@@ -119,7 +119,7 @@ Tebrikler! Katkıda bulunurken sıklıkla karşılaşacağınız standart _fork 
 
 Sunduğunuz katkının coşkusunu yaşayın ve [web uygulamamızı](https://roshanjossey.github.io/first-contributions/#social-share) kullanarak arkadaşlarınız ve takipçilerinizle de paylaşın
 
-Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com).
+Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımımıza katılabilirsiniz. [Slack takımına katıl](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w).
 
 Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğiniz giriş seviyesindeki sorunlara (issue) sahip projeleri [sizin için derledik](https://roshanjossey.github.io/first-contributions/#project-list).
 
