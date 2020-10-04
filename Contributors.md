@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Anand Kumar] (https://github.com/Anandsharmak/)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
@@ -21,6 +21,7 @@
 - [Agus Rian](https://github.com/agusrian97)
 - [Marco De Anda](https://github.com/marcodeanda)
 - [Türkay Tunç](https://github.com/turkaytunc)
+- [Christine Kingsley](https://github.com/Aubear99)
 - [William Nicholson](https://github.com/Passenger89)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Jaideep Prashar](https://github.com/jaideep156)
