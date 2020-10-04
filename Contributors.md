@@ -2403,6 +2403,7 @@ Sumit Sagar
 - Yoon-Orn Chin
 - [Mahmoud Attia](https://github.com/Atattia)
 - [Mayank Mohak](https://github.com/mayankmohak)
+- [Lorna Roberts](https://github.com/lornaroberts)
 - Jens D.
 - Emily F.
 - [Paulo Galuzio](https://github.com/ppgaluzio)
