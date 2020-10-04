@@ -1,4 +1,5 @@
 # Contributors
+- [Paula Zubiri](https://github.com/pzubirir)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
 - [Moyan Zhou](https://github.com/bananannn)
