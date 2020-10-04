@@ -20,7 +20,7 @@
 - Tanmay Arora
 - M007RA
 - [tim Peng](https://github.com/typg93)
-Ayush Goyal
+- Ayush Goyal
 - Arpit Batra
 - KhushiO BATRA
 - Harshal Dehra
