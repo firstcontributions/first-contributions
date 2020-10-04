@@ -64,6 +64,7 @@
 - [Diana Cheng] (https://github.com/dianache4685)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
+- [Ashutosh](https://github.com/TheDynamicPunk)
 - [Mahima Gupta]
 - [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
