@@ -9,6 +9,7 @@
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
+- [Aquib Zaman](https://github.com/AQUIB-ZAMAN)
 - [Aman](https://github.com/Lord-Aman)
 - [my github url] (https://github.com/rladbgus)
 - [Abhishek Rawe](https://github.com/abhishekrawe)
