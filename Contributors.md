@@ -8,6 +8,7 @@
 - [Mohamed Salah] (https://github.com/M-O-H)
 -  [Rajesh Alane](https://www.github.com/rajeshalane)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
+- [Siddharth Kothari]] (https://github.com/siddharth997-png)
 - [Anandh Gopal] (https://github.com/happeecoder)
 - [Goutham S] (https://github.com/GouthamSurendran)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
