@@ -66,6 +66,7 @@
 - [Pretam Chandra]
 - [Kritika Yadav]
 - [Ani B]
+- [Amara] 
 - [Easwari Ramani]
 - [Ayush Pattnaik](https://github.com/ayushpattnaik)
 - [Anshuman Parmar](https://github.com/anshuman725?tab=repositories)
