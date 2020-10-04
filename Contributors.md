@@ -5892,6 +5892,7 @@ Keshav goel
 - [Sagar Utekar](https://github.com/Sagar2366)
 - [Rojina Deuja](https://github.com/rojinadeuja)
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
+- [Sadie Lehenbauer](https://github.com/sadielehnbauer)
 - [Meenakshi Panda](https://github.com/kppmp)
 - [Avanti L](https://github.com/RainbowCoderTP)
 Hirva  Shah
