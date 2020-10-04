@@ -5828,6 +5828,7 @@ Keshav goel
 - [Geeta Kamte](https://github.com/gkamte/)
 - [Zac Batten](https://github.com/Inefy)
 - [Lord Kerwin](https://github.com/lordkerwin)
+- [Tino Steinort](https://github.com/tinosteinort)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Tiago Dias](https://github.com/FeltesPT)
 - [Ritul Jain](https://github.com/Lutir)
