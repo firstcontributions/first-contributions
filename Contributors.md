@@ -5887,3 +5887,5 @@ Hirva  Shah
 - [Surendra Maharjan](https://github.com/cyrus305)
 - [Shubham Sharma](https://github.com/ssharma71)
 - [Alonzo Church](https://galois.com/team/alonzo-church/)
+- [Arif Febriansyah](https://github.com/ariffebr)
+
