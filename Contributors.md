@@ -3061,6 +3061,7 @@ Keshav goel
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Purvansh Shah](https://github.com/purvansh11)
 - [Tania Malhotra](https://github.com/taniaMalhotra)
+- [Pranjal Mittal](https://github.com/mittalpranjal12)
 - kyle
 - mirlayne
 - Vivek Vinod
