@@ -1,6 +1,7 @@
 # Contributors
 - [Maddy Havranek](https://github.com/mrhavranek)
 - [Cari Gan](https://github.com/cariygan)
+  [Sulphur1010](https://github.com/sulphur1010)
 - [Theresa Cho](https://github.com/tcho6319)
 - [Anand Kumar] (https://github.com/Anandsharmak/)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
