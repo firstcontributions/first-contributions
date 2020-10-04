@@ -5865,6 +5865,7 @@ Hirva  Shah
 - [srihas](https://github.com/srihas070)
 - [Ayush Srivastava](https://github.com/ayush015)
 - [Yasmim Corrêa](https://github.com/ygcorrea)
+- [bugtective](https://github.com/bugtective)
 - [Nash Vincent](https://github.com/nashvincent)
 - [Aishwarya Maggi](https://github.com/AishwaryaMaggi)
 - [Matt Lazana](https://github.com/freder2002)
