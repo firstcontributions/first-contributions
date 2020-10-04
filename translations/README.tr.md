@@ -1,5 +1,5 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,7 +11,8 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 #### _Eğer komut satırı kullanmak konusunda pek rahat değilseniz, [GUI araçlarla ilgili eğitimler burada..](#diğer-araçlarla-ilgili-eğitimler)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bu depoyu çatallandırın" />
 
 #### Eğer bilgisayarınızda git yoksa, [yükleyin](https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +23,7 @@ Bu işlem sizin hesabınız altında bu deponun bir kopyasını oluşturacaktır
 
 ## Depoyu klonlayın (Clone)
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="bu depoyu klonlayın" />
 
 Şimdi çatalladığınız depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, Bunun için code butonuna basıp ardından _copy to clipboard_ ikonuna basın.
 
@@ -34,7 +35,7 @@ git clone "kopyaladığınız-url"
 
 "kopyaladığınız-url" (tırnak işaretleri olmadan) bu deponun url adresidir (bu projenin sizin çatalladığınız hali). URL'yi elde etmek için önceki adımlara bakın.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL adresini kopyalayın" />
 
 Örneğin:
 
@@ -104,11 +105,11 @@ git push origin <yeni-dalinizin-ismi>
 
 Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu göreceksiniz. Bu butona basın.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="çekme isteği oluşturun" />
 
 Şimdi çekme isteğini (pull request) gönderin.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="çekme isteğini gönderin" />
 
 En kısa zamanda yaptığınız tüm değişiklikleri bu projenin "master" dalı ile birleştireceğim. Değişiklikleriniz birleştirildiği zaman bir bilgilendirme e-postası alacaksınız.
 
