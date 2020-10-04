@@ -321,6 +321,7 @@ mOrTaL💀
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [adwisni] (https://github.com/adwisni)
 - [UltraaaDev] (https://github.com/UltraaaDev)
+- [Lester García] (https://github.com/LesterAGarciaA97) 
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
