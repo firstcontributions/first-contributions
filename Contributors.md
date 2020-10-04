@@ -298,6 +298,7 @@ mOrTaL💀
 - [Jacob Hurley](https://github.com/Jacob-Hurley)
 - [Breno Baptista](https://github.com/brenobaptista)
 - [Souranil Das](https://github.com/sournail)
+- [Andrew Adhikari](https://github.com/t-rhex)
 - [Sinni Sahu](https://github.com/Xurde-Sni)
 - [Anand kumar](http://github.com/anand522)
 - [DevBoy](https://github.com/DevBoy69)
