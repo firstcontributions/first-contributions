@@ -513,6 +513,7 @@ mOrTaL💀
 - [Amanda Gonzalez](https://github.com/Amagonzalez27)
 - [CodeBlooded](https://github.com/codeblooded-47)
 - [WeLostTheNight](https://github.com/574469831)
+- [Utkarsh Nagar]
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Michael Ndon](https://github.com/haelmj)
 - [jaanP1]
