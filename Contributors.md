@@ -1,4 +1,5 @@
 # Contributors
+- [Revathy Punithan](https://github.com/revathypunithan)
 - [Margarita Fernandez](https://github.com/Marga1998)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Cassidy Skorczewski](https://github.com/cskor)
