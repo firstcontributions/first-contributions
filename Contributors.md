@@ -2174,6 +2174,7 @@ Sumit Sagar
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M](https://github.com/muthuraj27)
 - [Feroz Mughal](https://github.com/fmugha2)
+- [Kenneth Gutierrez](https://github.com/KennethYoel)
 - [Eswar Prasad Clinton](https://github.com/Deepzzz54321/)
 - [Arnaud Kaderi](https://github.com/arnay07)
 - [Peter Gloor](https://github.com/petergloor)
