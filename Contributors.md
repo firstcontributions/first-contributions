@@ -1436,6 +1436,7 @@ Sumit Sagar
 - [Alec Chen](https://github.com/alecchendev)
 - [Molly Kizer](https://github.com/LivesInRoom29)
 - Bert
+- Daniel Cooper
 - [Atul Kumar Maurya](https://github.com/HawkEye201/)
 - [Nyi LynnHtwe](https://github.com/nyilynnhtwe)
 - Tzach
