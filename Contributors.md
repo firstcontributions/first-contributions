@@ -44,6 +44,7 @@
   [Deji Adeyemo] (https://github.com/k-plasma)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
+- [Danny Cheun](https://github.com/dcheun)
 - sejal
 - [Amit Yadav]
 - [Pretam Chandra]
