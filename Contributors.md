@@ -5815,6 +5815,7 @@ Keshav goel
 - [Mahendra Reddy](https://github.com/reddymahendra52)
 - [Pavel Vašíček](https://github.com/pavev)
 - [Kostas Tanios]
+- [Arpitaa]
 - [Mohan Sharma](https://github.com/mohan3679)
 - [Raj Joshi] (https://github.com/rocketrunner22)
 - [Hugo Lima](https://github.com/hugolima03)
