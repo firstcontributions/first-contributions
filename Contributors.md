@@ -2314,6 +2314,7 @@ Sumit Sagar
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - [Zachary Ho](https://github.com/zachy-ho)
 - [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
+- [Qursch] (https://github.com/Qursch)
 - [Frostack](https://github.com/Frostack)
 - [Fanni Takacs](https://github.com/FanniTakax)
 - [Yondy](https://github.com/dms-yondy)
