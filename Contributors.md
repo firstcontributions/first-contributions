@@ -11,6 +11,7 @@
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
 - [Rohan Rathi](https://github.com/RohanIRathi)
+- [Subhasis Patra](https://github.com/SOLITIX)
 -  [Rajesh Alane](https://www.github.com/rajeshalane)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
 - [Siddharth Kothari] (https://github.com/siddharth997-png)
