@@ -5565,6 +5565,7 @@ Keshav goel
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
 - [duffttt](https://github.com/duffttt)
+- [Zaid Maniyar] (https://github.com/zaidmanyar)
 - [Carlos Martel Lamas](https://github.com/Letram) 
 - [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
@@ -5802,5 +5803,5 @@ Hirva  Shah
 - [Pumpkinman](https://github.com/pumpkinman008)
 - [Ritish Kumar](https://github.com/mofolactic)
 - [Swarnim Gupta] (https://github.com/Swarnim01)
-- [Zaid Maniyar] (https://github.com/zaidmanyar)
+
 
