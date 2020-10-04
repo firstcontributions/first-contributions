@@ -4,6 +4,7 @@
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
+- [Easwari Ramani](https://github.com/eshu14)
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
 - [Rohan Rathi](https://github.com/RohanIRathi)
