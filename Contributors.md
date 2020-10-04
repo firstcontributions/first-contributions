@@ -163,6 +163,7 @@
 - [Shubham Sharma] (https://github.com/Shubham1605)
 - [Darshil Papalkar](https://github.com/Darshil-Papalkar)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
+- [Chandan Shetti](https://github.com/ChandanRS)
 - [Hitesh Kumar] (https://github.com/hiteshhedwig)
 -[Mohit Dayal] (https://github.com/mohit385)
 - [Reyna Zaru](https://github.com/reynazee)
