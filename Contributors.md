@@ -5838,6 +5838,7 @@ Keshav goel
 - [Chaitanya Pawar](https://github.com/chaitanyanitpawar)
 - [Ritul Jain](https://github.com/Lutir)
 - [Sagar Utekar](https://github.com/Sagar2366)
+- [Rojina Deuja](https://github.com/rojinadeuja)
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
 Hirva  Shah
 - [Paul Clement](https://github.com/nut556)
