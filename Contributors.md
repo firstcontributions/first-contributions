@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Anand Kumar] (https://github.com/Anandsharmak/)
+- [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
