@@ -14,6 +14,9 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.hi.md">हिन्दी</a>
         </td>
         <td>
+           <a href="../translations/README.guj.md">ગુજરાતી</a>
+        </td>
+        <td>
            <a href="../translations/README.mr.md">मराठी</a>
         </td>	
 	<td>
@@ -40,6 +43,9 @@ If you're making changes to a translation, please request a review from our prev
             <img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />
         </td>
         <td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />
+        </td>
+        <td>
             <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />
         </td>
 	<td>
@@ -64,6 +70,9 @@ If you're making changes to a translation, please request a review from our prev
     <tr>
         <td>
             <a href="https://github.com/arshadkazmi42">arshadkazmi42</a>
+        </td>
+        <td>
+            <a href="https://github.com/smitgajjar">smitgajjar</a>
         </td>
         <td>
             <a href="https://github.com/bantya">bantya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
