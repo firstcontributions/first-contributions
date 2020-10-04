@@ -437,6 +437,8 @@ mOrTaL💀
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang]
+- [Sarah Yap](https://github.com/skyuanow)
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Martin Hoffmann](https://github.com/martinh-dev)
 - [Serena Wang] 
 - [Sarah Yap](https://github.com/skyuanow)
@@ -5706,6 +5708,7 @@ Keshav goel
 - [Didar Ali](https://github.com/didar15)
 - [Sandi aris](https://github.com/sandi-aris)
 - [Fred Cobb]
+- [Jordyn! :)]
 - [Alice Lia Stapleton](https://github.com/slimelia)
 - [Ruan Knoetze] (https://github.com/RuanKnoetze0308)
 - [Artyom Novoselov] (https://github.com/potyoma)
