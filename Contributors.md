@@ -5848,6 +5848,7 @@ Keshav goel
 Hirva  Shah
 - [Jessica Albert](https://github.com/jmalbert7)
 - [Paul Clement](https://github.com/nut556)
+- [Manisha Chaurasia](https://github.com/mchauras1)
 - Marcel2020
 - [Pooja Arya](https://github.com/poojavarya)
 - [CT]
