@@ -383,6 +383,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/TomerPacific">TomerPacific</a>
         </td>
+         <td>
+            <a href="https://github.com/kfajarbowo">kfajarbowo</a>
+        </td>
     </tr>
 </table>
 
