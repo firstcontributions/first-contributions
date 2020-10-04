@@ -18,6 +18,7 @@
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
+- [Muskan Duseja](https://github.com/muskan2729)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
 - [Moyan Zhou](https://github.com/bananannn)
