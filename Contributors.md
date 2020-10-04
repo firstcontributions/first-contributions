@@ -309,6 +309,7 @@ mOrTaL💀
 - [Omkar Nehete] (https://github.com/OmkarNehete)
 - [Andrew Martin](https://github.com/annima24)
 - [Ishika Guleria](https://github.com/ishikaguleria)
+- [Syed Faiz Hasan](https://github.com/faiz-hasan11)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
 - [Meera Mehta (https://github.com/meeramehta)
