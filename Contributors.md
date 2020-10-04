@@ -5916,6 +5916,7 @@ Hirva  Shah
 - [Manisha Chaurasia](https://github.com/mchauras1)
 - Marcel2020
 - [Pooja Arya](https://github.com/poojavarya)
+- [Vera Rodriguez](https://github.com/veralizeth)
 - [Radhika Sachan](https://github.com/radhikasachan11)
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Douglas Willamis](https://github.com/DouglasWillamis)
