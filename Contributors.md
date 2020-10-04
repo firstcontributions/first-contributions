@@ -41,6 +41,7 @@
 - [Andrew Bickford](https://github.com/3kmibvxjsi9d)
 - [HassanRaza](https://github.com/rza8301)
 - [LuisRivera162](https://github.com/LuisRivera162)
+- [Avinash Kumar](https://github.com/avinashbest)
 - [Milanmeu] (https://github.com/milanmeu)
 - [Dylan Longlands] (https://github.com/dlonglands99)
 - [mk-knight23] (https://github.com/mk-knight23)
