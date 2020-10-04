@@ -7,6 +7,7 @@
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
+- [Anandh Gopal] (https://github.com/happeecoder)
 - [Goutham S] (https://github.com/GouthamSurendran)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
 -[Rudransh Arora](https://github.com/Red-0111)
