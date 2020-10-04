@@ -1,4 +1,5 @@
 # Contributors
+- [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
