@@ -407,6 +407,7 @@ mOrTaL💀
 - [Anurag Singh](https://github.com/singhanurag05)
 - [Rathin R](https://github.com/meliodas-123)
 - [Richa](https://github.com/richa1200)
+- [Aanchal](https://github.com/aanchal-fatwani)
 - [Kanishka Vijayvargiya](https://github.com/kanishka8276)
 - [Vishakha Kumaresan](https://github.com/Vishakha1909)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
