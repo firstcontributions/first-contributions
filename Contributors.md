@@ -12,7 +12,6 @@
 - [Aman](https://github.com/Lord-Aman)
 - [my github url] (https://github.com/rladbgus)
 - [Abhishek Rawe](https://github.com/abhishekrawe)
-- [Sejal Sumi](https://github.com/sejalrastogi)
 - [Mohamed Salah] (https://github.com/M-O-H)
 - [Rohan Rathi](https://github.com/RohanIRathi)
 - [Subhasis Patra](https://github.com/SOLITIX)
@@ -5988,3 +5987,4 @@ Hirva  Shah
 - [Evan Alioto](https://github.com/AlignSD)
 - [Ben Kim](https://github.com/praconfi)
 - [James Culshaw] (https://github.com/jamesculshaw)
+- [Ayush Basral] (https://github.com/ABasral)
