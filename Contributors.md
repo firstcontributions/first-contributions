@@ -1,4 +1,5 @@
 # Contributors
+- [Amy Huyen](https://github.com/amyhuyen98)
 - [Sweta Singhal](https://github.com/swetasinghal28)
 - [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Junyi Chen](https://github.com/junyi-chen0801)
