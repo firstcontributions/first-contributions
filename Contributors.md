@@ -50,6 +50,7 @@
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
 - [Mahima Gupta]
+- [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
 -[Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
