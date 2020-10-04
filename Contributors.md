@@ -5921,6 +5921,7 @@ Hirva  Shah
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Kristina Wong](https://github.com/dhuang07)
 - [Chong Deng](https://github.com/chong-d)
 - [Shreya Malik](https://github.com/shreyamalik19)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
