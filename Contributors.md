@@ -1,4 +1,5 @@
 # Contributors
+- [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
