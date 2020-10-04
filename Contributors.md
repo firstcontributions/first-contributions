@@ -188,6 +188,7 @@
 - Lemon Ruan
 - [Sumit Heda](https://github.com/hedasumit)
 - [Emma Brown](https://github.com/nworb95)
+- James
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 -kemayakr
 - Celia
