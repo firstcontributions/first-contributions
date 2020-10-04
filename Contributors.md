@@ -5903,6 +5903,7 @@ Hirva  Shah
 - [CT]
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
+- [Kan Fu](https://github.com/fukan000)
 - [Sakshi C](https://github.com/sakshi-rg)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
