@@ -28,6 +28,7 @@
 - [Agus Rian](https://github.com/agusrian97)
 - [Marco De Anda](https://github.com/marcodeanda)
 - [Türkay Tunç](https://github.com/turkaytunc)
+- [Supriya](https://github.com/supriyamaram02)
 - [Christine Kingsley](https://github.com/Aubear99)
 - [William Nicholson](https://github.com/Passenger89)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
