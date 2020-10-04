@@ -5973,4 +5973,4 @@ Hirva  Shah
 - [Evan Alioto](https://github.com/AlignSD)
 - [Ben Kim](https://github.com/praconfi)
 - [James Culshaw] (https://github.com/jamesculshaw)
-- [Jure Filipic] (https://github.com/juref)
+- [Jure Filipic] (https://github.com/juref),
