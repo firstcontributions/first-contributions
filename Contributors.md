@@ -53,7 +53,7 @@ Ayush Goyal
 - Arpit Batra
 - Satyam Dua
 mOrTaL💀
-- Rudra Pratap
+- [Rudra Pratap](https://github.com/rudyredhat)
 - KhushiO BATRA
 - Amar kumar
 - Harshal Dehra
