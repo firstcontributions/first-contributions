@@ -1,4 +1,5 @@
 # Contributors
+- [Theresa Cho](https://github.com/tcho6319)
 - [Anand Kumar] (https://github.com/Anandsharmak/)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
