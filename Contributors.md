@@ -440,6 +440,7 @@ mOrTaL💀
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
 - [Vishwas Modhera](https://github.com/vishxm)
+- [Sachin Kumar](https://github.com/sachin161kr)
 - [Rujul Patel](https://github.com/Rujul-Patel)
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
