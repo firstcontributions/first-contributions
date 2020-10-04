@@ -4,6 +4,7 @@
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
+- [kartikbha-lucifer](https://github.com/kartikbha-lucifer/)
 - [Ritvika Sonawane](https://github.com/alex-2410)
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Brad Wong](https://github.com/bradmwong)
