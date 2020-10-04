@@ -19,6 +19,7 @@
 - Lorin Achey
 - Tanmay Arora
 - M007RA
+- [tim Peng](https://github.com/typg93)
 Ayush Goyal
 - Arpit Batra
 - KhushiO BATRA
