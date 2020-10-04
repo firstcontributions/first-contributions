@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
+- [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
 - [my github url] (https://github.com/rladbgus)
