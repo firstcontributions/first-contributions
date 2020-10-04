@@ -280,6 +280,7 @@ mOrTaL💀
 - [Viswanath Natraj](https://github.com/viswa08)
 - [Andy Huang] (https://github.com/andyhuang3)
 - [Quack Jack](https://github.com/quackjack)
+- [Yonatan Gal](https://github.com/yonatanGal)
 - [Mayank Jain](https://github.com/mayankjain985)
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Ask Jag](https://github.com/AskJag07)
