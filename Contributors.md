@@ -5990,6 +5990,7 @@ Hirva  Shah
 - [Yasmim Corrêa](https://github.com/ygcorrea)
 - [bugtective](https://github.com/bugtective)
 - [Nash Vincent](https://github.com/nashvincent)
+- [Divyesh Golani](https://github.com/DivyeshGolani)
 - [Aishwarya Maggi](https://github.com/AishwaryaMaggi)
 - [Matt Lazana](https://github.com/freder2002)
 - [Pratik Morve](https://github.com/pratikmorve)
@@ -6051,3 +6052,4 @@ Hirva  Shah
 - [Garima Mishra] (https://github.com/garimamishraa)
 - [Smruti Ranjan Sahoo] (https://github.com/c99SRS)
 - [Zaid Habibi] (https://github.com/zaidhabibi)
+
