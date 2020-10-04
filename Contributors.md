@@ -9,9 +9,10 @@
 - [Ishan Roychowdhury] (https://github.com/hi101000)
 - [Anandh Gopal] (https://github.com/happeecoder)
 - [Goutham S] (https://github.com/GouthamSurendran)
+- [Dilip K N](https://github.com/dilipkn007/)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
--[Rudransh Arora](https://github.com/Red-0111)
--[MRPMOHIBURRAHMAN](https://github.com/mrpmohiburrahman)
+- [Rudransh Arora](https://github.com/Red-0111)
+- [MRPMOHIBURRAHMAN](https://github.com/mrpmohiburrahman)
 - [Agus Rian](https://github.com/agusrian97)
 - [Marco De Anda](https://github.com/marcodeanda)
 - [Türkay Tunç](https://github.com/turkaytunc)
@@ -39,7 +40,7 @@
 - [zelkor](https://github.com/zelkor)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
-  [Vaibhav Tripathi](https://github.com/vaibhavtripathi1209)
+- [Vaibhav Tripathi](https://github.com/vaibhavtripathi1209)
 - [Yuvraj Verma](https://github.com/yuvrajverma01)
 - [Bishwash Pokhrel] (https://github.com/bishwash26)
 - [Bifeldy](https://github.com/bifeldy)
@@ -59,7 +60,7 @@
 - [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
--[Salonee Gupta](https://github.com/salonee05)
+- [Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma]https://github.com/MAYANK25402
 - [Prabhat Malhotra](https://github.com/malhotra1432)
@@ -79,7 +80,7 @@
 - Kapil Singh Negi
 - [Gaurav Kar](https://github.com/grvkr777)
 - [Damue Brandon](https://github.com/brandonbawe)
-- Conor Lambert
+- [Conor Lambert]
 - [Jenndroid](https://github.com/jenndroid)
 - [Samik Goyal](https://github.com/Samikdevel)
 - Marcus Luong (https://github.com/MarcusLuong)
@@ -100,19 +101,19 @@
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Nisarga Patil] (https://github.com/npatil19)
 - [Ritvika Sonawane](https://github.com/alex-2410)
--[Esther Mueni]
+- [Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
 - [Catelen Wu](https://github.com/catw101)
 - [DavidDahan]
 - [Jck](https://github.com/ashujack)
--_[Soufiane BANNOUNI](https://github.com/souben)
+- [Soufiane BANNOUNI](https://github.com/souben)
 - [Divyansh Pandey] (https://github.com/DEAThWALNUt)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
-= [Anvesh Verma](https://github.com/anveshverma)
+- [Anvesh Verma](https://github.com/anveshverma)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
-- Sejal Jain(https://github.com/sejaljain123)
+- [Sejal Jain](https://github.com/sejaljain123)
 - [Thiago Fonseca Tahara](https://github.com/thiagoft)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
@@ -125,20 +126,20 @@
 - [Ayush Patel](https://www.github.com/ayushnpatel)
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
-- Lemon Ruan
+- [Lemon Ruan]
 - [Sumit Heda](https://github.com/hedasumit)
 - [Emma Brown](https://github.com/nworb95)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
--kemayakr
-- Celia
-- WD
-  Adarsh Goyal
+- [kemayakr]
+- [Celia]
+- [WD]
+- [Adarsh Goyal]
 - [Pranjal Singh] (https://github.com/pranjal2000)
-- Derryl Kevin Monis
-- Lizard
-- Aditi Debnath
+- [Derryl Kevin Monis]
+- [Lizard]
+- [Aditi Debnath]
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
-- Anurag Mishra (https://github.com/i-anuragmishra)
+- [Anurag Mishra](https://github.com/i-anuragmishra)
 - [Ritesh Kumar] (https://github.com/Ritesh055)
 - [Shruthi K] (https://github.com/shkundap)
 - [HeroCharge] (https://github.com/herocharge)
@@ -147,12 +148,12 @@
 - [Nathan Beard] (https://github.com/nbeard49)
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - [Romain Coudour](https://github.com/RomainCoudour)
-- Shaoni Dutta
-- Manuja
+- [Shaoni Dutta]
+- [Manuja]
 - [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
--[Drishti Agarwal](https://github.com/drishti-agarwal)
-- (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
+- [Drishti Agarwal](https://github.com/drishti-agarwal)
+- [Syed Sami](https://github.com/ssyed427890/Learning-code/tree/branch_b)
 - [Sandip Baidya](https://github.com/sandip-baidya)
 - [Elizabeth Sotomayor](https://github.com/carsandparties/)
 - [Nancy Lambert] (https://github.com/n-lambert)
@@ -198,7 +199,7 @@
 - [Isaias] (https://github.com/0strichKnight)
 - [Krishna Maringanty] (https://github.com/KrishnaKavya)
 - Lorin Achey
-- Urfa Ansari (https://github.com/Urfafazli)
+- [Urfa Ansari](https://github.com/Urfafazli)
 - Tanmay Arora
 - Sreenidhi 
 - [Shairan Shrawat](https://github.com/shairanshrawat)
