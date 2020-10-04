@@ -1,4 +1,5 @@
 # Contributors
+- [Cassidy Skorczewski](https://github.com/cskor)
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
 - [Hannah Weber](https://github.com/hannah-weber)
 - [Roisin O'Dowd](https://github.com/RoisinODowd)
