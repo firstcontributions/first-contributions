@@ -167,6 +167,7 @@
 - [Rishu Kumar](https://github.com/Logan7282)
 - [Abhijit Roy](https://github.com/EmberCS15)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
+- [Alejandro Olaria AKA Alo Slim] (https://github.com/aolaria/)
 - [Kajori Ghosh](https://github.com/Kajori4)
 - [Sujan Chhetri](https://github.com/sujanchhetri)
 - [Dipin Garg](https://github.com/dgargdipin)
