@@ -5891,3 +5891,4 @@ Hirva  Shah
 - [Shubham Sharma](https://github.com/ssharma71)
 - [Alonzo Church](https://galois.com/team/alonzo-church/)
 - [Fatur Rahman](https://github.com/faturkamvret)
+- [Leonardo Alvarenga](https://github.com/LeoAlvarenga)
