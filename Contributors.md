@@ -5922,3 +5922,4 @@ Hirva  Shah
 - Ferariu Paul-Andrei
 - [Evan Alioto](https://github.com/AlignSD)
 - [Ben Kim](https://github.com/praconfi)
+- [H.H.Ming](https://github.com/hms5232)

@@ -24,9 +24,9 @@
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-接下來，將複製後的儲存庫複製到你/妳的電腦上。點選圖示中的綠色按鈕，接著點選複製到剪切板按鈕（將儲存庫地址複製下來）
+接下來，將複製後的儲存庫複製到你/妳的電腦上。點選圖示中的綠色按鈕，接著點選複製到剪貼簿按鈕（將儲存庫地址複製下來）
 
-隨後打開命令行窗口，敲入如下 git 命令：
+隨後打開命令列視窗，鍵入如下 git 命令：
 
 ```
 git clone "url you just copied"
