@@ -38,6 +38,7 @@
   [Deji Adeyemo] (https://github.com/k-plasma)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
+- [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
 - [Anshuman Parmar](https://github.com/anshuman725?tab=repositories)
