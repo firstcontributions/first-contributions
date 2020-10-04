@@ -30,6 +30,7 @@
 - [mk-knight23] (https://github.com/mk-knight23)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
+- [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
 - [Richard Young](https://github.com/Richard-Young)
