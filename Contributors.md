@@ -32,6 +32,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Pretam Chandra]
 - [Kritika Yadav]
+- [Anshuman Parmar]
 - [Richard Young](https://github.com/Richard-Young)
 - [zelkor](https://github.com/zelkor)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
