@@ -5920,6 +5920,7 @@ Hirva  Shah
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Chong Deng](https://github.com/chong-d)
 - [Shreya Malik](https://github.com/shreyamalik19)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
 - [Eden JnBaptiste](https://github.com/EdenAsh)
