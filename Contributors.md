@@ -41,6 +41,7 @@
 - [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
+- [Easwari Ramani]
 - [Anshuman Parmar](https://github.com/anshuman725?tab=repositories)
 - [Richard Young](https://github.com/Richard-Young)
 - [zelkor](https://github.com/zelkor)
