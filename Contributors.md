@@ -1,4 +1,5 @@
 # Contributors
+- [Roisin O'Dowd](https://github.com/RoisinODowd)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
