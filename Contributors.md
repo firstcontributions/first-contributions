@@ -1,4 +1,5 @@
 # Contributors
+- [Sami Kalammallah](https://github.com/SamX23)
 - [Maddy Havranek](https://github.com/mrhavranek)
 - [Cari Gan](https://github.com/cariygan)
   [Sulphur1010](https://github.com/sulphur1010)
