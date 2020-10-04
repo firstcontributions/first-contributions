@@ -1,4 +1,5 @@
 # Contributors
+- [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
