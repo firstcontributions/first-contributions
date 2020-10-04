@@ -1,4 +1,5 @@
 # Contributors
+- [Ting Li](https://github.com/LTille)
 - [Sami Kalammallah](https://github.com/SamX23)
 - [Maddy Havranek](https://github.com/mrhavranek)
 - [Cari Gan](https://github.com/cariygan)
