@@ -5992,3 +5992,4 @@ Hirva  Shah
 - [Ben Kim](https://github.com/praconfi)
 - [James Culshaw] (https://github.com/jamesculshaw)
 - [Garima Mishra] (https://github.com/garimamishraa)
+- [Zaid Habibi] (https://github.com/zaidhabibi)
