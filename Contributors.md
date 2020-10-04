@@ -5863,6 +5863,9 @@ Hirva  Shah
 - [CT]
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
+- [Sakshi C](https://github.com/sakshi-rg)
+- [Lauren Kosub](https://github.com/laurenkosub)
+- [Sanjana Sekar](https://github.com/sanjanasekar)
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
