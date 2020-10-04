@@ -5950,6 +5950,7 @@ Hirva  Shah
 - [Sujatha Nagarajan](https://github.com/sujathawgp)
 - [Abigail Yang](https://github.com/yangjabigail)
 - [Anupama Jeevan](https://github.com/anupamajeevan)
+- [Hsin Ting Ho](https://github.com/HsinTingHo)
 - [Katie Ryan](https://github.com/katier2d2)
 - [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
 - [Monika Sivamoorthy](https://github.com/monikas-github)
