@@ -144,6 +144,7 @@
 - [Lakshya Sethi](https://github.com/lakshyamcs16)
 - [Ayush Patel](https://www.github.com/ayushnpatel)
 - [Xin Li] (https://github.com/3xinli)
+- [cedrvanh](https://www.github.com/cedrvanh)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - Lemon Ruan
 - [Sumit Heda](https://github.com/hedasumit)
