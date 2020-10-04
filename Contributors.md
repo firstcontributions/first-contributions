@@ -12,6 +12,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
+-[Anurag Yadav](https://github.com/Arg85)
 - [Yuvraj Verma](https://github.com/yuvrajverma01)
 - [Bishwash Pokhrel] (https://github.com/bishwash26)
 - [Bifeldy](https://github.com/bifeldy)
