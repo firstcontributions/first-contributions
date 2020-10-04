@@ -1,4 +1,5 @@
 # Contributors
+- [Ananya Bal](https://github.com/Anniebbb)
 - [Cassidy Skorczewski](https://github.com/cskor)
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
 - [Hannah Weber](https://github.com/hannah-weber)
