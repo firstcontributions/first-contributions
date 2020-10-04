@@ -5,6 +5,7 @@
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
 - [my github url] (https://github.com/rladbgus)
+-  [Rohan Rathi](https://github.com/RohanIRathi)
 - [Mohamed Salah] (https://github.com/M-O-H)
 -  [Rajesh Alane](https://www.github.com/rajeshalane)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
