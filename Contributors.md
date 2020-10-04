@@ -329,6 +329,7 @@ mOrTaL💀
 - [VivekSharma](https://github.com/viveksharma2382000)
 - [Vaishnav Trivedi](https://github.com/Vanhsiav-afk)
 - [Ujjwal](https://github.com/Ujjwal3009)
+- [Rohit kumar](https://github.com/rohitkr789)
 -[Arpit](https://github.com/arkreactor-1729)
   [Abhishek jha](https://github.com/abhi-469)
 - [Saksham Gupta](https://github.com/isakshamgupta)
