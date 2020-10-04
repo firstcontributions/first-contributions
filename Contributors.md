@@ -5915,6 +5915,7 @@ Hirva  Shah
 - [Fatur Rahman](https://github.com/faturkamvret)
 - [Leonardo Alvarenga](https://github.com/LeoAlvarenga)
 - [Yury Mikhaylov](https://github.com/Mikhaylov-yv)
+- [Razvan V.](https://github.com/raz-m12)
 - Ferariu Paul-Andrei
 - [Evan Alioto](https://github.com/AlignSD)
 - [Ben Kim](https://github.com/praconfi)
