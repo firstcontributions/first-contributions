@@ -5923,6 +5923,7 @@ Hirva  Shah
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Chloe Lee](https://github.com/wookyunglee97)
 - [Mohammad Zamran](https://github.com/ZamranxD)
 - [Farah Davoodi](https://github.com/in-formation)
 - [siahuang](https://github.com/pshuan0226)
