@@ -1,4 +1,5 @@
 # Contributors
+- [Daniela Contador Zanforlin](https://github.com/djcontador)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Ting Li](https://github.com/LTille)
 - [Sami Kalammallah](https://github.com/SamX23)
