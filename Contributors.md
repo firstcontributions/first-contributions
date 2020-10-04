@@ -40,6 +40,7 @@
 - [Yuvraj Verma](https://github.com/yuvrajverma01)
 - [Bishwash Pokhrel] (https://github.com/bishwash26)
 - [Bifeldy](https://github.com/bifeldy)
+- [Anita Kumari](https://github.com/anitagupta1)
 - [Mariem Khlifi](https://github.com/khmariem)
 - [Vishal Gupta] (https://github.com/guptamanu409)
 - [Yesheng Chen](https://github.com/yesheng7152)
