@@ -5915,6 +5915,7 @@ Hirva  Shah
 - [Kan Fu](https://github.com/fukan000)
 - [Sakshi C](https://github.com/sakshi-rg)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Cara Wong](https://github.com/cara-wong)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
