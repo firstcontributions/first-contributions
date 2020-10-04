@@ -57,6 +57,7 @@
 - [Mahima Gupta]
 - [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
+- [Rahul Verma ](https://github.com/rahulvermafreelancer)
 -[Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma]https://github.com/MAYANK25402
