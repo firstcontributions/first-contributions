@@ -4287,6 +4287,7 @@ Keshav goel
 - [Will Collins](https://github.com/wcollins37)
 - [Daniel Memije](https://github.com/memije) :rocket:
 - [Zach Rudy](https://github.com/zcr7948)
+- [David Marom](https://github.com/DavidMarom)
 - [Faial](https://github.com/fabfas)
 - [Alex White](https://github.com/alex-wh)
 - [manusanchev](https://github.com/manusanchev)
