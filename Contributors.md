@@ -583,6 +583,7 @@ mOrTaL💀
 - [Abhinav Tiwari] (https://github.com/abhinav-idle)
 - Omar Navarro
 - [Anders Djursaa](https://github.com/adjuc)
+- [Candra Perdana](https://github.com/cp2940)
 - Praveen Raj
 - Simon Hanrath
 -[Sarah Srebalus] (https://github.com/sarahsreb)
