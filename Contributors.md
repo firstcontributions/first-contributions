@@ -284,6 +284,7 @@
   [Maulik Varshney](https://github.com/MaulikVarshney)
   [Nick Paisley](https://github.com/nickpaisley)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
+- [Mia Manalastas](https://github.com/mia-m/)
 - [Ainur Rahmat](https://github.com/ainurx)
 - [Jonathon Lopez](https://github.com/JonathonLLopez)
 - [Lubna Attar](https://github.com/lubnaattar)
