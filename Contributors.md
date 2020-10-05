@@ -16,6 +16,7 @@
 - [Margarita Fernandez](https://github.com/Marga1998)
 - [Himanshi Kaushik](https://github.com/himanshi1996)
 - [Ananya Bal](https://github.com/Anniebbb)
+- [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Cassidy Skorczewski](https://github.com/cskor)
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
 - [HariKrishna Shivanathri](https://github.com/HariKrishnaShivs)
