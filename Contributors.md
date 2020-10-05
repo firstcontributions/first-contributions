@@ -1216,6 +1216,7 @@ Sumit Sagar
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Ayushi Srivastava](https://github.com/srivastavayushi)
 - [Shrish Tripathi](https://github.com/shrishtrip)
+- [Daniel Sturm](https://github.com/dassturm)
 - [Okezie Chiedozie](https://github.com/okezieuc)
 - [Akshat Sood](https://github.com/akshatsood2249)
 - [Dmitry Vladov](https://github.com/dvladov73)
