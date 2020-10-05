@@ -299,6 +299,7 @@
 - [Lubna Attar](https://github.com/lubnaattar)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
+- [Lisa Liu](https://github.com/lisaliu2020)
 - [Vimal Mishra](https://github.com/mishravimal99)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Wilton Oliveira](https://github.com/wiltonoliveira)
