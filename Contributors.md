@@ -1,5 +1,6 @@
 # Contributors
 - [Arif Dermawan](https://github.com/fsociety343)
+- [Akshat Bhat](https://github.com/AkshatBhat)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
 - [Vino Ram](https://github.com/vino83)
