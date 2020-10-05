@@ -6076,6 +6076,7 @@ Hirva  Shah
 - [Ilham Riana](https://github.com/lhmrnfrzrfr)
 - [Andreas Nandiwardhana](https://github.com/andreasnw)
 - [Devon Fazekas](https://github.com/FazekasDevon96)
+- [bharat jadhav](https://github.com/bharatjadhav)
 - [Pranav Sivvam](https://github.com/vulf)
 - [Yash Upadhyay](https://github.com/yashupadhyay101)
 - [Samuel Haiden](https://github.com/samhai11)
