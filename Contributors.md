@@ -5988,6 +5988,7 @@ Hirva  Shah
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Eunice Kang](https://github.com/eunicemk)
 - [Dines Larsen](https://github.com/nyd3lig)
 - [Julia Zeng](https://github.com/jzeng23)
 - [Chloe Lee](https://github.com/wookyunglee97)
