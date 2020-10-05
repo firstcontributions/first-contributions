@@ -515,6 +515,7 @@ mOrTaL💀
 - [Vishwas Modhera](https://github.com/vishxm)
 - [Sachin Kumar](https://github.com/sachin161kr)
 - [Rujul Patel](https://github.com/Rujul-Patel)
+- [Candra Perdana](https://github.com/cp2940)
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Shreya Modi] (https://github.com/shreyamodi1999/)
