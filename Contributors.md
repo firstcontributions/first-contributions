@@ -19,6 +19,7 @@
 - [Himanshi Kaushik](https://github.com/himanshi1996)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
+- [Kyara van Putten](https://github.com/Kiralinn)
 - [Cassidy Skorczewski](https://github.com/cskor)
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
 - [HariKrishna Shivanathri](https://github.com/HariKrishnaShivs)
