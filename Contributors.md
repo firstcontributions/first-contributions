@@ -259,6 +259,7 @@
 - [Alejandro Olaria AKA Alo Slim] (https://github.com/aolaria/)
 - [Kajori Ghosh](https://github.com/Kajori4)
 - [Sujan Chhetri](https://github.com/sujanchhetri)
+- [bharath-acchu](https://github.com/bharath-acchu)
 - [Dipin Garg](https://github.com/dgargdipin)
 -[sagar sarkar](https://github.com/ssarkar786)
 - [Jamie Tan](https://github.com/jlt10)
