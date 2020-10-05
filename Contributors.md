@@ -5430,6 +5430,7 @@ Keshav goel
 - [@roshan](https://github.com/roshnx)
 - [Philip Viljoen](https://github.com/pviljo101)
 - [Lawrence Hebia](https://github.com/lhebia)
+- [Kathrin Schmitz](https://github.com/kschmitz123)
 - [Ashish Thombre](https://github.com/AshishThombre)
 - [Simran Raj](https://github.com/SIMRAN88)
 - [L K](https://github.com/100arp)
