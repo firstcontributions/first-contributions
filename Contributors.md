@@ -99,6 +99,7 @@
 - [V01D](https://github.com/V01D-NULL)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
+- [AngelicHeaven](https://github.com/AngelicHeaven)
 - [Clint James Estal](https://cjestal.com)
 - [Surya Narayan Jena](https://github.com/atulsnjena)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
