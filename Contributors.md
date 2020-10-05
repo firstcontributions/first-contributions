@@ -6211,3 +6211,4 @@ Khushi Gupta
 - [Darshan Walchale](https://github.com/ShawnzWal)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - Charlie Wu
+- [Brianne Hinchliffe](https://github.com/briannehinchliffe)
