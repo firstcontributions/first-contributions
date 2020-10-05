@@ -108,6 +108,7 @@
 - [Catelen Wu](https://github.com/catw101)
 - [DavidDahan]
 - [Jck](https://github.com/ashujack)
+- [adi levy] (https://github.com/Adiso-1)
 -_[Soufiane BANNOUNI](https://github.com/souben)
 - [Divyansh Pandey] (https://github.com/DEAThWALNUt)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
