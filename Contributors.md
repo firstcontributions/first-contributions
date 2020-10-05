@@ -26,6 +26,7 @@
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
+- [Vishal Ambavade](https://github.com/VishalAmbavade)
 - [Muskan Duseja](https://github.com/muskan2729)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [David Thapa](https://github.com/David-Thapa)
