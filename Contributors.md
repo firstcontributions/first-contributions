@@ -85,6 +85,7 @@
 - [Atharva Maid](https://github.com/atharv123-wq)
 - [Pulkit Sapra](https://github.com/pulkitsapra)
 - [Andrew Bickford](https://github.com/3kmibvxjsi9d)
+- [Himanshu Hansaria](https://github.com/Mrsterius)
 - [Della Lin](https://github.com/della222)
 - [HassanRaza](https://github.com/rza8301)
 - [LuisRivera162](https://github.com/LuisRivera162)
