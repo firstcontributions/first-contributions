@@ -198,6 +198,7 @@
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Nisarga Patil] (https://github.com/npatil19)
+- [Krishna Vishwakarma](https://github.com/thinkswell)
 - [Ritvika Sonawane](https://github.com/alex-2410)
 - [Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
