@@ -18,6 +18,7 @@
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
 - [Hannah Weber](https://github.com/hannah-weber)
 - [Roisin O'Dowd](https://github.com/RoisinODowd)
+- [Tarun Karamchandani](https://github.com/taruntk)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
