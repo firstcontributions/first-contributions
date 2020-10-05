@@ -5709,6 +5709,7 @@ Keshav goel
 - [LeonClancy](https://github.com/LeonClancy)
 - [BBundi :bird:](https://github.com/bengaara)
 - [Ashish Kini](https://github.com/kiniashish)
+- [Nitish Awasthi](https://github.com/Nitish-Awasthi)
 - [Bartlomiej Drazkiewicz](https://github.com/drazkiewiczbart)
 - [James Hwang](https://github.com/beartt)
 - [Vito Ghifari](https://github.com/vanadiumOxide)
