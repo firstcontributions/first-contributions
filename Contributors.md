@@ -6080,6 +6080,7 @@ Hirva  Shah
 - [Devon Fazekas](https://github.com/FazekasDevon96)
 - [bharat jadhav](https://github.com/bharatjadhav)
 - [Pranav Sivvam](https://github.com/vulf)
+- [Seydoux Alejandra](https://github.com/maog19)
 - [Yash Upadhyay](https://github.com/yashupadhyay101)
 - [Samuel Haiden](https://github.com/samhai11)
 - [Pratik Sharma](https://github.com/pratikshar181)
