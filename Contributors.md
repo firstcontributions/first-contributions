@@ -17,6 +17,7 @@
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Cassidy Skorczewski](https://github.com/cskor)
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
+- [HariKrishna Shivanathri](https://github.com/HariKrishnaShivs)
 - [Hannah Weber](https://github.com/hannah-weber)
 - [Roisin O'Dowd](https://github.com/RoisinODowd)
 - [Tarun Karamchandani](https://github.com/taruntk)
