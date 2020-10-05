@@ -1,5 +1,6 @@
 # Contributors
 - [Manjit Pardeshi](https://github.com/Manjit2003)
+- [William Alvis](https://github.com/WaAlvis)
 - [Luna Feng](https://github.com/lunafeng)
 - [Yingying Wu](https://github.com/CodeYing)
 - [Amy Huyen](https://github.com/amyhuyen98)
