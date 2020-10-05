@@ -145,6 +145,7 @@
 - [Damue Brandon](https://github.com/brandonbawe)
 - Conor Lambert
 - [Meng Kit]
+- [idrees]()
 - [Jenndroid](https://github.com/jenndroid)
 - [Samik Goyal](https://github.com/Samikdevel)
 - Marcus Luong (https://github.com/MarcusLuong)
