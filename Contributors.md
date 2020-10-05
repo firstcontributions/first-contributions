@@ -12,6 +12,7 @@
 - [Winny Hu](https://github.com/huhuining)
 - [Arushi Agarwal](https://github.com/arushiagar)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
+- [Bhargavi Chada](https://github.com/BhargaviChada)
 - [Gunwoo Martin Ko](https://github.com/gunwooko)
 - [Afranio Alves Garcis](https://github.com/afranioag)
 - [William Alvis](https://github.com/WaAlvis)
