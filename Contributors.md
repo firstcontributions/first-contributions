@@ -1869,6 +1869,7 @@ Khushi Gupta
 - [Narasimha Prasanna HN](https://github.com/Narasimha1997)
 - [Barry Kelly] (https://github.com/grumhub)
 - [Dan](https://github.com/dan-mba)
+- [Shivam](https://github.com/shivamjain26)
 - [Jitendra Sharma](https://github.com/ji10drasharma)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Jarryd Palzenberger](https://github.com/jayp1)
