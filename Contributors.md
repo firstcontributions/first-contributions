@@ -6086,3 +6086,4 @@ Hirva  Shah
 - [Jeryl Seow](https://github.com/jerylseow)
 - [Kritsada Moungkhao](https://github.com/kidkrub)
 - [Keston Timson]
+- [Dominique Kolbe](https://github.com/domko95)
