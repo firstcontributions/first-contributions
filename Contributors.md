@@ -6042,6 +6042,7 @@ Hirva  Shah
 - [Rizky Jayusman](https://github.com/rizkyjayusman)
 - [Preston Crowe](https://github.com/vaugerbird)
 - [soongjamm](https://github.com/soongjamm)
+- [Aarsh Kariya](https://github.com/AarshKariya)
 - [Bruno Almeida](https://github.com/Brunopbb)
 - [Daniel Deng](https://github.com/imgdeng)
 - Bhavana Kumari
