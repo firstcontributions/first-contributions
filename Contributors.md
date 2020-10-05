@@ -29,6 +29,7 @@
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
+- [Adit Sawant](https://github.com/aditsawant)
 - [Xin Zhao](https://github.com/zhaox1999))
 - [Revathy Punithan](https://github.com/revathypunithan)
 - [Margarita Fernandez](https://github.com/Marga1998)
