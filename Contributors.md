@@ -6092,6 +6092,7 @@ Hirva  Shah
 - [I am testing]
 - [Upasana Sinha] (https://github.com/Usinha31)
 - [Rohit Sharma](https://github.com/rohitsssharma1989)
+- [Shahzeb Kazmi](https://github.com/Shahzeb-Kazmi)
 - [Wibowo](https://github.com/bowouhuy)
 - [Gaurac Sharma](https://github.com/gauravsharma97)
 - [Jahnavi Juluri](https://github.com/jahnavi1111)
