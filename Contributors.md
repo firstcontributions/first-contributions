@@ -423,7 +423,7 @@ mOrTaL💀
 - [Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
-- [anky301] (`https://github.com/anky301)
+- [anky301] (https://github.com/anky301)
 - [José Francisco] (https://github.com/JoseFRH17)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Neuroxic](https://github.com/Neuroxic)
@@ -622,13 +622,14 @@ mOrTaL💀
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
+- [Manmeet Singh] (https://github.com/manmeetsingh7781)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Siddarth Awasthi](https://github.com/siddarth308)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
 - [Kiran S Baliga]  (https://github.com/kiransbaliga)
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
--[Michael]
+- [Michael]
 - [Sujatha Mohan sujathamlak]
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
@@ -636,7 +637,7 @@ mOrTaL💀
 - [Kirui victor]
 - [Kevin K Biju]
 - [Nellman] (https://github.com/Nellman1508)
--  [Jithin Jose] (https://github.com/defaultRectr0)
+- [Jithin Jose] (https://github.com/defaultRectr0)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
 - [Bhagya Singh](https://github.com/bhagya05)
@@ -684,7 +685,7 @@ mOrTaL💀
 - [Onkar Sharma](https://github.com/KSHAMIN)
 - [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
-- bidlocode
+- [bidlocode]
 - [Prabaljit Walia](https://github.com/prabal4546)
 - [Vinay Manala](https://github.com/VinayManala)
 - [Shivani Singh](https://github.com/shiv-ani-singh)
