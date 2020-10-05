@@ -155,6 +155,7 @@
 - [Prabhat Malhotra](https://github.com/malhotra1432)
 - [MJ](https://github.com/speklet)
 - [Jordan Ali Hilado](https://github.com/jordanhilado)
+- [Simon Bentley](https://github.com/sbentley85)
 - [Vincent Vais](https://github.com/Vincent-Vais)
 - [Snehjeet Banerjee](https://github.com/SnehjeetBenz)
 - [Samantha Monteiro](https://github.com/samanthakem)
