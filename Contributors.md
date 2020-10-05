@@ -6065,3 +6065,4 @@ Hirva  Shah
 - [Smruti Ranjan Sahoo] (https://github.com/c99SRS)
 - [Zaid Habibi] (https://github.com/zaidhabibi)
 - [Kevin Kee](https://github.com/friendofdog)
+- [Nguyen Nguyen](https://github.com/nguyen0096)
