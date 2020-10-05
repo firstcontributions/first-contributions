@@ -5926,6 +5926,7 @@ Keshav goel
 - [Chandan Kumar](https://github.com/cksharma122)
 - [Anuj Gunjad](https://github.com/anujgunjad)
 - [Suvodeep Sinha](https://github.com/Suvoo)
+- [Jade Chen](https://github.com/jschen1721)
 - [Hemshree](https://github.com/Hemshree)
 - [EklalBudhathoki](https://github.com/Budhathoki356)
 - [mgs salim](https://github.com/wongpenghong)
