@@ -120,6 +120,7 @@
 - [Yesheng Chen](https://github.com/yesheng7152)
 - [Daniela Contador](https://github.com/djcontador)
 - [Rafael Pavarini] (https://github.com/rafaelcgpava)
+- [IndicusDev] (https://github.com/IndicusDev)
 - [Utkrist Neupane] (https://github.com/utkrixx)
 - [sushant kumbhar] (https://github.com/kumbharsushant28)
 - [Chandani Mourya] (https://github.com/ChandaniM)
