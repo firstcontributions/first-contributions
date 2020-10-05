@@ -87,6 +87,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Danny Cheun](https://github.com/dcheun)
 - sejal
+-[Israel](https://github.com/israeltn)
 - [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
