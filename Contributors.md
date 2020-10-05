@@ -3794,6 +3794,7 @@ Keshav goel
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
 - [Ramesh](https://github.com/rallu)
+- [Brisu](https://github.com/brisu)
 - [Swarup Parajuli](https://github.com/mukister/)
 - [Ben Walters](https://github.com/bwalterscoding)
 - [VelxusDev](https://github.com/VelxusDev)
