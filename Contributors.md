@@ -431,6 +431,7 @@ mOrTaL💀
 - [Nikhil Kaushal](https://github.com/nkaushal99)
 - [0708Suzzie](https://github.com/0708Suzzie)
 - [Yash Shukla](https://github.com/Yash1256)
+- [Ranjan Das](https://github.com/dasxran)
 - [Rocio Bruna](https://github.com/RocioBruna)
 - [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
 - [Jitender Pal Singh] (https://github.com/jitender24)
