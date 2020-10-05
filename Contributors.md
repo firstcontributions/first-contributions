@@ -238,6 +238,7 @@
 -kemayakr
 - [Seongoh Ryoo]
 - Celia
+- Jai Solanki
 - WD
   Adarsh Goyal
 - [Pranjal Singh] (https://github.com/pranjal2000)
