@@ -3695,6 +3695,7 @@ Keshav goel
 - [John McGonagle](https://github.com/jgonagle)
 - [Manas Joshi](https://github.com/manasjoshi14)
 - [Steven Zilberberg](https://github.com/srz2)
+- [Meika](https://github.com/olvrmei)
 - [Justin Hiester](https://github.com/jhiester)
 - [Giwoo G Lee](https://github.com/gglee89)
 - [Thomas H](https://github.com/thenderson55)
