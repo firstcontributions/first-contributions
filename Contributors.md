@@ -23,6 +23,7 @@
 - [Sweta Singhal](https://github.com/swetasinghal28)
 - [Prashant Devmane](https://github.com/prashantdevmane)
 - [Firas Ahmed](https://github.com/Firasama29)
+- [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Junyi Chen](https://github.com/junyi-chen0801)
