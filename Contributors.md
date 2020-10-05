@@ -5602,6 +5602,7 @@ Keshav goel
 - [Samir Hembrom](https://github.com/samirhembrom007/)
 - [Jaspreet Singh Kalsi](https://github.com/lazySperm)
 - [Aditi](https://github.com/aditi-n21)
+- [Kelsey Maka] (https://github.com/kcm3394)
 - [Jojo]
 - [Omar]
 - [Thierry]
