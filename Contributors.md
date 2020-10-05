@@ -2942,6 +2942,7 @@ Keshav goel
 - [viswitha](https://github.com/viswitha)
 - [Simran Anand](https://github.com/simrananand-2-11)
 - [Nihit Natu](https://github.com/nihit97natu)
+- [Ritesh Malviya](https://github.com/riteshkumarmalviya)
 - [Aashita Agarwal]
 - [Alejandro DL] 
 - [Robin Sharma](https://github.com/RS-786)
