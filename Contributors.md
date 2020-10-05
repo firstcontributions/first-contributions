@@ -4441,6 +4441,7 @@ Khushi Gupta
 - [Scott Smith](https://github.com/scottosmith)
 - [Luke Colpo](https://github.com/lukecolpo/first-contributions)
 - [Alan da Matta](https://github.com/alandamatta)
+- [Vineet Dhaimodker](https://github.com/Vineet-Dhaimodker)
 - [Ameya Joshi](https://github.com/joshiameya99)
 - [Maksat Hanja](https://github.com/maxathanja)
 - [Przem Wierzbicki](https://github.com/przemwierzbicki)
