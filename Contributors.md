@@ -499,7 +499,7 @@
 - [Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder] (https://github.com/IPSITA2000)
-- [anky301] (`https://github.com/anky301)
+- [anky301] (https://github.com/anky301)
 - [José Francisco] (https://github.com/JoseFRH17)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
 - [Neuroxic](https://github.com/Neuroxic)
@@ -702,13 +702,15 @@
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
+- [Manmeet Singh] (https://github.com/manmeetsingh7781)
 - [Shreya Garg] (https://github.com/einhawking)
 - [Oscar Quinones](https://github.com/oq1991/)
 - [Siddarth Awasthi](https://github.com/siddarth308)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
 - [Kiran S Baliga] (https://github.com/kiransbaliga)
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
-- [Nick Gumbs] -[Michael]
+- [Nick Gumbs]
+- [Michael]
 - [Sujatha Mohan sujathamlak]
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie] -[hamdan abdul](https://github.com/Hamhunter)
@@ -747,7 +749,7 @@
 - [Pinak Datta](https://github.com/Pinak-coder)
 - [Ela Gavrilova] (https://github.com/perlbeforeswine)
 - [Nikhil Pandey](https://github.com/nikhilrpandey)
--[Drew Jolesch](https://github.com/jolesch)
+- [Drew Jolesch](https://github.com/jolesch)
 - [Dayeong Kang](https://github.com/tula3and)
 - [Pavan](https://github.com/Pavan-Kumar122)
 - [Farhan Irani 🚀 😃](https://github.com/farhanirani)
@@ -768,7 +770,7 @@
 - [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
--[Prabaljit Walia](https://github.com/prabal4546)
+- [Prabaljit Walia](https://github.com/prabal4546)
 - [ElenaKout](https://github.com/elenakout)
 - [Vinay Manala](https://github.com/VinayManala)
 - [Shivani Singh](https://github.com/shiv-ani-singh)
