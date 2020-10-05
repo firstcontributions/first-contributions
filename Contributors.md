@@ -110,6 +110,7 @@
 - [Utkrist Neupane] (https://github.com/utkrixx)
 - [sushant kumbhar] (https://github.com/kumbharsushant28)
 - [Chandani Mourya] (https://github.com/ChandaniM)
+- [Pragadesh K] (https://github.com/pragadesh-k)
 - [Diana Cheng] (https://github.com/dianache4685)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Joyce He](https://github.com/jjoycehe)
