@@ -58,6 +58,7 @@
 - [Alex Tu](https://github.com/AlexTu2)
 - [Aquib Zaman](https://github.com/AQUIB-ZAMAN)
 - [Aman](https://github.com/Lord-Aman)
+  [Enzo Konzili](https://github.com/EnzoKonzili)
 - [my github url] (https://github.com/rladbgus)
 - [Abhishek Rawe](https://github.com/abhishekrawe)
 - [Sejal Sumi](https://github.com/sejalrastogi)
