@@ -5522,6 +5522,7 @@ Keshav goel
 - [Ronak Sharma](https://github.com/RonakSharma1)
 - [Kamarul Risman](https://github.com/rismanss)
 - [Jan Carreras Prat](https://jcarreras.es)
+- [Sharvari Raut](https://github.com/sharur7)
 - [MorphTail](https://github.com/m0rphtail)
 - [gatzyw](https://github.com/gatzyw)
 - [kshida](https://github.com/kshida)
