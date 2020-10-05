@@ -4234,7 +4234,7 @@ Khushi Gupta
 - [Jose Ramon Martinez](https://github.com/JRamonMC)
 - [Quaid Johar](https://github.com/Equinox-13)
 - [yea678](https://github.com/yea678)
-- [Rich] (https://github.com/Ecofoot)
+- Rich
 - [mpenrow](https://github.com/mpenrow)
 - [Beth Ackerman](https://github.com/betheackers)
 - [Pushpam Anand](https://github.com/Pushpam-iitd)
