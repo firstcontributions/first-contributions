@@ -6058,4 +6058,5 @@ Hirva  Shah
 - [James Culshaw] (https://github.com/jamesculshaw)
 - [Garima Mishra] (https://github.com/garimamishraa)
 - [Smruti Ranjan Sahoo] (https://github.com/c99SRS)
+- [Oscar M Romero](https://github.com/creaturenex)
 - [Zaid Habibi] (https://github.com/zaidhabibi)
