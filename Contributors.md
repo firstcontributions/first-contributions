@@ -1044,6 +1044,7 @@ Khushi Gupta
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [Riddhi Hakani](https://www.github.com/riddhihakani)
 - [codedevbrad](https://github.com/codedevbrad)
+- [AngelicHeaven](https://github.com/AngelicHeaven)
 - [Clint James Estal](https://cjestal.com)
 - [Surya Narayan Jena](https://github.com/atulsnjena)
 - [Nitish Bhattacharjee](https://github.com/imnrb)
