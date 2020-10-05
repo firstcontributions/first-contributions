@@ -246,6 +246,8 @@
 - [Shruthi K] (https://github.com/shkundap)
 - [HeroCharge] (https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
+  Sunny Kannaujiya
+  Jin Mori
 - [Leo Humphreys](https://github.com/Hubbit200)
 - [Nathan Beard] (https://github.com/nbeard49)
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
