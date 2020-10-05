@@ -302,6 +302,7 @@
 - [Lubna Attar](https://github.com/lubnaattar)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
+- [Ruju Jambusaria](https://github.com/rujuj)
 - [Jai Solanki](https://github.com/jaiksolanki)
 - [Lisa Liu](https://github.com/lisaliu2020)
 - [Vimal Mishra](https://github.com/mishravimal99)
