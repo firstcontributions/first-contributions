@@ -3809,6 +3809,7 @@ Keshav goel
 - [Ayush Bhatnagar](https://github.com/Ayush-Bhatnagar)
 - [Deven Patnaik](https://github.com/devennpatnaik)
 - [Jacob Vanmeter](https://github.com/unroasted)
+- [Striver_99]
 - [Joshua Cook](https://github.com/jdcook3)
 - [Amin Tai] (https://github.com/amintai)
 - [Rafael Rubia](https://github.com/rafaelrubia)
