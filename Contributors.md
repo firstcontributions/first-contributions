@@ -6040,6 +6040,7 @@ Hirva  Shah
 - [Hsin Ting Ho](https://github.com/HsinTingHo)
 - [Katie Ryan](https://github.com/katier2d2)
 - [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
+- [Nat H]
 - [Joanna Zhou](https://github.com/JoannaZhou)
 - Suzette
 - [Mayuri Kambli](https://github.com/mayurikambli)
