@@ -3085,6 +3085,7 @@ Keshav goel
 - [Josh Martin](https://github.com/joshmartintv/)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
 - [Rumen Kasabov](https://github.com/rkasabov)
+- [Varun Singh](https://github.com/warruunn4427)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Varun Singh](https://github.com/varun7244)
 - [Claire](https://github.com/claire-1)
@@ -5946,6 +5947,7 @@ Keshav goel
 - [Angelina Tang](https://github.com/AngelinaNTang)
 - [Muhammad Rikzan](https://github.com/rikzanx)
 - [Branislav Puzder](https://github.com/branopuzder)
+- [Alexandr Stetsyuk]
 - [Andrew Xue](https://github.com/andrewxueax)
 - [Alexandr Stetsyuk]
 - [Abhishek Chandra](https://github.com/abhishekchandra2522k)
