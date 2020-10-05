@@ -6209,6 +6209,8 @@ Khushi Gupta
 - [Jess Rezac](https://github.com/jessrezac)
 - [Jacob Sonshein](https://github.com/jsonshein)
 - [Darshan Walchale](https://github.com/ShawnzWal)
+– [Ines Fernandez] (http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - Charlie Wu
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
+
