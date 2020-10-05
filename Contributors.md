@@ -309,6 +309,7 @@
 - [Carlos Bosch](https://github.com/carlos1103)
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
+- Aishwarya Ro
 - Sreenidhi 
 - [Shairan Shrawat](https://github.com/shairanshrawat)
 - Dhruvik Patel
