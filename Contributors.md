@@ -5888,6 +5888,7 @@ Keshav goel
 - [Moritz Stüve](https://github.com/mostueve)
 - [Shivam Raj](https://github.com/nullcoder08)
 - [Raman Sharma](https://github.com/creativefisher)
+- [Faruk Dange](https://github.com/MegaEfdee)
 - [Mihir Soni](https://github.com/mihirsoni826)
 - [Sudarshan Shanbhag](https://github.com/Sudarshan189)
 - [Shubham Dope Sharma](https://github.com/shubham13202)
