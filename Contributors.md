@@ -24,6 +24,7 @@
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
+- [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Muskan Duseja](https://github.com/muskan2729)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
