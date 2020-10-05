@@ -647,6 +647,7 @@ mOrTaL💀
 - [Candra Perdana](https://github.com/cp2940)
 - Praveen Raj
 - Simon Hanrath
+- Tuneer Upadhyay
 -[Sarah Srebalus] (https://github.com/sarahsreb)
 - Hemanth Reddy
 - [Shagun Sharma](https://github.com/Shagun15)
