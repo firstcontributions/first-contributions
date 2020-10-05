@@ -5,6 +5,7 @@
 - [Sweta Singhal](https://github.com/swetasinghal28)
 - [Firas Ahmed](https://github.com/Firasama29)s
 - [Rebekah  Brown](https://github.com/PDXbeBek)
+- [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
