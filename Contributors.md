@@ -231,6 +231,7 @@
 - [Xin Li] (https://github.com/3xinli)
 - [cedrvanh](https://www.github.com/cedrvanh)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
+- [Dale Palmares](https://github.com/yelaD)
 - Lemon Ruan
 - [Sumit Heda](https://github.com/hedasumit)
 - [Emma Brown](https://github.com/nworb95)
