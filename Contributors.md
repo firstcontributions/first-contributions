@@ -1,4 +1,5 @@
 # Contributors
+- [Arif Dermawan](https://github.com/fsociety343)
 - [Tanya Zagumenov](https://github.com/teezee206)
 - [Vino Ram](https://github.com/vino83)
 - [Amy Nelson](https://github.com/arrmkr)
