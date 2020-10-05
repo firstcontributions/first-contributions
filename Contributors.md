@@ -301,6 +301,7 @@
 - [Isaias] (https://github.com/0strichKnight)
 - [Krishna Maringanty] (https://github.com/KrishnaKavya)
 - Lorin Achey
+- [Carlos Bosch](https://github.com/carlos1103)
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
 - Sreenidhi 
