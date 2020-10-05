@@ -251,6 +251,7 @@
   [Nick Paisley](https://github.com/nickpaisley)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Ainur Rahmat](https://github.com/ainurx)
+- [Jonathon Lopez](https://github.com/JonathonLLopez)
 - [Lubna Attar](https://github.com/lubnaattar)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
