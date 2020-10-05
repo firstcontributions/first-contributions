@@ -138,6 +138,7 @@
 - [MJ](https://github.com/speklet)
 - [Jordan Ali Hilado](https://github.com/jordanhilado)
 - [Vincent Vais](https://github.com/Vincent-Vais)
+- [Snehjeet Banerjee](https://github.com/SnehjeetBenz)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
 - [Shiwani Kumari](https://github.com/Shiwani19890)
