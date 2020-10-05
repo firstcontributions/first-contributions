@@ -330,6 +330,7 @@ mOrTaL💀
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
+- [Dicka Estu](https://github.com/dickaestu)
 - Baani Dhingra
 - Tushar Sardana
 - Bhaswati Boro
