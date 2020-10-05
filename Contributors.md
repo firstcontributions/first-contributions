@@ -1107,6 +1107,7 @@ Sumit Sagar
 - [Ohad Koren](https://github.com/ohadkoren)
 - [Pranay Harjai](https://github.com/pranayharjai7)
 - [Kitti Wateesatogkij](https://github.com/lgmcben)
+- [Mikail Farid](https://github.com/cybov)
 - [Ishaq Amin(Zack)](https://github.com/zackhamin)
 - [Kshitij Ozarkar](https://github.com/kozarkar)
 - [Gurucharan Chundi](https://github.com/gurucharan2206)
