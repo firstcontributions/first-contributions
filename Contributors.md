@@ -344,7 +344,8 @@
 - Arpit Batra
 - [Siddharth Shrivastava](https://github.com/Siddharth2430/)
 - Satyam Dua
-  mOrTaL💀
+- [Rudra Pratap](https://github.com/rudyredhat)
+- mOrTaL💀
 - KhushiO BATRA
 - Amar kumar
 - Yash Lad
@@ -358,8 +359,8 @@
 - Rishin Pandit
 - Erik Espuñes
 - Shaanya Singh
-  Keshav Kumar
-  -[Sai Srija Panchagnula](https://github.com/srija920)
+- Keshav Kumar
+- [Sai Srija Panchagnula](https://github.com/srija920)
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
 - [Abinash Mishra](https://github.com/IIAbinashMishraII)
 - [Jing Tao](https://github.com/jtaoct)
