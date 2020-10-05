@@ -1,4 +1,5 @@
 # Contributors
+- [Winny Hu](https://github.com/huhuining)
 - [Arushi Agarwal](https://github.com/arushiagar)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
 - [Gunwoo Martin Ko](https://github.com/gunwooko)
