@@ -262,7 +262,7 @@
 - Manuja
 - [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
--[Drishti Agarwal](https://github.com/drishti-agarwal)
+- [Drishti Agarwal](https://github.com/drishti-agarwal)
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
 - [Sandip Baidya](https://github.com/sandip-baidya)
 - [Elizabeth Sotomayor](https://github.com/carsandparties/)
@@ -273,6 +273,7 @@
 - [Akarsh Galagali](https://github.com/akarshjg)
 - [Tina Aggarwal](https://github.com/tinaaggarwal)
 - [cshankerj] (https://github.com/cshankerj)
+- [Syeda Zehra] (https://github.com/SyedaZehra95) -[Reyna Zaru](https://github.com/reynazee)
 - [Shubham Sharma] (https://github.com/Shubham1605)
 - [Darshil Papalkar](https://github.com/Darshil-Papalkar)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
@@ -290,18 +291,19 @@
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Alejandro Olaria AKA Alo Slim] (https://github.com/aolaria/)
 - [Kajori Ghosh](https://github.com/Kajori4)
+- [Prawesh-MAGNETIC](https://github.com/Prawesh-MAGNETIC)
 - [Sujan Chhetri](https://github.com/sujanchhetri)
 - [bharath-acchu](https://github.com/bharath-acchu)
 - [Dipin Garg](https://github.com/dgargdipin)
--[sagar sarkar](https://github.com/ssarkar786)
+- [sagar sarkar](https://github.com/ssarkar786)
 - [Jamie Tan](https://github.com/jlt10)
 - [Abhinav Jonnada](https://github.com/abhinavjonnada82)
 - [Trang La](https://github.com/ciberactro)
 - [Ganesh Agrawal](https://github.com/iamganeshagrawal)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Jiahuei](https://github.com/Jiahuei99)
-  [Maulik Varshney](https://github.com/MaulikVarshney)
-  [Nick Paisley](https://github.com/nickpaisley)
+- [Maulik Varshney](https://github.com/MaulikVarshney)
+- [Nick Paisley](https://github.com/nickpaisley)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Mia Manalastas](https://github.com/mia-m/)
 - [Ainur Rahmat](https://github.com/ainurx)
@@ -447,6 +449,7 @@
 - [Thiago Takehana](https://github.com/thiagotakehana)
 - [Apleht](https://github.com/apleht)
 - [VivekSharma](https://github.com/viveksharma2382000)
+- [Ujjwal](https://github.com/Ujjwal3009) -[Arpit](https://github.com/arkreactor-1729)
 - [Vaishnav Trivedi](https://github.com/Vanhsiav-afk)
 - [Ujjwal](https://github.com/Ujjwal3009)
 - [Rohit kumar](https://github.com/rohitkr789)
@@ -697,6 +700,8 @@
 - [Nick Gumbs] -[Michael]
 - [Sujatha Mohan sujathamlak]
 - [Kautilya Pandey] (https://github.com/kpx3)
+- [Nicole Clearie] -[hamdan abdul](https://github.com/Hamhunter)
+
 - [Nicole Clearie]
 - [hamdan abdul](https://github.com/Hamhunter)
 - [Kirui victor]
