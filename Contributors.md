@@ -5,6 +5,7 @@
 - [Akshima Ghai](https://github.com/Akshima-Ghai)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
+- [Tany](https://github.com/tany)
 - [Vino Ram](https://github.com/vino83)
 - [Amy Nelson](https://github.com/arrmkr)
 - [Elly Fan](https://github.com/ellyfan)
