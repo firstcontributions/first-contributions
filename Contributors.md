@@ -209,6 +209,7 @@
 - [Harsha Bhadra](https://github/harshabhadra)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Pirlog Simon]
+- [Lammert van der Wal](https://github.com/ZER02HER0-nl)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
 - [Lakshya Sethi](https://github.com/lakshyamcs16)
