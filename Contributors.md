@@ -3153,6 +3153,7 @@ Keshav goel
 - [Abhijith Basavaraj](https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
 - [Stephen Phung](https://github.com/StephenP-Hung/)
+- [Trusha Talati](https://github.com/TrushaT)
 - [Fernando Sousa](https://github.com/fsousadev)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Zubair Idris Aweda](https://github.com/Zubs)
