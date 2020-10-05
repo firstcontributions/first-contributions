@@ -997,6 +997,7 @@ Sumit Sagar
 - [CHACHA VIDHYAK HAI MERA!!!](https://github.com/vasut02)
 - [Marc Episcope](https://github.com/marc633)
 - [UmmuZurak](https://github.com/UmmuZurak)
+- [Kunal Kanade](https://github.com/KandyKad)
 - [jim0625](https://github.com/jim0625)
 - [Kelly Corey](https://github.com/kellcore)
 - [deecoders](https://github.com/deecoders)
