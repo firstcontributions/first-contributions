@@ -391,6 +391,7 @@ mOrTaL💀
 - [Varshit Sindhu](https://github.com/varshitchoudhary100)
 - [Carlos Cornejo](https://github.com/carloantoniocc) 
 - [Laurel Verma](https://github.com/1laurelverma)
+- [Theologos Baxevanos](https://github.com/greatmerlin
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [GodSaveTheDoge](https://github.com/GodSaveTheDoge)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
