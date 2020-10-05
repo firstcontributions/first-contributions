@@ -199,7 +199,7 @@
 - [Diksha Dixit](https://github.com/diksha0399)
 - [Nisarga Patil] (https://github.com/npatil19)
 - [Ritvika Sonawane](https://github.com/alex-2410)
--[Esther Mueni]
+- [Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
@@ -387,6 +387,7 @@
 - [Parth Lawania](https://github.com/parthlaw)
 - [Gerardo Ruiz Jr](https://github.com/gruiz78)
 - [Katie Cussans](https://github.com/Kat-lc)
+- [Amkit Podder](https://github.com/ANKITPODDER0211)
 - [Vyomaan Dave] (https://github.com/VyomaanDave0711)
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
