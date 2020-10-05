@@ -164,12 +164,10 @@ mOrTaL💀
 - [Visaj Nirav Shah](https://github.com/visajshah)
 -Pramita
 - [Ana Vassallo](https://github.com/AnaGVF)
- 
 - [Sakshi Kedar](https://github.com/sakshikedar)
-
 - [Utkarsh Raj](https://github.com/theroyalraj)
 - [Jeya Manivannan] (https://github.com/Jeya312)
-- [Brajeswar Lenka](https://github.com/brajeswar00 master
+- [Brajeswar Lenka](https://github.com/brajeswar00)
 - [Dheeraj Chaurasia](https://github/dheeraj24inferno/)
 - [Arun Prabhakar](https://github/arun-prabhakar)
 - [Manthan Mitesh Tolia] (https://github.com/manny525)
