@@ -5998,6 +5998,7 @@ Hirva  Shah
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Jessica Padolina](https://github.com/jpadolina)
 - [Denitsa Stapleton](https://github.com/denitsa13)
 - [Kristina Huang](https://github.com/dhuang07)
 - [Eunice Kang](https://github.com/eunicemk)
