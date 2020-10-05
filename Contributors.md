@@ -36,6 +36,7 @@
 - [Moyan Zhou](https://github.com/bananannn)
 - [Ting Li](https://github.com/LTille)
 - [Sami Kalammallah](https://github.com/SamX23)
+- [Elenwo Gift] (https://github.com/bromaGift)
 - [Maddy Havranek](https://github.com/mrhavranek)
 - [Cari Gan](https://github.com/cariygan)
   [Sulphur1010](https://github.com/sulphur1010)
