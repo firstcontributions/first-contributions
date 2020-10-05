@@ -7,6 +7,7 @@
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
 - [Tany](https://github.com/tany)
+- [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
 - [Amy Nelson](https://github.com/arrmkr)
 - [Elly Fan](https://github.com/ellyfan)
