@@ -8,6 +8,7 @@
 - [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Junyi Chen](https://github.com/junyi-chen0801)
+- [Noah Ryan](https://github.com/gubbnah)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
 - [Xin Zhao](https://github.com/zhaox1999))
