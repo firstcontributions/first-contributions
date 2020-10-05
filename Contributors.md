@@ -4,7 +4,7 @@
 - [Yingying Wu](https://github.com/CodeYing)
 - [Amy Huyen](https://github.com/amyhuyen98)
 - [Sweta Singhal](https://github.com/swetasinghal28)
-- [Firas Ahmed](https://github.com/Firasama29)s
+- [Firas Ahmed](https://github.com/Firasama29)
 - [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Junyi Chen](https://github.com/junyi-chen0801)
@@ -6086,3 +6086,4 @@ Hirva  Shah
 - [Jeryl Seow](https://github.com/jerylseow)
 - [Kritsada Moungkhao](https://github.com/kidkrub)
 - [Keston Timson]
+- [Ruzan Tandukar](https://github.com/ruzzan)
