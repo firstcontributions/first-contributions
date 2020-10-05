@@ -230,6 +230,7 @@
 - James
 - [Aishwarya rai] (https://github.com/Aishwarya713)
 -kemayakr
+- [Seongoh Ryoo]
 - Celia
 - WD
   Adarsh Goyal
