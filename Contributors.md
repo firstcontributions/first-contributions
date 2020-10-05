@@ -21,6 +21,7 @@
 - [Muskan Duseja](https://github.com/muskan2729)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
+- [Levi Johnson](https://github.com/levimjohn)
 - [Emmanoell Pasquet](https://github.com/emmanoellpasquet)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Ting Li](https://github.com/LTille)
