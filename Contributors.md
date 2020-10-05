@@ -215,6 +215,7 @@
 - Sejal Jain(https://github.com/sejaljain123)
 - [Thiago Fonseca Tahara](https://github.com/thiagoft)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
+- [Ibrahim Bakare](https://github.com/ibakare10/first-contributions/edit/add-ibrahim-name/Contributors.md)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Divya Gupta](https://github/DivyaGupta4)
 - [Harsha Bhadra](https://github/harshabhadra)
