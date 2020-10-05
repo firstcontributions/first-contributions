@@ -3,6 +3,7 @@
 - [Yingying Wu](https://github.com/CodeYing)
 - [Amy Huyen](https://github.com/amyhuyen98)
 - [Sweta Singhal](https://github.com/swetasinghal28)
+- [Firas Ahmed](https://github.com/Firasama29)s
 - [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
