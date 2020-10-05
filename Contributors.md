@@ -1,4 +1,5 @@
 # Contributors
+- [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
 - [Justine Ma](https://github.com/invisible-cloud)
 - [Winny Hu](https://github.com/huhuining)
