@@ -5,7 +5,6 @@
   [Maulik Varshney](https://github.com/MaulikVarshney)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - Lorin Achey
-- Aruna
 - [Shihaan](https://github.com/theneoterik)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Divyanshu Bargali](https://github.com/div-bargali)
@@ -29,6 +28,7 @@
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
+- [Aruna Prabakar] (https://github.com/aprabakar1110)
 - [Ishika Guleria](https://github.com/ishikaguleria)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
