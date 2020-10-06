@@ -1,6 +1,8 @@
 # Contributors
 
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Marisescu Cristian](https://github.com/cristian-marisescu)
+- [Gautam kumar](https://github.com/gautam08)
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Hannah M](https://github.com/hannahtlm)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
@@ -12,6 +14,7 @@
 - [Dewni Ekanayaka](https://github.com/DewniEkanayaka)
 - [Dhananjay Kumar](https://github.com/Dk35840)
 - [Sudhir Sharma](https://github.com/s4sudhirkr)
+- [Apoorv Nema](https://github.com/apoorvnema)
 - [Anushka Sethi](https://github.com/anushkasethi1710)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Sagar Mittal](https://github.com/sagarmittal1)
@@ -6329,4 +6332,5 @@
 - [Jaeyoung Park](https://github.com/pjaeyoung)
 - [Autumn Davis](https://github.com/AutumnWishes87)
 - [Jithin Aji](https://github.com/JithinAji)
+- [malviya99](https://github.com/malviya99)
 - [Ross Williams](https://github.com/rossdwill)
