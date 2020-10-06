@@ -6214,6 +6214,7 @@ Khushi Gupta
 - [vinaykumar](https://github.com/Vinz1444)
 - [Jess Rezac](https://github.com/jessrezac)
 - [Jacob Sonshein](https://github.com/jsonshein)
+- Nico Antero
 - [Nurahmat](https://github.com/nurofsun)
 - [Darshan Walchale](https://github.com/ShawnzWal)
 – [Ines Fernandez] (http://github.com/inesfb)
