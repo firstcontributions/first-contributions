@@ -14,6 +14,7 @@
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Susana Salazar](https://github.com/Suzzuu)
+- [Ale F](https://github.com/alefuedev)
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
