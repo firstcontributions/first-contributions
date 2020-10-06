@@ -1,5 +1,6 @@
 # Contributors
 
+- [Rafael González](https://github.com/RafaelGzz)
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Adrian Martinez](https://github.com/AdrianMartinez99)
