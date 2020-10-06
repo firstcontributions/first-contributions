@@ -3,6 +3,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
+- [Sagar Mittal](https://github.com/sagarmittal1)
 - [Juthika D](https://github.com/DJuthika)
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
