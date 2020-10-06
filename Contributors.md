@@ -10,6 +10,7 @@
 - [Tany](https://github.com/tany)
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
+- [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Amy Nelson](https://github.com/arrmkr)
 - [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
