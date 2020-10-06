@@ -6340,4 +6340,4 @@
 - [Jithin Aji](https://github.com/JithinAji)
 - [malviya99](https://github.com/malviya99)
 - [Jose Ramos](https://github.com/JoeRams)
-- [Salvador Pazos] (https://github.com/xPolarCat)
+- [Salvador Pazos](https://github.com/xPolarCat)
