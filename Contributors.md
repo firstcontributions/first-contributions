@@ -26,7 +26,7 @@
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Gracyn Green](https://github.com/gg371)
-- [Antonio Dinkins](https://github.com/adinkins2019)
+- [A Dinkins](https://github.com/adinkins2019)
 - [Priyanka Surakanti](https://github.com/priyanka-surakanti/)
 - [S Bharath](http://github.com/sapprazz)
 - [Gabriel](https://github.com/ggg4briel)
