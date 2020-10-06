@@ -271,6 +271,7 @@
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Ibrahim Bakare](https://github.com/ibakare10/first-contributions/edit/add-ibrahim-name/Contributors.md)
 - [Madan Patil](https://github.com/mvpmaddy)
+-[Palakk Yadavv]
 - [Divya Gupta](https://github/DivyaGupta4)
 - [Harsha Bhadra](https://github/harshabhadra)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
@@ -387,7 +388,6 @@
 - Tanmay Arora
 - Sreenidhi
 - Aishwarya Ro
-- Sreenidhi
 - [Shairan Shrawat](https://github.com/shairanshrawat)
 - Dhruvik Patel
 - Zaidan Pratama
