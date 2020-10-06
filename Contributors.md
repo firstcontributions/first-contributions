@@ -6350,3 +6350,4 @@
 - [malviya99](https://github.com/malviya99)
 - [Jose Ramos](https://github.com/JoeRams)
 - [Leonardo Alvarez](https://github.com/leoa21)
+- [GuillermoPartida García](https://github.com/GuillermoPartidaGarcia)
