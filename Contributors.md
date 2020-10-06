@@ -6191,6 +6191,7 @@ Khushi Gupta
 - [Brooke Holliday](https//github.com/Brooke-holliday)
 - [Rucha R](https://github.com/Ruchared)
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
+- [Cassidy Schneider](https://github.com/cassidyschneider)
 - [Muhsin shah](https://github.com/shah21)
 - [Lakshmipriya](https://github.com/lakshmipriyamukundan)
 - [Neeru Mahesh](https://github.com/NeeruMahesh)
