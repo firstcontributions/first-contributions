@@ -234,6 +234,7 @@
 - [Gaurav Kar](https://github.com/grvkr777)
 - [Damue Brandon](https://github.com/brandonbawe)
 - Conor Lambert
+- [Stöffler Daniel](https://github.com/StoefflerDaniel)
 - [Voj](https://github.com/Vojsmaname)
 - [Meng Kit]
 - [idrees]()
