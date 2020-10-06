@@ -1,6 +1,5 @@
 # Contributors
 
-- [Héctor Marquez](https://github.com/Cookieracho)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
@@ -101,6 +100,7 @@
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Priya_Mandal](https://github.com/priyamandal-21)
+- [Francisco Gongora](https://github.com/FranciscoGongora0101)
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
