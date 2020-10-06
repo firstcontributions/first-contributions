@@ -338,6 +338,7 @@
 - [Trang La](https://github.com/ciberactro)
 - [Ganesh Agrawal](https://github.com/iamganeshagrawal)
 - [Rachel Quan] (https://github.com/rachelquan)
+- [Teresa Hubscher-Younger (https://github.com/hubsct)
 - [Jiahuei](https://github.com/Jiahuei99)
 - [Maulik Varshney](https://github.com/MaulikVarshney)
 - [Nick Paisley](https://github.com/nickpaisley)
