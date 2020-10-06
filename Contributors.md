@@ -66,6 +66,7 @@
 - [Yingying Wu](https://github.com/CodeYing)
 - [Amy Huyen](https://github.com/amyhuyen98)
 - [Sweta Singhal](https://github.com/swetasinghal28)
+- [Alex Peterson](https://github.com/APet99)
 - [Prashant Devmane](https://github.com/prashantdevmane)
 - [Firas Ahmed](https://github.com/Firasama29)
 - [Jake Fogel](https://github.com/jmf1jmf2)
