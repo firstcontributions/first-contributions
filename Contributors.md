@@ -1,4 +1,5 @@
 # Contributors
+- [Juthika D](https://github.com/DJuthika)
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
