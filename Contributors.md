@@ -2714,6 +2714,7 @@
 - motr528
 - Hope T
 - [:) Angelica Jones :)](https://github.com/anjones1000)
+- [Magnus Hansson](https://github.com/HanssonMagnus)
 - [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace](https://github.com/cswall86)
 - [Priyanshu Dangi](https://githuVb.com/PriyanshuDangi)
