@@ -12,6 +12,7 @@
 - [Tany](https://github.com/tany)
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
+- [Shah Quadri](https://github.com/shah78677)
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Amy Nelson](https://github.com/arrmkr)
 - [Elly Fan](https://github.com/ellyfan)
