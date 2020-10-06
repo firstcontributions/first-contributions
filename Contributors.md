@@ -17,6 +17,7 @@
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
+- [Alan Montes](https://github.com/monala05)
 - [Dewni Ekanayaka](https://github.com/DewniEkanayaka)
 - [Oscar Martinez](https://github.com/dongabooo)
 - [Dhananjay Kumar](https://github.com/Dk35840)
