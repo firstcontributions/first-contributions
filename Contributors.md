@@ -312,6 +312,7 @@
 - [Agrim Bansal](https://github.com/Agrim-Bansal)
 - [Tan Jun Hong] (https://github.com/shiori-12)
 - TrueHighGrade
+- [Daniel Armenta](https://github.com/h8moss)
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
 - [Yashvardhan Goel](https://github.com/Yash1909)
 - [Rishu Kumar](https://github.com/Logan7282)
