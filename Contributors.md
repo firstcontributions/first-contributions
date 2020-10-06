@@ -90,6 +90,7 @@
 - [Rohan Rathi](https://github.com/RohanIRathi)
 - [Subhasis Patra](https://github.com/SOLITIX)
 -  [Rajesh Alane](https://www.github.com/rajeshalane)
+- [Prajna Puranik](https://www.github.com/prajnapuranik)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
 - [Siddharth Kothari] (https://github.com/siddharth997-png)
 - [Anandh Gopal] (https://github.com/happeecoder)
