@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 - [RITIK BHATT](https://github.com/bhattritik21)
 - [AkiaCode](https://github.com/AkiaCode/S)
+- [Chirag Sharma](https://github.com/scyther)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [yoohyeon](https://github.com/rladbgus)
 - [Arif Dermawan](https://github.com/fsociety343)
