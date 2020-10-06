@@ -376,6 +376,7 @@
 - Ayush Goyal
 - Arpit Batra
 - [Siddharth Shrivastava](https://github.com/Siddharth2430/)
+- [Arjun Satish](https://github.com/arjunbvb)
 - Satyam Dua
 - [Rudra Pratap](https://github.com/rudyredhat)
 - mOrTaL💀
