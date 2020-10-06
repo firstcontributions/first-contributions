@@ -2138,6 +2138,7 @@ Khushi Gupta
 - Shruti Kumari
 - Prateek Parashar
 - Doraemi
+Shruti Bansal
 - Manushree
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
