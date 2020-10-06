@@ -338,6 +338,7 @@
 - [Ruju Jambusaria](https://github.com/rujuj)
 - [Jai Solanki](https://github.com/jaiksolanki)
 - [Lisa Liu](https://github.com/lisaliu2020)
+- [Nicolas Becker](https://github.com/ncbecker)
 - [Vimal Mishra](https://github.com/mishravimal99)
 - [Shiddhant Behera](https://github.com/shiddhantbehera)
 - [Wilton Oliveira](https://github.com/wiltonoliveira)
