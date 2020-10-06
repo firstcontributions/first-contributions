@@ -9,6 +9,7 @@
 - [Dhananjay Kumar](https://github.com/Dk35840)
 - [Sudhir Sharma](https://github.com/s4sudhirkr)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
+- [Sagar Mittal](https://github.com/sagarmittal1)
 - [Juthika D](https://github.com/DJuthika)
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
