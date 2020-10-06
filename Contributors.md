@@ -5552,6 +5552,7 @@
 - [Léo Battin](https://github.com/leobattin)
 - test contribution
 - [Paul Ventura](https://github.com/pmventura)
+- [Pavan Vinnakota](https://github.com/pavan5555)
 - [Nins3i](https://github.com/nins3i)
 - [Chris M.](https://github.com/HillbillyZT/)
 - [Shishir Chauhan](https://github.com/Shisir99/)
