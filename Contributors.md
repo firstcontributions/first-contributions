@@ -354,6 +354,7 @@
 - [Carlos Bosch](https://github.com/carlos1103)
 - Urfa Ansari (https://github.com/Urfafazli)
 - Tanmay Arora
+- Sreenidhi
 - Aishwarya Ro
 - Sreenidhi 
 - [Shairan Shrawat](https://github.com/shairanshrawat)
@@ -603,10 +604,10 @@
 - [Sarah Yap](https://github.com/skyuanow)
 - [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Martin Hoffmann](https://github.com/martinh-dev)
-- [Serena Wang] 
+- [Serena Wang]
 - [Sarah Yap](https://github.com/skyuanow)
 - [Jonathan Castillo]
-- [Tyson Swords](https://github.com/Zeeennnyyy) 
+- [Tyson Swords](https://github.com/Zeeennnyyy)
 - [Will Guo]
 - [Aditya Ravi Swami](https://github.com/ADshady13)
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
@@ -6100,6 +6101,7 @@ Khushi Gupta
 - [Andrea Sharpless](https://github.com/maydrea)
 - [Richa Sinha](https://github.com/richasinha)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
+- [Anjana MA](https://github.com/AnjanaMA)
 - [Jen Fox](https://github.com/jenfoxbot)
 - [Sujatha Nagarajan](https://github.com/sujathawgp)
 - [Abigail Yang](https://github.com/yangjabigail)
