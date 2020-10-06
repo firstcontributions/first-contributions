@@ -11,7 +11,7 @@
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Madan Patil](https://github.com/mvpmaddy)
-- [Palak Yadav]
+-[Palakk Yadavv]
 - [Divya Gupta](https://github/DivyaGupta4)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Nitin Dxt](https://github/nitinajaydixit)
