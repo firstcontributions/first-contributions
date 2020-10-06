@@ -60,6 +60,7 @@
 - [Ziad Ahsani](https://github.com/ziad696)
 - [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
+- [Randy Cole](https://github.com/R-Cole)
 - [Ilham Bara](https://github.com/ilhambara)
 - [Stephen Odundo](https://github.com/steveodds)
 - [Parikshit Ghosh](https://github.com/parikshitghosh3)
