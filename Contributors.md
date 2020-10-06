@@ -5640,6 +5640,7 @@ Shruti Bansal
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Eric Deering](https://github.com/Strahlend)
 - [Nidhi Zare](https://github.com/nzare)
+- [Azhad Ghufran](https://github.com/Azhad56)
 - [Rary Gonçalves 👋🏽👨🏽💻](https://github.com/rarygoncalves)
 - [Luke Manzitto](https://github.com/LukeM7)
 - [Lan Tianyou](https://github.com/Lantianyou)
