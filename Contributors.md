@@ -707,6 +707,7 @@
 - [Arun Prabhakar T](https://github.com/arun-prabhakar)
 - [Liam Hayden](https://github.com/LiamHayden)
 - [Jessica Duell](https://github.com/jduell12)
+- [Jeremy Perry](https://github.com/jeperry)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Basavaraj Navalgund] (https://github.com/basavarajnavalgund)
