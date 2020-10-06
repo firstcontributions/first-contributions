@@ -59,6 +59,7 @@
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah  Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
+- [Goutham R](https://github.com/Druffl3)
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
