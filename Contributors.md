@@ -21,6 +21,7 @@
 - [Arushi Agarwal](https://github.com/arushiagar)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
 - [Bhargavi Chada](https://github.com/BhargaviChada)
+- [Harsh Chopra](https://github.com/Harsh62Chopra)
 - [Gunwoo Martin Ko](https://github.com/gunwooko)
 - [Afranio Alves Garcis](https://github.com/afranioag)
 - [William Alvis](https://github.com/WaAlvis)
