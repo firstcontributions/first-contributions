@@ -38,7 +38,7 @@ Bijvoorbeeld:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op GitHub naar je systeem.
+Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je de inhoud van de first-contributions repo op GitHub naar je systeem.
 
 ## Een branch aanmaken
 
