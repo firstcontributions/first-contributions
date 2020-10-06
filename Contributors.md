@@ -264,9 +264,10 @@
 - [Emma Brown](https://github.com/nworb95)
 - James
 - [Aishwarya rai] (https://github.com/Aishwarya713)
--kemayakr
+- kemayakr
 - [Seongoh Ryoo]
 - Celia
+- [Krishna Mishra] (https://github.com/Krishna-Mishra/)
 - Jai Solanki
 - WD
   Adarsh Goyal
