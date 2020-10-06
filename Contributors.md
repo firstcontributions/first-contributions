@@ -13,6 +13,7 @@
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Dewni Ekanayaka](https://github.com/DewniEkanayaka)
+- [Oscar Martinez](https://github.com/dongabooo)
 - [Dhananjay Kumar](https://github.com/Dk35840)
 - [Sudhir Sharma](https://github.com/s4sudhirkr)
 - [Apoorv Nema](https://github.com/apoorvnema)
