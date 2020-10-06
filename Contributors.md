@@ -774,6 +774,7 @@
 - [Siddarth Awasthi](https://github.com/siddarth308)
 - [Rahul chaurasia] (https://github.com/rahulchaurasiazx55)
 - [Kiran S Baliga] (https://github.com/kiransbaliga)
+  [Christian Bueno] (https://github.com/christian-bueno)
 - [Harsha Puvvada] (https://github.com/puvvadaharsha)
 - [Nick Gumbs]
 - [Michael]
