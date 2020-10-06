@@ -6000,6 +6000,7 @@ Khushi Gupta
 - [Sudarshan Shanbhag](https://github.com/Sudarshan189)
 - [Shubham Dope Sharma](https://github.com/shubham13202)
 - [Sayantan Mitra](https://github.com/Sayantan0711)
+- [Shreya Shettar](https://github.com/shreya-bit)
 - [Angelina Tang](https://github.com/AngelinaNTang)
 - [Muhammad Rikzan](https://github.com/rikzanx)
 - [Branislav Puzder](https://github.com/branopuzder)
