@@ -1,6 +1,7 @@
 # Contributors
 
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Carlos Enrique Ortega Gonzalez](https://github.com/CARL0SE)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
