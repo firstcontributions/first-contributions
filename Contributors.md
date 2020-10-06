@@ -1,4 +1,5 @@
 # Contributors
+- [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
