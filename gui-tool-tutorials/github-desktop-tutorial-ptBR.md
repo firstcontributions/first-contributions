@@ -9,9 +9,9 @@
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
 
-É difícil. A primeira vez que você faz algo sempre é difícil. Especialmente quando você está colaborando, cometer erros não é uma coisa confortável. Mas o Open Source tem tudo a ver com colaboração e trabalho em equipe. Queremos simplificar a maneira como os novos colaboradores de código aberto aprendem e contribuem pela primeira vez. 
+É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, cometer erros não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e assistir tutoriais pode ajudar, mas não tem nada melhor que fazer as coisas de forma organizada. Este projeto visa fornecer orientação e simplificar a forma como os novatos dão sua primeira contribuição. Lembre-se de que quanto mais tranquilo você estiver, melhor vai aprender. Se você está procurando fazer sua primeira contribuição, basta seguir os passos simples abaixo. Prometemos a você, vai ser divertido
+Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente pôr a mão na massa em um ambiente prático? Este projeto visa guiar e simplificar a forma com que os novatos fazem a sua primeira contribuição. Se quiser fazer a sua primeira contribuição, siga os passos abaixo.
 
 Se você nao tem o Github desktop na sua máquina, [instale aqui](https://desktop.github.com/).
 
@@ -21,7 +21,7 @@ Se você está usando uma versão do Github desktop antes da 1.0, [consulte este
 
 ## Fork este repositório
 
-Fork este repositório clicando no botão fork no parte superior direita dessa página.
+Fork este repositório clicando no botão fork na parte superior direita dessa página.
 Isso vai criar uma cópia desse repositório na sua conta.
 
 ## Clone este repositório
@@ -38,7 +38,7 @@ Uma janela pop up vai aparecer. Clique em "Open GitHubDesktop.exe".
 
 <img style="left;" src="../assets/dt1-open-githubdesktop.png" alt="clone este repositório" />
 
-Depois de clicar em "Open GitHubDesktop.exe" os arquivos vão ser baixados para o seu computador.
+Depois de clicar em "Open GitHubDesktop.exe" os arquivos serão baixados para o seu computador.
 
 <img style="left;" src="../assets/dt1-downloaded.png" alt="clone este repositório" />
 
@@ -106,7 +106,7 @@ Em breve estarei mesclando todas as suas alterações na branch Master do projet
 
 ## Qual o próximo passo?
 
-Parabéns! Você acabou de completar o fluxo _fork -> clone -> edit -> PR_ que você encontrará diversas vezes como contribuidor!
+Parabéns! Você acabou de completar o fluxo _fork -> clone -> edit -> PR_ que encontrará diversas vezes como contribuidor!
 
 Comemore sua contribuição e compartilhe com seus amigos e seguidores acessando o [web app](https://firstcontributions.github.io#social-share).
 
