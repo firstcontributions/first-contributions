@@ -108,6 +108,7 @@
 - [Supriya](https://github.com/supriyamaram02)
 - [Christine Kingsley](https://github.com/Aubear99)
 - [William Nicholson](https://github.com/Passenger89)
+- [Alberto Ortiz] (https://github.com/albertortizcape)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
