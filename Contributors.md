@@ -33,6 +33,7 @@
 - [Vino Ram](https://github.com/vino83)
 - [Shah Quadri](https://github.com/shah78677)
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
+- [Ishaan Singhal]
 - [Amy Nelson](https://github.com/arrmkr)
 - [Ziad Ahsani](https://github.com/ziad696)
 - [Elly Fan](https://github.com/ellyfan)
@@ -89,7 +90,7 @@
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [David Thapa](https://github.com/David-Thapa)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
-- [Shafayet Rajit](https://github.com/ShafayetRajit) 
+- [Shafayet Rajit](https://github.com/ShafayetRajit)
 - [Levi Johnson](https://github.com/levimjohn)
 - [Emmanoell Pasquet](https://github.com/emmanoellpasquet)
 - [Moyan Zhou](https://github.com/bananannn)
@@ -166,7 +167,7 @@
 - [Kritika Yadav]
 - [Ani B]
 - [Alen]
-- [Amara] 
+- [Amara]
 - [Easwari Ramani]
 - [Ayush Pattnaik](https://github.com/ayushpattnaik)
 - [Anshuman Parmar](https://github.com/anshuman725?tab=repositories)
@@ -386,7 +387,7 @@
 - Tanmay Arora
 - Sreenidhi
 - Aishwarya Ro
-- Sreenidhi 
+- Sreenidhi
 - [Shairan Shrawat](https://github.com/shairanshrawat)
 - Dhruvik Patel
 - Zaidan Pratama
@@ -533,7 +534,7 @@
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [adwisni] (https://github.com/adwisni)
 - [UltraaaDev] (https://github.com/UltraaaDev)
-- [Lester García] (https://github.com/LesterAGarciaA97) 
+- [Lester García] (https://github.com/LesterAGarciaA97)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
 - [B Chetan Rao](https://github.com/bchetanrao)
 - [Hritik Chaudhary](https://github.com/hritikchaudhary)
@@ -1198,7 +1199,7 @@ Khushi Gupta
 - [maya](https:/github.com/)
 - [Tushar Vohra](https://github.com/tusharvohra)
 - [Pingu🐧](https://github.com/pingu94)
-  [Abhinav Gangadharan](https://github.com/abhinavg1997) 
+  [Abhinav Gangadharan](https://github.com/abhinavg1997)
 - [Ping Lu](https://github.com/pinglu85)
 - [William Arthor](https://github.com/narrowsnap)
 - [hebbarsjk](https://github.com/hebbarsjk)
@@ -3032,7 +3033,7 @@ Shruti Bansal
 - [Nihit Natu](https://github.com/nihit97natu)
 - [Ritesh Malviya](https://github.com/riteshkumarmalviya)
 - [Aashita Agarwal]
-- [Alejandro DL] 
+- [Alejandro DL]
 - [Robin Sharma](https://github.com/RS-786)
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Nathan Ormond](https://github.com/NathOrmond)
@@ -3419,7 +3420,7 @@ Shruti Bansal
 - [Vibhor Agarwal](https://github.com/vibhor98)
 - [Divyesh Mehta](https://github.com/dhmehta24)
 - [Mohan](https://github.com/mohankgaddam)
-- [Madhusudan V](https://github.com/Madhusudhanv7) 
+- [Madhusudan V](https://github.com/Madhusudhanv7)
 - [Mohammed Saeed](https://github.com/saeed27-dev)
 - [Christopher Gardner](https://github.com/Orbitsub)
 - [Prith Manickam](https://github.com/prithmanickam)
@@ -5926,7 +5927,7 @@ Shruti Bansal
 - [Zac Smith](https://github.com/nmsilverback)
 - [Marcus JB](https://github.com/foreodessa)
 - [duffttt](https://github.com/duffttt)
-- [Carlos Martel Lamas](https://github.com/Letram) 
+- [Carlos Martel Lamas](https://github.com/Letram)
 - [Adrien Masanet](https://github.com/AdrienMasanet)
 - [Ayan Saha]
 - [Black Initial](https://github.com/blackinitial)
