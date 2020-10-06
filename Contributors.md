@@ -507,6 +507,7 @@
 - [anky301] (https://github.com/anky301)
 - [José Francisco] (https://github.com/JoseFRH17)
 - [Ashish Dhodia](https://github.com/ashishdhodia)
+  [Rich Schmitt](https://github.com/richwebsandbox)
 - [Neuroxic](https://github.com/Neuroxic)
 - [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
