@@ -1,4 +1,5 @@
 # Contributors
+- [RITIK BHATT](https://github.com/bhattritik21)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [yoohyeon](https://github.com/rladbgus)
