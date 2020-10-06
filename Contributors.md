@@ -533,6 +533,7 @@
 - [Nishiki Asumi Yapa] (https://github.com/Nishiki97)
 - [Jitender Pal Singh] (https://github.com/jitender24)
 - [James Dobbe](https://github.com/dobbe2)
+- [Manish Reddy Nandineni](https://github.com/nmreddy1911)
 - [Lalitha Eleswarapu](https://github.com/lalithaeleswarapu)
 - [Harsh Soni](https://github.com/24Cipher)
 - [Abnaser](https://github.com/Abnaser)
