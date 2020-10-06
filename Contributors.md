@@ -704,6 +704,7 @@
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
 - [Aayushi Pandey] (https://github.com/aayushi221)
+- [Sheetal Nayak] (https://github.com/Sheetal-Nayak)
 - [Rishikesh Yadav] (https://github.com/rishikesh7355)
 - [Milo Fultz](https://github.com/milofultz)
 - [Tanay] (https://github.com/sudhatanay)
