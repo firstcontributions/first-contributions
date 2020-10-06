@@ -1726,6 +1726,7 @@ Khushi Gupta
 - [Deeven](https://github.com/deevendhu)
 - [Thiru](https://github.com/thiruppathi)
 - [Yogesh Raisinghani](https://github.com/raisinghanii)
+- [John P](https://github.com/johnpl-io)
 - [Siddharth Shah](https://github.com/siddharth2411)
 - [Leonard Oeding](https://github.com/Zoedingl)
 - [Akshay Gangarde](https://github.com/akshaygangarde)
