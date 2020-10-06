@@ -40,6 +40,7 @@
 - [Akshima Ghai](https://github.com/Akshima-Ghai)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
+- [Scott Neitzel](https://github.com/eightyWon)
 - [Tany](https://github.com/tany)
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
