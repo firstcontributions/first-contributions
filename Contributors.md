@@ -11,6 +11,7 @@
 - [Dewni Ekanayaka](https://github.com/DewniEkanayaka)
 - [Dhananjay Kumar](https://github.com/Dk35840)
 - [Sudhir Sharma](https://github.com/s4sudhirkr)
+- [Anushka Sethi](https://github.com/anushkasethi1710)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Sagar Mittal](https://github.com/sagarmittal1)
 - [Juthika D](https://github.com/DJuthika)
