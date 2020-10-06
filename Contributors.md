@@ -1,6 +1,7 @@
 # Contributors
 
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Gautam kumar](https://github.com/gautam08)
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Hannah M](https://github.com/hannahtlm)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
