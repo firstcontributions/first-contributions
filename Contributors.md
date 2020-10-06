@@ -146,7 +146,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Danny Cheun](https://github.com/dcheun)
 - sejal
--[Israel](https://github.com/israeltn)
+- [Israel](https://github.com/israeltn)
 - [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
@@ -435,6 +435,7 @@
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Ketan Patel] (https://github.com/kpatel2000)
+- [Shahana Khan](https://github.com/TechieOwl)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Pitambara Awadhesh](https://github.com/Pitambara16)
 - [Madhur Agrawal](https://github.com/madhur0809)
@@ -6031,6 +6032,7 @@ Khushi Gupta
 - [Kasun Hewagama](https://github.com/KasunHewagama)
 - [Moritz Stüve](https://github.com/mostueve)
 - [Shivam Raj](https://github.com/nullcoder08)
+- [Angelina Tang](https://github.com/AngelinaNTang)
 - [Raman Sharma](https://github.com/creativefisher)
 - [Faruk Dange](https://github.com/MegaEfdee)
 - [Mihir Soni](https://github.com/mihirsoni826)
