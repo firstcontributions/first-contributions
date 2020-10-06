@@ -1,4 +1,5 @@
 # Contributors
+- [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Gracyn Green](https://github.com/gg371)
 - [Priyanka Surakanti](https://github.com/priyanka-surakanti/)
 - [S Bharath](http://github.com/sapprazz)
