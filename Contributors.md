@@ -6204,6 +6204,7 @@ Khushi Gupta
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Sarah Dirienzo](https://github.com/sdirien)
 - shubham Saloni
 - [Neelima Parakala](https://github.com/neelimapp) 
 - [Jessi Heger](https://github.com/jessiheger)
