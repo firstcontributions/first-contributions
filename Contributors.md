@@ -4,6 +4,7 @@
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Dhananjay Kumar](https://github.com/Dk35840)
+- [Sudhir Sharma](https://github.com/s4sudhirkr)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Juthika D](https://github.com/DJuthika)
 - [Arya Soman](https://github.com/aryasoman333)
