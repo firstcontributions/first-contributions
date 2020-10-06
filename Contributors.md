@@ -1,5 +1,6 @@
 # Contributors
 
+- [Irvin Martínez González](https://github.com/SapZaneZ)
 - [Rafael González](https://github.com/RafaelGzz)
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Emiliano Leal](https://github.com/Shimmah)
