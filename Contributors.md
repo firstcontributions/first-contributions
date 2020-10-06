@@ -1,4 +1,5 @@
 # Contributors
+- [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Juthika D](https://github.com/DJuthika)
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
