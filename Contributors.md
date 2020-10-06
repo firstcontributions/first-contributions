@@ -3257,6 +3257,7 @@ Khushi Gupta
 - [Catalin Gheorghiu](https://github.com/CatalinGheorghiu)
 - [Andrey Ponomarev](https://github.com/ponomarevandrey)
 - [JebDenou Ladbulab](https://github.com/courrier1)
+- [Heidi H](https://github.com/heieidi)
 - [Andrew Costello](https://github.com/Andrewsyl)
 - [Oleksiy Onishchenko](https://github.com/Oleksiy1990)
 - [theerrors](https://github.com/TheErrrors)
