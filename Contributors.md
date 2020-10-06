@@ -32,6 +32,7 @@
 - [Shah Quadri](https://github.com/shah78677)
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Amy Nelson](https://github.com/arrmkr)
+- [Ziad Ahsani](https://github.com/ziad696)
 - [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
 - [Ilham Bara](https://github.com/ilhambara)
