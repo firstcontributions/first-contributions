@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [RITIK BHATT](https://github.com/bhattritik21)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
@@ -1700,6 +1700,7 @@ Khushi Gupta
 - [Sandy S. Kuo](https://github.com/kuosandys)
 - [Simran Singh](https://github.com/simran1199)
 - [A4jni1n](https://github.com/A4jni1n)
+- [Akshay Koshti](https://github.com/akki96)
 - [Kenny Gosai](https://github.com/kennygosai)
 - [Eli Goldberg](https://github.com/Goldbee2/)
 - [ABHAY PRAKASH](https://github.com/iamabhayprakash)
