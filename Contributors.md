@@ -2665,6 +2665,7 @@ Khushi Gupta
 - [Atharva Ikhar](https://github.com/atharva444/)
 - [Kristin Bradley](https://github.com/acromafireair)
 - Amit
+- [Paul Delcogliano](https://github.com/pdelco)
 - [Karine Valença](https://github.com/KarineValenca/)
 - [Aakash Kashyap](https://github.com/aakashyap)
 - [Ethan So](https://github.com/ethanso56)
