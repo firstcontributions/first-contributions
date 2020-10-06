@@ -1,5 +1,6 @@
 # Contributors
 - [Irvin Martínez González](https://github.com/SapZaneZ)
+- [Héctor Marquez](https://github.com/Cookierac
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
@@ -547,6 +548,7 @@
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
 - [Arunav Sharma](https://github.com/arunav11)
+- [Anthony Clausing](https://github.com/AnthonyClausing)
 - [Gisele Bernardes da Silva](https://github.com/gisabernardess)
 - [Jatin Gupta](https://github.com/jg7)
 - [Surya Man Shrestha](https://github.com/surya1243)
