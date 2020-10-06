@@ -2296,6 +2296,7 @@ Shruti Bansal
 - Andrew M
 - [Mark Dixon](https://github.com/ForeverThinking)
 - Nico Tek
+- Rishav Jain
 - Isaac M
 - Marius Spomer
 - [Mazhar Khan](https://github.com/khanmazhar/)
