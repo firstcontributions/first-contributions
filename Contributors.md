@@ -1,8 +1,8 @@
 # Contributors
 
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Daniel Reyes Arguelles](https://github.com/DaniArguelles)
 - [Saccha Agriel](https://github.com/sacchaagriel)
-- [Adrian Martinez](https://github.com/AdrianMartinez99)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
@@ -15,7 +15,6 @@
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Dewni Ekanayaka](https://github.com/DewniEkanayaka)
-- [Oscar Martinez](https://github.com/dongabooo)
 - [Dhananjay Kumar](https://github.com/Dk35840)
 - [Sudhir Sharma](https://github.com/s4sudhirkr)
 - [Apoorv Nema](https://github.com/apoorvnema)
@@ -26,7 +25,6 @@
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
-- [Rodrigo Yap](https://github.com/rogri2)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Gracyn Green](https://github.com/gg371)
@@ -6345,4 +6343,3 @@
 - [Jithin Aji](https://github.com/JithinAji)
 - [malviya99](https://github.com/malviya99)
 - [Jose Ramos](https://github.com/JoeRams)
-- [Leonardo Alvarez](https://github.com/leoa21)
