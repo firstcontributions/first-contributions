@@ -6,6 +6,7 @@ A local .gitignore file is usually placed in the root directory of a project. Yo
 
 ## Why .gitignore
 Now you may wonder why would you want git to ignore certain files and folders. Its because you dont want files like build files, cache files, other local configuration files like node modules, compilation files, temporary files IDE's create, etc to be tracked by git. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators.
+Now you may wonder why would you want git to ignore certain files and folders. Its because you don't want files like build files, cache files, other local configuration files like node modules, compilation files, temporary files IDE's create, etc to be tracked by git. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators.
 
 ## Getting started
 To create a local .gitignore file, create a text file and name it .gitignore (remember to include the . at the beginning). Then edit this file as needed. Each new line should list an additional file or folder that you want Git to ignore.
@@ -53,7 +54,7 @@ git rm --cached filename
 
 To untrack every file in .gitignore:
 
-First commit any outstanding code changes, and then run:
+First, commit any outstanding code changes, and then run:
 
 ```
 git rm -r --cached
