@@ -25,6 +25,7 @@
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
+- [Rodrigo Yap](https://github.com/rogri2)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Gracyn Green](https://github.com/gg371)
