@@ -249,6 +249,7 @@
 - [Josh](https://github.com/GoldDust69)
 - [Nitin Dixit](https://github.com/nitinajaydixit)
 - [Diksha Dixit](https://github.com/diksha0399)
+- [kartikbha-lucifer](https://github.com/kartikbha-lucifer/)
 - [Nisarga Patil] (https://github.com/npatil19)
 - [Krishna Vishwakarma](https://github.com/thinkswell)
 - [Ritvika Sonawane](https://github.com/alex-2410)
