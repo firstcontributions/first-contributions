@@ -1,4 +1,5 @@
 # Contributors
+- [Gabriel](https://github.com/ggg4briel)
 - [RITIK BHATT](https://github.com/bhattritik21)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
