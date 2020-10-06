@@ -16,6 +16,7 @@
 - [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
 - [Stephen Odundo](https://github.com/steveodds)
+- [Parikshit Ghosh](https://github.com/parikshitghosh3)
 - [Justine Ma](https://github.com/invisible-cloud)
 - [Winny Hu](https://github.com/huhuining)
 - [Arushi Agarwal](https://github.com/arushiagar)
