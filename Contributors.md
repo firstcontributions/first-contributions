@@ -1532,6 +1532,7 @@ Khushi Gupta
 - [Cassidy McDonnell]
 - [Vaibhav Sahni](https://github.com/vaibhavsahni009)
 - [Roberto Castelli](https://github.com/RobertoCastelli)
+- [Victor Paz](https://github.com/vkcp)
 - [David Fraser <-- is cool](https://github.com/DavidMatthewFraser)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
