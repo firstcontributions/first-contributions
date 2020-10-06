@@ -1,4 +1,5 @@
 # Contributors
+
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
@@ -216,7 +217,7 @@
 - [Sarah Liang](https://github.com/smliang)
 - [Anurag Saxena](https://github.com/anursaxe25)
 - [Amanda Geoffroy] (https://github.com/Matalyn)
-- [himanshu singh (https://github.com/H321-ma)
+- [himanshu singh](https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Amogh Rajesh Desai] (https://github.com/amoghrajesh)
 - [Gaurav Kar](https://github.com/grvkr777)
@@ -262,7 +263,7 @@
 - [Divyansh Pandey] (https://github.com/DEAThWALNUt)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
 - [Jackie Kinsler](https://github.com/jackie-kinsler)
-= [Anvesh Verma](https://github.com/anveshverma)
+- [Anvesh Verma](https://github.com/anveshverma)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
 - Sejal Jain(https://github.com/sejaljain123)
 - [Thiago Fonseca Tahara](https://github.com/thiagoft)
@@ -356,7 +357,7 @@
 - [Trang La](https://github.com/ciberactro)
 - [Ganesh Agrawal](https://github.com/iamganeshagrawal)
 - [Rachel Quan] (https://github.com/rachelquan)
-- [Teresa Hubscher-Younger (https://github.com/hubsct)
+- [Teresa Hubscher-Younger](https://github.com/hubsct)
 - [Jiahuei](https://github.com/Jiahuei99)
 - [Maulik Varshney](https://github.com/MaulikVarshney)
 - [Nick Paisley](https://github.com/nickpaisley)
@@ -499,7 +500,7 @@
 - [Syed Faiz Hasan](https://github.com/faiz-hasan11)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
-- [Meera Mehta (https://github.com/meeramehta)
+- [Meera Mehta] (https://github.com/meeramehta)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - {ANKIT PODDER}{https://github.com/ANKITPODDER}
@@ -704,8 +705,8 @@
 - [Shaikh Mudassir](https://github.com/shaikhmudassir)
 - [USMAN KHALID]
 - [Manav Bokinala](https://github.com/mbokinala)
-- [UMAR MASUD
-- rathnadev1995]
+- [UMAR MASUD]
+- [rathnadev1995]
 - [Uttam Singh] (https://github.com/Uttam-Singhh)
 - [Devanshi Jain]
 - [Divyansh Raina](https://github.com/QuantumBoy-729)
@@ -3053,6 +3054,7 @@ Shruti Bansal
   [Isha Jain](https://github.com/ishajain15)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Seung Min](https://github.com/saseungmin)
+- [Giovanni Beijl](https://github.com/Giotje)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Swarag-N👩🚀](https://github.com/Swarag-N)
