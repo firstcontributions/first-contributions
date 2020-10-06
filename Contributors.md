@@ -3,6 +3,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
+- [Dewni Ekanayaka](https://github.com/DewniEkanayaka)
 - [Dhananjay Kumar](https://github.com/Dk35840)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Juthika D](https://github.com/DJuthika)
