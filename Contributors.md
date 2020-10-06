@@ -1,6 +1,7 @@
 # Contributors
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
+- [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Juthika D](https://github.com/DJuthika)
