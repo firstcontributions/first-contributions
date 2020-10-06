@@ -1,5 +1,6 @@
 # Contributors
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Rishabh Jain](https://github.com/rishabh-jain424)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Juthika D](https://github.com/DJuthika)
 - [Arya Soman](https://github.com/aryasoman333)
