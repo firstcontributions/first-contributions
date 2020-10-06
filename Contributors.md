@@ -231,6 +231,7 @@
 - [Ritvika Sonawane](https://github.com/alex-2410)
 - [Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
+- [Izzy Berzsenyi](https://github.com/isabellberzsenyi)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
 - [Catelen Wu](https://github.com/catw101)
