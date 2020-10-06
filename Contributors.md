@@ -1,8 +1,8 @@
 # Contributors
 
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Dani0406](https://github.com/Dani0460)
 - [Saccha Agriel](https://github.com/sacchaagriel)
-- [Adrian Martinez](https://github.com/AdrianMartinez99)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
@@ -25,7 +25,6 @@
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
-- [Rodrigo Yap](https://github.com/rogri2)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Gracyn Green](https://github.com/gg371)
@@ -6344,4 +6343,3 @@
 - [Jithin Aji](https://github.com/JithinAji)
 - [malviya99](https://github.com/malviya99)
 - [Jose Ramos](https://github.com/JoeRams)
-- [Leonardo Alvarez](https://github.com/leoa21)
