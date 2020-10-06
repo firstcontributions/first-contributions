@@ -622,6 +622,7 @@
 - [Khushali Patel](https://github.com/KhushaliP)
 - [Uditha Ishan](https://github.com/UdithaIshan)
 - [Or Zohar](https://github.com/orZohar)
+- [Geetika PS](https://github.com/Geetikaps)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Sarah Noonan](https://github.com/snoonan11)
 - [Marco Serrano](https://github.com/serranomarco)
