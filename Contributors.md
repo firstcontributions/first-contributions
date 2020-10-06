@@ -6308,3 +6308,4 @@ Shruti Bansal
 - [Muhammad S Rabbani](https://github.com/msrabbani)
 - [Yasas Mahima](https://github.com/yasasmahima)
 - [Kacper Walter](https://github.com/kacperwalter)
+- [Mikolaj Jedrzejewski](https://github.com/mikkio-j)
