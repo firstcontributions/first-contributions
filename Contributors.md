@@ -28,6 +28,7 @@
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Ishita Manchanda](https://github.com/ishitacodes)
+- [Debapriyo Mukherjee](https://github.com/debapriyo1999)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Angelus](https://github.com/CalebGuerreroL)
