@@ -25,7 +25,6 @@
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
 - [Rafael González](https://github.com/RafaelGzz)
 - [Alvin Mrema] (https://github.com/AlvinMrema)
-- [Ishita Manchanda](https://github.com/ishitacodes)
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
