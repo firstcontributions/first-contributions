@@ -28,7 +28,7 @@
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
 - [Rafael González](https://github.com/RafaelGzz)
 - [Alvin Mrema] (https://github.com/AlvinMrema)
-- [Rakesh R] (https://github.com/rakeshr01)
+- [Rakesh R](https://github.com/rakeshr01)
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Ishita Manchanda](https://github.com/ishitacodes)
 - [Debapriyo Mukherjee](https://github.com/debapriyo1999)
