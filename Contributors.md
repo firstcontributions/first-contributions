@@ -500,6 +500,7 @@
 - [Lagan Gupta](https://github.com/lagan28)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
+- [Corinne Battle](https://github.com/clearpointweb)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Abhinav Agrawal](https://github.com/abhinav5481)
 - [Divyanshu Bargali](https://github.com/div-bargali)
