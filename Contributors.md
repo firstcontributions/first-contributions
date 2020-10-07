@@ -2549,6 +2549,7 @@
 - [Tushar Garg](https://github.com/tushargarg875)
 - [Josias Aurel](https://github.com/JosiasAurel)
 - [Jeet Bardapurkar](https://github.com/jeetb)
+- [Bogumił Morawski](https://github.com/kryptondv)
 - [John Walston](https://github.com/walstonjd)
 - [Vicente015](https://github.com/Vicente015)
 - [Lucas Ravy](https://github.com/lucasravy)
