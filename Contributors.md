@@ -3912,6 +3912,7 @@
 - [Thomas Amlee](https://github.com/thomasamlee)
 - Chidiogo Umezinne
 - [Martyna Krawczyk](https://github.com/Martyna-krawczyk)
+- [Bruno Monteiro](https://github.com/brunomontas)
 - [John McGonagle](https://github.com/jgonagle)
 - [Manas Joshi](https://github.com/manasjoshi14)
 - [Steven Zilberberg](https://github.com/srz2)
