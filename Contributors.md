@@ -6449,3 +6449,4 @@
 - [Paulo Amaral](https://github.com/phfa26)
 - [Jacob Solis](https://github.com/surizar)
 - [tasakos](https://github.com/tasakos-dev)
+- [Hardik Gupta](https://github.com/harrdy272)
