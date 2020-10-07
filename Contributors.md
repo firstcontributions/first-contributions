@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rafael González](https://github.com/RafaelGzz)
+- [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
