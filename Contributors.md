@@ -50,6 +50,7 @@
 - [Akshat Bhat](https://github.com/AkshatBhat)
 - [Chitra Govardhanarajan] (https://github.com/ctg-design)
 - [Akshima Ghai](https://github.com/Akshima-Ghai)
+- [Jordan Jones](https://github.com/Abhorus)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
 - [Scott Neitzel](https://github.com/eightyWon)
