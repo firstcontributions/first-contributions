@@ -23,7 +23,7 @@
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
-- Ana 
+- Ana
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
 - [Komala Reddypalle](https://github.com/HungerforCode)
@@ -34,6 +34,7 @@
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Rakesh R](https://github.com/rakeshr01)
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
 - [Debapriyo Mukherjee](https://github.com/debapriyo1999)
 - [Zheny Li](https://github.com/Lzyabc)
