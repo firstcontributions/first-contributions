@@ -978,6 +978,7 @@
 - [Tarush Arora](https://github.com/tarusharora03)
 - [Pranav Dani](https://github.com/Pranav1642)
 - [Jonathan Noack](https://github.com/jonock)
+- [Tracy W]
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Zachary Moseti](https://github.com/ZachyDev)
 - [Rushali Sreedhar](https://github.com/rushali09)
