@@ -54,6 +54,7 @@
 - [Chitra Govardhanarajan] (https://github.com/ctg-design)
 - [Akshima Ghai](https://github.com/Akshima-Ghai)
 - [Jordan Jones](https://github.com/Abhorus)
+- [Chinmay Chaudhari](https://github.com/chinmayc14)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
 - [Scott Neitzel](https://github.com/eightyWon)
