@@ -6443,3 +6443,4 @@
 - [Ashraf Safarov] (https://github.com/eshref)
 - [Bahritdinov Daler](https://github.com/bdaler)
 - [Paulo Amaral](https://github.com/phfa26)
+- [Jacob Solis](https://github.com/surizar)
