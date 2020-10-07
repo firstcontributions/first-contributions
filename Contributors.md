@@ -12,6 +12,7 @@
 - [Gustavo Bedasi](https://github.com/GusBedasi)
 - [Jack Kendall](https://github.com/jkendall327)
 - [Hexiang Zhang](https://github.com/hexzha)
+- [Christoffer Rydeståhl](https://github.com/crydestaahl)
 - [Hannah M](https://github.com/hannahtlm)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
