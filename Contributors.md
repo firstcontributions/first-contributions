@@ -1,4 +1,5 @@
 # Contributors
+- [Kavita Kulkarni](https://github.com/Kashriku)
 - [Kate Howell](https://github.com/katehowell)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Adrianna Guevarra](https://github.com/adrianna157)
