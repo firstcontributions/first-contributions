@@ -41,6 +41,7 @@
 - [Gustavo Bedasi](https://github.com/GusBedasi)
 - [Jack Kendall](https://github.com/jkendall327)
 - [Frederick Bogdanoff](https://github.com/frederickbogdanoff)
+- [Diana Vilé](https://github.com/dianavile/)
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Christoffer Rydeståhl](https://github.com/crydestaahl)
 - [Hannah M](https://github.com/hannahtlm)
