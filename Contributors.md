@@ -6310,6 +6310,7 @@
 - [Neeru Mahesh](https://github.com/NeeruMahesh)
 - [Tiago Barros] (https://github.com/tiagobpires)
 - [Marvin Javier] (https://github.com/mjavier2k)
+- [Filipe Medeiros](https://github.com/filipecmedeiros)
 - [Himanshu] (https://github.com/him2016)
 - [Noah Kennedy] (https://github.com/nakennedy11)
 - [Konstantinos Rantos] (https://github.com/RantosKonstantinos)
