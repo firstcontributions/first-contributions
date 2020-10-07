@@ -40,6 +40,7 @@
 - [Angelus](https://github.com/CalebGuerreroL)
 - [Adrian Martinez](https://github.com/AdrianMartinez99)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
+- [Keziah Zhou](https://github.com/kezizhou)
 - [Aakriti Mishra](https://github.com/Aakriti1602)
 - [Gautam kumar](https://github.com/gautam08)
 - [Gustavo Bedasi](https://github.com/GusBedasi)
