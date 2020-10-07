@@ -1,4 +1,5 @@
 # Contributors
+- [Priyanka Mary Mammen](https://github.com/priyankamary)
 - [Vanessa Yu](https://github.com/vanessayu19)
 - [Lacee Xu](https://github.com/laceett)
 - [Anusha Ganta](https://github.com/anushaganta16)
