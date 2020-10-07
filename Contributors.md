@@ -268,6 +268,8 @@
 - [Simon Bentley](https://github.com/sbentley85)
 - [Vincent Vais](https://github.com/Vincent-Vais)
 - [Snehjeet Banerjee](https://github.com/SnehjeetBenz)
+- Lauren Gregg
+- [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
 - [Shiwani Kumari](https://github.com/Shiwani19890)
