@@ -82,6 +82,7 @@
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
+- [Jennifer Kajiwara](https://github.com/jenkaji/)
 - [Rodrigo Yap](https://github.com/rogri2)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
