@@ -143,6 +143,7 @@
 - [Margarita Fernandez](https://github.com/Marga1998)
 - [Andrew Peattie](https://github.com/atrp87)
 - [Himanshi Kaushik](https://github.com/himanshi1996)
+- [Hammed Babatunde](https://github.com/HammedBabatunde)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Siddharth Mohanty](https://github.com/siddharth-fortex)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
