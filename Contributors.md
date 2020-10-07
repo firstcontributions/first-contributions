@@ -54,6 +54,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Susana Salazar](https://github.com/Suzzuu)
 - [Mai Houa Vue](https://github.com/mhvue)
+- [Tejas Bhale](https://github.com/tejasbhale)
 - [Ale F](https://github.com/alefuedev)
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
