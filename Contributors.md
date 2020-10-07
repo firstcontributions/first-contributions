@@ -269,6 +269,7 @@
 - [Khadija Zavery]
 - SK
 - Sharmy-r
+- Tithvorlak Mok 
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Saloni Gupta] (https://github.com/shades-7)
 - [Sriram Sathish](https://github.com/sriram0107)
