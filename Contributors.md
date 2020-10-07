@@ -2336,6 +2336,7 @@
 - [Kieran Ringel](hhtps://github.com/kieran-ringel)
 - [Shakeib Shaida](https://github.com/shakeib98)
 - [Kaustubh Kumar](https://github.com/KaustubhKumar05)
+- [Aarkin Karnik](https://github.com/Aarkin7)
 - [microcluster](https://github.com/microcluster)
 - [Sean Gorham](https://github.com/sgorham)
 - [Sydney Lin](https://github.com/sydneylin12)
