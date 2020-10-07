@@ -34,6 +34,7 @@
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Sagar Mittal](https://github.com/sagarmittal1)
 - [Juthika D](https://github.com/DJuthika)
+- [Dhaslie Lai](https://github.com/dlede)
 - [Arya Soman](https://github.com/aryasoman333)
 - [Sakshi Jain](https://github.com/sakshimjain)
 - [Simreen Kaur](https://github.com/simreenkaur/)
