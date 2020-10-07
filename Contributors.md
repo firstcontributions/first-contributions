@@ -6051,6 +6051,7 @@
 - [Sanket Bhatt](https://github.com/sanket-bhatt)
 - [Sumit Raj] (https://github.com/sumit-raj-au5)
 - [Théo Migeat](https://github.com/STM3900)
+- [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
 - [Nicolas Cheng](https://github.com/nicolakacha)
 - [Chetan Bansal](https://github.com/Chetan8462)
 - [Rizky Pakpahan](https://github.com/rizkypakpahan)
