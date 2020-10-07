@@ -6376,6 +6376,7 @@
 - [GuillermoPartida García](https://github.com/GuillermoPartidaGarcia)
 - [Nathan Brown](https://github.com/nbrown0000)
 - [Jiaranai Keatnuxsuo](https://github.com/Keatnuxsuo)
--  [Shah Anwaar Khalid](https://github.com/hello-fri-end)
+- [Shah Anwaar Khalid](https://github.com/hello-fri-end)
 - [Ashraf Safarov] (https://github.com/eshref)
 - [Bahritdinov Daler](https://github.com/bdaler)
+- [Paulo Amaral](https://github.com/phfa26)
