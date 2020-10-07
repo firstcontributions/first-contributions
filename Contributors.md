@@ -1,4 +1,5 @@
 # Contributors
+- [Kate Howell](https://github.com/katehowell)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Adrianna Guevarra](https://github.com/adrianna157)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
