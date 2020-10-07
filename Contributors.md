@@ -1,4 +1,6 @@
 # Contributors
+- [AlxGration](https://github.com/AlxGration)
+- [himanshu singh](https://github.com/H321-ma)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
 - [Pedro Gesta](https://github.com/pedrogestajr
@@ -293,6 +295,7 @@
 - [Kaitlyn Zavala](https://github.com/kzavala)
 - [Ahsan Khan](https://github.com/ahsankhan26)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
+
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook] (https://github.com/nada1619)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
