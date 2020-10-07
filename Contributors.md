@@ -5,6 +5,7 @@
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Angelus](https://github.com/CalebGuerreroL)
 - [Adrian Martinez](https://github.com/AdrianMartinez99)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Aakriti Mishra](https://github.com/Aakriti1602)
