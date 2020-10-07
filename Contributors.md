@@ -97,6 +97,7 @@
 - [Chirag Sharma](https://github.com/scyther)
 - [Tauqeer Ali]
 - [Lok Gubhaju](https://github.com/lokgubhaju)
+- [alvacat](https://github.com/alvacat)
 - [yoohyeon](https://github.com/rladbgus)
 - [Arif Dermawan](https://github.com/fsociety343)
 - [Maribel Hernandez](https://github.com/maribelbhf/)
