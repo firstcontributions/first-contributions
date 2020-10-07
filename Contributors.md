@@ -1,4 +1,6 @@
 # Contributors
+- [Disha Koul](https://github.com/dkoul818)
+- [Pedro Gesta](https://github.com/pedrogestajr
 - [Sabrina Wong](https://github.com/sabrinarwong)
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
 - [Gokila Rajaiah](https://github.com/ila7goki)
