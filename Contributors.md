@@ -3794,6 +3794,7 @@
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [Himanshu Pandey](https://github.com/himanshugithub6201)
+- [John Clear](https://github.com/LofiTurtle)
 - [dorf06](https://github.com/dorf06)
 - [JaeYoung Suh](https://github.com/donddog)
 - [Daniel Sustacek](https://github.com/susta155)
