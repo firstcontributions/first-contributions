@@ -6281,6 +6281,7 @@
 - [Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Amrita Pritam](https://github.com/100905067)
 - [Shruti Grover](https://github.com/shrutigrover)
 - [Kristin Haberkamp](https://github.com/khaberkamp)
 - Kayla M
