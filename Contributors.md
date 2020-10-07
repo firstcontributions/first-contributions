@@ -26,6 +26,7 @@
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Anna Burek](https://github.com/aburek)
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
+- [Lisa Becker](https://github.com/lisabecker)
 - [Rafael González](https://github.com/RafaelGzz)
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Héctor Marquez](https://github.com/Cookieracho)
