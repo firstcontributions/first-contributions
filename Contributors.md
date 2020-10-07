@@ -6456,4 +6456,4 @@
 - [tasakos](https://github.com/tasakos-dev)
 - [Hardik Gupta](https://github.com/harrdy272)
 - [David Ryan](https://github.com/radge)
-- [Nicholas Aliabadi](https://github.com/aliabadi)
+- [Nicholas Aliabadi](https://aliabadi.github.io)
