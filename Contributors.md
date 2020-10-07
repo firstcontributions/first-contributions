@@ -6273,6 +6273,7 @@
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Shruti Grover](https://github.com/shrutigrover)
 - [Kristin Haberkamp](https://github.com/khaberkamp)
 - Kayla M
 - [Sarah Dirienzo](https://github.com/sdirien)
