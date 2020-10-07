@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -14,7 +14,7 @@
 
 ## रिपॉज़िटरी को फॉर्क करना
 
-कांटा (फॉर्क) बटन पर क्लिक करके इस रिपॉज़िटरी को फॉर्क कर सकते हैं| यह आपके GitHub खाते में इस रिपॉज़िटरी की एक प्रति (कॉपी) बना देगा।
+काँटा (फॉर्क) बटन पर क्लिक करके इस रिपॉज़िटरी को फॉर्क कर सकते हैं| यह आपके GitHub खाते में इस रिपॉज़िटरी की एक प्रति (कॉपी) बना देगा, जो केवल आपके लिए उपलब्ध होगा।
 
 ## रिपोजिटरी क्लोन
 
@@ -61,7 +61,7 @@ git checkout -b <अपनी-शाखा-का-नाम-जोड़ें>
 git checkout -b add-alonzo-church
 ```
 
-( शाखा के नाम में `add` जोड़ने की आवश्यकता नहीं है, लेकिन इसमें शामिल होना उचित बात है क्योंकि इस शाखा का उद्देश्य एक सूची में अपना नाम जोड़ना है। )
+( शाखा के नाम में `add` जोड़ने की आवश्यकता नहीं है, लेकिन इसमें शामिल होना जरूरी है क्योंकि इस शाखा का उद्देश्य एक सूची में अपना नाम जोड़ना है। )
 
 ## आवश्यक परिवर्तन करें और उन परिवर्तनों को कमिट करें-
 
@@ -94,7 +94,7 @@ git commit -m "Add <आपका-नाम> to Contributors list"
 git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 ```
 
-`<अपनी-शाखा-का-नाम-जोड़ें>` की जगह अपनी शाखा का नाम डालें |
+`<अपनी-शाखा-का-नाम-जोड़ें>` की जगह अपनी शाखा का नाम लिखे |
 
 ## अपने बदलावों को रिव्यु के लिए सबमिट करें |
 
@@ -104,13 +104,13 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 अब अपनी pull request सबमिट करें |
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
-जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मास्टर शाखा में मर्ज क्र दूंगा| आपको एक मेल आजायेगी जब आपके बदलाव मर्ज होंगे |
+जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मास्टर शाखा में मर्ज कर दूंगा| आपको एक मेल  प्राप्त होगाी जब आपके बदलाव मर्ज होंगे |
 
 ## यहाँ से कहाँ जाएं ?
 
-बधाई! आपने अभी पूरा कर लिया है _fork -> clone -> edit -> PR_ वर्कफ़्लो जो आप अक्सर योगदानकर्ता के रूप में सामना करेंगे!
+बधाई हो! आपने अभी पूरा कर लिया है _fork -> clone -> edit -> PR_ वर्कफ़्लो जो आप अक्सर योगदानकर्ता के रूप में सामना करेंगे!
 
-अपने पहले योगदान की खुशी में जश्न मनाएं और अपने दोस्तों के साथ शेयर करें [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके | 
+अपने पहले योगदान की खुशी में जश्न मनाएं और अपने दोस्तों के साथ शेयर करें [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पर जा कर | 
 
 आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं अगर आपको कोई मदद चाहिए या आपके कोई परेशानी हों | [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
