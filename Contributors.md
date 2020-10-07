@@ -13,6 +13,7 @@
 - [himanshu singh](https://github.com/H321-ma)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
+- [Siddharth jain](https://github.com/siddhartthjain)
 - [Pedro Gesta](https://github.com/pedrogestajr
 - [Sabrina Wong](https://github.com/sabrinarwong)
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
