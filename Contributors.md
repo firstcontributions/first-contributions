@@ -6199,6 +6199,7 @@
 - [Deliana Escobari 👋😀](https://github.com/Sunny-Dee)
 - [Nat H]
 - [Joanna Zhou](https://github.com/JoannaZhou)
+- [Zhenxi Zhou](https://github.com/20joseph10)
 - Suzette
 - [Mayuri Kambli](https://github.com/mayurikambli)
 - [Monika Sivamoorthy](https://github.com/monikas-github)
