@@ -1,4 +1,5 @@
 # Contributors
+- [Rehan Edin](https://github.com/redin22)
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
