@@ -1,4 +1,5 @@
 # Contributors
+- [Minati Alphonso](https://github.com/MinatiAlphonso)
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
