@@ -1,4 +1,5 @@
 # Contributors
+- [Komala Reddypalle](https://github.com/HungerforCode)
 - [Anna Burek](https://github.com/aburek)
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
 - [Rafael González](https://github.com/RafaelGzz)
