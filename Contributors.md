@@ -1,5 +1,12 @@
 # Contributors
 - [Kavita Kulkarni](https://github.com/Kashriku)
+- [Kate Howell](https://github.com/katehowell)
+- [Adrianne Rhodes](https://github.com/AdrianneR)
+- [Adrianna Guevarra](https://github.com/adrianna157)
+- [Priyanka Mary Mammen](https://github.com/priyankamary)
+- [Vanessa Yu](https://github.com/vanessayu19)
+- [Lacee Xu](https://github.com/laceett)
+- [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [AlxGration](https://github.com/AlxGration)
@@ -269,6 +276,8 @@
 - [Simon Bentley](https://github.com/sbentley85)
 - [Vincent Vais](https://github.com/Vincent-Vais)
 - [Snehjeet Banerjee](https://github.com/SnehjeetBenz)
+- Lauren Gregg
+- [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
 - [Shiwani Kumari](https://github.com/Shiwani19890)
@@ -276,6 +285,7 @@
 - SK
 - Sharmy-r
 - Tithvorlak Mok 
+- [Tanvi_Anand]
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Saloni Gupta] (https://github.com/shades-7)
 - [Sriram Sathish](https://github.com/sriram0107)
@@ -501,6 +511,7 @@
 - [Lagan Gupta](https://github.com/lagan28)
 - [Gourav Kumar](https://github.com/gourav2001k)
 - [Shihaan](https://github.com/theneoterik)
+- [Corinne Battle](https://github.com/clearpointweb)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
 - [Abhinav Agrawal](https://github.com/abhinav5481)
 - [Divyanshu Bargali](https://github.com/div-bargali)
@@ -847,6 +858,7 @@
 - [hamdan abdul](https://github.com/Hamhunter)
 - [Kirui victor]
 - [Kevin K Biju]
+- [hamdan abdul](https://github.com/Hamhunter)
 - [Nellman] (https://github.com/Nellman1508)
 - [Jithin Jose] (https://github.com/defaultRectr0)
 - [Gaurav Dahal](https://github.com/gaurav822)
@@ -6298,6 +6310,9 @@
 - [Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Niku Letang](https://github.com/nikuletang)
+- [Alison Peisker](https://github.com/alisonpeisker)
+- [Sheila](https://github.com/sheila)
 - [Emily Cunningham](https://github.com/elc3)
 - [Marianna Ghirardelli](https://github.com/maghirardelli)
 - [Dana Zagar](https://github.com/dzagar)
