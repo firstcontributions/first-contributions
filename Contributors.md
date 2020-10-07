@@ -1,4 +1,5 @@
 # Contributors
+- [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Adrianna Guevarra](https://github.com/adrianna157)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
 - [Vanessa Yu](https://github.com/vanessayu19)
@@ -855,6 +856,7 @@
 - [hamdan abdul](https://github.com/Hamhunter)
 - [Kirui victor]
 - [Kevin K Biju]
+- [hamdan abdul](https://github.com/Hamhunter)
 - [Nellman] (https://github.com/Nellman1508)
 - [Jithin Jose] (https://github.com/defaultRectr0)
 - [Gaurav Dahal](https://github.com/gaurav822)
