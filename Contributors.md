@@ -14,6 +14,7 @@
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [yoohyeon](https://github.com/rladbgus)
 - [Arif Dermawan](https://github.com/fsociety343)
+- [Manoj Upreti](https://github.com/upretim)
 - [Akshat Bhat](https://github.com/AkshatBhat)
 - [Akshima Ghai](https://github.com/Akshima-Ghai)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
