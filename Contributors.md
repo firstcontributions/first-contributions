@@ -42,6 +42,7 @@
 - [S Bharath](http://github.com/sapprazz)
 - [Gabriel](https://github.com/ggg4briel)
 - [RITIK BHATT](https://github.com/bhattritik21)
+- [Saptarsi Saha](https://github.com/saptarsi96)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
