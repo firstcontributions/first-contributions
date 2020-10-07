@@ -18,6 +18,7 @@
 - [Siddharth jain](https://github.com/siddhartthjain)
 - [Pedro Gesta](https://github.com/pedrogestajr
 - [Sabrina Wong](https://github.com/sabrinarwong)
+
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
@@ -102,6 +103,7 @@
 - [Scott Neitzel](https://github.com/eightyWon)
 - [Tany](https://github.com/tany)
 - [Douglas Smith](https://github.com/McDoogen)
+- [Michael Smith](https://github.com/knowephecs)
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
 - [Shah Quadri](https://github.com/shah78677)
