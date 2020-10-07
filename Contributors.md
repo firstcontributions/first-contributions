@@ -1,4 +1,5 @@
 # Contributors
+
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
 - [Kushaan Gowda](https://github.com/kushaangowda)
@@ -17,8 +18,9 @@
 - [Steven Joseph](https://github.com/stevenjos27)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
+- [Matthew Lewis](https://github.com/malewis5)
 - [Siddharth jain](https://github.com/siddhartthjain)
-- [Pedro Gesta](https://github.com/pedrogestajr
+- [Pedro Gesta](https://github.com/pedrogestajr)
 - [Sabrina Wong](https://github.com/sabrinarwong)
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
 - [Gokila Rajaiah](https://github.com/ila7goki)
@@ -172,7 +174,7 @@
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Priya_Mandal](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
