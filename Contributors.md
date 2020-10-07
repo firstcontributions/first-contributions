@@ -4078,6 +4078,7 @@
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
+- [Sam Jones](https://github.com/samjones246)
 - [Marcos Boger](https://github.com/marcosboger)
 - [Boopathi Sakthivel](https://github.com/boopathisakthivel)
 - [Tarun Dugar](https://github.com/dugar-tarun)
