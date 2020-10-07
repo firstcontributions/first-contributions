@@ -110,6 +110,7 @@
 - [Rebekah Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Goutham R](https://github.com/Druffl3)
+- [Sondre Wang](https://github.com/SondreWang)
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
