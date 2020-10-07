@@ -355,6 +355,7 @@
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
 - [Romain Coudour](https://github.com/RomainCoudour)
 - Shaoni Dutta
+- [Sunny Kushwaha](https://github.com/Ares358)
 - Manuja
 - [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
