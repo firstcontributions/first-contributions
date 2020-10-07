@@ -15,6 +15,7 @@
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Susana Salazar](https://github.com/Suzzuu)
+- [Mai Houa Vue](https://github.com/mhvue)
 - [Ale F](https://github.com/alefuedev)
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
