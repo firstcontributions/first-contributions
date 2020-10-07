@@ -7,6 +7,5 @@ Commit your changes in logical chunks. For any Git project, some good rules for 
 
 The first line of a commit message becomes the title of a pull request on GitHub, like the subject line of an email. Including the key info in the first line will help us respond faster to your pull.
 
-If your pull request has multiple commits which revise the same lines of code, it is better to squash those commits together into one logical unit. Goto link https://github.com/wprig/wprig/wiki/How-to-squash-commitsto Know how to squash commit 
-
+If your pull request has multiple commits which revise the same lines of code, it is better to squash those commits together into one logical unit. Learn from here [How to squash commits](https://github.com/wprig/wprig/wiki/How-to-squash-commit)
 But you don't always have to squash — it is fine for a pull request to contain multiple commits when there is a logical reason for the separation.
