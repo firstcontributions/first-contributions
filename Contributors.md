@@ -2007,6 +2007,7 @@
 - [Akhil Manoj](https://github.com/AkM-2018)
 - Kanav Mehra
 - Mark Simpson
+- Mirna Salem
 - Luke Schissler
 - Nhan Nguyen
 - Felix Jönsson
