@@ -721,6 +721,7 @@
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Michael Ndon](https://github.com/haelmj)
 - [jaanP1]
+- [Varad Galgali]
 - [Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke] (https://github.com/CrystalWernicke)
 - [Rohan Poojary](https://github.com/RohanPoojary1107)
