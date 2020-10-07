@@ -11,6 +11,7 @@
 - [Gautam kumar](https://github.com/gautam08)
 - [Gustavo Bedasi](https://github.com/GusBedasi)
 - [Jack Kendall](https://github.com/jkendall327)
+- [Frederick Bogdanoff](https://github.com/frederickbogdanoff)
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Christoffer Rydeståhl](https://github.com/crydestaahl)
 - [Hannah M](https://github.com/hannahtlm)
