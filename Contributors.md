@@ -6169,6 +6169,7 @@
 - [CT]
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
+- [Lola L]
 - [Prabha Louis](https://github.com/prlouis)
 - [Kan Fu](https://github.com/fukan000)
 - [Sakshi C](https://github.com/sakshi-rg)
