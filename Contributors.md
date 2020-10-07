@@ -26,6 +26,7 @@
 - [Rafael González](https://github.com/RafaelGzz)
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Ishita Manchanda](https://github.com/ishitacodes)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Angelus](https://github.com/CalebGuerreroL)
