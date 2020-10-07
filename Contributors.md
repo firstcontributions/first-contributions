@@ -243,6 +243,7 @@
 - [Pragadesh K] (https://github.com/pragadesh-k)
 - [Diana Cheng] (https://github.com/dianache4685)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
+- [Antara Ghosh]
 - [Joyce He](https://github.com/jjoycehe)
 - [Ashutosh](https://github.com/TheDynamicPunk)
 - [Mahima Gupta]
@@ -1587,8 +1588,7 @@
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
 - [Amruta Koshe](https://github.com/AmrutaKoshe)
-- [M1neskA](https://github.com/M1neskA)
-- [Anurag Raina](https://github.com/anuragraina)
+- [M1neskA](https- [Anurag Raina](https://github.com/anuragraina)
 - [John Boyle](https://github.com/87johnboyle)
 - [Chase Ashby](https://github.com/Chasertx)
 - [Cayden W](https://github.com/lathryx) ^-^ Yay!
