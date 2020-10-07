@@ -214,6 +214,7 @@
 - [Alen]
 - [Amara]
 - [Easwari Ramani]
+- [Kavita Kulkarni]
 - [Ayush Pattnaik](https://github.com/ayushpattnaik)
 - [Anshuman Parmar](https://github.com/anshuman725?tab=repositories)
 - [Richard Young](https://github.com/Richard-Young)
