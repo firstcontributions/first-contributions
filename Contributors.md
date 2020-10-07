@@ -27,6 +27,7 @@
 - Ana
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
+- [Shivam Gupta](https://github.com/shivam3310)
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Anna Burek](https://github.com/aburek)
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
