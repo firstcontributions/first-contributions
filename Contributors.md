@@ -48,6 +48,7 @@
 - [Arif Dermawan](https://github.com/fsociety343)
 - [Maribel Hernandez](https://github.com/maribelbhf/)
 - [Akshat Bhat](https://github.com/AkshatBhat)
+- [Chitra Govardhanarajan] (https://github.com/ctg-design)
 - [Akshima Ghai](https://github.com/Akshima-Ghai)
 - [Sahas Punchihewa](https://github.com/SahasPunchihewa)
 - [Tanya Zagumenov](https://github.com/teezee206)
