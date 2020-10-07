@@ -52,6 +52,7 @@
 - [Tanya Zagumenov](https://github.com/teezee206)
 - [Scott Neitzel](https://github.com/eightyWon)
 - [Tany](https://github.com/tany)
+- [Douglas Smith](https://github.com/McDoogen)
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
 - [Shah Quadri](https://github.com/shah78677)
