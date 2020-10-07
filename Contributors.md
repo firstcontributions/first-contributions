@@ -1,4 +1,5 @@
 # Contributors
+- [Diane Lee](https://github.com/diane-lee-byte)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Neha Gupta](https://github.com/nehagupta253)
