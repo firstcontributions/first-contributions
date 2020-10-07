@@ -1,5 +1,6 @@
 # Contributors
 - [Kavita Kulkarni](https://github.com/Kashriku)
+- [Jennifer Rosa](https://github.com/rosajen27)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
 - [Kushaan Gowda](https://github.com/kushaangowda)
 - [Kate Howell](https://github.com/katehowell)
