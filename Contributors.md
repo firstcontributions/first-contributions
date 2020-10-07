@@ -21,6 +21,7 @@
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
+- [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Anna Burek](https://github.com/aburek)
