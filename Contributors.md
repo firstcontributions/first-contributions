@@ -996,6 +996,7 @@ Sameer Choudhary
 - [Aniruddha Banerjee](https://github.com/imanirudh1)
 - [SashiKrishna C P](https://github.com/ossCodeJourney)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
+- [Tom Nguyen](https://github.com/tomnguyen21)
 - [Skyler Milliken](https://github.com/relykstm)
 - [Thomas Wrappe](https://github.com/twrappe)
 - [Om](https://github.com/OmLakshmi)
