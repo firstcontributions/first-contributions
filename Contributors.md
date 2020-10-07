@@ -118,7 +118,7 @@
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Priya_Mandal](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
@@ -1712,6 +1712,7 @@
 - [Aedyn Yeras](https://github.com/Aedyn01)
 - [Aaron Abreu 🦕](https://github.com/gh0sttttt)
 - [Gaurva Sharma](https://github.com/gaurav4sharma)
+- [Nanak Bandyopadhyay](https://github.com/Nanak360)
 - [Kalyani Kolhe](https://github.com/kalyani489)
 - [Sai Vikas Desai](https://github.com/svdesai)
 - [Fabio Gausmann Koerich](https://github.com/fkoerich)
@@ -6369,5 +6370,5 @@
 - [GuillermoPartida García](https://github.com/GuillermoPartidaGarcia)
 - [Nathan Brown](https://github.com/nbrown0000)
 - [Jiaranai Keatnuxsuo](https://github.com/Keatnuxsuo)
--  [Shah Anwaar Khalid](https://github.com/hello-fri-end)
+- [Shah Anwaar Khalid](https://github.com/hello-fri-end)
 - [Ashraf Safarov] (https://github.com/eshref)
