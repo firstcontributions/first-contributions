@@ -836,6 +836,7 @@
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Aditya Baravkar](https://github.com/Aditya182)
 - [Tanay Kamath] (https://github.com/2tanayk)
+- [Gaurisha R Srivastava] (https://github.com/Gaurisha21)
 - [Tiyang Jawi](https://github.com/tiyang-jawi)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
