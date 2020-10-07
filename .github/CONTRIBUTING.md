@@ -93,6 +93,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/LePetitRenard">LePetitRenard</a>
         </td>
         <td>
+            <a href="https://https://github.com/chanakawickramasinghe">chanakawickramasinghe</a>
+        </td>
+        <td>
             <a href="https://github.com/yirini">yirini&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp </a>
         </td>
     </tr>
@@ -284,6 +287,8 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <img width="100" src="https://avatars1.githubusercontent.com/u/16878891?s=460&v=4" alt="@siderio2" />
+        </td>
+        <td><img align="right" width="450" src="assets/git-status.png" alt="git status" />
         </td>
         <td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />
