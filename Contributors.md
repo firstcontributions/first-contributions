@@ -1,4 +1,5 @@
 # Contributors
+- [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [AlxGration](https://github.com/AlxGration)
