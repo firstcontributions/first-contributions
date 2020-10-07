@@ -285,7 +285,7 @@
 - [Khadija Zavery]
 - SK
 - Sharmy-r
-- Tithvorlak Mok 
+- Tithvorlak Mok
 - [Tanvi_Anand]
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Saloni Gupta] (https://github.com/shades-7)
@@ -567,6 +567,7 @@
 - [Krishna Sahu](https://github.com/crypt0-c0de)
 - [Jacob Hurley](https://github.com/Jacob-Hurley)
 - [Breno Baptista](https://github.com/brenobaptista)
+- [Joshua Harmsen](https://github.com/joshuaharmsen845)
 - [Souranil Das](https://github.com/sournail)
 - [Andrew Adhikari](https://github.com/t-rhex)
 - [Sinni Sahu](https://github.com/Xurde-Sni)
