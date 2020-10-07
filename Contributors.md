@@ -133,6 +133,7 @@
 - [Theresa Cho](https://github.com/tcho6319)
 - [Gerardo Jr. Abantao](https://github.com/GerardoUbuntu)
 - [Anand Kumar] (https://github.com/Anandsharmak/)
+- [Sebastian Amaral] (https://github.com/SHA-Arg)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
