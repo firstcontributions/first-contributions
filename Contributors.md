@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
@@ -206,6 +206,7 @@
 - [Atharva Maid](https://github.com/atharv123-wq)
 - [Pulkit Sapra](https://github.com/pulkitsapra)
 - [Andrew Bickford](https://github.com/3kmibvxjsi9d)
+- [Tarun Kumar](https://github.com/Tarun-19)
 - [Himanshu Hansaria](https://github.com/Mrsterius)
 - [Della Lin](https://github.com/della222)
 - [HassanRaza](https://github.com/rza8301)
