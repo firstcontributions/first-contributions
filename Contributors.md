@@ -56,6 +56,7 @@
 - [Adhiti Shaili](https://github.com/AdhitiS)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
+- [Shreyas Sankpal](https://github.com/Shreyas582)
 - [Susana Salazar](https://github.com/Suzzuu)
 - [Mai Houa Vue](https://github.com/mhvue)
 - [Tejas Bhale](https://github.com/tejasbhale)
