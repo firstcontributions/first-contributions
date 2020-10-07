@@ -6281,6 +6281,7 @@
 - [Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Marianna Ghirardelli](https://github.com/maghirardelli)
 - [Dana Zagar](https://github.com/dzagar)
 - [Amrita Pritam](https://github.com/100905067)
 - [Shruti Grover](https://github.com/shrutigrover)
