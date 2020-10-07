@@ -6302,6 +6302,7 @@
 - [Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Niku Letang](https://github.com/nikuletang)
 - [Alison Peisker](https://github.com/alisonpeisker)
 - [Sheila](https://github.com/sheila)
 - [Emily Cunningham](https://github.com/elc3)
