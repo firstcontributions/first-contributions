@@ -1,4 +1,5 @@
 # Contributors
+- [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
 - [KC](https://github.com/kamsci)
 - [Komala Reddypalle](https://github.com/HungerforCode)
