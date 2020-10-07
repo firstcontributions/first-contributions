@@ -215,6 +215,7 @@
 - [Alen]
 - [Amara]
 - [Easwari Ramani]
+- [Kavita Kulkarni]
 - [Ayush Pattnaik](https://github.com/ayushpattnaik)
 - [Anshuman Parmar](https://github.com/anshuman725?tab=repositories)
 - [Richard Young](https://github.com/Richard-Young)
@@ -6276,7 +6277,6 @@
 - [Nikita Tonkoshkur](https://github.com/bloodwithmilk25)
 - [Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
-- [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
 - [Shruti Grover](https://github.com/shrutigrover)
 - [Kristin Haberkamp](https://github.com/khaberkamp)
