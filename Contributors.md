@@ -1,4 +1,5 @@
 # Contributors
+- [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
 - [Pedro Gesta](https://github.com/pedrogestajr
 - [Sabrina Wong](https://github.com/sabrinarwong)
