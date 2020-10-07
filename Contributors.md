@@ -6,6 +6,7 @@
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Hannah M](https://github.com/hannahtlm)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Anirudh P S](https://github.com/anirudhps10)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Maheysh V](https://github.com/Zualemo-xo)
