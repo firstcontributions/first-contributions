@@ -52,6 +52,7 @@
 - [Frederick Bogdanoff](https://github.com/frederickbogdanoff)
 - [Diana Vilé](https://github.com/dianavile/)
 - [Hexiang Zhang](https://github.com/hexzha)
+- [Gabryelle Soares](https://github.com/gabsoares11/)
 - [Christoffer Rydeståhl](https://github.com/crydestaahl)
 - [Hannah M](https://github.com/hannahtlm)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
