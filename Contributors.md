@@ -15,6 +15,7 @@
 - [Revathy Punithan](https://github.com/revathypunithan)
 - [Margarita Fernandez](https://github.com/Marga1998)
 - [Himanshi Kaushik](https://github.com/himanshi1996)
+- [Hammed Babatunde](https://github.com/HammedBabatunde)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Cassidy Skorczewski](https://github.com/cskor)
