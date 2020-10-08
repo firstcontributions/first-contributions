@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
@@ -478,6 +478,7 @@
 - [bharath-acchu](https://github.com/bharath-acchu)
 - [Dipin Garg](https://github.com/dgargdipin)
 - [sagar sarkar](https://github.com/ssarkar786)
+- [Natalie Redberg](https://github.com/nredberg)
 - [Jamie Tan](https://github.com/jlt10)
 - [Abhinav Jonnada](https://github.com/abhinavjonnada82)
 - [Trang La](https://github.com/ciberactro)
