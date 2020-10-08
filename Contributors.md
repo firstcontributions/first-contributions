@@ -51,6 +51,7 @@
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Keziah Zhou](https://github.com/kezizhou)
 - [Aakriti Mishra](https://github.com/Aakriti1602)
+- [Mohamed Fadel](https://github.com/abonazem)
 - [Gautam kumar](https://github.com/gautam08)
 - [Gustavo Bedasi](https://github.com/GusBedasi)
 - [Jack Kendall](https://github.com/jkendall327)
