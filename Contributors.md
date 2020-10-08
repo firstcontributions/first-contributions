@@ -1,6 +1,6 @@
 # Contributors
 - [Acqualine Lobo] (https://github.com/acqualine)
-- [Aruna  Prabakar] (https://github.com/aprabakar1110)
+- [Aruna Prabakar] (https://github.com/aprabakar1110)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
   [Maulik Varshney](https://github.com/MaulikVarshney)
