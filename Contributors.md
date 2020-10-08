@@ -5369,6 +5369,7 @@
 - [richie](https://github.com/cowsed)
 - [Idir D](https://github.com/idir75)
 - [porks](https://github.com/csporks)
+- [Hayley McCafferty] (https://github.com/HaylzRandom)
 - [Lucas Lo](https://github.com/lucaslmlok)
 - [meih](https://github.com/meih124)
 - [David Druker](https://github.com/gitdove)
