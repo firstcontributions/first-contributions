@@ -6447,6 +6447,7 @@
 - [Avleen Kaur](https://github.com/avleen2898)
 - [Pedro Perez](github.com/pedrousp)
 - [Surendra Maharjan](https://github.com/cyrus305)
+- [Geidson Benício](htpps://github.com/geidsonc)
 - [Spinderman](https://github.com/Spinderman)
 - [Shubham Sharma](https://github.com/ssharma71)
 - [Alonzo Church](https://galois.com/team/alonzo-church/)
