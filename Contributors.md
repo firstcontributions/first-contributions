@@ -17,9 +17,6 @@
 - [Xin Li] (https://github.com/3xinli)
 - [Bahnisikha Dutta] (https://github.com/bdutta6)
 - [Aishwarya rai] (https://github.com/Aishwarya713)
-kakkan vaasu
-vassuu
-
 - Celia
 - Derryl Kevin Monis
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
@@ -247,8 +244,7 @@ mOrTaL💀
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
 - [Cormac Krum](https://github.com/cormacKrum)
 - [Serena Wang] 
-Midhun Asokkumar Padma
-
+- Midhun Asokkumar Padma
 - [Sarah Yap](https://github.com/skyuanow) 
 - [Tyson Swords](https://github.com/Zeeennnyyy) 
 - [Will Guo]
