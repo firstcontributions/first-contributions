@@ -6410,6 +6410,7 @@
 - [Noah Kennedy] (https://github.com/nakennedy11)
 - [Konstantinos Rantos] (https://github.com/RantosKonstantinos)
 - [Victor Neves] (https://github.com/alovictor)
+- [Michael Bataller](https://github.com/mchlbataller)
 - [Rizky Jayusman](https://github.com/rizkyjayusman)
 - [Daniel McMullen](https://github.com/daniel-mcmullen)
 - [Preston Crowe](https://github.com/vaugerbird)
