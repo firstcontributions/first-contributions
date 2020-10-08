@@ -6459,6 +6459,7 @@
 - [Razvan V.](https://github.com/raz-m12)
 - Ferariu Paul-Andrei
 - [Evan Alioto](https://github.com/AlignSD)
+- [Loveexword](https://github.com/loveexword)
 - [Ben Kim](https://github.com/praconfi)
 - [James Culshaw] (https://github.com/jamesculshaw)
 - [Garima Mishra] (https://github.com/garimamishraa)
