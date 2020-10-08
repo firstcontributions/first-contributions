@@ -712,6 +712,7 @@
 - [Harsh Soni](https://github.com/24Cipher)
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
+- [Onaedo Nwokolo](https://github.com/Onaedo)
 - [Pulsejit](https://github.com/pulsejit)
 - [Revanth H S](https://github.com/revi97)
 - [Shivam Aranya](https://github.com/shivamdn9)
@@ -864,8 +865,8 @@
 - [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
 - Yahaya Kehinde
+- [Harshal Jain](https://github.com/Harshal0506)
 - Ajeet Singh Parmar
-- [Harshal Jain] (https://github.com/Harshal0506)
 - Callina Birdsong
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
