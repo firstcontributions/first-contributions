@@ -443,6 +443,7 @@
 - Shaoni Dutta
 - [Sunny Kushwaha](https://github.com/Ares358)
 - Manuja
+- [Anish Naik](https://github.com/zeus11011)
 - [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
 - [Drishti Agarwal](https://github.com/drishti-agarwal)
