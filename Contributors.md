@@ -7,6 +7,7 @@
 - [Subham Poddar] (https://github.com/subham-poddar)
 - [Kate Howell](https://github.com/katehowell)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
+- [Ayushi Mittal](https://github.com/AyushiNM)
 - [Avnish Pandey](https://github.com/avnishpandey113)
 - [Adrianna Guevarra](https://github.com/adrianna157)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
