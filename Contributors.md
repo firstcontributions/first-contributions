@@ -235,6 +235,7 @@
 - [Rajesh Alane](https://www.github.com/rajeshalane)
 - [Prajna Puranik](https://www.github.com/prajnapuranik)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
+- [Uzma Khalil Shaikh](https://github.com/Uzma-Shaikh)
 - [Siddharth Kothari] (https://github.com/siddharth997-png)
 - [Anandh Gopal] (https://github.com/happeecoder)
 - [Siddesh Vyavahare] (https://github.com/VyavahareSiddesh)
@@ -6502,6 +6503,7 @@
 - Nico Antero
 - [Nurahmat](https://github.com/nurofsun)
 - [Darshan Walchale](https://github.com/ShawnzWal)
+- [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [Nijin Kovval](https://github.com/nijinkovval)
   – [Ines Fernandez] (http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
