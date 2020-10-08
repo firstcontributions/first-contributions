@@ -175,7 +175,8 @@
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
-- [Priya_Mandal](https://github.com/priyamandal-21)
+- [Paula Zubiri](https://github.com/viragz158)
+- [Virag Zaveri](https://github.com/priyamandal-21)
 - *rnomals*
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
