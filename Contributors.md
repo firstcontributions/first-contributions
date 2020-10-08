@@ -39,6 +39,7 @@
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
+- Darshil
 - [Debapriyo Mukherjee](https://github.com/debapriyo1999)
 - [Zheny Li](https://github.com/Lzyabc)
 - [Emiliano Leal](https://github.com/Shimmah)
