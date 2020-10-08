@@ -529,6 +529,7 @@
 - [Raman] (https://github.com/noisefilter19/)
 - Tim Peng (https://github.com/typg93)
 - M007RA
+- [tim Peng](https://github.com/typg93)
 - Mrityunjay kumar
 - Fig The Gif
 - ZombiMigz
