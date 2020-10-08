@@ -6529,6 +6529,7 @@
 - [Autumn Davis](https://github.com/AutumnWishes87)
 - [Jithin Aji](https://github.com/JithinAji)
 - [malviya99](https://github.com/malviya99)
+- [Ross Williams](https://github.com/rossdwill)
 - [Alex Richardson](https://github.com/alexander-richardson)
 - [Jose Ramos](https://github.com/JoeRams)
 - [Leonardo Alvarez](https://github.com/leoa21)
@@ -6550,4 +6551,3 @@
 - [Dominic Gada](https://github.com/DomGada)
 - [Kevin Chen](https://github.com/kevin3227)
 - [Karoline Suzuki](https://github.com/suzukikarol)
-`
