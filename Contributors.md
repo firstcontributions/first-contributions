@@ -6466,6 +6466,7 @@
 - [Jure Filipic](https://github.com/juref)
 - [Garima Mishra] (https://github.com/garimamishraa)
 - [Smruti Ranjan Sahoo] (https://github.com/c99SRS)
+- [Oscar M Romero](https://github.com/creaturenex)
 - [Zaid Habibi] (https://github.com/zaidhabibi)
 - [Reza Ghari](https://github.com/rezaghari)
 - [Kevin Kee](https://github.com/friendofdog)
