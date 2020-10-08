@@ -5598,6 +5598,7 @@
 - [Pavel Darazhko](https://github.com/pdarazhko)
 - [Manheiba](https://github.com/manheiba)
 - [atglenio](https://github.com/atglenio)
+- [BabsBerlin](https://github.com/BabsBerlin)
 - [Brandon Boettcher](https://github.com/boett)
 - [m-jay](https://github.com/m-jay)
 - [MarL Mazo](https://github.com/MarLMazo)
