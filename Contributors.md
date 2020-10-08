@@ -1,4 +1,5 @@
 # Contributors
+- [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
