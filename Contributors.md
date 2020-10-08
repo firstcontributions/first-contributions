@@ -9,6 +9,7 @@
 - [Adrianna Guevarra](https://github.com/adrianna157)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
 - [Vanessa Yu](https://github.com/vanessayu19)
+- [Poonam Firodiya](https://github.com/poonam906)
 - [Lacee Xu](https://github.com/laceett)
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
