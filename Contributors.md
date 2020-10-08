@@ -28,6 +28,7 @@
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Andrew Martin](https://github.com/annima24)
+- [Aruna Prabakar] (https://github.com/aprabakar1110)
 - [Ishika Guleria](https://github.com/ishikaguleria)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
