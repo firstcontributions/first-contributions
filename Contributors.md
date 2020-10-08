@@ -450,6 +450,7 @@
 - Shaoni Dutta
 - [Sunny Kushwaha](https://github.com/Ares358)
 - Manuja
+- Adithya Warrier (https://github.com/adithyawarrier2000)
 - [Anish Naik](https://github.com/zeus11011)
 - [Anusha Rajan](https://github.com/rajananusha)
 - Manu Shaurya (https://github.com/manushaurya)
