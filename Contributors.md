@@ -286,9 +286,8 @@
 - [Richard Young](https://github.com/Richard-Young)
 - [zelkor](https://github.com/zelkor)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
-- [Hasan Haider](https://github.com/hasan-haider)
-  [Vaibhav Tripathi](https://github.com/vaibhavtripathi1209)
-- [Yuvraj Verma](https://github.com/yuvrajverma01)
+- [Hasan Haider](https://github.com/hasan-hai
+-[Anurag Yadav](https://github.com/Arg85)
 - [Bishwash Pokhrel] (https://github.com/bishwash26)
 - [Bifeldy](https://github.com/bifeldy)
 - [Anita Kumari](https://github.com/anitagupta1)
