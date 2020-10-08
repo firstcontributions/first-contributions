@@ -1,4 +1,5 @@
 # Contributors
+
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
@@ -65,6 +66,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shreyas Sankpal](https://github.com/Shreyas582)
 - [Susana Salazar](https://github.com/Suzzuu)
+- [Matthew McKnight](https://github.com/mattmcknight13)
 - [Mai Houa Vue](https://github.com/mhvue)
 - [Tejas Bhale](https://github.com/tejasbhale)
 - [Ale F](https://github.com/alefuedev)
@@ -176,7 +178,7 @@
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Priya_Mandal](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
