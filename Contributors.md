@@ -1,4 +1,5 @@
 # Contributors
+
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
@@ -177,7 +178,7 @@
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
@@ -6178,6 +6179,7 @@
 - [Chandan Kumar](https://github.com/cksharma122)
 - [Anuj Gunjad](https://github.com/anujgunjad)
 - [Suvodeep Sinha](https://github.com/Suvoo)
+- [Muhammad Fahd](https://github.com/muhammad-fahd)
 - [Jade Chen](https://github.com/jschen1721)
 - [Hemshree](https://github.com/Hemshree)
 - [EklalBudhathoki](https://github.com/Budhathoki356)
