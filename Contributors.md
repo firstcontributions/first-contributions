@@ -67,6 +67,7 @@
 - [Gabryelle Soares](https://github.com/gabsoares11/)
 - [Christoffer Rydeståhl](https://github.com/crydestaahl)
 - [Hannah M](https://github.com/hannahtlm)
+- [Kaihchen1230](https://github.com/Kaihchen1230)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [Adhiti Shaili](https://github.com/AdhitiS)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
