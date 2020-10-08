@@ -6431,6 +6431,7 @@
 - [Maxwell Lo](https://github.com/lo-maxwell)
 - |Kevin Landert](https://github.com/kevinlandert/first-contributions)
 - [Hathi Ram](https://github.com/hathiram19999)
+- Naushad Alam(Indian)(https://github.com/Summer-source)
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Zidni Zidno](https://github.com/zidnizidno/)
 - [Harish]
