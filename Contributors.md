@@ -19,6 +19,7 @@
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Steven Joseph](https://github.com/stevenjos27)
+- [Courtney Buratto](https://github.com/cocoitali)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
 - [Siddharth jain](https://github.com/siddhartthjain)
