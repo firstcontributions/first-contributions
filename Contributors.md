@@ -6463,6 +6463,7 @@
 - [Loveexword](https://github.com/loveexword)
 - [Ben Kim](https://github.com/praconfi)
 - [James Culshaw] (https://github.com/jamesculshaw)
+- [Jure Filipic](https://github.com/juref)
 - [Garima Mishra] (https://github.com/garimamishraa)
 - [Smruti Ranjan Sahoo] (https://github.com/c99SRS)
 - [Zaid Habibi] (https://github.com/zaidhabibi)
