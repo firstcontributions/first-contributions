@@ -44,7 +44,7 @@ git clone https://github.com/આ-તમે-છો/first-contributions.git
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 
-'આ-તમે-છો' તમારા GitHub એકાઉન્ટનું યુઝરનામ છે. અહીં તમે તમારા કમ્પ્યુટરમાં GitHub થી first-contributions રિપોને કોપી કરી રહ્યા છો અથવા તેના એક સ્થાનિક / લોકલ કોપી બનાવી રહ્યા છે.
+'આ-તમે-છો' તમારા GitHub એકાઉન્ટનું `username` છે. અહીં તમે તમારા કમ્પ્યુટરમાં GitHub થી first-contributions રિપોને કોપી કરી રહ્યા છો અથવા તેના એક સ્થાનિક / લોકલ કોપી બનાવી રહ્યા છે.
 
 ## એક બ્રાંચ બનાવો
 
@@ -130,8 +130,6 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 
 
 જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો તમે અમારી સ્લેક ટીમમા જોડાઈ શકો છો. [સ્લેક ટીમ જોઈન કરો.](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
-
-તમે અમારી સ્લેક ટીમને જોડો છો જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો [સ્લેક પે join કરો](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 
 ચાલો, હવે તમને અન્ય પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવામા મદદ કરુ. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ issues(મુદ્દાઓ) છે વેબ એપમા પ્રોજેક્ટ્સ ની સૂચિ જુઓ.](https://roshanjossey.github.io/first-contributions/#project-list)
