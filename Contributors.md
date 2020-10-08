@@ -166,6 +166,7 @@
 - [Goutham R](https://github.com/Druffl3)
 - [Sondre Wang](https://github.com/SondreWang)
 - [Junyi Chen](https://github.com/junyi-chen0801)
+- [Noah Ryan](https://github.com/gubbnah)
 - [Moyan Zhou](https://github.com/bananannn)
 - [Geetika Bangera](https://github.com/gbangera)
 - [Adit Sawant](https://github.com/aditsawant)
