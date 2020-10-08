@@ -902,6 +902,7 @@
 - [Kevin K Biju]
 - [hamdan abdul](https://github.com/Hamhunter)
 - [Nellman] (https://github.com/Nellman1508)
+- [Alexandru Bangau](https://github.com/rammazzoti2000)
 - [Jithin Jose] (https://github.com/defaultRectr0)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
