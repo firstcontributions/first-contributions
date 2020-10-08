@@ -14,6 +14,7 @@
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
 - [Diane Lee](https://github.com/diane-lee-byte)
+-[Nandini Mundra](https://github.com/NandiniMundra-8)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Steven Joseph](https://github.com/stevenjos27)
