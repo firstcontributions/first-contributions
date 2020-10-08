@@ -6520,6 +6520,7 @@
 - [Muhammad S Rabbani](https://github.com/msrabbani)
 - [Yasas Mahima](https://github.com/yasasmahima)
 - [Kacper Walter](https://github.com/kacperwalter)
+- [Mikolaj Jedrzejewski](https://github.com/mikkio-j)
 - [Jaeyoung Park](https://github.com/pjaeyoung)
 - [Autumn Davis](https://github.com/AutumnWishes87)
 - [Jithin Aji](https://github.com/JithinAji)
