@@ -6373,6 +6373,7 @@
 - [Rohit Sharma](https://github.com/rssharma9876)
 - [MS Dhoni](https://github.com/msdhonigit1234)
 - [Messy](https://github.com/messy98745)
+- [James](https://github.com/jameszu)
 - [Nikita Tonkoshkur](https://github.com/bloodwithmilk25)
 - [Subash Murugan](https://github.com/SubashMuruganDev)
 - [Ashwin Anil](https://github.com/ASHWIN776)
