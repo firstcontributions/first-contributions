@@ -1799,6 +1799,8 @@
 - [Parth H Desai](https://github.com/techiParth)
 - [Shahadat khokhar](https://github.com/shahadatkhokhar)
 - [Charan🚀 Teja✨](https://github.com/lcharanteja)
+- [David Fraser](https://github.com/DavidMatthewFraser)
+- [Ganesh Pawar](https://github.com/ganpa3)
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [trishu](https://github.com/trishu99)
 - [raw-ash](https://github.com/raw-ash)
