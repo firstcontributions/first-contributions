@@ -307,6 +307,7 @@
 - [Joyce He](https://github.com/jjoycehe)
 - [Ashutosh](https://github.com/TheDynamicPunk)
 - [Mahima Gupta]
+- [Yash Gupta](https://github.com/yashgupta966)
 - [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
