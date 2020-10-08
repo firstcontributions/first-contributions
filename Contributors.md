@@ -6451,6 +6451,7 @@
 - [Spinderman](https://github.com/Spinderman)
 - [Shubham Sharma](https://github.com/ssharma71)
 - [Alonzo Church](https://galois.com/team/alonzo-church/)
+- [Arif Febriansyah](https://github.com/ariffebr)
 - [Fatur Rahman](https://github.com/faturkamvret)
 - [Leonardo Alvarenga](https://github.com/LeoAlvarenga)
 - [Yury Mikhaylov](https://github.com/Mikhaylov-yv)
