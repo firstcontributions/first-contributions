@@ -341,6 +341,7 @@
 - [Amanda Geoffroy] (https://github.com/Matalyn)
 - [himanshu singh](https://github.com/H321-ma)
 - Kapil Singh Negi
+- Aniket Shukla
 - [Amogh Rajesh Desai] (https://github.com/amoghrajesh)
 - [Gaurav Kar](https://github.com/grvkr777)
 - [Damue Brandon](https://github.com/brandonbawe)
@@ -6463,6 +6464,7 @@
 - [Razvan V.](https://github.com/raz-m12)
 - Ferariu Paul-Andrei
 - [Evan Alioto](https://github.com/AlignSD)
+- [Ben Kim](https://github.com/praconfi)
 - [Loveexword](https://github.com/loveexword)
 - [Ben Kim](https://github.com/praconfi)
 - [James Culshaw] (https://github.com/jamesculshaw)
