@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
@@ -297,6 +297,7 @@
 - [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
+- [Saloni Kothari](https://github.com/SaloniK17)
 - [Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma]https://github.com/MAYANK25402
