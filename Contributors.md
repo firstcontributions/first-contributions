@@ -1,5 +1,6 @@
 # Contributors
 - [Heru Dwi Cahya](https://github.com/herudece)
+- [Minh Nguyen](https://github.com/mnguyen-git)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
