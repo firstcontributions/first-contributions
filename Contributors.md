@@ -641,11 +641,13 @@
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Omkar Nehete] (https://github.com/OmkarNehete)
 - [Andrew Martin](https://github.com/annima24)
+- [Aruna Prabakar] (https://github.com/aprabakar1110)
 - [Ishika Guleria](https://github.com/ishikaguleria)
 - [Syed Faiz Hasan](https://github.com/faiz-hasan11)
 - [Saul Miquilena](https://github.com/SaulMiquilena)
 - [Genesis KG](https://github.com/GenesisKG)
-- [Meera Mehta] (https://github.com/meeramehta)
+- [Aruna Prabakar](https://github.com/aprabakar1110)
+- [Meera Mehta](https://github.com/meeramehta)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
 - {ANKIT PODDER}{https://github.com/ANKITPODDER}
@@ -6297,6 +6299,7 @@
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
 - [Lauren Kosub](https://github.com/laurenkosub)
+- [Aruna Prabakar](https://github.com/aprabakar1110)
 - [Jessica Padolina](https://github.com/jpadolina)
 - [Denitsa Stapleton](https://github.com/denitsa13)
 - [Kristina Huang](https://github.com/dhuang07)
