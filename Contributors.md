@@ -39,6 +39,7 @@
 - [Shivam Gupta](https://github.com/shivam3310)
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Anna Burek](https://github.com/aburek)
+- [Yassine Omrani](https://github.com/YassineOmrani)
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
 - [Lisa Becker](https://github.com/lisabecker)
 - [Rafael González](https://github.com/RafaelGzz)
