@@ -2013,6 +2013,7 @@
 - [Liu Yang](https://github.com/Supernova-cyber)
 - [Sasha Kapralov](https://github.com/sasha-kap)
 - [Steven Dz](https://github.com/StevenDz)
+- [Gustavo Zapata](https://github.com/gustavozapata)
 - [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - joel montano
