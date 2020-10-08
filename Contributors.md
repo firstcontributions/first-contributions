@@ -6488,6 +6488,7 @@
 - [Jeryl Seow](https://github.com/jerylseow)
 - [Kritsada Moungkhao](https://github.com/kidkrub)
 - [Keston Timson]
+- [Dominique Kolbe](https://github.com/domko95)
 - [Ruzan Tandukar](https://github.com/ruzzan)
 - [Krishnatheja Vanka](https://github.com/theja-vanka)
 - [vinaykumar](https://github.com/Vinz1444)
