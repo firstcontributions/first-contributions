@@ -1046,6 +1046,7 @@
 - [Muhammad Bella BN](https://github.com/bellabeen)
 - [Breno Xavier](https://github.com/brenoxav)
 - [Shahrukh Ansari](https://github.com/shak1505)
+- [Bryan fox]
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
 - [Tyler Bacon](https://github.com/tbacon781)
