@@ -389,6 +389,7 @@
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
 - Sejal Jain(https://github.com/sejaljain123)
 - [Thiago Fonseca Tahara](https://github.com/thiagoft)
+- [Deepak Singh ] (https://github.com/deepsingh9868)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Ibrahim Bakare](https://github.com/ibakare10/first-contributions/edit/add-ibrahim-name/Contributors.md)
 - [Madan Patil](https://github.com/mvpmaddy) -[Palakk Yadavv]
