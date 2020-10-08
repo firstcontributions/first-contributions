@@ -71,6 +71,7 @@
 - [Jack Kendall](https://github.com/jkendall327)
 - [Frederick Bogdanoff](https://github.com/frederickbogdanoff)
 - [Diana Vilé](https://github.com/dianavile/)
+- [Lewis Baston](https://github.com/android-lewis)
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Gabryelle Soares](https://github.com/gabsoares11/)
 - [Christoffer Rydeståhl](https://github.com/crydestaahl)
