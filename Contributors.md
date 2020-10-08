@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Vidhu Verma] (https://github.com/vidhuu)/
+- [Vidhu Verma].(https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
