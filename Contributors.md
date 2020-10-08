@@ -224,7 +224,7 @@
 - [Alex Tu](https://github.com/AlexTu2)
 - [Aquib Zaman](https://github.com/AQUIB-ZAMAN)
 - [Aman](https://github.com/Lord-Aman)
-  [Enzo Konzili](https://github.com/EnzoKonzili)
+- [Enzo Konzili](https://github.com/EnzoKonzili)
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
 - - [Sonia Ortiz] (https://github.com/soniaortiz)
