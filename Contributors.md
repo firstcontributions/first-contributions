@@ -40,6 +40,7 @@
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
+- [Eric Atwell](https://github.com/atwelleric)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
 - [Shivam Gupta](https://github.com/shivam3310)
