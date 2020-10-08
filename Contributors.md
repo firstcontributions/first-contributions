@@ -21,6 +21,7 @@
 - [Steven Joseph](https://github.com/stevenjos27)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
+- [Naol Chala](https://github.com/naolchala)
 - [Siddharth jain](https://github.com/siddhartthjain)
 - [Pedro Gesta](https://github.com/pedrogestajr
 - [Sabrina Wong](https://github.com/sabrinarwong)
