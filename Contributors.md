@@ -6443,6 +6443,7 @@
 - [Nick Marshall](https://github.com/marshallnw18)
 - [Maitreya Dudhgaonkar] (https://github.com/virus2116)
 - [Naka Rapstar] (https://github.com/Nakasz)
+- [Fauzan Edris](https://github.com/FauzanEdris)
 - [Avleen Kaur](https://github.com/avleen2898)
 - [Pedro Perez](github.com/pedrousp)
 - [Surendra Maharjan](https://github.com/cyrus305)
