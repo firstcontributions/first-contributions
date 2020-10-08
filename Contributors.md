@@ -1,4 +1,5 @@
 # Contributors
+- [Manjit Pardeshi](https://github.com/Manjit2003 )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Vidhu Verma] (https://github.com/vidhuu)/
