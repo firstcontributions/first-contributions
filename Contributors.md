@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
@@ -15,8 +16,7 @@
 - [Josue Bolanos] (https://github.com/jbolanosc)
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
-- [Diane Lee](https://github.com/diane-lee-byte)
--[Nandini Mundra](https://github.com/NandiniMundra-8)
+- [Diane Lee](https://github.com/diane-lee-byte) -[Nandini Mundra](https://github.com/NandiniMundra-8)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Steven Joseph](https://github.com/stevenjos27)
@@ -183,7 +183,7 @@
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
@@ -6490,3 +6490,4 @@
 - [Rohit Singh](https://github.com/rohitgit1)
 - [Dominic Gada](https://github.com/DomGada)
 - [Kevin Chen](https://github.com/kevin3227)
+- [JinSeop Shin](https://github.com/Jin-seop)
