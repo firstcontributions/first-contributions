@@ -460,6 +460,8 @@
 - [Sandip Baidya](https://github.com/sandip-baidya)
 - [Elizabeth Sotomayor](https://github.com/carsandparties/)
 - [Nancy Lambert] (https://github.com/n-lambert)
+  Akshat Tyagi
+
 - [Abhinav Shukla] (https://github.com/AbsMechanik)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
@@ -584,6 +586,7 @@
 - [Quack Jack](https://github.com/quackjack)
 - [Yonatan Gal](https://github.com/yonatanGal)
 - [Mayank Jain](https://github.com/mayankjain985)
+  [Akshat Tyagi]
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Della Lin](https://github.com/della222)
 - [Akshay Chopade](https://github.com/akshay399)
@@ -878,6 +881,7 @@
 - Yahaya Kehinde
 - [Harshal Jain](https://github.com/Harshal0506)
 - Ajeet Singh Parmar
+- [Harshal Jain] (https://github.com/Harshal0506)
 - Callina Birdsong
 - [Nikki Bahl] (https://github.com/nikkibahl)
 - [Julia S. Butler] (https://github.com/MsJSB)
