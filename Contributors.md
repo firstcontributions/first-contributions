@@ -20,6 +20,7 @@
 - [Amikar Sinha](https://github.com/killshot11)
 - [Kevwe](https://github.com/K3vwe)
 - [Shahrukh Ansari](https://github.com/shak1505)
+- [Bryan fox]
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
