@@ -6399,6 +6399,7 @@
 - Kamal Tulsiyani
 - Harsh Kumar
 - Harsha Bhogle
+- Laquita Noel
 - Lokesh
 - Rohit Prasad(Indian)
 - Alireza Khorami (https://github.com/alirezakhoramimn)
