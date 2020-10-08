@@ -3207,6 +3207,7 @@
 - [Aidan Curley](https://gitbub.com/redyelruc)
 - [Jeuel Gutierrez](https://github.com/jeuel2001)
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
+- [Senno Kaasjager](https://github.com/skaasjager)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Sarah Larkworthy](https://github.com/SLarkworthy)
 - [Vineet Vatsal](https://github.com/pret3nti0u5)
