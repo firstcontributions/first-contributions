@@ -301,6 +301,7 @@
 - [Chandani Mourya] (https://github.com/ChandaniM)
 - [Pragadesh K] (https://github.com/pragadesh-k)
 - [Diana Cheng] (https://github.com/dianache4685)
+- [Shardul Birje] (https://github.com/shardul-b)
 - [Afroj Ahmad Khan] (https://github.com/iamAfroj)
 - [Antara Ghosh]
 - [Joyce He](https://github.com/jjoycehe)
