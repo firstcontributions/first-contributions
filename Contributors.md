@@ -560,6 +560,7 @@
 - [Yonatan Gal](https://github.com/yonatanGal)
 - [Mayank Jain](https://github.com/mayankjain985)
 - [Meekha E Saji](https://github.com/meekhasaji)
+- [Della Lin](https://github.com/della222)
 - [Akshay Chopade](https://github.com/akshay399)
 - [Ask Jag](https://github.com/AskJag07)
 - [Sam Jackhole](https://github.com/samjackhole)
