@@ -6403,6 +6403,7 @@
 - [Konstantinos Rantos] (https://github.com/RantosKonstantinos)
 - [Victor Neves] (https://github.com/alovictor)
 - [Rizky Jayusman](https://github.com/rizkyjayusman)
+- [Daniel McMullen](https://github.com/daniel-mcmullen)
 - [Preston Crowe](https://github.com/vaugerbird)
 - [soongjamm](https://github.com/soongjamm)
 - [Aarsh Kariya](https://github.com/AarshKariya)
