@@ -6368,6 +6368,7 @@
 - [Yasmim Corrêa](https://github.com/ygcorrea)
 - [bugtective](https://github.com/bugtective)
 - [Nash Vincent](https://github.com/nashvincent)
+- [Divyesh Golani](https://github.com/DivyeshGolani)
 - [Daniel Maike](https://github.com/DanMke)
 - [Aishwarya Maggi](https://github.com/AishwaryaMaggi)
 - [Matt Lazana](https://github.com/freder2002)
