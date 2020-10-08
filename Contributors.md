@@ -156,6 +156,7 @@
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
+- [Antonio Martinez](https://github.com/antonioMartinez30)
 - [Goutham R](https://github.com/Druffl3)
 - [Sondre Wang](https://github.com/SondreWang)
 - [Junyi Chen](https://github.com/junyi-chen0801)
