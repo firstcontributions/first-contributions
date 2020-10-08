@@ -6508,6 +6508,7 @@
   – [Ines Fernandez] (http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - Charlie Wu
+- [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Karang Reksa] (https://github.com/cuncis)
 - [brkline] (https://github.com/brkline)
