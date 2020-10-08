@@ -5806,6 +5806,7 @@
 - [Vijay Uniyal](https://github.com/uniyalVJ)
 - [Michal Terranova](https://github.com/mrterranova)
 - [Sara Fawmy](https://github.com/ReyhanSara)
+- [Tarjei Vevf] (https://github.com/tarjeivs)
 - [Tor Einar Huus](https://github.com/torhuus)
 - [Tania](https://github.com/taniyourstruly)
 - [Tarik Manoar 👋🏽👨🏽💻 🇧🇩](https://github.com/tarikmanoar) 😎
