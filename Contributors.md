@@ -204,6 +204,7 @@
 - [Sami Kalammallah](https://github.com/SamX23)
 - [Elenwo Gift] (https://github.com/bromaGift)
 - [Maddy Havranek](https://github.com/mrhavranek)
+- [Laura Ross](https://github.com/laura-ross/)
 - [Cari Gan](https://github.com/cariygan)
 - [Sulphur1010](https://github.com/sulphur1010)
 - [Theresa Cho](https://github.com/tcho6319)
