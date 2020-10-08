@@ -517,6 +517,7 @@
 - Mrityunjay kumar
 - Fig The Gif
 - ZombiMigz
+- kingstarfly (https://github.com/kingstarfly)
 - Ayush Goyal
 - Arpit Batra
 - [Siddharth Shrivastava](https://github.com/Siddharth2430/)
