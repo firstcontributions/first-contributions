@@ -6436,3 +6436,4 @@
 - [Ashraf Safarov] (https://github.com/eshref)
 - [Bahritdinov Daler](https://github.com/bdaler)
 - [Paulo Amaral](https://github.com/phfa26)
+- [Kevin Chen](https://github.com/kevin3227)
