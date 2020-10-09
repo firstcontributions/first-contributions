@@ -14,6 +14,7 @@
 - [Subham Poddar] (https://github.com/subham-poddar)
 - [Wojciech Snopkowski](https://github.com/snopkowski)
 - [Kate Howell](https://github.com/katehowell)
+- [Ayush Kumar](https://github.com/ayushkr459)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Ayushi Mittal](https://github.com/AyushiNM)
 - [Avnish Pandey](https://github.com/avnishpandey113)
