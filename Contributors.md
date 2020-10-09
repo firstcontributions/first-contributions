@@ -6,6 +6,7 @@
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - [Sarvesh Patil](https://github.com/sarveshh )
 - Sriparna Chakraborty
+- [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Hyongguk Hong](https://github.com/hyongguk)
 - [Vidhu Verma] (https://github.com/vidhuu)/
