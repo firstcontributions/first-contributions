@@ -409,7 +409,6 @@ Bhavesh Chandrakant Joshi
 - [Kaitlyn Zavala](https://github.com/kzavala)
 - [Ahsan Khan](https://github.com/ahsankhan26)
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
-
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook] (https://github.com/nada1619)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
@@ -511,7 +510,6 @@ Bhavesh Chandrakant Joshi
 - [Elizabeth Sotomayor](https://github.com/carsandparties/)
 - [Nancy Lambert] (https://github.com/n-lambert)
   Akshat Tyagi
-
 - [Abhinav Shukla] (https://github.com/AbsMechanik)
 - [Franchesca Leung](https://github.com/franchescaleung)
 - [Acqualine Lobo] (https://github.com/acqualine)
@@ -981,7 +979,6 @@ Bhavesh Chandrakant Joshi
 - [Kautilya Pandey] (https://github.com/kpx3)
 - [Nicole Clearie]
 - [hamdan abdul](https://github.com/Hamhunter)
-
 - [Nicole Clearie]
 - [hamdan abdul](https://github.com/Hamhunter)
 - [Kirui victor]
@@ -1265,7 +1262,6 @@ Bhavesh Chandrakant Joshi
 - [Akshit Soneji](https://github.com/AKSHIT989)
 - [Lucas Deboch](https://github.com/lucasdeboch)
 - [stuffkind](https://github.com/stuffkind/)
-
 - [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
@@ -6469,6 +6465,7 @@ Bhavesh Chandrakant Joshi
 - [Nash Vincent](https://github.com/nashvincent)
 - [Divyesh Golani](https://github.com/DivyeshGolani)
 - [Daniel Maike](https://github.com/DanMke)
+- [Nimrod Michaeli](https://github.com/nimrodmic)
 - [Aishwarya Maggi](https://github.com/AishwaryaMaggi)
 - [Matt Lazana](https://github.com/freder2002)
 - [Virat Kohli](https://github.com/vkohil123987)
