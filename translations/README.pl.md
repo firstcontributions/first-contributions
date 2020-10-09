@@ -56,7 +56,7 @@ Przykład
 ```
 git checkout -b add-adam-kowalski
 ```
-(Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia to listy.)
+(Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia do listy.)
 
 ## Wprowadź zmiany i wgraj je
 
