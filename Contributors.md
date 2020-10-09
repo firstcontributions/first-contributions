@@ -57,6 +57,7 @@
 - [Gustavo Bedasi](https://github.com/GusBedasi)
 - [Jack Kendall](https://github.com/jkendall327)
 - [Frederick Bogdanoff](https://github.com/frederickbogdanoff)
+- [Francisca Adekanye](https://github.com/damikanye)
 - [Diana Vilé](https://github.com/dianavile/)
 - [Hexiang Zhang](https://github.com/hexzha)
 - [Gabryelle Soares](https://github.com/gabsoares11/)
