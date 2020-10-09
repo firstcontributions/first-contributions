@@ -62,6 +62,7 @@
 - [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
 - Darshil
+- [Vyom Jain](https://github.com/Vyvy-vi)
 - [Debapriyo Mukherjee](https://github.com/debapriyo1999)
 - [Zheny Li](https://github.com/Lzyabc)
 - [Emiliano Leal](https://github.com/Shimmah)
