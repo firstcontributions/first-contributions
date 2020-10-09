@@ -5,6 +5,7 @@
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
+- [Jon Mooney](https://github.com/jonamooney)
 - [Hyongguk Hong](https://github.com/hyongguk)
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
