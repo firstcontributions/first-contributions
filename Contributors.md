@@ -57,6 +57,7 @@
 - [KC](https://github.com/kamsci)
 - [Shivam Gupta](https://github.com/shivam3310)
 - [Komala Reddypalle](https://github.com/HungerforCode)
+- [Benji](https://github.com/IWantADog)
 - [Anna Burek](https://github.com/aburek)
 - [Yassine Omrani](https://github.com/YassineOmrani)
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
