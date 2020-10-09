@@ -6597,6 +6597,7 @@
 - [Ross Williams](https://github.com/rossdwill)
 - [Alex Richardson](https://github.com/alexander-richardson)
 - [Jose Ramos](https://github.com/JoeRams)
+- [Salvador Pazos](https://github.com/xPolarCat)
 - [Luis Sebastián](https://github.com/HombreLaser)
 - [Edgar Niño](https://github.com/Edgar-Nino)
 - [Adrián Muñoz](https://github.com/MasMat2)
