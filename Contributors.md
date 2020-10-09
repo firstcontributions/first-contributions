@@ -1,4 +1,5 @@
 # Contributors
+- [brigthon](https://github.com/brigthon)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Miguel Palo](https://github.com/rmdpalo)
 - [Tanner Haberl](https://github.com/thaberl13)
