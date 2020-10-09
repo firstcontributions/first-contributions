@@ -20,6 +20,7 @@
 - [Iyimide Adegunloye] (https://github.com/mide358) 
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
+- [Aayush](https://github.com/aayushsaini)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
 - [Kushaan Gowda](https://github.com/kushaangowda)
 - [Subham Poddar] (https://github.com/subham-poddar)
