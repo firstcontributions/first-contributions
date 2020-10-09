@@ -6592,6 +6592,7 @@
 - [Ross Williams](https://github.com/rossdwill)
 - [Alex Richardson](https://github.com/alexander-richardson)
 - [Jose Ramos](https://github.com/JoeRams)
+- [Edgar Niño](https://github.com/Edgar-Nino)
 - [Adrián Muñoz](https://github.com/MasMat2)
 - [Andres Montes](https://github.com/aimb3)
 - [Cecilia Villarreal](https://github.com/CecyliaV)
