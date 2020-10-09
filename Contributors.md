@@ -72,6 +72,7 @@
 - [Zheny Li](https://github.com/Lzyabc)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Adriana Estrada](https://github.com/adrikarina123)
 - [Angelus](https://github.com/CalebGuerreroL)
 - [Adrian Martinez](https://github.com/AdrianMartinez99)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
