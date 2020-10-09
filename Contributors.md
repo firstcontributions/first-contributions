@@ -201,6 +201,7 @@
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Michela Leuzzi](https://github.com/Hutcheeran)
 - [Kyara van Putten](https://github.com/Kiralinn)
+- [Manvi Goel](https://github.com/ManviGoel26)
 - [Cassidy Skorczewski](https://github.com/cskor)
 - [Sruthi Cherukuri](https://github.com/sruthi-cherukuri)
 - [HariKrishna Shivanathri](https://github.com/HariKrishnaShivs)
