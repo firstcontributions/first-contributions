@@ -650,6 +650,7 @@
 - [Pitambara Awadhesh](https://github.com/Pitambara16)
 - [Madhur Agrawal](https://github.com/madhur0809)
 - [Bandu Bhaiya](https://github/bandubhaiya)
+- [Dani sofer] (https://github.com/soferdani)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Archana Singh](https://github.com/archana-1209)
 - [Ricardo Escobedo](https://github.com/ricardoesc25)
