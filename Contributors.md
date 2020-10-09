@@ -3798,6 +3798,7 @@
 - [Siddharth Singh](https://github.com/Siddharth-cmd)
 - [Preity](https://github.com/preity-p)
 - [brriann](https://github.com/brriann)
+- [Margu86](https://github.com/Margu86)
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Satvir Sandhu](https://github.com/356Sandhu)
 - [Neissa Dorsinville](https://github.com/neissacodes)
