@@ -5751,6 +5751,7 @@ Ghazi Khan
 - [Nimrod Perez](https://github.com/interstellar-villain)
 - [Patrick Roy](https://github.com/)
 - [Jeswin Mathew](https://github.com/jxm2012)
+- [Michael J Smith](https://github.com/mijamessmith)
 - [Jun Parinya](https://github.com/)
 - [Taras Kozak](https://github.com/kozaktar)
 - [Ezra Schrage](https://github.com/ezraschrage)
