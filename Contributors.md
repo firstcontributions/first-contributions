@@ -4,6 +4,7 @@
 - [Tanner Haberl](https://github.com/thaberl13)
 - [Minh Nguyen](https://github.com/mnguyen-git)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
+- [Sarvesh Patil](https://github.com/sarveshh )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Hyongguk Hong](https://github.com/hyongguk)
