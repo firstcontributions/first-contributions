@@ -45,6 +45,7 @@
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
+- Eliana Grosof
 - [Eric Atwell](https://github.com/atwelleric)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
