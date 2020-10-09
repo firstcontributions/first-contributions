@@ -408,6 +408,7 @@
   -\_[Soufiane BANNOUNI](https://github.com/souben)
 - [Divyansh Pandey] (https://github.com/DEAThWALNUt)
 - [Sakshi Saxena](https://github.com/sakshisaxena12)
+- [Isabella Enriquez](https://github.com/isabellaenriquez)
 - [Jackie Kinsler](https://github.com/jackie-kinsler)
 - [Anvesh Verma](https://github.com/anveshverma)
 - [ABM. Adnan Azmee] (https://github.com/adnanazmee)
