@@ -1,4 +1,5 @@
 # Contributors
+
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
@@ -8,8 +9,8 @@
 - [Miguel Palo](https://github.com/rmdpalo)
 - [Tanner Haberl](https://github.com/thaberl13)
 - [Minh Nguyen](https://github.com/mnguyen-git)
-- [Manjit Pardeshi](https://github.com/Manjit2003 )
-- [Sarvesh Patil](https://github.com/sarveshh )
+- [Manjit Pardeshi](https://github.com/Manjit2003)
+- [Sarvesh Patil](https://github.com/sarveshh)
 - Sriparna Chakraborty
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
@@ -41,7 +42,7 @@
 - [Nandini Mundra](https://github.com/NandiniMundra-8)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
-- [Juan Grajales](https://github.com/juansongrajales) 
+- [Juan Grajales](https://github.com/juansongrajales)
 - [Akshatha K Poojary] (https://github.com/AkshathaKPoojary)
 - [Steven Joseph](https://github.com/stevenjos27)
 - [Courtney Buratto](https://github.com/cocoitali)
@@ -203,7 +204,7 @@
 - [Michael Brooks](https://github.com/navkor-sevatec)
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
-Bhavesh Chandrakant Joshi 
+  Bhavesh Chandrakant Joshi
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Sakae Watanabe](https://github.com/meltdownlv)
 - [Antonio Martinez](https://github.com/antonioMartinez30)
@@ -240,7 +241,7 @@ Bhavesh Chandrakant Joshi
 - [Francisco Gongora](https://github.com/FranciscoGongora0101)
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Dustin Tran](https://github.com/dennodin)
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
@@ -267,7 +268,7 @@ Bhavesh Chandrakant Joshi
 - [Sebastian Amaral] (https://github.com/SHA-Arg)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
-- [Prince Kumar](https://github.com/Princeraaz)	
+- [Prince Kumar](https://github.com/Princeraaz)
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
@@ -837,7 +838,7 @@ Bhavesh Chandrakant Joshi
 - [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
-- [Cormac Krum](https://github.com/cormacKrum) 
+- [Cormac Krum](https://github.com/cormacKrum)
 - Midhun Asokkumar Padma
 - [Serena Wang]
 - [Sarah Yap](https://github.com/skyuanow)
@@ -6599,7 +6600,7 @@ Bhavesh Chandrakant Joshi
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Karang Reksa] (https://github.com/cuncis)
-- [Manoj Upreti](https://github.com/upretim) 
+- [Manoj Upreti](https://github.com/upretim)
 - [brkline] (https://github.com/brkline)
 - [ilumin] (https://github.com/ilumin)
 - [Shiv Chauhan](https://github.com/xqbptt)
@@ -6650,3 +6651,4 @@ Bhavesh Chandrakant Joshi
 - [Harrylepap](https://github.com/harrylepap)
 - Lo Voelsen
 - [Zak Noble-Clarke](https://github.com/Seggys116)
+- [Prateek Karki](https://github.com/prateekkarki)
