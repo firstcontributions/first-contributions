@@ -103,6 +103,7 @@
 - [Hannah M](https://github.com/hannahtlm)
 - [Kaihchen1230](https://github.com/Kaihchen1230)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Anirudh P S](https://github.com/anirudhps10)
 - [Adhiti Shaili](https://github.com/AdhitiS)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
