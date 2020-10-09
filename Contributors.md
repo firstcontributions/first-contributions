@@ -6522,6 +6522,7 @@
 - [Ayush Basral](https://github.com/ABasral)
 - [Garima Mishra](https://github.com/garimamishraa)
 - [Jure Filipic](https://github.com/juref)
+- [Tadataka Matsumoto](https://github.com/Tadataka-Matsumoto)
 - [Garima Mishra] (https://github.com/garimamishraa)
 - [Smruti Ranjan Sahoo] (https://github.com/c99SRS)
 - [Oscar M Romero](https://github.com/creaturenex)
