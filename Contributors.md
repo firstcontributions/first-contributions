@@ -120,6 +120,7 @@
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Hank Atherton] (https://github.com/warmoverdrive)
 - [Gracyn Green](https://github.com/gg371)
+- [Nino Mercado](https://github.com/njmercado)
 - [A Dinkins](https://github.com/adinkins2019)
 - [Priyanka Surakanti](https://github.com/priyanka-surakanti/)
 - [S Bharath](http://github.com/sapprazz)
