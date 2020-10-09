@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
@@ -312,6 +312,7 @@
 - [Samuel Chen] (https://github.com/xiaoyang413)
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
 - [Saloni Kothari](https://github.com/SaloniK17)
+- [Priyal Gupta](https://github.com/priyalgupta09)
 - [Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma]https://github.com/MAYANK25402
