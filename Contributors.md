@@ -155,6 +155,7 @@
 - [Tauqeer Ali]
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [alvacat](https://github.com/alvacat)
+- [AveryPudding](https://github.com/averyartist)
 - [yoohyeon](https://github.com/rladbgus)
 - [Arif Dermawan](https://github.com/fsociety343)
 - [Maribel Hernandez](https://github.com/maribelbhf/)
