@@ -1,7 +1,8 @@
 # Contributors
+
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Minh Nguyen](https://github.com/mnguyen-git)
-- [Manjit Pardeshi](https://github.com/Manjit2003 )
+- [Manjit Pardeshi](https://github.com/Manjit2003)
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Vidhu Verma] (https://github.com/vidhuu)/
@@ -198,7 +199,7 @@
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
-- *rnomals*
+- _rnomals_
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
@@ -224,7 +225,7 @@
 - [Sebastian Amaral] (https://github.com/SHA-Arg)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
-- [Prince Kumar](https://github.com/Princeraaz)	
+- [Prince Kumar](https://github.com/Princeraaz)
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
@@ -260,6 +261,7 @@
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
 - [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
+- [Akina Ohira](https://github.com/akinaohira)
 - [Atharva Kale](https://github.com/atharvakale343)
 - [Sangya Lohani](https://github.com/lohanisangya)
 - [Diana Galarza](https://github.com/dianagalarza)
@@ -791,7 +793,7 @@
 - [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
-- [Cormac Krum](https://github.com/cormacKrum) 
+- [Cormac Krum](https://github.com/cormacKrum)
 - Midhun Asokkumar Padma
 - [Serena Wang]
 - [Sarah Yap](https://github.com/skyuanow)
