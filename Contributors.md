@@ -28,6 +28,7 @@
 - [Ayush Kumar](https://github.com/ayushkr459)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Ayushi Mittal](https://github.com/AyushiNM)
+- [Tim Furdui] (https://github.com/TimFurdui)
 - [Avnish Pandey](https://github.com/avnishpandey113)
 - [Adrianna Guevarra](https://github.com/adrianna157)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
