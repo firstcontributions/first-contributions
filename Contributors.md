@@ -148,6 +148,7 @@
 - [Saptarsi Saha](https://github.com/saptarsi96)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
+- [Tauqeer Ali]
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [alvacat](https://github.com/alvacat)
 - [yoohyeon](https://github.com/rladbgus)
