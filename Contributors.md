@@ -65,6 +65,8 @@
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Rakesh R](https://github.com/rakeshr01)
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Dani0406](https://github.com/Dani0460)
+- [Saccha Agriel](https://github.com/sacchaagriel)
 - [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
 - Darshil
