@@ -633,6 +633,7 @@
 - [Samra Azeem](https://github.com/samraazeem)
 - Mikaela Wade
 - [Rahul Kashyap](https://github.com/imKashyap)
+- [Ryu Tamura](https://github.com/ryutamura)
 - Dallin Craven
 - [Shrey Parikh] (https://github.com/shreyparikh)
 - [Himani Madaan] (https://github.com/himanimadaan)
