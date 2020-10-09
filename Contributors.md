@@ -21,6 +21,7 @@
 - [Poonam Firodiya](https://github.com/poonam906)
 - [Lacee Xu](https://github.com/laceett)
 - [Florian Bieck](https://github.com/florianBieck)
+- [Pablo Santos](http://github.com/ryhan123)
 - [Josue Bolanos] (https://github.com/jbolanosc)
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
@@ -199,6 +200,7 @@
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
 - *rnomals*
+- [Dustin Tran](https://github.com/dennodin)
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
@@ -6581,4 +6583,8 @@
 - [Dominic Gada](https://github.com/DomGada)
 - [Kevin Chen](https://github.com/kevin3227)
 - [Karoline Suzuki](https://github.com/suzukikarol)
+- [Yusuke](https://github.com/yusuke99)
 - # [Noritake Takamichi](https://github.com/noritaketakamichi)
+
+
+
