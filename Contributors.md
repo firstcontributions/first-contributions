@@ -72,6 +72,7 @@
 - [Zheny Li](https://github.com/Lzyabc)
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Luis Martinez](https://github.com/Luis1299)
 - [Martin Castillo](https://github.com/LexNit)
 - [Adriana Estrada](https://github.com/adrikarina123)
 - [Angelus](https://github.com/CalebGuerreroL)
