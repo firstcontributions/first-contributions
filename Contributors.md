@@ -3020,6 +3020,7 @@ Ghazi Khan
 - Chjkaro [baonq243](https://github.com/baonq243)
 - anizhou
 - Jens Krueger
+- [Katia Demil](https://github.com/katiachan)
 - Ha Nguyen [hanguyen0](https://github.com/hanguyen0)
 - Janitha Missaka
 - Sinclair Guthrie
