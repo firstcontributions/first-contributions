@@ -66,6 +66,7 @@
 - [Christoffer Rydeståhl](https://github.com/crydestaahl)
 - [Hannah M](https://github.com/hannahtlm)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Sachin Matta](https://github.com/ciberexplosion))
 - [Adhiti Shaili](https://github.com/AdhitiS)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
