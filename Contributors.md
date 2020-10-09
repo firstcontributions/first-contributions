@@ -163,6 +163,7 @@
 - [Parikshit Ghosh](https://github.com/parikshitghosh3)
 - [Justine Ma](https://github.com/invisible-cloud)
 - [Winny Hu](https://github.com/huhuining)
+- [Conor Crowley](https://github.com/ConorCrowley)
 - [Arushi Agarwal](https://github.com/arushiagar)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
 - [Bhargavi Chada](https://github.com/BhargaviChada)
