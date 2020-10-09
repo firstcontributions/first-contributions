@@ -10,6 +10,7 @@
 - [Minh Nguyen](https://github.com/mnguyen-git)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - [Sarvesh Patil](https://github.com/sarveshh )
+- [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - Sriparna Chakraborty
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
