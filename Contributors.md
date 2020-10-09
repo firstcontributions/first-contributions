@@ -6583,6 +6583,7 @@
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Karang Reksa] (https://github.com/cuncis)
+- [Manoj Upreti](https://github.com/upretim) 
 - [brkline] (https://github.com/brkline)
 - [ilumin] (https://github.com/ilumin)
 - [Shiv Chauhan](https://github.com/xqbptt)
