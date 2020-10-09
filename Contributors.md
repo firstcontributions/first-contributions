@@ -997,6 +997,7 @@ Ghazi Khan
 - [Jithin Jose] (https://github.com/defaultRectr0)
 - [Gaurav Dahal](https://github.com/gaurav822)
 - [Celine McFarlane](https://github.com/shoemoo)
+- [Harshad Kapei](https://github.com/kapeiharshad)
 - [Bhagya Singh](https://github.com/bhagya05)
 - [Johns Vincent](https://github.com/Johns-Vincent)
 - [Ronit Chatterjee](https://github.com/i-Rony)
