@@ -6608,4 +6608,5 @@
 - [Yusuke](https://github.com/yusuke99)
 - [serverglen](https://github.com/serverglen)
 - [Jennifer P.](https://github.com/jenniferpen430)
+- [Sol](https://github.com/SoliMark)
 - [Harrylepap](https://github.com/harrylepap)
