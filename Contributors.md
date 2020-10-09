@@ -16,6 +16,7 @@
 - [Hyongguk Hong](https://github.com/hyongguk)
 - [Vidhu Verma] (https://github.com/vidhuu)
 - [Vajrala Panindra Reddy](https://github.com/vajrala2001)
+- [Iyimide Adegunloye] (https://github.com/mide358) 
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
