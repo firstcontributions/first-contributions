@@ -12,7 +12,7 @@
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Hyongguk Hong](https://github.com/hyongguk)
-- [Vidhu Verma] (https://github.com/vidhuu)/
+- [Vidhu Verma] (https://github.com/vidhuu)
 - [Vajrala Panindra Reddy](https://github.com/vajrala2001)
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
@@ -127,6 +127,7 @@
 - [Anushka Sethi](https://github.com/anushkasethi1710)
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Sagar Mittal](https://github.com/sagarmittal1)
+- [Zachary Freeman](https://github.com/zfreeman3)
 - [Juthika D](https://github.com/DJuthika)
 - [Dhaslie Lai](https://github.com/dlede)
 - [Arya Soman](https://github.com/aryasoman333)
