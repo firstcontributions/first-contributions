@@ -6600,3 +6600,4 @@
 - [Karoline Suzuki](https://github.com/suzukikarol)
 - [Yusuke](https://github.com/yusuke99)
 - [serverglen](https://github.com/serverglen)
+- [Jennifer P.](https://github.com/jenniferpen430)
