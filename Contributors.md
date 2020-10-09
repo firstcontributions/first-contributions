@@ -5074,6 +5074,7 @@
 - [Jennifer Park](https://github.com/j3nniis)
 - [Anayna Singh](https://github.com/anaynasingh)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
+- Jordan McLeod
 - [Kevin C.](https://github.com/Lxr82)
 - [mpatel17](https://github.com/mpatel17)
 - [Kushal Gopal](https://github.com/kushal-gopal)
