@@ -695,6 +695,7 @@ Bhavesh Chandrakant Joshi
 - [DevBoy](https://github.com/DevBoy69)
 - [Sharanya Mukherjee](https://github.com/sharanya02)
 - [Joshua Harris](https://github.com/japjap95)
+Ghazi Khan
 - [Sudha Tanay](https://github.com/sudhatanay)
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
 - [Nalin Bhargava](https://github.com/nalin12345)
