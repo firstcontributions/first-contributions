@@ -1,5 +1,6 @@
 # Contributors
 - [Heru Dwi Cahya](https://github.com/herudece)
+- [Miguel Palo](https://github.com/rmdpalo)
 - [Tanner Haberl](https://github.com/thaberl13)
 - [Minh Nguyen](https://github.com/mnguyen-git)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
