@@ -2983,6 +2983,7 @@
 - [David Damer](CDavid-Damer)
 - Rajan Khade
 - [Atharva C J](https://github.com/toothsy)
+- [Bravin Rutto](https://github.com/BravinR)
 - [David Lugo Jz](https://github.com/DavidLJz)
 - Christopher LeBoeuf
 - [Christopher Smit - Minc Development]
