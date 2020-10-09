@@ -89,6 +89,7 @@
 - [Michael Brooks](https://github.com/navkor-sevatec)
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
+Bhavesh Chandrakant Joshi 
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Goutham R](https://github.com/Druffl3)
 - [Junyi Chen](https://github.com/junyi-chen0801)
