@@ -5969,7 +5969,7 @@ Bhavesh Chandrakant Joshi
 - [Danielle Cole](https://github.com/daniellercole)
 - [Mansi Agnihotri](https://github.com/pyprogr)
 - [Sezgin Mustafa](https://github.com/sezgo/)
-- [Jose Osuna](https://github.com/joseosuna-engineer)
+- [Jose Osuna](https://github.com/joseosuna-engineer) 
 - [Jake Coldbrook](https://github.com/jakeColdbrook)
 - [Vignesh Vijay](https://github.com/Viggy9)
 - [Nate Nienaber](https://github.com/nate-nienaber/)
