@@ -67,6 +67,7 @@
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Rakesh R](https://github.com/rakeshr01)
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Kunal Gaurav](https://github.com/kunalgaurav4)
 - [Daniel Reyes Arguelles](https://github.com/DaniArguelles)
 - [Dani0406](https://github.com/Dani0460)
 - [Saccha Agriel](https://github.com/sacchaagriel)
