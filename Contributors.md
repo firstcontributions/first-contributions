@@ -67,6 +67,7 @@
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Dani0406](https://github.com/Dani0460)
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Daniel Ríos](https://github.com/DanielRios-code)
 - [Andrea Rosas](https://github.com/andreanah)
 - [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
