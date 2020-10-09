@@ -711,7 +711,6 @@
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
 - [Rahul Tilwani](https://github.com/rahul975337)
 - [Arunav Sharma](https://github.com/arunav11)
-- [Anthony Clausing](https://github.com/AnthonyClausing)
 - [Gisele Bernardes da Silva](https://github.com/gisabernardess)
 - [Jatin Gupta](https://github.com/jg7)
 - [Surya Man Shrestha](https://github.com/surya1243)
