@@ -4594,7 +4594,7 @@ Ghazi Khan
 - [Lv Zhi](https://github.com/Na0ture)
 - [Subhodeep](https://github.com/Subhodeep2000)
 - [Vyner](https://github.com/Vyner)
-- [luiz Arakaki](https://github.com/luizarakaki)
+- [Luiz Arakaki](https://github.com/luizarakaki)
 - [Fakhruddin Tahery](https://github.com/ftahery)
 - [scw248](https://github.com/scw248)
 - [Abhilash Kuhikar](https://github.com/abhikuhikar)
