@@ -16,6 +16,7 @@
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - [Sarvesh Patil](https://github.com/sarveshh )
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
+- Abdul Adhil
 - [Shivam Sahu](https://github.com/shivamsahu4u )
 - Sriparna Chakraborty
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
