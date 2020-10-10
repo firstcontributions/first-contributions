@@ -1095,6 +1095,7 @@ Ghazi Khan
 - [Achyut Paudel](https://github.com/achyut)
 - [TeckChun](https://github.com/pangteckchun)
 - [Tobi Oyetunji](https://github.com/Oluwatobi09)
+- [Mario Palacios Vasquez](https://github.com/mepv)
 - [Varun Bhutani](https://github.com/varunbhutani98)
 - [David bretler](https://github.com/DavidBretler)
 - [Xefyn](https://github.com/Xefyn)
