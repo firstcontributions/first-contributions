@@ -5886,6 +5886,7 @@ Ghazi Khan
 - [David Stacey](https://github.com/DavidDStacey)
 - [Enrique Lozano](https://github.com/eelozano)
 - [Anirudh]
+- [Tanish Patel](https://github.com/Tanish-16)
 - [Goodness Ifejesu Olajide](https://github.com/ifejesu)
 - [Robert Makuta](https://github.com/Dabani)
 - [B Chase Babrich](https://github.com/bcbabrich/)
