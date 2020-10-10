@@ -26,6 +26,7 @@
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Aayush](https://github.com/aayushsaini)
+- [Mitisha Agarwal] (https://github.com/mitishaa)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
 - [Kushaan Gowda](https://github.com/kushaangowda)
 - [Subham Poddar] (https://github.com/subham-poddar)
