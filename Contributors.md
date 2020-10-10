@@ -5,6 +5,7 @@
 - [Joey Cheng] (https://github.com/joey3662)
 - [Hadramet Sylla](https://github.com/Hadramet)
 - [Abhinandan Khilari](https://github.com/abhi747)
+- [Aaron Chocolate](https://github.com/chop-code)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
 - [sbapollocoder](https://github.com/sbapollocoder)
