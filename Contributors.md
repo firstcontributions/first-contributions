@@ -8,6 +8,7 @@
 - [brigthon](https://github.com/brigthon)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Jenniline Ebai](https://github.com/Jenniline)
+- [Amartya K](https://github.com/amartya-k)
 - [Miguel Palo](https://github.com/rmdpalo)
 - [Lakshmi Palaparthi](https://github.com/lvpalaparthi)
 - [Tanner Haberl](https://github.com/thaberl13)
