@@ -25,7 +25,7 @@
 - [Vidhu Verma] (https://github.com/vidhuu)
 - [Osvaldo Ayala] (https://github.com/oayala65)
 - [Vajrala Panindra Reddy](https://github.com/vajrala2001)
-- [Iyimide Adegunloye] (https://github.com/mide358) 
+- [Iyimide Adegunloye] (https://github.com/mide358)
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Aayush](https://github.com/aayushsaini)
@@ -54,7 +54,7 @@
 - [Nandini Mundra](https://github.com/NandiniMundra-8)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
-- [Juan Grajales](https://github.com/juansongrajales) 
+- [Juan Grajales](https://github.com/juansongrajales)
 - [Akshatha K Poojary] (https://github.com/AkshathaKPoojary)
 - [Steven Joseph](https://github.com/stevenjos27)
 - [Courtney Buratto](https://github.com/cocoitali)
@@ -66,7 +66,8 @@
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
-- [Raluca Niti](https://github.com/IRNiti)
+- [Jason Vines]
+  [Raluca Niti](https://github.com/IRNiti)
 - Ana
 - Eliana Grosof
 - [Eric Atwell](https://github.com/atwelleric)
@@ -216,7 +217,7 @@
 - [Michael Brooks](https://github.com/navkor-sevatec)
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
-Bhavesh Chandrakant Joshi 
+Bhavesh Chandrakant Joshi
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Sakae Watanabe](https://github.com/meltdownlv)
 - [Antonio Martinez](https://github.com/antonioMartinez30)
@@ -280,7 +281,7 @@ Bhavesh Chandrakant Joshi
 - [Sebastian Amaral] (https://github.com/SHA-Arg)
 - [Alex North] (https://github.com/AlexNorth-PNG/)
 - [Bettina King-Smith] (https://github.com/bettina-king-smith/)
-- [Prince Kumar](https://github.com/Princeraaz)	
+- [Prince Kumar](https://github.com/Princeraaz)
 - [Jo Dunham](https://github.com/Rainbow-Ninja | @codeTravelled)
 - [Annu Joshi](https://github.com/AnnuJoshi/)
 - [Alex Tu](https://github.com/AlexTu2)
@@ -853,7 +854,7 @@ Ghazi Khan
 - [Marco Serrano](https://github.com/serranomarco)
 - [Elly Howells](https://github.com/EJHowells)
 - [Unero Bhagaskara](https://github.com/EM2CIQ2)
-- [Cormac Krum](https://github.com/cormacKrum) 
+- [Cormac Krum](https://github.com/cormacKrum)
 - Midhun Asokkumar Padma
 - [Serena Wang]
 - [Sarah Yap](https://github.com/skyuanow)
@@ -6621,7 +6622,7 @@ Ghazi Khan
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Karang Reksa] (https://github.com/cuncis)
-- [Manoj Upreti](https://github.com/upretim) 
+- [Manoj Upreti](https://github.com/upretim)
 - [brkline] (https://github.com/brkline)
 - [ilumin] (https://github.com/ilumin)
 - [Shiv Chauhan](https://github.com/xqbptt)
