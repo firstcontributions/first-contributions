@@ -6699,3 +6699,4 @@ Ghazi Khan
 - [Ning Ma] (https://github.com/maning00)
 - [ChristineWasike] (https://github.com/ChristineWasike)
 - [Jackson Fernando] (https://github.com/jacksonfernando)
+- [Christopher Diaz] (https://github.com/cldiaz06)
