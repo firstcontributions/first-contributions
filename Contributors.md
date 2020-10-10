@@ -7,6 +7,7 @@
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
+- [sbapollocoder](https://github.com/sbapollocoder)
 - [Cedillo](https://github.com/zmcedillo)
 - [brigthon](https://github.com/brigthon)
 - [Karolina Krassowska](https://github.com/krassowska)
