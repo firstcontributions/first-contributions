@@ -7,6 +7,7 @@
 - [Irvin Martínez González](https://github.com/SapZaneZ)
 - [Cedillo](https://github.com/zmcedillo)
 - [brigthon](https://github.com/brigthon)
+- [Karolina Krassowska](https://github.com/krassowska)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Jenniline Ebai](https://github.com/Jenniline)
 - [Amartya K](https://github.com/amartya-k)
