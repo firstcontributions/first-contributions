@@ -2,6 +2,7 @@
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Joey Cheng] (https://github.com/joey3662)
+- [Hadramet Sylla](https://github.com/Hadramet)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
@@ -18,6 +19,7 @@
 - [Sarvesh Patil](https://github.com/sarveshh )
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - [Shivam Sahu](https://github.com/shivamsahu4u )
+- [Luisa Bez](https://github.com/lb930)
 - Sriparna Chakraborty
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
@@ -426,6 +428,7 @@ Bhavesh Chandrakant Joshi
 
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook] (https://github.com/nada1619)
+- [Astitv Shandilya](https://github.com/axtitv)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Omar Alvarado](https://github.com/Omar0218)
@@ -3369,6 +3372,7 @@ Ghazi Khan
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Micheal Omeiza Suleiman](https://github.com/Omeiza17)
 - [Valerie Oakhu](https://github.com/ooakhu)
+- [Gabrijel Golubic](https://github.com/ggolubic)
 - [Andy Pavey](https://github.com/apavey1)
 - [Davi Sales](https://github.com/davigomessales)
 - [Kyle Conlon](https://github.com/KConlon13)
@@ -5887,6 +5891,7 @@ Ghazi Khan
 - [David Stacey](https://github.com/DavidDStacey)
 - [Enrique Lozano](https://github.com/eelozano)
 - [Anirudh]
+- [Tanish Patel](https://github.com/Tanish-16)
 - [Goodness Ifejesu Olajide](https://github.com/ifejesu)
 - [Robert Makuta](https://github.com/Dabani)
 - [B Chase Babrich](https://github.com/bcbabrich/)
@@ -6679,4 +6684,5 @@ Ghazi Khan
 - [ExcitableMonkey] (https://github.com/ExcitableMonkey)
 - [Saurav Sharma] (https://github.com/sau-rav)
 - [Mrinmoy Mitra] (https://github.com/Mrinmoy99)
-
+- [Ning Ma] (https://github.com/maning00)
+- [ChristineWasike] (https://github.com/ChristineWasike)
