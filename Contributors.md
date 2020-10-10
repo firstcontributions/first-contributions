@@ -1566,6 +1566,7 @@ Ghazi Khan
 - [Akhil Prem](https://github.com/premakhil)
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Paridhi Agarwal](https://github.com/paridhi7)
+- [Ryan Haver] (https://github.com/rmh7596)
 - [Sahaj Khandelwal](https://github.com/sahven)
 - [Ivan Bula](https://github.com/ibula))
 - [David Pretty](https://github.com/DavidPretty)
