@@ -1,4 +1,5 @@
 # Contributors
+- [Thisura dinith](https://github.com/THISURA97)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Joey Cheng] (https://github.com/joey3662)
