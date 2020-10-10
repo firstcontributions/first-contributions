@@ -23,6 +23,7 @@
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - [Shivam Sahu](https://github.com/shivamsahu4u )
 - [Luisa Bez](https://github.com/lb930)
+- [ManuMcfly$](https://github.com/ManuMcfly6)
 - Sriparna Chakraborty
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
