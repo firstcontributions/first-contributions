@@ -6679,3 +6679,4 @@ Ghazi Khan
 - [Saurav Sharma] (https://github.com/sau-rav)
 - [Mrinmoy Mitra] (https://github.com/Mrinmoy99)
 - [Ning Ma] (https://github.com/maning00)
+- [ChristineWasike] (https://github.com/ChristineWasike)
