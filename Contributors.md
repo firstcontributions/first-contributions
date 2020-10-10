@@ -6705,3 +6705,5 @@ Ghazi Khan
 - [Sheryl Garrett]
 - [Jackson Fernando] (https://github.com/jacksonfernando)
 - [Christopher Diaz] (https://github.com/cldiaz06)
+- [Alexander Cai](https://github.com/piguyinthesky)
+- [Aditya Soni] (https://github.com/pajamapremier123)
