@@ -3368,6 +3368,7 @@ Ghazi Khan
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Micheal Omeiza Suleiman](https://github.com/Omeiza17)
 - [Valerie Oakhu](https://github.com/ooakhu)
+- [Gabrijel Golubic](https://github.com/ggolubic)
 - [Andy Pavey](https://github.com/apavey1)
 - [Davi Sales](https://github.com/davigomessales)
 - [Kyle Conlon](https://github.com/KConlon13)
