@@ -6698,4 +6698,5 @@ Ghazi Khan
 - [Mrinmoy Mitra] (https://github.com/Mrinmoy99)
 - [Ning Ma] (https://github.com/maning00)
 - [ChristineWasike] (https://github.com/ChristineWasike)
+- [Sheryl Garrett]
 - [Jackson Fernando] (https://github.com/jacksonfernando)
