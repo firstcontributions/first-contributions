@@ -6705,4 +6705,4 @@ Ghazi Khan
 - [Sheryl Garrett]
 - [Jackson Fernando] (https://github.com/jacksonfernando)
 - [Christopher Diaz] (https://github.com/cldiaz06)
-- [Manav Joshi] (https://github.com/Manav-Disvelop)
+- [Manav Joshi](https://github.com/Manav-Disvelop)
