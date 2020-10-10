@@ -6707,3 +6707,4 @@ Ghazi Khan
 - [Christopher Diaz] (https://github.com/cldiaz06)
 - [Alexander Cai](https://github.com/piguyinthesky)
 - [Aditya Soni] (https://github.com/pajamapremier123)
+- [Manav Joshi](https://github.com/Manav-Disvelop)
