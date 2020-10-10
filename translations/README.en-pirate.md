@@ -113,7 +113,7 @@ Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye 
 
 ## Where t' go from here?
 
-Well done! Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
+Well done. Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
 
 Celebrate yer contribution 'n share it wit' yer hearties 'n followers by goin' t' [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
