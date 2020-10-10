@@ -2,6 +2,7 @@
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Joey Cheng] (https://github.com/joey3662)
 - [Abhinandan Khilari](https://github.com/abhi747)
+- [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
 - [Cedillo](https://github.com/zmcedillo)
 - [brigthon](https://github.com/brigthon)
