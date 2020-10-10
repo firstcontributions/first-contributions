@@ -2786,6 +2786,7 @@ Ghazi Khan
 - [Atul Kumar](https://github.com/atulksin)
 - [Jacob Kerr](https://github.com/jakejack13)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
+- [Robert Rauch](https://github.com/RobertRauch)
 - [Zachary Ho](https://github.com/zachy-ho)
 - [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
 - [Qursch] (https://github.com/Qursch)
