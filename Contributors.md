@@ -18,6 +18,7 @@
 - [Sarvesh Patil](https://github.com/sarveshh )
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - [Shivam Sahu](https://github.com/shivamsahu4u )
+- [Luisa Bez](https://github.com/lb930)
 - Sriparna Chakraborty
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
