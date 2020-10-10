@@ -6705,4 +6705,3 @@ Ghazi Khan
 - [Sheryl Garrett]
 - [Jackson Fernando] (https://github.com/jacksonfernando)
 - [Christopher Diaz] (https://github.com/cldiaz06)
-- [William Li] (https://github.com/LordXerus)
