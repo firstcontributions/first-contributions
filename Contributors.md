@@ -6652,6 +6652,7 @@ Ghazi Khan
 - [Andres Montes](https://github.com/aimb3)
 - [Cecilia Villarreal](https://github.com/CecyliaV)
 - [Leonardo Alvarez](https://github.com/leoa21)
+- [Akshata Revankar][https://github.com/ravidyarev]
 - [GuillermoPartida García](https://github.com/GuillermoPartidaGarcia)
 - [Nathan Brown](https://github.com/nbrown0000)
 - [Jiaranai Keatnuxsuo](https://github.com/Keatnuxsuo)
