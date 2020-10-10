@@ -7,6 +7,7 @@
 - [Cedillo](https://github.com/zmcedillo)
 - [brigthon](https://github.com/brigthon)
 - [Heru Dwi Cahya](https://github.com/herudece)
+- [Jenniline Ebai](https://github.com/Jenniline)
 - [Miguel Palo](https://github.com/rmdpalo)
 - [Lakshmi Palaparthi](https://github.com/lvpalaparthi)
 - [Tanner Haberl](https://github.com/thaberl13)
