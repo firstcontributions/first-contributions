@@ -1763,6 +1763,7 @@ Ghazi Khan
 - [Kartik Gupta](https://github.com/beingkartik)
 - [Frank Kiibus](https://github.com/Devil-Shinji)
 - [Cassidy McDonnell]
+- [Matteo Ruggiero](https://github.com/mRuggi)
 - [Vaibhav Sahni](https://github.com/vaibhavsahni009)
 - [Roberto Castelli](https://github.com/RobertoCastelli)
 - [Victor Paz](https://github.com/vkcp)
