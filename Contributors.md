@@ -46,6 +46,7 @@
 - [Kate Howell](https://github.com/katehowell)
 - [Ayush Kumar](https://github.com/ayushkr459)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
+- [Syed Mehdi Abbas] (https://github.com/syedmehdiabbas)
 - [Ayushi Mittal](https://github.com/AyushiNM)
 - [Tim Furdui] (https://github.com/TimFurdui)
 - [Avnish Pandey](https://github.com/avnishpandey113)
