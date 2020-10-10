@@ -1631,6 +1631,7 @@ Ghazi Khan
 - [Reuben Udu-Wallace](https://github.com/rubixcubereubs)
 - [Dinesh Verma](https://github.com/dvCodeIt)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
+- [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Martin Buxmann](https://github.com/BitVivAZ)
 - [Shubham Garg](https://github.com/shub-garg)
