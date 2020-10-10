@@ -425,6 +425,7 @@ Bhavesh Chandrakant Joshi
 
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook] (https://github.com/nada1619)
+- [Astitv Shandilya](https://github.com/axtitv)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Omar Alvarado](https://github.com/Omar0218)
