@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Joey Cheng] (https://github.com/joey3662)
 - [Hadramet Sylla](https://github.com/Hadramet)
@@ -52,6 +52,7 @@
 - [Pablo Santos](http://github.com/ryhan123)
 - [Josue Bolanos] (https://github.com/jbolanosc)
 - [Anusha Ganta](https://github.com/anushaganta16)
+- [Aryan Gupta](https://github.com/ag090118)
 - [Rehan Edin](https://github.com/redin22)
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [Nandini Mundra](https://github.com/NandiniMundra-8)
