@@ -6699,3 +6699,5 @@ Ghazi Khan
 - [Ning Ma] (https://github.com/maning00)
 - [ChristineWasike] (https://github.com/ChristineWasike)
 - [Jackson Fernando] (https://github.com/jacksonfernando)
+- [Rodrigo Simon] (https://github.com/rodrigobsimon)
+
