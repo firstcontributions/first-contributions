@@ -27,6 +27,7 @@
 - [Luisa Bez](https://github.com/lb930)
 - [ManuMcfly$](https://github.com/ManuMcfly6)
 - Sriparna Chakraborty
+- [Meghal Bisht] (https://github.com/MeghalBisht)
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Hyongguk Hong](https://github.com/hyongguk)
