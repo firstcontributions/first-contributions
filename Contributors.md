@@ -8,6 +8,7 @@
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Sean Micca](https://github.com/smicca)
+- [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
