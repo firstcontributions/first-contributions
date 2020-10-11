@@ -9,6 +9,7 @@
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
 - [Sean Micca](https://github.com/smicca)
+- [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
