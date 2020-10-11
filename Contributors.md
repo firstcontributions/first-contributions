@@ -6594,6 +6594,7 @@ Ghazi Khan
 - Laquita Noel
 - Lokesh
 - Rohit Prasad(Indian)
+- Catacombas(https://github.com/catacombas)
 - Alireza Khorami (https://github.com/alirezakhoramimn)
 - [Adk](https://github.com/CustomUser47)
 - [Maxwell Lo](https://github.com/lo-maxwell)
