@@ -279,6 +279,7 @@ Bhavesh Chandrakant Joshi
 - [Shreya Mukherjee] (https://github.com/Shreya57)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [David Thapa](https://github.com/David-Thapa)
+- [Paul Cortes](https://github.com/pcorqui)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
 - [Shafayet Rajit](https://github.com/ShafayetRajit)
 - [Levi Johnson](https://github.com/levimjohn)
