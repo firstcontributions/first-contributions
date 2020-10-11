@@ -14,6 +14,7 @@
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
+- [Ece Aydemir](https://github.com/eeayd)
 - [Sean Micca](https://github.com/smicca)
 - [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
