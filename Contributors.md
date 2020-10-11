@@ -12,6 +12,7 @@
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
 - [Rashid Ali](https://github.com/rashidjama)
+- [Zsuzsa Lukacs](https://github.com/ZsuzsaMano)
 - [sbapollocoder](https://github.com/sbapollocoder)
 - [Cedillo](https://github.com/zmcedillo)
 - [brigthon](https://github.com/brigthon)
