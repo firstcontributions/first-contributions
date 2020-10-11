@@ -1557,6 +1557,7 @@ Ghazi Khan
 - [Boyan Iliev](https://github.com/bo-iliev)
 - [Mark Fowlow](https://github.com/mjfowlow)
 - [Abidzar Muhammad](https://github.com/Abidzar16)
+- [George Troupis](https://github.com/georgetroupis)
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [WeiHao Kuang](https://github.com/kuangticus)
