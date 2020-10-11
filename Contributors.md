@@ -1632,6 +1632,7 @@ Ghazi Khan
 - [Arjun Aggarwal](https://github.com/Arjun-Aggarwal)
 - Wimansha Herath
 - Marc Banuls
+- [Cooper Craighead](https://github.com/ccraighead)
 - [Ritik Kumar](https://github.com/iamr-kumar)
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Ayushi Srivastava](https://github.com/srivastavayushi)
@@ -6744,3 +6745,4 @@ Ghazi Khan
 - [Thanussian Sharvananthan](https://github.com/TSharvananthan)
 - [Umar Yusuf](https://github.com/umaryusuf)
 - [Héctor Rosales](https://github.com/hndoss)
+
