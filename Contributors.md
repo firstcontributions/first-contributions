@@ -8,6 +8,7 @@
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Joey Cheng] (https://github.com/joey3662)
 - [Hadramet Sylla](https://github.com/Hadramet)
+- [Melinda Diaz](https://github.com/melindadiaz07)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Abhinandan Khilari](https://github.com/abhi747)
