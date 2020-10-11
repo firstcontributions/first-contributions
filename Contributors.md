@@ -71,6 +71,7 @@
 - [Josue Bolanos] (https://github.com/jbolanosc)
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
+- [Saish Pawar](https://github.com/sashpawar11)
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [Nandini Mundra](https://github.com/NandiniMundra-8)
 - [AlxGration](https://github.com/AlxGration)
