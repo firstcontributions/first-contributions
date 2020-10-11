@@ -7,6 +7,7 @@
 - [Hadramet Sylla](https://github.com/Hadramet)
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Abhinandan Khilari](https://github.com/abhi747)
+- [Eszter Szucs-Matyas](https://github.com/huggingpixels)
 - [Sean Micca](https://github.com/smicca)
 - [Aaron Chocolate](https://github.com/chop-code)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
