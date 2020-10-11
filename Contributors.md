@@ -89,6 +89,7 @@
 - Ana
 - Eliana Grosof
 - Benjamin Wright
+- Nehal Gupta
 - [Eric Atwell](https://github.com/atwelleric)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
