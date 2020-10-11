@@ -268,6 +268,7 @@ Bhavesh Chandrakant Joshi
 - [Roisin O'Dowd](https://github.com/RoisinODowd)
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Gisela Font](https://github.com/gfontsayeras)
+- [Ielin Daisy] (https://github.com/ielin)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Priya_Mandal](https://github.com/priyamandal-21)
 - _rnomals_
