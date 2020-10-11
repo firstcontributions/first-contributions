@@ -6739,3 +6739,4 @@ Ghazi Khan
 - [Somesh Singh](https://github.com/somesh-ops)
 - [Thanussian Sharvananthan](https://github.com/TSharvananthan)
 - [Umar Yusuf](https://github.com/umaryusuf)
+- [Héctor Rosales](https://github.com/hndoss)
