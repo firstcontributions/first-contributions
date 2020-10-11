@@ -6745,3 +6745,4 @@ Ghazi Khan
 - [Thanussian Sharvananthan](https://github.com/TSharvananthan)
 - [Umar Yusuf](https://github.com/umaryusuf)
 - [Héctor Rosales](https://github.com/hndoss)
+- [Alina Berdnikova](https://github.com/freakbelka)
