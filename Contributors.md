@@ -129,7 +129,7 @@
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Luis Martinez](https://github.com/Luis1299)
 - [Martin Castillo](https://github.com/LexNit)
-julio
+- [Julio Julao](https://github.com/juliojulao)
 - [Adriana Estrada](https://github.com/adrikarina123)
 - [Angelus](https://github.com/CalebGuerreroL)
 - [Adrian Martinez](https://github.com/AdrianMartinez99)
