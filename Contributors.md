@@ -31,6 +31,7 @@
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - Abdul Adhil
 - Mahiransh Sharma
+- nehal gupta
 - [Shivam Sahu](https://github.com/shivamsahu4u )
 - [Luisa Bez](https://github.com/lb930)
 - [ManuMcfly$](https://github.com/ManuMcfly6)
