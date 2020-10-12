@@ -16,6 +16,7 @@
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
+- [Dylan Wang](https://github.com/wd6)
 - [Ece Aydemir](https://github.com/eeayd)
 - [Vini Mehta] (https://github.com/vini-mehta)
 - [Naman Khurpia](https://github.com/namankhurpia)
