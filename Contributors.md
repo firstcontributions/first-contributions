@@ -6463,4 +6463,5 @@
 - [Hardik Gupta](https://github.com/harrdy272)
 - [David Ryan](https://github.com/radge)
 - [Nicholas Aliabadi](https://aliabadi.github.io)
+- [macrohumanity](https://github.com/macrohumanity)
 - [Alex Yuan](https://github.com/aycer25)
