@@ -1,4 +1,5 @@
 # Contributors
+- [William Zhou](https://github.com/williamzhou8818)
 - [Bilal Maqsood](https://github.com/bilal9one)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
