@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [William Zhou](https://github.com/williamzhou8818)
 - [Bilal Maqsood](https://github.com/bilal9one)
@@ -2216,6 +2216,7 @@ Ghazi Khan
 - [Jonas Imm](https://github.com/JonasImm)
 - [Rahul Sharma](https://github.com/webber2408)
 - [Andy Nguyen](https://github.com/anguye13)
+- [Mohamed Amine Bousbici](https://github.com/Moha504)
 - [Deepti Patel](https://github.com/d4i)
 - [Pawan Solanki](https://github.com/solankipawan)
 - [Shrirang Deshmukh](https://github.com/shrirangpdeshmukh)
