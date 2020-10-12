@@ -451,6 +451,7 @@ Bhavesh Chandrakant Joshi
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
 - [Aurora Wang](https://github.com/auroralimin)
+- [Federico Pichi](https://github.com/fpichi)
 - [Shiwani Kumari](https://github.com/Shiwani19890)
 - [Khadija Zavery]
 - SK
