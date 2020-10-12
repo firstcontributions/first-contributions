@@ -20,6 +20,7 @@
 - [Ozan Caglar](https://github.com/ozancaglar)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
+- [Salvatore] (https://github.com/711salvatore)
 - [Dylan Wang](https://github.com/wd6)
 - [Ece Aydemir](https://github.com/eeayd)
 - [Vini Mehta] (https://github.com/vini-mehta)
