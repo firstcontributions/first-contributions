@@ -9,6 +9,7 @@
 - [Dhanika](https://github.com/dhanika08/)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
+- [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
 - [Joey Cheng] (https://github.com/joey3662)
 - [Hadramet Sylla](https://github.com/Hadramet)
