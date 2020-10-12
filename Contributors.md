@@ -43,6 +43,7 @@
 - [Jenniline Ebai](https://github.com/Jenniline)
 - [Amartya K](https://github.com/amartya-k)
 - [Miguel Palo](https://github.com/rmdpalo)
+- [Aleksander Bless](https://github.com/alekbless)
 - [Rimjhim Agrawal](https://github.com/rimjhim167)
 - [Jason Lam](https://github.com/jlamonade)
 - [Muhesh Kumar](https://github.com/muhesh-kumar)
