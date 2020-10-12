@@ -124,6 +124,7 @@
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
 - [Lisa Becker](https://github.com/lisabecker)
 - [Peter Morton](https://github.com/peteDotNet)
+- Milo Silva
 - [Rafael González](https://github.com/RafaelGzz)
 - [Alvin Mrema] (https://github.com/AlvinMrema)
 - [Rakesh R](https://github.com/rakeshr01)
