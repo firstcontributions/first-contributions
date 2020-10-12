@@ -8,6 +8,7 @@
 - [Thisura dinith](https://github.com/THISURA97)
 - [Dhanika](https://github.com/dhanika08/)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
+- [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
