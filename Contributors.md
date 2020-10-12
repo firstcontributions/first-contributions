@@ -17,6 +17,7 @@
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
 - [Ece Aydemir](https://github.com/eeayd)
+- [Naman Khurpia](https://github.com/namankhurpia)
 - [Sean Micca](https://github.com/smicca)
 - [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
