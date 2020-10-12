@@ -33,6 +33,7 @@
 - [Amartya K](https://github.com/amartya-k)
 - [Miguel Palo](https://github.com/rmdpalo)
 - [Rimjhim Agrawal](https://github.com/rimjhim167)
+- [Jason Lam](https://github.com/jlamonade)
 - [Muhesh Kumar](https://github.com/muhesh-kumar)
 - [Tom Sherman](https://github.com/tompsherman)
 - [Lakshmi Palaparthi](https://github.com/lvpalaparthi)
