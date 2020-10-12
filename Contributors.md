@@ -6745,6 +6745,7 @@ Ghazi Khan
 - [Zak Noble-Clarke](https://github.com/Seggys116)
 - [Jack Zhang](https://github.com/JZhang502)
 - [Roshan Nemad](https://github.com/nemadroshan)
+- [Brian Rios](https://github.com/bjr366)
 - [Oliver Hensman-Crook](https://github.com/olliehcrook)
 - [Guedelho](https://github.com/guedelho)
 - [Lala](https://github.com/lvde21)
@@ -6771,3 +6772,4 @@ Ghazi Khan
 - [Alina Berdnikova](https://github.com/freakbelka)
 - [Yasaswi P](https://github.com/yasaswip)
 - [Alok54](https://github.com/Alok54)
+
