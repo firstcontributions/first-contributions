@@ -37,6 +37,7 @@
 - [Revathy Punithan](https://github.com/revathypunithan)
 - [Margarita Fernandez](https://github.com/Marga1998)
 - [Andrew Peattie](https://github.com/atrp87)
+- [Khadija Nashe](https://github.com/KANashe/)
 - [Himanshi Kaushik](https://github.com/himanshi1996)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
