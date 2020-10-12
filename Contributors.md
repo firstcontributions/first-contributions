@@ -6774,3 +6774,4 @@ Ghazi Khan
 - [Alina Berdnikova](https://github.com/freakbelka)
 - [Yasaswi P](https://github.com/yasaswip)
 - [Alok54](https://github.com/Alok54)
+- [Gaurang Agarwal](https://github.com/gaurangagarwal)
