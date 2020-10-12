@@ -15,6 +15,7 @@
 - [Tim Windhorst](https://github.com/atimw)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
 - [Kipras Krasauskas](https://github.com/CypressG/)
+- [Ozan Caglar](https://github.com/ozancaglar)
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
 - [Dylan Wang](https://github.com/wd6)
