@@ -4671,6 +4671,7 @@ Ghazi Khan
 - [Archit Kulkarni](https://github.com/architkulkarni)
 - [Benjamin Thorpe](https://github.com/benjithorpe)
 - [James Ortiz](https://github.com/James1515)
+- [James Bartulis](https://github.com/James-Bartulis)
 - [Jake Zhang](https://github.com/zjk97)
 - [Fabio Trinidad](https://github.com/Ftrinidad2)
 - [Ikaika Alo](https://github.com/ikaikadev)
