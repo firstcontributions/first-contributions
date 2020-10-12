@@ -107,6 +107,7 @@
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
+- [Magnus Herrlin](https://github.com/MagnusHerrlin)
 - Eliana Grosof
 - Benjamin Wright
 - [Eric Atwell](https://github.com/atwelleric)
