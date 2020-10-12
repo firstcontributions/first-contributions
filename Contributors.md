@@ -6725,7 +6725,8 @@ Ghazi Khan
 - [Yusuke](https://github.com/yusuke99)
 - [serverglen](https://github.com/serverglen)
 - [Jennifer P.](https://github.com/jenniferpen430)
-- [Sol](https://github.com/SoliMark)
+- [gerlyman](https://github.com/gerlyman)
+  [Sol](https://github.com/SoliMark)
 - [Harrylepap](https://github.com/harrylepap)
 - Lo Voelsen
 - [Zak Noble-Clarke](https://github.com/Seggys116)
@@ -6755,3 +6756,4 @@ Ghazi Khan
 - [Héctor Rosales](https://github.com/hndoss)
 - [Alina Berdnikova](https://github.com/freakbelka)
 - [Yasaswi P](https://github.com/yasaswip)
+  
