@@ -17,6 +17,7 @@
 - [Abhinandan Khilari](https://github.com/abhi747)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
 - [Ece Aydemir](https://github.com/eeayd)
+- [Vini Mehta] (https://github.com/vini-mehta)
 - [Naman Khurpia](https://github.com/namankhurpia)
 - [Sean Micca](https://github.com/smicca)
 - [Abhick Dahal](https://github.com/abhick09)
