@@ -55,6 +55,7 @@
 - [Sarvesh Patil](https://github.com/sarveshh )
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - [Akhila](https://github.com/akhilap03)
+- Walker Dow
 - Abdul Adhil
 - Mahiransh Sharma
 - [Shivam Sahu](https://github.com/shivamsahu4u )
