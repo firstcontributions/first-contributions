@@ -2690,6 +2690,7 @@ Ghazi Khan
 - [Lucas Jeske](https://github.com/pljcgm)
 - [Reza Duha](https://github.com/rezaduha)
 - [Su Willu](https://github.com/SuWillu)
+- [Joseph Call](https://github.com/coejall)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
 - [Anastasia Mendoza](https://github.com/anascnm)
 - [Chira](https://github.com/chiralevy)
