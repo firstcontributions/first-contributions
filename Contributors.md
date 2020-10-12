@@ -675,6 +675,7 @@ Bhavesh Chandrakant Joshi
 - Baani Dhingra
 - Tushar Sardana
 - Bhaswati Boro
+- [Espen Berget](https://github.com/EspenBerget)
 - Rishin Pandit
 - Erik Espuñes
 - Shaanya Singh
