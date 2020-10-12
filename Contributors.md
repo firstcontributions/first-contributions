@@ -1,4 +1,5 @@
 # Contributors
+- [Bilal Maqsood](https://github.com/bilal9one)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
 - [Thisura dinith](https://github.com/THISURA97)
