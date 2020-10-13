@@ -4997,6 +4997,7 @@ Ghazi Khan
 - [Jared Vandeventer](https://github.com/jvandy83)
 - [Jarret Jheng Ch'ng](https://github.com/jchng)
 - [Prasanth Maddali](https://github.com/mprasanth)
+- [Suman Mondal](https://github.com/suman-kun)
 - [Luis G. Martinez 🇸🇻🤔](https://github.com/LGerMa)
 - [R. Henriquez](https://github.com/arghen)
 - [Caius Hemmerling](https://github.com/CaiusHemmerling)
