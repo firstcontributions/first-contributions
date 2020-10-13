@@ -3580,6 +3580,7 @@ Ghazi Khan
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - son_of_man
+- [SHUR1K-N](https://github.com/SHUR1K-N)
 - [Sungchang Park](https://github.com/psch300)
 - [Roshan Kanwar](https://github.com/roshan0708)
 - [Navin M](https://github.com/navin-m)
