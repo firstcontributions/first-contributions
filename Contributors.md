@@ -10,6 +10,7 @@
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
+- [Florian Guger](https://github.com/Fjormos
 - [Dhanika](https://github.com/dhanika08/)
 - [Serena](https://github.com/itsmeReRe/)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
