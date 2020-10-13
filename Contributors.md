@@ -3225,6 +3225,7 @@ Ghazi Khan
 - [Kehinde Abe](https://github.com/kennyOlakunle)
 - [Jasmine Valera](https://github.com/jvalera174)
 - [Doyeon Lim](https://github.com/fenneccat/)
+- Mr.roboto
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
 - [Christoph Weise-Onnen](https://github.com/cweise)
