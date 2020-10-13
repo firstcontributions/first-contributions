@@ -6806,3 +6806,4 @@ Ghazi Khan
 - [Ryan Porter] (https://github.com/PorterRyan)
 - [Karl Lim] (https://github.com/karlleh)
 - [Yash Sevada](https://github.com/YashSevada)
+- [Florian Bématol](https://github.com/florianbematol)
