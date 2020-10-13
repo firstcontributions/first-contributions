@@ -6742,6 +6742,7 @@ Ghazi Khan
 - [Luis Sebastián](https://github.com/HombreLaser)
 - [Edgar Niño](https://github.com/Edgar-Nino)
 - [Adrián Muñoz](https://github.com/MasMat2)
+- [Sooraj Philip](https://github.com/soorajphilip)
 - [Andres Montes](https://github.com/aimb3)
 - [Cecilia Villarreal](https://github.com/CecyliaV)
 - [Leonardo Alvarez](https://github.com/leoa21)
