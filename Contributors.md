@@ -4,6 +4,7 @@
 - [William Zhou](https://github.com/williamzhou8818)
 - [Bilal Maqsood](https://github.com/bilal9one)
 - [Twinkle Kumari](https://github.com/twinklernc)
+- [Carlos Fernandez](https://github.com/carlitosblvd)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
