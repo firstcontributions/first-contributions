@@ -8,6 +8,7 @@
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
 - [Dhanika](https://github.com/dhanika08/)
+- [Serena](https://github.com/itsmeReRe/)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
