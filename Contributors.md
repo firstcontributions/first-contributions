@@ -221,6 +221,7 @@ julio
 - [Simreen Kaur](https://github.com/simreenkaur/)
 - [Jennifer Kajiwara](https://github.com/jenkaji/)
 - [Rodrigo Yap](https://github.com/rogri2)
+- [Aftab]
 - [Lois Shank] (https://github.com/LoisGitStuff)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
