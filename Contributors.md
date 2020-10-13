@@ -13,6 +13,7 @@
 - [Florian Guger](https://github.com/Fjormos
 - [Dhanika](https://github.com/dhanika08/)
 - [Serena](https://github.com/itsmeReRe/)
+  [Jason Chavez Jr.] (https://github.com/jchavez2)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
