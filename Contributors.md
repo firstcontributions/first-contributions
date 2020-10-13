@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Jitto Joyes](https://github.com/Jittojoyes98)
 - [Dmi_Krop ]
 - [Fabio Tolio](https://github.com/FabioT0)
 - [Yarden Krok](https://github.com/yarden2k3)
