@@ -150,6 +150,7 @@
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Kunal Gaurav](https://github.com/kunalgaurav4)
 - [Daniel Reyes Arguelles](https://github.com/DaniArguelles)
+- [moryama](https://gitlab.com/moryama)
 - [Dani0406](https://github.com/Dani0460)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [David Montemayor](https://github.com/DavidAlMove)
