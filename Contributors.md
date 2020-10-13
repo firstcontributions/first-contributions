@@ -4576,6 +4576,7 @@ Ghazi Khan
 - [penpenpng](https://github.com/penpenpng)
 - [Giovanni Ciandrini](https://github.com/gciandro13)
 - [Justin Brown](https://github.com/justinbrowncodes)
+- [Equan Ur Rehman](https://github.com/equan4647)
 - [Jasmine Tracey](https://github.com/traceyjas)
 - [Gabriel Ilochi](https://github.com/gblend)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
