@@ -2482,6 +2482,7 @@ Ghazi Khan
 - Marius Schmauder
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
+- [Laurynas Kirdeika](https://github.com/kirdeika)
 - [Roman Preis](https://github.com/RomanPreis)
 - [Michael Scott](https://github.com/m5cott)
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
