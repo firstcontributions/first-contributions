@@ -2352,6 +2352,7 @@ Ghazi Khan
 - [James Paulinus](https://github.com/jhaymesdev)
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Daniel Sabic](https://github.com/sabicd)
+- [Srijita Sarkar](https://github.com/SrijitaSarkar99)
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
 - [Shubham Singh](https://github.com/suubh)
