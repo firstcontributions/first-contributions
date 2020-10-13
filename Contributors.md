@@ -50,6 +50,7 @@
 - [Karolina Krassowska](https://github.com/krassowska)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Jenniline Ebai](https://github.com/Jenniline)
+- [Hyma200] (https://github.com/Hyma200) 
 - [Amartya K](https://github.com/amartya-k)
 - [Miguel Palo](https://github.com/rmdpalo)
 - [Aleksander Bless](https://github.com/alekbless)
