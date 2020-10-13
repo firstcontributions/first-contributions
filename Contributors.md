@@ -3491,6 +3491,7 @@ Ghazi Khan
 - [Sergio Peschiera](https://github.com/sergiopg)
 - [Tom Rowbotham](https://github.com/tomrowbo)
 - [Rahul Bansal](https://github.com/RahulBansal123)
+- [Machine Learning Scientist](https://github.com/MLSci/)
 - [Kandice Everett](https://github.com/kandice11)
 - [tlylt](https://github.com/tlylt)
 - [Hainison Dornelas](https://github.com/hainison/)
