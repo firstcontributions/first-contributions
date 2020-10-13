@@ -701,6 +701,7 @@ Bhavesh Chandrakant Joshi
 - Erik Espuñes
 - Shaanya Singh
 - Keshav Kumar
+- [Aizel Agustino](http://github.com/aizelagustino)
 - [Sai Srija Panchagnula](https://github.com/srija920)
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
 - [Abinash Mishra](https://github.com/IIAbinashMishraII)
