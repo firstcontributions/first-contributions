@@ -62,6 +62,7 @@
 - Walker Dow
 - Abdul Adhil
 - Mahiransh Sharma
+- [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
 - [Shivam Sahu](https://github.com/shivamsahu4u )
 - [Luisa Bez](https://github.com/lb930)
 - [ManuMcfly$](https://github.com/ManuMcfly6)
