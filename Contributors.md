@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
  - Andrew Gao
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [William Zhou](https://github.com/williamzhou8818)
@@ -127,6 +127,7 @@
 - Eliana Grosof
 - Benjamin Wright
 - [Eric Atwell](https://github.com/atwelleric)
+- [Vipul Khandelwal](https://github.com/VipulKhandelwal1999)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
 - [Shivam Gupta](https://github.com/shivam3310)
