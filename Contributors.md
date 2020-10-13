@@ -6816,3 +6816,4 @@ Ghazi Khan
 - [Florian Bématol](https://github.com/florianbematol)
 - [Dattatraya Mule] (https://github.com/dattatrayam)
 - [Saleh Jasim] (https://github.com/bezy1)
+- [Vardan Tandon](https://github.com/vardantandon)
