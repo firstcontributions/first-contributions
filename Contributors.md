@@ -6824,3 +6824,4 @@ Ghazi Khan
 - [Saleh Jasim] (https://github.com/bezy1)
 - [Vardan Tandon](https://github.com/vardantandon)
 - [Luuk Volkering](https://github.com/luuk180)
+- [Jordan Romero](https://github.com/jordles113)
