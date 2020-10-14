@@ -66,6 +66,7 @@
 - [Tanner Haberl](https://github.com/thaberl13)
 - [Minh Nguyen](https://github.com/mnguyen-git)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
+- [Kenny Nguyen](https://github.com/kenny-nguyen)
 - [Sarvesh Patil](https://github.com/sarveshh )
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0 )
 - [Chiran Hewawitharana] (https://github.com/cmadusankahw)
