@@ -5045,6 +5045,7 @@ Ghazi Khan
 - [Kevin Huber](https://github.com/itskev)
 - [Taylor Nuffer](https://github.com/nuffertaylor)
 - [Monio](https://github.com/monio)
+- [Tom Kittel](https://github.com/kitteltom)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
 - [Nishant Pillai](https://github.com/nishantpillai5)
 - [Cristian Sanchez](https://github.com/cristianscy)
