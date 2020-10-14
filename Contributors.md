@@ -11,6 +11,7 @@
 - [Alexander Omorokunwa](https://github.com/xeroxism)
 - [Carlos Fernandez](https://github.com/carlitosblvd)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
+- [Praise Hezron](https://github.com/praisearts)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
 - [Florian Guger](https://github.com/Fjormos
