@@ -6,6 +6,7 @@
 - [William Zhou](https://github.com/williamzhou8818)
 - [Bilal Maqsood](https://github.com/bilal9one)
 - [Twinkle Kumari](https://github.com/twinklernc)
+- [Alexander Omorokunwa](https://github.com/xeroxism)
 - [Carlos Fernandez](https://github.com/carlitosblvd)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
