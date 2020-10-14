@@ -1,6 +1,7 @@
 # Contributors
  - Andrew Gao
 - Saish Reddy Komalla
+- [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
