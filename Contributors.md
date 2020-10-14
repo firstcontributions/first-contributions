@@ -6,6 +6,7 @@
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
+- [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [Shivam Karn](https://github.com/rexFX)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
