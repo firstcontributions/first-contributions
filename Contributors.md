@@ -96,6 +96,7 @@
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Varut Ruji]
 - [Jennifer Rosa](https://github.com/rosajen27)
+- [Afzal Shaikh](https://github.com/afzal-shaikh)
 - [Aayush](https://github.com/aayushsaini)
 - [Mitisha Agarwal] (https://github.com/mitishaa)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
