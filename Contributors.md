@@ -6864,4 +6864,5 @@ Ghazi Khan
 - [Mia](https://github.com/Miatonin)
 - [Rookie-Chao](https://github.com/Rookie-Chao)
 - [Darth-Maul](https://github.com/hockeyfrissa)
+- [Adam-Frank-White](https://github.com/AdamFrankWhite)
 - [Lucatake](https://github.com/Lucatake)
