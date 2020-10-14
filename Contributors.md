@@ -9,6 +9,7 @@
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [Shivam Karn](https://github.com/rexFX)
+- [Andrea Barzaghi](https://github.com/dbrn)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [William Zhou](https://github.com/williamzhou8818)
