@@ -18,6 +18,7 @@
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
 - [Florian Guger](https://github.com/Fjormos
+- [William Marino](https://github.com/willmarino)
 - [Dhanika](https://github.com/dhanika08/)
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
