@@ -32,6 +32,7 @@
 - [Tim Windhorst](https://github.com/atimw)
 - [Ahmed Mujtaba](https://github.com/amujtaba00)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
+- [Pratyush Raj](https://github.com/rajpratyush)
 - [Tharindu Lakshitha Thisarasinghe](https://github.com/tharindulucky)
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Ozan Caglar](https://github.com/ozancaglar)
