@@ -5,6 +5,7 @@
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [Shivam Karn](https://github.com/rexFX)
 - [William Zhou](https://github.com/williamzhou8818)
+- [Dhivya](https://github.com/dhivyasreedhar)
 - [Bilal Maqsood](https://github.com/bilal9one)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Alexander Omorokunwa](https://github.com/xeroxism)
