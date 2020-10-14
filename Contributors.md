@@ -183,6 +183,7 @@
 - [Martin Castillo](https://github.com/LexNit)
 julio
 - [Adriana Estrada](https://github.com/adrikarina123)
+- [Dimi](https://github.com/D-i-m-i)
 - [Angelus](https://github.com/CalebGuerreroL)
 - [Adrian Martinez](https://github.com/AdrianMartinez99)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
