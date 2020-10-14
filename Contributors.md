@@ -8,6 +8,7 @@
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [Shivam Karn](https://github.com/rexFX)
+- [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [William Zhou](https://github.com/williamzhou8818)
 - [Dhivya](https://github.com/dhivyasreedhar)
