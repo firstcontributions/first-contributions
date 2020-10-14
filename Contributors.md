@@ -18,6 +18,7 @@
 - [Thisura dinith](https://github.com/THISURA97)
 - [Florian Guger](https://github.com/Fjormos
 - [Dhanika](https://github.com/dhanika08/)
+- [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
 - [Priya Bhagat](https://github.com/Taeya-10)
   [Jason Chavez Jr.] (https://github.com/jchavez2)
