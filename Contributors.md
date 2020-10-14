@@ -15,7 +15,7 @@
 - [Dhanika](https://github.com/dhanika08/)
 - [Serena](https://github.com/itsmeReRe/)
 - [Jason Chavez Jr.](https://github.com/jchavez2)
-- [Devin Valencia](https://github.com/devinvalencia)
+- [Devin Valencia 🎃](https://github.com/devinvalencia)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
