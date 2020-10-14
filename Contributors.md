@@ -2666,6 +2666,7 @@ Ghazi Khan
 - [James Nacua](https://github.com/jacavena)
 - [Abhay](https://github.com/abhay007kr)
 - Nikhil Nair
+- [Rommel Andres Rivera](https://github.com/rommelriverab)
 - [Austin Clements](https://github.com/austinclem1)
 - [Gerard Barros](https://github.com/gerardbarros)
 - [Shreyas Dodamani](https://github.com/shreyasdoda)
