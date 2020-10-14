@@ -217,6 +217,7 @@ julio
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [Anirudh P S](https://github.com/anirudhps10)
 - [Adhiti Shaili](https://github.com/AdhitiS)
+- [Anthony Armfield](https://github.com/Anthony-Armfield)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shreyas Sankpal](https://github.com/Shreyas582)
