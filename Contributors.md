@@ -22,6 +22,7 @@
 - [Praise Hezron](https://github.com/praisearts)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
+- [Josh Nho](https://github.com/joshnho)
 - [Florian Guger](https://github.com/Fjormos
 - [William Marino](https://github.com/willmarino)
 - [Dhanika](https://github.com/dhanika08/)
