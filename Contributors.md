@@ -85,6 +85,7 @@
 - [Akhila](https://github.com/akhilap03)
 - Walker Dow
 - Abdul Adhil
+- Vikas Kumar
 - Mahiransh Sharma
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
 - [Shivam Sahu](https://github.com/shivamsahu4u )
