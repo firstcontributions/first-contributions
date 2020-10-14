@@ -3412,6 +3412,7 @@ Ghazi Khan
 - [Hadi Tahmasbi](https://github.com/Hadit1993)
 - [Whit3rose](https://github.com/Whit3rose)
 - [nilayrajderkar](https://github.com/nilayrajderkar)
+- [trashgod](https://github.com/trashgod)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
 - [Joel Milligan](https://github.com/Joel-Milligan)
