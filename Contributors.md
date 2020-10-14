@@ -2389,6 +2389,7 @@ Ghazi Khan
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Daniel Sabic](https://github.com/sabicd)
 - [Srijita Sarkar](https://github.com/SrijitaSarkar99)
+- [Manav Ranawat](https://github.com/ManavRanawat)
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
 - [Shubham Singh](https://github.com/suubh)
