@@ -5341,6 +5341,7 @@ Ghazi Khan
 - [Abhishek Joshi](https://github.com/joshimabhishek)
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
+- [brx3](https://github.com/brx3)
 - [franzqat](https://github.com/franzqat)
 - [Chris Vo](https://github.com/VoChrisK)
 - [Rugved](https://github.com/rugved)s
