@@ -81,6 +81,7 @@
 - [Lakshmi Palaparthi](https://github.com/lvpalaparthi)
 - [Tanner Haberl](https://github.com/thaberl13)
 - [Minh Nguyen](https://github.com/mnguyen-git)
+- [Umang Savla](https://github.com/umang232)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - [Kenny Nguyen](https://github.com/kenny-nguyen)
 - [Sarvesh Patil](https://github.com/sarveshh )
