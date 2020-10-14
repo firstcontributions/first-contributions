@@ -6829,3 +6829,4 @@ Ghazi Khan
 - [Luuk Volkering](https://github.com/luuk180)
 - [Jordan Romero](https://github.com/jordles113)
 - [Mia](https://github.com/Miatonin)
+- [Rookie-Chao](https://github.com/Rookie-Chao)
