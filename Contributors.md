@@ -24,6 +24,7 @@
 - ankita mishra
 - celia
 - yogeshwaran
+- Kirty Sharma
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - Oluwaseyi Kareem
 - [Fatih Avcı](https://github.com/rinqtmith)
