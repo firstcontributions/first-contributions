@@ -6,6 +6,7 @@
 - Jerry B
 - Sanuda
 - N Maiya
+- [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
