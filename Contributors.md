@@ -774,6 +774,7 @@
 - [Sai Srija Panchagnula](https://github.com/srija920)
 - [Tanvi Agarwal] (https://github.com/tanviagwl98)
 - [Abinash Mishra](https://github.com/IIAbinashMishraII)
+- [Agirman Bawer] (https://github.com/Bawer-Agirman)
 - [Jing Tao](https://github.com/jtaoct)
 - [Lagan Gupta](https://github.com/lagan28)
 - [Gourav Kumar](https://github.com/gourav2001k)
