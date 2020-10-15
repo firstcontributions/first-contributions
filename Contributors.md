@@ -8,6 +8,7 @@
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
+- [Suraz](https://github.com/Suraj1199)
 - [Shivam Karn](https://github.com/rexFX)
 - [Andrea Barzaghi](https://github.com/dbrn)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
