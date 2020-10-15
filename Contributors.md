@@ -6879,3 +6879,4 @@ Ghazi Khan
 - [Algorithm](https://github.com/hackerninenine99)
 - [Daniel Beckitt](https://github.com/dbeckitt)
 - [Rizky Ferdi Nugraha](https://github.com/rcmiryad123)
+- [Deep Thakkar](https://github.com/deep1112002)
