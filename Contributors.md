@@ -10,6 +10,7 @@
 - [Pulkit Sapra](https://github.com/pulkitsapra)
 - [HassanRaza](https://github.com/rza8301)
 - [Milanmeu] (https://github.com/milanmeu)
+- [Sudhanshu Doddi]
 - [mk-knight23] (https://github.com/mk-knight23)
 - [Chintana Prabhu] (https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
