@@ -14,6 +14,7 @@
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Suraz](https://github.com/Suraj1199)
 - [Shivam Karn](https://github.com/rexFX)
+- [Arisandi](https://github.com/arisandi1)
 - [Andrea Barzaghi](https://github.com/dbrn)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Mehdi-vand](https://github.com/MahdiDroid)
