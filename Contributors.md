@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [opunsoars](https://github.com/opunsoars) was here
 - TigerBoy!
 - Andrew Gao
 - Saish Reddy Komalla
@@ -9,6 +10,7 @@
 - N Maiya
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
+- Tom Mulligan
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
@@ -30,6 +32,7 @@ Thomas Chase
 - [Dhivya](https://github.com/dhivyasreedhar)
 - [Rusiru Anupama](https://github.com/sparkstark03)
 - [Bilal Maqsood](https://github.com/bilal9one)
+_ [Adil Jafar](https://github.com/xcyraxx)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Alexander Omorokunwa](https://github.com/xeroxism)
 - [Carlos Fernandez](https://github.com/carlitosblvd)
@@ -45,6 +48,7 @@ Thomas Chase
 - [Dhanika](https://github.com/dhanika08/)
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
+- [Alex Sanchez Florit](https://github.com/alexsanchezflorit)
 - [Priya Bhagat](https://github.com/Taeya-10)
   [Jason Chavez Jr.] (https://github.com/jchavez2)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
@@ -6908,4 +6912,4 @@ Thomas Chase
 - [Giselle Zatonyl](https://github.com/GiselleDZ)
 - [Muhammad Aralan](https://github.com/arsalan90m)
 - [Harshitha Ravilla](https://github.com/Harshitha4444)
-- [James](https://github.com/JDeasley)
+
