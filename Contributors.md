@@ -6870,3 +6870,4 @@ Ghazi Khan
 - [Darth-Maul](https://github.com/hockeyfrissa)
 - [Adam-Frank-White](https://github.com/AdamFrankWhite)
 - [Lucatake](https://github.com/Lucatake)
+- [Maycon-Alves](https://github.com/mayconbalves)
