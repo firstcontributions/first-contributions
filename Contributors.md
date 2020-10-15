@@ -8,6 +8,7 @@
 - Sanuda
 - N Maiya
 - [jacobmcasey](https://github.com/jacobmcasey)
+- [jacobmcasey](https://github.com/jacobmcasey)
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - [Norah Hoang](https://github.com/zuccamia)
