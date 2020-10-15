@@ -35,6 +35,7 @@
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
+- Chaitanya
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
