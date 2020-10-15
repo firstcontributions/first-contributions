@@ -21,6 +21,7 @@
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
 - [Andrea Barzaghi](https://github.com/dbrn)
+Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
