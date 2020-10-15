@@ -5,6 +5,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- W Chan
 - [rorondre](https://github.com/rorondre)
 - Sanuda
 - N Maiya
