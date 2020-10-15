@@ -3828,6 +3828,7 @@
 - [Madhusudan V](https://github.com/Madhusudhanv7)
 - [Mohammed Saeed](https://github.com/saeed27-dev)
 - [Christopher Gardner](https://github.com/Orbitsub)
+- [Atticus Goldsmith](https://github.com/AelarLiadon)
 - [Prith Manickam](https://github.com/prithmanickam)
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Jack Coggins](https://github.com/VoidAwake)
