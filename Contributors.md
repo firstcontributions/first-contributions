@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - TigerBoy!
  - Andrew Gao
 - Saish Reddy Komalla
@@ -55,6 +55,7 @@
 - [Sowmya M](https://github.com/Sowmya7501)
 - [Melinda Diaz](https://github.com/melindadiaz07)
 - [Tim Windhorst](https://github.com/atimw)
+- [Harsh Agarwal](https://github.com/imharsh98)
 - [Ahmed Mujtaba](https://github.com/amujtaba00)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
 - [Pratyush Raj](https://github.com/rajpratyush)
