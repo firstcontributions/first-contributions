@@ -1,14 +1,20 @@
 # Contributors
 
+
 - Andrew Gao
+- TigerBoy!
+ - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
 - Sanuda
+- N Maiya
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
+- [Akilesh Kumar](https://github.com/cyb3r-w0lf)
+- [Suraz](https://github.com/Suraj1199)
 - [Shivam Karn](https://github.com/rexFX)
 - [Andrea Barzaghi](https://github.com/dbrn)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
@@ -22,6 +28,7 @@
 - [Carlos Fernandez](https://github.com/carlitosblvd)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
 - [Praise Hezron](https://github.com/praisearts)
+- [Shaik Sarfraj](https://github.com/ShaikSarfraj-tech)
 - [Esad Simitçioğlu](https://github.com/EsadSimitcioglu)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
@@ -36,6 +43,7 @@
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
+- Chaitanya
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
@@ -6869,3 +6877,9 @@
 - [Darth-Maul](https://github.com/hockeyfrissa)
 - [Adam-Frank-White](https://github.com/AdamFrankWhite)
 - [Lucatake](https://github.com/Lucatake)
+- [Maycon-Alves](https://github.com/mayconbalves)
+- [Marcelo Vieira](https://github.com/marcelobvieira)
+- [Algorithm](https://github.com/hackerninenine99)
+- [Daniel Beckitt](https://github.com/dbeckitt)
+- [Rizky Ferdi Nugraha](https://github.com/rcmiryad123)
+- [Deep Thakkar](https://github.com/deep1112002)
