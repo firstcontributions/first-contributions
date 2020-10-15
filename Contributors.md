@@ -21,7 +21,7 @@
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
 - [Andrea Barzaghi](https://github.com/dbrn)
-Thomas Chase
+  Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
@@ -2757,6 +2757,7 @@ Thomas Chase
 - [Dhamodaran Pandiyan](https://github.com/dhamodaran-pandiyan)
 - [Meet Gamdha](https://github.com/meetgamdha02)
 - [Aminat Yakubu](https://github.com/giselle2323/)
+- [Conor Dalton](https://github.com/daltHub)
 - [Eric T.](https://github.com/ejthomp)
 - [Gerald Tay](https://github.com/penguinoob)
 - [Vatsal R](https://github.com/Vatsalr23)
