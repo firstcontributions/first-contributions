@@ -6892,3 +6892,4 @@
 - [Arisandi](https://github.com/arisandi1)
 - [Rizky Ferdi Nugraha](https://github.com/rcmiryad123)
 - [Deep Thakkar](https://github.com/deep1112002)
+- [Fiki Alamsyah](https://github.com/Fikialamsyah)
