@@ -1,23 +1,24 @@
 # Contributors
-
-
-- Andrew Gao
 - TigerBoy!
  - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
 - Sanuda
 - N Maiya
+- [yesabhishek](https://github.com/yesabhishek)
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
+- [MuthaEarth] (https://github.com/muthaearth)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Suraz](https://github.com/Suraj1199)
 - [Shivam Karn](https://github.com/rexFX)
+- [Arisandi](https://github.com/arisandi1)
 - [Andrea Barzaghi](https://github.com/dbrn)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
+- [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [William Zhou](https://github.com/williamzhou8818)
 - [Dhivya](https://github.com/dhivyasreedhar)
@@ -44,6 +45,7 @@
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - Chaitanya
+- Aniket
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
@@ -54,6 +56,7 @@
 - [Sowmya M](https://github.com/Sowmya7501)
 - [Melinda Diaz](https://github.com/melindadiaz07)
 - [Tim Windhorst](https://github.com/atimw)
+- [Harsh Agarwal](https://github.com/imharsh98)
 - [Ahmed Mujtaba](https://github.com/amujtaba00)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
 - [Pratyush Raj](https://github.com/rajpratyush)
@@ -1931,6 +1934,7 @@
 - [Mohini Mahato](https://github.com/Mohini0104)
 - [Tory Moscaritolo](https://github.com/tory24)
 - [Tobs](https://github.com/TobsBit)
+- [sahar](https://github.com/saharkh99)
 - [Luke Askew](https://github.com/Lukem121)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
 - [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
@@ -6881,5 +6885,6 @@
 - [Marcelo Vieira](https://github.com/marcelobvieira)
 - [Algorithm](https://github.com/hackerninenine99)
 - [Daniel Beckitt](https://github.com/dbeckitt)
+- [Arisandi](https://github.com/arisandi1)
 - [Rizky Ferdi Nugraha](https://github.com/rcmiryad123)
 - [Deep Thakkar](https://github.com/deep1112002)
