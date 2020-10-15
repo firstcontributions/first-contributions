@@ -10,6 +10,7 @@
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
+- [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Suraz](https://github.com/Suraj1199)
 - [Shivam Karn](https://github.com/rexFX)
 - [Andrea Barzaghi](https://github.com/dbrn)
