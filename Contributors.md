@@ -513,6 +513,7 @@
 - [Ricky Lin]
 - [Samuel Chen] (https://github.com/xiaoyang413)
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
+- [Hima Bindu](https://github.com/himabindu-run)
 - [Saloni Kothari](https://github.com/SaloniK17)
 - [Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
