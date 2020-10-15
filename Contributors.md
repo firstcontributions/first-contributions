@@ -6872,3 +6872,4 @@ Ghazi Khan
 - [Adam-Frank-White](https://github.com/AdamFrankWhite)
 - [Lucatake](https://github.com/Lucatake)
 - [Maycon-Alves](https://github.com/mayconbalves)
+- [Marcelo Vieira](https://github.com/marcelobvieira)
