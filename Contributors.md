@@ -4,8 +4,9 @@
 - Saish Reddy Komalla
 - Jerry B
 - Sanuda
-- N Maiya
-- [yesabhishek](https://github.com/yesabhishek)
+-  N Maiya 
+- [Amusa Omobonike](https://github.com/minat-hub)
+- [yesabh ishek](https://github.com/yesabhishek)
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
