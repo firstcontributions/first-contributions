@@ -22,6 +22,7 @@
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
+- [Nicola_Zoboli](https://github.com/NicolaZoboli)
 - [William Zhou](https://github.com/williamzhou8818)
 - [Dhivya](https://github.com/dhivyasreedhar)
 - [Rusiru Anupama](https://github.com/sparkstark03)
@@ -336,7 +337,7 @@
 - [Michael Brooks](https://github.com/navkor-sevatec)
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
-  Bhavesh Chandrakant Joshi
+- Bhavesh Chandrakant Joshi
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Sakae Watanabe](https://github.com/meltdownlv)
 - [Antonio Martinez](https://github.com/antonioMartinez30)
