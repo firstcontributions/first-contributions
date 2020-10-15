@@ -68,6 +68,7 @@
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Ozan Caglar](https://github.com/ozancaglar)
 - [Abhinandan Khilari](https://github.com/abhi747)
+- [Ritik](https://github.com/Carnagek)
 - [Eszter Szucs-Matyas](https://github.com/huggingpixels)
 - [Salvatore] (https://github.com/711salvatore)
 - [Prabhat Kumar] (https://github.com/PrabhatKumar5990)
