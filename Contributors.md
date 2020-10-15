@@ -30,6 +30,7 @@ Thomas Chase
 - [Dhivya](https://github.com/dhivyasreedhar)
 - [Rusiru Anupama](https://github.com/sparkstark03)
 - [Bilal Maqsood](https://github.com/bilal9one)
+_ [Adil Jafar](https://github.com/xcyraxx)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Alexander Omorokunwa](https://github.com/xeroxism)
 - [Carlos Fernandez](https://github.com/carlitosblvd)
