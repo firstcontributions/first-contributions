@@ -6877,3 +6877,4 @@ Ghazi Khan
 - [Marcelo Vieira](https://github.com/marcelobvieira)
 - [Algorithm](https://github.com/hackerninenine99)
 - [Daniel Beckitt](https://github.com/dbeckitt)
+- [Rizky Ferdi Nugraha](https://github.com/rcmiryad123)
