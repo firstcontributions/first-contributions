@@ -4878,6 +4878,7 @@
 - [Udit Pant](https://github.com/uditp26)
 - [Tissiana Alves](https://github.com/altissiana)
 - [Moonil Son](https://github.com/und32g2ound-kr)
+- [Ryan Whittingham](https://github.com/ryan-whittingham-v1)
 - [David Norris-Hill](https://github.com/dnorrishill)
 - [Riccardo Di Benedetto](https://github.com/dibericky)
 - [Brian De Sousa](https://github.com/briandesousa)
