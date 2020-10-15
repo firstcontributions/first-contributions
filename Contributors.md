@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - TigerBoy!
 - Andrew Gao
@@ -51,6 +51,7 @@
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - Chaitanya
 - Aniket
+- [Bhupen Basumatary](https://github.com/bbhupen)
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
