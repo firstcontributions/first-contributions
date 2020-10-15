@@ -20,6 +20,7 @@
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Suraz](https://github.com/Suraj1199)
 - [Tarik Dzambic](https://github.com/dzambatz)
+- [Henrique Lisboa] (https://github.com/hlisboasousa)
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
