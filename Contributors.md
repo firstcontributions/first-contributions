@@ -21,6 +21,7 @@
 - [Tarik Dzambic](https://github.com/dzambatz)
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
+- [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
 Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
