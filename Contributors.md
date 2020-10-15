@@ -110,6 +110,7 @@
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0)
 - [Chiran Hewawitharana] (https://github.com/cmadusankahw)
 - [Akhila](https://github.com/akhilap03)
+- [Amarachi Anyim](https://github.com/Harmarachi)
 - Walker Dow
 - Abdul Adhil
 - Vikas Kumar
