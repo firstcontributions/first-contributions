@@ -1,6 +1,7 @@
 # Contributors
+
 - TigerBoy!
- - Andrew Gao
+- Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
 - Sanuda
@@ -14,6 +15,7 @@
 - [MuthaEarth] (https://github.com/muthaearth)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Suraz](https://github.com/Suraj1199)
+- [Tarik Dzambic](https://github.com/dzambatz)
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
 - [Andrea Barzaghi](https://github.com/dbrn)
