@@ -51,6 +51,8 @@
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - Chaitanya
 - Aniket
+
+- [Peleg Zur](https://github.com/PelegZur)
 - [Bhupen Basumatary](https://github.com/bbhupen)
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
