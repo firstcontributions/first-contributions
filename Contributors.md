@@ -6901,3 +6901,4 @@
 - [Deep Thakkar](https://github.com/deep1112002)
 - [Fiki Alamsyah](https://github.com/Fikialamsyah)
 - [Krstinayanti] (https://github.com/Krstinayanti)
+- [Giselle Zatonyl](https://github.com/GiselleDZ)
