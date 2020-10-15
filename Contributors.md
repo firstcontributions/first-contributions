@@ -3522,6 +3522,7 @@
 - [Eishu Pal](https://github.com/eishu18sept)
 - [Yashraj Jain](https://github.com/yashrajjain726)
 - [Riyadh Ouz](https://github.com/riyadh20)
+- [shevon](https://github.com/shevon14)
 - [Micheal Omeiza Suleiman](https://github.com/Omeiza17)
 - [Valerie Oakhu](https://github.com/ooakhu)
 - [Gabrijel Golubic](https://github.com/ggolubic)
