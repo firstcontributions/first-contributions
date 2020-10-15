@@ -251,6 +251,7 @@
 - [Mai Houa Vue](https://github.com/mhvue)
 - [Tejas Bhale](https://github.com/tejasbhale)
 - [Ale F](https://github.com/alefuedev)
+- [kavin kumar](https://github.com/kavinkumar999)
 - [Grace Hall](https://github.com/graceful8)
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
