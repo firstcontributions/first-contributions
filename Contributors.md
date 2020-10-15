@@ -4,6 +4,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [rorondre](https://github.com/rorondre)
 - Sanuda
 - N Maiya
 - [KobeGit24](https://github.com/KobeGit24)
