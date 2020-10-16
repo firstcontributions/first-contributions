@@ -3173,6 +3173,7 @@
 - rewint
 - Alex Y.
 - NRampton
+- Ritesh Ranka
 - [Colby Haskell](https://github.com/colbyhaskell)
 - [Dmitriy Gabriel](https://github.com/dgabriel123)
 - [Enda Moore](https://github.com/EndaMoore)
