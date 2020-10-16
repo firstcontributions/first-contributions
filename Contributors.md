@@ -27,7 +27,7 @@
 - [Arisandi](https://github.com/arisandi1)
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
-Thomas Chase
+  Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
@@ -36,7 +36,7 @@ Thomas Chase
 - [Dhivya](https://github.com/dhivyasreedhar)
 - [Rusiru Anupama](https://github.com/sparkstark03)
 - [Bilal Maqsood](https://github.com/bilal9one)
-_ [Adil Jafar](https://github.com/xcyraxx)
+  \_ [Adil Jafar](https://github.com/xcyraxx)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Alexander Omorokunwa](https://github.com/xeroxism)
 - [Carlos Fernandez](https://github.com/carlitosblvd)
@@ -6922,3 +6922,4 @@ _ [Adil Jafar](https://github.com/xcyraxx)
 - [Harshitha Ravilla](https://github.com/Harshitha4444)
 - [Gwen McArdle](https://github.com/mcardleg)
 - [Ahmad Asgari](https://github.com/ahmadasgari)
+- [Toby Boudreaux](https://github.com/tobynboudreaux)
