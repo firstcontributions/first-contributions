@@ -12,6 +12,7 @@
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - Sanuda
+- Ananjaya
 - N Maiya
 - hoovks
 - Pranjal bisht
