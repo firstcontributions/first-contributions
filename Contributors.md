@@ -61,6 +61,7 @@ _ [Adil Jafar](https://github.com/xcyraxx)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
+- Kritika Berry (https://github.com/kritikaberry)
 - Chaitanya
 - Aniket
 - [Bhupen Basumatary](https://github.com/bbhupen)
