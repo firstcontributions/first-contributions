@@ -68,6 +68,7 @@
 - Kritika Berry (https://github.com/kritikaberry)
 - Chaitanya
 - Aniket
+- [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
