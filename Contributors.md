@@ -63,6 +63,7 @@
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
 - [Alex Sanchez Florit](https://github.com/alexsanchezflorit)
+- [Lachlan Holliday] (https://github.com/LachlanHollliday)
 - [Priya Bhagat](https://github.com/Taeya-10)
 - [Jason Chavez Jr.](https://github.com/jchavez2)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
@@ -197,6 +198,7 @@
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
 - [Siddharth jain](https://github.com/siddhartthjain)
+-[chlan
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Sabrina Wong](https://github.com/sabrinarwong)
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
