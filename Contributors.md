@@ -25,6 +25,7 @@
 - [Henrique Lisboa] (https://github.com/hlisboasousa)
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
+- [Stefanny Panameño](https://github.com/stefannypanameno93)
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
 Thomas Chase
