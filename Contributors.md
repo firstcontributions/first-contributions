@@ -14,6 +14,7 @@
 - [yesabhishek](https://github.com/yesabhishek)
 - Tom Mulligan
 - [Norah Hoang](https://github.com/zuccamia)
+- [SATYAKI BOSE](https://github.com/satyaki07)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Joyce Annie George](https://github.com/joyceannie)
