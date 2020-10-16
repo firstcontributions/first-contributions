@@ -67,6 +67,7 @@ _ [Adil Jafar](https://github.com/xcyraxx)
 - Kritika Berry (https://github.com/kritikaberry)
 - Chaitanya
 - Aniket
+- [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
