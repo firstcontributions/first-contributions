@@ -2,7 +2,7 @@
 
 - [opunsoars](https://github.com/opunsoars) was here
 - TigerBoy!
-- Achere
+- Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
