@@ -13,6 +13,7 @@
 - fanyCaz
 - Sanuda
 - N Maiya
+- hoovks
 - Pranjal bisht
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
