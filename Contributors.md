@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [opunsoars](https://github.com/opunsoars) was here
 - TigerBoy!
@@ -6916,6 +6916,7 @@
 - [Devin Lane](https://github.com/DevinCLane/)
 - [Tushar Mehta](https://github.com/Tushar00728)
 - [Ryan Porter](https://github.com/PorterRyan)
+- [Vishal Singh](https://github.com/96vksingh)
 - [Karl Lim](https://github.com/karlleh)
 - [Yash Sevada](https://github.com/YashSevada)
 - [Florian Bématol](https://github.com/florianbematol)
