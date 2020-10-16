@@ -129,6 +129,7 @@
 - [Tim Furdui] (https://github.com/TimFurdui)
 - [Avnish Pandey](https://github.com/avnishpandey113)
 - [Adrianna Guevarra](https://github.com/adrianna157)
+- [Gaurav Singh](https://github.com/saintpopo)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
 - [Vanessa Yu](https://github.com/vanessayu19)
 - [Prince](https://github.com/GPrince00)
