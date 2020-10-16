@@ -10,6 +10,7 @@
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
 - [rorondre](https://github.com/rorondre)
+- fanyCaz
 - Sanuda
 - N Maiya
 - Pranjal bisht
