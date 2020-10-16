@@ -26,7 +26,7 @@
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [MuthaEarth](https://github.com/muthaearth)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
-- [Darkirondan](https://github.com/Darkirondan) 
+- [Darkirondan](https://github.com/Darkirondan)
 - [Suraz](https://github.com/Suraj1199)
 - Bae Sung Kim
 - [Tarik Dzambic](https://github.com/dzambatz)
@@ -137,7 +137,8 @@
 - [Chiran Hewawitharana](https://github.com/cmadusankahw)
 - [Akhila](https://github.com/akhilap03)
 - [Amarachi Anyim](https://github.com/Harmarachi)
-- Walker Dow
+- [Patrick Nelson](https://github.com/pat-nel87)
+  Walker Dow
 - Abdul Adhil
 - Vikas Kumar
 - Mahiransh Sharma
