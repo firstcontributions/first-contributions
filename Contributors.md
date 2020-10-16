@@ -1,6 +1,6 @@
 # Contributors
 - [Heru Dwi Cahya](https://github.com/herudece)
-- [Miku S](https://github.com/miku0129)
+- [Miku Sano](https://github.com/miku0129)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
