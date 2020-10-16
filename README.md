@@ -68,7 +68,19 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+#### Objectives
+This project aims to simplify and guide the way step by step so that beginners are able to make their first contribution to open source. <br/>
+
+> The steps that we will be following are :-
+> - Forking a repository
+> - Cloning the repository
+> - Creating a branch to the cloned repository
+> - *Making changes* and committing them
+> - Pushing the changes
+> - Initiating pull request for review
+<br/>
+
+If you are looking to make your first contribution, follow the steps below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
@@ -86,6 +98,7 @@ This will create a copy of this repository in your account.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Cloning a repository will setup a local copy of the project on your desktop on which you can work with locally and make changes via Git CLI.
 
 Open a terminal and run the following git command:
 
@@ -106,6 +119,9 @@ git clone https://github.com/this-is-you/first-contributions.git
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
+
+> #### Why create a branch?
+>  When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to >get merged into the main code base, and it gives you the chance to clean up your future's history before merging it into the main branch.
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -151,6 +167,8 @@ replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
+> Pushing changes here will save the changes you made to forked repository associated with your account ie. your-username/first-contributions
+
 Push your changes using the command `git push`:
 
 ```
@@ -160,6 +178,8 @@ git push origin <add-your-branch-name>
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
+
+> Creating a pull request initiates a request to maintainers of repository to add the changes you made to the main repository.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
