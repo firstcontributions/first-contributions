@@ -12,6 +12,7 @@
 - [こんにちは]
 - [Test]
 - [Claudia Matsiaze]
+- [Jitto Joyes](https://github.com/Jittojoyes98)
 - [Amr Abedo] (https://github.com/mouraaa)
 - [Matt Westbrook] (https://github.com/mattgw10)
   [Hopper Kremer] (https://github.com/HopperKremer)
