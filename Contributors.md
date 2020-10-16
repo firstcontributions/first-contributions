@@ -63,6 +63,7 @@ _ [Adil Jafar](https://github.com/xcyraxx)
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - Chaitanya
 - Aniket
+- [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
