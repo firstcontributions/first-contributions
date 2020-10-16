@@ -3714,6 +3714,7 @@ _ [Adil Jafar](https://github.com/xcyraxx)
 - [Mister Tibs](https://github.com/MisterTibs)
 - [Harsh Vardhan](https://github.com/harsh-1907)
 - [Fatimah]
+- [Eva Lai]
 - [Abhijith Basavaraj](https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
 - [Costas Economou](https://github.com/Ulysses3k)
