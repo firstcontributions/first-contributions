@@ -6,6 +6,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
 - [rorondre](https://github.com/rorondre)
