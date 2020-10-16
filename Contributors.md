@@ -11,6 +11,7 @@
 - [rorondre](https://github.com/rorondre)
 - Sanuda
 - N Maiya
+- Pranjal bisht
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - Tom Mulligan
