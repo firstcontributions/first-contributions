@@ -7,6 +7,7 @@
 - Jerry B
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- PrasanthChettri
 - [rorondre](https://github.com/rorondre)
 - Sanuda
 - N Maiya
