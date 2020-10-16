@@ -1,9 +1,12 @@
 # Contributors
 - [Heru Dwi Cahya](https://github.com/herudece)
-- [Miku Sano](https://github.com/miku0129)
+- [Tanner Haberl](https://github.com/thaberl13)
+- [Minh Nguyen](https://github.com/mnguyen-git)
+- [Miku S](https://github.com/miku0129)
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
+- [Hyongguk Hong](https://github.com/hyongguk)
 - [Vidhu Verma] (https://github.com/vidhuu)/
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Jennifer Rosa](https://github.com/rosajen27)
@@ -21,6 +24,7 @@
 - [Poonam Firodiya](https://github.com/poonam906)
 - [Lacee Xu](https://github.com/laceett)
 - [Florian Bieck](https://github.com/florianBieck)
+- [Pablo Santos](http://github.com/ryhan123)
 - [Josue Bolanos] (https://github.com/jbolanosc)
 - [Anusha Ganta](https://github.com/anushaganta16)
 - [Rehan Edin](https://github.com/redin22)
@@ -83,6 +87,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shreyas Sankpal](https://github.com/Shreyas582)
 - [Susana Salazar](https://github.com/Suzzuu)
+- [Catherine Nuguid](https://github.com/catboop)
 - [Mai Houa Vue](https://github.com/mhvue)
 - [Tejas Bhale](https://github.com/tejasbhale)
 - [Ale F](https://github.com/alefuedev)
@@ -199,6 +204,7 @@
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
 - *rnomals*
+- [Dustin Tran](https://github.com/dennodin)
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
@@ -633,6 +639,7 @@
 - [Samra Azeem](https://github.com/samraazeem)
 - Mikaela Wade
 - [Rahul Kashyap](https://github.com/imKashyap)
+- [Ryu Tamura](https://github.com/ryutamura)
 - Dallin Craven
 - [Shrey Parikh] (https://github.com/shreyparikh)
 - [Himani Madaan] (https://github.com/himanimadaan)
@@ -6581,3 +6588,4 @@
 - [Dominic Gada](https://github.com/DomGada)
 - [Kevin Chen](https://github.com/kevin3227)
 - [Karoline Suzuki](https://github.com/suzukikarol)
+- [Yusuke](https://github.com/yusuke99)
