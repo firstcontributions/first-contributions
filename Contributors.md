@@ -1,7 +1,7 @@
 # Contributors
 
 - [opunsoars](https://github.com/opunsoars) was here
-- [water] (https://github.com/0529bill)
+- [waterL] (https://github.com/0529bill)
 - TigerBoy!
 - Motunrayo
 - Andrew Gao
