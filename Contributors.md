@@ -1,6 +1,7 @@
 # Contributors
 
 - [opunsoars](https://github.com/opunsoars) was here
+- [waterL] (https://github.com/0529bill)
 - TigerBoy!
 - Motunrayo
 - Andrew Gao
@@ -29,7 +30,7 @@
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [MuthaEarth](https://github.com/muthaearth)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
-- [Darkirondan](https://github.com/Darkirondan) 
+- [Darkirondan](https://github.com/Darkirondan)
 - [Suraz](https://github.com/Suraj1199)
 - Bae Sung Kim
 - [Tarik Dzambic](https://github.com/dzambatz)
