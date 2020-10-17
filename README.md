@@ -65,6 +65,7 @@
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 
 # 
+# Steps to Follow
 
 # First Contributions
 
