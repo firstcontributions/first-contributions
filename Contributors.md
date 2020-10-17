@@ -51,6 +51,7 @@
   \_ [Adil Jafar](https://github.com/xcyraxx)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Alexander Omorokunwa](https://github.com/xeroxism)
+ -[Ujjwal Ranjan](https://github.com/uzee19)
 - [Carlos Fernandez](https://github.com/carlitosblvd)
 - [Andres Gardiol](https://github.com/andresgardiol)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
