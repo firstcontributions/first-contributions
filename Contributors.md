@@ -93,6 +93,7 @@
 - [Ahmed Mujtaba](https://github.com/amujtaba00)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
 - [Pratyush Raj](https://github.com/rajpratyush)
+- [Ishaan Bedi](https://github.com/ishaanbedi)
 - [Tharindu Lakshitha Thisarasinghe](https://github.com/tharindulucky)
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Ozan Caglar](https://github.com/ozancaglar)
