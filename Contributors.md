@@ -95,6 +95,7 @@
 - [Pratyush Raj](https://github.com/rajpratyush)
 - [Ishaan Bedi](https://github.com/ishaanbedi)
 - [Tharindu Lakshitha Thisarasinghe](https://github.com/tharindulucky)
+- Avi Kumrawat(https://github.com/avikt18)
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Ozan Caglar](https://github.com/ozancaglar)
 - [Abhinandan Khilari](https://github.com/abhi747)
