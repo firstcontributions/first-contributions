@@ -1,6 +1,7 @@
 # Contributors
 
 - [opunsoars](https://github.com/opunsoars) was here
+- [waterL] (https://github.com/0529bill)
 - TigerBoy!
 - Motunrayo
 - Andrew Gao
@@ -9,6 +10,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- [m0nusingh](http://github.com/m0nusingh)
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - chenniferann
@@ -29,7 +31,7 @@
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [MuthaEarth](https://github.com/muthaearth)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
-- [Darkirondan](https://github.com/Darkirondan) 
+- [Darkirondan](https://github.com/Darkirondan)
 - [Suraz](https://github.com/Suraj1199)
 - Bae Sung Kim
 - [Tarik Dzambic](https://github.com/dzambatz)
@@ -93,7 +95,9 @@
 - [Ahmed Mujtaba](https://github.com/amujtaba00)
 - [Jennifer Cant](https://github.com/jennifergreeneyes)
 - [Pratyush Raj](https://github.com/rajpratyush)
+- [Ishaan Bedi](https://github.com/ishaanbedi)
 - [Tharindu Lakshitha Thisarasinghe](https://github.com/tharindulucky)
+- Avi Kumrawat(https://github.com/avikt18)
 - [Kipras Krasauskas](https://github.com/CypressG/)
 - [Ozan Caglar](https://github.com/ozancaglar)
 - [Abhinandan Khilari](https://github.com/abhi747)
@@ -6967,3 +6971,4 @@
 - [Reekraj Roy](https://github.com/REEKRAJROY)
 - [Daniel Freire](https://github.com/proxyanon)
 - [tboonma](https://github.com/tboonma)
+- [Vidhya Priya](https://github.com/vidhyakv)
