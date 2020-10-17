@@ -10,6 +10,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- [m0nusingh](http://github.com/m0nusingh)
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - chenniferann
