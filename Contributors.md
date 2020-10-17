@@ -29,6 +29,7 @@
 - hoovks
 - Yukty Khandelia
 - Pranjal bisht
+- [Rohith Ravindranath](https://github.com/rohithravin)
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - Tom Mulligan
