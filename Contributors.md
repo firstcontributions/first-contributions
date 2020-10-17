@@ -6962,3 +6962,4 @@
 - [yamak](https://github.com/yamak)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Reekraj Roy](https://github.com/REEKRAJROY)
+- [Daniel Freire](https://github.com/proxyanon)
