@@ -2348,7 +2348,6 @@
 - [Andrew Tomich](https://github.com/jAndrewtomich)
 - [Manohar Rajaram](https://github.com/manohar52)
 - [Doris Chang]
-- [dillmac](https://github.com/dillmac)
 - [Malvika Bhargava](https://github.com/Malvika18)
 - [Nermin Sehic](https://github.com/nsehic)
 - [Pine9](https://github.com/Pine9)
