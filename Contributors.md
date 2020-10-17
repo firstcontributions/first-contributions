@@ -8,6 +8,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- Puneet Garg (https://github.com/puneetgarg2601)
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
