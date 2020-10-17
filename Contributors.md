@@ -23,6 +23,7 @@
 - [Space Slayer](https://github.com/spaceslayer)
 - N Maiya
 - hoovks
+- Yukty Khandelia
 - Pranjal bisht
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
