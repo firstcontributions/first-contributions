@@ -77,6 +77,7 @@
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - Kritika Berry (https://github.com/kritikaberry)
 - Chaitanya
+- Harshraj shrivastava
 - Aniket
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
