@@ -6980,4 +6980,5 @@
 - [Jakarin Chujan](https://github.com/Jakarin-Jojo)
 - [Newton Fernandis](https://github.com/FernandisNewton)
 - [Noor Ansari](https://github.com/Noor-Ansari)
+- [Ryan Rahman Setiawan](https://github.com/ryanrahmans26)
 - DummyVariable
