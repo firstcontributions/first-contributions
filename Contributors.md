@@ -2877,6 +2877,7 @@
 - [Grigory Polushkin](https://github.com/grigoryyar)
 - [srcme20](https://github.com/srcme20)
 - Austin H.
+- Mckenzie Lionel Joseph P
 - [Ines Romdhani](https://github.com/inesRom)
 - [Olga Kogiou](https://github.com/OlgaKogiou)
 - [Tarun Chauhan](https://github.com/tarunrajput)
