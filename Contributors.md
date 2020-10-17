@@ -27,7 +27,6 @@
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - Tom Mulligan
-- [Adarsh Pandey](https://github.com/adarsh01-debug)
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
@@ -47,6 +46,7 @@
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
+- [Adarsh Pandey](https://github.com/adarsh01-debug)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [Nicola_Zoboli](https://github.com/NicolaZoboli)
