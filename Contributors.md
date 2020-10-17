@@ -51,6 +51,7 @@
 - Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Godspower Eze](https://github.com/Godspower-Eze)
+- [Adarsh Pandey](https://github.com/adarsh01-debug)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [Nicola_Zoboli](https://github.com/NicolaZoboli)
