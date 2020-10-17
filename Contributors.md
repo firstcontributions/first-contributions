@@ -5392,6 +5392,7 @@
 - [Ugu](https://github.com/uguuuuuu)
 - [Ela Bogucka](https://github.com/ebogucka)
 - [Paolo Manili](https://github.com/Delta-38)
+- [Steven Carton](https://github.com/introcart)
 - [Hvassaa](https://github.com/Hvassaa)
 - [Gustavo Silva](https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
