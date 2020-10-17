@@ -1,5 +1,6 @@
 # Contributors
 
+- [Harshal Sanghvi](https://github.com/harshal2030)
 - [opunsoars](https://github.com/opunsoars) was here
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
@@ -8,6 +9,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- Puneet Garg (https://github.com/puneetgarg2601)
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
@@ -15,6 +17,7 @@
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - chenniferann
+- agashvaran
 - Sanuda
 - Sneha
 - [Rohit Mehta ✌](https://github.com/mehtaRohit)
@@ -23,6 +26,7 @@
 - [Space Slayer](https://github.com/spaceslayer)
 - N Maiya
 - hoovks
+- Yukty Khandelia
 - Pranjal bisht
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
@@ -46,7 +50,7 @@
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
-- [Adarsh Pandey](https://github.com/adarsh01-debug)
+- [Godspower Eze](https://github.com/Godspower-Eze)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [Nicola_Zoboli](https://github.com/NicolaZoboli)
@@ -2344,6 +2348,7 @@
 - [Andrew Tomich](https://github.com/jAndrewtomich)
 - [Manohar Rajaram](https://github.com/manohar52)
 - [Doris Chang]
+- [dillmac](https://github.com/dillmac)
 - [Malvika Bhargava](https://github.com/Malvika18)
 - [Nermin Sehic](https://github.com/nsehic)
 - [Pine9](https://github.com/Pine9)
@@ -2838,6 +2843,7 @@
 - [Aravind Mohan](https://github.com/aravindmohan88)
 - [Manzano Akhtar](https://github.com/manzanoakhtar7)
 - [Thomas Ongley](https://github.com/thomasongley)
+- Tofig B.
 - [Kathleen Capella](https://github.com/kcapella)
 - [SEYI-JS](https://github.com/seyi-js)
 - [Kundan-Kumar](https://github.com/kundan16)
@@ -2874,6 +2880,7 @@
 - [Grigory Polushkin](https://github.com/grigoryyar)
 - [srcme20](https://github.com/srcme20)
 - Austin H.
+- Mckenzie Lionel Joseph P
 - [Ines Romdhani](https://github.com/inesRom)
 - [Olga Kogiou](https://github.com/OlgaKogiou)
 - [Tarun Chauhan](https://github.com/tarunrajput)
@@ -6986,3 +6993,5 @@
 - DummyVariable
 - [Yoni Saka Samudra](https://github.com/yonisaka)
 - [Harshit](https://github.com/HarshitSachdeva)
+- [Kyle Dunn] (https://github.com/enablingturtle)
+- [Ghislaine Latorraca](https://github.com/Lenakirara)
