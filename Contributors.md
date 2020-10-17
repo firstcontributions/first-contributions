@@ -1,5 +1,5 @@
 # Contributors
-
+-[Sejal Rathore](https://github.com/sejal1126)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [opunsoars](https://github.com/opunsoars) was here
 - [waterL] (https://github.com/0529bill)
