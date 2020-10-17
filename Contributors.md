@@ -11,6 +11,7 @@
 - W Chan
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
+- chenniferann
 - Sanuda
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
