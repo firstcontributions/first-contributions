@@ -73,6 +73,7 @@
 - [Josh Nho](https://github.com/joshnho)
 - [Florian Guger](https://github.com/Fjormos)
 - [William Marino](https://github.com/willmarino)
+- [YgorLe](https://github.com/YgorLe)
 - [Dhanika](https://github.com/dhanika08/)
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
