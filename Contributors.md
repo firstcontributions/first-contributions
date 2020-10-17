@@ -5033,6 +5033,7 @@
 - [lucasebs](https://github.com/lucasebs)
 - [Joao](https://github.com/Joaopedrobass)
 - [Ishita Bardhan](https://github.com/IshitaB28)
+- [Geeta Sneha](https://github.com/geetcodes)
 - [Max Brooks](https://github.com/maxbrooks114)
 - [Dheeraj Agrawal](https://github.com/dka72/)
 - [Ramesh Mamidala](https://github.com/rameshmamidalaa/)
