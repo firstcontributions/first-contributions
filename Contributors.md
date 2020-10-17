@@ -9,6 +9,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
