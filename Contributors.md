@@ -1491,6 +1491,7 @@
 - [Rahul R]
 - [Devjeet Roy](https://github.com/devjeetroy98)
 - [Michelle Sandford](https://github.com/msandfor)
+- [Keyul Jain](https://github.com/KeyulJain)
 - [Mehul Bhatt](https://github.com/mehulbhat)
 - [AbbyCha](https://github.com/ChaAbby)
 - [Garvit Gupta](https://github.com/garvitgupta13)
