@@ -16,6 +16,7 @@
 - fanyCaz
 - chenniferann
 - Sanuda
+- [Rohit Mehta ✌](https://github.com/mehtaRohit)
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
 - [Space Slayer](https://github.com/spaceslayer)
