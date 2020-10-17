@@ -6983,3 +6983,4 @@
 - [Ryan Rahman Setiawan](https://github.com/ryanrahmans26)
 - DummyVariable
 - [Yoni Saka Samudra](https://github.com/yonisaka)
+- [Harshit](https://github.com/HarshitSachdeva)
