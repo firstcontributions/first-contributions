@@ -12,6 +12,7 @@
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - Sanuda
+- [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
 - N Maiya
 - hoovks
