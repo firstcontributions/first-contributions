@@ -17,6 +17,7 @@
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - chenniferann
+- RIGATONI RYAN 🤙
 - agashvaran
 - Sanuda
 - Sneha
