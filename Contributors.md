@@ -20,6 +20,7 @@
 - agashvaran
 - Sanuda
 - Sneha
+- [Claudio holanda](github.com/macindex/)
 - [Rohit Mehta ✌](https://github.com/mehtaRohit)
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
@@ -28,6 +29,7 @@
 - hoovks
 - Yukty Khandelia
 - Pranjal bisht
+- [Rohith Ravindranath](https://github.com/rohithravin)
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - Tom Mulligan
@@ -5033,6 +5035,7 @@
 - [lucasebs](https://github.com/lucasebs)
 - [Joao](https://github.com/Joaopedrobass)
 - [Ishita Bardhan](https://github.com/IshitaB28)
+- [Geeta Sneha](https://github.com/geetcodes)
 - [Max Brooks](https://github.com/maxbrooks114)
 - [Dheeraj Agrawal](https://github.com/dka72/)
 - [Ramesh Mamidala](https://github.com/rameshmamidalaa/)
@@ -6998,4 +7001,5 @@
 - [Kyle Dunn] (https://github.com/enablingturtle)
 - [Ghislaine Latorraca](https://github.com/Lenakirara)
 - [Tetsab](https://github.com/tetsab)
---Akshat Kumar(https://github.com/akshatku)
+- [Abdesselam Benameur](https://github.com/abdesselam-benameur)
+- [Akshat Kumar](https://github.com/akshatku)
