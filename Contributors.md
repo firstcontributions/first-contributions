@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Harsh Soni] (https://github.com/harsh-dynasty)
 - [Metro-95] (https://github.com/metro-95/first-contributions)
 - [SHUBHAM RAI]
@@ -6,6 +6,7 @@
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Aditya Alok] (https://github.com/MrAdityaAlok)
 - [Shreya Garg] (https://github.com/einhawking)
+-[Shubham Yadav] (https://github.com/shuhzz)
 - [Aditya Vats] (https://github.com/HADES-01)
 - [Asad Moosvi] (https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta] (https://github.com/sudeep423)
