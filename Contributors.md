@@ -6977,5 +6977,6 @@
 - [Vidhya Priya](https://github.com/vidhyakv)
 - [Sumit Shetty](https://https://github.com/Sumit0301200)
 - [Jakarin Chujan](https://github.com/Jakarin-Jojo)
+- [Newton Fernandis](https://github.com/FernandisNewton)
 - [Noor Ansari](https://github.com/Noor-Ansari)
 - DummyVariable
