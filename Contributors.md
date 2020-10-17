@@ -15,6 +15,7 @@
 - Sanuda
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
+- [Space Slayer](https://github.com/spaceslayer)
 - N Maiya
 - hoovks
 - Pranjal bisht
