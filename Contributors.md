@@ -2839,6 +2839,7 @@
 - [Aravind Mohan](https://github.com/aravindmohan88)
 - [Manzano Akhtar](https://github.com/manzanoakhtar7)
 - [Thomas Ongley](https://github.com/thomasongley)
+- Tofig B.
 - [Kathleen Capella](https://github.com/kcapella)
 - [SEYI-JS](https://github.com/seyi-js)
 - [Kundan-Kumar](https://github.com/kundan16)
