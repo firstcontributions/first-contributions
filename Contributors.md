@@ -20,6 +20,7 @@
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - chenniferann
+- gamesMum
 - RIGATONI RYAN 🤙
 - agashvaran
 - Sanuda
