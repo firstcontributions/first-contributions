@@ -11,6 +11,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [Thao Pham](https://github.com/thaopham1816/)
 - [Elena Gumerova](https://github.com/ElenaProject)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
 - Gustavo Lozada (https://github.com/GLozada99)
@@ -102,6 +103,7 @@
 - Harshraj shrivastava
 - Nishant Shekhar
 - Aniket
+- [Jessica Lang](https://github.com/ljessicc)
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
