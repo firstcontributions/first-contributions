@@ -3018,6 +3018,7 @@
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
+-[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -7015,4 +7016,7 @@
 - [Manan K Garg](https://github.com/MananKgarg)
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Sagar Prasad](https://github.com/Sagar-Prasad)
- 
+- [Sagar Prasad](https://github.com/Sagar-Prasad) 
+- [Harsh Kumar](https://github.com/gautam32)
+- [Tanisha Khandelwal](https://github.com/tanisha605)
+
