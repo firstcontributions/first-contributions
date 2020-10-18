@@ -7005,6 +7005,7 @@
 - [Jakarin Chujan](https://github.com/Jakarin-Jojo)
 - [Newton Fernandis](https://github.com/FernandisNewton)
 - [Noor Ansari](https://github.com/Noor-Ansari)
+- [MananK](https://github.com/MananKgarg)
 - [Ryan Rahman Setiawan](https://github.com/ryanrahmans26)
 - DummyVariable
 - [Yoni Saka Samudra](https://github.com/yonisaka)
