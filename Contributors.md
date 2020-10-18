@@ -342,6 +342,7 @@
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
 - [Tauqeer Ali]
+- [Parth Patel](https://github.com/parth-15)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [alvacat](https://github.com/alvacat)
 - [AveryPudding](https://github.com/averyartist)
