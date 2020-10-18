@@ -16,6 +16,7 @@
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
 - Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
+- Debobrata Bose (https://github.com/debobrata82)
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
