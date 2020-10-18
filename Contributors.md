@@ -5,6 +5,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
+- [Jasmine Moua](https://github.com/mouajas)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
@@ -3017,6 +3018,7 @@
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
+-[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -7013,3 +7015,5 @@
 - [Manan Garg](https://github.com/MananKgarg)
 - [Manan K Garg](https://github.com/MananKgarg)
 - [Aayush Shrivastava](https://github.com/aayush2020)
+- [Harsh Kumar](https://github.com/gautam32)
+- [Tanisha Khandelwal](https://github.com/tanisha605)
