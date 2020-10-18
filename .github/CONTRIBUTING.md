@@ -438,6 +438,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/CoderKlemen">CoderKlemen</a>
         </td>
         <td>
+            <a href="https://github.com/soumik2012">soumik2012</a>
+        </td>
+        <td>
             <a href="https://github.com/jcer">jcer</a>
         </td>
         <td>
