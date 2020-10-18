@@ -5,6 +5,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
+- [Jasmine Moua](https://github.com/mouajas)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
@@ -342,6 +343,7 @@
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
 - [Tauqeer Ali]
+- [Parth Patel](https://github.com/parth-15)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [alvacat](https://github.com/alvacat)
 - [AveryPudding](https://github.com/averyartist)
@@ -3016,6 +3018,7 @@
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
+-[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -7011,3 +7014,7 @@
 - [Akshat Kumar](https://github.com/akshatku)
 - [Manan Garg](https://github.com/MananKgarg)
 - [Sachin Kumar](https://github.com/sk-2809)
+- [Manan K Garg](https://github.com/MananKgarg)
+- [Harsh Kumar](https://github.com/gautam32)
+- [Tanisha Khandelwal](https://github.com/tanisha605)
+
