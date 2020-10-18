@@ -688,6 +688,7 @@
 - Derryl Kevin Monis
 - Lizard
 - Aditi Debnath
+- Manasi Saiba
 - [Liziane Felix](ttps://gihthub.com/lizianefelix)
 - [Anurag Mishra](https://github.com/i-anuragmishra)
 - [Ritesh Kumar](https://github.com/Ritesh055)
