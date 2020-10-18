@@ -162,6 +162,7 @@
 - [Amarachi Anyim](https://github.com/Harmarachi)
 - Walker Dow
 - Abdul Adhil
+- [Vivek Khatri] (https://github.com/vivek378521)
 - Vikas Kumar
 - Mahiransh Sharma
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
