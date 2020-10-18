@@ -11,6 +11,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [Elena Gumerova](https://github.com/ElenaProject)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
 - Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
