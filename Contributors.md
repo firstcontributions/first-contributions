@@ -23,6 +23,7 @@
 - fanyCaz
 - chenniferann
 - gamesMum
+- Mayank Kinger
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
 - agashvaran
