@@ -7022,3 +7022,5 @@
 - [Parishi](https://github.com/p489)
 - [Gangadhar](https://github.com/p489)
 - [Harsh Kumar Gautam](https://github.com/gautam32)
+- [Arif Ahmad](https://github.com/arifahmad-py)
+- [Jay Sonawane](https://github.com/jayson-310801)
