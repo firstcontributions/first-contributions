@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [opunsoars](https://github.com/opunsoars) was here
@@ -7018,3 +7018,4 @@
 - [Harsh Kumar](https://github.com/gautam32)
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Rishabh Jain](https://github.com/rishabhjain987)
+- [Aashwin Agrawal](https://github.com/aashwiniitb2409)
