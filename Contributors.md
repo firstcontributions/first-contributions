@@ -24,6 +24,7 @@
 - Sanuda
 - Sneha
 - Jaisai Kuntala
+- [Prithvi Singh](https://github.com/prithvi840)
 - [Claudio holanda](github.com/macindex/)
 - [Rohit Mehta ✌](https://github.com/mehtaRohit)
 - [Matheus Elyasha was here!](https://github.com/elyasah)
@@ -162,6 +163,7 @@
 - [Amarachi Anyim](https://github.com/Harmarachi)
 - Walker Dow
 - Abdul Adhil
+- [Vivek Khatri] (https://github.com/vivek378521)
 - Vikas Kumar
 - Mahiransh Sharma
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
@@ -7017,4 +7019,6 @@
 - [Manan K Garg](https://github.com/MananKgarg)
 - [Harsh Kumar](https://github.com/gautam32)
 - [Tanisha Khandelwal](https://github.com/tanisha605)
+- [Rishabh Jain](https://github.com/rishabhjain987)
+- [Parishi](https://github.com/p489)
 
