@@ -5,6 +5,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
+- [Jasmine Moua](https://github.com/mouajas)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
@@ -23,6 +24,7 @@
 - Sanuda
 - Sneha
 - Jaisai Kuntala
+- [Prithvi Singh](https://github.com/prithvi840)
 - [Claudio holanda](github.com/macindex/)
 - [Rohit Mehta ✌](https://github.com/mehtaRohit)
 - [Matheus Elyasha was here!](https://github.com/elyasah)
@@ -161,6 +163,7 @@
 - [Amarachi Anyim](https://github.com/Harmarachi)
 - Walker Dow
 - Abdul Adhil
+- [Vivek Khatri] (https://github.com/vivek378521)
 - Vikas Kumar
 - Mahiransh Sharma
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
@@ -342,6 +345,7 @@
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
 - [Tauqeer Ali]
+- [Parth Patel](https://github.com/parth-15)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [alvacat](https://github.com/alvacat)
 - [AveryPudding](https://github.com/averyartist)
@@ -3016,6 +3020,7 @@
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - Gubsi
+-[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -7011,3 +7016,9 @@
 - [Akshat Kumar](https://github.com/akshatku)
 - [Manan Garg](https://github.com/MananKgarg)
 - [Priyansh Goyal](https://github.com/CodePriyansh17)
+- [Manan K Garg](https://github.com/MananKgarg)
+- [Harsh Kumar](https://github.com/gautam32)
+- [Tanisha Khandelwal](https://github.com/tanisha605)
+- [Rishabh Jain](https://github.com/rishabhjain987)
+- [Parishi](https://github.com/p489)
+
