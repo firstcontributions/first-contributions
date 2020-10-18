@@ -3459,6 +3459,7 @@
 - [Nick Truong](https://github.com/nicholasctruong)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - Sitanshu
+- [Harshita Lashkari](https://github.com/harshitalashkari)
 - [Sharan Sudhir](https://github.com/sharansudhir)
 - [Hu Yang](https://github.com/huyang117)
 - [Naga Harshita](https://github.com/NagaHarshita)
