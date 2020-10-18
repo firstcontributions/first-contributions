@@ -16,9 +16,11 @@
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
 - [m0nusingh](http://github.com/m0nusingh)
+- [Yash Agrawal](http://github.com/yashagrawal457)
 - [rorondre](https://github.com/rorondre)
 - fanyCaz
 - chenniferann
+- gamesMum
 - RIGATONI RYAN 🤙
 - agashvaran
 - Sanuda
@@ -6996,6 +6998,7 @@
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [hoi kayan](https://github.com/ipoobest)
 - [yamak](https://github.com/yamak)
+- [arief samuel](https://github.com/arifsamuel)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Reekraj Roy](https://github.com/REEKRAJROY)
 - [Daniel Freire](https://github.com/proxyanon)
@@ -7022,4 +7025,10 @@
 - [Parishi](https://github.com/p489)
 - [Gangadhar](https://github.com/p489)
 - [Arif Ahmad](https://github.com/arifahmad-py)
+- [Harsh Kumar Gautam](https://github.com/gautam32)
+- [Arif Ahmad](https://github.com/arifahmad-py)
+- [Jay Sonawane](https://github.com/jayson-310801)
+- [Divyansh Natani](https://github.com/DivyanshNatani)
+- [Garima Dewangan](https://github.com/GarimaDewangan)
 - [Swapnil Joshi](https://github.com/swapnilcsre/) 15th time
+
