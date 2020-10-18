@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [opunsoars](https://github.com/opunsoars) was here
@@ -3174,7 +3174,7 @@
 - [Kytham Deepak](https://github.com/Deephacks619)
 - [Callum Gander](https://github.com/Callumgander)
 - [Temilola Aderibigbe](https://github.com/Temilol)
-- [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
+- [Aditya Pranav 🤩??🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
 - [Joe Vu](https://github.com/coz119)
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
@@ -7020,3 +7020,4 @@
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Rishabh Jain](https://github.com/rishabhjain987)
 - [Parishi](https://github.com/p489)
+- [Ashutosh Mitra](https://github.com/ashutoshmitra)
