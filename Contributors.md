@@ -43,6 +43,7 @@
 - hoovks
 - Yukty Khandelia
 - Pranjal bisht
+- [Savannah Niemeyer](https://github.com/sniemeyer1)
 - [Rohith Ravindranath](https://github.com/rohithravin)
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
