@@ -5,6 +5,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
+- [Jasmine Moua](https://github.com/mouajas)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
@@ -7013,3 +7014,4 @@
 - [Manan Garg](https://github.com/MananKgarg)
 - [Manan K Garg](https://github.com/MananKgarg)
 - [Harsh Kumar](https://github.com/gautam32)
+- [Tanisha Khandelwal](https://github.com/tanisha605)
