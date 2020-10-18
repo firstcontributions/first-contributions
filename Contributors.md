@@ -223,6 +223,7 @@
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
+- [Asa](https://github.com/deweesa)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
 - [Magnus Herrlin](https://github.com/MagnusHerrlin)
