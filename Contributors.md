@@ -1747,7 +1747,8 @@
 - [George Troupis](https://github.com/georgetroupis)
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
-- [WeiHao Kuang](https://github.com/kuangticus)
+- [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
+- [WeiHao Kuang](https://github.com/kuangticus) 
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
