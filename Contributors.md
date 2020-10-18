@@ -96,6 +96,7 @@
 - Kritika Berry (https://github.com/kritikaberry)
 - Chaitanya
 - Harshraj shrivastava
+- Nishant Shekhar
 - Aniket
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
