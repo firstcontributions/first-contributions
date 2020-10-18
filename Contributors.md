@@ -370,6 +370,7 @@
 - [Scott Neitzel](https://github.com/eightyWon)
 - [Axel Gehlen](https://github.com/agehlen)
 - [Tany](https://github.com/tany)
+- [Denny Thomas Varghese](https://github.com/d3ncity)
 - [Douglas Smith](https://github.com/McDoogen)
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
