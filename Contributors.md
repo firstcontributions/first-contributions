@@ -5,6 +5,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
+- [Jasmine Moua](https://github.com/mouajas)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
@@ -342,6 +343,7 @@
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
 - [Tauqeer Ali]
+- [Parth Patel](https://github.com/parth-15)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
 - [alvacat](https://github.com/alvacat)
 - [AveryPudding](https://github.com/averyartist)
@@ -7011,3 +7013,5 @@
 - [Akshat Kumar](https://github.com/akshatku)
 - [Manan Garg](https://github.com/MananKgarg)
 - [Sagar Prasad](https://github.com/Sagar-Prasad)
+- [Manan K Garg](https://github.com/MananKgarg)
+- [Tanisha Khandelwal](https://github.com/tanisha605)
