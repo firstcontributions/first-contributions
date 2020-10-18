@@ -11,6 +11,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [Nada Stojanovic](https://github.com/nadjastojanovic)
 - Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
 - [Namita](https://github.com/namita2310)
