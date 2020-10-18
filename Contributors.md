@@ -967,6 +967,7 @@
 - [Subhashree Mishra](https://github.com/Mishrasubha)
 - [Mykael Baig](https://github.com/Mykaelb/CST255-MB)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
+- [Manan](https://github.com/MananKgarg)
 - [Mrunal Bandodkar](https://github.com/mrunal2u)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder](https://github.com/IPSITA2000)
