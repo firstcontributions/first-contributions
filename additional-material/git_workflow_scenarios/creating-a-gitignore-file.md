@@ -46,7 +46,7 @@ This will create the file ~/.gitignore_global. Now you can edit that file the sa
 
 ## How to Untrack Files Previously Committed from New Gitignore
 
-To untrack a single file, ie stop tracking the file but not delete it from the system use:
+To untrack a single file, or stop tracking the file but not delete it from the system use:
 
 ```
 git rm --cached filename
