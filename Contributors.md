@@ -24,6 +24,7 @@
 - fanyCaz
 - chenniferann
 - gamesMum
+- gargi
 - Mayank Kinger
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
