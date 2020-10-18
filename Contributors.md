@@ -102,6 +102,7 @@
 - Harshraj shrivastava
 - Nishant Shekhar
 - Aniket
+- [Jessica Lang](https://github.com/ljessicc)
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
