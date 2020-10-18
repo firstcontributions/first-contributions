@@ -240,6 +240,7 @@ Mees
 - [Shay Ben Shimol](https://github.com/shayben838)
 - [Mohit Kumar](https://github.com/Mohitkumar6122)
 - [My]
+- [Adefemi Micheal](https://github.com/adefemi171)
 - [Xiaodobl Lee](https://github.com/eimcharia)
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
