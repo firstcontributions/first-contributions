@@ -1044,6 +1044,7 @@
 - [Uditha Ishan](https://github.com/UdithaIshan)
 - [Or Zohar](https://github.com/orZohar)
 - [Geetika PS](https://github.com/Geetikaps)
+- [Sanchit Gide](https://github.com/Sanchit-afk)
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Sarah Noonan](https://github.com/snoonan11)
 - [Marco Serrano](https://github.com/serranomarco)
@@ -1502,6 +1503,7 @@
 - [Rahul R]
 - [Devjeet Roy](https://github.com/devjeetroy98)
 - [Michelle Sandford](https://github.com/msandfor)
+- [Sanchit Gide ]
 - [Keyul Jain](https://github.com/KeyulJain)
 - [Mehul Bhatt](https://github.com/mehulbhat)
 - [AbbyCha](https://github.com/ChaAbby)
