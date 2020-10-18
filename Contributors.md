@@ -7018,4 +7018,4 @@
 - [Harsh Kumar](https://github.com/gautam32)
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Rishabh Jain](https://github.com/rishabhjain987)
-- [Rishabh] (https://github.com/Rishabh-Thapliyal)
+- [Rishab] (https://github.com/Rishabh-Thapliyal)
