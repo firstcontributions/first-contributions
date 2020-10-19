@@ -1,4 +1,5 @@
 547﻿# Contributors
+- [Harshit Sharma] (https://github.com/harshu1470)
 
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - CHINTAN PATEL
