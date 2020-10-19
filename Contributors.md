@@ -1377,6 +1377,7 @@
 - [Siva Kondubhatla](https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
 - [Deril]
+- [Jason Beaver](https://github.com/LeaveItToBeaver)
 - [Lois Choji](https://github.com/LoisChoji)
 - [Mehul Sharma](https://github.com/BruceWayne733)
 - [Deril Raju](https://github.com/deril2605)
