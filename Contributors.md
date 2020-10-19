@@ -44,6 +44,7 @@
 - RIGATONI RYAN 🤙
 - agashvaran
 - [Carl Sciz](https://github.com/carlsciz)
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
 - Sanuda
 - Sneha
 - ShashiW
