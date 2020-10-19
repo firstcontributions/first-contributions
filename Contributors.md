@@ -355,7 +355,7 @@
 - [Dhanraj K](https://github.com/DH4NRAJ)
 - [CB](https://github.com/baskinc049)
 - [Sadaf Athar Khan](https://github.com/sak110)
-- [Anushka Sethi](https://github.com/anushkasethi1710)
+- [Anushka Sethi](https://github.com/anushkasethi1710) 
 - [Shreshta Alladi](https://github.com/Shreshta2589)
 - [Sagar Mittal](https://github.com/sagarmittal1)
 - [Zachary Freeman](https://github.com/zfreeman3)
