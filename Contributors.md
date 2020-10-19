@@ -106,6 +106,7 @@
 - [Abdul Wassay](https://github.com/wassaysardar2k)
 - Kritika Berry (https://github.com/kritikaberry)
 - Chaitanya
+- [Shaun Yap](https://github.com/shaun-yap)
 - Harshraj shrivastava
 - Nishant Shekhar
 - Aniket
