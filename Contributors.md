@@ -1,6 +1,7 @@
 547﻿# Contributors
 
 - [Harshal Sanghvi](https://github.com/harshal2030)
+- CHINTAN PATEL
 - [opunsoars](https://github.com/opunsoars) was here
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
