@@ -24,6 +24,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- Harshit Sharma
 - [m0nusingh](http://github.com/m0nusingh)
 - [Yash Agrawal](http://github.com/yashagrawal457)
 - [rorondre](https://github.com/rorondre)
