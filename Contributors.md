@@ -29,6 +29,7 @@
 - [Yash Agrawal](http://github.com/yashagrawal457)
 - [rorondre](https://github.com/rorondre)
 - [nakanaori] (https://github.com/nakanaori)
+- [BiGDoGKD](https://github.com/BiGDoGKD)
 - fanyCaz
 - chenniferann
 - gamesMum
