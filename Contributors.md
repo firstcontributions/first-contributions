@@ -235,6 +235,7 @@
 - [Courtney Buratto](https://github.com/cocoitali)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
+- [Revvin-Evan](https://github.com/Revvin-Evan)
 - [Siddharth jain](https://github.com/siddhartthjain)
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Sabrina Wong](https://github.com/sabrinarwong)
