@@ -32,6 +32,7 @@
 - fanyCaz
 - chenniferann
 - gamesMum
+- [Aditya Sriram] (https://github.com/aweditya)
 - gargi
 - Mayank Kinger
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
