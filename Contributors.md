@@ -17,6 +17,7 @@
 - Morgan
 - [coderAbhii](https://github.com/coderAbhii)
 - [Qasim Khan](https://github.com/QasimKhan5x)
+- Roxanne Dewing
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
