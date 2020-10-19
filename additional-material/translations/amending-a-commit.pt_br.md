@@ -35,7 +35,7 @@ b0ca8f adicionada palavra no arquivo bot
 ```
 
 O segundo modo é corrigir o commit a5da0d, adicionar essa nova palavra e dar push para o Github como um único commit.
-Essa ação soa melhor, já que é apenas uma pequena alteração.
+Essa ação soa melhor, já que é apenas uma pequena alteração no seu repositorio.
 
 Para fazer isso, nós faríamos o seguinte:
 * Modificar o arquivo. Nesse caso, modificarei o arquivo bot para incluir a palavra que eu esqueci anteriormente.
@@ -49,4 +49,4 @@ Mas, como o que nós queremos fazer aqui é corrigir o commit anterior, nós ao 
 * Sair do editor salvando as alterações
 * Dar push nas suas alterações com o comando ```git push origin <nome-da-branch>```
 
-Dessa forma, ambas as alterações agora estarão em um único commit.
+Dessa forma, ambas as alterações agora estarão em um único commit e seu projeto pronto no github, assim podendo contribuir e usar como portófolio futuramente.
