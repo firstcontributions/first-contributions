@@ -60,6 +60,7 @@
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - Tom Mulligan
+- [Sakshi Seth](https://github.com/sakshiseth)
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
