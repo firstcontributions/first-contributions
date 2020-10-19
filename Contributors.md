@@ -23,6 +23,7 @@
 - [Thao Pham](https://github.com/thaopham1816/)
 - [Elena Gumerova](https://github.com/ElenaProject)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
+- [James O'Meara](https://github.com/Jamesomeara93)
 - Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
 - Debobrata Bose (https://github.com/debobrata82)
