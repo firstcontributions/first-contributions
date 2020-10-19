@@ -16,6 +16,7 @@
 - Motunrayo
 - Morgan
 - [coderAbhii](https://github.com/coderAbhii)
+- [Qasim Khan](https://github.com/QasimKhan5x)
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
