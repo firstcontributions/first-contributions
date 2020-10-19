@@ -1542,6 +1542,7 @@
   Sameer Choudhary
   Pramit Patel
   Deviner
+  Ciara (https://github.com/ciaarraa)
 - [Archit Gupta](https://github.com/rarchitgupta)
   Sumit Sagar
 - [Dwija Bagwe](https://github.com/dwija-bagwe)
