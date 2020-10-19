@@ -40,6 +40,7 @@
 - [BiGDoGKD](https://github.com/BiGDoGKD)
 - [12q1](https://github.com/12q1)
 - fanyCaz
+- [Martin Valter](https://github.com/valterm)
 - chenniferann
 - gamesMum
 - [Aditya Sriram] (https://github.com/aweditya)
