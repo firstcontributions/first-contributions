@@ -7,6 +7,7 @@
 - TigerBoy!
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
+- [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
