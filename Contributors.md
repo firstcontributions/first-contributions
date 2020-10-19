@@ -1,5 +1,6 @@
 547﻿# Contributors
 
+- [Alex Kimeu](https://github.com/alexkimeu0)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [opunsoars](https://github.com/opunsoars) was here
 - [waterL] (https://github.com/0529bill)
@@ -8,7 +9,7 @@
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Andrew Gao
 - Saish Reddy Komalla
@@ -1760,7 +1761,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
@@ -3042,8 +3043,7 @@
 - Leszek
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
-- Gubsi
--[Aadarsh Anand](https://github.com/aadarsh-zoro)
+- Gubsi -[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
