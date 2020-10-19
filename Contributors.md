@@ -2,6 +2,7 @@
 
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [Harshal Sanghvi](https://github.com/harshal2030)
+- [Luis Sosa](https://github.com/sosavle) found this a useful refresher
 - CHINTAN PATEL
 - [opunsoars](https://github.com/opunsoars) was here
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
