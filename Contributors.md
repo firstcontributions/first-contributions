@@ -1,5 +1,6 @@
 547﻿# Contributors
 
+- [Jannick Bremm](https://github.com/JannickBremm)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - CHINTAN PATEL
 - [opunsoars](https://github.com/opunsoars) was here
