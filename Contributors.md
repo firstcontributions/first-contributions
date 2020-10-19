@@ -38,6 +38,7 @@
 - [rorondre](https://github.com/rorondre)
 - [nakanaori] (https://github.com/nakanaori)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
+- [12q1](https://github.com/12q1)
 - fanyCaz
 - chenniferann
 - gamesMum
