@@ -7070,3 +7070,6 @@
 - [Bimal Subedi](https://github.com/subedibimal)
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
 - [Yash Gupta](https://github.com/itsyash2122)
+- [Yash Gupta](https://github.com/itsyash2122)
+- [Hakeemullah J. Yousufzai](https://github.com/hakeemullahjan)
+
