@@ -38,6 +38,7 @@
 - [Carl Sciz](https://github.com/carlsciz)
 - Sanuda
 - Sneha
+- ShashiW
 - Jaisai Kuntala
 - [Prithvi Singh](https://github.com/prithvi840)
 - [Claudio holanda](github.com/macindex/)
