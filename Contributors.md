@@ -4,6 +4,7 @@
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - CHINTAN PATEL
 - [opunsoars](https://github.com/opunsoars) was here
+- [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
