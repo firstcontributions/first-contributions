@@ -22,6 +22,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [Michael Singh](https://github.com/singhmi4)
 - [Thao Pham](https://github.com/thaopham1816/)
 - [Elena Gumerova](https://github.com/ElenaProject)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
