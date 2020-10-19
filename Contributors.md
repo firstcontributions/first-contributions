@@ -123,6 +123,7 @@
 - Chaitanya
 - [Shaun Yap](https://github.com/shaun-yap)
 - Harshraj shrivastava
+- Kole Deighan(https://github.com/kdeigs)
 - Nishant Shekhar
 - Aniket
 - [Utsav Phunyal](https://github.com/uphunyal)
