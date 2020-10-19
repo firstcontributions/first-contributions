@@ -32,6 +32,7 @@
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
 - agashvaran
+- [Carl Sciz](https://github.com/carlsciz)
 - Sanuda
 - Sneha
 - Jaisai Kuntala
