@@ -1,4 +1,4 @@
-﻿547﻿# Contributors
+# Contributors
 
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [Astralyfuse](https://github.com/Astralyfuse)
