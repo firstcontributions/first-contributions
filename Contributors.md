@@ -55,6 +55,7 @@
 - agashvaran
 - [Carl Sciz](https://github.com/carlsciz)
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
+- [Unviray](https://github.com/Unviray) 
 - Sanuda
 - Sneha
 - ShashiW
