@@ -48,6 +48,7 @@
 - [utsavcoding] (https://github.com/utsavcoding)
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
+- [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
 - chenniferann
 - gamesMum
