@@ -21,6 +21,7 @@
 - [coderAbhii](https://github.com/coderAbhii)
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
+- [Utkarsh Agarwal](https://github.com/UtkarshA135)
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
