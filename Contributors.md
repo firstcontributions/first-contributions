@@ -46,6 +46,7 @@
 - [BiGDoGKD](https://github.com/BiGDoGKD)
 - [12q1](https://github.com/12q1)
 - [utsavcoding] (https://github.com/utsavcoding)
+- [vaibhav chandra] (https://github.com/vaibhavviking)
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
 - [saharfiuzati](https://github.com/saharfiuzati)
