@@ -35,6 +35,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- Wanmeow(https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
 - [Yash Agrawal](http://github.com/yashagrawal457)
 - [rorondre](https://github.com/rorondre)
