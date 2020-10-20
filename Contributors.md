@@ -18,6 +18,8 @@
 - [Jasmine Moua](https://github.com/mouajas)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [547y4m](https://github.com/547y4m) 
+- hacktoberfest
+- hacktoberfest2020
 - Motunrayo
 - Morgan
 - [coderAbhii](https://github.com/coderAbhii)
@@ -586,6 +588,7 @@
 - [Chintana Prabhu](https://github.com/chintanaprabhu)
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Danny Cheun](https://github.com/dcheun)
+- [ahmadarifinrizkiakbar](https://github.com/ahmadarifinrizkiakbar)
 - sejal
 - [Israel](https://github.com/israeltn)
 - [Amit Yadav]
