@@ -30,6 +30,7 @@
 - Saish Reddy Komalla
 - Jerry B
 - [Sweta Kabi] (https://github.com/sweta98)
+- [sidrhelli](https://github.com/sidrhelli)
 - [Tomi Adenekan](https://github.com/Code-Jym) Nice to Be Here :)
 - [Michael Singh](https://github.com/singhmi4)
 - [Thao Pham](https://github.com/thaopham1816/)
