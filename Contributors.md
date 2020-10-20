@@ -14,6 +14,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
+- Yedukrishna K R
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
