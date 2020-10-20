@@ -21,7 +21,7 @@
 - [Jasmine Moua](https://github.com/mouajas)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [Anuj Pandey](https://github.com/anujpandey785)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Morgan
 -Ankit dhar 07
@@ -72,8 +72,8 @@
 - RIGATONI RYAN 🤙
 - agashvaran
 - [Carl Sciz](https://github.com/carlsciz)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -307,6 +307,7 @@
 - [Vipul Khandelwal](https://github.com/VipulKhandelwal1999)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
+- [Rachit Sharma](https://github.com/RachitSharma2001)
 - [Shivam Gupta](https://github.com/shivam3310)
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Benji](https://github.com/IWantADog)
@@ -1817,7 +1818,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
