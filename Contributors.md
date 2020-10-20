@@ -1,4 +1,4 @@
-547﻿# Contributors
+﻿547﻿# Contributors
 
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [Astralyfuse](https://github.com/Astralyfuse)
@@ -24,6 +24,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
+- [Sweta Kabi] (https://github.com/sweta98)
 - [Tomi Adenekan](https://github.com/Code-Jym) Nice to Be Here :)
 - [Michael Singh](https://github.com/singhmi4)
 - [Thao Pham](https://github.com/thaopham1816/)
