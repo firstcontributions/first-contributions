@@ -13,6 +13,7 @@
 - [Yifei Wang](https://github.com/xsxszab) lol
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
+- [Framorac Is Here](https://github.com/framorac)
 - TigerBoy!
 - Yedukrishna K R
   [Filza zarin](https://github.com/Filzazarin)
