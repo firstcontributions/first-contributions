@@ -7,6 +7,7 @@
 - [opunsoars](https://github.com/opunsoars) was here
 - [aminrj](https://github.com/aminrj) was here too
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
+- [Yifei Wang](https://github.com/xsxszab) lol
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - TigerBoy!
