@@ -70,6 +70,7 @@
 - hoovks
 - Yukty Khandelia
 - Pranjal bisht
+- [Saurav Kumar](https://github.com/saurav2609)
 - [Savannah Niemeyer](https://github.com/sniemeyer1)
 - [Rohith Ravindranath](https://github.com/rohithravin)
 - [KobeGit24](https://github.com/KobeGit24)
