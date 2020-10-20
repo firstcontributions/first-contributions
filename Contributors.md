@@ -98,6 +98,7 @@
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
+- Minh Le
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Godspower Eze](https://github.com/Godspower-Eze)
 - [Mehdi-vand](https://github.com/MahdiDroid)
