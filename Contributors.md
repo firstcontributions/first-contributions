@@ -51,6 +51,7 @@
 - [Aditya Sriram] (https://github.com/aweditya)
 - gargi
 - Mayank Kinger
+- [Lary Mak](https://github.com/larymak)
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
 - agashvaran
