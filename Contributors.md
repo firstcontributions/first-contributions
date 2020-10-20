@@ -41,6 +41,7 @@
 - [rorondre](https://github.com/rorondre)
 - [nakanaori] (https://github.com/nakanaori)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
+- [Prats](https://github.com/pratskalive08)
 - [12q1](https://github.com/12q1)
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
