@@ -14,6 +14,7 @@
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - [Framorac Is Here](https://github.com/framorac)
+- Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
 - Yedukrishna K R
   [Filza zarin](https://github.com/Filzazarin)
