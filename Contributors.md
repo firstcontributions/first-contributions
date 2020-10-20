@@ -19,7 +19,7 @@
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Morgan
 - [coderAbhii](https://github.com/coderAbhii)
@@ -66,8 +66,8 @@
 - RIGATONI RYAN 🤙
 - agashvaran
 - [Carl Sciz](https://github.com/carlsciz)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -1166,6 +1166,7 @@
 - [WeLostTheNight](https://github.com/574469831)
 - [Utkarsh Nagar]
 - [Ashutosh Dixit](https://github.com/Di-ashX)
+- [Martín Torres] (https://github.com/codelink98)
 - [Michael Ndon](https://github.com/haelmj)
 - [jaanP1]
 - [Varad Galgali]
@@ -1808,7 +1809,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
