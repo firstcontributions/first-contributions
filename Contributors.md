@@ -47,6 +47,7 @@
 - W Chan
 - Wanmeow(https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
+- [Sohid Ullah](https://github.com/shdrana)
 - [Yash Agrawal](http://github.com/yashagrawal457)
 - [rorondre](https://github.com/rorondre)
 - [nakanaori] (https://github.com/nakanaori)
