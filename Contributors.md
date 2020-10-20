@@ -7103,3 +7103,4 @@
 - [Yash Gupta](https://github.com/itsyash2122)
 - [Denio Shaji John](https://github.com/deniosj)
 - [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+- [Vinayak Gupta](https://github.com/vinn-47)
