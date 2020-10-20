@@ -239,6 +239,7 @@
 - [Iyimide Adegunloye](https://github.com/mide358)
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Varut Ruji]
+- [Girum A] (https://github.com/galemu2)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Afzal Shaikh](https://github.com/afzal-shaikh)
 - [Aayush](https://github.com/aayushsaini)
