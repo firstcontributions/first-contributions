@@ -1483,6 +1483,7 @@
 - [Jose Cuervo](https://github.com/21Insight)
 - [Anubhav Rawat](https://github.com/anurawat01)
 - [Kurtis McAlpine](https://github.com/kmcalpine)
+- [Christopher Gardner](https://github.com/Chris-G-Dev/)
 - [TrickyJ](https://github.com/trickyj)
 - [Harish Venkataraman](https://github.com/harish-vnkt)
 - [Oldrich Krupauer](https://github.com/ItsOKayCZ)
