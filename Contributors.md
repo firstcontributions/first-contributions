@@ -136,7 +136,7 @@
 - [Praise Hezron](https://github.com/praisearts)
 - [Shaik Sarfraj](https://github.com/ShaikSarfraj-tech)
 - [Esad Simitçioğlu](https://github.com/EsadSimitcioglu)
-- [Ishant Singla] (https://github.com/ishantsingla18)
+- [Ishant Singla](https://github.com/ishantsingla18)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
 - [Thisura dinith](https://github.com/THISURA97)
 - [Josh Nho](https://github.com/joshnho)
