@@ -24,6 +24,7 @@
 - [547y4m](https://github.com/547y4m) 
 - Motunrayo
 - Morgan
+- Darshita Kumar (https://github.com/darshita-kumar)
 - ChethanR2711
 -Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
