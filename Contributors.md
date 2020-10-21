@@ -6737,9 +6737,10 @@
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Douglas Willamis](https://github.com/DouglasWillamis)
 - [CT]
-- [Nisha Choudhary](https://github.com/choudharynisha)
+- [Nisha Choudhary](https://github.com/akshaychaudhari)
 - [Alan Gordon](https://github.com/alangordon)
 - [Lola L]
+- [Akshay Chaudhari](https://github.com/choudharynisha)
 - [Prabha Louis](https://github.com/prlouis)
 - [Kan Fu](https://github.com/fukan000)
 - [Sakshi C](https://github.com/sakshi-rg)
