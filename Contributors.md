@@ -1,5 +1,6 @@
 # Contributors
 
+- [Shane O'Moore](https://github.com/shaneiadt)
 - [Jannick Bremm](https://github.com/JannickBremm)
 - AARA
 - [Yash Hiran] (https://github.com/YashHiran)
