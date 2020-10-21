@@ -71,6 +71,7 @@
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
 - agashvaran
+- [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
 - [Unviray](https://github.com/Unviray) 
