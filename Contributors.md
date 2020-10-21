@@ -7125,6 +7125,7 @@
 - [Dhruv Sah](https://github.com/Dhruv-Sah)
 - [Oshin](https://github.com/oshin7695)
 - [Mohammad Khimel](https://github.com/khimel)
+- [Nikki Ricks](https://github.com/nikkiricks)☺️
 - [Bimal Subedi](https://github.com/subedibimal)
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
 erdem yigitoglu
