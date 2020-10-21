@@ -2727,6 +2727,7 @@
 - [Daniel Buompane](https://github.com/dankb82)
 - [Javier Feliu](https://github.com/wanderindev)
 - [Luís Ferreira](https://github.com/Symbolism00)
+- [Jnthn Sltn](https://github.com/jnthn-sltn)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - radekcz
