@@ -45,6 +45,7 @@
 - Wanmeow(https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
 - [Yash Agrawal](http://github.com/yashagrawal457)
+- [Rahul RK](https://github.com/DevTMK)
 - [rorondre](https://github.com/rorondre)
 - [nakanaori] (https://github.com/nakanaori)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
