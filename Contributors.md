@@ -66,6 +66,7 @@
 - [Yash Agrawal](http://github.com/yashagrawal457)
 - [Rahul RK](https://github.com/DevTMK)
 - [rorondre](https://github.com/rorondre)
+- [Mito6211](https://github.com/Mito6211)
 - [nakanaori] (https://github.com/nakanaori)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
 - [Prats](https://github.com/pratskalive08)
