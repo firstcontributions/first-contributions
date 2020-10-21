@@ -6740,6 +6740,7 @@
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
 - [Lola L]
+- [Akshay Chaudhari](https://github.com/akshaychaudhari)
 - [Prabha Louis](https://github.com/prlouis)
 - [Kan Fu](https://github.com/fukan000)
 - [Sakshi C](https://github.com/sakshi-rg)
