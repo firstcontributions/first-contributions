@@ -18,6 +18,7 @@
 - [Framorac Is Here](https://github.com/framorac)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
+- Chuch Nichols 
 - Yedukrishna K R
 - Hyma Malladi
 - prasenareddy15
