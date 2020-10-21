@@ -34,6 +34,7 @@
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
 - [Utkarsh Agarwal](https://github.com/UtkarshA135)
+- [Neha Koppikar](https://github.com/NehaKoppikar)
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
