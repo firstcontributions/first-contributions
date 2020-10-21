@@ -90,6 +90,7 @@
 - [Space Slayer](https://github.com/spaceslayer)
 - N Maiya
 - hoovks
+- Sylints
 - Yukty Khandelia
 - Pranjal bisht
 - [Saurav Kumar](https://github.com/saurav2609)
