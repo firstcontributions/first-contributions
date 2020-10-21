@@ -1,5 +1,5 @@
 # Contributors
-
+- [Junaid Iqbal] (https://github.com/junaidiqbalturk) found this useful regarding contribution to open source
 - [Jannick Bremm](https://github.com/JannickBremm)
 - AARA
 - [Astralyfuse](https://github.com/Astralyfuse)
