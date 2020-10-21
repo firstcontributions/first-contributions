@@ -2,6 +2,7 @@
 
 - [Jannick Bremm](https://github.com/JannickBremm)
 - AARA
+- [Yash Hiran] (https://github.com/YashHiran)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [Luis Sosa](https://github.com/sosavle) found this a useful refresher
