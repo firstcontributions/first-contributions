@@ -43,6 +43,7 @@
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
 - [Varad Dingankar](https://github.com/vmdhhh)
 - [James O'Meara](https://github.com/Jamesomeara93)
+- [Tvarita Jain](https://github.com/tvarrr)
 - Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
 - Debobrata Bose (https://github.com/debobrata82)
