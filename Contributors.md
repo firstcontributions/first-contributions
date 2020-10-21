@@ -191,6 +191,7 @@
 - [Prabhat Kumar](https://github.com/PrabhatKumar5990)
 - [Dylan Wang](https://github.com/wd6)
 - [Ece Aydemir](https://github.com/eeayd)
+- [RithvikReddy](https://github.com/Rithvik-Reddy)
 - [Vini Mehta](https://github.com/vini-mehta)
 - [Naman Khurpia](https://github.com/namankhurpia)
 - [Sean Micca](https://github.com/smicca)
