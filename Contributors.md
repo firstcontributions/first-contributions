@@ -2,6 +2,7 @@
 
 - [Shane O'Moore](https://github.com/shaneiadt)
 - [Jannick Bremm](https://github.com/JannickBremm)
+- [David Martinez](https://github.com/davidmartinezfl)
 - AARA
 - [Yash Hiran] (https://github.com/YashHiran)
 - [Pavel Melnikov](https://github.com/Pavelhack)
