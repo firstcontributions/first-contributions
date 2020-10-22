@@ -472,6 +472,7 @@
 - [Ishaan Singhal]
 - [Amy Nelson](https://github.com/arrmkr)
 - [Ziad Ahsani](https://github.com/ziad696)
+- [Serge Nino Martin Villasica](https://github.com/crjacinro)
 - [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
 - [Randy Cole](https://github.com/R-Cole)
