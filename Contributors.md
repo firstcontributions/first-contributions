@@ -2,6 +2,7 @@
 
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Christopher Frost](https://github.com/CWFrost)
+- [Geraldine Domergue](https://github.com/domergueg)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
 - [Kabir Dubey](https://github.com/KabirDubey)
 - [Achyut Kumar Panda](https://github.com/TheNewGuyAtGithub)
