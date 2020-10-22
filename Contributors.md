@@ -1,3 +1,3 @@
 # Contributors
 
-[blaklite]
+blaklite
