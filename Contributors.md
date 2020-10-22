@@ -45,6 +45,7 @@
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
+- Namrata Surve
 - Darshita Kumar (https://github.com/darshita-kumar)
 - ChethanR2711
 -Ankit dhar 07
@@ -340,6 +341,7 @@
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
 - [Magnus Herrlin](https://github.com/MagnusHerrlin)
+- [Maz Berg](https://github.com/MazBerg)
 - Eliana Grosof
 - Benjamin Wright
 - [Eric Atwell](https://github.com/atwelleric)
@@ -7175,6 +7177,7 @@
 - [Mohammad Khimel](https://github.com/khimel)
 - [Nikki Ricks](https://github.com/nikkiricks)☺️
 - [Bimal Subedi](https://github.com/subedibimal)
+- [Dikshant Gautam](https://github.com/dikshantgautam2k)
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
 erdem yigitoglu
 - [Yash Gupta](https://github.com/itsyash2122)
@@ -7194,3 +7197,5 @@ erdem yigitoglu
 - [Saksham Mathur(https://github.com/SakshamMathur15)
 - [Aditi Khanna](https://github.com/adeity21)
 - [Peter-blip](https://github.com/peter-blip)
+- [Leonardo Schmitt](https://github.com/LeonardoSchmittK)
+
