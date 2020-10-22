@@ -107,6 +107,7 @@
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
 - [Space Slayer](https://github.com/spaceslayer)
+- [Crystal Shardz](https://github.com/CrystalShardz)
 - N Maiya
 - hoovks
 - Sylints
