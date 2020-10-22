@@ -5,6 +5,7 @@
 - [David Martinez](https://github.com/davidmartinezfl)
 - AARA
 - [Yash Hiran] (https://github.com/YashHiran)
+- [Jaqueline Gomez](https://github.com/JaquelineGomez)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
