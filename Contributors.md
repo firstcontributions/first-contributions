@@ -7200,3 +7200,4 @@ erdem yigitoglu
 - [Leonardo Schmitt](https://github.com/LeonardoSchmittK)
 - [Peter blip](https://github.com/peter-blip/first-contributions)
 - [Lucas Alves Teixeira](https://github.com/lat94)
+- [Samantha B <3]
