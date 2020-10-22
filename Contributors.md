@@ -11,6 +11,7 @@
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
+- [Darian Purry](https://github.com/dpurry23)
 - [Luis Sosa](https://github.com/sosavle) found this a useful refresher
 - CHINTAN PATEL
 - [opunsoars](https://github.com/opunsoars) was here
