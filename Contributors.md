@@ -122,6 +122,7 @@
 - Sylints
 - Yukty Khandelia
 - Pranjal bisht
+- [William Dessert](https://github.com/SaucyGames05)
 - [Saurav Kumar](https://github.com/saurav2609)
 - [Savannah Niemeyer](https://github.com/sniemeyer1)
 - [Rohith Ravindranath](https://github.com/rohithravin)
