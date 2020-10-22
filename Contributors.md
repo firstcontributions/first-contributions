@@ -3678,6 +3678,7 @@
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Senno Kaasjager](https://github.com/skaasjager)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
+- [Tarang Shetkar](https://github.com/tshetkar7)
 - [Sarah Larkworthy](https://github.com/SLarkworthy)
 - [Vineet Vatsal](https://github.com/pret3nti0u5)
 - [Jared Jacobsen](https://github.com/jaredjacobsen)
