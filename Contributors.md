@@ -340,6 +340,7 @@
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
 - [Magnus Herrlin](https://github.com/MagnusHerrlin)
+- [Maz Berg](https://github.com/MazBerg)
 - Eliana Grosof
 - Benjamin Wright
 - [Eric Atwell](https://github.com/atwelleric)
