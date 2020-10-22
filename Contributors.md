@@ -4,6 +4,7 @@
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - AARA
+- [Marian Watson](https://github.com/marianwatson)
 - [Yash Hiran] (https://github.com/YashHiran)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Astralyfuse](https://github.com/Astralyfuse)
