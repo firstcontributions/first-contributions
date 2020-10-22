@@ -61,6 +61,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- [Kyler Green](https://github.com/Kiracorp)
 - Wanmeow(https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
 - [Sohid Ullah](https://github.com/shdrana)
