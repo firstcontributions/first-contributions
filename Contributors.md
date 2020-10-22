@@ -7180,3 +7180,4 @@ erdem yigitoglu
 - [Alexandre Gelinas](https://github.com/lejell0)
 - [Yash Agrawal](https://github.com/4tex)
 - [Lisset Salinas Pinacho](https://github.com/lizyazpin)
+- [Atharva-Parikh](https://github.com/Atharva-Parikh)
