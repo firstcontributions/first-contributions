@@ -25,6 +25,7 @@
 - TigerBoy!
 - Chuch Nichols 
 - Yedukrishna K R
+- Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
 - Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
