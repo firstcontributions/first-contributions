@@ -35,6 +35,7 @@
 - Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
   [Filza zarin](https://github.com/Filzazarin)
+  [Chamika Visal](https://github.com/chamikaVisal)
 - [Jasmine Moua](https://github.com/mouajas)
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
