@@ -13,6 +13,7 @@
 - [opunsoars](https://github.com/opunsoars) was here
 - [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
+- [Ravi Bhatt](https://github.com/raviRB)
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [Furuikeya](https://github.com/Furuikeya)
 - [Yifei Wang](https://github.com/xsxszab) lol
