@@ -7170,6 +7170,7 @@
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
 erdem yigitoglu
 - [Yash Gupta](https://github.com/itsyash2122)
+- [Mateusz-Kaminski](https://github.com/GwiezdnyRycerzKosmosu)
 - [Denio Shaji John](https://github.com/deniosj)
 - [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
 - [Vinayak Gupta](https://github.com/vinn-47)
@@ -7183,3 +7184,4 @@ erdem yigitoglu
 - [Yash Agrawal](https://github.com/4tex)
 - [Lisset Salinas Pinacho](https://github.com/lizyazpin)
 - [Atharva-Parikh](https://github.com/Atharva-Parikh)
+
