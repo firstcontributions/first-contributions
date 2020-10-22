@@ -6986,6 +6986,7 @@
 - [Autumn Davis](https://github.com/AutumnWishes87)
 - [Jithin Aji](https://github.com/JithinAji)
 - [Rodrigo Mesta rimesta21](https://github.com/rimesta21)
+- [Sanya Garg](https://github.com/SanyaGarg)
 - [malviya99](https://github.com/malviya99)
 - [ChooX3](https://github.com/ChooX3)
 - [Ross Williams](https://github.com/rossdwill)
