@@ -4,6 +4,7 @@
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - AARA
+- [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Marian Watson](https://github.com/marianwatson)
 - [Yash Hiran] (https://github.com/YashHiran)
 - [Pavel Melnikov](https://github.com/Pavelhack)
