@@ -27,7 +27,7 @@
 - [Alex P](https://github.com/papillon7)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
-- Chuch Nichols 
+- Chuch Nichols
 - Alejandro Rodriquez
 - Yedukrishna K R
 - Lloyd Warren (https://github.com/law880)
@@ -39,7 +39,7 @@
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [Anuj Pandey](https://github.com/anujpandey785)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
@@ -102,8 +102,8 @@
 - agashvaran
 - [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -1858,7 +1858,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
@@ -7109,6 +7109,7 @@
 - [Adam-Frank-White](https://github.com/AdamFrankWhite)
 - [Kyle Trahan](https://github.com/ktrahan2)
 - [Lucatake](https://github.com/Lucatake)
+- [Michael Poole] (https://github.com/MichaelPooleLF)
 - [Maycon-Alves](https://github.com/mayconbalves)
 - [Marcelo Vieira](https://github.com/marcelobvieira)
 - [Algorithm](https://github.com/hackerninenine99)
