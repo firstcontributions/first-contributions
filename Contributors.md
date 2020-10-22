@@ -1,6 +1,7 @@
 # Contributors
 
 - [Shane O'Moore](https://github.com/shaneiadt)
+- [Sristy Sharma] (https://github.com/beertocode)
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - AARA
