@@ -36,6 +36,7 @@
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [547y4m](https://github.com/547y4m) 
 - Motunrayo
+- Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
 - Darshita Kumar (https://github.com/darshita-kumar)
 - ChethanR2711
@@ -85,6 +86,7 @@
 - [Martin Valter](https://github.com/valterm)
 - chenniferann
 - gamesMum
+- [realrahnama](https://github.com/realrahnama)
 - [Aditya Sriram] (https://github.com/aweditya)
 - gargi
 - Mayank Kinger
@@ -106,6 +108,7 @@
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
 - [Space Slayer](https://github.com/spaceslayer)
+- [Crystal Shardz](https://github.com/CrystalShardz)
 - N Maiya
 - hoovks
 - Sylints
@@ -3673,6 +3676,7 @@
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Senno Kaasjager](https://github.com/skaasjager)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
+- [Tarang Shetkar](https://github.com/tshetkar7)
 - [Sarah Larkworthy](https://github.com/SLarkworthy)
 - [Vineet Vatsal](https://github.com/pret3nti0u5)
 - [Jared Jacobsen](https://github.com/jaredjacobsen)
@@ -7168,4 +7172,5 @@ erdem yigitoglu
 - [Michal Galecki](https://github.com/michalgalecki)
 - [Steven Kumarsingh](https://github.com/stevenks17)
 - [Alexandre Gelinas](https://github.com/lejell0)
+- [Yash Agrawal](https://github.com/4tex)
 - [jadeduo](https://github.com/jadeduo)
