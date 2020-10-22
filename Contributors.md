@@ -7167,3 +7167,4 @@ erdem yigitoglu
 - [A.Y.Wiguna] (https://github.com/aywiguna)
 - [Michal Galecki](https://github.com/michalgalecki)
 - [Steven Kumarsingh](https://github.com/stevenks17)
+- [Alexandre Gelinas](https://github.com/lejell0)
