@@ -7038,6 +7038,7 @@
 - [tasakos](https://github.com/tasakos-dev)
 - [Hardik Gupta](https://github.com/harrdy272)
 - [David Ryan](https://github.com/radge)
+- [Sendeq]
 - [Nicholas Aliabadi](https://aliabadi.github.io)
 - [macrohumanity](https://github.com/macrohumanity)
 - [Alex Yuan](https://github.com/aycer25)
