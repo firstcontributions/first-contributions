@@ -1,6 +1,8 @@
 # Contributors
 
+- [Shane O'Moore](https://github.com/shaneiadt)
 - [Jannick Bremm](https://github.com/JannickBremm)
+- [David Martinez](https://github.com/davidmartinezfl)
 - AARA
 - [Yash Hiran] (https://github.com/YashHiran)
 - [Pavel Melnikov](https://github.com/Pavelhack)
@@ -10,18 +12,26 @@
 - CHINTAN PATEL
 - [opunsoars](https://github.com/opunsoars) was here
 - [aminrj](https://github.com/aminrj) was here too
+- [Claudius King](https://github.com/protean-phoenix/)
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [Furuikeya](https://github.com/Furuikeya)
 - [Yifei Wang](https://github.com/xsxszab) lol
 - [waterL] (https://github.com/0529bill)
 - SANANDAN MAHALANABISH
+- [this is where i have entered a sentence] reddy
 - [Framorac Is Here](https://github.com/framorac)
+- [Alex P](https://github.com/papillon7)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
+- Chuch Nichols 
 - Yedukrishna K R
+- Lloyd Warren (https://github.com/law880)
+- Hyma Malladi
+- Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
+- [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [547y4m](https://github.com/547y4m) 
@@ -55,11 +65,14 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- [Kyler Green](https://github.com/Kiracorp)
 - Wanmeow(https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
 - [Sohid Ullah](https://github.com/shdrana)
 - [Yash Agrawal](http://github.com/yashagrawal457)
+- [Rahul RK](https://github.com/DevTMK)
 - [rorondre](https://github.com/rorondre)
+- [Mito6211](https://github.com/Mito6211)
 - [nakanaori] (https://github.com/nakanaori)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
 - [Prats](https://github.com/pratskalive08)
@@ -121,6 +134,7 @@
 - [Henrique Lisboa](https://github.com/hlisboasousa)
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
+- [Felipe Quiros](https://github.com/quirosfelipe)
 - [Stefanny Panameño](https://github.com/stefannypanameno93)
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
@@ -533,6 +547,7 @@
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
 - [David Thapa](https://github.com/David-Thapa)
 - [Paul Cortes](https://github.com/pcorqui)
+- [Mark Conley](https://github.com/mc4)
 - [Daniela Contador Zanforlin](https://github.com/djcontador)
 - [Shafayet Rajit](https://github.com/ShafayetRajit)
 - [Levi Johnson](https://github.com/levimjohn)
@@ -702,6 +717,7 @@
 - [Astitv Shandilya](https://github.com/axtitv)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
 - [PRIYANKA YADAV](https://github.com/Priyanka-hub-bit)
+- [Bhim Kumar](https://github.com/bhimkp)
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [Omar Alvarado](https://github.com/Omar0218)
 - [Nikiya Simpson](https://github.com/nikiyasimpson)
@@ -719,6 +735,7 @@
 - [Ritvika Sonawane](https://github.com/alex-2410)
 - [Esther Mueni]
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
+- [Antonio Gonzalez](https://github.com/1449Antonio)
 - [Izzy Berzsenyi](https://github.com/isabellberzsenyi)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
@@ -6735,6 +6752,7 @@
 - [Nisha Choudhary](https://github.com/choudharynisha)
 - [Alan Gordon](https://github.com/alangordon)
 - [Lola L]
+- [Akshay Chaudhari](https://github.com/akshaychaudhari)
 - [Prabha Louis](https://github.com/prlouis)
 - [Kan Fu](https://github.com/fukan000)
 - [Sakshi C](https://github.com/sakshi-rg)
@@ -6981,6 +6999,7 @@
 - [Autumn Davis](https://github.com/AutumnWishes87)
 - [Jithin Aji](https://github.com/JithinAji)
 - [Rodrigo Mesta rimesta21](https://github.com/rimesta21)
+- [Sanya Garg](https://github.com/SanyaGarg)
 - [malviya99](https://github.com/malviya99)
 - [ChooX3](https://github.com/ChooX3)
 - [Ross Williams](https://github.com/rossdwill)
@@ -7147,4 +7166,6 @@ erdem yigitoglu
 - Ayush Kumar [https://github.com/aayushkumar777]
 - [A.Y.Wiguna] (https://github.com/aywiguna)
 - [Michal Galecki](https://github.com/michalgalecki)
-- jadeduo
+- [Steven Kumarsingh](https://github.com/stevenks17)
+- [Alexandre Gelinas](https://github.com/lejell0)
+- [jadeduo](https://github.com/jadeduo)
