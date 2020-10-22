@@ -27,6 +27,7 @@
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
 - Chuch Nichols 
+- Alejandro Rodriquez
 - Yedukrishna K R
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
