@@ -28,6 +28,7 @@
 - prasenareddy15
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
+- [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [547y4m](https://github.com/547y4m) 
