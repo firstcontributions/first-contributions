@@ -63,6 +63,7 @@
 - Saish Reddy Komalla
 - Jerry B
 - [Sweta Kabi] (https://github.com/sweta98)
+- [Jessica Wadsworth] (https://github.com/jessicalorenac)
 - [Ahmad Shaaban] (https://github.com/AhmadShaaban)
 - [sidrhelli](https://github.com/sidrhelli)
 - [Tomi Adenekan](https://github.com/Code-Jym) Nice to Be Here :)
