@@ -153,6 +153,7 @@
 - [Parth Desai](https://github.com/pycoder2000)
 - [Snigdha Shekhar](https://github.com/sshekhar1996)
 - [Sanjana RP](https://github.com/sanjanarp)
+- [Shlok Kumar Kyal](https://github.com/skkyal)
 - [Fehlicks](https://github.com/fehlicks)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
