@@ -148,6 +148,7 @@
 - [Sakshi Seth](https://github.com/sakshiseth)
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
+- [Snigdha Shekhar](https://github.com/sshekhar1996)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Fehlicks](https://github.com/fehlicks)
 - [Joyce Annie George](https://github.com/joyceannie)
