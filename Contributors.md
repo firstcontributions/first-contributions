@@ -11,6 +11,7 @@
 - AARA
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
+- [Sidharth S Nair](https://github.com/iamsidharthnair)
 - [Marian Watson](https://github.com/marianwatson)
 - [Yash Hiran] (https://github.com/YashHiran)
 - [João Farias](https://github.com/JoaoGFarias)
