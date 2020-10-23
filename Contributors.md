@@ -3547,6 +3547,7 @@
 - [limetree1723](https://github.com/limetree1723)
 - CatTail
 - [Tarun Kanodia](https://github.com/tarunkanodia)
+- [Bharat Rajora]
 - [Juan Pablo Pinto](https://github.com/jpinto7)
 - [Wolfgang Kramer](https://github.com/WolfgangKramer/Fints-MariaDB-Banking)
 - [Mike Dombrowski](https://github.com/m-dombrowski)
