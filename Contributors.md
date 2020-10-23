@@ -598,6 +598,7 @@
 - [Laura Ross](https://github.com/laura-ross/)
 - [Cari Gan](https://github.com/cariygan)
 - [Sulphur1010](https://github.com/sulphur1010)
+- [Jason Massey](https://github.com/jmasseyut) 
 - [Theresa Cho](https://github.com/tcho6319)
 - [Gerardo Jr. Abantao](https://github.com/GerardoUbuntu)
 - [Anand Kumar](https://github.com/Anandsharmak/)
