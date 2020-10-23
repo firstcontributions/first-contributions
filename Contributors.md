@@ -65,6 +65,7 @@
 - [Neha Koppikar](https://github.com/NehaKoppikar)
 - [Jonathan Wheeler](https://github.com/jwheeler27)
 - Andrew Gao
+- Lefteris
 - Saish Reddy Komalla
 - Jerry B
 - [Sweta Kabi] (https://github.com/sweta98)
