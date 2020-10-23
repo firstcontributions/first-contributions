@@ -55,6 +55,7 @@
 - Roxanne Dewing
 - [Utkarsh Agarwal](https://github.com/UtkarshA135)
 - [Neha Koppikar](https://github.com/NehaKoppikar)
+- [Jonathan Wheeler](https://github.com/jwheeler27)
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
