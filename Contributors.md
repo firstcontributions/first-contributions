@@ -96,6 +96,7 @@
 - [vaibhav chandra] (https://github.com/vaibhavviking)
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
+- [oonoo](https://github.com/oonoo)
 - [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
 - chenniferann
