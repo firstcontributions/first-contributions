@@ -64,6 +64,7 @@
 - Saish Reddy Komalla
 - Jerry B
 - [Sweta Kabi] (https://github.com/sweta98)
+- [Jessica Wadsworth] (https://github.com/jessicalorenac)
 - [Ahmad Shaaban] (https://github.com/AhmadShaaban)
 - [sidrhelli](https://github.com/sidrhelli)
 - [Tomi Adenekan](https://github.com/Code-Jym) Nice to Be Here :)
@@ -98,6 +99,7 @@
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
 - [oonoo](https://github.com/oonoo)
+- [askorykh](https://github.com/askorykh)
 - [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
 - chenniferann
@@ -7213,3 +7215,4 @@ erdem yigitoglu
 - [Samantha B <3]
 - [Fajar Muzaky](https://github.com/fajarmzky)
 - [dng](https://github.com/nm2n)
+- [Zhanat Mambetbayeva](https://github.com/ZhanatM)
