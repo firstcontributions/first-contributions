@@ -23,7 +23,7 @@
 - [Alex P](https://github.com/papillon7)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
-- Chuch Nichols 
+- Chuch Nichols
 - Yedukrishna K R
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
@@ -34,7 +34,7 @@
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [Anuj Pandey](https://github.com/anujpandey785)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Morgan
 - Darshita Kumar (https://github.com/darshita-kumar)
@@ -95,8 +95,8 @@
 - agashvaran
 - [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -255,6 +255,7 @@
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0)
 - [Chiran Hewawitharana](https://github.com/cmadusankahw)
 - [Akhila](https://github.com/akhilap03)
+- [Safar Safarov](https://github.com/safarsafarov)
 - [Amarachi Anyim](https://github.com/Harmarachi)
 - Walker Dow
 - Abdul Adhil
@@ -1848,7 +1849,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
