@@ -64,6 +64,7 @@
 - [Jonathan Wheeler](https://github.com/jwheeler27)
 - Andrew Gao
 - Saish Reddy Komalla
+- jokubas
 - Jerry B
 - [Sweta Kabi] (https://github.com/sweta98)
 - [Jessica Wadsworth] (https://github.com/jessicalorenac)
