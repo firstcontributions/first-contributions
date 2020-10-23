@@ -7212,3 +7212,4 @@ erdem yigitoglu
 - [Lucas Alves Teixeira](https://github.com/lat94)
 - [Samantha B <3]
 - [Fajar Muzaky](https://github.com/fajarmzky)
+- [Zhanat Mambetbayeva](https://github.com/ZhanatM)
