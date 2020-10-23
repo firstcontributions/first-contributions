@@ -100,6 +100,7 @@
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
 - [oonoo](https://github.com/oonoo)
+- [askorykh](https://github.com/askorykh)
 - [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
 - chenniferann
