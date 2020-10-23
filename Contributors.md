@@ -100,6 +100,7 @@
 - [rorondre](https://github.com/rorondre)
 - [Mito6211](https://github.com/Mito6211)
 - [nakanaori] (https://github.com/nakanaori)
+- [kundra] (https://github.com/kundra)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
 - [Prats](https://github.com/pratskalive08)
 - [12q1](https://github.com/12q1)
