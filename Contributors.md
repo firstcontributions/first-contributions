@@ -6321,6 +6321,7 @@
 - [kshida](https://github.com/kshida)
 - [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
+- [Aditya Kumar Singh](https://github.com/adikrs)
 - [Eric Deering](https://github.com/Strahlend)
 - [Nidhi Zare](https://github.com/nzare)
 - [Azhad Ghufran](https://github.com/Azhad56)
