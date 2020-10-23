@@ -1,5 +1,5 @@
 # Contributors
-
+ - [Rachana Bhalsing](https://github.com/rachanb)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Shane O'Moore](https://github.com/shaneiadt)
 - [Abdul Rafay](https://github.com/abdulrafay02)
@@ -11,6 +11,7 @@
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Marian Watson](https://github.com/marianwatson)
 - [Yash Hiran] (https://github.com/YashHiran)
+- [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
@@ -96,11 +97,13 @@
 - [vaibhav chandra] (https://github.com/vaibhavviking)
 - fanyCaz
 - [sillybot](https://github.com/sillybot)
+- [oonoo](https://github.com/oonoo)
 - [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
 - chenniferann
 - gamesMum
 - [realrahnama](https://github.com/realrahnama)
+- [gulshan](https://github.com/gulshankk)
 - [Aditya Sriram] (https://github.com/aweditya)
 - gargi
 - Mayank Kinger
