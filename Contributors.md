@@ -370,6 +370,7 @@
 - [Ana Carolina Arellano](https://github.com/anacarolinaarellano)
 - [Daniel Reyes Arguelles](https://github.com/DaniArguelles)
 - [Dani0406](https://github.com/Dani0460)
+- [Jinal Patel](https://github.com/Jinal7599)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [David Montemayor](https://github.com/DavidAlMove)
 - [Jazael Briones](https://github.com/jazaelbriones)
