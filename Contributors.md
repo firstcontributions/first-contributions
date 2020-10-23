@@ -3138,6 +3138,7 @@
 - [Robert Rauch](https://github.com/RobertRauch)
 - [Zachary Ho](https://github.com/zachy-ho)
 - [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
+- [Tobias Wilfert](https://github.com/tobias-wilfert)
 - [Qursch](https://github.com/Qursch)
 - [Frostack](https://github.com/Frostack)
 - [Fanni Takacs](https://github.com/FanniTakax)
