@@ -437,6 +437,7 @@
 - [Mai Houa Vue](https://github.com/mhvue)
 - [Tejas Bhale](https://github.com/tejasbhale)
 - [Ale F](https://github.com/alefuedev)
+- [700ad](https://github.com/700ad)
 - [Grace Hall](https://github.com/graceful8)
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
