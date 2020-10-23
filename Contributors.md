@@ -149,6 +149,7 @@
 - [Norah Hoang](https://github.com/zuccamia)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Sanjana RP](https://github.com/sanjanarp)
+- [Fehlicks](https://github.com/fehlicks)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [MuthaEarth](https://github.com/muthaearth)
