@@ -1,5 +1,5 @@
 # Contributors
- 
+
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Shane O'Moore](https://github.com/shaneiadt)
 - [Abdul Rafay](https://github.com/abdulrafay02)
@@ -31,7 +31,7 @@
 - [Alex P](https://github.com/papillon7)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
-- Chuch Nichols 
+- Chuch Nichols
 - Alejandro Rodriquez
 - Yedukrishna K R
 - Lloyd Warren (https://github.com/law880)
@@ -45,7 +45,7 @@
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [LFsolar](https://github.com/LFsolar)
 - [Anuj Pandey](https://github.com/anujpandey785)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
@@ -110,8 +110,8 @@
 - agashvaran
 - [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -1871,7 +1871,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
@@ -7209,3 +7209,4 @@ erdem yigitoglu
 - [Lucas Alves Teixeira](https://github.com/lat94)
 - [Samantha B <3]
 - [Fajar Muzaky](https://github.com/fajarmzky)
+- [dng](https://github.com/nm2n)
