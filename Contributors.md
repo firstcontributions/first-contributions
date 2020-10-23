@@ -52,6 +52,7 @@
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
+- Kinjal Rathod
 - Namrata Surve
 - Darshita Kumar (https://github.com/darshita-kumar)
 - ChethanR2711
