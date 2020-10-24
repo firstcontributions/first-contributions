@@ -153,6 +153,7 @@
 - [Savannah Niemeyer](https://github.com/sniemeyer1)
 - [Rohith Ravindranath](https://github.com/rohithravin)
 - [Michael Wilson](https://github.com/WilsonMJ)
+- [Liplan Lekipising](https://github.com/lekipising)
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - [Jatin Rao](https://github.com/jatin2003)
