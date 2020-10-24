@@ -73,6 +73,7 @@
 - Saish Reddy Komalla
 - jokubas
 - Jerry B
+- Mr Mister Meyster
 - [Sweta Kabi] (https://github.com/sweta98)
 - [Jessica Wadsworth] (https://github.com/jessicalorenac)
 - [Ahmad Shaaban] (https://github.com/AhmadShaaban)
