@@ -7205,6 +7205,7 @@
 - [Rishabh Jain](https://github.com/rishabhjain987)
 - [Parishi](https://github.com/p489)
 - [Oshin Kumar](https://github.com/oshin7695)
+- [Saqib Amin](https://github.com/saqibamin257)
 - [YgorLe](https://github.com/YgorLe)
 - [Gangadhar](https://github.com/p489)
 - [Harsh Kumar Gautam](https://github.com/gautam32)
@@ -7250,3 +7251,4 @@ erdem yigitoglu
 - [Silver Gama](https://github.com/silvergama)
 - [Eka Prasetyo](https://github.com/eka0789)
 - [Yudai Kobayashi](https://github.com/Asuha-a)
+
