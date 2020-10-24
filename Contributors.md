@@ -28,6 +28,7 @@
 - CHINTAN PATEL
 - Kash D
 - [opunsoars](https://github.com/opunsoars) was here
+- [Matthew Davenport](https://github.com/davenport1)
 - [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
 - [Ali Shehbaz](https://github.com/alishehbaz)
