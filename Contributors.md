@@ -24,6 +24,7 @@
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [Luis Sosa](https://github.com/sosavle) found this a useful refresher
 - CHINTAN PATEL
+- Kash D
 - [opunsoars](https://github.com/opunsoars) was here
 - [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
