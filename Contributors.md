@@ -9,6 +9,7 @@
 - [Sristy Sharma] (https://github.com/beertocode)
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
+- [Tia Low](https://github.com/TiaLow)
 - AARA
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [gds ghost $udam] (https://github.com/gdsghost)
