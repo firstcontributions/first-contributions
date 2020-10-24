@@ -7248,6 +7248,7 @@ erdem yigitoglu
 - [Leonardo Schmitt](https://github.com/LeonardoSchmittK)
 - [Peter blip](https://github.com/peter-blip/first-contributions)
 - [Lucas Alves Teixeira](https://github.com/lat94)
+- [Spencer Broomhead](https://github.com/FishtheFish)
 - [Samantha B <3]
 - [Fajar Muzaky](https://github.com/fajarmzky)
 - [Zhanat Mambetbayeva](https://github.com/ZhanatM)
