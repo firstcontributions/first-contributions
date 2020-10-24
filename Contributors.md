@@ -75,6 +75,7 @@
 - jokubas
 - Jerry B
 - Mr Mister Meyster
+- Andrew Shum
 - [Sweta Kabi] (https://github.com/sweta98)
 - [Jessica Wadsworth] (https://github.com/jessicalorenac)
 - [Ahmad Shaaban] (https://github.com/AhmadShaaban)
