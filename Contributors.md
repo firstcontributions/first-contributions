@@ -18,6 +18,7 @@
 - [Yash Hiran] (https://github.com/YashHiran)
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
+- [Vinay Kumar](https://github.com/vinayleokumar)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [Luis Sosa](https://github.com/sosavle) found this a useful refresher
