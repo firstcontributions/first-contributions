@@ -184,6 +184,7 @@
 - Minh Le
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Abu Sayed Jobayer](https://github.com/zobay)
+- [ALU Hacktober](https://github.com/ChristineWasike)
 - [Godspower Eze](https://github.com/Godspower-Eze)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
