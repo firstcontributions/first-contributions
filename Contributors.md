@@ -197,6 +197,7 @@
 - [Nicola_Zoboli](https://github.com/NicolaZoboli)
 - [William Zhou](https://github.com/williamzhou8818)
 - [Dhivya](https://github.com/dhivyasreedhar)
+- [Basit](https://github.com/bufftowel)
 - [Rusiru Anupama](https://github.com/sparkstark03)
 - [Bilal Maqsood](https://github.com/bilal9one)
   \_ [Adil Jafar](https://github.com/xcyraxx)
