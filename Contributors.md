@@ -183,6 +183,7 @@
 - [Arisandi](https://github.com/arisandi1)
 - [Felipe Quiros](https://github.com/quirosfelipe)
 - [Stefanny Panameño](https://github.com/stefannypanameno93)
+- [ShubhaIN](https://github.com/ShubhaIn)
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
