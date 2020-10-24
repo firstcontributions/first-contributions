@@ -7252,3 +7252,4 @@ erdem yigitoglu
 - [Silver Gama](https://github.com/silvergama)
 - [Eka Prasetyo](https://github.com/eka0789)
 - [Yudai Kobayashi](https://github.com/Asuha-a)
+- [Thiag](https://github.com/thiagu89)
