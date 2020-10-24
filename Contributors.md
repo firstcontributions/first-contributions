@@ -1,8 +1,9 @@
 # Contributors
 
 - [Harjot Singh](https://github.com/harjotkarwal)
- - [Rachana Bhalsing](https://github.com/rachanb)
- - [Vatana Chhorn](https://github.com/VatanaChhorn)
+- [Faris Aziz](https://github.com/farisaziz12)
+- [Rachana Bhalsing](https://github.com/rachanb)
+- [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Shane O'Moore](https://github.com/shaneiadt)
 - [Abdul Rafay](https://github.com/abdulrafay02)
 - [Matthew Burford] (https://github.com/Mattb709)
