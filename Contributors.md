@@ -7280,6 +7280,7 @@ erdem yigitoglu
 - [Zhanat Mambetbayeva](https://github.com/ZhanatM)
 - [Jibin John]
 - [Silver Gama](https://github.com/silvergama)
+- [Elli-jayne Willard] (https://github.com/ellijayne)
 - [Eka Prasetyo](https://github.com/eka0789)
 - [Yudai Kobayashi](https://github.com/Asuha-a)
 - [Thiag](https://github.com/thiagu89)
