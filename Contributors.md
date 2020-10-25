@@ -6027,6 +6027,7 @@
 - Reuven Sayag
 - [Khushant arora](https://github.com/khushi1234945)
 - Gopal Dasbairagya
+- [Chaitanya Borah](https://github.com/creat-r)
 - [claraki](https://github.com/claraki/)
 - [Hüseyin Dedeoğlu](https://github.com/dedeogluhu)
 - [Sushant Yadav](https://github.com/sushantyadav1)
