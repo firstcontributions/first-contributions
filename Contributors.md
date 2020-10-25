@@ -14,6 +14,7 @@
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
 - AARA
+- [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [gds ghost $udam] (https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
