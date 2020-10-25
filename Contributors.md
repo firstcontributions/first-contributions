@@ -3748,6 +3748,7 @@
 - [Jeuel Gutierrez](https://github.com/jeuel2001)
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Senno Kaasjager](https://github.com/skaasjager)
+- [Jared G](https://github.com/JaredG59)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Tarang Shetkar](https://github.com/tshetkar7)
 - [Sarah Larkworthy](https://github.com/SLarkworthy)
