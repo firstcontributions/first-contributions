@@ -25,6 +25,7 @@
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Vinay Kumar](https://github.com/vinayleokumar)
+- [Cindy Brown](https://github.com/ceeblet)
 - Kashish 2000
 - [Sid Mirza](https://github.com/sidmirza4)
 - [Astralyfuse](https://github.com/Astralyfuse)
