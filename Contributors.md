@@ -7266,3 +7266,4 @@ erdem yigitoglu
 - [Thiag](https://github.com/thiagu89)
 - [Artem p] (https://github.com/Greindes)
 - [maktavish] (https://github.com/maktavish)
+- [samuel0480] (https://github.com/samuel0480)
