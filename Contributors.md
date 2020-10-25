@@ -61,6 +61,7 @@
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [LFsolar](https://github.com/LFsolar)
+- [Nazish Khan] (https://github.com/nazuk27)
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [547y4m](https://github.com/547y4m) 
 - Motunrayo
