@@ -14,6 +14,7 @@
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
+- [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
