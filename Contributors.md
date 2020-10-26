@@ -10,7 +10,7 @@
 - Andrew Gao
 - Saish Reddy Komalla
 - Jerry B
-- [Subhangini](https://github.com/Subhangini)
+- subhangini
 - Gustavo Lozada (https://github.com/GLozada99)
 - Puneet Garg (https://github.com/puneetgarg2601)
 - [Namita](https://github.com/namita2310)
