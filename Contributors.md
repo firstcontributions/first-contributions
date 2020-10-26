@@ -7290,6 +7290,7 @@ erdem yigitoglu
 - [Spencer Broomhead](https://github.com/FishtheFish)
 - [Samantha B <3]
 - [Fajar Muzaky](https://github.com/fajarmzky)
+- [Takae Harrington](https://github.com/takaelucky)
 - [Zhanat Mambetbayeva](https://github.com/ZhanatM)
 - [Jibin John]
 - [Silver Gama](https://github.com/silvergama)
