@@ -1,5 +1,5 @@
-# Contributors
-
+﻿# Contributors
+- [Aditya Rawat](https://github.com/brisingr24)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Harjot Singh](https://github.com/harjotkarwal)
  - [Rachana Bhalsing](https://github.com/rachanb)
