@@ -141,6 +141,7 @@
 - [realrahnama](https://github.com/realrahnama)
 - [gulshan](https://github.com/gulshankk)
 - [Aditya Sriram] (https://github.com/aweditya)
+- [Sopeade Lanlehin] (https://github.com/sopeade)
 - gargi
 - Mayank Kinger
 - [Lary Mak](https://github.com/larymak)
