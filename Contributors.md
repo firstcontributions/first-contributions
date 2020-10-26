@@ -868,6 +868,7 @@
 - [Bahnisikha Dutta](https://github.com/bdutta6)
 - [Dale Palmares](https://github.com/yelaD)
 - Lemon Ruan
+- Rishin
 - [Sumit Heda](https://github.com/hedasumit)
 - [Emma Brown](https://github.com/nworb95)
 - James
