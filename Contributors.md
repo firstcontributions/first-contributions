@@ -6,6 +6,7 @@
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [Aman] (https://github.com)
+- [Harshavardhan I] (https://github.com/harshavardhan-i)
 - [Ashish Burnwal] (https://github.com/ashish1816)
 - [Shane O'Moore](https://github.com/shaneiadt)
 - [Hope Philip](https://github.com/frozenchicken)
