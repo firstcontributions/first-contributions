@@ -4,30 +4,31 @@
 - [Harjot Singh](https://github.com/harjotkarwal)
  - [Rachana Bhalsing](https://github.com/rachanb)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
-- [Haritha Mohan] (https://github.com/harithamohan1)
-- [Aman] (https://github.com)
-- [Harshavardhan I] (https://github.com/harshavardhan-i)
-- [Ashish Burnwal] (https://github.com/ashish1816)
+- [Haritha Mohan](https://github.com/harithamohan1)
+- [Aman](https://github.com)
+- [Harshavardhan I](https://github.com/harshavardhan-i)
+- [Ashish Burnwal](https://github.com/ashish1816)
+- [Big Bob Little](https://github.com/BigBobLittle)
 - [Shane O'Moore](https://github.com/shaneiadt)
 - [Hope Philip](https://github.com/frozenchicken)
 - [Abdul Rafay](https://github.com/abdulrafay02)
-- [Matthew Burford] (https://github.com/Mattb709)
-- [Sristy Sharma] (https://github.com/beertocode)
+- [Matthew Burford](https://github.com/Mattb709)
+- [Sristy Sharma](https://github.com/beertocode)
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
-- [Khalid Francis] (https://github.com/KHALIDFRANCIS)
+- [Khalid Francis](https://github.com/KHALIDFRANCIS)
 - AARA
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
-- [gds ghost $udam] (https://github.com/gdsghost)
+- [gds ghost $udam](https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Dmitry S](https://github.com/Dmitry-Sm)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
 - [Marian Watson](https://github.com/marianwatson)
 - [Julio Añoveros](https://github.com/jubaan)
-- [Yash Hiran] (https://github.com/YashHiran)
-- [Oumaima Makhlouk] (https://github.com/oumaima12)
+- [Yash Hiran](https://github.com/YashHiran)
+- [Oumaima Makhlouk](https://github.com/oumaima12)
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Vinay Kumar](https://github.com/vinayleokumar)
@@ -39,7 +40,7 @@
 - [Luis Sosa](https://github.com/sosavle) found this a useful refresher
 - CHINTAN PATEL
 - Kash D
-- [berkaykarlik] (https://github.com/berkaykarlik)
+- [berkaykarlik](https://github.com/berkaykarlik)
 - [Sharmila Siram](https://github.com/sharmila02)
 - [opunsoars](https://github.com/opunsoars) was here
 - [Matthew Davenport](https://github.com/davenport1)
@@ -50,7 +51,7 @@
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [Furuikeya](https://github.com/Furuikeya)
 - [Yifei Wang](https://github.com/xsxszab) lol
-- [waterL] (https://github.com/0529bill)
+- [waterL](https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - [this is where i have entered a sentence] reddy
 - [Framorac Is Here](https://github.com/framorac)
