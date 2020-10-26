@@ -66,6 +66,7 @@
 - Hyma Malladi
 - Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
+- [Timothy Liau](https://github.com/timliau)
   [Filza zarin](https://github.com/Filzazarin)
   [Çağrı Kızılkan](https://github.com/cgrkzlkn)
   [Chamika Visal](https://github.com/chamikaVisal)
