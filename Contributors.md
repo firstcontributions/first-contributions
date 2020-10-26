@@ -5314,6 +5314,7 @@
 - [finicu](https://github.com/finicu212)
 - [Shreyash Phakade Pawar](https://github.com/Observert)
 - [Allen Shin](https://github.com/geeuho)
+- [Shefali Rai](https://github.com/shefalirai7)
 - [Yulian Karapetkov](https://github.com/yuliankarapetkov)
 - [Gustavo Maeda](https://github.com/nihil1911)
 - [Amos Mwangi](https://github.com/AmosMwangi)
