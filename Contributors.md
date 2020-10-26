@@ -3765,6 +3765,7 @@
 - [Nitin Yadav](https://github.com/nitinyy)
 - [trysh](https://github.com/trysh)
 - [HerbHall](https://github.com/HerbHall)
+- [Ivan J.](https://github.com/IvanJoskic)
 - [Dean Huynh](https://github.com/deanhuynh)
 - [Aryaman Parekh](https://github.com/aparekh5)
 - [Archie Buck](https://github.com/psibuck)
