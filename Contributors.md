@@ -90,6 +90,7 @@
 - ChethanR2711
 -Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
+- [Bimal Singh](https://github.com/starkk242)
 - [Parthit Patel](https://github.com/parthit)
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
