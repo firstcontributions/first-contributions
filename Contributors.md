@@ -88,6 +88,7 @@
 - ChethanR2711
 -Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
+- [Parthit Patel](https://github.com/parthit)
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
 - [Utkarsh Agarwal](https://github.com/UtkarshA135)
