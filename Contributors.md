@@ -8,6 +8,7 @@
 - [Aman] (https://github.com)
 - [Ashish Burnwal] (https://github.com/ashish1816)
 - [Shane O'Moore](https://github.com/shaneiadt)
+- [Hope Philip](https://github.com/frozenchicken)
 - [Abdul Rafay](https://github.com/abdulrafay02)
 - [Matthew Burford] (https://github.com/Mattb709)
 - [Sristy Sharma] (https://github.com/beertocode)
