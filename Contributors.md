@@ -27,6 +27,7 @@
 - [Marian Watson](https://github.com/marianwatson)
 - [Julio Añoveros](https://github.com/jubaan)
 - [Yash Hiran] (https://github.com/YashHiran)
+- [Oumaima Makhlouk] (https://github.com/oumaima12)
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Vinay Kumar](https://github.com/vinayleokumar)
