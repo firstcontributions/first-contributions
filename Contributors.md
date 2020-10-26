@@ -1,9 +1,10 @@
 # Contributors
 
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
-- [Harjot Singh](https://github.com/harjotkarwal)
- - [Rachana Bhalsing](https://github.com/rachanb)
- - [Vatana Chhorn](https://github.com/VatanaChhorn)
+- [Harjot Singh](https://github.com/harjotkarwal) 
+- [Pramod Rao Budramane](https://github.com/PramodRaoB)
+- [Rachana Bhalsing](https://github.com/rachanb)
+- [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [Aman] (https://github.com)
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
