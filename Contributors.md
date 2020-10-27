@@ -7312,6 +7312,7 @@ erdem yigitoglu
 - [maktavish] (https://github.com/maktavish)
 - [samuel0480] (https://github.com/samuel0480)
 - [MonkBilal]  (https://github.com/MonkBilal)
+- [Elaina Richard](https://github.com/ekrichard)
 - [Matthew](https://github.com/matthewpalmer9)
 - [Sgarg]  (https://github.com/sgarg24)
 - [ganeshrahul23] (https://github.com/ganeshrahul23)
