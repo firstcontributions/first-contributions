@@ -1363,6 +1363,7 @@
 - Archana Dhaker
 - Infamous Bolt
 - [GhostUser](https://github.com/GhostUser)
+- [Sathish Kumar](https://github.com/kumarsathishc)
 - [0ver3inker](https://github.com/OverthinkersArea)
 - [Manik Chauhan](https://github.com/Manik-Chauhan)
 - [Tanweer Ali](https://github.com/tanweeralii)
