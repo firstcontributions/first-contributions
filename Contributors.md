@@ -1971,6 +1971,7 @@
 - [Arup Sengupta](https://github.com/arupsengupta)
 - [Ryan Lee](https://github.com/RyanzpLee/ryanzplee.com)
 - [Michael Remolif](https://github.com/wootr0p)
+- [Alberto Remoto](https://github.com/remotain)
 - [Zack McKenna](https://github.com/zackmckenna)
 - [Zain Jandali](https://github.com/zjandali)
 - [Nour Khedr](https://github.com/nkhedr1)
