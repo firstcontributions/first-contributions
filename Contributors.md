@@ -70,7 +70,8 @@
 - Chuch Nichols 
 - Alejandro Rodriquez
 - Ingrid Marcal
-- Yedukrishna K R
+- Yedukrishna K 
+- Shubhra Jyoti(https://github.com/Shubhraaa)
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
 - Rebecca Camejo (https://github.com/rcamejo01)
