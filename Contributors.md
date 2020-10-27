@@ -1274,6 +1274,7 @@
 - [Sachin Kumar](https://github.com/sachin161kr)
 - [Rujul Patel](https://github.com/Rujul-Patel)
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
+- [Sasmitha Athige](https://github.com/piyasith/)
 - [Ujjwal Kumar](https://github.com/ujjwal-kr)
 - [Shreya Modi](https://github.com/shreyamodi1999/)
 - [Nikunj Das Kasat](https://github.com/nikunjdk)
