@@ -10,6 +10,7 @@
  - [Rachana Bhalsing](https://github.com/rachanb)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Haritha Mohan] (https://github.com/harithamohan1)
+- [EllaCherrystone]
 - [Aman] (https://github.com)
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
