@@ -1076,6 +1076,7 @@
 - [Varshit Sindhu](https://github.com/varshitchoudhary100)
 - [Henrik de Jounge](https://github.com/hdejounge)
 - [Carlos Cornejo](https://github.com/carloantoniocc)
+- [Adam Brikman] (https://github.com/adambrikman)
 - [Laurel Verma](https://github.com/1laurelverma)
 - [Theologos Baxevanos](https://github.com/greatmerlin)
 - [Swayam Kaul](https://github.com/swayamkaul)
