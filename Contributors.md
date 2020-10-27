@@ -1,6 +1,7 @@
 # Contributors
 
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- [Asif Akhtar](https://github.com/imasifakhtar)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
 - Pallavi Dhotre
 - [Heather Piverotto] (https://github.com/Heather1337)
