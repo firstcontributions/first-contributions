@@ -626,6 +626,7 @@
 - [Siddharth Mohanty](https://github.com/siddharth-fortex)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Michela Leuzzi](https://github.com/Hutcheeran)
+- [Amit Samanta](https://github.com/amitsamanta2307)
 - [Kyara van Putten](https://github.com/Kiralinn)
 - [Manvi Goel](https://github.com/ManviGoel26)
 - [Cassidy Skorczewski](https://github.com/cskor)
