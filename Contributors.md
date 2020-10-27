@@ -83,7 +83,8 @@
 - [Nazish Khan] (https://github.com/nazuk27)
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [Harry Silman](https://github.com/hsilman/)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
+- [atharvaj77](https://github.com/atharvaj77) 
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
