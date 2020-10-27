@@ -186,6 +186,7 @@
 - [Space Slayer](https://github.com/spaceslayer)
 - [Crystal Shardz](https://github.com/CrystalShardz)
 - N Maiya
+- [Roi](https://github.com/roi972/)
 - hoovks
 - [Muhammed Sabah](https://github.com/mhdsabah)
 - Sylints
