@@ -7330,3 +7330,4 @@ erdem yigitoglu
 - [Deron Dantzler] (https://github.com/ddantzler)
 - [Nam Nguyen](https://github.com/nnhatnam)
 - [Ashok Manghat](https://github.com/ashokmanghat)
+- [Andrey Solodov](https://github.com/solodov-dev)
