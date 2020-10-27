@@ -28,7 +28,7 @@
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
 - [Candice Peters](https://github.com/cep104)
--[Trishita Pingolia](http://github.com/trishitapingolia)
+- [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
