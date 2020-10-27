@@ -1,5 +1,6 @@
 # Contributors
 
+- [David Mayevsky] (https://github.com/dmayevsky)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
 - Pallavi Dhotre
