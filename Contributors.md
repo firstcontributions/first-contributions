@@ -13,6 +13,7 @@
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
 - [Ashish Burnwal] (https://github.com/ashish1816)
 - [Shane O'Moore](https://github.com/shaneiadt)
+-[Vibhuti Kathuria] (https://github.com/vibhutikathuria)
 - [Hope Philip](https://github.com/frozenchicken)
 - [Abdul Rafay](https://github.com/abdulrafay02)
 - [Matthew Burford] (https://github.com/Mattb709)
