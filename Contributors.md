@@ -1233,6 +1233,7 @@
 - [Manthan Mitesh Tolia](https://github.com/manny525)
 - [Aditya Manchanda](https://github.com/Aditya-1500)
 - [Divyansha Sharma](https://github.com/divyanshasharma)
+- [Alex Muñoz](https://github.com/AlexMunozPino)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Shristi Singh](https://github.com/confusedcoder1)
 - [Shravya Mallya](https://github.com/ShravyaMallya)
