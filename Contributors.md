@@ -1,6 +1,7 @@
 # Contributors
 
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
  - [Rachana Bhalsing](https://github.com/rachanb)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
