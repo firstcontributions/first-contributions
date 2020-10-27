@@ -1,5 +1,6 @@
 # Contributors
 
+- [G2048](https://github.com/G2048)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Harjot Singh](https://github.com/harjotkarwal)
  - [Rachana Bhalsing](https://github.com/rachanb)
@@ -7307,4 +7308,3 @@ erdem yigitoglu
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
 - [Prasad(https://github.com/prasadekke)
 - [Stanley](https://github.com/stanleyleemcsun)
-- [G2048](https://github.com/G2048)
