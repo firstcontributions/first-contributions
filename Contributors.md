@@ -116,6 +116,7 @@
 - Saish Reddy Komalla
 - jokubas
 - Jerry B
+- [Nathan N](https://github.com/NathanNgoy)
 - Mr Mister Meyster
 - Andrew Shum
 - [Sweta Kabi] (https://github.com/sweta98)
