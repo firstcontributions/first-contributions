@@ -977,6 +977,7 @@
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Abhishek Rai](https://github.com/Abhishek172)
 - [Ruju Jambusaria](https://github.com/rujuj)
+- Swoutch
 - [Jai Solanki](https://github.com/jaiksolanki)
 - [Lisa Liu](https://github.com/lisaliu2020)
 - [Nicolas Becker](https://github.com/ncbecker)
