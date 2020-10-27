@@ -27,6 +27,7 @@
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
+- [Candice Peters](https://github.com/cep104)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
