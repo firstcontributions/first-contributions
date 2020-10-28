@@ -13,6 +13,8 @@
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
  -[Debaghosh](https://github.com/debaghosh)
 - [Haritha Mohan] (https://github.com/harithamohan1)
+- [Nandini Verma](https://github.com/NVSUCCESS)
+- Nandini Verma
 - [EllaCherrystone]
 - [Aman] (https://github.com)
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
