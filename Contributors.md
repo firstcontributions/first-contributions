@@ -3,6 +3,7 @@
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Amandou] (https://github.com/amandou)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- Alok Awasthi
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
 - Pallavi Dhotre
