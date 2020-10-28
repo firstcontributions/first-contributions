@@ -7190,6 +7190,7 @@
 - [Rohit Singh](https://github.com/rohitgit1)
 - [Dominic Gada](https://github.com/DomGada)
 - [Kevin Chen](https://github.com/kevin3227)
+- [Jaden Jorradol](https://github.com/jDerp)
 - [Karoline Suzuki](https://github.com/suzukikarol)
 - [Yusuke](https://github.com/yusuke99)
 - [serverglen](https://github.com/serverglen)
