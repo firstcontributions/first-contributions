@@ -56,6 +56,7 @@
 - [Sid Mirza](https://github.com/sidmirza4)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
+- [Christian Lao](https://github.com/christianlao12)
 - [Luis Sosa](https://github.com/sosavle) found this a useful refresher
 - CHINTAN PATEL
 - Kash D
