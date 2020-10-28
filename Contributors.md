@@ -102,6 +102,7 @@
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
 - Kinjal Rathod
+- [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
 - Darshita Kumar (https://github.com/darshita-kumar)
