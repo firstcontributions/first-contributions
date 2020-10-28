@@ -16,6 +16,7 @@
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [EllaCherrystone]
 - [Aman] (https://github.com)
+- [Muhi-Dean Othman] (https://github.com/mdothman)
 - [Manash Khamari](https://github.com/manash-ranjan-khamari)
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
