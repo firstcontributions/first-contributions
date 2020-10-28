@@ -24,12 +24,14 @@
 - [Abdul Rafay](https://github.com/abdulrafay02)
 - [Matthew Burford] (https://github.com/Mattb709)
 - [Sristy Sharma] (https://github.com/beertocode)
+[Mani]
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
 - [Candice Peters](https://github.com/cep104)
+- [Sushant Gnawali](https://github.com/RS2-CN3)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
@@ -92,6 +94,7 @@
 - [LFsolar](https://github.com/LFsolar)
 - [Nazish Khan] (https://github.com/nazuk27)
 - [Anuj Pandey](https://github.com/anujpandey785)
+- [Adarsh Kumar](https://github.com/adarsh115)
 - [Harry Silman](https://github.com/hsilman/)
 - [547y4m](https://github.com/547y4m)
 - [atharvaj77](https://github.com/atharvaj77) 
@@ -99,6 +102,7 @@
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
 - Kinjal Rathod
+- [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
 - Darshita Kumar (https://github.com/darshita-kumar)
@@ -107,6 +111,7 @@
 -Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
 - [Bimal Singh](https://github.com/starkk242)
+- [Shane Kohler](https://github.com/frosty151)
 - [Parthit Patel](https://github.com/parthit)
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
@@ -7357,4 +7362,6 @@ erdem yigitoglu
 - [Rajiv Mishra](https://github.com/rajivmishra10)
 - [Leon Kremer] (https://github.com/leokre)
 - [neyogiry](https://github.com/neyogiry)
+- [nimagna](https://github.com/nimagnaH)
+- [肖亚飞](https://github.com/xiaoyafei)
 - [Jamilu Salisu](https://github.com/jamilusalis)
