@@ -6864,6 +6864,7 @@
 - [Jessica Kenel](https://github.com/jeshicat)
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
 - [Aviral Agarwal](https://github.com/Avr8)
+- [Ravi Chaturvedi](https://github.com/ravicii)
 - [fatik07](https://github.com/fatik07)
 - [Aman Agarwal](https://github.com/aman190202)
 - [Mahendra Reddy](https://github.com/reddymahendra52)
