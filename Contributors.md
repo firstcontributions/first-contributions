@@ -9,6 +9,7 @@
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [David Martinez](https://github.com/davidmartinezfl)
 - AARA
+- [Aidan Simard](https://github.com/Aidan-Simard)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
