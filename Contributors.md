@@ -4840,6 +4840,7 @@
 - [EricWang](https://github.com/bigbigDreamer)
 - [Mrigank Dembla](https://github.com/mrigankdembla/)
 - [Josh Prakke](https://github.com/JPrakke)
+- [Sangeeth Raj](https://github.com/SangeethRaajA)
 - [Dmitry Cherednikov](https://github.com/dcherednikov)
 - [Anna Dunster 🐲](https://github.com/ardunster)
 - [Venu](https://github.com/venuDev)
