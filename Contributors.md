@@ -191,7 +191,7 @@
 - ShashiW
 - Jaisai Kuntala
 - [Prithvi Singh](https://github.com/prithvi840)
-- [Claudio holanda](github.com/macindex/)
+- [Claudio holanda](https://github.com/macindex/)
 - [Rohit Mehta ✌](https://github.com/mehtaRohit)
 - [Matheus Elyasha was here!](https://github.com/elyasah)
 - Ananjaya
@@ -304,7 +304,7 @@
 - [Joey Cheng](https://github.com/joey3662)
 - [Pritam Dhara](https://github.com/hDmtP)
 - [Hadramet Sylla](https://github.com/Hadramet)
-- [Amarpreet Singh](https//github.com/Ampit)
+- [Amarpreet Singh](https://github.com/Ampit)
 - [Sowmya M](https://github.com/Sowmya7501)
 - [Melinda Diaz](https://github.com/melindadiaz07)
 - [Tim Windhorst](https://github.com/atimw)
@@ -7369,3 +7369,4 @@ erdem yigitoglu
 - [nimagna](https://github.com/nimagnaH)
 - [肖亚飞](https://github.com/xiaoyafei)
 - [Marc Radziwill](https://github.com/marcradziwill)
+- [Ayush_Kaushik](https://github.com/Ayush-Kaushik)
