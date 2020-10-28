@@ -31,6 +31,7 @@
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
 - [Candice Peters](https://github.com/cep104)
+- [Manoj Adhikari](https://github.com/jonamadk)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
