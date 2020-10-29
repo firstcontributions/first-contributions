@@ -145,6 +145,7 @@
 - [James O'Meara](https://github.com/Jamesomeara93)
 - [Tvarita Jain](https://github.com/tvarrr)
 - Gustavo Lozada (https://github.com/GLozada99)
+- Ademola Arigbabuwo (https://github.com/ademolaari)
 - Puneet Garg (https://github.com/puneetgarg2601)
 - Debobrata Bose (https://github.com/debobrata82)
 - [Namita](https://github.com/namita2310)
