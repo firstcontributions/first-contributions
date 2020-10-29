@@ -16,6 +16,7 @@
  -[Debaghosh](https://github.com/debaghosh)
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [EllaCherrystone]
+- [Silvia Candia] (https://github.com/Silvia-Candia)
 - [Christopher Oliner] (https://github.com/coliner300)
 - [Aman] (https://github.com)
 - [Abhishek] (https://github.com/a-1043161)
