@@ -6,6 +6,7 @@
 - [Amandou] (https://github.com/amandou)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
+- Bryce Videka
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
