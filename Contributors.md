@@ -4513,6 +4513,7 @@
 - [Peter Zinkovsky](https://github.com/peterz3)
 - [Nik Lutzenhiser](https://github.com/Smokstak)
 - [Jan Biardzki](https://github.com/yanchesky/)
+- [Daniel Sanandaji](https://github.com/DanielSanandaji)
 - [Henrique Resende](https://github.com/HenryXV)
 - [Joan Antoni RE](https://github.com/jotare)
 - [Ankramoon 🦊️😎️🐺️](https://github.com/Ankramoon)
