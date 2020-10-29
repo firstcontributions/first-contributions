@@ -42,6 +42,7 @@
 - [Jake Thomas] (https://github.com/jakesock)
 - [Candice Peters](https://github.com/cep104)
 - [Manoj Adhikari](https://github.com/jonamadk)
+- [Wildan Bash](https://github.com/wildanbash)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
