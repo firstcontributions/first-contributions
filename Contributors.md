@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rik Kraan] (https://github.com/rikkraanvantage)
+- [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Amandou] (https://github.com/amandou)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
