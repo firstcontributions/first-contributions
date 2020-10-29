@@ -58,7 +58,7 @@ git checkout -b add-alonzo-church
 ## ਜ਼ਰੂਰੀ ਤਬਦੀਲੀਆਂ ਕਰੋ ਅਤੇ ਉਨ੍ਹਾਂ ਬਦਲਾਵਾਂ ਨੂੰ ਪ੍ਰਤੀਬੱਧ ਕਰੋ
 ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿੱਚ `Contributors.md` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿੱਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ। ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ।
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 ਜੇ ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਡਾਇਰੈਕਟਰੀ ਤੇ ਜਾਂਦੇ ਹੋ ਅਤੇ `git status` ਕਮਾਂਡ ਚਲਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਦੇਖੋਗੇ ਕਿ ਬਦਲਾਅ ਹਨ।
 
