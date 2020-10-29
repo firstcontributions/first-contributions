@@ -9,10 +9,11 @@
 - Pallavi Dhotre
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
- - [Rachana Bhalsing](https://github.com/rachanb)
+- [Rachana Bhalsing](https://github.com/rachanb)
 - [Cihan Orhan](https://github.com/cihanorhan)
- - [Vatana Chhorn](https://github.com/VatanaChhorn)
- -[Debaghosh](https://github.com/debaghosh)
+- [Kaustubh Verma](https://github.com/mekaustubh28)
+- [Vatana Chhorn](https://github.com/VatanaChhorn)
+- [Debaghosh](https://github.com/debaghosh)
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [EllaCherrystone]
 - [Christopher Oliner] (https://github.com/coliner300)
@@ -23,7 +24,7 @@
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
 - [Ashish Burnwal] (https://github.com/ashish1816)
 - [Shane O'Moore](https://github.com/shaneiadt)
--[Vibhuti Kathuria] (https://github.com/vibhutikathuria)
+- [Vibhuti Kathuria] (https://github.com/vibhutikathuria)
 - [Hope Philip](https://github.com/frozenchicken)
 - [Abdul Rafay](https://github.com/abdulrafay02)
 - [Matthew Burford] (https://github.com/Mattb709)
