@@ -35,6 +35,7 @@
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
 - [Douglas McWherter] (https://github.com/teserve)
+- [Jake Thomas] (https://github.com/jakesock)
 - [Candice Peters](https://github.com/cep104)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
