@@ -7199,6 +7199,7 @@
 - [Nicholas Aliabadi](https://aliabadi.github.io)
 - [macrohumanity](https://github.com/macrohumanity)
 - [Alex Yuan](https://github.com/aycer25)
+- [Eben Whitney](https://github.com/eawhitney)
 - [foxfromworld](https://github.com/foxfromworld)
 - [Rohit Singh](https://github.com/rohitgit1)
 - [Dominic Gada](https://github.com/DomGada)
