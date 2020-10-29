@@ -9,6 +9,7 @@
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
+- Juhi Kushwah (https://github.com/juhikushwah)
 - Pallavi Dhotre
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
