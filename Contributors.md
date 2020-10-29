@@ -9,6 +9,7 @@
 - Pallavi Dhotre
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
+- [Paul Killian](https://github.com/PaulKillian)
  - [Rachana Bhalsing](https://github.com/rachanb)
 - [Cihan Orhan](https://github.com/cihanorhan)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
@@ -80,10 +81,10 @@
 - [Alex P](https://github.com/papillon7)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
-- Chuch Nichols 
+- Chuch Nichols
 - Alejandro Rodriquez
 - Ingrid Marcal
-- Yedukrishna K 
+- Yedukrishna K
 - Shubhra Jyoti(https://github.com/Shubhraaa)
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
@@ -103,7 +104,7 @@
 - [Adarsh Kumar](https://github.com/adarsh115)
 - [Harry Silman](https://github.com/hsilman/)
 - [547y4m](https://github.com/547y4m)
-- [atharvaj77](https://github.com/atharvaj77) 
+- [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
@@ -191,8 +192,8 @@
 - [Carl Sciz](https://github.com/carlsciz)
 - [Abhijeet Mahapatra](https://github.com/Abhi-1001)
 - [Nicolas M. Pardo](https://github.com/nikodermus)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -688,7 +689,7 @@
 - [Laura Ross](https://github.com/laura-ross/)
 - [Cari Gan](https://github.com/cariygan)
 - [Sulphur1010](https://github.com/sulphur1010)
-- [Jason Massey](https://github.com/jmasseyut) 
+- [Jason Massey](https://github.com/jmasseyut)
 - [Theresa Cho](https://github.com/tcho6319)
 - [Gerardo Jr. Abantao](https://github.com/GerardoUbuntu)
 - [Anand Kumar](https://github.com/Anandsharmak/)
@@ -1987,7 +1988,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
