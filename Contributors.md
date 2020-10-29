@@ -5,6 +5,7 @@
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
 - [Asif Akhtar](https://github.com/imasifakhtar)
+- [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
 - Pallavi Dhotre
 - [Heather Piverotto] (https://github.com/Heather1337)
