@@ -34,6 +34,7 @@
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
+- [Douglas McWherter] (https://github.com/teserve)
 - [Candice Peters](https://github.com/cep104)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
