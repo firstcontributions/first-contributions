@@ -1,3 +1,8 @@
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 # ਪਹਿਲਾ ਯੋਗਦਾਨ
 
 ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਉਦੇਸ਼ ਸ਼ੁਰੂਆਤੀ ਲੋਕਾਂ ਦਾ ਆਪਣਾ ਪਹਿਲਾ ਯੋਗਦਾਨ ਪਾਉਣ ਦੇ ਕਮ ਨੂੰ ਸਰਲ ਬਣਾਉਣ ਅਤੇ ਮਾਰਗਦਰਸ਼ਨ ਕਰਨਾ ਹੈ। ਜੇ ਤੁਸੀਂ ਆਪਣਾ ਪਹਿਲਾ ਯੋਗਦਾਨ ਪਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਹੇਠਾਂ ਦਿੱਤੇ ਕਦਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ।
@@ -13,36 +18,34 @@
 ## ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਕਲੋਨ ਕਰੋ
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-ਹੁਣ ਆਪਣੀ ਮਸ਼ੀਨ ਤੇ ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਕਲੋਨ ਕਰੋ। ਆਪਣੇ ਗੀਟਹਬ ਅਕਾਉਂਟ ਤੇ ਜਾਓ, ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਖੋਲ੍ਹੋ, ਕੋਡ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਫਿਰ ਕਲਿੱਪਬੋਰਡ ਆਈਕਨ ਤੇ ਕਾਪੀ ਕਲਿੱਕ ਕਰੋ.
+ਹੁਣ ਆਪਣੀ ਮਸ਼ੀਨ ਤੇ ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਕਲੋਨ ਕਰੋ। ਆਪਣੇ ਗਿਟ-ਹਬ ਅਕਾਉਂਟ ਤੇ ਜਾਓ, ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਖੋਲ੍ਹੋ, ਕੋਡ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਫਿਰ ਕਲਿੱਪਬੋਰਡ ਆਈਕਨ ਤੇ ਕਾਪੀ ਕਲਿੱਕ ਕਰੋ.
 ਇੱਕ ਟਰਮੀਨਲ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਲੀ ਗਿਟ ਕਮਾਂਡ ਚਲਾਓ:
 
 ```
 git clone "ਯੂ.ਆਰ.ਐਲ ਜੇੈਕਰ ਤੁਸੀਂ ਹੁਣੇ ਨਕਲ ਕੀਤੀ"
 ```
 
-ਜਿੱਥੇ “url you just copy of” (ਹਵਾਲਾ ਨਿਸ਼ਾਨਾਂ ਤੋਂ ਬਿਨਾਂ) ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ url ਹੈ (ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਤੁਹਾਡਾ ਕਾਂਟਾ) Url ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਪਿਛਲੇ ਕਦਮ ਵੇਖੋ.
+ਜਿੱਥੇ “ਯੂ.ਆਰ.ਐਲ ਜੇੈਕਰ ਤੁਸੀਂ ਹੁਣੇ ਨਕਲ ਕੀਤੀ” (ਹਵਾਲਾ ਨਿਸ਼ਾਨਾਂ ਤੋਂ ਬਿਨਾਂ) ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਯੂ.ਆਰ.ਐਲ ਹੈ (ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਤੁਹਾਡਾ ਫੋਰਕ)। ਯੂ.ਆਰ.ਐਲ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਪਿਛਲੇ ਕਦਮ ਵੇਖੋ।
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ਉਦਾਹਰਣ ਲਈ:
-
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-ਜਿੱਥੇ `ਇਹ ਹੈ-ਤੁਸੀਂ- ਤੁਹਾਡਾ GitHub ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਹੈ. ਇੱਥੇ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿ computerਟਰ ਤੇ ਗੀਟਹਬ ਉੱਤੇ ਪਹਿਲੇ-ਯੋਗਦਾਨ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਭਾਗਾਂ ਦੀ ਨਕਲ ਕਰ ਰਹੇ ਹੋ.
+ਜਿੱਥੇ `this-is-you`  ਤੁਹਾਡਾ ਗਿਟ-ਹਬ ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਹੈ। ਇੱਥੇ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਤੇ ਗਿਟ-ਹਬ ਉੱਤੇ ਪਹਿਲੇ-ਯੋਗਦਾਨ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਭਾਗਾਂ ਦੀ ਨਕਲ ਕਰ ਰਹੇ ਹੋ.
 
 ## ਇੱਕ ਸ਼ਾਖਾ ਬਣਾਓ
-
-ਆਪਣੇ ਕੰਪਿ computerਟਰ ਉੱਤੇ ਰਿਪੋਜ਼ਟਰੀ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਬਦਲੋ (ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਨਹੀਂ ਹੋ):
+ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਰਿਪੋਜ਼ਟਰੀ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਬਦਲੋ (ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਨਹੀਂ ਹੋ):
 
 ```
 cd first-contributions
 ```
 
-ਹੁਣ `git ਚੈੱਕਆਉਟ` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬ੍ਰਾਂਚ ਬਣਾਓ:
+ਹੁਣ `git checkout` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸ਼ਾਖਾ ਬਣਾਓ:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b ਤੁਹਾਡਾ-ਨਵੀਂ-ਸ਼ਾਖਾ-ਦਾ-ਨਾਮ
 ```
 
 ਉਦਾਹਰਣ ਲਈ:
@@ -51,17 +54,16 @@ git checkout -b your-new-branch-name
 git checkout -b add-alonzo-church
 ```
 
-(ਸ਼ਾਖਾ ਦੇ ਨਾਮ ਨੂੰ ਇਸ ਵਿਚ _ ਐਡ_ ਸ਼ਬਦ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੈ, ਪਰ ਇਹ ਸ਼ਾਮਲ ਕਰਨਾ ਇਕ ਵਾਜਬ ਚੀਜ਼ ਹੈ ਕਿਉਂਕਿ ਇਸ ਸ਼ਾਖਾ ਦਾ ਉਦੇਸ਼ ਤੁਹਾਡੇ ਨਾਮ ਨੂੰ ਇਕ ਸੂਚੀ ਵਿਚ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ.)
+(ਸ਼ਾਖਾ ਦੇ ਨਾਮ ਨੂੰ ਇਸ ਵਿਚ _add_ ਸ਼ਬਦ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੈ, ਪਰ ਇਹ ਸ਼ਾਮਲ ਕਰਨਾ ਇਕ ਵਾਜਬ ਚੀਜ਼ ਹੈ ਕਿਉਂਕਿ ਇਸ ਸ਼ਾਖਾ ਦਾ ਉਦੇਸ਼ ਤੁਹਾਡੇ ਨਾਮ ਨੂੰ ਇਕ ਸੂਚੀ ਵਿਚ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ.)
 
 ## ਜ਼ਰੂਰੀ ਤਬਦੀਲੀਆਂ ਕਰੋ ਅਤੇ ਉਨ੍ਹਾਂ ਬਦਲਾਵਾਂ ਨੂੰ ਪ੍ਰਤੀਬੱਧ ਕਰੋ
-
-ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿੱਚ `ਕੰਟਰੀਬਿorsਟਰਜ਼.ਐਮਡੀ` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿੱਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ. ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ.
+ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿੱਚ `Contributors.md` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿੱਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ। ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ।
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
-ਜੇ ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਡਾਇਰੈਕਟਰੀ ਤੇ ਜਾਂਦੇ ਹੋ ਅਤੇ `git ਸਥਿਤੀ` ਕਮਾਂਡ ਚਲਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਦੇਖੋਗੇ ਕਿ ਬਦਲਾਅ ਹਨ.
+ਜੇ ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਡਾਇਰੈਕਟਰੀ ਤੇ ਜਾਂਦੇ ਹੋ ਅਤੇ `git status` ਕਮਾਂਡ ਚਲਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਦੇਖੋਗੇ ਕਿ ਬਦਲਾਅ ਹਨ।
 
-ਬ੍ਰਾਂਚ ਵਿੱਚ ਉਹ ਬਦਲਾਵ ਸ਼ਾਮਲ ਕਰੋ ਜੋ ਤੁਸੀਂ ਹੁਣੇ created git add` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬਣਾਈ ਹੈ:
+ਸ਼ਾਖਾ ਵਿੱਚ ਉਹ ਬਦਲਾਵ ਸ਼ਾਮਲ ਕਰੋ ਜੋ ਤੁਸੀਂ ਹੁਣੇ created git add` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬਣਾਈ ਹੈ:
 
 ```
 git add Contributors.md
@@ -109,7 +111,7 @@ git push origin <add-your-branch-name>
 
 ### [ਵਾਧੂ ਸਮੱਗਰੀ](additional-material/git_workflow_scenarios/additional-material.md)
 
-## ਹੋਰ ਟੂਲਜ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਟਿutorialਟੋਰਿਅਲ
+## ਹੋਰ ਟੂਲਜ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਟੁਟੋਰਿਅਲ
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
