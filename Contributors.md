@@ -96,6 +96,7 @@
 - TigerBoy!
 - Chuch Nichols 
 - Alejandro Rodriquez
+- Richard Cho
 - Ingrid Marcal
 - Yedukrishna K 
 - Shubhra Jyoti(https://github.com/Shubhraaa)
