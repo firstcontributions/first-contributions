@@ -180,6 +180,7 @@
 - Ananjaya
 - [Space Slayer](https://github.com/spaceslayer)
 - [Crystal Shardz](https://github.com/CrystalShardz)
+- [Aryan Kenchappagol](https://github.com/aryanxk02)
 - N Maiya
 - hoovks
 - [Muhammed Sabah](https://github.com/mhdsabah)
