@@ -212,6 +212,7 @@
 - Ananjaya
 - [Space Slayer](https://github.com/spaceslayer)
 - [Crystal Shardz](https://github.com/CrystalShardz)
+- [Aryan Kenchappagol](https://github.com/aryanxk02)
 - N Maiya
 - [Roi](https://github.com/roi972/)
 - hoovks
