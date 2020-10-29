@@ -46,6 +46,7 @@
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Wildan Bash](https://github.com/wildanbash)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
+- [Adam J Chen] (https://github.com/AdamJChen)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
