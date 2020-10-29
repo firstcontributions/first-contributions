@@ -157,6 +157,7 @@
 - W Chan
 - [andyjjrt](https://github.com/andyjjrt)
 - [Kyler Green](https://github.com/Kiracorp)
+- [Andrea Mucciarelli](https://github.com/IowU)
 - Wanmeow(https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
 - [Sohid Ullah](https://github.com/shdrana)
