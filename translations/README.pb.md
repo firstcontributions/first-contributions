@@ -1,7 +1,6 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # ਪਹਿਲਾ ਯੋਗਦਾਨ
 
@@ -91,11 +90,11 @@ git push origin <add-your-branch-name>
 
 ਜੇ ਤੁਸੀਂ ਗਿੱਟਹੱਬ 'ਤੇ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ' ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ `ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਖਿੱਚੋ ਬੇਨਤੀ` ਬਟਨ ਨੂੰ ਵੇਖੋਗੇ. ਉਸ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 ਹੁਣ ਪੁਲੀ ਬੇਨਤੀ ਨੂੰ ਜਮ੍ਹਾ ਕਰੋ.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 ਜਲਦੀ ਹੀ ਮੈਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਮਾਸਟਰ ਬ੍ਰਾਂਚ ਵਿੱਚ ਮਿਲਾ ਦੇਵਾਂਗਾ. ਇਕ ਵਾਰ ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਿਲਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਇਕ ਸੂਚਨਾ ਈਮੇਲ ਮਿਲੇਗੀ.
 
@@ -103,11 +102,11 @@ git push origin <add-your-branch-name>
 
 ਵਧਾਈਆਂ! ਤੁਸੀਂ ਹੁਣੇ ਹੀ ਸਟੈਂਡਰਡ _ਫੋਰਕ -> ਕਲੋਨ -> ਐਡਿਟ -> ਖਿੱਚ ਬੇਨਤੀ_ ਵਰਕਫਲੋ ਪੂਰਾ ਕੀਤਾ ਹੈ ਜਿਸਦਾ ਤੁਸੀਂ ਅਕਸਰ ਇੱਕ ਯੋਗਦਾਨ ਪਾਉਣ ਵਾਲੇ ਦੇ ਰੂਪ ਵਿੱਚ ਸਾਹਮਣਾ ਕਰੋਗੇ!
 
-ਆਪਣੇ ਯੋਗਦਾਨ ਦਾ ਜਸ਼ਨ ਮਨਾਓ ਅਤੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪੈਰੋਕਾਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ (https://firstcontributions.github.io/#social-share).
+ਆਪਣੇ ਯੋਗਦਾਨ ਦਾ ਜਸ਼ਨ ਮਨਾਓ ਅਤੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪੈਰੋਕਾਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ। [ਵੈੱਬ ਐਪ](https://firstcontributions.github.io/#social-share).
 
-ਤੁਹਾਨੂੰ ਸਾਡੀ ਸਲੈਕ ਟੀਮ ਵਿਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ ਜੇ ਤੁਹਾਨੂੰ ਕਿਸੇ ਮਦਦ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਜਾਂ ਕੋਈ ਪ੍ਰਸ਼ਨ ਹੈ. (https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w).
+ਤੁਹਾਨੂੰ ਸਾਡੀ ਸਲੈਕ ਟੀਮ ਵਿਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ ਜੇ ਤੁਹਾਨੂੰ ਕਿਸੇ ਮਦਦ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਜਾਂ ਕੋਈ ਪ੍ਰਸ਼ਨ ਹੈ। [ਟੀਮ ਵਿਚ ਸ਼ਾਮਲ ਹੋ](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w).
 
-ਆਓ ਹੁਣ ਤੁਹਾਨੂੰ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਲਈ ਸ਼ੁਰੂਆਤ ਕਰੀਏ. ਅਸੀਂ ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਇੱਕ ਸੂਚੀ ਤਿਆਰ ਕੀਤੀ ਹੈ ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਅਸਾਨ ਮੁੱਦਿਆਂ ਨੂੰ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ. ਕਮਰਾ ਛੱਡ ਦਿਓ (https://firstcontributions.github.io/#project-list).
+ਆਓ ਹੁਣ ਤੁਹਾਨੂੰ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਲਈ ਸ਼ੁਰੂਆਤ ਕਰੀਏ. ਅਸੀਂ ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਇੱਕ ਸੂਚੀ ਤਿਆਰ ਕੀਤੀ ਹੈ ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਅਸਾਨ ਮੁੱਦਿਆਂ ਨੂੰ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ। [ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਸੂਚੀ](https://firstcontributions.github.io/#project-list).
 
 ### [ਵਾਧੂ ਸਮੱਗਰੀ](additional-material/git_workflow_scenarios/additional-material.md)
 
