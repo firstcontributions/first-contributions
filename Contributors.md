@@ -53,6 +53,7 @@
 - [Wildan Bash](https://github.com/wildanbash)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
 - [Adam J Chen] (https://github.com/AdamJChen)
+- [Birendra Budhathoki] (https://github.com/bibuki)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
