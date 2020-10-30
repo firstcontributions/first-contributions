@@ -663,6 +663,7 @@
 - [Hammed Babatunde](https://github.com/HammedBabatunde)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Siddharth Mohanty](https://github.com/siddharth-fortex)
+- [Jorge Reyes Vargas](https://github.com/jarvars)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Michela Leuzzi](https://github.com/Hutcheeran)
 - [Amit Samanta](https://github.com/amitsamanta2307)
