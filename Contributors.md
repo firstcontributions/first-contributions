@@ -67,6 +67,7 @@ Pooja Muthalik
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [gds ghost $udam] (https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
+- [William Ah Tou]
 - [Dmitry S](https://github.com/Dmitry-Sm)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
 - [Marian Watson](https://github.com/marianwatson)
