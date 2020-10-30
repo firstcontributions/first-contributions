@@ -349,6 +349,7 @@
 - [Ishaan Bedi](https://github.com/ishaanbedi)
 - [Deb Bose](https://github.com/debobrata2)
 - Brijesharun G
+- [Nicholas Chin Wei Hong](https://github.com/NickCwh)
 - [Tharindu Lakshitha Thisarasinghe](https://github.com/tharindulucky)
 - Avi Kumrawat(https://github.com/avikt18)
 - [Kipras Krasauskas](https://github.com/CypressG/)
