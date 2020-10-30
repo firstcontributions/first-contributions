@@ -33,6 +33,7 @@ Pooja Muthalik
 - [Abhishek] (https://github.com/a-1043161)
 - [Muhi-Dean Othman] (https://github.com/mdothman)
 - [Manash Khamari](https://github.com/manash-ranjan-khamari)
+- Piyush
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
 - [Aidan Henry](https://github.com/ajhenry00)
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
