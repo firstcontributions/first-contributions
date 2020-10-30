@@ -18,6 +18,7 @@
 - [Harjot Singh](https://github.com/harjotkarwal)
  - [Rachana Bhalsing](https://github.com/rachanb)
 - [Cihan Orhan](https://github.com/cihanorhan)
+- [Shawn Maybush](https://github.com/shawn-maybush)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
  -[Debaghosh](https://github.com/debaghosh)
 - [Haritha Mohan] (https://github.com/harithamohan1)
