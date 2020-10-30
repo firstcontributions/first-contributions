@@ -3487,6 +3487,7 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - [Alphie Kiu](https://github.com/AlphieKiu)
 - [Yonas Mulyadi](https://github.com/ymul0001)
+- Lakshini Kuganandamurthy
 - Roy Ancri
 - raj chordia
 - yuvarajan
