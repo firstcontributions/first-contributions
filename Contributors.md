@@ -15,6 +15,7 @@
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [EllaCherrystone]
 - [Aman] (https://github.com)
+- Suchitra Giri
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
 - [Ashish Burnwal] (https://github.com/ashish1816)
