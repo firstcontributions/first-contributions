@@ -7,6 +7,7 @@
 - [Amandou] (https://github.com/amandou)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
+- [Animesh_ramasami]
 - Bryce Videka
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
@@ -14,6 +15,7 @@
 - Juhi Kushwah (https://github.com/juhikushwah)
 - Okokoh Ben (https://github.com/ekumahost)
 - Pallavi Dhotre
+- [AnimeshRamasami] (https://github.com/Ani1000)
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
  - [Rachana Bhalsing](https://github.com/rachanb)
