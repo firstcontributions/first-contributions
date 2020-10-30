@@ -62,6 +62,7 @@ Pooja Muthalik
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
+- [Neha Mahto] (https://github.com/nehamahto58)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [gds ghost $udam] (https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
