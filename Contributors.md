@@ -48,6 +48,7 @@
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
+- [Sanidhya Gupta] (http://github.com/sanidhyag1)
 - [Douglas McWherter] (https://github.com/teserve)
 - [Jake Thomas] (https://github.com/jakesock)
 - [Candice Peters](https://github.com/cep104)
