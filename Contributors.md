@@ -389,6 +389,7 @@ Pooja Muthalik
 - [Alex Kim](https://github.com/KimDos7)
 - [Amartya K](https://github.com/amartya-k)
 - [Miguel Palo](https://github.com/rmdpalo)
+- [sharris52] (https://github.com/sharris52)
 - [fengxh](https://github.com/fengtomy)
 - [Aleksander Bless](https://github.com/alekbless)
 - [Rimjhim Agrawal](https://github.com/rimjhim167)
