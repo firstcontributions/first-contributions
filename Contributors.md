@@ -95,6 +95,7 @@
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
 - Chuch Nichols 
+- [Guang Lim](https://github.com/gylim0604)
 - Alejandro Rodriquez
 - Richard Cho
 - Ingrid Marcal
