@@ -127,6 +127,7 @@
 - [atharvaj77](https://github.com/atharvaj77) 
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
+- Amedyne 
 - Morgan
 - Kinjal Rathod
 - [Koushik Joshi] (https://github.com/koushikjoshi)
