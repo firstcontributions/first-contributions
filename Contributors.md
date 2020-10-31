@@ -7339,3 +7339,4 @@ erdem yigitoglu
 - [Nam Nguyen](https://github.com/nnhatnam)
 - [Ashok Manghat](https://github.com/ashokmanghat)
 - [Andrey Solodov](https://github.com/solodov-dev)
+- [Guilherme Ferreira](https://github.com/guilhermebferreira)
