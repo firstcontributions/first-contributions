@@ -60,6 +60,7 @@ Pooja Muthalik
 - [Candice Peters](https://github.com/cep104)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Wildan Bash](https://github.com/wildanbash)
+- [Anindo Chakraborty](https://github.com/anindo78)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
 - [Adam J Chen] (https://github.com/AdamJChen)
 - [Birendra Budhathoki] (https://github.com/bibuki)
