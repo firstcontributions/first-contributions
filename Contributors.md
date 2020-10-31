@@ -5,9 +5,10 @@
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Amandou] (https://github.com/amandou)
+- [Ratul Dawar]
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
-- Bryce Videka
+- Bryce Videka 
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
