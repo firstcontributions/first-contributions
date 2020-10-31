@@ -7432,6 +7432,7 @@ erdem yigitoglu
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
 - [Prasad](https://github.com/prasadekke)
 - [Stanley] (https://github.com/stanleyleemcsun)
+- [Calin George-Adrian] (https://github.com/calingeorgeadrian)
 - [Deron Dantzler] (https://github.com/ddantzler)
 - [Nam Nguyen](https://github.com/nnhatnam)
 - [Ashok Manghat](https://github.com/ashokmanghat)
