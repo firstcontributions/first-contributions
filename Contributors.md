@@ -14,6 +14,7 @@
 - [Vikas Bansal] (https://github.com/Vikuman/)
 - Jarred Lopez
 - [Linda Chun](https://github.com/Linda-OC)
+- [Castic Jehin](https://github.com/jehincastic/)
 - [Pragati Bansal](https://github.com/pragx12)
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
