@@ -4,6 +4,7 @@
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
+[Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
 - [Amjad Ali] (https://github.com/AmjadKudsi)
