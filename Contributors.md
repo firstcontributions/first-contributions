@@ -144,6 +144,7 @@ Pooja Muthalik
 - [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
+- Shiyu Hao
 - Darshita Kumar (https://github.com/darshita-kumar)
 - ChethanR2711
 - [Shambhavi Sabhahit](https://github.com/svs2801)
