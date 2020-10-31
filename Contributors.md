@@ -11,6 +11,7 @@
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
 - Bryce Videka 
+- [Vikas Bansal] (https://github.com/Vikuman/)
 - Jarred Lopez
 - [Linda Chun](https://github.com/Linda-OC)
 - [Pragati Bansal](https://github.com/pragx12)
