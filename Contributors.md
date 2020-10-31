@@ -9,6 +9,7 @@
 - [Ratul Dawar]
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
 - Bryce Videka 
 - [Vikas Bansal] (https://github.com/Vikuman/)
