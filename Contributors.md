@@ -12,6 +12,7 @@
 - Alok Awasthi
 - Bryce Videka 
 - Jarred Lopez
+- [Linda Chun](https://github.com/Linda-OC)
 - [Pragati Bansal](https://github.com/pragx12)
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
