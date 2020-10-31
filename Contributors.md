@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
@@ -10,6 +10,7 @@
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
 - Bryce Videka 
+- Jarred Lopez
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
