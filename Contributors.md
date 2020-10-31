@@ -6,6 +6,7 @@
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
+- [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
 - Bryce Videka 
