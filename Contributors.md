@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Avery Novick] (https://github.com/averynov)
@@ -22,6 +21,7 @@
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Ansuman] (https://github.com/anshammer)
 - [Dave Organ] (https://github.com/dk-obrien)
+- [Austin Nguyen] (https://github.com/austinvan295)
 Pooja Muthalik
 - [Katarzyna Wegrzynowicz] (https://github.com/katarzyna-kw/)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
