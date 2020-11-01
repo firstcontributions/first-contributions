@@ -236,6 +236,7 @@ Pooja Muthalik
 - gargi
 - Mayank Kinger
 - [Lary Mak](https://github.com/larymak)
+- [Laurentiu Trofosila](https://github.com/trofosila)
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
 - agashvaran
