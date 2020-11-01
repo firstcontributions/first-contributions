@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Mita Samanta] (https://github.com/mitasamanta)
+- [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Maria Losada (https://github.com/codemary13)
 - [Avery Novick] (https://github.com/averynov)
