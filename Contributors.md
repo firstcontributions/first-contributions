@@ -7463,3 +7463,4 @@ erdem yigitoglu
 - [Manoel](https://github.com/oxemaxn)
 - [Zack Pouget](https://github.com/ZackPouget)
 - [Marcelo Nogueira](https://github.com/locemarn)
+- [Tri Minh Tran](https://github.com/Tris-909)
