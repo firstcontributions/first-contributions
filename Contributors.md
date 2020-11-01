@@ -64,6 +64,7 @@ Pooja Muthalik
 - [Sristy Sharma] (https://github.com/beertocode)
 [Mani]
 - [Jannick Bremm](https://github.com/JannickBremm)
+- [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
