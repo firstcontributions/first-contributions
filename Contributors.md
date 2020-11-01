@@ -7471,3 +7471,4 @@ erdem yigitoglu
 - [Marcelo Nogueira](https://github.com/locemarn)
 - [Tri Minh Tran](https://github.com/Tris-909)
 - [Ale Rodríguez](https://github.com/rgaezsd)
+- [Michael Gehring](https://github.com/mdxg)
