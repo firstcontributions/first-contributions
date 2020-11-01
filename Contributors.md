@@ -898,7 +898,7 @@ Pooja Muthalik
 - [Kaitlyn Zavala](https://github.com/kzavala)
 - [Ahsan Khan](https://github.com/ahsankhan26)
 - [Nikhil Singhal](https://github.com/nikhil-stack)
-
+- [Anqi Wang](https://github.com/Ducky2222)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook](https://github.com/nada1619)
 - [Astitv Shandilya](https://github.com/axtitv)
