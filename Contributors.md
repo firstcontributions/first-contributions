@@ -21,6 +21,7 @@
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
+- Rich Peaua
 - [Ansuman] (https://github.com/anshammer)
 - [Dave Organ] (https://github.com/dk-obrien)
 Pooja Muthalik
