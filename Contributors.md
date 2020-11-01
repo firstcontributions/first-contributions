@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
@@ -92,6 +91,7 @@ Pooja Muthalik
 - [Marian Watson](https://github.com/marianwatson)
 - [Julio Añoveros](https://github.com/jubaan)
 - [Yash Hiran] (https://github.com/YashHiran)
+- [Waqas Ahmed] (https://github.com/iswaqasahmed)
 - [Oumaima Makhlouk] (https://github.com/oumaima12)
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
