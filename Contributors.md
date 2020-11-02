@@ -183,6 +183,7 @@ Pooja Muthalik
 - [Neha Koppikar](https://github.com/NehaKoppikar)
 - [Priyankesh Raj](https://github.com/PriyankeshRaj)
 - [Jonathan Wheeler](https://github.com/jwheeler27)
+- Pum Khai
 - Andrew Gao
 - Lefteris
 - Saish Reddy Komalla
