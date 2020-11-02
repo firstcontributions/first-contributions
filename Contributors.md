@@ -18,6 +18,7 @@
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
 - [Vikas Bansal] (https://github.com/Vikuman/)
 - Jarred Lopez
+- [Kevin Satti](https://github.com/Kevlar2222)
 - [Linda Chun](https://github.com/Linda-OC)
 - [Castic Jehin](https://github.com/jehincastic/)
 - [Pragati Bansal](https://github.com/pragx12)
