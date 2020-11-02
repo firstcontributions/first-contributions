@@ -9,6 +9,8 @@ Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle i
 
 Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
 
+Komut satırı konusunda rahat değilseniz, [(GUI) görsel araçlarla ilgili eğitimler burada.](#Diğer-araçlarla-ilgili-eğitimler)
+
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
