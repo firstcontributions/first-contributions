@@ -6,6 +6,7 @@
 - [Maria Losada (https://github.com/codemary13)
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
+- [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
 [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
