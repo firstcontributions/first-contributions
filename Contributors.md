@@ -7,7 +7,7 @@
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
-[Brandon Wright]
+- [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
 - [Amjad Ali] (https://github.com/AmjadKudsi)
@@ -45,6 +45,7 @@ Pooja Muthalik
  -[Debaghosh](https://github.com/debaghosh)
  -[Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan] (https://github.com/harithamohan1)
+- [Chong Kim] (https://github.com/yportne8)
 - [EllaCherrystone]
 - [Silvia Candia] (https://github.com/Silvia-Candia)
 - [Christopher Oliner] (https://github.com/coliner300)
