@@ -15,7 +15,7 @@
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
 - Bryce Videka 
-- [Vikas Bansal] (https://github.com/Vikuman/)
+- [Vikas Bansal](https://github.com/Vikuman/)
 - Jarred Lopez
 - [Linda Chun](https://github.com/Linda-OC)
 - [Castic Jehin](https://github.com/jehincastic/)
