@@ -473,6 +473,7 @@ Pooja Muthalik
 - [Afzal Shaikh](https://github.com/afzal-shaikh)
 - [Aayush](https://github.com/aayushsaini)
 - [Mitisha Agarwal](https://github.com/mitishaa)
+- [Gagandeep](https://github.com/GAGAN2608)
 - [Kattine Pedrosa](https://github.com/kcpedrosa)
 - [Kushaan Gowda](https://github.com/kushaangowda)
 - [Subham Poddar](https://github.com/subham-poddar)
