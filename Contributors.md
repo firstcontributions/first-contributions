@@ -286,6 +286,7 @@ Pooja Muthalik
 - [Rohith Ravindranath](https://github.com/rohithravin)
 - [Michael Wilson](https://github.com/WilsonMJ)
 - [Liplan Lekipising](https://github.com/lekipising)
+- [Yumozi](https://github.com/aia7k7k)
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - [Jatin Rao](https://github.com/jatin2003)
