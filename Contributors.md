@@ -3,8 +3,8 @@
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
- - [Rachana Bhalsing](https://github.com/rachanb)
- - [Vatana Chhorn](https://github.com/VatanaChhorn)
+- [Rachana Bhalsing](https://github.com/rachanb)
+- [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Haritha Mohan] (https://github.com/harithamohan1)
 - [Aman] (https://github.com)
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
@@ -61,7 +61,7 @@
 - [Alex P](https://github.com/papillon7)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
-- Chuch Nichols 
+- Chuch Nichols
 - Alejandro Rodriquez
 - Ingrid Marcal
 - Yedukrishna K R
@@ -81,7 +81,7 @@
 - [Nazish Khan] (https://github.com/nazuk27)
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [Harry Silman](https://github.com/hsilman/)
-- [547y4m](https://github.com/547y4m) 
+- [547y4m](https://github.com/547y4m)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
@@ -90,7 +90,7 @@
 - Namrata Surve
 - Darshita Kumar (https://github.com/darshita-kumar)
 - ChethanR2711
--Ankit dhar 07
+  -Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
 - [Bimal Singh](https://github.com/starkk242)
 - [Parthit Patel](https://github.com/parthit)
@@ -163,8 +163,8 @@
 - [Carl Sciz](https://github.com/carlsciz)
 - [Abhijeet Mahapatra](https://github.com/Abhi-1001)
 - [Nicolas M. Pardo](https://github.com/nikodermus)
-- [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
-- [Unviray](https://github.com/Unviray) 
+- [Patrik Millvik Rosenström](https://github.com/nanoteck137)
+- [Unviray](https://github.com/Unviray)
 - Sanuda
 - Sneha
 - ShashiW
@@ -220,6 +220,7 @@
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
 - Minh Le
+- Catherine Pas
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Abu Sayed Jobayer](https://github.com/zobay)
 - [ALU Hacktober](https://github.com/ChristineWasike)
@@ -269,8 +270,7 @@
 - Aniket
 - [phys101](https://github.com/phys101)
 - [Utsav Phunyal](https://github.com/uphunyal)
-- [Jessica Lang](https://github.com/ljessicc)
--[why]
+- [Jessica Lang](https://github.com/ljessicc) -[why]
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
@@ -656,7 +656,7 @@
 - [Laura Ross](https://github.com/laura-ross/)
 - [Cari Gan](https://github.com/cariygan)
 - [Sulphur1010](https://github.com/sulphur1010)
-- [Jason Massey](https://github.com/jmasseyut) 
+- [Jason Massey](https://github.com/jmasseyut)
 - [Theresa Cho](https://github.com/tcho6319)
 - [Gerardo Jr. Abantao](https://github.com/GerardoUbuntu)
 - [Anand Kumar](https://github.com/Anandsharmak/)
@@ -1947,7 +1947,7 @@
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
-- [WeiHao Kuang](https://github.com/kuangticus) 
+- [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
 - [Manas Abhyankar](https://github.com/manasabhyankar)
 - Ezwald Uzumaki
@@ -3234,8 +3234,7 @@
 - Leszek
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
-- Gubsi
--[Aadarsh Anand](https://github.com/aadarsh-zoro)
+- Gubsi -[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -7277,7 +7276,7 @@
 - [Bimal Subedi](https://github.com/subedibimal)
 - [Dikshant Gautam](https://github.com/dikshantgautam2k)
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
-erdem yigitoglu
+  erdem yigitoglu
 - [Yash Gupta](https://github.com/itsyash2122)
 - [Denio Shaji John](https://github.com/deniosj)
 - [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
@@ -7311,10 +7310,10 @@ erdem yigitoglu
 - [Artem p] (https://github.com/Greindes)
 - [maktavish] (https://github.com/maktavish)
 - [samuel0480] (https://github.com/samuel0480)
-- [MonkBilal]  (https://github.com/MonkBilal)
+- [MonkBilal] (https://github.com/MonkBilal)
 - [Elaina Richard](https://github.com/ekrichard)
 - [Matthew](https://github.com/matthewpalmer9)
-- [Sgarg]  (https://github.com/sgarg24)
+- [Sgarg] (https://github.com/sgarg24)
 - [ganeshrahul23] (https://github.com/ganeshrahul23)
 - [Sameerul Haque] (https://github.com/sameerul)
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
