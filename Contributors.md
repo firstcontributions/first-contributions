@@ -72,6 +72,7 @@ Pooja Muthalik
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
+- 
 - [JAGCV] (https://github.com/joseagcv)
 - [Sanidhya Gupta] (http://github.com/sanidhyag1)
 - [Douglas McWherter] (https://github.com/teserve)
@@ -83,6 +84,8 @@ Pooja Muthalik
 - [Sushant Gnawali](https://github.com/RS2-CN3)
 - [Adam J Chen] (https://github.com/AdamJChen)
 - [Birendra Budhathoki] (https://github.com/bibuki)
+- [Mohammed Ali P S] (https://github.com/psmohammedali)
+- [Ali](https://github.com/psmohammedali)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
@@ -158,7 +161,7 @@ Pooja Muthalik
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
-- Kinjal Rathod
+- Kinjal Rat  
 - [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
