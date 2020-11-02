@@ -22,6 +22,7 @@
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
+- [Scott Henwood](https://github.com/ScottHenwood)
 - Rich Peaua
 - [Ansuman] (https://github.com/anshammer)
 - [Dave Organ] (https://github.com/dk-obrien)
