@@ -7307,6 +7307,7 @@ Pooja Muthalik
 - [Mrinmoy Mitra](https://github.com/Mrinmoy99)
 - [Ning Ma](https://github.com/maning00)
 - [ChristineWasike](https://github.com/ChristineWasike)
+- [Sam Kasyoki](https://github.com/sam10105)
 - [Sheryl Garrett]
 - [Jackson Fernando](https://github.com/jacksonfernando)
 - [Charles Walsh](https://github.com/CharlesWalsh)
