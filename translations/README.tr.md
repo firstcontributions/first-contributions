@@ -15,7 +15,7 @@ Komut satırı konusunda rahat değilseniz, [(GUI) görsel araçlarla ilgili eğ
 
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
-## Projeyi "çatallandırma"
+## Projeyi "çatallama"
 
 Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallandırın.
 Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
@@ -24,7 +24,7 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Şimdi bu depoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
+Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
 Daha sonra komut istemini açıp aşağıdaki git komutunu girmemiz gerekiyor:
 
@@ -50,7 +50,7 @@ cd first-contributions
 ```
 `git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
 ```
-git checkout -b <ekle-sizin-isminiz>
+git checkout -b <sizin-yeni-dal-isminiz>
 ```
 
 Örneğin:
@@ -77,6 +77,8 @@ git checkout -b ekle-aydin-cagri-dumlu
 
 `](` arasında boşluk olmadığından emin olun. Dosyayı kaydedin ve kapatın.
 
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+
 Komut istemi üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
 
 ```
@@ -95,9 +97,9 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 
 `git push` komutu ile değişikliklerinizi ittirin:
 ```
-git push origin <ekle-kendi-isminiz>
+git push origin <ekle-sizin-dal-isminiz>
 ```
-`<ekle-kendi-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
+`<ekle-sizin-dal-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
 
 ## Değişikliklerinizi inceleme için gönderin
 
@@ -109,11 +111,13 @@ Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu g�
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme postası alacaksınız.
+Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme e-postası alacaksınız.
 
 ### [Sonraki adımlar](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Bundan sonra ne yapabilirim?
+
+Tebrikler! Katkıda bulunan kişi olarak sıklıkla karşılaşacağınız standart _çatal -> klon -> düzenle -> çekme isteği_ iş akışını tamamladınız!
 
 Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
 
@@ -126,5 +130,5 @@ Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğ
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)|[IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)|
 
