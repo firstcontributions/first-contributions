@@ -1260,6 +1260,7 @@ Pooja Muthalik
 - [Laukik Verma](https://github.com/Laukik-11)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Caroline Mendez](https://github.com/CaroMen)
+- [Jack Woodrow](https://github.com/jwoodrow99)
 - [Chris Hoang](https://github.com/bucket420)
 - [Anyanwu-Ebere Chiemekam](https://github.com/emekarr)
 - [Rahul Tilwani](https://github.com/rahul975337)
