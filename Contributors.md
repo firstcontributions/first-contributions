@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Andre Kurniawan] (https://github.com/oidre)
