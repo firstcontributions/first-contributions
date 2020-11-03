@@ -7498,3 +7498,4 @@ erdem yigitoglu
 - [Michael Gehring](https://github.com/mdxg)
 - [Mengty Vong](https://github.com/vongmengty)
 - [Iker Ortega](https://github.com/IkerOrtega)
+- [Hamid Azizi](https://github.com/grandpa22)
