@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
+- [Hritika Dhasal] (https://github.com/HellFire03)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Andre Kurniawan] (https://github.com/oidre)
