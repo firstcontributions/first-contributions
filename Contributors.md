@@ -1606,6 +1606,7 @@ Pooja Muthalik
 - [David bretler](https://github.com/DavidBretler)
 - [Xefyn](https://github.com/Xefyn)
 - [Erick Canals](https://github.com/ec7495)
+- [Raitis]
 - [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
   [praveen-01](https://github.com/praveen-01)
