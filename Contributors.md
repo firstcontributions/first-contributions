@@ -19,6 +19,7 @@
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
 - Bryce Videka 
+- [Sergio Marcone](https://github.com/smarcbr)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
 - [Vikas Bansal] (https://github.com/Vikuman/)
 - Jarred Lopez
