@@ -7501,3 +7501,4 @@ erdem yigitoglu
 - [Mengty Vong](https://github.com/vongmengty)
 - [Iker Ortega](https://github.com/IkerOrtega)
 - [Hamid Azizi](https://github.com/grandpa22)
+- [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
