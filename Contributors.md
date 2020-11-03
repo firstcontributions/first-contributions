@@ -8,6 +8,7 @@
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
+- [Divya Patil(https://github.com/dev-17/)
 - [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
