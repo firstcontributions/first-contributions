@@ -1,5 +1,4 @@
 ﻿# Contributors
-hohohohohoohooh
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
@@ -7502,3 +7501,4 @@ erdem yigitoglu
 - [Iker Ortega](https://github.com/IkerOrtega)
 - [Hamid Azizi](https://github.com/grandpa22)
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
+- [Kevin Zhou](https://github.com/kevinzous)
