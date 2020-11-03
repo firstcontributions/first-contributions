@@ -2,6 +2,7 @@
 
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
+- [Andre Kurniawan] (https://github.com/oidre)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Maria Losada (https://github.com/codemary13)
