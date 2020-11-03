@@ -1067,6 +1067,7 @@ Pooja Muthalik
 - SreeNithishB
 - [Jamie Tan](https://github.com/jlt10)
 - [Abhinav Jonnada](https://github.com/abhinavjonnada82)
+- [Hakeem Ajibolu] (https://github.com/hakeemajibolu1)
 - [Trang La](https://github.com/ciberactro)
 - [Ganesh Agrawal](https://github.com/iamganeshagrawal)
 - [Rachel Quan](https://github.com/rachelquan)
