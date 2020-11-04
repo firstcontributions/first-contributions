@@ -25,6 +25,7 @@
 - Jarred Lopez
 - [Kevin Satti](https://github.com/Kevlar2222)
 - [Linda Chun](https://github.com/Linda-OC)
+- [Sarvesh Khandelwal](https://github.com/SARVESHKHANDELWAL/)
 - [Castic Jehin](https://github.com/jehincastic/)
 - [Pragati Bansal](https://github.com/pragx12)
 - [Ivan Montiel](https://github.com/begeistert)
