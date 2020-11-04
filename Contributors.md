@@ -1290,6 +1290,7 @@ Pooja Muthalik
 - [Mykael Baig](https://github.com/Mykaelb/CST255-MB)
 - [Prabhsimrandeep Singh](https://github.com/prabhsuggal)
 - [Mrunal Bandodkar](https://github.com/mrunal2u)
+- [Anton Subbotin](https://github.com/kotosha-real)
 - [Kirsten Fure](https://github.com/kfure)
 - [Ipsita Mazumder](https://github.com/IPSITA2000)
 - [anky301](https://github.com/anky301)
