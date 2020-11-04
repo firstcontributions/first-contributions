@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
@@ -21,6 +21,7 @@
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
+- Alexa Carrington (https://github.com/aacarring)
 - Bryce Videka 
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
 - [Vikas Bansal] (https://github.com/Vikuman/)
