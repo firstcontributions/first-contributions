@@ -131,6 +131,7 @@ Pooja Muthalik
 - [Claudius King](https://github.com/protean-phoenix/)
 - [Ali Shehbaz](https://github.com/alishehbaz)
 - [Ravi Bhatt](https://github.com/raviRB)
+- [Jay Gajjar](https://github.com/j-j-gajjar)
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [Furuikeya](https://github.com/Furuikeya)
 - [Yifei Wang](https://github.com/xsxszab) lol
