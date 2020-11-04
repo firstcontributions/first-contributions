@@ -25,7 +25,7 @@
 - [Vikas Bansal] (https://github.com/Vikuman/)
 - Jarred Lopez
 - [Kevin Satti](https://github.com/Kevlar2222)
-- [Barma Vishwanth](https://github.com/VishwanthBarma)
+- [Vishwanth Barma](https://github.com/VishwanthBarma)
 - [Linda Chun](https://github.com/Linda-OC)
 - [Sarvesh Khandelwal](https://github.com/SARVESHKHANDELWAL/)
 - [Castic Jehin](https://github.com/jehincastic/)
