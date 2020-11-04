@@ -5056,6 +5056,7 @@ Pooja Muthalik
 - [Fatz Chang](https://github.com/fatzchang)
 - [Moayad Badawi](https://github.com/moayad-badawi)
 - [Adam Stolarczyk](https://github.com/apm30)
+- [Florian Timm](https://github.com/FlorianTimmBS)
 - [Bonnie Brown](https://github.com/brownbonnie)
 - [Swaraj Dehuri](https://github.com/darkknight27)
 - [Bassem - NextGLabs](https://github.com/nextglabs)
