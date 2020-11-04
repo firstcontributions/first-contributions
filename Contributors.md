@@ -56,6 +56,7 @@ Pooja Muthalik
 - [EllaCherrystone]
 - [Silvia Candia] (https://github.com/Silvia-Candia)
 - [Christopher Oliner] (https://github.com/coliner300)
+- [Ronald Edwards II] (https://github.com/rjedwards105)
 - [Aman] (https://github.com)
 - [Abhishek] (https://github.com/a-1043161)
 - [Muhi-Dean Othman] (https://github.com/mdothman)
