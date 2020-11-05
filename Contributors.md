@@ -7521,3 +7521,4 @@ erdem yigitoglu
 - [Michael Plainer](https://github.com/plainerman)
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
 - [Zhongjian Tan](https://github.com/buckfield)
+- [Daniel Hoekwater](https://github.com/danieh65)
