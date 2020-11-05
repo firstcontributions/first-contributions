@@ -41,6 +41,7 @@
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Scott Henwood](https://github.com/ScottHenwood)
 - Rich Peaua
+- [Chronowork1](https://github.com/Chronowork1)
 - [Andrew Nguyen] (https://github.com/andrew1767)
 - [Ansuman] (https://github.com/anshammer)
 - [Dave Organ] (https://github.com/dk-obrien)
