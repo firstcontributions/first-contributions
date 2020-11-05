@@ -13,6 +13,7 @@
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
 - [Lavrentev Stanislav](https://github.com/hvoyka)
+- [Subhamay Paul](https://github.com/Subho-codegeek)
 - [Divya Patil(https://github.com/dev-17/)
 - [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
