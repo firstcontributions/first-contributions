@@ -88,6 +88,7 @@ Pooja Muthalik
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
 - AARA
+- [Alexander Mosquea](https://github.com/ALmsq)
 - [JAGCV] (https://github.com/joseagcv)
 - [Sanidhya Gupta] (http://github.com/sanidhyag1)
 - [Douglas McWherter] (https://github.com/teserve)
