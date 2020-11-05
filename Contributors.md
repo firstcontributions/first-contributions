@@ -106,6 +106,7 @@ Pooja Muthalik
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Neha Mahto] (https://github.com/nehamahto58)
+- [Michael Rodelo] (https://github.com/michaeldaviducf/)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [gds ghost $udam] (https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
