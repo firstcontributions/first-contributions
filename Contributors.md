@@ -7526,3 +7526,4 @@ erdem yigitoglu
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
 - [Zhongjian Tan](https://github.com/buckfield)
 - [Daniel Hoekwater](https://github.com/danieh65)
+- [Dan Kolodny](https://github.com/kolodny-coder)
