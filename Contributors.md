@@ -7527,3 +7527,4 @@ erdem yigitoglu
 - [Zhongjian Tan](https://github.com/buckfield)
 - [Daniel Hoekwater](https://github.com/danieh65)
 - [FireFighterDuck](https://github.com/firefighterduck)
+- [Kevin Goodenough](https://github.com/kevingoodenough)
