@@ -1,5 +1,6 @@
 # Contributors
 
+- [Shyamrox] (https://github.com/shyamrox)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
