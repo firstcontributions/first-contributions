@@ -19,6 +19,7 @@
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
 - [Ayush Nandi] (https://github.com/xarcode)
+- [Ankit Josh] (https://github.com/ankitjosh78)
 -  [Navenn] https://github.com/naveen8801)
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Ali Ghazal] (https://github.com/alighazal)
