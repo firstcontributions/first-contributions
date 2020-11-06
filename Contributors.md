@@ -5633,6 +5633,7 @@ Pooja Muthalik
 - [Schnell Theo](https://github.com/Elsasser67)
 - Mike
 - FChen12
+- Shiro AB
 - [Kirk Lennon](https://github.com/kirklennon)
 - [Phil H.](https://github.com/kungfuphil)
 - [Zachary Yamaoka](https://github.com/zacharyyamaoka)
