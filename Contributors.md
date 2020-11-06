@@ -1,5 +1,6 @@
 # Contributors
 
+- [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
