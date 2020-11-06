@@ -2866,6 +2866,7 @@ Pooja Muthalik
 - [Fun Coder]
 - [Endri Celaj](https://github.com/endri2211)
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
+- [Victor Ng](https://github.com/victorcmng)
 - Marco Meinardi
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
