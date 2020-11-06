@@ -3,6 +3,7 @@
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
+- [Prerak Shah] (https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
