@@ -10,6 +10,7 @@
 - [Andre Kurniawan] (https://github.com/oidre)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
+- [Jake Cillay] (https://github.com/jcillay)
 - [Maria Losada (https://github.com/codemary13)
 - [Avery Novick] (https://github.com/averynov)
 - [David Mayevsky] (https://github.com/dmayevsky)
