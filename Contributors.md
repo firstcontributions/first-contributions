@@ -254,6 +254,7 @@ Pooja Muthalik
 - [kundra] (https://github.com/kundra)
 - [BiGDoGKD](https://github.com/BiGDoGKD)
 - [Prats](https://github.com/pratskalive08)
+- [aviradinsky](https://github.com/aviradinsky)
 - [12q1](https://github.com/12q1)
 - [utsavcoding] (https://github.com/utsavcoding)
 - [vaibhav chandra] (https://github.com/vaibhavviking)
