@@ -210,6 +210,7 @@ Pooja Muthalik
 - Lefteris
 - Saish Reddy Komalla
 - jokubas
+- [pitamer](https://github.com/pitamer)
 - Jerry B
 - Mohammad Mustafa
 -[Nathan N](https://github.com/NathanNgoy)
