@@ -7566,3 +7566,4 @@ erdem yigitoglu
 - [Mithesh] (https://github.com/mithesh109)
 - [Evan Panek] (https://github.com/Evanissimo)
 - [Charlotte A. Wilson] (https://github.com/CAWilson94)
+- [DeviC3](https://github.com/DeviC3/)
