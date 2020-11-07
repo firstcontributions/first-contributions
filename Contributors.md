@@ -18,6 +18,7 @@
 - [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
+- [Tamil Selvan] (https://github.com/tamizhad)
 - [Ayush Nandi] (https://github.com/xarcode)
 -  [Navenn] https://github.com/naveen8801)
 - [Amjad Ali] (https://github.com/AmjadKudsi)
