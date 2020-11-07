@@ -403,6 +403,7 @@ Pooja Muthalik
 - Kole Deighan(https://github.com/kdeigs)
 - Nishant Shekhar
 - Aniket
+- Nikhil (https://github.com/ndevare13)
 - [phys101](https://github.com/phys101)
 - [Utsav Phunyal](https://github.com/uphunyal)
 - [Jessica Lang](https://github.com/ljessicc)
