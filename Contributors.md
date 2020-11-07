@@ -3751,7 +3751,7 @@ Pooja Muthalik
 - [Tobias](https://github.com/TobiasSMI)
 - [CF]
 - [Amarachi Emmanuela Azubuike](https://github.com/emmanuellar)
-- New User
+- [Gabriela Cruz](https://github.com/viricruz)
 - [Lukas Ferreira Machado](https://github.com/swallville)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Sam Thoyre](https://github.com/thorski1)
