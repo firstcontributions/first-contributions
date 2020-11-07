@@ -32,6 +32,7 @@
 - [Ali Ghazal] (https://github.com/alighazal)
 - [Puneet Kaur Jattana] (https://github.com/puneet601)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- [Pramod Rao Budramane](https://github.com/PramodRaoB)
 - [Allan Navarro] (https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
