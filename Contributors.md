@@ -55,6 +55,7 @@
 - [Andrew Nguyen] (https://github.com/andrew1767)
 - [Ansuman] (https://github.com/anshammer)
 - [Dave Organ] (https://github.com/dk-obrien)
+- [Austin Nguyen] (https://github.com/austinvan295)
 Pooja Muthalik
 - [Eli Zhu] (https://github.com/mobulture)
 - [Ezekiel Nizamani](https://github.com/ezekielnizamani)
