@@ -36,6 +36,7 @@
 - [Allan Navarro] (https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
+- [James Greilick] (https://github.com/jgreilick)
 - Alexa Carrington (https://github.com/aacarring)
 - Bryce Videka 
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
