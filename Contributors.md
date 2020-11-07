@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ed Glazenski] (https://github.com/edg570)
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
