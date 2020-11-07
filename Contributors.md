@@ -72,6 +72,11 @@ Pooja Muthalik
 - [Cihan Orhan](https://github.com/cihanorhan)
 - [Shawn Maybush](https://github.com/shawn-maybush)
  - [Vatana Chhorn](https://github.com/VatanaChhorn)
+- [Haritha Mohan](https://github.com/harithamohan1)
+- [Aman](https://github.com)
+- [Harshavardhan I](https://github.com/harshavardhan-i)
+- [Ashish Burnwal](https://github.com/ashish1816)
+- [Big Bob Little](https://github.com/BigBobLittle)
  -[Debaghosh](https://github.com/debaghosh)
  -[Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan] (https://github.com/harithamohan1)
@@ -98,6 +103,8 @@ Pooja Muthalik
 - [Adrian Azoitei](https://github.com/adrianAzoitei)
 - [MaxxBurn] (https://github.com/MaxxBurn)
 - [Abdul Rafay](https://github.com/abdulrafay02)
+- [Matthew Burford](https://github.com/Mattb709)
+- [Sristy Sharma](https://github.com/beertocode)
 - [Matthew Burford] (https://github.com/Mattb709)
 - [Sristy Sharma] (https://github.com/beertocode)
 [Mani]
@@ -105,7 +112,7 @@ Pooja Muthalik
 - [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
-- [Khalid Francis] (https://github.com/KHALIDFRANCIS)
+- [Khalid Francis](https://github.com/KHALIDFRANCIS)
 - AARA
 - [Alexander Mosquea](https://github.com/ALmsq)
 - [JAGCV] (https://github.com/joseagcv)
@@ -127,7 +134,7 @@ Pooja Muthalik
 - [Neha Mahto] (https://github.com/nehamahto58)
 - [Michael Rodelo] (https://github.com/michaeldaviducf/)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
-- [gds ghost $udam] (https://github.com/gdsghost)
+- [gds ghost $udam](https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Suyash](github.com/Suyious)
 - [William Ah Tou]
@@ -151,8 +158,7 @@ Pooja Muthalik
 - [Spandan Mishra](https://github.com/Spandyie) Jay Nepal
 - CHINTAN PATEL
 - Kash D
-- saksham anand
-- [berkaykarlik] (https://github.com/berkaykarlik)
+- [berkaykarlik](https://github.com/berkaykarlik)
 - [Sharmila Siram](https://github.com/sharmila02)
 - [opunsoars](https://github.com/opunsoars) was here
 - [Matthew Davenport](https://github.com/davenport1)
@@ -164,7 +170,7 @@ Pooja Muthalik
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [Furuikeya](https://github.com/Furuikeya)
 - [Yifei Wang](https://github.com/xsxszab) lol
-- [waterL] (https://github.com/0529bill)
+- [waterL](https://github.com/0529bill)
 - SANANDAN MAHALANABISH
 - [this is where i have entered a sentence] reddy
 - [Framorac Is Here](https://github.com/framorac)
