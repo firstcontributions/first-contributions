@@ -10,6 +10,7 @@
 - [Andre Kurniawan] (https://github.com/oidre)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
+- [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
 - [Jake Cillay] (https://github.com/jcillay)
 - [Trim Muharremi] (https://github.com/TrimMuharremi)
 - [Maria Losada (https://github.com/codemary13)
