@@ -27,6 +27,7 @@
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Ali Ghazal] (https://github.com/alighazal)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- [Allan Navarro] (https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
 - Alexa Carrington (https://github.com/aacarring)
