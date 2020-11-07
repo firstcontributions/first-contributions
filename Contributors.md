@@ -7558,7 +7558,6 @@ erdem yigitoglu
 - [Hamid Azizi](https://github.com/grandpa22)
 - [Michael Plainer](https://github.com/plainerman)
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
-- [Kevin Reichek](https://github.com/kreichek)
 - [Zhongjian Tan](https://github.com/buckfield)
 - [Daniel Hoekwater](https://github.com/danieh65)
 - [FireFighterDuck](https://github.com/firefighterduck)
