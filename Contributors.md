@@ -1,4 +1,5 @@
 # Contributors
+- [Matt Kelley] (https://github.com/mattshu)
 - [Ed Glazenski] (https://github.com/edg570)
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
