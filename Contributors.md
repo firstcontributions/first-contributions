@@ -142,6 +142,7 @@ Pooja Muthalik
 - [Ali](https://github.com/psmohammedali)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
+- [Andy Guschwan](https://github.com/gooseswan2)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Neha Mahto] (https://github.com/nehamahto58)
 - [Michael Rodelo] (https://github.com/michaeldaviducf/)
