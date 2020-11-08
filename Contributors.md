@@ -183,6 +183,7 @@ Pooja Muthalik
 - [Jay Gajjar](https://github.com/j-j-gajjar)
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
 - [Furuikeya](https://github.com/Furuikeya)
+- [Omar Yousufi] (https://github.com/osyousufi)
 - [Yifei Wang](https://github.com/xsxszab) lol
 - [waterL](https://github.com/0529bill)
 - SANANDAN MAHALANABISH
