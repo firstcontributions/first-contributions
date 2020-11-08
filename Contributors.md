@@ -7569,6 +7569,7 @@ Pooja Muthalik
 - [Dave Bhandari](https://github.com/Davekibh)
 - [Yungoong Song](https://github.com/yungjoong)
 - [Manoel](https://github.com/oxemaxn)
+- [Nishan](https://github.com/Brown-Boi-Nash)
 - [Alex B](https://github.com/dotsandchipsandthings)
 - [Zack Pouget](https://github.com/ZackPouget)
 - [Jerel Crespo](https://github.com/CodigosCrespo)
