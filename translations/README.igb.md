@@ -140,7 +140,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 dochie `<your-name>` aha gị.
 
-## Push mgbanwe na GitHub
+## Kwanye mgbanwe nile a n'ime GitHub
 
 
 Mee mgbanwe gị site na iji iwu `git push`:
