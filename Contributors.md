@@ -73,10 +73,10 @@ Pooja Muthalik
 - Pallavi Dhotre
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
- - [Rachana Bhalsing](https://github.com/rachanb)
+- [Rachana Bhalsing](https://github.com/rachanb)
+- [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Cihan Orhan](https://github.com/cihanorhan)
 - [Shawn Maybush](https://github.com/shawn-maybush)
- - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Haritha Mohan](https://github.com/harithamohan1)
 - [Aman](https://github.com)
 - [Harshavardhan I](https://github.com/harshavardhan-i)
@@ -195,6 +195,7 @@ Pooja Muthalik
 - Shubhra Jyoti(https://github.com/Shubhraaa)
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
+- Nitin Lodha
 - Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
 - [Timothy Liau](https://github.com/timliau)
@@ -429,8 +430,7 @@ Pooja Muthalik
 - Nikhil (https://github.com/ndevare13)
 - [phys101](https://github.com/phys101)
 - [Utsav Phunyal](https://github.com/uphunyal)
-- [Jessica Lang](https://github.com/ljessicc)
--[why]
+- [Jessica Lang](https://github.com/ljessicc) -[why]
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
@@ -3422,8 +3422,7 @@ Pooja Muthalik
 - Leszek
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
-- Gubsi
--[Aadarsh Anand](https://github.com/aadarsh-zoro)
+- Gubsi -[Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -7492,7 +7491,7 @@ Pooja Muthalik
 - [Bimal Subedi](https://github.com/subedibimal)
 - [Dikshant Gautam](https://github.com/dikshantgautam2k)
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
-erdem yigitoglu
+  erdem yigitoglu
 - [Yash Gupta](https://github.com/itsyash2122)
 - [Denio Shaji John](https://github.com/deniosj)
 - [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
