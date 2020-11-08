@@ -7208,6 +7208,7 @@ Pooja Muthalik
 - [Esther Adenekan](https://github.com/essietom)
 - Kayla M
 - [Sarah Dirienzo](https://github.com/sdirien)
+- [Max Zadarnovskiy](https://github.com/Borismeister)
 - shubham Saloni
 - [Neelima Parakala](https://github.com/neelimapp)
 - [Jessi Heger](https://github.com/jessiheger)
