@@ -48,7 +48,7 @@
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - Alexa Carrington (https://github.com/aacarring)
-- Bryce Videka 
+- Bryce Videka
 - [Vikas Bansal](https://github.com/Vikuman/)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
 - Jarred Lopez
@@ -218,7 +218,7 @@ Pooja Muthalik
 - [Jasmine Moua](https://github.com/mouajas)
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Waqar Mastan](https://github.com/waqarHocain)
-- [Austin Cuddeback](https://github.com/ajcuddeback) 
+- [Austin Cuddeback](https://github.com/ajcuddeback)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [LFsolar](https://github.com/LFsolar)
 - [Nazish Khan] (https://github.com/nazuk27)
@@ -231,7 +231,7 @@ Pooja Muthalik
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
-- Kinjal Rat  
+- Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
@@ -1470,7 +1470,7 @@ Pooja Muthalik
 - [Nikunj Das Kasat](https://github.com/nikunjdk)
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ananya Agarwal](https://github.com/AnanyaAgarwal25)
-- [Sriram](https://github.com/BLNDLYBLV) 
+- [Sriram](https://github.com/BLNDLYBLV)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Manasa Samaga](https://github.com/manasasamaga)
@@ -4393,6 +4393,7 @@ Pooja Muthalik
 - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
+- [Jonas Hübotter](https://github.com/jonhue)
 - [Pablo Herrero](https://github.com/pablohs1986)
 - [Puneeth PS](https://github.com/puneethps)
 - Ankit Kumar
