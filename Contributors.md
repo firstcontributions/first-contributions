@@ -5007,6 +5007,7 @@ Pooja Muthalik
 - [Anna Dunster 🐲](https://github.com/ardunster)
 - [Venu](https://github.com/venuDev)
 - [FélixHub](https://github.com/FelixHub)
+- [Richard Ma](https://github.com/reigenatk)
 - [MinoCGN](https://github.com/minocgn)
 - [Joel Lashrbook](https://github.com/jkl92)
 - [Jason Klebes](https://github.com/jklebes)
