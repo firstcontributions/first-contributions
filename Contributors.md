@@ -388,6 +388,7 @@ Pooja Muthalik
 - Thomas Chase
 - Minh Le
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
+- [Marcus Visic] (https://github.com/mvisic)
 - [Abu Sayed Jobayer](https://github.com/zobay)
 - [ALU Hacktober](https://github.com/ChristineWasike)
 - [Alaguva Eucharia Uchenna](https://github.com/Uchenna-eucharia)
