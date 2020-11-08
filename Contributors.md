@@ -5,6 +5,7 @@
 - [Matt Kelley] (https://github.com/mattshu)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
 - [Ed Glazenski] (https://github.com/edg570)
+- [Cory Bass] (https://github.com/cbass2404)
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
 - [Joao Almeida] (https://github.com/joao-vta)
