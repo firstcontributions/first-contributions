@@ -1,5 +1,6 @@
 # Contributors
 - [Shivam Srivastava](https://github.com/shivam311099)
+- [Linusaltacc](https://github.com/linusaltacc)
 - [G2048](https://github.com/G2048)
 - [Matt Kelley] (https://github.com/mattshu)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
