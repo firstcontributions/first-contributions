@@ -9,6 +9,7 @@
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Andre Kurniawan] (https://github.com/oidre)
+- [Hussein Akar] (https://github.com/hussein-akar)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
