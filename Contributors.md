@@ -7577,6 +7577,7 @@ Pooja Muthalik
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
 - [Zhongjian Tan](https://github.com/buckfield)
 - [Daniel Hoekwater](https://github.com/danieh65)
+- [Dan Kolodny](https://github.com/kolodny-coder)
 - [FireFighterDuck](https://github.com/firefighterduck)
 - [Kevin Goodenough](https://github.com/kevingoodenough)
 - [bobphul](https://github.com/bobphul)
