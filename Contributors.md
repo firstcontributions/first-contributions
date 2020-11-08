@@ -3532,6 +3532,7 @@ Pooja Muthalik
 - [Steph Damaica](https://github.com/stephDamaica)
 - [Shaunak Inamdar](https://github.com/ShaunakInamdar)
 - [yvnr](https://github.com/yvnr)
+- [Martino Italiano](https://github.com/olaszm)
 - Rahul Rajan
 - Shachindra Pandit
 - Adam Asaad
