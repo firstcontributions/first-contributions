@@ -16,6 +16,7 @@
 - [Hussein Akar] (https://github.com/hussein-akar)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
+- [Vrinda Tyagi]
 - [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
 - [Jake Cillay] (https://github.com/jcillay)
 - [Trim Muharremi] (https://github.com/TrimMuharremi)
