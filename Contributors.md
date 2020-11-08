@@ -72,6 +72,7 @@
 Pooja Muthalik
 - [Eli Zhu] (https://github.com/mobulture)
 - [Ezekiel Nizamani](https://github.com/ezekielnizamani)
+- [Daniel Hee](https://github.com/DanWlker)
 - [Max Monciardini](https://github.com/maxmonciardini)
 - [Katarzyna Wegrzynowicz] (https://github.com/katarzyna-kw/)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
