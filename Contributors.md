@@ -216,6 +216,7 @@ Pooja Muthalik
 - [LFsolar](https://github.com/LFsolar)
 - [Nazish Khan] (https://github.com/nazuk27)
 - [Anuj Pandey](https://github.com/anujpandey785)
+- [547y4m](https://github.com/547y4m)
 - [Adarsh Kumar](https://github.com/adarsh115)
 - [Harry Silman](https://github.com/hsilman/)
 - [547y4m](https://github.com/547y4m)
@@ -730,6 +731,7 @@ Pooja Muthalik
 - [Christina](https://github.com/cjaiello)
 - [Vino Ram](https://github.com/vino83)
   [Mahnoor Fatima](https://github.com/Mahnoor123-Fatima)
+  [Jason Stone](https://github.com/jstonedev)
 - [Shah Quadri](https://github.com/shah78677)
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Ishaan Singhal]
