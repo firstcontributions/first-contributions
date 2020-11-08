@@ -54,7 +54,7 @@
 - Yedukrishna K R
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
-- Nitin Lodha (https://github.com/NitinLodha2812)
+- Nitin Lodha
 - Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
   [Filza zarin](https://github.com/Filzazarin)
