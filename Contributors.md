@@ -230,7 +230,7 @@ Pooja Muthalik
 - ChethanR2711
 - [Shambhavi Sabhahit](https://github.com/svs2801)
 - [cheetosysst](https://github.com/cheetosysst)
--Ankit dhar 07
+- Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
 - [Bimal Singh](https://github.com/starkk242)
 - [Shane Kohler](https://github.com/frosty151)
@@ -3088,6 +3088,7 @@ Pooja Muthalik
 - [Aman Bhardwaj](https://github.com/inblack67)
 - [keelisetti lokesh](https://github.com/lokeshkeelisetti)
 - [Sharique Khan](https://github.com/sharique-tech1987)
+- [Ruslan Frolov](https://github.com/Carbohz)
 - Eiseid
 - jacob
 - [Jesus Arnau Villar](https://github.com/jarnawer)
