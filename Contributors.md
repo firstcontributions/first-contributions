@@ -44,8 +44,8 @@
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - Alexa Carrington (https://github.com/aacarring)
 - Bryce Videka 
+- [Vikas Bansal](https://github.com/Vikuman/)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
-- [Vikas Bansal] (https://github.com/Vikuman/)
 - Jarred Lopez
 - [Kevin Satti](https://github.com/Kevlar2222)
 - [Linda Chun](https://github.com/Linda-OC)
