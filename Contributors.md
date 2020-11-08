@@ -311,6 +311,7 @@ Pooja Muthalik
 - [askorykh](https://github.com/askorykh)
 - [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
+- [tomgriffin](https://github.com/tomgriffin)
 - chenniferann
 - gamesMum
 - [realrahnama](https://github.com/realrahnama)
@@ -7622,3 +7623,4 @@ Pooja Muthalik
 - [BabakAbdzadeh](https://github.com/BabakAbdzadeh)
 - [yash1493](https://github.com/yash1493/first-contributions)
 - [berkslv])(https://github.com/berkslv)
+
