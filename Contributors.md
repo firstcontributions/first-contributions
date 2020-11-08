@@ -7545,6 +7545,7 @@ Pooja Muthalik
 - [Eka Prasetyo](https://github.com/eka0789)
 - [Yudai Kobayashi](https://github.com/Asuha-a)
 - [Thiag](https://github.com/thiagu89)
+- [Luis Saiete](https://github.com/ltsaiete)
 - [Artem p] (https://github.com/Greindes)
 - [maktavish] (https://github.com/maktavish)
 - [samuel0480] (https://github.com/samuel0480)
