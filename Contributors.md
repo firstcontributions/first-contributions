@@ -14,6 +14,7 @@
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Mita Samanta] (https://github.com/mitasamanta)
+- [Joseph Kishore](https://github.com/Joseph-Kishore)
 - [Andre Kurniawan] (https://github.com/oidre)
 - [Hussein Akar] (https://github.com/hussein-akar)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
