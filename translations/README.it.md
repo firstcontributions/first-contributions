@@ -16,8 +16,8 @@ Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/article
 
 ## Forka questa repository
 
-Forka questa repo (cartella) cliccando sul bottone fork in cima alla pagina.
-Questo creeerà una copia di questa repository nel tuo account.
+Forka questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
+Questo creerà una copia di questa repository nel tuo account.
 
 ## Clona la repository
 
