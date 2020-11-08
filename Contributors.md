@@ -7574,6 +7574,7 @@ Pooja Muthalik
 - [Tri Minh Tran](https://github.com/Tris-909)
 - [Ale Rodríguez](https://github.com/rgaezsd)
 - [Michael Gehring](https://github.com/mdxg)
+- [Jatmika Teja](https://github.com/thejatmik)
 - [Mengty Vong](https://github.com/vongmengty)
 - [Iker Ortega](https://github.com/IkerOrtega)
 - [Hamid Azizi](https://github.com/grandpa22)
