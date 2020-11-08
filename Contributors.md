@@ -7627,3 +7627,4 @@ Pooja Muthalik
 - [berkslv])(https://github.com/berkslv)
 - [compandcode])(https://github.com/compandcode)
 - [Mo-esmail](https://github.com/Mo-esmail)
+- [Nick Materise](https://github.com/nmaterise)
