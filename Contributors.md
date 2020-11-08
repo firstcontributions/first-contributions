@@ -89,7 +89,9 @@ Pooja Muthalik
  -[Debaghosh](https://github.com/debaghosh)
  -[Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan] (https://github.com/harithamohan1)
-- [Chong Kim] (https://github.com/yportne8)
+- [Nandini Verma](https://github.com/NVSUCCESS)
+- Nandini Verma
+- [Chong Kim](https://github.com/yportne8)
 - [EllaCherrystone]
 - [Anv UDemy](https://github.com/anvudemy)
 - [Silvia Candia] (https://github.com/Silvia-Candia)
