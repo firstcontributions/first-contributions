@@ -7621,6 +7621,7 @@ Pooja Muthalik
 - [Hamid Azizi](https://github.com/grandpa22)
 - [Michael Plainer](https://github.com/plainerman)
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
+- [Kevin Zhou](https://github.com/kevinzous)
 - [Zhongjian Tan](https://github.com/buckfield)
 - [Mikołaj Koszczyc](https://github.com/mikoszczyc)
 - [Daniel Hoekwater](https://github.com/danieh65)
