@@ -11,6 +11,7 @@
 - [Shyamrox] (https://github.com/shyamrox)
 - [Joao Almeida] (https://github.com/joao-vta)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
+- [Hritika Dhasal] (https://github.com/HellFire03)
 - [Prerak Shah] (https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
