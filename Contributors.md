@@ -99,6 +99,7 @@ Pooja Muthalik
 - [Cihan Orhan](https://github.com/cihanorhan)
 - [Shawn Maybush](https://github.com/shawn-maybush)
 - [Haritha Mohan](https://github.com/harithamohan1)
+- [Stephen Morgan](https://github.com/rebelopsio)
 - [Aman](https://github.com)
 - [Harshavardhan I](https://github.com/harshavardhan-i)
 - [Uchechukwu Okereke](https://github.com/ThePfarrer)
