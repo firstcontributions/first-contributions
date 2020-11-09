@@ -573,6 +573,7 @@ Pooja Muthalik
 - [Max Zawisa](https://github.com/maxrzaw)
 - [Poonam Firodiya](https://github.com/poonam906)
 - [Lacee Xu](https://github.com/laceett)
+- [Nirjhar Debnath](https://github.com/nirjhar100)
 - [Florian Bieck](https://github.com/florianBieck)
 - [Pablo Santos](http://github.com/ryhan123)
 - [Josue Bolanos](https://github.com/jbolanosc)
