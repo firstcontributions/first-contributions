@@ -26,6 +26,7 @@
 - [Trim Muharremi] (https://github.com/TrimMuharremi)
 - [Maria Losada (https://github.com/codemary13)
 - [Avery Novick] (https://github.com/averynov)
+- [Carlos Camacho] (https://github.com/MrCharlss)
 - [David Mayevsky] (https://github.com/dmayevsky)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
 - [Lavrentev Stanislav](https://github.com/hvoyka)
