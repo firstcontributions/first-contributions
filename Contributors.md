@@ -7657,3 +7657,4 @@ Pooja Muthalik
 -[Saurav Chamoli](https://github.com/sauravchamoli17)
 - [Nikesh Maharjan](https://github.com/nikeshmhr)
 - [Daniel Chung](https://github.com/dolphinOfDelphi)
+- [Simon S.](https://github.com/stisimon)
