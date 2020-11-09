@@ -63,6 +63,7 @@
 - [Vikas Bansal](https://github.com/Vikuman/)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
 - Jarred Lopez
+- [Alejandro Rodriguez Lopez](https://github.com/AlejandroRdzLpz/)
 - [Kevin Satti](https://github.com/Kevlar2222)
 - [Linda Chun](https://github.com/Linda-OC)
 - [Sarvesh Khandelwal](https://github.com/SARVESHKHANDELWAL/)
