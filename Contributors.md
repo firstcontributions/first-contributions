@@ -2257,6 +2257,7 @@ Pooja Muthalik
 - [Pooja Prabhu](https://github.com/POOJAPRABHU450)
 - James Hall
 - [Laimonas Dabužinskas](https://github.com/kiskis1)
+- [Simon Socolow](https://github.com/ssocolow)
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Sam Dudeja](https://github.com/sam4184)
 - [Ahmed A](https://github.com/a-s-ahmed)
