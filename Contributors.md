@@ -2152,6 +2152,7 @@ Pooja Muthalik
 - [George Troupis](https://github.com/georgetroupis)
 - [Andrew Hartwell](https://github.com/arhartwe)
 - [Andres Hernandez](https://github.com/melkyr)
+- [ManderYao](https://github.com/manderyao)
 - [Charan Kumar Raju RUDRARAJU](https://github.com/CharanRudraraju)
 - [WeiHao Kuang](https://github.com/kuangticus)
 - [Emir Karic](https://github.com/emirKaric)
