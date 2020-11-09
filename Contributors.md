@@ -1,5 +1,6 @@
 # Contributors
 - [Arsh Dhillon](https://github.com/arshd1230)
+- [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Linusaltacc](https://github.com/linusaltacc)
 - [G2048](https://github.com/G2048)
@@ -11,13 +12,16 @@
 - [Shyamrox] (https://github.com/shyamrox)
 - [Joao Almeida] (https://github.com/joao-vta)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
+- [Hritika Dhasal] (https://github.com/HellFire03)
 - [Prerak Shah] (https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
+- [Kimberly Marroquin] (https://github.com/kmarroq1)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
+- [Amby Mbayi] (https://github.com/AmbyMbayi)
 - [Ashutosh Kumar Sah] (https://github.com/ashu-cybertron)
 - [is0xjh25] (https://github.com/is0xjh25)
 - [Mita Samanta] (https://github.com/mitasamanta)
-- [Joseph Kishore](https://github.com/Joseph-Kishore)
+- [Joseph Kishore] (https://github.com/Joseph-Kishore)
 - [Andre Kurniawan] (https://github.com/oidre)
 - [Hussein Akar] (https://github.com/hussein-akar)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
@@ -164,6 +168,7 @@ Pooja Muthalik
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Suyash](github.com/Suyious)
 - [William Ah Tou]
+- [Matt Martindale](https://github.com/Marty2327)
 - [Dmitry S](https://github.com/Dmitry-Sm)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
 - [Marian Watson](https://github.com/marianwatson)
@@ -324,6 +329,7 @@ Pooja Muthalik
 - [Aditya Sriram] (https://github.com/aweditya)
 - [Sopeade Lanlehin] (https://github.com/sopeade)
 - gargi
+- [Jack Collins](https://github.com/jack-collins94)
 - Mayank Kinger
 - [Lary Mak](https://github.com/larymak)
 - [Laurentiu Trofosila](https://github.com/trofosila)
@@ -398,6 +404,7 @@ Pooja Muthalik
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
 - Minh Le
+- Catherine Pas
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Marcus Visic] (https://github.com/mvisic)
 - [Abu Sayed Jobayer](https://github.com/zobay)
@@ -594,6 +601,7 @@ Pooja Muthalik
 - [Juan Grajales](https://github.com/juansongrajales)
 - [Akshatha K Poojary](https://github.com/AkshathaKPoojary)
 - [Steven Joseph](https://github.com/stevenjos27)
+  [Arumugaprakash T](https://github.com/phoenix1898)
 - [Courtney Buratto](https://github.com/cocoitali)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
@@ -4965,6 +4973,7 @@ Pooja Muthalik
 - [nnuch](https://github.com/nnuch)
 - [Tanmay-Chavan](https://github.com/Tanmay-Chavan)
 - [Kinoahi](https://github.com/Kinoahi)
+- [Arash Gh](https://github.com/arashgh68)
 - [Tim Crammond](https://github.com/tcramm0nd/)
 - [Tony-oldport](https://github.com/tony-oldport/)
 - [Jonathan Barker](https://github.com/jonathanbarker)
@@ -7571,7 +7580,7 @@ Pooja Muthalik
 - [MonkBilal]  (https://github.com/MonkBilal)
 - [Elaina Richard](https://github.com/ekrichard)
 - [Matthew](https://github.com/matthewpalmer9)
-- [Sgarg]  (https://github.com/sgarg24)
+- [Sgarg] (https://github.com/sgarg24)
 - [ganeshrahul23] (https://github.com/ganeshrahul23)
 - [Sameerul Haque] (https://github.com/sameerul)
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
@@ -7620,6 +7629,7 @@ Pooja Muthalik
 - [Hamid Azizi](https://github.com/grandpa22)
 - [Michael Plainer](https://github.com/plainerman)
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
+- [Kevin Zhou](https://github.com/kevinzous)
 - [Zhongjian Tan](https://github.com/buckfield)
 - [Mikołaj Koszczyc](https://github.com/mikoszczyc)
 - [Daniel Hoekwater](https://github.com/danieh65)
@@ -7642,3 +7652,5 @@ Pooja Muthalik
 - [Mo-esmail](https://github.com/Mo-esmail)
 - [Nick Materise](https://github.com/nmaterise)
 -[Jayden Dyer](https://github.com/jaydendyer10)
+-[Saurav Chamoli](https://github.com/sauravchamoli17)
+- [Nikesh Maharjan](https://github.com/nikeshmhr)
