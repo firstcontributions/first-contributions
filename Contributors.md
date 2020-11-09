@@ -205,6 +205,7 @@ Pooja Muthalik
 - [Guang Lim](https://github.com/gylim0604)
 - Alejandro Rodriquez
 - Richard Cho
+- [Jeffrey Chen](https://github.com/Jechen27) 
 - Ingrid Marcal
 - Yedukrishna K
 - Shubhra Jyoti(https://github.com/Shubhraaa)
