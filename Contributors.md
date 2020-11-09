@@ -400,6 +400,7 @@ Pooja Muthalik
 - [Andrea Barzaghi](https://github.com/dbrn)
 - Thomas Chase
 - Minh Le
+- Catherine Pas
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Marcus Visic] (https://github.com/mvisic)
 - [Abu Sayed Jobayer](https://github.com/zobay)
@@ -7573,7 +7574,7 @@ Pooja Muthalik
 - [MonkBilal]  (https://github.com/MonkBilal)
 - [Elaina Richard](https://github.com/ekrichard)
 - [Matthew](https://github.com/matthewpalmer9)
-- [Sgarg]  (https://github.com/sgarg24)
+- [Sgarg] (https://github.com/sgarg24)
 - [ganeshrahul23] (https://github.com/ganeshrahul23)
 - [Sameerul Haque] (https://github.com/sameerul)
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
