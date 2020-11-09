@@ -6,6 +6,7 @@
 - [G2048](https://github.com/G2048)
 - [Matt Kelley] (https://github.com/mattshu)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
+- [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski] (https://github.com/edg570)
 - [Cory Bass] (https://github.com/cbass2404)
 - [Manish Pillai] (https://github.com/PillaiManish)
