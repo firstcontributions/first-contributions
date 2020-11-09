@@ -7624,4 +7624,4 @@ Pooja Muthalik
 - [BabakAbdzadeh](https://github.com/BabakAbdzadeh)
 - [yash1493](https://github.com/yash1493/first-contributions)
 - [berkslv])(https://github.com/berkslv)
-- [Arvi Kirjonen 👋😀](https://github.com/rvq)
+- [Arvi Kirjonen](https://github.com/rvq)
