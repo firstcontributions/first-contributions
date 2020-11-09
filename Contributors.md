@@ -374,6 +374,7 @@ Pooja Muthalik
 - [Saurav Kumar](https://github.com/saurav2609)
 - [Savannah Niemeyer](https://github.com/sniemeyer1)
 - [Rohith Ravindranath](https://github.com/rohithravin)
+- Ben Tripp :)
 - [Michael Wilson](https://github.com/WilsonMJ)
 - [Liplan Lekipising](https://github.com/lekipising)
 - [Yumozi](https://github.com/aia7k7k)
