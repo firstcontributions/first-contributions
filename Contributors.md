@@ -22,6 +22,7 @@
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Vrinda Tyagi]
 - [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
+- [Michael M Chiwere] (https://github.com/RationalEar)
 - [Jake Cillay] (https://github.com/jcillay)
 - [Trim Muharremi] (https://github.com/TrimMuharremi)
 - [Maria Losada (https://github.com/codemary13)
