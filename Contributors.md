@@ -1,4 +1,5 @@
 # Contributors
+- [Arsh Dhillon](https://github.com/arshd1230)
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Linusaltacc](https://github.com/linusaltacc)
 - [G2048](https://github.com/G2048)
