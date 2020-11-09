@@ -14,6 +14,7 @@
 - [Prerak Shah] (https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
+- [Ashutosh Kumar Sah] (https://github.com/ashu-cybertron)
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Joseph Kishore](https://github.com/Joseph-Kishore)
 - [Andre Kurniawan] (https://github.com/oidre)
