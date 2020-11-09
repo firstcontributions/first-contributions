@@ -6,11 +6,11 @@
 
 # Primeres Contribucions
 
-És difícil. Sempre ho és quan es fa algo per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
+És difícil. Sempre ho és quan es fa alguna cosa per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
 
 Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si voleu fer la primera contribució, seguiu les instruccions que es mostren a continuació: 
 
-#### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-amb-altres-eines )*
+#### *Si no esteu còmodes amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-amb-altres-eines )*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fer fork d'aquest repsoitori" />
 
@@ -90,13 +90,13 @@ git push origin <afegiu-el-nom-de-la-branca>
 ```
 reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que heu creat anteriorment.
 
-## Envía (*Submit*) els canvis per a ser revisats
+## Envia (*Submit*) els canvis per a ser revisats
 
 Si aneu al vostre respositori a GitHub, veureu un botó  `Compare & pull request`. Cliqueu sobre aquest botó.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="crear una pull request" />
 
-Envía la *pull request*.
+Envieu la *pull request*.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="envia la pull request" />
 
@@ -110,7 +110,7 @@ Celebreu la vostra contribució i compartiu-ho amb els vostres amics i seguidors
 
 Podeu unir-vos al nostre equip d'*slack* en cas de que necessiteu ajuda o tingueu alguna pregunta. [Unir-se a l'equip d'slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Ara anem a preparar-nos per a contribuir a altres projectes. Hem reunit una llista de projectes amb îssues* facils per a que pugueu començar. Doneu un cop d'ull [la llista de projectes en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Ara anem a preparar-nos per a contribuir a altres projectes. Hem reunit una llista de projectes amb *issues* facils per a que pugueu començar. Doneu un cop d'ull [la llista de projectes en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
