@@ -328,6 +328,7 @@ Pooja Muthalik
 - [Aditya Sriram] (https://github.com/aweditya)
 - [Sopeade Lanlehin] (https://github.com/sopeade)
 - gargi
+- [Jack Collins](https://github.com/jack-collins94)
 - Mayank Kinger
 - [Lary Mak](https://github.com/larymak)
 - [Laurentiu Trofosila](https://github.com/trofosila)
