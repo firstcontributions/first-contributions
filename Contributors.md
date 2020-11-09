@@ -8,6 +8,7 @@
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski] (https://github.com/edg570)
+- [Rafael Adricula] (https://github.com/radricul)
 - [Cory Bass] (https://github.com/cbass2404)
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
