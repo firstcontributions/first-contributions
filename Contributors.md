@@ -14,6 +14,7 @@
 - [Hritika Dhasal] (https://github.com/HellFire03)
 - [Prerak Shah] (https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
+- [Kimberly Marroquin] (https://github.com/kmarroq1)
 - [Paul Tomoiaga] (https://github.com/AytonReader)
 - [Ashutosh Kumar Sah] (https://github.com/ashu-cybertron)
 - [is0xjh25] (https://github.com/is0xjh25)
