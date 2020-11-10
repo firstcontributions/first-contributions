@@ -58,6 +58,7 @@
 - [Tamil Selvan] (https://github.com/tamizhad)
 - [Ayush Nandi] (https://github.com/xarcode)
 - [Ankit Josh] (https://github.com/ankitjosh78)
+- [IngeniousArtist] (https://github.com/ingeniousartist)
 -  [Navenn] https://github.com/naveen8801)
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Ali Ghazal] (https://github.com/alighazal)
