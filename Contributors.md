@@ -199,6 +199,7 @@ Pooja Muthalik
 - [Cindy Brown](https://github.com/ceeblet)
 - Kashish 2000
 - [Sid Mirza](https://github.com/sidmirza4)
+- [Sabbir Rifat](https://github.com/sabbirrifat)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [Christian Lao](https://github.com/christianlao12)
