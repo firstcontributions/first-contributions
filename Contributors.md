@@ -31,6 +31,7 @@
 - [Amby Mbayi] (https://github.com/AmbyMbayi)
 - [Ashutosh Kumar Sah] (https://github.com/ashu-cybertron)
 - [is0xjh25] (https://github.com/is0xjh25)
+- [Arvi Kirjonen] (https://github.com/rvq)
 - [Mita Samanta] (https://github.com/mitasamanta)
 - [Joseph Kishore] (https://github.com/Joseph-Kishore)
 - [Andre Kurniawan] (https://github.com/oidre)
