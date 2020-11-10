@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
@@ -7679,3 +7679,4 @@ Pooja Muthalik
 - [Flippant Banana](https://github.com/flippantbanana24)
 - [Leonard Goldstein](https://github.com/goldst)
 - [Lukas Stevens](https://github.com/lukasstevens)
+- [Areen Kaur](https://github.com/Areen161)
