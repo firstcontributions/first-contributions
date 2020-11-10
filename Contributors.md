@@ -18,6 +18,7 @@
 -[Urvi](https://github.com/cp-urvi-k)
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
+- [Jordan Long] (https://github.com/JordanLong1)
 - [Joao Almeida] (https://github.com/joao-vta)
 - [Kelly Davis](https://github.com/kad1001)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
