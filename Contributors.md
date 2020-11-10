@@ -78,6 +78,7 @@
 - [Pragati Bansal](https://github.com/pragx12)
 - [Shravan A J](https://github.com/ShravanCool)
 - [Jaden Walker](https://github.com/jaden6r6r)
+- [Adithya Suresh](https://github.com/AdiSuresh)
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
