@@ -1,6 +1,7 @@
 # Contributors
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
+- [Cherie Wu](https://github.com/inspurwusixuan)
 - [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Linusaltacc](https://github.com/linusaltacc)
@@ -200,7 +201,6 @@ Pooja Muthalik
 - [Matthew Davenport](https://github.com/davenport1)
 - [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
-
 - [Ali Shehbaz](https://github.com/alishehbaz)
 - [Ravi Bhatt](https://github.com/raviRB)
 - [Jay Gajjar](https://github.com/j-j-gajjar)
