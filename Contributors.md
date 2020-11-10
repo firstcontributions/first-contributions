@@ -3503,6 +3503,7 @@ Pooja Muthalik
 - Seb Ots
 - Rohit Patil
 - [Yasharth Tripathi](https://github.com/yasharthratan)
+- [Joe Jolley](https://github.com/jolleyjoe)
 - [Abhay Kumar Verma](https://github.com/darkRaspberry)
 - [Jane Muthoni](https://github.com/muchirijane)
 - [Mahmoud Attia](https://github.com/Atattia)
