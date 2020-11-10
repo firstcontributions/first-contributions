@@ -305,6 +305,7 @@ Pooja Muthalik
 - [Michael Singh](https://github.com/singhmi4)
 - [Thao Pham](https://github.com/thaopham1816/)
 - [Elena Gumerova](https://github.com/ElenaProject)
+- [Dan Truong] (https://github.com/Syntax3rr/)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
 - [Varad Dingankar](https://github.com/vmdhhh)
 - [James O'Meara](https://github.com/Jamesomeara93)
