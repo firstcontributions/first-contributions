@@ -14,6 +14,7 @@
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
 - [Joao Almeida] (https://github.com/joao-vta)
+- [Kelly Davis](https://github.com/kad1001)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Hritika Dhasal] (https://github.com/HellFire03)
 - [Prerak Shah] (https://github.com/Prerakshah98)
