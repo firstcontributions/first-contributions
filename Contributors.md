@@ -2,6 +2,7 @@
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
+- [Sylvain Empson] (https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
