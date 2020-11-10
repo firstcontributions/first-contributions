@@ -7663,4 +7663,4 @@ Pooja Muthalik
 - [Nikesh Maharjan](https://github.com/nikeshmhr)
 - [Daniel Chung](https://github.com/dolphinOfDelphi)
 - [Simon S.](https://github.com/stisimon)
-- [Silvio Cezar](https:/github.com/compare)
+- [Davi Yan](https://github.com/daviyan5)
