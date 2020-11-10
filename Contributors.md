@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
@@ -2429,6 +2429,7 @@ Pooja Muthalik
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Selahittin Saytaş](https://github.com/saytas)
 - i-am-none
+-sanjaya ghimire
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [ch sai monish](https://github.com/ch-monish/)
