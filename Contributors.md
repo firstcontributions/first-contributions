@@ -4,6 +4,7 @@
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
+- [Surya Siriki](https://github.com/suryasiriki4)
 - [Linusaltacc](https://github.com/linusaltacc)
 - [G2048](https://github.com/G2048)
 - [Matt Kelley] (https://github.com/mattshu)
