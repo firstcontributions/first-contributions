@@ -6772,6 +6772,7 @@ Pooja Muthalik
 - [Ragosk](https://github.com/Ragosk)
 - [Eiji Oga](https://github.com/eqj619)
 - [Infaz](https://github.com/infaz98)
+- [Alterego]
 - [Luma Rodrigues](https://github.com/luumarodrigues)
 - [Allen J](https://github.com/uuuiii00)
 - [Ahimeir Benisti](https://github.com/MeirBen)
