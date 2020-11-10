@@ -747,6 +747,7 @@ Pooja Muthalik
 - [Hank Atherton](https://github.com/warmoverdrive)
 - [Gracyn Green](https://github.com/gg371)
 - [Nino Mercado](https://github.com/njmercado)
+- [Hammad Shafiq](https://github.com/hmdbupt)
 - [A Dinkins](https://github.com/adinkins2019)
 - [Priyanka Surakanti](https://github.com/priyanka-surakanti/)
 - [S Bharath](http://github.com/sapprazz)
