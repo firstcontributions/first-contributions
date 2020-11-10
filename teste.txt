@@ -1,0 +1,14 @@
+total 400
+drwxrwxr-x 8 silvio silvio   4096 nov  9 21:15 ./
+drwxrwxr-x 3 silvio silvio   4096 nov  9 20:58 ../
+drwxrwxr-x 4 silvio silvio   4096 nov  9 20:58 additional-material/
+drwxrwxr-x 2 silvio silvio   4096 nov  9 20:58 assets/
+-rw-rw-r-- 1 silvio silvio   3082 nov  9 20:58 CODE_OF_CONDUCT.md
+-rwxrwxr-x 1 silvio silvio 345029 nov  9 21:11 Contributors.md*
+drwxrwxr-x 8 silvio silvio   4096 nov  9 21:15 .git/
+drwxrwxr-x 2 silvio silvio   4096 nov  9 20:58 .github/
+drwxrwxr-x 3 silvio silvio   4096 nov  9 20:58 gui-tool-tutorials/
+-rw-rw-r-- 1 silvio silvio   1116 nov  9 20:58 LICENSE
+-rw-rw-r-- 1 silvio silvio  18889 nov  9 20:59 README.md
+-rw-rw-r-- 1 silvio silvio      0 nov  9 21:15 teste.txt
+drwxrwxr-x 2 silvio silvio   4096 nov  9 20:58 translations/
