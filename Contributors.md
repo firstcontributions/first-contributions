@@ -7649,6 +7649,7 @@ Pooja Muthalik
 - [Guillermo Gomez](https://github.com/mlgxmez)
 - [Mithesh] (https://github.com/mithesh109)
 - [Evan Panek] (https://github.com/Evanissimo)
+- [Jicson Toh](https://github.com/jicsontoh)
 - [Charlotte A. Wilson] (https://github.com/CAWilson94)
 - [Andrey Sydorenko](https://github.com/Andrey10150)
 - [DeviC3](https://github.com/DeviC3/)
