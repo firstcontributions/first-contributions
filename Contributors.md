@@ -1,7 +1,8 @@
 # Contributors
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
-- [Anubhav Sharma](https://github.com/anubhvshrma18)
+- [Anubhav Sharma](https://github.com/anubhvshrma18)             
+- [Barret](https://github.com/xiong-ang)   
 - [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Surya Siriki](https://github.com/suryasiriki4)
@@ -16,7 +17,7 @@
 - [Cory Bass] (https://github.com/cbass2404)
 -[Urvi](https://github.com/cp-urvi-k)
 - [Manish Pillai] (https://github.com/PillaiManish)
-- [Shyamrox] (https://github.com/shyamrox)
+- [Shyamrox] (https://github.com/shyamrox)    
 - [Joao Almeida] (https://github.com/joao-vta)
 - [Kelly Davis](https://github.com/kad1001)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
