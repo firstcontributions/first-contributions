@@ -8,6 +8,7 @@
 - [G2048](https://github.com/G2048)
 - [Matt Kelley] (https://github.com/mattshu)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
+- [Marchantia](https://github.com/mrchntia)
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski] (https://github.com/edg570)
 - [Rafael Adricula] (https://github.com/radricul)
