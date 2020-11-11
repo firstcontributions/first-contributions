@@ -1,7 +1,6 @@
 # Contributors
--[Ruan Kang](https://github.com/RuanKang)
+- [Ruan Kang](https://github.com/RuanKang)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
--[Anderson]
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Basil Khan](https://github.com/basilk76)
 - [bismillakhans](https://github.com/bismillakhans)
@@ -24,7 +23,7 @@
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula] (https://github.com/radricul)
 - [Cory Bass] (https://github.com/cbass2404)
--[Urvi](https://github.com/cp-urvi-k)
+- [Urvi](https://github.com/cp-urvi-k)
 - [Manish Pillai] (https://github.com/PillaiManish)
 - [Shyamrox] (https://github.com/shyamrox)
 - [Moh Hassan] (https://github.com/medh2000)
