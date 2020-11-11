@@ -1980,6 +1980,7 @@ Pooja Muthalik
 - [Jason Weyland](https://github.com/JWeyland12)
 - [Lebohang Kuenane](https://github.com/kuenane)
 - [V01D](https://github.com/V01D-NULL)
+- [Diagnosa Fenomena](https://github.com/diagnosa)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [Riddhi Hakani](https://www.github.com/riddhihakani)
 - [codedevbrad](https://github.com/codedevbrad)
