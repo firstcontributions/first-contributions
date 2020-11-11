@@ -1,4 +1,5 @@
 # Contributors
+---[Karthik Jangid](https://github.com/Cpt-Karthik)
 -[Ruan Kang](https://github.com/RuanKang)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 -[Anderson]
@@ -19,7 +20,7 @@
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski] (https://github.com/edg570)
 - [Amlanjyoti Saikia]
-- [Hana Abayneh] (https://github.com/hanaby)
+https://github.com/Cpt-Karthik/first-contributions- [Hana Abayneh] (https://github.com/hanaby)
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula] (https://github.com/radricul)
 - [Cory Bass] (https://github.com/cbass2404)
