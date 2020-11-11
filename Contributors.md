@@ -7655,6 +7655,7 @@ Pooja Muthalik
 - [Sam Mayer](https://github.com/samayer12)
 - [Kannappan](https://github.com/KACHIDA)
 - [Olsza](https://github.com/Olsza)
+- [john-o-keeffe](https://github.com/john-o-keeffe)
 - [starfishbravo](https://github.com/starfishbravo)
 - [jihongeek](https://github.com/jihongeek)
 - [Tharindu]( :-D )
@@ -7716,4 +7717,3 @@ Pooja Muthalik
 - [Kowalski](https://github.com/K0WALSKl)
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
-- [john-o-keeffe](https://github.com/john-o-keeffe)
