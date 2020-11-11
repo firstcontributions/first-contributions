@@ -78,6 +78,7 @@
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - Alexa Carrington (https://github.com/aacarring)
+- Gbenga Kusade (https://github.com/jagkush)
 - Bryce Videka 
 - [Vikas Bansal](https://github.com/Vikuman/)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
