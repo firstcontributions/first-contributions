@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@ Membaca artikel & menonton tutorial boleh membantu, tetapi apa yang lebih baik d
 
 #### *Jika anda tidak selesa dengan 'command line', [sini adalah tutorial menggunakan alat GUI.]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Jika anda tidak mempunyai git dalam mesin kamu, [pasang](https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Ini akan membuat salinan repositori ini dalam akaun kamu.
 
 ## Klon repositori
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Sekarang klon repo yang bercabang ke mesin kamu. Pergi ke akaun GitHub anda, buka repo yang bercabang, klik pada butang klon dan kemudian klik ikon * copy to clipboard *.
 
@@ -34,7 +34,7 @@ git clone "url anda baru disalin"
 ```
 dimana "url anda baru disalin" (tanpa tanda petikan) adalah url ke repositori ini (fork projek anda). Lihat langkah-langkah sebelumnya untuk mendapatkan url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Contoh:
 ```
@@ -64,7 +64,7 @@ git checkout -b add-alonzo-church
 
 Sekarang buka fail `Contributors.md` dalam editor teks, tambahkan nama anda kepadanya. Jangan tambahkannya pada awal atau akhir fail. Letakkan di mana sahaja di antara. Sekarang, simpan fail itu.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 Jika anda pergi ke direktori projek dan laksanakan arahan `git status`, kamu akan melihat perubahanya.
@@ -93,11 +93,11 @@ menggantikan `<add-your-branch-name>` dengan nama cawangan yang kamu cipta sebel
 
 Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik pada butang itu.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Sekarang hantar 'pull request' itu.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Tidak lama lagi saya akan menggabungkan semua perubahan anda ke cawangan 'master' projek ini. Anda akan mendapat e-mel pemberitahuan sebaik sahaja perubahan telah digabungkan.
 
