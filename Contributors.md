@@ -17,6 +17,7 @@
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski] (https://github.com/edg570)
 - [Amlanjyoti Saikia]
+- [Hana Abayneh] (https://github.com/hanaby)
 - [Rafael Adricula] (https://github.com/radricul)
 - [Cory Bass] (https://github.com/cbass2404)
 -[Urvi](https://github.com/cp-urvi-k)
