@@ -47,6 +47,7 @@
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Vrinda Tyagi]
 - [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
+- [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere] (https://github.com/RationalEar)
 - [Jake Cillay] (https://github.com/jcillay)
 - [Trim Muharremi] (https://github.com/TrimMuharremi)
