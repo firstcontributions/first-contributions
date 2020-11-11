@@ -7395,6 +7395,7 @@ Pooja Muthalik
 - [Nijin Kovval](https://github.com/nijinkovval)
   – [Ines Fernandez](http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
+- [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
