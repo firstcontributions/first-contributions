@@ -4,6 +4,7 @@
 -[Anderson]
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
+- [Tyler Allen](https://github.com/tylerjallen02)
 - [Basil Khan](https://github.com/basilk76)
 - [bismillakhans](https://github.com/bismillakhans)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
