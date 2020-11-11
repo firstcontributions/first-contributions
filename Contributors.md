@@ -3911,7 +3911,7 @@ Pooja Muthalik
 - [Sam Kim](https://github.com/lekoreanbaguette)
 - [Dan Fleming](https://github.com/DanFleming)
 - [Helen Chen](https://github.com/helenchen1003)
-- [Zai Santillan(https://github.com/plskz)
+- [Zai Santillan](https://github.com/plskz)
 - [Daivik Purani](https://github.com/DAIIVIIK)
 - [Austin Ogola](https://github.com/augolla/)
 - [Damilola Ezekiel](https://github.com/dharmelolar)
