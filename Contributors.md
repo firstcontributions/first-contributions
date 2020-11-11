@@ -172,6 +172,7 @@ Pooja Muthalik
 - [Khalid Francis](https://github.com/KHALIDFRANCIS)
 - AARA
 - [Alexander Mosquea](https://github.com/ALmsq)
+- [Roberto Adolfo Herrera Soriano](https://github.com/robsorRS)
 - [JAGCV] (https://github.com/joseagcv)
 - [Sanidhya Gupta] (http://github.com/sanidhyag1)
 - [Douglas McWherter] (https://github.com/teserve)
