@@ -63,6 +63,7 @@
 - [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
+- [Kamil Sikora] (https://github.com/sikorakamil26)
 - [Abbey Centers] (https://github.com/abbeyLC)
 - [Tamil Selvan] (https://github.com/tamizhad)
 - [Ayush Nandi] (https://github.com/xarcode)
