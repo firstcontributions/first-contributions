@@ -8,6 +8,7 @@
 - [Basil Khan](https://github.com/basilk76)
 - [bismillakhans](https://github.com/bismillakhans)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
+- [Dong Wang](https://github.com/a1779748)
 - [Sylvain Empson] (https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Taimoor Imran](https://github.com/taimoorimran)
