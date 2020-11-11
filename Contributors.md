@@ -31,6 +31,7 @@
 - [Jordan Long] (https://github.com/JordanLong1)
 - [Joao Almeida] (https://github.com/joao-vta)
 - [Kelly Davis](https://github.com/kad1001)
+- [Deepak Singh](https://github.com/creepy-pirate)
 - [Diego Mucheniski] (https://github.com/mucheniski)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Hritika Dhasal] (https://github.com/HellFire03)
