@@ -3902,6 +3902,7 @@ Pooja Muthalik
 - po10tial
 - Phileas Fogg
 - [Kaleb](https://github.com/kalebino)
+- [Mariuszix] (https://github.com/Mariuszix)
 - [Karen](https://github.com/kleyla)
 - [MoulayYoussef ElAdlouni](https://github.com/androdesu)
 - [Nitish Kumar P](https://github.com/nitishp051843)
