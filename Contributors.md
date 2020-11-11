@@ -8,6 +8,7 @@
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Surya Siriki](https://github.com/suryasiriki4)
 - [Linusaltacc](https://github.com/linusaltacc)
+- [Kamto Astrid](https://github.com/KT360)
 - [G2048](https://github.com/G2048)
 - [Matt Kelley] (https://github.com/mattshu)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
