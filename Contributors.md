@@ -141,6 +141,7 @@ Pooja Muthalik
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
 - [Arif Khan](https://github.com/Google987)
 - [Aidan Henry](https://github.com/ajhenry00)
+- [elasa7](https://github.com/ajhenry00)
 - [Harshavardhan I] (https://github.com/harshavardhan-i)
 - [Ashish Burnwal] (https://github.com/ashish1816)
 -[Steve Lambert] (https://github.com/CherryBlueStudio)
