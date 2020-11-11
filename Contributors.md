@@ -17,6 +17,7 @@
 - [Linusaltacc](https://github.com/linusaltacc)
 - [Kamto Astrid](https://github.com/KT360)
 - [G2048](https://github.com/G2048)
+- [DionWeb](https://github.com/dionweb)
 - [Matt Kelley] (https://github.com/mattshu)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
 - [Marchantia](https://github.com/mrchntia)
