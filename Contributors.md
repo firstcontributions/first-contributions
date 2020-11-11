@@ -3,6 +3,7 @@
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 -[Anderson]
 - [Arsh Dhillon](https://github.com/arshd1230)
+- [Basil Khan](https://github.com/basilk76)
 - [bismillakhans](https://github.com/bismillakhans)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
 - [Sylvain Empson] (https://github.com/sylvain-01)
