@@ -328,6 +328,7 @@ Pooja Muthalik
 -[Nathan N](https://github.com/NathanNgoy)
 - Mr Mister Meyster
 - Andrew Shum
+- Sumit Bhuin
 - [Sweta Kabi] (https://github.com/sweta98)
 - [Jessica Wadsworth] (https://github.com/jessicalorenac)
 - [Túlio Chiodi] (https://github.com/TulioChiodi/)
