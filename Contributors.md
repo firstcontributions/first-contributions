@@ -1,5 +1,6 @@
 # Contributors
--[Ruan Kang](https://github.com/RuanKang)
+- [Daniel Benzion](https://github.com/daniel-benzion)
+- [Ruan Kang](https://github.com/RuanKang)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 -[Anderson]
 - [Arsh Dhillon](https://github.com/arshd1230)
