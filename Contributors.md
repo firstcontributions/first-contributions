@@ -4836,6 +4836,7 @@
 - [Hao Wei Goh](https://github.com/haowei920)
 - [Comadfrik](https://github.com/comadfrik)
 - [Saboo](https://github.com/Saboo27)
+- [B_Squigs]
 - [Anes Abismail](https://github.com/anesabml)
 - [Lucas Melo](https://github.com/lucasmeloo)
 - [Matt SQ](https://github.com/greyghost13)
