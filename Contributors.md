@@ -1,11 +1,14 @@
 # Contributors
 - [jaywhen](https://github.com/jaywhen)
+- [NoneBack](https://github.com/noneback)  
 - [ChenPengf](https://github.com/ChenPengf)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
-- [Anderson]
+- [Krittin Jaruvisut](https://github.com/krittin-58)
+- [Anderson]()
+- [Neha Sahoo](https://github.com/neha-s14)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
@@ -30,6 +33,7 @@
 - [Ed Glazenski](https://github.com/edg570)
 - [Amlanjyoti Saikia]
 - [Hana Abayneh](https://github.com/hanaby)
+- [hasham56](https://github.com/hasham56)
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula](https://github.com/radricul)
 - [Cory Bass](https://github.com/cbass2404)
@@ -321,13 +325,14 @@
 - [pitamer](https://github.com/pitamer)
 - Jerry B
 - Mohammad Mustafa
--[Nathan N](https://github.com/NathanNgoy)
+-[ Nathan N](https://github.com/NathanNgoy)
 - Mr Mister Meyster
 - Andrew Shum
 - [Sweta Kabi](https://github.com/sweta98)
 - [Jessica Wadsworth](https://github.com/jessicalorenac)
 - [Túlio Chiodi](https://github.com/TulioChiodi/)
 - [Ahmad Shaaban](https://github.com/AhmadShaaban)
+- Sumit Bhuin
 - [sidrhelli](https://github.com/sidrhelli)
 - [Tomi Adenekan](https://github.com/Code-Jym) Nice to Be Here :)
 - [Wai_Yan_Tun](https://github.com/WaiYanHtun-96)
@@ -7733,3 +7738,4 @@
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
 - [HerdiandKun](https://github.com/herdiandkun)
+- [Opal Thongpetch](https://github.com/crystalclear506/)
