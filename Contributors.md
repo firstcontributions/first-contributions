@@ -11,6 +11,7 @@
 - [Anderson]()
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Arsh Dhillon](https://github.com/arshd1230)
+- [Harsh Trivedi](https://github.com/Harsh4999)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
 - [Basil Khan](https://github.com/basilk76)
