@@ -7747,6 +7747,9 @@
 - [Lukas Stevens](https://github.com/lukasstevens)
 - [Areen Kaur](https://github.com/Areen161)
 - [Kowalski](https://github.com/K0WALSKl)
+
+- [Nicholas Drobot](https://github.com/MechyMind)
+
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
@@ -7754,3 +7757,4 @@
 - [Opal Thongpetch](https://github.com/crystalclear506/)
 - [Slawek Biel](https://github.com/slawekslex)
 - [Nessie](https://github.com/inesisprograming)
+
