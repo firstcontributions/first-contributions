@@ -29,6 +29,7 @@
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski] (https://github.com/edg570)
 - [Amlanjyoti Saikia]
+- [hasham56](https://github.com/hasham56)
 - [Hana Abayneh] (https://github.com/hanaby)
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula] (https://github.com/radricul)
