@@ -16,7 +16,7 @@
 - [Arsh Dhillon](https://github.com/arshd1230)
 
 - [Success John](https://github.com/success-john)
-
+- [Dave Northern](https://github.com/davenorthern)
 - [Harsh Trivedi](https://github.com/Harsh4999)
 
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
