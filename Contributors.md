@@ -2284,6 +2284,7 @@ Pooja Muthalik
 - [Kelly Nguyen](https://github.com/yllekn)
 - [Olivia Pyskoty](https:github.com/opyskoty)
 - [André Oliveira](https://github.com/andrefpoliveira)
+- [Gurkan Turkarslan](https://github.com/tgurk)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Zavala Matias](https://github.com/chafaina)
 - [Stephen Chou](https://github.com/StephenChou)
