@@ -61,6 +61,7 @@
 - [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere] (https://github.com/RationalEar)
 - [Jake Cillay] (https://github.com/jcillay)
+- [Gunnar Jaeck] (https://github.com/gjaeck)
 - [Trim Muharremi] (https://github.com/TrimMuharremi)
 - [Maria Losada (https://github.com/codemary13)
 - [Avery Novick] (https://github.com/averynov)
