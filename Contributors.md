@@ -10,6 +10,7 @@
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Anderson]()
 - [Neha Sahoo](https://github.com/neha-s14)
+- [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Harsh Trivedi](https://github.com/Harsh4999)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
