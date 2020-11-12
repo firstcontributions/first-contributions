@@ -7739,3 +7739,4 @@
 - [vinniehat](https://github.com/vinniehat)
 - [HerdiandKun](https://github.com/herdiandkun)
 - [Opal Thongpetch](https://github.com/crystalclear506/)
+- [Slawek Biel](https://github.com/slawekslex)
