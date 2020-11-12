@@ -4,18 +4,27 @@
 - [ChenPengf](https://github.com/ChenPengf)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
+- [Void2g](https://github.com/Void2g)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
+- [Rosemary Li](https://github.com/yli110-stat697)
 - [Anderson]()
+- [TomKCA]()
 - [Neha Sahoo](https://github.com/neha-s14)
+- [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Arsh Dhillon](https://github.com/arshd1230)
+
 - [Success John](https://github.com/success-john)
+
+- [Harsh Trivedi](https://github.com/Harsh4999)
+
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
 - [Basil Khan](https://github.com/basilk76)
 - [bismillakhans](https://github.com/bismillakhans)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
+- [Cat Yber] (https://github.com/catyber)
 - [Dong Wang](https://github.com/a1779748)
 - [Sylvain Empson](https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
@@ -66,6 +75,7 @@
 - [Rik Kraan](https://github.com/rikkraanvantage)
 - [Vrinda Tyagi]
 - [Colton Francis]
+- [Chintan Patel](https://github.com/chihempat)
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere](https://github.com/RationalEar)
@@ -4835,6 +4845,7 @@
 - [Hao Wei Goh](https://github.com/haowei920)
 - [Comadfrik](https://github.com/comadfrik)
 - [Saboo](https://github.com/Saboo27)
+- [B_Squigs]
 - [Anes Abismail](https://github.com/anesabml)
 - [Lucas Melo](https://github.com/lucasmeloo)
 - [Matt SQ](https://github.com/greyghost13)
@@ -7598,6 +7609,7 @@
 - [Divyansh Natani](https://github.com/DivyanshNatani)
 - [Garima Dewangan](https://github.com/GarimaDewangan)
 - [devansh saini](https://github.com/DevanshSaini18)
+- [Thiago Santos] (https://github.com/thiagohs94)
 - [Siful Islam](https://github.com/sifulbd)
 - [Viga Cha](https://github.com/vigacha)
 - [Rena](https://github.com/givemewaffles)
@@ -7740,3 +7752,5 @@
 - [vinniehat](https://github.com/vinniehat)
 - [HerdiandKun](https://github.com/herdiandkun)
 - [Opal Thongpetch](https://github.com/crystalclear506/)
+- [Slawek Biel](https://github.com/slawekslex)
+- [Nessie](https://github.com/inesisprograming)
