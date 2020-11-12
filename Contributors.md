@@ -2,6 +2,7 @@
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
+- [Han Shih](https://github.com/frankShih)
 -[Anderson]
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
