@@ -1,8 +1,11 @@
 # Contributors
+- [ChenPengf](https://github.com/ChenPengf)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
+- [Han Shih](https://github.com/frankShih)
 - [Anderson]
+- [Neha Sahoo](https://github.com/neha-s14)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
@@ -41,6 +44,7 @@
 - [Diego Mucheniski] (https://github.com/mucheniski)
 - [Rachel Shoemaker] (https://github.com/RachelShoemaker)
 - [Hritika Dhasal] (https://github.com/HellFire03)
+- [Viv San] (https://github.com/viv-san)
 - [Prerak Shah] (https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane] (https://github.com/hajaraitel)
 - [Kimberly Marroquin] (https://github.com/kmarroq1)
@@ -2286,6 +2290,7 @@ Pooja Muthalik
 - [Kelly Nguyen](https://github.com/yllekn)
 - [Olivia Pyskoty](https:github.com/opyskoty)
 - [André Oliveira](https://github.com/andrefpoliveira)
+- [Gurkan Turkarslan](https://github.com/tgurk)
 - [DariusPirvulescu](https://github.com/DariusPirvulescu)
 - [Zavala Matias](https://github.com/chafaina)
 - [Stephen Chou](https://github.com/StephenChou)
@@ -7730,3 +7735,4 @@ Pooja Muthalik
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
+- [HerdiandKun](https://github.com/herdiandkun)
