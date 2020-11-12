@@ -56,6 +56,7 @@
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
 - [Vrinda Tyagi]
+- [Colton Francis]
 - [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere] (https://github.com/RationalEar)
