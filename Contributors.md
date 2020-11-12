@@ -7598,6 +7598,7 @@
 - [Divyansh Natani](https://github.com/DivyanshNatani)
 - [Garima Dewangan](https://github.com/GarimaDewangan)
 - [devansh saini](https://github.com/DevanshSaini18)
+- [Thiago Santos] (https://github.com/thiagohs94)
 - [Siful Islam](https://github.com/sifulbd)
 - [Viga Cha](https://github.com/vigacha)
 - [Rena](https://github.com/givemewaffles)
