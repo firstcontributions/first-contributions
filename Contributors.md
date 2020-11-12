@@ -92,6 +92,7 @@
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Ali Ghazal] (https://github.com/alighazal)
 - [Puneet Kaur Jattana] (https://github.com/puneet601)
+- [Hannah Bannanah]
 - [Rodney Cordoba] (https://github.com/N3ZZ470R17)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Pramod Rao Budramane](https://github.com/PramodRaoB)
