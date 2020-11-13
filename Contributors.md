@@ -328,7 +328,7 @@
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
-- Amedyne 
+- Amedyne
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
@@ -997,6 +997,7 @@
 - [Sangya Lohani](https://github.com/lohanisangya)
 - [Diana Galarza](https://github.com/dianagalarza)
 - [Sebastian Cadena](https://github.com/jsebastian29)
+- [bndtk](https://github.com/bndtk)
 - [Mitesh Patil](https://github.com/ke3peR007)
 - [Grace Young](https://github.com/grace-m-young)
 - [Shibin Joseph](https://github.com/shibin340)
@@ -7791,4 +7792,3 @@
 - [Nessie](https://github.com/inesisprograming)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
-
