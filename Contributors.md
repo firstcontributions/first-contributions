@@ -36,6 +36,7 @@
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
 - [Cat Yber] (https://github.com/catyber)
 - [Dong Wang](https://github.com/a1779748)
+-[Alejandro Carmona](https://github.com/carmonaalex12)
 - [Sylvain Empson](https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Cherie Wu](https://github.com/inspurwusixuan)
@@ -332,7 +333,7 @@
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
-- Amedyne 
+- Amedyne
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
@@ -7797,4 +7798,3 @@
 - [Nessie](https://github.com/inesisprograming)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
-
