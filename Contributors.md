@@ -5739,6 +5739,7 @@
 - [Lydia Velasquez](https://https://github.com/lydiarachel)
 - [Kevin Huber](https://github.com/itskev)
 - [Taylor Nuffer](https://github.com/nuffertaylor)
+- [Gregory Simon](https://github.com/gregorygsimon)
 - [Monio](https://github.com/monio)
 - [Tom Kittel](https://github.com/kitteltom)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
