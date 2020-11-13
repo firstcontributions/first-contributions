@@ -17,7 +17,7 @@
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
 - [Success John](https://github.com/success-john)
-
+- [Dave Northern](https://github.com/davenorthern)
 - [Harsh Trivedi](https://github.com/Harsh4999)
 - [Joseph Pearson](https://github.com/JoeyPearson822)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
