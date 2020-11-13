@@ -7758,4 +7758,5 @@
 - [Opal Thongpetch](https://github.com/crystalclear506/)
 - [Slawek Biel](https://github.com/slawekslex)
 - [Nessie](https://github.com/inesisprograming)
+- [Ian Thomas](https://github.com/DevIMT)
 
