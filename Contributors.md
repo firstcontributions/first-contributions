@@ -205,7 +205,7 @@
 - [Matthew Davenport](https://github.com/davenport1)
 - [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
-- [Manoj Ayyanawar](https://github.com/amanoj03)
+- Manoj Ayyanawar
 - [Ali Shehbaz](https://github.com/alishehbaz)
 - [Ravi Bhatt](https://github.com/raviRB)
 - [Jay Gajjar](https://github.com/j-j-gajjar)
