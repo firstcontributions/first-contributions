@@ -1,4 +1,5 @@
 # Contributors
+- sanjubaba
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [AndyJMR](https://github.com/AndyJMR)
 - [jaywhen](https://github.com/jaywhen)
@@ -2490,6 +2491,7 @@
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Selahittin Saytaş](https://github.com/saytas)
 - i-am-none
+-sanjaya ghimire
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [ch sai monish](https://github.com/ch-monish/)
