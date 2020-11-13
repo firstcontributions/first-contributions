@@ -159,6 +159,7 @@
 - [AnimeshRamasami] (https://github.com/Ani1000)
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
+- happy-xty
 - [Rachana Bhalsing](https://github.com/rachanb)
 - Usman Aslam
 - [Vatana Chhorn](https://github.com/VatanaChhorn)
