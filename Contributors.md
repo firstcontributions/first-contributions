@@ -7371,6 +7371,7 @@
 - [Filipe Medeiros](https://github.com/filipecmedeiros)
 - [Himanshu](https://github.com/him2016)
 - [Noah Kennedy](https://github.com/nakennedy11)
+- [Brandon Moss](https://github.com/brandonmoss99)
 - [Konstantinos Rantos](https://github.com/RantosKonstantinos)
 - [Victor Neves](https://github.com/alovictor)
 - [Michael Bataller](https://github.com/mchlbataller)
