@@ -116,6 +116,7 @@
 - [Allan Navarro](https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
+- [Amedyne](https://github.com/amedyne)
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - Alexa Carrington (https://github.com/aacarring)
@@ -313,6 +314,7 @@
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
+- Amedyne 
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
