@@ -474,6 +474,7 @@
 - Minh Le
 - Catherine Pas
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
+- [Jason H.](https://github.com/PythonTrader88)
 - [Marcus Visic](https://github.com/mvisic)
 - [Abu Sayed Jobayer](https://github.com/zobay)
 - [ALU Hacktober](https://github.com/ChristineWasike)
