@@ -7741,6 +7741,7 @@
 - [Daniel Chung](https://github.com/dolphinOfDelphi)
 - [Simon S.](https://github.com/stisimon)
 - [Davi Yan](https://github.com/daviyan5)
+- [Namo-Amituofo](https://github.com/Namo-Amituofo)
 - [karubian](https://github.com/karubian)
 - [Flippant Banana](https://github.com/flippantbanana24)
 - [Leonard Goldstein](https://github.com/goldst)
