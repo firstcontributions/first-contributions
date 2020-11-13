@@ -65,6 +65,7 @@
 - [Moh Hassan](https://github.com/medh2000)
 - [Jordan Long](https://github.com/JordanLong1)
 - [Joao Almeida](https://github.com/joao-vta)
+- [Savreen Kaur] (https://github.com/skaur728)
 - [Kelly Davis](https://github.com/kad1001)
 - [Deepak Singh](https://github.com/creepy-pirate)
 - [Diego Mucheniski](https://github.com/mucheniski)
