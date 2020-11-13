@@ -32,6 +32,7 @@
 - [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Surya Siriki](https://github.com/suryasiriki4)
+- [Oyeleke Elijah](https://github.com/Sirloko)
 - [Linusaltacc](https://github.com/linusaltacc)
 - [Kamto Astrid](https://github.com/KT360)
 - [G2048](https://github.com/G2048)
