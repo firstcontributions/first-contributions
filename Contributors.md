@@ -116,6 +116,7 @@
 - [Allan Navarro](https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
+- [Alan Zhu](https://github.com/alanzhu39)
 - [Animesh_ramasami]()
 - [Amedyne](https://github.com/amedyne)
 - [James Greilick](https://github.com/jgreilick)
