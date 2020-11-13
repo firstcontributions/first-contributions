@@ -1,4 +1,5 @@
 # Contributors
+- [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [AndyJMR](https://github.com/AndyJMR)
 - [jaywhen](https://github.com/jaywhen)
 - [NoneBack](https://github.com/noneback)  
@@ -44,14 +45,14 @@
 - [Taiwo Akingboye](https://github.com/hogyny)
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski](https://github.com/edg570)
-- [Amlanjyoti Saikia]
+- Amlanjyoti Saikia
 - [Hana Abayneh](https://github.com/hanaby)
 - [hasham56](https://github.com/hasham56)
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula](https://github.com/radricul)
 - [Cory Bass](https://github.com/cbass2404)
 - [Urvi](https://github.com/cp-urvi-k)
-- [Manish Pillai] (https://github.com/PillaiManish)
+- [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
 - [Moh Hassan](https://github.com/medh2000)
 - [Jordan Long](https://github.com/JordanLong1)
