@@ -32,6 +32,7 @@
 - [bismillakhans](https://github.com/bismillakhans)
 - [Gigi Hsueh](https://github.com/gigi-hsueh)          
 - [Barret](https://github.com/xiong-ang)   
+- [Ibrahim Rehman](https://github.com/ibrahimrehman1)
 - [Cat Yber] (https://github.com/catyber)
 - [Dong Wang](https://github.com/a1779748)
 - [Sylvain Empson](https://github.com/sylvain-01)
