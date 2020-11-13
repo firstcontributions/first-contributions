@@ -314,7 +314,7 @@
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
-- Kinjal Rat  
+- Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
@@ -4498,6 +4498,7 @@
 - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
 - [bp](https://github.com/benediktpetko)
 - [Pasindu P Konghawaththa](https://github.com/MasterBrian99)
+- [Jonas Hübotter](https://github.com/jonhue)
 - [Pablo Herrero](https://github.com/pablohs1986)
 - [Puneeth PS](https://github.com/puneethps)
 - Ankit Kumar
