@@ -3486,6 +3486,7 @@
 - Werner G.
 - Karthick191999
 - Akash Jyoti Sahoo
+- Renzo Carara
 - Dana Sherman
 - [Max Correia](https://github.com/MaxCorreia)
 - [Godfred Gameli](https://github.com/Godfredgameli)
