@@ -17,6 +17,7 @@
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Arsh Dhillon](https://github.com/arshd1230)
+- [Jeremie Bogaert](https://github.com/jebogaert)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
 - [Success John](https://github.com/success-john)
 - [Dave Northern](https://github.com/davenorthern)
