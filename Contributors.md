@@ -400,6 +400,7 @@
 - [askorykh](https://github.com/askorykh)
 - [saharfiuzati](https://github.com/saharfiuzati)
 - [Martin Valter](https://github.com/valterm)
+- [tomgriffin](https://github.com/tomgriffin)
 - chenniferann
 - gamesMum
 - [realrahnama](https://github.com/realrahnama)
