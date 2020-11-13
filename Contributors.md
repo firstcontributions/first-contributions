@@ -7724,6 +7724,7 @@
 - [starfishbravo](https://github.com/starfishbravo)
 - [jihongeek](https://github.com/jihongeek)
 - [Tharindu]( :-D )
+- [Jared Ricardo] (https://github.com/jaredricardo)
 - [Haian Hsing](https://github.com/haianhsing)
 - [Dave Bhandari](https://github.com/Davekibh)
 - [Yungoong Song](https://github.com/yungjoong)
