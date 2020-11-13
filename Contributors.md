@@ -35,6 +35,7 @@
 - [Oyeleke Elijah](https://github.com/Sirloko)
 - [Linusaltacc](https://github.com/linusaltacc)
 - [Kamto Astrid](https://github.com/KT360)
+- [Oyeleke Lekan](https://github.com/Sirloko)
 - [G2048](https://github.com/G2048)
 - [DionWeb](https://github.com/dionweb)
 - [Matt Kelley](https://github.com/mattshu)
