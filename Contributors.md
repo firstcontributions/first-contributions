@@ -116,6 +116,7 @@
 - [Allan Navarro](https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
+- [Animesh_ramasami]()
 - [Amedyne](https://github.com/amedyne)
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
@@ -154,6 +155,7 @@
 - Juhi Kushwah (https://github.com/juhikushwah)
 - Okokoh Ben (https://github.com/ekumahost)
 - Pallavi Dhotre
+- [AnimeshRamasami] (https://github.com/Ani1000)
 - [Heather Piverotto] (https://github.com/Heather1337)
 - [Harjot Singh](https://github.com/harjotkarwal)
 - [Rachana Bhalsing](https://github.com/rachanb)
