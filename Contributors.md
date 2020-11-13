@@ -182,8 +182,8 @@
 - [Uchechukwu Okereke](https://github.com/ThePfarrer)
 - [Ashish Burnwal](https://github.com/ashish1816)
 - [Big Bob Little](https://github.com/BigBobLittle)
- -[Debaghosh](https://github.com/debaghosh)
- -[Debadri Sengupta](https://github.com/Debadri3)
+   -[Debaghosh](https://github.com/debaghosh)
+    -[Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan](https://github.com/harithamohan1)
 - [Nandini Verma](https://github.com/NVSUCCESS)
 - Nandini Verma
@@ -358,7 +358,7 @@
 - [pitamer](https://github.com/pitamer)
 - Jerry B
 - Mohammad Mustafa
--[ Nathan N](https://github.com/NathanNgoy)
+  -[ Nathan N](https://github.com/NathanNgoy)
 - Mr Mister Meyster
 - Andrew Shum
 - [Sweta Kabi](https://github.com/sweta98)
@@ -1723,7 +1723,7 @@
 - [Asad Moosvi](https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Aditya Baravkar](https://github.com/Aditya182)
--[Philip Kouchner](https://github.com/PhilipK-webdev)
+  -[Philip Kouchner](https://github.com/PhilipK-webdev)
 - [Tanay Kamath](https://github.com/2tanayk)
 - [Gaurisha R Srivastava](https://github.com/Gaurisha21)
 - [Muskaan Baveja](https://github.com/muskuu)
@@ -2509,7 +2509,7 @@
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Selahittin Saytaş](https://github.com/saytas)
 - i-am-none
--sanjaya ghimire
+  -sanjaya ghimire
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [ch sai monish](https://github.com/ch-monish/)
@@ -7457,7 +7457,7 @@
 - [Darshan Walchale](https://github.com/ShawnzWal)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [Nijin Kovval](https://github.com/nijinkovval)
-– [Ines Fernandez](http://github.com/inesfb)
+  – [Ines Fernandez](http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
@@ -7780,7 +7780,6 @@
 - [Kowalski](https://github.com/K0WALSKl)
 - [L-LYR](https://github.com/L-LYR)
 - [Nicholas Drobot](https://github.com/MechyMind)
-
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
@@ -7790,4 +7789,5 @@
 - [Nessie](https://github.com/inesisprograming)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
+- [wsfy15](https://github.com/wsfy15)
 
