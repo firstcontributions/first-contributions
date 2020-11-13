@@ -31,6 +31,7 @@
 - [Dong Wang](https://github.com/a1779748)
 - [Sylvain Empson](https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
+- [Cherie Wu](https://github.com/inspurwusixuan)
 - [Taimoor Imran](https://github.com/taimoorimran)
 - [Shivam Srivastava](https://github.com/shivam311099)
 - [Surya Siriki](https://github.com/suryasiriki4)
