@@ -68,6 +68,7 @@
 - [Joao Almeida](https://github.com/joao-vta)
 - [Savreen Kaur] (https://github.com/skaur728)
 - [Kelly Davis](https://github.com/kad1001)
+- [Danielle Inkster](https://github.com/DanielleInkster)
 - [Deepak Singh](https://github.com/creepy-pirate)
 - [Diego Mucheniski](https://github.com/mucheniski)
 - [Rachel Shoemaker](https://github.com/RachelShoemaker)
