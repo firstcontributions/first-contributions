@@ -18,7 +18,7 @@
 - [Success John](https://github.com/success-john)
 
 - [Harsh Trivedi](https://github.com/Harsh4999)
-
+- [Joseph Pearson](https://github.com/JoeyPearson822)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
 - [Basil Khan](https://github.com/basilk76)
