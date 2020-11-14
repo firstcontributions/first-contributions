@@ -14,6 +14,7 @@
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Anderson]()
+- [Lorcan](https://github.com/lorcanj)
 - [TomKCA]()
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
