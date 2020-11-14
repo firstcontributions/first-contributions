@@ -57,6 +57,7 @@
 - [Taiwo Akingboye](https://github.com/hogyny)
 - [Ebad Ali](https://github.com/ebadali)
 - [Ed Glazenski](https://github.com/edg570)
+- Oreoluwa Emmanuel
 - Amlanjyoti Saikia
 - [Hana Abayneh](https://github.com/hanaby)
 - [hasham56](https://github.com/hasham56)
