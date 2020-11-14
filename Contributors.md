@@ -46,6 +46,7 @@
 - [Oyeleke Elijah](https://github.com/Sirloko)
 - [Linusaltacc](https://github.com/linusaltacc)
 - [Jenny Pyle](https://github.com/jenpyle)
+- [Stephen Noh](https://github.com/StephenNoh)
 - [Kamto Astrid](https://github.com/KT360)
 - [Oyeleke Lekan](https://github.com/Sirloko)
 - [G2048](https://github.com/G2048)
