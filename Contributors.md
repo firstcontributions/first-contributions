@@ -7798,4 +7798,5 @@
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
 - [Varghese Jose](https://github.com/hasthamalp/)
+- [Michael Vigato](https://github.com/vgtmhl/)
 
