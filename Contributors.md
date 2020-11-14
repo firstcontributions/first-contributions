@@ -2,6 +2,7 @@
  - [Keisuke Tanaka] (https://github.com/tanakkei)
 - sanjubaba
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
+- [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
 - [AndyJMR](https://github.com/AndyJMR)
 - [jaywhen](https://github.com/jaywhen)
 - [NoneBack](https://github.com/noneback)  
@@ -249,6 +250,7 @@
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
 - [Andy Guschwan](https://github.com/gooseswan2)
+- [Priyanshu kumar Singh](https://github.com/Priyanshu-kumar-Singh)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Neha Mahto](https://github.com/nehamahto58)
 - [Michael Rodelo](https://github.com/michaeldaviducf/)
