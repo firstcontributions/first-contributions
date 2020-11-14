@@ -3853,6 +3853,7 @@
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Dion Niazi](https://github.com/dn3gy)
 - [Isaac Jacob](https://github.com/Candyman770)
+- [Adrian Balas](https://github.com/adydels)
 - [sneha jogur](https://github.com/JogurSneha)
 - [Pranav Bhat](https://github.com/pranavbhat)
 - [Adela Darmansyah](https://github.com/ayohana)
