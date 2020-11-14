@@ -328,6 +328,7 @@
 - [547y4m](https://github.com/547y4m)
 - [Adarsh Kumar](https://github.com/adarsh115)
 - [Harry Silman](https://github.com/hsilman/)
+- [Dani Sinc](https://github.com/DaniSinc/)
 - [547y4m](https://github.com/547y4m)
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
