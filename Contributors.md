@@ -4,7 +4,7 @@
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [AndyJMR](https://github.com/AndyJMR)
 - [jaywhen](https://github.com/jaywhen)
-- [NoneBack](https://github.com/noneback)  
+- [NoneBack](https://github.com/noneback)
 - [ChenPengf](https://github.com/ChenPengf)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
@@ -31,8 +31,8 @@
 - [Sami Almouzani](https://github.com/SamiAlmouzani)
 - [Basil Khan](https://github.com/basilk76)
 - [bismillakhans](https://github.com/bismillakhans)
-- [Gigi Hsueh](https://github.com/gigi-hsueh)          
-- [Barret](https://github.com/xiong-ang)   
+- [Gigi Hsueh](https://github.com/gigi-hsueh)
+- [Barret](https://github.com/xiong-ang)
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
 - [Cat Yber] (https://github.com/catyber)
 - [Dong Wang](https://github.com/a1779748)
@@ -65,6 +65,7 @@
 - [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
 - [Moh Hassan](https://github.com/medh2000)
+- [Rosie Arasa](https://github.com/rosiearasa)
 - [Jordan Long](https://github.com/JordanLong1)
 - [Joao Almeida](https://github.com/joao-vta)
 - [Savreen Kaur] (https://github.com/skaur728)
@@ -332,7 +333,7 @@
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
-- Amedyne 
+- Amedyne
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
@@ -7797,4 +7798,3 @@
 - [Nessie](https://github.com/inesisprograming)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
-
