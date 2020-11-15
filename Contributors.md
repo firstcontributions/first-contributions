@@ -296,6 +296,7 @@
 - [Omar Yousufi] (https://github.com/osyousufi)
 - [Yifei Wang](https://github.com/xsxszab) lol
 - [waterL](https://github.com/0529bill)
+- [Nicolas Williams](https://github.com/NicolasDWilliams)
 - SANANDAN MAHALANABISH
 - [this is where i have entered a sentence] reddy
 - [Framorac Is Here](https://github.com/framorac)
