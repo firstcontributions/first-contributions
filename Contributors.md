@@ -17,6 +17,7 @@
 - [Lorcan](https://github.com/lorcanj)
 - [TomKCA]()
 - [Neha Sahoo](https://github.com/neha-s14)
+- [Nemanja Divljakovic] (https://github.com/Divljo31)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
@@ -341,7 +342,7 @@
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
-- Amedyne 
+- Amedyne
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
@@ -7811,4 +7812,3 @@
 - [Varghese Jose](https://github.com/hasthamalp/)
 - [Michael Vigato](https://github.com/vgtmhl/)
 - [Liam Cooper](https://github.com/LiamCoopR/)
-
