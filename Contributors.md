@@ -7796,7 +7796,7 @@
 - [Kowalski](https://github.com/K0WALSKl)
 - [L-LYR](https://github.com/L-LYR)
 - [Nicholas Drobot](https://github.com/MechyMind)
-
+- [Jason Shi](https://github.com/JasonShi31545Personal)
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
