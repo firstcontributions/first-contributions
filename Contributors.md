@@ -66,6 +66,7 @@
 - [Rafael Adricula](https://github.com/radricul)
 - [Cory Bass](https://github.com/cbass2404)
 - [Urvi](https://github.com/cp-urvi-k)
+- [Paul](https://github.com/Nikhil-Chandra-Paul)
 - [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
 - [Gabriel Epeschit](https://github.com/GabrielEspeschit)
