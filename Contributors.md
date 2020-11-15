@@ -7318,6 +7318,7 @@
 - [Pratik Sharma](https://github.com/pratikshar181)
 - [Upasana Sinha](https://github.com/Usinha31)
 - [I am testing]
+- [StrangerTwo]
 - [mangoomeh](https://github.com/mangoomeh)
 - [Rohit Sharma](https://github.com/rohitsssharma1989)
 - [Abhishek Prem](https://github.com/Abhishek-Prem)
@@ -7797,7 +7798,6 @@
 - [Kowalski](https://github.com/K0WALSKl)
 - [L-LYR](https://github.com/L-LYR)
 - [Nicholas Drobot](https://github.com/MechyMind)
-
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
