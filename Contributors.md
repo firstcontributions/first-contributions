@@ -508,6 +508,7 @@
 - Thomas Chase
 - Minh Le
 - Catherine Pas
+- Josef Prause
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Jason H.](https://github.com/PythonTrader88)
 - [Marcus Visic](https://github.com/mvisic)
