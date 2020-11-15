@@ -67,6 +67,7 @@
 - [Urvi](https://github.com/cp-urvi-k)
 - [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
+- [Gabriel Epeschit](https://github.com/GabrielEspeschit)
 - [Moh Hassan](https://github.com/medh2000)
 - [Jordan Long](https://github.com/JordanLong1)
 - [Joao Almeida](https://github.com/joao-vta)
