@@ -498,6 +498,7 @@
 - Bae Sung Kim
 - [yesabhishek](https://github.com/LuisFlavioOliveira)
 - [Tarik Dzambic](https://github.com/dzambatz)
+- [Nicolas Skirkey](https://github.com/nskirkey)
 - [Henrique Lisboa](https://github.com/hlisboasousa)
 - [Shivam Karn](https://github.com/rexFX)
 - [Arisandi](https://github.com/arisandi1)
