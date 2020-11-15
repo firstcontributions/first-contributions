@@ -110,6 +110,7 @@
 - [David Mayevsky](https://github.com/dmayevsky)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
 - [Lavrentev Stanislav](https://github.com/hvoyka)
+- [Gerson Umanzor](https://github.com/gbumanzordev)
 - [Subhamay Paul](https://github.com/Subho-codegeek)
 - [Divya Patil(https://github.com/dev-17/)
 - [Abhijeet Gandhi](https://github.com/abhijeet1813)
