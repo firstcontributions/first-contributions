@@ -27,6 +27,7 @@
 - [Harsh Trivedi](https://github.com/Harsh4999)
 - [Joseph Pearson](https://github.com/JoeyPearson822)
 - [Noam Hadad] (https://github.com/Noamrok)
+- [Aedan Lombardo](https://github.com/aedanlombardo)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
 - [Sami Almouzani](https://github.com/SamiAlmouzani)
