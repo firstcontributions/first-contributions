@@ -5,6 +5,7 @@
 - [AndyJMR](https://github.com/AndyJMR)
 - [jaywhen](https://github.com/jaywhen)
 - [NoneBack](https://github.com/noneback)  
+- [S-majer](https://github.com/s-majer)
 - [ChenPengf](https://github.com/ChenPengf)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
@@ -7795,7 +7796,6 @@
 - [Kowalski](https://github.com/K0WALSKl)
 - [L-LYR](https://github.com/L-LYR)
 - [Nicholas Drobot](https://github.com/MechyMind)
-
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
