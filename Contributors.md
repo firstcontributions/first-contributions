@@ -104,6 +104,7 @@
 - [Michael M Chiwere](https://github.com/RationalEar)
 - [Jake Cillay](https://github.com/jcillay)
 - [Gunnar Jaeck](https://github.com/gjaeck)
+- [Mo Rahman](https://github.com/mrmm2703)
 - [Trim Muharremi](https://github.com/TrimMuharremi)
 - [Maria Losada](https://github.com/codemary13)
 - [Avery Novick](https://github.com/averynov)
