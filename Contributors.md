@@ -21,6 +21,7 @@
 - [Lorcan](https://github.com/lorcanj)
 - [TomKCA]()
 - [Hemant Patel](https://github.com/Hemant-Dev)
+- [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Arsh Dhillon](https://github.com/arshd1230)
