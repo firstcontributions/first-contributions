@@ -131,7 +131,7 @@ git checkout -b add-alonzo-church
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -177,7 +177,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w).
+You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-iywfifau-_aMtdwTjBoMzQqzW8~YUUA).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
