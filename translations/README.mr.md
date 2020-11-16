@@ -19,7 +19,7 @@
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -50,7 +50,7 @@
 [🇮🇱](translations/README.hb.md)
 [🇷🇸](translations/README.sr.md)
 
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
