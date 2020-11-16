@@ -47,7 +47,7 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="26">](translations/README.no.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="26">](translations/README.tl.md)</kbd>
-<kbd>[<img src="assets/pirate.png" width="26">](translations/README.en-pirate.md)</kbd>
+<kbd>[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="26">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pk.svg" width="26">](translations/README.ur.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="26">](translations/README.pl.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pt.svg" width="26">](translations/README.pt-pt.md)</kbd>
