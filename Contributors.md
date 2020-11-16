@@ -7828,5 +7828,6 @@
 - [Varghese Jose](https://github.com/hasthamalp/)
 - [Michael Vigato](https://github.com/vgtmhl/)
 - [Liam Cooper](https://github.com/LiamCoopR/)
+- [Tim Wells](https://github.com/timwells)
 - [Gregory Glatzer](https://github.com/g1776)
 
