@@ -25,6 +25,7 @@
 - [Success John](https://github.com/success-john)
 - [Dave Northern](https://github.com/davenorthern)
 - [Harsh Trivedi](https://github.com/Harsh4999)
+- [Jason Yang] (https://github.com/jasonxuyang)
 - [Joseph Pearson](https://github.com/JoeyPearson822)
 - [Noam Hadad] (https://github.com/Noamrok)
 - [Aedan Lombardo](https://github.com/aedanlombardo)
