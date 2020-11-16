@@ -41,7 +41,7 @@
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
 - [Cat Yber] (https://github.com/catyber)
 - [Dong Wang](https://github.com/a1779748)
--[Alejandro Carmona](https://github.com/carmonaalex12)
+- [Alejandro Carmona](https://github.com/carmonaalex12)
 - [Sylvain Empson](https://github.com/sylvain-01)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Cherie Wu](https://github.com/inspurwusixuan)
