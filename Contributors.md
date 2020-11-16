@@ -65,6 +65,7 @@
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula](https://github.com/radricul)
 - [Cory Bass](https://github.com/cbass2404)
+- [yrk](https://github.com/yrk-ai)
 - [Urvi](https://github.com/cp-urvi-k)
 - [Paul](https://github.com/Nikhil-Chandra-Paul)
 - [Manish Pillai](https://github.com/PillaiManish)
