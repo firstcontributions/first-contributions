@@ -810,6 +810,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shreyas Sankpal](https://github.com/Shreyas582)
 - [Susana Salazar](https://github.com/Suzzuu)
+- [Alexander Petrov](https://github.com/xAnderoov)
 - [Catherine Nuguid](https://github.com/catboop)
 - [Mai Houa Vue](https://github.com/mhvue)
 - [Tejas Bhale](https://github.com/tejasbhale)
