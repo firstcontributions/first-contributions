@@ -30,7 +30,7 @@ You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 This will create of copy of this repository in your account.
 
 

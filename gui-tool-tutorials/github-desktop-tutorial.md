@@ -17,7 +17,7 @@ If you don't have GitHub Desktop on your machine, [install it](https://desktop.g
 
 If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 ## Fork this repository
 

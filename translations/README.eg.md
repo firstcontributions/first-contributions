@@ -25,7 +25,7 @@
 </div>
 
 ## <div dir="rtl"> أفصل المشروع دة - Fork this Repository </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
 خد نسخة من المشروع دة (أو افصله) عن طريق انك تدوس على Fork في أعلى الصفحة.
 لو عملت كدة فأنت اخدت نسخة من الفولدر دة فى حسابك على github.

@@ -10,7 +10,7 @@
 
 လေ့ကျင်ခန်း စာစောင်တေွနဲ့ ဗီဒီယိုတေွက အကူအညီရနိုင်သော်လဲ တကယ်လက်တွေ့လုပ်ဆောင်တာထက် ပိုကောင်းတာမရှိပါဘူး။ ဒီ project က ပထမဆုံးအကြိမ် ကူညီထောက်ပံမဲ့ သူတေွအတွက် လွယ်ကူ ရှိးရှင်းပြီး အကူအညီးအထောက်ပံ့ဖြစ်စေဖို့ ရည်ရွယ်ပါတယ်။ Remember: the more relaxed you are, the better you learn. အာမခံတယ် သင့်သာ အောက်မှာရှိတဲံ အဆင့်တိုင်းလုပ်သွားလျှင် သင့်ရဲ့ ပထမဆုံး ကူညီထောက်ပံခြင်းမှာ အဆင်ပြေစွာ ပြီးမြောက်သွားမှာပါ၊
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md), [Italian](README.it.md), [ภาษาไทย](README.th.md) and [Galician](README.gl.md).*
 

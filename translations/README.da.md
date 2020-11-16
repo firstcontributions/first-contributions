@@ -13,7 +13,7 @@ At læse artikler og se video guides hjælper, men hvad er bedre end at bruge de
 #### *Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer]( #tutorials-using-other-tools )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Har du ikke Git på din maskine kan du [installere det]( https://help.github.com/articles/set-up-git/).
 

@@ -13,7 +13,7 @@ Rakstu lasīšana un pamācību skatīšanās var palīdzēt, tomēr nekas nav l
 #### *Ja tu nejūties ērti ar komandrindu, [izmanto GUI rīku pamācības.]( #pamācības-citiem-rīkiem )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Ja tavā datorā nav git, [uzinstalē to]( https://help.github.com/articles/set-up-git/).
 

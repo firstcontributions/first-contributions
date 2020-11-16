@@ -9,7 +9,7 @@
 
 Чтение статей и учебников может помочь, но что может быть лучше, чем настоящий практический опыт, без риска что-либо испортить. Цель этого проекта - должным образом направить молодых новобранцев, а также предоставить им возможность сделать их первый вклад. Помните: чем меньше вы напряжены, тем лучше вы учитесь. Если вы ищете возможность осуществить свой первый вклад, просто следуйте простым шагам, расположенным ниже. Обещаем, будет интересно.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
 Если у вас не установлен git на компьютере, [ установите его ]( https://help.github.com/articles/set-up-git/ )

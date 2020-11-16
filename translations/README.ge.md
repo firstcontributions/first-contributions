@@ -12,7 +12,7 @@
 
 #### *თუ ტერმინალთან დიდად არ მეგობრობ, [აქ ნახავ რამდენიმე პროგრამას, რომელიც ტერმინალის გამოყენებას აგარიდებს თავიდან]( #ტუტორიალები-სხვა-პროგრამების-გამოყენებით )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 თუ კომპიუტერში გითი არ გაქვს ჩაწერილი, [მიჰყევი ლინკს]( https://help.github.com/articles/set-up-git/).
 

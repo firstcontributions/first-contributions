@@ -12,7 +12,7 @@ Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bin
 
 #### *Citește în [alte limbi](Translations.md).* 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Dacă nu ai git instalat, [ instalează-l ]( https://help.github.com/articles/set-up-git/ ).
 

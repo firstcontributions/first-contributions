@@ -59,7 +59,7 @@
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 మీకు మీ కంప్యూటరులో GIT లేకపోతే, [దీనిని ఇన్స్టాల్ చేయండి]( https://help.github.com/articles/set-up-git/).
 

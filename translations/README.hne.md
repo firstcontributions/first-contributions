@@ -8,7 +8,7 @@
 
 आर्टिकल्स पढ़े अउ ऑनलाइन ट्यूटोरियल देखके  मदद मिल सकत हे  मगर बिना कुछू गलत करे अउ खुद वो काम करे ले बने अउ का हो सकत हे ? यह प्रोजेक्ट आपमन के पहले कॉन्ट्रिब्यूशन बर दिशा निर्देशन करे बर बने मदद करहि  | याद रखौ  - जतका तनाव मुक्त होकर आप मन सिखहु ततका आपमन बने सीख पाबौ | अगर आप मन अपन पहली कॉन्ट्रिब्यूशन करना चाहत हो त आगे दिए तरीका ल बने  फॉलो करौ |
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 आपमन  के कंप्यूटर म  Git नहीं हे  त, [एला स्थापित करौ](https://help.github.com/articles/set-up-git/)
 

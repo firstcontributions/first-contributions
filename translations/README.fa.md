@@ -14,7 +14,7 @@
 <a id="user-content-این-ریپوزیتوری-رو-فورک-کن" class="anchor" href="#%D8%A7%DB%8C%D9%86-%D8%B1%DB%8C%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%D9%81%D9%88%D8%B1%DA%A9-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>این ریپوزیتوری رو فورک کن</h2>
 <p dir="rtl">این ریپوزیتوری رو از طریق کلیک کردن روی دکمه فورک بالای این صفحه فورک کن
 این کار یک کپی از ریپوزیتوری تو اکانتت میسازه</p>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <h2 dir="rtl">
 <a id="user-content-ریپپوزیتوری-رو-کلون-کن" class="anchor" href="#%D8%B1%DB%8C%D9%BE%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%DA%A9%D9%84%D9%88%D9%86-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ریپپوزیتوری رو کلون کن</h2>
 <p dir="rtl">حالا ریپ و رو داخل کامپیوترت کلون کن. روی دکمه کلون کلیک کن و بعد روی (کپی در کلیپبورد) کلیک کن</p>

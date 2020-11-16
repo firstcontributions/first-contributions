@@ -13,7 +13,7 @@ Hadafe IN Proje Mohayya Kardane Yek Rahnama Va Sade Kardane Rahe Taze Kar Ha Bar
 
 #### *IN Ro Dar [Zaban Haye Dige](../Translations.md) Bekhoonin.*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Age Rooye Computeret GIT Nadari,Nasbesh Kon
 [Install It]( https://help.github.com/articles/set-up-git/).

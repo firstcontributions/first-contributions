@@ -10,7 +10,7 @@
 
 ಲೇಖನಗಳನ್ನು ಓದುವುದು ಮತ್ತು ಟ್ಯುಟೋರಿಯಲ್ ನೋಡುವುದು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಆದರೆ ಅಭ್ಯಾಸ ಪರಿಸರದಲ್ಲಿ ವಿಷಯವನ್ನು ಮಾಡುವುದಕ್ಕಿಂತ ಉತ್ತಮವಾದದ್ದು ಯಾವುದು? ಈ ಯೋಜನೆಯು ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಮತ್ತು ಆರಂಭಿಕರು ತಮ್ಮ ಮೊದಲ ಕೊಡುಗೆ ನೀಡುವ ವಿಧಾನವನ್ನು ಸರಳಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ನಿಮ್ಮ ಮೊದಲ ಕೊಡುಗೆ ನೀಡಲು ನೀವು ಬಯಸಿದರೆ, ಕೆಳಗಿನ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಹೊಂದಿಲ್ಲದಿದ್ದರೆ,[ಅದನ್ನು ಸ್ಥಾಪಿಸಿ]](https://help.github.com/articles/set-up-git/)
 

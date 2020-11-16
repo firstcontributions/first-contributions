@@ -19,7 +19,7 @@ If you don't have IntelliJ IDEA on your machine, [install it](https://www.jetbra
 
 ## Fork this repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 

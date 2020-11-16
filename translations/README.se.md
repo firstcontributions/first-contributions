@@ -15,7 +15,7 @@ Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är
 
 #### *Läs detta på [andra språk](../Translations.md).*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Om du inte har git installerat [så installera det]( https://help.github.com/articles/set-up-git/ )
 

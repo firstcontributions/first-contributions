@@ -9,7 +9,7 @@
 
 Μπορείτε να βοηθηθείτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να δουλεύετε σε ένα πραγματικό project. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε ότι όσο πιο χαλαροί είστε τόσο πιο εύκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά σε κώδικα, ακολουθήστε τα επόμενα απλά βήματα.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
 

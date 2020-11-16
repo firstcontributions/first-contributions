@@ -13,7 +13,7 @@ Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*
 #### *Kung hindi ka komportable na gumamit ng *command line*, [ito ay mga tutorials gamit ang mga *GUI* tools.]( #tutorials-using-other-tools )*
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Kung hindi naka-*install* ang *git* sa iyong kompyuter, [i-install mo](https://help.github.com/articles/set-up-git/).
 

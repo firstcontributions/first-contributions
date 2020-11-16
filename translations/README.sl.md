@@ -20,7 +20,7 @@ Angleški izrazi so v oklepajih, da dodajo kontekst vsebini.
 [🇷🇸](translations/README.sr.md)
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Če na svojem računalniku še nimaš "git", si ga [naloži]( https://help.github.com/articles/set-up-git/).
 

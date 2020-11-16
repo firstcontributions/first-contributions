@@ -9,7 +9,7 @@
 
 Оқулықтарды және мақалаларды оқуға әрқашан болады, бірақ іс жүзінде тәжірибе ортасында жұмыс жасаудан гөрі не жақсы? Бұл жобаның мақсаты - жастарды дұрыс жолға қою, сондай-ақ оларға алғашқы үлес қосуға мүмкіндік беру. Егер сіз өзіңіздің алғашқы үлесіңізді жасау мүмкіндігін іздесеңіз, төмендегі қарапайым қадамдарды орындаңыз. Біз уәде етеміз, бұл қызықты болады.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
 Егерде сіздің компьютеріңізде git қосылмаған болса, [ оны қосыңыз ]( https://help.github.com/articles/set-up-git/ )

@@ -12,7 +12,7 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
 

@@ -29,7 +29,7 @@
 </div>
 
 <div dir="rtl">
-<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository"></a>
+<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository"></a>
 </div>
 
 <div dir="rtl">

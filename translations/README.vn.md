@@ -14,7 +14,7 @@ Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là th�
 
 #### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.]( #Hướng-dẫn-sử-dụng-các-công-cụ-khác )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Nếu bạn không có git trên máy tính của bạn, [cài đặt](https://help.github.com/articles/set-up-git/)
 

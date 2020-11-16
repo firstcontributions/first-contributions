@@ -16,7 +16,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 ## Fork this repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 

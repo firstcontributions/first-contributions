@@ -11,7 +11,7 @@
 
 #### *如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學。]( #使用其他工具的教學)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 如果你的電腦上尚未安裝 git，請按照這個[安裝指引（英文）](https://help.github.com/articles/set-up-git/)進行安裝。
 

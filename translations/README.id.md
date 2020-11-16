@@ -72,7 +72,7 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="26">](translations/README.kz.md)</kbd>
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
 

@@ -12,7 +12,7 @@
 
 #### *താങ്കൾക്ക് കമാൻഡ് ലൈൻ ഉപയോഗിച്ച്‌ പരിചയം ഇല്ലെങ്കിൽ, [GUI ഉപയോഗിച്ച് ചെയ്യാൻ ഉള്ള നിർദേശങ്ങൾ ഇവിടെ ലഭ്യമാണ്](#tutorials-using-other-tools)*.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 താങ്കളുടെ കമ്പ്യൂട്ടറിൽ ഗിറ്റ് (git) ഇല്ലെങ്കിൽ, [ഇൻസ്റ്റാൾ ചെയ്യുക](https://help.github.com/articles/set-up-git/).
 

@@ -69,7 +69,7 @@
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Ако немате git на вашиот компјутер, [инсталирајте го]( https://help.github.com/articles/set-up-git/).
 

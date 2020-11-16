@@ -64,7 +64,7 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza
 
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
 Uma ungenayo i-git kumshini wakho, [faka]( https://help.github.com/articles/set-up-git/).
