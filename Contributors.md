@@ -5,6 +5,7 @@
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
 - [AndyJMR](https://github.com/AndyJMR)
+- [Pugets](http://github.com/Pugets)
 - [jaywhen](https://github.com/jaywhen)
 - [NoneBack](https://github.com/noneback)
 - [S-majer](https://github.com/s-majer)
