@@ -7815,6 +7815,7 @@
 - [Nessie](https://github.com/inesisprograming)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
+- [Michael Ashe](https://github.com/mashe0742)
 - [Varghese Jose](https://github.com/hasthamalp/)
 - [Michael Vigato](https://github.com/vgtmhl/)
 - [Liam Cooper](https://github.com/LiamCoopR/)
