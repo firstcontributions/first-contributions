@@ -91,6 +91,7 @@
 - [Diego Mucheniski](https://github.com/mucheniski)
 - [Rachel Shoemaker](https://github.com/RachelShoemaker)
 - [Hritika Dhasal](https://github.com/HellFire03)
+- [Charlie Dixon](https://github.com/CharlieDixon)
 - [Viv San](https://github.com/viv-san)
 - [Prerak Shah](https://github.com/Prerakshah98)
 - [Hajar Ait Elhyane](https://github.com/hajaraitel)
