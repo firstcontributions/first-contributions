@@ -1,5 +1,5 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # प्रथम योगदान
@@ -8,7 +8,7 @@
 
 आर्टिकल्स पढ़ना और ऑनलाइन ट्यूटोरियलज़ देखना मदद कर सकते हैं मगर बिना कुछ गलत करे खुद वो काम करने से अच्छा क्या हो सकता है? यह प्रोजेक्ट आपको आपके पहले कॉन्ट्रिब्यूशन के लिए दिशा निर्देशन में मदद करेगा | याद रखिये - जितने तनाव मुक्त होकर आप सीखेंगे उतना ही बेहतर सीख पाएंगे | अगर आप अपनी पहली कॉन्ट्रिब्यूशन करना चाहते हैं तो आगे दिए गए स्टेप्स को फॉलो करें |
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork this repository" />
 
 अगर आपके कंप्यूटर पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/)
 
@@ -18,7 +18,7 @@
 
 ## रिपोजिटरी क्लोन
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 अब आप यह रेपो अपने कंप्यूटर में क्लोन (अर्थ डाउनलोड) करें | अपने गिटहब खाते पर जाएं, क्लोन बटन पर क्लिक करें और फिर कॉपी टू क्लिपबोर्ड आइकॉन पर क्लिक करें |
 
@@ -36,7 +36,7 @@ git clone "यूआरएल जिसे आपने अभी कॉपी �
 git clone https://github.com/यह-तुम-हो/first-contributions.git
 ```
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 `यह-तुम-हो` आपके GitHub अकाउंट का नाम है। यहाँ आप अपने कंप्यूटर में GitHub से फर्स्ट-कंट्रिब्यूशंज़ रेपो को कॉपी कर रहे हैं अथवा उसकी एक लोकल/स्थानीय कॉपी बना रहे हैं |
 
@@ -67,7 +67,7 @@ git checkout -b add-alonzo-church
 
 अब `Contributors.md` फ़ाइल को एक टेक्स्ट एडिटर में खोलकर इसमें अपना नाम लिखें। फ़ाइल की शुरुआत या अंत में इसे न जोड़ें। इसे बीच में कहीं भी रखें | 
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
 आप अगर `git status` निर्देश चलाएंगे , तो आप किये गए परिवर्तन देखेंगे।
@@ -99,11 +99,11 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 ## अपने बदलावों को रिव्यु के लिए सबमिट करें |
 
 अगर आप अपने github प्रोफाइल पर अपनी रेपो में जायेंगे तो आपको Compare & pull request का ऑप्शन दिखेगा| उसे दबाएं |
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 अब अपनी pull request सबमिट करें |
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मास्टर शाखा में मर्ज कर दूंगा| आपको एक मेल आ जायेगी जब आपके बदलाव मर्ज होंगे |
 
 ## यहाँ से कहाँ जाएं ?
