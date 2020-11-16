@@ -4243,6 +4243,7 @@
 - [xavierhazzardadmin](https://github.com/xavierhazzardadmin)
 - [Abhishek AB](https://github.com/kehshiba)
 - [Nicola Checcacci](https://github.com/stranicola)
+- [Taylor Peck](https://github.com/TRPeck)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
 - [Vadim Lyashenko](https://github.com/VadimLyashenko)
