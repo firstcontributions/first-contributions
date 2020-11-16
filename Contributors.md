@@ -501,6 +501,7 @@
 - Tom Mulligan
 - [Sakshi Seth](https://github.com/sakshiseth)
 - [Norah Hoang](https://github.com/zuccamia)
+- [SATYAKI BOSE](https://github.com/satyaki07)
 - [Parth Desai](https://github.com/pycoder2000)
 - [Snigdha Shekhar](https://github.com/sshekhar1996)
 - [Sanjana RP](https://github.com/sanjanarp)
