@@ -68,6 +68,7 @@
 - [Cory Bass](https://github.com/cbass2404)
 - [yrk](https://github.com/yrk-ai)
 - [Urvi](https://github.com/cp-urvi-k)
+- [Oath Pongpipat](https://github.com/oath3p)
 - [Paul](https://github.com/Nikhil-Chandra-Paul)
 - [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
@@ -344,7 +345,7 @@
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
-- Amedyne 
+- Amedyne
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
@@ -7817,4 +7818,3 @@
 - [Michael Vigato](https://github.com/vgtmhl/)
 - [Liam Cooper](https://github.com/LiamCoopR/)
 - [Gregory Glatzer](https://github.com/g1776)
-
