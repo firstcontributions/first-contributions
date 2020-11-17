@@ -184,6 +184,7 @@
 - [Dave Organ](https://github.com/dk-obrien)
 - [Austin Nguyen](https://github.com/austinvan295)
 - Pooja Muthalik
+- [Daniel Fernández](https://github.com/7yrionLannister)
 - [Eli Zhu](https://github.com/mobulture)
 - [Ezekiel Nizamani](https://github.com/ezekielnizamani)
 - [Daniel Hee](https://github.com/DanWlker)
