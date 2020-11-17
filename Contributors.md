@@ -19,6 +19,7 @@
 - [Anish Tilak](https://github.com/anishtilak16)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Rosemary Li](https://github.com/yli110-stat697)
+- [Kira](https://github.com/kira0x1)
 - [Anderson]()
 - [Lorcan](https://github.com/lorcanj)
 - [TomKCA]()
