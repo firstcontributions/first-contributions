@@ -7803,6 +7803,7 @@
 - [FireFighterDuck](https://github.com/firefighterduck)
 - [Kevin Goodenough](https://github.com/kevingoodenough)
 - [bobphul](https://github.com/bobphul)
+- [Alan Kwanhong LEE](https://github.com/kwanhong66)
 - [nurverek](https://github.com/nurverek)
 - [Guillermo Gomez](https://github.com/mlgxmez)
 - [Mithesh](https://github.com/mithesh109)
