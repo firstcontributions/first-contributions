@@ -22,6 +22,7 @@
 - [Kira](https://github.com/kira0x1)
 - [Anderson]()
 - [Lorcan](https://github.com/lorcanj)
+- [John McCracken](https://github.com/johnmccuk)
 - [TomKCA]()
 - [Hemant Patel](https://github.com/Hemant-Dev)
 - [Alex Babalau](https://github.com/alexbabalau)
