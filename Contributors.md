@@ -1426,6 +1426,7 @@
 - [André Almeida](https://github.com/andyalmeida)
 - [Varshit Sindhu](https://github.com/varshitchoudhary100)
 - [Henrik de Jounge](https://github.com/hdejounge)
+- [Gozde Bulut] (https://github.com/gozde88)
 - [Carlos Cornejo](https://github.com/carloantoniocc)
 - [Adam Brikman](https://github.com/adambrikman)
 - [Laurel Verma](https://github.com/1laurelverma)
