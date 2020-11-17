@@ -870,6 +870,7 @@
 - [Saptarsi Saha](https://github.com/saptarsi96)
 - [AkiaCode](https://github.com/AkiaCode/S)
 - [Chirag Sharma](https://github.com/scyther)
+- [David Hernández](https://github.com/davidha99)
 - [Tauqeer Ali]
 - [Parth Patel](https://github.com/parth-15)
 - [Lok Gubhaju](https://github.com/lokgubhaju)
