@@ -34,6 +34,7 @@
 - [catboxer](https://github.com/catboxer)
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
 - [Jeremie Bogaert](https://github.com/jebogaert)
+- [Samuel Sorial](https://github.com/Samuel-Sorial)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
 - [Success John](https://github.com/success-john)
 - [Dave Northern](https://github.com/davenorthern)
