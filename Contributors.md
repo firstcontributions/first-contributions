@@ -2493,6 +2493,7 @@
 - [RAM PRAKASH](https://github.com/thedoodler)
 - [Pilo](https://github.com/ilovenullptr)
 - [Eveline](https://github.com/eveline-xie)
+- [Jackson Allen](https://github.com/CrimsonShiroe)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
 - [Michal Piatkowski](https://github.com/m-piatkowski-dev)
 - [Malaika Agrawal]()
