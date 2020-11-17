@@ -30,6 +30,7 @@
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
 - [catboxer](https://github.com/catboxer)
+- [Evgeni Bershadsky](https://github.com/EvgeniBR)
 - [Jeremie Bogaert](https://github.com/jebogaert)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
 - [Success John](https://github.com/success-john)
