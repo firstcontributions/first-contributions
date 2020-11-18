@@ -1,9 +1,10 @@
-# Contributors
+﻿# Contributors
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Kyle Foerster] (https://github.com/kbfoerster)
 - sanjubaba
 - [Tenzin Woesel]
+- [Mohd Danish](https://github.com/mohddanish-cse)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
