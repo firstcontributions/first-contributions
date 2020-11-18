@@ -97,6 +97,7 @@
 - [Gabriel Epeschit](https://github.com/GabrielEspeschit)
 - [Moh Hassan](https://github.com/medh2000)
 - [Jordan Long](https://github.com/JordanLong1)
+- [CesarAAJunior](https://github.com/CesarAAJunior)
 - [Joao Almeida](https://github.com/joao-vta)
 - [Savreen Kaur](https://github.com/skaur728)
 - [Kelly Davis](https://github.com/kad1001)
