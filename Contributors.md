@@ -5,7 +5,7 @@
 - sanjubaba
 - [Tenzin Woesel]
 - [Mohd Danish](https://github.com/mohddanish-cse)
-- [Arjun.S](https://github.com/Arjun-Zaraki)
+- [Arjun S](https://github.com/Arjun-Zaraki)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
