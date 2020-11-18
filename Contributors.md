@@ -308,6 +308,7 @@
 - [Cindy Brown](https://github.com/ceeblet)
 - Kashish 2000
 - [Sid Mirza](https://github.com/sidmirza4)
+- [Harsh Kathiriya] (https://github.com./harsh9898)
 - [Sabbir Rifat](https://github.com/sabbirrifat)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
