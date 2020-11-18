@@ -274,6 +274,7 @@
 - [Douglas McWherter](https://github.com/teserve)
 - [Jake Thomas](https://github.com/jakesock)
 - [Candice Peters](https://github.com/cep104)
+- [Basavasagar](https://github.com/bkpcoding)
 - [Mark R Baker](https://github.com/mrbaker1917)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Wildan Bash](https://github.com/wildanbash)
