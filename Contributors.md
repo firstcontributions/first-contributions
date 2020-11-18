@@ -741,6 +741,7 @@
 - [Anton Glebov](https://github.com/antgleb)
 - [Diane Lee](https://github.com/diane-lee-byte)
 - [Nandini Mundra](https://github.com/NandiniMundra-8)
+- [Pablo Rodríguez](https://github.com/paroar)
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Juan Grajales](https://github.com/juansongrajales)
