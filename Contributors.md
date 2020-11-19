@@ -103,6 +103,7 @@
 - [Gabriel Epeschit](https://github.com/GabrielEspeschit)
 - [Moh Hassan](https://github.com/medh2000)
 - [Jordan Long](https://github.com/JordanLong1)
+- [Harsh Gupta](https://github.com/harshgupta246)
 - [CesarAAJunior](https://github.com/CesarAAJunior)
 - [Joao Almeida](https://github.com/joao-vta)
 - [Savreen Kaur](https://github.com/skaur728)
