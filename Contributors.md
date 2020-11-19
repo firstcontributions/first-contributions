@@ -1,9 +1,9 @@
 ﻿# Contributors
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
-- [Kyle Foerster] (https://github.com/kbfoerster)
+- [Kyle Foerster](https://github.com/kbfoerster)
 - sanjubaba
-- [Tenzin Woesel]
+- Tenzin Woesel
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
@@ -24,11 +24,11 @@
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Kira](https://github.com/kira0x1)
-- [Anderson]()
+- Anderson
 - [Lorcan](https://github.com/lorcanj)
-- [Raquel] (https://github.com/rcurutchet)
+- [Raquel](https://github.com/rcurutchet)
 - [John McCracken](https://github.com/johnmccuk)
-- [TomKCA]()
+- TomKCA
 - [Hemant Patel](https://github.com/Hemant-Dev)
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
@@ -127,8 +127,8 @@
 - [Hussein Akar](https://github.com/hussein-akar)
 - [Nate Osterfeld](https://github.com/NateOsterfeld)
 - [Rik Kraan](https://github.com/rikkraanvantage)
-- [Vrinda Tyagi]
-- [Colton Francis]
+- Vrinda Tyagi
+- Colton Francis
 - [Chintan Patel](https://github.com/chihempat)
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
@@ -147,9 +147,9 @@
 - [Subhamay Paul](https://github.com/Subho-codegeek)
 - [Divya Patil](https://github.com/dev-17/)
 - [Abhijeet Gandhi](https://github.com/abhijeet1813)
-- [Brandon Wright]
+- Brandon Wright
 - [Amandou](https://github.com/amandou)
-- [Ratul Dawar]
+- Ratul Dawar
 - [Kamil Sikora](https://github.com/sikorakamil26)
 - [Abbey Centers](https://github.com/abbeyLC)
 - [Tamil Selvan](https://github.com/tamizhad)
@@ -167,7 +167,7 @@
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
 - [Alan Zhu](https://github.com/alanzhu39)
-- [Animesh_ramasami]()
+- Animesh_ramasami
 - [Amedyne](https://github.com/amedyne)
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
@@ -201,7 +201,7 @@
 - Pooja Muthalik
 - [Daniel Fernández](https://github.com/7yrionLannister)
 - [Eli Zhu](https://github.com/mobulture)
-- [Grey Grissom] (https://github.com/1gitGrey)
+- [Grey Grissom](https://github.com/1gitGrey)
 - [Ezekiel Nizamani](https://github.com/ezekielnizamani)
 - [Daniel Hee](https://github.com/DanWlker)
 - [Max Monciardini](https://github.com/maxmonciardini)
@@ -234,7 +234,7 @@
 - [Nandini Verma](https://github.com/NVSUCCESS)
 - Nandini Verma
 - [Chong Kim](https://github.com/yportne8)
-- [EllaCherrystone]
+- EllaCherrystone
 - [Anv UDemy](https://github.com/anvudemy)
 - [Silvia Candia](https://github.com/Silvia-Candia)
 - [Marittya Keu](https://github.com/MarittyaKeu)
@@ -264,7 +264,7 @@
 - [Sristy Sharma](https://github.com/beertocode)
 - [Matthew Burford](https://github.com/Mattb709)
 - [Sristy Sharma](https://github.com/beertocode)
-- [Mani]
+- Mani
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
@@ -300,8 +300,8 @@
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [gds ghost \$udam](https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
-- [Suyash](github.com/Suyious)
-- [William Ah Tou]
+- [Suyash](https://github.com/Suyious)
+- William Ah Tou
 - [Matt Martindale](https://github.com/Marty2327)
 - [Dmitry S](https://github.com/Dmitry-Sm)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
@@ -316,13 +316,13 @@
 - [Cindy Brown](https://github.com/ceeblet)
 - Kashish 2000
 - [Sid Mirza](https://github.com/sidmirza4)
-- [Harsh Kathiriya] (https://github.com./harsh9898)
+- [Harsh Kathiriya](https://github.com./harsh9898)
 - [Sabbir Rifat](https://github.com/sabbirrifat)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [Christian Lao](https://github.com/christianlao12)
-- [Luis Sosa](https://github.com/sosavle) found this a useful refresher
-- [Spandan Mishra](https://github.com/Spandyie) Jay Nepal
+- [Luis Sosa](https://github.com/sosavle)
+- [Spandan Mishra](https://github.com/Spandyie)
 - CHINTAN PATEL
 - Kash D
 - [berkaykarlik](https://github.com/berkaykarlik)
@@ -343,7 +343,7 @@
 - SANANDAN MAHALANABISH
 - [this is where i have entered a sentence]reddy
 - [Framorac Is Here](https://github.com/framorac)
-- [Anubhav Garg]
+- Anubhav Garg
 - [Alex P](https://github.com/papillon7)
 - [Sean Ang](https://github.com/seanaxn1135)
 - TigerBoy!
