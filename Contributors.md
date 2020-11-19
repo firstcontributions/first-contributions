@@ -33,6 +33,7 @@
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
+- [Nick Vallejos](https://github.com/Guambo)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
 - [catboxer](https://github.com/catboxer)
