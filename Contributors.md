@@ -25,6 +25,7 @@
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Kira](https://github.com/kira0x1)
+- [Belle Deane](https://github.com/ifd459)
 - [Anderson]()
 - [Lorcan](https://github.com/lorcanj)
 - [Raquel] (https://github.com/rcurutchet)
