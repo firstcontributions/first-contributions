@@ -885,6 +885,7 @@
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Hank Atherton](https://github.com/warmoverdrive)
+- [Steven Zhu](https://github.com/stevenzhu94)
 - [Gracyn Green](https://github.com/gg371)
 - [Nino Mercado](https://github.com/njmercado)
 - [Hammad Shafiq](https://github.com/hmdbupt)
