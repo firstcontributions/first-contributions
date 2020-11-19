@@ -5,6 +5,7 @@
 - sanjubaba
 - Tenzin Woesel
 - [Mohd Danish](https://github.com/mohddanish-cse)
+- [Arjun.S](https://github.com/Arjun-Zaraki)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
@@ -24,7 +25,8 @@
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Kira](https://github.com/kira0x1)
-- Anderson
+- [Belle Deane](https://github.com/ifd459)
+- [Anderson]()
 - [Lorcan](https://github.com/lorcanj)
 - [Raquel](https://github.com/rcurutchet)
 - [John McCracken](https://github.com/johnmccuk)
@@ -101,6 +103,7 @@
 - [Gabriel Epeschit](https://github.com/GabrielEspeschit)
 - [Moh Hassan](https://github.com/medh2000)
 - [Jordan Long](https://github.com/JordanLong1)
+- [Harsh Gupta](https://github.com/harshgupta246)
 - [CesarAAJunior](https://github.com/CesarAAJunior)
 - [Joao Almeida](https://github.com/joao-vta)
 - [Savreen Kaur](https://github.com/skaur728)
@@ -301,7 +304,7 @@
 - [gds ghost \$udam](https://github.com/gdsghost)
 - [Priyanka Uppalwar](https://github.com/priyanka-tw)
 - [Suyash](https://github.com/Suyious)
-- William Ah Tou
+  [Arin Tripathi]
 - [Matt Martindale](https://github.com/Marty2327)
 - [Dmitry S](https://github.com/Dmitry-Sm)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
