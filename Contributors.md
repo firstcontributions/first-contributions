@@ -1,4 +1,5 @@
 ﻿# Contributors
+- amlan
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Michael O'Connor](https://github.com/mmosru)
