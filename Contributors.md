@@ -11,6 +11,7 @@
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
 - [AndyJMR](https://github.com/AndyJMR)
+  [Aditya](https://github.com/Adinarayanreloaded)
 - [Pugets](http://github.com/Pugets)
 - [jaywhen](https://github.com/jaywhen)
 - [NoneBack](https://github.com/noneback)
