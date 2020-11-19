@@ -14,6 +14,7 @@
   [Aditya](https://github.com/Adinarayanreloaded)
 - [Pugets](http://github.com/Pugets)
 - [jaywhen](https://github.com/jaywhen)
+- anacarolinarodrigues
 - [NoneBack](https://github.com/noneback)
 - [S-majer](https://github.com/s-majer)
 - [ChenPengf](https://github.com/ChenPengf)
