@@ -1,6 +1,7 @@
 ﻿# Contributors
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
+- [Michael O'Connor](https://github.com/mmosru)
 - [Kyle Foerster](https://github.com/kbfoerster)
 - sanjubaba
 - Tenzin Woesel
