@@ -7893,3 +7893,4 @@
 - [Will Lotherington](https://github.com/wlotherington)
 - [Ramazan Eymir](https://github.com/eymiramazan)
 - [Ankush Chauhan](https://github.com/An-prog-hub)
+- [Juandiegox21](https://github.com/juandiegox21)
