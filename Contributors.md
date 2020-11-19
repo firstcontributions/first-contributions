@@ -81,6 +81,7 @@
 - [Marchantia](https://github.com/mrchntia)
 - [Taiwo Akingboye](https://github.com/hogyny)
 - [Ebad Ali](https://github.com/ebadali)
+- [cs-j](https://github.com/cs-j)
 - [Ed Glazenski](https://github.com/edg570)
 - [John Neigel](https://github.com/J-F-N)
 - Oreoluwa Emmanuel
