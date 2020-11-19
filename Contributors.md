@@ -467,6 +467,7 @@
 - chenniferann
 - gamesMum
 - [realrahnama](https://github.com/realrahnama)
+- [muchocho](https://github.com/muchocho)
 - [gulshan](https://github.com/gulshankk)
 - [Aditya Sriram](https://github.com/aweditya)
 - [Sopeade Lanlehin](https://github.com/sopeade)
