@@ -84,6 +84,7 @@
 - [G2048](https://github.com/G2048)
 - [DionWeb](https://github.com/dionweb)
 - [Matt Kelley](https://github.com/mattshu)
+- [Aditya Thapa](https://github.com/adityathapa)
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
 - [Coby Sher](https://github.com/cobypear)
 - [Marchantia](https://github.com/mrchntia)
