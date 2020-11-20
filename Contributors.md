@@ -3732,6 +3732,7 @@
 - [Ubuangel](https://github.com/ubuangel)
 - [Karsten W.](https://github.com/Fflowka)
 - Sherry C
+- manasi999
 - errrii
 - Dov
 - \$!D
