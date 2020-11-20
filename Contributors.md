@@ -240,6 +240,7 @@
 - [Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan](https://github.com/harithamohan1)
 - [Nandini Verma](https://github.com/NVSUCCESS)
+- [Sean Wilson](https://github.com/MorbidFace)
 - Nandini Verma
 - [Chong Kim](https://github.com/yportne8)
 - EllaCherrystone
