@@ -31,6 +31,7 @@
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Kira](https://github.com/kira0x1)
+- [Robert Kulig](https://github.com/SidBarker)
 - [Belle Deane](https://github.com/ifd459)
 - [Daniel Allen Del Rosario](https://github.com/delrosariotup)
 - [Anderson]()
