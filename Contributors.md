@@ -7875,6 +7875,7 @@
 - [Opal Thongpetch](https://github.com/crystalclear506/)
 - [Slawek Biel](https://github.com/slawekslex)
 - [Nessie](https://github.com/inesisprograming)
+- [Joel Ferreira](https://github.com/DevDotJoel)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
 - [Gustavo Santana Domingueti 🚀](https://github.com/dominguetigs)
