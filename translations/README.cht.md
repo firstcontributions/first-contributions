@@ -24,9 +24,9 @@
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-接下來，將複製後的儲存庫複製到你/妳的電腦上。點選圖示中的綠色按鈕，接著點選複製到剪切板按鈕（將儲存庫地址複製下來）
+接下來，將複製後的儲存庫複製到你/妳的電腦上。點選圖示中的綠色按鈕，接著點選複製到剪貼簿按鈕（將儲存庫地址複製下來）
 
-隨後打開命令行窗口，敲入如下 git 命令：
+隨後打開命令列視窗，鍵入如下 git 命令：
 
 ```
 git clone "url you just copied"
@@ -61,7 +61,7 @@ git checkout -b add-david
 
 （新分支的名稱不一定需要有 *add*。然而，在這個新分支的名稱加入 *add* 是一件合理的事情，因為這個分支的目的是將妳/你的名字添加到貢獻者列表中。）
 
-## 對程式碼進行修改，然後提交 (Commit)) 修改
+## 對程式碼進行修改，然後提交 (Commit) 修改
 
 使用妳/你喜歡的文字編輯器打開 `Contributors.md` 這個文件，更新文件內容，將自己的名字加上去，然後存檔。在命令窗口執行 `git status`，這會列出被更動的文件。接著 `git add` 這命令則可以添加更動項目到分支裡，就像以下這條命令。
 
@@ -110,7 +110,6 @@ git push origin <add-your-name>
 
 ## 使用其他工具的教學
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="../sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|<a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../sourcetree-macos-tutorial.md)|
-
+|[GitHub Desktop](../gui-tool-tutorials/gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)|
