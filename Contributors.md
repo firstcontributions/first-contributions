@@ -40,6 +40,7 @@
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
+- [Michael John Dollente](https://github.com/xjanggo)
 - [Nick Vallejos](https://github.com/Guambo)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
