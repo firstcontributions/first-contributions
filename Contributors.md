@@ -7,6 +7,7 @@
 - Tenzin Woesel
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
+- [Jessa Daggs](https://github.com/jldaggs88)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
