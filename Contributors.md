@@ -135,6 +135,7 @@
 - [Hussein Akar](https://github.com/hussein-akar)
 - [Nate Osterfeld](https://github.com/NateOsterfeld)
 - [Rik Kraan](https://github.com/rikkraanvantage)
+- [Dillon Rooke] (https://github.com/DillonRooke)
 - Vrinda Tyagi
 - Colton Francis
 - [Chintan Patel](https://github.com/chihempat)
