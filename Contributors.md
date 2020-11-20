@@ -4,6 +4,7 @@
 - [Kyle Foerster] (https://github.com/kbfoerster)
 - sanjubaba
 - [Tenzin Woesel]
+- Roshan Nair
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
