@@ -74,6 +74,7 @@
 - [Renan Cleyson](https://github.com/renancleyson-dev)
 - [Alejandro Carmona](https://github.com/carmonaalex12)
 - [Sylvain Empson](https://github.com/sylvain-01)
+- [Plikoener] (https://github.com/Plikoener)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Cherie Wu](https://github.com/inspurwusixuan)
 - [Greg Martinez](https://github.com/greg-martinez44)
