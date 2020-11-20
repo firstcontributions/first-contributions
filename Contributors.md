@@ -49,6 +49,7 @@
 - [Dave Organ] (https://github.com/dk-obrien)
 Pooja Muthalik
 - [Eli Zhu] (https://github.com/mobulture)
+- [Salvydas Lukosius] (https://github.com/ss-o)
 - [Katarzyna Wegrzynowicz] (https://github.com/katarzyna-kw/)
 - [Lakshay Kapoor] (https://github.com/techmaxus)
 - Juhi Kushwah (https://github.com/juhikushwah)
