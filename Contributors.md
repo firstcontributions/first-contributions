@@ -6485,6 +6485,7 @@
 - [Brandon Tripp](https://github.com/Brandon-G-Tripp/)
 - [Hugo Rodriguez](https://github.com/hugo-2306/)
 - [excelsior091224](https://github.com/excelsior091224)
+- [Clay Xiong](https://github.com/tlightk)
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
 - [Matt Wood](https://github.com/MattWood21)
