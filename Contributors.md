@@ -233,6 +233,7 @@
 - happy-xty
 - [Rachana Bhalsing](https://github.com/rachanb)
 - Usman Aslam
+- Dylan Anderson
 - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Cihan Orhan](https://github.com/cihanorhan)
 - [Shawn Maybush](https://github.com/shawn-maybush)
