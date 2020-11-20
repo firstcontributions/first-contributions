@@ -5467,6 +5467,7 @@
 - [Zizy Zhu](https://github.com/zuzy)
 - [Ari](https://github.com/ari-hacks/)
 - [Kenny McEwan](https://github.com/kennymce)
+- [Jiang Hongbei](https://github.com/refenir)
 - [Leonard Green](https://github.com/laroygreen)
 - [kingkoma](https://github.com/kingkoma)
 - [AlexSarah](https://github.com/AlexSarah)
