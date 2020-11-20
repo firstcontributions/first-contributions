@@ -6,6 +6,7 @@
 - [Kyle Foerster](https://github.com/kbfoerster)
 - sanjubaba
 - Tenzin Woesel
+- [Cody Deatherage](https://github.com/codydeatherage)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
 - [Jessa Daggs](https://github.com/jldaggs88)
