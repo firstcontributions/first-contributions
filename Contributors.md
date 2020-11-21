@@ -463,6 +463,7 @@
 - [Elena Gumerova](https://github.com/ElenaProject)
 - [Dan Truong](https://github.com/Syntax3rr/)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
+- [Darrell Bazian](https://github.com/dbazian)
 - [Varad Dingankar](https://github.com/vmdhhh)
 - [James O'Meara](https://github.com/Jamesomeara93)
 - [Tvarita Jain](https://github.com/tvarrr)
