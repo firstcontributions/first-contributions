@@ -9,6 +9,7 @@
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
+- [Eduardo Gonzalez](https://github.com/Eduardo-Gonz)
 - [Jessa Daggs](https://github.com/jldaggs88)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
