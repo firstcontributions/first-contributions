@@ -34,6 +34,7 @@
 - [ChenPengf](https://github.com/ChenPengf)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
+- [Jessica Chen](https://github.com/jessicreative)
 - [Melanys Figueredo](https://github.com/melanyss)
 - [Void2g](https://github.com/Void2g)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
