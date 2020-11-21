@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,7 +11,7 @@
 
 관련된 글을 읽거나 튜토리얼을 보는 것도 물론 도움이 되지만, 연습공간에서 직접 해보는 것보다 나은게 있을까요? 이 프로젝트의 목표는 초보자도 첫 오픈소스 기여를 할 수 있도록 단순한 방식으로 안내하는 것입니다. 첫 기여를 하고 싶으시다면 아래의 설명을 따라주세요.
 
-<img align="right" width="300" src="../assets/fork.png" alt="이 저장소 포크하기" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="이 저장소 포크하기" />
 
 가장 먼저, Git이 없으시다면  [설치](https://help.github.com/articles/set-up-git/)해주세요.
 
@@ -21,7 +21,7 @@
 
 ## 저장소 클론하기
 
-<img align="right" width="300" src="../assets/clone.png" alt="이 저장소 복제하기" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="이 저장소 복제하기" />
 
 이제 이 저장소를 자신의 기기에 클론합니다. Clone or download 버튼을 클릭하고 클립보드로 복사 아이콘을 클릭합니다.
 
@@ -33,7 +33,7 @@ git clone "방금 복사한 URL"
 
 위에 (따옴표를 제외한) "방금 복사한 URL"는 이 저장소의 URL입니다. URL은 이전 단계에서 찾을 수 있습니다.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="URL 을 클립보드로 복사" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL 을 클립보드로 복사" />
 
 예시:
 
@@ -70,7 +70,7 @@ git checkout -b add-alonzo-church
 
 이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 아래와 같이 추가해주세요. 이때 맨 처음이나 맨 끝을 제외한 중간에 마음에 드는 곳에 추가하시면 됩니다. 그리고 파일을 저장하세요.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />  
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />  
 
 프로젝트 디렉터리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다. 
 
@@ -102,12 +102,12 @@ git push origin <add-your-name>
 
 이제 본인의 깃헙 저장소로 이동하면 `Compare & pull request` 버튼이 보일 것 입니다. 버튼을 클릭하세요.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="풀 요청
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="풀 요청
 생성하기" />
 
 이제 풀 요청(Pull Request)을 제출합니다.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="풀 요청 제출하기"
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="풀 요청 제출하기"
 />
 
 이제 여러분의 변경사항을 담당자가 확인한 후에 마스터 브랜치에 머지 하게 되면 알림 메일을 받으실겁니다.
@@ -129,6 +129,6 @@ git push origin <add-your-name>
 
 ## 다른 도구들에 관한 튜토리얼
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>| <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>| <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)     | [Atlassian Sourcetree](../sourcetree-macos-tutorial.md)         | [IntelliJ IDEA](../github-windows-intellij-tutorial.md)         |
