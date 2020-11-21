@@ -1,5 +1,6 @@
 ﻿# Contributors
--[Leevi Andrews](https://github.com/leeviaa)
+- amlan
+- [Leevi Andrews](https://github.com/leeviaa)
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Michael O'Connor](https://github.com/mmosru)
