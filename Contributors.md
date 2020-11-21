@@ -355,6 +355,7 @@
 - [Harsh Kathiriya](https://github.com./harsh9898)
 - [Sabbir Rifat](https://github.com/sabbirrifat)
 - [Astralyfuse](https://github.com/Astralyfuse)
+- [Harshit Sharma](https://github.com/harshu1470)
 - [Harshal Sanghvi](https://github.com/harshal2030)
 - [Darian Purry](https://github.com/dpurry23)
 - [Christian Lao](https://github.com/christianlao12)
@@ -475,6 +476,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- Harshit Sharma
 - [Mary](https://github.com/mhchow)
 - [andyjjrt](https://github.com/andyjjrt)
 - [aStateOfLimbo]
@@ -7790,6 +7792,7 @@
 - [Bimal Subedi](https://github.com/subedibimal)
 - [Dikshant Gautam](https://github.com/dikshantgautam2k)
 - [Aashwin Agrawal](https://github.com/aashwiniitb2409)
+- [Yash Gupta](https://github.com/itsyash2122)
   erdem yigitoglu
 - [Yash Gupta](https://github.com/itsyash2122)
 - [Mateusz Kaminski](https://github.com/GwiezdnyRycerzKosmosu)
