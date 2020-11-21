@@ -2236,6 +2236,7 @@
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
 - [Rohan Sodha](https://github.com/Rohan12152001)
 - [Christopher Frost](https://github.com/CWFrost)
+- [Geraldine Domergue](https://github.com/domergueg)
 - [YuriBtr](https://github.com/Yuribtr)
 - [fightthepower](https://github.com/fightthepower)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
