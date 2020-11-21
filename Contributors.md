@@ -7,6 +7,7 @@
 - TigerBoy!
 - Motunrayo
 - Andrew Gao
+- [Fatih Samur](https://github.com/fatihsamur) 👋
 - Saish Reddy Komalla
 - Jerry B
 - Gustavo Lozada (https://github.com/GLozada99)
