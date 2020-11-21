@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # ਪਹਿਲਾ ਯੋਗਦਾਨ
@@ -58,7 +58,7 @@ git checkout -b add-alonzo-church
 ## ਜ਼ਰੂਰੀ ਤਬਦੀਲੀਆਂ ਕਰੋ ਅਤੇ ਉਨ੍ਹਾਂ ਬਦਲਾਵਾਂ ਨੂੰ ਪ੍ਰਤੀਬੱਧ ਕਰੋ
 ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿੱਚ `Contributors.md` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿੱਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ। ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ।
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 ਜੇ ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਡਾਇਰੈਕਟਰੀ ਤੇ ਜਾਂਦੇ ਹੋ ਅਤੇ `git status` ਕਮਾਂਡ ਚਲਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਦੇਖੋਗੇ ਕਿ ਬਦਲਾਅ ਹਨ।
 
@@ -90,11 +90,11 @@ git push origin <add-your-branch-name>
 
 ਜੇ ਤੁਸੀਂ ਗਿੱਟਹੱਬ 'ਤੇ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ' ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ `ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਖਿੱਚੋ ਬੇਨਤੀ` ਬਟਨ ਨੂੰ ਵੇਖੋਗੇ. ਉਸ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 ਹੁਣ ਪੁਲੀ ਬੇਨਤੀ ਨੂੰ ਜਮ੍ਹਾ ਕਰੋ.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 ਜਲਦੀ ਹੀ ਮੈਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਮਾਸਟਰ ਬ੍ਰਾਂਚ ਵਿੱਚ ਮਿਲਾ ਦੇਵਾਂਗਾ. ਇਕ ਵਾਰ ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਿਲਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਇਕ ਸੂਚਨਾ ਈਮੇਲ ਮਿਲੇਗੀ.
 
