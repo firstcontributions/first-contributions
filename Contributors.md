@@ -4,11 +4,14 @@
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Michael O'Connor](https://github.com/mmosru)
 - [Kyle Foerster](https://github.com/kbfoerster)
+- [Atin Bainada](https://github.com/at-in)
 - sanjubaba
 - Tenzin Woesel
+- [Jason Thulen]
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
+- [Eduardo Gonzalez](https://github.com/Eduardo-Gonz)
 - [Jessa Daggs](https://github.com/jldaggs88)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
@@ -87,6 +90,7 @@
 - [Jenny Pyle](https://github.com/jenpyle)
 - Ajay Krishna
 - [Stephen Noh](https://github.com/StephenNoh)
+- [Preetham Pathi](https://github.com/preethampathi2305)
 - [Kamto Astrid](https://github.com/KT360)
 - [Oyeleke Lekan](https://github.com/Sirloko)
 - [G2048](https://github.com/G2048)
@@ -165,6 +169,7 @@
 - [Subhamay Paul](https://github.com/Subho-codegeek)
 - [Divya Patil](https://github.com/dev-17/)
 - [Abhijeet Gandhi](https://github.com/abhijeet1813)
+- Dean Lardner
 - Brandon Wright
 - [Amandou](https://github.com/amandou)
 - Ratul Dawar
@@ -180,6 +185,7 @@
 - [Puneet Kaur Jattana](https://github.com/puneet601)
 - [Rodney Cordoba](https://github.com/N3ZZ470R17)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
+- [Ankur Gupta](https://github.com/ankurg132)
 - [Pramod Rao Budramane](https://github.com/PramodRaoB)
 - [Allan Navarro](https://github.com/allan-navarro)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
@@ -7747,6 +7753,7 @@
 - [Rena](https://github.com/givemewaffles)
 - [Dhruv Sah](https://github.com/Dhruv-Sah)
 - [Oshin](https://github.com/oshin7695)
+- [Ali khalil](https://github.com/alikhleel)
 - [Mohammad Khimel](https://github.com/khimel)
 - [Nikki Ricks](https://github.com/nikkiricks)☺️
 - [Bimal Subedi](https://github.com/subedibimal)
@@ -7915,4 +7922,6 @@
 - [Ankush Chauhan](https://github.com/An-prog-hub)
 - [Juandiegox21](https://github.com/juandiegox21)
 - [Ben Herbert](https://github.com/ben22020)
+- [Tanvi Moharir](https://github.com/tanvimoharir)
 - [Kenneth Raymond](https://github.com/Kenneth-Raymond)
+- Angelika Kosińska
