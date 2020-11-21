@@ -721,6 +721,7 @@
 - [Utkarsh Nagdev](https://github.com/0ne0rZer0)
 - [Chiran Hewawitharana](https://github.com/cmadusankahw)
 - [Akhila](https://github.com/akhilap03)
+- [Safar Safarov](https://github.com/safarsafarov)
 - [Erik Chaulk](https://github.com/echaulk2)
 - [Amarachi Anyim](https://github.com/Harmarachi)
 - Walker Dow
