@@ -2836,6 +2836,7 @@
 - [Michael Berkowitz](https://github.com/meberko)
 - [Sumanth Thyagarajan](https://github.com/sumanth-thyagarajan)
 - [William Mosquera](https://github.com/wjmmk)
+- [Fabiostb](https://github.com/fabiostb)
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Anurag Gupta](https://github.com/git-anurag-hub)
 - Mike Porter
@@ -7896,4 +7897,3 @@
 - [Ankush Chauhan](https://github.com/An-prog-hub)
 - [Juandiegox21](https://github.com/juandiegox21)
 - [Ben Herbert](https://github.com/ben22020)
-- [Fabiostb](https://github.com/fabiostb)
