@@ -3120,6 +3120,7 @@
 - [Manav Ranawat](https://github.com/ManavRanawat)
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
+- Sherri Chuah :P
 - [Shubham Singh](https://github.com/suubh)
 - [Kyle Vincent](https://github.com/kvincent21)
 - [Regine Heimers](https://github.com/rheimers)
