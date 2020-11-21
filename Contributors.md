@@ -6,6 +6,7 @@
 - [Kyle Foerster](https://github.com/kbfoerster)
 - [Atin Bainada](https://github.com/at-in)
 - sanjubaba
+- Roshan Nair
 - Tenzin Woesel
 - [Jason Thulen]
 - [Cody Deatherage](https://github.com/codydeatherage)
