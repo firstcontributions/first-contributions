@@ -7,7 +7,6 @@
 - TigerBoy!
 - Motunrayo
 - Andrew Gao
-- [Fatih Samur](https://github.com/fatihsamur) 👋
 - Saish Reddy Komalla
 - Jerry B
 - Gustavo Lozada (https://github.com/GLozada99)
@@ -5417,6 +5416,7 @@
 - [D Lincoln](https://github.com/da-lincoln)
 - [Chris P](https://github.com/j393554)
 - [Ugu](https://github.com/uguuuuuu)
+- [Fatih Samur](https://github.com/fatihsamur) 👋
 - [Ela Bogucka](https://github.com/ebogucka)
 - [Paolo Manili](https://github.com/Delta-38)
 - [Steven Carton](https://github.com/introcart)
