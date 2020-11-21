@@ -7706,6 +7706,7 @@
 - [Ojaswi-Kafle](https://github.com/ojasweekafle1234)
 - [Kyle Trahan](https://github.com/ktrahan2)
 - [Lucatake](https://github.com/Lucatake)
+- [Michael Poole] (https://github.com/MichaelPooleLF)
 - [Maycon-Alves](https://github.com/mayconbalves)
 - [Marcelo Vieira](https://github.com/marcelobvieira)
 - [Algorithm](https://github.com/hackerninenine99)
