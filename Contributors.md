@@ -544,6 +544,7 @@
 - Sylints
 - Yukty Khandelia
 - Pranjal bisht
+- [John Boyle](https://github.com/clockworkftw)
 - [Jeffrey Brown](https://github.com/hieronymous-bean)
 - [William Dessert](https://github.com/SaucyGames05)
 - [Saurav Kumar](https://github.com/saurav2609)
