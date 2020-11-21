@@ -297,6 +297,7 @@
 - [Matthew Burford](https://github.com/Mattb709)
 - [Sristy Sharma](https://github.com/beertocode)
 - Mani
+- [Junaid Iqbal](https://github.com/junaidiqbalturk) found this useful regarding contribution to open source
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
