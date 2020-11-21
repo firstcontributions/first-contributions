@@ -7,6 +7,7 @@
 - [Atin Bainada](https://github.com/at-in)
 - sanjubaba
 - Tenzin Woesel
+- [Jason Thulen]
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
