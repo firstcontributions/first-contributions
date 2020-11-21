@@ -7725,6 +7725,7 @@
 - [Lucas Alves Teixeira](https://github.com/lat94)
 - [Spencer Broomhead](https://github.com/FishtheFish)
 - [Samantha B <3]
+- [Jacob Perez] (https://github.com/jperez210)
 - [Fajar Muzaky](https://github.com/fajarmzky)
 - [Shashank Kesharwani](https://github.com/Shashank2808)
 - [Takae Harrington](https://github.com/takaelucky)
