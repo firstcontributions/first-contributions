@@ -7749,6 +7749,7 @@
 - [Rena](https://github.com/givemewaffles)
 - [Dhruv Sah](https://github.com/Dhruv-Sah)
 - [Oshin](https://github.com/oshin7695)
+- [Ali khalil](https://github.com/alikhleel)
 - [Mohammad Khimel](https://github.com/khimel)
 - [Nikki Ricks](https://github.com/nikkiricks)☺️
 - [Bimal Subedi](https://github.com/subedibimal)
