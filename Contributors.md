@@ -366,8 +366,8 @@
 - [berkaykarlik](https://github.com/berkaykarlik)
 - [Sharmila Siram](https://github.com/sharmila02)
 - [opunsoars](https://github.com/opunsoars) was here
+- [Amine Raji](https://github.com/aminrj) was here too
 - [Matthew Davenport](https://github.com/davenport1)
-- [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
 - [Ali Shehbaz](https://github.com/alishehbaz)
 - [Ravi Bhatt](https://github.com/raviRB)
