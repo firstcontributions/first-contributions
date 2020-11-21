@@ -4,6 +4,7 @@
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Michael O'Connor](https://github.com/mmosru)
 - [Kyle Foerster](https://github.com/kbfoerster)
+- [Atin Bainada](https://github.com/at-in)
 - sanjubaba
 - Tenzin Woesel
 - [Cody Deatherage](https://github.com/codydeatherage)
