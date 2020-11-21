@@ -2860,6 +2860,7 @@
 - [Michael Berkowitz](https://github.com/meberko)
 - [Sumanth Thyagarajan](https://github.com/sumanth-thyagarajan)
 - [William Mosquera](https://github.com/wjmmk)
+- [Fabiostb](https://github.com/fabiostb)
 - [Ashild Kummen](https://github.com/ashildkummen)
 - [Anurag Gupta](https://github.com/git-anurag-hub)
 - Mike Porter
@@ -7925,7 +7926,6 @@
 - [Scott Toney](https://github.com/ascotttoney)
 - [Will Lotherington](https://github.com/wlotherington)
 - [Ramazan Eymir](https://github.com/eymiramazan)
-- [Ankush Chauhan](https://github.com/An-prog-hub)
 - [Ankush Chauhan](https://github.com/An-prog-hub)
 - [Vishal Nair](https://github.com/VishMN)
 - [Juandiegox21](https://github.com/juandiegox21)
