@@ -2394,6 +2394,7 @@
 - [Antti Hyppola](https://github.com/4nt1d0t3)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Ivan Tse](https://github.com/ivantse42)
+  abc
 - [Tamal Das](https://github.com/tamal777)
 - [Santhosh Narayanan](https://github.com/santhosh96)
 - [Dylan Cooper](https://github.com/Dylanc55)
@@ -2839,6 +2840,7 @@
 - Isabelle Pouget
 - Divya Gaurav
 - Pranav Prakhar
+  Robin Novak
 - Narayan Sharma
 - Chandre Kiran G
 - John Mehta
