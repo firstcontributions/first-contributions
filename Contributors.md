@@ -816,6 +816,7 @@
 - [Vipul Khandelwal](https://github.com/VipulKhandelwal1999)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
+- [Rachit Sharma](https://github.com/RachitSharma2001)
 - [Shivam Gupta](https://github.com/shivam3310)
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Benji](https://github.com/IWantADog)
