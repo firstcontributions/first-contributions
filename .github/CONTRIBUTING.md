@@ -14,8 +14,14 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.hi.md">हिन्दी</a>
         </td>
         <td>
-           <a href="../translations/README.mr.md">मराठी</a>
+           <a href="../translations/README.guj.md">ગુજરાતી</a>
         </td>
+        <td>
+           <a href="../translations/README.mr.md">मराठी</a>
+        </td>	
+	<td>
+           <a href="../translations/README.hne.md">छत्तीसगढ़ी</a>
+        </td>    
         <td>
            <a href="../translations/README.mm_unicode.md">မြန်မာ</a>
         </td>
@@ -37,8 +43,14 @@ If you're making changes to a translation, please request a review from our prev
             <img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />
         </td>
         <td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />
+        </td>
+        <td>
             <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />
         </td>
+	<td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />
+        </td>        
         <td>
             <img width="100" src="https://avatars0.githubusercontent.com/u/13135332?s=460&v=4" alt="@lwinkyawmyat" />
         </td>
@@ -60,8 +72,14 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/arshadkazmi42">arshadkazmi42</a>
         </td>
         <td>
+            <a href="https://github.com/smitgajjar">smitgajjar</a>
+        </td>
+        <td>
             <a href="https://github.com/bantya">bantya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
         </td>
+	<td>
+            <a href="https://github.com/pradyyadav">pradyyadav</a>
+        </td>    
         <td>
             <a href="https://github.com/lwinkyawmyat">lwinkyawmyat</a>
         </td>
@@ -385,6 +403,12 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.kz.md">Қазақша</a>
         </td>
+		<td>
+           <a href="../translations/README.ge.md">ქართული</a>
+        </td>
+        <td>
+           <a href="../translations/README.pl.md">polski</a>
+        </td>
     </tr>
      <tr>
         <td>
@@ -402,6 +426,12 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <img width="100" src="https://avatars3.githubusercontent.com/u/12928246?s=460&v=4" alt="@kurshakuz" />
         </td>
+		<td>
+            <img width="100" src="https://avatars0.githubusercontent.com/u/9116447?s=460&v=4" alt="@iko1133" />
+        </td>
+        <td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />
+        </td>
     </tr>
     <tr>
         <td>
@@ -418,6 +448,12 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/kurshakuz">kurshakuz</a>
+        </td>
+		<td>
+            <a href="https://github.com/iko1133">iko1133</a>
+        </td>
+        <td>
+            <a href="https://github.com/mikowhy">mikowhy</a>
         </td>
     </tr>
  </table>
