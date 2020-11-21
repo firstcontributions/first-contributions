@@ -303,6 +303,7 @@
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis](https://github.com/KHALIDFRANCIS)
 - AARA
+- [Jaqueline Gomez](https://github.com/JaquelineGomez)
 - [Aidan Simard](https://github.com/Aidan-Simard)
 - [Alexander Mosquea](https://github.com/ALmsq)
 - [Adolfo Rhs](https://github.com/adolforhs)
