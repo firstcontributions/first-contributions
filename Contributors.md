@@ -3453,6 +3453,7 @@
 - Nico Tek
 - Zion Williamson (Pelicans, number 1)
 - Arham (WinterAid, EUW)
+- [Nigama Vykari](https://github.com/Nigama-oss)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
 - [Namraj Pudasaini](http://githubcom/Namrajp)
