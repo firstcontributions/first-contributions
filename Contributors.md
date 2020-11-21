@@ -7424,6 +7424,7 @@
 - [Gustavo Dias A.](https://github.com/gfda)
 - [Aman Mahajan](https://github.com/amanmj)
 - [Adriana Chavez](https://github.com/achavez8)
+- [Alexander Carder](https://github.com/AlexanderCarder)
 - [Victoria Ubaldo](https://github.com/vikyale)
 - [Leonardo Bonetti](https://github.com/LeonardoBonetti)
 - [Tim Gao](https://github.com/timegao)
