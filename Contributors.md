@@ -353,6 +353,7 @@
 - [Sabbir Rifat](https://github.com/sabbirrifat)
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshal Sanghvi](https://github.com/harshal2030)
+- [Darian Purry](https://github.com/dpurry23)
 - [Christian Lao](https://github.com/christianlao12)
 - [Luis Sosa](https://github.com/sosavle)
 - [Spandan Mishra](https://github.com/Spandyie)
