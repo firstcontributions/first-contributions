@@ -7648,6 +7648,7 @@
 - [Jacob Solis](https://github.com/surizar)
 - [tasakos](https://github.com/tasakos-dev)
 - [Hardik Gupta](https://github.com/harrdy272)
+- [Dennis](https://github.com/dschimtz)
 - [David Ryan](https://github.com/radge)
 - [Sendeq]
 - [Nicholas Aliabadi](https://aliabadi.github.io)
