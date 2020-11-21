@@ -7933,3 +7933,4 @@
 - [Tanvi Moharir](https://github.com/tanvimoharir)
 - [Kenneth Raymond](https://github.com/Kenneth-Raymond)
 - Angelika Kosińska
+- [Jason Shi](https://github.com/JasonShi31545Personal)
