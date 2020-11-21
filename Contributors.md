@@ -7798,6 +7798,7 @@
 - [Alexandre Gelinas](https://github.com/lejell0)
 - [Ramkrishna Pal](https://github.com/ramkrishn123)
 - [Yash Agrawal](https://github.com/4tex)
+- [Heritage Alabi](https://github.com/HERITAGEALABI)
 - [Lisset Salinas Pinacho](https://github.com/lizyazpin)
 - [Atharva-Parikh](https://github.com/Atharva-Parikh)
 - [Atharva-Parikh](https://github.com/Atharva-Parikh)
