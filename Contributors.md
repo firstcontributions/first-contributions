@@ -1,4 +1,7 @@
+<!-- @format -->
+
 # Contributors
+
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
@@ -1761,7 +1764,7 @@
 - [Devanshi Jain]
 - [Divyansh Raina](https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
-- [Disco Dewani][Party Rock]
+- [Disco Dewani][party rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - Kelli Boulware
@@ -1782,6 +1785,7 @@
 - Ajeet Singh Parmar
 - [Harshal Jain](https://github.com/Harshal0506)
 - Callina Birdsong
+- [Alan Garcia](https://github.com/Melt04)
 - [Nikki Bahl](https://github.com/nikkibahl)
 - [Julia S. Butler](https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
@@ -7889,7 +7893,7 @@
 - [Olsza](https://github.com/Olsza)
 - [starfishbravo](https://github.com/starfishbravo)
 - [jihongeek](https://github.com/jihongeek)
-- [Tharindu]( :-D )
+- [Tharindu](:-D)
 - [Jared Ricardo](https://github.com/jaredricardo)
 - [Haian Hsing](https://github.com/haianhsing)
 - [Dave Bhandari](https://github.com/Davekibh)
