@@ -7765,6 +7765,7 @@
 - [Giselle Zatonyl](https://github.com/GiselleDZ)
 - [Muhammad Aralan](https://github.com/arsalan90m)
 - [Harshitha Ravilla](https://github.com/Harshitha4444)
+- [Garry Tiscovschi](https://github.com/Garross)
 - [Samuel Alarco](https://github.com/SamuelAl)
 - [Saif Ali](https://github.com/saifalixxx)
 - [Brian Whelan](https://github.com/briantwhelan)
