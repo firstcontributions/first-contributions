@@ -17,6 +17,7 @@
 - Tenzin Woesel
 - [Jason Thulen]
 - saurav
+[Justin Vocke](https://github.com/justin-vocke)
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
