@@ -7815,6 +7815,7 @@
 - [Harsh Kumar](https://github.com/gautam32)
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Rishabh Jain](https://github.com/rishabhjain987)
+- [Darin Jeff](DarinJeff/first-contributions)
 - [Parishi](https://github.com/p489)
 - [Oshin Kumar](https://github.com/oshin7695)
 - [Saqib Amin](https://github.com/saqibamin257)
