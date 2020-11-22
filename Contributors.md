@@ -7654,6 +7654,7 @@
 - [Ashraf Safarov](https://github.com/eshref)
 - [Bahritdinov Daler](https://github.com/bdaler)
 - [Paulo Amaral](https://github.com/phfa26)
+- [Andrei Dan](https://github.com/kondrei)
 - [Jacob Solis](https://github.com/surizar)
 - [tasakos](https://github.com/tasakos-dev)
 - [Hardik Gupta](https://github.com/harrdy272)
