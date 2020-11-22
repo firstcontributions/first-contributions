@@ -7202,6 +7202,7 @@
 - [cksharma](https://github.com/cksharma11)
 - [Shramko Serhii](https://github.com/Shramkoweb)
 - [Pavan Kommisetty](https://github.com/Kazeno21)
+- [Vladyslav Kharchenko]
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
 - [Pedro Alecrim](https://github.com/pedroalecrim)
