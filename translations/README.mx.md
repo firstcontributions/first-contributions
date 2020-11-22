@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -13,7 +13,7 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 #### *Si no estás cómodo con la linea de comandos, [aqui hay unos tutoriales usando herramientas gráficas.]( #tutorials-using-other-tools )*
 
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork de este repositorio" />
 
 Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
@@ -24,7 +24,7 @@ Esto creará una copia de este repositorio en tu cuenta.
 
 ## Clona "Clone" el repositorio
 
-<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
 Ahora clona este repositorio en tu equipo. ve a tu cuenta de Github, y da click en el botón "*clone or download*" y luego da click en el ícono para *copiar*.
 
@@ -36,7 +36,7 @@ git clone "la url del repositorio que copiaste"
 
 Donde "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
 Por ejemplo:
 ```
@@ -67,7 +67,7 @@ git checkout -b add-juan-perez
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Si vas al directorio del proyecto y ejecutas el comando  `git status`,podrás ver los cambios ya reflejados.
 
@@ -96,11 +96,11 @@ Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
 
 Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre este botón.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="crea una pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea una pull request" />
 
 Ahora envía el *pull request*.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="enviar la pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar la pull request" />
 
 Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido combinados.
 

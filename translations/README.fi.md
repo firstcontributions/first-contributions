@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@ Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä on
 
 #### *Jos et osaa käyttää komentoriviä sulavasti, [täältä löytyy tutoriaaleja GUI-työkalujen käyttöön.]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Jos sinulla ei ole git asennettuna koneellesi, [asenna se](https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ Forkkaa tämä repositorio klikkaamalla yläkulmassa näkyvää painiketta "Fork
 
 ## Kloonaa repositorio
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Seuraavaksi kloonaa juuri forkkaamasi repositorio koneellesi. Mene GitHub käyttäjäsivuillesi, avaa forkkaamasi repositorio sekä klikkaa "Clone or download"-painiketta jonka jälkeen kopioi osoite painamalla "Copy to clipboard"-ikonia.
 
@@ -34,7 +34,7 @@ git clone "Juuri kopioimasi URL"
 
 "Juuri kopioimasi URL"-tekstin sijasta (ilman lainausmerkkejä) pastea repositorion URL äskeisestä vaiheesta.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Esimerkiksi:
 
@@ -70,7 +70,7 @@ git checkout -b add-matti-meikalainen
 
 Seuraavaksi avaa `Contributors.md` tiedosto tekstieditorissa ja lisää nimesi tiedostoon. Älä lisää sitä tiedoston alkuun taikka loppuun vaan keskelle. Seuraaksi tallenna tiedosto.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Jos menet projektin kansioon ja syötät komennon `git status`, näet muutokset.
 
@@ -102,11 +102,11 @@ Korvaamalla `<lisaa-branchisi-nimi>` nimellä jonka annoit branchillesi aikaisem
 
 Jos menet repositorioosi GitHubissa, näet `Compare & pull request` painikkeen.  Paina tuota painiketta.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Seuraavaksi suorita pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
 
