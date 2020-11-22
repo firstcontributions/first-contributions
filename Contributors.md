@@ -7765,6 +7765,7 @@
 - [Giselle Zatonyl](https://github.com/GiselleDZ)
 - [Muhammad Aralan](https://github.com/arsalan90m)
 - [Harshitha Ravilla](https://github.com/Harshitha4444)
+- [Mihai Mesteru](https://github.com/Mihai-Dev)
 - [Seán Higginbotham](https://github.com/Seancod)
 - [Liam Hoogstad](https://github.com/LiamHoogstad)
 - [TL Oude Essink](https://github.com/TADHGED)
