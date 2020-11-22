@@ -1,4 +1,5 @@
 # Contributors
+- [Sejal Rathore](https://github.com/sejal1126)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
