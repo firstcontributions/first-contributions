@@ -1,4 +1,5 @@
 # Contributors
+
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - amlan
@@ -1757,7 +1758,7 @@
 - [Devanshi Jain]
 - [Divyansh Raina](https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
-- [Disco Dewani][Party Rock]
+- [Disco Dewani][party rock]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - Kelli Boulware
@@ -7879,7 +7880,7 @@
 - [Olsza](https://github.com/Olsza)
 - [starfishbravo](https://github.com/starfishbravo)
 - [jihongeek](https://github.com/jihongeek)
-- [Tharindu]( :-D )
+- [Tharindu](:-D)
 - [Jared Ricardo](https://github.com/jaredricardo)
 - [Haian Hsing](https://github.com/haianhsing)
 - [Dave Bhandari](https://github.com/Davekibh)
@@ -7934,6 +7935,7 @@
 - [Simon S.](https://github.com/stisimon)
 - [Davi Yan](https://github.com/daviyan5)
 - [Namo-Amituofo](https://github.com/Namo-Amituofo)
+- [devfig37](https://github.com/devfig37)
 - [karubian](https://github.com/karubian)
 - [Flippant Banana](https://github.com/flippantbanana24)
 - [Leonard Goldstein](https://github.com/goldst)
