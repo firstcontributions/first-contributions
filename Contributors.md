@@ -1136,6 +1136,7 @@
 - [Himanshu Hansaria](https://github.com/Mrsterius)
 - [Della Lin](https://github.com/della222)
 - [HassanRaza](https://github.com/rza8301)
+- Sudhanshu Doddi
 - [LuisRivera162](https://github.com/LuisRivera162)
 - [Avinash Kumar](https://github.com/avinashbest)
 - [Milanmeu](https://github.com/milanmeu)
