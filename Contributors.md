@@ -7707,6 +7707,7 @@
 - [ChristineWasike](https://github.com/ChristineWasike)
 - [Sam Kasyoki](https://github.com/sam10105)
 - [Sheryl Garrett]
+- [Daniel Tran](https://github.com/polyomi)
 - [Jackson Fernando](https://github.com/jacksonfernando)
 - [Charles Walsh](https://github.com/CharlesWalsh)
 - [Christopher Diaz](https://github.com/cldiaz06)
