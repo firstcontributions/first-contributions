@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -52,14 +52,14 @@
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [🇷🇸](translations/README.sr.md)
 
 
 
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 మీకు మీ కంప్యూటరులో GIT లేకపోతే, [దీనిని ఇన్స్టాల్ చేయండి]( https://help.github.com/articles/set-up-git/).
 
@@ -70,7 +70,7 @@
 
 ## రిపోజిటరీ క్లోన్
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్ రెపోని తెరిచి, క్లోన్ బటన్పై క్లిక్ చేసి, ఆపై * కాపీ * క్లిప్బోర్డ్కు క్లిక్ చేయండి.
 
@@ -79,7 +79,7 @@
 git clone "url మీరు కాపీ చేసారు"
 ```
 ఇక్కడ "url మీరు కాపీ" (కోట్ మార్కులు లేకుండా) ఈ రిపోజిటరీ కు URL (ఈ ప్రాజెక్టు మీ ఫోర్క్). Url ను పొందడానికి మునుపటి దశలను చూడండి.
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ఉదాహరణకి:
 ```
@@ -107,7 +107,7 @@ git checkout -b add-alonzo-church
 
 టెక్స్ట్ ఎడిటర్లో ఇప్పుడు ఓపెన్ `Contributors.md` ఫైల్, దానికి మీ పేరుని జోడించండి. ఫైల్ ప్రారంభంలో లేదా ముగింపులో జోడించవద్దు. మధ్యలో ఎక్కడైనా ఉంచండి. ఇప్పుడు, ఫైల్ను సేవ్ చేయండి.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
 మీరు ప్రాజెక్ట్ డైరెక్టరీకి వెళ్లి `git status` ఆదేశాన్ని అమలు చేస్తే, మార్పులు ఉన్నాయి అని మీరు చూస్తారు.
@@ -135,11 +135,11 @@ git push origin <add-your-branch-name>
 
 మీరు GitHub లో మీ రిపోజిటరీకి వెళ్లినట్లయితే, మీరు 'Compare & pull request' బటన్ను చూస్తారు. ఆ బటన్పై క్లిక్ చేయండి.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 ఇప్పుడు పుల్ అభ్యర్థనను సమర్పించండి.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 త్వరలో నేను మీ అన్ని మర్పులను ఈ ప్రాజెక్ట్ యొక్క ప్రధాన విభాగానికి విలీనం చేస్తాను. మార్పులు విలీనం అయిన తర్వాత మీరు ఒక నోటిఫికేషన్ ఈమెయిల్ పొందుతారు.
 
