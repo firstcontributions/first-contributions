@@ -1192,6 +1192,7 @@
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
 - [Hima Bindu](https://github.com/himabindu-run)
 - [Saloni Kothari](https://github.com/SaloniK17)
+- [Priyal Gupta](https://github.com/priyalgupta09)
 - [Salonee Gupta](https://github.com/salonee05)
 - [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma](https://github.com/MAYANK25402)
