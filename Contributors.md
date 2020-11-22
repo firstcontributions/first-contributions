@@ -7816,6 +7816,7 @@
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Hari Narayan](https://github.com/Har1Narayan)
 - [Rishabh Jain](https://github.com/rishabhjain987)
+- [vineeshvs](https://github.com/vineeshvs)
 - [Darin Jeff](DarinJeff/first-contributions)
 - [Parishi](https://github.com/p489)
 - [Oshin Kumar](https://github.com/oshin7695)
