@@ -7763,6 +7763,7 @@
 - [Giselle Zatonyl](https://github.com/GiselleDZ)
 - [Muhammad Aralan](https://github.com/arsalan90m)
 - [Harshitha Ravilla](https://github.com/Harshitha4444)
+- [Charbel Nebo](https://github.com/profcharb)
 - [Gwen McArdle](https://github.com/mcardleg)
 - [Ahmad Asgari](https://github.com/ahmadasgari)
 - [Shmuel Morris](https://github.com/S-Morris)
