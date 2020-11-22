@@ -3501,6 +3501,7 @@
 - [Dhamodaran Pandiyan](https://github.com/dhamodaran-pandiyan)
 - [Meet Gamdha](https://github.com/meetgamdha02)
 - [Aminat Yakubu](https://github.com/giselle2323/)
+- [Conor Dalton](https://github.com/daltHub)
 - [Eric T.](https://github.com/ejthomp)
 - [Gerald Tay](https://github.com/penguinoob)
 - [Vatsal R](https://github.com/Vatsalr23)
