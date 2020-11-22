@@ -7656,6 +7656,7 @@
 - [Hardik Gupta](https://github.com/harrdy272)
 - [Dennis](https://github.com/dschimtz)
 - [David Ryan](https://github.com/radge)
+- [Éric Vinícius](https://github.com/ericvini)
 - [Sendeq]
 - [Nicholas Aliabadi](https://aliabadi.github.io)
 - [macrohumanity](https://github.com/macrohumanity)
