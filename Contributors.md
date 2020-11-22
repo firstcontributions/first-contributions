@@ -7303,6 +7303,7 @@
 - [Chandan Kumar](https://github.com/cksharma122)
 - [Anuj Gunjad](https://github.com/anujgunjad)
 - [Suvodeep Sinha](https://github.com/Suvoo)
+- [Muhammad Fahd](https://github.com/muhammad-fahd)
 - [Jade Chen](https://github.com/jschen1721)
 - [Hemshree](https://github.com/Hemshree)
 - [EklalBudhathoki](https://github.com/Budhathoki356)
