@@ -7609,6 +7609,7 @@
 - Nico Antero
 - [Nurahmat](https://github.com/nurofsun)
 - [Darshan Walchale](https://github.com/ShawnzWal)
+– [Ines Fernandez](http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [Nijin Kovval](https://github.com/nijinkovval)
 - [Ines Fernandez](http://github.com/inesfb)
@@ -7675,6 +7676,7 @@
 - [Sahan Amarsha](https://github.com/SahanAmarsha)
 - [Jaden Jorradol](https://github.com/jDerp)
 - [Karoline Suzuki](https://github.com/suzukikarol)
+- [Oriel Sanchez](https://github.com/orielsanchez)
 - [Yusuke](https://github.com/yusuke99)
 - [serverglen](https://github.com/serverglen)
 - [Jennifer P.](https://github.com/jenniferpen430)
