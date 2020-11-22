@@ -7702,6 +7702,7 @@
 - [Sol](https://github.com/SoliMark)
 - [Harrylepap](https://github.com/harrylepap)
 - Lo Voelsen
+- [Evelyn Coleman](https://github.com/coleve27)
 - [Travis McKinstry](https://github.com/TravisGM92)
 - [Zak Noble-Clarke](https://github.com/Seggys116)
 - [Jack Zhang](https://github.com/JZhang502)
