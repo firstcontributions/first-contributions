@@ -759,6 +759,7 @@
 - [Osvaldo Ayala](https://github.com/oayala65)
 - [Vajrala Panindra Reddy](https://github.com/vajrala2001)
 - [Iyimide Adegunloye](https://github.com/mide358)
+- [Vidhu Verma](https://github.com/vidhuu)
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Varut Ruji]
 - [Girum A](https://github.com/galemu2)
