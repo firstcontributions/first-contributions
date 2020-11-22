@@ -7587,6 +7587,7 @@
 - [Zaid Habibi](https://github.com/zaidhabibi)
 - [Reza Ghari](https://github.com/rezaghari)
 - [Kevin Kee](https://github.com/friendofdog)
+- [Monique Jones](https://github.com/Jonesey712)
 - [Nguyen Nguyen](https://github.com/nguyen0096)
 - [Jeryl Seow](https://github.com/jerylseow)
 - [Kritsada Moungkhao](https://github.com/kidkrub)
