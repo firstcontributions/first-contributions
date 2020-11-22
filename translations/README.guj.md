@@ -1,5 +1,5 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # પ્રથમ યોગદાન
@@ -8,22 +8,22 @@
 
 આર્ટિકલ્સ વાંચન અને ઓનલાઇન ટ્યુટોરિયલ્સ મદદ કરી શકે છે, પરંતુ પોતે તે કામ કરવાથી સારું શું હોઇ શકે? આ પ્રોજેક્ટ તમને તમારી પ્રથમ કોન્ટ્રિબ્યુશન માટે દિશા નિર્દેશ આપશે. જો તમે તમારું પ્રથમ કોન્ટ્રીબ્યુશન કરવા માંગો છો તો આગળ આપેલા સ્ટેપ્સને અનુસરો.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-જો તમારા કમ્પ્યુટર પર Git નથી, [ તો Git Install કરો](https://help.github.com/articles/set-up-git/)
+જો તમારા કમ્પ્યુટર પર Git નથી, [ તો Git ઈન્સ્ટોલ કરો](https://help.github.com/articles/set-up-git/)
 
 
-## રિપોઝીટરીને ફોર્ક
+## રિપોઝીટરીને ફોર્ક કરો
 
 કાંટા(ફોર્ક) બટન પર ક્લિક કરવાથી આ રિપોઝીટરી ફોર્ક થાય છે, આ તમારા GitHub એકાઉન્ટમાં આ રિપોઝીટરીની એક નકલ (કોપી) બનાવશે.
 
 
-## રિપોઝીટરી ક્લોન
+## રિપોઝીટરી ક્લોન કરો
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 
-હવે તમે આ રેપો તમારા કમ્પ્યુટરમાં ક્લોન કરો (અર્થાત ડાઉનલોડ કરો). તમારા GitHub એકાઉન્ટ પર જાવ, ક્લોન બટન પર ક્લિક કરો અને પછી કોપી ટુ ક્લિપબોર્ડ આઇકોન પર ક્લિક કરો.
+હવે તમે આ રેપો તમારા કમ્પ્યુટરમાં ક્લોન કરો (અર્થાત ડાઉનલોડ કરો). તમારા GitHub એકાઉન્ટ પર જાવ, ક્લોન બટન પર ક્લિક કરો અને પછી `copy to clipboard` આઇકોન પર ક્લિક કરો.
 
 
 તમારા કમ્પ્યુટર પર એક ટર્મિનલ / કમાંડ પ્રોમ્પ્ટ ખોલો અને નીચે દર્શાવ્યા મુજબ git આદેશ ચલાવો:
@@ -33,7 +33,7 @@ git clone "યુઆરએલ જે તમે હમણાં જ નકલ(ક
 ```
 
 
-જ્યાં "યુઆરએલ જે તમે હમણાં જ કોપી કર્યું છે" (અવતરણ ચિહ્નો સિવાય) આ સંગ્રહ માટે URL છે. (આ પ્રોજેક્ટનો તમારો ફૉર્ક) URL ને મેળવવા માટે પાછલા પગલાં જુઓ.
+જ્યાં "યુઆરએલ જે તમે હમણાં જ કોપી કર્યું છે" (અવતરણ ચિહ્નો સિવાય) એ આ રિપોઝીટરી(આ પ્રોજેક્ટનો તમારો ફૉર્ક) ની URL ના સંગ્રહ માટે છે. તેની URL ને મેળવવા માટે પાછલા પગલાં જુઓ.
 
 ઉદાહરણ તરીકે:
 
@@ -41,14 +41,14 @@ git clone "યુઆરએલ જે તમે હમણાં જ નકલ(ક
 git clone https://github.com/આ-તમે-છો/first-contributions.git
 ```
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 
-'આ-તમે-છો' તમારા ગીટબબ એકાઉન્ટનું નામ છે. અહીં તમે તમારા કમ્પ્યુટરમાં GitHub થી પ્રથમ-કંટ્રિબ્યુશન્સ રિપોને કોપી કરી રહ્યા છો અથવા તેના એક સ્થાનિક / લોકલ કોપી બનાવી રહ્યા છે.
+'આ-તમે-છો' તમારા GitHub એકાઉન્ટનું `username` છે. અહીં તમે તમારા કમ્પ્યુટરમાં GitHub થી first-contributions રિપોને કોપી કરી રહ્યા છો અથવા તેના એક સ્થાનિક / લોકલ કોપી બનાવી રહ્યા છે.
 
 ## એક બ્રાંચ બનાવો
 
-તમારા કમ્પ્યુટર પર બનાવેલ રિપોઝીટરીની કોપીનાં ફોલ્ડર / ડિરેક્ટરીમાં જાવ (જો હજુ સુધી ન હોય તો નીચે આપેલ Command(આદેશ) ચલાવો)
+તમારા કમ્પ્યુટર પર બનાવેલ રિપોઝીટરીની કોપીનાં ફોલ્ડર / ડિરેક્ટરીમાં જાવ (જો હજુ સુધી તમે ત્યાં ન હોવ તો નીચે આપેલ Command(આદેશ) ચલાવો)
 
 
 ```
@@ -74,12 +74,12 @@ git checkout -b add-alonzo-church
 ## આવશ્યક ફેરફારો કરો અને તે ફેરફારોને કમીટ કરો-
 
 
-હવે 'Contributors.md` ફાઇલને એક ટેક્સ્ટ એડિટરમાં ખોલો અને તેના નામ લખો. ફાઇલની શરૂઆત અથવા અંતે તેમાં ઉમેરો. તેને મધ્યમાં ગમે ત્યાં રાખો.
+હવે 'Contributors.md` ફાઇલને એક ટેક્સ્ટ એડિટરમાં ખોલો અને તેમા તમારુ નામ લખો. ફાઇલની શરૂઆત અથવા અંતે તેને ના ઉમેરતા. તેને મધ્યમાં ગમે ત્યાં રાખો. હવે, ફાઇલને સેવ કરો.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
-જો તમે `git status` નિર્દેશ ચલાવશો, તો તમે કરેલા પરિવર્તન જોઈ શક્શો. તે પરિવર્તન બનાવવામાં આવેલ શાખા(Branch)માં ઉમેરવા માટે 'git add` કમાન્ડ વાપરો.
+જો તમે પ્રોજેક્ટની ડાઈરેક્ટરીમા જશો અને `git status` નિર્દેશ ચલાવશો, તો તમે કરેલા પરિવર્તન જોઈ શક્શો. તે પરિવર્તન બનાવવામાં આવેલ શાખા(Branch)માં ઉમેરવા માટે 'git add` કમાન્ડ વાપરો.
 
 
 ```
@@ -87,7 +87,7 @@ git add Contributors.md
 ```
 
 
-હવે તમારા પોતાના ફેરફારોને કમીટ કરો 'git commit કરો' આદેશનો ઉપયોગ કરી.
+હવે તમારા પોતાના ફેરફારોને 'git commit' આદેશનો ઉપયોગ કરી કમીટ કરો.
 
 ```
 git commit -m "Add <તમારુ-નામ> to Contributors list"
@@ -112,28 +112,30 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 
 જો તમે તમારા github એકાઉન્ટ પર તમારી રિપો માં જાવ તો Compare & pull request નો ઓપ્શન હશે. તેને દબાવો.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 હવે તમારી pull request સબમિટ કરો.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 ટૂંક સમયમાં હું તમારા ફેરફારો માટે આ પ્રોજેક્ટની માસ્ટર શાખામાં મર્જ ક્રી દઇશ. તમને એક મેલ આવશે જ્યારે તમારા ફેરફારો મર્જ થશે.
 
 
-## અહીંથી ક્યાં જાઓ ?
+## હવે, અહીંથી ક્યાં જવું ?
 
-અભિનંદન!:tada: તમે હમણાં જ પૂર્ણ કર્યું છે _ફૉર્ક -> ક્લોન -> edit -> PR_ વર્કફ્લો જેનો તમે વારંવાર સહયોગકર્તા (contributor) તરીકે સામનો કરશો!
-
-
-તમારા પ્રથમ યોગદાનની ઉજવણીમાં ઉજવણી કરો અને તમારા મિત્રો સાથે શેર કરો [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને
+અભિનંદન!:tada: તમે હમણાં જ સ્ટાન્ડર્ડ `fork -> clone -> edit -> pull request` વર્કફ્લો પૂર્ણ કર્યો છે. જેનો તમે વારંવાર સહયોગકર્તા (contributor) તરીકે સામનો કરશો!
 
 
-તમે અમારી સ્લેક ટીમને જોડો છો જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો [સ્લેક પે join કરો](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+તમારા પ્રથમ યોગદાનની ઉજવણી કરો અને [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને તમારા મિત્રો અને ફોલોઅર્સ સાથે શેર કરો.
 
-હવે તમે અને પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવાનું શરૂ કરો. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ મુદ્દાઓ છે [પ્રોજેક્ટ્સ ની સૂચિ](https://roshanjossey.github.io/first-contributions/#project-list)
 
-## અન્ય સાધનોનો ઉપયોગ કરીને ટ્યુટોરીયલ
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો તમે અમારી સ્લેક ટીમમા જોડાઈ શકો છો. [સ્લેક ટીમ જોઈન કરો.](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+
+
+ચાલો, હવે તમને અન્ય પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવામા મદદ કરુ. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ issues(મુદ્દાઓ) છે વેબ એપમા પ્રોજેક્ટ્સ ની સૂચિ જુઓ.](https://roshanjossey.github.io/first-contributions/#project-list)
+
+## અન્ય સાધનોનો ઉપયોગ કરીને ટ્યુટોરીયલ્સ
+
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
