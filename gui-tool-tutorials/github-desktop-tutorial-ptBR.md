@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -17,7 +17,7 @@ Se você nao tem o Github desktop na sua máquina, [instale aqui](https://deskto
 
 Se você está usando uma versão do Github desktop antes da 1.0, [consulte este tutorial](github-desktop-old-version-tutorial.md).
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork este repositório" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork este repositório" />
 
 ## Fork este repositório
 
@@ -96,11 +96,11 @@ Clique no botão `Publish` na parte superior direita.
 
 Se você for até seu repositório no github, verá o botão `Compare & pull request`. Clique nesse botão
 
-<img style="left;" src="../assets/compare-and-pull.png" alt="criando um pull request" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="criando um pull request" />
 
 Agora envie o pull request.
 
-<img style="left;" src="../assets/submit-pull-request.png" alt="enviando o pull request" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviando o pull request" />
 
 Em breve estarei mesclando todas as suas alterações na branch Master do projeto. Você vai receber um email de notificação assim que as alterações forem integradas.
 
