@@ -781,6 +781,7 @@
 - [Adrianne Rhodes](https://github.com/AdrianneR)
 - [Syed Mehdi Abbas](https://github.com/syedmehdiabbas)
 - [Ayushi Mittal](https://github.com/AyushiNM)
+- [Alon Dai](https://github.com/Alondai1)
 - [Tim Furdui](https://github.com/TimFurdui)
 - [Avnish Pandey](https://github.com/avnishpandey113)
 - [Adrianna Guevarra](https://github.com/adrianna157)
