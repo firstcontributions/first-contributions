@@ -4261,6 +4261,7 @@
 - [Jibril Dauda Muhammad](https://github.com/mdjibril)
 - [Nitin Yadav](https://github.com/nitinyy)
 - [trysh](https://github.com/trysh)
+- [Caner Balci](https://github.com/canerbalci)
 - [HerbHall](https://github.com/HerbHall)
 - [Ivan J.](https://github.com/IvanJoskic)
 - [Dean Huynh](https://github.com/deanhuynh)
