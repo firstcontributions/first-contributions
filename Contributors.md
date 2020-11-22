@@ -644,7 +644,7 @@
 - [Dhanika](https://github.com/dhanika08/)
 - [Cooper Craighead](https://github.com/ccraighea/)
 - [Sapna Kumari](https://github.com/Sapna-21)
-- [Nicky Chew](https://github.com.nickyc11)
+- [Nicky Chew](https://github.com/nickyc11)
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
 - [Hamza Bahamdan](https://github.com/9Hamza)
