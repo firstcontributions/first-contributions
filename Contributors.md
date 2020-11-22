@@ -7765,6 +7765,7 @@
 - [Giselle Zatonyl](https://github.com/GiselleDZ)
 - [Muhammad Aralan](https://github.com/arsalan90m)
 - [Harshitha Ravilla](https://github.com/Harshitha4444)
+- [Cillian Smith.](https://github.com/smithc36-tcd)
 - [Mihai Mesteru](https://github.com/Mihai-Dev)
 - [Seán Higginbotham](https://github.com/Seancod)
 - [Liam Hoogstad](https://github.com/LiamHoogstad)
