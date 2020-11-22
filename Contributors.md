@@ -894,6 +894,7 @@
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shreyas Sankpal](https://github.com/Shreyas582)
 - [Susana Salazar](https://github.com/Suzzuu)
+- [Matthew McKnight](https://github.com/mattmcknight13)
 - [Alexander Petrov](https://github.com/xAnderoov)
 - [Catherine Nuguid](https://github.com/catboop)
 - [Mai Houa Vue](https://github.com/mhvue)
@@ -1039,7 +1040,6 @@
 - [Ielin Daisy](https://github.com/ielin)
 - [Paula Zubiri](https://github.com/pzubirir)
 - [Priya_Mandal](https://github.com/priyamandal-21)
-- _rnomals_
 - [Francisco Gongora](https://github.com/FranciscoGongora0101)
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
