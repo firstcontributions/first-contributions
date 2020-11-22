@@ -729,6 +729,7 @@
 - [Lakshmi Palaparthi](https://github.com/lvpalaparthi)
 - [Tanner Haberl](https://github.com/thaberl13)
 - [Minh Nguyen](https://github.com/mnguyen-git)
+- [Miku S](https://github.com/miku0129)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
 - [Umang Savla](https://github.com/umang232)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
