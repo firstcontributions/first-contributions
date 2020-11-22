@@ -5,6 +5,7 @@
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
+- [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Michael O'Connor](https://github.com/mmosru)
