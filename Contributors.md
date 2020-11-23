@@ -7808,6 +7808,7 @@
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Reekraj Roy](https://github.com/REEKRAJROY)
 - [Daniel Freire](https://github.com/proxyanon)
+- [zeroouz](https://github.com/zeroouz)
 - [Vidhya Priya](https://github.com/vidhyakv)
 - [Rajesh Jha]
 - [tboonma](https://github.com/tboonma)
