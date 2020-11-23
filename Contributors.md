@@ -308,6 +308,7 @@
 - [Sristy Sharma](https://github.com/beertocode)
 - [Matthew Burford](https://github.com/Mattb709)
 - [Sristy Sharma](https://github.com/beertocode)
+- [Yoonsoo Nam](https://github.com/ynam44)
 - Mani
 - [Junaid Iqbal](https://github.com/junaidiqbalturk) found this useful regarding contribution to open source
 - [Jannick Bremm](https://github.com/JannickBremm)
