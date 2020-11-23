@@ -725,8 +725,6 @@
 - [Karolina Krassowska](https://github.com/krassowska)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Jenniline Ebai](https://github.com/Jenniline)
-- [Hyma200](https://github.com/Hyma200)
-- [Alex Kim](https://github.com/KimDos7)
 - [Amartya K](https://github.com/amartya-k)
 - [Yecine Megdiche](https://github.com/TheMC47)
 - [Miguel Palo](https://github.com/rmdpalo)
@@ -820,7 +818,6 @@
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Juan Grajales](https://github.com/juansongrajales)
-- [Akshatha K Poojary](https://github.com/AkshathaKPoojary)
 - [Steven Joseph](https://github.com/stevenjos27)
   [Arumugaprakash T](https://github.com/phoenix1898)
 - [Courtney Buratto](https://github.com/cocoitali)
@@ -1021,7 +1018,6 @@
 - [Michael Brooks](https://github.com/navkor-sevatec)
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
-- Bhavesh Chandrakant Joshi
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Sakae Watanabe](https://github.com/meltdownlv)
 - [Antonio Martinez](https://github.com/antonioMartinez30)
@@ -1091,10 +1087,6 @@
 - [Jason Massey](https://github.com/jmasseyut)
 - [Theresa Cho](https://github.com/tcho6319)
 - [Gerardo Jr. Abantao](https://github.com/GerardoUbuntu)
-- [Anand Kumar](https://github.com/Anandsharmak/)
-- [Sebastian Amaral](https://github.com/SHA-Arg)
-- [Alex North](https://github.com/AlexNorth-PNG/)
-- [Bettina King-Smith](https://github.com/bettina-king-smith/)
 - [Prince Kumar](https://github.com/Princeraaz)
 - [Jo Dunham](https://github.com/Rainbow-Ninja) | @codeTravelled
 - [Annu Joshi](https://github.com/AnnuJoshi/)
@@ -7650,10 +7642,6 @@
 - Charlie Wu
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
-- [Karang Reksa](https://github.com/cuncis)
-- [Manoj Upreti](https://github.com/upretim)
-- [brkline](https://github.com/brkline)
-- [ilumin](https://github.com/ilumin)
 - [Shiv Chauhan](https://github.com/xqbptt)
 - [Ofir](https://github.com/Ofir22822)
 - [Ezekie John Alvar](https://github.com/alvarezekiel19)
