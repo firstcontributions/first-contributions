@@ -2123,6 +2123,7 @@
 - [David Tran](https://github.com/TranDavid1)
 - [Nicholas Bennett](https://github.com/bennettnicholas)
 - [Claudia Matsiaze]
+- [Jitto  Joyes](https://github.com/Jittojoyes98)
 - [Amr Abedo](https://github.com/mouraaa)
 - [Matt Westbrook](https://github.com/mattgw10)
 - [Eric Soppi](https://github.com/soapdogg)
