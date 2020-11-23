@@ -753,6 +753,7 @@
 - [Safar Safarov](https://github.com/safarsafarov)
 - [Erik Chaulk](https://github.com/echaulk2)
 - [Amarachi Anyim](https://github.com/Harmarachi)
+- [Patrick Nelson](https://github.com/pat-nel87)
 - Walker Dow
 - [Sam Spring](https://github.com/SamuelSpring/)
 - Abdul Adhil
