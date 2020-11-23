@@ -8085,4 +8085,5 @@
 - [Stylianos Tsoumanis](https://github.com/styltsou)
 - [Young Yoo](https://github.com/Devedunkey)
 - [Komilos](https://github.com/kamsharipova)
+- [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
