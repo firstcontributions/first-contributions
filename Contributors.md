@@ -656,6 +656,7 @@
 - [Serena](https://github.com/itsmeReRe/)
 - [Hamza Bahamdan](https://github.com/9Hamza)
 - [Alex Sanchez Florit](https://github.com/alexsanchezflorit)
+- [Lachlan Holliday] (https://github.com/LachlanHollliday)
 - [Priya Bhagat](https://github.com/Taeya-10)
 - [Jason Chavez Jr.](https://github.com/jchavez2)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
@@ -830,6 +831,7 @@
 - [Matthew Lewis](https://github.com/malewis5)
 - [Revvin-Evan](https://github.com/Revvin-Evan)
 - [Siddharth jain](https://github.com/siddhartthjain)
+-[chlan
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Sabrina Wong](https://github.com/sabrinarwong)
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
