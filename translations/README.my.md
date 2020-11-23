@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,7 +8,7 @@
 
 Ia sukar. Ia sentiasa sukar buat kali pertama kamu melakukan sesuatu. Terutama apabila kamu berkolaborasi, membuat kesilapan bukan perkara yang selesa. Kami mahu menyederhanakan cara penyumbang sumber terbuka baru belajar & menyumbang buat kali pertama.
 
-Membaca artikel & menonton tutorial boleh membantu, tetapi apa yang lebih baik daripada melakukan perkara dalam persekitaran yang pratikal? Projek ini bertujuan memberi bimbingan & memudahkan seseorang yang baru bermula untuk membuat sumbangan pertama mereka. Jika kamu ingin membuat sumbangan pertama kamu, ikuti langkah-langkah di bawah.
+Membaca artikel & menonton tutorial boleh membantu, tetapi apa yang lebih baik daripada melakukan perkara dalam persekitaran yang praktikal? Projek ini bertujuan memberi bimbingan & memudahkan seseorang yang baru bermula untuk membuat sumbangan pertama mereka. Jika kamu ingin membuat sumbangan pertama kamu, ikuti langkah-langkah di bawah.
 
 #### *Jika anda tidak selesa dengan 'command line', [sini adalah tutorial menggunakan alat GUI.]( #tutorials-using-other-tools )*
 
