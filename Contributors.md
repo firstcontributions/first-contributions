@@ -618,6 +618,7 @@
 - [ALU Hacktober](https://github.com/ChristineWasike)
 - [Alaguva Eucharia Uchenna](https://github.com/Uchenna-eucharia)
 - [Godspower Eze](https://github.com/Godspower-Eze)
+- [Adarsh Pandey](https://github.com/adarsh01-debug)
 - [Mehdi-vand](https://github.com/MahdiDroid)
 - [Carla_Aluvai](https://github.com/carluvy)
 - [Nicola_Zoboli](https://github.com/NicolaZoboli)
