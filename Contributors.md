@@ -1800,6 +1800,7 @@
 - Ajeet Singh Parmar
 - [Harshal Jain](https://github.com/Harshal0506)
 - Callina Birdsong
+- [Alan Garcia](https://github.com/Melt04)
 - [Nikki Bahl](https://github.com/nikkibahl)
 - [Julia S. Butler](https://github.com/MsJSB)
 - [Anderson Cardoso](https://github.com/anderson-ca)
