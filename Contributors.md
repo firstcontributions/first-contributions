@@ -400,6 +400,7 @@
 - [Alex P](https://github.com/papillon7)
 - [Sean Ang](https://github.com/seanaxn1135)
 - TigerBoy!
+- [Prabin Acharya](https://github.com/pra6in)
 - Chuch Nichols
 - [Guang Lim](https://github.com/gylim0604)
 - Alejandro Rodriquez
