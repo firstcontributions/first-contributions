@@ -1,5 +1,4 @@
 # Contributors
-
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
