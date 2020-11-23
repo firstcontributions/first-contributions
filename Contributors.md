@@ -7847,6 +7847,8 @@
 - [Saqib Amin](https://github.com/saqibamin257)
 - [YgorLe](https://github.com/YgorLe)
 - [Gangadhar](https://github.com/p489)
+- [Arif Ahmad](https://github.com/arifahmad-py)
+- [Rushil Koppaka](https://github.com/rushilkoppaka)
 - [Sagar Prasad](https://github.com/Sagar-Prasad)
 - [Harsh Kumar Gautam](https://github.com/gautam32)
 - [Arif Ahmad](https://github.com/arifahmad-py)
