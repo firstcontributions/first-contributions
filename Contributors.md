@@ -546,6 +546,9 @@
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137)
 - [Unviray](https://github.com/Unviray)
 - Sanuda
+-  N Maiya 
+- [Amusa Omobonike](https://github.com/minat-hub)
+- [yesabh ishek](https://github.com/yesabhishek)
 - Sneha
 - hbraam
 - ShashiW
