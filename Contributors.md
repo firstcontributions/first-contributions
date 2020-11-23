@@ -7841,6 +7841,7 @@
 - [Tanisha Khandelwal](https://github.com/tanisha605)
 - [Hari Narayan](https://github.com/Har1Narayan)
 - [Rishabh Jain](https://github.com/rishabhjain987)
+- [Ashutosh Sharma](https://github.com/ashu-cloud)
 - [Parishi](https://github.com/p489)
 - [vineeshvs](https://github.com/vineeshvs)
 - [Darin Jeff](DarinJeff/first-contributions)
