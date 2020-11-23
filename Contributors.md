@@ -491,6 +491,7 @@
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - W Chan
+- Connie Purcell
 - Harshit Sharma
 - [Mary](https://github.com/mhchow)
 - [andyjjrt](https://github.com/andyjjrt)
