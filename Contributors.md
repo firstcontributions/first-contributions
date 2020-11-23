@@ -331,6 +331,7 @@
 - [Mark R Baker](https://github.com/mrbaker1917)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Wildan Bash](https://github.com/wildanbash)
+- [Arthur Lecert](https://github.com/Arthlec)
 - [Anindo Chakraborty](https://github.com/anindo78)
 - [Arif Bashar](https://github.com/arif-bashar)
 - [Sushant Gnawali](https://github.com/RS2-CN3)
