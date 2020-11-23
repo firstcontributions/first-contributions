@@ -35,6 +35,7 @@
 - [jaywhen](https://github.com/jaywhen)
 - anacarolinarodrigues
 - CSiLLaFM
+- [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
 - [Onewayfare](https://github.com/onewayfare)
 - [S-majer](https://github.com/s-majer)
