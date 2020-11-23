@@ -7825,6 +7825,7 @@
 - [jambathehood](https://github.com/jambathehood)
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [hoi kayan](https://github.com/ipoobest)
+- [Amazedmonster6] (https://github.com/Amazedmonster6)
 - [yamak](https://github.com/yamak)
 - [arief samuel](https://github.com/arifsamuel)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
