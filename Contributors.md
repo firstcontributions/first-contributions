@@ -7756,6 +7756,7 @@
 - [Dattatraya Mule](https://github.com/dattatrayam)
 - [Saleh Jasim](https://github.com/bezy1)
 - [Vardan Tandon](https://github.com/vardantandon)
+- [Jayasooryan Saravanan](https://github.com/Soorya001)
 - [Luuk Volkering](https://github.com/luuk180)
 - [Jordan Romero](https://github.com/jordles113)
 - [Mia](https://github.com/Miatonin)
