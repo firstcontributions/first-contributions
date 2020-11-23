@@ -8089,3 +8089,4 @@
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Esben Sørensen](https://github.com/esbendamkjaer)
+- [Georg Magneshaugen](https://github.com/georgmagne)
