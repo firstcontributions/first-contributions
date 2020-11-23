@@ -672,6 +672,7 @@
 - [Kole Deighan](https://github.com/kdeigs)
 - Nishant Shekhar
 - Aniket
+- [Peleg Zur](https://github.com/PelegZur)
 - [Nikhil](https://github.com/ndevare13)
 - [phys101](https://github.com/phys101)
 - [Utsav Phunyal](https://github.com/uphunyal)
