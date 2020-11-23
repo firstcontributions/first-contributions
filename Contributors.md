@@ -563,6 +563,8 @@
 - [Crystal Shardz](https://github.com/CrystalShardz)
 - [Aryan Kenchappagol](https://github.com/aryanxk02)
 - N Maiya
+- [jacobmcasey](https://github.com/jacobmcasey)
+- [jacobmcasey](https://github.com/jacobmcasey)
 - [Roi](https://github.com/roi972/)
 - hoovks
 - [Muhammed Sabah](https://github.com/mhdsabah)
