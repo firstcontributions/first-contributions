@@ -6,6 +6,7 @@
 - [Rahi Khan](https://github.com/rahikhan360)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
+- [Eduardo Neto](https://github.com/pyduh)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
