@@ -714,6 +714,7 @@
 - [Prabhat Kumar](https://github.com/PrabhatKumar5990)
 - [Dylan Wang](https://github.com/wd6)
 - [Ece Aydemir](https://github.com/eeayd)
+- [Anshika Bhatt](https://github.com/anshika0207)
 - [Vini Mehta] (https://github.com/vini-mehta)
 - [Daniel Rodriguez] (https://github.com/Washirican)
 - [RithvikReddy](https://github.com/Rithvik-Reddy)
@@ -831,6 +832,7 @@
 - [AlxGration](https://github.com/AlxGration)
 - [himanshu singh](https://github.com/H321-ma)
 - [Juan Grajales](https://github.com/juansongrajales)
+- [Akshatha K Poojary] (https://github.com/AkshathaKPoojary)
 - [Steven Joseph](https://github.com/stevenjos27)
   [Arumugaprakash T](https://github.com/phoenix1898)
 - [Courtney Buratto](https://github.com/cocoitali)
@@ -840,7 +842,6 @@
 - [Matthew Lewis](https://github.com/malewis5)
 - [Revvin-Evan](https://github.com/Revvin-Evan)
 - [Siddharth jain](https://github.com/siddhartthjain)
--[chlan
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Sabrina Wong](https://github.com/sabrinarwong)
 - [Minati Alphonso](https://github.com/MinatiAlphonso)
