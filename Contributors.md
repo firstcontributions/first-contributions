@@ -2942,6 +2942,7 @@
 - [Tina Li](https://github.com/thtli)
 - [Shay Ben Shimol](https://github.com/shayben838)
 - [My]
+- [Adefemi Micheal](https://github.com/adefemi171)
 - [Evan Perez](https://github.com/evdperez)
 - [Xiaodobl Lee](https://github.com/eimcharia)
 - [Chris Ellis](https://github.com/pineappleslikei)
