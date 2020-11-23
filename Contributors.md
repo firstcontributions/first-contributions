@@ -7717,6 +7717,7 @@
 - [Guedelho](https://github.com/guedelho)
 - [Lala](https://github.com/lvde21)
 - [Ali Karani](https://github.com/alikarani)
+- [Franklin U.O. Ohaegbulam](https://github.com/frankiefab100)
 - [ExcitableMonkey](https://github.com/ExcitableMonkey)
 - [Saurav Sharma](https://github.com/sau-rav)
 - [Mrinmoy Mitra](https://github.com/Mrinmoy99)
