@@ -667,6 +667,7 @@
 - [Josh Nho](https://github.com/joshnho)
 - [Florian Guger](https://github.com/Fjormos)
 - [William Marino](https://github.com/willmarino)
+- [Jamie Sajdak](https://github.com/Jam52)
 - [Dhanika](https://github.com/dhanika08/)
 - [Cooper Craighead](https://github.com/ccraighea/)
 - [Sapna Kumari](https://github.com/Sapna-21)
