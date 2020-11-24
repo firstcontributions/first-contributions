@@ -563,7 +563,7 @@
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137)
 - [Unviray](https://github.com/Unviray)
 - Sanuda
--  N Maiya 
+-  N Maiya
 - [Amusa Omobonike](https://github.com/minat-hub)
 - [yesabh ishek](https://github.com/yesabhishek)
 - Sneha
@@ -8144,3 +8144,4 @@
 - [James Faith Shameh](https://github.com/blackpandan)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
+- [Yaron Pentchak](https://github.com/yaronpen)
