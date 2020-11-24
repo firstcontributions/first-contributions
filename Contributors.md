@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Vivan Vatsa](https://github.com/VivanVatsa)
 - [Josh Mu](https://github.com/joshmu)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
