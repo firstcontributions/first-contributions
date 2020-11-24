@@ -604,6 +604,7 @@
 - [SATYAKI BOSE](https://github.com/satyaki07)
 - [Chris Hensel](https://github.com/Chensel88)
 - [Parth Desai](https://github.com/pycoder2000)
+- [Paul Kl](https://github.com/Paul-Kl01)
 - [Snigdha Shekhar](https://github.com/sshekhar1996)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Shlok Kumar Kyal](https://github.com/skkyal)
