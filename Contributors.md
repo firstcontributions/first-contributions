@@ -8103,6 +8103,7 @@
 - [Jason Shi](https://github.com/JasonShi31545Personal)
 - [Evan Timmons](https://github.com/timmonse)
 - [Bintang Pradana Erlangga Putra](https://github.com/bpradana)
+- [Adrian Nicholls](https://github.com/welfitt)
 - [David Zhang](https://github.com/dazhang88)
 - [Kenji Ohtaki](https://github.com/keng-oh)
 - [Stylianos Tsoumanis](https://github.com/styltsou)
