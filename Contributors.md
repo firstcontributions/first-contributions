@@ -7791,6 +7791,8 @@
 - [Omar Estrada](https://github.com/Omar908)
 - [Somesh Singh](https://github.com/somesh-ops)
 - [Thanussian Sharvananthan](https://github.com/TSharvananthan)
+- [Umar Yusuf](https://github.com/umaryusuf)
+- [Prince Paraste](https://github.com/prince214)
 - [Ruqayya Ashiru](https://github.com/redberylr)
 - [Umar Yusuf](https://github.com/umaryusuf)
 - [Héctor Rosales](https://github.com/hndoss)
