@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Vivan Vatsa](https://github.com/VivanVatsa)
 - [Josh Mu](https://github.com/joshmu)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
@@ -7,6 +6,7 @@
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [Rahi Khan](https://github.com/rahikhan360)
+- [Vivan Vatsa](https://github.com/VivanVatsa)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - [Eduardo Neto](https://github.com/pyduh)
