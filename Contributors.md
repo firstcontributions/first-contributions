@@ -2505,8 +2505,9 @@
 - [Yutong Xiao](https://github.com/YutongXiao)
 - [Emrullah Jack Oztosun](https://github.com/emrullahjack)
 - [Arjun Aggarwal](https://github.com/Arjun-Aggarwal)
-- [Wimansha Herath]()
-- [Marc Banuls]()
+- Wimansha Herath
+- Marc Banuls
+- [Cooper Craighead](https://github.com/ccraighead)
 - [Ritik Kumar](https://github.com/iamr-kumar)
 - [Nikitha Srikanth](https://github.com/alt-nikitha)
 - [Ayushi Srivastava](https://github.com/srivastavayushi)
