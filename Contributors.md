@@ -682,6 +682,7 @@
 - [Lachlan Holliday] (https://github.com/LachlanHollliday)
 - [Priya Bhagat](https://github.com/Taeya-10)
 - Sagar Choudhari
+- XM An
 - [Jason Chavez Jr.](https://github.com/jchavez2)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
 - [Chandler Klein](https://github.com/ChandlerKlein)
