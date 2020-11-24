@@ -7978,3 +7978,4 @@
 - [Kenneth Raymond](https://github.com/Kenneth-Raymond)
 - Angelika Kosińska
 - [Jason Shi](https://github.com/JasonShi31545Personal)
+- [Ted Chang] (https://github.com/tedhchang)
