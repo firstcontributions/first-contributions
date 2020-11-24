@@ -66,6 +66,7 @@
 - [John McCracken](https://github.com/johnmccuk)
 - TomKCA
 - [Hemant Patel](https://github.com/Hemant-Dev)
+- [Aayush Budania](https://github.com/aayushbudania)
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
