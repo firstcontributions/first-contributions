@@ -7763,6 +7763,7 @@
 - [Guedelho](https://github.com/guedelho)
 - [Lala](https://github.com/lvde21)
 - [Ali Karani](https://github.com/alikarani)
+- [JinSeop Shin](https://github.com/Jin-seop)
 - [Franklin U.O. Ohaegbulam](https://github.com/frankiefab100)
 - [ExcitableMonkey](https://github.com/ExcitableMonkey)
 - [Saurav Sharma](https://github.com/sau-rav)
