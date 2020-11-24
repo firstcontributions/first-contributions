@@ -7775,6 +7775,7 @@
 - [Guedelho](https://github.com/guedelho)
 - [Lala](https://github.com/lvde21)
 - [Ali Karani](https://github.com/alikarani)
+- [Jeongjun Aiden kim](https://github.com/Two-Jay)
 - [RaaziaT](https://github.com/RaaziaT)
 - [Henry Korir](https://github.com/henrykorir/)
 - [JinSeop Shin](https://github.com/Jin-seop)
