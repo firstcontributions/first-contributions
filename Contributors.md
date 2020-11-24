@@ -1,11 +1,14 @@
-# Contributors
+﻿# Contributors
+- [Josh Mu](https://github.com/joshmu)
 - [Sejal Rathore](https://github.com/sejal1126)
+- [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [Rahi Khan](https://github.com/rahikhan360)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
+- [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Eduardo Neto](https://github.com/pyduh)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
@@ -16,6 +19,7 @@
 - [Kyle Foerster](https://github.com/kbfoerster)
 - [Atin Bainada](https://github.com/at-in)
 - sanjubaba
+- [Ryan Kane] (https://github.com/ryantylerkane)
 - Roshan Nair
 - Tenzin Woesel
 - [Jason Thulen]
@@ -34,6 +38,7 @@
   [Aditya](https://github.com/Adinarayanreloaded)
 - [Pugets](http://github.com/Pugets)
 - [jaywhen](https://github.com/jaywhen)
+- [Vivan Vatsa](https://github.com/VivanVatsa)
 - anacarolinarodrigues
 - CSiLLaFM
 - [Shubham Yadav](https://github.com/shuhzz)
@@ -63,6 +68,7 @@
 - [John McCracken](https://github.com/johnmccuk)
 - TomKCA
 - [Hemant Patel](https://github.com/Hemant-Dev)
+- [Aayush Budania](https://github.com/aayushbudania)
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
@@ -71,6 +77,7 @@
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
 - [catboxer](https://github.com/catboxer)
+- [Isaac Contreras](https://github.com/icontreras16)
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
 - [Jeremie Bogaert](https://github.com/jebogaert)
 - [Samuel Sorial](https://github.com/Samuel-Sorial)
@@ -170,6 +177,7 @@
 - [Dillon Rooke] (https://github.com/DillonRooke)
 - Vrinda Tyagi
 - Colton Francis
+- [John Robinson](https://github.com/klondikekid)
 - [Chintan Patel](https://github.com/chihempat)
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
@@ -8072,6 +8080,7 @@
 - [Will Lotherington](https://github.com/wlotherington)
 - [Ramazan Eymir](https://github.com/eymiramazan)
 - [Ankush Chauhan](https://github.com/An-prog-hub)
+- [Mike Ross] (https://github.com/mrosstech)
 - [Vishal Nair](https://github.com/VishMN)
 - [Juandiegox21](https://github.com/juandiegox21)
 - [Ben Herbert](https://github.com/ben22020)
@@ -8090,3 +8099,5 @@
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Esben Sørensen](https://github.com/esbendamkjaer)
 - [Georg Magneshaugen](https://github.com/georgmagne)
+- [James Faith Shameh](https://github.com/blackpandan)
+- [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
