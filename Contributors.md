@@ -4264,6 +4264,7 @@
 - [Ritesh Malviya](https://github.com/riteshkumarmalviya)
 - [Aashita Agarwal]
 - [Alejandro DL]
+- [Ankan Maity](https://github.com/maityankan10)
 - [Robin Sharma](https://github.com/RS-786)
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Nathan Ormond](https://github.com/NathOrmond)
