@@ -7479,6 +7479,7 @@
 - [Andrea Sharpless](https://github.com/maydrea)
 - [Richa Sinha](https://github.com/richasinha)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
+- [Wayne Ritchie](https://github.com/rockin4life33)
 - [Anjana MA](https://github.com/AnjanaMA)
 - [Jen Fox](https://github.com/jenfoxbot)
 - [Sujatha Nagarajan](https://github.com/sujathawgp)
