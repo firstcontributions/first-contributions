@@ -19,6 +19,7 @@
 - [Kyle Foerster](https://github.com/kbfoerster)
 - [Atin Bainada](https://github.com/at-in)
 - sanjubaba
+- [Listya](https://github.com/sikami)
 - [Ryan Kane] (https://github.com/ryantylerkane)
 - Roshan Nair
 - Tenzin Woesel
