@@ -796,6 +796,7 @@
 - [Vivek Khatri](https://github.com/vivek378521)
 - Vikas Kumar
 - Mahiransh Sharma
+- nehal gupta
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
 - [Shivam Sahu](https://github.com/shivamsahu4u)
 - [Luisa Bez](https://github.com/lb930)
@@ -879,6 +880,7 @@
 - [Maz Berg](https://github.com/MazBerg)
 - Eliana Grosof
 - Benjamin Wright
+- Nehal Gupta
 - [Eric Atwell](https://github.com/atwelleric)
 - [Vipul Khandelwal](https://github.com/VipulKhandelwal1999)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
