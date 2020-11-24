@@ -102,6 +102,7 @@
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
 - [Cat Yber](https://github.com/catyber)
 - [Dong Wang](https://github.com/a1779748)
+- [Lokesh Jawale](https://github.com/Lokesh-Jawale)
 - [Renan Cleyson](https://github.com/renancleyson-dev)
 - [Alejandro Carmona](https://github.com/carmonaalex12)
 - [Sylvain Empson](https://github.com/sylvain-01)
