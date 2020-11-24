@@ -2390,6 +2390,7 @@
 - [Fuad Reza Pahlevi](https://github.com/fuadreza)
 - [John Mathers](https://github.com/johnmathers)
 - [Nathan Geyer](https://github.com/n8orz)
+- [Shreyas Maheshwari](https://github.com/shreyubee)
 - [Hannanel Gershinsky](https://github.com/hannanel100)
 - [Vivek Bhadola](https://github.com/dynamic-26)
 - [Priya Srivastava](https://github.com/Priya730)
