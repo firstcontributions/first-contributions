@@ -675,6 +675,8 @@
 - [Nicky Chew](https://github.com.nickyc11)
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
+- [Jason Chavez Jr.](https://github.com/jchavez2)
+- [Devin Valencia 🎃](https://github.com/devinvalencia)
 - [Hamza Bahamdan](https://github.com/9Hamza)
 - [Alex Sanchez Florit](https://github.com/alexsanchezflorit)
 - [Lachlan Holliday] (https://github.com/LachlanHollliday)
