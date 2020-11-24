@@ -8147,3 +8147,4 @@
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
+- [Nikos Andriotis](https://github.com/nikos-andriotis)
