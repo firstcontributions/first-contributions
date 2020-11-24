@@ -734,6 +734,7 @@
 - [RithvikReddy](https://github.com/Rithvik-Reddy)
 - [Vini Mehta](https://github.com/vini-mehta)
 - [Naman Khurpia](https://github.com/namankhurpia)
+- [panvicka](https://github.com/panvicka)
 - [Sean Micca](https://github.com/smicca)
 - [Khwab Kalra](https://github.com/Khwab-kalra)
 - [Abhick Dahal](https://github.com/abhick09)
