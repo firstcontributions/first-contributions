@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Josh Mu](https://github.com/joshmu)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
@@ -18,6 +18,7 @@
 - [Kyle Foerster](https://github.com/kbfoerster)
 - [Atin Bainada](https://github.com/at-in)
 - sanjubaba
+- [Ryan Kane] (https://github.com/ryantylerkane)
 - Roshan Nair
 - Tenzin Woesel
 - [Jason Thulen]
