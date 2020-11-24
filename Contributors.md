@@ -37,6 +37,7 @@
   [Aditya](https://github.com/Adinarayanreloaded)
 - [Pugets](http://github.com/Pugets)
 - [jaywhen](https://github.com/jaywhen)
+- [Vivan Vatsa](https://github.com/VivanVatsa)
 - anacarolinarodrigues
 - CSiLLaFM
 - [Shubham Yadav](https://github.com/shuhzz)
