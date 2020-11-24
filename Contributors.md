@@ -7774,6 +7774,7 @@
 - [Guedelho](https://github.com/guedelho)
 - [Lala](https://github.com/lvde21)
 - [Ali Karani](https://github.com/alikarani)
+- [RaaziaT](https://github.com/RaaziaT)
 - [Henry Korir](https://github.com/henrykorir/)
 - [JinSeop Shin](https://github.com/Jin-seop)
 - [Franklin U.O. Ohaegbulam](https://github.com/frankiefab100)
