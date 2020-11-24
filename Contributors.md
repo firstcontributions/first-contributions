@@ -7655,7 +7655,7 @@
 - [Leonardo Alvarenga](https://github.com/LeoAlvarenga)
 - [Yury Mikhaylov](https://github.com/Mikhaylov-yv)
 - [Razvan V.](https://github.com/raz-m12)
-- Ferariu Paul-Andrei
+- [Ferariu Paul-Andrei]
 - [Evan Alioto](https://github.com/AlignSD)
 - [Ben Kim](https://github.com/praconfi)
 - [Loveexword](https://github.com/loveexword)
@@ -7761,6 +7761,7 @@
 - [Jennifer P.](https://github.com/jenniferpen430)
 - [Sol](https://github.com/SoliMark)
 - [Harrylepap](https://github.com/harrylepap)
+- [Frank Walker](https://github.com/megasxl264)
 - Lo Voelsen
 - [Evelyn Coleman](https://github.com/coleve27)
 - [Travis McKinstry](https://github.com/TravisGM92)
