@@ -13,18 +13,18 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
-## Projeyi "çatallandırma"
+## Projeyi "çatallama"
 
-Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallandırın.
+Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallayın.
 Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 ## Depoyu (Repository) klonlama
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Şimdi bu depoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
+Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
-Daha sonra komut istemini açıp aşağıdaki git komutunu girmemiz gerekiyor:
+Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
 
 ```
 git clone "kopyaladığınız-url"
@@ -48,7 +48,7 @@ cd first-contributions
 ```
 `git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
 ```
-git checkout -b <ekle-sizin-isminiz>
+git checkout -b <sizin-yeni-dal-isminiz>
 ```
 
 Örneğin:
@@ -75,6 +75,8 @@ git checkout -b ekle-aydin-cagri-dumlu
 
 `](` arasında boşluk olmadığından emin olun. Dosyayı kaydedin ve kapatın.
 
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+
 Komut istemi üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
 
 ```
@@ -93,9 +95,9 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 
 `git push` komutu ile değişikliklerinizi ittirin:
 ```
-git push origin <ekle-kendi-isminiz>
+git push origin <ekle-sizin-dal-isminiz>
 ```
-`<ekle-kendi-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
+`<ekle-sizin-dal-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
 
 ## Değişikliklerinizi inceleme için gönderin
 
@@ -107,11 +109,11 @@ Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu g�
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme postası alacaksınız.
-
-### [Sonraki adımlar](../additional-material/git_workflow_scenarios/additional-material.md)
+Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme e-postası alacaksınız.
 
 ## Bundan sonra ne yapabilirim?
+
+Tebrikler! Katkıda bulunan kişi olarak sıklıkla karşılaşacağınız standart _çatal -> klon -> düzenle -> çekme isteği_ iş akışını tamamladınız!
 
 Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
 
@@ -119,10 +121,18 @@ Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımımıza katılabilirs
 
 Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğiniz giriş seviyesindeki konulara (issue) sahip projeleri [sizin için derledik](https://roshanjossey.github.io/first-contributions/#project-list).
 
+### [Ek bilgi](../additional-material/git_workflow_scenarios/additional-material.md)
+
 ## Diğer araçlarla ilgili eğitimler
 
 
+<<<<<<< HEAD
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+=======
+|<a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+|---|---|---|---|---|---|
+|[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)|[IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)|
+>>>>>>> d440103991823c396045d9c5ae653ec84c803ffb
 

@@ -2669,6 +2669,7 @@
 - [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
 - [SanjayDevTech](https://github.com/SanjayDevTech)
+- [Ferruh Cihan](https://github.com/ferruhcihan)
 - [Pradyumna Yadav](https://github.com/pradyyadav)
 - [Kaniah Dunn](https://github.com/KaniahDunn)
 - [Deep Parekh](https://github.com/Deep310)
