@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@ Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les
 
 #### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-amb-altres-eines )*
 
-<img align="right" width="300" src="../assets/fork.png" alt="fer fork d'aquest repsoitori" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fer fork d'aquest repsoitori" />
 
 Si no disposeu de git en el vostre ordinador, [instal·leu-lo]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Això crearà una còpia d'aquest repositori en el seu compte.
 
 ## Clona (*Clone*) el repositori
 
-<img align="right" width="300" src="../assets/clone.png" alt="clonar aquest repositori" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar aquest repositori" />
 
 Cloneu aquest repositori al vostre ordinador. Adreceu-vos al vostre compte de GitHub, cliqueu al botó clonar "*clone or download*" i després cliqueu a la icona de *copiar al porta-retalls*.
 
@@ -34,7 +34,7 @@ git clone "url que acabeu de copiar"
 ```
 on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest respositori (el vostre *fork* d'aquest projecte). Veure els passos anteriors per a obtenir la *url*.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
 
 Per exemple:
 ```
@@ -64,7 +64,7 @@ git checkout -b add-nom-cognom
 
 Obriu l'arxiu `Contributors.md` en un editor de text i afegeiu el vostre nom. No l'afegiu ni al principi ni al final de l'arxiu. Poseu-lo en qualsevol altre posició. Guardeu l'arxiu.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
 Si aneu al directori del projecte i executeu la comanda `git status`, veureu els canvis. 
@@ -94,11 +94,11 @@ reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que heu cre
 
 Si aneu al vostre respositori a GitHub, veureu un botó  `Compare & pull request`. Cliqueu sobre aquest botó.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="crear una pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crear una pull request" />
 
 Envía la *pull request*.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="envia la pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="envia la pull request" />
 
 Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
 
@@ -117,7 +117,7 @@ Ara anem a preparar-nos per a contribuir a altres projectes. Hem reunit una llis
 
 ## Tutorials amb Altres Eines
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)                                                                                                                   |
 
