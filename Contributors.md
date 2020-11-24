@@ -42,6 +42,7 @@
 - [Vivan Vatsa](https://github.com/VivanVatsa)
 - anacarolinarodrigues
 - CSiLLaFM
+- [Ching-an Wu](https://github.com/chingandy)
 - [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
 - [Onewayfare](https://github.com/onewayfare)
