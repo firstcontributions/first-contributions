@@ -752,6 +752,7 @@
 - [Rashid Ali](https://github.com/rashidjama)
 - [Zsuzsa Lukacs](https://github.com/ZsuzsaMano)
 - [sbapollocoder](https://github.com/sbapollocoder)
+- [Trevor Sean](https://github.com/JetXtreme)
 - [Cedillo](https://github.com/zmcedillo)
 - [ahlam awawda](https://github.com/ahlam94)
 - [brigthon](https://github.com/brigthon)
