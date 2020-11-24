@@ -8093,3 +8093,4 @@
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Esben Sørensen](https://github.com/esbendamkjaer)
 - [James Faith Shameh](https://github.com/blackpandan)
+- [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
