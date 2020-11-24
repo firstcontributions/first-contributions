@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +9,7 @@
 
 Чытанне артыкулаў і падручнікаў можа дапамагчы, але што можа быць лепш, чым сапраўдны практычны вопыт, без рызыкі што-небудзь сапсаваць. Мэта гэтага праекта - належным чынам накіраваць маладых навабранцаў, а таксама даць ім магчымасць зрабіць іх першы ўклад. Памятаеце: чым менш вы напружаныя, тым лепш вы вучыцеся. Калі вы шукаеце магчымасць ажыццявіць свой першы ўклад, проста прытрымлівайцеся простым крокам, размешчаным ніжэй. Абяцаем, будзе цікава.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
 Калі ў вас не ўсталяваны git на кампутары, [ ўсталюйце яго ]( https://help.github.com/articles/set-up-git/ )
@@ -20,7 +20,7 @@
 
 ## Капіюйце рэпазітар
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Цяпер каб скапіяваць ваш рэпазітар на персанальны кампутар. Націсніце на кнопку `clone`, а затым на абразок `copy to clipboard`, каб скапіяваць спасылку.
 
@@ -31,7 +31,7 @@ git clone "url you just copied"
 ```
 Дзе "url you just copied" (без двукоссяў) гэта спасылка на ваш рэпазітар. Паглядзіце папярэднія крокі, каб атрымаць гэтую спасылку.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Напрыклад:
 ```
@@ -84,11 +84,11 @@ git push origin <add-your-name>
 
 Калі вы зойдзеце ў свой рэпазітар на GitHub, вы ўбачыце кнопку `Compare & pull request`. Націсніце на яе.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Цяпер пацвердзіце pull-request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Хутка я ўчыню аб'яднанне ўсіх вашых змяненняў з асноўнай галіной гэтага праекта. Вы атрымаеце паведамленне па электроннай пошце, калі змены будуць прынятыя (ўнесены ў галоўную галіну).
 
@@ -131,7 +131,7 @@ git push origin --delete <add-your-name>
 
 ## Выкарыстанне іншых інструментаў
 
-| <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a> |
+| <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../github-windows-vs2017-tutorial.md)                                                                                                                              | [GitKraken](../gitkraken-tutorial.md)                                                                |
 
