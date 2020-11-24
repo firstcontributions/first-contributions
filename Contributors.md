@@ -34,6 +34,7 @@
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
+- [Ching-an Wu](https://github.com/chingandy)
 - [AndyJMR](https://github.com/AndyJMR)
 - [gsigler](https://github.com/gsigler)
   [Aditya](https://github.com/Adinarayanreloaded)
