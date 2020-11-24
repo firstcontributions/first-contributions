@@ -1499,6 +1499,7 @@
 - Baani Dhingra
 - Tushar Sardana
 - Bhaswati Boro
+- [Espen Berget](https://github.com/EspenBerget)
 - Rishin Pandit
 - Erik Espuñes
 - Shaanya Singh
@@ -7801,6 +7802,7 @@
 - [Umar Yusuf](https://github.com/umaryusuf)
 - [Héctor Rosales](https://github.com/hndoss)
 - [Alina Berdnikova](https://github.com/freakbelka)
+- [Yasaswi P](https://github.com/yasaswip)
 - [Feisal Ahmed](https://github.com/feisala321)
 - [Yasaswi P](https://github.com/yasaswip)
 - [Alok54](https://github.com/Alok54)
