@@ -8098,5 +8098,6 @@
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Esben Sørensen](https://github.com/esbendamkjaer)
+- [Georg Magneshaugen](https://github.com/georgmagne)
 - [James Faith Shameh](https://github.com/blackpandan)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
