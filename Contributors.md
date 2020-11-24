@@ -8143,3 +8143,4 @@
 - [Georg Magneshaugen](https://github.com/georgmagne)
 - [James Faith Shameh](https://github.com/blackpandan)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
+- [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
