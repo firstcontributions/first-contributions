@@ -177,6 +177,7 @@
 - [Dillon Rooke] (https://github.com/DillonRooke)
 - Vrinda Tyagi
 - Colton Francis
+- [John Robinson](https://github.com/klondikekid)
 - [Chintan Patel](https://github.com/chihempat)
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
