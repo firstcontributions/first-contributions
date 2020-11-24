@@ -889,7 +889,7 @@
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
 - [Lisa Becker](https://github.com/lisabecker)
 - [Peter Morton](https://github.com/peteDotNet)
-- Milo Silva
+- [Milo Silva](https://github.com/mr0cket)
 - [Rafael González](https://github.com/RafaelGzz)
 - [Vibavari G](https://github.com/VibavariG)
 - [Alvin Mrema](https://github.com/AlvinMrema)
