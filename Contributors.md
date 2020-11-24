@@ -1182,6 +1182,7 @@
 - [Tarun Kumar](https://github.com/Tarun-19)
 - [Himanshu Hansaria](https://github.com/Mrsterius)
 - [Della Lin](https://github.com/della222)
+- [Hardik Purohit](https://github.com/empaid)
 - [HassanRaza](https://github.com/rza8301)
 - Sudhanshu Doddi
 - [LuisRivera162](https://github.com/LuisRivera162)
