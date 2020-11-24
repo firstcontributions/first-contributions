@@ -13,6 +13,7 @@
 - [Eduardo Neto](https://github.com/pyduh)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
+- [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
 - [Keisuke Tanaka](https://github.com/tanakkei)
