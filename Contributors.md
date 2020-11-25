@@ -8016,6 +8016,7 @@
 - [ganeshrahul23](https://github.com/ganeshrahul23)
 - [Sameerul Haque](https://github.com/sameerul)
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
+- [Himanshu Midha](https://github.com/Krauser24816)
 - [Christopher Kirkley](https://github.com/christopher-kirkley)
 - [Prasad](https://github.com/prasadekke)
 - [Stanley](https://github.com/stanleyleemcsun)
@@ -8161,3 +8162,4 @@
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
+
