@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
@@ -8166,3 +8166,4 @@
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
+- [Vlad Konoshenko](https://github.com/Konoshenko)
