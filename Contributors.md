@@ -184,6 +184,7 @@
 - [Nate Osterfeld](https://github.com/NateOsterfeld)
 - [Rik Kraan](https://github.com/rikkraanvantage)
 - [Dillon Rooke](https://github.com/DillonRooke)
+- Azri Soufi
 - Vrinda Tyagi
 - Colton Francis
 - [John Robinson](https://github.com/klondikekid)
