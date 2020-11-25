@@ -32,15 +32,15 @@ IMPORTANTE: NÃO CLONE O REPOSITÓRIO ORIGINAL. Vá para o seu fork e clone.
 
 Para clonar esse repositório, clique em "Clone or Download" e então clique em "Open in Desktop".
 
-<img style="left;" src="../assets/dt1-clonetodesktop.png" alt="clone este repositório" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-clonetodesktop.png" alt="clone este repositório" />
 
 Uma janela pop up vai aparecer. Clique em "Open GitHubDesktop.exe".
 
-<img style="left;" src="../assets/dt1-open-githubdesktop.png" alt="clone este repositório" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-open-githubdesktop.png" alt="clone este repositório" />
 
 Depois de clicar em "Open GitHubDesktop.exe" os arquivos serão baixados para o seu computador.
 
-<img style="left;" src="../assets/dt1-downloaded.png" alt="clone este repositório" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-downloaded.png" alt="clone este repositório" />
 
 Agora você copiou os arquivos do repositório first-contributions no github para o seu computador.
 
@@ -48,11 +48,11 @@ Agora você copiou os arquivos do repositório first-contributions no github par
 
 Agora crie uma branch clicando na aba "Current branch" que fica no topo, depois clique em "New branch":
 
-<img style="left;" src="../assets/dt1-create-branch.png" alt="criar uma branch" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-create-branch.png" alt="criar uma branch" />
 
 Nomeie sua branch como <add-your-name>. Por exemplo, "add-james-smith"
 
-<img style="left;" src="../assets/dt1-create-branch-name.png" alt="nomeie sua branch" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-create-branch-name.png" alt="nomeie sua branch" />
 
 Clique em `Create branch`
 
@@ -66,7 +66,7 @@ Exemplo: Se o seu nome for James Smith, Deve ficar parecido com isso.
 
 Você pode ver as alterações feitas em Contributors.md no Github Desktop.
 
-<img style="left;" src="../assets/dt1-status.png" alt="checar mudanças" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-status.png" alt="checar mudanças" />
 
 Agora faça commit dessas alterações:
 
@@ -76,21 +76,21 @@ Substitua `<your-name>` pelo seu nome.
 
 Clique no botãp que diz `Commit to add-your-name`.
 
-<img style="left;" src="../assets/dt1-commit1.png" alt="commit suas alterações" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-commit1.png" alt="commit suas alterações" />
 
 Na parte inferior, você pode ver que o commit foi criado com sucesso.
 
-<img style="left;" src="../assets/dt1-commit2.png" alt="commit suas alterações" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-commit2.png" alt="commit suas alterações" />
 
 ## Faça o push das mudanças no github
 
 Clique em File->Options e depois em sign-in to Github.com. Digite seu username e senha do Github.
 
-<img style="left;" src="../assets/dt1-sign-in.png" alt="log-in no Github" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-sign-in.png" alt="log-in no Github" />
 
 Clique no botão `Publish` na parte superior direita.
 
-<img style="left;" src="../assets/dt1-publish1.png" alt="push suas alterações" />
+<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-publish1.png" alt="push suas alterações" />
 
 ## Envie suas alterações para review
 

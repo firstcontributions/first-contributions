@@ -6,7 +6,7 @@
 
 # First Contributions
 
-|<img alt="SourceTree" src="../assets/sourcetree-logo.png" width="200">|Atlassian Sourcetree|
+|<img alt="SourceTree" src="https://firstcontributions.github.io/assets/Readme/sourcetree-logo.png" width="200">|Atlassian Sourcetree|
 |---|---|
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -29,15 +29,15 @@ Download [Sourcetree](https://www.sourcetreeapp.com), Install and open it.
 
 You should see the "Sourcetree" modal dialog.
 
-<img style="float: right;" src="../assets/sourcetree-1-main.png" alt="SourceTree Main" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-1-main.png" alt="SourceTree Main" />
 
 From here, you want to click on Remote. If this is the first installation, then you likely haven't connected your GitHub account yet. Do so by clicking the "Connect Button".
 
-<img style="float: right;" src="../assets/sourcetree-2-main-connect.png" alt="SourceTree Connect" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-2-main-connect.png" alt="SourceTree Connect" />
 
 The *Accounts* dialog will appear. Click "Add" in the lower left hand corner. Then select the appropriate settings to add GitHub (or any other account you want) to the client. After you selected your settings for GitHub, click "Connect Account."
 
-<img style="float: right;" src="../assets/sourcetree-4-accounts-add.png" alt="SourceTree Connect Add" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-4-accounts-add.png" alt="SourceTree Connect Add" />
 
 This will open a page in your web browswer. Follow the steps given to authorize your account.
 
@@ -52,11 +52,11 @@ This will create of copy of this repository in your account.
 
 In Sourcetree, Click on the "Remote" button. This should load all of your GitHub repos which are listed on GitHub.
 
-<img style="float: right;" src="../assets/sourcetree-5-cloning.png" alt="clone this repository" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-5-cloning.png" alt="clone this repository" />
 
 Once you click the "Clone" button, you will be presented with another view to define several different things.
 
-<img style="float: right;" src="../assets/sourcetree-6-cloning-confirm.png" alt="clone this repository" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-6-cloning-confirm.png" alt="clone this repository" />
 
 1) **Source URL:** This is automatically filled and you dont need to change it. It is the URL from where your GitHub project resides.
 
@@ -78,7 +78,7 @@ Name your branch "add-your-name-to-contribution", for example: "add-sally-to-con
 
 To do this, click **Branch (1)** which launches the naming dialog. Then **Add your name (2)** as just described. Finally click **Create Branch**. This will create the branch for what you just named.
 
-<img style="float: right;" src="../assets/sourcetree-7-branching.png" alt="name your branch" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-7-branching.png" alt="name your branch" />
 
 
 ## Make necessary changes and commit those changes
@@ -89,7 +89,7 @@ You should be able to see and review the file that have been changed and decide 
 
 *Note: If you do not see the file's diff, click **Uncommitted Files** at the top of your dialog*
 
-<img style="float: right;" src="../assets/sourcetree-8-viewing-changed-files.png" alt="edit some file(s)" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-8-viewing-changed-files.png" alt="edit some file(s)" />
 
 Next click the **Commit** button on the top left of the dialog. This will show you your staging area.
 
@@ -97,7 +97,7 @@ Click the *Checkbox* to **add** the file to the stagging area. Then enter a comm
 
 *Note: You can also select files (both in the stagging and unstaged areas) and add/remove files from the respective areas by using the spacebar*
 
-<img style="float: right;" src="../assets/sourcetree-9-committing.png" alt="stage your changes" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-9-committing.png" alt="stage your changes" />
 
 
 Once you have added your changes and added a commit message, you can press the **Commit** button to finally make the commit.
@@ -109,7 +109,7 @@ Congratulations, you've committed all the changes to your local copy of your bra
 
 Now you are ready to push your changes to github. This will be pushing it to your own, forked, copy of the project. Follow the steps to push your branch up. First, click **Push (1)**, this will show the remote/push dialog. **Click (2)** the checkbox of your branch you want to push. Select **OK (3)** and this will push your commit up to Github.
 
-<img style="float: right;" src="../assets/sourcetree-10-pushing.png" alt="origin or branch" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/sourcetree-10-pushing.png" alt="origin or branch" />
 
 ## Submit your changes for review
 

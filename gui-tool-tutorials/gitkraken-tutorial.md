@@ -22,7 +22,7 @@ Download [GitKraken](https://www.gitkraken.com), Install and open it.
 You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
 
 
-<img style="float: right;" src="../assets/gk-login.png" alt="login to GitHub" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-login.png" alt="login to GitHub" />
 
 (optional) Go to File -> Preferences and set your project directory to the root of your local repositories.
 
@@ -39,7 +39,7 @@ This will create of copy of this repository in your account.
 In GitKraken, go to File -> Clone Repo.
 
 
-<img style="float: right;" src="../assets/gk-clone.png" alt="clone this repository" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-clone.png" alt="clone this repository" />
 
 
 Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.
@@ -53,7 +53,7 @@ Click the branch button on the toolbar.
 
 Name your branch "add-your-name", for example: "add-william-sutton"
 
-<img style="float: right;" src="../assets/gk-branch.png" alt="name your branch" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-branch.png" alt="name your branch" />
 
 
 ## Make necessary changes and commit those changes
@@ -62,18 +62,18 @@ Now open `Contributors.md` file in a text editor and add your name to it, then s
 
 If you have the repo open in GitKraken you'll see there are changes. Review and stage those changes by selecting the newest commit marked with "// WIP" and the number of files changed and the type of change.
 
-<img style="float: right;" src="../assets/gk-edit.png" alt="edit some file(s)" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-edit.png" alt="edit some file(s)" />
 
 Review the files that have been changed and decide what you would like to stage.  Staging is important to tell git exactly what file changes you want associated with this commit.
 
 
-<img style="float: right;" src="../assets/gk-stage.png" alt="stage your changes" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-stage.png" alt="stage your changes" />
 
 
 Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that is modified or "Stage File" to stage an individual file.
 
 
-<img style="float: right;" src="../assets/gk-commit.png" alt="clone this repository" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-commit.png" alt="clone this repository" />
 
 
 If you change your mind, you can unstage those changes, or you can discard them all together.
@@ -86,11 +86,11 @@ Congratulations, you've committed all the changes to your local copy of your bra
 
 ## Push changes to GitHub
 
-<img style="float: right;" src="../assets/gk-push.png" alt="push your changes" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-push.png" alt="push your changes" />
 
 Click the Push button on the toolbar.
 
-<img style="float: right;" src="../assets/gk-origin.png" alt="origin or branch" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/gk-origin.png" alt="origin or branch" />
 
 Submit changes on the origin branch if you want the changes to reflect in the master branch directly, else select the appropriate branch you want to push.
 
