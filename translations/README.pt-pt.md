@@ -9,14 +9,13 @@
 
 Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembra-te: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, segue os passos abaixo. Nós prometemos, será divertido.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork deste repositorio" />
-
 Se ainda não tens o git na tua máquina, [instala-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faz um Fork deste repositório
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositorio" />
 
 Faz um Fork ao clicares no botão "Fork" no topo desta página. Isto vai criar uma cópia deste repositório na tua conta.
-
+<br></br><br></br>
 ## Clone o repositório
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
