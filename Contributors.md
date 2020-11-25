@@ -1882,6 +1882,7 @@
 - [Rishikesh Yadav](https://github.com/rishikesh7355)
 - [Milo Fultz](https://github.com/milofultz)
 - [Tanay](https://github.com/sudhatanay)
+- [Mikolaj Janusz](https://github.com/Bubus2)
 - [Mohammad Farshadpour](https://github.com/elcoreman)
 - [Tarun Sharma](tarun.da19@iiitmk.ac.in)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
