@@ -27,6 +27,7 @@
 - Tenzin Woesel
 - [Jason Thulen]
 - saurav
+- Pranjal Srivastava
   [Justin Vocke](https://github.com/justin-vocke)
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Mohd Danish](https://github.com/mohddanish-cse)
