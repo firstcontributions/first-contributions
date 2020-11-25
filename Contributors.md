@@ -16,6 +16,7 @@
 - [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
+  [Ezekiel Ogunniwa](https://github.com/Eminentzeal)
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Michael O'Connor](https://github.com/mmosru)
 - [Kyle Foerster](https://github.com/kbfoerster)
