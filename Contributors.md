@@ -8116,6 +8116,7 @@
 - [Michael Ashe](https://github.com/mashe0742)
 - [Varghese Jose](https://github.com/hasthamalp/)
 - [Michael Vigato](https://github.com/vgtmhl/)
+- [Colin Fendrick 🦕](https://github.com/colinfendrick)
 - [Liam Cooper](https://github.com/LiamCoopR/)
 - [Tim Wells](https://github.com/timwells)
 - [Gregory Glatzer](https://github.com/g1776)
