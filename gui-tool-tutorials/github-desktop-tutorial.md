@@ -32,15 +32,15 @@ IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
 To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-clonetodesktop.png" alt="clone this repository" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
 A pop up window will open. Click on "Open GitHubDesktop.exe".
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-open-githubdesktop.png" alt="clone this repository" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
 
 After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-downloaded.png" alt="clone this repository" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-downloaded.png" alt="clone this repository" />
 
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
@@ -48,11 +48,11 @@ Now you have copied the contents of the first-contributions repository in github
 
 Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-create-branch.png" alt="make a branch" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="make a branch" />
 
 Name your branch <add-your-name>. For example, "add-james-smith"
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-create-branch-name.png" alt="name your branch" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
 
 Click on `Create branch`
 
@@ -66,7 +66,7 @@ Example: If your name is James Smith, It should look like this.
 
 You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-status.png" alt="check status" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
 
 Now commit those changes:
 
@@ -76,21 +76,21 @@ Replace `<your-name>` with your name.
 
 Click on the button that says `Commit to add-your-name`.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-commit1.png" alt="commit your changes" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
 
 At the bottom, you can see that the commit has been created.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-commit2.png" alt="commit your changes" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
 
 ## Push changes to github
 
 Click on File->Options and sign-in to Github.com. Type in your Github username and password.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-sign-in.png" alt="log-in to Github" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
 
 Click the `Publish` button on the top right.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/Readme/dt1-publish1.png" alt="push your changes" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push your changes" />
 
 ## Submit your changes for review
 
