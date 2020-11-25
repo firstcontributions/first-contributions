@@ -1458,6 +1458,7 @@
 - [Jonathon Lopez](https://github.com/JonathonLLopez)
 - [Lubna Attar](https://github.com/lubnaattar)
 - [Matheus Phelipe](https://github.com/matheusphalves)
+- [Meer Hamza](https://github.com/MeerHamza1421)
 - [Abhishek Rai](https://github.com/Abhishek172)
 - [Ruju Jambusaria](https://github.com/rujuj)
 - Swoutch
