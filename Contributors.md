@@ -8141,6 +8141,7 @@
 - [Stylianos Tsoumanis](https://github.com/styltsou)
 - [Akinleye Oyinbayode] (https://github.com/Oyinbayode)
 - [Young Yoo](https://github.com/Devedunkey)
+- [Dylan Troutman] (https://github.com/nappingrn)
 - [Komilos](https://github.com/kamsharipova)
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
