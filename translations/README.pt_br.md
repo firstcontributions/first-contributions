@@ -58,7 +58,7 @@ Por exemplo:
 ```
 git checkout -b add-alonzo-church
 ```
-Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
+Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome à uma lista.
 
 ## Efetue as alterações necessárias e faça um Commit
 
