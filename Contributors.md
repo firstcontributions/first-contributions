@@ -58,6 +58,7 @@
 - [Jessica Chen](https://github.com/jessicreative)
 - [Melanys Figueredo](https://github.com/melanyss)
 - [Void2g](https://github.com/Void2g)
+- [Telmo Duarte](https://github.com/Matcheryt)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
 - [Anish Tilak](https://github.com/anishtilak16)
