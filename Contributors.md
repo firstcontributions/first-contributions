@@ -51,6 +51,7 @@
 - CSiLLaFM
 - [Mufti M]
 - [Ching-an Wu](https://github.com/chingandy)
+- [Dan Westlund](https://github.com/2stashs)
 - [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
 - [Onewayfare](https://github.com/onewayfare)
