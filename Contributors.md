@@ -762,6 +762,7 @@
 - [Naman Khurpia](https://github.com/namankhurpia)
 - [panvicka](https://github.com/panvicka)
 - [Sean Micca](https://github.com/smicca)
+- [Mason Woodford] (https://github.com/masonwoodford)
 - [Khwab Kalra](https://github.com/Khwab-kalra)
 - [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
