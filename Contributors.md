@@ -1,7 +1,4 @@
-# Contributors
-- [Josh Mu](https://github.com/joshmu)
-- [Jeremy Arrabe](https://github.com/jeremeheh)
-- [Nitin Gupta](https://github.com/nitingupta-123)
+﻿# Contributors
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
@@ -31,6 +28,7 @@
 - [Suhrob](https://github.com/suhrobcoder)
 - Roshan Nair
 - Tenzin Woesel
+- [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Jason Thulen]
 - saurav
 - Pranjal Srivastava
