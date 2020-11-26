@@ -8142,6 +8142,7 @@
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
 - [Gustavo Santana Domingueti 🚀](https://github.com/dominguetigs)
 - [Michael Ashe](https://github.com/mashe0742)
+- [Vatche Kafafian](https://github.com/vatche-k3)
 - [Varghese Jose](https://github.com/hasthamalp/)
 - [Michael Vigato](https://github.com/vgtmhl/)
 - [Colin Fendrick 🦕](https://github.com/colinfendrick)
