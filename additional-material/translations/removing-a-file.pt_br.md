@@ -19,6 +19,6 @@ Se você confirmar a mudança com `git commit -m" Remove file1.js "` e enviar pa
 
     `git rm file1.js file2.js file3.js --cached`
 
-- Você pode utilizar o caractere coringa (*) para remover todos os arquivos semelhantes.  Por exemplom se você deseja remover todos os .txt do seu repositório local:
+- Você pode utilizar o caractere coringa (*) para remover todos os arquivos semelhantes.  Por exemplo se você deseja remover todos os .txt do seu repositório local:
 
     `git rm *.txt --cached`
