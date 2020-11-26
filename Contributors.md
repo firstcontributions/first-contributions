@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
@@ -18,6 +18,7 @@
 - sanjubaba
 - Roshan Nair
 - Tenzin Woesel
+- [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Jason Thulen]
 - saurav
   [Justin Vocke](https://github.com/justin-vocke)
