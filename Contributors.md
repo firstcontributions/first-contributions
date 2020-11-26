@@ -926,6 +926,7 @@
 - [Kunal Gaurav](https://github.com/kunalgaurav4)
 - [Ana Carolina Arellano](https://github.com/anacarolinaarellano)
 - [Daniel Reyes Arguelles](https://github.com/DaniArguelles)
+- [moryama](https://gitlab.com/moryama)
 - [Dani0406](https://github.com/Dani0460)
 - [Jinal Patel](https://github.com/Jinal7599)
 - [Saccha Agriel](https://github.com/sacchaagriel)
