@@ -7093,6 +7093,8 @@
 - [Hardik Gupta](https://github.com/harrdy272)
 - [David Ryan](https://github.com/radge)
 - [Sendeq]
+- [Thigarajan Murali](https://github.com/thiagu89)
+- [Thiagarajan Murali2](https://github.com/thiagu89)
 - [Nicholas Aliabadi](https://aliabadi.github.io)
 - [macrohumanity](https://github.com/macrohumanity)
 - [Alex Yuan](https://github.com/aycer25)
@@ -7252,5 +7254,3 @@ erdem yigitoglu
 - [Silver Gama](https://github.com/silvergama)
 - [Eka Prasetyo](https://github.com/eka0789)
 - [Yudai Kobayashi](https://github.com/Asuha-a)
-- [Thigarajan Murali](https://github.com/thiagu89)
-- [Thiagarajan Murali2](https://github.com/thiagu89)
