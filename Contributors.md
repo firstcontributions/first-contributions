@@ -2925,6 +2925,7 @@
 - [Borcani Robert-Raul](https://github.com/borcanirobert)
 - [Charles Adeyinka](https://github.com/Kaykai-19)
 - [Akansha Bhandari](https://github.com/Akansha-Bhandari)
+- [Emmanuel Pinca](https://github.com/emmanuel-p-1)
 - [Daniela Diaz](https://github.com/dandiaz10)
 - [Zygimantas Sniurevicius](https://github.com/zygisS22)
 - [Joaquim Maurício](https://github.com/jmauriciowebdev)
