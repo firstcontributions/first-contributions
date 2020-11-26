@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,60 +12,6 @@ Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u
 
 
 #### *Ako vam je nezgodno da čitate tekst u komandnoj liniji, [evo linka kroz GUI alate.]( #tutorials-using-other-tools )*
-
-#### *Možete čitati tekst i na [drugim jezicima](Translations.md).*
-
-[🇮🇳](Translations.md)
-[🇲🇲](README.mm_unicode.md)
-[🇮🇩](README.id.md)
-[🇫🇷](README.fr.md)
-[🇪🇸](README.es.md)
-[<img src="assets/catalan1.png" width="22">](README.ca.md)
-[🇳🇱](README.nl.md)
-[🇱🇹](README.lt.md)
-[🇷🇺](README.ru.md)
-[🇧🇬](README.bg.md)
-[:slovakia:](README.slk.md)
-[🇯🇵](README.ja.md)
-[🇻🇳](README.vn.md)
-[🇵🇱](README.pl.md)
-[🇮🇷](README.fa.md)
-[🇮🇷](README.fa.en.md)
-[🇰🇷 🇰🇵](README.ko.md)
-[🇩🇪](README.de.md)
-[🇩🇰](README.da.md)
-[🇨🇳](README.chs.md)
-[🇹🇼](README.cht.md)
-[🇬🇷](README.gr.md)
-[🇪🇬](README.eg.md)
-[🇸🇦](README.ar.md)
-[🇺🇦](README.ua.md)
-[🇧🇷](README.pt_br.md)
-[🇵🇹](README.pt-pt.md)
-[🇮🇹](README.it.md)
-[🇹🇭](README.th.md)
-[🏴](README.gl.md)
-[🇳🇵](README.np.md)
-[🇵🇰](README.ur.md)
-[:bangladesh:](README.bn.md)
-[🇲🇩 🇷🇴](README.ro.md)
-[🇹🇷](README.tr.md)
-[🇸🇪](README.se.md)
-[🇲🇾](README.my.md)
-[:slovenia:](README.sl.md)
-[🇮🇱](README.hb.md)
-[🇨🇿](README.cs.md)
-[<img src="../assets/pirate.png" width="22">](README.en-pirate.md)
-[🇲🇽](README.mx.md)
-[🇵🇭](README.tl.md)
-[🇿🇦](README.zul.md)
-[🇿🇦](README.afk.md)
-[🇰🇪](README.kws.md)
-[🇳🇬](README.igb.md)
-[🇱🇻](README.lv.md)
-[🇷🇸](README.sr.md)
-
-
 
 <img align="right" width="300" src="../assets/fork.png" alt="Napravite fork repozitorijuma" />
 
