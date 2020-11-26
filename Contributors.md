@@ -242,6 +242,7 @@
 - [Alan Zhu](https://github.com/alanzhu39)
 - Animesh_ramasami
 - [Amedyne](https://github.com/amedyne)
+- [Brian Peguero](https://github.com/BrianPeguero)
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - [Alexa Carrington](https://github.com/aacarring)
