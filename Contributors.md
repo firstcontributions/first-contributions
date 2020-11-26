@@ -1334,6 +1334,7 @@
 - [Shantanu Goyal](https://https://github.com/Shantanugoyal00)
 - [Antonio Gonzalez](https://github.com/1449Antonio)
 - [Izzy Berzsenyi](https://github.com/isabellberzsenyi)
+- [Júlio Dreher] (https://github.com/drehercc)
 - [Kalpana Upadhyay](https://github.com/Kalpana98)
 - [Brad Wong](https://github.com/bradmwong)
 - [Catelen Wu](https://github.com/catw101)
