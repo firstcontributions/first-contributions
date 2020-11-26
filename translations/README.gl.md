@@ -9,7 +9,7 @@
 
 Ler artículos e ver titoriais pode axudar, pero ¿que haberá mellor que facer as cousas nunha contorna pensada para practicar? Iste proxecto enfócase en prover unha guía e en simplificar o xeito no que os novatos fan a súa primeira contribución. Lembra que mentres máis relaxado esteas, mellor aprenderás. Se queres facer a túa primeira contribución só tés que seguir os sinxelos pasos que se amosan a continuación. E prometémosche que será entretido.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="fork de éste repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de éste repositorio" />
 
 Se aínda non tés git na túa máquina, [ instálao ]( https://help.github.com/articles/set-up-git/ )
 
