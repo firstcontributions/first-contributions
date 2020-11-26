@@ -4042,6 +4042,7 @@
 - Janitha Missaka
 - Sinclair Guthrie
 - [Shantanu Kale](https://github.com/pega-sys)
+- [Ian Zhang](https://github.com/izhang05)
 - [Matteo Bongiovanni](https://github.com/MatBon01)
 - Anirudh N
 - [Shabunken](https://github.com/shabunken)
