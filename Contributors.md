@@ -7771,6 +7771,8 @@
 - [David Ryan](https://github.com/radge)
 - [Éric Vinícius](https://github.com/ericvini)
 - [Sendeq]
+- [Thigarajan Murali](https://github.com/thiagu89)
+- [Thiagarajan Murali2](https://github.com/thiagu89)
 - [Nicholas Aliabadi](https://aliabadi.github.io)
 - [macrohumanity](https://github.com/macrohumanity)
 - [Alex Yuan](https://github.com/aycer25)
