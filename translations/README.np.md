@@ -12,7 +12,7 @@
 
 #### *यो अन्य [भाषाहरूमा](Translations.md) पढ्नुहोस्।*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="यो भण्डार फोर्क गर्नुहोस।" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="यो भण्डार फोर्क गर्नुहोस।" />
 
 यदि तपाईंसँग तपाइँको मेशिनमा Git छैन, [यसलाई इन्स्टल गर्नुहोस्]( https://help.github.com/articles/set-up-git/).
 

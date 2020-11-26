@@ -141,7 +141,7 @@ Simpan perubahan tersebut menggunakan perintah `git commit`:
 git commit -m "Add <nama> to Contributors list"
 ```
 
-ubah `<nama>` dengan nama anda.
+Ubah `<nama>` dengan nama anda.
 
 ## Dorong (Push) Perubahan ke GitHub
 
