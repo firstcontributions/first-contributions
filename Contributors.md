@@ -7709,6 +7709,7 @@
 - [Jeryl Seow](https://github.com/jerylseow)
 - [Kritsada Moungkhao](https://github.com/kidkrub)
 - [Keston Timson]
+- [RuyaFlute](https://github.com/nancyruya)
 - [Shaik Asaduddin](https://github.com/asadshaik1103)
 - [Dominique Kolbe](https://github.com/domko95)
 - [Ruzan Tandukar](https://github.com/ruzzan)
@@ -8012,6 +8013,7 @@
 - [Lucas Alves Teixeira](https://github.com/lat94)
 - [Spencer Broomhead](https://github.com/FishtheFish)
 - [Samantha B <3]
+
 - [Lata Agrawal](https://github.com/la-dev-agr)
 - [Jacob Perez](https://github.com/jperez210)
 - [Fajar Muzaky](https://github.com/fajarmzky)
