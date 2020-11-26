@@ -7723,6 +7723,7 @@
 - Charlie Wu
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
+- [Rodrigo Marcolino](https://github.com/rodrigo-marcolino)
 - [Shiv Chauhan](https://github.com/xqbptt)
 - [Ofir](https://github.com/Ofir22822)
 - [Ezekie John Alvar](https://github.com/alvarezekiel19)
