@@ -13,6 +13,7 @@
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
+- [Michael Meixner] (https://github.com/ogMikkel)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
 - [Connie Guan](https://github.com/concon55)
