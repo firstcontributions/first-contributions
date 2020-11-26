@@ -8183,4 +8183,4 @@
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
 - [Vlad Konoshenko](https://github.com/Konoshenko)
-. [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
+- [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
