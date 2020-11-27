@@ -3726,6 +3726,7 @@
 - [Carl Walker](https://github.com/cwonline)
 - Werner E.
 - [Ahmed Mahfoudh](https://www.linkedin.com/in/ahmed-mahfoudh/)
+- [Christopher D. Cavell](https://github.com/cdcavell)
 - Werner G.
 - Karthick191999
 - Akash Jyoti Sahoo
