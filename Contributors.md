@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
@@ -3374,6 +3374,7 @@
 - [Chuck B]
 - [Mo Moledina](https://github.com/Momo4444)
 - Marius Schmauder
+- Nate McInnes
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 - [Laurynas Kirdeika](https://github.com/kirdeika)
