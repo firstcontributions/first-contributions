@@ -7999,6 +7999,7 @@
 - [Kylee Codes](https://github.com/kyleecodes)
 - [Supper Bálint](https://github.com/B-tronics)
 - [AbdUlRahman Shawareb](https://github.com/AbdUlRahmanShawareb)
+- [Farshad Ghanbari](https://github.com/Farshad-585)
 - [Ayush Kumar](https://github.com/aayushkumar777)
 - [A.Y.Wiguna](https://github.com/aywiguna)
 - [Michal Galecki](https://github.com/michalgalecki)
