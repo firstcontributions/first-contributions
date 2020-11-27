@@ -59,6 +59,7 @@
 - [Dan Westlund](https://github.com/2stashs)
 - [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
+- [Rustbolt](https://github.com/Rustbolt)
 - [Onewayfare](https://github.com/onewayfare)
 - [S-majer](https://github.com/s-majer)
 - [NoneBack](https://github.com/noneback)
