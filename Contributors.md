@@ -134,6 +134,7 @@ John Mehta
 - [Gajanand Singh](https://github.com/PRINCE1409)
 - [Peppah Jackk](https://github.com/peppahjackk)
 - [Tarang Singhal](https://github.com/Tarang-singhal)
+- [Akiraheen](https://github.com/akiraheen)
 - [Jivthesh M R](https://github.com/jivthesh)
 - [Ashutosh Raman](https://github.com/ashutosh0709)
 - [Samantha Monteiro](https://github.com/samanthakem)
