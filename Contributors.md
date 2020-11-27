@@ -13,7 +13,6 @@
 - [Dilip K N](https://github.com/dilipkn007)
 - [Anandh Gopal](https://github.com/happeecoder)
 - [Goutham S](https://github.com/GouthamSurendran)
-- [Dilip K N](https://github.com/dilipkn007/)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
 - [Rudransh Arora](https://github.com/Red-0111)
 - [MRPMOHIBURRAHMAN](https://github.com/mrpmohiburrahman)
