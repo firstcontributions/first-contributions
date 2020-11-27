@@ -8196,3 +8196,4 @@
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Amy Pharris] (https://github.com/amyrosep)
+- [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
