@@ -76,6 +76,7 @@
 - [mayosecc](https://github.com/mayosecc)
 - [Liz Kipp](https://github.com/elizabethsn7)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
+- [Aditya Prakash](https://github.com/prakashaditya369)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Kira](https://github.com/kira0x1)
 - [Robert Kulig](https://github.com/SidBarker)
