@@ -8179,6 +8179,7 @@
 - [Kenneth Raymond](https://github.com/Kenneth-Raymond)
 - Angelika Kosińska
 - [Jason Shi](https://github.com/JasonShi31545Personal)
+- [Sindhuja] (https://github.com/codeweaver22)
 - [Ted Chang] (https://github.com/tedhchang)
 - [Evan Timmons](https://github.com/timmonse)
 - [Bintang Pradana Erlangga Putra](https://github.com/bpradana)
