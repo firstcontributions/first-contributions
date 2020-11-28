@@ -121,6 +121,7 @@
 - [Barret](https://github.com/xiong-ang)
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
 - [Cat Yber](https://github.com/catyber)
+- [Naveen Acharya](https://github.com/nacharya-dev)
 - [Dong Wang](https://github.com/a1779748)
 - [Lokesh Jawale](https://github.com/Lokesh-Jawale)
 - [Renan Cleyson](https://github.com/renancleyson-dev)
