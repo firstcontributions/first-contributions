@@ -793,6 +793,7 @@
 - [Cedillo](https://github.com/zmcedillo)
 - [ahlam awawda](https://github.com/ahlam94)
 - [brigthon](https://github.com/brigthon)
+- [marzipanna](https://github.com/marzipanna)
 - [Karolina Krassowska](https://github.com/krassowska)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Jenniline Ebai](https://github.com/Jenniline)
