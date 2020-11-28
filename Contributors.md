@@ -1,4 +1,5 @@
 # Contributors
+
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
@@ -496,6 +497,7 @@
 - [Jonathan Wheeler](https://github.com/jwheeler27)
 - Pum Khai
 - Andrew Gao
+- [Pariyawit](https://github.com/Pariyawit)
 - Lefteris
 - Saish Reddy Komalla
 - jokubas
