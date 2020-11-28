@@ -14,6 +14,7 @@
 - [Michael Meixner] (https://github.com/ogMikkel)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
+- [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
