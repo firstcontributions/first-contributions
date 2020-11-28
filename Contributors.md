@@ -58,6 +58,7 @@
 - [sbapollocoder](https://github.com/sbapollocoder)
 - [Cedillo](https://github.com/zmcedillo)
 - [brigthon](https://github.com/brigthon)
+- [marzipanna](https://github.com/marzipanna)
 - [Karolina Krassowska](https://github.com/krassowska)
 - [Heru Dwi Cahya](https://github.com/herudece)
 - [Jenniline Ebai](https://github.com/Jenniline)
