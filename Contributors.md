@@ -35,6 +35,7 @@
 - [Listya](https://github.com/sikami)
 - [Ryan Kane](https://github.com/ryantylerkane)
 - [Suhrob](https://github.com/suhrobcoder)
+- Tamir Shilopsky
 - Roshan Nair
 - Tenzin Woesel
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
