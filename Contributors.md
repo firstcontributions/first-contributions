@@ -211,6 +211,7 @@
 - Vrinda Tyagi
 - Colton Francis
 - [John Robinson](https://github.com/klondikekid)
+- [Sambuddha Adhikari](https://github.com/sambuddha92)
 - [Chintan Patel](https://github.com/chihempat)
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
