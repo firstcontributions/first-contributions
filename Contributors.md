@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
@@ -24,6 +24,7 @@
 - sanjubaba
 - [Listya](https://github.com/sikami)
 - [Ryan Kane](https://github.com/ryantylerkane)
+- [Charles Green](https://github.com/charlie-green10)
 - Roshan Nair
 - Tenzin Woesel
 - [Jason Thulen]
