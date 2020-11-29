@@ -6830,6 +6830,7 @@
 - [Mohammad Quanit](https://github.com/Mohammad-Quanit)
 - [Samman](https://github.com/rssrrr)
 - [Aakanchha Trivedi](https://github.com/aakanchha01)
+- [Lisa Gordon](https://github.com/itslisagordon)
 - [Prakhar Bindal](https://github.com/prakhar-bindal)
 - [Pavel Darazhko](https://github.com/pdarazhko)
 - [Manheiba](https://github.com/manheiba)
