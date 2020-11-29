@@ -14,6 +14,7 @@
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
+- [Mario Antonio Lopez Ruiz](http://github.com/marioanloru)
 - [Michael Meixner](https://github.com/ogMikkel)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
