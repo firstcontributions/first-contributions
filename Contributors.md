@@ -8,11 +8,12 @@
 - [Rahi Khan](https://github.com/rahikhan360)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
+- [Omar Gatica Analco](https://github.com/Omarcito017)
 - [Sina Rabiei](https://github.com/nssina)
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
-- [Michael Meixner] (https://github.com/ogMikkel)
+- [Michael Meixner](https://github.com/ogMikkel)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
 -[vamsi]
