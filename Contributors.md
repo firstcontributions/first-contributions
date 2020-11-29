@@ -59,6 +59,7 @@
 - [Justin Wasserstein](https://github.com/jwasserstein)
 - [Vivan Vatsa](https://github.com/VivanVatsa)
 - anacarolinarodrigues
+- [sunivu](https://github.com/sunivu)
 - CSiLLaFM
 - [Mufti M]
 - [Ching-an Wu](https://github.com/chingandy)
