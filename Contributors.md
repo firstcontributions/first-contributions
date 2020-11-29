@@ -4687,6 +4687,7 @@
 - [Thomas Moulton](https://github.com/Thomas6)
 - [MEC](https://github.com/mecpl)
 - Muskan
+- [Graham McLaughlin](https://github.com/grahammclaughlin)
 - [MohammadHosein Javanbakht](https://github.com/CodeArtisT75)
 - [EvanRaines](https://github.com/evanraines)
 - [SKRUW](https://github.com/skruw)
