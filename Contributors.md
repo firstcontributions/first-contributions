@@ -4223,6 +4223,7 @@
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - [Brent Basiano](https://github.com/renbrent)
 - se7enmoons
+- Szpacerino
 - Ismail Kassim
 - Kate Fogg
 - Yusuf Reed
