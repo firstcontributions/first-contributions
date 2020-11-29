@@ -65,6 +65,7 @@
 - [sunivu](https://github.com/sunivu)
 - CSiLLaFM
 - [Mufti M]
+- [Jashandeep Singh](https://github.com/jashn0101)
 - [Ching-an Wu](https://github.com/chingandy)
 - [Dan Westlund](https://github.com/2stashs)
 - [Shubham Yadav](https://github.com/shuhzz)
