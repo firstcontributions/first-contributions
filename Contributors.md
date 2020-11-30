@@ -43,6 +43,7 @@
 - Roshan Nair
 - Tenzin Woesel
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
+- [Smit Mistry](https://github.com/smit-mist)
 - [Jason Thulen]
 - saurav
 - Pranjal Srivastava
