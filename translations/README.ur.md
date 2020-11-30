@@ -22,7 +22,7 @@
 ## <div dir="rtl"> اس گودام کوفورک کریں </div>
 <div dir="rtl">
 اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
-<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="اس گودام کوفورک کریں" />
+<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس گودام کوفورک کریں" />
 <br />
 یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
 </div>

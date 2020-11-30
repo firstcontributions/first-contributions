@@ -74,7 +74,7 @@
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png"alt="இந்த repository ஐ fork செய்யவும்" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="இந்த repository ஐ fork செய்யவும்" />
 
 உங்கள் கணினியில் git இல்லை என்றால், [install செய்யவும்](https://help.github.com/articles/set-up-git/).
 
