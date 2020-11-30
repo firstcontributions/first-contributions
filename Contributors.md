@@ -3006,6 +3006,7 @@
 - [evgen-evgen](http://github.com/evgen-evgen) !!!ЖЫВЕ БЕЛАРУСЬ!!!
 - [Yogesh Raisinghani](https://github.com/raisinghanii)
 - [John P](https://github.com/johnpl-io)
+- [Thai Do](https://github.com/DespoTron)
 - [Siddharth Shah](https://github.com/siddharth2411)
 - [Leonard Oeding](https://github.com/Zoedingl)
 - [Akshay Gangarde](https://github.com/akshaygangarde)
