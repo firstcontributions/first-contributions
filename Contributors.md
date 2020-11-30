@@ -1,4 +1,6 @@
 # Contributors
+- [Josh Mu](https://github.com/joshmu)
+- [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Lucas João](https://github.com/lucasljoliveira)
 - [Ryo Wright](https://github.com/ryowright)
@@ -43,6 +45,7 @@
 - sanjubaba
 - [Listya](https://github.com/sikami)
 - [Ryan Kane](https://github.com/ryantylerkane)
+- [Charles Green](https://github.com/charlie-green10)
 - [Suhrob](https://github.com/suhrobcoder)
 - Tamir Shilopsky
 - Roshan Nair
