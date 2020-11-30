@@ -8219,6 +8219,7 @@
 - [Young Yoo](https://github.com/Devedunkey)
 - [Dylan Troutman](https://github.com/nappingrn)
 - [Miguel Awili](https://github.com/miguelawili)
+- [Arnav Andrew Jose](https://github.com/crmsnbleyd)
 - [Komilos](https://github.com/kamsharipova)
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
