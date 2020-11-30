@@ -67,6 +67,7 @@
 - [gsigler](https://github.com/gsigler)
   [Aditya](https://github.com/Adinarayanreloaded)
 - [Pugets](http://github.com/Pugets)
+- [Archjbald](http://github.com/Archjbald)
 - [jaywhen](https://github.com/jaywhen)
 - [Justin Wasserstein](https://github.com/jwasserstein)
 - [Vivan Vatsa](https://github.com/VivanVatsa)
