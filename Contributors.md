@@ -3842,6 +3842,7 @@
 - Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
+- A.J.Fox (https://github.com/A-J-Fox)
 - Leszek
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
