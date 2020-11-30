@@ -89,6 +89,7 @@
 - [Anish Tilak](https://github.com/anishtilak16)
 - [OofChair] (https://github.com/OofChair)
 - [mayosecc](https://github.com/mayosecc)
+- [Nitin Kumar](https://github.com/nkthehustler)
 - [Liz Kipp](https://github.com/elizabethsn7)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Aditya Prakash](https://github.com/prakashaditya369)
