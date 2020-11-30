@@ -529,6 +529,7 @@
 - [Jonathan Wheeler](https://github.com/jwheeler27)
 - Pum Khai
 - Andrew Gao
+- [Pariyawit](https://github.com/Pariyawit)
 - Lefteris
 - Saish Reddy Komalla
 - jokubas
