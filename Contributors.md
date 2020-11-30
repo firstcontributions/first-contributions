@@ -364,6 +364,7 @@
 - [Mohammad Reza Goudarzi](https://github.com/mr-gdrz)
 - [Vibhuti Kathuria](https://github.com/vibhutikathuria)
 - [Hope Philip](https://github.com/frozenchicken)
+- [Sandy Zhou](https://github.com/s11DE)
 - [Adrian Azoitei](https://github.com/adrianAzoitei)
 - [MaxxBurn](https://github.com/MaxxBurn)
 - [Abdul Rafay](https://github.com/abdulrafay02)
