@@ -763,6 +763,7 @@
 - [Amarpreet Singh](https://github.com/Ampit)
 - [Sowmya M](https://github.com/Sowmya7501)
 - [Melinda Diaz](https://github.com/melindadiaz07)
+- [Abdelkader Djehaf](https://github.com/azenkwed)
 - [Tim Windhorst](https://github.com/atimw)
 - [Kashan Siddiqui](https://github.com/kashansiddiqui)
 - [Harsh Agarwal](https://github.com/imharsh98)
