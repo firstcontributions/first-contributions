@@ -1,5 +1,6 @@
 # Contributors
 - [Sejal Rathore](https://github.com/sejal1126)
+- [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Malvika Jindal](https://github.com/malvika-jindal)
 - [Piyush-linux](https://github.com/Piyush-linux)
 - [Joy Okwudire](https://github.com/chizycodes)
@@ -8230,7 +8231,7 @@
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Amy Pharris] (https://github.com/amyrosep)
 - [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
-- [Arnab Chakraborty](https://github.com/ArnabC27) 
+- [Arnab Chakraborty](https://github.com/ArnabC27)
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
 - [andreas789](https://github.com/andreas789)
 - [r4m4k0735w4r4r40]
