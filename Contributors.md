@@ -15,6 +15,7 @@
 - [Omar Gatica Analco](https://github.com/Omarcito017)
 - [Sina Rabiei](https://github.com/nssina)
 - [Paulson J Paul](https://github.com/paulsonjpaul)
+- [Omoigui Efosa Abel](https://github.com/efosaomoigu)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
 - [Mario Antonio Lopez Ruiz](http://github.com/marioanloru)
