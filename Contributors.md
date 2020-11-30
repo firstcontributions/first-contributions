@@ -8199,7 +8199,7 @@
 - [Ramazan Eymir](https://github.com/eymiramazan)
 - [Ankush Chauhan](https://github.com/An-prog-hub)
 - [Mike Ross](https://github.com/mrosstech)
-- [zen2k] (https://github.com/zen2k)
+- [Rajesh Udupi] (https://github.com/zen2k)
 - [Vishal Nair](https://github.com/VishMN)
 - [Juandiegox21](https://github.com/juandiegox21)
 - [Ben Herbert](https://github.com/ben22020)
