@@ -1,5 +1,6 @@
 # Contributors
 - [Sejal Rathore](https://github.com/sejal1126)
+- [Ryo Wright](https://github.com/ryowright)
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Malvika Jindal](https://github.com/malvika-jindal)
 - [Piyush-linux](https://github.com/Piyush-linux)
