@@ -1222,6 +1222,7 @@
 - [Ishan Roychowdhury](https://github.com/hi101000)
 - [Uzma Khalil Shaikh](https://github.com/Uzma-Shaikh)
 - [Siddharth Kothari](https://github.com/siddharth997-png)
+- [Cliff Novak](https://www.github.com/Cliffwn)
 - [Anandh Gopal](https://github.com/happeecoder)
 - [Siddesh Vyavahare](https://github.com/VyavahareSiddesh)
 - [Goutham S](https://github.com/GouthamSurendran)
