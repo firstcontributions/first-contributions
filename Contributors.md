@@ -1,4 +1,5 @@
 # Contributors
+- [Ryu Pradana](https://github.com/whoisryu)
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
@@ -31,8 +32,8 @@
 - [Michael Meixner](https://github.com/ogMikkel)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
--[vamsi]
--[Milan Zagorac](https://github.com/milzags)
+- [vamsi]
+- [Milan Zagorac](https://github.com/milzags)
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [Thomas Glenn] (https://github.com/thomasglenngit)
@@ -308,7 +309,7 @@
 - [Scott Henwood](https://github.com/ScottHenwood)
 - Rich Peaua
 - OLvine George
--Tadashi-hue
+  -Tadashi-hue
 - [tony](https://github.com/TowKnee0)
 - [Chronowork1](https://github.com/Chronowork1)
 - [Andrew Nguyen](https://github.com/andrew1767)
