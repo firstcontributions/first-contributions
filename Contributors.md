@@ -496,6 +496,7 @@
   [Filza zarin](https://github.com/Filzazarin)
   [Çağrı Kızılkan](https://github.com/cgrkzlkn)
   [Chamika Visal](https://github.com/chamikaVisal)
+- [David Oren](https://github.com/knowledgeReignsSupreme)
 - [Jasmine Moua](https://github.com/mouajas)
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Joseph Jakes](https://github.com/josephjakes)
