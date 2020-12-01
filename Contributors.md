@@ -1,5 +1,6 @@
 # Contributors
 - [Ryu Pradana](https://github.com/whoisryu)
+- [Ryan Dansie](https://github.com/rdansie)
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
