@@ -53,6 +53,7 @@
 - Tamir Shilopsky
 - Roshan Nair
 - Tenzin Woesel
+- [Ali Aljowaher](https://github.com/alialjowaher)
 - [David Kozdra](https://github.com/DavidKozdra)
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Smit Mistry](https://github.com/smit-mist)
