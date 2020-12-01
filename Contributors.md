@@ -51,6 +51,7 @@
 - Tamir Shilopsky
 - Roshan Nair
 - Tenzin Woesel
+- [David Kozdra](https://github.com/DavidKozdra)
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Smit Mistry](https://github.com/smit-mist)
 - [Jason Thulen]
