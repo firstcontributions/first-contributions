@@ -3630,6 +3630,7 @@
 - [Nigama Vykari](https://github.com/Nigama-oss)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
+- [Hicmade] (http://github.com/Hicmade)
 - [Namraj Pudasaini](http://githubcom/Namrajp)
 - [Itamar Hoshmand](https://github.com/hoshmy)
 - [Richie C.](https://github.com/RTek-dev)
