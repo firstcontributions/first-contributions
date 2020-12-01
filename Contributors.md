@@ -496,6 +496,7 @@
   [Chamika Visal](https://github.com/chamikaVisal)
 - [Jasmine Moua](https://github.com/mouajas)
 - [Jack Joseph](https://github.com/dunleavyjack)
+- [Joseph Jakes](https://github.com/josephjakes)
 - [Waqar Mastan](https://github.com/waqarHocain)
 - [Austin Cuddeback](https://github.com/ajcuddeback)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
