@@ -1,5 +1,6 @@
 # Contributors
 - [Ryu Pradana](https://github.com/whoisryu)
+- [Fatih Eren Alan](https://github.com/fatiko16)
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
