@@ -1,4 +1,5 @@
 # Contributors
+
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Ryan Dansie](https://github.com/rdansie)
@@ -26,6 +27,7 @@
 - [Sora Kanosue](https://github.com/skberkeley)
 - [Rahi Khan](https://github.com/rahikhan360)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
+- [Malach Salama](https://github.com/malachsalama)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - [Omar Gatica Analco](https://github.com/Omarcito017)
 - [Sina Rabiei](https://github.com/nssina)
