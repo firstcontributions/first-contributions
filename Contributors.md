@@ -1,5 +1,4 @@
 # Contributors
-
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Ryan Dansie](https://github.com/rdansie)
