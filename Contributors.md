@@ -12,6 +12,7 @@
 - [Malvika Jindal](https://github.com/malvika-jindal)
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Piyush-linux](https://github.com/Piyush-linux)
+- [Debottam Kundu](https://github.com/debottamKundu)
 - [Joy Okwudire](https://github.com/chizycodes)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
