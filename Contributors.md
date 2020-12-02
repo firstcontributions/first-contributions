@@ -250,6 +250,7 @@
 - [Andre Kurniawan](https://github.com/oidre)
 - [Hussein Akar](https://github.com/hussein-akar)
 - [Nate Osterfeld](https://github.com/NateOsterfeld)
+- [Nicholas Ryan](https://github.com/niccoryan0)
 - [Rik Kraan](https://github.com/rikkraanvantage)
 - [Dillon Rooke](https://github.com/DillonRooke)
 - Azri Soufi
