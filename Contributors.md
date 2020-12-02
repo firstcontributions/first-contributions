@@ -47,6 +47,7 @@
 - [Milan Zagorac](https://github.com/milzags)
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
+- [John Lee](https://github.com/syntheticjohn)
 - [Thomas Glenn] (https://github.com/thomasglenngit)
 - [Becky Richardson] (https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
