@@ -44,6 +44,7 @@
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [Thomas Glenn] (https://github.com/thomasglenngit)
+- [Becky Richardson] (https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
