@@ -1,4 +1,5 @@
 # Contributors
+- [Gibson Sanchez](https://github.com/sgibson19)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [Tashawn Williams](https://github.com/crutell331`)
