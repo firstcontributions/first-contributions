@@ -1,4 +1,5 @@
 # Contributors
+
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Ryan Dansie](https://github.com/rdansie)
@@ -181,6 +182,7 @@
 - [Akash Purushotham](https://github.com/itsakashp)
 - [Preetham Pathi](https://github.com/preethampathi2305)
 - [Kamto Astrid](https://github.com/KT360)
+- Himanshu Bisht
 - [Oyeleke Lekan](https://github.com/Sirloko)
 - [G2048](https://github.com/G2048)
 - [DionWeb](https://github.com/dionweb)
