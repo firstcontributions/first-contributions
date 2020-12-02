@@ -1,6 +1,7 @@
 # Contributors
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Tashawn Williams](https://github.com/crutell331`)
+- [Vaibhav Sonawane](https://github.com/vaibhavcs99)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
