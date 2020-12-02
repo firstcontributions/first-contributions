@@ -1,4 +1,5 @@
 # Contributors
+- [Tariqul Islam](https://github.com/tstariqul)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Malvika Jindal](https://github.com/malvika-jindal)
