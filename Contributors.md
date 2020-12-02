@@ -1,6 +1,7 @@
 # Contributors
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Tashawn Williams](https://github.com/crutell331`)
+- [Vaibhav Sonawane](https://github.com/vaibhavcs99)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Josh Mu](https://github.com/joshmu)
 - [Nitin Gupta](https://github.com/nitingupta-123)
@@ -45,6 +46,7 @@
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [Thomas Glenn] (https://github.com/thomasglenngit)
+- [Becky Richardson] (https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
@@ -8218,6 +8220,7 @@
 - [Opal Thongpetch](https://github.com/crystalclear506/)
 - [Slawek Biel](https://github.com/slawekslex)
 - [Nessie](https://github.com/inesisprograming)
+- [Darwin Waqaddi](https://github.com/dwaqaddi)
 - [Joel Ferreira](https://github.com/DevDotJoel)
 - [Ian Thomas](https://github.com/DevIMT)
 - [Sun Zhenliang](https://github.com/HiSunzhenliang)
@@ -8287,3 +8290,4 @@
 - [Sachin Prasad](https://github.com/Sachin-Prasad-2001)
 - [Łukasz Dacz](https://github.com/gogetto1)
 - [Sonali Sidana](https://github.com/sonalisidana13)
+- [Madeline Moritz](https://github.com/mmoritz8)
