@@ -407,6 +407,7 @@
 - [Adrian Azoitei](https://github.com/adrianAzoitei)
 - [MaxxBurn](https://github.com/MaxxBurn)
 - [Abdul Rafay](https://github.com/abdulrafay02)
+- [hasan arcas](https://github.com/hasanarcas)
 - [Matthew Burford](https://github.com/Mattb709)
 - [Sristy Sharma](https://github.com/beertocode)
 - [Matthew Burford](https://github.com/Mattb709)
