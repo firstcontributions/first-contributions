@@ -1,4 +1,5 @@
 # Contributors
+- [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Fatih Eren Alan](https://github.com/fatiko16)
