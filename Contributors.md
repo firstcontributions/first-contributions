@@ -5658,6 +5658,7 @@
 - [Jasmine Tracey](https://github.com/traceyjas)
 - [Gabriel Ilochi](https://github.com/gblend)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
+- [Kamal Kanti Chakma](https://github.com/chakmakamal)
 - [Hary Kwon](https://github.com/Harry-Kwon)
 - [Drew Sommer](https://github.com/apsommer)
 - [Ayush Bhardwaj](https://github.com/ayush97bhardwaj)
