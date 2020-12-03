@@ -8316,3 +8316,4 @@
 - [Madeline Moritz](https://github.com/mmoritz8)
 - [Adam Thompson-Sharpe](https://github.com/MysteryBlokHed)
 - [Nitzan Lev](https://github.com/ballonura)
+- [Harish Bahl](https://github.com/harishbehl27)
