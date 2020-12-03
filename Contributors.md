@@ -1,5 +1,6 @@
 # Contributors
 - [Aritra Ghosh](https://github.com/GitHubAri/)
+- [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/]
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Fatih Eren Alan](https://github.com/fatiko16)
