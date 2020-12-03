@@ -258,7 +258,7 @@
 - Azri Soufi
 - Vrinda Tyagi
 - Colton Francis
-- [Aleem Osman] (https://github.com/aleemosman)
+- [Aleem Osman](https://github.com/aleemosman)
 - [John Robinson](https://github.com/klondikekid)
 - [Sambuddha Adhikari](https://github.com/sambuddha92)
 - [Chintan Patel](https://github.com/chihempat)
