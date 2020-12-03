@@ -8305,6 +8305,7 @@
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
 - [andreas789](https://github.com/andreas789)
 - [r4m4k0735w4r4r40]
+- [Joshua Qualls] (https://github.com/JTQualls)
 - [Tariqul Islam](https://github.com/tstariqul)
 - [diulv](https://github.com/diulv)
 - [Joewat96](https://github.com/Joewat96)
