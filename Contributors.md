@@ -2814,6 +2814,7 @@
 - [undefined-None](https://github.com/undefined-None)
 - [Darshan][https://github.com/darshan-003]
 - [Bryan Guillen](https://github.com/bryg217/)
+- [Shakhzod Narzullaev](https://github.com/jokecoder)
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Yukti Kathuria](https://github.com/Yukti-K)
 - [annkimm](https://github.com/annkimm)
