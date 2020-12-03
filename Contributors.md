@@ -7,6 +7,7 @@
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
+- [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Kshitij Patil](https://github.com/Malevalous)
 - [Josh Mu](https://github.com/joshmu)
