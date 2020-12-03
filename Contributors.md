@@ -1625,6 +1625,7 @@
 - [Viswanath Natraj](https://github.com/viswa08)
 - [Andy Huang](https://github.com/andyhuang3)
 - [Quack Jack](https://github.com/quackjack)
+- [Noah Bortel](https://github.com/nwb712)
 - [Yonatan Gal](https://github.com/yonatanGal)
 - [Mayank Jain](https://github.com/mayankjain985)
   [Akshat Tyagi]
