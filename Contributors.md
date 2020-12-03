@@ -1,4 +1,5 @@
 # Contributors
+- [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/]
 - [Gibson Sanchez](https://github.com/sgibson19)
