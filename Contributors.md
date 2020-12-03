@@ -75,6 +75,7 @@
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Smit Mistry](https://github.com/smit-mist)
 - [Jason Thulen]
+- [Conanix](https://github.com/Conanix)
 - saurav
 - Pranjal Srivastava
   [Justin Vocke](https://github.com/justin-vocke)
