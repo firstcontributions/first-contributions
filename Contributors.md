@@ -49,6 +49,7 @@
 - [Bijay Thapa](https://github.com/dbijaya)
 - [John Lee](https://github.com/syntheticjohn)
 - [Thomas Glenn] (https://github.com/thomasglenngit)
+- [Bingyang Hu] (https://github.com/hby93222)
 - [Becky Richardson] (https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
