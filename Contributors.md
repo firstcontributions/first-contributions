@@ -1032,7 +1032,7 @@
 - [Emiliano Leal](https://github.com/Shimmah)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Luis Martinez](https://github.com/Luis1299)
-- [Martin Castillo](https://github.com/LexNit)
+- [Tom Shanahan](https://github.com/tom-shanahan)
 - [Julio Julao](https://github.com/juliojulao)
 - [Adriana Estrada](https://github.com/adrikarina123)
 - [Dimi](https://github.com/D-i-m-i)
