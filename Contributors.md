@@ -6007,6 +6007,7 @@
 - [lim](https://github.com/hmlimkokhoe)
 - Walker Scott
 - Vaishnavi
+- [Mandeep Kumar Gupta](https://github.com/Kingmandeep)
 - [Nehal Patel](https://github.com/nehalpatel)
 - [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
