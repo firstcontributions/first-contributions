@@ -18,6 +18,7 @@
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
+- [Aditya Bhandoh](https://github.com/adityaB02)
 - [Lucas João](https://github.com/lucasljoliveira)
 - [Ryo Wright](https://github.com/ryowright)
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
