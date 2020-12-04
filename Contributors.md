@@ -18,6 +18,8 @@
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
+- [Chinmay Mulay](https://github.com/cmulay)
+-[Atharva Chandwadkar](https://github.com/atharva21-stack)
 - [Aditya Bhandoh](https://github.com/adityaB02)
 - [Lucas João](https://github.com/lucasljoliveira)
 - [Ryo Wright](https://github.com/ryowright)
@@ -8328,4 +8330,3 @@
 - [Adam Thompson-Sharpe](https://github.com/MysteryBlokHed)
 - [Nitzan Lev](https://github.com/ballonura)
 - [Harish Bahl](https://github.com/harishbehl27)
-- [Chinmay Mulay](https://github.com/cmulay)
