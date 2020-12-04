@@ -1,4 +1,5 @@
 # Contributors
+
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [MrNNP](https://github.com/MrNNP)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
@@ -9,9 +10,9 @@
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
 - [Aaron Ramirez](https://github.com/aramxc)
-- [Ryan Dansie](https://github.com/rdansie)
--[Brian Branca](https://github.com/bmbranca)
+- [Ryan Dansie](https://github.com/rdansie) -[Brian Branca](https://github.com/bmbranca)
 - [Kshitij Patil](https://github.com/Malevalous)
+- [James Sheppard](https://github.com/jgsheppa)
 - [Josh Mu](https://github.com/joshmu)
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Nitin Gupta](https://github.com/nitingupta-123)
