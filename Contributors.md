@@ -1,5 +1,6 @@
 # Contributors
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
+- [MrNNP](https://github.com/MrNNP)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/]
 - [Gibson Sanchez](https://github.com/sgibson19)
@@ -9,7 +10,9 @@
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
+- [Brian Branca](https://github.com/bmbranca)
 - [Kshitij Patil](https://github.com/Malevalous)
+- [James Sheppard](https://github.com/jgsheppa)
 - [Josh Mu](https://github.com/joshmu)
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Nitin Gupta](https://github.com/nitingupta-123)
@@ -22,6 +25,7 @@
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Piyush-linux](https://github.com/Piyush-linux)
 - [Debottam Kundu](https://github.com/debottamKundu)
+- [Elbin Cenisev](https://github.com/elbin-cenisev)
 - [Joy Okwudire](https://github.com/chizycodes)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
@@ -44,6 +48,7 @@
 - [Alioune Diagne](https://github.com/Alioune98)
 - [Omoigui Efosa Abel](https://github.com/efosaomoigu)
 - [Caleb Renfroe](https://github.com/ccrenfroe)
+- [benso1](https://github.com/benso1)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
 - [Tasnim Ahmed](https://github.com/ktat-93)
@@ -52,6 +57,7 @@
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
 - [vamsi]
+- [L Cai] (https://github.com/lbcai)
 - [Milan Zagorac](https://github.com/milzags)
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
@@ -6003,6 +6009,7 @@
 - [lim](https://github.com/hmlimkokhoe)
 - Walker Scott
 - Vaishnavi
+- [Mandeep Kumar Gupta](https://github.com/Kingmandeep)
 - [Nehal Patel](https://github.com/nehalpatel)
 - [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
