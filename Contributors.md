@@ -1,4 +1,5 @@
 # Contributors
+
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [MrNNP](https://github.com/MrNNP)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
@@ -8,6 +9,7 @@
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
+- [Kishan Patel](https://github.com/KishanPatelGit)
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Brian Branca](https://github.com/bmbranca)
