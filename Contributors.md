@@ -4,6 +4,7 @@
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/]
 - [Gibson Sanchez](https://github.com/sgibson19)
+- [Frank MUNGERI](https://github.com/mfrank37)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [Tashawn Williams](https://github.com/crutell331`)
