@@ -4455,6 +4455,7 @@
 - [Rojan Karn](https://github.com/rokarn12)
   ManjushaTvs
 - [Tosin Aremu](https://github.com/Tohsyne)
+- [Simen Daehlin](https://github.com/Eventyret)
 - [Raul Galindo](https://github.com/raulesgalindo)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [Debanjan Dey](https://https://github.com/debjde6400)
