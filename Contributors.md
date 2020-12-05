@@ -29,6 +29,7 @@
 - [Malvika Jindal](https://github.com/malvika-jindal)
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Piyush-linux](https://github.com/Piyush-linux)
+- [Joseph Tsai](https://github.com/jtsa0267)
 - [Debottam Kundu](https://github.com/debottamKundu)
 - [Elbin Cenisev](https://github.com/elbin-cenisev)
 - [Joy Okwudire](https://github.com/chizycodes)
