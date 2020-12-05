@@ -97,6 +97,7 @@
 - saurav
 - Pranjal Srivastava
   [Justin Vocke](https://github.com/justin-vocke)
+  [Ken Walsh](https://github.com/kenwals/)
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Gabriel Santana](https://github.com/gabrielsanttana)
 - [Mohd Danish](https://github.com/mohddanish-cse)
