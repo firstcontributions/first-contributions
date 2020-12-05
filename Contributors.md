@@ -460,6 +460,7 @@
 - [Ali](https://github.com/psmohammedali)
 - [Trishita Pingolia](http://github.com/trishitapingolia)
 - [Emre Karayalcin](https://github.com/emrekarayalcin99)
+- [Akif Sonmez](https://github.com/akifsonmez/)
 - [Andy Guschwan](https://github.com/gooseswan2)
 - [David Wallace](https://github.com/dwallace-web/)
 - [Priyanshu kumar Singh](https://github.com/Priyanshu-kumar-Singh)
