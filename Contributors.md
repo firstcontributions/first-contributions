@@ -40,6 +40,7 @@
 - [Lyle Kuykendall](https://github.com/elkirk)
 - [Danny Tran](https://github.com/DTDevelop)
 - [Jericho De Guzman](https://github.com/Greywolvesss)
+- [Jason Flaherty](https://github.com/jfla011)
 - [TARUN](https://github.com/Tarun200999)
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [chetan dehane](https://github.com/ChetanDehane)
