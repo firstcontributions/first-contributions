@@ -79,6 +79,7 @@
 - [Nathan Geyer](https://github.com/n8orz)
 - [Hannanel Gershinsky](https://github.com/hannanel100)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
+- [Daniel Reinhardt] (https://github.com/danieljreinhardt)
 - [Priya Srivastava] (https://github.com/Priya730)
 - [Data Khukhua] (https://github.com/DataKhukhua)
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
