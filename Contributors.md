@@ -8347,3 +8347,4 @@
 - [Harish Bahl](https://github.com/harishbehl27)
 - [Austin Accomando](https://github.com/reuse898)
 - [Joshua Dillon](https://github.com/jdil1223)
+- [Chris Clements](https://github.com/cclements1384)
