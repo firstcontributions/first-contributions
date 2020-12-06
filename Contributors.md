@@ -117,6 +117,7 @@
 - [Eduardo Gonzalez](https://github.com/Eduardo-Gonz)
 - [Jessa Daggs](https://github.com/jldaggs88)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
+- [Auburg] (https://github.com/Auburg)
 - [Prakhar Mathur](https://github.com/Prakhar030)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
 - [Ching-an Wu](https://github.com/chingandy)
