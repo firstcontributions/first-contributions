@@ -1,4 +1,5 @@
 # Contributors
+
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [MrNNP](https://github.com/MrNNP)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
@@ -22,8 +23,7 @@
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
 - [Chinmay Mulay](https://github.com/cmulay)
-- [Marek Nagy](https://github.com/marnagy)
--[Atharva Chandwadkar](https://github.com/atharva21-stack)
+- [Marek Nagy](https://github.com/marnagy) -[Atharva Chandwadkar](https://github.com/atharva21-stack)
 - [Aditya Bhandoh](https://github.com/adityaB02)
 - [Lucas João](https://github.com/lucasljoliveira)
 - [Ryo Wright](https://github.com/ryowright)
@@ -7458,6 +7458,7 @@
 - [Sandi aris](https://github.com/sandi-aris)
 - [Fred Cobb]
 - [Jordyn! :)]
+  MeetPatel41011
 - [Alice Lia Stapleton](https://github.com/slimelia)
 - [Ruan Knoetze](https://github.com/RuanKnoetze0308)
 - [Artyom Novoselov](https://github.com/potyoma)
@@ -8349,4 +8350,4 @@
 - [Austin Accomando](https://github.com/reuse898)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
-- [Justin Maksimczuk](https://github.com/justinmaks) 
+- [Justin Maksimczuk](https://github.com/justinmaks)
