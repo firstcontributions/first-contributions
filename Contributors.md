@@ -8347,6 +8347,7 @@
 - [Nitzan Lev](https://github.com/ballonura)
 - [Harish Bahl](https://github.com/harishbehl27)
 - [Austin Accomando](https://github.com/reuse898)
+- [Aditya B](https://github.com/adifeb/first-contributions)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks) 
