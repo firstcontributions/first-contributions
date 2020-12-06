@@ -148,6 +148,7 @@
 - [Melanys Figueredo](https://github.com/melanyss)
 - [Vandan Gorade](https://github.com/vangorade)
 - [Void2g](https://github.com/Void2g)
+- [Bartechnika](https://github.com/Bartechnika)
 - [Telmo Duarte](https://github.com/Matcheryt)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
