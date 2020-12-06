@@ -2544,6 +2544,7 @@
 - [Nathan Geyer](https://github.com/n8orz)
 - [Shreyas Maheshwari](https://github.com/shreyubee)
 - [Hannanel Gershinsky](https://github.com/hannanel100)
+- [Daniel Reinhardt](https://github.com/danieljreinhardt)
 - [Vivek Bhadola](https://github.com/dynamic-26)
 - [Priya Srivastava](https://github.com/Priya730)
 - [Sayali Naval](https://github.com/sayalinaval)
