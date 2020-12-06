@@ -6530,6 +6530,7 @@
 - [Joe Lee](https://github.com/jlee-sysdig)
 - [Grayson Watkins](https://github.com/Graysless)
 - [Garima Kalra](https://github.com/kalragarima)
+- Sean Chu
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Ram Ghimire](http://github.com/Ramghimirecr7)
 - [Marko Monsalud](https://github.com/markomonsalud)
@@ -8145,7 +8146,6 @@
 - [Lucas Alves Teixeira](https://github.com/lat94)
 - [Spencer Broomhead](https://github.com/FishtheFish)
 - [Samantha B <3]
-
 - [Lata Agrawal](https://github.com/la-dev-agr)
 - [Jacob Perez](https://github.com/jperez210)
 - [Fajar Muzaky](https://github.com/fajarmzky)
