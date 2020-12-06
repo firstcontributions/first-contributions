@@ -49,7 +49,7 @@
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [chetan dehane](https://github.com/ChetanDehane)
 - [Sora Kanosue](https://github.com/skberkeley)
-- [Rahi Khan](https://github.com/rahikhan360)
+- [Rahi Khan](https://github.com/rahi-khan)
 - [ABDENNEBI Achref](https://github.com/achrefabdennebi)
 - [Malach Salama](https://github.com/malachsalama)
 - [Matthew Ivler](https://github.com/mivler)
