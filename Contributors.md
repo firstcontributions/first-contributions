@@ -10,6 +10,7 @@
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Fatih Eren Alan](https://github.com/fatiko16)
+- [paradocx96](https://github.com/paradocx96)
 - [Gary Mathews II](https://github.com/gmathews6)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
