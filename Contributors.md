@@ -19,6 +19,7 @@
 - [James Sheppard](https://github.com/jgsheppa)
 - [Josh Mu](https://github.com/joshmu)
 - [Hector Deleon](https://github.com/hdeleon99)
+- [Fregg](https://github.com/frozenegg)
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
