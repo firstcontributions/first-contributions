@@ -3041,6 +3041,7 @@
 - [Ido Elyashar](https://github.com/Idoos)
 - [Neely Mann](https://github.com/NeelyAnne)
 - [Patrick Sheehan](https://github.com/patrick-sheehan)
+- [Andrej Holesa](https://github.com/holesa)
 - [Akib Maredia](https://github.com/akibmaredia)
 - [Ahel Das Chatterjee](https://github.com/Ahel2000)
 - [Borcani Robert-Raul](https://github.com/borcanirobert)
@@ -8356,4 +8357,4 @@
 - [Aditya B](https://github.com/adifeb/first-contributions)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
-- [Justin Maksimczuk](https://github.com/justinmaks) 
+- [Justin Maksimczuk](https://github.com/justinmaks)
