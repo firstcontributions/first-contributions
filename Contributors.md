@@ -5,6 +5,7 @@
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/]
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
+- [Jordan Mathew](https://github.com/jmat94)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Fatih Eren Alan](https://github.com/fatiko16)
