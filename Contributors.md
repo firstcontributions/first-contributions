@@ -6663,6 +6663,7 @@
 - [richie](https://github.com/cowsed)
 - [Idir D](https://github.com/idir75)
 - [porks](https://github.com/csporks)
+- [Wiktoria Peretiatkowicz](https://github.com/wkktoria)
 - [Hayley McCafferty](https://github.com/HaylzRandom)
 - [Lucas Lo](https://github.com/lucaslmlok)
 - [meih](https://github.com/meih124)
