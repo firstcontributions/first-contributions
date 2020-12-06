@@ -8364,3 +8364,4 @@
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
+- [Tom Kirk](https://github.com/t1b3r1us)
