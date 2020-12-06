@@ -8328,6 +8328,7 @@
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Amy Pharris] (https://github.com/amyrosep)
+- [Aditya B](https://github.com/adifeb/first-contributions)
 - [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
 - [Arnab Chakraborty](https://github.com/ArnabC27)
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
