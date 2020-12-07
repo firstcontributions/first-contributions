@@ -66,6 +66,7 @@
 - [Alioune Diagne](https://github.com/Alioune98)
 - [Omoigui Efosa Abel](https://github.com/efosaomoigu)
 - [Caleb Renfroe](https://github.com/ccrenfroe)
+- [Brett Searle](https://github.com/Brettasearle)
 - [benso1](https://github.com/benso1)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
