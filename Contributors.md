@@ -73,6 +73,7 @@
 - [Leevi Andrews](https://github.com/leeviaa)
 - [vamsi]
 - [L Cai](https://github.com/lbcai)
+- [Karen Suzue](https://github.com/karensuzue)
 - [Milan Zagorac](https://github.com/milzags)
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
