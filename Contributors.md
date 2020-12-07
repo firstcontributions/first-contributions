@@ -306,6 +306,7 @@
 - [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere](https://github.com/RationalEar)
 - [Jake Cillay](https://github.com/jcillay)
+- [Alex Bishop](https://github.com/Alex-Bishop1296)
 - [Gunnar Jaeck](https://github.com/gjaeck)
 - [Mo Rahman](https://github.com/mrmm2703)
 - [Trim Muharremi](https://github.com/TrimMuharremi)
