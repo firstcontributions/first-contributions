@@ -42,6 +42,7 @@
 - [Debottam Kundu](https://github.com/debottamKundu)
 - [Elbin Cenisev](https://github.com/elbin-cenisev)
 - [Joy Okwudire](https://github.com/chizycodes)
+- [Joshua Razon](https://github.com/joshrazon)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
 - [Yeonsoo Kwon](https://github.com/yskwon38)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
