@@ -152,6 +152,7 @@
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
 - [Jessica Chen](https://github.com/jessicreative)
+- [mowafess] (https://github.com/mowafess)
 - [Melanys Figueredo](https://github.com/melanyss)
 - [Vandan Gorade](https://github.com/vangorade)
 - [Void2g](https://github.com/Void2g)
