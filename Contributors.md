@@ -3645,6 +3645,7 @@
 - [Shrihari Mohan](https://github.com/ShrihariMohan)
 - [Vysh kk](https://github.com/Vyshkk)
 - [Andres Advincula](https://github.com/an288705)
+- [Vincent Miranda](https://github.com/vinceldric)
 - [Yash Gaitonde](https://github.com/ygaitonde)
 - [Michael He](https://github.com/yh8953)
 - [Wolfgang Feurer](https://github.com/wfeurer)
