@@ -20,6 +20,7 @@
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Brian Branca](https://github.com/bmbranca)
+- [Emil Joseph](https://github.com/ejoseph89)
 - [Kshitij Patil](https://github.com/Malevalous)
 - [James Sheppard](https://github.com/jgsheppa)
 - [Josh Mu](https://github.com/joshmu)
