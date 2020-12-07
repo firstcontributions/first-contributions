@@ -71,6 +71,7 @@
 - [Leevi Andrews](https://github.com/leeviaa)
 - [vamsi]
 - [L Cai](https://github.com/lbcai)
+- [Karen Suzue](https://github.com/karensuzue)
 - [Milan Zagorac](https://github.com/milzags)
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
@@ -8356,4 +8357,4 @@
 - [Aditya B](https://github.com/adifeb/first-contributions)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
-- [Justin Maksimczuk](https://github.com/justinmaks) 
+- [Justin Maksimczuk](https://github.com/justinmaks)
