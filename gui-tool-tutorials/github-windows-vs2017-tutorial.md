@@ -16,7 +16,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 ## Fork this repository
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 
@@ -26,7 +26,7 @@ Most top-level GitHub repos (i.e. ones not forked from any other repo) have a sm
 
 ## Clone your repository
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 The next step is to clone your repo down to your machine so you can begin making changes. Visual Studio needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
@@ -117,11 +117,11 @@ At this point you have completed your change but it still only resides in your r
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
-<img src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 

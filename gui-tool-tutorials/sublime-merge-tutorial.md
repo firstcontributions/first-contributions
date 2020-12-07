@@ -21,13 +21,13 @@ Download [Sublime Merge](https://www.sublimemerge.com/), Install and open it.
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 This will create of copy of this repository in your account.
 
 
 ## Clone the repository
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 In Sublime Merge, go to File -> Clone Repository.
 
@@ -93,11 +93,11 @@ Submit changes on the origin branch if you want the changes to reflect in the ma
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
