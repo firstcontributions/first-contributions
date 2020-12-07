@@ -156,6 +156,7 @@
 - [Void2g](https://github.com/Void2g)
 - [Bartechnika](https://github.com/Bartechnika)
 - [Telmo Duarte](https://github.com/Matcheryt)
+- [swang]
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
 - [Anish Tilak](https://github.com/anishtilak16)
