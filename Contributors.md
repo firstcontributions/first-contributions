@@ -4,11 +4,12 @@
 - [MrNNP](https://github.com/MrNNP)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
-- [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/]
+- [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
 - [Jordan Mathew](https://github.com/jmat94)
 - [Ryu Pradana](https://github.com/whoisryu)
+- [Augusto Sales](https://github.com/acssales/)
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [paradocx96](https://github.com/paradocx96)
@@ -28,7 +29,8 @@
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
 - [Chinmay Mulay](https://github.com/cmulay)
-- [Marek Nagy](https://github.com/marnagy) -[Atharva Chandwadkar](https://github.com/atharva21-stack)
+- [Marek Nagy](https://github.com/marnagy)
+- [Atharva Chandwadkar](https://github.com/atharva21-stack)
 - [Aditya Bhandoh](https://github.com/adityaB02)
 - [Lucas João](https://github.com/lucasljoliveira)
 - [Ryo Wright](https://github.com/ryowright)
@@ -83,7 +85,7 @@
 - [Connie Guan](https://github.com/concon55)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
-  [Ezekiel Ogunniwa](https://github.com/Eminentzeal)
+- [Ezekiel Ogunniwa](https://github.com/Eminentzeal)
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Omar Morales Ortega](https://github.com/OmarMorales71)
 - [Jon Newton](https://github.com/jrnewton)
@@ -108,8 +110,8 @@
 - [Conanix](https://github.com/Conanix)
 - saurav
 - Pranjal Srivastava
-  [Justin Vocke](https://github.com/justin-vocke)
-  [Ken Walsh](https://github.com/kenwals/)
+- [Justin Vocke](https://github.com/justin-vocke)
+- [Ken Walsh](https://github.com/kenwals/)
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Gabriel Santana](https://github.com/gabrielsanttana)
 - [Mohd Danish](https://github.com/mohddanish-cse)
@@ -366,7 +368,7 @@
 - [Scott Henwood](https://github.com/ScottHenwood)
 - Rich Peaua
 - OLvine George
-  -Tadashi-hue
+- Tadashi-hue
 - [tony](https://github.com/TowKnee0)
 - [Chronowork1](https://github.com/Chronowork1)
 - [Andrew Nguyen](https://github.com/andrew1767)
