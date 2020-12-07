@@ -8375,3 +8375,4 @@
 - [Andrew Bankston](https://github.com/andrewbankston)
 - [Fernando Harris](https://github.com/fharris)
 - [Ryan Lynch] (https://github.com/UniqueClone)
+- [Evgeny Vlasov] (https://github.com/vlasove)
