@@ -2790,6 +2790,7 @@
 - [RAM PRAKASH](https://github.com/thedoodler)
 - [Pilo](https://github.com/ilovenullptr)
 - [Eveline](https://github.com/eveline-xie)
+- [Didar Mamyrov](https://github.com/m-didar)
 - [Jackson Allen](https://github.com/CrimsonShiroe)
 - [Magdalena Bigaj](https://github.com/Magdalena-Bigaj)
 - [Michal Piatkowski](https://github.com/m-piatkowski-dev)
@@ -8372,3 +8373,5 @@
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
+- [Fernando Harris](https://github.com/fharris)
+- [Ryan Lynch] (https://github.com/UniqueClone)
