@@ -3153,6 +3153,7 @@
 - Arpan
 - [Ryan Doherty](https://github.com/r-doherty)
 - [Mateus Faria](https://github.com/WebMat1)
+- [Chelsea Ramos](https://github.com/chelseanbr)
 - Mark - mark-nu
 - Zach Sonnenblick
 - [Darrien Chow](https://github.com/darrien-c)
