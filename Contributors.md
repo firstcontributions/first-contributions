@@ -149,6 +149,7 @@
 - [S-majer](https://github.com/s-majer)
 - [NoneBack](https://github.com/noneback)
 - [ChenPengf](https://github.com/ChenPengf)
+- [Mayorbcode](https://github.com/mayorbcode)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
 - [Jessica Chen](https://github.com/jessicreative)
