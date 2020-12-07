@@ -453,6 +453,7 @@
 - [Jannick Bremm](https://github.com/JannickBremm)
 - [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
+- [Dence Kurian](https://github.com/dencekurian)
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis](https://github.com/KHALIDFRANCIS)
 - AARA
@@ -470,6 +471,7 @@
 - [Mark R Baker](https://github.com/mrbaker1917)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Wildan Bash](https://github.com/wildanbash)
+
 - [Arthur Lecert](https://github.com/Arthlec)
 - [Anindo Chakraborty](https://github.com/anindo78)
 - [Arif Bashar](https://github.com/arif-bashar)
