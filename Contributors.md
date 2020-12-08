@@ -2,6 +2,7 @@
 
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [MrNNP](https://github.com/MrNNP)
+- [Hayden Sprinkle] (https://github.com/haydensprinkle)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
