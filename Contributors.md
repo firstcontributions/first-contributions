@@ -74,6 +74,7 @@
 - [Brett Searle](https://github.com/Brettasearle)
 - [benso1](https://github.com/benso1)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
+- [Raza Khan](https://github.com/RazaKhanGit) 
 - [Eduardo Neto](https://github.com/pyduh)
 - [Tasnim Ahmed](https://github.com/ktat-93)
 - [Mario Antonio Lopez Ruiz](http://github.com/marioanloru)
