@@ -798,6 +798,7 @@
 - [Dhivya](https://github.com/dhivyasreedhar)
 - [Basit](https://github.com/bufftowel)
 - [Rusiru Anupama](https://github.com/sparkstark03)
+- [Aidan Fogarty](https://github.com/AidanFogarty)
 - [Bilal Maqsood](https://github.com/bilal9one)
 - [Adil Jafar](https://github.com/xcyraxx)
 - [Twinkle Kumari](https://github.com/twinklernc)
