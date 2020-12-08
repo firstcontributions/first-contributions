@@ -39,6 +39,7 @@
 - [Lucas João](https://github.com/lucasljoliveira)
 - [Ryo Wright](https://github.com/ryowright)
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
+- [Raychani1](https://github.com/Raychani1)
 - [Malvika Jindal](https://github.com/malvika-jindal)
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Piyush-linux](https://github.com/Piyush-linux)
