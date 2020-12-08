@@ -2708,6 +2708,7 @@
 - [Akshay Sonawane](https://github.com/agkosd)
 - [Sam Dudeja](https://github.com/sam4184)
 - [Ahmed A](https://github.com/a-s-ahmed)
+- [Hadir Garcia](https://github.com/hadirga)
 - [Rohan Khanna](https://github.com/krohan100)
 - [Rachid Amri](https://github.com/Haroldthe24th)
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
