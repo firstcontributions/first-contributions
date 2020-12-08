@@ -12,6 +12,7 @@
 - [Jordan Mathew](https://github.com/jmat94)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Augusto Sales](https://github.com/acssales/)
+- [Vickjoe](https://github.com/vickjoeobi)
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [paradocx96](https://github.com/paradocx96)
