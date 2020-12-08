@@ -4,6 +4,7 @@
 - [MrNNP](https://github.com/MrNNP)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
+- [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
