@@ -8353,6 +8353,7 @@
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
+- [Chris Anderson](https://github.com/TheSlamAnderson)
 - [Amy Pharris](https://github.com/amyrosep)
 - [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
 - [Arnab Chakraborty](https://github.com/ArnabC27)
