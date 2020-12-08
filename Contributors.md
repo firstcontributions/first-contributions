@@ -4167,6 +4167,7 @@
 - Shweta Karwa
 - Jeffrey Russell
 - Jacob Beran
+- [Amodu Kehinde](https://github.com/iamkennis)
 - [Nico Cobelo](https://github.com/nicobelo91)
 - [Iago Nunes](https://github.com/iago)
 - [Wai Man Lam](https://github.com/waimanlam2019)
