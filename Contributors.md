@@ -305,6 +305,7 @@
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
 - [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere](https://github.com/RationalEar)
+- [CreativeNana](https://github.com/CreativeNana)
 - [Jake Cillay](https://github.com/jcillay)
 - [Gunnar Jaeck](https://github.com/gjaeck)
 - [Mo Rahman](https://github.com/mrmm2703)
