@@ -64,126 +64,126 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 
+# 
 
-# 첫 기여
+# First Contributions
 
-이 프로젝트는 초보자가 그들의 첫 번째 기여하는 방법을 간단하고도 쉽게 설명하는 것을 목표로 합니다. 첫 번째 기여를 하려면 다음 단계를 따르십시오.
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_만약 커맨드 라인에 익숙하지 않다면 [GUI 도구를 사용하는 튜토리얼을 참조하십시오.](#tutorials-using-other-tools)_
+_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### 만약 Git이 설치되어 있지 않다면 [설치](https://help.github.com/articles/set-up-git/)해 주세요.
+#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
-## 저장소 포크하기
+## Fork this repository
 
-이 페이지 상단에 있는 포크(Fork) 버튼을 클릭하여 이 저장소를 옮겨오세요. 이렇게 하면 당신의 계정에 이 리포지토리의 복사본이 만들어집니다.
+Fork this repository by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
 
-## 저장소 복제하기(클론)
+## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-이제 당신의 컴퓨터에 포크된 저장소를 복제하십시오. GitHub 계정으로 이동하여 포크 저장소를 열고 코드(Code) 단추를 클릭한 다음 클립보드에 복사 아이콘을 클릭하십시오.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-터미널을 열고 다음 git 명령을 실행하십시오.:
+Open a terminal and run the following git command:
 
 ```
-git 클론 "방금 복사한 URL"
+git clone "url you just copied"
 ```
 
-위에 (따옴표를 제외한) "방금 복사한 URL"는 이 저장소의 URL입니다. URL을 얻으려면 이전 단계를 참조하십시오.
+where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-예를 들면:
+For example:
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-`this-is-you` 대신에 본인의 GitHub 계정을 입력해주세요. 이 명령어는
-GitHub의 first-contributions 저장소의 내용을 당신의 로컬 컴퓨터에 복사합니다.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## 브랜치 생성하기
+## Create a branch
 
-(아직 저장소 디렉토리가 아니라면) 아래의 명령어를 입력하여 좀전에 컴퓨터에 복사한 저장소 디렉토리로 이동합니다.
+Change to the repository directory on your computer (if you are not already there):
 
 ```
 cd first-contributions
 ```
 
-그리고 `git checkout` 명령어을 입력하여 브랜치를 생성합니다.
+Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b <add-your-name>
+git checkout -b your-new-branch-name
 ```
 
-예시:
+For example:
 
 ```
 git checkout -b add-alonzo-church
 ```
 
-(브랜치의 이름에 꼭 *add*가 들어가지 않아도 됩니다. 하지만 이 브랜치의 목적은 당신의 이름을 리스트에 추가하는 것이기 때문에 이름에 *add*를 포함하는 것이 타당합니다.)
+(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-## 필요한 변경사항을 작성하고 커밋하기
+## Make necessary changes and commit those changes
 
-이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 아래와 같이 추가해주세요. 이때 맨 처음이나 맨 끝을 제외한 중간에 마음에 드는 곳에 추가하시면 됩니다. 그리고 파일을 저장하세요.
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-프로젝트 디렉터리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다. 
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
-변경사항을 아래 `git add` 명령어를 입력하여 추가합니다.
+Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
 ```
 
-이제 아래 `git commit` 명령어로 변경사항을 커밋합니다.
+Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <Your-name> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
 
-`<Your-name>`을 본인 이름으로 바꾸세요.
+replacing `<your-name>` with your name.
 
-## 변경 사항을 GitHub에 푸쉬하기
+## Push changes to GitHub
 
-`git push` 명령어로 변경사항을 푸시합니다.
+Push your changes using the command `git push`:
 
 ```
 git push origin <add-your-branch-name>
 ```
 
-## 검토를 위해 변경사항을 제출하기
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-이제 본인의 GitHub 저장소로 이동하면 `Compare & pull request` 버튼이 보일 것입니다. 해당 버튼을 클릭하세요.
+## Submit your changes for review
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="풀 요청
-생성하기" />
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-이제 풀 요청(Pull Request)을 제출합니다.
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="풀 요청 제출하기"
-/>
+Now submit the pull request.
 
-이제 여러분의 변경사항을 담당자가 확인한 후에 마스터 브랜치에 통합하게 되면 알림 메일을 받게 됩니다.
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-## 첫 기여, 그리고 그 후
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-축하합니다! 당신은 기여자로써 자주 접하게 될 기본 포크(fork) -> 복제(clone) -> 수정(edit) -> 풀 요청(pull request)의 워크플로우를 막 완료하셨습니다!
+## Where to go from here?
 
-첫 기여에 대한 소식을 친구들 및 팔로워에게 [web app](https://firstcontributions.github.io/#social-share)을 통해 공유해보세요.
+Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-도움이 필요하거나 질문이 있다면 우리 Slack에 가입해보세요. [Slack 에 가입](https://join.slack.com/t/firstcontributors/shared_invite/zt-iywfifau-_aMtdwTjBoMzQqzW8~YUUA).
+You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-iywfifau-_aMtdwTjBoMzQqzW8~YUUA).
 
-이제 다른 프로젝트에 기여하기를 시작해 봅시다. 우리는 당신이 시작할 수 있는 쉬운 문제들의 프로젝트 리스트를 작성했습니다. [web app에서 프로젝트 목록](https://firstcontributions.github.io/#project-list)을 확인해 보세요.
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [추가 자료](additional-material/git_workflow_scenarios/additional-material.md)
+### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
-## 다른 툴에 대한 튜토리얼
+## Tutorials Using Other Tools
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
