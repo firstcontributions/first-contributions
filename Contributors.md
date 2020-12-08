@@ -129,6 +129,8 @@
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Auburg] (https://github.com/Auburg)
 - [Prakhar Mathur](https://github.com/Prakhar030)
+- [Prakhar Mathur](https://github.com/Prakhar030)
+- [Pubudu Palihakkara](https://github.com/Pubudu20)
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
 - [Ching-an Wu](https://github.com/chingandy)
 - [AndyJMR](https://github.com/AndyJMR)
