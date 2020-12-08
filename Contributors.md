@@ -1,6 +1,7 @@
 # Contributors
 
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
+- [Diacron] (https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
 - [Hayden Sprinkle] (https://github.com/haydensprinkle)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
