@@ -8304,6 +8304,7 @@
 - [Opal Thongpetch](https://github.com/crystalclear506/)
 - [Slawek Biel](https://github.com/slawekslex)
 - [Nessie](https://github.com/inesisprograming)
+- [Jonathan Orellana](https://github.com/JohnnytheShark)
 - [Darwin Waqaddi](https://github.com/dwaqaddi)
 - [Joel Ferreira](https://github.com/DevDotJoel)
 - [Ian Thomas](https://github.com/DevIMT)
