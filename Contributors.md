@@ -394,6 +394,7 @@
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
+- [Amrit Shukla](https://github.com/amritshukla001)
 - [Scott Henwood](https://github.com/ScottHenwood)
 - Rich Peaua
 - OLvine George
