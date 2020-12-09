@@ -9,7 +9,9 @@
 
 어렵습니다. 무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
 
-관련된 글을 읽거나 튜토리얼을 보는 것도 물론 도움이 되지만, 연습공간에서 직접 해보는 것보다 나은게 있을까요? 이 프로젝트의 목표는 초보자도 첫 오픈소스 기여를 할 수 있도록 단순한 방식으로 안내하는 것입니다. 첫 기여를 하고 싶으시다면 아래의 설명을 따라주세요.
+물론 관련 글을 읽거나 튜토리얼을 보는 것도 도움이 되지만, 연습공간에서 직접 해보는 것보다 나은 방법이 있을까요? 이 프로젝트의 목표는 초보자도 첫 오픈소스 기여를 할 수 있도록 단순한 방식으로 안내하는 것입니다. 첫 기여를 하고 싶으시다면 아래의 설명을 따라주세요.
+
+만약 명령줄을 이용하는 것이 익숙하지 않다면, GUI 도구 튜토리얼을 참고하세요.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="이 저장소 포크하기" />
 
@@ -17,13 +19,13 @@
 
 ## 저장소 포크하기
 
-이 페이지의 상단에 있는 Fork 버튼을 클릭하여 이 저장소를 포크하세요. 그러면 본인의 깃헙 계정에 이 저장소의 복제본이 생성될 겁니다.
+이 페이지의 상단에 있는 Fork 버튼을 클릭하여 이 저장소를 포크하세요. 그러면 본인의 GitHub 계정에 이 저장소의 복제본이 생성될 것입니다.
 
 ## 저장소 클론하기
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="이 저장소 복제하기" />
 
-이제 이 저장소를 자신의 기기에 클론합니다. Clone or download 버튼을 클릭하고 클립보드로 복사 아이콘을 클릭합니다.
+이제 이 저장소를 자신의 기기에 클론합니다. GitHub 계정으로 가서, fork된 저장소를 열고, Code 버튼을 눌러 클립보드로 복사 아이콘을 클릭합니다.
 
 터미널을 열고 다음 Git 명령을 실행합니다:
 
@@ -31,7 +33,7 @@
 git clone "방금 복사한 URL"
 ```
 
-위에 (따옴표를 제외한) "방금 복사한 URL"는 이 저장소의 URL입니다. URL은 이전 단계에서 찾을 수 있습니다.
+위에 (따옴표를 제외한) "방금 복사한 URL"은 이 저장소의 URL입니다. URL은 이전 단계에서 찾을 수 있습니다.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL 을 클립보드로 복사" />
 
@@ -41,7 +43,7 @@ git clone "방금 복사한 URL"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-예시의 `this-is-you`는 본인 깃헙 계정으로 바꾸어주세요. 이 명령어는
+예시의 `this-is-you`는 본인의 GitHub 계정으로 바꾸어주세요. 이 명령어는
 깃헙의 first-contributions 저장소의 내용을 로컬 컴퓨터에 복사합니다.
 
 ## 브랜치 생성하기
