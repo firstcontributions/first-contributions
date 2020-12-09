@@ -10,6 +10,7 @@
 - [MrNNP](https://github.com/MrNNP)
 - [Hayden Sprinkle] (https://github.com/
   haydensprinkle)
+- [Karim Chanane](https://github.com/HyperActiveHub)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
