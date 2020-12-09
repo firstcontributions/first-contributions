@@ -11,6 +11,7 @@
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
 - [Jordan Mathew](https://github.com/jmat94)
+- [Greatness Akuma](https://github.com/GREATNESS1504)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Augusto Sales](https://github.com/acssales/)
 - [Vickjoe](https://github.com/vickjoeobi)
