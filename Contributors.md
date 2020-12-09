@@ -6462,6 +6462,7 @@
 - [Abhishek Joshi](https://github.com/joshimabhishek)
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
+- [Kaduck Novak] (https://github.com/TheQuackn)
 - [brx3](https://github.com/brx3)
 - [franzqat](https://github.com/franzqat)
 - [Chris Vo](https://github.com/VoChrisK)
