@@ -8401,6 +8401,7 @@
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
+- [Aashish KC] (https://github.com/kcaashish)
 - [Fernando Harris](https://github.com/fharris)
 - [Ryan Lynch] (https://github.com/UniqueClone)
 - [Evgeny Vlasov] (https://github.com/vlasove)
