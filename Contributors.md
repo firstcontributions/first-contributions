@@ -1,6 +1,7 @@
 # Contributors
 
 - [Andrew Carrigan](https://github.com/carrigan223)
+- [İlkay Dinç](https://github.com/ilkaydnc)
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron] (https://github.com/Diacron)
