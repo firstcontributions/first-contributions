@@ -76,6 +76,7 @@
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - [Omar Gatica Analco](https://github.com/Omarcito017)
 - [Sina Rabiei](https://github.com/nssina)
+- [Alex Keaveney](https://github.com/alexkeaveney)
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Alioune Diagne](https://github.com/Alioune98)
 - [Omoigui Efosa Abel](https://github.com/efosaomoigu)
