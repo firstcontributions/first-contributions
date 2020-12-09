@@ -5,7 +5,8 @@
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron] (https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
-- [Hayden Sprinkle] (https://github.com/haydensprinkle)
+- [Hayden Sprinkle] (https://github.com/
+haydensprinkle)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
