@@ -8432,3 +8432,4 @@
 - [Quang Nguyen](https://github.com/quang-sudo)
 - [Michael Gartner](https://github.com/mdroidian)
 - [Thang Cao](https://github.com/shiyoline)
+- [Kify](https://github.com/Kify7)
