@@ -4948,6 +4948,7 @@
 - [Pablo Herrero](https://github.com/pablohs1986)
 - [Puneeth PS](https://github.com/puneethps)
 - Ankit Kumar
+- [Tony Fong](https://github.com/TFong1)
 - [Reniel](https://github.com/ren1el)
 - [Maeve Farrell](https://github.com/maevefarrell)
 - [Suresh Nagulapalli](https://github.com/sureshnagulapalli)
