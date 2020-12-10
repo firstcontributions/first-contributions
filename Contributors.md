@@ -24,6 +24,7 @@
 - [Augusto Sales](https://github.com/acssales/)
 - [Vickjoe](https://github.com/vickjoeobi)
 - [Musab Kiani](https://github.com/Musab-Kiani)
+- [Jonathan Motechin](https://github.com/JMotechin)
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [paradocx96](https://github.com/paradocx96)
 - [Gary Mathews II](https://github.com/gmathews6)
