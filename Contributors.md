@@ -216,6 +216,7 @@
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Michael John Dollente](https://github.com/xjanggo)
 - [Nick Vallejos](https://github.com/Guambo)
+- [Orlando Rivera, Jr.](https://github.com/ORiveraJr84)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
 - [catboxer](https://github.com/catboxer)
