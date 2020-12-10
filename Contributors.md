@@ -8447,5 +8447,6 @@
 - [acphil2](https://github.com/acphil2)
 - [Michael Gartner](https://github.com/mdroidian)
 - [Thang Cao](https://github.com/shiyoline)
+- [Kify](https://github.com/Kify7)
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Fabian Pijcke](https://github.com/shepard8)
