@@ -2,6 +2,7 @@
 
 - [kris tel](https://github.com/panamtown04)
 - [charalamm](https://github.com/charalamm)
+- [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
@@ -17,14 +18,17 @@
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Pranav Reddy Mannemela](https://github.com/saipranavr)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/)
+- [Enes Guven](https://github.com/jamiryutheb)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
+- [Ernesto](https://github.com/ensoam)
 - [Jordan Mathew](https://github.com/jmat94)
 - [Greatness Akuma](https://github.com/GREATNESS1504)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Augusto Sales](https://github.com/acssales/)
 - [Vickjoe](https://github.com/vickjoeobi)
 - [Musab Kiani](https://github.com/Musab-Kiani)
+- [Jonathan Motechin](https://github.com/JMotechin)
 - [Fatih Eren Alan](https://github.com/fatiko16)
 - [paradocx96](https://github.com/paradocx96)
 - [Gary Mathews II](https://github.com/gmathews6)
@@ -58,6 +62,7 @@
 - [Sebu Elias](https://github.com/sebuelias)
 - [Piyush-linux](https://github.com/Piyush-linux)
 - [Joseph Tsai](https://github.com/jtsa0267)
+- [Olamilekan Akintilebo](https://github.com/lekantobi47)
 - [Debottam Kundu](https://github.com/debottamKundu)
 - [Elbin Cenisev](https://github.com/elbin-cenisev)
 - [Joy Okwudire](https://github.com/chizycodes)
@@ -213,6 +218,7 @@
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Michael John Dollente](https://github.com/xjanggo)
 - [Nick Vallejos](https://github.com/Guambo)
+- [Orlando Rivera, Jr.](https://github.com/ORiveraJr84)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [0xmery](https://github.com/0xmery)
 - [catboxer](https://github.com/catboxer)
@@ -1507,6 +1513,7 @@
 - [Thiago Fonseca Tahara](https://github.com/thiagoft)
 - [Deepak Singh ](https://github.com/deepsingh9868)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
+- [Paula Moura](https://github.com/paulafejaum/)
 - [Ibrahim Bakare](https://github.com/ibakare10/first-contributions/edit/add-ibrahim-name/Contributors.md)
 - [Madan Patil](https://github.com/mvpmaddy)
 - [Palakk Yadavv]
@@ -1514,6 +1521,7 @@
 - [Harsha Bhadra](https://github/harshabhadra)
 - [Prajakta Sathe](https://github.com/PrajaktaSathe)
 - [Pirlog Simon]
+- [Thecoder128](https://github.com/thecoder128)
 - [Lammert van der Wal](https://github.com/ZER02HER0-nl)
 - [Nitin Dxt](https://github/nitinajaydixit)
 - [Ivan Marrêta](https://github.com/ivanmarreta)
@@ -4009,6 +4017,7 @@
 - Krishnasai
 - Yoon-Orn Chin
 - [Mahmoud Attia](https://github.com/Atattia)
+- [Yash Yelamanchi] (https://github.com/yashchow)
 - [Mayank Mohak](https://github.com/mayankmohak)
 - [Lorna Roberts](https://github.com/lornaroberts)
 - Jens D.
@@ -4943,6 +4952,7 @@
 - [Pablo Herrero](https://github.com/pablohs1986)
 - [Puneeth PS](https://github.com/puneethps)
 - Ankit Kumar
+- [Tony Fong](https://github.com/TFong1)
 - [Reniel](https://github.com/ren1el)
 - [Maeve Farrell](https://github.com/maevefarrell)
 - [Suresh Nagulapalli](https://github.com/sureshnagulapalli)
@@ -8414,6 +8424,7 @@
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
+- [Reuben Sanchez](https://github.com/ReubeniSandwich) 
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
@@ -8421,6 +8432,7 @@
 - [Ryan Lynch] (https://github.com/UniqueClone)
 - [Evgeny Vlasov] (https://github.com/vlasove)
 - [Richard Cook] (https://github.com/richastral)
+- [Muhammad Bilal] (https://github.com/muhammadbilall)
 - [Tommy Swimmer] (https://github.com/tommy-swimmer)
 - [Jessica Gillim] (https://github.com/obstaclez)
 - [Marcos Spanholi] (https://github.com/marcosspn)
@@ -8428,3 +8440,8 @@
 - [Ebubekir Doğan] (https://github.com/Ebu44)
 - [Ayush Bisht](https://github.com/ayushbisht2001)
 - [Shveta]
+- [Quang Nguyen](https://github.com/quang-sudo)
+- [Michael Gartner](https://github.com/mdroidian)
+- [Thang Cao](https://github.com/shiyoline)
+- [Sebastian Puig](https://github.com/patanpuig)
+- [Fabian Pijcke](https://github.com/shepard8)
