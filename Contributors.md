@@ -4010,6 +4010,7 @@
 - Krishnasai
 - Yoon-Orn Chin
 - [Mahmoud Attia](https://github.com/Atattia)
+- [Yash Yelamanchi] (https://github.com/yashchow)
 - [Mayank Mohak](https://github.com/mayankmohak)
 - [Lorna Roberts](https://github.com/lornaroberts)
 - Jens D.
