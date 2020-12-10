@@ -1,16 +1,16 @@
 # Contributors
 
-- [kris tel] (https://github.com/panamtown04)
-- [Napier] (https://github.com/napierbb)
+- [kris tel](https://github.com/panamtown04)
+- [Yeong Jong Lim](https://github.com/yeongjonglim)
+- [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [William bailey](https://github.com/WLBailey0)
-- [Diacron] (https://github.com/Diacron)
+- [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
-- [Hayden Sprinkle] (https://github.com/
-  haydensprinkle)
+- [Hayden Sprinkle](https://github.com/haydensprinkle)
 - [Karim Chanane](https://github.com/HyperActiveHub)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
