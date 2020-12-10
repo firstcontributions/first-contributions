@@ -1,8 +1,8 @@
 # Contributors
 
 - [kris tel] (https://github.com/panamtown04)
-- [Napier] (https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
+- [Napier] (https://github.com/napierbb)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
