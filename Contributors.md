@@ -21,6 +21,7 @@
 - [Enes Guven](https://github.com/jamiryutheb)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
+- [Oskar Olaszczyk](https://github.com/oskarolaszczyk)
 - [Ernesto](https://github.com/ensoam)
 - [Jordan Mathew](https://github.com/jmat94)
 - [Greatness Akuma](https://github.com/GREATNESS1504)
