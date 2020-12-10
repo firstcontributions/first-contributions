@@ -2,6 +2,7 @@
 
 - [kris tel] (https://github.com/panamtown04)
 - [Napier] (https://github.com/napierbb)
+- [Kartikey Dubey] (https://github.com/kartikey-git)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
@@ -8418,7 +8419,7 @@
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
-- [Reuben Sanchez](https://github.com/ReubeniSandwich) 
+- [Reuben Sanchez](https://github.com/ReubeniSandwich)
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
