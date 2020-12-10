@@ -1,6 +1,7 @@
 # Contributors
 
 - [kris tel](https://github.com/panamtown04)
+- [charalamm](https://github.com/charalamm)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
