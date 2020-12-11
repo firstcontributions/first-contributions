@@ -8430,7 +8430,7 @@
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
-- [Reuben Sanchez](https://github.com/ReubeniSandwich) 
+- [Reuben Sanchez](https://github.com/ReubeniSandwich)
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
@@ -8455,3 +8455,4 @@
 - [Fabian Pijcke](https://github.com/shepard8)
 - [linteresting](https://github.com/Linteresting)
 - [Fatih Aydin](https://github.com/fatay)
+- [Alessandro Meschi](https://github.com/MrAlessandro)
