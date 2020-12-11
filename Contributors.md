@@ -29,6 +29,7 @@
 - [Mohit Sahu] (https://github.com/SahuMohit)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Augusto Sales](https://github.com/acssales/)
+- [Vicent Garcia](https://github.com/VicentGN)
 - [Vickjoe](https://github.com/vickjoeobi)
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Jonathan Motechin](https://github.com/JMotechin)
