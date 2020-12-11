@@ -347,6 +347,7 @@
 - [Ian Mugenya](https://github.com/IanMcbull)
 - [Michael M Chiwere](https://github.com/RationalEar)
 - CreativeNana
+- [aggressiveperfector](https://github.com/aggressiveperfector)
 - [Jake Cillay](https://github.com/jcillay)
 - [Alex Bishop](https://github.com/Alex-Bishop1296)
 - [Gunnar Jaeck](https://github.com/gjaeck)
