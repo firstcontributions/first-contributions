@@ -4,6 +4,7 @@
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
+- [Nikhil Reddy](https://github.com/nikhilreddyx)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
