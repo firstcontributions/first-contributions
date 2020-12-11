@@ -136,7 +136,7 @@
 - Roshan Nair
 - Tenzin Woesel
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
-  [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
+- [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
 - [Ali Aljowaher](https://github.com/alialjowaher)
 - [David Kozdra](https://github.com/DavidKozdra)
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
