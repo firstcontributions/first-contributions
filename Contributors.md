@@ -1,6 +1,7 @@
 # Contributors
 
 - [kris tel](https://github.com/panamtown04)
+  [Harsh Thumar]
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
