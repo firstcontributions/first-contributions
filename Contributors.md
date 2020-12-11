@@ -10,6 +10,7 @@
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
+- [Avinash Kumar](https://github.com/Avii3301)
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
   [caharalamm jeje](https://github.com/caharalamm)
 - [Karim Chanane](https://github.com/HyperActiveHub)
