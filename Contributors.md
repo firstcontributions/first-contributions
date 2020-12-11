@@ -8462,3 +8462,4 @@
 - [Fabian Pijcke](https://github.com/shepard8)
 - [linteresting](https://github.com/Linteresting)
 - [Fatih Aydin](https://github.com/fatay)
+- [Amrit Dhaliwal](https://github.com/AmrDhaliwal)
