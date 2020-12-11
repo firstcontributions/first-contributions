@@ -8447,6 +8447,7 @@
 - [Ebubekir Doğan] (https://github.com/Ebu44)
 - [Ayush Bisht](https://github.com/ayushbisht2001)
 - [Shveta]
+- [Fernanda Provasi](https://github.com/Feprovasi)
 - [Quang Nguyen](https://github.com/quang-sudo)
 - [acphil2](https://github.com/acphil2)
 - [Michael Gartner](https://github.com/mdroidian)
