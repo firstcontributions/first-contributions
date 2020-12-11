@@ -5,6 +5,7 @@
 - [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
+- [Alex Pendell](https://github.com/Pendell)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
