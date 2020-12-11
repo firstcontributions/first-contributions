@@ -1430,6 +1430,7 @@
 - [Farhaan Bhola](https://github.com/b-farhaan)
 - [Mayank Sharma](https://github.com/MAYANK25402)
 - [Prabhat Malhotra](https://github.com/malhotra1432)
+- [Shane Schilling](https://github.com/trilambda122)
 - [MJ](https://github.com/speklet)
 - [Jordan Ali Hilado](https://github.com/jordanhilado)
 - [Simon Bentley](https://github.com/sbentley85)
