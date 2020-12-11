@@ -26,6 +26,7 @@
 - [Ernesto](https://github.com/ensoam)
 - [Jordan Mathew](https://github.com/jmat94)
 - [Greatness Akuma](https://github.com/GREATNESS1504)
+- [Mohit Sahu] (https://github.com/SahuMohit)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Augusto Sales](https://github.com/acssales/)
 - [Vickjoe](https://github.com/vickjoeobi)
