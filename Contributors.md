@@ -8157,6 +8157,7 @@
 - [Rishabh Jain](https://github.com/rishabhjain987)
 - [Ashutosh Sharma](https://github.com/ashu-cloud)
 - [Parishi](https://github.com/p489)
+- [Andres Rovira](https://github.com/acwilan)
 - [vineeshvs](https://github.com/vineeshvs)
 - [Darin Jeff](DarinJeff/first-contributions)
 - [Parishi](https://github.com/p489)
