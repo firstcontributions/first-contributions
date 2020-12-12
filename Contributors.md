@@ -7858,6 +7858,7 @@
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
+- [Maximillian Fish](https://github.com/maxfish711)✨
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Rodrigo Marcolino](https://github.com/rodrigo-marcolino)
