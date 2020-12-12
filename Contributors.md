@@ -562,6 +562,7 @@
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Vinay Kumar](https://github.com/vinayleokumar)
+- [Vinay Garg](https://github.com/Vinay-Garg)
 - [Cindy Brown](https://github.com/ceeblet)
 - Kashish 2000
 - [Sid Mirza](https://github.com/sidmirza4)
