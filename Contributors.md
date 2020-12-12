@@ -3,6 +3,7 @@
 - [MathProuv](https://github.com/mathprouv)
 - [kris tel](https://github.com/panamtown04)
   [Harsh Thumar]
+- [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
