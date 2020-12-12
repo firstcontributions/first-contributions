@@ -171,6 +171,8 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+<em><strong>TIP:</strong> To find your name in Contributors.md file after merging; Click ctrl+f, in the find/search bar that appears type your name.</em>
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
