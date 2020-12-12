@@ -4929,6 +4929,7 @@
 - [Sophie](https://github.com/sophiawa)
 - [Dhanesh Shetty](https://github.com/DhaneshShetty)
 - [Udit Singhania](https://github.com/udisinghania)
+  [Tyler Flynt](https://github.com/tflynt91)
 - [archithadge](https://github.com/archithadge)
 - [bubbameetze](https://github.com/bubbameetze)
 - [Ayan](https://github.com/ayansaha1991)
