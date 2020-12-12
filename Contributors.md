@@ -2,11 +2,11 @@
 
 - [MathProuv](https://github.com/mathprouv)
 - [kris tel](https://github.com/panamtown04)
-  [Harsh Thumar]
+- [Harsh Thumar]
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
 - [Andrew Carrigan](https://github.com/carrigan223)
-  [Dinuka Soysa](https://github.com/dinukasoysa)
+- [Dinuka Soysa](https://github.com/dinukasoysa)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
 - [Alex Pendell](https://github.com/Pendell)
 - [İlkay Dinç](https://github.com/ilkaydnc)
