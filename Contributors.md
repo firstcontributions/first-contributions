@@ -55,6 +55,7 @@
 - [Francis Emefile](https://github.com/EmefileFrancis)
 - [Emil Joseph](https://github.com/ejoseph89)
 - [Kshitij Patil](https://github.com/Malevalous)
+- [Andrew Douglas](https://github.com/kufena)
 - [James Sheppard](https://github.com/jgsheppa)
 - [Hedwig Farthofer]((https://github.com/hedi-far)
 - [Josh Mu](https://github.com/joshmu)
