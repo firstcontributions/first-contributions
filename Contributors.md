@@ -32,6 +32,7 @@
 - [Oskar Olaszczyk](https://github.com/oskarolaszczyk)
 - [Ernesto](https://github.com/ensoam)
 - [Jordan Mathew](https://github.com/jmat94)
+- [Shrey Pateliya]
 - [Greatness Akuma](https://github.com/GREATNESS1504)
 - [Mohit Sahu] (https://github.com/SahuMohit)
 - [Ryu Pradana](https://github.com/whoisryu)
