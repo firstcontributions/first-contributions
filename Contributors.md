@@ -2,6 +2,7 @@
 
 - [MathProuv](https://github.com/mathprouv)
 - [kris tel](https://github.com/panamtown04)
+- [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [charalamm](https://github.com/charalamm)
