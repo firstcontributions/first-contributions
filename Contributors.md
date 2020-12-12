@@ -70,6 +70,7 @@
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Raychani1](https://github.com/Raychani1)
 - [Malvika Jindal](https://github.com/malvika-jindal)
+- [Garima Pandey](https://github.com/garima652001)
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Sebu Elias](https://github.com/sebuelias)
 - [Piyush-linux](https://github.com/Piyush-linux)
