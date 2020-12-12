@@ -33,11 +33,9 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 28. [Version Control using Git](https://ourcodingclub.github.io/2017/02/27/git.html)
 29. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 30. [Audit the Coursera course from Google](https://www.coursera.org/learn/introduction-git-github)
-<<<<<<< HEAD
 31. [Free Udacity Git Course](https://www.udacity.com/course/version-control-with-git--ud123)
-=======
-31. [Free Udacity Git Course](https://classroom.udacity.com/courses/ud123)
+31. [Free Udacity Git Course](https://www.udacity.com/course/version-control-with-git--ud123)
 32. [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
->>>>>>> 018b0eacbb4e5ccbbbb3ba54e90c8bcfd40ebeb0
+
 
 Keep adding more links, that you find helpful.
