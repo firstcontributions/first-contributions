@@ -10,6 +10,7 @@
 - [Ryo Wright](https://github.com/ryowright)
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Malvika Jindal](https://github.com/malvika-jindal)
+- [Prakash Choure](https://github.com/PrakashChoure2002/first-contributions.git )
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Piyush-linux](https://github.com/Piyush-linux)
 - [Debottam Kundu](https://github.com/debottamKundu)
