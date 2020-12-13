@@ -11,7 +11,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-__Если у вас не установлен git на компьютере, [установите его].( https://help.github.com/articles/set-up-git/ ).__
+__Если у вас не установлен git на компьютере, [установите его](https://help.github.com/articles/set-up-git/).__
 
 ## Создайте ответвление
 
