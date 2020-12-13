@@ -252,6 +252,7 @@
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
 - [Jeremie Bogaert](https://github.com/jebogaert)
 - [Samuel Sorial](https://github.com/Samuel-Sorial)
+- [Suman Jha](https://github.com/frozenplanet14)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
 - [Success John](https://github.com/success-john)
 - [Dave Northern](https://github.com/davenorthern)
