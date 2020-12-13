@@ -8488,3 +8488,4 @@
 - [Amrit Dhaliwal](https://github.com/AmrDhaliwal)
 - [b0bdN](https://github.com/b0bdN)
 - [Bushan SC](https://github.com/scbushan05)
+- [Walid Sakr](https://github.com/wsakr)
