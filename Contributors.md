@@ -4527,6 +4527,7 @@
 - [Cryptic Bit](https://github.com/crypticbit)
 - [Ajay Chamba](https://github.com/ajaychamba)
 - [Daniel Segal](https://github.com/DanielSegal1)
+- [Marvin Delgado]()
 - [Ujjwal472](https://github.com/Ujjwal472)
 - [Rakesh Pareek](https://github.com/rkpareek)
   [Isha Jain](https://github.com/ishajain15)
