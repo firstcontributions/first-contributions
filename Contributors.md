@@ -49,6 +49,7 @@
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Jonathan Motechin](https://github.com/JMotechin)
 - [Fatih Eren Alan](https://github.com/fatiko16)
+- [Johannes Dominik](https://github.com/johannesdominik)
 - [paradocx96](https://github.com/paradocx96)
 - [Gary Mathews II](https://github.com/gmathews6)
 - [Tashawn Williams](https://github.com/crutell331`)
