@@ -11,8 +11,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-
-Если у вас не установлен git на компьютере, [ установите его ]( https://help.github.com/articles/set-up-git/ )
+__Если у вас не установлен git на компьютере, [установите его].( https://help.github.com/articles/set-up-git/ ).__
 
 ## Создайте ответвление
 
@@ -29,15 +28,18 @@
 ```
 git clone "url you just copied"
 ```
+
 Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Например:
+
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Где `this-is-you` ваш логин на github'e. Таким образом вы копируете репозиторий 'first-contributions' с GitHub на ваш пк.
+
+Где `this-is-you` ваш логин на github'e. Таким образом вы копируете репозиторий 'first-contributions' с GitHub на ваш ПК.
 
 ## Создайте ветвь
 
@@ -46,6 +48,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 cd first-contributions
 ```
+
 Теперь создайте ветвь, с помощью `команды git checkout`
 
 ```
@@ -53,9 +56,11 @@ git checkout -b <add-your-name>
 ```
 
 Например:
+
 ```
 git checkout -b add-alonzo-church
 ```
+
 (Синтаксически не требуется, чтобы название ветви содержало слово *add*, но это оправдано, поскольку подчеркивает назначение этой ветви - добавить ваше имя в список.)
 
 ## Внесите необходимые изменения и создайте коммит
@@ -67,17 +72,21 @@ git add Contributors.md
 ```
 
 Теперь закоммитьте данные изменения с помощью команды `git commit`.
+
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-Измените `<your-name>` на ваше имя
+
+Измените `<your-name>` на ваше имя.
 
 ## Запушьте изменения на github
 
 Запушьте ваши изменения с помощью `git push`
+
 ```
 git push origin <add-your-name>
 ```
+
 Измените `<add-your-name>` на имя ветви, которую вы создали ранее.
 
 ## Подтвердите изменения для ревью
@@ -97,41 +106,54 @@ git push origin <add-your-name>
 ## Синхронизируйте ваше ответвление с данным репозиторием
 
 Прежде всего перейдите в основную ветвь:
+
 ```
 git checkout master
 ```
+
 Затем добавьте url моего репозитория в поле `upstream remote url`:
+
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
+
 Таким образом мы сообщим git'у, что существует другая версия данного проекта по определенной ссылке, и мы ее считаем мастером. Как только изменения смержены, подгрузите новую версию моего репозитория.
+
 ```
 git fetch upstream
 ```
 
 Таким образом мы забрали все изменения в моем ответвлении (upstream remote). После, вам нужно смержить новую версию моего репозитория с вашей мастер-ветвью.
+
 ```
 git rebase upstream/master
 ```
+
 Так вы применяете все изменения, которые вы подтянули к вашей мастер-ветви. Если вы запушите сейчас мастер-ветвь, ваше ответвление тоже будет содержать изменения.
+
 ```
 git push origin master
 ```
+
 Обратите внимание, что вы пушите в удаленной репозиторий origin.
 
 На этом этапе я объединил вашу ветвь `<add-your-name>` со своей мастер-ветвью, а вы объединили свою мастер-ветвь с моей. Ваша ветвь больше не нужна, вы можете удалить ее:
+
 ```
 git branch -d <add-your-name>
 ```
+
 Так же можете удалить ее версию в удаленном репозитории:
+
 ```
 git push origin --delete <add-your-name>
 ```
+
 Это совершенно не обязательно, но название этой ветви отражает ее довольно специфическое назначение. И продолжительность ее жизни может быть соответствующе короткой.
 
 ## Использование других инструментов
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
 
