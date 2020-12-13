@@ -4313,6 +4313,7 @@
 - [Islam Khalil](https://github.com/imkhali)
 - [Tomilola Akinrinsola](https://github.com/T-py123)
 - [Moaz bin Mokhtar](https://github.com/moaz-mokhtar)
+- [Florian Leipold](https://github.com/FloLei)
 - [Attaf Habib](https://github.com/AttafHabib)
 - [Shaik Zayeer Hussain](https://github.com/Zayeer)
 - [Ashik Paul](https://github.com/Ashikpaul)
