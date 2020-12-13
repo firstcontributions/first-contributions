@@ -417,6 +417,7 @@
 - [Kosi Akporji](https://github.com/kosiazom)
 - [Castic Jehin](https://github.com/jehincastic/)
 - [Pragati Bansal](https://github.com/pragx12)
+- [Benjamin Van Cise](https://github.com/BenjaminVC)
 - [Divyesh P K](https://github.com/pkdiv)
 - [Shravan A J](https://github.com/ShravanCool)
 - [Andrew Turner](https://github.com/TurnerAndrew)
