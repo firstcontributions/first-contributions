@@ -8,7 +8,11 @@
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
+
 - [Manteg Singh](https://github.com/mantegSingh12)
+
+- [Dinesh Chukkala](https://github.com/HumanChwan)
+
 - [Mengmei Tu](https://github.com/mmeii)
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
@@ -49,6 +53,7 @@
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Jonathan Motechin](https://github.com/JMotechin)
 - [Fatih Eren Alan](https://github.com/fatiko16)
+- [Johannes Dominik](https://github.com/johannesdominik)
 - [paradocx96](https://github.com/paradocx96)
 - [Gary Mathews II](https://github.com/gmathews6)
 - [Tashawn Williams](https://github.com/crutell331`)
@@ -156,6 +161,7 @@
 - [Suhrob](https://github.com/suhrobcoder)
 - Tamir Shilopsky
 - Roshan Nair
+- Raza Khan
 - Tenzin Woesel
 - [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
 - [Ali Aljowaher](https://github.com/alialjowaher)
@@ -2511,6 +2517,7 @@
 - [Lee Wannacott](https://github.com/LeeWannacott)
 - [Zoraiz Asif](https://github.com/zoraizasif)
 - [Maximillian Campbell](https://github.com/msoup-hub)
+- [Maxim Dmitriev](https://github.com/maxim-dmi3ev)
 - [Ray Ockenfels](https://github.com/Rockenfels)
 - [Adam Elitzur]()
 - [Christeen Fernando](https://github.com/christeen24)
@@ -4086,6 +4093,7 @@
 - [James Murphree](https://github.com/jamesus95)
 - [Aastha Panta](https://github.com/AasthaPanta)
 - [Leandro B](https://github.com/lerbal7)
+- [JJ Cheng](https://github.com/jchengjr77)
 - [Oyindamola Olatunji](https://github.com/ikeadeoyin)
 - [Kristin Grue](https://github.com/thorgerd)
 - [Harprit Singh Chhabada](https://github.com/hchhabada)
@@ -4310,6 +4318,7 @@
 - [Islam Khalil](https://github.com/imkhali)
 - [Tomilola Akinrinsola](https://github.com/T-py123)
 - [Moaz bin Mokhtar](https://github.com/moaz-mokhtar)
+- [Florian Leipold](https://github.com/FloLei)
 - [Attaf Habib](https://github.com/AttafHabib)
 - [Shaik Zayeer Hussain](https://github.com/Zayeer)
 - [Ashik Paul](https://github.com/Ashikpaul)
