@@ -156,6 +156,7 @@
 - [Suhrob](https://github.com/suhrobcoder)
 - Tamir Shilopsky
 - Roshan Nair
+- Raza Khan
 - Tenzin Woesel
 - [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
 - [Ali Aljowaher](https://github.com/alialjowaher)
