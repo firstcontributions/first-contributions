@@ -8,6 +8,7 @@
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
+- [Manteg Singh](https://github.com/mantegSingh12)
 - [Mengmei Tu](https://github.com/mmeii)
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
