@@ -1,6 +1,7 @@
 # Contributors
 
 - [MathProuv](https://github.com/mathprouv)
+- [Gamez0](https://github.com/Gamez0)
 - [Ty Richardson](https://github.com/tyrichardson)
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
