@@ -37,6 +37,7 @@
 - [Frank MUNGERI](https://github.com/mfrank37)
 - [Oskar Olaszczyk](https://github.com/oskarolaszczyk)
 - [Ernesto](https://github.com/ensoam)
+- [Nitzan Nehushtan] (https://github.com/nitzannehushtan)
 - [Jordan Mathew](https://github.com/jmat94)
 - [Shrey Pateliya]
 - [Greatness Akuma](https://github.com/GREATNESS1504)
