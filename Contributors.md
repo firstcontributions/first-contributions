@@ -4088,6 +4088,7 @@
 - [James Murphree](https://github.com/jamesus95)
 - [Aastha Panta](https://github.com/AasthaPanta)
 - [Leandro B](https://github.com/lerbal7)
+- [JJ Cheng](https://github.com/jchengjr77)
 - [Oyindamola Olatunji](https://github.com/ikeadeoyin)
 - [Kristin Grue](https://github.com/thorgerd)
 - [Harprit Singh Chhabada](https://github.com/hchhabada)
