@@ -24,6 +24,7 @@
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
   [caharalamm jeje](https://github.com/caharalamm)
 - [Karim Chanane](https://github.com/HyperActiveHub)
+- [Wadson Vaval](https://github.com/Wadprog)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
