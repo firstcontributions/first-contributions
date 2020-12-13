@@ -194,6 +194,7 @@
 - [Rustbolt](https://github.com/Rustbolt)
 - [Onewayfare](https://github.com/onewayfare)
 - [S-majer](https://github.com/s-majer)
+- [Acidixs](https://github.com/Acidixs)
 - [NoneBack](https://github.com/noneback)
 - [ChenPengf](https://github.com/ChenPengf)
 - [Mayorbcode](https://github.com/mayorbcode)
