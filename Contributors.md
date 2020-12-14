@@ -1,6 +1,7 @@
 # Contributors
 
 - [MathProuv](https://github.com/mathprouv)
+- [CodyArnholt](https://github.com/TromboneMoose)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Gamez0](https://github.com/Gamez0)
 - [Ty Richardson](https://github.com/tyrichardson)
