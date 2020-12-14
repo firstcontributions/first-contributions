@@ -190,6 +190,7 @@
 - [Arjun.S](https://github.com/Arjun-Zaraki)
 - [Eduardo Gonzalez](https://github.com/Eduardo-Gonz)
 - [Jessa Daggs](https://github.com/jldaggs88)
+- [Jolisabeth] (https://github.com/jolisabeth)
 - [Karthik Jangid](https://github.com/Cpt-Karthik)
 - [Auburg](https://github.com/Auburg)
 - [Prakhar Mathur](https://github.com/Prakhar030)
