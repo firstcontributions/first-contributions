@@ -55,6 +55,7 @@
 - [Augusto Sales](https://github.com/acssales/)
 - [Vicent Garcia](https://github.com/VicentGN)
 - [Vickjoe](https://github.com/vickjoeobi)
+- [Josef Manfredonia](https://github.com/anaveragejosef)
 - [Musab Kiani](https://github.com/Musab-Kiani)
 - [Jonathan Motechin](https://github.com/JMotechin)
 - [Fatih Eren Alan](https://github.com/fatiko16)
