@@ -45,6 +45,7 @@
 - [Greatness Akuma](https://github.com/GREATNESS1504)
 - [Shivam Saraswat](https://github.com/shivamsaraswat8)
 - [Mohit Sahu] (https://github.com/SahuMohit)
+- [Nikhil Barot] (https://github.com/Nikhil1602)
 - [Dhiraj shelke](https://github.com/Dhiraj2905)
 - [Ryu Pradana](https://github.com/whoisryu)
 - [Augusto Sales](https://github.com/acssales/)
