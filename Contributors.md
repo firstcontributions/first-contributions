@@ -7,6 +7,7 @@
 - [kris tel](https://github.com/panamtown04)
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
+- [Giovanni Moscato](https://github.com/codingcodewhilegoofin)
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Mengmei Tu](https://github.com/mmeii)
