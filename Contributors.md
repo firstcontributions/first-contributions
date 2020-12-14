@@ -29,6 +29,7 @@
   [caharalamm jeje](https://github.com/caharalamm)
 - [Karim Chanane](https://github.com/HyperActiveHub)
 - [Wadson Vaval](https://github.com/Wadprog)
+- [Adnan Ahmed Khan](https://github.com/adnan-repo)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
