@@ -2514,6 +2514,7 @@
 - [Hinal Tilavat](https://github.com/HinalTilavat)
 - [C5m7b4](https://github.com/C5m7b4)
 - [Alex Langsam](https://github.com/Alangsam)
+- [Noah Weingarden](https://github.com/nweingarden)
 - [Michelle McFarland](https://github.com/mcfarlm3)
 - [Gnax](https://github.com/Gnax49)
 - [Mavneet Kaur]()
