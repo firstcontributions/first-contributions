@@ -5940,6 +5940,7 @@
 - [Mithun Madhav](https://github.com/mithunmqb)
 - [Wahaj Ayub](https://github.com/WahajAyub)
 - [Jun Wang](https://github.com/friforever)
+- [Tatsuya Koyama](https://github.com/cotta0322)
 - [Bradley Ung](https://github.com/ungbk)
 - [tonalmathew](https://github.com/tonalmathew)
 - [Henry Starman](https://github.com/hfstarman)
