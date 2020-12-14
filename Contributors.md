@@ -20,6 +20,7 @@
 - [Andrew Carrigan](https://github.com/carrigan223)
   [Dinuka Soysa](https://github.com/dinukasoysa)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
+- [Ankit Mishra](https://github.com/ankitmishra03)
 - [Alex Pendell](https://github.com/Pendell)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Freya Pearse](https://github.com/FreyaP)
