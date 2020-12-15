@@ -12,6 +12,7 @@
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
 - [Machina](https://github.com/Ckrielle)
+- [Sina CENGIZ] (https://github.com/sinacengiz)
 - [Giovanni Moscato](https://github.com/codingcodewhilegoofin)
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
