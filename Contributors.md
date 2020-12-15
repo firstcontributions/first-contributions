@@ -15,6 +15,7 @@
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Mengmei Tu](https://github.com/mmeii)
+- [Syfa Collins](https://github.com/SyfaCollins)
 - [K.Yogeshwara Krishna](https://github.com/yogeshwara-krishna)
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
