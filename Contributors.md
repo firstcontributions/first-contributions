@@ -8530,3 +8530,4 @@
 - [Walid Sakr](https://github.com/wsakr)
 - [ev9nsk](https://github.com/ev9nsk)
 - [NemaPy] (https://github.com/nemapy)
+- [Md. Hasnain Ali](https://github.com/mdhasnainali)
