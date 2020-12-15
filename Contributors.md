@@ -3542,6 +3542,7 @@
 - [Charles Topliff](https://github.com/ctopliff)
 - [Rakshita Maheshwari](https://github.com/rakshitamaheshwari)
 - Sonu Saha
+- thumbripper79
 - [Johan Marais](https://github.com/timmyconnect)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - [Sushant Athley](https://github.com/uf-sushant)
