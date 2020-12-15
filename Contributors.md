@@ -40,6 +40,7 @@
 - [Wadson Vaval](https://github.com/Wadprog)
 - [Adnan Ahmed Khan](https://github.com/adnan-repo)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
+- [Zineb Fadili](https://github.com/zinebfadili)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Pranav Reddy Mannemela](https://github.com/saipranavr)
