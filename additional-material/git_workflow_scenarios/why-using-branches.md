@@ -24,6 +24,21 @@ If the question "Why do we use branching in version control like git?" still per
 
 Let's take a simple example to understand the branching strategy. A production car needs a paint job before its launch. Prior to its official sale, it was decided that the car would come in 'olive green' color as default. But some of the members in the manufacturing team decided to showcase the car in 'red' color. Hence an ambiguous situation arises and to avoid this problem branching was introduced.The red color paint job is like a branch to the master repository 'Car'. Pushing this branch will suggest the red color. If merged with the master repository the car will get the red color otherwise it will continue with olive green. Merging a contributors branch to the master repo of the organization depends on the project head.
 
+## what Is a Branching Strategy?
+Branching strategies coordinate work to allow for easier integration of changes and releases. They create a development workflow.
+
+**Why You Need it**
+For teams that have hundreds or thousands of developers, branching and merging can be difficult. Bad merges and late-stage integrations suck up developers time, potentially delaying future work or releases.
+
+To reduce the pain (and effort) for your teams, your branching strategy should aim to:
+
+Optimize productivity.
+Enable parallel development.
+Allow for a set of planned, structured releases.
+Provide a clear promotion path for software changes through production.
+Evolve to accommodate changes that are delivered, perhaps daily.
+Support multiple versions of released software and patches
+
 ## Example
 
 Alice is working on Feature A and Bob is working on Feature B. Alice is halfway done with Feature A and has made a few commits in alice. However, Feature A is quite hard to implement so Alice decides that she should rather work on Feature C and makes a few commits onto alice. Bob finished Feature B and decides that he would like to tackle Feature A and so pulls aliceinto bob.
