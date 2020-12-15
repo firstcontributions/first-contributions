@@ -34,6 +34,7 @@
 - [MrNNP](https://github.com/MrNNP)
 - [Avinash Kumar](https://github.com/Avii3301)
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
+- [Jayden Tweedie](https://github.com/jgregorytweedie)
   [caharalamm jeje](https://github.com/caharalamm)
 - [Karim Chanane](https://github.com/HyperActiveHub)
 - [Wadson Vaval](https://github.com/Wadprog)
