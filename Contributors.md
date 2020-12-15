@@ -85,6 +85,7 @@
 - [James Sheppard](https://github.com/jgsheppa)
 - [Hedwig Farthofer]((https://github.com/hedi-far)
 - [Josh Mu](https://github.com/joshmu)
+- [Aleksandar Knezevic Knele]
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Fregg](https://github.com/frozenegg)
 - [Nitin Gupta](https://github.com/nitingupta-123)
