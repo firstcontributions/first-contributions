@@ -70,6 +70,7 @@
 - [Gary Mathews II](https://github.com/gmathews6)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
+- [Xinyang Jin](https://github.com/xinyang-jin)
 - [Kishan Patel](https://github.com/KishanPatelGit)
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
