@@ -239,6 +239,7 @@
 - [OofChair](https://github.com/OofChair)
 - [mayosecc](https://github.com/mayosecc)
 - [NITIN KUMAR](https://github.com/nkthehustler)
+- [vjanz](https://github.com/vjanz)
 - [Liz Kipp](https://github.com/elizabethsn7)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
 - [Aditya Prakash](https://github.com/prakashaditya369)
