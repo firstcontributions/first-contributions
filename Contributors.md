@@ -1164,6 +1164,7 @@
 - [Aakriti Mishra](https://github.com/Aakriti1602)
 - [Mohamed Fadel](https://github.com/abonazem)
 - [Gautam kumar](https://github.com/gautam08)
+- [K Nidhi Karanth](https://github.com/knidhikaranth/)
 - [Gustavo Bedasi](https://github.com/GusBedasi)
 - [Jack Kendall](https://github.com/jkendall327)
 - [Frederick Bogdanoff](https://github.com/frederickbogdanoff)
