@@ -738,6 +738,7 @@
 - [Debobrata Bose](https://github.com/debobrata82)
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
+- [Emma Elkan](https://github.com/EmElkan)
 - W Chan
 - Connie Purcell
 - Harshit Sharma
