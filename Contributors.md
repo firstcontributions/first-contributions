@@ -8,6 +8,7 @@
 - [Gamez0](https://github.com/Gamez0)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
+- [Cooper Johnson](https://github.com/SupeDupeCoop)
 - [Ty Richardson](https://github.com/tyrichardson)
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
