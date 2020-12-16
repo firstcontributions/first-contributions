@@ -22,6 +22,7 @@
 - [Mengmei Tu](https://github.com/mmeii)
 - [Syfa Collins](https://github.com/SyfaCollins)
 - [K.Yogeshwara Krishna](https://github.com/yogeshwara-krishna)
+- [Yuxin Li](https://github.com/yuxinli915)
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
 - [moeka802](https://github.com/moeka802)
