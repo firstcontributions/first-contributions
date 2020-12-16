@@ -330,6 +330,7 @@
 - [Sulav Sapkota](https://github.com/SulavSapkota2060)
 - [ShadowCreator250](https://github.com/ShadowCreator250)
 - [Coby Sher](https://github.com/cobypear)
+- [Grey Fertich](https://github.com/greyfertich)
 - [Marchantia](https://github.com/mrchntia)
 - [Taiwo Akingboye](https://github.com/hogyny)
 - [Ebad Ali](https://github.com/ebadali)
