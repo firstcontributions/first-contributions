@@ -8450,6 +8450,7 @@
 - [Jason Shi](https://github.com/JasonShi31545Personal)
 - [Sindhuja](https://github.com/codeweaver22)
 - [Ted Chang](https://github.com/tedhchang)
+- [Jacob Hamilton](https://github.com/jacobhamilton12)
 - [Evan Timmons](https://github.com/timmonse)
 - [Bintang Pradana Erlangga Putra](https://github.com/bpradana)
 - [Adrian Nicholls](https://github.com/welfitt)
