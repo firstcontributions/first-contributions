@@ -1065,6 +1065,7 @@
 - [Girum A](https://github.com/galemu2)
 - [Jennifer Rosa](https://github.com/rosajen27)
 - [Afzal Shaikh](https://github.com/afzal-shaikh)
+- [Andres Nowak](https://github.com/andresnowak)
 - [Aayush](https://github.com/aayushsaini)
 - [Mitisha Agarwal](https://github.com/mitishaa)
 - [Gagandeep](https://github.com/GAGAN2608)
