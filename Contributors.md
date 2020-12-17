@@ -35,6 +35,7 @@
 - [Andrew Carrigan](https://github.com/carrigan223)
   [Dinuka Soysa](https://github.com/dinukasoysa)
 - [Pat Ausman] (https://github.com/pausman)
+- [Amit Cohen] (https://github.com/cohenamitc)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
 - [Ankit Mishra](https://github.com/ankitmishra03)
 - [Alex Pendell](https://github.com/Pendell)
