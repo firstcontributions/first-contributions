@@ -14,8 +14,7 @@
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
 - [Su Wei](https://github.com/akasuv)
-  [Harsh Thumar]
-  -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
+  [Harsh Thumar] -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
 - [Sina CENGIZ] (https://github.com/sinacengiz)
@@ -199,6 +198,7 @@
 - [David Kozdra](https://github.com/DavidKozdra)
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Smit Mistry](https://github.com/smit-mist)
+- [Brandon Holderman](https://github.com/brandonholderman)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
 - saurav
