@@ -6,6 +6,7 @@
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
 - [Gamez0](https://github.com/Gamez0)
+- [Talha Tariq](https://github.com/TT-talhatariq)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
