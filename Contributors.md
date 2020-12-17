@@ -31,6 +31,7 @@
 - [moeka802](https://github.com/moeka802)
 - [Andrew Carrigan](https://github.com/carrigan223)
   [Dinuka Soysa](https://github.com/dinukasoysa)
+- [Pat Ausman] (https://github.com/pausman)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
 - [Ankit Mishra](https://github.com/ankitmishra03)
 - [Alex Pendell](https://github.com/Pendell)
