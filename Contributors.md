@@ -144,6 +144,7 @@
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Alioune Diagne](https://github.com/Alioune98)
 - [Omoigui Efosa Abel](https://github.com/efosaomoigu)
+- [Sarthak Agarwal](https://github.com/agsarthak)
 - [Caleb Renfroe](https://github.com/ccrenfroe)
 - [Brett Searle](https://github.com/Brettasearle)
 - [benso1](https://github.com/benso1)
