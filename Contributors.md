@@ -8574,3 +8574,4 @@
 - [Renato Paiva](https://github.com/renatopaivabv)
 - [Darshani Audhish](https://github.com/darshani28)
 - [Ehsan Gudarzi](http://github.com/gudarzi)
+- [Ciantera Rose](http://github.com/ciantera)
