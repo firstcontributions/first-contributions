@@ -133,6 +133,7 @@
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Nadia Karizat](https://github.com/nkarizat)
 - [Lyle Kuykendall](https://github.com/elkirk)
+- [CrownCrafter](https://github.com/CrownCrafter)
 - [Danny Tran](https://github.com/DTDevelop)
 - [Jericho De Guzman](https://github.com/Greywolvesss)
 - [Branka Jesic](https://github.com/Branka19)
