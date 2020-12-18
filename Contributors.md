@@ -101,6 +101,7 @@
 - [James Sheppard](https://github.com/jgsheppa)
 - [Hedwig Farthofer]((https://github.com/hedi-far)
 - [Josh Mu](https://github.com/joshmu)
+- [Matthew Ricklefs](https://github.com/matthewricklefs)
 - [Aleksandar Knezevic Knele]
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Fregg](https://github.com/frozenegg)
