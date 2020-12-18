@@ -194,6 +194,7 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.ar.md">العربية</a>
         </td>
     </tr>
+    <Braden Bird>
     <tr>
         <td>
             <img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35" />
