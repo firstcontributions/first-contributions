@@ -4028,6 +4028,7 @@
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [Atul Kumar](https://github.com/atulksin)
 - [Jacob Kerr](https://github.com/jakejack13)
+- [Braden Bird](https://github.com/bradenslsb)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - [Robert Rauch](https://github.com/RobertRauch)
 - [Zachary Ho](https://github.com/zachy-ho)
