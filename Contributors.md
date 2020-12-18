@@ -1,7 +1,4 @@
 # Contributors
-
-- [MathProuv](https://github.com/mathprouv)
-- [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
 - [CodyArnholt](https://github.com/TromboneMoose)
 - [NaufilShaikh](https://github.com/naufil09)
@@ -40,6 +37,7 @@
 - [Pat Ausman] (https://github.com/pausman)
 - [Amit Cohen] (https://github.com/cohenamitc)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
+- [Dheeraj Tak](https://github.com/rshtk7)
 - [Ankit Mishra](https://github.com/ankitmishra03)
 - [Alex Pendell](https://github.com/Pendell)
 - [İlkay Dinç](https://github.com/ilkaydnc)
