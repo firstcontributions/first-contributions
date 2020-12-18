@@ -104,6 +104,7 @@
 - [Nitin Gupta](https://github.com/nitingupta-123)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Sriya R](https://github.com/SriyaR)
+- [Mick W](https://github.com/lazymango)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
 - [Chinmay Mulay](https://github.com/cmulay)
 - [Marek Nagy](https://github.com/marnagy)
