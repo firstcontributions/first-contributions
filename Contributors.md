@@ -215,6 +215,7 @@
 - [Gabriel Santana](https://github.com/gabrielsanttana)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Dawid Wijata](https://github.com/BordowyRydwan)
+- [Sideris](https://github.com/siderishub)
 - [Arjun.S](https://github.com/Arjun-Zaraki)
 - [Eduardo Gonzalez](https://github.com/Eduardo-Gonz)
 - [Jessa Daggs](https://github.com/jldaggs88)
