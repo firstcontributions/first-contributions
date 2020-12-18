@@ -2,6 +2,7 @@
 
 - [MathProuv](https://github.com/mathprouv)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
+- [Genesis Schaerrer](https://github.com/genesisschaerrer)
 - [CodyArnholt](https://github.com/TromboneMoose)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
