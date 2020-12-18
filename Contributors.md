@@ -8530,6 +8530,7 @@
 - [Andrew Bankston](https://github.com/andrewbankston)
 - [Fernando Harris](https://github.com/fharris)
 - [Ryan Lynch] (https://github.com/UniqueClone)
+- [Yashraj Motwani] (https://github.com/Yash117)
 - [Evgeny Vlasov] (https://github.com/vlasove)
 - [Richard Cook] (https://github.com/richastral)
 - [Muhammad Bilal] (https://github.com/muhammadbilall)
