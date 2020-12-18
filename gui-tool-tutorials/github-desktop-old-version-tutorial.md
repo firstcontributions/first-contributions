@@ -106,3 +106,8 @@ You could join our slack team in case you need any help or have any questions. [
 
 ## Tutorials Using Other Tools
 [Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+
+## if you want to comment after pull request you can leave a comment there also
+## if you want to comment after pull request you can leave a comment there also
+## if you want to comment after pull request you can leave a comment there also
+## if you want to comment after pull request you can leave a comment there also

@@ -12,7 +12,8 @@ A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a ke
 
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkold ezt a repot" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" 
+alt="forkold ezt a repot" />
 
 Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +24,8 @@ Készíteni fog egy másolatot erről a reporól a te saját git fiókodba.
 
 ## Klónozd a repot (clone)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klónozd ezt a repot" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" 
+alt="klónozd ezt a repot" />
 
 Most klónozd az elágaztatott repot a gépedre. Menj a GitHub fiókodra, nyisd meg a forkolt repositoryt, kattints a clone gombra, majd kattints a *copy to clipboard* ikonra.
 
@@ -34,7 +36,8 @@ git clone "url you just copied"
 ```
 a "url you just copied" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="másold az URL címet a vágólapra" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png"
+ alt="másold az URL címet a vágólapra" />
 
 Például:
 ```
@@ -64,7 +67,8 @@ git checkout -b add-gabor-takacs
 
 Nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben, majd add hozzá a neved. Ne a fájl elejére vagy végére helyezd, hanem a kettő közé. A kettő között bárhová teheted. Mentsd el a fájlt.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png"
+ alt="git status" />
 
 
 Ha a project könyvtárába navigálsz és futtatod a `git status` parancsot, akkor a következő módosításokat fogod látni:
