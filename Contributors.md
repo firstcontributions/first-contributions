@@ -2488,6 +2488,7 @@
 - [Archi Aggarwal]
 - [Carl Sagan]
 - [Rahul R]
+- [Nick]
 - [Devjeet Roy](https://github.com/devjeetroy98)
 - [Michelle Sandford](https://github.com/msandfor)
 - [Sanchit Gide ]
