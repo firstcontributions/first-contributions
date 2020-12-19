@@ -4347,6 +4347,7 @@
 - Rui Luís
 - Sarah
 - timamero
+- [Abdalla Ahmed](https://github.com/oplus/)
 - [Carlos Martins](https://github.com/luacmartins/)
 - Narendra Modi
 - Harshit Gangwar
