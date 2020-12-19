@@ -891,6 +891,7 @@
 - [ShubhaIN](https://github.com/ShubhaIn)
 - [Uros Mladenovic](https://github.com/LawAbidingPenguin)
 - [Andrea Barzaghi](https://github.com/dbrn)
+- [Andrean Lay](https://github.com/andreanlay)
 - Thomas Chase
 - Minh Le
 - Catherine Pas
