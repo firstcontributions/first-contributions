@@ -8584,3 +8584,4 @@
 - [Ciantera Rose](http://github.com/ciantera)
 - [Shashank] (https://github.com/wayne-197)
 - [bg117](https://github.com/bg117)
+- [Rizal Widyarta Gowandy](https://github.com/rizalgowandy)
