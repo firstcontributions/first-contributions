@@ -24,6 +24,7 @@
 - Kapil Singh Negi
 - [Gaurav Kar](https://github.com/grvkr777)
 - Conor Lambert
+- [Rebecca Epemolu] (https://github.com/repemolu)
 - [Jenndroid](https://github.com/jenndroid)
 - Marcus Luong (https://github.com/MarcusLuong)
 - [Ahsan Khan](https://github.com/ahsankhan26)
