@@ -16,6 +16,7 @@
 - [kris tel](https://github.com/panamtown04)
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
+  [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
 - [Queena](https://github.com/canikillyoulater)
   -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
