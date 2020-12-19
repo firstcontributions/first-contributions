@@ -2354,6 +2354,7 @@
 - [Ganapathi Subramanyam Jayam ](https://github.com/ganapathi12)
 - [Rhubanraj](https://github.com/MrRhuezzler)
 - [Vladislav Semkin](https://github.com/vasemkin)
+- [Nick Farland](https://github.com/RedDedVolvo)
 - [Sakshi kumari](https://github.com/sakshi-06)
 - [Alex Taietti 🇹](https://github.com/AlexTaietti)
 - [Robin Trumpie](https://github.com/rtrumpie)
