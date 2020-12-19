@@ -153,6 +153,7 @@
 - [Stephen Jackson](http://github.com/Dukeboxz)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - [Omar Gatica Analco](https://github.com/Omarcito017)
+- [Jacob G](https://github.com/dzejkob1218)
 - [Sina Rabiei](https://github.com/nssina)
 - [Alex Keaveney](https://github.com/alexkeaveney)
 - [Paulson J Paul](https://github.com/paulsonjpaul)
