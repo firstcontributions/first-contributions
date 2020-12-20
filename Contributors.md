@@ -62,6 +62,7 @@
 - [Leonardo Ong](https://github.com/leonardoong)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
+- [Kai Ellis] (https://github.com/kellisfm)
 - [Pranav Reddy Mannemela](https://github.com/saipranavr)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/)
 - [Enes Guven](https://github.com/jamiryutheb)
