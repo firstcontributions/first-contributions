@@ -69,6 +69,7 @@
 - [Enes Guven](https://github.com/jamiryutheb)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
+- [Damjan Radev](https://github.com/dameradev)
 - [Oskar Olaszczyk](https://github.com/oskarolaszczyk)
 - [Ernesto](https://github.com/ensoam)
 - [Nitzan Nehushtan] (https://github.com/nitzannehushtan)
