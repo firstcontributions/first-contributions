@@ -8571,6 +8571,7 @@
 - [Fernanda Provasi](https://github.com/Feprovasi)
 - [Quang Nguyen](https://github.com/quang-sudo)
 - [acphil2](https://github.com/acphil2)
+- [Arif Jehda-Oh](https://github.com/arifjehoh)
 - [Michael Gartner](https://github.com/mdroidian)
 - [Thang Cao](https://github.com/shiyoline)
 - [Kify](https://github.com/Kify7)
