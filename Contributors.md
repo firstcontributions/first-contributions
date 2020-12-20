@@ -60,6 +60,7 @@
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Zineb Fadili](https://github.com/zinebfadili)
 - [Leonardo Ong](https://github.com/leonardoong)
+- [Faouzi Mohamed](https://github.com/faouzimohamed)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Kai Ellis] (https://github.com/kellisfm)
