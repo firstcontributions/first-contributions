@@ -4064,6 +4064,7 @@
 - [dumbitdownjr](https://github.com/dumbitdownjr)
 - [zoe](https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
+- [Mike Karl](https://github.com/GoranSalzmann)
 - fflobert
 - [Ajay Srivastava](https://github.com/ajaystxus)
 - nocten
