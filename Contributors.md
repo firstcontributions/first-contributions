@@ -50,6 +50,7 @@
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
+  [James Crawford](https://github.com/crawfjm)
 - [Avinash Kumar](https://github.com/Avii3301)
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
 - [Jayden Tweedie](https://github.com/jgregorytweedie)
