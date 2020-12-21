@@ -8604,4 +8604,5 @@
 - [moaz basheer](https://github.com/moazbasheer)
 - [Brian Tieu](http://github.com/briantieu)
 - [Rizwan](https://github.com/cr440)
+- [Shamil Gemuev](https://github.com/NobleBumblebee)
 James Crawf
