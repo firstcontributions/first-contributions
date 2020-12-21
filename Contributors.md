@@ -162,6 +162,7 @@
 - [Omar Gatica Analco](https://github.com/Omarcito017)
 - [Jacob G](https://github.com/dzejkob1218)
 - [Sina Rabiei](https://github.com/nssina)
+- [Matt Black](https://github.com/mattnmag)
 - [Alex Keaveney](https://github.com/alexkeaveney)
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Alioune Diagne](https://github.com/Alioune98)
