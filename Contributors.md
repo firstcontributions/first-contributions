@@ -4102,6 +4102,7 @@
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - [Purvesh Gandhi](https://github.com/purvesh261)
 - [EmpalGentong][https://github.com/empalgentong]
+- [Eduardo Laquintana][https://github.com/EduardoLaquintana]
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
