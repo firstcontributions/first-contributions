@@ -23,6 +23,7 @@
  -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Maruf](https://github.com/immaruf)
+- [Maximiliano Sánchez](https://github.com/maxisan)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
 - [Milton Orellana] (https://github.com/orellanamilton)
 - [Sina CENGIZ] (https://github.com/sinacengiz)
