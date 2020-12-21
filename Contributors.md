@@ -15,6 +15,7 @@
 - [Ty Richardson](https://github.com/tyrichardson)
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
+- [Koshima Goyal](https://github.com/koshimagoyal)
 - [Su Wei](https://github.com/akasuv)
   [Harsh Thumar]
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
