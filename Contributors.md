@@ -8603,6 +8603,7 @@
 - [Renato Paiva](https://github.com/renatopaivabv)
 - [Darshani Audhish](https://github.com/darshani28)
 - [Ehsan Gudarzi](http://github.com/gudarzi)
+- [hadi chloun](https://github.com/hadichloun)
 - [Ciantera Rose](http://github.com/ciantera)
 - [Shashank] (https://github.com/wayne-197)
 - [bg117](https://github.com/bg117)
