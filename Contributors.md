@@ -140,6 +140,7 @@
 - [Elbin Cenisev](https://github.com/elbin-cenisev)
 - [Joy Okwudire](https://github.com/chizycodes)
 - [Tugrik Orbit](https://github.com/rests-top)
+- [Cris Moran](https://github.com/Cris-Moran)
 - [Jan Lewandoski](https://github.com/jan-lewandoski)
 - [Joshua Razon](https://github.com/joshrazon)
 - [Ebrahim Mansour](https://github.com/ebrahimamer)
