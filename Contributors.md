@@ -29,6 +29,7 @@
 - [Sina CENGIZ] (https://github.com/sinacengiz)
 - [Giovanni Moscato](https://github.com/codingcodewhilegoofin)
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
+- [Manteg Singh](https://github.com/mantegSingh12)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Mengmei Tu](https://github.com/mmeii)
 - [Lucas Stone-Drake](https://github.com/LucasSD)
