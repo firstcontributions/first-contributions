@@ -8604,6 +8604,7 @@
 - [Renato Paiva](https://github.com/renatopaivabv)
 - [Darshani Audhish](https://github.com/darshani28)
 - [Ehsan Gudarzi](http://github.com/gudarzi)
+- [Jacob Mason ](http://github.com/JacobMason83)
 - [hadi chloun](https://github.com/hadichloun)
 - [Ciantera Rose](http://github.com/ciantera)
 - [Shashank] (https://github.com/wayne-197)
