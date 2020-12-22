@@ -11,6 +11,7 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Enrico Termine](https://github.com/enricospT)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Lalit 😊](https://github.com/lalit2005)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
 - [Ty Richardson](https://github.com/tyrichardson)
