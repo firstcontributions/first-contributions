@@ -8076,6 +8076,7 @@
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
+- [Maximillian Fish](https://github.com/maxfish711)✨
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Rodrigo Marcolino](https://github.com/rodrigo-marcolino)
@@ -8570,6 +8571,7 @@
 - [Adam Thompson-Sharpe](https://github.com/MysteryBlokHed)
 - [Nitzan Lev](https://github.com/ballonura)
 - [Harish Bahl](https://github.com/harishbehl27)
+- [Austin Accomando](https://github.com/reuse898)
 - [Austin Accomando](https://github.com/reuse898)
 - [Harrison Cramer](https://github.com/KingOfCramers)
 - [Aditya B](https://github.com/adifeb/first-contributions)
