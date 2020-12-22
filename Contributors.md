@@ -8594,7 +8594,7 @@
 - [Ryan Lynch] (https://github.com/UniqueClone)
 - [Yashraj Motwani] (https://github.com/Yash117)
 - [Evgeny Vlasov] (https://github.com/vlasove)
-- [Richard Cook] (https://github.com/richastral)
+- [Richard Cook](https://github.com/richastral)
 - [Muhammad Bilal] (https://github.com/muhammadbilall)
 - [Tommy Swimmer] (https://github.com/tommy-swimmer)
 - [Jessica Gillim] (https://github.com/obstaclez)
