@@ -8630,3 +8630,4 @@
 James Crawf
 - [Muhammad Noman Soomro](https://github.com/MuhammadNomanS)
 - [Maicon Peixinho](https://github.com/maiconpeixinho)
+- [Ricardo Ruiz](https://github.com/HxtVenom)
