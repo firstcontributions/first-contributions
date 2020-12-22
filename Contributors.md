@@ -18,6 +18,7 @@
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
 - [Koshima Goyal](https://github.com/koshimagoyal)
+- [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
   [Harsh Thumar]
@@ -618,7 +619,6 @@
 - [Mark R Baker](https://github.com/mrbaker1917)
 - [Manoj Adhikari](https://github.com/jonamadk)
 - [Wildan Bash](https://github.com/wildanbash)
-
 - [Arthur Lecert](https://github.com/Arthlec)
 - [Anindo Chakraborty](https://github.com/anindo78)
 - [Arif Bashar](https://github.com/arif-bashar)
