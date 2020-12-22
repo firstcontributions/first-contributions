@@ -22,7 +22,6 @@
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
-  [Harsh Thumar]
 - [eranns](https://github.com/eranns)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
@@ -48,7 +47,7 @@
 - [Napier](https://github.com/napierbb)
 - [moeka802](https://github.com/moeka802)
 - [Andrew Carrigan](https://github.com/carrigan223)
-  [Dinuka Soysa](https://github.com/dinukasoysa)
+- [Dinuka Soysa](https://github.com/dinukasoysa) 
 - [Pat Ausman] (https://github.com/pausman)
 - [Amit Cohen] (https://github.com/cohenamitc)
 - [Nikhil Reddy](https://github.com/nikhilreddyx)
