@@ -22,7 +22,7 @@
 - [Su Wei](https://github.com/akasuv)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
   [Harsh Thumar]
-- [eranns](https://github.com/eranns) 
+- [eranns](https://github.com/eranns)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
 - [Queena](https://github.com/canikillyoulater)
@@ -8468,6 +8468,7 @@
 - [Namo-Amituofo](https://github.com/Namo-Amituofo)
 - [devfig37](https://github.com/devfig37)
 - [karubian](https://github.com/karubian)
+- [John Ha](https://github.com/Steelgrey)
 - [Flippant Banana](https://github.com/flippantbanana24)
 - [Leonard Goldstein](https://github.com/goldst)
 - [Lukas Stevens](https://github.com/lukasstevens)
