@@ -926,6 +926,7 @@
 - Minh Le
 - Catherine Pas
 - Josef Prause
+- [Mazen Zeidan](https://github.com/MazenZeidan)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Jason H.](https://github.com/PythonTrader88)
 - [Marcus Visic](https://github.com/mvisic)
