@@ -11,6 +11,8 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Enrico Termine](https://github.com/enricospT)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Neenus Gabriel](https://github.com/neenus)
+- [Lalit 😊](https://github.com/lalit2005)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
 - [Ty Richardson](https://github.com/tyrichardson)
@@ -18,7 +20,9 @@
 - [kris tel](https://github.com/panamtown04)
 - [Koshima Goyal](https://github.com/koshimagoyal)
 - [Su Wei](https://github.com/akasuv)
+- [Molly Wehrenberg](https://github.com/mwehrenberg)
   [Harsh Thumar]
+- [eranns](https://github.com/eranns)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
 - [Queena](https://github.com/canikillyoulater)
@@ -76,6 +80,7 @@
 - [Enes Guven](https://github.com/jamiryutheb)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Frank MUNGERI](https://github.com/mfrank37)
+- [Deepak Kumar] (https://github.com/damphir7)
 - [Damjan Radev](https://github.com/dameradev)
 - [Oskar Olaszczyk](https://github.com/oskarolaszczyk)
 - [Ernesto](https://github.com/ensoam)
@@ -133,6 +138,9 @@
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Raychani1](https://github.com/Raychani1)
 - [Malvika Jindal](https://github.com/malvika-jindal)
+- [Prakash Choure](https://github.com/PrakashChoure2002/first-contributions.git )
+- [sunita Choure]https://github.com/Sunita Choure/great women.git )
+- [Sevakram Choure]https://github.com/Sunita Choure/great man.git )
 - [Garima Pandey](https://github.com/garima652001)
 - [Aritra Mondal](https://github.com/aritra1999)
 - [Sebu Elias](https://github.com/sebuelias)
@@ -214,6 +222,7 @@
 - sanjubaba
 - [Abishek Jayan](https://github.com/Abishek-Jayan)
 - [Rebecca Tracey-Timoney](https://github.com/rebeccatraceyt)
+- [Shilpita Biswas](https://github.com/sh-biswas)
 - [Listya](https://github.com/sikami)
 - [Ryan Kane](https://github.com/ryantylerkane)
 - [Charles Green](https://github.com/charlie-green10)
@@ -411,6 +420,7 @@
 - [Deepak Singh](https://github.com/creepy-pirate)
 - [Diego Mucheniski](https://github.com/mucheniski)
 - [Rachel Shoemaker](https://github.com/RachelShoemaker)
+- [Samuel Wu](https://github.com/TwoPizza9621536)
 - [Hritika Dhasal](https://github.com/HellFire03)
 - [Charlie Dixon](https://github.com/CharlieDixon)
 - [Viv San](https://github.com/viv-san)
@@ -919,6 +929,7 @@
 - Minh Le
 - Catherine Pas
 - Josef Prause
+- [Mazen Zeidan](https://github.com/MazenZeidan)
 - [Jarrett Dougherty](https://github.com/JarrettD5309)
 - [Jason H.](https://github.com/PythonTrader88)
 - [Marcus Visic](https://github.com/mvisic)
@@ -8068,6 +8079,7 @@
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
+- [Maximillian Fish](https://github.com/maxfish711)✨
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
 - Rasiaq
 - [Rodrigo Marcolino](https://github.com/rodrigo-marcolino)
@@ -8461,6 +8473,7 @@
 - [Namo-Amituofo](https://github.com/Namo-Amituofo)
 - [devfig37](https://github.com/devfig37)
 - [karubian](https://github.com/karubian)
+- [John Ha](https://github.com/Steelgrey)
 - [Flippant Banana](https://github.com/flippantbanana24)
 - [Leonard Goldstein](https://github.com/goldst)
 - [Lukas Stevens](https://github.com/lukasstevens)
@@ -8562,6 +8575,7 @@
 - [Nitzan Lev](https://github.com/ballonura)
 - [Harish Bahl](https://github.com/harishbehl27)
 - [Austin Accomando](https://github.com/reuse898)
+- [Austin Accomando](https://github.com/reuse898)
 - [Harrison Cramer](https://github.com/KingOfCramers)
 - [Aditya B](https://github.com/adifeb/first-contributions)
 - [Joshua Dillon](https://github.com/jdil1223)
@@ -8623,4 +8637,6 @@
 - [Rizwan](https://github.com/cr440)
 - [Shamil Gemuev](https://github.com/NobleBumblebee)
 James Crawf
-
+- [Muhammad Noman Soomro](https://github.com/MuhammadNomanS)
+- [Maicon Peixinho](https://github.com/maiconpeixinho)
+- [Ricardo Ruiz](https://github.com/HxtVenom)
