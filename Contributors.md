@@ -18,6 +18,7 @@
 - [kris tel](https://github.com/panamtown04)
 - [Koshima Goyal](https://github.com/koshimagoyal)
 - [Su Wei](https://github.com/akasuv)
+- [Molly Wehrenberg](https://github.com/mwehrenberg)
   [Harsh Thumar]
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
