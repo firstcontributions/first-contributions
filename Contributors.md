@@ -8605,6 +8605,7 @@
 - [ev9nsk](https://github.com/ev9nsk)
 - [NemaPy] (https://github.com/nemapy)
 - [Jagadeesh G](https://github.com/therandomuserr)
+- [Jonathan](https://github.com/Jonny2379)
 - [Rahul K](https://github.com/rkoonant)
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
@@ -8622,3 +8623,4 @@
 - [Rizwan](https://github.com/cr440)
 - [Shamil Gemuev](https://github.com/NobleBumblebee)
 James Crawf
+
