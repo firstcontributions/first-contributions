@@ -417,6 +417,7 @@
 - [Deepak Singh](https://github.com/creepy-pirate)
 - [Diego Mucheniski](https://github.com/mucheniski)
 - [Rachel Shoemaker](https://github.com/RachelShoemaker)
+- [Samuel Wu](https://github.com/TwoPizza9621536)
 - [Hritika Dhasal](https://github.com/HellFire03)
 - [Charlie Dixon](https://github.com/CharlieDixon)
 - [Viv San](https://github.com/viv-san)
