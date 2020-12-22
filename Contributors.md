@@ -214,6 +214,7 @@
 - sanjubaba
 - [Abishek Jayan](https://github.com/Abishek-Jayan)
 - [Rebecca Tracey-Timoney](https://github.com/rebeccatraceyt)
+- [Shilpita Biswas](https://github.com/sh-biswas)
 - [Listya](https://github.com/sikami)
 - [Ryan Kane](https://github.com/ryantylerkane)
 - [Charles Green](https://github.com/charlie-green10)
