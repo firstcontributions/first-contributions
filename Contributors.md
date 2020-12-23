@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [MathProuv](https://github.com/mathprouv)
+- [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
 - [Eric J](https://github.com//EricJB77)
 - [Tushar Kumawat](https://github.com/tusharkumawat)
