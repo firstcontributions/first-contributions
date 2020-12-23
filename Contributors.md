@@ -31,7 +31,7 @@
  -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Maruf](https://github.com/immaruf)
-- [Nikolaos Dimitrakakis]( https://github.com/NikolaosDimitrakakis) 
+- [NikolaosDimitrakakis]( https://github.com/NikolaosDimitrakakis) 
 - [lazaraaus](https://github.com/lazaraaus)
 - [Maximiliano Sánchez](https://github.com/maxisan)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
