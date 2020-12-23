@@ -1,6 +1,7 @@
 # Contributors
 
 - [MathProuv](https://github.com/mathprouv)
+- [Barry Foye](https://github.com/BarryFoye)
 - [Tushar Kumawat](https://github.com/tusharkumawat)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
