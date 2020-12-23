@@ -6143,6 +6143,7 @@
 - [Adrian](https://github.com/adrsolheim)
 - [Giancarlo Bacci](https://github.com/bacci)
 - [Sharat Chandar M](https://github.com/SharatChandar)
+- [Swastik Mantry](https://github.com/Swastik-Mantry)
 - [Ryan Hardin](https://github.com/RyanHardin)
 - [David Gibbons](https://github.com/gibbonsdav)
 - [Oleg Zinin](https://github.com/OlegZinin)
