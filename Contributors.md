@@ -1389,6 +1389,7 @@
 - [Himanshi Kaushik](https://github.com/himanshi1996)
 - [Hammed Babatunde](https://github.com/HammedBabatunde)
 - [Ananya Bal](https://github.com/Anniebbb)
+- [Max Gogats] (https://github.com/MaxGogats)
 - [Siddharth Mohanty](https://github.com/siddharth-fortex)
 - [Jorge Reyes Vargas](https://github.com/jarvars)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
