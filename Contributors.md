@@ -3233,6 +3233,7 @@
 - [Franklyn Chisom](https://github.com/ajifrank75)
 - [Patrick Mackridge](https://github.com/PatrickMackridge)
 - [Sachin Verma](https://github.com/sachincpu)
+- [Faris Aiman] (https://github.com/FarisArch)
 - [Ido Elyashar](https://github.com/Idoos)
 - [Neely Mann](https://github.com/NeelyAnne)
 - [Patrick Sheehan](https://github.com/patrick-sheehan)
