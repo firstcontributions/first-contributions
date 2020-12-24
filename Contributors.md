@@ -28,11 +28,10 @@
 - [eranns](https://github.com/eranns)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
-- [Queena](https://github.com/canikillyoulater)
- -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
+- [Queena](https://github.com/canikillyoulater) -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Maruf](https://github.com/immaruf)
-- [NikolaosDimitrakakis]( https://github.com/NikolaosDimitrakakis) 
+- [NikolaosDimitrakakis](https://github.com/NikolaosDimitrakakis)
 - [lazaraaus](https://github.com/lazaraaus)
 - [Maximiliano Sánchez](https://github.com/maxisan)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
@@ -145,7 +144,7 @@
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Raychani1](https://github.com/Raychani1)
 - [Malvika Jindal](https://github.com/malvika-jindal)
-- [Prakash Choure](https://github.com/PrakashChoure2002/first-contributions.git )
+- [Prakash Choure](https://github.com/PrakashChoure2002/first-contributions.git)
 - [sunita Choure]https://github.com/Sunita Choure/great women.git )
 - [Sevakram Choure]https://github.com/Sunita Choure/great man.git )
 - [Garima Pandey](https://github.com/garima652001)
@@ -282,6 +281,7 @@
 - [Jashandeep Singh](https://github.com/jashn0101)
 - [Ching-an Wu](https://github.com/chingandy)
 - [Dan Westlund](https://github.com/2stashs)
+- [Hanseul-Lee](https://github.com/hanseul-lee/)
 - [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
 - [Rustbolt](https://github.com/Rustbolt)
@@ -4131,7 +4131,7 @@
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - [Purvesh Gandhi](https://github.com/purvesh261)
 - [EmpalGentong][https://github.com/empalgentong]
-- [Eduardo Laquintana][https://github.com/EduardoLaquintana]
+- [Eduardo Laquintana][https://github.com/eduardolaquintana]
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
@@ -8562,7 +8562,7 @@
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
-- [Meeru](https://github.com/m33ru) ¯\_(ツ)_/¯
+- [Meeru](https://github.com/m33ru) ¯\_(ツ)\_/¯
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
@@ -8653,7 +8653,7 @@
 - [Brian Tieu](http://github.com/briantieu)
 - [Rizwan](https://github.com/cr440)
 - [Shamil Gemuev](https://github.com/NobleBumblebee)
-James Crawf
+  James Crawf
 - [Muhammad Noman Soomro](https://github.com/MuhammadNomanS)
 - [Maicon Peixinho](https://github.com/maiconpeixinho)
 - [Ricardo Ruiz](https://github.com/HxtVenom)
