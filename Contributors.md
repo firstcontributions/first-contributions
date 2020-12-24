@@ -8658,4 +8658,5 @@ James Crawf
 - [Ricardo Ruiz](https://github.com/HxtVenom)
 - [Shubham Priyank](https://github.com/priyank-091)
 - [Dewansh Thakur](https://github.com/dewanshDT)
+- [Lucas K] (https://github.com/lk1ng)
 - [Justin Tran](https://github.com/justintran12)
