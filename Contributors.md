@@ -5,6 +5,7 @@
 - [Nikolaus Koopmann](https://github.com/PremKolar)
 - [Arthur Sena](https://github.com/senaarth)
 - [Steve Bunting](https://github.com/stebunting)
+- [Anay Joshi](https://github.com/anayjoshi1608)
 - [Aman Patel](https://github.com/amanptl)
 - [Yash Kiran Chitre](https://github.com/yashchitre03)
 - [Rohan Sodha](https://github.com/Rohan12152001)
