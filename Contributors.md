@@ -6495,6 +6495,7 @@
 - [Barbara Washington](https://github.com/silverbright)
 - [Himanshu Gosavi](https://github.com/Himanshu-2998-hash)
 - [Jannisko](https://github.com/jannisko/)
+- [Muhammad Hamza](https://github.com/MD-Hamza)
 - [rick lacerte](https://github.com/ricklacerte)
 - [Namolab](https://github.com/namolab)
 - [nickfiggins](https://github.com/nickfiggins)
