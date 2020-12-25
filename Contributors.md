@@ -1,5 +1,6 @@
 # Contributors
 
+- [Magicianred](https://github.com/Magicianred)
 - [MathProuv](https://github.com/mathprouv)
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
