@@ -82,6 +82,7 @@
 - [Karim Chanane](https://github.com/HyperActiveHub)
 - [Wadson Vaval](https://github.com/Wadprog)
 - [Adnan Ahmed Khan](https://github.com/adnan-repo)
+- [Carlos Ubaldo](https://github.com/EncryptedScreen)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Zineb Fadili](https://github.com/zinebfadili)
 - [Leonardo Ong](https://github.com/leonardoong)
