@@ -250,6 +250,7 @@
 - [Brandon Holderman](https://github.com/brandonholderman)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
+- [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastava
 - [Justin Vocke](https://github.com/justin-vocke)
