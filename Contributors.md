@@ -4487,6 +4487,7 @@
 - [Jonathan Watson](https://github.com/jrwatson99)
 - [Jason Blais](https://github.com/jasonblais)
 - [Davi Baptista](https://github.com/baptixta)
+- [João Felipe](https://github.com/JoaoFelipeFlorencio)
 - [Akshit Proothi](https://github.com/akshitproothi)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Rachmad Firmansyah](https://github.com/rahmadfirman59/)
