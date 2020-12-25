@@ -1,5 +1,6 @@
 # Contributors
 
+- [Magicianred](https://github.com/Magicianred)
 - [MathProuv](https://github.com/mathprouv)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [CodyArnholt](https://github.com/TromboneMoose)
