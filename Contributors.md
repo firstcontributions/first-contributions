@@ -23,6 +23,7 @@
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
 - [Koshima Goyal](https://github.com/koshimagoyal)
+- [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
