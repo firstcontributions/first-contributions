@@ -1,5 +1,7 @@
 # Contributors
 
+- [Magicianred](https://github.com/Magicianred)
+- [Hasan Ozgur Guclu](https://github.com/muzkaviy)
 - [MathProuv](https://github.com/mathprouv)
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
@@ -7,6 +9,7 @@
 - [Tushar Kumawat](https://github.com/tusharkumawat)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
+- [Ayush Jain] (https://github.com/jain18ayush)
 - [CodyArnholt](https://github.com/TromboneMoose)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
@@ -16,6 +19,7 @@
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Neenus Gabriel](https://github.com/neenus)
 - [Lalit 😊](https://github.com/lalit2005)
+- [Bobbyhoff](https://github.com/Bobbyhoff)
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
@@ -23,6 +27,8 @@
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
 - [Koshima Goyal](https://github.com/koshimagoyal)
+- [Shravan](https://github.com/kvshravan)
+- [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
@@ -54,6 +60,7 @@
 - [Napier](https://github.com/napierbb)
 - [moeka802](https://github.com/moeka802)
 - [Andrew Carrigan](https://github.com/carrigan223)
+- [Naveen Prasanth](https://github.com/NaveenPrasanth)
 - [Dinuka Soysa](https://github.com/dinukasoysa)
 - [Pat Ausman] (https://github.com/pausman)
 - [Amit Cohen] (https://github.com/cohenamitc)
@@ -77,6 +84,7 @@
 - [Karim Chanane](https://github.com/HyperActiveHub)
 - [Wadson Vaval](https://github.com/Wadprog)
 - [Adnan Ahmed Khan](https://github.com/adnan-repo)
+- [Carlos Ubaldo](https://github.com/EncryptedScreen)
 - [Aritra Ghosh](https://github.com/GitHubAri/)
 - [Zineb Fadili](https://github.com/zinebfadili)
 - [Leonardo Ong](https://github.com/leonardoong)
@@ -210,6 +218,7 @@
 - [Leevi Andrews](https://github.com/leeviaa)
 - [vamsi]
 - [Jab Zinnia](https://github.com/Rieu2)
+- [Dhananjay Joshi](https://github.com/DjSPIT)
 - [L Cai](https://github.com/lbcai)
 - [Karen Suzue](https://github.com/karensuzue)
 - [Milan Zagorac](https://github.com/milzags)
@@ -249,6 +258,7 @@
 - [Brandon Holderman](https://github.com/brandonholderman)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
+- [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastava
 - [Justin Vocke](https://github.com/justin-vocke)
@@ -2005,6 +2015,7 @@
 - [Abnaser](https://github.com/Abnaser)
 - [J Rahul](https://github.com/rahultesla)
 - [Onaedo Nwokolo](https://github.com/Onaedo)
+- [Christopher Glikpo](https://github.com/chrisqwesiglikpo)
 - [Pulsejit](https://github.com/pulsejit)
 - [Revanth H S](https://github.com/revi97)
 - [Shivam Aranya](https://github.com/shivamdn9)
@@ -2218,6 +2229,7 @@
 - [Michael]
 - [Sujatha Mohan sujathamlak]
 - [Kautilya Pandey](https://github.com/kpx3)
+- [Wenyu Ding](https://github.com/WenDing1997)
 - [Nicole Clearie]
 - [hamdan abdul](https://github.com/Hamhunter)
 - [Nicole Clearie]
@@ -4479,6 +4491,7 @@
 - [Jonathan Watson](https://github.com/jrwatson99)
 - [Jason Blais](https://github.com/jasonblais)
 - [Davi Baptista](https://github.com/baptixta)
+- [João Felipe](https://github.com/JoaoFelipeFlorencio)
 - [Akshit Proothi](https://github.com/akshitproothi)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Rachmad Firmansyah](https://github.com/rahmadfirman59/)
@@ -8645,6 +8658,7 @@
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
 - [Renato Paiva](https://github.com/renatopaivabv)
+- [KA] (https://github.com/KA2033)
 - [Darshani Audhish](https://github.com/darshani28)
 - [Ehsan Gudarzi](http://github.com/gudarzi)
 - [Jacob Mason ](http://github.com/JacobMason83)
@@ -8667,4 +8681,7 @@ James Crawf
 - [Lucas K] (https://github.com/lk1ng)
 - [Justin Tran](https://github.com/justintran12)
 - [Shankar varat](https://github.com/shankarvarat)
+- [Ankit rawat](https://github.com/Ankit7895)
+- [Shubh Deep] (https://github.com/shubh128)
+- [Zhenkai Weng](https://github.com/oakrc)
 
