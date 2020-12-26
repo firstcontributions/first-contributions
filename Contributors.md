@@ -1,6 +1,8 @@
 # Contributors
 
 - [Magicianred](https://github.com/Magicianred)
+- [pankajbhai makwana](https://github.com/pankajmakwana001)
+
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
 - [MathProuv](https://github.com/mathprouv)
 - [Orit Hashim](https://github.com/OritHashim)
