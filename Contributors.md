@@ -227,6 +227,7 @@
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [John Lee](https://github.com/syntheticjohn)
+- [Paramita Tejasvi](https://github.com/paramita-tejasvi)
 - [Thomas Glenn](https://github.com/thomasglenngit)
 - [Bingyang Hu](https://github.com/hby93222)
 - [Becky Richardson](https://github.com/beckyrich)
