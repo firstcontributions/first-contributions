@@ -11,6 +11,7 @@
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
 - [Ayush Jain] (https://github.com/jain18ayush)
 - [CodyArnholt](https://github.com/TromboneMoose)
+- [blinCharter](https://github.com/blinCharter)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
 - [Gamez0](https://github.com/Gamez0)
