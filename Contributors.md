@@ -9,6 +9,7 @@
 - [Tushar Kumawat](https://github.com/tusharkumawat)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
+- [Ayush Jain] (https://github.com/jain18ayush)
 - [CodyArnholt](https://github.com/TromboneMoose)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
