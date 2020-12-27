@@ -360,6 +360,7 @@
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
 - [Jeremie Bogaert](https://github.com/jebogaert)
 - [Samuel Sorial](https://github.com/Samuel-Sorial)
+- [Samuel McKean](https://github.com/samuelmckean)
 - [Suman Jha](https://github.com/frozenplanet14)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
 - [Success John](https://github.com/success-john)
