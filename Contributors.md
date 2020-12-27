@@ -60,6 +60,7 @@
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
 - [moeka802](https://github.com/moeka802)
+- [LaxmanPache](https://github.com/laxmanpache)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [Naveen Prasanth](https://github.com/NaveenPrasanth)
 - [Dinuka Soysa](https://github.com/dinukasoysa)
