@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 
 - [Magicianred](https://github.com/Magicianred)
@@ -22,6 +22,7 @@
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Neenus Gabriel](https://github.com/neenus)
 - [Lalit 😊](https://github.com/lalit2005)
+- [Jose Uribe](https://github.com/josekembies)
 - [Bobbyhoff](https://github.com/Bobbyhoff)
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
