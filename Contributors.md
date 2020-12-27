@@ -5721,6 +5721,7 @@
 - [Gregg Hansen](https://github.com/Sim8-coder)
 - [Pretam Ray](https://github.com/raypretam)
 - [Tommy Tham](https://github.com/tommytham)
+- [Andreas Vrachimi](https://github.com/avrachimi)
 - [Dedy Puji](https://github.com/ddypjj)
 - [Troy Novak](https://github.com/tnovakgh)
 - [Goutham Menon](https://github.com/gouthammenon3)
