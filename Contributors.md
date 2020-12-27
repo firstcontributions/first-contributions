@@ -20,6 +20,7 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Enrico Termine](https://github.com/enricospT)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Bryant Juspi] (https://github.com/bjuspi)
 - [Neenus Gabriel](https://github.com/neenus)
 - [Lalit 😊](https://github.com/lalit2005)
 - [Jose Uribe](https://github.com/josekembies)
