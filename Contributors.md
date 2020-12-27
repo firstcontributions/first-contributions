@@ -36,6 +36,7 @@
 - [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
+- [Shyam Sundar Vashishtha](https://github.com/shyam640)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
 - [eranns](https://github.com/eranns)
 - [somendra kumar](https://github.com/somendrakr)
