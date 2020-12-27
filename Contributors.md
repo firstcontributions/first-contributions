@@ -3140,6 +3140,7 @@
 - [Alison Li](https://github.com/Alison-Li)
 - [Levit Kanner](https://github.com/levitkanner)
 - [Vinicius Melo](https://github.com/vmeelo)
+- [Prajjwal Mishra](https://github.com/prajjwalm)
 - [Uka Emmanuel](https://github.com/Mista-Rite)
 - [Kayla Tremble]
 - [Synchroynme](https://github.com/Synchronyme)
