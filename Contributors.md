@@ -6977,6 +6977,7 @@
 - [Victor Doh Kim](https://github.com/dohkim)
 - [Justin Kuan](https://github.com/jkuan1)
 - [Hari Krishnamurthy](https://github.com/harry389)
+- [Jess Gilleran](https://github.com/jessgilleran)
 - [Juston Sky](https://github.com/justonsky)
 - [Justin Cantrall](https://github.com/jcntrl)
 - [Soroye Sodiq](https://github.com/Soroyesodiq)
