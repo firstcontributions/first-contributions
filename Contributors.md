@@ -293,6 +293,7 @@
 - [Priyanshu Kumar](https://github.com/Priyanshu-kumar-Singh)
 - [Ching-an Wu](https://github.com/chingandy)
 - [AndyJMR](https://github.com/AndyJMR)
+- [Jason Hitching](https://github.com/JasonHitching)
 - [gsigler](https://github.com/gsigler)
   [Aditya](https://github.com/Adinarayanreloaded)
 - [Pugets](http://github.com/Pugets)
