@@ -8651,6 +8651,7 @@
 - [Aashish KC] (https://github.com/kcaashish)
 - [Ebubekir Doğan] (https://github.com/Ebu44)
 - [Ayush Bisht](https://github.com/ayushbisht2001)
+- [Raphael Ugwu](https://github.com/fullstackmafia)
 - [Rogério Brum Hermany](https://github.com/brummm)
 - [Shveta]
 - [Fernanda Provasi](https://github.com/Feprovasi)
