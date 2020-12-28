@@ -227,6 +227,7 @@
 - [Michael Meixner](https://github.com/ogMikkel)
 - amlan
 - [Sarah V](https://github.com/MistaMishMash)
+- [Natasha Carr](https://github.com/tash-ndc)
 - [Leevi Andrews](https://github.com/leeviaa)
 - [vamsi]
 - [Jab Zinnia](https://github.com/Rieu2)
