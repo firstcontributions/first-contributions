@@ -8711,3 +8711,4 @@ James Crawf
 {Kamal C.} (https://github.com/kamalchah)
 - [AnanditaRian19](https://github.com/AnanditaRian19)
 - [Prakash Aryan](https://github.com/prakash-aryan)
+- [Jihun Kim](https://github.com/Jihunn-Kim)
