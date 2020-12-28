@@ -2748,6 +2748,7 @@
 - [Pankaj Anand](https://github.com/pankajanand26/)
 - [Pragya Jain](https://github/com/pragyajjain1002)
 - [Someone](https://github.com/LearnerSamuelX)
+- [Anurag Yadav](https://github.com/Legend-Anurag)
 - [Someone Else](https://github.com/weihanchen0725)
 - [Nikola Grujic](https://github.com/nikolatechie)
 - [Rron Kurtishi](https://github.com/RronKurtishi)
