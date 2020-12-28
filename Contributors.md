@@ -15,6 +15,7 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Enrico Termine](https://github.com/enricospT)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Oded Dugma] (https://github.com/odeddugma)
 - [Neenus Gabriel](https://github.com/neenus)
 - [Lalit 😊](https://github.com/lalit2005)
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
