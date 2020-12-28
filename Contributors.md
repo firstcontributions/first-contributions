@@ -19,7 +19,7 @@
 - [Emmy Steven](https://github.com/emmysteven)
 - [Gamez0](https://github.com/Gamez0)
 - [Talha Tariq](https://github.com/TT-talhatariq)
--[Harsh Maroo](https://github.com/harshmaroo)
+- [Harsh Maroo](https://github.com/harshmaroo)
 - [Enrico Termine](https://github.com/enricospT)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
