@@ -3538,6 +3538,7 @@
 - [Shawn Long](https://github.com/shawnlong636)
 - [Yatharth Taneja](https://github.com/yatharthtaneja)
 - [Zachary King](https://github.com/lax0248917)
+- [Akash Ilangovan](https://github.com/akashilangovan)
 - [Aarushi](https://github.com/xxx32)
 - [Laura Webber](https://github.com/lwebber)
 - [Abdoulaye Balde](https://github.com/abdoulayegk)
