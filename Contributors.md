@@ -22,6 +22,7 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Harsh Maroo](https://github.com/harshmaroo)
 - [Enrico Termine](https://github.com/enricospT)
+[Richard Ruge](https://github.com/richardruge/first-contributions)
 - [Omazdev](https://github.com/omazdev)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
