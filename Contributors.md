@@ -6009,6 +6009,7 @@
 - Rich
 - [mpenrow](https://github.com/mpenrow)
 - [Beth Ackerman](https://github.com/betheackers)
+- [Mark Bailey](https://github.com/mabail6)
 - [Pushpam Anand](https://github.com/Pushpam-iitd)
 - [FcKoOl](https://github.com/FcKoOl)
 - [Omrigl](https://github.com/omrigl)
@@ -8723,4 +8724,4 @@ James Crawf
 - [Jihun Kim](https://github.com/Jihunn-Kim)
 -[Shatakshi Singh](https://github.com/shatakshisingh24)
 - [Tsunami Nori](https://github.com/TsunamiNori)
-- [Farooq Ahmed] (https://github.com/farooqahmed-it)
+- [Farooq Ahmed] (https://github.com/farooqahmed-it)\
