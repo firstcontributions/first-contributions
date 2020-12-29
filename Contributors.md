@@ -21,6 +21,7 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Harsh Maroo](https://github.com/harshmaroo)
 - [Enrico Termine](https://github.com/enricospT)
+- [Omazdev](https://github.com/omazdev)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
 - [Neenus Gabriel](https://github.com/neenus)
