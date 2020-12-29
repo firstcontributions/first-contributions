@@ -2515,6 +2515,7 @@
   Khushi Gupta
 - [chqh](https://github.com/npnv)
 - [Dhruv Godambe](https://github.com/DhruvGodambe)
+- [FII](https://github.com/FII78)
 - [こんにちは]
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
