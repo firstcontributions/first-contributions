@@ -33,6 +33,7 @@
 - [Sarvesh Khandelwal](https://github.com/SARVESHKHANDELWAL/)
 - [Castic Jehin](https://github.com/jehincastic/)
 - [Pragati Bansal](https://github.com/pragx12)
+- [yashasvi sakure](https://github.com/Edith-panda)
 - [Jaden Walker](https://github.com/jaden6r6r)
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
