@@ -1,6 +1,5 @@
 # Contributors
 
-
 - [Magicianred](https://github.com/Magicianred)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
@@ -46,11 +45,10 @@
 - [somendra kumar](https://github.com/somendrakr)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
-- [Queena](https://github.com/canikillyoulater)
- -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
+- [Queena](https://github.com/canikillyoulater) -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Maruf](https://github.com/immaruf)
-- [NikolaosDimitrakakis]( https://github.com/NikolaosDimitrakakis)
+- [NikolaosDimitrakakis](https://github.com/NikolaosDimitrakakis)
 - [lazaraaus](https://github.com/lazaraaus)
 - [Maximiliano Sánchez](https://github.com/maxisan)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
@@ -168,7 +166,7 @@
 - [Raiyan Chowdhury](https://github.com/RaiyanC)
 - [Raychani1](https://github.com/Raychani1)
 - [Malvika Jindal](https://github.com/malvika-jindal)
-- [Prakash Choure](https://github.com/PrakashChoure2002/first-contributions.git )
+- [Prakash Choure](https://github.com/PrakashChoure2002/first-contributions.git)
 - [sunita Choure]https://github.com/Sunita Choure/great women.git )
 - [Sevakram Choure]https://github.com/Sunita Choure/great man.git )
 - [Garima Pandey](https://github.com/garima652001)
@@ -4169,7 +4167,7 @@
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - [Purvesh Gandhi](https://github.com/purvesh261)
 - [EmpalGentong][https://github.com/empalgentong]
-- [Eduardo Laquintana][https://github.com/EduardoLaquintana]
+- [Eduardo Laquintana][https://github.com/eduardolaquintana]
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
@@ -4355,6 +4353,7 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - [Alphie Kiu](https://github.com/AlphieKiu)
 - [Yonas Mulyadi](https://github.com/ymul0001)
+- [Mohan Thilak](https://github.com/mohanthilak)
 - Lakshini Kuganandamurthy
 - Roy Ancri
 - raj chordia
@@ -8603,7 +8602,7 @@
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
-- [Meeru](https://github.com/m33ru) ¯\_(ツ)_/¯
+- [Meeru](https://github.com/m33ru) ¯\_(ツ)\_/¯
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
@@ -8696,7 +8695,7 @@
 - [Brian Tieu](http://github.com/briantieu)
 - [Rizwan](https://github.com/cr440)
 - [Shamil Gemuev](https://github.com/NobleBumblebee)
-James Crawf
+  James Crawf
 - [Muhammad Noman Soomro](https://github.com/MuhammadNomanS)
 - [Maicon Peixinho](https://github.com/maiconpeixinho)
 - [Ricardo Ruiz](https://github.com/HxtVenom)
@@ -8707,9 +8706,9 @@ James Crawf
 - [Ankit rawat](https://github.com/Ankit7895)
 - [Shubh Deep] (https://github.com/shubh128)
 - [Zhenkai Weng](https://github.com/oakrc)
-[Peter G.](https://github.com/syspentarc)
+  [Peter G.](https://github.com/syspentarc)
 - [Gaikanomer9](https://github.com/Gaikanomer9)
-{Kamal C.} (https://github.com/kamalchah)
+  {Kamal C.} (https://github.com/kamalchah)
 - [AnanditaRian19](https://github.com/AnanditaRian19)
 - [Prakash Aryan](https://github.com/prakash-aryan)
 - [Jihun Kim](https://github.com/Jihunn-Kim)
