@@ -3061,6 +3061,7 @@
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Saulius Baltramonaitis](https://github.com/simpson2)
 - [Charlotte Guerin](https://github.com/Loliwe)
+- [Sebastian Whyte](https://github.com/sebastianwhyte)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
 - [Kartik Gupta](https://github.com/beingkartik)
