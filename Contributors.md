@@ -4899,6 +4899,7 @@
 - [Elisabet Laitinen](https://github.com/ellu-laitinen)
 - [Arnold Kwok](https://github.com/akckwok)
 - [Mohammed Tausif Uddin Ansari](https://github.com/TausifAnsari)
+- [Namdar Sadiq] (https://github.com/NamdarS)
 - [Sanskar Patro](https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Rohit Nethi](https://github.com/RohitNethi)
