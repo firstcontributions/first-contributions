@@ -118,7 +118,7 @@ Potrai unirti al nostro team slack in caso hai bisogno di aiuto o hai delle doma
 
 Ora inizia a contribuire ad altri progetti. Abbiamo compilato un elenco di progetti con problemi tecnici semplici su cui puoi iniziare. Controlla [la lista dei progetti nella web app](https://firstcontributions.github.io/#project-list).
 
-### [Materiale aggiuntivo](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Informazioni aggiuntive](../additional-material\translations\additional-material.it.md)
 
 ## Tutorial usando altri tool
 
