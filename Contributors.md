@@ -312,6 +312,7 @@
 - [Shreejeeb Kesh](https://github.com/SHRiJIB)
 - [Jashandeep Singh](https://github.com/jashn0101)
 - [Ching-an Wu](https://github.com/chingandy)
+- [Suhash Bollu](https://github.com/suhashbollu)
 - [Dan Westlund](https://github.com/2stashs)
 - [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
