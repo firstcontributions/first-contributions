@@ -1,6 +1,6 @@
 # Contributors
 
-
+- [Weverton](https://github.com/wpmag)
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
