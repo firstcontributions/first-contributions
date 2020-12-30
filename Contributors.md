@@ -2,6 +2,7 @@
 
 
 - [Magicianred](https://github.com/Magicianred)
+- [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
 - [MathProuv](https://github.com/mathprouv)
