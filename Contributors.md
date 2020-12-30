@@ -3,6 +3,7 @@
 
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
+- [CSPabloCortez](https://github.com/cspablocortez)
 -[Anirvan Goswami](https://github.com/Anirvan1)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [MTelford](https://github.com/MTelford)
