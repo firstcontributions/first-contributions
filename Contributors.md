@@ -28,6 +28,7 @@
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
 - [Neenus Gabriel](https://github.com/neenus)
+- [Md. Pial Ahamed](https://github.com/mdPial)
 - [Lalit 😊](https://github.com/lalit2005)
 - [Jose Uribe](https://github.com/josekembies)
 - [Bobbyhoff](https://github.com/Bobbyhoff)
