@@ -24,6 +24,7 @@
 - [Omazdev](https://github.com/omazdev)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
+- [Harsh Dhonchak]
 - [Neenus Gabriel](https://github.com/neenus)
 - [Lalit 😊](https://github.com/lalit2005)
 - [Jose Uribe](https://github.com/josekembies)
@@ -267,6 +268,7 @@
 - Roshan Nair
 - Raza Khan
 - Tenzin Woesel
+- Harsh Dhonchak
 - [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
 - [Ali Aljowaher](https://github.com/alialjowaher)
 - [David Kozdra](https://github.com/DavidKozdra)
@@ -484,6 +486,7 @@
 - [Rik Kraan](https://github.com/rikkraanvantage)
 - [Dillon Rooke](https://github.com/DillonRooke)
 - Azri Soufi
+-Harsh Dhonchak
 - Vrinda Tyagi
 - Colton Francis
 - [Aleem Osman](https://github.com/aleemosman)
