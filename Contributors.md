@@ -3749,6 +3749,7 @@
 - [Nathan Garpiel](https://github.com/Garpieln)
 - Miss Supriya
 - [Laurynas Kirdeika](https://github.com/kirdeika)
+- [Emanuele Bolognesi](https://github.com/LeL94)
 - [Roman Preis](https://github.com/RomanPreis)
 - [Michael Scott](https://github.com/m5cott)
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
