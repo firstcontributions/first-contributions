@@ -1,214 +1,233 @@
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-hfcq788y-QaXzXT5clBBWukXQyBhH4w)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 <div dir="rtl">
-  <a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://camo.githubusercontent.com/76f0e887c183ccc31c1cb63c33d2dbf48cb2df51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667" alt="License: MIT"></a>
-  <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a>
-  <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
-</div>
 
-<div dir="rtl">
-<h1> תרומות ראשונות </h1>
-</div>
+# 
 
-<div dir="rtl">
-זה קשה. זה תמיד קשה כשעושים משהו בפעם הראשונה. במיוחד כאשר משתפים פעולה, לעשות טעויות זה לא משהו נוח. רצינו להקל על הדרך שבה תורמים בפעם הראשונה לומדים ותורמים בפעם הראשונה.
-קריאת כתבות וצפייה בסרטוני הדרכה יכולים לעזור, אבל מה יותר טוב מאשר לבצע את הדברים בסביבת למידה? המטרה של הפרויקט הזה היא לתת הכוונה ולפשט את הדרך שבה מתחילים מבצעים את התרומה הראשונה שלהם. אם אתם מחפשים לבצע את התרומה הראשונה שלכם, עקבו אחרי הצעדים למטה.
-</div>
+#### _קרא [בעוד שפות](translations/Translations.md)._
 
-<div dir="rtl">
-<h4> אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
-<a href="#הדרכות-בשימוש-כלים-אחרים">קישור לכלים גרפיים</a>.</h4>
-</div>
+<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
+<kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)</kbd>
+<kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](translations/README.bg.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Català" alt="Català" src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)</kbd>
+<kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.chs.md)</kbd>
+<kbd>[<img title="Czech" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
+<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
+<kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
+<kbd>[<img title="العربية" alt="العربية" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Galego" alt="Galego" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb-sct.svg" width="22">](translations/README.gl.md)</kbd>
+<kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">](translations/README.gr.md)</kbd>
+<kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](translations/README.ge.md)</kbd>
+<kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">](translations/README.hu.md)</kbd>
+<kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](translations/README.id.md)</kbd>
+<kbd>[<img title="עִברִית" alt="עִברִית" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/il.svg" width="22">](translations/README.hb.md)</kbd>
+<kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/Translations.md)</kbd>
+<kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.md)</kbd>
+<kbd>[<img title="Persian_Finglish" alt="Persian_Finglish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.en.md)</kbd>
+<kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](translations/README.it.md)</kbd>
+<kbd>[<img title="日本語" alt="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
+<kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd>
+<kbd>[<img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22">](translations/README.ko.md)</kbd>
+<kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">](translations/README.lt.md)</kbd>
+<kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ro.svg" width="22">](translations/README.ro.md)</kbd>
+<kbd>[<img title="မြန်မာ" alt="မြန်မာ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mm.svg" width="22">](translations/README.mm_unicode.md)</kbd>
+<kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">](translations/README.mk.md)</kbd>
+<kbd>[<img title="Español de México" alt="Español de México" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">](translations/README.mx.md)</kbd>
+<kbd>[<img title="Bahasa Melayu / بهاس ملايو‎ / Malay" alt="Bahasa Melayu / بهاس ملايو‎ / Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">](translations/README.my.md)</kbd>
+<kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ml.svg" width="22">](translations/README.nl.md)</kbd>
+<kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)</kbd>
+<kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)</kbd>
+<kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.tl.md)</kbd>
+<kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
+<kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
+<kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
+<kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](translations/README.pt-pt.md)</kbd>
+<kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
+<kbd>[<img title="عربى" alt="عربى" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](translations/README.ar.md)</kbd>
+<kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">](translations/README.se.md)</kbd>
+<kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sk.svg" width="22">](translations/README.slk.md)</kbd>
+<kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
+<kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
+<kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
+<kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.cht.md)</kbd>
+<kbd>[<img title="Українська" alt="Українська" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
+<kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
+<kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
+<kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
+<kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
+<kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
+<kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
+<kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
+<kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
+<kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 
-<div dir="rtl">
-<h4>ניתן לקרוא את המאמר
-<a href="">בשפות אחרות</a>.</h4>
-</div>
+#
 
-<div dir="rtl">
-<a href="https://help.github.com/articles/set-up-git/">אם אין לכם GIT ניתן להתקין GIT בקישור</a>
-</div>
+# תרומות ראשונות
 
-<div dir="rtl">
-<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository"></a>
-</div>
+כשעושים משהו חדש בפעם הראשונה נוטים לעשות טעויות.
+לשם כך הקמנו את הפרוייקט הזה על מנת לעזור למתחילים כמוכם כדי לפשט את הדרך על מנת להתחיל בשימוש בתוכנת GIT בעזרת כמה צעדים פשוטים.
 
-<div dir="rtl">
-<h2> בצעו FORK למאגר זה </h2>
-</div>
+_אם אתם מרגישים ששימוש בתוכנת שורות קוד (טרמינל) מוזמן להשתמש באחד מתוך [רשימת הכלים עם ממשק  המשתמש](#מדריכים-בכלים-נוספים)._
 
-<div dir="rtl">
-כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
-</div>
+#### אם אין לכם GIT מותקן במחשב, [התקן עכשיו](https://help.github.com/articles/set-up-git/).
 
 
-<div dir="rtl">
-<h2> שכפול המאגר </h2>
-</div>
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-<div dir="rtl">
-  <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
-</div>
+## בצעו Fork לפרוייקט זה
 
-<div dir="rtl">
-  
-כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `העתק ללוח`
-פתחו טרמינל והריצו את הפקודה הבאה:
-</div>
+על מנת לבצע Fork לפרוייקט זה עליכם ללחוץ על כפתור ה-Fork שנמצא בראשית העמוד.
+
+פעולה זו למעשה יוצרת עותק של הפרוייקט בפרופיל שלכם כדי שתוכלו לערוך שינויים ולהעלות אותם.
+
+
+## הורדת הפרוייקט למחשב
+
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
+אחרי שביצעתם Fork לפרוייקט עליכם להוריד אותו למחשבכם על מנת לערוך אותו. (שימו לב שאתם מורידים את הפרוייקט שעליו ביצעתם Fork ולא המקורי)
+
+לחצו על כפתור Code בירוק ולאחר מכן על כפתור ההעתקה, לאחריו פתחו את הטרמינל וכתבו את הפקודה הבאה:
+
+<div dir="ltr">
 
 ```
-git clone "url you just copied"
+git clone "הקישור שהרגע העתקתם"
 ```
-<div dir="rtl">
-  
-כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר שביצעתם עליו FORK מקודם. ראו את הצעדים הקודמים כדי להשיג את הקישור.
+
 </div>
+
+כאשר הביטוי `url you just copied` (ללא גרשיים) הוא הקישור לפרוייקט שעליו ביצעתם Fork מקודם.
 
 <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-<div dir="rtl">
 לדוגמא:
-</div>
+
+<div dir="ltr">
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-<div dir="rtl">
-  
-כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. כאן, אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
+
 </div>
 
-<div dir="rtl">
-<h2> יצירת ענף </h2>
-</div>
+כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. פעולה זו למעשה מורידה את תוכן הפרוייקט של הקישור שהעתקתם למחשב שלכם.
 
-<div dir="rtl">
-תחליפו לתיקיית המאגר בתוך המחשב שלכם (אם אתם כבר לא נמצאים שם):
-</div>
+
+## יצירת Branch (״ענף״)
+
+הסבר קצר על מה זה אומר Branch או ״ענף״: בדיוק כמו השם, שינויים ב-GIT עובדים כמו מבנה של עץ כאשר הפרוייקט המרכזי נמצא בענף הראשי שהוא `main` או `master` ועל מנת שמישהו יוכל לעלות את השינויים שביצע עליו ליצור ענף משלו.
+
+קודם נווטו לתיקיית הפרוייקט במחשב שלכם אם אתם לא נמצאים שם כבר:
+
+<div dir="ltr">
 
 ```
 cd first-contributions
 ```
-<div dir="rtl">
-  
-כעת, תצרו ענף בשימוש הפעולה `git checkout`:
+
 </div>
 
+כעת, תצרו ענף על ידי הפקודה `git checkout`:
+
+<div dir="ltr">
+
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b "your-branch-name"
 ```
-<div dir="rtl">
-  לדוגמא:
+
 </div>
+
+לדוגמא:
+
+<div dir="ltr">
 
 ```
 git checkout -b add-alonzo-church
 ```
 
-<div dir="rtl">
-(שם הענף לא חייב להכיל את המילה add בתוכו, אבל זה הגיוני להוסיף אותה מכיוון שהמטרה של הענף היא להוסיף את השם שלכם לרשימה)
 </div>
 
-<div dir="rtl">
-<h2> ערכו שינויים הכרחיים ובצעו להם commit </h2>
-</div>
+ישנה מוסכמה ששם הענף יכיל את המילה add מכיוון שאתם מוסיפים את עצמכם לרשימת הענפים בפרוייקט.
 
-<div dir="rtl">
-  
-כעת תפתחו את הקובץ, `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
+## עריכת שינויים וביצוע Commit
 
+על מנת שתוכלו לתרגל פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את שמכם איפשהו באמצע ולאחריו שמרו את הקובץ.
 
-אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
-הוסיפו את השינויים האלו לענף שיצרתם תוך שימוש בפקודה `git add`:
-</div>
+<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+חזרו אל הטרמינל וכעת בצעו את הפקודה `git status` כמו שאתם רואים ניתן לראות את השינויים שביצעתם באותו קובץ.
+
+כדי להוסיף את השינויים לאותו ענף שיצרתם עליכם להשתמש בפקודת Add על ידי כתיבת הפקודה `git add`:
+
+<div dir="ltr">
 
 ```
 git add Contributors.md
 ```
-<div dir="rtl">
-  
-עכשיו, בצעו(commit) את שינויים הללו תוך שימוש בפקודת `git commit`:
+
 </div>
+
+עכשיו על מנת לשמור את השינויים שביצעתם בפרוייקט עליכם לבצע את פקודת Commit על ידי כתיבת הפקודה `git commit`:
+
+<div dir="ltr">
 
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-<div dir="rtl">
-  
-החליפו את הביטוי `<your-name>` .עם השם שלכם
+
 </div>
 
-<div dir="rtl">
-<h2>לדחוף את השינויים ל-GitHub</h2>
-</div>
+עליכם להחליף במקום הביטוי `your-name` עם שמכם.
 
-<div dir="rtl">
-  
-דחפו את השינויים תוך שימוש בפקודה `git push`:
-</div>
+## העלו את השינויים ל-GitHub
+
+על מנת להעלות את השינויים שביצעתם עליכם לבצע את פקודת Push על ידי כתיבת הפקודה `git push`:
+
+<div dir="ltr">
 
 ```
-git push origin <add-your-branch-name>
+git push origin "your-branch-name"
 ```
-<div dir="rtl">
-  
-החליפו את `<add-your-branch-name>` .עם השם של הענף שיצרתם מוקדם יותר
+
 </div>
 
-<div dir="rtl">
-<h2> הגישו את השינויים שלכם לסקירה </h2>
-</div>
+עליכם להחליף במקום הביטוי `your-branch-name` (ללא גרשיים) עם שם הענף שיצרתם מקודם.
 
-<div dir="rtl">
-  
-אם תלכו למאגר שלכם ב-GitHub, אתם תראו כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
+## הגישו את השינויים שביצעתם לסקירה
 
-<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+כעת תחזרו לפרוייקט שלכם ועכשיו אתם תראו כפתור עם הכיתוב `Compare & pull request`, לחצו עליו.
 
-כעת, הגישו את בקשת הדחיפה (pull request):
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+עכשיו הגישו את בקשת ההעלה:
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-בקרוב, אני אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
-</div>
+במוקדם או מאוחר אני אאגד את השינויים לענף הראשי של הפרוייקט, אתם תקבלו עדכון על כך במייל ברגע שזה יקרה.
 
-<div dir="rtl">
-<h2>מחקו את הענף שלכם אחרי שבקשת הדחיפה אושרה</h2>
-</div>
+## מה לעשות מכאן?
 
-<div dir="rtl">
-<h2>מה לעשות מכאן?</h2>
-</div>
+כל הכבוד! בזה הרגע הצלחתם להשלים את תהליך הזרימה הסטנדרטי Fork -> Clone -> Edit -> Pull Request שאותו אתם תפגשו באופן שכיח כתורמים!
 
-<div dir="rtl">
-כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של Fork->Clone->Edit->PR שאתם תפגשו באופן שכיח כתורמים!
-חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל-<a href="https://firstcontributions.github.io/#project-list">web app</a>.
-אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות.
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">הצטרפו לקבוצת סלאק</a>.
+תחגגו את התרומה שלכם ושתפו עם חברים ושאר העוקבים על ידי הגעה ל[אתר שלנו](https://firstcontributions.github.io/#social-share).
 
-עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם.
+אם אתם זקוקים לעזרה או סתם רוצים לשאול שאלה אתם יותר ממוזמנים להצטרף לצוות שלנו ב-[Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-iywfifau-_aMtdwTjBoMzQqzW8~YUUA).
 
-<a href="https://roshanjossey.github.io/first-contributions/#project-list">רשימה של פרוייקטים ב-web app</a>.
-</div>
+כעת אתם יכולים להתחיל ולתרום לפרוייקטים אחרים, על מנת להקל עליכם עוד קצת איגדנו עבורכם פרוייקטים עם משימות קלות כדי שתוכל להתחיל, כל זה ב[אתר שלנו](https://firstcontributions.github.io/#project-list).
 
-<div dir="rtl">
-<h3><a href="../additional-material/git_workflow_scenarios/additional-material.md">חומר נוסף</a></h3>
-</div>
+### זקוקים למידע נוסף? [לחצו כאן](additional-material/git_workflow_scenarios/additional-material.md)
 
-<div dir="rtl">
-<h2>הדרכות בשימוש כלים אחרים</h2>
-</div>
+## מדריכים בכלים נוספים
 
-<div dir="rtl">
-  <table style="width:100%">
-    <tr>
-      <th><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></th>
-      <th><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></th>
-      <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
-    </tr>
-    <tr>
-      <th><a href="../gitkraken-tutorial.md">GitKraken</a></th>
-      <th><a href="../github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
-      <th><a href="../github-desktop-tutorial.md">GitHub Desktop</a></th>
-    </tr>
-  </table>
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
+
 </div>
