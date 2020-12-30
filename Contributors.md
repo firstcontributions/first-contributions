@@ -8674,6 +8674,7 @@
 - [Ayush Bisht](https://github.com/ayushbisht2001)
 - [Raphael Ugwu](https://github.com/fullstackmafia)
 - [Rogério Brum Hermany](https://github.com/brummm)
+- [Nabakanta Deuri](https://github.com/ay3ay3)
 - [Shveta]
 - [Fernanda Provasi](https://github.com/Feprovasi)
 - [Quang Nguyen](https://github.com/quang-sudo)
