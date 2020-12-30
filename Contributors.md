@@ -2,6 +2,7 @@
 
 
 - [Magicianred](https://github.com/Magicianred)
+- [Sawan Khanchi](https://github.com/sawankhanchi)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [MTelford](https://github.com/MTelford)
 - [Nirushan1](https://github.com/Nirushan1)
