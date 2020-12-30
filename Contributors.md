@@ -229,6 +229,7 @@
 - [Raza Khan](https://github.com/RazaKhanGit)
 - [Eduardo Neto](https://github.com/pyduh)
 - [Tasnim Ahmed](https://github.com/ktat-93)
+- [Grace Kishino](https://github.com/gracekishino)
 - [Mario Antonio Lopez Ruiz](http://github.com/marioanloru)
 - [Michael Meixner](https://github.com/ogMikkel)
 - amlan
