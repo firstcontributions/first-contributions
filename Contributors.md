@@ -8416,6 +8416,7 @@
 - [Yash Gupta](https://github.com/itsyash2122)
 - [Mateusz Kaminski](https://github.com/GwiezdnyRycerzKosmosu)
 - [Denio Shaji John](https://github.com/deniosj)
+- [Connor Runyan](https://github.com/conrunyan)
 - [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
 - [Vinayak Gupta](https://github.com/vinn-47)
 - [Thanathorn](https://github.com/moosubb4)
