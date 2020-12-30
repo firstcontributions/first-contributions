@@ -49,6 +49,7 @@
 - [somendra kumar](https://github.com/somendrakr)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
   [Mariano Hurtado de Mendoza] (https://github.com/4tydev)
+- [Andrew Yurick] (https://github.com/andrewyurick)
 - [Queena](https://github.com/canikillyoulater)
  -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
