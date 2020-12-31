@@ -48,6 +48,7 @@
 - [Abhay Raghuvanshi](https://github.com/abhayaman669)
 - [Shravan](https://github.com/kvshravan)
 - [Jibinlal] (https://github.com/Jibinlal)
+- [Bhrigu B] (https://github.com/bhrigub)
 - [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
