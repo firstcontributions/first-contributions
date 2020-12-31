@@ -1,12 +1,14 @@
 # Contributors
 
-- [nickjvturner](https://github.com/nickjvturner)(https://nickjvturner.com)
+- [nickjvturner](https://github.com/nickjvturner)
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Anirvan Goswami](https://github.com/Anirvan1)
+- [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Omar Elsherif](https://github.com/omarelsherif010)
+- [Wagdy-Samy](https://github.com/wagdySamy)
 - [MTelford](https://github.com/MTelford)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
@@ -14,6 +16,7 @@
 - [Sai Kishore](https://github.com/shadow-prince)
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
+- [ashleep25](https://github.com/ashleep25/)
 - [Eric J](https://github.com//EricJB77)
 - [Brian Y](https://github.com/briany9)
 - [Tushar Kumawat](https://github.com/tusharkumawat)
@@ -8753,3 +8756,4 @@ James Crawf
 - [Tsunami Nori](https://github.com/TsunamiNori)
 - [Farooq Ahmed] (https://github.com/farooqahmed-it)
 - [Matthew Sheldon] (https://github.com/msheldon32)
+- [Andrew Russell](https://github.com/WatCodeDatCode)
