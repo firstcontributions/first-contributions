@@ -281,6 +281,7 @@
 - Roshan Nair
 - Raza Khan
 - Tenzin Woesel
+- Akshit Mandani
 - [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
 - [Ali Aljowaher](https://github.com/alialjowaher)
 - [David Kozdra](https://github.com/DavidKozdra)
