@@ -4,6 +4,7 @@
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [CSPabloCortez](https://github.com/cspablocortez)
+- [Thidiyas Limbu](https://github.com/Thidiyas3d)
 -[Anirvan Goswami](https://github.com/Anirvan1)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Omar Elsherif](https://github.com/omarelsherif010)
