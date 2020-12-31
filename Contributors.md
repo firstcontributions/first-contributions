@@ -8,6 +8,7 @@
 -[Anirvan Goswami](https://github.com/Anirvan1)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Omar Elsherif](https://github.com/omarelsherif010)
+- [Wagdy-Samy](https://github.com/wagdySamy)
 - [MTelford](https://github.com/MTelford)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
