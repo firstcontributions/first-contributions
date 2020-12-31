@@ -6,6 +6,7 @@
 - [CSPabloCortez](https://github.com/cspablocortez)
 -[Anirvan Goswami](https://github.com/Anirvan1)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
+- [Omar Elsherif](https://github.com/omarelsherif010)
 - [MTelford](https://github.com/MTelford)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
