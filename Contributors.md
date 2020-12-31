@@ -6130,6 +6130,7 @@
 - [Srivathsa](https://github.com/Soapdemon)
 - [Sathish Thiyagarajan](https://github.com/sathish-t)
 - [Ananthalakshmi Sankar](https://github.com/anu294)
+- [Simcha Schaum](https://github.com/simchaschaum)
 - [Fabian Mesias](https://github.com/ifmr24)
 - [Devon Lewis](https://github.com/ayodlo)
 - [Taresh Rajput](https://github.com/taresh18)
