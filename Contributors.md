@@ -6,6 +6,7 @@
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Anirvan Goswami](https://github.com/Anirvan1)
+- [Sandeep Panwar](https://github.com/sandeep-90)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
