@@ -11,6 +11,7 @@
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
 - [Wagdy-Samy](https://github.com/wagdySamy)
+- [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [MTelford](https://github.com/MTelford)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Meet Shah](https://github.com/Meet2674)
