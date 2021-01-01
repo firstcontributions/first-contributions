@@ -557,6 +557,7 @@
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
 - Alok Awasthi
 - [Alan Zhu](https://github.com/alanzhu39)
+- [Deepak Kumar] (https://github.com/itsdeekay/)
 - Animesh_ramasami
 - [Amedyne](https://github.com/amedyne)
 - [Brian Peguero](https://github.com/BrianPeguero)
