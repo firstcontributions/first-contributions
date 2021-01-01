@@ -30,6 +30,7 @@
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
 - [Ayush Jain](https://github.com/jain18ayush)
 - [CodyArnholt](https://github.com/TromboneMoose)
+- [Tom Kwon](https://github.com/ForMeCodingIsLikeTypeRacer)
 - [Kim Jørgensen](https://github.com/kim4848)
 - [blinCharter](https://github.com/blinCharter)
 - [NaufilShaikh](https://github.com/naufil09)
