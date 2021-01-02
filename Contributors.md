@@ -466,6 +466,7 @@
 - Oreoluwa Emmanuel
 - Amlanjyoti Saikia
 - [Hana Abayneh](https://github.com/hanaby)
+- [Jonathan D. Herring](https://github.com/Code-JD)
 - [hasham56](https://github.com/hasham56)
 - [Brian Barasa](https://github.com/Brian-big)
 - [Rafael Adricula](https://github.com/radricul)
