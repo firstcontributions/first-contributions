@@ -112,6 +112,7 @@
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
+- [Isa Kurbanov](github.com)
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
 - [sweinstock] (https://github.com/sweinstock)
 - [Avinash Kumar](https://github.com/Avii3301)
