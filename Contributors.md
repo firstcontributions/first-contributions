@@ -3990,6 +3990,7 @@
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
 - phileinSophos
+- [Afnan Malik](https://github.com/Afnanmk)
 - [Bbosecke](https://github.com/bbosecke)
 - [Freedom](https://github.com/f3ve)
 - [Silas Monahan](https://github.com/monahans)
