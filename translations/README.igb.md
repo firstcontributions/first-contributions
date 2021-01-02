@@ -12,53 +12,52 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 #### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.]( #tutorials-using-other-tools )*
 
-#### *Gụọ nke a n'asụsụ [ndị ọzọ](translations/Translations.md).*
+#### *Gụọ nke a n'asụsụ [ndị ọzọ](Translations.md).*
 
 
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-[🇷🇸](translations/README.sr.md)
+[🇮🇳](README.hi.md)
+[🇲🇲](README.mm_unicode.md)
+[🇮🇩](README.id.md)
+[🇫🇷](README.fr.md)
+[🇪🇸](README.es.md)
+[<img src="../assets/catalan1.png" width="22">](README.ca.md)
+[🇳🇱](README.nl.md)
+[🇱🇹](README.lt.md)
+[🇷🇺](README.ru.md)
+[:slovakia:](README.slk.md)
+[🇯🇵](README.ja.md)
+[🇻🇳](README.vn.md)
+[🇵🇱](README.pl.md)
+[🇮🇷](README.fa.md)
+[🇮🇷](README.fa.en.md)
+[🇰🇷 🇰🇵](README.ko.md)
+[🇩🇪](README.de.md)
+[🇩🇰](README.da.md)
+[🇨🇳](README.chs.md)
+[🇹🇼](README.cht.md)
+[🇬🇷](README.gr.md)
+[🇪🇬](README.eg.md)
+[🇸🇦](README.ar.md)
+[🇺🇦](README.ua.md)
+[🇧🇷](README.pt_br.md)
+[🇵🇹](README.pt-pt.md)
+[🇮🇹](README.it.md)
+[🇹🇭](README.th.md)
+[🏴](README.gl.md)
+[🇵🇰](README.ur.md)
+[:bangladesh:](README.bn.md)
+[🇲🇩 🇷🇴](README.ro.md)
+[🇹🇷](README.tr.md)
+[🇸🇪](README.se.md)
+[:slovenia:](README.sl.md)
+[🇮🇱](README.hb.md)
+[🇨🇿](README.cs.md)
+[<img src="../assets/pirate.png" width="22">](README.en-pirate.md)
+[🇲🇽](README.mx.md)
+[🇿🇦](README.zul.md)
+[🇿🇦](README.afk.md)
+[🇰🇪](README.kws.md)
+[🇷🇸](README.sr.md)
 
 
 
@@ -175,10 +174,10 @@ Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
 
 
-### [Ihe ndi ozo](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Ihe ndi ozo](/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Nkuzi na iji ihe ndi ozo
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+|[GitHub Desktop](/gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](/gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](/gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](/gui-tool-tutorials/github-windows-vs-code-tutorial.md)|
