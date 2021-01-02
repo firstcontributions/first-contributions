@@ -114,6 +114,7 @@
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
+- [Terrence Calzada](https://github.com/TezadaConnect)
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
 - [sweinstock] (https://github.com/sweinstock)
 - [Avinash Kumar](https://github.com/Avii3301)
