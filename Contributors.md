@@ -17,6 +17,7 @@
 - [Nirushan1](https://github.com/Nirushan1)
 - [Meet Shah](https://github.com/Meet2674)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
+- [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
 - [Sai Kishore](https://github.com/shadow-prince)
 - [Orit Hashim](https://github.com/OritHashim)
