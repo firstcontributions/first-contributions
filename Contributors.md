@@ -8772,4 +8772,6 @@ James Crawf
 - [Farooq Ahmed] (https://github.com/farooqahmed-it)
 - [Matthew Sheldon] (https://github.com/msheldon32)
 - [Andrew Russell](https://github.com/WatCodeDatCode)
-- [Anno2003] (https://github.com/Anno2003 )
+- [Anno2003] (https://github.com/Anno2003)
+- [spsoni] (https://github.com/spsoni)
+
