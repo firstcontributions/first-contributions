@@ -470,6 +470,7 @@
 - [Rafael Adricula](https://github.com/radricul)
   [Andres Tobon](https://github.com/andrest50)
 - [Cory Bass](https://github.com/cbass2404)
+- [DWalz](https://github.com/DWalz)
 - [yrk](https://github.com/yrk-ai)
 - [Urvi](https://github.com/cp-urvi-k)
 - [Oath Pongpipat](https://github.com/oath3p)
