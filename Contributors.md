@@ -2,6 +2,7 @@
 
 
 - [Engensmax](https://github.com/engensmax)
+- [Morgan Jones] (https://github.com/morgsj)
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [CSPabloCortez](https://github.com/cspablocortez)
