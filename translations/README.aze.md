@@ -9,6 +9,8 @@ Bu layihə yeni başlayanlar üçün ilk töhfələrini vermə yollarını sadə
 
 _Əgər komut istemi (Command Prompt) ilə razı deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa biləriniz.](#tutorials-using-other-tools)_
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
 #### Kompüterinizdə GIT yoxdursa, [buradan quraşdıra bilərsiniz ](https://help.github.com/articles/set-up-git/).
 
 ## layihəni "çatallama"
