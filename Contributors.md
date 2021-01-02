@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 
 - [Engensmax](https://github.com/engensmax)
@@ -8280,6 +8280,7 @@
 - [Franklin U.O. Ohaegbulam](https://github.com/frankiefab100)
 - [ExcitableMonkey](https://github.com/ExcitableMonkey)
 - [Saurav Sharma](https://github.com/sau-rav)
+- [Fiyinfoluwa Oyesanmi](https://github.com/Foluone)
 - [Mrinmoy Mitra](https://github.com/Mrinmoy99)
 - [Ning Ma](https://github.com/maning00)
 - [ChristineWasike](https://github.com/ChristineWasike)
