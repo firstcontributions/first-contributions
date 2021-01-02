@@ -8788,3 +8788,4 @@ James Crawf
 - [Anno2003] (https://github.com/Anno2003 )
 - [Rafael Neves](https://github.com/rafaeljneves)
 - [Pogchamp](https://github.com/yibinlong)
+- [swoorr](https://github.com/swoorr)
