@@ -2062,6 +2062,7 @@
 - [0708Suzzie](https://github.com/0708Suzzie)
 - [Yash Shukla](https://github.com/Yash1256)
 - [Ranjan Das](https://github.com/dasxran)
+- [Francesco Scar](https://github.com/francesco-scar)
 - [Rocio Bruna](https://github.com/RocioBruna)
 - [Nishiki Asumi Yapa](https://github.com/Nishiki97)
 - [Jitender Pal Singh](https://github.com/jitender24)
