@@ -20,6 +20,7 @@
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
 - [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
+- [Domingo Ruiz Arroyo](https://github.com/domingoruiz)
 - [Sai Kishore](https://github.com/shadow-prince)
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
