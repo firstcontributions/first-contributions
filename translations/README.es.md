@@ -11,11 +11,11 @@ Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las 
 
 #### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)]( #tutoriales-con-otras-herramientas )*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
-
 Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ ).
 
 ## Bifurca (*Fork*) este repositorio
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
 Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha en esta página.
 Esto creará una copia de este repositorio en tu cuenta.
