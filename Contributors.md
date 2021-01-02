@@ -41,6 +41,7 @@
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
 - [Gamez0](https://github.com/Gamez0)
+- [pranavkhekare](https://github.com/pranavkhekare)
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Harsh Maroo](https://github.com/harshmaroo)
 - [Enrico Termine](https://github.com/enricospT)
