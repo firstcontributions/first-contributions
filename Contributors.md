@@ -382,6 +382,7 @@
 - [Jeremy LORTHIOIR](https://github.com/JeremyLorthioir)
 - [Lorcan](https://github.com/lorcanj)
 - [Raquel](https://github.com/rcurutchet)
+- [maerski](https://github.com/maerski)
 - [John McCracken](https://github.com/johnmccuk)
 - TomKCA
 - [Hemant Patel](https://github.com/Hemant-Dev)
