@@ -2474,6 +2474,7 @@
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Daksh Kulshrestha](https://github.com/DevDaksh)
+- [Paddy Browne](https://github.com/PadoSensei)
 - [Grace Landsberg](https://github.com/glandsberg)
 - [Mcaupybugs](https://github.com/mcaupybugs)
 - [Aditya Gupta](https://www.github.com/Aditya-Gupta1)
