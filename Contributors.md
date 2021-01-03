@@ -13,6 +13,7 @@
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Sezer Mehmed](https://github.com/sezermehmed)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
+- [Pranshul Rastogi](https://github.com/pranshulrastogi)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
 - [Wagdy-Samy](https://github.com/wagdySamy)
