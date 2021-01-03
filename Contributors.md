@@ -9,6 +9,7 @@
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
+- Pranavbm
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Sezer Mehmed](https://github.com/sezermehmed)
