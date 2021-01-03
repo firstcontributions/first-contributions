@@ -76,6 +76,7 @@
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
 - [Su Wei](https://github.com/akasuv)
 - [Shyam Sundar Vashishtha](https://github.com/shyam640)
+- [Santhosh Charugundla 👨‍💻](https://github.com/santhosh-techie)
 - [Molly Wehrenberg](https://github.com/mwehrenberg)
 - [eranns](https://github.com/eranns)
 - [somendra kumar](https://github.com/somendrakr)
