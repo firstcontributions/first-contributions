@@ -25,6 +25,7 @@
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [MTelford](https://github.com/MTelford)
 - [Matan Freedman](https://github.com/MatanFreedman)
+- [Shatha Makhlouf](https://github.com/biomedengsam)
 - [Lavanay Thakral](https://github.com/lavanaythakral)
 - [Giovani Zanetti](https://github.com/giovanizanetti)
 - [Shikhar Kushwah](https://github.com/MAG-BOSS)
