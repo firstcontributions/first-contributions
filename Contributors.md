@@ -2,6 +2,7 @@
 
 
 - [Engensmax](https://github.com/engensmax)
+- [Daryl] (https://github.com/dwturrentine)
 - [Morgan Jones] (https://github.com/morgsj)
   [Ryan Deng] (https://github.com/ryandeng32) 
 - [Magicianred](https://github.com/Magicianred)
