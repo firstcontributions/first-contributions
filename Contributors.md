@@ -7,6 +7,7 @@
   [Ryan Deng] (https://github.com/ryandeng32) 
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
+- [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Anirvan Goswami](https://github.com/Anirvan1)
