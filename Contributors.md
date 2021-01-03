@@ -16,6 +16,7 @@
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
+- [Farhan Halai](https://github.com/farhanhalai30)
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [MTelford](https://github.com/MTelford)
