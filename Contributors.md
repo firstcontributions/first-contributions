@@ -1966,6 +1966,7 @@
 - [Theologos Baxevanos](https://github.com/greatmerlin)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [GodSaveTheDoge](https://github.com/GodSaveTheDoge)
+- [Gabriel Moreno] (https://github.com/gaboMoreno/)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
 - [Guru Nanma](https://github.com/gnp31)
 - [Kevin Salimi](https://github.com/kevinsalimi)
@@ -8794,3 +8795,4 @@ James Crawf
 - [Pogchamp](https://github.com/yibinlong)
 - [swoorr](https://github.com/swoorr)
 - [swoorr](https://github.com/Dhrunit/)
+
