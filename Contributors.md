@@ -249,6 +249,7 @@
 - [Malach Salama](https://github.com/malachsalama)
 - [Matthew Ivler](https://github.com/mivler)
 - [Stephen Jackson](http://github.com/Dukeboxz)
+- [Devin Macalalad](https://github.com/devinmacalaladdt)
 - [luis-zaldivar](https://github.com/luis-zaldivar)
 - [Omar Gatica Analco](https://github.com/Omarcito017)
 - [Jacob G](https://github.com/dzejkob1218)
