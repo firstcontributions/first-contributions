@@ -3293,6 +3293,7 @@
 - [Hunter Wilkins](https://github.com/galaxyproduction)
 - [ssMinji](https://github.com/ssMinji)
 - [Bhavik25](https://github.com/bhavik25)
+- [Vigen](https://github.com/Vigenh199)
 - [Benedicte Myrvoll](https://github.com/benedihm)
 - [Smriti Rastogi](https://github.com/special-kay)
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
