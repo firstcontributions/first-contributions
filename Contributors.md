@@ -2250,6 +2250,7 @@
 - Hemanth Reddy
 - [Shagun Sharma](https://github.com/Shagun15)
 - Alexis Cumpstone
+- [Jack Dunlop](https://github.com/midshipman-easy)
 - Yahaya Kehinde
 - [Harshal Jain](https://github.com/Harshal0506)
 - Ajeet Singh Parmar
