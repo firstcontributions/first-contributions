@@ -8,6 +8,7 @@
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
 - [Gamez0](https://github.com/Gamez0)
+Prakshali Jain
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Enrico Termine](https://github.com/enricospT)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
