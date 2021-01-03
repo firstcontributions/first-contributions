@@ -167,7 +167,7 @@ Segera Saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama 
 
 ## Ke Mana Lagi Setelah dari Sini?
 
-Selamat! Anda baru saja menyelesaikan *fork* -> klon -> ubah -> alur kerja *Pull Request* yang akan sering Anda temui sebagai kontributor!
+Selamat! Anda baru saja menyelesaikan *fork* -> *clone* -> ubah -> *Pull Request*. Sebuah alur kerja yang akan sering Anda temui sebagai kontributor!
 
 Mari rayakan kontribusi Anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
