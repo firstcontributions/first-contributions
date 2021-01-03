@@ -83,6 +83,7 @@
  -[Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
 - [Machina](https://github.com/Ckrielle)
 - [Maruf](https://github.com/immaruf)
+- [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [NikolaosDimitrakakis]( https://github.com/NikolaosDimitrakakis)
 - [lazaraaus](https://github.com/lazaraaus)
 - [Maximiliano Sánchez](https://github.com/maxisan)
