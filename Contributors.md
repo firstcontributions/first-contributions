@@ -17,6 +17,7 @@
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [MTelford](https://github.com/MTelford)
+- [Lavanay Thakral](https://github.com/lavanaythakral)
 - [Giovani Zanetti](https://github.com/giovanizanetti)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Meet Shah](https://github.com/Meet2674)
