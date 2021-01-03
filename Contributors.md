@@ -62,6 +62,7 @@
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
+- [Rupesh kumar](https://github.com/Rupesh-rkgit) 
 - [Ty Richardson](https://github.com/tyrichardson)
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
