@@ -8796,3 +8796,4 @@ James Crawf
 - [Pogchamp](https://github.com/yibinlong)
 - [swoorr](https://github.com/swoorr)
 - [swoorr](https://github.com/Dhrunit/)
+- [Tristan John Magpayo](https://github.com/tristanmagpayo)
