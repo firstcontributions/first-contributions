@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 
 - [Engensmax](https://github.com/engensmax)
@@ -839,6 +839,7 @@
 - [cheetosysst](https://github.com/cheetosysst)
 - Ankit dhar 07
 - [coderAbhii](https://github.com/coderAbhii)
+- [ShivamBhosale](https://github.com/ShivamBhosale)
 - [Bimal Singh](https://github.com/starkk242)
 - [Shane Kohler](https://github.com/frosty151)
 - [Rishard Akram](https://github.com/Rishy20)
