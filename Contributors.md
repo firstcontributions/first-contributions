@@ -361,6 +361,7 @@
 - [Mayorbcode](https://github.com/mayorbcode)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
+- [Mayur Shingrakhiya](https://github.com/mkshingrakhiya)
 - [Jessica Chen](https://github.com/jessicreative)
 - [mowafess](https://github.com/mowafess)
 - [Melanys Figueredo](https://github.com/melanyss)
