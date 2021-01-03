@@ -20,6 +20,7 @@
 - [MTelford](https://github.com/MTelford)
 - [Lavanay Thakral](https://github.com/lavanaythakral)
 - [Giovani Zanetti](https://github.com/giovanizanetti)
+- [Shikhar Kushwah](https://github.com/MAG-BOSS)
 - [Nirushan1](https://github.com/Nirushan1)
 - [Meet Shah](https://github.com/Meet2674)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
