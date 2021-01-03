@@ -3924,6 +3924,7 @@
 - Sarabjyot Singh
 - Shivam Rawat
 - [Ramneek Riar](https://github.com/rkriar)
+- [Khingz Akpan](https://github.com/khingz)
 - [Ebeagu Samuel](https://github.com/ebeagusamuel)
 - Elias Urios Alacreu
 - [Igho Okeoghene](https://github.com/igho-okeoghene)
