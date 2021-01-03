@@ -4,6 +4,7 @@
 - [Engensmax](https://github.com/engensmax)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl] (https://github.com/dwturrentine)
+- [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
 - [Morgan Jones] (https://github.com/morgsj)
   [Ryan Deng] (https://github.com/ryandeng32) 
 - [Magicianred](https://github.com/Magicianred)
