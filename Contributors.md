@@ -423,6 +423,7 @@
 - [Joseph Pearson](https://github.com/JoeyPearson822)
 - [Noam Hadad](https://github.com/Noamrok)
 - [kimilg](https://github.com/kimilg)
+- [omarabdi](https://github.com/omarabdiwali)
 - [Aedan Lombardo](https://github.com/aedanlombardo)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Tyler Allen](https://github.com/tylerjallen02)
