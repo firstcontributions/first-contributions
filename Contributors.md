@@ -40,6 +40,7 @@
 - [olalekan temitayo](https://github.com/temitayopelumi)
 - [Meet Shah](https://github.com/Meet2674)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
+- [Lepra](https://github.com/lepra2020)
 - [Erjon Dervishaj](https://github.com/Erjon95)
 - [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
