@@ -8834,3 +8834,4 @@ James Crawf
 - [shen](https://github.com/sheny1xuan/first-contributions)
 - [Vi1234sh12](https://github.com/Vi1234sh12)
 - [Gustavo Baptista](https://github.com/gustavoggsb)
+- [Edy Michel](https://github.com/edmichs)
