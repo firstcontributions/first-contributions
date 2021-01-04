@@ -6965,6 +6965,7 @@
 - [Katie Gu](https://github.com/katie-gu)
 - [Yuhe Tang](https://github.com/dondon1993)
 - [Elias Nordlinder](https://github.com/EliasNo)
+- [Divlo](https://github.com/Divlo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
 - [Samuel Scott](https://github.com/SamuelScotts)
