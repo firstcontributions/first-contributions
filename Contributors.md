@@ -6880,6 +6880,7 @@
 - [Anshu Aradhyula](https://github.com/yellowyetti)
 - [Mark Hall](https://github.com/helmguy)
 - [Jeff Bentley](https://github.com/jbentleyjp)
+- [Adeesha Savinda de Silva] (https://github.com/adeesha-savinda)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
 - [Joe Lee](https://github.com/jlee-sysdig)
