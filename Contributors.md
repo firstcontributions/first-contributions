@@ -24,6 +24,7 @@
 - [Sezer Mehmed](https://github.com/sezermehmed)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
+- [Anjuan Simmons](https://github.com/anjuan)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
 - [Julie Michaud](https://github.com/jlmichaud)
