@@ -5,6 +5,7 @@
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl] (https://github.com/dwturrentine)
+- [Chris Garlick] (https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
 - [Morgan Jones] (https://github.com/morgsj)
   [Ryan Deng] (https://github.com/ryandeng32) 
