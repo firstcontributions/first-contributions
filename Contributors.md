@@ -5530,6 +5530,7 @@
 - [Gustavo Reyes](https://github.com/gustavo-reyes)
 - [Peter Kim](https://github.com/PeterKim1967)
 - [mafnah](https://github.com/mafnah)
+- [Franky Snow](https://github.com/FrankySnow)
 - [Emilie](https://github.com/EmOnTheWeb)
 - [Ryan McCormick](https://github.com/rmccorm4)
 - [Guilherme Nishi Kanashiro](https://github.com/kananishi)
