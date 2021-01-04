@@ -25,6 +25,7 @@
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [MTelford](https://github.com/MTelford)
+- [Namita Soni](https://github.com/namitasoni)
 - [Matan Freedman](https://github.com/MatanFreedman)
 - [Shatha Makhlouf](https://github.com/biomedengsam)
 - [Lavanay Thakral](https://github.com/lavanaythakral)
