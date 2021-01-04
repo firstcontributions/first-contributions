@@ -397,6 +397,7 @@
 - [OofChair](https://github.com/OofChair)
 - [mayosecc](https://github.com/mayosecc)
 - [NITIN KUMAR](https://github.com/nkthehustler)
+- [Alex Ayllon](https://github.com/Arkalex)
 - [vjanz](https://github.com/vjanz)
 - [Liz Kipp](https://github.com/elizabethsn7)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
