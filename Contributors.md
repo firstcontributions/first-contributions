@@ -238,6 +238,7 @@
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Joe mon](https://github.com/JOEMN96)
 - [0xmery](https://github.com/0xmery)
+- [cvsriya]
 - [catboxer](https://github.com/catboxer)
 - [Isaac Contreras](https://github.com/icontreras16)
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
