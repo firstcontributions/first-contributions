@@ -3735,6 +3735,7 @@
 - [Fotie M. Constant](https://github.com/FotieMConstant)
 - [Gayathri Natarajan](https://github.com/gayathri0329/)
 - [Rishabh Sharma](https://github.com/rishiar4)
+- [Miller Adams](https://github.com/TacSponge)
 - [Mustafa Gangardiwala](https://github.com/MustafaGangardiwala)
 - [Aniruddha Banerjee](https://github.com/imanirudh1)
 - [SashiKrishna C P](https://github.com/ossCodeJourney)
