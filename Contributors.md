@@ -3,6 +3,7 @@
 
 - [Engensmax](https://github.com/engensmax)
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
+- [Aman Shaw](https://github.com/amanshaw4511)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl] (https://github.com/dwturrentine)
 - [Chris Garlick] (https://github.com/Chrisgarlick)
