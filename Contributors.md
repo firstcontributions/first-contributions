@@ -9,6 +9,7 @@
   [Ryan Deng] (https://github.com/ryandeng32) 
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
+- [Amir Najafi](https://github.com/Official21A)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - Pranavbm
