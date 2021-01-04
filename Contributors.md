@@ -20,6 +20,7 @@
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
+- [Julie Michaud](https://github.com/jlmichaud)
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
