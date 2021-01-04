@@ -13,6 +13,7 @@
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - Pranavbm
+- [Divij Sharma](https://github.com/divij26)
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Joon Park] (https://github.com/joonpark119)
 - [Sandeep Panwar](https://github.com/sandeep-90)
