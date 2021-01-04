@@ -840,6 +840,7 @@
 - Kinjal Rat
 - [Koushik Joshi](https://github.com/koushikjoshi)
 - [Joyal Raphel](https://github.com/joyal007)
+- [San Naing Tun](https://github.com/sannaingtun)
 - Namrata Surve
 - Shiyu Hao
 - [Darshita Kumar](https://github.com/darshita-kumar)
