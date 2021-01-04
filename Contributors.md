@@ -255,6 +255,7 @@
 - [CrownCrafter](https://github.com/CrownCrafter)
 - [Danny Tran](https://github.com/DTDevelop)
 -[Gary Zhang](https://github.com/gzhang62)
+-[Kalman Labinsky](https://github.com/kalmanl)
 - [Jericho De Guzman](https://github.com/Greywolvesss)
 - [Branka Jesic](https://github.com/Branka19)
 - [Jason Flaherty](https://github.com/jfla011)
