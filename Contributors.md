@@ -59,6 +59,7 @@
 - [Tom Kwon](https://github.com/ForMeCodingIsLikeTypeRacer)
 - [Kim Jørgensen](https://github.com/kim4848)
 - [blinCharter](https://github.com/blinCharter)
+- [Demigod98](https://github.com/Demigod98)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
 - [Paul Fraser](https://github.com/paulson100)
