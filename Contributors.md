@@ -61,6 +61,7 @@
 - [blinCharter](https://github.com/blinCharter)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
+- [Paul Fraser](https://github.com/paulson100)
 - [Gamez0](https://github.com/Gamez0)
 - [pranavkhekare](https://github.com/pranavkhekare)
 - [Talha Tariq](https://github.com/TT-talhatariq)
