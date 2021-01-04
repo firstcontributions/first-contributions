@@ -210,6 +210,7 @@
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Fregg](https://github.com/frozenegg)
 - [Nitin Gupta](https://github.com/nitingupta-123)
+- [Marenda Setco Ardy](https://github.com/rendaardy)
 - [Sejal Rathore](https://github.com/sejal1126)
 - [Sriya R](https://github.com/SriyaR)
 - [Mick W](https://github.com/lazymango)
