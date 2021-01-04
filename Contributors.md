@@ -20,6 +20,7 @@
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Joon Park] (https://github.com/joonpark119)
 - [Sandeep Panwar](https://github.com/sandeep-90)
+- [Jarred Harris](https://github.com/seithman)
 - [Sezer Mehmed](https://github.com/sezermehmed)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
