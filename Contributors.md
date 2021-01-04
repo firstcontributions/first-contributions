@@ -2,6 +2,7 @@
 
 
 - [Engensmax](https://github.com/engensmax)
+- [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl] (https://github.com/dwturrentine)
 - [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
