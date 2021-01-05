@@ -3,6 +3,7 @@
 
 - [Ayush Sharma] (https://github.com/GAMhackER)
 - [Engensmax](https://github.com/engensmax)
+- [Chaitanya] (https://github.com/bmchaitu)
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [Aman Shaw](https://github.com/amanshaw4511)
 - [SyntheticOne](https://github.com/SyntheticOne)
