@@ -2912,6 +2912,7 @@
 - [Kajal Jain](https://github.com/kajaljain0206)
 - [Nabil El assal](https://github.com/nabil-e)
 - [smullle](https://github.com/Smullle)
+- [Dominik Meurer](https://github.com/DMeurer)
 - [Andrea Testini](https://github.com/L0dz)
 - [Adam Gumieniak](https://github.com/iLooL)
 - [Alex Slobodyansky](https://github.com/web2ls)
