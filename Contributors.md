@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Vishal Bhatane] (https://github.com/vish-321)
 - [William Rabbermann] (https://github.com/steezy104)
@@ -6,6 +6,7 @@
 - [Shivam Kalra] (https://github.com/shivamkalra13)
 - [Falconbrunch](https://github.com/Falconbrunch)
 - [b3z](https://github.com/b3z)
+- [Hasan Gökçe](https://github.com/hasangokce)
 - [Engensmax](https://github.com/engensmax)
 - [Andres Cruz ](https://github.com/andrscyv)
 - [Cristi](https://github.com/cristicretu)
