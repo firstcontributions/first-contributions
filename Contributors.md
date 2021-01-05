@@ -2,6 +2,7 @@
 
 
 - [Ayush Sharma] (https://github.com/GAMhackER)
+- [b3z](https://github.com/b3z)
 - [Engensmax](https://github.com/engensmax)
 - [Cristi](https://github.com/cristicretu)
 - [Chaitanya] (https://github.com/bmchaitu)
