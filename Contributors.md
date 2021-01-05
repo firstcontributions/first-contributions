@@ -19,6 +19,7 @@
 - [Divij Sharma](https://github.com/divij26)
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Joon Park] (https://github.com/joonpark119)
+- [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Jarred Harris](https://github.com/seithman)
 - [Sezer Mehmed](https://github.com/sezermehmed)
