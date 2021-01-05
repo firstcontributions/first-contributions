@@ -8870,3 +8870,4 @@ James Crawf
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Filip lenaerts](https://github.com/filiplenaerts)
 - [Emre Can Satık](https://github.com/emrecanstk)
+- [Shiqi Chang](https://github.com/shiqichang)
