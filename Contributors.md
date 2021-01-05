@@ -17,6 +17,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - Pranavbm
 - [Divij Sharma](https://github.com/divij26)
+- [Shrushti Vasaniya](https://github.com/shrushti22)
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Joon Park] (https://github.com/joonpark119)
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
