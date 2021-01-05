@@ -934,6 +934,7 @@
 - [Adam Anikiej](https://github.com/AdamanX)
 - [Emma Elkan](https://github.com/EmElkan)
 - W Chan
+- [Jared Thompson](https://github.com/Jthom606)
 - Connie Purcell
 - [Dustin Keyes](https://github.com/iBeEmployed)
 - Harshit Sharma
