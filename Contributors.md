@@ -23,6 +23,7 @@
 - [Nay Lin Tun](https://github.com/NayLin99)
 - Pranavbm
 - [Divij Sharma](https://github.com/divij26)
+- [Noah Borkowski](https://github.com/noahborkowski)
 - [Shrushti Vasaniya](https://github.com/shrushti22)
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Joon Park] (https://github.com/joonpark119)
