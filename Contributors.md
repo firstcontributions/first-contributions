@@ -1343,6 +1343,7 @@
 - [Asa](https://github.com/deweesa)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
+- [Nico Kerschbaumer](https://github.com/nikersch)
 - [Magnus Herrlin](https://github.com/MagnusHerrlin)
 - [Maz Berg](https://github.com/MazBerg)
 - Eliana Grosof
