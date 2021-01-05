@@ -38,6 +38,7 @@
 - [Namita Soni](https://github.com/namitasoni)
 - [Matan Freedman](https://github.com/MatanFreedman)
 - [Shatha Makhlouf](https://github.com/biomedengsam)
+- [Prashant Joshi](https://github.com/prashant-isbest)
 - [Lavanay Thakral](https://github.com/lavanaythakral)
 - [Giovani Zanetti](https://github.com/giovanizanetti)
 - [Shikhar Kushwah](https://github.com/MAG-BOSS)
