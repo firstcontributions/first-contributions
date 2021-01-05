@@ -2,6 +2,7 @@
 
 
 - [Ayush Sharma] (https://github.com/GAMhackER)
+- [Shivam Kalra] (https://github.com/shivamkalra13)
 - [Engensmax](https://github.com/engensmax)
 - [Cristi](https://github.com/cristicretu)
 - [Chaitanya] (https://github.com/bmchaitu)
@@ -13,7 +14,7 @@
 - [Chris Garlick] (https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
 - [Morgan Jones] (https://github.com/morgsj)
-  [Ryan Deng] (https://github.com/ryandeng32) 
+  [Ryan Deng] (https://github.com/ryandeng32)
 - [Magicianred](https://github.com/Magicianred)
 - [Karolis Riaubūnas](https://github.com/Karka-Admin)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
@@ -95,7 +96,7 @@
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
-- [Rupesh kumar](https://github.com/Rupesh-rkgit) 
+- [Rupesh kumar](https://github.com/Rupesh-rkgit)
 - [Ty Richardson](https://github.com/tyrichardson)
 - [Martin Arroyo](https://github.com/martinarroyo777)
 - [kris tel](https://github.com/panamtown04)
