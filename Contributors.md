@@ -3708,6 +3708,7 @@
 - [Srijita Sarkar](https://github.com/SrijitaSarkar99)
 - [Manav Ranawat](https://github.com/ManavRanawat)
 - [Jessica Bakare](https://github.com/jessiBak)
+- [Nehemias Muñoz](https://github.com/NMM-M)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
 - Sherri Chuah :P
 - [Shubham Singh](https://github.com/suubh)
