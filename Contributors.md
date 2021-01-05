@@ -348,6 +348,7 @@
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastava
+- [Nick Crews](https://github.com/mcrews35)
 - [Justin Vocke](https://github.com/justin-vocke)
 - [Ken Walsh](https://github.com/kenwals/)
 - [Cody Deatherage](https://github.com/codydeatherage)
