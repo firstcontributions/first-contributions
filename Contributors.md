@@ -686,6 +686,7 @@
 - [Ashish Burnwal](https://github.com/ashish1816)
 - [Big Bob Little](https://github.com/BigBobLittle)
 - [Debaghosh](https://github.com/debaghosh)
+- [Ming](https://github.com/jeffmingup)
 - [Vardhan Kumar](https://github.com/Vardhan-286)
 - [Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan](https://github.com/harithamohan1)
