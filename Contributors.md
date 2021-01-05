@@ -1618,6 +1618,7 @@
 - [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
 - [Akina Ohira](https://github.com/akinaohira)
+- [Mark Truttmann](https://github.com/mtru32)
 - [Atharva Kale](https://github.com/atharvakale343)
 - [Sangya Lohani](https://github.com/lohanisangya)
 - [Diana Galarza](https://github.com/dianagalarza)
