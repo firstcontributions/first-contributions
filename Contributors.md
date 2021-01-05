@@ -1,6 +1,6 @@
 ﻿# Contributors
 
-
+- [William Rabbermann] (https://github.com/steezy104)
 - [Ayush Sharma] (https://github.com/GAMhackER)
 - [Engensmax](https://github.com/engensmax)
 - [Cristi](https://github.com/cristicretu)
@@ -21,7 +21,7 @@
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
-- Pranavbm
+- [Pranavbm]
 - [Divij Sharma](https://github.com/divij26)
 - [Shrushti Vasaniya](https://github.com/shrushti22)
 - [Anirvan Goswami](https://github.com/Anirvan1)
@@ -32,7 +32,7 @@
 - [Sezer Mehmed](https://github.com/sezermehmed)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
-- Kenan Alghythee](https://github.com/Kenan-Kamel)
+- [Kenan Alghythee](https://github.com/Kenan-Kamel)
 - [Anjuan Simmons](https://github.com/anjuan)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
@@ -82,7 +82,7 @@
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Harsh Maroo](https://github.com/harshmaroo)
 - [Enrico Termine](https://github.com/enricospT)
-[Richard Ruge](https://github.com/richardruge/first-contributions)
+  [Richard Ruge](https://github.com/richardruge/first-contributions)
 - [Omazdev](https://github.com/omazdev)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
