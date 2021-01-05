@@ -787,6 +787,7 @@
   [Arin Tripathi]
 - [Matt Martindale](https://github.com/Marty2327)
 - [Dmitry S](https://github.com/Dmitry-Sm)
+- [Steffen Weise](https://github.com/geekawhyte)
 - [Parinita Edke](https://github.com/parinitaedke)
 - [Daniel Singer](https://github.com/Daniel-Singer)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
