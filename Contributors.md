@@ -8886,3 +8886,4 @@ James Crawf
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
 - [Odin Asbjørnsen](https://github.com/oas004)
+- [Del SPaig] (https://github.com/Spaig)
