@@ -121,6 +121,7 @@
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [Manteg Singh](https://github.com/mantegSingh12)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
+- [Malcolm Liu](https://github.com/macallon)
 - [Mengmei Tu](https://github.com/mmeii)
 - [Lucas Stone-Drake](https://github.com/LucasSD)
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
