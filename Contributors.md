@@ -18,6 +18,7 @@
 - [Amir Najafi](https://github.com/Official21A)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
+- [Nay Lin Tun](https://github.com/NayLin99)
 - Pranavbm
 - [Divij Sharma](https://github.com/divij26)
 - [Shrushti Vasaniya](https://github.com/shrushti22)
