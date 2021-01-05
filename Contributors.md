@@ -1088,6 +1088,7 @@
 - [Rusiru Anupama](https://github.com/sparkstark03)
 - [Aidan Fogarty](https://github.com/AidanFogarty)
 - [Bilal Maqsood](https://github.com/bilal9one)
+- [TeeVau](https://github.com/TeeVau)
 - [Adil Jafar](https://github.com/xcyraxx)
 - [Twinkle Kumari](https://github.com/twinklernc)
 - [Alexander Omorokunwa](https://github.com/xeroxism)
