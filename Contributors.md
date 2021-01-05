@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Vishal Bhatane] (https://github.com/vish-321)
 - [William Rabbermann] (https://github.com/steezy104)
 - [Ayush Sharma] (https://github.com/GAMhackER)
 - [Shivam Kalra] (https://github.com/shivamkalra13)
