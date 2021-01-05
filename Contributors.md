@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 
+- [Ayush Sharma] (https://github.com/GAMhackER)
 - [Engensmax](https://github.com/engensmax)
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [Aman Shaw](https://github.com/amanshaw4511)
