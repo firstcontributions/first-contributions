@@ -11,6 +11,7 @@
 - [Morgan Jones] (https://github.com/morgsj)
   [Ryan Deng] (https://github.com/ryandeng32) 
 - [Magicianred](https://github.com/Magicianred)
+- [Karolis Riaubūnas](https://github.com/Karka-Admin)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [Amir Najafi](https://github.com/Official21A)
 - [CSPabloCortez](https://github.com/cspablocortez)
