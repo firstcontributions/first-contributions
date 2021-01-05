@@ -8892,6 +8892,7 @@
 - [swoorr](https://github.com/swoorr)
 - [swoorr](https://github.com/Dhrunit/)
 - [Tristan John Magpayo](https://github.com/tristanmagpayo)
+- [Jabbar Bie](https://github.com/jabbarbie)
 - Fatemeh Khaledian(https://github.com/fatemehkhaledian)
 - [Mahmoud Hussein] (https://github.com/MhmoudAlim)
 - [Uduru0522](https://github.com/Uduru0522)
