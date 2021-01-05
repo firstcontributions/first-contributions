@@ -150,6 +150,7 @@
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
+- [Isa Kurbanov](github.com)
 - [Terrence Calzada](https://github.com/TezadaConnect)
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
 - [sweinstock] (https://github.com/sweinstock)
