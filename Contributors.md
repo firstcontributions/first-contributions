@@ -166,6 +166,7 @@
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
 - [Isa Kurbanov](github.com)
+- [Neil Goyal](https://github.com/Neildagr8)
 - [Terrence Calzada](https://github.com/TezadaConnect)
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
 - [sweinstock] (https://github.com/sweinstock)
