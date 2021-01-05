@@ -127,6 +127,7 @@
 - [Sina CENGIZ] (https://github.com/sinacengiz)
 - [Giovanni Moscato](https://github.com/codingcodewhilegoofin)
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
+- [Martijn Wieriks](https://github.com/sepam)
 - [Manteg Singh](https://github.com/mantegSingh12)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Malcolm Liu](https://github.com/macallon)
