@@ -7,6 +7,7 @@
 - [Chaitanya] (https://github.com/bmchaitu)
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [Aman Shaw](https://github.com/amanshaw4511)
+- [Saheed Shittu](https://github.com/shittusaheed01)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl] (https://github.com/dwturrentine)
 - [Chris Garlick] (https://github.com/Chrisgarlick)
