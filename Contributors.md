@@ -133,6 +133,7 @@
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Malcolm Liu](https://github.com/macallon)
 - [Mengmei Tu](https://github.com/mmeii)
+- [Luke Hartley](https://github.com/Luke943)
 - [Lucas Stone-Drake](https://github.com/LucasSD)
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
 - [Syfa Collins](https://github.com/SyfaCollins)
