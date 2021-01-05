@@ -2393,6 +2393,7 @@
 - [Madhav Sodhani](https://github.com/madhav2302)
 - [Ritwik Goel](https://github.com/ritwikgoel)
 - [TheIcySpark](https://github.com/TheIcySpark)
+- [Rob Hill](https://github.com/Rob0128)
 - [Isa Faulifa](https://github.com/isafaulifa)
 - [Archit Khanna](https://github.com/architectual)
 - [Seymour James](https://github.com/sanjay1510)
