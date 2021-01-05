@@ -2,6 +2,7 @@
 
 - [William Rabbermann] (https://github.com/steezy104)
 - [Ayush Sharma] (https://github.com/GAMhackER)
+- [Shivam Kalra] (https://github.com/shivamkalra13)
 - [Falconbrunch](https://github.com/Falconbrunch)
 - [b3z](https://github.com/b3z)
 - [Engensmax](https://github.com/engensmax)
