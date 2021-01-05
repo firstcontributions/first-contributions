@@ -8545,6 +8545,7 @@
 - [Jacob Perez](https://github.com/jperez210)
 - [Fajar Muzaky](https://github.com/fajarmzky)
 - [Shashank Kesharwani](https://github.com/Shashank2808)
+- [Eddy Lin](https://github.com/eddyleelin)
 - [Takae Harrington](https://github.com/takaelucky)
 - [Zhanat Mambetbayeva](https://github.com/ZhanatM)
 - [Jibin John]
