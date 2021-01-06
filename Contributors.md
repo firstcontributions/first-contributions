@@ -8924,3 +8924,4 @@ Jeff C.
 - [Del SPaig] (https://github.com/Spaig)
 - [Machete Bang] (https://github.com/MacheteBang)
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
+- [Anton Anikin] (https://github.com/dirdex)
