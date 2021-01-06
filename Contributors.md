@@ -8948,4 +8948,5 @@ Jeff C.
 - [Machete Bang] (https://github.com/MacheteBang)
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
+- [Cedric Miraflor](https://github.com/CMMiraflor)
 Namit Shah
