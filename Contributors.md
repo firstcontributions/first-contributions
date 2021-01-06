@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [nyalla](https://github.com/nyalla)
 - [uniminin](https://github.com/Uniminin)
@@ -946,6 +946,7 @@
 - Andrew Shum
 - [Sweta Kabi](https://github.com/sweta98)
 - [Alvaro Belmonte](https://github.com/alvarobelmonte)
+- Arun Joseph
 - [Jessica Wadsworth](https://github.com/jessicalorenac)
 - [Túlio Chiodi](https://github.com/TulioChiodi/)
 - [Ahmad Shaaban](https://github.com/AhmadShaaban)
@@ -1789,6 +1790,7 @@
 - [Omar Alvarado](https://github.com/Omar0218)
 - [Nikiya Simpson](https://github.com/nikiyasimpson)
 - [Abhishek Ahirrao](https://github.com/colmeabhi)
+- [Akhil Arya](https://github.com/akhilarya123)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [The Old Traveller](https://github.com/TheOldTravellerNetwork)
 - [Benjamin Maquet](https://github.com/BenjMaq)
