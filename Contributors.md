@@ -142,6 +142,7 @@
 - [Giovanni Moscato](https://github.com/codingcodewhilegoofin)
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [Martijn Wieriks](https://github.com/sepam)
+- [Darwin] https://github.com/FallenLevia
 - [Manteg Singh](https://github.com/mantegSingh12)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Malcolm Liu](https://github.com/macallon)
