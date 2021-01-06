@@ -34,6 +34,7 @@
 - [Noah Borkowski](https://github.com/noahborkowski)
 - [Shrushti Vasaniya](https://github.com/shrushti22)
 - [Anirvan Goswami](https://github.com/Anirvan1)
+- [YungBryanX](https://github.com/YungBryanX)
 - [Joon Park] (https://github.com/joonpark119)
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
