@@ -84,6 +84,7 @@
 - [Omazdev](https://github.com/omazdev)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi] (https://github.com/bjuspi)
+- [Sinan Chaush] (https://github.com/sinansonmez)
 - [Neenus Gabriel](https://github.com/neenus)
 - [Md. Pial Ahamed](https://github.com/mdPial)
 - [Lalit 😊](https://github.com/lalit2005)
