@@ -65,6 +65,7 @@
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [MTelford](https://github.com/MTelford)
 - [Namita Soni](https://github.com/namitasoni)
+- [Chinhai Hour](https://github.com/chinhaihour)
 - [Matan Freedman](https://github.com/MatanFreedman)
 - [Shatha Makhlouf](https://github.com/biomedengsam)
 - [Prashant Joshi](https://github.com/prashant-isbest)
