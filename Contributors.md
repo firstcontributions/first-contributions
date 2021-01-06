@@ -2,6 +2,7 @@
 
 - [uniminin](https://github.com/Uniminin)
 - [Kreyren](https://github.com/Kreyren)
+- [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
 - [Vishal Bhatane] (https://github.com/vish-321)
 - [William Rabbermann] (https://github.com/steezy104)
