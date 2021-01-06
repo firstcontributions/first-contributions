@@ -13,6 +13,7 @@
 - [Shivam Kalra] (https://github.com/shivamkalra13)
 - [Falconbrunch](https://github.com/Falconbrunch)
 - [b3z](https://github.com/b3z)
+- [oluwaseun edward] (https://github.com/oluwaseun-edward)
 - [Hasan Gökçe](https://github.com/hasangokce)
 - [Engensmax](https://github.com/engensmax)
 - [Andres Cruz ](https://github.com/andrscyv)
