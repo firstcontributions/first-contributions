@@ -8916,3 +8916,4 @@
 - [Shiqi Chang](https://github.com/shiqichang)
 - [Odin Asbjørnsen](https://github.com/oas004)
 - [Del SPaig] (https://github.com/Spaig)
+- [Machete Bang] (https://github.com/MacheteBang)
