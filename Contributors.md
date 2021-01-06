@@ -4703,6 +4703,7 @@
 - [Jasmine Valera](https://github.com/jvalera174)
 - [Doyeon Lim](https://github.com/fenneccat/)
 - Mr.roboto
+- Tommy Jacobsen
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
 - [Christoph Weise-Onnen](https://github.com/cweise)
