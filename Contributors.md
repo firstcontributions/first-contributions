@@ -1,4 +1,5 @@
 # Contributors
+- [nickjvturner](https://github.com/nickjvturner)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [nyalla](https://github.com/nyalla)
