@@ -1,6 +1,7 @@
 # Contributors
 
 - [uniminin](https://github.com/Uniminin)
+- [Oreste Abizera](https://github.com/oreste-abizera)
 - [Kreyren](https://github.com/Kreyren)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
