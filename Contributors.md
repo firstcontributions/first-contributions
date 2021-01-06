@@ -1729,6 +1729,7 @@
 - [Pragadesh K](https://github.com/pragadesh-k)
 - [Diana Cheng](https://github.com/dianache4685)
 - [Shardul Birje](https://github.com/shardul-b)
+- [Sanchit Bhasin](https://github.com/sanchitbhasin)
 - [Afroj Ahmad Khan](https://github.com/iamAfroj)
 - [Antara Ghosh]
 - [Joyce He](https://github.com/jjoycehe)
