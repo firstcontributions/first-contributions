@@ -4,22 +4,22 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# ပထမအကြိမ် ကူညီထောက်ပံခြင်း
+# ပထမဦးဆုံးအကြိမ် ကူညီထောက်ပံခြင်း
 
-ဘယ်အရာမဆို ပထမဦးဆုံးလုပ်ဆောင်အခါ အခက်အခဲတွေ့ကြံုရပါတယ်။ အထူးသဖြင့် လူအများနဲ့ ပေါင်းသင်လုပ်ကိုင်ကြတဲ့ အခါ မထင်မှတ်ထားတဲ့ အမှားများတေွ့ရတက်ပြီး အဆင်မပြေတေွတာတွေဖြစ်တက်ပါတယ်။ Open source software များကတော့ လူအများနဲ့ ပေါင်းသင်ဆက်ဆံလုပ်ကိုင် ကြရတာပါ။ ဒါကြောင့်မို့ ပထမဦးဆုံးအကြိမ် open-source project များကို ပါဝင် ကူညီထောက်ပံသူများကို ပထမဆုံးအကြိမ် ကူညီထောက်ပံနိုင်ဖို့နဲ့ လွယ်ကူ ရိုးရှင်းတဲ့ လေ့လာနည်းဖြစ်ဖို့ ရည်ရွယ်ပါတယ်။
+ဘယ်အရာမဆို ပထမဦးဆုံးလုပ်ဆောင်အခါ အခက်အခဲတွေနဲ့ ကြုံတွေ့ရပါတယ်။ အထူးသဖြင့် လူအများနဲ့ ပေါင်းသင်းလုပ်ကိုင်ကြတဲ့အခါ မထင်မှတ်ထားတဲ့ အမှားများတွေ့ရတက်ပြီး အဆင်မပြေတာတွေဖြစ်တက်ပါတယ်။ Open source software များကတော့ လူအများနဲ့ ပေါင်းသင်းဆက်ဆံလုပ်ကိုင် ကြရတာပါ။ ဒါကြောင့်မို့ ပထမဦးဆုံးအကြိမ် open-source project များကို ပါဝင် ကူညီထောက်ပံ့သူများအတွက် ကူညီထောက်ပံ့နိုင်ဖို့နဲ့ လွယ်ကူ ရိုးရှင်းတဲ့ လေ့လာနည်းဖြစ်ဖို့ ရည်ရွယ်ပါတယ်။
 
-လေ့ကျင်ခန်း စာစောင်တေွနဲ့ ဗီဒီယိုတေွက အကူအညီရနိုင်သော်လဲ တကယ်လက်တွေ့လုပ်ဆောင်တာထက် ပိုကောင်းတာမရှိပါဘူး။ ဒီ project က ပထမဆုံးအကြိမ် ကူညီထောက်ပံမဲ့ သူတေွအတွက် လွယ်ကူ ရှိးရှင်းပြီး အကူအညီးအထောက်ပံ့ဖြစ်စေဖို့ ရည်ရွယ်ပါတယ်။ Remember: the more relaxed you are, the better you learn. အာမခံတယ် သင့်သာ အောက်မှာရှိတဲံ အဆင့်တိုင်းလုပ်သွားလျှင် သင့်ရဲ့ ပထမဆုံး ကူညီထောက်ပံခြင်းမှာ အဆင်ပြေစွာ ပြီးမြောက်သွားမှာပါ၊
+လေ့ကျင့်ခန်း စာစောင်တွေနဲ့ ဗီဒီယိုတွေက အကူအညီရနိုင်သော်လဲ တကယ်လက်တွေ့လုပ်ဆောင်တာထက် ပိုကောင်းတာမရှိပါဘူး။ ဒီ project က ပထမဆုံးအကြိမ် ကူညီထောက်ပံ့မယ့် သူတွေအတွက် လွယ်ကူ ရှိးရှင်းပြီး အကူအညီအထောက်အပံ့ဖြစ်စေဖို့ ရည်ရွယ်ပါတယ်။ Remember: the more relaxed you are, the better you learn. အာမခံပါတယ်။ သင်သာ အောက်မှာရှိတဲ့ အဆင့်အတိုင်းလုပ်သွားလျှင် သင့်ရဲ့ ပထမဆုံး ကူညီထောက်ပံ့ခြင်းမှာ အဆင်ပြေစွာ ပြီးမြောက်သွားမှာပါ၊
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md), [Italian](README.it.md), [ภาษาไทย](README.th.md) and [Galician](README.gl.md).*
 
-သင့်ရဲံစက်ထဲမှာ git မသွင်းရသေးရင်, [ ဒီမှာသွင်းနည်းကြည့် ]( https://help.github.com/articles/set-up-git/ ).
+သင့်ရဲ့စက်ထဲမှာ git မသွင်းရသေးရင်, [ ဒီမှာသွင်းနည်းကြည့်ရန် ]( https://help.github.com/articles/set-up-git/ ).
 
 ## ဒီ repository ကို fork လုပ်ပါ
 
-Frok လုပ်ဖို့အတွက် စာမျက်နှာအပေါ်နားမှရှိတဲ့ fork ခလုပ်ကိုနိပ်ပါ။
-ဒီ repository က သင့် အကောင့်ကို ပုံစံတူပွားအနေနဲ့ ရောက်လာပါမယ်။
+Frok လုပ်ဖို့အတွက် စာမျက်နှာအပေါ်နားမှာရှိတဲ့ fork ခလုတ်ကိုနိုပ်ပါ။
+ဒီ repository က သင့်ရဲ့ အကောင့်ထဲကို ပုံစံတူပွားအနေနဲ့ ရောက်လာပါမယ်။
 
 ## ဒီ repository ကို clone လုပ်ပါ
 
@@ -27,16 +27,16 @@ Frok လုပ်ဖို့အတွက် စာမျက်နှာအပ�
 
 *copy to clipboard* icon ကိုနိုပ်ပီး သင့်စက်အတွင်းသို့ ဒီ repository ကို clone လုပ်ယူပါ။
 
-Terminal ကို ဖွင့်ပြီး အောက်ရှိ git command ကို run ပါ:
+Terminal ကို ဖွင့်ပြီး အောက်ရှိ git command ကို run ပါ။
 
 ```
 git clone "သင့်ကူးထားတဲ့ url ကိုထည့်ပါ"
 ```
-"သင့်ကူးထားတဲ့ url ကိုထည့်ပါ" (သင့်ကူထားတာ quote အမှတ်အသားမှာမပါ) နေရာမှာ ထည့်ရမှာက သင့် clone လုပ်မဲ့ repository ရဲ့ url ဖြစ်ပါတယ်။ ဒီအဆင့်ကို အဆင်မပြေဖြစ်ခဲ့ရင် အနောက်တစ်ဆင့်ကို ပြန်ကြည့်ပါ။ *copy to clipboard* icon ကို နိုပ်ပီး url ကို copy ကူးထားတာကိုတေွ့ရမှာပါ။
+"သင့်ကူးထားတဲ့ url ကိုထည့်ပါ" (သင့်ကူထားတာ quote အမှတ်အသားမှာမပါ) နေရာမှာ ထည့်ရမှာက သင့် clone လုပ်မဲ့ repository ရဲ့ url ဖြစ်ပါတယ်။ ဒီအဆင့်ကို အဆင်မပြေဖြစ်ခဲ့ရင် အနောက်တစ်ဆင့်ကို ပြန်ကြည့်ပါ။ *copy to clipboard* icon ကို နိုပ်ပီး url ကို copy ကူးထားတာကိုတွေ့ရမှာပါ။
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-ဥပမာကို အောက်မှာကြည့်ပါ:
+ဥပမာကို အောက်မှာကြည့်ပါ။
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
@@ -49,12 +49,12 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 cd first-contributions
 ```
-Branch အသစ်ကို `git checkout` command ကို run ပြီးလုပ်ပါ:
+Branch အသစ်ကို `git checkout` command ကို run ပြီးလုပ်ပါ။
 ```
 git checkout -b <add-your-name>
 ```
 
-ဥပမာ:
+ဥပမာ။
 ```
 git checkout -b add-alonzo-church
 ```
@@ -62,13 +62,13 @@ git checkout -b add-alonzo-church
 
 ## ပြောင်းလဲမှုများလုပ်ပြီး အဲ့ပြောင်းလဲ့မှုများကို commit လုပ်ခြင်း
 
-သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။ ပြီရင် ဒီ folder ရှိတဲ့နေရာကိုသွားပြီး `git status` command ကို run ပါ။ သင့်ဘာတေွပြောင်းထားလဲဆိုတာ မြင်ရပါလိမ့်မယ်။ ဒီပြောင်းလဲမှုတေွကို သင့်ရဲ့ branch ကိုထည့်ဖို့အတွက် `git add` command ကို run ပါ:
+သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။ ပြီရင် ဒီ folder ရှိတဲ့နေရာကိုသွားပြီး `git status` command ကို run ပါ။ သင့်ဘာတွေပြောင်းထားလဲဆိုတာ မြင်ရပါလိမ့်မယ်။ ဒီပြောင်းလဲမှုတွေကို သင့်ရဲ့ branch ကိုထည့်ဖို့အတွက် `git add` command ကို run ပါ:
 
 ```
 git add Contributors.md
 ```
 
-အခု commit လုပ်ဖို့ `git commit` command ကို run ပေးပါ :
+အခု commit လုပ်ဖို့ `git commit` command ကို run ပေးပါ။
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
@@ -76,15 +76,15 @@ git commit -m "Add <your-name> to Contributors list"
 
 ## သင့်ရဲ့ ပြောင်းလဲ ပြုပြင်မှုကိုများကို Github သို့တင်ပါ
 
-ပြောင်းလဲမှုများကို Github သို့တင်ဖို့အတွက် `git push` ကို run ပါ:
+ပြောင်းလဲမှုများကို Github သို့တင်ရန်အတွက် `git push` ကို run ပါ။
 ```
 git push origin <add-your-name>
 ```
-`<add-your-name>` နေရာမှာ သင့်အသစ်လုပ်ထားတဲ့ branch နာမည်ကိုထည့်ပါ။
+`<add-your-name>` နေရာမှာ သင်အသစ်လုပ်ထားတဲ့ branch နာမည်ကိုထည့်ပါ။
 
 ## သင့်ပြောင်းထားတာ တွေကို review လုပ်ဖို့ ပို့ပါ
 
-သင့် GitHub က သင့် repository ကိုမှာဆို `Compare & pull request` ဆုိတဲ့ ခလုပ်မြင်နေရမှာပါ။ အဲ့ခလုပ်ကို နိုပ်လိုက်ပါ။
+သင့် GitHub က သင့် repository မှာ `Compare & pull request` ဆိုတဲ့ ခလုတ်မြင်နေရမှာပါ။ အဲ့ဒီခလုတ်ကို နိုပ်လိုက်ပါ။
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -92,7 +92,7 @@ git push origin <add-your-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
+သင့်ရဲ့ပြောင်းလဲမှုတွေကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
 ### [ Additional material ](../additional-material/git_workflow_scenarios/additional-material.md)
 
@@ -103,11 +103,11 @@ git push origin <add-your-name>
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## ဒီကနေ ဘယ်လိုရေှ့ဆက်မလဲ
+## ဒီကနေ ဘယ်လိုရှေ့ဆက်မလဲ
 
-သင့်မှာ အကူလိုလို့ ဒါမှဟုတ်မေးစရာရှိလို ဘာပဲဖြစ်ဖြစ် slack မှာ လာပြီး လုပ်ဆောင်မေးမြန်လုိ့ရပါတယ်။ [Slack team သို့ ဒီမှာချိတ်ဆက်ပါ](https://firstcontributions.herokuapp.com)
+သင့်မှာ အကူအညီလိုလို့ ဒါမှဟုတ်မေးစရာရှိလို့ပဲဖြစ်ဖြစ် slack မှာ လာပြီး လုပ်ဆောင်မေးမြန်းလို့ရပါတယ်။ [Slack team သို့ ဒီမှာချိတ်ဆက်ပါ](https://firstcontributions.herokuapp.com)
 
-ဒီနေရာကနေ နာမယ့်ကြီးတဲ့ project တေွရဲ့ အခြေခံ issue များကိုသင့်ဖြေရှင်ပေးလို့ရပါပြီး။ ဒါကြောင့် သင် အောက်က repository တေွကိုသွားပြီး လေ့လာပါ။
+ဒီနေရာကနေ နာမည်ကြီးတဲ့ project တွေရဲ့ အခြေခံ issue များကိုသင့်ဖြေရှင်ပေးလို့ရပါပြီး။ ဒါကြောင့် သင် ဒီအောက်က repository တွေကိုသွားပြီး လေ့လာပါ။
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
