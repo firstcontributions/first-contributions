@@ -2,6 +2,7 @@
 
 - [uniminin](https://github.com/Uniminin)
 - [Oreste Abizera](https://github.com/oreste-abizera)
+- [Hiba Alkurd](https://github.com/Hiba-alkurd)
 - [Kreyren](https://github.com/Kreyren)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
