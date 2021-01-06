@@ -946,6 +946,7 @@
 - Andrew Shum
 - [Sweta Kabi](https://github.com/sweta98)
 - [Alvaro Belmonte](https://github.com/alvarobelmonte)
+- Arun Joseph
 - [Jessica Wadsworth](https://github.com/jessicalorenac)
 - [Túlio Chiodi](https://github.com/TulioChiodi/)
 - [Ahmad Shaaban](https://github.com/AhmadShaaban)
