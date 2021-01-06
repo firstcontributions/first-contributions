@@ -8913,6 +8913,7 @@
 - [Abdulla Jaber]
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
+Jeff C.
 - [Filip lenaerts](https://github.com/filiplenaerts)
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
