@@ -830,6 +830,7 @@
 - [Astralyfuse](https://github.com/Astralyfuse)
 - [Harshit Sharma](https://github.com/harshu1470)
 - [Harshal Sanghvi](https://github.com/harshal2030)
+- [Yash Dixit](https://github.com/yash921)
 - [Darian Purry](https://github.com/dpurry23)
 - [Christian Lao](https://github.com/christianlao12)
 - [Luis Sosa](https://github.com/sosavle)
