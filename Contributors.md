@@ -8921,3 +8921,4 @@ Jeff C.
 - [Odin Asbjørnsen](https://github.com/oas004)
 - [Del SPaig] (https://github.com/Spaig)
 - [Machete Bang] (https://github.com/MacheteBang)
+- [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
