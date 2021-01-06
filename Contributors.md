@@ -8912,6 +8912,7 @@
 - [Farooq Ahmed](https://github.com/farooqahmed-it)
 - [Matthew Sheldon](https://github.com/msheldon32)
 - [Andrew Russell](https://github.com/WatCodeDatCode)
+- [spsoni] (https://github.com/spsoni)
 - [Anno2003] (https://github.com/Anno2003 )
 - [Rafael Neves](https://github.com/rafaeljneves)
 - [Pogchamp](https://github.com/yibinlong)
