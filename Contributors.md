@@ -93,6 +93,7 @@
 - [Fernando Lozano](https://github.com/Fernando-Lozano)
 - [Tushar Kumawat](https://github.com/tusharkumawat)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
+- [lekandev](https://github.com/lekandev)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
 - [Ayush Jain](https://github.com/jain18ayush)
 - [Robert Ngabo](https://github.com/ngaboindev)
