@@ -37,6 +37,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
+- [Yentema Nadjoari](https://github.com/yenteck)
 - [Divij Sharma](https://github.com/divij26)
 - [Noah Borkowski](https://github.com/noahborkowski)
 - [Shrushti Vasaniya](https://github.com/shrushti22)
