@@ -3757,6 +3757,7 @@
 - [Arjun Puthli](https://github.com/akagam1)
 - [Nilansh Bansal](https://github.com/nilanshbansal)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
+- [Fadhlan Harits](https://github.com/fadhlanhrts)
 - [Kristin Skipper](https://github.com/lifefromashes)
 - [Vasiliy Harden](https://github.com/VasiliyHarden)
 - [Speedphoenix](https://github.com/Speedphoenix)
