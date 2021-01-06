@@ -62,7 +62,7 @@ git checkout -b add-alonzo-church
 
 ## ပြောင်းလဲမှုများလုပ်ပြီး အဲ့ပြောင်းလဲ့မှုများကို commit လုပ်ခြင်း
 
-သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။ ပြီရင် ဒီ folder ရှိတဲ့နေရာကိုသွားပြီး `git status` command ကို run ပါ။ သင့်ဘာတွေပြောင်းထားလဲဆိုတာ မြင်ရပါလိမ့်မယ်။ ဒီပြောင်းလဲမှုတွေကို သင့်ရဲ့ branch ကိုထည့်ဖို့အတွက် `git add` command ကို run ပါ:
+သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။ ပြီရင် ဒီ folder ရှိတဲ့နေရာကိုသွားပြီး `git status` command ကို run ပါ။ သင့်ဘာတွေပြောင်းထားလဲဆိုတာ မြင်ရပါလိမ့်မယ်။ ဒီပြောင်းလဲမှုတွေကို သင့်ရဲ့ branch ကိုထည့်ဖို့အတွက် `git add` command ကို run ပါ။
 
 ```
 git add Contributors.md
