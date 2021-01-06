@@ -23,6 +23,7 @@
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl] (https://github.com/dwturrentine)
+- [Parul S Kumar] (https://github.com/ParulSKumar)
 - [Chris Garlick] (https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
 - [Morgan Jones] (https://github.com/morgsj)
