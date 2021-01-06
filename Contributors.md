@@ -47,6 +47,7 @@
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Ayomitan Pamilerin](https://github.com/AyDeveloper)
 - [Jarred Harris](https://github.com/seithman)
+- [Kiran Chand] (https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
