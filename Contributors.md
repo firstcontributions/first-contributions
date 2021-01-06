@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [nyalla](https://github.com/nyalla)
 - [uniminin](https://github.com/Uniminin)
@@ -1821,6 +1821,7 @@
 - [Isabella Enriquez](https://github.com/isabellaenriquez)
 - [Jackie Kinsler](https://github.com/jackie-kinsler)
 - [Anvesh Verma](https://github.com/anveshverma)
+- [Akhil Arya](https://github.com/akhilarya123)
 - [Mridul Arora](https://github.com/mridarora)
 - [ABM. Adnan Azmee](https://github.com/adnanazmee)
 - [Sejal Jain](https://github.com/sejaljain123)
