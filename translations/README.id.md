@@ -74,7 +74,7 @@ Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila belum memiliki git, [install segera](https://help.github.com/articles/set-up-git/).
 
 ## Fork Repositori Ini
 
