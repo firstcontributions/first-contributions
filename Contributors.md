@@ -23,6 +23,7 @@
 - [Chris Garlick] (https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
 - [Morgan Jones] (https://github.com/morgsj)
+- [Mehtab Khan](https://github.com/kmehtab)
   [Ryan Deng] (https://github.com/ryandeng32)
 - [Magicianred](https://github.com/Magicianred)
 - [Karolis Riaubūnas](https://github.com/Karka-Admin)
