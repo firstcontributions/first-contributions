@@ -1,4 +1,5 @@
 # Contributors
+
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [nyalla](https://github.com/nyalla)
@@ -9,6 +10,7 @@
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
 - [George Lakatos](https://github.com/redon13)
+- [DUFF INIOBONG](https://github.com/Duffigoogle)
 - [Vishal Bhatane] (https://github.com/vish-321)
 - [William Rabbermann] (https://github.com/steezy104)
 - [Ayush Sharma] (https://github.com/GAMhackER)
@@ -4326,8 +4328,7 @@
 - Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
-- A.J.Fox (https://github.com/A-J-Fox)
--[Amar Imamovic](https://github.com/MetaMan13)
+- A.J.Fox (https://github.com/A-J-Fox) -[Amar Imamovic](https://github.com/MetaMan13)
 - Leszek
 - Phillip
 - [SmileInYourFace](https://github.com/SmileInYourFace)
@@ -8941,7 +8942,7 @@
 - [Abdulla Jaber]
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
-Jeff C.
+  Jeff C.
 - [Filip lenaerts](https://github.com/filiplenaerts)
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
@@ -8951,4 +8952,4 @@ Jeff C.
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
-Namit Shah
+  Namit Shah
