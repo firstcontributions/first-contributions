@@ -68,6 +68,7 @@
 - [Anjuan Simmons](https://github.com/anjuan)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
+[Shekhar Karna](https://github.com/shekharkarna)
 - [Julie Michaud](https://github.com/jlmichaud)
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [ehye](https://github.com/ehye)
