@@ -1,0 +1,23 @@
+#L'Enlèvement d'un fichier de Git
+
+Quelquefois, vous peut-être enlevez un fichier de Git sans le supprimez du votre ordinateur. Vous pouvez l'archivez avec cette commande:
+
+``git rm <fichier> --cached``
+
+## Ce qui se passe?
+
+Git ne suivra les changes dans le fichier emporté. C'est comme vous avez enlevé ce fichier. Si vous voulez chercher le fichier dans votre système des fichiers, il sera là.
+
+Dans l'exemple ci-dessus, le drapeaux '--cached' est utilisé. Si nous n'avons pas ajouté ce drapeaux, Git supprimera le fichier du référentiel et du la système des fichiers.
+
+Si vous faites la change avec 'git commit -m "Remove fichier1.js" et le déplacer au référentiel télécommandé avec 'git push origin master', le référentiel télécommandé va supprimer le fichier.
+
+## Fonctions supplémentaires
+
+- Si vous voulez supprimer plus qu'un fichier, vous pouvez les incluez dans la même commande:
+
+	`git rm fichier1.js fichier2.js fichier3.js --cached`
+
+- Vous pouvez utiliser un caractère de remplacement (*) pour enlevez les fichiers semblables. Par exemple, si vous voulez enlever tous les fichiers .txt du votre système des fichiers:
+
+	`git rm *.txt --cached`
