@@ -1,5 +1,6 @@
 # Contributors
- -[biswa](https://github.com/bhai-bhai-hero)
+- [Gustavinho](https://github.com/nGustavin)
+- [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Weiren Lan](https://github.com/MIBlue119/)
@@ -257,6 +258,7 @@
 - [Xinyang Jin](https://github.com/xinyang-jin)
 - [Gus Osimitz](https://github.com/gosimitz)
 - [Kishan Patel](https://github.com/KishanPatelGit)
+- [José Carlos F.](https://github.com/codeferreira)
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Brian Branca](https://github.com/bmbranca)
@@ -7598,6 +7600,7 @@
 - [Davian Yang](https://github.com/DavianYang)
 - [3Samourai](https://github.com/3Samourai)
 - [Kamil Stanuch](https://github.com/vero500w)
+- [Nadi Co](https://github.com/nadiTime)
 - [Yongbin Liu](https://github.com/iceberg1109)
 - [Mikolaj Paczkowski](https://github.com/mikowhy) 🇵🇱 🐍
 - [Jonathan C](https://github.com/JonathanCilley)
@@ -8968,3 +8971,4 @@ Namit Shah
  - [Sterling Kauahi](https://github.com/slingky814)
  - [Sakib Chowdhury](https://github.com/Saquib89)
  - [LohQ](https://github.com/LohQ)
+- [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
