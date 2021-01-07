@@ -258,6 +258,7 @@
 - [Xinyang Jin](https://github.com/xinyang-jin)
 - [Gus Osimitz](https://github.com/gosimitz)
 - [Kishan Patel](https://github.com/KishanPatelGit)
+- [José Carlos F.](https://github.com/codeferreira)
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Brian Branca](https://github.com/bmbranca)
