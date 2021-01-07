@@ -1,4 +1,3 @@
-
 #
 
 # pahala yogadaan
@@ -9,7 +8,7 @@ yadi aap kamaand lain ke saath sahaj nahin hain, [to yahaan gui tool ka upayog k
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### yadi aapake paas apanee masheen par git nahin hai, to [ise sthaapit karen] (https://hailp.github.chom/artichlais/sait-up-git/)
+#### yadi aapake paas apanee masheen par git nahin hai, to [ise sthaapit karen](https://help.github.com/articles/set-up-git/)
 
 ## Fork this repository
 
@@ -20,13 +19,14 @@ yah aapake khaate mein is bhandaar kee ek prati banaega.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-ab kaante vaale bhandaar ko apanee masheen par klon karen. apane github khaate mein jaen, kaanta hua ripojitaree kholen, kod batan par klik karen aur phir klipabord_ aaikan par _chopy klik karen.
+ab kaante vaale bhandaar ko apanee masheen par klon karen. apane github khaate mein jaen, kaanta hua ripojitaree kholen, kod batan par klik karen aur phir klipabord\_ aaikan par \_chopy klik karen.
 
 ek tarminal kholen aur nimnalikhit git kamaand chalaen:
 
 ```
 git clone "url you just copied"
 ```
+
 jahaan "url aapane abhee kopee kiya hai" (uddharan chihnon ke bina) is ripojitaree (is projekt ka aapaka kaanta) ke lie url hai. url praapt karane ke lie pichhale charan dekhen.
 
 ## Create a branch
@@ -64,6 +64,7 @@ shaakha mein un badalaavon ko joden jinhen aapane `git add` kamaand ka upayog ka
 ```
 git add Contributors.md
 ```
+
 ab `git commit` kamaand ka upayog karake un parivartanon ko karen:
 
 ```
@@ -96,7 +97,7 @@ jald hee main is pariyojana ke maastar braanch mein aapake sabhee parivartanon k
 
 ## yahaan se kahaan jaen?
 
-badhaee! aapane abhee-abhee maanak_fork -> clone -> edit -> pull request_ varkaflo ko poora kiya hai jisaka aap aksar ek yogadaanakarta ke roop mein saamana karenge!
+badhaee! aapane abhee-abhee maanak*fork -> clone -> edit -> pull request* varkaflo ko poora kiya hai jisaka aap aksar ek yogadaanakarta ke roop mein saamana karenge!
 
 apane yogadaan ka jashn manaen aur ise apane doston aur anuyaayiyon ke saath saajha karen [web app](https://firstcontributions.github.io/#social-share).
 
@@ -107,7 +108,6 @@ ab aapako any pariyojanaon mein yogadaan dene ke saath shuroo karate hain. haman
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
-
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
