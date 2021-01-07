@@ -47,6 +47,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
+- [Bhaskar R](https://github.com/Bhaskar-R) 
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Yentema Nadjoari](https://github.com/yenteck)
 - [Divij Sharma](https://github.com/divij26)
