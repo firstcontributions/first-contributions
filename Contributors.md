@@ -32,6 +32,7 @@
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Daryl](https://github.com/dwturrentine)
+- [Sondbax](https://github.com/sondbax)
 - [Parul S Kumar](https://github.com/ParulSKumar)
 - [Chris Garlick](https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
@@ -47,7 +48,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
-- [Bhaskar R](https://github.com/Bhaskar-R) 
+- [Bhaskar R](https://github.com/Bhaskar-R)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Yentema Nadjoari](https://github.com/yenteck)
 - [Divij Sharma](https://github.com/divij26)
