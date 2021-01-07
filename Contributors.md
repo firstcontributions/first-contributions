@@ -7393,6 +7393,7 @@
 - [Greg Fanyan](https://github.com/Gregfanyan)
 - [Johannes Kultanen](https://github.com/jommari)
 - [JCastillo](https://github.com/JesusIgnacio)
+- [Rochelle M](https://github.com/rochhhelle)
 - [Adedipupo](https://github.com/Adedipupo)
 - [Sonntag09](https://github.com/Sonntag09)
 - [Diana Lin](https://github.com/dianalin2)
