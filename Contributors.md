@@ -29,6 +29,7 @@
 - [Aman Shaw](https://github.com/amanshaw4511)
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [SyntheticOne](https://github.com/SyntheticOne)
+- [Ankit Sagar ☺](https://github.com/woinbo)
 - [Daryl](https://github.com/dwturrentine)
 - [Parul S Kumar](https://github.com/ParulSKumar)
 - [Chris Garlick](https://github.com/Chrisgarlick)
