@@ -445,6 +445,7 @@
 - [Ching-an Wu](https://github.com/chingandy)
 - [Suhash Bollu](https://github.com/suhashbollu)
 - [Dan Westlund](https://github.com/2stashs)
+- [Hanseul-Lee](https://github.com/hanseul-lee/)
 - [Shubham Yadav](https://github.com/shuhzz)
 - [NoneBack](https://github.com/noneback)
 - [Rustbolt](https://github.com/Rustbolt)
