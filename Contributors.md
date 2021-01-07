@@ -6,6 +6,7 @@
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [Aman Shaw](https://github.com/amanshaw4511)
 - [SyntheticOne](https://github.com/SyntheticOne)
+- [Chitanya](https://github.com/bmchaitu)
 - [Daryl] (https://github.com/dwturrentine)
 - [Chris Garlick] (https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen] (https://github.com/JordanVanLeeuwen)
