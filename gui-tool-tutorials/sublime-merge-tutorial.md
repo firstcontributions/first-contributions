@@ -21,13 +21,13 @@ Download [Sublime Merge](https://www.sublimemerge.com/), Install and open it.
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
-<img align="right" width="300" src="https://github.com/firstcontributions/assets/blob/master/gui-tool-tutorials/sublime-merge-tutorial/fork.png?raw=true" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 This will create of copy of this repository in your account.
 
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://github.com/firstcontributions/assets/blob/master/gui-tool-tutorials/sublime-merge-tutorial/clone.png?raw=true" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 In Sublime Merge, go to File -> Clone Repository.
 
