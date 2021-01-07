@@ -8971,3 +8971,4 @@ Namit Shah
  - [Sterling Kauahi](https://github.com/slingky814)
  - [Sakib Chowdhury](https://github.com/Saquib89)
  - [LohQ](https://github.com/LohQ)
+- [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
