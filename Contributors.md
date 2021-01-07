@@ -43,7 +43,8 @@
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Amir Najafi](https://github.com/Official21A)
-- [CSPabloCortez](https://github.com/cspablocortez)
+- [Abdulmalik Adekunle](https://github.com/Adekunle27)
+[CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
