@@ -8978,3 +8978,4 @@ Namit Shah
  - [Sakib Chowdhury](https://github.com/Saquib89)
  - [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
+- [Lucas Kamakura] (https://github.com/lkamak)
