@@ -7600,6 +7600,7 @@
 - [Davian Yang](https://github.com/DavianYang)
 - [3Samourai](https://github.com/3Samourai)
 - [Kamil Stanuch](https://github.com/vero500w)
+- [Nadi Co](https://github.com/nadiTime)
 - [Yongbin Liu](https://github.com/iceberg1109)
 - [Mikolaj Paczkowski](https://github.com/mikowhy) 🇵🇱 🐍
 - [Jonathan C](https://github.com/JonathanCilley)
