@@ -49,6 +49,7 @@
 - [Pranavbm]
 - [Bhaskar R](https://github.com/Bhaskar-R) 
 - [frank_fsk](https://github.com/wfyanmnm)
+- [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
 - [Divij Sharma](https://github.com/divij26)
 - [Noah Borkowski](https://github.com/noahborkowski)
