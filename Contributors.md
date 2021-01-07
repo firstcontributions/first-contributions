@@ -67,6 +67,7 @@
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
 - [Kenan Alghythee](https://github.com/Kenan-Kamel)
 - [Anjuan Simmons](https://github.com/anjuan)
+- [Michael Rehnert aka @killshot13](https://github.com/killshot13)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
 [Shekhar Karna](https://github.com/shekharkarna)
