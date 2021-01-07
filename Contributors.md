@@ -1,5 +1,5 @@
 # Contributors
-
+- [Junaire Edris Buico](https://github.com/jun-edris)
 - [nyalla](https://github.com/nyalla)
 - [uniminin](https://github.com/Uniminin)
 - [Oreste Abizera](https://github.com/oreste-abizera)
