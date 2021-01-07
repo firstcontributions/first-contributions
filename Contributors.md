@@ -1,5 +1,6 @@
 # Contributors
- -[biswa](https://github.com/bhai-bhai-hero)
+- [Gustavinho](https://github.com/nGustavin)
+- [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Weiren Lan](https://github.com/MIBlue119/)
