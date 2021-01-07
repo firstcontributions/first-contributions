@@ -6161,6 +6161,7 @@
 - [Ronit Singh](https://github.com/ronitsingh1405)
 - [rmrvubl](https://github.com/rmrvubl)
 - [Ishaan Nerurkar](https://github.com/ishaan-ner)
+- [Sergiu Pop](https://github.com/sergiupop)
 - [Phil Henderson](https://github.com/PizzaPhil)
 - [Luke Kuo](https://github.com/DarkGoomba)
 - [Bruno Cezani](https://githib.com/bcezani)
