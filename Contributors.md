@@ -8957,6 +8957,7 @@ Robert Czerniewicz
 - [Hanabi](https://github.com/hanabi7654321)
 - [Gabriel QR] (https://github.com/gabrielqr-code)
 - [Rmy](https://github.com/BenRmy)
+- [Banarant] (https://github.com/Banarant)
 - [Tunbk1002](https://github.com/tunbk1002)
 - [letmeouted](https://github.com/Letmeouted)
 - [shen](https://github.com/sheny1xuan/first-contributions)
