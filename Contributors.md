@@ -1,4 +1,5 @@
 # Contributors
+
 - [Gustavinho](https://github.com/nGustavin)
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
@@ -47,7 +48,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
-- [Bhaskar R](https://github.com/Bhaskar-R) 
+- [Bhaskar R](https://github.com/Bhaskar-R)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
@@ -72,7 +73,7 @@
 - [Michael Rehnert aka @killshot13](https://github.com/killshot13)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
-[Shekhar Karna](https://github.com/shekharkarna)
+  [Shekhar Karna](https://github.com/shekharkarna)
 - [Julie Michaud](https://github.com/jlmichaud)
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [ehye](https://github.com/ehye)
@@ -4345,8 +4346,7 @@
 - Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
-- A.J.Fox (https://github.com/A-J-Fox)
--[Amar Imamovic](https://github.com/MetaMan13)
+- A.J.Fox (https://github.com/A-J-Fox) -[Amar Imamovic](https://github.com/MetaMan13)
 - Leszek
 - Phillip
 - [SmileInYourFace](https://github.com/SmileInYourFace)
@@ -4491,6 +4491,7 @@
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Gradin](https://github.com/nidarg)
 - [Tanishk Vijay](https://github.com/tanishk2000)
+- [James Morgan](https://github.com/MorganJay)
 - [Hored Otniel SOSSOU](https://github.com/morten12)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Neilzon Viloria](https://github.com/neilZon)
@@ -8898,7 +8899,7 @@
 - [NemaPy] (https://github.com/nemapy)
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Jonathan](https://github.com/Jonny2379)
-Robert Czerniewicz
+  Robert Czerniewicz
 - [Rahul K](https://github.com/rkoonant)
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
@@ -8965,7 +8966,7 @@ Robert Czerniewicz
 - [Abdulla Jaber]
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
-Jeff C.
+  Jeff C.
 - [Filip lenaerts](https://github.com/filiplenaerts)
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
@@ -8975,13 +8976,13 @@ Jeff C.
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
-Namit Shah
- - [Ethan Marreel](https://github.com/stropical)
- - [ThankGod Kalu](https://github.com/TG-Codes)
- - [Sterling Kauahi](https://github.com/slingky814)
- - [Sakib Chowdhury](https://github.com/Saquib89)
- - [LohQ](https://github.com/LohQ)
+  Namit Shah
+- [Ethan Marreel](https://github.com/stropical)
+- [ThankGod Kalu](https://github.com/TG-Codes)
+- [Sterling Kauahi](https://github.com/slingky814)
+- [Sakib Chowdhury](https://github.com/Saquib89)
+- [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
- - [taranvirsaini] 
+- [taranvirsaini]
 - [Syk]
