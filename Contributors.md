@@ -1578,6 +1578,7 @@
 - [Prashant Devmane](https://github.com/prashantdevmane)
 - [Firas Ahmed](https://github.com/Firasama29)
 - [Michael Brooks](https://github.com/navkor-sevatec)
+- [Gabe Ng](https://github.com/bmbno)
 - [Jake Fogel](https://github.com/jmf1jmf2)
 - [Rebekah Brown](https://github.com/PDXbeBek)
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
