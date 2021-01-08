@@ -322,6 +322,7 @@
 - [Gary Zhang](https://github.com/gzhang62)
 - [Kalman Labinsky](https://github.com/kalmanl)
 - [Jericho De Guzman](https://github.com/Greywolvesss)
+- [Takunyan](https://github.com/takunyan)
 - [Branka Jesic](https://github.com/Branka19)
 - [Jason Flaherty](https://github.com/jfla011)
 - [TARUN](https://github.com/Tarun200999)
