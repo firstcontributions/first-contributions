@@ -406,6 +406,7 @@
 - [Brandon Holderman](https://github.com/brandonholderman)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
+- [ryu-take](https://github.com/ryu-take)
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastava
