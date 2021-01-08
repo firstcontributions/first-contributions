@@ -63,6 +63,7 @@
 - [Jarred Harris](https://github.com/seithman)
 - [Kiran Chand](https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
+- [Yosuke Mikasa](https://https://github.com/suke6mix)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
@@ -406,6 +407,7 @@
 - [Brandon Holderman](https://github.com/brandonholderman)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
+- [ryu-take](https://github.com/ryu-take)
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastava
@@ -4092,6 +4094,7 @@
 - [Nilaksh Agarwal](https://github.com/nilax97)
 - [Asher Vu](https://github.com/vuphuc24601)
 - [nouvelle!!!](https://github.com/nouvelle)
+- [Soshi Koike](https://github.com/SoshiK)
 - [Shakeib Shaida](https://github.com/shakeib98)
 - [Samir Mughal](https://github.com/codewithmughal)
 - [Hai Dao](https://github.com/haidao0923)
@@ -8980,3 +8983,4 @@ Namit Shah
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
  - [taranvirsaini] 
+- [Syk]
