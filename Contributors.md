@@ -47,7 +47,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
-- [Bhaskar R](https://github.com/Bhaskar-R) 
+- [Bhaskar R](https://github.com/Bhaskar-R)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
@@ -2468,6 +2468,7 @@
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
 - [Saptarshi Basu](https://github.com/saptarshibasu15)
+- [Robert Walsh](https://github.com/robert-walsh-hrri)
 - [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
@@ -8979,4 +8980,4 @@ Namit Shah
  - [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
- - [taranvirsaini] 
+ - [taranvirsaini]
