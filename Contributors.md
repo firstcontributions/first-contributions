@@ -10,6 +10,7 @@
 - [Oreste Abizera](https://github.com/oreste-abizera)
 - [Hiba Alkurd](https://github.com/Hiba-alkurd)
 - [Kreyren](https://github.com/Kreyren)
+- [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
 - [George Lakatos](https://github.com/redon13)
