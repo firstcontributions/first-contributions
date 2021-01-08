@@ -8990,5 +8990,6 @@
 - [taranvirsaini]
 - [Syk]
 - [sarahh]
-- [Savilard](https://github.com/savilard) -[Akash Prasad](https://github.com/akash1412)
+- [Savilard](https://github.com/savilard) 
+- [Akash Prasad](https://github.com/akash1412)
 - [Hossien HunTa](https://github.com/HossienHunTa)
