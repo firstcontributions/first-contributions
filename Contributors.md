@@ -49,7 +49,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
-- [Bhaskar R](https://github.com/Bhaskar-R) 
+- [Bhaskar R](https://github.com/Bhaskar-R)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
@@ -8988,7 +8988,8 @@ Namit Shah
  - [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
- - [taranvirsaini] 
+ - [taranvirsaini]
 - [Syk]
 - [sarahh]
 - [Savilard](https://github.com/savilard)
+- [Elsa](https://github.com/ElsaLebas)
