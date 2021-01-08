@@ -7775,6 +7775,7 @@
 - [Casey Clingaman](https://github.com/caseycling)
 - [Pedro Assunção](https://github.com/Pedroassuncao)
 - [Steven (Hongrui) Guo](https://github.com/StevenGuo42)
+- [Kaisei Suzuki](https://github.com/Kaisei-Suzuki1990)
 - [Jack Dong](https://github.com/dongr0510)
 - [Sang Nguyen](https://github.com/coldskinsnake/)
 - [JMG](https://github.com/jmgutu/)
