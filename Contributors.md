@@ -406,6 +406,7 @@
 - [Brandon Holderman](https://github.com/brandonholderman)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
+- [ryu-take](https://github.com/ryu-take)
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastava
@@ -8981,3 +8982,5 @@ Namit Shah
 - [Lucas Kamakura] (https://github.com/lkamak)
  - [taranvirsaini] 
  - [Hidehiro Aya](https://github.com/dehiron)
+- [Syk]
+
