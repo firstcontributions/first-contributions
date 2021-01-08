@@ -7018,7 +7018,6 @@
 - [Todd Brogowski](https://github.com/toddswrittenword) Hi!
 - [Andreas Karabetian](https://github.com/adreaskar) :rocket:
 - [cancion2able](https://github.com/cancion2able)
-- [Radek Miernik](https://github.com/RadekMiernik)
 - [Oblivion76](https://github.com/oblivion76)
 - [Samrat De](https://github.com/SamratDe)
 - [Saurav Paul](https://github.com/sauravkpaul)
