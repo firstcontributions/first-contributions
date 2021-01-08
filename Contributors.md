@@ -23,6 +23,7 @@
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
 - [b3z](https://github.com/b3z)
+- [NaNa Mathis](https://github.com/n-mathis)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
 - [Akhi Akl](https://github.com/akhiakl)
 - [Hasan Gökçe](https://github.com/hasangokce)
