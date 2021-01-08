@@ -20,6 +20,7 @@
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
 - [Falconbrunch](https://github.com/Falconbrunch)
 - [Ben Hill](https://github.com/ben-hill33)
+- [Sangeeta Shetty](https://github.com/Sangeetaaaa)
 - [b3z](https://github.com/b3z)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
 - [Hasan Gökçe](https://github.com/hasangokce)
