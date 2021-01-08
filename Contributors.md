@@ -2,6 +2,7 @@
 - [Gustavinho](https://github.com/nGustavin)
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
+- [Taci Shlosberg] (https://github.com/tshlos)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [nyalla](https://github.com/nyalla)
