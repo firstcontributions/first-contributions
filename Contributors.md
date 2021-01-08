@@ -1044,6 +1044,7 @@
 - [Laurentiu Trofosila](https://github.com/trofosila)
 - [Ansh Vidyabhanu](https://github.com/26ANSH)
 - RIGATONI RYAN 🤙
+  [Luis Mendes](https://github.com/LuisM-Dev/)
 - agashvaran
 - HeyMyFirstContribution
 - [Zahra Khan](https://github.com/zahrakhadijha)
