@@ -26,6 +26,7 @@
 - [Andres Cruz](https://github.com/andrscyv)
 - [Cristi](https://github.com/cristicretu)
 - [Chaitanya](https://github.com/bmchaitu)
+- [Anish Raghavendra](https://github.com/z404)
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
 - [Aman Shaw](https://github.com/amanshaw4511)
 - [Saheed Shittu](https://github.com/shittusaheed01)
