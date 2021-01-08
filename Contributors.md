@@ -991,6 +991,7 @@
 - [Elena Kolomeets](https://github.com/elena-kolomeets)
 - [Puneet Garg](https://github.com/puneetgarg2601)
 - [Debobrata Bose](https://github.com/debobrata82)
+  [Luis Mendes](https://github.com/LuisM-Dev)
 - [Namita](https://github.com/namita2310)
 - [Adam Anikiej](https://github.com/AdamanX)
 - [Emma Elkan](https://github.com/EmElkan)
