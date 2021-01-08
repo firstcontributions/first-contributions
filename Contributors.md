@@ -23,6 +23,7 @@
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
 - [b3z](https://github.com/b3z)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
+- [Akhi Akl](https://github.com/akhiakl)
 - [Hasan Gökçe](https://github.com/hasangokce)
 - [Engensmax](https://github.com/engensmax)
 - [Andres Cruz](https://github.com/andrscyv)
