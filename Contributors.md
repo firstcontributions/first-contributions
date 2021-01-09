@@ -54,7 +54,8 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
-- [Bhaskar R](https://github.com/Bhaskar-R) 
+- [Bhaskar R](https://github.com/Bhaskar-R)
+- [Daniel Oluborode](https://github.com/danolu) 
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
