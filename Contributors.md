@@ -50,6 +50,7 @@
 - [Karolis Riaubūnas](https://github.com/Karka-Admin)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
+- [Pablo Sosa Sisini](https://github.com/pasosa-s)
 - [Francesco Cappetti](https://github.com/KappaOnGit)
 - [Amir Najafi](https://github.com/Official21A)
 - [CSPabloCortez](https://github.com/cspablocortez)
