@@ -4,6 +4,7 @@
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [Taci Shlosberg] (https://github.com/tshlos)
+- [Sameeksha233] (https://github.com/Sameeksha233)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Shreevathsa] (https://github.com/svatsdev)
 - [Weiren Lan](https://github.com/MIBlue119/)
