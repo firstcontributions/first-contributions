@@ -327,6 +327,7 @@
 - [Yeonsoo Kwon](https://github.com/yskwon38)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Nadia Karizat](https://github.com/nkarizat)
+- [Rajdeep Chanamolu](https://github.com/rajdeepch10)
 - [Lyle Kuykendall](https://github.com/elkirk)
 - [CrownCrafter](https://github.com/CrownCrafter)
 - [Danny Tran](https://github.com/DTDevelop)
