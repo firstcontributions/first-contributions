@@ -417,6 +417,7 @@
 - [Erik Sandro da Fonseca](https://github.com/erikdf/)
 - [Smit Mistry](https://github.com/smit-mist)
 - [Brandon Holderman](https://github.com/brandonholderman)
+- [Rammah Noreldaim](https://github.com/rammah-n)
 - [Jason Thulen]
 - [Conanix](https://github.com/Conanix)
 - [ryu-take](https://github.com/ryu-take)
