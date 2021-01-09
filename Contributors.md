@@ -27,6 +27,7 @@
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
 - [b3z](https://github.com/b3z)
+- [Natasha Drost](https://github.com/nata4471)
 - [NaNa Mathis](https://github.com/n-mathis)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
 - [Akhi Akl](https://github.com/akhiakl)
