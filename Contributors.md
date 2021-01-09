@@ -989,6 +989,7 @@
 - [Thao Pham](https://github.com/thaopham1816/)
 - [Elena Gumerova](https://github.com/ElenaProject)
 - [Dan Truong](https://github.com/Syntax3rr/)
+- [Shrek Monster](https://github.com/ShrekisLove)
 - [Nada Stojanovic](https://github.com/nadjastojanovic)
 - [souveekp](https://github.com/souveekp)
 - [Darrell Bazian](https://github.com/dbazian)
