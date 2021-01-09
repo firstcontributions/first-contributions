@@ -2,7 +2,7 @@
 
 Najprej moramo razumeti kako poteka sinhronizacija. V tej shemi so trije različni repository-ji: moj javni repository na GitHub-u `github.com/Roshanjossey/first-contributions/`, tvoja različica tega repository-ja na GitHub-u `github.com/Your-Name/first-contributions/` in lokalni repository na tvojem računalniku. Ta način delovanja je značilen za odprto-kodne projekte in se imenuje `Triangle Workflow`.
 
-<img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
+<img style="float;" src="https://firstcontributions.github.io/assets/additional-material/triangle_workflow.png" alt="triangle workflow" />
 
 Da obdržimo tvoja dva repository-ja sinhronizirana z mojim javnim repository-jem, moramo najprej pridobiti javni repository in ga združiti s tvojim lokalnim repository-jem ( fetch and merge ).
 Naslednji korak bo, da pošljemo tvoj lokalni repository v tvojo GitHub različico. Kot smo že prej videli, lahko samo iz GitHub različice zahtevamo "pull request". Zato je tvoja GitHub različica zadnji repository, ki se ga posodobi na zadnjo verzijo.
