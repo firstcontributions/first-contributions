@@ -10,6 +10,7 @@
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [Javailabe](https://github.com/Javailabe)
 - [nyalla](https://github.com/nyalla)
+- [Armaan Mangat](https://github.com/Armaan-Mangat)
 - [Andy Chung] (https://github.com/chung01107)
 - [uniminin](https://github.com/Uniminin)
 - [Oreste Abizera](https://github.com/oreste-abizera)
