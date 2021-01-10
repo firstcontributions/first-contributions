@@ -9022,7 +9022,8 @@ Namit Shah
  - [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
- - [taranvirsaini]
+- [Hidehiro Aya](https://github.com/dehiron)
+- [taranvirsaini]
 - [Syk]
 - [sarahh]
 - [Savilard](https://github.com/savilard)
