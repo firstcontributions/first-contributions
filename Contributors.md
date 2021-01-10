@@ -9048,3 +9048,4 @@ Namit Shah
 - [Mark Prescher](https://github.com/markprescher)
 - [Ranjani Rajagopalan](https://github.com/ranjani23)
 - [Isaac Mick](https://github.com/Isaac-Mick)
+- [Quentin Tang](https://github.com/SilverChicken)
