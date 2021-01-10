@@ -3966,6 +3966,7 @@
 - [Sam Wong](https://github.com/sandymule)
 - [Samadrit Sarkar](https://github.com/samadritsarkar2)
 - [Rahul Pandey](https://github.com/Marvel-o-us)
+- [Rendy Reivaldy](https://github.com/rendyreivaldy25)
 - [Bryn Bowler](https://github.com/BrynBowler)
 - [Tyler Brennan](https://github.com/tylerbrennan)
 - Luke Anderson
