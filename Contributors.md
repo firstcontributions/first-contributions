@@ -12,6 +12,7 @@
 - [nyalla](https://github.com/nyalla)
 - [Armaan Mangat](https://github.com/Armaan-Mangat)
 - [Andy Chung] (https://github.com/chung01107)
+- [KarinaNi] (https://github.com/KarinaNi)
 - [uniminin](https://github.com/Uniminin)
 - [Oreste Abizera](https://github.com/oreste-abizera)
 - [Hiba Alkurd](https://github.com/Hiba-alkurd)
