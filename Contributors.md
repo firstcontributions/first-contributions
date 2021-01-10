@@ -26,6 +26,7 @@
 - [George Lakatos](https://github.com/redon13)
 - [Jafer Alhaboubi](https://github.com/jhabboubi)
 - [Vishal Bhatane](https://github.com/vish-321)
+- [Elinnoel Nuñez](https://github.com/elinnunez)
 - [William Rabbermann](https://github.com/steezy104)
 - [Ayush Sharma](https://github.com/GAMhackER)
 - [Shivam Kalra](https://github.com/shivamkalra13)
