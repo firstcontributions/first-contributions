@@ -9046,3 +9046,4 @@ Namit Shah
 - [Bido Namakura](https://github.com/K-REBO)
 - [Mark Prescher](https://github.com/markprescher)
 - [Ranjani Rajagopalan](https://github.com/ranjani23)
+- [Isaac Mick](https://github.com/Isaac-Mick)
