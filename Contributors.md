@@ -3857,6 +3857,7 @@
 - [Skyler Milliken](https://github.com/relykstm)
 - [Thomas Wrappe](https://github.com/twrappe)
 - [Om](https://github.com/OmLakshmi)
+- [David](https://github.com/DavidDeLord)
 - [Satheesh Gajula](https://github.com/satheesh22g)
 - [Godstime Onyibe](https://github.com/Godstyme)
 - [Benjamin Price](https://githib.com/BenjaminDavid0527)
