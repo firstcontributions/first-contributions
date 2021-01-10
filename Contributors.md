@@ -1054,6 +1054,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - fanyCaz
 - [Ujjawal Modanwal](https://github.com/UJ5)
 - [sillybot](https://github.com/sillybot)
+- jojor
 - [PoofPanda](https://github.com/PoofPanda)
 - [oonoo](https://github.com/oonoo)
 - [askorykh](https://github.com/askorykh)
