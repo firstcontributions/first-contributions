@@ -536,7 +536,8 @@
 - [Joe mon](https://github.com/JOEMN96)
 - [0xmery](https://github.com/0xmery)
 - [cvsriya]
-  [BAIBHAV KUMAR PANDA](https://github.com/baibhav0305)
+- [BAIBHAV KUMAR PANDA](https://github.com/baibhav0305)
+- [Mwesiga Benjamin](https://github.com/mwesigab)
 - [catboxer](https://github.com/catboxer)
 - [Isaac Contreras](https://github.com/icontreras16)
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
