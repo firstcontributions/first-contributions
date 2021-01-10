@@ -112,11 +112,3 @@
 </tr>
 </tbody>
 </table>
-<h2>
-<a id="user-content-self-promotion" class="anchor" href="#self-promotion" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Self-Promotion</h2>
-<p>If you liked this project, star it on <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>.
-If you're feeling especially charitable, follow <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> on
-<a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitter</a> and
-<a href="https://github.com/roshanjossey">GitHub</a>.</p>
-<p><a href="http://saasgrids.com" rel="nofollow"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500" style="max-width:100%;"></a></p>
-</article></body></html>
