@@ -116,6 +116,7 @@
 - [Erjon Dervishaj](https://github.com/Erjon95)
 - [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
+- [frankstepanski](https://github.com/frankstepanski)
 - [Sai Kishore](https://github.com/shadow-prince)
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
