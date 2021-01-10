@@ -8941,6 +8941,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [NemaPy] (https://github.com/nemapy)
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Jonathan](https://github.com/Jonny2379)
+- [Erik Tastepe](https://github.com/erik-tastepe)
 Robert Czerniewicz
 - [Rahul K](https://github.com/rkoonant)
 - [Rafael](https://github.com/rafaelnq)
