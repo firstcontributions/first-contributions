@@ -555,6 +555,7 @@
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
 - [Barret](https://github.com/xiong-ang)
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
+- [Tom Ozbot](https://github.com/tomozbot)
 - [Cat Yber](https://github.com/catyber)
 - [Naveen Acharya](https://github.com/nacharya-dev)
 - [Dong Wang](https://github.com/a1779748)
