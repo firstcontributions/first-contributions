@@ -2502,6 +2502,7 @@
 - [Tri Nguyen](http://github.com/tri97nguyen)
 - [Vibhor Tiwari](http://github.com/spyder204)
 - [Saptarshi Basu](https://github.com/saptarshibasu15)
+- [Robert Walsh](https://github.com/robert-walsh-hrri)
 - [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
