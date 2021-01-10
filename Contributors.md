@@ -9022,10 +9022,11 @@ Namit Shah
  - [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
- - [taranvirsaini] 
+ - [taranvirsaini]
 - [Syk]
 - [sarahh]
 - [Savilard](https://github.com/savilard)
+- [Elsa](https://github.com/ElsaLebas)
 - [Hossien HunTa](https://github.com/HossienHunTa)
 - [Osasona Ifeoluwa] (https://github.com/Ifeoluwa-hub)
 - [Andres Ramirez](https://github.com/ARam2142/)
