@@ -9036,3 +9036,4 @@ Namit Shah
 - [Will Agble](https://github.com/agblewp)
 - [Ville Koskela](https://github.com/kosvi) 
 - [Zubair Abuabkar](https://github.com/zubairAbubakar)
+- [Bido Namakura](https://github.com/K-REBO)
