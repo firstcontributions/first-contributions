@@ -11,6 +11,7 @@
 - [Shreevathsa] (https://github.com/svatsdev)
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [Javailabe](https://github.com/Javailabe)
+- [John Terry](https://github.com/Sarellen)
 - [nyalla](https://github.com/nyalla)
 - [Armaan Mangat](https://github.com/Armaan-Mangat)
 - [Andy Chung] (https://github.com/chung01107)
