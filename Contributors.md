@@ -3998,6 +3998,7 @@
 - [Sharique Khan](https://github.com/sharique-tech1987)
 - [Ruslan Frolov](https://github.com/Carbohz)
 - Eiseid
+- [James Morgan](https://github.com/MorganJay)
 - hariprasath
 - jacob
 - [Jesus Arnau Villar](https://github.com/jarnawer)
