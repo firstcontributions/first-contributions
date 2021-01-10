@@ -6255,6 +6255,7 @@
 - [Vyner](https://github.com/Vyner)
 - [Luiz Arakaki](https://github.com/luizarakaki)
 - [Fakhruddin Tahery](https://github.com/ftahery)
+  [Ethan King](https://github.com/ethandenverking)
 - [scw248](https://github.com/scw248)
 - [Abhilash Kuhikar](https://github.com/abhikuhikar)
 - [Hayes](https://github.com/hazer888)
