@@ -34,6 +34,7 @@
 - [b3z](https://github.com/b3z)
 - [Natasha Drost](https://github.com/nata4471)
 - [NaNa Mathis](https://github.com/n-mathis)
+- [Utkarsh Maheshwari](https://github.com/utkarsh-maheshwari)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
 - [Akhi Akl](https://github.com/akhiakl)
 - [Hasan Gökçe](https://github.com/hasangokce)
