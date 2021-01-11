@@ -7,13 +7,13 @@
 
 C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas légère, particulièrement quand on travaille en collaboration. Donc, nous voulons simplifier ce monde pour des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.
 
-Lisant des articles et des tutoriels peut aider, mais n'est-il pas mieux de essayer les choses pratiquement et apprendre de nos erreurs ? C'est là que ce monde se différencie d'autrui. Et ce projet a le but de simplifier la manière dont les apprentis font leur première contribution. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes.
+Lire des articles et des tutoriels peut aider, mais n'est-il pas mieux d'essayer les choses en pratique sans rien risquer ? Ce projet a pour but de simplifier la manière dont les apprenants font leur première contribution. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes.
 
 # Objectifs
 
 Vous deviendrez collaborateur dans notre projet en ajoutant votre nom au fichier [Contributors.md](Contributors.md "Liste des Contributeurs")
 
-Pour achèver cet objectifs nous allons:
+Pour achever cet objectifs nous allons :
 
 1. Créer une copie de ce projet
 2. Ajouter votre nom dans la copie
@@ -21,8 +21,8 @@ Pour achèver cet objectifs nous allons:
 
 ## Préparez-vous
 
-Si vous préfèrez un outil graphique à la console, voyez [ces tutoriels.](#tutoriels-en-utilisant-des-outils-graphiques)\
-Si vous êtes à l'aise avec la console, mais vous n'avez pas Git sur votre ordinateur, [ installez-le ](https://help.github.com/articles/set-up-git/).
+Si vous préférez un outil graphique au terminal, consultez [ces tutoriels.](#tutoriels-en-utilisant-des-outils-graphiques)\
+Si vous êtes à l'aise avec le terminal, mais vous n'avez pas Git sur votre ordinateur, [ installez-le ](https://help.github.com/articles/set-up-git/).
 
 ## Embranchez ce répertoire (aussi appelé un Fork)
 
@@ -37,18 +37,18 @@ Cela va créer une copie du répertoire dans votre compte.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-Maintenant, vous allez faire ajouter votre nom sur ce répertoire copié., donc clonez ce Fork (le répertoire embranché) sur votre ordinateur. Cliquez sur le bouton **Clone** puis cliquez sur l'icone _copier dans le presse-papier_.
+Maintenant, vous allez ajouter votre nom dans ce Fork (le répertoire embranché). Pour le cloner sur votre ordinateur, cliquez sur le bouton **Clone** puis cliquez sur l'icône _copier dans le presse-papier_.
 
-Ouvrez une console et exécutez les commandes git suivantes :
+Ouvrez un terminal et exécutez les commandes git suivantes :
 
 ```
-git clone ­«l'url copié»
+git clone ­«l'URL copié»
 ```
 
-où [«l'url copié»](# "Pour coller dans la console :
+où [«l'URL copié»](# "Pour coller dans le terminal :
 Linux - Ctrl + Shift + V
 Windows - Alt + Space → Edit → Paste
-MacOS - ⌘ V") (sans les guillemets) est l'url du répertoire . Voir la section précédente afin d'obtenir l'url.
+MacOS - ⌘ V") (sans les guillemets) est l'URL du répertoire . Voir la section précédente afin d'obtenir l’URL.
 
 Par exemple :
 
@@ -66,7 +66,7 @@ Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y ê
 cd first-contributions
 ```
 
-Maintenant créez une branche avec le commande `git checkout` :
+Maintenant créez une branche avec la commande `git checkout` :
 
 ```
 git checkout -b <add-votre-nom>
@@ -78,14 +78,14 @@ Par exemple :
 git checkout -b add-koffi-sani
 ```
 
-(Le nom de la branche n'a pas besoin de contenir le terme _add_, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
+(Le nom de la branche n'a pas besoin de contenir le terme _add_, mais il est judicieux de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
 ## Effectuez les modifications nécessaires et engagez-les
 
 Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le.
-<img align="right" src="../assets/git-status.png" alt="git status" width = "300"/>
+<img align="right" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" width = "300"/>
 
-Si vous ouvrez la console et vous exécutez la commande `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande `git add` :
+Si vous ouvrez le terminal et exécutez la commande `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande `git add` :
 
 ```
 git add Contributors.md
@@ -121,9 +121,11 @@ Maintenant soumettez la demande de tirage.
 
 Bientôt, j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
 
-## Temps de Célébrations !
+## C'est le moment de célébrer !
 
 Vous avez réussi à contribuer par la manière standarde de <center><b>Fork &rarr; Clone &rarr; Edit &rarr; PR</b></center>
+
+Vous avez réussi à contribuer par la manière standard de _Fork &rarr; Clone &rarr; Edit &rarr; Pull request_
 
 \
 Célébrez votre contribution et partagez-la avec vos amis en utilisant notre [app web.](https://firstcontributions.github.io/#social-share)
@@ -132,7 +134,7 @@ Vous pouvez aussi rejoindre [notre équipe sur Slack](https://join.slack.com/t/f
 
 ## Où aller ensuite ?
 
-Maintent vous pouvez commencer à contribuer aux d'autres projets. Nous avons préparez une liste de projets avec des problèmes simples pour commencer. Le voici sur notre [app web](https://firstcontributions.github.io/#project-list)
+Maintenant, vous pouvez commencer à contribuer à d'autres projets. Nous avons préparé une liste de projets avec des problèmes adaptés aux débutants. Vous la trouverez sur notre [app web](https://firstcontributions.github.io/#project-list).
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -148,4 +150,4 @@ Maintent vous pouvez commencer à contribuer aux d'autres projets. Nous avons pr
 
 | <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gitkraken-tutorial.md)                                                              | [Visual Studio Code](github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](github-windows-intellij-tutorial.md)                                                                                                                   |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                              | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
