@@ -2,6 +2,7 @@
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
 - [SainathPoojary](https://github.com/SainathPoojary)
 - [Yulypso - Thierry Khamphousone](https://github.com/Yulypso)
+- [Elle Ryba](https://github.com/elleryba)
 - [Harshita_Nag](https://github.com/nagharshita16)
 - [Gustavinho](https://github.com/nGustavin)
 - [biswa](https://github.com/bhai-bhai-hero)
