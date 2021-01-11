@@ -70,6 +70,7 @@
 - [Pablo Sosa Sisini](https://github.com/pasosa-s)
 - [Francesco Cappetti](https://github.com/KappaOnGit)
 - [Amir Najafi](https://github.com/Official21A)
+- [Asif Shaik](https://github.com/asifshaik02)
 - [Abdulmalik Adekunle](https://github.com/Adekunle27)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
