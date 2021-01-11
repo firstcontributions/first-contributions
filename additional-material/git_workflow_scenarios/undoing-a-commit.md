@@ -50,13 +50,15 @@ The way that Git determines if it erases, stages previously committed changes, o
 
 It's easier to understand how they work with a little animation.
 
-Click on this [link](https://youtu.be/UN7ki2G2yKc) to view the animation.
+**Click on this [link](https://youtu.be/UN7ki2G2yKc) to view the animation.**
 
 ## Reset's ```--mixed``` Flag
 Let's look at each one of these flags.
 
 >  9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+
 >  db7e87a Set page heading to "Quests & Crusades"
+
 >  796ddb0 Merge branch 'heading-update'
 
 Using the sample repo above with ```HEAD``` pointing to ```master``` on commit ```9ec05ca```, running ```git reset --mixed HEAD^``` will take the changes made in commit ```9ec05ca``` and move them to the working directory.
@@ -65,7 +67,9 @@ Using the sample repo above with ```HEAD``` pointing to ```master``` on commit `
 Let's use the same few commits and look at how the  ```--soft``` flag works:
 
 > 9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+
 > db7e87a Set page heading to "Quests & Crusades"
+
 > 796ddb0 Merge branch 'heading-update'
 
 Running ```git reset --soft HEAD^``` will take the changes made in commit ```9ec05ca``` and move them directly to the Staging Index.
@@ -74,7 +78,9 @@ Running ```git reset --soft HEAD^``` will take the changes made in commit ```9ec
 Last but not least, let's look at the ```--hard``` flag:
 
 > 9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+
 > db7e87a Set page heading to "Quests & Crusades"
+
 > 796ddb0 Merge branch 'heading-update'
 
 Running ```git reset --hard HEAD^``` will take the changes made in commit ```9ec05ca``` and erases them.
