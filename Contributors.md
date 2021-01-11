@@ -9056,4 +9056,5 @@ Namit Shah
 - [Aniket Singh](https://github.com/codingbrains8055)
 - [Ranjani Rajagopalan](https://github.com/ranjani23)
 - [Isaac Mick](https://github.com/Isaac-Mick)
+- [Karan Khanna](https://github.com/abstractk)
 - [Quentin Tang](https://github.com/SilverChicken)
