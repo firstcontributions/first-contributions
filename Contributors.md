@@ -9037,6 +9037,7 @@ Namit Shah
 - [Hidehiro Aya](https://github.com/dehiron)
 - [taranvirsaini]
 - [Syk]
+- [Banarant] (https://github.com/Banarant)
 - [sarahh]
 - [Savilard](https://github.com/savilard)
 - [Elsa](https://github.com/ElsaLebas)
