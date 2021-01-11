@@ -9,6 +9,7 @@
 - [Ajiboye Fatimo] (https://github.com/Happiness20)
 - first test
 - Atia
+- Dedy Pamungkas
 - [My]
 - [Parishrut Kushwaha](https://github.com/parish09)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
