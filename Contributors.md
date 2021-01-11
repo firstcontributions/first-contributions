@@ -16,6 +16,7 @@
 - [Javailabe](https://github.com/Javailabe)
 - [John Terry](https://github.com/Sarellen)
 - [nyalla](https://github.com/nyalla)
+- [Vivek Chauhan](https://github.com/vivekchauhan88)
 - [Armaan Mangat](https://github.com/Armaan-Mangat)
 - [Andy Chung] (https://github.com/chung01107)
 - [KarinaNi] (https://github.com/KarinaNi)
