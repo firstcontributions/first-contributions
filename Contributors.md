@@ -6,6 +6,7 @@
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [Taci Shlosberg] (https://github.com/tshlos)
+- [THAREALPATB] (https://github.com/THAREALPATB)
 - [Sameeksha233] (https://github.com/Sameeksha233)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Shahroz K] (https://github.com/shia5347)
