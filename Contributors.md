@@ -8,6 +8,7 @@
 - [Taci Shlosberg] (https://github.com/tshlos)
 - [Sameeksha233] (https://github.com/Sameeksha233)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
+- [Shahroz K] (https://github.com/shia5347)
 - [Shreevathsa] (https://github.com/svatsdev)
 - [AdhipathiPandiyan] (https://github.com/AdhipathiPandiyan-S)
 - [Weiren Lan](https://github.com/MIBlue119/)
