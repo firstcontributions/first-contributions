@@ -9,6 +9,7 @@
 - [Taci Shlosberg] (https://github.com/tshlos)
 - [THAREALPATB] (https://github.com/THAREALPATB)
 - [Sameeksha233] (https://github.com/Sameeksha233)
+- [ITAGH-CODE] (https://github.com/ITAGH-CODE)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Shahroz K] (https://github.com/shia5347)
 - [Shreevathsa] (https://github.com/svatsdev)
