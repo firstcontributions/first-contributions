@@ -9073,3 +9073,4 @@ Namit Shah
 - [Quentin Tang](https://github.com/SilverChicken)
 - [Hossien Top](https://github.com/hossientop)
 - [Andy Ngo](https://github.com/andyngo2021)
+- [Jotaro](https://github.com/JotaroS)
