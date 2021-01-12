@@ -1,3 +1,4 @@
+- [Leopold]
 - [meet0806]https://github.com/meet0806)
 - [Niall Stapleton](https://github.com/nstapleton1)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
@@ -87,7 +88,7 @@
 - [Pranavbm]
 - [Abhinav A](https://github.com/abhisky2001)
 - [Bhaskar R](https://github.com/Bhaskar-R)
-- [Daniel Oluborode](https://github.com/danolu) 
+- [Daniel Oluborode](https://github.com/danolu)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
@@ -9071,7 +9072,7 @@ Namit Shah
 - [Osasona Ifeoluwa] (https://github.com/Ifeoluwa-hub)
 - [Andres Ramirez](https://github.com/ARam2142/)
 - [Will Agble](https://github.com/agblewp)
-- [Ville Koskela](https://github.com/kosvi) 
+- [Ville Koskela](https://github.com/kosvi)
 - [Zubair Abuabkar](https://github.com/zubairAbubakar)
 - [Bido Namakura](https://github.com/K-REBO)
 - [Mark Prescher](https://github.com/markprescher)
