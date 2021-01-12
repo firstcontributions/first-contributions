@@ -846,6 +846,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - Mani
 - [Junaid Iqbal](https://github.com/junaidiqbalturk) found this useful regarding contribution to open source
 - [Jannick Bremm](https://github.com/JannickBremm)
+- [Alice Li] (https://github.com/alicejli)
 - [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Dence Kurian](https://github.com/dencekurian)
