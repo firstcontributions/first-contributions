@@ -7,6 +7,7 @@
 - [Elle Ryba](https://github.com/elleryba)
 - [Harshita_Nag](https://github.com/nagharshita16)
 - [Gustavinho](https://github.com/nGustavin)
+- [Camilo_Sanchez](https://github.com/puesyo)
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [Taci Shlosberg] (https://github.com/tshlos)
