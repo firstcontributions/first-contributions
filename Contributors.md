@@ -8821,6 +8821,7 @@ James Crawf
 - [Matthew Sheldon] (https://github.com/msheldon32)
 - [Andrew Russell](https://github.com/WatCodeDatCode)
 - [Anno2003] (https://github.com/Anno2003 )
+- [Hudson Leone](https://github.com/FalafelGood)
 - [Rafael Neves](https://github.com/rafaeljneves)
 - [Pogchamp](https://github.com/yibinlong)
 - [swoorr](https://github.com/swoorr)
