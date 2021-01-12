@@ -2544,6 +2544,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
 - bidlocode
+- [Atlinx](https://github.com/atlinx)
 - [Prabaljit Walia](https://github.com/prabal4546)
 - [ElenaKout](https://github.com/elenakout)
 - [Vinay Manala](https://github.com/VinayManala)
