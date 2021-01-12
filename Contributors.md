@@ -9066,6 +9066,7 @@ Namit Shah
 - [Savilard](https://github.com/savilard)
 - [Elsa](https://github.com/ElsaLebas)
 - [Hossien HunTa](https://github.com/HossienHunTa)
+- [Roxy Reid](https://github.com/rox117)
 - [Osasona Ifeoluwa] (https://github.com/Ifeoluwa-hub)
 - [Andres Ramirez](https://github.com/ARam2142/)
 - [Will Agble](https://github.com/agblewp)
