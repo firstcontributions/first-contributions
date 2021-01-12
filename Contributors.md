@@ -46,6 +46,7 @@
 - [Shivam Kalra](https://github.com/shivamkalra13)
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
 - [Falconbrunch](https://github.com/Falconbrunch)
+- [Joshua Quan](https://github.com/JMQ0598)
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
 - [b3z](https://github.com/b3z)
