@@ -9094,3 +9094,4 @@ Namit Shah
 - [Jotaro](https://github.com/JotaroS)
 - [Reza Shams] (https://github.com/rezashams)
 - [Mtestor](https://github.com/Mtestor)
+- [Aaron Truong](https://github.com/truongaaron)
