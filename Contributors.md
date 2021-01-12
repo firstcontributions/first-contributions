@@ -23,6 +23,7 @@
 - [Niveditha Hariharan](https://github.com/Ahtidevin)
 - [Javailabe](https://github.com/Javailabe)
 - [John Terry](https://github.com/Sarellen)
+- [Jorge Eldis](https://github.com/jorgeeldis)
 - [nyalla](https://github.com/nyalla)
 - [Vivek Chauhan](https://github.com/vivekchauhan88)
 - [Armaan Mangat](https://github.com/Armaan-Mangat)
