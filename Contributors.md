@@ -130,6 +130,7 @@
 - [Lavanay Thakral](https://github.com/lavanaythakral)
 - [Giovani Zanetti](https://github.com/giovanizanetti)
 - [Shikhar Kushwah](https://github.com/MAG-BOSS)
+- [Reed Taylor](https://github.com/reedtlr)
 - [Nirushan1](https://github.com/Nirushan1)
 - [olalekan temitayo](https://github.com/temitayopelumi)
 - [Meet Shah](https://github.com/Meet2674)
