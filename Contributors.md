@@ -12,6 +12,7 @@
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [Emily Teng](https://github.com/eteng2022)
+- [Nandini Proothi](https://github.com/nandiniproothi)
 - [Taci Shlosberg] (https://github.com/tshlos)
 - [THAREALPATB] (https://github.com/THAREALPATB)
 - [Sameeksha233] (https://github.com/Sameeksha233)
