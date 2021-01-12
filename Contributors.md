@@ -8,6 +8,7 @@
 - [Harshita_Nag](https://github.com/nagharshita16)
 - [Gustavinho](https://github.com/nGustavin)
 - [Camilo_Sanchez](https://github.com/puesyo)
+- [Sophiya-Singh](https://github.com/sophiya02)
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
 - [Emily Teng](https://github.com/eteng2022)
