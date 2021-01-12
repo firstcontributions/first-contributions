@@ -4427,6 +4427,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
 - [Theoajc](https://github.com/theoajc)
+- [Dorian Edwards](https://github.com/buddafucofibas)
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - [Purvesh Gandhi](https://github.com/purvesh261)
