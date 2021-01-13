@@ -1,5 +1,4 @@
-﻿- [meet0806]https://github.com/meet0806)
--[Hannah Campbell](https://github.com/hannahckc)
+﻿- [meet0806]https://github.com/meet0806) -[Hannah Campbell](https://github.com/hannahckc)
 - [Niall Stapleton](https://github.com/nstapleton1)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
 - [Saksham Sharma](https://github.com/ssaksham)
@@ -28,6 +27,7 @@
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [Niveditha Hariharan](https://github.com/Ahtidevin)
 - [Javailabe](https://github.com/Javailabe)
+- [Yury Gorelik](https://github.com/yurywektorovich)
 - [John Terry](https://github.com/Sarellen)
 - [Jorge Eldis](https://github.com/jorgeeldis)
 - [nyalla](https://github.com/nyalla)
@@ -96,7 +96,7 @@
 - [Pranavbm]
 - [Abhinav A](https://github.com/abhisky2001)
 - [Bhaskar R](https://github.com/Bhaskar-R)
-- [Daniel Oluborode](https://github.com/danolu) 
+- [Daniel Oluborode](https://github.com/danolu)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
@@ -144,7 +144,7 @@
 - [Meet Shah](https://github.com/Meet2674)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
 - [Lepra](https://github.com/lepra2020)
-Ikoyo Daniel](https://github.com/Rd-Trends)
+  Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Erjon Dervishaj](https://github.com/Erjon95)
 - [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
@@ -280,8 +280,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Elijah Mentch](https://github.com/emmentch/)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Kai Ellis](https://github.com/kellisfm)
-- [Pranav Reddy Mannemela](https://github.com/saipranavr)
--[Michael Oldacre](https://github.com/mloldacre)
+- [Pranav Reddy Mannemela](https://github.com/saipranavr) -[Michael Oldacre](https://github.com/mloldacre)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/)
 - [Enes Guven](https://github.com/jamiryutheb)
 - [Ulil Albab](https://github.com/ulilalbab)
@@ -4424,8 +4423,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
-- A.J.Fox (https://github.com/A-J-Fox)
--[Amar Imamovic](https://github.com/MetaMan13)
+- A.J.Fox (https://github.com/A-J-Fox) -[Amar Imamovic](https://github.com/MetaMan13)
 - Leszek
 - Phillip
 - [SmileInYourFace](https://github.com/SmileInYourFace)
@@ -8988,7 +8986,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Jonathan](https://github.com/Jonny2379)
 - [Erik Tastepe](https://github.com/erik-tastepe)
-Robert Czerniewicz
+  Robert Czerniewicz
 - [Rahul K](https://github.com/rkoonant)
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
@@ -9057,10 +9055,10 @@ Robert Czerniewicz
 - [Ayush Sahni](https://github.com/ayushsahnios)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
-Jeff C.
-[Pradip](https://github.com/PradipNichite/first-contributions)
+  Jeff C.
+  [Pradip](https://github.com/PradipNichite/first-contributions)
 - [Filip lenaerts](https://github.com/filiplenaerts)
-Dany-Dan
+  Dany-Dan
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
 - [Odin Asbjørnsen](https://github.com/oas004)
@@ -9069,12 +9067,12 @@ Dany-Dan
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
-Namit Shah
- - [Ethan Marreel](https://github.com/stropical)
- - [ThankGod Kalu](https://github.com/TG-Codes)
- - [Sterling Kauahi](https://github.com/slingky814)
- - [Sakib Chowdhury](https://github.com/Saquib89)
- - [LohQ](https://github.com/LohQ)
+  Namit Shah
+- [Ethan Marreel](https://github.com/stropical)
+- [ThankGod Kalu](https://github.com/TG-Codes)
+- [Sterling Kauahi](https://github.com/slingky814)
+- [Sakib Chowdhury](https://github.com/Saquib89)
+- [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
 - [Hidehiro Aya](https://github.com/dehiron)
@@ -9089,7 +9087,7 @@ Namit Shah
 - [Osasona Ifeoluwa] (https://github.com/Ifeoluwa-hub)
 - [Andres Ramirez](https://github.com/ARam2142/)
 - [Will Agble](https://github.com/agblewp)
-- [Ville Koskela](https://github.com/kosvi) 
+- [Ville Koskela](https://github.com/kosvi)
 - [Zubair Abuabkar](https://github.com/zubairAbubakar)
 - [Bido Namakura](https://github.com/K-REBO)
 - [Mark Prescher](https://github.com/markprescher)
