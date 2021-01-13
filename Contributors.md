@@ -38,6 +38,7 @@
 - [uniminin](https://github.com/Uniminin)
 - [Oreste Abizera](https://github.com/oreste-abizera)
 - [Hiba Alkurd](https://github.com/Hiba-alkurd)
+- [Pransin](https://github.com/pransin)
 - [Kreyren](https://github.com/Kreyren)
 - [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
