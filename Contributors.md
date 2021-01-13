@@ -17,6 +17,7 @@
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
 - [Nandini Proothi](https://github.com/nandiniproothi)
 - [Taci Shlosberg] (https://github.com/tshlos)
+- [divyansh1004](https://github.com/divyansh1004)
 - [THAREALPATB] (https://github.com/THAREALPATB)
 - [Sameeksha233] (https://github.com/Sameeksha233)
 - [ITAGH-CODE] (https://github.com/ITAGH-CODE)
