@@ -104,6 +104,7 @@
 - [Shrushti Vasaniya](https://github.com/shrushti22)
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [YungBryanX](https://github.com/YungBryanX)
+- [Swaroop Raj Lama](https://github.com/lachenlama)
 - [Joon Park](https://github.com/joonpark119)
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
