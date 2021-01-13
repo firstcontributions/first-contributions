@@ -96,6 +96,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
+- [ChiraG Rana](https://github.com/ChiragJRana)
 - [Abhinav A](https://github.com/abhisky2001)
 - [Bhaskar R](https://github.com/Bhaskar-R)
 - [Daniel Oluborode](https://github.com/danolu) 
