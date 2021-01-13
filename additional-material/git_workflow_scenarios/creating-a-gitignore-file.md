@@ -1,11 +1,11 @@
 # .gitignore
 
-The .gitignore file is a text file that tells Git which files or folders to ignore in a project.
+The .gitignore file is a text file that tells Git which files or folders to ignore from your local repository when pushing it to the remote repository.
 
-A local .gitignore file is usually placed in the root directory of a project. You can also create a global .gitignore file and any entries in that file will be ignored in all of your Git repositories.
+A local .gitignore file is usually placed in the root directory of a local project. You can also create a global .gitignore file and any entries in that file will be ignored in all of your Git repositories.
 
 ## Why .gitignore
-Now you may wonder why would you want git to ignore certain files and folders. Its because you don't want files like build files, cache files, other local configuration files like node modules, compilation files, temporary files IDE's create, etc to be tracked by git. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators.
+Now you may wonder why would you want git to ignore certain files and folders. Its because you don't want files like build files, cache files, other local configuration files like node modules, compilation files, temporary files IDE's create, etc to be tracked by git. It's usually used to avoid committing transient files from your working (or local) directory that aren't useful to other collaborators.
 
 ## Getting started
 To create a local .gitignore file, create a text file and name it .gitignore (remember to include the . at the beginning). Then edit this file as needed. Each new line should list an additional file or folder that you want Git to ignore.
