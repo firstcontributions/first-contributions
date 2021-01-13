@@ -139,6 +139,7 @@
 - [Lavanay Thakral](https://github.com/lavanaythakral)
 - [Giovani Zanetti](https://github.com/giovanizanetti)
 - [Shikhar Kushwah](https://github.com/MAG-BOSS)
+- [Sergiu Mosanu](https://github.com/smosanu)
 - [Reed Taylor](https://github.com/reedtlr)
 - [Nirushan1](https://github.com/Nirushan1)
 - [olalekan temitayo](https://github.com/temitayopelumi)
