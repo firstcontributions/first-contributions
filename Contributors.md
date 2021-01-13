@@ -997,6 +997,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [547y4m](https://github.com/547y4m)
 - [atharvaj77](https://github.com/atharvaj77)
 - Motunrayo
+- [Mosesobike](https://github.com/Mosesobike)
 - [Thomas Steinacher](https://github.com/tomSteini)
 - Amedyne
 - Morgan
