@@ -325,6 +325,7 @@ Adam Blaylock
 - [Dhiraj shelke](https://github.com/Dhiraj2905)
 - [GuyWithEyes](https://github.com/guywitheyes)
 - [Ryu Pradana](https://github.com/whoisryu)
+- [Bhavika Gianey](https://github.com/Bhavika-Gianey)
 - [Augusto Sales](https://github.com/acssales/)
 - [Vicent Garcia](https://github.com/VicentGN)
 - [Vickjoe](https://github.com/vickjoeobi)
