@@ -2,6 +2,8 @@
 - [Maria Bardon](https://github.com/mariabardon)
 - Hafed omar 
 - Daniel Danaee
+-krushna
+
 - [meet0806](https://github.com/meet0806)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Niall Stapleton](https://github.com/nstapleton1)
@@ -246,7 +248,7 @@
 - [Darwin](https://github.com/FallenLevia)
 - [Manteg Singh](https://github.com/mantegSingh12)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
-- [Malcolm Liu](https://github.com/macallon)
+- [Malcolm Liu][]
 - [Mengmei Tu](https://github.com/mmeii)
 - [Luke Hartley](https://github.com/Luke943)
 - [Lucas Stone-Drake](https://github.com/LucasSD)
@@ -9138,3 +9140,5 @@ Namit Shah
 - [leonfrom](https://github.com/leonfrom)
 - [Subhayan Das](https://github.com/SubhayanDas08)
 - [Jon Robinson](https://github.com/jwrobinson-code)
+
+[]: https://github.com/macallon
