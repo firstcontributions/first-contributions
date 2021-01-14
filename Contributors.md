@@ -1,6 +1,7 @@
-﻿Hafed omar 
+- [Maria Bardon](https://github.com/mariabardon)
+- Hafed omar 
 - [meet0806]https://github.com/meet0806)
--[Hannah Campbell](https://github.com/hannahckc)
+- [Hannah Campbell](https://github.com/hannahckc)
 - [Niall Stapleton](https://github.com/nstapleton1)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
 - [Saksham Sharma](https://github.com/ssaksham)
@@ -288,7 +289,7 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Kai Ellis](https://github.com/kellisfm)
 - [Pranav Reddy Mannemela](https://github.com/saipranavr)
--[Michael Oldacre](https://github.com/mloldacre)
+- [Michael Oldacre](https://github.com/mloldacre)
 - [Paulo Eduardo](https://pauloeduardomc.github.io/github-slideshow/#/)
 - [Enes Guven](https://github.com/jamiryutheb)
 - [Ulil Albab](https://github.com/ulilalbab)
@@ -4039,7 +4040,8 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Faraz Suhail](https://github.com/Faraz710)
 - [Zafir Khalid](https://github.com/Zafirmk)
 - [Fisayo Ojo](https://github.com/FisayoD)
-- [Juliano Paulo](https://github.com/jsdie099) -[Vipin Yadav](https://github.com/vip529)
+- [Juliano Paulo](https://github.com/jsdie099) 
+- [Vipin Yadav](https://github.com/vip529)
 - [Kyle Paulma](https://github.com/kylepaulma)
 - [Taha Dharamsi](https://github.com/tahanzania)
 - [Daniel Buompane](https://github.com/dankb82)
@@ -4433,15 +4435,16 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
-- A.J.Fox (https://github.com/A-J-Fox)
--[Amar Imamovic](https://github.com/MetaMan13)
+- [A.J.Fox](https://github.com/A-J-Fox)
+- [Amar Imamovic](https://github.com/MetaMan13)
 - Leszek
 - Phillip
 - [SmileInYourFace](https://github.com/SmileInYourFace)
 - yogeshwaran
 - [Alex Kimeu](https://github.com/alexkimeu0)
 - Kirty Sharma
-- Gubsi -[Aadarsh Anand](https://github.com/aadarsh-zoro)
+- Gubsi 
+- [Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
 - tivrfoa
@@ -4777,8 +4780,9 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Kelvin](https://github.com/kelvinabella)
 - [Rully Ihza Mahendra](https://github.com/rllyhz)
 - [Garrett Kent](https://github.com/GarrettKent)
-- -milannzz
-- poorvi Vaish -[Brijesh Ammanath](https://github.com/bit00)
+- milannzz
+- poorvi Vaish 
+- [Brijesh Ammanath](https://github.com/bit00)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Elvis Takkis](https://github.com/kruvikonserv)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
@@ -6088,7 +6092,8 @@ Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Rishi Khanna](https://github.com/khannar62)
 - [DD155](https://github.com/DD155)
 - [Jon Hawes](https://github.com/JonHawes)
-- [bjaxbjax](https://github.com/bjaxbjax) -[Farah Najib](https://github.com/FarahNajib)
+- [bjaxbjax](https://github.com/bjaxbjax) 
+- [Farah Najib](https://github.com/FarahNajib)
 - [keerthimohan93](https://github.com/keerthimohan93)
 - [zer0tolerance](https://github.com/zer0tolerance)
 - [al6625](https://github.com/alaj6625/first-contributions)
