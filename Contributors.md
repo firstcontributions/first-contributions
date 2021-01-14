@@ -88,6 +88,7 @@
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [Shishira S](https://github.com/Shishira4)
 - [SyntheticOne](https://github.com/SyntheticOne)
+- [Benjamin Shao](https://github.com/benjshao)
 - [Daryl](https://github.com/dwturrentine)
 - [Parul S Kumar](https://github.com/ParulSKumar)
 - [Chris Garlick](https://github.com/Chrisgarlick)
