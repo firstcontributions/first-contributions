@@ -18,6 +18,7 @@
 - [Avi Desai](https://github.com/avidesai)
 - [King Phyte](https://github.com/king-phyte)
 - [Emily Teng](https://github.com/eteng2022)
+- [Bukola Kehinde](https://github.com/buquio)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
 - [Nandini Proothi](https://github.com/nandiniproothi)
 - [Taci Shlosberg] (https://github.com/tshlos)
