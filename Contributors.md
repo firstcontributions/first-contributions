@@ -1443,8 +1443,8 @@ Shubham Gupta
 - [Rashid Ali](https://github.com/rashidjama)
 - [Zsuzsa Lukacs](https://github.com/ZsuzsaMano)
 - [sbapollocoder](https://github.com/sbapollocoder)
-- [Ahlam Awawda](https://github.com/ahlam94)
 - [Trevor Sean](https://github.com/JetXtreme)
+- [Ahlam Awawda](https://github.com/ahlam94)
 - [Cedillo](https://github.com/zmcedillo)
 - [ahlam awawda](https://github.com/ahlam94)
 - [brigthon](https://github.com/brigthon)
@@ -8026,6 +8026,7 @@ Shubham Gupta
 - [James Z](https://github.com/jameszimo)
 - [ducatimaus](https://github.com/ducatimaus/)
 - bsdl
+- [kmw042]
 - [Matthias Rodrigues de Franca](https://github.com/Matt-1985)
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
 - [LingCH0918](https://github.com/LingCH0918)
@@ -9304,3 +9305,4 @@ Shubham Gupta
 - [Kelvin Ou](https://github.com/cyanaspect/)
 - [naruhodoPotato](https://github.com/naruhodoPotato/)
 - [Hiccstrid2019] (https://github.com/Hiccstrid2019)
+
