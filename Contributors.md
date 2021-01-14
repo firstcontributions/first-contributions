@@ -1,6 +1,7 @@
 # Contributors
 - [Maria Bardon](https://github.com/mariabardon)
 - Hafed omar 
+Adam Blaylock
 - Daniel Danaee
 - [meet0806](https://github.com/meet0806)
 - [Hannah Campbell](https://github.com/hannahckc)
