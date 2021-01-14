@@ -450,6 +450,7 @@
 - [John Lee](https://github.com/syntheticjohn)
 - [Paramita Tejasvi](https://github.com/paramita-tejasvi)
 - [Helen Nazarenko](https://github.com/nazarenh)
+- [Savneet Kaur](https://github.com/SavneetKaur01)
 - [Thomas Glenn](https://github.com/thomasglenngit)
 - [Bingyang Hu](https://github.com/hby93222)
 - [Becky Richardson](https://github.com/beckyrich)
