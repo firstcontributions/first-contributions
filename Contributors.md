@@ -70,6 +70,7 @@ Adam Blaylock
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
 - [b3z](https://github.com/b3z)
+- [Yash Parekh](https://github.com/yash20010)
 - [Natasha Drost](https://github.com/nata4471)
 - [NaNa Mathis](https://github.com/n-mathis)
 - [Utkarsh Maheshwari](https://github.com/utkarsh-maheshwari)
