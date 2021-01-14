@@ -146,6 +146,7 @@ Adam Blaylock
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Cody Gronning](https://github.com/CodingWithCody)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
+- [Diogo Jorge Basso](https://github.com/diogojorgebasso)
 - [MTelford](https://github.com/MTelford)
 - [Namita Soni](https://github.com/namitasoni)
 - [Chinhai Hour](https://github.com/chinhaihour)
@@ -9017,7 +9018,7 @@ Adam Blaylock
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Jonathan](https://github.com/Jonny2379)
 - [Erik Tastepe](https://github.com/erik-tastepe)
-Robert Czerniewicz
+  Robert Czerniewicz
 - [Rahul K](https://github.com/rkoonant)
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
@@ -9086,10 +9087,10 @@ Robert Czerniewicz
 - [Ayush Sahni](https://github.com/ayushsahnios)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
-Jeff C.
-[Pradip](https://github.com/PradipNichite/first-contributions)
+  Jeff C.
+  [Pradip](https://github.com/PradipNichite/first-contributions)
 - [Filip lenaerts](https://github.com/filiplenaerts)
-Dany-Dan
+  Dany-Dan
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
 - [Odin Asbjørnsen](https://github.com/oas004)
@@ -9098,12 +9099,12 @@ Dany-Dan
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
-Namit Shah
- - [Ethan Marreel](https://github.com/stropical)
- - [ThankGod Kalu](https://github.com/TG-Codes)
- - [Sterling Kauahi](https://github.com/slingky814)
- - [Sakib Chowdhury](https://github.com/Saquib89)
- - [LohQ](https://github.com/LohQ)
+  Namit Shah
+- [Ethan Marreel](https://github.com/stropical)
+- [ThankGod Kalu](https://github.com/TG-Codes)
+- [Sterling Kauahi](https://github.com/slingky814)
+- [Sakib Chowdhury](https://github.com/Saquib89)
+- [LohQ](https://github.com/LohQ)
 - [Talha Asghar - Pakistan Zindabad](https://github.com/iamtalhaasghar)
 - [Lucas Kamakura] (https://github.com/lkamak)
 - [Hidehiro Aya](https://github.com/dehiron)
