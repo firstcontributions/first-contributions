@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Maria Bardon](https://github.com/mariabardon)
 - Hafed omar 
 - Daniel Danaee
@@ -9129,6 +9129,7 @@ Namit Shah
 - [Jotaro](https://github.com/JotaroS)
 - [Reza Shams] (https://github.com/rezashams)
 - [Mtestor](https://github.com/Mtestor)
+- [Priyanshu Gupta](https://github.com/priyanshu1909)
 - [Aaron Truong](https://github.com/truongaaron)
 - shreyansh singh
 - [Yury Gorelik](https://github.com/yurywektorovich)
@@ -9136,3 +9137,4 @@ Namit Shah
 - [Lee Thomas](https://github.com/LeeThomas13)
 - [leonfrom](https://github.com/leonfrom)
 - [Subhayan Das](https://github.com/SubhayanDas08)
+
