@@ -1,4 +1,5 @@
 # Contributors
+- [Junaire Edris Buico](https://github.com/jun-edris)
 - [Maria Bardon](https://github.com/mariabardon)
 - Hafed omar 
 Adam Blaylock
