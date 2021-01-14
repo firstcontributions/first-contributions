@@ -37,6 +37,7 @@ Adam Blaylock
 - [Shreevathsa] (https://github.com/svatsdev)
 - [MohamedY94] (https://github.com/mohamedy72)
 - [AdhipathiPandiyan] (https://github.com/AdhipathiPandiyan-S)
+- [Daniel Smith] (http://github.com/dksmith3228)
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [Niveditha Hariharan](https://github.com/Ahtidevin)
 - [Javailabe](https://github.com/Javailabe)
