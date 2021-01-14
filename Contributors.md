@@ -14,6 +14,7 @@
 - [Sophiya-Singh](https://github.com/sophiya02)
 - [biswa](https://github.com/bhai-bhai-hero)
 - [nickjvturner](https://github.com/nickjvturner)
+- [Avi Desai](https://github.com/avidesai)
 - [King Phyte](https://github.com/king-phyte)
 - [Emily Teng](https://github.com/eteng2022)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
