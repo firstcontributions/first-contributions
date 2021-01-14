@@ -9115,3 +9115,4 @@ Namit Shah
 - [Aaron Truong](https://github.com/truongaaron)
 - [Yury Gorelik](https://github.com/yurywektorovich)
 - [Alex Koenig](https://github.com/akoenig1)
+- [Lee Thomas](https://github.com/LeeThomas13)
