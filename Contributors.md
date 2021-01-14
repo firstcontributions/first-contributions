@@ -417,6 +417,7 @@
 - [Matt Black](https://github.com/mattnmag)
 - [Alex Keaveney](https://github.com/alexkeaveney)
 - [Paulson J Paul](https://github.com/paulsonjpaul)
+- [Apoorv Aditya](https://github.com/apoorv-01)
 - [Alioune Diagne](https://github.com/Alioune98)
 - [Omoigui Efosa Abel](https://github.com/efosaomoigu)
 - [malinda suhash](https://github.com/malindasuhash)
