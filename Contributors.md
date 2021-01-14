@@ -786,6 +786,7 @@
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Amrit Shukla](https://github.com/amritshukla001)
 - [Scott Henwood](https://github.com/ScottHenwood)
+- [Anubhav Ashish](https://github.com/camelCaseStyle)
 - Rich Peaua
 - OLvine George
 - Tadashi-hue
