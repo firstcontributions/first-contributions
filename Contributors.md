@@ -8,6 +8,7 @@ Adam Blaylock
 - [meet0806](https://github.com/meet0806)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Niall Stapleton](https://github.com/nstapleton1)
+- [Joseph Haryanto](https://github.com/Jos02378)
 - [Abhilashini A J](https://github.com/abhilashini)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
