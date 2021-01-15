@@ -96,6 +96,7 @@ Adam Blaylock
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [Shishira S](https://github.com/Shishira4)
 - [SyntheticOne](https://github.com/SyntheticOne)
+- [Fathonah Zuchriyah](https://github.com/afaafa)
 - [Benjamin Shao](https://github.com/benjshao)
 - [Daryl](https://github.com/dwturrentine)
 - [Parul S Kumar](https://github.com/ParulSKumar)
