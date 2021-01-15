@@ -4574,6 +4574,7 @@ Adam Blaylock
 - [Dhruv Sachdev](https://github.com/Dhruv-Sachdev)
 - [wilsoncode](https://github.com/wilsoncode)
 - [Shinigami]
+- [Deel18](https://github.com/Deel18)
 - [Mihir Rane](https://github.com/ranemihir)
 - [Nirbhay Sing](https://github.com/Nirbhay007)
 - [Lukasz Gorka](https://github.com/lukaszgorka2010)
