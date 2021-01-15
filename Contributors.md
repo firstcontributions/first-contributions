@@ -3967,6 +3967,7 @@ Adam Blaylock
 - Sonu Saha
 - thumbripper79
 - [Johan Marais](https://github.com/timmyconnect)
+- [Jonas De Nauw](https://github.com/M0tionl3ss)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - [Sushant Athley](https://github.com/uf-sushant)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
