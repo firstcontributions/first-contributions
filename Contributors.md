@@ -2,6 +2,7 @@
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Nick Stevens](https://github.com/nkstevens)
 - [Maria Bardon](https://github.com/mariabardon)
+- [Anushka Jain](https://github.com/anushkarjain)
 - Hafed omar 
 Adam Blaylock
 - Daniel Danaee
