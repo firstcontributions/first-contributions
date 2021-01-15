@@ -8661,6 +8661,7 @@ Adam Blaylock
 - [Andrew Wijaya](https://github.com/andrewdudu)
 - [Daniel Freire](https://github.com/proxyanon)
 - [zeroouz](https://github.com/zeroouz)
+- [Imran Mohd Raji](https://github.com/imranmr)
 - [Vidhya Priya](https://github.com/vidhyakv)
 - [Rajesh Jha]
 - [tboonma](https://github.com/tboonma)
