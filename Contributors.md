@@ -1284,6 +1284,7 @@ Adam Blaylock
 - [Thisura dinith](https://github.com/THISURA97)
 - [Josh Nho](https://github.com/joshnho)
 - [Florian Guger](https://github.com/Fjormos)
+- [Immanuel Ifere] (https://github.com/Ifere)
 - [William Marino](https://github.com/willmarino)
 - [Jamie Sajdak](https://github.com/Jam52)
 - [Dhanika](https://github.com/dhanika08/)
