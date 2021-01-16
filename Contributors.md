@@ -145,6 +145,7 @@ Adam Blaylock
 - [Jarred Harris](https://github.com/seithman)
 - [Kiran Chand](https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
+- [Alper Aktaş](https://github.com/yethranayeh)
 - [Yosuke Mikasa](https://https://github.com/suke6mix)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
