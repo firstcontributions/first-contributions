@@ -738,7 +738,7 @@ Adam Blaylock
 - Colton Francis
 - [Aleem Osman](https://github.com/aleemosman)
 - [John Robinson](https://github.com/klondikekid)
-- [Sparrow](https://github.com/Sparrowez)y
+- [Sparrow](https://github.com/Sparrowez)
 - [Sambuddha Adhikari](https://github.com/sambuddha92)
 - [Chintan Patel](https://github.com/chihempat)
 - [Ramin Daneshi](https://github.com/Ramin-Daneshi)
