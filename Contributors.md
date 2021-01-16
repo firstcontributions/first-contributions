@@ -1653,6 +1653,7 @@ Adam Blaylock
 - [Shah Quadri](https://github.com/shah78677)
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Ishaan Singhal]
+- [Sam Debatin]
 - [Amy Nelson](https://github.com/arrmkr)
 - [Ziad Ahsani](https://github.com/ziad696)
 - [Serge Nino Martin Villasica](https://github.com/crjacinro)
