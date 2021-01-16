@@ -1,6 +1,7 @@
 # Contributors
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Nick Stevens](https://github.com/nkstevens)
+- [Jack Aitken](https://github.com/jackaitken)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
 - Hafed omar 
