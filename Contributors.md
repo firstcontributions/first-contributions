@@ -9147,6 +9147,7 @@ Adam Blaylock
 - [Ville Koskela](https://github.com/kosvi)
 - [Zubair Abuabkar](https://github.com/zubairAbubakar)
 - [Bido Namakura](https://github.com/K-REBO)
+- [Satish Pai B](https://github.com/SatishPaiB)
 - [Mark Prescher](https://github.com/markprescher)
 - [Aniket Singh](https://github.com/codingbrains8055)
 - [Ranjani Rajagopalan](https://github.com/ranjani23)
