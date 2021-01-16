@@ -90,6 +90,7 @@ Adam Blaylock
 - [Hasan Gökçe](https://github.com/hasangokce)
 - [Engensmax](https://github.com/engensmax)
 - [Andres Cruz](https://github.com/andrscyv)
+- [Tharindu Weerasinghe](https://github.com/tharindu-nw)
 - [Cristi](https://github.com/cristicretu)
 - [Lauric](https://github.com/Lauric-h)
 - [Chaitanya](https://github.com/bmchaitu)
