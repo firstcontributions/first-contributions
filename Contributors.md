@@ -5,6 +5,7 @@
 - [Jack Aitken](https://github.com/jackaitken)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
+- Lisa Kim
 - Hafed omar
   Adam Blaylock
 - Daniel Danaee
@@ -85,7 +86,6 @@
 - [Yash Parekh](https://github.com/yash20010)
 - [Natasha Drost](https://github.com/nata4471)
 - [NaNa Mathis](https://github.com/n-mathis)
-- [Lisa Kim] (https://github.com/lisankim)
 - [Utkarsh Maheshwari](https://github.com/utkarsh-maheshwari)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
 - [Akhi Akl](https://github.com/akhiakl)
