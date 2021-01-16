@@ -4,6 +4,8 @@
 - [Jack Aitken](https://github.com/jackaitken)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
+- [Sonny Fishback](https://github.com/SonnyFishback)
+
 - Hafed omar 
 Adam Blaylock
 - Daniel Danaee
