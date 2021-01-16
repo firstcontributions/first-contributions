@@ -15,6 +15,7 @@ Adam Blaylock
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
+- [Ergi Berdellima](https://github.com/Bhfreagra)
 - [Saksham Sharma](https://github.com/ssaksham)
 - [SainathPoojary](https://github.com/SainathPoojary)
 - [Yulypso - Thierry Khamphousone](https://github.com/Yulypso)
