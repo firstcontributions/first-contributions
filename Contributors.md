@@ -2937,6 +2937,7 @@ Adam Blaylock
 - [Rodolfo Violla](https://github.com/rodolfoviolla)
 - [Hinal Tilavat](https://github.com/HinalTilavat)
 - [C5m7b4](https://github.com/C5m7b4)
+- [Virender Nayal](https://github.com/VirenderNayal)
 - [Alex Langsam](https://github.com/Alangsam)
 - [Noah Weingarden](https://github.com/nweingarden)
 - [Michelle McFarland](https://github.com/mcfarlm3)
