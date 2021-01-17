@@ -7749,6 +7749,7 @@ Shubham Gupta
 - [MorphTail](https://github.com/m0rphtail)
 - [gatzyw](https://github.com/gatzyw)
 - [kshida](https://github.com/kshida)
+- [Revelosophy](https://github.com/revelosophy)
 - [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
 - [Aditya Kumar Singh](https://github.com/adikrs)
