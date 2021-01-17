@@ -7527,6 +7527,7 @@ Shubham Gupta
 - [Marcio Madruga](https://github.com/MarcioMad)
 - [Mohamed AIT BOUAAZA](https://github.com/medinpt)
 - [halilyaman](https://github.com/halilyaman)
+- [Tanmay](https://github.com/neontvn)
 - [Keliang Liu](https://github.com/ke-liang-liu)
 - [Ajin Sunny](https://github.com/ajinsunny)
 - [Wenlong Wang](https://github.com/realwenlongwang)
