@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Manjit Pardeshi](https://github.com/Manjit2003 )
 - Sriparna Chakraborty
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
@@ -6552,6 +6552,7 @@
 - [Shah Anwaar Khalid](https://github.com/hello-fri-end)
 - [Ashraf Safarov] (https://github.com/eshref)
 - [Bahritdinov Daler](https://github.com/bdaler)
+- [Ajith O M](https://github.com/ajith-om)
 - [Paulo Amaral](https://github.com/phfa26)
 - [Jacob Solis](https://github.com/surizar)
 - [tasakos](https://github.com/tasakos-dev)
