@@ -1,6 +1,7 @@
 # Contributors
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Nick Stevens](https://github.com/nkstevens)
+- [Aman Bhatt](https://github.com/bhattcodes)
 - [Maria Bardon](https://github.com/mariabardon)
 - Hafed omar 
 Adam Blaylock
@@ -9159,4 +9160,4 @@ Adam Blaylock
 - [Jon Robinson](https://github.com/jwrobinson-code)
 - [anshulskaul](https://github.com/anshulskaul)
 - [Maxi100a](https://github.com/maxi100a)
-- [Aman Bhatt](https://github.com/bhattcodes)
+
