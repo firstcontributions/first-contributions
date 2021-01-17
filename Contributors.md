@@ -451,6 +451,7 @@ Adam Blaylock
 - [Brett Searle](https://github.com/Brettasearle)
 - [benso1](https://github.com/benso1)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
+- [Philip Omoigui] (https://github.com/philipomoigui)
 - [Jas Phillips](https://github.com/raisingcode)
 - [Johnny McGee](https://github.com/JohnnyMcGee)
 - [Raza Khan](https://github.com/RazaKhanGit)
