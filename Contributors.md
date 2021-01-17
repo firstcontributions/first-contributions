@@ -11,7 +11,8 @@ Adam Blaylock
 - Daniel Danaee
 - [meet0806](https://github.com/meet0806)
 - [Hannah Campbell](https://github.com/hannahckc)
-- [Graham Albachten] (https://github.com/albachteng)
+- [Graham Albachten](https://github.com/albachteng)
+- [Ashutosh Bisht](https://github.com/ashutosh0305)
 - [Niall Stapleton](https://github.com/nstapleton1)
 - [Joseph Haryanto](https://github.com/Jos02378)
 - [Abhilashini A J](https://github.com/abhilashini)
