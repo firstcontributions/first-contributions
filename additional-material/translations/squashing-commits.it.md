@@ -44,21 +44,21 @@ pick blablabla Changing test01.txt file
 pick blablabla2 Adding dummy01.txt file
 
 #
-# Commands:
-#  p, pick = use commit
-#  r, reword = use commit, but edit the commit message
-#  e, edit = use commit, but stop for amending
-#  s, squash = use commit, but meld into previous commit
-#  f, fixup = like "squash", but discard this commit's log message
-#  x, exec = run command (the rest of the line) using shell
+# Comandi:
+#  p, pick = tieni il commit
+#  r, reword = tieni il commit, ma modifica il messaggio di commit
+#  e, edit = tieni il commit, ma fermati per modificare (*amend*)
+#  s, squash = tieni il commit, ma compattalo nel precedente commit
+#  f, fixup = come "squash", ma scarta il messaggio di log di questo commit
+#  x, exec = esegui il comando (il resto della linea) usando la shell
 #
-# These lines can be re-ordered; they are executed from top to bottom.
+# Queste linee possono essere riordinate; loro saranno eseguite dall'alto verso il basso.
 #
-# If you remove a line here THAT COMMIT WILL BE LOST.
+# Se rimuovi una linea qui QUESTO COMMIT SARA' PERSO.
 #
-# However, if you remove everything, the rebase will be aborted.
+# Tuttavia, se tu rimuovi tutto, il rebase sarà annullato.
 #
-# Note that empty commits are commented out
+# Nota che i commit vuoti sono commentati
 ```
 
 Perciò se vuoi compattare ```blablabla2``` in ```blablablabla``` tu dovrai cambiare come segue:  
@@ -72,11 +72,11 @@ squash blablabla2 Adding dummy01.txt file
 Se tutto andrà bene, tu otterrai un risultato che somiglia a questo:  
 
 ```
-# This is a combination of 2 commits.
-# The first commit's message is:
+# Questa è una combinazione di 2 commit.
+# Il primo messaggio di commit è:
 commit message 1
 
-# This is the 2nd commit message:
+# Questo è il messaggio del secondo commit:
 
 commit message 2
 ```
