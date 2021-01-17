@@ -308,6 +308,7 @@ Adam Blaylock
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
 - [sweinstock](https://github.com/sweinstock)
 - [Avinash Kumar](https://github.com/Avii3301)
+- [Devan Eatch](https://github.com/synthsandstuff)
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
 - [Jayden Tweedie](https://github.com/jgregorytweedie)
 - [caharalamm jeje](https://github.com/caharalamm)
