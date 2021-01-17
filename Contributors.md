@@ -8866,6 +8866,7 @@ Shubham Gupta
 - [Hamid Azizi](https://github.com/grandpa22)
 - [Michael Plainer](https://github.com/plainerman)
 - [Maximilian P. L. Haslbeck](https://github.com/maxhaslbeck)
+- [Isaac Cobb](https://github.com/CobbCoding1)
 - [vijay kumar](https://github.com/alotuscoder)
 - [Kevin Zhou](https://github.com/kevinzous)
 - [Zhongjian Tan](https://github.com/buckfield)
