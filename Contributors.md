@@ -9187,3 +9187,4 @@ Shubham Gupta
 - [carlytos](https://github.com/carlytos)
 - [Maxi100a](https://github.com/maxi100a)
 - [hh](https://github.com/Poppycop)
+- [mathkruger](https://github.com/mathkruger)
