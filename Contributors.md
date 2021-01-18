@@ -50,6 +50,7 @@ Adam Blaylock
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Shahroz K] (https://github.com/shia5347)
 - [Shreevathsa] (https://github.com/svatsdev)
+- [Saransh Saini] (https://github.com/saranshsaini)
 - [MohamedY94] (https://github.com/mohamedy72)
 - [AdhipathiPandiyan] (https://github.com/AdhipathiPandiyan-S)
 - [Daniel Smith] (http://github.com/dksmith3228)
