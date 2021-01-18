@@ -11,6 +11,7 @@ Adam Blaylock
 - Daniel Danaee
 - Mahmoud Elhalwany
 - [meet0806](https://github.com/meet0806)
+- [Charles Wong] (https://github.com/charleswong2020)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Graham Albachten](https://github.com/albachteng)
