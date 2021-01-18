@@ -8399,6 +8399,7 @@ Shubham Gupta
 - [Jessi Heger](https://github.com/jessiheger)
 - [Brooke Holliday](https://github.com/Brooke-holliday)
 - [Rucha R](https://github.com/Ruchared)
+- [Duc Tran Minh](https://github.com/ductm104)
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
 - [Kelly Chen](https://github.com/thekellychen)
 - [Cassidy Schneider](https://github.com/cassidyschneider)
