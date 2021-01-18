@@ -53,6 +53,7 @@ Adam Blaylock
 - [Shahroz K] (https://github.com/shia5347)
 - [Shreevathsa] (https://github.com/svatsdev)
 - [Saransh Saini] (https://github.com/saranshsaini)
+- [Claudia Macea] (https://github.com/claudiamacea)
 - [MohamedY94] (https://github.com/mohamedy72)
 - [AdhipathiPandiyan] (https://github.com/AdhipathiPandiyan-S)
 - [Daniel Smith] (http://github.com/dksmith3228)
