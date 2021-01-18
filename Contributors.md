@@ -9204,3 +9204,4 @@ Shubham Gupta
 - [hh](https://github.com/Poppycop)
 - [mathkruger](https://github.com/mathkruger)
 - [Isa AlDoseri](https://github.com/isados)
+- [Vittorio Rinaldo](https://github.com/rinaldovittorio)
