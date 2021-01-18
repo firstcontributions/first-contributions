@@ -2663,6 +2663,7 @@ Shubham Gupta
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Ajit Kumar Chaurasiya](https://github.com/Ajit-53)
 - [Sakshi Kumar](https://github.com/sakshi006)
+- [Zidrex Andag](https://github.com/jzandag)
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - [Damian Romero](https://github.com/damian-romero)
 - [Irshad Ahamed](https://github.com/Zinkuth)
