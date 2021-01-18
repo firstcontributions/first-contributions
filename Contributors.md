@@ -6966,6 +6966,7 @@ Shubham Gupta
 - [Verum Emanio](https://github.com/VerumEmanio)
 - [Robin Trumpie](https://github.com/rtrumpie)
 - [Jianxing Ke](https://github.coom/kjr21362)
+- [Vickey Mandal](https://github.com/VickeyMandal)
 - [Ivan Sousa](https://github.com/0gener)
 - [Ahmed Sultan](https://github.com/ahmedksultan)
 - [Eran Nave](https://github.com/erannave)
