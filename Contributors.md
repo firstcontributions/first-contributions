@@ -483,6 +483,7 @@ Adam Blaylock
 - [Bingyang Hu](https://github.com/hby93222)
 - [Becky Richardson](https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
+- [Devan Eatch](https://github.com/synthsandstuff)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
 - [Ezekiel Ogunniwa](https://github.com/Eminentzeal)
