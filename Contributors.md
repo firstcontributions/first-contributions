@@ -10,6 +10,7 @@ Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - Daniel Danaee
 - Mahmoud Elhalwany
+- [Ethan Jackson] (https::/github.com/ethantjackson)
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Hannah Campbell](https://github.com/hannahckc)
