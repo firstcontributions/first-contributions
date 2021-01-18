@@ -4017,6 +4017,7 @@ Shubham Gupta
 - [Sagar Ramlani](https://github.com/Ramlanisagar)
 - [Saurabh Kushwah](https://github.com/saurabh-kushwah)
 - Atia - first OSS contribution Yay!
+- [rtyh12](https://github.com/rtyh12) Me too, yay! ^^
 - [Jose Sanchez](https://github.com/josemsanchez)
 - [Cliff Gor](https://github.com/cliffgor)
 - [Mike - Look at me! I'm a contrbuting member of society!](https://github.com/Michael-M-Mike)
