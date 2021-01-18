@@ -9208,3 +9208,4 @@ Shubham Gupta
 - [mathkruger](https://github.com/mathkruger)
 - [Isa AlDoseri](https://github.com/isados)
 - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
+- [Martin Majorov](https://github.com/guitdev86/)
