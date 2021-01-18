@@ -5101,6 +5101,7 @@ Shubham Gupta
 - [chrislockard](https://github.com/chrislockard)
 - [Dhafin Razaq](https://github.com/dhafinrazaq)
 - [Dev Dave](https://github.com/psychicBlue)
+- [Cliver Miranda](https://github.com/Miranda20)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Brian McGarry](https://github.com/breenmcgoo)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
