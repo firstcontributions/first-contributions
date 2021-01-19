@@ -497,6 +497,7 @@ Adam Blaylock
 - [Becky Richardson](https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
 - [Devan Eatch](https://github.com/synthsandstuff)
+- [Cole Potter](https://github.com/PokkeFe)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
 - [Ezekiel Ogunniwa](https://github.com/Eminentzeal)
