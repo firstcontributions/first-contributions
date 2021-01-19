@@ -474,6 +474,7 @@ Adam Blaylock
 - [Mario Antonio Lopez Ruiz](http://github.com/marioanloru)
 - [Michael Meixner](https://github.com/ogMikkel)
 - amlan
+- [Dave H](https://github.com/DaveHer)
 - [Sarah V](https://github.com/MistaMishMash)
 - [Natasha Carr](https://github.com/tash-ndc)
 - [Leevi Andrews](https://github.com/leeviaa)
