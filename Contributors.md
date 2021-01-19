@@ -49,6 +49,7 @@ Adam Blaylock
 - [Nandini Proothi](https://github.com/nandiniproothi)
 - [Chris Tapia](https://github.com/tapz1)
 - [Aruneema Deshmukh](https://github.com/AruneemaXD)
+- [Alex Li] (https://github.com/1liale)
 - [Taci Shlosberg] (https://github.com/tshlos)
 - [divyansh1004](https://github.com/divyansh1004)
 - [THAREALPATB] (https://github.com/THAREALPATB)
