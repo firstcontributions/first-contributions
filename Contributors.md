@@ -9057,6 +9057,7 @@ Shubham Gupta
 - [Rogério Brum Hermany](https://github.com/brummm)
 - [Nabakanta Deuri](https://github.com/ay3ay3)
 - [Shveta]
+- [Kiet Truong](https://github.com/mankiet208)
 - [Fernanda Provasi](https://github.com/Feprovasi)
 - [Quang Nguyen](https://github.com/quang-sudo)
 - [acphil2](https://github.com/acphil2)
