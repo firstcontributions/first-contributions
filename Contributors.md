@@ -6078,6 +6078,7 @@ Shubham Gupta
 - [Tony-oldport](https://github.com/tony-oldport/)
 - [Jonathan Barker](https://github.com/jonathanbarker)
 - [whiteduke3](https://github.com/whiteduke3)
+- v-cloudd
 - [Alex Rainier](https://github.com/acrainier1)
 - [Steven Moe](https://github.com/stevenny)
 - [Ben Mattson](https://github.com/benmattson7)
