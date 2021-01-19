@@ -2253,6 +2253,7 @@ Shubham Gupta
 - [Joshua Harris](https://github.com/japjap95)
   Ghazi Khan
 - [Sudha Tanay](https://github.com/sudhatanay)
+- [Dmitri Golota] (https://github.com/DmitriGolota)
 - [Dinushi Jayasekara](https://github.com/DinushiJayasekara)
 - [Nalin Bhargava](https://github.com/nalin12345)
 - [Joe Giuffrida](https://github.com/joegiuffrida)
