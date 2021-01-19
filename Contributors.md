@@ -78,6 +78,7 @@ Adam Blaylock
 - [KarinaNi] (https://github.com/KarinaNi)
 - [uniminin](https://github.com/Uniminin)
 - [Oreste Abizera](https://github.com/oreste-abizera)
+- [Ivan Ajenjo](https://github.com/ivanajenjo)
 - [Hiba Alkurd](https://github.com/Hiba-alkurd)
 - [Pransin](https://github.com/pransin)
 - [Kreyren](https://github.com/Kreyren)
