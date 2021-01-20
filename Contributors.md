@@ -6196,6 +6196,7 @@ Shubham Gupta
 - [Ricardo Mondini](https://github.com/mondini)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [Abhishek Pokhrel](https://github.com/abhishekpokhrel)
+  [Sam Taylor](https://github.com/Asanim)
 - [gullibility](https://github.com/gullibility/)
 - [Milos Kostic](https://github.com/misa2)
 - [Alex Pacheco](https://github.com/alexpa123)
