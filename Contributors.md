@@ -128,6 +128,7 @@ Adam Blaylock
 - [Parul S Kumar](https://github.com/ParulSKumar)
 - [Chris Garlick](https://github.com/Chrisgarlick)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
+- [Finn Trefzer] (https://github.com/F1nn-T)
 - [Morgan Jones](https://github.com/morgsj)
 - [Mehtab Khan](https://github.com/kmehtab)
 - [Ryan Deng](https://github.com/ryandeng32)
