@@ -26,6 +26,7 @@ Adam Blaylock
 - [Abhilashini A J](https://github.com/abhilashini)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
+- [Shalini Sil](https://github.com/sal81)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
 - [Saksham Sharma](https://github.com/ssaksham)
