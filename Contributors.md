@@ -1529,6 +1529,7 @@ Shubham Gupta
 - Benjamin Wright
 - Nehal Gupta
 - [Eric Atwell](https://github.com/atwelleric)
+- [Shivam Vohra](https://github.com/shivam-vohra)
 - [Vipul Khandelwal](https://github.com/VipulKhandelwal1999)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
