@@ -21,6 +21,7 @@ Adam Blaylock
 - [Ashutosh Bisht](https://github.com/ashutosh0305)
 - [Niall Stapleton](https://github.com/nstapleton1)
 - [Michael Barry](https://github.com/barryCrunch)
+- [Shalini Sil](https://github.com/sal81)
 - [Aram Ceballos](https://github.com/aramceballos)
 - [Joseph Haryanto](https://github.com/Jos02378)
 - [Abhilashini A J](https://github.com/abhilashini)
