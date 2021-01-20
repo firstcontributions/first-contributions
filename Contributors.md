@@ -7920,6 +7920,7 @@ Shubham Gupta
 - [Minierparedees](https://github.com/minierparedes)
 - [Ivan-Khomutovskiy](https://github.com/Ivan-Khomutovskiy)
 - [Valeria Oshiro](https://github.com/valeriaoshiro)
+- [Daniel Shields](https://github.com/ShieldsDaniel)
 - [Justyna](https://github.com/justyna13)
 - [gt-rocks](https://github.com/gt-rocks)
 - [Mosiur-rahman](https://github.com/Mosiur-Rahman-1)
