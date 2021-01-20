@@ -1,4 +1,5 @@
 # Contributors
+-[Anurag Chaurasia](https://github.com/Anurag331)
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Nick Stevens](https://github.com/nkstevens)
