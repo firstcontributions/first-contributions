@@ -541,6 +541,7 @@ Adam Blaylock
 - [Justin Vocke](https://github.com/justin-vocke)
 - [Ken Walsh](https://github.com/kenwals/)
 - [Cody Deatherage](https://github.com/codydeatherage)
+- [Ethan Greaves](https://github.com/Ethan-Greaves)
 - [Gabriel Santana](https://github.com/gabrielsanttana)
 - [Mohd Danish](https://github.com/mohddanish-cse)
 - [Dawid Wijata](https://github.com/BordowyRydwan)
