@@ -9214,3 +9214,5 @@ Shubham Gupta
 - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
 - [Martin Majorov](https://github.com/guitdev86/)
 - [Jonas Beduschi](https://github.com/JonasBeduschi)
+- [EveZ](https://github.com/milchgauss)
+
