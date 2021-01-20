@@ -394,6 +394,7 @@ Adam Blaylock
 - [Josh Mu](https://github.com/joshmu)
 - [Matthew Ricklefs](https://github.com/matthewricklefs)
 - [Aleksandar Knezevic Knele]
+- [Lucy Copp]
 - [Sunny Bhuee](https://github.com/SunnyBhuee)
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Fregg](https://github.com/frozenegg)
