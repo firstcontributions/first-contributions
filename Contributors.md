@@ -201,6 +201,7 @@ Adam Blaylock
 - [Lepra](https://github.com/lepra2020)
 - [Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Erjon Dervishaj](https://github.com/Erjon95)
+-[Eti Reznikov](https://github.com/EtiReznikov)
 - [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
 - [HasanCobanoglu](https://github.com/hasancbngl)
