@@ -74,6 +74,7 @@ Adam Blaylock
 - [Vivek Chauhan](https://github.com/vivekchauhan88)
 - [Armaan Mangat](https://github.com/Armaan-Mangat)
 - [Patoman90](https://github.com/Patoman90)
+- [Zi Teoh](https://github.com/zineanteoh)
 - [Jose G Perez Taveras](https://github.com/josegpt)
 - [Andy Chung] (https://github.com/chung01107)
 - [KarinaNi] (https://github.com/KarinaNi)
