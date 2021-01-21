@@ -177,6 +177,7 @@ Adam Blaylock
 - [Julie Michaud](https://github.com/jlmichaud)
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [ehye](https://github.com/ehye)
+- [Riya](https://github.com/RR-08)
 - [Fabrizzio Gonzales](https://github.com/fabrizzio-gz/)
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Cody Gronning](https://github.com/CodingWithCody)
