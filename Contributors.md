@@ -9150,6 +9150,7 @@ Shubham Gupta
 - [shen](https://github.com/sheny1xuan/first-contributions)
 - [Vi1234sh12](https://github.com/Vi1234sh12)
 - [Gustavo Baptista](https://github.com/gustavoggsb)
+- [Olivia Gambitsis](https://github.com/olivia-gambitsis)
 - [Edy Michel](https://github.com/edmichs)
 - [Kyle Smith](https://github.com/sKorpion19091)
 - [Abdulla Jaber]
