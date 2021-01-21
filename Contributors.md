@@ -5289,6 +5289,7 @@ Shubham Gupta
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 - raj chordai
 - [Andrew Mukare](https://github.com/JudgeFudge19)
+- [Daniel Haas](https://github.com/danzhaas)
 - [Jeremy Wong](http://github.com/jwjeremy)
 - [Kali Littlefield](https://github.com/Kali-Littlefield)
 - [Steven Eubank](http://github.com/smeubank)
