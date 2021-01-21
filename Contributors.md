@@ -9082,6 +9082,7 @@ Shubham Gupta
 - [Nabakanta Deuri](https://github.com/ay3ay3)
 - [Shveta]
 - [Fernanda Provasi](https://github.com/Feprovasi)
+- [sheng812](https://github.com/sheng812)
 - [Quang Nguyen](https://github.com/quang-sudo)
 - [acphil2](https://github.com/acphil2)
 - [Arif Jehda-Oh](https://github.com/arifjehoh)
