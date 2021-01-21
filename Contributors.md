@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Junaire Edris Buico](https://github.com/jun-edris)
@@ -8061,6 +8061,7 @@ Shubham Gupta
 - [migomi3](https://github.com/migomi3)
 - [Roy Jara](https://github.com/royjara)
 - [Shmulik Cohen](https://github.com/anuk909)
+- [Johnson Tong](https://github.com/longtongj28)
 - [bidetaggle](https://github.com/bidetaggle)
 - [deeryizhixiaolu](https://github.com/deeryizhixiaolu)
 - [Sean Kim](https://github.com/seank97)
@@ -9240,3 +9241,4 @@ Shubham Gupta
 - [Shi0n](https://github.com/iShi0n)
 -[Yingying](https://github.com/YingyingPeng22)
 - [Taehoon] (https://github.com/yeothn)
+- [Johnson Tong] (https://github.com/longtongj28)
