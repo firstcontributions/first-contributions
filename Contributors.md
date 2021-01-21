@@ -9233,6 +9233,7 @@ Shubham Gupta
 - [carlytos](https://github.com/carlytos)
 - [Maxi100a](https://github.com/maxi100a)
 - [hh](https://github.com/Poppycop)
+- [Shane](https://github.com/ShaneDavison)
 - [mathkruger](https://github.com/mathkruger)
 - [Isa AlDoseri](https://github.com/isados)
 - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
@@ -9243,3 +9244,4 @@ Shubham Gupta
 - [Shi0n](https://github.com/iShi0n)
 -[Yingying](https://github.com/YingyingPeng22)
 - [Taehoon] (https://github.com/yeothn)
+-
