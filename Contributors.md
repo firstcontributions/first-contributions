@@ -3409,7 +3409,8 @@ Shubham Gupta
 - [Vaibhav Sahni](https://github.com/vaibhavsahni009)
 - [Roberto Castelli](https://github.com/RobertoCastelli)
 - [Victor Paz](https://github.com/vkcp)
-- [David Fraser <-- is cool](https://github.com/DavidMatthewFraser)
+- [David Fraser <-- is cool](https://github.com/DavidMatthewFraser) >
+- [Sky Truong](https://github.com/sky-truong)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
 - [Amruta Koshe](https://github.com/AmrutaKoshe)
