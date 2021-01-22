@@ -7471,6 +7471,7 @@ Shubham Gupta
 - [Clay Xiong](https://github.com/tlightk)
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
+- Diego de la Rosa
 - [Matt Wood](https://github.com/MattWood21)
 - [Erik](https://github.com/erikhm91)
 - [Robert Hunziker](https://github.com/osgard1)
