@@ -12,6 +12,7 @@
 - [Arash-11](https://github.com/Arash-11)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
 - Hafed omar 
+- Prateek Thakur(https://github.com/PrateekThakur29)
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - Daniel Danaee
