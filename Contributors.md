@@ -10,6 +10,7 @@
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Arash-11](https://github.com/Arash-11)
+- [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
 - Hafed omar 
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
