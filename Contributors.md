@@ -12,6 +12,7 @@ Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - Daniel Danaee
 - Roohi Sharma
+- Amisha Mohapatra(https://github.com/Amisha-Mohapatra)
 - [Himanshu Singh](https://github.com/himanshusingh-GitHub)
 - Mahmoud Elhalwany
 - [Ethan Jackson] (https::/github.com/ethantjackson)
