@@ -21,6 +21,7 @@ Adam Blaylock
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
+- [Justin Wright](https://github.com/JustinRWright)
 - [Graham Albachten](https://github.com/albachteng)
 - [Ashutosh Bisht](https://github.com/ashutosh0305)
 - [Niall Stapleton](https://github.com/nstapleton1)
