@@ -1,5 +1,4 @@
 # Contributors
--Kaila Iglesias (https://github.com/kaila1)
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Junaire Edris Buico](https://github.com/jun-edris)
@@ -7,6 +6,7 @@
 - [Nick Stevens](https://github.com/nkstevens)
 - [Jack Aitken](https://github.com/jackaitken)
 - [Maria Bardon](https://github.com/mariabardon)
+- [Kaila Iglesias](https://github.com/kaila1)
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Arash-11](https://github.com/Arash-11)
 - Hafed omar 
@@ -8758,7 +8758,6 @@ Shubham Gupta
 - Nidhi
 - Gno Navi
 - [Yoni Saka Samudra](https://github.com/yonisaka)
-  [Carter Taylor](https://github.com/cartertaylor)
 - [Harshit](https://github.com/HarshitSachdeva)
 - [Kyle Dunn](https://github.com/enablingturtle)
 - [Ghislaine Latorraca](https://github.com/Lenakirara)
