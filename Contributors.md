@@ -7497,6 +7497,7 @@ Shubham Gupta
 - amin-da
 - [James Ledger](https://github.com/JamesLedger)
 - [steelslugs](https://github.com/steelslugs)
+- [Lane Moseley](https://www.lanemoseley.dev)
 - [Dhruval Patel](https://github.com/D-U-Patel)
 - [Tatiana Tarnovskaya](https://github.com/ttarnov)
 - Chaitra Rai
