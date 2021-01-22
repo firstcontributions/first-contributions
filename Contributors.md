@@ -135,6 +135,7 @@ Adam Blaylock
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Fathonah Zuchriyah](https://github.com/afaafa)
 - [Benjamin Shao](https://github.com/benjshao)
+- [Calvin Harper](https://github.com/cch264)
 - [Daryl](https://github.com/dwturrentine)
 - [Parul S Kumar](https://github.com/ParulSKumar)
 - [Chris Garlick](https://github.com/Chrisgarlick)
