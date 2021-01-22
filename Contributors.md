@@ -1913,6 +1913,7 @@ Shubham Gupta
 - [Ashutosh](https://github.com/TheDynamicPunk)
 - [Mahima Gupta]
 - [Yash Gupta](https://github.com/yashgupta966)
+- [Lionel Laské](https://github.com/llaske/)
 - [Ricky Lin]
 - [Samuel Chen](https://github.com/xiaoyang413)
 - [Rahul Verma ](https://github.com/rahulvermafreelancer)
