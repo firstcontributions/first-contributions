@@ -191,6 +191,7 @@ Adam Blaylock
 - [ehye](https://github.com/ehye)
 - [Riya](https://github.com/RR-08)
 - [Fabrizzio Gonzales](https://github.com/fabrizzio-gz/)
+- [Carolz](https://github.com/carolz19/)
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Cody Gronning](https://github.com/CodingWithCody)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
