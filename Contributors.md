@@ -2699,6 +2699,7 @@ Shubham Gupta
 - [Justin Sebastian](https://github.com/Justin-Thomas-Sebastian)
 - pika-pi
 - [Jerry Xu](https://github.com/jerryxu158)
+- [Pavel Polcr](https://github.com/pavelpolcr)
 - [Alison](https://github.com/alisonzhu)
 - [Saumya Bhatt](https://github.com/Saumya-Bhatt)
 - [Tiago Oliveira](https://github.com/tiagoods)
