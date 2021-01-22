@@ -15,6 +15,7 @@ Adam Blaylock
 - Roohi Sharma
 - Amisha Mohapatra(https://github.com/Amisha-Mohapatra)
 - [Himanshu Singh](https://github.com/himanshusingh-GitHub)
+- [Srijita Mallick](https://github.com/msrijita18)
 - Mahmoud Elhalwany
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [meet0806](https://github.com/meet0806)
