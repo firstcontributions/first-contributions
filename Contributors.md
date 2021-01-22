@@ -15,6 +15,7 @@ Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - Daniel Danaee
 - Roohi Sharma
+- Kyle Mo
 - Amisha Mohapatra(https://github.com/Amisha-Mohapatra)
 - [Himanshu Singh](https://github.com/himanshusingh-GitHub)
 - [Srijita Mallick](https://github.com/msrijita18)
