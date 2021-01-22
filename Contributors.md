@@ -310,7 +310,7 @@ Adam Blaylock
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
 - [Syfa Collins](https://github.com/SyfaCollins)
 - [Kanika](https://github.com/knikm)
-- [ASKVYAS](https://github.com/askvyas)
+- [askvyas](https://github.com/askvyas)
 - [K.Yogeshwara Krishna](https://github.com/yogeshwara-krishna)
 - [Yuxin Li](https://github.com/yuxinli915)
 - [charalamm](https://github.com/charalamm)
