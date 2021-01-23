@@ -425,6 +425,7 @@ Adam Blaylock
 - [Matthew Ricklefs](https://github.com/matthewricklefs)
 - [Aleksandar Knezevic Knele]
 - [Lucy Copp]
+- Marissa T
 - [Sunny Bhuee](https://github.com/SunnyBhuee)
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Fregg](https://github.com/frozenegg)
