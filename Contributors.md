@@ -9283,3 +9283,4 @@ Shubham Gupta
 -[Pinak Sawhney](https://github.com/pinaksawhney)
 - Joseph Tobing
 -[Spiros Stampoulis] (https://github.com/SpirosStampoulis)
+- [Richard Totolo](https://github.com/souzatotolo)
