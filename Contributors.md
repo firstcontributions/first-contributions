@@ -73,6 +73,7 @@ Adam Blaylock
 - [Sameeksha233] (https://github.com/Sameeksha233)
 - [ITAGH-CODE] (https://github.com/ITAGH-CODE)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
+- [Alireza Farokhi](https://github.com/olemon403)
 - [Krishna Mohan](https://github.com/lkm01)
 - [Shahroz K] (https://github.com/shia5347)
 - [Shreevathsa] (https://github.com/svatsdev)
