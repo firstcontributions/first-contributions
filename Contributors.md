@@ -34,6 +34,7 @@ Adam Blaylock
 - [Graham Albachten](https://github.com/albachteng)
 - [Ashutosh Bisht](https://github.com/ashutosh0305)
 - [Niall Stapleton](https://github.com/nstapleton1)
+- [Adam Larson](http://github.com/adlarson88)
 - [Michael Barry](https://github.com/barryCrunch)
 - [Aram Ceballos](https://github.com/aramceballos)
 - [Joseph Haryanto](https://github.com/Jos02378)
