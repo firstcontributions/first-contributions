@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Terence Fisher](https://github.com/Terence-Fisher)
@@ -298,6 +298,7 @@ Adam Blaylock
 - [somendra kumar](https://github.com/somendrakr)
 - [Harsh Kumar](https://github.com/harsh6768-svg/first-contributions)
 - [Mariano Hurtado de Mendoza](https://github.com/4tydev)
+- [Patricia Ayuso 🤩](https://github.com/ayusopatricia)
 - [Andrew Yurick](https://github.com/andrewyurick)
 - [Queena](https://github.com/canikillyoulater)
 - [Sudha Yadavalli 12.16.2020](https://github.com/SudhaYadavalli)
