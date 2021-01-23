@@ -174,6 +174,7 @@ Adam Blaylock
 - [Bhaskar R](https://github.com/Bhaskar-R)
 - [Daniel Oluborode](https://github.com/danolu)
 - [frank_fsk](https://github.com/wfyanmnm)
+- [Rohan Sachan](https://github.com/rohan-sachan)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
 - [Divij Sharma](https://github.com/divij26)
