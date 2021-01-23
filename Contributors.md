@@ -66,6 +66,7 @@ Adam Blaylock
 - [Nheljee Rose Garcia](https://github.com/garcian5)
 - [Bukola Kehinde](https://github.com/buquio)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
+- Kyle Austria
 - [Nandini Proothi](https://github.com/nandiniproothi)
 - [Chris Tapia](https://github.com/tapz1)
 - [Aruneema Deshmukh](https://github.com/AruneemaXD)
