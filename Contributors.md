@@ -18,6 +18,7 @@
 - Prateek Thakur(https://github.com/PrateekThakur29)
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
+- [Charan Vasu](https://github.com/charan1973)
 - Daniel Danaee
 - Roohi Sharma
 - Kyle Mo
