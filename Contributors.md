@@ -8674,6 +8674,7 @@ Shubham Gupta
 - Madhav Desai
 - [Taha Rehah](https://github.com/taharh)
 - [Thomas Wu](https://github.com/Spectrumlitez)
+- [Yogi Sarumaha](https://github.com/sarumaha)
 - [Daniel Tran](https://github.com/polyomi)
 - [Jackson Fernando](https://github.com/jacksonfernando)
 - [Charles Walsh](https://github.com/CharlesWalsh)
