@@ -12,6 +12,7 @@
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Arash-11](https://github.com/Arash-11)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
+- Sidharth Sethi (https://github.com/TechSpiritSS)
 - Hafed omar 
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
