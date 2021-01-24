@@ -2326,6 +2326,7 @@ Shubham Gupta
 - [Atharva Gulhane](https://github.com/atharvarockx)
 - [Muskan Agarwal](https://github.com/musk101)
 - [Shubham Singh](https://github.com/shubhamcodez)
+- [Akshay Bhagawat Nemane](https://github.com/AkshayBN14)
 - [Thiago Takehana](https://github.com/thiagotakehana)
 - [Apleht](https://github.com/apleht)
 - [VivekSharma](https://github.com/viveksharma2382000)
