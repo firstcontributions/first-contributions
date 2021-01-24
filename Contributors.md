@@ -9194,6 +9194,7 @@ Shubham Gupta
 - [Jabbar Bie](https://github.com/jabbarbie)
 - Fatemeh Khaledian(https://github.com/fatemehkhaledian)
 - [Mahmoud Hussein] (https://github.com/MhmoudAlim)
+- [Joe Forrester] (https://github.com/cujaf6)
 - [Uduru0522](https://github.com/Uduru0522)
 - [Hanabi](https://github.com/hanabi7654321)
 - [Gabriel QR] (https://github.com/gabrielqr-code)
