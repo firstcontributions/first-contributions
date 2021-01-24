@@ -66,6 +66,7 @@ Adam Blaylock
 - [Avi Desai](https://github.com/avidesai)
 - [King Phyte](https://github.com/king-phyte)
 - [Emily Teng](https://github.com/eteng2022)
+- Fresh Olives
 - [Nheljee Rose Garcia](https://github.com/garcian5)
 - [Bukola Kehinde](https://github.com/buquio)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
