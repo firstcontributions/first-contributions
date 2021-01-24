@@ -9300,3 +9300,4 @@ Shubham Gupta
 - [Blank Space](https://stackoverflow.com/)
 - [Kelvin Ou](https://github.com/cyanaspect/)
 - [naruhodoPotato](https://github.com/naruhodoPotato/)
+- [Hiccstrid2019] (https://github.com/Hiccstrid2019)
