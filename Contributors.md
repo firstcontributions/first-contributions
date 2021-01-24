@@ -9292,4 +9292,4 @@
 - [Blank Space](https://stackoverflow.com/)
 - [Kelvin Ou](https://github.com/cyanaspect/)
 - [naruhodoPotato](https://github.com/naruhodoPotato/)
-- [Holly Mathieson](https://github.com/HollyJM81)
+- [Holly JM](https://github.com/HollyJM81/)
