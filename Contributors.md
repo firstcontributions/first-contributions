@@ -2,6 +2,7 @@
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Terence Fisher](https://github.com/Terence-Fisher)
+- [Karthik](https://github.com/01101011karthik)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
 - [Nick Stevens](https://github.com/nkstevens)
