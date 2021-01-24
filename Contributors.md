@@ -8350,6 +8350,7 @@ Shubham Gupta
 - [Eunice Kang](https://github.com/eunicemk)
 - [Dines Larsen](https://github.com/nyd3lig)
 - [Julia Zeng](https://github.com/jzeng23)
+- [Lovnesh Bhardwaj](https://github.com/lov-1234)
 - [Chloe Lee](https://github.com/wookyunglee97)
 - [Mohammad Zamran](https://github.com/ZamranxD)
 - [Farah Davoodi](https://github.com/in-formation)
