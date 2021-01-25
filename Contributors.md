@@ -27,6 +27,7 @@ Adam Blaylock
 - Daniel Danaee
 - Roohi Sharma
 - Kyle Mo
+- [Samrath](https://github.com/samrath-sudesh-acharya) 
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
 - [Skyler Hanson] (https://github.com/swhanson)
