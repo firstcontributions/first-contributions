@@ -9313,3 +9313,5 @@ Shubham Gupta
 - [Hiccstrid2019] (https://github.com/Hiccstrid2019)
 - [Carolina Rojas] (https://github.com/crojas2)
 - [Ranit Barman] (https://github.com/LordGrim9987)
+- [Jay Halpati](https://github.com/JHalpati)
+
