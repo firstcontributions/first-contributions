@@ -3440,6 +3440,7 @@ Shubham Gupta
 - [oralcagan](https://github.com/oralcagan)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [_Djson_]()
+- [Bridgett] (https://github.com/bkokawaii)
 - [Andre Sorpreso](https://github.com/asorpreso)
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Saulius Baltramonaitis](https://github.com/simpson2)
