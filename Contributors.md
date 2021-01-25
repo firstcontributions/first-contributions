@@ -39,6 +39,7 @@ Adam Blaylock
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Mike Liang](https://github.com/yak-fumblepack)
+- [Muhammad Urwatil Wutsqo](https://github.com/wutsqo)
 - [Justin Wright](https://github.com/JustinRWright)
 - [Graham Albachten](https://github.com/albachteng)
 - [Ashutosh Bisht](https://github.com/ashutosh0305)
