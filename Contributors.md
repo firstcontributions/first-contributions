@@ -23,6 +23,7 @@
 - Prateek Thakur(https://github.com/PrateekThakur29)
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
+- [Sepehr Soltani](https://github.com/sepisoltani)
 - [Charan Vasu](https://github.com/charan1973)
 - Daniel Danaee
 - Roohi Sharma
