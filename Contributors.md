@@ -119,6 +119,7 @@ Adam Blaylock
 - [Ivan Ajenjo](https://github.com/ivanajenjo)
 - [Hiba Alkurd](https://github.com/Hiba-alkurd)
 - [Pransin](https://github.com/pransin)
+- [Shrey Chandra](https://github.com/ShreyChandra)
 - [Kreyren](https://github.com/Kreyren)
 - [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
