@@ -5692,6 +5692,7 @@ Shubham Gupta
 - [Ralph Quirequire](https://github.com/ralphqq)
 - [Meenakshi Kushwaha](https://github.com/meenakshi-kushwaha)
 - [Austin Chen]
+- [Rudi](https://github.com/Rudi-proj)
 - [Marcel Gehlen](https://github.com/mgehlen)
 - [Justin Cagle](https://github.com/jcagle2001)
 - [Miguel Vellasco](https://github.com/mvellasco)
