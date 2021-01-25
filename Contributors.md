@@ -9304,3 +9304,4 @@ Shubham Gupta
 - [Kelvin Ou](https://github.com/cyanaspect/)
 - [naruhodoPotato](https://github.com/naruhodoPotato/)
 - [Hiccstrid2019] (https://github.com/Hiccstrid2019)
+- [Carolina Rojas] (https://github.com/crojas2)
