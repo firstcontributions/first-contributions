@@ -9289,6 +9289,7 @@ Shubham Gupta
 - [carlytos](https://github.com/carlytos)
 - [Maxi100a](https://github.com/maxi100a)
 - [hh](https://github.com/Poppycop)
+- [Jason Smith](https://https://github.com/aleykat)
 - [mathkruger](https://github.com/mathkruger)
 - [Isa AlDoseri](https://github.com/isados)
 - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
