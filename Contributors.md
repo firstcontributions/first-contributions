@@ -26,6 +26,7 @@ Adam Blaylock
 - [Charan Vasu](https://github.com/charan1973)
 - Daniel Danaee
 - Roohi Sharma
+- mavidevbcn
 - Kyle Mo
 - [Samrath](https://github.com/samrath-sudesh-acharya) 
 - Liam Scholl (https://github.com/las589)
