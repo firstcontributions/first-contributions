@@ -237,6 +237,7 @@ Adam Blaylock
 - [Ogunleye Oluwafemi](https://github.com/thatFemicode)
 - [Meet Shah](https://github.com/Meet2674)
 - [Hasan Ozgur Guclu](https://github.com/muzkaviy)
+- [imad boudguigue](https://github.com/imad-boudguigue)
 - [Lepra](https://github.com/lepra2020)
 - [Ikoyo Daniel](https://github.com/Rd-Trends)
 - [Erjon Dervishaj](https://github.com/Erjon95)
