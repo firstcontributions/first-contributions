@@ -11,6 +11,7 @@ Noah Miller
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
 - [Kaila Iglesias](https://github.com/kaila1)
+- [Progga Parmita Zaman](https://github.com/zpparmita)
 - [crpto-bug](https://github.com/crpto-bug)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
