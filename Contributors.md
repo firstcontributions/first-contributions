@@ -159,6 +159,7 @@ Adam Blaylock
 - [Tharindu Weerasinghe](https://github.com/tharindu-nw)
 - [Cristi](https://github.com/cristicretu)
 - [Lauric](https://github.com/Lauric-h)
+- [Dominik](https://github.com/chassit19)
 - [Chaitanya](https://github.com/bmchaitu)
 - [Anish Raghavendra](https://github.com/z404)
 - [Marc Lucraft](https://github.com/marclucraft)
