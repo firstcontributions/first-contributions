@@ -32,6 +32,7 @@ Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - [Charan Vasu](https://github.com/charan1973)
 - Daniel Danaee
+- Hannah Trenary
 - Roohi Sharma
 - mavidevbcn
 - Kyle Mo
