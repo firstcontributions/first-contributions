@@ -698,6 +698,7 @@ Adam Blaylock
 - [0xmery](https://github.com/0xmery)
 - [cvsriya]
 - [BAIBHAV KUMAR PANDA](https://github.com/baibhav0305)
+- [Mokili Isaac Janda](https://github.com/MIJanda)
 - [Mwesiga Benjamin](https://github.com/mwesigab)
 - [catboxer](https://github.com/catboxer)
 - [Isaac Contreras](https://github.com/icontreras16)
