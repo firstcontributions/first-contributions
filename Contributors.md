@@ -9335,6 +9335,7 @@ Shubham Gupta
 - [Hiccstrid2019] (https://github.com/Hiccstrid2019)
 - [Carolina Rojas] (https://github.com/crojas2)
 - [Ranit Barman] (https://github.com/LordGrim9987)
+- [Guust Ysebie] (https://github.com/guustYsebie)
 - [Habib Kalia] (https://github.com/hkalia)
 - [Sahil Velhal] (https://github.com/sahil-777)
 - [Kyler Carling]
