@@ -1707,6 +1707,7 @@ Shubham Gupta
 - [Jennifer Kajiwara](https://github.com/jenkaji/)
 - [Rodrigo Yap](https://github.com/rogri2)
 - [Aftab]
+- [Jacob Penney](https://github.com/Cold-Oats)
 - [Lois Shank](https://github.com/LoisGitStuff)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
