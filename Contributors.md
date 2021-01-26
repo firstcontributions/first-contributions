@@ -996,6 +996,7 @@ Shubham Gupta
 - [Alice Li] (https://github.com/alicejli)
 - [Will Powell](https://github.com/wjkpowell/)
 - [David Martinez](https://github.com/davidmartinezfl)
+- [Vishek Kumar](https://github.com/kumarvishek)
 - [Dence Kurian](https://github.com/dencekurian)
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis](https://github.com/KHALIDFRANCIS)
