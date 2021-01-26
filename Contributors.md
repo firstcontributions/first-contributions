@@ -9342,3 +9342,4 @@ Shubham Gupta
 - [Kyler Carling]
 - [Krishna Chaitanya Reddy V](https://github.com/KrishnaChaitanya1)
 - [Raqeeb Ameen](https://github.com/Ameen-Raqeeb)
+- [James Miller] (https://github.com/JamesMamsy)
