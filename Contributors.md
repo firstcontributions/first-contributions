@@ -4193,6 +4193,7 @@ Shubham Gupta
 - [Jnthn Sltn](https://github.com/jnthn-sltn)
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
+- [André Ricardo Silva](https://github.com/andrerics)
 - radekcz
   -wissal
 - jamose0
