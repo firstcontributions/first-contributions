@@ -183,6 +183,7 @@ Adam Blaylock
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Pablo Sosa Sisini](https://github.com/pasosa-s)
 - [Francesco Cappetti](https://github.com/KappaOnGit)
+- [Nick Botticelli](https://github.com/nick-botticelli)
 - [Amir Najafi](https://github.com/Official21A)
 - [Asif Shaik](https://github.com/asifshaik02)
 - [Abdulmalik Adekunle](https://github.com/Adekunle27)
