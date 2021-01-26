@@ -27,6 +27,7 @@ Noah Miller
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
 - [JÐCanete](https://github.com/jdcanete)
+- David Zalewski (https://github.com/hootisman)
 - Prateek Thakur(https://github.com/PrateekThakur29)
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
