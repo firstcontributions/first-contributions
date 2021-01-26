@@ -16,6 +16,7 @@ Noah Miller
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - [Arash-11](https://github.com/Arash-11)
+- [Akshat Jain] (https://github.com/akshatjain9434)
 -[flora kunjumon]
 - [Sani Mustapha](https://github.com/mustapha3341)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
