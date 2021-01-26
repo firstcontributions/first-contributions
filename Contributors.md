@@ -1359,6 +1359,7 @@ Shubham Gupta
 - [Shaik Sarfraj](https://github.com/ShaikSarfraj-tech)
 - [harvey_Shepherd](https://github.com/harveyshepherd)
 - [Esad Simitçioğlu](https://github.com/EsadSimitcioglu)
+- [Inu John Oshiogiemhe](https://github.com/milinches)
 - [Roshaan Ali](https://github.com/RoshaanAli)
 - [Ishant Singla](https://github.com/ishantsingla18)
 - [Aryan Kapoor](https://github.com/Aryankpoor)
