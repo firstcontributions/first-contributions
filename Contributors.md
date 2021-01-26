@@ -856,6 +856,7 @@ Shubham Gupta
 - Brandon Wright
 - [Amandou](https://github.com/amandou)
 - Ratul Dawar
+- [Utkarsh Shendge](https://github.com/utkarshshendge)
 - [Kamil Sikora](https://github.com/sikorakamil26)
 - [Abbey Centers](https://github.com/abbeyLC)
 - [Tamil Selvan](https://github.com/tamizhad)
