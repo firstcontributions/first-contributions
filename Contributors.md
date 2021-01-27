@@ -1,5 +1,5 @@
 # Contributors
-
+-[Nitin Singh Rawat](https://github.com/nitin5901)
 -[Anurag Chaurasia](https://github.com/Anurag331)
 - [Jingjing] (https://github.com/jingjing714)
 Noah Miller
