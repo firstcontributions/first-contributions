@@ -53,6 +53,7 @@ Adam Blaylock
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
+- [Brandon Roberts] (https://github.com/brobert8)
 - Ceylan
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
