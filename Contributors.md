@@ -5747,6 +5747,7 @@ Shubham Gupta
 - [Shivam Rathore](https://github.com/rathore05)
 - [Alex Florides](https://github.com/Alexf97)
 - [Amanda B](https://github.com/critterconvention)
+- [Jonathan Nation](https://github.com/Jon-Nation)
 - [Nwosa Emeka Afamefuna](https://github.com/NwosaEmeka)
 - [Ignacio Riego](https://github.com/ojopiojo)
 - [Harsh Prabhu](https://github.com/harsh1599)
