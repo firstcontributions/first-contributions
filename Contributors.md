@@ -5,6 +5,7 @@
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Karthik](https://github.com/01101011karthik)
+- [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
