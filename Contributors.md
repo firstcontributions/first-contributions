@@ -434,6 +434,7 @@ Adam Blaylock
 - [Bhavika Gianey](https://github.com/Bhavika-Gianey)
 - [Augusto Sales](https://github.com/acssales/)
 - [Vicent Garcia](https://github.com/VicentGN)
+- [Carson Pociask](https://github.com/cpociask00)
 - [Vickjoe](https://github.com/vickjoeobi)
 - [Joseph Provey](https://github.cpm/joeprojovi)
 - [Josef Manfredonia](https://github.com/anaveragejosef)
