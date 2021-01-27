@@ -9357,4 +9357,5 @@ Shubham Gupta
 - [James Miller] (https://github.com/JamesMamsy)
 - [Maasa Kono] (https://github.com/maasa-k)
 - [William Fuertes](https://github.com/WilliamFuertes)
+- [JP Indiongco] (https://github.com/jpzs444)
 - [Bansi Babriya](https://github.com/bansi36)
