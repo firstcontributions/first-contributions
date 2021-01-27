@@ -6,6 +6,7 @@ Noah Miller
 - [Karthik](https://github.com/01101011karthik)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
+- [Yaejin Han](https://github.com/yaejinHan)
 - [Nick Stevens](https://github.com/nkstevens)
 - [Jimmy Baranello](https://github.com/jbaranel)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
