@@ -1,22 +1,28 @@
 # Contributors
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
+- [Jingjing] (https://github.com/jingjing714)
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Karthik](https://github.com/01101011karthik)
+- [Moshiul Rabbi](https://github.com/MoshiulRabbi)
+- [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
+- [Yaejin Han](https://github.com/yaejinHan)
 - [Nick Stevens](https://github.com/nkstevens)
 - [Jimmy Baranello](https://github.com/jbaranel)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
+- [Ravi Shankar P] (https://github.com/ravishankarste)
 - [crpto-bug](https://github.com/crpto-bug)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - [Arash-11](https://github.com/Arash-11)
+- [Atsushi Omata](https://github.com/ctxzz)
 - [Akshat Jain] (https://github.com/akshatjain9434)
 -[flora kunjumon]
 - [Daniel Ram] (https://github.com/dani8899)
@@ -27,18 +33,23 @@ Noah Miller
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
 - [JÐCanete](https://github.com/jdcanete)
+- David Zalewski (https://github.com/hootisman)
 - Prateek Thakur(https://github.com/PrateekThakur29)
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - [Charan Vasu](https://github.com/charan1973)
+- [Tirta Adi G](https://github.com/tirtavium)
 - Daniel Danaee
+- Hannah Trenary
 - Roohi Sharma
 - mavidevbcn
 - Kyle Mo
+- Yerdaulet
 - [Samrath](https://github.com/samrath-sudesh-acharya) 
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
 - [Skyler Hanson] (https://github.com/swhanson)
+- Michael Reid (https://github.com/sleepycoder72)
 - Amisha Mohapatra(https://github.com/Amisha-Mohapatra)
 - [Himanshu Singh](https://github.com/himanshusingh-GitHub)
 - [Srijita Mallick](https://github.com/msrijita18)
@@ -46,6 +57,7 @@ Adam Blaylock
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
+- [Brandon Roberts] (https://github.com/brobert8)
 - Ceylan
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
@@ -88,6 +100,7 @@ Adam Blaylock
 - [Bukola Kehinde](https://github.com/buquio)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
 - Kyle Austria
+- Suhail ahmed
 - [Nandini Proothi](https://github.com/nandiniproothi)
 - [Chris Tapia](https://github.com/tapz1)
 - [Aruneema Deshmukh](https://github.com/AruneemaXD)
@@ -689,6 +702,7 @@ Adam Blaylock
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Rafał Orłowski]
+- [David Jiang](https://github.com/jiang94)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Michael John Dollente](https://github.com/xjanggo)
 - [Nick Vallejos](https://github.com/Guambo)
@@ -5737,6 +5751,7 @@ Shubham Gupta
 - [Shivam Rathore](https://github.com/rathore05)
 - [Alex Florides](https://github.com/Alexf97)
 - [Amanda B](https://github.com/critterconvention)
+- [Jonathan Nation](https://github.com/Jon-Nation)
 - [Nwosa Emeka Afamefuna](https://github.com/NwosaEmeka)
 - [Ignacio Riego](https://github.com/ojopiojo)
 - [Harsh Prabhu](https://github.com/harsh1599)
@@ -6899,6 +6914,7 @@ Shubham Gupta
 - [Rishiraj Purohit](https://github.com/rishirajpurohit)
 - [Tyler John](https://github.com/tyjohn134)
 - gh-4-me
+[muhammad mohsin]
 - [DozzerCT8](https://github.com/DozzerCR8)
 - [Daemon](https://github.com/prameya21)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
@@ -9333,8 +9349,14 @@ Shubham Gupta
 - [Hiccstrid2019] (https://github.com/Hiccstrid2019)
 - [Carolina Rojas] (https://github.com/crojas2)
 - [Ranit Barman] (https://github.com/LordGrim9987)
+- [Guust Ysebie] (https://github.com/guustYsebie)
 - [Habib Kalia](https://github.com/hkalia)
 - [Sahil Velhal] (https://github.com/sahil-777)
 - [Kyler Carling]
 - [Krishna Chaitanya Reddy V](https://github.com/KrishnaChaitanya1)
 - [Raqeeb Ameen](https://github.com/Ameen-Raqeeb)
+- [James Miller] (https://github.com/JamesMamsy)
+- [Maasa Kono] (https://github.com/maasa-k)
+- [William Fuertes](https://github.com/WilliamFuertes)
+- [JP Indiongco] (https://github.com/jpzs444)
+- [Bansi Babriya](https://github.com/bansi36)
