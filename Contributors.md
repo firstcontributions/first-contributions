@@ -9364,3 +9364,4 @@ Shubham Gupta
 - [William Fuertes](https://github.com/WilliamFuertes)
 - [JP Indiongco] (https://github.com/jpzs444)
 - [Bansi Babriya](https://github.com/bansi36)
+- [Francesco Franco]
