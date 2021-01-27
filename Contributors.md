@@ -1,6 +1,7 @@
 # Contributors
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
+-[Anuar Hage](https://github.com/anuarhage)
 - [Jingjing] (https://github.com/jingjing714)
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
@@ -723,7 +724,7 @@ Adam Blaylock
 - [Samuel Sorial](https://github.com/Samuel-Sorial)
 - [Samuel McKean](https://github.com/samuelmckean)
 - [Suman Jha](https://github.com/frozenplanet14)
-- [Ricardo Medeiros](https://github.com/medeirosricardo)
+/bin/bash: q: command not found
 - [Success John](https://github.com/success-john)
 - [Dave Northern](https://github.com/davenorthern)
 - [Harsh Trivedi](https://github.com/Harsh4999)
