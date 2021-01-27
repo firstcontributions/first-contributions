@@ -44,6 +44,7 @@ Adam Blaylock
 - Roohi Sharma
 - mavidevbcn
 - Kyle Mo
+- Ian Ambos
 - Yerdaulet
 - [Samrath](https://github.com/samrath-sudesh-acharya) 
 - Liam Scholl (https://github.com/las589)
