@@ -35,6 +35,7 @@ Noah Miller
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - [Charan Vasu](https://github.com/charan1973)
+- [Tirta Adi G](https://github.com/tirtavium)
 - Daniel Danaee
 - Hannah Trenary
 - Roohi Sharma
