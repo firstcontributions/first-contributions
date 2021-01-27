@@ -21,6 +21,7 @@ Noah Miller
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - [Arash-11](https://github.com/Arash-11)
+- [Atsushi Omata](https://github.com/ctxzz)
 - [Akshat Jain] (https://github.com/akshatjain9434)
 -[flora kunjumon]
 - [Daniel Ram] (https://github.com/dani8899)
