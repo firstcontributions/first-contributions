@@ -45,6 +45,7 @@ Adam Blaylock
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
 - Ceylan
+- [Cynthia Iradukunda](https://github.com/ciradu2204)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Szymon Bednorz](https://github.com/dsonyy)
