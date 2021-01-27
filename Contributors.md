@@ -1,6 +1,7 @@
 # Contributors
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
+- [Jingjing] (https://github.com/jingjing714)
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Karthik](https://github.com/01101011karthik)
