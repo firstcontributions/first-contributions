@@ -2,6 +2,7 @@
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
+- Peter Galvan
 - [Jingjing] (https://github.com/jingjing714)
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
