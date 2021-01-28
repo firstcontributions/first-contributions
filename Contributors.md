@@ -19,6 +19,7 @@ Noah Miller
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
 - [Ravi Shankar P] (https://github.com/ravishankarste)
+- [Santi Hoyos](https://github.com/santihoyos15)
 - [crpto-bug](https://github.com/crpto-bug)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
