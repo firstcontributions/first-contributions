@@ -5,7 +5,7 @@
 - [Jack Aitken](https://github.com/jackaitken)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
-- Lisa Kim
+- [Lisa Kim] (https://github.com/lisankim)
 - Hafed omar
   Adam Blaylock
 - Daniel Danaee
