@@ -7085,6 +7085,7 @@ Shubham Gupta
 - [Jasper](https://github.com/japzio)
 - [Lalit Khatri](https://github.com/Lalit-Kumar-Khatri)
 - [Verum Emanio](https://github.com/VerumEmanio)
+- [Alex Dorrington](https://github.com/ohranj)
 - [Robin Trumpie](https://github.com/rtrumpie)
 - [Jianxing Ke](https://github.coom/kjr21362)
 - [Vickey Mandal](https://github.com/VickeyMandal)
