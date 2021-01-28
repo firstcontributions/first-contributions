@@ -11,6 +11,7 @@ Noah Miller
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
+- [Danilo Marques](https://github.com/DaniloMarques1)
 - [Yaejin Han](https://github.com/yaejinHan)
 - [Nick Stevens](https://github.com/nkstevens)
 - [Jimmy Baranello](https://github.com/jbaranel)
