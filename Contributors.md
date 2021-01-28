@@ -41,6 +41,7 @@ Adam Blaylock
 - [Charan Vasu](https://github.com/charan1973)
 - [Tirta Adi G](https://github.com/tirtavium)
 - Daniel Danaee
+- Trevor Johnson
 - Hannah Trenary
 - Roohi Sharma
 - mavidevbcn
