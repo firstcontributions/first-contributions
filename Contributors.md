@@ -8571,6 +8571,7 @@ Shubham Gupta
 - [Nick Marshall](https://github.com/marshallnw18)
 - [Maitreya Dudhgaonkar](https://github.com/virus2116)
 - [Naka Rapstar](https://github.com/Nakasz)
+- [Mat Sayle](https://github.com/msayle81)
 - [Fauzan Edris](https://github.com/FauzanEdris)
 - [Avleen Kaur](https://github.com/avleen2898)
 - [Pedro Perez](https://github.com/pedrousp)
