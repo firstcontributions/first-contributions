@@ -22,6 +22,7 @@ Noah Miller
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
+- Pink Floyd
 - [Arash-11](https://github.com/Arash-11)
 - [Atsushi Omata](https://github.com/ctxzz)
 - [Akshat Jain] (https://github.com/akshatjain9434)
@@ -328,7 +329,7 @@ Adam Blaylock
 - [Koshima Goyal](https://github.com/koshimagoyal)
 - [Abhay Raghuvanshi](https://github.com/abhayaman669)
 - [Shravan](https://github.com/kvshravan)
-- [Jibinlal](https://github.com/Jibinlal)
+-9 [Jibinlal](https://github.com/Jibinlal)
 - [Bhrigu B](https://github.com/bhrigub)
 - [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
