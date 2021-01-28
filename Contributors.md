@@ -9366,3 +9366,4 @@ Shubham Gupta
 - [JP Indiongco] (https://github.com/jpzs444)
 - [Bansi Babriya](https://github.com/bansi36)
 - [Francesco Franco]
+- [BangCryDie](https://github.com/BangCryDie)
