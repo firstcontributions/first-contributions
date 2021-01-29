@@ -8,6 +8,7 @@
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
+- [Emily Ramirez] (https://github.com/emily-ramirez)
 - [Karthik](https://github.com/01101011karthik)
 - [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
