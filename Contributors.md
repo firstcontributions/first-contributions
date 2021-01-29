@@ -203,6 +203,7 @@ Adam Blaylock
 - [Daryl](https://github.com/dwturrentine)
 - [Parul S Kumar](https://github.com/ParulSKumar)
 - [Chris Garlick](https://github.com/Chrisgarlick)
+- [Rishabh Khandelwal](https://github.com/rishkwal)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
 - [Finn Trefzer] (https://github.com/F1nn-T)
 - [Morgan Jones](https://github.com/morgsj)
