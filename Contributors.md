@@ -31,6 +31,7 @@ Noah Miller
 - [Atsushi Omata](https://github.com/ctxzz)
 - [Akshat Jain] (https://github.com/akshatjain9434)
 -[flora kunjumon]
+- [Armando Martinez]
 - [Daniel Ram] (https://github.com/dani8899)
 - [Andreas-48] (https://github.com/Andreas-48)
 - [Sani Mustapha](https://github.com/mustapha3341)
