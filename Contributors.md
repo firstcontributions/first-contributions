@@ -6199,6 +6199,7 @@ Shubham Gupta
 - [Kinoahi](https://github.com/Kinoahi)
 - [Arash Gh](https://github.com/arashgh68)
 - [Tim Crammond](https://github.com/tcramm0nd/)
+- [David Hermann] (https://github.com/David-Hermann)
 - [Cac](https://github.com/CPlag)
 - [Tony-oldport](https://github.com/tony-oldport/)
 - [Jonathan Barker](https://github.com/jonathanbarker)
