@@ -63,6 +63,7 @@ Adam Blaylock
 - [Himanshu Singh](https://github.com/himanshusingh-GitHub)
 - [Srijita Mallick](https://github.com/msrijita18)
 - Mahmoud Elhalwany
+- [Jonathan Gomez] (https://github.com/jgomezpr)
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
