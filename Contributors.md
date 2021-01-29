@@ -404,6 +404,7 @@ Adam Blaylock
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
 - [Bonifase](https://github.com/Bonifase)
 - [Can Çevik](https://github.com/canccevik)
+- Jakob Pirkl
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
@@ -628,7 +629,7 @@ Adam Blaylock
 - [ryu-take](https://github.com/ryu-take)
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
-- Pranjal Srivastava
+- Pranjal Srivastav
 - [Nick Crews](https://github.com/mcrews35)
 - [Justin Vocke](https://github.com/justin-vocke)
 - [Ken Walsh](https://github.com/kenwals/)
