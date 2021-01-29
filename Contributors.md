@@ -9,6 +9,7 @@
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
+- [Archit Gopal](https://github.com/Architrixs)
 - [Karthik](https://github.com/01101011karthik)
 - [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
