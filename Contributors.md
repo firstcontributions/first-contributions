@@ -9366,6 +9366,7 @@ Shubham Gupta
 - [Taehoon] (https://github.com/yeothn)
 -[Tony] (https://github.com/tonyvu0605)
 -[Erwin Rahayu] (https://github.com/artmxra7)
+-[Dakota Battle] (https://github.com/battledakota)
 -[Nick Garza] (https://github.com/adagar)
 -[Pinak Sawhney](https://github.com/pinaksawhney)
 - Joseph Tobing
