@@ -19,6 +19,7 @@ Noah Miller
 - [Arash-11](https://github.com/Arash-11)
 - [Akshat Jain] (https://github.com/akshatjain9434)
 -[flora kunjumon]
+-[nateDogg]
 - [Daniel Ram] (https://github.com/dani8899)
 - [Sani Mustapha](https://github.com/mustapha3341)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
