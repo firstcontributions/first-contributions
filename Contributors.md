@@ -7719,6 +7719,7 @@ Shubham Gupta
 - [atglenio](https://github.com/atglenio)
 - [BabsBerlin](https://github.com/BabsBerlin)
 - [Brandon Boettcher](https://github.com/boett)
+- [Omri Levi] (https://github.com/omria503)
 - [m-jay](https://github.com/m-jay)
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mihilt](https://github.com/mihilt)
