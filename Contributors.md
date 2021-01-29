@@ -4,6 +4,7 @@
 -[Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
 - [Jingjing] (https://github.com/jingjing714)
+- [Caleb Pomayo] (https://github.com/kalebkun)
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 Noah Miller
 -[Terence Fisher](https://github.com/Terence-Fisher)
