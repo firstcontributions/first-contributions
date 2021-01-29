@@ -1,4 +1,4 @@
-# Contributors
+	# Contributors
 
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
@@ -12,6 +12,7 @@ Noah Miller
 - [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
 - [Junaire Edris Buico](https://github.com/jun-edris)
+- [Kylie Cook](https://github.com/KylieNCook)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
 - [Danilo Marques](https://github.com/DaniloMarques1)
 - [Yaejin Han](https://github.com/yaejinHan)
