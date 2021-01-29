@@ -1,5 +1,5 @@
 	# Contributors
-
+-[Jake Stuck](https://github.com/StuckInsideJake)
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
