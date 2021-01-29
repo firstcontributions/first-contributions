@@ -9381,3 +9381,4 @@ Shubham Gupta
 - [Bansi Babriya](https://github.com/bansi36)
 - [Francesco Franco]
 - [BangCryDie](https://github.com/BangCryDie)
+- [Karina Anaya](https://github.com/kaa468)
