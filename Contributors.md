@@ -169,6 +169,7 @@ Adam Blaylock
 - [Vishal Bhatane](https://github.com/vish-321)
 - [Elinnoel Nuñez](https://github.com/elinnunez)
 - [William Rabbermann](https://github.com/steezy104)
+- [Ulugbek Abdullayev] (https://github.com/Ulugbek1024)
 - [Ayush Sharma](https://github.com/GAMhackER)
 - [Shivam Kalra](https://github.com/shivamkalra13)
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
