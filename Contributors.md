@@ -10,6 +10,7 @@
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Maria Bardon](https://github.com/mariabardon)
 - [Anushka Jain](https://github.com/anushkarjain)
+- [tamizh143](https://github.com/tamizh143)
 - [Arash-11](https://github.com/Arash-11)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
 - Sidharth Sethi (https://github.com/TechSpiritSS)
