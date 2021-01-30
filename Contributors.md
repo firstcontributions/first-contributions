@@ -60,7 +60,7 @@ Adam Blaylock
 - Trevor Johnson
 - Hannah Trenary
 - Roohi Sharma
-- Ezylryb77
+- [Ezylryb77](https://github.com/Ezylryb77)
 - mavidevbcn
 - Kyle Mo
 - Ian Ambos
