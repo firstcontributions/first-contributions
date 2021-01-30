@@ -121,6 +121,7 @@ Adam Blaylock
 - [Emily Teng](https://github.com/eteng2022)
 - [Andres Gomez](https://github.com/andresgmz)
 - Fresh Olives
+- [Daniel Infante](https://github.com/kancurochat)
 - [Nheljee Rose Garcia](https://github.com/garcian5)
 - [Jens Martin](https://github.com/JensMartinGit)
 - [Bukola Kehinde](https://github.com/buquio)
