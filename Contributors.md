@@ -502,6 +502,7 @@ Adam Blaylock
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
 - [Chinmay Mulay](https://github.com/cmulay)
 - [Marek Nagy](https://github.com/marnagy)
+- ritika
 - [Atharva Chandwadkar](https://github.com/atharva21-stack)
 - [Aditya Bhandoh](https://github.com/adityaB02)
 - [Lucas João](https://github.com/lucasljoliveira)
