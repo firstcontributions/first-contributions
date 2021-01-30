@@ -9,7 +9,7 @@ Samantha Milligan
 - [Caleb Pomayo] (https://github.com/kalebkun)
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 Noah Miller
-Zachary Kaufman(https://github.com/zchkfmn)
+Zach Kaufman(https://github.com/zchkfmn)
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
 - [Archit Gopal](https://github.com/Architrixs)
