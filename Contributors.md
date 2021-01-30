@@ -97,6 +97,7 @@ Adam Blaylock
 - [Joseph Haryanto](https://github.com/Jos02378)
 - [Abhilashini A J](https://github.com/abhilashini)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
+- [Daniel Desmond](https://github.com/dezy-x2)
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
