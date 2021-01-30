@@ -4,6 +4,7 @@ Samantha Milligan
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
+- [Chayson Spigarelli] (https://github.com/chasespigarelli21)
 - [Jingjing] (https://github.com/jingjing714)
 - [Miles Brown] (https://github.com/Qweezl)
 - [Caleb Pomayo] (https://github.com/kalebkun)
