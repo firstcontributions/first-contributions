@@ -9415,3 +9415,4 @@ Shubham Gupta
 - [Hrishi Dharam] (https://github.com/hrishisd)
 - [Sagar Varma]
 - [LFGaming](https://github.com/LFGaming)
+- [Tautaus](https://github.com/tautaus)
