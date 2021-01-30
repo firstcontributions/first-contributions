@@ -46,6 +46,7 @@ Zach Kaufman(https://github.com/zchkfmn)
 - [Sani Mustapha](https://github.com/mustapha3341)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
 - Sidharth Sethi (https://github.com/TechSpiritSS)
+- Kaden Seward
 - Hafed omar 
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
