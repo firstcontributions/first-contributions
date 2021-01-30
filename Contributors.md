@@ -398,6 +398,7 @@ Adam Blaylock
 - [Yuxin Li](https://github.com/yuxinli915)
 - [charalamm](https://github.com/charalamm)
 - [Napier](https://github.com/napierbb)
+- [kbrown4600](https://github.com/kbrown4600)
 - [moeka802](https://github.com/moeka802)
 - [jonatan5524](https://github.com/jonatan5524)
 - [LaxmanPache](https://github.com/laxmanpache)
