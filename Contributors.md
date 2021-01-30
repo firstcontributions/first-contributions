@@ -107,6 +107,7 @@ Adam Blaylock
 - [Preeti Murmu](https://github.com/Preeti2095)
 - [Naushad Alam](https://github.com/Naushad9458)
 - [Sophiya-Singh](https://github.com/sophiya02)
+- [Karen Zellers](https://github.com/kzellers)
 - [biswa](https://github.com/bhai-bhai-hero)
 - [TiffanySantos](https://github.com/TiffanySantos)
 - [nickjvturner](https://github.com/nickjvturner)
