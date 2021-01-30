@@ -167,6 +167,7 @@ Adam Blaylock
 - [Pransin](https://github.com/pransin)
 - [Shrey Chandra](https://github.com/ShreyChandra)
 - [Kreyren](https://github.com/Kreyren)
+- [Kadan Seward] (https://github.com/koseward)
 - [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
