@@ -2699,6 +2699,7 @@ Shubham Gupta
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Aditya Baravkar](https://github.com/Aditya182)
 - [Philip Kouchner](https://github.com/PhilipK-webdev)
+- [Pranav Singh](https://github.com/theBeginner86)
 - [Tanay Kamath](https://github.com/2tanayk)
 - [Gaurisha R Srivastava](https://github.com/Gaurisha21)
 - [Muskaan Baveja](https://github.com/muskuu)
