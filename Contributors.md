@@ -42,6 +42,7 @@ Zach Kaufman(https://github.com/zchkfmn)
 - [Redwanul Haque Sourave](https://github.com/redwanulsourav)
 - [Akshat Jain] (https://github.com/akshatjain9434)
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
+- Sugat Dhole
 - Jonathan White Velasco
  [flora kunjumon]
 - [Armando Martinez]
