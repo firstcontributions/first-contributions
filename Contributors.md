@@ -875,6 +875,7 @@ Shubham Gupta
 - Azri Soufi
 - Vrinda Tyagi
 - Colton Francis
+- Robert Bednarek
 - [Aleem Osman](https://github.com/aleemosman)
 - [John Robinson](https://github.com/klondikekid)
 - [Sparrow](https://github.com/Sparrowez)
