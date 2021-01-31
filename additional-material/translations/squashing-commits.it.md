@@ -11,7 +11,7 @@ Per prima cosa, effettua un git log per rivedere i commit che vorrai unire nel t
 git log
 ```
 
-Tu dovresti vedere una serie di commit in questo modo:  
+Dovresti vedere una serie di commit in questo modo:  
 
 ```
 commit blablabla
@@ -25,19 +25,19 @@ Date:   10/10/20
     Commit message 2
 ```
 
-Ora che vedi i commit che desidere unire in uno, possiamo procedere eseguendo un ```git rebase```. Supponiamo che tu sei già familiare con ```git rebase```, possiamo iniziare a compattare i commit nella modalità interattiva di git rebase che puoi attivare in questo modo:  
+Ora che vedi i commit che desideri unire in uno, possiamo procedere eseguendo un ```git rebase```. Supponiamo tu sia già familiare con ```git rebase```, possiamo iniziare a compattare i commit nella modalità interattiva di git rebase che puoi attivare in questo modo:  
 
 ```
 git rebase -i
 ```
 
-Ora con il rebase interattivo puoi specificare il punto iniziale e finale di quanto indietro vuoi andare con i commit. In questo modo:  
+Ora, con il rebase interattivo puoi specificare il punto iniziale e finale di quanto indietro vuoi andare con i commit. In questo modo:  
 
 ```
 git rebase -i HEAD~2
 ```
 
-L'esecuzione di questo comando ti mostrarà qualcosa come il seguente:  
+L'esecuzione di questo comando ti mostrerà qualcosa come il seguente:  
 
 ```
 pick blablabla Changing test01.txt file
@@ -52,16 +52,16 @@ pick blablabla2 Adding dummy01.txt file
 #  f, fixup = come "squash", ma scarta il messaggio di log di questo commit
 #  x, exec = esegui il comando (il resto della linea) usando la shell
 #
-# Queste linee possono essere riordinate; loro saranno eseguite dall'alto verso il basso.
+# Queste linee possono essere riordinate; saranno eseguite dall'alto verso il basso.
 #
 # Se rimuovi una linea qui QUESTO COMMIT SARA' PERSO.
 #
-# Tuttavia, se tu rimuovi tutto, il rebase sarà annullato.
+# Tuttavia, se rimuovi tutto, il rebase sarà annullato.
 #
 # Nota che i commit vuoti sono commentati
 ```
 
-Perciò se vuoi compattare ```blablabla2``` in ```blablablabla``` tu dovrai cambiare come segue:  
+Perciò se vuoi compattare ```blablabla2``` in ```blablablabla```, dovrai cambiare come segue:  
 
 ```
 pick blablabla Changing test01.txt file
@@ -69,7 +69,7 @@ squash blablabla2 Adding dummy01.txt file
 
 ```
 
-Se tutto andrà bene, tu otterrai un risultato che somiglia a questo:  
+Se tutto andrà bene, otterrai un risultato simile a questo:  
 
 ```
 # Questa è una combinazione di 2 commit.
@@ -83,4 +83,4 @@ commit message 2
 
 Che puoi liberamente cambiare prima di decidere di uscire dall'editor per salvare le modifiche.  
 
-Esegui nuovamente git log ti dovrebbe mostrare il messaggio di commit che hai inserito prima di uscire dalla schermata con i commit uniti in uno solo.  
+Eseguire nuovamente git log dovrebbe mostrarti il messaggio di commit, che hai inserito prima di uscire dalla schermata, con i commit uniti in uno solo.  

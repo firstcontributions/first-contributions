@@ -1,13 +1,11 @@
 # Annullare un commit locale (Undo-ing)
 
-Per annullare un commit locale, tutto quello che devi fare è:  
+Per annullare un commit locale, l'unico comando da eseguire è:  
 ```
 git reset
 ```
 
-Questo comando resetterà la tua *staging area* con il commit più recente, ma i cambiamenti fatti alla tua *working directory* non verranno cambiati. Quindi tu potrai ancora ri-committare il tuo precedente commit.  
-
-Puoi inoltre eseguire questo comando:  
+Questo comando resetterà la tua *staging area* con il commit più recente, ma i cambiamenti fatti alla tua *working directory* non saranno modificati. Quindi potrai ancora ri-committare le tue modifiche. Altrimenti, se desideri solo rimuovere un file dal commit precedente, puoi eseguire questo comando:  
 ```
 git reset <file>
 ```
@@ -28,14 +26,11 @@ $ git add tutorial.php
 $ git commit -m "Changed tutorial.php"
 ```
 
-Mettiamo il caso che hai incasinato il tuo repository locale e vuoi solo ripristinarlo all'ultimo commit.
-In questo caso puoi eseguire il seguente comando:  
+Mettiamo il caso tu abbia incasinato il tuo repository locale e voglia semplicemente ripristinarlo all'ultimo commit. In questo caso puoi eseguire il seguente comando:  
 ```
 git reset --hard
 ```
-Il comando non solo ripristinerà la tua *staging area*, ma annullerà tutti i cambiamenti sui file all'ultimo commit.  
-La modalità ```--hard``` dice anche a Git di annullare tutte le modifiche nella tua *working directory*.  
-Dovresti eseguirlo solo quando sei veramente sicuro di gettar via tutto il tuo lavoro in locale.  
+Il comando non solo ripristinerà la tua *staging area*, ma ripristinerà tutti i cambiamenti sui file all'ultimo commit. La modalità ```--hard``` comunica a Git anche di annullare tutte le modifiche nella tua *working directory*. Dovresti eseguirlo solo nel caso tu sia veramente sicuro di voler gettar via tutto il tuo lavoro in locale.  
 
 Esempio dell'uso di ```git reset --hard```  
 ```
@@ -52,6 +47,6 @@ $ git commit -m "Continued dev"
 # Decidi di rimuovere tutto
 $ git reset --hard HEAD~2
 ```
-Il comando ```git reset --hard HEAD~2``` sposta il ramo corrente indietro di 2 commit in una sola volta annullando tutte le modifiche che hai fatto e rimuovendo i 2 *snapshots* che abbiamo appena creato nella cronologia del progetto.  
+Il comando ```git reset --hard HEAD~2``` sposta il ramo corrente indietro di 2 commit in una sola volta, annullando tutte le modifiche che hai fatto e rimuovendo i 2 *snapshots* che abbiamo appena creato nella cronologia del progetto.  
 
-P.s. Non eseguire mai ```git reset --hard``` se hai già inviato i tuoi commit ad un repository condiviso poiché causerà problemi a tutti sul quel repository.  
+P.s. Non eseguire mai ```git reset --hard``` se hai già inviato i tuoi commit ad un repository condiviso, altrimenti causerà problemi a tutti coloro che lavorano correntemente con quel repository.  

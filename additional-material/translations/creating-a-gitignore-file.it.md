@@ -5,10 +5,10 @@ Il file *.gitignore* è un file di testo che dice a Git quali file o cartelle ig
 Un file *.gitignore* locale è solitamente posizionato nella cartella radice di un progetto. Puoi anche creare un file *.gitignore* globale e qualsiasi voce in questo file verrà ignorata in tutti i tuoi repository Git.  
 
 ## Perché .gitignore
-Ora potresti domandarti perché volere che git ignori certi file e cartelle. Questo perché tu non vuoi che siano tracciati file come quelli di *build*, di cache, altri file di configurazione locale come i *node_modules*, di compilazione, file temporanei creati dall'*IDE*, ecc. Normalmente è usato per evitare di committare file temporanei della tua cartella di lavoro che non sono di utilità per i tuoi collaboratori.  
+Ora potresti domandarti perché volere che git ignori certi file e cartelle. Questo perché non vogliamo che siano tracciati file come quelli di *build*, di cache, altri file di configurazione locale come i *node_modules*, di compilazione, file temporanei creati dall'*IDE*, ecc. Normalmente è usato per evitare di committare file temporanei della tua cartella di lavoro che non sono di utilità per i tuoi collaboratori.  
 
 ## Per iniziare
-Per creare un file *.gitignore* locale crea un file di testo e chiamalo ```.gitignore``` (ricordati di includere il ```.``` all'inizio). Poi modifica questo file in base alle tue necessità. Ciascuna nuova linea dovrebbe elencare un file o una cartella aggiuntiva che vuoi che Git ignori.  
+Per creare un file *.gitignore* locale, crea un file di testo e chiamalo ```.gitignore``` (ricordati di includere il ```.``` all'inizio). Poi modifica questo file in base alle tue necessità. Ciascuna nuova linea dovrebbe elencare un file o una cartella aggiuntiva che vuoi che Git ignori.  
 
 Le voci in questo file possono anche seguire uno schema di corrispondenza (*matching pattern*).  
 
@@ -42,7 +42,7 @@ git config --global core.excludesfile ~/.gitignore_global
 
 ```
 
-Questo comando creerà il file ```~/.gitignore_global```. Ora tu puoi modificare questo file allo stesso modo di un file *.gitignore* locale. Tutti i tuoi repository locali ignoreranno i file e le cartelle elencate nel file *.gitignore* globale.  
+Questo comando creerà il file ```~/.gitignore_global```. Ora puoi modificare questo file allo stesso modo di un file *.gitignore* locale. Tutti i tuoi repository locali ignoreranno i file e le cartelle elencate nel file *.gitignore* globale.  
 
 ## Come annullare il tracciamento dei file precedentemente committati dal nuovo .gitignore
 
@@ -54,7 +54,7 @@ git rm --cached filename
 
 Per annullare il tracciamento di ogni file nel *.gitignore*:  
 
-Innanzitutto, committare tutte le modifiche in sospeso nel codice, e poi eseguire:  
+Innanzitutto, committa tutte le modifiche in sospeso nel codice, e poi esegui:  
 
 ```
 git rm -r --cached
