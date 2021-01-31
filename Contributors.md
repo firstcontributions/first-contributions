@@ -960,6 +960,7 @@ Shubham Gupta
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
+- [Amarjit Singh Gaba](https://github.com/asinghgaba)
 - [Amrit Shukla](https://github.com/amritshukla001)
 - [Scott Henwood](https://github.com/ScottHenwood)
 - [Anubhav Ashish](https://github.com/camelCaseStyle)
