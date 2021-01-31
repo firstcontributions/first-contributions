@@ -1431,6 +1431,7 @@ Shubham Gupta
 - [Cooper Craighead](https://github.com/ccraighea/)
 - [Sapna Kumari](https://github.com/Sapna-21)
 - [Nicky Chew](https://github.com.nickyc11)
+- [Shailendra Singh](https://github.com/ishailendra)
 - [Philippe Clement](https://github.com/cflep/)
 - [Serena](https://github.com/itsmeReRe/)
 - [Jason Chavez Jr.](https://github.com/jchavez2)
