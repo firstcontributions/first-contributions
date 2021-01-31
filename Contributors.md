@@ -11,6 +11,7 @@ Samantha Milligan
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 Noah Miller
 Zach Kaufman(https://github.com/zchkfmn)
+-[Suj P](https://github.com/sujap)
 -[Terence Fisher](https://github.com/Terence-Fisher)
 -[Niranjan Hegde](https://github.com/Niranjan155)
 -[Travis Joldersma](https://github.com/15JoldersmaT)
