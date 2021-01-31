@@ -87,6 +87,7 @@ Adam Blaylock
 - [Brandon Roberts] (https://github.com/brobert8)
 - Ceylan
 - [Hannah Campbell](https://github.com/hannahckc)
+- [Caroline Kistler](https://github.com/carolinekistler)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Szymon Bednorz](https://github.com/dsonyy)
 - [Mike Liang](https://github.com/yak-fumblepack)
