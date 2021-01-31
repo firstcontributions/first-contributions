@@ -13,6 +13,7 @@ Noah Miller
 Zach Kaufman(https://github.com/zchkfmn)
 -[Terence Fisher](https://github.com/Terence-Fisher)
 -[Niranjan Hegde](https://github.com/Niranjan155)
+-[Travis Joldersma](https://github.com/15JoldersmaT)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
 - [Archit Gopal](https://github.com/Architrixs)
 - [Karthik](https://github.com/01101011karthik)
