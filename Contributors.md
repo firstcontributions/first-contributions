@@ -2924,6 +2924,7 @@ Shubham Gupta
 - [Allison Harry](https://github.com/aHarry01)
 - [Cornelia Johnson]()
 - [Mateusz Ostrowski]
+- [Tejesh Itha](https://github.com/ivsntejesh)
 - [Iulian Caleanu](https://github.com/DayOne723)
 - [Pinak Datta](https://github.com/Pinak-coder)
 - [Koteswar Rao Meesala](https://github.com/koteswar375)
