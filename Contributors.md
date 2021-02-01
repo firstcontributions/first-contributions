@@ -860,6 +860,7 @@ Shubham Gupta
 - [CesarAAJunior](https://github.com/CesarAAJunior)
 - [Anna Griffin](https://github.com/annagriffin)
 - [Joao Almeida](https://github.com/joao-vta)
+- [Mathilde Bachy]
 - [Savreen Kaur](https://github.com/skaur728)
 - [Kelly Davis](https://github.com/kad1001)
 - [Danielle Inkster](https://github.com/DanielleInkster)
