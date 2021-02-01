@@ -14,6 +14,7 @@ Samantha Milligan
 Noah Miller
 Zach Kaufman(https://github.com/zchkfmn)
 -[Terence Fisher](https://github.com/Terence-Fisher)
+-[Edward Cerverizzo] (https://github.com/serverizzo)
 -[Niranjan Hegde](https://github.com/Niranjan155)
 -[Travis Joldersma](https://github.com/15JoldersmaT)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
