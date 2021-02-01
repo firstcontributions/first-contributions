@@ -66,6 +66,7 @@ Adam Blaylock
 - Daniel Danaee
 - Trevor Johnson
 - Hannah Trenary
+- [Aditya Kumar](https://github.com/ak-51)
 - Roohi Sharma
 - [Ezylryb77](https://github.com/Ezylryb77)
 - mavidevbcn
