@@ -1,6 +1,6 @@
 # Configurazione di git
 
-La prima volta che provi ad eseguire un commit utilizzando git, potresti aver ricevuto un messaggio sul *prompt* come il seguente:  
+La prima volta che provi ad eseguire un commit utilizzando git, potresti ricevere un messaggio sul *prompt* come il seguente:  
 
 ```bash
 $ git commit
@@ -15,7 +15,7 @@ to set your account's default identity.
 Omit --global to set the identity only in this repository.
 ```
 
-Git ha bisogno di sapere chi sei quando crei un commit. Quando lavori in maniera collaborativa, dovresti essere in grado di vedere chi ha modificato quali parti del progetto e quando, è per questo che git è progettato per creare commit legati ad un nome e ad un email.  
+Git ha bisogno di sapere chi sei quando crei un commit. Quando lavori in collaborazione, dovresti essere in grado di vedere chi ha modificato quali parti del progetto e quando, è per questo che git è progettato per creare commit legati ad un nome e ad un email.  
 
 Esistono diversi modi di fornire al comando `git commit` la tua email e il tuo nome, e ne esamineremo qui alcuni.  
 
@@ -23,11 +23,11 @@ Esistono diversi modi di fornire al comando `git commit` la tua email e il tuo n
 
 Quando memorizzi qualcosa nella configurazione globale, è accessibile a livello di sistema in tutti i repository su cui lavori. Questo è il metodo preferito e funziona per la maggior parte dei casi d'uso.  
 
-Per memorizzare qualcosa nella configurazione globale, usa il comando `config` come segue:  
+Per memorizzare qualcosa nella configurazione globale, utilizziamo il comando `config` come segue:  
 
 `$ git config --global <variable name> <value>`
 
-Nel caso dei dettagli dell'utente, lo eseguiamo come segue:  
+Nel caso dei dettagli dell'utente, lo eseguiamo in questo modo:  
 
 ```
 $ git config --global user.email "you@example.com"
@@ -42,7 +42,7 @@ Per memorizzare qualcosa nella configurazione del repository, usa il comando `co
 
 `$ git config <variable name> <value>`
 
-Nel caso dei dettagli dell'utente lo eseguiamo come segue:  
+Nel caso si tratti di dettagli dell'utente, lo usiamo nel modo seguente:  
 
 ```
 $ git config user.email "you@alternate.com"
@@ -53,7 +53,7 @@ $ git config user.name "Your Name"
 
 Questi tipi di configurazione sono limitati al solo comando eseguito. Tutti i comandi git accettano argomenti `-c` prima del verbo di azione per impostare i dati di configurazione temporanei.  
 
-Per memorizzare qualcosa nella configurazione della riga di comando, esegui il seguente comando:  
+Per memorizzare qualcosa nella configurazione della riga di comando, utilizza:  
 
 `$ git -c <variable-1>=<value> -c <variable-2>=<value> <command>`
 
@@ -63,14 +63,14 @@ Nel nostro esempio eseguiremo il comando commit come segue:
 
 ### Note sulla precedenza
 
-Tra i tre metodi descritti qui, l'ordine di precedenza è `command-line > repository > global`. Questo significa che se una variabile è configurata sia nella riga di comando che a livello globale, il valore della riga di comando verrà utilizzato per l'operazione.  
+Tra i tre metodi descritti qui, l'ordine di precedenza è `command-line > repository > global`. Ciò significa che se una variabile è configurata sia nella riga di comando che a livello globale, il valore della riga di comando verrà utilizzato per l'operazione.  
 
 ### Oltre i dettagli dell'utente
 
-Finora abbiamo trattato solo i dettagli dell'utente mentre lavoravamo con la configurazione. Tuttavia, sono disponibili molte altre opzioni di configurazione. Alcune sono:  
+Finora abbiamo trattato solo i dettagli dell'utente mentre lavoravamo con la configurazione. Tuttavia, sono disponibili molte altre opzioni. Alcune sono:  
 
 1.  `core.editor` - per specificare il nome dell'editor di testo utilizzato per scrivere i messaggi di commit, ecc.  
 2.  `commit.template` - per specificare un file nel sistema come modello di commit iniziale.  
 3.  `color.ui` - per specificare un valore booleano per l'utilizzo dei colori nell'output di git.  
 
-Abbiamo estratto alcuni dettagli per facilitarne la comprensione. Per ulteriori approfondimenti, vai su [git-scm.com](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).  
+Abbiamo sintetizzato alcuni dettagli per facilitarne la comprensione. Per ulteriori approfondimenti, visita [git-scm.com](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).  
