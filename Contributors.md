@@ -1,6 +1,7 @@
 	# Contributors
 
 Samantha Milligan
+-[Shapnesh Singh Tiwari](https://github.com/shapnesht)
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
