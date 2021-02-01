@@ -9435,6 +9435,7 @@ Shubham Gupta
 - [Hrishi Dharam] (https://github.com/hrishisd)
 - [Sagar Varma]
 - [Connor Robb](https://github.com/SecretJuice)
+- [Nicholas Robertson](https://github.com/nicholas-robertson)
 - [LFGaming](https://github.com/LFGaming)
 - [Tautaus](https://github.com/tautaus)
 - [Michaela Williams] (https://github.com/michaela-williams)
