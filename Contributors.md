@@ -52,6 +52,7 @@ Zach Kaufman(https://github.com/zchkfmn)
 - Jonathan White Velasco
  [flora kunjumon]
 - [Armando Martinez]
+- [John Abercrombie](https://github.com/jcaber4)
 - [Daniel Ram] (https://github.com/dani8899)
 - [Andreas-48] (https://github.com/Andreas-48)
 - [Sani Mustapha](https://github.com/mustapha3341)
