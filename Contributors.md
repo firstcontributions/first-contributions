@@ -985,6 +985,7 @@ Shubham Gupta
 - [Dave Organ](https://github.com/dk-obrien)
 - [Austin Nguyen](https://github.com/austinvan295)
 - Pooja Muthalik
+- [Billie M](https://github.com/BillieM)
 - [Daniel Fernández](https://github.com/7yrionLannister)
 - [Eli Zhu](https://github.com/mobulture)
 - [Grey Grissom](https://github.com/1gitGrey)
