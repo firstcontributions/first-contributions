@@ -2,6 +2,7 @@
 
 Samantha Milligan
 -[Shapnesh Singh Tiwari](https://github.com/shapnesht)
+-[Armand Sauzay](https://github.com/armand-sauzay)
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
