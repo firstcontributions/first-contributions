@@ -53,6 +53,7 @@ Zach Kaufman(https://github.com/zchkfmn)
 - [Andreas-48] (https://github.com/Andreas-48)
 - [Sani Mustapha](https://github.com/mustapha3341)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
+- [Nigel Powell](https://github.com/sadsongco/)
 - Sidharth Sethi (https://github.com/TechSpiritSS)
 - Hafed omar 
 - [ABD-01](https://github.com/ABD-01)
