@@ -281,6 +281,7 @@ Adam Blaylock
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [ehye](https://github.com/ehye)
 - [Riya](https://github.com/RR-08)
+- [niraj](https://github.com/elementrix05)
 - [Fabrizzio Gonzales](https://github.com/fabrizzio-gz/)
 - [Carolz](https://github.com/carolz19/)
 - [Wagdy-Samy](https://github.com/wagdySamy)
