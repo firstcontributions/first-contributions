@@ -1,4 +1,4 @@
-	# Contributors
+    # Contributors
 
 - Joshua Melo
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
@@ -283,7 +283,7 @@
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Ayomitan Pamilerin](https://github.com/AyDeveloper)
-- [Minyak]  
+- [Minyak]
 - [Jarred Harris](https://github.com/seithman)
 - [Kiran Chand](https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
@@ -1213,7 +1213,7 @@
 - [Mosesobike](https://github.com/Mosesobike)
 - [Thomas Steinacher](https://github.com/tomSteini)
 - Amedyne
-- pslin1  
+- pslin1
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi](https://github.com/koushikjoshi)
@@ -1977,7 +1977,7 @@
 - [William Nicholson](https://github.com/Passenger89)
 - [Alberto Ortiz](https://github.com/albertortizcape)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
-- [William Whitaker](https://github.com/brazilla-ray)  
+- [William Whitaker](https://github.com/brazilla-ray)
 - [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
 - [Akina Ohira](https://github.com/akinaohira)
@@ -9461,7 +9461,8 @@
 - [Michaela Williams](https://github.com/michaela-williams)
 - [Durden Liu](https://github.com/Durdenliu)
 - [Marcode](https://github.com/imarco20)
-- [Raymond Zhang] (https://github.com/rzhang10)
+- [Raymond Zhang](https://github.com/rzhang10)
 - [Niklas Tiede](https://github.com/NiklasTiede)
-- [Sahil Thakur] (https://github.com/sahur123)
-- [Kamal coder] (https://github.com/learner197)
+- [Sahil Thakur](https://github.com/sahur123)
+- [Kamal coder](https://github.com/learner197)
+- [Dot](https://github.com/dotwebdevelop)
