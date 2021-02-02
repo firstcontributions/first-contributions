@@ -9477,3 +9477,4 @@
 - [Sahil Thakur] (https://github.com/sahur123)
 - [Kamal coder] (https://github.com/learner197)
 - [Manon Jeuland] (https://github.com/ManonJld)
+- [Erick Bessa](https://github.com/ErickBessa)
