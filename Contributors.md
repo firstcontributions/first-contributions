@@ -4386,6 +4386,7 @@
 - [Aarkin Karnik](https://github.com/Aarkin7)
 - [microcluster](https://github.com/microcluster)
 - [Sean Gorham](https://github.com/sgorham)
+- justin acevedo (https://github.com/JustinA302)
 - [Sydney Lin](https://github.com/sydneylin12)
 - monaxle
 - Bala Hantsi
