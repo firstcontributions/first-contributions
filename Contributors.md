@@ -9463,6 +9463,6 @@
 - [Marcode](https://github.com/imarco20)
 - [Raymond Zhang](https://github.com/rzhang10)
 - [Niklas Tiede](https://github.com/NiklasTiede)
-- [Sahil Thakur](https://github.com/sahur123)
-- [Kamal coder](https://github.com/learner197)
+- [Sahil Thakur] (https://github.com/sahur123)
+- [Kamal coder] (https://github.com/learner197)
 - [Dot](https://github.com/dotwebdevelop)
