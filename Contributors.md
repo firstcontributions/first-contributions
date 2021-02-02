@@ -1,6 +1,6 @@
     # Contributors
 
-Samantha Milligan -[Shapnesh Singh Tiwari](https://github.com/shapnesht) -[Nagsen Baburao Waghmare](https://github.com/Nagsenwaghmare)
+Samantha Milligan -[Shapnesh Singh Tiwari](https://github.com/shapnesht)
 
 -[Armand Sauzay](https://github.com/armand-sauzay) -[Anurag Chaurasia](https://github.com/Anurag331) -[Anuar Hage](https://github.com/anuarhage)
 
@@ -46,6 +46,7 @@ Samantha Milligan -[Shapnesh Singh Tiwari](https://github.com/shapnesht) -[Nagse
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
 - Sugat Dhole
 - Jonathan White Velasco
+  -Nagsen Baburao Waghmare
   [flora kunjumon]
 - [Armando Martinez]
 - [John Abercrombie](https://github.com/jcaber4)
