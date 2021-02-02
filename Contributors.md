@@ -1,5 +1,6 @@
 	# Contributors
 
+- [Manas Rawat](https://github.com/importlogic)
 - Samantha Milligan
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Armand Sauzay](https://github.com/armand-sauzay)
