@@ -1,7 +1,9 @@
-	# Contributors
+    # Contributors
 
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
+- [Nagsen Waghmare](https://github.com/Nagsenwaghmare)
+
 - [Manas Rawat](https://github.com/importlogic)
 - Samantha Milligan
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
@@ -278,7 +280,7 @@
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Ayomitan Pamilerin](https://github.com/AyDeveloper)
-- [Minyak]  
+- [Minyak]
 - [Jarred Harris](https://github.com/seithman)
 - [Kiran Chand](https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
@@ -1208,7 +1210,7 @@
 - [Mosesobike](https://github.com/Mosesobike)
 - [Thomas Steinacher](https://github.com/tomSteini)
 - Amedyne
-- pslin1  
+- pslin1
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi](https://github.com/koushikjoshi)
