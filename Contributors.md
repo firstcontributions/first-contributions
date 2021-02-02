@@ -5,6 +5,7 @@
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
 - Samantha Milligan
+- Siddhanth Verma
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
