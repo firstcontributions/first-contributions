@@ -46,7 +46,7 @@ Samantha Milligan -[Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
 - Sugat Dhole
 - Jonathan White Velasco
-  -Nagsen Baburao Waghmare
+- [Nagsen Baburao Waghmare ]
   [flora kunjumon]
 - [Armando Martinez]
 - [John Abercrombie](https://github.com/jcaber4)
