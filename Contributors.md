@@ -20,6 +20,7 @@
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
 - Zach Kaufman(https://github.com/zchkfmn)
+- David Lynch(https://github.com/iamdlfl) 
 - [Terence Fisher](https://github.com/Terence-Fisher)
 - [Niranjan Hegde](https://github.com/Niranjan155)
 - [Travis Joldersma](https://github.com/15JoldersmaT)
