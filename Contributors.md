@@ -9452,6 +9452,7 @@
 - [JP Indiongco](https://github.com/jpzs444)
 - [Bansi Babriya](https://github.com/bansi36)
 - [Francesco Franco]
+- James Damewood
 - [BangCryDie](https://github.com/BangCryDie)
 - [Karina Anaya](https://github.com/kaa468)
 - [Quinn Melssen](https://github.com/QJMTech)
