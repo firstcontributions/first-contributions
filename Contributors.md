@@ -6966,6 +6966,7 @@ Shubham Gupta
 - [Tyler Crites](https://github.com/zebbzz)
 - [Ranjith Palanisamy](https://github.com/rr2013)
 - [Sina Kabki](https://github.com/sinacodes95)
+- [Jonathan Ranson](https://github.com/OMANOMNOM)
 - [Sina Scheckenbach](https://github.com/Sina-Sche)
 - [Damian Young](https://github.com/minedude12)
 - [LelPel](https://github.com/lelpel)
