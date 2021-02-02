@@ -64,6 +64,7 @@
 - [tiluckdave](https://github.com/tiluckdave)
 - [Nigel Powell](https://github.com/sadsongco/)
 - Sidharth Sethi (https://github.com/TechSpiritSS)
+- Kaden Seward
 - Hafed omar
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
@@ -193,6 +194,7 @@
 - [Pransin](https://github.com/pransin)
 - [Shrey Chandra](https://github.com/ShreyChandra)
 - [Kreyren](https://github.com/Kreyren)
+- [Kadan Seward] (https://github.com/koseward)
 - [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
