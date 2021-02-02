@@ -1714,6 +1714,7 @@
 - [Jazael Briones](https://github.com/jazaelbriones)
 - [Daniel Ríos](https://github.com/DanielRios-code)
 - [Andrea Rosas](https://github.com/andreanah)
+- [Asad Alam]  (https://github.com/asadrjhk)
 - [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
 - Darshil
