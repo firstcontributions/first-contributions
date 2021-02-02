@@ -52,6 +52,7 @@
 - [Atsushi Omata](https://github.com/ctxzz)
 - [Redwanul Haque Sourave](https://github.com/redwanulsourav)
 - [Akshat Jain] (https://github.com/akshatjain9434)
+- [Natan Feithlicher](https://github.com/Feithlicher)
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
 - Sugat Dhole
 - Jonathan White Velasco
