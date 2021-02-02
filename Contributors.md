@@ -14,6 +14,7 @@ Samantha Milligan
 Noah Miller
 Zach Kaufman(https://github.com/zchkfmn)
 -[Terence Fisher](https://github.com/Terence-Fisher)
+-[Mario Kataoka](https://github.com/MCKataoka)
 -[Edward Cerverizzo] (https://github.com/serverizzo)
 -[Niranjan Hegde](https://github.com/Niranjan155)
 -[Travis Joldersma](https://github.com/15JoldersmaT)
@@ -57,7 +58,7 @@ Zach Kaufman(https://github.com/zchkfmn)
 - [tiluckdave](https://github.com/tiluckdave)
 - [Nigel Powell](https://github.com/sadsongco/)
 - Sidharth Sethi (https://github.com/TechSpiritSS)
-- Hafed omar 
+- Hafed omar
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
 - [JÐCanete](https://github.com/jdcanete)
@@ -77,7 +78,7 @@ Adam Blaylock
 - Kyle Mo
 - Ian Ambos
 - Yerdaulet
-- [Samrath](https://github.com/samrath-sudesh-acharya) 
+- [Samrath](https://github.com/samrath-sudesh-acharya)
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
 - [Skyler Hanson] (https://github.com/swhanson)
@@ -4260,7 +4261,7 @@ Shubham Gupta
 - [Faraz Suhail](https://github.com/Faraz710)
 - [Zafir Khalid](https://github.com/Zafirmk)
 - [Fisayo Ojo](https://github.com/FisayoD)
-- [Juliano Paulo](https://github.com/jsdie099) 
+- [Juliano Paulo](https://github.com/jsdie099)
 - [Vipin Yadav](https://github.com/vip529)
 - [Kyle Paulma](https://github.com/kylepaulma)
 - [Taha Dharamsi](https://github.com/tahanzania)
@@ -4664,7 +4665,7 @@ Shubham Gupta
 - yogeshwaran
 - [Alex Kimeu](https://github.com/alexkimeu0)
 - Kirty Sharma
-- Gubsi 
+- Gubsi
 - [Aadarsh Anand](https://github.com/aadarsh-zoro)
 - [Sikander Nishad](https://github.com/skaisahni)
 - [Vik-Ch](https://github.com/Vik-Ch)
@@ -5004,7 +5005,7 @@ Shubham Gupta
 - [Rully Ihza Mahendra](https://github.com/rllyhz)
 - [Garrett Kent](https://github.com/GarrettKent)
 - milannzz
-- poorvi Vaish 
+- poorvi Vaish
 - [Brijesh Ammanath](https://github.com/bit00)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Elvis Takkis](https://github.com/kruvikonserv)
@@ -5919,7 +5920,7 @@ Shubham Gupta
 - [thojest](https://github.com/thojest)
 - [Gediminas Makutenas](https://github.com/Senatrius)
 - [Miguel Nolasco](https://github.com/manolasco)
-- [Daniel Hunt](https://github.com/DanielHunt16) 
+- [Daniel Hunt](https://github.com/DanielHunt16)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin](https://github.com/bogdaner2)
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
@@ -6325,7 +6326,7 @@ Shubham Gupta
 - [Rishi Khanna](https://github.com/khannar62)
 - [DD155](https://github.com/DD155)
 - [Jon Hawes](https://github.com/JonHawes)
-- [bjaxbjax](https://github.com/bjaxbjax) 
+- [bjaxbjax](https://github.com/bjaxbjax)
 - [Farah Najib](https://github.com/FarahNajib)
 - [keerthimohan93](https://github.com/keerthimohan93)
 - [zer0tolerance](https://github.com/zer0tolerance)
