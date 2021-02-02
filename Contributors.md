@@ -1,5 +1,6 @@
 	# Contributors
 
+- Joshua Melo
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
