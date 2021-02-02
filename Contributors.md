@@ -1,6 +1,7 @@
 	# Contributors
 
--[Raman Thakur](https://github.com/raman-thakur)
+- [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
+- [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
 - Samantha Milligan
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
