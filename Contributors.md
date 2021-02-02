@@ -14,6 +14,7 @@
 - [Caleb Pomayo] (https://github.com/kalebkun)
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 - [Suj P](https://github.com/sujap)
+- [Harrshini](https://github.com/harrshini12)
 - Noah Miller
 - Zach Kaufman(https://github.com/zchkfmn)
 - [Terence Fisher](https://github.com/Terence-Fisher)
