@@ -9454,6 +9454,7 @@
 - [Conrad Murphy](https://github.com/Conrad-Murphy)
 - [Hrishi Dharam](https://github.com/hrishisd)
 - [Sagar Varma]
+- [Kozatchenko Alex] (https://github.com/kozachenko-a) 
 - [Connor Robb](https://github.com/SecretJuice)
 - [Nicholas Robertson](https://github.com/nicholas-robertson)
 - [LFGaming](https://github.com/LFGaming)
