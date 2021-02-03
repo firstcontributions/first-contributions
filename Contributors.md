@@ -2,8 +2,8 @@
 
 -[Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
+- [Ramanpreet Singh](https://github.com/raman5911)
 - Samantha Milligan
-- [Ramanpreet Singh] (https://github.com/raman5911)
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
