@@ -3965,6 +3965,7 @@
 - [Bassam El-Shafie](https://github.com/NoClip)
 - Rodion843
 - [Akhil Manoj](https://github.com/AkM-2018)
+- [Wijaya Ac](https://github.com/Wijayaac)
 - Kanav Mehra
 - Mark Simpson
 - Mirna Salem
