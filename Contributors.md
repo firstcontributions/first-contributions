@@ -4,6 +4,7 @@
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
+- [Ramanpreet Singh](https://github.com/raman5911)
 - Samantha Milligan
 - Siddhanth Verma
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
