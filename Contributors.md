@@ -6,6 +6,7 @@
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
 - [Ramanpreet Singh](https://github.com/raman5911)
+- [Jongie Oaquiera] (https://github.com/joaquiera)
 - Samantha Milligan
 - Siddhanth Verma
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
