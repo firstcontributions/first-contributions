@@ -997,6 +997,7 @@
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
 - [Amarjit Singh Gaba](https://github.com/asinghgaba)
 - [Amrit Shukla](https://github.com/amritshukla001)
+- Soumya Chalakkal
 - [Scott Henwood](https://github.com/ScottHenwood)
 - [Anubhav Ashish](https://github.com/camelCaseStyle)
 - Rich Peaua
