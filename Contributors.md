@@ -1095,6 +1095,7 @@
 - [Jaqueline Gomez](https://github.com/JaquelineGomez)
 - [Aidan Simard](https://github.com/Aidan-Simard)
 - [Alexander Mosquea](https://github.com/ALmsq)
+- [Pranav Nikam] (https://github.com/pranavnikam3110)
 - [Adolfo Rhs](https://github.com/adolforhs)
 - [Roberto Adolfo Herrera Soriano](https://github.com/robsorRS)
 - [JAGCV](https://github.com/joseagcv)
