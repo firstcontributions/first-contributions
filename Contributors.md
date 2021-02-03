@@ -4924,6 +4924,7 @@
 - Shweta Karwa
 - Jeffrey Russell
 - Jacob Beran
+- [Patricio juarez](https://github.com/Patricio104)
 - [Amodu Kehinde](https://github.com/iamkennis)
 - [Nico Cobelo](https://github.com/nicobelo91)
 - [Iago Nunes](https://github.com/iago)
