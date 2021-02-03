@@ -1,5 +1,6 @@
 	# Contributors
 
+- Noah Olono
 - Joshua Melo
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
