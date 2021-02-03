@@ -73,6 +73,7 @@
 - Sidharth Sethi (https://github.com/TechSpiritSS)
 - Kaden Seward
 - Hafed omar
+- [Ivan Vlahov](https://github.com/ivvlspirit)
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
 - [JÐCanete](https://github.com/jdcanete)
