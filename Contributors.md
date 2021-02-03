@@ -9485,3 +9485,4 @@
 - [Manon Jeuland] (https://github.com/ManonJld)
 - [Erick Bessa](https://github.com/ErickBessa)
 - [Hovard He](https://github.com/HovardHe)
+- [Kaori](https://github.com/kaorihata)
