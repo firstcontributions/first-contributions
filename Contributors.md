@@ -9484,3 +9484,4 @@
 - [Kamal coder] (https://github.com/learner197)
 - [Manon Jeuland] (https://github.com/ManonJld)
 - [Erick Bessa](https://github.com/ErickBessa)
+- [Hovard He](https://github.com/HovardHe)
