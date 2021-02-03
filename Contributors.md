@@ -1,5 +1,5 @@
 	# Contributors
-
+- Valerie(https://github.com/ellkrauze)
 - Noah Olono
 - Joshua Melo
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
