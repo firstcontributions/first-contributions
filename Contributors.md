@@ -1,4 +1,4 @@
-	# Contributors
+    # Contributors
 
 - Noah Olono
 - Joshua Melo
@@ -25,7 +25,7 @@
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
 - Zach Kaufman(https://github.com/zchkfmn)
-- David Lynch(https://github.com/iamdlfl) 
+- David Lynch(https://github.com/iamdlfl)
 - [Terence Fisher](https://github.com/Terence-Fisher)
 - [Niranjan Hegde](https://github.com/Niranjan155)
 - [Travis Joldersma](https://github.com/15JoldersmaT)
@@ -294,7 +294,7 @@
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Ayomitan Pamilerin](https://github.com/AyDeveloper)
-- [Minyak]  
+- [Minyak]
 - [Jarred Harris](https://github.com/seithman)
 - [Kiran Chand](https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
@@ -395,7 +395,7 @@
 - [Koshima Goyal](https://github.com/koshimagoyal)
 - [Abhay Raghuvanshi](https://github.com/abhayaman669)
 - [Shravan](https://github.com/kvshravan)
--9 [Jibinlal](https://github.com/Jibinlal)
+  -9 [Jibinlal](https://github.com/Jibinlal)
 - [Bhrigu B](https://github.com/bhrigub)
 - [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
@@ -426,6 +426,7 @@
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
 - [Martijn Wieriks](https://github.com/sepam)
 - [Darwin](https://github.com/FallenLevia)
+- [Sanskar](https://github.com/SanskarMishra)
 - [Manteg Singh](https://github.com/mantegSingh12)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Malcolm Liu](https://github.com/macallon)
@@ -1229,7 +1230,7 @@
 - [Mosesobike](https://github.com/Mosesobike)
 - [Thomas Steinacher](https://github.com/tomSteini)
 - Amedyne
-- pslin1  
+- pslin1
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi](https://github.com/koushikjoshi)
@@ -1729,8 +1730,8 @@
 - [Jazael Briones](https://github.com/jazaelbriones)
 - [Daniel Ríos](https://github.com/DanielRios-code)
 - [Andrea Rosas](https://github.com/andreanah)
-- [Vadim Basakov](https://github.com/vbasakov)  
-- [Asad Alam]  (https://github.com/asadrjhk)
+- [Vadim Basakov](https://github.com/vbasakov)
+- [Asad Alam] (https://github.com/asadrjhk)
 - [Tiago Guirado](https://github.com/tiagoguirado)
 - [Ishita Manchanda](https://github.com/ishitacodes)
 - Darshil
@@ -1995,7 +1996,7 @@
 - [William Nicholson](https://github.com/Passenger89)
 - [Alberto Ortiz](https://github.com/albertortizcape)
 - [Muhammad Usman Ali](https://github.com/muhammadosmanali)
-- [William Whitaker](https://github.com/brazilla-ray)  
+- [William Whitaker](https://github.com/brazilla-ray)
 - [Jaideep Prashar](https://github.com/jaideep156)
 - [Nicole Lucien](https://github.com/nicmlu)
 - [Akina Ohira](https://github.com/akinaohira)
@@ -9478,7 +9479,7 @@
 - [Conrad Murphy](https://github.com/Conrad-Murphy)
 - [Hrishi Dharam](https://github.com/hrishisd)
 - [Sagar Varma]
-- [Kozatchenko Alex] (https://github.com/kozachenko-a) 
+- [Kozatchenko Alex] (https://github.com/kozachenko-a)
 - [Connor Robb](https://github.com/SecretJuice)
 - [Nicholas Robertson](https://github.com/nicholas-robertson)
 - [LFGaming](https://github.com/LFGaming)
