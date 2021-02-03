@@ -4569,6 +4569,7 @@
 - [tozzomat](https://github.com/tozzomat)
 - [Zakariya Mohamed](https://github.com/longarmz)
 - [manish prajapati](https://github.com/Manish-210)
+- [Daniel Lange](https://github.com/dlange82/)
 - [Curt Bridgers](https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
 - [Amit Garg](https://github.com/amit1307)
