@@ -11,23 +11,23 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
+Eğer bilgisayarınızda Git kurulu değil ise [yükleyin]( https://help.github.com/articles/set-up-git/ ).
 
-## Projeyi "çatallama"
+## Projeyi ayırma (fork)
 
-Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallayın.
+Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi ayırın.
 Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 ## Depoyu (Repository) klonlama
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
+Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, ayırdığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
 Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
 
 ```
-git clone "kopyaladığınız-url"
+git clone <kopyaladığınız-url>
 ```
 "kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın.
 
@@ -35,9 +35,9 @@ git clone "kopyaladığınız-url"
 
 Örneğin:
 ```
-git clone https://github.com/kullanıcı-adi/first-contributions.git
+git clone https://github.com/adınız/first-contributions.git
 ```
-`kullanıcı-adi` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions reposunun içeriğini bilgisayarınıza kopyalıyorsunuz.
+`adınız` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions deposunun içeriğini bilgisayarınıza kopyalıyorsunuz.
 
 ## Dal (Branch) oluşturma
 
@@ -46,16 +46,16 @@ Eğer henüz klasör içinde değilseniz komut isteminde ana klasörünün konum
 ```
 cd first-contributions
 ```
-`git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
+`git checkout` komutunu kullanarak yeni bir dal (branch) oluşturun:
 ```
 git checkout -b <sizin-yeni-dal-isminiz>
 ```
 
 Örneğin:
 ```
-git checkout -b ekle-aydin-cagri-dumlu
+git checkout -b aydin-cagri-dumlu-eklendi
 ```
-(Dal ismi içinde *ekle* kelimesinin geçme zorunluluğu yok, fakat bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
+(Dal ismi içinde *eklendi* kelimesinin geçme zorunluluğu yok, fakat bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
 
 ## Gerekli değişiklikleri yapıp bu değişiklikleri onaylama
 
@@ -64,7 +64,7 @@ git checkout -b ekle-aydin-cagri-dumlu
 `Contributors.md` dosyasının sonuna bu satırı ekleyin:
 
 ```
-- [İsminiz](https://github.com/kullanici-adiniz)
+- [İsminiz](https://github.com/adınız)
 ```
 
 Örneğin:
@@ -85,19 +85,19 @@ git add Contributors.md
 
 Şimdi `git commit` komutunu kullanarak değişikliklerinizi onaylayın (commit):
 ```
-git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
+git commit -m "<adınız> katkıda bulunanlar listesine eklendi"
 ```
 `<isminiz>` yerine kendi isminizi yazın.
 
 (Ç.N: Açık kaynak dünyasında dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
 
-## Değişiklikleri GitHub üzerine "itme" (Push)
+## Değişiklikleri GitHub üzerine aktarma (Push)
 
 `git push` komutu ile değişikliklerinizi ittirin:
 ```
-git push origin <ekle-sizin-dal-isminiz>
+git push origin <dal-adınız-eklendi>
 ```
-`<ekle-sizin-dal-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
+`<dal-adınız-eklendi>` yerine daha önce oluşturduğunuz dalın ismini girin.
 
 ## Değişikliklerinizi inceleme için gönderin
 
@@ -109,7 +109,7 @@ Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu g�
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme e-postası alacaksınız.
+Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı (ana dal) ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme e-postası alacaksınız.
 
 ## Bundan sonra ne yapabilirim?
 
