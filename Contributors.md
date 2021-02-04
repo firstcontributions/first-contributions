@@ -1066,6 +1066,7 @@
 - [Christopher Oliner](https://github.com/coliner300)
 - [Ronald Edwards II](https://github.com/rjedwards105)
 - [Rahul Keshervani](https://github.com/RAHUL-KESHERVANI)
+- [Spencer Lim](https://github.com/slimsprojects)
 - [Aman](https://github.com)
 - [Abhishek](https://github.com/a-1043161)
 - [Muhi-Dean Othman](https://github.com/mdothman)
