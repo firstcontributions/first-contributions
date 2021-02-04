@@ -11,7 +11,8 @@
 = [Perikila Chaitanya Kumar] (https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera] (https://github.com/joaquiera)
-- Samantha Milligan
+- Samantha Milliga
+- Kalp Vyas
 - Siddhanth Verma
 - Sharon Greally
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
@@ -105,6 +106,7 @@
 - Ian Ambos
 - Yerdaulet
 - Safiya B.
+- Alexander O'Brien
 - [Samrath](https://github.com/samrath-sudesh-acharya)
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
@@ -471,6 +473,7 @@
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
 - [Isa Kurbanov](github.com)
+- [Samreen Umer](https://github.com/SamreenUmer)
 - [Neil Goyal](https://github.com/Neildagr8)
 - [Terrence Calzada](https://github.com/TezadaConnect)
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
@@ -8575,6 +8578,7 @@
 - [Upasana Sinha](https://github.com/Usinha31)
 - [I am testing]
 - [StrangerTwo]
+- [StrangerThree]
 - [StrangerThreeAgain]
 - [mangoomeh](https://github.com/mangoomeh)
 - [Rohit Sharma](https://github.com/rohitsssharma1989)
