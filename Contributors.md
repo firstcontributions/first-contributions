@@ -106,6 +106,7 @@
 - Ian Ambos
 - Yerdaulet
 - Safiya B.
+- Alexander O'Brien
 - [Samrath](https://github.com/samrath-sudesh-acharya)
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
