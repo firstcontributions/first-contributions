@@ -66,6 +66,7 @@
 - [Natan Feithlicher](https://github.com/Feithlicher)
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
 - Sugat Dhole
+- SaraFarron (https://github.com/SaraFarron)
 - Jonathan White Velasco
 - [flora kunjumon]
 - [Armando Martinez]
