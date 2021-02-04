@@ -47,6 +47,7 @@
 - [Danilo Marques](https://github.com/DaniloMarques1)
 - [Yaejin Han](https://github.com/yaejinHan)
 - [Nick Stevens](https://github.com/nkstevens)
+- [Jared Greenberg](https://github.com/jared-greenberg)
 - [Kurtis Grant](https://github.com/kurtisbrandon)
 - [Jimmy Baranello](https://github.com/jbaranel)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
