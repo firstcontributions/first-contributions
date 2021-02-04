@@ -1,6 +1,7 @@
 	# Contributors
 
 - Noah Olono
+- Dvir Berlo
 - Joshua Melo
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
