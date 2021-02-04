@@ -154,6 +154,7 @@
 - [Elle Ryba](https://github.com/elleryba)
 - [Harshita_Nag](https://github.com/nagharshita16)
 - [Gustavinho](https://github.com/nGustavin)
+- [Zach Sorenson](https://github.com/ZSorenson1) 
 - [Wiktor Zielak](https://github.com/arronax23)
 - [Camilo_Sanchez](https://github.com/puesyo)
 - [Preeti Murmu](https://github.com/Preeti2095)
