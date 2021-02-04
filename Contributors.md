@@ -14,6 +14,7 @@
 - Samantha Milliga
 - Kalp Vyas
 - Siddhanth Verma
+- Patrick O'Mahony
 - Sharon Greally
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Armand Sauzay](https://github.com/armand-sauzay)
