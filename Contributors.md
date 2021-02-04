@@ -13,6 +13,7 @@
 - Samantha Milligan
 - Siddhanth Verma
 - Sharon Greally
+- [Rohan Gupta](https://github.com/ronypixel)
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
