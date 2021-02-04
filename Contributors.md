@@ -5526,6 +5526,7 @@
 - [Zubair Idris Aweda](https://github.com/Zubs)
 - [Yogesh Singh](https://github.com/yogeshsingh01)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
+- [Marta Egorova](https://github.com/MartaEgorova)
 - [GSS Akash](https://github.com/gssakash)
 - [Pemidi](https://github.com/Pemidi)
 - [Rivka Klein](https://github.com/RivkieKlein)
