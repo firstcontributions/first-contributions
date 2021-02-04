@@ -72,6 +72,7 @@
 - SaraFarron (https://github.com/SaraFarron)
 - Jonathan White Velasco
 - [flora kunjumon]
+- [gon2410] (https://github.com/gon2410)
 - [Armando Martinez]
 - [John Abercrombie](https://github.com/jcaber4)
 - [Daniel Ram] (https://github.com/dani8899)
