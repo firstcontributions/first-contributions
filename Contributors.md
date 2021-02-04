@@ -173,6 +173,7 @@
 - [Bukola Kehinde](https://github.com/buquio)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
 - Kyle Austria
+- Philip March
 - Suhail ahmed
 - [Sam Sinadinovic](https://github.com/s-sinadinovic)
 - [Nandini Proothi](https://github.com/nandiniproothi)
