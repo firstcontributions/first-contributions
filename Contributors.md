@@ -1,6 +1,7 @@
 	# Contributors
 
 - Noah Olono
+- [Ritik Dutta](https://github.com/ritikdutta)
 - Dvir Berlo
 - Joshua Melo
 - [Bosko Sekulic]
