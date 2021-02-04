@@ -112,6 +112,7 @@
 - [Jonathan Gomez] (https://github.com/jgomezpr)
 - [Mani Sai] (https://github.com/manisai216)
 - [Ethan Jackson] (https::/github.com/ethantjackson)
+- [Maximilian Hafer] (https::/github.com/MaxiHafer)
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Brandon Roberts] (https://github.com/brobert8)
