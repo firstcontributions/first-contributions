@@ -66,6 +66,7 @@
 - [tamizh143](https://github.com/tamizh143)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - Pink Floyd
+- [Sean Devoy](https://github.com/ParseSnip)
 - [Mike Nguyen](https://github.com/mikedinhnguyen)
 - [Arash-11](https://github.com/Arash-11)
 - [Atsushi Omata](https://github.com/ctxzz)
