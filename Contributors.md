@@ -11,7 +11,8 @@
 = [Perikila Chaitanya Kumar] (https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera] (https://github.com/joaquiera)
-- Samantha Milligan
+- Samantha Milliga
+- Kalp Vyas
 - Siddhanth Verma
 - Sharon Greally
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
