@@ -9323,6 +9323,7 @@
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Jonathan](https://github.com/Jonny2379)
 - [Erik Tastepe](https://github.com/erik-tastepe)
+- [Thorsten S](https://github.com/thorstenS1)
 - Robert Czerniewicz
 - [Rahul K](https://github.com/rkoonant)
 - [Rafael](https://github.com/rafaelnq)
