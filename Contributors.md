@@ -2867,6 +2867,7 @@
 - [Jerry Xu](https://github.com/jerryxu158)
 - [Pavel Polcr](https://github.com/pavelpolcr)
 - [Alison](https://github.com/alisonzhu)
+- [Muhammad Raqeeb](https://github.com/MuhammadRaqeeb)
 - [Saumya Bhatt](https://github.com/Saumya-Bhatt)
 - [Tiago Oliveira](https://github.com/tiagoods)
 - [Virginie 🇫🇷](https://github.com/vifeng)
