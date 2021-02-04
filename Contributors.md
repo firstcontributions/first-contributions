@@ -15,6 +15,7 @@
 - Kalp Vyas
 - Siddhanth Verma
 - Sharon Greally
+- [Vishal Krishna](https://github.com/vshlk17)
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
