@@ -1,14 +1,14 @@
 # Cos'è un conflitto di unione (merge)?
 
-Quando provi a mergiare un altro ramo nel tuo corrente ramo di lavoro, stai prendendo dei cambiamenti da un altro contesto combinandoli con i tuoi file di lavoro corrente.  
-Se due persone hanno cambiato le stesse linee nello stesso file, o se una persona ha deciso di eliminarlo mentre l'altra persona ha deciso di modificarlo, Git non può sapere qual'è la versione corretta. Git quindi contrassegnerà il file come in conflitto - dovrai quindi risolverlo prima di poter continuare a lavorare.  
+Quando provi a mergiare un altro ramo nel tuo attuale ramo di lavoro, stai prendendo dei cambiamenti da un altro contesto combinandoli con i tuoi file di lavoro correnti.  
+Se due persone hanno cambiato le stesse linee nello stesso file, o se una persona ha deciso di eliminarlo mentre l'altra persona ha deciso di modificarlo, Git non può sapere qual'è la versione corretta, quindi contrassegnerà il file come in conflitto - il quale andrà risolto prima di poter continuare il lavoro.  
 
 # Come risolvere un conflitto di unione?
 
-Quando ti trovi un conflitto di unione, git marcherà l'area problematica nel file racchiudendola in “<<<<<<<< HEAD” e “>>>>>>>>>>[other branch name]”  
+Quando ti trovi un conflitto di unione, git evidenzierà l'area problematica nel file racchiudendola in “<<<<<<<< HEAD” e “>>>>>>>>>>[other branch name]”  
 
-Il contenuto dopo il primo marcatore proviene dal ramo di lavoro corrente. Dopo le parentesi angolari, Git ci dice dove (da quale branch) il cambiamento proviene. Una linea con "=======" separa le due modifiche in conflitto.  
-Il nostro compito ora è ripulire queste linee: quando abbiamo fatto, il file dovrà essere esattamente come voglia che sia. Si consiglia di avvisare il compagno di lavoro che ha scritto le modifiche in conflitto per decidere quale version dovrà essere quella finale. Potrebbe essere una delle due oppure un misto fra le due.  
+Il contenuto dopo il primo marcatore proviene dal ramo di lavoro corrente. Dopo le parentesi angolari, Git ci mostra l'origine (da quale branch) delle modifiche. Una linea con "=======" separa le due modifiche in conflitto.  
+Il nostro compito ora è di correggere queste linee: una volta finito, il file dovrebbe essere esattamente come nelle nostre intenzioni. Si consiglia di consultarsi con l'autore delle modifiche in conflitto per decidere quale versione dovrà essere quella finale. Potrebbe essere una delle due oppure un misto fra le due.  
 
 e.g. :
 ```
@@ -20,14 +20,14 @@ e.g. :
 ```
 
 `<<<<<<<`: Indica l'inizio delle righe dove si trova il conflitto. Il primo gruppo di linee sono le righe del file che stavi cercando di modificare per unire i cambiamenti.  
-`=======`: Indica il punto di interruzione usato per la comparazione. Suddivide i cambiamenti che l'utente ha committato (sopra) e i cambiamenti che provengono dal merge (sotto) per vedere visivamente le modifiche.  
+`=======`: Indica il punto di interruzione usato per la comparazione. Suddivide i cambiamenti che l'utente ha committato (sopra) e i cambiamenti che provengono dal merge (sotto) per differenziare visibilmente le modifiche.  
 `>>>>>>>`: Indica la fine delle linee che hanno un conflitto di unione.  
 
-Puoi risolvere il conflitto editando il file e poi unire manualmente le parti del file che git ha avuto problemi a mergiare. Questo può significare scartare le tue modifiche o quelle di qualcun altro o andare avanti con un mix dei due. Sarà inoltre necessario eliminare '<<<<<<<', '=======', e '>>>>>>>' dal file.  
+Puoi risolvere il conflitto editando il file e poi unire manualmente le parti del file che git ha avuto problemi a mergiare. Questo può significare scartare le tue modifiche o quelle di qualcun altro o andare avanti con un mix delle due. Sarà inoltre necessario eliminare '<<<<<<<', '=======', e '>>>>>>>' dal file.  
 
-Una volta che tu hai risolto il conflitto esegui un `git add`. Non dimenticare di eseguire i test, poiché dovrai verificare che hai risolto il conflitto.  
+Una volta risolto il conflitto, esegui un `git add`. Non dimenticare di eseguire i test, poiché dovrai verificare di averlo risolto.  
 
-Tu puoi anche scaricare diversi plugin a seconda dell'IDE che stai utilizzando per risolvere più facilmente i conflitti.  
+Puoi anche scaricare diversi plugin, a seconda dell'IDE che stai utilizzando, per risolvere più facilmente i conflitti.  
 
 # Come annullare un merge?
-Se tu vuoi annullare un merge, puoi eseguire `git merge —abort`  
+Se vuoi annullare un merge, esegui `git merge —abort`
