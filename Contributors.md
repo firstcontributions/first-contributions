@@ -7441,6 +7441,7 @@
 - [Ganesh Mani](https://github.com/ganeshatgithub)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
+- [ryan137](https://github.com/ryan137)
 - [Abdelkader Ait Assou](https://github.com/toscanoGithub/)
 - [abzium](https://github.com/abzium/)
 - [beckibloom](https://github.com/beckibloom)
