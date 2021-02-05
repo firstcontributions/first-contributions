@@ -6454,6 +6454,7 @@
 - [Dominika Malinowska](https://github.com/doma1991)
 - Martin Mwarangu
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
+- [Hamed Moghadasi](https://github.com/HamedMoghadasi)
 - [Liz Burton](https://github.com/lizbur10)
 - [Jordan van Beijnhem](https://github.com/jordanvanbeijnhem)
 - [JonatanBarr](https://github.com/jonybar9)
