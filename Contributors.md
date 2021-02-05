@@ -8,9 +8,9 @@
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-= [Perikila Chaitanya Kumar] (https://github.com/chaitanya-perikila)
+- [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
-- [Jongie Oaquiera] (https://github.com/joaquiera)
+- [Jongie Oaquiera](https://github.com/joaquiera)
 - Samantha Milliga
 - Kalp Vyas
 - Siddhanth Verma
@@ -23,22 +23,22 @@
 - [Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
 - Mohammad Murtaza
-- [Chayson Spigarelli] (https://github.com/chasespigarelli21)
-- [Jingjing] (https://github.com/jingjing714)
-- [Miles Brown] (https://github.com/Qweezl)
-- [Caleb Pomayo] (https://github.com/kalebkun)
-- [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
+- [Chayson Spigarelli](https://github.com/chasespigarelli21)
+- [Jingjing](https://github.com/jingjing714)
+- [Miles Brown](https://github.com/Qweezl)
+- [Caleb Pomayo](https://github.com/kalebkun)
+- [Devin O'Neal](https://github.com/ALASKAWARRIORS)
 - Tarık Coşkun
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
 - Something Something
-- Zach Kaufman(https://github.com/zchkfmn)
-- David Lynch(https://github.com/iamdlfl) 
+- [Zach Kaufman](https://github.com/zchkfmn)
+- [David Lynch](https://github.com/iamdlfl) 
 - [Terence Fisher](https://github.com/Terence-Fisher)
 - [Niranjan Hegde](https://github.com/Niranjan155)
 - [Travis Joldersma](https://github.com/15JoldersmaT)
-- [Emily Ramirez] (https://github.com/emily-ramirez)
+- [Emily Ramirez](https://github.com/emily-ramirez)
 - [Archit Gopal](https://github.com/Architrixs)
 - [Karthik](https://github.com/01101011karthik)
 - [Azmir Khan](https://github.com/rimzaak)
@@ -9522,8 +9522,9 @@
 - [Hovard He](https://github.com/HovardHe)
 - [Kaori](https://github.com/kaorihata)
 - [Courtney Abraham](https://github.com/CourtneyAbraham)
-Jiawen Yang
+- Jiawen Yang
 - [Songiso Cooper Lyambai](https://github.com/songiso)
 - [Yaw Jalik](https://github.com/yawjalik)
 - [Shashank Suresh](https://github.com/shashank-suresh)
 - [William Foley](https://github.com/williamfoleycit)
+- [JonasAx](https://github.com/JonasAX)
