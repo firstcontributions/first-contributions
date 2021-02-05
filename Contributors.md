@@ -4472,6 +4472,7 @@
 - [Asher Vu](https://github.com/vuphuc24601)
 - [nouvelle!!!](https://github.com/nouvelle)
 - [Soshi Koike](https://github.com/SoshiK)
+- [Benjamin Rivera](https://github.com/Benjibuns)
 - [Shakeib Shaida](https://github.com/shakeib98)
 - [Samir Mughal](https://github.com/codewithmughal)
 - [Hai Dao](https://github.com/haidao0923)
