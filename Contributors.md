@@ -3,6 +3,7 @@
 - Noah Olono
 - [Ritik Dutta](https://github.com/ritikdutta)
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
+- [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
 - Joshua Melo
 - [Bosko Sekulic]
