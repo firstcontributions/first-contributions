@@ -15,6 +15,7 @@
 - Kalp Vyas
 - Siddhanth Verma
 - Patrick O'Mahony
+- Govind Saju
 - Sharon Greally
 - [Vishal Krishna](https://github.com/vshlk17)
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
