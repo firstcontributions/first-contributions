@@ -1,6 +1,7 @@
 	# Contributors
 
 - Noah Olono
+- Rhyu Sarmiento
 - [Ritik Dutta](https://github.com/ritikdutta)
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
 - [Dweep Patil](https://github.com/DweepPatil)
