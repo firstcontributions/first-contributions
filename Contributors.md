@@ -6145,6 +6145,7 @@
 - [Taylor Danielson](https://github.com/disabledtech/)
 - [Jason Bland](https://github.com/jasonbland)
 - [Alex Parmentier](https://github.com/alexparm4)
+- [Daniel Gosselin](https://github.com/DanGoss4394)
 - [Andy Long](https://github.com/along5)
 - [Daniel Bar-Sela](https://github.com/CrimsonEpitaph42)
 - [Logan Watson](https://github.com/lwatson2)
