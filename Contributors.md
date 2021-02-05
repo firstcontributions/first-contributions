@@ -9541,3 +9541,4 @@ Jiawen Yang
 - [Yaw Jalik](https://github.com/yawjalik)
 - [Shashank Suresh](https://github.com/shashank-suresh)
 - [William Foley](https://github.com/williamfoleycit)
+- [Richard McCormick]
