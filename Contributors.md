@@ -18,6 +18,7 @@
 - Kalp Vyas
 - Siddhanth Verma
 - Patrick O'Mahony
+- [Brandon Ward](https://github.com/bward021)
 - Govind Saju
 - Sharon Greally
 - [Vishal Krishna](https://github.com/vshlk17)
