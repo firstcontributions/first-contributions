@@ -40,8 +40,9 @@
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
 - Something Something
+- [Florian Ph.S Fischmeister](https//github.com/fphsFischmeister)
 - Zach Kaufman(https://github.com/zchkfmn)
-- David Lynch(https://github.com/iamdlfl) 
+- David Lynch(https://github.com/iamdlfl)
 - [Terence Fisher](https://github.com/Terence-Fisher)
 - [Niranjan Hegde](https://github.com/Niranjan155)
 - [Travis Joldersma](https://github.com/15JoldersmaT)
@@ -166,7 +167,7 @@
 - [Elle Ryba](https://github.com/elleryba)
 - [Harshita_Nag](https://github.com/nagharshita16)
 - [Gustavinho](https://github.com/nGustavin)
-- [Zach Sorenson](https://github.com/ZSorenson1) 
+- [Zach Sorenson](https://github.com/ZSorenson1)
 - [Wiktor Zielak](https://github.com/arronax23)
 - [Camilo_Sanchez](https://github.com/puesyo)
 - [Preeti Murmu](https://github.com/Preeti2095)
@@ -5209,7 +5210,7 @@
 - [Daniel Floyd](https://github.com/gleekzorp)
 - [Nick Truong](https://github.com/nicholasctruong)
 - [Helber Belmiro](https://github.com/hbelmiro)
-- Sitanshu 
+- Sitanshu
 - [Harshita Lashkari](https://github.com/harshitalashkari)
 - [Sharan Sudhir](https://github.com/sharansudhir)
 - [Hu Yang](https://github.com/huyang117)
@@ -9519,7 +9520,7 @@
 - [Conrad Murphy](https://github.com/Conrad-Murphy)
 - [Hrishi Dharam](https://github.com/hrishisd)
 - [Sagar Varma]
-- [Kozatchenko Alex] (https://github.com/kozachenko-a) 
+- [Kozatchenko Alex] (https://github.com/kozachenko-a)
 - [Connor Robb](https://github.com/SecretJuice)
 - [Nicholas Robertson](https://github.com/nicholas-robertson)
 - [LFGaming](https://github.com/LFGaming)
@@ -9541,3 +9542,5 @@ Jiawen Yang
 - [Yaw Jalik](https://github.com/yawjalik)
 - [Shashank Suresh](https://github.com/shashank-suresh)
 - [William Foley](https://github.com/williamfoleycit)
+
+  [888d031c]: https://github.com/fphsFischmeister "Florian Ph.S Fischmeister"
