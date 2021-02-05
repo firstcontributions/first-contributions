@@ -1,4 +1,5 @@
 # Contributors
+- [Yash Bijarnia](https://github.com/codinggod01)
 - [Kavita Kulkarni](https://github.com/Kashriku)
 - [Kushaan Gowda](https://github.com/kushaangowda)
 - [Kate Howell](https://github.com/katehowell)
