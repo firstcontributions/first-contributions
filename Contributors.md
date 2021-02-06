@@ -32,6 +32,7 @@
 - [Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
 - Mohammad Murtaza
+- Liv Hampshire
 - [Chayson Spigarelli] (https://github.com/chasespigarelli21)
 - [Jingjing] (https://github.com/jingjing714)
 - [Miles Brown] (https://github.com/Qweezl)
