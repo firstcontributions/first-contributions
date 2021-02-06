@@ -1,6 +1,6 @@
 # Link utili
 
-Questo documento è dedicato a tutti i trucchi e suggerimenti, blog e post e siti utili che rendono la nostra vita più semplice. Sono un ottimo riferimento per soddisfare tutti i nostri bisogno, sia che tu sia un principiante che un esperto. Questa pagina dovrebbe fungere da indice di tutti quei link utili che aiuterebbero tutti quelli che sono nuovi nel mondo dell'open-source o qualcuno che vuole saperne di più.  
+Questo documento è riservato a tutti i siti web di trucchi e suggerimenti, post di blog e siti utili che ci semplificano la vita. Sono un ottimo punto di riferimento per soddisfare le nostre necessità, che si tratti di un principiante o di un esperto. Questa pagina dovrebbe servire da indice di tutti quei link utili a coloro che si affacciano al mondo dell'open source o a chi è interessato a saperne di più.  
 
 ## La lista
 1.  [Interactive tutorial to git](https://try.github.io)
