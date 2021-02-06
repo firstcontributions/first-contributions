@@ -96,7 +96,6 @@
 - [tiluckdave](https://github.com/tiluckdave)
 - [Nigel Powell](https://github.com/sadsongco/)
 - Sidharth Sethi (https://github.com/TechSpiritSS)
-- [Bryan Zierk](https://github.com/bzierk)
 - Kaden Seward
 - Hafed omar
 - [Ivan Vlahov](https://github.com/ivvlspirit)
