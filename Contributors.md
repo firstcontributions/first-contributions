@@ -184,6 +184,7 @@
 - [Avi Desai](https://github.com/avidesai)
 - [King Phyte](https://github.com/king-phyte)
 - [Emily Teng](https://github.com/eteng2022)
+- [Sofiene Khiari](https://github.com/sofienekhiari)
 - [Andres Gomez](https://github.com/andresgmz)
 - Fresh Olives
 - [Daniel Infante](https://github.com/kancurochat)
