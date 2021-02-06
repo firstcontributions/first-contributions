@@ -2,7 +2,7 @@
 
 Ripristinare un commit significa semplicemente creare un commit nuovo di zecca che annulla tutti i cambiamenti fatti nel precedente. E' come fare un ```CTRL + Z ``` su git.
 
-Git semplifica eseguire il ripristino perché ogni commit inviato al tuo repository remoto ha una chiave alfanumerica univoca collegata, conosciuta come SHA (Secure Hash Algorithm). Questo significa che puoi ripristinare qualsiasi commit fintanto che hai lo SHA. Devi però stare attento a ripristinare ordinatamente per non rovinare il tuo repository.
+Git semplifica il ripristino perché ogni commit inviato al tuo repository remoto ha una chiave alfanumerica univoca collegata, conosciuta come SHA (Secure Hash Algorithm). Questo significa che puoi ripristinare qualsiasi commit fintanto che hai lo SHA. Devi però stare attento a ripristinare ordinatamente per non rovinare il tuo repository.
 
 Per scegliere lo SHA dello specifico commit che vuoi annullare, un log di tutti i commit che abbiamo fatto finora sarebbe utile. Per ottenerlo digitiamo il comando:
 ```git log --oneline ```
