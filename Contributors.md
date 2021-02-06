@@ -41,6 +41,7 @@
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
+- [Teddy Portal](https://github.com/vungocson998)
 - Something Something
 - Zach Kaufman(https://github.com/zchkfmn)
 - David Lynch(https://github.com/iamdlfl) 
