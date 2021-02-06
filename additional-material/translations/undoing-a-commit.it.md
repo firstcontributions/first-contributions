@@ -49,4 +49,4 @@ $ git reset --hard HEAD~2
 ```
 Il comando ```git reset --hard HEAD~2``` sposta il ramo corrente indietro di 2 commit in una sola volta, annullando tutte le modifiche che hai fatto e rimuovendo i 2 *snapshots* che abbiamo appena creato nella cronologia del progetto.  
 
-P.s. Non eseguire mai ```git reset --hard``` se hai già inviato i tuoi commit ad un repository condiviso, poiché causerà problemi a tutti coloro su quel repository.  
+P.s. Non eseguire mai ```git reset --hard``` se hai già inviato i tuoi commit ad un repository condiviso, altrimenti causerà problemi a tutti coloro che lavorano correntemente con quel repository.  
