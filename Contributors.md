@@ -11,6 +11,7 @@
 - [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
 - Erika Lee
+- Alex English 
 - Haritarth
 - Joshua Melo
 - [Jacus Horne](https://github.com/JacusH)
