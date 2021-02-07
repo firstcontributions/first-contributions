@@ -98,6 +98,7 @@
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
 - Sugat Dhole
 - SaraFarron (https://github.com/SaraFarron)
+- [Adam Valdinger](https://github.com/avaldinger)
 - Jonathan White Velasco
 - [flora kunjumon]
 - [gon2410] (https://github.com/gon2410)
