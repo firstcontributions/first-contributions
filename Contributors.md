@@ -1565,6 +1565,7 @@
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U](https://github.com/anoop-tu/)
+- [Andrew King](https://github.com/Andrewk311)
 - [Joey Cheng](https://github.com/joey3662)
 - [Pritam Dhara](https://github.com/hDmtP)
 - [Hadramet Sylla](https://github.com/Hadramet)
