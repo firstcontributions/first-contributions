@@ -1608,6 +1608,7 @@
 - [Khwab Kalra](https://github.com/Khwab-kalra)
 - [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
+- [Anamika](https://github.com/noviicee)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Jiri Adam](https://github.com/JiriJAdam)
 - [Rachael Onoja](https://github.com/onojarachael)
