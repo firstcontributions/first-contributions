@@ -734,6 +734,7 @@
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
 - saurav
 - Pranjal Srivastav
+- [ding-09](https://github.com/ding-09)
 - [Nick Crews](https://github.com/mcrews35)
 - [Justin Vocke](https://github.com/justin-vocke)
 - [Ken Walsh](https://github.com/kenwals/)
