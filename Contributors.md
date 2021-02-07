@@ -8,6 +8,7 @@
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
 - [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
+- Erika Lee
 - Joshua Melo
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
