@@ -1,5 +1,6 @@
 	# Contributors
 
+- [Mahmudul Hasan](https://github.com/mhasansoft)
 - Noah Olono
 - Rhyu Sarmiento
 - Jona Stevenson
