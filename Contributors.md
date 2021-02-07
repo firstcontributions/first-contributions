@@ -12,6 +12,7 @@
 - Erika Lee
 - Haritarth
 - Joshua Melo
+- [Jacus Horne](https://github.com/JacusH)
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
