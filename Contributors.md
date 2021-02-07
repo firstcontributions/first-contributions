@@ -29,6 +29,7 @@
 - Henri Wood
 - [Brandon Ward](https://github.com/bward021)
 - Govind Saju
+- Sankalp Parashar
 - [4d4143](https://github.com/4d4143)
 - Sharon Greally
 - [Vishal Krishna](https://github.com/vshlk17)
