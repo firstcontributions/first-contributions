@@ -36,6 +36,7 @@
 - [Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
 - Mohammad Murtaza
+- [Rishabh Sanjay](https://github.com/Rishabh261998)
 - Sahadat Hossain (https://github.com/shahincsejnu)
 - Liv Hampshire
 - [Chayson Spigarelli] (https://github.com/chasespigarelli21)
