@@ -9,6 +9,7 @@
 - [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
 - Erika Lee
+- Haritarth
 - Joshua Melo
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
