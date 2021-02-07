@@ -134,6 +134,7 @@
 - mavidevbcn
 - Kyle Mo
 - Ian Ambos
+- Meenal
 - Yerdaulet
 - Elad Moshe
 - Safiya B.
