@@ -132,6 +132,7 @@
 - Kyle Mo
 - Ian Ambos
 - Yerdaulet
+- Elad Moshe
 - Safiya B.
 - Alexander O'Brien
 - [Samrath](https://github.com/samrath-sudesh-acharya)
