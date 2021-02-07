@@ -20,6 +20,7 @@
 - [Sean Micca](https://github.com/smicca)
 - [Abhick Dahal](https://github.com/abhick09)
 - [Aaron Chocolate](https://github.com/chop-code)
+- [Anamika](https://github.com/noviicee)
 - [Christopher Jones ✌🏾](https://github.com/tkcwebdev)
 - [Irvin Martínez González](https://github.com/SapZaneZ)
 - [Rashid Ali](https://github.com/rashidjama)
