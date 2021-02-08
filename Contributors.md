@@ -9574,3 +9574,4 @@ Jiawen Yang
 - [Siddhant Tyagi](https://github.com/s1ddhant-tyagi)
 - [James Dao](http://github.com/jmsdao)
 - Enlightenment
+- [Carlos Lira](http://github.com/carloscerlira)
