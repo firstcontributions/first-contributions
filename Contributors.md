@@ -16,6 +16,7 @@
 - Sejal Khedekar
 - Erika Lee
 - Alex English 
+[Kibet Theophilus](https://github.com/kibettheophilus)
 - Haritarth
 - Joshua Melo
 - vedangi bhujang
