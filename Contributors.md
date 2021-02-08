@@ -32,6 +32,7 @@
 - Kalp Vyas
 - Siddhanth Verma
 - Patrick O'Mahony
+- Narayan Pai
 - Henri Wood
 - [Brandon Ward](https://github.com/bward021)
 - Govind Saju
