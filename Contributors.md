@@ -776,6 +776,7 @@
 - [sunivu](https://github.com/sunivu)
 - CSiLLaFM
 - [Mufti M]
+- [Yash Puneet](https://github.com/yashpuneet)
 - [Jordan Scott](https://github.com/ScoJo55)
 - [Shreejeeb Kesh](https://github.com/SHRiJIB)
 - [Jashandeep Singh](https://github.com/jashn0101)
