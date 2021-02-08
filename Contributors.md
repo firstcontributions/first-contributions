@@ -2,6 +2,7 @@
 
 - [Kis9a](https://github.com/kis9a)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
+- [Ephi Frankel](https://github.com/ephi)
 - Noah Olono
 - Rhyu Sarmiento
 - Jona Stevenson
