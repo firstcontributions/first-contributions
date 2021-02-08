@@ -24,10 +24,10 @@
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-= [Perikila Chaitanya Kumar] (https://github.com/chaitanya-perikila)
+= [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
-- [Jongie Oaquiera] (https://github.com/joaquiera)
-- [Version0Chiro] (https://github.com/version0chiro)
+- [Jongie Oaquiera](https://github.com/joaquiera)
+- [Version0Chiro](https://github.com/version0chiro)
 - Samantha Milliga
 - Kalp Vyas
 - Siddhanth Verma
@@ -49,13 +49,13 @@
 - Mohammad Murtaza
 - [Rishabh Sanjay](https://github.com/Rishabh261998)
 - [Ridwan Bin Sarwar](https://github.com/xenon-r)
-- Sahadat Hossain (https://github.com/shahincsejnu)
+- Sahadat Hossain(https://github.com/shahincsejnu)
 - Liv Hampshire
-- [Chayson Spigarelli] (https://github.com/chasespigarelli21)
-- [Jingjing] (https://github.com/jingjing714)
-- [Miles Brown] (https://github.com/Qweezl)
-- [Caleb Pomayo] (https://github.com/kalebkun)
-- [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
+- [Chayson Spigarelli](https://github.com/chasespigarelli21)
+- [Jingjing](https://github.com/jingjing714)
+- [Miles Brown](https://github.com/Qweezl)
+- [Caleb Pomayo](https://github.com/kalebkun)
+- [Devin O'Neal](https://github.com/ALASKAWARRIORS)
 - Tarık Coşkun
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
@@ -68,7 +68,7 @@
 - [Niranjan Hegde](https://github.com/Niranjan155)
 - [Travis Joldersma](https://github.com/15JoldersmaT)
 - [Liz K](https://github.com/oakye)
-- [Emily Ramirez] (https://github.com/emily-ramirez)
+- [Emily Ramirez](https://github.com/emily-ramirez)
 - [Archit Gopal](https://github.com/Architrixs)
 - [Karthik](https://github.com/01101011karthik)
 - [Azmir Khan](https://github.com/rimzaak)
@@ -86,10 +86,10 @@
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
 - [Kaila Iglesias](https://github.com/kaila1)
-- [Chris Ashman] (https://github.com/Cashman1396)
+- [Chris Ashman](https://github.com/Cashman1396)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
 - [Janta Roy Antor](https://github.com/jrantor)
-- [Ravi Shankar P] (https://github.com/ravishankarste)
+- [Ravi Shankar P](https://github.com/ravishankarste)
 - [Santi Hoyos](https://github.com/santihoyos15)
 - [crpto-bug](https://github.com/crpto-bug)
 - [Maria Bardon](https://github.com/mariabardon)
@@ -104,22 +104,22 @@
 - [Redwanul Haque Sourave](https://github.com/redwanulsourav)
 - [Akshat Jain] (https://github.com/akshatjain9434)
 - [Natan Feithlicher](https://github.com/Feithlicher)
-- [Aurindom Bhattacharyya] (https://github.com/auri2ky)
+- [Aurindom Bhattacharyya](https://github.com/auri2ky)
 - Sugat Dhole
-- SaraFarron (https://github.com/SaraFarron)
+- [SaraFarron](https://github.com/SaraFarron)
 - [Adam Valdinger](https://github.com/avaldinger)
 - Jonathan White Velasco
 - [flora kunjumon]
-- [gon2410] (https://github.com/gon2410)
+- [gon2410](https://github.com/gon2410)
 - [Armando Martinez]
 - [John Abercrombie](https://github.com/jcaber4)
-- [Daniel Ram] (https://github.com/dani8899)
-- [Andreas-48] (https://github.com/Andreas-48)
+- [Daniel Ram](https://github.com/dani8899)
+- [Andreas-48](https://github.com/Andreas-48)
 - [Sani Mustapha](https://github.com/mustapha3341)
 - [CrazyCatCZ 👨‍💻](https://github.com/CrazyCatCZ)
 - [tiluckdave](https://github.com/tiluckdave)
 - [Nigel Powell](https://github.com/sadsongco/)
-- Sidharth Sethi (https://github.com/TechSpiritSS)
+- [Sidharth Sethi](https://github.com/TechSpiritSS)
 - [Bryan Zierk](https://github.com/bzierk)
 - Kaden Seward
 - Hafed omar
@@ -127,8 +127,8 @@
 - [ABD-01](https://github.com/ABD-01)
 - [Aryan](https://github.com/coolAryan)
 - [JÐCanete](https://github.com/jdcanete)
-- David Zalewski (https://github.com/hootisman)
-- Prateek Thakur(https://github.com/PrateekThakur29)
+- [David Zalewski](https://github.com/hootisman)
+- [Prateek Thakur](https://github.com/PrateekThakur29)
 - Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - [Charan Vasu](https://github.com/charan1973)
@@ -9584,3 +9584,4 @@ Jiawen Yang
 - Enlightenment
 - [Carlos Lira](http://github.com/carloscerlira)
 - [Bryan Ho](https://github.com/bryanccho)
+- [JonasAX](https://github.com/JonasAX)
