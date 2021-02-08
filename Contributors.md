@@ -9444,6 +9444,7 @@
 - [Ayush Sahni](https://github.com/ayushsahnios)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
+- [Max Notarangelo](https://github.com/MaxNotarangelo)
 - Jeff C.
 - [Pradip](https://github.com/PradipNichite/first-contributions)
 - [Filip lenaerts](https://github.com/filiplenaerts)
