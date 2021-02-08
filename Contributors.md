@@ -16,6 +16,7 @@
 - Alex English 
 - Haritarth
 - Joshua Melo
+- vedangi bhujang
 - [Jacus Horne](https://github.com/JacusH)
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
