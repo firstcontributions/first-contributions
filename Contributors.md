@@ -9555,6 +9555,7 @@
 - [LFGaming](https://github.com/LFGaming)
 - [Tautaus](https://github.com/tautaus)
 - [Michaela Williams](https://github.com/michaela-williams)
+- [Mathews Peter] (https://github.com/MathewsPeter)
 - [Durden Liu](https://github.com/Durdenliu)
 - [Marcode](https://github.com/imarco20)
 - [Raymond Zhang] (https://github.com/rzhang10)
