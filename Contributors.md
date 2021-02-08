@@ -1,7 +1,7 @@
 	# Contributors
 
 	
-- [Mohamed Makey] (https://github.com/Moreface)
+- [Mohamed Makey](https://github.com/Moreface)
 - [Kis9a](https://github.com/kis9a)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - Noah Olono
