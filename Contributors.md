@@ -5,6 +5,7 @@
 - Noah Olono
 - Rhyu Sarmiento
 - Jona Stevenson
+- [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
 - [Ritik Dutta](https://github.com/ritikdutta)
 - [Hussain AlHilal] (https:/github.com/HMSAlHilal)
