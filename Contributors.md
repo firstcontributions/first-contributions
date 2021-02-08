@@ -13,6 +13,7 @@
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
 - [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
+- Sejal Khedekar
 - Erika Lee
 - Alex English 
 - Haritarth
