@@ -94,6 +94,7 @@
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Chris Ashman] (https://github.com/Cashman1396)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
+- [Naved Sohail](https://github.com/naved232doom)
 - [Janta Roy Antor](https://github.com/jrantor)
 - [Ravi Shankar P] (https://github.com/ravishankarste)
 - [Santi Hoyos](https://github.com/santihoyos15)
