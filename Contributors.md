@@ -152,6 +152,7 @@
 - [Samrath](https://github.com/samrath-sudesh-acharya)
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
+- Miqueias da Silva de Jesus (https://github.com/msilvaj)
 - [Skyler Hanson] (https://github.com/swhanson)
 - Michael Reid (https://github.com/sleepycoder72)
 - Amisha Mohapatra(https://github.com/Amisha-Mohapatra)
