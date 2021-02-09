@@ -33,6 +33,7 @@
 - Samantha Milliga
 - Kalp Vyas
 - Siddhanth Verma
+- [Ingi Hong](https://github.com/Ingi-Hong)
 - Patrick O'Mahony
 - Narayan Pai
 - Henri Wood
