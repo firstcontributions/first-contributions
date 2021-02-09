@@ -1,5 +1,6 @@
 	# Contributors
 
+- [Matt Herman](https://github.com/mhermandesign)
 - [Kis9a](https://github.com/kis9a)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - Noah Olono
