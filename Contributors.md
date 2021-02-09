@@ -18,6 +18,7 @@
 - Erika Lee
 - Alex English 
 [Kibet Theophilus](https://github.com/kibettheophilus)
+- [Devanshi Shah](https://github.com/Devanshi1500)
 - Haritarth
 - Joshua Melo
 - vedangi bhujang
