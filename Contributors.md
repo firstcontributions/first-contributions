@@ -40,6 +40,7 @@
 - Patrick O'Mahony
 - Narayan Pai
 - Henri Wood
+- Felipe Sandoli
 - [Brandon Ward](https://github.com/bward021)
 - Govind Saju
 - Sankalp Parashar
