@@ -3,6 +3,7 @@
 - [Kis9a](https://github.com/kis9a)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - Noah Olono
+- Mozibur Rahman
 - Rhyu Sarmiento
 - Jona Stevenson
 - [Benjamin Dangl](https://github.com/benicamera)
