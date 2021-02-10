@@ -1177,6 +1177,7 @@
 - [Khalid Francis](https://github.com/KHALIDFRANCIS)
 - AARA
 - [Jaqueline Gomez](https://github.com/JaquelineGomez)
+- [matejballo 👨‍💻 ] (https://github.com/matejballo)
 - [Aidan Simard](https://github.com/Aidan-Simard)
 - [Alexander Mosquea](https://github.com/ALmsq)
 - [Pranav Nikam] (https://github.com/pranavnikam3110)
