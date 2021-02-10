@@ -20,7 +20,8 @@
 - Dvir Berlo
 - Sejal Khedekar
 - Erika Lee
-- Alex English 
+- Alex English
+- [Manzi Eric](https://github.com/manziEric)
 [Kibet Theophilus](https://github.com/kibettheophilus)
 - [Devanshi Shah](https://github.com/Devanshi1500)
 - Haritarth
