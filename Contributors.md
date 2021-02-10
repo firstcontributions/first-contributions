@@ -40,6 +40,7 @@
 - Samantha Milliga
 - Kalp Vyas
 - Siddhanth Verma
+- [Eli Yacobov](https://github.com/eliyacobov1)
 - [Ingi Hong](https://github.com/Ingi-Hong)
 - Patrick O'Mahony
 - Narayan Pai
