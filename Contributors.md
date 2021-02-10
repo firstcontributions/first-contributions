@@ -343,6 +343,7 @@
 - [Abdulmalik Adekunle](https://github.com/Adekunle27)
 - [CSPabloCortez](https://github.com/cspablocortez)
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
+- [Marcos Adriano TI](https://github.com/marcosadrianoti)
 - [Nay Lin Tun](https://github.com/NayLin99)
 - [Pranavbm]
 - [ChiraG Rana](https://github.com/ChiragJRana)
