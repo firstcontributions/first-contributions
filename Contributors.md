@@ -118,6 +118,7 @@
 - [Akshat Jain] (https://github.com/akshatjain9434)
 - [Natan Feithlicher](https://github.com/Feithlicher)
 - [Aurindom Bhattacharyya] (https://github.com/auri2ky)
+- [Dan S] (https://github.com/semindan)
 - Sugat Dhole
 - SaraFarron (https://github.com/SaraFarron)
 - [Adam Valdinger](https://github.com/avaldinger)
