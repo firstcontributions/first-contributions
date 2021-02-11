@@ -23,8 +23,9 @@
 - Erika Lee
 - Alex English
 - [Manzi Eric](https://github.com/manziEric)
-[Kibet Theophilus](https://github.com/kibettheophilus)
+- [Kibet Theophilus](https://github.com/kibettheophilus)
 - [Devanshi Shah](https://github.com/Devanshi1500)
+- [Arafat Iqbal](https://github.com/arafatiqbal)
 - Haritarth
 - Joshua Melo
 - vedangi bhujang
