@@ -61,6 +61,7 @@
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
 - [Anuar Hage](https://github.com/anuarhage)
+- [Eric Karugu](https://github.com/erickarugu32)
 - Peter Galvan
 - Mohammad Murtaza
 - [Rishabh Sanjay](https://github.com/Rishabh261998)
