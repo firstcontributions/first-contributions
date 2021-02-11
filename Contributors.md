@@ -1,4 +1,5 @@
 # Contributors
+- [Mark Hall](https://github.com/HelmGuy)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
