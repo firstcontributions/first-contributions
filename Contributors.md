@@ -539,6 +539,7 @@
 - [Bonifase](https://github.com/Bonifase)
 - [Can Çevik](https://github.com/canccevik)
 - Jakob Pirkl
+- Purity Nyakundi
 - [William bailey](https://github.com/WLBailey0)
 - [Diacron](https://github.com/Diacron)
 - [MrNNP](https://github.com/MrNNP)
