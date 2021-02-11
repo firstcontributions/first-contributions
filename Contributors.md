@@ -53,6 +53,7 @@
 - [Brandon Ward](https://github.com/bward021)
 - Govind Saju
 - Sankalp Parashar
+- [Utkarsh Singh](https://github.com/anonymous-06-02)
 - [4d4143](https://github.com/4d4143)
 - Sharon Greally
 - [Vishal Krishna](https://github.com/vshlk17)
