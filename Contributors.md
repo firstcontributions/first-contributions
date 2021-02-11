@@ -2,6 +2,7 @@
 
 - [Matt Herman](https://github.com/mhermandesign)
 - Anh Huynh
+- [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - Sumit Rana
 - [Kis9a](https://github.com/kis9a)
 - Jeremy
