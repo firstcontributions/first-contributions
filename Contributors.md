@@ -2,6 +2,7 @@
 
 - [Matt Herman](https://github.com/mhermandesign)
 - [Kis9a](https://github.com/kis9a)
+- Jeremy
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
 - Noah Olono
