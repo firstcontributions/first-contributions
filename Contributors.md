@@ -31,6 +31,7 @@
 - Haritarth
 - Joshua Melo
 - vedangi bhujang
+- [Madhu kunde](https://github.com/madhukunde)
 - Utibeabasi Umanah
 - [Jacus Horne](https://github.com/JacusH)
 - [Bosko Sekulic]
