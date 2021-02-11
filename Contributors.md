@@ -1,5 +1,6 @@
 	# Contributors
 
+
 - [Matt Herman](https://github.com/mhermandesign)
 - [Kis9a](https://github.com/kis9a)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
@@ -256,6 +257,7 @@
 - [jinhee KIM] (https://github.com/post50)
 - [John Terry](https://github.com/Sarellen)
 - [Jorge Eldis](https://github.com/jorgeeldis)
+- [Faazil Syed](https://github.com/LilLynx)
 - [nyalla](https://github.com/nyalla)
 - [Vivek Chauhan](https://github.com/vivekchauhan88)
 - [Armaan Mangat](https://github.com/Armaan-Mangat)
