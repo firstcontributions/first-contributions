@@ -24,6 +24,7 @@
 - Dvir Berlo
 - Sejal Khedekar
 - Erika Lee
+- Jennifer Russell
 - Alex English
 - [Manzi Eric](https://github.com/manziEric)
 - [Kibet Theophilus](https://github.com/kibettheophilus)
