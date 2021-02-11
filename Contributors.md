@@ -30,6 +30,7 @@
 - [Arafat Iqbal](https://github.com/arafatiqbal)
 - Haritarth
 - Joshua Melo
+[Vikhyat Bhatnagar](https://github.com/vikhyat187)
 - vedangi bhujang
 - [Madhu kunde](https://github.com/madhukunde)
 - Utibeabasi Umanah
