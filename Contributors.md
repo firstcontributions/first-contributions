@@ -48,6 +48,7 @@
 - [Version0Chiro] (https://github.com/version0chiro)
 - Samantha Milliga
 - Kalp Vyas
+- Furkan Calik
 - Siddhanth Verma
 - [Eli Yacobov](https://github.com/eliyacobov1)
 - [Ingi Hong](https://github.com/Ingi-Hong)
