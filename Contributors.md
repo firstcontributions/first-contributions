@@ -25,6 +25,7 @@
 - [Alka Das](https://github.com/AlkaDas991)
 - Dvir Berlo
 - Rakin Rahman
+- Arpit
 - Sejal Khedekar
 - Erika Lee
 - [Amaury Delprat](https://github.com/AyeRlS)
