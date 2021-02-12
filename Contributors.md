@@ -7,6 +7,7 @@
 - [Kis9a](https://github.com/kis9a)
 - Jeremy
 - [Edinson Requena](https://github.com/edinsonrequena)
+- [Neeraj Bhatt](https://github.com/neeraj1bh)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
 - Noah Olono
