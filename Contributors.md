@@ -23,6 +23,7 @@
 - [Sahil Mahapatra](https://github.com/introvertedbot)
 - [Alka Das](https://github.com/AlkaDas991)
 - Dvir Berlo
+- Rakin Rahman
 - Sejal Khedekar
 - Erika Lee
 - Jennifer Russell
