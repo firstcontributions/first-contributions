@@ -7770,6 +7770,7 @@
 - [Clay Xiong](https://github.com/tlightk)
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
+- [Janarth Kumaresan](https://github.com/janarthnk)
 - Diego de la Rosa
 - [Matt Wood](https://github.com/MattWood21)
 - [Erik](https://github.com/erikhm91)
