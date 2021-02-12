@@ -1,5 +1,5 @@
 	# Contributors
-
+- [Samuel](https://github.com/iamsamuelhere)
 - [Matt Herman](https://github.com/mhermandesign)
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
