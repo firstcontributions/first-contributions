@@ -319,6 +319,7 @@
 - [NaNa Mathis](https://github.com/n-mathis)
 - [Utkarsh Maheshwari](https://github.com/utkarsh-maheshwari)
 - [oluwaseun edward](https://github.com/oluwaseun-edward)
+- [Thiago Sanots](https://github.com/thiago2santos)
 - [Akhi Akl](https://github.com/akhiakl)
 - [Hasan Gökçe](https://github.com/hasangokce)
 - [Engensmax](https://github.com/engensmax)
