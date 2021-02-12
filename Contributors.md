@@ -9602,6 +9602,7 @@
 - [Francesco Franco]
 - James Damewood
 - [BangCryDie](https://github.com/BangCryDie)
+- [Mutis7](https://github.com/mutis7)
 - [Karina Anaya](https://github.com/kaa468)
 - [Quinn Melssen](https://github.com/QJMTech)
 - [Robert Bednarek](https://github.com/robertbed26)
