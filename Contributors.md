@@ -3018,6 +3018,7 @@
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
 - [Daksh Kulshrestha](https://github.com/DevDaksh)
+- [Thomas Delatte](https://github.com/ThomasDelatte)
 - [Paddy Browne](https://github.com/PadoSensei)
 - [Grace Landsberg](https://github.com/glandsberg)
 - [Mcaupybugs](https://github.com/mcaupybugs)
