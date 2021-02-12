@@ -9650,3 +9650,4 @@ Jiawen Yang
 - [Marcle Rodrigues](https://github.com/marclerodrigues)
 - [Raffaele Marcello](https://github.com/marcelloraffaele)
 - [Mathew Sims](https://github.com/mathewcsims)
+- [Jean Elana](https://github.com/Dlokoko)
