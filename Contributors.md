@@ -27,6 +27,7 @@
 - Rakin Rahman
 - Arpit
 - Sejal Khedekar
+- Emre Atilgan
 - Erika Lee
 - [Amaury Delprat](https://github.com/AyeRlS)
 - Jennifer Russell
