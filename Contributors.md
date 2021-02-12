@@ -26,6 +26,7 @@
 - Rakin Rahman
 - Sejal Khedekar
 - Erika Lee
+- [Amaury Delprat](https://github.com/AyeRlS)
 - Jennifer Russell
 - Alex English
 - [Manzi Eric](https://github.com/manziEric)
