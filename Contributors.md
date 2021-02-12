@@ -1,4 +1,4 @@
-	# Contributors
+# Contributors
 
 - [Matt Herman](https://github.com/mhermandesign)
 - Anh Huynh
@@ -2242,6 +2242,7 @@
 - [SomethingsMore](https://github.com/SomethingsMore)
 - [Omar Alvarado](https://github.com/Omar0218)
 - [Nikiya Simpson](https://github.com/nikiyasimpson)
+-[Taktuk Taktuk](https://github.com/taktukt01)
 - [Abhishek Ahirrao](https://github.com/colmeabhi)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [The Old Traveller](https://github.com/TheOldTravellerNetwork)
