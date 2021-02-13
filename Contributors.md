@@ -76,6 +76,7 @@
 - [Anuar Hage](https://github.com/anuarhage)
 - [Eric Karugu](https://github.com/erickarugu32)
 - Peter Galvan
+- [Candace Ng] (https://github.com/candaceng)
 - Mohammad Murtaza
 - [Rishabh Sanjay](https://github.com/Rishabh261998)
 - [Ridwan Bin Sarwar](https://github.com/xenon-r)
