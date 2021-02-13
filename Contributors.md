@@ -14,6 +14,7 @@
 - [Ameya Andhare](https://github.com/ameya2812)
 - Duc HG Le
 - Noah Olono
+- Prajyot Joshi
 - Mozibur Rahman
 - Rhyu Sarmiento
 - Jona Stevenson
