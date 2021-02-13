@@ -4636,6 +4636,7 @@
 - Brandt C.
 - Katja
 - Learner
+- [Rafael Bod](https://github.com/RafaelBod)
 - [Kamil Gusowski](https://github.com/gkns1)
 - [Lucas Jeske](https://github.com/pljcgm)
 - [Reza Duha](https://github.com/rezaduha)
