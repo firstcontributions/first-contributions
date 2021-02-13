@@ -2,6 +2,7 @@
 
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - [Matt Herman](https://github.com/mhermandesign)
+- J.G.
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - Sumit Rana
