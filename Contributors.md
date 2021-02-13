@@ -1,7 +1,7 @@
 # Contributors
 
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
-- [Eduardo Lerma] (https://github.com/LaloCode)
+- [Eduardo Lerma](https://github.com/LaloCode)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
