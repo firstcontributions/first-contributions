@@ -11,7 +11,7 @@
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
-- Duc Le
+- Duc HG Le
 - Noah Olono
 - Mozibur Rahman
 - Rhyu Sarmiento
