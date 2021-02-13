@@ -15,6 +15,7 @@
 - Duc HG Le
 - Noah Olono
 - Prajyot Joshi
+- [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Rhyu Sarmiento
 - Jona Stevenson
