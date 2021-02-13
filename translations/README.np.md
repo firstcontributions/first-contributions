@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://firstcontributors.slack.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -105,7 +105,7 @@ git push origin <शाखाको-नाम>
 
 तपाईंको योगदान मनाउनुहोस् र आफ्नो साथी र अनुयायीहरूसँग [वेब अनुप्रयोग](https://roshanjossey.github.io/first-contributions/#social-share) मा जानुहोस्।
 
-तपाइँलाई कुनै पनि मद्दत चाहिन्छ वा कुनै प्रश्न छ भने तपाइँ हाम्रो स्लाक टोलीमा सामेल हुन सक्नुहुनेछ। [स्लाक टोलीमा सामेल हुनुहोस्](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+तपाइँलाई कुनै पनि मद्दत चाहिन्छ वा कुनै प्रश्न छ भने तपाइँ हाम्रो स्लाक टोलीमा सामेल हुन सक्नुहुनेछ। [स्लाक टोलीमा सामेल हुनुहोस्](https://firstcontributors.slack.com/).
 
 अब तपाईले अन्य परियोजनाहरूमा योगदान दिन सुरु गरौं। हामीले सुरू गर्न सक्नुहुने सजिलो समस्याहरूको साथमा परियोजनाहरूको सूची संकलन गरेको छ। जाँच गर्नुहोस् [वेब अनुप्रयोगमा परियोजनाहरूको सूची](https://roshanjossey.github.io/first-contributions/#project-list)।
 
