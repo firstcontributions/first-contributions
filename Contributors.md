@@ -12,6 +12,7 @@
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
+- [Shreenanda](https://github.com/shreenanda-8)
 - Duc HG Le
 - Noah Olono
 - Prajyot Joshi
