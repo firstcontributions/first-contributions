@@ -16,6 +16,7 @@
 - Noah Olono
 - Prajyot Joshi
 - Mozibur Rahman
+- [Larry Hussey](https://github.com/caneslarry)
 - Rhyu Sarmiento
 - Jona Stevenson
 - [Benjamin Dangl](https://github.com/benicamera)
