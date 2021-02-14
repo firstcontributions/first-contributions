@@ -11,6 +11,7 @@
 - [Dweep Patil](https://github.com/DweepPatil)
 - Dvir Berlo
 - Erika Lee
+- [Prince kumar pandey] (https://github.com/PrincePandey1)
 - Haritarth
 - Joshua Melo
 - [Jacus Horne](https://github.com/JacusH)
