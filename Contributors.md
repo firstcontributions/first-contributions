@@ -22,6 +22,7 @@
 - Mozibur Rahman
 - Rhyu Sarmiento
 - Jona Stevenson
+- [Frank Schmidtner](https://github.com/littlelordy)
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
