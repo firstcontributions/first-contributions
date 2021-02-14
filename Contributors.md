@@ -3438,6 +3438,7 @@
 - [Joel B](https://github.com/j-brkr)
 - [Soumyadip Sarkar](https://github.com/soumya997)
 - [André Carvalho](https://github.com/and2carvalho)
+- [Andrei Racasan](https://github.com/AndreiRacasan)
 - [Constantine Melios](https://github.com/constantineMelios)
 - [Atinuke kayode](https://github.com/iambami)
 - [Devansh Shukla](https://github.com/devansshh)
