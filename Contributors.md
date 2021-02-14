@@ -36,6 +36,7 @@
 - Emre Atilgan
 - Erika Lee
 - [Amaury Delprat](https://github.com/AyeRlS)
+- [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
 - Alex English
 - [Manzi Eric](https://github.com/manziEric)
