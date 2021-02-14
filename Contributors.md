@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
+- [Ahmed Salah](https://github.com/asalah007)
 - [Matt Herman](https://github.com/mhermandesign)
 - J.G.
 - Anh Huynh
@@ -12,13 +13,18 @@
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
+- [Shreenanda](https://github.com/shreenanda-8)
+- [Vesna Vucinic](https://github.com/VesnaVucinic)
 - Duc HG Le
 - Noah Olono
 - Prajyot Joshi
+- [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Rhyu Sarmiento
 - Jona Stevenson
 - Minji Cho
+- [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
+- [Frank Schmidtner](https://github.com/littlelordy)
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
@@ -35,6 +41,7 @@
 - Emre Atilgan
 - Erika Lee
 - [Amaury Delprat](https://github.com/AyeRlS)
+- [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
 - Alex English
 - [Manzi Eric](https://github.com/manziEric)
@@ -825,6 +832,7 @@
 - [sunivu](https://github.com/sunivu)
 - CSiLLaFM
 - [Mufti M]
+- [Alejandro Checa Grande](https://github.com/Archehandoro)
 - [Yash Puneet](https://github.com/yashpuneet)
 - [Jordan Scott](https://github.com/ScoJo55)
 - [Shreejeeb Kesh](https://github.com/SHRiJIB)
@@ -3115,6 +3123,7 @@
 - [Vrinda Goel](https://github.com/vrinda41198)
 - Ken Shay 9-14-2020
 - [Divya Chhibber](https://github.com/divyavit)
+- [Pranab Prohit]
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
 - [Caden Gerard](https://github.com/caden3ds)
 - [Rajeev Koushik]
@@ -4637,6 +4646,7 @@
 - Brandt C.
 - Katja
 - Learner
+- [Rafael Bod](https://github.com/RafaelBod)
 - [Kamil Gusowski](https://github.com/gkns1)
 - [Lucas Jeske](https://github.com/pljcgm)
 - [Reza Duha](https://github.com/rezaduha)
@@ -9666,3 +9676,5 @@ Jiawen Yang
 - [Mathew Sims](https://github.com/mathewcsims)
 - [Jean Elana](https://github.com/Dlokoko)
 - ppeloton
+- [VcelistMC](https://github.com/VcelistMC)
+- [CZ](https://github.com/666lcz)
