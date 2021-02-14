@@ -13,6 +13,7 @@
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
 - [Shreenanda](https://github.com/shreenanda-8)
+- [Vesna Vucinic](https://github.com/VesnaVucinic)
 - Duc HG Le
 - Noah Olono
 - Prajyot Joshi
