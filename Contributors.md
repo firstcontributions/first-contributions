@@ -131,6 +131,7 @@
 - [Jimmy Baranello](https://github.com/jbaranel)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
+- [Nathan Taylor](http://github.com/n-taylor)
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Chris Ashman] (https://github.com/Cashman1396)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
