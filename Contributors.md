@@ -40,6 +40,7 @@
 - Sejal Khedekar
 - Emre Atilgan
 - Erika Lee
+- Jan Dolezal
 - [Amaury Delprat](https://github.com/AyeRlS)
 - [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
