@@ -3,6 +3,7 @@
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - [Ahmed Salah](https://github.com/asalah007)
 - [Matt Herman](https://github.com/mhermandesign)
+- [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - J.G.
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
