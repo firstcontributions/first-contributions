@@ -2487,6 +2487,7 @@
 - [Jing Tao](https://github.com/jtaoct)
 - [Lagan Gupta](https://github.com/lagan28)
 - [Gourav Kumar](https://github.com/gourav2001k)
+- [Zaid Khan](https://github.com/ZaidKhan144)
 - [Shihaan](https://github.com/theneoterik)
 - [Corinne Battle](https://github.com/clearpointweb)
 - [Abhishek Joshi](https://github.com/abhishekjoshi2612)
