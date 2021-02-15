@@ -2243,7 +2243,7 @@
 - [Amogh Rajesh Desai](https://github.com/amoghrajesh)
 - [Gaurav Kar](https://github.com/grvkr777)
 - [Damue Brandon](https://github.com/brandonbawe)
-- Conor Lambert
+https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Wesquel](https://github.com/wesquel)
 - [Rebecca Epemolu](https://github.com/repemolu)
 - [Stöffler Daniel](https://github.com/StoefflerDaniel)
@@ -9696,3 +9696,4 @@ Jiawen Yang
 - [CZ](https://github.com/666lcz)
 - [Match_yc](https://github.com/symphony233)
 - [Shaun Struwig](https://github.com/Blargian)
+- [Manish Ghumnani](https://github.com/Manish-Ghumnani)
