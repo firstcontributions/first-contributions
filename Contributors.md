@@ -6000,6 +6000,7 @@
 - [Alex Florides](https://github.com/Alexf97)
 - [Amanda B](https://github.com/critterconvention)
 - [Jonathan Nation](https://github.com/Jon-Nation)
+- [Rayson Lim](https://github.com/nosyarlin)
 - [Nwosa Emeka Afamefuna](https://github.com/NwosaEmeka)
 - [Ignacio Riego](https://github.com/ojopiojo)
 - [Harsh Prabhu](https://github.com/harsh1599)
