@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [Arjun R](https://github.com/arjun-prs)
+- Patrick M Copeland
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - Jiyon Trammell (https://github.com/codeweb123)
