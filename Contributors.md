@@ -26,6 +26,7 @@
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Rhyu Sarmiento
+- [Kshitij Nath](https://github.com/kshitij-18)
 - Jona Stevenson
 - [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
 - [Frank Schmidtner](https://github.com/littlelordy)
