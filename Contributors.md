@@ -148,6 +148,7 @@
 - [tamizh143](https://github.com/tamizh143)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - Pink Floyd
+- Manasa
 - [Nicobuu](https://github.com/Nicobuu)
 - [Sean Devoy](https://github.com/ParseSnip)
 - [Mike Nguyen](https://github.com/mikedinhnguyen)
