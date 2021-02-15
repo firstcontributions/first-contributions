@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Arjun R](https://github.com/arjun-prs)
+- [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Ahmed Salah](https://github.com/asalah007)
@@ -149,6 +150,7 @@
 - [tamizh143](https://github.com/tamizh143)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - Pink Floyd
+- Manasa
 - [Nicobuu](https://github.com/Nicobuu)
 - [Sean Devoy](https://github.com/ParseSnip)
 - [Mike Nguyen](https://github.com/mikedinhnguyen)
@@ -516,6 +518,7 @@
 - [Abhay Raghuvanshi](https://github.com/abhayaman669)
 - [Shravan](https://github.com/kvshravan)
 -9 [Jibinlal](https://github.com/Jibinlal)
+- [Liew Jeng Lung](https://github.com/kenxdrgn)
 - [Bhrigu B](https://github.com/bhrigub)
 - [Ajay Gautam](https://github.com/ajaygtm71)
 - [Kristóf Szerencsi](https://github.com/sz-kristof)
@@ -2242,7 +2245,7 @@
 - [Amogh Rajesh Desai](https://github.com/amoghrajesh)
 - [Gaurav Kar](https://github.com/grvkr777)
 - [Damue Brandon](https://github.com/brandonbawe)
-- Conor Lambert
+https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Wesquel](https://github.com/wesquel)
 - [Rebecca Epemolu](https://github.com/repemolu)
 - [Stöffler Daniel](https://github.com/StoefflerDaniel)
@@ -9693,3 +9696,6 @@ Jiawen Yang
 - ppeloton
 - [VcelistMC](https://github.com/VcelistMC)
 - [CZ](https://github.com/666lcz)
+- [Match_yc](https://github.com/symphony233)
+- [Shaun Struwig](https://github.com/Blargian)
+- [Manish Ghumnani](https://github.com/Manish-Ghumnani)
