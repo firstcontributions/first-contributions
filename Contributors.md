@@ -195,6 +195,7 @@
 - mavidevbcn
 - Kyle Mo
 - Ian Ambos
+- [Beverneus](https://github.com/beverneus)
 - Meenal
 - Yerdaulet
 - Elad Moshe
