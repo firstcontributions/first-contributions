@@ -1,8 +1,8 @@
 # Rimuovere un ramo (branch) dal tuo repository
 
-Se hai seguito il tutorial fino ad ora, il nostro ramo `<add-your-name>` ha terminato il nostro scopo, è ora di eliminarlo dal repository della tua macchina locale. Non è necessario, ma lo scopo piuttosto speciale del ramo è stato assolto, possiamo quindi eliminarlo.  
+Se hai seguito il tutorial fino ad ora, il nostro ramo `<add-your-name>` ha esaurito il suo scopo, è ora di eliminarlo dal repository della tua macchina locale. Ciò non è strettamente necessario, ma lo scopo piuttosto specifico del ramo è stato assolto, possiamo quindi eliminarlo.  
 
-Per prima cosa, uniamo il tuo `<add-your-name>` al tuo ramo principale, quindi vai al tuo ramo principale:  
+Per prima cosa, unisci il tuo `<add-your-name>` al tuo ramo principale, quindi vai al tuo ramo principale:  
 ```
 git checkout master
 ```
@@ -17,10 +17,10 @@ Rimuovi `<add-your-name>` dal repository della tua macchina locale:
 git branch -d <add-your-name>
 ```
 
-Ora hai cancellato il ramo `<add-your-name>` dalla tua macchina locale e tutto sembra pulito ed ordinato.  
-Sebbene, a questo punto, dovresti avere ancora il  ramo `<add-your-name>` nel tuo fork di GitHub. Tuttavia, prima di eliminarlo, ricordati di aver inviato una "*Pull request*" al mio repository da questo ramo remoto. Quindi, a meno che non lo abbia già unito, non cancellare questo branch.  
+Ora hai cancellato il ramo `<add-your-name>` dalla tua macchina locale e tutto è in ordine.
+Sebbene, a questo punto, dovresti avere ancora il  ramo `<add-your-name>` nel tuo fork di GitHub. Tuttavia, prima di eliminarlo, non dimenticare di aver già inviato una "*Pull request*" al mio repository da questo ramo remoto. Quindi, a meno che io non lo abbia già unito, non cancellare questo branch.  
 
-Quando io avrò unito il tuo branch e tu vorrai cancellare il ramo remoto, usa:  
+Se, quando avrò unito il tuo branch, vorrai cancellare il ramo remoto, usa:  
 ```
 git push origin --delete <add-your-name>
 ```

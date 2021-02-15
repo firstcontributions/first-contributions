@@ -1,6 +1,6 @@
 # Configurazione di git
 
-La prima volta che provi ad eseguire un commit utilizzando git, potresti aver ricevuto un messaggio sul *prompt* come il seguente:  
+La prima volta che provi ad eseguire un commit utilizzando git, potresti ricevere un messaggio sul *prompt* come il seguente:  
 
 ```bash
 $ git commit
