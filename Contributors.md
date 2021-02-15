@@ -774,6 +774,7 @@
 - [Jon Newton](https://github.com/jrnewton)
 - [Michael O'Connor](https://github.com/mmosru)
 - [Kyle Foerster](https://github.com/kbfoerster)
+- [David Xu](https://github.com/dxaviud)
 - [Atin Bainada](https://github.com/at-in)
 - sanjubaba
 - [Abishek Jayan](https://github.com/Abishek-Jayan)
