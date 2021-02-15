@@ -4364,6 +4364,7 @@
 - [punchitchewie](https://github.com/punchitchewie)
 - Hariprasath
 - Susan OMahony - Hi there!
+- [Oana Barbu](https://github.com/oana-barbu)
 - Arpan
 - [Ryan Doherty](https://github.com/r-doherty)
 - [Mateus Faria](https://github.com/WebMat1)
