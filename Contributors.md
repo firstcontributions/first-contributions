@@ -497,6 +497,7 @@
 - [Jose Uribe](https://github.com/josekembies)
 - [Bobbyhoff](https://github.com/Bobbyhoff)
 - [Nikos Ioannou](https://github.com/ioannou-nikos)
+- [Cheri Haggard](https://github.com/gonzocher)
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
