@@ -657,6 +657,7 @@
 - [Lucy Copp]
 - Marissa T
 - [Sunny Bhuee](https://github.com/SunnyBhuee)
+- [Areeb-510](https://github.com/Areeb-510)
 - [Hector Deleon](https://github.com/hdeleon99)
 - [Fregg](https://github.com/frozenegg)
 - [Nitin Gupta](https://github.com/nitingupta-123)
