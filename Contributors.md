@@ -9275,6 +9275,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Mikołaj Koszczyc](https://github.com/mikoszczyc)
 - [Daniel Hoekwater](https://github.com/danieh65)
 - [Dan Kolodny](https://github.com/kolodny-coder)
+- [Freddy Järvå](https://github.com/freddyJarva)
 - [FireFighterDuck](https://github.com/firefighterduck)
 - [Kevin Goodenough](https://github.com/kevingoodenough)
 - [bobphul](https://github.com/bobphul)
