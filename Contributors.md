@@ -6,6 +6,7 @@
 - [Matt Herman](https://github.com/mhermandesign)
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - J.G.
+- Aldon Fung
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - Sumit Rana
