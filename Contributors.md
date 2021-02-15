@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Arjun R](https://github.com/arjun-prs)
+- [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Ahmed Salah](https://github.com/asalah007)
