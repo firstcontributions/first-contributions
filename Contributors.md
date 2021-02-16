@@ -27,6 +27,7 @@
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Rhyu Sarmiento
+- Victor Ochoa
 - [Alice Phan](https://github.com/nphan03) 
 - [Kshitij Nath](https://github.com/kshitij-18)
 - Jona Stevenson
