@@ -7,6 +7,7 @@
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Ahmed Salah](https://github.com/asalah007)
+- [Oliver L. Sanz](https://github.com/oliverlsanz)
 - [Matt Herman](https://github.com/mhermandesign)
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - J.G.
