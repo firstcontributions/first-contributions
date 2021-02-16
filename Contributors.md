@@ -50,6 +50,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Dvir Berlo
 - Rakin Rahman
 - Arpit
+- Jack sparrow
 - Sejal Khedekar
 - Emre Atilgan
 - Erika Lee
