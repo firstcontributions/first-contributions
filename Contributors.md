@@ -42,6 +42,7 @@
 - [Dweep Patil](https://github.com/DweepPatil)
 - [Sahil Mahapatra](https://github.com/introvertedbot)
 - [Alka Das](https://github.com/AlkaDas991)
+- [Jacob Newton](https://github.com/jnewtonb)
 - Dvir Berlo
 - Rakin Rahman
 - Arpit
