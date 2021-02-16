@@ -9702,3 +9702,4 @@ Jiawen Yang
 - [Match_yc](https://github.com/symphony233)
 - [Shaun Struwig](https://github.com/Blargian)
 - [Manish Ghumnani](https://github.com/Manish-Ghumnani)
+- [Dan Kranz](https://github.com/znarkd)
