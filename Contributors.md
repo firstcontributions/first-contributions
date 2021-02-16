@@ -5102,6 +5102,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Dani El-Ayyass](https://github.com/dayyass)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - Yavis Yuan
+- [hu-zza](https://zza.hu)
 - Andrew Barton
 - Mia Gayle
 - Orhan Karaman
