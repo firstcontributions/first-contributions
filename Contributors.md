@@ -3,6 +3,7 @@
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
+- [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Ahmed Salah](https://github.com/asalah007)
