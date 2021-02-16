@@ -174,6 +174,7 @@
 - [flora kunjumon]
 - [gon2410] (https://github.com/gon2410)
 - [Armando Martinez]
+- Prathmesh Jadhav
 - [John Abercrombie](https://github.com/jcaber4)
 - [Daniel Ram] (https://github.com/dani8899)
 - [Andreas-48] (https://github.com/Andreas-48)
