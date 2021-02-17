@@ -4,6 +4,7 @@
 - Patrick M Copeland
 - Clay Lanzino
 - [Traders Dream](https://t.me/TheTradersDream)
+- [Cheese Coke](https://github.com/cheesecoke) 
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
