@@ -9654,6 +9654,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Habib Kalia](https://github.com/hkalia)
 - [Sahil Velhal](https://github.com/sahil-777)
 - [Kyler Carling]
+- [Shreyas S]
 - [Krishna Chaitanya Reddy V](https://github.com/KrishnaChaitanya1)
 - [Raqeeb Ameen](https://github.com/Ameen-Raqeeb)
 - [James Miller](https://github.com/JamesMamsy)
