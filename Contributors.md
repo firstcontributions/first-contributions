@@ -29,6 +29,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Duc HG Le
 - Noah Olono
 - Prajyot Joshi
+- [Tomas Kloucek](https://github.com/TomKloucek)
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Rhyu Sarmiento
