@@ -57,6 +57,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Lee Shyu
 - Erika Lee
 - Jan Dolezal
+- [Selma Muminovic](https://github.com/muminovic)
 - Ouissam Maach(https://github.com/BroSam96)
 - [Amaury Delprat](https://github.com/AyeRlS)
 - [Gabriel Roza de Oliveira](https://github.com/Roza918)
