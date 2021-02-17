@@ -222,6 +222,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Elad Moshe
 - Safiya B.
 - Alexander O'Brien
+- [Wanda Evans](https://github.com/derpwanda)
 - [Samrath](https://github.com/samrath-sudesh-acharya)
 - Liam Scholl (https://github.com/las589)
 - Jared McNeece (https://github.com/Jmcneece)
