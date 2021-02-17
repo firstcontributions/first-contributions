@@ -206,6 +206,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Tirta Adi G](https://github.com/tirtavium)
 - Daniel Danaee
 - Trevor Johnson
+- [Davy Berra](https://github.com/davyberra)
 - Hannah Trenary
 - [Aditya Kumar](https://github.com/ak-51)
 - Roohi Sharma
