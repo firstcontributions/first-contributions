@@ -54,6 +54,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Jack sparrow
 - Sejal Khedekar
 - Emre Atilgan
+- Lee Shyu
 - Erika Lee
 - Jan Dolezal
 - Ouissam Maach(https://github.com/BroSam96)
