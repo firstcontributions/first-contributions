@@ -33,6 +33,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Noah Olono
 - Prajyot Joshi
 - [Tomas Kloucek](https://github.com/TomKloucek)
+- [Ryan Farrow](https://github.com/rfarrow1010)
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - [Yusuf Naheem] (https://github.com/Yusuf1n)
