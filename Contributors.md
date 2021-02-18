@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Collin Marando](https://github.com/snippledizzle)
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
 - Clay Lanzino
