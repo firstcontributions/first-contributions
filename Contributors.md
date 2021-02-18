@@ -3,6 +3,7 @@
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
 - Clay Lanzino
+- [Shayla Luong](https://github.com/nluong1021)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke) 
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
