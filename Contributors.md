@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Ahmed Shahriar Sakib](https://github.com/ahmedshahriar)
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
 - Clay Lanzino
@@ -21,7 +22,7 @@
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - Sumit Rana
 - [Kis9a](https://github.com/kis9a)
-Alex Ilyin (https://github.com/ilyin0)
+- Alex Ilyin (https://github.com/ilyin0)
 - Jeremy
 - [Edinson Requena](https://github.com/edinsonrequena)
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
@@ -76,7 +77,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Arafat Iqbal](https://github.com/arafatiqbal)
 - Haritarth
 - Joshua Melo
-[Vikhyat Bhatnagar](https://github.com/vikhyat187)
+- [Vikhyat Bhatnagar](https://github.com/vikhyat187)
 - vedangi bhujang
 - [Madhu kunde](https://github.com/madhukunde)
 - Utibeabasi Umanah
