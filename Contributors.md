@@ -9726,6 +9726,7 @@ Jiawen Yang
 - [MMI](https://github.com/mariamm20)
 - [Match_yc](https://github.com/symphony233)
 - [Shaun Struwig](https://github.com/Blargian)
+- [Tegar Dani Pratama](https://github.com/tegardp)
 - [Manish Ghumnani](https://github.com/Manish-Ghumnani)
 - [Dan Kranz](https://github.com/znarkd)
 - [Mark Doughten]
