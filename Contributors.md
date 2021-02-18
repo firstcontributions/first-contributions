@@ -60,7 +60,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Jack sparrow
 - Sejal Khedekar
 - Emre Atilgan
--[Abhinay Yadav](https://github.com/abhinayy0)
+[Abhinay Yadav](https://github.com/abhinayy0)
 - Lee Shyu
 - Erika Lee
 - Jan Dolezal
