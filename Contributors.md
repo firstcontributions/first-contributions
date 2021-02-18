@@ -16,6 +16,7 @@
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - J.G.
 - [Aldon Fung](https://github.com/aldonfung)
+- [Neel Bavarva](https://github.com/neelbavarva)
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - Sumit Rana
