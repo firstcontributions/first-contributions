@@ -7285,6 +7285,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Ankesh Sharma](https://github.com/anim007sharma)
 - [donovanope](https://github.com/donovanope)
 - [Tam N](https://github.com/softwaredevtam)
+- [Jongwan Kim](https://github.com/mireu-san/)
 - [Doris Verria](https://github.com/dorisverria)
 - [Ola Frankowska](https://github.com/ofrankowska)
 - [Narongrit Unwerawattana](https://github.com/kicito)
