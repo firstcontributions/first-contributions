@@ -4852,6 +4852,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Iheb Haboubi](https://github.com/iheb-haboubi)
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
+- [Mekel Ilyasa](https://github.com/retr00exe)
 - [PikaPool](https://github.com/Pika-Pool/)
 - [RachaelAndrew](https://github.com/r-andrew-dev)
 - Summer Brant
