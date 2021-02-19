@@ -9422,6 +9422,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Prateek Goel](https://github.com/goelprateek5) 🤙
 - [Esben Sørensen](https://github.com/esbendamkjaer)
 - [Georg Magneshaugen](https://github.com/georgmagne)
+- [Abc Singh](https://github.com/achintya-cell)
 - [James Faith Shameh](https://github.com/blackpandan)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
