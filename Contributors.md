@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Collin Marando](https://github.com/snippledizzle)
+- [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
 - Clay Lanzino
@@ -16,6 +17,7 @@
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - J.G.
 - [Aldon Fung](https://github.com/aldonfung)
+- [Jaison A. Alonso-Perez](https://github.com/abe-one)
 - [Neel Bavarva](https://github.com/neelbavarva)
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
@@ -64,6 +66,7 @@ Alex Ilyin (https://github.com/ilyin0)
 -[Abhinay Yadav](https://github.com/abhinayy0)
 - Lee Shyu
 - Erika Lee
+- Dhruv Kalathia 
 - Jan Dolezal
 - [Selma Muminovic](https://github.com/muminovic)
 - Ouissam Maach(https://github.com/BroSam96)
