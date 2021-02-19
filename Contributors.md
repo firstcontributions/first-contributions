@@ -15,6 +15,7 @@
 - [Oliver L. Sanz](https://github.com/oliverlsanz)
 - [Matt Herman](https://github.com/mhermandesign)
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
+- [franklin uche](https://github.com/frankgreen1)
 - J.G.
 - Zebra_Force9
 - [Aldon Fung](https://github.com/aldonfung)
