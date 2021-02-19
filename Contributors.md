@@ -33,6 +33,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Shreenanda](https://github.com/shreenanda-8)
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - Duc HG Le
+- Light Yagami
 - Noah Olono
 - Prajyot Joshi
 - [Tomas Kloucek](https://github.com/TomKloucek)
