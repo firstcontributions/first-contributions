@@ -88,6 +88,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Madhu kunde](https://github.com/madhukunde)
 - Utibeabasi Umanah
 - [Jacus Horne](https://github.com/JacusH)
+- [AxelCCp](https://github.com/AxelCCp)
 - Landis Duffett
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
