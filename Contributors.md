@@ -16,6 +16,7 @@
 - [Matt Herman](https://github.com/mhermandesign)
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - J.G.
+- Zebra_Force9
 - [Aldon Fung](https://github.com/aldonfung)
 - [Jaison A. Alonso-Perez](https://github.com/abe-one)
 - [Neel Bavarva](https://github.com/neelbavarva)
