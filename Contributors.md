@@ -66,6 +66,7 @@ Alex Ilyin (https://github.com/ilyin0)
 -[Abhinay Yadav](https://github.com/abhinayy0)
 - Lee Shyu
 - Erika Lee
+- Dhruv Kalathia 
 - Jan Dolezal
 - [Selma Muminovic](https://github.com/muminovic)
 - Ouissam Maach(https://github.com/BroSam96)
