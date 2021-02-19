@@ -3242,6 +3242,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Akshay_C](https://github.com/akshay977)
 - [Nirmal Silwal](https://github.com/NirmalSilwal)
 - [Nicolas Devos]
+- Peter Middleton
 - [Richard Bailey](https://richardbailey.xyz)
 - [Chaithra Pabbathi]
 - [Archi Aggarwal]
