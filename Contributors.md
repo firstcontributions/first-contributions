@@ -97,6 +97,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Samantha Milliga
 - Kalp Vyas
 - Furkan Calik
+- [Sarthak Srivastava](https://github.com/Sarthak1306)
 - Siddhanth Verma
 - [Eli Yacobov](https://github.com/eliyacobov1)
 - [Ingi Hong](https://github.com/Ingi-Hong)
