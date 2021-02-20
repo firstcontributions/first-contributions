@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Marcus Biddle](https://github.com/marcus-biddle)
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
