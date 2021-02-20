@@ -1,4 +1,6 @@
-﻿# Contributors
+﻿
+
+# Contributors
 
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
@@ -602,6 +604,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Luke Hartley](https://github.com/Luke943)
 - [Lucas Stone-Drake](https://github.com/LucasSD)
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
+- [Bhumika Sethi
 - [Syfa Collins](https://github.com/SyfaCollins)
 - [Kanika](https://github.com/knikm)
 - [K.Yogeshwara Krishna](https://github.com/yogeshwara-krishna)
