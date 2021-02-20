@@ -18,6 +18,7 @@
 - [franklin uche](https://github.com/frankgreen1)
 - J.G.
 - Zebra_Force9
+- Daniel Cerqueira
 - [Aldon Fung](https://github.com/aldonfung)
 - [Jaison A. Alonso-Perez](https://github.com/abe-one)
 - [Neel Bavarva](https://github.com/neelbavarva)
