@@ -2,6 +2,7 @@
 
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
+- Nishant Shingate
 - Patrick M Copeland
 - Clay Lanzino
 - [Shayla Luong](https://github.com/nluong1021)
