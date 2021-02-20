@@ -4965,6 +4965,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [gmr](https://github.com/skkskine)
 - Eddie Lewis
 - Or Dotan
+
 - [bog204](https://github.com/bog204)
 - [Naim Bijapure](https://github.com/Naim-Bijapure)
 - [tozzomat](https://github.com/tozzomat)
@@ -5551,7 +5552,8 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Ambuj Singh](https://github.com/singhambuj)
 - [Sohan Shingade](https://github.com/sohan-shingade)
 - [Raj Kishan K](https://github.com/rajkishan0)
-- [Ryan Samarakoon](https://github.com/samarakoon-ryan)
+- [Ryan Samarakoon](https://github.com/samarakoon-ryan) 
+  [Gurudiel] (https://github.com/gurudiel)
 - [naczea](https://github.com/naczea)
 - [Wilson Chau](https://github.com/a19950605)
 - [Sara Iftikhar](https://github.com/sara9i)
