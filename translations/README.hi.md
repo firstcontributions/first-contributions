@@ -98,7 +98,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## अपने बदलावों को रिव्यु के लिए सबमिट करें |
 
-अगर आप अपने github प्रोफाइल पर अपनी रेपो में जायेंगे तो आपको Compare & pull request का ऑप्शन दिखेगा| उसे दबाएं |
+अगर आप अपने Github प्रोफाइल पर अपनी रेपो में जायेंगे तो आपको Compare & pull request का ऑप्शन दिखेगा| उसे दबाएं |
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 अब अपनी pull request सबमिट करें |
