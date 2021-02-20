@@ -7,6 +7,7 @@
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Shayla Luong](https://github.com/nluong1021)
+- [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke) 
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
