@@ -4,6 +4,7 @@
 - [Arjun R](https://github.com/arjun-prs)
 - Patrick M Copeland
 - Clay Lanzino
+- [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Shayla Luong](https://github.com/nluong1021)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke) 
