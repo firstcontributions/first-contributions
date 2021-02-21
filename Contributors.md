@@ -6991,6 +6991,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Oleg Zinin](https://github.com/OlegZinin)
 - [Alvin Tang](https://github.com/alvintang)
 - [Kevin Chen](https://github.com/KeChing)
+- [Niklas Wendt](https://github.com/niklaswendt)
 - [Surajeet Das](https://github.com/surajeet310)
 - [Ashford Hill](https://github.com/ashfordhill)
 - [Abhinav Gupta](https://github.com/abhinvgupta/)
