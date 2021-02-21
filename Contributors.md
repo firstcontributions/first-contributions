@@ -24,6 +24,7 @@
 - Zebra_Force9
 - Michael Wright
 - Daniel Cerqueira
+- Koua Thao
 - [Aldon Fung](https://github.com/aldonfung)
  - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
 - [Jaison A. Alonso-Perez](https://github.com/abe-one)
