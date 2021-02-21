@@ -4,6 +4,7 @@
 - [Arjun R](https://github.com/arjun-prs)
 - Nishant Shingate
 - Patrick M Copeland
+- JLJ
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Shayla Luong](https://github.com/nluong1021)
