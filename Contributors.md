@@ -26,6 +26,7 @@
 - Zebra_Force9
 - Michael Wright
 - Daniel Cerqueira
+- Gabriel Antal
 - Koua Thao
 - [Aldon Fung](https://github.com/aldonfung)
  - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
