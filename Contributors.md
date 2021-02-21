@@ -998,6 +998,7 @@ Heinner Amaro
 - [Aedan Lombardo](https://github.com/aedanlombardo)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Diego Romário](https://github.com/diegoromario)
+- emmami
 - [Tyler Allen](https://github.com/tylerjallen02)
 - [Sami Almouzani](https://github.com/SamiAlmouzani)
 - [Basil Khan](https://github.com/basilk76)
