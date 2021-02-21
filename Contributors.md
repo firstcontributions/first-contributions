@@ -2505,6 +2505,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - Aishwarya Ro
 - [Shairan Shrawat](https://github.com/shairanshrawat)
 - Dhruvik Patel
+- [Neel Thakker](https://github.com/neel-thakker)
 - Zaidan Pratama
 - \_Kiire
 - [Vishnu Vardhan Reddy Thokala](https://github.com/VishnuThokala)
