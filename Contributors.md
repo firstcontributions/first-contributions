@@ -353,6 +353,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [AdhipathiPandiyan] (https://github.com/AdhipathiPandiyan-S)
 - [Daniel Smith] (http://github.com/dksmith3228)
 - [Daniel Hirsch] (https://github.com/danieldeer/)
+Heinner Amaro
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [Niveditha Hariharan](https://github.com/Ahtidevin)
 - [Javailabe](https://github.com/Javailabe)
