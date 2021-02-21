@@ -21,6 +21,7 @@
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - [franklin uche](https://github.com/frankgreen1)
 - J.G.
+-Nikhil Verma
 - Zebra_Force9
 - Michael Wright
 - Daniel Cerqueira
