@@ -23,6 +23,7 @@
 - Zebra_Force9
 - Daniel Cerqueira
 - [Aldon Fung](https://github.com/aldonfung)
+ - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
 - [Jaison A. Alonso-Perez](https://github.com/abe-one)
 - [Neel Bavarva](https://github.com/neelbavarva)
 - Anh Huynh
