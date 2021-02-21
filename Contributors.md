@@ -21,6 +21,7 @@
 - [franklin uche](https://github.com/frankgreen1)
 - J.G.
 - Zebra_Force9
+- Michael Wright
 - Daniel Cerqueira
 - [Aldon Fung](https://github.com/aldonfung)
  - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
