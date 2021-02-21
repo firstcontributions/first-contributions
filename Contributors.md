@@ -13,6 +13,7 @@
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
+- [Sarvesh Prajapati](https://github.com/sarveshprajapati)
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Ahmed Salah](https://github.com/asalah007)
 - [Oliver L. Sanz](https://github.com/oliverlsanz)
