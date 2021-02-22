@@ -20,6 +20,7 @@
 - [Oliver L. Sanz](https://github.com/oliverlsanz)
 - [Matt Herman](https://github.com/mhermandesign)
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
+- [Raducu Vlad-Rares](https://github.com/vlad101vlad)
 - [franklin uche](https://github.com/frankgreen1)
 - J.G.
 -Nikhil Verma
