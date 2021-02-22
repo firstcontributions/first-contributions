@@ -132,7 +132,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [4d4143](https://github.com/4d4143)
 - Sharon Greally
 - [Vishal Krishna](https://github.com/vshlk17)
-- [Kapil Kungwani](https://github.com/kapilkungwani)
+- Kapil
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
