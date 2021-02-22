@@ -9788,7 +9788,4 @@ Jiawen Yang
 - [Ethan Kocheril]
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
-
-sam_namiranian
- [Tanu Verma](https://github.com/vermatanu)
- 
+[Tanu Verma](https://github.com/vermatanu)
