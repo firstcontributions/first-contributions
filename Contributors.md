@@ -9790,5 +9790,6 @@ Jiawen Yang
 - [Ethan Kocheril]
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
+- [Felipe Panizio](https://github.com/FelipePanizio)
 
 sam_namiranian
