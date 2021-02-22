@@ -1466,6 +1466,7 @@ Heinner Amaro
 - [Alvaro Belmonte](https://github.com/alvarobelmonte)
 - Arun Joseph
 - [Jessica Wadsworth](https://github.com/jessicalorenac)
+- [Tanisha Chaudhary](https://github.com/tanishha)
 - [Túlio Chiodi](https://github.com/TulioChiodi/)
 - [Ahmad Shaaban](https://github.com/AhmadShaaban)
 - Sumit Bhuin
