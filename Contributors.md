@@ -2674,6 +2674,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Vaishnav Trivedi](https://github.com/Vanhsiav-afk)
 - [Ujjwal](https://github.com/Ujjwal3009)
 - [Rohit kumar](https://github.com/rohitkr789)
+- [Eugenio Cano](https://github.com/eucagra)
 - [Arpit](https://github.com/arkreactor-1729)
 - [Abhishek jha](https://github.com/abhi-469)
 - [Saksham Gupta](https://github.com/isakshamgupta)
