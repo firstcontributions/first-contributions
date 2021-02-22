@@ -22,6 +22,7 @@
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - [Raducu Vlad-Rares](https://github.com/vlad101vlad)
 - [franklin uche](https://github.com/frankgreen1)
+- [Mario De Los Santos] (https://github.com/TelescopeThieves)
 - J.G.
 -Nikhil Verma
 - Zebra_Force9
