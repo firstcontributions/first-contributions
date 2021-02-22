@@ -327,6 +327,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Sofiene Khiari](https://github.com/sofienekhiari)
 - [Andres Gomez](https://github.com/andresgmz)
 - Fresh Olives
+- [Mads Haderup](https://github.com/MadPonHad)
 - [Daniel Infante](https://github.com/kancurochat)
 - [Nheljee Rose Garcia](https://github.com/garcian5)
 - [Jens Martin](https://github.com/JensMartinGit)
