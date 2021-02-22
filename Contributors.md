@@ -9755,6 +9755,7 @@ Jiawen Yang
 - [Akash Tandon](https://github.com/akashtandon25)
 - [Siddhant Tyagi](https://github.com/s1ddhant-tyagi)
 - [James Dao](http://github.com/jmsdao)
+- [Soufiane Kre](https://github.com/soufianekremcht)
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
@@ -9785,5 +9786,4 @@ Jiawen Yang
 - [Karlen]
 - [Ethan Kocheril]
 - kumarkeshav09(https://github.com/KrKeshav09)
-
-sam_namiranian
+- sam_namiranian
