@@ -81,6 +81,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Gregory Holder](https://github.com/blueted2)
 - [Alka Das](https://github.com/AlkaDas991)
 - [Jacob Newton](https://github.com/jnewtonb)
+- Manav Wadhawan
 - Dvir Berlo
 - Rakin Rahman
 - Arpit
