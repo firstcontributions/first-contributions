@@ -103,6 +103,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
 - Alex English
+- [Colin Panarra](https://github.com/ColinPanarra)
 - [Manzi Eric](https://github.com/manziEric)
 - [Kibet Theophilus](https://github.com/kibettheophilus)
 - [Devanshi Shah](https://github.com/Devanshi1500)
