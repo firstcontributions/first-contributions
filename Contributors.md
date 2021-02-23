@@ -8542,6 +8542,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Vladyslav Kharchenko]
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
+- [Hanifa Arrumaisha](https://github.com/hanifaarrumaisha)
 - [Pedro Alecrim](https://github.com/pedroalecrim)
 - [Mauricio Sako](https://github.com/mauriciosako)
 - [Srirampandian.c](https://github.com/srirampandian17)
