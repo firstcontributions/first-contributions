@@ -939,6 +939,7 @@ Heinner Amaro
 - [RAJ](https://github.com/verreauxblack)
 - [Mayur Shingrakhiya](https://github.com/mkshingrakhiya)
 - [Jessica Chen](https://github.com/jessicreative)
+- [simon-ra](https://github.com/simon-ra)
 - [mowafess](https://github.com/mowafess)
 - [Melanys Figueredo](https://github.com/melanyss)
 - [Carlos Chacon](https://github.com/chaconcarlos)
