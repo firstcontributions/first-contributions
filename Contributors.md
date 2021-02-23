@@ -52,6 +52,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Ameya Andhare](https://github.com/ameya2812)
 - [Shreenanda](https://github.com/shreenanda-8)
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
+- [Sai Srivatsa](https://github.com/Sai81)
 - Nikhil Kommuri
 - Duc HG Le
 - Light Yagami
