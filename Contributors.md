@@ -28,6 +28,9 @@
 - [Mario De Los Santos] (https://github.com/TelescopeThieves)
 - [April](https://github.com/TricksterCodess)
 - J.G.
+
+Marcin Maruszak
+
 -Nikhil Verma
 - Zebra_Force9
 - Brett Bovia
