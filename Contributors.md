@@ -2,6 +2,7 @@
 
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
+- [Kunal Vaidya](https://github.com/Ikunalv)
 - Nishant Shingate
 - Patrick M Copeland
 - JLJ
