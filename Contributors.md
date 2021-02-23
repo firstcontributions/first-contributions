@@ -15,6 +15,7 @@
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
+- [Kishore](https://github.com/kishore-s-15)
 - [Sarvesh Prajapati](https://github.com/sarveshprajapati)
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Subhanga Upadhyay](https://github.com/Azazel5)
