@@ -4896,6 +4896,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Fanni Takacs](https://github.com/FanniTakax)
 - [Yondy](https://github.com/dms-yondy)
 - [Iheb Haboubi](https://github.com/iheb-haboubi)
+- [Tosimi Adesoye](https://github.com/tosimiadesoye)
 - [Mihir Parekh](https://github.com/parekhmihir98)
 - [Himangini Agrawal](https://github.com/HimanginiAgrawal)
 - [Mekel Ilyasa](https://github.com/retr00exe)
