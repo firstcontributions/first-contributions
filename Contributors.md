@@ -9815,6 +9815,7 @@ Jiawen Yang
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [Gonzagadavid](https://github.com/Gonzagadavid)
+- [Shukrullo Turgunov](https://github.com/vodiylik)
 
 sam_namiranian
 - [Guilherme Camargo](https://github.com/camargoguilherme)
