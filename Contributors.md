@@ -38,6 +38,7 @@
 - Michael Wright
 - Daniel Cerqueira
 - Gabriel Antal
+- N.M.
 - Koua Thao
 - [Aldon Fung](https://github.com/aldonfung)
  - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
