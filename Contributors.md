@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Kevin Mell](https://https://github.com/kmell1)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
@@ -9,6 +10,7 @@
 - Nishant Shingate
 - Patrick M Copeland
 - JLJ
+- Tanya Dixit
 - Marcin Maruszak
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - Clay Lanzino
