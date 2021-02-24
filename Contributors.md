@@ -9799,14 +9799,12 @@
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
-
 - Sevda Erkan(https://github.com/SevdaErkan)
   sam_namiranian
-- - [Gauhar Kudret](https://github.com/Gauhar0404)
-
+- [Gauhar Kudret](https://github.com/Gauhar0404)
+- [Eliza Amanbaeva](https://github.com/elzeveta)
 - [Marat Gaipov](https://github.com/maratgaip)
 - [Gauhar Kudret](https://github.com/Gauhar0404)
-
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
 - [Tomiris Andarbayeva]
 - [Chopa Usen](https://github.com/chopa)
