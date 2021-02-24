@@ -288,6 +288,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Mahmoud Elhalwany
 - [Jonathan Gomez] (https://github.com/jgomezpr)
 - [Mani Sai] (https://github.com/manisai216)
+- Dhairya
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [Maximilian Hafer] (https::/github.com/MaxiHafer)
 - [meet0806](https://github.com/meet0806)
