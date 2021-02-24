@@ -218,6 +218,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - Pink Floyd
 - Manasa
+- Pooja Paliwal
 - [Justinas Pranskus](https://github.com/JustinasPr)
 - [Nicobuu](https://github.com/Nicobuu)
 - [Sean Devoy](https://github.com/ParseSnip)
@@ -288,6 +289,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Mahmoud Elhalwany
 - [Jonathan Gomez] (https://github.com/jgomezpr)
 - [Mani Sai] (https://github.com/manisai216)
+- Dhairya
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [Maximilian Hafer] (https::/github.com/MaxiHafer)
 - [meet0806](https://github.com/meet0806)
@@ -4998,6 +5000,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Ayush Sinha](https://github.com/ayushsinha-13)
 - Deppah
 - [Janie-Marie](https://github.com/kuskarina)
+- [Matthias089786](https://github.com/matthias089786)
 - [Oliver Mak](https://github.com/oliver139)
 - [Alex Plazas](https://github.com/alexplazas)
 - lk-git
