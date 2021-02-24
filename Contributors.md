@@ -43,6 +43,7 @@
 - N.M.
 - Koua Thao
 - [Aldon Fung](https://github.com/aldonfung)
+- [Vikas Pathak](https://github.com/pathak-vikas) 
  - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
 - [Jaison A. Alonso-Perez](https://github.com/abe-one)
 - [Neel Bavarva](https://github.com/neelbavarva)
