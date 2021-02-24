@@ -5793,6 +5793,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Preetham Venkatesh](https://github.com/preetham-v)
 - [Avinash Bharadwaj](https://github.com/avibharadwaj)
 - Angelo Martínez
+- Andrew Agard
 - Ethan B
 - Graetdragonn
 - [Poppamunz](https://github.com/Poppamunz)
