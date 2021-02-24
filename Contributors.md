@@ -9814,3 +9814,4 @@ Jiawen Yang
 sam_namiranian
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
+- [Gustavo Kenji](https://github.com/GustavoKenji)
