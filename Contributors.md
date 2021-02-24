@@ -9799,6 +9799,7 @@
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
+- [Eliza Amanbaeva](https://github.com/elzeveta)
 - [Marat Gaipov](https://github.com/maratgaip)
 - [Gauhar Kudret](https://github.com/Gauhar0404)
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
