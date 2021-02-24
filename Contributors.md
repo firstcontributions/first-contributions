@@ -16,6 +16,7 @@
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
+- Raymond Smith
 - [Shayla Luong](https://github.com/nluong1021)
 - [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
