@@ -75,6 +75,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Yusuf Naheem] (https://github.com/Yusuf1n)
 - Rhyu Sarmiento
 - Victor Ochoa
+- [Sergey Danilov](https://github.com/lirikFR)
 - [Alice Phan](https://github.com/nphan03) 
 - [Kshitij Nath](https://github.com/kshitij-18)
 - Jona Stevenson
