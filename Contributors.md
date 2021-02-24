@@ -14,6 +14,7 @@
 - Nishant Shingate
 - Patrick M Copeland
 - JLJ
+- sbenav
 - Marcin Maruszak
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - Clay Lanzino
