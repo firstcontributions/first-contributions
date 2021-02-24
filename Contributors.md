@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Kevin Mell](https://https://github.com/kmell1)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
 - [Thiago Oliveira](https://github.com/tgwow)
