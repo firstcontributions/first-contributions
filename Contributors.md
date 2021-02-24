@@ -57,7 +57,7 @@
 - Lakshan
 - Sumit Rana
 - [Kis9a](https://github.com/kis9a)
-Alex Ilyin (https://github.com/ilyin0)
+- [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
 - [Edinson Requena](https://github.com/edinsonrequena)
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
@@ -66,6 +66,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Shreenanda](https://github.com/shreenanda-8)
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - [Sai Srivatsa](https://github.com/Sai81)
+- [Vishal Sharma](https://github.com/VishalSharma2000)
 - Nikhil Kommuri
 - Duc HG Le
 - Light Yagami
@@ -76,7 +77,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Akshit V
-- [Yusuf Naheem] (https://github.com/Yusuf1n)
+- [Yusuf Naheem](https://github.com/Yusuf1n)
 - Rhyu Sarmiento
 - Victor Ochoa
 - [Sergey Danilov](https://github.com/lirikFR)
@@ -89,7 +90,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
 - [Ritik Dutta](https://github.com/ritikdutta)
-- [Hussain AlHilal] (https:/github.com/HMSAlHilal)
+- [Hussain AlHilal](https:/github.com/HMSAlHilal)
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
 - [Dweep Patil](https://github.com/DweepPatil)
 - [Sahil Mahapatra](https://github.com/introvertedbot)
@@ -112,7 +113,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Dhruv Kalathia 
 - Jan Dolezal
 - [Selma Muminovic](https://github.com/muminovic)
-- Ouissam Maach(https://github.com/BroSam96)
+- [Ouissam Maach](https://github.com/BroSam96)
 - [Amaury Delprat](https://github.com/AyeRlS)
 - [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
@@ -124,7 +125,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Arafat Iqbal](https://github.com/arafatiqbal)
 - Haritarth
 - Joshua Melo
-[Vikhyat Bhatnagar](https://github.com/vikhyat187)
+- [Vikhyat Bhatnagar](https://github.com/vikhyat187)
 - vedangi bhujang
 - [Madhu kunde](https://github.com/madhukunde)
 - Utibeabasi Umanah
@@ -135,10 +136,10 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-= [Perikila Chaitanya Kumar] (https://github.com/chaitanya-perikila)
+= [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
-- [Jongie Oaquiera] (https://github.com/joaquiera)
-- [Version0Chiro] (https://github.com/version0chiro)
+- [Jongie Oaquiera](https://github.com/joaquiera)
+- [Version0Chiro](https://github.com/version0chiro)
 - Samantha Milliga
 - Kalp Vyas
 - Furkan Calik
