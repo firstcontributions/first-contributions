@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Kevin Mell](https://https://github.com/kmell1)
+- [Aditya Sarawat](https://github.com/aditya-sarawat)
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
 - [Kunal Vaidya](https://github.com/Ikunalv)
