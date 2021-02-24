@@ -1,6 +1,5 @@
 ﻿# Contributors
 
-
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Kevin Mell](https://https://github.com/kmell1)
