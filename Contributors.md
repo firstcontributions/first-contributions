@@ -3587,6 +3587,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Jay Stag](https://github.com/JayStag)
 - [Chaise Cooper](https://www.coopertechservices.com/)
 - [Achmad Hendarsyah](https://github.com/ahmdhndr)
+- [Amarjit Pheiroijam](https://github.com/Amarjit-ph)
 - [Nava Pudas]()
 - [Damola Olutoke]()
 - [James Cunningham]()
