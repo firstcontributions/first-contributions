@@ -11,6 +11,7 @@
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
 - [Kunal Vaidya](https://github.com/Ikunalv)
+- [Rupak K V](https://github.com/Rupak1432)
 - Nishant Shingate
 - Patrick M Copeland
 - JLJ
