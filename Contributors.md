@@ -17,6 +17,7 @@
 - sbenav
 - Marcin Maruszak
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
+- [Richard Sistern](https://github.com/richard-sistern)
 -[RaymondL](https://github.com/RaymondLi-1993/first-contributions)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
