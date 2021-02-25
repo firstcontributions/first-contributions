@@ -3442,6 +3442,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [YuriBtr](https://github.com/Yuribtr)
 - [fightthepower](https://github.com/fightthepower)
 - [Omkar Phansopkar](https://github.com/OmkarPh)
+- [Everly Precia](https://github.com/everly-gif)
 - [Marco Barrera](https://github.com/marcobarrera)
 - [Railson Rodrigues](https://github.com/railsonrodrigues)
 - [Marcu K](https://github.com/wonderingwombat)
