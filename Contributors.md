@@ -15,6 +15,7 @@
 - Nishant Shingate
 - Patrick M Copeland
 - JLJ
+- Marcin Maruszak https://github.com/MarcinMaruszak/
 - sbenav
 - Marcin Maruszak
 - [Sakun Rathnayaka] [https://github.com/sakun9526]  
