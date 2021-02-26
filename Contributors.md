@@ -15,6 +15,7 @@
 - [Rupak K V](https://github.com/Rupak1432)
 - Nishant Shingate
 - Patrick M Copeland
+- MikeP
 - JLJ
 - Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
