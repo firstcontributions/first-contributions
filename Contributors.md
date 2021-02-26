@@ -2,6 +2,7 @@
 
 - [Jordan Mellor](https://github.com/jlm222)
 - [Mohmed Ishak](https://github.com/ishakmohmed)
+- [Grace Jeong](https://github.com/JeongHaeun3263)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
@@ -20,7 +21,7 @@
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - sbenav
 - Marcin Maruszak
-- [Sakun Rathnayaka] [https://github.com/sakun9526]  
+- [Sakun Rathnayaka] [https://github.com/sakun9526]
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
 - [Richard Sistern](https://github.com/richard-sistern)
@@ -147,7 +148,7 @@
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-= [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
+  = [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
@@ -9854,6 +9855,6 @@ sam_namiranian
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
 - [Gustavo Kenji](https://github.com/GustavoKenji)
-- [William Dias ](https://github.com/Williamaia) 
+- [William Dias ](https://github.com/Williamaia)
 - [Marut Dhungana](https://github.com/consciousness11)
 - [Paulami Bhattacharya](https://github.com/paulamib123)
