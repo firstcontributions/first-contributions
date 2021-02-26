@@ -2866,6 +2866,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Haripriya Mutyala](https://github.com/MutyalaHaripriya)
 - [Animish Pande](https://github.com/animishpande)
 - [Jonah Henry](https://github.com/jnh129)
+- [Jordan Jenkins](https://github.com/jordanjenkins/)
 - [Harpocrat3s](https://github.com/harpocrat3s)
 - [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
