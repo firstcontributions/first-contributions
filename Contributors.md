@@ -9677,6 +9677,7 @@ https://github.com/Manish-Ghumnani/first-contributions.git- Conor Lambert
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
+- [Frederic Wojcikowski](https://github.com/oFrederic)
 - Namit Shah
 - [Ethan Marreel](https://github.com/stropical)
 - [ThankGod Kalu](https://github.com/TG-Codes)
@@ -9845,4 +9846,4 @@ sam_namiranian
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
 - [Gustavo Kenji](https://github.com/GustavoKenji)
-- [Marut Dhungana](https://github.com/consciousness11) 
+- [Marut Dhungana](https://github.com/consciousness11)
