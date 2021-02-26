@@ -6438,6 +6438,7 @@
 - [Aparna Annapragada](https://github.com/aparnaannapragada)
 - [Taja House](https://github.com/tajahouse)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
+- [Rayane Belaid](https://github.com/RayaneBelaid)
 - [Jack Palaia](https://github.com/jackpalaia)
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
