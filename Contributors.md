@@ -9811,6 +9811,7 @@
   Jiawen Yang
 - [Songiso Cooper Lyambai](https://github.com/songiso)
 - [Yaw Jalik](https://github.com/yawjalik)
+- [Mitch Glass](https://github.com/mitchglass97)
 - [Shashank Suresh](https://github.com/shashank-suresh)
 - [William Foley](https://github.com/williamfoleycit)
 - [Richard McCormick]
