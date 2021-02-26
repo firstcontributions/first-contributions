@@ -60,6 +60,7 @@
 - Gabriel Antal
 - N.M.
 - Koua Thao
+- Ozgur Orman
 - [Aldon Fung](https://github.com/aldonfung)
 - [Vikas Pathak](https://github.com/pathak-vikas)
 - [Femi Oluwadamilola](https://github.com/FemiOluwadamilola)
@@ -9862,3 +9863,4 @@ sam_namiranian
 - [William Dias ](https://github.com/Williamaia) 
 - [Marut Dhungana](https://github.com/consciousness11)
 - [Paulami Bhattacharya](https://github.com/paulamib123)
+- Ozgur Orman
