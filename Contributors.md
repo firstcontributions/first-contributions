@@ -294,6 +294,7 @@
 - Meenal
 - Yerdaulet
 - Elad Moshe
+- [Faruk Şimşekli](https://github.com/faruksimsekli)
 - Safiya B.
 - Alexander O'Brien
 - [Wanda Evans](https://github.com/derpwanda)
