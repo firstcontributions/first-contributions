@@ -9848,4 +9848,5 @@ sam_namiranian
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
 - [Gustavo Kenji](https://github.com/GustavoKenji)
+- [William Dias ](https://github.com/Williamaia) 
 - [Marut Dhungana](https://github.com/consciousness11)
