@@ -40,6 +40,7 @@
 - [Matt Herman](https://github.com/mhermandesign)
 - [Anupriya Kumawat](https://github.com/kumawatanupriya)
 - [Raducu Vlad-Rares](https://github.com/vlad101vlad)
+- [Muhammad Ashraf Bin Idros](https://github.com/Asyhier)
 - [franklin uche](https://github.com/frankgreen1)
 - [Mario De Los Santos] (https://github.com/TelescopeThieves)
 - [April](https://github.com/TricksterCodess)
