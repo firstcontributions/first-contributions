@@ -8,9 +8,9 @@
 
 # Đóng góp đầu tiên
 
-Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó chịu. Chúng tôi muốn đơn giản hóa quy trình học và đóng góp vào những dự án (project) mã nguồn mở. 
+Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó chịu. Chúng tôi muốn đơn giản hóa quy trình học và đóng góp vào những dự án (project) mã nguồn mở.
 
-Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? project này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
+Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? Project này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
 
 #### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.]( #Hướng-dẫn-sử-dụng-các-công-cụ-khác )*
 
@@ -20,7 +20,7 @@ Nếu bạn không có git trên máy tính của bạn, [cài đặt](https://h
 
 ## Copy kho mã nguồn (Fork)
 
-Copy kho mã nguồn này bằng cách nhấn vào nút `Fork` đầu trang này. Bản sao kho mã nguồn mày sẽ được tạo ra trong tài khoản của bạn.
+Copy kho mã nguồn về tài khoản của bạn bằng cách nhấn vào nút `Fork` đầu trang này. Bản sao kho mã nguồn mày sẽ được tạo ra trong tài khoản của bạn.
 
 ## Sao chép kho mã nguồn (clone)
 
@@ -43,23 +43,23 @@ git clone https://github.com/tên-bạn/first-contributions.git
 ```
 Trong đó `tên-bạn` là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
 
-## Tạo chi nhánh (branch)
+## Tạo nhánh (branch)
 
 Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
 
 ```
 cd first-contributions
 ```
-Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
+Bây giờ tạo ra một nhánh sử dụng lệnh `git checkout`
 ```
-git checkout -b <tên-chi-nhánh>
+git checkout -b <tên-nhánh>
 ```
 
 Ví dụ:
 ```
-git checkout -b thêm-Tran-Ly-Vu
+git checkout -b add-Tran-Ly-Vu
 ```
-(Tên của chi nhánh không cần phải có từ *thêm* trong đó, nhưng nó được dùng vì mục đích của chi nhánh này là thêm tên của bạn vào danh sách.)
+(Tên của nhánh không cần phải có từ *add* trong đó, nhưng nó được dùng vì mục đích của nhánh này là thêm tên của bạn vào danh sách.)
 
 ## Thực hiện những thay đổi cần thiết và chấp nhận những thay đổi này
 
@@ -70,7 +70,7 @@ Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo vă
 
 Nếu bạn vào thư mục hiện tại của project và thực hiện lệnh `git status`, bạn sẽ thấy những thay đổi.
 
-Thêm những thay đổi vào chi nhánh bạn vừa tạo bằng lệnh `git add`:
+Thêm những thay đổi vào nhánh bạn vừa tạo bằng lệnh `git add`:
 
 ```
 git add Contributors.md
@@ -87,9 +87,9 @@ Thay thế `<ten-ban>` với tên của bạn
 
 Đẩy những thay đổi của bạn sử dụng `git push`
 ```
-git push origin <tên-chi-nhánh>
+git push origin <tên-nhánh>
 ```
-Thay thế `<tên-chi-nhánh>` với tên của chi nhánh bạn tạo ra trước đó
+Thay thế `<tên-nhánh>` với tên của nhánh bạn tạo ra trước đó
 
 ## Gửi những thay đổi của bạn để xem xét
 
@@ -97,7 +97,7 @@ Nếu bạn mở kho mã nguồn của bạn trên github, bạn sẽ thấy nú
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Bây giờ gửi yêu cầu kéo.
+Bây giờ gửi Pull Request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
