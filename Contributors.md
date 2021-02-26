@@ -9,6 +9,7 @@
 - [Kevin Barrantes](https://github.com/Barrantes-Kevin)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
 - [Thiago Oliveira](https://github.com/tgwow)
+- [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
 - [Arjun R](https://github.com/arjun-prs)
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [Rupak K V](https://github.com/Rupak1432)
@@ -337,6 +338,7 @@
 - [Daniel Desmond](https://github.com/dezy-x2)
 - [Daniel Jacobs](https://github.com/dejacobs88)
 - [Tony Trieu](https://github.com/tonytrieu)
+
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
