@@ -16,6 +16,7 @@
 - Nishant Shingate
 - Patrick M Copeland
 - JLJ
+- Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - sbenav
 - Marcin Maruszak
