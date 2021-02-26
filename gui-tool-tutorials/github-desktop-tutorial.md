@@ -113,7 +113,7 @@ Celebrate your contribution and share it with your friends and followers by goin
 You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 
-### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
+### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
 [Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
