@@ -99,6 +99,7 @@
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - Mozibur Rahman
 - Akshit V
+- [Gurvan LE DIREACH](https://github.com/gurvan-ledireach)
 - [Yusuf Naheem](https://github.com/Yusuf1n)
 - Rhyu Sarmiento
 - Victor Ochoa
