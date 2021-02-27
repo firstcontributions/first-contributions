@@ -2193,6 +2193,7 @@
 - [Muskan Duseja](https://github.com/muskan2729)
 - [Shreya Mukherjee](https://github.com/Shreya57)
 - [Soniya Sadalkar](https://github.com/soniyasadalkar)
+- [Sachin Haldavanekar](https://github.com/sachinh19)
 - [David Thapa](https://github.com/David-Thapa)
 - [Paul Cortes](https://github.com/pcorqui)
 - [Mark Conley](https://github.com/mc4)
