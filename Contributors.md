@@ -14,6 +14,7 @@
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [Rupak K V](https://github.com/Rupak1432)
 - [Sokthai Tang](https://github.com/sokthai)
+- [Nihar Sheth] (https://github.com/niharsheth)
 - Nishant Shingate
 - Patrick M Copeland
 - MikeP
