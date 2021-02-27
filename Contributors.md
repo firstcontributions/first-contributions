@@ -9864,6 +9864,7 @@
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [Gonzagadavid](https://github.com/Gonzagadavid)
 - [Shukrullo Turgunov](https://github.com/vodiylik)
+- [Phatarapran Saraluck](https://github.com/bosskab123)
 
 sam_namiranian
 
