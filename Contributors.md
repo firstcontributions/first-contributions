@@ -19,6 +19,7 @@
 - Ananjaya
 - [Space Slayer](https://github.com/spaceslayer)
 - N Maiya
+- Harshraj Shrivastava
 - hoovks
 - Pranjal bisht
 - [KobeGit24](https://github.com/KobeGit24)
