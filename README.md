@@ -94,7 +94,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where `"url you just copied"` (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -117,8 +117,9 @@ cd first-contributions
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b <branch-name>
 ```
+replacing `<branch-name>` with your new branch name.
 
 For example:
 
@@ -142,10 +143,11 @@ Add those changes to the branch you just created using the `git add` command:
 git add Contributors.md
 ```
 
+
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m <your-name>
 ```
 
 replacing `<your-name>` with your name.
