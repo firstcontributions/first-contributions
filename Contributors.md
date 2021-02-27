@@ -28,6 +28,7 @@
 - [Sakun Rathnayaka] [https://github.com/sakun9526]  
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
+- [yatu360](https://github.com/yatu360/)
 - [Richard Sistern](https://github.com/richard-sistern)
 - [RaymondL](https://github.com/RaymondLi-1993/first-contributions)
 - Clay Lanzino
