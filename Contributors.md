@@ -5985,6 +5985,7 @@
 - [Elvis Salaton](https://github.com/Salaton)
 - [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
+- [Pushkar Sathe](https://github.com/pushkarsathe89)
 - [Jordi Hoven](https://github.com/Jordakoes)
 - [Mary Adeoye](https://github.com/Aduketemi)
 - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
