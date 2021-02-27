@@ -16,6 +16,7 @@
 - [Sokthai Tang](https://github.com/sokthai)
 - [Smit Chavda](https://github.com/SmitChavda)
 - [Nihar Sheth] (https://github.com/niharsheth)
+- [Vinay Adaki] (https://github.com/VinayAdaki)
 - Nishant Shingate
 - Patrick M Copeland
 - MikeP
