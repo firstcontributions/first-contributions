@@ -9874,7 +9874,7 @@
 - [Phatarapran Saraluck](https://github.com/bosskab123)
 
 sam_namiranian
-
+- [Anik Bardhan](https://github.com/Anik-Bardhan)
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
 - [Gustavo Kenji](https://github.com/GustavoKenji)
