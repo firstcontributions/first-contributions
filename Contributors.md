@@ -230,6 +230,7 @@
 - [Mohamed Maher](https://github.com/MohamedMaher5)
 - [Danilo Marques](https://github.com/DaniloMarques1)
 - [Yaejin Han](https://github.com/yaejinHan)
+- [h4m5t](https://github.com/h4m5t)
 - [Nick Stevens](https://github.com/nkstevens)
 - [Jared Greenberg](https://github.com/jared-greenberg)
 - [Kurtis Grant](https://github.com/kurtisbrandon)
@@ -353,7 +354,6 @@
 - [Daniel Desmond](https://github.com/dezy-x2)
 - [Daniel Jacobs](https://github.com/dejacobs88)
 - [Tony Trieu](https://github.com/tonytrieu)
-
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
