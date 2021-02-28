@@ -7864,6 +7864,7 @@
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [WM Dieter](https://github.com/wmdieter)
+- [Sebastian Gabriel] (https://github.com/segabrie)
 - [Jannat Patel](https://github.com/pateljannat)
 - [Shubham Kulkarni](https://github.com/shubhamkulkarni01)
 - [Stephen Clarke](https://github.com/sdclarkelab)
@@ -9880,7 +9881,7 @@ sam_namiranian
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
 - [Gustavo Kenji](https://github.com/GustavoKenji)
-- [William Dias ](https://github.com/Williamaia) 
+- [William Dias ](https://github.com/Williamaia)
 - [Marut Dhungana](https://github.com/consciousness11)
 - [Paulami Bhattacharya](https://github.com/paulamib123)
 - [Irina Kose](https://github.com/irkose)
