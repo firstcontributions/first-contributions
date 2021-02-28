@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Jordan Mellor](https://github.com/jlm222)
+- [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Mohmed Ishak](https://github.com/ishakmohmed)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
