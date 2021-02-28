@@ -41,6 +41,7 @@
 - [Cheese Coke](https://github.com/cheesecoke)
 - [Austin Putland](https://github.com/Goofyeet)
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
+- [Juan Romero Garcia](https://github.com/juanluis-rg/)
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - [Steven Engle](https://github.com/steengle)
