@@ -19,6 +19,7 @@
 - [Nihar Sheth] (https://github.com/niharsheth)
 - [Vinay Adaki] (https://github.com/VinayAdaki)
 - Nishant Shingate
+- [Arif Mamon] (https://github.com/arifmamon)
 - Patrick M Copeland
 - MikeP
 - Ali Ahmed
