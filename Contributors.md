@@ -1318,6 +1318,7 @@
 - [Vardhan Kumar](https://github.com/Vardhan-286)
 - [Debadri Sengupta](https://github.com/Debadri3)
 - [Haritha Mohan](https://github.com/harithamohan1)
+- [Steve Kirby](https://github.com/runningman01)
 - [Nandini Verma](https://github.com/NVSUCCESS)
 - [Sean Wilson](https://github.com/MorbidFace)
 - Nandini Verma
