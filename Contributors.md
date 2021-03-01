@@ -321,6 +321,7 @@
 - Yerdaulet
 - Elad Moshe
 - Tristan 
+- Tristan Again
 - [Faruk Şimşekli](https://github.com/faruksimsekli)
 - Safiya B.
 - Alexander O'Brien
