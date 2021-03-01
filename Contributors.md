@@ -24,6 +24,7 @@
 - MikeP
 - Ali Ahmed
 - JLJ
+- Ronak Patel
 - Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - sbenav
