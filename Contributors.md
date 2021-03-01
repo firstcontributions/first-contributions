@@ -83,6 +83,7 @@
 - [Neel Bavarva](https://github.com/neelbavarva)
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
+- [Vindika Dissanayake][https://github.com/dvindika]
 - Lakshan
 - Sumit Rana
 - [Kis9a](https://github.com/kis9a)
