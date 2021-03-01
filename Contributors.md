@@ -170,7 +170,7 @@
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-= [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
+  = [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
@@ -8379,6 +8379,7 @@
 - [Dyno Wibowo](https://github.com/dynnhw)
 - [Yohuan](https://github.com/Yohuan)
 - [Geoffroy V]
+- [WindyCy]
 - [Jeff Hooton](https://github.com/jeffdhooton)
 - [passerby223](https://github.com/passerby223)
 - [Kauan Rakoski](https://github.com/KauanRakoski)
