@@ -9904,3 +9904,4 @@ sam_namiranian
 - [Alfie Phillips](https://github.com/AlfiePhillips)
 - [Kalju Nekvasil](https://github.com/knekvasil)
 - [Magnus Manfelt N Bergh](https://github.com/manfelt)
+- [Pierre Coulon](https://github.com/Pierrecoulon1)
