@@ -26,6 +26,7 @@
 - Ali Ahmed
 - JLJ
 - Ronak Patel
+- [Bruno Durand](https://github.com/Loriage)
 - Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - [Maastrich](https://github.com/Maastrich)
