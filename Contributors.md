@@ -28,6 +28,7 @@
 - Ronak Patel
 - Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
+- [Maastrich](https://github.com/Maastrich)
 - sbenav
 - Marcin Maruszak
 - [Daniel Wong] (https://github.com/dsew77)
