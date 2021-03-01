@@ -1035,6 +1035,7 @@
 - [David Jiang](https://github.com/jiang94)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Michael John Dollente](https://github.com/xjanggo)
+- [theTerrance](https://github.com/TheTerrance)
 - [Nick Vallejos](https://github.com/Guambo)
 - [Orlando Rivera, Jr.](https://github.com/ORiveraJr84)
 - [Arsh Dhillon](https://github.com/arshd1230)
