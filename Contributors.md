@@ -1328,6 +1328,7 @@
 - [Aman](https://github.com)
 - [Abhishek](https://github.com/a-1043161)
 - [Muhi-Dean Othman](https://github.com/mdothman)
+- Mohamed Mehdi Nouira
 - [Manash Khamari](https://github.com/manash-ranjan-khamari)
 - Piyush
 - [flutterfish](https://github.com/cosmicflutterfish)
