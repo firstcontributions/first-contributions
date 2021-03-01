@@ -9186,6 +9186,7 @@
 - [Jian-Jian Huang](https://github.com/jhuangn)
 - [Dattatraya Mule](https://github.com/dattatrayam)
 - [Saleh Jasim](https://github.com/bezy1)
+- [Saleh Yusefnejad (msynk)](https://github.com/msynk)
 - [Vardan Tandon](https://github.com/vardantandon)
 - [Jayasooryan Saravanan](https://github.com/Soorya001)
 - [Luuk Volkering](https://github.com/luuk180)
