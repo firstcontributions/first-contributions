@@ -29,7 +29,7 @@
 - sbenav
 - Marcin Maruszak
 - [Daniel Wong] (https://github.com/dsew77)
-- [Sakun Rathnayaka] [https://github.com/sakun9526]  
+- [Sakun Rathnayaka] [https://github.com/sakun9526]
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
 - [yatu360](https://github.com/yatu360/)
@@ -68,6 +68,7 @@
 - Zebra_Force9
 - Brett Bovia
 - Michael Wright
+- [Alexander Y Wang](https://github.com/alexanderywang)
 - [**Irena Chen** 🌻](https://github.com/mengirena)
 - Daniel Cerqueira
 - Gabriel Antal
