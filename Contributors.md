@@ -40,6 +40,7 @@
 - [yatu360](https://github.com/yatu360/)
 - [Richard Sistern](https://github.com/richard-sistern)
 - [RaymondL](https://github.com/RaymondLi-1993/first-contributions)
+- [Emil Bratt](https://github.com/emilbratt)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - Raymond Smith
