@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Jordan Mellor](https://github.com/jlm222)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
@@ -9908,6 +9908,7 @@ sam_namiranian
 - [Irina Kose](https://github.com/irkose)
 - [Akshay Saini](https://github.com/anonyxhappie)
 - [Marc Lynch](https://github.com/mwl6)
+- [Andrew Quach](https://github.com/andrewrquach/)
 - [Lee.Jeongwon](https://github.com/inet815)
 - [Alfie Phillips](https://github.com/AlfiePhillips)
 - [Kalju Nekvasil](https://github.com/knekvasil)
