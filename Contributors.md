@@ -28,6 +28,7 @@
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - sbenav
 - Marcin Maruszak
+- [Daniel Wong] (https://github.com/dsew77)
 - [Sakun Rathnayaka] [https://github.com/sakun9526]  
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
