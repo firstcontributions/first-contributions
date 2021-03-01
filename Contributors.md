@@ -3134,6 +3134,7 @@
 - [Muhammad Raqeeb](https://github.com/MuhammadRaqeeb)
 - [Saumya Bhatt](https://github.com/Saumya-Bhatt)
 - [Tiago Oliveira](https://github.com/tiagoods)
+- [Shivani Gajulapalli](https://github.com/shivani-developer)
 - [Virginie 🇫🇷](https://github.com/vifeng)
 - [Gibran Herrera](https://github.com/GibranHL0)
 - [Ajit Kumar Chaurasiya](https://github.com/Ajit-53)
