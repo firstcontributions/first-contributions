@@ -1102,6 +1102,7 @@
 - [Kamto Astrid](https://github.com/KT360)
 - Himanshu Bisht
 - Marsden Madoka
+- [Vaibhav](https://github.com/QKaze)
 - [Oyeleke Lekan](https://github.com/Sirloko)
 - [G2048](https://github.com/G2048)
 - [DionWeb](https://github.com/dionweb)
