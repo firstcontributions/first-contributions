@@ -9660,6 +9660,7 @@
 - [Houston Barnett-Gearhart](https://github.com/chbg)
 - [Zhenkai Weng](https://github.com/oakrc)
 - [Peter G.](https://github.com/syspentarc)
+- [Trinnawat Charoenpradubsilp](https://github.com/trinnawat)
 - [Gaikanomer9](https://github.com/Gaikanomer9)
 - {Kamal C.} (https://github.com/kamalchah)
 - [AnanditaRian19](https://github.com/AnanditaRian19)
