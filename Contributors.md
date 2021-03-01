@@ -21,6 +21,7 @@
 - Nishant Shingate
 - Darshan Aravind (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
+- [Shanna Estj] (https://github.com/shannaestj)
 - Patrick M Copeland
 - MikeP
 - Ali Ahmed
