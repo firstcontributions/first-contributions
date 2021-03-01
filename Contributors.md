@@ -320,6 +320,7 @@
 - Meenal
 - Yerdaulet
 - Elad Moshe
+- Tristan 
 - [Faruk Şimşekli](https://github.com/faruksimsekli)
 - Safiya B.
 - Alexander O'Brien
