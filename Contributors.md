@@ -4176,6 +4176,7 @@
 - [Ajiboye Fatimo](https://github.com/Happiness20)
 - [Alex](https://github.com/bili-bu)
 - [Themesis](https://github.com/themesis)
+- [Kelly McCain](https://github.com/kellymccain)
 - first test
 - [Julia](https://github.com/juliawithers)
 - [Hamed Ghoochanian](https://github.com/HamedGhoochanian)
