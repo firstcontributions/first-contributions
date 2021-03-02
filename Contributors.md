@@ -171,6 +171,7 @@
 - [Jacus Horne](https://github.com/JacusH)
 - [AxelCCp](https://github.com/AxelCCp)
 - Landis Duffett
+- [Sara Choi] (https://github.com/schoi12)
 - [Bosko Sekulic]
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
