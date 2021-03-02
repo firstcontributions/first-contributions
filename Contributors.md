@@ -111,6 +111,7 @@
 - [Vishal Sharma](https://github.com/VishalSharma2000)
 - Nikhil Kommuri
 - Duc HG Le
+- Spencer Hoggart #2
 - Light Yagami
 - Hiroki O
 - Noah Olono
