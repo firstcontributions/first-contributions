@@ -55,6 +55,7 @@
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke)
 - [Austin Putland](https://github.com/Goofyeet)
+- [Shuvrasish Roy](https://github.com/shuvrasish)
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
 - [Juan Romero Garcia](https://github.com/juanluis-rg/)
 - [Somil Jain](https://github.com/UchihaSomil)
