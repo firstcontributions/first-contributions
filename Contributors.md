@@ -9174,7 +9174,8 @@
 - [Sam Kasyoki](https://github.com/sam10105)
 - [Sheryl Garrett]
 - Madhav Desai
-- [THICCGFIELD] (https://github.com/THICCGFIELD/)
+- [THICCGFIELD](https://github.com/THICCGFIELD/)
+- Kevin
 - [Taha Rehah](https://github.com/taharh)
 - [Thomas Wu](https://github.com/Spectrumlitez)
 - [Yogi Sarumaha](https://github.com/sarumaha)
