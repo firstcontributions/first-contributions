@@ -4620,6 +4620,7 @@
 - [Bradley Moss](https://github.com/bradleymoss)
 - [Sarah Lambert](https://github.com/Corexm)
 - [André Ricardo Silva](https://github.com/andrerics)
+- [Manmeet Kaur](https://github.com/manmeett)
 - radekcz
 - wissal
 - jamose0
