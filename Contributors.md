@@ -121,6 +121,7 @@
 - [Tomas Kloucek](https://github.com/TomKloucek)
 - [Ryan Farrow](https://github.com/rfarrow1010)
 - [R Varshith Kumar](https://github.com/codefromrvk)
+- [Connor Blakeney](https://github.com/ConnorBlakeney)
 - Mozibur Rahman
 - Akshit V
 - [Gurvan LE DIREACH](https://github.com/gurvan-ledireach)
