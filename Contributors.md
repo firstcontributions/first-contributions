@@ -25,6 +25,7 @@
 - [Shanna Estj] (https://github.com/shannaestj)
 - Patrick M Copeland
 - MikeP
+- Spencer Hoggart
 - Ali Ahmed
 - JLJ
 - Ronak Patel
