@@ -9922,3 +9922,4 @@ sam_namiranian
 - [Magnus Manfelt N Bergh](https://github.com/manfelt)
 - [Pierre Coulon](https://github.com/Pierrecoulon1)
 - [Yaron Lavi](https://github.com/yawikflame)
+- [Quentin HENRY](https://github.com/Dythic)
