@@ -5426,6 +5426,7 @@
 - [Tarun Kanodia](https://github.com/tarunkanodia)
 - [Bharat Rajora]
 - [Juan Pablo Pinto](https://github.com/jpinto7)
+- [Elliott Watson](https://github.com/8bearings)
 - [Wolfgang Kramer](https://github.com/WolfgangKramer/Fints-MariaDB-Banking)
 - [Mike Dombrowski](https://github.com/m-dombrowski)
 - [Naqiya Ghulamali](https://github.com/Kia-G)
