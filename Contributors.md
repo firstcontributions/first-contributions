@@ -3899,6 +3899,7 @@
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
 - [Prateek Garg](https://github.com/avyuktakalki)
 - [Selahittin Saytaş](https://github.com/saytas)
+- [Harsh Tiwari](https://github.com/sudo-harsh-tiwari/)
 - i-am-none
 - audric
 - [sanjaya ghimire]()
