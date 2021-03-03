@@ -9827,6 +9827,7 @@
 - [Richard Totolo](https://github.com/souzatotolo)
 - [Salman Sharifov](https://github.com/salmansharifov)
 - [TrangNguyen](https://github.com/trangntt-016)
+- [Emily Hardy](https://github.com/emvhardy)
 - [Blank Space](https://stackoverflow.com/)
 - [Kelvin Ou](https://github.com/cyanaspect/)
 - [naruhodoPotato](https://github.com/naruhodoPotato/)
@@ -9943,3 +9944,4 @@ sam_namiranian
 - [Yaron Lavi](https://github.com/yawikflame)
 - [Quentin HENRY](https://github.com/Dythic)
 - [Joseph Harrison](https://github.com/BanJoeH)
+
