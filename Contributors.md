@@ -6,6 +6,7 @@
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Kyle Lambert](https://github.com/kylelambert001)
 - [Mohmed Ishak](https://github.com/ishakmohmed)
+- [Jessie Belle] (https://github.com/jessiebelle)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
