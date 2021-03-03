@@ -32,6 +32,7 @@
 - [Arif Mamon] (https://github.com/arifmamon)
 - [Shanna Estj] (https://github.com/shannaestj)
 - Patrick M Copeland
+- Riley D Benson
 - MikeP
 - Spencer Hoggart
 - Ali Ahmed
