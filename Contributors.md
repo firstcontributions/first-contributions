@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Jordan Mellor](https://github.com/jlm222)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Kyle Lambert](https://github.com/kylelambert001)
