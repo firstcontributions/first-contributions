@@ -23,6 +23,7 @@
 - [Manuel Duarte](https://github.com/manuelduarte077)
 - [Nihar Sheth] (https://github.com/niharsheth)
 - [Vinay Adaki] (https://github.com/VinayAdaki)
+- [Arthur Redmond](https://github.com/ArthurRedmond)
 - Nishant Shingate
 - Darshan Aravind (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
