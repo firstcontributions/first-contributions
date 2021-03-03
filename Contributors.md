@@ -2,6 +2,7 @@
 
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
+
 - [Jordan Mellor](https://github.com/jlm222)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Kyle Lambert](https://github.com/kylelambert001)
@@ -32,6 +33,7 @@
 - [Arif Mamon] (https://github.com/arifmamon)
 - [Shanna Estj] (https://github.com/shannaestj)
 - Patrick M Copeland
+- Riley D Benson
 - MikeP
 - Spencer Hoggart
 - Ali Ahmed
