@@ -6005,6 +6005,7 @@
 - [Eric Hansen](https://github.com/ehansen247)
 - [Palak Mantry](https://github.com/pal-16)
 - [Spencer Call](https://github.com/scall12)
+- E Othmane
 - [qjx](https://github.com/404notfoundqjx)
 - [Hadeel bader](https://github.com/hadeelbader)
 - [TheCoolCrab](https://github.com/thecoolcrab)
