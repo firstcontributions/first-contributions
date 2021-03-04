@@ -37,6 +37,7 @@
 - Patrick M Copeland
 - Riley D Benson
 - MikeP
+- [Hicham Tnacheri] (https://github.com/Halters)
 - [Rakesh] (https://github.com/RakeshPotnuru)
 - Spencer Hoggart
 - Pedro Enciso
