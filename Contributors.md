@@ -9927,6 +9927,7 @@
 - [Alex Martins](https://github.com/alexmartinsgit)
 - [Leo Nugraha](https://github.com/lnugraha)
 - [Karlen]
+- [Fábio Silva]
 - [Ethan Kocheril]
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
