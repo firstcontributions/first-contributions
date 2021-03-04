@@ -514,6 +514,7 @@
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [Shishira S](https://github.com/Shishira4)
 - [SyntheticOne](https://github.com/SyntheticOne)
+- [Serge Mayala](https://github.com/iamayala)
 - [Fathonah Zuchriyah](https://github.com/afaafa)
 - [Benjamin Shao](https://github.com/benjshao)
 - [Calvin Harper](https://github.com/cch264)
