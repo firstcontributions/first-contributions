@@ -1153,6 +1153,7 @@
 - [Jai Sharma](https://github.com/jaisharx)
 - [Ed Glazenski](https://github.com/edg570)
 - [John Neigel](https://github.com/J-F-N)
+- [Remi Bisson](https://github.com/Gashmoh)
 - Oreoluwa Emmanuel
 - Amlanjyoti Saikia
 - [Hana Abayneh](https://github.com/hanaby)
