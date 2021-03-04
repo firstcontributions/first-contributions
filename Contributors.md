@@ -3847,6 +3847,7 @@
 - [RAM PRAKASH](https://github.com/thedoodler)
 - [Olayinka Atobiloye](https://github.com/OlayinkaAtobiloye)
 - [Pilo](https://github.com/ilovenullptr)
+- [Michele Leo](https://github.com/Leodau)
 - [Eveline](https://github.com/eveline-xie)
 - [Didar Mamyrov](https://github.com/m-didar)
 - [Jackson Allen](https://github.com/CrimsonShiroe)
