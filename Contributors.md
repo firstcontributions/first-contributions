@@ -9,6 +9,7 @@
 - [Jessie Belle] (https://github.com/jessiebelle)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
+- [Shaima Haque](https://github.com/SHAIMA-HAQUE)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
 - [Sumin Lee](https://github.com/nimuseel)
 - [Arthur Remy](https://github.com/remy29)
