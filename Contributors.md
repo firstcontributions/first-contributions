@@ -2312,6 +2312,7 @@
 - [Diana Galarza](https://github.com/dianagalarza)
 - [Sebastian Cadena](https://github.com/jsebastian29)
 - [bndtk](https://github.com/bndtk)
+- [Percival Rapha](https://github.com/kingraphaii)
 - [jumatosk](https://github.com/jumatosk)
 - [Mitesh Patil](https://github.com/ke3peR007)
 - [Grace Young](https://github.com/grace-m-young)
