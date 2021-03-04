@@ -6869,6 +6869,7 @@
 - [Lee Wei Gen](https://github.com/weigenie/)
 - [Landon Ferguson](https://github.com/LandonFerg/)
 - [R F](https://github.com/kubr2017)
+- [Wail SABBANI](https://github.com/UnleashMe69)
 - [Sarthak Garg](https://github.com/Ezio-Sarthak)
 - [Daniel Cavalcanti](https://github.com/danielcti)
 - [Bill Hammond](https://github.com/billhammond-dev)
