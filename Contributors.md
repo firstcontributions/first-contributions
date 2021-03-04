@@ -9935,7 +9935,7 @@
 - [Phatarapran Saraluck](https://github.com/bosskab123)
 
 sam_namiranian
-
+- [Ntomb L. Nelson J.](https://github.com/Nelson-J)
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
 - [Gustavo Kenji](https://github.com/GustavoKenji)
@@ -9955,3 +9955,4 @@ sam_namiranian
 - [Quentin HENRY](https://github.com/Dythic)
 - [Joseph Harrison](https://github.com/BanJoeH)
 - [Vacoder !!]
+
