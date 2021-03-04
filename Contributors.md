@@ -215,6 +215,7 @@
 - Henri Wood
 - Felipe Sandoli
 - [Brandon Ward](https://github.com/bward021)
+- [Ashot Janibekyan](https://github.com/ashotjanibekyan)
 - Govind Saju
 - Sankalp Parashar
 - [Utkarsh Singh](https://github.com/anonymous-06-02)
