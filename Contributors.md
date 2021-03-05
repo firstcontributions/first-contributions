@@ -54,6 +54,7 @@
 - sbenav
 - Marcin Maruszak
 - [Daniel Wong] (https://github.com/dsew77)
+- Michael Chen (https://github.com/michaelgchen)
 - [Sakun Rathnayaka] [https://github.com/sakun9526]
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
