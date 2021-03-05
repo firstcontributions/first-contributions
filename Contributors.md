@@ -9972,4 +9972,5 @@ sam_namiranian
 - [Quentin HENRY](https://github.com/Dythic)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
 - [Joseph Harrison](https://github.com/BanJoeH)
+- [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Vacoder !!]
