@@ -1,8 +1,9 @@
-# Contributors
+﻿# Contributors
 
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Jordan Mellor](https://github.com/jlm222)
+- [Riya Sangwan](https://github.com/ria-19)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Kyle Lambert](https://github.com/kylelambert001)
 - [Mohmed Ishak](https://github.com/ishakmohmed)
@@ -20,6 +21,7 @@
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
 - [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
 - [Arjun R](https://github.com/arjun-prs)
+- [Muhammad Azhar](https://github.com/git-azhar)
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [Rupak K V](https://github.com/Rupak1432)
 - [Sokthai Tang](https://github.com/sokthai)
@@ -30,6 +32,7 @@
 - [Nihar Sheth] (https://github.com/niharsheth)
 - [Vinay Adaki] (https://github.com/VinayAdaki)
 - [Arthur Redmond](https://github.com/ArthurRedmond)
+  [Aleksandar Stancevic](https://github.com/AleksandarStancevic)
 - Nishant Shingate
 - Darshan Aravind (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
@@ -52,6 +55,7 @@
 - sbenav
 - Marcin Maruszak
 - [Daniel Wong] (https://github.com/dsew77)
+- Michael Chen (https://github.com/michaelgchen)
 - [Sakun Rathnayaka] [https://github.com/sakun9526]
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
@@ -63,6 +67,7 @@
 - [Emil Bratt](https://github.com/emilbratt)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
+- [Stephen Ricketts](https://github.com/StephenRicketts)
 - Raymond Smith
 - Saurabh Shetty
 - [Shayla Luong](https://github.com/nluong1021)
@@ -90,6 +95,7 @@
 - [Mario De Los Santos] (https://github.com/TelescopeThieves)
 - [April](https://github.com/TricksterCodess)
 - [Goobaii](https://github.com/Goobaii)
+- [Yasaman Adl](https://github.com/YasamanAdl94)
 - J.G.
   -Nikhil Verma
 - Zebra_Force9
@@ -595,6 +601,7 @@
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Susan omahony](https://github.com/susanomahony)
 - [Yusuf Sabbagh] (https://github.com/Yuniac)
+- [Jon Pring] (https://github.com/Obmud2)
 - [Cody Gronning](https://github.com/CodingWithCody)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [Diogo Jorge Basso](https://github.com/diogojorgebasso)
@@ -787,6 +794,7 @@
 - [Dhiraj shelke](https://github.com/Dhiraj2905)
 - [GuyWithEyes](https://github.com/guywitheyes)
 - [Ryu Pradana](https://github.com/whoisryu)
+- [KC Correa](https://github.com/kc-correa)
 - [Bhavika Gianey](https://github.com/Bhavika-Gianey)
 - [Augusto Sales](https://github.com/acssales/)
 - [Vicent Garcia](https://github.com/VicentGN)
@@ -1995,6 +2003,7 @@
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Asa](https://github.com/deweesa)
+- [RScodeSec](https://github.com/RScodeSec)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
 - [Nico Kerschbaumer](https://github.com/nikersch)
@@ -2662,6 +2671,7 @@
 - Shaanya Singh
 - Keshav Kumar
 - [Aizel Agustino](http://github.com/aizelagustino)
+- [Oleg Revedzhuk](https://github.com/olegrevedzhuk)
 - [Sai Srija Panchagnula](https://github.com/srija920)
 - [Tanvi Agarwal](https://github.com/tanviagwl98)
 - [Abinash Mishra](https://github.com/IIAbinashMishraII)
@@ -6182,6 +6192,7 @@
 - [Austin Chen]
 - [Rudi](https://github.com/Rudi-proj)
 - [Marcel Gehlen](https://github.com/mgehlen)
+- [Marcel Wilson](https://github.com/bandophahita)
 - [Justin Cagle](https://github.com/jcagle2001)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
@@ -9922,6 +9933,7 @@
 - ppeloton
 - [VcelistMC](https://github.com/VcelistMC)
 - [CZ](https://github.com/666lcz)
+- [Jeffrey Kwan](https://github.com/jeffreykmc)
 - [MMI](https://github.com/mariamm20)
 - [Match_yc](https://github.com/symphony233)
 - [Shaun Struwig](https://github.com/Blargian)
@@ -9945,6 +9957,7 @@
 - [Phatarapran Saraluck](https://github.com/bosskab123)
 
 sam_namiranian
+
 - [Ntomb L. Nelson J.](https://github.com/Nelson-J)
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
@@ -9963,6 +9976,9 @@ sam_namiranian
 - [Pierre Coulon](https://github.com/Pierrecoulon1)
 - [Yaron Lavi](https://github.com/yawikflame)
 - [Quentin HENRY](https://github.com/Dythic)
+- [M Faisal Ghozi](https://github.com/mfaisalghozi)
 - [Joseph Harrison](https://github.com/BanJoeH)
+- [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Vacoder !!]
 - [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+- [Nick Haralampopoulos](https://github.com/macnick)
