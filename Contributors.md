@@ -114,7 +114,7 @@
 - [Neel Bavarva](https://github.com/neelbavarva)
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
-- [Vindika Dissanayake][https://github.com/dvindika]
+- [Vindika Dissanayake](https://github.com/dvindika)
 - Lakshan
 - Sumit Rana
 - [Kis9a](https://github.com/kis9a)
@@ -1928,7 +1928,7 @@
 - [Cindy Cai](https://github.com/cindymxcai)
 - [Sonakshi Gupta](https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
-- [Prasanna Kumar][https://github.com/prasannakr]
+- [Prasanna Kumar](https://github.com/prasannakr)
 - [Jon Mooney](https://github.com/jonamooney)
 - [Hyongguk Hong](https://github.com/hyongguk)
 - [Vidhu Verma](https://github.com/vidhuu)
@@ -3308,7 +3308,7 @@
 - [Pontus Granath](https://github.com/pontusgranath)
 - [Piotr Witkiewicz](https://github.com/pwitkiewicz)
 - [Jaideep Reddy Kotla](https://github.com/Jaideep07)
-- [Dhaval ][gaurang sultania](https://github.com/gaurtaker)
+- [Dhaval gaurang sultania](https://github.com/gaurtaker)
 - [Deepak Kumar Giri](https://github.com/Dkgiri619)
 - [Chris Greening](https://github.com/chris-greening)
 - [Jose Cuervo](https://github.com/21Insight)
@@ -3936,7 +3936,7 @@
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [ch sai monish](https://github.com/ch-monish/)
 - [undefined-None](https://github.com/undefined-None)
-- [Darshan][https://github.com/darshan-003]
+- [Darshan](https://github.com/darshan-003)
 - [Bryan Guillen](https://github.com/bryg217/)
 - [Shakhzod Narzullaev](https://github.com/jokecoder)
 - [Prateek Garg](https://github.com/avyuktakalki)
@@ -5064,8 +5064,8 @@
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - [Purvesh Gandhi](https://github.com/purvesh261)
-- [EmpalGentong][https://github.com/empalgentong]
-- [Eduardo Laquintana][https://github.com/eduardolaquintana]
+- [EmpalGentong](https://github.com/empalgentong)
+- [Eduardo Laquintana](https://github.com/eduardolaquintana)
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
