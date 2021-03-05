@@ -9930,6 +9930,7 @@
 - ppeloton
 - [VcelistMC](https://github.com/VcelistMC)
 - [CZ](https://github.com/666lcz)
+- [Jeffrey Kwan](https://github.com/jeffreykmc)
 - [MMI](https://github.com/mariamm20)
 - [Match_yc](https://github.com/symphony233)
 - [Shaun Struwig](https://github.com/Blargian)
