@@ -9946,6 +9946,7 @@
 - [Phatarapran Saraluck](https://github.com/bosskab123)
 
 sam_namiranian
+
 - [Ntomb L. Nelson J.](https://github.com/Nelson-J)
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
@@ -9964,6 +9965,6 @@ sam_namiranian
 - [Pierre Coulon](https://github.com/Pierrecoulon1)
 - [Yaron Lavi](https://github.com/yawikflame)
 - [Quentin HENRY](https://github.com/Dythic)
+- [M Faisal Ghozi](https://github.com/mfaisalghozi)
 - [Joseph Harrison](https://github.com/BanJoeH)
 - [Vacoder !!]
-
