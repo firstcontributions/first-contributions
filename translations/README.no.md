@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="/assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -14,7 +14,7 @@ Det er alltid vanskelig å gjøre noe for første gang. Spesielt når man samarb
 
 #### *Les dette på [andre språk (other languages)](/translations/Translations.md).*
 
-<img align="right" width="300" src="/assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Om du ikke har git installert på din maskin, [følg denne veiledningen](https://help.github.com/articles/set-up-git/).
 
@@ -24,7 +24,7 @@ Fork prosjektet ved å klikke på "fork" knappen på toppen av denne siden. Dett
 
 ## Clone prosjektet
 
-<img align="right" width="300" src="/assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Nå skal vi klone prosjektet fra GitHub til din maskin. Gå til din GitHub konto og åpne din nye fork, deretter klikk på "clone" knappen og kopier linken.
 
@@ -34,7 +34,7 @@ git clone <din-link>
 ```
 Erstatt `<din-link>` med linken du kopierte i forrige trinn.
 
-<br><img align="right" width="300" src="/assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<br><img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Eksempel:
 ```
@@ -64,7 +64,7 @@ Navnet på din branch behøver ikke å inneholde ordet *add*, men det gir mening
 
 Åpne filen `Contributors.md` i et program for å redigere tekst og legg til ditt navn i listen. Ikke legg det til i begynnelsen eller slutten av filen, legg det til hvor som helst i mellom. Når du har gjort dette kan du lagre filen.
 
-<img align="right" width="450" src="/assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
 Hvis du åpner terminalen igjen og kjører kommandoen `git status`, vil du se dine endringer.
@@ -93,11 +93,11 @@ Erstatt `<navn-på-din-branch>` med navnet på branch som du opprettet tidligere
 
 Hvis du går til ditt prosjekt på GitHub, vil du se en `Compare & pull request` knapp. Klikk på den for å opprette en pull request.
 
-<img style="float: right;" src="/assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Send inn din pull request når du er klar.
 
-<img style="float: right;" src="/assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Snart vil jeg merge dine endringer inn i master branch av mitt prosjekt. Du vil motta en notifikasjon på epost når dine endringer er lagt til.
 
