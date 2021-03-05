@@ -9975,3 +9975,4 @@ sam_namiranian
 - [Joseph Harrison](https://github.com/BanJoeH)
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Vacoder !!]
+- [Nick Haralampopoulos](https://github.com/macnick)
