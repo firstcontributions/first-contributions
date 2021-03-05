@@ -1995,6 +1995,7 @@
 - [Gokila Rajaiah](https://github.com/ila7goki)
 - [Preeti Vyas](https://github.com/preetivyas)
 - [Asa](https://github.com/deweesa)
+- [RScodeSec](https://github.com/RScodeSec)
 - [Raluca Niti](https://github.com/IRNiti)
 - Ana
 - [Nico Kerschbaumer](https://github.com/nikersch)
