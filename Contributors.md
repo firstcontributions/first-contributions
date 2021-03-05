@@ -93,6 +93,7 @@
 - [Mario De Los Santos] (https://github.com/TelescopeThieves)
 - [April](https://github.com/TricksterCodess)
 - [Goobaii](https://github.com/Goobaii)
+- [Yasaman Adl](https://github.com/YasamanAdl94)
 - J.G.
   -Nikhil Verma
 - Zebra_Force9
