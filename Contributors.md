@@ -20,6 +20,7 @@
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
 - [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
 - [Arjun R](https://github.com/arjun-prs)
+- [Muhammad Azhar](https://github.com/git-azhar)
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [Rupak K V](https://github.com/Rupak1432)
 - [Sokthai Tang](https://github.com/sokthai)
