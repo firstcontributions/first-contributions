@@ -66,6 +66,7 @@
 - [Emil Bratt](https://github.com/emilbratt)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
+- [Stephen Ricketts](https://github.com/StephenRicketts)
 - Raymond Smith
 - Saurabh Shetty
 - [Shayla Luong](https://github.com/nluong1021)
