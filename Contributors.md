@@ -6190,6 +6190,7 @@
 - [Austin Chen]
 - [Rudi](https://github.com/Rudi-proj)
 - [Marcel Gehlen](https://github.com/mgehlen)
+- [Marcel Wilson](https://github.com/bandophahita)
 - [Justin Cagle](https://github.com/jcagle2001)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
