@@ -9970,4 +9970,6 @@ sam_namiranian
 - [Quentin HENRY](https://github.com/Dythic)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
 - [Joseph Harrison](https://github.com/BanJoeH)
+- [Rohan Babbar](https://github.com/rohanbabbar04)
 - [Vacoder !!]
+
