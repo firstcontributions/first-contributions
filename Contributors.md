@@ -598,6 +598,7 @@
 - [Wagdy-Samy](https://github.com/wagdySamy)
 - [Susan omahony](https://github.com/susanomahony)
 - [Yusuf Sabbagh] (https://github.com/Yuniac)
+- [Jon Pring] (https://github.com/Obmud2)
 - [Cody Gronning](https://github.com/CodingWithCody)
 - [Vaishnavi Mudaliar](https://github.com/VaishnaviMudaliar)
 - [Diogo Jorge Basso](https://github.com/diogojorgebasso)
