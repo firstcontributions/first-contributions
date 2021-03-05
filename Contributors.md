@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
@@ -2666,6 +2666,7 @@
 - Shaanya Singh
 - Keshav Kumar
 - [Aizel Agustino](http://github.com/aizelagustino)
+- [Oleg Revedzhuk](https://github.com/olegrevedzhuk)
 - [Sai Srija Panchagnula](https://github.com/srija920)
 - [Tanvi Agarwal](https://github.com/tanviagwl98)
 - [Abinash Mishra](https://github.com/IIAbinashMishraII)
