@@ -9985,3 +9985,4 @@ sam_namiranian
 - [Vacoder !!]
 - [Nick Haralampopoulos](https://github.com/macnick)
 - [keunbum](https://github.com/keunbum)
+- [Pratik Zinjurde](https://github.com/pratikpz18)
