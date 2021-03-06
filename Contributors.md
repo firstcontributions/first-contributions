@@ -385,6 +385,7 @@
 - Ceylan
 - [George L](https://github.com/lambet6)
 - [Hannah Campbell](https://github.com/hannahckc)
+- [Trevor Dolbow] (https://github.com/tdolbow)
 - [Caroline Kistler](https://github.com/carolinekistler)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Collin Rampata](https://github.com/Crampata)
