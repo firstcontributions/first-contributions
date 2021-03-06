@@ -9,6 +9,7 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
+- [Nazmus Sakib 🇧🇩](https://github.com/saakeeb)
 - [Aleksandar Mitevski] (https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
   [Subhasmita](https://github.com/Ask-Subhasmita)
