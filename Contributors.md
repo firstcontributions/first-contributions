@@ -21,6 +21,7 @@
 - [Kevin Barrantes](https://github.com/Barrantes-Kevin)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
 - [Thiago Oliveira](https://github.com/tgwow)
+- [Lauri Lyytikäinen](https://github.com/ExtraLongBaguette)
 - [Sariq Sahazada](https://github.com/Sariq16)
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
 - [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
@@ -60,7 +61,7 @@
 - sbenav
 - Marcin Maruszak
 - [Daniel Wong] (https://github.com/dsew77)
-- [Marcin Glod](https://github.com/Mglod-usernametaken) 
+- [Marcin Glod](https://github.com/Mglod-usernametaken)
 - Michael Chen (https://github.com/michaelgchen)
 - [Sakun Rathnayaka] [https://github.com/sakun9526]
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
