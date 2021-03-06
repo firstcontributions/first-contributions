@@ -9,7 +9,6 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
-- [Nazmus Sakib 🇧🇩](https://github.com/saakeeb)
 - [Aleksandar Mitevski] (https://github.com/AleksandarMitevski)
 - [Rutul Patel](https://github.com/rutulpatel/)
   [Subhasmita](https://github.com/Ask-Subhasmita)
@@ -31,6 +30,7 @@
 - [innofarah](https://github.com/innofarah)
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay](https://github.com/special-kay)
+- [Nazmus Sakib 🇧🇩](https://github.com/saakeeb)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
 - [Divyansh Bhandari] (https://github.com/divyxnsh)
 - [Yuval Mashiach](https://github.com/Yuvalmas)
