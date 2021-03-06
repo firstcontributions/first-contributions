@@ -8,6 +8,7 @@
 - [Kyle Lambert](https://github.com/kylelambert001)
 - [Mohmed Ishak](https://github.com/ishakmohmed)
 - [Jessie Belle] (https://github.com/jessiebelle)
+- [Rudi Kraeher] (https://github.com/rkraeher)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Shaima Haque](https://github.com/SHAIMA-HAQUE)
