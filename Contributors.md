@@ -47,6 +47,7 @@
 - [Hicham Tnacheri] (https://github.com/Halters)
 - [Rakesh] (https://github.com/RakeshPotnuru)
 - Spencer Hoggart
+- Emilio Gumayagay (https://github.com/ergumayagay)
 - Pedro Enciso
 - Ali Ahmed
 - JLJ
