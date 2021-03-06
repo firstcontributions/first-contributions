@@ -29,6 +29,7 @@
 - [Muhammad Azhar](https://github.com/git-azhar)
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [Rupak K V](https://github.com/Rupak1432)
+- [Apratim Ranjan Chakrabarty](https://github.com/Hackhard)
 - [Sokthai Tang](https://github.com/sokthai)
 - [Smit Chavda](https://github.com/SmitChavda)
 - [h4m5t](https://github.com/h4m5t)
