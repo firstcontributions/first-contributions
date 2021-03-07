@@ -126,6 +126,7 @@
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - [Vindika Dissanayake][https://github.com/dvindika]
 - Lakshan
+- [barcern] (https://github.com/barcern)
 - Sumit Rana
 - [Kis9a](https://github.com/kis9a)
 - [Alex Ilyin](https://github.com/ilyin0)
