@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Dylan Govender](https://github.com/dylangovender)
 - [Xavier Walton] (https://github.com/breezy-bodega)
