@@ -10008,3 +10008,4 @@ sam_namiranian
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
 - [Yuba Neupane](https://github.com/YubaNeupane)
 - [Asier Exposito](https://github.com/expuexto)
+- [Ng Ri Chi](https://github.com/richicodes)
