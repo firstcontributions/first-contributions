@@ -10000,3 +10000,4 @@ sam_namiranian
 - [Pratik Zinjurde](https://github.com/pratikpz18)
 - [Rohan Babbar](https://github.com/rohanbabbar04)
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
+- [Bader Alanzi](https://github.com/BaderAlanzi)
