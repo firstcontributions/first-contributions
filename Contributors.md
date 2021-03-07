@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
+- [Dylan Govender](https://github.com/dylangovender)
 - [Xavier Walton] (https://github.com/breezy-bodega)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Jordan Mellor](https://github.com/jlm222)
