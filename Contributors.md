@@ -10004,3 +10004,4 @@ sam_namiranian
 - [Rohan Babbar](https://github.com/rohanbabbar04)
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
 - [Yuba Neupane](https://github.com/YubaNeupane)
+- [Asier Exposito](https://github.com/expuexto)
