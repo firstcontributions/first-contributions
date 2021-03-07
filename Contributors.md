@@ -133,6 +133,7 @@
 - [Kis9a](https://github.com/kis9a)
 - [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
+- [Vikrant]
 - [Diego Plata](https://github.com/DPLATA)
 - [Edinson Requena](https://github.com/edinsonrequena)
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
