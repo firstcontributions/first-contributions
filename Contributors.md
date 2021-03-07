@@ -2137,6 +2137,7 @@
 - [Jennifer Kajiwara](https://github.com/jenkaji/)
 - [Rodrigo Yap](https://github.com/rogri2)
 - [Aftab]
+- [Carmelo Julius Paz](https://github.com/carmelopaz0708)
 - [Jacob Penney](https://github.com/Cold-Oats)
 - [Lois Shank](https://github.com/LoisGitStuff)
 - [Sherin V](https://github.com/SherinV/)
