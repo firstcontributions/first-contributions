@@ -197,6 +197,7 @@
 - Rakin Rahman
 - Arpit
 - Jack sparrow
+- Hawa Sylla
 - Sejal Khedekar
 - Abhiuday
 - Emre Atilgan -[Abhinay Yadav](https://github.com/abhinayy0)
