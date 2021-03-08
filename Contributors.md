@@ -10023,4 +10023,5 @@ sam_namiranian
 - [Joe Roxbury] (https://github.com/jroxbury)
 - [Adam Herbst] (https://github.com/adamherbst)
 - [Grant Manning] (https://github.com/GrantManning)
+- [Jarom Later](https://github.com/thundrjary)
 - jwysowski
