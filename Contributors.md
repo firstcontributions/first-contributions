@@ -115,6 +115,7 @@
 - [April](https://github.com/TricksterCodess)
 - [Goobaii](https://github.com/Goobaii)
 - [Yasaman Adl](https://github.com/YasamanAdl94)
+- [Paul Lockhart](https://github.com/PaulLockhart)
 - J.G.
   -Nikhil Verma
 - Zebra_Force9
