@@ -147,6 +147,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Anurag Chaurasia](https://github.com/Anurag331)
 - [Anuar Hage](https://github.com/anuarhage)
 - [Eric Karugu](https://github.com/erickarugu32)
+- rchaff7
 - Peter Galvan
 - [Candace Ng] (https://github.com/candaceng)
 - Mohammad Murtaza
