@@ -8,6 +8,7 @@
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Jordan Mellor](https://github.com/jlm222)
 - [Riya Sangwan](https://github.com/ria-19)
+- [Dustin Ray](https://github.com/dustinjray)
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
