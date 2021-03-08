@@ -9654,6 +9654,7 @@
 - [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
 - [Arnab Chakraborty](https://github.com/ArnabC27)
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
+- [James Vasanth](https://github.com/Jamesvasanth21)
 - [andreas789](https://github.com/andreas789)
 - [r4m4k0735w4r4r40]
 - [David Dobritoiu](https://github.com/Davis856)
