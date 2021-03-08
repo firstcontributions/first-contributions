@@ -10005,6 +10005,7 @@ sam_namiranian
 - [Akshay Saini](https://github.com/anonyxhappie)
 - [Marc Lynch](https://github.com/mwl6)
 - [Alec Ghost](https://github.com/AlecGhost)
+- [Brentosaurus]
 - [Andrew Quach](https://github.com/andrewrquach/)
 - [Lee.Jeongwon](https://github.com/inet815)
 - [Alfie Phillips](https://github.com/AlfiePhillips)
