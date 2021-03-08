@@ -96,6 +96,7 @@
 - [Austin Putland](https://github.com/Goofyeet)
 - [Shuvrasish Roy](https://github.com/shuvrasish)
 - [Dhwaj Sharma](https://github.com/dhwajsharma)
+- majkimge
 - [Juan Romero Garcia](https://github.com/juanluis-rg/)
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
