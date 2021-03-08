@@ -2,6 +2,7 @@
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Aman Garg](https://github.com/rubal2508)
+- [Patrick Franz](https://github.com/PatrickFranz)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
