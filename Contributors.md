@@ -546,6 +546,7 @@
 - [Dominik](https://github.com/chassit19)
 - [Chaitanya](https://github.com/bmchaitu)
 - [Anish Raghavendra](https://github.com/z404)
+- [Manish Ladkat](https://github.com/manishladkat29)
 - [Sankalp Mukim](https://github.com/sankalpmukim)
 - [Marc Lucraft](https://github.com/marclucraft)
 - [Vivek Ranjan](https://github.com/VivekRanjan94)
