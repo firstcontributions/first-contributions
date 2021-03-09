@@ -244,6 +244,7 @@
 - [Sarthak Srivastava](https://github.com/Sarthak1306)
 - Siddhanth Verma
 - [Eli Yacobov](https://github.com/eliyacobov1)
+- [Nisan Ayash](https://github.com/nisanayash)
 - [Ingi Hong](https://github.com/Ingi-Hong)
 - Patrick O'Mahony
 - Narayan Pai
