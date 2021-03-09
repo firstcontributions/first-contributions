@@ -9964,7 +9964,7 @@
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
-- [Grant Davis] 
+- [Grant Davis]
 - [Bryan Ho](https://github.com/bryanccho)
 - [Abhishek Anand :smile:](https://www.linkedin.com/in/abhishek-anand-a3446a196/)
 - [Bhanuprakash :smile::smile:](https://www.linkedin.com/in/bhanu-prakash-617757206/)
@@ -10033,12 +10033,12 @@ sam_namiranian
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
 - [Yuba Neupane](https://github.com/YubaNeupane)
 - [Asier Exposito](https://github.com/expuexto)
-- [Peter Lovei] (https://github.com/loveipeter)
-- [Thanh Hoang] (https://github.com/nythoang)
-- [Joe Roxbury] (https://github.com/jroxbury)
-- [Adam Herbst] (https://github.com/adamherbst)
-- [Grant Manning] (https://github.com/GrantManning)
+- [Peter Lovei](https://github.com/loveipeter)
+- [Thanh Hoang](https://github.com/nythoang)
+- [Joe Roxbury](https://github.com/jroxbury)
+- [Adam Herbst](https://github.com/adamherbst)
+- [Grant Manning](https://github.com/GrantManning)
 - [Jarom Later](https://github.com/thundrjary)
-- jwysowski
-https://github.com/franzk
-[Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+- [jwysowski](https://github.com/franzk)
+- [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+- [Yassine salah](https://github.com/Ysalahed)
