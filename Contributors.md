@@ -1677,6 +1677,7 @@
 - [sillybot](https://github.com/sillybot)
 - jojor
 - [PoofPanda](https://github.com/PoofPanda)
+- Majo
 - [oonoo](https://github.com/oonoo)
 - [askorykh](https://github.com/askorykh)
 - [saharfiuzati](https://github.com/saharfiuzati)
