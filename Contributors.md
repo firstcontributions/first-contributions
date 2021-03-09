@@ -1250,6 +1250,7 @@
 - [Joseph Kishore](https://github.com/Joseph-Kishore)
 - [Mike Mathu] (https://github.com/mikemathu)
 - [Daniel Taghavi](https://github.com/dtaghavi)
+- [Vighnesh Singh Thakur](https://github.com/Vighnesh1234)
 - [Andre Kurniawan](https://github.com/oidre)
 - [Hussein Akar](https://github.com/hussein-akar)
 - [Nate Osterfeld](https://github.com/NateOsterfeld)
