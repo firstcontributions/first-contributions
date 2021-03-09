@@ -92,6 +92,7 @@
 - [Stephen Ricketts](https://github.com/StephenRicketts)
 - Raymond Smith
 - Saurabh Shetty
+- [majkimge]
 - [Shayla Luong](https://github.com/nluong1021)
 - [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
