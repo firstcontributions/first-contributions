@@ -6738,6 +6738,7 @@
 - [Raghunandan M. A.](https://github.com/raghu-ma)
 - [agtokty](https://github.com/agtokty)
 - [Bradford Bailey](https://github.com/bradferd)
+- [Graham Trail](https://github.com/giaddon)
 - [Torbjørn Bratland](https://github.com/tobratland)
 - [NdengangEdwin](https://github.com/ndengangEdwin)
 - [Sam McClure](https://github.com/sam-mcclure)
