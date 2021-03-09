@@ -29,6 +29,7 @@
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Shaima Haque](https://github.com/SHAIMA-HAQUE)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
+- [Gabriele C.](https://github.com/gchem1se)
 - [Sumin Lee](https://github.com/nimuseel)
 - [Arthur Remy](https://github.com/remy29)
 - [Kevin Mell](https://https://github.com/kmell1)
