@@ -12,6 +12,7 @@
 - [Jordan Mellor](https://github.com/jlm222)
 - [Riya Sangwan](https://github.com/ria-19)
 - [Dustin Ray](https://github.com/dustinjray)
+- [Avi Cohen] (https://github.com/avicohen3660)
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
