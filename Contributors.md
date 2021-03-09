@@ -161,6 +161,7 @@
 - Duc HG Le
 - Spencer Hoggart #2
 - Light Yagami
+- [Lily Peng](https://github.com/lily-peng)
 - Hiroki O
 - Noah Olono
 - Prajyot Joshi
