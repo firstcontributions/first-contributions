@@ -15,6 +15,7 @@
 - [Dustin Ray](https://github.com/dustinjray)
 - [Avi Cohen] (https://github.com/avicohen3660)
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
+- [Amritpal singh](https://github.com/Amritpal-001)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Kyle Lambert](https://github.com/kylelambert001)
