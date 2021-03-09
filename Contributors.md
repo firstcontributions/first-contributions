@@ -242,6 +242,7 @@
 - Furkan Calik
 - [Shubham-Vishwakarma](https://github.com/Shubham-Vishwakarma)
 - [Sarthak Srivastava](https://github.com/Sarthak1306)
+- [Prabhudatta Sarangi](https://github.com/CaptDevil)
 - Siddhanth Verma
 - [Eli Yacobov](https://github.com/eliyacobov1)
 - [Nisan Ayash](https://github.com/nisanayash)
