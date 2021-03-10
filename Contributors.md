@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Aman Garg](https://github.com/rubal2508)
@@ -10053,3 +10053,4 @@ sam_namiranian
 - jwysowski
 https://github.com/franzk
 [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+- [Jake Z](https://github.com/EsuFeDia)
