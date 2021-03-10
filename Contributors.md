@@ -10055,8 +10055,9 @@ sam_namiranian
 - [Jarom Later](https://github.com/thundrjary)
 - jwysowski
 https://github.com/franzk
-[Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+- [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
 - [Jake Z](https://github.com/EsuFeDia)
 - [Emil M](https://github.com/znibblol)
 - Hassan Abdulrahman
 - [Jeferson Nolasco](https://github.com/jehnls)
+- [Kushal Das](https://github.com/Kushal997-das)
