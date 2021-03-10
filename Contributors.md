@@ -10059,3 +10059,4 @@ https://github.com/franzk
 - [Jake Z](https://github.com/EsuFeDia)
 - [Emil M](https://github.com/znibblol)
 - Hassan Abdulrahman
+- [Jeferson Nolasco](https://github.com/jehnls)
