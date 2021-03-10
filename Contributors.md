@@ -358,6 +358,7 @@
 - Jonathan White Velasco
 - [flora kunjumon]
 - [gon2410] (https://github.com/gon2410)
+- [OzzOzzOzz](https://github.com/OzzOzzOzz)
 - [Armando Martinez]
 - Prathmesh Jadhav
 - [John Abercrombie](https://github.com/jcaber4)
