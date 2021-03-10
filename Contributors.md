@@ -21,6 +21,7 @@
 = [Perikila Chaitanya Kumar] (https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera] (https://github.com/joaquiera)
+- [vedangi bhujang] 
 - [Version0Chiro] (https://github.com/version0chiro)
 - Samantha Milliga
 - Kalp Vyas
