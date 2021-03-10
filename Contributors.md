@@ -8934,6 +8934,7 @@
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Aruna Prabakar](https://github.com/aprabakar1110)
 - [Jessica Padolina](https://github.com/jpadolina)
+- [Judy Abi Nehme](https://github.com/judabne)
 - [Udbhav Bisarya]
 - [Denitsa Stapleton](https://github.com/denitsa13)
 - [Kristina Huang](https://github.com/dhuang07)
