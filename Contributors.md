@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Aman Garg](https://github.com/rubal2508)
@@ -6827,6 +6827,7 @@
 - [Cinthia Barros](https://github.com/barroscinthia)
 - [William Duvall](https://github.com/duvallwh)
 - [Neel](https://github.com/spiyer99)
+- [JA] (https://github.com/ficusrobusta)
 - [Tigran Harutyunyan](https://github.com/caboose008)
 - [Jakub Banasik](https://github.com/jakubbanasik)
 - [Hyodo](https://github.com/eduardo-hyodo)
