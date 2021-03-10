@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Aman Garg](https://github.com/rubal2508)
@@ -636,6 +636,7 @@
 - [Omar Elsherif](https://github.com/omarelsherif010)
 - [Shekhar Karna](https://github.com/shekharkarna)
 - [Julie Michaud](https://github.com/jlmichaud)
+- [Matthew Romano](https://github.com/matthewromano5087)
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [ehye](https://github.com/ehye)
 - [Riya](https://github.com/RR-08)
