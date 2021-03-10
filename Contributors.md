@@ -3919,6 +3919,7 @@
 - [elioudakis]()
 - [rogatec](https://github.com/rogatec)
 - [Shelock Holmes](https://github.com/sherlock)
+- [Eric Chrobak](https://github.com/epunx2)
 - [SanjayDevTech](https://github.com/SanjayDevTech)
 - [Ferruh Cihan](https://github.com/ferruhcihan)
 - [Pradyumna Yadav](https://github.com/pradyyadav)
@@ -9949,7 +9950,7 @@
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
-- [Grant Davis] 
+- [Grant Davis]
 - [Bryan Ho](https://github.com/bryanccho)
 - [Abhishek Anand :smile:](https://www.linkedin.com/in/abhishek-anand-a3446a196/)
 - [Bhanuprakash :smile::smile:](https://www.linkedin.com/in/bhanu-prakash-617757206/)
