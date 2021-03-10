@@ -135,6 +135,7 @@
 - Gabriel Antal
 - N.M.
 - Koua Thao
+- [Savio Magalhaes Fernandes] (https://github.com/Oivasmf)
 - [Kaliappan Yadav] (https://github.com/kaliappan01)
 - [Alex Deatherage] (https://github.com/mah-back-hurts)
 - [Aldon Fung](https://github.com/aldonfung)
