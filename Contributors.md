@@ -78,6 +78,7 @@
 - Ali Ahmed
 - JLJ
 - [Aditi Dona](https://github.com/aditidona)
+- Mohit Mehta
 - Ronak Patel
 - [Bruno Durand](https://github.com/Loriage)
 - Tanya Dixit
