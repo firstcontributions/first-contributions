@@ -180,6 +180,7 @@
 - [Sai Srivatsa](https://github.com/Sai81)
 - [Vishal Sharma](https://github.com/VishalSharma2000)
 - [James Dodds](https://github.com/Clannis)
+- [Cody Wiseman](https://github.com/codywiseman)
 - Nikhil Kommuri
 - Duc HG Le
 - Spencer Hoggart #2
@@ -3503,7 +3504,7 @@
 - [Pooja Patil](https://github.com/poojapatil010677)
 - [Kartik Shukla](https://github.com/kartiks-21)
 - [Jeevan Joshi](https://github.com/G1Joshi)
-- [Nguyen Phuc](https://github.com/nguyenphuc-vn)  
+- [Nguyen Phuc](https://github.com/nguyenphuc-vn)
 - [Jason Weyland](https://github.com/JWeyland12)
 - [Lebohang Kuenane](https://github.com/kuenane)
 - [V01D](https://github.com/V01D-NULL)
