@@ -10,6 +10,7 @@
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
+- [adamantia](https://github.com/adamantiakoutsi)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
 - [Xavier Walton] (https://github.com/breezy-bodega)
