@@ -169,6 +169,7 @@
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - [Sai Srivatsa](https://github.com/Sai81)
 - [Vishal Sharma](https://github.com/VishalSharma2000)
+- [James Dodds](https://github.com/Clannis)
 - Nikhil Kommuri
 - Duc HG Le
 - Spencer Hoggart #2
