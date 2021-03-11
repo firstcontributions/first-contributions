@@ -10072,3 +10072,4 @@ https://github.com/franzk
 - [Zekun Wang](https://github.com/fEst1ck)
 - [Nikhil Mehta](https://github.com/nsmehta)
 - [Aneena Shinoy](https://github.com/Aneena)
+- [Serafim Davranis](https://github.com/SerDavran)
