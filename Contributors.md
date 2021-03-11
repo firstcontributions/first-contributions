@@ -205,6 +205,7 @@
 - Jona Stevenson
 - [Max Marra[(https://github.com/max64q)
 - [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
+- [Alfredo Varela](https://github.com/fikandata) 
 - [Frank Schmidtner](https://github.com/littlelordy)
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
