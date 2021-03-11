@@ -10069,3 +10069,5 @@ https://github.com/franzk
 - [Emmanuel Lucio Urbina](https://github.com/emmanuelurbina)
 - [Jeferson Nolasco](https://github.com/jehnls)
 - [Nikhil Mehta](https://github.com/nsmehta)
+- [Victor Bogdanow Dornelles] (https://github.com/Victor-BwD)
+
