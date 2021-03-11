@@ -92,6 +92,7 @@
 - [Marcin Glod](https://github.com/Mglod-usernametaken)
 - Michael Chen (https://github.com/michaelgchen)
 - [Sakun Rathnayaka] [https://github.com/sakun9526]
+  Paweł Wrzesiński
 - [Isaac Carrascal] [https://github.com/isaac-carrascal)
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
