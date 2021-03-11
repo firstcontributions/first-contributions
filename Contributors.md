@@ -3503,7 +3503,7 @@
 - [Pooja Patil](https://github.com/poojapatil010677)
 - [Kartik Shukla](https://github.com/kartiks-21)
 - [Jeevan Joshi](https://github.com/G1Joshi)
-- [Nguyen Phuc](https://github.com/nguyenphuc-vn)  
+- [Nguyen Phuc](https://github.com/nguyenphuc-vn)
 - [Jason Weyland](https://github.com/JWeyland12)
 - [Lebohang Kuenane](https://github.com/kuenane)
 - [V01D](https://github.com/V01D-NULL)
@@ -10072,8 +10072,8 @@ sam_namiranian
 - [Grant Manning] (https://github.com/GrantManning)
 - [Jarom Later](https://github.com/thundrjary)
 - jwysowski
-https://github.com/franzk
-[Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+  https://github.com/franzk
+  [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
 - [Jake Z](https://github.com/EsuFeDia)
 - [Emil M](https://github.com/znibblol)
 - Hassan Abdulrahman
@@ -10086,6 +10086,7 @@ https://github.com/franzk
 - [Serafim Davranis](https://github.com/SerDavran)
 - [Alcmene S](https://github.com/alcmene00)
 - [Amith](https://github.com/amithsourya)
+- [Sachin Karol](https://github.com/s-karol)
 - [Ravi Gupta](https://github.com/ravi9607)
-- [Sumit Kumar}(https://github.com/Shadowpii)
+- [Sumit Kumar] (https://github.com/Shadowpii)
 - [Dillon O'Connor](https://github.com/dillonoconnor)
