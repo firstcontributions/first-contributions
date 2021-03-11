@@ -10066,5 +10066,6 @@ https://github.com/franzk
 - [Jake Z](https://github.com/EsuFeDia)
 - [Emil M](https://github.com/znibblol)
 - Hassan Abdulrahman
+- [Emmanuel Lucio Urbina](https://github.com/emmanuelurbina)
 - [Jeferson Nolasco](https://github.com/jehnls)
 - [Nikhil Mehta](https://github.com/nsmehta)
