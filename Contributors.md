@@ -10053,6 +10053,7 @@ sam_namiranian
 - [Vacoder !!]
 - [Nick Haralampopoulos](https://github.com/macnick)
 - [keunbum](https://github.com/keunbum)
+- [sparshiigupta](https://github.com/sparshiigupta)
 - [Pratik Zinjurde](https://github.com/pratikpz18)
 - [Rohan Babbar](https://github.com/rohanbabbar04)
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
