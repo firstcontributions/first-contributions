@@ -1,6 +1,7 @@
 # Contributors
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
+- [Karanchadha] (https://github.com/KaranChadha10)
 - [Aman Garg](https://github.com/rubal2508)
 - [Patrick Franz](https://github.com/PatrickFranz)
 - [Anonymous Rookie](https://github.com/n-atom)
