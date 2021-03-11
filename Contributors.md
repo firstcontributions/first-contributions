@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Karanchadha] (https://github.com/KaranChadha10)
@@ -555,6 +555,7 @@
 - [Joshua Quan](https://github.com/JMQ0598)
 - [Ben Hill](https://github.com/ben-hill33)
 - [Sangeeta Shetty](https://github.com/Sangeetaaaa)
+- [Yashwanth Raj](https://github.com/yr7000)
 - [b3z](https://github.com/b3z)
 - [Yash Parekh](https://github.com/yash20010)
 - [Natasha Drost](https://github.com/nata4471)
