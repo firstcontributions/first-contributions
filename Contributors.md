@@ -83,6 +83,7 @@
 - Pedro Enciso
 - Ali Ahmed
 - JLJ
+- [Justin Powers](https://github.com/Bladelazoe)
 - [Aditi Dona](https://github.com/aditidona)
 - Mohit Mehta
 - Ronak Patel
