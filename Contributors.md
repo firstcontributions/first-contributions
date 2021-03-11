@@ -30,6 +30,7 @@
 - [Mohmed Ishak](https://github.com/ishakmohmed)
   [Prasoon Jain](https://github.com/prasoonjain4422)
 - [Jessie Belle] (https://github.com/jessiebelle)
+- [adamantia](https://github.com/adamantiakoutsi)
 - [Rudi Kraeher] (https://github.com/rkraeher)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
