@@ -269,6 +269,7 @@
 - Utibeabasi Umanah
 - [Jacus Horne](https://github.com/JacusH)
 - [AxelCCp](https://github.com/AxelCCp)
+- [Aditya Ganti](https://github.com/ring-a-bell)
 - Landis Duffett
 - [Sara Choi] (https://github.com/schoi12)
 - [Bosko Sekulic]
