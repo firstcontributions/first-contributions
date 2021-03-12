@@ -166,6 +166,7 @@
 - Zebra_Force9
 - Brett Bovia
 - Michael Wright
+- [Josh Sample] (https://github.com/JoshSample)
 - [Alexander Y Wang](https://github.com/alexanderywang)
 - [**Irena Chen** 🌻](https://github.com/mengirena)
 - Daniel Cerqueira
