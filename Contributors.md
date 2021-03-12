@@ -121,6 +121,7 @@
 - [majkimge]
 - [Shayla Luong](https://github.com/nluong1021)
 - [leovct](https://github.com/leovct/)
+- [Priyanshu Jain](https://github.com/priyanshu003pr)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke)
 - [Austin Putland](https://github.com/Goofyeet)
