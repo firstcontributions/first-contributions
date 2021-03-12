@@ -41,6 +41,7 @@
 - [Gabriele C.](https://github.com/gchem1se)
 - [Sumin Lee](https://github.com/nimuseel)
 - [Arthur Remy](https://github.com/remy29)
+- [Destiny Aigbe](https://github.com/Destiny-01)
 - [Kevin Mell](https://https://github.com/kmell1)
 - [Kevin Barrantes](https://github.com/Barrantes-Kevin)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
