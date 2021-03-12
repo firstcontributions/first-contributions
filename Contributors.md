@@ -2,6 +2,7 @@
 
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Karanchadha] (https://github.com/KaranChadha10)
+- [Divakar Rana](https://github.com/divakarrana)
 - [Aman Garg](https://github.com/rubal2508)
 - [Kundan kumar gupta](https://github.com/kundan108)
 - [Patrick Franz](https://github.com/PatrickFranz)
