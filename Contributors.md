@@ -132,6 +132,7 @@
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - [Steven Engle](https://github.com/steengle)
+- [Priyanshu Jain](https://github.com/priyanshu003pr)
 - [Kishore](https://github.com/kishore-s-15)
 - [Sarvesh Prajapati](https://github.com/sarveshprajapati)
 - Jiyon Trammell (https://github.com/codeweb123)
