@@ -4808,6 +4808,7 @@
 - [Laurynas Kerezius](https://github.com/larryare)
 - [Jacob Garcia](https://github.com/JacobGDev)
 - [Anand Krishnan](https://github.com/akrishnan93)
+- [Zuber Rahman](https://github.com/RebuzZz)
 - [Anna Wijetunga](https://github.com/AnnaWijetunga)
 - [Isaiah Blanks](https://github.com/IsaiahBlanks)
 - [Nithin Kumar](https://github.com/nithintata)
