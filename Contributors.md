@@ -70,6 +70,7 @@
 - Patrick M Copeland
 - Riley D Benson
 - MikeP
+- 808Migz
 - [Hicham Tnacheri] (https://github.com/Halters)
 - [Rakesh] (https://github.com/RakeshPotnuru)
 - Spencer Hoggart
