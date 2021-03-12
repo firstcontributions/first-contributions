@@ -198,6 +198,7 @@
 - [R Varshith Kumar](https://github.com/codefromrvk)
 - [Connor Blakeney](https://github.com/ConnorBlakeney)
 - Mozibur Rahman
+- [Abhinav Gupta](https://github.com/AbhinavGupta201)
 - Akshit V
 - [Gurvan LE DIREACH](https://github.com/gurvan-ledireach)
 - [Yusuf Naheem](https://github.com/Yusuf1n)
