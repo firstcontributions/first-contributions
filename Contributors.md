@@ -1018,6 +1018,7 @@
 - [Savneet Kaur](https://github.com/SavneetKaur01)
 - [Thomas Glenn](https://github.com/thomasglenngit)
 - [Bingyang Hu](https://github.com/hby93222)
+- [Randi Schreiner](https://github.com/mimirandi21)
 - [Becky Richardson](https://github.com/beckyrich)
 - [Connie Guan](https://github.com/concon55)
 - [Devan Eatch](https://github.com/synthsandstuff)
