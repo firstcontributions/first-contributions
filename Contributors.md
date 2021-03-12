@@ -121,7 +121,6 @@
 - [majkimge]
 - [Shayla Luong](https://github.com/nluong1021)
 - [leovct](https://github.com/leovct/)
-- [Priyanshu Jain](https://github.com/priyanshu003pr)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke)
 - [Austin Putland](https://github.com/Goofyeet)
@@ -131,6 +130,7 @@
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - [Steven Engle](https://github.com/steengle)
+- [Priyanshu Jain](https://github.com/priyanshu003pr)
 - [Kishore](https://github.com/kishore-s-15)
 - [Sarvesh Prajapati](https://github.com/sarveshprajapati)
 - Jiyon Trammell (https://github.com/codeweb123)
