@@ -29,6 +29,7 @@
 - [Mandeep Punia](https://github.com/Mandeep08punia)
 - [Dustin Ray](https://github.com/dustinjray)
 - [Roberto Castillo](https://github.com/castilloroberto)
+- [Gautham Mudaliar](https://github.com/gau7ham)
 - [Rohan Murmu](https://github.com/scythrine05)
 - [Avi Cohen] (https://github.com/avicohen3660)
 - [Harsh Dubey] (https://github.com/hardy30894)
