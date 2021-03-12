@@ -21,6 +21,7 @@
 - [Shashank Sharma] (https://github.com/shanky251020)
 - [Jordan Mellor](https://github.com/jlm222)
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
+- [Ubaidh](https://github.com/ubaidh)
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
