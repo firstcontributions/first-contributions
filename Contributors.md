@@ -21,6 +21,7 @@
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Shashank Sharma] (https://github.com/shanky251020)
 - [Jordan Mellor](https://github.com/jlm222)
+- [Will Firman] (https://github.com/willfir/)
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
 - [Ubaidh](https://github.com/ubaidh)
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
