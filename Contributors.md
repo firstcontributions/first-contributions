@@ -9959,6 +9959,7 @@
 - [Bansi Babriya](https://github.com/bansi36)
 - [Francesco Franco]
 - James Damewood
+- [Md Reazul Islam Bhuiyan](https://github.com/Suicchi)
 - [BangCryDie](https://github.com/BangCryDie)
 - [Mutis7](https://github.com/mutis7)
 - [Karina Anaya](https://github.com/kaa468)
