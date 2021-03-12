@@ -3,6 +3,7 @@
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Aman Garg](https://github.com/rubal2508)
+- [Kundan kumar gupta](https://github.com/kundan108)
 - [Patrick Franz](https://github.com/PatrickFranz)
 - [Anonymous Rookie](https://github.com/n-atom)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
