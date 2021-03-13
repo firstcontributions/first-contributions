@@ -1731,6 +1731,7 @@
 - [vaibhav chandra](https://github.com/vaibhavviking)
 - fanyCaz
 - [Ujjawal Modanwal](https://github.com/UJ5)
+- [Anser Waseem](https://github.com/anserwaseem)
 - [sillybot](https://github.com/sillybot)
 - jojor
 - [PoofPanda](https://github.com/PoofPanda)
