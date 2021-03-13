@@ -52,6 +52,7 @@
 - [Jessie Belle] (https://github.com/jessiebelle)
 - [adamantia](https://github.com/adamantiakoutsi)
 - [Rudi Kraeher] (https://github.com/rkraeher)
+- [Angelos Poulis](https://github.com/angelosps)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Shaima Haque](https://github.com/SHAIMA-HAQUE)
