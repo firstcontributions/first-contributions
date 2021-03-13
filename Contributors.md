@@ -10132,3 +10132,4 @@ https://github.com/franzk
 - [kyle] (https://github.com/rexgamer945)
 - [James Ekirigwe](https://github.com/jaocekeo)
 - [Arthur Sit](https://github.com/Legendarytruth)
+- [Pranav Thakran](https://github.com/PranavThakran)
