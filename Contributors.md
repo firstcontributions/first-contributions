@@ -90,6 +90,7 @@
   [Kameshwar Sharma] (https://github.com/kam2104)
   [Aleksandar Stancevic](https://github.com/AleksandarStancevic)
 - Nishant Shingate
+- [Outlander] (https://github.com/sujilgovind)
 - Darshan Aravind (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
 - [Shanna Estj] (https://github.com/shannaestj)
