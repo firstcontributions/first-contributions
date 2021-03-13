@@ -47,6 +47,7 @@
 - [Jo Anna Mollman] (https://github.com/jodi08)
 - [Amritpal singh](https://github.com/Amritpal-001)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
+- [Juan A Roig](https://github.com/JuanARoig)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Alec Campbell](https://github.com/fu4303)
 - [Kyle Lambert](https://github.com/kylelambert001)
