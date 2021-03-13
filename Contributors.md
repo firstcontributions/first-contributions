@@ -212,6 +212,7 @@
 - [Vishal Sharma](https://github.com/VishalSharma2000)
 - [James Dodds](https://github.com/Clannis)
 - [Bryden McLeod](https://github.com/brydenm)
+- [B McLeod](https://github.com/brydenm)
 - Nikhil Kommuri
 - Duc HG Le
 - Spencer Hoggart #2
