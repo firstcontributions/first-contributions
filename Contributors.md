@@ -1996,6 +1996,7 @@
 - [Aleksander Bless](https://github.com/alekbless)
 - [Rimjhim Agrawal](https://github.com/rimjhim167)
 - [Jason Lam](https://github.com/jlamonade)
+- [Chinmay Agrawal] (https://github.com/Chinmay775)
 - [Newall Jemuel](https://github.com/newallJemuelD)
 - [Muhesh Kumar](https://github.com/muhesh-kumar)
 - [Tom Sherman](https://github.com/tompsherman)
