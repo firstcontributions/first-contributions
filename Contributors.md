@@ -18,6 +18,7 @@
 - [Tidjani Dia](https://github.com/tijani-dia)
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
 -[Taylor Griffin](https://github.com/Taylor-Griffin)
+- [Himanshu Malviya](https://github.com/Himanshu664)
 - [adamantia](https://github.com/adamantiakoutsi)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
