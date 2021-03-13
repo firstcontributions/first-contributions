@@ -33,6 +33,7 @@
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
+- [Nabin Dangi]
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
