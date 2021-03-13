@@ -4,6 +4,7 @@
 - SH Park
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Karanchadha] (https://github.com/KaranChadha10)
+- [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Divakar Rana](https://github.com/divakarrana)
 - [Aman Garg](https://github.com/rubal2508)
 - [raavann](https://github.com/raavann)
