@@ -5,6 +5,7 @@
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Divakar Rana](https://github.com/divakarrana)
 - [Aman Garg](https://github.com/rubal2508)
+- [raavann](https://github.com/raavann)
 - [Kundan kumar gupta](https://github.com/kundan108)
 - [Ben Hurworth](https://github.com/BHurworth)
 - [Patrick Franz](https://github.com/PatrickFranz)
@@ -16,6 +17,8 @@
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
+-[Taylor Griffin](https://github.com/Taylor-Griffin)
+- [Himanshu Malviya](https://github.com/Himanshu664)
 - [adamantia](https://github.com/adamantiakoutsi)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
@@ -165,6 +168,7 @@
 - Zebra_Force9
 - Brett Bovia
 - Michael Wright
+- [Josh Sample] (https://github.com/JoshSample)
 - [Alexander Y Wang](https://github.com/alexanderywang)
 - [**Irena Chen** 🌻](https://github.com/mengirena)
 - Daniel Cerqueira
@@ -2445,6 +2449,7 @@
 - [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
+- [Aakash Kumar]
 - [Ani B]
 - [Alen]
 - [Amara]
@@ -10120,6 +10125,8 @@ https://github.com/franzk
 - [Alcmene S](https://github.com/alcmene00)
 - [Amith](https://github.com/amithsourya)
 - [Ravi Gupta](https://github.com/ravi9607)
+  [Sahil Shrivastava](https://github.com/sahil6993)
 - [Sumit Kumar}(https://github.com/Shadowpii)
 - [Dillon O'Connor](https://github.com/dillonoconnor)
 - [kyle] (https://github.com/rexgamer945)
+- [James Ekirigwe](https://github.com/jaocekeo)
