@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 - [Mobaork Hossain] (https://github.com/mobaarok)
-- [Adam Heeps] ((https://github.com/mr-jackpot)
+- [Adam Heeps] (https://github.com/mr-jackpot)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
