@@ -6735,6 +6735,7 @@
 - [Uchechukwu Nwafor](https://github.com/Caspero-62)
 - [hitalolee](https://github.com/hitalolee)
 - [Sharath Rao](https://github.com/srylix10)
+- [Vishal Patel](https://github.com/Vishal151)
 - [Bulent Turkmen](https://github.com/faranjit)
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
