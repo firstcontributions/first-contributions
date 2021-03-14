@@ -6,6 +6,7 @@
 - SH Park
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Atishay Jain] (https://github.com/atishayzn)
+- [Shah Fahad](https://github.com/shahfahad746)
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Divakar Rana](https://github.com/divakarrana)
