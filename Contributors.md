@@ -8997,6 +8997,7 @@
 - [Sanjana Sekar](https://github.com/sanjanasekar)
 - [Yidan Liu](https://github.com/yidan-liu)
 - [Sanjana Anaokar](https://github.com/SanjanaAnaokar)
+- [Christopher Erickson](https://github.com/squarednode)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Aruna Prabakar](https://github.com/aprabakar1110)
 - [Jessica Padolina](https://github.com/jpadolina)
