@@ -41,6 +41,7 @@
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
+- [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Nabin Dangi]
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
