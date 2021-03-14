@@ -1,6 +1,7 @@
 # Contributors
 
 - [Mobaork Hossain] (https://github.com/mobaarok)
+- [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - SH Park
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Karanchadha] (https://github.com/KaranChadha10)
