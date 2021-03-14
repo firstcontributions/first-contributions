@@ -9397,6 +9397,7 @@
 - [Karl Lim](https://github.com/karlleh)
 - [Yash Sevada](https://github.com/YashSevada)
 - [Florian Bématol](https://github.com/florianbematol)
+- [PeculiarOptimist](https://github.com/PeculiarOptimist)
 - [Jian-Jian Huang](https://github.com/jhuangn)
 - [Dattatraya Mule](https://github.com/dattatrayam)
 - [Saleh Jasim](https://github.com/bezy1)
