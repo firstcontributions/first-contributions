@@ -387,6 +387,7 @@
 - [Jared Greenberg](https://github.com/jared-greenberg)
 - [Kurtis Grant](https://github.com/kurtisbrandon)
 - [Jimmy Baranello](https://github.com/jbaranel)
+- [Adithya Vijay](https://github.com/Adithyavj)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
 - [Nathan Taylor](http://github.com/n-taylor)
