@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
@@ -10181,3 +10181,4 @@ https://github.com/franzk
 - [BraveOlivia](https://github.com/BraveOlivia)
 - [TakahitoHimi](https://github.com/TakahiroHimi)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
+- [Luan Esdras](https://github.com/kudnx)
