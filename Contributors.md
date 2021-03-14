@@ -11,6 +11,7 @@
 - [Aman Garg](https://github.com/rubal2508)
 - [raavann](https://github.com/raavann)
 - [Kundan kumar gupta](https://github.com/kundan108)
+- [Ajeet Chaurasia](https://github.com/Akumar312)
 - [Ben Hurworth](https://github.com/BHurworth)
 - [Patrick Franz](https://github.com/PatrickFranz)
 - [Anonymous Rookie](https://github.com/n-atom)
