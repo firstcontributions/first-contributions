@@ -9182,6 +9182,7 @@
 - [Pumpkinman](https://github.com/pumpkinman008)
 - [Ritish Kumar](https://github.com/mofolactic)
 - [Swarnim Gupta](https://github.com/Swarnim01)
+- [Makito Y](https://github.com/makimo-50)
 - [Bharat Kumar](https://github.com/bharat9494)
 - [Nick Marshall](https://github.com/marshallnw18)
 - [Maitreya Dudhgaonkar](https://github.com/virus2116)
