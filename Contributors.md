@@ -4,6 +4,7 @@
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - SH Park
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
+- [Atishay Jain] (https://github.com/atishayzn)
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Divakar Rana](https://github.com/divakarrana)
