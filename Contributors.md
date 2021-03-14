@@ -1373,6 +1373,7 @@
 - Brandon Wright
 - [Amandou](https://github.com/amandou)
 - Ratul Dawar
+- [PeculiarOptimist](https://github.com/PeculiarOptimist)
 - [Utkarsh Shendge](https://github.com/utkarshshendge)
 - [Kamil Sikora](https://github.com/sikorakamil26)
 - [Abbey Centers](https://github.com/abbeyLC)
