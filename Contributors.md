@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
@@ -668,6 +668,7 @@
 - [Daniel Oluborode](https://github.com/danolu)
 - [frank_fsk](https://github.com/wfyanmnm)
 - [cwg83](https://github.com/cwg83)
+- [Shiviam Singla](https://github.com/shiviamsingla)
 - [Rohan Sachan](https://github.com/rohan-sachan)
 - [Nathan Gugel](https://github.com/NathanGugel)
 - [Yentema Nadjoari](https://github.com/yenteck)
