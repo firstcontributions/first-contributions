@@ -80,6 +80,7 @@
 - [USP Anupam](https://github.com/Anupam-USP)
 - [Muhammad Azhar](https://github.com/git-azhar)
 - [Kunal Vaidya](https://github.com/Ikunalv)
+- [KRISHANU DUTTA](https://github.com/krishanu2911)
 - [Rupak K V](https://github.com/Rupak1432)
 - [Siyu Bian](https://github.com/bsyben)
 - [Apratim Ranjan Chakrabarty](https://github.com/Hackhard)
