@@ -112,6 +112,7 @@
 - Pedro Enciso
 - Ali Ahmed
 - JLJ
+- [Amaechi Abuah](https://github.com/abuah1999)
 - [Justin Powers](https://github.com/Bladelazoe)
 - [Aditi Dona](https://github.com/aditidona)
 - Mohit Mehta
