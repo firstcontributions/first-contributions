@@ -7,6 +7,7 @@
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Divakar Rana](https://github.com/divakarrana)
+- [Kevin Dormer](https://github.com/krdormer)
 - [Aman Garg](https://github.com/rubal2508)
 - [raavann](https://github.com/raavann)
 - [Kundan kumar gupta](https://github.com/kundan108)
