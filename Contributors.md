@@ -552,6 +552,7 @@
 - Kyle Austria
 - Philip March
 - Suhail ahmed
+- [Udatta Chowdhury](https://github.com/UdattaChowdhury)
 - [Sam Sinadinovic](https://github.com/s-sinadinovic)
 - [Nandini Proothi](https://github.com/nandiniproothi)
 - [Chris Tapia](https://github.com/tapz1)
