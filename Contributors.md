@@ -2,6 +2,7 @@
 
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Adam Heeps] (https://github.com/mr-jackpot)
+- Jaavid25
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
