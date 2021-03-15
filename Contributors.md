@@ -6100,6 +6100,7 @@
 - [Chifundo Kasiya](https://github.com/fundo89)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Eric Sanders](https://github.com/BigECire)
+- [Tresquel](https://github/Tresquel)
 - [Mohammadreza Mirhajian](https://github.com/mohammadrezza)
 - [Sounak Ghosh](https://github.com/maddawck)
 - [Urse Searle](https://github.com/GleebleNeeble)
