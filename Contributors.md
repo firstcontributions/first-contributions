@@ -11,6 +11,7 @@
 - [Dan Dorci](https://github.com/dan-dorci)
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
+- [Ivan van der Merwe 🤘] (https://github.com/WookieeCoder)
 - [Divakar Rana](https://github.com/divakarrana)
 - [Kevin Dormer](https://github.com/krdormer)
 - [Aman Garg](https://github.com/rubal2508)
