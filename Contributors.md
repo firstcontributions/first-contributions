@@ -5,6 +5,7 @@
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
+- [Wade Hann-Caruthers] (https://github.com/whanncar)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [João Victor](https://github.com/joaovictor3g)
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
