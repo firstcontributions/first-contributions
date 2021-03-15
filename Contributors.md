@@ -10193,3 +10193,4 @@ https://github.com/franzk
 - [Thiago Reschützegger] (https://github.com/ThiagoReschutzegger)
 - [Watson Tang](https://github.com/tyanbiao)
 - [Ikemura Kazutaka](https://github.com/ikemura23)
+- [Ryo Mimura](https://github.com/r-mimura)
