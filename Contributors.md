@@ -9886,6 +9886,7 @@
 - [Banarant] (https://github.com/Banarant)
 - [sarahh]
 - [Savilard](https://github.com/savilard)
+- [Tonatiuh Morales](https://github.com/blackc0mb)
 - [Elsa](https://github.com/ElsaLebas)
 - [Hossien HunTa](https://github.com/HossienHunTa)
 - [Roxy Reid](https://github.com/rox117)
