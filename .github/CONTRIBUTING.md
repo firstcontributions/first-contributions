@@ -251,6 +251,9 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.pt_br.md">Português (Brasil)</a>
         </td>
         <td>
+           <a href="../translations/README.pt_br.md">Português (Brasil)</a>
+        </td>
+        <td>
            <a href="../translations/README.pt-pr.md">Português (Portugal)</a>
         </td>
         <td>
@@ -274,6 +277,9 @@ If you're making changes to a translation, please request a review from our prev
             <img width="100" src="https://avatars2.githubusercontent.com/u/10578275?s=460&v=4" alt="@OtacilioN" />
         </td>
         <td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/47339825?s=460&v=4" alt="@gabrielsanttana" />
+        </td>
+        <td>
             <img width="100" src="https://avatars3.githubusercontent.com/u/33158346?s=460&v=4" alt="@nunofca" />
         </td>
         <td>
@@ -295,6 +301,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/OtacilioN">OtacilioN</a>
+        </td>
+        <td>
+            <a href="https://github.com/gabrielsanttana">gabrielsanttana</a>
         </td>
         <td>
             <a href="https://github.com/nunofca">nunofca</a>

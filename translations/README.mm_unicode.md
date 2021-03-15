@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -10,7 +10,7 @@
 
 လေ့ကျင်ခန်း စာစောင်တေွနဲ့ ဗီဒီယိုတေွက အကူအညီရနိုင်သော်လဲ တကယ်လက်တွေ့လုပ်ဆောင်တာထက် ပိုကောင်းတာမရှိပါဘူး။ ဒီ project က ပထမဆုံးအကြိမ် ကူညီထောက်ပံမဲ့ သူတေွအတွက် လွယ်ကူ ရှိးရှင်းပြီး အကူအညီးအထောက်ပံ့ဖြစ်စေဖို့ ရည်ရွယ်ပါတယ်။ Remember: the more relaxed you are, the better you learn. အာမခံတယ် သင့်သာ အောက်မှာရှိတဲံ အဆင့်တိုင်းလုပ်သွားလျှင် သင့်ရဲ့ ပထမဆုံး ကူညီထောက်ပံခြင်းမှာ အဆင်ပြေစွာ ပြီးမြောက်သွားမှာပါ၊
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md), [Italian](README.it.md), [ภาษาไทย](README.th.md) and [Galician](README.gl.md).*
 
@@ -23,7 +23,7 @@ Frok လုပ်ဖို့အတွက် စာမျက်နှာအပ�
 
 ## ဒီ repository ကို clone လုပ်ပါ
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 *copy to clipboard* icon ကိုနိုပ်ပီး သင့်စက်အတွင်းသို့ ဒီ repository ကို clone လုပ်ယူပါ။
 
@@ -34,7 +34,7 @@ git clone "သင့်ကူးထားတဲ့ url ကိုထည့်ပ�
 ```
 "သင့်ကူးထားတဲ့ url ကိုထည့်ပါ" (သင့်ကူထားတာ quote အမှတ်အသားမှာမပါ) နေရာမှာ ထည့်ရမှာက သင့် clone လုပ်မဲ့ repository ရဲ့ url ဖြစ်ပါတယ်။ ဒီအဆင့်ကို အဆင်မပြေဖြစ်ခဲ့ရင် အနောက်တစ်ဆင့်ကို ပြန်ကြည့်ပါ။ *copy to clipboard* icon ကို နိုပ်ပီး url ကို copy ကူးထားတာကိုတေွ့ရမှာပါ။
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ဥပမာကို အောက်မှာကြည့်ပါ:
 ```
@@ -86,11 +86,11 @@ git push origin <add-your-name>
 
 သင့် GitHub က သင့် repository ကိုမှာဆို `Compare & pull request` ဆုိတဲ့ ခလုပ်မြင်နေရမှာပါ။ အဲ့ခလုပ်ကို နိုပ်လိုက်ပါ။
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 အခုဆို pull request လုပ်ဖို့အဆင်သင့်ဖြစ်သွားပါပြီး။
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
@@ -99,7 +99,7 @@ git push origin <add-your-name>
 ## သင်ခန်းစာ ကို အခြား Tools များအသုံးပြီး
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
