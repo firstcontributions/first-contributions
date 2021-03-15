@@ -76,6 +76,7 @@
   [Prasoon Jain](https://github.com/prasoonjain4422)
 - [Jessie Belle] (https://github.com/jessiebelle)
 - [adamantia](https://github.com/adamantiakoutsi)
+- [arrathore](https://github.com/arrathore)
 - [Rudi Kraeher] (https://github.com/rkraeher)
 - [Angelos Poulis](https://github.com/angelosps)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
