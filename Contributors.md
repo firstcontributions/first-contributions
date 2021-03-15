@@ -10188,3 +10188,4 @@ https://github.com/franzk
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
 - [Daniel Lee] (https://github.com/danyollee)
+- [Thiago Reschützegger] (https://github.com/ThiagoReschutzegger)
