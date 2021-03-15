@@ -10132,7 +10132,7 @@
 
 sam_namiranian
 
-- [Sebastian Treffurth] (https://github.com/streffurth)
+- [Sebastian Treffurth](https://github.com/streffurth)
 - [Ntomb L. Nelson J.](https://github.com/Nelson-J)
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
