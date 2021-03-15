@@ -10187,3 +10187,4 @@ https://github.com/franzk
 - [TakahitoHimi](https://github.com/TakahiroHimi)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
+- [Daniel Lee] (https://github.com/danyollee)
