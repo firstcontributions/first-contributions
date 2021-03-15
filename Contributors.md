@@ -8,6 +8,7 @@
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [João Victor](https://github.com/joaovictor3g)
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
+- [Krati Agrawal] (https://github.com/kraticodes)
 - [Theddy Luna] (https://github.com/tluna) ⊂(◉‿◉)つ
 - [Atishay Jain] (https://github.com/atishayzn)
 - [Shah Fahad](https://github.com/shahfahad746)
