@@ -5,6 +5,7 @@
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
+- [João Victor](https://github.com/joaovictor3g)
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Theddy Luna] (https://github.com/tluna) ⊂(◉‿◉)つ
 - [Atishay Jain] (https://github.com/atishayzn)
