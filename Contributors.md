@@ -11,6 +11,7 @@
 - [Dan Dorci](https://github.com/dan-dorci)
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
+- [Ivan van der Merwe 🤘] (https://github.com/WookieeCoder)
 - [Divakar Rana](https://github.com/divakarrana)
 - [Kevin Dormer](https://github.com/krdormer)
 - [Aman Garg](https://github.com/rubal2508)
@@ -46,6 +47,7 @@
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Nabin Dangi]
 - [Vinil Rathod](https://github.com/vinilRathod)
+- [John Zhao] (https://github.com/jellllly420)  
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
@@ -10195,4 +10197,5 @@ https://github.com/franzk
 - [Ikemura Kazutaka](https://github.com/ikemura23)
 - [Ryo Mimura](https://github.com/r-mimura)
 - [Anuj Dhingra](https://github.com/Anuj0103)
-
+- [Pranav Bobde](https://github.com/Pranav-Bobde)
+- [Anirudh Praveen](https://github.com/AnirudhPraveen)
