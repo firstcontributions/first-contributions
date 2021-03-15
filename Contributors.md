@@ -153,6 +153,7 @@
 - [Emre Olgun](https://github.com/emreol)
 - [RaymondL](https://github.com/RaymondLi-1993/first-contributions)
 - [Emil Bratt](https://github.com/emilbratt)
+- [Varun Sharma](https://github.com/varun325)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Stephen Ricketts](https://github.com/StephenRicketts)
