@@ -908,6 +908,7 @@
 - [Gustaf Gröning] (https://github.com/GustafGroning)
 - [Deepak Kumar](https://github.com/damphir7)
 - [Nakul Bageja](https://github.com/ketonium10)
+- [Anthony Karoki](https://github.com/Phystro)
 - [Damjan Radev](https://github.com/dameradev)
 - [Oskar Olaszczyk](https://github.com/oskarolaszczyk)
 - [Ernesto](https://github.com/ensoam)
