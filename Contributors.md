@@ -25,6 +25,7 @@
 - [Ivan Setiawan_Indonesia] (https://github.com/navivanuva)
 - [Mazhar Ali Khan 🔥](https://github.com/mazharwhite)
 - [Divakar Rana](https://github.com/divakarrana)
+- [Daniel Schjetne](https://github.com/danielschjetne/)
 - [Kevin Dormer](https://github.com/krdormer)
 - [Aman Garg](https://github.com/rubal2508)
 - [raavann](https://github.com/raavann)
