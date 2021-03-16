@@ -10224,6 +10224,7 @@ https://github.com/franzk
 - [Kogepan](https://github.com/kogepanh)
 - [sgktmk](https://github.com/sgktmk)
 - [Baba Tomoyuki](https://github.com/kewpie134134)
+- [Kingsley Yung](https://github.com/kkoyung)
 - [Andrea Coluzzi](https://github.com/coluzziandrea)
 - [Anuj Dhingra](https://github.com/Anuj0103)
 - [ebina4yaka](https://github.com/ebina4yaka)
