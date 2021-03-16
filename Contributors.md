@@ -81,6 +81,7 @@
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
 - [Ankur Rai](https://github.com/ankurrai1)
 - [Shiva Sai Krishna](https://github.com/Shiva-sai-krishna)
+- [Adi Bhat] (https://github.com/Adibhat108/)
 - [James Gill](https://github.com/jamesgill11)
 - [Jo Anna Mollman] (https://github.com/jodi08)
 - [Amritpal singh](https://github.com/Amritpal-001)
