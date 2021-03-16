@@ -98,6 +98,7 @@
 - [Destiny Aigbe](https://github.com/Destiny-01)
 - [Amusa Rasak](https://github.com/Abdulrozzaq)
 - [Kevin Mell](https://https://github.com/kmell1)
+- [Suraj Jaiswal](https://github.com/surazjaiswal)
 - [Kevin Barrantes](https://github.com/Barrantes-Kevin)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
   [Maruf Sharifi](https://github.com/MarufSharifi)
