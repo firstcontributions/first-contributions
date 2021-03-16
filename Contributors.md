@@ -7,6 +7,7 @@
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
+- Torda Ladomérszky
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
 - [João Victor](https://github.com/joaovictor3g)
