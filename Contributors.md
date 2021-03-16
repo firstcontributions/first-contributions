@@ -9998,6 +9998,7 @@
 - [Hidehiro Aya](https://github.com/dehiron)
 - [Lee teng](https://github.com/LeeTeng2001)
 - [taranvirsaini]
+- [rikuyu](https://github.com/rikuyu)
 - [Syk]
 - [Vishwa.R] (https://github.com/code-reaper08)
 - [Banarant] (https://github.com/Banarant)
