@@ -8487,6 +8487,7 @@
 - [Vishnu](https://github.com/vishnusr90/first-contributions)
 - [Sai](http://github.com/snerus11)
 - [Rishav Kumar](http://github.com/rishavjnv12)
+- [Victor De Vera](http://github.com/victordevera24)
 - [Sandip Mukherjee](https://github.com/SandyM33)
 - [Jethro Modequillo](https://github.com/potato874)
 - [Robert Kegel](https://github.com/robertKegel)
