@@ -12,19 +12,21 @@ Artikkeleiden sekä tutoriaalien läpikäynti voi auttaa, mutta mikä onkaan par
 
 ## Terminologiasta
 
-Monet sanat ovat käännettävissä englannista suomenkieleen suoraan. Tämä niin sanottu *finglish* on liiankin tuttua meille, mutta tässä dokumentaatiossa on pyritty käyttämään suomenkielisiä sanoja, jotka ovat helppo ymmärtää ja jotka toivottavasti auttavat ohjeiden noudattamisessa. Käytämme englanninkielistä sanaa suluissa, jos ohje sillä kohtaa sitä vaatii. Ohessa muutama sana selitettynä.
+Monet sanat ovat käännettävissä englannista suomenkieleen suoraan. Tämä niin sanottu *finglish* on liiankin tuttua meille, mutta tässä dokumentaatiossa on pyritty käyttämään suomenkielisiä sanoja, jotka ovat helppo ymmärtää ja jotka toivottavasti auttavat ohjeiden noudattamisessa. Käytämme englanninkielistä sanaa ohjeiden ohessa, jos ohje sillä kohtaa sitä vaatii. Ohessa muutama sana selitettynä.
 
-- **Repository** Arkisto,projekti. Repository on arkisto, jossa on kokoelma tiedostoja ja kansioita.
-- **Contribution** Osallistuminen arkistoon omalla työpanoksella.
-- **Fork** Haaroittaminen (haarukka). Tarkoittaa, että kopioidaan arkiston tiedostot omalle git-tilille.
-- **Clone** Kloonaaminen. Arkiston kopiointi omalle tai muulle koneelle.
-- **Branch** Haara. Git seuraa arkiston tiedostojen muutoksia ja nämä muutokset voidaan haaroittaa eli "forkata" halutulla tavalla. Mahdollistaa sen, että useat osallistujat voivat tehdä muutoksia arkistoon samanaikaisesti (ns. hajautettu kehitys).
-- **Commit** "Tekeminen","Sitoutuminen". Kun teet muutoksia arkiston tiedostoihin, sinun pitää sitoutua niihin. Eli sana "commit" tarkoittaa arkistossa sitä, että "sitoudumme tekemään tietyt muutokset arkistoon". Commit on git-komento ja halutut sitoutumiset voidaan aina valita tiedostokohtaisesti.
-- **Push** "Työntö". Projektin tiedostojen muutosten lähettäminen arkistoon.
-- **Pull** "Veto". Arkiston ajantasaisten tiedostojen nouto.
-- **Pull request** "Vetopyyntö". Pyyntö arkiston ylläpitäjille, että muutoksesi sulautettaisiin osaksi arkistoa, eli vedettäisiin osaksi arkistoa.
+- **Repository**: Arkisto,projekti. Repository on arkisto, jossa on kokoelma tiedostoja ja kansioita.
+- **Contribution**: Osallistuminen arkistoon omalla työpanoksella.
+- **Fork**: Haaroittaminen (haarukka). Tarkoittaa, että kopioidaan arkiston tiedostot omalle git-tilille.
+- **Clone**: Kloonaaminen. Arkiston kopiointi omalle tai muulle koneelle.
+- **Branch**: Haara. Git seuraa arkiston tiedostojen muutoksia ja nämä muutokset voidaan haaroittaa eli "forkata" halutulla tavalla. Mahdollistaa sen, että useat osallistujat voivat tehdä muutoksia arkistoon samanaikaisesti (ns. hajautettu kehitys).
+- **Commit**: "Tekeminen","Sitoutuminen". Kun teet muutoksia arkiston tiedostoihin, sinun pitää sitoutua niihin. Eli sana "commit" tarkoittaa arkistossa sitä, että "sitoudumme tekemään tietyt muutokset arkistoon". Commit on git-komento ja halutut sitoutumiset voidaan aina valita tiedostokohtaisesti.
+- **Push**: "Työntö". Projektin tiedostojen muutosten lähettäminen arkistoon.
+- **Pull**: "Veto". Arkiston ajantasaisten tiedostojen nouto.
+- **Pull request**: "Vetopyyntö". Pyyntö arkiston ylläpitäjille, että muutoksesi sulautettaisiin osaksi arkistoa, eli vedettäisiin osaksi arkistoa.
 
-Tämä ohje on osana GitHub-arkistoa. Tässä opasteessa:
+## Mitä teemme nyt?
+
+Tämä ohje on osana GitHub-arkistoa. Tässä ohjeess:
 
 1. Haaroitamme tämän arkiston ja kloonaamme sen koneelle (We will fork and clone the repository)
 2. Haaroitamme arkiston (We will create a new branch)
@@ -101,23 +103,23 @@ Lisää nuo muutokset branchiin `git add` komennolla:
 git add Contributors.md
 ```
 
-Seuraavaksi sitoudu muutoksiin (commit) komennolla:
+Seuraavaksi sitoudu muutoksiin (`git commit`) komennolla:
 
 ```
 git commit -m "Add <sinun-nimesi> to Contributors list"
 ```
 
-Korvaamalla `<sinun-nimesi>` nimelläsi. Huomaa, että muutoksiin pitää aina laittaa jokin kommentti. Voit määrätä tekstin itse, mutta muista, että sen tulisi olla asiallinen.
+Korvaamalla *<sinun-nimesi>*` nimelläsi. Huomaa, että muutoksiin pitää aina laittaa jokin kommentti. Voit määrätä tekstin itse, mutta muista, että sen tulisi olla asiallinen ja heijastaa tekemiäsi muutoksia.
 
 ## Muutosten työntö GitHubiin
 
-Työnnä (push) muutoksesi komennolla:
+Työnnä (`git push`) muutoksesi arkistoon komennolla:
 
 ```
 git push origin <haarasi-nimi>
 ```
 
-Korvaamalla `<haarasi-nimi>` nimellä jonka annoit haarallesi aikaisemmin.
+Korvaamalla *<haarasi-nimi>* nimellä jonka annoit haarallesi aikaisemmin.
 
 ## Jätä muutoksesi arvosteltavaksi
 
@@ -129,7 +131,7 @@ Seuraavaksi suorita vetopyyntö (pull request). Toisin sanoen, pyydät arkiston 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Seuraavaksi muutoksesi sulautetaan tämän projektin päähaaraan. Tulet saamaan ilmoituksen sähköpostiisi kun muutoksesi ovat sulautettu. Kun saat sähköpostin, olet tehnyt ensimmäisen osallistumisesi arkistoon! Onneksi olkoon. Huomaa, että tässä saattaa kestää, koska tässä projektissa on paljon vetopyyntöjä ja ylläpitäjät ovat usein myös ihmisiä kuten sinä, jotka käyttävät omaa vapaa-aikaansa arkiston työhön osallistumiseen.
+Seuraavaksi muutoksesi sulautetaan tämän projektin päähaaraan. Tulet saamaan ilmoituksen sähköpostiisi kun muutoksesi ovat sulautettu. Kun saat sähköpostin, olet tehnyt ensimmäisen osallistumisesi arkistoon! Onneksi olkoon.
 
 ## Mihin seuraavaksi?
 
