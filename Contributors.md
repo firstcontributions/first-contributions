@@ -1226,6 +1226,7 @@
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Michael John Dollente](https://github.com/xjanggo)
 - [theTerrance](https://github.com/TheTerrance)
+- [Nhytanyuita](https://github.com/yrfp307)
 - [Nick Vallejos](https://github.com/Guambo)
 - [Orlando Rivera, Jr.](https://github.com/ORiveraJr84)
 - [Arsh Dhillon](https://github.com/arshd1230)
