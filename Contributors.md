@@ -69,7 +69,7 @@
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Nabin Dangi]
 - [Vinil Rathod](https://github.com/vinilRathod)
-- [John Zhao] (https://github.com/jellllly420)  
+- [John Zhao] (https://github.com/jellllly420)
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
@@ -251,6 +251,7 @@
 - [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
 - [Vikrant]
+- weepize
 - [Diego Plata](https://github.com/DPLATA)
 - [Edinson Requena](https://github.com/edinsonrequena)
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
@@ -289,7 +290,7 @@
 - Jona Stevenson
 - [Max Marra[(https://github.com/max64q)
 - [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
-- [Alfredo Varela](https://github.com/fikandata) 
+- [Alfredo Varela](https://github.com/fikandata)
 - [Frank Schmidtner](https://github.com/littlelordy)
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
@@ -307,7 +308,7 @@
 - Manav Wadhawan
 - Dvir Berlo
 - Rakin Rahman
-- Molly Brown 
+- Molly Brown
 - Arpit
 - Jack sparrow
 - Hawa Sylla
@@ -3607,7 +3608,7 @@
 - [Pooja Patil](https://github.com/poojapatil010677)
 - [Kartik Shukla](https://github.com/kartiks-21)
 - [Jeevan Joshi](https://github.com/G1Joshi)
-- [Nguyen Phuc](https://github.com/nguyenphuc-vn)  
+- [Nguyen Phuc](https://github.com/nguyenphuc-vn)
 - [Jason Weyland](https://github.com/JWeyland12)
 - [Lebohang Kuenane](https://github.com/kuenane)
 - [V01D](https://github.com/V01D-NULL)
@@ -9421,7 +9422,7 @@
 - [Manav Joshi](https://github.com/Manav-Disvelop)
 - [Jorub Khehra](https://github.com/JorubKhehra)
 - [Emmanuel Olusola](https://github.com/Olusoladeboy)
-- [Braydon Griffith](https://github.com/braydon0898) 
+- [Braydon Griffith](https://github.com/braydon0898)
 - [Andrew Yeh](https://github.com/AndrewYeh1)
 - [Omar Estrada](https://github.com/Omar908)
 - [Somesh Singh](https://github.com/somesh-ops)
@@ -10211,7 +10212,7 @@ https://github.com/franzk
 - [Emmanuel Lucio Urbina](https://github.com/emmanuelurbina)
 - [Jeferson Nolasco](https://github.com/jehnls)
 - [Zekun Wang](https://github.com/fEst1ck)
-- [Frama](https://github.com/FramaTHO) 
+- [Frama](https://github.com/FramaTHO)
 - [Nikhil Mehta](https://github.com/nsmehta)
 - [Aneena Shinoy](https://github.com/Aneena)
 - [Serafim Davranis](https://github.com/SerDavran)
