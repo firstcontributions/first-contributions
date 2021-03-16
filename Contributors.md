@@ -9298,6 +9298,7 @@
 - [H.H.Ming](https://github.com/hms5232)
 - [Jess Rezac](https://github.com/jessrezac)
 - [Jacob Sonshein](https://github.com/jsonshein)
+- [Natalie Dreher](https://github.com/natalied84)
 - Nico Antero
 - [Nurahmat](https://github.com/nurofsun)
 - [Darshan Walchale](https://github.com/ShawnzWal)
