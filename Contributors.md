@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
@@ -80,6 +80,7 @@
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
 - [Ankur Rai](https://github.com/ankurrai1)
 - [Shiva Sai Krishna](https://github.com/Shiva-sai-krishna)
+- [James Gill](https://github.com/jamesgill11)
 - [Jo Anna Mollman] (https://github.com/jodi08)
 - [Amritpal singh](https://github.com/Amritpal-001)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
