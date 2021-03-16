@@ -42,6 +42,7 @@
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Parth Nanda](https://github.com/parthn2)
 - [Luvdipsingh Dadiyala](https://github.com/ldsir01)
+- [Jiaxuan Feng](https://github.com/M-dust)
 - [Javier 'JIO' Ortiz](https://github.com/JIO93)
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
@@ -63,6 +64,7 @@
 - [Ubaidh](https://github.com/ubaidh)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Nabin Dangi]
+
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [John Zhao] (https://github.com/jellllly420)  
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
