@@ -366,6 +366,7 @@
 - [Brandon Ward](https://github.com/bward021)
 - [Ashot Janibekyan](https://github.com/ashotjanibekyan)
 - Govind Saju
+- Lucy McGinnis
 - Sankalp Parashar
 - [Utkarsh Singh](https://github.com/anonymous-06-02)
 - [4d4143](https://github.com/4d4143)
