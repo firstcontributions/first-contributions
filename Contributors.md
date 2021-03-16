@@ -16,6 +16,7 @@
 - [Shaoqing Qi] (https://https://github.com/RshStone)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
+- [Chandrakant Pal] (https://github.com/ChandrakantPal)
 - [João Victor](https://github.com/joaovictor3g)
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Theddy Luna] (https://github.com/tluna) ⊂(◉‿◉)つ
