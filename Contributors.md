@@ -2,6 +2,7 @@
 
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
+- [Sayak Mondal](https://github.com/isayakmondal)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - Jaavid25
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
