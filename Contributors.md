@@ -6685,6 +6685,7 @@
 - [Chester Wu](https://github.com/chester2)
 - [Rajiv K.](https://github.com/jeevesofrkdia)
 - [Alberto Oporto Ames](https://github.com/otreblan)
+- [Adam Rao](https://github.com/Adam-Rao)
 - [Thien Tran](https://github.com/gau-nernst)
 - [Alex Bott](https://github.com/alexbott)
 - [Ellen Park](https://github.com/ellenupark)
