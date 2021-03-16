@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - Jaavid25
