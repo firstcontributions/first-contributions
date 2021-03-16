@@ -10254,3 +10254,4 @@ https://github.com/franzk
 - [LachlanDev](https://github.com/LachlanDev)
 - [tangzixuan](https://github.com/tangzixuan)
 - [Matheus Janibelli](https://github.com/mjanibelli)
+- [Stefano Di Cecco](https://github.com/macorifice)
