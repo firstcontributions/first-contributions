@@ -4,11 +4,32 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Ensimmäiset kontribuutiot
+# Ensimmäinen osallistumiseni
 
-Se on vaikeaa. Ensimmäiset kerrat ovat aina vaikeita. Etenkin tehdessä yhteistyötä, virheiden teko ei ole ollenkaan mukavaa. Me halusimme yksinkertaistaa tavan jolla avoimen lähdekoodin kontribuoijat oppivat sekä kontribuoivat ensimmäistä kertaa.
+Tämän projektin tarkoitus on opastaa ensimmäisessä git -projektiin osallistumisessa. Se ei ole vaikeaa ja tässä dokumentissa on ohjeet, kuinka teet ensimmäisen osallistumisesi avoimen lähdekoodin projektissa.
 
-Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä onkaan parempaa kuin käytännön harjoite harjoitusympäristössä? Tämä projekti tähtää avun tarjoamiseen sekä aloittelijoiden ensimmäisen kontribuution yksinkertaistamiseen. Jos olet aikeissa kontribuoida ensimmäistä kertaa, seuraa alla olevia ohjeita.
+Artikkeleiden sekä tutoriaalien läpikäynti voi auttaa, mutta mikä onkaan parempaa kuin käytännön harjoite todellisessa ympäristössä? Seuraa vain alla olevia ohjeita ja voit aloittaa matkasi avoimen lähdekoodin tukemisessa.
+
+## Terminologiasta
+
+Monet sanat ovat käännettävissä englannista suomenkieleen suoraan. Tämä niin sanottu *finglish* on liiankin tuttua meille, mutta tässä dokumentaatiossa on pyritty käyttämään suomenkielisiä sanoja, jotka ovat helppo ymmärtää ja jotka toivottavasti auttavat ohjeiden noudattamisessa. Käytämme englanninkielistä sanaa suluissa, jos ohje sillä kohtaa sitä vaatii. Ohessa muutama sana selitettynä.
+
+- **Repository** Arkisto,projekti. Repository on arkisto, jossa on kokoelma tiedostoja ja kansioita.
+- **Contribution** Osallistuminen arkistoon omalla työpanoksella.
+- **Fork** Haaroittaminen (haarukka). Tarkoittaa, että kopioidaan arkiston tiedostot omalle git-tilille.
+- **Clone** Kloonaaminen. Arkiston kopiointi omalle tai muulle koneelle.
+- **Branch** Haara. Git seuraa arkiston tiedostojen muutoksia ja nämä muutokset voidaan haaroittaa eli "forkata" halutulla tavalla. Mahdollistaa sen, että useat osallistujat voivat tehdä muutoksia arkistoon samanaikaisesti (ns. hajautettu kehitys).
+- **Commit** "Tekeminen","Sitoutuminen". Kun teet muutoksia arkiston tiedostoihin, sinun pitää sitoutua niihin. Eli sana "commit" tarkoittaa arkistossa sitä, että "sitoudumme tekemään tietyt muutokset arkistoon". Commit on git-komento ja halutut sitoutumiset voidaan aina valita tiedostokohtaisesti.
+- **Push** "Työntö". Projektin tiedostojen muutosten lähettäminen arkistoon.
+- **Pull** "Veto". Arkiston ajantasaisten tiedostojen nouto.
+- **Pull request** "Vetopyyntö". Pyyntö arkiston ylläpitäjille, että muutoksesi sulautettaisiin osaksi arkistoa, eli vedettäisiin osaksi arkistoa.
+
+Tämä ohje on osana GitHub-arkistoa. Tässä opasteessa:
+
+1. Haaroitamme tämän arkiston ja kloonaamme sen koneelle (We will fork and clone the repository)
+2. Haaroitamme arkiston (We will create a new branch)
+3. Teemme muutoksia arkiston tiedostoihin ja sitoudumme niihin (We will make some changes, commit and push them)
+4. Lähetämme vetopyynnön arkiston ylläpitäjille (We will send a pull request to the repository admins)
 
 #### *Jos et osaa käyttää komentoriviä sulavasti, [täältä löytyy tutoriaaleja GUI-työkalujen käyttöön.]( #tutorials-using-other-tools )*
 
@@ -16,15 +37,15 @@ Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä on
 
 Jos sinulla ei ole git asennettuna koneellesi, [asenna se](https://help.github.com/articles/set-up-git/).
 
-## Forkkaa tämä repositorio
+## Haaroita (forkkaa) tämä arkisto
 
-Forkkaa tämä repositorio klikkaamalla yläkulmassa näkyvää painiketta "Fork". Tämä luo kopion tästä repositoriosta käyttäjällesi.
+Haaroita tämä arkisto klikkaamalla projektisivun yläkulmassa näkyvää painiketta "Fork". Tämä luo kopion arkistosta omalle GitHub -tilillesi.
 
-## Kloonaa repositorio
+## Kloonaa (clone) arkisto
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Seuraavaksi kloonaa juuri forkkaamasi repositorio koneellesi. Mene GitHub käyttäjäsivuillesi, avaa forkkaamasi repositorio sekä klikkaa "Clone or download"-painiketta jonka jälkeen kopioi osoite painamalla "Copy to clipboard"-ikonia.
+Seuraavaksi kloonataan juuri haaroitettu arkisto koneellesi. Mene GitHub -käyttäjäsivullesi, avaa juuri haaroittamasi arkisto ja klikkaa "Code" -painiketta jonka jälkeen kopioi osoite painamalla "Copy to clipboard" -ikonia.
 
 Avaa komentorivi ja syötä seuraava git-komento:
 
@@ -32,30 +53,30 @@ Avaa komentorivi ja syötä seuraava git-komento:
 git clone "Juuri kopioimasi URL"
 ```
 
-"Juuri kopioimasi URL"-tekstin sijasta (ilman lainausmerkkejä) pastea repositorion URL äskeisestä vaiheesta.
+"Juuri kopioimasi URL"-tekstin sijasta (ilman lainausmerkkejä) liitä arkiston URL äskeisestä vaiheesta.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Esimerkiksi:
 
 ```
-git clone https://github.com/nimesi/first-contributions.git
+git clone https://github.com/KÄYTTÄJÄNIMI/first-contributions.git
 ```
 
-Kirjoita GitHub-käyttäjänimesi 'nimesi' teksin sijaan. Tämä komento kopioi sisällön GitHubisi first contributions-repositorion koneellesi.
+Kirjoita GitHub-käyttäjänimesi *KÄYTTÄJÄNIMI* tekstin paikalle. Tämä komento kloonaa arkiston koneellesi.
 
-## Luo branch
+## Luo haara
 
-Mene repositoriosi kansioon koneellasi (ellet jo ole siellä).
+Mene arkistosi tiedostokansioon koneellasi (ellet jo ole siellä).
 
 ```
 cd first-contributions
 ```
 
-Seuraavaksi luo branch komennolla `git checkout`:
+Seuraavaksi luo haara komennolla `git checkout`:
 
 ```
-git checkout -b <lisaa-sinun-branchin-nimi>
+git checkout -b <haarasi-nimi>
 ```
 
 Esimerkiksi:
@@ -64,15 +85,15 @@ Esimerkiksi:
 git checkout -b add-matti-meikalainen
 ```
 
-(Branchin nimeen ei välttämättä tarvitse sisällyttää sanaa *add*, mutta tässä se käy järkeen sillä tämän branchin tarkoitus on lisätä nimesi listaan.)
+Haaran nimeen ei välttämättä tarvitse sisällyttää sanaa *add*, mutta tässä se käy järkeen sillä tämän branchin tarkoitus on lisätä nimesi listaan.
 
-## Tee tarvittavat muutokset sekä committoi ne
+## Tee tarvittavat muutokset sekä sitoudu niihin
 
 Seuraavaksi avaa `Contributors.md` tiedosto tekstieditorissa ja lisää nimesi tiedostoon. Älä lisää sitä tiedoston alkuun taikka loppuun vaan keskelle. Seuraaksi tallenna tiedosto.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Jos menet projektin kansioon ja syötät komennon `git status`, näet muutokset.
+Jos menet arkiston kansioon koneellasi ja syötät komennon `git status`, näet muutokset.
 
 Lisää nuo muutokset branchiin `git add` komennolla:
 
@@ -80,45 +101,45 @@ Lisää nuo muutokset branchiin `git add` komennolla:
 git add Contributors.md
 ```
 
-Seuraavaksi committoi muutokset `git commit` komennolla:
+Seuraavaksi sitoudu muutoksiin (commit) komennolla:
 
 ```
 git commit -m "Add <sinun-nimesi> to Contributors list"
 ```
 
-Korvaamalla `<sinun-nimesi>` nimelläsi.
+Korvaamalla `<sinun-nimesi>` nimelläsi. Huomaa, että muutoksiin pitää aina laittaa jokin kommentti. Voit määrätä tekstin itse, mutta muista, että sen tulisi olla asiallinen.
 
-## Muutosten pushaaminen GitHubiin
+## Muutosten työntö GitHubiin
 
-Pushaa muutoksesi komennolla `git push`:
+Työnnä (push) muutoksesi komennolla:
 
 ```
-git push origin <lisaa-branchisi-nimi>
+git push origin <haarasi-nimi>
 ```
 
-Korvaamalla `<lisaa-branchisi-nimi>` nimellä jonka annoit branchillesi aikaisemmin.
+Korvaamalla `<haarasi-nimi>` nimellä jonka annoit haarallesi aikaisemmin.
 
 ## Jätä muutoksesi arvosteltavaksi
 
-Jos menet repositorioosi GitHubissa, näet `Compare & pull request` painikkeen.  Paina tuota painiketta.
+Jos menet arkistoon GitHub:ssa, näet `Compare & pull request` painikkeen.  Paina kyseistä painiketta.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Seuraavaksi suorita pull request.
+Seuraavaksi suorita vetopyyntö (pull request). Toisin sanoen, pyydät arkiston ylläpitäjiä vetämään koodisi mukaan arkistoon.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
+Seuraavaksi muutoksesi sulautetaan tämän projektin päähaaraan. Tulet saamaan ilmoituksen sähköpostiisi kun muutoksesi ovat sulautettu. Kun saat sähköpostin, olet tehnyt ensimmäisen osallistumisesi arkistoon! Onneksi olkoon. Huomaa, että tässä saattaa kestää, koska tässä projektissa on paljon vetopyyntöjä ja ylläpitäjät ovat usein myös ihmisiä kuten sinä, jotka käyttävät omaa vapaa-aikaansa arkiston työhön osallistumiseen.
 
 ## Mihin seuraavaksi?
 
-Onneksi olkoon! Olet juuri suorittanut tavanomaisen *Fork -> Clone -> Edit -> Pull Request* -työnkulun joka tulee vastaasi usein kontribuoijana!
+Onneksi olkoon! Olet juuri suorittanut tavanomaisen *Fork -> Clone -> Edit -> Pull Request* -työnkulun, joka tulee usein vastaasi git-projekteissa!
 
-Juhlista kontribuutiotasi ja jaa se ystävillesi ja followereillesi menemällä [Web Appiin](https://roshanjossey.github.io/first-contributions/#social-share).
+Juhlista osallistumistasi; jaa se ystävillesi ja seuraajillesi menemällä [Web Appiin](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Voit liittyä Slack tiimiimme jos sinulla on kysyttävää. [Liity Slack tiimiin](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Voit liittyä Slack tiimiimme, jos sinulla on kysyttävää. [Liity Slack tiimiin](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Jos haluaisit kontribuoida muihin projekteihin, me olemme koonneet listan yksinkertaisista ensimmäisistä issueista työskenneltäväksesi. [Lista löytyy Web-Appistamme](https://roshanjossey.github.io/first-contributions/#project-list).
+Jos haluaisit osallistua muihin projekteihin, olemme koonneet listan yksinkertaisista asioista, joita voisit työstää. [Lista löytyy Web-Appistamme](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Lisämateriaaleja](../additional-material/git_workflow_scenarios/additional-material.md)
 
