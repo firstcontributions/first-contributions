@@ -9,6 +9,7 @@
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
+- Anshuman Singh
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - Torda Ladomérszky
 - [Shaoqing Qi] (https://https://github.com/RshStone)
