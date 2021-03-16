@@ -158,6 +158,7 @@
 - Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - [Maastrich](https://github.com/Maastrich)
+- [Andrew Perkins](https://github.com/andrewperkins)
 - sbenav
 - Marcin Maruszak
 - [Chin-Wu Chen] (https://github.com/chinwuchen)
