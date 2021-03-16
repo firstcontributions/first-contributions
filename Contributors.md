@@ -12,6 +12,7 @@
 - Anshuman Singh
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - Torda Ladomérszky
+- Isaiah Whitfield
 - [Shaoqing Qi] (https://https://github.com/RshStone)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
