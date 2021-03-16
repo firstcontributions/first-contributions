@@ -4,6 +4,7 @@
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Sayak Mondal](https://github.com/isayakmondal)
 - [Adam Heeps] (https://github.com/mr-jackpot)
+- [Bor Brudar] (https://github.com/borbrudar)
 - Jaavid25
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
