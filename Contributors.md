@@ -65,6 +65,7 @@
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Nabin Dangi]
 - [Vinil Rathod](https://github.com/vinilRathod)
+- [Niko Penttinen] (https://github.com/SpecklePattern)
 - [John Zhao] (https://github.com/jellllly420)  
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
