@@ -193,6 +193,7 @@
 - Saurabh Shetty
 - [majkimge]
 - [Shayla Luong](https://github.com/nluong1021)
+- [EXPedro](https://github.com/EXPedro)
 - [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke)
