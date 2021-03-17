@@ -82,7 +82,7 @@ git checkout -b "add-your-name"
 <div dir="rtl">على سبيل المثال:</div>
 
 ```
-git checkout -b "add-alonzo-church"
+git checkout -b "add-Sameh-Saeed"
 ```
 
 <br>
