@@ -70,6 +70,7 @@
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
+- [Myrza Turlybek]
 - [Nabin Dangi]
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [John Zhao] (https://github.com/jellllly420)  
