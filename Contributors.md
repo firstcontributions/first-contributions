@@ -11,6 +11,7 @@
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
 - Anshuman Singh
+- Fridolin Paiki
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - Torda Ladomérszky
 - Isaiah Whitfield
