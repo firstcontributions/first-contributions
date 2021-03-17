@@ -4441,6 +4441,7 @@
 - [Harrison Mamin](https://github.com/hdmamin)
 - [Shubham Rajput](https://github.com/shubhamrajput)
 - [Vishay Patel](https://github.com/vp24)
+- [FarDean](https://github.com/FarDean)
 - [Tano Rojas](https://github.com/TanoRojas)
 - [Bala Kumar Periyasamy](https://github.com/bala-me/)
 - [Tristan Elliott](https://github.com/thePlebDev)
