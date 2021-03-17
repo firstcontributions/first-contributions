@@ -3598,6 +3598,7 @@
 - [Keyul Jain](https://github.com/KeyulJain)
 - [Mehul Bhatt](https://github.com/mehulbhat)
 - [AbbyCha](https://github.com/ChaAbby)
+
 - [Garvit Gupta](https://github.com/garvitgupta13)
 - [Lorenzo Ippolito]
 - [Sokhuong Uon](https://github.com/SOKHUONG)
@@ -7857,6 +7858,7 @@
 - [Pratik Tiwari](https://github.com/pratiktiwari13)
 - [David Currie](https://github.com/dc27)
 - [Sagar Datta](https://github.com/sagar-datta)
+- [Yuki Fujioka](https://github.com/yuuki1036)
 - chirag bansal
 - [Jani Ruotsalainen](https://github.com/ruoja)
 - [LordRegis22](https://github.com/lordregis22)
