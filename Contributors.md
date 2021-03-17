@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
@@ -72,6 +72,7 @@
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Myrza Turlybek]
 - [Nabin Dangi]
+- [wantao666] (https://github.com/wantao666)
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [John Zhao] (https://github.com/jellllly420)  
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
