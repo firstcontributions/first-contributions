@@ -17,6 +17,7 @@
 - [Riya Sangwan](https://github.com/ria-19)
 - [Dustin Ray](https://github.com/dustinjray)
 - [Roberto Castillo](https://github.com/castilloroberto)
+- [Victor Bogdanow Dornelles] (https://github.com/Victor-BwD)
 - [Rohan Murmu](https://github.com/scythrine05)
 - [Avi Cohen] (https://github.com/avicohen3660)
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
