@@ -2,6 +2,7 @@
 
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
+- [Bodan Bogdanov](https://github.com/bogdan2341)
 - [Sayak Mondal](https://github.com/isayakmondal)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Bor Brudar] (https://github.com/borbrudar)
