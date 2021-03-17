@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Michael Grigoryan](https://github.com/MichaelGrigoryan25)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
