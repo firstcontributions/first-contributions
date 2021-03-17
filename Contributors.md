@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Michael Grigoryan](https://github.com/MichaelGrigoryan25)
+- [Erasmo Jr.](https://github.com/redmasters)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
@@ -10136,6 +10137,7 @@
 - [Akash Tandon](https://github.com/akashtandon25)
 - [Siddhant Tyagi](https://github.com/s1ddhant-tyagi)
 - [James Dao](http://github.com/jmsdao)
+- [Zsolt M Szabo](https://github.com/szabozsm)
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
@@ -10199,6 +10201,7 @@ sam_namiranian
 - [Pierre Coulon](https://github.com/Pierrecoulon1)
 - [Yaron Lavi](https://github.com/yawikflame)
 - [Quentin HENRY](https://github.com/Dythic)
+- [Yakov Rakhamimov](https://github.com/jacobra19)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
 - [Joseph Harrison](https://github.com/BanJoeH)
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
@@ -10277,3 +10280,4 @@ https://github.com/franzk
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
 - [mollinaca](https://github.com/mollinaca)
 - [San Askaruly](https://github.com/tuttelikz)
+- [iWonder118](https://github.com/iWonder118)🐧
