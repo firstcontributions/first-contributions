@@ -271,6 +271,7 @@
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - [Sai Srivatsa](https://github.com/Sai81)
 - [Vishal Sharma](https://github.com/VishalSharma2000)
+- [Samuel Goncalves](https://github.com/samituga)
 - [James Dodds](https://github.com/Clannis)
 - [Bryden McLeod](https://github.com/brydenm)
 - [B McLeod](https://github.com/brydenm)
