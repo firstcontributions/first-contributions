@@ -319,6 +319,7 @@
 - Dvir Berlo
 - Rakin Rahman
 - Molly Brown 
+- [Syed Ali Raza Bokhari](https://github.com/isyedaliraza)
 - Arpit
 - Jack sparrow
 - Hawa Sylla
