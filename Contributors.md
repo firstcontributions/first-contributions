@@ -8162,6 +8162,7 @@
 - [Akinleye Oyinbayode](https://github.com/Oyinbayode)
 - [Young Yoo](https://github.com/Devedunkey)
 - [Dylan Troutman](https://github.com/nappingrn)
+- [Vijayasarathy] (https://github.com/vijayasarathy)
 - [Miguel Awili](https://github.com/miguelawili)
 - [Komilos](https://github.com/kamsharipova)
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
