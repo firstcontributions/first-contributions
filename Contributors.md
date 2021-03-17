@@ -10264,3 +10264,4 @@ https://github.com/franzk
 - [Stefano Di Cecco](https://github.com/macorifice)
 - [Tuan Nguyen](https://github.com/anhtuan85)
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
+- [San Askaruly](https://github.com/tuttelikz)
