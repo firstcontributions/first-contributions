@@ -8,6 +8,7 @@
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Bor Brudar] (https://github.com/borbrudar)
 - Jaavid25
+- [Adriel Andrade] (https://github.com/adrielhpa)
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
