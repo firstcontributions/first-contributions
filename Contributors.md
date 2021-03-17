@@ -259,6 +259,7 @@
 - [Kis9a](https://github.com/kis9a)
 - [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
+- Trise Ne
 - [Vikrant]
 - [Diego Plata](https://github.com/DPLATA)
 - [Edinson Requena](https://github.com/edinsonrequena)
