@@ -1,7 +1,9 @@
-# Contributors
+﻿# Contributors
 
+- [Erasmo Jr.](https://github.com/redmasters)
 - [Max Mohammadi](https://github.com/MaxMohammadi)
 - [Mobaork Hossain](https://github.com/mobaarok)
+- [Bodan Bogdanov](https://github.com/bogdan2341)
 - [Sayak Mondal](https://github.com/isayakmondal)
 - [Adam Heeps](https://github.com/mr-jackpot)
 - [Bor Brudar](https://github.com/borbrudar)
@@ -11,10 +13,12 @@
 - [Satvir Singh](https://github.com/SatvirSingh98)
 - SH Park
 - Anshuman Singh
+- Fridolin Paiki
 - [Wade Hann-Caruthers](https://github.com/whanncar)
 - Torda Ladomérszky
 - Isaiah Whitfield
 - [Shaoqing Qi](https://https://github.com/RshStone)
+- [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Jamalam360](https://https://github.com/Jamalam360/)
 - [aymanesarrar](https://https://github.com/aymanesarrar/)
 - [Chandrakant Pal](https://github.com/ChandrakantPal)
@@ -69,7 +73,9 @@
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
 - [Ekjot Singh](https://github.com/wisetreewildfi)
-- Nabin Dangi
+- [Myrza Turlybek]
+- [Nabin Dangi]
+- [wantao666](https://github.com/wantao666)
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [John Zhao](https://github.com/jellllly420)  
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
@@ -190,9 +196,11 @@
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Stephen Ricketts](https://github.com/StephenRicketts)
 - Raymond Smith
+- Sahil Gupta (https://github.com/sahilgupta912)
 - Saurabh Shetty
 - [majkimge]
 - [Shayla Luong](https://github.com/nluong1021)
+- [EXPedro](https://github.com/EXPedro)
 - [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
 - [Cheese Coke](https://github.com/cheesecoke)
@@ -252,6 +260,7 @@
 - [Kis9a](https://github.com/kis9a)
 - [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
+- Trise Ne
 - Vikrant
 - [Diego Plata](https://github.com/DPLATA)
 - [Edinson Requena](https://github.com/edinsonrequena)
@@ -8340,7 +8349,9 @@
 - [KrisM10](https://github.com/KrisM10)
 - [John Woolbright](github.com/jwoolbright23)
 - [Bikal Shrestha](https://github.com/bikal1000/)
+   Vitaliy Karpinskiy
 - [tyrachol](https://github.com/tyrachol)
+- Contributors
 - [Harry Tjahja](https://github.com/Harry823)
 - [SushilG96](SushilG96)
 - [Corey Lynch](https://github.com/Bearinawolfpack)
@@ -10125,6 +10136,7 @@
 - [Akash Tandon](https://github.com/akashtandon25)
 - [Siddhant Tyagi](https://github.com/s1ddhant-tyagi)
 - [James Dao](http://github.com/jmsdao)
+- [Zsolt M Szabo](https://github.com/szabozsm)
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
@@ -10188,8 +10200,10 @@ sam_namiranian
 - [Pierre Coulon](https://github.com/Pierrecoulon1)
 - [Yaron Lavi](https://github.com/yawikflame)
 - [Quentin HENRY](https://github.com/Dythic)
+- [Yakov Rakhamimov](https://github.com/jacobra19)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
 - [Joseph Harrison](https://github.com/BanJoeH)
+- [Andrew Hung](https://github.com/AndrewDaGuy) :]
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - Vacoder
 - [Nick Haralampopoulos](https://github.com/macnick)
@@ -10199,6 +10213,7 @@ sam_namiranian
 - [Rohan Babbar](https://github.com/rohanbabbar04)
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
 - [Yuba Neupane](https://github.com/YubaNeupane)
+- [kyourikey](https://github.com/kyourikey)
 - [Asier Exposito](https://github.com/expuexto)
 - [Peter Lovei](https://github.com/loveipeter)
 - [Thanh Hoang](https://github.com/nythoang)
@@ -10262,4 +10277,6 @@ sam_namiranian
 - [Stefano Di Cecco](https://github.com/macorifice)
 - [Tuan Nguyen](https://github.com/anhtuan85)
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
-- [Andrew Hung](https://github.com/AndrewDaGuy) :]
+- [mollinaca](https://github.com/mollinaca)
+- [San Askaruly](https://github.com/tuttelikz)
+- [iWonder118](https://github.com/iWonder118)🐧
