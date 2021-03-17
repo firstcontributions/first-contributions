@@ -122,6 +122,7 @@
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
   [Maruf Sharifi](https://github.com/MarufSharifi)
 - [Thiago Oliveira](https://github.com/tgwow)
+- [Jack Harrington](https://github.com/Jackbytes)
 - [Lauri Lyytikäinen](https://github.com/ExtraLongBaguette)
 - [Sariq Sahazada](https://github.com/Sariq16)
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
