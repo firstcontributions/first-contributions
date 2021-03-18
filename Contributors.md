@@ -13,6 +13,7 @@
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
+- Prithvi
 - SH Park
 - Anshuman Singh
 - Fridolin Paiki
