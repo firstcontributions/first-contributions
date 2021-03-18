@@ -15,7 +15,7 @@
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
-- <h1>[Nirajan Kunwor] (https://github.com/Nirajan995)</h1>
+- [Nirajan Kunwor] (https://github.com/Nirajan995)
 
 - Prithvi
 - SH Park
