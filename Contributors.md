@@ -199,6 +199,7 @@
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
 - [yatu360](https://github.com/yatu360/)
 - [Richard Sistern](https://github.com/richard-sistern)
+- [Daniel Pereh]
 - [Kawaljeet](https://github.com/Kawaljeet2001)
 - [Emre Olgun](https://github.com/emreol)
 - [RaymondL](https://github.com/RaymondLi-1993/first-contributions)
