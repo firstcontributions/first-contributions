@@ -17,6 +17,7 @@
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - Prithvi
 - SH Park
+- Lauren Hatfield
 - Anshuman Singh
 - [Charmaine] (https://github.com/cdacones)
 - Fridolin Paiki
