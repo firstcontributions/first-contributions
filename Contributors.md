@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 - [CinnamonShrine](https://github.com/CinnamonShrine)\
-- [ShaanJ20](https://github.com/ShaanJ20)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
