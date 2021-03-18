@@ -17,6 +17,7 @@
 - Prithvi
 - SH Park
 - Anshuman Singh
+- [Charmaine] (https://github.com/cdacones)
 - Fridolin Paiki
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - Torda Ladomérszky
