@@ -2,6 +2,7 @@
 
 - [CinnamonShrine](https://github.com/CinnamonShrine)\
 - [Erasmo Jr.](https://github.com/redmasters)
+- [ShaanJ20](https://github.com/ShaanJ20)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
