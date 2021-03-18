@@ -9,6 +9,7 @@
 - [Sayak Mondal](https://github.com/isayakmondal)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Bor Brudar] (https://github.com/borbrudar)
+- [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
 - Jaavid25
 - [Adriel Andrade] (https://github.com/adrielhpa)
 - [Emilio Marquez] (https://github.com/emiliomarquez)
