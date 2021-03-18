@@ -8,6 +8,7 @@
 - [Adam Heeps](https://github.com/mr-jackpot)
 - [Bor Brudar](https://github.com/borbrudar)
 - Jaavid25
+- [Adriel Andrade](https://github.com/adrielhpa)
 - [Emilio Marquez](https://github.com/emiliomarquez)
 - [Harsh Vishwakarma](https://github.com/harsh256-code)
 - [Satvir Singh](https://github.com/SatvirSingh98)
@@ -107,6 +108,7 @@
 - [arrathore](https://github.com/arrathore)
 - [Rudi Kraeher](https://github.com/rkraeher)
 - [Angelos Poulis](https://github.com/angelosps)
+  [Sicheng Hu](https://github.com/HSCnoKenju/)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Shaima Haque](https://github.com/SHAIMA-HAQUE)
@@ -122,6 +124,7 @@
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
 - [Maruf Sharifi](https://github.com/MarufSharifi)
 - [Thiago Oliveira](https://github.com/tgwow)
+- [Jack Harrington](https://github.com/Jackbytes)
 - [Lauri Lyytikäinen](https://github.com/ExtraLongBaguette)
 - [Sariq Sahazada](https://github.com/Sariq16)
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
@@ -271,6 +274,7 @@
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - [Sai Srivatsa](https://github.com/Sai81)
 - [Vishal Sharma](https://github.com/VishalSharma2000)
+- [Samuel Goncalves](https://github.com/samituga)
 - [James Dodds](https://github.com/Clannis)
 - [Bryden McLeod](https://github.com/brydenm)
 - [B McLeod](https://github.com/brydenm)
@@ -318,7 +322,8 @@
 - Manav Wadhawan
 - Dvir Berlo
 - Rakin Rahman
-- Molly Brown
+- Molly Brown 
+- [Syed Ali Raza Bokhari](https://github.com/isyedaliraza)
 - Arpit
 - Jack sparrow
 - Hawa Sylla
@@ -4441,6 +4446,7 @@
 - [Harrison Mamin](https://github.com/hdmamin)
 - [Shubham Rajput](https://github.com/shubhamrajput)
 - [Vishay Patel](https://github.com/vp24)
+- [FarDean](https://github.com/FarDean)
 - [Tano Rojas](https://github.com/TanoRojas)
 - [Bala Kumar Periyasamy](https://github.com/bala-me/)
 - [Tristan Elliott](https://github.com/thePlebDev)
@@ -10278,5 +10284,6 @@ sam_namiranian
 - [Tuan Nguyen](https://github.com/anhtuan85)
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
 - [mollinaca](https://github.com/mollinaca)
+- [bhavesh](https://github.com/BhanushaliBhavesh)
 - [San Askaruly](https://github.com/tuttelikz)
 - [iWonder118](https://github.com/iWonder118)🐧
