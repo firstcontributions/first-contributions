@@ -9767,6 +9767,7 @@
 - [Areen Kaur](https://github.com/Areen161)
 - [qzylalala](https://github.com/qzylalala)
 - [Kowalski](https://github.com/K0WALSKl)
+- [Theddy Luna](https://github.com/tluna)
 - [Mlia Decker](https://github.com/deckiedevs)
 - [Amit-Sheer Cohen](https://github.com/AmitSheer)
 - [Ashok Pappu](https://github.com/ashokpappu)
