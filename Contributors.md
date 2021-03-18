@@ -7,6 +7,7 @@
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
 - [Sayak Mondal](https://github.com/isayakmondal)
+- [Gino Burdea](https://github.com/gino192837)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
