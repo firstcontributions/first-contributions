@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Biggesteak](https://github.com/biggesteak)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
