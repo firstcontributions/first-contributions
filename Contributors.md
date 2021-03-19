@@ -2743,6 +2743,7 @@
 - [Shruthi K](https://github.com/shkundap)
 - [HeroCharge](https://github.com/herocharge)
 - [Divya Varshini](https://github.com/divyavarshini)
+- [Supiraru](https://github.com/Supiraru)
 - Sunny Kannaujiya
 - Jin Mori
 - [Leo Humphreys](https://github.com/Hubbit200)
