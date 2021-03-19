@@ -28,6 +28,27 @@
 - [Isaiah Whitfield]
 - [luckatoni](https://github.com/luckatoni)
 - [Shaoqing Qi](https://https://github.com/RshStone)
+- [Adam Heeps](https://github.com/mr-jackpot)
+- [Bor Brudar](https://github.com/borbrudar)
+- [Azimkhanov Bauyrzhan](https://github.com/BauyrzhanAzimkhanov)
+- [Jaavid25]
+- [Adriel Andrade](https://github.com/adrielhpa)
+- [Emilio Marquez](https://github.com/emiliomarquez)
+- [Harsh Vishwakarma](https://github.com/harsh256-code)
+- [Satvir Singh](https://github.com/SatvirSingh98)
+- [Prithvi]
+- [SH Park]
+- [Luke EJH] (https://github.com/luke-ejh)
+- [Lauren Hatfield]
+- [Anshuman Singh]
+- [Roshan Kumar] (https://github.com/roshan1895)
+- [Charmaine] (https://github.com/cdacones)
+- [Fridolin Paiki]
+- [Wade Hann-Caruthers] (https://github.com/whanncar)
+- [Torda Ladomérszky]
+- [Isaiah Whitfield]
+- [luckatoni](https://github.com/luckatoni)
+- [Shaoqing Qi](https://https://github.com/RshStone)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Jamalam360](https://https://github.com/Jamalam360/)
@@ -10323,3 +10344,5 @@
 - [Amelia](https://github.com/AmeliaGryffon)
 - [unclezs](https://github.com/unclezs)
 - [TrueMLGPro](https://github.com/TrueMLGPro) 🦊🔥
+- [appfromape](https://github.com/appfromape)
+- [Shreyansh Dawar](https://github.com/Shreyanshdot)
