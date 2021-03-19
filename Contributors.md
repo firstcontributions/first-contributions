@@ -3,7 +3,7 @@
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
-- [Lindarong] (https://github.com/Lindarong29)
+- [Lindarong](https://github.com/Lindarong29)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
