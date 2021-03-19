@@ -38,13 +38,13 @@
 - [Satvir Singh](https://github.com/SatvirSingh98)
 - [Prithvi]
 - [SH Park]
-- [Luke EJH] (https://github.com/luke-ejh)
+- [Luke EJH](https://github.com/luke-ejh)
 - [Lauren Hatfield]
 - [Anshuman Singh]
-- [Roshan Kumar] (https://github.com/roshan1895)
-- [Charmaine] (https://github.com/cdacones)
+- [Roshan Kumar](https://github.com/roshan1895)
+- [Charmaine](https://github.com/cdacones)
 - [Fridolin Paiki]
-- [Wade Hann-Caruthers] (https://github.com/whanncar)
+- [Wade Hann-Caruthers](https://github.com/whanncar)
 - [Torda Ladomérszky]
 - [Isaiah Whitfield]
 - [luckatoni](https://github.com/luckatoni)
