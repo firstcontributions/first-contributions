@@ -26,6 +26,7 @@
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - Torda Ladomérszky
 - Isaiah Whitfield
+- [luckatoni] (https://github.com/luckatoni)
 - [Shaoqing Qi] (https://https://github.com/RshStone)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
