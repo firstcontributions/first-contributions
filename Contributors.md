@@ -80,6 +80,7 @@
 - [Xavier Walton] (https://github.com/breezy-bodega)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Shashank Sharma] (https://github.com/shanky251020)
+- [daky99] (https://github.com/darky99/)
 - [Jordan Mellor](https://github.com/jlm222)
 - [Will Firman] (https://github.com/willfir/)
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
