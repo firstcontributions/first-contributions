@@ -19,6 +19,7 @@
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - Prithvi
 - SH Park
+- [Luke EJH] (https://github.com/luke-ejh)
 - Lauren Hatfield
 - Anshuman Singh
 - [Roshan Kumar] (https://github.com/roshan1895)
