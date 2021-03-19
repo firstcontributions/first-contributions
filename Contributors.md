@@ -10323,6 +10323,7 @@ https://github.com/franzk
 - [Bilou](https://github.com/Bilou4)
 - [Amanpreet](https://github.com/amanpreet9391)
 - [Amelia](https://github.com/AmeliaGryffon)
+- [Sanchit Saxena](https://github.com/Sanshx)
 - [unclezs](https://github.com/unclezs)
 - [appfromape](https://github.com/appfromape)
 - [Shreyansh Dawar](https://github.com/Shreyanshdot)
