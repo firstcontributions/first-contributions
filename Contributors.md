@@ -586,7 +586,6 @@
 - [Daniel Desmond](https://github.com/dezy-x2)
 - [Daniel Jacobs](https://github.com/dejacobs88)
 - [Tony Trieu](https://github.com/tonytrieu)
-
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
@@ -4018,6 +4017,7 @@
 - [AlexARNcode](https://github.com/AlexARNcode)
 - [asmallgod](https://github.com/asmallgod)
 - [Sammed98](https://github.com/Sammed98)
+- [Four Clawer Cats](https://github.com/FourClawerCats)
 - [Julie Pitman](https://github.com/jpitman1010)
 - [Neila Toofuny](https://github.com/ntoofuny)
 - [Megh Dedhia](https://github.com/m11dedhia)
