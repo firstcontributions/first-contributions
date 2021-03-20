@@ -8436,6 +8436,7 @@
 - [Althea McMillian](https://github.com/althea1900)
 - Sagar Varma
 - [Alex Beaty](https://github.com/jncosideout)
+- [David Shim](https://github.com/medavid1991)
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
 - [Aizaz Ahmad](https://github.com/aaizkhan)
 - [Ty Chermsirivatana](https://github.com/WarpWing)
