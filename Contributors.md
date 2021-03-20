@@ -10324,6 +10324,7 @@ https://github.com/franzk
 - [Matheus Janibelli](https://github.com/mjanibelli)
 - [Stefano Di Cecco](https://github.com/macorifice)
 - [Tuan Nguyen](https://github.com/anhtuan85)
+- [Marco Ulrich](https://github.com/anotherMarco)
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
 - [mollinaca](https://github.com/mollinaca)
 - [bhavesh](https://github.com/BhanushaliBhavesh)
