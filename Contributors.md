@@ -10,6 +10,7 @@
 - [Sayak Mondal](https://github.com/isayakmondal)
 - [Gino Burdea](https://github.com/gino192837)
 - [Adam Heeps] (https://github.com/mr-jackpot)
+- [Vivek Thakur] (https://github.com/vivek6219)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
 - Jaavid25
