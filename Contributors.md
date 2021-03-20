@@ -161,7 +161,7 @@
 - [Smit Chavda](https://github.com/SmitChavda)
 - [h4m5t](https://github.com/h4m5t)
 - [vaishnav-197](https://github.com/vaishnav-197)
-- [EzequielPR](https://github.com/EzequielPR)
+- [Ezequiel Perez](https://github.com/EzequielPR)
 - [Shubham](https://github.com/shubhamayush12)
 - [Manuel Duarte](https://github.com/manuelduarte077)
 - [Léonnel KAKPO](https://github.com/leonnelkakpo)
