@@ -10336,6 +10336,7 @@ https://github.com/franzk
 - [Emre Çoban](https://github.com/emrecoban)
 - [Bilou](https://github.com/Bilou4)
 - [Amanpreet](https://github.com/amanpreet9391)
+- [Chris](https://github.com/ChrisHaslam93)
 - [Amelia](https://github.com/AmeliaGryffon)
 - [Sanchit Saxena](https://github.com/Sanshx)
 - [unclezs](https://github.com/unclezs)
