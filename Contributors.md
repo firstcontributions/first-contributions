@@ -30,6 +30,7 @@
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - Torda Ladomérszky
 - Isaiah Whitfield
+- [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
 - [Shaoqing Qi] (https://https://github.com/RshStone)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
