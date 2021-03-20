@@ -13,6 +13,7 @@
 - [Vivek Thakur] (https://github.com/vivek6219)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
+- [Tanush Jangid] (https://github.com/Tanush-J)
 - Jaavid25
 - [Adriel Andrade] (https://github.com/adrielhpa)
 - [Emilio Marquez] (https://github.com/emiliomarquez)
