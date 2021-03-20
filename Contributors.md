@@ -64,6 +64,7 @@
 - [Ben Hurworth](https://github.com/BHurworth)
 - [Patrick Franz](https://github.com/PatrickFranz)
 - [Saurabh Kumar Jha](https://github.com/saurabhcodes25)
+- [Soma Utsumi](https://github.com/soma00333)
 - [Anonymous Rookie](https://github.com/n-atom)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Parth Nanda](https://github.com/parthn2)
