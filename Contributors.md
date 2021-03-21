@@ -1475,6 +1475,7 @@
 - [Kamil Sikora](https://github.com/sikorakamil26)
 - [Abbey Centers](https://github.com/abbeyLC)
 - [Tamil Selvan](https://github.com/tamizhad)
+- [Soufiane Kremcht](https://github.com/soufianekremcht)
 - [Ayush Nandi](https://github.com/xarcode)
 - [Ankit Josh](https://github.com/ankitjosh78)
 - [IngeniousArtist](https://github.com/ingeniousartist)
