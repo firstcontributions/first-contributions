@@ -274,6 +274,7 @@
 - Brett Bovia
 - Michael Wright
 - [Josh Sample] (https://github.com/JoshSample)
+- [Patryk Gwizdała] (https://gitbub.com/patgwizdala)
 - [Alexander Y Wang](https://github.com/alexanderywang)
 - [**Irena Chen** 🌻](https://github.com/mengirena)
 - Daniel Cerqueira
