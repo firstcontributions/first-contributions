@@ -32,6 +32,7 @@
 - [Charmaine] (https://github.com/cdacones)
 - Fridolin Paiki
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
+- qhuy4119
 - Torda Ladomérszky
 - Isaiah Whitfield
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
