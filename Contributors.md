@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [CinnamonShrine](https://github.com/CinnamonShrine)
+- [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
 - [Finn Lestrange](https://github.com/71xn)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
