@@ -10354,3 +10354,4 @@ https://github.com/franzk
 - [u9g](https://github.com/u9g)
 - [YoshidaTomoaki](https://github.com/YoshidaTomoaki)
 - [Lesley Cheung](https://github.com/lezzles11)
+- [Will Emond](https://github.com/TB9652)
