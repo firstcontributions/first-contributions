@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Toihir Halim](https://github.com/toihirhalim)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
 - [Finn Lestrange](https://github.com/71xn)
