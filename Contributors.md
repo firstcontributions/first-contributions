@@ -21,6 +21,7 @@
 - [Tanush Jangid] (https://github.com/Tanush-J)
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
 - Jaavid25
+- [Anthony Tesoriero](https://github.com/anttesoriero)
 - [Adriel Andrade] (https://github.com/adrielhpa)
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
