@@ -10314,6 +10314,7 @@ https://github.com/franzk
 - [BraveOlivia](https://github.com/BraveOlivia)
 - [Prabal Pathak](https://github.com/prabal01pathak)
 - [TakahitoHimi](https://github.com/TakahiroHimi)
+- [Jorge] (https://github.com/jadromero)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
 - [Daniel Lee] (https://github.com/danyollee)
