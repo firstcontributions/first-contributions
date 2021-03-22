@@ -6,6 +6,7 @@
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
 - [Finn Lestrange](https://github.com/71xn)
 - [Ronit Gupta](https://github.com/ronitgupta)
+- [Jhanvi Lamba](https://github.com/Jlamba2108)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
