@@ -361,6 +361,7 @@
 - Dvir Berlo
 - Rakin Rahman
 - Molly Brown 
+- [Braxton White](https://github.com/KodakBrax)
 - [Syed Ali Raza Bokhari](https://github.com/isyedaliraza)
 - Arpit
 - Jack sparrow
