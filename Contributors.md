@@ -37,6 +37,7 @@
 -VidishaTindolia
 - SH Park
 - [Luke EJH] (https://github.com/luke-ejh)
+- Woo Hyuk Chang
 - Lauren Hatfield
 - Anshuman Singh
 - [Roshan Kumar] (https://github.com/roshan1895)
