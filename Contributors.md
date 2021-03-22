@@ -10378,3 +10378,4 @@ https://github.com/franzk
 - [Thalles Augusto 👋🏾👦🏾:octocat: 💻🚀](https://github.com/ThesllaDev)
 - [Gokul Karki](https://github.com/gokulkar879)
 - [Amber Suratte](https://github.com/asuratte)
+- [Aaron Lee](https://github.com/sciencelee)
