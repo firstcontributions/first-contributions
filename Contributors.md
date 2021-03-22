@@ -1807,6 +1807,7 @@
 - [ Nathan N](https://github.com/NathanNgoy)
 - Mr Mister Meyster
 - Andrew Shum
+- Anish Bhanwala
 - [Sweta Kabi](https://github.com/sweta98)
 - [Alvaro Belmonte](https://github.com/alvarobelmonte)
 - Arun Joseph
