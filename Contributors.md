@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Toihir Halim](https://github.com/toihirhalim)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
@@ -10367,3 +10367,4 @@ https://github.com/franzk
 - [Lesley Cheung](https://github.com/lezzles11)
 - [Will Emond](https://github.com/TB9652)
 - [Thalles Augusto 👋🏾👦🏾:octocat: 💻🚀](https://github.com/ThesllaDev)
+-[Giruba Beulah SE](https://github.com/giruba-intuit)
