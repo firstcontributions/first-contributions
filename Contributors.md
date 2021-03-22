@@ -10367,6 +10367,7 @@ https://github.com/franzk
 - [Shreyansh Dawar](https://github.com/Shreyanshdot)
 - [Soumokanti Bera](https://github.com/Soumokanti123)
 - [cheryl🦄](https://github.com/nuclearfischion)
+- [Ramiro](https://github.com/ramirok)
 - [u9g](https://github.com/u9g)
 - [volokh0x](https://github.com/volokh0x)
 - [YoshidaTomoaki](https://github.com/YoshidaTomoaki)
