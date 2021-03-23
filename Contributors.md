@@ -8583,7 +8583,6 @@
 - Prabhat
 - [Priya Pisipati](https://github.com/preeap3)
 - [Smriti Naik](https://github.com/shruti1421)
-- [Hen Izon](https://github.com/izonnn)
 - Alexei Test
 - [Idiot](https://github.com/trustMeIAmAnIdiot)
 - [Tan V](https://github.com/tan-d-vu/)
@@ -9063,6 +9062,7 @@
 - [Rubi Singh](https://github.com/rubisingh2020)
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
 - [Monica Dhanaraj](https://github.com/mds-code)
+- [learn github](https://github.com/learngithub01)
 - [Ajay Mittal](https://github.com/ajaymittal2020)
 - [Abolaji Adifagbola](https://github.com/Mobolaji96)
 - [Raghav Mehta](https://github.com/mehta-raghav)
