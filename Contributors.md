@@ -1067,6 +1067,7 @@
 - [Aleksandar Knezevic Knele]
 - [Lucy Copp]
 - Marissa T
+- [Clifford C](https://github.com/CliffordC)
 - [Sunny Bhuee](https://github.com/SunnyBhuee)
 - [Areeb-510](https://github.com/Areeb-510)
 - [Hector Deleon](https://github.com/hdeleon99)
