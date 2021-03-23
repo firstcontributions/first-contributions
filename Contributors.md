@@ -93,6 +93,7 @@
 - [Parth Nanda](https://github.com/parthn2)
 - Matías Thiele
 - [Tom Evans](https://github.com/tom-evans)
+- [Matic Šuc](https://github.com/maticsuc)
 - [Luvdipsingh Dadiyala](https://github.com/ldsir01)
 - [Javier 'JIO' Ortiz](https://github.com/JIO93)
 - [Dylan Govender](https://github.com/dylangovender)
