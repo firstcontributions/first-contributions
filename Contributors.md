@@ -6816,6 +6816,7 @@
 - [piter53](https://github.com/piter53)
 - [Ingo Rotzinger](https://github.com/iro1965)
 - [Steven Jiang](https://github.com/xiangj1)
+- [Valerie Gilbert](https://github.com/urbanengr)
 - [David Angkawijaya](https://github.com/Daw3yz)
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
