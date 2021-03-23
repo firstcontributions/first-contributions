@@ -2,6 +2,7 @@
 
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
+- [polin-x](https://github.com/polin-x)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
@@ -27,6 +28,7 @@
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
 - [Tanush Jangid] (https://github.com/Tanush-J)
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
+- [Xxgzbd](https://github.com/zhongmz)
 - Jaavid25
 - [Anthony Tesoriero](https://github.com/anttesoriero)
 - [Adriel Andrade] (https://github.com/adrielhpa)
@@ -93,6 +95,7 @@
 - [Parth Nanda](https://github.com/parthn2)
 - Matías Thiele
 - [Tom Evans](https://github.com/tom-evans)
+- [Matic Šuc](https://github.com/maticsuc)
 - [Luvdipsingh Dadiyala](https://github.com/ldsir01)
 - [Javier 'JIO' Ortiz](https://github.com/JIO93)
 - [Dylan Govender](https://github.com/dylangovender)
@@ -161,6 +164,7 @@
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Shaima Haque](https://github.com/SHAIMA-HAQUE)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
+- [Hao Zhang](https://github.com/Derrick-Zhang)
 - [Gabriele C.](https://github.com/gchem1se)
 - [Sumin Lee](https://github.com/nimuseel)
 - [Arthur Remy](https://github.com/remy29)
@@ -5511,6 +5515,7 @@
 - Sri
 - Robbe Goethals
 - raddd
+- [Aleks Nikolov] (https://github.com/cortvlkn)
 - [Jasdeep S Shangari](https://github.com/shangarijasdeep24)
 - [Balldoro](https://github.com/Balldoro)
 - syntacticgeorge
@@ -9934,6 +9939,7 @@
 - [Austin Accomando](https://github.com/reuse898)
 - [Harrison Cramer](https://github.com/KingOfCramers)
 - [Aditya B](https://github.com/adifeb/first-contributions)
+- [Hectonit](https://github.com/hectonit)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
@@ -10392,7 +10398,11 @@ https://github.com/franzk
 - [Aaron Lee](https://github.com/sciencelee)
 - [2293736867](https://github.com/2293736867)
 - [SnowyLake](https://github.com/SnowyLake)
+- [lastchiliarch](https://github.com/lastchiliarch)
 - [GrilledLettuce](https://github.com/GrilledLettuce)
 - [NPU-Franklin](https://github.com/NPU-Franklin)
 - [DYS763](https://github.com/DYS763)
 - [DaKing👍🏼](https://github.com/shenduldh)
+- [albertrzcinski](https://github.com/albertrzcinski)
+- [zefengdaguo](https://github.com/zefengdaguo)
+- [Kylo Yip](https://github.com/yipwinghong)
