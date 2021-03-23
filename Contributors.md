@@ -46,6 +46,7 @@
 - Fridolin Paiki
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - qhuy4119
+- [Jakob Johnson] (https://github.com/jakobJohnsonJS)
 - Torda Ladomérszky
 - Isaiah Whitfield
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
