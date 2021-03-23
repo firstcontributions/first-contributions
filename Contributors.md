@@ -1,5 +1,7 @@
 ﻿# Contributors
 
+
+- [polin_x](https://github.com/polin-x)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
