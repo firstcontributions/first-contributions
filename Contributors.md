@@ -29,6 +29,7 @@
 - [Tanush Jangid] (https://github.com/Tanush-J)
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
 - [Xxgzbd](https://github.com/zhongmz)
+- [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
 - [Anthony Tesoriero](https://github.com/anttesoriero)
 - [Adriel Andrade] (https://github.com/adrielhpa)
