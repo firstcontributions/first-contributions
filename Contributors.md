@@ -9936,6 +9936,7 @@
 - [Austin Accomando](https://github.com/reuse898)
 - [Harrison Cramer](https://github.com/KingOfCramers)
 - [Aditya B](https://github.com/adifeb/first-contributions)
+- [Hectonit](https://github.com/hectonit)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
