@@ -5515,6 +5515,7 @@
 - Sri
 - Robbe Goethals
 - raddd
+- [Aleks Nikolov] (https://github.com/cortvlkn)
 - [Jasdeep S Shangari](https://github.com/shangarijasdeep24)
 - [Balldoro](https://github.com/Balldoro)
 - syntacticgeorge
