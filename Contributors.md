@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
@@ -1173,6 +1173,7 @@
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [John Lee](https://github.com/syntheticjohn)
+- [Cam Benassi](https://github.com/cambenassi)
 - [Paramita Tejasvi](https://github.com/paramita-tejasvi)
 - [Helen Nazarenko](https://github.com/nazarenh)
 - [Savneet Kaur](https://github.com/SavneetKaur01)
