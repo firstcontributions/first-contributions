@@ -4574,6 +4574,7 @@
 - [stygarfield](https://github.com/stygarfield)
 - Jackie Nunya
 - Ritu Kumari
+- Jasmine Dhunna
 - [Roody Audain](https://github.com/raudain)
 - Mallika Ravi
 - Mary Magorrian
