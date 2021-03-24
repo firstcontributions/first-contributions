@@ -12,6 +12,7 @@
 - [Ronit Gupta](https://github.com/ronitgupta)
 - [Jhanvi Lamba](https://github.com/Jlamba2108)
 - [Erasmo Jr.](https://github.com/redmasters)
+- [Jonathan Ta](https://github.com/jhta2000)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
