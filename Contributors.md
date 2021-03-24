@@ -54,6 +54,7 @@
 - [Jakob Johnson] (https://github.com/jakobJohnsonJS)
 - Torda Ladomérszky
 - Isaiah Whitfield
+- [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
 - [Shaoqing Qi] (https://https://github.com/RshStone)
