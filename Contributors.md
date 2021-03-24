@@ -5691,6 +5691,7 @@
 - [Zaid Jilani](https://github.com/zjilani)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Jonathan Watson](https://github.com/jrwatson99)
+- [John Olarte](https://github.com/olartejohn)
 - [Jason Blais](https://github.com/jasonblais)
 - [Davi Baptista](https://github.com/baptixta)
 - [João Felipe](https://github.com/JoaoFelipeFlorencio)
