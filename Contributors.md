@@ -54,6 +54,7 @@
 - [Jakob Johnson] (https://github.com/jakobJohnsonJS)
 - Torda Ladomérszky
 - Isaiah Whitfield
+- [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
 - [Shaoqing Qi] (https://https://github.com/RshStone)
@@ -517,6 +518,7 @@
 - [Maria Bardon](https://github.com/mariabardon)
 - [Mike Wengelski](https://github.com/misterwayn)
 - [Anushka Jain](https://github.com/anushkarjain)
+- [Mohneesh Damade](https://github.com/mohneeshdamade)
 - [tamizh143](https://github.com/tamizh143)
 - [Saurabh Singh](https://github.com/saurabhsingh99100)
 - [tanvi :DD](https://github.com/tanvi-md)
@@ -4138,6 +4140,7 @@
 - [Malaika Agrawal]()
 - [Aswin-Poovadan](https://github.com/Aswin-Poovadan)
 - [Mees]()
+- [Saltanat](https://github.com/Saltik-a)
 - [Sasha Badov](https://github.com/sashabadov)
 - [Jubaer](https://github.com/jubaer997)
 - [Ark Shankar Pandey](https://github.com/TmoNNNomT)
@@ -10423,3 +10426,4 @@ https://github.com/franzk
 - [Xuup](https://github.com/xuup)
 - [Xavier](https://github.com/xuzewei)
 - [gaoqiang](https://github.com/gaoqiang19514)
+- [HorizonChaser](https://github.com/HorizonChaser)
