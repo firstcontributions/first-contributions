@@ -32,6 +32,7 @@
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
 - [Tanush Jangid] (https://github.com/Tanush-J)
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
+- [Ekaterina Golovanova] (https://github.com/EkaterinaGolovanova)
 - [Xxgzbd](https://github.com/zhongmz)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
