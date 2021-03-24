@@ -1,6 +1,7 @@
 # Contributors
 
 - [Toihir Halim](https://github.com/toihirhalim)
+- [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
 - [polin-x](https://github.com/polin-x)
   [yssvr](https://github.com/YSSVR)
