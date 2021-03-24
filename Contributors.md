@@ -1,8 +1,8 @@
-# Contributors
+**__# Contributors**__
 
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
-- [polin-x](https://github.com/polin-x)
+- [polin-x](**https**://github.com/polin-x)
   [yssvr](https://github.com/YSSVR)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
@@ -38,6 +38,7 @@
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
+- [Fitzgerald Mouseton](https://github.com/FitzgeraldMouseton)
 - Prithvi
 - EternalBlu
 -VidishaTindolia
