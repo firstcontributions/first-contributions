@@ -41,7 +41,7 @@
 - Prithvi
 - EternalBlu
 -VidishaTindolia
-- SH Park
+- [enormous eakansh ](https://github.com/enormouseakansh-1)
 - [Luke EJH] (https://github.com/luke-ejh)
 - Woo Hyuk Chang
 - Lauren Hatfield
