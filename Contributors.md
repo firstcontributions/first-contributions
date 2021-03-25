@@ -48,6 +48,7 @@
 - Prithvi
 - EternalBlu
 -VidishaTindolia
+-Dev Kumar(https://github.com/techydev)
 - SH Park
 - [Luke EJH] (https://github.com/luke-ejh)
 - Woo Hyuk Chang
