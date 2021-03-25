@@ -108,6 +108,7 @@
 - [Tom Evans](https://github.com/tom-evans)
 - [Matic Šuc](https://github.com/maticsuc)
 - [Luvdipsingh Dadiyala](https://github.com/ldsir01)
+- [Brian Ladner](https://github.com/bjladner)
 - [Javier 'JIO' Ortiz](https://github.com/JIO93)
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
