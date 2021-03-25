@@ -1,5 +1,5 @@
 # Contributors
-
+- [Simon Mathy](https://github.com/Smuuts)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
