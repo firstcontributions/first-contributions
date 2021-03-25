@@ -1,6 +1,7 @@
 # Contributors
 
 - [Zhi King](https://github.com/zyj1022)
+- [Veeresh Soni](https://github.com/veeresh745)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
@@ -9,6 +10,7 @@
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
+- [Tim Martin](https://github.com/TimMartin13)
 - [Finn Lestrange](https://github.com/71xn)
 - [Ronit Gupta](https://github.com/ronitgupta)
 - [Jhanvi Lamba](https://github.com/Jlamba2108)
@@ -30,6 +32,7 @@
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
 - [Vivek Thakur] (https://github.com/vivek6219)
+- [Joseph Burrows] (https://github.com/joseph-burrows)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
 - [Tanush Jangid] (https://github.com/Tanush-J)
@@ -44,6 +47,7 @@
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
+- [Kevin Bouchaud] (https://github.com/Owainn)
 - John John
 - Prithvi
 - EternalBlu
@@ -84,6 +88,7 @@
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Jianyong Zhu] (https://github.com/jyong-zhu)
 - [Gene Lam] (https://github.com/genelam26)
+- [Lester Ho] (https://github.com/lesterhjy)
 - [Ivan van der Merwe 🤘] (https://github.com/WookieeCoder)
 - [Ivan Setiawan_Indonesia] (https://github.com/navivanuva)
 - [Mazhar Ali Khan 🔥](https://github.com/mazharwhite)
@@ -143,6 +148,7 @@
 - [John Zhao] (https://github.com/jellllly420)  
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
+- [Peter Ling] (http:..github.com/peter-ling)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
 - [MisterFowler]https://github.com/MisterFowler
 - [Shourya Srivastava](https://github.com/ShouryaSrivastava01)
@@ -235,6 +241,7 @@
 - Spencer Hoggart
 - Emilio Gumayagay (https://github.com/ergumayagay)
 - Pedro Enciso
+- Ahambarish Saikia
 - Ali Ahmed
 - JLJ
 - [Amaechi Abuah](https://github.com/abuah1999)
@@ -248,6 +255,7 @@
 - [Maastrich](https://github.com/Maastrich)
 - [Andrew Perkins](https://github.com/andrewperkins)
 - sbenav
+- [Sebastian Russo] (https://github.com/Sebastian-Russo)
 - Marcin Maruszak
 - [Chin-Wu Chen] (https://github.com/chinwuchen)
 - [Daniel Wong] (https://github.com/dsew77)
@@ -10445,3 +10453,5 @@ https://github.com/franzk
 - [Lcan](https://github.com/lcan520)
 - [Sooraj Sunil](https://github.com/soorajsunil1409)
 - [S M](https://github.com/smallard08)
+- [Robin Mark Oscar Gill](https://github.com/gillocodes1)
+- [Dan Vidoni](https://github.com/dan-vidoni)
