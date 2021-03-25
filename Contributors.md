@@ -3422,6 +3422,7 @@
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
+- [Syed Affan](https://github.com/affan880)
 - [Rajath Prabhu M](https://github.com/codemonger221)
 - [Abhishek Verma](https://github.com/abhishekanimatron)
 - [Ranim Amor] (https://github.com/RanimAmor)
@@ -10437,4 +10438,6 @@ https://github.com/franzk
 - [Alvin Zhao](https://github.com/yzAlvin)
 - [Dmego](https://github.com/dmego)
 - [Lcan](https://github.com/lcan520)
-- [zhangvalue](https://github.com/zhangvalue)
+- [zhangvalue](https://github.com/zhangvalue)s
+- [Sooraj Sunil](https://github.com/soorajsunil1409)
+
