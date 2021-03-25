@@ -45,6 +45,7 @@
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
+- [Kevin Bouchaud] (https://github.com/Owainn)
 - John John
 - Prithvi
 - EternalBlu
