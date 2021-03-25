@@ -140,6 +140,7 @@
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Myrza Turlybek]
 - [Nabin Dangi]
+- [Peter Ling] (https://github.com/peter-ling)
 - [wantao666] (https://github.com/wantao666)
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [John Zhao] (https://github.com/jellllly420)  
