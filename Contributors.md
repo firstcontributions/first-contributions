@@ -117,6 +117,7 @@
 - [Taylor Griffin](https://github.com/Taylor-Griffin)
 - [Himanshu Malviya](https://github.com/Himanshu664)
 - [MLTDK](https://github.com/MLTDK)
+  Hellen Namulinda
 - [adamantia](https://github.com/adamantiakoutsi)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
