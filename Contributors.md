@@ -3422,6 +3422,7 @@
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
+- [Syed Affan](https://github.com/affan880)
 - [Rajath Prabhu M](https://github.com/codemonger221)
 - [Abhishek Verma](https://github.com/abhishekanimatron)
 - [Ranim Amor] (https://github.com/RanimAmor)
