@@ -2097,6 +2097,7 @@
 - [Shaun Yap](https://github.com/shaun-yap)
 - Harshraj shrivastava
 - [Kole Deighan](https://github.com/kdeigs)
+- [WH-2099](https://github.com/WH-2099)
 - Nishant Shekhar
 - Aniket
 - [Peleg Zur](https://github.com/PelegZur)
