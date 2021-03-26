@@ -22,6 +22,7 @@
 - [Lindarong](https://github.com/Lindarong29)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
+- [Sreeja Nallapati] (https://github.com/nallapatisreeja)
 - [Ehimare Okosun](https://github.com/ehimare369)
 - [Thomas Roe] (https://github.com/roetom22)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
