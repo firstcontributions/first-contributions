@@ -18,6 +18,7 @@
 - [Finn Lestrange](https://github.com/71xn)
 - [Ronit Gupta](https://github.com/ronitgupta)
 - [Jhanvi Lamba](https://github.com/Jlamba2108)
+- [Sebastian Marius] 
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Jonathan Ta](https://github.com/jhta2000)
 - [Joan Njuguna](https://github.com/joancodes)
