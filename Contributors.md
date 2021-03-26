@@ -229,6 +229,7 @@
 - [Vinay Adaki] (https://github.com/VinayAdaki)
 - [Arthur Redmond](https://github.com/ArthurRedmond)
 - [Gourav Pathela](https://github.com/gpathela)
+- [WryBin](https://github.com/WryBin)
 - [Alexandr Alibekov](https://github.com/RedBull4)
   [Kameshwar Sharma] (https://github.com/kam2104)
   [Aleksandar Stancevic](https://github.com/AleksandarStancevic)
