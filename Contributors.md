@@ -10089,6 +10089,7 @@
 - [Farooq Ahmed](https://github.com/farooqahmed-it)
 - [Matthew Sheldon](https://github.com/msheldon32)
 - [Andrew Russell](https://github.com/WatCodeDatCode)
+- [Aurélie Nguyen](https://github.com/Aure-en)
 - [spsoni] (https://github.com/spsoni)
 - [Anno2003] (https://github.com/Anno2003 )
 - [Hudson Leone](https://github.com/FalafelGood)
