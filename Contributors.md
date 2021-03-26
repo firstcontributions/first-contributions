@@ -10,6 +10,7 @@
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
+- [Peter Yang](https://github.com/jkabc123)
 - [Tim Martin](https://github.com/TimMartin13)
 - [Finn Lestrange](https://github.com/71xn)
 - [Ronit Gupta](https://github.com/ronitgupta)
