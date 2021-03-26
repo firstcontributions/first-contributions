@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [Toihir Halim](https://github.com/toihirhalim)
