@@ -1,10 +1,12 @@
 # Contributors
 
+- [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
+- [Alok Gupta](https://github.com/gupta-alok)
 - [polin-x](https://github.com/polin-x) 
   [yssvr](https://github.com/YSSVR)
 - [Bashar Al-Fatly](https://github.com/basharalfatly)
@@ -18,6 +20,7 @@
 - [Jhanvi Lamba](https://github.com/Jlamba2108)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Jonathan Ta](https://github.com/jhta2000)
+- [Joan Njuguna](https://github.com/joancodes)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
@@ -64,6 +67,7 @@
 - Lauren Hatfield
 - Anshuman Singh
 - [Roshan Kumar] (https://github.com/roshan1895)
+- Hamish James
 - [Charmaine] (https://github.com/cdacones)
 - Fridolin Paiki
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
@@ -102,6 +106,7 @@
 - [Kevin Dormer](https://github.com/krdormer)
 - [Anagha Mardavi Pandey](https://github.com/JkAnagha)
 - [Aman Garg](https://github.com/rubal2508)
+- [Kedar Pathade](https://github.com/kbp12)
 - [raavann](https://github.com/raavann)
 - [Taruna Agrawal](https://github.com/ts1702612)
 - [Sahaj Mistry] (https://github.com/i-sahajmistry)
@@ -264,6 +269,7 @@
 - [Sebastian Russo] (https://github.com/Sebastian-Russo)
 - Marcin Maruszak
 - [Chin-Wu Chen] (https://github.com/chinwuchen)
+- [Munia Balayil] (https://github.com/mbalayil)
 - [Daniel Wong] (https://github.com/dsew77)
 - [Marcin Glod](https://github.com/Mglod-usernametaken)
 - Michael Chen (https://github.com/michaelgchen)
@@ -4987,6 +4993,7 @@
 - [Rifat Al Mahfuz](https://github.com/Rifat12)
 - [Ifrah Vermeeer](https://https://github.com/ifrahv)
 - Eitan
+- [Jay Mehta] (https://github.com/jaymehta721)
 - [Charlie Cohen]
 - [Aman Bhardwaj](https://github.com/inblack67)
 - [keelisetti lokesh](https://github.com/lokeshkeelisetti)
@@ -10463,3 +10470,5 @@ https://github.com/franzk
 - [Dan Vidoni](https://github.com/dan-vidoni)
 - [CHxCOOH](https://github.com/CHxCOOH)
 - [Murphy Nzali](https://github.com/murphy-n)
+- [adilshehzad786](https://github.com/adilshehzad786)
+- [ppeloton] [ppeloton]
