@@ -120,6 +120,7 @@
 - [Saurabh Kumar Jha](https://github.com/saurabhcodes25)
 - [Soma Utsumi](https://github.com/soma00333)
 - [Anonymous Rookie](https://github.com/n-atom)
+- [Kacper Kochanski](https://github.com/kacper1134)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [Parth Nanda](https://github.com/parthn2)
 - Matías Thiele
