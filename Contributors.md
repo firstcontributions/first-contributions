@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
@@ -37,6 +37,7 @@
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - Prithvi
 - EternalBlu
+- [Mansi Singh](https://github.com/RyuFeng)
 -VidishaTindolia
 - SH Park
 - [Luke EJH] (https://github.com/luke-ejh)
