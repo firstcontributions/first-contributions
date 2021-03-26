@@ -4989,7 +4989,7 @@
 - [Rifat Al Mahfuz](https://github.com/Rifat12)
 - [Ifrah Vermeeer](https://https://github.com/ifrahv)
 - Eitan
-- [Jay Mehta] (https://github.com/jaymehta721)
+- [Jay Mehta](https://github.com/jaymehta721)
 - [Charlie Cohen]
 - [Aman Bhardwaj](https://github.com/inblack67)
 - [keelisetti lokesh](https://github.com/lokeshkeelisetti)
