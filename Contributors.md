@@ -5,6 +5,7 @@
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
+- [Alok Gupta](https://github.com/gupta-alok)
 - [polin-x](https://github.com/polin-x) 
   [yssvr](https://github.com/YSSVR)
 - [Bashar Al-Fatly](https://github.com/basharalfatly)
