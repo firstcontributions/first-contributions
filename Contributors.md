@@ -3344,6 +3344,7 @@
 - [Jeremy Perry](https://github.com/jeperry)
 - [Ivonne Y Mendoza](https://github.com/TiaIvonne)
 - [Aditya Alok](https://github.com/MrAdityaAlok)
+- [Gabriel Assed](https://github.com/gabrielassed)
 - [Basavaraj Navalgund](https://github.com/basavarajnavalgund)
 - [Manmeet Singh](https://github.com/manmeetsingh7781)
 - [Shreya Garg](https://github.com/einhawking)
