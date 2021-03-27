@@ -58,6 +58,7 @@
 - [Adriel Andrade] (https://github.com/adrielhpa)
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
+- [Ethan Song] (https://github.com/ethansong3)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - [Kevin Bouchaud] (https://github.com/Owainn)
 - John John
