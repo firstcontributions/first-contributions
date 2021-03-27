@@ -4,6 +4,7 @@
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Arya Bhosale](https://github.com/AryaArunB)
+- [Sarthak Kumar](https://github.com/Sarthak-06)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [Dagon Lee](https://github.com/dagonlee)
