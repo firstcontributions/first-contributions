@@ -1,4 +1,5 @@
 # Contributors
+- [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Arya Bhosale] (https://github.com/AryaArunB)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
@@ -10492,4 +10493,5 @@ Marica Marian
 - [Zilong Zhou](https://github.com/zzl200012)
 - [Puya Goodarzi](https://github.com/PuyaGoodarzi)
 - [SinKy](https://github.com/SinKy-Yan)
+- [Tim Tsai](https://github.com/tim08094495757)
 - [79-k] (https://github.com/79-k)
