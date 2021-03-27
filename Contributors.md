@@ -10492,3 +10492,4 @@ Marica Marian
 - [Puya Goodarzi](https://github.com/PuyaGoodarzi)
 - [SinKy](https://github.com/SinKy-Yan)
 - [79-k] (https://github.com/79-k)
+- [Kendell Mendoza](https://github.com/kendellmendoza)
