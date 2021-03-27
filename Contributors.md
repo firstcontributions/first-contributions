@@ -6,6 +6,7 @@
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
+- [Dagon Lee](https://github.com/dagonlee)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
