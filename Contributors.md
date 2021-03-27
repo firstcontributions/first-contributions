@@ -1,9 +1,9 @@
 # Contributors
-- [Arya Bhosale] (https://github.com/AryaArunB)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
+- [Arya Bhosale](https://github.com/AryaArunB)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [Dagon Lee](https://github.com/dagonlee)
