@@ -1335,6 +1335,7 @@
 - [OofChair](https://github.com/OofChair)
 - [mayosecc](https://github.com/mayosecc)
 - [NITIN KUMAR](https://github.com/nkthehustler)
+- [JOHNSHUAN](https://github.com/johnshuan)
 - [Alex Ayllon](https://github.com/Arkalex)
 - [vjanz](https://github.com/vjanz)
 - [Liz Kipp](https://github.com/elizabethsn7)
