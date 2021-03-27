@@ -4797,6 +4797,7 @@
 - [Ziad Adeela](https://github.com/ziadadeela)
 - [Abbey Dabiri](https://github.com/abbeydabiri)
 - [Ashutosh Malviya](https://github.com/AshutoshMalviya)
+- [Brynn Dagdick](https://github.com/Brynn153)
 - [Joshua Fritsch](https://github.com/jfritsch75)
 - [Maryam Yusuf](https://github.com/mharyam)
 - [Pop Sorina Maria](https://github.com/popsorina)
