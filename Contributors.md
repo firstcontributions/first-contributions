@@ -1,6 +1,7 @@
 # Contributors
 
 - [Stefan Kleinhans] (https://github.com/Stefan043)
+- [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
