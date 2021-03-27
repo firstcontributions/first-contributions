@@ -20,6 +20,7 @@
 - Torda Ladomérszky
 - Isaiah Whitfield
 - [Shaoqing Qi] (https://https://github.com/RshStone)
+  [imran](https://github.com/imranhadi01)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
