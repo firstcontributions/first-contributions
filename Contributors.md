@@ -141,6 +141,7 @@
 - [MLTDK](https://github.com/MLTDK)
   Hellen Namulinda
 - [adamantia](https://github.com/adamantiakoutsi)
+- [antonioii](https://github.com/antonioii)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
