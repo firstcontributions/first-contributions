@@ -1,4 +1,6 @@
 # Contributors
+
+- [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Amanuel Odicho] (https://github.com/odicho)
@@ -30,6 +32,7 @@
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Sreeja Nallapati] (https://github.com/nallapatisreeja)
+- [Sudha Kotni] (https://github.com/sudhakotni-git)
 - [Ehimare Okosun](https://github.com/ehimare369)
 - [Thomas Roe] (https://github.com/roetom22)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
@@ -44,6 +47,7 @@
 - [Guy Cherubin] (https://github.com/ngchrbn)
 - [Vivek Thakur] (https://github.com/vivek6219)
 - [Hugo Ku] (https://github.com/hugoksp)
+- [appllo] (https://github.com/applloP)
 - [Joseph Burrows] (https://github.com/joseph-burrows)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
@@ -10492,4 +10496,5 @@ Marica Marian
 - [Zilong Zhou](https://github.com/zzl200012)
 - [Puya Goodarzi](https://github.com/PuyaGoodarzi)
 - [SinKy](https://github.com/SinKy-Yan)
+- [Tim Tsai](https://github.com/tim08094495757)
 - [79-k] (https://github.com/79-k)
