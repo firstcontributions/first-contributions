@@ -23,7 +23,7 @@
 <p dir="rtl">ترمینال رو باز کن و دستورات زیر رو وارد کن</p>
 <pre><code>git clone "لینکی که کپی کردی"
 </code></pre>
-<p dir="rtl">جایی که (لینکی که کپی کردی) هست درواقع آدرس ریپوزیتوری هست که تو قدم پیش دیدی</p>
+<p dir="rtl">جایی که (لینکی که کپی کردی) هست درواقع آدرس ریپوزیتوری هست که تو قدم قبلی دیدی</p>
 
 <p dir="rtl">برای مثال</p>
 <pre><code>git clone https://github.com/this-is-you/first-contributions.git
