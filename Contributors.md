@@ -10514,5 +10514,6 @@ Marica Marian
 - [Tim Tsai](https://github.com/tim08094495757)
 - [79-k] (https://github.com/79-k)
 - [gdcodes](https://github.com/gd-codes)
-- [Gaffar Kasumu] (https://github.com/gaffy94)
+- [Gaffar Kasumu](https://github.com/gaffy94)
 - [Sirisha] (https://github.com/Sirisha-embedded)
+- [Marlena Chatzigrigoriou](https://github.com/marlenachatzigrigoriou)
