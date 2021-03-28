@@ -20,6 +20,7 @@
 - [polin-x](https://github.com/polin-x) 
   [yssvr](https://github.com/YSSVR)
 - [Bashar Al-Fatly](https://github.com/basharalfatly)
+- [Alda Marrone](https://github.com/Aldina87)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
