@@ -29,6 +29,7 @@
 - [Yanchun Lai](https://github.com/ycl310)
 - [Finn Lestrange](https://github.com/71xn)
 - [Ronit Gupta](https://github.com/ronitgupta)
+- [Silambarasan Sethuraman](https://github.com/simbuatgit)
 - [Jhanvi Lamba](https://github.com/Jlamba2108)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Jonathan Ta](https://github.com/jhta2000)
