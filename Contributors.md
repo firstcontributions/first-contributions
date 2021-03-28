@@ -1,5 +1,6 @@
 # Contributors
 
+- [Parvesh Barak](https://github.com/parveshbarak)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
