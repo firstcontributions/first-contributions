@@ -161,6 +161,7 @@
 - [Shashank Sharma] (https://github.com/shanky251020)
 - [daky99] (https://github.com/darky99/)
 - [Jordan Mellor](https://github.com/jlm222)
+- [Shashank Bengaluru Srinivasa](https://github.com/sbengal2/)
 - [Will Firman] (https://github.com/willfir/)
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
 - [Sandra F.](https://github.com/SandraFer)
