@@ -9,6 +9,7 @@
 - [Arya Bhosale](https://github.com/AryaArunB)
 - [Zhi King](https://github.com/zyj1022)
 - [Veeresh Soni](https://github.com/veeresh745)
+- [sancodes](https://github.com/sancodes)
 - [Dagon Lee](https://github.com/dagonlee)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
