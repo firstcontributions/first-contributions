@@ -1,5 +1,5 @@
 # Contributors
-
+- [Rajat khanna506] (https://github.com/rajatkhanna506)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
