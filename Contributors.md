@@ -206,6 +206,7 @@
 - [Aditi Dona](https://github.com/aditidona)
 - Mohit Mehta
 - Ronak Patel
+- Kishkin Joshi (https://github.com/KishkinJ10)
 - [Bruno Durand](https://github.com/Loriage)
 - Tanya Dixit
 - Marcin Maruszak https://github.com/MarcinMaruszak/
