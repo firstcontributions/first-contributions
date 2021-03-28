@@ -5066,6 +5066,7 @@
 - [Anand Krishnan](https://github.com/akrishnan93)
 - [Zuber Rahman](https://github.com/RebuzZz)
 - [Anna Wijetunga](https://github.com/AnnaWijetunga)
+- Natalia K
 - [Isaiah Blanks](https://github.com/IsaiahBlanks)
 - [Nithin Kumar](https://github.com/nithintata)
 - [Daniel Pyon](https://github.com/danielpyon)
