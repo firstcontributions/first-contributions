@@ -13,6 +13,7 @@
 - [Brett Connolly](https://github.com/HaulinOats)
 - [Alok Gupta](https://github.com/gupta-alok)
 - [polin-x](https://github.com/polin-x) 
+- [SummerisleSongs](https://github.com/SummerisleSongs)
   [yssvr](https://github.com/YSSVR)
 - [Bashar Al-Fatly](https://github.com/basharalfatly)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
