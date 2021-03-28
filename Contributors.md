@@ -7774,6 +7774,7 @@
 - [jinhokong](https://github.com/jinhokong)
 - [Michael Morrow](https://github.com/mamorrow1957)
 - [Matthew Kerlin](https://github.com/MerlinGoneSuperSaiyan)
+- [Christos Drilakis] (https://github.com/Drilack7)
 - [Miguel Magana](https://https://github.com/miguelmagana)
 - [Divya Nayal](https://github.com/divyanayal)
 - [Shikha Shah](https://github.com/shikha-812)
