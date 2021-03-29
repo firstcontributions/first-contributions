@@ -78,6 +78,7 @@
 - [Ethan Song] (https://github.com/ethansong3)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - [Kevin Bouchaud] (https://github.com/Owainn)
+- [Prateek Pradhan](https://github.com/Prateek-2001)
 - John John
 - Prithvi
 - EternalBlu
