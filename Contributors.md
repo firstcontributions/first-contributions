@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 - [Toihir Halim](https://github.com/toihirhalim)
-- [Albert Sharma]
+- [Albert Sharma](NIT-HAMIRPUR)
 - [Brett Connolly](https://github.com/HaulinOats)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
