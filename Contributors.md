@@ -366,6 +366,7 @@
 - Daniel Cerqueira
 - Gabriel Antal
 - N.M.
+- [Peter Ime](https://github.com/PeroHub)
 - Koua Thao
 - [Savio Magalhaes Fernandes] (https://github.com/Oivasmf)
 - [Kaliappan Yadav] (https://github.com/kaliappan01)
