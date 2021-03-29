@@ -1,6 +1,7 @@
 # Contributors
 
 - [Parvesh Barak](https://github.com/parveshbarak)
+- [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
