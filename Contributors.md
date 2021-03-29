@@ -4963,6 +4963,7 @@
 - [Nikolas Haug](https://github.com/nikolas-haug)
 - [Manish Kumar](https://github.com/manishprivet)
 - [Joseph Kwadjo Ampadu](https://github.com/daduam)
+- [Deon Jordaan](https://github.com/DeonJordaan)
 - [Gaurav Sharma](https://github.com/Leovaldez42)
 - [Tullia Glaeser](https://github.com/tamglaeser)
 - [danbart909](https://github.com/danbart909)
