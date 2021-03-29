@@ -28,6 +28,7 @@
 - [Alda Marrone](https://github.com/Aldina87)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
+- [Manu Sunil](https://github.com/manushyaaa)
 - [JJ Yin](https://github.com/jjjjjyin)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
 - [Peter Yang](https://github.com/jkabc123)
