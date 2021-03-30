@@ -11,6 +11,7 @@
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
 - [Arya Bhosale](https://github.com/AryaArunB)
+- [Ketan Gupta](https://github.com/Mad4Code)
 - [Zhi King](https://github.com/zyj1022)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Veeresh Soni](https://github.com/veeresh745)
