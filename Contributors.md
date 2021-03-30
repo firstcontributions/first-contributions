@@ -8003,4 +8003,5 @@
 - [Jason Shi](https://github.com/JasonShi31545Personal)
 - [Evan Timmons](https://github.com/timmonse)
 - [Bintang Pradana Erlangga Putra](https://github.com/bpradana)
+- [Daniel Tran](https://github.com/polyomi)
 - [Kenji Ohtaki](https://github.com/keng-oh)
