@@ -146,6 +146,7 @@
 - [Anonymous Rookie](https://github.com/n-atom)
 - [Kacper Kochanski](https://github.com/kacper1134)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
+- [avalool]
 - [Parth Nanda](https://github.com/parthn2)
 - Matías Thiele
 - Avinash Nair (https://github.com/avinair108)
