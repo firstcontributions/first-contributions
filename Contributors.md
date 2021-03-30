@@ -12,6 +12,7 @@
 - [Tim McVinish](https://github.com/T-McVee)
 - [Arya Bhosale](https://github.com/AryaArunB)
 - [Zhi King](https://github.com/zyj1022)
+- [Segev Shoval](https://github.com/segevitsky)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
 - [Dagon Lee](https://github.com/dagonlee)
