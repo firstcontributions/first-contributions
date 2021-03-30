@@ -100,6 +100,7 @@
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
 - qhuy4119
 - [Jakob Johnson] (https://github.com/jakobJohnsonJS)
+- [Harika Duyu] (https://github.com/harikaduyu)
 - Torda Ladomérszky
 - Isaiah Whitfield
 - [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
