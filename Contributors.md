@@ -396,7 +396,7 @@
 - Anh Huynh
 - [Jonathan Bleibdrey](https://github.com/jonbleibdrey)
 - [Mythreya Hardur](https://github.com/hmMythreya)
-- [Vindika Dissanayake][https://github.com/dvindika]
+- [Vindika Dissanayake](https://github.com/dvindika)
 - Lakshan
 - [barcern] (https://github.com/barcern)
 - Sumit Rana
@@ -2269,7 +2269,7 @@
 - [Cindy Cai](https://github.com/cindymxcai)
 - [Sonakshi Gupta](https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
-- [Prasanna Kumar][https://github.com/prasannakr]
+- [Prasanna Kumar](https://github.com/prasannakr)
 - [Jon Mooney](https://github.com/jonamooney)
 - [Hyongguk Hong](https://github.com/hyongguk)
 - [Vidhu Verma](https://github.com/vidhuu)
@@ -3349,7 +3349,7 @@
 - [Devanshi Jain]
 - [Divyansh Raina](https://github.com/QuantumBoy-729)
 - [sagar aggarwal](https://github.com/sagarr70)
-- [Disco Dewani][party rock]
+- [Disco Dewani]
 - [mohashii](https://github.com/mohashii)
 - [jarvis3799]
 - Kelli Boulware
@@ -4298,7 +4298,7 @@
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
 - [ch sai monish](https://github.com/ch-monish/)
 - [undefined-None](https://github.com/undefined-None)
-- [Darshan][https://github.com/darshan-003]
+- [Darshan](https://github.com/darshan-003)
 - [Bryan Guillen](https://github.com/bryg217/)
 - [Shakhzod Narzullaev](https://github.com/jokecoder)
 - [Prateek Garg](https://github.com/avyuktakalki)
@@ -5436,8 +5436,8 @@
 - [ozoneburger](https://github.com/ozoneburger)
 - [Shreyans Poddar](https://github.com/shreyanspoddar)
 - [Purvesh Gandhi](https://github.com/purvesh261)
-- [EmpalGentong][https://github.com/empalgentong]
-- [Eduardo Laquintana][https://github.com/eduardolaquintana]
+- [EmpalGentong](https://github.com/empalgentong)
+- [Eduardo Laquintana](https://github.com/eduardolaquintana)
 - [Fatih Avcı](https://github.com/rinqtmith)
 - [dkgian](https://github.com/dkgian)
 - aslam khan
@@ -8458,7 +8458,7 @@
 - [Tatiana Tarnovskaya](https://github.com/ttarnov)
 - Chaitra Rai
 - [Kaustubh Chaudhari](https://github.com/kc611)
-- [Brian Wolff](https://github.com/bdwolff)]
+- [Brian Wolff](https://github.com/bdwolff)
 - [MesubenJeemusu](https://github.com/mesubenjeemusu)
 - [Corvus93](https://github.com/Corvus93)
 - [Toni Tester](My_first_contribution)
