@@ -9,6 +9,7 @@
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
+- [Harper Moon]
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
