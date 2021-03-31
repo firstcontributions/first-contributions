@@ -191,6 +191,7 @@
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
+- [Karl Gustafsson](https://github.com/knopp10000)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Myrza Turlybek]
 - [Nabin Dangi]
