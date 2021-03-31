@@ -2260,7 +2260,7 @@
 - Vikas Kumar
 - Mahiransh Sharma
 - nehal gupta
-- [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
+- [Franklyn Rodriguez](https://github.com/franklynr92)
 - [Shivam Sahu](https://github.com/shivamsahu4u)
 - [Luisa Bez](https://github.com/lb930)
 - [ManuMcfly\$](https://github.com/ManuMcfly6)
@@ -4473,12 +4473,12 @@
 - Sachin Jethanandani
 - [Travis Sauer](https://github.com/aUsefulMethod)
 - [Soumik Dhar](https://github.com/ninjaonganja)
-- [Crystal Ramirez](www.github.com/cat9563)(call me cat))
+- [Crystal Ramirez](www.github.com/cat9563)
 - [Sourik Dutta](https://github.com/its-a-me-coder)
 - [Om Khandwala](https://github.com/om-khandwala)
 - [Ankur Ramanuj](https://github.com/ankurramanuj0202)
 - [Vishakha Tomar](https://github.com/vish1306)
-- [Evgen was here!](https://github.com/evgen-evgen)(Lukashenko go away!!!)
+- [Evgen was here!](https://github.com/evgen-evgen)
 - [Suhana Roshan](https://github.com/suhanar)
 - [Mithra Desinguraj](https://github.com/mithrads)
 - [Shitiz Bansal](https://github.com/shitizbansal)
