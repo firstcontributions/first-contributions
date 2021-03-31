@@ -410,6 +410,7 @@
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
 - [Shreenanda](https://github.com/shreenanda-8)
+- [Yunosuke Nishimura](https://github.com/younosuke-n)
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - [Sai Srivatsa](https://github.com/Sai81)
 - [Vishal Sharma](https://github.com/VishalSharma2000)
