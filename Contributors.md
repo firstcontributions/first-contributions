@@ -10565,3 +10565,4 @@ Marica Marian
 - [Yysoim](https://github.com/yysoim)
 - [Aldilas](https://github.com/aldeetropolis)
 - [Alexandre Merched](https://github.com/artismyname)
+  [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
