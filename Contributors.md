@@ -2525,6 +2525,7 @@
 - [Parikshit Ghosh](https://github.com/parikshitghosh3)
 - [Justine Ma](https://github.com/invisible-cloud)
 - [Winny Hu](https://github.com/huhuining)
+- [Martin Lopez](https://github.com/SirNoob97)
 - [Conor Crowley](https://github.com/ConorCrowley)
 - [Arushi Agarwal](https://github.com/arushiagar)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
