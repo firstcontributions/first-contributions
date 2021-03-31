@@ -9620,6 +9620,7 @@
 - [Yogi Sarumaha](https://github.com/sarumaha)
 - [Daniel Tran](https://github.com/polyomi)
 - [Jackson Fernando](https://github.com/jacksonfernando)
+- [Bart](https://github.com/DevoBart)
 - [Charles Walsh](https://github.com/CharlesWalsh)
 - [Christopher Diaz](https://github.com/cldiaz06)
 - [Alexander Cai](https://github.com/piguyinthesky)
