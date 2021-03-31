@@ -7,6 +7,7 @@
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
 - [polin-x](https://github.com/polin-x)
+- [It's Your Joy](https://github.com/shuvam09)
   [yssvr](https://github.com/YSSVR)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
