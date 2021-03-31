@@ -472,7 +472,8 @@
 - Hawa Sylla
 - Sejal Khedekar
 - Abhiuday
-- Emre Atilgan -[Abhinay Yadav](https://github.com/abhinayy0)
+- Emre Atilgan
+- [Abhinay Yadav](https://github.com/abhinayy0)
 - Lee Shyu
 - Erika Lee
 - Dhruv Kalathia
@@ -2329,7 +2330,7 @@
 - [Juan Grajales](https://github.com/juansongrajales)
 - [Akshatha K Poojary](https://github.com/AkshathaKPoojary)
 - [Steven Joseph](https://github.com/stevenjos27)
--[Jayesh Kugsiya](https://github.com/jkugsiya)
+- [Jayesh Kugsiya](https://github.com/jkugsiya)
 - [Arumugaprakash T](https://github.com/phoenix1898)
 - [Courtney Buratto](https://github.com/cocoitali)
 - [Neha Gupta](https://github.com/nehagupta253)
@@ -2795,7 +2796,8 @@
 - [Nishant Singh](https://github.com/Nishantsingh9412)
 - [SomethingsMore](https://github.com/SomethingsMore)
 - [Omar Alvarado](https://github.com/Omar0218)
-- [Nikiya Simpson](https://github.com/nikiyasimpson) -[Taktuk Taktuk](https://github.com/taktukt01)
+- [Nikiya Simpson](https://github.com/nikiyasimpson)
+- [Taktuk Taktuk](https://github.com/taktukt01)
 - [Abhishek Ahirrao](https://github.com/colmeabhi)
 - [Pankhudi Bhonsle](https://github.com/PankhudiB)
 - [The Old Traveller](https://github.com/TheOldTravellerNetwork)
