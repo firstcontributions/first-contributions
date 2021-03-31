@@ -1,16 +1,21 @@
 # Contributors
 
+- [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
+	[hmdz](https://github.com/hmdz105)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
+- [Harper Moon]
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
+- [Ruben A. Ramirez](https://github.com/RubesWorld)
 - [Arya Bhosale](https://github.com/AryaArunB)
+- [Kritarth Mehra] (https://github.com/badboyguss)
 - [Ketan Gupta](https://github.com/Mad4Code)
 - [Zhi King](https://github.com/zyj1022)
 - [Segev Shoval](https://github.com/segevitsky)
@@ -61,6 +66,7 @@
 - [Vejay Drepaul](https://github.com/VejayDrepaul)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
+- [Harper Moon] 
 - [Vivek Thakur] (https://github.com/vivek6219)
 - [Hugo Ku] (https://github.com/hugoksp)
 - [appllo] (https://github.com/applloP)
@@ -107,6 +113,7 @@
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
 - [Shaoqing Qi] (https://https://github.com/RshStone)
+- [Eric Santos] (https://github.com/eric-santos)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Ravindra Pratap Singh Bhati](https://github.com/Ravindra29)
@@ -186,6 +193,7 @@
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Myrza Turlybek]
 - [Nabin Dangi]
+- [Gleyson Melo] (https://github.com/gleysonmelo)
 - [wantao666] (https://github.com/wantao666)
 - [Vinil Rathod](https://github.com/vinilRathod)
 - [John Zhao] (https://github.com/jellllly420)  
@@ -402,6 +410,7 @@
 - [Mahmudul Hasan](https://github.com/mhasansoft)
 - [Ameya Andhare](https://github.com/ameya2812)
 - [Shreenanda](https://github.com/shreenanda-8)
+- [Yunosuke Nishimura](https://github.com/younosuke-n)
 - [Vesna Vucinic](https://github.com/VesnaVucinic)
 - [Sai Srivatsa](https://github.com/Sai81)
 - [Vishal Sharma](https://github.com/VishalSharma2000)
@@ -411,6 +420,7 @@
 - [Bryden McLeod](https://github.com/brydenm)
 - [B McLeod](https://github.com/brydenm)
 - Nikhil Kommuri
+- Niki Boura
 - Duc HG Le
 - Spencer Hoggart #2
 - Light Yagami
@@ -3133,6 +3143,7 @@
 - [Arpit](https://github.com/arkreactor-1729)
 - [Abhishek jha](https://github.com/abhi-469)
 - [Saksham Gupta](https://github.com/isakshamgupta)
+- [Danny Poit](https://github.com/dannypoit)
 - [Laukik Verma](https://github.com/Laukik-11)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Caroline Mendez](https://github.com/CaroMen)
@@ -10533,6 +10544,7 @@ Marica Marian
 - [SinKy](https://github.com/SinKy-Yan)
 - [Tim Tsai](https://github.com/tim08094495757)
 - [79-k] (https://github.com/79-k)
+- [IB-Git] (https://github.com/IB-Git)
 - [gdcodes](https://github.com/gd-codes)
 - [Gaffar Kasumu](https://github.com/gaffy94)
 - [Sirisha] (https://github.com/Sirisha-embedded)
@@ -10541,4 +10553,5 @@ Marica Marian
 - [NtZw](https://github.com/ntzw)
 - [Punit Choudhary](https://github.com/Punit-Choudhary)
 - [Sun Yu](https://github.com/sunyuu)
+- [Xiang Li](https://github.com/lixiangbetter)
 - [Aulia V. Afif](https://github.com/auliavafif)
