@@ -1,7 +1,7 @@
 # Contributors
 
 - [Vasco Ramos] (https://github.com/RamosCSV/)
-- [Parvesh Barak](https://github.com/parveshbarak)
+- [Vikas Gupta](https://github.com/dev-vikasgupta) - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 	[hmdz](https://github.com/hmdz105)
