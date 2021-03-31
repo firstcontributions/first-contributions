@@ -8,6 +8,7 @@
 	[hmdz](https://github.com/hmdz105)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
+- [Corey Thuro](https://github.com/CoreyThuro)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Harper Moon]
