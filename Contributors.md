@@ -1676,7 +1676,6 @@
 - [Shawn Maybush](https://github.com/shawn-maybush)
 - [Haritha Mohan](https://github.com/harithamohan1)
 - [Stephen Morgan](https://github.com/rebelopsio)
-- [Aman](https://github.com)
 - [Harshavardhan I](https://github.com/harshavardhan-i)
 - [Uchechukwu Okereke](https://github.com/ThePfarrer)
 - [Markus Schneider](https://github.com/plexxdigital)
@@ -1700,7 +1699,7 @@
 - [Ronald Edwards II](https://github.com/rjedwards105)
 - [Rahul Keshervani](https://github.com/RAHUL-KESHERVANI)
 - [Spencer Lim](https://github.com/slimsprojects)
-- [Aman](https://github.com)
+- Aman
 - [Abhishek](https://github.com/a-1043161)
 - [Muhi-Dean Othman](https://github.com/mdothman)
 - Mohamed Mehdi Nouira
