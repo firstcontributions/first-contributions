@@ -10554,4 +10554,5 @@ Marica Marian
 - [Punit Choudhary](https://github.com/Punit-Choudhary)
 - [Sun Yu](https://github.com/sunyuu)
 - [Xiang Li](https://github.com/lixiangbetter)
+- [Yysoim](https://github.com/yysoim)
 - [Aulia V. Afif](https://github.com/auliavafif)
