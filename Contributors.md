@@ -3138,6 +3138,7 @@
 - [Arpit](https://github.com/arkreactor-1729)
 - [Abhishek jha](https://github.com/abhi-469)
 - [Saksham Gupta](https://github.com/isakshamgupta)
+- [Danny Poit](https://github.com/dannypoit)
 - [Laukik Verma](https://github.com/Laukik-11)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Caroline Mendez](https://github.com/CaroMen)
