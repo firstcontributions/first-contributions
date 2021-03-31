@@ -2157,7 +2157,7 @@
 - [phys101](https://github.com/phys101)
 - [Abraham Paul Tornegyen](https://github.com/ZeusMadeIt)
 - [Utsav Phunyal](https://github.com/uphunyal)
-- Jessica Lang(https://github.com/ljessicc) -[why]
+- [Jessica Lang](https://github.com/ljessicc)
 - [George Flores](https://github.com/lu-gflores)
 - [Ayotunde Okunubi Oluwatise](https://github.com/royaleagle-dev)
 - [Bhupen Basumatary](https://github.com/bbhupen)
