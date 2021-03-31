@@ -420,6 +420,7 @@
 - [Bryden McLeod](https://github.com/brydenm)
 - [B McLeod](https://github.com/brydenm)
 - Nikhil Kommuri
+- Niki Boura
 - Duc HG Le
 - Spencer Hoggart #2
 - Light Yagami
