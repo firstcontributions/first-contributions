@@ -444,7 +444,7 @@
 - [Vijay Kumar](https://github.com/vkchang39)
 - [Kshitij Nath](https://github.com/kshitij-18)
 - Jona Stevenson
-- [Max Marra[(https://github.com/max64q)
+- [Max Marra](https://github.com/max64q)
 - [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
 - [Alfredo Varela](https://github.com/fikandata)
 - [Frank Schmidtner](https://github.com/littlelordy)
@@ -2985,7 +2985,7 @@
 - Dhruvik Patel
 - [Neel Thakker](https://github.com/neel-thakker)
 - Zaidan Pratama
-- \_Kiire
+- Kiire
 - [Vishnu Vardhan Reddy Thokala](https://github.com/VishnuThokala)
 - Vikrant Arora
 - Ragavi Murali
@@ -4278,7 +4278,7 @@
 - [Vaibhav Sahni](https://github.com/vaibhavsahni009)
 - [Roberto Castelli](https://github.com/RobertoCastelli)
 - [Victor Paz](https://github.com/vkcp)
-- [David Fraser <-- is cool](https://github.com/DavidMatthewFraser) >
+- [David Fraser is cool](https://github.com/DavidMatthewFraser)
 - [Sky Truong](https://github.com/sky-truong)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
@@ -10143,7 +10143,7 @@
 - [Peter G.](https://github.com/syspentarc)
 - [Trinnawat Charoenpradubsilp](https://github.com/trinnawat)
 - [Gaikanomer9](https://github.com/Gaikanomer9)
-- {Kamal C.} (https://github.com/kamalchah)
+- [Kamal C.](https://github.com/kamalchah)
 - [AnanditaRian19](https://github.com/AnanditaRian19)
 - [Prakash Aryan](https://github.com/prakash-aryan)
 - [Esteban Montelongo](https://github.com/EstebanMontelongo)
@@ -10440,7 +10440,7 @@
 - [Johannes Schenk](https://github.com/Jobo0o)
 - [Ravi Gupta](https://github.com/ravi9607)
 - [Sahil Shrivastava](https://github.com/sahil6993)
-- [Sumit Kumar}(https://github.com/Shadowpii)
+- [Sumit Kumar](https://github.com/Shadowpii)
 - [Dillon O'Connor](https://github.com/dillonoconnor)
 - [kyle] (https://github.com/rexgamer945)
 - [James Ekirigwe](https://github.com/jaocekeo)
