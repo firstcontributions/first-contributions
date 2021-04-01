@@ -17,6 +17,7 @@ Roneal Denila
 - [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Harper Moon]
 - [Marie Creel](https://github.com/ncreel)
+- [Tasha Danner](https://github.com/tashadanner)
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
