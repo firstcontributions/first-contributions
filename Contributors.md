@@ -1284,6 +1284,7 @@ Roneal Denila
 - [Cole Potter](https://github.com/PokkeFe)
 - [Franciszek Pindel](https://github.com/FranciszekPin)
 - jang
+- oaklodge
 - [Ezekiel Ogunniwa](https://github.com/Eminentzeal)
 - [Keisuke Tanaka](https://github.com/tanakkei)
 - [Omar Morales Ortega](https://github.com/OmarMorales71)
