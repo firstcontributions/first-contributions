@@ -75,6 +75,7 @@
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
 - [Harper Moon] 
+- [Jeff Turgeon] (https://github.com/jturgeon79
 - [Vivek Thakur] (https://github.com/vivek6219)
 - [Hugo Ku] (https://github.com/hugoksp)
 - [appllo] (https://github.com/applloP)
