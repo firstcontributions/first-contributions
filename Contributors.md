@@ -5263,6 +5263,7 @@ Jairo Martinez
 - [Su Willu](https://github.com/SuWillu)
 - [Joseph Call](https://github.com/coejall)
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
+- [Patrick Brockway] (https://github.com/crypticzero88)
 - [Anastasia Mendoza](https://github.com/anascnm)
 - [Chira](https://github.com/chiralevy)
 - [Kuntal GHosh](https://github.com/kuntal-ghosh)
