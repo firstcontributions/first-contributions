@@ -4,7 +4,7 @@
   Roneal Denila
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
-- [Vasco Ramos](https://github.com/RamosCSV/)
+- [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
@@ -12,11 +12,11 @@
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Corey Thuro](https://github.com/CoreyThuro)
-- [Anubhav Ranjan](https://github.com/Anubhav7298)
-- [Stefan Kleinhans](https://github.com/Stefan043)
-- [Sugam Jaiswal](https://github.com/jaissugam)
+- [Anubhav Ranjan] (https://github.com/Anubhav7298)
+- [Stefan Kleinhans] (https://github.com/Stefan043)
+- [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Harper Moon]
-- [Amanuel Odicho](https://github.com/odicho)
+- [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
 - [Ruben A. Ramirez](https://github.com/RubesWorld)
