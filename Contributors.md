@@ -84,6 +84,7 @@
 - [Xxgzbd](https://github.com/zhongmz)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
+- Elias Tokola
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
 - [Anthony Tesoriero](https://github.com/anttesoriero)
 - [Adriel Andrade] (https://github.com/adrielhpa)
