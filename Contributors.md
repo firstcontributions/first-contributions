@@ -5833,6 +5833,9 @@ Jairo Martinez
 - alti12
 - wBlanck
 - Kailash
+Changes not staged for commit:
+  (use"git add<file>..." to update what will be commited)
+  (use "git checkout -- <file>..." to discard changes in wor)
 - [Mark Kulube](https://github.com/markkulube)
 - Malachi Ivey
 - [Karim Kohel](https://github.com/karimkohel)
