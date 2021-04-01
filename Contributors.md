@@ -12,6 +12,7 @@
 - [Corey Thuro](https://github.com/CoreyThuro)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
+- [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Harper Moon]
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
