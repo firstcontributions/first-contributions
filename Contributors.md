@@ -91,6 +91,7 @@
 - [Luke EJH] (https://github.com/luke-ejh)
 - Woo Hyuk Chang
 - Lauren Hatfield
+- Srijan Singh
 - Anshuman Singh
 - [Roshan Kumar] (https://github.com/roshan1895)
 - Hamish James
