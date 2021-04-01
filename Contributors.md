@@ -151,6 +151,7 @@
 - [avalool]
 - [Parth Nanda](https://github.com/parthn2)
 - Matías Thiele
+- Srijan Singh
 - Avinash Nair (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
 - [Matic Šuc](https://github.com/maticsuc)
@@ -214,6 +215,7 @@
 - [Alec Campbell](https://github.com/fu4303)
 - [tonchan1216](https://github.com/tonchan1216)
 - [Kyle Lambert](https://github.com/kylelambert001)
+- 
 - [Mohmed Ishak](https://github.com/ishakmohmed)
   [Prasoon Jain](https://github.com/prasoonjain4422)
 - [Jessie Belle] (https://github.com/jessiebelle)
