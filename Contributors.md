@@ -6975,6 +6975,7 @@
 - [Nate deBoer](https://github.com/CrazyMuppets)
 - [Giacomo Tumini](https://github.com/jacktumi)
 - [K Munton](https://github.com/Panda4817)
+- [Omar Sarour](https://github.com/LeviaThanSr)
 - [Se7enSquared](https://github.com/Se7enSquared)
 - [Lastminute](https://github.com/lstmnt)
 - [joebobdave](https://github.com/joebobdave)
