@@ -29,6 +29,7 @@ Roneal Denila
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
 - [Dagon Lee](https://github.com/dagonlee)
+- [Athanasiadis Thanasis](https://github.com/thanasisath31)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Shreyas Poojari](https://github.com/ShreyasP7/first-contributions.git)
 - [LeoWootsi](https://github.com/LeoWootsi)
