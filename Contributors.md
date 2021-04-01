@@ -353,6 +353,7 @@ Roneal Denila
 - Sahil Gupta (https://github.com/sahilgupta912)
 - Saurabh Shetty
 - [majkimge]
+- [Selyana Siko Fany] (https://github.com/SelyanaSF)
 - [Shayla Luong](https://github.com/nluong1021)
 - [EXPedro](https://github.com/EXPedro)
 - [leovct](https://github.com/leovct/)
