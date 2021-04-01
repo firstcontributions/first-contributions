@@ -51,6 +51,7 @@
 - [Ronit Gupta](https://github.com/ronitgupta)
 - [Silambarasan Sethuraman](https://github.com/simbuatgit)
 - [Jhanvi Lamba](https://github.com/Jlamba2108)
+- [Sanyog Changmai](https://github.com/sanyogchangmai)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Jonathan Ta](https://github.com/jhta2000)
 - [Joan Njuguna](https://github.com/joancodes)
