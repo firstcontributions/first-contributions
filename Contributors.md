@@ -8998,6 +8998,7 @@ Jairo Martinez
 - [Rolv Apneseth](https://github.com/Rolv-Apneseth)
 - [Oriol Canades](https://github.com/ocanades)
 - [Captone Habiyaremye](https://github.com/Liopun)
+- [Charles Spencer Blancas] (https://github.com/Charles-Spencer-Blancas)
 - [Belch](https://github.com/gutchaman)
 - Syed Zubeen Qadry
 - [Jared Grimes](https://github.com/devjared1)
