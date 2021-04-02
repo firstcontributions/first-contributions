@@ -10608,3 +10608,4 @@ Marica Marian
 - [NotManyIdeasDev](https://github.com/NotManyIdeasDev)
 - [Ramy1951](https://github.com/Ramy1951)
 - [VladPetryshyn](https://github.com/VladPetryshyn)
+- [Lakshya Manan Jaiswa](https://github.com/manan2277)
