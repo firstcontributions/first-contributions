@@ -166,6 +166,7 @@ Roneal Denila
 - [Daniel Schjetne](https://github.com/danielschjetne/)
 - [Kevin Dormer](https://github.com/krdormer)
 - [Anagha Mardavi Pandey](https://github.com/JkAnagha)
+- [Maria Read](https://github.com/mreadv)
 - [Aman Garg](https://github.com/rubal2508)
 - [Kedar Pathade](https://github.com/kbp12)
 - [raavann](https://github.com/raavann)
