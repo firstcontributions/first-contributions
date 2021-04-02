@@ -27,6 +27,7 @@ Roneal Denila
 - [Arya Bhosale](https://github.com/AryaArunB)
 - [Kritarth Mehra] (https://github.com/badboyguss)
 - [Ketan Gupta](https://github.com/Mad4Code)
+- [Juan Lamilla](https://github.com/JuanesLamilla)
 - [abc_new_test]
 - [Zhi King](https://github.com/zyj1022)
 - [Nicole Siggins] (https://github.com/nicolelaine)
