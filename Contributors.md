@@ -1403,6 +1403,7 @@ Roneal Denila
 - [Bartechnika](https://github.com/Bartechnika)
 - [Telmo Duarte](https://github.com/Matcheryt)
 - [swang]
+- [Aryan Prasad](https://github.com/AryanPrasad21)
 - [bribri21bribri](https://github.com/bribri21bribri)
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
