@@ -1747,6 +1747,7 @@ Roneal Denila
 - [Ashish Burnwal](https://github.com/ashish1816)
 - [Steve Lambert](https://github.com/CherryBlueStudio)
 - [Shane O'Moore](https://github.com/shaneiadt)
+- [Saiprasad Kale](https://github.com/Saiprasad16)
 - [Mohammad Reza Goudarzi](https://github.com/mr-gdrz)
 - [Vibhuti Kathuria](https://github.com/vibhutikathuria)
 - [Hope Philip](https://github.com/frozenchicken)
