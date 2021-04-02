@@ -68,6 +68,7 @@ Roneal Denila
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
+- [Tobias Larysdch](https://github.com/tlary)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Sreeja Nallapati] (https://github.com/nallapatisreeja)
 - [Sudha Kotni] (https://github.com/sudhakotni-git)
