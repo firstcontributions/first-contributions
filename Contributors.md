@@ -169,6 +169,7 @@ Roneal Denila
 - [Taruna Agrawal](https://github.com/ts1702612)
 - [Sahaj Mistry] (https://github.com/i-sahajmistry)
 - [Ajeet Kumar](https://github.com/AjeetChaurasia934)
+- [Krithick](https://github.com/Krith-10)
 - [Kundan kumar gupta](https://github.com/kundan108)
 - [Nadia_Scott](https://github.com/nadiascott)
 - [Chandan Tiwari](https://github.com/19-chandantiwari)
