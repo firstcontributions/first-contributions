@@ -2,6 +2,7 @@
 
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 Roneal Denila
+- [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Vasco Ramos] (https://github.com/RamosCSV/)
