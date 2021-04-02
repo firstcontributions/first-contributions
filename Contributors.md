@@ -3514,6 +3514,7 @@ Jairo Martinez
 - [Isa Faulifa](https://github.com/isafaulifa)
 - [Archit Khanna](https://github.com/architectual)
 - [Seymour James](https://github.com/sanjay1510)
+- [Wabbit-Season](https://github.com/Wabbit-Season/)
 - [Pragati Alur](https://github.com/PragatiAlur)
 - [Onkar Sharma](https://github.com/KSHAMIN)
 - [Prajakta Mane](https://github.com/maneprajakta)
