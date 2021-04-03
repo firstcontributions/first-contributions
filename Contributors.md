@@ -2,7 +2,7 @@
 
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
-Roneal Denila
+- Roneal Denila
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
@@ -46,6 +46,7 @@ Roneal Denila
 - [Brett Connolly](https://github.com/HaulinOats)
 - [Alok Gupta](https://github.com/gupta-alok)
 - [Neka Blair](https://github.com/istoga)
+- [Daffa Akram] (https://github.com/undisputedgoose)
 - [polin-x](https://github.com/polin-x) 
 - [SummerisleSongs](https://github.com/SummerisleSongs)
   [yssvr](https://github.com/YSSVR)
