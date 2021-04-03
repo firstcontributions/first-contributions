@@ -10622,4 +10622,4 @@ Marica Marian
 - [VladPetryshyn](https://github.com/VladPetryshyn)
 - [Lakshya Manan Jaiswa](https://github.com/manan2277)
 - [Mom0aut](https://github.com/Mom0aut)
-- [Thomas](https://github.com/tomm3hgunn)
+- [Thomas N](https://github.com/tomm3hgunn)
