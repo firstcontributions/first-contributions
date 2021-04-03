@@ -5108,6 +5108,7 @@ Jairo Martinez
 - Eiseid
 - [James Morgan](https://github.com/MorganJay)
 - hariprasath
+- [Jack Lawton](https://github.com/TatersTot)
 - jacob
 - [Jesus Arnau Villar](https://github.com/jarnawer)
 - [Anish Ghimire](https://github.com/anishghimire603)
