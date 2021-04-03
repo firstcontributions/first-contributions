@@ -765,7 +765,6 @@ Rachit Tiwari
 - [Deanna Thompson](https://github.com/deannathompson)
 - [Stephanie Stevens](https://github.com/lekaceleb)
 - [Saurabh kumar](https://github.com/LuGO0)
-- [Rishabh Nanawati] (https://github.com/nrishabh)
 - [Brian Walter](https://github.com/bigbwalter)
 - [Allen Colston](https://github.com/colstona1024)
 - [Brandon Nguyen](https://github.com/branch331)
