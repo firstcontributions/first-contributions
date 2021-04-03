@@ -5,6 +5,7 @@
 Roneal Denila
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
+- [Shridhar Kamat](https://github.com/Shridhar-dev/)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Parvesh Barak](https://github.com/parveshbarak)
