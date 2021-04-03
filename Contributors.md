@@ -10,7 +10,8 @@
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
-	[hmdz](https://github.com/hmdz105)
+-	[hmdz](https://github.com/hmdz105)
+- [Brunda B R]
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Corey Thuro](https://github.com/CoreyThuro)
