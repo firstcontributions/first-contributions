@@ -588,6 +588,7 @@ Roneal Denila
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
+- [Mariam B] (https://github.com/mariamb81)
 - [Teddy Portal](https://github.com/vungocson998)
 - Something Something
 - Zach Kaufman(https://github.com/zchkfmn)
