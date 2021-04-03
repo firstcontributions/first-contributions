@@ -6460,6 +6460,7 @@ Jairo Martinez
 - [TheCoolCrab](https://github.com/thecoolcrab)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
+- [Jose Enrico Maxino](https://github.com/Jokomaxino)
 - [Brindou Junior](https://github.com/225junior)
 - [Drew Ferrell](https://github.com/drew-ferrell)
 - [Basil Fawlty](https://github.com/malyszm)
