@@ -2,6 +2,7 @@
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Eren]
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
