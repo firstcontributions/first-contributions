@@ -34,6 +34,7 @@
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
 - [Nicole Siggins] (https://github.com/nicolelaine)
+- [Manab Kumar Biswas](https://github.com/Manab784)
 - [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Veeresh Soni](https://github.com/veeresh745)
