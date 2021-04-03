@@ -33,6 +33,7 @@
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
 - [Nicole Siggins] (https://github.com/nicolelaine)
+- [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
