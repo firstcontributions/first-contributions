@@ -12,6 +12,8 @@
 - [Ansh Kashyap](https://github.com/anshrk)
 -	[hmdz](https://github.com/hmdz105)
 - [Brunda B R]
+- [Aqib Ahmed](https://github.com/aqib-a99)
+- [Ashish Bhatt](https://github.com/ashofphoenix)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Corey Thuro](https://github.com/CoreyThuro)
@@ -31,9 +33,11 @@
 - [Ketan Gupta](https://github.com/Mad4Code)
 - [Juan Lamilla](https://github.com/JuanesLamilla)
 - [abc_new_test]
+- [Daman Arora](https://github.com/Damans227/)
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
 - [Nicole Siggins] (https://github.com/nicolelaine)
+- [Manab Kumar Biswas](https://github.com/Manab784)
 - [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Veeresh Soni](https://github.com/veeresh745)
@@ -5106,6 +5110,7 @@ Jairo Martinez
 - Eiseid
 - [James Morgan](https://github.com/MorganJay)
 - hariprasath
+- [Jack Lawton](https://github.com/TatersTot)
 - jacob
 - [Jesus Arnau Villar](https://github.com/jarnawer)
 - [Anish Ghimire](https://github.com/anishghimire603)
@@ -7909,6 +7914,7 @@ Jairo Martinez
 - [Scott Jette](https://github.com/armhandstudios)
 - [fengtan zhang](https://github.com/Geek-Zft)
 - [Ankesh Sharma](https://github.com/anim007sharma)
+- [anoipm] (https://github.com/anoipm)
 - [donovanope](https://github.com/donovanope)
 - [Tam N](https://github.com/softwaredevtam)
 - [Jongwan Kim](https://github.com/mireu-san/)
@@ -10619,3 +10625,5 @@ Marica Marian
 - [VladPetryshyn](https://github.com/VladPetryshyn)
 - [Lakshya Manan Jaiswa](https://github.com/manan2277)
 - [Nirjas Jakilim](https://github.com/nirzak)
+- [Mom0aut](https://github.com/Mom0aut)
+- [tomm3hgunn](https://github.com/tomm3hgunn)
