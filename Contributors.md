@@ -12,6 +12,7 @@
 - [Ansh Kashyap](https://github.com/anshrk)
 -	[hmdz](https://github.com/hmdz105)
 - [Brunda B R]
+- [Aqib Ahmed](https://github.com/aqib-a99)
 - [Ashish Bhatt](https://github.com/ashofphoenix)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
