@@ -14,7 +14,7 @@
 - [Brunda B R]
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [Ashish Bhatt](https://github.com/ashofphoenix)
-- [Frederick Williams](https://github.com/Fredz1)
+- [Anish]
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Corey Thuro](https://github.com/CoreyThuro)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
