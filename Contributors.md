@@ -18,6 +18,7 @@
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Corey Thuro](https://github.com/CoreyThuro)
+- [Mohammed Mushahid Qureshi](https://github.com/mushahidq)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Sugam Jaiswal] (https://github.com/jaissugam)
