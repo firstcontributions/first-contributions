@@ -148,6 +148,7 @@
 - [Shaoqing Qi] (https://https://github.com/RshStone)
 - [Eric Santos] (https://github.com/eric-santos)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
+- [Matthew Eskolin](https://github.com/MatthewEskolin)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Ravindra Pratap Singh Bhati](https://github.com/Ravindra29)
 - [Mohit Sadhwani](https://github.com/m-ohit-s)
