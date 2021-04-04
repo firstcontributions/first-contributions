@@ -2635,6 +2635,7 @@
 - [Paula Zubiri](https://github.com/viragz158)
 - [Virag Zaveri](https://github.com/priyamandal-21)
 - _rnomals_
+- [Masdoua Manil](https://github.com/spanow)
 - Guy Geller
 - [Dustin Tran](https://github.com/dennodin)
 - [Firman Hadi](https://github.com/eternalsec)
