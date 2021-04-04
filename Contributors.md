@@ -10632,4 +10632,5 @@ Marica Marian
 - [Mom0aut](https://github.com/Mom0aut)
 - [tomm3hgunn](https://github.com/tomm3hgunn)
 - [HarshKumarSingh](https://github.com/HarshKumarSingh07)
+- [Guillaume Jobst](https://github.com/cgtoolbox)
 - [Masoud Bolhassani](https://github.com/msoodb)
