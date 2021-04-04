@@ -2922,7 +2922,8 @@
 - Lizard
 - Aditi Debnath
 - Manasi Saiba
-- [Liziane Felix](ttps://gihthub.com/lizianefelix)
+- [Liziane Felix](https://gihthub.com/lizianefelix)
+- [Saad Bin Akhlaq](https://github.com/saadbinakhlaq)
 - [Anurag Mishra](https://github.com/i-anuragmishra)
 - [Ritesh Kumar](https://github.com/Ritesh055)
 - [Shruthi K](https://github.com/shkundap)
