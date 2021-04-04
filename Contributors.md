@@ -1,7 +1,8 @@
 # Contributors
 
 - [Ravindu Miyuranga](https://github.com/ravindugm)
-Roneal Denila
+- [Kim Seon Woo](https://github.com/seonwoo960000)
+- Roneal Denila
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
@@ -9,7 +10,10 @@ Roneal Denila
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
-	[hmdz](https://github.com/hmdz105)
+-	[hmdz](https://github.com/hmdz105)
+- [Brunda B R]
+- [Aqib Ahmed](https://github.com/aqib-a99)
+- [Ashish Bhatt](https://github.com/ashofphoenix)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Corey Thuro](https://github.com/CoreyThuro)
@@ -29,9 +33,12 @@ Roneal Denila
 - [Ketan Gupta](https://github.com/Mad4Code)
 - [Juan Lamilla](https://github.com/JuanesLamilla)
 - [abc_new_test]
+- [Daman Arora](https://github.com/Damans227/)
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
 - [Nicole Siggins] (https://github.com/nicolelaine)
+- [Manab Kumar Biswas](https://github.com/Manab784)
+- [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
@@ -45,6 +52,7 @@ Roneal Denila
 - [Brett Connolly](https://github.com/HaulinOats)
 - [Alok Gupta](https://github.com/gupta-alok)
 - [Neka Blair](https://github.com/istoga)
+- [Daffa Akram] (https://github.com/undisputedgoose)
 - [polin-x](https://github.com/polin-x) 
 - [SummerisleSongs](https://github.com/SummerisleSongs)
   [yssvr](https://github.com/YSSVR)
@@ -5102,6 +5110,7 @@ Jairo Martinez
 - Eiseid
 - [James Morgan](https://github.com/MorganJay)
 - hariprasath
+- [Jack Lawton](https://github.com/TatersTot)
 - jacob
 - [Jesus Arnau Villar](https://github.com/jarnawer)
 - [Anish Ghimire](https://github.com/anishghimire603)
@@ -6459,6 +6468,7 @@ Jairo Martinez
 - [TheCoolCrab](https://github.com/thecoolcrab)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
+- [Jose Enrico Maxino](https://github.com/Jokomaxino)
 - [Brindou Junior](https://github.com/225junior)
 - [Drew Ferrell](https://github.com/drew-ferrell)
 - [Basil Fawlty](https://github.com/malyszm)
@@ -7904,6 +7914,7 @@ Jairo Martinez
 - [Scott Jette](https://github.com/armhandstudios)
 - [fengtan zhang](https://github.com/Geek-Zft)
 - [Ankesh Sharma](https://github.com/anim007sharma)
+- [anoipm] (https://github.com/anoipm)
 - [donovanope](https://github.com/donovanope)
 - [Tam N](https://github.com/softwaredevtam)
 - [Jongwan Kim](https://github.com/mireu-san/)
@@ -8919,6 +8930,7 @@ Jairo Martinez
 - [JenEeKay](https://github.com/jennyek2019)
 - [Valerio Trinca](https://github.com/ValerioTrinca)
 - [Ephraim Atta-Duncan](https://github.com/dephraiim)
+- [Zheng Zhou](https://github.com/BevisChou)
 - [songhee](https://github.com/songhee23)
 - [gusanchedev](https://github.com/gustavosanchezgalarza)
 - [Jilvan Cândido](https://github.com/jilvanx)
@@ -10612,4 +10624,6 @@ Marica Marian
 - [Ramy1951](https://github.com/Ramy1951)
 - [VladPetryshyn](https://github.com/VladPetryshyn)
 - [Lakshya Manan Jaiswa](https://github.com/manan2277)
+- [Mom0aut](https://github.com/Mom0aut)
+- [tomm3hgunn](https://github.com/tomm3hgunn)
 - [Tommy Alhamra](https://github.com/imotD)
