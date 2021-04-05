@@ -201,6 +201,7 @@
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [avalool]
 - [Parth Nanda](https://github.com/parthn2)
+- Tiga
 - Matías Thiele
 - Avinash Nair (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
