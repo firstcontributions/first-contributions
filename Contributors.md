@@ -9027,6 +9027,7 @@ Jairo Martinez
 - [Huiming Qiu](htps://github.com/qiuhuiming)
 - [James Z](https://github.com/jameszimo)
 - [ducatimaus](https://github.com/ducatimaus/)
+- [Franco Nicolás Castagna] (https://github.com/francastagna)
 - bsdl
 - [Matthias Rodrigues de Franca](https://github.com/Matt-1985)
 - [Nanobrainiac](https://https://github.com/Nanobrainiac)
