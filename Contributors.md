@@ -9388,6 +9388,7 @@ Jairo Martinez
 - [Joanna Zhou](https://github.com/JoannaZhou)
 - [Zhenxi Zhou](https://github.com/20joseph10)
 - Suzette
+- [Fishy-x] (https://github.com/Fishy-x)
 - [Mayuri Kambli](https://github.com/mayurikambli)
 - [Monika Sivamoorthy](https://github.com/monikas-github)
 - [Mohd Avesh Farooqui](http://github.com/avesh07a)
