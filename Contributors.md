@@ -19,6 +19,7 @@
 - [Ashish Bhatt](https://github.com/ashofphoenix)
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
+- [Ijaz Azam](https://github.com/ijazazam18)
 - [Corey Thuro](https://github.com/CoreyThuro)
 - [Mohammed Mushahid Qureshi](https://github.com/mushahidq)
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
