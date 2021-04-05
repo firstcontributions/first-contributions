@@ -80,6 +80,7 @@
 - [Sanyog Changmai](https://github.com/sanyogchangmai)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Jonathan Ta](https://github.com/jhta2000)
+- [Georgios_Zervakis]
 - [Joan Njuguna](https://github.com/joancodes)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
