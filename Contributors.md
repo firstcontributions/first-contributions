@@ -14,6 +14,7 @@
 - [Ansh Kashyap](https://github.com/anshrk)
 -	[hmdz](https://github.com/hmdz105)
 - [Brunda B R]
+- [Seth Lewandowski](https://github.com/sethlewandowski)
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [William Zhang Sam](https://github.com/willzs03)
 - [Ashish Bhatt](https://github.com/ashofphoenix)
