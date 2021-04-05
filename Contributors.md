@@ -46,6 +46,7 @@
 - [Manab Kumar Biswas](https://github.com/Manab784)
 - [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
+- [Novice Programmer] (https://github.com/sharad95-://github.com/sharad95-k)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
 - [Dagon Lee](https://github.com/dagonlee)
