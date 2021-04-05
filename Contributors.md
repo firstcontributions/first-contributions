@@ -1018,6 +1018,7 @@
 - [Kim Jørgensen](https://github.com/kim4848)
 - [blinCharter](https://github.com/blinCharter)
 - [Demigod98](https://github.com/Demigod98)
+- [Nikolas Moatsos](https://github.com/NikolasMoatsos)
 - [NaufilShaikh](https://github.com/naufil09)
 - [Emmy Steven](https://github.com/emmysteven)
 - [Paul Fraser](https://github.com/paulson100)
