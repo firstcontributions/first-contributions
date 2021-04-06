@@ -884,6 +884,7 @@
 - [Andres Cruz](https://github.com/andrscyv)
 - [Tharindu Weerasinghe](https://github.com/tharindu-nw)
 - [Cristi](https://github.com/cristicretu)
+- [Brittany Servent](https://github.com/bservent)
 - [Lauric](https://github.com/Lauric-h)
 - [Dominik](https://github.com/chassit19)
 - [Chaitanya](https://github.com/bmchaitu)
