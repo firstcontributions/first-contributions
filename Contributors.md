@@ -6516,6 +6516,7 @@ Jairo Martinez
 - [Ouissal BM]
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Todsapon Boontap](https://github.com/at-syot)
+- Biero B G
 - [Cassandra Lee](https://github.com/yieng)
 - [Ralf Jay Jovenal](https://github.com/ralfjayjovenal-cp)
 - [Elvis Salaton](https://github.com/Salaton)
