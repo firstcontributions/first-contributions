@@ -16,6 +16,7 @@
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 -	[hmdz](https://github.com/hmdz105)
+- [Wallison Silva](https://github.com/WallisonHenrique)
 - [Brunda B R]
 - [Seth Lewandowski](https://github.com/sethlewandowski)
 - [Aqib Ahmed](https://github.com/aqib-a99)
