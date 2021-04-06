@@ -10663,3 +10663,4 @@ Marica Marian
 - [Dmitriy Bulygin](https://github.com/demetriusstorm)
 - [lemon37564](https://github.com/lemon37564)
 - [jiaoyaxing](https://github.com/jiaoyaxing)
+- [Nickolay Paramonov](https://github.com/doing-art)
