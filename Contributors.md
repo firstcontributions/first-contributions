@@ -6327,6 +6327,7 @@ Jairo Martinez
 - [Fernando Sousa](https://github.com/fsousadev)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Zubair Idris Aweda](https://github.com/Zubs)
+- Michael McCanne
 - [Yogesh Singh](https://github.com/yogeshsingh01)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Marta Egorova](https://github.com/MartaEgorova)
