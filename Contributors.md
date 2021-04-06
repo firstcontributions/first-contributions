@@ -3739,6 +3739,7 @@ Jairo Martinez
 - [Anubhav Rawat](https://github.com/anurawat01)
 - [Kurtis McAlpine](https://github.com/kmcalpine)
 - [Christopher Gardner](https://github.com/Chris-G-Dev/)
+- [Jordan Brasko](https://github.com/jbrasko2)
 - [TrickyJ](https://github.com/trickyj)
 - [Harish Venkataraman](https://github.com/harish-vnkt)
 - [Oldrich Krupauer](https://github.com/ItsOKayCZ)
