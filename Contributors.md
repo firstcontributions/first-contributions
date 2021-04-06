@@ -1,6 +1,7 @@
 # Contributors
 
 - [SamTienz](https://github.com/SamTienz)
+- [Anish M](https://github.com/Anish-m-code)
 - [Marco Costa](https://github.com/marcocosta1618)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
