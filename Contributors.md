@@ -156,6 +156,7 @@
 - [Harika Duyu](https://github.com/harikaduyu)
 - Torda Ladomérszky
 - Isaiah Whitfield
+- Aditi Oak
 - [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
