@@ -16,6 +16,7 @@
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 -	[hmdz](https://github.com/hmdz105)
+- [Raghav Mehrotra](https://github.com/raghav-max)
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Brunda B R]
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
