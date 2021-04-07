@@ -157,6 +157,7 @@
 - Torda Ladomérszky
 - Isaiah Whitfield
 - Aditi Oak
+- [Nevin Mathews Kuruvilla] (https://github.com/NevinTroy)
 - [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
