@@ -5,7 +5,7 @@
 
 # First Contributions
 
-| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
+| <img alt="Visual Studio Code" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzarkom.net%2Ftutorials%2Fimages%2Fvscode-win%2F000-vscode-logo.png&f=1&nofb=1" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
