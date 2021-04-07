@@ -30,7 +30,6 @@
 - [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Harper Moon]
 - [Marie Creel](https://github.com/ncreel)
-- [Swaraj Chavan](https://github.com/swarajc)
 - [Tasha Danner](https://github.com/tashadanner)
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
@@ -10656,3 +10655,4 @@ sam_namiranian
 - [Masoud Bolhassani](https://github.com/msoodb)
 - [Dmitriy Bulygin](https://github.com/demetriusstorm)
 - [lemon37564](https://github.com/lemon37564)
+- [Swaraj Chavan](https://github.com/swarajc)
