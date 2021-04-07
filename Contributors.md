@@ -89,6 +89,7 @@
 - [Jonathan Ta](https://github.com/jhta2000)
 - [Georgios_Zervakis]
 - [Joan Njuguna](https://github.com/joancodes)
+- [Harsh Vaswani] (https://github.com/harshva89)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
