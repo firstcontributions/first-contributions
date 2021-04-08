@@ -224,6 +224,7 @@
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [avalool]
 - [Parth Nanda](https://github.com/parthn2)
+- [Dvir Abecassis](https://github.com/Dvir-A)
 - Tiga
 - Matías Thiele
 - Avinash Nair (https://github.com/avinair108)
