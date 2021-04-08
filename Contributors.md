@@ -1,6 +1,7 @@
 # Contributors
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
+- [Ahmad Abutalib](https://github.com/abutalibsh)
 - [SamTienz](https://github.com/SamTienz)
 - [Anish M](https://github.com/Anish-m-code)
 - [Marco Costa](https://github.com/marcocosta1618)
