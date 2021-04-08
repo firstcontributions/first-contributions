@@ -50,6 +50,7 @@
 - [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
 - [Arjun R](https://github.com/arjun-prs)
 - [Muhammad Azhar](https://github.com/git-azhar)
+- [Sanjay PS](https://github.com/Dabohemianstarlord)
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [Rupak K V](https://github.com/Rupak1432)
 - [Apratim Ranjan Chakrabarty](https://github.com/Hackhard)
