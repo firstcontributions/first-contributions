@@ -8,6 +8,7 @@
 - [Gourish Biradar](https://github.com/gourishbiradar)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
+- [Kayleen Carido] (https://github.com/kvcarido)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - Roneal Denila
 - Victor Mendez (https://github.com/VMMF)
