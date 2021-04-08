@@ -731,6 +731,7 @@
 - [Ezylryb77](https://github.com/Ezylryb77)
 - mavidevbcn
 - Kyle Mo
+- Adil Jamal
 - Ian Ambos
 - [Beverneus](https://github.com/beverneus)
 - Meenal
