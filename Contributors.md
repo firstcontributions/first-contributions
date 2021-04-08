@@ -1874,6 +1874,7 @@
 - [Yash Hiran](https://github.com/YashHiran)
 - [Waqas Ahmed](https://github.com/iswaqasahmed)
 - [Oumaima Makhlouk](https://github.com/oumaima12)
+- [Eric Smith](https://github.com/malckier)
 - [João Farias](https://github.com/JoaoGFarias)
 - [Pavel Melnikov](https://github.com/Pavelhack)
 - [Vinay Kumar](https://github.com/vinayleokumar)
