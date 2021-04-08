@@ -310,6 +310,7 @@
 - [Hao Zhang](https://github.com/Derrick-Zhang)
 - [Gabriele C.](https://github.com/gchem1se)
 - [Sumin Lee](https://github.com/nimuseel)
+- [Sergiy Ladnych](https://github.com/sergiyladnych)
 - [Arthur Remy](https://github.com/remy29)
 - [Gavin Callander](https://github.com/GavinCallander)
 - [Destiny Aigbe](https://github.com/Destiny-01)
