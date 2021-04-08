@@ -1,6 +1,7 @@
 # Contributors
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
+- [NilsInfo](www.github.com/NilsInfo)
 - [SamTienz](https://github.com/SamTienz)
 - [Anish M](https://github.com/Anish-m-code)
 - [Marco Costa](https://github.com/marcocosta1618)
@@ -782,7 +783,6 @@
 - [Daniel Desmond](https://github.com/dezy-x2)
 - [Daniel Jacobs](https://github.com/dejacobs88)
 - [Tony Trieu](https://github.com/tonytrieu)
-
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
