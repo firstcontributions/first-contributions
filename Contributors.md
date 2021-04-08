@@ -35,6 +35,7 @@
 - [Harper Moon]
 - [Marie Creel](https://github.com/ncreel)
 - [Tasha Danner](https://github.com/tashadanner)
+- [Paul Royere] (https://github.com/paulroyere)
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
 - [Tim McVinish](https://github.com/T-McVee)
