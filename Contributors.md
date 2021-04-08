@@ -1,5 +1,5 @@
 # Contributors
-
+- [Bowie](https://github.com/Bowie-Heng)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [SamTienz](https://github.com/SamTienz)
 - [Anish M](https://github.com/Anish-m-code)
