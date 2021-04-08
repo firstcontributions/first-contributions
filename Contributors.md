@@ -36,7 +36,7 @@
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Harper Moon]
-- [Shelley] (https://github.com/SheldonnC)
+- [SheldonnC] (https://github.com/SheldonnC)
 - [Marie Creel](https://github.com/ncreel)
 - [Tasha Danner](https://github.com/tashadanner)
 - [Paul Royere] (https://github.com/paulroyere)
