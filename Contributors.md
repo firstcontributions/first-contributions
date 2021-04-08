@@ -4914,6 +4914,7 @@ Jairo Martinez
 - [Nehemias Muñoz](https://github.com/NMM-M)
 - [Murali Tandabany](https://github.com/MuraliTandabany)
 - Sherri Chuah :P
+- [Aaron Fontaine](https://github.com/AFontaine79)
 - [Shubham Singh](https://github.com/suubh)
 - [Kyle Vincent](https://github.com/kvincent21)
 - [Regine Heimers](https://github.com/rheimers)
