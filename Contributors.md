@@ -643,6 +643,7 @@
 - [Travis Joldersma](https://github.com/15JoldersmaT)
 - [Liz K](https://github.com/oakye)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
+- [Yazan Wolf] (https://github.com/Yazanwolf)
 - Abhirup Majumder (https://github.com/Abhirup70)
 - [Archit Gopal](https://github.com/Architrixs)
 - [Karthik](https://github.com/01101011karthik)
