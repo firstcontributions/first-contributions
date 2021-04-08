@@ -5451,6 +5451,7 @@ Jairo Martinez
 - Chris B.
 - [Chris Ramos](https://github.com/Cramos711)
 - Lumi-H
+- [SapphireSuicune](https://github.com/SapphireSuicune)
 - Rochisha
 - Kat P
 - Suzy D
