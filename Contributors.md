@@ -10699,3 +10699,4 @@ Marica Marian
 - [UncleMing](https://github.com/UncleMing6688)
 - [hello-jun](https://github.com/hello-jun)
 - [Rishin Rahim](https://github.com/rishinrahim)
+- [Dannan Vazquez](https://github.com/dannanvazquez)
