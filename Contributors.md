@@ -10711,4 +10711,5 @@ Marica Marian
 - [hello-jun](https://github.com/hello-jun)
 - [Rishin Rahim](https://github.com/rishinrahim)
 - [Chloe Blazey](https://github.com/chloeblazey)
+- [Marri Kargar](https://github.com/Marri-k)
 - [donglangjohn](https://github.com/donglangjohn)
