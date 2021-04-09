@@ -109,6 +109,7 @@
 - [Tobias Larysch](https://github.com/tlary)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Sreeja Nallapati] (https://github.com/nallapatisreeja)
+- [Martin Richer] (https://github.com/mricher1414)
 - [Sudha Kotni] (https://github.com/sudhakotni-git)
 - [Ehimare Okosun](https://github.com/ehimare369)
 - [Thomas Roe] (https://github.com/roetom22)
