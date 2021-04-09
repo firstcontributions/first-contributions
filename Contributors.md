@@ -3,6 +3,7 @@
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [SamTienz](https://github.com/SamTienz)
+- [Naveen K](https://github.com/Naveenmavoor)
 - [Anish M](https://github.com/Anish-m-code)
 - [Marco Costa](https://github.com/marcocosta1618)
 - [Gourish Biradar](https://github.com/gourishbiradar)
