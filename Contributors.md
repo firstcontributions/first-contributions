@@ -158,6 +158,7 @@
 -Dev Kumar(https://github.com/techydev)
 - [Heidi Ran] (https://github.com/HDR128)
 - SH Park
+- anatole9
 - [Luke EJH] (https://github.com/luke-ejh)
 - Woo Hyuk Chang
 - Lauren Hatfield
