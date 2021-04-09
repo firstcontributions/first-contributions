@@ -4756,6 +4756,7 @@ Jairo Martinez
 - [Matt West](https://github.com/MWest352)
 - raymen
 - [Lakshita Mohanty](https://github.com/Lakshita2002)
+- [Mancang Jin](https://github.com/manc-lx)
 - ms567
 - [Eric Piacentini](https://github.com/epiacentini)
 - [Yilin Xu](https://github.com/xyloid)
