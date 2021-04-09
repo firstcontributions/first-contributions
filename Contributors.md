@@ -652,6 +652,7 @@
 - [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
 - [Junaire Edris Buico](https://github.com/jun-edris)
+- [Bilaal Ukishima](https://github.com/bilaalukis)
 - [Kylie Cook](https://github.com/KylieNCook)
 - [Allison Ohslund](https://github.com/aohslund)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
