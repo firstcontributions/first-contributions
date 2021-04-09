@@ -3140,6 +3140,7 @@
 - [Akshat Tyagi]
 - [Meekha E Saji](https://github.com/meekhasaji)
 - [Della Lin](https://github.com/della222)
+- [Thomas Collignon](https://github.com/ThomasCollignon)
 - [Akshay Chopade](https://github.com/akshay399)
 - [Ask Jag](https://github.com/AskJag07)
 - [Sam Jackhole](https://github.com/samjackhole)
