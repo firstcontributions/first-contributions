@@ -11,6 +11,7 @@
 - [Kayleen Carido] (https://github.com/kvcarido)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - Roneal Denila
+- [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
