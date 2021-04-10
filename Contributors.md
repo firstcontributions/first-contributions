@@ -10710,6 +10710,7 @@ Marica Marian
 - [Masoud Bolhassani](https://github.com/msoodb)
 - [Dmitriy Bulygin](https://github.com/demetriusstorm)
 - [lemon37564](https://github.com/lemon37564)
+- [Kenny Tran](https://github.com/kennyctran)
 - [jiaoyaxing](https://github.com/jiaoyaxing)
 - [Nickolay Paramonov](https://github.com/doing-art)
 - [Adriel Randall](https://github.com/a-r97)
@@ -10723,3 +10724,4 @@ Marica Marian
 - [donglangjohn](https://github.com/donglangjohn)
 - [jovicon](https://github.com/jovicon)
 - [eeemt](https://github.com/eeemt)
+
