@@ -87,7 +87,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-አሁን የተሾመውን ማከማቻ ወደ ማሽንዎ ያጣምሩ ፡፡ ወደ የእርስዎ GitHub ሂሳብ ይሂዱ ፣ ሹካ የሆነውን ማከማቻ ይክፈቱ ፣ የኮድ አዝራሩን ጠቅ ያድርጉ እና ከዚያ
+አሁን የተሾመውን ማከማቻ ወደ ማሽንዎ ያጣምሩ ፡፡ ወደ የእርስዎ በጊትሃብ ሂሳብ ይሂዱ ፣ ሹካ የሆነውን ማከማቻ ይክፈቱ ፣ የኮድ አዝራሩን ጠቅ ያድርጉ እና ከዚያ
 የሚለውን ጠቅ ያድርጉ _copy to clipboard_ icon.
 
 ተርሚናል ይክፈቱ እና የሚከተሉትን የጊት ትዕዛዝ ያሂዱ:
@@ -96,9 +96,9 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 git clone "url you just copied"
 ```
 
-where "url you just copied" (ያለ ጥቅሱ ምልክቶች) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+ይህ "url you just copied" (ያለ ጥቅሱ ምልክቶች) የዚህ ማከማቻ ዩ.አር.ኤል. (የዚህ ፕሮጀክት fork). ዩ.አር.ኤልን ለማግኘት ቀዳሚዎቹን ደረጃዎች ይመልከቱ.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ዩአርኤልን ወደ ቅንጥብ ሰሌዳ ይቅዱ" />
 
 For example:
 
@@ -106,53 +106,53 @@ For example:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` የእርስዎ በጊትሃብ የተጠቃሚ ስም ነው. እዚህ በጊትሃብ ላይ የመጀመሪያ መዋጮ ማከማቻ ይዘትን በኮምፒተርዎ ላይ እየገለበጡ ነው።
 
-## Create a branch
+## ቅርንጫፍ ይፍጠሩ
 
-Change to the repository directory on your computer (if you are not already there):
+በኮምፒተርዎ ላይ ወዳለው የማከማቻ ማውጫ ይለውጡ (እርስዎ እዚያ ከሌሉ):
 
 ```
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+አሁን ይህ ትእዛዝ በመጠቀም ቅርንጫፍ ይፍጠሩ `git checkout` :
 
 ```
 git checkout -b your-new-branch-name
 ```
 
-For example:
+ለምሳሌ:
 
 ```
 git checkout -b add-alonzo-church
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(የቅርንጫፉ ስም  _add_ የሚለው ቃሉ እንዲኖረው አያስፈልገውም,ግን የዚህ ቅርንጫፍ ዓላማ ስምዎን ወደ ዝርዝር ውስጥ ማከል ስለሆነ ማካተት ምክንያታዊ ነገር ነው.)
 
-## Make necessary changes and commit those changes
+## አስፈላጊ ለውጦችን ያድርጉ እና እነዚህን ለውጦች ያድርጉ
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+አሁን `Contributors.md` የሚለው ፋይል በጽሑፍ ኤዲቶ ውስጥ ክፈት, ስምህን ጨምርበት. በፋይሉ መጀመሪያ ወይም መጨረሻ ላይ አይጨምሩ። በመካከላቸው በየትኛውም ቦታ ያስቀምጡት. አሁን ፋይሉን ያስቀምጡ.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+ወደ ፕሮጀክቱ ማውጫ ከሄዱ እና ትዕዛዙን ካከናወኑ `git status`, ለውጦች እንዳሉ ታያለህ.
 
-Add those changes to the branch you just created using the `git add` command:
+እነዚያን ለውጦች ይህን ትዕዛዙን በመጠቀም አሁን በፈጠሩት ቅርንጫፍ ላይ ያክሉ `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+አሁን ይህን ትዕዛዙን በመጠቀም እነዚያን ለውጦች ያድርጉ `git commit`:
 
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
 
-replacing `<your-name>` with your name.
+ይህን `<your-name>` በስምህ መተካት ይችላሉ.
 
-## Push changes to GitHub
+## ለውጦቹን ወደ GitHub ይግፉ
 
 Push your changes using the command `git push`:
 

@@ -14,6 +14,7 @@
 - [Adrian Marquis] (https://github.com/schism578)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
+- [Kidus Tekeste](https://github.com/KidusMT)
 - Victor Mendez (https://github.com/VMMF)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
