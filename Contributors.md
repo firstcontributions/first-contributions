@@ -33,6 +33,7 @@
 - [George Peden](https://github.com/gpeden)
 - [Raghav Mehrotra](https://github.com/raghav-max)
 - [Wallison Silva](https://github.com/WallisonHenrique)
+- [Ane S]
 - [Brunda B R]
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Seth Lewandowski](https://github.com/sethlewandowski)
