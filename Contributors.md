@@ -2,6 +2,7 @@
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
+- [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [SamTienz](https://github.com/SamTienz)
 - [Naveen K](https://github.com/Naveenmavoor)
