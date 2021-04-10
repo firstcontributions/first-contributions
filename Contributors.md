@@ -13,6 +13,7 @@
 - Roneal Denila
 - Victor Mendez (https://github.com/VMMF)
 - [Shreshtha Gupta](https://github.com/shrey-101)
+- [Eztao](https://github.com/eztao)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Vasco Ramos] (https://github.com/RamosCSV/)
@@ -10711,4 +10712,3 @@ Marica Marian
 - [Rishin Rahim](https://github.com/rishinrahim)
 - [Chloe Blazey](https://github.com/chloeblazey)
 - [donglangjohn](https://github.com/donglangjohn)
-- [Eztao](https://github.com/eztao)
