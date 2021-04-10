@@ -1,11 +1,13 @@
 # Contributors
 
+- [Atharva-Joshi](https://github.com/atharva20-coder)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [SamTienz](https://github.com/SamTienz)
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Anish M](https://github.com/Anish-m-code)
 - [Marco Costa](https://github.com/marcocosta1618)
+- [bobbychilami](https://github.com/bobbychilami)
 - [Gourish Biradar](https://github.com/gourishbiradar)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
   -.[Joonmyung Jung] (https://github.com/joonmyung)
@@ -16,7 +18,7 @@
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
 - [Shreshtha Gupta](https://github.com/shrey-101)
-- [Atharva Joshi](https://github.com/atharva20-coder)
+- [Eztao](https://github.com/eztao)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Vasco Ramos] (https://github.com/RamosCSV/)
@@ -1724,6 +1726,7 @@
 - [Kevin Satti](https://github.com/Kevlar2222)
 - [Linda Chun](https://github.com/Linda-OC)
 - [Sarvesh Khandelwal](https://github.com/SARVESHKHANDELWAL/)
+- [Jean Marte](https://github.com/martecodes)
 - [Kosi Akporji](https://github.com/kosiazom)
 - [Jimoh basit](https://github.com/jimbex)
 - [Castic Jehin](https://github.com/jehincastic/)
