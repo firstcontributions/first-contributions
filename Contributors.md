@@ -1,6 +1,7 @@
 # Contributors
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
+- [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Ayush Kumar](https://github.com/ayush9304)
