@@ -68,34 +68,35 @@
 
 # 
 
-# First Contributions
+# የመጀመሪያ መዋጮዎች
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+ይህ ፕሮጀክት ጀማሪዎች የመጀመሪያ መዋጮ የሚያደርጉበትን መንገድ ቀለል ለማድረግ እና ለመምራት ያለመ ነው ፡፡ የመጀመሪያውን አስተዋፅዖ ለማድረግ የሚፈልጉ ከሆነ ከዚህ በታች ያሉትን ደረጃዎች ይከተሉ።
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### በማሽንዎ ላይ የጊት ከሌለዎት, [install it](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## ይህንን ማከማቻ ይከርክሙ
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+በዚህ ገጽ አናት ላይ ያለውን ሹካ አዝራር ላይ ጠቅ በማድረግ ይህንን ማከማቻ ይገንቡ ፡፡
+ይህ በመለያዎ ውስጥ የዚህ ማከማቻ ቅጅ ይፈጥራል።
 
-## Clone the repository
+## ማከማቻ መቅዳት ይችላሉ
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+አሁን የተሾመውን ማከማቻ ወደ ማሽንዎ ያጣምሩ ፡፡ ወደ የእርስዎ GitHub ሂሳብ ይሂዱ ፣ ሹካ የሆነውን ማከማቻ ይክፈቱ ፣ የኮድ አዝራሩን ጠቅ ያድርጉ እና ከዚያ
+የሚለውን ጠቅ ያድርጉ _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+ተርሚናል ይክፈቱ እና የሚከተሉትን የጊት ትዕዛዝ ያሂዱ:
 
 ```
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (ያለ ጥቅሱ ምልክቶች) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
