@@ -105,6 +105,7 @@
 - [JJ Yin](https://github.com/jjjjjyin)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
 - [Peter Yang](https://github.com/jkabc123)
+- [Parsa Mesgarha](https://github.com/pzrsa)
 - [Catherine Dambrain](https://github.com/Cdambrain)
 - [Tim Martin](https://github.com/TimMartin13)
 - [Yanchun Lai](https://github.com/ycl310)
