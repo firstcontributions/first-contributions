@@ -1413,6 +1413,7 @@
 - [Conanix](https://github.com/Conanix)
 - [ryu-take](https://github.com/ryu-take)
 - [Gauravsingh Sisodia](https://github.com/gauravsingh5)
+- [Zone-Infinity](https://github.com/Zone-Infinity)
 - saurav
 - Pranjal Srivastav
 - [ding-09](https://github.com/ding-09)
