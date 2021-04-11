@@ -10425,3 +10425,4 @@ https://github.com/franzk
 - [Xuup](https://github.com/xuup)
 - [Xavier](https://github.com/xuzewei)
 - [HorizonChaser](https://github.com/HorizonChaser)
+- [Diego Henrique] (https://github.com/diegohao)
