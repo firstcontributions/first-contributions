@@ -152,19 +152,19 @@ git commit -m "Add <your-name> to Contributors list"
 
 ይህን `<your-name>` በስምህ መተካት ይችላሉ.
 
-## ለውጦቹን ወደ GitHub ይግፉ
+## ለውጦቹን ወደ በጊትሃብ ይግፉ
 
-Push your changes using the command `git push`:
+ትዕዛዙን በመጠቀም ለውጦችዎን አድርገው `git push`:
 
 ```
 git push origin <add-your-branch-name>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+ይህን `<add-your-branch-name>` ቀደም ብለው በሠሩት ቅርንጫፍ ስም ይተኩ.
 
-## Submit your changes for review
+## ለውጦችዎን ለግምገማ ያስገቡ
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+በ GitHub ላይ ወደ ማከማቻዎ ከሄዱ,  `Compare & pull request` አንድ ቁልፍ ታያለህ. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -172,21 +172,21 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+በቅርቡ ሁሉንም ለውጦችዎን ወደዚህ ፕሮጀክት ዋና ቅርንጫፍ እቀላቅላለሁ. ለውጦቹ ከተቀላቀሉ በኋላ የማሳወቂያ ኢሜይል ይደርስዎታል.
 
-## Where to go from here?
+## ከዚህ ወዴት መሄድ?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+እንኳን ደስ አላችሁ! ደረጃውን standard _fork -> clone -> edit -> pull request_ የስራ ፍሰት አጠናቀዋል እንደ አበርካች ብዙ ጊዜ የሚያጋጥሙዎትን!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+ያበረከቱትን አስተዋጽኦ ያክብሩ እና በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያጋሩ [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-kpbyrmkk-JDkRtchcvRvQ0qK4iPmyvA).
+ማንኛውንም እገዛ ከፈለጉ ወይም ጥያቄ ካለዎት የእኛን የቀለለ ቡድን ሊቀላቀሉ ይችላሉ. [slack team ይቀላቀሉ](https://join.slack.com/t/firstcontributors/shared_invite/zt-kpbyrmkk-JDkRtchcvRvQ0qK4iPmyvA).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+አሁን ለሌሎች ፕሮጀክቶች አስተዋጽኦ በማድረግ እንጀምር. እርስዎ ሊጀምሯቸው ከሚችሏቸው ቀላል ጉዳዮች ጋር የፕሮጀክቶችን ዝርዝር አጠናቅረናል. ይህንን ይመልከቱ [በድር መተግበሪያ ውስጥ የፕሮጀክቶች ዝርዝር](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [ተጨማሪ ቁሳቁሶች](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## ሌሎች መሣሪያዎችን በመጠቀም ትምህርቶች
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
