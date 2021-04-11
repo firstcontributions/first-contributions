@@ -1,6 +1,6 @@
 # Contributors
 
--[Aman Verma](https://github.com/amnvrma)
+- [Aman Verma](https://github.com/amnvrma)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
