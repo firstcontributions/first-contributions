@@ -6282,6 +6282,7 @@ Jairo Martinez
 - [Vishal Yadav](https://github.com/Vishal1297)
 - [Ryan L.](https://github.com/ryanleong)
 - [Rayan F.](https://github.com/RF-90)
+- [Min C.](https://github.com/krnmin)
 - [Isaac Oldwood](https://github.com/IsaacOldwood)
 - [Abhimanyu Atri](https://github.com/AbhimanyuAtri)
 - [Neel Shah](https://github.com/ineelshah)
