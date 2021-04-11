@@ -1,6 +1,6 @@
 # Contributors
 
--[Aman Verma](https://github.com/amnvrma)
+- [Aman Verma](https://github.com/amnvrma)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
@@ -42,7 +42,7 @@
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [William Zhang Sam](https://github.com/willzs03)
 - [WIDJAJA Raymond](https://github.com/Raymondrz)
-- [Ashish Bhatt](https://github.com/ashofphoenix)
+- [Ashish Bhatt](https://github.com/ashofphoenix) 
 - [Frederick Williams](https://github.com/Fredz1)
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Rastko Sarcevic](https://github.com/BodilessSleeper)
