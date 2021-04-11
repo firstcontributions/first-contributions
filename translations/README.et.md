@@ -72,11 +72,11 @@
 
 ይህ ፕሮጀክት ጀማሪዎች የመጀመሪያ መዋጮ የሚያደርጉበትን መንገድ ቀለል ለማድረግ እና ለመምራት ያለመ ነው ፡፡ የመጀመሪያውን አስተዋፅዖ ለማድረግ የሚፈልጉ ከሆነ ከዚህ በታች ያሉትን ደረጃዎች ይከተሉ።
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_ካልተመቸዎት ይህ የትእዛዝ መስመር, [የ GUI መሣሪያዎችን በመጠቀም ትምህርቶች እዚህ አሉ.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### በማሽንዎ ላይ የጊት ከሌለዎት, [install it](https://help.github.com/articles/set-up-git/).
+#### በማሽንዎ ላይ የጊት ከሌለዎት, [ጫነው](https://help.github.com/articles/set-up-git/).
 
 ## ይህንን ማከማቻ ይከርክሙ
 
@@ -100,13 +100,13 @@ git clone "url you just copied"
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ዩአርኤልን ወደ ቅንጥብ ሰሌዳ ይቅዱ" />
 
-For example:
+ለምሳሌ:
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-where `this-is-you` የእርስዎ በጊትሃብ የተጠቃሚ ስም ነው. እዚህ በጊትሃብ ላይ የመጀመሪያ መዋጮ ማከማቻ ይዘትን በኮምፒተርዎ ላይ እየገለበጡ ነው።
+ይህ `this-is-you` የእርስዎ በጊትሃብ የተጠቃሚ ስም ነው. እዚህ በጊትሃብ ላይ የመጀመሪያ መዋጮ ማከማቻ ይዘትን በኮምፒተርዎ ላይ እየገለበጡ ነው።
 
 ## ቅርንጫፍ ይፍጠሩ
 
@@ -164,11 +164,11 @@ git push origin <add-your-branch-name>
 
 ## ለውጦችዎን ለግምገማ ያስገቡ
 
-በ GitHub ላይ ወደ ማከማቻዎ ከሄዱ,  `Compare & pull request` አንድ ቁልፍ ታያለህ. Click on that button.
+በ በጊትሃብ ላይ ወደ ማከማቻዎ ከሄዱ,  `Compare & pull request` አንድ ቁልፍ ታያለህ. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+አሁን የመሳብ ጥያቄውን ያስገቡ.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
@@ -188,6 +188,6 @@ Now submit the pull request.
 
 ## ሌሎች መሣሪያዎችን በመጠቀም ትምህርቶች
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
