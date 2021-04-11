@@ -19,6 +19,7 @@
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
+- [Chaitanya] (https://github.com/chaitu860)
 - [Srajan Seth](https://github.com/srajanseth84)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Eztao](https://github.com/eztao)
