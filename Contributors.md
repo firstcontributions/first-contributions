@@ -16,7 +16,7 @@
 - [Kayleen Carido] (https://github.com/kvcarido)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - [Adrian Marquis] (https://github.com/schism578)
-- Roneal Denila
+- [Vyom Kumar](https://github.com/vyomks5)
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
