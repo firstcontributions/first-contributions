@@ -116,6 +116,7 @@
 - [Sanyog Changmai](https://github.com/sanyogchangmai)
 - [Erasmo Jr.](https://github.com/redmasters)
 - [Jonathan Ta](https://github.com/jhta2000)
+- [Jenis J](https://github.com/Zeavz)
 - [Georgios_Zervakis]
 - [Joan Njuguna](https://github.com/joancodes)
 - [Harsh Vaswani] (https://github.com/harshva89)
