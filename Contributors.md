@@ -1,7 +1,6 @@
 # Contributors
 
 -[Aman Verma](https://github.com/amnvrma)
-
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 [Unmesh Padhye](https://github.com/UnmeshPadhye)
@@ -19,10 +18,10 @@
 - [bobbychilami](https://github.com/bobbychilami)
 - [Gourish Biradar](https://github.com/gourishbiradar)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
--.[Joonmyung Jung] (https://github.com/joonmyung)
-- [Kayleen Carido] (https://github.com/kvcarido)
+-.[Joonmyung Jung](https://github.com/joonmyung)
+- [Kayleen Carido](https://github.com/kvcarido)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
-- [Adrian Marquis] (https://github.com/schism578)
+- [Adrian Marquis](https://github.com/schism578)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
@@ -184,6 +183,7 @@
 - EternalBlu
 - Punit khandelwal
 -VidishaTindolia
+- YB
 -Dev Kumar(https://github.com/techydev)
 - [Heidi Ran] (https://github.com/HDR128)
 - SH Park
