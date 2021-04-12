@@ -10766,4 +10766,5 @@ Marica Marian
 - [Deenu Khan] (https://github.com/deenukhan)
 - [Marker04] (https://github.com/Marker04)
 - [guenthi] (https:/github.com/guenthi)
+- [Sam K](https://github.com/wahwic)
 - [Jenna Chestnut](https://github.com/jenna-chestnut)
