@@ -2170,6 +2170,7 @@
 - [KobeGit24](https://github.com/KobeGit24)
 - [yesabhishek](https://github.com/yesabhishek)
 - [Jatin Rao](https://github.com/jatin2003)
+- [turlife](https://github.com/turlife)
 - Tom Mulligan
 - [Sakshi Seth](https://github.com/sakshiseth)
 - [Norah Hoang](https://github.com/zuccamia)
