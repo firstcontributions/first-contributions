@@ -9,6 +9,7 @@
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
+- [Christian Rua](https://github.com/christianrua)
 - [Rui Xu](https://github.com/superXR)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [SamTienz](https://github.com/SamTienz)
