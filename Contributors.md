@@ -170,6 +170,7 @@
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - [Kevin Bouchaud] (https://github.com/Owainn)
 - [Prateek Pradhan](https://github.com/Prateek-2001)
+  [Dawum Nam](https://github.com/dawumnam)
 - John John
 - Prithvi
 - EternalBlu
