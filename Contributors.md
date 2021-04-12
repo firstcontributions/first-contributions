@@ -146,6 +146,7 @@
 - [Jeff Turgeon] (https://github.com/jturgeon79
 - [Vivek Thakur] (https://github.com/vivek6219)
 - [Hugo Ku] (https://github.com/hugoksp)
+- [Sridhar] (https://github.com/sridhar-5)
 - [appllo] (https://github.com/applloP)
 - [Joseph Burrows] (https://github.com/joseph-burrows)
 - [Bor Brudar] (https://github.com/borbrudar)
