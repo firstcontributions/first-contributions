@@ -10707,6 +10707,7 @@ Marica Marian
 - [KewinEvers96](https://github.com/KewinEvers96)
 - [Rayan Zyad](https://github.com/rayanzyad1605)
 - [Zilong Zhou](https://github.com/zzl200012)
+- [Sofia Zavala](https://github.com/s-zavala)
 - [Puya Goodarzi](https://github.com/PuyaGoodarzi)
 - [SinKy](https://github.com/SinKy-Yan)
 - [MonsieurLundi](https://github.com/MonsieurLundi)
@@ -10763,4 +10764,5 @@ Marica Marian
 - [Ahabdelhak](https://github.com/Ahabdelhak)
 - [Deenu Khan] (https://github.com/deenukhan)
 - [Marker04] (https://github.com/Marker04)
-- [guenthi] (https:/github.com/guenthi)- [Sofia Zavala](https://github.com/s-zavala)
+- [guenthi] (https:/github.com/guenthi)
+
