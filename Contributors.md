@@ -1,11 +1,13 @@
 # Contributors
 
 -[Aman Verma](https://github.com/amnvrma)
+
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
+- [Rui Xu](https://github.com/superXR)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [SamTienz](https://github.com/SamTienz)
 - [Naveen K](https://github.com/Naveenmavoor)
@@ -820,7 +822,6 @@
 - [Daniel Desmond](https://github.com/dezy-x2)
 - [Daniel Jacobs](https://github.com/dejacobs88)
 - [Tony Trieu](https://github.com/tonytrieu)
-
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
