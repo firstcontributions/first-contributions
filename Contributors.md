@@ -1108,6 +1108,7 @@
 - [Paul](https://github.com/pli5297)
 - [Nikos Ioannou](https://github.com/ioannou-nikos)
 - [Cheri Haggard](https://github.com/gonzocher)
+- [Adam Kw](https://github.com/adam-kw)
 - [ChaitanyaCodes](https://github.com/ChaitanyaCodes)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
