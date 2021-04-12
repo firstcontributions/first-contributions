@@ -277,6 +277,7 @@
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Shashank Sharma] (https://github.com/shanky251020)
 - [daky99] (https://github.com/darky99/)
+- Sriram S (https://github.com/suburban-daredevil)
 - [Jordan Mellor](https://github.com/jlm222)
 - [Shashank Bengaluru Srinivasa](https://github.com/sbengal2/)
 - [Will Firman] (https://github.com/willfir/)
