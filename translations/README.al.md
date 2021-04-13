@@ -104,8 +104,6 @@ Urime!  Ti sapo ke përfunduar procesin `fork -> clone -> edit -> PR` që do ta 
 
 Festo kontributin tënd dhe nda me shokët dhe ndjekësit duke shkuar te [linku](https://firstcontributions.github.io/#social-share).
 
-Ti mund të bashkohesh në ekipin tonë në Slack nëse të duhet ndihmë ose nëse ke ndonjë pyetje. [Bashkoju ekipit në Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
-
 Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar një listë projektesh me probleme të lehta tek të cilat mund të fillosh. Shiko [listën e projekteve](https://firstcontributions.github.io/#project-list).
 
 
