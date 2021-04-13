@@ -22,6 +22,7 @@
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kayleen Carido] (https://github.com/kvcarido)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
+- [Jon Ryan] (https://github.com/JayRyee)
 - [Adrian Marquis] (https://github.com/schism578)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
