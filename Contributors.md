@@ -4,7 +4,7 @@
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Lorenzo Evans](https://github.com/SpyroL7)
-[Unmesh Padhye](https://github.com/UnmeshPadhye)
+-[Unmesh Padhye](https://github.com/UnmeshPadhye)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Uzair Ali](https://github.com/uzair-ali10)
@@ -5108,6 +5108,7 @@ Jairo Martinez
 - Doraemi
 - Shruti Bansal
 - Manushree
+- [Ochieng Otieno](https://github.com/ochiengotieno304)
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
 - [Brendan Nugara](https://github.com/BrendanNug)
