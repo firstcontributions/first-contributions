@@ -4,10 +4,12 @@
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Lorenzo Evans](https://github.com/SpyroL7)
+-[Unmesh Padhye](https://github.com/UnmeshPadhye)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
+- [Christian Rua](https://github.com/christianrua)
 - [Rui Xu](https://github.com/superXR)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [SamTienz](https://github.com/SamTienz)
@@ -82,6 +84,7 @@
 - [keijop](https://github.com/keijop)
 - [Nicole Siggins] (https://github.com/nicolelaine)
 - [Manab Kumar Biswas](https://github.com/Manab784)
+- [Tony Bjorkman](https://github.com/tonybjorkman)
 - [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Novice Programmer] (https://github.com/sharad95-://github.com/sharad95-k)
@@ -98,6 +101,7 @@
 - [Brett Connolly](https://github.com/HaulinOats)
 - [Alok Gupta](https://github.com/gupta-alok)
 - [Neka Blair](https://github.com/istoga)
+-[Saugat Rajbhandari](https://github.com/saugatrajbhandari)
 - [Daffa Akram] (https://github.com/undisputedgoose)
 - [polin-x](https://github.com/polin-x) 
 - [SummerisleSongs](https://github.com/SummerisleSongs)
@@ -175,6 +179,7 @@
 - [Ethan Song] (https://github.com/ethansong3)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - [Kevin Bouchaud] (https://github.com/Owainn)
+- [Chang Wei] (https://github.com/ochowei)
 - [Prateek Pradhan](https://github.com/Prateek-2001)
   [Dawum Nam](https://github.com/dawumnam)
 - John John
@@ -213,6 +218,7 @@
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Ravindra Pratap Singh Bhati](https://github.com/Ravindra29)
 - [Mohit Sadhwani](https://github.com/m-ohit-s)
+- [Debopriya Dey](https://github.com/debopriyadey)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
 - [Jesse Wright] (https://github.com/inkslob)
@@ -295,6 +301,7 @@
 - [Karl Gustafsson](https://github.com/knopp10000)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 - [Myrza Turlybek]
+- [Shreya Srivastava]
 - [Nabin Dangi]
 - [Gleyson Melo] (https://github.com/gleysonmelo)
 - [wantao666] (https://github.com/wantao666)
@@ -5104,6 +5111,7 @@ Jairo Martinez
 - Doraemi
 - Shruti Bansal
 - Manushree
+- [Ochieng Otieno](https://github.com/ochiengotieno304)
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
 - [Brendan Nugara](https://github.com/BrendanNug)
@@ -5331,6 +5339,7 @@ Jairo Martinez
 - [Nigama Vykari](https://github.com/Nigama-oss)
 - [Jyotik Mayur](https://github.com/jyotikmayur7)
 - BVDS
+- [Benjamin Bauch](https://github.com/benjerminfranklin2020)
 - [Hicmade](http://github.com/Hicmade)
 - [Namraj Pudasaini](http://githubcom/Namrajp)
 - [Itamar Hoshmand](https://github.com/hoshmy)
@@ -10765,4 +10774,9 @@ Marica Marian
 - [Deenu Khan] (https://github.com/deenukhan)
 - [Marker04] (https://github.com/Marker04)
 - [guenthi] (https:/github.com/guenthi)
+- [Sam K](https://github.com/wahwic)
+- [Jenna Chestnut](https://github.com/jenna-chestnut)
+- [xiangyu](https://github.com/yuquan222)
+- [Honmj](https://github.com/Honmj)
+- [TorokDan]
 
