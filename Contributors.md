@@ -178,6 +178,7 @@
 - [Ethan Song] (https://github.com/ethansong3)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - [Kevin Bouchaud] (https://github.com/Owainn)
+- [Chang Wei] (https://github.com/ochowei)
 - [Prateek Pradhan](https://github.com/Prateek-2001)
   [Dawum Nam](https://github.com/dawumnam)
 - John John
