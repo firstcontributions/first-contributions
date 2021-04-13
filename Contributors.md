@@ -216,6 +216,7 @@
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Ravindra Pratap Singh Bhati](https://github.com/Ravindra29)
 - [Mohit Sadhwani](https://github.com/m-ohit-s)
+- [Debopriya Dey](https://github.com/debopriyadey)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
 - [Jesse Wright] (https://github.com/inkslob)
