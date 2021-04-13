@@ -34,4 +34,6 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 29. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 30. [Audit the Coursera course from Google](https://www.coursera.org/learn/introduction-git-github)
 31. [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+32. [Common Git Commands with Example](https://www.edureka.co/blog/git-commands-with-example/)
+33. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 Keep adding more links, that you find helpful.
