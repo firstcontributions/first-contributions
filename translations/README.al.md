@@ -7,7 +7,7 @@
 
 
 Është e vështirë. Është gjithmonë e vështirë hera e parë kur bën diçka. Sidomos kur bashkëpunon, të bësh gabime nuk është një ndjenjë e mirë. Ne duam ta thjeshtësojmë mënyrën se si kontribuesit e projekteve me burim të hapur mësojnë dhe kontribuojnë për herë të parë.
-Leximi i artikujve dhe shikimi i tutorialeve ndihmojnë, por ç'është më mirë se sa ta bësh këtë gjë në një vend praktike? Ky projekt synon të udhëzojë dhe të thjeshtësojë mënyrën se si fillestarët bëjnë kontributin e tyre të parë. Nëse dëshiron të bësh kontributin tënd të parë, ndiq hapat më poshtë.
+Leximi i artikujve dhe shikimi i tutorialeve ndihmojnë, por ç'është më mirë se sa ta bësh këtë gjë në një vend praktik? Ky projekt synon të udhëzojë dhe të thjeshtësojë mënyrën se si fillestarët bëjnë kontributin e tyre të parë. Nëse dëshiron të bësh kontributin tënd të parë, ndiq hapat më poshtë.
 
 #### *Nëse ende nuk ndjehesh rehat me linjën e komandave, [më poshtë ke tutoriale në lidhje me veglat e GUI-t]( #tutoriale-duke-përdorur-vegla-të-tjera)*
 
