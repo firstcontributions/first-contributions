@@ -1980,6 +1980,7 @@
 - Ingrid Marcal
 - Yedukrishna K
 - [Shubhra Jyoti](https://github.com/Shubhraaa)
+- [Joel Del Cueto](https://github.com/wayfaringjou)
 - [Lloyd Warren](https://github.com/law880)
 - Hyma Malladi
 - Nitin Lodha
