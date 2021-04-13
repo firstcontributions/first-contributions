@@ -9687,6 +9687,7 @@ Jairo Martinez
 - [Nijin Kovval](https://github.com/nijinkovval)
 - [Ines Fernandez](http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
+- [Bruno Barros](https://github.com/bobarros)
 - [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
 - [Maximillian Fish](https://github.com/maxfish711)✨
