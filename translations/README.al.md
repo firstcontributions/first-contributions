@@ -7,7 +7,7 @@
 
 Ky projekt synon t'i udhëzojë fillestarët në lidhje me kontributin e tyre të parë. Nëse jeni të interesuar, ndihni hapat më poshtë.
 
-#### *Nëse ende nuk ndjehesh rehat me linjën e komandave, [më poshtë ke tutoriale në lidhje me veglat e GUI-t]( #tutoriale-duke-përdorur-vegla-të-tjera)*
+#### *Nëse ende nuk ndjehesh rehat me linjën e komandave, [më poshtë ke tutoriale në lidhje me veglat e GUI-t]( #tutoriale-duke-përdorur-vegla-të-tjera).*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
