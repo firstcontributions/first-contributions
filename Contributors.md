@@ -1704,6 +1704,7 @@
 - [Avery Novick](https://github.com/averynov)
 - [Carlos Camacho](https://github.com/MrCharlss)
 - [David Mayevsky](https://github.com/dmayevsky)
+- [Karamveer Singh Sidhu](https://github.com/KaramveerSidhu)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
 - [Nika Korchok](https://github.com/nikaroxanne)
 - [Lavrentev Stanislav](https://github.com/hvoyka)
