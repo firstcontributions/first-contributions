@@ -285,6 +285,7 @@
   Hellen Namulinda
 - [adamantia](https://github.com/adamantiakoutsi)
 - [antonioii](https://github.com/antonioii)
+- [Vilmer Jonsson](https://github.com/VilmerJ)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
