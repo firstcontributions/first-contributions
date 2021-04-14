@@ -65,6 +65,7 @@
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Sugam Jaiswal] (https://github.com/jaissugam)
+- [Nial Dixon] (https://github.com/nialdixon8)
 - [Harper Moon]
 - [Ankit Kumar] (https://github.com/anktsverma)
 - [SheldonnC] (https://github.com/SheldonnC)
