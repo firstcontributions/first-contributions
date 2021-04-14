@@ -4,6 +4,7 @@
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Lorenzo Evans](https://github.com/SpyroL7)
+- [Abidine Talebna](https://github.com/Talebna)
 -[Unmesh Padhye](https://github.com/UnmeshPadhye)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
