@@ -10773,7 +10773,7 @@ Marica Marian
 - [eeemt](https://github.com/eeemt)
 - [kamil_marczak](https://github.com/kamil1marczak)
 - [sblip] (https://github.com/shaurya-blip)
-= [NimrodMendel] (https://github.com/NimrodMendel)
+- [NimrodMendel] (https://github.com/NimrodMendel)
 - [Aleksei Moskaljuk] (https://github.com/alekseiko97)
 - [dashenfu](https://github.com/JianHaoZhangHB)
 - [Jamiea2307](https://github.com/Jamiea2307)
@@ -10788,4 +10788,5 @@ Marica Marian
 - [TorokDan]
 - [mukherjeerajdeep](https://github.com/mukherjeerajdeep)
 - [ghasseneljday](https://github.com/ghasseneljday)
+- [Deepak Mehrotra](https://github.com/StealthX2k20)
 - [cuijindong](https://github.com/cuijindong)
