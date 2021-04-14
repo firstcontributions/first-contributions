@@ -22,6 +22,7 @@
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kayleen Carido] (https://github.com/kvcarido)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
+- [Jon Ryan] (https://github.com/JayRyee)
 - [Adrian Marquis] (https://github.com/schism578)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
@@ -32,6 +33,7 @@
 - [Eztao](https://github.com/eztao)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
+- [Kipland Melton](https://github.com/kipland-m)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
 - [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
@@ -96,6 +98,7 @@
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Shreyas Poojari](https://github.com/ShreyasP7/first-contributions.git)
+- [Rosy Priya Augutin](https://github.com/dev-augustin/first-contributions.git)
 - [LeoWootsi](https://github.com/LeoWootsi)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Brett Connolly](https://github.com/HaulinOats)
@@ -282,6 +285,7 @@
   Hellen Namulinda
 - [adamantia](https://github.com/adamantiakoutsi)
 - [antonioii](https://github.com/antonioii)
+- [Vilmer Jonsson](https://github.com/VilmerJ)
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
@@ -1703,6 +1707,7 @@
 - [Avery Novick](https://github.com/averynov)
 - [Carlos Camacho](https://github.com/MrCharlss)
 - [David Mayevsky](https://github.com/dmayevsky)
+- [Karamveer Singh Sidhu](https://github.com/KaramveerSidhu)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
 - [Nika Korchok](https://github.com/nikaroxanne)
 - [Lavrentev Stanislav](https://github.com/hvoyka)
@@ -1977,6 +1982,7 @@
 - Ingrid Marcal
 - Yedukrishna K
 - [Shubhra Jyoti](https://github.com/Shubhraaa)
+- [Joel Del Cueto](https://github.com/wayfaringjou)
 - [Lloyd Warren](https://github.com/law880)
 - Hyma Malladi
 - Nitin Lodha
@@ -4299,6 +4305,7 @@ Jairo Martinez
 - [asmallgod](https://github.com/asmallgod)
 - [Sammed98](https://github.com/Sammed98)
 - [Julie Pitman](https://github.com/jpitman1010)
+- [Tomas Rotbauer](https://github.com/tomasrotbauer)
 - [Neila Toofuny](https://github.com/ntoofuny)
 - [Megh Dedhia](https://github.com/m11dedhia)
 - [Anthony Chavez]()
@@ -9683,6 +9690,7 @@ Jairo Martinez
 - [Nijin Kovval](https://github.com/nijinkovval)
 - [Ines Fernandez](http://github.com/inesfb)
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
+- [Bruno Barros](https://github.com/bobarros)
 - [John Stigter](https://github.com/JohnStigter)
 - Charlie Wu
 - [Maximillian Fish](https://github.com/maxfish711)✨
@@ -10766,7 +10774,7 @@ Marica Marian
 - [eeemt](https://github.com/eeemt)
 - [kamil_marczak](https://github.com/kamil1marczak)
 - [sblip] (https://github.com/shaurya-blip)
-= [NimrodMendel] (https://github.com/NimrodMendel)
+- [NimrodMendel] (https://github.com/NimrodMendel)
 - [Aleksei Moskaljuk] (https://github.com/alekseiko97)
 - [dashenfu](https://github.com/JianHaoZhangHB)
 - [Jamiea2307](https://github.com/Jamiea2307)
@@ -10779,4 +10787,9 @@ Marica Marian
 - [xiangyu](https://github.com/yuquan222)
 - [Honmj](https://github.com/Honmj)
 - [TorokDan]
-
+- [mukherjeerajdeep](https://github.com/mukherjeerajdeep)
+- [ghasseneljday](https://github.com/ghasseneljday)
+- [Deepak Mehrotra](https://github.com/StealthX2k20)
+- [cuijindong](https://github.com/cuijindong)
+- [MubarokS](https://github.com/MubarokS)
+- [Kabir](https://github.com/ikabir21)
