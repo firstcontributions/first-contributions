@@ -6516,6 +6516,7 @@ Jairo Martinez
 - [Reynard Adha Ryanda](https://github.com/reynardryanda)
 - [Daniel Hackenberger](https://github.com/hcknbrgr)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
+- [Mr.IoC](https://github.com/mrioc)
 - [Mohammad Moustafa](https://github.com/mohammadmoustafa)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
