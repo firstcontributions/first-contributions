@@ -10739,7 +10739,7 @@ Marica Marian
 - [KewinEvers96](https://github.com/KewinEvers96)
 - [Rayan Zyad](https://github.com/rayanzyad1605)
 - [Zilong Zhou](https://github.com/zzl200012)
-- [Sofia Zavala](https://github.com/s-zavala)
+- [S. Zavala](https://github.com/s-zavala)
 - [Puya Goodarzi](https://github.com/PuyaGoodarzi)
 - [SinKy](https://github.com/SinKy-Yan)
 - [MonsieurLundi](https://github.com/MonsieurLundi)
