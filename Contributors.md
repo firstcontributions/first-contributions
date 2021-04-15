@@ -2703,6 +2703,7 @@
 - [Sakae Watanabe](https://github.com/meltdownlv)
 - [Antonio Martinez](https://github.com/antonioMartinez30)
 - [Diogo Ortiz Machado](https://github.com/diogo-machado)
+- [Mohamed Kamal](https://github.com/mohamedkamal20)
 - [Goutham R](https://github.com/Druffl3)
 - [Sondre Wang](https://github.com/SondreWang)
 - [Junyi Chen](https://github.com/junyi-chen0801)
