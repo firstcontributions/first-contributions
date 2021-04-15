@@ -51,6 +51,7 @@
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Ane S]
 - [Brunda B R]
+- [Alok Paidalwar]
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
 - [Seth Lewandowski](https://github.com/sethlewandowski)
