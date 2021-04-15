@@ -1,7 +1,7 @@
 # Contributors
 
--[Aman Verma](https://github.com/amnvrma)
-
+- [Aman Verma](https://github.com/amnvrma)
+- [Aldana Rodriguez](https://github.com/AldanaBRZ)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Abidine Talebna](https://github.com/Talebna)
