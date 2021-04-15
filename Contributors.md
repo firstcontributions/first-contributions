@@ -1,5 +1,5 @@
 # Contributors
-
+ [comment]: <> (Follow this rule when contributing your name in this file: - [yourName] (yourGitHubProfileLink))
 -[Aman Verma](https://github.com/amnvrma)
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
@@ -14,6 +14,7 @@
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Christian Rua](https://github.com/christianrua)
 - [Rui Xu](https://github.com/superXR)
+- [Sumit Kumar Prasad] (https://github.com/sumitkp11)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
@@ -32,7 +33,7 @@
 - [Adrian Marquis] (https://github.com/schism578)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
-- Victor Mendez (https://github.com/VMMF)
+- [Victor Mendez] (https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
   [Wendell Hatcher](https://github.com/whatcher1074)
 - [Shreshtha Gupta](https://github.com/shrey-101)
@@ -201,7 +202,7 @@
 - EternalBlu
 - Punit khandelwal
 -VidishaTindolia
--Dev Kumar(https://github.com/techydev)
+- [Dev Kumar](https://github.com/techydev)
 - [Heidi Ran] (https://github.com/HDR128)
 - SH Park
 - anatole9
@@ -220,7 +221,7 @@
 - Torda Ladomérszky
 - Isaiah Whitfield
 - Aditi Oak
-- Sean (https://github.com/Everythongs)
+- [Sean] (https://github.com/Everythongs)
 - [Nevin Mathews Kuruvilla] (https://github.com/NevinTroy)
 - [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
@@ -308,7 +309,7 @@
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Shashank Sharma] (https://github.com/shanky251020)
 - [daky99] (https://github.com/darky99/)
-- Sriram S (https://github.com/suburban-daredevil)
+- [Sriram S] (https://github.com/suburban-daredevil)
 - [Jordan Mellor](https://github.com/jlm222)
 - [Shashank Bengaluru Srinivasa](https://github.com/sbengal2/)
 - [Will Firman] (https://github.com/willfir/)
@@ -416,7 +417,7 @@
   [Aleksandar Stancevic](https://github.com/AleksandarStancevic)
 - Nishant Shingate
 - [Outlander] (https://github.com/sujilgovind)
-- Darshan Aravind (https://github.com/darsh97)
+- [Darshan Aravind] (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
 - [Shanna Estj] (https://github.com/shannaestj)
 - Patrick M Copeland
@@ -426,7 +427,7 @@
 - [Hicham Tnacheri] (https://github.com/Halters)
 - [Rakesh] (https://github.com/RakeshPotnuru)
 - Spencer Hoggart
-- Emilio Gumayagay (https://github.com/ergumayagay)
+- [Emilio Gumayagay] (https://github.com/ergumayagay)
 - Pedro Enciso
 - Ahambarish Saikia
 - Ali Ahmed
@@ -467,7 +468,7 @@
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Stephen Ricketts](https://github.com/StephenRicketts)
 - Raymond Smith
-- Sahil Gupta (https://github.com/sahilgupta912)
+- [Sahil Gupta] (https://github.com/sahilgupta912)
 - Saurabh Shetty
 - [majkimge]
 - [Selyana Siko Fany] (https://github.com/SelyanaSF)
