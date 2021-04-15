@@ -14,6 +14,7 @@
 - [Christian Rua](https://github.com/christianrua)
 - [Rui Xu](https://github.com/superXR)
 - [Ayush Kumar](https://github.com/ayush9304)
+- [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Anish M](https://github.com/Anish-m-code)
