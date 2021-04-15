@@ -239,6 +239,7 @@
 - [Lester Ho] (https://github.com/lesterhjy)
 - [Vedatrayee Singh] (https://github.com/Vedatrayee)
 - [Nitesh Gupta]
+- [clarknave] (https://github.com/clarknave)
 - [Ivan van der Merwe 🤘] (https://github.com/WookieeCoder)
 - [Ivan Setiawan_Indonesia] (https://github.com/navivanuva)
 - [Mazhar Ali Khan 🔥](https://github.com/mazharwhite)
