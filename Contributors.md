@@ -9,6 +9,7 @@
 - [Giulia Cajati](https://github.com/GiuliaCajati)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
+- [Sampath Rachumallu] (https://github.com/sampath97)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Christian Rua](https://github.com/christianrua)
