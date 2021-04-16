@@ -20,6 +20,7 @@
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
 - [Naveen K](https://github.com/Naveenmavoor)
+- [Aayush Jain](https://github.com/aayushjain7)
 - [Anish M](https://github.com/Anish-m-code)
 - [Marco Costa](https://github.com/marcocosta1618)
 - [bobbychilami](https://github.com/bobbychilami)
