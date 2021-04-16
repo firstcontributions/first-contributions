@@ -10805,6 +10805,7 @@ Marica Marian
 - [xiangyu](https://github.com/yuquan222)
 - [Honmj](https://github.com/Honmj)
 - [TorokDan]
+- [Zihad Tarafdar](https://github.com/xihad76)
 - [mukherjeerajdeep](https://github.com/mukherjeerajdeep)
 - [ghasseneljday](https://github.com/ghasseneljday)
 - [Deepak Mehrotra](https://github.com/StealthX2k20)
