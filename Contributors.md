@@ -9713,6 +9713,7 @@ Jairo Martinez
 - [DIvyessh Maheshwari](https://github.com/Divyessh)
 - [Bruno Barros](https://github.com/bobarros)
 - [John Stigter](https://github.com/JohnStigter)
+- [Ehsan Shadi](https://github.com/ehsan-shadi)
 - Charlie Wu
 - [Maximillian Fish](https://github.com/maxfish711)✨
 - [Brianne Hinchliffe](https://github.com/briannehinchliffe)
