@@ -2019,6 +2019,7 @@ Berliana
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Joseph Jakes](https://github.com/josephjakes)
 - [Waqar Mastan](https://github.com/waqarHocain)
+- [Abdulaziz Alasmari](https://github.com/Abdulaziz-Alasmari) 
 - [Austin Cuddeback](https://github.com/ajcuddeback)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [LFsolar](https://github.com/LFsolar)
