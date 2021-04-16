@@ -4581,6 +4581,7 @@ Jairo Martinez
 - Tzach
 - [David Ayang](https://github.com/dayang4321)
 - YangFan
+- [Daniel Brusky](https://github.com/)
 - [Asmita Mukherjee](https://github.com/asmita-mukherjee)Lets get started!!
 - [Jeffrey Herr](paper money pilgrim)
 - [Robert Gooding](https://github.com/goodingr)
