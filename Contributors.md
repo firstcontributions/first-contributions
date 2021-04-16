@@ -541,6 +541,7 @@ Berliana
 - [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
 - Trise Ne
+- [Ryan Hiller](https://github.com/RyanHiller)
 - [Vikrant]
 - [Diego Plata](https://github.com/DPLATA)
 - [Edinson Requena](https://github.com/edinsonrequena)
