@@ -3,6 +3,7 @@
 -[Aman Verma](https://github.com/amnvrma)
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
+- [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Abidine Talebna](https://github.com/Talebna)
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
