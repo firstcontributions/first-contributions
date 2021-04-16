@@ -318,6 +318,7 @@
 - [Ubaidh](https://github.com/ubaidh)
 - [Karl Gustafsson](https://github.com/knopp10000)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
+Berliana
 - [Myrza Turlybek]
 - [Shreya Srivastava]
 - [Nabin Dangi]
