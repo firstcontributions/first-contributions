@@ -3,7 +3,7 @@
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
-
+- [Harpritsinh Yadav](https://github.com/harpritsinh563)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Blaine Young](github.com/blaine137)
 - [Aashaya Aryal](https://github.com/karuifeather)
