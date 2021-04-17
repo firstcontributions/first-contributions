@@ -253,6 +253,7 @@
 - [Atishay Jain] (https://github.com/atishayzn)
 - [Shah Fahad](https://github.com/shahfahad746)
 - [Dan Dorci](https://github.com/dan-dorci)
+- [Deniz Hasler](https://github.com/CallMeMisterOwl)
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Jianyong Zhu] (https://github.com/jyong-zhu)
