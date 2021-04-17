@@ -3,7 +3,7 @@
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
-
+-[Omisha Patel](https://github.com/OmishaPatel)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
