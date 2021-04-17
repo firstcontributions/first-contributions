@@ -17,6 +17,7 @@
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Christian Rua](https://github.com/christianrua)
+- [Louay Oudi](https://github.com/Maokli)
 - [Rui Xu](https://github.com/superXR)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
