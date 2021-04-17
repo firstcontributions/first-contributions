@@ -268,6 +268,7 @@
 - [Mazhar Ali Khan 🔥](https://github.com/mazharwhite)
 - [Divakar Rana](https://github.com/divakarrana)
 - [Daniel Schjetne](https://github.com/danielschjetne/)
+- [Scott Payne](https://github.com/scottwtpayne)
 - [Kevin Dormer](https://github.com/krdormer)
 - [Anagha Mardavi Pandey](https://github.com/JkAnagha)
 - [Maria Read](https://github.com/mreadv)
