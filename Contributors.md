@@ -3138,6 +3138,7 @@ Berliana
 - [Mia Manalastas](https://github.com/mia-m/)
 - [Ainur Rahmat](https://github.com/ainurx)
 - [Jonathon Lopez](https://github.com/JonathonLLopez)
+- [Simon Mann](https://github.com/mannkid)
 - [Lubna Attar](https://github.com/lubnaattar)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Meer Hamza](https://github.com/MeerHamza1421)
