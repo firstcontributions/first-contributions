@@ -28,6 +28,7 @@
 - [Anish M](https://github.com/Anish-m-code)
 - [Anthony Coudène](https://github.com/acoudene)
 - [Marco Costa](https://github.com/marcocosta1618)
+- [Maciej Debski](https://github.com/sunnyfloyd)
 - [bobbychilami](https://github.com/bobbychilami)
 - [Gourish Biradar](https://github.com/gourishbiradar)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
