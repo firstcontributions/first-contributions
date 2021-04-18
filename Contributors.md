@@ -5578,6 +5578,7 @@ Jairo Martinez
 - [Jacob Kerr](https://github.com/jakejack13)
 - [Braden Bird](https://github.com/bradenslsb)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
+- [RadimChapp](https://github.com/chapp154)
 - [Robert Rauch](https://github.com/RobertRauch)
 - [Zachary Ho](https://github.com/zachy-ho)
 - [Mihir Bagchi (BagchiMB)](https://github.com/BagchiMB)
