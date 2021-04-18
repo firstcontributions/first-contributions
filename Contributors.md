@@ -86,6 +86,7 @@
 - [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Nial Dixon] (https://github.com/nialdixon8)
 - [Harper Moon]
+- [Väinö Heijari]
 - [Ankit Kumar] (https://github.com/anktsverma)
 - [SheldonnC] (https://github.com/SheldonnC)
 - [Marie Creel](https://github.com/ncreel)
