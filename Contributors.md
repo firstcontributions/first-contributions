@@ -238,6 +238,7 @@
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
 - [luckatoni] (https://github.com/luckatoni)
 - [Shaoqing Qi] (https://https://github.com/RshStone)
+- [David Obembe] (https://github.com/dayvheed)
 - [Eric Santos] (https://github.com/eric-santos)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Matthew Eskolin](https://github.com/MatthewEskolin)
