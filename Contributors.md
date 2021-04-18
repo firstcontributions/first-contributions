@@ -7,6 +7,7 @@
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Prathima Kadari](https://github.com/prathimacode-hub)
 - [Blaine Young](github.com/blaine137)
+- [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Abidine Talebna](https://github.com/Talebna)
