@@ -5398,6 +5398,7 @@ Jairo Martinez
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
 - phileinSophos
+- [Erick Luiz](https://github.com/erickLuizA)
 - [Afnan Malik](https://github.com/Afnanmk)
 - [Bbosecke](https://github.com/bbosecke)
 - [Freedom](https://github.com/f3ve)
