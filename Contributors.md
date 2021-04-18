@@ -51,6 +51,7 @@
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Kipland Melton](https://github.com/kipland-m)
 - [Amritanshu Joshi](https://github.com/amritanshujoshi)
+- [Karamala Om Rohith](https://github.com/RohithKumar1368)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
