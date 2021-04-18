@@ -38,6 +38,7 @@
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - [Jon Ryan] (https://github.com/JayRyee)
 - [Adrian Marquis] (https://github.com/schism578)
+- [Poojan Patel] (https://github.com/Berlin-34)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
