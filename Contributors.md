@@ -21,6 +21,7 @@
 - [Christian Rua](https://github.com/christianrua)
 - [Louay Oudi](https://github.com/Maokli)
 - [Rui Xu](https://github.com/superXR)
+- [Shubham Sinha](https://github.com/sinha24)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
