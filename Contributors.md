@@ -14,6 +14,7 @@
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
+- [Eliza Swanson] (https://github.com/elswanny)
 - [Abidine Talebna](https://github.com/Talebna)
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
