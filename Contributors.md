@@ -5,7 +5,7 @@
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
 -[Aastha Shukla](https://github.com/aastha1910)
-
+-[Faith Ademola](https://github.com/faith-ware)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - Prathima Kadari
 - [Blaine Young](github.com/blaine137)
