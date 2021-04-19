@@ -45,6 +45,8 @@
 - [Poojan Patel] (https://github.com/Berlin-34)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
+- [Nshimiye Emmy](https://github.com/nshimiyeemmy)
+- Nshimiye Emmy
 - Victor Mendez (https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
   [Wendell Hatcher](https://github.com/whatcher1074)
