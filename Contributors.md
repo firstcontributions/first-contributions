@@ -14,6 +14,7 @@
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Christian Rua](https://github.com/christianrua)
 - [Rui Xu](https://github.com/superXR)
+- [Sumit Kumar Prasad](https://github.com/sumitkp11)
 - [Ayush Kumar](https://github.com/ayush9304)
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
