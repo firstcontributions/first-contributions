@@ -5,8 +5,9 @@
 -[Aman Verma](https://github.com/amnvrma)
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
-- [Prathima Kadari](https://github.com/prathimacode-hub)
+- Prathima Kadari
 - [Blaine Young](github.com/blaine137)
+- [David Young](github.com/dichlorodiphen)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
