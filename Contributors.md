@@ -3,7 +3,7 @@
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
--[Omisha Patel](https://github.com/OmishaPatel)
+
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
@@ -10816,6 +10816,7 @@ Marica Marian
 - [xiangyu](https://github.com/yuquan222)
 - [Honmj](https://github.com/Honmj)
 - [TorokDan]
+- [Omisha Patel](https://github.com/OmishaPatel)
 - [Zihad Tarafdar](https://github.com/xihad76)
 - [mukherjeerajdeep](https://github.com/mukherjeerajdeep)
 - [ghasseneljday](https://github.com/ghasseneljday)
