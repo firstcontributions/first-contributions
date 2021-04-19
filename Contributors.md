@@ -23,6 +23,7 @@
 - [Sampath Rachumallu] (https://github.com/sampath97)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
+- [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
 - [Louay Oudi](https://github.com/Maokli)
 - [Rui Xu](https://github.com/superXR)
