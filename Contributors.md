@@ -343,6 +343,7 @@
 Berliana
 - [Myrza Turlybek]
 - [Shreya Srivastava]
+- [Manish Agrahari] (https://github.com/manish831)
 - [Nabin Dangi]
 - [Gleyson Melo] (https://github.com/gleysonmelo)
 - [wantao666] (https://github.com/wantao666)
