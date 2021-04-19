@@ -10787,6 +10787,7 @@ Marica Marian
 - [Punit Choudhary](https://github.com/Punit-Choudhary)
 - [Sun Yu](https://github.com/sunyuu)
 - [Xiang Li](https://github.com/lixiangbetter)
+- [kyu-kim-kr](https://github.com/kyu-kim-kr)
 - [Yysoim](https://github.com/yysoim)
 - [Aldilas](https://github.com/aldeetropolis)
 - [Alexandre Merched](https://github.com/artismyname)
