@@ -44,6 +44,7 @@
 - [Gourish Biradar](https://github.com/gourishbiradar)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
+-[Akinpelumi (Layi) Akinlade] (https://github.com/layioye/)
 - [Kayleen Carido] (https://github.com/kvcarido)
 - [Enock Omondi] (https://github.com/Trend20)
 - [Janeth Betancourt](https://github.com/janbe30)
