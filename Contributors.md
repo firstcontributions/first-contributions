@@ -10856,3 +10856,4 @@ Marica Marian
 - [Muhammad Afif Nur Azizi](https://github.com/petrikorsubuh)
 - [Nimisha Vijay](https://github.com/nimisha-vijay)
 - [aminos](https://github.com/amino19)
+- [Cuday](https://github.com/abrahes12-day)
