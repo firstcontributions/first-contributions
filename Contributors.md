@@ -19,6 +19,7 @@
 - [Eliza Swanson] (https://github.com/elswanny)
 - [Abidine Talebna](https://github.com/Talebna)
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
+- [0Ams](https://github.com/0ams)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
