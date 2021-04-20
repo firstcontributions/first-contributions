@@ -10876,3 +10876,4 @@ Marica Marian
 - [Mateus Daniel](https://github.com/Matteuus)
 - [Devendra](https://github.com/debsdoon)
 - [German III](https://github.com/germaniii)
+- [Raniery Mendes](https://github.com/RanieryMendes)
