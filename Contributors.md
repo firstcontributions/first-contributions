@@ -10642,6 +10642,7 @@ sam_namiranian
 - [Quentin HENRY](https://github.com/Dythic)
 - [Yakov Rakhamimov](https://github.com/jacobra19)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
+- [Anna Porofijeva](https://github.com/annayeva)
 - [Joseph Harrison](https://github.com/BanJoeH)
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Vacoder !!]
