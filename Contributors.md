@@ -12,6 +12,7 @@
 - Prathima Kadari
 - [Blaine Young](github.com/blaine137)
 - [Vimal M](https://github.com/vimalprogrammer/)
+- [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
