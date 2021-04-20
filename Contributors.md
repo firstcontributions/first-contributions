@@ -1135,6 +1135,7 @@ Berliana
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [lekandev](https://github.com/lekandev)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
+- [Brandon G](https://github.com/brandonganeko)
 - [Ayush Jain](https://github.com/jain18ayush)
 - [Brian Khai](https://github.com/BrianKhai)
 - [Robert Ngabo](https://github.com/ngaboindev)
