@@ -3,6 +3,7 @@
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
+-[Aastha Shukla](https://github.com/aastha1910)
 
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - Prathima Kadari
@@ -343,6 +344,7 @@
 Berliana
 - [Myrza Turlybek]
 - [Shreya Srivastava]
+- [Manish Agrahari] (https://github.com/manish831)
 - [Nabin Dangi]
 - [Gleyson Melo] (https://github.com/gleysonmelo)
 - [wantao666] (https://github.com/wantao666)
@@ -10857,3 +10859,5 @@ Marica Marian
 - [Nimisha Vijay](https://github.com/nimisha-vijay)
 - [aminos](https://github.com/amino19)
 - [Cuday](https://github.com/abrahes12-day)
+- [Alexander Tsapkov](http://github.com/alextsa22)
+
