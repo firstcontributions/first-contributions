@@ -6490,6 +6490,7 @@ Jairo Martinez
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Kartik Gambhir](https://github.com/whokartikgambhir)
 - [Swati Jain](https://github.com/swati345)
+- [Daniel Cooper](https://github.com/danjcooper)
 - [Jean Lomibao](https://github.com/jlomibao1995)
 - [Richard Salcedo](https://github.com/kbgagt)
 - [Ville Mäkilä](https://github.com/vilmaguila)
