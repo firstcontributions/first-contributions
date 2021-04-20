@@ -334,6 +334,7 @@
 - [Samer Sawan](https://github.com/SamerSawan)
 - [Jeremy Hamilton] (https://github.com/hamcodes)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
+- [Christian Melendez](https://github.com/christianhxc)
 - [Chethan Krishnamurthy](https://github.com/Chetank003)
 - [Alex Tray](https://github.com/AlexTRay)
 - [Xavier Walton] (https://github.com/breezy-bodega)
