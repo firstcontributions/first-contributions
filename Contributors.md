@@ -4450,6 +4450,7 @@ Jairo Martinez
 - [Prince Agrawal 💻🚀](https://github.com/princeprojects)
 - [Ashutosh Saxena](https://github.com/ashugit27)
 - [Goodness Chris-Ugari](https://github.com/goodiec)
+- [Emily Shrestha](https://github.com/emily04)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
