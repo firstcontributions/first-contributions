@@ -7910,6 +7910,7 @@ Jairo Martinez
 - [Brian Walter](https://github.com/bigbwalter)
 - [Allen Colston](https://github.com/colstona1024)
 - [Brandon Nguyen](https://github.com/branch331)
+- [Max White](https://github.com/MaxWhite20062003)
 - [Afroz Chakure](https://github.com/afrozchakure)
 - [Alessandra Romero](https://github.com/alexgromero)
 - [Samisha Khurana](https://github.com/samishakhurana)
