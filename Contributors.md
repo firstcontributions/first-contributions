@@ -10885,3 +10885,4 @@ Marica Marian
 - [Raniery Mendes](https://github.com/RanieryMendes)
 - [Rachel B](https://github.com/rbirnshtok)
 - [Suresh Koochana](https://github.com/SureshKuchana)
+- [Andre Amaral](https://github.com/amdeca)
