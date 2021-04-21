@@ -1480,6 +1480,7 @@ Berliana
 - Tenzin Woesel
 - Akshit Mandani
 - [Abhishek Srivas](https://github.com/AbhishekSrivas114319)
+- [Brian Manning]()
 - [Ali Aljowaher](https://github.com/alialjowaher)
 - [David Kozdra](https://github.com/DavidKozdra)
 - [Ben Bartel](https://github.com/BenMajestix) 
