@@ -10,6 +10,7 @@
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - Prathima Kadari
+- [Luhit Atluri](https://github.com/luhit729)
 - [Blaine Young](github.com/blaine137)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [Aman Deep Bisht](https://github.com/aman152003)
