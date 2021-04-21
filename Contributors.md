@@ -1,5 +1,6 @@
 # Contributors
 
+-[Tomaz Mazej](https://github.com/TomazMazej)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
