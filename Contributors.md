@@ -116,6 +116,7 @@
 - [Juan Lamilla](https://github.com/JuanesLamilla)
 - [fwang wang] (https://github.com/fwangwang)
 - [abc_new_test]
+- [Eric Shin](https://github.com/lvaka)
 - [Daman Arora](https://github.com/Damans227/)
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
