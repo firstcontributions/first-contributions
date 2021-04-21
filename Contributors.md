@@ -36,6 +36,7 @@
 - [Ayush Kumar](https://github.com/ayush9304)
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
+- [Samuel Adesoye] (https://github.com/Folami-kun)
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Aayush Jain](https://github.com/aayushjain7)
 - [Anish M](https://github.com/Anish-m-code)
