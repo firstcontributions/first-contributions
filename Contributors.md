@@ -253,6 +253,7 @@
 - qhuy4119
 - [Jakob Johnson] (https://github.com/jakobJohnsonJS)
 - [Harika Duyu](https://github.com/harikaduyu)
+- [Dave Hillman](https://github.com/dhillman1989)
 - Torda Ladomérszky
 - Isaiah Whitfield
 - Aditi Oak
