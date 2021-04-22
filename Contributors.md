@@ -68,6 +68,7 @@
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Kipland Melton](https://github.com/kipland-m)
+- [CryptoD](https://github.com/CryptoD)
 - [Amritanshu Joshi](https://github.com/amritanshujoshi)
 - [Karamala Om Rohith](https://github.com/RohithKumar1368)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
