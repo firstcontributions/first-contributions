@@ -3850,6 +3850,7 @@ Jairo Martinez
 - [Cornelia Johnson]()
 - [Mateusz Ostrowski]
 - [César Escudero](https://github.com/cedaesca)
+- [Mark Syrzysko](https://github.com/WolfWeasel)
 - [Tejesh Itha](https://github.com/ivsntejesh)
 - [Iulian Caleanu](https://github.com/DayOne723)
 - [Pinak Datta](https://github.com/Pinak-coder)
