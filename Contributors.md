@@ -81,6 +81,7 @@
 - [Anna Seriakova] (https://github.com/Arien36)
 -	[hmdz](https://github.com/hmdz105)
 - [George Peden](https://github.com/gpeden)
+- [Eric Dahlgren](https://github.com/eriyc)
 - [Raghav Mehrotra](https://github.com/raghav-max)
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Ane S]
