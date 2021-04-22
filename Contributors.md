@@ -869,6 +869,7 @@ Berliana
 - Dhairya
 - [Ethan Jackson] (https::/github.com/ethantjackson)
 - [Maximilian Hafer] (https::/github.com/MaxiHafer)
+- [Sara Mazal] (https://github.com/saramazal)
 - [meet0806](https://github.com/meet0806)
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Brandon Roberts] (https://github.com/brobert8)
