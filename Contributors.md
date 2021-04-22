@@ -131,6 +131,7 @@
 - [Manab Kumar Biswas](https://github.com/Manab784)
 - [Raviteja Reddy](https://github.com/RavitejaRTR)
 - [Tony Bjorkman](https://github.com/tonybjorkman)
+  [Bhupendra Nagda](https://github.com/Bhupendranagda)
 - [Petru Roland](https://github.com/NotRoland)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Novice Programmer] (https://github.com/sharad95-://github.com/sharad95-k)
