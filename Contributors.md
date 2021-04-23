@@ -1246,6 +1246,7 @@ Berliana
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
 - [Syfa Collins](https://github.com/SyfaCollins)
 - [Kanika](https://github.com/knikm)
+- [Shashank Shekhar](https://github.com/shashank-001)
 - [K.Yogeshwara Krishna](https://github.com/yogeshwara-krishna)
 - [Yuxin Li](https://github.com/yuxinli915)
 - [charalamm](https://github.com/charalamm)
