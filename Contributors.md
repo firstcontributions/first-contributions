@@ -31,6 +31,7 @@
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Sampath Rachumallu] (https://github.com/sampath97)
+- [Tim Chapman] (https:github.com/wobbly2732)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
