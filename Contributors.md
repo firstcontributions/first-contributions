@@ -18,6 +18,7 @@
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
 - [Rafi Abro](https://github.com/mrabro)
+- [Deedee Banh](https://github.com/deedeebanh)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
