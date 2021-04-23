@@ -419,6 +419,7 @@ Berliana
 - [Hao Zhang](https://github.com/Derrick-Zhang)
 - [Gabriele C.](https://github.com/gchem1se)
 - [Sumin Lee](https://github.com/nimuseel)
+- [Xavier Jefferson](https://github.com/xajefferson)
 - [Sergiy Ladnych](https://github.com/sergiyladnych)
 - [Arthur Remy](https://github.com/remy29)
 - [Gavin Callander](https://github.com/GavinCallander)
