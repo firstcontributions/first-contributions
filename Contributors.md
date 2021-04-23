@@ -7572,6 +7572,7 @@ Jairo Martinez
 - [Bryan Murphy](https://github.com/murphyb2)
 - [Zyjin](https://github.com/Zygen360)
 - [Tiago Maia](https://github.com/tiagomvf)
+- [Geoffry Sheehan](https://github.com/geosheehan)
 - [Yunfei Jing](https://github.com/yunfeijing)
 - [Ole Gensch](https://github.com/Taragos)
 - [Rafal Grzyb](https://github.com/Grzybotron)
