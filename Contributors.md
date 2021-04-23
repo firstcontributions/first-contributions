@@ -10922,3 +10922,5 @@ Marica Marian
 - [Ozine](https://github.com/Ozine233)
 - [Arjun Satheesh](https://github.com/arjunsatheesh)
 - [Isaac Chung](https://github.com/isaac-chung/)
+- [kaz8x](https://github.com/kaz8x)
+
