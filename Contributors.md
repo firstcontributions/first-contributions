@@ -1,12 +1,12 @@
 # Contributors
 
--[Tomaz Mazej](https://github.com/TomazMazej)
--[Chirag Madaan](https://github.com/chirag-madaan)
--[Didier Munezero](https://github.com/didiermunezero)
--[Lakshman Kambam](https://github.com/klakshman318)
--[Aman Verma](https://github.com/amnvrma)
--[Aastha Shukla](https://github.com/aastha1910)
-
+- [Akshit Anchan](https://github.com/akshitanchan)
+- [Tomaz Mazej](https://github.com/TomazMazej)
+- [Chirag Madaan](https://github.com/chirag-madaan)
+- [Didier Munezero](https://github.com/didiermunezero)
+- [Lakshman Kambam](https://github.com/klakshman318)
+- [Aman Verma](https://github.com/amnvrma)
+- [Aastha Shukla](https://github.com/aastha1910)
 - [John Louise](https://github.com/john)
 - [Wilson Junior](https://github.com/wilsonjuniordev)
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
@@ -66,7 +66,7 @@
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
-  [Wendell Hatcher](https://github.com/whatcher1074)
+- [Wendell Hatcher](https://github.com/whatcher1074)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Alfidaa Alkhan](https://github.com/Alfidaalk)
 - [Eztao](https://github.com/eztao)
