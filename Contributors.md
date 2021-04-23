@@ -31,7 +31,6 @@
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
-- [Tim Chapman] (https://github.com/wobbly2732)
 - [Louay Oudi](https://github.com/Maokli)
 - [Rui Xu](https://github.com/superXR)
 - [Sumit Kumar Prasad](https://github.com/sumitkp11)
