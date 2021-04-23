@@ -33,6 +33,7 @@
 - [Sampath Rachumallu] (https://github.com/sampath97)
 - [Tim Chapman] (https:github.com/wobbly2732)
 - [Uzair Ali](https://github.com/uzair-ali10)
+- [Daniel Armas](https://github.com/daniel692a)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
