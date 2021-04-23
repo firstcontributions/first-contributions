@@ -50,6 +50,7 @@
 - [Maciej Debski](https://github.com/sunnyfloyd)
 - [bobbychilami](https://github.com/bobbychilami)
 - [Gourish Biradar](https://github.com/gourishbiradar)
+- [Mohit Sharma] (https://github.com/12562)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kayleen Carido] (https://github.com/kvcarido)
