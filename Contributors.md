@@ -6081,6 +6081,7 @@ Jairo Martinez
 - [Dan Fox](https://github.com/DanJFox86)
 - [limetree1723](https://github.com/limetree1723)
 - CatTail
+- [Frank Bruzzone](https://github.com/f-bruzzone) 
 - [Tarun Kanodia](https://github.com/tarunkanodia)
 - [Bharat Rajora]
 - [Juan Pablo Pinto](https://github.com/jpinto7)
