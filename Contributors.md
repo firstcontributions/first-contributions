@@ -6,7 +6,7 @@
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
 -[Aastha Shukla](https://github.com/aastha1910)
-
+- [Aditya Raj](https://github.com/AdityaRaj-ar)
 - [John Louise](https://github.com/john)
 - [Wilson Junior](https://github.com/wilsonjuniordev)
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
