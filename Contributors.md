@@ -10855,6 +10855,7 @@ Marica Marian
 - [Makarov Ilya 🌲](https://github.com/makarilyaev)
 - [billionray](https://github.com/billionray)
 - [NotManyIdeasDev](https://github.com/NotManyIdeasDev)
+- [Michael Gallagher](https://github.com/michaeljgallagher)
 - [Ramy1951](https://github.com/Ramy1951)
 - [VladPetryshyn](https://github.com/VladPetryshyn)
 - [Lakshya Manan Jaiswa](https://github.com/manan2277)
@@ -10935,3 +10936,4 @@ Marica Marian
 - [Alan Chiou](https://github.com/AlanChiou)
 - [Dalhatu Njidda](https://github.com/dalsn)
 - [snaileny] (https://github.com/snaileny)
+
