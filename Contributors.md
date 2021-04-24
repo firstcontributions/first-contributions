@@ -302,6 +302,7 @@
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Jianyong Zhu] (https://github.com/jyong-zhu)
+- [Rushikesh Varkhade] (https://github.com/rushiv7)
 - [Gene Lam] (https://github.com/genelam26)
 - [Lester Ho] (https://github.com/lesterhjy)
 - [Vedatrayee Singh] (https://github.com/Vedatrayee)
