@@ -2136,6 +2136,7 @@ Berliana
 - [Alvaro Belmonte](https://github.com/alvarobelmonte)
 - Arun Joseph
 - [Jessica Wadsworth](https://github.com/jessicalorenac)
+- [Mihir Shah](https://github.com/Mihir50)
 - [Tanisha Chaudhary](https://github.com/tanishha)
 - [Túlio Chiodi](https://github.com/TulioChiodi/)
 - [Ahmad Shaaban](https://github.com/AhmadShaaban)
