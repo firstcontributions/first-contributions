@@ -154,6 +154,7 @@
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Shreyas Poojari](https://github.com/ShreyasP7/first-contributions.git)
+- [Mohamed Emad](https://github.com/iMezemz)
 - [Thibault de Poyferré](https://github.com/tedpoyfe)
 - [Rosy Priya Augutin](https://github.com/dev-augustin/first-contributions.git)
 - [LeoWootsi](https://github.com/LeoWootsi)
