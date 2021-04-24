@@ -58,6 +58,7 @@
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kayleen Carido] (https://github.com/kvcarido)
 - [Enock Omondi] (https://github.com/Trend20)
+- [Kartikey Jangir] (https://github.com/kartikeyjangir)
 - [Janeth Betancourt](https://github.com/janbe30)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - [Jon Ryan] (https://github.com/JayRyee)
