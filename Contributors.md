@@ -5552,6 +5552,7 @@ Jairo Martinez
 - [Curt Bridgers](https://github.com/orcalikastecona)
 - [Anshika Gupta](https://github.com/csendranshi)
 - [Amit Garg](https://github.com/amit1307)
+- [Sai Akash Janapati](https://github.com/Sai-Akash2009Janapati)
 - [Arpit Kushwaha](https://github.com/arpitkushwaha)
 - [Daniel Kryszkiewicz](https://github.com/DanielKryszkiewicz)
 - [Yash Mihsra](https://github.com/Codedude1)
