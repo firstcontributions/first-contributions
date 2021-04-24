@@ -24,6 +24,7 @@
 - [Anubhav Ranjan] (https://github.com/Anubhav7298)
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Sugam Jaiswal] (https://github.com/jaissugam)
+- [Vasile Durlesteanu](https://github.com/VasileDurlesteanu)
 - [Harper Moon]
 - [Marie Creel](https://github.com/ncreel)
 - [Tasha Danner](https://github.com/tashadanner)
