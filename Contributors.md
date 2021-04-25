@@ -1117,6 +1117,7 @@ Berliana
 - [Omar Elsherif](https://github.com/omarelsherif010)
 - [Shekhar Karna](https://github.com/shekharkarna)
 - [Julie Michaud](https://github.com/jlmichaud)
+- [SnowWanderer](https://github.com/SnowWanderer)
 - [Matthew Romano](https://github.com/matthewromano5087)
 - [Farhan Halai](https://github.com/farhanhalai30)
 - [ehye](https://github.com/ehye)
