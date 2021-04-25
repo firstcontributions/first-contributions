@@ -26,6 +26,7 @@
 - [Eliza Swanson] (https://github.com/elswanny)
 - [Abidine Talebna](https://github.com/Talebna)
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
+- [Farhan Ali Rahmoon](https://github.com/FarhanRah)
 - [0Ams](https://github.com/0ams)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
