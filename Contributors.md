@@ -18,6 +18,7 @@
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
 - [Rafi Abro](https://github.com/mrabro)
+- 
 - [Deedee Banh](https://github.com/deedeebanh)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
@@ -35,7 +36,8 @@
 - [Sampath Rachumallu] (https://github.com/sampath97)
 - [Tim Chapman] (https:github.com/wobbly2732)
 - [Uzair Ali](https://github.com/uzair-ali10)
-- [Daniel Armas](https://github.com/daniel692a)
+- [ahron moshe](https://github.com/ahronmoshe)
+[Daniel Armas](https://github.com/daniel692a)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
