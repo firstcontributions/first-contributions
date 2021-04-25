@@ -10941,3 +10941,4 @@ Marica Marian
 - [Dalhatu Njidda](https://github.com/dalsn)
 - [snaileny] (https://github.com/snaileny)
 - [Cihat Salik] (https://github.com/cihat)
+- [Stewart Clay] (https://github.com/PorkStew)
