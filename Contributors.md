@@ -5217,6 +5217,7 @@ Jairo Martinez
 - Shruti Bansal
 - Manushree
 - [Ochieng Otieno](https://github.com/ochiengotieno304)
+- [Anthony Charpenay](https://github.com/talmidiel)
 - [Sascha Lang](Https://github.com/saschalang32)
 - [Saurabh Sisodia](https://github.com/saurabhsisodia)
 - [Brendan Nugara](https://github.com/BrendanNug)
