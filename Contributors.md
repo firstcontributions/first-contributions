@@ -115,6 +115,7 @@
 - [Nial Dixon] (https://github.com/nialdixon8)
 - [Harper Moon]
 - [Ankit Kumar] (https://github.com/anktsverma)
+- [Akra Davidson] (https://github.com/Davidson-09)
 - [SheldonnC] (https://github.com/SheldonnC)
 - [Marie Creel](https://github.com/ncreel)
 - [Tasha Danner](https://github.com/tashadanner)
