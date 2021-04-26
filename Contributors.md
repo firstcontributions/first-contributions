@@ -39,6 +39,7 @@
 - [Tim Chapman] (https:github.com/wobbly2732)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Daniel Armas](https://github.com/daniel692a)
+- [Nathan Sindres](https://github.com/nasdev-cmd)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
