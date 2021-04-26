@@ -3776,6 +3776,7 @@ Jairo Martinez
 - [Shivani Gajulapalli](https://github.com/shivani-developer)
 - [Virginie 🇫🇷](https://github.com/vifeng)
 - [Gibran Herrera](https://github.com/GibranHL0)
+- [Gautham Saravanamuthu](https://github.com/sgautham2k)
 - [Ajit Kumar Chaurasiya](https://github.com/Ajit-53)
 - [Sakshi Kumar](https://github.com/sakshi006)
 - [Zidrex Andag](https://github.com/jzandag)
