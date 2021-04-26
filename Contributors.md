@@ -1,6 +1,7 @@
 # Contributors
 
 - [Tomaz Mazej](https://github.com/TomazMazej)
+- [Dawn Kelly](https://github.com/dawnkelly09)
 - [Chirag Madaan](https://github.com/chirag-madaan)
 - [Salil Chincholikar](https://github.com/chincholikarsalil)
 - [Didier Munezero](https://github.com/didiermunezero)
