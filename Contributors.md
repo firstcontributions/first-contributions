@@ -2,6 +2,7 @@
 
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Chirag Madaan](https://github.com/chirag-madaan)
+-[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
