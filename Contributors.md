@@ -1320,6 +1320,7 @@ Berliana
 - [Ulil Albab](https://github.com/ulilalbab)
 - [Gibson Sanchez](https://github.com/sgibson19)
 - [Vasu Manhas](https://github.com/vasumanhas000)
+- [Kartick Gulati](https://github.com/kartickg33)
 - [Frank MUNGERI](https://github.com/mfrank37)
 - [HEMANG PANDEY](https://github.com/Hemangpandey)
 - [Gustaf Gröning] (https://github.com/GustafGroning)
