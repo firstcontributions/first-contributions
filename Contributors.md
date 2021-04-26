@@ -1364,6 +1364,7 @@ Berliana
 - [Aaron Ramirez](https://github.com/aramxc)
 - [Ryan Dansie](https://github.com/rdansie)
 - [Brian Branca](https://github.com/bmbranca)
+- [Divesh Arora](https://github.com/divesharora)
 - [Francis Emefile](https://github.com/EmefileFrancis)
 - [Emil Joseph](https://github.com/ejoseph89)
 - [Kshitij Patil](https://github.com/Malevalous)
