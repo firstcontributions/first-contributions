@@ -3039,6 +3039,7 @@ Berliana
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Nada Farook](https://github.com/nada1619)
 - [Astitv Shandilya](https://github.com/axtitv)
+- [Hybridkernel](https://github.com/Hybridkernel)
 - [Gonzalo Alvarez](https://github.com/gonzaloea)
 - [PRIYANKA YADAV](https://github.com/Priyanka-hub-bit)
 - [Bhim Kumar](https://github.com/bhimkp)
