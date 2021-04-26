@@ -95,6 +95,7 @@
 - [Eric Dahlgren](https://github.com/eriyc)
 - [Raghav Mehrotra](https://github.com/raghav-max)
 - [Wallison Silva](https://github.com/WallisonHenrique)
+- [Alekya Kowta](https://github.com/AlekyaKowta)
 - [Ane S]
 - [Brunda B R]
 - [Alok Paidalwar]
