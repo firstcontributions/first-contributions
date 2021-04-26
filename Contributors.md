@@ -295,6 +295,7 @@
 - [Matthew Eskolin](https://github.com/MatthewEskolin)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Ravindra Pratap Singh Bhati](https://github.com/Ravindra29)
+- [Alexander Verhulst](https://github.com/aleforniadreamin)
 - [Mohit Sadhwani](https://github.com/m-ohit-s)
 - [Duncan Riedi](https://github.com/duncan374)
 - [Debopriya Dey](https://github.com/debopriyadey)
