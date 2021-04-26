@@ -1318,6 +1318,7 @@ Berliana
 - [Enes Guven](https://github.com/jamiryutheb)
 - [Ulil Albab](https://github.com/ulilalbab)
 - [Gibson Sanchez](https://github.com/sgibson19)
+- [Vasu Manhas](https://github.com/vasumanhas000)
 - [Frank MUNGERI](https://github.com/mfrank37)
 - [Gustaf Gröning] (https://github.com/GustafGroning)
 - [Deepak Kumar](https://github.com/damphir7)
