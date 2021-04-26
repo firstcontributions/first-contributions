@@ -154,6 +154,7 @@
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
 - [Dagon Lee](https://github.com/dagonlee)
+- [Cho Sangmuk](https://github.com/ChoSangmuk)
 - [Marouane Mouloue](https://github.com/marouanemouloue)
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
 - [Toihir Halim](https://github.com/toihirhalim)
