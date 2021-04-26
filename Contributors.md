@@ -8,7 +8,7 @@
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
 -[Aastha Shukla](https://github.com/aastha1910)
-= [Tannybuoy](https://github.com/Tannybuoy/)
+- [Tannybuoy](https://github.com/Tannybuoy/)
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
 - [Wilson Junior](https://github.com/wilsonjuniordev)
