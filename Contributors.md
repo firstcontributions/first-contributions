@@ -15,6 +15,7 @@
 - Prathima Kadari
 - [Luhit Atluri](https://github.com/luhit729)
 - [Blaine Young](github.com/blaine137)
+- [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
