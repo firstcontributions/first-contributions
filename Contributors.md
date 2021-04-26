@@ -1,5 +1,5 @@
 # Contributors
-
+-[TEJAS DIXIT](https://github.com/pandatd)
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
