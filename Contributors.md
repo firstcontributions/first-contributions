@@ -29,6 +29,7 @@
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
 - [Farhan Ali Rahmoon](https://github.com/FarhanRah)
 - [0Ams](https://github.com/0ams)
+- [Vasu Manhas](https://github.com/vasumanhas000)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
