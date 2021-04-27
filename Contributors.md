@@ -8,6 +8,7 @@
 - [Lakshman Kambam](https://github.com/klakshman318)
 - [Aman Verma](https://github.com/amnvrma)
 - [Aastha Shukla](https://github.com/aastha1910)
+- [Ishaan Jain](https://github.com/ishaan14112000)
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
 - [Wilson Junior](https://github.com/wilsonjuniordev)
@@ -2195,6 +2196,7 @@
 - [andyjjrt](https://github.com/andyjjrt)
 - [aStateOfLimbo]
 - [Kyler Green](https://github.com/Kiracorp)
+- [R Vishnu Vardhan Reddy](https://github.com/vishnuvardhanreddyr28)
 - [Andrea Mucciarelli](https://github.com/IowU)
 - [Wanmeow](https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
@@ -2896,6 +2898,7 @@
 - [Rahmat Sulistio](https://github.com/rahmat-st)
 - [Rudransh Arora](https://github.com/Red-0111)
 - [Atul Bhatt](https://github.com/atulbhatt-system32)
+- [Sarvesh Dwivedi](https://github.com/sarvesh4396)
 - [MRPMOHIBURRAHMAN](https://github.com/mrpmohiburrahman)
 - [Agus Rian](https://github.com/agusrian97)
 - [Marco De Anda](https://github.com/marcodeanda)
@@ -3773,6 +3776,7 @@
 - [Xefyn](https://github.com/Xefyn)
 - [Erick Canals](https://github.com/ec7495)
 - [Raitis]
+- [Kiefer Baird-Perry]
 - [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
 - [praveen-01](https://github.com/praveen-01)
@@ -10938,6 +10942,7 @@
 - [aminos](https://github.com/amino19)
 - [Ivan Spada](https://github.com/spdivn)
 - [Alexander Tsapkov](http://github.com/alextsa22)
+- [qarun685](https://github.com/qarun685)
 - [Alex L](https://github.com/aLyonsGH)
 - [Mateus Daniel](https://github.com/Matteuus)
 - [Devendra](https://github.com/debsdoon)
@@ -10958,4 +10963,4 @@
 - [Cihat Salik] (https://github.com/cihat)
 - [Stewart Clay] (https://github.com/PorkStew)
 - [Omkar Jadhav](https://github.com/omkar342)
-
+- [Kayode Adetayo](https://github.com/bubykay)
