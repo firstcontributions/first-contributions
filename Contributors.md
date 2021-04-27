@@ -10970,3 +10970,4 @@ Marica Marian
 - [Omkar Jadhav](https://github.com/omkar342)
 - [Kayode Adetayo](https://github.com/bubykay)
 - [Evie Vanderveer](https://github.com/eviebat)
+- [Tanishq Kumar](https://github.com/tanishq20)
