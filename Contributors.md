@@ -2198,6 +2198,7 @@ Berliana
 - [andyjjrt](https://github.com/andyjjrt)
 - [aStateOfLimbo]
 - [Kyler Green](https://github.com/Kiracorp)
+- [R Vishnu Vardhan Reddy](https://github.com/vishnuvardhanreddyr28)
 - [Andrea Mucciarelli](https://github.com/IowU)
 - [Wanmeow](https://github.com/wanmeow)
 - [m0nusingh](http://github.com/m0nusingh)
