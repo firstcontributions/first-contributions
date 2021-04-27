@@ -10934,6 +10934,7 @@ Marica Marian
 - [aminos](https://github.com/amino19)
 - [Ivan Spada](https://github.com/spdivn)
 - [Alexander Tsapkov](http://github.com/alextsa22)
+- [qarun685](https://github.com/qarun685)
 - [Alex L](https://github.com/aLyonsGH)
 - [Mateus Daniel](https://github.com/Matteuus)
 - [Devendra](https://github.com/debsdoon)
