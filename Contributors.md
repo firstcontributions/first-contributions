@@ -10,6 +10,7 @@
 -[Aman Verma](https://github.com/amnvrma)
 -[Aastha Shukla](https://github.com/aastha1910)
 -[Ishaan Jain](https://github.com/ishaan14112000)
+Gavriel Frant
 
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
