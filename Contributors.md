@@ -6,6 +6,7 @@
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
+-[Luis Leguizamon](https://github.com/LuisLeguizamon)
 -[Aman Verma](https://github.com/amnvrma)
 -[Aastha Shukla](https://github.com/aastha1910)
 
