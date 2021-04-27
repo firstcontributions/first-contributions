@@ -10969,3 +10969,4 @@ Marica Marian
 - [Stewart Clay] (https://github.com/PorkStew)
 - [Omkar Jadhav](https://github.com/omkar342)
 - [Kayode Adetayo](https://github.com/bubykay)
+- [Evie Vanderveer](https://github.com/eviebat)
