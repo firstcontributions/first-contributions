@@ -3774,6 +3774,7 @@ Jairo Martinez
 - [Xefyn](https://github.com/Xefyn)
 - [Erick Canals](https://github.com/ec7495)
 - [Raitis]
+- [Kiefer Baird-Perry]
 - [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
 - [praveen-01](https://github.com/praveen-01)
