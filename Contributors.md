@@ -774,6 +774,7 @@ Berliana
 - [Mariam B] (https://github.com/mariamb81)
 - [Teddy Portal](https://github.com/vungocson998)
 - Something Something
+- John Smith (https://github.com/hegemony-cricket)
 - Zach Kaufman(https://github.com/zchkfmn)
 - Ilhan Pamuk (https://github.com/ilhan-uk)
 - David Lynch(https://github.com/iamdlfl)
