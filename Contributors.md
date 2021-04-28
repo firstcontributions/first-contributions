@@ -696,7 +696,6 @@ Berliana
 - Jan Dolezal
 - [Selma Muminovic](https://github.com/muminovic)
 - [Ouissam Maach](https://github.com/BroSam96)
-- [Amaury Delprat](https://github.com/AyeRlS)
 - [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
 - Alex English
@@ -707,6 +706,7 @@ Berliana
 - [Arafat Iqbal](https://github.com/arafatiqbal)
 - Haritarth
 - Joshua Melo
+- [Tchamokouin Tsemo just-donald](https://github.com/Doking517)
 - [Vikhyat Bhatnagar](https://github.com/vikhyat187)
 - vedangi bhujang
 - [Madhu kunde](https://github.com/madhukunde)
