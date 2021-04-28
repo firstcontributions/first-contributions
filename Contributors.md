@@ -1,5 +1,6 @@
 # Contributors
 
+- []()
 - [Tomaz Mazej](https://github.com/TomazMazej)
 - [Dawn Kelly](https://github.com/dawnkelly09)
 - [Chirag Madaan](https://github.com/chirag-madaan)
@@ -22,6 +23,7 @@
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Vimal M](https://github.com/vimalprogrammer/)
+- [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
 - [Rafi Abro](https://github.com/mrabro)
@@ -211,6 +213,7 @@
 - [Harsh Vaswani] (https://github.com/harshva89)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
+- [John Sanchez](https://github.com/johnmarion1126)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Tobias Larysch](https://github.com/tlary)
 - [Mobaork Hossain] (https://github.com/mobaarok)
@@ -724,6 +727,7 @@
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
 - Samantha Milliga
+-[Puzant Bakjejian](https://github.com/puzant)
 - Kalp Vyas
 - Furkan Calik
 - [Shubham-Vishwakarma](https://github.com/Shubham-Vishwakarma)
@@ -2772,6 +2776,7 @@
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Ishaan Singhal]
 - [Sam Debatin]
+- [Mateo Bukas](https://github.com/MateoBukas)
 - [Amy Nelson](https://github.com/arrmkr)
 - [Ziad Ahsani](https://github.com/ziad696)
 - [Serge Nino Martin Villasica](https://github.com/crjacinro)
@@ -10975,3 +10980,6 @@
 - [Kayode Adetayo](https://github.com/bubykay)
 - [Evie Vanderveer](https://github.com/eviebat)
 - [Tanishq Kumar](https://github.com/tanishq20)
+- [Hlaing Min Than](https://github.com/hlaingminthan)
+- [GoGstickGo](https://github.com/GoGstickGo)
+- [fayaz-ui](https://github.com/fayaz-ui)
