@@ -212,6 +212,7 @@ Gavriel Frant
 - [Harsh Vaswani] (https://github.com/harshva89)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
 - [Lindarong](https://github.com/Lindarong29)
+- [John Sanchez](https://github.com/johnmarion1126)
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Tobias Larysch](https://github.com/tlary)
 - [Mobaork Hossain] (https://github.com/mobaarok)
