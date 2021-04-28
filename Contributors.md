@@ -329,6 +329,7 @@ Gavriel Frant
 - [Ivan Setiawan_Indonesia] (https://github.com/navivanuva)
 - [Mazhar Ali Khan 🔥](https://github.com/mazharwhite)
 - [Divakar Rana](https://github.com/divakarrana)
+- [Fernando Flores](https://github.com/JFernando122)
 - [Daniel Schjetne](https://github.com/danielschjetne/)
 - [Scott Payne](https://github.com/scottwtpayne)
 - [Kevin Dormer](https://github.com/krdormer)
