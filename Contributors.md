@@ -725,6 +725,7 @@ Berliana
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
 - Samantha Milliga
+-[Puzant Bakjejian](https://github.com/puzant)
 - Kalp Vyas
 - Furkan Calik
 - [Shubham-Vishwakarma](https://github.com/Shubham-Vishwakarma)
