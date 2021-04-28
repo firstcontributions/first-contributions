@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[]()
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Dawn Kelly](https://github.com/dawnkelly09)
@@ -2774,6 +2774,7 @@ Berliana
 - [Sanya Ramchandani](https://github.com/sanu-coder/first-contributions.git)
 - [Ishaan Singhal]
 - [Sam Debatin]
+- [Mateo Bukas](https://github.com/MateoBukas)
 - [Amy Nelson](https://github.com/arrmkr)
 - [Ziad Ahsani](https://github.com/ziad696)
 - [Serge Nino Martin Villasica](https://github.com/crjacinro)
