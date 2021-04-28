@@ -10983,3 +10983,4 @@ Marica Marian
 - [Tanishq Kumar](https://github.com/tanishq20)
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
+- [fayaz-ui](https://github.com/fayaz-ui)
