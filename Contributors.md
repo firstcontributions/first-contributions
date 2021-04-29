@@ -83,6 +83,7 @@ Gavriel Frant
 - [Poojan Patel] (https://github.com/Berlin-34)
 - Roneal Denila
 - [Roberto Antoniello](https://github.com/mastercruelty)
+- [Ajay Varma](https://github.com/ajay28varma)
 - Victor Mendez (https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
 - Sai Prahas
@@ -10994,3 +10995,4 @@ Marica Marian
 - [Francesco Cesareo](https://github.com/aomegax)
 - [Talha Mucurlu](https://github.com/talhamucurlu)
 - [Ryan Taylor](https://github.com/ryant109)
+- [James Scruggs](https://github.com/jescruggs)
