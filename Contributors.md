@@ -10991,3 +10991,4 @@ Marica Marian
 - [fayaz-ui](https://github.com/fayaz-ui)
 - [Manuel Ramirez](https://github.com/idelta777)
 - [Francesco Cesareo](https://github.com/aomegax)
+- [Talha Mucurlu](https://github.com/talhamucurlu)
