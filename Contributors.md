@@ -10990,3 +10990,4 @@ Marica Marian
 - [GoGstickGo](https://github.com/GoGstickGo)
 - [fayaz-ui](https://github.com/fayaz-ui)
 - [Manuel Ramirez](https://github.com/idelta777)
+- [Francesco Cesareo](https://github.com/aomegax)
