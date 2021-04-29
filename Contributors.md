@@ -12,7 +12,7 @@
 -[Aastha Shukla](https://github.com/aastha1910)
 -[Ishaan Jain](https://github.com/ishaan14112000)
 -[Yuv](https://github.com/yuvsust)
-Gavriel Frant
+-[Gavriel Frant]
 
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
@@ -20,7 +20,7 @@ Gavriel Frant
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Abin P Jacob](https://github.com/abinpj)
-- Prathima Kadari
+- [Prathima Kadari]
 - [Luhit Atluri](https://github.com/luhit729)
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
@@ -80,11 +80,11 @@ Gavriel Frant
 - [Jon Ryan] (https://github.com/JayRyee)
 - [Adrian Marquis] (https://github.com/schism578)
 - [Poojan Patel] (https://github.com/Berlin-34)
-- Roneal Denila
+- [Roneal Denila]
 - [Roberto Antoniello](https://github.com/mastercruelty)
-- Victor Mendez (https://github.com/VMMF)
+- [Victor Mendez](https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
-- Sai Prahas
+- [Sai Prahas]
   [Wendell Hatcher](https://github.com/whatcher1074)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Alfidaa Alkhan](https://github.com/Alfidaalk)
@@ -104,7 +104,7 @@ Gavriel Frant
 - [Ansh Kashyap](https://github.com/anshrk)
 - [Dudu Gvili](https://github.com/dudugvili)
 - [Anna Seriakova] (https://github.com/Arien36)
--	[hmdz](https://github.com/hmdz105)
+- [hmdz](https://github.com/hmdz105)
 - [George Peden](https://github.com/gpeden)
 - [Eric Dahlgren](https://github.com/eriyc)
 - [Raghav Mehrotra](https://github.com/raghav-max)
@@ -184,7 +184,7 @@ Gavriel Frant
 - [Alok Gupta](https://github.com/gupta-alok)
 - [Paul King](ttps://github.com/paulvmking)
 - [Neka Blair](https://github.com/istoga)
--[Saugat Rajbhandari](https://github.com/saugatrajbhandari)
+- [Saugat Rajbhandari](https://github.com/saugatrajbhandari)
 - [Daffa Akram] (https://github.com/undisputedgoose)
 - [polin-x](https://github.com/polin-x) 
 - [SummerisleSongs](https://github.com/SummerisleSongs)
@@ -269,22 +269,22 @@ Gavriel Frant
 - [Chang Wei] (https://github.com/ochowei)
 - [Prateek Pradhan](https://github.com/Prateek-2001)
   [Dawum Nam](https://github.com/dawumnam)
-- John John
-- Prithvi
-- EternalBlu
-- Punit khandelwal
--VidishaTindolia
--Dev Kumar(https://github.com/techydev)
+- [John John]
+- [Prithvi]
+- [EternalBlu]
+- [Punit khandelwal]
+- [VidishaTindolia]
+- [Dev Kumar(https://github.com/techydev)
 - [Heidi Ran] (https://github.com/HDR128)
-- SH Park
-- anatole9
+- [SH Park]
+- [anatole9]
 - [Luke EJH] (https://github.com/luke-ejh)
-- Woo Hyuk Chang
-- Lauren Hatfield
-- Anshuman Singh
+- [Woo Hyuk Chang]
+- [Lauren Hatfield]
+- [Anshuman Singh]
 - [Roshan Kumar] (https://github.com/roshan1895)
-- Hamish James
-- Shivaranjan Raghuraman
+- [Hamish James]
+- [Shivaranjan Raghuraman]
 - [Charmaine] (https://github.com/cdacones)
 - Fridolin Paiki
 - [Wade Hann-Caruthers] (https://github.com/whanncar)
@@ -292,10 +292,10 @@ Gavriel Frant
 - [Jakob Johnson] (https://github.com/jakobJohnsonJS)
 - [Harika Duyu](https://github.com/harikaduyu)
 - [Dave Hillman](https://github.com/dhillman1989)
-- Torda Ladomérszky
-- Isaiah Whitfield
-- Aditi Oak
-- Sean (https://github.com/Everythongs)
+- [Torda Ladomérszky]
+- [Isaiah Whitfield]
+- [Aditi Oak]
+- [Sean (https://github.com/Everythongs)
 - [Nevin Mathews Kuruvilla] (https://github.com/NevinTroy)
 - [Stalin Maza](https://github.com/StalinMazaEpn) 🧐💻🇪🇨
 - [Ogbuike cheta] (https://github.com/ogb-daniel)
@@ -364,9 +364,9 @@ Gavriel Frant
 - [avalool]
 - [Parth Nanda](https://github.com/parthn2)
 - [Dvir Abecassis](https://github.com/Dvir-A)
-- Tiga
-- Matías Thiele
-- Avinash Nair (https://github.com/avinair108)
+- [Tiga]
+- Matías Thiele]
+- [Avinash Nair] (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
 - [Matic Šuc](https://github.com/maticsuc)
 - [Luvdipsingh Dadiyala](https://github.com/ldsir01)
