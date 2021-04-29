@@ -10994,3 +10994,4 @@ Marica Marian
 - [Manuel Ramirez](https://github.com/idelta777)
 - [Francesco Cesareo](https://github.com/aomegax)
 - [Talha Mucurlu](https://github.com/talhamucurlu)
+- [James Scruggs](https://github.com/jescruggs)
