@@ -1,6 +1,8 @@
 # Contributors
 
 - []()
+- [xMdb](https://github.com/xMdb)
+- [zowhair](https://github.com/zowhair)
 - [Tomaz Mazej](https://github.com/TomazMazej)
 - [Dawn Kelly](https://github.com/dawnkelly09)
 - [Chirag Madaan](https://github.com/chirag-madaan)
@@ -11,6 +13,7 @@
 - [Aman Verma](https://github.com/amnvrma)
 - [Aastha Shukla](https://github.com/aastha1910)
 - [Ishaan Jain](https://github.com/ishaan14112000)
+- [Yuv](https://github.com/yuvsust)
 - Gavriel Frant
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
@@ -50,6 +53,7 @@
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
+- [Derek DeMedeiros](https://github.com/derekdemed)
 - [Punith P](https://github.com/darcangell)
 - [Louay Oudi](https://github.com/Maokli)
 - [Rui Xu](https://github.com/superXR)
@@ -10983,3 +10987,6 @@
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
 - [fayaz-ui](https://github.com/fayaz-ui)
+- [Manuel Ramirez](https://github.com/idelta777)
+- [Francesco Cesareo](https://github.com/aomegax)
+- [Talha Mucurlu](https://github.com/talhamucurlu)
