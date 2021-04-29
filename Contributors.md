@@ -51,6 +51,7 @@ Gavriel Frant
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
+- [Derek DeMedeiros](https://github.com/derekdemed)
 - [Punith P](https://github.com/darcangell)
 - [Louay Oudi](https://github.com/Maokli)
 - [Rui Xu](https://github.com/superXR)
