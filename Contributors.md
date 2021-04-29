@@ -10988,3 +10988,4 @@ Marica Marian
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
 - [fayaz-ui](https://github.com/fayaz-ui)
+- [Manuel Ramirez](https://github.com/idelta777)
