@@ -27,6 +27,7 @@ Gavriel Frant
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Vimal M](https://github.com/vimalprogrammer/)
+- [Eke Victor](https://github.com/Evavic44)
 - [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
