@@ -1,5 +1,7 @@
 ﻿# Contributors
 -[]()
+
+-[Nisarga Gotekar](https://github.com/nisargagotekar)
 -[xMdb](https://github.com/xMdb)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
