@@ -10995,3 +10995,4 @@ Marica Marian
 - [Francesco Cesareo](https://github.com/aomegax)
 - [Talha Mucurlu](https://github.com/talhamucurlu)
 - [James Scruggs](https://github.com/jescruggs)
+- [Deddy Romnan](https://github.com/deddyromnan)
