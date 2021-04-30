@@ -46,6 +46,7 @@ Gavriel Frant
 - [0Ams](https://github.com/0ams)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
+- [Umut Gazi BAŞAL](https://github.com/basalumutgazi)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Sampath Rachumallu] (https://github.com/sampath97)
