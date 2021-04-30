@@ -26,6 +26,7 @@ Gavriel Frant
 - [Luhit Atluri](https://github.com/luhit729)
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
+- [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [Eke Victor](https://github.com/Evavic44)
 - [Peter Laughlin](https://github.com/plaughlin98)
