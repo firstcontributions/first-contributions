@@ -102,6 +102,7 @@ Gavriel Frant
 - [CryptoD](https://github.com/CryptoD)
 - [Amritanshu Joshi](https://github.com/amritanshujoshi)
 - [Karamala Om Rohith](https://github.com/RohithKumar1368)
+- [Razeed](https://github.com/j-razeed)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
