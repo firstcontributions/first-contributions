@@ -217,6 +217,7 @@ Gavriel Frant
 - [Jonathan Ta](https://github.com/jhta2000)
 - [Jenis J](https://github.com/Zeavz)
 - [Georgios_Zervakis]
+- [szaka](https://github.com/szaka)
 - [Joan Njuguna](https://github.com/joancodes)
 - [Harsh Vaswani] (https://github.com/harshva89)
 - [Prithvi Rana] (https://github.com/PrithviRana1)
