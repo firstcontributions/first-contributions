@@ -3,6 +3,7 @@
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - Roneal Denila
+- [Jason Araya Solano](https://github.com/jason8496as)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
