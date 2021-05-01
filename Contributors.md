@@ -1,4 +1,6 @@
 ﻿# Contributors
+
+- [Jenny Chin](https://github.com/ChinJenny)
 -[]()
 -[xMdb](https://github.com/xMdb)
 -[zowhair](https://github.com/zowhair)
