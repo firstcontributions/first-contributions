@@ -7,6 +7,7 @@
 -[Dawn Kelly](https://github.com/dawnkelly09)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
+-[Marco Orsini](https://github.com/anemon-ai)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Kayode Omolaoye](https://github.com/kayusgold)
