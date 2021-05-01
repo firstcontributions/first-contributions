@@ -1,5 +1,6 @@
 ﻿# Contributors
 -[]()
+-[Smarth Mangla](https://github.com/smarthmangla)
 -[xMdb](https://github.com/xMdb)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
