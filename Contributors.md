@@ -3215,6 +3215,7 @@ Berliana
 - [Yashvardhan Goel](https://github.com/Yash1909)
 - [Rishu Kumar](https://github.com/Logan7282)
 - [Tanishq Sharma](https://github.com/Tanishq4331)
+- [Utkarsh](https://github.com/utkarsh2290)
 - [Abhijit Roy](https://github.com/EmberCS15)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Alejandro Olaria AKA Alo Slim](https://github.com/aolaria/)
