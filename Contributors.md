@@ -67,6 +67,7 @@ Gavriel Frant
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
 - [Samuel Adesoye] (https://github.com/Folami-kun)
+- [Saad Shoaib] (https://github.com/SaadShoaib)
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Aayush Jain](https://github.com/aayushjain7)
 - [Anish M](https://github.com/Anish-m-code)
