@@ -183,6 +183,7 @@ Gavriel Frant
 - [Bradley Fusting] (https://github.com/bfusting)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
+- [Roni Eppstein](https://github.com/roniepp)
 - [Dagon Lee](https://github.com/dagonlee)
 - [Cho Sangmuk](https://github.com/ChoSangmuk)
 - [Marouane Mouloue](https://github.com/marouanemouloue)
