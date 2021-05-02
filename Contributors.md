@@ -3,6 +3,7 @@
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[xMdb](https://github.com/xMdb)
+-[Richa Singh](https://github.com/Richa-09)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[aj7t] (https://github.com/Aj7t/)
