@@ -2666,6 +2666,7 @@ Berliana
 - [moryama](https://gitlab.com/moryama)
 - [Dani0406](https://github.com/Dani0460)
 - [Jinal Patel](https://github.com/Jinal7599)
+- [Roshan Patel](https://github.com/roshanpatell)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [David Montemayor](https://github.com/DavidAlMove)
 - [Jazael Briones](https://github.com/jazaelbriones)
