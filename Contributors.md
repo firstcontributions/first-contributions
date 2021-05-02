@@ -1944,6 +1944,7 @@ Berliana
 - Pallavi Dhotre
 - [AnimeshRamasami](https://github.com/Ani1000)
 - [Heather Piverotto](https://github.com/Heather1337)
+- [Abdurrehman Afridi](https://github.com/therealabdi2)
 - [Harjot Singh](https://github.com/harjotkarwal)
 - [Paul Killian](https://github.com/PaulKillian)
 - [Kaustubh Verma](https://github.com/mekaustubh28)
