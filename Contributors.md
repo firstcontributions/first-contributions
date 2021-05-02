@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 -[]()
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[xMdb](https://github.com/xMdb)
@@ -11020,3 +11020,4 @@ Marica Marian
 - [Shumorkin Ilya](https://github.com/shumorkiniv)
 - [scfede](https://github.com/scfede)
 - [iamtbc](https://github.com/iamtbc)
+- [ran](https://github.com/skyan1278)
