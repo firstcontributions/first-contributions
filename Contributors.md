@@ -1,6 +1,7 @@
 # Contributors
 -[]()
 -[Smarth Mangla](https://github.com/smarthmangla)
+-[Dima Zimin](https://github.com/DimaZimin)
 -[xMdb](https://github.com/xMdb)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
