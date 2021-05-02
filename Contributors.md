@@ -1,11 +1,14 @@
-﻿# Contributors
+# Contributors
 -[]()
+-[Smarth Mangla](https://github.com/smarthmangla)
 -[xMdb](https://github.com/xMdb)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
+-[aj7t] (https://github.com/Aj7t/)
 -[Dawn Kelly](https://github.com/dawnkelly09)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
+-[Marco Orsini](https://github.com/anemon-ai)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Kayode Omolaoye](https://github.com/kayusgold)
@@ -14,6 +17,7 @@
 -[Aastha Shukla](https://github.com/aastha1910)
 -[Ishaan Jain](https://github.com/ishaan14112000)
 -[Yuv](https://github.com/yuvsust)
+-[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
 
 - [John Louise](https://github.com/john)
@@ -54,6 +58,7 @@ Gavriel Frant
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Daniel Armas](https://github.com/daniel692a)
 - [Nathan Sindres](https://github.com/nasdev-cmd)
+- [Pulkit Ranjan](https://github.com/pulkit2910-bit)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
@@ -107,6 +112,7 @@ Gavriel Frant
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
+- [Jack Mulligan](https://github.com/jackmulligan-ire/)
 - [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
@@ -177,6 +183,7 @@ Gavriel Frant
 - [Bradley Fusting] (https://github.com/bfusting)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [sancodes](https://github.com/sancodes)
+- [Roni Eppstein](https://github.com/roniepp)
 - [Dagon Lee](https://github.com/dagonlee)
 - [Cho Sangmuk](https://github.com/ChoSangmuk)
 - [Marouane Mouloue](https://github.com/marouanemouloue)
@@ -1895,6 +1902,7 @@ Berliana
 - [Castic Jehin](https://github.com/jehincastic/)
 - [Pragati Bansal](https://github.com/pragx12)
 - [Benjamin Van Cise](https://github.com/BenjaminVC)
+- [Samuel Anozie](https://github.com/samcoded)
 - [Divyesh P K](https://github.com/pkdiv)
 - [Shravan A J](https://github.com/ShravanCool)
 - [Andrew Turner](https://github.com/TurnerAndrew)
@@ -2660,6 +2668,7 @@ Berliana
 - [moryama](https://gitlab.com/moryama)
 - [Dani0406](https://github.com/Dani0460)
 - [Jinal Patel](https://github.com/Jinal7599)
+- [Roshan Patel](https://github.com/roshanpatell)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [David Montemayor](https://github.com/DavidAlMove)
 - [Jazael Briones](https://github.com/jazaelbriones)
@@ -3215,6 +3224,7 @@ Berliana
 - [Yashvardhan Goel](https://github.com/Yash1909)
 - [Rishu Kumar](https://github.com/Logan7282)
 - [Tanishq Sharma](https://github.com/Tanishq4331)
+- [Utkarsh](https://github.com/utkarsh2290)
 - [Abhijit Roy](https://github.com/EmberCS15)
 - [Lachlan Mckelvie](https://github.com/Lachiemckelvie/)
 - [Alejandro Olaria AKA Alo Slim](https://github.com/aolaria/)
@@ -7471,6 +7481,7 @@ Jairo Martinez
 - [xwind-h](https://github.com/xwind-h)
 - [risingsmoke](https://github.com/risingsmoke)
 - [Stephane Le Port](https://github.com/stleport)
+- [Matthias Walz] (https://github.com/matthias-walz)
 - [Jed Mijares](https://github.com/jedmijares)
 - [Zen Chong Lit Wei](https://github.com/lordzizzy)
 - [Ashok Kumar](https://github.com/ashokkumar)
@@ -10769,6 +10780,7 @@ https://github.com/franzk
 - [Jake Z](https://github.com/EsuFeDia)
 - Harshit
 Marica Marian
+- [Bhavya B](https://github.com/Bhavya-Budhia)
 - [Emil M](https://github.com/znibblol)
 -[iddimsangi](https://github.com/iddimsangi)
 - Hassan Abdulrahman
@@ -11010,4 +11022,7 @@ Marica Marian
 - [Deddy Romnan](https://github.com/deddyromnan)
 - [Shumorkin Ilya](https://github.com/shumorkiniv)
 - [scfede](https://github.com/scfede)
+- [iamtbc](https://github.com/iamtbc)
+- [ran](https://github.com/skyan1278)
+[Jack Mulligan] (https://github.com/jackmulligan-ire)
 - [josepardo](https://github.com/sevijey)
