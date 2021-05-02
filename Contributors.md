@@ -11024,4 +11024,3 @@ Marica Marian
 - [scfede](https://github.com/scfede)
 - [iamtbc](https://github.com/iamtbc)
 - [ran](https://github.com/skyan1278)
-[Jack Mulligan] (https://github.com/jackmulligan-ire)
