@@ -36,6 +36,7 @@ Gavriel Frant
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [Eke Victor](https://github.com/Evavic44)
+- [ahcodes](https://github.com/ahcodes)
 - [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
