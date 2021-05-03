@@ -11038,6 +11038,7 @@ Marica Marian
 - [Deddy Romnan](https://github.com/deddyromnan)
 - [Shumorkin Ilya](https://github.com/shumorkiniv)
 - [scfede](https://github.com/scfede)
+- [veagir](https://github.com/veagir)
 - [iamtbc](https://github.com/iamtbc)
 - [ran](https://github.com/skyan1278)
 [Jack Mulligan] (https://github.com/jackmulligan-ire)
