@@ -1,5 +1,6 @@
 # Contributors
 -[]()
+-[Xu Wenrui](https://github.com/loser-man)
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[xMdb](https://github.com/xMdb)
