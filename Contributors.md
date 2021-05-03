@@ -23,7 +23,7 @@
 -[Yuv](https://github.com/yuvsust)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
-
+- [Dhruv Jimulia](https://github.com/dhruvjimulia-sys)
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
