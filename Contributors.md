@@ -2895,6 +2895,7 @@ Berliana
 - [Firman Hadi](https://github.com/eternalsec)
 - [Sajida Palagiri](https://github.com/sajidapalagiri)
 - [CR Rollyson](https://github.com/crrollyson)
+- [Demilade](https://github.com/d-sonuga)
 - [Vishal Ambavade](https://github.com/VishalAmbavade)
 - [Muskan Duseja](https://github.com/muskan2729)
 - [Shreya Mukherjee](https://github.com/Shreya57)
