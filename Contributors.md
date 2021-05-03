@@ -8639,6 +8639,7 @@ Jairo Martinez
 - [BoujieRolls](https://github.com/boujierolls)
 - [Nugie_Miko](https://github.com/nugiemiko)
 - [Gain John](https://github.com/dhaxor)
+- [Harold Hanson](https://github.com/HaroldEHanson)
 - [Sanjeev Choudhary](https://github.com/snjv9)
 - [Ronard Luna](https://github.com/rlgerman25)
 - [Michael Hall](https://github.com/mah51)
