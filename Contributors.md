@@ -139,6 +139,7 @@ Gavriel Frant
 - [Seth Lewandowski](https://github.com/sethlewandowski)
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [William Zhang Sam](https://github.com/willzs03)
+- [Ofek Avrahami](https://github.com/ofek29)
 - [WIDJAJA Raymond](https://github.com/Raymondrz)
 - [Ashish Bhatt](https://github.com/ashofphoenix)
 - [Frederick Williams](https://github.com/Fredz1)
