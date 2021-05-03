@@ -3378,6 +3378,7 @@ Berliana
 - Labody
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Archana Singh](https://github.com/archana-1209)
+- [Zannih](https://github.com/Zannih)
 - [Ricardo Escobedo](https://github.com/ricardoesc25)
 - [Vedant Chourasia](https://github.com/vc8006)
 - [Michael Armani](https://github.com/armanimichael)
