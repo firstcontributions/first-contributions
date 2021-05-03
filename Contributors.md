@@ -33,6 +33,7 @@ Gavriel Frant
 - [Abin P Jacob](https://github.com/abinpj)
 - Prathima Kadari
 - [Luhit Atluri](https://github.com/luhit729)
+  [Abhipriya Bhattacharya] (https://github.com/abhipriya-gif)
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
