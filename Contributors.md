@@ -712,6 +712,7 @@ Berliana
 - [Gregory Holder](https://github.com/blueted2)
 - [Alka Das](https://github.com/AlkaDas991)
 - [Jacob Newton](https://github.com/jnewtonb)
+- Colton Manora
 - Manav Wadhawan
 - Dvir Berlo
 - Rakin Rahman
