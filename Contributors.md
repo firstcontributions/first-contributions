@@ -11035,3 +11035,4 @@ Marica Marian
 - [ran](https://github.com/skyan1278)
 [Jack Mulligan] (https://github.com/jackmulligan-ire)
 [Yusuf Adel](https://yusufadell.github.io)
+- [Jose Pardo](https://github.com/sevijey)
