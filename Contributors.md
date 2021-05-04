@@ -654,6 +654,7 @@ Berliana
 - [Kis9a](https://github.com/kis9a)
 - [Alex Ilyin](https://github.com/ilyin0)
 - Jeremy
+- Miguel 
 - Trise Ne
 - [Ryan Hiller](https://github.com/RyanHiller)
 - [Vikrant]
