@@ -4,6 +4,7 @@
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Aditi](https://github.com/SavageSanta11)
 -[Dima Zimin](https://github.com/DimaZimin)
+-[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
 -[xMdb](https://github.com/xMdb)
 -[Richa Singh](https://github.com/Richa-09)
