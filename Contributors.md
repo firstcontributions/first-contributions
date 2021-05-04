@@ -28,7 +28,7 @@
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
-
+-[Anthony Keel](https://github.com/Anthony-Keel)
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
