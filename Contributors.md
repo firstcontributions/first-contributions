@@ -12,7 +12,6 @@
 -[aj7t] (https://github.com/Aj7t/)
 -[AbhijayJ] (https://github.com/AbhijayJ)
 -[Dawn Kelly](https://github.com/dawnkelly09)
--[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
@@ -25,6 +24,7 @@
 -[Aastha Shukla](https://github.com/aastha1910)
 -[Ishaan Jain](https://github.com/ishaan14112000)
 -[Yuv](https://github.com/yuvsust)
+-[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
 
