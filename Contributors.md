@@ -79,6 +79,7 @@ Gavriel Frant
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
 - [Derek DeMedeiros](https://github.com/derekdemed)
+- [cirge373](https://github.com/cirge373)
 - [Kapil Motwani](https://github.com/motwanikapil)
 - [Punith P](https://github.com/darcangell)
 - [Louay Oudi](https://github.com/Maokli)
