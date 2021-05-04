@@ -89,6 +89,7 @@ Gavriel Frant
 - [Saad Shoaib] (https://github.com/SaadShoaib)
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Aayush Jain](https://github.com/aayushjain7)
+- [G v d l](https://github.com/GVLee/first-contributions)
 - [Anish M](https://github.com/Anish-m-code)
 - [Anthony Coudène](https://github.com/acoudene)
 - [Marco Costa](https://github.com/marcocosta1618)
