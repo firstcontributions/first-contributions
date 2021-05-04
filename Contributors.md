@@ -9705,6 +9705,7 @@ Jairo Martinez
 - [Vedant Satpute](https://github.com/vicinalv)
 - [Lav Senghani](https://github.com/lavlife06)
 - [xFreezesx](https://github.com/xFreezesx)
+  [BrennanjH](https://github.com/BrennanjH)
 - [Elisa Alvarez](https://github.com/Elisa-Alvarez)
 - [Ilham Riana](https://github.com/lhmrnfrzrfr)
 - [Andreas Nandiwardhana](https://github.com/andreasnw)
