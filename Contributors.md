@@ -286,6 +286,7 @@ Gavriel Frant
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
 - [Ekaterina Golovanova] (https://github.com/EkaterinaGolovanova)
 - [Xxgzbd](https://github.com/zhongmz)
+- [Nicholas Pally] (https://github.com/npally)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
 - [Drew Bayles] (https://github.com/dtbayles)
