@@ -137,6 +137,7 @@ Gavriel Frant
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Alekya Kowta](https://github.com/AlekyaKowta)
 - [Ane S]
+- [Anmol]
 - [Brunda B R]
 - [Alok Paidalwar]
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
