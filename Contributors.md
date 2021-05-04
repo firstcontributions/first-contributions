@@ -2,7 +2,7 @@
 -[]()
 -[Xu Wenrui](https://github.com/loser-man)
 -[Smarth Mangla](https://github.com/smarthmangla)
--[Aditi K](https://github.com/SavageSanta11)
+-[Aditi](https://github.com/SavageSanta11)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[xMdb](https://github.com/xMdb)
 -[Richa Singh](https://github.com/Richa-09)
