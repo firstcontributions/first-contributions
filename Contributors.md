@@ -61,6 +61,7 @@ Gavriel Frant
 - [Farhan Ali Rahmoon](https://github.com/FarhanRah)
 - [Keerat Kaur Guliani](https://github.com/KeeratKG)
 - [0Ams](https://github.com/0ams)
+- [Tyler Marlow](https://github.com/Tmarlow98)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
 - [Umut Gazi BAŞAL](https://github.com/basalumutgazi)
