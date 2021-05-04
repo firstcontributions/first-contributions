@@ -7,6 +7,7 @@
 -[Richa Singh](https://github.com/Richa-09)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
+-[Krishna Soundararajan](https://github.com/krishna2793)
 -[aj7t] (https://github.com/Aj7t/)
 -[AbhijayJ] (https://github.com/AbhijayJ)
 -[Dawn Kelly](https://github.com/dawnkelly09)
