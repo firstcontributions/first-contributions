@@ -24,6 +24,7 @@
 -[Aastha Shukla](https://github.com/aastha1910)
 -[Ishaan Jain](https://github.com/ishaan14112000)
 -[Yuv](https://github.com/yuvsust)
+-[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
 
