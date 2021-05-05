@@ -152,6 +152,7 @@ Gavriel Frant
 - [Alok Paidalwar]
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
+- [Lara Samuelson](https://github.com/LaraDei)
 - [Seth Lewandowski](https://github.com/sethlewandowski)
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [William Zhang Sam](https://github.com/willzs03)
