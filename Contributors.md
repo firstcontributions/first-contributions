@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 -[]()
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Xu Wenrui](https://github.com/loser-man)
@@ -20,6 +20,7 @@
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
 -[Didier Munezero](https://github.com/didiermunezero)
+-[Devin Carter] (https://github.com/DevAranCarter)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Kayode Omolaoye](https://github.com/kayusgold)
 -[Luis Leguizamon](https://github.com/LuisLeguizamon)
