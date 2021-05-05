@@ -32,7 +32,7 @@
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
-
+-[Harshil Jani] (https://github.com/Harshil-Jani);
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 -[Madhuri reddy](https://github.com/Madhurireddy1)
 - [John Louise](https://github.com/john)
