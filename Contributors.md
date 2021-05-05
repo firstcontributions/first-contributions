@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 -[]()
+-[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Aditi](https://github.com/SavageSanta11)
