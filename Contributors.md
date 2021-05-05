@@ -644,6 +644,7 @@ Berliana
 - Daniel Cerqueira
 - Gabriel Antal
 - N.M.
+- Bern
 - [Peter Ime](https://github.com/PeroHub)
 - Koua Thao
 - [Savio Magalhaes Fernandes] (https://github.com/Oivasmf)
