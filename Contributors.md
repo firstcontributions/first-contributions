@@ -3909,6 +3909,7 @@ Jairo Martinez
 - [Siva Kondubhatla](https://github.com/SivaKondubhatla)
 - [Ali Hayder](http://ahayder.me)
 - [Deril]
+- [Pierre Franckx](https://github.com/ahumahum)
 - [Jason Beaver](https://github.com/LeaveItToBeaver)
 - [Lois Choji](https://github.com/LoisChoji)
 - [Mehul Sharma](https://github.com/BruceWayne733)
