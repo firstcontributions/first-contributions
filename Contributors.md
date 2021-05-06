@@ -4794,6 +4794,7 @@ Jairo Martinez
 - [Brian Loveless 👽 🖖](https://github.com/BrianLoveGa)
 - [Brandt Campbell](https://github.com/Reboot82)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
+- [bergius](https://github.com/bergius)
 - [Parthiban P] (https://github.com/parthi-rp)
 - [Sandra Bohrer](https://github.com/sandrabohrer)
 - [Harshith Venkatesh](https://github.com/Harshi7016)
