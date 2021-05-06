@@ -10517,6 +10517,7 @@ Jairo Martinez
 - [Rizwan](https://github.com/cr440)
 - [Shamil Gemuev](https://github.com/NobleBumblebee)
 - [Akshith](https://github.com/souledone)
+- Mircea Radu Vlad
 - HeadYak
 - zack
 - James Crawf
