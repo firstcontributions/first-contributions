@@ -45,6 +45,7 @@ Gavriel Frant
 - Prathima Kadari
 - [Luhit Atluri](https://github.com/luhit729)
   [Abhipriya Bhattacharya] (https://github.com/abhipriya-gif)
+- [Rosh Kruv]( https://github.com/roshKruv)
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
