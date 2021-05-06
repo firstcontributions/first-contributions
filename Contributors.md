@@ -339,6 +339,7 @@ Gavriel Frant
 - Torda Ladomérszky
 - Isaiah Whitfield
 - Aditi Oak
+- [ChanBan] (https://github.com/gmkado)
 - Miqotes (https://github.com/Miqotes)
 - Sean (https://github.com/Everythongs)
 - [Nevin Mathews Kuruvilla] (https://github.com/NevinTroy)
