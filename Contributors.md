@@ -53,6 +53,7 @@ Gavriel Frant
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [Eke Victor](https://github.com/Evavic44)
+- [Ema S]()
 - [ahcodes](https://github.com/ahcodes)
 - [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
@@ -953,6 +954,7 @@ Berliana
 - Elad Moshe
 - [Faruk Şimşekli](https://github.com/faruksimsekli)
 - Safiya B.
+- Ema S.
 - Alexander O'Brien
 - [Wanda Evans](https://github.com/derpwanda)
 - [Samrath](https://github.com/samrath-sudesh-acharya)
