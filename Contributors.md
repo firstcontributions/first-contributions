@@ -24,7 +24,7 @@ Gavriel Frant
 - [Abin P Jacob](https://github.com/abinpj)
 - Prathima Kadari
 - [Luhit Atluri](https://github.com/luhit729)
--[siddhesh jungade](https://github.com/siddheshJungade)
+- [siddhesh jungade](https://github.com/siddheshJungade)
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Vimal M](https://github.com/vimalprogrammer/)
