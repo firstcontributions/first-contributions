@@ -1252,6 +1252,7 @@ Berliana
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
 - [Brandon G](https://github.com/brandonganeko)
 - [Ayush Jain](https://github.com/jain18ayush)
+- [Jake Armstrong](https://github.com/jakemarmstrong0402)
 - [Brian Khai](https://github.com/BrianKhai)
 - [Robert Ngabo](https://github.com/ngaboindev)
 - [CodyArnholt](https://github.com/TromboneMoose)
