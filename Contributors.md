@@ -6,6 +6,7 @@
 -[Smarth Mangla](https://github.com/smarthmangla)
 [Colleen Hayes] (https://github.com/cahayes12/)
 -[Aditi](https://github.com/SavageSanta11)
+-[Suraj Fale](https://github.com/surajfale)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
