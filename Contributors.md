@@ -6140,6 +6140,7 @@ Jairo Martinez
 - [Simon Brumfield Jr](https://github.com/brumfields)
 - [Harshavardhan Yadala](https://github.com/yharsha)
 - [Praveen Gupta](https://github.com/Praveengupta1)
+- [Jude Vargas](https://github.com/judeman222)
 - [Balraj Momi](https://github.com/CWide-Solutions)
 - [Sriharsha MVS](https://github.com/sriharshamvs)
 - New User
