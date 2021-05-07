@@ -145,6 +145,7 @@ Gavriel Frant
 - [Tirenioluwa Shobande]
 - [Jack Mulligan](https://github.com/jackmulligan-ire/)
 - [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
+- [Dev Chaudhary] (https://github.com/sudarshan-d-s)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
@@ -11088,6 +11089,7 @@ Marica Marian
 - [ran](https://github.com/skyan1278)
 [Jack Mulligan] (https://github.com/jackmulligan-ire)
 [Yusuf Adel](https://yusufadell.github.io)
+- [ Dev Chaudhary ](https://github.com/DevChaudhary78)
 - [roadrunner](https://github.com/roadrunner2012)
 - [Jose Pardo](https://github.com/sevijey)
 - [KimKim1023](https://github.com/KimKim1023)
