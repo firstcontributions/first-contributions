@@ -7447,6 +7447,7 @@ Jairo Martinez
 - [Saylee Pradhan](https://github.com/sayleepradhan)
 - [Mohamed Shiha](https://github.com/MohamedShiha)
 - [Paula aimar](https://github.com/Paula1415)
+- [Alex Friedman](https://github.com/SignetOHara)
 - [Alexandros Kalamaras](https://github.com/akalamaras)
 - [Raul Valdez](https://gitub.com/raulvaldez4)
 - [Aditya Rawat](https://github.com/brisingr24)
