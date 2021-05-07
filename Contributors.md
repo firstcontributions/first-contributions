@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
@@ -11076,6 +11076,7 @@ Marica Marian
 - [Omkar Jadhav](https://github.com/omkar342)
 - [Kayode Adetayo](https://github.com/bubykay)
 - [Evie Vanderveer](https://github.com/eviebat)
+P0nC1k
 - [Tanishq Kumar](https://github.com/tanishq20)
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
