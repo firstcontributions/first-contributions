@@ -23,6 +23,7 @@
 -[aj7t] (https://github.com/Aj7t/)
 -[AbhijayJ] (https://github.com/AbhijayJ)
 -[Dawn Kelly](https://github.com/dawnkelly09)
+-[Jaggehn S](https://github.com/jaggehns)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
