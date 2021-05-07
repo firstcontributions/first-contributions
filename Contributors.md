@@ -64,6 +64,7 @@ Gavriel Frant
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
 - [Rafi Abro](https://github.com/mrabro)
+- [Bajrektarevic Husein](https://github.com/b-husein)
 - [Deedee Banh](https://github.com/deedeebanh)
 - [Aman Chawla](https://github.com/AmanChawla7777)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
