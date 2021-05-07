@@ -3233,6 +3233,7 @@ Berliana
 - [Supiraru](https://github.com/Supiraru)
 - Sunny Kannaujiya
 - Jin Mori
+- [Ari Davar](https://github.com/arsalan-d)
 - [Leo Humphreys](https://github.com/Hubbit200)
 - [Nathan Beard](https://github.com/nbeard49)
 - [pankajKishorNeupaey](https://github.com/pankajKishorNeupaey)
