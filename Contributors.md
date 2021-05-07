@@ -1,5 +1,5 @@
 # Contributors
--[]()
+-[Nahid Faraji](https://github.com/Nahid570)
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Xu Wenrui](https://github.com/loser-man)
