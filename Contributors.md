@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
@@ -17,6 +18,7 @@
 -[Richa Singh](https://github.com/Richa-09)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
+-[Nicci O'Brien](https://github.com/NiccusO)
 -[Sachi Shah](https://github.com/sachishah08)
 -[Krishna Soundararajan](https://github.com/krishna2793)
 -[Andrew Paul] (https://https://github.com/helloandrewpaul)
