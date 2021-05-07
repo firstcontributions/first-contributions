@@ -330,6 +330,7 @@ elkhechafi zakaria
   [Dawum Nam](https://github.com/dawumnam)
 - John John
 - Prithvi
+- Satyam Gupta
 - EternalBlu
 - Punit khandelwal
 -VidishaTindolia
