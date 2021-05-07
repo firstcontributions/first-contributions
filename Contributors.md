@@ -1,6 +1,7 @@
 # Contributors
 -[]()
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
+-[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Smarth Mangla](https://github.com/smarthmangla)
