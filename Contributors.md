@@ -54,6 +54,7 @@ Gavriel Frant
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
+- [Edwin Kodjou](https://github.com/edk21)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [Eke Victor](https://github.com/Evavic44)
 - [ahcodes](https://github.com/ahcodes)
