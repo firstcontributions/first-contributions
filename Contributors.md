@@ -4338,7 +4338,7 @@ Jairo Martinez
 - [Konrad Hyzy](http://github.com/knrdhz)
 - [Joel B](https://github.com/j-brkr)
 - [Soumyadip Sarkar](https://github.com/soumya997)
-- [Vijendhar Rajannagari]()https://github.com/vrajannagari)
+- [Vijendhar Rajannagari](https://github.com/vrajannagari)
 - [André Carvalho](https://github.com/and2carvalho)
 - [Andrei Racasan](https://github.com/AndreiRacasan)
 - [Constantine Melios](https://github.com/constantineMelios)
