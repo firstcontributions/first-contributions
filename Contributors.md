@@ -6,7 +6,7 @@
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Smarth Mangla](https://github.com/smarthmangla)
-[Colleen Hayes] (https://github.com/cahayes12/)
+-[Colleen Hayes] (https://github.com/cahayes12/)
 -[Aditi](https://github.com/SavageSanta11)
 -[SinisaJO](https://github.com/SinisaJO)
 -[Suraj Fale](https://github.com/surajfale)
@@ -40,7 +40,7 @@
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
-
+- [Muhammad A Khalid](https://github.com/akhalid88)
 elkhechafi zakaria
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 -[Madhuri reddy](https://github.com/Madhurireddy1)
