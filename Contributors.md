@@ -440,6 +440,7 @@ elkhechafi zakaria
 - [Peter Ling] (http:..github.com/peter-ling)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
 - [MisterFowler]https://github.com/MisterFowler
+- [krishna](github.com/coder483)
 - [Shourya Srivastava](https://github.com/ShouryaSrivastava01)
 - [Dustin Ray](https://github.com/dustinjray)
 - [Roberto Castillo](https://github.com/castilloroberto)
@@ -1734,6 +1735,7 @@ elkhechafi zakaria
 - [Renan Cleyson](https://github.com/renancleyson-dev)
 - [Alejandro Carmona](https://github.com/carmonaalex12)
 - [Sylvain Empson](https://github.com/sylvain-01)
+- [Igor Asamadzinau](https://github.com/IgorCreator)
 - [Plikoener](https://github.com/Plikoener)
 - [Anubhav Sharma](https://github.com/anubhvshrma18)
 - [Cherie Wu](https://github.com/inspurwusixuan)
@@ -10645,6 +10647,7 @@ elkhechafi zakaria
 - [Nick Garza](https://github.com/adagar)
 - [Pinak Sawhney](https://github.com/pinaksawhney)
 - [tomjbradley](https://github.com/tomjbradley)
+- [Lucarine](https://github.com/Lucarine)
 - Joseph Tobing
 - [Spiros Stampoulis](https://github.com/SpirosStampoulis)
 - [Richard Totolo](https://github.com/souzatotolo)
