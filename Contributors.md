@@ -253,6 +253,7 @@ elkhechafi zakaria
 - [polin-x](https://github.com/polin-x) 
 - [SummerisleSongs](https://github.com/SummerisleSongs)
   [yssvr](https://github.com/YSSVR)
+  [Quincy Oghenetejiri](https://github.com/Te-Stack)
 - [Bashar Al-Fatly](https://github.com/basharalfatly)
 - [Alda Marrone](https://github.com/Aldina87)
 - [Missy Davies](https://github.com/missy-davies) 
