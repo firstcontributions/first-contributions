@@ -3282,7 +3282,6 @@ elkhechafi zakaria
 - [Santosh Selvasundar](https://github.com/santosh1997)
 - [Hema A](https://github.com/a-hema)
 - [Isaias](https://github.com/0strichKnight)
-- [Atishey Jain](https://github.com/atisheyJain03)
 - [Krishna Maringanty](https://github.com/KrishnaKavya)
 - Lorin Achey
 - Arpit Pawar
@@ -10449,7 +10448,6 @@ elkhechafi zakaria
 - [Tommy Swimmer](https://github.com/tommy-swimmer)
 - [Jessica Gillim](https://github.com/obstaclez)
 - [Marcos Spanholi](https://github.com/marcosspn)
-
 - [Aashish KC](https://github.com/kcaashish)
 - [Ebubekir Doğan](https://github.com/Ebu44)
 - [Ayush Bisht](https://github.com/ayushbisht2001)
@@ -10972,6 +10970,7 @@ sam_namiranian
 - [Nickolay Paramonov](https://github.com/doing-art)
 - [Adriel Randall](https://github.com/a-r97)
 - [08163182](https://github.com/08163182)
+- [Atishey Jain](https://github.com/atisheyJain03)
 - [Actalica](https://github.com/actalica)
 - [UncleMing](https://github.com/UncleMing6688)
 - [hello-jun](https://github.com/hello-jun)
