@@ -11,6 +11,7 @@
 [Colleen Hayes] (https://github.com/cahayes12/)
 -[Aditi](https://github.com/SavageSanta11)
 -[SinisaJO](https://github.com/SinisaJO)
+-[Badal Jha](https://github.com/Badal-Jha)
 -[Suraj Fale](https://github.com/surajfale)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[Arun Kothari] (https://github.com/arunkothari84)
