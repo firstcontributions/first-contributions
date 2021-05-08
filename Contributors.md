@@ -16,6 +16,7 @@
 -[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
 -[xMdb](https://github.com/xMdb)
+-[Joe Njogu](https://github.com/joenjogu)
 -[Richa Singh](https://github.com/Richa-09)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
