@@ -484,6 +484,7 @@ Berliana
 - [Peter Ling] (http:..github.com/peter-ling)
 - [Mandeep Punia](https://github.com/Mandeep08punia)
 - [MisterFowler]https://github.com/MisterFowler
+- [krishna](github.com/coder483)
 - [Shourya Srivastava](https://github.com/ShouryaSrivastava01)
 - [Dustin Ray](https://github.com/dustinjray)
 - [Roberto Castillo](https://github.com/castilloroberto)
