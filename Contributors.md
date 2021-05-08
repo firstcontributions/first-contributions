@@ -173,6 +173,7 @@ elkhechafi zakaria
 - [Ane S]
 - [Brunda B R]
 - [Alok Paidalwar]
+  Vincent
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
 - [Lara Samuelson](https://github.com/LaraDei)
