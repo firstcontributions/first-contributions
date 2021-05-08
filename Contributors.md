@@ -10691,6 +10691,7 @@ Jairo Martinez
 - [Nick Garza](https://github.com/adagar)
 - [Pinak Sawhney](https://github.com/pinaksawhney)
 - [tomjbradley](https://github.com/tomjbradley)
+- [Lucarine](https://github.com/Lucarine)
 - Joseph Tobing
 - [Spiros Stampoulis](https://github.com/SpirosStampoulis)
 - [Richard Totolo](https://github.com/souzatotolo)
