@@ -1742,6 +1742,7 @@ Berliana
 - [Nhytanyuita](https://github.com/yrfp307)
 - [Nick Vallejos](https://github.com/Guambo)
 - [Orlando Rivera, Jr.](https://github.com/ORiveraJr84)
+- [Brad Rivenburgh](https://github.com/bradrivenburgh)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Joe mon](https://github.com/JOEMN96)
 - [0xmery](https://github.com/0xmery)
