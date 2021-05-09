@@ -606,6 +606,7 @@ Berliana
 - [Andrew Perkins](https://github.com/andrewperkins)
 - sbenav
 - [Sebastian Russo] (https://github.com/Sebastian-Russo)
+- [Prasad Jawale](https://github.com/Tydos)
 - Marcin Maruszak
 - [Chin-Wu Chen] (https://github.com/chinwuchen)
 - [Munia Balayil] (https://github.com/mbalayil)
