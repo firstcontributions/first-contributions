@@ -11,6 +11,7 @@
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Xu Wenrui](https://github.com/loser-man)
+-[Ethan Hull](https://github.com/hullep)
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Deepali Mahajan](https://github.com/DeepaliMahajan-29)
 -[Colleen Hayes] (https://github.com/cahayes12/)
