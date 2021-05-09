@@ -33,6 +33,7 @@
 -[Dawn Kelly](https://github.com/dawnkelly09)
 -[Jaggehn S](https://github.com/jaggehns)
 -[Chirag Madaan](https://github.com/chirag-madaan)
+-[Sagar Kumar](https://github.com/Almostsagar)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
 -[Didier Munezero](https://github.com/didiermunezero)
