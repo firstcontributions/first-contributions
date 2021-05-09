@@ -40,6 +40,7 @@
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Kayode Omolaoye](https://github.com/kayusgold)
 -[Luis Leguizamon](https://github.com/LuisLeguizamon)
+-[Parth Takkar](https://github.com/darthwithap/)
 -[Aman Verma](https://github.com/amnvrma)
 -[Charles Ejiegbu](https://github.com/keleris32)
 -[Avirup Basu](https://github.com/avirup171)
