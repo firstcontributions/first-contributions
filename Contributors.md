@@ -268,6 +268,7 @@ elkhechafi zakaria
 - [CinnamonShrine](https://github.com/CinnamonShrine)
 - [Omar Ali](https://github.com/3esawe)
 - [JJ Yin](https://github.com/jjjjjyin)
+- [Astha](https://github.com/aasthaa-007)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
 - [Peter Yang](https://github.com/jkabc123)
 - [Parsa Mesgarha](https://github.com/pzrsa)
