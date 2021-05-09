@@ -11140,6 +11140,8 @@ P0nC1k
 - [Animesh Das](https://github.com/20161302animesh)
 - [Jacqueline Brown](https://github.com/jbrown-lab)
 - [Genevea](https://github.com/genevea)
+- [Julian Quintero](https://github.com/Julian-quintero)
 - [Amul Agrawal](https://github.com/amulagrawal02)
 - [aidken](https://github.com/aidken)
 - [tasotasoso](https://github.com/tasotasoso)
+
