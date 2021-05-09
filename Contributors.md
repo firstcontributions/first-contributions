@@ -180,6 +180,7 @@ elkhechafi zakaria
 - [Seth Lewandowski](https://github.com/sethlewandowski)
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [William Zhang Sam](https://github.com/willzs03)
+- [Shivam Singh](https://github.com/shivam123-dev)
 - [Ofek Avrahami](https://github.com/ofek29)
 - [flucero](https://github.com/flucero59)
 - [WIDJAJA Raymond](https://github.com/Raymondrz)
