@@ -510,6 +510,7 @@ Berliana
 - [Gautham Mudaliar](https://github.com/gau7ham)
 - [Rohan Murmu](https://github.com/scythrine05)
 - [Pasan Pulasithi](https://github.com/PasanPula)
+- [Ansh Malik](https://github.com/AnshVM)
 - [Dimas Andhika Diputra](https://github.com/dimasandhk)
 - [Avi Cohen] (https://github.com/avicohen3660)
 - [Priyansh Darji] (https://github.com/priyansh11786)
