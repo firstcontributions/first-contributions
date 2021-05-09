@@ -6162,6 +6162,7 @@ Jairo Martinez
 - [Nithiyashree MG](https://github.com/mgncodes)
 - [Abiola Farounbi](https://github.com/Abiola-Farounbi)
 - [Temitope Babatola](https://github.com/BBimie)
+- [Kacper S.](https://github.com/DooJayu)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Jaime Sanchez](https://github.com/jaime-alex)
 - [Yash Totale](https://github.com/YashTotale)
