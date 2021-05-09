@@ -37,6 +37,7 @@
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
+-[Rasswanth](https://github.com/IamRash-7)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Devin Carter] (https://github.com/DevAranCarter)
 -[Lakshman Kambam](https://github.com/klakshman318)
