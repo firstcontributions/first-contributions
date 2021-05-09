@@ -884,6 +884,7 @@ Berliana
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Bilaal Ukishima](https://github.com/bilaalukis)
 - [Kylie Cook](https://github.com/KylieNCook)
+- [Rohan Anil](https://github.com/roh-an-il)
 - [Allison Ohslund](https://github.com/aohslund)
 - [Mohamed Maher](https://github.com/MohamedMaher5)
 - [Danilo Marques](https://github.com/DaniloMarques1)
