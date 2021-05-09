@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Shreyash Vinod Malu](https://github.com/Shreyash2607)
@@ -24,6 +24,7 @@
 -[xMdb](https://github.com/xMdb)
 -[Joe Njogu](https://github.com/joenjogu)
 -[Richa Singh](https://github.com/Richa-09)
+-[Nakul Mitra](https://github.com/nakulmitra)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Sachi Shah](https://github.com/sachishah08)
