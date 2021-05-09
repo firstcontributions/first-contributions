@@ -1,5 +1,6 @@
 # Contributors
 
+-[Nitin Gupta](https://github.com/nitingpt000)
 -[Shreyash Vinod Malu](https://github.com/Shreyash2607)
 -[A.M Elkheir](https://github.com/am-elkheir)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
