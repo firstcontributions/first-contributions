@@ -6666,6 +6666,7 @@ Jairo Martinez
 - [Babatunde Koiki](https://github.com/Babatunde13)
 - [Sasha Tankov](https://github.com/sashatankov)
 - [mick4711](https://github.com/mick4711)
+- [Kinshuk Chadha] (https://github.com/Kinshuk3)
 - [Samuel Bekele](https://github.com/s4mu3lbk)
 - [Swapnil R]
 - [Mister Tibs](https://github.com/MisterTibs)
