@@ -11,6 +11,7 @@
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Smarth Mangla](https://github.com/smarthmangla)
+-[Deepali Mahajan](https://github.com/DeepaliMahajan-29)
 -[Colleen Hayes] (https://github.com/cahayes12/)
 -[shiv Bhonde] (https://github.com/technophile-04)
 -[Aditi](https://github.com/SavageSanta11)
