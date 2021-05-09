@@ -184,6 +184,7 @@ elkhechafi zakaria
   Vincent
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
+- [Shivam Tewari] (https://github.com/ShiviPro)
 - [Lara Samuelson](https://github.com/LaraDei)
 - [Seth Lewandowski](https://github.com/sethlewandowski)
 - [Aqib Ahmed](https://github.com/aqib-a99)
