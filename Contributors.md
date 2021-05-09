@@ -24,6 +24,7 @@
 -[xMdb](https://github.com/xMdb)
 -[Joe Njogu](https://github.com/joenjogu)
 -[Richa Singh](https://github.com/Richa-09)
+-[Aniket Anand](https://github.com/aniket48020)
 -[Nakul Mitra](https://github.com/nakulmitra)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
