@@ -5649,6 +5649,7 @@ Jairo Martinez
 - [Jerremy Ferrer](https://github.com/jerremyferrer)
 - [Manu Chauhan](https://github.com/MANU-CHAUHAN)
 - Anna
+- [Aaradhya dubey](https://github.com/DubeyAaradhya)
 - WC 2020 October
 - [Partha Talukdar](https://github.com/parth93QA)
 - [JoshuA Aningene](https://github.com/JoshuaCode1)
