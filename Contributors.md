@@ -35,6 +35,7 @@
 -[Sachi Shah](https://github.com/sachishah08)
 -[Krishna Soundararajan](https://github.com/krishna2793)
 -[S.Varun](https://github.com/VarunS20)
+-[Maruti Nandan](https://github.com/Maruti-Nandan)
 -[Andrew Paul] (https://https://github.com/helloandrewpaul)
 -[aj7t] (https://github.com/Aj7t/)
 -[AbhijayJ] (https://github.com/AbhijayJ)
