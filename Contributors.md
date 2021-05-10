@@ -394,6 +394,7 @@ elkhechafi zakaria
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Matthew Eskolin](https://github.com/MatthewEskolin)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
+- [Sanyam Goyal](https://github.com/SanyamGoyal401)
 - [Ravindra Pratap Singh Bhati](https://github.com/Ravindra29)
 - [Alexander Verhulst](https://github.com/aleforniadreamin)
 - [Mohit Sadhwani](https://github.com/m-ohit-s)
