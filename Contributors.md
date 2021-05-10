@@ -3234,6 +3234,7 @@ Berliana
 - [Ivan Marrêta](https://github.com/ivanmarreta)
 - [Lakshya Sethi](https://github.com/lakshyamcs16)
 - [Ayush Patel](https://www.github.com/ayushnpatel)
+- [Sagar Kumar](https://www.github.com/almostsagar)
 - [Xin Li](https://github.com/3xinli)
 - [cedrvanh](https://www.github.com/cedrvanh)
 - [Bahnisikha Dutta](https://github.com/bdutta6)
