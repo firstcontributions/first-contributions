@@ -398,6 +398,7 @@ elkhechafi zakaria
 - [Eric Santos] (https://github.com/eric-santos)
 -[Jeff Anderson](https://github.com/kj4tmp/)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
+- [Rupal Gajghate](https://github.com/Rupal1503)
 - [Matthew Eskolin](https://github.com/MatthewEskolin)
 - [Abu Sadat Md. Sayem](https://github.com/caffeines)
 - [Sanyam Goyal](https://github.com/SanyamGoyal401)
