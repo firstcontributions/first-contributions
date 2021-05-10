@@ -5103,6 +5103,7 @@ Jairo Martinez
 - Luke Schissler
 - Nhan Nguyen
 - Felix Jönsson
+- [Slimane Aguersif]
 - [Silvija Prozinger](https://github.com/SilvijaProzinger)
 - [Harry Jandu](https://github.com/hushee69)
 - Yeshu Wahane
