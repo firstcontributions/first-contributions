@@ -6325,6 +6325,7 @@ Jairo Martinez
 - [Ricardo Patiño](https://github.com/richypati)
 - [Pranav Garg](https://github.com/PranavGarg01/)
 - [Nour Grati](https://github.com/Nour-Grati)
+- [Lavish Mantri](https://github.com/lavishmantri)
 - [Astitva Gupta](https://github.com/warned101)
 - [Michael Cope](https://github.com/Mecope1/)
 - [Riley Chou](https://github.com/rileychou)
