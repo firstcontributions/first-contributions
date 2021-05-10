@@ -2,6 +2,7 @@
 
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
+-[Raman_Karki](https://github.com/ramankarki)
 -[Shreyash Vinod Malu](https://github.com/Shreyash2607)
 -[Ayush Chaturvedi](https://github.com/ayushchaturvedi4real)
 -[A.M Elkheir](https://github.com/am-elkheir)
