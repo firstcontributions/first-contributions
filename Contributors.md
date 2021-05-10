@@ -220,6 +220,7 @@ elkhechafi zakaria
 - [Paul Royere] (https://github.com/paulroyere)
 - [Amanuel Odicho] (https://github.com/odicho)
 - [Puneet Kumar](https://github.com/puneet4840)
+- [Nachiuketa Dhal](https://github.com/NachiketaDhal)
 - [Tim McVinish](https://github.com/T-McVee)
 - [Ruben A. Ramirez](https://github.com/RubesWorld)
 - [Scott Hicks](https://github.com/scotthickssas)
