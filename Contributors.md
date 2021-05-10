@@ -931,6 +931,7 @@ Berliana
 - Manasa
 - Pooja Paliwal
 - [Justinas Pranskus](https://github.com/JustinasPr)
+- [Andrew Choi](https://github.com/achoi98)
 - [Nicobuu](https://github.com/Nicobuu)
 - [Sean Devoy](https://github.com/ParseSnip)
 - [Mike Nguyen](https://github.com/mikedinhnguyen)
