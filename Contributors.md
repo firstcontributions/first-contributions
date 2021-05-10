@@ -96,6 +96,7 @@ elkhechafi zakaria
 - [Eliza Swanson] (https://github.com/elswanny)
 - [Abidine Talebna](https://github.com/Talebna)
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
+- [Nachiketa Dhal](https://github.com/NachiketaDhal)
 - [Farhan Ali Rahmoon](https://github.com/FarhanRah)
 - [Keerat Kaur Guliani](https://github.com/KeeratKG)
 - [0Ams](https://github.com/0ams)
