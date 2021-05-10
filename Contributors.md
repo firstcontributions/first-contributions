@@ -11,6 +11,7 @@
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Sparsh Bohra] (https://github.com/SparshBohra)
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
+-[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Ethan Hull](https://github.com/hullep)
