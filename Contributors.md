@@ -39,6 +39,7 @@
 -[aj7t] (https://github.com/Aj7t/)
 -[AbhijayJ] (https://github.com/AbhijayJ)
 -[Dawn Kelly](https://github.com/dawnkelly09)
+-[Raj Agarwal](https://github.com/Raj998)
 -[Jaggehn S](https://github.com/jaggehns)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
