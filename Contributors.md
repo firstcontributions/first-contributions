@@ -11143,6 +11143,7 @@ Marica Marian
 - [Suresh Koochana](https://github.com/SureshKuchana)
 - [Andre Amaral](https://github.com/amdeca)
 - [Sun Cold](https://github.com/Sun-Cold)
+- [Vaidehi] (https://github.com/Vaidehi-Joshi)
 - [Something Went Well](https://github.com/somethingwentwell)
 - [canntfly] (https://github.com/canntfly)
 - [Yaswanthkumar Gothireddy](https://github.com/yaswanthkumargothi)
