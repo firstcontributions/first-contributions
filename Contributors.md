@@ -15,6 +15,7 @@
 - [Sumin Lee](https://github.com/nimuseel)
 - [Arthur Remy](https://github.com/remy29)
 - [Kevin Mell](https://https://github.com/kmell1)
+- [Stacey Nunez](https://github.com/bamvans)
 - [Kevin Barrantes](https://github.com/Barrantes-Kevin)
 - [Aditya Sarawat](https://github.com/aditya-sarawat)
 - [Thiago Oliveira](https://github.com/tgwow)
