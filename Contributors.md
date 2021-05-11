@@ -256,6 +256,7 @@ elkhechafi zakaria
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
 - [Sara Cemal](https://github.com/saracemal)
+- [Aman Pandey](https://github.com/Amanpandey7)
 - [Nicole Siggins] (https://github.com/nicolelaine)
 - [Mark Calder](https://github.com/mcaldernj)
 - [Manab Kumar Biswas](https://github.com/Manab784)
