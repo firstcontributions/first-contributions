@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+-[PANDATD(Tejas Dixit)](https://github.com/pandatd)
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
 -[Raman_Karki](https://github.com/ramankarki)
