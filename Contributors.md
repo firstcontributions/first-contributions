@@ -7,6 +7,7 @@
 -[Ayush Chaturvedi](https://github.com/ayushchaturvedi4real)
 -[A.M Elkheir](https://github.com/am-elkheir)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
+-[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Sparsh Bohra] (https://github.com/SparshBohra)
