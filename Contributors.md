@@ -1,5 +1,6 @@
 ﻿# Contributors
 -[PANDATD(Tejas Dixit)](https://github.com/pandatd)
+-[Dijo T Mathews](https://github.com/dijotmathews)
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
 -[Raman_Karki](https://github.com/ramankarki)
@@ -8,6 +9,7 @@
 -[A.M Elkheir](https://github.com/am-elkheir)
 -[Gautham P Krishnan](https://github.com/gauthampkrishnan)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
+-[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Sparsh Bohra] (https://github.com/SparshBohra)
@@ -15,6 +17,7 @@
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Pravin Mudaliyar]
 -[Ezra LaFleur](https://github.com/ezralafleur)
+-[Priyanka](https://github.com/priyankapiba)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Ethan Hull](https://github.com/hullep)
 -[Smarth Mangla](https://github.com/smarthmangla)
