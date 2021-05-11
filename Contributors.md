@@ -7532,6 +7532,7 @@ Jairo Martinez
 - [Priya Gupta](https://github.com/Priya-9)
 - [Robert Bednarek](https://github.com/robertbed26)
 - [Purvi Patel](https://github.com/ppatel6)
+- [Andrew Kerr](https://github.com/andyyykerr)
 - [cleverinx](https://github.com/cleverinx)
 - [Jonathan Hay](https://github.com/jahay15)
 - [Carlos Herrera](https://github.com/carlosherrera1113)
