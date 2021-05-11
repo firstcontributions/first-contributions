@@ -23,6 +23,7 @@
 -[Priyanka](https://github.com/priyankapiba)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Ethan Hull](https://github.com/hullep)
+-[Luis Polanco](https://github.com/luisPolanco25)
 -[Bargaouz Saad](https://github.com/sbrg95)
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Deepali Mahajan](https://github.com/DeepaliMahajan-29)
