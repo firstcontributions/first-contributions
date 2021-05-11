@@ -86,6 +86,7 @@ elkhechafi zakaria
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
 - [Edwin Kodjou](https://github.com/edk21)
 - [Vimal M](https://github.com/vimalprogrammer/)
+- [RosyGraph](https://github.com/RosyGraph)
 - [Eke Victor](https://github.com/Evavic44)
 - [ahcodes](https://github.com/ahcodes)
 - [Peter Laughlin](https://github.com/plaughlin98)
