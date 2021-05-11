@@ -81,6 +81,9 @@ elkhechafi zakaria
 - [Thomas Gipson](https://github.com/thomasGipson)
 - [siddhesh jungade](https://github.com/siddheshJungade)
 - [Abhipriya Bhattacharya] (https://github.com/abhipriya-gif)
+
+<!-- - [HamzaOutdoors](https://github.com/Hamzaoutdoors)-->
+
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
