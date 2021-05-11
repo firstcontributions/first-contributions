@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 -[Dijo T Mathews](https://github.com/dijotmathews)
 -[Nitin Gupta](https://github.com/nitingpt000)
@@ -81,6 +81,7 @@ elkhechafi zakaria
 -[Madhuri reddy](https://github.com/Madhurireddy1)
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
+- [Yu](https://github.com/YUCXY)
 - [Wilson Junior](https://github.com/wilsonjuniordev)
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
