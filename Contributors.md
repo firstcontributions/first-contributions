@@ -244,6 +244,7 @@ elkhechafi zakaria
 - [Daman Arora](https://github.com/Damans227/)
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
+- [Sara Cemal](https://github.com/saracemal)
 - [Nicole Siggins] (https://github.com/nicolelaine)
 - [Mark Calder](https://github.com/mcaldernj)
 - [Manab Kumar Biswas](https://github.com/Manab784)
