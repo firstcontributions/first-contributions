@@ -16,6 +16,7 @@ Akshit Agarwal
 -[Michael Ameyaw](https://github.com/mkojoa)
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
+-[Nivethan Ariyaratnam] (https://github.com/A-Nivethan)
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Sparsh Bohra] (https://github.com/SparshBohra)
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
