@@ -3293,6 +3293,7 @@ Berliana
 - Lizard
 - Aditi Debnath
 - Manasi Saiba
+- [Kevin Allen](https://github.com/FricativeMelon)
 - [Liziane Felix](https://gihthub.com/lizianefelix)
 - [Saad Bin Akhlaq](https://github.com/saadbinakhlaq)
 - [Anurag Mishra](https://github.com/i-anuragmishra)
