@@ -21,6 +21,7 @@
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Pravin Mudaliyar]
+-[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
 -[Xu Wenrui](https://github.com/loser-man)
@@ -67,6 +68,7 @@
 -[Kayode Omolaoye](https://github.com/kayusgold)
 -[Luis Leguizamon](https://github.com/LuisLeguizamon)
 -[Parth Takkar](https://github.com/darthwithap/)
+-[Jyothy M John](https://github.com/jyothym/)
 -[Aman Verma](https://github.com/amnvrma)
 -[Charles Ejiegbu](https://github.com/keleris32)
 -[Avirup Basu](https://github.com/avirup171)
@@ -144,6 +146,7 @@ elkhechafi zakaria
 - [Elliot Macy](https://github.com/thisiselliot)
 - [cirge373](https://github.com/cirge373)
 - [Kapil Motwani](https://github.com/motwanikapil)
+- [Favour Agbejule](https://github.com/favourA205)
 - [Punith P](https://github.com/darcangell)
 - [Louay Oudi](https://github.com/Maokli)
   [Liamx220](https://github.com/Liamx220)
@@ -369,8 +372,9 @@ elkhechafi zakaria
 - [Nicholas Pally] (https://github.com/npally)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
-- [Drew Bayles] (https://github.com/dtbayles)
+- [Drew Bayles] (https://github.com/shakurgds)
 - Elias Tokola
+- [Shakur](https://github.com/LaraDei)
 - [Dibya Sadhukhan](https://github.com/DibyaSadhukhan)
 - [siva rama krishnan](https://github.com/siva-krish45)
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
@@ -452,6 +456,7 @@ elkhechafi zakaria
 - [Gene Lam] (https://github.com/genelam26)
 - [Lester Ho] (https://github.com/lesterhjy)
 - [Vedatrayee Singh] (https://github.com/Vedatrayee)
+- [Christopher Wszolek] (https://github.com/cwszolek2)
 - [Nitesh Gupta]
 - [clarknave] (https://github.com/clarknave)
 - [Ivan van der Merwe 🤘] (https://github.com/WookieeCoder)
@@ -3292,6 +3297,7 @@ Berliana
 - Lizard
 - Aditi Debnath
 - Manasi Saiba
+- [Kevin Allen](https://github.com/FricativeMelon)
 - [Liziane Felix](https://gihthub.com/lizianefelix)
 - [Saad Bin Akhlaq](https://github.com/saadbinakhlaq)
 - [Anurag Mishra](https://github.com/i-anuragmishra)
@@ -6172,6 +6178,7 @@ Jairo Martinez
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
+- [Vivek Parupudi] (http://github.com/Vivek-Parupudi/)
 - [Kevin Tong](https://github.com/tong-kevin)
 - [Akhil Murthy](https://github.com/akhilmurthy546)
 - [Ali Risheh](https://github.com/aicam)
@@ -10435,6 +10442,7 @@ Jairo Martinez
 - [Leonard Goldstein](https://github.com/goldst)
 - [Lukas Stevens](https://github.com/lukasstevens)
 - [Areen Kaur](https://github.com/Areen161)
+- [Raghav Agrawal](https://github.com/rage73)
 - [qzylalala](https://github.com/qzylalala)
 - [Kowalski](https://github.com/K0WALSKl)
 - [Theddy Luna](https://github.com/tluna)
@@ -11218,3 +11226,5 @@ P0nC1k
 - [Fgdou](https://github.com/Fgdou)
 - [Venu Madhav Reddy Vanga](https://github.com/vvmadhavreddy)
 - [Jeffrey Chiu](https://github.com/jeffreyc86)
+- [Curtis Allyn Green](https://github.com/CurtGreen)
+- [Andreas Jessen](https://github.com/BurningTrapezoid)
