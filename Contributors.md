@@ -452,6 +452,7 @@ elkhechafi zakaria
 - [Gene Lam] (https://github.com/genelam26)
 - [Lester Ho] (https://github.com/lesterhjy)
 - [Vedatrayee Singh] (https://github.com/Vedatrayee)
+- [Christopher Wszolek] (https://github.com/cwszolek2)
 - [Nitesh Gupta]
 - [clarknave] (https://github.com/clarknave)
 - [Ivan van der Merwe 🤘] (https://github.com/WookieeCoder)
