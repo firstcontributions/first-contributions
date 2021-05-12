@@ -67,6 +67,7 @@ Akshit Agarwal
 -[Kayode Omolaoye](https://github.com/kayusgold)
 -[Luis Leguizamon](https://github.com/LuisLeguizamon)
 -[Parth Takkar](https://github.com/darthwithap/)
+-[Jyothy M John](https://github.com/jyothym/)
 -[Aman Verma](https://github.com/amnvrma)
 -[Charles Ejiegbu](https://github.com/keleris32)
 -[Avirup Basu](https://github.com/avirup171)
