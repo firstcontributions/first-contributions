@@ -146,6 +146,7 @@ elkhechafi zakaria
 - [Elliot Macy](https://github.com/thisiselliot)
 - [cirge373](https://github.com/cirge373)
 - [Kapil Motwani](https://github.com/motwanikapil)
+- [Favour Agbejule](https://github.com/favourA205)
 - [Punith P](https://github.com/darcangell)
 - [Louay Oudi](https://github.com/Maokli)
   [Liamx220](https://github.com/Liamx220)
