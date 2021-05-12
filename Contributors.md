@@ -372,8 +372,9 @@ elkhechafi zakaria
 - [Nicholas Pally] (https://github.com/npally)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
-- [Drew Bayles] (https://github.com/dtbayles)
+- [Drew Bayles] (https://github.com/shakurgds)
 - Elias Tokola
+- [Shakur](https://github.com/LaraDei)
 - [Dibya Sadhukhan](https://github.com/DibyaSadhukhan)
 - [siva rama krishnan](https://github.com/siva-krish45)
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
