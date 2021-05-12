@@ -6174,6 +6174,7 @@ Jairo Martinez
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
+- [Vivek Parupudi] (http://github.com/Vivek-Parupudi/)
 - [Kevin Tong](https://github.com/tong-kevin)
 - [Akhil Murthy](https://github.com/akhilmurthy546)
 - [Ali Risheh](https://github.com/aicam)
