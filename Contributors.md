@@ -23,6 +23,7 @@ Akshit Agarwal
 -[Pravin Mudaliyar]
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
+-[Arunadevi R](https://github.com/arunacsengg)
 -[Priyanka](https://github.com/priyankapiba)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Ethan Hull](https://github.com/hullep)
