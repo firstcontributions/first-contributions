@@ -190,6 +190,7 @@ elkhechafi zakaria
 - Sai Prahas
   [Wendell Hatcher](https://github.com/whatcher1074)
 - [Shreshtha Gupta](https://github.com/shrey-101)
+- [Ian Donaldson](https://github.com/IanMDonaldson)
 - [Alfidaa Alkhan](https://github.com/Alfidaalk)
 - [Eztao](https://github.com/eztao)
 - [Abhishek Kumar](https://github.com/abhi7275)
