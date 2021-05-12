@@ -374,7 +374,6 @@ elkhechafi zakaria
 - Jaavid25
 - [Drew Bayles] (https://github.com/shakurgds)
 - Elias Tokola
-- [Shakur](https://github.com/LaraDei)
 - [Dibya Sadhukhan](https://github.com/DibyaSadhukhan)
 - [siva rama krishnan](https://github.com/siva-krish45)
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
@@ -390,6 +389,7 @@ elkhechafi zakaria
 - [Prateek Pradhan](https://github.com/Prateek-2001)
   [Dawum Nam](https://github.com/dawumnam)
 - John John
+- Shakur (https://github.com/shakurgds)
 - Prithvi
 - Satyam Gupta
 - EternalBlu
