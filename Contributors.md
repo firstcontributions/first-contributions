@@ -11212,6 +11212,7 @@ P0nC1k
 - [Elad](https://github.com/eladbd)
 - [yousukeayada](https://github.com/yousukeayada)
 - [Simon Kausch](https://github.com/rootsandstones)
+- [Sagar Kumar] (https://github.com/Almostsagar)
 - [NoGTNoHappy](https://github.com/NoGTNoHappy)
 - [Fgdou](https://github.com/Fgdou)
 - [Venu Madhav Reddy Vanga](https://github.com/vvmadhavreddy)
