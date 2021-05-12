@@ -4119,6 +4119,7 @@ Jairo Martinez
 - [Divya Chhibber](https://github.com/divyavit)
 - [Pranab Prohit]
 - [Sudhindra Pai](https://github.com/Sudhee-bsp)
+- [Barika Khalidi](https://github.com/BARIKA001)
 - [Caden Gerard](https://github.com/caden3ds)
 - [Rajeev Koushik]
 - [KK]
