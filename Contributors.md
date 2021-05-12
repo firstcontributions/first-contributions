@@ -1550,6 +1550,7 @@ Berliana
 - [Mick W](https://github.com/lazymango)
 - [Vaishnavi Chaurasia](https://github.com/Vaishnavi8055)
 - [Chinmay Mulay](https://github.com/cmulay)
+- [Karol Stawowski](https://github.com/karolstawowski)
 - [Marek Nagy](https://github.com/marnagy)
 - ritika
 - [Atharva Chandwadkar](https://github.com/atharva21-stack)
