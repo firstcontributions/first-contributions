@@ -93,7 +93,7 @@ elkhechafi zakaria
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Abin P Jacob](https://github.com/abinpj)
-- Prathima Kadari
+- [Prathima Kadari](https://github.com/prathimacode-hub)
 - [Luhit Atluri](https://github.com/luhit729)
 - [Thomas Gipson](https://github.com/thomasGipson)
 - [siddhesh jungade](https://github.com/siddheshJungade)
