@@ -7774,6 +7774,7 @@ Jairo Martinez
 - [Drew Sommer](https://github.com/apsommer)
 - [Ayush Bhardwaj](https://github.com/ayush97bhardwaj)
 - [Fengqing(Aaron) Liu](https://github.com/rangermix)
+- [Rhys Malyon] (https://github.com/RhysMalyon)
 - [Ahmet Ö](https://github.com/oeah2)
 - [dlikas](https://github.com/dlikas)
 - [Drake Gens](https://github.com/drakegens)
