@@ -389,7 +389,7 @@ elkhechafi zakaria
 - [Prateek Pradhan](https://github.com/Prateek-2001)
   [Dawum Nam](https://github.com/dawumnam)
 - John John
-- [Shakur](https://github.com/shakurgds)
+- [ Shakur ](https://github.com/shakurgds)
 - Prithvi
 - Satyam Gupta
 - EternalBlu
