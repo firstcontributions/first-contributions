@@ -17,6 +17,7 @@ Akshit Agarwal
 -[Gautham P Krishnan](https://github.com/gauthampkrishnan)
 -[DeviatorsLegacy](https://github.com/deviatorslegacy)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
+-[Corey Hamren]
 -[Michael Ameyaw](https://github.com/mkojoa)
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
