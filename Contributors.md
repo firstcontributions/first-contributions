@@ -13,6 +13,7 @@ Akshit Agarwal
 -[Ayush Chaturvedi](https://github.com/ayushchaturvedi4real)
 -[A.M Elkheir](https://github.com/am-elkheir)
 -[Gautham P Krishnan](https://github.com/gauthampkrishnan)
+-[DeviatorsLegacy](https://github.com/deviatorslegacy)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
 -[Michael Ameyaw](https://github.com/mkojoa)
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
