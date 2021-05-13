@@ -10301,6 +10301,7 @@ Jairo Martinez
 - [Dhruv Sah](https://github.com/Dhruv-Sah)
 - [Oshin](https://github.com/oshin7695)
 - [Ali khalil](https://github.com/alikhleel)
+- [Adam Mann] (https://github.com/aemann2)
 - [Mohammad Khimel](https://github.com/khimel)
 - [Nikki Ricks](https://github.com/nikkiricks)☺️
 - [Bimal Subedi](https://github.com/subedibimal)
