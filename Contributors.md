@@ -538,6 +538,7 @@ elkhechafi zakaria
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 Berliana
 - [Myrza Turlybek]
+- [Okofo Richard Aidoo](https://github.com/okofo)
 - [Shreya Srivastava]
 - [Manish Agrahari] (https://github.com/manish831)
 - [Nabin Dangi]
