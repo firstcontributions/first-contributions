@@ -42,6 +42,7 @@ Akshit Agarwal
 -[SinisaJO](https://github.com/SinisaJO)
 -[Badal Jha](https://github.com/Badal-Jha)
 -[Suraj Fale](https://github.com/surajfale)
+-[Molly Scott](https://github.com/mcbeepyface)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
