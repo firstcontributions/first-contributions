@@ -852,6 +852,7 @@ Berliana
 - [Kibet Theophilus](https://github.com/kibettheophilus)
 - [Devanshi Shah](https://github.com/Devanshi1500)
 - [Arafat Iqbal](https://github.com/arafatiqbal)
+- [lem0n](https://github.com/lem0n4id)
 - Haritarth
 - Joshua Melo
 - [Vikhyat Bhatnagar](https://github.com/vikhyat187)
