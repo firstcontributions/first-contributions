@@ -9651,6 +9651,7 @@ Jairo Martinez
 - [Eeshan Dutta](https://github.com/EeshanDutta007)
 - [PJYN DZGN](https://github.com/pjyn-dzgn)
 - [Rajalakshmi]
+- [Tarcísio Batista de Freitas Junior](https://github.com/tbfreitas)
 - [Théo Migeat](https://github.com/STM3900)
 - [Sanket Bhatt](https://github.com/sanket-bhatt)
 - [Sumit Raj](https://github.com/sumit-raj-au5)
