@@ -1,6 +1,7 @@
 # Contributors
 
 -[Dijo T Mathews](https://github.com/dijotmathews)
+-[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
