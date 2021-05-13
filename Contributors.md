@@ -11244,6 +11244,7 @@ P0nC1k
 - [Jeffrey Chiu](https://github.com/jeffreyc86)
 - [Curtis Allyn Green](https://github.com/CurtGreen)
 - [Andreas Jessen](https://github.com/BurningTrapezoid)
+- [Henrique Batista](https://github.com/RiqueBR)
 - [Piotr Pomierski](https://github.com/Pomierski)
 - [VigneshLingam](https://github.com/VigneshLingam)
 - [ZachJones](https://github.com/zxjx)
