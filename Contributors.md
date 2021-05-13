@@ -497,6 +497,7 @@ elkhechafi zakaria
 - [Kacper Kochanski](https://github.com/kacper1134)
 - [Mahesh Bauri](https://github.com/Mahesh-Bauri)
 - [avalool]
+- [Minli Hong](https://github.com/wuno-hong)
 - [Parth Nanda](https://github.com/parthn2)
 - [Dvir Abecassis](https://github.com/Dvir-A)
 - Tiga
