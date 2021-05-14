@@ -3,6 +3,7 @@
 -[Dijo T Mathews](https://github.com/dijotmathews)
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
+-[Sumesh Kuchya](https://github.com/developer-sumesh)
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
