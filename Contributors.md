@@ -822,6 +822,7 @@ Berliana
 - [Sergey Danilov](https://github.com/lirikFR)
 - [Alice Phan](https://github.com/nphan03)
 - [Vijay Kumar](https://github.com/vkchang39)
+- [Mai Pham](https://github.com/maifam)
 - [Kshitij Nath](https://github.com/kshitij-18)
 - Jona Stevenson
 - [Max Marra[(https://github.com/max64q)
