@@ -70,6 +70,7 @@ Akshit Agarwal
 -[Dawn Kelly](https://github.com/dawnkelly09)
 -[Raj Agarwal](https://github.com/Raj998)
 -[Jaggehn S](https://github.com/jaggehns)
+-[David M] (https://github.com/divi4)
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
