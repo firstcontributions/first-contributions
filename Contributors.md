@@ -1084,6 +1084,7 @@ Berliana
 - [Caroline Kistler](https://github.com/carolinekistler)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Collin Rampata](https://github.com/Crampata)
+- [Midnight Greenlight](https://github.com/MidnightGreenlight)
 - [Szymon Bednorz](https://github.com/dsonyy)
 - [Mike Liang](https://github.com/yak-fumblepack)
 - [Muhammad Urwatil Wutsqo](https://github.com/wutsqo)
