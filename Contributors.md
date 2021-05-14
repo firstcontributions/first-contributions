@@ -10,6 +10,7 @@
 -[Raman_Karki](https://github.com/ramankarki)
 -[Manish_rawat](https://github.com/R11manish)
 Akshit Agarwal
+-[Aman Verma](https://github.com/amanopia)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
 -[Lungisani Mthethwa](https://github.com/lungis4ni)
 -[Shreyash Vinod Malu](https://github.com/Shreyash2607)
