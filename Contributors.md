@@ -13,6 +13,7 @@
 -[Manish_rawat](https://github.com/R11manish)
 Akshit Agarwal
 -[Aman Verma](https://github.com/amanopia)
+-[Lily Huang](https://github.com/LemonPocky)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
 -[Lungisani Mthethwa](https://github.com/lungis4ni)
 -[Shreyash Vinod Malu](https://github.com/Shreyash2607)
