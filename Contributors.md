@@ -8,6 +8,7 @@
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
 -[Rohan Rawat ](https://github.com/itsron)
 -[Raman_Karki](https://github.com/ramankarki)
+-[Manish_rawat](https://github.com/R11manish)
 Akshit Agarwal
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
 -[Lungisani Mthethwa](https://github.com/lungis4ni)
