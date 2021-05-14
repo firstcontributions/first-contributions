@@ -226,6 +226,7 @@ elkhechafi zakaria
 - [Brunda B R]
 - [Alok Paidalwar]
   Vincent
+	Shaswat Singh
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
 - [Shivam Tewari] (https://github.com/ShiviPro)
