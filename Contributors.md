@@ -10970,6 +10970,7 @@ sam_namiranian
 - [Jarom Later](https://github.com/thundrjary)
 - jwysowski
 https://github.com/franzk
+- [Madhu Madhavan Sridhar](https://github.com/MadhuMadhavanSridhar)
 [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
 - [Jake Z](https://github.com/EsuFeDia)
 - Harshit
