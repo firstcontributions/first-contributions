@@ -231,7 +231,8 @@ elkhechafi zakaria
 - [Brunda B R]
 - [Alok Paidalwar]
   Vincent
-- [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
+  [Chase Averett] (https://github.com/averettcd/) 
+  [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
 - [Felipe Cabeza] (https://github.com/bezaca)
 - [Shivam Tewari] (https://github.com/ShiviPro)
 - [Lara Samuelson](https://github.com/LaraDei)
