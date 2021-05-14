@@ -550,6 +550,7 @@ elkhechafi zakaria
 -[Mattia Pomelli](https://github.com/mattiapomelli)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 Berliana
+-[Harshil Jani] (https://github.com/harshil-jani)
 - [Myrza Turlybek]
 - [Okofo Richard Aidoo](https://github.com/okofo)
 - [Shreya Srivastava]
