@@ -189,6 +189,7 @@ elkhechafi zakaria
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kayleen Carido] (https://github.com/kvcarido)
+- [Meg Parsons] (https://github.com/techmeg)
 - [Enock Omondi] (https://github.com/Trend20)
 - [Kartikey Jangir] (https://github.com/kartikeyjangir)
 - [Janeth Betancourt](https://github.com/janbe30)
