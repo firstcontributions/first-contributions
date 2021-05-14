@@ -4617,6 +4617,7 @@ Jairo Martinez
 - [Alex Juan](https://github.com/yyalexyy)
 - [WolframAlph](https://github.com/WolframAlph)
 - [Avinash Kumar](https://github.com/Avinash9k5r)
+Will K
 - [Matt Harwood](https://github.com/mattharwood)
 - [Varun Choudhary](https://github.com/warlord40)
 - [KILR](https://github.com/KILR007)
