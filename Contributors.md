@@ -173,6 +173,7 @@ elkhechafi zakaria
 - [Abhijith S Rao](https://github.com/abhijith-satheesh-rao)
 - [SamTienz](https://github.com/SamTienz)
 - [Samuel Adesoye] (https://github.com/Folami-kun)
+- [Eric H] (https://github.com/ehoop10)
 - [Saad Shoaib] (https://github.com/SaadShoaib)
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Aayush Jain](https://github.com/aayushjain7)
