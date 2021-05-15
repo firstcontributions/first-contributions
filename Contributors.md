@@ -1,6 +1,7 @@
 # Contributors
 
 -[Dijo T Mathews](https://github.com/dijotmathews)
+-[Rajkumar Panwar]
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
