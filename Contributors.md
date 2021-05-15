@@ -17,6 +17,7 @@
 Akshit Agarwal
 -[Aman Verma](https://github.com/amanopia)
 -[Tom Magnitis](https://github.com/magnitis)
+-[Raja P](https://github.com/raja-softwareengineer)
 -[Nikita Saini](https://github.com/nikitaaa23)
 -[Lily Huang](https://github.com/LemonPocky)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
