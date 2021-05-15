@@ -211,6 +211,7 @@ elkhechafi zakaria
 - [Adrian Marquis] (https://github.com/schism578)
 - [Poojan Patel] (https://github.com/Berlin-34)
 - Roneal Denila
+- [Rajeev Chugh] (https://github.com/rajeevchugh71/)
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - [Ajay Varma](https://github.com/ajay28varma)
 - Victor Mendez (https://github.com/VMMF)
