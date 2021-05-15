@@ -59,6 +59,7 @@ Akshit Agarwal
 -[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
 -[xMdb](https://github.com/xMdb)
+-[Shermaine Ang](https://github.com/notmaineyy)
 -[Joe Njogu](https://github.com/joenjogu)
 -[Richa Singh](https://github.com/Richa-09)
 -[Aniket Anand](https://github.com/aniket48020)
