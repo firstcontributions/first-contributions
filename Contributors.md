@@ -13,7 +13,7 @@
 -[Rohan Rawat ](https://github.com/itsron)
 -[Raman_Karki](https://github.com/ramankarki)
 -[Manish_rawat](https://github.com/R11manish)
-Akshit Agarwal
+Sanchit Narang
 -[Aman Verma](https://github.com/amanopia)
 -[Lily Huang](https://github.com/LemonPocky)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
