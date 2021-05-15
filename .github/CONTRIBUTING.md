@@ -1,4 +1,4 @@
-# Contribution guide
+# Contribution guide - Key to beginning
 
 We appreciate your thought to contribute to open source. :heart:
 
