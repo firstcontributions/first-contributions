@@ -15,6 +15,7 @@
 -[Manish_rawat](https://github.com/R11manish)
 Akshit Agarwal
 -[Aman Verma](https://github.com/amanopia)
+-[Tom Magnitis](https://github.com/magnitis)
 -[Nikita Saini](https://github.com/nikitaaa23)
 -[Lily Huang](https://github.com/LemonPocky)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
