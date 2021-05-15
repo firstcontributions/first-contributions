@@ -11271,6 +11271,7 @@ P0nC1k
 - [NoGTNoHappy](https://github.com/NoGTNoHappy)
   [Nick](https://github.com/imnick17)
 - [Fgdou](https://github.com/Fgdou)
+- [Kishor singh](https://github.com/singhkis14)
 - [Venu Madhav Reddy Vanga](https://github.com/vvmadhavreddy)
 - [Jeffrey Chiu](https://github.com/jeffreyc86)
 - [Curtis Allyn Green](https://github.com/CurtGreen)
