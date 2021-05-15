@@ -4053,6 +4053,7 @@ Jairo Martinez
 - [Robin Bekaert](https://github.com/gdmgent-robibeka)
 - [Pierre Franckx](https://github.com/ahumahum)
 - [Jason Beaver](https://github.com/LeaveItToBeaver)
+- [Danny Isaac](https://github.com/Dan7n)
 - [Lois Choji](https://github.com/LoisChoji)
 - [Mehul Sharma](https://github.com/BruceWayne733)
 - [Deril Raju](https://github.com/deril2605)
