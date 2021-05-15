@@ -1208,6 +1208,7 @@ Berliana
 - [Jafer Alhaboubi](https://github.com/jhabboubi)
 - [Vishal Bhatane](https://github.com/vish-321)
 - [Elinnoel Nuñez](https://github.com/elinnunez)
+- [Tuan Duong]
 - [William Rabbermann](https://github.com/steezy104)
 - [Ulugbek Abdullayev] (https://github.com/Ulugbek1024)
 - [Ayush Sharma](https://github.com/GAMhackER)
