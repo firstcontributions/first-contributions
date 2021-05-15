@@ -11284,7 +11284,7 @@ P0nC1k
 - [Venu Madhav Reddy Vanga](https://github.com/vvmadhavreddy)
 - [Jeffrey Chiu](https://github.com/jeffreyc86)
 - [Curtis Allyn Green](https://github.com/CurtGreen)
-- [Andreas Jessen](https://github.com/BurningTrapezoid)
+- [Andreass Jessen](https://github.com/BurningTrapezoid)
 - [Henrique Batista](https://github.com/RiqueBR)
 - [Piotr Pomierski](https://github.com/Pomierski)
 - [VigneshLingam](https://github.com/VigneshLingam)
@@ -11302,3 +11302,4 @@ P0nC1k
 - [Nitish]
 - [Ashvith Shetty](https://github.com/Ashvith)
 - [Laszlo]
+- [Hozi625]
