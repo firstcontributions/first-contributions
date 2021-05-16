@@ -46,6 +46,7 @@ Akshit Agarwal
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
+-[Aniket kumar](https://github.com/ani1998ket)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Ethan Hull](https://github.com/hullep)
 -[Luis Polanco](https://github.com/luisPolanco25)
