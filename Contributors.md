@@ -1,5 +1,6 @@
 # Contributors
-
+Pashyant Srivastava
+- [Pashyant](https://github.com/Pashyant)
 -[Dijo T Mathews](https://github.com/dijotmathews)
 -[Rajkumar Panwar]
 -[Benjamin Chiang](https://github.com/chychiang)
