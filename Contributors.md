@@ -5786,6 +5786,7 @@ Will K
 - [Pratyush Kumar](https://github.com/Pratyukumar)
 - Guillermo Roman
 - [Chris Richardson](https://github.com/ctrich)
+- [Dylan Whitehrust] (https://github.com/whidyl)
 - [Harshank Pathak](https://github.com/H4rsh4nk)
 - [Prithvi Kannan](https://github.com/prithvikannan)
 - [Muthuraj M](https://github.com/muthuraj27)
