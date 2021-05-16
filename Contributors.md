@@ -6677,6 +6677,7 @@ Will K
 - [mmorys](https://github.com/mmorys)
 - [Saurabh Pal](https://github.com/bestpal97)
 - [Alex Niemiec](https://github.com/AlxNmc)
+- [Felix Fischer](https://github.com/Fislix)
 - [Vishal Yadav](https://github.com/Vishal1297)
 - [Ryan L.](https://github.com/ryanleong)
 - [Rayan F.](https://github.com/RF-90)
