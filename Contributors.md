@@ -4773,6 +4773,7 @@ Will K
 - [Victor Paz](https://github.com/vkcp)
 - [David Fraser <-- is cool](https://github.com/DavidMatthewFraser) >
 - [Sky Truong](https://github.com/sky-truong)
+- [Shikhar Pathak](https://github.com/Shikhar-SRJ)
 - [Suyash Gupta](https://github.com/sgalpha01)
 - [Louis Bui](https://github.com/longlb)
 - [Amruta Koshe](https://github.com/AmrutaKoshe)
