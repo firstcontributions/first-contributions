@@ -33,6 +33,7 @@ Akshit Agarwal
 -[DeviatorsLegacy](https://github.com/deviatorslegacy)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
 -[Corey Hamren]
+-[Rahul Roy](https://github.com/Rahul6918)
 -[Michael Ameyaw](https://github.com/mkojoa)
 -[Ritika Pahwa] (https://github.com/RitikaPahwa4444)
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
