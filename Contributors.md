@@ -1,5 +1,6 @@
 # Contributors
 Pashyant Srivastava
+Sunil gora (goraji)
 - [Pashyant](https://github.com/Pashyant)
 -[Dijo T Mathews](https://github.com/dijotmathews)
 -[Rajkumar Panwar]
@@ -996,6 +997,7 @@ Berliana
 - [Jack Aitken](https://github.com/jackaitken)
 - [Nathan Taylor](http://github.com/n-taylor)
 - [Kaila Iglesias](https://github.com/kaila1)
+- Sunil gora 
 - [Chris Ashman] (https://github.com/Cashman1396)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
 - [Naved Sohail](https://github.com/naved232doom)
