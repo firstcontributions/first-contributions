@@ -11301,7 +11301,7 @@ P0nC1k
 - [Fabian de Alwis Gunasekare](https://github.com/Gunasekare)
 - [Niyongabo Eric](https://github.com/NiyongaboEric)
 - [Febby Gunawan](https://github.com/Febby)
-- [Shivan Sivakumaran](https://github.com/ShivanS93
+- [Shivan Sivakumaran](https://github.com/ShivanS93)
 - [Mariah Bradford](https://github.com/bbykitty)
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
@@ -11310,5 +11310,5 @@ P0nC1k
 - [Laszlo]
 - [Varga Tamas](https://github.com/tvarga94)
 - [Rashad Tanjim](https://github.com/RashadTanjim)
-- [Stellar Nuke] (https://github.com/stellarNuke)
-- [Suryaprakash] (https://github.com/Suryaprakash1024)
+- [Stellar Nuke](https://github.com/stellarNuke)
+- [Suryaprakash](https://github.com/Suryaprakash1024)
