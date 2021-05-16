@@ -11315,4 +11315,4 @@ P0nC1k
 - [Stellar Nuke] (https://github.com/stellarNuke)
 - [Suryaprakash] (https://github.com/Suryaprakash1024)
 - [Chayutpong Promya](https://github.com/MelodyMale)
-- [Aly Abdulatif] (https://github.com/aly-ab)
+- [Aly Abdulatif](https://github.com/aly-ab)
