@@ -127,6 +127,7 @@ elkhechafi zakaria
 - [Blaine Young](github.com/blaine137)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
+- [Rishabh]
 - [Edwin Kodjou](https://github.com/edk21)
 - [Kyle Abrahams](https://github.com/Kyle-Abrahams)
 - [Vimal M](https://github.com/vimalprogrammer/)
