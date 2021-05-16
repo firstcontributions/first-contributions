@@ -415,6 +415,7 @@ elkhechafi zakaria
 - [Shatakshi gupta](https://github.com/Shatakshi0805)
 - [Anthony Tesoriero](https://github.com/anttesoriero)
 - [Sriram Kilambi](https://github.com/Sriram-Kilambi)
+- [John Berry] (https://github.com/Jberry1218)
 - [Adriel Andrade] (https://github.com/adrielhpa)
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
