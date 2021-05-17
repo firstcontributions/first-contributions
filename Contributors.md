@@ -11261,6 +11261,7 @@ Marica Marian
 - [Kayode Adetayo](https://github.com/bubykay)
 - [Evie Vanderveer](https://github.com/eviebat)
 P0nC1k
+- [Kacper Skowroński](https://github.com/PandaHajs)
 - [Tanishq Kumar](https://github.com/tanishq20)
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
