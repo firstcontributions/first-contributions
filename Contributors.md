@@ -1,7 +1,7 @@
 # Contributors
-
+[Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
-
+- [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Pashyant](https://github.com/Pashyant)
 - [Nitish Vaishnav](https://github.com/nitishv2017)
 -[Dijo T Mathews](https://github.com/dijotmathews)
@@ -23,6 +23,7 @@ Pashyant Srivastava
 -[Manish_rawat](https://github.com/R11manish)
 -[Rajeev Dandu](https://github.com/Dandu-Rajeev)
 Akshit Agarwal
+-[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Aman Verma](https://github.com/amanopia)
 -[Faizan Saeed](https://github.com/FaizanSaeedLogiciel)
 -[Tom Magnitis](https://github.com/magnitis)
@@ -99,12 +100,14 @@ Akshit Agarwal
 -[Rasswanth](https://github.com/IamRash-7)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Devin Carter] (https://github.com/DevAranCarter)
+-[Nitin Jain D] (https://github.com/nitinjain-tech)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Kayode Omolaoye](https://github.com/kayusgold)
 -[Luis Leguizamon](https://github.com/LuisLeguizamon)
 -[Parth Takkar](https://github.com/darthwithap/)
 -[Jyothy M John](https://github.com/jyothym/)
 -[Aman Verma](https://github.com/amnvrma)
+-[Netaly Ramirez](https://github.com/21shield)
 -[Charles Ejiegbu](https://github.com/keleris32)
 -[Avirup Basu](https://github.com/avirup171)
 -[Kemal Muharemovic](https://github.com/KemalMuharemovic)
@@ -542,6 +545,7 @@ elkhechafi zakaria
 - [Dvir Abecassis](https://github.com/Dvir-A)
 - Tiga
 - Matías Thiele
+-Tarun kumar(https://github.com/tarunlunkar)
 - [ingenious452](https://github.com/ingenious452)
 - Avinash Nair (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
@@ -758,6 +762,7 @@ elkhechafi zakaria
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Subhanga Upadhyay](https://github.com/Azazel5)
 - [Ahmed Salah](https://github.com/asalah007)
+- [Ahmed Khaled](https://github.com/ahmedswaby)
 - [Oliver L. Sanz](https://github.com/oliverlsanz)
 - [Matt Herman](https://github.com/mhermandesign)
 - [Md Farhan Alam](https://github.com/farhan3040)
@@ -986,6 +991,7 @@ elkhechafi zakaria
 - [Azmir Khan](https://github.com/rimzaak)
 - [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
+- [Rohan Jinturkar](https://github.com/rjintu)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Bilaal Ukishima](https://github.com/bilaalukis)
 - [Kylie Cook](https://github.com/KylieNCook)
@@ -11244,7 +11250,8 @@ sam_namiranian
 - [Omkar Jadhav](https://github.com/omkar342)
 - [Kayode Adetayo](https://github.com/bubykay)
 - [Evie Vanderveer](https://github.com/eviebat)
-  P0nC1k
+P0nC1k
+- [Kacper Skowroński](https://github.com/PandaHajs)
 - [Tanishq Kumar](https://github.com/tanishq20)
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
@@ -11320,6 +11327,7 @@ sam_namiranian
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
 - [Nitish]
+- [AndriyKurdyukov](https://github.com/AndriyKurdyukov)
 - [Ashvith Shetty](https://github.com/Ashvith)
 - [Laszlo]
 - [Varga Tamas](https://github.com/tvarga94)
@@ -11330,5 +11338,6 @@ sam_namiranian
 - [Aly Abdulatif] (https://github.com/aly-ab)
 - [Amon Tobi] (https://github.com/mttn3773)
 - [Nelson Lim](https://github.com/nlmj)
+- [Abhishek Kumar](https://github.com/ab-by)
+- [Chowsy Cho] (https://github.com/chowsychoch/)
 - [Md. Mubdiur Rahman](https://github.com/mubdiur)
-
