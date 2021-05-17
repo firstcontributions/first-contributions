@@ -98,6 +98,7 @@ Akshit Agarwal
 -[Chirag Madaan](https://github.com/chirag-madaan)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
+-[r0b0ty](https://github.com/R0b0ty)
 -[Rasswanth](https://github.com/IamRash-7)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Devin Carter] (https://github.com/DevAranCarter)
