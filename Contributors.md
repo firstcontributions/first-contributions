@@ -547,6 +547,7 @@ elkhechafi zakaria
 - [Dvir Abecassis](https://github.com/Dvir-A)
 - Tiga
 - Matías Thiele
+-Tarun kumar(https://github.com/tarunlunkar)
 - [ingenious452](https://github.com/ingenious452)
 - Avinash Nair (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
