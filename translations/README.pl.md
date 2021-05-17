@@ -9,7 +9,7 @@ Ten projekt ma na celu uproszczenie i poprowadzenie nowicjuszy przez ich pierwsz
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-_Jeśli nie czujesz się komfortowo używając konsoli, [tutaj znajdziesz poradniki korzystające z narzędzi z graficznym interfejsem.](https://github.com/firstcontributions/first-contributions/blob/master/README.md#tutorials-using-other-tools)_
+_Jeśli nie czujesz się komfortowo używając konsoli, [tutaj znajdziesz poradniki korzystające z narzędzi z graficznym interfejsem.](#ćwiczenia-przy-użyciu-innych-narzędzi)_
 
 Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ ).
 
