@@ -524,7 +524,7 @@ elkhechafi zakaria
 - [Anagha Mardavi Pandey](https://github.com/JkAnagha)
 - [Maria Read](https://github.com/mreadv)
 - [Aman Garg](https://github.com/rubal2508)
-[Saurabh Kumar](https://github.com/saurabhK99)
+- [Saurabh Kumar](https://github.com/saurabhK99)
 - [Kedar Pathade](https://github.com/kbp12)
 - [raavann](https://github.com/raavann)
 - [Taruna Agrawal](https://github.com/ts1702612)
@@ -548,7 +548,7 @@ elkhechafi zakaria
 - [Dvir Abecassis](https://github.com/Dvir-A)
 - Tiga
 - Matías Thiele
--Tarun kumar(https://github.com/tarunlunkar)
+- Tarun kumar(https://github.com/tarunlunkar)
 - [ingenious452](https://github.com/ingenious452)
 - Avinash Nair (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
@@ -562,7 +562,7 @@ elkhechafi zakaria
 - [Taylor Griffin](https://github.com/Taylor-Griffin)
 - [Himanshu Malviya](https://github.com/Himanshu664)
 - [MLTDK](https://github.com/MLTDK)
-  Hellen Namulinda
+-  Hellen Namulinda
 - [adamantia](https://github.com/adamantiakoutsi)
 - [antonioii](https://github.com/antonioii)
 - [Vilmer Jonsson](https://github.com/VilmerJ)
@@ -584,10 +584,10 @@ elkhechafi zakaria
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
 - [Karl Gustafsson](https://github.com/knopp10000)
--[Mattia Pomelli](https://github.com/mattiapomelli)
+- [Mattia Pomelli](https://github.com/mattiapomelli)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
-Berliana
--[Harshil Jani] (https://github.com/harshil-jani)
+- Berliana
+- [Harshil Jani] (https://github.com/harshil-jani)
 - [Myrza Turlybek]
 - [Okofo Richard Aidoo](https://github.com/okofo)
 - [Shreya Srivastava]
@@ -783,7 +783,7 @@ Berliana
 - [Yasaman Adl](https://github.com/YasamanAdl94)
 - [Paul Lockhart](https://github.com/PaulLockhart)
 - J.G.
-  -Nikhil Verma
+- Nikhil Verma
 - Zebra_Force9
 - Brett Bovia
 - Michael Wright
@@ -1013,6 +1013,7 @@ Berliana
 - [Adithya Vijay](https://github.com/Adithyavj)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
+- [Lucas Coutinho](https://github.com/lcscou)
 - [Nathan Taylor](http://github.com/n-taylor)
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Chris Ashman] (https://github.com/Cashman1396)
