@@ -11340,4 +11340,3 @@ P0nC1k
 - [Aly Abdulatif] (https://github.com/aly-ab)
 - [Amon Tobi] (https://github.com/mttn3773)
 - [Nelson Lim](https://github.com/nlmj)
-- [Abhishek Kumar](https://github.com/ab-by)
