@@ -1,5 +1,6 @@
 # Contributors
 Pashyant Srivastava
+- [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Pashyant](https://github.com/Pashyant)
 - [Nitish Vaishnav](https://github.com/nitishv2017)
 -[Dijo T Mathews](https://github.com/dijotmathews)
