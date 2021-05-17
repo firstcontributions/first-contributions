@@ -126,6 +126,7 @@ elkhechafi zakaria
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Abin P Jacob](https://github.com/abinpj)
 - Prathima Kadari
+- [Deepak Kumar](https://github.com/Deepak18-06)
 - [Luhit Atluri](https://github.com/luhit729)
 - [Thomas Gipson](https://github.com/thomasGipson)
 - [siddhesh jungade](https://github.com/siddheshJungade)
