@@ -97,6 +97,7 @@ Akshit Agarwal
 -[Rasswanth](https://github.com/IamRash-7)
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Devin Carter] (https://github.com/DevAranCarter)
+-[Nitin Jain D] (https://github.com/nitinjain-tech)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Kayode Omolaoye](https://github.com/kayusgold)
 -[Luis Leguizamon](https://github.com/LuisLeguizamon)
