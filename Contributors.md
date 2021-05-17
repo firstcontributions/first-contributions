@@ -2,6 +2,7 @@
 Pashyant Srivastava
 - [Pashyant](https://github.com/Pashyant)
 -[Dijo T Mathews](https://github.com/dijotmathews)
+- [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Benjamin Chiang](https://github.com/chychiang)
