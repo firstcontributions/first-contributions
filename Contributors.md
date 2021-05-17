@@ -48,6 +48,7 @@ Akshit Agarwal
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
 -[Aniket kumar](https://github.com/ani1998ket)
+-[Meegada Mahesh](https://github.com/Meegada-Mahesh)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Ethan Hull](https://github.com/hullep)
 -[Luis Polanco](https://github.com/luisPolanco25)
