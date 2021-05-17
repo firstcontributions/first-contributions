@@ -103,6 +103,7 @@ Akshit Agarwal
 -[Parth Takkar](https://github.com/darthwithap/)
 -[Jyothy M John](https://github.com/jyothym/)
 -[Aman Verma](https://github.com/amnvrma)
+-[Netaly Ramirez](https://github.com/21shield)
 -[Charles Ejiegbu](https://github.com/keleris32)
 -[Avirup Basu](https://github.com/avirup171)
 -[Kemal Muharemovic](https://github.com/KemalMuharemovic)
