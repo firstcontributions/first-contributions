@@ -415,6 +415,7 @@ elkhechafi zakaria
 - Jaavid25
 - [Drew Bayles] (https://github.com/shakurgds)
 - Elias Tokola
+- [Dave Velasco](https://github.com/davevelasco)
 - [Shakur](https://github.com/LaraDei)
 - [Dibya Sadhukhan](https://github.com/DibyaSadhukhan)
 - [siva rama krishnan](https://github.com/siva-krish45)
