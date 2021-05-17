@@ -1,6 +1,7 @@
 # Contributors
 Pashyant Srivastava
 - [Pashyant](https://github.com/Pashyant)
+- [Nitish Vaishnav](https://github.com/nitishv2017)
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
