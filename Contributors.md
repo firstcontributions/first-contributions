@@ -997,6 +997,7 @@ Berliana
 - [Azmir Khan](https://github.com/rimzaak)
 - [Moshiul Rabbi](https://github.com/MoshiulRabbi)
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
+- [Rohan Jinturkar](https://github.com/rjintu)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Bilaal Ukishima](https://github.com/bilaalukis)
 - [Kylie Cook](https://github.com/KylieNCook)
