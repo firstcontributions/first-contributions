@@ -763,6 +763,7 @@ Berliana
 - Jiyon Trammell (https://github.com/codeweb123)
 - [Subhanga Upadhyay](https://github.com/Azazel5)
 - [Ahmed Salah](https://github.com/asalah007)
+- [Ahmed Khaled](https://github.com/ahmedswaby)
 - [Oliver L. Sanz](https://github.com/oliverlsanz)
 - [Matt Herman](https://github.com/mhermandesign)
 - [Md Farhan Alam](https://github.com/farhan3040)
