@@ -1,6 +1,7 @@
 # Contributors
 
 -[Dijo T Mathews](https://github.com/dijotmathews)
+-[Pedro Delfino](https://github.com/pdelfino)
 -[Rajkumar Panwar]
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
