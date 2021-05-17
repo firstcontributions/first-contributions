@@ -11259,6 +11259,7 @@ P0nC1k
 - [veagir](https://github.com/veagir)
 - [iamtbc](https://github.com/iamtbc)
 - [ran](https://github.com/skyan1278)
+- [smalltext](https://github.com/smalltext)
 [Jack Mulligan] (https://github.com/jackmulligan-ire)
 [Yusuf Adel](https://yusufadell.github.io)
 - [roadrunner](https://github.com/roadrunner2012)
