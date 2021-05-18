@@ -1216,6 +1216,7 @@ Berliana
 - [Weiren Lan](https://github.com/MIBlue119/)
 - [Niveditha Hariharan](https://github.com/Ahtidevin)
 [Heller]
+- [Tharun Nayak](https://github.com/tharunnayak14)
 - [Ryan](https://github.com/ryansun117)
 - [Javailabe](https://github.com/Javailabe)
 - [Arthur Le Breton](https://github.com/Psyroo)
