@@ -11345,6 +11345,7 @@ P0nC1k
 - [AndriyKurdyukov](https://github.com/AndriyKurdyukov)
 - [Ashvith Shetty](https://github.com/Ashvith)
 - [Laszlo]
+- [Karthik Srinivas Bhallamudi](https://github.com/karthiksbh)
 - [Varga Tamas](https://github.com/tvarga94)
 - [Rashad Tanjim](https://github.com/RashadTanjim)
 - [Stellar Nuke] (https://github.com/stellarNuke)
