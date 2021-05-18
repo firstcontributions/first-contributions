@@ -1,6 +1,6 @@
 ﻿# Contributors
-[Aryan Srivastava] (https://github.com/Aryan-Srivastava)
-Pashyant Srivastava
+- [Abhishek Bodapati] (https:github.com/abhishek-bodapati)
+- [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Pashyant](https://github.com/Pashyant)
