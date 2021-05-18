@@ -1,4 +1,4 @@
-# Contributors
+- # Contributors
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
