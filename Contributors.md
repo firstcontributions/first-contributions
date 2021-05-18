@@ -4854,6 +4854,7 @@ Will K
 - [sahar](https://github.com/saharkh99)
 - [Luke Askew](https://github.com/Lukem121)
 - [Keoabetswe Nthite](https://github.com/Keoabetswe)
+- [James Vitug] (https://github.com/pluhm)
 - [Mohammed Rabie ZALYAUL](https://github.com/mrzalyaul)
 - [Lennart Muchow](https://github.com/LennartMuchow)
 - [Rodrigo Salgado](https://github.com/RSalgadoAtala)
