@@ -4969,6 +4969,7 @@ Will K
 - [Ashish Maurya](https://github.com/Ashumaurya)
 - [Yew Kang Wei](https://github.com/yewyewXD)
 - [Joseph Carlyon](https://github.com/jwcarlyon)
+- D. Hristov
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Brian Lee](https://github.com/brain-eel)
 - [Harshit Kumar](https://github.com/HarshitChauhan)
