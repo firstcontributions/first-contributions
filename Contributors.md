@@ -265,6 +265,7 @@ elkhechafi zakaria
 -	[hmdz](https://github.com/hmdz105)
 - [George Peden](https://github.com/gpeden)
 - [Eric Dahlgren](https://github.com/eriyc)
+- [Francisco Pereira](https://github.com/FranciscoPereira987)
 - [Raghav Mehrotra](https://github.com/raghav-max)
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Alekya Kowta](https://github.com/AlekyaKowta)
