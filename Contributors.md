@@ -8,6 +8,7 @@ Pashyant Srivastava
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
+-[Amisha Aggarwal](https://github.com/amishaagg)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Benjamin Chiang](https://github.com/chychiang)
