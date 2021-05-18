@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Nitin Sohal](https://github.com/NitinSohal)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Brett Connolly](https://github.com/HaulinOats)
 - [CinnamonShrine](https://github.com/CinnamonShrine)
