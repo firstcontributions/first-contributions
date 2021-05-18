@@ -418,6 +418,7 @@ elkhechafi zakaria
 - [Vejay Drepaul](https://github.com/VejayDrepaul)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
+- [SavageUnicorn](https://github.com/SavageUnicorn)
 - [Harper Moon] 
 - [Bengy Phan] (https://github.com/bengyphan)
 - [Jeff Turgeon] (https://github.com/jturgeon79
