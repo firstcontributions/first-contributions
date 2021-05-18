@@ -5,6 +5,7 @@ Pashyant Srivastava
 - [Rutwij Patel]
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Pashyant](https://github.com/Pashyant)
+- [mastak-ua](https://github.com/mastak-ua)
 - [Nitish Vaishnav](https://github.com/nitishv2017)
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
