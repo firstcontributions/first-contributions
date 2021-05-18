@@ -11352,3 +11352,4 @@ P0nC1k
 - [Nelson Lim](https://github.com/nlmj)
 - [Abhishek Kumar](https://github.com/ab-by)
 - [Chowsy Cho] (https://github.com/chowsychoch/)
+- [Kurtis Hanson](https://github.com/kxrtiswithak/)
