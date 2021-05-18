@@ -467,4 +467,6 @@ If you're making changes to a translation, please request a review from our prev
     </tr>
  </table>
     
+Fashanu Fadeke
+https://github.com/DexyTheAwesome
 
