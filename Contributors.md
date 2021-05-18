@@ -26,6 +26,7 @@ Akshit Agarwal
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Aman Verma](https://github.com/amanopia)
 -[Faizan Saeed](https://github.com/FaizanSaeedLogiciel)
+-[Jawad Vajeeh](https://github.com/jawadsab)
 -[Tom Magnitis](https://github.com/magnitis)
 -[Raja P](https://github.com/raja-softwareengineer)
 -[Nikita Saini](https://github.com/nikitaaa23)
