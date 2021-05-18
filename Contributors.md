@@ -13,6 +13,7 @@ Pashyant Srivastava
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
+-[Ayushi Raj] (https://github.com/ayushi-2002)
 -[Vishva Mahadevan] (https://github.com/Vishwamagdavan)
 -[Prateek Kumar Sharma](https://github.com/prateeksharma0112)
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
