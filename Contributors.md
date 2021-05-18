@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
@@ -9,6 +9,7 @@ Pashyant Srivastava
 - [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
 -[Amisha Aggarwal](https://github.com/amishaagg)
+-[Miszti Janos](https://github.com/misztijanos/first-contributions)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Benjamin Chiang](https://github.com/chychiang)
