@@ -8022,6 +8022,7 @@ Will K
 - [Taresh Rajput](https://github.com/taresh18)
 - [ThankGod Ofurum](https://github.com/tcofurum)
 - [Jones R. Bezerra](https://github.com/johny22)
+- [Rishab R](https://github.com/rishabr)
 - [oasdflkjo](https://github.com/oasdflkjo/)
 - [Ross Wilkinson](https://github.com/rgwilkin)
 - [Luke Wilkinson](https://github.com/userLuke)
