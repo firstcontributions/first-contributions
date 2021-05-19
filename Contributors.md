@@ -8,7 +8,7 @@ Pashyant Srivastava
 - [Jimit Patel](https://github.com/Jimitpatel1729)
 - [Jay Gala](https://github.com/jaygala223)
 - [Pashyant](https://github.com/Pashyant)
-- [Nitish Vaishnav](https://github.com/nitishv2017)
+- [Nitish Vaishnav](https://github.com/nitishv2017);
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
@@ -37,6 +37,7 @@ Pashyant Srivastava
 Akshit Agarwal
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
+-[Pratham Bhagat](https://github.com/bhagatpratham);
 -[Aman Verma](https://github.com/amanopia)
 -[Faizan Saeed](https://github.com/FaizanSaeedLogiciel)
 -[Abdul Jawad Vajeeh](https://github.com/jawadsab)
