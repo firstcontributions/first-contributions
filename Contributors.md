@@ -153,6 +153,7 @@ elkhechafi zakaria
 - [Jana Bobulis] (https://github.com/JanaBobulis)
 - [Blaine Young](github.com/blaine137)
 - [qxzsilver1](https://github.com/qxzsilver1)
+- [silver612](https://github.com/silver612)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
 - [Edwin Kodjou](https://github.com/edk21)
