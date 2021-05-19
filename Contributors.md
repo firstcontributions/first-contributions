@@ -268,6 +268,7 @@ elkhechafi zakaria
 - [Alfidaa Alkhan](https://github.com/Alfidaalk)
 - [Eztao](https://github.com/eztao)
 - [Abhishek Kumar](https://github.com/abhi7275)
+- [Ali Brown](https://github.com/alekjbrown)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Kipland Melton](https://github.com/kipland-m)
 - [CryptoD](https://github.com/CryptoD)
