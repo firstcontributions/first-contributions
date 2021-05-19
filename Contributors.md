@@ -17,6 +17,7 @@ Pashyant Srivastava
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Jimmy Cababa] (https://github.com/jimmycababa)
+-[Scott Gorsky] (https://github.com/sjgorsky)
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
