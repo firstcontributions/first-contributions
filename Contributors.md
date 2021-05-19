@@ -19,6 +19,7 @@ Pashyant Srivastava
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
+-[Tomas Morrongiello](https://github.com/tmorrongiello)
 -[Vishva Mahadevan] (https://github.com/Vishwamagdavan)
 -[Prateek Kumar Sharma](https://github.com/prateeksharma0112)
 -[S Mahesh Kumar](https://github.com/s-mahesh-kumar)
