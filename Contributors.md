@@ -7694,6 +7694,7 @@ Will K
 - [Sangeeth Raj](https://github.com/SangeethRaajA)
 - [Dmitry Cherednikov](https://github.com/dcherednikov)
 - [Anna Dunster 🐲](https://github.com/ardunster)
+- [Evelyn Koo](https://github.com/randomrevised/)
 - [Venu](https://github.com/venuDev)
 - [FélixHub](https://github.com/FelixHub)
 - [Richard Ma](https://github.com/reigenatk)
