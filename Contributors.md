@@ -78,6 +78,7 @@ Akshit Agarwal
 -[Aniket kumar](https://github.com/ani1998ket)
 -[Meegada Mahesh](https://github.com/Meegada-Mahesh)
 -[Temiloluwa Micheal](https://github.com/temmyzeus)
+-[Chantal Shine](https://github.com/chantalshine)
 -[Samarth Murthy](https://github.com/samarthkm)
 -[Liam Beaudoin](https://github.com/Greazzzy)
 -[Xu Wenrui](https://github.com/loser-man)
