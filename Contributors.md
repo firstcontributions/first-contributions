@@ -27,6 +27,7 @@ Pashyant Srivastava
 -[Mike Wazowsaki]
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Prajakta Bimalkhedkar] (https://github.com/PrajaktaB27)
+-{Mark Moralls] (https://github.com/mmoralls)
 -[Sebastian Seician](https://github.com/cbastn)
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
 -[Rohan Rawat ](https://github.com/itsron)
