@@ -5,6 +5,7 @@ Pashyant Srivastava
 - [Rutwij Patel]
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
+- [Jimit Patel](https://github.com/Jimitpatel1729)
 - [Jay Gala](https://github.com/jaygala223)
 - [Pashyant](https://github.com/Pashyant)
 - [Nitish Vaishnav](https://github.com/nitishv2017)
