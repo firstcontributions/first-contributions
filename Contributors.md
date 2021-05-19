@@ -24,6 +24,7 @@ Pashyant Srivastava
 -[Sumesh Kuchya](https://github.com/developer-sumesh)
 -[Mike Wazowsaki]
 -[Nitin Gupta](https://github.com/nitingpt000)
+-[Prajakta Bimalkhedkar] (https://github.com/PrajaktaB27)
 -[Sebastian Seician](https://github.com/cbastn)
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
 -[Rohan Rawat ](https://github.com/itsron)
