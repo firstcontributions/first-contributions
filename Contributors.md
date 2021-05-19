@@ -31,6 +31,7 @@ Pashyant Srivastava
 -[Raman_Karki](https://github.com/ramankarki)
 -[Manish_rawat](https://github.com/R11manish)
 -[Rajeev Dandu](https://github.com/Dandu-Rajeev)
+-[Reyaan Jagnani]
 Akshit Agarwal
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
