@@ -4,6 +4,7 @@ Pashyant Srivastava
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Rutwij Patel]
 - [Bartu Bisgin] (https://github.com/bartubisgin)
+- [Jay Gala](https://github.com/jaygala223)
 - [Pashyant](https://github.com/Pashyant)
 - [Nitish Vaishnav](https://github.com/nitishv2017)
 -[Dijo T Mathews](https://github.com/dijotmathews)
