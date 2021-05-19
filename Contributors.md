@@ -16,6 +16,7 @@ Pashyant Srivastava
 -[Miszti Janos](https://github.com/misztijanos/first-contributions)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
+-[Jimmy Cababa] (https://github.com/jimmycababa)
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
