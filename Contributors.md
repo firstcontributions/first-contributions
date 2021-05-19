@@ -1109,6 +1109,7 @@ Berliana
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - [Charan Vasu](https://github.com/charan1973)
 - [Tirta Adi G](https://github.com/tirtavium)
+- [Michael Chu](https://github.com/mcchu12)
 - Daniel Danaee
 - Trevor Johnson
 - [Davy Berra](https://github.com/davyberra)
