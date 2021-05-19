@@ -52,6 +52,7 @@ Akshit Agarwal
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
 -[Corey Hamren]
 -[Maher Gzam](https://github.com/mgzam)
+-[Deepak](https://github.com/DKdEviL)
 -[Michael Ameyaw](https://github.com/mkojoa)
 -[Ritika Pahwa] (https://github.com/RitikaPahwa4444)
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
