@@ -2268,6 +2268,7 @@ Berliana
 - [Priyanshu kumar Singh](https://github.com/Priyanshu-kumar-Singh)
 - [Gustavo Vasconcelos](https://github.com/gustavomv)
 - [Neha Mahto](https://github.com/nehamahto58)
+- [Kirill S](https://github.com/rookhive)
 - [Michael Rodelo](https://github.com/michaeldaviducf/)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [Andrew Manley](https://github.com/manleyac)
