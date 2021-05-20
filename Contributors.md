@@ -97,6 +97,7 @@ Akshit Agarwal
 -[Bargaouz Saad](https://github.com/sbrg95)
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[Deepali Mahajan](https://github.com/DeepaliMahajan-29)
+-[Awaji Kachi](https://github.com/awaji-kachi)
 -[Colleen Hayes] (https://github.com/cahayes12/)
 -[shiv Bhonde] (https://github.com/technophile-04)
 -[Aditi](https://github.com/SavageSanta11)
