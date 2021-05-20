@@ -11430,3 +11430,4 @@ P0nC1k
 - [Anno] (https://github.com/anno59)
 - [Sun Ao] (https://github.com/MarshalL-son)
 - [Vinay Prabhu] (https://github.com/Vinayprabhu19)
+- [Domingo Salerno](https://github.com/DASalerno)
