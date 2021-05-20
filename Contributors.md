@@ -3,6 +3,7 @@
 Pashyant Srivastava
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Rutwij Patel]
+- [Fardeen Ehsan](https://github.com/fardeenes7)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
 - [Jimit Patel](https://github.com/Jimitpatel1729)
