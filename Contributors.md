@@ -5041,6 +5041,7 @@ Yury Smyslov
 - [Peter Bergh](https://github.com/philemonkey)
 - [Soumik Dhar](https://github.com/ninjaonganja)
 - [Crystal Ramirez](www.github.com/cat9563)(call me cat))
+- [John Balke](www.github.com/jbalke)
 - [Sourik Dutta](https://github.com/its-a-me-coder)
 - [Om Khandwala](https://github.com/om-khandwala)
 - [Ankur Ramanuj](https://github.com/ankurramanuj0202)
