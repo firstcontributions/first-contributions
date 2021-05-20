@@ -5421,6 +5421,7 @@ Yury Smyslov
 - [Brynn Dagdick](https://github.com/Brynn153)
 - [Joshua Fritsch](https://github.com/jfritsch75)
 - [Maryam Yusuf](https://github.com/mharyam)
+- [Byron Duarte](https://github.com/bduarte-dev)
 - [Pop Sorina Maria](https://github.com/popsorina)
 - [Kyle Shaw](https://github.com/thebuizelclub)
 - [Arjun Puthli](https://github.com/akagam1)
