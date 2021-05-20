@@ -9242,6 +9242,7 @@ Yury Smyslov
 - [Ramy Rashad](https://github.com/ramyrashad)
 - [Nimrod Perez](https://github.com/interstellar-villain)
 - [Patrick Roy](https://github.com/)
+- [Ahmed Addous](https://github.com/BoredComedy)
 - [Jeswin Mathew](https://github.com/jxm2012)
 - [Michael J Smith](https://github.com/mijamessmith)
 - [Jun Parinya](https://github.com/)
