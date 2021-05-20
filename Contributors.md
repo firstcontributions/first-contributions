@@ -4,6 +4,7 @@
 Pashyant Srivastava
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Rutwij Patel]
+- [Craig Sweeney](https://github.com/sweeneycw)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
