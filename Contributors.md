@@ -73,6 +73,7 @@ Akshit Agarwal
 -[Sparsh Bohra] (https://github.com/SparshBohra)
 -[Saksham Gupta] (https://github.com/Saksham2311)
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
+-[Biraj Khatiwada](https://github.com/birajkhatiwada)
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Pravin Mudaliyar]
 -[Rich McMullen](https://github.com/mcmullenrich)
