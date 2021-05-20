@@ -4297,6 +4297,7 @@ Jairo Martinez
 - [Akshit Soneji](https://github.com/AKSHIT989)
 - [Lucas Deboch](https://github.com/lucasdeboch)
 - [stuffkind](https://github.com/stuffkind/)
+- [Richard O] (https://github.com/richardhyesungo)
 - [Mehmet Badem](https://github.com/memsbdm)
 - [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
