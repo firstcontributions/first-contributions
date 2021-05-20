@@ -10,6 +10,7 @@ Pashyant Srivastava
 - [Jimit Patel](https://github.com/Jimitpatel1729)
 - [Jay Gala](https://github.com/jaygala223)
 - [Pashyant](https://github.com/Pashyant)
+- [Deepthi](https://github.com/Deepthi1810)
 - [Nitish Vaishnav](https://github.com/nitishv2017);
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
@@ -22,7 +23,6 @@ Pashyant Srivastava
 -[Scott Gorsky] (https://github.com/sjgorsky)
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
--[Deepthi](https://github.com/Deepthi1810)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
 -[Tomas Morrongiello](https://github.com/tmorrongiello)
 -[Vishva Mahadevan] (https://github.com/Vishwamagdavan)
