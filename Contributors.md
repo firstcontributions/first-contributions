@@ -122,6 +122,7 @@ Akshit Agarwal
 -[Richa Singh](https://github.com/Richa-09)
 -[Aniket Anand](https://github.com/aniket48020)
 -[Nakul Mitra](https://github.com/nakulmitra)
+-[Dana Lark](https://github.com/danabananax)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Sachi Shah](https://github.com/sachishah08)
