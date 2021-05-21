@@ -110,6 +110,7 @@ Akshit Agarwal
 -[Anvesha Karn](https://github.com/anve2000)
 -[Brian Yen](https://https://github.com/RetroFoxx)
 -[SinisaJO](https://github.com/SinisaJO)
+-[Michael M]
 -[Badal Jha](https://github.com/Badal-Jha)
 -[Suraj Fale](https://github.com/surajfale)
 -[Mert Uygur](https://github.com/mert18)
