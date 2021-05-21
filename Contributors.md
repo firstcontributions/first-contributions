@@ -739,6 +739,7 @@ Berliana
 - [Shubham](https://github.com/shubhamayush12)
 - [Manuel Duarte](https://github.com/manuelduarte077)
 - [Léonnel KAKPO](https://github.com/leonnelkakpo)
+- [Javier Latorre](https://github.com/TheGamerPro0013)
 - [Nihar Sheth] (https://github.com/niharsheth)
 - [Vinay Adaki] (https://github.com/VinayAdaki)
 - [Arthur Redmond](https://github.com/ArthurRedmond)
