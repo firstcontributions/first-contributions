@@ -11173,6 +11173,7 @@ Marica Marian
 - [Andrew Monteiro](https://github.com/Andrew-2609)
 - [Soumokanti Bera](https://github.com/Soumokanti123)
 - [cheryl🦄](https://github.com/nuclearfischion)
+- [MrADIGEN](https://github.com/mradigen)
 - [Ramiro](https://github.com/ramirok)
 - [u9g](https://github.com/u9g)
 - [volokh0x](https://github.com/volokh0x)
