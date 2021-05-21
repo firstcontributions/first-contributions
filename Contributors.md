@@ -10197,6 +10197,7 @@ Yury Smyslov
 - [Jose Ramos](https://github.com/JoeRams)
 - [Salvador Pazos](https://github.com/xPolarCat)
 - [Luis Sebastián](https://github.com/HombreLaser)
+- Michael Sommerauer
 - [Edgar Niño](https://github.com/Edgar-Nino)
 - [Adrián Muñoz](https://github.com/MasMat2)
 - [Sooraj Philip](https://github.com/soorajphilip)
