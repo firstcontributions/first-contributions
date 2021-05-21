@@ -11445,4 +11445,4 @@ P0nC1k
 - [Makhlouk Oussama](https://github.com/oussamaM1)
 - [stefanolod](https://github.com/stefanolod)
 - [Mathias SOUPAULT](https://github.com/msoupault)
-_ [Ludo Da] (https://github.com/Genos-kun)
+- [Genos-kun] (https://github.com/Genos-kun)
