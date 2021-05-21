@@ -20,6 +20,7 @@ Pashyant Srivastava
 -[Rajkumar Panwar]
 -[Amisha Aggarwal](https://github.com/amishaagg)
 -[Miszti Janos](https://github.com/misztijanos/first-contributions)
+-[Aarthi Suresh Kumar](https://github.com/ask-1710)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Jimmy Cababa] (https://github.com/jimmycababa)
