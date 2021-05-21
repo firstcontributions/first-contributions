@@ -383,6 +383,7 @@ elkhechafi zakaria
 - [Roni Eppstein](https://github.com/roniepp)
 - [Dagon Lee](https://github.com/dagonlee)
 - [Cho Sangmuk](https://github.com/ChoSangmuk)
+- [Stephanie Opala](https://github.com/stephanieopala)
 - [Marouane Mouloue](https://github.com/marouanemouloue)
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
 - [Toihir Halim](https://github.com/toihirhalim)
