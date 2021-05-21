@@ -4,6 +4,7 @@
 Pashyant Srivastava
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Rutwij Patel]
+- [Jaykishan Satikuvar]
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Craig Sweeney](https://github.com/sweeneycw)
