@@ -476,6 +476,7 @@ elkhechafi zakaria
 - [Nicholas Pally] (https://github.com/npally)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
+- [Demonhue] (https://github.com/demonhue)
 - [Drew Bayles] (https://github.com/shakurgds)
 - Elias Tokola
 - [Dave Velasco](https://github.com/davevelasco)
