@@ -10570,6 +10570,7 @@ Yury Smyslov
 - [Dan Kolodny](https://github.com/kolodny-coder)
 - [Freddy Järvå](https://github.com/freddyJarva)
 - [FireFighterDuck](https://github.com/firefighterduck)
+- [Tommaso D'Argenio](https://github.com/tommasodargenio)
 - [Kevin Goodenough](https://github.com/kevingoodenough)
 - [bobphul](https://github.com/bobphul)
 - [Alan Kwanhong LEE](https://github.com/kwanhong66)
