@@ -1005,6 +1005,7 @@ Berliana
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
+- BlueHats workshop
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
 - [Anuar Hage](https://github.com/anuarhage)
