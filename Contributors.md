@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 [Adam McCartney](https://github.com/adammccartney)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
@@ -1179,6 +1179,7 @@ Berliana
 - [George L](https://github.com/lambet6)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Trevor Dolbow] (https://github.com/tdolbow)
+- Ion Postolache] (https://github.com/ionpostolache)
 - [Caroline Kistler](https://github.com/carolinekistler)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
 - [Collin Rampata](https://github.com/Crampata)
