@@ -230,6 +230,7 @@ elkhechafi zakaria
 - [Daniel Armas](https://github.com/daniel692a)
 - [Nathan Sindres](https://github.com/nasdev-cmd)
 - [Pulkit Ranjan](https://github.com/pulkit2910-bit)
+- [Johnny Vineyard](https://github.com/javineya/)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
