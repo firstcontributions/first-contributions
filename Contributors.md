@@ -28,6 +28,7 @@ Pashyant Srivastava
 -[Scott Gorsky] (https://github.com/sjgorsky)
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
+-[Jafar Gholamzadeh](https://github.com/jafar75)
 -[Deepthi](https://github.com/Deepthi1810)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
 -[Tomas Morrongiello](https://github.com/tmorrongiello)
