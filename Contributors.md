@@ -8543,6 +8543,7 @@ Yury Smyslov
 - [Ron Gaza](https://github.com/fugarza)
 - [Nihal Pandey](https://github.com/stark019)
 - [Alex Parra](https://github.com/alex-parra)
+- [Janna Voss](https://github.com/janna-in-sf)
 - [Chris Lewis](https://github.com/Ryu1284)
 - [Shrey Dua]()
 - [Martin Watkins](https://github.com/martinw13)
