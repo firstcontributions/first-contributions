@@ -11213,6 +11213,7 @@ Marica Marian
 - [Xuup](https://github.com/xuup)
 - [Xavier](https://github.com/xuzewei)
 - [HorizonChaser](https://github.com/HorizonChaser)
+- [Dillon Hirth](https://github.com/DillonHirth)
 - [Parthib Banerjee](https://github.com/parthib01)
 - [Carlos Gamboa](https://github.com/gamboacarlos)
 - [Alvin Zhao](https://github.com/yzAlvin)
