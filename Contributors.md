@@ -47,6 +47,7 @@ Pashyant Srivastava
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
 -[Rohan Rawat ](https://github.com/itsron)
 -[Raman_Karki](https://github.com/ramankarki)
+-[Yazan Qwaider](https://github.com/yazanQwadier/first-contributions)
 -[Manish_rawat](https://github.com/R11manish)
 -[Rajeev Dandu](https://github.com/Dandu-Rajeev)
 -[Adarsh Kishore](https://github.com/ashy-boy786)
