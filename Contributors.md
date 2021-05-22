@@ -8,6 +8,7 @@ Pashyant Srivastava
 - [Jaykishan Satikuvar]
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
+- [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
