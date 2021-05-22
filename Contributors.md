@@ -118,6 +118,7 @@ Akshit Agarwal
 -[Mert Uygur](https://github.com/mert18)
 -[Molly Scott](https://github.com/mcbeepyface)
 -[Dima Zimin](https://github.com/DimaZimin)
+-[Gurudeta Singh](https://github.com/GurudetaSingh)
 -[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
 -[xMdb](https://github.com/xMdb)
