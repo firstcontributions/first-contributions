@@ -11459,3 +11459,4 @@ P0nC1k
 - [stefanolod](https://github.com/stefanolod)
 - [Mathias SOUPAULT](https://github.com/msoupault)
 _ [Ludo Da] (https://github.com/Genos-kun)
+- [Michael Campo](https://github.com/mcampo2)
