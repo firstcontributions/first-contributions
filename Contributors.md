@@ -404,6 +404,7 @@ elkhechafi zakaria
 - [Aman Kumar Singh](https://github.com/amankrsnh)
 - [Mohamed Emad](https://github.com/iMezemz)
 - [Thibault de Poyferré](https://github.com/tedpoyfe)
+- [Vivek Thazhathattil](https://github.com/VivekThazhathattil)
 - [Rosy Priya Augutin](https://github.com/dev-augustin/first-contributions.git)
 - [LeoWootsi](https://github.com/LeoWootsi)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
