@@ -10698,6 +10698,7 @@ Yury Smyslov
 - [PavlMais](https://github.com/PavlMais)
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Joel Poh](https://github.com/jwnpoh)
+- [Tristan Schaaf](https://github.com/TristanSchaaf)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Prateek Goel](https://github.com/goelprateek5) 🤙
 - [Esben Sørensen](https://github.com/esbendamkjaer)
