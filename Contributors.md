@@ -11434,6 +11434,7 @@ P0nC1k
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
 - [Nitish]
+- [Gayatri Gurram](https://github.com/gayatri05)
 - [AndriyKurdyukov](https://github.com/AndriyKurdyukov)
 - [Ashvith Shetty](https://github.com/Ashvith)
 - [Laszlo]
