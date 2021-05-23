@@ -136,6 +136,7 @@ Akshit Agarwal
 -[Dana Lark](https://github.com/danabananax)
 -[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
+-[Balaji Kanagaraju](https://github.com/balaji119)
 -[Sachi Shah](https://github.com/sachishah08)
 -[Krishna Soundararajan](https://github.com/krishna2793)
 -[Akash Dwivedi](https://github.com/akashdwivedi98)
