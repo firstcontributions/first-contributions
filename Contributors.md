@@ -120,6 +120,7 @@ Akshit Agarwal
 -[Brian Yen](https://https://github.com/RetroFoxx)
 -[SinisaJO](https://github.com/SinisaJO)
 -[Michael M]
+-[Qasim Abdullah](https://github.com/qasimabdullah404)
 -[Badal Jha](https://github.com/Badal-Jha)
 -[Suraj Fale](https://github.com/surajfale)
 -[Mert Uygur](https://github.com/mert18)
