@@ -10,6 +10,7 @@ Pashyant Srivastava
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
+- [Cat Sheiles](https://github.com/CatSheiles)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
