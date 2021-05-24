@@ -9,6 +9,7 @@ Pashyant Srivastava
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Craig Sweeney](https://github.com/sweeneycw)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
+- [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
 - [Jimit Patel](https://github.com/Jimitpatel1729)
