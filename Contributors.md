@@ -13,6 +13,7 @@ Pashyant Srivastava
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
+- [Midhun](https://github.com/midhun2002)
 - [Jimit Patel](https://github.com/Jimitpatel1729)
 - [Jay Gala](https://github.com/jaygala223)
 - [Kushagra Kshatri] (https://github.com/kushagrakshatri)
