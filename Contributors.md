@@ -66,6 +66,7 @@ Akshit Agarwal
 -[Tom Magnitis](https://github.com/magnitis)
 -[Raja P](https://github.com/raja-softwareengineer)
 -[Nikita Saini](https://github.com/nikitaaa23)
+-[Manuel Guzman](https://github.com/MGS1993)
 -[Lily Huang](https://github.com/LemonPocky)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
 -[Rohith Yelagam](https://github.com/rohithyelagam)
