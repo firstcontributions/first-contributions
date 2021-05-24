@@ -8,6 +8,7 @@ Pashyant Srivastava
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
 - [Jaykishan Satikuvar]
 - [Rupali Singh](https://github.com/rupalisingh)
+- [Peter Kampete](https://github.com/PeterKampete)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
