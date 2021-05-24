@@ -24,6 +24,7 @@ Pashyant Srivastava
 -[Amisha Aggarwal](https://github.com/amishaagg)
 -[Miszti Janos](https://github.com/misztijanos/first-contributions)
 -[Aarthi Suresh Kumar](https://github.com/ask-1710)
+-[Artur Mickiewicz](https://github.com/astratow)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
 -[Jimmy Cababa] (https://github.com/jimmycababa)
