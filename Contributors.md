@@ -58,6 +58,7 @@ Pashyant Srivastava
 -[Andrej Oravec](https://github.com/andrejor/)
 -[Reyaan Jagnani]
 Akshit Agarwal
+-[jainik bakshi](https://github.com/jainikbakshi)
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
 -[Pratham Bhagat](https://github.com/bhagatpratham);
