@@ -88,6 +88,7 @@ Akshit Agarwal
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Clemens Bauer](https://github.com/Clemi2806)
+-[Ashutosh Tripathi](https://github.com/ashutosh4036)
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Sparsh Bohra] (https://github.com/SparshBohra)
 -[Saksham Gupta] (https://github.com/Saksham2311)
