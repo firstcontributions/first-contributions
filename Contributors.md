@@ -160,6 +160,7 @@ Akshit Agarwal
 -[Jaggehn S](https://github.com/jaggehns)
 -[David M] (https://github.com/divi4)
 -[Chirag Madaan](https://github.com/chirag-madaan)
+-[Abhishek Jha] (https://github.com/abhijhacodes)
 -[Salil Chincholikar](https://github.com/chincholikarsalil)
 -[Marco Orsini](https://github.com/anemon-ai)
 -[r0b0ty](https://github.com/R0b0ty)
