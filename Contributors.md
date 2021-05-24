@@ -9,6 +9,7 @@ Pashyant Srivastava
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
+- [D'Angela Pritchett-Rowe] (https://github.com/dangelapr)
 - [Craig Sweeney](https://github.com/sweeneycw)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
