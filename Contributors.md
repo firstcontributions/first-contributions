@@ -11,6 +11,7 @@ Pashyant Srivastava
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
+- [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
 - [Midhun](https://github.com/midhun2002)
