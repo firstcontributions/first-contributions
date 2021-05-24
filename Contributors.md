@@ -5,6 +5,7 @@ Pashyant Srivastava
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Rutwij Patel]
+- [Roddy Ackerman](https://github.com/Roddy-Ackerman)
 - [Jaykishan Satikuvar]
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
