@@ -61,7 +61,6 @@ Pashyant Srivastava
 -[Andrej Oravec](https://github.com/andrejor/)
 -[Reyaan Jagnani]
 Akshit Agarwal
--[jainik bakshi](https://github.com/jainikbakshi)
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
 -[Pratham Bhagat](https://github.com/bhagatpratham);
@@ -83,6 +82,8 @@ Akshit Agarwal
 -[DeviatorsLegacy](https://github.com/deviatorslegacy)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
 -[Corey Hamren]
+-[jainik bakshi](https://github.com/jainikbakshi)
+-[arbahhCluhaR]
 -[Maher Gzam](https://github.com/mgzam)
 -[Deepak](https://github.com/DKdEviL)
 -[Michael Ameyaw](https://github.com/mkojoa)
