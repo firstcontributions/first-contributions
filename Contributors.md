@@ -7184,6 +7184,7 @@ Yury Smyslov
 - [Postnov Egor](https://github.com/Promo656)
 - [Alonzo Church](https://github.com/Awesome)
 - [Sneha Santhosh](https://github.com/Sneha-Santhosh)
+- [Keerthana Nuti](https://github.com/Keerthana1102)
 - [Preetham Kulai](https://github.com/scamper07)
 - [Damien Burke](https://github.com/DamienJBurke)
 - [Arindam Majumder](https://github.com/i-m-arin)
