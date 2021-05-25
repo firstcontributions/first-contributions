@@ -9,6 +9,7 @@ Pashyant Srivastava
 - [Rutwij Patel]
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
 - [Jaykishan Satikuvar]
+- [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
