@@ -5600,6 +5600,7 @@ Yury Smyslov
 - -Arnav Menon
 - Mohan-Cloud
 - [Brage Rosberg](https://github.com/bragerosberg)
+- [Luke P]
 - [Minel Aydın - Minnela :)](https://github.com/minnela)
 - [Jonathan R]
 - David Kwong
