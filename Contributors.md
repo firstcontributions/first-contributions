@@ -345,6 +345,7 @@ elkhechafi zakaria
 - [Manish Kumar] (https://github.com/maanis104)
 - [Francisco Pereira](https://github.com/FranciscoPereira987)
 - [Raghav Mehrotra](https://github.com/raghav-max)
+- [Yazan Qawasmeh](https://github.com/yazan929)
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Alekya Kowta](https://github.com/AlekyaKowta)
 - [Ane S]
