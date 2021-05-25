@@ -59,6 +59,7 @@ Akshit Agarwal
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Pravin Mudaliyar]
+-[Rishav Prashar]
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
