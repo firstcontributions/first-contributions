@@ -84,6 +84,7 @@
 - [George Peden](https://github.com/gpeden)
 - [Eric Dahlgren](https://github.com/eriyc)
 - [Raghav Mehrotra](https://github.com/raghav-max)
+- [Yazan Qawasmeh](https://github.com/yazan929)
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Ane S]
 - [Brunda B R]
