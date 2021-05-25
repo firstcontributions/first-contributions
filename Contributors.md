@@ -4,6 +4,7 @@
 Pashyant Srivastava
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
+- [Jeong Shin](https://github.com/jshinnn)
 - [Rutwij Patel]
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
 - [Jaykishan Satikuvar]
