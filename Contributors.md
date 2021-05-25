@@ -85,6 +85,7 @@ Akshit Agarwal
 -[Lungisani Mthethwa](https://github.com/lungis4ni)
 -[Shreyash Vinod Malu](https://github.com/Shreyash2607)
 -[Ayush Chaturvedi](https://github.com/ayushchaturvedi4real)
+-[Ronak Pradhan](https://github.com/Ronak-Pradhan)
 -[A.M Elkheir](https://github.com/am-elkheir)
 -[Gautham P Krishnan](https://github.com/gauthampkrishnan)
 -[DeviatorsLegacy](https://github.com/deviatorslegacy)
