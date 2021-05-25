@@ -1,7 +1,7 @@
 # Contributors
 [Adam McCartney](https://github.com/adammccartney)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
-Pashyant Srivastava
+Pashyant Srivastavasdf
 - [A91y](https://github.com/A91y)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
@@ -11517,4 +11517,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Sam An](https://github.com/sammiee5311)
 - [Yuka Okuda](https://github.com/yuka1369)
 - [Juyeon Kim](https://github.com/proceane)
-- [Fernando Sampaio](https://github.com/Sampasbc)
+- [Fernando Sampaio](https://github.com/Sampasbc)  
+- [Hamza MiloufdAmar](https://github.com/HamzaAmar)
