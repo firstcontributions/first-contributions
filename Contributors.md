@@ -10,6 +10,7 @@ Pashyant Srivastava
 - [Jaykishan Satikuvar]
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
+- [Chayan Kumar Sengupta](https://github.com/Chayan199916)
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
