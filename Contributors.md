@@ -298,6 +298,7 @@ elkhechafi zakaria
 - [Gourish Biradar](https://github.com/gourishbiradar)
 - [Joshua Wotman](https://github.com/jwotman)
 - [Mohit Sharma] (https://github.com/12562)
+- [Kayla Walker] (https://github.com/kayverly)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kayleen Carido] (https://github.com/kvcarido)
