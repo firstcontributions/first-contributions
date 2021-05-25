@@ -2,6 +2,7 @@
 [Adam McCartney](https://github.com/adammccartney)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
+- [Alestan Alves](https://github.com/AlestanAlves)
 - [A91y](https://github.com/A91y)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
