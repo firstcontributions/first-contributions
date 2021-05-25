@@ -1395,6 +1395,7 @@ Berliana
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
 - [Finn Trefzer] (https://github.com/F1nn-T)
 - [Morgan Jones](https://github.com/morgsj)
+- [Nick Hollins](https://github.com/TheDevNick)
 - [Mehtab Khan](https://github.com/kmehtab)
 - [Ryan Deng](https://github.com/ryandeng32)
 - [Magicianred](https://github.com/Magicianred)
