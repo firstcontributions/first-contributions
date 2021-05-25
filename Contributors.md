@@ -249,6 +249,7 @@ elkhechafi zakaria
 - [Nachiketa Dhal](https://github.com/NachiketaDhal)
 - [Farhan Ali Rahmoon](https://github.com/FarhanRah)
 - [Keerat Kaur Guliani](https://github.com/KeeratKG)
+- [Toni Kulic](https://github.com/tkulic)
 - [0Ams](https://github.com/0ams)
 - [Tyler Marlow](https://github.com/Tmarlow98)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
