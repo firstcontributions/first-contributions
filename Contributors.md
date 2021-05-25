@@ -22,6 +22,7 @@
 -[Yuv](https://github.com/yuvsust)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
+Dimi
 -[Dimitar Atanassov](https://github.com/DimitarAtanassov)
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
