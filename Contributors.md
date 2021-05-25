@@ -11389,6 +11389,7 @@ sarvagya rastogi
 - [Yaswanthkumar Gothireddy](https://github.com/yaswanthkumargothi)
 - [Ozine](https://github.com/Ozine233)
 - [Arjun Satheesh](https://github.com/arjunsatheesh)
+- [Gian Fiorenzo]https://github.com/x-gf-x)
 - [Isaac Chung](https://github.com/isaac-chung/)
 - [Alan Chiou](https://github.com/AlanChiou)
 - [Dalhatu Njidda](https://github.com/dalsn)
