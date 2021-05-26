@@ -13,6 +13,7 @@ Pashyant Srivastava
 - [Jaykishan Satikuvar]
 - [DakOneil]
 - [Edward S]
+- [Pradhuman Singh Rathore](https://github.com/Pradhuman-singh5)
 - [CristianH15]
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Rupali Singh](https://github.com/rupalisingh)
