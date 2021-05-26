@@ -11,6 +11,7 @@ Pashyant Srivastava
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
 - [Jaykishan Satikuvar]
 - [DakOneil]
+- [CristianH15]
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
