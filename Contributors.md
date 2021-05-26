@@ -8971,6 +8971,7 @@ Yury Smyslov
 - [Sushant Kadam](https://github.com/sushant66)
 - [Umizoko](https://github.com/Umizoko)
 - [Simon Aust](http://github.com/siaust)
+- [Pa H.]
 - [Phil Liao](https://github.com/phil-ociraptor)
 - [Sinane Si Mohammed](https://github.com/ssi-moha)
 - [Beatriz Rezener](https://github.com/beatrizrezener)
