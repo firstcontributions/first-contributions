@@ -1998,6 +1998,7 @@ Berliana
 - [Isaac Contreras](https://github.com/icontreras16)
 - [Evgeni Bershadsky](https://github.com/EvgeniBR)
 - [Jeremie Bogaert](https://github.com/jebogaert)
+- [Sethuram] (https://github.com/Sethuram52001)
 - [Samuel Sorial](https://github.com/Samuel-Sorial)
 - [Samuel McKean](https://github.com/samuelmckean)
 - [Suman Jha](https://github.com/frozenplanet14)
