@@ -685,6 +685,7 @@ elkhechafi zakaria
 - [Ubaidh](https://github.com/ubaidh)
 - [Karl Gustafsson](https://github.com/knopp10000)
 -[Mattia Pomelli](https://github.com/mattiapomelli)
+-[kristian-cho](https://github.com/kristian-cho)
 - [Ekjot Singh] (https://github.com/wisetreewildfi)
 Berliana
 -[Harshil Jani] (https://github.com/harshil-jani)
