@@ -159,7 +159,8 @@ Akshit Agarwal
 -[Aniket Anand](https://github.com/aniket48020)
 -[Nakul Mitra](https://github.com/nakulmitra)
 -[Dana Lark](https://github.com/danabananax)
--[zowhair](https://github.com/zowhair)
+-Vinh Ngo
+[zowhair](https://github.com/zowhair)
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Balaji Kanagaraju](https://github.com/balaji119)
 -[Sachi Shah](https://github.com/sachishah08)
