@@ -5,6 +5,7 @@ Pashyant Srivastava
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [A91y](https://github.com/A91y)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
+- [Ashutosh Vishwakarma](https://github.com/ashvish183)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Jeong Shin](https://github.com/jshinnn)
