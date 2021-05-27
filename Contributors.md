@@ -6335,7 +6335,8 @@ Yury Smyslov
 - [Enda Moore](https://github.com/EndaMoore)
 - [Viktor Basharkevich](https://github.com/ViktorBash)
 - Hemant Kumar
-- [Aliya Summers](https://github.com/arsummers)
+- [Aliya Summers](https://github.com/arsummers) 
+- [Gilman Huang](https://github.com/Gily-H)
 - Moshe Stone
 - Imed Touhami
 - Rahul Katamneni
