@@ -3,6 +3,7 @@
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 - [Alestan Alves](https://github.com/AlestanAlves)
+- [Sachin Kumar](https://github.com/sachin212)
 - [A91y](https://github.com/A91y)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
