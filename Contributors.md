@@ -6149,6 +6149,7 @@ Yury Smyslov
 - fis Arain
 - Seb Ots
 - Rohit Patil
+- [Kenneth Lamb](https://github.com/slurrps-mcgee)
 - [Yasharth Tripathi](https://github.com/yasharthratan)
 - [Joe Jolley](https://github.com/jolleyjoe)
 - [Abhay Kumar Verma](https://github.com/darkRaspberry)
