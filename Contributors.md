@@ -14,6 +14,7 @@ Pashyant Srivastava
 - [Jaykishan Satikuvar]
 - [DakOneil]
 - [Edward S]
+- [kuluruvineeth](https://github.com/kuluruvineeth)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [CristianH15]
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
