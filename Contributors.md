@@ -16,6 +16,7 @@ Pashyant Srivastava
 - [Edward S]
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
+- [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
   [Prashil Ganvir]
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
