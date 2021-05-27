@@ -52,6 +52,7 @@ Pashyant Srivastava
 -[Benjamin Chiang](https://github.com/chychiang)
 -[Teja Devisetti](https://github.com/Teja54)
 -[Jafar Gholamzadeh](https://github.com/jafar75)
+-[Muhammed-Shahid](https://github.com/Muhammed-Shahid)
 -[Deepthi](https://github.com/Deepthi1810)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
 -[Tomas Morrongiello](https://github.com/tmorrongiello)
