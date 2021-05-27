@@ -87,6 +87,7 @@ Pashyant Srivastava
 -[Adarsh Kishore](https://github.com/ashy-boy786)
 -[Andrej Oravec](https://github.com/andrejor/)
 -[Andres Orozco](https://github.com/moonR2)
+-[Daniel Ojeda](https://github.com/leinadpy)
 -[Reyaan Jagnani]
 Akshit Agarwal
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
