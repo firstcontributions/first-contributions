@@ -1026,6 +1026,7 @@ Berliana
 - [Gabriel Roza de Oliveira](https://github.com/Roza918)
 - Jennifer Russell
 - Alex English
+- Ayush Abhishek Kumar
 - [Colin Panarra](https://github.com/ColinPanarra)
 - [Manzi Eric](https://github.com/manziEric)
 - [Kibet Theophilus](https://github.com/kibettheophilus)
