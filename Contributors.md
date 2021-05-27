@@ -15,7 +15,6 @@ Pashyant Srivastava
 - [DakOneil]
 - [Edward S]
 - [CristianH15]
-- Eric Liu
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
