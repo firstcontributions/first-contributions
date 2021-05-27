@@ -16,6 +16,7 @@ Pashyant Srivastava
 - [Edward S]
 - [CristianH15]
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
+- [lyine](https://github.com/lyineee)
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
 - [Chayan Kumar Sengupta](https://github.com/Chayan199916)
