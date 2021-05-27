@@ -5219,6 +5219,7 @@ Yury Smyslov
 - [Trevor Tang](https://github.com/AwpData)
 - Jienan
 - [rydcormier](https://github.com/rydcormier)
+- [Velaztro](https://github.com/velaztro)
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
 - [Rakesh Jarupula](https://github.com/Rakesh148)
