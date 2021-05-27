@@ -10182,6 +10182,7 @@ Yury Smyslov
 - [Mat Sayle](https://github.com/msayle81)
 - [Fauzan Edris](https://github.com/FauzanEdris)
 - [Avleen Kaur](https://github.com/avleen2898)
+- [Smarpit Singh](https://github.com/smarpit-singh)
 - [Pedro Perez](https://github.com/pedrousp)
 - [Sage Mahannah](https://github.com/sagenm)
 - [Surendra Maharjan](https://github.com/cyrus305)
