@@ -11538,6 +11538,7 @@ P0nC1k
 - [Makhlouk Oussama](https://github.com/oussamaM1)
 - [stefanolod](https://github.com/stefanolod)
 - [Mathias SOUPAULT](https://github.com/msoupault)
+- [Ayush Aggarwal](https://github.com/ayush2701)
 _ [Ludo Da] (https://github.com/Genos-kun)
 - [Michael Campo](https://github.com/mcampo2)
 - [Mr.Robot2025](https://github.com/MrRobot2025/)
