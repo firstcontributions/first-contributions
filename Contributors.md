@@ -36,6 +36,7 @@ Shashank Srivastava
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
 - [Anirudh Kaushal](https://github.com/anirudh09041)
+- [Yehua Wei] (https://github.com/yehuawei01)
 - [Charlotte Delvaux](https://github.com/pgm-chardelv1)
 - [James Greenway] (https://github.com/JPGreenway)
 - [D'Angela Pritchett-Rowe] (https://github.com/dangelapr)
