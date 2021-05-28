@@ -850,6 +850,7 @@ Berliana
 - [Monesh Goyal] (https://github.com/2201monesh)
 - [Munia Balayil] (https://github.com/mbalayil)
 - [Daniel Wong] (https://github.com/dsew77)
+- [Everton Miranda](https://github.com/EvertonMirand)
 - [Mahesh Sudhakar](https://github.com/smahesh2694)
 - [Marcin Glod](https://github.com/Mglod-usernametaken)
 - Michael Chen (https://github.com/michaelgchen)
