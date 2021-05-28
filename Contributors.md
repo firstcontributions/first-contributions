@@ -22,6 +22,7 @@ Pashyant Srivastava
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
   [Prashil Ganvir]
+Shashank Srivastava
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Otito Darl-Uzu](https://github.com/otito12)
 - [lyine](https://github.com/lyineee)
