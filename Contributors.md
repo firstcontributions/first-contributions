@@ -513,6 +513,7 @@ elkhechafi zakaria
 - [Martin Richer] (https://github.com/mricher1414)
 - [Sudha Kotni] (https://github.com/sudhakotni-git)
 - [Ehimare Okosun](https://github.com/ehimare369)
+- [Zeytax] (https://github.com/Zeytax)
 - [Thomas Roe] (https://github.com/roetom22)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
 - [Sayak Mondal](https://github.com/isayakmondal)
