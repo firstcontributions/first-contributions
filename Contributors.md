@@ -9727,6 +9727,7 @@ Yury Smyslov
 - [drmikeida](https://github.com/drmikeida)
 - [crettis](https://github.com/crettis)
 - [LeonClancy](https://github.com/LeonClancy)
+- [Leonard Chung](https://github.com/renveresk)
 - [BBundi :bird:](https://github.com/bengaara)
 - [Ashish Kini](https://github.com/kiniashish)
 - [Nitish Awasthi](https://github.com/Nitish-Awasthi)
