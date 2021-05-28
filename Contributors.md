@@ -790,7 +790,7 @@ Berliana
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
 - [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
 - [Arjun R](https://github.com/arjun-prs)
-- [USP Anupam](https://github.com/Anupam-USP)
+- [usp anupam](https://github.com/Anupam-USP)
 - [Muhammad Azhar](https://github.com/git-azhar)
 - [Sanjay PS](https://github.com/Dabohemianstarlord)
 - [Kunal Vaidya](https://github.com/Ikunalv)
