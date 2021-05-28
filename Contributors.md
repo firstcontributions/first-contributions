@@ -7692,6 +7692,7 @@ Yury Smyslov
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
 - [Matt Anderson](https://github.com/mattander)
+- [Brigitte Sprung](https://github.com/BrigitteSprung)
 - [Tim](https://github.com/Tim-Smet)
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
 - [Dipanshu Agarwal](https://github.com/Dipanshu9689)
