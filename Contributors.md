@@ -9997,6 +9997,7 @@ Yury Smyslov
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
 - [Sadie Lehenbauer](https://github.com/sadielehnbauer)
 - [Meenakshi Panda](https://github.com/kppmp)
+- [Sriharsha Dodda] (https://github.com/sriharsha-dodda)
 - [Avanti L](https://github.com/RainbowCoderTP)
 - Hirva Shah
 - [Jessica Albert](https://github.com/jmalbert7)
