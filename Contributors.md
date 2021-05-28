@@ -36,6 +36,7 @@ Pashyant Srivastava
 - [James Greenway] (https://github.com/JPGreenway)
 - [D'Angela Pritchett-Rowe] (https://github.com/dangelapr)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
+- [Antonio Glez Pizarro] (https://github.com/angopi76)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
