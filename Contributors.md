@@ -11338,6 +11338,7 @@ Marica Marian
 - [SinKy](https://github.com/SinKy-Yan)
 - [MonsieurLundi](https://github.com/MonsieurLundi)
 - [Tim Tsai](https://github.com/tim08094495757)
+- [Ville Savolainen]
 - [79-k] (https://github.com/79-k)
 - [IB-Git] (https://github.com/IB-Git)
 - [gdcodes](https://github.com/gd-codes)
