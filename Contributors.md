@@ -124,6 +124,7 @@ Akshit Agarwal
 -[Michael Ameyaw](https://github.com/mkojoa)
 -[Ritika Pahwa] (https://github.com/RitikaPahwa4444)
 -[Vaibhav Mishra](https://github.com/VaibhavMishra17) 
+-[Yoga Aris Romadhona](https://github.com/y2a3r4)
 -[Aditya Kumar Kasaudhan](https://github.com/Aditya8840)
 -[Clemens Bauer](https://github.com/Clemi2806)
 -[Ashutosh Tripathi](https://github.com/ashutosh4036)
