@@ -230,6 +230,7 @@ Arpit Agarwal
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 -[Anto Melvin](https://github.com/antomelvin)
+-[Cooper Walter](https://github.com/cooperwalter)
 Gavriel Frant
 
 elkhechafi zakaria
