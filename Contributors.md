@@ -7221,6 +7221,7 @@ Yury Smyslov
 - [Iniobong Benson](https://github.com/linibensonjr)
 - [Tristan Mc](https://github.com/T-mclennan)
 - [Michael Talarico](https://github.com/MichaelRTalarico)
+- [amarjeetsahoo](https://github.com/amarjeetsahoo)
 - [Vishal Anand](https://github.com/vishalofficial965)
 - [Dugg Antocicco](https://github.com/dantocicco)
 - [Karl Matthes](https://github.com/CarlKarlQarl)
