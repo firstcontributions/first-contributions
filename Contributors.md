@@ -122,6 +122,7 @@ Akshit Agarwal
 -[Corey Hamren]
 -[jainik bakshi](https://github.com/jainikbakshi)
 -[arbahhCluhaR]
+-[Marshall Nyasha Chikari](https://github.com/gitnyasha)
 -[Amit Kumar Singh](https://github.com/amit-singh1)
 -[Maher Gzam](https://github.com/mgzam)
 -[Deepak](https://github.com/DKdEviL)
