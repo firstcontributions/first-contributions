@@ -710,6 +710,7 @@ elkhechafi zakaria
 - [Jordan Mellor](https://github.com/jlm222)
 - [Shashank Bengaluru Srinivasa](https://github.com/sbengal2/)
 - [Will Firman] (https://github.com/willfir/)
+- [Aman Sariya](https://github.com/amansariya)
 - [Lisa Fruitwala](https://github.com/ulfatFrwl)
 - [Sandra F.](https://github.com/SandraFer)
 - [Ubaidh](https://github.com/ubaidh)
