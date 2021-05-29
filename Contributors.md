@@ -13,6 +13,7 @@ Isha Gupta
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [Sachin Kumar](https://github.com/sachin212)
 - [A91y](https://github.com/A91y)
+- [Harshit Srivastava](https://github.com/harshit-srivastava-1608)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
