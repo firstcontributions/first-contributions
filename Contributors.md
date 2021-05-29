@@ -229,6 +229,7 @@
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
+- [Saikat Roy](https://github.com/njmsaikat/)
 - [Ruth Ikegah] (https://github.com/Ruth-ikegah)
 - Yavis Yuan
 - Andrew Barton
