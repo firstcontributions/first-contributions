@@ -23,6 +23,7 @@ Isha Gupta
 - [Kartikeya Srivastava ](https://github.com/Kartikeya05S)
 - [Jaykishan Satikuvar]
 - [DakOneil]
+- [Denali Balser](https://github.com/denalibalser)
 - [Edward S]
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 - [sandeepkhantwal](https://github.com/sandeepkhantwal)
