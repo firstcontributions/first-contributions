@@ -4,6 +4,7 @@ Aadiya Agrawal
 [Adam McCartney](https://github.com/adammccartney)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
+Isha Gupta
 - [Shoaib M](https://github.com/shabbs15)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
