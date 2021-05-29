@@ -8740,6 +8740,7 @@ Yury Smyslov
 - [Kyle Moreira](https://github.com/NotKharon/)
 - [D Lincoln](https://github.com/da-lincoln)
 - [Chris P](https://github.com/j393554)
+- [Sugat Bhagat](https://github.com/sugatbhagat20)
 - [Nuclear Catapult](https://github.com/Nuclear-Catapult)
 - [Ugu](https://github.com/uguuuuuu)
 - [Fatih Samur](https://github.com/fatihsamur) 👋
