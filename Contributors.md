@@ -8,6 +8,7 @@ Isha Gupta
 - [Shoaib M](https://github.com/shabbs15)
 - [Nik-hz](https://github.com/nik-hz)
 - rjaquez
+- [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
 - [Alestan Alves](https://github.com/AlestanAlves)
