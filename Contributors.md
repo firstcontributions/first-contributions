@@ -22,6 +22,7 @@ Pashyant Srivastava
 - [Edward S]
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 Sakshi Bansal
+- [Devender Bisht] (https://github.com/devbistt)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
