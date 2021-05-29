@@ -5,6 +5,7 @@ YiCheng Chung
 Pashyant Srivastava
 - [Shoaib M](https://github.com/shabbs15)
 - [Mumul](https://github.com/mumul21)
+- [Firdavs](https://github.com/uzproblue)
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [Sachin Kumar](https://github.com/sachin212)
 - [A91y](https://github.com/A91y)
