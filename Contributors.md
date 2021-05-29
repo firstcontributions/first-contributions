@@ -3802,6 +3802,7 @@ Aman S
 - [Abhishek jha](https://github.com/abhi-469)
 - [Saksham Gupta](https://github.com/isakshamgupta)
 - [Danny Poit](https://github.com/dannypoit)
+- [Big Boi](https://github.com/Letorshillen)
 - [Laukik Verma](https://github.com/Laukik-11)
 - [Burak Sürmen](https://github.com/bsurmen)
 - [Caroline Mendez](https://github.com/CaroMen)
