@@ -5790,6 +5790,7 @@ Yury Smyslov
 - Sean Paz
 - Holden Nelson
 - Taylor Koressel
+- [Aaron Simpson](https://github.com/aaronsimpsoncs)
 - mallgyd
 - [Pravin](https://pravin772.github.io/pravindev/)
 - Rain
