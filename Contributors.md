@@ -104,6 +104,7 @@ Shashank Srivastava
 -[Yazan Qwaider](https://github.com/yazanQwadier/first-contributions)
 -[Manish_rawat](https://github.com/R11manish)
 -[Rajeev Dandu](https://github.com/Dandu-Rajeev)
+-[Angelo Veres](https://github.com/G998/)
 -[Adarsh Kishore](https://github.com/ashy-boy786)
 -[Andrej Oravec](https://github.com/andrejor/)
 -[Andres Orozco](https://github.com/moonR2)
