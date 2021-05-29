@@ -10997,6 +10997,7 @@ Yury Smyslov
 - [Odin Asbjørnsen](https://github.com/oas004)
 - [Del SPaig] (https://github.com/Spaig)
 - [Machete Bang] (https://github.com/MacheteBang)
+- [Francesca Giammichele] (https://github.com/ranran2121)
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
