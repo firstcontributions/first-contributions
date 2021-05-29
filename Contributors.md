@@ -25,6 +25,7 @@ Isha Gupta
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 - [sandeepkhantwal](https://github.com/sandeepkhantwal)
 Sakshi Bansal
+- [Aadeshparija](https://github.com/aadesh1214)
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
