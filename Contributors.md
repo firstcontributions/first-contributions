@@ -600,6 +600,7 @@ elkhechafi zakaria
 - Torda Ladomérszky
 - Isaiah Whitfield
 - Aditi Oak
+- Syed Hamza Hoda
 - [ChanBan] (https://github.com/gmkado)
 - Miqotes (https://github.com/Miqotes)
 - Sean (https://github.com/Everythongs)
