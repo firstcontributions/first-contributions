@@ -3664,6 +3664,7 @@ Berliana
 - Erik Espuñes
 - Shaanya Singh
 - Keshav Kumar
+- [daryledevs](https://github.com/daryledevs)
 - [Aizel Agustino](http://github.com/aizelagustino)
 - [Oleg Revedzhuk](https://github.com/olegrevedzhuk)
 - [Sai Srija Panchagnula](https://github.com/srija920)
