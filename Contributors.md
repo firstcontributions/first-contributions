@@ -2037,6 +2037,7 @@ Aman S
 - [Samuel McKean](https://github.com/samuelmckean)
 - [Suman Jha](https://github.com/frozenplanet14)
 - [Success John](https://github.com/success-john)
+- [Cody Banister](https://github.com/codybanister)
 - [Dave Northern](https://github.com/davenorthern)
 - [Harsh Trivedi](https://github.com/Harsh4999)
 - [HAuslander](https://github.com/HAuslander)
