@@ -8,6 +8,7 @@ Isha Gupta
 - [Shoaib M](https://github.com/shabbs15)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
+Dragan Manaskov
 - rjaquez
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
