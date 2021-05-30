@@ -42,7 +42,7 @@ Sakshi Bansal
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
   [Prashil Ganvir]
-Shashank Srivastava
+  Shashank Srivastava
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Otito Darl-Uzu](https://github.com/otito12)
 - [Gordon D. Bonnar](https://github.com/gordbot)
@@ -2149,6 +2149,7 @@ Aman S
 - [Urvi](https://github.com/cp-urvi-k)
 - [Oath Pongpipat](https://github.com/oath3p)
 - [Paul](https://github.com/Nikhil-Chandra-Paul)
+- [Bahadır Aydın](www.github.com/BahadirAydin)
 - [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
 - [Gabriel Epeschit](https://github.com/GabrielEspeschit)
