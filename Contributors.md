@@ -160,6 +160,7 @@ Akshit Agarwal
 -[Saksham Gupta] (https://github.com/Saksham2311)
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
 -[Biraj Khatiwada](https://github.com/birajkhatiwada)
+-[Nicole Ferry](https://github.com/NicoleFerry/)
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Pravin Mudaliyar]
 -[Solomon Kabaliisa](https://github.com/kabaliisa)
