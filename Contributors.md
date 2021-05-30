@@ -5,6 +5,7 @@ Aadiya Agrawal
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 Isha Gupta
+- [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Shoaib M](https://github.com/shabbs15)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
