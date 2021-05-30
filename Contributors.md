@@ -163,6 +163,7 @@ Akshit Agarwal
 -[Biraj Khatiwada](https://github.com/birajkhatiwada)
 -[Nicole Ferry](https://github.com/NicoleFerry/)
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
+-[Harry Wang] (https://github.com/harrywangyh)
 -[Pravin Mudaliyar]
 -[Solomon Kabaliisa](https://github.com/kabaliisa)
 -[Abhilash Sreenivasa](https://github.com/abhilashSreenivasa)
