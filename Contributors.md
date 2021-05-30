@@ -22,6 +22,7 @@ Isha Gupta
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
 - [David Mora](https://github.com/MrDavid0614)
+- [Deep Makadiya](https://github.com/mac-deep)
 - [Edil Mukambetov](https://github.com/Ed8L)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Jeong Shin](https://github.com/jshinnn)
