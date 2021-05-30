@@ -5287,6 +5287,7 @@ Yury Smyslov
 - [Trevor Tang](https://github.com/AwpData)
 - Jienan
 - [rydcormier](https://github.com/rydcormier)
+- [Danyal Imran](https://github.com/imRanDan)
 - [Velaztro](https://github.com/velaztro)
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
