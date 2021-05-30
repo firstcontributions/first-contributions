@@ -133,6 +133,7 @@ Akshit Agarwal
 -[Nikita Saini](https://github.com/nikitaaa23)
 -[Manuel Guzman](https://github.com/MGS1993)
 -[Lily Huang](https://github.com/LemonPocky)
+-[Gabriel Unngier](https://github.com/Gungier)
 -[Mohd Anas Zubair](https://github.com/Redcoat314)
 -[Rohith Yelagam](https://github.com/rohithyelagam)
 -[Lungisani Mthethwa](https://github.com/lungis4ni)
