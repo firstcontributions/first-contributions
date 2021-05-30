@@ -155,7 +155,7 @@ replacing `<your-name>` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin -u <add-your-branch-name>
 ```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
