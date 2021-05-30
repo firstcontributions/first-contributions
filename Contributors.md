@@ -1297,6 +1297,7 @@ Aman S
 - [Collin Rampata](https://github.com/Crampata)
 - [Midnight Greenlight](https://github.com/MidnightGreenlight)
 - [Szymon Bednorz](https://github.com/dsonyy)
+- [Abhijith B lal](https://github.com/abhijith48)
 - [Mike Liang](https://github.com/yak-fumblepack)
 - [Muhammad Urwatil Wutsqo](https://github.com/wutsqo)
 - [Justin Wright](https://github.com/JustinRWright)
