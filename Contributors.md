@@ -18,6 +18,7 @@ Isha Gupta
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
+- [David Mora](https://github.com/MrDavid0614)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Jeong Shin](https://github.com/jshinnn)
 - [Rutwij Patel]
