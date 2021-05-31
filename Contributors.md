@@ -922,6 +922,7 @@ Berliana
 - [majkimge]
 - [Selyana Siko Fany] (https://github.com/SelyanaSF)
 - [Shayla Luong](https://github.com/nluong1021)
+- [Pujan Bhuva](https://github.com/pujanb96)
 - [EXPedro](https://github.com/EXPedro)
 - [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
