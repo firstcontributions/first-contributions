@@ -11651,4 +11651,4 @@ Marica Marian
 - [Muzzmil](https://github.com/muzammilCO)
 - [Daekun](https://github.com/daekun0920)
 - [LFBianchi](https://github.com/LFBianchi)
-- [Venkatesh](https://github.com/venkatesh-coder) thirupathi hariharan.
+- [Venkatesh_thirupathi_hariharan](https://github.com/venkatesh-coder)
