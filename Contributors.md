@@ -49,6 +49,7 @@ Sakshi Bansal
 - [Gordon D. Bonnar](https://github.com/gordbot)
 - [Stephano Hernandez](https://github.com/StephanoAH)
 - [lyine](https://github.com/lyineee)
+- [Tunji Omogbemile]
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
 - [Chayan Kumar Sengupta](https://github.com/Chayan199916)
