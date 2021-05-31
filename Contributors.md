@@ -9203,6 +9203,7 @@ Yury Smyslov
 - [excelsior091224](https://github.com/excelsior091224)
 - [Clay Xiong](https://github.com/tlightk)
 - [Tou Xiong] (https://github.com/touyeexiong)
+- [Evan Voyles](https://github.com/ejovo13)
 - [diemilio](https://github.com/diemilio)
 - [BazzeDE](https://github.com/BazzeDe)
 - [Janarth Kumaresan](https://github.com/janarthnk)
