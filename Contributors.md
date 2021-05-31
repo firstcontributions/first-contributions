@@ -1,4 +1,5 @@
 # Contributors
+[Sabah Ali] (https://github.com/sabah-ali)
 YiCheng Chung
 Aadiya Agrawal
 [Adam McCartney](https://github.com/adammccartney)
