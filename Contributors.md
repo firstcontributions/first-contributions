@@ -1,14 +1,14 @@
 # Contributors
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
-- [Onder Secen](https://github.com/osecen) 
-YiCheng Chung
-Aadiya Agrawal
-[Ankit Yadav](https://github.com/ankitcr7-afk)
-[Adam McCartney](https://github.com/adammccartney)
-[Aryan Srivastava] (https://github.com/Aryan-Srivastava)
-Pashyant Srivastava
-Isha Gupta
-Vasundhara G
+- [Onder Secen](https://github.com/osecen)
+- [YiCheng Chung]
+- [Aadiya Agrawal]
+- [Ankit Yadav](https://github.com/ankitcr7-afk)
+- [Adam McCartney](https://github.com/adammccartney)
+- [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
+- [Pashyant Srivastava]
+- [Isha Gupta]
+- [Vasundhara G]
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Shoaib M](https://github.com/shabbs15)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
