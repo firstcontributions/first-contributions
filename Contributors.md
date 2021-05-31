@@ -39,6 +39,7 @@ Vasundhara G
 - [Denali Balser](https://github.com/denalibalser)
 - [Edward S]
 - [kuluruvineeth](https://github.com/kuluruvineeth)
+- [Theena Kumaragurunathan](https://github.com/MiragianCycle)
 - [sandeepkhantwal](https://github.com/sandeepkhantwal)
 Sakshi Bansal
 - [Aadeshparija](https://github.com/aadesh1214)
