@@ -1,6 +1,7 @@
 # Contributors
 YiCheng Chung
 Aadiya Agrawal
+[Ankit Yadav](https://github.com/ankitcr7-afk)
 [Adam McCartney](https://github.com/adammccartney)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
