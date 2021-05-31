@@ -77,6 +77,7 @@ Sakshi Bansal
 - [Kushagra Kshatri] (https://github.com/kushagrakshatri)
 - [Pashyant](https://github.com/Pashyant)
 - [Nitish Vaishnav](https://github.com/nitishv2017);
+- [Sachin Kasaraddi (ಸಚಿನ್ ಕಸರಡ್ಡಿ)](https://github.com/SachinKasaraddi)
 -[Pranjal](https://github.com/pranjalparashar)
 -[Luke Kellett](https://github.com/NitroTears)
 -[Dijo T Mathews](https://github.com/dijotmathews)
