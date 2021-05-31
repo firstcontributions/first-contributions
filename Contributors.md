@@ -1,4 +1,5 @@
 # Contributors
+- [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 YiCheng Chung
 Aadiya Agrawal
 [Adam McCartney](https://github.com/adammccartney)
