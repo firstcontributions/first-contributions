@@ -7,6 +7,7 @@ Aadiya Agrawal
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 Isha Gupta
+Vasundhara G
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Shoaib M](https://github.com/shabbs15)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
