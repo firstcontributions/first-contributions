@@ -15,6 +15,7 @@ Vasundhara G
 - [Nik-hz](https://github.com/nik-hz)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - rjaquez
+- [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
