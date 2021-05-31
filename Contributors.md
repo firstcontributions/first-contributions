@@ -16,6 +16,7 @@ Isha Gupta
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
+- [Lamine Aknouche] (https://github.com/aknouche)
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [Sachin Kumar](https://github.com/sachin212)
 - [Avnish Jha](https://github.com/avnish100)
