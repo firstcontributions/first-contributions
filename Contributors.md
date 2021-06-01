@@ -11458,6 +11458,7 @@ sarvagya rastogi
 - [Marker04] (https://github.com/Marker04)
 - [guenthi] (https:/github.com/guenthi)
 - [Sam K](https://github.com/wahwic)
+- [Jhonathan Angus](https://github.com/Johnzy916)
 - [Jenna Chestnut](https://github.com/jenna-chestnut)
 - [xiangyu](https://github.com/yuquan222)
 - [Honmj](https://github.com/Honmj)
