@@ -29,6 +29,7 @@ Vasundhara G
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
+- [Dev Jain](https://github.com/889-dj)
 - [David Mora](https://github.com/MrDavid0614)
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Edil Mukambetov](https://github.com/Ed8L)
