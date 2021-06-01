@@ -371,7 +371,7 @@ elkhechafi zakaria
 - [Naveen K](https://github.com/Naveenmavoor)
 - [Aayush Jain](https://github.com/aayushjain7)
 - [G v d l](https://github.com/GVLee/first-contributions)
-- [Divyansh Jain](https://github.com/Divyanshj)
+- [Divyansh jain](https://github.com/Divyanshj)
 - [Anish M](https://github.com/Anish-m-code)
 -[Gaurav Bansal](https://github.com/GauravBansal29)
 - [Anthony Coudène](https://github.com/acoudene)
