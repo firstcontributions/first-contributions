@@ -907,6 +907,7 @@ Berliana
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - [Maastrich](https://github.com/Maastrich)
 - [Andrew Perkins](https://github.com/andrewperkins)
+- [Aziz Amari](https://github.com/azizamari)
 - sbenav
 - [Sebastian Russo] (https://github.com/Sebastian-Russo)
 - Marcin Maruszak
