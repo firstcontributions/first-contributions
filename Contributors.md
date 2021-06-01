@@ -134,6 +134,7 @@ Sakshi Bansal
 -[Andrej Oravec](https://github.com/andrejor/)
 -[Andres Orozco](https://github.com/moonR2)
 -[Daniel Ojeda](https://github.com/leinadpy)
+-[Harvey Balaam](https://github.com/harv-bala)
 -[Reyaan Jagnani]
 Akshit Agarwal
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
