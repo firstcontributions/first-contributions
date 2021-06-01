@@ -1,7 +1,8 @@
 # Contributors
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
-- YiCheng Chung
-- Aadiya Agrawal
+- [Onder Secen](https://github.com/osecen) 
+YiCheng Chung
+Aadiya Agrawal
 [Ankit Yadav](https://github.com/ankitcr7-afk)
 [Adam McCartney](https://github.com/adammccartney)
 [Aryan Srivastava](https://github.com/Aryan-Srivastava)
@@ -9,23 +10,28 @@
 - Isha Gupta
 - Vasundhara G
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
+- [Nishant Saxena](https://github.com/phoenixx1)
 - [Shoaib M](https://github.com/shabbs15)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - rjaquez
+- [Robbie Hamilton](https://github.com/RobHam99)
+- [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
 - [Lamine Aknouche](https://github.com/aknouche)
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [Sachin Kumar](https://github.com/sachin212)
+- [Shivam Dubey](https://github.com/WebShivam)
 - [Avnish Jha](https://github.com/avnish100)
 - [A91y](https://github.com/A91y)
 - [Harshit Srivastava](https://github.com/harshit-srivastava-1608)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
+- [Dev Jain](https://github.com/889-dj)
 - [David Mora](https://github.com/MrDavid0614)
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Edil Mukambetov](https://github.com/Ed8L)
@@ -90,6 +96,7 @@ Sakshi Bansal
 -[Loukik Bhangale](https://github.com/loukikstudent)
 -[Miszti Janos](https://github.com/misztijanos/first-contributions)
 -[Aarthi Suresh Kumar](https://github.com/ask-1710)
+-[Carlos Pinto](https://github.com/carlosmspk)
 -[Artur Mickiewicz](https://github.com/astratow)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh](https://github.com/ArshWalker)
@@ -11455,6 +11462,7 @@ Marica Marian
 - [Marker04](https://github.com/Marker04)
 - [guenthi](https:/github.com/guenthi)
 - [Sam K](https://github.com/wahwic)
+- [Jhonathan Angus](https://github.com/Johnzy916)
 - [Jenna Chestnut](https://github.com/jenna-chestnut)
 - [xiangyu](https://github.com/yuquan222)
 - [Honmj](https://github.com/Honmj)
@@ -11652,3 +11660,7 @@ Marica Marian
 - [Daekun](https://github.com/daekun0920)
 - [LFBianchi](https://github.com/LFBianchi)
 - [Venkatesh_thirupathi_hariharan](https://github.com/venkatesh-coder)
+- [CarloC](https://github.com/carlocardona)
+- [z3b1](https://github.com/z3b1K)
+- [Behdad](https://github.com/behdad88)
+- [Hafidzal] (https://github.com/hafidzal)
