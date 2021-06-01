@@ -8901,6 +8901,7 @@ Yury Smyslov
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
 - [tino](https://github.com/tinotenda6)
 - [Sab M]
+- [Colin McGrath] (https://github.com/cmcgrath454)
 - [Cal Alaera](https://github.com/calalaera)
 - [MorganR Developer](https://github.com/morganrdeveloper)
 - [skwiryt](https://github.com/skwiryt)
