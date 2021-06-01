@@ -40,6 +40,7 @@ Vasundhara G
 - [Jeong Shin](https://github.com/jshinnn)
 - [Rutwij Patel]
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
+- [Wesley Beck](https://github.com/wizbeck21)
 - [Kartikeya Srivastava ](https://github.com/Kartikeya05S)
 - [Jaykishan Satikuvar]
 - [DakOneil]
