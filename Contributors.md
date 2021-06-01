@@ -75,6 +75,7 @@ Sakshi Bansal
 - [Charlotte Delvaux](https://github.com/pgm-chardelv1)
 - [James Greenway] (https://github.com/JPGreenway)
 - [D'Angela Pritchett-Rowe] (https://github.com/dangelapr)
+- [Rene Maldonado] (https://github.com/renemaldonado)
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [nudbu](https://github.com/nudbu)
 - [Antonio Glee Pizarro] (https://github.com/angopi76)
