@@ -10,6 +10,7 @@ Pashyant Srivastava
 Isha Gupta
 Vasundhara G
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
+- [Nishant Saxena](https://github.com/phoenixx1)
 - [Shoaib M](https://github.com/shabbs15)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
