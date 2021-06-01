@@ -94,6 +94,7 @@ Sakshi Bansal
 -[Loukik Bhangale](https://github.com/loukikstudent)
 -[Miszti Janos](https://github.com/misztijanos/first-contributions)
 -[Aarthi Suresh Kumar](https://github.com/ask-1710)
+-[Carlos Pinto](https://github.com/carlosmspk)
 -[Artur Mickiewicz](https://github.com/astratow)
 -[Devansh Saxena](https://github.com/devansh-ism)
 -[Arshdeep Singh] (https://github.com/ArshWalker)
