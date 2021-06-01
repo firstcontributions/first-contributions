@@ -11664,4 +11664,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [z3b1](https://github.com/z3b1K)
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal] (https://github.com/hafidzal)
--[pranavdubey303]
+- [pranavdubey303]
+- [queendeveloper](https://github.com/queendeveloperbr)
