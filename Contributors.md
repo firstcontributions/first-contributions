@@ -12,6 +12,7 @@ Isha Gupta
 Vasundhara G
 Prakhar 
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
+- [Rehan Singh](https://github.com/rehan6225)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Nishant Saxena](https://github.com/phoenixx1)
 - [Shoaib M](https://github.com/shabbs15)
