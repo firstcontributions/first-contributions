@@ -20,6 +20,7 @@ Prakhar
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
+- [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
