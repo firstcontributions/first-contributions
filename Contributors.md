@@ -291,7 +291,7 @@ Arpit Agarwal
 -[Anto Melvin](https://github.com/antomelvin)
 -[Cooper Walter](https://github.com/cooperwalter)
 Gavriel Frant
-
+- [Mario Tormo] (https://github.com/mt0rm0)
 elkhechafi zakaria
 - [John Henry](https://github.com/jhenryj09)
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
