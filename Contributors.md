@@ -2595,6 +2595,7 @@ Aman S
 - [Bimal Singh](https://github.com/starkk242)
 - [Shane Kohler](https://github.com/frosty151)
 - [Rishard Akram](https://github.com/Rishy20)
+- Bryan N
 - [Parthit Patel](https://github.com/parthit)
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
