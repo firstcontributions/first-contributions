@@ -11675,3 +11675,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Hafidzal] (https://github.com/hafidzal)
 - [pranavdubey303]
 - [queendeveloper](https://github.com/queendeveloperbr)
+- [uthadehikaru](https://github.com/uthadehikaru)
