@@ -24,6 +24,7 @@ Vasundhara G
 - [Firdavs](https://github.com/uzproblue)
 - [Lamine Aknouche] (https://github.com/aknouche)
 - [Alestan Alves](https://github.com/AlestanAlves)
+- [Jamshid Numanjanov](https://github.com/Yusupov-droid)
 - [Sachin Kumar](https://github.com/sachin212)
 - [Shivam Dubey](https://github.com/WebShivam)
 - [Avnish Jha](https://github.com/avnish100)
