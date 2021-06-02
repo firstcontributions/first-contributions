@@ -8809,6 +8809,7 @@ Yury Smyslov
 - [Arthur Cordova](https://github.com/Arthur092)
 - [Kyle Moreira](https://github.com/NotKharon/)
 - [D Lincoln](https://github.com/da-lincoln)
+- [Harley Bartles](https://github.com/harleybartles)
 - [Chris P](https://github.com/j393554)
 - [Sugat Bhagat](https://github.com/sugatbhagat20)
 - [Nuclear Catapult](https://github.com/Nuclear-Catapult)
