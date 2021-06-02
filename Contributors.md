@@ -9,9 +9,10 @@ Aadiya Agrawal
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 Isha Gupta
-Vasundhara G
+Vasundhara 
 Prakhar 
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
+- [Tanzeel Ahmed](https://github.com/Tanzeel159)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Nishant Saxena](https://github.com/phoenixx1)
 - [Shoaib M](https://github.com/shabbs15)
