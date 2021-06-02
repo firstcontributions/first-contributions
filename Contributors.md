@@ -11,6 +11,7 @@ Pashyant Srivastava
 Isha Gupta
 Vasundhara 
 Prakhar 
+- [Rohith ND](https://github.com/ndrohith09)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
