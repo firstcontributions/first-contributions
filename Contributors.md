@@ -3,6 +3,7 @@
 - [Onder Secen](https://github.com/osecen) 
 YiCheng Chung
 Aadiya Agrawal
+Joe Fagan
 [Moody Omar](https://github.com/moodyomar)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
 [Adam McCartney](https://github.com/adammccartney)
