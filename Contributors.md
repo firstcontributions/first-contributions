@@ -10,6 +10,7 @@ Aadiya Agrawal
 Pashyant Srivastava
 Isha Gupta
 Vasundhara G
+Prakhar 
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Nishant Saxena](https://github.com/phoenixx1)
