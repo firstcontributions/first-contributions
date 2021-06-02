@@ -1090,6 +1090,7 @@ Berliana
 - [Gregory Holder](https://github.com/blueted2)
 - [Alka Das](https://github.com/AlkaDas991)
 - [Jacob Newton](https://github.com/jnewtonb)
+- [Sachin Kakkar](https://github.com/sachinkakkar7)
 - Colton Manora
 - Manav Wadhawan
 - Dvir Berlo
