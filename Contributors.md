@@ -18,6 +18,7 @@ Vasundhara G
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - rjaquez
 - [Robbie Hamilton](https://github.com/RobHam99)
+- [Jesse White](https://github.com/JesseDWhite)
 - [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
