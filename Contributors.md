@@ -1,6 +1,7 @@
 # Contributors
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
+- [Luka Piplica](https://github.com/luka2220)
 YiCheng Chung
 Aadiya Agrawal
 [bhavna nagar](https://github.com/bhavna-nagar)
