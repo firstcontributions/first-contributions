@@ -133,6 +133,7 @@ Akshit Agarwal
 -[Abhilash Sreenivasa](https://github.com/abhilashSreenivasa)
 -[Evan Trujillo] (https://github.com/Evomatic)
 -[Rich McMullen](https://github.com/mcmullenrich)
+-[Petrina Troulitaki]
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
