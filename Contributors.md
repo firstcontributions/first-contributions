@@ -1212,6 +1212,7 @@ Berliana
 - [Travis Joldersma](https://github.com/15JoldersmaT)
 - [Daniel Graybeal](https://github.com/dbgraybeal)
 - [Liz K](https://github.com/oakye)
+- [Jagroop Singh](https://github.com/Jagroop-Singh)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
 - [Yazan Wolf] (https://github.com/Yazanwolf)
 - Abhirup Majumder (https://github.com/Abhirup70)
