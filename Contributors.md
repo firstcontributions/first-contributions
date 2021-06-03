@@ -18,6 +18,7 @@ Vasundhara
 Prakhar 
 Animesh Kumar
 Saad Ansari
+- [Guillaume Langlois](https://github.com/PeluxGit)
 Devanshi Mittal
 - [Rohith ND](https://github.com/ndrohith09)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
