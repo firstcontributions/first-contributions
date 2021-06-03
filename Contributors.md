@@ -1,4 +1,5 @@
 # Contributors
+- [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
 - [Luka Piplica](https://github.com/luka2220)
