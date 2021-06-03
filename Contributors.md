@@ -2016,6 +2016,7 @@ Aman S
 - [Pugets](http://github.com/Pugets)
 - [Archjbald](http://github.com/Archjbald)
 - [jaywhen](https://github.com/jaywhen)
+- [Reece Walsh](https://github.com/reeceawalsh)
 - [Justin Wasserstein](https://github.com/jwasserstein)
 - [Vivan Vatsa](https://github.com/VivanVatsa)
 - anacarolinarodrigues
