@@ -5,6 +5,7 @@
 - [Luka Piplica](https://github.com/luka2220)
 YiCheng Chung
 Aadiya Agrawal
+[Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
 [Moody Omar](https://github.com/moodyomar)
