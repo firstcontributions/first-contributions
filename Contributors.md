@@ -11592,6 +11592,7 @@ P0nC1k
 - [Genevea](https://github.com/genevea)
 - [Amul Agrawal](https://github.com/amulagrawal02)
 - [aidken](https://github.com/aidken)
+- [Josiah Denny](https://github.com/jcdenny)
 - [Subham Bharadwaz](https://github.com/subhamBharadwaz)
 - [tasotasoso](https://github.com/tasotasoso)
 - [Vania](https://github.com/Lawliet18)
