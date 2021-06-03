@@ -100,6 +100,7 @@ Sakshi Bansal
 - [Fardeen Ehsan](https://github.com/fardeenes7)
 - [nudbu](https://github.com/nudbu)
 - [Antonio Glee Pizarro] (https://github.com/angopi76)
+- [Sebastián Sameghini] (https://github.com/ssameghini)
 - [Jason Tan] (https://github.com/jasontjz)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
