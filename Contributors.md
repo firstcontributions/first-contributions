@@ -17,6 +17,9 @@ Isha Gupta
 Vasundhara 
 Prakhar 
 Animesh Kumar
+Saad Ansari
+- [Guillaume Langlois](https://github.com/PeluxGit)
+Devanshi Mittal
 - [Rohith ND](https://github.com/ndrohith09)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
@@ -1209,6 +1212,7 @@ Berliana
 - [Travis Joldersma](https://github.com/15JoldersmaT)
 - [Daniel Graybeal](https://github.com/dbgraybeal)
 - [Liz K](https://github.com/oakye)
+- [Jagroop Singh](https://github.com/Jagroop-Singh)
 - [Emily Ramirez] (https://github.com/emily-ramirez)
 - [Yazan Wolf] (https://github.com/Yazanwolf)
 - Abhirup Majumder (https://github.com/Abhirup70)
@@ -2016,6 +2020,7 @@ Aman S
 - [Pugets](http://github.com/Pugets)
 - [Archjbald](http://github.com/Archjbald)
 - [jaywhen](https://github.com/jaywhen)
+- [Reece Walsh](https://github.com/reeceawalsh)
 - [Justin Wasserstein](https://github.com/jwasserstein)
 - [Vivan Vatsa](https://github.com/VivanVatsa)
 - anacarolinarodrigues
@@ -11592,6 +11597,7 @@ P0nC1k
 - [Genevea](https://github.com/genevea)
 - [Amul Agrawal](https://github.com/amulagrawal02)
 - [aidken](https://github.com/aidken)
+- [Josiah Denny](https://github.com/jcdenny)
 - [Subham Bharadwaz](https://github.com/subhamBharadwaz)
 - [tasotasoso](https://github.com/tasotasoso)
 - [Vania](https://github.com/Lawliet18)
@@ -11684,6 +11690,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Fenix Xia](https://github.com/Fenix3123)
 - [najes](https://github.com/najes)
 - [Amit] (https://github.com/amankul)
+- [aiair] (https://github.com/panonpoe)
 - [aesaganda](https://github.com/aesaganda)
 - [saadishahid](https://github.com/saadishahid)
 - [mariuszpawlowicz](https://github.com/mariusz79)
@@ -11706,4 +11713,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Rori](https://github.com/nekochan7)
 - [Kana](https://github.com/OHKana)
 - [peterZhang](https://github.com/zpllz)
+- Damian Erasmus
 - [Oindrila Barik](https://github.com/oindrilabarik14)
