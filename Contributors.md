@@ -1820,6 +1820,7 @@ Aman S
 - [paradocx96](https://github.com/paradocx96)
 - [Branka jesic](https://github.com/Branka19)
 - [Gary Mathews II](https://github.com/gmathews6)
+- [Arpit](https://github.com/arpitnath)
 - [Tashawn Williams](https://github.com/crutell331`)
 - [Vaibhav Sonawane](https://github.com/vaibhavcs99)
 - [Xinyang Jin](https://github.com/xinyang-jin)
