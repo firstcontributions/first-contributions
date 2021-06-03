@@ -11268,6 +11268,7 @@ sam_namiranian
 - [Ntomb L. Nelson J.](https://github.com/Nelson-J)
 - [Guilherme Camargo](https://github.com/camargoguilherme)
 - rsey
+- XZ
 - [Gustavo Kenji](https://github.com/GustavoKenji)
 - [William Dias ](https://github.com/Williamaia)
 - [Marut Dhungana](https://github.com/consciousness11)
