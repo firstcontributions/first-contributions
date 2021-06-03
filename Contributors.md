@@ -17,6 +17,7 @@ Isha Gupta
 Vasundhara 
 Prakhar 
 Animesh Kumar
+Devanshi Mittal
 - [Rohith ND](https://github.com/ndrohith09)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
