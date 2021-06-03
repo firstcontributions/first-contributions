@@ -618,7 +618,6 @@ elkhechafi zakaria
 - [Hugo Ku] (https://github.com/hugoksp)
 - [Sridhar] (https://github.com/sridhar-5)
 - [appllo] (https://github.com/applloP)
-- [Ahbleza Bugler] (https://github.com/ab80four)
 - [Joseph Burrows] (https://github.com/joseph-burrows)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
@@ -630,6 +629,7 @@ elkhechafi zakaria
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
 - Jaavid25
 - [Demonhue] (https://github.com/demonhue)
+- [Ahbleza Bugler] (https://github.com/ab80four)
 - [Drew Bayles] (https://github.com/shakurgds)
 - Elias Tokola
 - [Dave Velasco](https://github.com/davevelasco)
