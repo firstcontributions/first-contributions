@@ -27,6 +27,7 @@ Devanshi Mittal
 - [Kiril Angelov](https://github.com/KirilAngelov)
 - [Nishant Saxena](https://github.com/phoenixx1)
 - [Shoaib M](https://github.com/shabbs15)
+- [Jason Ni](https://github.com/niyunhuo98)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
