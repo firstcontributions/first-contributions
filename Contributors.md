@@ -618,6 +618,7 @@ elkhechafi zakaria
 - [Hugo Ku] (https://github.com/hugoksp)
 - [Sridhar] (https://github.com/sridhar-5)
 - [appllo] (https://github.com/applloP)
+- [Ahbleza Bugler] (https://github.com/ab80four)
 - [Joseph Burrows] (https://github.com/joseph-burrows)
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
