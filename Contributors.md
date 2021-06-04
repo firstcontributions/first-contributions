@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
@@ -10816,6 +10816,7 @@ Yury Smyslov
 - [berkslv](https://github.com/berkslv)
 - [compandcode](https://github.com/compandcode)
 - [Mo-esmail](https://github.com/Mo-esmail)
+- [Simran Biswas](https://github.com/simranbiswas)
 - [Nick Materise](https://github.com/nmaterise)
 - [Jayden Dyer](https://github.com/jaydendyer10)
 - [Saurav Chamoli](https://github.com/sauravchamoli17)
