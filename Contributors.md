@@ -203,6 +203,7 @@ Akshit Agarwal
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
 -[Biraj Khatiwada](https://github.com/birajkhatiwada)
 -[Nicole Ferry](https://github.com/NicoleFerry/)
+-[Armando Acosta](https://github.com/aacosta13)
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Harry Wang] (https://github.com/harrywangyh)
 -[Pravin Mudaliyar]
