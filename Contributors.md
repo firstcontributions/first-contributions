@@ -5771,6 +5771,7 @@ Yury Smyslov
 - [Brage Rosberg](https://github.com/bragerosberg)
 - [Luke P]
 - [Minel Aydın - Minnela :)](https://github.com/minnela)
+- [Victor Laurentino do Nascimento (PitzTech)](https://github.com/PitzTech)
 - [Jonathan R]
 - David Kwong
 - [Akash Singh](https://github.com/Garpieln)
