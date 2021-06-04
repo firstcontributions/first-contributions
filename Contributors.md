@@ -23,6 +23,7 @@ Prakhar
 Santosh D J 
 Animesh Kumar
 Saad Ansari
+[Pericles Adjovi](https://github.com/Pericles001)
 Prawal Srivastava (https://github.com/PrawalSrivastava)
 - [Guillaume Langlois](https://github.com/PeluxGit)
 Devanshi Mittal
