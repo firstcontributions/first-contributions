@@ -73,6 +73,7 @@ Devanshi Mittal
 - [DakOneil]
 - [Denali Balser](https://github.com/denalibalser)
 - [Edward S]
+- [ErrorCookie](https://github.com/UltraCookie1780)
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 - [Theena Kumaragurunathan](https://github.com/MiragianCycle)
 - [sandeepkhantwal](https://github.com/sandeepkhantwal)
