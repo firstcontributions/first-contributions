@@ -104,6 +104,7 @@ Sakshi Bansal
 - [Sebastián Sameghini] (https://github.com/ssameghini)
 - [Jason Tan] (https://github.com/jasontjz)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
+- [Damilola Ojo] (https://github.com/Damilola-jr)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Nitin](https://github.com/Nitin-00)
 - [Midhun](https://github.com/midhun2002)
