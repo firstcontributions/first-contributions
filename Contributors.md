@@ -17,6 +17,7 @@ ROHAN KUMAR PANDEY
 [Harsh Singla](https://github.com/hs2804)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
+Rushil
 Pardeep Kumar
 Isha Gupta
 Vasundhara 
