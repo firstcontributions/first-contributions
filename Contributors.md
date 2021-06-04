@@ -71,6 +71,7 @@ Devanshi Mittal
 - [Theena Kumaragurunathan](https://github.com/MiragianCycle)
 - [sandeepkhantwal](https://github.com/sandeepkhantwal)
 Sakshi Bansal
+- [Sujung Choi] (https://github.com/sujungchoi1)
 - [Aadeshparija](https://github.com/aadesh1214)
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
