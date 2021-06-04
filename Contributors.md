@@ -165,6 +165,7 @@ Sakshi Bansal
 -[Harvey Balaam](https://github.com/harv-bala)
 -[Reyaan Jagnani]
 Akshit Agarwal
+-[Brandon Goldenberg](https://github.com/goldenb12)
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
 -[Pratham Bhagat](https://github.com/bhagatpratham);
