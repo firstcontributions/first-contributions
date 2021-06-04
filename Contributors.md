@@ -106,6 +106,7 @@ Sakshi Bansal
 - [Antonio Glee Pizarro] (https://github.com/angopi76)
 - [Sebastián Sameghini] (https://github.com/ssameghini)
 - [Jason Tan] (https://github.com/jasontjz)
+- [Pasindu Akalpa] (https://github.com/pAkalpa)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Damilola Ojo] (https://github.com/Damilola-jr)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
