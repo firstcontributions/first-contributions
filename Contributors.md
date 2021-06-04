@@ -31,6 +31,7 @@ Devanshi Mittal
 - [Jason Ni](https://github.com/niyunhuo98)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Nik-hz](https://github.com/nik-hz)
+- [Damilola Ojo](https://github.com/oj-damilola)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
