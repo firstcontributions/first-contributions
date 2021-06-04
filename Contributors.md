@@ -91,6 +91,7 @@ Sakshi Bansal
 - [Otito Darl-Uzu](https://github.com/otito12)
 - [Gordon D. Bonnar](https://github.com/gordbot)
 - [Stephano Hernandez](https://github.com/StephanoAH)
+Rahul V (rahulv07)
 - [lyine](https://github.com/lyineee)
 - [Tunji Omogbemile]
 - [Rupali Singh](https://github.com/rupalisingh)
