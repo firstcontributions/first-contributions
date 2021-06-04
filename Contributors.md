@@ -3,6 +3,7 @@
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
 - [Luka Piplica](https://github.com/luka2220)
+Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
 [Laura Pasqualone](https://github.com/lpasqualone)
