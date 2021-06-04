@@ -353,6 +353,7 @@ elkhechafi zakaria
 - [Jana Bobulis] (https://github.com/JanaBobulis)
 - [Blaine Young](github.com/blaine137)
 - [qxzsilver1](https://github.com/qxzsilver1)
+- [Conlan Cason] (https://github.com/ccason1)
 - [silver612](https://github.com/silver612)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
