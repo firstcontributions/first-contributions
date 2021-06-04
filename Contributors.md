@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
@@ -227,6 +227,7 @@ Akshit Agarwal
 -[Abhilash Sreenivasa](https://github.com/abhilashSreenivasa)
 -[Evan Trujillo] (https://github.com/Evomatic)
 -[Rich McMullen](https://github.com/mcmullenrich)
+-[Ariel Sehr](https://github.com/arielsehr)
 -[Petrina Troulitaki]
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
