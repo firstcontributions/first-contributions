@@ -114,6 +114,7 @@ Sakshi Bansal
 - [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Damilola Ojo] (https://github.com/Damilola-jr)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
+- [Vinay Khanduri](https://github.com/vkay11)
 - [Nitin](https://github.com/Nitin-00)
 - [Midhun](https://github.com/midhun2002)
 - [Jimit Patel](https://github.com/Jimitpatel1729)
