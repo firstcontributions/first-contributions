@@ -161,6 +161,7 @@ Sakshi Bansal
 -[Adarsh Kishore](https://github.com/ashy-boy786)
 -[Andrej Oravec](https://github.com/andrejor/)
 -[Andres Orozco](https://github.com/moonR2)
+-[Rupert Pupkin](https://github.com/PupkinLangford/)
 -[Daniel Ojeda](https://github.com/leinadpy)
 -[Harvey Balaam](https://github.com/harv-bala)
 -[Reyaan Jagnani]
