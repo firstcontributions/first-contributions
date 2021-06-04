@@ -11744,3 +11744,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [peterZhang](https://github.com/zpllz)
 - Damian Erasmus
 - [Mangaliso Mtembu](https://github.com/mmtembu)
+- [Satyender Singh Rana](https://github.com/SatyenderSinghRana)
