@@ -91,6 +91,7 @@ Sakshi Bansal
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Otito Darl-Uzu](https://github.com/otito12)
 - [Gordon D. Bonnar](https://github.com/gordbot)
+- [Isabela de França](https://github.com/i-defranca)
 - [Stephano Hernandez](https://github.com/StephanoAH)
 Rahul V (rahulv07)
 - [lyine](https://github.com/lyineee)
