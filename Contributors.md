@@ -2276,6 +2276,7 @@ Aman S
 - Colton Francis
 - Robert Bednarek
 - [Aleem Osman](https://github.com/aleemosman)
+- [Shirhan Ousmand](https://github.com/stousmand)
 - [John Robinson](https://github.com/klondikekid)
 - [Sparrow](https://github.com/Sparrowez)
 - [Sambuddha Adhikari](https://github.com/sambuddha92)
