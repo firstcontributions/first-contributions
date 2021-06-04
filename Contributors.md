@@ -15,6 +15,7 @@ ROHAN KUMAR PANDEY
 [Ankit Yadav](https://github.com/ankitcr7-afk)
 [Adam McCartney](https://github.com/adammccartney)
 [Harsh Singla](https://github.com/hs2804)
+[Nina Chen](https://github.com/NinaC-boop)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 Rushil
