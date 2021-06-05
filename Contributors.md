@@ -2272,6 +2272,7 @@ Aman S
 - [Hritika Dhasal](https://github.com/HellFire03)
 - [Charlie Dixon](https://github.com/CharlieDixon)
 - [Mishal Ashraf](https://github.com/MishalAshraf)
+- [Joe Pantaliono](https://github.com/joepantaliono)
 - [Mashego Sililo](https://github.com/MashegoSililo)
 - [Viv San](https://github.com/viv-san)
 - [Prerak Shah](https://github.com/Prerakshah98)
