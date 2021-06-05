@@ -2467,6 +2467,7 @@ Aman S
 - [Felipe Kinoshita](https://github.com/fhek789)
 - [Amit Dhaterwal](https://github.com/amit-dhaterwal)
 - [Arif Khan](https://github.com/Google987)
+- [TheRoyalMuffinMan](https://github.com/TheRoyalMuffinMan)
 - [Aidan Henry](https://github.com/ajhenry00)
 - [elasa7](https://github.com/ajhenry00)
 - [Harshavardhan I](https://github.com/harshavardhan-i)
