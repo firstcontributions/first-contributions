@@ -24,6 +24,7 @@ Pashyant Srivastava
 Rushil
 Pardeep Kumar
 Isha Gupta
+- [Neto Hog](https://github.com/NotNetohog)
 Vasundhara 
 Prakhar
 Chaste Akomoize
