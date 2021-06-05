@@ -11,7 +11,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-如果你的电脑上尚未安装 git, 请按照这个 [安装指引](https://help.github.com/articles/set-up-git/) 进行安装。
+如果你的电脑尚未安装 git, 请按照这个 [安装指引](https://help.github.com/articles/set-up-git/) 进行安装。
 
 ## Fork（复制）本代码仓库
 
