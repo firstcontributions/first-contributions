@@ -31,6 +31,7 @@ Prawal Srivastava (https://github.com/PrawalSrivastava)
 - [Guillaume Langlois](https://github.com/PeluxGit)
 Devanshi Mittal
 - [Rohith ND](https://github.com/ndrohith09)
+-[Kashish Goyal](https://github.com/KashishGoyal905)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
