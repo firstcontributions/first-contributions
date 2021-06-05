@@ -2870,6 +2870,7 @@ Aman S
 - [Carlos Fernandez](https://github.com/carlitosblvd)
 - [Andres Gardiol](https://github.com/andresgardiol)
 - [Shayan Shahsiah](https://github.com/ShayanShahsiah)
+- [Gasser Ashraf](https://github.com/GasserAsh)
 - [Praise Hezron](https://github.com/praisearts)
 - [Rahul kumar](https://github.com/ats1999)
 - [Tridib Samanta](https://github.com/tridib2003)
