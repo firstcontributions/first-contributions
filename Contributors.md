@@ -91,6 +91,7 @@ Sakshi Bansal
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
+- [Lucky Makau](https://https://github.com/makaulucky)
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
   [Prashil Ganvir]
