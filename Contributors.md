@@ -85,6 +85,7 @@ Devanshi Mittal
 Sakshi Bansal
 - [Sujung Choi] (https://github.com/sujungchoi1)
 - [Aadeshparija](https://github.com/aadesh1214)
+- [Amey Varhade](https://github.com/yemaedahrav)
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
