@@ -1,4 +1,5 @@
 # Contributors
+- [lamarch](https://github.com/lamarch) *a.k.a. polohx#4210* => [my website](https://paulm.fr) **🟦⬜🟥 thank you !**
 - Matt
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Rahul Kalia](https://github.com/RahulKalia)
