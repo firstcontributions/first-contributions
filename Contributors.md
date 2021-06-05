@@ -9331,6 +9331,7 @@ Yury Smyslov
 - [Alex Crist](https://github.com/svnalx)
 - [steelslugs](https://github.com/steelslugs)
 - [dotmiki](https://github.com/dotmiki)
+- [Ensuo](https://github.com/Ensuo)
 - [Sukriti](https://github.com/sukreeti-98)
 - [Bruno Fontes](https://github.com/brunofontes)
 - Max
