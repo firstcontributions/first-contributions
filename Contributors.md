@@ -3034,6 +3034,7 @@ Aman S
 - Sriparna Chakraborty
 - [Meghal Bisht](https://github.com/MeghalBisht)
 - [Cindy Cai](https://github.com/cindymxcai)
+- [chimmy-dev](https://github.com/chimmy-dev)
 - [Sonakshi Gupta](https://github.com/guptasonakshi)
 - [Sanskriti Khare](https://github.com/sanskritikhare142)
 - [Prasanna Kumar][https://github.com/prasannakr]
