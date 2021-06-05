@@ -6,6 +6,7 @@
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
 - [Luka Piplica](https://github.com/luka2220)
+- [Mike Witts](https://github.com/iam-mike)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
