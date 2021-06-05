@@ -23,6 +23,7 @@ ROHAN KUMAR PANDEY
 [Nina Chen](https://github.com/NinaC-boop)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
+kapalli
 Rushil
 Pardeep Kumar
 Isha Gupta
