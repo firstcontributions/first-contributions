@@ -1,4 +1,5 @@
 # Contributors
+- [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - Matt
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Rahul Kalia](https://github.com/RahulKalia)
