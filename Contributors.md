@@ -4242,6 +4242,7 @@ Jairo Martinez
 - [Muskaan Baveja](https://github.com/muskuu)
 - [Tiyang Jawi](https://github.com/tiyang-jawi)
 - [Ryan Cullen](https://github.com/ryantcullen)
+- [Julia Catalano](https://github.com/juliacat23)
 - [Amid bashan](https//:github.com/amidbashan)
 - [Toh De Kai](https://github.com/TohDeKai)
 - [Vasav Raj Shukla](https://github.com/vasavraj)
