@@ -47,6 +47,7 @@ Devanshi Mittal
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
+- [Lorenz Beyer](https://github.com/beyerl/)
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Parth Thakkar](https://github.com/parthishere)
