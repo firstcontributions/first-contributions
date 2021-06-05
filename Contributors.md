@@ -25,6 +25,7 @@ Pardeep Kumar
 Isha Gupta
 Vasundhara 
 Prakhar
+[Cassian Kahema](https://github.com/caykay)
 Santosh D J 
 Animesh Kumar
 Saad Ansari
