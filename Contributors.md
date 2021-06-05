@@ -102,6 +102,7 @@ Sakshi Bansal
 - [Gordon D. Bonnar](https://github.com/gordbot)
 - [Isabela de França](https://github.com/i-defranca)
 - [Stephano Hernandez](https://github.com/StephanoAH)
+- [Santiago Rhenals](https://github.com/srLitem)
 Rahul V (rahulv07)
 - [lyine](https://github.com/lyineee)
 - [Tunji Omogbemile]
