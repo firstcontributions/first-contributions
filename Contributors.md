@@ -13,6 +13,7 @@
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
+[Shubham Malpani] (https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
