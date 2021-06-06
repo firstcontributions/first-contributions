@@ -24,6 +24,7 @@ Aadiya Agrawal
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
+[jakejasminjk](https://github.com/jakejasminjk)
 [Moody Omar](https://github.com/moodyomar)
 ROHAN KUMAR PANDEY
 [Fatima Tasnim](https://github.com/FatimaTasnim)
