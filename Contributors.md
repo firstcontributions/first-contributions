@@ -32,6 +32,7 @@ ROHAN KUMAR PANDEY
 [Harsh Singla](https://github.com/hs2804)
 [Nina Chen](https://github.com/NinaC-boop)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
+- [Rohan-Singh] (https://github.com/rohan-singh987/)
 Pashyant Srivastava
 kapalli
 Rushil
