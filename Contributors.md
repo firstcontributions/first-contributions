@@ -1,5 +1,6 @@
 # Contributors
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
+- [winsalva](https://github.com/winsalva)
 - Matt
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Rahul Kalia](https://github.com/RahulKalia)
