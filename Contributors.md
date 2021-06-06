@@ -15,6 +15,7 @@
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 [Kshitij Kadam](https://github.com/KshitijKadam)
 [Akshat Divya](https://github.com/Akshat42)
+[Eric De La Rosa](https://github.com/eddlr98)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
