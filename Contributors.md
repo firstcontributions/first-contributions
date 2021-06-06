@@ -8574,6 +8574,7 @@ Yury Smyslov
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
 - [Conor Gaughan](https://github.com/conor-gaughan)
 - [Deanna Thompson](https://github.com/deannathompson)
+- [Gautham kumar](https://github.com/Gautham-22)
 - [Stephanie Stevens](https://github.com/lekaceleb)
 - [Saurabh kumar](https://github.com/LuGO0)
 - [Brian Walter](https://github.com/bigbwalter)
