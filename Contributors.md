@@ -10817,6 +10817,7 @@ elkhechafi zakaria
 - Mircea Radu Vlad
 - HeadYak
 - zack
+-[Kody Smith](https://github.com/ASTRA1337)
 - James Crawf
 - [Muhammad Noman Soomro](https://github.com/MuhammadNomanS)
 - [Maicon Peixinho](https://github.com/maiconpeixinho)
@@ -11538,3 +11539,4 @@ sam_namiranian
 - [Matthewvliay](https://github.com/Matthewvliay)
 - [jordicido](https://github.com/jordicido)
 [wxo15](https://github.com/wxo15)
+- [joyshmitz](https://github.com/joyshmitz)
