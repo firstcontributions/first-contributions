@@ -5,10 +5,20 @@
 - [winsalva](https://github.com/winsalva)
 - Matt
 - [Thomas Gehrmann](https://github.com/thgehr)
+- [Bipin Parajuli](https://github.com/bipinparajuli)
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
-- [Luka Piplica](https://github.com/luka2220)
+- [Luka Piplica](https://github.com/luka2220))
+- Pashyant Srivastava
+- kapalli
+- Rushil
+- Pardeep Kumar
+- Isha Gupta
+- [Mike Witts](https://github.com/iam-mike)
+- kapalli
+- [Kaustubh Kadam](https://github.com/kaabus)
+- [Edward O'Reilly](https://github.com/ejoreillyiv22)
 - [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 - [Kshitij Kadam](https://github.com/KshitijKadam)
 - [Akshat Divya](https://github.com/Akshat42)
@@ -30,16 +40,7 @@
 - [Adam McCartney](https://github.com/adammccartney)
 - [Harsh Singla](https://github.com/hs2804)
 - [Nina Chen](https://github.com/NinaC-boop)
-- [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
-- Pashyant Srivastava
-- kapalli
-- Rushil
-- Pardeep Kumar
-- Isha Gupta
-- [Mike Witts](https://github.com/iam-mike)
-- kapalli
-- [Kaustubh Kadam](https://github.com/kaabus)
-- [Edward O'Reilly](https://github.com/ejoreillyiv22)
+- [Aryan Srivastava] (https://github.com/Aryan-Srivastava
 - [Rohan-Singh] (https://github.com/rohan-singh987/)
 - [Neto Hog](https://github.com/NotNetohog)
 - Vasundhara 
