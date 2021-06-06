@@ -1,4 +1,5 @@
 # Contributors
+- [Truong Tuan](https://github.com/truongvantuan)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
 - Matt
