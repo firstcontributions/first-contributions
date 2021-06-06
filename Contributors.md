@@ -50,6 +50,7 @@ Devanshi Mittal
 - [Rohith ND](https://github.com/ndrohith09)
 -[Kashish Goyal](https://github.com/KashishGoyal905)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
+- [Shreyas Taware](https://github.com/shreyastaware)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Kiril Angelov](https://github.com/KirilAngelov)
