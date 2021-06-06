@@ -12,6 +12,7 @@
 - [Kaustubh Kadam](https://github.com/kaabus)
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
+[Kshitij Kadam](https://github.com/KshitijKadam)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
