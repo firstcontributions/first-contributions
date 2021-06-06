@@ -494,6 +494,7 @@ elkhechafi zakaria
 - [Amritanshu Joshi](https://github.com/amritanshujoshi)
 - [Karamala Om Rohith](https://github.com/RohithKumar1368)
 - [Razeed](https://github.com/j-razeed)
+- [Nabin Shrestha](https://github.com/nabs107)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
@@ -878,7 +879,7 @@ Berliana
 - [Dimas Andhika Diputra](https://github.com/dimasandhk)
 - [Avi Cohen] (https://github.com/avicohen3660)
 - [Priyansh Darji] (https://github.com/priyansh11786)
-- [Harsh Dubey] (https://github.com/hardy30894)
+- [Harsh Dubey] (https://github.com/hardy3089
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
 - [Ankur Rai](https://github.com/ankurrai1)
 - [Shiva Sai Krishna](https://github.com/Shiva-sai-krishna)
