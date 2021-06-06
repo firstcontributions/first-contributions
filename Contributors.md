@@ -19,6 +19,7 @@ Joe Fagan 2nd attempt
 [Moody Omar](https://github.com/moodyomar)
 ROHAN KUMAR PANDEY
 [Fatima Tasnim](https://github.com/FatimaTasnim)
+[Adnan Shah Muzavor]
 [Diksha Nasa] (https://github.com/dikshanasa)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
 [Adam McCartney](https://github.com/adammccartney)
