@@ -16,6 +16,7 @@
 [Kshitij Kadam](https://github.com/KshitijKadam)
 [Akshat Divya](https://github.com/Akshat42)
 [Eric De La Rosa](https://github.com/eddlr98)
+[Nikhil Agarwal](https://githib.com/nikhil0209)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
