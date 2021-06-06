@@ -292,6 +292,7 @@ Akshit Agarwal
 -[Molly Scott](https://github.com/mcbeepyface)
 -[Dima Zimin](https://github.com/DimaZimin)
 -[Gurudeta Singh](https://github.com/GurudetaSingh)
+-[Gabriel Somerville](https://github.com/DarthGaber)
 -[Arun Kothari] (https://github.com/arunkothari84)
 -[Roshan Kumar](https://github.com/roshan-pnq)
 -[xMdb](https://github.com/xMdb)
