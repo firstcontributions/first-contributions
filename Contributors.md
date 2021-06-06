@@ -9,17 +9,24 @@
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
 - [Luka Piplica](https://github.com/luka2220)
+- [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
+- [Kshitij Kadam](https://github.com/KshitijKadam)
+- [Akshat Divya](https://github.com/Akshat42)
 - Loc Nguyen
 - YiCheng Chung
 - Aadiya Agrawal
+- [Shubham Malpani] (https://github.com/SHUBH778)
 - [Laura Pasqualone](https://github.com/lpasqualone)
 - [bhavna nagar](https://github.com/bhavna-nagar)
 - Joe Fagan 2nd attempt
 - [Moody Omar](https://github.com/moodyomar)
 - ROHAN KUMAR PANDEY
 - [Fatima Tasnim](https://github.com/FatimaTasnim)
+- [Adnan Shah Muzavor]
 - [Diksha Nasa] (https://github.com/dikshanasa)
+- [Harmeet Singh] (https://github.com/harmeetsinghmittu)
 - [Ankit Yadav](https://github.com/ankitcr7-afk)
+- [Fabricio Pashaj](https://github.com/fabriciopashaj)
 - [Adam McCartney](https://github.com/adammccartney)
 - [Harsh Singla](https://github.com/hs2804)
 - [Nina Chen](https://github.com/NinaC-boop)
@@ -33,16 +40,6 @@
 - kapalli
 - [Kaustubh Kadam](https://github.com/kaabus)
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
-- [Shubham Malpani] (https://github.com/SHUBH778)
-- [Adnan Shah Muzavor]
-- [Diksha Nasa] (https://github.com/dikshanasa)
-- [Harmeet Singh] (https://github.com/harmeetsinghmittu)
-- [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
-- [Kshitij Kadam](https://github.com/KshitijKadam)
-- [Shubham Malpani] (https://github.com/SHUBH778)
-- [Adnan Shah Muzavor]
-- [Harmeet Singh] (https://github.com/harmeetsinghmittu)
-- [Fabricio Pashaj](https://github.com/fabriciopashaj)
 - [Rohan-Singh] (https://github.com/rohan-singh987/)
 - [Neto Hog](https://github.com/NotNetohog)
 - Vasundhara 
