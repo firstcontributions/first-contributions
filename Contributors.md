@@ -9,6 +9,7 @@
 - [Luka Piplica](https://github.com/luka2220)
 - [Mike Witts](https://github.com/iam-mike)
 - [Kaustubh Kadam](https://github.com/kaabus)
+- [Edward O'Reilly](https://github.com/ejoreillyiv22)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
