@@ -23,6 +23,7 @@ ROHAN KUMAR PANDEY
 [Adnan Shah Muzavor]
 [Diksha Nasa] (https://github.com/dikshanasa)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
+ - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
 [Harsh Singla](https://github.com/hs2804)
 [Nina Chen](https://github.com/NinaC-boop)
