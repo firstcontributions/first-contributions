@@ -25,6 +25,7 @@
 - [Nina Chen](https://github.com/NinaC-boop)
 - [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 - Pashyant Srivastava
+- kapalli
 - Rushil
 - Pardeep Kumar
 - Isha Gupta
@@ -36,6 +37,13 @@
 - [Adnan Shah Muzavor]
 - [Diksha Nasa] (https://github.com/dikshanasa)
 - [Harmeet Singh] (https://github.com/harmeetsinghmittu)
+- [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
+- [Kshitij Kadam](https://github.com/KshitijKadam)
+- [Shubham Malpani] (https://github.com/SHUBH778)
+- [Adnan Shah Muzavor]
+- [Harmeet Singh] (https://github.com/harmeetsinghmittu)
+- [Fabricio Pashaj](https://github.com/fabriciopashaj)
+- [Rohan-Singh] (https://github.com/rohan-singh987/)
 - [Neto Hog](https://github.com/NotNetohog)
 - Vasundhara 
 - Prakhar
@@ -51,6 +59,7 @@
 - [Rohith ND](https://github.com/ndrohith09)
 - [Kashish Goyal](https://github.com/KashishGoyal905)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
+- [Shreyas Taware](https://github.com/shreyastaware)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
 - [Kevin Fernandes](https://github.com/kevinsfernandes)
 - [Kiril Angelov](https://github.com/KirilAngelov)
@@ -494,6 +503,7 @@
 - [Amritanshu Joshi](https://github.com/amritanshujoshi)
 - [Karamala Om Rohith](https://github.com/RohithKumar1368)
 - [Razeed](https://github.com/j-razeed)
+- [Nabin Shrestha](https://github.com/nabs107)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
@@ -878,7 +888,7 @@
 - [Dimas Andhika Diputra](https://github.com/dimasandhk)
 - [Avi Cohen] (https://github.com/avicohen3660)
 - [Priyansh Darji] (https://github.com/priyansh11786)
-- [Harsh Dubey] (https://github.com/hardy30894)
+- [Harsh Dubey] (https://github.com/hardy3089
 - [Sidharth Sarangi](https://github.com/SidharthSarangi)
 - [Ankur Rai](https://github.com/ankurrai1)
 - [Shiva Sai Krishna](https://github.com/Shiva-sai-krishna)
@@ -11793,3 +11803,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [ArmintasP](https://github.com/ArmintasP)
 - [Matthewvliay](https://github.com/Matthewvliay)
 - [jordicido](https://github.com/jordicido)
+[wxo15](https://github.com/wxo15)
