@@ -22,6 +22,7 @@
 - [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 - [Kshitij Kadam](https://github.com/KshitijKadam)
 - [Akshat Divya](https://github.com/Akshat42)
+- [Eric De La Rosa](https://github.com/eddlr98)
 - Loc Nguyen
 - YiCheng Chung
 - Aadiya Agrawal
@@ -33,6 +34,7 @@
 - ROHAN KUMAR PANDEY
 - [Fatima Tasnim](https://github.com/FatimaTasnim)
 - [Adnan Shah Muzavor]
+- SparkBuster
 - [Diksha Nasa] (https://github.com/dikshanasa)
 - [Harmeet Singh] (https://github.com/harmeetsinghmittu)
 - [Ankit Yadav](https://github.com/ankitcr7-afk)
