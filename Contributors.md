@@ -13,6 +13,7 @@
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 [Kshitij Kadam](https://github.com/KshitijKadam)
+[Akshat Divya](https://github.com/Akshat42)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
