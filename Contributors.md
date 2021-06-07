@@ -1,5 +1,6 @@
 # Contributors
 - [Truong Tuan](https://github.com/truongvantuan)
+- [Bruce Felix](https://github.com/BruceFelix)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
