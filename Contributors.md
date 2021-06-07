@@ -89,6 +89,7 @@ Devanshi Mittal
 - [Lorenz Beyer](https://github.com/beyerl/)
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
+- [Owen Strength](https://github.com/owenstrength)
 - [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
