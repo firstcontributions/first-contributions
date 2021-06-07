@@ -6063,6 +6063,7 @@ Yury Smyslov
 - [Hai Dao](https://github.com/haidao0923)
 - [Amy Yee](https://github.com/amy-yee)
 - [Shubham Lakhera](https://github.com/shubhamlakheraa)
+- [Seyfettin Yıldırım](https://github.com/seyfettinyildirim)
 - [David Sykes](https://github.com/davidjsykes)
 - Winston6079
 - [Pallav Jain](https://github.com/pallavjain)
