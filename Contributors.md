@@ -6153,6 +6153,7 @@ Yury Smyslov
 - [Aditya Mahajan](https://github.com/adityam31)
 - [Saurabh K. Pandey](https://github.com/Saurabh200598)
 - [Preyansh Agrawal](https://github.com/Preyansh17)
+- [Mridul Jain](https://github.com/mriduljainmj)
 - [Piyush Bajaj](https://github.com/piyushxbajaj)
 - [Chris Richardson](https://github.com/ctrich)
 - [Pratyush Kumar](https://github.com/Pratyukumar)
