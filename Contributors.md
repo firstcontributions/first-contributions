@@ -1,3 +1,14 @@
+# Contributors
+- 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
+- [Truong Tuan](https://github.com/truongvantuan)
+- [Bruce Felix](https://github.com/BruceFelix)
+- [lamarch](https://github.com/lamarch) 🟦⬜🟥
+- [winsalva](https://github.com/winsalva)
+- [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
+- Matt
+- Jino Rohit
+- [Thomas Gehrmann](https://github.com/thgehr)
+- [Bipin Parajuli](https://github.com/bipinparajuli)
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen)
@@ -21,6 +32,7 @@
 - [Lorenz Beyer](https://github.com/beyerl/)
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
+- [Owen Strength](https://github.com/owenstrength)
 - [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
