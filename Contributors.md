@@ -4134,6 +4134,7 @@ Jairo Martinez
 - [Harpocrat3s](https://github.com/harpocrat3s)
 - [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
+- [Ajay Mateti](https://github.com/ajmateti)
 - [Jeison Ferrer](https://github.com/joferrer)
 - [Bo Bleyl](https://github.com/Bobleyl)
 - [Will Guo]
