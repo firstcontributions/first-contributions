@@ -127,6 +127,7 @@ Sakshi Bansal
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
+- [Karandeep Singh Sehgal](https://github.com/karandeeppotato)
 - [Lucky Makau](https://https://github.com/makaulucky)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
