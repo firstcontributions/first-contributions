@@ -19,6 +19,7 @@
 [Nikhil Agarwal](https://githib.com/nikhil0209)
 Loc Nguyen
 YiCheng Chung
+[Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
 [Shubham Malpani] (https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
