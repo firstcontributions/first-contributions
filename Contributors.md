@@ -138,6 +138,7 @@ Sakshi Bansal
 - [Amey Varhade](https://github.com/yemaedahrav)
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
+- [David Zaldivar] (https://github.com/davidozaldivar)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Karandeep Singh Sehgal](https://github.com/karandeeppotato)
 - [Lucky Makau](https://https://github.com/makaulucky)
