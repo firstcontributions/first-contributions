@@ -13,6 +13,7 @@
 - [Mike Witts](https://github.com/iam-mike)
 - [Kaustubh Kadam](https://github.com/kaabus)
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
+- [crazyacking](https://github.com/crazyacking)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
