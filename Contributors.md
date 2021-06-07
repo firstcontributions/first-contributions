@@ -9297,6 +9297,7 @@ Yury Smyslov
 - [Tuan Hoang Tran](https://github.com/TuanTranEngineer)
 - [Kherin Bundhoo](https://github.com/kherin)
 - Ahmed Zaki
+- [Cristian Gruescu](https://github.com/stefangruescu)
 - [Zhang heng](https://github.com/msdn129)
 - [Srinath](https://github.com/srinath1412001)
 - [Bill Edwards](https://github.com/AdditionalPylons)
