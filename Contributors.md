@@ -47,6 +47,7 @@ Isha Gupta
 - [Neto Hog](https://github.com/NotNetohog)
 Vasundhara 
 Prakhar
+- [Rupak Thapa Magar](https://github.com/RUPAAK)
 Chaste Akomoize
 [Cassian Kahema](https://github.com/caykay)
 Santosh D J 
