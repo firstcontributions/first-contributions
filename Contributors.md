@@ -29,6 +29,7 @@
 [George Atkinson]
 [Nikhil Agarwal](https://githib.com/nikhil0209)
 Loc Nguyen
+Diana LaScala-Gruenewald
 YiCheng Chung
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
