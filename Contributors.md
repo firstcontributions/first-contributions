@@ -7774,6 +7774,7 @@ Yury Smyslov
 - [Trevor Seyller](https://github.com/seyllert)
 - [Flavio Stutz](https://github.com/flaviostutz)
 - [Fabio Tavares Pereira Rego](https://github.com/fabiotavarespr)
+- [Samet Aydin](https://github.com/smtydn)
 - [Monish Khambhati](https://github.com/moni2096)
 - [Justin Do](https://github.com/justinkhado)
 - [DCSnial](https://github.com/wangyanchang21)
