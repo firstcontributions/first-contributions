@@ -1486,6 +1486,7 @@ Aman S
 - [Emily Teng](https://github.com/eteng2022)
 - [Sofiene Khiari](https://github.com/sofienekhiari)
 - [Andres Gomez](https://github.com/andresgmz)
+- [Jaden Stanton](https://github.com/Jadenstanton)
 - Fresh Olives
 - [Mads Haderup](https://github.com/MadPonHad)
 - [Daniel Infante](https://github.com/kancurochat)
