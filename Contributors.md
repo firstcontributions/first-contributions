@@ -277,6 +277,7 @@ Akshit Agarwal
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
 -[Aniket kumar](https://github.com/ani1998ket)
+-[Notian](https://github.com/notnian)
 -[Meegada Mahesh](https://github.com/Meegada-Mahesh)
 -[Temiloluwa Micheal](https://github.com/temmyzeus)
 -Charlie 
