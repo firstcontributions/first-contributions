@@ -135,6 +135,7 @@ Sakshi Bansal
 - [Lucky Makau](https://https://github.com/makaulucky)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
+- [Lakshya Chandrakar](https://github.com/Lakshyaaa)
 - [CristianH15]
   [Prashil Ganvir]
   Shashank Srivastava
