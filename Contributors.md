@@ -67,6 +67,7 @@
 - [Lucky Makau](https://https://github.com/makaulucky)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
+- [Lakshya Chandrakar](https://github.com/Lakshyaaa)
 - [CristianH15]
   [Prashil Ganvir]
   Shashank Srivastava
@@ -1204,6 +1205,7 @@ elkhechafi zakaria
 - [Emily Teng](https://github.com/eteng2022)
 - [Sofiene Khiari](https://github.com/sofienekhiari)
 - [Andres Gomez](https://github.com/andresgmz)
+- [Jaden Stanton](https://github.com/Jadenstanton)
 - Fresh Olives
 - [Mads Haderup](https://github.com/MadPonHad)
 - [Daniel Infante](https://github.com/kancurochat)
@@ -5778,6 +5780,7 @@ elkhechafi zakaria
 - [Hai Dao](https://github.com/haidao0923)
 - [Amy Yee](https://github.com/amy-yee)
 - [Shubham Lakhera](https://github.com/shubhamlakheraa)
+- [Seyfettin Yıldırım](https://github.com/seyfettinyildirim)
 - [David Sykes](https://github.com/davidjsykes)
 - Winston6079
 - [Pallav Jain](https://github.com/pallavjain)
@@ -6785,6 +6788,7 @@ elkhechafi zakaria
 - [Min C.](https://github.com/krnmin)
 - [Isaac Oldwood](https://github.com/IsaacOldwood)
 - [Abhimanyu Atri](https://github.com/AbhimanyuAtri)
+- [Shantanu Singh](https://github.com/CasualCoder99)
 - [BARD](https://github.com/Bard2803)
 - [Neel Shah](https://github.com/ineelshah)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
@@ -7486,6 +7490,7 @@ elkhechafi zakaria
 - [Trevor Seyller](https://github.com/seyllert)
 - [Flavio Stutz](https://github.com/flaviostutz)
 - [Fabio Tavares Pereira Rego](https://github.com/fabiotavarespr)
+- [Samet Aydin](https://github.com/smtydn)
 - [Monish Khambhati](https://github.com/moni2096)
 - [Justin Do](https://github.com/justinkhado)
 - [DCSnial](https://github.com/wangyanchang21)
@@ -8066,6 +8071,7 @@ elkhechafi zakaria
 - [VirtualVasquez](https://github.com/VirtualVasquez)
 - [DJ Johnson](https://github.com/DonaldJamesJohnson)
 - [Will Collins](https://github.com/wcollins37)
+- [Modoukpe Arinloye](https://github.com/ModoukpeA)
 - [Daniel Memije](https://github.com/memije) :rocket:
 - [Zach Rudy](https://github.com/zcr7948)
 - [David Marom](https://github.com/DavidMarom)
@@ -11555,3 +11561,5 @@ sam_namiranian
 - [Swordtalk](https://github.com/swordtalk)
 - [Jatin Bhargava](https://github.com/JatinBhargava)
 - [Matthew Opie](https://github.com/matthew-opie)
+- [Vinícius Hansen](https://github.com/viniciushansen)
+- [Mariana Siqueira](https://github.com/Mariana-Siqueira)
