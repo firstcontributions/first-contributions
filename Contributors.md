@@ -63,6 +63,7 @@
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
+- [Karandeep Singh Sehgal](https://github.com/karandeeppotato)
 - [Lucky Makau](https://https://github.com/makaulucky)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
@@ -3854,6 +3855,7 @@ elkhechafi zakaria
 - [Harpocrat3s](https://github.com/harpocrat3s)
 - [James Mullarkey](https://github.com/jaymz95)
 - [Audie Mendaros](https://github.com/taroken6)
+- [Ajay Mateti](https://github.com/ajmateti)
 - [Jeison Ferrer](https://github.com/joferrer)
 - [Bo Bleyl](https://github.com/Bobleyl)
 - [Will Guo]
@@ -11549,3 +11551,5 @@ sam_namiranian
 - [Prasanna K R](https://github.com/prash1909)
 - [fisheepx](https://github.com/fisheepx)
 - [Iqbal H](https://github.com/Iiqbal2000)
+- [Swordtalk](https://github.com/swordtalk)
+- [Jatin Bhargava](https://github.com/JatinBhargava)
