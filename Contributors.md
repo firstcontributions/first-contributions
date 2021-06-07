@@ -7446,6 +7446,7 @@ Yury Smyslov
 - [ChiragSaini](https://github.com/ChiragSaini)
 - [Audrey Ndum](https://github.com/Cadreia)
 - [Matej Sestak](https://github.com/sestys)
+- [Asfandyar Khan](https://github.com/Asyfundyar)
 - [Zain Qureshi](https://github.com/ZainnQureshii)
 - [Asha Sankar Ramalaxmi](https://github.com/Ashsr)
 - [oranjjun](https://github.com/oranjjun)
