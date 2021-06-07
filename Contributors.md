@@ -20,6 +20,7 @@
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 [Kshitij Kadam](https://github.com/KshitijKadam)
 [Akshat Divya](https://github.com/Akshat42)
+[Ravi Maithrey](https://github.com/ravi-maithrey)
 [Eric De La Rosa](https://github.com/eddlr98)
 [George Atkinson]
 [Nikhil Agarwal](https://githib.com/nikhil0209)
