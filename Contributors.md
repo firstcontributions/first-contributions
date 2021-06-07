@@ -7069,6 +7069,7 @@ Yury Smyslov
 - [Min C.](https://github.com/krnmin)
 - [Isaac Oldwood](https://github.com/IsaacOldwood)
 - [Abhimanyu Atri](https://github.com/AbhimanyuAtri)
+- [Shantanu Singh](https://github.com/CasualCoder99)
 - [BARD](https://github.com/Bard2803)
 - [Neel Shah](https://github.com/ineelshah)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
