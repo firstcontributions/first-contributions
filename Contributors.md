@@ -12,6 +12,7 @@
 - [Mike Witts](https://github.com/iam-mike)
 - [Kaustubh Kadam](https://github.com/kaabus)
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
+[UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 [Kshitij Kadam](https://github.com/KshitijKadam)
 [Akshat Divya](https://github.com/Akshat42)
