@@ -5,6 +5,7 @@
 - [winsalva](https://github.com/winsalva)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - Matt
+- Jino Rohit
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Bipin Parajuli](https://github.com/bipinparajuli)
 - [Rahul Kalia](https://github.com/RahulKalia)
