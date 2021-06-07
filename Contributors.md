@@ -1,6 +1,5 @@
 # Contributors
 - [Truong Tuan](https://github.com/truongvantuan)
-- [Bruce Felix](https://github.com/BruceFelix)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
@@ -10211,6 +10210,7 @@ Yury Smyslov
 - [Paul Clement](https://github.com/nut556)
 - [Manisha Chaurasia](https://github.com/mchauras1)
 - Marcel2020
+- [Sneha](https://github.com/sneha-54)
 - [Pooja Arya](https://github.com/poojavarya)
 - [Vera Rodriguez](https://github.com/veralizeth)
 - [Radhika Sachan](https://github.com/radhikasachan11)
@@ -11832,4 +11832,3 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [fisheepx](https://github.com/fisheepx)
 - [Iqbal H](https://github.com/Iiqbal2000)
 - [Swordtalk](https://github.com/swordtalk)
-- [Jatin Bhargava](https://github.com/JatinBhargava)
