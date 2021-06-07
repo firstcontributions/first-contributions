@@ -70,6 +70,7 @@ Devanshi Mittal
 - [Shoaib M](https://github.com/shabbs15)
 - [Jason Ni](https://github.com/niyunhuo98)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
+- [Arham Jain](https://github.com/jain-arham-hsr)
 - [Nik-hz](https://github.com/nik-hz)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
