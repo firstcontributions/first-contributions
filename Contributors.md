@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
@@ -76,6 +76,7 @@ Devanshi Mittal
 -[Ardhendu Reja](Hi sexy)
 - [Rohith ND](https://github.com/ndrohith09)
 -[Kashish Goyal](https://github.com/KashishGoyal905)
+- [Thomas Winters](https://github.com/thomasandwinters)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Shreyas Taware](https://github.com/shreyastaware)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
