@@ -455,6 +455,7 @@ elkhechafi zakaria
 - [Sai-Vamsi(https://github.com/Sai-Vamsi)
 - [Toni Kulic](https://github.com/tkulic)
 - [0Ams](https://github.com/0ams)
+- [Esteban Data]
 - [Tyler Marlow](https://github.com/Tmarlow98)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
 - [Arjun.R.A](https://github.com/ArjunJunna)
