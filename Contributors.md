@@ -35,6 +35,7 @@
 Loc Nguyen
 Diana LaScala-Gruenewald
 YiCheng Chung
+daltva
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
 Roger Liu
