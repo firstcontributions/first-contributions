@@ -9,6 +9,7 @@
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - Matt
+- Christian Garcia (https://github.com/cbghub2)
 - Jino Rohit
 - Irving Viveros
 - [Eduardo Rerick](https://github.com/eduardorerick)
