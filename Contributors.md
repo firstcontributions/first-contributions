@@ -245,6 +245,7 @@ Rahul V (rahulv07)
 -[Daniel Ojeda](https://github.com/leinadpy)
 -[Harvey Balaam](https://github.com/harv-bala)
 -[Reyaan Jagnani]
+-[Adam James](https://github.com/adam4nj)
 Akshit Agarwal
 -[Brandon Goldenberg](https://github.com/goldenb12)
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
