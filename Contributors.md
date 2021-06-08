@@ -101,6 +101,7 @@ Devanshi Mittal
 - [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
 - [Abitha]
+- [wuwe1](https://github.com/wuwe1)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
 - [Lamine Aknouche] (https://github.com/aknouche)
