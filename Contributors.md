@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
@@ -7,14 +7,78 @@
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - Matt
 - Jino Rohit
+- Irving Viveros
+- [morleyThomas](https://github.com/morleythomas)
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Bipin Parajuli](https://github.com/bipinparajuli)
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen)
 - [Luka Piplica](https://github.com/luka2220)
+- [Olivia Roche](https://github.com/oliviaroche)
+- [Mike Witts](https://github.com/iam-mike)
+- [Kaustubh Kadam](https://github.com/kaabus)
+- [Edward O'Reilly](https://github.com/ejoreillyiv22)
+- [crazyacking](https://github.com/crazyacking)
+[UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
+[Sachin Hegde](https://github.com/sachinhegde328)
+[Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
+[Kshitij Kadam](https://github.com/KshitijKadam)
+[Akshat Divya](https://github.com/Akshat42)
+[Ravi Maithrey](https://github.com/ravi-maithrey)
+[Eric De La Rosa](https://github.com/eddlr98)
+[George Atkinson]
+[Nikhil Agarwal](https://githib.com/nikhil0209)
+Loc Nguyen
+Diana LaScala-Gruenewald
+YiCheng Chung
+[Denton Sun](https://github.com/Dentsun)
+Aadiya Agrawal
+[Shubham Malpani] (https://github.com/SHUBH778)
+[Laura Pasqualone](https://github.com/lpasqualone)
+[bhavna nagar](https://github.com/bhavna-nagar)
+Joe Fagan 2nd attempt
+[jakejasminjk](https://github.com/jakejasminjk)
+[Moody Omar](https://github.com/moodyomar)
+ROHAN KUMAR PANDEY
+[Fatima Tasnim](https://github.com/FatimaTasnim)
+[Adnan Shah Muzavor]
+SparkBuster
+Ujjwal Singh just landed here
+[Diksha Nasa] (https://github.com/dikshanasa)
+[Prudhvi raj] (http://github.com/prudhvirajstark/)
+[Harmeet Singh] (https://github.com/harmeetsinghmittu)
+[Ankit Yadav](https://github.com/ankitcr7-afk)
+ - [Fabricio Pashaj](https://github.com/fabriciopashaj)
+[Adam McCartney](https://github.com/adammccartney)
+[Harsh Singla](https://github.com/hs2804)
+[Nina Chen](https://github.com/NinaC-boop)
+[Aryan Srivastava] (https://github.com/Aryan-Srivastava)
+- [Rohan-Singh] (https://github.com/rohan-singh987/)
+Pashyant Srivastava
+kapalli
+Rushil
+[Matthew Opie] (https://github.com/matthew-opie/)
+Pardeep Kumar
+Isha Gupta
+- [Neto Hog](https://github.com/NotNetohog)
+Vasundhara 
+Prakhar
+- [Rupak Thapa Magar](https://github.com/RUPAAK)
+Chaste Akomoize
+[Cassian Kahema](https://github.com/caykay)
+Santosh D J 
+Animesh Kumar
+Saad Ansari
+[Pericles Adjovi](https://github.com/Pericles001)
+Prawal Srivastava (https://github.com/PrawalSrivastava)
+- [Guillaume Langlois](https://github.com/PeluxGit)
+Devanshi Mittal
+- Abdur Rahman
+-[Ardhendu Reja](Hi sexy)
 - [Rohith ND](https://github.com/ndrohith09)
 -[Kashish Goyal](https://github.com/KashishGoyal905)
+- [Thomas Winters](https://github.com/thomasandwinters)
 - [Himanshi Gupta](https://github.com/himanshi-gupta)
 - [Shreyas Taware](https://github.com/shreyastaware)
 - [Tanzeel Ahmed](https://github.com/Tanzeel159)
@@ -74,6 +138,7 @@
 - [Amey Varhade](https://github.com/yemaedahrav)
 - [Devender Bisht] (https://github.com/devbistt)
 - [Praveen Kumar] (https://github.com/praveenbommalibits)
+- [David Zaldivar] (https://github.com/davidozaldivar)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Karandeep Singh Sehgal](https://github.com/karandeeppotato)
 - [Lucky Makau](https://https://github.com/makaulucky)
@@ -7165,6 +7230,7 @@ elkhechafi zakaria
 - [ChiragSaini](https://github.com/ChiragSaini)
 - [Audrey Ndum](https://github.com/Cadreia)
 - [Matej Sestak](https://github.com/sestys)
+- [Asfandyar Khan](https://github.com/Asyfundyar)
 - [Zain Qureshi](https://github.com/ZainnQureshii)
 - [Asha Sankar Ramalaxmi](https://github.com/Ashsr)
 - [oranjjun](https://github.com/oranjjun)
@@ -9719,6 +9785,7 @@ elkhechafi zakaria
 - [Ann](https://github.com/Annnnn1215)
 - [Vishant Khunti](https://github.com/vishant93)
 - [SMARTYPANTS87](https://github.com/SMARTYPANTS87)
+- [Houssem CHEBAB](https://github.com/houssemchebeb)
 - [QQaker](https://github.com/QQaker)
 - [AnnnnnJian](https://github.com/AnnnnnJian)
 - [Kerogame](https://zh-tw.facebook.com/kerogame)
