@@ -1,4 +1,5 @@
 # Contributors
+- [Riya Gupta 👩](https://github.com/RiyaGupta89) 
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
@@ -43,6 +44,7 @@ Joe Fagan 2nd attempt
 ROHAN KUMAR PANDEY
 [Fatima Tasnim](https://github.com/FatimaTasnim)
 [Adnan Shah Muzavor]
+[Tanu Gupta]
 SparkBuster
 Ujjwal Singh just landed here
 [Diksha Nasa] (https://github.com/dikshanasa)
