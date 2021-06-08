@@ -1562,6 +1562,7 @@ Aman S
 - [Shrey Chandra](https://github.com/ShreyChandra)
 - [Kreyren](https://github.com/Kreyren)
 - [Kadan Seward] (https://github.com/koseward)
+- [Kada](https://github.com/Kada-sudo)
 - [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
