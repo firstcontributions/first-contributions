@@ -9497,6 +9497,7 @@ Yury Smyslov
 - [bleirdalag](https://github.com/bleirdalag)
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Filipe Estacio](https://github.com/filipeestacio)
+- [Fangzhen Song](https://github.com/song-fangzhen)
 - [Kyungmin Lee](https://github.com/rekyungmin)
 - [Todd Crooks](https://github.com/Ujili)
 - [Adexandria](https://github.com/adexandria)
