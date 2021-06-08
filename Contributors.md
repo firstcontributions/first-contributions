@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
@@ -558,6 +558,7 @@ elkhechafi zakaria
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Alekya Kowta](https://github.com/AlekyaKowta)
 -[Prashant Ghimire](https://github.com/prashant1gh)
+-[Allen Chung](https://github.com/allenchung01)
 - [Ane S]
 - [Brunda B R]
 - [Alok Paidalwar]
