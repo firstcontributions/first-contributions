@@ -5,6 +5,7 @@
 - [Bruce Felix](https://github.com/BruceFelix)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
+- [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - Matt
 - Jino Rohit
