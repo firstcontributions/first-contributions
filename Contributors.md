@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
@@ -57,6 +57,7 @@ Ujjwal Singh just landed here
 - [Rohan-Singh] (https://github.com/rohan-singh987/)
 Pashyant Srivastava
 kapalli
+phantomglitter
 Rushil
 [Matthew Opie] (https://github.com/matthew-opie/)
 Pardeep Kumar
@@ -243,6 +244,7 @@ elkhechafi zakaria
 - [Sai-Vamsi(https://github.com/Sai-Vamsi)
 - [Toni Kulic](https://github.com/tkulic)
 - [0Ams](https://github.com/0ams)
+- [Esteban Data]
 - [Tyler Marlow](https://github.com/Tmarlow98)
 - [Adeola Adeyemo](https://github.com/DeolaJ)
 - [Arjun.R.A](https://github.com/ArjunJunna)
@@ -345,7 +347,9 @@ elkhechafi zakaria
 - [Raghav Mehrotra](https://github.com/raghav-max)
 - [Yazan Qawasmeh](https://github.com/yazan929)
 - [Wallison Silva](https://github.com/WallisonHenrique)
-- [Alekya Kowta](https://github.com/AlekyaKowta) -[Prashant Ghimire](https://github.com/prashant1gh)
+- [Alekya Kowta](https://github.com/AlekyaKowta)
+-[Prashant Ghimire](https://github.com/prashant1gh)
+-[Allen Chung](https://github.com/allenchung01)
 - [Ane S]
 - [Brunda B R]
 - [Alok Paidalwar]
@@ -1344,6 +1348,7 @@ elkhechafi zakaria
 - [Shrey Chandra](https://github.com/ShreyChandra)
 - [Kreyren](https://github.com/Kreyren)
 - [Kadan Seward] (https://github.com/koseward)
+- [Kada](https://github.com/Kada-sudo)
 - [DeeveshBeegun](https://github.com/DeeveshBeegun)
 - [dantecpu](https://github.com/dantecpu)
 - [HARSHIT SINGH](https://github.com/Hharshitsingh)
@@ -3797,6 +3802,7 @@ elkhechafi zakaria
 - [Padmaja Madhavan](https://github.com/pmadhavan/)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
+- [Allen Hunt] (https://github.com/bluerhythmz)
 - [Virdio Samuel](https://github.com/diosamuel)
 - [Pam Jiménez](https://github.com/Glyan)
 - [Raunak Priya](https://github.com/raunakpriya)
@@ -8933,6 +8939,7 @@ elkhechafi zakaria
 - [zenje](https://github.com/zenje)
 - [Douglas Ferlini](https://github.com/douglasferlini)
 - [Aswin Mahendiran](https://github.com/aswinmahendiran)
+- [Leandro Sosa](http://github.com/leandrososa)
 - [Brian Pechkis](https://github.com/bpechkis)
 - [Roy Jackman](https://github.com/royJackman)
 - [Benjamin Sarkis](https://github.com/sarkisben)
@@ -11642,3 +11649,5 @@ sam_namiranian
 - [Matthew Opie](https://github.com/matthew-opie)
 - [Vinícius Hansen](https://github.com/viniciushansen)
 - [Mariana Siqueira](https://github.com/Mariana-Siqueira)
+- [Tide Tan](https://github.com/tidetam)
+- [Gerald Plakasa](https://github.com/geraldplakasa)
