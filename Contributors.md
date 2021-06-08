@@ -329,6 +329,7 @@ Akshit Agarwal
 -[Keshava Rao](https://github.com/k3shav17)
 -[Ethan Hull](https://github.com/hullep)
 -[AKehn]
+-[Christian Garcia]
 -[Luis Polanco](https://github.com/luisPolanco25)
 -[Yash Srivastava](https://github.com/yash312312)
 -[Michael P]
