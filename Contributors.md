@@ -100,6 +100,7 @@ Devanshi Mittal
 - [Owen Strength](https://github.com/owenstrength)
 - [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
+- [Abitha]
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
 - [Lamine Aknouche] (https://github.com/aknouche)
