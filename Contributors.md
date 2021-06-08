@@ -23,6 +23,7 @@
 - [crazyacking](https://github.com/crazyacking)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
+[Ian Cossentino](https://github.com/cossentino)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 [Kshitij Kadam](https://github.com/KshitijKadam)
 [Akshat Divya](https://github.com/Akshat42)
