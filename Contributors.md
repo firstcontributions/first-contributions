@@ -9,6 +9,7 @@
 - Matt
 - Jino Rohit
 - Irving Viveros
+- [Eduardo Rerick](https://github.com/eduardorerick)
 - [morleyThomas](https://github.com/morleythomas)
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Bipin Parajuli](https://github.com/bipinparajuli)
