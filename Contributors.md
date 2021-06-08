@@ -4018,6 +4018,7 @@ Aman S
 - [Padmaja Madhavan](https://github.com/pmadhavan/)
 - [Anirudh Srikanth](https://github.com/anirudhs1998)
 - [Marlene Heinrich](https://github.com/glumand)
+- [Allen Hunt] (https://github.com/bluerhythmz)
 - [Virdio Samuel](https://github.com/diosamuel)
 - [Pam Jiménez](https://github.com/Glyan)
 - [Raunak Priya](https://github.com/raunakpriya)
