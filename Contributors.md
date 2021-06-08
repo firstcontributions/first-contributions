@@ -34,6 +34,7 @@ Diana LaScala-Gruenewald
 YiCheng Chung
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
+Roger Liu
 [Shubham Malpani] (https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
