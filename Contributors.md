@@ -1,4 +1,5 @@
 # Contributors
+- [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
