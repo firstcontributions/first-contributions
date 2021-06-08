@@ -279,6 +279,7 @@ Akshit Agarwal
 -[Gautham P Krishnan](https://github.com/gauthampkrishnan)
 -[DeviatorsLegacy](https://github.com/deviatorslegacy)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
+-[Israel Ulloa](https://github.com/iulloa33)
 -[Corey Hamren]
 -[jainik bakshi](https://github.com/jainikbakshi)
 -[arbahhCluhaR]
