@@ -88,6 +88,7 @@ Chaste Akomoize
 [Cassian Kahema](https://github.com/caykay)
 Santosh D J 
 Animesh Kumar
+- [Joel Infeld](https://github.com/joelinfeld)
 Saad Ansari
 Tanuj Sistla
 [Pericles Adjovi](https://github.com/Pericles001)
