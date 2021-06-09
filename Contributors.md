@@ -1,11 +1,12 @@
 # Contributors
+- [Waleed ur Rehman](https://github.com/waleedrehman31) :pakistan:
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Bruce Felix](https://github.com/BruceFelix)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
-- [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
+- [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
 - Matt
 - Jino Rohit
 - Irving Viveros
@@ -40,7 +41,7 @@ daltva
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
 Roger Liu
-[Shubham Malpani] (https://github.com/SHUBH778)
+[Shubham Malpani](https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
@@ -51,16 +52,16 @@ ROHAN KUMAR PANDEY
 [Adnan Shah Muzavor]
 SparkBuster
 Ujjwal Singh just landed here
-[Diksha Nasa] (https://github.com/dikshanasa)
-[Prudhvi raj] (http://github.com/prudhvirajstark/)
-[Harmeet Singh] (https://github.com/harmeetsinghmittu)
+[Diksha Nasa](https://github.com/dikshanasa)
+[Prudhvi raj](http://github.com/prudhvirajstark/)
+[Harmeet Singh](https://github.com/harmeetsinghmittu)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
  - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
 [Harsh Singla](https://github.com/hs2804)
 [Nina Chen](https://github.com/NinaC-boop)
-[Aryan Srivastava] (https://github.com/Aryan-Srivastava)
-- [Rohan-Singh] (https://github.com/rohan-singh987/)
+[Aryan Srivastava](https://github.com/Aryan-Srivastava)
+- [Rohan-Singh](https://github.com/rohan-singh987/)
 Pashyant Srivastava
 kapalli
 phantomglitter
