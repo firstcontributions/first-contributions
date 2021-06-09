@@ -19,7 +19,7 @@
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
-<kbd>[<img title="Galego" alt="Galego" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb-sct.svg" width="22">](translations/README.gl.md)</kbd>
+<kbd>[<img title="Galego" alt="Galego" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1200px-Flag_of_Galicia.svg.png" width="22">](translations/README.gl.md)</kbd>
 <kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">](translations/README.gr.md)</kbd>
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](translations/README.ge.md)</kbd>
 <kbd>[<img title="Magyar" alt="Magyar" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hu.svg" width="22">](translations/README.hu.md)</kbd>
