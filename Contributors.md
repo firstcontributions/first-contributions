@@ -36,6 +36,7 @@
 - [PARVESH KUMAR](https://github.com/Parv3sh)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
+[Harshpreet Kaur](https://github.com/harshpreet0508)
 [Ian Cossentino](https://github.com/cossentino)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 [Kshitij Kadam](https://github.com/KshitijKadam)
