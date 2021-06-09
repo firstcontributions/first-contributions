@@ -84,6 +84,7 @@ Chaste Akomoize
 Santosh D J 
 Animesh Kumar
 Saad Ansari
+Tanuj Sistla
 [Pericles Adjovi](https://github.com/Pericles001)
 Prawal Srivastava (https://github.com/PrawalSrivastava)
 - [Guillaume Langlois](https://github.com/PeluxGit)
