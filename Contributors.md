@@ -6982,6 +6982,7 @@ Yury Smyslov
 - [Halee Pagel](https://github.com/haleepagel)
 - [Rojan Karn](https://github.com/rokarn12)
 - ManjushaTvs
+- kzda
 - [Tosin Aremu](https://github.com/Tohsyne)
 - [Simen Daehlin](https://github.com/Eventyret)
 - [Raul Galindo](https://github.com/raulesgalindo)
