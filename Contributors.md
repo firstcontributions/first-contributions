@@ -28,6 +28,7 @@
 - [Kaustubh Kadam](https://github.com/kaabus)
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
 - [crazyacking](https://github.com/crazyacking)
+- [PARVESH KUMAR](https://github.com/Parv3sh)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
 [Ian Cossentino](https://github.com/cossentino)
