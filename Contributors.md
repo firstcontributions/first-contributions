@@ -12,6 +12,7 @@
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
+- [HMT](https://github.com/HlaingMinThan)
 - Matt
 - Jino Rohit
 - Irving Viveros
