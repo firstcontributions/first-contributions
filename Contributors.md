@@ -11,7 +11,7 @@
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - [Sachin Upadhyay](https://github.com/sachsbu)
-- Matt
+- Matt 
 - Jino Rohit
 - Irving Viveros
 - [Eduardo Rerick](https://github.com/eduardorerick)
