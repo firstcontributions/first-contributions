@@ -2890,6 +2890,7 @@ Aman S
 - Sylints
 - Yukty Khandelia
 - Pranjal bisht
+- [Divyansh Tamrakar](https://github.com/DivyanshTamrakar)
 - [John Boyle](https://github.com/clockworkftw)
 - [Jeffrey Brown](https://github.com/hieronymous-bean)
 - [William Dessert](https://github.com/SaucyGames05)
