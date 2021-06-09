@@ -51,6 +51,7 @@ Joe Fagan 2nd attempt
 [jakejasminjk](https://github.com/jakejasminjk)
 [Moody Omar](https://github.com/moodyomar)
 ROHAN KUMAR PANDEY
+- [Dulya Perera](https://github.com/Dulyaaa)
 [Fatima Tasnim](https://github.com/FatimaTasnim)
 [Adnan Shah Muzavor]
 SparkBuster
