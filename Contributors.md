@@ -167,6 +167,7 @@ Sakshi Bansal
 - [Lucky Makau](https://https://github.com/makaulucky)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
+- [Dinesh kumar k](https://github.com/dineshkumar12004)
 - [Lakshya Chandrakar](https://github.com/Lakshyaaa)
 - [CristianH15]
   [Prashil Ganvir]
