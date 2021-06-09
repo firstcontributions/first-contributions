@@ -8660,6 +8660,7 @@ Yury Smyslov
 - [Cyprian Tingiweh](https://github.com/cypriantingiweh)
 - [Bob Wilson](https://github.com/bwilson753)
 - [collaBasti](https://github.com/collaBasti)
+- [Colin Williams](https://github.com/smailliwniloc)
 - [wmorian](https://github.com/wmorian)
 - [Jordi van Dooren](https://github.com/jordivandooren)
 - [Jeremiah Jacob](https://github.com/j-kon)
