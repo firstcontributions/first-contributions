@@ -10,6 +10,7 @@
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
+- [Sachin Upadhyay](https://github.com/sachsbu)
 - Matt
 - Jino Rohit
 - Irving Viveros
