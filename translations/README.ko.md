@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="이 저장소 포크하기" />
 
-가장 먼저, Git이 없으시다면  [설치](https://help.github.com/articles/set-up-git/)해주세요.
+가장 먼저, Git이 없으시다면  [설치](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)해주세요.
 
 ## 저장소 포크하기
 
