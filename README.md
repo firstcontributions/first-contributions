@@ -75,7 +75,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)
 
 ## Fork this repository
 
