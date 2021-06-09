@@ -46,6 +46,7 @@
 [George Atkinson]
 [Nikhil Agarwal](https://githib.com/nikhil0209)
 Loc Nguyen
+Maze
 Diana LaScala-Gruenewald
 YiCheng Chung
 daltva
