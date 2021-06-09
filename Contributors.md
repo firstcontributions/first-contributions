@@ -588,6 +588,7 @@ elkhechafi zakaria
 -[Allen Chung](https://github.com/allenchung01)
 - [Ane S]
 - [Brunda B R]
+- Alina A.
 - [Alok Paidalwar]
   Vincent
   [Chase Averett] (https://github.com/averettcd/) 
