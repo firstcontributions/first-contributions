@@ -16,7 +16,7 @@
 - Matt
 - Jino Rohit
 - Irving Viveros
-- vkc
+- [Vakho](https://github.com/vkhc)
 - [Eduardo Rerick](https://github.com/eduardorerick)
 - [morleyThomas](https://github.com/morleythomas)
 - [Thomas Gehrmann](https://github.com/thgehr)
