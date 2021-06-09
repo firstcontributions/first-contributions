@@ -18,6 +18,7 @@
 - [Bipin Parajuli](https://github.com/bipinparajuli)
 - [Wendy](https://github.com/zzfn)  
 - [Rahul Kalia](https://github.com/RahulKalia)
+- [Dulya Perera](https://github.com/Dulyaaa)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Mucahit Yildiz](https://github.com/mucyildiz)
 - [Onder Secen](https://github.com/osecen) 
@@ -51,7 +52,6 @@ Joe Fagan 2nd attempt
 [jakejasminjk](https://github.com/jakejasminjk)
 [Moody Omar](https://github.com/moodyomar)
 ROHAN KUMAR PANDEY
-- [Dulya Perera](https://github.com/Dulyaaa)
 [Fatima Tasnim](https://github.com/FatimaTasnim)
 [Adnan Shah Muzavor]
 SparkBuster
