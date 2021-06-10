@@ -1583,6 +1583,7 @@ Aman S
 - [Tharun Nayak](https://github.com/tharunnayak14)
 - [Ryan](https://github.com/ryansun117)
 - [Javailabe](https://github.com/Javailabe)
+- [CSovereignty](https://github.com/csovereignty)
 - [Arthur Le Breton](https://github.com/Psyroo)
 - [Logan O'Donnell](https://github.com/Shyguy380)
 - [jinhee KIM] (https://github.com/post50)
