@@ -81,6 +81,7 @@ Ujjwal Singh just landed here
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 [Ayan Gupta] (https://github.com/Ayan-thecodeking)
 - [Rohan-Singh] (https://github.com/rohan-singh987/)
+[Komi Alasse] (https://github.com/komi-alasse/)
 Pashyant Srivastava
 kapalli
 phantomglitter
