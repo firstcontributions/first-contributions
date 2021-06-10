@@ -9461,7 +9461,7 @@ Yury Smyslov
 - [PepeTheRoya](https://github.com/pepetheroya)
 - [Michael K.](https://github.com/m1c6a3l)
 - [tomoyuch](https://github.com/tomoyuch)
-- [lui1214](https://github.com/lui1214)
+- [Lui](https://github.com/lui1214)
 - [Daniel Hewitson](https://github.com/DHewitson1991)
 - [Anthony Evans](https://github.com/antonedev)
 - [mich](https://github.com/stardust229)
