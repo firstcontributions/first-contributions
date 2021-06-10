@@ -11953,6 +11953,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Tomás Quiñones](https://github.com/ISCybercoreSI)
 - [SeanYancy](https://seanyancy.github.io)
 - [0wv](https://github.com/0wv)
+- Logan
 - [Aden Haussmann](https://github.com/adenhaus)
 - [snate](https://github.com/snate)
 - [Eric Hamers](https://github.com/erichamers)
