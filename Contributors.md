@@ -18,6 +18,7 @@
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
 -[Naimur Rahman](https://github.com/naimprog)
+- Zoran Topic, Zagreb!
 - Matt
 - Gabija
 - Ccode-lang
@@ -11950,6 +11951,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Wayne Haworth](https://github.com/WayneHaworth)
 - [Tomás Quiñones](https://github.com/ISCybercoreSI)
 - [SeanYancy](https://seanyancy.github.io)
+- [Zoran Topic]
 - [0wv](https://github.com/0wv)
 - [Aden Haussmann](https://github.com/adenhaus)
 - [snate](https://github.com/snate)
