@@ -232,6 +232,7 @@ Rahul V (rahulv07)
 - [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
 -[Amisha Aggarwal](https://github.com/amishaagg)
+-[Nikhil Limbad](https://github.com/nikkhil31)
 -[Loukik Bhangale](https://github.com/loukikstudent)
 -[Miszti Janos](https://github.com/misztijanos/first-contributions)
 -[Aarthi Suresh Kumar](https://github.com/ask-1710)
