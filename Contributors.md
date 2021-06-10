@@ -804,6 +804,7 @@ elkhechafi zakaria
 - SH Park
 - anatole9
 - [Luke EJH] (https://github.com/luke-ejh)
+- [Qiming Chen] (https://github.com/qiming-c)
 - [Luke S]   (https://github.com/lbsny)
 - [Cheng Tze Ning] (https://github.com/tzzzening)
 - Woo Hyuk Chang
