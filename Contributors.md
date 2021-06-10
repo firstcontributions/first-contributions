@@ -10291,6 +10291,7 @@ Yury Smyslov
 - [Tino Steinort](https://github.com/tinosteinort)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Tiago Dias](https://github.com/FeltesPT)
+- [Dhruv Shetty](https://github.com/DhruvBShetty)
 - [Chaitanya Pawar](https://github.com/chaitanyanitpawar)
 - [Ritul Jain](https://github.com/Lutir)
 - [Sagar Utekar](https://github.com/Sagar2366)
