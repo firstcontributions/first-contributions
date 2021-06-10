@@ -1725,6 +1725,7 @@ Aman S
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
 - [Shekhar Karna](https://github.com/shekharkarna)
+- [Adwaith Athman](https://github.com/AdwaithAthman)
 - [Julie Michaud](https://github.com/jlmichaud)
 - [SnowWanderer](https://github.com/SnowWanderer)
 - [Matthew Romano](https://github.com/matthewromano5087)
