@@ -7739,6 +7739,7 @@ Yury Smyslov
 - [Joan Antoni RE](https://github.com/jotare)
 - [Ankramoon 🦊️😎️🐺️](https://github.com/Ankramoon)
 - [Igor Kulakov](https://github.com/iiKulakov)
+- [Himesh Samarasekera](https://github.com/DeviousLab)
 - [Richard Theaker](https://github.com/rtheaker)
 - [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
