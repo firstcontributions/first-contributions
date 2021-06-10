@@ -11946,3 +11946,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [0wv](https://github.com/0wv)
 - [Aden Haussmann](https://github.com/adenhaus)
 - [snate](https://github.com/snate)
+- [selgueti](https://github.com/selgueti)
+
