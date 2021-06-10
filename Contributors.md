@@ -134,6 +134,7 @@ Devanshi Mittal
 - [Jiug](https://github.com/jiug)
 - [Abitha]
 - [Reya Wallace](https://github.com/reyaw/)
+- [jothfra](https://github.com/jothfra)
 - [wuwe1](https://github.com/wuwe1)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
