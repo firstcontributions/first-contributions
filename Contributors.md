@@ -99,6 +99,7 @@ Tanuj Sistla
 [Pericles Adjovi](https://github.com/Pericles001)
 Prawal Srivastava (https://github.com/PrawalSrivastava)
 - [Guillaume Langlois](https://github.com/PeluxGit)
+- ran-research-lab
 Devanshi Mittal
 - Abdur Rahman
 -[Ardhendu Reja](Hi sexy)
