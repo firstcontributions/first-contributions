@@ -9404,6 +9404,7 @@ Yury Smyslov
 - [Kherin Bundhoo](https://github.com/kherin)
 - Ahmed Zaki
 - [Cristian Gruescu](https://github.com/stefangruescu)
+- [Marcello Pagano](https://github.com/martchellop)
 - [Zhang heng](https://github.com/msdn129)
 - [Srinath](https://github.com/srinath1412001)
 - [Bill Edwards](https://github.com/AdditionalPylons)
