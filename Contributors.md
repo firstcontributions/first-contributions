@@ -18,7 +18,7 @@
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
-- [HMT](https://github.com/HlaingMinThan)
+- [May Myat Thu](https://github.com/maymyat11)
  -[Naimur Rahman](https://github.com/naimprog)
  -[Tomáš Šmelko](https://github.com/TSmelko)
 -[TSW](https://github.com/ThantSinWin)
