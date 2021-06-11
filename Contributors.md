@@ -32,6 +32,7 @@
 - [Bipin Parajuli](https://github.com/bipinparajuli)
 - [Wendy](https://github.com/zzfn)
 - [Yahaya Yusuf](https://github.com/omoluabidotcom)  
+- [MMMZ](https://github.com/May1485)  
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Dulya Perera](https://github.com/Dulyaaa)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
