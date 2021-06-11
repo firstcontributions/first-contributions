@@ -14,7 +14,6 @@
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Darlene] (https://github.com/D010resHaze)
 - [Bruce Felix](https://github.com/BruceFelix)
-- [Samir Mishra](https://github.com/smir45)
 - [Sis Aung](https://github.com/sisaung)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
@@ -23,6 +22,7 @@
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
+- [Samir Mishra](https://github.com/smir45)
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
