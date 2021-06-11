@@ -10,6 +10,7 @@
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
+- [Nyareh David](https://github.com/NyarehD)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
