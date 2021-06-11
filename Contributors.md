@@ -785,6 +785,7 @@ elkhechafi zakaria
 - [Demonhue] (https://github.com/demonhue)
 - [Ahbleza Bugler] (https://github.com/ab80four)
 - [Drew Bayles] (https://github.com/shakurgds)
+- [Mike Arvene Lantin] (https://github.com/arvene241)
 - Elias Tokola
 - [Dave Velasco](https://github.com/davevelasco)
 - [Shakur](https://github.com/LaraDei)
