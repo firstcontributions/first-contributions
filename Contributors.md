@@ -45,6 +45,7 @@
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
 - [crazyacking](https://github.com/crazyacking)
 - [PARVESH KUMAR](https://github.com/Parv3sh)
+[ÖMER IŞILDAK](https://github.com/omerisildak)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
 [Harshpreet Kaur](https://github.com/harshpreet0508)
