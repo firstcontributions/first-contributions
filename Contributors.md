@@ -67,6 +67,7 @@
 [Eric De La Rosa](https://github.com/eddlr98)
 [George Atkinson]
 [Nikhil Agarwal](https://githib.com/nikhil0209)
+[Chase Skibeness](https://github.com/chase-skibeness)
 Loc Nguyen
 Maze
 Diana LaScala-Gruenewald
