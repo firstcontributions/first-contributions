@@ -2,7 +2,8 @@
 - [NHA](https://github.com/the-nine-creation)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Moon-Seng](https://github.com/Moon-Seng)
-- [utah239](https://github.com/utah239
+- [utah239](https://github.com/utah239)
+- [Abdi Yusuf](https://github.com/abdiYuu)
 - mdm
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw)
 - [Sun Sun Ku](https://github.com/SunSunKu)
