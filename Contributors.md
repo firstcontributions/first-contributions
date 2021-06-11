@@ -12,6 +12,7 @@
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Darlene] (https://github.com/D010resHaze)
 - [Bruce Felix](https://github.com/BruceFelix)
+- [Sis Aung](https://github.com/sisaung)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
