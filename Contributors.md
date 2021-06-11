@@ -25,7 +25,7 @@
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
-- [MNK](https://github.com/min-naing-k)
+- [mnk](https://github.com/min-naing-k)
 - [Naimur Rahman](https://github.com/naimprog)
 - [Tomáš Šmelko](https://github.com/TSmelko)
 - [TSW](https://github.com/ThantSinWin)
