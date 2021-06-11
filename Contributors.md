@@ -3,6 +3,7 @@
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [utah239](https://github.com/utah239
 - mdm
+- [Thiha Tine Zaw](https://github.com/thiha-tine-zaw)
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
