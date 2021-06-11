@@ -295,6 +295,7 @@ Rahul V (rahulv07)
 Akshit Agarwal
 -[Brandon Goldenberg](https://github.com/goldenb12)
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
+-[Surya Dana](https://github.com/surya-doc)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
 -[Pratham Bhagat](https://github.com/bhagatpratham);
 -[Aman Verma](https://github.com/amanopia)
