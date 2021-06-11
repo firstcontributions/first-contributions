@@ -9,6 +9,7 @@
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Bruce Felix](https://github.com/BruceFelix)
+- [Sis Aung](https://github.com/sisaung)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [winsalva](https://github.com/winsalva)
