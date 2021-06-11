@@ -1,5 +1,6 @@
 # Contributors
 - [NHA](https://github.com/the-nine-creation)
+- [Matan](https://github.com/Matan131)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [utah239](https://github.com/utah239)
