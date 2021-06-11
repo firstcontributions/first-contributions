@@ -211,6 +211,7 @@ Sakshi Bansal
 - [Santiago Rhenals](https://github.com/srLitem)
 Rahul V (rahulv07)
 - [lyine](https://github.com/lyineee)
+- [Ryan Thomsen] (https://github.com/ryanthomsen)
 - [Tunji Omogbemile]
 - [Rupali Singh](https://github.com/rupalisingh)
 - [Peter Kampete](https://github.com/PeterKampete)
