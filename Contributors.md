@@ -775,6 +775,7 @@ elkhechafi zakaria
 - [Bor Brudar] (https://github.com/borbrudar)
 - [Azimkhanov Bauyrzhan] (https://github.com/BauyrzhanAzimkhanov)
 - [Tanush Jangid] (https://github.com/Tanush-J)
+- [Abhinav Pathak] (https://github.com/AbhinavXT)
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
 - [Ekaterina Golovanova] (https://github.com/EkaterinaGolovanova)
 - [Xxgzbd](https://github.com/zhongmz)
