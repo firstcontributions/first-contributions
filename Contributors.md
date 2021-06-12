@@ -23,7 +23,8 @@
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
-- [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
+- [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
+- [Anthony Ingle](https://github.com/ingleanthony) 🧑‍💻
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
