@@ -5778,6 +5778,7 @@ Yury Smyslov
 - [Shilpi Maurya](https://github.com/ShilpiMaurya)
 - [Lukasz Pekalski](https://github.com/Lukasz-Pe)
 - [JulioQaMath](https://github.com/JulioQaMath)
+- [MarkoDamjanovic](https://github.com/markodamjanovic25)
 - [Alexandra Ryzhkova](https://github.com/AlexRyzhkova)
 - [Carissa Hicks](https://github.com/carissa406)
 - [Daniel Volosov](https://github.com/danielvolosov)
