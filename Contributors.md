@@ -11,6 +11,7 @@
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw) 
 - [LKM](https://github.com/LawKhunMaine) 
 - [Sun Sun Ku](https://github.com/SunSunKu)
+- [Akshat Singh](https://github.com/akshatrksingh)
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
