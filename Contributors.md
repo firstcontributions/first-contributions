@@ -1844,6 +1844,7 @@ Aman S
 - [Enrico Termine](https://github.com/enricospT)
 - [Richard Ruge](https://github.com/richardruge/first-contributions)
 - [Omazdev](https://github.com/omazdev)
+- [dev3rrant](https://github.com/dev3rrant)
 - [Omar Sarour](https://github.com/LeviaThanSr)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Bryant Juspi](https://github.com/bjuspi)
