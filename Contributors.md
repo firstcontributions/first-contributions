@@ -1,6 +1,7 @@
 # Contributors
 - [NHA](https://github.com/the-nine-creation)
 - [AYN]
+- [NYA]
 - [AA]
 - [FourLineCode](https://github.com/FourLineCode)
 - [Moon-Seng](https://github.com/Moon-Seng)
