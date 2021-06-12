@@ -2855,6 +2855,7 @@ Aman S
 - [Dustin Keyes](https://github.com/iBeEmployed)
 - Harshit Sharma
 - [Mary](https://github.com/mhchow)
+- [DragoSpiro98](https://github.com/DragoSpiro98)
 - [andyjjrt](https://github.com/andyjjrt)
 - [aStateOfLimbo]
 - [Kyler Green](https://github.com/Kiracorp)
