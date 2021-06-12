@@ -29,6 +29,7 @@
 - [TYDS](https://github.com/thinyadanarsu1200)
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
+ -[KMZ](https://github.com/KMZ416)
  -[Tomáš Šmelko](https://github.com/TSmelko)
 -[TSW](https://github.com/ThantSinWin)
 - Matt
