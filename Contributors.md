@@ -144,6 +144,7 @@ Devanshi Mittal
 - [Theena Kumaragurunathan](https://github.com/MiragianCycle)
 - [sandeepkhantwal](https://github.com/sandeepkhantwal)
 - [Yashashchandra Kollu](https://github.com/yashash7) (https://www.yashashchandra.me) 
+- [Miguel Ikomo](https://github.com/Miguelikomo)
 Sakshi Bansal
 - [Sujung Choi] (https://github.com/sujungchoi1)
 - [Aadeshparija](https://github.com/aadesh1214)
