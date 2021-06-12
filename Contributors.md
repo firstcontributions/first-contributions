@@ -1375,6 +1375,7 @@ Berliana
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 - C.W.
 - Sam
+- Japmeet Singh
 - Tarık Coşkun
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
