@@ -11696,6 +11696,7 @@ Marica Marian
 - [Xiang Li](https://github.com/lixiangbetter)
 - [kyu-kim-kr](https://github.com/kyu-kim-kr)
 - [Yysoim](https://github.com/yysoim)
+- [Mahdhi Rezvi](https://github.com/Mahdhir) 
 - [Aldilas](https://github.com/aldeetropolis)
 - [Alexandre Merched](https://github.com/artismyname)
 - [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
