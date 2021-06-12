@@ -11997,6 +11997,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - Logan
 - [Aden Haussmann](https://github.com/adenhaus)
 - [snate](https://github.com/snate)
+- [Harshit Singh](https://github.com/HarshitX1002)
 - [Eric Hamers](https://github.com/erichamers)
 - [Ryan Yancey](https://github.com/ryancey1)
 - [Hareer Sakhi](https://github.com/HareerSakhi)
