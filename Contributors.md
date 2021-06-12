@@ -3327,6 +3327,7 @@ Aman S
 - [Keziah Zhou](https://github.com/kezizhou)
 - [Aakriti Mishra](https://github.com/Aakriti1602)
 - [Mohamed Fadel](https://github.com/abonazem)
+- [Parth Sharma] (https://github.com/parths239)
 - [Gautam kumar](https://github.com/gautam08)
 - [K Nidhi Karanth](https://github.com/knidhikaranth/)
 - [Gustavo Bedasi](https://github.com/GusBedasi)
