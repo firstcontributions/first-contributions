@@ -6218,6 +6218,7 @@ Yury Smyslov
 - [Aminat Yakubu](https://github.com/giselle2323/)
 - [Conor Dalton](https://github.com/daltHub)
 - [Eric T.](https://github.com/ejthomp)
+- [bakhtik](https://github.com/bakhtik)
 - [Gerald Tay](https://github.com/penguinoob)
 - [Vatsal R](https://github.com/Vatsalr23)
 - [Lakshay Yadav](https://github.com/Lucky0108)
