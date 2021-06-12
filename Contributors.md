@@ -10,7 +10,7 @@
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
-- [winsalva](https://github.com/winsalva)
+- [SI](https://github.com/WutHmone)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
