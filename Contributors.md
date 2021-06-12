@@ -15,12 +15,11 @@
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
-- [Sachin Upadhyay](https://github.com/sachsbu)
+- [WHS](https://github./WutHmoneSoe)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
  -[Naimur Rahman](https://github.com/naimprog)
  -[Tomáš Šmelko](https://github.com/TSmelko)
--[TSW](https://github.com/ThantSinWin)
 - Matt
 - Gabija
 - Ccode-lang
