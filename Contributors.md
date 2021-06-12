@@ -1,4 +1,5 @@
 # Contributors
+- [VictorZZZZ](https://github.com/VictorZZZZ)
 - [NHA](https://github.com/the-nine-creation)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Moon-Seng](https://github.com/Moon-Seng)
