@@ -23,6 +23,7 @@
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
+- [Daniel](https://github.com/daniel-bf)
 - [Darlene] (https://github.com/D010resHaze)
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Michael Michael](https://github.com/ntirinigaSr)
