@@ -15,6 +15,7 @@
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Adela Merdzanic](https://github.com/Adelam5)
 - [Akshat Singh](https://github.com/akshatrksingh)
+- [Ekeopre Beredugo](https://github.com/Thebuilderekes)
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
