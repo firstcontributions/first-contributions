@@ -36,6 +36,7 @@
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
 - [TYDS](https://github.com/thinyadanarsu1200)
+- [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
  -[KMZ](https://github.com/KMZ416)
