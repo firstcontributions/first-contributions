@@ -2,6 +2,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [NHA](https://github.com/the-nine-creation)
 - [FourLineCode](https://github.com/FourLineCode)
+- [Prasanna Tandukar](https://github.com/PrasannaTandukar)
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [utah239](https://github.com/utah239)
 - [Abdi Yusuf](https://github.com/abdiYuu)
