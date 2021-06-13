@@ -21,6 +21,7 @@
 - [Ekeopre Beredugo](https://github.com/Thebuilderekes)
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
+- [HJ](https://github.com/hiruthikj) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
