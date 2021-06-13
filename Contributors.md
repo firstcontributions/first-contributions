@@ -199,6 +199,7 @@ Devanshi Mittal
 - [zha](https://github.com/Zwe-HZ)
 - [JHRS]
 - [Wesley Beck](https://github.com/wizbeck21)
+- [Philipp Armingeon](https://github.com/pparmin)
 - [Kartikeya Srivastava ](https://github.com/Kartikeya05S)
 - [Jaykishan Satikuvar]
 - [DakOneil]
