@@ -790,6 +790,7 @@ elkhechafi zakaria
 - [Hyeji Kim](https://github.com/HeidiHyeji)
 - [Gino Burdea](https://github.com/gino192837)
 - [Marble879] (https://github.com/Marble879)
+- [clin] (https://github.com/clin-10)
 - [kphan]
 - [Juan Luis Muñoz Ioannidis] (https://github.com/design3d-blender)
 - [Ashwin Kumar](https://github.com/ashwinexe)
