@@ -115,6 +115,7 @@ kapalli
 mjbeam64
 phantomglitter
 Rushil
+[Himesh Samarasekera](https://github.com/deviouslab)
 [Matthew Opie] (https://github.com/matthew-opie/)
 Pardeep Kumar
 Isha Gupta
