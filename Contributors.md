@@ -1,5 +1,6 @@
 # Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
+- [maeky1986] (https://github.com/maeky1986)
 - [NHA](https://github.com/the-nine-creation)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
