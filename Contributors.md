@@ -12,6 +12,7 @@
 -[MMS](https://github.com/MoeMoeSan)
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw) 
 - [LKM](https://github.com/LawKhunMaine) 
+- [THAE](https://github.com/Thae00) 
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Adela Merdzanic](https://github.com/Adelam5)
 - [Akshat Singh](https://github.com/akshatrksingh)
