@@ -17,12 +17,12 @@
 - [Sis Aung](https://github.com/sisaung)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
+- [Samir Mishra](https://github.com/smir45)
 - [winsalva](https://github.com/winsalva)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
-- [Samir Mishra](https://github.com/smir45)
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
