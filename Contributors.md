@@ -40,6 +40,7 @@
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
+- [Samir Mishra](https://github.com/smir45)
 - [winsalva](https://github.com/winsalva)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
