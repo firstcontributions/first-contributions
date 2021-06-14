@@ -9,6 +9,7 @@
 -mdm
 -[KalidasVijayBhak](https://github.com/KalidasVijaybhak)
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw) 
+- [Hayzr2](https://github.com/hayzr2)
 - [LKM](https://github.com/LawKhunMaine) 
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Akshat Singh](https://github.com/akshatrksingh)
