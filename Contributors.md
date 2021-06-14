@@ -54,6 +54,7 @@
  -[KMZ](https://github.com/KMZ416)
  -[Tomáš Šmelko](https://github.com/TSmelko)
 -[TSW](https://github.com/ThantSinWin)
+-[Yash Chaudhari](https://github.com/Yash-C-330)
 - Matt
 - Gabija
 - Ccode-lang
