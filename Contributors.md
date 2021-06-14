@@ -1,5 +1,6 @@
 # Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
+- [Ksenia](https://github.com/odnaks)
 - [Kozak](https://github.com/kozak325)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
