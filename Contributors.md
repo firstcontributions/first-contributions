@@ -83,6 +83,7 @@
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
 - [crazyacking](https://github.com/crazyacking)
 - [PARVESH KUMAR](https://github.com/Parv3sh)
+- [Alexandro C.W.](https://github.com/alexandrocw)
 [ÖMER IŞILDAK](https://github.com/omerisildak)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
