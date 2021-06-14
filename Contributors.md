@@ -193,6 +193,7 @@ Devanshi Mittal
 - [Victor Manzanilla](https://github.com/VictorManzanilla)
 - [Avnish Jha](https://github.com/avnish100)
 - [Anish De](https://github.com/anishde12020)
+- [Riddhi Athreya](https://github.com/RiddhiAthreya/)
 - [A91y](https://github.com/A91y)
 - [Harshit Srivastava](https://github.com/harshit-srivastava-1608)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
