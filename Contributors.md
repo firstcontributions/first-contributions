@@ -26,6 +26,7 @@
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - [HJ](https://github.com/hiruthikj) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
+- [Hayzr] (https://github.com/hayzr)
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Daniel](https://github.com/daniel-bf)
