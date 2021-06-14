@@ -213,6 +213,7 @@ Devanshi Mittal
 - [Jeong Shin](https://github.com/jshinnn)
 - [Rutwij Patel]
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
+- [Judith Moya](https://github.com/JuddieMoya)
 - [zha](https://github.com/Zwe-HZ)
 - [JHRS]
 - [Wesley Beck](https://github.com/wizbeck21)
