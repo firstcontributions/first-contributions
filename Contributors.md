@@ -4457,6 +4457,7 @@ Jairo Martinez
 - [Gopi](https://github.com/gopipofficial)
 - [Mayur](https://github.com/mayursamnani36)
 - [Madhav Sodhani](https://github.com/madhav2302)
+- [Rolando Toledo](https://github.com/RolandoToledo27)
 - [Ritwik Goel](https://github.com/ritwikgoel)
 - [TheIcySpark](https://github.com/TheIcySpark)
 - [Rob Hill](https://github.com/Rob0128)
