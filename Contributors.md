@@ -658,6 +658,7 @@ elkhechafi zakaria
 - [Ansh Kashyap](https://github.com/anshrk)
 - [Dudu Gvili](https://github.com/dudugvili)
 - [Anna Seriakova] (https://github.com/Arien36)
+- [Nathan Bell] (https://github.com/nathanbell97)
 -	[hmdz](https://github.com/hmdz105)
 - [George Peden](https://github.com/gpeden)
 - [Eric Dahlgren](https://github.com/eriyc)
