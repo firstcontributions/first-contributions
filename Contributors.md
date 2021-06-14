@@ -393,6 +393,7 @@ Akshit Agarwal
 -[Ariel Sehr](https://github.com/arielsehr)
 -[Petrina Troulitaki]
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
+-[Andrian Bitca](https://github.com/BrewMasterMD)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
 -[Aniket kumar](https://github.com/ani1998ket)
