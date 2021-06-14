@@ -21,6 +21,7 @@
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Tolga Acar](https://github.com/TolgaAcar)
 - [Adela Merdzanic](https://github.com/Adelam5)
+- [Thenepaligamer] (https://github.com/thenepaligamer)
 - [Akshat Singh](https://github.com/akshatrksingh)
 - [Ekeopre Beredugo](https://github.com/Thebuilderekes)
 - [Aukse Sireikaite] (https://github.com/auksesir)
