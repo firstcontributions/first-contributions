@@ -26,6 +26,7 @@
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Daniel](https://github.com/daniel-bf)
+- [Amanda](https://github.com/amanda-goncalvess)
 - [Darlene] (https://github.com/D010resHaze)
 - Ak
 - [Bruce Felix](https://github.com/BruceFelix)
