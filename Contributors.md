@@ -11,7 +11,7 @@
 - [utah239](https://github.com/utah239)
 - [Abdi Yusuf](https://github.com/abdiYuu)
 - [HNSY](https://github.com/hninnushweyi)
-- [HYO](https://github.com/hlayaminoo)
+- [TCH](https://github.com/hlayaminoo)
 
 -fc
 -mdm -[KalidasVijayBhak](https://github.com/KalidasVijaybhak) -[MMS](https://github.com/MoeMoeSan)
