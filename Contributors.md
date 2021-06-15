@@ -87,6 +87,7 @@
 - [Olivia Roche](https://github.com/oliviaroche)
 - [Mike Witts](https://github.com/iam-mike)
 - [Kaustubh Kadam](https://github.com/kaabus)
+  [Jeremy Krueger](https://github.com/jrc89)
 - [Edward O'Reilly](https://github.com/ejoreillyiv22)
 - [crazyacking](https://github.com/crazyacking)
 - [PARVESH KUMAR](https://github.com/Parv3sh)
