@@ -103,6 +103,7 @@
 [George Atkinson]
 [Nikhil Agarwal](https://githib.com/nikhil0209)
 [Chase Skibeness](https://github.com/chase-skibeness)
+[Pathum Herath](https://github.com/virtualpathum)
 Loc Nguyen
 Maze
 Diana LaScala-Gruenewald
