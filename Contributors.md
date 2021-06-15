@@ -25,6 +25,7 @@
 - [Adela Merdzanic](https://github.com/Adelam5)
 - [Thenepaligamer] (https://github.com/thenepaligamer)
 - [Muorah, Chisom] (https://github.com/chysomm62)
+- [Gabriel Drutu](https://github.com/realDevDare)
 - [Akshat Singh](https://github.com/akshatrksingh)
 - [Ekeopre Beredugo](https://github.com/Thebuilderekes)
 - [Aukse Sireikaite] (https://github.com/auksesir)
