@@ -156,6 +156,7 @@ Rushil
 Pardeep Kumar
 Isha Gupta
 - [Neto Hog](https://github.com/NotNetohog)
+Achutha Karthikeya
 Vasundhara 
 Prakhar
 - [Rupak Thapa Magar](https://github.com/RUPAAK)
