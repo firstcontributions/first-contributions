@@ -200,6 +200,7 @@ Devanshi Mittal
 - [Owen Strength](https://github.com/owenstrength)
 - [Parth Thakkar](https://github.com/parthishere)
 - [Jiug](https://github.com/jiug)
+- [Tina Haiser](https://github.com/thisteensy)
 - [Abitha]
 - [Reya Wallace](https://github.com/reyaw/)
 - [jothfra](https://github.com/jothfra)
