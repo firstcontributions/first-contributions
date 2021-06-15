@@ -43,6 +43,8 @@
 - [Dylan Dylan](https://github.com/WateryWhale)
 - [Michael Michael](https://github.com/ntirinigaSr)
 - [Sis Aung](https://github.com/sisaung)
+- [Sis Aung](https://github.com/sisaung)
+- [Suraj Bhusal] (https://github.com/subhu27)
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
