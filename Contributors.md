@@ -99,6 +99,7 @@
 - [crazyacking](https://github.com/crazyacking)
 - [PARVESH KUMAR](https://github.com/Parv3sh)
 - [Alexandro C.W.](https://github.com/alexandrocw)
+- [Conner Morton](https://github.com/SeeMorton1)
 [ÖMER IŞILDAK](https://github.com/omerisildak)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
 [Sachin Hegde](https://github.com/sachinhegde328)
