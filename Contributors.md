@@ -4,6 +4,7 @@
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
 - [Luka Piplica](https://github.com/luka2220)
+- [Vikram Jelije](https://github.com/vikramjelije)
 Loc Nguyen
 YiCheng Chung
 Aadiya Agrawal
