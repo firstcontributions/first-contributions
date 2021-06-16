@@ -7829,6 +7829,7 @@ Yury Smyslov
 - [Joe Davis](http://github.com/joethered09)
 - [Anney Park](http://github.com/theprivatepark)
 - [Michael Ababio](https://github.com/miababio)
+- [cruedo](https://github.com/cruedo)
 - [Marcin Lubowicz](https://github.com/Moviss)
 - [JR Cook](https://github.com/Eldorian)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
