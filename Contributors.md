@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
 - [Igor Volchenok](https://github.com/volchenokib/)
@@ -52,7 +52,7 @@
 - [Darlene] (https://github.com/D010resHaze)
 - [Neeber](https://github.com/Neeber)
 - Ak
-- [Bruce Felix](https://github.com/BruceFelix)
+- [Bruce Felix](https://github
 - [Dylan Dylan](https://github.com/WateryWhale)
 - [Michael Michael](https://github.com/ntirinigaSr)
 - [Abdul Majid](https://github.com/majidabdulred)
@@ -453,6 +453,7 @@ Akshit Agarwal
 -[Yash Srivastava](https://github.com/yash312312)
 -[Michael P]
 -[Adam A]
+-[Chris Oates](https://github.com/acloudmovingby)
 -[Alejandro Neri](https://github.com/aleneri97)
 -[Bargaouz Saad](https://github.com/sbrg95)
 -[Smarth Mangla](https://github.com/smarthmangla)
