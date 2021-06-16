@@ -44,6 +44,7 @@
 - [Daniel](https://github.com/daniel-bf)
 - [Amanda](https://github.com/amanda-goncalvess)
 - [Darlene] (https://github.com/D010resHaze)
+- [Neeber](https://github.com/Neeber)
 - Ak
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Dylan Dylan](https://github.com/WateryWhale)
