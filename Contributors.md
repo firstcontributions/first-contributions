@@ -39,7 +39,7 @@
 - [Marble879] (https://github.com/Marble879)
 - [Ashwin Kumar](https://github.com/ashwinexe)
 - [Madhav Sharma](https://github.com/madhavjk)
-- [Vejay Drepaul](https://github.com/VejayDrepaul)
+- [Sai Teja Kavuru](https://github.com/saitejakavuru)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
 - [Vivek Thakur] (https://github.com/vivek6219)
