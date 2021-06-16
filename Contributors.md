@@ -6,6 +6,7 @@
 - [maeky1986] (https://github.com/maeky1986)
 - [NHA](https://github.com/the-nine-creation)
 - [Nathn-G](https://github.com/Nathn-G)
+- [Shoon Lai Oo] (https://github.com/shoonlai14)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
 - [Moon-Seng](https://github.com/Moon-Seng)
