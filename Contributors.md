@@ -27,6 +27,7 @@
 - [Tolga Acar](https://github.com/TolgaAcar)
 - [Adela Merdzanic](https://github.com/Adelam5)
 - [Thenepaligamer] (https://github.com/thenepaligamer)
+- [Elijah Wilcott] (https://github.com/ejw773)
 - [Muorah, Chisom] (https://github.com/chysomm62)
 - [Gabriel Drutu](https://github.com/realDevDare)
 - [Jess C](https://github.com/fanatiicx)
