@@ -51,6 +51,7 @@
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Dylan Dylan](https://github.com/WateryWhale)
 - [Michael Michael](https://github.com/ntirinigaSr)
+- [Abdul Majid](https://github.com/majidabdulred)
 - [Sis Aung](https://github.com/sisaung)
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Gourav Ojha](https://github.com/gouravojha)
