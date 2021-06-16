@@ -79,6 +79,7 @@
 - Ccode-lang
 - Jino Rohit
 - Irving Viveros
+- [Usman Nadeem](https://github.com/usmanyvr)
 - [Eduardo Rerick](https://github.com/eduardorerick)
 - [morleyThomas](https://github.com/morleythomas)
 - [Thomas Gehrmann](https://github.com/thgehr)
