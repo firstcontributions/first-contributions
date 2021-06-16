@@ -8781,6 +8781,7 @@ Yury Smyslov
 - [Yulian Karapetkov](https://github.com/yuliankarapetkov)
 - [Gustavo Maeda](https://github.com/nihil1911)
 - [Amos Mwangi](https://github.com/AmosMwangi)
+- [Clayton Zheng](https://github.com/claytonzheng)
 - [Cyprian Tingiweh](https://github.com/cypriantingiweh)
 - [Bob Wilson](https://github.com/bwilson753)
 - [collaBasti](https://github.com/collaBasti)
