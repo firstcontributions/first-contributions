@@ -7508,6 +7508,7 @@ Yury Smyslov
 - [Jonathan Raxa](https://github.com/jonathanraxa/)
 - [Jordan Miracle](https://github.com/jordanmiracle)
 - [Sophie](https://github.com/sophiawa)
+- [Allan](https://github.com/Allan-1)
 - [NTimothy](https://github.com/ntimothy)
 - [Dhanesh Shetty](https://github.com/DhaneshShetty)
 - [Udit Singhania](https://github.com/udisinghania)
