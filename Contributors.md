@@ -11948,6 +11948,7 @@ P0nC1k
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
 - [Nitish]
+- [Satoshi Shinoda]
 - [Brad Costello](https://github.com/bearcaffeine)
 - [Gayatri Gurram](https://github.com/gayatri05)
 - [AndriyKurdyukov](https://github.com/AndriyKurdyukov)
