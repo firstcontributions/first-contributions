@@ -199,12 +199,12 @@ Devanshi Mittal
 - [Nishant Saxena](https://github.com/phoenixx1)
 - [Shoaib M](https://github.com/shabbs15)
 - [Santhosh](https://github.com/santhoshunt)
-- [Joshua Kasasira](https://github.com/kashua14)
 - [Jason Ni](https://github.com/niyunhuo98)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
 - [Arham Jain](https://github.com/jain-arham-hsr)
 - [CodeMerchant](https://github.com/CodeMerchant)
 - [Nik-hz](https://github.com/nik-hz)
+- [Joshua Kasasira](https://github.com/kashua14)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
