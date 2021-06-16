@@ -54,6 +54,7 @@
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [Samir Mishra](https://github.com/smir45)
+- [Michael W](https://github.com/mwall-dev)
 - [winsalva](https://github.com/winsalva)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
