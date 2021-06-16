@@ -5570,6 +5570,7 @@ Yury Smyslov
 - [shirly lee](https://github.com/Shirly0723)
 - [Edwin Andrew](https://github.com/EdwinAndrew)
 - [Scott Sandman](https://github.com/scottsandman)
+- [Bakdauren Narbayev](https://github.com/bakdaurenNarbayev)
 - Deepak Kumar Narayanan
 - Isabelle Pouget
 - Divya Gaurav
