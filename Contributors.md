@@ -12080,6 +12080,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Tomás Quiñones](https://github.com/ISCybercoreSI)
 - [SeanYancy](https://seanyancy.github.io)
 - [0wv](https://github.com/0wv)
+- [MattAlvero](https://github.com/MattAlvero)
 - Logan
 - [Modified]
 - [Aden Haussmann](https://github.com/adenhaus)
