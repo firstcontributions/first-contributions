@@ -96,6 +96,7 @@
 - Jino Rohit
 - Irving Viveros
 - [Usman Nadeem](https://github.com/usmanyvr)
+- [AnmolKaushik] (https://github.com/anmol-ui)
 - [Eduardo Rerick](https://github.com/eduardorerick)
 - [morleyThomas](https://github.com/morleythomas)
 - [Thomas Gehrmann](https://github.com/thgehr)
