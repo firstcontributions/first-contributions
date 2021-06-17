@@ -204,6 +204,7 @@ Devanshi Mittal
 - [Arham Jain](https://github.com/jain-arham-hsr)
 - [CodeMerchant](https://github.com/CodeMerchant)
 - [Nik-hz](https://github.com/nik-hz)
+- [Joshua Kasasira](https://github.com/kashua14)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
