@@ -9071,6 +9071,7 @@ Yury Smyslov
 - [Anayna Singh](https://github.com/anaynasingh)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
 - Jordan McLeod
+- [Anthony Baldwin] (https://github.com/anthobaldwin)
 - [Kevin C.](https://github.com/Lxr82)
 - [mpatel17](https://github.com/mpatel17)
 - [Kushal Gopal](https://github.com/kushal-gopal)
