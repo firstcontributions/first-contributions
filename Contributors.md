@@ -17,6 +17,7 @@
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [utah239](https://github.com/utah239)
 - [Abdi Yusuf](https://github.com/abdiYuu)
+- [Slartibartfast1](https://github.com/Slartibartfast1)
 - [HNSY](https://github.com/hninnushweyi)
 - [ZMN](https://github.com/ZinMgNyuntt)
 - [TonyADI](https://github.com/TonyADI)
