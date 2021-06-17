@@ -125,6 +125,7 @@
 [Harshpreet Kaur](https://github.com/harshpreet0508)
 [Ian Cossentino](https://github.com/cossentino)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
+[Chris Gantt](https://github.com/ganttArt)
 [Kshitij Kadam](https://github.com/KshitijKadam)
 [Akshat Divya](https://github.com/Akshat42)
 [Ravi Maithrey](https://github.com/ravi-maithrey)
