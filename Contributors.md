@@ -237,6 +237,7 @@ Devanshi Mittal
 - [Shivam Dubey](https://github.com/WebShivam)
 - [Victor Manzanilla](https://github.com/VictorManzanilla)
 - [Avnish Jha](https://github.com/avnish100)
+- [Ritika Kapre](https://github.com/RitikaKapre)
 - [Anish De](https://github.com/anishde12020)
 - [Riddhi Athreya](https://github.com/RiddhiAthreya/)
 - [A91y](https://github.com/A91y)
