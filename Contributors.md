@@ -34,6 +34,7 @@
 - [THAE](https://github.com/Thae00) 
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Tolga Acar](https://github.com/TolgaAcar)
+- [Harry Kynigopoulos](https://github.com/HarryKing87)
 - [Adela Merdzanic](https://github.com/Adelam5)
 - [Thenepaligamer] (https://github.com/thenepaligamer)
 - [Elijah Wilcott] (https://github.com/ejw773)
