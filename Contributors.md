@@ -953,6 +953,7 @@ elkhechafi zakaria
 - [Mohit Sadhwani](https://github.com/m-ohit-s)
 - [Duncan Riedi](https://github.com/duncan374)
 - [Debopriya Dey](https://github.com/debopriyadey)
+- [Zoheb Boga](https://github.com/Zobee/)
 - [Jamalam360] (https://https://github.com/Jamalam360/)
 - [aymanesarrar] (https://https://github.com/aymanesarrar/)
 - [Jesse Wright] (https://github.com/inkslob)
