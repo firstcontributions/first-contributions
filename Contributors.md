@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [gindo](https://github.com/gindoprinansinaga)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
 - [Igor Volchenok](https://github.com/volchenokib/)
