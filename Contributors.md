@@ -144,6 +144,7 @@ Maze
 Diana LaScala-Gruenewald
 pretzel.wav
 YiCheng Chung
+Kevin Lai
 daltva
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
