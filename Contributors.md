@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Benyasca](https://github.com/lbgm2011)
 - [Peter Staker](https://github.com/peterjast)
+- [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
