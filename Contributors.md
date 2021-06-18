@@ -1280,6 +1280,7 @@ Berliana
 - Gabriel Antal
 - N.M.
 - Bern
+- [Hakan](https://github.com/hakanoo)
 - [Peter Ime](https://github.com/PeroHub)
 - Koua Thao
 - [Savio Magalhaes Fernandes] (https://github.com/Oivasmf)
