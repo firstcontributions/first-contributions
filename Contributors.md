@@ -10585,6 +10585,7 @@ Yury Smyslov
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
 - [Niku Letang](https://github.com/nikuletang)
 - [Jesus Villarruel](https://github.com/lucidlactose)
+- [Satyam Kumar](https://github.com/zerothreadsonfire)
 - [Alison Peisker](https://github.com/alisonpeisker)
 - [Sheila](https://github.com/sheila)
 - [Emily Cunningham](https://github.com/elc3)
