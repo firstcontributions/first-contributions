@@ -212,6 +212,7 @@ Devanshi Mittal
 - [Llewelyn Griffiths](https://github.com/NylePudding)
 - [Kiril Angelov](https://github.com/KirilAngelov)
 - [Nishant Saxena](https://github.com/phoenixx1)
+- [Shuvadarshan Bhual](https://github.com/theRangeCoder)
 - [Florence Anipa](https://github.com/flo20)
 - [Shoaib M](https://github.com/shabbs15)
 - [Santhosh](https://github.com/santhoshunt)
