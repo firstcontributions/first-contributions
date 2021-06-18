@@ -11328,6 +11328,7 @@ Yury Smyslov
 - [Jacob Mason ](http://github.com/JacobMason83)
 - [hadi chloun](https://github.com/hadichloun)
 - [Ciantera Rose](http://github.com/ciantera)
+- [Walter G Silver](https://github.com/waltergpc)
 - [Shashank] (https://github.com/wayne-197)
 - [bg117](https://github.com/bg117)
 - [Rizal Widyarta Gowandy](https://github.com/rizalgowandy)
