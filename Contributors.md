@@ -211,6 +211,7 @@ Devanshi Mittal
 - [Llewelyn Griffiths](https://github.com/NylePudding)
 - [Kiril Angelov](https://github.com/KirilAngelov)
 - [Nishant Saxena](https://github.com/phoenixx1)
+- [Florence Anipa](https://github.com/flo20)
 - [Shoaib M](https://github.com/shabbs15)
 - [Santhosh](https://github.com/santhoshunt)
 - [Jason Ni](https://github.com/niyunhuo98)
