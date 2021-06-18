@@ -484,6 +484,7 @@ Akshit Agarwal
 -[Anvesha Karn](https://github.com/anve2000)
 -[Brian Yen](https://https://github.com/RetroFoxx)
 -[SinisaJO](https://github.com/SinisaJO)
+-[pankaj0812](https://github.com/pankaj0812)
 -[Michael M]
 -[Grenadi](https://github.com/grenadi)
 -[Qasim Abdullah](https://github.com/qasimabdullah404)
