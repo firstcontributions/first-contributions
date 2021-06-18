@@ -22,6 +22,7 @@ theerrors
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
+- [Marie Grace Bodur](https://github.com/gracebodur)
 - [Connor Doherty](https://github.com/connord96)
 - [Kavita Vaishnaw](https://github.com/kavita-v)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
