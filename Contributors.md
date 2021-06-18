@@ -204,6 +204,7 @@
 - [Llewelyn Griffiths](https://github.com/NylePudding)
 - [Kiril Angelov](https://github.com/KirilAngelov)
 - [Nishant Saxena](https://github.com/phoenixx1)
+- [Shuvadarshan Bhual](https://github.com/theRangeCoder)
 - [Florence Anipa](https://github.com/flo20)
 - [Shoaib M](https://github.com/shabbs15)
 - [Santhosh](https://github.com/santhoshunt)
@@ -1059,6 +1060,7 @@ elkhechafi zakaria
 - Gabriel Antal
 - N.M.
 - Bern
+- [Hakan](https://github.com/hakanoo)
 - [Peter Ime](https://github.com/PeroHub)
 - Koua Thao
 - [Savio Magalhaes Fernandes] (https://github.com/Oivasmf)
@@ -11912,3 +11914,4 @@ sam_namiranian
 - [Leonardo Benicio](https://github.com)
 - [Arthur Li](https://github.com/arthurlli)
 - [Jorne Saene](https://github.com/jornesaenen)
+
