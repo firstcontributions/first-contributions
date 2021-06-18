@@ -767,6 +767,7 @@ elkhechafi zakaria
 - [Juan Lamilla](https://github.com/JuanesLamilla)
 - [fwang wang] (https://github.com/fwangwang)
 - [abc_new_test]
+- Miguel MI
 - [Eric Shin](https://github.com/lvaka)
 - [Daman Arora](https://github.com/Damans227/)
 - [Olga K](https://github.com/olgak169/)
