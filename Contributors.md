@@ -13,6 +13,7 @@
 - [Nathn-G](https://github.com/Nathn-G)
 - [jamesmontis](https://github.com/jamesmontis)
 - [Shoon Lai Oo] (https://github.com/shoonlai14)
+- [PurpleFlip](https://github.com/PurpleFlip)
 - [NNHO] (https://github.com/NiNiHtweOo)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
