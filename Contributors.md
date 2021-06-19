@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Benyasca](https://github.com/lbgm2011)
+- [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
