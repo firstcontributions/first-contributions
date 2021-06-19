@@ -185,6 +185,7 @@ Rushil
 [Matthew Opie] (https://github.com/matthew-opie/)
 Pardeep Kumar
 Isha Gupta
+White
 - [Neto Hog](https://github.com/NotNetohog)
 Achutha Karthikeya
 Vasundhara 
