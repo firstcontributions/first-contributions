@@ -20,6 +20,7 @@
 - [NNHO] (https://github.com/NiNiHtweOo)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
+- [Shashwat Singh](https://github.com/Shashwat545)
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [utah239](https://github.com/utah239)
 - [Abdi Yusuf](https://github.com/abdiYuu)
