@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Benyasca](https://github.com/lbgm2011)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
@@ -92,9 +92,9 @@
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
- -[KMZ](https://github.com/KMZ416)
- -[Tomáš Šmelko](https://github.com/TSmelko)
--[TSW](https://github.com/ThantSinWin)
+  -[KMZ](https://github.com/KMZ416)
+  -[Tomáš Šmelko](https://github.com/TSmelko)
+ -[TSW](https://github.com/ThantSinWin)
 - Matt
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
@@ -1033,6 +1033,7 @@ elkhechafi zakaria
 - [Javier 'JIO' Ortiz](https://github.com/JIO93)
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
+- Yujing Chen
 - [adameklw](https://github.com/adameklw)
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
 - [Taylor Griffin](https://github.com/Taylor-Griffin)
