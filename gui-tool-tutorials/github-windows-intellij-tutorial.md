@@ -5,7 +5,7 @@
 
 # First Contributions
 
-| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="40"> | IntelliJ IDEA |
+| <img alt="IntelliJ IDEA" src="/first-contributions/gui-tool-tutorials/IntelliJ_IDEA_Logo.svg" width="40"> | IntelliJ IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
