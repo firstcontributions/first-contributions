@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Ayush](https://github.com/ayush7)
 - [Benyasca](https://github.com/lbgm2011)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
