@@ -8,6 +8,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
 - [Igor Volchenok](https://github.com/volchenokib/)
+- [Riad Guliyev](https://github.com/R7G5)
 - [Kozak](https://github.com/kozak325)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
