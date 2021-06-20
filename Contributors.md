@@ -16,7 +16,7 @@
 - [SHA](https://github.com/SwannHtetAungss)
 - [Nathn-G](https://github.com/Nathn-G)
 - [jamesmontis](https://github.com/jamesmontis)
-- [YeMoeAung] (https://github.com/Ye-Moe-Aung)
+- [YMA] (https://github.com/Ye-Moe-Aung)
 - [bandarr](https://github.com/bandarr)
 - [Shoon Lai Oo] (https://github.com/shoonlai14)
 - [PurpleFlip](https://github.com/PurpleFlip)
