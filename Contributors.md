@@ -6350,6 +6350,7 @@ Yury Smyslov
 - Katja
 - Learner
 - [Rafael Bod](https://github.com/RafaelBod)
+- [David Copano](https://github.com/davidcopano)
 - [Kamil Gusowski](https://github.com/gkns1)
 - [Lucas Jeske](https://github.com/pljcgm)
 - [Reza Duha](https://github.com/rezaduha)
