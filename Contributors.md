@@ -159,6 +159,7 @@ daltva
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
 Roger Liu
+[Yash Rana]  (https://github.com/yash-rana23)
 [Shubham Malpani] (https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
