@@ -11929,3 +11929,4 @@ sam_namiranian
 - [Codepink_glitch](https://github.com/codepink_glitch)
 - [Vinay Devadiga](https://github.com/divincode)
 - [Ted Vu](https://tedvu.com)
+- [Abdulhakim Zatar](https://github.com/AbdulhakimZatar)
