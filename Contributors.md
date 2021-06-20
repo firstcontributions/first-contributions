@@ -8,6 +8,7 @@
 - [gindo](https://github.com/gindoprinansinaga)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
+- [Varun Patodia](https://github.com/vrun1208)
 - [Igor Volchenok](https://github.com/volchenokib/)
 - [Riad Guliyev](https://github.com/R7G5)
 - [Kozak](https://github.com/kozak325)
