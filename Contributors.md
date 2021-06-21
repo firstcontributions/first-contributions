@@ -86,6 +86,7 @@
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Gourav Ojha](https://github.com/gouravojha)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
+- [uday kalyan] (https://github.com/coder11235)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [Samir Mishra](https://github.com/smir45)
 - [Michael W](https://github.com/mwall-dev)
