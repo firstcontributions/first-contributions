@@ -3173,6 +3173,7 @@ Aman S
 - [Kritika Berry](https://github.com/kritikaberry)
 - Chaitanya
 - [Shaun Yap](https://github.com/shaun-yap)
+- [Eirkin Dahi] (https://github.com/EirkinDahi)
 - Harshraj shrivastava
 - [Kole Deighan](https://github.com/kdeigs)
 - [WH-2099](https://github.com/WH-2099)
