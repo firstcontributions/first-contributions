@@ -21,6 +21,7 @@
 - [jamesmontis](https://github.com/jamesmontis)
 - [bandarr](https://github.com/bandarr)
 - [Shoon Lai Oo] (https://github.com/shoonlai14)
+- [Natalie Lampa] (https://github.com/nlpa)
 - [YeMoeAung] (https://github.com/Ye-Moe-Aung)
 - [PurpleFlip](https://github.com/PurpleFlip)
 - [floewald](https://github.com/floewald)
