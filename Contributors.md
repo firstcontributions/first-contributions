@@ -3914,6 +3914,7 @@ Aman S
 - [Aishwarya rai](https://github.com/Aishwarya713)
 - kemayakr
 - [Seongoh Ryoo]
+-[Tia Petts](https://github.com/tpetts)
 - Celia
 - [MONISHA MANDAL](https://github.com/monishamandal02)
 - Adarsh Goyal
@@ -12185,4 +12186,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Dom Campese](https://github.com/DomCampese)
 -[Stephen M](https://github.com/manstephen)
 -[Okoye-Nobert C.](https://github.com/Nobert-Ok)
--[Tia Petts](https://github.com/tpetts)
+
