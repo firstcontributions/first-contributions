@@ -1,4 +1,5 @@
 # Contributors
+- Hamed Moghadasi
 - [Ayush](https://github.com/ayush7)
 - [Benyasca](https://github.com/lbgm2011)
 - [Ayush Mishra](https://github.com/im-ayush)
@@ -8360,7 +8361,6 @@ Yury Smyslov
 - [Dominika Malinowska](https://github.com/doma1991)
 - Martin Mwarangu
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
-- [Hamed Moghadasi](https://github.com/HamedMoghadasi)
 - [Liz Burton](https://github.com/lizbur10)
 - [Jordan van Beijnhem](https://github.com/jordanvanbeijnhem)
 - [JonatanBarr](https://github.com/jonybar9)
