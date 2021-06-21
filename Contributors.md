@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ayush](https://github.com/ayush7)
 - [Benyasca](https://github.com/lbgm2011)
 - [Ayush Mishra](https://github.com/im-ayush)
@@ -12,6 +12,7 @@
 - [Igor Volchenok](https://github.com/volchenokib/)
 - [Riad Guliyev](https://github.com/R7G5)
 - [Kozak](https://github.com/kozak325)
+- [Vishal Uchil](https://github.com/vishaluchil)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
 - [NHA](https://github.com/the-nine-creation)
