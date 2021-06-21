@@ -13,6 +13,7 @@
 - [Riad Guliyev](https://github.com/R7G5)
 - [Kozak](https://github.com/kozak325)
 - [Vishal Uchil](https://github.com/vishaluchil)
+- [Kevin Noutsawo](https://github.com/kevnoutsawo)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
 - [NHA](https://github.com/the-nine-creation)
