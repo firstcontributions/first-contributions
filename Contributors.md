@@ -7,6 +7,7 @@
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
+- [Prashant kumar](https://github.com/pksingh128)
 - [Ksenia](https://github.com/odnaks)
 - [Varun Patodia](https://github.com/vrun1208)
 - [Igor Volchenok](https://github.com/volchenokib/)
