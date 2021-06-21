@@ -1,4 +1,5 @@
 # Contributors
+- [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Ayush](https://github.com/ayush7)
 - [Benyasca](https://github.com/lbgm2011)
 - [Ayush Mishra](https://github.com/im-ayush)
