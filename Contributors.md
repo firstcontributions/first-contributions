@@ -1,4 +1,5 @@
 # Contributors
+- [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Ayush](https://github.com/ayush7)
 - [Benyasca](https://github.com/lbgm2011)
