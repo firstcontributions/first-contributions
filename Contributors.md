@@ -7,6 +7,7 @@
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
+- [Lynzie Zhu](https://github.com/lynzie)
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
