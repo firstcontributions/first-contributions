@@ -104,6 +104,7 @@
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [HMT](https://github.com/HlaingMinThan)
+- [Risa] (https://github.com/risamp)
 - [Julian](https://github.com/yet2frag)
 - [TYDS](https://github.com/thinyadanarsu1200)
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
