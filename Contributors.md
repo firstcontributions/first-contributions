@@ -181,11 +181,11 @@ Roger Liu
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
 [jakejasminjk](https://github.com/jakejasminjk)
-Sumit Bisht
 [Moody Omar](https://github.com/moodyomar)
 ROHAN KUMAR PANDEY
 [Fatima Tasnim](https://github.com/FatimaTasnim)
 [Adnan Shah Muzavor]
+Sumit Bisht
 SparkBuster
 Ujjwal Singh just landed here
 [Diksha Nasa] (https://github.com/dikshanasa)
