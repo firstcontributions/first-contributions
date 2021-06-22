@@ -18,6 +18,7 @@
 - [Kozak](https://github.com/kozak325)
 - [Vishal Uchil](https://github.com/vishaluchil)
 - [Kevin Noutsawo](https://github.com/kevnoutsawo)
+- [Akshat Jindal](https://github.com/AkshatJindal1)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
 - [NHA](https://github.com/the-nine-creation)
