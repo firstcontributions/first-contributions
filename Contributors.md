@@ -12,6 +12,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
 - [Ksenia](https://github.com/odnaks)
+- [Anish Kumar](https://github.com/4neesc0des)
 - [Varun Patodia](https://github.com/vrun1208)
 - [Igor Volchenok](https://github.com/volchenokib/)
 - [Riad Guliyev](https://github.com/R7G5)
