@@ -420,6 +420,7 @@ StephDigital
 - [Ralph Louis Gopez](https://github.com/sevora)
 - [SM43](https://github.com/sm43)
 - Gautam
+- Nik Butalid
 - Shrihari Mohan (https://github.com/ShrihariMohan)
 - Vysh kk (https://github.com/Vyshkk)
 - Andres Advincula (https://github.com/an288705)
