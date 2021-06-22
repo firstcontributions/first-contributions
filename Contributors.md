@@ -6111,6 +6111,7 @@ Yury Smyslov
 - Miss Supriya
 - [Laurynas Kirdeika](https://github.com/kirdeika)
 - [Emanuele Bolognesi](https://github.com/LeL94)
+- [Mohamed Farah] (https://github.com/SomMoha)
 - [Roman Preis](https://github.com/RomanPreis)
 - [Michael Scott](https://github.com/m5cott)
 - [Elio Jordan Lopes (devELIOper)](https://www.github.com/lopeselio)
