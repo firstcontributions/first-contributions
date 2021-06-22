@@ -1048,6 +1048,7 @@ elkhechafi zakaria
 - Tiga
 - Matías Thiele
 -Tarun kumar(https://github.com/tarunlunkar)
+- Vinay Patanjali (https://github.com/vinaypatanjali)
 - [ingenious452](https://github.com/ingenious452)
 - Avinash Nair (https://github.com/avinair108)
 - [Tom Evans](https://github.com/tom-evans)
