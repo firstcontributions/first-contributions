@@ -181,6 +181,7 @@ Roger Liu
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
 [jakejasminjk](https://github.com/jakejasminjk)
+Sumit Bisht
 [Moody Omar](https://github.com/moodyomar)
 ROHAN KUMAR PANDEY
 [Fatima Tasnim](https://github.com/FatimaTasnim)
