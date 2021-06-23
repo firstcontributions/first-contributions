@@ -76,6 +76,7 @@
 - [Elijah Wilcott] (https://github.com/ejw773)
 - [Muorah, Chisom] (https://github.com/chysomm62)
 - [Gabriel Drutu](https://github.com/realDevDare)
+- [Cory Gipson](https://github.com/Cory-gip)
 - [Gao Ze](https://github.com/gaoze1998)
 - [Jess C](https://github.com/fanatiicx)
 - [Moawia A] (https://github.com/moawia-dev)
