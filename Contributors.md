@@ -40,6 +40,7 @@
 - [YeMoeAung] (https://github.com/Ye-Moe-Aung)
   [kKhushwaqt] (https://github.com/khushwaqt)
 - [PurpleFlip](https://github.com/PurpleFlip)
+- [Kristen Chase] (https://github.com/kchasepdx)
 - [Sunainacode](https://github.com/Sunainacode)
 - [floewald](https://github.com/floewald)
 - [NNHO] (https://github.com/NiNiHtweOo)
