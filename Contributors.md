@@ -1,7 +1,8 @@
-# Contributors
+# Contributors	
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
+- [Divi2701](https://github.com/Divi2701)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [Ayush](https://github.com/ayush7)
 - [Jayita Pramanik](https://github.com/Jayita10)
