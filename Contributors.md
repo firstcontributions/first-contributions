@@ -28,6 +28,7 @@
 - [Akshat Jindal](https://github.com/AkshatJindal1)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
+- [Saharsh Shukla](https://github.com/shuklasaharsh)
 - [Ralph Fermin](https://github.com/bananabread08)
 - [NHA](https://github.com/the-nine-creation)
 - [SHA](https://github.com/SwannHtetAungss)
