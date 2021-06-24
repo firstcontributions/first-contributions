@@ -98,7 +98,7 @@
 - [Darlene] (https://github.com/D010resHaze)
 - [Neeber](https://github.com/Neeber)
 - Ak
-- r-kf :)
+- [r-kf] (https://github.com/r-kf)
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Dylan Dylan](https://github.com/WateryWhale)
 - [Michael Michael](https://github.com/ntirinigaSr)
