@@ -147,6 +147,7 @@
 - [morleyThomas](https://github.com/morleythomas)
 - [Thomas Gehrmann](https://github.com/thgehr)
 - [Bipin Parajuli](https://github.com/bipinparajuli)
+- [Chathura Perera](https://github.com/chathurperera)
 - [Wendy](https://github.com/zzfn)
 - [Yahaya Yusuf](https://github.com/omoluabidotcom)  
 - [MMMZ](https://github.com/May1485)  
