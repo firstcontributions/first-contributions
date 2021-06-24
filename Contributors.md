@@ -615,6 +615,7 @@ elkhechafi zakaria
 - [Sandeep Maurya](https://github.com/kmsandeep)
 - [Shyam Sundar N R](https://github/Shyam-NR)
 - [Muhamad Hamdanil] (https://github.com/ahadsenja)
+- [Pratick Bhowmick](https://github.com/pratsb13)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Abin P Jacob](https://github.com/abinpj)
 - Prathima Kadari
