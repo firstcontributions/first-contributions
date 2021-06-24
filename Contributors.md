@@ -1,6 +1,7 @@
 	# Contributors
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
+- [Imad UO](https://github.com/imadUO4)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [Ayush](https://github.com/ayush7)
