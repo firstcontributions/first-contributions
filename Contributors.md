@@ -19,6 +19,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
 - [Ksenia](https://github.com/odnaks)
+- [Kathy Bradt](https://github.com/Cygnet717)
 - [Anish Kumar](https://github.com/4neesc0des)
 - [Akash Behara](https://github.com/akashGHOST) 
 - [Varun Patodia](https://github.com/vrun1208)
