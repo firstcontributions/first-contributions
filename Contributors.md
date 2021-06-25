@@ -7518,6 +7518,7 @@ Yury Smyslov
 - [Samarpan Chakravarty](http://github.com/sam308)
 - [Rowan Herbert](https://github.com/RLHerbert)
 - [Elena Tartaglia](https://github.com/eigensong)
+- [Michael-Orzel](https://github.com/michael-orzel)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables](https://github.com/vensaherald)
