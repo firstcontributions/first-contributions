@@ -641,6 +641,7 @@ elkhechafi zakaria
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
 - [Edwin Kodjou](https://github.com/edk21)
+- [Michał Czyż](https://github.com/czyzu1710)
 - [Kyle Abrahams](https://github.com/Kyle-Abrahams)
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [RosyGraph](https://github.com/RosyGraph)
