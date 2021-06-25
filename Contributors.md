@@ -6,6 +6,7 @@
 - [Ayush](https://github.com/ayush7)
 - [Jayita Pramanik](https://github.com/Jayita10)
 - [Benyasca](https://github.com/lbgm2011)
+- [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - [MShahryiar](https://github.com/MShahryiar)
 - [Smallnine9](https://github.com/smallnine9)
 - [Ayush Mishra](https://github.com/im-ayush)
