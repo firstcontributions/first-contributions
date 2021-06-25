@@ -297,6 +297,7 @@ Devanshi Mittal
 - [Sachin Kumar](https://github.com/sachin212)
 - [Shivam Dubey](https://github.com/WebShivam)
 - [Victor Manzanilla](https://github.com/VictorManzanilla)
+- [Mike Sanins](https://github.com/mikes-cpu)
 - [Avnish Jha](https://github.com/avnish100)
 - [Ritika Kapre](https://github.com/RitikaKapre)
 - [Anish De](https://github.com/anishde12020)
