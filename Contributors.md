@@ -11,6 +11,7 @@
 - [Smallnine9](https://github.com/smallnine9)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
+- [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
 - [Lynzie Zhu](https://github.com/lynzie)
 - [Leo Purba](https://github.com/leopurba)
