@@ -1913,6 +1913,7 @@ Aman S
 - [Yosuke Mikasa](https://https://github.com/suke6mix)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Aidan Rauscher](https://github.com/aidanjrauscher)
+- [Osaro Onaiwu](https://github.com/osarodev)
 - [Pranshul Rastogi](https://github.com/pranshulrastogi)
 - [Kenan Alghythee](https://github.com/Kenan-Kamel)
 - [Anjuan Simmons](https://github.com/anjuan)
