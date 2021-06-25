@@ -37,6 +37,7 @@
 - [NHA](https://github.com/the-nine-creation)
 - [SHA](https://github.com/SwannHtetAungss)
 - [Nathn-G](https://github.com/Nathn-G)
+- [Dennise Chavez](https://github.com/dennisechavez)
 - [jamesmontis](https://github.com/jamesmontis)
 - [bandarr](https://github.com/bandarr)
 - [Shoon Lai Oo] (https://github.com/shoonlai14)
