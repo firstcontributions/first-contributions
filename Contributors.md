@@ -3551,3 +3551,4 @@ Yogakshi Jaiman
 - [MorphTail](https://github.com/m0rphtail)
 - [kshida](https://github.com/kshida)
 - [Eric Deering] (https://github.com/Strahlend)
+- [Lindsey Howard] {https://github.com/codelikeagirl29)
