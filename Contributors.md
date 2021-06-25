@@ -924,6 +924,7 @@ elkhechafi zakaria
 - [Ashwin Kumar](https://github.com/ashwinexe)
 - [Madhav Sharma](https://github.com/madhavjk)
 - [Vejay Drepaul](https://github.com/VejayDrepaul)
+- [Mor Cohen] (https://github.com/mor120)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
 - [SavageUnicorn](https://github.com/SavageUnicorn)
