@@ -1,7 +1,7 @@
     # Contributors
 
 - [Vaishnav](https://github.com/vaishnav-sh)
-- [Saif Shaikh](https://github.com/Saif-S)
+- [Saif Shaikh]
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
