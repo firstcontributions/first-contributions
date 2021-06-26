@@ -61,6 +61,7 @@
 -[William Wu] (https://github.com/williamwu062)
 - [FourLineCode](https://github.com/FourLineCode)
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
+- [Jolene Okamoto](https://github.com/joleneokamoto)
 - [Shashwat Singh](https://github.com/Shashwat545)
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [utah239](https://github.com/utah239)
