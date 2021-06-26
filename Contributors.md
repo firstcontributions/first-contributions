@@ -40,6 +40,7 @@
 - [maeky1986] (https://github.com/maeky1986)
 - [Saharsh Shukla](https://github.com/shuklasaharsh)
 - [Ralph Fermin](https://github.com/bananabread08)
+- [Daniel P](https://github.com/Danielson77789)
 - [NHA](https://github.com/the-nine-creation)
 - [SHA](https://github.com/SwannHtetAungss)
 - [Nathn-G](https://github.com/Nathn-G)
