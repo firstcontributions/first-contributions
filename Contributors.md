@@ -1,4 +1,5 @@
 	# Contributors
+- [Vaishnav](https://github.com/vaishnav-sh)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
