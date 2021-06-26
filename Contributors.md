@@ -11,6 +11,7 @@
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - [MShahryiar](https://github.com/MShahryiar)
 - [Smallnine9](https://github.com/smallnine9)
+- [Persia Afrin](https://github.com/persia92)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
 - [Bhawani Shankar](https://github.com/bshankar1729)
