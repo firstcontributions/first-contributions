@@ -51,6 +51,7 @@
 - [YeMoeAung] (https://github.com/Ye-Moe-Aung)
   [kKhushwaqt] (https://github.com/khushwaqt)
 - [PurpleFlip](https://github.com/PurpleFlip)
+- [Reyhan Lama] (https://github.com/reyhanlama)
 - [Kristen Chase] (https://github.com/kchasepdx)
 - [Sunainacode](https://github.com/Sunainacode)
 - [Tony Stark]
