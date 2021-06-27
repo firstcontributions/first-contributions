@@ -22,6 +22,7 @@
 - [Akanksha Rai](https://github.com/akanksharai001)
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
+- [Shikhar Mittal](https://github.com/shikharmittal)
 - [acs237](https://github.com/acs237)
 - [Sai Goud](https://github.com/saigoud25)
 - [Soham Roy](https://github.com/sohamroy19)
