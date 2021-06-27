@@ -774,6 +774,7 @@ elkhechafi zakaria
 - [Steffen](https://github.com/john2020/)
 - [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
 - [Parvesh Barak](https://github.com/parveshbarak)
+- [German Bilalov](https://github.com/unpin)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 - [Dudu Gvili](https://github.com/dudugvili)
