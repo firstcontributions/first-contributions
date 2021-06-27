@@ -19,6 +19,7 @@
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
 - [Lynzie Zhu](https://github.com/lynzie)
+- [Akanksha Rai](https://github.com/akanksharai001)
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
 - [acs237](https://github.com/acs237)
