@@ -4,6 +4,7 @@
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [ThomasRainford](https://github.com/ThomasRainford)
+- [vishwa](https://github.com/vishwan454)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
 - [Jayita Pramanik](https://github.com/Jayita10)
