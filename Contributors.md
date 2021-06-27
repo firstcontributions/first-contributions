@@ -179,6 +179,7 @@ khelafiSifeddine
 - [Onder Secen](https://github.com/osecen) 
 - [Luka Piplica](https://github.com/luka2220)
 - [Olivia Roche](https://github.com/oliviaroche)
+- [Adam Ketata](https://github.com/adamketata)
 - [Mike Witts](https://github.com/iam-mike)
 - [Kaustubh Kadam](https://github.com/kaabus)
   [Jeremy Krueger](https://github.com/jrc89)
