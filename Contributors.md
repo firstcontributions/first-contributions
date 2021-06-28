@@ -11512,6 +11512,7 @@ Daniel Mikes
 - [reidoh](https://github.com/reidoh)
 - [Kyle Smith](https://github.com/sKorpion19091)
 - [Abdulla Jaber]
+- [tugotron](https://github.com/tugotron)
 - [Ayush Sahni](https://github.com/ayushsahnios)
 - [P L]
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
