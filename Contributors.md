@@ -91,7 +91,7 @@
 - [Vaughn1234](https://github.com/Vaughn1234)
 - [Kartikeya Bhatt] (https://github.com/karitkeya-bhatt)
 -Tarun Mishra
-Goddness
+ -[Godness (https://github.com/Godnessy)
 -[KalidasVijayBhak](https://github.com/KalidasVijaybhak)
 -[Muhammed Alaa Kanzari](https://github.com/Muhammed-Alaa-Kanzari)
 -[MMS](https://github.com/MoeMoeSan)
