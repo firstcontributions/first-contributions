@@ -41,6 +41,7 @@
 - [Riad Guliyev](https://github.com/R7G5)
 - [Rahul Dhankhar](https://github.com/dhankhar313)
 - [Kozak](https://github.com/kozak325)
+- [Altynbek](https://github.com/usenbekov)
 - [Vishal Uchil](https://github.com/vishaluchil)
 - [Kevin Noutsawo](https://github.com/kevnoutsawo)
 - [Akshat Jindal](https://github.com/AkshatJindal1)
