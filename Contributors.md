@@ -32,6 +32,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
 - [Ksenia](https://github.com/odnaks)
+- [kalimero](https://github.com/kalimero0073)
 - [Abdulhussain Jarif](https://github.com/Abdulhussainjarif)
 - [Kathy Bradt](https://github.com/Cygnet717)
 - [Anish Kumar](https://github.com/4neesc0des)
