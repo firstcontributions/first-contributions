@@ -3,7 +3,7 @@
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
-- [Simon Malpas] (https://gothub.com/simalpas)
+- [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
 - [ThomasRainford](https://github.com/ThomasRainford)
