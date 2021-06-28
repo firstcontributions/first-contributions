@@ -209,7 +209,7 @@ Loc Nguyen
 Leen Abd Alkhaleq
 Maze
 sandeep
-[Camilo Chaves](https://github.com/camichaves79)
+Camilo Chaves
 Diana LaScala-Gruenewald
 pretzel.wav
 YiCheng Chung
