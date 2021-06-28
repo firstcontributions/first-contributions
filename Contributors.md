@@ -156,6 +156,7 @@ khelafiSifeddine
 - [HMT](https://github.com/HlaingMinThan)
 - [Risa] (https://github.com/risamp)
 - [Julian](https://github.com/yet2frag)
+- [Kunjan Shah](https://github.com/Kunjan-Shah)
 - [TYDS](https://github.com/thinyadanarsu1200)
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
