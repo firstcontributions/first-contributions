@@ -5913,6 +5913,7 @@ Yury Smyslov
 - [Shivam](https://github.com/shivamjain26)
 - [Jitendra Sharma](https://github.com/ji10drasharma)
 - [Samantha Monteiro](https://github.com/samanthakem)
+- [MJLigocki])(https://github.com/MJLigocki)
 - [Jarryd Palzenberger](https://github.com/jayp1)
 - [Mutsa Meda](https://github.com/mutsameda)
 - [Malaika Aiyar](https://github.com/malaikaaiyar)
