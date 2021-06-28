@@ -998,6 +998,7 @@ elkhechafi zakaria
 - [Chang Wei] (https://github.com/ochowei)
 - [Prateek Pradhan](https://github.com/Prateek-2001)
   [Dawum Nam](https://github.com/dawumnam)
+- [CYB3R G0D](https://github.com/CYB3R-G0D) 
 - John John
 - Prithvi
 - Satyam Gupta
