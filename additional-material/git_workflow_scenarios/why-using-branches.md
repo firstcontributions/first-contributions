@@ -51,3 +51,20 @@ git branch -d AnyBranchName
 
 Branch name AnyBranchName will be deleted from the git repository.
 Refer to [Removing branch from your repository](https://github.com/jashnimje/first-contributions/blob/7dcae72208e4b42fcf834b4f189fa8ee78238077/additional-material/git_workflow_scenarios/removing-branch-from-your-repository.md)
+
+## List all branches
+
+```
+git branch
+```
+
+This will list out all the branches that are created in a repository
+
+## Switching branches
+
+```
+git checkout <existing_branch>
+git checkout -b <new_branch>
+```
+
+This will allow us to switch between different branches.
