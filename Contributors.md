@@ -5,6 +5,7 @@
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [ThomasRainford](https://github.com/ThomasRainford)
+- [vishwa](https://github.com/vishwan454)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
 - [Sita Ram Sai] (https://github.com/SitaRamSai)
@@ -23,6 +24,7 @@
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
 - [acs237](https://github.com/acs237)
+- [Sai Goud](https://github.com/saigoud25)
 - [Soham Roy](https://github.com/sohamroy19)
 - [Ketki Chavan](https://github.com/Ketkic09)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
@@ -81,11 +83,25 @@
   -mdm
 - [Vaughn1234](https://github.com/Vaughn1234)
 - [Kartikeya Bhatt] (https://github.com/karitkeya-bhatt)
+<<<<<<< HEAD
   -Tarun Mishra -[KalidasVijayBhak](https://github.com/KalidasVijaybhak) -[Muhammed Alaa Kanzari](https://github.com/Muhammed-Alaa-Kanzari) -[MMS](https://github.com/MoeMoeSan)
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw)
   [Thin Nandar](https://github.com/Thinnandar) -[Julio Camargo] (https://github.com/jcamargoUK)
 - [LKM](https://github.com/LawKhunMaine) -[neerajsharma2000](https://github.com/neerajsharma2000)
 - [THAE](https://github.com/Thae00)
+=======
+-Tarun Mishra
+Goddness
+-[KalidasVijayBhak](https://github.com/KalidasVijaybhak)
+-[Muhammed Alaa Kanzari](https://github.com/Muhammed-Alaa-Kanzari)
+-[MMS](https://github.com/MoeMoeSan)
+- [Thiha Tine Zaw](https://github.com/thiha-tine-zaw) 
+[Thin Nandar](https://github.com/Thinnandar) 
+-[Julio Camargo] (https://github.com/jcamargoUK)
+- [LKM](https://github.com/LawKhunMaine) 
+-[neerajsharma2000](https://github.com/neerajsharma2000)
+- [THAE](https://github.com/Thae00) 
+>>>>>>> ec6c7bbf0b32e63beb4e47fac9fc5044c01ce02d
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Tolga Acar](https://github.com/TolgaAcar)
 - [Harry Kynigopoulos](https://github.com/HarryKing87)
@@ -7559,6 +7575,7 @@ elkhechafi zakaria
 - [brriann](https://github.com/brriann)
 - [Houdaifa Boucenna](https://github.com/Houdaifa360)
 - [Margu86](https://github.com/Margu86)
+- [mefemefe](https://github.com/mefemefe)
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Satvir Sandhu](https://github.com/356Sandhu)
 - [Neissa Dorsinville](https://github.com/neissacodes)
@@ -12025,3 +12042,4 @@ sam_namiranian
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
 - [Richard French](https://github.com/rfrench2)
+-[likeurboss](https://github.com/likeurboss)
