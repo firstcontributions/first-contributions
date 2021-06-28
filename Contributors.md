@@ -23,6 +23,7 @@
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
+- [Albert Dinh] (https://github.com/albert-dinh-01)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
 - [Lynzie Zhu](https://github.com/lynzie)
 - [Akanksha Rai](https://github.com/akanksharai001)
