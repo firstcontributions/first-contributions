@@ -1,6 +1,6 @@
 	# Contributors
 - [Vaishnav](https://github.com/vaishnav-sh)
-- [Anuj Dekavadiya] (https://github.com/anujpatel2809)
+- [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
