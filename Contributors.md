@@ -67,6 +67,7 @@
 - [Reyhan Lama] (https://github.com/reyhanlama)
 - [Kristen Chase] (https://github.com/kchasepdx)
 - [Sunainacode](https://github.com/Sunainacode)
+- [Björn Gummesson](https://github.com/bjornGummesson)
 - [Tony Stark]
 - [floewald](https://github.com/floewald)
 - [NNHO] (https://github.com/NiNiHtweOo)
