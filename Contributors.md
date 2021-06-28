@@ -18,6 +18,7 @@
 - [Persia Afrin](https://github.com/persia92)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Peter Staker](https://github.com/peterjast)
+- [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
