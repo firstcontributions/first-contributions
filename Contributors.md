@@ -1197,6 +1197,7 @@ Berliana
 - [Mohammad Hasan] (https://github.com/Hasankib)
 - [Amritpal singh](https://github.com/Amritpal-001)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
+- [Bin Zhang](https://github.com/Alicebond)
 - [Juan A Roig](https://github.com/JuanARoig)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Alec Campbell](https://github.com/fu4303)
