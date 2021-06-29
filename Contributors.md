@@ -125,6 +125,7 @@ khelafiSifeddine
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Thet Paing Soe] (https://github.com/thetpaing-soe)
 - [Sarah C Page] (https://github.com/sarahcpage)
+- [John Dahl] (https://github.com/johnadahl)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - [HJ](https://github.com/hiruthikj) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
