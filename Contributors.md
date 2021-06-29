@@ -11629,6 +11629,7 @@ Daniel Mikes
 - [naruhodoPotato](https://github.com/naruhodoPotato/)
 - [Hiccstrid2019](https://github.com/Hiccstrid2019)
 - [Carolina Rojas](https://github.com/crojas2)
+- [Theo K Man](https://github.com/kwaiman)
 - [Ranit Barman](https://github.com/LordGrim9987)
 - [Sean Oyler](https://github.com/xrysengit)
 - [Guust Ysebie](https://github.com/guustYsebie)
