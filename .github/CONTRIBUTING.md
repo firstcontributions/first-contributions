@@ -230,6 +230,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/yuzhoujr">yuzhoujr</a>
         </td>
+		<td>
+			<a href="https://github.com/M-Phuykong">Phuykong</a>
+		</td>
         <td>
             <a href="https://github.com/WeiChienHsu">WeiChienHsu</a>
         </td>
