@@ -175,6 +175,7 @@ khelafiSifeddine
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
 - Ccode-lang
+- [eruj22](https://github.com/eruj22)
 - Jino Rohit
 - Irving Viveros
 - [Usman Nadeem](https://github.com/usmanyvr)
