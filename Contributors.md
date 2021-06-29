@@ -554,6 +554,7 @@ Akshit Agarwal
 -[Alankrit](https://github.com/amandeep4272)
 -[Ariel Sehr](https://github.com/arielsehr)
 -[Petrina Troulitaki]
+-[Stoycho Kostov](https://github.com/kostovsk/)
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
