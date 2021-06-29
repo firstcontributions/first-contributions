@@ -3,6 +3,7 @@
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
+- [Atalay Özmen] (https://github.com/atalayozmen)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
@@ -12299,3 +12300,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 -[likeurboss](https://github.com/likeurboss)
 - [Enda Crossan](https://github.com/endacrossan/)
 - [Luke Paner](https://github.com/lukelucas1794)
+
