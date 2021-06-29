@@ -20,6 +20,7 @@
 - [Smallnine9](https://github.com/smallnine9)
 - [Persia Afrin](https://github.com/persia92)
 - [Ayush Mishra](https://github.com/im-ayush)
+-[Tripti Nayak](https://github.com/trip19)
 - [Peter Staker](https://github.com/peterjast)
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
