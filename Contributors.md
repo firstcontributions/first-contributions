@@ -1,4 +1,5 @@
 	# Contributors
+- [Jamar Palmer](https://github.com/jamar-palmer)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
