@@ -8657,6 +8657,7 @@ Yury Smyslov
 - [Priyanka Kariya](https://github.com/tishakariya)
 - [Araminta Robertson](https://github.com/minta98)
 - [Summerok](https://github.com/Summerok)
+- [Ruben Movsesyan] (https://github.com/RubenMovsesyan)
 - [Ren Tanola](https://github.com/RenanEtAl)
 - [vskwirblies](https://github.com/vskwirblies)
 - [Andrew Heilman](https://github.com/heilmanandrew)
