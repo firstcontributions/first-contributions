@@ -4361,6 +4361,7 @@ Aman S
 - [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
 - [Anurag Singh](https://github.com/singhanurag05)
 - [Rathin R](https://github.com/meliodas-123)
+- [Shai Yomtov](https://github.com/shaiy)
 - [Richa](https://github.com/richa1200)
 - [Aanchal](https://github.com/aanchal-fatwani)
 - [Kanishka Vijayvargiya](https://github.com/kanishka8276)
