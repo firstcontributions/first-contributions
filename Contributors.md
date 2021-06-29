@@ -4,7 +4,9 @@
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
+- [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
+- [Abhishek Salunke ] (https://github.com/abhi3054) 
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
 - [Ashutosh](https://github.com/CET23)
@@ -23,6 +25,7 @@
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
+- [Albert Dinh] (https://github.com/albert-dinh-01)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
 - [Lynzie Zhu](https://github.com/lynzie)
 - [Akanksha Rai](https://github.com/akanksharai001)
@@ -122,6 +125,7 @@
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Thet Paing Soe] (https://github.com/thetpaing-soe)
 - [Sarah C Page] (https://github.com/sarahcpage)
+- [John Dahl] (https://github.com/johnadahl)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
 - [HJ](https://github.com/hiruthikj) 🇮🇳
 - 🇪🇬 🌴 [Mustafa K. Waly 💪](https://github.com/Mustafa-Kamel) 💻
@@ -975,6 +979,7 @@ elkhechafi zakaria
 - [Mohammad Hasan] (https://github.com/Hasankib)
 - [Amritpal singh](https://github.com/Amritpal-001)
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
+- [Bin Zhang](https://github.com/Alicebond)
 - [Juan A Roig](https://github.com/JuanARoig)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Alec Campbell](https://github.com/fu4303)
@@ -1100,6 +1105,7 @@ elkhechafi zakaria
 - [Emil Bratt](https://github.com/emilbratt)
 - [Varun Sharma](https://github.com/varun325)
 - Clay Lanzino
+- [Mohamed Moustafa](https://github.com/MohamedMoustafaNUIG)
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - [Stephen Ricketts](https://github.com/StephenRicketts)
 - Raymond Smith
@@ -11284,6 +11290,7 @@ elkhechafi zakaria
 - [reidoh](https://github.com/reidoh)
 - [Kyle Smith](https://github.com/sKorpion19091)
 - [Abdulla Jaber]
+- [tugotron](https://github.com/tugotron)
 - [Ayush Sahni](https://github.com/ayushsahnios)
 - [P L]
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
