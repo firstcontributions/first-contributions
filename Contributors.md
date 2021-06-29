@@ -1,4 +1,5 @@
 	# Contributors
+- [Marcos Vinicius](https://github.com/marcos-inja)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
