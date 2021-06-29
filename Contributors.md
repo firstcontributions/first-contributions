@@ -393,6 +393,7 @@ Sakshi Bansal
 - [Santiago Rhenals](https://github.com/srLitem)
 Rahul V (rahulv07)
 - [lyine](https://github.com/lyineee)
+- [Jalaj Sahai](https://github.com/jalaj900)
 - [Ryan Thomsen] (https://github.com/ryanthomsen)
 - [Tunji Omogbemile]
 - [Rupali Singh](https://github.com/rupalisingh)
