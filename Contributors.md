@@ -1254,6 +1254,7 @@ Berliana
 - [Kunal Vaidya](https://github.com/Ikunalv)
 - [KRISHANU DUTTA](https://github.com/krishanu2911)
 - [Rupak K V](https://github.com/Rupak1432)
+- [Sultan Malik](https://github.com/sultanmalik04)
 - [Raihan Mahendra Sutanto](https://github.com/raihanmhndr)
 - [Siyu Bian](https://github.com/bsyben)
 - [Apratim Ranjan Chakrabarty](https://github.com/Hackhard)
