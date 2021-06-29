@@ -51,6 +51,7 @@
 - [Anish Kumar](https://github.com/4neesc0des)
 - [Akash Behara](https://github.com/akashGHOST) 
 - [Swetha Lakshme S](https://github.com/SwethaLakshme)
+  [Tim Krash](https://github.com/TimKrash)
 - [Varun Patodia](https://github.com/vrun1208)
 - [Igor Volchenok](https://github.com/volchenokib/)
 - [Riad Guliyev](https://github.com/R7G5)
