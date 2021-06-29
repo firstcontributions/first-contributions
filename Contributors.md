@@ -9,6 +9,7 @@
 - [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
+- [Salim Hertelli] (https://github.com/salim-hertelli)
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
