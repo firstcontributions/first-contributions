@@ -12296,9 +12296,11 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Goljoa](https://github.com/goljoa)
 - [Ibrahim Arshad](https://github.com/ibrahim1023)
 - [James Njoroge] (https://github.com/Mwithiga)
+- [Pavitra Mehra]
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
 - [Richard French](https://github.com/rfrench2)
 -[likeurboss](https://github.com/likeurboss)
 - [Enda Crossan](https://github.com/endacrossan/)
 - [Luke Paner](https://github.com/lukelucas1794)
+- 
