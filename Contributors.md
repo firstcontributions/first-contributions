@@ -6912,6 +6912,7 @@ Yury Smyslov
 - [Rafael Adão](https://github.com/RafaelAdao)
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
+- [Placide Rigole FOLEU](https://github.com/rigole)
 - [Dani El-Ayyass](https://github.com/dayyass)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - Yavis Yuan
@@ -12319,3 +12320,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Lakshmi Juneja](https://github.com/lcjuneja)
 - [HAJJI Abderrahmane](https://github.com/HAJJI-Abderrahmane)
 - [John Ronzo](https://github.com/jronzo99)
+
