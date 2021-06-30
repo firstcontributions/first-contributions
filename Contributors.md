@@ -53,6 +53,7 @@
 - [kalimero](https://github.com/kalimero0073)
 - [Abdulhussain Jarif](https://github.com/Abdulhussainjarif)
 - [Kathy Bradt](https://github.com/Cygnet717)
+- [Gopi](https://github.com/gopi231091)
 - [Anish Kumar](https://github.com/4neesc0des)
 - [Akash Behara](https://github.com/akashGHOST) 
 - [Swetha Lakshme S](https://github.com/SwethaLakshme)
