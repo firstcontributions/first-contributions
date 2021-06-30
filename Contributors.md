@@ -7168,6 +7168,7 @@ Yury Smyslov
 - [Pratik Kulkarni](https://github.com/praaatik)
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
+-[Zachee Ishimwe](https://github.com/ishimwezachee)
 - [Damien Aries](https://github.com/damienaries)
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
