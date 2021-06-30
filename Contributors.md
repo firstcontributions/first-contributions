@@ -150,6 +150,7 @@ khelafiSifeddine
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
 - [Daniel](https://github.com/daniel-bf)
+Achal Mukaty
 - [wastech](https://github.com/wastech)
 - [Amanda](https://github.com/amanda-goncalvess)
 - [Darlene] (https://github.com/D010resHaze)
