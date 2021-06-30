@@ -46,6 +46,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
 - [Ksenia](https://github.com/odnaks)
+- [Lorenzo Colombo](https://github.com/L3llo)
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
 - [kalimero](https://github.com/kalimero0073)
 - [Abdulhussain Jarif](https://github.com/Abdulhussainjarif)
