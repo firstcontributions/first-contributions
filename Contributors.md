@@ -3,6 +3,7 @@
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
+- [Iksnize]
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Vikas Baghel](https://github.com/vikas-baghel)
