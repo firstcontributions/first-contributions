@@ -11,6 +11,8 @@
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
 - [Ashutosh](https://github.com/CET23)
+- [Aranya]
+
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
 - [Paurav Shah](https://github.com/paurav11)
@@ -228,6 +230,7 @@ Loc Nguyen
 Leen Abd Alkhaleq
 Hemachandar
 Maze
+Aranya
 sandeep
 Camilo Chaves
 Diana LaScala-Gruenewald
