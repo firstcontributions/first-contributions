@@ -32,6 +32,7 @@
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
+- [Sasmitha Manathunga](https://github.com/mmz-001)
 - [Albert Dinh] (https://github.com/albert-dinh-01)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
 - [Lynzie Zhu](https://github.com/lynzie)
