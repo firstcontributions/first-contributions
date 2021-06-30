@@ -6,6 +6,7 @@
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Vikas Baghel](https://github.com/vikas-baghel)
+- [Srinu Rachakonda](https://github.com/Srinu126)
 - [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
