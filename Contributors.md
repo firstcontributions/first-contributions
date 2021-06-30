@@ -2,6 +2,7 @@
 - [Maria Bardon](https://github.com/mariabardon)
 - Hafed omar 
 - [meet0806](https://github.com/meet0806)
+- [Aldo Bangun](https://github.com/aldobangun)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Niall Stapleton](https://github.com/nstapleton1)
 - [Gulshan Aggarwal](https://github.com/Gulshanaggarwal)
