@@ -20,6 +20,7 @@ Pashyant Srivastava
 - [Edward S]
 - [kuluruvineeth](https://github.com/kuluruvineeth)
 Sakshi Bansal
+- [Phaneendra](https://github.com/Phani-22)
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [CristianH15]
