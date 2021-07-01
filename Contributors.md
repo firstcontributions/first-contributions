@@ -540,6 +540,7 @@ Akshit Agarwal
 -[Corey Hamren]
 -[jainik bakshi](https://github.com/jainikbakshi)
 -[arbahhCluhaR]
+-[SarahLoutrel](https://github.com/sloutrel)
 -[Marshall Nyasha Chikari](https://github.com/gitnyasha)
 -[Amit Kumar Singh](https://github.com/amit-singh1)
 -[Maher Gzam](https://github.com/mgzam)
