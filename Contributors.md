@@ -1,6 +1,7 @@
 	# Contributors
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Marcos Vinicius](https://github.com/marcos-inja)
+- [Ben Berry-Allwood](https://github.com/benberryallwood)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Billy Magarali](https://github.com/BillyMagarali)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
