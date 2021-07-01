@@ -70,6 +70,7 @@
 - [Nikhil Sathisha](https://github.com/NikhilSathisha)
 - [Rahul Dhankhar](https://github.com/dhankhar313)
 - [Kozak](https://github.com/kozak325)
+- [Vansh Sharma](https://github.com/VanshSh)
 - [Altynbek](https://github.com/usenbekov)
 - [Vishal Uchil](https://github.com/vishaluchil)
 - [Kevin Noutsawo](https://github.com/kevnoutsawo)
