@@ -4,6 +4,7 @@
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Iksnize]
+- [Mika S.](https://github.com/MikaStrait)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
