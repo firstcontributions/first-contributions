@@ -57,6 +57,7 @@
 - [Ketki Chavan](https://github.com/Ketkic09)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
+- [Shubham Mishra](https://github.com/turtlevelocity)
 - [Ksenia](https://github.com/odnaks)
 - [Lorenzo Colombo](https://github.com/L3llo)
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
