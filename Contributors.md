@@ -12353,4 +12353,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Jorge Agoiz Pedraja] (https://github.com/jorgeAgoiz)
 - [Rodrigo Pova](https://github.com/rodrigo-pova)
 - [bkmak](https://github.com/bkmak)
-- [windy](https://github.com/zfwang95)
+- [windy](https://github.com/zfwang95
+- [michael](https://github.com/Reborn-hash)
