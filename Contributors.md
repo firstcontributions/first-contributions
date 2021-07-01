@@ -26,6 +26,7 @@
 - [Benyasca](https://github.com/lbgm2011)
 - [djamel-djame](https://github.com/djamel-djame)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
+- [Fran Bejarano](https://github.com/FranBejarano)
 - [MShahryiar](https://github.com/MShahryiar)
 - [Camilo Chaves](https://github.com/camichaves79)
 - [Houcemeddine Ben Ayed] (https://github.com/HoucemeddineBenAyed)
