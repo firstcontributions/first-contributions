@@ -595,6 +595,7 @@ Akshit Agarwal
 -[Liam Beaudoin](https://github.com/Greazzzy)
 -[Xu Wenrui](https://github.com/loser-man)
 -[Keshava Rao](https://github.com/k3shav17)
+-[Jewel Nath](https://github.com/devjewel01)
 -[Ethan Hull](https://github.com/hullep)
 -[AKehn]
 -[Christian Garcia]
