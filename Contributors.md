@@ -21,6 +21,7 @@
 - [Ayush](https://github.com/ayush7)
 - [Paurav Shah](https://github.com/paurav11)
 - [Jayita Pramanik](https://github.com/Jayita10)
+- [Jayant Ahluwalia](https://github.com/jayantAhluwalia)
 - [Benyasca](https://github.com/lbgm2011)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - [MShahryiar](https://github.com/MShahryiar)
