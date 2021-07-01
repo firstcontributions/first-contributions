@@ -69,7 +69,7 @@
 - [Vishal Uchil](https://github.com/vishaluchil)
 - [Kevin Noutsawo](https://github.com/kevnoutsawo)
 - [Akshat Jindal](https://github.com/AkshatJindal1)
-- [Denys Pyshniuk](https://github.com/DenysPyshniuk)
+- [Denys](https://github.com/DenysPyshniuk)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
 - [Saharsh Shukla](https://github.com/shuklasaharsh)
