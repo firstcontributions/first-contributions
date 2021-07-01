@@ -101,6 +101,7 @@
 - [Jolene Okamoto](https://github.com/joleneokamoto)
 - [Shashwat Singh](https://github.com/Shashwat545)
 - [Moon-Seng](https://github.com/Moon-Seng)
+- [Omkar Joshi](https://github.com/joshi-omkar)
 - [utah239](https://github.com/utah239)
 - [Abdi Yusuf](https://github.com/abdiYuu)
 - [Mohd Imran](https://github.com/stark255)
