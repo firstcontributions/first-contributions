@@ -7773,6 +7773,7 @@ Yury Smyslov
 - [Kevin Ruibin Do](https://github.com/kevdo475)
 - [Shubham Saha](https://github.com/Helinskii)
 - [Ben](https://github.com/ChecksumFailed)
+- [Yefeshin Max](https://github.com/magistblr)
 - [Vladimir Beliakov](https://github.com/VladimirBeliakov)
 - [Erik Hsu](https://github.com/erikhsu)
 - [Ankit Arya](https://github.com/Ankit714)
