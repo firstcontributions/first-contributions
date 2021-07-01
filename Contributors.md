@@ -17,6 +17,7 @@
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
+- [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
 - [Ashutosh](https://github.com/CET23)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
