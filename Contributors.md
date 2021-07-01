@@ -6,6 +6,7 @@
 - [Iksnize]
 - [Mika S.](https://github.com/MikaStrait)
 - [Amanda Nikrant](https://github.com/ajnikrant)
+- [Anthony Z](https://github.com/Antzed)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Vikas Baghel](https://github.com/vikas-baghel)
@@ -190,9 +191,9 @@ Achal Mukaty
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
- -[KMZ](https://github.com/KMZ416)
- -[Tomáš Šmelko](https://github.com/TSmelko)
--[TSW](https://github.com/ThantSinWin)
+  -[KMZ](https://github.com/KMZ416)
+  -[Tomáš Šmelko](https://github.com/TSmelko)
+ -[TSW](https://github.com/ThantSinWin)
 - Matt
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
