@@ -6606,6 +6606,7 @@ Yury Smyslov
 - Sarah Tyler
 - [Aichi Chang](https://github.com/aichi-chang)
 - [Khabiir Khan](https://github.com/khabiirk)
+- John Doe
 - John E
 - Alex Borrelli
 - adi satrio wibowo
