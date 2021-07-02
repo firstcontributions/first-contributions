@@ -14,7 +14,7 @@
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Srinu Rachakonda](https://github.com/Srinu126)
-- [Kartikay Dhingra](https://github.com/KartikayDhingra)
+- [Myo Myat Min](https://github.com/MyoMyatMin)
 - [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
