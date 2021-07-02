@@ -11,6 +11,7 @@
 [YP](https://github.com/yoonpyaepyaenyein)
 - [Iksnize]
 - [Mika S.](https://github.com/MikaStrait)
+- [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
