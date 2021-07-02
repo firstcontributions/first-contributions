@@ -1,5 +1,6 @@
 	# Contributors
 - [Jamar Palmer](https://github.com/jamar-palmer)
+- [Eric Neves](https://github.com/ericneves)
 - [Daniel Grieco](https://github.com/night-owl-official)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
