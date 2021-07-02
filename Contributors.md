@@ -8507,6 +8507,7 @@ Yury Smyslov
 - [Jordan van Beijnhem](https://github.com/jordanvanbeijnhem)
 - [JonatanBarr](https://github.com/jonybar9)
 - [Vidit Jain](https://github.com/viditjain5598)
+- Sargis Abrahamyan
 - [Alejandro Gonzalez](https://github.com/thehumanlegion)
 - [Ben Langlois](https://github.com/BenLanglois)
 - [Nathan Huh](https://github.com/AmberLlama81)
