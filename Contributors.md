@@ -3740,6 +3740,7 @@ Aman S
 - [Jorge Reyes Vargas](https://github.com/jarvars)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Michela Leuzzi](https://github.com/Hutcheeran)
+  [Anthony Palumbo](https://github.com/ap82-projects)
 - [Amit Samanta](https://github.com/amitsamanta2307)
 - [Kyara van Putten](https://github.com/Kiralinn)
 - [Manvi Goel](https://github.com/ManviGoel26)
