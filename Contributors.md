@@ -1,6 +1,7 @@
 	# Contributors
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
+- [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Eric Neves](https://github.com/ericneves)
 - [Daniel Grieco](https://github.com/night-owl-official)
 - [Marcos Vinicius](https://github.com/marcos-inja)
