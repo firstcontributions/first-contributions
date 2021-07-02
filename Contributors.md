@@ -27,6 +27,7 @@
 - [vishwa](https://github.com/vishwan454)
 - [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
 - [Ashutosh](https://github.com/CET23)
+- [Avinash M](https://github.com/avinash3699)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
 - [Paurav Shah](https://github.com/paurav11)
