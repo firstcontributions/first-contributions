@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="64" src="https://img.icons8.com/office/160/000000/slack.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Primeiras Contribuições
 
-| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="40"> | IntelliJ IDEA |
+| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" width="40"> | IntelliJ IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -20,7 +20,7 @@ Se você ainda não tem o IntelliJ IDEA no seu computador, [instale-o](https://w
 
 ## Faça o Fork deste repositório 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/assets/fork.png" alt="fork this repository" />
+<img align="right" width="64" src="https://img.icons8.com/doodle/80/000000/code-fork.png" alt="fork this repository" />
 
 Fork este repo clicando no botão fork(bifurcar) no canto superior direito desta página. Isso criará uma cópia deste repositório em sua conta do GitHub.
  
@@ -30,7 +30,7 @@ Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são Fork
 
 ## Clone seu Repositório 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/assets/clone.png" alt="clone this repository" />
+<img align="right" width="64" src="https://img.icons8.com/nolan/100/git.png" alt="clone this repository" />
 
 O próximo passo será clonar seu repo em sua máquina para que você possa modificá-lo. O IntelliJ IDEA precisa da URL do seu repo, portanto clique no botão "clone" e então clique no ícone "copy to clipboard".
  
@@ -94,11 +94,11 @@ Neste ponto, você concluiu a alteração, mas ela ainda está apenas no seu rep
 Em seu repo no GitHub, você verá o botão `Compare & pull request` ao lado da notificação do novo branch, clique nesse botão.
 
 
-<img src="https://firstcontributions.github.io/assets/Readme/assets/compare-and-pull.png" alt="create a pull request" />
+<img src="https://img.icons8.com/office/80/000000/pull-request.png" alt="create a pull request" />
 
 Agora submeta o pull request. 
 
-<img src="https://firstcontributions.github.io/assets/Readme/assets/submit-pull-request.png" alt="submit pull request" />
+<img src="https://img.icons8.com/fluent/48/000000/submit-for-approval.png" alt="submit pull request" />
 
 Em breve estarei mesclando todas as suas alterações no branch master deste projeto. Você receberá um e-mail de notificação assim que as alterações forem integradas.
 
