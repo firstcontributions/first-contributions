@@ -28,7 +28,7 @@
 - [Jayita Pramanik](https://github.com/Jayita10)
 - [Benyasca](https://github.com/lbgm2011)
 - [djamel-djame](https://github.com/djamel-djame)
-- [supreet-kurdekar](https://github.com/SupreetKurdekar)
+- [MMM](https://github.com/MyoMyatMin)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - [Fran Bejarano](https://github.com/FranBejarano)
 - [MShahryiar](https://github.com/MShahryiar)
