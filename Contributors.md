@@ -7457,6 +7457,7 @@ Yury Smyslov
 - [BARD](https://github.com/Bard2803)
 - [Neel Shah](https://github.com/ineelshah)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
+- [Deepesh Kalahasti](https://github.com/Deepesh368)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Patrick Wheeler](https://github.com/vader-coder)
 - [Karsten Aichholz](https://github.com/karsten-aichholz)
