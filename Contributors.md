@@ -11,7 +11,7 @@
 - [Mika S.](https://github.com/MikaStrait)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
-- [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
+- [MMM](https://github.com/MyoMyatMin)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Srinu Rachakonda](https://github.com/Srinu126)
 - [Simon Malpas] (https://github.com/simalpas)
