@@ -186,6 +186,7 @@ Achal Mukaty
 - [Samir Mishra](https://github.com/smir45)
 - [Michael W](https://github.com/mwall-dev)
 - [winsalva](https://github.com/winsalva)
+- [Alex Gulikers](https://github.com/yayorbitgum)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
