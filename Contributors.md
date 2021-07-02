@@ -12,12 +12,12 @@
 - [Billy Magarali](https://github.com/BillyMagarali)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 [YP](https://github.com/yoonpyaepyaenyein)
-- [Iksnize]
+- [MMM](https://github.com/MyoMyatMin)
 - [Mika S.](https://github.com/MikaStrait)
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
-- [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
+
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Srinu Rachakonda](https://github.com/Srinu126)
 - [Myo Myat Min](https://github.com/MyoMyatMin)
