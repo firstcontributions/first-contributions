@@ -17,7 +17,7 @@
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
-
+- [Ayla Ex](https://github.com/aexcode)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Srinu Rachakonda](https://github.com/Srinu126)
 - [Myo Myat Min](https://github.com/MyoMyatMin)
