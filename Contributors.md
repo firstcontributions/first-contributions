@@ -10,6 +10,7 @@
 -   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
+- [Joel Aviles](https://github.com/Appithe)
 - [Billy Magarali](https://github.com/BillyMagarali)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 [YP](https://github.com/yoonpyaepyaenyein)
