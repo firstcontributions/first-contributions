@@ -1,4 +1,5 @@
 	# Contributors
+- [Akromatikus](https://github.com/akromatikus)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
