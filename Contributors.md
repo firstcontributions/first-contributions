@@ -72,6 +72,7 @@
 - [acs237](https://github.com/acs237)
 - [Moonsung](https://github.com/MoonsungJeong)
 - [Sai Goud](https://github.com/saigoud25)
+- [Yash Yenugu](https://github.com/yashyenugu)
 - [Soham Roy](https://github.com/sohamroy19)
 - [Ketki Chavan](https://github.com/Ketkic09)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
