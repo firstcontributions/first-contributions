@@ -76,6 +76,7 @@
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
 - [Shubham Mishra](https://github.com/turtlevelocity)
+- [Tamás Telegdi](https://github.com/teregudi)
 - [Ksenia](https://github.com/odnaks)
 - [Lorenzo Colombo](https://github.com/L3llo)
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
