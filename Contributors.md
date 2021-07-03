@@ -11519,6 +11519,7 @@ Daniel Mikes
 - [Thorsten S](https://github.com/thorstenS1)
 - Robert Czerniewicz
 - [Rahul K](https://github.com/rkoonant)
+- [Nicole Hamilton](http://github.com/NikkiHmltn)
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
 - [Renato Paiva](https://github.com/renatopaivabv)
