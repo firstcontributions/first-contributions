@@ -9416,6 +9416,7 @@ Yury Smyslov
 - [Pratik Sasmal](https://github.com/pratiksasmal)
 - PassionCracker
 - [Robert Flaherty](https://github.com/roberteflaherty)
+- [Dylan Ramos] (https://github.com/dylanramos98)
 - [northerreese](https://github.com/northerreese)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
