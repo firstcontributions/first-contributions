@@ -3,6 +3,7 @@
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
+- [Ayesha](https://github.com/ayeshas20)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Eric Neves](https://github.com/ericneves)
 - [Daniel Grieco](https://github.com/night-owl-official)
