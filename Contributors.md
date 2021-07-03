@@ -25,6 +25,7 @@
 - [HMS](https://github.com/MgPone)
 
 - [Vikas Baghel](https://github.com/vikas-baghel)
+- [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
 - [Srinu Rachakonda](https://github.com/Srinu126)
 - [Myo Myat Min](https://github.com/MyoMyatMin)
