@@ -20,7 +20,7 @@
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [HMS](https://github.com/MgPone)
-
+- [poetsec](https://github.com/poetsec)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Srinu Rachakonda](https://github.com/Srinu126)
 - [Myo Myat Min](https://github.com/MyoMyatMin)
