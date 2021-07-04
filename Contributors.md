@@ -3330,6 +3330,7 @@ Aman S
 - [Lachlan Holliday](https://github.com/LachlanHollliday)
 - [Priya Bhagat](https://github.com/Taeya-10)
 - Sagar Choudhari
+- [Ricardo Ibarra](https://github.com/RickArt)
 - XM An
 - [Jason Chavez Jr.](https://github.com/jchavez2)
 - [Deepak Surya S](https://github.com/DeepakSuryaS)
