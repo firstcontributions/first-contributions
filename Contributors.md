@@ -11934,6 +11934,7 @@ Marica Marian
 - [Marco Ulrich](https://github.com/anotherMarco)
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
 - [mollinaca](https://github.com/mollinaca)
+- [Rohan Jagpal](https://github.com/RohanJagpal)
 - [bhavesh](https://github.com/BhanushaliBhavesh)
 - [San Askaruly](https://github.com/tuttelikz)
 - [iWonder118](https://github.com/iWonder118)🐧
