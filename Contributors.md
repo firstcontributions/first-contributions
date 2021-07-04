@@ -29,6 +29,7 @@
 - [Kritika Bansal](https://github.com/kritika31-10)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [HMS](https://github.com/MgPone)
+  [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
 
 - [Vikas Baghel](https://github.com/vikas-baghel)
