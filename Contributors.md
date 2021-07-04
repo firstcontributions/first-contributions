@@ -6,7 +6,7 @@
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
-- [Ayesha](https://github.com/ayeshas20)
+- [Ayesha S](https://github.com/ayeshas20)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Hanshul Chandel](https://github.com/hanshulll)
 - [Eric Neves](https://github.com/ericneves)
