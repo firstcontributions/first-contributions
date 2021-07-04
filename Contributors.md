@@ -1,4 +1,5 @@
 	# Contributors
+- [mrranger](https://github.com/mrranger)
 - [Akromatikus](https://github.com/akromatikus)
 - [Anupam Bhakta](https://github.com/Ae-bii)
 - [Gokul J Kurup](https://github.com/madrigal1)
