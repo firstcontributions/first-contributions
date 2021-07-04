@@ -10148,6 +10148,7 @@ Yury Smyslov
 - [Raghav Nautiyal](https://github.com/raghavnautiyal)
 - [Satyam Rastogi](https://github.com/satyamrastogi)
 - Z41N
+- [Victor Carvalho](https://github.com/VictorSC0)
 - [Zain Sheraz](https://github.com/Z41N)
 - [Killian Frappart](https://github.com/KillianFrappartDev)
 - [Carles Cartes](https://github.com/litosnano)
