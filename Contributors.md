@@ -6,6 +6,7 @@
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
+- [Hanshul Chandel](https://github.com/hanshulll)
 - [Eric Neves](https://github.com/ericneves)
 - [Surajit Mondal](https://github.com/Surajit10)
 - [Daniel Grieco](https://github.com/night-owl-official)
