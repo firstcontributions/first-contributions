@@ -409,6 +409,7 @@ Devanshi Mittal
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Samtou Assekouda](https://github.com/AssekoudaSamtou)
 - [Edil Mukambetov](https://github.com/Ed8L)
+- [Matas Pipiras](https://github.com/infrex)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Jeong Shin](https://github.com/jshinnn)
 - [Rutwij Patel]
