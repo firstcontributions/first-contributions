@@ -23,12 +23,12 @@
 - [MMM](https://github.com/MyoMyatMin)
 - [Mika S.](https://github.com/MikaStrait)
 - [Rishi Koul](https://github.com/rishi-koul)
-- [Johnny Zheng](https://github.com/yzhe819)💖
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Kritika Bansal](https://github.com/kritika31-10)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [HMS](https://github.com/MgPone)
 - [SharifRafid](https://github.com/sharifrafid)
+
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
@@ -232,9 +232,9 @@ Achal Mukaty
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
-  -[KMZ](https://github.com/KMZ416)
-  -[Tomáš Šmelko](https://github.com/TSmelko)
- -[TSW](https://github.com/ThantSinWin)
+ -[KMZ](https://github.com/KMZ416)
+ -[Tomáš Šmelko](https://github.com/TSmelko)
+-[TSW](https://github.com/ThantSinWin)
 - Matt
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
