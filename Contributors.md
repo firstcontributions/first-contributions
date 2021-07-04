@@ -1995,6 +1995,7 @@ Aman S
 - [Francesco Cappetti](https://github.com/KappaOnGit)
 - [Nick Botticelli](https://github.com/nick-botticelli)
 - [Amir Najafi](https://github.com/Official21A)
+- [Erik Wasmosy](https://github.com/erwaen)
 - [Asif Shaik](https://github.com/asifshaik02)
 - [Mohamed Kamal](https://github.com/mohamedkamal20)
 - [Abdulmalik Adekunle](https://github.com/Adekunle27)
