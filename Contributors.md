@@ -6,6 +6,7 @@
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Eric Neves](https://github.com/ericneves)
+- [Surajit Mondal](https://github.com/Surajit10)
 - [Daniel Grieco](https://github.com/night-owl-official)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
