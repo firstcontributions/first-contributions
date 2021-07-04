@@ -1,6 +1,7 @@
 	# Contributors
 - [Akromatikus](https://github.com/akromatikus)
 - [Anupam Bhakta](https://github.com/Ae-bii)
+- [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
