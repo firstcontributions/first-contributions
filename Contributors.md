@@ -55,6 +55,7 @@
 - [Lily Stone] (https://github.com/DevidedByZero)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
+- [Tlou Lebelo](https://github.com/Kgatishi)
 - [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
 - [Ashutosh](https://github.com/CET23)
 - [Avinash M](https://github.com/avinash3699)
