@@ -15,7 +15,6 @@
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
 - [Chhotu 🤘](https://github.com/chhotu05)
-   
 - [Joel Aviles](https://github.com/Appithe)
 - [Billy Magarali](https://github.com/BillyMagarali)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
