@@ -31,7 +31,6 @@
 - [HMS](https://github.com/MgPone)
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
-
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
@@ -44,6 +43,7 @@
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
 - [Salim Hertelli] (https://github.com/salim-hertelli)
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
+- [HugeZ](https://github.com/zhuhu00)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
 - [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
@@ -239,9 +239,9 @@ Achal Mukaty
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
- -[KMZ](https://github.com/KMZ416)
- -[Tomáš Šmelko](https://github.com/TSmelko)
--[TSW](https://github.com/ThantSinWin)
+  -[KMZ](https://github.com/KMZ416)
+  -[Tomáš Šmelko](https://github.com/TSmelko)
+ -[TSW](https://github.com/ThantSinWin)
 - Matt
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
