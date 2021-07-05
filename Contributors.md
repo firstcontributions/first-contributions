@@ -10,6 +10,7 @@ Isha Gupta
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
 - [Alestan Alves](https://github.com/AlestanAlves)
+- [Nandan](https://github.com/nandan-shah)
 - [Sachin Kumar](https://github.com/sachin212)
 - [A91y](https://github.com/A91y)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
