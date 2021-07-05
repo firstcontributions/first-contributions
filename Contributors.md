@@ -12180,6 +12180,7 @@ P0nC1k
 - [Subhasis Martha] (https://github.com/subhasis10)
 - [Liam Taylor] (https://github.com/lttaylor2001)
 - [Gaeun Lee](https://github.com/gaeunl)
+- [Pallavi Gupta] (https://github.com/guptapallavi30)
 - [ymmmtym](https://github.com/ymmmtym)
 - [Animesh Das](https://github.com/20161302animesh)
 - [Jacqueline Brown](https://github.com/jbrown-lab)
