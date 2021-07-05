@@ -9,6 +9,7 @@
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jamar Palmer](https://github.com/jamar-palmer)
+- [gvelasque](https://github.com/gvelasque)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Hanshul Chandel](https://github.com/hanshulll)
