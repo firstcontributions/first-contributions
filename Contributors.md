@@ -318,6 +318,7 @@ ROHAN KUMAR PANDEY
 [Adnan Shah Muzavor]
 SparkBuster
 Ujjwal Singh just landed here
+[Andaleeb Farooq] (https://github.com/cerafinn)
 [Diksha Nasa] (https://github.com/dikshanasa)
 [Prudhvi raj] (http://github.com/prudhvirajstark/)
 [Harmeet Singh] (https://github.com/harmeetsinghmittu)
