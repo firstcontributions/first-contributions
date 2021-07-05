@@ -306,11 +306,11 @@ ROHAN KUMAR PANDEY
 [Adnan Shah Muzavor]
 SparkBuster
 Ujjwal Singh just landed here
-- [Andaleeb Farooq](https://github.com/cerafinn)
 [Diksha Nasa] (https://github.com/dikshanasa)
 [Prudhvi raj] (http://github.com/prudhvirajstark/)
 [Harmeet Singh] (https://github.com/harmeetsinghmittu)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
+- [Andaleeb Farooq](https://github.com/cerafinn)
  - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
 [Harsh Singla](https://github.com/hs2804)
