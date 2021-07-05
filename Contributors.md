@@ -238,6 +238,7 @@ Achal Mukaty
 - [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
 - [Anthony Ingle](https://github.com/ingleanthony) 🧑‍💻
 - [Sachin Upadhyay](https://github.com/sachsbu)
+- [Sam Blundell](https://github.com/Sam-Blundell)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
 - [Robin Jastrzebski](https://github.com/rbnjay)
 - [HMT](https://github.com/HlaingMinThan)
