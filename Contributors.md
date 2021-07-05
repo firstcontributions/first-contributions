@@ -2,6 +2,7 @@
 - [mrranger](https://github.com/mrranger)
 - [Guli]
 - [HumungusFungus](https://github.com/Humungus-Fungus)
+- [Dylan](https://github.com/BobDiggity)
 - [Rya Sanovar](https://github.com/Rya-Sanovar)
 - [Janhavi Pimplikar](https://github.com/Janhavi-2001)
 - [zhuhu00](https://github.com/zhuhu00)
