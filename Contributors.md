@@ -51,6 +51,7 @@
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
 - [Salim Hertelli] (https://github.com/salim-hertelli)
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
+- [Lily Stone] (https://github.com/DevidedByZero)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - [vishwa](https://github.com/vishwan454)
 - [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
