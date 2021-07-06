@@ -194,6 +194,7 @@ Goddness
 - [Maciev] (https://github.com/maciev)
 - [Sun Sun Ku](https://github.com/SunSunKu)
 - [Tolga Acar](https://github.com/TolgaAcar)
+- [Allan Elfe](https://github.com/aaelfe)
 - [Harry Kynigopoulos](https://github.com/HarryKing87)
 - [Adela Merdzanic](https://github.com/Adelam5)
 - [Thenepaligamer] (https://github.com/thenepaligamer)
