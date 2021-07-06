@@ -143,6 +143,7 @@
 - [Nathn-G](https://github.com/Nathn-G)
 - [Dennise Chavez](https://github.com/dennisechavez)
 - [jamesmontis](https://github.com/jamesmontis)
+- [Matt Faris] (https://github.com/mtfaris90)
 - [bandarr](https://github.com/bandarr)
 - [Shoon Lai Oo] (https://github.com/shoonlai14)
 - [YeMoeAung] (https://github.com/Ye-Moe-Aung)
