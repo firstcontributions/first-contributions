@@ -15,6 +15,7 @@
 - [gvelasque](https://github.com/gvelasque)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
+- [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
 - [Hanshul Chandel](https://github.com/hanshulll)
 - [Eric Neves](https://github.com/ericneves)
 - [Surajit Mondal](https://github.com/Surajit10)
