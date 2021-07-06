@@ -37,6 +37,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.es.md">Español</a>
         </td>
+        <td>
+           <a href="../translations/README.bn.md">Bangla</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -62,6 +65,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <img width="100" src="https://avatars0.githubusercontent.com/u/13402464?s=460&v=4" alt="@LePetitRenard" />
+        </td>
+        <td>
+            <img width="100" src="https://avatars3.githubusercontent.com/u/16923944?s=460&v=4" alt="@yirini" />
         </td>
         <td>
             <img width="100" src="https://avatars3.githubusercontent.com/u/16923944?s=460&v=4" alt="@yirini" />
