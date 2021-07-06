@@ -12235,6 +12235,7 @@ P0nC1k
 - [Mariah Bradford](https://github.com/bbykitty)
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
+- [GerPut](https://github.com/GerPut)
 - [Nitish]
 - [Satoshi Shinoda]
 - [Brad Costello](https://github.com/bearcaffeine)
