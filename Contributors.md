@@ -20,6 +20,7 @@
 - [Surajit Mondal](https://github.com/Surajit10)
 - [Daniel Grieco](https://github.com/night-owl-official)
 - [Marcos Vinicius](https://github.com/marcos-inja)
+- [Albert Karwur](https://github.com/tonaaskarwur)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
 -   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
 - [Vaishnav](https://github.com/vaishnav-sh)
