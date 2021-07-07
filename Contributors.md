@@ -9939,6 +9939,7 @@ Yury Smyslov
 - [Phuong Nguyen](https://github.com/ntp99)
 - [Stefan Gunnarsson](https://github.com/stebbibg)
 - [Katie Greathouse](https://github.com/ktgreathouse)
+- [Rainer Aas](https://github.com/RainerAas)
 - [Sterling Watts](https://github.com/SterlingDWatts)
 - [Louis Kirkham](https://github.com/TheDancingClown)
 - [bleirdalag](https://github.com/bleirdalag)
