@@ -2,6 +2,7 @@
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
+- [Lestly](https://github.com/Lestlyy)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
 - [Dylan](https://github.com/BobDiggity)
@@ -12474,4 +12475,3 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Tito Reinhart](https://github.com/TotallyNotTito)
 - [Maoki Yoshimoto](https://github.com/Maoki55)
 - [LeoNooob](https://github.com/LeoNooob)
-- [Lestly](https://github.com/Lestlyy)
