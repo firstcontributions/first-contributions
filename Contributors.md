@@ -10,6 +10,7 @@
 - [zhuhu00](https://github.com/zhuhu00)
 - [Akromatikus](https://github.com/akromatikus)
 - [Anupam Bhakta](https://github.com/Ae-bii)
+- [Anutosh Bhat](https://github.com/anutosh491)
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jamar Palmer](https://github.com/jamar-palmer)
