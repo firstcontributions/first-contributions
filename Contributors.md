@@ -243,6 +243,7 @@ Achal Mukaty
 - [Abdul Majid](https://github.com/majidabdulred)
 - [Sis Aung](https://github.com/sisaung)
 - [Damilare Oyediran](https://github.com/ddoyediran)
+- [Nicolas Vandenbruaene](https://github.com/NV83-GitHub)
 - [Gourav Ojha](https://github.com/gouravojha)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [uday kalyan] (https://github.com/coder11235)
