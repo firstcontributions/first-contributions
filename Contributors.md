@@ -2254,6 +2254,7 @@ Aman S
 - [Yeong Jong Lim](https://github.com/yeongjonglim)
 - [sweinstock](https://github.com/sweinstock)
 - [Avinash Kumar](https://github.com/Avii3301)
+- [Devsi Singh](https://github.com/emily876)
 - [Tomas Vallejo](https://github.com/tav1098)
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
 - [Jayden Tweedie](https://github.com/jgregorytweedie)
