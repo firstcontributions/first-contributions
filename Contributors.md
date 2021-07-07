@@ -12460,3 +12460,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Eric Scagnelli](https://github.com/ericscagnelli)
 - [Siri Khalsa](https://github.com/skhalsa10)
 - [Maoki Yoshimoto](https://github.com/Maoki55)
+- [Sam](https://github.com/sac915)
+
