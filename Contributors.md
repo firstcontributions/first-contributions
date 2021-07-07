@@ -24,7 +24,8 @@
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Albert Karwur](https://github.com/tonaaskarwur)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
--   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
+- Harsh Patel 
+  v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [ATK](https://github.com/aungthinnko)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
