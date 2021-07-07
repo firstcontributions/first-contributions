@@ -94,6 +94,7 @@
 - [Albert Dinh] (https://github.com/albert-dinh-01)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
 - [Viktor Milosavljevic](https://github.com/NoncommissionedRush)
+- [Nhielsan Albuero](https://github.com/njalbuero)
 - [Lynzie Zhu](https://github.com/lynzie)
 - [Akanksha Rai](https://github.com/akanksharai001)
 - [Leo Purba](https://github.com/leopurba)
