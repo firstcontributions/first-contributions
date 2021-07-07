@@ -8942,6 +8942,7 @@ Yury Smyslov
 - [Alvin Tang](https://github.com/alvintang)
 - [Kevin Chen](https://github.com/KeChing)
 - [Niklas Wendt](https://github.com/niklaswendt)
+- [Constantin Ermurache](https://github.com/constantinermurache)
 - [Surajeet Das](https://github.com/surajeet310)
 - [Ashford Hill](https://github.com/ashfordhill)
 - [Abhinav Gupta](https://github.com/abhinvgupta/)
