@@ -1,4 +1,5 @@
 	# Contributors
+- [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
