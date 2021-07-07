@@ -57,6 +57,7 @@
 - [Ankur Banerjee](https://github.com/rukna08)
 - [Simon Malpas] (https://github.com/simalpas)
 - [Nelson Walker] (https://github.com/nelsonwalker)
+- [Akolade Ojesina] (https://github.com/light-oj)
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
 - [Salim Hertelli] (https://github.com/salim-hertelli)
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
