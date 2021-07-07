@@ -12316,6 +12316,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [LFBianchi](https://github.com/LFBianchi)
 - [CarloC](https://github.com/carlocardona)
 - [z3b1](https://github.com/z3b1K)
+- [canhuynh1998](https://github.com/canhuynh1998)
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal] (https://github.com/hafidzal)
 - [pranavdubey303]
