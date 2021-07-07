@@ -15,27 +15,47 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Github CLI
 
-Please note, this tutorial is for MacOS. It is similar with Windows Terminal on Windows but some things may look different.
+To install GitHub CLI on your system, visit the [official website](https://cli.github.com/) to download it directly or use the command-line to install the package into your system.
 
-<!--
-************************************
-​	*** This is commented out until      ***
-​	*** a Windows tutorial can be created***
-************************************
-Please note, this tutorial is for MacOS. Please refer to the [Windows Tutorial]() for Sourcetree if that is what you want to use.
--->
-
-Download [Github CLI](https://cli.github.com/), then open Terminal(or any Commandline Tools). I used the [iTerm2](https://iterm2.com/).
-
-If you want to install Github CLI via Homebrew, you can download it as shown below the command line.
+### Homebrew (MacOS, Linux)
 
 ~~~
 brew install gh
 ~~~
 
+### MacPorts (MacOS)
 
+~~~
+sudo port install gh
+~~~
 
-If the download is successful, you can view the console log as shown below the screenshot.
+### Conda (MacOS, Linux, Windows)
+
+~~~
+conda install gh --channel conda-forge
+~~~
+
+Additional Conda installation options available on the [gh-feedstock page](https://github.com/conda-forge/gh-feedstock#installing-gh).
+
+### Winget (Windows)
+
+~~~
+winget install gh
+~~~
+
+### Scoop (Windows)
+
+~~~
+scoop install gh
+~~~
+
+### Chocolatey (Windows)
+
+~~~
+choco install gh
+~~~
+
+## After installing Github CLI
 
 ~~~
 gh --version
@@ -141,7 +161,7 @@ Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ wo
 
 Celebrate your contribution and share it with your friends and followers by going to [our website](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+For more advanced command-line instructions from GitHub CLI, visit the [official documentation](https://cli.github.com/manual/) or its [GitHub repository](https://github.com/cli/cli#installation).
 
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
