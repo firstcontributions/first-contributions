@@ -27,6 +27,7 @@
 - [Eric Neves](https://github.com/ericneves)
 - [Surajit Mondal](https://github.com/Surajit10)
 - [Daniel Grieco](https://github.com/night-owl-official)
+- [Michael Nelson](https://github.com/michael54nelson)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Albert Karwur](https://github.com/tonaaskarwur)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
