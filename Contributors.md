@@ -39,6 +39,7 @@
 - [ATK](https://github.com/aungthinnko)
 - Jason Gaglione
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
+- [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
 - [Joel Aviles](https://github.com/Appithe)
 - [João Mendes](https://github.com/joaopmendes)
 - [Billy Magarali](https://github.com/BillyMagarali)
