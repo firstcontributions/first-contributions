@@ -13,6 +13,7 @@
 - [Janhavi Pimplikar](https://github.com/Janhavi-2001)
 - [zhuhu00](https://github.com/zhuhu00)
 - [Akromatikus](https://github.com/akromatikus)
+- [Jabril Gray](https://github.com/JGray3507)
 - [Anupam Bhakta](https://github.com/Ae-bii)
 - [Anutosh Bhat](https://github.com/anutosh491)
 - [Gokul J Kurup](https://github.com/madrigal1)
