@@ -1,5 +1,6 @@
 	# Contributors
 
+- [sktht](https://github.com/sktht)
 - Noah Olono
 - [Ritik Dutta](https://github.com/ritikdutta)
 - [Kumar Karan](https://github.com/BharatiyaKaran/)
@@ -9530,4 +9531,3 @@ Jiawen Yang
 - [Yaw Jalik](https://github.com/yawjalik)
 - [Shashank Suresh](https://github.com/shashank-suresh)
 - [William Foley](https://github.com/williamfoleycit)
-- [sktht](https://github.com/sktht)
