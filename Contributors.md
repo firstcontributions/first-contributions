@@ -55,7 +55,7 @@
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
 - [Cane](https://github.com/Cane777777)
-
+- [Sal Galan] (https://github.com/SalGalan)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
