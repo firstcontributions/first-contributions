@@ -218,6 +218,7 @@ Goddness
 - [Thenepaligamer] (https://github.com/thenepaligamer)
 khelafiSifeddine
 - [Elijah Wilcott] (https://github.com/ejw773)
+- [Nixon Kurian](https://github.com/Scarface69420)
 - [Muorah, Chisom] (https://github.com/chysomm62)
 - [Gabriel Drutu](https://github.com/realDevDare)
 - [Cory Gipson](https://github.com/Cory-gip)
