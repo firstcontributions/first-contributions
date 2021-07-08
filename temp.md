@@ -1,4 +1,5 @@
 	# Contributors
+[sktht](https://github.com/sktht)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
@@ -61,7 +62,8 @@
 - [SharifRafid](https://github.com/sharifrafid)
 - [Cane](https://github.com/Cane777777)
 
-- [sktht](https://github.com/sktht)
+<<<<<<< HEAD
+=======
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
@@ -1570,6 +1572,7 @@ Berliana
 - Light Yagami
 - [Lily Peng](https://github.com/lily-peng)
 - Hiroki O
+>>>>>>> f366816496ee9e5c2cd2ac4b3b9f86279b67494a
 - Noah Olono
 - Prajyot Joshi
 - [Tomas Kloucek](https://github.com/TomKloucek)
