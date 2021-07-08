@@ -205,6 +205,7 @@ Goddness
 -[KalidasVijayBhak](https://github.com/KalidasVijaybhak)
 -[Muhammed Alaa Kanzari](https://github.com/Muhammed-Alaa-Kanzari)
 -[MMS](https://github.com/MoeMoeSan)
+-[fede977](https://github.com/fede977)
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw) 
 [Thin Nandar](https://github.com/Thinnandar) 
 -[Julio Camargo] (https://github.com/jcamargoUK)
