@@ -166,6 +166,7 @@
 - [NHA](https://github.com/the-nine-creation)
 - [SHA](https://github.com/SwannHtetAungss)
 - [Nathn-G](https://github.com/Nathn-G)
+- [Bartosz Raubo](https://github.com/qxcross)
 - [Dennise Chavez](https://github.com/dennisechavez)
 - [jamesmontis](https://github.com/jamesmontis)
 - [Matt Faris] (https://github.com/mtfaris90)
