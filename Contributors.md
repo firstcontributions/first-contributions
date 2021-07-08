@@ -7727,6 +7727,7 @@ Yury Smyslov
 - [Graham McLaughlin](https://github.com/grahammclaughlin)
 - [MohammadHosein Javanbakht](https://github.com/CodeArtisT75)
 - [EvanRaines](https://github.com/evanraines)
+- [Matheus Carvalho do Carmo](https://github.com/matheusccarmo)
 - [SKRUW](https://github.com/skruw)
 - [Vignesh Kc](https://github.com/vigneshkc06)
 - [Yousuf Azad Ayon](https://github.com/yousufAzadAyon)
