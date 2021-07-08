@@ -7361,6 +7361,7 @@ Yury Smyslov
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Raghav Shukla](https://github.com/Raghav-byte)
 - [Nico Beukes](https://github.com/nico-beukes)
+- [Charles Kanu](https://github.com/ckanu)
 - [Hui Yi Liang](https://github.com/huiyi-liang)
 - [Cryptic Bit](https://github.com/crypticbit)
 - [Ajay Chamba](https://github.com/ajaychamba)
