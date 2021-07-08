@@ -101,6 +101,7 @@
 - [Smallnine9](https://github.com/smallnine9)
 - [kishore kumar](https://github.com/kishore-kal)
 - [Persia Afrin](https://github.com/persia92)
+- [algorev](https://github.com/algorev)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [Tripti Nayak](https://github.com/trip19)
 - [Peter Staker](https://github.com/peterjast)
