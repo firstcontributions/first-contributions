@@ -7,7 +7,8 @@
 - [Ivette]
 - [Lestly](https://github.com/Lestlyy)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
-- [Charly Finos](https://github.com/charlyfinos)
+- [Justin Ceccarelli] (https://github.com/Jcecc)
+  [Charly Finos](https://github.com/charlyfinos)
 - [Dylan](https://github.com/BobDiggity)
 - [Rya Sanovar](https://github.com/Rya-Sanovar)
 - [Janhavi Pimplikar](https://github.com/Janhavi-2001)
@@ -75,7 +76,7 @@
 - [vishwa](https://github.com/vishwan454)
 - [Tlou Lebelo](https://github.com/Kgatishi)
 - [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
-- [Ashutosh](https://github.com/CET23)
+- Ashutosh](https://github.com/CET23)
 - [Avinash M](https://github.com/avinash3699)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
