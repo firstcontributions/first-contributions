@@ -12246,3 +12246,4 @@ sam_namiranian
 - [Sam Charney](https://github.com/sac915)
 - [LeoNooob](https://github.com/LeoNooob)
 - [Linh Nguyen Nhat](https://github.com/lnn45)
+- [Zhugy08](https://github.com/zhugy08)
