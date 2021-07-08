@@ -4,6 +4,7 @@
 - [mrranger](https://github.com/mrranger)
 - [Guli]
 - [ADITYA SANTOSH SHENDE]
+- [Arti A]
 - [Ivette]
 - [Lestly](https://github.com/Lestlyy)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
