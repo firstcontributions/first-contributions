@@ -3,6 +3,8 @@
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
+- [ADITYA SANTOSH SHENDE]
+- [Ivette]
 - [Lestly](https://github.com/Lestlyy)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
@@ -31,12 +33,14 @@
   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [ATK](https://github.com/aungthinnko)
+- Jason Gaglione
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
 - [Joel Aviles](https://github.com/Appithe)
 - [João Mendes](https://github.com/joaopmendes)
 - [Billy Magarali](https://github.com/BillyMagarali)
 - [Anuj Dekavadiya](https://github.com/anujpatel2809)
 - [Matthew Daly](https://github.com/MattyDaly)
+- [Georgia Buchanan] (https://github.com/georgiahope)
 - [NWA](https://github.com/naingwin-aung)
 [rawrex](https://github.com/rawrex)
 [YP](https://github.com/yoonpyaepyaenyein)
@@ -243,6 +247,7 @@ Achal Mukaty
 - [Abdul Majid](https://github.com/majidabdulred)
 - [Sis Aung](https://github.com/sisaung)
 - [Damilare Oyediran](https://github.com/ddoyediran)
+- [Nicolas Vandenbruaene](https://github.com/NV83-GitHub)
 - [Gourav Ojha](https://github.com/gouravojha)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [uday kalyan] (https://github.com/coder11235)
@@ -1428,6 +1433,7 @@ Berliana
 - [Sebastian Russo] (https://github.com/Sebastian-Russo)
 - Marcin Maruszak
 - [Chin-Wu Chen] (https://github.com/chinwuchen)
+- MKD
 - [Monesh Goyal] (https://github.com/2201monesh)
 - [Munia Balayil] (https://github.com/mbalayil)
 - [Daniel Wong] (https://github.com/dsew77)
@@ -8285,6 +8291,7 @@ Yury Smyslov
 - [Tineke Franssen](https://github.com/TinekeFrineke)
 - [Anurag Sethi](https://github.com/anurag00)
 - [Juan Antonio Barranga Noguera](https://github.com/jabarragann)
+- [Brandon Warman](https://github.com/bwarman16)
 - [Luis Chilo](https://github.com/gfxargentina)
 - [Markus Wernersbach](https://github.com/wernersbacher)
 - [David E. Williams](https://github.com/laxcougar18)
@@ -12470,7 +12477,6 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Aleix Anguita Gomez](https://github.com/aleixango)
 - [Leonard Vlaicu](https://github.com/leonard-vlaicu)
 - [Edincodes](https://github.com/edincodes)
-- [Jenna Pedro] (https://github.com/itsjennaz)
 - [levartsang](https://github.com/levartsang)
 - [Taulant Xhakli](https://github.com/taulantxhakli)
 - [VendedorDeWards](https://github.com/VendedorDeWards)
@@ -12481,4 +12487,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Tito Reinhart](https://github.com/TotallyNotTito)
 - [Maoki Yoshimoto](https://github.com/Maoki55)
 - [LeoNooob](https://github.com/LeoNooob)
-
+- [Jenna Pedro](https://github.com/itsjennaz)
+- [Linh Nguyen Nhat](https://github.com/lnn45)
