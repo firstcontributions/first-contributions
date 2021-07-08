@@ -18,6 +18,7 @@
 - [Anutosh Bhat](https://github.com/anutosh491)
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
+- [Jmac](https://github.com/Git-Jmac)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
