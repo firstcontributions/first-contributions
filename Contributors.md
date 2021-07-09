@@ -2743,6 +2743,7 @@ Aman S
 - [Manish Pillai](https://github.com/PillaiManish)
 - [Shyamrox](https://github.com/shyamrox)
 - [Gabriel Epeschit](https://github.com/GabrielEspeschit)
+- [Alixsep](https://github.com/alixsep)
 - [Moh Hassan](https://github.com/medh2000)
 - [Rosie Arasa](https://github.com/rosiearasa)
 - [Jordan Long](https://github.com/JordanLong1)
