@@ -6116,6 +6116,7 @@ Yury Smyslov
 - [Robert Clarke](https://github.com/RobertClarke64)
 - [Abdoulaye Balde](https://github.com/abdoulayegk)
 - Benjamin Yap
+- [Kin Maynard](https://github.com/KinMaynard)
 - [Briana](https://github.com/MosNeagu)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [M S Adithya](https://github.com/Coder2002-MSAdithya)
