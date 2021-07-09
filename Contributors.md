@@ -85,6 +85,7 @@
 - [Ondiek Elijah Ochieng](https://github.com/Dev-Elie)
 - [Ashutosh](https://github.com/CET23)
 - [Avinash M](https://github.com/avinash3699)
+- [Austin Boydston] (https://github.com/AustinBoydston)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
 - [Paurav Shah](https://github.com/paurav11)
