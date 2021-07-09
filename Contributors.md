@@ -102,6 +102,7 @@
 - [supreet-kurdekar](https://github.com/SupreetKurdekar)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - [Kat Marsteller](https://github.com/kdm423)
+- [Evan Chambers](https://github.com/EChamb1021)
 - [Fran Bejarano](https://github.com/FranBejarano)
 - [Johnny Zheng](https://github.com/yzhe819)💖
 - [MShahryiar](https://github.com/MShahryiar)
