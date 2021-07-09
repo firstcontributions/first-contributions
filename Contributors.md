@@ -8151,6 +8151,7 @@ Yury Smyslov
 - [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
 - [tralbi](https://github.com/Tralbi)
+- [Andre S](https://github.com/wolfsquared)
 - [tpartridge1](https://github.com/tpartridge1)
 - [Kirk Korver](https://github.com/kirkkorver)
 - [Juan Lauretta](https://github.com/juan9900)
