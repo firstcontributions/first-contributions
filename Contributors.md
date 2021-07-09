@@ -25,6 +25,7 @@
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jmac](https://github.com/Git-Jmac)
+- [IK](https://github.com/Ingyin-Khin)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
