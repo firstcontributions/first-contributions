@@ -1713,6 +1713,7 @@ Berliana
 - [Miles Brown] (https://github.com/Qweezl)
 - [Caleb Pomayo] (https://github.com/kalebkun)
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
+- [Victor G.] (https://github.com/WKstraw)
 - C.W.
 - Sam
 - Japmeet Singh
