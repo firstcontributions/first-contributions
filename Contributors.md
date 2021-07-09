@@ -1748,6 +1748,7 @@ Berliana
 - [Anderson Scherdovski](https://github.com/Anderson-Scherdovski)
 - [Rohan Jinturkar](https://github.com/rjintu)
 - [Junaire Edris Buico](https://github.com/jun-edris)
+- [Dom Foley](https://github.com/kiloCastro)
 - [Bilaal Ukishima](https://github.com/bilaalukis)
 - [Kylie Cook](https://github.com/KylieNCook)
 - [Rohan Anil](https://github.com/roh-an-il)
