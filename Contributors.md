@@ -6310,6 +6310,7 @@ Yury Smyslov
 - Mark - mark-nu
 - Zach Sonnenblick
 - [Darrien Chow](https://github.com/darrien-c)
+- [Mayke47](https://github.com/mayke47)
 - [Slawomir Ernst](https://github.com/slawoe)
 - ankit kumar
 - Mrinal Choudhary
