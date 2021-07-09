@@ -1,5 +1,6 @@
 	# Contributors
   [sktht](https://github.com/sktht)
+- [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
