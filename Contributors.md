@@ -28,6 +28,7 @@
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [Jmac](https://github.com/Git-Jmac)
 - [IK](https://github.com/Ingyin-Khin)
+- [Neil Ryan] (https://github.com/nilryan)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
