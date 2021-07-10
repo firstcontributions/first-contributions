@@ -9,6 +9,7 @@
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
 - [Arti]
+- [Jennifer Rosa](https://github.com/rosajen27) 🥳
 - [Ivette]
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
