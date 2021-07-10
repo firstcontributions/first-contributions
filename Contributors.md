@@ -5325,6 +5325,7 @@ Jairo Martinez
 - [Siddharth Tirkey](https://github.com/sidtirkey)
 - [npnv]()
 - [Quynh Vo](https://github.com/quynhhvo)
+- [Okwuidegbe Emmanuel](https://github.com/emma50)
 - [GHC OSD 2020](https://github.com/osdoss2020)
 - [Kajal Jain](https://github.com/kajaljain0206)
 - [Nabil El assal](https://github.com/nabil-e)
