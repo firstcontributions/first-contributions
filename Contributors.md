@@ -89,6 +89,7 @@
 - [Lily Stone] (https://github.com/DevidedByZero)
 - [Vivek Verma] (https://github.com/vermavivek951)
 - [ThomasRainford](https://github.com/ThomasRainford)
+- Sebastian Fina
 - [Stephan Allen](https://github.com/sallen2)
 - [vishwa](https://github.com/vishwan454)
 - [Tlou Lebelo](https://github.com/Kgatishi)
