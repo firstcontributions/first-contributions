@@ -28,6 +28,7 @@ Mohit Bhobariya
 - [Anutosh Bhat](https://github.com/anutosh491)
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
+- [G. Trottier](https://github.com/gtrottier)
 - [Jmac](https://github.com/Git-Jmac)
 - [IK](https://github.com/Ingyin-Khin)
 - [Neil Ryan] (https://github.com/nilryan)
