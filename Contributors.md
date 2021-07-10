@@ -10,6 +10,7 @@
 - [ADITYA SANTOSH SHENDE]
 - [Arti]
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
+Mohit Bhobariya
 - [Ivette]
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
