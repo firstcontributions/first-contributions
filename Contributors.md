@@ -13,6 +13,7 @@
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
 Mohit Bhobariya
 - [Ivette]
+- [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
