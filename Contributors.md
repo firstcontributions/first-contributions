@@ -6,6 +6,7 @@
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
+- [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
 - [Arti]
