@@ -3551,6 +3551,7 @@ Aman S
 - Vikas Kumar
 - Mahiransh Sharma
 - nehal gupta
+- Alex Ng
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
 - [Shivam Sahu](https://github.com/shivamsahu4u)
 - [Luisa Bez](https://github.com/lb930)
