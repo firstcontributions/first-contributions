@@ -31,6 +31,7 @@ Mohit Bhobariya
 - [G. Trottier](https://github.com/gtrottier)
 - [Jmac](https://github.com/Git-Jmac)
 - [IK](https://github.com/Ingyin-Khin)
+- [Nissrine Hnainia] (https://github.com/Nissrine-Hnainia)
 - [Neil Ryan] (https://github.com/nilryan)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
