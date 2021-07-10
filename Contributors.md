@@ -41,6 +41,7 @@
 - [Michael Nelson](https://github.com/michael54nelson)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Albert Karwur](https://github.com/tonaaskarwur)
+- [Anas Yaseen](https://github.com/anasomar1)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
 - Harsh Patel 
   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
