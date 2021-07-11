@@ -7,6 +7,7 @@
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
+- [Kyle Ramsay] (https://github.com/KyRams) 
 - [Guli]
 - [Daniel Vasquez](https://github.com/cruzavas)
 - [Chinthakindi Tarun]
