@@ -6197,6 +6197,7 @@ Yury Smyslov
 - [Andes Lee](https://github.com/Leeand17)
 - [Yug Gajjar](https://github.com/Yug34)
 - Ameeth :)
+- [Manuel Peñaloza](https://github.com/Manuel-2)
 - [Saad Rahman](https://github.com/its-saad-rahman)
 - hawwwdi
 - [Alex6]
