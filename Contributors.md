@@ -17,6 +17,7 @@
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
 Mohit Bhobariya
 - [Ivette]
+- [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
