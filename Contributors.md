@@ -66,6 +66,7 @@ Mohit Bhobariya
 - [Georgia Buchanan] (https://github.com/georgiahope)
 - [NWA](https://github.com/naingwin-aung)
 [rawrex](https://github.com/rawrex)
+- [Rona Chan](https://github.com/ronachan)
 [YP](https://github.com/yoonpyaepyaenyein)
 - [MMM](https://github.com/MyoMyatMin)
 - [Mika S.](https://github.com/MikaStrait)
