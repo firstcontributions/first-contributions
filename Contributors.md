@@ -1491,6 +1491,7 @@ Berliana
   Paweł Wrzesiński
 - [Isaac Carrascal] [https://github.com/isaac-carrascal)
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
+- [Stiven Cabrera :)](https://github.com/lyncasterc)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
 - [yatu360](https://github.com/yatu360/)
 - [Richard Sistern](https://github.com/richard-sistern)
