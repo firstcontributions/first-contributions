@@ -7,6 +7,7 @@
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
+- [Daniel Vasquez](https://github.com/cruzavas)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
