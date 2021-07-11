@@ -113,6 +113,7 @@ Mohit Bhobariya
 - [Ayush](https://github.com/ayush7)
 - [Paurav Shah](https://github.com/paurav11)
 - [Jayita Pramanik](https://github.com/Jayita10)
+- [Deepthi Sherly J](https://github.com/deepssherly)
 - [Haddee Ann] (http://github.com/haddeeann)
 - [Benyasca](https://github.com/lbgm2011)
 - [djamel-djame](https://github.com/djamel-djame)
