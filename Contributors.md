@@ -97,6 +97,7 @@ Mohit Bhobariya
 - [Salim Hertelli] (https://github.com/salim-hertelli)
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
 - [Lily Stone] (https://github.com/DevidedByZero)
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
 - [Vivek Verma] (https://github.com/vermavivek951)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - Sebastian Fina
