@@ -22,6 +22,7 @@
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
 Mohit Bhobariya
 - [Ivette]
+- [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
@@ -117,6 +118,7 @@ Mohit Bhobariya
 - [Ayush](https://github.com/ayush7)
 - [Paurav Shah](https://github.com/paurav11)
 - [Jayita Pramanik](https://github.com/Jayita10)
+- [Deepthi Sherly J](https://github.com/deepssherly)
 - [Haddee Ann] (http://github.com/haddeeann)
 - [Benyasca](https://github.com/lbgm2011)
 - [djamel-djame](https://github.com/djamel-djame)
@@ -1494,6 +1496,7 @@ Berliana
   Paweł Wrzesiński
 - [Isaac Carrascal] [https://github.com/isaac-carrascal)
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
+- [Stiven Cabrera :)](https://github.com/lyncasterc)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
 - [yatu360](https://github.com/yatu360/)
 - [Richard Sistern](https://github.com/richard-sistern)
@@ -6199,6 +6202,7 @@ Yury Smyslov
 - [Andes Lee](https://github.com/Leeand17)
 - [Yug Gajjar](https://github.com/Yug34)
 - Ameeth :)
+- [Manuel Peñaloza](https://github.com/Manuel-2)
 - [Saad Rahman](https://github.com/its-saad-rahman)
 - hawwwdi
 - [Alex6]
@@ -11064,6 +11068,7 @@ Yury Smyslov
 - [Kacper Walter](https://github.com/kacperwalter)
 - [Mikolaj Jedrzejewski](https://github.com/mikkio-j)
 - [Jaeyoung Park](https://github.com/pjaeyoung)
+- [Sepehr Nematollahi](https://github.com/sn0098)
 - [Autumn Davis](https://github.com/AutumnWishes87)
 - [Jithin Aji](https://github.com/JithinAji)
 - [Rodrigo Mesta rimesta21](https://github.com/rimesta21)
@@ -12148,6 +12153,7 @@ Marica Marian
 - [Ramy1951](https://github.com/Ramy1951)
 - [VladPetryshyn](https://github.com/VladPetryshyn)
 - [Lakshya Manan Jaiswa](https://github.com/manan2277)
+- [Nirjas Jakilim](https://github.com/nirzak)
 - [Mom0aut](https://github.com/Mom0aut)
 - [tomm3hgunn](https://github.com/tomm3hgunn)
 - [HarshKumarSingh](https://github.com/HarshKumarSingh07)
@@ -12170,6 +12176,7 @@ sarvagya rastogi
 - [donglangjohn](https://github.com/donglangjohn)
 - [jovicon](https://github.com/jovicon)
 - [eeemt](https://github.com/eeemt)
+- [Nawaz Khan](https://github.com/nawazkhan)
 - [Amogh G Kotabagi](https://github.com/Amogh-G-K)
 - [kamil_marczak](https://github.com/kamil1marczak)
 - [Prantaneel Debnath](https://github.com/prantagithub)
@@ -12563,3 +12570,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
 - [Max Kasprzik] (https://github.com/maxUser)
 - [Vchsi] (https://github.com/vchsi)
+- [srinathdevinfo] (https://github.com/srinathdevinfo)
+- [Lutanda-Muchenje] (https://github.com/Lutanda-Muchenje)
