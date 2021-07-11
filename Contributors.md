@@ -1,6 +1,7 @@
 	# Contributors
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
   [sktht](https://github.com/sktht)
+- [raishaasuma](https://github.com/raishaasuma)
 - [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
