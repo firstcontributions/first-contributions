@@ -2,18 +2,22 @@
 
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
   [sktht](https://github.com/sktht)
+- [raishaasuma](https://github.com/raishaasuma)
 - [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
+- [Daniel Vasquez](https://github.com/cruzavas)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
+- [shunbin](https://github.com/yshunbin)
 - [Arti]
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
   Mohit Bhobariya
 - [Ivette]
+- [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
@@ -29,8 +33,10 @@
 - [Anutosh Bhat](https://github.com/anutosh491)
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
+- [G. Trottier](https://github.com/gtrottier)
 - [Jmac](https://github.com/Git-Jmac)
 - [IK](https://github.com/Ingyin-Khin)
+- [Nissrine Hnainia] (https://github.com/Nissrine-Hnainia)
 - [Neil Ryan] (https://github.com/nilryan)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
@@ -61,8 +67,10 @@
 - [Matthew Daly](https://github.com/MattyDaly)
 - [Georgia Buchanan] (https://github.com/georgiahope)
 - [NWA](https://github.com/naingwin-aung)
-  [rawrex](https://github.com/rawrex)
-  [YP](https://github.com/yoonpyaepyaenyein)
+
+[rawrex](https://github.com/rawrex)
+- [Rona Chan](https://github.com/ronachan)
+[YP](https://github.com/yoonpyaepyaenyein)
 - [MMM](https://github.com/MyoMyatMin)
 - [Mika S.](https://github.com/MikaStrait)
 - [Rishi Koul](https://github.com/rishi-koul)
@@ -3312,6 +3320,7 @@ elkhechafi zakaria
 - Vikas Kumar
 - Mahiransh Sharma
 - nehal gupta
+- Alex Ng
 - [Franklyn Rodriguez](https://github.com/franklynr92)(LinkedIn - https://cutt.ly/wgp7Axn)
 - [Shivam Sahu](https://github.com/shivamsahu4u)
 - [Luisa Bez](https://github.com/lb930)
@@ -5082,6 +5091,7 @@ elkhechafi zakaria
 - [Siddharth Tirkey](https://github.com/sidtirkey)
 - [npnv]()
 - [Quynh Vo](https://github.com/quynhhvo)
+- [Okwuidegbe Emmanuel](https://github.com/emma50)
 - [GHC OSD 2020](https://github.com/osdoss2020)
 - [Kajal Jain](https://github.com/kajaljain0206)
 - [Nabil El assal](https://github.com/nabil-e)
@@ -11747,6 +11757,7 @@ sam_namiranian
 - [Serafim Davranis](https://github.com/SerDavran)
 - [Alcmene S](https://github.com/alcmene00)
 - [Amith](https://github.com/amithsourya)
+- [Gravish Purohit](https://github.com/gravishpurohit)
 - [Johannes Schenk](https://github.com/Jobo0o)
 - [Ravi Gupta](https://github.com/ravi9607)
   [Sahil Shrivastava](https://github.com/sahil6993)
@@ -12254,7 +12265,9 @@ sam_namiranian
 - [James Njoroge] (https://github.com/Mwithiga)
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
-- [Richard French](https://github.com/rfrench2) -[likeurboss](https://github.com/likeurboss)
+- [Richard French](https://github.com/rfrench2)
+- [Randika Rodrigo](https://github.com/RandikaR21)
+-[likeurboss](https://github.com/likeurboss)
 - [Enda Crossan](https://github.com/endacrossan/)
 - [Luke Paner](https://github.com/lukelucas1794)
 - [Lakshmi Juneja](https://github.com/lcjuneja)
@@ -12290,3 +12303,4 @@ sam_namiranian
 - [Zalene](https://github.com/Zalene)
 - [Barry M](https://github.com/BozzleMay)
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
+- [Vchsi] (https://github.com/vchsi)
