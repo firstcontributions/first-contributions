@@ -124,6 +124,7 @@ Mohit Bhobariya
 - [djamel-djame](https://github.com/djamel-djame)
 - [supreet-kurdekar](https://github.com/SupreetKurdekar)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
+- Dongdong Shi
 - [Kat Marsteller](https://github.com/kdm423)
 - [Hubert Życiński](https://github.com/Sniqs)
 - [Evan Chambers](https://github.com/EChamb1021)
