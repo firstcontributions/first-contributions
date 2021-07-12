@@ -11917,6 +11917,7 @@ Daniel Mikes
 - [Marcle Rodrigues](https://github.com/marclerodrigues)
 - [Raffaele Marcello](https://github.com/marcelloraffaele)
 - [Mathew Sims](https://github.com/mathewcsims)
+- [Igor Zakharov](https://github.com/ZakharovIS)
 - [Ayman Al-Dherasi](https://github.com/aymanxdev)
 - [Jean Elana](https://github.com/Dlokoko)
 - [Jamie](https://github.com/jdcar)
