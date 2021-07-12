@@ -41,6 +41,7 @@ Mohit Bhobariya
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [G. Trottier](https://github.com/gtrottier)
 - [Jmac](https://github.com/Git-Jmac)
+- [Imran Mirza](https://github.com/imran-mirza79)
 - [IK](https://github.com/Ingyin-Khin)
 - [Nissrine Hnainia] (https://github.com/Nissrine-Hnainia)
 - [Neil Ryan] (https://github.com/nilryan)
