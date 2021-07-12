@@ -64,6 +64,7 @@ Mohit Bhobariya
 - [Aman Singh](https://github.com/amansingh1912)
 - [ATK](https://github.com/aungthinnko)
 - Jason Gaglione
+- Akilesh Kumar (https://github.com/Akilesh2003)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
 - [Joel Aviles](https://github.com/Appithe)
@@ -12574,4 +12575,3 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [srinathdevinfo] (https://github.com/srinathdevinfo)
 - [Lutanda-Muchenje] (https://github.com/Lutanda-Muchenje)
 - [Gabriel FLeury] (https://github.com/ga-fleury)
-- [Kohei Wada](https://githbu.com/Kohei-Wada)
