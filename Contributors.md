@@ -17,6 +17,7 @@
 - [Arti]
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
 Mohit Bhobariya
+- [Abhyudaya Avasthi](https://github.com/avasthiabhyudaya)
 - [Ivette]
 - [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
