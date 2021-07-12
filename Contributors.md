@@ -126,6 +126,7 @@ Mohit Bhobariya
 - [supreet-kurdekar](https://github.com/SupreetKurdekar)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - [Kat Marsteller](https://github.com/kdm423)
+- [Aryan Khera](https://github.com/aryankhera)
 - [Hubert Życiński](https://github.com/Sniqs)
 - [Evan Chambers](https://github.com/EChamb1021)
 - [Fran Bejarano](https://github.com/FranBejarano)
