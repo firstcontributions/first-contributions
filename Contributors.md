@@ -10,6 +10,7 @@
 - [mrranger](https://github.com/mrranger)
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Guli]
+- [Dongdong Shi](https://github.com/Dongdong-Shi)
 - [Daniel Vasquez](https://github.com/cruzavas)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
