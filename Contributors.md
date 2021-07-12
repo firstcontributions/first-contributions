@@ -1,5 +1,6 @@
 	# Contributors
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
+- [Stone](https://github.com/Dongdong-Shi)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
   [sktht](https://github.com/sktht)
 - [raishaasuma](https://github.com/raishaasuma)
