@@ -33,6 +33,7 @@ Mohit Bhobariya
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
+- [Tony Son](https://github.com/TonySonYJ)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
 - [Shivangi Agarwal](https://github.com/shivangi14)
