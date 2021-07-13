@@ -774,6 +774,7 @@ Akshit Agarwal
 -[Richa Singh](https://github.com/Richa-09)
 -[Aniket Anand](https://github.com/aniket48020)
 -[Nakul Mitra](https://github.com/nakulmitra)
+-[Ted Marov](https://www.github.com/tedmarov)
 -[Dana Lark](https://github.com/danabananax)
 -Vinh Ngo
 [zowhair](https://github.com/zowhair)
