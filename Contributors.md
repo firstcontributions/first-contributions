@@ -7,7 +7,6 @@
 -   [Nirmayi Kelkar](https://github.com/nimukelkar)
 -   [Vishal Chopra](https://github.com/pythonvishal)
 -   [Paritosh Marathe](https://github.com/paritosh-marathe)
--   [Jaimin Prajapati](https:://github.com/enthr)
 -   [AP](https://github.com/AungPhyoMM)
 -   [mrranger](https://github.com/mrranger)
 -   [Kyle Ramsay] (https://github.com/KyRams)
@@ -12322,4 +12321,5 @@ sam_namiranian
 -   [srinathdevinfo] (https://github.com/srinathdevinfo)
 -   [Lutanda-Muchenje] (https://github.com/Lutanda-Muchenje)
 -   [Gabriel FLeury] (https://github.com/ga-fleury)
+-   [enthr] (https://github.com/enthr
 -   [Kohei Wada](https://githbu.com/Kohei-Wada)
