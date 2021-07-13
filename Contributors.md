@@ -506,7 +506,7 @@
 - [Jeong Shin](https://github.com/jshinnn)
 - [Rutwij Patel]
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
-- [Joanna marie Diaz](https://github.com/j-anne)
+- [Joanna Marie Diaz](https://github.com/j-anne)
 - [Judith Moya](https://github.com/JuddieMoya)
 - [zha](https://github.com/Zwe-HZ)
 - [JHRS]
