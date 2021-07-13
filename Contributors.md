@@ -33,6 +33,7 @@ Gavriel Frant
 - [Deedee Banh](https://github.com/deedeebanh)
 - [Aman Chawla](https://github.com/AmanChawla7777)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
+- [Umang Agarwal](https://github.com/umang345)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Eman Amassi] (https://github.com/emanNahed)
