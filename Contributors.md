@@ -12321,5 +12321,5 @@ sam_namiranian
 -   [srinathdevinfo] (https://github.com/srinathdevinfo)
 -   [Lutanda-Muchenje] (https://github.com/Lutanda-Muchenje)
 -   [Gabriel FLeury] (https://github.com/ga-fleury)
--   [enthr] (https://github.com/enthr
+-   [enthr](https://github.com/enthr)
 -   [Kohei Wada](https://githbu.com/Kohei-Wada)
