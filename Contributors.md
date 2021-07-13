@@ -143,6 +143,7 @@ Mohit Bhobariya
 - [Persia Afrin](https://github.com/persia92)
 - [algorev](https://github.com/algorev)
 - [Ayush Mishra](https://github.com/im-ayush)
+- [dwills] (https://github.com/dwaynewills)
 - [Tripti Nayak](https://github.com/trip19)
 - [Peter Staker](https://github.com/peterjast)
 - [Gokul Balaji](https://github.com/gokulBalaG)
