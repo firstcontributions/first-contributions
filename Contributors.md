@@ -5,6 +5,7 @@
 - [Stone](https://github.com/Dongdong-Shi)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
   [sktht](https://github.com/sktht)
+  [Abhay Pratap Singh](https://github.com/abhay97ps)
 - [raishaasuma](https://github.com/raishaasuma)
 - [Nirmayi Kelkar](https://github.com/nimukelkar)
 - [Vishal Chopra](https://github.com/pythonvishal)
