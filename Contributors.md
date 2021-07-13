@@ -9981,6 +9981,7 @@ Yury Smyslov
 - [HakaCode](https://github.com/HakaCode)
 - amin-da
 - [James Ledger](https://github.com/JamesLedger)
+- [Fabio Monte] (https://github.com/FabioM82)
 - [steelslugs](https://github.com/steelslugs)
 - [Lane Moseley](https://www.lanemoseley.dev)
 - [Dhruval Patel](https://github.com/D-U-Patel)
