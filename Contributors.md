@@ -1,4 +1,4 @@
-	# Contributors
+﻿	# Contributors
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
@@ -7377,6 +7377,7 @@ Yury Smyslov
 - [Neagu](https://github.com/brijing)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Samuel Sandoval](https://github.com/samuelsandoval1)
+- [Fahad Hussain] (https://github.com/fahad-dev)
 - [Michael King](https://github.com/michaelking178)
 - [Heith Robbins](https://github.com/HeithRobbins)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
