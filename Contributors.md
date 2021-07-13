@@ -91,6 +91,7 @@ Mohit Bhobariya
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Pushpak Prateek] (https://github.com/psk001)
 - [Kritika Bansal](https://github.com/kritika31-10)
+-[Anushk Srivastav](https://github.com/anushk-srivastav)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [HMS](https://github.com/MgPone)
   [Anca Puscasu](https://github.com/ancapuscasu)
