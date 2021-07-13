@@ -13,6 +13,7 @@
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Nasreddine Yakhou] (https://github.com/nasroykh) 
 - [Guli]
+- [Inderjeet Singh](https://github.com/Inderjeet670)
 - [Esoj](https://github.com/ESOJ74)
 - [Cathy Chou] (cathy-first-contributions)
 - [Daniel Vasquez](https://github.com/cruzavas)
