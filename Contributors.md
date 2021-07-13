@@ -54,6 +54,7 @@ Mohit Bhobariya
 - [Neil Ryan] (https://github.com/nilryan)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
+- [Belal Uddin](https://github.com/Belal-uddin)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
