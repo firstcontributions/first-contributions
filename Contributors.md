@@ -6597,6 +6597,7 @@ Yury Smyslov
 - [Seyfettin Yıldırım](https://github.com/seyfettinyildirim)
 - [David Sykes](https://github.com/davidjsykes)
 - Winston6079
+- [Ruben Naudts](https://github.com/NaudtsRuben)
 - [Pallav Jain](https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
 - [Shubham Hadake](https://github.com/Shubham714)
