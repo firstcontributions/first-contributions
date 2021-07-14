@@ -21,6 +21,7 @@
 - [Inderjeet Singh](https://github.com/Inderjeet670)
 - [Esoj](https://github.com/ESOJ74)
 - [Cathy Chou] (cathy-first-contributions)
+  [Artem Chekin](https://github.com/art-ch)
 - [Daniel Vasquez](https://github.com/cruzavas)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
