@@ -6185,6 +6185,7 @@ Yury Smyslov
 - [Yatharth Taneja](https://github.com/yatharthtaneja)
 - [Zachary King](https://github.com/lax0248917)
 - [Akash Ilangovan](https://github.com/akashilangovan)
+- [Clément Roig](https://github.com/clm-roig)
 - [Aarushi](https://github.com/xxx32)
 - [Laura Webber](https://github.com/lwebber)
 - [Robert Clarke](https://github.com/RobertClarke64)
