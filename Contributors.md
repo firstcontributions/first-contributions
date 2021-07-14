@@ -108,6 +108,7 @@ Mohit Bhobariya
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
+- [Amrit Kafle](https://github.com/Kaphleamrit)
 - [Srinu Rachakonda](https://github.com/Srinu126)
 - [Myo Myat Min](https://github.com/MyoMyatMin)
 - [Kresmon Dev](https://github.com/KresmonDev)
