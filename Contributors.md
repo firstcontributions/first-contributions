@@ -565,6 +565,7 @@ Sakshi Bansal
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Karandeep Singh Sehgal](https://github.com/karandeeppotato)
 - [Lucky Makau](https://https://github.com/makaulucky)
+- [Sam Frampton](https://github.com/samframpton)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [Lakshya Chandrakar](https://github.com/Lakshyaaa)
