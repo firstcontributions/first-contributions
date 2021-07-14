@@ -58,6 +58,7 @@ Mohit Bhobariya
 - [G. Trottier](https://github.com/gtrottier)
 - [Jmac](https://github.com/Git-Jmac)
 - [Imran Mirza](https://github.com/imran-mirza79)
+- [Prajesh Pradhan](https://github.com/prajeshpradhan)
 - [IK](https://github.com/Ingyin-Khin)
 - [Nissrine Hnainia] (https://github.com/Nissrine-Hnainia)
 - [Neil Ryan] (https://github.com/nilryan)
