@@ -37,6 +37,7 @@ Mohit Bhobariya
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
+- [Cîrja David](https://github.com/ZackTK)
 - [DeepikaUcil] (https://github.com/UchilDeepika)
 - [Tony Son](https://github.com/TonySonYJ)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
