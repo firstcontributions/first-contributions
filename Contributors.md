@@ -1,10 +1,11 @@
-    # Contributors
-
+  # Contributors
+  [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Stone](https://github.com/Dongdong-Shi)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
   [sktht](https://github.com/sktht)
+  [Abhay Pratap Singh](https://github.com/abhay97ps)
 - [raishaasuma](https://github.com/raishaasuma)
 - [Nirmayi Kelkar](https://github.com/nimukelkar)
 - [Vishal Chopra](https://github.com/pythonvishal)
@@ -14,6 +15,7 @@
 - [Kyle Ramsay] (https://github.com/KyRams)
 - [Nasreddine Yakhou] (https://github.com/nasroykh)
 - [Guli]
+- [Inderjeet Singh](https://github.com/Inderjeet670)
 - [Esoj](https://github.com/ESOJ74)
 - [Cathy Chou] (cathy-first-contributions)
 - [Daniel Vasquez](https://github.com/cruzavas)
@@ -23,13 +25,16 @@
 - [shunbin](https://github.com/yshunbin)
 - [Arti] -[Ahetesham](https://github.com/Ahete007)
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
-  Mohit Bhobariya
+- [Mehmet Arslan](https://github.com/maliarslan)
+Mohit Bhobariya
 - [Abhyudaya Avasthi](https://github.com/avasthiabhyudaya)
 - [Ivette]
+- [Krunal Dubey] (https://github.com/krunal70/)
 - [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
+- [Tony Son](https://github.com/TonySonYJ)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
 - [Shivangi Agarwal](https://github.com/shivangi14)
@@ -52,7 +57,8 @@
 - [Neil Ryan] (https://github.com/nilryan)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [gvelasque](https://github.com/gvelasque)
-- [Isabelle Cristine](https://github.com/IsabelleCrispim)
+- [Belal Uddin](https://github.com/Belal-uddin)
+- [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
 - [Hanshul Chandel](https://github.com/hanshulll)
@@ -88,6 +94,7 @@
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Pushpak Prateek] (https://github.com/psk001)
 - [Kritika Bansal](https://github.com/kritika31-10)
+-[Anushk Srivastav](https://github.com/anushk-srivastav)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [HMS](https://github.com/MgPone)
   [Anca Puscasu](https://github.com/ancapuscasu)
@@ -113,6 +120,7 @@
 - [Vivek Verma] (https://github.com/vermavivek951)
 - [ThomasRainford](https://github.com/ThomasRainford)
 - Sebastian Fina
+- [George Rahul](https://github.com/georgerahul24)
 - [Stephan Allen](https://github.com/sallen2)
 - [vishwa](https://github.com/vishwan454)
 - [Tlou Lebelo](https://github.com/Kgatishi)
@@ -647,6 +655,7 @@ elkhechafi zakaria
 - [Deedee Banh](https://github.com/deedeebanh)
 - [Aman Chawla](https://github.com/AmanChawla7777)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
+- [Umang Agarwal](https://github.com/umang345)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Eman Amassi] (https://github.com/emanNahed)
@@ -6355,6 +6364,7 @@ elkhechafi zakaria
 - [Seyfettin Yıldırım](https://github.com/seyfettinyildirim)
 - [David Sykes](https://github.com/davidjsykes)
 - Winston6079
+- [Ruben Naudts](https://github.com/NaudtsRuben)
 - [Pallav Jain](https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
 - [Shubham Hadake](https://github.com/Shubham714)
@@ -9735,6 +9745,7 @@ elkhechafi zakaria
 - [HakaCode](https://github.com/HakaCode)
 - amin-da
 - [James Ledger](https://github.com/JamesLedger)
+- [Fabio Monte] (https://github.com/FabioM82)
 - [steelslugs](https://github.com/steelslugs)
 - [Lane Moseley](https://www.lanemoseley.dev)
 - [Dhruval Patel](https://github.com/D-U-Patel)
@@ -12326,6 +12337,7 @@ sam_namiranian
 - [Zhugy08](https://github.com/zhugy08)
 - [Zalene](https://github.com/Zalene)
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
+- [Sathishkumar Manogaran](https://github.com/sathishkumar-manogaran)
 - [Max Kasprzik] (https://github.com/maxUser)
 - [Vchsi] (https://github.com/vchsi)
 - [srinathdevinfo] (https://github.com/srinathdevinfo)
@@ -12333,3 +12345,5 @@ sam_namiranian
 - [Gabriel FLeury] (https://github.com/ga-fleury)
 - [Kohei Wada](https://githbu.com/Kohei-Wada)
 - [Denis Nica](https://github.com/denis-nica)
+- [Prabal Rawal](https://github.com/prabal-rawal)
+- [Andrew Baughman](https://github.com/andrewbaughman)
