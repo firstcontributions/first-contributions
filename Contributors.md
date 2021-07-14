@@ -25,6 +25,7 @@
 - [bdarab](https://github.com/bdarab)
 - [shunbin](https://github.com/yshunbin)
 - [Arti]
+- [Bikki Mahato](https://github.com/bikkimahato)
 -[Ahetesham](https://github.com/Ahete007)
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
 - [Mehmet Arslan](https://github.com/maliarslan)
