@@ -163,6 +163,7 @@ Mohit Bhobariya
 - [Tripti Nayak](https://github.com/trip19)
 - [Peter Staker](https://github.com/peterjast)
 - [Gokul Balaji](https://github.com/gokulBalaG)
+- [Shruti Shetty](https://github.com/ShrutiShetty10)
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
