@@ -26,7 +26,7 @@
 - [shunbin](https://github.com/yshunbin)
 - [Arti]
 - [Bikki Mahato](https://github.com/bikkimahato)
--[Ahetesham](https://github.com/Ahete007)
+- [Ahetesham](https://github.com/Ahete007)
 - [Jennifer Rosa](https://github.com/rosajen27) 🥳
 - [Mehmet Arslan](https://github.com/maliarslan)
 Mohit Bhobariya
@@ -74,6 +74,7 @@ Mohit Bhobariya
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Albert Karwur](https://github.com/tonaaskarwur)
 - [Anas Yaseen](https://github.com/anasomar1)
+- [Kevin Kwon](https://github.com/realkevinkwon)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
 - Harsh Patel 
   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
