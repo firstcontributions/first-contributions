@@ -1,4 +1,5 @@
 	# Contributors
+  [Hamza Mouzakki](https://github.com/hamzaMouzakki)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
