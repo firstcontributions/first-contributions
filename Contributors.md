@@ -1076,6 +1076,7 @@ elkhechafi zakaria
 - Miguel MI
 - [Eric Shin](https://github.com/lvaka)
 - [Daman Arora](https://github.com/Damans227/)
+- [Yashpreet Kaur](https://github.com/DamYash)
 - [Olga K](https://github.com/olgak169/)
 - [Zhi King](https://github.com/zyj1022)
 - [keijop](https://github.com/keijop)
