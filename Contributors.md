@@ -1,5 +1,5 @@
 	# Contributors
-- [Sergey Kabanov](https://github.com/kabser)
+- [Sergey Kabanov] (https://github.com/kabser)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
