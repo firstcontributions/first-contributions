@@ -241,6 +241,7 @@ khelafiSifeddine
 - [Hayzr] (https://github.com/hayzr)
 - [Truong Tuan](https://github.com/truongvantuan)
 - [Nikhil Shenoy](https://github.com/shenoyyolo)
+- [Jiming Song](https://github.com/jimingso)
 - [Daniel](https://github.com/daniel-bf)
 Achal Mukaty
 - [wastech](https://github.com/wastech)
