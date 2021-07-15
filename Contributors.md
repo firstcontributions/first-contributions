@@ -24,6 +24,7 @@
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Nasreddine Yakhou] (https://github.com/nasroykh) 
 - [Guli]
+- [Brandon Herrera](https://github.com/brandonhxrr)
 - [that1solodev](https://github.com/Xyno18)
 - [Hotzenwalder] (https://github.com/hotzenwalder)
 - [Inderjeet Singh](https://github.com/Inderjeet670)
