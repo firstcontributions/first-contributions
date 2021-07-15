@@ -10,6 +10,7 @@
   [Abhay Pratap Singh](https://github.com/abhay97ps)
 - [raishaasuma](https://github.com/raishaasuma)
 - [Suyash Patel](https://github.com/iamsuyashpatel07)
+- [anicet kemedjio kenlefak](https://github.com/kemedjio/first-contributions)
   [Alonso Galindo](https://github.com/alggalin)
 - [Mohd. Yahya](https://github.com/yahya-cloud)
 - [Nirmayi Kelkar](https://github.com/nimukelkar)
