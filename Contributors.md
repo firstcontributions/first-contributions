@@ -118,6 +118,7 @@ Mohit Bhobariya
 - [Mika S.](https://github.com/MikaStrait)
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
+- [MarosJev]
 - [Pushpak Prateek] (https://github.com/psk001)
 - [Kritika Bansal](https://github.com/kritika31-10)
 -[Anushk Srivastav](https://github.com/anushk-srivastav)
