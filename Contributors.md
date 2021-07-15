@@ -72,6 +72,7 @@ Mohit Bhobariya
 - [Belal Uddin](https://github.com/Belal-uddin)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Guilherme Peixoto](https://github.com/guipeixoto)
+- [Shubhushan Kattel](https://github.com/skattel49)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
 - [Hanshul Chandel](https://github.com/hanshulll)
 - [Eric Neves](https://github.com/ericneves)
