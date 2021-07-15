@@ -334,6 +334,7 @@ Achal Mukaty
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Nicolas Vandenbruaene](https://github.com/NV83-GitHub)
 - [Gourav Ojha](https://github.com/gouravojha)
+- [Kedam Karthik](https://github.com/Karthik781)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
 - [uday kalyan] (https://github.com/coder11235)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
