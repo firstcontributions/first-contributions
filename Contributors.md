@@ -76,6 +76,7 @@ Mohit Bhobariya
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Shubhushan Kattel](https://github.com/skattel49)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
+- [Przemysław Tracz](https://github.com/przmktrc) 
 - [Hanshul Chandel](https://github.com/hanshulll)
 - [Eric Neves](https://github.com/ericneves)
 - [Surajit Mondal](https://github.com/Surajit10)
