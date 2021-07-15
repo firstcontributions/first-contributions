@@ -73,6 +73,7 @@ Mohit Bhobariya
 - [gvelasque](https://github.com/gvelasque)
 - [Belal Uddin](https://github.com/Belal-uddin)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
+- [Arnaud Depierreux](https://github.com/arnaud-eb)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Shubhushan Kattel](https://github.com/skattel49)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
