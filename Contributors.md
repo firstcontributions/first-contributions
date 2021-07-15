@@ -10237,6 +10237,7 @@ Yury Smyslov
 - [Soumya Satheesan](https://github.com/soumya225)
 - [Pavan Vinnakota](https://github.com/pavan5555)
 - [Nins3i](https://github.com/nins3i)
+- [Aditi Goyal](https://github.com/AditiGoyal05)
 - [Chris M.](https://github.com/HillbillyZT/)
 - [Shishir Chauhan](https://github.com/Shisir99/)
 - [Evan Henderson.](https://github.com/EvanHendersonRichtByte/)
