@@ -342,6 +342,7 @@ Achal Mukaty
 - [Michael Michael](https://github.com/ntirinigaSr)
 - [Abdul Majid](https://github.com/majidabdulred)
 - [Sis Aung](https://github.com/sisaung)
+- [Salman Patel](https://github.com/mdsalman991)
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Nicolas Vandenbruaene](https://github.com/NV83-GitHub)
 - [Gourav Ojha](https://github.com/gouravojha)
