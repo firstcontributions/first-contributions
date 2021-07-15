@@ -37,6 +37,7 @@
 Mohit Bhobariya
 - [Abhyudaya Avasthi](https://github.com/avasthiabhyudaya)
 - [Ivette]
+- [Ajay Yadav] (https://github.com/ajju10/)
 - [Krunal Dubey] (https://github.com/krunal70/)
 - [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
