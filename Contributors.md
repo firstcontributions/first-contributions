@@ -1108,6 +1108,7 @@ elkhechafi zakaria
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
 - [Richard Valvona](https://github.com/RichardValvonaUK)
 - [Toihir Halim](https://github.com/toihirhalim)
+- [Don Wang](https://github.com/don-wang)
 - [Shreyas Poojari](https://github.com/ShreyasP7/first-contributions.git)
 - [Aman Kumar Singh](https://github.com/amankrsnh)
 - [Mohamed Emad](https://github.com/iMezemz)
