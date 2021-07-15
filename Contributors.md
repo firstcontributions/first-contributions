@@ -11,6 +11,7 @@
 - [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
+- [Sandip Kole] (https://github.com/maihunsandip)
 - [mrranger](https://github.com/mrranger)
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Nasreddine Yakhou] (https://github.com/nasroykh) 
