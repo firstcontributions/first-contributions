@@ -43,6 +43,7 @@ Mohit Bhobariya
 - [Krunal Dubey] (https://github.com/krunal70/)
 - [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
+- [Alex Mayorga](https://github.com/Athwen)
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
 - [Cîrja David](https://github.com/ZackTK)
