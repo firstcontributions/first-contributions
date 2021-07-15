@@ -155,6 +155,7 @@ Mohit Bhobariya
 - [Kat Marsteller](https://github.com/kdm423)
 - [Aryan Khera](https://github.com/aryankhera)
 - [Hubert Życiński](https://github.com/Sniqs)
+- [Jadwin Lin](https://github.com/JadwinL12)
 - [Evan Chambers](https://github.com/EChamb1021)
 - [Fran Bejarano](https://github.com/FranBejarano)
 - [Johnny Zheng](https://github.com/yzhe819)💖
