@@ -12020,6 +12020,7 @@ sam_namiranian
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Vacoder !!]
 - [Brock Henry](https://github.com/entropical)
+- [Jim Chen](https://github.com/skymarkC)
 - [Nick Haralampopoulos](https://github.com/macnick)
 - [keunbum](https://github.com/keunbum)
 - [sparshiigupta](https://github.com/sparshiigupta)
