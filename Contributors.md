@@ -24,6 +24,7 @@
 - [mrranger](https://github.com/mrranger)
 - [Ujesh nada](https://github.com/ujass)
 - [Thoshinny](https://github.com/Thoshinny-cyber)
+- [Charvi J](https://github.com/charvijindal)
 - [Kiran Karadia] (https://github.com/Kiran-Karadia) :)
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Nasreddine Yakhou] (https://github.com/nasroykh) 
