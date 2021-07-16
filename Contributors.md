@@ -2,6 +2,7 @@
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
   [Ashish Tom](https://github.com/alceil)
+  [Luke Yin] (https://github.com/luke-yin)
   [Parul G] (https://github.com/parulgo7)
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
