@@ -100,6 +100,7 @@ Mohit Bhobariya
 - [Hanshul Chandel](https://github.com/hanshulll)
 - [Eric Neves](https://github.com/ericneves)
 - [Surajit Mondal](https://github.com/Surajit10)
+- [Kayla M](https://github.com/kaynmay)
 - [Daniel Grieco](https://github.com/night-owl-official)
 - [Michael Nelson](https://github.com/michael54nelson)
 - [Marcos Vinicius](https://github.com/marcos-inja)
