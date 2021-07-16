@@ -31,6 +31,7 @@
 - [Guli]
 - [Brandon Herrera](https://github.com/brandonhxrr)
 - [that1solodev](https://github.com/Xyno18)
+- [Luis Ubieda](https://github.com/ubieda)
 - [Hotzenwalder] (https://github.com/hotzenwalder)
 - [Inderjeet Singh](https://github.com/Inderjeet670)
 - [Esoj](https://github.com/ESOJ74)
