@@ -8426,6 +8426,7 @@ Yury Smyslov
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
 - [HKA](https://github.com/hariharankabc)
 - [Kartik Singh]
+- [Umang Sawaria](https://github.com/us1998)
 - [Andres Hernandez](https://github.com/Thunderbolt2010)
 - [Ahmed Ragab](https://github.com/ahmedrgb1)
 - [Chen Wang](https://github.com/ChenMetanoia)
