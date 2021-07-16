@@ -31,6 +31,7 @@
 - [Guli]
 - [Brandon Herrera](https://github.com/brandonhxrr)
 - [that1solodev](https://github.com/Xyno18)
+- [Luis Ubieda](https://github.com/ubieda)
 - [Hotzenwalder] (https://github.com/hotzenwalder)
 - [Inderjeet Singh](https://github.com/Inderjeet670)
 - [Esoj](https://github.com/ESOJ74)
@@ -75,6 +76,7 @@ Mohit Bhobariya
 - [Anupam Bhakta](https://github.com/Ae-bii)
 - [Anutosh Bhat](https://github.com/anutosh491)
 - [Injamul Mohammad Mollah](https://github.com/mrinjamul)
+- [Rohit Vartak](https://github.com/Rohit01-zoey)
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [G. Trottier](https://github.com/gtrottier)
@@ -11994,6 +11996,7 @@ Daniel Mikes
 - ppeloton
 - [VcelistMC](https://github.com/VcelistMC)
 - [CZ](https://github.com/666lcz)
+- [Rk](https://github.com/Rudrak3)
 - [Jeffrey Kwan](https://github.com/jeffreykmc)
 - [MMI](https://github.com/mariamm20)
 - [Match_yc](https://github.com/symphony233)
@@ -12661,4 +12664,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Sarah M Standish](https://github.com/sarahstandish)
 - [Tarou Shota](https://github.com/TarouShota)
 - [MengXiangYun](https://github.com/mengxianun)
-- [Rk](https://github.com/Rudrak3)
+
