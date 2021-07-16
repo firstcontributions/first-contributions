@@ -11,6 +11,7 @@
 - [EYoa](https://github.com/eyoa)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23) 
   [sktht](https://github.com/sktht)
+  [Mikhail Govender]
   [Abhay Pratap Singh](https://github.com/abhay97ps)
 - [raishaasuma](https://github.com/raishaasuma)
 - [Suyash Patel](https://github.com/iamsuyashpatel07)
