@@ -73,6 +73,7 @@ Mohit Bhobariya
 - [Jabril Gray](https://github.com/JGray3507)
 - [Anupam Bhakta](https://github.com/Ae-bii)
 - [Anutosh Bhat](https://github.com/anutosh491)
+- [Injamul Mohammad Mollah](https://github.com/mrinjamul)
 - [Gokul J Kurup](https://github.com/madrigal1)
 - [Gabriel Bittencourt](https://github.com/gabrlcj)
 - [G. Trottier](https://github.com/gtrottier)
