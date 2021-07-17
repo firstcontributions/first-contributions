@@ -10,7 +10,8 @@
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Stone](https://github.com/Dongdong-Shi)
 - [EYoa](https://github.com/eyoa)
-- [Omkar Gaikwad](https://github.com/omkargaikwad-23) 
+- [Omkar Gaikwad](https://github.com/omkargaikwad-23)
+- [Alvin Lin](https://github.com/Chase78712002) 
   [sktht](https://github.com/sktht)
   [Mikhail Govender]
   [Abhay Pratap Singh](https://github.com/abhay97ps)
