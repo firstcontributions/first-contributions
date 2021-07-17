@@ -3902,6 +3902,7 @@ Aman S
 - [Denny Thomas Varghese](https://github.com/d3ncity)
 - [Douglas Smith](https://github.com/McDoogen)
 - [Christina](https://github.com/cjaiello)
+- [Anna Malinovskaia](https://github.com/tacitcoast)
 - [Vino Ram](https://github.com/vino83)
 - [Mahnoor Fatima](https://github.com/Mahnoor123-Fatima)
 - [Jason Stone](https://github.com/jstonedev)
