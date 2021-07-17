@@ -45,7 +45,7 @@ Kwa mfano:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-wapi `this-is-you` jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
+wapi `this-is-you` jina lako la mtumiaji GitHub kama vile [https://github.com/InnocentWahome]-- Jina lako liweke pale ambapo InnocentWahome imeandikwa. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
 ## Unda tawi
 
