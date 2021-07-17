@@ -20,6 +20,7 @@
 - [Suyash Patel](https://github.com/iamsuyashpatel07)
   [Alonso Galindo](https://github.com/alggalin)
 - [Mohd. Yahya](https://github.com/yahya-cloud)
+- [Naveed khan](https://github.com/navkuun)
 - [Nirmayi Kelkar](https://github.com/nimukelkar)
 - [Jesse Thompson](https://github.com/thje111)
 - [Vishal Chopra](https://github.com/pythonvishal)
