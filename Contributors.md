@@ -7019,6 +7019,7 @@ Yury Smyslov
 - [Aastha Panta](https://github.com/AasthaPanta)
 - [Leandro B](https://github.com/lerbal7)
 - [JJ Cheng](https://github.com/jchengjr77)
+- [Devansh Yadav](https://github.com/devansh-yadav)
 - [Oyindamola Olatunji](https://github.com/ikeadeoyin)
 - [Kristin Grue](https://github.com/thorgerd)
 - [Harprit Singh Chhabada](https://github.com/hchhabada)
