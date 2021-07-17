@@ -1,6 +1,7 @@
 	# Contributors
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
+- [Philip Lee](https://github.com/philiplee13)
   [Ashish Tom](https://github.com/alceil)
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [Luke Yin] (https://github.com/luke-yin)
