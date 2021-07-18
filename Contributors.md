@@ -8159,6 +8159,7 @@ Yury Smyslov
 - [Yosif Genchev](https://github.com/yosifgenchev)
 - [Shivam Rathore](https://github.com/rathore05)
 - [Alex Florides](https://github.com/Alexf97)
+- [QW Chua](https://github.com/qingwen23)
 - [Amanda B](https://github.com/critterconvention)
 - [Jonathan Nation](https://github.com/Jon-Nation)
 - [Rayson Lim](https://github.com/nosyarlin)
