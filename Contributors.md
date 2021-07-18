@@ -316,6 +316,7 @@ Mohit Bhobariya
 -Tarun Mishra
 Goddness
 -[KalidasVijayBhak](https://github.com/KalidasVijaybhak)
+- [Shyaka Tresor](https://github.com/shyakadev)
 -[Muhammed Alaa Kanzari](https://github.com/Muhammed-Alaa-Kanzari)
 -[MMS](https://github.com/MoeMoeSan)
 -[fede977](https://github.com/fede977)
