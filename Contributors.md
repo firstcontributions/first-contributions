@@ -124,6 +124,7 @@ Mohit Bhobariya
 - [ATK](https://github.com/aungthinnko)
 - Jason Gaglione
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
+- [Evans Onyango ]
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
 - [Joel Aviles](https://github.com/Appithe)
 - [Alok Mahalka](https://github.com/AlokMahalka)
