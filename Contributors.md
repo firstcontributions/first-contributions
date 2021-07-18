@@ -269,6 +269,7 @@ Mohit Bhobariya
 - [NHA](https://github.com/the-nine-creation)
 - [SHA](https://github.com/SwannHtetAungss)
 - [Nathn-G](https://github.com/Nathn-G)
+- [Zied Nasri] (https://github.com/zied777)
 - [Bartosz Raubo](https://github.com/qxcross)
 - [Dennise Chavez](https://github.com/dennisechavez)
 - [Phalguni Wankhade](https://github.com/PhalguniWankhade)
