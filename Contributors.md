@@ -12,6 +12,7 @@
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Stone](https://github.com/Dongdong-Shi)
 - [VISHNU](https://github.com/VISHNU)
+  [Roshan Rasal](https://github.com/Rosh3639)
 - [EYoa](https://github.com/eyoa)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
 - [Alvin Lin](https://github.com/Chase78712002) 
