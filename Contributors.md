@@ -16,6 +16,7 @@
   [Roshan Rasal](https://github.com/Rosh3639)
 - [EYoa](https://github.com/eyoa)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
+- [Sanchit Kripalani](https://github.com/sanchitkripalani47)
 - [Alvin Lin](https://github.com/Chase78712002) 
   [sktht](https://github.com/sktht)
 - [sertsev](https://github.com/sertsev)
