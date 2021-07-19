@@ -24,6 +24,7 @@
   [sktht](https://github.com/sktht)
 - [sertsev](https://github.com/sertsev)
   [Mikhail Govender]
+- [Mohit Deshpande]
   [Abhay Pratap Singh](https://github.com/abhay97ps)
 - [raishaasuma](https://github.com/raishaasuma)
 - [Suyash Patel](https://github.com/iamsuyashpatel07)
