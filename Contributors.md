@@ -11,6 +11,7 @@
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
+- [Javier Ale](https://github.com/JavierAgustinAle)
 - [Fatih Arslan](https://github.com/fatiharslanedu)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Stone](https://github.com/Dongdong-Shi)
