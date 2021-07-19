@@ -122,6 +122,7 @@ Mohit Bhobariya
 - [Usama Errijahi](https://github.com/errijahi)
 - Harsh Patel 
   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
+-  [Jared Mason] (https://github.com/JEMason71)
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [Aman Singh](https://github.com/amansingh1912)
 - [ATK](https://github.com/aungthinnko)
