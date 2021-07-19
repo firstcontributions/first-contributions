@@ -1,4 +1,5 @@
 	# Contributors
+- [Arian Izadi](https://github.com/arianizadi)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
