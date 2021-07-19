@@ -13,6 +13,7 @@
 - [Abishka](https://github.com/abishka)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Stone](https://github.com/Dongdong-Shi)
+- [Dylan Du](https://github.com/dylangit01)
 - [VISHNU](https://github.com/VISHNU)
 - [Francesco Villano] (https://github.com/franzvill)
   [Roshan Rasal](https://github.com/Rosh3639)
