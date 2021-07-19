@@ -1,7 +1,7 @@
 	# Contributors
 - [Rahul Dev Sharma](https://github.com/rahulsust)
-- [HassanBahati](https://github.com/HassanBahati)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
+- [HassanBahati](https://github.com/HassanBahati)
   [Ashish Tom](https://github.com/alceil)
   [Parul G] (https://github.com/parulgo7)
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
