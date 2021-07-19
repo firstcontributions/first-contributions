@@ -84,6 +84,7 @@ Mohit Bhobariya
 - [Charly Finos](https://github.com/charlyfinos)
 - [Shivangi Agarwal](https://github.com/shivangi14)
 - [Dylan](https://github.com/BobDiggity)
+- [Sunil Shastry](https://github.com/sunillshastry)
 - [Rya Sanovar](https://github.com/Rya-Sanovar)
 - [suhail34](https://github.com/suhail34)
 - [Shubham Singh Bohra](https://github.com/SSB2000)
