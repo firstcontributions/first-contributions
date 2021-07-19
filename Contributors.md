@@ -392,6 +392,7 @@ Achal Mukaty
 - [uday kalyan] (https://github.com/coder11235)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [Samir Mishra](https://github.com/smir45)
+- [Michael Abrams](https://github.com/MichaelWayne83)
 - [Michael W](https://github.com/mwall-dev)
 - [winsalva](https://github.com/winsalva)
 - [Alex Gulikers](https://github.com/yayorbitgum)
