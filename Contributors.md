@@ -3,6 +3,7 @@
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
 - [Philip Lee](https://github.com/philiplee13)
   [Ashish Tom](https://github.com/alceil)
+  [Kyle Jacobs](https://github.com/Sunswine)
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [Luke Yin] (https://github.com/luke-yin)
   [Parul G] (https://github.com/parulgo7)
