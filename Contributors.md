@@ -275,6 +275,7 @@ Mohit Bhobariya
 - [Nikhil Sathisha](https://github.com/NikhilSathisha)
 - [Rahul Dhankhar](https://github.com/dhankhar313)
 - [Minciuna Cezar](https://github.com/CezarMin)
+- [Xiaoyi Liu](https://github.com/lxy878)
 - [Kozak](https://github.com/kozak325)
 - [Vansh Sharma](https://github.com/VanshSh)
 - [Altynbek](https://github.com/usenbekov)
