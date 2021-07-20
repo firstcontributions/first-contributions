@@ -77,6 +77,7 @@ Mohit Bhobariya
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Alex Mayorga](https://github.com/Athwen)
 - [Lestly](https://github.com/Lestlyy)
+- [rahul](https://github.com/rahul6975)
 - [saitgulmez](https://github.com/saitgulmez)
 - [Cîrja David](https://github.com/ZackTK)
 - [Deborah Ong](https://github.com/Debiday)
