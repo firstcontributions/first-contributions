@@ -52,6 +52,7 @@
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Nasreddine Yakhou] (https://github.com/nasroykh) 
 - [Guli]
+- [Geert-Jan Knapen](https://github.com/geertjanknapen1)
 - [Brandon Herrera](https://github.com/brandonhxrr)
 - [that1solodev](https://github.com/Xyno18)
 - [Luis Ubieda](https://github.com/ubieda)
