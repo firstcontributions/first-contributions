@@ -24,6 +24,7 @@
 - [EYoa](https://github.com/eyoa)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
 - [Sanchit Kripalani](https://github.com/sanchitkripalani47)
+- [Pushkar Jain](https://github.com/PushkarRJain)
 - [Alvin Lin](https://github.com/Chase78712002) 
   [sktht](https://github.com/sktht)
 - [sertsev](https://github.com/sertsev)
