@@ -3,6 +3,7 @@
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
 - [Philip Lee](https://github.com/philiplee13)
+  [Charles Kasasira](https://github.com/charleskasasira)
   [Ashish Tom](https://github.com/alceil)
   [Kyle Jacobs](https://github.com/Sunswine)
   [Safyan Yaqoob](https://github.com/safyan-developer)
