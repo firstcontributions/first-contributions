@@ -85,6 +85,7 @@ Mohit Bhobariya
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
 - [Cîrja David](https://github.com/ZackTK)
+- [Juan Millord](https://github.com/millord)
 - [Deborah Ong](https://github.com/Debiday)
 - [DeepikaUcil] (https://github.com/UchilDeepika)
 - [Tony Son](https://github.com/TonySonYJ)
