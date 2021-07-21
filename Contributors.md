@@ -3299,6 +3299,7 @@ Aman S
 - [Qasim Khan](https://github.com/QasimKhan5x)
 - Roxanne Dewing
 - [Utkarsh Agarwal](https://github.com/UtkarshA135)
+- [Sospeter Wainaina](https://github.com/sospeter-wainaina)
 - [Neha Koppikar](https://github.com/NehaKoppikar)
 - [Priyankesh Raj](https://github.com/PriyankeshRaj)
 - [Jonathan Wheeler](https://github.com/jwheeler27)
