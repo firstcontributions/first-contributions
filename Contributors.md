@@ -6,6 +6,7 @@
 - [Adithya LK](https://github.com/adilk0728)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
+- [Thosan Girisona S](https://github.com/blankon123)
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   [Ashish Tom](https://github.com/alceil)
