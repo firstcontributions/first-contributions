@@ -2,6 +2,7 @@
 - [Arian Izadi](https://github.com/arianizadi)
 [SSW](https://github.com/SuSandiWin)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
+- [Adithya LK](https://github.com/adilk0728)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
 - [Philip Lee](https://github.com/philiplee13)
