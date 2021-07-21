@@ -1,6 +1,7 @@
 	# Contributors
 - [Arian Izadi](https://github.com/arianizadi)
 [SSW](https://github.com/SuSandiWin)
+- [Deboshruti Banerji](https://github.com/dbanerji)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Adithya LK](https://github.com/adilk0728)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
