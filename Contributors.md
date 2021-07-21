@@ -11284,6 +11284,7 @@ Yury Smyslov
 - [THICCGFIELD](https://github.com/THICCGFIELD/)
 - Kevin
 - [Taha Rehah](https://github.com/taharh)
+- [Dominic Noble] (https://github.com/snowy1256)
 - [Thomas Wu](https://github.com/Spectrumlitez)
 - [Yogi Sarumaha](https://github.com/sarumaha)
 - [Daniel Tran](https://github.com/polyomi)
