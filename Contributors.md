@@ -4,6 +4,7 @@
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
 - [Dylan](https://github.com/BobDiggity)
+- [Rafael Gama](https://github.com/RaphaelGC7)
 - [Rya Sanovar](https://github.com/Rya-Sanovar)
 - [Janhavi Pimplikar](https://github.com/Janhavi-2001)
 - [zhuhu00](https://github.com/zhuhu00)
