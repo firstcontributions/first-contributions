@@ -1,6 +1,7 @@
 	# Contributors
 - [Arian Izadi](https://github.com/arianizadi)
 [SSW](https://github.com/SuSandiWin)
+- [Deboshruti Banerji](https://github.com/dbanerji)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
