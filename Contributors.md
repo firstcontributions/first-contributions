@@ -812,6 +812,7 @@ Akshit Agarwal
 -[Muhammed Rahif](https://github.com/Muhammed-Rahif)
 -[Sparsh Bohra] (https://github.com/SparshBohra)
 -[Saksham Gupta] (https://github.com/Saksham2311)
+-[Griffin Lee] (https://github.com/GriffithCode)
 -[Waqar Khatana](https://github.com/WaqarKhatana220)
 -[Biraj Khatiwada](https://github.com/birajkhatiwada)
 -[Nicole Ferry](https://github.com/NicoleFerry/)
