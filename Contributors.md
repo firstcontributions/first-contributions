@@ -10,6 +10,7 @@
   [Kyle Jacobs](https://github.com/Sunswine)
 - [Pemson](https://github.com/Pemson18)
   [Safyan Yaqoob](https://github.com/safyan-developer)
+  [emachado](https://github.com/ErickMachado95) 
   [Luke Yin] (https://github.com/luke-yin)
   [Parul G] (https://github.com/parulgo7)
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
