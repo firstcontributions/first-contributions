@@ -23,6 +23,7 @@
 - [lomna2008](https://github.com/lomna2008)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Stone](https://github.com/Dongdong-Shi)
+  [Kyle Brooks](https://github.com/wbrooks8)
 - [Dylan Du](https://github.com/dylangit01)
 - [VISHNU](https://github.com/VISHNU)
 - [Francesco Villano] (https://github.com/franzvill)
