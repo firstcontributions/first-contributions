@@ -49,6 +49,9 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
+## Examples
+18-F-cali
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
