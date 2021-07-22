@@ -182,6 +182,7 @@ Mohit Bhobariya
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [MarosJev]
+- [Marcus Harrison](https://github.com/arcyopterix)
 - [Mario Nan](https://github.com/DevMarioNan)
 - [Pushpak Prateek] (https://github.com/psk001)
 - [Kritika Bansal](https://github.com/kritika31-10)
