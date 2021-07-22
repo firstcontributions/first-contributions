@@ -255,6 +255,7 @@ Mohit Bhobariya
 - [Peter Staker](https://github.com/peterjast)
 - [Gokul Balaji](https://github.com/gokulBalaG)
 - [Shruti Shetty](https://github.com/ShrutiShetty10)
+- [Gaurav Bansal](https://github.com//gauravb28)
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
