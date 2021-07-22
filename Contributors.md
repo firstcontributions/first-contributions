@@ -1,11 +1,12 @@
 ﻿    # Contributors
 
 - [Arian Izadi](https://github.com/arianizadi)
-  [SSW](https://github.com/SuSandiWin)
+- [SSW](https://github.com/SuSandiWin)
 - [Deboshruti Banerji](https://github.com/dbanerji)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Adithya LK](https://github.com/adilk0728)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
+- [Elliott Belle](https://github.com/Elliott-Chong)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Thosan Girisona S](https://github.com/blankon123)
@@ -13,6 +14,7 @@
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
   [Ashish Tom](https://github.com/alceil)
+  [Cma](https://github.com/cma124)
   [Kyle Jacobs](https://github.com/Sunswine)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
@@ -31,6 +33,7 @@
 - [Induri Deepthi](https://github.com/deepthiinduri)
 - [Stone](https://github.com/Dongdong-Shi)
   [Kyle Brooks](https://github.com/wbrooks8)
+  [Khin Ma Thaw](https://github.com/khinmamathaw-mit)
 - [Dylan Du](https://github.com/dylangit01)
 - [VISHNU](https://github.com/VISHNU)
 - [Francesco Villano] (https://github.com/franzvill)
@@ -136,6 +139,7 @@
 - [Antonio Huerta Reyes](https://github.com/AntonioHReyes)
 - [Arnaud Depierreux](https://github.com/arnaud-eb)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
+- [Igor Kochman](https://github.com/ditvor)
 - [Shubhushan Kattel](https://github.com/skattel49)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
 - [Przemysław Tracz](https://github.com/przmktrc)
@@ -178,6 +182,7 @@
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [MarosJev]
+- [Marcus Harrison](https://github.com/arcyopterix)
 - [Mario Nan](https://github.com/DevMarioNan)
 - [Pushpak Prateek] (https://github.com/psk001)
 - [Kritika Bansal](https://github.com/kritika31-10) -[Anushk Srivastav](https://github.com/anushk-srivastav)
@@ -12503,3 +12508,5 @@ sam_namiranian
 - [CaoE](https://github.com/CaoE)
 - [Xinmiao]
 - [Reown](https://github.com/Reown) 👍
+- [DodyDharma](https://github.com/DodyDharma440)
+- [ZacharyThomas](https://github.com/zachary-thomas-115)
