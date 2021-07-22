@@ -29,6 +29,7 @@
 - [Induri Deepthi](https://github.com/deepthiinduri)
 - [Stone](https://github.com/Dongdong-Shi)
   [Kyle Brooks](https://github.com/wbrooks8)
+  [Khin Ma Thaw](https://github.com/khinmamathaw-mit)
 - [Dylan Du](https://github.com/dylangit01)
 - [VISHNU](https://github.com/VISHNU)
 - [Francesco Villano] (https://github.com/franzvill)
