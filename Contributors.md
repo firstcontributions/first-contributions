@@ -1,4 +1,4 @@
-	# Contributors
+﻿	# Contributors
 - [Arian Izadi](https://github.com/arianizadi)
 [SSW](https://github.com/SuSandiWin)
 - [Deboshruti Banerji](https://github.com/dbanerji)
@@ -20,6 +20,7 @@
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
+- [Akshit](https://github.com/4k5h1t)
 - [Javier Ale](https://github.com/JavierAgustinAle)
 - [Fatih Arslan](https://github.com/fatiharslanedu)
 - [lomna2008](https://github.com/lomna2008)
