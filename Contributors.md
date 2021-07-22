@@ -19,6 +19,7 @@
   [Kyle Jacobs](https://github.com/Sunswine)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
+- [Martin Bozhinov] (https://github.com/MartinBozhinov)
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [emachado](https://github.com/ErickMachado95) 
   [Luke Yin] (https://github.com/luke-yin)
@@ -12770,3 +12771,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Reown](https://github.com/Reown) 👍
 - [DodyDharma](https://github.com/DodyDharma440)
 - [ZacharyThomas](https://github.com/zachary-thomas-115)
+- [IvanRamirez](https://github.com/iramirez-aptera)
