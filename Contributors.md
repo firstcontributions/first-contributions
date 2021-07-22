@@ -111,6 +111,7 @@ Mohit Bhobariya
 - [Cîrja David](https://github.com/ZackTK)
 - [Juan Millord](https://github.com/millord)
 - [Deborah Ong](https://github.com/Debiday)
+- [Shayne LaRochelle](https://github.com/lockedNLevered)
 - [DeepikaUcil] (https://github.com/UchilDeepika)
 - [Tony Son](https://github.com/TonySonYJ)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
