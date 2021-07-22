@@ -12762,3 +12762,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Xinmiao]
 - [Reown](https://github.com/Reown) 👍
 - [DodyDharma](https://github.com/DodyDharma440)
+- [Alex Garcia](https://github.com/afgarciam)
