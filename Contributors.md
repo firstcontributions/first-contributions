@@ -1462,6 +1462,7 @@ elkhechafi zakaria
 - [Chethan Krishnamurthy](https://github.com/Chetank003)
 - [Alex Tray](https://github.com/AlexTRay)
 - [Xavier Walton] (https://github.com/breezy-bodega)
+- William G.
 - [Andrew J Hughes] (https://github.com/penetr8-me)
 - [Shashank Sharma] (https://github.com/shanky251020)
 - [daky99] (https://github.com/darky99/)
