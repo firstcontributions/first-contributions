@@ -139,6 +139,7 @@ Mohit Bhobariya
 - [Antonio Huerta Reyes](https://github.com/AntonioHReyes)
 - [Arnaud Depierreux](https://github.com/arnaud-eb)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
+- [Igor Kochman](https://github.com/ditvor)
 - [Shubhushan Kattel](https://github.com/skattel49)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
 - [Przemysław Tracz](https://github.com/przmktrc) 
