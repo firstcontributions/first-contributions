@@ -54,6 +54,7 @@
 - [mrranger](https://github.com/mrranger)
 - [Ujesh nada](https://github.com/ujass)
 - [Thoshinny](https://github.com/Thoshinny-cyber)
+- [Xar](https://github.com/xareal)
 - [Charvi J](https://github.com/charvijindal)
 - [Payal Jain](https://github.com/payalsaraljain)
 - [Kiran Karadia] (https://github.com/Kiran-Karadia) :)
