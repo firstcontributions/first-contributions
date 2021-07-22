@@ -9,6 +9,7 @@
 - [Thosan Girisona S](https://github.com/blankon123)
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
+  Megan P.
   [Ashish Tom](https://github.com/alceil)
   [Kyle Jacobs](https://github.com/Sunswine)
 - [Pemson](https://github.com/Pemson18)
