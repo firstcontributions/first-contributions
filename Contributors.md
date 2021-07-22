@@ -689,6 +689,7 @@ Sakshi Bansal
 - [Stephano Hernandez](https://github.com/StephanoAH)
 - [Santiago Rhenals](https://github.com/srLitem)
 Rahul V (rahulv07)
+- [Erik Grivalsky](https://www.erikgrivalsky.com)
 - [lyine](https://github.com/lyineee)
 - [Jalaj Sahai](https://github.com/jalaj900)
 - [Ryan Thomsen] (https://github.com/ryanthomsen)
