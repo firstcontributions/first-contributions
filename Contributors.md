@@ -37,6 +37,7 @@
 - [Sanchit Kripalani](https://github.com/sanchitkripalani47)
 - [Pushkar Jain](https://github.com/PushkarRJain)
 - [Alvin Lin](https://github.com/Chase78712002) 
+- [Akugbe Stephen](https://github.com/Osalumense)
   [sktht](https://github.com/sktht)
 - [sertsev](https://github.com/sertsev)
   [Mikhail Govender]
