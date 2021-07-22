@@ -1,5 +1,4 @@
-﻿    # Contributors
-
+- [Benedikt Broich](https://github.com/BenediktBroich)
 - [Arian Izadi](https://github.com/arianizadi)
 - [SSW](https://github.com/SuSandiWin)
 - [Deboshruti Banerji](https://github.com/dbanerji)
@@ -13,11 +12,13 @@
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
+- [Thet Win Htwe](https://github.com/thetwinhtwe)
   [Ashish Tom](https://github.com/alceil)
   [Cma](https://github.com/cma124)
   [Kyle Jacobs](https://github.com/Sunswine)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
+- [Martin Bozhinov] (https://github.com/MartinBozhinov)
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [emachado](https://github.com/ErickMachado95)
   [Luke Yin] (https://github.com/luke-yin)
@@ -41,6 +42,7 @@
 - [EYoa](https://github.com/eyoa)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
 - [Sanchit Kripalani](https://github.com/sanchitkripalani47)
+- [Zyrotot](https://github.com/Zyrotot)
 - [Pushkar Jain](https://github.com/PushkarRJain)
 - [Alvin Lin](https://github.com/Chase78712002)
 - [Akugbe Stephen](https://github.com/Osalumense)
@@ -254,6 +256,7 @@
 - [Peter Staker](https://github.com/peterjast)
 - [Gokul Balaji](https://github.com/gokulBalaG)
 - [Shruti Shetty](https://github.com/ShrutiShetty10)
+- [Gaurav Bansal](https://github.com//gauravb28)
 - [Wellington Gadelha](https://github.com/informeai)
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
@@ -12510,3 +12513,4 @@ sam_namiranian
 - [Reown](https://github.com/Reown) 👍
 - [DodyDharma](https://github.com/DodyDharma440)
 - [ZacharyThomas](https://github.com/zachary-thomas-115)
+- [IvanRamirez](https://github.com/iramirez-aptera)
