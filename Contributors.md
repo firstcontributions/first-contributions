@@ -28,6 +28,7 @@
   [Parul G] (https://github.com/parulgo7)
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
+- [Lucas Guimarães] (https://github.com/Lumaraescoder)  
 - [Abishka](https://github.com/abishka)
 - [Akshit](https://github.com/4k5h1t)
 - [Javier Ale](https://github.com/JavierAgustinAle)
