@@ -256,6 +256,7 @@ Mohit Bhobariya
 - [kishore kumar](https://github.com/kishore-kal)
   [Bibek Paul](https://github.com/X-Warrior361)
 - [Persia Afrin](https://github.com/persia92)
+- [Earth Prelude](https://github.com/earthprelude)
 - [algorev](https://github.com/algorev)
 - [Ayush Mishra](https://github.com/im-ayush)
 - [dwills] (https://github.com/dwaynewills)
