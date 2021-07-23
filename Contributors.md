@@ -8406,6 +8406,7 @@ Yury Smyslov
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Iyossias Eshete](https://github.com/iyossias-eshete)
 - [James Ma](https://github.com/jamesma100)
+- [Marcel Santee](https://github.com/SanteeMarcel/)
 - [Lucian Dinu](https://github.com/luciandinu93)
 - [meSSH](https://github.com/IAmSSH)
 - [AatPa](https://github.com/AatPa)
