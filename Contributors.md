@@ -134,6 +134,7 @@ Mohit Bhobariya
 - [Jabril Gray](https://github.com/JGray3507)
 - [Anupam Bhakta](https://github.com/Ae-bii)
 - [Anutosh Bhat](https://github.com/anutosh491)
+ [Marvin Wallenfang](https://github.com/RitzGit) :D
 - [Injamul Mohammad Mollah](https://github.com/mrinjamul)
 - [Rohit Vartak](https://github.com/Rohit01-zoey)
 - [Gokul J Kurup](https://github.com/madrigal1)
