@@ -4571,6 +4571,7 @@ Aman S
 - [GodSaveTheDoge](https://github.com/GodSaveTheDoge)
 - [Gabriel Moreno](https://github.com/gaboMoreno/)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
+- [Adom Taylor](https://github.com/adomtaylor/)
 - [Guru Nanma](https://github.com/gnp31)
 - [Kevin Salimi](https://github.com/kevinsalimi)
 - [Vansh Maheshwari](https://github.com/VanshMaheshwari30)
