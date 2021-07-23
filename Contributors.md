@@ -63,6 +63,7 @@
 - [Mohd. Yahya](https://github.com/yahya-cloud)
 - [Naveed khan](https://github.com/navkuun)
 - [Nirmayi Kelkar](https://github.com/nimukelkar)
+- [Aliaksei Pashkouski](https://github.com/aliakseip)
 - [Jesse Thompson](https://github.com/thje111)
 - [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
