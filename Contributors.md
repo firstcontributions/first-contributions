@@ -38,6 +38,7 @@
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Induri Deepthi](https://github.com/deepthiinduri)
 - [Stone](https://github.com/Dongdong-Shi)
+- [AjiBuster499](https://github.com/AjiBuster499)
   [Kyle Brooks](https://github.com/wbrooks8)
   [Khin Ma Thaw](https://github.com/khinmamathaw-mit)
 - [Dylan Du](https://github.com/dylangit01)
