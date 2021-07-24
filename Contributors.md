@@ -189,6 +189,7 @@
 - [Anas Yaseen](https://github.com/anasomar1)
 - [Kevin Kwon](https://github.com/realkevinkwon)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
+- Harsh Patel
 - [Usama Errijahi](https://github.com/errijahi)
 - Harsh Patel
   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
@@ -1850,7 +1851,7 @@ elkhechafi zakaria
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-  = [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
+- [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
@@ -12580,6 +12581,7 @@ sam_namiranian
 - [Awsaf](https://github.com/awsaf49)
 - [Muzzmil](https://github.com/muzammilCO)
 - [Daekun](https://github.com/daekun0920)
+- [joshKesler](https://github.com/jkesle)
 - [LFBianchi](https://github.com/LFBianchi)
 - [CarloC](https://github.com/carlocardona)
 - [z3b1](https://github.com/z3b1K)
