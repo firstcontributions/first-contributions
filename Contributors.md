@@ -1,5 +1,6 @@
 
 	# Contributors
+- [Sergey Kabanov](https://github.com/kabser)
 - [Alissa Zhang](https://github.com/alissazhang)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [Leandro Arruda](https://github.com/llarruda)
