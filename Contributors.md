@@ -152,6 +152,7 @@
 - [Tony Son](https://github.com/TonySonYJ)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
+- [CodingWatchCollector](https://github.com/CodingWatchCollector)
 - [Shivangi Agarwal](https://github.com/shivangi14)
 - [Dylan](https://github.com/BobDiggity)
 - [Rafael Gama](https://github.com/RaphaelGC7)
