@@ -1,6 +1,9 @@
 	# Contributors
+- [Leandro Arruda](https://github.com/llarruda)
 - [Jihoi Kang](https://github.com/jihoi-kang)
-- [Sagar Maharjan](https://github.com/sagarmaharjan)
+- [Kaung Wai](https://github.com/kaungwai)
+- [Niti Shah](https://github.com/Niti-Shah)
+- [Sagar Maharjan](https://github.com/sagarmaharjan)   
 - [Mansi Saini](https://github.com/msaini26)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
 - [Leonardo Albornoz-Leboroz](https://github.com/Leboroz)
@@ -1107,6 +1110,7 @@ elkhechafi zakaria
 - [Srajan Seth](https://github.com/srajanseth84)
 - Sai Prahas
   [Wendell Hatcher](https://github.com/whatcher1074)
+- [Omkar Konnur] (https://github.com/mar1boroman)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Ian Donaldson](https://github.com/IanMDonaldson)
 - [Ty Bukowski](https://github.com/TBukowski)
