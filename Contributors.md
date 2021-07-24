@@ -141,6 +141,7 @@
 - [Charly Finos](https://github.com/charlyfinos)
 - [Shivangi Agarwal](https://github.com/shivangi14)
 - [Dylan](https://github.com/BobDiggity)
+- [Rafael Gama](https://github.com/RaphaelGC7)
 - [Sunil Shastry](https://github.com/sunillshastry)
 - [Robert Greene](https://github.com/confused-cabbage)
 - [Rya Sanovar](https://github.com/Rya-Sanovar)
