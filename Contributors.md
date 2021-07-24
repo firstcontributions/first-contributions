@@ -1,5 +1,6 @@
 	# Contributors
--  [foufouboy](https://github.com/foufouboy/first-contributions)
+- [Alissa Zhang](https://github.com/alissazhang)
+- [foufouboy](https://github.com/foufouboy/first-contributions)
 - [Leandro Arruda](https://github.com/llarruda)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
