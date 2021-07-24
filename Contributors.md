@@ -1,5 +1,6 @@
 	# Contributors
 - [Leandro Arruda](https://github.com/llarruda)
+- [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Niti Shah](https://github.com/Niti-Shah)
