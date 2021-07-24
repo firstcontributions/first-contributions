@@ -236,6 +236,7 @@
 - [Cane](https://github.com/Cane777777)
 - [Megan](https://github.com/Free-apples)
 - [Fordorth](https://github.com/firebird2552)
+- [Huishun Zhang](https://github.com/zhanghuishun)
 - [Zachary Golis](https://github.com/zgolis)
 - [BVengo](https://github.com/BVengo)
 - [Batool Ahmed](https://github.com/batool-ahmed)
