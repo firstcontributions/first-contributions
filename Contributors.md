@@ -12587,6 +12587,7 @@ sam_namiranian
 - [Mr.Robot2025](https://github.com/MrRobot2025/)
 - [Shashank Gowda](https://github.com/shashanksgowda)
 - [Sam An](https://github.com/sammiee5311)
+- [CJ castillo](https://github.com/caytejohn)
 - [Yuka Okuda](https://github.com/yuka1369)
 - [Tejas Shende](https://github.com/Tejas06)
 - [Jess LaFrank] (https://git.generalassemb.ly/jlafrank2)
