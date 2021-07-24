@@ -1,5 +1,4 @@
-
-	# Contributors
+# Contributors
 - [Sergey Kabanov](https://github.com/kabser)
 - [Alissa Zhang](https://github.com/alissazhang)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
@@ -8,6 +7,7 @@
 - [Jihoi Kang](https://github.com/jihoi-kang)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Niti Shah](https://github.com/Niti-Shah)
+- [Raja Mishra](https://github.com/Raja-mishra1)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)   
 - [Mansi Saini](https://github.com/msaini26)
 - [Devin Chugh](https://github.com/devinchugh)
