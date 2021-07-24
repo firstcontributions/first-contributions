@@ -228,6 +228,7 @@
 - [Cane](https://github.com/Cane777777)
 - [Megan](https://github.com/Free-apples)
 - [Fordorth](https://github.com/firebird2552)
+- [Daniel Collins](https://github.com/dannycoll)
 - [18-F-Cali](https://github.com/18-F-cali)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
