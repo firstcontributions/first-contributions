@@ -4696,6 +4696,7 @@ elkhechafi zakaria
 - [Yash Shukla](https://github.com/Yash1256)
 - [Ranjan Das](https://github.com/dasxran)
 - [Francesco Scar](https://github.com/francesco-scar)
+- [Talles Corradini](https://github.com/tallescorradini)
 - [Rocio Bruna](https://github.com/RocioBruna)
 - [Nishiki Asumi Yapa](https://github.com/Nishiki97)
 - [Jitender Pal Singh](https://github.com/jitender24)
