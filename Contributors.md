@@ -503,7 +503,11 @@
 - [Kunjan Shah](https://github.com/Kunjan-Shah)
 - [TYDS](https://github.com/thinyadanarsu1200)
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
-- [MNK](https://github.com/min-naing-k) -[Naimur Rahman](https://github.com/naimprog) -[KMZ](https://github.com/KMZ416) -[Tomáš Šmelko](https://github.com/TSmelko) -[TSW](https://github.com/ThantSinWin)
+- [MNK](https://github.com/min-naing-k)
+ -[Naimur Rahman](https://github.com/naimprog)
+  -[KMZ](https://github.com/KMZ416)
+  -[Tomáš Šmelko](https://github.com/TSmelko)
+ -[TSW](https://github.com/ThantSinWin)
 - Matt
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
@@ -12802,6 +12806,7 @@ sam_namiranian
 - [Prabal Rawal](https://github.com/prabal-rawal)
 - [Uroš Ilijevec](https://github.com/iljo89)
 - [Andrew Baughman](https://github.com/andrewbaughman)
+- [eath1](https://github.com/eath1)
 - [Deniz Dogan](https://github.com/nagod)
 - [Sarah M Standish](https://github.com/sarahstandish)
 - [Alexia Chatzikonstantinou](https://github.com/alexhatz05)
