@@ -7,6 +7,7 @@
 - [Niti Shah](https://github.com/Niti-Shah)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)   
 - [Mansi Saini](https://github.com/msaini26)
+- [Devin Chugh](https://github.com/devinchugh)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
 - [Leonardo Albornoz-Leboroz](https://github.com/Leboroz)
 - [Benedikt Broich](https://github.com/BenediktBroich)
