@@ -218,6 +218,7 @@
 - [Rona Chan](https://github.com/ronachan)
   [YP](https://github.com/yoonpyaepyaenyein)
 - [MMM](https://github.com/MyoMyatMin)
+- [Devante Gandy] (https://github.com/devantegandy)
 - [Mika S.](https://github.com/MikaStrait)
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
