@@ -1020,6 +1020,7 @@ elkhechafi zakaria
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Umang Agarwal](https://github.com/umang345)
 - [Aashaya Aryal](https://github.com/karuifeather)
+- [Iconic-It-Is](https://github.com/Iconic-It-Is)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Eman Amassi] (https://github.com/emanNahed)
 - [Everardo Gutierrez] (https://github.com/egutierrez10)
