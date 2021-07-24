@@ -8986,6 +8986,7 @@ elkhechafi zakaria
 - [Louis Michael](https://github.com/Louis-Michael)
 - [Ryan Simpson](https://github.com/Arancium)
 - [Sokratis Kouimtzidis](https://github.com/sokratix)
+- [Raine Adams](https://github.com/rainealexander)
 - [Don Norkett](https://github.com/dnorkett)
 - [doesnotcompute420](https://github.com/doesnotcompute420)
 - [Jose Ramon Martinez](https://github.com/JRamonMC)
