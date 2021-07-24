@@ -183,6 +183,7 @@ Mohit Bhobariya
 - [Aman Singh](https://github.com/amansingh1912)
 - [ATK](https://github.com/aungthinnko)
 - Jason Gaglione
+- [Sherin S] (https://github.com/sh3rins)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
 - [Evans Onyango ]
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
