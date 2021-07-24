@@ -12789,6 +12789,7 @@ sam_namiranian
 - [DodyDharma](https://github.com/DodyDharma440)
 - [ZacharyThomas](https://github.com/zachary-thomas-115)
 - [IvanRamirez](https://github.com/iramirez-aptera)
+- [Alex Garcia](https://github.com/afgarciam)
 - [Oliw2](https://github.com/OliW2)
 - [banusreemahalingam](https://github.com/banusreemahalingam)
 - [djsdjs](https://github.com/djs-djs)
