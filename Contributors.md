@@ -22,6 +22,7 @@
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Elliott Belle](https://github.com/Elliott-Chong)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
+- [HassanBahati](https://github.com/HassanBahati)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Thosan Girisona S](https://github.com/blankon123)
 - [Philip Lee](https://github.com/philiplee13)
