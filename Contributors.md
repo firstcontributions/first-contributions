@@ -12781,6 +12781,7 @@ sam_namiranian
 - [Alexia Chatzikonstantinou](https://github.com/alexhatz05)
 - [Tarou Shota](https://github.com/TarouShota)
 - [MengXiangYun](https://github.com/mengxianun)
+- [Taenite](https://github.com/Taenite)
 - [sunalwaysknows](https://github.com/sunalwaysknows)
 - [Nick R](https://github.com/ransontech)
 - [MengXiangYun](https://github.com/mengxianun)
