@@ -95,6 +95,7 @@
 - [Aliaksei Pashkouski](https://github.com/aliakseip)
 - [Jesse Thompson](https://github.com/thje111)
 - [Vishal Chopra](https://github.com/pythonvishal)
+ master
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [Sandip Kole] (https://github.com/maihunsandip)
@@ -1009,6 +1010,7 @@ Arpit Agarwal
 -[Anto Melvin](https://github.com/antomelvin)
 -[Cooper Walter](https://github.com/cooperwalter)
 Gavriel Frant
+ master
 
 
 elkhechafi zakaria
@@ -7354,6 +7356,7 @@ elkhechafi zakaria
 - Narendra Modi
 - Harshit Gangwar
 - Kazuma Tonegawa
+- Syed Wajid Hossain
 - [Vivek Parupudi] (http://github.com/Vivek-Parupudi/)
 - [Kevin Tong](https://github.com/tong-kevin)
 - [Akhil Murthy](https://github.com/akhilmurthy546)
@@ -12759,7 +12762,14 @@ sam_namiranian
 - [James Njoroge] (https://github.com/Mwithiga)
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
+
+- [Richard French](https://github.com/rfrench2) -[likeurboss](https://github.com/likeurboss)
+
 - [Richard French](https://github.com/rfrench2)
+- [Randika Rodrigo](https://github.com/RandikaR21)
+-[likeurboss](https://github.com/likeurboss)
+ master
+- [Wajid](https://github.com/iamswh)
 - [Randika Rodrigo](https://github.com/RandikaR21) -[likeurboss](https://github.com/likeurboss)
 - [Enda Crossan](https://github.com/endacrossan/)
 - [Luke Paner](https://github.com/lukelucas1794)
@@ -12795,6 +12805,8 @@ sam_namiranian
 - [almog1337](https://github.com/almog1337)
 - [Zhugy08](https://github.com/zhugy08)
 - [Zalene](https://github.com/Zalene)
+ add-wajid-H
+
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
 - [Sathishkumar Manogaran](https://github.com/sathishkumar-manogaran)
 - [Max Kasprzik] (https://github.com/maxUser)
