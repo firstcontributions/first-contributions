@@ -1623,6 +1623,7 @@ elkhechafi zakaria
 - Ahambarish Saikia
 - Ali Ahmed
 - JLJ
+- [Phoebe Quincy](https://github.com/phoebequincy)
 - [Amaechi Abuah](https://github.com/abuah1999)
 - [Justin Powers](https://github.com/Bladelazoe)
 - [Aditi Dona](https://github.com/aditidona)
