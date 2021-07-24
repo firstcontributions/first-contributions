@@ -114,6 +114,7 @@
 - [Cathy Chou] (cathy-first-contributions)
   [Artem Chekin](https://github.com/art-ch)
 - [Daniel Vasquez](https://github.com/cruzavas)
+- [Praveesh Pavithran](https://github.com/praveesh91)
   [Shai Etzion](https://github.com/shaii5)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
