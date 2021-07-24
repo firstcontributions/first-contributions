@@ -11214,6 +11214,7 @@ elkhechafi zakaria
 - [Jacob Sonshein](https://github.com/jsonshein)
 - [Natalie Dreher](https://github.com/natalied84)
 - Nico Antero
+- [coscorrodrift](https://github.com/coscorrodrift)
 - [Nurahmat](https://github.com/nurofsun)
 - [Darshan Walchale](https://github.com/ShawnzWal)
 - – [Ines Fernandez](http://github.com/inesfb)
