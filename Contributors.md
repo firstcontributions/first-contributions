@@ -75,6 +75,7 @@
   [sktht](https://github.com/sktht)
 - [sertsev](https://github.com/sertsev)
   [Mikhail Govender]
+	[Rajneel Dutta](https://github.com/RajneelDutta)
 - [Mohit Deshpande]
   [Abhay Pratap Singh](https://github.com/abhay97ps)
 - [raishaasuma](https://github.com/raishaasuma)
