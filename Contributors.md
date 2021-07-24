@@ -10,6 +10,7 @@
 - [Deboshruti Banerji](https://github.com/dbanerji)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Adithya LK](https://github.com/adilk0728)
+- [Kimbrian Marshall](https://github.com/cimbraien)
 - [Joao Pedro Soares G Santos] (https://github.com/JPedro-SG)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Elliott Belle](https://github.com/Elliott-Chong)
