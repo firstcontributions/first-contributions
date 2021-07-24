@@ -12788,6 +12788,7 @@ sam_namiranian
 - [Oliw2](https://github.com/OliW2)
 - [banusreemahalingam](https://github.com/banusreemahalingam)
 - [djsdjs](https://github.com/djs-djs)
+- [xuestrange](https://github.com/xuestrange)
 - [Lewis](https://github.com/LewiClancy)
 - [sinagun](https://github.com/sinagun)
 - [charves](https://github.com/qiaoweidaha-2020)
