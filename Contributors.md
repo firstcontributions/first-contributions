@@ -12782,6 +12782,7 @@ sam_namiranian
 - [Rodrigo Pova](https://github.com/rodrigo-pova)
 - [bkmak](https://github.com/bkmak)
 - [windy](https://github.com/zfwang95)
+- [Jay Shimada(DrPoppyseed)](https://gist.github.com/DrPoppyseed)
 - [Abhiraj](https://github.com/abhirajkrishnan)
 - [michael](https://github.com/Reborn-hash)
 - [Ricardo Alves Paula](https://github.com/Motirck)
