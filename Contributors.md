@@ -1,5 +1,6 @@
 	# Contributors
 - [Jihoi Kang](https://github.com/jihoi-kang)
+- [Kaung Wai](https://github.com/kaungwai)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)   
 - [Mansi Saini](https://github.com/msaini26)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
