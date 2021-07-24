@@ -12778,6 +12778,7 @@ sam_namiranian
 - [Megat Harun](https://github.com/megatharun)
 - [komooo] (https://github.com/komooo)
 - [Leonie] (https://github.com/Leo-nie)
+- [Cami Queiroz](https://github.com/camimq)
 - [Himanshu Chaudhary] (https://github.com/chaudharyhimanshu)
 - [Cami Queiroz](https://github.com/camimq)
 - [CamArturo](https://github.com/CamArturo)
