@@ -22,6 +22,7 @@
   [Ashish Tom](https://github.com/alceil)
   [Cma](https://github.com/cma124)
   [Kyle Jacobs](https://github.com/Sunswine)
+- [Benrard Solien](https://github.com/bernardstuff)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
 - [Martin Bozhinov] (https://github.com/MartinBozhinov)
