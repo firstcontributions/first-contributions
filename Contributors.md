@@ -1,5 +1,5 @@
 # Contributors
--[Iconic-It-Is](https://github.com/Iconic-It-Is)
+
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Dawn Kelly](https://github.com/dawnkelly09)
 -[Chirag Madaan](https://github.com/chirag-madaan)
@@ -27,6 +27,7 @@
 - [Deedee Banh](https://github.com/deedeebanh)
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
+- [Iconic-It-Is](https://github.com/Iconic-It-Is)
 - [Lorenzo Evans](https://github.com/SpyroL7)
 - [Eman Amassi] (https://github.com/emanNahed)
 - [Eliza Swanson] (https://github.com/elswanny)
