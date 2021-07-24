@@ -8989,6 +8989,7 @@ elkhechafi zakaria
 - [Ari](https://github.com/ari-hacks/)
 - [Kenny McEwan](https://github.com/kennymce)
 - [Jiang Hongbei](https://github.com/refenir)
+- [Daniel Tasies](https://github.com/jotasies)
 - [Leonard Green](https://github.com/laroygreen)
 - [kingkoma](https://github.com/kingkoma)
 - [AlexSarah](https://github.com/AlexSarah)
