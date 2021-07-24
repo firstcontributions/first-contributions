@@ -12773,6 +12773,8 @@ sam_namiranian
 - [Sarah M Standish](https://github.com/sarahstandish)
 - [Alexia Chatzikonstantinou](https://github.com/alexhatz05)
 - [Tarou Shota](https://github.com/TarouShota)
+- [MengXiangYun](https://github.com/mengxianun)
+- [sunalwaysknows](https://github.com/sunalwaysknows)
 - [Nick R](https://github.com/ransontech)
 - [MengXiangYun](https://github.com/mengxianun)
 - [Asinsa](https://github.com/Asinsa)
