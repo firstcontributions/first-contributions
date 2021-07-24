@@ -10116,6 +10116,7 @@ Yury Smyslov
 - [Matt Wood](https://github.com/MattWood21)
 - [Erik](https://github.com/erikhm91)
 - [Robert Hunziker](https://github.com/osgard1)
+- [Badoiu Mihail](https://github.com/badoiumihail)
 - [Saikat Roy](https://github.com/njmsaikat)
 - [Robert Hunziker](https://github.com/osgard1)
 - [Gladis NDOUAB'S](https://github.com/dincas)
