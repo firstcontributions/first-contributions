@@ -9223,7 +9223,7 @@ elkhechafi zakaria
 - [Richard Job](https://github.com/richardjob)
 - [Jang Ho Cho](https://github.com/jhc95/)
 - [Shea Buckner](https://github.com/towhitch)
-- [machao](https://github.com/McSources)
+- [McSources](https://github.com/McSources)
 - [dudakp](https://github.com/dudakp/)
 - [Michael Luo](https://github.com/michaeljluo)
 - [Aaron Beach](https://github.com/aaron-beach)
