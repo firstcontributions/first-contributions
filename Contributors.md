@@ -39,6 +39,7 @@
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Lucas Guimarães] (https://github.com/Lumaraescoder)  
 - [Abishka](https://github.com/abishka)
+- [Sinan Chaush] (https://github.com/sinansonmez)
 - [Joshua Lawrence] (https://github.com/Josh0187)
 - [Akshit](https://github.com/4k5h1t)
 - [Javier Ale](https://github.com/JavierAgustinAle)
