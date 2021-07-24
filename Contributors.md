@@ -35,6 +35,7 @@
 - [Joshua Lawrence] (https://github.com/Josh0187)
 - [Akshit](https://github.com/4k5h1t)
 - [Javier Ale](https://github.com/JavierAgustinAle)
+- [Lokesh Choudhary] (https://github.com/lokeshchoudhary-lc)
 - [Fatih Arslan](https://github.com/fatiharslanedu)
 - [lomna2008](https://github.com/lomna2008)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
