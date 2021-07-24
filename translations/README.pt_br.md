@@ -98,7 +98,7 @@ Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (mast
 
 ## Para onde ir a partir daqui?
 
-Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
+Parabéns! Você completou o fluxo de trabalho básico _**fork** &#8594; **clone** &#8594; **edit** &#8594; **PR**_ que você encontrará frequentemente como contribuidor!
 
 Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://roshanjossey.github.io/first-contributions/#social-share).
 
