@@ -67,6 +67,7 @@
 - [Pushkar Jain](https://github.com/PushkarRJain)
 - [Alvin Lin](https://github.com/Chase78712002)
 - [Akugbe Stephen](https://github.com/Osalumense)
+- [Shubham Nanche](https://github.com/shunax19)
   [sktht](https://github.com/sktht)
 - [sertsev](https://github.com/sertsev)
   [Mikhail Govender]
