@@ -36,6 +36,7 @@
 - [Martin Bozhinov] (https://github.com/MartinBozhinov)
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [emachado](https://github.com/ErickMachado95)
+  [thurasittnaing](https://github.com/coding2am)
   [Luke Yin] (https://github.com/luke-yin)
   [Parul G] (https://github.com/parulgo7)
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
