@@ -2108,6 +2108,7 @@ Isabella Namutendda
 - [Maximilian Hafer] (https::/github.com/MaxiHafer)
 - [Sara Mazal] (https://github.com/saramazal)
 - [meet0806](https://github.com/meet0806)
+- [Aldo Bangun](https://github.com/aldobangun)
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Brandon Roberts] (https://github.com/brobert8)
 - Ceylan
