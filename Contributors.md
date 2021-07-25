@@ -185,6 +185,7 @@
 - [IK](https://github.com/Ingyin-Khin)
 - [Nissrine Hnainia] (https://github.com/Nissrine-Hnainia)
 - [Neil Ryan] (https://github.com/nilryan)
+- [Salvador Alcantar] (https://github.com/Salvador-A)
 - [Jamar Palmer](https://github.com/jamar-palmer)
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)  
 - [Ayesha S](https://github.com/ayeshas20)
