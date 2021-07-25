@@ -12791,6 +12791,7 @@ sam_namiranian
 - [michael](https://github.com/Reborn-hash)
 - [Ricardo Alves Paula](https://github.com/Motirck)
 - [Resty Iral](https://github.com/R3sty)
+- [Farshad Kazemi](https://github.com/f-kazemi-dev)
 - [Aleix Anguita Gomez](https://github.com/aleixango)
 - [Leonard Vlaicu](https://github.com/leonard-vlaicu)
 - [Edincodes](https://github.com/edincodes)
