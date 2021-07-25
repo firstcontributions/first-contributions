@@ -95,7 +95,6 @@
 - [Aliaksei Pashkouski](https://github.com/aliakseip)
 - [Jesse Thompson](https://github.com/thje111)
 - [Vishal Chopra](https://github.com/pythonvishal)
- master
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [Sandip Kole] (https://github.com/maihunsandip)
@@ -1017,12 +1016,6 @@ Arpit Agarwal
 -[Karun Jain](https://github.com/jainkarun8)
 -[Anto Melvin](https://github.com/antomelvin)
 -[Cooper Walter](https://github.com/cooperwalter)
-Gavriel Frant
- master
-
-
-elkhechafi zakaria
-
 - [John Henry](https://github.com/jhenryj09)
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 - [Michael Hsieh](https://github.com/mdhsieh) -[Madhuri reddy](https://github.com/Madhurireddy1)
@@ -12817,8 +12810,6 @@ sam_namiranian
 - [almog1337](https://github.com/almog1337)
 - [Zhugy08](https://github.com/zhugy08)
 - [Zalene](https://github.com/Zalene)
- add-wajid-H
-
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
 - [Sathishkumar Manogaran](https://github.com/sathishkumar-manogaran)
 - [Max Kasprzik] (https://github.com/maxUser)
