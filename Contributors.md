@@ -248,6 +248,8 @@
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Mangal Kushwah](https://github.com/Link2324)
 - [HMS](https://github.com/MgPone)
+- [Femke Dijk](https://github.com/femmy199)
+- [SharifRafid](https://github.com/sharifrafid)
 - [Sahil](https://github.com/sahilrawat001)
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
