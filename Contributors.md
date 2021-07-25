@@ -228,6 +228,7 @@
 - [Shin Andrei Riego](https://github.com/lemonadee71)
 - [Evans Onyango ]
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
+- Nazmul Islam Nayeem
 - [Joel Aviles](https://github.com/Appithe)
 - [Alok Mahalka](https://github.com/AlokMahalka)
 - [João Mendes](https://github.com/joaopmendes)
