@@ -32,6 +32,7 @@
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
 - [Vikas](https://github.com/vikasdabhi)
+- [Prashant Bhatkal](https://github.com/prashant-btkl) 
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
   [Ashish Tom](https://github.com/alceil)
   [Cma](https://github.com/cma124)
@@ -229,6 +230,7 @@
 - [Shin Andrei Riego](https://github.com/lemonadee71)
 - [Evans Onyango ]
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
+- Nazmul Islam Nayeem
 - [Joel Aviles](https://github.com/Appithe)
 - [Alok Mahalka](https://github.com/AlokMahalka)
 - [João Mendes](https://github.com/joaopmendes)
