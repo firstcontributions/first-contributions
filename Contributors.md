@@ -12813,6 +12813,7 @@ sam_namiranian
 - [almog1337](https://github.com/almog1337)
 - [Zhugy08](https://github.com/zhugy08)
 - [Zalene](https://github.com/Zalene)
+- [Barry M](https://github.com/BozzleMay)
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
 - [Sathishkumar Manogaran](https://github.com/sathishkumar-manogaran)
 - [Max Kasprzik] (https://github.com/maxUser)
