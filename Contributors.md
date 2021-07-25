@@ -527,6 +527,7 @@
 - [eruj22](https://github.com/eruj22)
 - Jino Rohit
 - Irving Viveros
+- [Sanchita Gupta](https://github.com/sanchita1900)
 - [Usman Nadeem](https://github.com/usmanyvr)
 - [AnmolKaushik] (https://github.com/anmol-ui)
 - [Eduardo Rerick](https://github.com/eduardorerick)
