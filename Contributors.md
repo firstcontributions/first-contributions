@@ -248,6 +248,7 @@
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
 - [Cane](https://github.com/Cane777777)
+- [Sal Galan] (https://github.com/SalGalan)
 - [Megan](https://github.com/Free-apples)
 - [Fordorth](https://github.com/firebird2552)
 - [Zahra Hmz](https://github.com/zahra94h)
