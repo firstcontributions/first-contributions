@@ -220,6 +220,7 @@
 - Jason Gaglione
 - [Sherin S] (https://github.com/sh3rins)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
+- [Shin Andrei Riego](https://github.com/lemonadee71)
 - [Evans Onyango ]
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
 - [Joel Aviles](https://github.com/Appithe)
