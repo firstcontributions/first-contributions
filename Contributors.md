@@ -12800,6 +12800,7 @@ sam_namiranian
 - [Sangit Gurung from Nepal] (https://github.com/sangitgrg)
 - [Tito Reinhart](https://github.com/TotallyNotTito)
 - [Maoki Yoshimoto](https://github.com/Maoki55)
+- [zlxxx](https://github.com/zlxxx-hit)
 - [Sam Charney](https://github.com/sac915)
 - [LeoNooob](https://github.com/LeoNooob)
 - [baconlover2020](https://github.com/baconlover2020)
