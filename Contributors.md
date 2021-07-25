@@ -12,6 +12,7 @@
 - [Sagar Maharjan](https://github.com/sagarmaharjan)   
 - [Mansi Saini](https://github.com/msaini26)
 - [Devin Chugh](https://github.com/devinchugh)
+- [Harsh Saini](https://github.com/HarshSaini13)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
 - [Leonardo Albornoz-Leboroz](https://github.com/Leboroz)
 - [Benedikt Broich](https://github.com/BenediktBroich)
