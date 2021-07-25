@@ -255,6 +255,7 @@
 - [Sahil](https://github.com/sahilrawat001)
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
+- [Shane Sutro](https://github.com/ShaneSutro)
 - [Cane](https://github.com/Cane777777)
 - [Jerry Weimer](https://github.com/jweimerjr46)
 - [Sal Galan] (https://github.com/SalGalan)
