@@ -12804,6 +12804,8 @@ sam_namiranian
 - [zlxxx](https://github.com/zlxxx-hit)
 - [Sam Charney](https://github.com/sac915)
 - [LeoNooob](https://github.com/LeoNooob)
+- [Jenna Pedro](https://github.com/itsjennaz)
+- [Linh Nguyen Nhat](https://github.com/lnn45)
 - [baconlover2020](https://github.com/baconlover2020)
 - [Linh Nguyen Nhat](https://github.com/lnn45)
 - [almog1337](https://github.com/almog1337)
