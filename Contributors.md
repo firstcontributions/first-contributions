@@ -251,6 +251,7 @@
   [Anca Puscasu](https://github.com/ancapuscasu)
 - [SharifRafid](https://github.com/sharifrafid)
 - [Cane](https://github.com/Cane777777)
+- [Jerry Weimer](https://github.com/jweimerjr46)
 - [Sal Galan] (https://github.com/SalGalan)
 - [Megan](https://github.com/Free-apples)
 - [Fordorth](https://github.com/firebird2552)
