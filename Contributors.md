@@ -833,6 +833,7 @@ Rahul V (rahulv07)
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
 -[Sumesh Kuchya](https://github.com/developer-sumesh)
 -[Mike Wazowsaki]
+-[Jack Rafter](https://github.com/jackraf)
 -[Harsh Ranjan Kumar](https://github.com/harshhrk)
 -[Oliviero Pernigotti](https://github.com/Oliviero-P)
 -[Brendan-Glancy](https://github.com/BrendanGlancy)
