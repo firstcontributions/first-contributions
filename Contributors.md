@@ -31,6 +31,7 @@
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
+- [Prashant Bhatkal](https://github.com/prashant-btkl) 
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
   [Ashish Tom](https://github.com/alceil)
   [Cma](https://github.com/cma124)
@@ -12897,3 +12898,5 @@ sam_namiranian
 - [Matan Milrad](https://github.com/matan55)
 - [Tirth Patel](https://github.com/Tirth27)
 - [Limon Safayet](https://github.com/LimonSafayet) 🇧🇩🇧🇩
+- [Marcel Schenk](https://github.com/mschnk)
+
