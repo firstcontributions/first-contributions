@@ -139,6 +139,7 @@
 - [Abhyudaya Avasthi](https://github.com/avasthiabhyudaya)
 
 - [Ivette]
+- [Jack Decker](https://github.com/jackbrunid)
 - [Maru Gemini](https://github.com/MaruGemini)
 - [Ajay Yadav] (https://github.com/ajju10/)
 - [Krunal Dubey] (https://github.com/krunal70/)
