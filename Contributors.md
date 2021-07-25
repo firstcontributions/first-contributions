@@ -12893,3 +12893,4 @@ sam_namiranian
 - [Doni Wirawan](https://github.com/doniwirawan)
 - [Kayla Joubert](https://github.com/Kayla-Joubert/)🌱🌱🌱
 - [Matan Milrad](https://github.com/matan55)
+- [Tirth Patel](https://github.com/Tirth27)
