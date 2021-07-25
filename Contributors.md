@@ -3830,6 +3830,7 @@ Arpit Agarwal
 - [Saish Pawar](https://github.com/sashpawar11)
 - [Anton Glebov](https://github.com/antgleb)
 - [Diane Lee](https://github.com/diane-lee-byte)
+- [Vidhu Verma](https://github.com/Vidhu007)
 - [Nandini Mundra](https://github.com/NandiniMundra-8)
 - [Pablo Rodríguez](https://github.com/paroar)
 - [AlxGration](https://github.com/AlxGration)
