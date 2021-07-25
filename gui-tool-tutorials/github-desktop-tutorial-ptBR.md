@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -17,7 +17,7 @@ Se você nao tem o Github desktop na sua máquina, [instale aqui](https://deskto
 
 Se você está usando uma versão do Github desktop antes da 1.0, [consulte este tutorial](github-desktop-old-version-tutorial.md).
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork este repositório" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork este repositório" />
 
 ## Fork este repositório
 
@@ -32,15 +32,15 @@ IMPORTANTE: NÃO CLONE O REPOSITÓRIO ORIGINAL. Vá para o seu fork e clone.
 
 Para clonar esse repositório, clique em "Clone or Download" e então clique em "Open in Desktop".
 
-<img style="left;" src="../assets/dt1-clonetodesktop.png" alt="clone este repositório" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone este repositório" />
 
 Uma janela pop up vai aparecer. Clique em "Open GitHubDesktop.exe".
 
-<img style="left;" src="../assets/dt1-open-githubdesktop.png" alt="clone este repositório" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone este repositório" />
 
 Depois de clicar em "Open GitHubDesktop.exe" os arquivos serão baixados para o seu computador.
 
-<img style="left;" src="../assets/dt1-downloaded.png" alt="clone este repositório" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-downloaded.png" alt="clone este repositório" />
 
 Agora você copiou os arquivos do repositório first-contributions no github para o seu computador.
 
@@ -48,11 +48,11 @@ Agora você copiou os arquivos do repositório first-contributions no github par
 
 Agora crie uma branch clicando na aba "Current branch" que fica no topo, depois clique em "New branch":
 
-<img style="left;" src="../assets/dt1-create-branch.png" alt="criar uma branch" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="criar uma branch" />
 
 Nomeie sua branch como <add-your-name>. Por exemplo, "add-james-smith"
 
-<img style="left;" src="../assets/dt1-create-branch-name.png" alt="nomeie sua branch" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="nomeie sua branch" />
 
 Clique em `Create branch`
 
@@ -66,7 +66,7 @@ Exemplo: Se o seu nome for James Smith, Deve ficar parecido com isso.
 
 Você pode ver as alterações feitas em Contributors.md no Github Desktop.
 
-<img style="left;" src="../assets/dt1-status.png" alt="checar mudanças" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="checar mudanças" />
 
 Agora faça commit dessas alterações:
 
@@ -76,31 +76,31 @@ Substitua `<your-name>` pelo seu nome.
 
 Clique no botãp que diz `Commit to add-your-name`.
 
-<img style="left;" src="../assets/dt1-commit1.png" alt="commit suas alterações" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit suas alterações" />
 
 Na parte inferior, você pode ver que o commit foi criado com sucesso.
 
-<img style="left;" src="../assets/dt1-commit2.png" alt="commit suas alterações" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit suas alterações" />
 
 ## Faça o push das mudanças no github
 
 Clique em File->Options e depois em sign-in to Github.com. Digite seu username e senha do Github.
 
-<img style="left;" src="../assets/dt1-sign-in.png" alt="log-in no Github" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in no Github" />
 
 Clique no botão `Publish` na parte superior direita.
 
-<img style="left;" src="../assets/dt1-publish1.png" alt="push suas alterações" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push suas alterações" />
 
 ## Envie suas alterações para review
 
 Se você for até seu repositório no github, verá o botão `Compare & pull request`. Clique nesse botão
 
-<img style="left;" src="../assets/compare-and-pull.png" alt="criando um pull request" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="criando um pull request" />
 
 Agora envie o pull request.
 
-<img style="left;" src="../assets/submit-pull-request.png" alt="enviando o pull request" />
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="enviando o pull request" />
 
 Em breve estarei mesclando todas as suas alterações na branch Master do projeto. Você vai receber um email de notificação assim que as alterações forem integradas.
 
