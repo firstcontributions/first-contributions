@@ -31,6 +31,7 @@
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
+- [Prashant Bhatkal](https://github.com/prashant-btkl) 
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
   [Ashish Tom](https://github.com/alceil)
   [Cma](https://github.com/cma124)
@@ -113,6 +114,7 @@
 - [Geert-Jan Knapen](https://github.com/geertjanknapen1)
 - [Brandon Herrera](https://github.com/brandonhxrr)
 - [that1solodev](https://github.com/Xyno18)
+- [dreamer](https://github.com/Anasooya2601)
 - [Luis Ubieda](https://github.com/ubieda)
 - [Hotzenwalder] (https://github.com/hotzenwalder)
 - [Inderjeet Singh](https://github.com/Inderjeet670)
@@ -227,6 +229,7 @@
 - [Shin Andrei Riego](https://github.com/lemonadee71)
 - [Evans Onyango ]
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
+- Nazmul Islam Nayeem
 - [Joel Aviles](https://github.com/Appithe)
 - [Alok Mahalka](https://github.com/AlokMahalka)
 - [João Mendes](https://github.com/joaopmendes)
@@ -12895,4 +12898,5 @@ sam_namiranian
 - [Matan Milrad](https://github.com/matan55)
 - [Soransh Singh](https://github.com/soransh-singh)👋👋👋
 - [Tirth Patel](https://github.com/Tirth27)
+- [Marcel Schenk](https://github.com/mschnk)
 
