@@ -186,6 +186,8 @@
 - [Nissrine Hnainia] (https://github.com/Nissrine-Hnainia)
 - [Neil Ryan] (https://github.com/nilryan)
 - [Jamar Palmer](https://github.com/jamar-palmer)
+- [Isabelle Cristine](https://github.com/IsabelleCrispim)  
+- [Ayesha S](https://github.com/ayeshas20)
 - [Shagufta Shahroz](https://github.com/ShaguftaShahroz)
 - [gvelasque](https://github.com/gvelasque)
 - [Belal Uddin](https://github.com/Belal-uddin)
