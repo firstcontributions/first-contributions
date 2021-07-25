@@ -274,6 +274,7 @@
 - [18-F-Cali](https://github.com/18-F-cali)
 - [Vikas Baghel](https://github.com/vikas-baghel)
 - [Daksh Kaushik](https://github.com/DakshKaushik)
+- [Nikhil Sharma](https://github.com/sharmanikhil1100)
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
 - [Amrit Kafle](https://github.com/Kaphleamrit)
 - [Srinu Rachakonda](https://github.com/Srinu126)
