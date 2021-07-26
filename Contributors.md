@@ -5011,6 +5011,7 @@ Aranya
 - [Kiran S Baliga](https://github.com/kiransbaliga)
 - [Christian Bueno](https://github.com/christian-bueno)
 - [Harsha Puvvada](https://github.com/puvvadaharsha)
+- [Drikus van der Walt](https://github.com/gettinDrikkieWithIt)
 - [Nick Gumbs]
 - [Michael]
 - [Sujatha Mohan sujathamlak]
