@@ -1,4 +1,5 @@
 # Contributors
+- [AaryanPal](https://github.com/Aaryanpal)
 - [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
