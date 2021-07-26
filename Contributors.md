@@ -764,6 +764,7 @@
 - [Mayank Gupta](https://https://github.com/Mayank10082000)
 - [Karandeep Singh Sehgal](https://github.com/karandeeppotato)
 - [Lucky Makau](https://https://github.com/makaulucky)
+- [Aranya Caimi]
 - [Sam Frampton](https://github.com/samframpton)
 - [Christopher Epps](https://github.com/hybrid281)
 - [Uwazurike Victor](https://github.com/Paxtor2)
@@ -2104,6 +2105,7 @@ Isabella Namutendda
 - [Ezylryb77](https://github.com/Ezylryb77)
 - mavidevbcn
 - Kyle Mo
+Aranya
 - Ghulam Afzal
 - Ian Ambos
 - [Beverneus](https://github.com/beverneus)
