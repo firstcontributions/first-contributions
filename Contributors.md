@@ -1108,6 +1108,7 @@ Arpit Agarwal
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Carlos Ignacio Mares](https://github.com/CARLOSMARES)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
+- [Txabi Alastruey](http://github.com/Baskman74)
 - [Sampath Rachumallu] (https://github.com/sampath97)
 - [Tim Chapman] (https:github.com/wobbly2732)
 - [Uzair Ali](https://github.com/uzair-ali10)
