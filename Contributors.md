@@ -1391,6 +1391,7 @@ Arpit Agarwal
 - [Juan Luis Muñoz Ioannidis] (https://github.com/design3d-blender)
 - [Ashwin Kumar](https://github.com/ashwinexe)
 - [Madhav Sharma](https://github.com/madhavjk)
+- [Sai Teja Kavuru](https://github.com/saitejakavuru)
 - [Vejay Drepaul](https://github.com/VejayDrepaul)
 - [Mor Cohen] (https://github.com/mor120)
 - [Adam Heeps] (https://github.com/mr-jackpot)
