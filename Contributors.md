@@ -973,6 +973,7 @@ Akshit Agarwal
 -[Petrina Troulitaki]
 -[Stoycho Kostov](https://github.com/kostovsk/)
 -[Maximiliano Carrasco](https://github.com/macsito-prog)
+-[Andrian Bitca](https://github.com/BrewMasterMD)
 -[Ezra LaFleur](https://github.com/ezralafleur)
 -[Priyanka](https://github.com/priyankapiba)
 -[Aniket kumar](https://github.com/ani1998ket)
