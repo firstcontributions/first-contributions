@@ -114,6 +114,7 @@
 - [Kyle Ramsay] (https://github.com/KyRams)
 - [Nasreddine Yakhou] (https://github.com/nasroykh)
 - [Guli]
+- [Utkarsh Tomar] (https://github.com/Utkarsh736)
 - [Dongdong Shi](https://github.com/Dongdong-Shi)
 - [Geert-Jan Knapen](https://github.com/geertjanknapen1)
 - [Brandon Herrera](https://github.com/brandonhxrr)
