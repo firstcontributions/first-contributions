@@ -6784,6 +6784,7 @@ Aranya
 - [Ralph Louis Gopez](https://github.com/sevora)
 - [SM43](https://github.com/sm43)
 - Gautam
+- Nikolas Butalid
 - [Lucien Zuber](https://github.com/LucienZuber)
 - [Shrihari Mohan](https://github.com/ShrihariMohan)
 - [Vysh kk](https://github.com/Vyshkk)
