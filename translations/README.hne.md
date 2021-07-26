@@ -1,5 +1,5 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # प्रथम योगदान
@@ -8,7 +8,7 @@
 
 आर्टिकल्स पढ़े अउ ऑनलाइन ट्यूटोरियल देखके  मदद मिल सकत हे  मगर बिना कुछू गलत करे अउ खुद वो काम करे ले बने अउ का हो सकत हे ? यह प्रोजेक्ट आपमन के पहले कॉन्ट्रिब्यूशन बर दिशा निर्देशन करे बर बने मदद करहि  | याद रखौ  - जतका तनाव मुक्त होकर आप मन सिखहु ततका आपमन बने सीख पाबौ | अगर आप मन अपन पहली कॉन्ट्रिब्यूशन करना चाहत हो त आगे दिए तरीका ल बने  फॉलो करौ |
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 आपमन  के कंप्यूटर म  Git नहीं हे  त, [एला स्थापित करौ](https://help.github.com/articles/set-up-git/)
 
@@ -18,7 +18,7 @@
 
 ## रिपोजिटरी क्लोन
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 अब आपमन  ए रेपो ल अपन कंप्यूटर म क्लोन (डाउनलोड) करव| अपन GitHub खाते म जाकर क्लोन बटन म क्लिक करव अउ फिर कॉपी टू क्लिपबोर्ड आइकॉन म क्लिक करव |
 
@@ -36,7 +36,7 @@ git clone "यूआरएल जैला आपमन कॉपी करे �
 git clone https://github.com/यह-तै-हावस/first-contributions.git
 ```
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 यह-तै-हावस आपमन के GitHub अकाउंट के नाम हावै। एती आपमन अपन कंप्यूटर न GitHub ले फर्स्ट-कंट्रिब्यूशंज़ रेपो ल कॉपी करथव अउ ओखर एक लोकल/स्थानीय कॉपी बनावथस|
 
@@ -67,7 +67,7 @@ git checkout -b add-alonzo-church
 
 अब `Contributors.md` फ़ाइल ल एक टेक्स्ट एडिटर म खोलकर एमा अपन नाम लिखव। फ़ाइल के शुरुआत या अंत म एला झन जोड़बे। एला बीच म कही तिरिया देहु आपमन | 
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
 आपमन अगर `git status` निर्देश चलाहु , त आपमन ल किये गए परिवर्तन दिखहि।
@@ -99,11 +99,11 @@ git push origin <अपन-शाखा-के-नाम-जोड़व>
 ## अपन बदलाव ल रिव्यु करे बर सबमिट करव|
 
 आपमन अपन github प्रोफाइल म अपन रेपो म जाबा अउ Compare & pull request ल दबवाव|
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 आप मन के pull request सबमिट करव|
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 मैं आपमन के बदलाव ल ए प्रोजेक्ट के मास्टर शाखा म तुरते मर्ज कर दुहु| आप मन ल एक ठन मेल आ जहि जब बदलाव मर्ज होही|
 
 ## इहा ले कती जाबो?
