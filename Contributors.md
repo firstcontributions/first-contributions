@@ -556,6 +556,7 @@
 - [Julian](https://github.com/yet2frag)
 - [Kunjan Shah](https://github.com/Kunjan-Shah)
 - [TYDS](https://github.com/thinyadanarsu1200)
+- [James Camper](https://github.com/jamescamper17)
 - [Naomi Lago](https://github.com/naomilago) 🏳️‍⚧️
 - [MNK](https://github.com/min-naing-k)
  -[Naimur Rahman](https://github.com/naimprog)
