@@ -701,6 +701,7 @@
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
 - [Lorenz Beyer](https://github.com/beyerl/)
+- [Shruti] 
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Owen Strength](https://github.com/owenstrength)
@@ -12805,6 +12806,7 @@ sam_namiranian
 - [Fabian Stichtenoth] (https://github.com/Fabian5896)
 - [Lukasz Szymanski](https://github.com/LukasSzymanski)
 - [Alex Korbonits](https://github.com/korbonits)
+- [Naoki Takahashi](https://github.com/nemuki)
 - [Jonathan Wang](https://github.com/jc4jc3jc0jc1)
 - [Breeana Payton](https://github.com/PaytonDev)
 - [Lv Yuchang](https://github.com/Yuchang-Lv)
