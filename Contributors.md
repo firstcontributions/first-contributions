@@ -7335,6 +7335,7 @@ Isabella Namutendda
 - [Rafael Adão](https://github.com/RafaelAdao)
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
+- [Placide Rigole FOLEU](https://github.com/rigole)
 - [Dani El-Ayyass](https://github.com/dayyass)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - Yavis Yuan
