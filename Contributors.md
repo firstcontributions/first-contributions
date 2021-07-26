@@ -373,6 +373,7 @@
 - [Sai Goud](https://github.com/saigoud25)
 - [Yash Yenugu](https://github.com/yashyenugu)
 - [Soham Roy](https://github.com/sohamroy19)
+- [Harish Chandran](https://github.com/HarishChandran3304)
 - [Ketki Chavan](https://github.com/Ketkic09)
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Prashant kumar](https://github.com/pksingh128)
