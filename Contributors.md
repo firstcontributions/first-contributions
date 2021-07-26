@@ -1550,6 +1550,7 @@ Arpit Agarwal
 - [Javier 'JIO' Ortiz](https://github.com/JIO93)
 - [Dylan Govender](https://github.com/dylangovender)
 - [Tidjani Dia](https://github.com/tijani-dia)
+- Yujing Chen
 - [adameklw](https://github.com/adameklw)
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
 - [Taylor Griffin](https://github.com/Taylor-Griffin)
