@@ -33,6 +33,7 @@
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
+- [Vikas](https://github.com/vikasdabhi)
 - [Prashant Bhatkal](https://github.com/prashant-btkl) 
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
   [Ashish Tom](https://github.com/alceil)
