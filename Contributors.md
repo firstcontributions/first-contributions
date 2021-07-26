@@ -6880,6 +6880,7 @@ Aranya
 - [Raj kumar Suthar](https://github.com/raajsuthar)
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
+- [yannaung](https://github.com/yannaung)
 - phileinSophos
 - [Erick Luiz](https://github.com/erickLuizA)
 - [Afnan Malik](https://github.com/Afnanmk)
@@ -12718,7 +12719,8 @@ sam_namiranian
 - [ArmintasP](https://github.com/ArmintasP)
 - [Matthewvliay](https://github.com/Matthewvliay)
 - [jordicido](https://github.com/jordicido)
-  [wxo15](https://github.com/wxo15)
+- [yannaung](https://github.com/yannaung)
+- [wxo15](https://github.com/wxo15)
 - [joyshmitz](https://github.com/joyshmitz)
 - [Ahmad Adillaumam](https://github.com/wewnumam)
 - [Prasanna K R](https://github.com/prash1909)
