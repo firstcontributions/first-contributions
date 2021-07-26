@@ -12778,6 +12778,7 @@ sam_namiranian
 - [Colin](https://github.com/Colin-coder)
 - [usersblock](https://github.com/usersblock)
 - [Petros Papadopoulos](https://github.com/petran123)
+- [Haan-MingLim](https://github.com/mshaanminglim)
 - [Apostolos Athanasopoulos](https://github.com/ATG94)
 - Leong
 - [kck130030] (https://github.com/kck130030)
