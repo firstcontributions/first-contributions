@@ -11414,6 +11414,7 @@ Aranya
 - [Sahan Amarsha](https://github.com/SahanAmarsha)
 - [Jaden Jorradol](https://github.com/jDerp)
 - [Karoline Suzuki](https://github.com/suzukikarol)
+- [Richard Randria](https://github.com/randria)
 - [Oriel Sanchez](https://github.com/orielsanchez)
 - [Rodrigo Brito](https://github.com/rodrigodz1)
 - [Yusuke](https://github.com/yusuke99)
