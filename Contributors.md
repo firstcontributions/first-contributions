@@ -315,6 +315,7 @@
 - [Paurav Shah](https://github.com/paurav11)
 - [Brock Price] (https://github.com/brockwrites)
 - [Jayita Pramanik](https://github.com/Jayita10)
+- [Jayant Ahluwalia](https://github.com/jayantAhluwalia)
 - [Deepthi Sherly J](https://github.com/deepssherly)
 - [Haddee Ann] (http://github.com/haddeeann)
 - [Benyasca](https://github.com/lbgm2011)
