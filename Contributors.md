@@ -10557,6 +10557,7 @@ Isabella Namutendda
 - [Shai Malul 👨‍💻](https://https://github.com/shaimalul)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
 - [KamilBlaz](https://github.com/KamilBlaz)
+- [Samrat Mitra](https://github.com/lionelsamrat10)
 - [Joseph-chinedu](https://github.com/Josephchinedu)
 - [Jaymin Patil](https://github.com/Jaymin409)
 - [Shanborlang Suja](https://github.com/Shanborlang)
