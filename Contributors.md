@@ -12788,6 +12788,7 @@ sam_namiranian
 - [Breeana Payton](https://github.com/PaytonDev)
 - [Lv Yuchang](https://github.com/Yuchang-Lv)
 - [Naoki Takahashi](https://github.com/nemuki)
+- [Łukasz Klęba](https://github.com/Klebson-I)
 - [Takachii15](https://github.com/Takachii15)
 - [Ben Walton](https://github.com/PreciseNZ)
 - [coderBala](https://github.com/coderSathesBala)
