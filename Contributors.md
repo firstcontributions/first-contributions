@@ -389,7 +389,7 @@
 - [Shubham Mishra](https://github.com/turtlevelocity)
 - [Tamás Telegdi](https://github.com/teregudi)
 - [Ksenia](https://github.com/odnaks)
-- [Igor Volchenok](https://github.com/volchenokib/) 
+- [Igor Volchenok](https://github.com/volchenokib/)
 - [Lorenzo Colombo](https://github.com/L3llo)
 - [Jay](https://github.com/jaynne)
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
@@ -721,7 +721,7 @@
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
 - [Lorenz Beyer](https://github.com/beyerl/)
-- [Shruti] 
+- [Shruti]
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Owen Strength](https://github.com/owenstrength)
@@ -1987,6 +1987,7 @@ Isabella Namutendda
 - [Utkarsh Singh](https://github.com/anonymous-06-02)
 - [4d4143](https://github.com/4d4143)
 - Sharon Greally
+- [Matt Calvert](https://github.com/XanderCalvert)
 - [Vishal Krishna](https://github.com/vshlk17)
 - [Kapil Kungwani](https://github.com/kapilkungwani)
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
