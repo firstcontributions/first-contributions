@@ -590,6 +590,7 @@
 - [Mucahit Yildiz](https://github.com/mucyildiz)
 - [Onder Secen](https://github.com/osecen)
 - [Luka Piplica](https://github.com/luka2220)
+- [Vikram Jelije](https://github.com/vikramjelije)
 - [Olivia Roche](https://github.com/oliviaroche)
 - [Adam Ketata](https://github.com/adamketata)
 - [Mike Witts](https://github.com/iam-mike)
