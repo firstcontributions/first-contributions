@@ -258,6 +258,7 @@
 - [Kritika Bansal](https://github.com/kritika31-10) -[Anushk Srivastav](https://github.com/anushk-srivastav)
 - [Alan De Losky](https://github.com/alandelosky)🤘🔥⌨️
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
+- [Atalay Özmen] (https://github.com/atalayozmen)
 - [Mangal Kushwah](https://github.com/Link2324)
 - [HMS](https://github.com/MgPone)
 - [Femke Dijk](https://github.com/femmy199)
