@@ -405,6 +405,7 @@
 - [Vishal Uchil](https://github.com/vishaluchil)
 - [Kevin Noutsawo](https://github.com/kevnoutsawo)
 - [Akshat Jindal](https://github.com/AkshatJindal1)
+- [Denys](https://github.com/DenysPyshniuk)
 - [Ankit Rusia](https://github.com/AnkitRusia)
 - [maeky1986] (https://github.com/maeky1986)
 - [Saharsh Shukla](https://github.com/shuklasaharsh)
@@ -439,6 +440,7 @@
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
 - [Jolene Okamoto](https://github.com/joleneokamoto)
 - [Shashwat Singh](https://github.com/Shashwat545)
+- [Denys](https://github.com/DenysPyshniuk)
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [Omkar Joshi](https://github.com/joshi-omkar)
 - [utah239](https://github.com/utah239)
@@ -12809,15 +12811,11 @@ sam_namiranian
 - [Pavitra Mehra]
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
-
-- [Richard French](https://github.com/rfrench2) -[likeurboss](https://github.com/likeurboss)
-
 - [Richard French](https://github.com/rfrench2)
 - [Randika Rodrigo](https://github.com/RandikaR21)
--[likeurboss](https://github.com/likeurboss)
- master
+- [likeurboss](https://github.com/likeurboss)
 - [Wajid](https://github.com/iamswh)
-- [Randika Rodrigo](https://github.com/RandikaR21) -[likeurboss](https://github.com/likeurboss)
+- [Randika Rodrigo](https://github.com/RandikaR21)
 - [Enda Crossan](https://github.com/endacrossan/)
 - [Luke Paner](https://github.com/lukelucas1794)
 - [Lakshmi Juneja](https://github.com/lcjuneja)
