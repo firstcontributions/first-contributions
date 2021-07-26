@@ -12823,6 +12823,7 @@ sam_namiranian
 - [VendedorDeWards](https://github.com/VendedorDeWards)
 - [Gabriel Batista](https://github.com/BatistaGabriel)
 - [Eric Scagnelli](https://github.com/ericscagnelli)
+- [Seneli](https://github.com/Seneli)
 - [Siri Khalsa](https://github.com/skhalsa10)
 - [Sangit Gurung from Nepal] (https://github.com/sangitgrg)
 - [Tito Reinhart](https://github.com/TotallyNotTito)
