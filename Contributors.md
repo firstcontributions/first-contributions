@@ -10531,6 +10531,8 @@ Isabella Namutendda
 - [MorphTail](https://github.com/m0rphtail)
 - [gatzyw](https://github.com/gatzyw)
 - [kshida](https://github.com/kshida)
+- [Eric Deering] (https://github.com/Strahlend)
+- [Lindsey Howard] {https://github.com/codelikeagirl29)
 - [Revelosophy](https://github.com/revelosophy)
 - [Javier Laso](https://github.com/Jheavi)
 - [sampathkumar27896](https://github.com/SampathKumar27896)
