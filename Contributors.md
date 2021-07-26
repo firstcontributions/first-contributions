@@ -11531,6 +11531,7 @@ Aranya
 - [Samuel Alarco](https://github.com/SamuelAl)
 - [Saif Ali](https://github.com/saifalixxx)
 - [Brian Whelan](https://github.com/briantwhelan)
+- [Mihika Marathe](http://github.com/mihika-marathe)
 - [Matthew Wallace](https://github.com/matthu2711)
 - [Charbel Nebo](https://github.com/profcharb)
 - [Gwen McArdle](https://github.com/mcardleg)
