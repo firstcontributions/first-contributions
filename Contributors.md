@@ -1269,6 +1269,7 @@ Arpit Agarwal
 - [fwang wang] (https://github.com/fwangwang)
 - [abc_new_test]
 - Miguel MI
+- [David Kim](https://github.com/hyomiTheTech)
 - [Eric Shin](https://github.com/lvaka)
 - [Daman Arora](https://github.com/Damans227/)
 - [Yashpreet Kaur](https://github.com/DamYash)
