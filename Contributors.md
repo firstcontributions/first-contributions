@@ -1,4 +1,5 @@
 # Contributors
+- [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
 - [Alissa Zhang](https://github.com/alissazhang)
@@ -12,6 +13,7 @@
 - [Sagar Maharjan](https://github.com/sagarmaharjan)   
 - [Mansi Saini](https://github.com/msaini26)
 - [Devin Chugh](https://github.com/devinchugh)
+- [Harsh Saini](https://github.com/HarshSaini13)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
 - [Leonardo Albornoz-Leboroz](https://github.com/Leboroz)
 - [Benedikt Broich](https://github.com/BenediktBroich)
@@ -31,6 +33,7 @@
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
+- [Vikas](https://github.com/vikasdabhi)
 - [Prashant Bhatkal](https://github.com/prashant-btkl) 
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
   [Ashish Tom](https://github.com/alceil)
@@ -163,6 +166,7 @@
 - [CodingWatchCollector](https://github.com/CodingWatchCollector)
 - [Shivangi Agarwal](https://github.com/shivangi14)
 - [Dylan](https://github.com/BobDiggity)
+- [John Andre Yap](https://github.com/apotato369550)
 - [Rafael Gama](https://github.com/RaphaelGC7)
 - [Sunil Shastry](https://github.com/sunillshastry)
 - [Robert Greene](https://github.com/confused-cabbage)
@@ -1106,6 +1110,7 @@ Arpit Agarwal
 - [Sampath Rachumallu] (https://github.com/sampath97)
 - [Tim Chapman] (https:github.com/wobbly2732)
 - [Uzair Ali](https://github.com/uzair-ali10)
+- [Islam Ellawendy](https://github.com/islamellawendy)
 - [Daniel Armas](https://github.com/daniel692a)
 - [Nathan Sindres](https://github.com/nasdev-cmd)
 - [Pulkit Ranjan](https://github.com/pulkit2910-bit)
@@ -12899,4 +12904,3 @@ sam_namiranian
 - [Soransh Singh](https://github.com/soransh-singh)👋👋👋
 - [Tirth Patel](https://github.com/Tirth27)
 - [Marcel Schenk](https://github.com/mschnk)
-
