@@ -12797,6 +12797,7 @@ sam_namiranian
 - [jefferyjob](https://github.com/jefferyjob)
 - [akbarchives](https://github.com/akbarchives)
 - [sarthakkmishraa](https://github.com/sarthakkmishraa)
+- [pedro jorge](https://github.com/Alysty)
 - [smnjj44](https://github.com/smnjj44)
 - [blueskyson](https://github.com/blueskyson)
 - [ShantanuDash](https://github.com/ShantanuDash)
