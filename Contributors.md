@@ -76,7 +76,7 @@
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
 - [Julia Hoang](https://github.com/julhoang) CHECK OUT MINE!
 - [sktht](https://github.com/sktht)
-- [Ashwin Sam George](https://github.com/AshwinC8)	
+- [Ashwin Sam George](https://github.com/AshwinC8)
 - [Sanchit Kripalani](https://github.com/sanchitkripalani47)
 - [Zyrotot](https://github.com/Zyrotot)
 - [Pushkar Jain](https://github.com/PushkarRJain)
@@ -12870,11 +12870,11 @@ sam_namiranian
 - [Obichukwu O](https://github.com/obichukwu)
 - [Bunty](https://github.com/BuntyBru)
 - [jpbongiovanni](https://github.com/JpBongiovanni)
-- [Brittny M.] (https://github.com/AdmiralVancouver)
-- [Emilkens] (https://github.com/Emilkens)
+- [Brittny M.](https://github.com/AdmiralVancouver)
+- [Emilkens](https://github.com/Emilkens)
 - [Megat Harun](https://github.com/megatharun)
-- [komooo] (https://github.com/komooo)
-- [Leonie] (https://github.com/Leo-nie)
+- [komooo](https://github.com/komooo)
+- [Leonie](https://github.com/Leo-nie)
 - [Cami Queiroz](https://github.com/camimq)
 - [Himanshu Chaudhary] (https://github.com/chaudharyhimanshu)
 - [Cami Queiroz](https://github.com/camimq)
@@ -12901,5 +12901,6 @@ sam_namiranian
 - [Doni Wirawan](https://github.com/doniwirawan)
 - [Kayla Joubert](https://github.com/Kayla-Joubert/)🌱🌱🌱
 - [Matan Milrad](https://github.com/matan55)
+- [Soransh Singh](https://github.com/soransh-singh)👋👋👋
 - [Tirth Patel](https://github.com/Tirth27)
 - [Marcel Schenk](https://github.com/mschnk)
