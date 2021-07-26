@@ -12728,6 +12728,7 @@ sam_namiranian
 - [Aden Haussmann](https://github.com/adenhaus)
 - [snate](https://github.com/snate)
 - [Harshit Singh](https://github.com/HarshitX1002)
+- [Disha Mangla](https://github.com/M-dime)
 - [Eric Hamers](https://github.com/erichamers)
 - [Ryan Yancey](https://github.com/ryancey1)
 - [Juan Gomez](https://github.com/juanfgomeza)
