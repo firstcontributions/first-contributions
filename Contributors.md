@@ -947,6 +947,7 @@ Akshit Agarwal
 -[Gabriella Tavares] (https://github.com/gabriellatavares)
 -[Harry Wang] (https://github.com/harrywangyh)
 -[Pravin Mudaliyar]
+-[Ahmed Naji](https://github.com/Ahmedbennaji)
 -[Solomon Kabaliisa](https://github.com/kabaliisa)
 -[Abhilash Sreenivasa](https://github.com/abhilashSreenivasa)
 -[Evan Trujillo] (https://github.com/Evomatic)
