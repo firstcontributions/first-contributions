@@ -12782,6 +12782,7 @@ sam_namiranian
 - [Himanshu Chandola](https://github.com/himanshuchandola)
 - [Alii Wolf]
 - [Ayush Raj](https://github.com/AyushRaj8271)
+- [Le Minh Giang](https://github.com/mgiang2015)
 - [Tomás Ayi](https://github.com/tomasayi)
 - [sams500](https://github.com/sams500)
 - [AliSaffari](https://github.com/alisaffari97)
