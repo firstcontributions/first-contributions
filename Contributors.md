@@ -12756,6 +12756,7 @@ sam_namiranian
 - [李振洋(lucas)](https://github.com/lizhenyang123)
 - [Michaël Coutin](https://github.com/Eredost)
 - [Wayne Haworth](https://github.com/WayneHaworth)
+- [sayNice](https://github.com/sayNice)
 - [Tomás Quiñones](https://github.com/ISCybercoreSI)
 - [SeanYancy](https://seanyancy.github.io)
 - [0wv](https://github.com/0wv)
