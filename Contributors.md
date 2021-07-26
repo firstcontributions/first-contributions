@@ -12794,6 +12794,7 @@ sam_namiranian
 - [Goljoa](https://github.com/goljoa)
 - [Ibrahim Arshad](https://github.com/ibrahim1023)
 - [James Njoroge] (https://github.com/Mwithiga)
+- [Pavitra Mehra]
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
 
