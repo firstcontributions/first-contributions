@@ -479,6 +479,7 @@
 - [Elijah Wilcott] (https://github.com/ejw773)
 - [Nixon Kurian](https://github.com/Scarface69420)
 - [Muorah, Chisom] (https://github.com/chysomm62)
+- [r-kf] (https://github.com/r-kf)
 - [Gabriel Drutu](https://github.com/realDevDare)
 - [Cory Gipson](https://github.com/Cory-gip)
 - [Gao Ze](https://github.com/gaoze1998)
