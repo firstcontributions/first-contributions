@@ -7154,6 +7154,8 @@ Aranya
 - cw
 - fis Arain
 - Seb Ots
+- [Aryan Srivastava](https://github.com/Aryan-Srivastava)
+- [Aniruddha Bagal](https://github.com/aniruddhabagal)
 - Rohit Patil
 - [Kenneth Lamb](https://github.com/slurrps-mcgee)
 - [Yasharth Tripathi](https://github.com/yasharthratan)
