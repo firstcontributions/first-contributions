@@ -14,6 +14,7 @@
 - [Raja Mishra](https://github.com/Raja-mishra1)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)
 - [Mansi Saini](https://github.com/msaini26)
+- [Andrew Brady (https://github.com/andybrady52)]
 - [Devin Chugh](https://github.com/devinchugh)
 - [Harsh Saini](https://github.com/HarshSaini13)
 - [Abhishek More](https://github.com/Thokya)
