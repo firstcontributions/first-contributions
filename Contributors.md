@@ -504,6 +504,7 @@
 - [Jonathan O] (https://github.com/JonathanOliveros)
 - [Akshat Singh](https://github.com/akshatrksingh)
 - [Ekeopre Beredugo](https://github.com/Thebuilderekes)
+
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Thet Paing Soe] (https://github.com/thetpaing-soe)
 - [Sarah C Page] (https://github.com/sarahcpage)
@@ -541,6 +542,7 @@
 - [Michael Abrams](https://github.com/MichaelWayne83)
 - [Michael W](https://github.com/mwall-dev)
 - [winsalva](https://github.com/winsalva)
+- [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
 - [Alex Gulikers](https://github.com/yayorbitgum)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
@@ -621,6 +623,7 @@
   [Nikhil Agarwal](https://githib.com/nikhil0209)
   [Chase Skibeness](https://github.com/chase-skibeness)
   [Pathum Herath](https://github.com/virtualpathum)
+- [Waleed ur Rehman](https://github.com/waleedrehman31) :pakistan:
   Loc Nguyen
   Leen Abd Alkhaleq
   Hemachandar
