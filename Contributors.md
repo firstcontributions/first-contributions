@@ -347,6 +347,7 @@
 - [dwills] (https://github.com/dwaynewills)
 - [Tripti Nayak](https://github.com/trip19)
 - [Peter Staker](https://github.com/peterjast)
+- [shrey](https://github.com/shreyanshsinghuno)
 - [Gokul Balaji](https://github.com/gokulBalaG)
 - [Shruti Shetty](https://github.com/ShrutiShetty10)
 - [Gaurav Bansal](https://github.com//gauravb28)
