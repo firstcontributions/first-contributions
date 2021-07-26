@@ -12787,6 +12787,7 @@ sam_namiranian
 - [Vinay Devadiga](https://github.com/divincode)
 - [Abdulhakim Zatar](https://github.com/AbdulhakimZatar)
 - [Priyanshu Maitra](https://github.com/priyaaanshu)
+- [Al Jade Palaran](https://github.com/aljadepalaran)
 - [Siddhartha Sahu](https://github.com/CallMeSahu)
 - [Dom Campese](https://github.com/DomCampese) -[Stephen M](https://github.com/manstephen)
 - [Tony Ma](https://github.com/toekneema) -[Okoye-Nobert C.](https://github.com/Nobert-Ok) -[Rafael Cano Guitton](https://github.com/rafaelcanoguitton) -[Danrlei Dal Fré](https://github.com/danrleidalfre) -[Jeferson Cardoso](https://github.com/git-cardoso) -[Xing Yang](https://github.com/xy1989) -[Ahmetcan Aksu](https://github.com/ahmtcn123)
