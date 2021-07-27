@@ -1,6 +1,4 @@
 ﻿	# Contributors
-- [Sagar Maharjan](https://github.com/sagarmaharjan)   
-- [Mansi Saini](https://github.com/msaini26)
 - [Leonardo Albornoz-Leboroz](https://github.com/Leboroz)
 - [Benedikt Broich](https://github.com/BenediktBroich)
 - [Arian Izadi](https://github.com/arianizadi)
@@ -12791,7 +12789,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [IvanRamirez](https://github.com/iramirez-aptera)
 - [Oliw2](https://github.com/OliW2)
 - [djsdjs](https://github.com/djs-djs)
--[Lewis](https://github.com/LewiClancy)
+- [Lewis](https://github.com/LewiClancy)
 - [sinagun](https://github.com/sinagun)
-[ F r i z 1 7 2 3 6 ] ( h t t p s : / / g i t h u b . c o m / F r i t z 1 7 2 3 6  
+- [ F r i t z 1 7 2 3 6 ] ( h t t p s : / / g i t h u b . c o m / F r i t z 1 7 2 3 6 )  
  
