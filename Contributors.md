@@ -21,6 +21,7 @@
 - [Arian Izadi](https://github.com/arianizadi)
 - [SSW](https://github.com/SuSandiWin)
 - [Deboshruti Banerji](https://github.com/dbanerji)
+- [Govind Singh Bisht](https://github.com/govind2404)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
 - [Adithya LK](https://github.com/adilk0728)
 - [Kimbrian Marshall](https://github.com/cimbraien)
