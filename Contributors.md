@@ -311,6 +311,7 @@
 - [Akolade Ojesina] (https://github.com/light-oj)
 - [Abhishek Salunke ] (https://github.com/abhi3054)
 - [Salim Hertelli] (https://github.com/salim-hertelli)
+- [Mani Kandan](https://github.com/mkandan1)
 - [Haixuan Helen Guo] (https://github.com/HelenGuohx)
 - [Lily Stone] (https://github.com/DevidedByZero)
 - [Yashita Namdeo](https://github.com/yashitanamdeo)
