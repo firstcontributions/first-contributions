@@ -12995,3 +12995,4 @@ sam_namiranian
 - [Trang](https://github.com/maitrang85)
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
+- [Ko Miyatake](https://github.com/kome12)
