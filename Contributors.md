@@ -34,6 +34,7 @@
 - [HassanBahati](https://github.com/HassanBahati)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Thosan Girisona S](https://github.com/blankon123)
+- [Daniel Johnson](https://github.com/danjohnson77)
 - [Philip Lee](https://github.com/philiplee13)
   [Charles Kasasira](https://github.com/charleskasasira)
   Megan P.
