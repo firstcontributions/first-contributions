@@ -398,6 +398,7 @@
 - [Igor Volchenok](https://github.com/volchenokib/) 
 - [Lorenzo Colombo](https://github.com/L3llo)
 - [Jay](https://github.com/jaynne)
+- [Brady Gerber](https://github.com/bg-write)
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
 - [kalimero](https://github.com/kalimero0073)
 - [Abdulhussain Jarif](https://github.com/Abdulhussainjarif)
