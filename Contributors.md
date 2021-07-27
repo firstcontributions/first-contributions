@@ -6699,6 +6699,7 @@ Aranya
 - [Pratik Patel](https://github.com/pratikpatelx)
 - [Juliana Jaime](https://github.com/PeppermintNDaisies/)
 - [Faraz Suhail](https://github.com/Faraz710)
+- [Oren Lee](https://github.com/OrenLee)
 - [Zafir Khalid](https://github.com/Zafirmk)
 - [Fisayo Ojo](https://github.com/FisayoD)
 - [Juliano Paulo](https://github.com/jsdie099)
