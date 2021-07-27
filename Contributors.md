@@ -12991,3 +12991,4 @@ sam_namiranian
 - [youyangkou](https://github.com/youyangkou) ✨✨
 - [Trang](https://github.com/maitrang85)
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
+- [Kraiza Samuel M.](https://github.com/KRAiza)
