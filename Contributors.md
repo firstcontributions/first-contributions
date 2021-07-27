@@ -12982,4 +12982,6 @@ sam_namiranian
 - [Viktor Ivanov](https://github.com/sessgreem)
 - [Marcel Schenker](https://github.com/mschnk)
 - [MaximeP1](https://github.com/MaximeP1) ✨✨
+- [youyangkou](https://github.com/youyangkou) ✨✨
+- [Trang](https://github.com/maitrang85)
 
