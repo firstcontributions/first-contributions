@@ -12987,4 +12987,5 @@ sam_namiranian
 - [Marcel Schenk](https://github.com/mschnk)
 - [MaximeP1](https://github.com/MaximeP1)
 - [youyangkou](https://github.com/youyangkou) ✨✨
--[Trang](https://github.com/maitrang85)
+- [Trang](https://github.com/maitrang85)
+- [William Ahern](https://github.com/william-ahern) 🧙‍♂️
