@@ -97,6 +97,7 @@
   [Abhay Pratap Singh](https://github.com/abhay97ps)
   Shreshtha Misra
 - [raishaasuma](https://github.com/raishaasuma)
+- [ranger-code](https://github.com/ranger-code)
 - [Suyash Patel](https://github.com/iamsuyashpatel07)
 - [anicet kemedjio kenlefak](https://github.com/kemedjio/first-contributions)
   [Alonso Galindo](https://github.com/alggalin)
