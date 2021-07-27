@@ -295,6 +295,7 @@
 - [Amlan Mukherjee](https://github.com/amlanmukherjee)
 - [Amrit Kafle](https://github.com/Kaphleamrit)
 - [Srinu Rachakonda](https://github.com/Srinu126)
+- [Adam Smith](https://github.com/adammsmith)
 - [Kishor Pandey](https://github.com/kishorpan2)
 - [Myo Myat Min](https://github.com/MyoMyatMin)
 - [Kresmon Dev](https://github.com/KresmonDev)
