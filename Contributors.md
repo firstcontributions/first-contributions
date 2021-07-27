@@ -42,6 +42,7 @@
 - [Vikas](https://github.com/vikasdabhi)
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
+  [Bashar Zahalka](https://github.com/Basharza)
   [Ashish Tom](https://github.com/alceil)
   [Cma](https://github.com/cma124)
   [Kyle Jacobs](https://github.com/Sunswine)
