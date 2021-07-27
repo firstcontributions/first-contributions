@@ -414,6 +414,7 @@
   [Tim Krash](https://github.com/TimKrash)
 - [Varun Patodia](https://github.com/vrun1208)
 - [Igor Volchenok](https://github.com/volchenokib/)
+- [R7G2](https://github.com/R7G5)
 - [Riad Guliyev](https://github.com/R7G5)
 - [Nikhil Sathisha](https://github.com/NikhilSathisha)
 - [Rahul Dhankhar](https://github.com/dhankhar313)
