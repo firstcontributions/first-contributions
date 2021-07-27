@@ -396,7 +396,7 @@
 - [Shubham Mishra](https://github.com/turtlevelocity)
 - [Tamás Telegdi](https://github.com/teregudi)
 - [Ksenia](https://github.com/odnaks)
-- [Igor Volchenok](https://github.com/volchenokib/) 
+- [Igor Volchenok](https://github.com/volchenokib/)
 - [Lorenzo Colombo](https://github.com/L3llo)
 - [Jay](https://github.com/jaynne)
 - [Brady Gerber](https://github.com/bg-write)
@@ -730,7 +730,7 @@
 - [Muhammad Ahmed] (https://github.com/ahmed-logiciel)
 - rjaquez
 - [Lorenz Beyer](https://github.com/beyerl/)
-- [Shruti] 
+- [Shruti]
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Owen Strength](https://github.com/owenstrength)
@@ -12992,6 +12992,7 @@ sam_namiranian
 - [Marcel Schenk](https://github.com/mschnk)
 - [MaximeP1](https://github.com/MaximeP1)
 - [youyangkou](https://github.com/youyangkou) ✨✨
+- [aran159](https://github.com/aran159)
 - [Trang](https://github.com/maitrang85)
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
