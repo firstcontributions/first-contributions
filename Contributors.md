@@ -243,6 +243,7 @@
 - [Tendai Chikwiri](https://github.com/TendaiChikwiri/)
 - Nazmul Islam Nayeem
 - [Joel Aviles](https://github.com/Appithe)
+- [Adrin Martis](https://github.com/SitramSoft)
 - [Alok Mahalka](https://github.com/AlokMahalka)
 - [João Mendes](https://github.com/joaopmendes)
 - [Billy Magarali](https://github.com/BillyMagarali)
