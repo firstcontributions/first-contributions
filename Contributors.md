@@ -699,6 +699,7 @@
   Vasundhara
   Prakhar
 - [Rupak Thapa Magar](https://github.com/RUPAAK)
+- [Cassian Kahema](https://github.com/caykay)
   Chaste Akomoize
   [Cassian Kahema](https://github.com/caykay)
   Santosh D J
