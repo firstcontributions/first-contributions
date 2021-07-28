@@ -4941,6 +4941,7 @@ Aranya
 - [CodeBlooded](https://github.com/codeblooded-47)
 - [WeLostTheNight](https://github.com/574469831)
 - [Utkarsh Nagar]
+- [Shrey Umrigar](https://github.com/shrey52)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Martín Torres](https://github.com/codelink98)
 - [Michael Ndon](https://github.com/haelmj)
@@ -13004,4 +13005,5 @@ sam_namiranian
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
-- [Xiao Wei] (https://github.com/tempxiaowei) 🐱‍🐉
+- [Xiao Wei](https://github.com/tempxiaowei) 🐱‍🐉
+- [Ko Miyatake](https://github.com/kome12)
