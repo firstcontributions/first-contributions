@@ -791,6 +791,7 @@
 - [JHRS]
 - [Suman kumar]
 - [Wesley Beck](https://github.com/wizbeck21)
+- [Mpendulo Sibiya](https://github.com/mpendulo-dev)
 - [Philipp Armingeon](https://github.com/pparmin)
 - [Kartikeya Srivastava ](https://github.com/Kartikeya05S)
 - [Jaykishan Satikuvar]
