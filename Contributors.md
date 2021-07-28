@@ -12909,6 +12909,7 @@ sam_namiranian
 - [levartsang](https://github.com/levartsang)
 - [Taulant Xhakli](https://github.com/taulantxhakli)
 - [VendedorDeWards](https://github.com/VendedorDeWards)
+- [Ken Sakama](https://github.com/KensukeSakama)
 - [Gabriel Batista](https://github.com/BatistaGabriel)
 - [Eric Scagnelli](https://github.com/ericscagnelli)
 - [Seneli](https://github.com/Seneli)
@@ -13002,3 +13003,4 @@ sam_namiranian
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
+
