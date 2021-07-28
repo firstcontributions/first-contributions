@@ -12795,6 +12795,7 @@ sam_namiranian
 - [Andrew Blackmore](https://github.com/MrBlackmo)
 - [Siddharth Priyadarshi](https://github.com/siddharthPriyadarshi)
 - [Limerenxey](https://github.com/YemingQing)
+- [Bharath M B🎃](https://github.com/bharathmb7)
   [Shai Raz](https://github.com/shai-raz)
 - [Zyq](https://github.com/zeng865170091)
 - [Namir](https://github.com/Namir7/first-contributions)
