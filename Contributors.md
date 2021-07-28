@@ -13005,3 +13005,5 @@ sam_namiranian
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
+- [Xiao Wei](https://github.com/tempxiaowei) 🐱‍🐉
+- [Ko Miyatake](https://github.com/kome12)
