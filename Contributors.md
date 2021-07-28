@@ -820,8 +820,8 @@
 - [Uwazurike Victor](https://github.com/Paxtor2)
 - [Lakshya Chandrakar](https://github.com/Lakshyaaa)
 - [CristianH15]
-  [Prashil Ganvir]
-  Shashank Srivastava
+- [Prashil Ganvir]
+- Shashank Srivastava
 - [Nikoll Adrienn Ujlaki](https://github.com/NikollAdrienn)
 - [Otito Darl-Uzu](https://github.com/otito12)
 - [Gordon D. Bonnar](https://github.com/gordbot)
@@ -829,8 +829,7 @@
 - [Isabela de França](https://github.com/i-defranca)
 - [Stephano Hernandez](https://github.com/StephanoAH)
 - [Santiago Rhenals](https://github.com/srLitem)
-  Rahul V (rahulv07)
-Rahul V (rahulv07)
+- [Rahul V ](rahulv07)
 - [Erik Grivalsky](https://www.erikgrivalsky.com)
 - [lyine](https://github.com/lyineee)
 - [Jalaj Sahai](https://github.com/jalaj900)
@@ -873,9 +872,9 @@ Rahul V (rahulv07)
 - [Nitish Vaishnav](https://github.com/nitishv2017);
 
 - [Sachin Kasaraddi (ಸಚಿನ್ ಕಸರಡ್ಡಿ)](https://github.com/SachinKasaraddi)
--[Pranjal](https://github.com/pranjalparashar)
--[Luke Kellett](https://github.com/NitroTears)
--[Dijo T Mathews](https://github.com/dijotmathews)
+- [Pranjal](https://github.com/pranjalparashar)
+- [Luke Kellett](https://github.com/NitroTears)
+- [Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
 -[Rajkumar Panwar]
 -[Allen Zhao](https:/github.com/allenxzhao)
