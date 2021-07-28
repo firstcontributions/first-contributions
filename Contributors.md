@@ -12799,6 +12799,7 @@ sam_namiranian
 - [Modified]
 - [Aden Haussmann](https://github.com/adenhaus)
 - [snate](https://github.com/snate)
+- [fred0m](https://github.com/fred0m)
 - [Harshit Singh](https://github.com/HarshitX1002)
 - [Disha Mangla](https://github.com/M-dime)
 - [Eric Hamers](https://github.com/erichamers)
