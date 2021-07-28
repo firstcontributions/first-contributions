@@ -263,8 +263,8 @@
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
 - [Anthony Z](https://github.com/Antzed)
-- [Atul Kumar](https://github.com/rattlehead1319)]
 - [MarosJev]
+= [Atul Kumar](https://github.com/rattlehead1319)]
 - [Marcus Harrison](https://github.com/arcyopterix)
 - [Mario Nan](https://github.com/DevMarioNan)
 - [Pushpak Prateek] (https://github.com/psk001)
