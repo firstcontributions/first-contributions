@@ -28,9 +28,9 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-এখন এই রিপোটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন *ক্লিপবোর্ডে কপি করুন(copy to clipboard)* আইকনটিতে।
+এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন *ক্লিপবোর্ডে কপি করুন(copy to clipboard)* আইকনটিতে।
 
-টার্মিনাল চালু করুন এবং নিচের কমান্ড রান করুন:
+আপনার টার্মিনাল (উইন্ডোজের ক্ষেত্রে কমান্ড প্রম্পট (CMD)) চালু করুন এবং নিচের কমান্ড রান করুন:
 
 ```
 git clone "url you just copied"
@@ -109,7 +109,7 @@ git push origin <add-your-name>
 
 ## অন্যান্য টুল ব্যবহারের টিউটোরিয়াল
 
-|<a href="https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/2000px-Visual_Studio_2017_logo_and_wordmark.svg.png" width="100"></a>|<a href="https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/2000px-Visual_Studio_2017_logo_and_wordmark.svg.png" width="100"></a>|<a href="https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|
 

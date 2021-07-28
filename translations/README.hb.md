@@ -10,17 +10,17 @@
 </div>
 
 <div dir="rtl">
-זה קשה. זה תמיד קשה כשעושים משהו בפעם הראשונה. במיוחד כאשר משתפים פעולה, לעשות טעויות זה לא משהו נוח. רצינו להקל על הדרך שבה תורמים בפעם הראשונה לומדים ותורמים בפעם הראשונה.
-קריאת כתבות וצפייה בסרטוני הדרכה יכולים לעזור, אבל מה יותר טוב מאשר לבצע את הדברים בסביבת למידה? המטרה של הפרויקט הזה היא לתת הכוונה ולפשט את הדרך שבה מתחילים מבצעים את התרומה הראשונה שלהם. אם אתם מחפשים לבצע את התרומה הראשונה שלכם, עקבו אחרי הצעדים למטה.
+מטרת פרויקט זה היא לפשט ולהדריך מתחילים בדרכם אל תרומתם הראשונה לקוד פתוח.
+ אם אתם מחפשים דרך לבצע תרומה ראשונית, עקבו אחר ההוראות הבאות.
 </div>
 
 <div dir="rtl">
-<h4> אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
-<a href="#הדרכות-בשימוש-כלים-אחרים">קישור לכלים גרפיים</a>.</h4>
+<h4> אם אינכם חשים בנוח להשתמש בשורת פקודה, ניתן להשתמש 
+<a href="#הדרכות-בשימוש-כלים-אחרים">בכלים גרפיים</a>.</h4>
 </div>
 
 <div dir="rtl">
-<h4>ניתן לקרוא את המאמר
+<h4>כמו כן, ניתן לקרוא את המאמר
 <a href="">בשפות אחרות</a>.</h4>
 </div>
 
@@ -51,7 +51,8 @@
 
 <div dir="rtl">
   
-כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `העתק ללוח`
+כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `copy to clipboard`.
+
 פתחו טרמינל והריצו את הפקודה הבאה:
 </div>
 
@@ -60,7 +61,7 @@ git clone "url you just copied"
 ```
 <div dir="rtl">
   
-כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר שביצעתם עליו FORK מקודם. ראו את הצעדים הקודמים כדי להשיג את הקישור.
+כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו FORK קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
 </div>
 
 <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -74,7 +75,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 <div dir="rtl">
   
-כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. כאן, אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
+כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. לכאן אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
 </div>
 
 <div dir="rtl">
@@ -82,7 +83,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 </div>
 
 <div dir="rtl">
-תחליפו לתיקיית המאגר בתוך המחשב שלכם (אם אתם כבר לא נמצאים שם):
+החליפו לתיקיית המאגר בתוך המחשב שלכם (אם אינכם נמצאים כבר בתיקייה זו ):
 </div>
 
 ```
@@ -94,7 +95,7 @@ cd first-contributions
 </div>
 
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b your-new-branch-name
 ```
 <div dir="rtl">
   לדוגמא:
@@ -105,7 +106,7 @@ git checkout -b add-alonzo-church
 ```
 
 <div dir="rtl">
-(שם הענף לא חייב להכיל את המילה add בתוכו, אבל זה הגיוני להוסיף אותה מכיוון שהמטרה של הענף היא להוסיף את השם שלכם לרשימה)
+(שם הענף לא חייב להכיל את המילה add בתוכו, אבל זה הגיוני להוסיף אותה מכיוון שמטרת הענף היא להוסיף את שמכם לרשימה.)
 </div>
 
 <div dir="rtl">
@@ -114,7 +115,7 @@ git checkout -b add-alonzo-church
 
 <div dir="rtl">
   
-כעת תפתחו את הקובץ, `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
+כעת פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
 
 
 אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
@@ -126,7 +127,7 @@ git add Contributors.md
 ```
 <div dir="rtl">
   
-עכשיו, בצעו(commit) את שינויים הללו תוך שימוש בפקודת `git commit`:
+עכשיו, בצעו commit לשינויים הללו תוך שימוש בפקודת `git commit`:
 </div>
 
 ```
@@ -134,7 +135,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 <div dir="rtl">
   
-החליפו את הביטוי `<your-name>` .עם השם שלכם
+החליפו את הביטוי `<your-name>` עם השם שלכם.
 </div>
 
 <div dir="rtl">
@@ -151,7 +152,7 @@ git push origin <add-your-branch-name>
 ```
 <div dir="rtl">
   
-החליפו את `<add-your-branch-name>` .עם השם של הענף שיצרתם מוקדם יותר
+החליפו את `<add-your-branch-name>` עם השם של הענף שיצרתם מוקדם יותר.
 </div>
 
 <div dir="rtl">
@@ -160,7 +161,7 @@ git push origin <add-your-branch-name>
 
 <div dir="rtl">
   
-אם תלכו למאגר שלכם ב-GitHub, אתם תראו כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
+אם תלכו למאגר שלכם ב-GitHub, תוכלו לראות כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -181,7 +182,8 @@ git push origin <add-your-branch-name>
 
 <div dir="rtl">
 כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של Fork->Clone->Edit->PR שאתם תפגשו באופן שכיח כתורמים!
-חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל-<a href="https://firstcontributions.github.io/#project-list">web app</a>.
+תחגגו את התרומתכם ושתפו אותה עם החברים והעוקבים שלכם בכך שתלכו ל-<a href="https://firstcontributions.github.io/#project-list">web app</a>.
+  </br>
 אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות.
 <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">הצטרפו לקבוצת סלאק</a>.
 

@@ -2,7 +2,7 @@
 
 Па-першае, варта разумець паток для поўнай сінхранізацыі, што важна. У гэтай схеме ёсць 3 розныя рэпазітары: мае адкрытыя сховішча ў Github `github.com / firstcontributions / first-doprino.git`, ваш відэлец сховішча на GitHub` github.com / Your-Name / first-donates / ` і сховішча мясцовай машыны, на якой вы павінны працаваць. Такі від супрацоўніцтва характэрны для праектаў з адкрытым зыходным кодам і называецца `Triangle Workflows`.
 
-<img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
+<img style="float;" src="https://firstcontributions.github.io/assets/additional-material/triangle_workflow.png" alt="triangle workflow" />
 
 Каб захаваць вашыя два сховішчы ў актуальным стане з маім адкрытым сховішчам, мы спачатку павінны здабыць і аб'яднаць агульнае сховішча з рэпазітарам вашай лакальнай машыны.
 Наш другі крок - перанесці ваша мясцовае сховішча ў відэлец GitHub. Як вы ўжо бачылі раней, толькі "з відэльцам" вы можаце папрасіць "pull request". Такім чынам, відэлец GitHub - апошняе сховішча, якое трэба абнавіць.
