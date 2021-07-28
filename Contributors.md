@@ -4962,6 +4962,7 @@ Aranya
 - [Martín Torres](https://github.com/codelink98)
 - [Michael Ndon](https://github.com/haelmj)
 - [jaanP1]
+- [Varun Gupta](https://github.com/varungupta31)
 - [Varad Galgali]
 - [Animish Pande](https://github.com/animishpande)
 - [Crystal Wernicke](https://github.com/CrystalWernicke)
