@@ -674,7 +674,7 @@
   [Andaleeb Farooq] (https://github.com/cerafinn)
   [Diksha Nasa] (https://github.com/dikshanasa)
   [Prudhvi raj] (http://github.com/prudhvirajstark/)
-  [Harmeet Singh] (https://github.com/harmeetsinghmittu)
+- [Harmeet Singh](https://github.com/harmeetsinghmittu)
   [Ankit Yadav](https://github.com/ankitcr7-afk)
 - [Fabricio Pashaj](https://github.com/fabriciopashaj)
   [Adam McCartney](https://github.com/adammccartney)
