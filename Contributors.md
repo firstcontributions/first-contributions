@@ -553,6 +553,7 @@
 - [Gourav Ojha](https://github.com/gouravojha)
 - [Kedam Karthik](https://github.com/Karthik781)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
+- [Nyareh David](https://github.com/NyarehD)
 - [uday kalyan] (https://github.com/coder11235)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [SI](https://github.com/WutHmone)
