@@ -568,6 +568,7 @@
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Sam Blundell](https://github.com/Sam-Blundell)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
+- Zoran Topic, Zagreb!
 - [Robin Jastrzebski](https://github.com/rbnjay)
 - [HMT](https://github.com/HlaingMinThan) -[ZarLi](https://github.com/zarlinaingtun)
 - [Risa] (https://github.com/risamp)
@@ -12796,6 +12797,7 @@ sam_namiranian
 - [sayNice](https://github.com/sayNice)
 - [Tomás Quiñones](https://github.com/ISCybercoreSI)
 - [SeanYancy](https://seanyancy.github.io)
+- [Zoran Topic]
 - [0wv](https://github.com/0wv)
 - [MattAlvero](https://github.com/MattAlvero)
 - Logan
