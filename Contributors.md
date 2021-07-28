@@ -1094,6 +1094,7 @@ Arpit Agarwal
 -[Karun Jain](https://github.com/jainkarun8)
 -[Anto Melvin](https://github.com/antomelvin)
 -[Cooper Walter](https://github.com/cooperwalter)
+-[Naveen Gokavarapu](https://github.com/NaveenGokavarapu19)
 - [John Henry](https://github.com/jhenryj09)
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 - [Michael Hsieh](https://github.com/mdhsieh) -[Madhuri reddy](https://github.com/Madhurireddy1)
