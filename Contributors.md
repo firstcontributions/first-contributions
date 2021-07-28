@@ -563,6 +563,8 @@
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
+- [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
+- [WHS](https://github./WutHmoneSoe)
 - [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
 - [Anthony Ingle](https://github.com/ingleanthony) 🧑‍💻
 - [Sachin Upadhyay](https://github.com/sachsbu)
