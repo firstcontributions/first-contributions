@@ -5,6 +5,7 @@
 - [cafonso](https://github.com/cafonso)
 - [utah239](https://github.com/utah239
 - [samedsay](https://github.com/samedsay)
+- [Louis Bond](https://github.com/mrbondx)
 - [Ehtesham Siddiqui](https://github.com/cadmaus) 
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Enes Alper Balta](https://github.com/eabalta)
