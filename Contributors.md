@@ -1,4 +1,5 @@
 # Contributors
+- [samedsay](https://github.com/samedsay)
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
