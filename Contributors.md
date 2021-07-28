@@ -1,5 +1,6 @@
 # Contributors
 - [Riya Gupta 👩](https://github.com/RiyaGupta89) 
+- [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 - [cafonso](https://github.com/cafonso)
 - [utah239](https://github.com/utah239
 - [samedsay](https://github.com/samedsay)
