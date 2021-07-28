@@ -868,6 +868,7 @@ Rahul V (rahulv07)
 - [Jay Gala](https://github.com/jaygala223)
 - [Kushagra Kshatri] (https://github.com/kushagrakshatri)
 - [Pashyant](https://github.com/Pashyant)
+- [Jared Cassoutt](https://github.com/jaredcassoutt)
 - [Ryan Seo] (https://github.com/mikeeei)
 - [Nitish Vaishnav](https://github.com/nitishv2017);
 
