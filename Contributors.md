@@ -13000,6 +13000,7 @@ sam_namiranian
 - [youyangkou](https://github.com/youyangkou) ✨✨
 - [aran159](https://github.com/aran159)
 - [Trang](https://github.com/maitrang85)
+- [Miras Talaspayev](https://github.com/MirasTalaspayev)
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
