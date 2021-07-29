@@ -1,4 +1,5 @@
 # Contributors
+- [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
@@ -7,7 +8,7 @@ Joshua Do
 - [utah239](https://github.com/utah239
 - [samedsay](https://github.com/samedsay)
 - [Louis Bond](https://github.com/mrbondx)
-- [Ehtesham Siddiqui](https://github.com/cadmaus) 
+- [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
