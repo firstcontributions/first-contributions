@@ -24,6 +24,7 @@ Joshua Do
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Niti Shah](https://github.com/Niti-Shah)
+- [Dhwanik Panchal](https://github.com/dhwanik9)
 - [Raja Mishra](https://github.com/Raja-mishra1)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)
 - [Mansi Saini](https://github.com/msaini26)
