@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -13,7 +13,7 @@
 #### *Pokud nemáte rádi příkazovou řádku, [zde najdete návody na použití nástrojů s GUI (grafické uživatelské rozhraní)]( #tutorials-using-other-tools )*
 
 
-<img align="right" width="300" src="../assets/fork.png" alt="forkněte tento repozitář" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkněte tento repozitář" />
 
 Pokud namáte nainstalovaný git, [nainstalujte si jej]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, j
 
 ## Naklonujte repozitář
 
-<img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="naklonujte tento repozitář" />
 
 Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
@@ -34,7 +34,7 @@ git clone "url které jste právě zkopírovali"
 
 ```
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="zkopírujte adresu do schránky" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="zkopírujte adresu do schránky" />
 
 Například:
 
@@ -69,7 +69,7 @@ Jméno větve by mělo vypovídat o tom, co kód nebo cokoliv jiného do ní př
 
 Otevřete soubor `Contributors.md` v textovém editoru a přidejte do něj své jméno. Napiště jej někam doprostřed a soubor uložte.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme//git-status.png" alt="git status" />
 
 Pokud teď v příkazové řádce spustíte příkaz `git status`, uvidíte jaké změny byly v repozitáři provedeny.
 
@@ -99,11 +99,11 @@ git push origin <jmeno-vasi-vetve>
 
 Pokud se nyní podíváte do svého GitHub repozitáře, uvidíte tlačítko **Compare & pull request**. Klikněte na něj.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="vytvořte pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme//compare-and-pull.png" alt="vytvořte pull request" />
 
 Teď vytvořte žádost o přetažení vaší větve do originálního repozitáře (anglicky *pull request*).
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="potvrďte pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme//submit-pull-request.png" alt="potvrďte pull request" />
 
 Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
 
