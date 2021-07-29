@@ -6552,6 +6552,7 @@ Aranya
 - [Firas Mujahidin](https://github.com/firasisme)
 - [Daniel Sabic](https://github.com/sabicd)
 - [Srijita Sarkar](https://github.com/SrijitaSarkar99)
+- [Jared Feltner](https://github.com/jjfeltner)
 - [Manav Ranawat](https://github.com/ManavRanawat)
 - [Jessica Bakare](https://github.com/jessiBak)
 - [Nehemias Muñoz](https://github.com/NMM-M)
