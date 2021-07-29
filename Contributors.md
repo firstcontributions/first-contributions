@@ -1,14 +1,16 @@
 # Contributors
--[ASHUTOSH KUMAR CHOUDHARY]}:)))(https://github.com/Ash-KODES)
+- [ASHUTOSH KUMAR CHOUDHARY]}:)))(https://github.com/Ash-KODES)
+- [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
+- [YZ](https://github.com/Yarzarmyomin97)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
 - [cafonso](https://github.com/cafonso)
 - [utah239](https://github.com/utah239
 - [samedsay](https://github.com/samedsay)
 - [Louis Bond](https://github.com/mrbondx)
-- [Ehtesham Siddiqui](https://github.com/cadmaus) 
+- [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
@@ -24,6 +26,7 @@ Joshua Do
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Niti Shah](https://github.com/Niti-Shah)
+- [Dhwanik Panchal](https://github.com/dhwanik9)
 - [Raja Mishra](https://github.com/Raja-mishra1)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)
 - [Mansi Saini](https://github.com/msaini26)
@@ -64,6 +67,7 @@ Joshua Do
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
 - [Martin Bozhinov] (https://github.com/MartinBozhinov)
+- [BrotatoBoi]      (https://github.com/BrotatoBoi) ;p
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [emachado](https://github.com/ErickMachado95)
   [thurasittnaing](https://github.com/coding2am)
@@ -138,6 +142,7 @@ Joshua Do
 - [Kyle Ramsay] (https://github.com/KyRams)
 - [Nasreddine Yakhou] (https://github.com/nasroykh)
 - [Guli]
+-[Sumit Mukharjee] (https://github.com/sumitmukharjeeeeee)
 - [Dongdong Shi](https://github.com/Dongdong-Shi)
 - [Geert-Jan Knapen](https://github.com/geertjanknapen1)
 - [Brandon Herrera](https://github.com/brandonhxrr)
@@ -13053,3 +13058,4 @@ sam_namiranian
 - [Ankit Srivastava](https://github.com/ankitsrivast)
 - [Shubham Sah] (https://github.com/shubham-sah)
 - [Samyak Choudhary](https://github.com/samyak-max)
+- [Hrishikesh Nikam](https://github.com/hrishikeshnikam2000) ✨🍕
