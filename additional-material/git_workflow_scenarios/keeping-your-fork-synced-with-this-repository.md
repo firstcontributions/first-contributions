@@ -2,7 +2,7 @@
 
 First, the flow for a full sync should be understood, which is important. In this schema, there are 3 different repos: my public repo on Github `github.com/firstcontributions/first-contributions.git`, your fork of the repo on GitHub `github.com/Your-Name/first-contributions/` and your local machine's repo from which you are suppose to work. This kind of cooperation is typical for open source projects and called `Triangle Workflows`.
 
-<img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
+<img style="float;" src="https://firstcontributions.github.io/assets/additional-material/triangle_workflow.png" alt="triangle workflow" />
 
 To keep your two repos up-to-date with my public repo, we first have to fetch and merge the public repo with your local machine's repo.
 Our second move will be to push your local repo to your GitHub fork. As you've seen earlier, it's only from your fork that you can ask for a "pull request". So your GitHub fork is the last repo to be updated.
@@ -36,5 +36,10 @@ Here you're merging the public repository with your master branch. Your local ma
 git push origin master
 ```
 Notice here you're pushing to the remote named `origin`.
+
+If you want to fetch and merge the latest changes of my fork (`upstream` remote) to your local branch at same time then you can directly go for:
+```
+git pull upstream master
+```
 
 So by now or at this point, all your repositories are up-to-date. Well done! You should do this, everytime your GitHub repo tells you that you are a few commits behind.
