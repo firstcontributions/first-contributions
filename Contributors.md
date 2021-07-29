@@ -817,6 +817,7 @@ Joshua Do
 - [Kartikeya Srivastava ](https://github.com/Kartikeya05S)
 - [Jaykishan Satikuvar]
 - [DakOneil]
+- [singleman68](https://github.com/singleman68)
 - [Denali Balser](https://github.com/denalibalser)
 - [Edward S]
 - [Michelle](https://github.com/Michelle)
