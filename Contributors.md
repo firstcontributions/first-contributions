@@ -6085,6 +6085,7 @@ Aranya
 - [Riyad Khan](https://github.com/rr3khan)
 - [Harshit Dixit](https://github.com/harshitdxt3004)
 - [Alison Li](https://github.com/Alison-Li)
+- [Loren DiLoreto](https://github.com/lorendiloreto)
 - [Levit Kanner](https://github.com/levitkanner)
 - [Vinicius Melo](https://github.com/vmeelo)
 - [Prajjwal Mishra](https://github.com/prajjwalm)
