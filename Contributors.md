@@ -18,6 +18,7 @@ Joshua Do
 - [Alissa Zhang](https://github.com/alissazhang)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [David Páez](https://github.com/paezdavid)
+- [maryamdkh](https://github.com/maryamdkh)
 - [Leandro Arruda](https://github.com/llarruda)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
@@ -32,6 +33,7 @@ Joshua Do
 - [Mansi Saini](https://github.com/msaini26)
 - [Andrew Brady (https://github.com/andybrady52)]
 - [Devin Chugh](https://github.com/devinchugh)
+- [maryamdkh](https://github.com/maryamdkh)
 - [Harsh Saini](https://github.com/HarshSaini13)
 - [Babu Mohammed Izhan](https://github.com/Babu-Mohammed-Izhan)
 - [Abhishek More](https://github.com/Thokya)
