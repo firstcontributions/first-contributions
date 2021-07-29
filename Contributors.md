@@ -18,6 +18,7 @@ Joshua Do
 - [Leandro Arruda](https://github.com/llarruda)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
+- [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
