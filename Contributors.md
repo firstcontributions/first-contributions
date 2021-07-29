@@ -2,6 +2,7 @@
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
+- [YZ](https://github.com/Yarzarmyomin97)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
 - [cafonso](https://github.com/cafonso)
