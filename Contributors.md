@@ -4712,6 +4712,7 @@ Aranya
 - [Ketan Patel](https://github.com/kpatel2000)
 - [Shahana Khan](https://github.com/TechieOwl)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
+- [Heinlay Dev](https://github.com/HeinlayDev)
 - [Pitambara Awadhesh](https://github.com/Pitambara16)
 - [Madhur Agrawal](https://github.com/madhur0809)
 - [Bandu Bhaiya](https://github/bandubhaiya)
@@ -8495,6 +8496,7 @@ Aranya
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
 - [Rebecca M]
+- [Rebecca M]
 - [Sure](https://github.com/surebhandari)
 - [Abhishek Ahirwar](https://github.com/abhiahirwar)
 - [Swarna Sarkar](https://github.com/sarkarsd)
@@ -8700,6 +8702,7 @@ Aranya
 - [Michael Shea](https://github.com/soum-io)
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
 - [HKA](https://github.com/hariharankabc)
+- [Kartik Singh]
 - [Kartik Singh]
 - [Andres Hernandez](https://github.com/Thunderbolt2010)
 - [Ahmed Ragab](https://github.com/ahmedrgb1)
@@ -10431,6 +10434,7 @@ Aranya
 - [AlexanderSherrow](https://github.com/AlexanderSherrow)
 - [Kishan Pate](https://github.com/kishan151999)
 - kistee
+- kistee
 - [Greg Fanyan](https://github.com/Gregfanyan)
 - [Johannes Kultanen](https://github.com/jommari)
 - [JCastillo](https://github.com/JesusIgnacio)
@@ -10891,6 +10895,7 @@ Aranya
 - [Evan Stocker](https://github.com/evanstocker)
 - [FuckedUp Developer](https://github.com/fupdeveloper)
 - [Yuvraj Chettri](https://github.com/chettriyuvraj)
+- [Eric Eric]
 - [Eric Eric]
 - [Joshua Hew](https://github.com/CSugarPrince)
 - [Pradeep Appala](https://github.com/pradeepappala)
