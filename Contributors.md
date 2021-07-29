@@ -94,6 +94,7 @@
 - [Julia Hoang](https://github.com/julhoang) CHECK OUT MINE!
 - [sktht](https://github.com/sktht)
 - [Ashwin Sam George](https://github.com/AshwinC8)
+- [Astrelle](https://github.com/Astrelle)
 - [Sanchit Kripalani](https://github.com/sanchitkripalani47)
 - [Zyrotot](https://github.com/Zyrotot)
 - [Pushkar Jain](https://github.com/PushkarRJain)
