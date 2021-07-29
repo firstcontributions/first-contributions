@@ -4437,6 +4437,7 @@ Aranya
 - [Nikhil Singhal](https://github.com/nikhil-stack)
 - [Anqi Wang](https://github.com/Ducky2222)
 - [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
+- [Kishan Suthar](https://github.com/kshn01)
 - [Nada Farook](https://github.com/nada1619)
 - [Astitv Shandilya](https://github.com/axtitv)
 - [Hybridkernel](https://github.com/Hybridkernel)
