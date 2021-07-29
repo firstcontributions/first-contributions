@@ -7458,6 +7458,7 @@ Aranya
 - [Rafael Adão](https://github.com/RafaelAdao)
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - [Darshan Chudiwal](https://github.com/kvothemaedre)
+- [Saikat Roy](https://github.com/njmsaikat/)
 - [Placide Rigole FOLEU](https://github.com/rigole)
 - [Dani El-Ayyass](https://github.com/dayyass)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
@@ -10337,6 +10338,7 @@ Aranya
 - [Bruno Fontes](https://github.com/brunofontes)
 - Max
 - [Susmita Banerjee](https://github.com/Susmo31)
+- [Saikat Roy](https://github.com/njmsaikat)
 - [Erik Klockare](https://github.com/eklockare)
 - malik
 - [Guruprasad Veerannavaru](https://github.com/urguru)
