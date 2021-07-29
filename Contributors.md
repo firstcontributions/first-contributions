@@ -1,5 +1,6 @@
 # Contributors
 - [Krish Nerkar](https://github.com/krish-Nerkar)
+- [Heinlay Dev](https://github.com/HeinlayDev)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
