@@ -873,6 +873,7 @@ Joshua Do
 - [Yehua Wei] (https://github.com/yehuawei01)
 - [Charlotte Delvaux](https://github.com/pgm-chardelv1)
 - [James Greenway] (https://github.com/JPGreenway)
+- [Muhidin Hukic](https://github.com/Muhidin123)
 - [D'Angela Pritchett-Rowe] (https://github.com/dangelapr)
 - [Thorben Below](https://github.com/thorbenbelow)
 - [Rene Maldonado] (https://github.com/renemaldonado)
