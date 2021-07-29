@@ -3977,6 +3977,7 @@ Aranya
 - [Courtney Buratto](https://github.com/cocoitali)
 - [Neha Gupta](https://github.com/nehagupta253)
 - [Disha Koul](https://github.com/dkoul818)
+- [Naol Chala](https://github.com/naolchala)
 - [Harshvardhan Agarwal](https://github.com/harshvardhan10)
 - [Matthew Lewis](https://github.com/malewis5)
 - [Revvin-Evan](https://github.com/Revvin-Evan)
