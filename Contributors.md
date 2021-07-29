@@ -1,6 +1,7 @@
 # Contributors
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
+- [YZ](https://github.com/Yarzarmyomin97)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 - [cafonso](https://github.com/cafonso)
 - [utah239](https://github.com/utah239
