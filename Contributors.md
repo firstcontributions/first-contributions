@@ -789,6 +789,7 @@ Joshua Do
 - [Victor Manzanilla](https://github.com/VictorManzanilla)
 - [Mike Sanins](https://github.com/mikes-cpu)
 - [Avnish Jha](https://github.com/avnish100)
+- [Víctor Araica](https://github.com/VictorAraica)
 - [Ritika Kapre](https://github.com/RitikaKapre)
 - [Anish De](https://github.com/anishde12020)
 - [Riddhi Athreya](https://github.com/RiddhiAthreya/)
@@ -2037,6 +2038,7 @@ Isabella Namutendda
 - [Brandon Ward](https://github.com/bward021)
 - [Ashot Janibekyan](https://github.com/ashotjanibekyan)
 - Govind Saju
+
 - Lucy McGinnis
 - Sankalp Parashar
 - [Utkarsh Singh](https://github.com/anonymous-06-02)
@@ -4466,6 +4468,7 @@ Aranya
 - [Catelen Wu](https://github.com/catw101)
 - [Huumewittima](https://github.com/Huumewittima)
 - [Matthew D. Brock](https://github.com/matthewdbrock1968)
+
 - [DavidDahan]
 - [Jck](https://github.com/ashujack)
 - [adi levy](https://github.com/Adiso-1)
@@ -5025,6 +5028,7 @@ Aranya
 - Kelli Boulware
 - [Charchit Kapoor](https://github.com/Being-Maverick/first-contributions)
 - [Abhinav Tiwari](https://github.com/abhinav-idle)
+
 - Omar Navarro
 - [Anders Djursaa](https://github.com/adjuc)
 - [Candra Perdana](https://github.com/cp2940)
@@ -9411,6 +9415,7 @@ Aranya
 - [mushBrainDave](https://github.com/mushBrainDave)
 - [Ryan Andrew Sibat](https://github.com/ryaaanandrew)
 - [Keith Johnson](http://github.com/john24144)
+
 - [bazmoz](https://github.com/bazmoz)
 - [JayZal](https://github.com/jayzal)
 - [Sayem Wani](https://github.com/SayemW)
@@ -11132,6 +11137,7 @@ Aranya
 - [Mahendra Reddy](https://github.com/reddymahendra52)
 - [Pavel Vašíček](https://github.com/pavev)
 - [Kostas Tanios]
+
 - [Arpitaa]
 - [Mohan Sharma](https://github.com/mohan3679)
 - [Raj Joshi](https://github.com/rocketrunner22)
@@ -12500,6 +12506,7 @@ sam_namiranian
 - [Alvin Zhao](https://github.com/yzAlvin)
 - [Dmego](https://github.com/dmego)
 - [Lcan](https://github.com/lcan520)
+
 - [Sooraj Sunil](https://github.com/soorajsunil1409)
 - [Robin Mark Oscar Gill](https://github.com/gillocodes1)
 - [Dan Vidoni](https://github.com/dan-vidoni)
