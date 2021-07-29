@@ -309,6 +309,7 @@ Joshua Do
 - [Sal Galan] (https://github.com/SalGalan)
 - [Megan](https://github.com/Free-apples)
 - [Fordorth](https://github.com/firebird2552)
+- [Harris Gu](https://github.com/harrisgugu)
 - [Zahra Hmz](https://github.com/zahra94h)
 - [Mathy Hoessels](https://github.com/mathyhoessels)
 - [Lakshman Palli](https://github.com/LakshmanPalli)
