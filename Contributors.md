@@ -66,7 +66,7 @@ Joshua Do
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
 - [Martin Bozhinov] (https://github.com/MartinBozhinov)
-  [BrotatoBoi]      (https://github.com/BrotatoBoi) ;p
+- [BrotatoBoi]      (https://github.com/BrotatoBoi) ;p
   [Safyan Yaqoob](https://github.com/safyan-developer)
   [emachado](https://github.com/ErickMachado95)
   [thurasittnaing](https://github.com/coding2am)
