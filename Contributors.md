@@ -10,6 +10,7 @@
 - [Alissa Zhang](https://github.com/alissazhang)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [David Páez](https://github.com/paezdavid)
+- [maryamdkh](https://github.com/maryamdkh)
 - [Leandro Arruda](https://github.com/llarruda)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
