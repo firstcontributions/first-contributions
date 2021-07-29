@@ -7,7 +7,8 @@
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
 - [cafonso](https://github.com/cafonso)
-- [utah239](https://github.com/utah239
+- [utah239](https://github.com/utah239)
+- [abimaelB](https://github.com/abimael-o-o)
 - [samedsay](https://github.com/samedsay)
 - [Louis Bond](https://github.com/mrbondx)
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
