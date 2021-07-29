@@ -12803,6 +12803,7 @@ sam_namiranian
 - [mariuszpawlowicz](https://github.com/mariusz79)
 - [Lisdey Perez](https://github.com/lisdey-perez)
 - [Awsaf](https://github.com/awsaf49)
+- [Akshat Kumar](https://github.com/akshat-52)
 - [Muzzmil](https://github.com/muzammilCO)
 - [Daekun](https://github.com/daekun0920)
 - [joshKesler](https://github.com/jkesle)
