@@ -5538,6 +5538,7 @@ Aranya
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - [Maxim Dmitriev](https://github.com/maxim-dmi3ev)
 - [Ray Ockenfels](https://github.com/Rockenfels)
+- [Martin Johansson](https://github.com/DefinitelyUnlikely)
 - [Adam Elitzur]()
 - [Christeen Fernando](https://github.com/christeen24)
 - [Patrick jeeva](https://github.com/patrickjeeva)
