@@ -13110,6 +13110,7 @@ sam_namiranian
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
+- [Alexis Mendez](https://github.com/amendezm)
 - [Xiao Wei](https://github.com/tempxiaowei) 🐱‍🐉
 - [Ko Miyatake](https://github.com/kome12)
 - [Melody Yun](https://github.com/caramelmelmel)
