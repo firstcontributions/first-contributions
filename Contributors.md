@@ -1134,6 +1134,9 @@ Arpit Agarwal
 -[Yuv](https://github.com/yuvsust)
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
+Gavriel Frant
+Dimi
+-[Dimitar Atanassov](https://github.com/DimitarAtanassov)
 -[Anto Melvin](https://github.com/antomelvin)
 -[Cooper Walter](https://github.com/cooperwalter)
 -[Naveen Gokavarapu](https://github.com/NaveenGokavarapu19)
