@@ -12780,6 +12780,7 @@ sam_namiranian
 - [Will Saville](https://github.com/wiru)
 - [Makhlouk Oussama](https://github.com/oussamaM1)
 - [stefanolod](https://github.com/stefanolod)
+- [richard](https://github.com/randria)
 - [Mathias SOUPAULT](https://github.com/msoupault)
 - [Ayush Aggarwal](https://github.com/ayush2701)
   \_ [Ludo Da] (https://github.com/Genos-kun)
