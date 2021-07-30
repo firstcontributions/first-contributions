@@ -20,6 +20,7 @@ Joshua Do
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Michael French](https://github.com/frenchytheasian)
 - [Enes Alper Balta](https://github.com/eabalta)
+- [Arshal Nuna Soren](https://github.com/arshalsoren)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
 - [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
