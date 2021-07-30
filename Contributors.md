@@ -2239,6 +2239,7 @@ Aranya
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Brandon Roberts] (https://github.com/brobert8)
 - Ceylan
+- JulesRuby
 - [George L](https://github.com/lambet6)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Trevor Dolbow] (https://github.com/tdolbow)
