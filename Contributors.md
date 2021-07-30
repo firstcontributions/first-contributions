@@ -12764,6 +12764,7 @@ sam_namiranian
 - [Sushrut Lekurwale] (https://github.com/sushrutlekurwale)
 - [Chowsy Cho] (https://github.com/chowsychoch/)
 - [Kurtis Hanson](https://github.com/kxrtiswithak/)
+- [Pradeep Khandelwal](https://github.com/deepjangid65/)
 - [Md. Mubdiur Rahman](https://github.com/mubdiur)
 - [Kumar Vishnu](https://github.com/atkumarvishnu)
 - [Jithin Thomas] (https://github.com/kronosjt)
