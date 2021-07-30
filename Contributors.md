@@ -599,6 +599,7 @@ Joshua Do
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Sam Blundell](https://github.com/Sam-Blundell)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
+- [May Myat Thu](https://github.com/maymyat11)
 - Zoran Topic, Zagreb!
 - [Robin Jastrzebski](https://github.com/rbnjay)
 - [HMT](https://github.com/HlaingMinThan) -[ZarLi](https://github.com/zarlinaingtun)
