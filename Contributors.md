@@ -17,6 +17,7 @@ Joshua Do
 - [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
+- [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
 - [Alissa Zhang](https://github.com/alissazhang)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [David Páez](https://github.com/paezdavid)
