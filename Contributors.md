@@ -4,6 +4,7 @@
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
 - [YZ](https://github.com/Yarzarmyomin97)
+- [Jason Zhu](https://github.com/JasonZhu95
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
 - [cafonso](https://github.com/cafonso)
