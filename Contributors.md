@@ -13120,3 +13120,4 @@ sam_namiranian
 - [Hrishikesh Nikam](https://github.com/hrishikeshnikam2000) ✨🍕
 - [Jacob Santa Maria](https://github.com/kord127)
 - [Tyo Nirwansyah](https://github.com/itstyonirwansyah)
+- [JiWoo Baik](https://github.com/jxb4892)
