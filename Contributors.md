@@ -10568,6 +10568,7 @@ Aranya
 - [Gunnar Siréus](https://github.com/gunnarsireus)
 - [Léo Battin](https://github.com/leobattin)
 - test contribution
+- [lindadade](https://github.com/lindadade)
 - [Paul Ventura](https://github.com/pmventura)
 - [Soumya Satheesan](https://github.com/soumya225)
 - [Pavan Vinnakota](https://github.com/pavan5555)
