@@ -12,6 +12,7 @@ Joshua Do
 - [utah239](https://github.com/utah239)
 - [abimaelB](https://github.com/abimael-o-o)
 - [samedsay](https://github.com/samedsay)
+- [Zachary Adams](https://github.com/FatalTrip)
 - [Louis Bond](https://github.com/mrbondx)
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [AaryanPal](https://github.com/Aaryanpal)
