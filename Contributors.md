@@ -1,5 +1,6 @@
 # Contributors
 - [Ross Calvert](https://github.com/Ross-C)
+- [Alyssa Alexander] (https://github.com/alyssaalexander)
 - [Akoopie](https://github.com/Akoopie)
 - [Ajay yadav](https://github.com/AjayYadavAi)
 - [Thanos Dimitriades](https://github.com/thanosades)
