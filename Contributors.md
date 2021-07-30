@@ -11,6 +11,7 @@
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
+-[masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
 - [utah239](https://github.com/utah239)
