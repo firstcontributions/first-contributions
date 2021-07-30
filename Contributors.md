@@ -874,6 +874,7 @@ Joshua Do
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
 - [Aaqil Raj Krishna](https://github.com/Aaqil-Raj-Krishna)
 - [Craig Sweeney](https://github.com/sweeneycw)
+- [Cat Sheiles](https://github.com/CatSheiles)
 - [Anirudh Kaushal](https://github.com/anirudh09041)
 - [Yehua Wei] (https://github.com/yehuawei01)
 - [Charlotte Delvaux](https://github.com/pgm-chardelv1)
