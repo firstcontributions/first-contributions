@@ -11,6 +11,7 @@
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
 - [cafonso](https://github.com/cafonso)
+- [Lukman Sayyad](https://github.com/lukmansayyad)
 - [utah239](https://github.com/utah239)
 - [abimaelB](https://github.com/abimael-o-o)
 - [samedsay](https://github.com/samedsay)
