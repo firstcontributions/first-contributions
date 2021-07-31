@@ -11,6 +11,7 @@
 - [Andy Chep](https://github.com/AndreyChepik)
 - [YZ](https://github.com/Yarzarmyomin97)
 - [Jason Zhu](https://github.com/JasonZhu95
+- [Daniel Levandovschi] (https://github.com/tiger55md)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
 Anishka (https://github.com/anishka01)
