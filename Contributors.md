@@ -19,7 +19,7 @@ Anishka (https://github.com/anishka01)
 -[masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
-
+- [Luciano Zangeronimo](https://github.com/zangeronimo)
 - [utah239](https://github.com/utah239)
 - [abimaelB](https://github.com/abimael-o-o)
 - [samedsay](https://github.com/samedsay)
