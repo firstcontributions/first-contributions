@@ -1,5 +1,4 @@
 # Contributors
-
 - [Ross Calvert](https://github.com/Ross-C)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
 - [Prathamesh Sawant] (https://github.com/Prathamesh0421)
