@@ -12820,6 +12820,7 @@ sam_namiranian
 - [Fenix Xia](https://github.com/Fenix3123)
 - [Ratan Patil](https://github.com/ratanpatil212)
 - [ctrenthem](https://github.com/nothead31)
+- [William Savary](https://github.com/flip902)
 - [Fenix Xia](https://github.com/Fenix3123)
 - [najes](https://github.com/najes)
 - [Amit] (https://github.com/amankul)
