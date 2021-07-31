@@ -528,6 +528,8 @@ Anishka (https://github.com/anishka01)
 - [OKM](https://github.com/Oakkar-Min)
 - [RohinKumar] (https://github.com/rohin1841)
 - [TheSmartDeveloperr](https://github.com/thesmartdeveloperr)
+-[MMS](https://github.com/MoeMoeSan)
+-[neerajsharma2000](https://github.com/neerajsharma2000)
   -fc
   -mdm
 - [mehrankamal](https://github.com/mehrankamal)
@@ -589,6 +591,7 @@ Anishka (https://github.com/anishka01)
 - Ak47
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Dylan Dylan](https://github.com/WateryWhale)
+- [Nelliosis](https://github.com/Nelliosis)
 - [Michael Michael](https://github.com/ntirinigaSr)
 - [Abdul Majid](https://github.com/majidabdulred)
 - [Sis Aung](https://github.com/sisaung)
