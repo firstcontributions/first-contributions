@@ -203,6 +203,7 @@ Joshua Do
 - [Lestly](https://github.com/Lestlyy)
 - [saitgulmez](https://github.com/saitgulmez)
 - [Cîrja David](https://github.com/ZackTK)
+- [Siva Bathula](https://github.com/siva-bathula/)
 - [Juan Millord](https://github.com/millord)
 - [Deborah Ong](https://github.com/Debiday)
 - [Shayne LaRochelle](https://github.com/lockedNLevered)
