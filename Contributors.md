@@ -197,6 +197,7 @@ Anishka (https://github.com/anishka01)
 - [Mehmet Arslan](https://github.com/maliarslan)
 - Mohit Bhobariya
 - [Abhyudaya Avasthi](https://github.com/avasthiabhyudaya)
+- [Chetan Giradkar](https://github.com/chetan-giradkar)
 - [mzuhdi](https://github.com/mzuhdi)
 - [Jangleur](https://https://github.com/Jangleur1991)
 - [Ivette]
