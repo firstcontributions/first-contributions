@@ -82,6 +82,7 @@
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
 - [Taylor Griffin](https://github.com/Taylor-Griffin)
 - [Himanshu Malviya](https://github.com/Himanshu664)
+- [Ningbo Wang](https://github.com/NingboWang)
 - [MLTDK](https://github.com/MLTDK)
 - [adamantia](https://github.com/adamantiakoutsi)
 - [Samer Sawan](https://github.com/SamerSawan)
