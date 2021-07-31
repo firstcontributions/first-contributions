@@ -48,6 +48,7 @@ Joshua Do
 - [Babu Mohammed Izhan](https://github.com/Babu-Mohammed-Izhan)
 - [Abhishek More](https://github.com/Thokya)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
+- [Prabir Tarafdar](https://github.com/ptarafdar001)
 - [Leonardo Albornoz-Leboroz](https://github.com/Leboroz)
 - [Benedikt Broich](https://github.com/BenediktBroich)
 - [Arian Izadi](https://github.com/arianizadi)
