@@ -197,6 +197,7 @@ Anishka (https://github.com/anishka01)
 - [Mehmet Arslan](https://github.com/maliarslan)
 - Mohit Bhobariya
 - [Abhyudaya Avasthi](https://github.com/avasthiabhyudaya)
+- [Jangleur](https://https://github.com/Jangleur1991)
 - [Ivette]
 - [Jack Decker](https://github.com/jackbrunid)
 - [Maru Gemini](https://github.com/MaruGemini)
