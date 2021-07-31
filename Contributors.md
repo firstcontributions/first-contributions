@@ -2,7 +2,7 @@
  
 - [Harjot Singh](https://github.com/harjotkarwal)
 - [Dylan Barrett](https://github.com/IllegalBeagle123) 
-+ [Griffin Annshual](https://github.com/GriffinAnnshual)
+- [Griffin Annshual](https://github.com/GriffinAnnshual)
 - [Rachana Bhalsing](https://github.com/rachanb)
 - [Vatana Chhorn](https://github.com/VatanaChhorn)
 - [Shane O'Moore](https://github.com/shaneiadt)
