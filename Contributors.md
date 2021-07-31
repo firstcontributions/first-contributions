@@ -10864,6 +10864,8 @@ Aranya
 - [Omar]
 - [Thierry]
 - [Mark]
+- [Dylan Barrett](https://github.com/IllegalBeagle123) 
+- [Griffin Annshual](https://github.com/GriffinAnnshual)
 - [Michael Diedricks](https://github.com/mdiedricks)
 - [Ronan D'Souza](https://github.com/ronan696)
 - [Aldhaneka](https://github.com/Aldhanekaa)
