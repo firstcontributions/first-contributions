@@ -1,4 +1,5 @@
 # Contributors
+
 - [Ross Calvert](https://github.com/Ross-C)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
 - [Prathamesh Sawant] (https://github.com/Prathamesh0421)
@@ -36,6 +37,7 @@ Joshua Do
 - [Leandro Arruda](https://github.com/llarruda)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
+- Jimmy Lee Jones
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Benjamin Wolf](https://github.com/devBenWolf)
