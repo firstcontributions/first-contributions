@@ -253,6 +253,7 @@ Joshua Do
 - [Antonio Huerta Reyes](https://github.com/AntonioHReyes)
 - [Arnaud Depierreux](https://github.com/arnaud-eb)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
+- [Suvan](https://github.com/suvan1911)
 - [Igor Kochman](https://github.com/ditvor)
 - [Shubhushan Kattel](https://github.com/skattel49)
 - [Vikash Singh Bhadoriya](https://github.com/Vikash-Singh-Bhadoriya)
