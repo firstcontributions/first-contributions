@@ -9548,6 +9548,7 @@ Aranya
 - [Yulian Karapetkov](https://github.com/yuliankarapetkov)
 - [Gustavo Maeda](https://github.com/nihil1911)
 - [Amos Mwangi](https://github.com/AmosMwangi)
+- [Fanindra Nayak](https://github.com/FanindraNayak)
 - [Clayton Zheng](https://github.com/claytonzheng)
 - [Cyprian Tingiweh](https://github.com/cypriantingiweh)
 - [Bob Wilson](https://github.com/bwilson753)
