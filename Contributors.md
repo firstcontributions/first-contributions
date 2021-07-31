@@ -252,6 +252,7 @@ Joshua Do
 - [Isabelle Cristine](https://github.com/IsabelleCrispim)
 - [Antonio Huerta Reyes](https://github.com/AntonioHReyes)
 - [Arnaud Depierreux](https://github.com/arnaud-eb)
+- [Suvan](https://github.com/suvan1911)
 - [Guilherme Peixoto](https://github.com/guipeixoto)
 - [Igor Kochman](https://github.com/ditvor)
 - [Shubhushan Kattel](https://github.com/skattel49)
