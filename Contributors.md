@@ -98,6 +98,7 @@ Anishka (https://github.com/anishka01)
 - [Benrard Solien](https://github.com/bernardstuff)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
+- [Abd](https://github.com/abd-ar)
 - [Martin Bozhinov] (https://github.com/MartinBozhinov)
 - [BrotatoBoi](https://github.com/BrotatoBoi) ;p
 - [Safyan Yaqoob](https://github.com/safyan-developer)
