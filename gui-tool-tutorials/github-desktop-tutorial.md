@@ -50,7 +50,7 @@ Now create a branch by clicking on the "Current branch" icon at the top and then
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="make a branch" />
 
-Name your branch <add-your-name>. For example, "add-james-smith"
+Name your branch <add-firstname-lastname>. For example, "add-james-smith"
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
 
@@ -70,11 +70,11 @@ You can see that there are changes to Contributors.md and they have been added t
 
 Now commit those changes:
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field.
+Write the message "Add `<firstname-lastname>` to Contributors list" in the *summary* field.
 
-Replace `<your-name>` with your name.
+Replace `<firstname-lastname>` with your name.
 
-Click on the button that says `Commit to add-your-name`.
+Click on the button that says `Commit to add-firstname-lastname`.
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
 
