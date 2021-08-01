@@ -2188,6 +2188,7 @@ Isabella Namutendda
 - [Adithya Vijay](https://github.com/Adithyavj)
 - [Ankit Karn](https://github.com/AnkitKarnAk)
 - [Jack Aitken](https://github.com/jackaitken)
+- [Lucas Coutinho](https://github.com/lcscou)
 - [Nathan Taylor](http://github.com/n-taylor)
 - [Kaila Iglesias](https://github.com/kaila1)
 - [Chris Ashman] (https://github.com/Cashman1396)
