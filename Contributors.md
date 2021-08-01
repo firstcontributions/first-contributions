@@ -954,6 +954,7 @@ Anishka (https://github.com/anishka01)
 - [Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
 - [Rajkumar Panwar]
+- [Abhijeet Singh](https://github.com/gitjeet)
 - [Allen Zhao](https:/github.com/allenxzhao)
 - [Amisha Aggarwal](https://github.com/amishaagg)
 - [Nikhil Limbad](https://github.com/nikkhil31)
