@@ -12827,6 +12827,7 @@ Isabella Namutendda
 - [Sushrut Lekurwale] (https://github.com/sushrutlekurwale)
 - [Chowsy Cho] (https://github.com/chowsychoch/)
 - [Kurtis Hanson](https://github.com/kxrtiswithak/)
+- [Pontus Andersson](https://github.com/Poan18)
 - [Pradeep Khandelwal](https://github.com/deepjangid65/)
 - [Md. Mubdiur Rahman](https://github.com/mubdiur)
 - [Kumar Vishnu](https://github.com/atkumarvishnu)
