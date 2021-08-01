@@ -3284,6 +3284,7 @@ Isabella Namutendda
 - Bryce Videka
 - [Vikas Bansal](https://github.com/Vikuman/)
 - [Brittany Lindgren](https://github.com/LINDGRENBA)
+- [Siddharth Manoj](https://github.com/SiddharthManoj14)
 - Jarred Lopez
 - [Alejandro Rodriguez Lopez](https://github.com/AlejandroRdzLpz/)
 - [Kevin Satti](https://github.com/Kevlar2222)
