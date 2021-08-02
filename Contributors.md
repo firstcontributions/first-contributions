@@ -12751,7 +12751,7 @@ Isabella Namutendda
 - [Alan Chiou](https://github.com/AlanChiou)
 - [Dalhatu Njidda](https://github.com/dalsn)
 - [snaileny] (https://github.com/snaileny)
-- [Cihat Salik] (https://github.com/cihat)
+- [Cihat Salik](https://github.com/cihat)
 - [Stewart Clay] (https://github.com/PorkStew)
 - [Omkar Jadhav](https://github.com/omkar342)
 - [Kayode Adetayo](https://github.com/bubykay)
