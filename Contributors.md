@@ -1202,6 +1202,8 @@ Arpit Agarwal
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
+nit kin
+elkhechafi zakaria
 Dimi
 -[Dimitar Atanassov](https://github.com/DimitarAtanassov)
 -[Anto Melvin](https://github.com/antomelvin)
