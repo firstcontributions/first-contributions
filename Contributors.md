@@ -1235,6 +1235,7 @@ Dimi
 - [silver612](https://github.com/silver612)
 - [Søren Tønnesen](https://github.com/Soerentoennesen)
 - [Jose Manuel Montaño Saenz](https://github.com/Mooenz/)
+- [Rishabh]
 - [Edwin Kodjou](https://github.com/edk21)
 - [Michał Czyż](https://github.com/czyzu1710)
 - [Kyle Abrahams](https://github.com/Kyle-Abrahams)
