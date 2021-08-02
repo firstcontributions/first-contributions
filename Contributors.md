@@ -12691,6 +12691,7 @@ Isabella Namutendda
 - [Marker04] (https://github.com/Marker04)
 - [guenthi] (https:/github.com/guenthi)
 - [Sam K](https://github.com/wahwic)
+- [Samin Yaser](https://github.com/SaminYaser-work)
 - [Jhonathan Angus](https://github.com/Johnzy916)
 - [Jenna Chestnut](https://github.com/jenna-chestnut)
 - [xiangyu](https://github.com/yuquan222)
