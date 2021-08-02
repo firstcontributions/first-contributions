@@ -12820,6 +12820,7 @@ Isabella Namutendda
 - [Jacqueline Brown](https://github.com/jbrown-lab)
 - [Saurabh Singh Sisodia](https://github.com/saurabhsisodia)
 - [Genevea](https://github.com/genevea)
+- [Julian Quintero](https://github.com/Julian-quintero)
 - [Amul Agrawal](https://github.com/amulagrawal02)
 - [aidken](https://github.com/aidken)
 - [Josiah Denny](https://github.com/jcdenny)
