@@ -11143,6 +11143,7 @@ Isabella Namutendda
 - [Théo Migeat](https://github.com/STM3900)
 - [Sanket Bhatt](https://github.com/sanket-bhatt)
 - [Ananta Pratama](https://github.com/eincode)
+- [Dewantoro](https://github.com/Dewan-toro)
 - [Sumit Raj](https://github.com/sumit-raj-au5)
 - [Théo Migeat](https://github.com/STM3900)
 - [ToxicCharger](https://github.com/ToxicCharger1)
