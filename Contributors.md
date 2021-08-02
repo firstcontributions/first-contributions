@@ -12812,7 +12812,7 @@ Isabella Namutendda
 - [Venu Madhav Reddy Vanga](https://github.com/vvmadhavreddy)
 - [Jeffrey Chiu](https://github.com/jeffreyc86)
 - [Curtis Allyn Green](https://github.com/CurtGreen)
-- [Andreas Jessen](https://github.com/BurningTrapezoid)
+- [Andreass Jessen](https://github.com/BurningTrapezoid)
 - [Henrique Batista](https://github.com/RiqueBR)
 - [Piotr Pomierski](https://github.com/Pomierski)
 - [VigneshLingam](https://github.com/VigneshLingam)
@@ -12836,6 +12836,7 @@ Isabella Namutendda
 - [AndriyKurdyukov](https://github.com/AndriyKurdyukov)
 - [Ashvith Shetty](https://github.com/Ashvith)
 - [Laszlo]
+- [Hozi625]
 - [Grzegorz Boczek](https://github.com/grzegorzboczek)
 - [Karthik Srinivas Bhallamudi](https://github.com/karthiksbh)
 - [Varga Tamas](https://github.com/tvarga94)
