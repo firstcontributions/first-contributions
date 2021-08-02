@@ -1587,6 +1587,7 @@ Dimi
 - [Dawum Nam](https://github.com/dawumnam)
 - [CYB3R G0D](https://github.com/CYB3R-G0D)
 - John John
+- [ Shakur ](https://github.com/shakurgds)
 - Prithvi
 - Satyam Gupta
 - EternalBlu
