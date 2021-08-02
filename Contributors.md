@@ -1322,6 +1322,7 @@ Dimi
 - [Gaurav Bansal](https://github.com/GauravBansal29)
 - [Anthony Coudène](https://github.com/acoudene)
 - [Keyur Gandhi](https://github.com/keyurgit45)
+- [Souptik Barman](https://github.com/quantumprogram)
 - [Marco Costa](https://github.com/marcocosta1618)
 - [Maciej Debski](https://github.com/sunnyfloyd)
 - [bobbychilami](https://github.com/bobbychilami)
