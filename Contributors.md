@@ -12857,6 +12857,7 @@ Isabella Namutendda
 - [Jithin Thomas](https://github.com/kronosjt)
 - [Drew Daniels](https://github.com/Drew-Daniels)
 - [Nathaniel Grill](https://github.com/ncfgrill)
+- [J. Daniel F. Ruano](https://github.com/jezsdaniel)
 - [Cindy Conrad] (https://github.com/syhndie)
 - [Margy Couper](https://github.com/wassupbonsai)
 - [Kate Follett](https://github.com/kateskips)
