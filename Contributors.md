@@ -13245,3 +13245,4 @@ Isabella Namutendda
 - [r3dg33k](https://github.com/r3dg33k)
 - [jabir](https://github.com/jabir366)
 - [Gustavo Tavares](https://github.com/gustavo600)
+- [Nate Cottrell](https://github.com/NC-Coyote)
