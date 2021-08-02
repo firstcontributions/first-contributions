@@ -967,7 +967,8 @@ Anishka (https://github.com/anishka01)
 - [Zhiheng (Eric) Xu](https://github.com/Imericxu)
 - [Rahul Roy](https://github.com/Rahul6918
 - [Johnathan Baldera](https://github.com/JohnathanBaldera)
-- [Rajkumar Panwar]
+- [Rajkumar Panwar]()
+- [Xenia Thiem](https://github.com/XeniaThiem)
 - [Abhijeet Singh](https://github.com/gitjeet)
 - [Allen Zhao](https:/github.com/allenxzhao)
 - [Amisha Aggarwal](https://github.com/amishaagg)
