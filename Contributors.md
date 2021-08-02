@@ -953,6 +953,7 @@ Anishka (https://github.com/anishka01)
 - [Jay Gala](https://github.com/jaygala223)
 - [Kushagra Kshatri] (https://github.com/kushagrakshatri)
 - [Pashyant](https://github.com/Pashyant)
+- [mastak-ua](https://github.com/mastak-ua)
 - [Jared Cassoutt](https://github.com/jaredcassoutt)
 - [Ryan Seo] (https://github.com/mikeeei)
 - [Nitish Vaishnav](https://github.com/nitishv2017);
