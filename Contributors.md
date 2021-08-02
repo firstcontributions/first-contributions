@@ -1233,6 +1233,7 @@ Dimi
 - [siddhesh jungade](https://github.com/siddheshJungade)
 - [Omkar Chari](https://github.com/omkarchari619)
 - [Abhipriya Bhattacharya] (https://github.com/abhipriya-gif)
+- [HamzaOutdoors](https://github.com/Hamzaoutdoors)
 - [Jana Bobulis] (https://github.com/JanaBobulis)
 - [Blaine Young](github.com/blaine137)
 - [Elijah Prom](github.com/S2Mackinley)
