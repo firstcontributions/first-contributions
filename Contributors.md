@@ -12828,6 +12828,7 @@ Isabella Namutendda
 - [Andreass Jessen](https://github.com/BurningTrapezoid)
 - [Henrique Batista](https://github.com/RiqueBR)
 - [Piotr Pomierski](https://github.com/Pomierski)
+- [Phanthro](https://github.com/Phanthro)
 - [VigneshLingam](https://github.com/VigneshLingam)
 - [Emily Zhang] (https://github.com/em-zhang)
 - [ZachJones](https://github.com/zxjx)
