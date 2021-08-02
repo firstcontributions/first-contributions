@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ross Calvert](https://github.com/Ross-C)
 - [Cory Schmidt] (https://github.com/schmcory)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
@@ -8332,6 +8332,7 @@ Isabella Namutendda
 - [Palak Mantry](https://github.com/pal-16)
 - [Spencer Call](https://github.com/scall12)
 - E Othmane
+- [Akqli](https://github.com/Akqli)
 - [qjx](https://github.com/404notfoundqjx)
 - [Hadeel bader](https://github.com/hadeelbader)
 - [TheCoolCrab](https://github.com/thecoolcrab)
