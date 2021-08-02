@@ -6283,6 +6283,7 @@ Isabella Namutendda
 - [Soumik Dhar](https://github.com/ninjaonganja)
 - [Crystal Ramirez](www.github.com/cat9563)(call me cat))
 - [John Balke](www.github.com/jbalke)
+- [Yasin Khan] (https://github.com/yasinnkhann)
 - [Sourik Dutta](https://github.com/its-a-me-coder)
 - [Om Khandwala](https://github.com/om-khandwala)
 - [Ankur Ramanuj](https://github.com/ankurramanuj0202)
