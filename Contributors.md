@@ -2205,6 +2205,7 @@ Isabella Namutendda
 - [Lucas Coutinho](https://github.com/lcscou)
 - [Nathan Taylor](http://github.com/n-taylor)
 - [Kaila Iglesias](https://github.com/kaila1)
+- Sunil gora 
 - [Chris Ashman] (https://github.com/Cashman1396)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
 - [Naved Sohail](https://github.com/naved232doom)
@@ -7186,6 +7187,7 @@ Isabella Namutendda
 - glakshmi
 - minaadz
 - Mustafa ab
+- Sunil gora (goraji)
 - [Eclésio Melo](https://github.com/eclesiomelojunior)
 - [Islam Umarov](https://github.com/UmarovIslam)
 - [Tushar Garg](https://github.com/tushargarg875)
