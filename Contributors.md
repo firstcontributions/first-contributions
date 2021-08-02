@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ross Calvert](https://github.com/Ross-C)
 - [Cory Schmidt] (https://github.com/schmcory)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
@@ -11,6 +11,7 @@
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
 - [YZ](https://github.com/Yarzarmyomin97)
+aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Daniel Levandovschi] (https://github.com/tiger55md)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
