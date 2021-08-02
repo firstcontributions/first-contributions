@@ -6699,6 +6699,7 @@ Isabella Namutendda
 - [Joanna Sprott](https://github.com/JoannaSprottHome)
 - George Black
 - [Abel Sanchez](https://github.com/atsanche)
+- [Ajay Boro](https://github.com/ajaybor0)
 - [Kartheekasasanka kaipa](https://github.com/karthikasasanka)
 - [Brian Prince](https://github.com/bcp2415)
 - [Fotie M. Constant](https://github.com/FotieMConstant)
