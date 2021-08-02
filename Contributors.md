@@ -13224,6 +13224,7 @@ Isabella Namutendda
 - [Ryo Jerry Yu](https://github.com/RyoJerryYu)
 - [Aman Shrivastava](https://github.com/aman34503)
 - [Kaustubh Harnoor](https://github.com/kharnoor)
+- [Rohit Verma](https://github.com/rohitv5) 🐼
 - Pedro-Grajau
 - [r3dg33k](https://github.com/r3dg33k)
 - [jabir](https://github.com/jabir366)
