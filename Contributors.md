@@ -1202,6 +1202,7 @@ Arpit Agarwal
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
+-[Niclas](https://github.com/Atkinstinkmoore)
 nit kin
 elkhechafi zakaria
 Dimi
