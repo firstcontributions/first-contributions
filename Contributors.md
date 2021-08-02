@@ -6029,6 +6029,7 @@ Isabella Namutendda
 - [Malaika Agrawal]()
 - [Aswin-Poovadan](https://github.com/Aswin-Poovadan)
 - [Mees]()
+- [Nivethan Ariyaratnam](https://github.com/A-Nivethan)
 - [Saltanat](https://github.com/Saltik-a)
 - [Sasha Badov](https://github.com/sashabadov)
 - [Jubaer](https://github.com/jubaer997)
