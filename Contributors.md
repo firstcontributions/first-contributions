@@ -7868,7 +7868,8 @@ Isabella Namutendda
 - [Nihit Natu](https://github.com/nihit97natu)
 - [Ritesh Malviya](https://github.com/riteshkumarmalviya)
 - [Aashita Agarwal]
-- [Alejandro DL]
+- [Alejandro DL]()
+- [Nitin Sohal](https://github.com/NitinSohal)
 - [Ankan Maity](https://github.com/maityankan10)
 - [Robin Sharma](https://github.com/RS-786)
 - [Ougni Chakraborty](https://github.com/ougni)
