@@ -13197,6 +13197,7 @@ Isabella Namutendda
 - [Ko Miyatake](https://github.com/kome12)
 - [Melody Yun](https://github.com/caramelmelmel)
 - [Zeki ANKUN](https://github.com/zekiankun)
+- [Zachary Gillmore](https://github.com/ZacharyGillmore)
 - [Ankit Srivastava](https://github.com/ankitsrivast)
 - [Shubham Sah] (https://github.com/shubham-sah)
 - [Samyak Choudhary](https://github.com/samyak-max)
