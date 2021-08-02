@@ -6299,6 +6299,7 @@ Isabella Namutendda
 - [Arne Vermeulen](https://github.com/Eurniee98)
 - [Yuval Mashiach](https://github.com/Yuvalmas)
 - Sachin Jethanandani
+- [Jenny Chin](https://github.com/ChinJenny)
 - [Travis Sauer](https://github.com/aUsefulMethod)
 - [Peter Bergh](https://github.com/philemonkey)
 - [Soumik Dhar](https://github.com/ninjaonganja)
