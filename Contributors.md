@@ -1791,6 +1791,7 @@ Dimi
   [Sicheng Hu](https://github.com/HSCnoKenju/)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
+- [Shubham Kumar](https://github.com/shubham-kumar02/)
 - [Shaima Haque](https://github.com/SHAIMA-HAQUE)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
 - [Hao Zhang](https://github.com/Derrick-Zhang)
