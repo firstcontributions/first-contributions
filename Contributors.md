@@ -11882,6 +11882,7 @@ Isabella Namutendda
 - [Takae Harrington](https://github.com/takaelucky)
 - [Zhanat Mambetbayeva](https://github.com/ZhanatM)
 - [Jibin John]
+- [Yogesh Datir](https://github.com/yogeshdatir)
 - [Ethan Guttman](https://github.com/Ethan-Guttman)
 - [Silver Gama](https://github.com/silvergama)
 - [Elli-jayne Willard](https://github.com/ellijayne)
