@@ -6511,7 +6511,8 @@ Isabella Namutendda
 - Luke Schissler
 - Nhan Nguyen
 - Felix Jönsson
-- [Iván Zaid Corral Toca] 🦑 (https://github.com/ivancorral-2000)
+- [Iván Zaid Corral Toca]](https://github.com/ivancorral-2000)
+- [PANDATD(Tejas Dixit)](https://github.com/pandatd)
 - [Slimane Aguersif]
 - [Silvija Prozinger](https://github.com/SilvijaProzinger)
 - [Harry Jandu](https://github.com/hushee69)
