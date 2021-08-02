@@ -1,5 +1,6 @@
 # Contributors
 - [Ross Calvert](https://github.com/Ross-C)
+- [Cory Schmidt] (https://github.com/schmcory)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
 - [Prathamesh Sawant] (https://github.com/Prathamesh0421)
 - [Akoopie](https://github.com/Akoopie)
