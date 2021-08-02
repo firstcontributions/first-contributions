@@ -962,6 +962,7 @@ Anishka (https://github.com/anishka01)
 - [Luke Kellett](https://github.com/NitroTears)
 - [Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
+- [Zhiheng (Eric) Xu](https://github.com/Imericxu)
 - [Rahul Roy](https://github.com/Rahul6918
 - [Johnathan Baldera](https://github.com/JohnathanBaldera)
 - [Rajkumar Panwar]
