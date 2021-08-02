@@ -1389,7 +1389,8 @@ Dimi
 - [Ane S]
 - [Brunda B R]
 - Alina A.
-- [Alok Paidalwar]
+- [Alok Paidalwar]()
+	Shaswat Singh
 - Vincent
 - [Chase Averett] (https://github.com/averettcd/)
 - [Tomeeka Lilly] (https://github.com/TLillySib/first-contributions)
