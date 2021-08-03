@@ -7658,6 +7658,7 @@ Isabella Namutendda
 - [Lisovenko Vladislav](https://github.com/VladCoder)
 - [Sava Krivacevic](https://github.com/Saizaku)
 - [Islam Khalil](https://github.com/imkhali)
+- [Than Thanh Duy](https://github.com/ThanThanhDuy)
 - [Tomilola Akinrinsola](https://github.com/T-py123)
 - [Moaz bin Mokhtar](https://github.com/moaz-mokhtar)
 - [Florian Leipold](https://github.com/FloLei)
