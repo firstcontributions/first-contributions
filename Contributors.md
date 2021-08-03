@@ -13285,3 +13285,4 @@ Isabella Namutendda
 - [Gustavo Tavares](https://github.com/gustavo600)
 - [Nate Cottrell](https://github.com/NC-Coyote)
 - [Ethan Khoe](https://github.com/elkhoe)
+- [haziboro](https://github.com/haziboro)
