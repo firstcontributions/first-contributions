@@ -926,6 +926,7 @@ Anishka (https://github.com/anishka01)
 - [Ryan Thomsen] (https://github.com/ryanthomsen)
 - [Tunji Omogbemile]
 - [Rupali Singh](https://github.com/rupalisingh)
+- [Salman Ahmad](https://github.com/salmanahmad2)
 - [Mustafa Amer] (https://github.com/MustafaAmer-1)
 - [Peter Kampete](https://github.com/PeterKampete)
 - [Chayan Kumar Sengupta](https://github.com/Chayan199916)
