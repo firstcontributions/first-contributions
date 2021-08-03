@@ -3294,6 +3294,7 @@ Isabella Namutendda
 - [David Mayevsky](https://github.com/dmayevsky)
 - [Karamveer Singh Sidhu](https://github.com/KaramveerSidhu)
 - [Kaushal Dhungel](https://github.com/Kaushal-Dhungel)
+- [Calvin Zheng](https://github.com/zxw880507)
 - [Nika Korchok](https://github.com/nikaroxanne)
 - [Lavrentev Stanislav](https://github.com/hvoyka)
 - [Gerson Umanzor](https://github.com/gbumanzordev)
