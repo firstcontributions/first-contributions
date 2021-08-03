@@ -26,6 +26,7 @@ Anishka (https://github.com/anishka01)
 - [Andre Diofanu](https://github.com/andrediofanu)
 - [Adrianne Sebastian](https://github.com/arcsbstn)
 - [Albert Au-Yeung][https://github.com/armandoff91]
+- [Niranjan Girhe][https://github.com/niranjangirhe]
 - [Dhiraj Das][https://github.com/godhiraj-code]
 - [utah239](https://github.com/utah239)
 - [SahityaRoy](https://github.com/SahityaRoy)
