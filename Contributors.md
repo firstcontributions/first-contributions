@@ -10196,6 +10196,7 @@ Isabella Namutendda
 - [John Hsiung](https://github.com/btwear)
 - [Maya Warren](https://github.com/maya-warren)
 - [Jessica Scortecci](https://github.com/jessica-scortecci)
+- [Abhishek Arora](https://github.com/abbhi98)
 - [zenje](https://github.com/zenje)
 - [Douglas Ferlini](https://github.com/douglasferlini)
 - [Aswin Mahendiran](https://github.com/aswinmahendiran)
