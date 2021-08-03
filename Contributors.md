@@ -12725,6 +12725,7 @@ Isabella Namutendda
 - [NimrodMendel] (https://github.com/NimrodMendel)
 - [Aleksei Moskaljuk] (https://github.com/alekseiko97)
 - [dashenfu](https://github.com/JianHaoZhangHB)
+- [dackq](https://github.com/dackq)
 - [Jamiea2307](https://github.com/Jamiea2307)
 - [Ahabdelhak](https://github.com/Ahabdelhak)
 - [Deenu Khan] (https://github.com/deenukhan)
