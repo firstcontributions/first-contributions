@@ -5867,6 +5867,7 @@ Isabella Namutendda
 - [Ivan Tse](https://github.com/ivantse42)
 - abc
 - [Tamal Das](https://github.com/tamal777)
+- [Patrick Bruso](https://github.com/PatrickBruso)
 - [Santhosh Narayanan](https://github.com/santhosh96)
 - [Dylan Cooper](https://github.com/Dylanc55)
 - [Bow Verboom](https://github.com/1993bow)
