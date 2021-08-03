@@ -206,6 +206,7 @@ Anishka (https://github.com/anishka01)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
+- [Dimitrios Dimos](https://github.com/dimitrisdimos00)
 - [bdarab](https://github.com/bdarab)
 - [shunbin](https://github.com/yshunbin)
 - [Arti]
