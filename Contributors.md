@@ -10,6 +10,7 @@
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
+- [Vlad Yanum](https://github.com/YanumVlad)
 - [YZ](https://github.com/Yarzarmyomin97)
 aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
