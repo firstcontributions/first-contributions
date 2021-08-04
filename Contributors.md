@@ -34,6 +34,7 @@ Anishka (https://github.com/anishka01)
 - [Adrianne Sebastian](https://github.com/arcsbstn)
 - [Albert Au-Yeung][https://github.com/armandoff91]
 - [Niranjan Girhe][https://github.com/niranjangirhe]
+- [Izzminhal Akmal](https://github.com/Kemystra)
 - [Dhiraj Das][https://github.com/godhiraj-code]
 - [utah239](https://github.com/utah239)
 - [SahityaRoy](https://github.com/SahityaRoy)
