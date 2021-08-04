@@ -392,6 +392,7 @@ Anishka (https://github.com/anishka01)
 - [Kresmon Dev](https://github.com/KresmonDev)
 - [Ankur Banerjee](https://github.com/rukna08)
 - [Simon Malpas] (https://github.com/simalpas)
+- [Ethan B](https://github.com/Snowworm3000)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [raushan was here]
 - [Divi2701](https://github.com/Divi2701)
