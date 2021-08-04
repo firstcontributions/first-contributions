@@ -1518,6 +1518,7 @@ Dimi
 - [Thibault de Poyferré](https://github.com/tedpoyfe)
 - [Vivek Thazhathattil](https://github.com/VivekThazhathattil)
 - [Rosy Priya Augutin](https://github.com/dev-augustin/first-contributions.git)
+- [BriceGit](https://github.com/BriceGit/first-contributions.git)
 - [LeoWootsi](https://github.com/LeoWootsi)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
 - [Fahrur Rozzi](https://github.com/frozzi18)
