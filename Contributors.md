@@ -6734,6 +6734,7 @@ Isabella Namutendda
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
 - [Victor Ng](https://github.com/victorcmng)
 - Marco Meinardi
+- [Artyom Boyarov](https://github.com/heemogoblin)
 - [Stuart Valentine](https://github.com/stuartvalentine)
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
