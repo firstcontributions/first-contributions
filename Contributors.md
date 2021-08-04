@@ -1,5 +1,6 @@
 # Contributors
 - [Ross Calvert](https://github.com/Ross-C)
+- [Rahul](https://github.com/Rahul-go1503/)
 - [Cory Schmidt] (https://github.com/schmcory)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
 - [Prathamesh Sawant] (https://github.com/Prathamesh0421)
@@ -13,12 +14,15 @@
 - [Andy Chep](https://github.com/AndreyChepik)
 - [Ryan Smith] (https://github.com/RLSmith96118)
 - [Vlad Yanum](https://github.com/YanumVlad)
+- [Anibal Campos](https://github.com/kneess)
 - [YZ](https://github.com/Yarzarmyomin97)
 aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Daniel Levandovschi] (https://github.com/tiger55md)
+- [ruiofsunshine] (https://github.com/ruiofsunshine)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 - [Youssef William 🤸‍♂️] (https://github.com/YoussefWilliam)
+- [Fatima Reefat] (https://github.com/fatimareefat)
 Joshua Do
 Akanksha Singh
 Anishka (https://github.com/anishka01)
@@ -95,6 +99,7 @@ Anishka (https://github.com/anishka01)
 - {hello everyone }
 - testing
 - [Tushar Gupta ](https:github.com/tushargupta00)
+- [Ashiangmor Caleb](https://github.com/Kuameh)
 - [HassanBahati](https://github.com/HassanBahati)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Thosan Girisona S](https://github.com/blankon123)
@@ -388,6 +393,7 @@ Anishka (https://github.com/anishka01)
 - [Kresmon Dev](https://github.com/KresmonDev)
 - [Ankur Banerjee](https://github.com/rukna08)
 - [Simon Malpas] (https://github.com/simalpas)
+- [Ethan B](https://github.com/Snowworm3000)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [raushan was here]
 - [Divi2701](https://github.com/Divi2701)
@@ -3675,6 +3681,7 @@ Isabella Namutendda
 - [souveekp](https://github.com/souveekp)
 - [Darrell Bazian](https://github.com/dbazian)
 - [Varad Dingankar](https://github.com/vmdhhh)
+- [Kremtastic](https://github.com/Kremtastic)
 - [James O'Meara](https://github.com/Jamesomeara93)
 - [Prasanna BP] (https://github.com/pkumarbp)
 - [Tvarita Jain](https://github.com/tvarrr)
@@ -6733,6 +6740,7 @@ Isabella Namutendda
 - [Dhamodhar Reddy](https://github.com/Dhamodhar-DDR)
 - [Victor Ng](https://github.com/victorcmng)
 - Marco Meinardi
+- [Artyom Boyarov](https://github.com/heemogoblin)
 - [Stuart Valentine](https://github.com/stuartvalentine)
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
@@ -13295,4 +13303,3 @@ Isabella Namutendda
 - [Ethan Khoe](https://github.com/elkhoe)
 - [haziboro](https://github.com/haziboro)
 - [Jeff Browning](https://github.com/browningjeff1)
-
