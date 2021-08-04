@@ -26,10 +26,10 @@ Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda na
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboardboard .
+Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
 
-Fungua terminal na uendesha amri yafuatayo yafuatayo:
+Fungua terminal na uendesha amri yafuatayo:
 
 ```
 git clone "url you just copied"
@@ -117,7 +117,7 @@ Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu
 
 ## Wapi kutoka hapa?
 
-Hongera! Wewe umekamilisha fomu ya kawaida -> clone -> hariri -> PRflowflow ambayo unakutana mara nyingi kama mchangiaji!
+Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull request* ambayo unakutana mara nyingi kama mchangiaji!
 
 Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye [programu ya wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 
