@@ -19,6 +19,7 @@
 aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Daniel Levandovschi] (https://github.com/tiger55md)
+- [ruiofsunshine] (https://github.com/ruiofsunshine)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 - [Youssef William 🤸‍♂️] (https://github.com/YoussefWilliam)
 - [Fatima Reefat] (https://github.com/fatimareefat)
