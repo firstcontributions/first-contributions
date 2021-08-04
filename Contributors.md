@@ -1235,6 +1235,7 @@ Arpit Agarwal
 - [Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 - [Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
+- [Rishabh Dingliwal](https://github.com/rishabh1323)
 - [Anthony Keel](https://github.com/Anthony-Keel)
 - [Niclas](https://github.com/Atkinstinkmoore)
 nit kin
