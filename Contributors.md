@@ -5760,6 +5760,7 @@ Isabella Namutendda
 - [Juliana Alves](https://github.com/julianafalves)
 - [Chris Zirkel](https://github.com/chriszirkel)
 - [Upamanyu Kaja](https://github.com/upik-98)
+- [Anay Joshi](https://github.com/anayjoshi1608)
 - [Garang Thiong](https://github.com/gthiong)
 - [devfoFikiCar](https://github.com/devfofikicar)
 - [Surya Vamsi](https://github.com/suryavamsi6)
