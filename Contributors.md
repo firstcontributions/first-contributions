@@ -1552,6 +1552,7 @@ Dimi
 - [Catherine Dambrain](https://github.com/Cdambrain)
 - [Tim Martin](https://github.com/TimMartin13)
 - [Yanchun Lai](https://github.com/ycl310)
+- [Nathaly Herrera](https://github.com/nath248)
 - [Finn Lestrange](https://github.com/71xn)
 - [Ronit Gupta](https://github.com/ronitgupta)
 - [Silambarasan Sethuraman](https://github.com/simbuatgit)
