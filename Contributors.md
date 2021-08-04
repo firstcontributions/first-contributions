@@ -19,6 +19,7 @@
 - [YZ](https://github.com/Yarzarmyomin97)
 aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
+- [Alexandra Popescu](https://github.com/alexanpo)
 - [Daniel Levandovschi] (https://github.com/tiger55md)
 - [ruiofsunshine] (https://github.com/ruiofsunshine)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
