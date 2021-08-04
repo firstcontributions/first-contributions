@@ -5320,6 +5320,7 @@ Isabella Namutendda
 - [Onkar Sharma](https://github.com/KSHAMIN)
 - [Prajakta Mane](https://github.com/maneprajakta)
 - [Philip Mitchell Otieno](https://github.com/philipotieno)
+- [Muhammad A Khalid](https://github.com/akhalid88)
 - bidlocode
 - [Atlinx](https://github.com/atlinx)
 - [Oleksandr Parkhomenko](https://github.com/OleksandrParkhomenko)
