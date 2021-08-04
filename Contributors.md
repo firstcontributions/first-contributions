@@ -1520,6 +1520,7 @@ Dimi
 - [Rosy Priya Augutin](https://github.com/dev-augustin/first-contributions.git)
 - [LeoWootsi](https://github.com/LeoWootsi)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
+- [Fahrur Rozzi](https://github.com/frozzi18)
 - [Brett Connolly](https://github.com/HaulinOats)
 - [Alok Gupta](https://github.com/gupta-alok)
 - [Paul King](ttps://github.com/paulvmking)
