@@ -1429,6 +1429,7 @@ Dimi
 - [Prashant Ghimire](https://github.com/prashant1gh)
 - [Allen Chung](https://github.com/allenchung01)
 - [Ane S]
+- [Anmol]
 - [Brunda B R]
 - Alina A.
 - [Alok Paidalwar]()
