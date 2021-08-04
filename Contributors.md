@@ -6455,7 +6455,7 @@ Isabella Namutendda
 - first test
 - [Julia](https://github.com/juliawithers)
 - [Hamed Ghoochanian](https://github.com/HamedGhoochanian)
-- Brendan Kelly
+- Brendan Kelly1
 - [Catherine Nguyen](https://github.com/catherinevn)
 - [Chris E](https://github.com/MrChrisE)
 - [Raksha Navale](https://github.com/rakshanavale24092000)
@@ -6483,7 +6483,7 @@ Isabella Namutendda
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
 - [Parishrut Kushwaha](https://github.com/parish09)
-- [Shivam Singla](https://github.com/shivam7374)
+- [Shivam Singla](https://github.com/shi1vam7374)
 - [Chethan Bhat](https://github.com/chethanbhat)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Saurabh Bhansali](https://github.com/iSBhansali)
@@ -6646,7 +6646,7 @@ Isabella Namutendda
 - [JOnathan White](https://github.com/jonathancwhite)
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
-- [Shawn Long](https://github.com/shawnlong636)
+- [Shawn Long](https://github.com/shawn1long636)
 - [Yatharth Taneja](https://github.com/yatharthtaneja)
 - [Zachary King](https://github.com/lax0248917)
 - [Akash Ilangovan](https://github.com/akashilangovan)
@@ -12832,6 +12832,7 @@ Isabella Namutendda
 - [scfede](https://github.com/scfede)
 - [veagir](https://github.com/veagir)
 - [iamtbc](https://github.com/iamtbc)
+- [Anshu Sinha](https://github.com/Sinha199)
 - [ran](https://github.com/skyan1278)
 - [smalltext](https://github.com/smalltext)
 - [polypixel](https://github.com/poly-pixel)
