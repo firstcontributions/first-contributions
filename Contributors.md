@@ -1290,6 +1290,7 @@ Dimi
 - [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
+- [Frank Seno](https://github.com/franks64)
 - [Rafi Abro](https://github.com/mrabro)
 - [Ann Mariya Roy](https://github.com/Ann-M-R)
 - [Bajrektarevic Husein](https://github.com/b-husein)
