@@ -12,6 +12,7 @@
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
 - [Ryan Smith] (https://github.com/RLSmith96118)
+- [Iulia Groza] (https://github.com/iuliagroza)
 - [Vlad Yanum](https://github.com/YanumVlad)
 - [Anibal Campos](https://github.com/kneess)
 - [YZ](https://github.com/Yarzarmyomin97)
