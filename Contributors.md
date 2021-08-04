@@ -52,6 +52,7 @@
 - [Kresmon Dev](https://github.com/KresmonDev)
 - [Ankur Banerjee](https://github.com/rukna08)
 - [Simon Malpas] (https://github.com/simalpas)
+- [Ethan B](https://github.com/Snowworm3000)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [Abhishek Salunke ] (https://github.com/abhi3054) 
 - [Salim Hertelli] (https://github.com/salim-hertelli)
