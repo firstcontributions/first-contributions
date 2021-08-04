@@ -96,6 +96,7 @@ Anishka (https://github.com/anishka01)
 - {hello everyone }
 - testing
 - [Tushar Gupta ](https:github.com/tushargupta00)
+- [Ashiangmor Caleb](https://github.com/Kuameh)
 - [HassanBahati](https://github.com/HassanBahati)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Thosan Girisona S](https://github.com/blankon123)
