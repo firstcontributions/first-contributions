@@ -3,6 +3,7 @@
 - [Cory Schmidt] (https://github.com/schmcory)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
 - [Prathamesh Sawant] (https://github.com/Prathamesh0421)
+- [George Gomes] (https://github.com/rody401)
 - [Akoopie](https://github.com/Akoopie)
 - [Ajay yadav](https://github.com/AjayYadavAi)
 - [Thanos Dimitriades](https://github.com/thanosades)
