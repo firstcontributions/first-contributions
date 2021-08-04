@@ -4786,6 +4786,7 @@ Isabella Namutendda
 - Lorin Achey
 - Arpit Pawar
 - [Jean Bonneau]
+- [Charmayne7](https://github.com/Charmayne7)
 - [Carlos Bosch](https://github.com/carlos1103)
 - [Urfa Ansari](https://github.com/Urfafazli)
 - Tanmay Arora
