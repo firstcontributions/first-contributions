@@ -29,6 +29,7 @@ aeglena
 - [Youssef William 🤸‍♂️] (https://github.com/YoussefWilliam)
 - [Fatima Reefat] (https://github.com/fatimareefat)
 - [Ben Radack] (https://github,com/benradack)
+- [Dan Koller](https://github.com/dan-koller)
 Joshua Do
 Akanksha Singh
 Anishka (https://github.com/anishka01)
