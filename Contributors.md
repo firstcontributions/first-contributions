@@ -7,6 +7,7 @@
 - [Prathamesh Sawant] (https://github.com/Prathamesh0421)
 - [George Gomes] (https://github.com/rody401)
 - [Akoopie](https://github.com/Akoopie)
+- [Archit Jain](https://github.com/architjen)
 - [Ajay yadav](https://github.com/AjayYadavAi)
 - [Thanos Dimitriades](https://github.com/thanosades)
 - [ASHUTOSH KUMAR CHOUDHARY]}:)))(https://github.com/Ash-KODES)
