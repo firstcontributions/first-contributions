@@ -1534,6 +1534,7 @@ Dimi
 - [Brett Connolly](https://github.com/HaulinOats)
 - [Alok Gupta](https://github.com/gupta-alok)
 - [Paul King](ttps://github.com/paulvmking)
+- [Saidamir Sharofuddinov](https://github.com/Saidamir-Sh)
 - [Neka Blair](https://github.com/istoga)
 - [Ramsses Ayala](https://github.com/framsses)
 - [Saugat Rajbhandari](https://github.com/saugatrajbhandari)
