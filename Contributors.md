@@ -6822,6 +6822,7 @@ Isabella Namutendda
 - [Rahul Rank](https://github.com/rahulrank)
 - [Katie Barriere](https://github.com/kt2187)
 - [Dan Stara](https://github.com/staradan)
+- [Lélio Marcos](https://github.com/LelioMarcos)
 - [Hayat Tamboli](https://github.com/hayat-tamboli)
 - [Jerry Zhu](https://github.com/bobliuuu)
 - [Felipe Augusto](https://github.com/relipe)
