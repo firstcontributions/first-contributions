@@ -1,6 +1,7 @@
 # Contributors
 - [Ross Calvert](https://github.com/Ross-C)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
+- [sereno] (https://github.com/sereno1987)
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Cory Schmidt] (https://github.com/schmcory)
 - [Alyssa Alexander] (https://github.com/alyssaalexander)
