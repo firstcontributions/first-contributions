@@ -124,7 +124,7 @@ Anishka (https://github.com/anishka01)
 - [Charles Kasasira](https://github.com/charleskasasira)
 - Megan P.
 - [Vikas](https://github.com/vikasdabhi)
-- [LakshmiSankaraSubramanian](https://github.com/LakshmiSankaraSubramanian) 
+- [LakshmiSankaraSubramanian](https://github.com/LakshmiSankaraSubramanian)
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
 - [Arvind](https://github.com/01arvind)
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
@@ -237,6 +237,7 @@ Anishka (https://github.com/anishka01)
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
 - [Dimitrios Dimos](https://github.com/dimitrisdimos00)
+- [Dimitri Marchesin](https://github.com/dim-mar-dev)
 - [bdarab](https://github.com/bdarab)
 - [shunbin](https://github.com/yshunbin)
 - [Arti]
@@ -2271,7 +2272,7 @@ Isabella Namutendda
 - [Lucas Coutinho](https://github.com/lcscou)
 - [Nathan Taylor](http://github.com/n-taylor)
 - [Kaila Iglesias](https://github.com/kaila1)
-- Sunil gora 
+- Sunil gora
 - [Chris Ashman](https://github.com/Cashman1396)
 - [Progga Parmita Zaman](https://github.com/zpparmita)
 - [Naved Sohail](https://github.com/naved232doom)
@@ -9950,7 +9951,7 @@ Isabella Namutendda
 - [Martin Watkins](https://github.com/martinw13)
 - [Adeyemi Misturah]()
 - [Jesse Rurka](https://github.com/RurkaJ)
-- Violeta 🌵 
+- Violeta 🌵
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
 - [ZanderBE](https://github.com/ZanderBE)
@@ -13340,4 +13341,4 @@ Isabella Namutendda
 - [haziboro](https://github.com/haziboro)
 - [Jeff Browning](https://github.com/browningjeff1)
 - [xnmll](https://github.com/xnmll)
-- 
+-
