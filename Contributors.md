@@ -5955,6 +5955,7 @@ Isabella Namutendda
 - [Akshat Sood](https://github.com/akshatsood2249)
 - [Dmitry Vladov](https://github.com/dvladov73)
 - [Kelly Nguyen](https://github.com/yllekn)
+- [Shlok Bhosale](https://github.com/shlokster)
 - [Olivia Pyskoty](https:github.com/opyskoty)
 - [André Oliveira](https://github.com/andrefpoliveira)
 - [Gurkan Turkarslan](https://github.com/tgurk)
