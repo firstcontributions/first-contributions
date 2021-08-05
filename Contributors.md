@@ -13326,6 +13326,7 @@ Isabella Namutendda
 - [angelwgh](https://github.com/angelwgh)
 - [Mubashir01234](https://github.com/Mubashir01234)
 - [Hein Htet Zor 🇲🇲](https://github.com/heinhtetzor)
+- [The-Mozart-of-Physics](https://github.com/raphaPhysics2020)
 - [Ryo Jerry Yu](https://github.com/RyoJerryYu)
 - [Aman Shrivastava](https://github.com/aman34503)
 - [Kaustubh Harnoor](https://github.com/kharnoor)
