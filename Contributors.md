@@ -20,6 +20,7 @@
 - [Ryan Smith] (https://github.com/RLSmith96118)
 - [Iulia Groza] (https://github.com/iuliagroza)
 - [Vlad Yanum](https://github.com/YanumVlad)
+- [Luigi Cardone](https://github.com/luigi-cardone)
 - [Anibal Campos](https://github.com/kneess)
 - [YZ](https://github.com/Yarzarmyomin97)
 aeglena
