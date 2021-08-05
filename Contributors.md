@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ross Calvert](https://github.com/Ross-C)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
 - [sereno] (https://github.com/sereno1987)
@@ -13338,6 +13338,7 @@ Isabella Namutendda
 - Pedro-Grajau
 - [r3dg33k](https://github.com/r3dg33k)
 - [jabir](https://github.com/jabir366)
+- [Zuraiz Ahmed Shehzad](https://github.com/ZuraizAhmedShehzad)
 - [Gustavo Tavares](https://github.com/gustavo600)
 - [Nate Cottrell](https://github.com/NC-Coyote)
 - [Ethan Khoe](https://github.com/elkhoe)
