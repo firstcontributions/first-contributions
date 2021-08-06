@@ -40,6 +40,7 @@
   Akanksha Singh
   Anishka (https://github.com/anishka01)
 - [Aman-_-](https://github.com/AmanKJ)
+- [Saad Irfan](http://github.com/msaaddev)
 - [masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
@@ -764,7 +765,7 @@
 - [Sachin Hegde](https://github.com/sachinhegde328)
 - [Harshpreet Kaur](https://github.com/harshpreet0508)
 - [Ian Cossentino](https://github.com/cossentino)
-- [Rajas](https://github.com/R4J4S) Hello 
+- [Rajas](https://github.com/R4J4S) Hello
 - [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 - [Chris Gantt](https://github.com/ganttArt)
 - [Kshitij Kadam](https://github.com/KshitijKadam)
