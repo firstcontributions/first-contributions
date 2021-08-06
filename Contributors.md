@@ -8,6 +8,7 @@
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [George Gomes](https://github.com/rody401)
+- [Heizal Nagginda](https://github.com/Heizal)
 - [Pahal-Jain](https://github.com/pahaljain)
 - [Akoopie](https://github.com/Akoopie)
 - [Archit Jain](https://github.com/architjen)
