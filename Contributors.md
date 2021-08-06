@@ -241,6 +241,7 @@
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
 - [ADITYA SANTOSH SHENDE]
 - [Dimitrios Dimos](https://github.com/dimitrisdimos00)
+- [Dimitri Marchesin](https://github.com/dim-mar-dev)
 - [bdarab](https://github.com/bdarab)
 - [shunbin](https://github.com/yshunbin)
 - [Arti]
