@@ -1,5 +1,4 @@
-﻿# Contributors
-
+# Contributors
 - [Ross Calvert](https://github.com/Ross-C)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
 - [sereno] (https://github.com/sereno1987)
@@ -591,9 +590,11 @@
 - [TonyADI](https://github.com/TonyADI)
 - [OKM](https://github.com/Oakkar-Min)
 - [RohinKumar](https://github.com/rohin1841)
-- [TheSmartDeveloperr](https://github.com/thesmartdeveloperr) -[MMS](https://github.com/MoeMoeSan) -[neerajsharma2000](https://github.com/neerajsharma2000)
-  -fc
-  -mdm
+- [TheSmartDeveloperr](https://github.com/thesmartdeveloperr)
+- [MMS](https://github.com/MoeMoeSan)
+- [neerajsharma2000](https://github.com/neerajsharma2000)
+- fc
+- mdm
 - [mehrankamal](https://github.com/mehrankamal)
 - [bfrodsham](https://github.com/bfrodsham)
 - [Vaughn1234](https://github.com/Vaughn1234)
@@ -757,6 +758,7 @@
 - [Sachin Hegde](https://github.com/sachinhegde328)
 - [Harshpreet Kaur](https://github.com/harshpreet0508)
 - [Ian Cossentino](https://github.com/cossentino)
+- [Rajas](https://github.com/R4J4S) Hello 
 - [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
 - [Chris Gantt](https://github.com/ganttArt)
 - [Kshitij Kadam](https://github.com/KshitijKadam)
@@ -1689,7 +1691,8 @@
 - [luckatoni](https://github.com/luckatoni)
 - [Shaoqing Qi](https://https://github.com/RshStone)
 - [David Obembe](https://github.com/dayvheed)
-- [Eric Santos](https://github.com/eric-santos) -[Jeff Anderson](https://github.com/kj4tmp/)
+- [Eric Santos](https://github.com/eric-santos)
+- [Jeff Anderson](https://github.com/kj4tmp/)
 - [Lawrence Qupty](https://github.com/teriyakiSauce23)
 - [Rupal Gajghate](https://github.com/Rupal1503)
 - [Matthew Eskolin](https://github.com/MatthewEskolin)
@@ -13184,6 +13187,7 @@
 - [Ibrahim Arshad](https://github.com/ibrahim1023)
 - [James Njoroge](https://github.com/Mwithiga)
 - [Pavitra Mehra]
+- [Phillip]
 - [Manoj Masakorala](https://github.com/manoj-mass)
 - [Ethan Cantrell](https://github.com/Holliewood67)
 - [Richard French](https://github.com/rfrench2)
@@ -13336,6 +13340,7 @@
 - [Jade Vogt](https://github.com/jade-vogt)
 - [Rohit Verma](https://github.com/rohitv5) 🐼
 - Pedro-Grajau
+- [or bunfad](https://github.com/orbunfad)
 - [r3dg33k](https://github.com/r3dg33k)
 - [jabir](https://github.com/jabir366)
 - [Zuraiz Ahmed Shehzad](https://github.com/ZuraizAhmedShehzad)
