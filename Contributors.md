@@ -8282,6 +8282,7 @@ Isabella Namutendda
 - [Richard Salcedo](https://github.com/kbgagt)
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Rynay](https://github.com/rynay)
 - [Purvansh Shah](https://github.com/purvansh11)
 - [Tania Malhotra](https://github.com/taniaMalhotra)
 - [Pranjal Mittal](https://github.com/mittalpranjal12)
