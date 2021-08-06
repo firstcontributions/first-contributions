@@ -177,6 +177,7 @@
 - [VISHNU](https://github.com/VISHNU)
 - [Francesco Villano](https://github.com/franzvill)
 - [Roshan Rasal](https://github.com/Rosh3639)
+- [Bastian](https://github.com/fogXploit)
 - [Anurag Dwivedi](https://github.com/anuragdw710)
 - [EYoa](https://github.com/eyoa)
 - [Santiago Manzoni from Uruguay](https://github.com/smanzoni)
