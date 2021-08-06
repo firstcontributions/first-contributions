@@ -1139,6 +1139,7 @@
 - [Pravin Mudaliyar]
 - [Rishav Prashar]()
 - [Ahmed Naji](https://github.com/Ahmedbennaji)
+- [Austin Coelho](https://github.com/anatin9)
 - [Solomon Kabaliisa](https://github.com/kabaliisa)
 - [Abhilash Sreenivasa](https://github.com/abhilashSreenivasa)
 - [Evan Trujillo] (https://github.com/Evomatic)
