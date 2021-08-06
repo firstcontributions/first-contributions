@@ -149,6 +149,7 @@
 - [thurasittnaing](https://github.com/coding2am)
 - [Luke Yin](https://github.com/luke-yin)
 - [Parul G](https://github.com/parulgo7)
+- [Jonathan Zhang](https://github.com/JZhang-305)
 - [Dilln Kelley](https://github.com/digthedill)
 - [Hamza Mouzakki](https://github.com/hamzaMouzakki)
 - [Sergey Kirintsev](https://github.com/SergeyKirintsev)
