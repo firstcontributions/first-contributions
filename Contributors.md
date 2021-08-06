@@ -35,6 +35,7 @@
 - [Fatima Reefat] (https://github.com/fatimareefat)
 - [Ben Radack] (https://github,com/benradack)
 - [Dan Koller](https://github.com/dan-koller)
+- [Yazan Kherfan](https://github.com/yazok8)
   Joshua Do
   Akanksha Singh
   Anishka (https://github.com/anishka01)
