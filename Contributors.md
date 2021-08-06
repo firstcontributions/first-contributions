@@ -39,6 +39,7 @@
   Joshua Do
   Akanksha Singh
   Anishka (https://github.com/anishka01)
+- [Aman-_-](https://github.com/AmanKJ)
 - [masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
