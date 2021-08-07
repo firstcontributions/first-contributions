@@ -12899,6 +12899,7 @@
 - [z-hymn](https://github.com/z-hymn)
 - [Rashmi Duleesha](https://github.com/Rashmildp)
 - [Kacper Barabasz](https://github.com/Borub-ar)
+- [Fahd Sultan](https://github.com/sfsultan)
 - [Subhasis Martha](https://github.com/subhasis10)
 - [Liam Taylor](https://github.com/lttaylor2001)
 - [Gaeun Lee](https://github.com/gaeunl)
