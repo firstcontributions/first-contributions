@@ -43,6 +43,7 @@
   Joshua Do
   Akanksha Singh
   Anishka (https://github.com/anishka01)
+- [Mayur S Chittaragi](https://github.com/MayurSChittaragi)
 - [Aman-_-](https://github.com/AmanKJ)
 - [Saad Irfan](http://github.com/msaaddev)
 - [masha](https://github.com/masha-nv)
