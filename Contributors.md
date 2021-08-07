@@ -746,6 +746,7 @@
 - [Nikhil Agarwal](https://githib.com/nikhil0209)
 - [Chase Skibeness](https://github.com/chase-skibeness)
 - [Pathum Herath](https://github.com/virtualpathum)
+- [Waleed ur Rehman](https://github.com/waleedrehman31) 
 - [Denton Sun](https://github.com/Dentsun)
 - [Yash Rana](https://github.com/yash-rana23)
 - [Shubham Malpani](https://github.com/SHUBH778)
