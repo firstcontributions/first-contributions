@@ -5811,6 +5811,7 @@
 - [NotMarty05](https://github.com/NotMarty05)
 - [John Hunter](https://github.com/jhhunter)
 - [Matthieu Pesnot-Pin]
+- [Syed Mohammad Mazin](https://github.com/MohammadMazin)
 - [Emil Sundqvist](https://github.com/96emisun/)
 - [Akshat Srivastava](https://github.com/akshat-fsociety)
 - [James Price](http://github.com/jamesmp88)
