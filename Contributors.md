@@ -54,6 +54,7 @@
 - [Adrianne Sebastian](https://github.com/arcsbstn)
 - [Albert Au-Yeung][https://github.com/armandoff91]
 - [Niranjan Girhe][https://github.com/niranjangirhe]
+- [Chandan H](https://github.com/Chandan-h-509)
 - [Izzminhal Akmal](https://github.com/Kemystra)
 - [Dhiraj Das][https://github.com/godhiraj-code]
   [Sabomato][https://github.com/sabomato]
