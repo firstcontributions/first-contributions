@@ -1434,6 +1434,7 @@
 - [Rhiad Ciccoli](https://github.com/Rhiadc/)
 - [Vasco Ramos](https://github.com/RamosCSV/)
 - [Tirenioluwa Shobande]
+- [Ian McCorkle](https://github.com/imccorkle)
 - [Shadya Obuya](https://github.com/Shadyaobuya/)
 - [Nelson Uprety](https://github.com/nelsonuprety1)
 - [Jack Mulligan](https://github.com/jackmulligan-ire/)
