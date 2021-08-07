@@ -1434,6 +1434,8 @@
 - [Shadya Obuya](https://github.com/Shadyaobuya/)
 - [Nelson Uprety](https://github.com/nelsonuprety1)
 - [Jack Mulligan](https://github.com/jackmulligan-ire/)
+- [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
+- [Dev Chaudhary] (https://github.com/sudarshan-d-s)
 - [Steffen](https://github.com/john2020/)
 - [Sudarshan Shinde](https://github.com/sudarshan-d-s)
 - [Parvesh Barak](https://github.com/parveshbarak)
