@@ -5386,6 +5386,7 @@
 - [Xefyn](https://github.com/Xefyn)
 - [Erick Canals](https://github.com/ec7495)
 - [Raitis]
+- [Nisarga Gotekar](https://github.com/nisargagotekar)
 - [Kiefer Baird-Perry]
 - [Amanullah Mahmood](https://github.com/amaanweb)
 - [Tulsi](https://github.com/deytulsi18)
