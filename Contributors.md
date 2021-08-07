@@ -2335,6 +2335,7 @@
 - [Redwanul Haque Sourave](https://github.com/redwanulsourav)
 - [Akshat Jain](https://github.com/akshatjain9434)
 - [Natan Feithlicher](https://github.com/Feithlicher)
+- [Harshil Shah](https://github.com/shahharshil46)
 - [Aurindom Bhattacharyya](https://github.com/auri2ky)
 - [Dan S](https://github.com/semindan)
 - [Shubh Verma](https://github.com/shubh-verma-19cs)
