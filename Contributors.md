@@ -5,6 +5,7 @@
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
+- [Crystal Faqiri](https://github.com/cfaqiri)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [George Gomes](https://github.com/rody401)
