@@ -1,4 +1,5 @@
 # Contributors
+- [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
