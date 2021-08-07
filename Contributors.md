@@ -1308,6 +1308,7 @@
 - [Vimal M](https://github.com/vimalprogrammer/)
 - [RosyGraph](https://github.com/RosyGraph)
 - [Eke Victor](https://github.com/Evavic44)
+- [Ema S]()
 - [ahcodes](https://github.com/ahcodes)
 - [0xv1n](https://vind3v17.github.io)
 - [Peter Laughlin](https://github.com/plaughlin98)
@@ -2377,6 +2378,7 @@
 - Elad Moshe
 - [Faruk Şimşekli](https://github.com/faruksimsekli)
 - Safiya B.
+- Ema S.
 - Alexander O'Brien
 - [Wanda Evans](https://github.com/derpwanda)
 - [Samrath](https://github.com/samrath-sudesh-acharya)
