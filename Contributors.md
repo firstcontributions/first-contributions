@@ -8,6 +8,7 @@
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Crystal Faqiri](https://github.com/cfaqiri)
+- [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
