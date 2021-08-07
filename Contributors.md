@@ -10,6 +10,7 @@
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
+- [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
 - [Heizal Nagginda](https://github.com/Heizal)
 - [Omar Mehmood](https://github.com/OmarMeh117)
