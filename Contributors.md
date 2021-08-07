@@ -642,6 +642,7 @@
 - [Gao Ze](https://github.com/gaoze1998)
 - [Jess C](https://github.com/fanatiicx)
 - [LokeshMaradi]
+- [Shannon Odam](https://github.com/UnDim)
 - [Moawia A](https://github.com/moawia-dev)
 - [Takesha Kaluarachchi](https://github.com/takeshafx)
 - [Misaki Okajima](https://github.com/mokajima)
