@@ -31,6 +31,7 @@
 - [Vlad Yanum](https://github.com/YanumVlad)
 - [Luigi Cardone](https://github.com/luigi-cardone)
 - [Anibal Campos](https://github.com/kneess)
+- [Artur Wrona] (https://github.com/donarturo11)
 - [YZ](https://github.com/Yarzarmyomin97)
   aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
