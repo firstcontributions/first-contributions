@@ -4567,6 +4567,7 @@
 - [Utkrist Neupane](https://github.com/utkrixx)
 - [sushant kumbhar](https://github.com/kumbharsushant28)
 - [Chandani Mourya](https://github.com/ChandaniM)
+- [Yaroslav Sinko](https://github.com/yaro-sin)
 - [Pragadesh K](https://github.com/pragadesh-k)
 - [Diana Cheng](https://github.com/dianache4685)
 - [Shardul Birje](https://github.com/shardul-b)
