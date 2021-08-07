@@ -10506,6 +10506,7 @@
 - [Joshua Thomas](https://github.com/MrJDavidT/first-contributions)
 - Mubashar Ahmad
 - [Z Yang](https://github.com/zaiweiyang/first-contributions)
+- [Taufiqul Alam](https://github.com/FireBlaze236)
 - mikrobi
 - [Uwe Staub](https://github.com/Mosherfist)
 - [Ming Tsai :robot:](https://github.com/ming-tsai)
