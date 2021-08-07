@@ -5784,6 +5784,7 @@
 - [Pingu🐧](https://github.com/pingu94)
 - [Abhinav Gangadharan](https://github.com/abhinavg1997)
 - [Ping Lu](https://github.com/pinglu85)
+- [Ariel Del Rio](https://github.com/ArielDelRio)
 - [William Arthor](https://github.com/narrowsnap)
 - [Jonny Gildernew](https://github.com/Jonathangildernew)
 - [hebbarsjk](https://github.com/hebbarsjk)
