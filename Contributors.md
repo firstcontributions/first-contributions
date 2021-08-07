@@ -7970,6 +7970,7 @@
 - [Ritesh Malviya](https://github.com/riteshkumarmalviya)
 - [Aashita Agarwal]
 - [Alejandro DL]()
+- [Nahid Faraji](https://github.com/Nahid570)
 - [Nitin Sohal](https://github.com/NitinSohal)
 - [Ankan Maity](https://github.com/maityankan10)
 - [Robin Sharma](https://github.com/RS-786)
