@@ -1299,6 +1299,7 @@
 - [Muhamad Hamdanil](https://github.com/ahadsenja)
 - [Pratick Bhowmick](https://github.com/pratsb13)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
+- [NilsInfo](www.github.com/NilsInfo)
 - [Abin P Jacob](https://github.com/abinpj)
 - Prathima Kadari
 - [Deepak Kumar](https://github.com/Deepak18-06)
