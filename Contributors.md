@@ -13421,6 +13421,7 @@
 - [Jade Vogt](https://github.com/jade-vogt)
 - [Rohit Verma](https://github.com/rohitv5) 🐼
 - Pedro-Grajau
+- [Juan R](https://github.com/jareyesda)
 - [or bunfad](https://github.com/orbunfad)
 - [r3dg33k](https://github.com/r3dg33k)
 - [jabir](https://github.com/jabir366)
