@@ -4640,6 +4640,7 @@
 - [Voj](https://github.com/Vojsmaname)
 - [Meng Kit]
 - [idrees]()
+- [jackluxm](no url provided)
 - [Jenndroid](https://github.com/jenndroid)
 - [Samik Goyal](https://github.com/Samikdevel)
 - [Marcus Luong](https://github.com/MarcusLuong)
