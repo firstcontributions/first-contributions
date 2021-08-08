@@ -1604,6 +1604,7 @@
 - [JJ Yin](https://github.com/jjjjjyin)
 - [Astha](https://github.com/aasthaa-007)
 - [Sebastian Gonzalez-Tirado](https://github.com/sebgoti)
+- [Amanda Martin ](http://github.com/hythloda)
 - [Peter Yang](https://github.com/jkabc123)
 - [Parsa Mesgarha](https://github.com/pzrsa)
 - [Catherine Dambrain](https://github.com/Cdambrain)
