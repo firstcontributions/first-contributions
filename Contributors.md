@@ -41,6 +41,7 @@
 - [Satish Muddana](https://github.com/satish-muddana)
 - [Bruce Snow](https://github.com/cbs42)
 - [George Sharpe](https://github.com/SharpeCode57)
+- [Emanuel Berintan](https://github.com/Nati404)
 - [Yuvraj Singh](https://github.com/yuvraj2701)
 - [Daniel Florea](https://github.com/dfloreaa)
 - [neckoPecker](https://github.com/neckoPecker)
