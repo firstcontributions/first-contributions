@@ -1432,6 +1432,7 @@
 - Roneal Denila
 - [Rajeev Chugh](https://github.com/rajeevchugh71/)
 - [Roberto Antoniello](https://github.com/mastercruelty)
+- [Chaitanya] (https://github.com/chaitu860)
 - [Nshimiye Emmy](https://github.com/nshimiyeemmy)
 - [Ajay Varma](https://github.com/ajay28varma)
 - [Victor Mendez](https://github.com/VMMF)
