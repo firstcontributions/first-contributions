@@ -1579,6 +1579,7 @@
 - [Ramsses Ayala](https://github.com/framsses)
 - [Saugat Rajbhandari](https://github.com/saugatrajbhandari)
 - [Daffa Akram](https://github.com/undisputedgoose)
+- [Aaron Khoo](https://github.com/AaronKho-o)
 - [polin-x](https://github.com/polin-x)
 - [SummerisleSongs](https://github.com/SummerisleSongs)
 - [yssvr](https://github.com/YSSVR)
