@@ -2184,6 +2184,7 @@
 - Molly Brown
 - [Braxton White](https://github.com/KodakBrax)
 - [Syed Ali Raza Bokhari](https://github.com/isyedaliraza)
+- New Contributor
 - Arpit
 - Jack sparrow
 - Hawa Sylla
