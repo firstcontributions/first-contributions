@@ -1322,6 +1322,7 @@
 - [Michał Czyż](https://github.com/czyzu1710)
 - [Kyle Abrahams](https://github.com/Kyle-Abrahams)
 - [Vimal M](https://github.com/vimalprogrammer/)
+- [Animesh](https://github.com/Animeshmaru)
 - [RosyGraph](https://github.com/RosyGraph)
 - [Eke Victor](https://github.com/Evavic44)
 - [Ema S]()
