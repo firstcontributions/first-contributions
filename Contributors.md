@@ -1410,6 +1410,7 @@
 - [Mohit Sharma](https://github.com/12562)
 - [Kayla Walker](https://github.com/kayverly)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
+- [Akinpelumi (Layi) Akinlade](https://github.com/layioye/)
 - [Joonmyung Jung](https://github.com/joonmyung)
 - [Kayleen Carido](https://github.com/kvcarido)
 - [Meg Parsons](https://github.com/techmeg)
