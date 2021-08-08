@@ -1,4 +1,5 @@
 # Contributors
+- [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
