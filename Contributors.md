@@ -1501,6 +1501,7 @@
 - [Ijaz Azam](https://github.com/ijazazam18)
 - [Corey Thuro](https://github.com/CoreyThuro)
 - [Mohammed Mushahid Qureshi](https://github.com/mushahidq)
+- [Vasile Durlesteanu](https://github.com/VasileDurlesteanu)
 - [Anubhav Ranjan](https://github.com/Anubhav7298)
 - [Stefan Kleinhans](https://github.com/Stefan043)
 - [Sugam Jaiswal](https://github.com/jaissugam)
