@@ -4773,6 +4773,7 @@
 - [Sunny Kushwaha](https://github.com/Ares358)
 - Manuja
 - [Adithya Warrier](https://github.com/adithyawarrier2000)
+- [Ankit Maurya](https://github.com/Ankit0225)
 - [Anish Naik](https://github.com/zeus11011)
 - [Anusha Rajan](https://github.com/rajananusha)
 - [Regina Beretta](https://github.com/reberetta/)
