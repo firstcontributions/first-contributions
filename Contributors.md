@@ -5450,6 +5450,7 @@
 - [Pranav Dani](https://github.com/Pranav1642)
 - [Jonathan Noack](https://github.com/jonock)
 - [Tracy W]
+- [Akshat Maheshwari](https://github.com/Akshat-Maheshwari)
 - [Jasleen Kaur](https://github.com/Jasleen01)
 - [Zachary Moseti](https://github.com/ZachyDev)
 - [Rushali Sreedhar](https://github.com/rushali09)
