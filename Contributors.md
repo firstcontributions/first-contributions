@@ -1329,6 +1329,7 @@
 - [0xv1n](https://vind3v17.github.io)
 - [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
+- [Allyson Camitta] (https://github.com/camitta)
 - [David Young](github.com/dichlorodiphen)
 - [Frank Seno](https://github.com/franks64)
 - [Rafi Abro](https://github.com/mrabro)
