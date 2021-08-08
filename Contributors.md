@@ -5,6 +5,7 @@ Aadiya Agrawal
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
 - [Shoaib M](https://github.com/shabbs15)
+- [Shikhar](https://github.com/shikhar13012001)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
 - [Alestan Alves](https://github.com/AlestanAlves)
