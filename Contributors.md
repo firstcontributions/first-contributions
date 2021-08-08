@@ -1376,6 +1376,7 @@
 - [Pulkit Ranjan](https://github.com/pulkit2910-bit)
 - [Johnny Vineyard](https://github.com/javineya/)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
+- [DikshaSingh](https://github.com/Diksha2307)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
 - [Derek DeMedeiros](https://github.com/derekdemed)
