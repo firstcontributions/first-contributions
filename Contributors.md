@@ -12827,6 +12827,7 @@
 - [UncleMing](https://github.com/UncleMing6688)
 - [hello-jun](https://github.com/hello-jun)
 - [Rishin Rahim](https://github.com/rishinrahim)
+- [Dannan Vazquez](https://github.com/dannanvazquez)
 - [Chloe Blazey](https://github.com/chloeblazey)
 - [Marri Kargar](https://github.com/Marri-k)
 - [donglangjohn](https://github.com/donglangjohn)
