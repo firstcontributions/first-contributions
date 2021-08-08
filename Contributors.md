@@ -1587,6 +1587,7 @@
 - [Saidamir Sharofuddinov](https://github.com/Saidamir-Sh)
 - [Neka Blair](https://github.com/istoga)
 - [Tannybuoy](https://github.com/Tannybuoy/)
+- [Diella Tseng](https://github.com/diellatseng)
 - [Ramsses Ayala](https://github.com/framsses)
 - [Saugat Rajbhandari](https://github.com/saugatrajbhandari)
 - [Daffa Akram](https://github.com/undisputedgoose)
