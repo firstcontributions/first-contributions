@@ -764,6 +764,7 @@
 - [Vikram Jelije](https://github.com/vikramjelije)
 - [Olivia Roche](https://github.com/oliviaroche)
 - [Adam Ketata](https://github.com/adamketata)
+- [Evelyn Chou] (https://github.com/evelynchou02)
 - [Mike Witts](https://github.com/iam-mike)
 - [Kaustubh Kadam](https://github.com/kaabus)
   [Jeremy Krueger](https://github.com/jrc89)
