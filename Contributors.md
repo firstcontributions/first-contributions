@@ -2399,6 +2399,7 @@
 - [Ezylryb77](https://github.com/Ezylryb77)
 - mavidevbcn
 - Kyle Mo
+- Adil Jamal
 - Aranya
 - Ghulam Afzal
 - Ian Ambos
