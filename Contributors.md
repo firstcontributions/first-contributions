@@ -49,7 +49,7 @@
   Akanksha Singh
   Anishka (https://github.com/anishka01)
 - [Mayur S Chittaragi](https://github.com/MayurSChittaragi)
-- [Aman-_-](https://github.com/AmanKJ)
+- [Aman-\_-](https://github.com/AmanKJ)
 - [Saad Irfan](http://github.com/msaaddev)
 - [masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
@@ -1302,7 +1302,7 @@
 - Prathima Kadari
 - [Deepak Kumar](https://github.com/Deepak18-06)
 - [Luhit Atluri](https://github.com/luhit729)
-- [Rosh Kruv]( https://github.com/roshKruv)
+- [Rosh Kruv](https://github.com/roshKruv)
 - [Thomas Gipson](https://github.com/thomasGipson)
 - [siddhesh jungade](https://github.com/siddheshJungade)
 - [Omkar Chari](https://github.com/omkarchari619)
@@ -13036,6 +13036,7 @@
 - [Mr.Robot2025](https://github.com/MrRobot2025/)
 - [Shashank Gowda](https://github.com/shashanksgowda)
 - [Sam An](https://github.com/sammiee5311)
+- [Matthew Leroe](https://github.com/ChaplainsBud)
 - [CJ castillo](https://github.com/caytejohn)
 - [Yuka Okuda](https://github.com/yuka1369)
 - [Tejas Shende](https://github.com/Tejas06)
