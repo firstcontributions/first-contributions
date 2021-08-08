@@ -6258,6 +6258,7 @@
 - [Rodrigo Salgado](https://github.com/RSalgadoAtala)
 - [Prateek Shetty](https://github.com/brucewayne-07)
 - [Saidas S R](https://github.com/srsaidas)
+- [Faith Ademola](https://github.com/faith-ware)
 - [Tom Hayton](https://github.com/TGH37)
 - [Pgh Developer](https://github.com/pghdeveloper)
 - [Ehsun Amanolahi](https://github.com/eamanola)
