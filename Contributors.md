@@ -28,6 +28,7 @@
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Andy Chep](https://github.com/AndreyChepik)
 - [Ryan Smith](https://github.com/RLSmith96118)
+- [Vinay Kumar](https://github.com/foolhardy21)
 - [Iulia Groza](https://github.com/iuliagroza)
 - [Vlad Yanum](https://github.com/YanumVlad)
 - [Luigi Cardone](https://github.com/luigi-cardone)
