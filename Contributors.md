@@ -1940,6 +1940,7 @@
 - [Apratim Ranjan Chakrabarty](https://github.com/Hackhard)
 - [Sokthai Tang](https://github.com/sokthai)
 - [Smit Chavda](https://github.com/SmitChavda)
+- [Aakarsh Yadav](https://github.com/aakarsh1011)
 - [h4m5t](https://github.com/h4m5t)
 - [vaishnav-197](https://github.com/vaishnav-197)
 - [EzequielPR](https://github.com/EzequielPR)
