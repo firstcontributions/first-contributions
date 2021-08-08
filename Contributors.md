@@ -6229,6 +6229,7 @@
 - [Harsh Tiwari](https://github.com/sudo-harsh-tiwari/)
 - i-am-none
 - audric
+- Wayne Xuu
 - [sanjaya ghimire]()
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - [Banjoko Abdulazeez](https://github.com/murenzo/)
