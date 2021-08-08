@@ -8720,6 +8720,7 @@
 - [James Thomas](https://github.com/jtx007)
 - [jkhhuse](https://github.com/jkhhuse)
 - [HyeonMyeong Seo](https://github.com/SeoHyeonMyeong)
+- [Faiz Mohammad](https://github.com/Ziaf007)
 - [David Fernández](https://github.com/davidfdezalcoba)
 - [Yeptony](https://github.com/yeptony)
 - [Seiichi Ariga](https://github.com/s-ariga)
