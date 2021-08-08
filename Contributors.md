@@ -6147,6 +6147,7 @@
 - [Bruce Snow](https://github.com/cbs42)
 - [Anurag Dash](https://github.com/dash-anurag)
 - [George Sharpe](https://github.com/SharpeCode57)
+- [Emanuel Berintan](https://github.com/Nati404)
 - [Yuvraj Singh](https://github.com/yuvraj2701)
 - [Dhanvanth Balakrishnan](https://github.com/DanB288)
 - [Karan Hotwani]()
