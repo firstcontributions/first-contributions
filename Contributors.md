@@ -778,6 +778,7 @@
 - [Duy Nguyen](https://github.com/duynguyen1521)
 - [Buse Orak](https://github.com/buseorak)
 - [crazyacking](https://github.com/crazyacking)
+- [liamblair](https://github.com/liamblair)
 - [Jens Schöneberg](https://github.com/ultimatehulk67)
 - [PARVESH KUMAR](https://github.com/Parv3sh)
 - [Alexandro C.W.](https://github.com/alexandrocw)
