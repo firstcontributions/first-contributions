@@ -191,6 +191,7 @@
 - [Dipesh Babu](https://github.com/dipeshbabu)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Induri Deepthi](https://github.com/deepthiinduri)
+- [Kousic Lattala](https://github.com/kousiclattala)
 - [Stone](https://github.com/Dongdong-Shi)
 - [AjiBuster499](https://github.com/AjiBuster499)
 - [Kyle Brooks](https://github.com/wbrooks8)
