@@ -13442,6 +13442,7 @@
 - [jabir](https://github.com/jabir366)
 - [Zuraiz Ahmed Shehzad](https://github.com/ZuraizAhmedShehzad)
 - [Gustavo Tavares](https://github.com/gustavo600)
+- [Dennis Ruffer](https://github.com/DRuffer)
 - [Nate Cottrell](https://github.com/NC-Coyote)
 - [Ethan Khoe](https://github.com/elkhoe)
 - [haziboro](https://github.com/haziboro)
