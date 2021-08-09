@@ -1,5 +1,7 @@
 # Contributors
+- [Harshal Bharatkar](https://github.com/harshal43)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
+- [SomStar](https://github.com/Somnath-swami)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
@@ -8,6 +10,7 @@
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
+- [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
@@ -13445,3 +13448,5 @@
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
+- [Mateusz Styrna](https://github.com/mateuszstyrna)
+
