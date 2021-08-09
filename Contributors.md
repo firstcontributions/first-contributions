@@ -3407,6 +3407,7 @@
 - [Abhijeet Gandhi](https://github.com/abhijeet1813)
 - Dean Lardner
 - Brandon Wright
+- Syed Abbas
 - [Amandou](https://github.com/amandou)
 - Ratul Dawar
 - [PeculiarOptimist](https://github.com/PeculiarOptimist)
@@ -5280,6 +5281,7 @@
 - Ajeet Singh Parmar
 - [Harshal Jain](https://github.com/Harshal0506)
 - Callina Birdsong
+- [Syed Abbas](https://github.com/symabbas)
 - [Alan Garcia](https://github.com/Melt04)
 - [Nikki Bahl](https://github.com/nikkibahl)
 - [Julia S. Butler](https://github.com/MsJSB)
