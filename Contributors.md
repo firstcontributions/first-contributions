@@ -102,6 +102,7 @@
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [omarelweshy](https://github.com/omarelweshy)
 - [David Páez](https://github.com/paezdavid)
+- [Billy Brown III](https://github.com/BillyBDev)
 - [maryamdkh](https://github.com/maryamdkh)
 - [Joshua Tumlinson](https://github.com/joshuaTumlinson)
 - [trevalkov](https://gitjub.com/trevalkov)
