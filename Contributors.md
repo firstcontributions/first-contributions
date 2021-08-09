@@ -13,6 +13,7 @@
 - [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
+- [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
 - [Heizal Nagginda](https://github.com/Heizal)
