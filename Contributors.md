@@ -12765,6 +12765,7 @@
 - [Amber Suratte](https://github.com/asuratte)
 - [Sushant Daspute](https://github.com/sushantdasputepatil)
 - [Aaron Lee](https://github.com/sciencelee)
+- [Chris Uicab](https://github.com/moxxington)
 - [Kevin Dyke](https://github.com/KevinDyke)
 - [2293736867](https://github.com/2293736867)
 - [SnowyLake](https://github.com/SnowyLake)
