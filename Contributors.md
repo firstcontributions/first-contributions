@@ -10,6 +10,7 @@
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
+- [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
