@@ -1997,6 +1997,7 @@
 - Pedro Enciso
 - Rajeswari Suance
 - Ahambarish Saikia
+- [Darragh Hennessy](https://github.com/darraghhennessy)
 - Ali Ahmed
 - JLJ
 - [Phoebe Quincy](https://github.com/phoebequincy)
