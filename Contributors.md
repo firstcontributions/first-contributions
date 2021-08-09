@@ -524,6 +524,7 @@
 - [Timbre Freeman](https://github.com/tztz8)
 - [Albert Dinh](https://github.com/albert-dinh-01)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
+- [Kevin Nguyen](https://github.com/kevng2)
 - [Viktor Milosavljevic](https://github.com/NoncommissionedRush)
 - [Nhielsan Albuero](https://github.com/njalbuero)
 - [Lynzie Zhu](https://github.com/lynzie)
