@@ -109,6 +109,7 @@
 - [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
 - [Jordan Lamb] (https://github.com/Jordan-Lamb)
 - [Alissa Zhang](https://github.com/alissazhang)
+- [Javier Garcia](https://github.com/Javi-GM)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [omarelweshy](https://github.com/omarelweshy)
 - [David Páez](https://github.com/paezdavid)
