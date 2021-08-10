@@ -55,6 +55,7 @@
 - [YZ](https://github.com/Yarzarmyomin97)
   aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
+- [Cheyenne Smith](https://github.com/cbsmith5)
 - [Alexandra Popescu](https://github.com/alexanpo)
 - [Daniel Levandovschi] (https://github.com/tiger55md)
 - [ruiofsunshine] (https://github.com/ruiofsunshine)
