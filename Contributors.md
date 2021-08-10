@@ -13449,4 +13449,5 @@
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
+- [Mimimitsu](https://github.com/Mimimitsu)
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
