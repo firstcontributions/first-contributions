@@ -1034,6 +1034,7 @@
 - [Bartu Bisgin](https://github.com/bartubisgin)
 - [Vinay Khanduri](https://github.com/vkay11)
 - [Arijit Rakshit](https://github.com/arijitjph)
+- [Sergio](https://github.com/sergbacha)
 - [Nitin](https://github.com/Nitin-00)
 - [Midhun](https://github.com/midhun2002)
 - [Dana Lu](https://github.com/cococcco)
