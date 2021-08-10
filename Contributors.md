@@ -23,6 +23,7 @@
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
+- [Sarthak Gupta](https://github.com/Sart-Hack)
 - [Heizal Nagginda](https://github.com/Heizal)
 - [ironsgold](https://github.com/ironsgold)
 - [Omar Mehmood](https://github.com/OmarMeh117)
