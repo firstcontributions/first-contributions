@@ -14,6 +14,7 @@
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
 - [Crystal Faqiri](https://github.com/cfaqiri)
+- [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
