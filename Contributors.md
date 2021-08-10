@@ -2602,6 +2602,7 @@
 - [Ulugbek Abdullayev](https://github.com/Ulugbek1024)
 - [Ayush Sharma](https://github.com/GAMhackER)
 - [Shivam Kalra](https://github.com/shivamkalra13)
+- [Frans de Boer](https://github.com/Frans-db)
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
 - [Falconbrunch](https://github.com/Falconbrunch)
 - [Joshua Quan](https://github.com/JMQ0598)
