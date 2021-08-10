@@ -1,6 +1,7 @@
 # Contributors
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
+- [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Ross Calvert](https://github.com/Ross-C)
