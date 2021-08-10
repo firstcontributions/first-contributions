@@ -1039,6 +1039,7 @@
 - [Antonio Glee Pizarro](https://github.com/angopi76)
 - [Sebastián Sameghini](https://github.com/ssameghini)
 - [Jason Tan](https://github.com/jasontjz)
+- [Lidia Furukawa](https://github.com/lidia-furukawa)
 - [Pasindu Akalpa](https://github.com/pAkalpa)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Damilola Ojo](https://github.com/Damilola-jr)
