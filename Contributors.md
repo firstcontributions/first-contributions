@@ -81,6 +81,7 @@
 - [Niranjan Girhe][https://github.com/niranjangirhe]
 - [Chandan H](https://github.com/Chandan-h-509)
 - [Izzminhal Akmal](https://github.com/Kemystra)
+- [Santanu Biswas](https://github.com/Santanu29)
 - [Dhiraj Das][https://github.com/godhiraj-code]
   [Sabomato][https://github.com/sabomato]
 - [utah239](https://github.com/utah239)
