@@ -11,6 +11,7 @@
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
+- [Harshmohan Kulkarni](https://github.com/harshmohan07)
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Marius Malinauskas](https://github.com/Marovii)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
