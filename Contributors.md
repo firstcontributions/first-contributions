@@ -12,6 +12,7 @@
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Crystal Faqiri](https://github.com/cfaqiri)
+- [Marius Malinauskas](https://github.com/Marovii)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
