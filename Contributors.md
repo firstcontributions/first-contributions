@@ -1,5 +1,4 @@
 # Contributors
-- [George Gebbett](https://github.com/georgegebbett)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Manny Alfaro](https://github.com/Mannyalfa)
@@ -13464,3 +13463,4 @@
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
 - [Oz](https://github.com/Ozay0900)
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
+- [George Gebbett](https://github.com/georgegebbett)
