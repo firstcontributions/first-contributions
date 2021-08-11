@@ -13478,3 +13478,4 @@
 - [Oz](https://github.com/Ozay0900)
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
 - [Mayank Singh Negi](https://github.com/Mayank242002)
+- [Cade Cuddy](https://github.com/cadecuddy)
