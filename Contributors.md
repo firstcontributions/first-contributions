@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
@@ -11730,6 +11729,7 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal] (https://github.com/hafidzal)
 - [pranavdubey303]
+-    [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
 - [queendeveloper](https://github.com/queendeveloperbr)
 - [uthadehikaru](https://github.com/uthadehikaru)
 - [Tr0612](https://github.com/Tr0612)
