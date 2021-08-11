@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
 - [Rahul Kalia](https://github.com/RahulKalia)
 - [Ridwan Ali Mohammed](https://github.com/rid1-ali)
 - [Onder Secen](https://github.com/osecen) 
