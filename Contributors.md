@@ -13392,6 +13392,7 @@
 - [CamArturo](https://github.com/CamArturo)
 - [CaoE](https://github.com/CaoE)
 - [Xinmiao]
+- [LuisHX]
 - [EJ Gaygay](https://github.com/ejgaygay)
 - [Wisnu](https://github.com/wisnupratama24)
 - [Jiaqi Liu](https://github.com/JIAQI13)
