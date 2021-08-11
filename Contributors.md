@@ -1,5 +1,7 @@
 # Contributors
+
 - [Harshal Bharatkar](https://github.com/harshal43)
+- [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
@@ -19,10 +21,12 @@
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
+-[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
+- [Sarthak Gupta](https://github.com/Sart-Hack)
 - [Heizal Nagginda](https://github.com/Heizal)
 - [ironsgold](https://github.com/ironsgold)
 - [Omar Mehmood](https://github.com/OmarMeh117)
@@ -52,6 +56,7 @@
 - [YZ](https://github.com/Yarzarmyomin97)
   aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
+- [Cheyenne Smith](https://github.com/cbsmith5)
 - [Alexandra Popescu](https://github.com/alexanpo)
 - [Daniel Levandovschi] (https://github.com/tiger55md)
 - [ruiofsunshine] (https://github.com/ruiofsunshine)
@@ -68,6 +73,7 @@
 - [Mayur S Chittaragi](https://github.com/MayurSChittaragi)
 - [Aman-\_-](https://github.com/AmanKJ)
 - [Saad Irfan](http://github.com/msaaddev)
+- [Emrich-Michael Perrier](https://github.com/emrichmp)
 - [masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
@@ -78,6 +84,7 @@
 - [Niranjan Girhe][https://github.com/niranjangirhe]
 - [Chandan H](https://github.com/Chandan-h-509)
 - [Izzminhal Akmal](https://github.com/Kemystra)
+- [Santanu Biswas](https://github.com/Santanu29)
 - [Dhiraj Das][https://github.com/godhiraj-code]
   [Sabomato][https://github.com/sabomato]
 - [utah239](https://github.com/utah239)
@@ -105,6 +112,7 @@
 - [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
 - [Jordan Lamb] (https://github.com/Jordan-Lamb)
 - [Alissa Zhang](https://github.com/alissazhang)
+- [Javier Garcia](https://github.com/Javi-GM)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [omarelweshy](https://github.com/omarelweshy)
 - [David Páez](https://github.com/paezdavid)
@@ -903,6 +911,7 @@
 - [Shuvadarshan Bhual](https://github.com/theRangeCoder)
 - [Florence Anipa](https://github.com/flo20)
 - [Shoaib M](https://github.com/shabbs15)
+- [Shikhar](https://github.com/shikhar13012001)
 - [Santhosh](https://github.com/santhoshunt)
 - [Jason Ni](https://github.com/niyunhuo98)
 - [Dineshkumar Kannan](https://github.com/DineshkumarKannan-DK)
@@ -1032,6 +1041,7 @@
 - [Antonio Glee Pizarro](https://github.com/angopi76)
 - [Sebastián Sameghini](https://github.com/ssameghini)
 - [Jason Tan](https://github.com/jasontjz)
+- [Lidia Furukawa](https://github.com/lidia-furukawa)
 - [Pasindu Akalpa](https://github.com/pAkalpa)
 - [Abdullah Jimoh](https://github.com/therealJimoh)
 - [Damilola Ojo](https://github.com/Damilola-jr)
@@ -2594,6 +2604,7 @@
 - [Ulugbek Abdullayev](https://github.com/Ulugbek1024)
 - [Ayush Sharma](https://github.com/GAMhackER)
 - [Shivam Kalra](https://github.com/shivamkalra13)
+- [Frans de Boer](https://github.com/Frans-db)
 - [Tyler Pfledderer](https://github.com/TylerAPfledderer)
 - [Falconbrunch](https://github.com/Falconbrunch)
 - [Joshua Quan](https://github.com/JMQ0598)
@@ -5295,6 +5306,7 @@
 - Ajeet Singh Parmar
 - [Harshal Jain](https://github.com/Harshal0506)
 - Callina Birdsong
+- [Syed Abbas](https://github.com/symabbas)
 - [Alan Garcia](https://github.com/Melt04)
 - [Nikki Bahl](https://github.com/nikkibahl)
 - [Julia S. Butler](https://github.com/MsJSB)
@@ -6892,6 +6904,7 @@
 - [Mustafa Gangardiwala](https://github.com/MustafaGangardiwala)
 - [Aniruddha Banerjee](https://github.com/imanirudh1)
 - [SashiKrishna C P](https://github.com/ossCodeJourney)
+- [Imama Zahoor](https://github.com/imamazahoor)
 - [Shrishti Goyal](https://github.com/eternal-dreamer)
 - [Tom Nguyen](https://github.com/tomnguyen21)
 - [Skyler Milliken](https://github.com/relykstm)
@@ -13383,6 +13396,7 @@
 - [CamArturo](https://github.com/CamArturo)
 - [CaoE](https://github.com/CaoE)
 - [Xinmiao]
+- [LuisHX]
 - [EJ Gaygay](https://github.com/ejgaygay)
 - [Wisnu](https://github.com/wisnupratama24)
 - [Jiaqi Liu](https://github.com/JIAQI13)
@@ -13457,10 +13471,16 @@
 - [Raha Moosavi](https://github.com/acse-srm3018)
 - [Kunal Jha](https://github.com/kunljha)
 - [xnmll](https://github.com/xnmll)
+- [Dawit Meonnen](https://github.com/Dave-lab12)
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
+- [Darren Odi](https://github.com/darrenodi)
 - [Oz](https://github.com/Ozay0900)
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
 - [George Gebbett](https://github.com/georgegebbett)
+- [Mayank Singh Negi](https://github.com/Mayank242002)
+- [Cade Cuddy](https://github.com/cadecuddy)
+- [Jerkboy](https://github.com/jerkboy000)
+- [KINGeorge](http://github.com/YuBaichuan2000)
