@@ -21,6 +21,7 @@
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
+-[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
