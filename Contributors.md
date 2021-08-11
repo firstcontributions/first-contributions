@@ -34,6 +34,7 @@
 - [Pahal-Jain](https://github.com/pahaljain)
 - [Jason Lv](https://github.com/jason1105)
 - [Akoopie](https://github.com/Akoopie)
+- [Avinash Karn](https://github.com/Avikarn)
 - [Onigiri](https://github.com/onigiri070)
 - [Archit Jain](https://github.com/architjen)
 - [Ajay yadav](https://github.com/AjayYadavAi)
