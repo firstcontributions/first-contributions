@@ -49,6 +49,7 @@
 - [Andy Chep](https://github.com/AndreyChepik)
 - [Ryan Smith](https://github.com/RLSmith96118)
 - [Vinay Kumar](https://github.com/foolhardy21)
+- [Jerica Smith] (https://github.com/Jerica-S)
 - [Iulia Groza](https://github.com/iuliagroza)
 - [Vlad Yanum](https://github.com/YanumVlad)
 - [Luigi Cardone](https://github.com/luigi-cardone)
