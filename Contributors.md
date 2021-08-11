@@ -2117,6 +2117,7 @@
 - [Patryk Gwizdała](https://gitbub.com/patgwizdala)
 - [Alexander Y Wang](https://github.com/alexanderywang)
 - [**Irena Chen** 🌻](https://github.com/mengirena)
+- [RJ O'Neal](https://github.com/OnealRj)
 - Daniel Cerqueira
 - Gabriel Antal
 - N.M.
