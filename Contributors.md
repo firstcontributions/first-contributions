@@ -2653,6 +2653,7 @@
 - [Aman Shaw](https://github.com/amanshaw4511)
 - [Saheed Shittu](https://github.com/shittusaheed01)
 - [Shishira S](https://github.com/Shishira4)
+- [Brandon Foss](https://github.com/fossbrandon)
 - [SyntheticOne](https://github.com/SyntheticOne)
 - [Serge Mayala](https://github.com/iamayala)
 - [Fathonah Zuchriyah](https://github.com/afaafa)
