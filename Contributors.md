@@ -62,6 +62,7 @@
   aeglena
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Cheyenne Smith](https://github.com/cbsmith5)
+- [Deepak Goyal](https://github.com/goyaldpk)
 - [Alexandra Popescu](https://github.com/alexanpo)
 - [Daniel Levandovschi] (https://github.com/tiger55md)
 - [ruiofsunshine] (https://github.com/ruiofsunshine)
