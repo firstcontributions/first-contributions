@@ -6330,6 +6330,7 @@
 - [Mehmet Ali Akbay](https://github.com/mhmtaliakbay)
 - Dhivya
 - [KaanGaming](https://github.com/KaanGaming)
+- [Stephen Whitlock](https://github.com/jshwi)
 - [Ayushman Mishra](https://github.com/chetak123)
 - [Ryan Mac](https://github.com/r-mac)
 - [Jahred Danker](https://github.com/jdanker)
