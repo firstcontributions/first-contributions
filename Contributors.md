@@ -14,6 +14,7 @@
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
+- [Abdulbasit Gamoranao](https://github.com/kuyabasit)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
