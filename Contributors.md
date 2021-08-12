@@ -3,6 +3,7 @@
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
+- [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
