@@ -47,6 +47,7 @@
 - [Taejin Jung](https://github.com/taejin5314)
 - [ASHUTOSH KUMAR CHOUDHARY](https://github.com/Ash-KODES)
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
+- [Nae Sebastian](https://github.com/SheepSeb)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Debasmita Samadder](https://github.com/tech-deb)
 - [Andy Chep](https://github.com/AndreyChepik)
