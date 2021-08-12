@@ -56,6 +56,7 @@
 - [Vinay Kumar](https://github.com/foolhardy21)
 - [Jerica Smith] (https://github.com/Jerica-S)
 - [Iulia Groza](https://github.com/iuliagroza)
+- [Hadar Gossels] (https://github.com/hadargossels)
 - [Vlad Yanum](https://github.com/YanumVlad)
 - [Luigi Cardone](https://github.com/luigi-cardone)
 - [Anibal Campos](https://github.com/kneess)
