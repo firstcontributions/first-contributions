@@ -78,6 +78,7 @@
 - [Dan Koller](https://github.com/dan-koller)
 - [Yazan Kherfan](https://github.com/yazok8)
 - [Mathewkutty Mathew](https://github.com/Mathewkutty)
+- [Deepak] (https://github.com/dyadav-cse)
   Joshua Do
   Akanksha Singh
   Anishka (https://github.com/anishka01)
