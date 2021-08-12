@@ -11682,6 +11682,7 @@
 - Laquita Noel
 - Lokesh
 - Rohit Prasad(Indian)
+- Taf Mac
 - [Catacombas](https://github.com/catacombas)
 - [Alireza Khorami](https://github.com/alirezakhoramimn)
 - [Adk](https://github.com/CustomUser47)
