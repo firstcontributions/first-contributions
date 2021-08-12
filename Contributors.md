@@ -14,6 +14,7 @@
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
+- [Burhan Rashid](https://github.com/Burhan-Rashid)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Abdulbasit Gamoranao](https://github.com/kuyabasit)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
