@@ -134,6 +134,7 @@
 - [Niti Shah](https://github.com/Niti-Shah)
 - [Dhwanik Panchal](https://github.com/dhwanik9)
 - [Raja Mishra](https://github.com/Raja-mishra1)
+- [Brandon Pokorny](https://github.com/Clickedbigfoot)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)
 - [Mansi Saini](https://github.com/msaini26)
 - [Andrew Brady](https://github.com/andybrady52)
