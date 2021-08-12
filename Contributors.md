@@ -567,6 +567,7 @@
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
 - [kalimero](https://github.com/kalimero0073)
 - [Abdulhussain Jarif](https://github.com/Abdulhussainjarif)
+- [Vicky Mak](https://github.com/vmak246)
 - [Huy Nguyen](https://github.com/thenameiswiiwin)
 - [Kabilan Hussain](https://github.com/Kabilan1602)
 - [Kathy Bradt](https://github.com/Cygnet717)
