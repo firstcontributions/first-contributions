@@ -1,13 +1,17 @@
 # Contributors
 
 - [Harshal Bharatkar](https://github.com/harshal43)
+- [Aryan Shinde](https://github.com/AryanShinde)
+- [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
+- [Shweta Patil](https://github.com/ShwetaPatil232)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [J Delaney] (https://github.com/Juniper11)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
@@ -397,6 +401,7 @@
 - [Michael Nelson](https://github.com/michael54nelson)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Albert Karwur](https://github.com/tonaaskarwur)
+- [Nithin Manoj](https://github.com/nithinmanoj10)
 - [Anas Yaseen](https://github.com/anasomar1)
 - [Kevin Kwon](https://github.com/realkevinkwon)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
@@ -13476,6 +13481,7 @@
 - [Kaustubh Harnoor](https://github.com/kharnoor)
 - [Jade Vogt](https://github.com/jade-vogt)
 - [Rohit Verma](https://github.com/rohitv5) 🐼
+- Kaustubh Paonikar
 - Pedro-Grajau
 - [Juan R](https://github.com/jareyesda)
 - [or bunfad](https://github.com/orbunfad)
@@ -13507,4 +13513,7 @@
 - [thaliajuarez](https://github.com/thaliajuarez)
 - [Damian Tomalka](https://github.com/damian-tomalka)
 - [Tyler Johnson](https://github.com/TJohnson986)
+- [Anthony Lopez](https://github.com/GrungeKarma)
+- [Impala SixFive](https://github.com/impala65)
+- [Samson Lannister](https://github.com/SAMSONEE)
 
