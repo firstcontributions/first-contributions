@@ -555,6 +555,7 @@
 - [Bhawani Shankar](https://github.com/bshankar1729)
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
 - [Helen Tkachuk](https://github.com/Helen10101)
+- [Adreeja](https://github.com/adreejish)
 - [Sasmitha Manathunga](https://github.com/mmz-001)
 - [Timbre Freeman](https://github.com/tztz8)
 - [Albert Dinh](https://github.com/albert-dinh-01)
