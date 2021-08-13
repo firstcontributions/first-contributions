@@ -400,6 +400,7 @@
 - [Michael Nelson](https://github.com/michael54nelson)
 - [Marcos Vinicius](https://github.com/marcos-inja)
 - [Albert Karwur](https://github.com/tonaaskarwur)
+- [Nithin Manoj](https://github.com/nithinmanoj10)
 - [Anas Yaseen](https://github.com/anasomar1)
 - [Kevin Kwon](https://github.com/realkevinkwon)
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
