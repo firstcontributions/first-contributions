@@ -6,6 +6,7 @@
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
+- [Shweta Patil](https://github.com/ShwetaPatil232)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
