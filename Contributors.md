@@ -13476,6 +13476,7 @@
 - [Kaustubh Harnoor](https://github.com/kharnoor)
 - [Jade Vogt](https://github.com/jade-vogt)
 - [Rohit Verma](https://github.com/rohitv5) 🐼
+- Kaustubh Paonikar
 - Pedro-Grajau
 - [Juan R](https://github.com/jareyesda)
 - [or bunfad](https://github.com/orbunfad)
