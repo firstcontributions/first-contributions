@@ -2,6 +2,7 @@
 
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Aryan Shinde](https://github.com/AryanShinde)
+- [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
