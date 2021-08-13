@@ -8,6 +8,7 @@
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [J Delaney] (https://github.com/Juniper11)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
