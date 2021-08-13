@@ -13501,8 +13501,10 @@
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
 - [Mayank Singh Negi](https://github.com/Mayank242002)
 - [Cade Cuddy](https://github.com/cadecuddy)
+- [Rituraj Sohoni] 
 - [Jerkboy](https://github.com/jerkboy000)
 - [KINGeorge](http://github.com/YuBaichuan2000)
 - [thaliajuarez](https://github.com/thaliajuarez)
 - [Damian Tomalka](https://github.com/damian-tomalka)
 - [Tyler Johnson](https://github.com/TJohnson986)
+
