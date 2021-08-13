@@ -13501,7 +13501,7 @@
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
 - [Mayank Singh Negi](https://github.com/Mayank242002)
 - [Cade Cuddy](https://github.com/cadecuddy)
-- [Rituraj Sohoni] (https://github.com/rituraj8503)
+- [Rituraj Sohoni](https://github.com/rituraj8503)
 - [Jerkboy](https://github.com/jerkboy000)
 - [KINGeorge](http://github.com/YuBaichuan2000)
 - [thaliajuarez](https://github.com/thaliajuarez)
