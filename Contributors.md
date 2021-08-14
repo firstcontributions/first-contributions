@@ -13485,6 +13485,7 @@
 - [The-Mozart-of-Physics](https://github.com/raphaPhysics2020)
 - [Ryo Jerry Yu](https://github.com/RyoJerryYu)
 - [Aman Shrivastava](https://github.com/aman34503)
+- [Kaletho](https://github.com/kaletho)
 - [Kaustubh Harnoor](https://github.com/kharnoor)
 - [Jade Vogt](https://github.com/jade-vogt)
 - [Rohit Verma](https://github.com/rohitv5) 🐼
