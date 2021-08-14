@@ -24,6 +24,7 @@
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
+- [ChihYangHsu](https://github.com/chihyanghsu0805)
 - [Abdulbasit Gamoranao](https://github.com/kuyabasit)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
 - [Crystal Faqiri](https://github.com/cfaqiri)
