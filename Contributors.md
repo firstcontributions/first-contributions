@@ -3,6 +3,7 @@
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Aryan Shinde](https://github.com/AryanShinde)
+- [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
