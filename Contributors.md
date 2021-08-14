@@ -233,6 +233,7 @@
 - [Lokesh Choudhary](https://github.com/lokeshchoudhary-lc)
 - [Fatih Arslan](https://github.com/fatiharslanedu)
 - [lomna2008](https://github.com/lomna2008)
+- [Bravo Six](https://github.com/BravoSix)
 - [Dipesh Babu](https://github.com/dipeshbabu)
 - [ceramic-vessel-developer](https://github.com/ceramic-vessel-developer)
 - [Induri Deepthi](https://github.com/deepthiinduri)
