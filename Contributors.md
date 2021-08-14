@@ -12,6 +12,7 @@
 - [Shweta Patil](https://github.com/ShwetaPatil232)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [SomStar](https://github.com/Somnath-swami)
+- [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [J Delaney] (https://github.com/Juniper11)
 - [myo thant kyaw] (https://github.com/myothant88)
