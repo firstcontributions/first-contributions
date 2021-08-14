@@ -1431,6 +1431,7 @@
 - [Txabi Alastruey](http://github.com/Baskman74)
 - [Sampath Rachumallu](https://github.com/sampath97)
 - [Tim Chapman](https:github.com/wobbly2732)
+- [Valentine Awe](https://github.com/valoni01)
 - [Uzair Ali](https://github.com/uzair-ali10)
 - [Islam Ellawendy](https://github.com/islamellawendy)
 - [Daniel Armas](https://github.com/daniel692a)
