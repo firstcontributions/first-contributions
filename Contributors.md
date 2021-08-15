@@ -579,6 +579,7 @@
 - [Viktor Milosavljevic](https://github.com/NoncommissionedRush)
 - [Nhielsan Albuero](https://github.com/njalbuero)
 - [Lynzie Zhu](https://github.com/lynzie)
+- [Anthony Brancato](https://github.com/AnthonyBrancato)
 - [Akanksha Rai](https://github.com/akanksharai001)
 - [Leo Purba](https://github.com/leopurba)
 - [gindo](https://github.com/gindoprinansinaga)
