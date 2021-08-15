@@ -3993,6 +3993,7 @@
 - [Tarik Dzambic](https://github.com/dzambatz)
 - [Nicolas Skirkey](https://github.com/nskirkey)
 - [Henrique Lisboa](https://github.com/hlisboasousa)
+- [James Batman](https://github.com/jwbat)
 - [Shivam Karn](https://github.com/rexFX)
 - [Carla luvai](https://github.com/carluvy)
 - [Arisandi](https://github.com/arisandi1)
