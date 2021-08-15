@@ -11,6 +11,9 @@ If you're making changes to a translation, please request a review from our prev
 <table>
     <tr>
         <td>
+           <a href="../translations/README.uz.md">O'zbekcha</a>
+        </td>
+	<td>
            <a href="../translations/README.hi.md">हिन्दी</a>
         </td>
         <td>
@@ -40,13 +43,18 @@ If you're making changes to a translation, please request a review from our prev
     </tr>
     <tr>
         <td>
+            <img width="100" src="https://avatars.githubusercontent.com/u/77227784?v=4" 
+alt="@bekrozikoff" />
+        </td>
+	<td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />
         </td>
         <td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />
         </td>
         <td>
-            <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />
+            <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" 
+alt="@bantya" />
         </td>
 	<td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />
