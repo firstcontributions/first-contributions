@@ -1830,6 +1830,7 @@
 - [Scott Pettyjohn](https://github.com/scottpettyjohn)
 - [Theddy Luna](https://github.com/tluna) ⊂(◉‿◉)つ
 - [Atishay Jain](https://github.com/atishayzn)
+- [Kartik Gupta](https://github.com/kartik1918)
 - [Shah Fahad](https://github.com/shahfahad746)
 - [Dan Dorci](https://github.com/dan-dorci)
 - [Deniz Hasler](https://github.com/CallMeMisterOwl)
