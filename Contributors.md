@@ -25,6 +25,7 @@
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Amit-1001] (https://github.com/Amit-1001/)
 - [Gemma Draper](https://github.com/gemma-draper/)
+- [sololabs](https://github.com/sololabs)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
