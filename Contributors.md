@@ -15,6 +15,7 @@
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [J Delaney] (https://github.com/Juniper11)
 - [myo thant kyaw] (https://github.com/myothant88)
+- [Urvi Mitra] (https://github.com/urvimitra)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
