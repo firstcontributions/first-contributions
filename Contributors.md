@@ -6748,6 +6748,7 @@
 - [Upagyya Dixit](https://github.com/upagyya)
 - [sairina merino tsui](https://github.com/sairina)
 - Swathi Mannem
+- [Manish Das](https://github.com/Manishdas1975)
 - [Andrew Tomich](https://github.com/jAndrewtomich)
 - [Manohar Rajaram](https://github.com/manohar52)
 - [Doris Chang]
