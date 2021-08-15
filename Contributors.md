@@ -4,6 +4,7 @@
 - [Md Monayem Islam](https://monayemislam.github.io/)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Aryan Shinde](https://github.com/AryanShinde)
+- [Anik Chakraborty](https://github.com/Anikcb)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
