@@ -142,6 +142,7 @@
 - [Javier Garcia](https://github.com/Javi-GM)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [omarelweshy](https://github.com/omarelweshy)
+- [Naren Gorantla](https://github.com/Naren0)
 - [David Páez](https://github.com/paezdavid)
 - [Billy Brown III](https://github.com/BillyBDev)
 - [maryamdkh](https://github.com/maryamdkh)
