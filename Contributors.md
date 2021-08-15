@@ -22,6 +22,7 @@
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
+- [Sai Krishnan](https://github.com/SaiKrishnan101)
 - [Benjamin Siau](https://github.com/bensiauu)
 - [sereno](https://github.com/sereno1987)
 - [Rahul](https://github.com/Rahul-go1503/)
