@@ -3129,6 +3129,7 @@
 - [Shreyas Garud](https://github.com/shreyasGarud)
 - [Bijay Thapa](https://github.com/dbijaya)
 - [John Lee](https://github.com/syntheticjohn)
+- [Marat G&d](https://github.com/gd-m1)
 - [Cam Benassi](https://github.com/cambenassi)
 - [Paramita Tejasvi](https://github.com/paramita-tejasvi)
 - [Helen Nazarenko](https://github.com/nazarenh)
