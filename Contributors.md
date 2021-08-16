@@ -40,8 +40,12 @@
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Mehare](https://github.com/mystic-one)
 - [Tanzeel Khan](https://github.com/tanzeyl)
+<<<<<<< HEAD
 - [Kyin Edwards](https://github.com/KyinE1)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
+=======
+- [Kyin Edwards](https://github.com/KyinE1) -[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
+>>>>>>> 245bfde49d9c273ca74c4a5bc3a44bb4f8b73e28
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
