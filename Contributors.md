@@ -5,6 +5,7 @@
 - [CodingSoda](https://github.com/CodingSoda)
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
+- [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
