@@ -1,6 +1,7 @@
 # Contributors
 
 - [Harshal Bharatkar](https://github.com/harshal43)
+- [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
 - [Md Monayem Islam](https://monayemislam.github.io/)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Aryan Shinde](https://github.com/AryanShinde)
