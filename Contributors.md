@@ -63,6 +63,7 @@
 - [Akoopie](https://github.com/Akoopie)
 - [JenE](https://github.com/yeahokthen)
 - [Avinash Karn](https://github.com/Avikarn)
+- [Fahad Alharbi](https://github.com/Fahadeidalharbi)
 - [Onigiri](https://github.com/onigiri070)
 - [Archit Jain](https://github.com/architjen)
 - [Ajay yadav](https://github.com/AjayYadavAi)
