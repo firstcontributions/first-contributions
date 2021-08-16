@@ -870,6 +870,7 @@
 - [Akshat Divya](https://github.com/Akshat42)
 - [Ravi Maithrey](https://github.com/ravi-maithrey)
 - [Eric De La Rosa](https://github.com/eddlr98)
+- [Alvin Chang](https://github.com/SprRing)
 - [George Atkinson]
 - [Nikhil Agarwal](https://githib.com/nikhil0209)
 - [Chase Skibeness](https://github.com/chase-skibeness)
