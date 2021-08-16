@@ -6696,6 +6696,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - CamChan
 - 1412
+- [Wei S](https://github.com/FFFFFaraway)
 - [Shipra Verma](https://github.com/Aaishpra)
 - [Yogesh Singh Thakur](https://github.com/thakur-yogesh)
 - [Matt West](https://github.com/MWest352)
