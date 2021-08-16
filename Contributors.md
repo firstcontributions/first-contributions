@@ -1219,6 +1219,7 @@
 - [Amit Kumar Singh](https://github.com/amit-singh1)
 - [Maher Gzam](https://github.com/mgzam)
 - [Deepak](https://github.com/DKdEviL)
+- [Simon Rabuogi](https://www.github.com/symokevo)
 - [Michael Ameyaw](https://github.com/mkojoa)
 - [MAZ12211](https://github.com/MAZ12211)
 - [Ritika Pahwa](https://github.com/RitikaPahwa4444)
