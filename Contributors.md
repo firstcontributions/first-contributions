@@ -17,6 +17,7 @@
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
+- [Grace Kelley](https://github.com/kelleygrace88)
 - [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
@@ -53,8 +54,7 @@
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Mehare](https://github.com/mystic-one)
 - [Tanzeel Khan](https://github.com/tanzeyl)
-- [Kyin Edwards](https://github.com/KyinE1) 
--[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
+- [Kyin Edwards](https://github.com/KyinE1) -[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
@@ -13565,7 +13565,7 @@
 - [Ryan Schwab](https://github.com/schwabfour)
 - [RedFox0x20](https://github.com/RedFox0x20)
 - [glide143](https://github.com/glide143)
-- Allan B/H 
+- Allan B/H
 - [fanlu](https://github.com/FanLu1994)
 - [cascades-sjtu](https://github.com/cascades-sjtu)
 - [aoligei](https://github.com/youcan2021)
