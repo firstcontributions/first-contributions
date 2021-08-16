@@ -10,6 +10,7 @@
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
+- [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
 - [Manny Alfaro](https://github.com/Mannyalfa)
