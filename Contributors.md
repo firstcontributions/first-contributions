@@ -3281,6 +3281,7 @@
 - [Aditya Prakash](https://github.com/prakashaditya369)
 - [Rosemary Li](https://github.com/yli110-stat697)
 - [Kira](https://github.com/kira0x1)
+- [Jonathan R](https://github.com/yoni78)
 - [Ratheesh R](https://github.com/Ratheeshramesan)
 - [Zoeinfp](https://github.com/zoeinfp)
 - [Robert Kulig](https://github.com/SidBarker)
