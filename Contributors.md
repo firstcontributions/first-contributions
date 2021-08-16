@@ -106,6 +106,7 @@
 - [Yazan Kherfan](https://github.com/yazok8)
 - [Mathewkutty Mathew](https://github.com/Mathewkutty)
 - [Deepak] (https://github.com/dyadav-cse)
+- [Kai778](https://github.com/Kai7788)
   Joshua Do
   Akanksha Singh
   [Eniola Fagbeyiro](https://github.com/eniola-f)
