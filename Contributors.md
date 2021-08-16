@@ -7,6 +7,7 @@
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
+- [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
