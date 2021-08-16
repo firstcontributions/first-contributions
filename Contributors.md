@@ -7,6 +7,7 @@
 - [CodingSoda](https://github.com/CodingSoda)
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Tuhin Das](https://github.com/tuhindas30)
+- [Atishay J](https://github.com/Atishay-J)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
