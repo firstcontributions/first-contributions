@@ -1,6 +1,6 @@
-# Additional information
+# 追加情報
 
-We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
+ここに来る前に、基本的なチュートリアルをすでに完了していることを前提としています。このドキュメントでは、高度なGitテクニックに関する追加情報を提供します。
 
 ### [Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
