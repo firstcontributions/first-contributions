@@ -42,6 +42,7 @@
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
+- [Jianan Wang](https://github.com/edwang09)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [ChihYangHsu](https://github.com/chihyanghsu0805)
 - [Abdulbasit Gamoranao](https://github.com/kuyabasit)
