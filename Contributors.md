@@ -13,6 +13,7 @@
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
+- [Prateek Singh] (https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
