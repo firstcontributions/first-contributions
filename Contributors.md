@@ -17,7 +17,7 @@
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
-- [Grace Kelley](https://github.com/kelleygrace88)
+- [Grace K](https://github.com/kelleygrace88)
 - [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
