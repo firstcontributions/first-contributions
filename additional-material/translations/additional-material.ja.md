@@ -46,7 +46,9 @@
 > ローカルリポジトリを元に戻す/リセットする
 
 ### [Useful Links](Useful-links-for-further-learning.md)
-This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
+このドキュメントは、私達のこれからの活動に役立つ便利なTips、Tricks、ブログ、Webアプリの為のページです。
+オープンソースの世界に入ったばかりの人や、もっと学びたいと思っている人に役立つ、有用なリンクのインデックスとして機能します。
+初心者上級者問わず、開発者すべてのニーズに応えてくれる偉大な参考資料です。
 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
 This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
