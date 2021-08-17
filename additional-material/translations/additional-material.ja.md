@@ -21,8 +21,8 @@
 > 手順に沿って、コミットを別ブランチに移動させます。
 
 ### [Removing a File](removing-a-file.md)
-This document provides information about how to remove a file from your local repository.
-> Follow these steps to learn how to remove a file prior to a commit
+このドキュメントでは、ローカルリポジトリからファイルを削除する方法について説明しています。
+> コミット前にファイルを削除する方法です。
 
 ### [Removing a branch from your repository](removing-branch-from-your-repository.md)
 This document provides information about how to delete a branch from your repository.
