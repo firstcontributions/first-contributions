@@ -38,8 +38,8 @@
 > あなたがリポジトリをリバートしたい場合に、この手順に沿ってください。
 
 ### [Squashing Commits](squashing-commits.md)
-This document provides information about how to squash commits with an interactive rebase.
-> Use this if you want to open a PR in an open source project and the reviewer asks you to squash every commit into one, with an informative commit message.
+このドキュメントでは、対話的な(interactive)リベース(rebase)を使って、果実をぎゅっと絞る(squash)ようにコミットをまとめる方法について説明します。
+> オープンソースプロジェクトでプルリクエスト(PR)を公開し、レビュアーからすべてのコミットを1つにまとめてコミットメッセージを表示するよう求められた場合に使用します。
 
 ### [Undo-ing a local commit](undoing-a-commit.md)
 This document provides information about how to undo a commit on your local repository. This is what you need to do when you feel you've messed up your local repository and wish to reset the local repository.
