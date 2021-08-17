@@ -175,6 +175,7 @@
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
 - Jimmy Lee Jones
+- Matt Z
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Benjamin Wolf](https://github.com/devBenWolf)
