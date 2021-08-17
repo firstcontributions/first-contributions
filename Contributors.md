@@ -2,6 +2,7 @@
 
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Harshal Bharatkar](https://github.com/harshal43)
+- [Rumas](https://github.com/Rumas97)
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
 - [Md Monayem Islam](https://monayemislam.github.io/)
 - [Ranjith jupaka](https://github.com/ranjithjupaka)
