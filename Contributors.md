@@ -55,6 +55,7 @@
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
+- [Kaunaj Banerjee](https://github.com/Kaunaj)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
