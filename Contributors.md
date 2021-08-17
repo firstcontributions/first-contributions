@@ -146,6 +146,7 @@
 - [SahityaRoy](https://github.com/SahityaRoy)
 - [abimaelB](https://github.com/abimael-o-o)
 - [samedsay](https://github.com/samedsay)
+- [Lily Silva](https://github.com/LiliRosa)
 - [julia](https://github.com/jusato)
   [Daniel Rojas](https://github.com/daroari)
 - [Trevor Tomlin](https://github.com/trevortomlin)
