@@ -11370,6 +11370,7 @@
 - [Vladyslav Kharchenko]
 - [Leandro Quiroga](https://github.com/Hydefs)
 - [Chintan Shah](https://github.com/chintanms)
+- [Amanjeet Kumar](https://github.com/TechnicalAmanjeet)
 - [Hanifa Arrumaisha](https://github.com/hanifaarrumaisha)
 - [Pedro Alecrim](https://github.com/pedroalecrim)
 - [Mauricio Sako](https://github.com/mauriciosako)
