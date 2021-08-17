@@ -51,4 +51,5 @@
 初心者上級者問わず、開発者すべてのニーズに応えてくれる偉大な参考資料です。
 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
-This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
+このドキュメントでは、.gitignoreファイルの役割、使用する理由、.gitignoreファイルの作成方法について説明します。このファイルは、ほとんどすべてのgitプロジェクトで使用されます。必要なファイルだけをgitにコミットするのに役立ちます。
+
