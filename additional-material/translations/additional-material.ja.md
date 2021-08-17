@@ -29,8 +29,8 @@
 > ブランチの削除は、プルリクエストがマージ(merge)されてからにしてください！
 
 ### [Resolving Merge Conflicts](resolving-merge-conflicts.md)
-This document provides information about how to resolve merge conflicts.
-> Take these steps to resolve the annoying merge conflicts.
+このドキュメントでは、マージコンフリクト(merge confrict)を解消する方法について説明しています。
+> 悩ましいコンフリクトを解消する方法です。
 
 ### [Reverting a commit](reverting-a-commit.md)
 This document provides information about how to revert a commit on the remote repository. It will come in handy in case you need to undo a commit that has already been pushed to Github.
