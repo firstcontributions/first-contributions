@@ -11,8 +11,10 @@
 > gitの設定をもっとよく制御したい場合に使用します。
 
 ### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
-This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
+このドキュメントは、フォーク(fork)したリポジトリを最新の状態に保つ方法を説明します。これはあなたや他の多くの人がプロジェクトに貢献するかもしれないので、重要です！
+(最新の状態に保たないと、あなたのリポジトリに新しい追加が反映されません。)
 > Follow these steps if your fork doesn't have any changes in parent repository.
+> あなたのフォークが親リポジトリに変更を加えていない場合は、リンク先の手順に従ってください。
 
 ### [Moving a Commit to a different Branch](moving-a-commit-to-a-different-branch.md)
 This document provides information about how to move a Commit to another Branch.
