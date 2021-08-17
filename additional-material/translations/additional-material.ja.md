@@ -33,8 +33,9 @@
 > 悩ましいコンフリクトを解消する方法です。
 
 ### [Reverting a commit](reverting-a-commit.md)
-This document provides information about how to revert a commit on the remote repository. It will come in handy in case you need to undo a commit that has already been pushed to Github.
-> Take these steps if you want to reverse a commit.
+このドキュメントはどうやってリモートリポジトリをもとに戻す(revert)かについて説明します。
+これはすでにGithubにプッシュされているコミットをもとに戻す必要がある場合に便利です。
+> あなたがリポジトリをリバートしたい場合に、この手順に沿ってください。
 
 ### [Squashing Commits](squashing-commits.md)
 This document provides information about how to squash commits with an interactive rebase.
