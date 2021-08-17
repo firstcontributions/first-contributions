@@ -864,6 +864,7 @@
 - [Conner Morton](https://github.com/SeeMorton1)
 - [ÖMER IŞILDAK](https://github.com/omerisildak)
 - [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
+- [Jessica Christensen](https://github.com/C-Jess)
 - [Sachin Hegde](https://github.com/sachinhegde328)
 - [Harshpreet Kaur](https://github.com/harshpreet0508)
 - [Ian Cossentino](https://github.com/cossentino)
