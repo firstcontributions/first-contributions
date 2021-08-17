@@ -12824,6 +12824,7 @@
 - [BraveOlivia](https://github.com/BraveOlivia)
 - [Prabal Pathak](https://github.com/prabal01pathak)
 - [TakahitoHimi](https://github.com/TakahiroHimi)
+- [JoharZaman](https://github.com/joharzmn)
 - [Jorge](https://github.com/jadromero)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
