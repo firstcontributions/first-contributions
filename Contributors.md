@@ -2367,8 +2367,8 @@
 - [Kapil Kungwani](https://github.com/kapilkungwani)
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
-- [Shapnesh Singh Tiwari](https://github.com/shapnesht) 
-- [Jacob Kiesel](https://github.com/jacobkiesel) 
+- [Shapnesh Singh Tiwari](https://github.com/shapnesht)
+- [Jacob Kiesel](https://github.com/jacobkiesel)
 - BlueHats workshop
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
@@ -6119,6 +6119,7 @@
 - [Flavien Macquignon](https://github.com/FlavienMacquignon)
 - [Paridhi Agarwal](https://github.com/paridhi7)
 - [Ryan Haver](https://github.com/rmh7596)
+- [Esslam Ben Ramadan](https://github.com/esslamben)
 - [Sahaj Khandelwal](https://github.com/sahven)
 - [Ivan Bula](https://github.com/ibula))
 - [David Pretty](https://github.com/DavidPretty)
@@ -13610,4 +13611,3 @@
 - [Munegu](https://github.com/Munegu)
 - [brdv](https://github.com/brdv)
 - [kc101010](https://github.com/kc101010)
-
