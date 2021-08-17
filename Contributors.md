@@ -58,7 +58,7 @@
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Prathamesh Mehare](https://github.com/mystic-one)
 - [Tanzeel Khan](https://github.com/tanzeyl)
-- [Kyin Edwards](https://github.com/KyinE1) 
+- [Kyin Edwards](https://github.com/KyinE1)
 -[Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
@@ -13574,7 +13574,7 @@
 - [Ryan Schwab](https://github.com/schwabfour)
 - [RedFox0x20](https://github.com/RedFox0x20)
 - [glide143](https://github.com/glide143)
-- Allan B/H 
+- Allan B/H
 - [fanlu](https://github.com/FanLu1994)
 - [cascades-sjtu](https://github.com/cascades-sjtu)
 - [aoligei](https://github.com/youcan2021)
@@ -13583,3 +13583,4 @@
 - [aviola](https://github.com/aviola/)
 - [Filip Ilić](https://github.com:MrKovalski)
 - [Munegu](https://github.com/Munegu)
+- [brdv](https://github.com/brdv)
