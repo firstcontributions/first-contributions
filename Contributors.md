@@ -8967,6 +8967,7 @@
 - [François Bibeau](https://github.com/fbibeau)
 - [Kevin Ruiz](https://github.com/Kevin-Lyle-Ruiz)
 - [Felipe Borges](https://github.com/felipejsborges)
+- [Tuncer Sahinci] (https://github.com/Denerod)
 - [Cameron](https://github.com/camerontaslim-gmail)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Iyossias Eshete](https://github.com/iyossias-eshete)
