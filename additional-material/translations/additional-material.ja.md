@@ -3,8 +3,8 @@
 ここに来る前に、基本的なチュートリアルをすでに完了していることを前提としています。このドキュメントでは、高度なGitテクニックに関する追加情報を提供します。
 
 ### [Amending a commit](amending-a-commit.md)
-This document provides information about how to amend a commit on the remote repository.
-> Use this when you need to adjust a commit you made.
+このドキュメントはリモートリポジトリのコミットを修正（ammend）する方法を提供します。
+> 自分の作成したコミットを調整する必要がある場合に使用します。
 
 ### [Configuring git](configuring-git.md)
 This document provides information about how to configure user details and other options in git.
