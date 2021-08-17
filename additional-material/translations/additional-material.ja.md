@@ -25,8 +25,8 @@
 > コミット前にファイルを削除する方法です。
 
 ### [Removing a branch from your repository](removing-branch-from-your-repository.md)
-This document provides information about how to delete a branch from your repository.
-> Only do these steps after your pull request get's merged.
+このドキュメントでは、あなたのリポジトリからブランチを削除する方法について説明しています。
+> ブランチの削除は、プルリクエストがマージ(merge)されてからにしてください！
 
 ### [Resolving Merge Conflicts](resolving-merge-conflicts.md)
 This document provides information about how to resolve merge conflicts.
