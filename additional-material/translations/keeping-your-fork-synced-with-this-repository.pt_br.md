@@ -2,7 +2,7 @@
 
 Primeiro, o fluxo para uma sincronização completa precisa ser entendido. Nesse cenário, temos 3 repositórios diferentes: o meu repositório público no Github `github.com/Roshanjossey/first-contributions/`, seu Fork no GitHub `github.com/Seu-Nome/first-contributions/` e o repositório local, no qual você deve trabalhar. Esse tipo de cooperação é típica de projetos de *open source* (código aberto) e é chamado de `Triangle Workflows`.
 
-<img style="float;" src="../../assets/triangle_workflow.pt_br.png" alt="triangle workflow" />
+<img style="float;" src="https://firstcontributions.github.io/assets/additional-material/triangle_workflow.png" alt="triangle workflow" />
 
 Para manter seus dois repositórios atualizados com meu repositório público, o primeiro passo é dar um Fetch (buscar) e então um Merge (mesclar) do repositório público ao seu repositório local.
 O segundo passo é fazer um Push do repositório local para o seu Fork no GitHub. Como vimos anteriormente, é somente a partir do seu Fork que você consegue fazer um Pull Request. Por isso, esse Fork é o último repositório a ser atualizado.

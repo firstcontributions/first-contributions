@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 
 #### *Ak sa ti nedarí s príkazovým riadkom, [tu sú návody s nástrojmi grafického rozhrania.]( #návody-pomocou-iných-nástrojov )*
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Ak nemáš na svojom počítači git, [nainštaluj ho]( https://help.github.com/articles/set-up-git/).
 
@@ -23,7 +23,7 @@ Tým sa vytvorí kópia tohto úložiska na tvojom účte.
 
 ## Stiahni toto úložisko
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Teraz stiahni toto úložisko do tvojho zariadenia. Prejdi do tvojho účtu GitHub, otvor skopírované úložisko, klikni na tlačidlo klonovania a potom klikni na ikonu * kopírovať do schránky *.
 
@@ -34,7 +34,7 @@ git clone "adresa, ktorú si práve skopíroval"
 ```
 kde "adresa ktorú si práve skopíroval" (bez úvodzoviek) je adresa URL tohto úložiska (tvoja kópia tohto projektu). Pozri si predchádzajúce kroky na získanie adresy URL.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Napríklad:
 ```
@@ -64,7 +64,7 @@ git checkout -b pridaj-ferko-mrkvicka
 
 Teraz otvor súbor `Contributors.md` v textovom editore a pridaj do neho svoje meno. Nepridávaj ho na začiatok alebo na koniec súboru. Daj ho kdekoľvek medzi tým. Teraz súbor ulož.
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Ak prejdeš do adresára projektu a vykonáš príkaz `git status`, uvidíš zmeny.
 
@@ -92,11 +92,11 @@ nahraď `<pridaj-meno-tvojej-novej-vetvy>` názvom vetvy, ktorú si vytvoril sk�
 
 Ak prejdeš do tvojho úložiska v službe GitHub, zobrazí sa tlačidlo `Compare & pull request`. Klikni na toto tlačidlo.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Teraz predlož požiadavku na vytiahnutie.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 
 Čoskoro budem zlučovat všetky vaše zmeny do hlavnej pobočky tohto projektu. Po zlúčení zmien dostaneš upozornenie.
