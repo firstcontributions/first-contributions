@@ -772,6 +772,8 @@
 - Achal Mukaty
 - [wastech](https://github.com/wastech)
 - [Amanda](https://github.com/amanda-goncalvess)
+- [Darlene] (https://github.com/D010resHaze)
+- [Rambhajan](https://github.com/rambhajansonti)
 - [Darlene](https://github.com/D010resHaze)
 - [Miho](https://github.com/pluto0004)
 - [Neeber](https://github.com/Neeber)
