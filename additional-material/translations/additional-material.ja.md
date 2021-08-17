@@ -7,8 +7,8 @@
 > 自分の作成したコミットを調整する必要がある場合に使用します。
 
 ### [Configuring git](configuring-git.md)
-This document provides information about how to configure user details and other options in git.
-> Use this to better control your git configurations.
+このドキュメントでは、gitにおけるユーザーの詳細設定(configure)やその他のオプションの設定方法について説明します。
+> gitの設定をもっとよく制御したい場合に使用します。
 
 ### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
 This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
