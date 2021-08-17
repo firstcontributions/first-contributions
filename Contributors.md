@@ -2170,6 +2170,7 @@
 - [Muhammad Ashraf Bin Idros](https://github.com/Asyhier)
 - [franklin uche](https://github.com/frankgreen1)
 - [Mario De Los Santos](https://github.com/TelescopeThieves)
+- [Akash R](https://github.com/akashram14)
 - [April](https://github.com/TricksterCodess)
 - [Goobaii](https://github.com/Goobaii)
 - [KeBug](https://github.com/kebug)
