@@ -48,6 +48,7 @@
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
 - [Jianan Wang](https://github.com/edwang09)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
+- [Pranav Tanpure](https://github.com/pranav280300)
 - [ChihYangHsu](https://github.com/chihyanghsu0805)
 - [Abdulbasit Gamoranao](https://github.com/kuyabasit)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
