@@ -17,8 +17,8 @@
 > あなたのフォークが親リポジトリに変更を加えていない場合は、リンク先の手順に従ってください。
 
 ### [Moving a Commit to a different Branch](moving-a-commit-to-a-different-branch.md)
-This document provides information about how to move a Commit to another Branch.
-> Take these steps to move a commit to another branch.
+このドキュメントでは、コミットを別のブランチに移動させる方法について説明しています。
+> 手順に沿って、コミットを別ブランチに移動させます。
 
 ### [Removing a File](removing-a-file.md)
 This document provides information about how to remove a file from your local repository.
