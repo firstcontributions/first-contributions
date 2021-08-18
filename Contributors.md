@@ -17,6 +17,7 @@
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Gracie Nguyen](https://github.com/cutiepurr)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
+- [Walter Galdamez](https://github.com/waltergaldamez)
 - [Prateek Singh] (https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
