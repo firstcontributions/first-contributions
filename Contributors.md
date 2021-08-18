@@ -10329,6 +10329,7 @@
 - [Pratik Sasmal](https://github.com/pratiksasmal)
 - PassionCracker
 - [Robert Flaherty](https://github.com/roberteflaherty)
+- [Vivek Kumar Singh](https://github.com/dynamo2k19)
 - [Dylan Ramos](https://github.com/dylanramos98)
 - [northerreese](https://github.com/northerreese)
 - [Shreya Vanga](https://github.com/shreyathevampire)
