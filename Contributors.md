@@ -1,4 +1,5 @@
 # Contributors
+
 - [Albino Cianciotti](https://github.com/albino98)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Harshal Bharatkar](https://github.com/harshal43)
@@ -2378,8 +2379,8 @@
 - [Kapil Kungwani](https://github.com/kapilkungwani)
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
-- [Shapnesh Singh Tiwari](https://github.com/shapnesht) 
-- [Jacob Kiesel](https://github.com/jacobkiesel) 
+- [Shapnesh Singh Tiwari](https://github.com/shapnesht)
+- [Jacob Kiesel](https://github.com/jacobkiesel)
 - BlueHats workshop
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
@@ -2741,7 +2742,7 @@
 - [Mitchel Nelson](https://github.com/mitchelnelson)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
 - [Finn Trefzer](https://github.com/F1nn-T)
-- [Ritesh Chaudhari](https://github.com/Rits333) 
+- [Ritesh Chaudhari](https://github.com/Rits333)
 - [Morgan Jones](https://github.com/morgsj)
 - [Nick Hollins](https://github.com/TheDevNick)
 - [Mehtab Khan](https://github.com/kmehtab)
@@ -13257,7 +13258,7 @@
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal](https://github.com/hafidzal)
 - [pranavdubey303]
--    [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
+- [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
 - [queendeveloper](https://github.com/queendeveloperbr)
 - [uthadehikaru](https://github.com/uthadehikaru)
 - [Tr0612](https://github.com/Tr0612)
@@ -13623,6 +13624,6 @@
 - [aviola](https://github.com/aviola/)
 - [Filip Ilić](https://github.com:MrKovalski)
 - [Munegu](https://github.com/Munegu)
+- [moghaazi](https://github.com/moghaazi)
 - [brdv](https://github.com/brdv)
 - [kc101010](https://github.com/kc101010)
-
