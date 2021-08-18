@@ -33,6 +33,7 @@
 - [SomStar](https://github.com/Somnath-swami)
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
+- [Zaheda Jafari](https://github.com/zackdaspy/)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [J Delaney] (https://github.com/Juniper11)
 - [myo thant kyaw] (https://github.com/myothant88)
