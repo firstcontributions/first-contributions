@@ -20,7 +20,7 @@
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
-- [Freda Xiaoyun Yu](https://https://github.com/FredaXYu)
+- [Freda Xiaoyun Yu](https://github.com/FredaXYu)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
