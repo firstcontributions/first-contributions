@@ -12554,6 +12554,7 @@
 - [Cedric Miraflor](https://github.com/CMMiraflor)
 - [Frederic Wojcikowski](https://github.com/oFrederic)
 - Namit Shah
+- Steve B
 - [Ethan Marreel](https://github.com/stropical)
 - [ThankGod Kalu](https://github.com/TG-Codes)
 - [Sterling Kauahi](https://github.com/slingky814)
