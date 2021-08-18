@@ -25,6 +25,7 @@
 - [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
+- [Om Parshar](https://github.com/orashar)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
 - [SomStar](https://github.com/Somnath-swami)
