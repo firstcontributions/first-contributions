@@ -15,6 +15,7 @@
 - [Divonil Liquid](https://github.com/DivonilLiquid)
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
+- [Gracie Nguyen](https://github.com/cutiepurr)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Prateek Singh] (https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
