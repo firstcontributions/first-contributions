@@ -11,6 +11,7 @@
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
+- [Divonil Liquid](https://github.com/DivonilLiquid)
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
