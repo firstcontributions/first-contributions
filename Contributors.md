@@ -185,6 +185,7 @@
 - [Leandro Arruda](https://github.com/llarruda)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
+- [Jessica Angel](https://github.com/jessica-angel7)
 - Jimmy Lee Jones
 - Matt Z
 - [Dalila Baba ameur](https://github.com/DalilaBA)
