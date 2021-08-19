@@ -52,6 +52,7 @@
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Amit-1001] (https://github.com/Amit-1001/)
 - [Andy-Ngo] (https://github.com/robertlewan/)
+- [Andrei Sava] (https://github.com/andreisavawebdev)
 - [Gemma Draper](https://github.com/gemma-draper/)
 - [sololabs](https://github.com/sololabs)
 - [Cory Schmidt](https://github.com/schmcory)
