@@ -47,6 +47,7 @@
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
 - [Sai Krishnan](https://github.com/SaiKrishnan101)
+- [Quado1](https://github.com/Quado1)
 - [Benjamin Siau](https://github.com/bensiauu)
 - [sereno](https://github.com/sereno1987)
 - [Rahul](https://github.com/Rahul-go1503/)
