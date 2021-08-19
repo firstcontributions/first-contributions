@@ -193,6 +193,7 @@
 - Jimmy Lee Jones
 - Matt Z
 - [Dalila Baba ameur](https://github.com/DalilaBA)
+- [Ishan Gupta](https://github.com/ishan-gupt)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
