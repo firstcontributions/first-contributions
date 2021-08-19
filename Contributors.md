@@ -6,7 +6,6 @@
 - [Rumas](https://github.com/Rumas97)
 - [jfjini11](https://github.com/jjini11)
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
-- [Vipul Tyagi](https://github.com/vipul386)
 - [Deepak kumar T](https://github.com/DeepakTMD)
 - [Md Monayem Islam](https://monayemislam.github.io/)
 - [Ranjith jupaka](https://github.com/ranjithjupaka)
@@ -13637,3 +13636,4 @@
 - [Munegu](https://github.com/Munegu)
 - [brdv](https://github.com/brdv)
 - [kc101010](https://github.com/kc101010)
+- [Vipul Tyagi](https://github.com/vipul386)
