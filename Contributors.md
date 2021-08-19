@@ -2389,8 +2389,8 @@
 - [Kapil Kungwani](https://github.com/kapilkungwani)
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
-- [Shapnesh Singh Tiwari](https://github.com/shapnesht) 
-- [Jacob Kiesel](https://github.com/jacobkiesel) 
+- [Shapnesh Singh Tiwari](https://github.com/shapnesht)
+- [Jacob Kiesel](https://github.com/jacobkiesel)
 - BlueHats workshop
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
@@ -2752,7 +2752,7 @@
 - [Mitchel Nelson](https://github.com/mitchelnelson)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
 - [Finn Trefzer](https://github.com/F1nn-T)
-- [Ritesh Chaudhari](https://github.com/Rits333) 
+- [Ritesh Chaudhari](https://github.com/Rits333)
 - [Morgan Jones](https://github.com/morgsj)
 - [Nick Hollins](https://github.com/TheDevNick)
 - [Mehtab Khan](https://github.com/kmehtab)
@@ -5083,6 +5083,7 @@
 - [Amkit Podder](https://github.com/ANKITPODDER0211)
 - [Vyomaan Dave](https://github.com/VyomaanDave0711)
 - [Abhishek Kumar Tiwari](https://github.com/abhishake5)
+- [Ayush Dhiman](https://github.com/ayushdhiman101)
 - [Ayushi Jain](https://github.com/aj-spec)
 - [Ketan Patel](https://github.com/kpatel2000)
 - [Shahana Khan](https://github.com/TechieOwl)
@@ -13640,4 +13641,3 @@
 - [Munegu](https://github.com/Munegu)
 - [brdv](https://github.com/brdv)
 - [kc101010](https://github.com/kc101010)
-
