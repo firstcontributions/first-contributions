@@ -1334,6 +1334,7 @@
 - [Mert Uygur](https://github.com/mert18)
 - [Molly Scott](https://github.com/mcbeepyface)
 - [Dima Zimin](https://github.com/DimaZimin)
+- [Christopher Vestman](https://github.com/druwan)
 - [Gurudeta Singh](https://github.com/GurudetaSingh)
 - [Gabriel Somerville](https://github.com/DarthGaber)
 - [Arun Kothari] (https://github.com/arunkothari84)
