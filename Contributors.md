@@ -9334,6 +9334,7 @@
 - [kjain22](https://github.com/kapil-jain123)
 - [José Fernando Cordova](https://github.com/jfernancordova)
 - [Samuel Fuller](https://github.com/samuelfuller01)
+- [NordicFerrum](https://github.com/nordicferrum)
 - [Ian Sherwood](https://github.com/eyesurewould)
 - [Seungil Ahn](https://github.com/dkstm95)
 - [William Guimarães](https://github.com/WillGuima)
