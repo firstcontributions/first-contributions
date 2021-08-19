@@ -12,6 +12,7 @@
 - [CodingSoda](https://github.com/CodingSoda)
 - [Ken Lin](https://github.com/kenlin2411)
 - [Aryan Shinde](https://github.com/AryanShinde)
+- [Nisarg Kudgunti](https://github.com/Nisarg6502)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
