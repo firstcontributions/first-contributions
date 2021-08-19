@@ -2520,10 +2520,14 @@
 - [Tirta Adi G](https://github.com/tirtavium)
 - [Michael Chu](https://github.com/mcchu12)
 - Daniel Danaee
+<<<<<<< Updated upstream
 - Trevor Johnson
 - [Davy Berra](https://github.com/davyberra)
 - Hannah Trenary
 - [Aditya Kumar](https://github.com/ak-51)
+=======
+- [Sarah Smeltzer] (https://github.com/ssmeltzer)
+>>>>>>> Stashed changes
 - Roohi Sharma
 - [Prashant Kumar](https://github.com/prashant7139)
 - [Ezylryb77](https://github.com/Ezylryb77)
