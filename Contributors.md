@@ -311,7 +311,6 @@ Saloni Goyal
 - [Visaj Kapadia](https://github.com/visajkapadia)
 - [Jorge Gabitto](https://github.com/jgabitto)
 - [Yvon Manzi](https://github.com/yvonmanzi)
-
 - [Monish Khambhati](https://github.com/moni2096)
 - [Justin Do](https://github.com/justinkhado)
 - [DCSnial](https://github.com/wangyanchang21)
@@ -1185,3 +1184,4 @@ Avani Shah-Trial
 - [Abhishek Mohanta](https://github.com/FxGs)
 - [madpeh](https://github.com/madpeh)
 - [Ambati Vasanth](https://github.com/Vasanth289)
+- [whitesssss](https://github.com/whitesssss)
