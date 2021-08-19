@@ -1,6 +1,7 @@
 # Contributors
 - [Albino Cianciotti](https://github.com/albino98)
 - [Gareth Dawson](https://github.com/gwdawson)
+- [Rishaw Singh] (https://github.com/rishawsingh)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
