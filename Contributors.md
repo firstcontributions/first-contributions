@@ -27,6 +27,7 @@
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Freda Xiaoyun Yu](https://https://github.com/FredaXYu)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
+- [Lucas Fontes](https://github.com/lvbfontes)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Grace K](https://github.com/kelleygrace88)
