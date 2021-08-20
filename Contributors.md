@@ -933,6 +933,7 @@
 - [Denton Sun](https://github.com/Dentsun)
 - Aadiya Agrawal
 - Roger Liu
+- [Stephanie Okolie](https://github.com/Chinemereem)
 - [Yash Rana](https://github.com/yash-rana23)
 - [Shubham Malpani](https://github.com/SHUBH778)
 - [Laura Pasqualone](https://github.com/lpasqualone)
