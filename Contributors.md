@@ -24,6 +24,7 @@
 - [Walter Galdamez](https://github.com/waltergaldamez)
 - [Prateek Singh] (https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
+- [Alexander Nguyen](https://github.com/GalexyN)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [Freda Xiaoyun Yu](https://https://github.com/FredaXYu)
