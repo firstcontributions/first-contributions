@@ -112,6 +112,7 @@
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Pedro Cisternas](https://github.com/pedrocisternas)
 - [Abdulla09](https://github.com/Abdulla09)
+- [Karthik2k1](https://github.com/KarthikRaja2k1)
 - [Debasmita Samadder](https://github.com/tech-deb)
 - [Andy Chep](https://github.com/AndreyChepik)
 - [Ryan Smith](https://github.com/RLSmith96118)
