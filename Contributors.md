@@ -1,4 +1,5 @@
 # Contributors
+
 - [Albino Cianciotti](https://github.com/albino98)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
@@ -2400,8 +2401,8 @@
 - [Kapil Kungwani](https://github.com/kapilkungwani)
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
-- [Shapnesh Singh Tiwari](https://github.com/shapnesht) 
-- [Jacob Kiesel](https://github.com/jacobkiesel) 
+- [Shapnesh Singh Tiwari](https://github.com/shapnesht)
+- [Jacob Kiesel](https://github.com/jacobkiesel)
 - BlueHats workshop
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
@@ -2763,7 +2764,7 @@
 - [Mitchel Nelson](https://github.com/mitchelnelson)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
 - [Finn Trefzer](https://github.com/F1nn-T)
-- [Ritesh Chaudhari](https://github.com/Rits333) 
+- [Ritesh Chaudhari](https://github.com/Rits333)
 - [Morgan Jones](https://github.com/morgsj)
 - [Nick Hollins](https://github.com/TheDevNick)
 - [Mehtab Khan](https://github.com/kmehtab)
@@ -5561,6 +5562,7 @@
 - [Kushagra Gupta](https://github.com/KG-1510)
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Ansh Mishra](https://github.com/theanshm)
+- [Kevin Corpuz](https://github.com/macknive)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
@@ -13287,7 +13289,7 @@
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal](https://github.com/hafidzal)
 - [pranavdubey303]
--    [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
+- [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
 - [queendeveloper](https://github.com/queendeveloperbr)
 - [uthadehikaru](https://github.com/uthadehikaru)
 - [Tr0612](https://github.com/Tr0612)
@@ -13657,4 +13659,3 @@
 - [kc101010](https://github.com/kc101010)
 - [rmurali](https://github.com/rmurali/)
 - [thechip911](https://github.com/thechip911)
-
