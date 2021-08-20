@@ -108,6 +108,7 @@
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Nae Sebastian](https://github.com/SheepSeb)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
+- [Pedro Cisternas](https://github.com/pedrocisternas)
 - [Abdulla09](https://github.com/Abdulla09)
 - [Debasmita Samadder](https://github.com/tech-deb)
 - [Andy Chep](https://github.com/AndreyChepik)
