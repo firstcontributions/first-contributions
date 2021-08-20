@@ -1334,6 +1334,7 @@
 - [Grenadi](https://github.com/grenadi)
 - [Qasim Abdullah](https://github.com/qasimabdullah404)
 - [Badal Jha](https://github.com/Badal-Jha)
+- [Gaurav Amatya](https://github.com/gmamatya)
 - [Suraj Fale](https://github.com/surajfale)
 - [Mert Uygur](https://github.com/mert18)
 - [Molly Scott](https://github.com/mcbeepyface)
