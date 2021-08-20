@@ -826,6 +826,7 @@
 - [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
 - [Alex Gulikers](https://github.com/yayorbitgum)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
+- [MyintThwayKhine](https://github.com/r1d3rzz)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
 - [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
