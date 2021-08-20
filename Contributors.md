@@ -1042,6 +1042,7 @@
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [Nandan](https://github.com/nandan-shah)
 - [Jamshid Numanjanov](https://github.com/Yusupov-droid)
+- [Morenike Oyenike](https://github.com/mo-renike)
 - [Sachin Kumar](https://github.com/sachin212)
 - [Shivam Dubey](https://github.com/WebShivam)
 - [Victor Manzanilla](https://github.com/VictorManzanilla)
