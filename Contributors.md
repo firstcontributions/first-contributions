@@ -3390,6 +3390,7 @@
 - [Aedan Lombardo](https://github.com/aedanlombardo)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
 - [Diego Romário](https://github.com/diegoromario)
+- [Soumil Roy](https://github.com/soumilroy)
 - emmami
 - [Tyler Allen](https://github.com/tylerjallen02)
 - [Sami Almouzani](https://github.com/SamiAlmouzani)
