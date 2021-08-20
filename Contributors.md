@@ -179,6 +179,7 @@
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [Chetana]
 - [Kiriti](https://github.com/GVS-Kiriti)
+- [Khalil](https://github.com/khalil1233)
 - [Abhishek Srivastava] (https://github.com/abhisheksrivastava177)
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Michael French](https://github.com/frenchytheasian)
