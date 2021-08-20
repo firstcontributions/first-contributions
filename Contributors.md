@@ -5378,6 +5378,7 @@
 - [Danny Reina](https://github.com/dannyflatiron)
 - [Ankita Singhal](https://github.com/sankita11)
 - KamalSagar
+- [Ayush Kumar]
 - [Elizabeth Wiggins]
 - [Chamodi Thennakoon](https://github.com/chamodit)
 - [Tommy Deliso](https://github.com/tdeliso)
