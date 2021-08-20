@@ -7653,6 +7653,7 @@
 - Rohit Patil
 - [Kenneth Lamb](https://github.com/slurrps-mcgee)
 - [Yasharth Tripathi](https://github.com/yasharthratan)
+- [Werner Brocker](https://github.com/wbrocker)
 - [Joe Jolley](https://github.com/jolleyjoe)
 - [Abhay Kumar Verma](https://github.com/darkRaspberry)
 - [Jane Muthoni](https://github.com/muchirijane)
