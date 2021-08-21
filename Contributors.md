@@ -1717,6 +1717,7 @@
 - [Stephanie Opala](https://github.com/stephanieopala)
 - [Marouane Mouloue](https://github.com/marouanemouloue)
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
+- [Hardik Koul](https://github.com/hardikkoul) 
 - [Richard Valvona](https://github.com/RichardValvonaUK)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Don Wang](https://github.com/don-wang)
