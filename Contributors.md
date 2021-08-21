@@ -249,6 +249,7 @@
 - [Marco De Anda](https://github.com/marcodeanda)
 - [Türkay Tunç](https://github.com/turkaytunc)
 - [Supriya](https://github.com/supriyamaram02)
+- [David Su](https://github.com/ds93math)
 - [Christine Kingsley](https://github.com/Aubear99)
 - [William Nicholson](https://github.com/Passenger89)
 - [Alberto Ortiz] (https://github.com/albertortizcape)
