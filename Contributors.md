@@ -1590,6 +1590,7 @@
 - [Eztao](https://github.com/eztao)
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [Cristian Urbina](https://github.com/cristianUrbina)
+- [Ashutosh Dodamani](https://github.com/ashutosh6120)
 - [Ali Brown](https://github.com/alekjbrown)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Kipland Melton](https://github.com/kipland-m)
