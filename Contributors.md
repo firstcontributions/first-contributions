@@ -152,6 +152,7 @@
 - [Kai778](https://github.com/Kai7788)
   Joshua Do
   Akanksha Singh
+- [Itzhak Maymon] (https://github.com/tzahy92)
   [Eniola Fagbeyiro](https://github.com/eniola-f)
   Anishka (https://github.com/anishka01)
 - [Mayur S Chittaragi](https://github.com/MayurSChittaragi)
