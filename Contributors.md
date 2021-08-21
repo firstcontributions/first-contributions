@@ -192,6 +192,7 @@
 - [Chetana]
 - [Kiriti](https://github.com/GVS-Kiriti)
 - [Khalil](https://github.com/khalil1233)
+- [Alain Sagna](https://github.com/alphilippo)
 - [Abhishek Srivastava] (https://github.com/abhisheksrivastava177)
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Michael French](https://github.com/frenchytheasian)
