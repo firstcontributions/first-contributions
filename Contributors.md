@@ -181,7 +181,7 @@
 - [Chetana]
 - [Kiriti](https://github.com/GVS-Kiriti)
 - [Abhishek Srivastava](https://github.com/abhisheksrivastava177)
-- [Sayantan Chakraborty](https://github.com/Chakrabortysayantan699)
+- [Sayantan Chakrabarty](https://github.com/Chakrabortysayantan699)
 - [AaryanPal](https://github.com/Aaryanpal)
 - [Michael French](https://github.com/frenchytheasian)
 - [Enes Alper Balta](https://github.com/eabalta)
