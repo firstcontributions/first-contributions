@@ -1,4 +1,3 @@
-
 # Contributors
 - [Albino Cianciotti](https://github.com/albino98)
 - [Gareth Dawson](https://github.com/gwdawson)
