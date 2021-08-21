@@ -2598,6 +2598,7 @@
 - [Abhijith B lal](https://github.com/abhijith48)
 - [Mike Liang](https://github.com/yak-fumblepack)
 - [Muhammad Urwatil Wutsqo](https://github.com/wutsqo)
+- [Nachiket Narendra Naik](https://github.com/Nachiket-N/)
 - [Justin Wright](https://github.com/JustinRWright)
 - [Graham Albachten](https://github.com/albachteng)
 - [Ashutosh Bisht](https://github.com/ashutosh0305)
