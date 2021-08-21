@@ -17,6 +17,7 @@
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
+- [sachin mittal](https://github.com/SachinMittal1766)
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Gracie Nguyen](https://github.com/cutiepurr)
