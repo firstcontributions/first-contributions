@@ -19,6 +19,7 @@
 - [Jordi Marimon](https://github.com/jordimarimon)
 - [Ken Lin](https://github.com/kenlin2411)
 - [Aryan Shinde](https://github.com/AryanShinde)
+- [Jesse Tingle](https://github.com/Jesse-Tingle)
 - [Harsh Soni](https://github.com/hashfx)
 - [Nisarg Kudgunti](https://github.com/Nisarg6502)
 - [Tuhin Das](https://github.com/tuhindas30)
