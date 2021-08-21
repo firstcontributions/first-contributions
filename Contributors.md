@@ -2,6 +2,7 @@
 - [Albino Cianciotti](https://github.com/albino98)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Om Mishra](https://github.com/oreo2107)
+- [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
