@@ -32,6 +32,7 @@
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Manoj](https://github.com/manojxk)
 - [Walter Galdamez](https://github.com/waltergaldamez)
+- [NeuroTypicalCure](https://github.com/NeuroTypicalCure)
 - [Saeed Esmaeelinejad](https://github.com/SaeedEsmaeelinejad)
 - [Prateek Singh] (https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
