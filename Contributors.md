@@ -10000,6 +10000,7 @@
 - [Wladyslaw](https://github.com/Graidaris)
 - [Zoheb Rahiman](https://github.com/rahiman-zoheb)
 - [Andrew Bellucci](https://github.com/imbellucci)
+- [Nandan Ramesh](https://github.com/Nandan-18)
 - [Ojasvi Khanna](https://github.com/okay16)
 - [Tomas](https://github.com/Tomheza)
 - [Shailesh Shah](https://github.com/shaileshs)
