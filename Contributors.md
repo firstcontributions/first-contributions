@@ -11504,6 +11504,7 @@
 - [PJYN DZGN](https://github.com/pjyn-dzgn)
 - [Rajalakshmi]
 - [Tarcísio Batista de Freitas Junior](https://github.com/tbfreitas)
+- [Float07](https://github.com/Float07)
 - [Théo Migeat](https://github.com/STM3900)
 - [Sanket Bhatt](https://github.com/sanket-bhatt)
 - [Ananta Pratama](https://github.com/eincode)
