@@ -47,6 +47,7 @@
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Zaheda Jafari](https://github.com/zackdaspy/)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney] (https://github.com/Juniper11)
 - [myo thant kyaw] (https://github.com/myothant88)
 - [Urvi Mitra] (https://github.com/urvimitra)
