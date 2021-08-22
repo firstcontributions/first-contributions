@@ -8217,6 +8217,7 @@
 - [Aashita Agarwal]
 - [Alejandro DL]()
 - [Nahid Faraji](https://github.com/Nahid570)
+- [Rashmi Thakur](https://github.com/rashmi-thakurr)
 - [Nitin Sohal](https://github.com/NitinSohal)
 - [Ankan Maity](https://github.com/maityankan10)
 - [Robin Sharma](https://github.com/RS-786)
