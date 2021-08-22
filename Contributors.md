@@ -1140,6 +1140,7 @@
 - [Santiago Rhenals](https://github.com/srLitem)
 - [Rahul V ](rahulv07)
 - [Erik Grivalsky](https://www.erikgrivalsky.com)
+- [erik vega](https://www.github.com/erikvega)
 - [lyine](https://github.com/lyineee)
 - [Jalaj Sahai](https://github.com/jalaj900)
 - [Ryan Thomsen](https://github.com/ryanthomsen)
