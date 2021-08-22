@@ -6506,6 +6506,7 @@
 - [Alison Li](https://github.com/Alison-Li)
 - [Loren DiLoreto](https://github.com/lorendiloreto)
 - [Levit Kanner](https://github.com/levitkanner)
+- [Andre Gonzales](https://github.com/gibstock)
 - [Vinicius Melo](https://github.com/vmeelo)
 - [Prajjwal Mishra](https://github.com/prajjwalm)
 - [Uka Emmanuel](https://github.com/Mista-Rite)
