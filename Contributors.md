@@ -13670,6 +13670,7 @@
 - [RedFox0x20](https://github.com/RedFox0x20)
 - [glide143](https://github.com/glide143)
 - Allan B/H
+- [Rodrigo Ratto](https://github.com/CodingBucko)
 - [fanlu](https://github.com/FanLu1994)
 - [cascades-sjtu](https://github.com/cascades-sjtu)
 - [aoligei](https://github.com/youcan2021)
