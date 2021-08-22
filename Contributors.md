@@ -1723,6 +1723,7 @@
 - [Chloe Lin](https://github.com/Awesomecat713)
   [Bhupendra Nagda](https://github.com/Bhupendranagda)
 - [Petru Roland](https://github.com/NotRoland)
+- [Gabriel Godwin](https://github.com/gabrielgog)
 - [Segev Shoval](https://github.com/segevitsky)
 - [Novice Programmer](https://github.com/sharad95-://github.com/sharad95-k)
 - [Bradley Fusting](https://github.com/bfusting)
