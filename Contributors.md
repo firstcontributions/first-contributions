@@ -1,5 +1,6 @@
 # Contributors
 - [Albino Cianciotti](https://github.com/albino98)
+- [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Om Mishra](https://github.com/oreo2107)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
