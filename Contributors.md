@@ -143,6 +143,7 @@
 - [Artur Wrona] (https://github.com/donarturo11)
 - [YZ](https://github.com/Yarzarmyomin97)
   aeglena
+- [Vishant Chaudhary(https://github.com/Vishant1103)
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Cheyenne Smith](https://github.com/cbsmith5)
 - [Deepak Goyal](https://github.com/goyaldpk)
