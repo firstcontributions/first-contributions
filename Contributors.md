@@ -13666,6 +13666,7 @@
 - [Ana Carolina Gomes](https://github.com/lingsv)
 - [haziboro](https://github.com/haziboro)
 - [Jeff Browning](https://github.com/browningjeff1)
+- [gnicoloud](https://github.com/gnicoloud/)
 - [Raha Moosavi](https://github.com/acse-srm3018)
 - [Kunal Jha](https://github.com/kunljha)
 - [xnmll](https://github.com/xnmll)
