@@ -27,6 +27,7 @@
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Jesse Tingle](https://github.com/Jesse-Tingle)
 - [Harsh Soni](https://github.com/hashfx)
+- [Diveshan](https://github.com/Dive1995)
 - [Nisarg Kudgunti](https://github.com/Nisarg6502)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
