@@ -11635,6 +11635,7 @@
 - [orkiman](https://github.com/orkiman)
 - [Rojina Deuja](https://github.com/rojinadeuja)
 - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
+- [Electron](https://github.com/Electron1997)
 - [Sadie Lehenbauer](https://github.com/sadielehnbauer)
 - [Meenakshi Panda](https://github.com/kppmp)
 - [Sriharsha Dodda](https://github.com/sriharsha-dodda)
