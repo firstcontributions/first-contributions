@@ -596,7 +596,8 @@
 - [ThomasRainford](https://github.com/ThomasRainford)
 - Sebastian Fina
 - Daqiu Ye
-- [George Rahul](https://github.com/georgerahul24)
+- [Dimitri ZERJAL]
+ [George Rahul](https://github.com/georgerahul24)
 - [Stephan Allen](https://github.com/sallen2)
 - [Zaw Ye Htet Naing] (https://github.com/zawye-imu)
 - [vishwa](https://github.com/vishwan454)
