@@ -13697,6 +13697,7 @@
 - Allan B/H
 - [Rodrigo Ratto](https://github.com/CodingBucko)
 - [fanlu](https://github.com/FanLu1994)
+- [Michael Adebambo](https://github.com/Blazing-Mike)
 - [cascades-sjtu](https://github.com/cascades-sjtu)
 - [aoligei](https://github.com/youcan2021)
 - Giulio Chiass
