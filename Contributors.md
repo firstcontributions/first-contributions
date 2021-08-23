@@ -119,6 +119,7 @@
 - [Fahad Alharbi](https://github.com/Fahadeidalharbi)
 - [Onigiri](https://github.com/onigiri070)
 - [Archit Jain](https://github.com/architjen)
+- [HCT](https://github.com/HanChoThar)
 - [Ajay yadav](https://github.com/AjayYadavAi)
 - [Thanos Dimitriades](https://github.com/thanosades)
 - [ASHUTOSH KUMAR CHOUDHARY]}:)))(https://github.com/Ash-KODES)
