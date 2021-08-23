@@ -15,6 +15,7 @@
 - [Ranjith jupaka](https://github.com/ranjithjupaka)
 - [Vaibhav Varshney](https://github.com/vaib1343)
 - [BHKR](https://github.com/BHKR)
+- [Vidhi Sinha](https://github.com/vidhisinha2002)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Gauravkhetwal](https://github.com/Gauravkhetwal)
