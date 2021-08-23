@@ -3245,6 +3245,7 @@
 - [Bingyang Hu](https://github.com/hby93222)
 - [Randi Schreiner](https://github.com/mimirandi21)
 - [Becky Richardson](https://github.com/beckyrich)
+- [bqwerr](https://github.com/bqwerr)
 - [Connie Guan](https://github.com/concon55)
 - [Devan Eatch](https://github.com/synthsandstuff)
 - [Cole Potter](https://github.com/PokkeFe)
