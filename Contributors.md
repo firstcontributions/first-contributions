@@ -166,6 +166,7 @@
 - [Mathewkutty Mathew](https://github.com/Mathewkutty)
 - [Deepak] (https://github.com/dyadav-cse)
 - [Kai778](https://github.com/Kai7788)
+- [Smith Ringtho] (https://github.com/ringtho)
   Joshua Do
   Akanksha Singh
 - [Itzhak Maymon] (https://github.com/tzahy92)
