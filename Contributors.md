@@ -68,6 +68,7 @@
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Zaheda Jafari](https://github.com/zackdaspy/)
+- [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney] (https://github.com/Juniper11)
