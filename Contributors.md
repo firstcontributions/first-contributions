@@ -102,6 +102,7 @@
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Pranav Tanpure](https://github.com/pranav280300)
 - [ChihYangHsu](https://github.com/chihyanghsu0805)
+- [Sameer](https://github.com/hey-sameer)
 - [Abdulbasit Gamoranao](https://github.com/kuyabasit)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
 - [Crystal Faqiri](https://github.com/cfaqiri)
