@@ -246,6 +246,7 @@
 - [Ishan Gupta](https://github.com/ishan-gupt)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Benjamin Wolf](https://github.com/devBenWolf)
+- Manas Chinta
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Vinod Biradar](https://github.com/vinod014)
 - [Niti Shah](https://github.com/Niti-Shah)
