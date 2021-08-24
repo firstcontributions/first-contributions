@@ -7076,6 +7076,7 @@
 - [Amikk Homr](https://github.com/mrazek)
 - [Kaushik Chatterjee](https://github.com/kchatr)
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
+- [Timothy Chan](https://github.com/timothy-chan2)
 - [Sandesh Chapagain](https://github.com/schapagain)
 - [Samuel Kapansa](https://github.com/kapansa)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
