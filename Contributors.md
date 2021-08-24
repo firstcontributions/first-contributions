@@ -67,6 +67,7 @@
 - [Om Parshar](https://github.com/orashar)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Manny Alfaro](https://github.com/Mannyalfa)
+- [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
 - [SomStar](https://github.com/Somnath-swami)
 - [Shwet Yadav](https://github.com/Shwet-yadav)
