@@ -8781,6 +8781,7 @@
 - [Ankit Arya](https://github.com/Ankit714)
 - [Pranesh](https://github.com/klostur)
 - [Ahmad Sami](https://github.com/Asami1997)
+- [Quaid Bartolomei](https://github.com/QuaidBartolomei)
 - [Akshay Gadag](https://github.com/Akshay-Gadag)
 - [Mako Kusuda](https://github.com/makokusuda)
 - [Yash Budukh](https://github.com/budukhyash)
