@@ -3,6 +3,7 @@
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Om Mishra](https://github.com/oreo2107)
+- [Saharsh Laud](github.com/SaharshLaud)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Olivia Russell](https://github.com/osrussell)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
