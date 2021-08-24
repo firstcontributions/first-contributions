@@ -1,5 +1,6 @@
 # Contributors
 - [Albino Cianciotti](https://github.com/albino98)
+- [Ankur Patil](https://github.com/ankur12-1610)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
