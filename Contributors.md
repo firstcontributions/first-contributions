@@ -28,6 +28,7 @@
 - [Ahmad Yasser](https://github.com/ahmdyasser)
 - [Jordi Marimon](https://github.com/jordimarimon)
 - [Ken Lin](https://github.com/kenlin2411)
+- [Rachel Fabrigar](https://github.com/chengalore)
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Jesse Tingle](https://github.com/Jesse-Tingle)
 - [Harsh Soni](https://github.com/hashfx)
