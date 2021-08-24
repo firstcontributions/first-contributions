@@ -7,6 +7,7 @@
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Olivia Russell](https://github.com/osrussell)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
+- [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
 -[Grace](https://github.com/Gracie254)
