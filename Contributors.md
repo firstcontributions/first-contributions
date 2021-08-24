@@ -63,6 +63,7 @@
 - [Lucas Fontes](https://github.com/lvbfontes)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
+- [Junai22](https://github.com/Junai22)
 - [Grace K](https://github.com/kelleygrace88)
 - [Enyinna Chinwendu](https://github.com/wendeee)
 - [Bhargav avinash](https://github.com/bhargav794)
