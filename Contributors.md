@@ -25,6 +25,7 @@
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
 - [CodingSoda](https://github.com/CodingSoda)
+- [Mariana Xavier](https://github.com/marianaxrp)
 - [Gauravkhetwal](https://github.com/Gauravkhetwal)
 - [Shaivy Agrawal](https://github.com/Shaivy-Agrawal) 
 - [Ahmad Yasser](https://github.com/ahmdyasser)
