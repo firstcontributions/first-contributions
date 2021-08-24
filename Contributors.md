@@ -2,6 +2,7 @@
 - [Albino Cianciotti](https://github.com/albino98)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
+- [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Sawix](https://github.com/Sawix)
