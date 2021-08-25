@@ -97,6 +97,7 @@
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
+- [Njoguu](https://github.com/Njoguu)
 - [Sai Krishnan](https://github.com/SaiKrishnan101)
 - [Quado1](https://github.com/Quado1)
 - [Benjamin Siau](https://github.com/bensiauu)
