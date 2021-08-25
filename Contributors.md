@@ -13696,6 +13696,7 @@
 - Pedro-Grajau
 - [Juan R](https://github.com/jareyesda)
 - [or bunfad](https://github.com/orbunfad)
+- [Curtis Dean](https://github.com/cdeanatx)
 - [r3dg33k](https://github.com/r3dg33k)
 - [jabir](https://github.com/jabir366)
 - [Zuraiz Ahmed Shehzad](https://github.com/ZuraizAhmedShehzad)
