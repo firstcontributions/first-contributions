@@ -32,6 +32,7 @@
 - [BHKR](https://github.com/BHKR)
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
+- [Matthias Marusczyk](https://github.com/marou125)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Mariana Xavier](https://github.com/marianaxrp)
 - [Gauravkhetwal](https://github.com/Gauravkhetwal)
