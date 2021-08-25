@@ -28,6 +28,7 @@ Roneal Denila
 - [Kritarth Mehra] (https://github.com/badboyguss)
 - [Ketan Gupta](https://github.com/Mad4Code)
 - [abc_new_test]
+- [veda]
 - [Zhi King](https://github.com/zyj1022)
 - [Nicole Siggins] (https://github.com/nicolelaine)
 - [Segev Shoval](https://github.com/segevitsky)
