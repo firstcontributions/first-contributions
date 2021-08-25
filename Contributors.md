@@ -9,7 +9,7 @@
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
-- [Daniel Brooker] (https://github.com/dabrooke)
+- [Daniel Brooker](https://github.com/dabrooke)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
