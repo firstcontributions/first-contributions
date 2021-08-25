@@ -4,6 +4,7 @@
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
+- [Viraj Nirbhavane](https://github.com/viraj28)
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
