@@ -1108,6 +1108,7 @@
 - [Lamine Aknouche](https://github.com/aknouche)
 - [Alestan Alves](https://github.com/AlestanAlves)
 - [Nandan](https://github.com/nandan-shah)
+- [codesnerd](https://github.com/codesnerd)
 - [Jamshid Numanjanov](https://github.com/Yusupov-droid)
 - [Morenike Oyenike](https://github.com/mo-renike)
 - [Sachin Kumar](https://github.com/sachin212)
