@@ -16,6 +16,7 @@
 - [Nathan Acosta](https://github.com/nathanacosta)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
+- [Bilal Ahmad Bhat](https://github.com/crediblebilal)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
 - [Sam Kim](https://github.com/lekoreanbaguette)
