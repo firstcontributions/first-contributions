@@ -5564,6 +5564,7 @@
 - [Vikas Hegde](https://github.com/vkashegde)
 - [Asad Moosvi](https://github.com/asadmoosvi)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
+- [Soni Fauzan](https://github.com/sonifauzanm)
 - [Aditya Baravkar](https://github.com/Aditya182)
 - [Philip Kouchner](https://github.com/PhilipK-webdev)
 - [Pranav Singh](https://github.com/theBeginner86)
