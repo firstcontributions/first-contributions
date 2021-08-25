@@ -437,6 +437,7 @@
 - [bdarab](https://github.com/bdarab)
 - [shunbin](https://github.com/yshunbin)
 - [Arti]
+- [Patryk Pesta](https://github.com/rockandrocks)
 - [Mateus Felipe](https://github.com/mateus-xv)
 - [Khushi Biyani](https://github.com/khushi-biyani)
 - [Bikki Mahato](https://github.com/bikkimahato)
