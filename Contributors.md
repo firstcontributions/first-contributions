@@ -1,6 +1,7 @@
 # Contributors
 - [Albino Cianciotti](https://github.com/albino98)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
+- [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
