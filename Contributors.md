@@ -341,6 +341,7 @@
 - [Luke Yin](https://github.com/luke-yin)
 - [Parul G](https://github.com/parulgo7)
 - [Jonathan Zhang](https://github.com/JZhang-305)
+- [Jeff Strickland](https://github.com/JeffStrickland)
 - [Dilln Kelley](https://github.com/digthedill)
 - [Hamza Mouzakki](https://github.com/hamzaMouzakki)
 - [Sergey Kirintsev](https://github.com/SergeyKirintsev)
