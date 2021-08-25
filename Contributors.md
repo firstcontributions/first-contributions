@@ -329,6 +329,7 @@
 - [Ashish Tom](https://github.com/alceil)
 - [Cma](https://github.com/cma124)
 - [Kyle Jacobs](https://github.com/Sunswine)
+- [Daniel Benisti](https://github.com/virusxd521)
 - [Benrard Solien](https://github.com/bernardstuff)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
