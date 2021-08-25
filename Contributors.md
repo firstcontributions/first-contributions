@@ -1,4 +1,5 @@
 # Contributors
+- [Tom Stinson](https://github.com/14tstinson)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Danielle Kushnir] (https://github.com/daniellekush)
