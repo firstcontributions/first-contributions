@@ -3406,6 +3406,7 @@
 - [Belle Deane](https://github.com/ifd459)
 - [Daniel Allen Del Rosario](https://github.com/delrosariotup)
 - [Anderson]()
+- [Harshad Parab]
 - [Jeremy LORTHIOIR](https://github.com/JeremyLorthioir)
 - [Lorcan](https://github.com/lorcanj)
 - [Raquel](https://github.com/rcurutchet)
