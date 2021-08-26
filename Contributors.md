@@ -98,6 +98,7 @@
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney] (https://github.com/Juniper11)
+- [Gottfried Owono] (https://github.com/Ge0ni)
 - [myo thant kyaw] (https://github.com/myothant88)
 - [Urvi Mitra] (https://github.com/urvimitra)
 - [Ross Calvert](https://github.com/Ross-C)
