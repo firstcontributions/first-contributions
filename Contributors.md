@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Tom Stinson](https://github.com/14tstinson)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
@@ -7192,6 +7192,7 @@
 - [Amir Nasrollahzadeh](https://github.com/Amirnlz)
 - [Ryan Doherty](https://github.com/r-doherty)
 - [Mateus Faria](https://github.com/WebMat1)
+- [Carlos Miranda De la Hoz]
 - [Chelsea Ramos](https://github.com/chelseanbr)
 - [Joel Aldair Chan Tec](https://github.com/joelchan24)
 - Mark - mark-nu
