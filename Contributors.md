@@ -2693,6 +2693,7 @@
 - [Daniel Jacobs](https://github.com/dejacobs88)
 - [Tony Trieu](https://github.com/tonytrieu)
 - [Alejandro-Ochando](https://github.com/Alejandro-Ochando)
+- {Mauricio Martinez} (https://github.com/vulp0)
 - [Kaanhan Okyay](https://github.com/kaanhangithub)
 - [Ergi Berdellima](https://github.com/Bhfreagra)
 - [Saksham Sharma](https://github.com/ssaksham)
