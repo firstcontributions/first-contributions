@@ -1,4 +1,4 @@
-# Contributors
+i# Contributors
 - [Tom Stinson](https://github.com/14tstinson)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
@@ -8,6 +8,7 @@
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Ankur Patil](https://github.com/ankur12-1610)
+- [Aniket Saha](https://github.com/anikets349)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
