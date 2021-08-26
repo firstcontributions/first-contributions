@@ -33,6 +33,8 @@
 - [Ranjith jupaka](https://github.com/ranjithjupaka)
 - [Vaibhav Varshney](https://github.com/vaib1343)
 - [BHKR](https://github.com/BHKR)
+- [priyanshu (https://github.com/001priyanshu)
+
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
 - [Matthias Marusczyk](https://github.com/marou125)
