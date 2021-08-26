@@ -141,6 +141,7 @@
 - [Nickel-yadav] (https://github.com/nickel-yadav)
 - [George Gomes](https://github.com/rody401)
 - [Nayaab Chogle] (https://github.com/NayaabC)
+- [Ryan S](https://github.com/RSkuma)
 - [Sarthak Gupta](https://github.com/Sart-Hack)
 - [Heizal Nagginda](https://github.com/Heizal)
 - [Mark Howard](https://github.com/MarkJamesHoward)
