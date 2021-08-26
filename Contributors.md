@@ -139,6 +139,7 @@
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav] (https://github.com/nickel-yadav)
+- [Tadashi Konno](https://github.com/tadakongithub)
 - [George Gomes](https://github.com/rody401)
 - [Nayaab Chogle] (https://github.com/NayaabC)
 - [Ryan S](https://github.com/RSkuma)
