@@ -11,6 +11,7 @@
 - [Prateek Bansal](https://github.com/itsprateekbansal)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
+- [TheGreatDarkness](https://github.com/thegreatdarkness)
 - [Daniel Brooker] (https://github.com/dabrooke)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
