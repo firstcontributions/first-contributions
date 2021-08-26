@@ -25,6 +25,7 @@
 - [Rumas](https://github.com/Rumas97)
 -[Grace](https://github.com/Gracie254)
 -[Islam Sulaiman](https://github.com/Islamsulaiman)
+-[Daniel Naughton](https://github.com/dtnaughton)
 - [Ernest Sebastian](https://github.com/Xebastian)
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
 - [jfjini11](https://github.com/jjini11)
