@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Tom Stinson](https://github.com/14tstinson)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
@@ -347,6 +347,7 @@
 - [thurasittnaing](https://github.com/coding2am)
 - [Luke Yin](https://github.com/luke-yin)
 - [Parul G](https://github.com/parulgo7)
+- [Kriti Pashine](https://github.com/Kriti-999)
 - [Jonathan Zhang](https://github.com/JZhang-305)
 - [Jeff Strickland](https://github.com/JeffStrickland)
 - [Dilln Kelley](https://github.com/digthedill)
