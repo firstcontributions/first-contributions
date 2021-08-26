@@ -13761,9 +13761,9 @@
 - [alloevil](https://github.com/alloevil)
 - [mcabra](https://github.com/McAbra)
 - [CelticCaleb](https://github.com/CelticCaleb)
-- Vinay
 - [Yan Shi](https://github.com/shiiyan)
 - [Cringedo](https://github.com/Cringedo)
 - [Andrea](https://github.com/andrearagazzii)
 - [Lawrence](https://github.com/lawrencedizon)
 - [Jhonatas Menezes](https://github.com/JhonatasMenezes)
+- [Omkar Sonawane](https://github.com/Omkar0104)
