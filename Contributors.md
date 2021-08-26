@@ -13766,3 +13766,4 @@
 - [Andrea](https://github.com/andrearagazzii)
 - [Lawrence](https://github.com/lawrencedizon)
 - [Jhonatas Menezes](https://github.com/JhonatasMenezes)
+- [Sean Joseph](https://github.com/sejogit28)
