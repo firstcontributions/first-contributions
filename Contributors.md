@@ -57,6 +57,7 @@
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Gracie Nguyen](https://github.com/cutiepurr)
+- [Heather Barton](https://github.com/CisnePHX)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Manoj](https://github.com/manojxk)
 - [Walter Galdamez](https://github.com/waltergaldamez)
