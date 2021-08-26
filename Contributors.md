@@ -4878,6 +4878,7 @@
 - [Tanvi_Anand]
 - [Ko Junghwan](https://github.com/kukuku0517)
 - [Saloni Gupta](https://github.com/shades-7)
+- [Clayton Anderson](https://github.com/Blibzoop)
 - [Sriram Sathish](https://github.com/sriram0107)
 - [Sarah Liang](https://github.com/smliang)
 - [Anurag Saxena](https://github.com/anursaxe25)
