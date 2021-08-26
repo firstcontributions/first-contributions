@@ -74,6 +74,7 @@
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
 - [Lucas Fontes](https://github.com/lvbfontes)
 - [Jason Moldovan](https://github.com/moldovanjason)
+- [Sandro Miranda](https://github.com/sandromiranda)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Junai22](https://github.com/Junai22)
 - [Grace K](https://github.com/kelleygrace88)
