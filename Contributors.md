@@ -13528,6 +13528,7 @@
 - [Joshua Clark](https://github.com/joshuaRC02)
 - [Fabian Stichtenoth](https://github.com/Fabian5896)
 - [Lukasz Szymanski](https://github.com/LukasSzymanski)
+- [Alex Stanuta](https://github.com/alex-stanuta)
 - [Alex Korbonits](https://github.com/korbonits)
 - [Naoki Takahashi](https://github.com/nemuki)
 - [Jonathan Wang](https://github.com/jc4jc3jc0jc1)
