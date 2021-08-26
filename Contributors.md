@@ -2110,6 +2110,7 @@
 - [Shiva Sai Krishna](https://github.com/Shiva-sai-krishna)
 - [Adi Bhat](https://github.com/Adibhat108/)
 - [James Gill](https://github.com/jamesgill11)
+- [Swapnil Manke](https://github.com/mankeswapnil0)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Mohammad Hasan](https://github.com/Hasankib)
