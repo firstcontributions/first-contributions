@@ -13775,4 +13775,5 @@
 - [Andrea](https://github.com/andrearagazzii)
 - [Lawrence](https://github.com/lawrencedizon)
 - [Jhonatas Menezes](https://github.com/JhonatasMenezes)
+- [Gianluca Tagliente] (https://github.com/gtagliente)
 - [sumit] (https://github.com/dafunkt)
