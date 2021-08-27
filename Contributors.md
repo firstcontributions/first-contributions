@@ -22,6 +22,7 @@
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
+- [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
 - [Mano Bharathi](https://github.com/ManoBharathi93)
