@@ -7712,6 +7712,7 @@
 - jenny heyyy
 - ankita mishra
 - Chelsae Taylor
+- [Martin Vande Populiere](https//github.com/martin-vdp)
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
 - [A.J.Fox](https://github.com/A-J-Fox)
