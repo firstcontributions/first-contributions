@@ -12,6 +12,7 @@
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
 - [Scott Borecki](https://github.com/Scott-Borecki)
+- [Navneet Singh](https://github.com/navneet-28)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Daniel Brooker] (https://github.com/dabrooke)
 - [Aastha Maingi] (https://github.com/amaingi99/)
