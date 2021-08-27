@@ -2245,6 +2245,7 @@
 - MKD
 - [Monesh Goyal](https://github.com/2201monesh)
 - [Munia Balayil](https://github.com/mbalayil)
+- [Fred] (https://github.com/Fred0d)
 - [Daniel Wong](https://github.com/dsew77)
 - [Everton Miranda](https://github.com/EvertonMirand)
 - [Mahesh Sudhakar](https://github.com/smahesh2694)
