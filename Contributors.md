@@ -13,6 +13,7 @@
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Daniel Brooker] (https://github.com/dabrooke)
+- [Aastha Maingi] (https://github.com/amaingi99/)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
