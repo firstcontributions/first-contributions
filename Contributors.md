@@ -38,6 +38,7 @@
 - [BHKR](https://github.com/BHKR)
 - [IVIosab](https://github.com/IVIosab)
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
+- [Divyansh Bhadauria](https://github.com/divo12)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
 - [Matthias Marusczyk](https://github.com/marou125)
 - [CodingSoda](https://github.com/CodingSoda)
