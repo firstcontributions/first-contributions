@@ -13711,6 +13711,7 @@
 - [Mubashir01234](https://github.com/Mubashir01234)
 - [Hein Htet Zor 🇲🇲](https://github.com/heinhtetzor)
 - [The-Mozart-of-Physics](https://github.com/raphaPhysics2020)
+- [Richa] (https://github.com/Richa2801)
 - [Ryo Jerry Yu](https://github.com/RyoJerryYu)
 - [Aman Shrivastava](https://github.com/aman34503)
 - [Kaletho](https://github.com/kaletho)
@@ -13792,3 +13793,4 @@
 - [Gianluca Tagliente] (https://github.com/gtagliente)
 - [sumit] (https://github.com/dafunkt)
   [Haitham Shaaban] (https://github/haithamsha/) 	
+
