@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Jason Zhu](https://github.com/JasonZhu95)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
