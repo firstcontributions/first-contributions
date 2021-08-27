@@ -17,6 +17,7 @@
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Sawix](https://github.com/Sawix)
+- [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Olivia Russell](https://github.com/osrussell)
