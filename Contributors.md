@@ -4,6 +4,7 @@
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
+- [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Danielle Kushnir] (https://github.com/daniellekush)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
