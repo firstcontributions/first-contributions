@@ -23,6 +23,7 @@
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Masiel Villalba](https://github.com/masiiie)
+- [Bar Amber](https://github.com/baramber)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
