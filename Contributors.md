@@ -6325,6 +6325,7 @@
 - [Pooja Prabhu](https://github.com/POOJAPRABHU450)
 - [James Hall]()
 - [Laimonas Dabužinskas](https://github.com/kiskis1)
+- [Sameer Mahmud] (https://github.com/Sameer-Mahmud)
 - [Simon Socolow](https://github.com/ssocolow)
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Akshay Sonawane](https://github.com/agkosd)
