@@ -56,6 +56,7 @@
 - [Diveshan](https://github.com/Dive1995)
 - [Nisarg Kudgunti](https://github.com/Nisarg6502)
 - [Harshit Vaish](https://github.com/Harshit036)
+- [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
