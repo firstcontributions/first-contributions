@@ -2369,6 +2369,7 @@
 - [Lily Peng](https://github.com/lily-peng)
 - Hiroki O
 - Noah Olono
+- Jose Jasso Jr.(https://github.com/josejassojr)
 - Prajyot Joshi
 - [Tomas Kloucek](https://github.com/TomKloucek)
 - [Ryan Farrow](https://github.com/rfarrow1010)
