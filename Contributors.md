@@ -26,6 +26,7 @@
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
+- [Prateek Verma](https://github.com/PRATEEKVERMA-036)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
