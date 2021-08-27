@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
@@ -27,10 +28,7 @@
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
-- [Rumas](https://github.com/Rumas97)
--[Grace](https://github.com/Gracie254)
--[Islam Sulaiman](https://github.com/Islamsulaiman)
--[Daniel Naughton](https://github.com/dtnaughton)
+- [Rumas](https://github.com/Rumas97) -[Grace](https://github.com/Gracie254) -[Islam Sulaiman](https://github.com/Islamsulaiman) -[Daniel Naughton](https://github.com/dtnaughton)
 - [Ernest Sebastian](https://github.com/Xebastian)
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
 - [jfjini11](https://github.com/jjini11)
@@ -49,7 +47,7 @@
 - [CodingSoda](https://github.com/CodingSoda)
 - [Mariana Xavier](https://github.com/marianaxrp)
 - [Gauravkhetwal](https://github.com/Gauravkhetwal)
-- [Shaivy Agrawal](https://github.com/Shaivy-Agrawal) 
+- [Shaivy Agrawal](https://github.com/Shaivy-Agrawal)
 - [Ahmad Yasser](https://github.com/ahmdyasser)
 - [Jordi Marimon](https://github.com/jordimarimon)
 - [Ken Lin](https://github.com/kenlin2411)
@@ -650,7 +648,7 @@
 - Sebastian Fina
 - Daqiu Ye
 - [Dimitri ZERJAL]
- [George Rahul](https://github.com/georgerahul24)
+  [George Rahul](https://github.com/georgerahul24)
 - [Stephan Allen](https://github.com/sallen2)
 - [Zaw Ye Htet Naing] (https://github.com/zawye-imu)
 - [vishwa](https://github.com/vishwan454)
@@ -1798,7 +1796,7 @@
 - [Stephanie Opala](https://github.com/stephanieopala)
 - [Marouane Mouloue](https://github.com/marouanemouloue)
 - [Athanasiadis Thanasis](https://github.com/thanasisath31)
-- [Hardik Koul](https://github.com/hardikkoul) 
+- [Hardik Koul](https://github.com/hardikkoul)
 - [Richard Valvona](https://github.com/RichardValvonaUK)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Don Wang](https://github.com/don-wang)
@@ -2492,8 +2490,8 @@
 - [Kapil Kungwani](https://github.com/kapilkungwani)
 - [Vaibhav Singh](https://github.com/Vaibhav-Singh21)
 - [Saransh Chopra](https://github.com/Saransh-cpp)
-- [Shapnesh Singh Tiwari](https://github.com/shapnesht) 
-- [Jacob Kiesel](https://github.com/jacobkiesel) 
+- [Shapnesh Singh Tiwari](https://github.com/shapnesht)
+- [Jacob Kiesel](https://github.com/jacobkiesel)
 - BlueHats workshop
 - [Armand Sauzay](https://github.com/armand-sauzay)
 - [Anurag Chaurasia](https://github.com/Anurag331)
@@ -2858,7 +2856,7 @@
 - [Mitchel Nelson](https://github.com/mitchelnelson)
 - [Jordan Van Leeuwen](https://github.com/JordanVanLeeuwen)
 - [Finn Trefzer](https://github.com/F1nn-T)
-- [Ritesh Chaudhari](https://github.com/Rits333) 
+- [Ritesh Chaudhari](https://github.com/Rits333)
 - [Morgan Jones](https://github.com/morgsj)
 - [Nick Hollins](https://github.com/TheDevNick)
 - [Mehtab Khan](https://github.com/kmehtab)
@@ -5473,7 +5471,7 @@
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Martín Torres](https://github.com/codelink98)
 - [Michael Ndon](https://github.com/haelmj)
-- [Darko Veljanoski] (https://github.com/DarkoVeljanoski) 
+- [Darko Veljanoski] (https://github.com/DarkoVeljanoski)
 - [jaanP1]
 - [Varun Gupta](https://github.com/varungupta31)
 - [Varad Galgali]
@@ -9915,6 +9913,7 @@
 - Kayla Rubin
 - [dystar](https://github.com/dystar)
 - [stephenjwinn](https://github.com/stephenjwinn)
+- [boedegoat](https://github.com/boedegoat)
 - [Arjav Garg](https://github.com/arjav2002)
 - [asura4716](https://github.com/asura4716)
 - [VictorMartinelli](https://github.com/Victor-martinelli)
@@ -13405,7 +13404,7 @@
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal](https://github.com/hafidzal)
 - [pranavdubey303]
--    [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
+- [ अमानजीत कुमार ] (https://github.com/TechnicalAmanjeet )
 - [queendeveloper](https://github.com/queendeveloperbr)
 - [uthadehikaru](https://github.com/uthadehikaru)
 - [Tr0612](https://github.com/Tr0612)
@@ -13795,4 +13794,4 @@
 - [Jhonatas Menezes](https://github.com/JhonatasMenezes)
 - [Gianluca Tagliente] (https://github.com/gtagliente)
 - [sumit] (https://github.com/dafunkt)
-  [Haitham Shaaban] (https://github/haithamsha/) 	
+  [Haitham Shaaban] (https://github/haithamsha/)
