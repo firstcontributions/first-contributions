@@ -9,6 +9,7 @@
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
+- [moses Oketch](https://github.com/moseoketch86)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
