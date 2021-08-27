@@ -6664,6 +6664,7 @@
 - [Brian Loveless 👽 🖖](https://github.com/BrianLoveGa)
 - [Brandt Campbell](https://github.com/Reboot82)
 - [Josué Fleitas](https://github.com/josflesan)
+- [Chen Zheng](https://github.com/Chan-ZJU)
 - [Emile Nsengimana](https://github.com/Emile-Nsengimana)
 - [bergius](https://github.com/bergius)
 - [Parthiban P](https://github.com/parthi-rp)
