@@ -343,6 +343,7 @@
 - [Charles Kasasira](https://github.com/charleskasasira)
 - Megan P.
 - Dhananjay gavali
+- [Taran](https://github.com)
 - [Lipika Debnath](https://github.com/lipika19)
 - [Vikas](https://github.com/vikasdabhi)
 - [LakshmiSankaraSubramanian](https://github.com/LakshmiSankaraSubramanian)
