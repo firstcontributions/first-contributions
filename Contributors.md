@@ -22,6 +22,7 @@
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
+- [Pratik Anand](https://github.com/pratik8696)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
 - [Martin Meng](https://github.com/MartinMxn)
