@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Guillaume Descombes](https://github.com/GuillaumeDescombes)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
