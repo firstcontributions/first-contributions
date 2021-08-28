@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
@@ -13816,3 +13816,4 @@
 - [Guillaume Descombes](https://github.com/GuillaumeDescombes)
 -[Gregory Park](https://github.com/gpark16)
 - [Andrey Firsov](https://github.com/avfirsov)
+- [Nathanael Kempel](https://github.com/nkempel)
