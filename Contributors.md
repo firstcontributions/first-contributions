@@ -21,6 +21,7 @@
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Sawix](https://github.com/Sawix)
+- [Pratik Anand](https://github.com/pratik8696)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
