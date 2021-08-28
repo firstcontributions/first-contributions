@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Guillaume Descombes](https://github.com/GuillaumeDescombes)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
@@ -13814,3 +13813,4 @@
 -[zeel-codder](https://github.com/zeel-codder)
 -[Abhijit Paul](https://github.com/abj-paul)
 -[Marco-Valerio-Quinti](https://github.com/MarcoValerioQuinti)
+- [Guillaume Descombes](https://github.com/GuillaumeDescombes)
