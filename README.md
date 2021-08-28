@@ -151,6 +151,12 @@ git commit -m "Add <your-name> to Contributors list"
 
 replacing `<your-name>` with your name.
 
+### Set remote url for origin
+Set remote url for origin using `git remote set-url`
+```
+git remote set-url origin https://<authentication code>@github.com/<account name>/first-contributions
+```
+
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
