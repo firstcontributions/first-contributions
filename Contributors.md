@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
+- [Mark Vandermolen](https://mvdmolen.github.io)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
