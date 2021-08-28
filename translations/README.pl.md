@@ -1,34 +1,3 @@
-<<<<<<< HEAD
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
-
-
-# Pierwsze kontrybucje
-
-Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
-
-Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
-
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
-
-*Przeczytaj w innych językach: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md) and [Português/Brasil](README.pt_br.md).*
-
-Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ ).
-
-## Utwórz fork repozytorium
-
-Utwórz fork tego repozytorium klikając przycisk "Fork" na górze tej strony.
-Stworzysz tym samym kopie tego repozytorium na swoim koncie.
-
-## Sklonuj repozytorium
-
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
-
-Teraz sklonuj repozytorium na swój komputer. Kliknij na przycisk "clone" a później na ikonkę *skopiuj do schowka*.
-=======
 ﻿[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -53,43 +22,26 @@ Utwórz fork tego repozytorium klikając przycisk `Fork` na górze tej strony. S
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Teraz sklonuj repozytorium na swój komputer. Kliknij przycisk `Clone`, a później ikonkę *skopiuj do schowka*.
->>>>>>> upstream/master
 
 Otwórz konsolę i uruchom komendę git:
 
 ```
-<<<<<<< HEAD
-git clone "wklej skopiowany adres"
-```
-Gdzie "wklej skopiowany adres" (bez cudzysłowów) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
-
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-=======
 git clone <skopiowany-adres>
 ```
 Gdzie `<skopiowany-adres>` to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
->>>>>>> upstream/master
 
 Przykład:
 ```
 git clone https://github.com/to-ty/first-contributions.git
 ```
-<<<<<<< HEAD
-W miejscu 'to-ty' to Twój login na githubie. W tym kroku ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer.
-
-## Stwórz gałąź
-
-Wejdź w folder ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
-=======
 
 W miejscu `to-ty` to twój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium `first-contributions` z githuba na swój komputer.
 
 ## Stwórz gałąź (`branch`)
 
 Wejdź do folderu ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
->>>>>>> upstream/master
 
 ```
 cd first-contributions
@@ -104,28 +56,16 @@ Przykład
 ```
 git checkout -b add-adam-kowalski
 ```
-<<<<<<< HEAD
-(Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia to listy.)
-
-## Wprowadź zmiany i wgraj je
-
-Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a> gdzie znajdziesz informację jak używać języka Markdown.
-=======
 (Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia do listy.)
 
 ## Wprowadź zmiany i wgraj je
 
 Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a> gdzie znajdziesz informację jak go używać.
->>>>>>> upstream/master
 
 Dodaj następującą linię na końcu `Contributors.md`
 
 ```
-<<<<<<< HEAD
-[Twoje imię](https://github.com/Twoja nazwa użytkownika)
-=======
 [Twoje imię](https://github.com/Twoja-nazwa-użytkownika)
->>>>>>> upstream/master
 ```
 Przykład: 
 ```
@@ -134,15 +74,9 @@ Przykład:
 
 Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
 
-<<<<<<< HEAD
-Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
-```
-`git add Contributors.md`
-=======
 Jeżeli wejdziesz do folderu ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
 ```
 git add Contributors.md
->>>>>>> upstream/master
 ```
 
 Teraz zapisz te zmiany wykonując komendę `git commit`:
@@ -163,43 +97,17 @@ Zastąp `<add-twoje-imie>` nazwą gałęzi, którą wcześniej utworzyłeś.
 
 W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. Kliknij go.
 
-<<<<<<< HEAD
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
-
-Teraz wyślij prośbę o scalenie.
-
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
-=======
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Teraz wyślij prośbę o scalenie.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
->>>>>>> upstream/master
 
 Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
 
 ## Co dalej?
 
 Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">aplikację</a>.
-<<<<<<< HEAD
-Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://firstcontributions.herokuapp.com" rel="nofollow">Dołącz do slacka</a>.
-Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
- 
-### [Materiały dodatkowe](https://github.com/Roshanjossey/first-contributions/blob/master/additional-material/git_workflow_senarios/additional-material.md) 
- 
-## Ćwiczenia przy użyciu innych narzędzi
-
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-## Autopromocja
-
-Jeżeli spodobał Ci się ten projekt, dodaj mu gwiazdkę na <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>. Jeżeli chcesz nas wspomóc śledź <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> na <a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitterze</a> i na <a href="https://github.com/roshanjossey">GitHub</a>.
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-=======
 Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Dołącz do slacka</a>.
 Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
  
@@ -210,4 +118,3 @@ Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę
 | <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | - | - | - | - | - | - |
 | [GitHub Desktop](github-desktop-tutorial.md) | [Visual Studio 2017](github-windows-vs2017-tutorial.md) | [GitKraken](gitkraken-tutorial.md) | [Visual Studio Code](github-windows-vs-code-tutorial.md)     | [Atlassian Sourcetree](sourcetree-macos-tutorial.md)         | [IntelliJ IDEA](github-windows-intellij-tutorial.md) |
->>>>>>> upstream/master

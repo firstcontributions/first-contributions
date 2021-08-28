@@ -1,21 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<<<<<<< HEAD
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
-
-# "Contribute" ผลงานใน GitHub กับผู้อื่นครั้งแรกใช่ไหม?
-
-มันเป็นเรื่องยาก, ครั้งแรกของทุกอย่างมันมักจะยากเสมอ โดยเฉพาะการทำงานร่วมกับผู้อื่น เมื่อเราทำอะไรผิดพลาดเรามักรู้สึกไม่สบายใจ แต่โอเพนซอร์ส (open source) คือโลกของการทำงานร่วมกัน! เราจึงอยากให้ผู้ที่เข้ามาใหม่ได้เรียนรู้วิธีการ "คอนทริบิ้วต์" ผลงานร่วมกับผู้อื่นใน GitHub แบบง่ายๆ
-
-การอ่านบทความและการทำตามตัวอย่างต่างๆ ก็อาจช่วยได้ แต่จะมีอะไรดีไปกว่าการที่เราได้ลงมือทำสิ่งนั้นๆ ด้วยตัวเองล่ะ! โปรเจ็คนี้จะสอนให้มือใหม่ส่ง "คอนทริบิ้วชั่นครั้งแรก" ได้อย่างง่ายๆ
-
-จำเอาไว้ว่า: ทำใจให้สบาย ยิ่งคุณผ่อนคลายมากเท่าไหร่ คุณก็ยิ่งเรียนรู้ได้ดีมากขึ้นเท่านั้น!
-
-ถ้าคุณอยากร่วมส่งคอนทริบิ้วชั่นครั้งแรกของคุณ เพียงแค่ทำตามขั้นตอนง่ายๆด้านล่าง เราบอกเลยว่า มันจะสนุกแน่นอน
-
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
-
-#### *อ่านบทความนี้ใน[ภาษาอื่นๆ](../Translations.md)*
-=======
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -31,7 +14,6 @@
 ถ้าคุณอยากร่วมส่งคอนทริบิ้วชั่นครั้งแรกของคุณ เพียงแค่ทำตามขั้นตอนง่าย ๆ ด้านล่าง เราบอกเลยว่า มันจะสนุกแน่นอน
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
->>>>>>> upstream/master
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/ )
 
@@ -43,11 +25,7 @@
 
 ## กด "Clone" โปรเจ็คนี้
 
-<<<<<<< HEAD
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
-=======
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
->>>>>>> upstream/master
 
 เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
 
@@ -56,15 +34,9 @@
 ```
 git clone "url ที่คัดลอกไว้"
 ```
-<<<<<<< HEAD
-"url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คของคุณ คุณสามารถเลื่อนกลับไปดูวิธีคัดลอก url ได้จากหัวข้อก่อนหน้านี้
-
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-=======
 "url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คของคุณ คุณสามารถเลื่อนกลับไปดูวิธีการคัดลอก url ได้จากหัวข้อก่อนหน้านี้
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
->>>>>>> upstream/master
 
 ตัวอย่าง:
 ```
@@ -94,34 +66,20 @@ git checkout -b add-alonzo-church
 
 ตอนนี้ให้เปิดไฟล์ `Contributors.md` ในโปรแกรม text editor เพิ่มชื่อของคุณลงไป จากนั้นเซฟไฟล์
 
-<<<<<<< HEAD
-ในโปรแกรมเทอร์มินอล ถ้าคุณอยู่ที่ directory ของโปรเจ็ค ให้ลองพิมพ์คำสั่ง `git status` จะเห็นว่าคุณได้ทำการเปลี่ยนอะไรไปบ้าง
-
-เพิ่มการเปลี่ยนแปลงนั้นๆเข้าไปใน branch ที่เพิ่งสร้าง ด้วยคำสั่ง `git add`:
-=======
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 ในโปรแกรมเทอร์มินอล ถ้าคุณอยู่ที่ directory ของโปรเจ็ค ให้ลองพิมพ์คำสั่ง `git status` จะเห็นว่าคุณได้ทำการเปลี่ยนอะไรไปบ้าง
 
 เพิ่มการเปลี่ยนแปลงนั้น ๆ เข้าไปใน branch ที่เพิ่งสร้าง ด้วยคำสั่ง `git add`:
->>>>>>> upstream/master
 ```
 git add Contributors.md
 ```
 
-<<<<<<< HEAD
-ตอนนี้ "Commit" การเปลี่ยนแปลงนั้นๆ ด้วยคำสั่ง `git commit`:
-```
-git commit -m "Add <ชื่อของคุณ> to Contributors list"
-```
-แทนที่ `<ชื่อของคุณ>` ด้วยชื่อจริงๆของคุณ.
-=======
 ตอนนี้ "Commit" การเปลี่ยนแปลงนั้น ๆ ด้วยคำสั่ง `git commit`:
 ```
 git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ```
 แทนที่ `<ชื่อของคุณ>` ด้วยชื่อจริง ๆ ของคุณ.
->>>>>>> upstream/master
 
 ## "Push" โค้ดที่เปลี่ยนไปขึ้นบน GitHub
 
@@ -129,56 +87,21 @@ git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ```
 git push origin <ชื่อ branch ของคุณ>
 ```
-<<<<<<< HEAD
-แทนที่ `<ชื่อ branch ของคุณ>` ด้วยชื่อของ branch ของคุณที่เพิ่งสร้างไปเมื่อหัวข้อที่แล้วๆ (add-ชื่อ-ของ-คุณ)
-=======
 แทนที่ `<ชื่อ branch ของคุณ>` ด้วยชื่อของ branch ของคุณที่เพิ่งสร้างไปเมื่อหัวข้อที่แล้ว ๆ (add-ชื่อ-ของ-คุณ)
->>>>>>> upstream/master
 
 ## ส่งผลงานของคุณและรอรีวิวจากเจ้าของโปรเจ็ค
 
 ไปที่ repository ของคุณบน GitHub คลิ๊กที่ `Compare & pull request`
 
-<<<<<<< HEAD
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
-
-ตอนนี้ก็ส่ง Pull Request ไปที่โปรเจ็คต้นน้ำได้เลย
-
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
-=======
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 ตอนนี้ก็ส่ง Pull Request ไปที่โปรเจ็คต้นน้ำได้เลย
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
->>>>>>> upstream/master
 
 แล้วเดี๋ยวเราจะ "Merge" หรือรวมผลงานที่คุณได้เปลี่ยนแปลงโค้ดมาที่ master branch ของโปรเจ็คนี้ คุณจะได้รับอีเมลล์ เมื่อเราได้ทำการ Merge ผลงานของคุณเรียบร้อยแล้ว
 
 ## ไปไหนต่อดีหลังจากนี้?
-<<<<<<< HEAD
-
-ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อนๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
-
-หรือจะมาร่วมสนทนากับเราผ่าน Slack ในกรณีที่คุณต้องการความช่วยเหลือ หรือมีข้อสงสัยใดๆ [เข้าร่วม slack กับเรา](https://firstcontributions.herokuapp.com)
-
-จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่นๆ ได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
-
-### [ข้อมูลอื่นๆเพิ่มเติม](../additional-material/git_workflow_senarios/additional-material.md)
-
-## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่นๆ
-
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-
-## โปรโมทตัวเองสักหน่อย
-
-หากคุณชอบโครงการนี้ สามารถกดดาวไว้บน [GitHub](https://github.com/Roshanjossey/first-contributions) ได้ หรือหากรู้สึกดีเป็นพิเศษสามารถติดตาม [Roshan](https://roshanjossey.github.io/) บน
-[Twitter](https://twitter.com/sudo__bangbang) และ
-[GitHub](https://github.com/roshanjossey) ได้
-=======
 ยินดีด้วย คุณเพิ่งทำวัฏจักรพื้นฐานของการทำ contribute คือ fork -> clone -> edit -> pull request ซึ่งสิ่งเหล่านี้คุณจะพบเจอเป็นปกติเมื่อเป็น contributor
 ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อน ๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
 
@@ -194,4 +117,3 @@ git push origin <ชื่อ branch ของคุณ>
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
->>>>>>> upstream/master

@@ -1,9 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<<<<<<< HEAD
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
-=======
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
->>>>>>> upstream/master
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,17 +7,6 @@
 
 Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle işbirliği içindeyseniz, hata yapmak içinize sinmez. Fakat açık kaynağın temelinde işbirliği ve birlikte çalışma yatar. Biz açık kaynak projelere ilk kez katkıda bulunacak kişilerin süreci öğrenmesini ve ilk katkılarını sunmalarını kolaylaştırmak istiyoruz.
 
-<<<<<<< HEAD
-Makale okumak ve eğitim videoları yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
-
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
-
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
-
-## Projeyi "çatallandırma"
-
-Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallandırın.
-=======
 Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -31,35 +16,22 @@ Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.gith
 ## Projeyi "çatallama"
 
 Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallayın.
->>>>>>> upstream/master
 Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 ## Depoyu (Repository) klonlama
 
-<<<<<<< HEAD
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
-
-Şimdi bu depoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
-
-Daha sonra uçbirimi açıp aşağıdaki git komut satırını girmemiz gerekiyor:
-=======
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
 Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
->>>>>>> upstream/master
 
 ```
 git clone "kopyaladığınız-url"
 ```
 "kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın.
 
-<<<<<<< HEAD
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-=======
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
->>>>>>> upstream/master
 
 Örneğin:
 ```
@@ -69,24 +41,14 @@ git clone https://github.com/kullanıcı-adi/first-contributions.git
 
 ## Dal (Branch) oluşturma
 
-<<<<<<< HEAD
-Eğer henüz klasör içinde değilseniz uçbirimde depo klasörünün konumuna gidin:
-=======
 Eğer henüz klasör içinde değilseniz komut isteminde ana klasörünün konumuna gidin:
->>>>>>> upstream/master
 
 ```
 cd first-contributions
 ```
-<<<<<<< HEAD
-`git checkout` komutunu kullanarak yeni bir dal(branch) oluşutrun:
-```
-git checkout -b <ekle-sizin-isminiz>
-=======
 `git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
 ```
 git checkout -b <sizin-yeni-dal-isminiz>
->>>>>>> upstream/master
 ```
 
 Örneğin:
@@ -97,11 +59,7 @@ git checkout -b ekle-aydin-cagri-dumlu
 
 ## Gerekli değişiklikleri yapıp bu değişiklikleri onaylama
 
-<<<<<<< HEAD
-Şimdi, bir metin editöründe `Contributors.md` dosyasını açın. Hafif bir işaretleme dili olan Markdown'a aşina olmanız gerekmektedir. Nasıl kullanacağınızı öğrenmek için bu [kopya kağıdına](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) göz atabilirsiniz.
-=======
 Şimdi, bir metin editöründe `Contributors.md` dosyasını açın. Hafif bir işaretleme dili olan Markdown'a alışkın olmanız gerekmektedir. Nasıl kullanacağınızı öğrenmek için bu [kopya kağıdına](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) göz atabilirsiniz.
->>>>>>> upstream/master
 
 `Contributors.md` dosyasının sonuna bu satırı ekleyin:
 
@@ -112,22 +70,14 @@ git checkout -b ekle-aydin-cagri-dumlu
 Örneğin:
 
 ```
-<<<<<<< HEAD
-- [John Doe](https://github.com/ahmet-yilmaz)
-=======
 - [Ahmet Yılmaz](https://github.com/ahmet-yilmaz)
->>>>>>> upstream/master
 ```
 
 `](` arasında boşluk olmadığından emin olun. Dosyayı kaydedin ve kapatın.
 
-<<<<<<< HEAD
-Uçbirim üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
-=======
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/assets/git-status.png" alt="git status" />
 
 Komut istemi üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
->>>>>>> upstream/master
 
 ```
 git add Contributors.md
@@ -137,11 +87,7 @@ git add Contributors.md
 ```
 git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ```
-<<<<<<< HEAD
-`<isminiz>` yerine kendi isminizi yazın. 
-=======
 `<isminiz>` yerine kendi isminizi yazın.
->>>>>>> upstream/master
 
 (Ç.N: Açık kaynak dünyasında dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
 
@@ -149,15 +95,9 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 
 `git push` komutu ile değişikliklerinizi ittirin:
 ```
-<<<<<<< HEAD
-git push origin <ekle-kendi-isminiz>
-```
-`<ekle-kendi-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
-=======
 git push origin <ekle-sizin-dal-isminiz>
 ```
 `<ekle-sizin-dal-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.
->>>>>>> upstream/master
 
 ## Değişikliklerinizi inceleme için gönderin
 
