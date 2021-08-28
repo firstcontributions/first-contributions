@@ -23,6 +23,7 @@
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
+- [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Pratik Anand](https://github.com/pratik8696)
