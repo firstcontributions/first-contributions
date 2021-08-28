@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Jason Zhu](https://github.com/JasonZhu95)
+- [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
