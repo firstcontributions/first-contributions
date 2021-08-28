@@ -2,8 +2,13 @@
 
 Kami berasumsi anda sudah menyelesaikan tutorial dasar sebelum datang ke sini. Informasi tambahan ini akan memberikan beberapa informasi mengenai teknik Git yang lebih tinggi.
 
+<<<<<<< HEAD
 ### [Hapus branch dari repositori anda](removing-branch-from-your-repository.md)
 Dokumen ini memberikan informasi mengenai bagaimana menghapus sebuah branch dari repositori anda.
+=======
+### [Hapus cabang dari repositori anda](removing-branch-from-your-repository.md)
+Dokumen ini memberikan informasi mengenai bagaimana menghapus sebuah cabang dari repositori anda.
+>>>>>>> upstream/master
 > Lakukan langkah ini setelah pull request anda digabungkan (merge).
 
 ### [Agar fork anda tetap sinkron dengan repositori](keeping-your-fork-synced-with-this-repository.md)
@@ -30,9 +35,15 @@ Dokumen ini memberikan informasi mengenai cara mengatasi saat terjadi konflik ke
 Dokumen ini memberikan informasi mengenai cara menghapus sebuah berkas dari repositori lokal.
 > Ikuti langkah tersebut untuk mempelajari bagaimana menghapus sebuah berkas sebelum di-commit.
 
+<<<<<<< HEAD
 ### [Memindahkan Commit ke Branch berbeda](moving-a-commit-to-a-different-branch.md)
 Dokumen ini memberikan informasi mengenai cara memindahkan sebuah commit ke cabang lain.
 > Ikuti langkah tersebut untuk memindahkan sebuah commit ke branch lain.
+=======
+### [Memindahkan Commit ke Cabang berbeda](moving-a-commit-to-a-different-branch.md)
+Dokumen ini memberikan informasi mengenai cara memindahkan sebuah commit ke cabang lain.
+> Ikuti langkah tersebut untuk memindahkan sebuah commit ke cabang lain.
+>>>>>>> upstream/master
 
 ### [Mengonfigurasi git](configuring-git.md)
 Dokumen ini memberikan informasi mengenai cara mengonfigurasi detil pengguna dan opsi lain di git.

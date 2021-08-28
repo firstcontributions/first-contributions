@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 <div dir="rtl"><a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://firstcontributions.herokuapp.com"><img align="left" src="https://firstcontributions.herokuapp.com/badge.svg"></a></div>
+=======
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+>>>>>>> upstream/master
 
 # <div dir="rtl">مساهمتك الأولى</div>
 
@@ -17,15 +25,22 @@
 </div>
 
 
+<<<<<<< HEAD
 *Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [Italian](README.it.md), [Persian](README.fa.md).*
 
 
+=======
+>>>>>>> upstream/master
 <div dir="rtl">
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
 ## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+<<<<<<< HEAD
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
+=======
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+>>>>>>> upstream/master
 <div dir="rtl">
 افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
@@ -33,13 +48,21 @@
 
 ## <div dir="rtl"> استنسخ هذا المشروع - Clone the repository </div>
 
+<<<<<<< HEAD
 <img style="float: left;" width="300" src="../assets/clone.png" alt="clone this repository" />
+=======
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+>>>>>>> upstream/master
 
 <div dir="rtl">
 استنسخ هذا المشروع على جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
 </div>
+<<<<<<< HEAD
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+=======
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+>>>>>>> upstream/master
 <div dir="rtl">
 افتح الطرفية واكتب الأمر التالي:
 </div>
@@ -124,11 +147,19 @@ git push origin "add-your-name"
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. اضغط على هذا الزر.</div>
 
+<<<<<<< HEAD
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 <div dir="rtl">والآن سلم طلبك لتتم مراجعته </div>
 
 <img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
+=======
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+<div dir="rtl">والآن سلم طلبك لتتم مراجعته </div>
+
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+>>>>>>> upstream/master
 
 <div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
@@ -173,6 +204,7 @@ git push origin master
 
 ## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
 
+<<<<<<< HEAD
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
@@ -194,3 +226,10 @@ git push origin master
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+=======
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+
+
+>>>>>>> upstream/master

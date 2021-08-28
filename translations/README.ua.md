@@ -1,4 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<<<<<<< HEAD
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
 # Перший внесок
@@ -10,12 +11,26 @@
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](../README.md), [Indonesian](README.id.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Russian](README.ru.md).*
+=======
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+# Перший внесок
+
+Це важко. Це завжди важко - робити щось вперше. Проте якщо ви працюєте над проєктом з кимось, помилки будуть вдвічі неприємнішими. Але Open Source завжди пов’язаний з колективною роботою. Ми хочемо полегшити шлях для початківців, які бажають зробити свій перший внесок.
+
+Можна прочитати безліч інструкцій та переглянути сотні відео, але що може бути краще, ніж спробувати зробити внесок не боючись нічого зламати? Ціль цього проєкту - надати можливість новачкам зробити їх перший внесок. Запам’ятайте: чим більше ви розслаблені, тим краще ви вчитеся. Якщо ви хочете зробити свій перший внесок, просто виконуйсте прості кроки нижче. Ми обіцяємо, що це буде весело!
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+>>>>>>> upstream/master
 
 Якщо ви ще не встановили GIT, тоді [ зробіть це негайно ]( https://help.github.com/articles/set-up-git/ ) :)
 
 ## Відгалужте репозиторій
 
 Відгалужте свою власну копію цього репозиторія, натиснувши кнопку `fork` зверху цієї сторінки.
+<<<<<<< HEAD
 Це призведе до створення копії цього репозиторія у вашому акаунті.
 
 ## Клонуйте репозиторій
@@ -23,30 +38,55 @@
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Тепер клонуйте цей репозиторій на ваш комп’ютер. Натисніть на кнопку `clone`, а потім на іконку `copy to clipboard`.
+=======
+Таким чином, ви створите копію цього репозиторія у вашому акаунті.
+
+## Клонуйте репозиторій
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
+Тепер клонуйте цей репозиторій на ваш комп’ютер. Натисніть на кнопку `clone`, а потім - на іконку `copy to clipboard`.
+>>>>>>> upstream/master
 
 Відкрийте термінал і виконайте наступні команди:
 
 ```
 git clone "посилання, яке ви щойно скопіювали"
 ```
+<<<<<<< HEAD
 де `посилання, яке ви щойно скопіювали` (без кавичок) є адресою цього репозиторію. Дивіться попередній крок для того, щоб отримати цю адресу.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+=======
+де `посилання, яке ви щойно скопіювали` (без кавичок) - адреса цього репозиторію. Дивіться попередній крок для того, щоб отримати цю адресу.
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+>>>>>>> upstream/master
 
 Наприклад:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+<<<<<<< HEAD
 де `this-is-you` ваш GitHub нікнейм. Таким чином ви копіюєте вміст репозиторію з GitHub, в який збираєтесь зробити внесок, на ваш комп’ютер.
 
 ## Створюємо вітку
+=======
+де `this-is-you` - ваш GitHub нікнейм. Таким чином, ви копіюєте вміст репозиторію з GitHub, в який збираєтесь зробити внесок, на ваш комп’ютер.
+
+## Створюємо гілку
+>>>>>>> upstream/master
 
 Перейдіть в директорію з репозиторієм на вашому комп’ютері (якщо ви ще цього не зробили):
 
 ```
 cd first-contributions
 ```
+<<<<<<< HEAD
 Тепер створюємо вітку за допомогою команди `git checkout`:
+=======
+Тепер створюємо гілку за допомогою команди `git checkout`:
+>>>>>>> upstream/master
 ```
 git checkout -b <add-your-name>
 ```
@@ -55,11 +95,19 @@ git checkout -b <add-your-name>
 ```
 git checkout -b add-petro-church
 ```
+<<<<<<< HEAD
 (Назва вітки не повинна обов’язково містити слово *add*, але це має сенс, якщо майбутні зміни передбачають додавання чогось, наприклад, вашого імені в список контрибуторів.)
 
 ## Робимо необхідні зміни та записуємо їх в репозиторій
 
 Тепер відкриваємо файл `Contributors.md` в текстовому редакторі, і додаємо ваше ім’я, а потім зберігаємо файл. Якщо ви перейдете в директорію проекту і виконаєте команду `git status`, ви побачите зміни. Додайте ці зміни до вітки, яку ви тільки що створили за допомогою команди `git add`:
+=======
+(Назва гілки не повинна обов’язково містити слово *add*, але це має сенс, якщо майбутні зміни передбачають додавання чогось, наприклад, вашого імені у список контрибуторів.)
+
+## Робимо необхідні зміни та записуємо їх в репозиторій
+
+Тепер відкриваємо файл `Contributors.md` в текстовому редакторі і додаємо ваше ім’я, а потім зберігаємо файл. Якщо ви перейдете в директорію проєкту і виконаєте команду `git status`, ви побачите зміни. Додайте ці зміни до гілки, яку ви тільки що створили, за допомогою команди `git add`:
+>>>>>>> upstream/master
 ```
 git add Contributors.md
 ```
@@ -76,6 +124,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 git push origin <add-your-name>
 ```
+<<<<<<< HEAD
 замініть `<add-your-name>` назвою вітки, яку ви створили раніше.
 
 ## Відправляємо зміни на перевірку
@@ -95,10 +144,32 @@ git push origin <add-your-name>
 ## Зберігаємо свій репозиторій синхронізованим
 
  Спочатку перейдіть на основну вітку.
+=======
+замініть `<add-your-name>` назвою гілки, яку ви створили раніше.
+
+## Відправляємо зміни на перевірку
+
+Коли ви перейдете до свого репозиторія в GitHub, ви побачите кнопку `Compare & pull request`. Сміливо натисніть на неї.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Тепер зміни відправлені на перевірку і затвердження.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+Скоро я об’єднаю ваші запропоновані зміни з основною гілкою цього репозиторія. Ви отримаєте листа, коли це буде зроблено.
+
+Основна гілка вашого репозиторія не буде змінена. Якщо ви хочете синхронізувати ваше відгалуження з моїм репозиторієм, слідуйте цієї інструкції.
+
+## Зберігаємо свій репозиторій синхронізованим
+
+ Спочатку перейдіть на основну гілку.
+>>>>>>> upstream/master
  ```
  git checkout master
  ```
 
+<<<<<<< HEAD
  Потім додаєм мій репозиторій як `upstream remote url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
@@ -149,3 +220,42 @@ git push origin --delete <add-your-name>
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+=======
+ Потім додайте мій репозиторій як `upstream remote url`:
+```
+git remote add upstream https://github.com/Roshanjossey/first-contributions
+```
+Таким чином ми повідомляємо git про те, що інша версія цього проєкту існує за визначеною адресою і ми називаєм це  `upstream`. Як тільки зміни будуть об’єднані, заберіть нову версію мого репозиторію:
+```
+git fetch upstream
+```
+Тобто ви забираєте всі зміни з мого репозиторію. Тепер ви повинні об’єднати зміни, які прийшли з мого репозиторію, в вашу основну гілку.
+```
+git rebase upstream/master
+```
+Цим ви приймаєте всі зміни до основної гілки. Якщо ви відправите зміни до GitHub, ваше відгалуження також буде містити ці зміни:
+```
+git push origin master
+```
+Зауважте, що ви відправляєте зміни до віддаленого репозиторія, який був названий `origin`.
+
+Тепер я об’єднав вашу гілку `<add-your-name>` з моєю основною гілкою, а ви об’єднали мою основну гілку зі своєю основною гілкою. Гілка, яку ви створювали для внесення змін, більше не потрібна. Ви можете видалити її:
+```
+git branch -d <add-your-name>
+```
+До того ж, ви можете видалити і її віддалену версію:
+```
+git push origin --delete <add-your-name>
+```
+Називати гілку в такий спосіб не обов’язково, однак це було зроблено з певною метою, аби показати призначення цієї гілки. Існування будь-якої гілки може бути коротким, адже врешті-решт, всі гілки об’єднуються з основною гілкою.
+
+## Інструкції для інших інструментів
+
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
+
+## Що далі?
+
+Ви можете приєднатися до нашої команди в Slack, якщо ви потребуєте будь-якої допомоги або маєте якісь запитання. [Приєднатися до команди в Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+>>>>>>> upstream/master
