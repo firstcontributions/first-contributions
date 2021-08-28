@@ -15,6 +15,7 @@
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Navneet Singh](https://github.com/navneet-28)
 - [Gareth Dawson](https://github.com/gwdawson)
+- [Nick Karamessinis](https://github.com/nikkaramessinis)
 - [Daniel Brooker] (https://github.com/dabrooke)
 - [Aastha Maingi] (https://github.com/amaingi99/)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
