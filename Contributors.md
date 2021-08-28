@@ -4159,6 +4159,7 @@
 - [Paul Kl](https://github.com/Paul-Kl01)
 - [Jasbir Raj rana](https://github.com/jasbirrajrana)
 - [Snigdha Shekhar](https://github.com/sshekhar1996)
+- [Fran Tovar](https://github.com/frantovar)
 - [Sanjana RP](https://github.com/sanjanarp)
 - [Shlok Kumar Kyal](https://github.com/skkyal)
 - [Ayse Nur Erdem](https://github.com/er-ay)
