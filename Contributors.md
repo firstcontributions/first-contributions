@@ -18,6 +18,7 @@
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
+- [Cao Toan Khoa](https://github.com/khoatcao)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Navneet Singh](https://github.com/navneet-28)
 - [Gareth Dawson](https://github.com/gwdawson)
