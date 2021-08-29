@@ -156,6 +156,7 @@
 - [Sameer](https://github.com/hey-sameer)
 - [Abdulbasit Gamoranao](https://github.com/kuyabasit)
 - [Harshmohan Kulkarni](https://github.com/harshmohan07)
+- [Yashraj Basan](https://github.com/yashrajb)
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
