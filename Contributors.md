@@ -13818,6 +13818,7 @@
 - [rmurali](https://github.com/rmurali/)
 - [thechip911](https://github.com/thechip911)
 - [alloevil](https://github.com/alloevil)
+- [ChaoticTangle](https://github.com/ChaoticTangle)
 - [mcabra](https://github.com/McAbra)
 - [CelticCaleb](https://github.com/CelticCaleb)
 - Vinay
