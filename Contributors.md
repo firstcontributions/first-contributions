@@ -2547,6 +2547,7 @@
 - [Devin O'Neal](https://github.com/ALASKAWARRIORS)
 - [Victor G.](https://github.com/WKstraw)
 - C.W.
+- Candace Keller Lewis
 - Sam
 - Japmeet Singh
 - Tarık Coşkun
