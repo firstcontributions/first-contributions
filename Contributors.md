@@ -15,6 +15,7 @@
 - [Danielle Kushnir] (https://github.com/daniellekush)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
+- [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [moses Oketch](https://github.com/moseoketch86)
 - [Viraj Nirbhavane](https://github.com/viraj28)
