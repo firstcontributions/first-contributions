@@ -115,6 +115,7 @@
 - [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
 - [SomStar](https://github.com/Somnath-swami)
+- [AShotOfCode]
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Zaheda Jafari](https://github.com/zackdaspy/)
