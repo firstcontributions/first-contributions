@@ -159,6 +159,7 @@
 - [Alyssa Alexander](https://github.com/alyssaalexander)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [AShotofCode]
+- yo!
 - [Prathamesh Mehare](https://github.com/mystic-one)
 - [Tanzeel Khan](https://github.com/tanzeyl)
 - [Kyin Edwards](https://github.com/KyinE1)
