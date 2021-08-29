@@ -1,8 +1,8 @@
 ﻿# Contributors
 - [Jason Zhu](https://github.com/JasonZhu95)
-- [Matthew Joyce](https://github.com/matthewJ1981)
-- [Firdaus Jawed](https://github.com/FirdausJawed)
+- [Matthew Joyce](https://github.com/matthewJ1981) 
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
+- [Firdaus Jawed](https://github.com/FirdausJawed)
 - [Tom Stinson](https://github.com/14tstinson)
 - [A Shot of Code](https://github.com/markjameshoward)
 - [Masoud Torkian](github.com/Giyumtell)
