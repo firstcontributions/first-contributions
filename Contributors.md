@@ -75,6 +75,7 @@
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
+- [Aniruddha Bag](https://github.com/aniruddhabag3)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
 - [sachin mittal](https://github.com/SachinMittal1766)
 - [Gibsonogram](https://github.com/Gibsonogram)
@@ -123,6 +124,7 @@
 - [Gottfried Owono] (https://github.com/Ge0ni)
 - [myo thant kyaw] (https://github.com/myothant88)
 - [Urvi Mitra] (https://github.com/urvimitra)
+- [Kartik Prajapat] (https://github.com/kartikpjpt)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
@@ -365,6 +367,7 @@
 - [Benrard Solien](https://github.com/bernardstuff)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
+- [MarkH]
 - [Abd](https://github.com/abd-ar)
 - [Martin Bozhinov](https://github.com/MartinBozhinov)
 - [BrotatoBoi](https://github.com/BrotatoBoi) ;p
