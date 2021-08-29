@@ -2,6 +2,7 @@
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
+- [A Shot of Code](https://github.com/markjameshoward)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
