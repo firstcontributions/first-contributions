@@ -169,6 +169,7 @@
 - [Sarthak Gupta](https://github.com/Sart-Hack)
 - [Heizal Nagginda](https://github.com/Heizal)
 - [Mark Howard](https://github.com/MarkJamesHoward)
+- [James Howard](https://githhub.com/MarkJamesHoward)
 - [ironsgold](https://github.com/ironsgold)
 - [Omar Mehmood](https://github.com/OmarMeh117)
 - [Carlos Martinez](https://github.com/carmarher)
