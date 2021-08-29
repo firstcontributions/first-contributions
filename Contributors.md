@@ -21,6 +21,7 @@
 - [Navneet Singh](https://github.com/navneet-28)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Nick Karamessinis](https://github.com/nikkaramessinis)
+- [Aniket Kumar](https://github.com/aniket-24)
 - [Daniel Brooker] (https://github.com/dabrooke)
 - [Aastha Maingi] (https://github.com/amaingi99/)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
