@@ -75,6 +75,7 @@
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
+- [Aniruddha Bag](https://github.com/aniruddhabag3)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
 - [sachin mittal](https://github.com/SachinMittal1766)
 - [Gibsonogram](https://github.com/Gibsonogram)
