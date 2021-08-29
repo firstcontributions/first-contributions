@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Gabriel Chammas](https://github.com/gchammas23)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
@@ -7,6 +8,7 @@
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
+  [Rishabh Jha](https://github.com/bruteF04C3)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Danielle Kushnir] (https://github.com/daniellekush)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
@@ -21,6 +23,7 @@
 - [Navneet Singh](https://github.com/navneet-28)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Nick Karamessinis](https://github.com/nikkaramessinis)
+- [Aniket Kumar](https://github.com/aniket-24)
 - [Daniel Brooker] (https://github.com/dabrooke)
 - [Aastha Maingi] (https://github.com/amaingi99/)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
@@ -76,12 +79,14 @@
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Atishay J](https://github.com/Atishay-J)
+- [Aniruddha Bag](https://github.com/aniruddhabag3)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
 - [sachin mittal](https://github.com/SachinMittal1766)
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Gracie Nguyen](https://github.com/cutiepurr)
 - [Heather Barton](https://github.com/CisnePHX)
+- [Apoorv Aggarwal](https://github.com/HackerApoorv)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Manoj](https://github.com/manojxk)
 - [Walter Galdamez](https://github.com/waltergaldamez)
@@ -114,6 +119,7 @@
 - [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
 - [SomStar](https://github.com/Somnath-swami)
+- [AShotOfCode]
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Zaheda Jafari](https://github.com/zackdaspy/)
@@ -124,6 +130,7 @@
 - [Gottfried Owono] (https://github.com/Ge0ni)
 - [myo thant kyaw] (https://github.com/myothant88)
 - [Urvi Mitra] (https://github.com/urvimitra)
+- [Kartik Prajapat] (https://github.com/kartikpjpt)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
@@ -366,6 +373,7 @@
 - [Benrard Solien](https://github.com/bernardstuff)
 - [Pemson](https://github.com/Pemson18)
 - [Takumi](https://github.com/tak-ka3)
+- [MarkH]
 - [Abd](https://github.com/abd-ar)
 - [Martin Bozhinov](https://github.com/MartinBozhinov)
 - [BrotatoBoi](https://github.com/BrotatoBoi) ;p
@@ -1126,6 +1134,7 @@
 - rjaquez
 - [Lorenz Beyer](https://github.com/beyerl/)
 - [Shruti]
+- [Johan Libert]
 - [Robbie Hamilton](https://github.com/RobHam99)
 - [Jesse White](https://github.com/JesseDWhite)
 - [Owen Strength](https://github.com/owenstrength)
@@ -5214,6 +5223,7 @@
 - [Parth Lawania](https://github.com/parthlaw)
 - May 2021
 - [Gerardo Ruiz Jr](https://github.com/gruiz78)
+- [Iftekhar Ahmed](https://github.com/Iftekhar-Ifat)
 - [Katie Cussans](https://github.com/Kat-lc)
 - [Amkit Podder](https://github.com/ANKITPODDER0211)
 - [Vyomaan Dave](https://github.com/VyomaanDave0711)
@@ -6048,6 +6058,7 @@
 - [YogeshNile](https://github.com/yogeshnile)
 - [Osher Zakin](https://github.com/osherz)
 - [Nikolaus Koopmann](https://github.com/PremKolar)
+- [Dishanth S Kumar](https://github.com/dishanthskumar)
 - [Mayur Giri](https://github.com/Mayur619)
 - [Arthur Sena](https://github.com/senaarth)
 - [Lee Wannacott](https://github.com/LeeWannacott)
@@ -13220,6 +13231,7 @@
 - [Andre Amaral](https://github.com/amdeca)
 - [Sun Cold](https://github.com/Sun-Cold)
 - [Jiaget](https://github.com/Jiaget)
+- [Nitu Kumari](https://github.com/U220053)
 - [Something Went Well](https://github.com/somethingwentwell)
 - [canntfly](https://github.com/canntfly)
 - [Yaswanthkumar Gothireddy](https://github.com/yaswanthkumargothi)
@@ -13828,3 +13840,6 @@
 - [Andrey Firsov](https://github.com/avfirsov)
 - [Richard Ormiston](https://github.com/rjormiston)
 - [jaabberwocky](https://github.com/jaabberwocky)
+- [jaabberwocky](https://github.com/jaabberwocky)
+- [victorquanlam](https://github.com/victorquanlam)
+- [namekosiru](https://github.com/namekosiru)
