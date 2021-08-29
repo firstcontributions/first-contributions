@@ -123,6 +123,7 @@
 - [Gottfried Owono] (https://github.com/Ge0ni)
 - [myo thant kyaw] (https://github.com/myothant88)
 - [Urvi Mitra] (https://github.com/urvimitra)
+- [Kartik Prajapat] (https://github.com/kartikpjpt)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
