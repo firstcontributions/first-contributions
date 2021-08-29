@@ -1,0 +1,20 @@
+{
+  "name": "first-contributions",
+  "version": "1.0.0",
+  "description": "[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)\r [<img align=\"right\" width=\"150\" src=\"https://firstcontributions.github.io/assets/Readme/join-slack-team.png\">](https://join.slack.com/t/firstcontributors/shared_invite/zt-mog68oas-dFnCPhZzJMd9A9dboJhi2g)\r [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)\r [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)\r #",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirdausJawed/first-contributions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FirdausJawed/first-contributions/issues"
+  },
+  "homepage": "https://github.com/FirdausJawed/first-contributions#readme"
+}
