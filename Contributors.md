@@ -194,6 +194,7 @@
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Nae Sebastian](https://github.com/SheepSeb)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
+- [Maxi Chiale](https://github.com/maxichiale)
 - [Pedro Cisternas](https://github.com/pedrocisternas)
 - [Abdulla09](https://github.com/Abdulla09)
 - [Temitope Agbaje](https://github.com/TemitopeAgbaje)
