@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Matthew Joyce](https://github.com/matthewJ1981)
