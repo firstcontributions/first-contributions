@@ -2000,6 +2000,7 @@
 - [Jesse Wright](https://github.com/inkslob)
 - [Chandrakant Pal](https://github.com/ChandrakantPal)
 - [Austen Lindsay](https://github.com/Aut0Matic)
+- [Rohan Ravindran](https://github.com/rohanrav)
 - [João Victor](https://github.com/joaovictor3g)
 - [Scott Pettyjohn](https://github.com/scottpettyjohn)
 - [Theddy Luna](https://github.com/tluna) ⊂(◉‿◉)つ
