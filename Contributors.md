@@ -24,6 +24,7 @@
 - [moses Oketch](https://github.com/moseoketch86)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Ankur Patil](https://github.com/ankur12-1610)
+- [Shreeraj Vijay Bhamare](https://github.com/shreerajbhamare)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Navneet Singh](https://github.com/navneet-28)
