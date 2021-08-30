@@ -2358,6 +2358,7 @@
 - Bern
 - [Hakan](https://github.com/hakanoo)
 - [Peter Ime](https://github.com/PeroHub)
+- [Christin Mugisha](https://github.com/Cr7mlc/)
 - Koua Thao
 - [Savio Magalhaes Fernandes](https://github.com/Oivasmf)
 - [Kaliappan Yadav](https://github.com/kaliappan01)
