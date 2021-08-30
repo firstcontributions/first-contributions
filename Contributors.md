@@ -1040,7 +1040,6 @@
 - Camilo Chaves
 - Diana LaScala-Gruenewald
 - pretzel.wav
-- Khoa Carlos
 - YiCheng Chung
 - Kevin Lai
 - daltva
