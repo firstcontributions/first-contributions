@@ -6,6 +6,7 @@
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
+- [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [A Shot of Code](https://github.com/markjameshoward)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
