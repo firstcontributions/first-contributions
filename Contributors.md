@@ -717,6 +717,7 @@
 - [Hubert Życiński](https://github.com/Sniqs)
 - [Jadwin Lin](https://github.com/JadwinL12)
 - [Evan Chambers](https://github.com/EChamb1021)
+- naveen1337
 - [Fran Bejarano](https://github.com/FranBejarano)
 - [Johnny Zheng](https://github.com/yzhe819)💖
 - [MShahryiar](https://github.com/MShahryiar)
