@@ -28,6 +28,7 @@
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Shreeraj Vijay Bhamare](https://github.com/shreerajbhamare)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
+- [Cao Toan Khoa](https://github.com/khoatcao)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Navneet Singh](https://github.com/navneet-28)
 - [aweliego](https://github.com/aweliego)
