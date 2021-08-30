@@ -18,6 +18,7 @@
 - [Danielle Kushnir] (https://github.com/daniellekush)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
+- [John Gilpin](https://github.com/jgilpn)
 - [Yoko Saka](https://github.com/yocosaka)
 - [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
