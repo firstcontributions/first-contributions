@@ -264,6 +264,7 @@
 - [Luciano Zangeronimo](https://github.com/zangeronimo)
 - [Andre Diofanu](https://github.com/andrediofanu)
 - [Adrianne Sebastian](https://github.com/arcsbstn)
+- [David Rosas](https://github.com/drosaslin)
 - [Albert Au-Yeung][https://github.com/armandoff91]
 - [Niranjan Girhe][https://github.com/niranjangirhe]
 - [Chandan H](https://github.com/Chandan-h-509)
