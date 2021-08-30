@@ -13870,6 +13870,7 @@
 - [Andrey Firsov](https://github.com/avfirsov)
 - [Richard Ormiston](https://github.com/rjormiston)
 - [jaabberwocky](https://github.com/jaabberwocky)
+- [Amol Kadam](https://github.com/101amolkadam)
 - [victorquanlam](https://github.com/victorquanlam)
 - [namekosiru](https://github.com/namekosiru)
 - [Manish Kasera](https://github.com/Manish-kasera)
