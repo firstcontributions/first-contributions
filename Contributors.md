@@ -40,6 +40,7 @@
 - [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
+- [Carlos Monge](https://github.com/Cmonge135)
 - [Pratik Anand](https://github.com/pratik8696)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
