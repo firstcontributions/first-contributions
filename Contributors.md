@@ -121,6 +121,7 @@
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
 - [Kaushik Sai Kadali](https://github.com/kaushiksai29)
+- [Ashish Shroti](https://github.com/ashishshroti14)
 - [Om Parshar](https://github.com/orashar)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Manny Alfaro](https://github.com/Mannyalfa)
