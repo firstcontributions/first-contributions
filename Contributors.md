@@ -1707,6 +1707,7 @@
 - [Nshimiye Emmy](https://github.com/nshimiyeemmy)
 - [Ajay Varma](https://github.com/ajay28varma)
 - [Victor Mendez](https://github.com/VMMF)
+- [Euan Hume](https://github.com/euanhume)
 - [Srajan Seth](https://github.com/srajanseth84)
 - Sai Prahas
 - [Wendell Hatcher](https://github.com/whatcher1074)
