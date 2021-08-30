@@ -8387,6 +8387,7 @@
 - [trashgod](https://github.com/trashgod)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
+- [Ritodeep Sikdar](https://github.com/rsikdar213)
 - [Joel Milligan](https://github.com/Joel-Milligan)
 - [Nikita Agrawal](https://github.com/nikita20172093)
 - [Tiago Perdigão](https://github.com/TiagoPerdigao1983)
