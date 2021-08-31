@@ -16,6 +16,7 @@
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
+- [Krishna Prakash](https://github.com/KrishnaPrakash650)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Danielle Kushnir] (https://github.com/daniellekush)
