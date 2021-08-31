@@ -10708,6 +10708,7 @@
 - [Samuel Scott](https://github.com/SamuelScotts)
 - [Nelyanne V](https://github.com/nelyanne-v)
 - [Mark Holcomb](https://github.com/Marknoodle)
+- [Sanyam Suthar](https://github.com/sanyams0007)
 - [Liina Adamson](https://github.com/LiinaAd)
 - [Rushabh Sancheti](https://github.com/Rushabh2397)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
