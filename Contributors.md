@@ -27,6 +27,7 @@
 - [Benjamin Renker ] (https://github.com/Benjamin-Re)
 - [Yoko Saka](https://github.com/yocosaka)
 - [Akash Jaiswal](https://github.com/jaiakash)
+- [AJ Diaz](https://github.com/alexanderjessediaz)
 - [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Ujwal Kotla](https://github.com/ujwal49)
