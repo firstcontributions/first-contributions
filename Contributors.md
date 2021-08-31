@@ -26,6 +26,7 @@
 - [John Gilpin](https://github.com/jgilpn)
 - [Benjamin Renker ] (https://github.com/Benjamin-Re)
 - [Yoko Saka](https://github.com/yocosaka)
+- [Akash Jaiswal](https://github.com/jaiakash)
 - [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Ujwal Kotla](https://github.com/ujwal49)
