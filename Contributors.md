@@ -8,6 +8,7 @@
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
+- [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Kennard Lim]
 - [A Shot of Code](https://github.com/markjameshoward)
