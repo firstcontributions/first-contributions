@@ -13870,6 +13870,7 @@
 - [mcabra](https://github.com/McAbra)
 - [CelticCaleb](https://github.com/CelticCaleb)
 - Vinay
+- Tess Snyder
 - [Yan Shi](https://github.com/shiiyan)
 - [Cringedo](https://github.com/Cringedo)
 - [Andrea](https://github.com/andrearagazzii)
