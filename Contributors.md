@@ -12,6 +12,7 @@
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Kennard Lim]
 - [A Shot of Code](https://github.com/markjameshoward)
+  [Puneet Dabral](https://github.com/PuneetDabral)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
