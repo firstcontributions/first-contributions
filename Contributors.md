@@ -5,6 +5,7 @@
 - [Tom Stinson](https://github.com/14tstinson)
 - [A Shot of Code](https://github.com/markjameshoward)
 - [Masoud Torkian](github.com/Giyumtell)
+- [Aditya Abhinav](github.com/aditya1abhinav)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Albino Cianciotti](https://github.com/albino98)
   [Rishabh Jha](https://github.com/bruteF04C3)
