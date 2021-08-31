@@ -7774,6 +7774,7 @@
 - [S. Dotan](https://github.com/shardel23)
 - [Mark Forsyth](https://github.com/SkeletalWaffles)
 - [dumbitdownjr](https://github.com/dumbitdownjr)
+- soeun
 - [zoe](https://github.com/quicksilversel)
 - [Lewis Keech](https://github.com/Lewizard98)
 - [Mike Karl](https://github.com/GoranSalzmann)
