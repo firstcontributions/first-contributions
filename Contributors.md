@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Gabriel Chammas](https://github.com/gchammas23)
@@ -28,6 +28,7 @@
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Aniket Saha](https://github.com/anikets349)
+- [Ciaran Rogers](https://github.com/CiaranRogers88)
 - [Shreeraj Vijay Bhamare](https://github.com/shreerajbhamare)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
 - [Cao Toan Khoa](https://github.com/khoatcao)
