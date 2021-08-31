@@ -66,6 +66,7 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
+<kbd>[<img title="Bharat" alt="Bharat" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg" width="22">](translations/README.bih.md)</kbd>
 # 
 
 # First Contributions
