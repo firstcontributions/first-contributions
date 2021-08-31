@@ -13799,7 +13799,6 @@
 - [alloevil](https://github.com/alloevil)
 - [mcabra](https://github.com/McAbra)
 - [Suvarna Pattayil - SuvP ](https://github.com/VusP)
-- [Louise Nielsen] (https://github.com/loui59f1)
 - [CelticCaleb](https://github.com/CelticCaleb)
 - Vinay
 - [Yan Shi](https://github.com/shiiyan)
