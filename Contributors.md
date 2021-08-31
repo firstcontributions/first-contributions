@@ -13619,6 +13619,7 @@
 - [Danrlei Dal Fré](https://github.com/danrleidalfre)
 - [Jeferson Cardoso](https://github.com/git-cardoso)
 - [Xing Yang](https://github.com/xy1989)
+- [huanghao9015] (https://github.com/huanghao9015)
 - [Ahmetcan Aksu](https://github.com/ahmtcn123)
 - [Joshua Clark](https://github.com/joshuaRC02)
 - [Fabian Stichtenoth](https://github.com/Fabian5896)
