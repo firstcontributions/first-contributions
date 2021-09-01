@@ -230,6 +230,7 @@
 - [Ajay yadav](https://github.com/AjayYadavAi)
 - [Thanos Dimitriades](https://github.com/thanosades)
 - [ASHUTOSH KUMAR CHOUDHARY]}:)))(https://github.com/Ash-KODES)
+- [Huu Hoang Duong Nguyen](https://github.com/Edmond48)
 - [Anisha Shruti](https://github.com/anishashruti)
 - [Taejin Jung](https://github.com/taejin5314)
 - [Aayush Yadav](https://github.com/aayushhyadav)
