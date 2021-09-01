@@ -12,6 +12,7 @@
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Kennard Lim]
+- [Hara] (https://github.com/hhara21)
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [Pengfei Liu]
