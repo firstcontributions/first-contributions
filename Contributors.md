@@ -2,6 +2,7 @@
 
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Gabriel Chammas](https://github.com/gchammas23)
+- [Asim Delvi](https://github.com/asimdelvi)
 - [Max Sauer](https://github.com/mjs2011)
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Jason Zhu](https://github.com/JasonZhu95)
@@ -13887,7 +13888,7 @@
 - [Gianluca Tagliente] (https://github.com/gtagliente)
 -[R-ohit-B-ishit] ([200~https://github.com/R-ohit-B-isht])
 - [sumit] (https://github.com/dafunkt)
-  [Haitham Shaaban] (https://github/haithamsha/) 	
+  [Haitham Shaaban] (https://github/haithamsha/)
 - [Souhardya Ganguly](https://github.com/Souhardya-Ganguly)
 -[zeel-codder](https://github.com/zeel-codder)
 -[Abhijit Paul](https://github.com/abj-paul)
