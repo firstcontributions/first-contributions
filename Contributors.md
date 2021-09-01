@@ -13,6 +13,7 @@
 - [Tom Stinson](https://github.com/14tstinson)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
+- [Tsahi Edri] (https://github.com/tsahiedri)
 - [Kennard Lim]
 - [Hara] (https://github.com/hhara21)
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
