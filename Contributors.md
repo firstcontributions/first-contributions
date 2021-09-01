@@ -98,6 +98,7 @@
 - [Divyansh Bhadauria](https://github.com/divo12)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
 - [Matthias Marusczyk](https://github.com/marou125)
+- [Mikegoat1](https://github.com/mikegoat1)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Mariana Xavier](https://github.com/marianaxrp)
 - [Gauravkhetwal](https://github.com/Gauravkhetwal)
