@@ -11,6 +11,7 @@
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Kennard Lim]
+- [Abhishek Ranjan] (https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [A Shot of Code](https://github.com/markjameshoward)
   [Puneet Dabral](https://github.com/PuneetDabral)
