@@ -762,6 +762,7 @@
 - [Peter Staker](https://github.com/peterjast)
 - [shrey](https://github.com/shreyanshsinghuno)
 - [Gokul Balaji](https://github.com/gokulBalaG)
+- [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [Salty]
 - [Shruti Shetty](https://github.com/ShrutiShetty10)
 - [Gaurav Bansal](https://github.com//gauravb28)
