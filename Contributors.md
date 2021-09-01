@@ -23,6 +23,7 @@
   [Puneet Dabral](https://github.com/PuneetDabral)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
+- [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
