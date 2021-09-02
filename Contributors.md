@@ -7,6 +7,7 @@
 - [Rumas](https://github.com/Rumas97)
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
 - [jfjini11](https://github.com/jjini11)
+- [blautista](https://github.com/blautista)
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
 - [Deepak kumar T](https://github.com/DeepakTMD)
 - [Md Monayem Islam](https://monayemislam.github.io/)
