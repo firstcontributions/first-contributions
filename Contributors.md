@@ -3616,6 +3616,7 @@
 - [Linusaltacc](https://github.com/linusaltacc)
 - [Jenny Pyle](https://github.com/jenpyle)
 - Ajay Krishna
+- [Manikandan](https://github.com/manismk)
 - [Stephen Noh](https://github.com/StephenNoh)
 - [Akash Purushotham](https://github.com/itsakashp)
 - [Preetham Pathi](https://github.com/preethampathi2305)
