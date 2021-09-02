@@ -6998,6 +6998,7 @@
 - [Kartheekasasanka kaipa](https://github.com/karthikasasanka)
 - [Brian Prince](https://github.com/bcp2415)
 - [Fotie M. Constant](https://github.com/FotieMConstant)
+- [Alexey Luhinin](https://github.com/alexey-luhinin)
 - [Gayathri Natarajan](https://github.com/gayathri0329/)
 - [Rishabh Sharma](https://github.com/rishiar4)
 - [Miller Adams](https://github.com/TacSponge)
