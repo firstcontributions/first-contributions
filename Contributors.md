@@ -37,6 +37,7 @@
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
 - [John Gilpin](https://github.com/jgilpn)
+- [Ankan Bhaumik](https://github.com/bhaumikankan)
 - [Benjamin Renker ] (https://github.com/Benjamin-Re)
 - [Yoko Saka](https://github.com/yocosaka)
 - [Akash Jaiswal](https://github.com/jaiakash)
