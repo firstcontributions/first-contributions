@@ -16,6 +16,7 @@
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
+- [Ipsita Goel](https://github.com/ipsitagoel)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Tsahi Edri] (https://github.com/tsahiedri)
