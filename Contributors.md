@@ -13542,6 +13542,7 @@
 - [KINGeorge](http://github.com/YuBaichuan2000)
 - [thaliajuarez](https://github.com/thaliajuarez)
 - [Damian Tomalka](https://github.com/damian-tomalka)
+- [Ritu-Singh](https://github.com/RituSingh2002)
 - [Tyler Johnson](https://github.com/TJohnson986)
 - [Anthony Lopez](https://github.com/GrungeKarma)
 - [Rathijit Paul](https://github.com/rathijitpapon)
