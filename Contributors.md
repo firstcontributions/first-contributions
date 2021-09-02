@@ -23,6 +23,7 @@
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Tsahi Edri] (https://github.com/tsahiedri)
 - [Kennard Lim]
+- [Ciara Giron] (https://github.com/cjgiron)
 - [Hara] (https://github.com/hhara21)
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
