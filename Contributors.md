@@ -96,6 +96,7 @@
 - [Ernest Sebastian](https://github.com/Xebastian)
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
 - [jfjini11](https://github.com/jjini11)
+- [blautista](https://github.com/blautista)
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
 - [Sanjana P](https://github.com/coder-246try)
 - [Prosper Atu](https://github.com/prosper74)
