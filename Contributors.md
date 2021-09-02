@@ -18,6 +18,7 @@
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Ipsita Goel](https://github.com/ipsitagoel)
+- [Nabeel Ahmed Khan] (https://github.com/NabeelAhmed314)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Tsahi Edri] (https://github.com/tsahiedri)
