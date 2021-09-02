@@ -24,6 +24,7 @@
 - [A Shot of Code](https://github.com/markjameshoward)
   [Puneet Dabral](https://github.com/PuneetDabral)
 - [Masoud Torkian](github.com/Giyumtell)
+- [Ian Onyango](https://github.com/ian-yitzhak)
 - [Krishna Sahani](https://github.com/krishna0303)
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
