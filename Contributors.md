@@ -5,6 +5,7 @@
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Max Sauer](https://github.com/mjs2011)
 - [Naftoli Ost](https://github.com/naftoliost)
+- [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
