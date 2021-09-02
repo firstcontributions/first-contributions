@@ -23,6 +23,7 @@
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [Pengfei Liu]
+  [KamiZer0](https://github.com/KamiZer0)
 - [A Shot of Code](https://github.com/markjameshoward)
   [Puneet Dabral](https://github.com/PuneetDabral)
 - [Masoud Torkian](github.com/Giyumtell)
