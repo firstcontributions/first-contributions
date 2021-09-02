@@ -10,7 +10,9 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-आपमन  के कंप्यूटर म  Git नहीं हे  त, [एला स्थापित करौ](https://help.github.com/articles/set-up-git/)
+*ये कमांड लाइन आप मन ला नई रुचत होही त, [ग्राफिकल यूजर इंटरफ़ेस (GUI) ल बउरे बर ट्यूटोरियल ले देख सकत हव](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools) |*
+
+**आपमन  के कंप्यूटर म  Git नहीं हे  त, [एला स्थापित करौ](https://help.github.com/articles/set-up-git/) |**
 
 ## रिपॉज़िटरी ल फॉर्क करे बर
 
