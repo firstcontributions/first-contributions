@@ -13942,3 +13942,4 @@
 - [lumunge] (https://github.com/lumunge)
 - [Balaji PJ](https://github.com/dystopiadroid)
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
+- [David Bomard](https://github.com/dbomard)
