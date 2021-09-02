@@ -1291,6 +1291,7 @@
 - [Stephano Hernandez](https://github.com/StephanoAH)
 - [Santiago Rhenals](https://github.com/srLitem)
 - [Rahul V ](rahulv07)
+- [Tereck Morales] http://github.com/tereck23)
 - [Erik Grivalsky](https://www.erikgrivalsky.com)
 - [erik vega](https://www.github.com/erikvega)
 - [lyine](https://github.com/lyineee)
