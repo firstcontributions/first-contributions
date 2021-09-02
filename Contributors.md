@@ -2,6 +2,7 @@
 
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Seb Snr](https://github.com/Sebsnr)
+- [Bhavesh Mishra](https://github.com/thefool76)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Max Sauer](https://github.com/mjs2011)
