@@ -8,6 +8,7 @@
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Max Sauer](https://github.com/mjs2011)
+- [Jackie Ye](https://github.com/JackieYe27)
 - [Naftoli Ost](https://github.com/naftoliost)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
