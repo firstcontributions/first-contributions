@@ -16,6 +16,7 @@
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
 - [Hefny](https://github.com/mahmoud1brahim)
+- [Elie Zgheib](https://github.com/ElieZgb)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
