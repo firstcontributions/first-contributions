@@ -32,6 +32,7 @@
 - [Marcello Pignata](https://github.com/MarcelloPignata)
 - [Kennard Lim]
 - [Ciara Giron] (https://github.com/cjgiron)
+- [Maaz Muhammad] (https://github.com/maaz997)
 - [Hara] (https://github.com/hhara21)
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
