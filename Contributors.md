@@ -8886,6 +8886,7 @@
 - [qjx](https://github.com/404notfoundqjx)
 - [Hadeel bader](https://github.com/hadeelbader)
 - [TheCoolCrab](https://github.com/thecoolcrab)
+David Carter
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
 - [Jose Enrico Maxino](https://github.com/Jokomaxino)
