@@ -13948,4 +13948,5 @@
 - [lumunge] (https://github.com/lumunge)
 - [Balaji PJ](https://github.com/dystopiadroid)
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
+- [Jerome Flores](https://github.com/jeromefloresss)
 - [David Bomard](https://github.com/dbomard)
