@@ -11,6 +11,7 @@
 - [Anupreet Singh](https://github.com/realanupreet)
 - [Jackie Ye](https://github.com/JackieYe27)
 - [Naftoli Ost](https://github.com/naftoliost)
+- [Rukundo Kevin](https://github.com/rukundo-kevin)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
 - [Hefny](https://github.com/mahmoud1brahim)
