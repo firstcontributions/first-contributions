@@ -5917,6 +5917,7 @@
 - [Cornelia Johnson]()
 - [Mateusz Ostrowski]
 - [César Escudero](https://github.com/cedaesca)
+- [Beauty Popoola](https://github.com/beorel)
 - [Mark Syrzysko](https://github.com/WolfWeasel)
 - [Tejesh Itha](https://github.com/ivsntejesh)
 - [Iulian Caleanu](https://github.com/DayOne723)
