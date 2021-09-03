@@ -1,6 +1,7 @@
 # Contributors
 
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
+- [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Douglas Ede](https://github.com/Douglas4739)
 - [Ankit Gupta](https://github.com/ankit-95)
