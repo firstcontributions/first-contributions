@@ -13941,6 +13941,7 @@
 - [Harshita-Kohli] (https://github.com/Harshita-Kohli/)
 - [Dingjn] (https://github.com/dingjn99/)
 - [Sumesh B.K.](https://github.com/sumo42)
+- [Albert Perez] (https://github.com/albperezz)
 - [Damian Kuras](https://github.com/DamianKuras)
 - [bestcondition](https://github.com/bestcondition)
 - [Jarek Hry](https://github.com/akcer)
@@ -13949,4 +13950,3 @@
 - [Balaji PJ](https://github.com/dystopiadroid)
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
 - [David Bomard](https://github.com/dbomard)
-- [Albert Perez] (https://github.com/albperezz)
