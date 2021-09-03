@@ -151,6 +151,7 @@
 - [Walter Galdamez](https://github.com/waltergaldamez)
 - [Siddharth Singh](https://github.com/SiddyDevelops)
 - [NeuroTypicalCure](https://github.com/NeuroTypicalCure)
+- [Ryan Demboski](https://github.com/rdemboski)
 - [Saeed Esmaeelinejad](https://github.com/SaeedEsmaeelinejad)
 - [Prateek Singh] (https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
