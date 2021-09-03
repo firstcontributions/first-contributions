@@ -341,6 +341,7 @@
 - [Alex Herrera](https://github.com/monkeylunchbreak)
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [Chetana]
+- [Fnechz] (https://github.com/Fnechz)
 - [Kiriti](https://github.com/GVS-Kiriti)
 - [Khalil](https://github.com/khalil1233)
 - [Alain Sagna](https://github.com/alphilippo)
@@ -423,6 +424,7 @@
 - [Charles Kasasira](https://github.com/charleskasasira)
 - Megan P.
 - Dhananjay gavali
+- Fnechz
 - [Taran](https://github.com)
 - [Lipika Debnath](https://github.com/lipika19)
 - [Vikas](https://github.com/vikasdabhi)
