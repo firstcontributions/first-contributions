@@ -29,6 +29,7 @@
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
 - [Tsahi Edri] (https://github.com/tsahiedri)
+- [Marcello Pignata](https://github.com/MarcelloPignata)
 - [Kennard Lim]
 - [Ciara Giron] (https://github.com/cjgiron)
 - [Hara] (https://github.com/hhara21)
