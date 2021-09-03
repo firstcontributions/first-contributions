@@ -817,6 +817,7 @@
 - [acs237](https://github.com/acs237)
 - [Moonsung](https://github.com/MoonsungJeong)
 - [Sai Goud](https://github.com/saigoud25)
+- [HenryPortin](https://github.com/HenryPortin)
 - [Yash Yenugu](https://github.com/yashyenugu)
 - [Soham Roy](https://github.com/sohamroy19)
 - [Mohammad Iskandarani](https://github.com/M7mdisk)
@@ -845,7 +846,7 @@
 - [Akash Behara](https://github.com/akashGHOST)
 - [Swetha Lakshme S](https://github.com/SwethaLakshme)
 - [Tim Krash](https://github.com/TimKrash)
-- [Varun Patodia](https://github.com/vrun1208)
+- [Varun Patodia](https://github.com/vrun1208)X
 - [Igor Volchenok](https://github.com/volchenokib/)
 - [R7G2](https://github.com/R7G5)
 - [Riad Guliyev](https://github.com/R7G5)
