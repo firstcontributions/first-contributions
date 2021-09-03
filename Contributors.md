@@ -3,6 +3,7 @@
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Douglas Ede](https://github.com/Douglas4739)
+- [Aravinth Mathan (https://github.com/amathan)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Hridoy Das](https://github.com/Hridoy-Das9)
 - [Gabriel Chammas](https://github.com/gchammas23)
