@@ -8,6 +8,7 @@
 - [Seb Snr](https://github.com/Sebsnr)
 - [Douglas Ede](https://github.com/Douglas4739)
 - [Ankit Gupta](https://github.com/ankit-95)
+- [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Hridoy Das](https://github.com/Hridoy-Das9)
 - [Rachana Singh](https://github.com/rachana-singh27)
