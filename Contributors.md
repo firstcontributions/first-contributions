@@ -13981,3 +13981,4 @@ David Carter
 - [SaMs-Hub](https://github.com/SaMs-Hub)
 - [Rutar Andriy](https://github.com/RutarAndriy)
 - [Arnold Ho](https://github.com/arnoldboy123)
+- [Allan Paul Rosero](https://github.com/allanrosero)
