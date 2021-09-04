@@ -10,6 +10,7 @@
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Hridoy Das](https://github.com/Hridoy-Das9)
+- [Rachana Singh](https://github.com/rachana-singh27)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Saksham Singh](https://github.com/sakssingh)
