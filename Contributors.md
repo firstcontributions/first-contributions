@@ -18,6 +18,7 @@
 - [Rukundo Kevin](https://github.com/rukundo-kevin)
 - [Nakul Londhe](https://github.com/nakullondhe)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
+- [John C. Lee](https://github.com/SpaceDA)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Elie Zgheib](https://github.com/ElieZgb)
