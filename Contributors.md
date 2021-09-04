@@ -13970,6 +13970,7 @@
 - [Naman Girdhar](https://github.com/namangirdhar16)
 - [lumunge] (https://github.com/lumunge)
 - [Balaji PJ](https://github.com/dystopiadroid)
+- [Kenji Miyashiro] (https://github.com/SashimiBites)
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
 - [Jerome Flores](https://github.com/jeromefloresss)
 - [David Bomard](https://github.com/dbomard)
