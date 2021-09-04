@@ -4,6 +4,7 @@
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
+- [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Douglas Ede](https://github.com/Douglas4739)
 - [Ankit Gupta](https://github.com/ankit-95)
