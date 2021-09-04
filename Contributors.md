@@ -136,6 +136,7 @@
 - [Rachel Fabrigar](https://github.com/chengalore)
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Fausta Abimanyu](https://github.com/faustabmnyh)
+- [Rohit Rajvaidya](https://github.com/Rohitcode25)
 - [Jesse Tingle](https://github.com/Jesse-Tingle)
 - [Harsh Soni](https://github.com/hashfx)
 - [Diveshan](https://github.com/Dive1995)
