@@ -5789,6 +5789,7 @@
 - [Devansh Thapa](https://github.com/devansh1903)
 - [Ansh Mishra](https://github.com/theanshm)
 - [Gaurav Pandey](https://github.com/GauravPandey892)
+- [Tim Tran](https://github.com/tim-tran)
 - [Ankit Kumar Singh](https://github.com/Ankitz007)
 - [Ryan Jin](https://github.com/R-Jin)
 - [Syed Affan](https://github.com/affan880)
