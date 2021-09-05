@@ -60,6 +60,7 @@
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
+- [xsthetic](https://github.com/xsthetic)
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
 - [Florian Edemessi](https://github.com/nair0lf32)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
