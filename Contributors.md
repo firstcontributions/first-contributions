@@ -335,6 +335,7 @@
 - [Mayur S Chittaragi](https://github.com/MayurSChittaragi)
 - [Aman-\_-](https://github.com/AmanKJ)
 - [Saad Irfan](http://github.com/msaaddev)
+- Wooseong Shin(https://github.com/NewDominance)
 - [Emrich-Michael Perrier](https://github.com/emrichmp)
 - [masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
