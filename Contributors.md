@@ -39,6 +39,7 @@
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
+- [Melissa Coates] (https://github.com/mecoat/)
 - [Ipsita Goel](https://github.com/ipsitagoel)
 - [Nabeel Ahmed Khan] (https://github.com/NabeelAhmed314)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
