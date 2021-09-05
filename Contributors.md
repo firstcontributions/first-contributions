@@ -85,6 +85,7 @@
 - [moses Oketch](https://github.com/moseoketch86)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Mohammad Shakib](https://github.com/mo-shakib)
+- [OptimChain](https://github.com/OptimChain)
 - [Cheong Lau](https://github.com/cmrss2)
 - [Ankur Patil](https://github.com/ankur12-1610)
 - [Aniket Saha](https://github.com/anikets349)
