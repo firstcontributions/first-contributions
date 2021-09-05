@@ -10,6 +10,7 @@
 - [Seb Snr](https://github.com/Sebsnr)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
 - [Douglas Ede](https://github.com/Douglas4739)
+  [Henry Crossley](https://github.com/crossh2001)
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
 - [Bhavesh Mishra](https://github.com/thefool76)
