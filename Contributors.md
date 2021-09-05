@@ -63,6 +63,7 @@
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
+- [Dharmesh Upadhyay](https://github.com/itsdharmxd)
 - [xsthetic](https://github.com/xsthetic)
 - [Sonu Kumar
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
