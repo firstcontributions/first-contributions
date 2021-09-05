@@ -17,6 +17,7 @@
 - [Frank Minichiello](https://github.com/fmini)
 - [Mir Abrar Ahmed]
 - [Hridoy Das](https://github.com/Hridoy-Das9)
+- [Yubraj Karki] (https://github.com/Yubraj-Karki)
 - [Rachana Singh](https://github.com/rachana-singh27)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Asim Delvi](https://github.com/asimdelvi)
