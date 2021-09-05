@@ -234,6 +234,7 @@
 - [Andy-Ngo] (https://github.com/robertlewan/)
 - [Andrei Sava] (https://github.com/andreisavawebdev)
 - [Gemma Draper](https://github.com/gemma-draper/)
+- [Joseph Schultz] (https://github.com/cuppajoey)
 - [sololabs](https://github.com/sololabs)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
