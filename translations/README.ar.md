@@ -25,10 +25,10 @@
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
-## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+## <div dir="rtl"> شق هذا المشروع - Fork this Repository </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
-افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
+شق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
 </div>
 
@@ -42,7 +42,7 @@
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح الطرفية واكتب الأمر التالي:
+افتح سطر الأوامر واكتب الأمر التالي:
 </div>
 
 ```
