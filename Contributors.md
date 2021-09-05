@@ -3,6 +3,7 @@
 - [Nada Hussein](https://github.com/nadah09)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
+- [sunzida311](https://github.com/sunzida311)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
