@@ -13856,6 +13856,7 @@
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
 - [Alexis Mendez](https://github.com/amendezm)
+- [Subliminal_Guy] (https://github.com/SubliminalGuy)
 - [Xiao Wei](https://github.com/tempxiaowei) 🐱‍🐉
 - [Ko Miyatake](https://github.com/kome12)
 - [Melody Yun](https://github.com/caramelmelmel)
@@ -14004,3 +14005,4 @@
 - [Grim](https://github.com/Expellma/)
 - [Edvcel](https://github.com/edvcel)
 - [Active Terminator] (https://github.com/active-terminator)
+
