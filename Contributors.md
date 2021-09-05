@@ -1,5 +1,6 @@
 # Contributors
 
+- [sunzida311](https://github.com/sunzida311)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
