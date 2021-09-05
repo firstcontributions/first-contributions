@@ -13980,6 +13980,7 @@
 - [Kenji Miyashiro] (https://github.com/SashimiBites)
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
 - [Jerome Flores](https://github.com/jeromefloresss)
+- [Ian Peter Larrauri Lastimosa](https://github.com/LastimosaPeter)
 - [David Bomard](https://github.com/dbomard)
 - [John Lesaba](https://github.com/jlesaba)
   -.[Samantha De Las Nieves](https://github.com/sdelasnieves)
