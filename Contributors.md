@@ -15,6 +15,7 @@
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Frank Minichiello](https://github.com/fmini)
+- [Mir Abrar Ahmed]
 - [Hridoy Das](https://github.com/Hridoy-Das9)
 - [Rachana Singh](https://github.com/rachana-singh27)
 - [Gabriel Chammas](https://github.com/gchammas23)
