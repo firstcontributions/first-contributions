@@ -1065,6 +1065,7 @@
 - [Naimur Rahman](https://github.com/naimprog)
 - [KMZ](https://github.com/KMZ416)
 - [Tomáš Šmelko](https://github.com/TSmelko)
+- [Macko939](https://github.com/Macko939)
 - [TSW](https://github.com/ThantSinWin)
 - Matt
 - [Yash Chaudhari](https://github.com/Yash-C-330)
