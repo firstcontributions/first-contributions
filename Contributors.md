@@ -13990,7 +13990,7 @@
 - [Ian Peter Larrauri Lastimosa](https://github.com/LastimosaPeter)
 - [David Bomard](https://github.com/dbomard)
 - [John Lesaba](https://github.com/jlesaba)
-  -.[Samantha De Las Nieves](https://github.com/sdelasnieves)
+-.[Samantha De Las Nieves](https://github.com/sdelasnieves)
 - [Marco Mosna](https://github.com/CodeHub-CreamPy)
 - [Martin Edgar Atole](https://github.com/Mrtiin)
 - [Ayan Gupta](https://github.com/ayangupta9)
@@ -14006,3 +14006,4 @@
 - [Grim](https://github.com/Expellma/)
 - [Edvcel](https://github.com/edvcel)
 - [Active Terminator] (https://github.com/active-terminator)
+- [Silvia Boriani]
