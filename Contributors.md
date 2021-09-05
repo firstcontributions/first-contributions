@@ -396,6 +396,7 @@
 - [Jessica Angel](https://github.com/jessica-angel7)
 - Jimmy Lee Jones
 - Matt Z
+- [Manoj]
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Ishan Gupta](https://github.com/ishan-gupt)
 - [Kaung Wai](https://github.com/kaungwai)
