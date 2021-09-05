@@ -13955,6 +13955,7 @@
 - [Guillaume Descombes](https://github.com/GuillaumeDescombes) -[Gregory Park](https://github.com/gpark16)
 - [Andrey Firsov](https://github.com/avfirsov)
 - [Richard Ormiston](https://github.com/rjormiston)
+- [Tarun Kumar](https://github.com/tarunkumargit)
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [Amol Kadam](https://github.com/101amolkadam)
