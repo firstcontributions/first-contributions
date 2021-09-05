@@ -24,6 +24,7 @@
 - [Saksham Singh](https://github.com/sakssingh)
 - [Max Sauer](https://github.com/mjs2011)
 - [Anupreet Singh](https://github.com/realanupreet)
+- [Manik Billawria](https://github.com/ManikBillawria)
 - [Jackie Ye](https://github.com/JackieYe27)
 - [Naftoli Ost](https://github.com/naftoliost)
 - [Rukundo Kevin](https://github.com/rukundo-kevin)
