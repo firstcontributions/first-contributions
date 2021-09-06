@@ -30,6 +30,7 @@
 - [Jackie Ye](https://github.com/JackieYe27)
 - [Naftoli Ost](https://github.com/naftoliost)
 - [Rukundo Kevin](https://github.com/rukundo-kevin)
+- [Kaushik](https://github.com/KaushikKC)
 - [Nakul Londhe](https://github.com/nakullondhe)
 - [Shantanu Nighot](https://github.com/magbanum)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
