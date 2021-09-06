@@ -35,6 +35,7 @@
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Elie Zgheib](https://github.com/ElieZgb)
+- [BinaryGit](https://github.com/binarygit)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
