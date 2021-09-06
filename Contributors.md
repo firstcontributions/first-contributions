@@ -88,6 +88,7 @@
 - [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Ujwal Kotla](https://github.com/ujwal49)
+- [Jacob Dawson](https://github.com/JacobDawson98)
 - [moses Oketch](https://github.com/moseoketch86)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Mohammad Shakib](https://github.com/mo-shakib)
