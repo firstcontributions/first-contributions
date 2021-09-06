@@ -113,6 +113,7 @@
 - [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
+- [Sean Finegan](https://github.com/SFin12)
 - [Carlos Monge](https://github.com/Cmonge135)
 - [Tanya Rastogi](https://github.com/iamtanya-22)
 - [Pratik Anand](https://github.com/pratik8696)
