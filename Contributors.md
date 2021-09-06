@@ -185,6 +185,7 @@
 - [Gracie Nguyen](https://github.com/cutiepurr)
 - [Heather Barton](https://github.com/CisnePHX)
 - [Neha Anand](https://github.com/NehaAnand28)
+- [Nitin Mewar](https://github.com/nitinmewar)
 - [Apoorv Aggarwal](https://github.com/HackerApoorv)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
 - [Manoj](https://github.com/manojxk)
