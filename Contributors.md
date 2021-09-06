@@ -7255,6 +7255,7 @@
 - [Pop Sorina Maria](https://github.com/popsorina)
 - [Kyle Shaw](https://github.com/thebuizelclub)
 - [Arjun Puthli](https://github.com/akagam1)
+- [Syeda Nowshin Ibnat](https://github.com/Nowshin1077)
 - [Nilansh Bansal](https://github.com/nilanshbansal)
 - [Dawid Kluczewski](https://github.com/notedeagle/)
 - [Fadhlan Harits](https://github.com/fadhlanhrts)
