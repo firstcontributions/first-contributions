@@ -14022,6 +14022,7 @@
 - [Grim](https://github.com/Expellma/)
 - [Edvcel](https://github.com/edvcel)
 - [Active Terminator] (https://github.com/active-terminator)
+- [Shefali Dhingra] (https://github.com/Shefali-Dhingra)
 - [Silvia Boriani]
 - [Fotkurz](https://github.com/Fotkurz)
 - [A-Cer23](https://github.com/A-Cer23)
