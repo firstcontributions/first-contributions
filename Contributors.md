@@ -8,6 +8,7 @@
 - [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
+[ZayedMahmoud](https://github.com/ZayedMahmoud)
 - [Douglas Ede](https://github.com/Douglas4739)
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
