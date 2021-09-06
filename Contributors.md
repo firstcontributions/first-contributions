@@ -997,6 +997,7 @@
 - [Takesha Kaluarachchi](https://github.com/takeshafx)
 - [Misaki Okajima](https://github.com/mokajima)
 - [Jonathan O](https://github.com/JonathanOliveros)
+- [Naim Sakaamini](https://github.com/NaimSakaamini)
 - [Akshat Singh](https://github.com/akshatrksingh)
 - [Ekeopre Beredugo](https://github.com/Thebuilderekes)
 - [Aukse Sireikaite](https://github.com/auksesir)
