@@ -80,6 +80,7 @@
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Carlos Monge](https://github.com/Cmonge135)
+- [Tanya Rastogi](https://github.com/iamtanya-22)
 - [Pratik Anand](https://github.com/pratik8696)
 - [Mariem Soussi](https://github.com/MariemSoussiDev)
 - [Masiel Villalba](https://github.com/masiiie)
