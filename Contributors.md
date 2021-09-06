@@ -2,6 +2,7 @@
 
 - [Nada Hussein](https://github.com/nadah09)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
+- [Kharlo Pena](https://github.com/Kharlo109)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
