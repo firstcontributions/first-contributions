@@ -13,6 +13,7 @@
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
+[ZayedMahmoud](https://github.com/ZayedMahmoud)
 - [Douglas Ede](https://github.com/Douglas4739)
   [Henry Crossley](https://github.com/crossh2001)
 - [Ankit Gupta](https://github.com/ankit-95)
