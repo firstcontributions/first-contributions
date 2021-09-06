@@ -23,6 +23,7 @@
 - [Anuj Pandey](https://github.com/anujpandey785)
 - [547y4m](https://github.com/547y4m) 
 - Motunrayo
+- [Roberto Tapia](https://github.com/k-a-p-t-n)
 - Morgan
 - [coderAbhii](https://github.com/coderAbhii)
 - [Qasim Khan](https://github.com/QasimKhan5x)
