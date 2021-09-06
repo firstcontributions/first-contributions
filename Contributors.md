@@ -113,6 +113,7 @@
 - [Carlos Monge](https://github.com/Cmonge135)
 - [Pratik Anand](https://github.com/pratik8696)
 - [Mariem Soussi](https://github.com/MariemSoussiDev)
+- [Roy Ntaate](https://github.com/RNtaate)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
 - [Martin Meng](https://github.com/MartinMxn)
