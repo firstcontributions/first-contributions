@@ -10,6 +10,7 @@
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Kharlo Pena](https://github.com/Kharlo109)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
+- [Akash Panwar](https://github.com/akshpnwr)
 - [sunzida311](https://github.com/sunzida311)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
