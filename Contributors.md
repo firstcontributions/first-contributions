@@ -7680,6 +7680,7 @@
 - [Steve Fossey](https://stevefossey.ca/)
 - [Ivica Pizent](https://github.com/IvicaPizent)
 - [Nastasa Stefan](https://github.com/RedPipper)
+- [Chris R](https://github.com/CLRM1)
 - [Aditya Singh](https://github.com/adityanjr)
 - [Nicky Choi](https://github.com/njch5)
 - [Sujeet patil](https://github.com/sujeet111)
