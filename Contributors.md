@@ -10,6 +10,7 @@
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
+- [Alexander Craggs](https://github.com/EyreC)
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
