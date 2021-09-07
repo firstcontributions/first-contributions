@@ -999,6 +999,7 @@
 - [LKM](https://github.com/LawKhunMaine)
 - [neerajsharma2000](https://github.com/neerajsharma2000)
 - [rahulgupta219](https://github.com/rahulgupta219)
+- [Mariano Vildozola](https://github.com/mvildozola)
 - [THAE](https://github.com/Thae00)
 - [Aadithyaa Sridharbaskari](https://github.com/asridharbaskari)
 - [Pann Myat Khaing](https://github.com/PannMyatKhaing)
