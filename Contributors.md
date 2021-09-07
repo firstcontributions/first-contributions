@@ -1,5 +1,5 @@
 # Contributors
-
+- [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
 - [vaibhav]
