@@ -15,6 +15,7 @@
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Alexander Craggs](https://github.com/EyreC)
+- [Gokul Thiagarajan] (https://github.com/gokulthiagarajan)
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Kevin Hendrix](https://github.com/khendrix12)
