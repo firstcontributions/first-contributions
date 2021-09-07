@@ -1,6 +1,7 @@
 # Contributors
 
 - [mountainchaser](https://github.com/mountainchaser)
+- [vaibhav]
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Nada Hussein](https://github.com/nadah09)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
