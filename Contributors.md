@@ -11,6 +11,7 @@
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
+- [Alexander Craggs](https://github.com/EyreC)
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
@@ -783,6 +784,7 @@
 - [raushan was here]
 - [Divi2701](https://github.com/Divi2701)
 - [Akolade Ojesina](https://github.com/light-oj)
+- [Zaid Khan](https://github.com/ZaidKhan2002)
 - [Abhishek Salunke ](https://github.com/abhi3054)
 - [Salim Hertelli](https://github.com/salim-hertelli)
 - [Mani Kandan](https://github.com/mkandan1)
@@ -14036,4 +14038,5 @@
 - [Fotkurz](https://github.com/Fotkurz)
 - [A-Cer23](https://github.com/A-Cer23)
 - [Jeffrey-0](https://github.com/Jeffrey-0)
+- [BJTL](https://github.com/BTJL)
 - [MuskanGupta1503](https://github.com/MuskanGupta1503)
