@@ -1,5 +1,6 @@
 # Contributors
 
+- [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
 - [vaibhav]
@@ -8,7 +9,6 @@
 - [Nada Hussein](https://github.com/nadah09)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Kharlo Pena](https://github.com/Kharlo109)
-- [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [sunzida311](https://github.com/sunzida311)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
