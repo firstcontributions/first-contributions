@@ -783,6 +783,7 @@
 - [raushan was here]
 - [Divi2701](https://github.com/Divi2701)
 - [Akolade Ojesina](https://github.com/light-oj)
+- [Zaid Khan](https://github.com/ZaidKhan2002)
 - [Abhishek Salunke ](https://github.com/abhi3054)
 - [Salim Hertelli](https://github.com/salim-hertelli)
 - [Mani Kandan](https://github.com/mkandan1)
