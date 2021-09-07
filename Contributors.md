@@ -12429,6 +12429,7 @@
 - [Sachin Kumar](https://github.com/sk-2809)
 - [GreaterThanH](https://github.com/GreaterThanH)
 - [Manan K Garg](https://github.com/MananKgarg)
+- [Nicolas de la Guardia](https://github.com/delaguardianick)
 - [Aishit Dharwal](https://github.com/aishitdharwal)
 - [Harsh Kumar](https://github.com/gautam32)
 - [Tanisha Khandelwal](https://github.com/tanisha605)
