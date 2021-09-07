@@ -4,6 +4,7 @@
 - [mountainchaser](https://github.com/mountainchaser)
 - [vaibhav]
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
+- [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
