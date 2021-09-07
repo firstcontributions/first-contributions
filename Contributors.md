@@ -19,6 +19,7 @@
 - [Sina CENGIZ] (https://github.com/sinacengiz)
 - [Giovanni Moscato](https://github.com/codingcodewhilegoofin)
 - [Bobin Mathew Murikkattu](https://github.com/BobinMathew)
+- [Talha Tariq](https://github.com/TT-talhatariq)
 - [Dinesh Chukkala](https://github.com/HumanChwan)
 - [Mengmei Tu](https://github.com/mmeii)
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
