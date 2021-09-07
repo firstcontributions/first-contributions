@@ -7722,6 +7722,7 @@
 - [Jaydev Singh Rao](https://github.com/JaydevSR)
 - [Patrick Brockway](https://github.com/crypticzero88)
 - [Anastasia Mendoza](https://github.com/anascnm)
+- [Scott Austin](https://github.com/vlexum)
 - [Chira](https://github.com/chiralevy)
 - [Kuntal GHosh](https://github.com/kuntal-ghosh)
 - [Hope Miller](https://github.com/hmiller3)
