@@ -17,6 +17,7 @@
 - [Alexander Craggs](https://github.com/EyreC)
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
+- [Kevin Hendrix](https://github.com/khendrix12)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
 [ZayedMahmoud](https://github.com/ZayedMahmoud)
 - [Douglas Ede](https://github.com/Douglas4739)
