@@ -146,6 +146,7 @@
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
 - [jfjini11](https://github.com/jjini11)
 - [blautista](https://github.com/blautista)
+- [Salim Igué](https://github.com/limsamh)
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
 - [Sanjana P](https://github.com/coder-246try)
 - [Prosper Atu](https://github.com/prosper74)
