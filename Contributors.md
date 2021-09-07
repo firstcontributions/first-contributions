@@ -970,6 +970,7 @@
 - [Moon-Seng](https://github.com/Moon-Seng)
 - [Omkar Joshi](https://github.com/joshi-omkar)
 - [utah239](https://github.com/utah239)
+- [Connor Mayon]
 - [Abdi Yusuf](https://github.com/abdiYuu)
 - [Mohd Imran](https://github.com/stark255)
 - [Slartibartfast1](https://github.com/Slartibartfast1)
