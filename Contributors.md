@@ -7,6 +7,7 @@
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [Aashish Illa](https://github.com/aashish0909)
+- [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - [vaibhav]
 - [TyerLockwood]
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
