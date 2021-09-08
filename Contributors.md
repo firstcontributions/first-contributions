@@ -838,6 +838,7 @@
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
 - Dongdong Shi
 - [Kat Marsteller](https://github.com/kdm423)
+- [Anshul Nautiyal](https://github.com/AnshulNautiyal)
 - [Aryan Khera](https://github.com/aryankhera)
 - [Hubert Życiński](https://github.com/Sniqs)
 - [Jadwin Lin](https://github.com/JadwinL12)
