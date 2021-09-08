@@ -2,6 +2,7 @@
 
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
+- [Anurag Garg](https://github.com/anuraggarg3)
 - [vaibhav]
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Florie Anstett](https://github.com/AFlorie)
