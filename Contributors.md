@@ -43,6 +43,7 @@
 - [Yubraj Karki] (https://github.com/Yubraj-Karki)
 - [Rachana Singh](https://github.com/rachana-singh27)
 - [Gabriel Chammas](https://github.com/gchammas23)
+- [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Saksham Singh](https://github.com/sakssingh)
 - [Max Sauer](https://github.com/mjs2011)
@@ -487,7 +488,7 @@
 - [Elliott Belle](https://github.com/Elliott-Chong)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
 - [ Suman kumar](https://github.com/Suman-kumar23)
-- [Placid Akat] (https://github.com/anAmateurKat) 
+- [Placid Akat] (https://github.com/anAmateurKat)
 - {hello everyone }
 - testing
 - [Tushar Gupta ](https:github.com/tushargupta00)
