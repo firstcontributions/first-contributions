@@ -2,6 +2,7 @@
 
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
+- [Hannah Getnet](https://github.com/earthcomfy)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [vaibhav]
