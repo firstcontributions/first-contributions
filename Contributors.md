@@ -4,6 +4,7 @@
 - [mountainchaser](https://github.com/mountainchaser)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Anurag Garg](https://github.com/anuraggarg3)
+- [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [vaibhav]
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
