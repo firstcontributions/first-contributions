@@ -4,6 +4,7 @@
 - [mountainchaser](https://github.com/mountainchaser)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [vaibhav]
+- [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
