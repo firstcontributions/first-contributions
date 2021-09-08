@@ -3,6 +3,7 @@
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Anurag Garg](https://github.com/anuraggarg3)
+- [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [vaibhav]
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
