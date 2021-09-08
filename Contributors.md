@@ -1,5 +1,4 @@
 # Contributors
-- [KevinDanae](https://github.com/KevinDanae)
 - [MathProuv](https://github.com/mathprouv)
 - [Tushar Kumawat](https://github.com/tusharkumawat)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
@@ -33,6 +32,7 @@
 - [Lucas Stone-Drake](https://github.com/LucasSD)
 - [Mudit Mahajan](https://github.com/mudit-mhjn)
 - [Syfa Collins](https://github.com/SyfaCollins)
+- [KevinDanae](https://github.com/KevinDanae)
 - [K.Yogeshwara Krishna](https://github.com/yogeshwara-krishna)
 - [Yuxin Li](https://github.com/yuxinli915)
 - [charalamm](https://github.com/charalamm)
