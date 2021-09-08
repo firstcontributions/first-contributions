@@ -2447,6 +2447,7 @@
 - Tavie Kittredge (https://github.com/taviekitt)
 - Sahil Gupta (https://github.com/sahilgupta912)
 - Saurabh Shetty
+  JuniorDeveloper
 - [majkimge]
 - [Selyana Siko Fany](https://github.com/SelyanaSF)
 - [Shayla Luong](https://github.com/nluong1021)
