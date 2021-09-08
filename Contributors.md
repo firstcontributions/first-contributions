@@ -235,6 +235,7 @@
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
 - [SomStar](https://github.com/Somnath-swami)
 - [AShotOfCode]
+- [Carlea Baker](https://github.com/cbaker0)
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Zaheda Jafari](https://github.com/zackdaspy/)
