@@ -7,6 +7,7 @@
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [vaibhav]
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
+- [Vishal Chauhan](https://github.com/vish-han)
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
