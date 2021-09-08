@@ -38,12 +38,20 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.es.md">Español</a>
         </td>
     </tr>
+</table>
+
+# First Contributors:
+
+<table>
     <tr>
         <td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />
         </td>
         <td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />
+        </td>
+        <td>
+            <img width="100" src="https://avatars.githubusercontent.com/u/20263648?v=4" alt="@AnshulJS" />
         </td>
         <td>
             <img width="100" src="https://avatars1.githubusercontent.com/u/16685565?s=460&v=4" alt="@bantya" />
@@ -73,6 +81,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/smitgajjar">smitgajjar</a>
+        </td>
+        <td>
+            <a href="https://anshuljs.000webhostapp.com/">AnshulJS</a>
         </td>
         <td>
             <a href="https://github.com/bantya">bantya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
