@@ -262,6 +262,7 @@
 - [Gemma Draper](https://github.com/gemma-draper/)
 - [Joseph Schultz] (https://github.com/cuppajoey)
 - [sololabs](https://github.com/sololabs)
+- [Justin Stouffer] (https://github.com/jstouffer33)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
