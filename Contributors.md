@@ -1022,6 +1022,7 @@
 - khelafiSifeddine
 - [Elijah Wilcott](https://github.com/ejw773)
 - [Nixon Kurian](https://github.com/Scarface69420)
+- [Maeve Ng](https://github.com/mvaeve)
 - [Muorah, Chisom](https://github.com/chysomm62)
 - [r-kf](https://github.com/r-kf)
 - [Gabriel Drutu](https://github.com/realDevDare)
