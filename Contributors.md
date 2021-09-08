@@ -53,6 +53,7 @@
 - [Shantanu Nighot](https://github.com/magbanum)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [John C. Lee](https://github.com/SpaceDA)
+- [Relu Statescu](https://github.com/ReluSt13)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Elie Zgheib](https://github.com/ElieZgb)
