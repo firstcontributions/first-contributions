@@ -350,6 +350,7 @@
 - [Iulia Groza](https://github.com/iuliagroza)
 - [Hadar Gossels] (https://github.com/hadargossels)
 - [Vlad Yanum](https://github.com/YanumVlad)
+- [Divyansh Jain👨‍💻]‍(https://github.com/divyansh21jain)
 - [Luigi Cardone](https://github.com/luigi-cardone)
 - [Anibal Campos](https://github.com/kneess)
 - [Artur Wrona] (https://github.com/donarturo11)
