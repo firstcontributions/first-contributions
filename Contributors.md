@@ -54,6 +54,7 @@
 - [Nakul Londhe](https://github.com/nakullondhe)
 - [Shantanu Nighot](https://github.com/magbanum)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
+- [Kashish Dhingra](https://github.com/kashish-d)
 - [John C. Lee](https://github.com/SpaceDA)
 - [Relu Statescu](https://github.com/ReluSt13)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
