@@ -9,6 +9,7 @@
 - [Aashish Illa](https://github.com/aashish0909)
 - [vaibhav]
 - [TyerLockwood]
+- [CharlieEdwards](https://github.com/cpaule1811)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Nick Maxwell](https://github.com/nbm58)
