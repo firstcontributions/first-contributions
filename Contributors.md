@@ -95,6 +95,7 @@
 - [xsthetic](https://github.com/xsthetic)
 - [Sonu Kumar
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
+- [Jagrat Gupta](https://github.com/JagratG07)
 - [Florian Edemessi](https://github.com/nair0lf32)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
