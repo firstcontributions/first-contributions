@@ -142,6 +142,7 @@
 - [Olivia Russell](https://github.com/osrussell)
 - [Prateek Verma](https://github.com/PRATEEKVERMA-036)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
+- [Michael Fletez](https://github.com/mfletez)
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
