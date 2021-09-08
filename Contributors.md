@@ -3,6 +3,7 @@
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
 - [vaibhav]
+- [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
