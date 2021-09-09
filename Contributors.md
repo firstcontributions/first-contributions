@@ -1076,7 +1076,7 @@
 - [Darlene](https://github.com/D010resHaze)
 - [Miho](https://github.com/pluto0004)
 - [Neeber](https://github.com/Neeber)
-  Brett Lewerke (https://github.com/brettlewerke1
+  Brett Lewerke (https://github.com/brettlewerke1))
 - Ak
 - Ak47
 - [Bruce Felix](https://github.com/BruceFelix)
