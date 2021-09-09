@@ -10,6 +10,7 @@
 - [Piyush Agrawal](https://github.com/p1yu5h0)
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
+- [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [vaibhav]
 - [TyerLockwood]
 - Magni Mar Magnason
