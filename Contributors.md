@@ -3717,6 +3717,7 @@
 - [Gigi Hsueh](https://github.com/gigi-hsueh)
 - [Barret](https://github.com/xiong-ang)
 - [Ibrahim Rehman](https://github.com/ibrahimrehman1)
+- [Emily McRae](https://github.com/echo852)
 - [Tom Ozbot](https://github.com/tomozbot)
 - [Chris Lee](https://github.com/acdlee)
 - [Cat Yber](https://github.com/catyber)
