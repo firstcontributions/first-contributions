@@ -12,6 +12,7 @@
 - [Aashish Illa](https://github.com/aashish0909)
 - [vaibhav]
 - [TyerLockwood]
+Chika
 - [Amit Pal](https://github.com/amitpal16181)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Matthew Martinez](https://github.com/lilcobija)
