@@ -1907,6 +1907,7 @@
 - [Prashant Ghimire](https://github.com/prashant1gh)
 - [Allen Chung](https://github.com/allenchung01)
 - [Ane S]
+- [Bill Talkington](https://github.com/billtalkington)
 - [Anmol]
 - [Brunda B R]
 - Alina A.
