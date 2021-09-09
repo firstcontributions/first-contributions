@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Alexander Shen](https://github.com/shenalexw)
 - [mountainchaser](https://github.com/mountainchaser)
@@ -9,6 +9,7 @@
 - [Aashish Illa](https://github.com/aashish0909)
 - [vaibhav]
 - [TyerLockwood]
+- [Amit Pal](https://github.com/amitpal16181)
 - [Matthew Martinez](https://github.com/lilcobija)
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
@@ -121,6 +122,7 @@
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Ujwal Kotla](https://github.com/ujwal49)
 - [Jacob Dawson](https://github.com/JacobDawson98)
+- [Yuvanna Bawa](https://github.com/YB73)
 - [moses Oketch](https://github.com/moseoketch86)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Mohammad Shakib](https://github.com/mo-shakib)
@@ -926,6 +928,7 @@
 - [Igor Volchenok](https://github.com/volchenokib/)
 - [Lorenzo Colombo](https://github.com/L3llo)
 - [Jay](https://github.com/jaynne)
+- [Aidan Sullivan](https://github.com/Sully12310)
 - [Brady Gerber](https://github.com/bg-write)
 - [Abdul Rafay Modi](https://github.com/alpharomeomike)
 - [kalimero](https://github.com/kalimero0073)
