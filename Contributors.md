@@ -893,6 +893,7 @@
 - [Ayush Mishra](https://github.com/im-ayush)
 - [dwills](https://github.com/dwaynewills)
 - [Tripti Nayak](https://github.com/trip19)
+  mauri
 - [Peter Staker](https://github.com/peterjast)
 - [shrey](https://github.com/shreyanshsinghuno)
 - [Gokul Balaji](https://github.com/gokulBalaG)
