@@ -9,6 +9,7 @@
 - [Aashish Illa](https://github.com/aashish0909)
 - [vaibhav]
 - [TyerLockwood]
+- [Dylan Anderson](https://github.com/DylanAnderson35)
 - [Matthew Martinez](https://github.com/lilcobija)
 - [CharlieEdwards](https://github.com/cpaule1811)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
