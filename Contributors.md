@@ -12809,6 +12809,7 @@
 - [Richard Cook](https://github.com/richastral)
 - [Muhammad Bilal](https://github.com/muhammadbilall)
 - [Tommy Swimmer](https://github.com/tommy-swimmer)
+- [Jonny Tran](https://github.com/jonathanktran)
 - [Jessica Gillim](https://github.com/obstaclez)
 - [Marcos Spanholi](https://github.com/marcosspn)
 - [Aashish KC](https://github.com/kcaashish)
