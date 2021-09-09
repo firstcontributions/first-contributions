@@ -3487,6 +3487,7 @@
 - [Natasha Carr](https://github.com/tash-ndc)
 - [Leevi Andrews](https://github.com/leeviaa)
 - [vamsi]
+- [shaynesellner](https://github.com/shaynesellner)
 - [Jab Zinnia](https://github.com/Rieu2)
 - [Dhananjay Joshi](https://github.com/DjSPIT)
 - [L Cai](https://github.com/lbcai)
