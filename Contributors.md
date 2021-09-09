@@ -93,7 +93,7 @@
 - [Om Mishra](https://github.com/oreo2107)
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Solomon G](github.com/soulsolomon)
-- [Ayoub Berdeddouch 🇲🇦 Flag](https://github.com/ayoub-berdeddouch)
+- [Ayoub Berdeddouch 🇲🇦 Flag 🇲🇦 Flag](https://github.com/ayoub-berdeddouch)
 - [Sawix](https://github.com/Sawix)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Carlos Monge](https://github.com/Cmonge135)
