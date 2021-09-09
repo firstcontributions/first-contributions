@@ -8602,6 +8602,7 @@
 - [Jeuel Gutierrez](https://github.com/jeuel2001)
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Senno Kaasjager](https://github.com/skaasjager)
+- [Furvent](https://github.com/Furvent)
 - [Jared G](https://github.com/JaredG59)
 - [Yuriko](https://gist.github.com/yuriko-coder)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
