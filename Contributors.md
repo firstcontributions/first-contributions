@@ -15,6 +15,7 @@
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
+- [Matt Auer](https://github.com/matt-user)
 - [MontejoJorge](https://github.com/montejojorge) 🍍
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
