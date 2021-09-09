@@ -663,6 +663,7 @@
 - [Rory Donaldson](https://github.com/roryjbd)
 - [Julio B](https://github.com/Juli03b)
 - [Lestly](https://github.com/Lestlyy)
+- [Pongthorn Chumpoo](https://github.com/TouchPongthorn)
 - [saitgulmez](https://github.com/saitgulmez)
 - [Cîrja David](https://github.com/ZackTK)
 - [Siva Bathula](https://github.com/siva-bathula/)
