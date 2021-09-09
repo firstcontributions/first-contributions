@@ -13,6 +13,7 @@
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [vaibhav]
 - [TyerLockwood]
+- [Lewis Hill](https://github.com/lewy192)
 - Magni Mar Magnason
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [Amit Pal](https://github.com/amitpal16181)
