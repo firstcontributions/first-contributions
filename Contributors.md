@@ -188,6 +188,7 @@
 - [Md Monayem Islam](https://monayemislam.github.io/)
 - [Ranjith jupaka](https://github.com/ranjithjupaka)
 - [Vaibhav Varshney](https://github.com/vaib1343)
+- [Yatharth Nigam](https://github.com/yatharthnigam)
 - [aweliego] (https://github.com/aweliego)
 - [BHKR](https://github.com/BHKR)
 - [IVIosab](https://github.com/IVIosab)
