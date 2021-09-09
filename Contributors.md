@@ -14,6 +14,7 @@
 - [vaibhav]
 - [TyerLockwood]
 - Magni Mar Magnason
+- [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [Amit Pal](https://github.com/amitpal16181)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Matthew Martinez](https://github.com/lilcobija)
