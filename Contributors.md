@@ -13,6 +13,7 @@
 - [Akash Panwar](https://github.com/akshpnwr)
 - [sunzida311](https://github.com/sunzida311)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
+- [HHz8746](https://github.com/HHz8746)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Alexander Craggs](https://github.com/EyreC)
