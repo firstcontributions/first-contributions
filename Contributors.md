@@ -5299,6 +5299,7 @@
 - [Ainur Rahmat](https://github.com/ainurx)
 - [Jonathon Lopez](https://github.com/JonathonLLopez)
 - [Simon Mann](https://github.com/mannkid)
+  [Avi Avila](https://github.com/Avila5301)
 - [Lubna Attar](https://github.com/lubnaattar)
 - [Matheus Phelipe](https://github.com/matheusphalves)
 - [Meer Hamza](https://github.com/MeerHamza1421)
