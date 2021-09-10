@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Alexander Shen](https://github.com/shenalexw)
@@ -10682,6 +10682,7 @@
 - [Hvassaa](https://github.com/Hvassaa)
 - [Gustavo Silva](https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
+- [Sofia Orlova](https://github.com/melanzane)
 - [Blaine Bateman](https://github.com/eafpres)
 - [Sugato Mukhopadhyay](https://github.com/sugato1398/)
 - [Satyajit](https://github.com/BBBS92)
