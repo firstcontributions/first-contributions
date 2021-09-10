@@ -23,6 +23,7 @@
 - [Matthew Martinez](https://github.com/lilcobija)
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
+- [Arnab Chattopadhyay](https://github.com/akbc1221)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Nick Maxwell](https://github.com/nbm58)
