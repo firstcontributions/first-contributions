@@ -2,6 +2,7 @@
 
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Alexander Shen](https://github.com/shenalexw)
+- [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Anurag Garg](https://github.com/anuraggarg3)
