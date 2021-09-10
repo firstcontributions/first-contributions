@@ -31,6 +31,7 @@
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
 - [Kevin Aguilera](https://github.com/KevinDanae)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
+- [SMRITI RAO](https://github.com/Smriti0311)
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
