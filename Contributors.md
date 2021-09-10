@@ -11,6 +11,7 @@
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
 - [Anurag Garg](https://github.com/anuraggarg3)
+- [Dayakar Heeraakri](https://github.com/DayakarH)
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [Piyush Agrawal](https://github.com/p1yu5h0)
