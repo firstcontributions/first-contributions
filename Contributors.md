@@ -12,6 +12,7 @@
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
+- [Dineshkumar Sundaram](https://github.com/dineshh912/)
 - [vaibhav]
 - [TyerLockwood]
 - [Lewis Hill](https://github.com/lewy192)
