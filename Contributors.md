@@ -19,6 +19,7 @@
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
 - [vaibhav]
 - [TyerLockwood]
+- [Dylan Anderson](https://github.com/DylanAnderson35)
 - [Lewis Hill](https://github.com/lewy192)
 - Magni Mar Magnason
 - [Venkatakrishnan G](https://github.com/venkat-gvk)
