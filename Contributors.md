@@ -28,6 +28,7 @@
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
+- [Kevin Aguilera](https://github.com/KevinDanae)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Nick Maxwell](https://github.com/nbm58)
