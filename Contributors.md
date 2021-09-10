@@ -1,4 +1,5 @@
 # Contributors
+- [kurmittens](https://github.com/kurmittens/)
 
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Alexander Shen](https://github.com/shenalexw)
