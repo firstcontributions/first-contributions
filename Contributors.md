@@ -16,6 +16,7 @@
 - [Piyush Agrawal](https://github.com/p1yu5h0)
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
+- [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - Dim Chika
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
