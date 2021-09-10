@@ -143,8 +143,6 @@ Add those changes to the branch you just created using the `git add` command:
 git add Contributors.md
 ```
 
-test
-
 Now commit those changes using the `git commit` command:
 
 ```
