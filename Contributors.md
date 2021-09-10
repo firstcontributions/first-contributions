@@ -214,6 +214,7 @@
 - [Shaivy Agrawal](https://github.com/Shaivy-Agrawal)
 - [Ahmad Yasser](https://github.com/ahmdyasser)
 - [Jordi Marimon](https://github.com/jordimarimon)
+- [Thanmay M Das](https://github.com/tAnboyy)
 - [Ken Lin](https://github.com/kenlin2411)
 - [Rachel Fabrigar](https://github.com/chengalore)
 - [Aryan Shinde](https://github.com/AryanShinde)
