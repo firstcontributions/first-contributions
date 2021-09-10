@@ -21,6 +21,7 @@
 - Magni Mar Magnason
 - [Venkatakrishnan G](https://github.com/venkat-gvk)
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
+- [Sahil Suman](https://github.com/sahilsuman933)
 - [Amit Pal](https://github.com/amitpal16181)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Matthew Martinez](https://github.com/lilcobija)
