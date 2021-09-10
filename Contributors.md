@@ -14136,3 +14136,4 @@
 - [Austin Malmin] (https://github.com/whatup9911)
 - [Trevor Merrick](https://github.com/tmerrick17)
 - [Andrew Folsom](https://github.com/andrewfolsom)
+- [shi7](https://github.com/shi7)
