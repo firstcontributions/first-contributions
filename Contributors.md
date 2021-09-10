@@ -1,5 +1,6 @@
 # Contributors
 - [kurmittens](https://github.com/kurmittens/)
+- [Soufiane Elharem](https://github.com/Selharem)
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Alexander Shen](https://github.com/shenalexw)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
