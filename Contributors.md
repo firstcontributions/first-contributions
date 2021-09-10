@@ -5,6 +5,7 @@
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Nilay]
+- [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
 - [Anurag Garg](https://github.com/anuraggarg3)
