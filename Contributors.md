@@ -2314,7 +2314,8 @@
 - [Nabin Dangi]
 - [Gleyson Melo](https://github.com/gleysonmelo)
 - [wantao666](https://github.com/wantao666)
-- [Vinil Rathod](https://github.com/vinilRathod)
+- [Vinil Rathod](https://github.com/vinilRathod)\
+- [Rishabh Srarf](https://github.com/Rishabh-sudo)
 - [John Zhao](https://github.com/jellllly420)
 - [Sarthak Singh Tomar](https://github.com/0Balerion0)
 - [Riya Sangwan](https://github.com/ria-19)
