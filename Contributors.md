@@ -1,4 +1,4 @@
-﻿# Contributors
+﻿﻿# Contributors
 
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Alexander Shen](https://github.com/shenalexw)
@@ -2147,6 +2147,7 @@
 - Prithvi
 - Satyam Gupta
 - EternalBlu
+- VolTorian
 - Punit khandelwal
 - YB
 - VidishaTindolia
@@ -13606,6 +13607,7 @@
 - [Margy Couper](https://github.com/wassupbonsai)
 - [Kate Follett](https://github.com/kateskips)
 - [Howard Wang](https://github.com/wjahoward)
+- [Aidan Gibson](https://github.com/aidan-gibson)
 - [mywxy]()
 - [Rishita Shaw](https://github.com/Theseregrets)
 - [Volker Shmuley](https://github.com/VolkerShmuley)
