@@ -1334,6 +1334,7 @@
 - [Reya Wallace](https://github.com/reyaw/)
 - [jothfra](https://github.com/jothfra)
 - [Maverick](https://github.com/Maverick-99)
+- [ZechNg](https://github.com/Tiamyang)
 - [wuwe1](https://github.com/wuwe1)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
