@@ -5,6 +5,7 @@
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Hannah Getnet](https://github.com/earthcomfy)
+- [Ritesh ](https://github.com/RiteshK555)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
