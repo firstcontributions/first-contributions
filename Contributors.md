@@ -18,6 +18,7 @@
 - [TyerLockwood]
 - [Lewis Hill](https://github.com/lewy192)
 - Magni Mar Magnason
+- [Venkatakrishnan G](https://github.com/venkat-gvk)
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [Amit Pal](https://github.com/amitpal16181)
 - [Aiden Halili](https://github.com/aidenhalili)
