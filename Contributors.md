@@ -4,6 +4,7 @@
 - [Alexander Shen](https://github.com/shenalexw)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
+- [Nilay]
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
 - [Anurag Garg](https://github.com/anuraggarg3)
