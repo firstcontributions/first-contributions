@@ -1050,6 +1050,7 @@
 - [veagir](https://github.com/veagir)
 - [iamtbc](https://github.com/iamtbc)
 - [Anshu Sinha](https://github.com/Sinha199)
+- [Joseph O.]
 - [ran](https://github.com/skyan1278)
 - [smalltext](https://github.com/smalltext)
 - [polypixel](https://github.com/poly-pixel)
