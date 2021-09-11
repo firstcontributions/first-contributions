@@ -1005,6 +1005,7 @@
 - [qarun685](https://github.com/qarun685)
 - [cmattic](https://github.com/cmattic)
 - [Alex L](https://github.com/aLyonsGH)
+- [tip14](https://github.com/tip14)
 - [Mateus Daniel](https://github.com/Matteuus)
 - [Devendra](https://github.com/debsdoon)
 - [Cuday](https://github.com/abrahes12-day)
