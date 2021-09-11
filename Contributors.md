@@ -1134,6 +1134,7 @@
 - [Amon Tobi](https://github.com/mttn3773)
 - [Nelson Lim](https://github.com/nlmj)
 - [Abhishek Kumar](https://github.com/ab-by)
+- Deepanshu Sharma
 - [AayushSaini101](https://github.com/AayushSaini101)
 - [Sushrut Lekurwale](https://github.com/sushrutlekurwale)
 - [Chowsy Cho](https://github.com/chowsychoch/)
