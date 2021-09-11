@@ -105,6 +105,7 @@
 - [Nabeel Ahmed Khan] (https://github.com/NabeelAhmed314)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
+- [Rohan Nair](https://github.com/rohannair11)
 - [Tsahi Edri] (https://github.com/tsahiedri)
 - [Marcello Pignata](https://github.com/MarcelloPignata)
 - [Ciara Giron] (https://github.com/cjgiron)
