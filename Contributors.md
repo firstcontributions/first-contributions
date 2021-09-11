@@ -763,6 +763,7 @@
 - [kyourikey](https://github.com/kyourikey)
 - [Asier Exposito](https://github.com/expuexto)
 - [Peter Lovei](https://github.com/loveipeter)
+- [DarkDiamonD](https://github.com/darkdiamond)
 - [Thanh Hoang](https://github.com/nythoang)
 - [Joe Roxbury](https://github.com/jroxbury)
 - [Adam Herbst](https://github.com/adamherbst)
