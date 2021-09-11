@@ -21,7 +21,7 @@ If you don't have Visual Studio Code on your machine, [install it](https://code.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
+Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
 GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
 
