@@ -1364,6 +1364,7 @@
 - [RedFox0x20](https://github.com/RedFox0x20)
 - [glide143](https://github.com/glide143)
 - [Mariusz Git](https://github.com/mariuszgit)
+- [todoggler](https://github.com/todoggler)🦭
 - [Alexey Luhinin](https://github.com/alexey-luhinin)
 - [Andrey Firsov](https://github.com/avfirsov)
 - [Richard Ormiston](https://github.com/rjormiston)
