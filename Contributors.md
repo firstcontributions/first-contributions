@@ -1382,6 +1382,7 @@
 - [Sewook Han](https://github.com/SewookHan)
 - [Alan Zhisheng Niu](https://github.com/niuzs-alan)
 - [Bhanu Teja](https://github.com/PAPPALA-BANUTEJA-NAIDU)
+- [Tanyaradzwa Gozhora](https://github.com/TanyaradzwaGozhora/)
 - [Krishnum Khodke](https://github.com/krishnumkhodke)
 - [Abhinav Belhekar](https://github.com/CoderAbhinav)
 - [YehiaHesham](https://github.com/whyGitHub98)
