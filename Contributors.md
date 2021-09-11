@@ -25,6 +25,7 @@
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
+- [Srijan Singh](https://github.com/Verito21)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
