@@ -1440,3 +1440,4 @@
 - [Teena Acharya](https://github.com/teenaacharya)
 - [Suvarna Pattayil - SuvP](https://github.com/Suv-P)
 - [Richa Motwani](https://github.com/Richa2801)
+- [Josué Francisco](https://github.com/cassule)
