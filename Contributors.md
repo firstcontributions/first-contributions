@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Sergey Romanenko](https://github.com/Awilum)
+- [Saptarshi Bhattacharya](https://github.com/sbk2k1)
 - [Alexander Shen](https://github.com/shenalexw)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
