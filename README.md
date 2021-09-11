@@ -171,7 +171,7 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged. In cases, where the changes donot create a conflict, it will get auto-merged by the bot.
 
 ## Where to go from here?
 
