@@ -2,7 +2,6 @@
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
 # Первый вклад в проект
 
 Сложно. Всегда сложно начинать что-то с самого начала. Довольно неприятно совершать ошибки, особенно если вы работаете в команде. Весь open source состоит из сотрудничества и совместной работы. Мы хотим облегчить первые шаги в обучении и сотрудничестве начинающим разработчикам.
