@@ -1,4 +1,5 @@
 # Contributors
+- [Goldenpreet Kaur](https://github.com/Golden-preet)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [kurmittens](https://github.com/kurmittens/)
