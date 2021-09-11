@@ -1,6 +1,7 @@
 # Contributors
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Amrin](https://github.com/Coderamrin) 
+- [Shubh Chudasama](https://github.com/c-shubh) 
 - [sunzida311](https://github.com/sunzida311)
 - [vishnu kumar prajapati](https://github.com/vishnu95075 )
 - [Michael Chong](https://github.com/michaeljchong)
