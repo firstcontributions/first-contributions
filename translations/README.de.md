@@ -1,12 +1,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # First Contributions
 
-<img align="right" width="300" src="../assets/fork.png" alt="Repository forken" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Repository forken" />
 
 Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
 
@@ -21,7 +21,7 @@ Forke das Repository durch das Anklicken der Schaltfläche "Fork". Dadurch erhä
 
 ## Repository klonen
 
-<img align="right" width="300" src="../assets/clone.png" alt="Repository klonen" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Repository klonen" />
 
 Klone das Repository auf deinen Computer. Klicke auf die Schaltfläche "Clone or download" und anschließend auf das "copy to clipboard"-Symbol.
 
@@ -32,7 +32,7 @@ git clone "Deine kopierte URL"
 ```
 Statt 'Deine kopierte URL' (ohne Anführungszeichen) füge die Repository-URL aus dem vorherigen Schritt ein.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="URL kopieren" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL kopieren" />
 
 Beispiel:
 ```
@@ -88,11 +88,11 @@ Ersetze `<add-dein-Name>` mit dem Namen des Branches, den du zuvor erstellt hast
 
 Wenn du jetzt zu deinem Repository auf GitHub gehst, siehst du einen Knopf `Compare & pull request`. Klicke darauf.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="Erstelle einen pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Erstelle einen pull request" />
 
 Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request` klickst.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="Pull Request senden" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
 Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
 

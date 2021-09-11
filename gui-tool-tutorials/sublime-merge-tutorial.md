@@ -1,12 +1,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # First Contributions
 
-|<img alt="Sublime Merge" src="../assets/sublime-merge.png" width="200">|Sublime Merge Git Client|
+|<img alt="Sublime Merge" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sublime-merge.png" width="200">|Sublime Merge Git Client|
 |---|---|
 
 It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -21,18 +21,18 @@ Download [Sublime Merge](https://www.sublimemerge.com/), Install and open it.
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/fork.png" alt="fork this repository" />
 This will create of copy of this repository in your account.
 
 
 ## Clone the repository
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/clone.png" alt="clone this repository" />
 
 In Sublime Merge, go to File -> Clone Repository.
 
 
-<img style="float: right;" src="../assets/sm-clone.png" alt="clone this repository" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-clone.png" alt="clone this repository" />
 
 The next step is to clone your repo down to your machine so you can begin making changes. Sublime Merge needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
@@ -52,7 +52,7 @@ Navigate to Repository -> Create Branch
 
 Name your branch "add-your-name", for example: "add-william-sutton"
 
-<img style="float: right;" src="../assets/sm-branch.png" alt="name your branch" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-branch.png" alt="name your branch" />
 
 
 ## Make necessary changes and commit those changes
@@ -65,7 +65,7 @@ Review the files that have been changed and decide what you would like to stage.
 Give the commit a commit message ("Add <your-name> to Contributors list" sounds nice and descriptive).
 When you are happy with your changes stage those changes by staging them file by file or selecting "stage all". Staging is important to tell git exactly what file changes you want associated with this commit.
 
-<img style="float: right;" src="../assets/sm-stage.png" alt="stage your changes" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-stage.png" alt="stage your changes" />
 
 If you change your mind, you can unstage those changes, or you can discard them all together.
 WARNING: As the word discard implies, this is a destructive operation. Do this only if you don't want any change(s) from whatever repository you're in.
@@ -82,7 +82,7 @@ Congratulations, you've committed all the changes to your local copy of your bra
 Navigate to Repository -> Push
 or hit the small arrow in upward direction in the right hand corner.
 
-<img style="float: right;" src="../assets/sm-login.png" alt="login" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-login.png" alt="login" />
 
 Login to your Github Account with your username and password
 
@@ -93,11 +93,11 @@ Submit changes on the origin branch if you want the changes to reflect in the ma
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
