@@ -220,6 +220,7 @@
 - [aweliego] (https://github.com/aweliego)
 - [BHKR](https://github.com/BHKR)
 - [IVIosab](https://github.com/IVIosab)
+- [Rishabh Rathore](https://github.com/rishabhrathore055)
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
 - [Divyansh Bhadauria](https://github.com/divo12)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
