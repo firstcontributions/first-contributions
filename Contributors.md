@@ -122,6 +122,7 @@
 - [Tsahi Edri] (https://github.com/tsahiedri)
 - [Marcello Pignata](https://github.com/MarcelloPignata)
 - [Ciara Giron] (https://github.com/cjgiron)
+- [Hitesh Mishra] (https://github.com/hitesh-mishra456)
 - [Maaz Muhammad] (https://github.com/maaz997)
 - [Hara] (https://github.com/hhara21)
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
