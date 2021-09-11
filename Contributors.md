@@ -336,6 +336,7 @@
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
+- [xchrisx](https://github.com/chrisxesq)
 - [Jianan Wang](https://github.com/edwang09)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Pranav Tanpure](https://github.com/pranav280300)
