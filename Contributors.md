@@ -275,7 +275,7 @@
 - [Alexander Nguyen](https://github.com/GalexyN)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
-- [Freda Xiaoyun Yu](https://https://github.com/FredaXYu)
+- [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
 - [Lucas Fontes](https://github.com/lvbfontes)
