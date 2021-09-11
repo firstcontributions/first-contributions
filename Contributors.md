@@ -1181,6 +1181,7 @@
 - [William Savary](https://github.com/flip902)
 - [Fenix Xia](https://github.com/Fenix3123)
 - [najes](https://github.com/najes)
+- [Rakesh](https://github.com/RAKESH32)
 - [Amit](https://github.com/amankul)
 - [aiair](https://github.com/panonpoe)
 - [aesaganda](https://github.com/aesaganda)
