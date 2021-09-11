@@ -426,6 +426,7 @@
 - [Liam Brock](https://github.com/liambrockpy)
 - [Alex Herrera](https://github.com/monkeylunchbreak)
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
+- [Fnechz](https://github.com/Fnechz)
 - [Kiriti](https://github.com/GVS-Kiriti)
 - [Khalil](https://github.com/khalil1233)
 - [Alain Sagna](https://github.com/alphilippo)
