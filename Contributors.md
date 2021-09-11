@@ -174,6 +174,7 @@
 - [Jiankarlo Belarmino](https://github.com/CSjianbel)
 - [aweliego](https://github.com/aweliego)
 - [Gareth Dawson](https://github.com/gwdawson)
+- [Daniel Brooker](https://github.com/dabrooke)
 - [Bhimesh Agrawal](https://github.com/bhimeshagrawal)
 - [Nick Karamessinis](https://github.com/nikkaramessinis)
 - [Aniket Kumar](https://github.com/aniket-24)
