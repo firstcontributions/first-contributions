@@ -1,5 +1,6 @@
 # Contributors
 - [Rav Galicio](https://github.com/Rabonito)
+- [Qiang Chen](https://github.com/KidLab2021)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Amrin](https://github.com/Coderamrin) 
