@@ -1,5 +1,6 @@
 # Contributors
 - [vishnu kumar prajapati](https://github.com/vishnu95075 )
+- [Michael Chong](https://github.com/michaeljchong)
 - [Goldenpreet Kaur](https://github.com/Golden-preet)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
