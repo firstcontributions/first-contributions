@@ -221,6 +221,7 @@
 - [Yatharth Nigam](https://github.com/yatharthnigam)
 - [aweliego] (https://github.com/aweliego)
 - [BHKR](https://github.com/BHKR)
+- [priyanshu](https://github.com/001priyanshu)
 - [IVIosab](https://github.com/IVIosab)
 - [Rishabh Rathore](https://github.com/rishabhrathore055)
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
