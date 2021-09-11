@@ -1,5 +1,4 @@
 # Contributors
-
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Amrin](https://github.com/Coderamrin) 
