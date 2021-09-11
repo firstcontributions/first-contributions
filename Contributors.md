@@ -273,6 +273,7 @@
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Junai22](https://github.com/Junai22)
 - [Grace K](https://github.com/kelleygrace88)
+- [Paulis Matrix](https://github.com/PaulisMatrix)
 - [Enyinna Chinwendu](https://github.com/wendeee)
 - [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
