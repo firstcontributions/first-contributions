@@ -477,6 +477,7 @@
 - [Andrew Brady](https://github.com/andybrady52)
 - [Devin Chugh](https://github.com/devinchugh)
 - [maryamdkh](https://github.com/maryamdkh)
+- [Yoltic Cruz Tello ✨🙋](https://github.com/Roseck16)
 - [Ajit Joshi](https://github.com/ajitjoshi)
 - [Harsh Saini](https://github.com/HarshSaini13)
 - [Shahril Lutfi](https://github.com/msl21)
