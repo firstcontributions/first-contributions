@@ -77,6 +77,7 @@
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Asim Delvi](https://github.com/asimdelvi)
+- [Michael Haselberger](https://github.com/mhasel)
 - [Saksham Singh](https://github.com/sakssingh)
 - [Max Sauer](https://github.com/mjs2011)
 - [Anupreet Singh](https://github.com/realanupreet)
