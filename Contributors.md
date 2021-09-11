@@ -1332,6 +1332,7 @@
 - [Baris Keskin](https://github.com/bkeskin91)
 - [thaliajuarez](https://github.com/thaliajuarez)
 - [Damian Tomalka](https://github.com/damian-tomalka)
+- [Ritu-Singh](https://github.com/RituSingh2002)
 - [Chaitanya M](https://github.com/ChaitanyaM18)
 - [Tyler Johnson](https://github.com/TJohnson986)
 - [Anthony Lopez](https://github.com/GrungeKarma)
