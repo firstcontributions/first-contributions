@@ -1349,6 +1349,7 @@
 - [Ryan Schwab](https://github.com/schwabfour)
 - [RedFox0x20](https://github.com/RedFox0x20)
 - [glide143](https://github.com/glide143)
+- [Alexey Luhinin](https://github.com/alexey-luhinin)
 - [Andrey Firsov](https://github.com/avfirsov)
 - [Richard Ormiston](https://github.com/rjormiston)
 - [jaabberwocky](https://github.com/jaabberwocky)
