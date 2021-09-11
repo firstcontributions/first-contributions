@@ -1,4 +1,5 @@
 # Contributors
+- [Manav Kampani](https://github.com/Kampani)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
