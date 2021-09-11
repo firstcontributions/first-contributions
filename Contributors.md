@@ -1367,6 +1367,7 @@
 - [todoggler](https://github.com/todoggler)🦭
 - [Alexey Luhinin](https://github.com/alexey-luhinin)
 - [Andrey Firsov](https://github.com/avfirsov)
+- [João Rosso](https://github.com/joaorosso)
 - [Richard Ormiston](https://github.com/rjormiston)
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [jaabberwocky](https://github.com/jaabberwocky)
