@@ -1,4 +1,5 @@
 # Contributors
+- [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [kurmittens](https://github.com/kurmittens/)
 - [Soufiane Elharem](https://github.com/Selharem)
 - [Sergey Romanenko](https://github.com/Awilum)
