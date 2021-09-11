@@ -1443,3 +1443,4 @@
 - [Suvarna Pattayil - SuvP](https://github.com/Suv-P)
 - [Richa Motwani](https://github.com/Richa2801)
 - [Josué Francisco](https://github.com/cassule)
+- [Nick Lu](https://github.com/nicklutuxun)
