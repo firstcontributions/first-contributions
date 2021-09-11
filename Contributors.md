@@ -196,6 +196,7 @@
 - [Islam Sulaiman](https://github.com/Islamsulaiman)
 - [Daniel Naughton](https://github.com/dtnaughton)
 - [Ernest Sebastian](https://github.com/Xebastian)
+- [Nick Irikawa](https://github.com/nirikawa)
 - [Eduardo Kusznieryk](https://github.com/kusznieryk)
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
 - [jfjini11](https://github.com/jjini11)
