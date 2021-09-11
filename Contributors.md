@@ -1,4 +1,5 @@
 # Contributors
+
 - [Rav Galicio](https://github.com/Rabonito)
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Usama](https://github.com/CS4Usama)
@@ -7,7 +8,7 @@
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Amrin](https://github.com/Coderamrin)
 - [Kelly](https://github.com/kellyxavier)
-- [Shubh Chudasama](https://github.com/c-shubh) 
+- [Shubh Chudasama](https://github.com/c-shubh)
 - [sunzida311](https://github.com/sunzida311)
 - [vishnu kumar prajapati](https://github.com/vishnu95075)
 - [Michael Chong](https://github.com/michaeljchong)
@@ -1010,6 +1011,7 @@
 - [tip14](https://github.com/tip14)
 - [Mateus Daniel](https://github.com/Matteuus)
 - [Devendra](https://github.com/debsdoon)
+- [MudiLoodi](https://github.com/MudiLoodi)
 - [Cuday](https://github.com/abrahes12-day)
 - [German III](https://github.com/germaniii)
 - [Raniery Mendes](https://github.com/RanieryMendes)
