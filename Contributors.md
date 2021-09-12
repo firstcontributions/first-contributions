@@ -208,6 +208,7 @@
 - [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
 - [Prateek Verma](https://github.com/PRATEEKVERMA-036)
+- [Anthony M](https://github.com/AnthonyMejia0)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
 - [Michael Fletez](https://github.com/mfletez)
 - [Mano Bharathi](https://github.com/ManoBharathi93)
