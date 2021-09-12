@@ -1,4 +1,5 @@
 # Contributors
+
 - [Rav Galicio](https://github.com/Rabonito)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Qiang Chen](https://github.com/KidLab2021)
@@ -8,7 +9,7 @@
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Amrin](https://github.com/Coderamrin)
 - [Kelly](https://github.com/kellyxavier)
-- [Shubh Chudasama](https://github.com/c-shubh) 
+- [Shubh Chudasama](https://github.com/c-shubh)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - [sunzida311](https://github.com/sunzida311)
 - [vishnu kumar prajapati](https://github.com/vishnu95075)
@@ -97,7 +98,7 @@
 - [Subham Kumar Pandey](https://github.com/SubhamKumarPandey)
 - [Yubraj Karki](https://github.com/Yubraj-Karki)
 - [Rachana Singh](https://github.com/rachana-singh27)
-[Anuj Yadav](https://github.com/ajishere07)
+  [Anuj Yadav](https://github.com/ajishere07)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Asim Delvi](https://github.com/asimdelvi)
@@ -121,7 +122,8 @@
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Elie Zgheib](https://github.com/ElieZgb)
 - [Jason Zhu](https://github.com/JasonZhu95)
-- [Sidhaant Thakker](https://github.com/SidhaantThakker)
+- [Sidhaant Thakker](https://github.com/SidhaantThakker) 
+- [Puja Chaudhury] (https://github.com/catplotlib)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
