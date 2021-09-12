@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Contributors
 - [Rav Galicio](https://github.com/Rabonito)
 - [Abd Ash](https://github.com/AbdAsh/)
@@ -1468,3 +1469,4 @@
 - [shi7](https://github.com/shi7)
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
+<!-- prettier-ignore-end -->
