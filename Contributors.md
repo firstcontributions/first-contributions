@@ -1363,6 +1363,7 @@
 - [Kunal Jha](https://github.com/kunljha)
 - [xnmll](https://github.com/xnmll)
 - [Dawit Meonnen](https://github.com/Dave-lab12)
+- [MistaAsh] (https://github.com/MistaAsh)
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
