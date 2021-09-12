@@ -1461,3 +1461,4 @@
 - [Zain Najeeb](https://github.com/Zain-Najeeb)
 - [Nick Lu](https://github.com/nicklutuxun)
 - [shi7](https://github.com/shi7)
+- [Chirag Maharjan](https://github.com/ChiragMhrzn)
