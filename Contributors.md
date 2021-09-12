@@ -25,6 +25,7 @@
 - [Alexander Shen](https://github.com/shenalexw)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
+- [Rohit Gangwar](https://github.com/rohit8020/)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
