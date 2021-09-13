@@ -82,6 +82,7 @@
 - [Gokul Thiagarajan](https://github.com/gokulthiagarajan)
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
+- [Joseph McGreene](https://github.com/JosephMcGreene)
 - [Kevin Hendrix](https://github.com/khendrix12)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
 - [Douglas Ede](https://github.com/Douglas4739)
