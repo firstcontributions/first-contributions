@@ -10,6 +10,7 @@
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
 - [Manav Kampani](https://github.com/Kampani)
+- [Rutvij Dave](https://github.com/rutvijdave12)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Amrin](https://github.com/Coderamrin)
 - [Kelly](https://github.com/kellyxavier)
