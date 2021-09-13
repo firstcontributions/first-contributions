@@ -40,6 +40,7 @@
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
+- [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Dayakar Heeraakri](https://github.com/DayakarH)
 - [Ayush Mishra](https://github.com/Beyonday008)
