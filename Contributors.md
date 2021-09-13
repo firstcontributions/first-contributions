@@ -82,6 +82,7 @@ Chirantan
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
 - [Walesson Silva](https://github.com/walesl04)
+- [Joseph Corbett](https://github.com/Corbett000)
 - [Rudolf Fonseca](https://github.com/rudolffonseca)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Kharlo Pena](https://github.com/Kharlo109)
