@@ -1471,4 +1471,5 @@
 - [shi7](https://github.com/shi7)
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
+- [Musa Ahmed](https://github.com/m-GDEV)
 <!-- prettier-ignore-end -->
