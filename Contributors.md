@@ -16,6 +16,7 @@
 - [Michael Chong](https://github.com/michaeljchong)
 - [Goldenpreet Kaur](https://github.com/Golden-preet)
 - [Eyal lampel](https://github.com/eyallampel1)
+- [Panshak Solomon](https://github.com/Panshak)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Simon Akl](https://github.com/sakl17)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
