@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 # Contributors
 - [Rav Galicio](https://github.com/Rabonito)
+- [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Andy](https://github.com/andy814/)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Bilal K.](https://github.com/bilalkhann16)
