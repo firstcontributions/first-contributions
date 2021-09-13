@@ -1449,6 +1449,7 @@
 - [Fotkurz](https://github.com/Fotkurz)
 - [A-Cer23](https://github.com/A-Cer23)
 - [Jeffrey-0](https://github.com/Jeffrey-0)
+- [Anirban Chand](https://github.com/Anirban-Chand)
 - [BJTL](https://github.com/BTJL)
 - [pdgreg](github.com/pdgreg)
 - [jocrah](https://github.com/jocrah)
