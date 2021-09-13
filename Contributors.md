@@ -1482,4 +1482,5 @@ Chirantan
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
 - [Musa Ahmed](https://github.com/m-GDEV)
+- [Scott Maitland](https://github.com/S-Maitland)
 <!-- prettier-ignore-end -->
