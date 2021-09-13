@@ -60,6 +60,7 @@
 - [Sahil Suman](https://github.com/sahilsuman933)
 - [Amit Pal](https://github.com/amitpal16181)
 - [Aiden Halili](https://github.com/aidenhalili)
+- [Megha Agarwal] (https://github.com/Megha184)
 - [Matthew Martinez](https://github.com/lilcobija)
 - [Chirantan Acharyya](https://github.com/chirantan-acharyya)
 - [Ricardo Chairez](https://github.com/ricardochairez)
