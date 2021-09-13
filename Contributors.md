@@ -185,6 +185,7 @@ Chirantan
 - [AJ Diaz](https://github.com/alexanderjessediaz)
 - [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
+- [Himanshi](https://github.com/Himanshi1207)
 - [Ujwal Kotla](https://github.com/ujwal49)
 - [Jacob Dawson](https://github.com/JacobDawson98)
 - [Yuvanna Bawa](https://github.com/YB73)
