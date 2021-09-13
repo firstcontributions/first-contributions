@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Contributors
 - [Rav Galicio](https://github.com/Rabonito)
-- [Di An](https://github.com/andy814/)
+- [Andy](https://github.com/andy814/)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Usama](https://github.com/CS4Usama)
