@@ -478,6 +478,7 @@ Chirantan
 - [Zachary Adams](https://github.com/FatalTrip)
 - [Muke Johnbaptist](https://github.com/MUKE-coder)
 - [Louis Bond](https://github.com/mrbondx)
+- [Cédric de Bruyne](https://github.com/Cedruyne)
 - [DestroFox](https://github.com/destrofox)
 - [Liam Brock](https://github.com/liambrockpy)
 - [Alex Herrera](https://github.com/monkeylunchbreak)
