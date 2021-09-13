@@ -55,6 +55,7 @@
 - [Amit Pal](https://github.com/amitpal16181)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Matthew Martinez](https://github.com/lilcobija)
+- [Chirantan Acharyya](https://github.com/chirantan-acharyya)
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
