@@ -22,7 +22,7 @@
 - [Goldenpreet Kaur](https://github.com/Golden-preet)
 - [Eyal lampel](https://github.com/eyallampel1)
 - [Panshak Solomon](https://github.com/Panshak)
-- [cookiies] (https://github.com/cookiies)
+- [my cookiies] (https://github.com/cookiies)
 - [BladeMaster]
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Simon Akl](https://github.com/sakl17)
