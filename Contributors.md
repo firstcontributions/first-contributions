@@ -1494,4 +1494,5 @@ Chirantan
 - [Musa Ahmed](https://github.com/m-GDEV)
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
+- [Deep Patel](https://github.com/DeepP2667)
 <!-- prettier-ignore-end -->
