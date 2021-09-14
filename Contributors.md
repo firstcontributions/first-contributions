@@ -1499,4 +1499,5 @@ Chirantan
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
 - [Deep Patel](https://github.com/DeepP2667)
+- [Loser] (https://github.com/LoserDevelopment)
 <!-- prettier-ignore-end -->
