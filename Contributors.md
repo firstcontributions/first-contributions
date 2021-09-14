@@ -1503,4 +1503,5 @@ Chirantan
 - [Prashant Srivastava](https://github.com/iamPrashSri)
 - [Deep Patel](https://github.com/DeepP2667)
 - [Loser] (https://github.com/LoserDevelopment)
+- [Karolox](https://github.com/karolox)
 <!-- prettier-ignore-end -->
