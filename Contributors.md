@@ -50,6 +50,7 @@
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [Piyush Agrawal](https://github.com/p1yu5h0)
+- [Maryll Castelino](https://github.com/Maryll-castelino)
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
