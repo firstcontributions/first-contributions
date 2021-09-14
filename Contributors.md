@@ -264,6 +264,7 @@ Chirantan
 - [aweliego] (https://github.com/aweliego)
 - [BHKR](https://github.com/BHKR)
 - [priyanshu](https://github.com/001priyanshu)
+- [Temitope Feyisitan](https://github.com/epotimeT)
 - [IVIosab](https://github.com/IVIosab)
 - [Rishabh Rathore](https://github.com/rishabhrathore055)
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
