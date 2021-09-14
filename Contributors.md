@@ -1,5 +1,6 @@
 <!-- prettier-ignore-start -->
 # Contributors
+- [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Andy](https://github.com/andy814/)
