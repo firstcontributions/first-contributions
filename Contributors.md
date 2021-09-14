@@ -25,6 +25,7 @@
 - [BladeMaster]
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Simon Akl](https://github.com/sakl17)
+- [Daniel Steinschreiber](https://github.com/dsteinschreiber)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
