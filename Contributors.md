@@ -1,4 +1,5 @@
 # Contributors
+- [Bek Roz](https://github.com/bekrozikoff)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Swayam Kaul](https://github.com/swayamkaul)
