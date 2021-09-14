@@ -439,6 +439,7 @@ Chirantan
 - [Maxi Chiale](https://github.com/maxichiale)
 - [Pedro Cisternas](https://github.com/pedrocisternas)
 - [Abdulla09](https://github.com/Abdulla09)
+- [zach0811](https://github.com/zach0811)
 - [Karthik2k1](https://github.com/KarthikRaja2k1)
 - [Steven Zhang](https://github.com/dmangames)
 - [Debasmita Samadder](https://github.com/tech-deb)
