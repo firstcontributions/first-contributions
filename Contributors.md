@@ -52,6 +52,7 @@
 - [Aashish Illa](https://github.com/aashish0909)
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - Dim Chika
+- [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
 - [Dylan Anderson](https://github.com/DylanAnderson35)
