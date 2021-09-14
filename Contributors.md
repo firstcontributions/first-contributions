@@ -173,6 +173,7 @@ Chirantan
 - [xsthetic](https://github.com/xsthetic)
 - [Tyler Laquinta](https://github.com/tylerlaquinta)
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
+- [Anabela Tot](https://github.com/Anabellia)
 - [Jagrat Gupta](https://github.com/JagratG07)
 - [Florian Edemessi](https://github.com/nair0lf32)
 - [ADAMU M. M.](https://github.com/AdamsGeeky)
