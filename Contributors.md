@@ -1508,4 +1508,5 @@ Chirantan
 - [Deep Patel](https://github.com/DeepP2667)
 - [Loser] (https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
+- [JPMurara](https://github.com/JPMurara)
 <!-- prettier-ignore-end -->
