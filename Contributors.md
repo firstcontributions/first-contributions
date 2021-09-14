@@ -1498,4 +1498,5 @@ Chirantan
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
 - [Deep Patel](https://github.com/DeepP2667)
+- [Freaking epic guy](https://github.com/tiniestdev)
 <!-- prettier-ignore-end -->
