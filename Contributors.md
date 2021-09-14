@@ -54,6 +54,7 @@
 - [Maryll Castelino](https://github.com/Maryll-castelino)
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
+- [Shikonn Tamanegi](https://github.com/Shikunsh)
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - Dim Chika
 - [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
