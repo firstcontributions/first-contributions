@@ -297,6 +297,7 @@ Chirantan
 - [Diveshan](https://github.com/Dive1995)
 - [Nisarg Kudgunti](https://github.com/Nisarg6502)
 - [Mohan Sahu](https://github.com/mohantechnology)
+- [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Harshit Vaish](https://github.com/Harshit036)
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
