@@ -129,6 +129,7 @@ Chirantan
 - [avid-priyanshu](https://github.com/avidpriyanshu)
 - [Manik Billawria](https://github.com/ManikBillawria)
 - [Jackie Ye](https://github.com/JackieYe27)
+- [Shaun Lockie] (https://github.com/Shaunlockie)
 - [Naftoli Ost](https://github.com/naftoliost)
 - [Rukundo Kevin](https://github.com/rukundo-kevin)
 - [Kaushik](https://github.com/KaushikKC)
