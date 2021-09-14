@@ -1497,6 +1497,7 @@ Chirantan
 - [Zain Najeeb](https://github.com/Zain-Najeeb)
 - [Nick Lu](https://github.com/nicklutuxun)
 - [shi7](https://github.com/shi7)
+- [shahwezahmad](https://github.com/shahwezahmad)
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
 - [Musa Ahmed](https://github.com/m-GDEV)
@@ -1505,4 +1506,5 @@ Chirantan
 - [Deep Patel](https://github.com/DeepP2667)
 - [Loser] (https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
+
 <!-- prettier-ignore-end -->
