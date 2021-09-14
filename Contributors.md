@@ -767,6 +767,7 @@ Chirantan
 - [Kyle Smith](https://github.com/sKorpion19091)
 - [tugotron](https://github.com/tugotron)
 - [Ayush Sahni](https://github.com/ayushsahnios)
+- [Jaime Justo](https://github.com/jaimejusto)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
 - [Max Notarangelo](https://github.com/MaxNotarangelo)
