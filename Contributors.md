@@ -33,6 +33,7 @@
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
+- [Siddhartha Sarkar](https://github.com/siddsarkar)
 - [Aman](https://github.com/av-feaster)
 - [tonim19](https://github.com/tonim19)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
