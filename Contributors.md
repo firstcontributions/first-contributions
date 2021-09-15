@@ -694,6 +694,7 @@ Chirantan
 - [ev9nsk](https://github.com/ev9nsk)
 - [NemaPy](https://github.com/nemapy)
 - [Jagadeesh G](https://github.com/therandomuserr)
+- [Nikhil Kumar](https://github.com/NikhilGithubOfficial)
 - [Sowande Iyanuoluwa](https://github.com/iyanushow)
 - [Jonathan](https://github.com/Jonny2379)
 - [Erik Tastepe](https://github.com/erik-tastepe)
