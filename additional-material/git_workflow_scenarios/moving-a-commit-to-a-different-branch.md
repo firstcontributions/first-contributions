@@ -7,8 +7,8 @@ To do this, type:
 
 ```git reset HEAD~ --soft``` - Undoes the last commit, but leave the changes available.  
 ```git stash``` - Records the state of the directory.  
-
 ```git checkout name-of-the-correct-branch``` - Switches to another branch.
+
 ```git stash pop``` - Removes latest stashed state.  
 ```git add .``` - Or try adding individual files.  
 ```git commit -m "your message here"``` - Saves and Commits the changes.  
