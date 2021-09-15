@@ -1519,4 +1519,5 @@ Chirantan
 - [Loser] (https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
 - [JPMurara](https://github.com/JPMurara)
+- [awilkin](https://github.com/awilkin)
 <!-- prettier-ignore-end -->
