@@ -2,7 +2,10 @@
 
 # Contributors
 
+<<<<<<< HEAD
 - [Kwesi Obika](https://github.com/KwesiObika)
+=======
+>>>>>>> 736adf5d1f393ace4e56a7f1ae31aa80b8418ef5
 - [Rav Galicio](https://github.com/Rabonito)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Andy](https://github.com/andy814/)
@@ -155,6 +158,7 @@
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Elie Zgheib](https://github.com/ElieZgb)
 - [Jason Zhu](https://github.com/JasonZhu95)
+- [Benjamin Benitez](https://github.com/BenjaminBenitez-cmd)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
 - [Matthew Joyce](https://github.com/matthewJ1981)
