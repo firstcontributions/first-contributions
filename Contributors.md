@@ -1521,6 +1521,7 @@ Chirantan
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
 - [Deep Patel](https://github.com/DeepP2667)
+- [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
 - [Loser] (https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
 - [JPMurara](https://github.com/JPMurara)
