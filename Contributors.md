@@ -4,6 +4,7 @@
 - [Rav Galicio](https://github.com/Rabonito)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Andy](https://github.com/andy814/)
+- [Michael] (https://github.com/Michael-Ivanov1)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
