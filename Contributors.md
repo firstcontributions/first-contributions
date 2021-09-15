@@ -18,6 +18,7 @@
 - [Kelly](https://github.com/kellyxavier)
 - [Shubh Chudasama](https://github.com/c-shubh) 
 - [Aarushi Jain](https://github.com/Aarushijain-06)
+- [Michael] (https://github.com/Michael-Ivanov1)
 - [sunzida311](https://github.com/sunzida311)
 - [vishnu kumar prajapati](https://github.com/vishnu95075)
 - [Michael Chong](https://github.com/michaeljchong)
