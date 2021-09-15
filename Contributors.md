@@ -168,6 +168,7 @@ Chirantan
 - [Hitesh Mishra] (https://github.com/hitesh-mishra456)
 - [Maaz Muhammad] (https://github.com/maaz997)
 - [Hara] (https://github.com/hhara21)
+- [Ishan Gupta](https://github.com/developer-ishan)
 - [Abhishek Ranjan] (https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [Henok Wondimu](https://github.com/henok3878)
