@@ -1525,4 +1525,5 @@ Chirantan
 - [JPMurara](https://github.com/JPMurara)
 - [awilkin](https://github.com/awilkin)
 - [Bhavesh](https://github.com/Bhavesh0301/)
+- [Michael](https://github.com/Michael-Ivanov1/)
 <!-- prettier-ignore-end -->
