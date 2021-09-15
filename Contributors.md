@@ -300,6 +300,7 @@ Chirantan
 - [Manoj](https://github.com/manojxk)
 - [Walter Galdamez](https://github.com/waltergaldamez)
 - [Siddharth Singh](https://github.com/SiddyDevelops)
+- [Siddny Kip](https://github.com/Siddny)
 - [NeuroTypicalCure](https://github.com/NeuroTypicalCure)
 - [Ryan Demboski](https://github.com/rdemboski)
 - [Saeed Esmaeelinejad](https://github.com/SaeedEsmaeelinejad)
