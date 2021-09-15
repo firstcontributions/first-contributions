@@ -75,6 +75,7 @@
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [Sahil Suman](https://github.com/sahilsuman933)
 - [Amit Pal](https://github.com/amitpal16181)
+- [Austin Pautz] (https://github.com/austindesosa)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Megha Agarwal] (https://github.com/Megha184)
 - [Matthew Martinez](https://github.com/lilcobija)
