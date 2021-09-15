@@ -1476,6 +1476,7 @@ Chirantan
 - [MrMultiMediator](https://github.com/MrMultiMediator)
 - [Arnold Ho](https://github.com/arnoldboy123)
 - [Allan Paul Rosero](https://github.com/allanrosero)
+- [Arianna Haradon](https://github.com/arianna-h-h)
 - [Dong Xia](https://github.com/Dong-Yi-Xia)
 - [Chris LoJacono](https://github.com/chrislojacono)
 - [Emma Carlsson](https://github.com/emmeth99)
