@@ -809,6 +809,7 @@ Chirantan
 - [Pratik Zinjurde](https://github.com/pratikpz18)
 - [Rohan Babbar](https://github.com/rohanbabbar04)
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
+- [Estelle Severs](https://github.com/EstelleSevers)
 - [Yuba Neupane](https://github.com/YubaNeupane)
 - [kyourikey](https://github.com/kyourikey)
 - [Asier Exposito](https://github.com/expuexto)
