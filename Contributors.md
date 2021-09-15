@@ -27,6 +27,7 @@
 - [cookiies](https://github.com/cookiies)
 - [BladeMaster]
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
+- [Neeraj M R](https://github.com/neerajram30)
 - [Simon Akl](https://github.com/sakl17)
 - [Daniel Steinschreiber](https://github.com/dsteinschreiber)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
