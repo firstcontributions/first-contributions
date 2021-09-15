@@ -98,6 +98,7 @@ Chirantan
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Kharlo Pena](https://github.com/Kharlo109)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
+- [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Ahmed Fathy](https://github.com/ahmedfathydev)
 - [Andrey Nagatani](https://github.com/inatagan)
 - [Shubham Sarkar](https://github.com/DevastatingRPG)
