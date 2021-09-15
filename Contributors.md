@@ -728,6 +728,7 @@ Chirantan
 - [Shubham Priyank](https://github.com/priyank-091)
 - [Dewansh Thakur](https://github.com/dewanshDT)
 - [Lucas K](https://github.com/lk1ng)
+- [Philippe Proctor](https://github.com/peproctor)
 - [Justin Tran](https://github.com/justintran12)
 - [Ankit rawat](https://github.com/Ankit7895)
 - [Shubh Deep](https://github.com/shubh128)
