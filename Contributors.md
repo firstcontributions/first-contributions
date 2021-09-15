@@ -53,6 +53,7 @@
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
+- [Mitch Bertsch](https://github.com/bmxtricky)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Herman Ceaser](https://github.com/HermanCeaser)
 - [Dayakar Heeraakri](https://github.com/DayakarH)
