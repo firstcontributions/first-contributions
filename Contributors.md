@@ -50,6 +50,7 @@
 - [Ritesh ](https://github.com/RiteshK555)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Anurag Garg](https://github.com/anuraggarg3)
+- [Herman Ceaser](https://github.com/HermanCeaser)
 - [Dayakar Heeraakri](https://github.com/DayakarH)
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
