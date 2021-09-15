@@ -87,6 +87,7 @@
 - [Patrick Crouch](https://github.com/PatrickCrouch)
 - [SMRITI RAO](https://github.com/Smriti0311)
 - [Vishal Chauhan](https://github.com/vish-han)
+- [Maura Thompson](https://github.com/mauratee)
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Matt Auer](https://github.com/matt-user)
