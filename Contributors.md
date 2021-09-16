@@ -8,6 +8,7 @@
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Michael] (https://github.com/Michael-Ivanov1)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shivam Pali](https://github.com/shivampali-2020)
