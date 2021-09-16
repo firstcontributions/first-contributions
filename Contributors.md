@@ -142,6 +142,7 @@ Chirantan
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Michael Haselberger](https://github.com/mhasel)
+- [Swastik Samal](https://github.com/Swastik-tsk)
 - [Saksham Singh](https://github.com/sakssingh)
 - [Max Sauer](https://github.com/mjs2011)
 - [Anupreet Singh](https://github.com/realanupreet)
