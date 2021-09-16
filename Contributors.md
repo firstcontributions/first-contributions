@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 # Contributors
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
@@ -1193,6 +1193,7 @@ Chirantan
 - [Mariah Bradford](https://github.com/bbykitty)
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
+- [Mohammad Ali Rabbi]( https://github.com/RABBI31)
 - [GerPut](https://github.com/GerPut)
 - [Brad Costello](https://github.com/bearcaffeine)
 - [Gayatri Gurram](https://github.com/gayatri05)
