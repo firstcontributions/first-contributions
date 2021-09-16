@@ -774,6 +774,7 @@ Chirantan
 - [swoorr](https://github.com/Dhrunit/)
 - [Tristan John Magpayo](https://github.com/tristanmagpayo)
 - [Jabbar Bie](https://github.com/jabbarbie)
+- [Egidio De-Souza](https://github.com/EgidioDe-Souza)
 - [Fatemeh Khaledian](https://github.com/fatemehkhaledian)
 - [Mahmoud Hussein](https://github.com/MhmoudAlim)
 - [Joe Forrester](https://github.com/cujaf6)
