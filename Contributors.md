@@ -8,6 +8,7 @@
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
+- [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
