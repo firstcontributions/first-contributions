@@ -639,6 +639,7 @@ Chirantan
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
 - [Amy Pharris](https://github.com/amyrosep)
+- [Harshit Pratap Singh](https://github.com/Harshit1047)
 - [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
 - [Arnab Chakraborty](https://github.com/ArnabC27)
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
@@ -1545,4 +1546,5 @@ Chirantan
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
 - [Rado Maycon](https://github.com/RadoMaycon)
+
 <!-- prettier-ignore-end -->
