@@ -20,7 +20,7 @@
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [Amrin](https://github.com/Coderamrin)
 - [Kelly](https://github.com/kellyxavier)
-- [Shubh Chudasama](https://github.com/c-shubh) 
+- [Shubh Chudasama](https://github.com/c-shubh)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - [sunzida311](https://github.com/sunzida311)
 - [vishnu kumar prajapati](https://github.com/vishnu95075)
@@ -97,7 +97,7 @@
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Matt Auer](https://github.com/matt-user)
-Chirantan 
+Chirantan
 - [MontejoJorge](https://github.com/montejojorge) 🍍
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
@@ -946,6 +946,7 @@ Chirantan
 - [2293736867](https://github.com/2293736867)
 - [SnowyLake](https://github.com/SnowyLake)
 - [KallocainSynthemesc](https://github.com/KallocainSynthemesc)
+- [jimosl1ce](https://github.com/jimbosl1ce)
 - [lastchiliarch](https://github.com/lastchiliarch)
 - [GrilledLettuce](https://github.com/GrilledLettuce)
 - [RyanHu](https://github.com/RyanHu0401/)
