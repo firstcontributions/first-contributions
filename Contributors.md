@@ -72,6 +72,7 @@
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - Dim Chika
 - [Tay West](https://github.com/tayannewest)
+- [Jorge Ochoa-Reyes](https://github.com/JorgeOchoaReyes)
 - [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
