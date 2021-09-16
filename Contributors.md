@@ -5,7 +5,7 @@
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [chengchenrui](https://github.com/chengchenrui)
 - [Andy](https://github.com/andy814/)
-- [SyedAsadImtiaz](https://github.com/Syed-Asad-Imtiaz)
+- [SyedAsad](https://github.com/Syed-Asad-Imtiaz)
 - [Michael] (https://github.com/Michael-Ivanov1)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Bilal K.](https://github.com/bilalkhann16)
