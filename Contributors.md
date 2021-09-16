@@ -1544,4 +1544,5 @@ Chirantan
 - [awilkin](https://github.com/awilkin)
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
+- [Rado Maycon](https://github.com/RadoMaycon)
 <!-- prettier-ignore-end -->
