@@ -1545,4 +1545,6 @@ Chirantan
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
 - [Rado Maycon](https://github.com/RadoMaycon)
+- [Divyansh Patel](https://github.com/divyansh1004)
+
 <!-- prettier-ignore-end -->
