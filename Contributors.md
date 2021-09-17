@@ -1,5 +1,7 @@
 ﻿<!-- prettier-ignore-start -->
+
 # Contributors
+
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
@@ -24,7 +26,7 @@
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [Amrin](https://github.com/Coderamrin)
 - [Kelly](https://github.com/kellyxavier)
-- [Shubh Chudasama](https://github.com/c-shubh) 
+- [Shubh Chudasama](https://github.com/c-shubh)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - [sunzida311](https://github.com/sunzida311)
 - [vishnu kumar prajapati](https://github.com/vishnu95075)
@@ -105,8 +107,9 @@
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Matt Auer](https://github.com/matt-user)
-Chirantan 
+  Chirantan
 - [MontejoJorge](https://github.com/montejojorge) 🍍
+- [Tia S](https://github.com/tia-kristen)
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
@@ -145,7 +148,7 @@ Chirantan
 - [Subham Kumar Pandey](https://github.com/SubhamKumarPandey)
 - [Yubraj Karki](https://github.com/Yubraj-Karki)
 - [Rachana Singh](https://github.com/rachana-singh27)
-[Anuj Yadav](https://github.com/ajishere07)
+  [Anuj Yadav](https://github.com/ajishere07)
 - [Arvind Jei](https://github.com/arvjei11)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
@@ -1213,7 +1216,7 @@ Chirantan
 - [Mariah Bradford](https://github.com/bbykitty)
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
-- [Mohammad Ali Rabbi]( https://github.com/RABBI31)
+- [Mohammad Ali Rabbi](https://github.com/RABBI31)
 - [GerPut](https://github.com/GerPut)
 - [Brad Costello](https://github.com/bearcaffeine)
 - [Gayatri Gurram](https://github.com/gayatri05)
