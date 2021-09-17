@@ -66,6 +66,7 @@
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Herman Ceaser](https://github.com/HermanCeaser)
 - [Dayakar Heeraakri](https://github.com/DayakarH)
+- [Hex Her](https://github.com/HerHex)
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [Piyush Agrawal](https://github.com/p1yu5h0)
