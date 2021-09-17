@@ -1562,7 +1562,7 @@ Chirantan
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
 - [Rado Maycon](https://github.com/RadoMaycon)
 - [Isaiah Bell](https://github.com/Isaiah-B)
-- [Uddalak](https://github.com/UD11)
+- [Uddalak Seal](https://github.com/UD11)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
 - [Alok Verma] (https://github.com/alokverma749)
