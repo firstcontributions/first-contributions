@@ -1551,5 +1551,6 @@ Chirantan
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
 - [Rado Maycon](https://github.com/RadoMaycon)
+- [Isaiah Bell](https://github.com/Isaiah-B)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
