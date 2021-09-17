@@ -41,6 +41,7 @@
 - [Simon Akl](https://github.com/sakl17)
 - [Daniel Steinschreiber](https://github.com/dsteinschreiber)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
+  [MMA](https://github.com/MyatMinAung)
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
