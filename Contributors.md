@@ -13,6 +13,7 @@
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
+- [Anushka](https://github.com/Anushh23)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
 - [Manav Kampani](https://github.com/Kampani)
