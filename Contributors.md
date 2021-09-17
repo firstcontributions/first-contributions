@@ -1422,6 +1422,7 @@ Chirantan
 - [or bunfad](https://github.com/orbunfad)
 - [Curtis Dean](https://github.com/cdeanatx)
 - [r3dg33k](https://github.com/r3dg33k)
+- [Brennon Loveless](https://github.com/bloveless)
 - [jabir](https://github.com/jabir366)
 - [Zuraiz Ahmed Shehzad](https://github.com/ZuraizAhmedShehzad)
 - [Gustavo Tavares](https://github.com/gustavo600)
