@@ -1026,6 +1026,7 @@ Chirantan
 - [Dmitriy Bulygin](https://github.com/demetriusstorm)
 - [lemon37564](https://github.com/lemon37564)
 - [Kenny Tran](https://github.com/kennyctran)
+- [NYC Coder](https://github.com/Rudy2401)
 - [jiaoyaxing](https://github.com/jiaoyaxing)
 - sarvagya rastogi
 - [Nickolay Paramonov](https://github.com/doing-art)
