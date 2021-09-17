@@ -202,6 +202,7 @@ Chirantan
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
+- [Dan Kollar](https://github.com/dkollar)
 - [Dharmesh Upadhyay](https://github.com/itsdharmxd)
 - [xsthetic](https://github.com/xsthetic)
 - [Tyler Laquinta](https://github.com/tylerlaquinta)
