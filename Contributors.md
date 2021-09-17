@@ -556,6 +556,7 @@ Chirantan
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Ishan Gupta](https://github.com/ishan-gupt)
 - [Kaung Wai](https://github.com/kaungwai)
+- [Ayushman Singh Rathore](https://github.com/Spartan09)
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Vinod Biradar](https://github.com/vinod014)
