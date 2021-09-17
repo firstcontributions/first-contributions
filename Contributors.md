@@ -1564,6 +1564,7 @@ Chirantan
 - [Rado Maycon](https://github.com/RadoMaycon)
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak](https://github.com/UD11)
+- [Aditya Tapshalkar](https://github.com/adityataps)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
 - [Alok Verma] (https://github.com/alokverma749)
