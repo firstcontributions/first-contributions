@@ -1542,6 +1542,7 @@ Chirantan
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
 - [Musa Ahmed](https://github.com/m-GDEV)
+- [Ashwin V Kumar](https://github.com/AshwinVKumar)
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
 - [Deep Patel](https://github.com/DeepP2667)
