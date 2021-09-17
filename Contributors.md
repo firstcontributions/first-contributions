@@ -125,6 +125,7 @@ Chirantan
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
 - [HHz8746](https://github.com/HHz8746)
+- [Shrey Nahar] (https://github.com/Shrey-Nahar)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Alexander Craggs](https://github.com/EyreC)
