@@ -67,6 +67,7 @@
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
+- [Vedran Baric](https://github.com/vedranb7)
 - [Mitch Bertsch](https://github.com/bmxtricky)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Herman Ceaser](https://github.com/HermanCeaser)
