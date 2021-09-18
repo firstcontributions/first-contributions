@@ -1566,6 +1566,7 @@ Chirantan
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak Seal](https://github.com/UD11)
 - [Aditya Tapshalkar](https://github.com/adityataps)
+- [DROSHTA_11](https://github.com/UD11)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
 - [Alok Verma] (https://github.com/alokverma749)
