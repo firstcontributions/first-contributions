@@ -3,6 +3,7 @@
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
+- [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [chengchenrui](https://github.com/chengchenrui)
 - [Andy](https://github.com/andy814/)
