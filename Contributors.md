@@ -10,6 +10,7 @@
 - [Michael] (https://github.com/Michael-Ivanov1)
 - [AtanuGhosh] (https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
