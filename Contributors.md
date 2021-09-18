@@ -15,6 +15,7 @@
 - [Suhaib Hamdallah] (https://github.com/suhaibhamdallah)
 - [Sachin Upadhyay](https://github.com/sachsbu)
 - [Priyanka Suthaar](https://github.com/Priyanka94suthaar)
+- [Rishit Pandey](https://github.com/prishit55)
 - [HMT](https://github.com/HlaingMinThan)
 - Matt
 - Ccode-lang
