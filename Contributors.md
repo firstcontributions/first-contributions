@@ -51,6 +51,7 @@
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
 - [Aman](https://github.com/av-feaster)
+- [Aaditya Prasad](https://github.com/aaditya9899)
 - [tonim19](https://github.com/tonim19)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
 - [Soufiane Elharem](https://github.com/Selharem)
