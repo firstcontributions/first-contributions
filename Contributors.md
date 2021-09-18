@@ -26,6 +26,7 @@
 - [Rutvij Dave](https://github.com/rutvijdave12)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
+- [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
 - [Kelly](https://github.com/kellyxavier)
 - [Shubh Chudasama](https://github.com/c-shubh) 
