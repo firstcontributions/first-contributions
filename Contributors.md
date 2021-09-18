@@ -38,6 +38,7 @@
 - [Goldenpreet Kaur](https://github.com/Golden-preet)
 - [ahop1](https://github.com/ahop1)
 - [Antonio Martinez](https://github.com/op3n-signal)
+- [Erick Sanchez Vital](https://github.com/Erick-vital)
 - [Eyal lampel](https://github.com/eyallampel1)
 - [Panshak Solomon](https://github.com/Panshak)
 - [cookiies](https://github.com/cookiies)
