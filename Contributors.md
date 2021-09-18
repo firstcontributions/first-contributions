@@ -99,7 +99,7 @@
 - [CharlieEdwards](https://github.com/cpaule1811)
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
 - [Kevin Aguilera](https://github.com/KevinDanae)
-- [Nayan Sabnis] (https://github.com/nayans99)
+- [Nayan Sabnis](https://github.com/nayans99)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [Patrick Crouch](https://github.com/PatrickCrouch)
 - [SMRITI RAO](https://github.com/Smriti0311)
