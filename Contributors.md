@@ -17,6 +17,7 @@
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
+- [Samruddhi Anil Ghodake] (https://github.com/samughodake)
 - [Ahmed Elselly] (https://github.com/AhmedElselly)
 - [Anushka](https://github.com/Anushh23)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
