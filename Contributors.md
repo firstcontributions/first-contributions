@@ -1572,6 +1572,7 @@ Chirantan
 - [Uddalak](https://github.com/UD11)
 - [Aditya Tapshalkar](https://github.com/adityataps)
 - [Guilherme do C. Costa](https://github.com/Guiilhermecosta)
+- [Parbat Limbu](https://github.com/Habray)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
 - [Alok Verma] (https://github.com/alokverma749)
