@@ -90,6 +90,7 @@
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
 - [Dylan Anderson](https://github.com/DylanAnderson35)
 - [Lewis Hill](https://github.com/lewy192)
+- [Sankalp Swami](https://github.com/SwamiSankalp)
 - [Ahmed Wafik](https://github.com/wafik111)
 - [Venkatakrishnan G](https://github.com/venkat-gvk)
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
