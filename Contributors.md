@@ -750,6 +750,7 @@ Chirantan
 - [moaz basheer](https://github.com/moazbasheer)
 - [Brian Tieu](http://github.com/briantieu)
 - [Shivam](https://github.com/shivamt2)
+- [Pat Peters](https://github.com/ppeters0502)
 - [Rizwan](https://github.com/cr440)
 - [Shamil Gemuev](https://github.com/NobleBumblebee)
 - [Muhammad Noman Soomro](https://github.com/MuhammadNomanS)
