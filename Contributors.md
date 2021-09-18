@@ -581,6 +581,7 @@ Chirantan
 - [Raja Mishra](https://github.com/Raja-mishra1)
 - [Brandon Pokorny](https://github.com/Clickedbigfoot)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)
+- [Manuel Can Kaya](https://github.com/roblox99)
 - [Mansi Saini](https://github.com/msaini26)
 - [Andrew Brady](https://github.com/andybrady52)
 - [Devin Chugh](https://github.com/devinchugh)
