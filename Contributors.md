@@ -867,6 +867,7 @@ Chirantan
 - [Madhu Madhavan Sridhar](https://github.com/MadhuMadhavanSridhar)
 - [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
 - [Jake Z](https://github.com/EsuFeDia)
+- [Zuko Tetyana](https://github.com/Techyana)
 - [Abhishek-Rath](https://github.com/Abhishek-Rath)
 - [Bhavya B](https://github.com/Bhavya-Budhia)
 - [Emil M](https://github.com/znibblol)
