@@ -1564,6 +1564,7 @@ Chirantan
 - [Loser] (https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
 - [JPMurara](https://github.com/JPMurara)
+  [PuduManie](https://github.com/JacquesPMvanWyk)
 - [awilkin](https://github.com/awilkin)
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
