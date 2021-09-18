@@ -81,6 +81,7 @@
 - [Aashish Illa](https://github.com/aashish0909)
 - [Shikonn Tamanegi](https://github.com/Shikunsh)
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
+- [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
 - [Tay West](https://github.com/tayannewest)
 - [Jorge Ochoa-Reyes](https://github.com/JorgeOchoaReyes)
