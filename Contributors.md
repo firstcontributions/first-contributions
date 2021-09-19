@@ -6,6 +6,7 @@
 - [Rav Galicio](https://github.com/Rabonito)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
+- [Anthony Aleman](https://github.com/anthony-aleman)
 - [chengchenrui](https://github.com/chengchenrui)
 - [Andy](https://github.com/andy814/)
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
