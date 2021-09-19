@@ -1356,6 +1356,7 @@ Chirantan
 - [Randika Rodrigo](https://github.com/RandikaR21)
 - [likeurboss](https://github.com/likeurboss)
 - [Wajid](https://github.com/iamswh)
+- [PaulEraz](https://github.com/PaulEraz)
 - [Randika Rodrigo](https://github.com/RandikaR21)
 - [Enda Crossan](https://github.com/endacrossan/)
 - [Luke Paner](https://github.com/lukelucas1794)
