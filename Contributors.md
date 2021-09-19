@@ -1,5 +1,6 @@
 ﻿<!-- prettier-ignore-start -->
 # Contributors
+- [ANKESH](https://github.com/Ankesh054-official)
 - [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
@@ -21,9 +22,9 @@
 - [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
 - [John](https://github.com/konig-coo)
-- [Samruddhi Anil Ghodake] (https://github.com/samughodake)
-- [Nithin Vasalamari] (https://github.com/Nithin-droid)
-- [Ahmed Elselly] (https://github.com/AhmedElselly)
+- [Samruddhi Anil Ghodake](https://github.com/samughodake)
+- [Nithin Vasalamari](https://github.com/Nithin-droid)
+- [Ahmed Elselly](https://github.com/AhmedElselly)
 - [Jacob] (https://)
 - [Anushka](https://github.com/Anushh23)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
