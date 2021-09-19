@@ -47,6 +47,7 @@
 - [Panshak Solomon](https://github.com/Panshak)
 - [cookiies](https://github.com/cookiies)
 - [BladeMaster]
+- [Jinish Shah](https://github.com/jinish08)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Rashid Wassan](https://github.com/rashidwassan)
 - [Neeraj M R](https://github.com/neerajram30)
