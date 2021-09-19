@@ -283,6 +283,7 @@ Chirantan
 - [Roy Ntaate](https://github.com/RNtaate)
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
+- [Vladimir Meshalkin](https://github.com/LadMes)
 - [Martin Meng](https://github.com/MartinMxn)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Supratim Majumder](https://github.com/Supratim30)
