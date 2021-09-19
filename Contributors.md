@@ -67,6 +67,7 @@
 - [Rohit Gangwar](https://github.com/rohit8020/)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
+- [Ted Dino](https://github.com/ted-dino)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [Ritesh ](https://github.com/RiteshK555)
