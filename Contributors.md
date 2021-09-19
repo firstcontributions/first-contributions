@@ -1587,6 +1587,7 @@ Chirantan
 - [Guilherme do C. Costa](https://github.com/Guiilhermecosta)
 - [M.Aqib](https://github.com/softML15973)
 - [okkjoo](https://github.com/okkjoo)
+- [J.Cooper](http://github.com/konig-coo)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
 - [Alok Verma] (https://github.com/alokverma749)
