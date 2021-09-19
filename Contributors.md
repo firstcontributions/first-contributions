@@ -1,4 +1,4 @@
-﻿<!-- prettier-ignore-start -->
+﻿﻿<!-- prettier-ignore-start -->
 # Contributors
 - [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
 - [Kurtis Gibson](https://github.com/kagibson)
@@ -1595,4 +1595,5 @@ Chirantan
 - [art94timer](https://github.com/art94timer)
 <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
-- [Alok Verma] (https://github.com/alokverma749)
+- [Alok Verma] (https://github.com/alokverma749
+- [muzizi727](https://github.com/muzizi727/) 
