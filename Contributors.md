@@ -19,6 +19,7 @@
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
+- [John](https://github.com/konig-coo)
 - [Samruddhi Anil Ghodake] (https://github.com/samughodake)
 - [Nithin Vasalamari] (https://github.com/Nithin-droid)
 - [Ahmed Elselly] (https://github.com/AhmedElselly)
