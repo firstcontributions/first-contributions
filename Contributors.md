@@ -1371,6 +1371,7 @@ Chirantan
 - [Maulik Sompura](https://github.com/maulik225)
 - [Romeshb](https://github.com/romeshb)
 - [Jorge Agoiz Pedraja](https://github.com/jorgeAgoiz)
+- [Ali Nategh](https://github.com/alinategh-js)
 - [Rodrigo Pova](https://github.com/rodrigo-pova)
 - [bkmak](https://github.com/bkmak)
 - [windy](https://github.com/zfwang95)
