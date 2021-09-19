@@ -1,5 +1,6 @@
 ﻿<!-- prettier-ignore-start -->
 # Contributors
+- [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
