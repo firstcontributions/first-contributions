@@ -22,6 +22,7 @@
 - [Samruddhi Anil Ghodake] (https://github.com/samughodake)
 - [Nithin Vasalamari] (https://github.com/Nithin-droid)
 - [Ahmed Elselly] (https://github.com/AhmedElselly)
+- [Jacob] 
 - [Anushka](https://github.com/Anushh23)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
