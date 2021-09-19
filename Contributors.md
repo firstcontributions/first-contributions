@@ -19,6 +19,7 @@
 - [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
 - [Samruddhi Anil Ghodake] (https://github.com/samughodake)
+- [Nithin Vasalamari] (https://github.com/Nithin-droid)
 - [Ahmed Elselly] (https://github.com/AhmedElselly)
 - [Anushka](https://github.com/Anushh23)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
