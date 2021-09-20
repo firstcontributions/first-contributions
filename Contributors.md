@@ -13,6 +13,7 @@
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Michael] (https://github.com/Michael-Ivanov1)
+- [Marcus Fisher] (https://github.com/msfisher)
 - [AtanuGhosh] (https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Karan Shaw] (https://github.com/karanShaw000)
