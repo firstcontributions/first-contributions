@@ -1341,6 +1341,7 @@ Chirantan
 - [Tr0612](https://github.com/Tr0612)
 - [Ben Dover](https://gitbend.com/over)
 - [Jakub Wieśniak](https://github.com/MrChazar)
+- [bluetmn](https://github.com/bluetmn)
 - [Phelix Dusengimana](https://github.com/phelixdusengimana)
 - [yyl2020](https://github.com/yyl2020)
 - [jefferyjob](https://github.com/jefferyjob)
