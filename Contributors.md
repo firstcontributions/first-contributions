@@ -47,6 +47,7 @@
 - [Erick Sanchez Vital](https://github.com/Erick-vital)
 - [Eyal lampel](https://github.com/eyallampel1)
 - [Panshak Solomon](https://github.com/Panshak)
+- [Shivanagouda S A] (https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
 - [BladeMaster]
 - [Jinish Shah](https://github.com/jinish08)
