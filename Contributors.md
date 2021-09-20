@@ -31,7 +31,7 @@
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
 - [Manav Kampani](https://github.com/Kampani)
 - [Rutvij Dave](https://github.com/rutvijdave12)
-- Sundararajan
+- [Sundararajan](https://github.com/Sundar-07)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
