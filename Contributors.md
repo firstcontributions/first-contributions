@@ -1517,6 +1517,7 @@ Chirantan
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [Amol Kadam](https://github.com/101amolkadam)
 - [victorquanlam](https://github.com/victorquanlam)
+- [Kashif Mushtaq](https://github.com/kashif-mushtaq)
 - [namekosiru](https://github.com/namekosiru)
 - [Manish Kasera](https://github.com/Manish-kasera)
 - [Bhavika Tambi](https://github.com/tambibhavika2000)
