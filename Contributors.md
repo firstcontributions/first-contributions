@@ -12,6 +12,7 @@
 - [Andy](https://github.com/andy814/)
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
+- [Farjad Ahmed Khan](https://github.com/farjad-akhan)
 - [Michael] (https://github.com/Michael-Ivanov1)
 - [Marcus Fisher] (https://github.com/msfisher)
 - [AtanuGhosh] (https://github.com/zabuja)
