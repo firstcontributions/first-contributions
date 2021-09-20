@@ -31,6 +31,7 @@
 - [Ahmed Elselly] (https://github.com/AhmedElselly)
 - [Jacob] (https://)
 - [Anushka](https://github.com/Anushh23)
+- [Berkay Surmeli](https://github.com/BerkaySurmeli)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
 - [Manav Kampani](https://github.com/Kampani)
