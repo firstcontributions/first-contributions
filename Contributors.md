@@ -50,7 +50,6 @@
 - [Panshak Solomon](https://github.com/Panshak)
 - [Shivanagouda S A] (https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
-- [BladeMaster]
 - [Jinish Shah](https://github.com/jinish08)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Rashid Wassan](https://github.com/rashidwassan)
@@ -62,6 +61,7 @@
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
+- [Shivam Choudhary](https://github.com/ShivamChoudhary17)
 - [Aman](https://github.com/av-feaster)
 - [tonim19](https://github.com/tonim19)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
