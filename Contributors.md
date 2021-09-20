@@ -126,6 +126,7 @@
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
 - [Kevin Aguilera](https://github.com/KevinDanae)
 - [Nayan Sabnis](https://github.com/nayans99)
+- [PhakphumV. Technolista](https://github.com/PhakphumV)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [Patrick Crouch](https://github.com/PatrickCrouch)
 - [SMRITI RAO](https://github.com/Smriti0311)
