@@ -1605,12 +1605,12 @@ Chirantan
 - [Aditya Tapshalkar](https://github.com/adityataps)
 - [Guilherme do C. Costa](https://github.com/Guiilhermecosta)
 - [M.Aqib](https://github.com/softML15973)
-- [okkjoo](https://github.com/okkjoo)
 - [art94timer](https://github.com/art94timer)
 - [Travus Meyer](https://github.com/travisgmeyer)
-- [Marat](https://github.com/mshalmanov)
-<!-- prettier-ignore-end -->
 - [Sumit Banwakade](https://github.com/Sumit4482)
 - [Alok Verma](https://github.com/alokverma749)
+- [Marat](https://github.com/mshalmanov)
+- [okkjoo](https://github.com/okkjoo)
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
+<!-- prettier-ignore-end -->
