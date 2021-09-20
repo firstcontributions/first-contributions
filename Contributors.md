@@ -1588,6 +1588,7 @@ Chirantan
 - [Ashwin V Kumar](https://github.com/AshwinVKumar)
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
+- [Gaurav Verma](https://github.com/lucky-web-dev)
 - [Deep Patel](https://github.com/DeepP2667)
 - [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
 - [Loser] (https://github.com/LoserDevelopment)
