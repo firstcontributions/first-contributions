@@ -511,6 +511,7 @@ Chirantan
 - [Debasmita Samadder](https://github.com/tech-deb)
 - [Jeongki Hong](https://github.com/qq8721443)
 - [Andy Chep](https://github.com/AndreyChepik)
+- [Nicolas Verbois](https://github.com/nverbois)
 - [Ryan Smith](https://github.com/RLSmith96118)
 - [Vinay Kumar](https://github.com/foolhardy21)
 - [Iulia Groza](https://github.com/iuliagroza)
