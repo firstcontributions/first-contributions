@@ -14,6 +14,7 @@
 - [Michael] (https://github.com/Michael-Ivanov1)
 - [AtanuGhosh] (https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Karan Shaw] (https://github.com/karanShaw000)
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
