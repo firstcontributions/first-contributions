@@ -45,6 +45,7 @@
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
+- [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Kelly](https://github.com/kellyxavier)
 - [Shubh Chudasama](https://github.com/c-shubh) 
 - [Aarushi Jain](https://github.com/Aarushijain-06)
