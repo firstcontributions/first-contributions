@@ -55,6 +55,7 @@
 - [Amrin](https://github.com/Coderamrin)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Kelly](https://github.com/kellyxavier)
+- [Todd](https://github.com/DotSpread)
 - [Shubh Chudasama](https://github.com/c-shubh)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
