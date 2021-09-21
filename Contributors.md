@@ -18,6 +18,7 @@
 - [Marcus Fisher] (https://github.com/msfisher)
 - [AtanuGhosh] (https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Mohit](https://github.com/msaini0r)
 - [Karan Shaw] (https://github.com/karanShaw000)
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
