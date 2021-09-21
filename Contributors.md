@@ -1,7 +1,7 @@
 ﻿<!-- prettier-ignore-start -->
 # Contributors
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
-- [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
+- [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
@@ -12,6 +12,7 @@
 - [chengchenrui](https://github.com/chengchenrui)
 - [Aisling K](https://github.com/aikearney)
 - [Andy](https://github.com/andy814/)
+- [Shresth](https://github.com/Shresth-Jain/)
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
 <!-- Muhammad Faizan-->
@@ -51,7 +52,8 @@
 - [Amrin](https://github.com/Coderamrin)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Kelly](https://github.com/kellyxavier)
-- [Shubh Chudasama](https://github.com/c-shubh) 
+- [Shubh Chudasama](https://github.com/c-shubh)
+- [Harshit Bhat](https://github.com/harshitbhat)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - [Dishant Singh](https://github.com/thisisdishant)
 - [sunzida311](https://github.com/sunzida311)
@@ -147,7 +149,7 @@
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Matt Auer](https://github.com/matt-user)
-Chirantan 
+  Chirantan
 - [MontejoJorge](https://github.com/montejojorge) 🍍
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
@@ -188,7 +190,7 @@ Chirantan
 - [Subham Kumar Pandey](https://github.com/SubhamKumarPandey)
 - [Yubraj Karki](https://github.com/Yubraj-Karki)
 - [Rachana Singh](https://github.com/rachana-singh27)
-[Anuj Yadav](https://github.com/ajishere07)
+  [Anuj Yadav](https://github.com/ajishere07)
 - [Arvind Jei](https://github.com/arvjei11)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
@@ -1265,7 +1267,7 @@ Chirantan
 - [Mariah Bradford](https://github.com/bbykitty)
 - [Alex Firth](https://github.com/firthzilla)
 - [Dauinh](https://github.com/dauinh)
-- [Mohammad Ali Rabbi]( https://github.com/RABBI31)
+- [Mohammad Ali Rabbi](https://github.com/RABBI31)
 - [GerPut](https://github.com/GerPut)
 - [Brad Costello](https://github.com/bearcaffeine)
 - [Gayatri Gurram](https://github.com/gayatri05)
