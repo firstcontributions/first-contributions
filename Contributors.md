@@ -1640,9 +1640,9 @@
 - [art94timer](https://github.com/art94timer)
 - [Travis Meyer](https://github.com/travisgmeyer)
 - [Marat](https://github.com/mshalmanov)
+- [kouki](https://github.com/koukihk)
 - [lbxx123456](https://github.com/lbxx123456)
 - Lazy1
-- <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
 - [Alok Verma] (https://github.com/alokverma749)
 - [Shashwat Dev] (https://github.com/ShashwatDev-IIITBBSR)
@@ -1650,3 +1650,5 @@
 - [Saadoun Dhirat] (https://github.com/saadoundhirat)
 - [Théo Sikli] (https://github.com/Saikurin)
 
+
+<!-- prettier-ignore-end -->
