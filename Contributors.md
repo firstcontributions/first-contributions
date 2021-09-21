@@ -13,6 +13,7 @@
 - [Aisling K](https://github.com/aikearney)
 - [Andy](https://github.com/andy814/)
 - [Atul](https://github.com/atulk0)
+- [Minku Singh](https://github.com/minku-singh)
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
