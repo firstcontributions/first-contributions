@@ -12,6 +12,7 @@
 - [chengchenrui](https://github.com/chengchenrui)
 - [Aisling K](https://github.com/aikearney)
 - [Andy](https://github.com/andy814/)
+- [Muhammad Faizan](https://github.com/MuhammadFaizan7326)
 - [Shresth](https://github.com/Shresth-Jain/)
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
