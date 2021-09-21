@@ -58,6 +58,7 @@
 - [Shivanagouda S A] (https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
 - [BladeMaster]
+- [Pranav Wadhwa](https://githib.com/nav-28)
 - [Jinish Shah](https://github.com/jinish08)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Rashid Wassan](https://github.com/rashidwassan)
