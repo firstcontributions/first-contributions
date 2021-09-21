@@ -1623,6 +1623,7 @@ Chirantan
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak](https://github.com/UD11)
 - [Aditya Tapshalkar](https://github.com/adityataps)
+- [Amir Lampel](https://github.com/amirlampel)
 - [Guilherme do C. Costa](https://github.com/Guiilhermecosta)
 - [M.Aqib](https://github.com/softML15973)
 - [okkjoo](https://github.com/okkjoo)
