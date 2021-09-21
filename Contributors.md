@@ -1658,6 +1658,7 @@
 - [Meghan McFadden](https://github.com/meghanmcfadden)
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
+- [muzizi727](https://github.com/muzizi727/) 
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
 
