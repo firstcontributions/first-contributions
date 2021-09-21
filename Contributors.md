@@ -16,6 +16,8 @@
 - [Andy](https://github.com/andy814/)
 - [Shresth](https://github.com/Shresth-Jain/)
 - [Atul](https://github.com/atulk0)
+- [Minku Singh](https://github.com/minku-singh)
+<!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
@@ -82,6 +84,7 @@
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
 - [Aman](https://github.com/av-feaster)
+- [Aaditya Prasad](https://github.com/aaditya9899)
 - [tonim19](https://github.com/tonim19)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
 - [Soufiane Elharem](https://github.com/Selharem)
