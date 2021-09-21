@@ -103,6 +103,7 @@
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
+- [Carl Altoveros](https://github.com/carlaltoveros)
 - [Tay West](https://github.com/tayannewest)
 - [Jorge Ochoa-Reyes](https://github.com/JorgeOchoaReyes)
 - [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
