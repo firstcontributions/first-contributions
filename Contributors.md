@@ -10,6 +10,7 @@
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Anthony Aleman](https://github.com/anthony-aleman)
 - [chengchenrui](https://github.com/chengchenrui)
+- [Aisling K](https://github.com/aikearney)
 - [Andy](https://github.com/andy814/)
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
