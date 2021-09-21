@@ -58,6 +58,7 @@
 - [Shivanagouda S A] (https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
 - [BladeMaster]
+- [Pranav Wadhwa](https://githib.com/nav-28)
 - [Jinish Shah](https://github.com/jinish08)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Rashid Wassan](https://github.com/rashidwassan)
@@ -103,6 +104,7 @@
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
+- [Carl Altoveros](https://github.com/carlaltoveros)
 - [Tay West](https://github.com/tayannewest)
 - [Jorge Ochoa-Reyes](https://github.com/JorgeOchoaReyes)
 - [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
@@ -270,6 +272,7 @@ Chirantan
 - [Cheong Lau](https://github.com/cmrss2)
 - [Surendar Singh](https://github.com/SurendarSingh)
 - [Ankur Patil](https://github.com/ankur12-1610)
+- Chance
 - [Hitansh Shah](https://github.com/Hitansh-Shah)
 - [Aniket Saha](https://github.com/anikets349)
 - [GSS Akash](https://github.com/gssakash)
@@ -1620,6 +1623,7 @@ Chirantan
 - [art94timer](https://github.com/art94timer)
 - [Travis Meyer](https://github.com/travisgmeyer)
 - [Marat](https://github.com/mshalmanov)
+- [lbxx123456](https://github.com/lbxx123456)
 - Lazy1
 - <!-- prettier-ignore-end -->
 - [Sumit Banwakade] (https://github.com/Sumit4482)
