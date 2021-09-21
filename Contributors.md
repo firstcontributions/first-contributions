@@ -669,6 +669,7 @@
 - [Lipika Debnath](https://github.com/lipika19)
 - [Vikas](https://github.com/vikasdabhi)
 - [LakshmiSankaraSubramanian](https://github.com/LakshmiSankaraSubramanian)
+- [Curt House] (https://github.com/Neurum)
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
 - [Arvind](https://github.com/01arvind)
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
