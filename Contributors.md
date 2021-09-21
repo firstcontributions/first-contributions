@@ -12,6 +12,7 @@
 - [chengchenrui](https://github.com/chengchenrui)
 - [Aisling K](https://github.com/aikearney)
 - [Andy](https://github.com/andy814/)
+<!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
