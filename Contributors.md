@@ -22,6 +22,7 @@
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Atharva Ikhar](https://github.com/iatharva)
 - [Mohit](https://github.com/msaini0r)
+- [Nikita Jha](https://github.com/nikki1409)
 - [Karan Shaw] (https://github.com/karanShaw000)
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
