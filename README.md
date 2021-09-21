@@ -107,6 +107,26 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
+
+### Register the upstream repository
+
+You have now created a local clone on you computer. This clone will point to your forked repository. It's also useful to have
+the upstream repository (the source that you forked) registered as well to be able to stay up to date with the latest changes.
+
+If you haven't already, start by changing your directory to the rebus repository that was created when you ran `git clone`:
+
+```sh
+cd first-contributions
+```
+
+Then add `firstcontributions/first-contributions` as the upstream remote:
+
+```
+git remote add upstream https://github.com/firstcontributions/first-contributions.git
+```
+once you set the upstream you don't have to clone the repository everytime there is an update
+
+
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
