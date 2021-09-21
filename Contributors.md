@@ -1,4 +1,5 @@
 ﻿<!-- prettier-ignore-start -->
+
 # Contributors
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
@@ -152,6 +153,7 @@
 - [Matt Auer](https://github.com/matt-user)
   Chirantan
 - [MontejoJorge](https://github.com/montejojorge) 🍍
+- [Tia S](https://github.com/tia-kristen)
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
@@ -1646,3 +1648,4 @@
 - [Shofiya Bootwala] (https://github.com/Shofiya2003)
 - [Saadoun Dhirat] (https://github.com/saadoundhirat)
 - [Théo Sikli] (https://github.com/Saikurin)
+
