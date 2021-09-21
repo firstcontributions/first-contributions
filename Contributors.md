@@ -2,7 +2,7 @@
 
 # Contributors
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
-- [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
+- [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
@@ -13,6 +13,11 @@
 - [chengchenrui](https://github.com/chengchenrui)
 - [Aisling K](https://github.com/aikearney)
 - [Andy](https://github.com/andy814/)
+- [Muhammad Faizan](https://github.com/MuhammadFaizan7326)
+- [Shresth](https://github.com/Shresth-Jain/)
+- [Atul](https://github.com/atulk0)
+- [Minku Singh](https://github.com/minku-singh)
+<!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
@@ -50,6 +55,7 @@
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Kelly](https://github.com/kellyxavier)
 - [Shubh Chudasama](https://github.com/c-shubh)
+- [Harshit Bhat](https://github.com/harshitbhat)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - [Dishant Singh](https://github.com/thisisdishant)
 - [sunzida311](https://github.com/sunzida311)
@@ -78,6 +84,7 @@
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
 - [Aman](https://github.com/av-feaster)
+- [Aaditya Prasad](https://github.com/aaditya9899)
 - [tonim19](https://github.com/tonim19)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
 - [Soufiane Elharem](https://github.com/Selharem)
