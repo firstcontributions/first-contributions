@@ -260,6 +260,7 @@ Mohit Bhobariya
 - [Bishal Ghosh](https://github.com/bishal-ghosh12)
 - [Helen Tkachuk](https://github.com/Helen10101)
 - [Sasmitha Manathunga](https://github.com/mmz-001)
+- [Harshit Bhat](https://github.com/harshitbhat)
 - [Timbre Freeman](https://github.com/tztz8)
 - [Albert Dinh] (https://github.com/albert-dinh-01)
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
