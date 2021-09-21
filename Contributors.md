@@ -1,4 +1,4 @@
-﻿<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->
 
 # Contributors
 - [ANKESH](https://github.com/Ankesh054-official)
