@@ -122,6 +122,7 @@
 - Dim Chika
 - [Carl Altoveros](https://github.com/carlaltoveros)
 - [Tay West](https://github.com/tayannewest)
+- [Vaishnav Chandurkar](https://github.com/vaishnavme)
 - [Jorge Ochoa-Reyes](https://github.com/JorgeOchoaReyes)
 - [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
