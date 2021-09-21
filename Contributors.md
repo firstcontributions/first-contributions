@@ -270,6 +270,7 @@ Chirantan
 - [Cheong Lau](https://github.com/cmrss2)
 - [Surendar Singh](https://github.com/SurendarSingh)
 - [Ankur Patil](https://github.com/ankur12-1610)
+- Chance
 - [Hitansh Shah](https://github.com/Hitansh-Shah)
 - [Aniket Saha](https://github.com/anikets349)
 - [GSS Akash](https://github.com/gssakash)
