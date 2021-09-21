@@ -1,7 +1,5 @@
 ﻿<!-- prettier-ignore-start -->
-
 # Contributors
-
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
