@@ -1,6 +1,13 @@
 <!-- prettier-ignore-start -->
 
 # Contributors
+
+- [Yousef Jalboush](https://github.com/YousefAbuJalboush)
+- [Yazan Ahmad](https://github.com/YazanAhmad18)
+- [Maram Ankir](https://github.com/Maram-Ankir)
+- [Khaled Al Shishani](https://github.com/khaledshishani32)
+- [Dina Al-Barghouthi](https://github.com/dina-fouad)
+- [Ahmad Abu dames](https://github.com/ahmadabudames)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
@@ -79,7 +86,7 @@
 - [Panshak Solomon](https://github.com/Panshak)
 - [Shivanagouda S A](https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
-- [Md Adil Irshad] (https://github.com/adil14788)
+- [Md Adil Irshad] (<https://github.com/adil14788>)
 - [BladeMaster]
 - [Pranav Wadhwa](https://github.com/nav-28)
 - [Jinish Shah](https://github.com/jinish08)
@@ -1480,7 +1487,7 @@
 - [Tarou Shota](https://github.com/TarouShota)
 - [MengXiangYun](https://github.com/mengxianun)
 - [Taenite](https://github.com/Taenite)
-- [Rida Mumtaz](https://github.com/rida-hash)     
+- [Rida Mumtaz](https://github.com/rida-hash)
 - [sunalwaysknows](https://github.com/sunalwaysknows)
 - [Nick R](https://github.com/ransontech)
 - [MengXiangYun](https://github.com/mengxianun)
@@ -1673,9 +1680,8 @@
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [ss]
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
-- [muzizi727](https://github.com/muzizi727/) 
+- [muzizi727](https://github.com/muzizi727/)
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
-
 
 <!-- prettier-ignore-end -->
