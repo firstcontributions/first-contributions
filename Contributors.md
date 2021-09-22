@@ -35,6 +35,7 @@
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
+- [Merius TZ](https://github.com/MeriusTz)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
