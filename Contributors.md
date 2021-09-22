@@ -1619,6 +1619,7 @@
 - [Andrew Folsom](https://github.com/andrewfolsom)
 - [Adedamola Ogunbona](https://github.com/drummerboix)
 - [shi7](https://github.com/shi7)
+  [Oliver - BoonyToons](https://github.com/BoonyToons)
 - [wolfetone](https://github.com/wolfetone)
 - [Teena Acharya](https://github.com/teenaacharya)
 - [Suvarna Pattayil - SuvP](https://github.com/Suv-P)
