@@ -44,6 +44,7 @@
 - [Nithin Vasalamari](https://github.com/Nithin-droid)
 - [Ahmed Elselly](https://github.com/AhmedElselly)
 - [Jacob](https://)
+- [Jiayi Li](https://github.com/jl-7)
 - [Anushka](https://github.com/Anushh23)
 - [Berkay Surmeli](https://github.com/BerkaySurmeli)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
