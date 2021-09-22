@@ -1676,6 +1676,6 @@
 - [muzizi727](https://github.com/muzizi727/) 
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
-
+- [Josh `soundslikefuel` Fewell](https://github.com/sounfdslikefu)
 
 <!-- prettier-ignore-end -->
