@@ -8,6 +8,7 @@
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
+- [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Anthony Aleman](https://github.com/anthony-aleman)
