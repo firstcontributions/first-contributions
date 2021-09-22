@@ -78,6 +78,7 @@
 - [Panshak Solomon](https://github.com/Panshak)
 - [Shivanagouda S A](https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
+- [Md Adil Irshad] (https://github.com/adil14788)
 - [BladeMaster]
 - [Pranav Wadhwa](https://github.com/nav-28)
 - [Jinish Shah](https://github.com/jinish08)
