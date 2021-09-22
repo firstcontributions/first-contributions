@@ -1676,6 +1676,6 @@
 - [muzizi727](https://github.com/muzizi727/) 
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
-
+- [Olga Melnichenko](https://github.com/Olgaminch7)
 
 <!-- prettier-ignore-end -->
