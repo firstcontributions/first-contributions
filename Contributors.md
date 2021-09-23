@@ -779,6 +779,7 @@
 - [Rogério Brum Hermany](https://github.com/brummm)
 - [Nabakanta Deuri](https://github.com/ay3ay3)
 - [Fernanda Provasi](https://github.com/Feprovasi)
+- [Nasima Akter Tania 👩](https://github.com/nasima-akter-tania)
 - [sheng812](https://github.com/sheng812)
 - [Quang Nguyen](https://github.com/quang-sudo)
 - [acphil2](https://github.com/acphil2)
