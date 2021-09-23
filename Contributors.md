@@ -11,6 +11,7 @@
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
+- [Phyllis Atieno](https://github.com/phyleria)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
