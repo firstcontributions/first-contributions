@@ -20,6 +20,7 @@
 - [Shresth](https://github.com/Shresth-Jain/)
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
+- [Connor Lawson](https://github.com/lawsoncr/)
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
