@@ -417,6 +417,7 @@
 - [sachin mittal](https://github.com/SachinMittal1766)
 - [Gibsonogram](https://github.com/Gibsonogram)
 - [Anik Chakraborty](https://github.com/Anikcb)
+- [Shane Healy](https://github.com/Shanehealy43)
 - [Gracie Nguyen](https://github.com/cutiepurr)
 - [Heather Barton](https://github.com/CisnePHX)
 - [Neha Anand](https://github.com/NehaAnand28)
