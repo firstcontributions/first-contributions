@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # Contributors
+- [McKenna McMurray](https://github.com/mckennamcmurray)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
