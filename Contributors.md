@@ -91,6 +91,7 @@
 - [Simon Akl](https://github.com/sakl17)
 - [Daniel Steinschreiber](https://github.com/dsteinschreiber)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
+- [Brahim Boulhend](https://github.com/l7aje)
 - [Ruta R](https://github.com/RReiso)
   [MMA](https://github.com/MyatMinAung)
 - [kurmittens](https://github.com/kurmittens/)
