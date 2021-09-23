@@ -1673,6 +1673,7 @@
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
 - [Rado Maycon](https://github.com/RadoMaycon)
+- [Adarsh Thakur](https://github.com/adrsh-23)
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak](https://github.com/UD11)
 - [Aditya Tapshalkar](https://github.com/adityataps)
