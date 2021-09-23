@@ -821,6 +821,7 @@
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
 - [Renato Paiva](https://github.com/renatopaivabv)
+- [McKenna-RF](https://github.com/mckenna-rf)
 - [KA](https://github.com/KA2033)
 - [Darshani Audhish](https://github.com/darshani28)
 - [Ehsan Gudarzi](http://github.com/gudarzi)
