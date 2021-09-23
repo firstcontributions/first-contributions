@@ -1,7 +1,6 @@
 ﻿<!-- prettier-ignore-start -->
 # Contributors
 - [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
-  [CristianN8](https://github.com/CristianN8)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
@@ -1033,6 +1032,7 @@ Chirantan
 - [kyu-kim-kr](https://github.com/kyu-kim-kr)
 - [Yysoim](https://github.com/yysoim)
 - [Mahdhi Rezvi](https://github.com/Mahdhir)
+  [CristianN8](https://github.com/CristianN8)
 - [Aldilas](https://github.com/aldeetropolis)
 - [Alexandre Merched](https://github.com/artismyname)
 - [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
