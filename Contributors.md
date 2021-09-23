@@ -1,7 +1,6 @@
 <!-- prettier-ignore-start -->
 
 # Contributors
-- [McKenna McMurray](https://github.com/mckennamcmurray)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
@@ -29,6 +28,7 @@
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
+- [McKenna McMurray](https://github.com/mckennamcmurray)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
