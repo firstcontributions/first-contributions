@@ -30,6 +30,7 @@
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [AtanuGhosh](https://github.com/zabuja)
+- [A Schnackenberg](https://github.com/based-template)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [Marcus Fisher](https://github.com/msfisher)
