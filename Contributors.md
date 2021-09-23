@@ -117,6 +117,7 @@
 - [Ted Dino](https://github.com/ted-dino)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
+- [John L.](https://github.com/bubbles91)
 - [Ritesh](https://github.com/RiteshK555)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Vedran Baric](https://github.com/vedranb7)
