@@ -2,6 +2,7 @@
 
 # Contributors
 - [Ahmad Shalein](https://github.com/AhmadShalein)
+- [Saman Dehghan](https://github.com/sadehghan)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
