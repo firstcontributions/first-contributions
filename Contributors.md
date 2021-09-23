@@ -65,6 +65,7 @@
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
+- [Ben Elgren](https://github.com/belgren)
 - [Kelly](https://github.com/kellyxavier)
 - [Todd](https://github.com/DotSpread)
 - [Shubh Chudasama](https://github.com/c-shubh)
