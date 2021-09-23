@@ -28,6 +28,7 @@
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
+- [McKenna McMurray](https://github.com/mckennamcmurray)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [AtanuGhosh](https://github.com/zabuja)
 - [A Schnackenberg](https://github.com/based-template)
