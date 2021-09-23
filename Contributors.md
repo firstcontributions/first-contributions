@@ -1190,6 +1190,7 @@
 - [Rachel B](https://github.com/rbirnshtok)
 - [Suresh Koochana](https://github.com/SureshKuchana)
 - [Andre Amaral](https://github.com/amdeca)
+- [Kevin Holmes](https://github.com/kevholmes)
 - [Sun Cold](https://github.com/Sun-Cold)
 - [Jiaget](https://github.com/Jiaget)
 - [Nitu Kumari](https://github.com/U220053)
