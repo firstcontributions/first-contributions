@@ -719,6 +719,7 @@
 - [Georg Magneshaugen](https://github.com/georgmagne)
 - [Abc Singh](https://github.com/achintya-cell)
 - [James Faith Shameh](https://github.com/blackpandan)
+- [Regis Zaleman](https://github.com/TheRegge)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
