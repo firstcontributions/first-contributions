@@ -15,6 +15,7 @@
 - [Anthony Aleman](https://github.com/anthony-aleman)
 - [chengchenrui](https://github.com/chengchenrui)
 - [Aisling K](https://github.com/aikearney)
+- [Simon Wild](https:/github.com/admsmw)
 - [Andy](https://github.com/andy814/)
 - [Muhammad Faizan](https://github.com/MuhammadFaizan7326)
 - [Shresth](https://github.com/Shresth-Jain/)
