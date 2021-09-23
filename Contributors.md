@@ -1678,6 +1678,7 @@
 - [muzizi727](https://github.com/muzizi727/) 
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
+- [Patrick Obafemi](https://github.com/patdgeerico)
 
 
 <!-- prettier-ignore-end -->
