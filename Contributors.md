@@ -1145,6 +1145,7 @@
 - [Chloe Blazey](https://github.com/chloeblazey)
 - [Marri Kargar](https://github.com/Marri-k)
 - [donglangjohn](https://github.com/donglangjohn)
+- Adarsh Jha
 - [jovicon](https://github.com/jovicon)
 - [eeemt](https://github.com/eeemt)
 - [Nawaz Khan](https://github.com/nawazkhan)
