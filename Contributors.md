@@ -55,6 +55,7 @@
 - [Samruddhi Anil Ghodake](https://github.com/samughodake)
 - [Nithin Vasalamari](https://github.com/Nithin-droid)
 - [Ahmed Elselly](https://github.com/AhmedElselly)
+- [Dinesh kumar](https://github.com/Deathslayer89)
 - [Jacob](https://)
 - [Jiayi Li](https://github.com/jl-7)
 - [Anushka](https://github.com/Anushh23)
