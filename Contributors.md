@@ -1703,6 +1703,6 @@
 - [Théo Sikli](https://github.com/Saikurin)
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
-
+- [Greg Edmondson](https://github.com/gonuma)
 
 <!-- prettier-ignore-end -->
