@@ -243,6 +243,7 @@
 - [Ansi007/Anns Shahbaz](https://github.com/Ansi007)
 - [Nakul Londhe](https://github.com/nakullondhe)
 - [Shantanu Nighot](https://github.com/magbanum)
+- [Karol Wojcik](https://github.com/karolwjck)
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [Kashish Dhingra](https://github.com/kashish-d)
 - [John C. Lee](https://github.com/SpaceDA)
@@ -1698,7 +1699,7 @@
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [ss]
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
-- [muzizi727](https://github.com/muzizi727/) 
+- [muzizi727](https://github.com/muzizi727/)
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
 - [Peter Abah](https://github.com/peter-abah)
