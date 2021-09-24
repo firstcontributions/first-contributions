@@ -1281,6 +1281,7 @@
 - [Animesh Das](https://github.com/20161302animesh)
 - [Jacqueline Brown](https://github.com/jbrown-lab)
 - [Saurabh Singh Sisodia](https://github.com/saurabhsisodia)
+- [Harman Hans](https://github.com/HarmanHans)
 - [Genevea](https://github.com/genevea)
 - [Julian Quintero](https://github.com/Julian-quintero)
 - [Amul Agrawal](https://github.com/amulagrawal02)
