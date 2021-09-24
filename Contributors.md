@@ -1717,6 +1717,7 @@
 - [Komiyamma](https://github.com/komiyamma)
 - [Chris D'Entremont] (https://github.com/dentremontcatwit)
 -[Mostafa Abdollahi](https://github.com/m-abdollahi)
+- [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
 
 
 <!-- prettier-ignore-end -->
