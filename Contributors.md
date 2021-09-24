@@ -39,6 +39,7 @@
 - [Marcus Fisher](https://github.com/msfisher)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Atharva Ikhar](https://github.com/iatharva)
 - [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
 - [Mohit](https://github.com/msaini0r)
@@ -130,6 +131,7 @@
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [John L.](https://github.com/bubbles91)
+- [MOHAMMED SHAMIL K](https://github.com/shamilkotta)
 - [Ritesh](https://github.com/RiteshK555)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Vedran Baric](https://github.com/vedranb7)
@@ -1144,6 +1146,7 @@
 - [Chloe Blazey](https://github.com/chloeblazey)
 - [Marri Kargar](https://github.com/Marri-k)
 - [donglangjohn](https://github.com/donglangjohn)
+- Adarsh Jha
 - [jovicon](https://github.com/jovicon)
 - [eeemt](https://github.com/eeemt)
 - [Nawaz Khan](https://github.com/nawazkhan)
@@ -1714,5 +1717,7 @@
 - [Komiyamma](https://github.com/komiyamma)
 - [Chris D'Entremont] (https://github.com/dentremontcatwit)
 - [zi-mt](https://github.com/zi-mt)
+- [Mostafa Abdollahi](https://github.com/m-abdollahi)
+
 
 <!-- prettier-ignore-end -->
