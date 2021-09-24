@@ -902,6 +902,7 @@
 - [Rmy](https://github.com/BenRmy)
 - [Tunbk1002](https://github.com/tunbk1002)
 - [letmeouted](https://github.com/Letmeouted)
+- [TheIcefall](https://github.com/TheIcefall)
 - [shen](https://github.com/sheny1xuan/first-contributions)
 - [Vi1234sh12](https://github.com/Vi1234sh12)
 - [Gustavo Baptista](https://github.com/gustavoggsb)
