@@ -776,7 +776,7 @@
 - [Aditya B](https://github.com/adifeb/first-contributions)
 - [Hectonit](https://github.com/hectonit)
 - [Joshua Dillon](https://github.com/jdil1223)
-- [zjcz] (https://github.com/zjcz)
+- [zjcz](https://github.com/zjcz)
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
