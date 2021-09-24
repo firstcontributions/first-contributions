@@ -1708,6 +1708,7 @@
 - [Vishnu Harikumar](https://github.com/VishnuHappy)
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
+- [Komiyamma](https://github.com/komiyamma)
 
 
 <!-- prettier-ignore-end -->
