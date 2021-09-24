@@ -1700,13 +1700,11 @@
 - [kouki](https://github.com/koukihk)
 - [lbxx123456](https://github.com/lbxx123456)
 - [NewMountain](https://github.com/NewMountain)
-- Lazy1
 - [Sumit Banwakade](https://github.com/Sumit4482)
 - [Alok Verma](https://github.com/alokverma749)
 - [Agung Kurnia Robbi](https://github.com/agungrobbi)
 - [Meghan McFadden](https://github.com/meghanmcfadden)
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
-- [ss]
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
 - [muzizi727](https://github.com/muzizi727/)
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
@@ -1715,8 +1713,9 @@
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
 - [Komiyamma](https://github.com/komiyamma)
-- [Chris D'Entremont] (https://github.com/dentremontcatwit)
--[Mostafa Abdollahi](https://github.com/m-abdollahi)
+- [Chris D'Entremont](https://github.com/dentremontcatwit)
+- [Mostafa Abdollahi](https://github.com/m-abdollahi)
+- [Jan Kordylewski](https://github.com/jkordylewski)
 
 
 <!-- prettier-ignore-end -->
