@@ -1709,6 +1709,7 @@
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
 - [Komiyamma](https://github.com/komiyamma)
+- [Chris D'Entremont] (https://github.com/dentremontcatwit)
 
 
 <!-- prettier-ignore-end -->
