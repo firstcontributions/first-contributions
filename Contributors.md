@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # Contributors
+
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
@@ -89,7 +90,7 @@
 - [Panshak Solomon](https://github.com/Panshak)
 - [Shivanagouda S A](https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
-- [Md Adil Irshad] (https://github.com/adil14788)
+- [Md Adil Irshad] (<https://github.com/adil14788>)
 - [BladeMaster]
 - [Pranav Wadhwa](https://github.com/nav-28)
 - [Jinish Shah](https://github.com/jinish08)
@@ -1503,7 +1504,7 @@
 - [Tarou Shota](https://github.com/TarouShota)
 - [MengXiangYun](https://github.com/mengxianun)
 - [Taenite](https://github.com/Taenite)
-- [Rida Mumtaz](https://github.com/rida-hash)     
+- [Rida Mumtaz](https://github.com/rida-hash)
 - [sunalwaysknows](https://github.com/sunalwaysknows)
 - [Nick R](https://github.com/ransontech)
 - [MengXiangYun](https://github.com/mengxianun)
@@ -1698,11 +1699,11 @@
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [ss]
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
-- [muzizi727](https://github.com/muzizi727/) 
+- [muzizi727](https://github.com/muzizi727/)
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
-
+- [Guilherme Camargo](https://github.com/camargoguilherme)
 
 <!-- prettier-ignore-end -->
