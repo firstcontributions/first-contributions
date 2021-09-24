@@ -39,6 +39,7 @@
 - [Marcus Fisher](https://github.com/msfisher)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Atharva Ikhar](https://github.com/iatharva)
 - [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
 - [Mohit](https://github.com/msaini0r)
