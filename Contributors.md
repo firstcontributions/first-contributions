@@ -6,6 +6,7 @@
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
+- [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
 - [Kurtis Gibson](https://github.com/kagibson)
