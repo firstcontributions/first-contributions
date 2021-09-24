@@ -39,6 +39,7 @@
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Atharva Ikhar](https://github.com/iatharva)
+- [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
 - [Mohit](https://github.com/msaini0r)
 - [Karan Shaw](https://github.com/karanShaw000)
 - [Sai Prasad](https://github.com/bsaiprasad22)
