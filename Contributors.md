@@ -61,6 +61,7 @@
 - [Shivam Pali](https://github.com/shivampali-2020)
 - [Usama](https://github.com/CS4Usama)
 - [John](https://github.com/konig-coo)
+- [Alwaz](https://github.com/Alwaz)
 - [Samruddhi Anil Ghodake](https://github.com/samughodake)
 - [Nithin Vasalamari](https://github.com/Nithin-droid)
 - [Ahmed Elselly](https://github.com/AhmedElselly)
