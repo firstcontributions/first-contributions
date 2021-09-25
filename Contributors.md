@@ -130,6 +130,7 @@
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Rohit Gangwar](https://github.com/rohit8020/)
+- [Rahul](https://github.com/sRahul-00)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
 - [Ted Dino](https://github.com/ted-dino)
