@@ -23,6 +23,7 @@
 - [chengchenrui](https://github.com/chengchenrui)
 - [Aisling K](https://github.com/aikearney)
 - [Vijender P](https://github.com/pvijender)
+- [Sridhar Maskeri](https://github.com/floating-dynamo)
 - [Simon Wild](https:/github.com/admsmw)
 - [Andy](https://github.com/andy814/)
 - [PeaceSeed](https://github.com/PeaceSeed/)
