@@ -41,6 +41,7 @@
 - [Michael](https://github.com/Michael-Ivanov1)
 - [AtanuGhosh](https://github.com/zabuja)
 - [A Schnackenberg](https://github.com/based-template)
+- [Jason Sochin](https://github.com/nihcosnosaj)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [Marcus Fisher](https://github.com/msfisher)
