@@ -1065,6 +1065,7 @@
 - [volokh0x](https://github.com/volokh0x)
 - [YoshidaTomoaki](https://github.com/YoshidaTomoaki)
 - [Lesley Cheung](https://github.com/lezzles11)
+- [Tommy Pang](https://github.com/tommycp96)
 - [Will Emond](https://github.com/TB9652)
 - [Thalles Augusto 👋🏾👦🏾:octocat: 💻🚀](https://github.com/ThesllaDev)
 - [Gokul Karki](https://github.com/gokulkar879)
