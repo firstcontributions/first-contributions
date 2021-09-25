@@ -210,6 +210,7 @@
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Ahmed Fathy](https://github.com/ahmedfathydev)
+- [Bradley English](https://github.com/BE-Code)
 - [Andrey Nagatani](https://github.com/inatagan)
 - [Shubham Sarkar](https://github.com/DevastatingRPG)
 - [Pranavkumar Patil](https://github.com/Pranavkumar77)
