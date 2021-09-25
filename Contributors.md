@@ -1714,6 +1714,7 @@
 - [muzizi727](https://github.com/muzizi727/)
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
 - [Théo Sikli](https://github.com/Saikurin)
+- [Josh `soundslikefuel` Fewell](https://github.com/sounfdslikefuel)
 - [Vishnu Harikumar](https://github.com/VishnuHappy)
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
@@ -1721,6 +1722,5 @@
 - [Chris D'Entremont] (https://github.com/dentremontcatwit)
 -[Mostafa Abdollahi](https://github.com/m-abdollahi)
 - [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
-
 
 <!-- prettier-ignore-end -->
