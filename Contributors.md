@@ -663,6 +663,7 @@
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Vinod Biradar](https://github.com/vinod014)
 - [Niti Shah](https://github.com/Niti-Shah)
+- [Samir Supe](https://github.com/Mir-SA)
 - [Dhwanik Panchal](https://github.com/dhwanik9)
 - [Raja Mishra](https://github.com/Raja-mishra1)
 - [Brandon Pokorny](https://github.com/Clickedbigfoot)
