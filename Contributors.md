@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # Contributors
+- [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
