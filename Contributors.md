@@ -1386,6 +1386,7 @@
 - [Sun Ao](https://github.com/MarshalL-son)
 - [Vinay Prabhu](https://github.com/Vinayprabhu19)
 - [Domingo Salerno](https://github.com/DASalerno)
+- [Muddassir Choudhry](https://github.com/MuddassirAsh)
 - [Will Saville](https://github.com/wiru)
 - [Ayoubrnd](https://github.com/ayoubrnd)
 - [Makhlouk Oussama](https://github.com/oussamaM1)
