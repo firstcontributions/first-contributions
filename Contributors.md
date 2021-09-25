@@ -9,6 +9,7 @@
 - [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
+  [Chad McCarthy](https://github.com/chadmcc-1)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
