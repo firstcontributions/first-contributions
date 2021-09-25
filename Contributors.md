@@ -955,6 +955,7 @@
 - [sparshiigupta](https://github.com/sparshiigupta)
 - [Pratik Zinjurde](https://github.com/pratikpz18)
 - [Rohan Babbar](https://github.com/rohanbabbar04)
+- Timothy Hayduk
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
 - [Estelle Severs](https://github.com/EstelleSevers)
 - [Yuba Neupane](https://github.com/YubaNeupane)
