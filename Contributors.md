@@ -312,6 +312,7 @@
 - [Rishabh Jha](https://github.com/bruteF04C3)
 - [Dan Kollar](https://github.com/dkollar)
 - [Dharmesh Upadhyay](https://github.com/itsdharmxd)
+- [Akash Tandale](https://github.com/Akash-Tandale001)
 - [xsthetic](https://github.com/xsthetic)
 - [Tyler Laquinta](https://github.com/tylerlaquinta)
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
