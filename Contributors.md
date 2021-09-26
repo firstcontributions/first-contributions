@@ -161,6 +161,7 @@
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
 - [Shikonn Tamanegi](https://github.com/Shikunsh)
+- [Aditya Shahari](https://github.com/Aditya-Shahari)
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
