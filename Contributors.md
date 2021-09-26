@@ -4,6 +4,7 @@
 - [Sohail](https://github.com/ahmadsohail404)
 - [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
+- [Vivek Shah](https://github.com/viveknshah)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Akshit Arora](https://github.com/akshitarora921)
