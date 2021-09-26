@@ -1741,5 +1741,6 @@
 -[Mostafa Abdollahi](https://github.com/m-abdollahi)
 - [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
 - [Anton Mishanin](https://github.com/AntonMishanin)
+- [Tatiana Y] (https://github.com/tatyyukie)
 
 <!-- prettier-ignore-end -->
