@@ -2,6 +2,7 @@
 
 # Contributors
 - [Sohail](https://github.com/ahmadsohail404)
+- [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Vivek Shah](https://github.com/viveknshah)
