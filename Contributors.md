@@ -17,6 +17,7 @@
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Phyllis Atieno](https://github.com/phyleria)
+- [Emily Margaret](https://github.com/em3B)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
