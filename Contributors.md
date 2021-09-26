@@ -7,6 +7,7 @@
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Akshit Arora](https://github.com/akshitarora921)
+- [Gaurab Halder](https://github.com/gaurabhalder)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
