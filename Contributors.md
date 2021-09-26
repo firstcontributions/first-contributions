@@ -1426,6 +1426,7 @@
 - [aesaganda](https://github.com/aesaganda)
 - [saadishahid](https://github.com/saadishahid)
 - [mariuszpawlowicz](https://github.com/mariusz79)
+- [Lautaro Otaño](https://github.com/lbotano/)
 - [Lisdey Perez](https://github.com/lisdey-perez)
 - [Awsaf](https://github.com/awsaf49)
 - [Akshat Kumar](https://github.com/akshat-52)
