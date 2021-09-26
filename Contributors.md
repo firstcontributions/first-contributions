@@ -1741,6 +1741,6 @@
 -[Mostafa Abdollahi](https://github.com/m-abdollahi)
 - [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
 - [Anton Mishanin](https://github.com/AntonMishanin)
-
+- [Thiago] (https://github.com/Thiago-DR)
 
 <!-- prettier-ignore-end -->
