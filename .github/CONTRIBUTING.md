@@ -10,6 +10,9 @@ If you're making changes to a translation, please request a review from our prev
 
 <table>
     <tr>
+	<td>
+           <a href="../translations/README.es.md">Español</a>
+        </td>
         <td>
            <a href="../translations/README.hi.md">हिन्दी</a>
         </td>
@@ -39,6 +42,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
     </tr>
     <tr>
+	<td>
+            <img width="100" src="https://avatars0.githubusercontent.com/u/13135332?s=460&v=4" alt="@lwinkyawmyat" />
+        </td>
         <td>
             <img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />
         </td>
@@ -69,6 +75,9 @@ If you're making changes to a translation, please request a review from our prev
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/arshadkazmi42">Gabriel Santana</a>
+        </td>
+	<td>
             <a href="https://github.com/arshadkazmi42">arshadkazmi42</a>
         </td>
         <td>
