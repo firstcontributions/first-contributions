@@ -1755,6 +1755,7 @@
 - [Ben Hoffman] (https://github.com/binihoffman)
 - [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
 - [Anton Mishanin](https://github.com/AntonMishanin)
+- [Matt Fisk](https://github.com/X3NOSAURUS)
 
 
 <!-- prettier-ignore-end -->
