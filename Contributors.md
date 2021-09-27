@@ -28,6 +28,7 @@
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
+- [Gustavo Bethelmy](https://github.com/gigablack)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Anthony Aleman](https://github.com/anthony-aleman)
 - [chengchenrui](https://github.com/chengchenrui)
