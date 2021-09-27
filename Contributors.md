@@ -160,6 +160,7 @@
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
 - [Ted Dino](https://github.com/ted-dino)
+- [Philip Bettler] (https://github.com/pgbettler)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [John L.](https://github.com/bubbles91)
