@@ -1776,6 +1776,6 @@
 - [Magic_Moon](https://github.com/magic-mo-on)
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
-
+- [jiangyeka](https://github.com/jiangyeka/first-contributions)
 
 <!-- prettier-ignore-end -->
