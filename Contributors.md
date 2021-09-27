@@ -253,6 +253,7 @@
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Kevin Hendrix](https://github.com/khendrix12)
+- [Subhasish Panda](https://github.com/sp7infinity)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
 - [Douglas Ede](https://github.com/Douglas4739)
 - [Ankit Gupta](https://github.com/ankit-95)
