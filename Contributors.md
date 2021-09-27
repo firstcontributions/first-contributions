@@ -131,6 +131,7 @@
 - [Neeraj M R](https://github.com/neerajram30)
 - [Simon Akl](https://github.com/sakl17)
 - [Daniel Steinschreiber](https://github.com/dsteinschreiber)
+- [Abhay singh thakur](https://github.com/tabhay563)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [Brahim Boulhend](https://github.com/l7aje)
 - [Ruta R](https://github.com/RReiso)
