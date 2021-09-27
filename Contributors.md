@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 
 # Contributors
 - [Andrea](https://github.com/andrea-genovese)
@@ -1779,6 +1779,7 @@
 - [Magic_Moon](https://github.com/magic-mo-on)
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
+- [Malyala Lakshminarayana](https://github.com/Ln11211)
 
 
 <!-- prettier-ignore-end -->
