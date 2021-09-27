@@ -24,6 +24,7 @@
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Zack Adams](https://github.com/imzackadams)
+- [Amanda McMullin](https://github.com/projexkeyma)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Phyllis Atieno](https://github.com/phyleria)
 - [Emily Margaret](https://github.com/em3B)
