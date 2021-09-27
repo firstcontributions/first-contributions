@@ -11,7 +11,7 @@ Teško je. Prvi pokušaji su uvjek teški. Ukoliko surađuješ sa drugima, još 
 Blogovi i tutorijali mogu da pomoći, ali ništa nije bolje nego uzeti stvari u svoje ruke i zaista doprinjeti zajednici otvorenog koda. Ukoliko ste se prepoznali u tekstu iznad, pratite sljedeće korake.
 
 
-#### *Ako vam je komandna linija (terminal) još uvijek stran pojam, [možete korititi github GUI alate.]( #tutorials-using-other-tools )*
+#### *Ako vam je komandna linija (terminal) još uvijek strani pojam, [možete korititi github GUI alate.]( #tutorials-using-other-tools )*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 
