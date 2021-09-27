@@ -194,6 +194,7 @@
 - [Nayan Sabnis](https://github.com/nayans99)
 - [PhakphumV. Technolista](https://github.com/PhakphumV)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
+- [ULUGBEK BAHROM](https://github.com/ulugbekbahromov/))
 - [Patrick Crouch](https://github.com/PatrickCrouch)
 - [SMRITI RAO](https://github.com/Smriti0311)
 - [Vishal Chauhan](https://github.com/vish-han)
