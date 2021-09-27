@@ -152,6 +152,7 @@
 - [Om Prashant Dharme]
 - [Aju Maharjan](https://github.com/aju513)
 - [Alexander Shen](https://github.com/shenalexw)
+- [Kevin S Manavalan](https://github.com/kevinmanavalan)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Rohit Gangwar](https://github.com/rohit8020/)
