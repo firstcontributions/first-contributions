@@ -1767,6 +1767,8 @@
 - [Magic_Moon](https://github.com/magic-mo-on)
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
+- [Joseph Jose](https://github.com/josephjosedev)
+
 
 
 <!-- prettier-ignore-end -->
