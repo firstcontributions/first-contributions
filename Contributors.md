@@ -22,6 +22,7 @@
   [Chad McCarthy](https://github.com/chadmcc-1)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
+- [Zack Adams](https://github.com/imzackadams)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Phyllis Atieno](https://github.com/phyleria)
 - [Emily Margaret](https://github.com/em3B)
