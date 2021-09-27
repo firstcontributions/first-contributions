@@ -113,6 +113,7 @@
 - [saisameerd](https://github.com/saisameerd)
 - [Goldenpreet Kaur](https://github.com/Golden-preet)
 - [ahop1](https://github.com/ahop1)
+- [jackson batty](https://github.com/jacksonbatty)
 - [Antonio Martinez](https://github.com/op3n-signal)
 - [Erick Sanchez Vital](https://github.com/Erick-vital)
 - [Eyal lampel](https://github.com/eyallampel1)
