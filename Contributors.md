@@ -1,6 +1,7 @@
 ﻿<!-- prettier-ignore-start -->
 
 # Contributors
+- [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Andrea](https://github.com/andrea-genovese)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
