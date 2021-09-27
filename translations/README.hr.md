@@ -18,7 +18,7 @@ Blogovi i tutorijali mogu da pomoći, ali ništa nije bolje nego uzeti stvari u 
 Ukoliko nemate git instaliran na vašem uređaju, [instalirajte ga ovdje]( https://help.github.com/articles/set-up-git/).
 
 ## Terminologija git pojmova na hrvatskom je blago rečeno smjeh pa ih neću niti koristiti.
-Više možete dobiti ovdje src= "https://github.com/tkrajina/uvod-u-git/blob/master/terminologija.tex" alt= "ovdje" />
+Više možete dobiti ovdje src= "https://github.com/tkrajina/uvod-u-git/blob/master/terminologija.tex"/>
 
 ## Napravite fork (kopiju ovog) repozitorija
 
