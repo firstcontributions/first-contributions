@@ -33,6 +33,7 @@
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Anthony Aleman](https://github.com/anthony-aleman)
 - [chengchenrui](https://github.com/chengchenrui)
+- [Sanya](https://github.com/M-Sanya)
 - [Aisling K](https://github.com/aikearney)
 - [Vijender P](https://github.com/pvijender)
 - [Sridhar Maskeri](https://github.com/floating-dynamo)
