@@ -785,7 +785,7 @@
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
 - [Ayush Aggarwal](https://github.com/ayushggr)
-- [Amy Pharris](https://github.com/amyrosep)
+- [Milan Ples](https://github.com/Kasdal)
 - [Adirije Emmanuel Chukwuemeka](https://github.com/Adirije)
 - [Arnab Chakraborty](https://github.com/ArnabC27)
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
