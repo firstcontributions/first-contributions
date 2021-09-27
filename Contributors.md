@@ -201,6 +201,7 @@
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
 - [Namita Rastogi](https://github.com/Ashley936)
+- [Kalyan Chirla](https://github.com/kalyanchirla)
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
 - [Kevin Aguilera](https://github.com/KevinDanae)
 - [Nayan Sabnis](https://github.com/nayans99)
