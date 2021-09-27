@@ -1697,6 +1697,7 @@
 - [Kamal Kant](https://github.com/kamal2806/)
 - [Grim](https://github.com/Expellma/)
 - [Edvcel](https://github.com/edvcel)
+- [Sujata](https://github.com/sujatanaik530)
 - [Fotkurz](https://github.com/Fotkurz)
 - [A-Cer23](https://github.com/A-Cer23)
 - [Jeffrey-0](https://github.com/Jeffrey-0)
