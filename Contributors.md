@@ -1065,6 +1065,7 @@
 - [Marco Ulrich](https://github.com/anotherMarco)
 - [Zarm Dev/ZarmDev](https://github.com/ZarmDev)
 - [mollinaca](https://github.com/mollinaca)
+- [Sheharyar Anwar](https://github.com/SheharyarAnwar)
 - [Rohan Jagpal](https://github.com/RohanJagpal)
 - [bhavesh](https://github.com/BhanushaliBhavesh)
 - [San Askaruly](https://github.com/tuttelikz)
