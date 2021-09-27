@@ -4,9 +4,9 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Prvi prilog
+# Prvi doprinos
 
-Teško je. Prvi pokušaji su uvjek teški. Ukoliko surađuješ sa drugima, još je lakše napraviti greške. Cilj ovog projekta je da olakšamo proces kroz koji novo-pečeni programeri/developeri doprinose zajednici otvorenog koda (eng. open source), te kroz vrlo jednostavan primjer naučimo taj proces.
+Teško je. Prvi pokušaji su uvjek teški. Ukoliko surađuješ sa drugima, još je lakše napraviti grešku kada je sustav kompleksniji. Cilj ovog projekta je da olakšamo proces kroz koji novo-pečeni programeri/developeri doprinose zajednici otvorenog koda (eng. open source), te kroz vrlo jednostavan primjer naučimo taj proces.
 
 Blogovi i tutorijali mogu da pomoći, ali ništa nije bolje nego uzeti stvari u svoje ruke i zaista doprinjeti zajednici otvorenog koda. Ukoliko ste se prepoznali u tekstu iznad, pratite sljedeće korake.
 
