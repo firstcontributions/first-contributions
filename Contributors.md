@@ -98,6 +98,7 @@
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Ben Elgren](https://github.com/belgren)
 - [Kelly](https://github.com/kellyxavier)
+- [Sethu](https://github.com/Seth-arc)
 - [Dimitrios Pigkas](https://github.com/takispig)
 - [Todd](https://github.com/DotSpread)
 - [Shubh Chudasama](https://github.com/c-shubh)
