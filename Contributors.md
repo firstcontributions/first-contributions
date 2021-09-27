@@ -319,6 +319,7 @@
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [Henok Wondimu](https://github.com/henok3878)
 - [A Shot of Code](https://github.com/markjameshoward)
+- [Vladimir Marinov](https://github.com/VladiMarinov)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Ian Onyango](https://github.com/ian-yitzhak)
 - [Krishna Sahani](https://github.com/krishna0303)
