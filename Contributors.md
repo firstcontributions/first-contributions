@@ -298,6 +298,7 @@
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
 - [Matthew Joyce](https://github.com/matthewJ1981)
+- [Manasa Venkatesh](https://github.com/Manasav1510)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Joselito Rebelo](https://github.com/joselito-coder)
