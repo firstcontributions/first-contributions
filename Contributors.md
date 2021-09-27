@@ -118,6 +118,7 @@
 - [Md Adil Irshad] (https://github.com/adil14788)
 - [BladeMaster]
 - [Pranav Wadhwa](https://github.com/nav-28)
+- [Muhammed Hilal](https://github.com/hilalsidhic)
 - [Jinish Shah](https://github.com/jinish08)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Rashid Wassan](https://github.com/rashidwassan)
