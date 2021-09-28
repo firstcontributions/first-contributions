@@ -1790,6 +1790,6 @@
 - [Justin Edwards](https://github.com/jedwards1230)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
-
+- [Nicole Beatriz](https://github.com/NihBeatriz)
 
 <!-- prettier-ignore-end -->
