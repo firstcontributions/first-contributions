@@ -4,6 +4,7 @@
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Andrea](https://github.com/andrea-genovese)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
+- [Atherv Patil](https://github.com/ColonelAVP)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
@@ -60,6 +61,7 @@
 - [Connor Lawson](https://github.com/lawsoncr/)
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
+
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [McKenna McMurray](https://github.com/mckennamcmurray)
 - [Michael](https://github.com/Michael-Ivanov1)
