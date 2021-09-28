@@ -1,6 +1,7 @@
 ﻿﻿<!-- prettier-ignore-start -->
 
 # Contributors
+- [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Andrea](https://github.com/andrea-genovese)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
