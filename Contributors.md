@@ -536,6 +536,7 @@
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
+- [Ayoub Abidi](https://github.com/ayoub3bidi)
 - [SomStar](https://github.com/Somnath-swami)
 - [Carlea Baker](https://github.com/cbaker0)
 - [Shwet Yadav](https://github.com/Shwet-yadav)
