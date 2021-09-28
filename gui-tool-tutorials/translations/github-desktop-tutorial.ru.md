@@ -111,7 +111,7 @@
 
 Вы можете присоединиься к slack команде, на случай, если вам понадобится помощь или у вас возникнут вопросы. [Присоединяйтесь к slack команде](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-### [Дополнительная информация](../additional-material/translations/additional-material.ru.md)
+### [Дополнительная информация](/additional-material/translations/additional-material.ru.md)
 
 ## Руководство по использованиею других инструментов
 [Вернуться на главную страницу](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.ru.md#Использование-других-инструментов)
