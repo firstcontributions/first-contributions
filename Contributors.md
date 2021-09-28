@@ -1804,6 +1804,9 @@
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
+- [Geri Kondas](https://github.com/hamartia20070)
+
 
 
 <!-- prettier-ignore-end -->
+
