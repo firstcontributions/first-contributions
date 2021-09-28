@@ -9,6 +9,7 @@
 - [Xuan Li](https://github.com/mowangblog)
 - [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
+- [Kritika Singhal](https://github.com/kritika0598)
 - [Vivek Shah](https://github.com/viveknshah)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Nayzaw Minnaing](https://github.com/ahnge)
