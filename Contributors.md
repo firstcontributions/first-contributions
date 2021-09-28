@@ -14,6 +14,7 @@
 - [Vivek Shah](https://github.com/viveknshah)
 - [aeron34](https://github.com/aeron34)
 - [sehgxl](https://github.com/sehgxl)
+- [Cara](https://github.com/CNichole726)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
@@ -26,6 +27,7 @@
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
+- [R3nrs](https://github.com/R3nrs)
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
@@ -1487,6 +1489,7 @@
 - [Lisdey Perez](https://github.com/lisdey-perez)
 - [Awsaf](https://github.com/awsaf49)
 - [Akshat Kumar](https://github.com/akshat-52)
+- [Tim Fan](https://github.com/tim61114)
 - [Muzzmil](https://github.com/muzammilCO)
 - [Mustafa Atay](https://github.com/mstfatay/)
 - [Daekun](https://github.com/daekun0920)
@@ -1740,6 +1743,7 @@
 - [shi7](https://github.com/shi7)
   [Oliver - BoonyToons](https://github.com/BoonyToons)
 - [wolfetone](https://github.com/wolfetone)
+- [test23]
 - [Teena Acharya](https://github.com/teenaacharya)
 - [Suvarna Pattayil - SuvP](https://github.com/Suv-P)
 - [Richa Motwani](https://github.com/Richa2801)
@@ -1811,7 +1815,8 @@
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
-- [josgood88](https://github.com/josgood88)
+- [Joe Osgood](https://github.com/josgood88)
+- [Ayush Rudani](https://github.com/R-Ayush777)
 
 
 <!-- prettier-ignore-end -->
