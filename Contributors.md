@@ -1806,6 +1806,7 @@
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
+- [Leonardo Goulart](https://github.com/LeonardoCGoulart)
 
 
 <!-- prettier-ignore-end -->
