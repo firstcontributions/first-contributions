@@ -37,6 +37,7 @@
 - [Phyllis Atieno](https://github.com/phyleria)
 - [Emily Margaret](https://github.com/em3B)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
+- [Douglas Kaminski](https://github.com/dokam)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
 - [Gustavo Bethelmy](https://github.com/gigablack)
@@ -103,6 +104,7 @@
 - [Rutvij Dave](https://github.com/rutvijdave12)
 - [Sundararajan](https://github.com/Sundar-07)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
+- [Shrinath](https://github.com/ShrinathNR)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
@@ -211,6 +213,7 @@
 - [Sahil Suman](https://github.com/sahilsuman933)
 - [Amit Pal](https://github.com/amitpal16181)
 - [Austin Pautz](https://github.com/austindesosa)
+- [Josh Merlin](https://github.com/jamjamnewbie)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Megha Agarwal](https://github.com/Megha184)
 - [Matthew Martinez](https://github.com/lilcobija)
@@ -244,6 +247,7 @@
 - [Rudolf Fonseca](https://github.com/rudolffonseca)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Kharlo Pena](https://github.com/Kharlo109)
+- [Rajul koshta](https://github.com/rajulkoshta)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Ahmed Fathy](https://github.com/ahmedfathydev)
@@ -259,6 +263,7 @@
 - [FactorYang](https://github.com/FactorYang)
 - [HHz8746](https://github.com/HHz8746)
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
+- [anuj singh] 
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
@@ -1804,5 +1809,6 @@
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Pajri Zahrawaani Ahmad](https://github.com/pforpajri)
+- [Leonardo Goulart](https://github.com/LeonardoCGoulart)
 
 <!-- prettier-ignore-end -->
