@@ -133,7 +133,7 @@ git push origin --delete <add-your-name>
 ```
 Это совершенно не обязательно, но название этой ветви отражает ее довольно специфическое назначение. И продолжительность ее жизни может быть соответствующе короткой.
 
-### [Дополнительная информация](additional-material/translations/additional-material.ru.md)
+### [Дополнительная информация](/additional-material/translations/additional-material.ru.md)
 
 ## Использование других инструментов
 
