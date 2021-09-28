@@ -8720,6 +8720,7 @@ Yury Smyslov
 - [SergNJ](https://github.com/SergNJ)
 - [Patricia Ray](https://github.com/pray9)
 - [Jeffrey Lui](https://github.com/jlui820)
+- [Jefferson Gakuya](https://github.com/NgatiaJeffers)
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss](https://github.com/ceheiss)
 - [diksub](https://github.com/dikisubagja)
