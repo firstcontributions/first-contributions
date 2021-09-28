@@ -1,10 +1,11 @@
-﻿<!-- prettier-ignore-start -->
+﻿﻿<!-- prettier-ignore-start -->
 
 # Contributors
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Andrea](https://github.com/andrea-genovese)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
+- [Xuan Li](https://github.com/mowangblog)
 - [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Vivek Shah](https://github.com/viveknshah)
