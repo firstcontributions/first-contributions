@@ -1816,6 +1816,6 @@
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
 - [Ayush Rudani](https://github.com/R-Ayush777)
-
+- [Danrlei Dal Fré](https://github.com/danrleidalfre)
 
 <!-- prettier-ignore-end -->
