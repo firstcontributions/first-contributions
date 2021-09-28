@@ -1791,6 +1791,6 @@
 - [Justin Edwards](https://github.com/jedwards1230)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
-
+- [Tiago Perri](https://github.com/TiagoPerri)
 
 <!-- prettier-ignore-end -->
