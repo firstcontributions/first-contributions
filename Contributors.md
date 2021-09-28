@@ -37,6 +37,7 @@
 - [Phyllis Atieno](https://github.com/phyleria)
 - [Emily Margaret](https://github.com/em3B)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
+- [Douglas Kaminski](https://github.com/dokam)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
 - [Gustavo Bethelmy](https://github.com/gigablack)
