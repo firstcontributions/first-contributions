@@ -244,6 +244,7 @@
 - [Rudolf Fonseca](https://github.com/rudolffonseca)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
 - [Kharlo Pena](https://github.com/Kharlo109)
+- [Rajul koshta](https://github.com/rajulkoshta)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Ahmed Fathy](https://github.com/ahmedfathydev)
