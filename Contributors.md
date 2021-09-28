@@ -398,6 +398,7 @@
 - [Aniket Kumar](https://github.com/aniket-24)
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
+- [Vedant Gokhale](https://github.com/gokhalevedant06)
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
