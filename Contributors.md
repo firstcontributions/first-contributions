@@ -294,6 +294,7 @@
 - [Shaun Lockie](https://github.com/Shaunlockie)
 - [Naftoli Ost](https://github.com/naftoliost)
 - [Rukundo Kevin](https://github.com/rukundo-kevin)
+- [Arjun](https://github.com/Arjun6112)
 - [Kaushik](https://github.com/KaushikKC)
 - [Ansi007/Anns Shahbaz](https://github.com/Ansi007)
 - [Nakul Londhe](https://github.com/nakullondhe)
