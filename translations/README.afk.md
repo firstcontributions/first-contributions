@@ -155,7 +155,7 @@ As jy na jou repository op GitHub gaan, sal jy 'n `Compare & pull` requestknoppi
 
 Dien nou die trekversoek in.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsmelt. U sal 'n kennisgewing-e-pos ontvang sodra die veranderinge saamgesmelt is.
 

@@ -8,6 +8,7 @@
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
 - [Amara](https://github.com/hereisamara)
+- [Jessy](https://github.com/jessy521)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Vivek Shah](https://github.com/viveknshah)
