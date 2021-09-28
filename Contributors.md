@@ -1788,6 +1788,7 @@
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
+- [Gabriel Silva](https://github.com/Gabriel-CSS)
 
 
 <!-- prettier-ignore-end -->
