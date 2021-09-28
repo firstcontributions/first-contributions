@@ -1807,6 +1807,7 @@
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
+- [Darlene0354]((https://github.com/Darlene0354))
 
 
 <!-- prettier-ignore-end -->
