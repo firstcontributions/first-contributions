@@ -1488,6 +1488,7 @@
 - [Lisdey Perez](https://github.com/lisdey-perez)
 - [Awsaf](https://github.com/awsaf49)
 - [Akshat Kumar](https://github.com/akshat-52)
+- [Tim Fan](https://github.com/tim61114)
 - [Muzzmil](https://github.com/muzammilCO)
 - [Mustafa Atay](https://github.com/mstfatay/)
 - [Daekun](https://github.com/daekun0920)
