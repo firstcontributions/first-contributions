@@ -1811,6 +1811,7 @@
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
+- [josgood88](https://github.com/josgood88)
 
 
 <!-- prettier-ignore-end -->
