@@ -1802,6 +1802,7 @@
 - [Aneika Blake-Laing](https://github.com/aneilaing)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
+- [Deepak Suthar](https://github.com/codewithdpk)
 
 
 <!-- prettier-ignore-end -->
