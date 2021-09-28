@@ -1813,6 +1813,7 @@
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
+- [Ayush Rudani](https://github.com/R-Ayush777)
 
 
 <!-- prettier-ignore-end -->
