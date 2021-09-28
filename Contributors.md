@@ -12,6 +12,7 @@
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Vivek Shah](https://github.com/viveknshah)
 - [aeron34](https://github.com/aeron34)
+- [sehgxl](https://github.com/sehgxl)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
