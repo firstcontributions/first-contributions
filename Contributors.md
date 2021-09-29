@@ -19,6 +19,7 @@
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
+-[Devashish Daharia] https://github.com/dev404error
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
 - [Gaurab Halder](https://github.com/gaurabhalder)
