@@ -369,6 +369,7 @@
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
 - [Anabela Tot](https://github.com/Anabellia)
 - [Jagrat Gupta](https://github.com/JagratG07)
+- [Aditya Singh](https://github.com/YusiferZendric)
 - [Florian Edemessi](https://github.com/nair0lf32)
 - [ADAMU M. M.](https://github.com/AdamsGeeky)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
