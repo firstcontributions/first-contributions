@@ -69,7 +69,6 @@
 - [PeaceSeed](https://github.com/PeaceSeed/)
 - [Muhammad Faizan](https://github.com/MuhammadFaizan7326)
 - [Shresth](https://github.com/Shresth-Jain/)
-- [Akshat Kant Thakur](https://github.com/akshatkant/)
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
 - [Connor Lawson](https://github.com/lawsoncr/)
