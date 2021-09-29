@@ -29,6 +29,7 @@
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
+- [Aimi Fadhil](https://github.com/ColonelBucket8)
 - [R3nrs](https://github.com/R3nrs)
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
