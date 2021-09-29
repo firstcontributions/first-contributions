@@ -366,6 +366,7 @@
 - [Masoud Torkian](github.com/Giyumtell)
 - [Ian Onyango](https://github.com/ian-yitzhak)
 - [Krishna Sahani](https://github.com/krishna0303)
+- [Sarfaraz Khan](https://github.com/GoogolDKhan)
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
