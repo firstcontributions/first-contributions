@@ -121,6 +121,7 @@
 - [Dimitrios Pigkas](https://github.com/takispig)
 - [Todd](https://github.com/DotSpread)
 - [Shubh Chudasama](https://github.com/c-shubh)
+- [Jens Jovellano](https://github.com/pizzanoodles)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - [Tyler Programs](https://github.com/Tyler-Programs)
