@@ -4,6 +4,7 @@
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
+- [Lowic Mangin](https://github.com/logic-fabric)
 - [Andrea](https://github.com/andrea-genovese)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 - [Sohail](https://github.com/ahmadsohail404)
