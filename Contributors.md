@@ -41,6 +41,7 @@
 - [R3nrs](https://github.com/R3nrs)
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
+- [Akshat Kant Thakur](https://github.com/akshatkant)
 - [Avery Caulfield](https://github.com/metaEthics)
   [Chad McCarthy](https://github.com/chadmcc-1)
 - [Kurtis Gibson](https://github.com/kagibson)
