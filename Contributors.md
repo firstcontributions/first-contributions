@@ -20,6 +20,7 @@
 - [sehgxl](https://github.com/sehgxl)
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
+- [Debodyuti Biswas](https://github.com/debodyuti1)
 - [Ali Amjad](https://github.com/ali1059)
 - [Manas Tiwari](https://github.com/Manas-Tiwari)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
