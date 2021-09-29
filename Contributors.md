@@ -1859,6 +1859,7 @@
 - [Muhammad Ahmad(ZeusDes)](https://github.com/ZeusDes)
 - [Marcus Vinicius Braz](https://github.com/mvbrazz)
 - [Not Marcus](https://github.com/)
+- [João Marcel](https://github.com/jm-marcel)
 
 
 <!-- prettier-ignore-end -->
