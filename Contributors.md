@@ -1,6 +1,6 @@
 ﻿﻿<!-- prettier-ignore-start -->
 
-# Contributors
+# **Contributors**
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
@@ -26,6 +26,7 @@
 - [Manas Tiwari](https://github.com/Manas-Tiwari)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Raghav](https://github.com/never-code)
+- [Durgesh Kumar Meena](https://github.com/durgeshmeena)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
