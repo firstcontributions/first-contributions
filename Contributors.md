@@ -1,6 +1,7 @@
 ﻿﻿<!-- prettier-ignore-start -->
 
 # Contributors
+- [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Andrea](https://github.com/andrea-genovese)
