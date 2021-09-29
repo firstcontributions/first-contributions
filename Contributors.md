@@ -441,6 +441,7 @@
 - [Vladimir Meshalkin](https://github.com/LadMes)
 - [Martin Meng](https://github.com/MartinMxn)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
+- [Davis Kabiswa](https://github.com/Dkabiswa)
 - [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
 - [Prateek Verma](https://github.com/PRATEEKVERMA-036)
