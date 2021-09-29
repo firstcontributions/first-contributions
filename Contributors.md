@@ -1832,6 +1832,6 @@
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
 - [Ayush Rudani](https://github.com/R-Ayush777)
-
+- [Lucas Mariano](https://github.com/lucasmgaldino)
 
 <!-- prettier-ignore-end -->
