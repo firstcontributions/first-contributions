@@ -25,6 +25,7 @@
 -[Devashish Daharia] https://github.com/dev404error
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
+- [Bhushan Mendhe](https://github.com/bmendhe23)
 - [Gaurab Halder](https://github.com/gaurabhalder)
 - [SaiZawPhyo](https://github.com/saizawphyo)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
