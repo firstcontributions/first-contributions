@@ -1854,6 +1854,6 @@
 - [Ayush Rudani](https://github.com/R-Ayush777)
 - [Muhammad Ahmad(ZeusDes)](https://github.com/ZeusDes)
 - [Marcus Vinicius Braz](https://github.com/mvbrazz)
-
+- [Gabriel Del Padre Paleta](https://github.com/Crymison)
 
 <!-- prettier-ignore-end -->
