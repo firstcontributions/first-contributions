@@ -8,6 +8,7 @@
 - [Sohail](https://github.com/ahmadsohail404)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
+- [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Archisman Das](https://github.com/Arch0125)
 - [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
