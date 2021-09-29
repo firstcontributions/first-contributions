@@ -1485,6 +1485,7 @@
 - [Stefan Kleinhans](https://github.com/Stefan043)
 - [Sugam Jaiswal](https://github.com/jaissugam)
 - [Nial Dixon](https://github.com/nialdixon8)
+- [Raha Moosavi](https://github.com/acse-srm3018)
 - [Harper Moon]
 - [Ankit Kumar](https://github.com/anktsverma)
 - [Akra Davidson](https://github.com/Davidson-09)
