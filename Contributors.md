@@ -95,6 +95,7 @@
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Atharva Ikhar](https://github.com/iatharva)
+- [Dan Kaloustian](https://github.com/dtkaloust)
 - [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
 - [Mohit](https://github.com/msaini0r)
 - [Karan Shaw](https://github.com/karanShaw000)
