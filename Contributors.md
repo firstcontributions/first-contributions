@@ -1198,6 +1198,7 @@
 - [Sun Yu](https://github.com/sunyuu)
 - [Xiang Li](https://github.com/lixiangbetter)
 - [kyu-kim-kr](https://github.com/kyu-kim-kr)
+- [kuredoro](https://github.com/kuredoro)
 - [Yysoim](https://github.com/yysoim)
 - [Mahdhi Rezvi](https://github.com/Mahdhir)
 - [Aldilas](https://github.com/aldeetropolis)
