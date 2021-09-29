@@ -65,6 +65,7 @@
 - [Connor Lawson](https://github.com/lawsoncr/)
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
+- [MilanAgrawal](https://github.com/MilanAgrawal)
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [McKenna McMurray](https://github.com/mckennamcmurray)
 - [Michael](https://github.com/Michael-Ivanov1)
@@ -268,7 +269,7 @@
 - [FactorYang](https://github.com/FactorYang)
 - [HHz8746](https://github.com/HHz8746)
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
-- [anuj singh] 
+- [anuj singh]
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
