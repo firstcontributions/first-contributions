@@ -1810,6 +1810,7 @@
 - [NewMountain](https://github.com/NewMountain)
 - Lazy1
 - [Sumit Banwakade](https://github.com/Sumit4482)
+- [Danny Nguyen](https://github.com/LavaDanny)
 - [Alok Verma](https://github.com/alokverma749)
 - [Agung Kurnia Robbi](https://github.com/agungrobbi)
 - [Meghan McFadden](https://github.com/meghanmcfadden)
