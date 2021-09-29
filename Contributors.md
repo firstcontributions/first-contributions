@@ -93,7 +93,6 @@
 - [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
 - [Mohit](https://github.com/msaini0r)
 - [Karan Shaw](https://github.com/karanShaw000)
-- [Akshat Kant Thakur](https://github.com/akshatkant/)
 - [Shreyas H C](https://github.com/shreyashc)
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
