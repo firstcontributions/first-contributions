@@ -17,6 +17,7 @@
 - [aeron34](https://github.com/aeron34)
 - [sehgxl](https://github.com/sehgxl)
 - [Cara](https://github.com/CNichole726)
+- [Yash](https://github.com/YasshhYadav)
 - [Ali Amjad](https://github.com/ali1059)
 - [Manas Tiwari](https://github.com/Manas-Tiwari)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
