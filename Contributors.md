@@ -1850,6 +1850,7 @@
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
 - [Ayush Rudani](https://github.com/R-Ayush777)
 - [Muhammad Ahmad(ZeusDes)](https://github.com/ZeusDes)
+- [Marcus Vinicius Braz](https://github.com/mvbrazz)
 
 
 <!-- prettier-ignore-end -->
