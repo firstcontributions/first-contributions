@@ -878,6 +878,7 @@ tayo360
 - [diulv](https://github.com/diulv)
 - [Joewat96](https://github.com/Joewat96)
 - [Tyler Gust](https://github.com/Your-God)
+- [Hamza Ijaz](https://github.com/hamzaijaz-dev)
 - [Pablo Ordorica Wiener](https://github.com/pablordoricaw)
 - [Sachin Prasad](https://github.com/Sachin-Prasad-2001)
 - [Łukasz Dacz](https://github.com/gogetto1)
