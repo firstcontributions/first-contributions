@@ -1,7 +1,8 @@
-﻿﻿<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->
 
 # **Contributors**
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
+- [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
