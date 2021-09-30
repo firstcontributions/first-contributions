@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Daniel Hiebeler](https://github.com/daniebeler)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
