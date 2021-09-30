@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
+- [Aaron Lowe](https://github.com/CyberFlameGO)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
