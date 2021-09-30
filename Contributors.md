@@ -4,6 +4,7 @@
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
+- [Torge Korff](https://github.com/TorgeKorff)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
