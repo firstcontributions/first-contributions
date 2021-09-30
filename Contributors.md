@@ -2,6 +2,8 @@
 
 # **Contributors**
 - [Daniel Hiebeler](https://github.com/daniebeler)
+- [Lenard Mangay-ayam](https://github.com/lenard123)
+- [Ethan Schoen](https://github.com/ethanschoen)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Torge Korff](https://github.com/TorgeKorff)
@@ -18,6 +20,7 @@
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 tayo360
 - [Sohail](https://github.com/ahmadsohail404)
+- [Kedar Hargude](https://github.com/kedar-hargude)
 - [Aniket Nayek](https://github.com/AniketNayek3101)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
@@ -27,9 +30,11 @@ tayo360
 - [Amara](https://github.com/hereisamara)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Kritika Singhal](https://github.com/kritika0598)
+- [Shubham Kumar 🤴](https://github.com/shubham-1903)
 - [Vivek Shah](https://github.com/viveknshah)
 - [aeron34](https://github.com/aeron34)
 - [sehgxl](https://github.com/sehgxl)
+- [Rishi Kashyap](https://github.com/incarnate87)
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
 - [Nico Araya](https://github.com/NicolasArayaB)
@@ -120,6 +125,7 @@ tayo360
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
+- [Ian Mena}(https://github.com/ian0000)
 - [Merius TZ](https://github.com/MeriusTz)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
@@ -151,6 +157,7 @@ tayo360
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Ben Elgren](https://github.com/belgren)
 - [Kelly](https://github.com/kellyxavier)
+- [Amritaansh Narain](https://github.com/namritaansh02)
 - [Sethu](https://github.com/Seth-arc)
 - [Dimitrios Pigkas](https://github.com/takispig)
 - [Todd](https://github.com/DotSpread)
@@ -1324,6 +1331,8 @@ tayo360
 - [Ivan Spada](https://github.com/spdivn)
 - [Alexander Tsapkov](http://github.com/alextsa22)
 - [Lucas Culley](http://github.com/feverbrew)
+- [Tim Losito](https://github.com/losito105)
+- [Victor Paredes](https://github.com/Victorp99)
 - [qarun685](https://github.com/qarun685)
 - [cmattic](https://github.com/cmattic)
 - [Alex L](https://github.com/aLyonsGH)
@@ -1774,6 +1783,7 @@ tayo360
 - [Emma Carlsson](https://github.com/emmeth99)
 - [Kamal Kant](https://github.com/kamal2806/)
 - [Grim](https://github.com/Expellma/)
+- [Ahmad Fariz Dwi Putra](https://github.com/ahmadfariz)
 - [Edvcel](https://github.com/edvcel)
 - [Sujata](https://github.com/sujatanaik530)
 - [Fotkurz](https://github.com/Fotkurz)
@@ -1885,7 +1895,9 @@ tayo360
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
-[Satyanand](https://github.com/Satyanand-M)
+- [Satyanand](https://github.com/Satyanand-M)
+- [Anang-Abr](https://github.com/Anang-Abr)
+- [Nabeel Aejaz](https://github.com/nabeelaejaz)
 
 
 <!-- prettier-ignore-end -->
