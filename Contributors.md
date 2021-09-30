@@ -22,6 +22,7 @@
 - [sehgxl](https://github.com/sehgxl)
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
+- [Nico Araya](https://github.com/NicolasArayaB)
 - [33cloud33](https://github.com/33cloud33)
 - [Debodyuti Biswas](https://github.com/debodyuti1)
 - [Ali Amjad](https://github.com/ali1059)
