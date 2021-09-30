@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Maziar Rumiani](https://github.com/rumiani)
+
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ethan Schoen](https://github.com/ethanschoen)
