@@ -1915,6 +1915,7 @@ tayo360
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
+- [Hasobi Roid Radityo](https://github.com/hasobi)
 
 
 <!-- prettier-ignore-end -->
