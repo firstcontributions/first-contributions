@@ -1901,6 +1901,7 @@ tayo360
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
+- [Marty Zhu](https://github.com/marty-zhu)
 
 
 <!-- prettier-ignore-end -->
