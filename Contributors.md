@@ -1789,6 +1789,7 @@
 - [Nick Lu](https://github.com/nicklutuxun)
 - [Cody Lillywhite](https://github.com/Codyl)
 - [shi7](https://github.com/shi7)
+- [Anthony Citizen](https://github.com/Anthony-Citizen)
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
 - [Musa Ahmed](https://github.com/m-GDEV)
