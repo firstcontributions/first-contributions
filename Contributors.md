@@ -499,6 +499,7 @@ tayo360
 - [aweliego](https://github.com/aweliego)
 - [BHKR](https://github.com/BHKR)
 - [priyanshu](https://github.com/001priyanshu)
+- [John Wanjema](https://github.com/johnwanjema)
 - [MNaiwrit](https://github.com/mnaiwrit52)
 - [Temitope Feyisitan](https://github.com/epotimeT)
 - [IVIosab](https://github.com/IVIosab)
