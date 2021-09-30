@@ -1784,6 +1784,6 @@
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
-
+- [Anastazja Wróbel](https://github.com/AnastazjaWro)
 
 <!-- prettier-ignore-end -->
