@@ -301,6 +301,7 @@ tayo360
 - [FactorYang](https://github.com/FactorYang)
 - [HHz8746](https://github.com/HHz8746)
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
+- [James Dinh](https://github.com/SonDinh5310)
 - [anuj singh]
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
