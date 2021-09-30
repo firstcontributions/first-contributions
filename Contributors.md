@@ -1427,6 +1427,7 @@ tayo360
 - [Mohsen Abdoli](https://github.com/Mohsen-Abdoli)
 - [Elad](https://github.com/eladbd)
 - [Sara]
+- [Rohan Jaiswal](https://github.com/Deadrohan19)
 - [Paul Dunderdale](https://github.com/paulkd)
 - [Abhuu](https://github.com/abhuu)
 - [yousukeayada](https://github.com/yousukeayada)
