@@ -52,6 +52,7 @@ tayo360
 -[Devashish Daharia] https://github.com/dev404error
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
+- [Ian Cornish](https://github.com/icornish97)
 - [Bhushan Mendhe](https://github.com/bmendhe23)
 - [Gaurab Halder](https://github.com/gaurabhalder)
 - [SaiZawPhyo](https://github.com/saizawphyo)
