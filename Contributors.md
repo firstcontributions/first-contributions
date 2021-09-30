@@ -1850,6 +1850,7 @@
 - [Magic_Moon](https://github.com/magic-mo-on)
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
+- [Vivek Chulani](https://github.com/vivekchulani)
 -Jayathi
 - [Yash Desai](https://github.com/yashdesoi)
 - [Naman Garg] 
