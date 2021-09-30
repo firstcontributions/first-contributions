@@ -1895,6 +1895,6 @@ tayo360
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
-
+- [Sri Hari Sivashanmugam](https://github.com/srhr17)
 
 <!-- prettier-ignore-end -->
