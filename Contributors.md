@@ -1887,6 +1887,7 @@ tayo360
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
+- [Nabeel Aejaz](https://github.com/nabeelaejaz)
 
 
 <!-- prettier-ignore-end -->
