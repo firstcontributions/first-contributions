@@ -3,6 +3,7 @@
 # **Contributors**
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
+- [Ethan Schoen](https://github.com/ethanschoen)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Torge Korff](https://github.com/TorgeKorff)
