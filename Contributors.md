@@ -20,6 +20,7 @@
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 tayo360
 - [Sohail](https://github.com/ahmadsohail404)
+- [Kedar Hargude](https://github.com/kedar-hargude)
 - [Aniket Nayek](https://github.com/AniketNayek3101)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
