@@ -1860,6 +1860,7 @@
 -Jayathi
 - [Yash Desai](https://github.com/yashdesoi)
 - [Naman Garg] 
+- [Deepanshu verma](https://github.com/iDeepverma)
 - [Aneika Blake-Laing](https://github.com/aneilaing)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
