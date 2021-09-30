@@ -1901,6 +1901,6 @@ tayo360
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
-
+- [Adryan Almeida](https://github.com/adryan30)
 
 <!-- prettier-ignore-end -->
