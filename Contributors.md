@@ -1870,6 +1870,7 @@
 - [Marcus Vinicius Braz](https://github.com/mvbrazz)
 - [Not Marcus](https://github.com/)
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
+- [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 
 
 <!-- prettier-ignore-end -->
