@@ -185,6 +185,7 @@
 - [Aman](https://github.com/av-feaster)
 - [Aaditya Prasad](https://github.com/aaditya9899)
 - [tonim19](https://github.com/tonim19)
+- [Zhipeng He](https://github.com/ZhipengHe)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
 - [Soufiane Elharem](https://github.com/Selharem)
 - [Sergey Romanenko](https://github.com/Awilum)
