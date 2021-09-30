@@ -1327,6 +1327,7 @@ tayo360
 - [Ivan Spada](https://github.com/spdivn)
 - [Alexander Tsapkov](http://github.com/alextsa22)
 - [Lucas Culley](http://github.com/feverbrew)
+- [Victor Paredes](https://github.com/Victorp99)
 - [qarun685](https://github.com/qarun685)
 - [cmattic](https://github.com/cmattic)
 - [Alex L](https://github.com/aLyonsGH)
