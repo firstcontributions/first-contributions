@@ -1628,6 +1628,7 @@ tayo360
 - [Gabriel Batista](https://github.com/BatistaGabriel)
 - [Eric Scagnelli](https://github.com/ericscagnelli)
 - [Seneli](https://github.com/Seneli)
+- [Chris Korsak](https://github.com/chriskorsak)
 - [Siri Khalsa](https://github.com/skhalsa10)
 - [Sangit Gurung from Nepal](https://github.com/sangitgrg)
 - [Tito Reinhart](https://github.com/TotallyNotTito)
