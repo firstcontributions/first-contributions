@@ -20,6 +20,7 @@ tayo360
 - [Aniket Nayek](https://github.com/AniketNayek3101)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Xuan Li](https://github.com/mowangblog)
+- [Akshai](https://github.com/Akshai-2909)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Archisman Das](https://github.com/Arch0125)
 - [Amara](https://github.com/hereisamara)
