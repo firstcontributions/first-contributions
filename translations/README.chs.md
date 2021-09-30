@@ -5,13 +5,13 @@
 
 # 第一次参与开源
 
-万事起头难。特别是和其他人合作时，犯错格外令人不舒服。不过，开源的本质就是和其他人合作。我们希望为初学者带来一个简单的方法去学习及参与开源项目。
+万事开头难。尤其是和其他人合作时，犯错总是格外令人不舒服。不过，开源的本质就是和其他人合作。这个项目就是希望为初学者带来一个简单的方法去学习及参与开源项目。
 
-阅读文章和观看教程会有所帮助。不过，有什么方法能比实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
+你可以选择阅读文章和观看教程来得到帮助，但实际动手才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将很好玩 :)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-如果你的电脑上尚未安装 git, 请按照这个 [安装指引](https://help.github.com/articles/set-up-git/) 进行安装。
+如果你的电脑上尚未安装 git, 请按照 [这个](https://help.github.com/articles/set-up-git/) 进行安装。
 
 ## Fork（复制）本代码仓库
 
@@ -22,7 +22,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-接下来，将复制后的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
+接下来将复制后的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
 
 随后打开命令行窗口，敲入如下 git 命令：
 
@@ -40,7 +40,7 @@ git clone https://github.com/你的Github用户名/first-contributions.git
 
 '你的 Github 用户名' 指的就是你的 Github 用户名。这一步，你将复制到你账户名下的 first-contributions 这个代码仓库克隆到本地电脑上。
 
-## 新建一个分支
+## 新建一个代码分支
 
 下面的命令能在命令行窗口中，把目录切换到 first-contributions
 
@@ -73,7 +73,7 @@ git add Contributors.md
 ```
 git commit -m "Add <你的名字> to Contributors list"
 ```
-将 `<你的名字>` 替换为你的名字
+将 `<你的名字>` 替换成你的名字
 
 ## 将改动 Push（发布）到 GitHub
 
