@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Daniel Hiebeler](https://github.com/daniebeler)
+- [Adit Magotra](https://github.com/AlphaLaser)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
@@ -1864,7 +1865,7 @@ tayo360
 - [Vivek Chulani](https://github.com/vivekchulani)
 -Jayathi
 - [Yash Desai](https://github.com/yashdesoi)
-- [Naman Garg] 
+- [Naman Garg]
 - [Deepanshu verma](https://github.com/iDeepverma)
 - [Aneika Blake-Laing](https://github.com/aneilaing)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
