@@ -66,6 +66,7 @@ tayo360
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
   [Chad McCarthy](https://github.com/chadmcc-1)
+- [Appledora](https://github.com/appledora)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Zack Adams](https://github.com/imzackadams)
