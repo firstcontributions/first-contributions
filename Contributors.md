@@ -1774,6 +1774,7 @@
 - [Zach DeHaven](https://github.com/zachdehaven)
 - [Hunter Woodruff](https://github.com/hcw52)
 - [Zinyx Zi](https://github.com/Ziinyx)
+- [Anthony Citizen](https://github.com/Anthony-Citizen)
 - [Trevor Merrick](https://github.com/tmerrick17)
 - [Andrew Folsom](https://github.com/andrewfolsom)
 - [Adedamola Ogunbona](https://github.com/drummerboix)
