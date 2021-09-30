@@ -1885,6 +1885,7 @@ tayo360
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
+[Satyanand](https://github.com/Satyanand-M)
 
 
 <!-- prettier-ignore-end -->
