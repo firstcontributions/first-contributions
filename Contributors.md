@@ -150,6 +150,7 @@ tayo360
 - [Berkay Surmeli](https://github.com/BerkaySurmeli)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
+- [janith.kanchana](https://github.com/JanithKE)
 - [Manav Kampani](https://github.com/Kampani)
 - [Rutvij Dave](https://github.com/rutvijdave12)
 - [Sundararajan](https://github.com/Sundar-07)
