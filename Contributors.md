@@ -156,6 +156,7 @@ tayo360
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Ben Elgren](https://github.com/belgren)
 - [Kelly](https://github.com/kellyxavier)
+- [Amritaansh Narain](https://github.com/namritaansh02)
 - [Sethu](https://github.com/Seth-arc)
 - [Dimitrios Pigkas](https://github.com/takispig)
 - [Todd](https://github.com/DotSpread)
