@@ -9,6 +9,7 @@
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
+- [Andrew Chambers](https://github.com/W3Dojo)
 - [Andrea](https://github.com/andrea-genovese)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 - [Sohail](https://github.com/ahmadsohail404)
