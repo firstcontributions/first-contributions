@@ -1774,6 +1774,7 @@ tayo360
 - [Emma Carlsson](https://github.com/emmeth99)
 - [Kamal Kant](https://github.com/kamal2806/)
 - [Grim](https://github.com/Expellma/)
+- [Ahmad Fariz Dwi Putra](https://github.com/ahmadfariz)
 - [Edvcel](https://github.com/edvcel)
 - [Sujata](https://github.com/sujatanaik530)
 - [Fotkurz](https://github.com/Fotkurz)
