@@ -1877,6 +1877,7 @@ tayo360
 - [Not Marcus](https://github.com/)
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
+- [Rizki Maulana Citra](https://github.com/rizkimcitra)
 
 
 <!-- prettier-ignore-end -->
