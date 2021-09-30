@@ -122,6 +122,7 @@ tayo360
 - [Mohit](https://github.com/msaini0r)
 - [Karan Shaw](https://github.com/karanShaw000)
 - [Amal Richwin](https://github.com/AmalRichwin)
+- [Vishal Sharma](https://github.com/VishalS047)
 - [Akshat Kant Thakur](https://github.com/akshatkant/)
 - [Shreyas H C](https://github.com/shreyashc)
 - [Sai Prasad](https://github.com/bsaiprasad22)
