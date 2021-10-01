@@ -181,7 +181,6 @@ tayo360
 - [Subrata Rajak](https://github.com/Subrata-Rajak)
 - [Berkay Surmeli](https://github.com/BerkaySurmeli)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
-- [Samiksha Mahure](https://github.com/samiksha-14)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
 - [janith.kanchana](https://github.com/JanithKE)
 - [Manav Kampani](https://github.com/Kampani)
@@ -1957,6 +1956,6 @@ tayo360
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
-
+- [Sheel Shah](https://github.com/shahsheel
 
 <!-- prettier-ignore-end -->
