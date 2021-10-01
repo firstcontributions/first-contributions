@@ -1955,6 +1955,7 @@ tayo360
 - [Ayush Pattnaik](https://github.com/Ayu10x)
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
+- [Vibhuti Jain](https://github.com/vibhuvj27)
 
 
 <!-- prettier-ignore-end -->
