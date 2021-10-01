@@ -2,6 +2,8 @@
 
 # **Contributors**
 - [Noemi Andras](https://github.com/noemiandras)
+- [Shruthi Pillai] (https://github.com/shrum99)
+- [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
@@ -199,6 +201,7 @@ tayo360
 -[Roshan](https://github.com/)
 - [Jiayi Li](https://github.com/jl-7)
 - [Anushka](https://github.com/Anushh23)
+Himanshu Dedha
 - [Subrata Rajak](https://github.com/Subrata-Rajak)
 - [Berkay Surmeli](https://github.com/BerkaySurmeli)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
@@ -638,6 +641,7 @@ tayo360
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Flix](https://github.com/FlixProd/)
 - [Alexander Nguyen](https://github.com/GalexyN)
+- [Jaideep Sharma](http://github.com/camperjett)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
@@ -673,6 +677,7 @@ tayo360
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [Mohit N] 
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney](https://github.com/Juniper11)
 - [Gottfried Owono](https://github.com/Ge0ni)
@@ -1978,6 +1983,7 @@ tayo360
 - [Otis C](https://github.com/otili9890)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
+- [BHATT VIDHI](https://github.com/VidhiBhatt01)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
@@ -1993,6 +1999,7 @@ tayo360
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
+- [Malik Abdul Aziz](https://github.com/crossdev-app)
 
 
 <!-- prettier-ignore-end -->
