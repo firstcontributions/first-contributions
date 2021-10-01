@@ -481,6 +481,7 @@ tayo360
 - [Yuvanna Bawa](https://github.com/YB73)
 - [moses Oketch](https://github.com/moseoketch86)
 - [Prince Kushwaha](https://github.com/princekushwaha)
+- [Shashank Kumar Upadhyay](https://github.com/skup-sci)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Mohammad Shakib](https://github.com/mo-shakib)
 - [Abhijit Sarode](https://github.com/abhijitsarode)
