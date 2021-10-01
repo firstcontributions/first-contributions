@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Ajriel](https://github.com/AjrielRm/)
 - [Heidal](https://github.com/TheHeidal/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
@@ -27,6 +28,7 @@ tayo360
 - [Kedar Hargude](https://github.com/kedar-hargude)
 - [Aniket Nayek](https://github.com/AniketNayek3101)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
+- [Robert Njenga](https://github.com/robertnjenga)
 - [Xuan Li](https://github.com/mowangblog)
 - [Akshai](https://github.com/Akshai-2909)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
@@ -1916,6 +1918,7 @@ tayo360
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
 - [Riky Hidayat](https://github.com/rikyhidayat21)
+- [Hasobi Roid Radityo](https://github.com/hasobi)
 
 
 <!-- prettier-ignore-end -->
