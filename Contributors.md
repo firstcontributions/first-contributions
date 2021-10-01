@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
@@ -29,6 +30,7 @@
 - [David Salomón](https://github.com/DavidSalomonDev)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Om Kakatkar](https://github.com/OmKakatkar)
+- [Carleen Shah](https://github.com/CarleenSinton)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Vidhya Varshany](https://github.com/VidhyaVarshanyJS)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
@@ -61,6 +63,7 @@ tayo360
 - [Archisman Das](https://github.com/Arch0125)
 - [Amara](https://github.com/hereisamara)
 - [Castle](https://github.com/Castle1992)
+- [pickwick-rudge](https://github.com/pickwick-rudge)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Shubham Kumar 🤴](https://github.com/shubham-1903)
@@ -285,6 +288,7 @@ tayo360
 - [John L.](https://github.com/bubbles91)
 - [MOHAMMED SHAMIL K](https://github.com/shamilkotta)
 - [Ritesh](https://github.com/RiteshK555)
+- [Ayush Mehrotra] (https://github.com/code-ayu)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Vedran Baric](https://github.com/vedranb7)
 - [Mitch Bertsch](https://github.com/bmxtricky)
@@ -1987,5 +1991,5 @@ tayo360
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Raj Chopde](https://github.com/rchopde/junit-reports)
-
+- [Khushbu Mittal](https://github.com/khushbumittal23)
 <!-- prettier-ignore-end -->
