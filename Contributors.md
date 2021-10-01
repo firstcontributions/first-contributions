@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
@@ -551,6 +552,7 @@ tayo360
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
+- [Ohwaitiforgot](https://github.com/ohwaitiforgot)
 - [Tushar](https://github.com/Tusharupadhyay784)
 - [Grace](https://github.com/Gracie254)
 - [Islam Sulaiman](https://github.com/Islamsulaiman)
@@ -1990,6 +1992,7 @@ tayo360
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Harsh Kumar](https://github.com/harsh2k2)
+- [Khushbu Mittal](https://github.com/khushbumittal23)
 
 
 <!-- prettier-ignore-end -->
