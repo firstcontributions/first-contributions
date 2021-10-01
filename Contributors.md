@@ -1962,6 +1962,6 @@ tayo360
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
-
+- [Chris M](https://github.com/chrs-m)
 
 <!-- prettier-ignore-end -->
