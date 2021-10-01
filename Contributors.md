@@ -725,6 +725,7 @@ tayo360
 - [Sarthak Gupta](https://github.com/Sart-Hack)
 - [Heizal Nagginda](https://github.com/Heizal)
 - [Mark Howard](https://github.com/MarkJamesHoward)
+- [Sammriddh Gupta](https://github.com/SammriddhGupta)
 - [James Howard](https://githhub.com/MarkJamesHoward)
 - [Jilvin Abraham](https://github.com/JilvinAbraham)
 - [ironsgold](https://github.com/ironsgold)
