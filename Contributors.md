@@ -18,6 +18,7 @@
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Om Kakatkar](https://github.com/OmKakatkar)
 - [Torge Korff](https://github.com/TorgeKorff)
+- [Vidhya Varshany](https://github.com/VidhyaVarshanyJS)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aditya Subrahmanya Bhat](https://github.com/AdityaSubrahmanyaBhat)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
