@@ -972,6 +972,7 @@ tayo360
 - [Walid Sakr](https://github.com/wsakr)
 - [ev9nsk](https://github.com/ev9nsk)
 - [NemaPy](https://github.com/nemapy)
+- [Neil J](https://github.com/neiljaviya)
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Nikhil Kumar](https://github.com/NikhilGithubOfficial)
 - [Sowande Iyanuoluwa](https://github.com/iyanushow)
