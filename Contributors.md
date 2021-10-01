@@ -3,6 +3,7 @@
 # **Contributors**
 - [Ajriel](https://github.com/AjrielRm/)
 - [Heidal](https://github.com/TheHeidal/)
+- [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ethan Schoen](https://github.com/ethanschoen)
