@@ -69,6 +69,7 @@
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [Anthony Aleman](https://github.com/anthony-aleman)
 - [chengchenrui](https://github.com/chengchenrui)
+- [Anthony Citizen](https://github.com/Anthony-Citizen)
 - [Dhananjay Mahajan](https://github.com/Dhananjaymahajan2001)
 - [Sanya](https://github.com/M-Sanya)
 - [Aisling K](https://github.com/aikearney)
