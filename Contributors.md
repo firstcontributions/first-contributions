@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Ajriel](https://github.com/AjrielRm/)
+- [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
