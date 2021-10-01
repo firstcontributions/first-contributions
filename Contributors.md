@@ -76,6 +76,7 @@ tayo360
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
 - [Ian Cornish](https://github.com/icornish97)
+- [Soha Hussain](https://github.com/SohaHussain)
 - [Bhushan Mendhe](https://github.com/bmendhe23)
 - [Gaurab Halder](https://github.com/gaurabhalder)
 - [SaiZawPhyo](https://github.com/saizawphyo)
