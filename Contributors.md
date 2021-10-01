@@ -4,6 +4,7 @@
 - [Ajriel](https://github.com/AjrielRm/)
 - [Heidal](https://github.com/TheHeidal/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
+- [yash shah ](https://github.com/yashshah2002)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Ashish Nain](https://github.com/Asi-21)
