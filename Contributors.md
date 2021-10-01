@@ -1,10 +1,13 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [SK MIRAJ] (https://github.com/miraj0507)
+- [Shruthi Pillai] (https://github.com/shrum99)
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
+- [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
 - [Ajriel](https://github.com/AjrielRm/)
@@ -22,6 +25,7 @@
 - [Sushane Yadav](https://github.com/shaneydv)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
+- [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
@@ -166,6 +170,7 @@ tayo360
 - [Marcus Fisher](https://github.com/msfisher)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Arialdys Calderon](https://github.com/arialdyscv)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Justin Portell](https://github.com/just-port)
 - [Atharva Ikhar](https://github.com/iatharva)
@@ -873,6 +878,7 @@ Himanshu Dedha
 - [Yoltic Cruz Tello ✨🙋](https://github.com/Roseck16)
 - [Ajit Joshi](https://github.com/ajitjoshi)
 - [Harsh Saini](https://github.com/HarshSaini13)
+- [Miguel Angel Abad](https://github.com/zerok1986)
 - [Shahril Lutfi](https://github.com/msl21)
 - [Lanre Fagbeyiro](https://github.com/lanre-waju)
 - [Dhruva Krishna](https://github.com/Dhruvakrishna)
@@ -2000,4 +2006,5 @@ Himanshu Dedha
 - [Raj Chopde](https://github.com/rchopde/junit-reports)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
+- [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 <!-- prettier-ignore-end -->
