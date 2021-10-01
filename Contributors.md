@@ -49,6 +49,7 @@ tayo360
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
 - [Nico Araya](https://github.com/NicolasArayaB)
+-[Nagesh Bansal](https://github.com/Nageshbansal)
 - [Andy](https://github.com/hsuandy)
 - [33cloud33](https://github.com/33cloud33)
 - [Debodyuti Biswas](https://github.com/debodyuti1)
