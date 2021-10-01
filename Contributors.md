@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Meenakshi Sistla] (https://github.com/nasi2910)
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
