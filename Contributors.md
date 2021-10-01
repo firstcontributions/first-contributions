@@ -1908,6 +1908,7 @@ tayo360
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
 - [Marty Zhu](https://github.com/marty-zhu)
+- [Agustin Santagada](https://github.com/agustinsantagada)
 
 
 <!-- prettier-ignore-end -->
