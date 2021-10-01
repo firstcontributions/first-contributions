@@ -1931,6 +1931,7 @@ tayo360
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
+- [Ayush Pattnaik](https://github.com/Ayu10x)
 
 
 <!-- prettier-ignore-end -->
