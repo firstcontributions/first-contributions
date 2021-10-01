@@ -90,6 +90,7 @@ tayo360
 - [Avery Caulfield](https://github.com/metaEthics)
   [Chad McCarthy](https://github.com/chadmcc-1)
 - [Appledora](https://github.com/appledora)
+- [Ismeet Kour Chhabda](https://github.com/ismeet010)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
 - [Zack Adams](https://github.com/imzackadams)
