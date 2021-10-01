@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [SK MIRAJ] (https://github.com/miraj0507)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
