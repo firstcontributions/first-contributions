@@ -53,6 +53,7 @@ tayo360
 - [Raghav](https://github.com/never-code)
 - [Durgesh Kumar Meena](https://github.com/durgeshmeena)
 - [Nayzaw Minnaing](https://github.com/ahnge)
+- [Javier Aravena](https://github.com/Javier190)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
 -[Devashish Daharia] https://github.com/dev404error
