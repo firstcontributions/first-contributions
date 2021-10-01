@@ -874,6 +874,7 @@ Himanshu Dedha
 - [Yoltic Cruz Tello ✨🙋](https://github.com/Roseck16)
 - [Ajit Joshi](https://github.com/ajitjoshi)
 - [Harsh Saini](https://github.com/HarshSaini13)
+- [Miguel Angel Abad](https://github.com/zerok1986)
 - [Shahril Lutfi](https://github.com/msl21)
 - [Lanre Fagbeyiro](https://github.com/lanre-waju)
 - [Dhruva Krishna](https://github.com/Dhruvakrishna)
