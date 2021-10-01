@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Tejas](https://github.com/tm2k23)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
