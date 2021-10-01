@@ -20,6 +20,7 @@
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
+- [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
 - [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
