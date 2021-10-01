@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Noemi Andras] (https://github.com/noemiandras)
+- [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
