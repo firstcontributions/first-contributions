@@ -1705,7 +1705,7 @@ tayo360
 - [Tarou Shota](https://github.com/TarouShota)
 - [MengXiangYun](https://github.com/mengxianun)
 - [Taenite](https://github.com/Taenite)
-- [Rida Mumtaz](https://github.com/rida-hash)     
+- [Rida Mumtaz](https://github.com/rida-hash)
 - [sunalwaysknows](https://github.com/sunalwaysknows)
 - [Nick R](https://github.com/ransontech)
 - [MengXiangYun](https://github.com/mengxianun)
@@ -1951,6 +1951,7 @@ tayo360
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
+- [József Polgár](https://github.com/polgarj)
 
 
 <!-- prettier-ignore-end -->
