@@ -1925,6 +1925,7 @@ tayo360
 - [Agustin Santagada](https://github.com/agustinsantagada)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Kode Lebah](https://github.com/kodelebah)
+- [Madhan M](https://github.com/CaptMadhan)
 
 
 <!-- prettier-ignore-end -->
