@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 
 # **Contributors**
 - [Rohitdutt parsai](https://github.com/rohitdutt)
@@ -10,6 +10,7 @@
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
+- [Gothira](https://github.com/gothira)
 - [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
