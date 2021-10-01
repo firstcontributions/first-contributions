@@ -1980,6 +1980,6 @@ tayo360
 - [Vibhuti Jain](https://github.com/vibhuvj27)
 - [Suresh Dahal](https://github.com/sureshdahal)
 - [Abhinash Yadav](https://github.com/ralphcoder)
-
+- [Asif Fasih](https://github.com/strawhatasif)
 
 <!-- prettier-ignore-end -->
