@@ -1980,6 +1980,7 @@ Himanshu Dedha
 - [Otis C](https://github.com/otili9890)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
+- [BHATT VIDHI](https://github.com/VidhiBhatt01)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
