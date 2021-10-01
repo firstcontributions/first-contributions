@@ -1922,6 +1922,7 @@ tayo360
 - [Not Marcus](https://github.com/)
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
+- [Uvindu Harshana](https://github.com/itsnue)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
@@ -1930,6 +1931,5 @@ tayo360
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
-
 
 <!-- prettier-ignore-end -->
