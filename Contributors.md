@@ -629,6 +629,7 @@ tayo360
 - [Ashish Shroti](https://github.com/ashishshroti14)
 - [Alpesh Valvi](https://github.com/AlpeshValvi123)
 - [Om Parshar](https://github.com/orashar)
+- [Sudha Tanay Doddi](https://github.com/sudhatanay)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [Kushal Upreti](https://github.com/KushalUpreti)
