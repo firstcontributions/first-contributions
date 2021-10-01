@@ -1926,6 +1926,7 @@ tayo360
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
+- [Otis C](https://github.com/otili9890)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
