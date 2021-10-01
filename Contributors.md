@@ -28,6 +28,7 @@ tayo360
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Archisman Das](https://github.com/Arch0125)
 - [Amara](https://github.com/hereisamara)
+- [Castle](https://github.com/Castle1992)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Shubham Kumar 🤴](https://github.com/shubham-1903)
