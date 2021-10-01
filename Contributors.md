@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Parseluni] (https://github.com/Parseluni)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Shruthi Pillai] (https://github.com/shrum99)
