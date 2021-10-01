@@ -15,6 +15,7 @@
 - [yash shah ](https://github.com/yashshah2002)
 - [pakhi srivastava](https://github.com/haruheero)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
+- [Sushane Yadav](https://github.com/shaneydv) 
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Ethan Schoen](https://github.com/ethanschoen)
