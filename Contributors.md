@@ -6,6 +6,7 @@
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
+- [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
