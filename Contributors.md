@@ -1976,6 +1976,7 @@ tayo360
 - [Indhuja M](https://github.com/CaptIndhuja)
 - [Eddy](https://github.com/bitedd)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
+- [Suresh Dahal](https://github.com/sureshdahal)
 
 
 <!-- prettier-ignore-end -->
