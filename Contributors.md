@@ -2,10 +2,12 @@
 
 # **Contributors**
 - [Ajriel](https://github.com/AjrielRm/)
+- [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ethan Schoen](https://github.com/ethanschoen)
+- [Ashish Nain](https://github.com/Asi-21)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
 - [David Salomón](https://github.com/DavidSalomonDev)
@@ -68,6 +70,7 @@ tayo360
 - [SaiZawPhyo](https://github.com/saizawphyo)
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
 - [ANKESH](https://github.com/Ankesh054-official)
+- [AR10X](https://github.com/AR10X)
 - [Felipe Paulo](https://github.com/FelipeUTFPR)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Balaganesh Manikandan](https://github.com/Bala179)
@@ -143,7 +146,7 @@ tayo360
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
-- [Ian Mena}(https://github.com/ian0000)
+- [Ian Mena](https://github.com/ian0000)
 - [Merius TZ](https://github.com/MeriusTz)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
@@ -1932,5 +1935,6 @@ tayo360
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
 - [Pawan Mishra](https://github.com/pawankm21)
+- [Ayush Pattnaik](https://github.com/Ayu10x)
 
 <!-- prettier-ignore-end -->
