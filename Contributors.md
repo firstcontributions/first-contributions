@@ -28,6 +28,7 @@
 - [Aditya Subrahmanya Bhat](https://github.com/AdityaSubrahmanyaBhat)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
+- [Liju Daniel]
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Prakhar Shukla](https://github.com/prakharshukla)
