@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Emily Jia](https://github.com/emilyyjia)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
