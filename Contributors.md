@@ -417,6 +417,7 @@ tayo360
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
+- [Aliffiqri Agwar](https://github.com/SorrowInRain)
 - [Dan Kollar](https://github.com/dkollar)
 - [Dharmesh Upadhyay](https://github.com/itsdharmxd)
 - [Akash Tandale](https://github.com/Akash-Tandale001)
