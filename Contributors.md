@@ -94,6 +94,7 @@ tayo360
 - [chengchenrui](https://github.com/chengchenrui)
 - [Anthony Citizen](https://github.com/Anthony-Citizen)
 - [Dhananjay Mahajan](https://github.com/Dhananjaymahajan2001)
+- [Felipe Antunes](https://github.com/feantuns)
 - [Sanya](https://github.com/M-Sanya)
 - [Aisling K](https://github.com/aikearney)
 - [Vijender P](https://github.com/pvijender)
