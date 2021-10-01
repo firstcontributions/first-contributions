@@ -22,6 +22,7 @@
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
+- [Vedika Gadia]
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Monu Kumar](https://github.com/MonuKumar1)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
