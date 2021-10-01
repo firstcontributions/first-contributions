@@ -3,6 +3,7 @@
 - [Rohit  Roshan](https://github.com/ROHIT-ROSHAN)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
+- [shivkar2n](https://github.com/shivkar2n)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
