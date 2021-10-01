@@ -29,6 +29,7 @@ tayo360
 - [Aniket Nayek](https://github.com/AniketNayek3101)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Robert Njenga](https://github.com/robertnjenga)
+- [Utkarsh Gupta](https://github.com/UttuG)
 - [Xuan Li](https://github.com/mowangblog)
 - [Akshai](https://github.com/Akshai-2909)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
@@ -53,6 +54,7 @@ tayo360
 - [Raghav](https://github.com/never-code)
 - [Durgesh Kumar Meena](https://github.com/durgeshmeena)
 - [Nayzaw Minnaing](https://github.com/ahnge)
+- [Javier Aravena](https://github.com/Javier190)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
 -[Devashish Daharia] https://github.com/dev404error
