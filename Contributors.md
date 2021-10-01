@@ -1686,6 +1686,7 @@ tayo360
 - [Uroš Ilijevec](https://github.com/iljo89)
 - [Andrew Baughman](https://github.com/andrewbaughman)
 - [eath1](https://github.com/eath1)
+- [Juan Gonzalez](https://github.com/Juan-Gon03/)
 - [Deniz Dogan](https://github.com/nagod)
 - [Sarah M Standish](https://github.com/sarahstandish)
 - [Alexia Chatzikonstantinou](https://github.com/alexhatz05)
