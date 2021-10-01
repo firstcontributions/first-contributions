@@ -1948,6 +1948,7 @@ tayo360
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
+- [Isteak Shupto](https://github.com/IsteakShupto)
 
 
 <!-- prettier-ignore-end -->
