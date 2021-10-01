@@ -29,6 +29,7 @@
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
+- [Prakhar Shukla](https://github.com/prakharshukla)
 - [Dishant](https://github.com/Dishant2001)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
