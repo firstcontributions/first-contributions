@@ -1896,9 +1896,9 @@ tayo360
 - [Peter Abah](https://github.com/peter-abah)
 - [Patrick Obafemi](https://github.com/patdgeerico)
 - [Komiyamma](https://github.com/komiyamma)
-- [Chris D'Entremont] (https://github.com/dentremontcatwit)
+- [Chris D'Entremont](https://github.com/dentremontcatwit)
 -[Mostafa Abdollahi](https://github.com/m-abdollahi)
-- [Ben Hoffman] (https://github.com/binihoffman)
+- [Ben Hoffman](https://github.com/binihoffman)
 - [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
 - [Anton Mishanin](https://github.com/AntonMishanin)
 - [Matt Fisk](https://github.com/X3NOSAURUS)
@@ -1921,7 +1921,7 @@ tayo360
 - [Muhammad Ahmad(ZeusDes)](https://github.com/ZeusDes)
 - [Marcus Vinicius Braz](https://github.com/mvbrazz)
 - [Not Marcus](https://github.com/)
-- [Zyon Amadeus] (https://github.com/InfinitePondera)
+- [Zyon Amadeus](https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Anang-Abr](https://github.com/Anang-Abr)
@@ -1931,6 +1931,6 @@ tayo360
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
-
+- [Pawan Mishra](https://github.com/pawankm21)
 
 <!-- prettier-ignore-end -->
