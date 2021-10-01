@@ -11,6 +11,7 @@
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Ashish Nain](https://github.com/Asi-21)
 - [Adit Magotra](https://github.com/AlphaLaser)
+- [Monu Kumar](https://github.com/MonuKumar1)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
 - [David Salomón](https://github.com/DavidSalomonDev)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
