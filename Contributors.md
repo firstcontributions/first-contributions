@@ -1989,6 +1989,7 @@ tayo360
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
+- [Harsh Kumar](https://github.com/harsh2k2)
 
 
 <!-- prettier-ignore-end -->
