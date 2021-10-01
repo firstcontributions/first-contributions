@@ -1,8 +1,18 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-- [AndroGR](https://github.com/AndroGR)
+
+- [AndroGR](https://github.com/AndroGR
+
+- [Amit Bhargava](https://github.com/ambhargava)
+- [SK MIRAJ] (https://github.com/miraj0507)
+- [Shruthi Pillai] (https://github.com/shrum99)
+- [Noemi Andras] (https://github.com/noemiandras)
+- [Preeti Tibrewala] (https://github.com/preetitibrewala)
+- [Muskan Gupta] (https://github.com/gmuskan99)
+>
 - [Rohitdutt parsai](https://github.com/rohitdutt)
+- [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
 - [Ajriel](https://github.com/AjrielRm/)
@@ -20,6 +30,7 @@
 - [Sushane Yadav](https://github.com/shaneydv)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
+- [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
@@ -50,6 +61,7 @@
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 tayo360
 - [Muhammad Kamiel](https://github.com/kmil31)
+- [Brody Moore](https://github.com/bammoore511)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Kedar Hargude](https://github.com/kedar-hargude)
 - [Aniket Nayek](https://github.com/AniketNayek3101)
@@ -164,6 +176,7 @@ tayo360
 - [Marcus Fisher](https://github.com/msfisher)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Arialdys Calderon](https://github.com/arialdyscv)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Justin Portell](https://github.com/just-port)
 - [Atharva Ikhar](https://github.com/iatharva)
@@ -198,6 +211,7 @@ tayo360
 -[Roshan](https://github.com/)
 - [Jiayi Li](https://github.com/jl-7)
 - [Anushka](https://github.com/Anushh23)
+Himanshu Dedha
 - [Subrata Rajak](https://github.com/Subrata-Rajak)
 - [Berkay Surmeli](https://github.com/BerkaySurmeli)
 - [Abhijeet Dixit](https://github.com/AbhijeetDixit)
@@ -552,6 +566,7 @@ tayo360
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
+- [Ohwaitiforgot](https://github.com/ohwaitiforgot)
 - [Tushar](https://github.com/Tusharupadhyay784)
 - [Grace](https://github.com/Gracie254)
 - [Islam Sulaiman](https://github.com/Islamsulaiman)
@@ -636,6 +651,7 @@ tayo360
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Flix](https://github.com/FlixProd/)
 - [Alexander Nguyen](https://github.com/GalexyN)
+- [Jaideep Sharma](http://github.com/camperjett)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
@@ -671,6 +687,7 @@ tayo360
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [Mohit N] 
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney](https://github.com/Juniper11)
 - [Gottfried Owono](https://github.com/Ge0ni)
@@ -867,6 +884,7 @@ tayo360
 - [Yoltic Cruz Tello ✨🙋](https://github.com/Roseck16)
 - [Ajit Joshi](https://github.com/ajitjoshi)
 - [Harsh Saini](https://github.com/HarshSaini13)
+- [Miguel Angel Abad](https://github.com/zerok1986)
 - [Shahril Lutfi](https://github.com/msl21)
 - [Lanre Fagbeyiro](https://github.com/lanre-waju)
 - [Dhruva Krishna](https://github.com/Dhruvakrishna)
@@ -1921,6 +1939,7 @@ tayo360
 - [M.Aqib](https://github.com/softML15973)
 - [okkjoo](https://github.com/okkjoo)
 - [art94timer](https://github.com/art94timer)
+- [awwmawno](https://github.com/awwmawno)
 - [Travis Meyer](https://github.com/travisgmeyer)
 - [Marat](https://github.com/mshalmanov)
 - [kouki](https://github.com/koukihk)
@@ -1976,6 +1995,7 @@ tayo360
 - [Otis C](https://github.com/otili9890)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
+- [BHATT VIDHI](https://github.com/VidhiBhatt01)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
@@ -1990,6 +2010,9 @@ tayo360
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
+- [Khushbu Mittal](https://github.com/khushbumittal23)
+- [Malik Abdul Aziz](https://github.com/crossdev-app)
+- [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 
 
 <!-- prettier-ignore-end -->
