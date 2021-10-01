@@ -70,9 +70,9 @@ git checkout -b add-alonzo-church
 
 이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 아래와 같이 추가해주세요. 이때 맨 처음이나 맨 끝을 제외한 중간에 마음에 드는 곳에 추가하시면 됩니다. 그리고 파일을 저장하세요.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />  
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-프로젝트 디렉터리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다. 
+프로젝트 디렉터리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다.
 
 변경사항을 아래 `git add` 명령어를 입력하여 추가합니다.
 
@@ -129,6 +129,6 @@ git push origin <add-your-name>
 
 ## 다른 도구들에 관한 튜토리얼
 
-| <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [GitHub Desktop](../github-desktop-tutorial.md)              | [Visual Studio 2017](../github-windows-vs2017-tutorial.md)   | [GitKraken](../gitkraken-tutorial.md)                        | [Visual Studio Code](../github-windows-vs-code-tutorial.md)  | [Atlassian Sourcetree](../sourcetree-macos-tutorial.md)      | [IntelliJ IDEA](../github-windows-intellij-tutorial.md)      |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)              | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)   | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)      |
