@@ -1,6 +1,9 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Parseluni] (https://github.com/Parseluni)
+- [Lily Tang](https://github.com/tang305)
+- [Si Lam](https://github.com/silam)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Shruthi Pillai] (https://github.com/shrum99)
@@ -17,6 +20,7 @@
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
+- [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
 - [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
@@ -68,6 +72,7 @@ tayo360
 - [Robert Njenga](https://github.com/robertnjenga)
 - [Utkarsh Gupta](https://github.com/UttuG)
 - [Xuan Li](https://github.com/mowangblog)
+- [Dany Marcha](https://github.com/danmar0801)
 - [Akshai](https://github.com/Akshai-2909)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Het](https://github.com/Het-005)
@@ -1289,6 +1294,7 @@ Himanshu Dedha
 - [lastchiliarch](https://github.com/lastchiliarch)
 - [GrilledLettuce](https://github.com/GrilledLettuce)
 - [RyanHu](https://github.com/RyanHu0401/)
+- [N3RO4](https://github.com/N3RO4/)
 - [NPU-Franklin](https://github.com/NPU-Franklin)
 - [DaKing👍🏼](https://github.com/shenduldh)
 - [albertrzcinski](https://github.com/albertrzcinski)
@@ -2013,6 +2019,9 @@ Himanshu Dedha
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
+- [Ozan Uslan](https://github.com/ozanuslan)
+- [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
+- [Thomas Gorszczyk](https://github.com/thomasgorspro)
 - [Asif Fasih](https://github.com/strawhatasif)
 
 <!-- prettier-ignore-end -->
