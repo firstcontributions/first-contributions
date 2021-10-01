@@ -1993,6 +1993,6 @@ tayo360
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
-
+- [Joan Lemaster](https://github.com/joanlemaster)
 
 <!-- prettier-ignore-end -->
