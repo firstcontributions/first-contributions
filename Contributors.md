@@ -6,6 +6,7 @@
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
+- [David Salomón](https://github.com/DavidSalomonDev)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
