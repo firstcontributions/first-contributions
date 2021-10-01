@@ -1966,6 +1966,7 @@ tayo360
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
+- [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
