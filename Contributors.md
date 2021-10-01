@@ -1972,6 +1972,7 @@ tayo360
 - [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
+- [Vinamra Dash](https://github.com/Vinamra-15)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
