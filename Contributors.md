@@ -19,6 +19,7 @@
 - [Lowic Mangin](https://github.com/logic-fabric)
 - [Andrew Chambers](https://github.com/W3Dojo)
 - [Andrea](https://github.com/andrea-genovese)
+- [Naing Tan Ba](https://github.com/Tranks27)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 tayo360
 - [Sohail](https://github.com/ahmadsohail404)
