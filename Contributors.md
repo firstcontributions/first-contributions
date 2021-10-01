@@ -2019,6 +2019,7 @@ Himanshu Dedha
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Ozan Uslan](https://github.com/ozanuslan)
+- [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
 
 
 <!-- prettier-ignore-end -->
