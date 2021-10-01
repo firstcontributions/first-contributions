@@ -117,6 +117,7 @@ tayo360
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
+- [Justin Portell](https://github.com/just-port)
 - [Atharva Ikhar](https://github.com/iatharva)
 - [Dan Kaloustian](https://github.com/dtkaloust)
 - [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
