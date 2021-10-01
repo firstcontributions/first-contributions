@@ -2021,6 +2021,7 @@ Himanshu Dedha
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Ozan Uslan](https://github.com/ozanuslan)
 - [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
+- [Thomas Gorszczyk](https://github.com/thomasgorspro)
 
 
 <!-- prettier-ignore-end -->
