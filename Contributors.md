@@ -1942,6 +1942,7 @@ tayo360
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
+- [Ana Palma] (https://github.com/CogumeloAmarelo)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
 - [Otis C](https://github.com/otili9890)
