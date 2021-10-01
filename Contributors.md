@@ -5,6 +5,7 @@
 - [Heidal](https://github.com/TheHeidal/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
+- [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Ashish Nain](https://github.com/Asi-21)
 - [Adit Magotra](https://github.com/AlphaLaser)
