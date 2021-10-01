@@ -12,6 +12,7 @@
 - [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
+- [pakhi srivastava](https://github.com/haruheero)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
