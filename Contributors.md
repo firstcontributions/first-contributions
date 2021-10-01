@@ -640,6 +640,7 @@ Himanshu Dedha
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Flix](https://github.com/FlixProd/)
 - [Alexander Nguyen](https://github.com/GalexyN)
+- [Jaideep Sharma](http://github.com/camperjett)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
