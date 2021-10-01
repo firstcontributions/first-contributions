@@ -6,6 +6,7 @@
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
+- [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
 - [Ajriel](https://github.com/AjrielRm/)
@@ -2001,6 +2002,7 @@ Himanshu Dedha
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
+- [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 
 
 <!-- prettier-ignore-end -->
