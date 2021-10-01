@@ -1953,6 +1953,6 @@ tayo360
 - [Madhan M](https://github.com/CaptMadhan)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
 - [József Polgár](https://github.com/polgarj)
-
+- [Adarsh Patel](https://github.com/adarshzpatel)
 
 <!-- prettier-ignore-end -->
