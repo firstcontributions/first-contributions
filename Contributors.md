@@ -176,6 +176,7 @@ tayo360
 - [Amrin](https://github.com/Coderamrin)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Ben Elgren](https://github.com/belgren)
+- [Swati Munda](https://github.com/swatiM19/)
 - [Kelly](https://github.com/kellyxavier)
 - [Amritaansh Narain](https://github.com/namritaansh02)
 - [Sethu](https://github.com/Seth-arc)
