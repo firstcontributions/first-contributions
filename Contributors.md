@@ -10,6 +10,7 @@
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
 - [David Salomón](https://github.com/DavidSalomonDev)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
+- [Om Kakatkar](https://github.com/OmKakatkar)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
