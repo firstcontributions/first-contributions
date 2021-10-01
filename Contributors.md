@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Danni Beaulieu] (https://github.com/danni-beaulieu)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
