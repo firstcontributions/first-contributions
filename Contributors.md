@@ -41,7 +41,7 @@
 - [Andrea](https://github.com/andrea-genovese)
 - [Naing Tan Ba](https://github.com/Tranks27)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
-tayo360
+- tayo360
 - [Muhammad Kamiel](https://github.com/kmil31)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Kedar Hargude](https://github.com/kedar-hargude)
@@ -66,7 +66,7 @@ tayo360
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
 - [Nico Araya](https://github.com/NicolasArayaB)
--[Nagesh Bansal](https://github.com/Nageshbansal)
+- [Nagesh Bansal](https://github.com/Nageshbansal)
 - [Andy](https://github.com/hsuandy)
 - [Prem Kantikar](https://github.com/alcatraz69)
 - [33cloud33](https://github.com/33cloud33)
@@ -80,7 +80,7 @@ tayo360
 - [Javier Aravena](https://github.com/Javier190)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
--[Devashish Daharia] https://github.com/dev404error
+- [Devashish Daharia](https://github.com/dev404error)
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
 - [Ian Cornish](https://github.com/icornish97)
@@ -141,7 +141,6 @@ tayo360
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
 - [Connor Lawson](https://github.com/lawsoncr/)
-<!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [MilanAgrawal](https://github.com/MilanAgrawal)
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
@@ -162,7 +161,7 @@ tayo360
 - [Dan Dragon](https://github.com/DanDragon-jahnelgroup)
 - [Mohit](https://github.com/msaini0r)
 - [Karan Shaw](https://github.com/karanShaw000)
--[Sushmita](https://github.com/sush14feb)
+- [Sushmita](https://github.com/sush14feb)
 - [Amal Richwin](https://github.com/AmalRichwin)
 - [Vishal Sharma](https://github.com/VishalS047)
 - [Akshat Kant Thakur](https://github.com/akshatkant/)
@@ -170,7 +169,7 @@ tayo360
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
-- [Ian Mena}(https://github.com/ian0000)
+- [Ian Mena](https://github.com/ian0000)
 - [Merius TZ](https://github.com/MeriusTz)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
@@ -186,7 +185,7 @@ tayo360
 - [Ahmed Elselly](https://github.com/AhmedElselly)
 - [Dinesh kumar](https://github.com/Deathslayer89)
 - [Jacob](https://)
--[Roshan](https://github.com/)
+- [Roshan](https://github.com/)
 - [Jiayi Li](https://github.com/jl-7)
 - [Anushka](https://github.com/Anushh23)
 - [Subrata Rajak](https://github.com/Subrata-Rajak)
@@ -928,7 +927,7 @@ tayo360
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
-- [Meeru](https://github.com/m33ru) ¯\_(ツ)\_/¯
+- [Meeru](https://github.com/m33ru)
 - [Vlad Konoshenko](https://github.com/Konoshenko)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
@@ -1930,18 +1929,18 @@ tayo360
 - [Patrick Obafemi](https://github.com/patdgeerico)
 - [Komiyamma](https://github.com/komiyamma)
 - [Chris D'Entremont] (https://github.com/dentremontcatwit)
--[Mostafa Abdollahi](https://github.com/m-abdollahi)
+- [Mostafa Abdollahi](https://github.com/m-abdollahi)
 - [Ben Hoffman] (https://github.com/binihoffman)
 - [Ogundele S Olalekan](https://github.com/whoiskekeanyway)
 - [Anton Mishanin](https://github.com/AntonMishanin)
 - [Matt Fisk](https://github.com/X3NOSAURUS)
-  [Karl Mattson](https://github.com/karlvmattson)
-  [Ngithb](https://github.com/Ngithb)
+- [Karl Mattson](https://github.com/karlvmattson)
+- [Ngithb](https://github.com/Ngithb)
 - [Magic_Moon](https://github.com/magic-mo-on)
 - [DimitrisPas](https://github.com/DimitrisPas)
 - [Justin Edwards](https://github.com/jedwards1230)
 - [Vivek Chulani](https://github.com/vivekchulani)
--Jayathi
+- Jayathi
 - [Yash Desai](https://github.com/yashdesoi)
 - [Naman Garg]
 - [Deepanshu verma](https://github.com/iDeepverma)
