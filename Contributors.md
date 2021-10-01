@@ -10,6 +10,7 @@
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
+- [Ninad](https://github.com/AwsmNinad25)
 - [Heeendri](https://github.com/heeendri/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
@@ -1981,6 +1982,7 @@ tayo360
 - [Suresh Dahal](https://github.com/sureshdahal)
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
+- [Alexandra Stan](https://github.com/AleS2801)
 - [Asif Fasih](https://github.com/strawhatasif)
 
 <!-- prettier-ignore-end -->
