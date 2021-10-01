@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors*
--{Gandhimathi V, UH] (https://github.com/gandhiUH)*
+-[Gandhimathi Velusamy, University of Houston] (https://github.com/gandhiUH)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
