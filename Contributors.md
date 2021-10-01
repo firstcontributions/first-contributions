@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Tejas](https://github.com/tm2k23)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
