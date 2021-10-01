@@ -170,6 +170,7 @@ tayo360
 - [Marcus Fisher](https://github.com/msfisher)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
+- [Arialdys Calderon](https://github.com/arialdyscv)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Justin Portell](https://github.com/just-port)
 - [Atharva Ikhar](https://github.com/iatharva)
