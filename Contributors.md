@@ -6,6 +6,7 @@
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ethan Schoen](https://github.com/ethanschoen)
+- [Ashish Nain](https://github.com/Asi-21)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
 - [David Salomón](https://github.com/DavidSalomonDev)
