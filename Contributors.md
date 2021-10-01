@@ -1680,7 +1680,7 @@ tayo360
 - [Tarou Shota](https://github.com/TarouShota)
 - [MengXiangYun](https://github.com/mengxianun)
 - [Taenite](https://github.com/Taenite)
-- [Rida Mumtaz](https://github.com/rida-hash)     
+- [Rida Mumtaz](https://github.com/rida-hash)
 - [sunalwaysknows](https://github.com/sunalwaysknows)
 - [Nick R](https://github.com/ransontech)
 - [MengXiangYun](https://github.com/mengxianun)
@@ -1922,6 +1922,6 @@ tayo360
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
 - [Hasobi Roid Radityo](https://github.com/hasobi)
-
+- [Meagan Smith](https://github.com/meagan13)
 
 <!-- prettier-ignore-end -->
