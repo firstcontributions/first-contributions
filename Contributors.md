@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Heidal](https://github.com/TheHeidal/)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ethan Schoen](https://github.com/ethanschoen)
