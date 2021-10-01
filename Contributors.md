@@ -1977,6 +1977,7 @@ tayo360
 - [Eddy](https://github.com/bitedd)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
 - [Suresh Dahal](https://github.com/sureshdahal)
+- [Abhinash Yadav](https://github.com/ralphcoder)
 
 
 <!-- prettier-ignore-end -->
