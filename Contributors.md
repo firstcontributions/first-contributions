@@ -1,6 +1,8 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Noemi Andras] (https://github.com/noemiandras)
+- [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
@@ -29,6 +31,7 @@
 - [David Salomón](https://github.com/DavidSalomonDev)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Om Kakatkar](https://github.com/OmKakatkar)
+- [Carleen Shah](https://github.com/CarleenSinton)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Vidhya Varshany](https://github.com/VidhyaVarshanyJS)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
@@ -550,6 +553,7 @@ tayo360
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
+- [Ohwaitiforgot](https://github.com/ohwaitiforgot)
 - [Tushar](https://github.com/Tusharupadhyay784)
 - [Grace](https://github.com/Gracie254)
 - [Islam Sulaiman](https://github.com/Islamsulaiman)
@@ -669,6 +673,7 @@ tayo360
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [Mohit N] 
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney](https://github.com/Juniper11)
 - [Gottfried Owono](https://github.com/Ge0ni)
@@ -1989,6 +1994,7 @@ tayo360
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Faith Platz](https://github.com/platzf)
+- [Khushbu Mittal](https://github.com/khushbumittal23)
 
 
 <!-- prettier-ignore-end -->
