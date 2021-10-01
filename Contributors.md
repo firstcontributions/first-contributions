@@ -1336,6 +1336,7 @@ Himanshu Dedha
 - [Punit Choudhary](https://github.com/Punit-Choudhary)
 - [Sun Yu](https://github.com/sunyuu)
 - [Xiang Li](https://github.com/lixiangbetter)
+- [daybreak_eats](https://github.com/daybreak-eats)
 - [kyu-kim-kr](https://github.com/kyu-kim-kr)
 - [kuredoro](https://github.com/kuredoro)
 - [Yysoim](https://github.com/yysoim)
