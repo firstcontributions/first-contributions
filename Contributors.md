@@ -84,6 +84,7 @@
 -[Drishti Agarwal](https://github.com/drishti-agarwal)
 - (Syed Sami)https://github.com/ssyed427890/Learning-code/tree/branch_b
 - [Sandip Baidya](https://github.com/sandip-baidya)
+- [Elizabeth Sotomayor](https://github.com/carsandparties/)
 - [Nancy Lambert] (https://github.com/n-lambert)
 - [Abhinav Shukla] (https://github.com/AbsMechanik)
 - [Franchesca Leung](https://github.com/franchescaleung)
