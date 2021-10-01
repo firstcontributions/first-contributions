@@ -15,6 +15,7 @@
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Ethan Schoen](https://github.com/ethanschoen)
+- [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Monu Kumar](https://github.com/MonuKumar1)
