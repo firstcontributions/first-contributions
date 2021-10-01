@@ -1982,6 +1982,7 @@ tayo360
 - [Suresh Dahal](https://github.com/sureshdahal)
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
+- [Alexandra Stan](https://github.com/AleS2801)
 
 
 <!-- prettier-ignore-end -->
