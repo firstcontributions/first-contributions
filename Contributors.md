@@ -115,6 +115,7 @@ tayo360
 - [Abhiram Mundru](https://github.com/AbhiramMundru)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Douglas Kaminski](https://github.com/dokam)
+- [Ashish Jaiswal](https://github.com/Ash-ishJ)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
 - [Gustavo Bethelmy](https://github.com/gigablack)
