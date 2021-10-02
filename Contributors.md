@@ -39,6 +39,7 @@
 - [Ashish Nain](https://github.com/Asi-21)
 - [Vedika Gadia]
 - [Adit Magotra](https://github.com/AlphaLaser)
+- [Ramiro Solis](https://github.com/Solis1)
 - [Monu Kumar](https://github.com/MonuKumar1)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
 - [David Salomón](https://github.com/DavidSalomonDev)
@@ -695,7 +696,7 @@ Himanshu Dedha
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
-- [Mohit N] 
+- [Mohit N]
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney](https://github.com/Juniper11)
 - [Gottfried Owono](https://github.com/Ge0ni)
