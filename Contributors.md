@@ -25,7 +25,7 @@
 - [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
 - [Heeendri](https://github.com/heeendri/)
-- [Kinga Papay](https://github.com/kpapay)
+- [Papay](https://github.com/kpapay)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
 - [pakhi srivastava](https://github.com/haruheero)
