@@ -40,6 +40,7 @@
 - [Vedika Gadia]
 - [Chaz Carbis](https://github.com/LilCthulu)
 - [Adit Magotra](https://github.com/AlphaLaser)
+- [Ramiro Solis](https://github.com/Solis1)
 - [Monu Kumar](https://github.com/MonuKumar1)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
 - [David Salomón](https://github.com/DavidSalomonDev)
