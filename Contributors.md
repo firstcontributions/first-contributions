@@ -602,6 +602,7 @@ Himanshu Dedha
 - [Vaibhav Varshney](https://github.com/vaib1343)
 - [Yatharth Nigam](https://github.com/yatharthnigam)
 - [aweliego](https://github.com/aweliego)
+  [Blayne S  Gower II](https://github.com/BlaSGoII)
 - [BHKR](https://github.com/BHKR)
 - [priyanshu](https://github.com/001priyanshu)
 - [John Wanjema](https://github.com/johnwanjema)
