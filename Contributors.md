@@ -2044,6 +2044,7 @@ Himanshu Dedha
 - [Yacine Lyoubi](https://github.com/yacine-21)
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
+- [Dendi Prayogo Hidayat](https://github.com/xdendix)
 
 <!-- prettier-ignore-end -->
 
