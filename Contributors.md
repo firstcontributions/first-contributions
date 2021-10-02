@@ -27,6 +27,7 @@
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
+- [Vipul Kumar Singh](https://github.com/vipul-2003)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Arihant](https://github.com/arihantjain-git/)
