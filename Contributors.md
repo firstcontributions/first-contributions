@@ -76,6 +76,7 @@
 - [Harold Ulloa](https://github.com/haroldut)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Prakhar Shukla](https://github.com/prakharshukla)
+Aditya Agarwal
 - [Dishant](https://github.com/Dishant2001)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
