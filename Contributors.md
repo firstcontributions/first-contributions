@@ -1131,6 +1131,7 @@ Himanshu Dedha
 - [Shatakshi Singh](https://github.com/shatakshisingh24)
 - [Emre Yurtseven](https://github.com/yurtemre7)
 - [Tsunami Nori](https://github.com/TsunamiNori)
+- [Jarrod Gilliland](https://github.com/gillijar)
 - [Farooq Ahmed](https://github.com/farooqahmed-it)
 - [Matthew Sheldon](https://github.com/msheldon32)
 - [Andrew Russell](https://github.com/WatCodeDatCode)
@@ -2069,4 +2070,3 @@ Himanshu Dedha
 - [chelle](https://github.com/cgentemann)
 
 <!-- prettier-ignore-end -->
-
