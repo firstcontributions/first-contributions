@@ -90,6 +90,7 @@ Aditya Agarwal
 tayo360
 - [Muhammad Kamiel](https://github.com/kmil31)
 - [Brody Moore](https://github.com/bammoore511)
+- [not-devil](https://github.com/not-devil)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Vitor de Oliveira Mendes](https://github.com/MendesVitor)
   [Chan](https://github.com/chanvn)
