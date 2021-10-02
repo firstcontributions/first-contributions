@@ -18,6 +18,7 @@
 - [Tejas](https://github.com/tm2k23)
 - [Archit Garg](https://github.com/architgarg603)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
