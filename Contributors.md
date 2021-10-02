@@ -16,7 +16,7 @@
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shivam Pali](https://github.com/shivampali-2020)
-- [Sankalp Swami](https://github.com/SwamiSankalp)
+- [SankalpSwami](https://github.com/SwamiSankalp)
 - [Usama](https://github.com/CS4Usama)
 - [Samruddhi Anil Ghodake] (https://github.com/samughodake)
 - [Ahmed Elselly] (https://github.com/AhmedElselly)
