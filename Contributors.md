@@ -53,6 +53,7 @@
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Liju Daniel]
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
+- [Harold Ulloa](https://github.com/haroldut)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Prakhar Shukla](https://github.com/prakharshukla)
 - [Dishant](https://github.com/Dishant2001)
