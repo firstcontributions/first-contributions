@@ -16,6 +16,7 @@
 - [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
+- [Evansusu](https://github.com/Evansusu)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
@@ -2042,4 +2043,3 @@ Himanshu Dedha
 - [Vinayak B]( ps://github.com/Paimon-food)
 
 <!-- prettier-ignore-end -->
-
