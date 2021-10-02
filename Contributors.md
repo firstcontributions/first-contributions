@@ -24,6 +24,7 @@
 - [Mohammed Aadil](https://github.com/aadilMohd)
 - [Archit Garg](https://github.com/architgarg603)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [Noureddine Louafi](https://github.com/noureddine8)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
@@ -2073,4 +2074,3 @@ Himanshu Dedha
 - [mayuri shinde](https://github.com/Mayurishinde27)
 
 <!-- prettier-ignore-end -->
-
