@@ -2069,6 +2069,7 @@ Himanshu Dedha
 - [Saif Kholid](https://github.com/Kholid0803)
 - [Sav](https://github.com/Harchok)
 - [chelle](https://github.com/cgentemann)
+- [mayuri shinde](https://github.com/Mayurishinde27)
 
 <!-- prettier-ignore-end -->
 
