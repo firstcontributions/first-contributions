@@ -1174,6 +1174,7 @@ Himanshu Dedha
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Brock Henry](https://github.com/entropical)
 - [Jim Chen](https://github.com/skymarkC)
+- [Ayush Mangal](https://github.com/ayushtues)
 - [Nick Haralampopoulos](https://github.com/macnick)
 - [keunbum](https://github.com/keunbum)
 - [sparshiigupta](https://github.com/sparshiigupta)
