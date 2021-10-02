@@ -1110,7 +1110,6 @@ Himanshu Dedha
 - [Gaikanomer9](https://github.com/Gaikanomer9)
 - [Kamal C.](https://github.com/kamalchah)
 - [AnanditaRian19](https://github.com/AnanditaRian19)
-- [Florent Haxhiu](https://github.com/florent-haxhiu)
 - [Prakash Aryan](https://github.com/prakash-aryan)
 - [Esteban Montelongo](https://github.com/EstebanMontelongo)
 - [Jihun Kim](https://github.com/Jihunn-Kim)
@@ -2048,5 +2047,6 @@ Himanshu Dedha
 - [Yacine Lyoubi](https://github.com/yacine-21)
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
+- [Florent Haxhiu](https://github.com/florent-haxhiu)
 
 <!-- prettier-ignore-end -->
