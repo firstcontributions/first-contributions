@@ -775,6 +775,7 @@ Himanshu Dedha
 - [Sammriddh Gupta](https://github.com/SammriddhGupta)
 - [James Howard](https://githhub.com/MarkJamesHoward)
 - [Jilvin Abraham](https://github.com/JilvinAbraham)
+- [Alexander](https://github.com/axlts)
 - [ironsgold](https://github.com/ironsgold)
 - [Omar Mehmood](https://github.com/OmarMeh117)
 - [Jon Gull](https://github.com/JonrGull)
