@@ -2069,6 +2069,6 @@ Himanshu Dedha
 - [Saif Kholid](https://github.com/Kholid0803)
 - [Sav](https://github.com/Harchok)
 - [chelle](https://github.com/cgentemann)
+- [Colin Myers](https://github.com/Colinmyers1)
 
 <!-- prettier-ignore-end -->
-
