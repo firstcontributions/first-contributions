@@ -277,6 +277,7 @@ Himanshu Dedha
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
 - [Rashid Wassan](https://github.com/rashidwassan)
 - [Neeraj M R](https://github.com/neerajram30)
+- [Saugat Rajbhandari](https://github.com/saugatrajbhandari)
 - [Simon Akl](https://github.com/sakl17)
 - [Daniel Steinschreiber](https://github.com/dsteinschreiber)
 - [Abhay singh thakur](https://github.com/tabhay563)
