@@ -2070,6 +2070,7 @@ Himanshu Dedha
 - [Sav](https://github.com/Harchok)
 - [malufreirejau](https://github.com/malufreirejau)
 - [chelle](https://github.com/cgentemann)
+- [mayuri shinde](https://github.com/Mayurishinde27)
 
 <!-- prettier-ignore-end -->
 
