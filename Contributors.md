@@ -1,6 +1,10 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+<<<<<<< HEAD
+=======
+- [Noemi Andras](https://github.com/noemiandras)
+>>>>>>> e6dfd0cb1caa4cdbeed9dcc428a4af81763bd925
 - [Parseluni] (https://github.com/Parseluni)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
@@ -12,8 +16,11 @@
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [ba-13] (https://github.com/ba-13)
 - [Shruthi Pillai] (https://github.com/shrum99)
+<<<<<<< HEAD
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras](https://github.com/noemiandras)
+=======
+>>>>>>> e6dfd0cb1caa4cdbeed9dcc428a4af81763bd925
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
