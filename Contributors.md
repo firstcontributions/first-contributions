@@ -8,6 +8,7 @@
 - [Si Lam](https://github.com/silam)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Swati Chauhan](https://github.com/swatichauhan814)
+- [Griitch](https://github.com/Parseluni)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Shruthi Pillai] (https://github.com/shrum99)
@@ -2063,4 +2064,3 @@ Himanshu Dedha
 - [Saif Kholid](https://github.com/Kholid0803)
 
 <!-- prettier-ignore-end -->
-
