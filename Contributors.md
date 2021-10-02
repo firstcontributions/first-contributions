@@ -2033,6 +2033,6 @@ Himanshu Dedha
 - [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
 - [Thomas Gorszczyk](https://github.com/thomasgorspro)
 - [Yacine Lyoubi](https://github.com/yacine-21)
-
+- [Dubliyu](https://github.com/dubliyu)
 
 <!-- prettier-ignore-end -->
