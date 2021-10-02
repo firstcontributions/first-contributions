@@ -17,6 +17,7 @@
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
+- [Philip Brown](https://github.com/PhilipBDev)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Meet Mehta](https://github.com/mehtameet2802)
@@ -2081,4 +2082,3 @@ Himanshu Dedha
 - [mayuri shinde](https://github.com/Mayurishinde27)
 
 <!-- prettier-ignore-end -->
-
