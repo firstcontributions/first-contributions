@@ -1341,6 +1341,7 @@ Himanshu Dedha
 - [albertrzcinski](https://github.com/albertrzcinski)
 - [zefengdaguo](https://github.com/zefengdaguo)
 - [Kylo Yip](https://github.com/yipwinghong)
+- [Kendra Wing](https://github.com/kwing25)
 - [Darshan Mamtani](https://github.com/DarshanMamtani)
 - [Xuup](https://github.com/xuup)
 - [Xavier](https://github.com/xuzewei)
