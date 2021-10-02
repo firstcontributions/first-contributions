@@ -2033,6 +2033,7 @@ Himanshu Dedha
 - [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
 - [Thomas Gorszczyk](https://github.com/thomasgorspro)
 - [Yacine Lyoubi](https://github.com/yacine-21)
-
+- [Vinayak B]( ps://github.com/Paimon-food)
 
 <!-- prettier-ignore-end -->
+
