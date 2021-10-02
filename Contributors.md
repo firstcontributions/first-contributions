@@ -103,6 +103,7 @@ tayo360
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Shubham Kumar 🤴](https://github.com/shubham-1903)
 - [Vivek Shah](https://github.com/viveknshah)
+- [Omkar Vichare](https://github.com/Omkar845)
 - [aeron34](https://github.com/aeron34)
 - [sehgxl](https://github.com/sehgxl)
 - [Rishi Kashyap](https://github.com/incarnate87)
