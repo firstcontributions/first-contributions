@@ -1126,6 +1126,7 @@ Himanshu Dedha
 - [Dylan Schwindt](https://github.com/dschwindt)
 - [Hudson Leone](https://github.com/FalafelGood)
 - [Rafael Neves](https://github.com/rafaeljneves)
+- [bjarkt](https://github.com/bjarkt)
 - [Steve Bailey](https://github.com/StevexBailey)
 - [Taylor-Rae Loatman](https://github.com/TaylorLoatman)
 - [Pogchamp](https://github.com/yibinlong)
