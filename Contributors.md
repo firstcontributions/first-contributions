@@ -17,6 +17,7 @@
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
 - [Archit Garg](https://github.com/architgarg603)
+- [Madhuri J](https://github.com/madhuri1791)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
