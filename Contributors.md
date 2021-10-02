@@ -521,6 +521,7 @@ Himanshu Dedha
 - [John Gilpin](https://github.com/jgilpn)
 - [Ankan Bhaumik](https://github.com/bhaumikankan)
 - [Yoko Saka](https://github.com/yocosaka)
+- [Joyesh Meshram](https://github.com/polixonrio)
 - [Akash Jaiswal](https://github.com/jaiakash)
 - [Gaurav Kulkarni](https://github.com/kulkarnigaurav38)
 - [Siddhesh Sonawane](https://github.com/siddheshsonawane07)
