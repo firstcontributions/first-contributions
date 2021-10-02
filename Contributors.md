@@ -40,6 +40,7 @@
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
 - [pakhi srivastava](https://github.com/haruheero)
+- [Shruti Deshpande](https://github.com/deshpande-shruti)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Sushane Yadav](https://github.com/shaneydv)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
