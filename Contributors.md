@@ -63,6 +63,7 @@
 - [Andrea](https://github.com/andrea-genovese)
 - [Naing Tan Ba](https://github.com/Tranks27)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
+- [Ramiro Solis](https://github.com/Solis1)
 tayo360
 - [Muhammad Kamiel](https://github.com/kmil31)
 - [Brody Moore](https://github.com/bammoore511)
@@ -695,7 +696,7 @@ Himanshu Dedha
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
-- [Mohit N] 
+- [Mohit N]
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney](https://github.com/Juniper11)
 - [Gottfried Owono](https://github.com/Ge0ni)
