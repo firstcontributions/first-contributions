@@ -18,6 +18,7 @@
 - [Tejas](https://github.com/tm2k23)
 - [Archit Garg](https://github.com/architgarg603)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
@@ -58,9 +59,11 @@
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aditya Subrahmanya Bhat](https://github.com/AdityaSubrahmanyaBhat)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
+- [Kasrazeba Mulla](https://github.com/Kasrazeba-Mulla)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Liju Daniel]
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
+- 007aakash(https://github.com/007aakash)
 - [Harold Ulloa](https://github.com/haroldut)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Prakhar Shukla](https://github.com/prakharshukla)
@@ -563,6 +566,7 @@ Himanshu Dedha
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
+- [Ira](https://github.com/irapandey)
 - [Raymond Yan](https://github.com/raymond-design)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Sean Finegan](https://github.com/SFin12)
@@ -774,6 +778,7 @@ Himanshu Dedha
 - [Sammriddh Gupta](https://github.com/SammriddhGupta)
 - [James Howard](https://githhub.com/MarkJamesHoward)
 - [Jilvin Abraham](https://github.com/JilvinAbraham)
+- [Alexander](https://github.com/axlts)
 - [ironsgold](https://github.com/ironsgold)
 - [Omar Mehmood](https://github.com/OmarMeh117)
 - [Jon Gull](https://github.com/JonrGull)
@@ -1124,6 +1129,7 @@ Himanshu Dedha
 - [Dylan Schwindt](https://github.com/dschwindt)
 - [Hudson Leone](https://github.com/FalafelGood)
 - [Rafael Neves](https://github.com/rafaeljneves)
+- [bjarkt](https://github.com/bjarkt)
 - [Steve Bailey](https://github.com/StevexBailey)
 - [Taylor-Rae Loatman](https://github.com/TaylorLoatman)
 - [Pogchamp](https://github.com/yibinlong)
@@ -2045,6 +2051,7 @@ Himanshu Dedha
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
 - [Dendi Prayogo Hidayat](https://github.com/xdendix)
+- [Saif Kholid](https://github.com/Kholid0803)
 
 <!-- prettier-ignore-end -->
 
