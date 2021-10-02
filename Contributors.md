@@ -2047,6 +2047,6 @@ Himanshu Dedha
 - [Yacine Lyoubi](https://github.com/yacine-21)
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
-
+- [Malik Akbar Hashemi Rafsanjani](https://github.com/malikrafsan)
 <!-- prettier-ignore-end -->
 
