@@ -78,6 +78,7 @@
 - [Prakhar Shukla](https://github.com/prakharshukla)
 Aditya Agarwal
 - [Dishant](https://github.com/Dishant2001)
+- [Jishnu Biju](https://github.com/Jishnu075)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
 - [Andrew Chambers](https://github.com/W3Dojo)
