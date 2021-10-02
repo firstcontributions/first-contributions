@@ -26,6 +26,7 @@
 - [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
 - [Heeendri](https://github.com/heeendri/)
+- [Alen Thomas](https://github.com/AlenST)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
 - [pakhi srivastava](https://github.com/haruheero)
