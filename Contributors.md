@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Parseluni] (https://github.com/Parseluni)
+- [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Tim Wong] (https://github.com/timwong00)
 - [Si Lam](https://github.com/silam)
