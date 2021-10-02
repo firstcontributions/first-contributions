@@ -7,6 +7,7 @@
 - [Tim Wong] (https://github.com/timwong00)
 - [Si Lam](https://github.com/silam)
 - [Amit Bhargava](https://github.com/ambhargava)
+- [Sabri Oussama](https://github.com/Sabri01)
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
