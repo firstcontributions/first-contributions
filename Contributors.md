@@ -208,6 +208,7 @@ tayo360
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shrayansh Baunthiyal](https://github.com/shrayansh95)
 - [Shivam Pali](https://github.com/shivampali-2020)
+- [SankalpSwami](https://github.com/SwamiSankalp)
 - [Usama](https://github.com/CS4Usama)
 - [John](https://github.com/konig-coo)
 - [vhouriet](https://github.com/vhouriet)
