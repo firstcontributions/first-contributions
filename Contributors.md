@@ -12,6 +12,7 @@
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
+- [Dhurika](https://github.com/Dhurika)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
@@ -2055,4 +2056,3 @@ Himanshu Dedha
 - [Saif Kholid](https://github.com/Kholid0803)
 
 <!-- prettier-ignore-end -->
-
