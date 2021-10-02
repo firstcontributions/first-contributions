@@ -2064,6 +2064,6 @@ Himanshu Dedha
 - [Vũ Duy Tùng](https://github.com/duytung1009)
 - [Saif Kholid](https://github.com/Kholid0803)
 - [Sav](https://github.com/Harchok)
-
+- [Soumik Dutta](https://github.com/shalearkane)
 <!-- prettier-ignore-end -->
 
