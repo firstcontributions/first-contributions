@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Ranjith] (https://github.com/ranjithkumark8)
 - [Parseluni] (https://github.com/Parseluni)
 - [Lily Tang](https://github.com/tang305)
 - [Tim Wong] (https://github.com/timwong00)
@@ -2049,4 +2050,3 @@ Himanshu Dedha
 - [Vinayak B]( ps://github.com/Paimon-food)
 
 <!-- prettier-ignore-end -->
-
