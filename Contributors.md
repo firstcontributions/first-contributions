@@ -10,6 +10,7 @@
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
+- [ba-13] (https://github.com/ba-13)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
