@@ -2,11 +2,13 @@
 
 # **Contributors**
 - [Parseluni] (https://github.com/Parseluni)
+- [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Tim Wong] (https://github.com/timwong00)
 - [Si Lam](https://github.com/silam)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Swati Chauhan](https://github.com/swatichauhan814)
+- [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [Noemi Andras] (https://github.com/noemiandras)
@@ -36,6 +38,7 @@
 - [Sushane Yadav](https://github.com/shaneydv)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Ravi Vishwakarma](https://github.com/ravivish)
+- [Rupam Kerketta](https://github.com/rupamkerketta)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
@@ -371,6 +374,7 @@ Himanshu Dedha
 - [CharlieEdwards](https://github.com/cpaule1811)
 - [Namita Rastogi](https://github.com/Ashley936)
 - [Kalyan Chirla](https://github.com/kalyanchirla)
+- [Vubangsi Mercel](https://htithub.com/vmercel)
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
 - [Kevin Aguilera](https://github.com/KevinDanae)
 - [Nayan Sabnis](https://github.com/nayans99)
@@ -519,6 +523,7 @@ Himanshu Dedha
 - [John Gilpin](https://github.com/jgilpn)
 - [Ankan Bhaumik](https://github.com/bhaumikankan)
 - [Yoko Saka](https://github.com/yocosaka)
+- [Joyesh Meshram](https://github.com/polixonrio)
 - [Akash Jaiswal](https://github.com/jaiakash)
 - [Gaurav Kulkarni](https://github.com/kulkarnigaurav38)
 - [Siddhesh Sonawane](https://github.com/siddheshsonawane07)
@@ -2051,6 +2056,7 @@ Himanshu Dedha
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
 - [Dendi Prayogo Hidayat](https://github.com/xdendix)
+- [Vũ Duy Tùng](https://github.com/duytung1009)
 - [Saif Kholid](https://github.com/Kholid0803)
 
 <!-- prettier-ignore-end -->
