@@ -104,6 +104,7 @@ tayo360
 - [Akshai](https://github.com/Akshai-2909)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Het](https://github.com/Het-005)
+- [Abdulaziz Sadi](https://github.com/kitindi)
 - [Archisman Das](https://github.com/Arch0125)
 - [Amara](https://github.com/hereisamara)
 - [Akash Karthik M](https://github.com/akashkarthikm)
@@ -2079,4 +2080,3 @@ Himanshu Dedha
 - [mayuri shinde](https://github.com/Mayurishinde27)
 
 <!-- prettier-ignore-end -->
-
