@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 
-# **Contributors**
+# **Contributors*
 - [Parseluni] (https://github.com/Parseluni)
 - [Lily Tang](https://github.com/tang305)
 - [Tim Wong] (https://github.com/timwong00)
@@ -2012,6 +2012,7 @@ Himanshu Dedha
 - [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
 - [Madhan M](https://github.com/CaptMadhan)
+- [Jasmine M](https://github.com/jmelgar16)
 - [Vinamra Dash](https://github.com/Vinamra-15)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
 - [József Polgár](https://github.com/polgarj)
@@ -2029,6 +2030,5 @@ Himanshu Dedha
 - [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
 - [Thomas Gorszczyk](https://github.com/thomasgorspro)
 - [Yacine Lyoubi](https://github.com/yacine-21)
-
 
 <!-- prettier-ignore-end -->
