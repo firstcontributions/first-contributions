@@ -34,6 +34,7 @@
 - [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
+- [Vivek Joshi](https://github.com/vjvivekvj)
 - [AymanGamal](https://github.com/cod-lvr)
 - [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
