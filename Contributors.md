@@ -2072,6 +2072,6 @@ Himanshu Dedha
 - [malufreirejau](https://github.com/malufreirejau)
 - [chelle](https://github.com/cgentemann)
 - [mayuri shinde](https://github.com/Mayurishinde27)
-
+- [mariya pasheva](https://github.com/pasheva)
 <!-- prettier-ignore-end -->
 
