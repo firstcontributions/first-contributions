@@ -13,7 +13,7 @@
 - [ba-13] (https://github.com/ba-13)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [marenga julius](https://github.com/marenga14)
-- [Noemi Andras] (https://github.com/noemiandras)
+- [Noemi Andras](https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
