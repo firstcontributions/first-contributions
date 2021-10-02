@@ -18,6 +18,7 @@
 - [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Tejas](https://github.com/tm2k23)
+- [Mohammed Aadil](https://github.com/aadilMohd)
 - [Archit Garg](https://github.com/architgarg603)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
