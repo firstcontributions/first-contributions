@@ -2052,6 +2052,7 @@ Himanshu Dedha
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
+- [Kimberley Torres](https://github.com/kim-tor)
 - [Ozan Uslan](https://github.com/ozanuslan)
 - [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
 - [Thomas Gorszczyk](https://github.com/thomasgorspro)
