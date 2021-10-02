@@ -38,6 +38,7 @@
 - [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
+- [Aman Mishra](https://github.com/aman-mishra-02)
 - [Anirudh Mishra](https://github.com/anirudhgray)
 - [Vivek Joshi](https://github.com/vjvivekvj)
 - [AymanGamal](https://github.com/cod-lvr)
@@ -2052,4 +2053,3 @@ Himanshu Dedha
 - [Saif Kholid](https://github.com/Kholid0803)
 
 <!-- prettier-ignore-end -->
-
