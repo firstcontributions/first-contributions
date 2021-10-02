@@ -2053,6 +2053,6 @@ Himanshu Dedha
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
 - [Saif Kholid](https://github.com/Kholid0803)
-
+- [Geraldhi Mahayadnya](https://github.com/gerald-apm)
 <!-- prettier-ignore-end -->
 
