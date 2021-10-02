@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Parseluni] (https://github.com/Parseluni)
+- [Florent Haxhiu](https://github.com/florent-haxhiu)
 - [Lily Tang](https://github.com/tang305)
 - [Tim Wong] (https://github.com/timwong00)
 - [Si Lam](https://github.com/silam)
@@ -2049,4 +2050,3 @@ Himanshu Dedha
 - [Vinayak B]( ps://github.com/Paimon-food)
 
 <!-- prettier-ignore-end -->
-
