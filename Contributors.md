@@ -2052,6 +2052,7 @@ Himanshu Dedha
 - [Yacine Lyoubi](https://github.com/yacine-21)
 - [Nizar Baihaqi](https://github.com/nqrz)
 - [Vinayak B]( ps://github.com/Paimon-food)
+- [Vũ Duy Tùng](https://github.com/duytung1009)
 - [Saif Kholid](https://github.com/Kholid0803)
 
 <!-- prettier-ignore-end -->
