@@ -7,6 +7,7 @@
 - [Si Lam](https://github.com/silam)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Swati Chauhan](https://github.com/swatichauhan814)
+- [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [Noemi Andras] (https://github.com/noemiandras)
