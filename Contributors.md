@@ -1908,6 +1908,7 @@ Himanshu Dedha
 - [Hunter Woodruff](https://github.com/hcw52)
 - [Zinyx Zi](https://github.com/Ziinyx)
 - [Trevor Merrick](https://github.com/tmerrick17)
+- [Blaine Marsh](https://github.com/ImperialDelta)
 - [Andrew Folsom](https://github.com/andrewfolsom)
 - [Adedamola Ogunbona](https://github.com/drummerboix)
 - [shi7](https://github.com/shi7)
