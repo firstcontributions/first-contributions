@@ -19,6 +19,7 @@
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
+- [Meet Mehta](https://github.com/mehtameet2802)
 - [Tejas](https://github.com/tm2k23)
 - [Sweta Bora](https://github.com/the-dork)
 - [Mohammed Aadil](https://github.com/aadilMohd)
@@ -78,6 +79,7 @@
 - [Prakhar Shukla](https://github.com/prakharshukla)
 Aditya Agarwal
 - [Dishant](https://github.com/Dishant2001)
+- [Jishnu Biju](https://github.com/Jishnu075)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
 - [Andrew Chambers](https://github.com/W3Dojo)
