@@ -99,6 +99,7 @@ tayo360
 - [Het](https://github.com/Het-005)
 - [Archisman Das](https://github.com/Arch0125)
 - [Amara](https://github.com/hereisamara)
+- [Akash Karthik M](https://github.com/akashkarthikm)
 - [Castle](https://github.com/Castle1992)
 - [pickwick-rudge](https://github.com/pickwick-rudge)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
