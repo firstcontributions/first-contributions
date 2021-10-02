@@ -113,6 +113,7 @@ tayo360
 - [Yash](https://github.com/YasshhYadav)
 - [Nico Araya](https://github.com/NicolasArayaB)
 -[Nagesh Bansal](https://github.com/Nageshbansal)
+- [HaoES](https://github.com/HaoES)
 - [Andy](https://github.com/hsuandy)
 - [Prem Kantikar](https://github.com/alcatraz69)
 - [33cloud33](https://github.com/33cloud33)
