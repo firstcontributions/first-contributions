@@ -167,6 +167,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/ThirdScript">ThirdScript</a>
         </td>
+        <td>
+            <a href="https://github.com/HiszpanDev">HiszpanDev</a>
+        </td>
     </tr>
 </table>
 
