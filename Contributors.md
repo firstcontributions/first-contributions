@@ -60,6 +60,7 @@
 - [Carleen Shah](https://github.com/CarleenSinton)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Vidhya Varshany](https://github.com/VidhyaVarshanyJS)
+- [Satvik Gupta](https://github.com/satvikg2002)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
 - [Aditya Subrahmanya Bhat](https://github.com/AdityaSubrahmanyaBhat)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
