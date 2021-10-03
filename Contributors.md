@@ -27,6 +27,7 @@
 - [Pawan Mishra](https://github.com/pawankm21)
 - [Sweta Bora](https://github.com/the-dork)
 - [Mohammed Aadil](https://github.com/aadilMohd)
+- [Akshit Mehra](https://github.com/AkshiMehra/)
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
