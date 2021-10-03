@@ -2,7 +2,7 @@
 
 # **Contributors**
 - [Timothy Benton](https://github.com/humantl1)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
 - [Sheetal Patel](https://github.com/sheetal2001p)
@@ -2133,6 +2133,6 @@ Himanshu Dedha
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 - [Aashish Duddukuri] (https://github.com/aashd)
+- [Jonathan Matheus](https://github.com/jonathan-matheus)
 
 <!-- prettier-ignore-end -->
-
