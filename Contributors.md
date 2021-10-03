@@ -2058,6 +2058,7 @@ Himanshu Dedha
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
 - [Eddy](https://github.com/bitedd)
+- [Nandini Khandelwal](https://github.com/nkhandelwal07)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
 - [Suresh Dahal](https://github.com/sureshdahal)
 - [Abhinash Yadav](https://github.com/ralphcoder)
