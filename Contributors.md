@@ -2111,6 +2111,7 @@ Himanshu Dedha
 - [Ahmad Takkoush](https://github.com/ahmadtakkoush)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
 - [Aditya Sharma] (https://github.com/adityash1)
+- [Rajendra Rakha] (https://github.com/rjndrkha)
 
 <!-- prettier-ignore-end -->
 
