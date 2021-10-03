@@ -20,6 +20,7 @@
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [ba-13] (https://github.com/ba-13)
+- [Mohammad Ali Ashraf] (https://github.com/programmingLover12)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
