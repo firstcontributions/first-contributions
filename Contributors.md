@@ -2081,6 +2081,7 @@ Himanshu Dedha
 - [chelle](https://github.com/cgentemann)
 - [mayuri shinde](https://github.com/Mayurishinde27)
 - [Lukasz](https://github.com/lukandor)
+- [JunyouGuan](https://github.com/guanjunyou)
 
 <!-- prettier-ignore-end -->
 
