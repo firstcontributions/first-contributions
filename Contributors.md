@@ -395,6 +395,7 @@ Himanshu Dedha
 - [A-MMM-azing-MMM-CC](https://github.com/mccurcio)
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
+- [Rutuja Dongre](https://github.com/rutuja281/)
 - [Dylan Anderson](https://github.com/DylanAnderson35)
 - [Lewis Hill](https://github.com/lewy192)
 - [Sankalp Swami](https://github.com/SwamiSankalp)
