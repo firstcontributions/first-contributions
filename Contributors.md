@@ -2082,6 +2082,6 @@ Himanshu Dedha
 - [mayuri shinde](https://github.com/Mayurishinde27)
 - [Lukasz](https://github.com/lukandor)
 - [JunyouGuan](https://github.com/guanjunyou)
-
+- [texopolis](https://github.com/Texopolis)
 <!-- prettier-ignore-end -->
 
