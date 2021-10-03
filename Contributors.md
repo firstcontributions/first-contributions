@@ -264,7 +264,7 @@
 - [FactorYang](https://github.com/FactorYang)
 - [HHz8746](https://github.com/HHz8746)
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
-- [anuj singh] 
+- [anuj singh]
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
@@ -275,6 +275,7 @@
 - [Kevin Hendrix](https://github.com/khendrix12)
 - [Subhasish Panda](https://github.com/sp7infinity)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
+- [Sergi Bertini]
 - [Douglas Ede](https://github.com/Douglas4739)
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
