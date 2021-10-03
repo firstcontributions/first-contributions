@@ -178,6 +178,7 @@ tayo360
 - [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
 - [Aimi Fadhil](https://github.com/ColonelBucket8)
 - [Kenth Cadayday](https://github.com/Kentuxx/)
+- [Emily Jia](https://github.com/emilyyjia)
 - [R3nrs](https://github.com/R3nrs)
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
