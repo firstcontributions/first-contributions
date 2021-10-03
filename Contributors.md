@@ -2089,7 +2089,7 @@ Himanshu Dedha
 - [Lukasz](https://github.com/lukandor)
 - [JunyouGuan](https://github.com/guanjunyou)
 - [Kadambini](https://github.com/kadambinipanda)
-- [Firejoust](https://github.com/camezza)
+- [Camezza](https://github.com/camezza)
 
 <!-- prettier-ignore-end -->
 
