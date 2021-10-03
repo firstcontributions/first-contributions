@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-- [Ayush Singh](https://github.com/AyushSingh-github)
+- [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Parseluni] (https://github.com/Parseluni)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
