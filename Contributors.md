@@ -34,6 +34,7 @@ Ayush Goyal
 mOrTaL💀
 - KhushiO BATRA
 - Harshal Dehra
+- Cara Krug
 - Tejas Dehra
 - Sahil Dhingra
 - Baani Dhingra
