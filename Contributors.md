@@ -2108,6 +2108,7 @@ Himanshu Dedha
 - [Firejoust](https://github.com/camezza)
 - [Ahmad Takkoush](https://github.com/ahmadtakkoush)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
+- [Aditya Sharma] (https://github.com/adityash1)
 
 <!-- prettier-ignore-end -->
 
