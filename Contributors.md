@@ -20,6 +20,7 @@
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
+- [Ayush Yadav] (https://github.com/yadav-ayush)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Meet Mehta](https://github.com/mehtameet2802)
