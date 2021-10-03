@@ -663,6 +663,7 @@ Himanshu Dedha
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
 - [Jesse Tingle](https://github.com/Jesse-Tingle)
 - [Harsh Soni](https://github.com/hashfx)
+- [Tom Chestnut](https://github.com/tchestnut85)
 - [Diveshan](https://github.com/Dive1995)
 - [Nisarg Kudgunti](https://github.com/Nisarg6502)
 - [Mohan Sahu](https://github.com/mohantechnology)
@@ -2085,4 +2086,3 @@ Himanshu Dedha
 - [JunyouGuan](https://github.com/guanjunyou)
 
 <!-- prettier-ignore-end -->
-
