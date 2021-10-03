@@ -2117,6 +2117,7 @@ Himanshu Dedha
 - [Raghavendra] (https://raghavendrarao4.github.io/)
 - [Aditya Sharma] (https://github.com/adityash1)
 - [Rajendra Rakha] (https://github.com/rjndrkha)
+- [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 
 <!-- prettier-ignore-end -->
 
