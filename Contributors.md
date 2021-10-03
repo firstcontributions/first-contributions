@@ -351,6 +351,7 @@ Himanshu Dedha
 - [Rahul](https://github.com/sRahul-00)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
+- [Athmane Bergueddi](https://github.com/GorillaWarHead)
 - [Ted Dino](https://github.com/ted-dino)
 - [Philip Bettler] (https://github.com/pgbettler)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
@@ -2114,4 +2115,3 @@ Himanshu Dedha
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 
 <!-- prettier-ignore-end -->
-
