@@ -1980,6 +1980,7 @@ Himanshu Dedha
 - [Karolox](https://github.com/karolox)
 - [JPMurara](https://github.com/JPMurara)
 - [PuduManie](https://github.com/JacquesPMvanWyk)
+- [Deni336](https://github.com/deni336)
 - [awilkin](https://github.com/awilkin)
 - [Bhavesh](https://github.com/Bhavesh0301/)
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
