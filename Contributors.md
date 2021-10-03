@@ -1174,6 +1174,7 @@ Himanshu Dedha
 - [Gabriel QR](https://github.com/gabrielqr-code)
 - [Rmy](https://github.com/BenRmy)
 - [Tunbk1002](https://github.com/tunbk1002)
+- [Ayush Singh](https://github.com/ayushsingh12march)
 - [letmeouted](https://github.com/Letmeouted)
 - [TheIcefall](https://github.com/TheIcefall)
 - [shen](https://github.com/sheny1xuan/first-contributions)
