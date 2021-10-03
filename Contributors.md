@@ -197,6 +197,7 @@ tayo360
 - [Felipe Antunes](https://github.com/feantuns)
 - [Achal Singh](https://github.com/achal-singh)
 - [Sanya](https://github.com/M-Sanya)
+- [Shaurya](https://github.com/shaurya5 )
 - [Aisling K](https://github.com/aikearney)
 - [Vijender P](https://github.com/pvijender)
 - [Sridhar Maskeri](https://github.com/floating-dynamo)
