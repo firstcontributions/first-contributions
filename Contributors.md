@@ -14,6 +14,7 @@
 - [Sowmya] (https://github.com/sowmya-hub)
 - [JosefineFH] (https://github.com/JosefineFH)
 - [Si Lam](https://github.com/silam)
+- [Akemi Murayama] (https://github.com:akemim12)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Sabri Oussama](https://github.com/Sabri01)
 - [Swati Chauhan](https://github.com/swatichauhan814)
