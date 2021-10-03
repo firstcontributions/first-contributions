@@ -2128,6 +2128,6 @@ Himanshu Dedha
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 - [Aashish Duddukuri] (https://github.com/aashd)
-
+[ Texopolis](https://github.com/texopolis)
 <!-- prettier-ignore-end -->
 
