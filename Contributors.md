@@ -2119,6 +2119,7 @@ Himanshu Dedha
 - [Kadambini](https://github.com/kadambinipanda)
 - [Firejoust](https://github.com/camezza)
 - [Ahmad Takkoush](https://github.com/ahmadtakkoush)
+- [Ashish Shaji](https://github.com/covertgravy)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
 - [Aditya Sharma] (https://github.com/adityash1)
 - [Rajendra Rakha] (https://github.com/rjndrkha)
