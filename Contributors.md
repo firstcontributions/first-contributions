@@ -7,6 +7,7 @@
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tim Wong] (https://github.com/timwong00)
 - [Sowmya] (https://github.com/sowmya-hub)
+- [JosefineFH] (https://github.com/JosefineFH)
 - [Si Lam](https://github.com/silam)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Sabri Oussama](https://github.com/Sabri01)
