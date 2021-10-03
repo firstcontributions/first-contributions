@@ -74,6 +74,7 @@
 - [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
 - [Vedika Gadia]
+- [Sadid Idibekov](https://github.com/Sadid-USN)
 - [Chaz Carbis](https://github.com/LilCthulu)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Ramiro Solis](https://github.com/Solis1)
