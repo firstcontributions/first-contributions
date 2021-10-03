@@ -889,6 +889,7 @@ Himanshu Dedha
 - [Adrianne Sebastian](https://github.com/arcsbstn)
 - [David Rosas](https://github.com/drosaslin)
 - [Chandan H](https://github.com/Chandan-h-509)
+- [Naman Singh Nayal](https://github.com/NamanSN240002)
 - [Izzminhal Akmal](https://github.com/Kemystra)
 - [Santanu Biswas](https://github.com/Santanu29)
 - [utah239](https://github.com/utah239)
