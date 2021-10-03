@@ -556,6 +556,7 @@
 - Amar kumar
 - Yash Lad
 - Harshal Dehra
+- Cara Krug
 - Tejas Dehra
 - Sahil Dhingra
 - [Dicka Estu](https://github.com/dickaestu)
