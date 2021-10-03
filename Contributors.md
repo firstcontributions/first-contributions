@@ -32,6 +32,7 @@
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [Hadia Noor](https://github.com/Hadia-Noor)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
@@ -338,7 +339,7 @@ Himanshu Dedha
 - [Saptarshi Bhattacharya](https://github.com/sbk2k1)
 - [Utkarsh Dayal](https://github.com/uxd2486)
 - [Om Prashant Dharme]
-- [Sanchit Garg ](https://github.com/sanchit-iitr) 
+- [Sanchit Garg ](https://github.com/sanchit-iitr)
 - [Aju Maharjan](https://github.com/aju513)
 - [Alexander Shen](https://github.com/shenalexw)
 - [Kevin S Manavalan](https://github.com/kevinmanavalan)
