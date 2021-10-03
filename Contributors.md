@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Timothy Benton](https://github.com/humantl1)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
