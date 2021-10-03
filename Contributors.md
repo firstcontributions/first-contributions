@@ -200,6 +200,7 @@ tayo360
 - [Sai Pavan Krishna Nagam](https://github.com/ucantfindme)
 - [Phyllis Atieno](https://github.com/phyleria)
 - [Emily Margaret](https://github.com/em3B)
+- [Catter]
 - [Abhiram Mundru](https://github.com/AbhiramMundru)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Douglas Kaminski](https://github.com/dokam)
