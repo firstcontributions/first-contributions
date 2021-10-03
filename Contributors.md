@@ -38,6 +38,7 @@
 - [Vipul Kumar Singh](https://github.com/vipul-2003)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
 - [Ayush Jain](https://github.com/not4YU5H/)
+- [Walid Palekar](https://github.com/palwd8/)
 - [Toyeesh Sinha](https://github.com/bubsy3d)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
