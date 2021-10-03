@@ -9,6 +9,7 @@
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Sabri Oussama](https://github.com/Sabri01)
 - [Swati Chauhan](https://github.com/swatichauhan814)
+  [Jun Koo](https://github.com/b-junkoo)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [ba-13] (https://github.com/ba-13)
@@ -2085,4 +2086,3 @@ Himanshu Dedha
 - [JunyouGuan](https://github.com/guanjunyou)
 
 <!-- prettier-ignore-end -->
-
