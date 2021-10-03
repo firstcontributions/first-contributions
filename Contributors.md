@@ -1491,6 +1491,7 @@ Himanshu Dedha
 - [Raniery Mendes](https://github.com/RanieryMendes)
 - [Rachel B](https://github.com/rbirnshtok)
 - [Suresh Koochana](https://github.com/SureshKuchana)
+- [✨Nova A✨](https://github.com/PrettyPumpkin612)
 - [Andre Amaral](https://github.com/amdeca)
 - [Kevin Holmes](https://github.com/kevholmes)
 - [Sun Cold](https://github.com/Sun-Cold)
