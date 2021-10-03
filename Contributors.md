@@ -2103,6 +2103,7 @@ Himanshu Dedha
 - [JunyouGuan](https://github.com/guanjunyou)
 - [Kadambini](https://github.com/kadambinipanda)
 - [Firejoust](https://github.com/camezza)
+- [Ahmad Takkoush](https://github.com/ahmadtakkoush)
 
 <!-- prettier-ignore-end -->
 
