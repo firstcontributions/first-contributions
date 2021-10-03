@@ -2088,6 +2088,7 @@ Himanshu Dedha
 - [Ayush Pattnaik](https://github.com/Ayu10x)
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
+- [Kenzie Mafazi Adam] (https://github.com/kenziema)
 - [Eddy](https://github.com/bitedd)
 - [Nandini Khandelwal](https://github.com/nkhandelwal07)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
@@ -2121,6 +2122,7 @@ Himanshu Dedha
 - [Aditya Sharma] (https://github.com/adityash1)
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
+
 
 <!-- prettier-ignore-end -->
 
