@@ -8,6 +8,7 @@
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Anurag Sharma](https://github.com/Anurag-2000)
+- [Tamanna-S](https://github.com/Tamanna-S)
 - [Tim Wong] (https://github.com/timwong00)
 - [Sowmya] (https://github.com/sowmya-hub)
 - [JosefineFH] (https://github.com/JosefineFH)
