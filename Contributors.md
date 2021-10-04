@@ -64,6 +64,7 @@
 - [Marco](https://github.com/Marco-Kap)
 - [ceyxasm](https://github.com/ceyxasm)
 - [Radha Krishna](https://github.com/trk286)
+  [Nick Drafke](https://github.com/ndrafke)
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
@@ -2180,4 +2181,3 @@ Himanshu Dedha
 - [Abhinav Narang](https://github.com/abhinavn-04/)
 
 <!-- prettier-ignore-end -->
-
