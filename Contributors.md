@@ -1019,6 +1019,7 @@ Himanshu Dedha
 - [Abd](https://github.com/abd-ar)
 - [Filipe Lima](https://github.com/datsfilipe)
 - [Martin Bozhinov](https://github.com/MartinBozhinov)
+- [Victor Oluwayemi](https://github.com/AyoOlu1)
 - [BrotatoBoi](https://github.com/BrotatoBoi) ;p
 - [Temitope Babatola](https://github.com/BBimie)
 - [Kacper S.](https://github.com/DooJayu)
@@ -2140,4 +2141,3 @@ Himanshu Dedha
 - [Jacob Beene] (https://github.com/jebeene)
 
 <!-- prettier-ignore-end -->
-
