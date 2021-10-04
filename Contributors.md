@@ -107,6 +107,7 @@
 - [Tom Davis](https://github.com/Kat35601)
 - [Ashish Nain](https://github.com/Asi-21)
 - [Vedika Gadia]
+- [Casey Toy](https://github.com/ROSEHlPS)
 - [Sadid Idibekov](https://github.com/Sadid-USN)
 - [Chaz Carbis](https://github.com/LilCthulu)
 - [Adit Magotra](https://github.com/AlphaLaser)
