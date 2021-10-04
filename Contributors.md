@@ -2147,6 +2147,7 @@ Himanshu Dedha
 - [Aashish Duddukuri] (https://github.com/aashd)
 - [Jacob Beene] (https://github.com/jebeene)
 - [Simran Keshri](https://github.com/sims-keshri)
+- [Alessandro Bertani](https://github.com/alessandrobertani)
 
 <!-- prettier-ignore-end -->
 
