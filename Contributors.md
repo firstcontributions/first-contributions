@@ -2119,6 +2119,7 @@ Himanshu Dedha
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
+ - Dan Tcheche
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Kimberley Torres](https://github.com/kim-tor)
