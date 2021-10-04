@@ -58,6 +58,7 @@
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
+- [Daberechi Okorie](https://github.com/Dahbaeraychy)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Vipul Kumar Singh](https://github.com/vipul-2003)
