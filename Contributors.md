@@ -3,6 +3,7 @@
 # **Contributors**
 - [Timothy Benton](https://github.com/humantl1)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
+- [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
