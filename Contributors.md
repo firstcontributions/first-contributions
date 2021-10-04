@@ -2008,6 +2008,7 @@ Himanshu Dedha
 - [Scott Maitland](https://github.com/S-Maitland)
 - [Riya Saxena](https://github.com/29riyasaxena)
 - [Prashant Srivastava](https://github.com/iamPrashSri)
+- [GoodbyeGhost](https://github.com/GoodbyeGhost)
 - [Gaurav Verma](https://github.com/lucky-web-dev)
 - [Deep Patel](https://github.com/DeepP2667)
 - [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
