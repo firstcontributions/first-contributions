@@ -53,6 +53,7 @@
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [Em White](https://github.com/kropht)
 - [Marco](https://github.com/Marco-Kap)
 - [ceyxasm](https://github.com/ceyxasm)
 - [Radha Krishna](https://github.com/trk286)
