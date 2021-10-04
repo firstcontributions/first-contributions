@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
+- [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Timothy Benton](https://github.com/humantl1)
 - [Anubhav Cp](https://github.com/anubhav-cp)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
@@ -28,6 +29,7 @@
 - [Akemi Murayama] (https://github.com:akemim12)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Sabri Oussama](https://github.com/Sabri01)
+- [Eunjnnn] (https://github.com/Eunjnnn)
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
@@ -46,6 +48,7 @@
 - [Meet Mehta](https://github.com/mehtameet2802)
 - [Tejas](https://github.com/tm2k23)
 - [Mrigank Singh](https://github.com/mriganksingh1)
+- [shina](https://github.com/shina-blueprint)
 - [Pawan Mishra](https://github.com/pawankm21)
 - [Sweta Bora](https://github.com/the-dork)
 - [Mohammed Aadil](https://github.com/aadilMohd)
@@ -53,6 +56,7 @@
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [Em White](https://github.com/kropht)
 - [Marco](https://github.com/Marco-Kap)
 - [ceyxasm](https://github.com/ceyxasm)
 - [Radha Krishna](https://github.com/trk286)
@@ -214,6 +218,7 @@ tayo360
 - [Amanda McMullin](https://github.com/projexkeyma)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Emilia Ramirez](https://github.com/MariaEmiliaRG)
+- [Mayank Shahi](https://github.com/gattsu997)
 - [Berto Zoban](https://github.com/whoisthismans)
 - [Sai Pavan Krishna Nagam](https://github.com/ucantfindme)
 - [Phyllis Atieno](https://github.com/phyleria)
@@ -557,6 +562,7 @@ Himanshu Dedha
 - [Hitesh Mishra](https://github.com/hitesh-mishra456)
 - [Maaz Muhammad](https://github.com/maaz997)
 - [Hara](https://github.com/hhara21)
+- [Aaron](https://github.com/aaronruss2405)
 - [Ishan Gupta](https://github.com/developer-ishan)
 - [Abhishek Ranjan](https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
@@ -2162,5 +2168,6 @@ Himanshu Dedha
 - [Simran Keshri](https://github.com/sims-keshri)
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
+- [Gustavo Barbosa](https://github.com/gusbdev)
 <!-- prettier-ignore-end -->
 
