@@ -10,6 +10,7 @@
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
+- [Rayza Araujo](https://github.com/araujorayza)
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
 - [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
