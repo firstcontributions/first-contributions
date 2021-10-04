@@ -468,6 +468,7 @@ Himanshu Dedha
 - [Nick Maxwell](https://github.com/nbm58)
   [PUSHKAR VINAYAK](https://github.com/PUSHKARVINAYAK)
 - [Matt Auer](https://github.com/matt-user)
+- [Trent Ross](https://github.com/tross2552)
 - [Raushan Kumar](https://github.com/Raushan414)
 - Chirantan
 - [MontejoJorge](https://github.com/montejojorge) 🍍
