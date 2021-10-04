@@ -2,6 +2,8 @@
 
 # **Contributors**
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
+- [SANJANA PRASAD](https://github.com/sanjanaprasad2k01)
+
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Timothy Benton](https://github.com/humantl1)
 - [Anubhav Cp](https://github.com/anubhav-cp)
