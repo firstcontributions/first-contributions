@@ -2158,6 +2158,7 @@ Himanshu Dedha
 - [Jacob Beene] (https://github.com/jebeene)
 - [Simran Keshri](https://github.com/sims-keshri)
 - [Alessandro Bertani](https://github.com/alessandrobertani)
+- [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
 
 <!-- prettier-ignore-end -->
 
