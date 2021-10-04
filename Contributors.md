@@ -85,6 +85,7 @@
 - [Alen Thomas](https://github.com/AlenST)
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [yash shah ](https://github.com/yashshah2002)
+- [Josh Fishman](https://github.com/Joshfishman97)
 - [ravi khan ](https://github.com/nalayakme)
 - [pakhi srivastava](https://github.com/haruheero)
 - [Kumuthu Vinsura](https://github.com/kumuthu-vinsura)
