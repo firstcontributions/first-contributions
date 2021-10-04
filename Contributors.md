@@ -18,6 +18,7 @@
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
 - [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
+- [Varun Patel](https://github.com/varunpatel07)
 - [Tim Wong] (https://github.com/timwong00)
 - [Soumyajoy Das](https://github.com/soumyajoydas01)
 - [Sowmya] (https://github.com/sowmya-hub)
