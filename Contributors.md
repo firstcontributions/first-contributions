@@ -12,6 +12,7 @@
 - [Tamanna-S](https://github.com/Tamanna-S)
 - [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
 - [Tim Wong] (https://github.com/timwong00)
+- [Soumyajoy Das](https://github.com/soumyajoydas01)
 - [Sowmya] (https://github.com/sowmya-hub)
 - [JosefineFH] (https://github.com/JosefineFH)
 - [Si Lam](https://github.com/silam)
