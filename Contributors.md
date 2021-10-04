@@ -6,7 +6,7 @@
 - [Anubhav Cp](https://github.com/anubhav-cp)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
@@ -22,6 +22,7 @@
 - [Soumyajoy Das](https://github.com/soumyajoydas01)
 - [Sowmya] (https://github.com/sowmya-hub)
 - [Behnaz Khoshnood] (https://github.com/behnazkhoshnood)
+- [Scott-C] (https://github.com/Scarvy)
 - [JosefineFH] (https://github.com/JosefineFH)
 - [Si Lam](https://github.com/silam)
 - [Akemi Murayama] (https://github.com:akemim12)
@@ -2162,4 +2163,3 @@ Himanshu Dedha
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
 
 <!-- prettier-ignore-end -->
-
