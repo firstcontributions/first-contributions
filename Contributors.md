@@ -65,6 +65,7 @@
 - [Heidal](https://github.com/TheHeidal/)
 - [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
+- [Rofiq](https://github.com/mhdrofiq)
 - [Gusky](https://github.com/iGusky)
 - [Heeendri](https://github.com/heeendri/)
 - [Alen Thomas](https://github.com/AlenST)
