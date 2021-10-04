@@ -217,6 +217,7 @@ tayo360
 - [Amanda McMullin](https://github.com/projexkeyma)
 - [Rav Galicio](https://github.com/Rabonito)
 - [Emilia Ramirez](https://github.com/MariaEmiliaRG)
+- [Mayank Shahi](https://github.com/gattsu997)
 - [Berto Zoban](https://github.com/whoisthismans)
 - [Sai Pavan Krishna Nagam](https://github.com/ucantfindme)
 - [Phyllis Atieno](https://github.com/phyleria)
