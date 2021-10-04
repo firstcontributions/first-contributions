@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Timothy Benton](https://github.com/humantl1)
 - [Anubhav Cp](https://github.com/anubhav-cp)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
