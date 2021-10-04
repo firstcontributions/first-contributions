@@ -2166,6 +2166,7 @@ Himanshu Dedha
 - [Simran Keshri](https://github.com/sims-keshri)
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
+- [Gustavo Barbosa](https://github.com/gusbdev)
 
 <!-- prettier-ignore-end -->
 
