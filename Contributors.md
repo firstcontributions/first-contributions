@@ -1986,6 +1986,6 @@ tayo360
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
-
+- [Raj Chopde] (https://github.com/rchopde/junit-reports)
 
 <!-- prettier-ignore-end -->
