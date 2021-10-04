@@ -2184,6 +2184,7 @@ Himanshu Dedha
 - [Gustavo Barbosa](https://github.com/gusbdev)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
 - [Davey Carp](https://github.com/daveylcarp)
+- [Paras Aghija](https://github.com/paras-aghija)
 
 <!-- prettier-ignore-end -->
 
