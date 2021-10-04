@@ -1976,6 +1976,7 @@ Himanshu Dedha
 - [Jarek Hry](https://github.com/akcer)
 - [Naman Girdhar](https://github.com/namangirdhar16)
 - [Balaji PJ](https://github.com/dystopiadroid)
+- [Chirag Goyal](https://github.com/chiraggoyal1401)
 - [Abhijit Sarode](https://github.com/abhijitsarode)
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
 - [Jerome Flores](https://github.com/jeromefloresss)
@@ -2176,6 +2177,7 @@ Himanshu Dedha
 - [Sarvesh Hon](https://github.com/sarveshhon/)
 - [Gustavo Barbosa](https://github.com/gusbdev)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
+
 
 <!-- prettier-ignore-end -->
 
