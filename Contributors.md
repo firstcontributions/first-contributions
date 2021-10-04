@@ -2091,6 +2091,7 @@ Himanshu Dedha
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
 - [Otis C](https://github.com/otili9890)
+- [Sam Lees](https://github.com/bitsam)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
 - [BHATT VIDHI](https://github.com/VidhiBhatt01)
@@ -2105,7 +2106,7 @@ Himanshu Dedha
 - [Eddy](https://github.com/bitedd)
 - [Nandini Khandelwal](https://github.com/nkhandelwal07)
 - [Vibhuti Jain](https://github.com/vibhuvj27)
-- [Suresh Dahal](https://github.com/sureshdahal)
+- [Suresh Dahal](https://github.com/sureshdahal
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
