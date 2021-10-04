@@ -1773,7 +1773,7 @@ Himanshu Dedha
 - [ianndris](https://github.com/ianndris)
 - [John Ronzo](https://github.com/jronzo99)
 - [Jorge Agoiz Pedraja](https://github.com/jorgeAgoiz)
-- [seraph776](https://github.com/seraph776) 
+- [Seraph776](https://github.com/seraph776) 
 - [Maulik Sompura](https://github.com/maulik225)
 - [Romeshb](https://github.com/romeshb)
 - [Jorge Agoiz Pedraja](https://github.com/jorgeAgoiz)
