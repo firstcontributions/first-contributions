@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Timothy Benton](https://github.com/humantl1)
+- [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
