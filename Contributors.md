@@ -71,6 +71,7 @@
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Walid Palekar](https://github.com/palwd8/)
 - [Toyeesh Sinha](https://github.com/bubsy3d)
+- [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
 - [Chirag](https://github.com/Hardiegogo)
