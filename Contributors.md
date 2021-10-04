@@ -63,7 +63,7 @@
 - [Em White](https://github.com/kropht)
 - [Marco](https://github.com/Marco-Kap)
 - [ceyxasm](https://github.com/ceyxasm)
-- [adha Krishna](https://github.com/trk286)
+- [Radha Krishna](https://github.com/trk286)
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
