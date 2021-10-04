@@ -1545,6 +1545,7 @@ Himanshu Dedha
 - [Arjun Satheesh](https://github.com/arjunsatheesh)
 - [Amore Oluwaseun](https://github.com/o-amore)
 - [Isaac Chung](https://github.com/isaac-chung/)
+- [Naman](https://github.com/malhotra-naman)
 - [Alan Chiou](https://github.com/AlanChiou)
 - [Dalhatu Njidda](https://github.com/dalsn)
 - [snaileny](https://github.com/snaileny)
@@ -2148,4 +2149,3 @@ Himanshu Dedha
 - [Simran Keshri](https://github.com/sims-keshri)
 
 <!-- prettier-ignore-end -->
-
