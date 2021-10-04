@@ -48,6 +48,7 @@
 - [Meet Mehta](https://github.com/mehtameet2802)
 - [Tejas](https://github.com/tm2k23)
 - [Mrigank Singh](https://github.com/mriganksingh1)
+- [shina](https://github.com/shina-blueprint)
 - [Pawan Mishra](https://github.com/pawankm21)
 - [Sweta Bora](https://github.com/the-dork)
 - [Mohammed Aadil](https://github.com/aadilMohd)
