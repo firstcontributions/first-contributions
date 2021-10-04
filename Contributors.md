@@ -42,6 +42,7 @@
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Meet Mehta](https://github.com/mehtameet2802)
 - [Tejas](https://github.com/tm2k23)
+- [Mrigank Singh](https://github.com/mriganksingh1)
 - [Pawan Mishra](https://github.com/pawankm21)
 - [Sweta Bora](https://github.com/the-dork)
 - [Mohammed Aadil](https://github.com/aadilMohd)
@@ -65,6 +66,7 @@
 - [Heidal](https://github.com/TheHeidal/)
 - [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
+- [Rofiq](https://github.com/mhdrofiq)
 - [Gusky](https://github.com/iGusky)
 - [Heeendri](https://github.com/heeendri/)
 - [Alen Thomas](https://github.com/AlenST)
@@ -2120,6 +2122,7 @@ Himanshu Dedha
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
+ - Dan Tcheche
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Kimberley Torres](https://github.com/kim-tor)
