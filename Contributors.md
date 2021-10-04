@@ -77,6 +77,7 @@
 - [pakhi srivastava](https://github.com/haruheero)
 - [Kumuthu Vinsura](https://github.com/kumuthu-vinsura)
 - [Shruti Deshpande](https://github.com/deshpande-shruti)
+- [Aleksandar Marjanovic](https://github.com/coa989)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Sushane Yadav](https://github.com/shaneydv)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
