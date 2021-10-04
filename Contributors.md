@@ -389,6 +389,7 @@ Himanshu Dedha
 - [Mitch Bertsch](https://github.com/bmxtricky)
 - [Anurag Garg](https://github.com/anuraggarg3)
 - [Herman Ceaser](https://github.com/HermanCeaser)
+- [Pranit Patil](https://github.com/PranitPatil03)
 - [Dayakar Heeraakri](https://github.com/DayakarH)
 - [Hex Her](https://github.com/HerHex)
 - [Ayush Mishra](https://github.com/Beyonday008)
