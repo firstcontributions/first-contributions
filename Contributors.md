@@ -97,6 +97,7 @@
 - [Ramiro Solis](https://github.com/Solis1)
 - [Monu Kumar](https://github.com/MonuKumar1)
 - [Matias Gonzalez](https://github.com/MGagiledevelopment)
+- [Dani Fornons](https://github.com/danifornons)
 - [David Salomón](https://github.com/DavidSalomonDev)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Om Kakatkar](https://github.com/OmKakatkar)
