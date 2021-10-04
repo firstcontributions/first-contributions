@@ -2180,6 +2180,7 @@ Himanshu Dedha
 - [Sarvesh Hon](https://github.com/sarveshhon/)
 - [Gustavo Barbosa](https://github.com/gusbdev)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
+- [Davey Carp](https://github.com/daveylcarp)
 
 <!-- prettier-ignore-end -->
 
