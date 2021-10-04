@@ -2067,6 +2067,7 @@ Himanshu Dedha
 - [awwmawno](https://github.com/awwmawno)
 - [Travis Meyer](https://github.com/travisgmeyer)
 - [Marat](https://github.com/mshalmanov)
+- [ktk54x](https://github.com/ktk54x)
 - [kouki](https://github.com/koukihk)
 - [lbxx123456](https://github.com/lbxx123456)
 - [NewMountain](https://github.com/NewMountain)
