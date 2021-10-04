@@ -2167,6 +2167,6 @@ Himanshu Dedha
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
 - [Gustavo Barbosa](https://github.com/gusbdev)
+- [Ananya Das](https://github.com/AnanyaDas162)
 
 <!-- prettier-ignore-end -->
-
