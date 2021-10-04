@@ -2077,6 +2077,7 @@ Himanshu Dedha
 - [Deepanshu verma](https://github.com/iDeepverma)
 - [Aneika Blake-Laing](https://github.com/aneilaing)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
+- [Texopolis](https://github.com/texopolis)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
 - [Deepak Suthar](https://github.com/codewithdpk)
 - [Leonardo Goulart](https://github.com/LeonardoCGoulart)
