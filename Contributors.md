@@ -4,6 +4,7 @@
 - [Timothy Benton](https://github.com/humantl1)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
 - [Sheetal Patel](https://github.com/sheetal2001p)
