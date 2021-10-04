@@ -52,6 +52,7 @@
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
 - [Marco](https://github.com/Marco-Kap)
+- [ceyxasm](https://github.com/ceyxasm)
 - [Radha Krishna](https://github.com/trk286)
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
