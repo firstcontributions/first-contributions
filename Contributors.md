@@ -102,6 +102,7 @@
 - [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Anirudh Mishra](https://github.com/anirudhgray)
+- [Cloudy Botty](https://github.com/cloud-03)
 - [Vivek Joshi](https://github.com/vjvivekvj)
 - [AymanGamal](https://github.com/cod-lvr)
 - [Tom Davis](https://github.com/Kat35601)
