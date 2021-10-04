@@ -272,6 +272,7 @@ tayo360
 - [Sai Prasad](https://github.com/bsaiprasad22)
 - [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
+- [Tulsi Chopade] (https://github.com/tulsi11)
 - [Ian Mena}(https://github.com/ian0000)
 - [Merius TZ](https://github.com/MeriusTz)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
