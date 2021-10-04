@@ -27,6 +27,7 @@
 - [Behnaz Khoshnood] (https://github.com/behnazkhoshnood)
 - [JosefineFH] (https://github.com/JosefineFH)
 - [Si Lam](https://github.com/silam)
+- [Chukwuemeka Aladimma] (https://github.com/Acel-01)
 - [Akemi Murayama] (https://github.com:akemim12)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Sabri Oussama](https://github.com/Sabri01)
