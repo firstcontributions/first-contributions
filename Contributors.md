@@ -2170,6 +2170,7 @@ Himanshu Dedha
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
 - [Gustavo Barbosa](https://github.com/gusbdev)
+- [Abhinav Narang](https://github.com/abhinavn-04/)
 
 <!-- prettier-ignore-end -->
 
