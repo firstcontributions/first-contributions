@@ -374,6 +374,7 @@ Himanshu Dedha
   [MMA](https://github.com/MyatMinAung)
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
+- [Urwashi Kumrawat](https://github.com/uru0120)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
 - [Shivam Choudhary](https://github.com/ShivamChoudhary17)
 - [Aman](https://github.com/av-feaster)
