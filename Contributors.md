@@ -2137,5 +2137,6 @@ Himanshu Dedha
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 - [Aashish Duddukuri] (https://github.com/aashd)
 - [Connie Chi] (https://github.com/ConnieJChi)
+- [Jacob Beene] (https://github.com/jebeene)
 <!-- prettier-ignore-end -->
 
