@@ -2132,10 +2132,10 @@ Himanshu Dedha
 - [Ahmad Takkoush](https://github.com/ahmadtakkoush)
 - [Ashish Shaji](https://github.com/covertgravy)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
+- [JoséLuisRamos] (https://github.com/Joserra598)
 - [Aditya Sharma] (https://github.com/adityash1)
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 - [Aashish Duddukuri] (https://github.com/aashd)
 
 <!-- prettier-ignore-end -->
-
