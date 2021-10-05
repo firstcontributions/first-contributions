@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [sruly rosenblat](https://github.com/codeForX)
 - [Kimon](https://github.com/TheKimon)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Hamza Bouchikhi](https://github.com/devnart)
