@@ -2192,6 +2192,7 @@ Himanshu Dedha
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
 - [himanshu](https://github.com/DYNA-MICS)
+- [Mehak](https://github.com/mehaksareen20)
 - [Royce Dy](https://github.com/rad182)
 - [Noel Johnson](https://github.com/noel-johnson)
 
