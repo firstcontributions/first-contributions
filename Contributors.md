@@ -21,6 +21,7 @@
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
+- [Peter Walser] (https://github.com/sirofwalls)
 - [Parseluni] (https://github.com/Parseluni)
 - [Keshav Bansal] (https://github.com/keshavbansal20)
 - [Sheetal Patel](https://github.com/sheetal2001p)
