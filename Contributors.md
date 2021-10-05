@@ -3,6 +3,7 @@
 # **Contributors**
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Daniel C](https://github.com/dnzc)
+- [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Timothy Benton](https://github.com/humantl1)
 - [Anubhav Cp](https://github.com/anubhav-cp)
