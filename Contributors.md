@@ -667,6 +667,7 @@ Himanshu Dedha
 - [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
 - [Ira](https://github.com/irapandey)
+- [Dominik Samsel](https://github.com/Dominosam)
 - [Raymond Yan](https://github.com/raymond-design)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Sean Finegan](https://github.com/SFin12)
