@@ -10,6 +10,7 @@
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
+- [Zainab Fahim](https://github.com/Zainab-Fahim)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
@@ -2213,4 +2214,3 @@ Himanshu Dedha
 - [Sushil Pandey](https://github.com/Amor64)
 
 <!-- prettier-ignore-end -->
-
