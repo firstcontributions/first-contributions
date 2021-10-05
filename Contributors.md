@@ -2216,6 +2216,7 @@ Himanshu Dedha
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 - [Sushil Pandey](https://github.com/Amor64)
 - [Adri-md-1208](https://github.com/Adri-md-1208)
+- [Harshad Thombare](https://github.com/harshadt21)
 
 <!-- prettier-ignore-end -->
 
