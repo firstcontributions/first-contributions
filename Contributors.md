@@ -9,7 +9,7 @@
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
@@ -410,6 +410,7 @@ Himanshu Dedha
 - [John L.](https://github.com/bubbles91)
 - [MOHAMMED SHAMIL K](https://github.com/shamilkotta)
 - [Ritesh](https://github.com/RiteshK555)
+- [Marcelo Yates] (https://github.com/marceloayates)
 - [Ayush Mehrotra] (https://github.com/code-ayu)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Vedran Baric](https://github.com/vedranb7)
@@ -2192,4 +2193,3 @@ Himanshu Dedha
 - [Royce Dy](https://github.com/rad182)
 
 <!-- prettier-ignore-end -->
-
