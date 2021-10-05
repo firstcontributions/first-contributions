@@ -1009,6 +1009,7 @@ Himanshu Dedha
 - [Andrew Brady](https://github.com/andybrady52)
 - [Devin Chugh](https://github.com/devinchugh)
 - [maryamdkh](https://github.com/maryamdkh)
+- [Acigam](https://github.com/Acigam)
 - [Ayushi Dey] (https://github.com/AyushiDey)
 - [Yoltic Cruz Tello ✨🙋](https://github.com/Roseck16)
 - [Ajit Joshi](https://github.com/ajitjoshi)
@@ -2203,4 +2204,3 @@ Himanshu Dedha
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 
 <!-- prettier-ignore-end -->
-
