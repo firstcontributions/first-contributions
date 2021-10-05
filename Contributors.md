@@ -2185,6 +2185,6 @@ Himanshu Dedha
 - [Abhinav Narang](https://github.com/abhinavn-04/)
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
-
+- [Wanderson Vitorino](https://github.com/spao234)
 <!-- prettier-ignore-end -->
 
