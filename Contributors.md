@@ -11,6 +11,7 @@
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
+- [Ankit Vashisht] (https://github.com/ankit25032)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
 - [Sheetal Patel](https://github.com/sheetal2001p)
@@ -2192,4 +2193,3 @@ Himanshu Dedha
 - [Royce Dy](https://github.com/rad182)
 
 <!-- prettier-ignore-end -->
-
