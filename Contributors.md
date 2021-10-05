@@ -17,6 +17,7 @@
 - [Lily Tang](https://github.com/tang305)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
 - [Amogh Badugu](https://github.com/abadugu13/)
+- [Osama Hamad](https://github.com/osHamad)
 - [Rayza Araujo](https://github.com/araujorayza)
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
