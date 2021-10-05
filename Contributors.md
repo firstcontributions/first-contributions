@@ -155,6 +155,7 @@ Aditya Agarwal
 tayo360
 - [Muhammad Kamiel](https://github.com/kmil31)
 - [Brody Moore](https://github.com/bammoore511)
+- [Anjani Sriya](https://github.com/AnjaniSriya)
 - [not-devil](https://github.com/not-devil)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Matthew Spence](https://github.com/MrButak)
@@ -2204,4 +2205,3 @@ Himanshu Dedha
 - [Sushil Pandey](https://github.com/Amor64)
 
 <!-- prettier-ignore-end -->
-
