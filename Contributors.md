@@ -43,6 +43,7 @@
 - [J. Lin] (https://github.com/j1in)
 - [Mohammad Ali Ashraf] (https://github.com/programmingLover12)
 - [Shruthi Pillai] (https://github.com/shrum99)
+- [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
