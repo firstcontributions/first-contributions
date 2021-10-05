@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
+- [Dheeraj Panidarapu](https://github.com/D-zero-7)
 - [Daniel C](https://github.com/dnzc)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Timothy Benton](https://github.com/humantl1)
@@ -2198,4 +2199,3 @@ Himanshu Dedha
 - [Noel Johnson](https://github.com/noel-johnson)
 
 <!-- prettier-ignore-end -->
-
