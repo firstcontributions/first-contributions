@@ -752,6 +752,7 @@ Himanshu Dedha
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Shane Healy](https://github.com/Shanehealy43)
 - [Gracie Nguyen](https://github.com/cutiepurr)
+- [Faris Waiteasa](https://github.com/fariswaiteasa)
 - [Heather Barton](https://github.com/CisnePHX)
 - [Neha Anand](https://github.com/NehaAnand28)
 - [Nitin Mewar](https://github.com/nitinmewar)
