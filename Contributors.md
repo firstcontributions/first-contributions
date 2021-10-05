@@ -2187,6 +2187,7 @@ Himanshu Dedha
 - [Abhinav Narang](https://github.com/abhinavn-04/)
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
+- [himanshu](https://github.com/DYNA-MICS)
 
 <!-- prettier-ignore-end -->
 
