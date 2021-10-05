@@ -2215,6 +2215,7 @@ Himanshu Dedha
 - [Kevin Grimsley](https://github.com/kevin-grimsley)
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 - [Sushil Pandey](https://github.com/Amor64)
+- [Adri-md-1208](https://github.com/Adri-md-1208)
 
 <!-- prettier-ignore-end -->
 
