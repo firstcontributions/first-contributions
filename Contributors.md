@@ -11,6 +11,7 @@
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
+- [Ahmad Raza](https://github.com/AhmadRaza09)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
 - [Sheetal Patel](https://github.com/sheetal2001p)
@@ -2200,4 +2201,3 @@ Himanshu Dedha
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 
 <!-- prettier-ignore-end -->
-
