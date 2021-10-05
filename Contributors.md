@@ -8,6 +8,7 @@
 - [Anubhav Cp](https://github.com/anubhav-cp)
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
+- [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
