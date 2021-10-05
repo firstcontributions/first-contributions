@@ -2087,6 +2087,7 @@ Himanshu Dedha
 - [Meghan McFadden](https://github.com/meghanmcfadden)
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [ss]
+- [Aaron Jeskie](https://github.com/ajesk)
 - [Shofiya Bootwala](https://github.com/Shofiya2003)
 - [muzizi727](https://github.com/muzizi727/)
 - [Saadoun Dhirat](https://github.com/saadoundhirat)
