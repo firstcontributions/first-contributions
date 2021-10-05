@@ -210,6 +210,7 @@ tayo360
 - [Debodyuti Biswas](https://github.com/debodyuti1)
 - [Ali Amjad](https://github.com/ali1059)
 - [Manas Tiwari](https://github.com/Manas-Tiwari)
+- [Sherene C](https://github.com/ShereneC)
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Raghav](https://github.com/never-code)
 - [Durgesh Kumar Meena](https://github.com/durgeshmeena)
