@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Kimon](https://github.com/TheKimon)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Hamza Bouchikhi](https://github.com/devnart)
 - [Daniel C](https://github.com/dnzc)
