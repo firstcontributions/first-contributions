@@ -88,6 +88,7 @@
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
+- [Punkalope] (https://github.com/Punkalope)
 - [Daberechi Okorie](https://github.com/Dahbaeraychy)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
