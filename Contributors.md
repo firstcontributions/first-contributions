@@ -47,6 +47,7 @@
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
+- [Ritika Garg]()
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Abdulhakeem Adefioye](https://github.com/Adefioye)
 - [Ayush Yadav] (https://github.com/yadav-ayush)
