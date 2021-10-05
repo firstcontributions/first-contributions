@@ -179,6 +179,7 @@ tayo360
 - [Omkar Vichare](https://github.com/Omkar845)
 - [aeron34](https://github.com/aeron34)
 - [sehgxl](https://github.com/sehgxl)
+- [jasveer](https://github.com/jasveer123)
 - [Rishi Kashyap](https://github.com/incarnate87)
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
