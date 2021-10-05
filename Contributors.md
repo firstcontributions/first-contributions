@@ -2092,6 +2092,7 @@ Himanshu Dedha
 - [NewMountain](https://github.com/NewMountain)
 - Lazy1
 - [Sumit Banwakade](https://github.com/Sumit4482)
+- [Gaurav Dalal](https://github.com/gdalal49)
 - [Danny Nguyen](https://github.com/LavaDanny)
 - [Alok Verma](https://github.com/alokverma749)
 - [Agung Kurnia Robbi](https://github.com/agungrobbi)
