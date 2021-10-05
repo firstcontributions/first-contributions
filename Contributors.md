@@ -1264,6 +1264,7 @@ Himanshu Dedha
 - [Jabbar Bie](https://github.com/jabbarbie)
 - [Egidio De-Souza](https://github.com/EgidioDe-Souza)
 - [Fatemeh Khaledian](https://github.com/fatemehkhaledian)
+- [Sethcbs] (https://github.com/Sethcbs)
 - [Mahmoud Hussein](https://github.com/MhmoudAlim)
 - [Joe Forrester](https://github.com/cujaf6)
 - [Uduru0522](https://github.com/Uduru0522)
