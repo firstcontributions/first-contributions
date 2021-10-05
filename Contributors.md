@@ -2197,6 +2197,7 @@ Himanshu Dedha
 - [Mehak](https://github.com/mehaksareen20)
 - [Royce Dy](https://github.com/rad182)
 - [Noel Johnson](https://github.com/noel-johnson)
+- [Axelle Lança](https://github.com/axellelanca)
 
 <!-- prettier-ignore-end -->
 
