@@ -804,6 +804,7 @@ Himanshu Dedha
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
 - [Ayoub Abidi](https://github.com/ayoub3bidi)
 - [SomStar](https://github.com/Somnath-swami)
+- [MaazMahmood](https://github.com/maazm007)
 - [Carlea Baker](https://github.com/cbaker0)
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
