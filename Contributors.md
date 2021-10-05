@@ -567,6 +567,7 @@ Himanshu Dedha
 - [Arjun](https://github.com/Arjun6112)
 - [Kaushik](https://github.com/KaushikKC)
 - [Ansi007/Anns Shahbaz](https://github.com/Ansi007)
+- [ashleyperez1234](https://github.com/ashleyperez123/)
 - [Nakul Londhe](https://github.com/nakullondhe)
 - [Shantanu Nighot](https://github.com/magbanum)
 - [Karol Wojcik](https://github.com/karolwjck)
