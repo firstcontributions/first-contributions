@@ -7,6 +7,7 @@
 - [Daniel C](https://github.com/dnzc)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
+- [Matt McKenna](https://github.com/smvgggsdd)
 - [Timothy Benton](https://github.com/humantl1)
 - [Anubhav Cp](https://github.com/anubhav-cp)
 [Hemant Raj](https://github.com/hemant767)
