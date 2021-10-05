@@ -2126,6 +2126,6 @@ Himanshu Dedha
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 - [Aashish Duddukuri] (https://github.com/aashd)
-
+- [Atique vellore] (https://github.com/atiquevellore)
 <!-- prettier-ignore-end -->
 
