@@ -161,6 +161,7 @@ Aditya Agarwal
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 - [Ramiro Solis](https://github.com/Solis1)
 tayo360
+  [James Byford](https://github.com/Jbyford89)
 - [Muhammad Kamiel](https://github.com/kmil31)
 - [Brody Moore](https://github.com/bammoore511)
 - [not-devil](https://github.com/not-devil)
