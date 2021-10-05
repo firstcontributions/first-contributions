@@ -2192,6 +2192,6 @@ Himanshu Dedha
 - [Paras Aghija](https://github.com/paras-aghija)
 - [himanshu](https://github.com/DYNA-MICS)
 - [Royce Dy](https://github.com/rad182)
-
+- [Jonathan Karlsen](https://github.com/jonathan-norway)
 <!-- prettier-ignore-end -->
 
