@@ -15,6 +15,7 @@
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
+- [Serhat Bek](https://github.com/serhatbek)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
@@ -2232,4 +2233,3 @@ Himanshu Dedha
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
 
 <!-- prettier-ignore-end -->
-
