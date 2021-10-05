@@ -2200,6 +2200,7 @@ Himanshu Dedha
 - [Royce Dy](https://github.com/rad182)
 - [Noel Johnson](https://github.com/noel-johnson)
 - [Sayan Sahu](https://github.com/SayanSahu99/)
+- [Sushil Pandey](https://github.com/Amor64)
 
 <!-- prettier-ignore-end -->
 
