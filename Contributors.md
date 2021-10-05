@@ -609,6 +609,7 @@ Himanshu Dedha
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Charitha Laksri Udawatta](https://github.com/charithau)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
+- [Akram Narejo](https://github.com/akramnarejo)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
 - [(Gauransh Juneja)](https://github.com/GaushJ)
 - [John Gilpin](https://github.com/jgilpn)
