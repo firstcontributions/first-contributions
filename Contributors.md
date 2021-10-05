@@ -438,6 +438,7 @@ Himanshu Dedha
 - [Aashish Illa](https://github.com/aashish0909)
 - [Shikonn Tamanegi](https://github.com/Shikunsh)
 - [Aditya Shahari](https://github.com/Aditya-Shahari)
+- [Editha Karina Hermawan](https://github.com/edithakarina)
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
