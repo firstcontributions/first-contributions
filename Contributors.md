@@ -2193,6 +2193,7 @@ Himanshu Dedha
 - [Paras Aghija](https://github.com/paras-aghija)
 - [himanshu](https://github.com/DYNA-MICS)
 - [Royce Dy](https://github.com/rad182)
+- [Noel Johnson](https://github.com/noel-johnson)
 
 <!-- prettier-ignore-end -->
 
