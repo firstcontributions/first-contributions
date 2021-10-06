@@ -16,7 +16,7 @@
 - [Somesh Mehta]
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
@@ -2225,6 +2225,7 @@ Himanshu Dedha
 - [Adri-md-1208](https://github.com/Adri-md-1208)
 - [Harshad Thombare](https://github.com/harshadt21)
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
+- [Lucy Shen](https://github.com/lyrratic)
 
 <!-- prettier-ignore-end -->
 
