@@ -17,6 +17,7 @@
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
+- [Abhishek Vaish](https://github.com/abhishekv5055)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
@@ -2241,4 +2242,3 @@ Himanshu Dedha
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
 
 <!-- prettier-ignore-end -->
-
