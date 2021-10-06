@@ -1952,6 +1952,7 @@ Himanshu Dedha
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
 - [Darren Odi](https://github.com/darrenodi)
 - [Oz](https://github.com/Ozay0900)
+- [Soham Datta](https://github.com/sohamdata)
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
 - [Mayank Singh Negi](https://github.com/Mayank242002)
 - [Cade Cuddy](https://github.com/cadecuddy)
