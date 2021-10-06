@@ -92,6 +92,7 @@
 - [ceyxasm](https://github.com/ceyxasm)
 - [Radha Krishna](https://github.com/trk286)
 - [Hadia Noor](https://github.com/Hadia-Noor)
+- [Kumar Abhishek](https://github.com/krptic07)
 - [Palak Thakur](https://github.com/Plk116)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
@@ -2246,4 +2247,3 @@ Himanshu Dedha
 - [Elsnmr](https://github.com/elsnmr)
 
 <!-- prettier-ignore-end -->
-
