@@ -8,7 +8,7 @@
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Timothy Benton](https://github.com/humantl1)
 - [Anubhav Cp](https://github.com/anubhav-cp)
--[Hemant Raj 001](https://github.com/hemant767)
+- [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
