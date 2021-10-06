@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Shagun Bose](https://github.com/shagunBose)
+- [Jared Whitlock](https://github.com/Drone14)
 - [sruly rosenblat](https://github.com/codeForX)
 - [Kimon](https://github.com/TheKimon)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
