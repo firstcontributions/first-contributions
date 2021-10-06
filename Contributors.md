@@ -2250,6 +2250,7 @@ Himanshu Dedha
 - [Christian Viramontes](https://github.com/icryeverytime)
 - [Elsnmr](https://github.com/elsnmr)
 - [Juan](https://github.com/Juan-A-Jimenez))
+- [Adrian Petschenka](https://github.com/apetschenka)
 
 <!-- prettier-ignore-end -->
 
