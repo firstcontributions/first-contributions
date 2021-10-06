@@ -66,6 +66,7 @@
 - [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
+- [Sheryl Delrosario] (https://github.com/sheryldelrosario)
 - [Ritika Garg]()
 - [Sourabh Raut] ( https://github.com/xsraut )
 - [ali M](https://github.com/amarinas)
