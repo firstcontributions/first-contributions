@@ -56,6 +56,7 @@
 - [Eunjnnn] (https://github.com/Eunjnnn)
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Poorva Gupta] (https://github.com/poorvaa18)
+- [Nimesha Chathurangi] (https://github.com/Nimesha1996)
 - [Austin Nicholas] (https://github.com/adenix)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Pedro Ferreira] (https://github.com/bacilo)
