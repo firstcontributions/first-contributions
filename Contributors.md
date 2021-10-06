@@ -19,6 +19,7 @@
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
+- [Ashley Lampard](https://github.com/Cerulean-Ash)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
@@ -2257,4 +2258,3 @@ Himanshu Dedha
 - [Adrian Petschenka](https://github.com/apetschenka)
 
 <!-- prettier-ignore-end -->
-
