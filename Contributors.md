@@ -2262,6 +2262,7 @@ Himanshu Dedha
 - [Elsnmr](https://github.com/elsnmr)
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
+- [Rizel Scarlett](https://github.com/blackgirlbytes)
 
 <!-- prettier-ignore-end -->
 
