@@ -25,7 +25,7 @@
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Peter Walser] (https://github.com/sirofwalls)
@@ -2264,6 +2264,6 @@ Himanshu Dedha
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
+- [Hetarth Chopra] (https://github.com/choprahetarth)
 
 <!-- prettier-ignore-end -->
-
