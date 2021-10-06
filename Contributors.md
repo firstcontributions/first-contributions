@@ -2,7 +2,7 @@
 
 # **Contributors**
 - [Omkar Gunjal](https://github.com/omkarg1417)
-- [Shagun Bose](https://github.com/shagunBose)
+- [Shagun Bose edited](https://github.com/shagunBose)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
