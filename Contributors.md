@@ -2262,6 +2262,7 @@ Himanshu Dedha
 - [Elsnmr](https://github.com/elsnmr)
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
+- [Mridul Bhandari](https://github.com/mridulrb)
 
 <!-- prettier-ignore-end -->
 
