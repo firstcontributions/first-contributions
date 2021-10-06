@@ -2258,6 +2258,6 @@ Himanshu Dedha
 - [Elsnmr](https://github.com/elsnmr)
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
-
+- [Anthony Fischer](https://github.com/Minifish57)
 <!-- prettier-ignore-end -->
 
