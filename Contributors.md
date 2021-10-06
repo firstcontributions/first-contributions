@@ -2251,6 +2251,6 @@ Himanshu Dedha
 - [Christian Viramontes](https://github.com/icryeverytime)
 - [Elsnmr](https://github.com/elsnmr)
 - [Adrian Petschenka](https://github.com/apetschenka)
-
+- [Aastha Jha](https://github.com/aastha12)
 <!-- prettier-ignore-end -->
 
