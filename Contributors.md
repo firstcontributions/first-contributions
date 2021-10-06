@@ -178,6 +178,7 @@
 - [Prakhar Shukla](https://github.com/prakharshukla)
 Aditya Agarwal
 - [Dishant](https://github.com/Dishant2001)
+-[Frederick Ofori-Boadu Osei](https://github.com/FrederickOB)
 - [Jishnu Biju](https://github.com/Jishnu075)
 - [Mateus Elias](https://github.com/mateuseap)
 - [Pla Benjamin](https://github.com/benjaminPla)
@@ -2266,4 +2267,3 @@ Himanshu Dedha
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 
 <!-- prettier-ignore-end -->
-
