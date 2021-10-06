@@ -94,6 +94,7 @@
 - [Radha Krishna](https://github.com/trk286)
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Palak Thakur](https://github.com/Plk116)
+- [Luis Rondon](https://github.com/luis2605)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
