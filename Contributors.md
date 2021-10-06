@@ -2250,6 +2250,7 @@ Himanshu Dedha
 - [Christian Viramontes](https://github.com/icryeverytime)
 - [Elsnmr](https://github.com/elsnmr)
 - [Sascha Nockel](https://github.com/saschanockel)
+- [Adrian Petschenka](https://github.com/apetschenka)
 
 <!-- prettier-ignore-end -->
 
