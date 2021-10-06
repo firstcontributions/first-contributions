@@ -37,6 +37,7 @@
 - [Keshav Bansal] (https://github.com/keshavbansal20)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
+- [Riz Delos Reyes](https://github.com/vantevie)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
 - [Raghav Agrawal](https://github.com/agraghav26)
 - [Christine Amuzie](https://github.com/broaderimpact)
