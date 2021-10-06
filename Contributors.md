@@ -13,6 +13,7 @@
 - [Kimon](https://github.com/TheKimon)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Hamza Bouchikhi](https://github.com/devnart)
+- [Ganache99](https://github.com/Ganache99)
 - [Daniel C](https://github.com/dnzc)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
