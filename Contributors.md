@@ -2271,6 +2271,7 @@ Himanshu Dedha
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
+- [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 
 <!-- prettier-ignore-end -->
 
