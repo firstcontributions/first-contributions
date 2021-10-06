@@ -2239,6 +2239,7 @@ Himanshu Dedha
 - [Adri-md-1208](https://github.com/Adri-md-1208)
 - [Harshad Thombare](https://github.com/harshadt21)
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
+- [Christian Viramontes] (https://github.com/icryeverytime)
 
 <!-- prettier-ignore-end -->
 
