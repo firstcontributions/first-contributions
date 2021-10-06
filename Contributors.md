@@ -76,6 +76,7 @@
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Sheryl Delrosario] (https://github.com/sheryldelrosario)
+- [Tamika Hayes] (https://github.com/TamikaHayes)
 - [Ritika Garg]()
 - [Sourabh Raut] ( https://github.com/xsraut )
 - [ali M](https://github.com/amarinas)
