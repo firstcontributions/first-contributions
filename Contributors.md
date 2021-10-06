@@ -2253,6 +2253,7 @@ Himanshu Dedha
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
 - [Christian Viramontes](https://github.com/icryeverytime)
 - [Elsnmr](https://github.com/elsnmr)
+- [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
 
 <!-- prettier-ignore-end -->
