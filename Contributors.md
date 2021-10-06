@@ -22,7 +22,7 @@
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Peter Walser] (https://github.com/sirofwalls)
@@ -65,6 +65,7 @@
 - [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
+- [Paul Lockyer] (https://github.com/aliitlebroken)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Sheryl Delrosario] (https://github.com/sheryldelrosario)
@@ -2257,4 +2258,3 @@ Himanshu Dedha
 - [Adrian Petschenka](https://github.com/apetschenka)
 
 <!-- prettier-ignore-end -->
-
