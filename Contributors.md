@@ -1949,7 +1949,6 @@ Himanshu Dedha
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
-- [Soham Datta](https://github.com/sohamdata)
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
 - [Darren Odi](https://github.com/darrenodi)
 - [Oz](https://github.com/Ozay0900)
