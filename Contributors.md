@@ -2227,6 +2227,7 @@ Himanshu Dedha
 - [Sav](https://github.com/Harchok)
 - [malufreirejau](https://github.com/malufreirejau)
 - [chelle](https://github.com/cgentemann)
+- [Ramon Alves Rigoni](https://github.com/rrigonia)
 - [mayuri shinde](https://github.com/Mayurishinde27)
 - [Lukasz](https://github.com/lukandor)
 - [JunyouGuan](https://github.com/guanjunyou)
