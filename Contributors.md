@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Omkar Gunjal](https://github.com/omkarg1417)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
