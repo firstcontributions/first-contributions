@@ -2241,6 +2241,7 @@ Himanshu Dedha
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
 - [Aashish Duddukuri] (https://github.com/aashd)
 - [Jacob Beene] (https://github.com/jebeene)
+- [Mehak Kambo] (https://github.com/MehakKambo)
 - [Simran Keshri](https://github.com/sims-keshri)
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
