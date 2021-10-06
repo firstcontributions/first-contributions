@@ -391,6 +391,7 @@ Himanshu Dedha
 - [Antonio Martinez](https://github.com/op3n-signal)
 - [Erick Sanchez Vital](https://github.com/Erick-vital)
 - [Eyal lampel](https://github.com/eyallampel1)
+- [Aman Kumar](https://github.com/aman2kumar)
 - [Panshak Solomon](https://github.com/Panshak)
 - [Shivanagouda S A](https://github.com/shivu2002a)
 - [cookiies](https://github.com/cookiies)
