@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Omkar Gunjal](https://github.com/omkarg1417)
+- [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ketan Saraf](https://github.com/Keshraf)
