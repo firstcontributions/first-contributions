@@ -11,6 +11,7 @@
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Matt McKenna](https://github.com/smvgggsdd)
 - [Timothy Benton](https://github.com/humantl1)
+- [iamjusky](https://github.com/iamjusky)
 - [Anubhav Cp](https://github.com/anubhav-cp)
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
