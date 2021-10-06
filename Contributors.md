@@ -2250,6 +2250,7 @@ Himanshu Dedha
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
 - [himanshu](https://github.com/DYNA-MICS)
+- [Dendi Prayogo Hidayat](https://github.com/xdendix)
 - [Ruben Corona](https://github.com/RubenCJ)
 - [Mehak](https://github.com/mehaksareen20)
 - [Royce Dy](https://github.com/rad182)
@@ -2266,6 +2267,5 @@ Himanshu Dedha
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
-
 <!-- prettier-ignore-end -->
 
