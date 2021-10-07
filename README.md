@@ -168,7 +168,7 @@ git push https://this-is-you:personal_access_token@github.com/this-is-you/first-
 ```
 
 replacing `this-is-you` with your username and `personal_access_token` with the token generated using these 
-<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">steps </a>. 
+<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">steps</a>. 
 
 ## Submit your changes for review
 
