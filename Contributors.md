@@ -2306,5 +2306,6 @@ Himanshu Dedha
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 - [Vinay vallabineni](https://github.com/vinayv-456)
 - [David Wobido](https://github.com/davidwobido)
+- [Sohini Joarder](https://github.com/SohinijRover)
 
 <!-- prettier-ignore-end -->
