@@ -1231,6 +1231,7 @@ Himanshu Dedha
 - [Thang Cao](https://github.com/shiyoline)
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Kify](https://github.com/Kify7)
+- [Simeon Kenneth Tobechi](https://github.com/kenRelic)
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Valentino Malvarmo](https://github.com/valentarmo)
 - [Fabian Pijcke](https://github.com/shepard8)
