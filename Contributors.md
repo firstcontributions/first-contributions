@@ -14,6 +14,7 @@
 - [sruly rosenblat](https://github.com/codeForX)
 - [MostafaKMilly](https://github.com/MostafaKMilly)
 - [Kimon](https://github.com/TheKimon)
+- [Nihal Dias](https://github.com/nrd26)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Hamza Bouchikhi](https://github.com/devnart)
 - [Ganache99](https://github.com/Ganache99)
