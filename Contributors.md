@@ -2228,6 +2228,7 @@ Himanshu Dedha
 - [Sushil Pandey](https://github.com/Amor64)
 - [Adri-md-1208](https://github.com/Adri-md-1208)
 - [Harshad Thombare](https://github.com/harshadt21)
+- [Brady Cargle](https://github.com/bradycargle)
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
 
 <!-- prettier-ignore-end -->
