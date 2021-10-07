@@ -111,6 +111,7 @@
 - [Ayush Yadav] (https://github.com/yadav-ayush)
 - [Hesbon Mokua] (https://github.com/hezthewolf)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
+- [Łukasz Makowski](https://github.com/lukmak0394)
 - [Vibhu kumar Singh](https://github.com/Vibhukumar10)
 - [Meet Mehta](https://github.com/mehtameet2802)
 - [Tejas](https://github.com/tm2k23)
