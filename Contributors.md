@@ -11,6 +11,7 @@
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
 - [Saswata Majumdar](https://github.com/Sas1999)
+- [Soham Ghosh](https://github.com/sohamghosh1509)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Alice Springfeld](https://github.com/alicespringfeld)
 - [Pedro Veríssimo](https://github.com/pbv2)
