@@ -83,6 +83,7 @@
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Sabri Oussama](https://github.com/Sabri01)
 - [Max VanReynegom](https://github.com/maxvrdev)
+- [jrojas] (https://github.com/jrojas10)
 - [Fernando Blum Garcia](https://github.com/fblumgarcia)
 - [Eunjnnn] (https://github.com/Eunjnnn)
 - [Rhona] (https://github.com/rhonall)
