@@ -1,6 +1,4 @@
 <!-- prettier-ignore-start -->
-
-# **Contributors**
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Omkar Gunjal](https://github.com/omkarg1417)
@@ -18,6 +16,7 @@
 - [Hamza Bouchikhi](https://github.com/devnart)
 - [Ganache99](https://github.com/Ganache99)
 - [Daniel C](https://github.com/dnzc)
+- [Pranai Raj](https://github.com/Pranai2518)
 - [Agaramudhala](https://github.com/agaramudhala)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
