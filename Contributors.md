@@ -417,6 +417,7 @@ Himanshu Dedha
 - [Tanishq Sardana](https://github.com/tanishqsardana)
 - [Md Adil Irshad] (https://github.com/adil14788)
 - [BladeMaster]
+- [Michael Jonatan Covarrubias](https://github.com/mcova1992)
 - [Sudhansu Toppo] (https://github.com/sudhansukinng)
 - [Pranav Wadhwa](https://github.com/nav-28)
 - [Muhammed Hilal](https://github.com/hilalsidhic)
@@ -2279,4 +2280,3 @@ Himanshu Dedha
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 
 <!-- prettier-ignore-end -->
-
