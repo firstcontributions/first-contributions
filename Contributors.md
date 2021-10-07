@@ -15,6 +15,7 @@
 - [Soham Ghosh](https://github.com/sohamghosh1509)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Alice Springfeld](https://github.com/alicespringfeld)
+- [Tom Kennedy](https://github.com/Skyrub-dev)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)
