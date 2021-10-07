@@ -2219,7 +2219,7 @@ Himanshu Dedha
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
- - Dan Tcheche
+- Dan Tcheche
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Kimberley Torres](https://github.com/kim-tor)
@@ -2267,6 +2267,8 @@ Himanshu Dedha
 - [Kevin Grimsley](https://github.com/kevin-grimsley)
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 - [Insiya Khedapa] (https://github.com/Insiya-Decoded)
+- [Joshua Smith] (https://github.com/smithtanium)
+- 
 - [Sushil Pandey](https://github.com/Amor64)
 - [Adri-md-1208](https://github.com/Adri-md-1208)
 - [Harshad Thombare](https://github.com/harshadt21)
@@ -2277,6 +2279,6 @@ Himanshu Dedha
 - [Adrian Petschenka](https://github.com/apetschenka)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
-
+- 
 <!-- prettier-ignore-end -->
 
