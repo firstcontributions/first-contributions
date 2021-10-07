@@ -4,6 +4,7 @@
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
+- [Robert West](https://github.com/rolewest)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ketan Saraf](https://github.com/Keshraf)
