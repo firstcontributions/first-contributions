@@ -2049,6 +2049,7 @@ Himanshu Dedha
 - [Andrey Firsov](https://github.com/avfirsov)
 - [JammUtkarsh](https://github.com/JammUtkarsh)
 - [João Rosso](https://github.com/joaorosso)
+- [Denizcan Boyraz](https://github.com/dboyraz)
 -_[Thiago Rider Augusto](https://github.com/thiagorider)
 - [Joseph Chan](https://github.com/jchanke)
 - [kevinvu184](https://github.com/kevinvu184)
