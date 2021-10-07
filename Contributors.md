@@ -2282,6 +2282,7 @@ Himanshu Dedha
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
 - [Christian Viramontes](https://github.com/icryeverytime)
 - [Elsnmr](https://github.com/elsnmr)
+- [Riitta Gerhards](https://github.com/riittagerhards)
 - [DarlsyLida](https://github.com/DarlsyLida/)
 - [Adrian Petschenka](https://github.com/apetschenka)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
@@ -2289,4 +2290,3 @@ Himanshu Dedha
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 
 <!-- prettier-ignore-end -->
-
