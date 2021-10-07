@@ -33,7 +33,7 @@
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Nasreen Khalid](https://github.com/NasreenKhalid)
 - [Abideen Bello] (https://github.com/bideeen)
@@ -79,6 +79,7 @@
 - [ba-13] (https://github.com/ba-13)
 - [J. Lin] (https://github.com/j1in)
 - [Mohammad Ali Ashraf] (https://github.com/programmingLover12)
+- [Debbie Sieu](https://github.com/shiningflutes)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
@@ -2287,4 +2288,3 @@ Himanshu Dedha
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 
 <!-- prettier-ignore-end -->
-
