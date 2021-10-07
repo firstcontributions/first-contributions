@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Julian Lopez](https://github.com/Juliandreslopez)
+- [Aman Borse](https://github.com/aman162000)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
@@ -2283,4 +2284,3 @@ Himanshu Dedha
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 
 <!-- prettier-ignore-end -->
-
