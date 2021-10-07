@@ -65,7 +65,7 @@
 - [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
-- [Paul Lockyer] (https://github.com/aliitlebroken)
+- [Paul Lockyer](https://github.com/aliitlebroken)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Sheryl Delrosario] (https://github.com/sheryldelrosario)
