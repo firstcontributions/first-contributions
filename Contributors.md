@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Julian Lopez](https://github.com/Juliandreslopez)
+- [Olly Overend](https://github.com/OliverOverend)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
