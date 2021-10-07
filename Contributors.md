@@ -1334,6 +1334,7 @@ Himanshu Dedha
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
 - [Max Notarangelo](https://github.com/MaxNotarangelo)
 - [Gustavo Kenji](https://github.com/GustavoKenji)
+- [Alexander](https://github.com/avramch)
 - [William Dias](https://github.com/Williamaia)
 - [Marut Dhungana](https://github.com/consciousness11)
 - [Paulami Bhattacharya](https://github.com/paulamib123)
