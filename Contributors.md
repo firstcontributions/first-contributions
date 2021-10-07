@@ -18,6 +18,7 @@
 - [Hamza Bouchikhi](https://github.com/devnart)
 - [Ganache99](https://github.com/Ganache99)
 - [Daniel C](https://github.com/dnzc)
+- [Agaramudhala](https://github.com/agaramudhala)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Matt McKenna](https://github.com/smvgggsdd)
