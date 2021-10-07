@@ -121,6 +121,7 @@
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
 - [Punkalope] (https://github.com/Punkalope)
+- [Anke Pfeiffer] (https://github.com/AnkePfei2fer)
 - [Daberechi Okorie](https://github.com/Dahbaeraychy)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
