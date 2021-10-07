@@ -833,6 +833,7 @@ Himanshu Dedha
 - [Harshit Vaish](https://github.com/Harshit036)
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
+- [Leonard Ugorji](https://github.com/LeoUCon)
 - [Atishay J](https://github.com/Atishay-J)
 - [Aniruddha Bag](https://github.com/aniruddhabag3)
 - [Divonil Liquid](https://github.com/DivonilLiquid)
