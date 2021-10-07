@@ -8,6 +8,7 @@
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Hendrik Welschoff](https://github.com/welschoff)
+- [Jo Anna Mollman](https://github.com/jodi08)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
