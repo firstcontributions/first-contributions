@@ -2309,5 +2309,6 @@ Himanshu Dedha
 - [Vinay vallabineni](https://github.com/vinayv-456)
 - [David Wobido](https://github.com/davidwobido)
 - [Sohini Joarder](https://github.com/SohinijRover)
+- [Frank Wu](https://github.com/frankwuzp)
 
 <!-- prettier-ignore-end -->
