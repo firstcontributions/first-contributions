@@ -2254,6 +2254,7 @@ Himanshu Dedha
 - [Ashish Shaji](https://github.com/covertgravy)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
 - [Aditya Sharma] (https://github.com/adityash1)
+- [Lassoued Zied](https://github.com/Ziedlassoued)
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Lara Giuliana](https://github.com/laragiuliana)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
@@ -2287,7 +2288,7 @@ Himanshu Dedha
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
-- [Lassoued Zied](https://github.com/Ziedlassoued)
+
 
 <!-- prettier-ignore-end -->
 
