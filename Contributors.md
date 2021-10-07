@@ -5,6 +5,7 @@
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Olly Overend](https://github.com/OliverOverend)
+- [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Omkar Gunjal](https://github.com/omkarg1417)
