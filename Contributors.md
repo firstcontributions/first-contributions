@@ -29,6 +29,7 @@
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
 - [WaiSkats] (https://github.com/WaiSkats)
+- [Manhar Joshi](https://github.com/major-taser)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
@@ -2286,4 +2287,3 @@ Himanshu Dedha
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 
 <!-- prettier-ignore-end -->
-
