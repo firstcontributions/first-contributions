@@ -24,6 +24,7 @@
 - [Anubhav Cp](https://github.com/anubhav-cp)
 - [Divyanshu Tiwari](https://github.com/divyanshutw)
 [Hemant Raj](https://github.com/hemant767)
+- [Ankur Singh Chauhan] (https://github.com/progressive-coder-ankur)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Somesh Mehta]
 - [WaiSkats] (https://github.com/WaiSkats)
@@ -2283,4 +2284,3 @@ Himanshu Dedha
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 
 <!-- prettier-ignore-end -->
-
