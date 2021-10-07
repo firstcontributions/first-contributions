@@ -32,6 +32,7 @@
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
+- [Nasreen Khalid](https://github.com/NasreenKhalid)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Peter Walser] (https://github.com/sirofwalls)
 - [Parseluni] (https://github.com/Parseluni)
