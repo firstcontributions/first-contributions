@@ -1211,6 +1211,7 @@ Himanshu Dedha
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Kify](https://github.com/Kify7)
 - [Sebastian Puig](https://github.com/patanpuig)
+- [Valentino Malvarmo](https://github.com/valentarmo)
 - [Fabian Pijcke](https://github.com/shepard8)
 - [linteresting](https://github.com/Linteresting)
 - [Fatih Aydin](https://github.com/fatay)
