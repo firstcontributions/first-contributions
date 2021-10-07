@@ -2316,5 +2316,7 @@ Himanshu Dedha
 - [David Wobido](https://github.com/davidwobido)
 - [Sohini Joarder](https://github.com/SohinijRover)
 - [Frank Wu](https://github.com/frankwuzp)
+- [Rio Cantre](https://github.com/RioCantre)
+
 
 <!-- prettier-ignore-end -->
