@@ -2038,6 +2038,7 @@ Himanshu Dedha
 - [Samson Lannister](https://github.com/SAMSONEE)
 - [Ryan Schwab](https://github.com/schwabfour)
 - [Ömer Davarcı](https://github.com/odavarci)
+- [Soer Robin](https://github.com/soer-robin)
 - [RedFox0x20](https://github.com/RedFox0x20)
 - [glide143](https://github.com/glide143)
 - [Mariusz Git](https://github.com/mariuszgit)
