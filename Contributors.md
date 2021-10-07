@@ -16,6 +16,7 @@
 - [Shagun Bose](https://github.com/shagunBose)
 - [Alice Springfeld](https://github.com/alicespringfeld)
 - [Pedro Veríssimo](https://github.com/pbv2)
+- [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
 - [Alice Petzinger](https://github.com/alicepetzinger)
