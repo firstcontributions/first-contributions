@@ -52,6 +52,7 @@
 - [Rayza Araujo](https://github.com/araujorayza)
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
+- [Julian Schumacher](https://github.com/JulianSchumacher99
 - [mariete1223](https://github.com/mariete1223)
   [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
 - [Varun Patel](https://github.com/varunpatel07)
@@ -2289,4 +2290,3 @@ Himanshu Dedha
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 
 <!-- prettier-ignore-end -->
-
