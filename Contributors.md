@@ -30,7 +30,7 @@
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
-- [Ayush Singh](https://github.com/AyushSingh-github) 
+- [Ayush Singh](https://github.com/AyushSingh-github)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Peter Walser] (https://github.com/sirofwalls)
@@ -648,6 +648,7 @@ Himanshu Dedha
 - [Sarfaraz Khan](https://github.com/GoogolDKhan)
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
+  [Ayushi Jaiswal](https://github.com/ayushi25jaiswal)
 - [Rishabh Jha](https://github.com/bruteF04C3)
 - [Aliffiqri Agwar](https://github.com/SorrowInRain)
 - [Dan Kollar](https://github.com/dkollar)
@@ -2281,4 +2282,3 @@ Himanshu Dedha
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 
 <!-- prettier-ignore-end -->
-
