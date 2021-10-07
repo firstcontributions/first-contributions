@@ -15,6 +15,7 @@
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
+- [Alice Petzinger](https://github.com/alicepetzinger)
 - [sruly rosenblat](https://github.com/codeForX)
 - [MostafaKMilly](https://github.com/MostafaKMilly)
 - [Kimon](https://github.com/TheKimon)
