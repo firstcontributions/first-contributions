@@ -2281,6 +2281,7 @@ Himanshu Dedha
 - [Adrian Petschenka](https://github.com/apetschenka)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
+- [Ricardo Watanabe Bento](https://github.com/roicoroy)
 
 <!-- prettier-ignore-end -->
 
