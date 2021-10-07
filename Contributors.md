@@ -1,8 +1,10 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Olly Overend](https://github.com/OliverOverend)
+- [Hendrik Welschoff](https://github.com/welschoff)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
@@ -2289,4 +2291,3 @@ Himanshu Dedha
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 
 <!-- prettier-ignore-end -->
-
