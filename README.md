@@ -161,6 +161,15 @@ git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
+If you get 'permission denied' error while pushing your code, try this:
+
+```
+git push https://this-is-you:personal_access_token@github.com/this-is-you/first-contributions.git --all
+```
+
+replacing `this-is-you` with your username and `personal_access_token` with the token generated using these 
+<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">steps </a>. 
+
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
