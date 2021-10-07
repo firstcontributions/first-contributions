@@ -38,6 +38,7 @@
 - [Divyanshu Tiwari](https://github.com/divyanshutw)
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
+- [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
