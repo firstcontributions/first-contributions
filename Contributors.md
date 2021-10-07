@@ -1036,6 +1036,7 @@ Himanshu Dedha
 - [Enes Alper Balta](https://github.com/eabalta)
 - [Eliza Nimrichter](https://github.com/rallycarza)
 - [Arshal Nuna Soren](https://github.com/arshalsoren)
+- [Manuel Schmid](https://github.com/manusmd)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
 - [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
