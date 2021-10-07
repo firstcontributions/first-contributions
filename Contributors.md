@@ -5,6 +5,7 @@
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
+- [Saswata Majumdar](https://github.com/Sas1999)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ketan Saraf](https://github.com/Keshraf)
