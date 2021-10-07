@@ -2305,5 +2305,6 @@ Himanshu Dedha
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
 - [David Wobido](https://github.com/davidwobido)
+- [Sohini Joarder](https://github.com/SohinijRover)
 
 <!-- prettier-ignore-end -->
