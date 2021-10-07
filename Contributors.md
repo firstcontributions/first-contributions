@@ -8,6 +8,7 @@
 - [Robert West](https://github.com/rolewest)
 - [Saswata Majumdar](https://github.com/Sas1999)
 - [Shagun Bose](https://github.com/shagunBose)
+- [Alice Springfeld](https://github.com/alicespringfeld)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
