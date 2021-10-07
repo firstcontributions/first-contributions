@@ -2287,6 +2287,6 @@ Himanshu Dedha
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
-
+- [Evgenios Pampoukos](https://github.com/Evgenios95)
 <!-- prettier-ignore-end -->
 
