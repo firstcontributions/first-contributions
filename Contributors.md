@@ -2304,6 +2304,7 @@ Himanshu Dedha
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Djakson Cleber Gonçalves Filho](https://github.com/djakinho)
 - [Ricardo Watanabe Bento](https://github.com/roicoroy)
+- [Vinay vallabineni](https://github.com/vinayv-456)
 - [David Wobido](https://github.com/davidwobido)
 
 <!-- prettier-ignore-end -->
