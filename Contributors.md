@@ -794,6 +794,7 @@ Himanshu Dedha
 - [Rishabh Rathore](https://github.com/rishabhrathore055)
 - [Vidhi Sinha](https://github.com/vidhisinha2002)
 - [Divyansh Bhadauria](https://github.com/divo12)
+- [Denizcan Boyraz] (https://github.com/dboyraz)
 - [Sayantan Chakraborty](https://github.com/chakrabortysayantan699)
 - [Matthias Marusczyk](https://github.com/marou125)
 - [Mikegoat1](https://github.com/mikegoat1)
