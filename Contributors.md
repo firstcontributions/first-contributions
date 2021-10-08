@@ -2358,5 +2358,6 @@ Himanshu Dedha
 - [Sarath](https://github.com/Sarath191181208)
 - [Nicole Romero](https://github.com/bniroo)
 - [Abderrahmane Issam](https://github.com/issam9)
+- [Thomas Olsen](https://github.com/thomaseolsen)
 
 <!-- prettier-ignore-end -->
