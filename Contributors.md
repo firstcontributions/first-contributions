@@ -66,6 +66,7 @@
 - [Amogh Badugu](https://github.com/abadugu13/)
 - [Osama Hamad](https://github.com/osHamad)
 - [Rayza Araujo](https://github.com/araujorayza)
+- [Harshit Kr Vishwakarma](https://github.com/HarshitRV)
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
 - [mariete1223](https://github.com/mariete1223)
