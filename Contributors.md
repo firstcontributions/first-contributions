@@ -2369,5 +2369,6 @@ Himanshu Dedha
 - [Thomas Olsen](https://github.com/thomaseolsen)
 - [Ryan Helm](https://github.com/rjhelm)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
+- [Laura Pippitt](https://github.com/laapipp)
 
 <!-- prettier-ignore-end -->
