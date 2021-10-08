@@ -18,6 +18,7 @@
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
+- [Simeon Akanbi](https://github.com/simple-codes22)
 - [Robert West](https://github.com/rolewest)
 - [Saswata Majumdar](https://github.com/Sas1999)
 - [Soham Ghosh](https://github.com/sohamghosh1509)
