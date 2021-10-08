@@ -1370,6 +1370,7 @@ Himanshu Dedha
 - [Jaime Justo](https://github.com/jaimejusto)
 - [Jesse van Veen](https://github.com/JSvanVeen)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
+- [Marcel Schliesser](https://github.com/marcelschliesser)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
 - [Max Notarangelo](https://github.com/MaxNotarangelo)
 - [Gustavo Kenji](https://github.com/GustavoKenji)
