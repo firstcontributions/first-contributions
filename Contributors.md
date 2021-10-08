@@ -772,6 +772,7 @@ Himanshu Dedha
 - [Davis Kabiswa](https://github.com/Dkabiswa)
 - [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
+- [Adithya Thejas](https://github.com/Adithej)
 - [Prateek Verma](https://github.com/PRATEEKVERMA-036)
 - [Anthony M](https://github.com/AnthonyMejia0)
 - [Abhishek bhatt](https://github.com/AbhishekBhatt072003)
