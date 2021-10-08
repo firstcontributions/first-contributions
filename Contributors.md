@@ -2371,5 +2371,5 @@ Himanshu Dedha
 - [Ryan Helm](https://github.com/rjhelm)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 - [Laura Pippitt](https://github.com/laapipp)
-
+- [Hamza Arshad](https://github.com/hamza-arshad)
 <!-- prettier-ignore-end -->
