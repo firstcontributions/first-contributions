@@ -109,6 +109,7 @@
 - [Pedro Ferreira] (https://github.com/bacilo)
 - [ba-13] (https://github.com/ba-13)
 - [J. Lin] (https://github.com/j1in)
+- [Diamond Rivero] (https://github.com/diamant3)
 - [Mohammad Ali Ashraf] (https://github.com/programmingLover12)
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [Acigam] (https://github.com/Acigam)
