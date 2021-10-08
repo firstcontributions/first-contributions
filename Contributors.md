@@ -14,6 +14,7 @@
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Jo Anna Mollman](https://github.com/jodi08)
+- [Kinzang Wangdi](https://github.com/geekbeats)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Robert West](https://github.com/rolewest)
