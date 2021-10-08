@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Amanda Cochran](https://github.com/Wildefyre116)
+- [chmodx1sh](https://github.com/chmodx1sh)
 - [Felipe Santos](https://github.com/felipesantos2)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Manuel Str_F](https://github.com/WebDevManuel)
