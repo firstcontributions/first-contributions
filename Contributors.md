@@ -2326,6 +2326,7 @@ Himanshu Dedha
 - [David Wobido](https://github.com/davidwobido)
 - [Sohini Joarder](https://github.com/SohinijRover)
 - [Frank Wu](https://github.com/frankwuzp)
+- [Gustavo Loi](https://github.com/gustavoloi)
 - [Zack Rutledge](https://github.com/Dethik)
 
 <!-- prettier-ignore-end -->
