@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Amanda Cochran](https://github.com/Wildefyre116)
 - [Felipe Santos](https://github.com/felipesantos2)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Manuel Str_F](https://github.com/WebDevManuel)
