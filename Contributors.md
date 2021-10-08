@@ -2328,5 +2328,6 @@ Himanshu Dedha
 - [Frank Wu](https://github.com/frankwuzp)
 - [Gustavo Loi](https://github.com/gustavoloi)
 - [Zack Rutledge](https://github.com/Dethik)
+- [Jose Angel](https://github.com/josearg150)
 
 <!-- prettier-ignore-end -->
