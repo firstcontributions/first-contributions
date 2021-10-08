@@ -12,6 +12,7 @@
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Hendrik Welschoff](https://github.com/welschoff)
+- [Edian Ibarrola](https://github.com/edianibarrola)
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
