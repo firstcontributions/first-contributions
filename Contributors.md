@@ -8,6 +8,7 @@
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
+- [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
