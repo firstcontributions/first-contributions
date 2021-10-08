@@ -2345,5 +2345,5 @@ Himanshu Dedha
 - [Jose Angel](https://github.com/josearg150)
 - [Amit Kumar Sharma](https://github.com/amitaks24)
 - [Nicole Romero](https://github.com/bniroo)
-
+- [Shreyansh Surana](https://github.com/fawkesG5)
 <!-- prettier-ignore-end -->
