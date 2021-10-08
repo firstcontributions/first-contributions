@@ -1533,6 +1533,7 @@ Himanshu Dedha
 - [Amber Suratte](https://github.com/asuratte)
 - [MZdravko](https://github.com/MZdravko)
 - [Sushant Daspute](https://github.com/sushantdasputepatil)
+- [midorino](https://github.com/midorino)
 - [Aaron Lee](https://github.com/sciencelee)
 - [Chris Uicab](https://github.com/moxxington)
 - [Kevin Dyke](https://github.com/KevinDyke)
