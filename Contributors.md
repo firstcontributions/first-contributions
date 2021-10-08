@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Felipe Santos](https://github.com/felipesantos2)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Olly Overend](https://github.com/OliverOverend)
