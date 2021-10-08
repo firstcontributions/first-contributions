@@ -8,6 +8,7 @@
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
+- [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Jo Anna Mollman](https://github.com/jodi08)
