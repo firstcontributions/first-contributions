@@ -110,6 +110,7 @@
 - [Tamika Hayes] (https://github.com/TamikaHayes)
 - [Devin Plumb](https://github.com/DevinPlumb)
 - [Ritika Garg]()
+- [Sangeeta Raut]
 - [Sourabh Raut] ( https://github.com/xsraut )
 - [ali M](https://github.com/amarinas)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
