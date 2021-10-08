@@ -2317,6 +2317,7 @@ Himanshu Dedha
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 - [Insiya Khedapa] (https://github.com/Insiya-Decoded)
 - [Sushil Pandey](https://github.com/Amor64)
+- [Vrushali Naik] (https://github.com/kvrush)
 - [Adri-md-1208](https://github.com/Adri-md-1208)
 - [Harshad Thombare](https://github.com/harshadt21)
 - [Brady Cargle](https://github.com/bradycargle)
