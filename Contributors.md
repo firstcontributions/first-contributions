@@ -6,6 +6,7 @@
 - [chmodx1sh](https://github.com/chmodx1sh)
 - [Felipe Santos](https://github.com/felipesantos2)
 - [Julian Lopez](https://github.com/Juliandreslopez)
+- [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
