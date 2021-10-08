@@ -417,6 +417,7 @@ Himanshu Dedha
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Shrinath](https://github.com/ShrinathNR)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
+- [Gerard Gandionco](https://github.com/Vaiterius)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
