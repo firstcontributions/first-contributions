@@ -2322,5 +2322,5 @@ Himanshu Dedha
 - [Sohini Joarder](https://github.com/SohinijRover)
 - [Frank Wu](https://github.com/frankwuzp)
 - [Zack Rutledge](https://github.com/Dethik)
-
+- [James Hawkins](https://github.com/jhawk7)
 <!-- prettier-ignore-end -->
