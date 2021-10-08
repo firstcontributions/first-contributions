@@ -2365,5 +2365,6 @@ Himanshu Dedha
 - [Abderrahmane Issam](https://github.com/issam9)
 - [Thomas Olsen](https://github.com/thomaseolsen)
 - [Ryan Helm](https://github.com/rjhelm)
+- [Juliana Ramos](https://github.com/Juliana.Rkg544)
 
 <!-- prettier-ignore-end -->
