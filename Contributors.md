@@ -315,6 +315,7 @@ tayo360
 - [Michael Nganga Njoroge](https://michaelnganga.netlify.app/#home,https://github.com/NgangaMichael)
 - [ANKESH](https://github.com/Ankesh054-official)
 - [AR10X](https://github.com/AR10X)
+- [Rodrigo R. da Silva](https://github.com/rodrigoridasi)
 - [Paul Wasilewicz](https://github.com/milk-mann)
 - [Felipe Paulo](https://github.com/FelipeUTFPR)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
