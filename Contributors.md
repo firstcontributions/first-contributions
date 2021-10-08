@@ -75,6 +75,7 @@
 - [mariete1223](https://github.com/mariete1223)
   [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
 - [Varun Patel](https://github.com/varunpatel07)
+- [Skyz03](https://github.com/Skyz03)
 - [Tim Wong] (https://github.com/timwong00)
 - [Shreenath Siriyala](https://github.com/ShreeTheTree)
 - [Soumyajoy Das](https://github.com/soumyajoydas01)
