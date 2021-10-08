@@ -2327,5 +2327,6 @@ Himanshu Dedha
 - [Sohini Joarder](https://github.com/SohinijRover)
 - [Frank Wu](https://github.com/frankwuzp)
 - [Zack Rutledge](https://github.com/Dethik)
+- [Jose Angel](https://github.com/josearg150)
 
 <!-- prettier-ignore-end -->
