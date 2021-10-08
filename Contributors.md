@@ -86,6 +86,7 @@
 - [Sukhmeet Singh](https://github.com/SukhmeetSingh2002)
 - [Junaid Ahmed] (https://github.com/junaidAhmed8819)
 - [JosefineFH] (https://github.com/JosefineFH)
+- [Diksha Malik](https://github.com/dikshamalik2552)
 - [Si Lam](https://github.com/silam)
 - [Chukwuemeka Aladimma] (https://github.com/Acel-01)
 - [Akemi Murayama] (https://github.com:akemim12)
