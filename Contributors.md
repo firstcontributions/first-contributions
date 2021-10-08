@@ -2344,6 +2344,7 @@ Himanshu Dedha
 - [Zack Rutledge](https://github.com/Dethik)
 - [Jose Angel](https://github.com/josearg150)
 - [Amit Kumar Sharma](https://github.com/amitaks24)
+- [Sarath](https://github.com/Sarath191181208)
 - [Nicole Romero](https://github.com/bniroo)
 
 <!-- prettier-ignore-end -->
