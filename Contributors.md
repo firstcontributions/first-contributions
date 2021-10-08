@@ -8,6 +8,7 @@
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Olly Overend](https://github.com/OliverOverend)
+- [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
