@@ -58,6 +58,7 @@
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github)
+- [Anmol Gupta](https://github.com/anmolg84)
 - [Shivani Kumari](https://github.com/shivanikumari631)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Nasreen Khalid](https://github.com/NasreenKhalid)
