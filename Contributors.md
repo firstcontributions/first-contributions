@@ -29,6 +29,7 @@
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
 - [Alice Petzinger](https://github.com/alicepetzinger)
+- [Manvi Pachauri](https://github.com/ManviPachauri)
 - [sruly rosenblat](https://github.com/codeForX)
 - [MostafaKMilly](https://github.com/MostafaKMilly)
 - [Kimon](https://github.com/TheKimon)
