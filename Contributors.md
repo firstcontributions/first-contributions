@@ -13,6 +13,7 @@
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
+- [Manu Peralta] (https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
