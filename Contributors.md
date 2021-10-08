@@ -151,6 +151,7 @@
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Vipul Kumar Singh](https://github.com/vipul-2003)
+- [Smruti Ranjan Malla](https://github.com/Smruti2002)
 - [Virendra Khorwal](https://github.com/Virendra-khorwal)
 - [Ayush Jain](https://github.com/not4YU5H/)
 - [Walid Palekar](https://github.com/palwd8/)
