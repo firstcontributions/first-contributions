@@ -82,6 +82,7 @@
   [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Skyz03](https://github.com/Skyz03)
+- [Jean-Baptiste Edouard](https://github.com/Jean-Baptiste-E)
 - [Tim Wong] (https://github.com/timwong00)
 - [Shreenath Siriyala](https://github.com/ShreeTheTree)
 - [Soumyajoy Das](https://github.com/soumyajoydas01)
