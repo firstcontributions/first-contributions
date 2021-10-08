@@ -2330,5 +2330,6 @@ Himanshu Dedha
 - [Gustavo Loi](https://github.com/gustavoloi)
 - [Zack Rutledge](https://github.com/Dethik)
 - [Jose Angel](https://github.com/josearg150)
+- [Amit Kumar Sharma](https://github.com/amitaks24)
 
 <!-- prettier-ignore-end -->
