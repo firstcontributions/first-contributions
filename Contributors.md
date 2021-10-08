@@ -1099,6 +1099,7 @@ Himanshu Dedha
 - [Dhwanik Panchal](https://github.com/dhwanik9)
 - [Raja Mishra](https://github.com/Raja-mishra1)
 - [Brandon Pokorny](https://github.com/Clickedbigfoot)
+- [Ellie Taghavi](https://github.com/elytgy)
 - [Sagar Maharjan](https://github.com/sagarmaharjan)
 - [Manuel Can Kaya](https://github.com/roblox99)
 - [Mansi Saini](https://github.com/msaini26)
