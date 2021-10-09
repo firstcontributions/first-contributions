@@ -549,6 +549,7 @@ Himanshu Dedha
 - [Ayush Mishra](https://github.com/Beyonday008)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [Piyush Agrawal](https://github.com/p1yu5h0)
+- [Sangeeth Sudhakar](https://github.com/sangues)
 - [Maryll Castelino](https://github.com/Maryll-castelino)
 - [Meleyotan Oyeleke](https://github.com/Meleyotan)
 - [Subham Ghosh](https://github.com/subhamgcon)
