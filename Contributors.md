@@ -12,6 +12,7 @@
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Shifaat](https://github.com/Shifaat)
 - [Sid Lais](https://github.com/Sid-Lais)
+- [Vaishnavi](https://github.com/25-vaishnavi)
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
