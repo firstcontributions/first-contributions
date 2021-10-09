@@ -2380,5 +2380,5 @@ Himanshu Dedha
 - [Lucas Native](https://github.com/LucasNative)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 - [Laura Pippitt](https://github.com/laapipp)
-
+- [Alief Ramadhan](https://github.com/itsmelief)
 <!-- prettier-ignore-end -->
