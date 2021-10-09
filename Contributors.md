@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Ernes Triandika](https://github.com/ernes1305)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
 - [Daniel C](https://github.com/dnzc)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
