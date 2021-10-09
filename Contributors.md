@@ -2381,6 +2381,7 @@ Himanshu Dedha
 - [Abderrahmane Issam](https://github.com/issam9)
 - [Thomas Olsen](https://github.com/thomaseolsen)
 - [Ryan Helm](https://github.com/rjhelm)
+- [Abhijith S S](https://github.com/ssabhijith2000)
 - [Lucas Native](https://github.com/LucasNative)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 Disguy
