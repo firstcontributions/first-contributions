@@ -2397,5 +2397,5 @@ Disguy
 - [Alief Ramadhan](https://github.com/itsmelief)
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
 - [Mel Brandão](https://github.com/melbzzz)
-
+- [Fernando Viveros](https://github.com/xFerchoVJ)
 <!-- prettier-ignore-end -->
