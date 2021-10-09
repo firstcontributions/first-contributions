@@ -2399,5 +2399,6 @@ Disguy
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
 - [Mel Brandão](https://github.com/melbzzz)
 - [Syed Kawish Qayyum](https://github.com/kawishqayyum)
+- [ajtroyer](https://github.com/ajtroyer)
 
 <!-- prettier-ignore-end -->
