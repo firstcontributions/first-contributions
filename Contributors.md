@@ -1122,6 +1122,7 @@ Himanshu Dedha
 - [Joshua Tumlinson](https://github.com/joshuaTumlinson)
 - [trevalkov](https://gitjub.com/trevalkov)
 - [Leandro Arruda](https://github.com/llarruda)
+- [Rúben Carreira](https://github.com/RubenCarreira99)
 - [Mradul Tiwari](https://github.com/mradultiw)
 - [Jihoi Kang](https://github.com/jihoi-kang)
 - [Jessica Angel](https://github.com/jessica-angel7)
