@@ -25,6 +25,7 @@
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Kinzang Wangdi](https://github.com/geekbeats)
 - [Omkar Gunjal](https://github.com/omkarg1417)
+- [Labib Hibatullah](https://github.com/lalabib)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Simeon Akanbi](https://github.com/simple-codes22)
 - [David Michael](https://github.com/davelearning)
@@ -1482,6 +1483,7 @@ Himanshu Dedha
 - [TakahitoHimi](https://github.com/TakahiroHimi)
 - [JoharZaman](https://github.com/joharzmn)
 - [Jorge](https://github.com/jadromero)
+- [Antonius Copeland](https://github.com/letyoursoulglo)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
 - [Daniel Lee](https://github.com/danyollee)
@@ -2190,6 +2192,7 @@ Himanshu Dedha
 - [Nick Lu](https://github.com/nicklutuxun)
 - [Cody Lillywhite](https://github.com/Codyl)
 - [shi7](https://github.com/shi7)
+- [Helena Bjalkovsa](https://github.com/helenabjalkovska)
 - [Anthony Citizen](https://github.com/Anthony-Citizen)
 - [Chirag Maharjan](https://github.com/ChiragMhrzn)
 - [Jaishnav Prasad](https://github.com/CyberJalagam)
@@ -2379,6 +2382,10 @@ Himanshu Dedha
 - [Ryan Helm](https://github.com/rjhelm)
 - [Lucas Native](https://github.com/LucasNative)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
+Disguy
 - [Laura Pippitt](https://github.com/laapipp)
 - [Alief Ramadhan](https://github.com/itsmelief)
+- [Aya Helmaoui](https://github.com/Ayahelmaoui)
+
+
 <!-- prettier-ignore-end -->
