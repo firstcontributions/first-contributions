@@ -465,6 +465,7 @@ Himanshu Dedha
 - [Kelly](https://github.com/kellyxavier)
 - [Amritaansh Narain](https://github.com/namritaansh02)
 - [Sethu](https://github.com/Seth-arc)
+- [Antoon Beres](https://github.com/AntoonBeres)
 - [Dimitrios Pigkas](https://github.com/takispig)
 - [Todd](https://github.com/DotSpread)
 - [Shubh Chudasama](https://github.com/c-shubh)
