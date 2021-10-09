@@ -2398,4 +2398,5 @@ Disguy
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
 - [Mel Brandão](https://github.com/melbzzz)
 - [Fernando Viveros](https://github.com/xFerchoVJ)
+- [Syed Kawish Qayyum](https://github.com/kawishqayyum)
 <!-- prettier-ignore-end -->
