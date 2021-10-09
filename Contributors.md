@@ -1483,6 +1483,7 @@ Himanshu Dedha
 - [TakahitoHimi](https://github.com/TakahiroHimi)
 - [JoharZaman](https://github.com/joharzmn)
 - [Jorge](https://github.com/jadromero)
+- [Antonius Copeland](https://github.com/letyoursoulglo)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
 - [Daniel Lee](https://github.com/danyollee)
