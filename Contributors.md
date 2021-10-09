@@ -2216,6 +2216,7 @@ Himanshu Dedha
 - [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
 - [Loser](https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
+- [mcnj](https://github.com/mcnj)
 - [JPMurara](https://github.com/JPMurara)
 - [PuduManie](https://github.com/JacquesPMvanWyk)
 - [deni336](https://github.com/deni336)
