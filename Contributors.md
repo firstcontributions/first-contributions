@@ -2347,5 +2347,6 @@ Himanshu Dedha
 - [Amit Kumar Sharma](https://github.com/amitaks24)
 - [Sarath](https://github.com/Sarath191181208)
 - [Nicole Romero](https://github.com/bniroo)
+- [XuBin Wei](https://github.com/senlizishi/)
 
 <!-- prettier-ignore-end -->
