@@ -2397,5 +2397,6 @@ Disguy
 - [Alief Ramadhan](https://github.com/itsmelief)
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
 - [Mel Brandão](https://github.com/melbzzz)
+- [Syed Kawish Qayyum](https://github.com/kawishqayyum)
 
 <!-- prettier-ignore-end -->
