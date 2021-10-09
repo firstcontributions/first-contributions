@@ -2384,6 +2384,7 @@ Himanshu Dedha
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 Disguy
 - [Laura Pippitt](https://github.com/laapipp)
+- [Alief Ramadhan](https://github.com/itsmelief)
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
 
 <!-- prettier-ignore-end -->
