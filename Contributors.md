@@ -2384,5 +2384,5 @@ Himanshu Dedha
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 Disguy
 - [Laura Pippitt](https://github.com/laapipp)
-
+- [Doha Helmaoui](https://github.com/Doha-Helmaoui)
 <!-- prettier-ignore-end -->
