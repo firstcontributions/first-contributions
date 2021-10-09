@@ -864,6 +864,7 @@ Himanshu Dedha
 - [Mariana Xavier](https://github.com/marianaxrp)
 - [Gauravkhetwal](https://github.com/Gauravkhetwal)
 - [Shaivy Agrawal](https://github.com/Shaivy-Agrawal)
+- [leopaul29](https://github.com/leopaul29)
 - [Ahmad Yasser](https://github.com/ahmdyasser)
 - [Jordi Marimon](https://github.com/jordimarimon)
 - [Thanmay M Das](https://github.com/tAnboyy)
