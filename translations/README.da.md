@@ -16,11 +16,11 @@ At læse artikler og se video guides hjælper, men hvad er bedre end at bruge de
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Har du ikke Git på din maskine kan du [installere det]( https://help.github.com/articles/set-up-git/).
-
+I have added one line here
 ## Fork dette repository
 
 Fork dette repo ved at klikke på "fork" knappen øverst på siden.
-Dette vil lave en kopi af projektet i din Github konto.
+Delete the line which was present above.
 
 ## Clone dette repository
 
