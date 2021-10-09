@@ -209,6 +209,7 @@
 - [Kumuthu Vinsura](https://github.com/kumuthu-vinsura)
 - [Jana Spiller](https://github.com/TheJPlan)
 - [Shruti Deshpande](https://github.com/deshpande-shruti)
+- [Stefano Baccetti] (https://github.com/Stefino76)
 - [Aleksandar Marjanovic](https://github.com/coa989)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
 - [Sushane Yadav](https://github.com/shaneydv)
