@@ -2386,5 +2386,6 @@ Disguy
 - [Laura Pippitt](https://github.com/laapipp)
 - [Alief Ramadhan](https://github.com/itsmelief)
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
+- - [Mel Brandão](https://github.com/melbzzz)
 
 <!-- prettier-ignore-end -->
