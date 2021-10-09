@@ -4,6 +4,7 @@
 
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Felipe Santos](https://github.com/felipesantos2)
+- [Reynaldi Aditia](https://github.com/reynaldipriandika)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Olly Overend](https://github.com/OliverOverend)
