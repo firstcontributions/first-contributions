@@ -27,6 +27,7 @@
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Kinzang Wangdi](https://github.com/geekbeats)
 - [Omkar Gunjal](https://github.com/omkarg1417)
+- [Daniel Belarmino](https://github.com/belarba)
 - [Labib Hibatullah](https://github.com/lalabib)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Simeon Akanbi](https://github.com/simple-codes22)
