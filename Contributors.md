@@ -584,6 +584,7 @@ Himanshu Dedha
 - [Ahmed Wafik](https://github.com/wafik111)
 - [Venkatakrishnan G](https://github.com/venkat-gvk)
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
+- [xDavide9](https://github.com/xDavide9)
 - [Sahil Suman](https://github.com/sahilsuman933)
 - [Amit Pal](https://github.com/amitpal16181)
 - [SURJIT KUMAR KAUSIK](https://github.com/seaZonal2001)
