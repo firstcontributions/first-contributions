@@ -1453,6 +1453,7 @@ Himanshu Dedha
 - [sparshiigupta](https://github.com/sparshiigupta)
 - [Pratik Zinjurde](https://github.com/pratikpz18)
 - [Rohan Babbar](https://github.com/rohanbabbar04)
+- [Vanshika Rana](https://github.com/Vanshika-Rana)
 - Timothy Hayduk
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
 - [Estelle Severs](https://github.com/EstelleSevers)
