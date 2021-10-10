@@ -85,6 +85,7 @@
 - [Peter Walser] (https://github.com/sirofwalls)
 - [Parseluni] (https://github.com/Parseluni)
 - [Keshav Bansal] (https://github.com/keshavbansal20)
+- [Jorge Araújo](https://github.com/laborim)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Riz Delos Reyes](https://github.com/vantevie)
