@@ -2422,5 +2422,6 @@ Disguy
 - [Vaibhavi Deo](https://github.com/alteregoprofile)
 - [Reo Uehara](https://github.com/uh-zz)
 - [Manthan Khandale](https://github.com/Manty-K)
+- [Jonathan Punzalan](https://github.com/hjpunzalan)
 
 <!-- prettier-ignore-end -->
