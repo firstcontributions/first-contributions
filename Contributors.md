@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Smit Jani](https://github.com/smitj23)
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [chmodx1sh](https://github.com/chmodx1sh)
