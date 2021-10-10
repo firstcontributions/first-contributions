@@ -826,6 +826,7 @@ Himanshu Dedha
 - [Martin Meng](https://github.com/MartinMxn)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Davis Kabiswa](https://github.com/Dkabiswa)
+- [Nimantha Dilshan](https://github.com/nimanthadilz)
 - [Supratim Majumder](https://github.com/Supratim30)
 - [Olivia Russell](https://github.com/osrussell)
 - [Adithya Thejas](https://github.com/Adithej)
