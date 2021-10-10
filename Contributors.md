@@ -19,6 +19,7 @@
 - [Amogh Badugu](https://github.com/abadugu13/)
 - [Osama Hamad](https://github.com/osHamad)
 - [Rayza Araujo](https://github.com/araujorayza)
+- [Charumathi P](https://github.com/charu210703)
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
 - [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
