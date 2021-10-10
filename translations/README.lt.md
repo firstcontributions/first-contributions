@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -10,7 +10,7 @@ Sunku. Visada sunku ką nors padaryti pirmą kartą. Ypač bendradarbiaujant, kl
 
 Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti geriau nei mokymasis darant be klaidų pirmą kartą? Šio projekto tikslas - suteikti patarimus ir supaprastinti tai, kaip naujokai daro pirmąjį indėlį. Prisiminkite: kuo labiau esate atsipalaidavęs, tuo geriau mokotės. Jei norite atlikti pirmąjį indėlį, atlikite toliau pateiktus paprastus veiksmus. Mes pažadame, tai bus smagu.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Jei neturite instaliuoto git, [ instaliuokite čia ]( https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ Tai sukurs šios saugyklos kopiją jūsų GitHub paskyroje.
 
 ## Klonuokite saugyklą
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Dabar klonuokite šią saugyklą į savo kompiuterį. Spustelėkite klonavimo mygtuką ir tada spustelėkite *copy to clipboard* piktogramą.
 
@@ -32,7 +32,7 @@ git clone "kopijuota nuoroda"
 ```
 kur "kopijuota nuoroda" (be citatos ženklų) yra url nuoroda jūsų saugyklai. Peržiūrėkite ankstesnius veiksmus, kad gautumėte url nuorodą.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Pavyzdžiui:
 ```
@@ -83,11 +83,11 @@ pakeisdami `<tavo-vardas>` anskčiau sukurtos šakos (branch) vardu.
 
 Eikite į savo saugyklą GitHub. Pamatysite mygtuką `Compare & pull request` (palyginti ir įtraukti užklausą). Spustelėkite šį mygtuką.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Dabar pateikite įtraukimo į pradinę saugyklą (pull) užklausą.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projekto pagrindine šaka. Kai pakeitimai bus sujungti, gausite tai patvirtinantį el. laišką.
 

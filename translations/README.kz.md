@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +9,7 @@
 
 Оқулықтарды және мақалаларды оқуға әрқашан болады, бірақ іс жүзінде тәжірибе ортасында жұмыс жасаудан гөрі не жақсы? Бұл жобаның мақсаты - жастарды дұрыс жолға қою, сондай-ақ оларға алғашқы үлес қосуға мүмкіндік беру. Егер сіз өзіңіздің алғашқы үлесіңізді жасау мүмкіндігін іздесеңіз, төмендегі қарапайым қадамдарды орындаңыз. Біз уәде етеміз, бұл қызықты болады.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
 Егерде сіздің компьютеріңізде git қосылмаған болса, [ оны қосыңыз ]( https://help.github.com/articles/set-up-git/ )
@@ -20,7 +20,7 @@
 
 ## Репозиторийді клондаңыз
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Енді бұл репозиторийді өз дербес компьютеріңізге клодаңыз. Сілтемені көшіру үшін `clone` батырмасын басыңыз, содан кейін `copy to clipboard` белгішесіне басыңыз.
 
@@ -31,7 +31,7 @@ git clone "url you just copied"
 ```
 Бұл жерде "url you just copied" (тырнақшасыз) сіздің репозиторийңізге сілтеме. Бұл сілтемені алу үшін алдыңғы қадамдарды қараңыз.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Мысалы:
 ```
@@ -85,11 +85,11 @@ git push origin <add-your-name>
 
 Егер сіз GitHub-тағы репозиторийге кірсеңіз, `Compare & pull request` батырмасын көресіз. Оны басыңыз.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Енді пулл-реквестті растаңыз.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Көп ұзамай мен осы жобаның негізгі бөлімімен барлық өзгерістерді біріктіремін. Өзгерістер қабылданған кезде (мердж жасалғанда) электрондық хат аласыз.
 

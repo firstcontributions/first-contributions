@@ -1,5 +1,5 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +9,7 @@
 
 Μπορείτε να βοηθηθείτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να δουλεύετε σε ένα πραγματικό project. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε ότι όσο πιο χαλαροί είστε τόσο πιο εύκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά σε κώδικα, ακολουθήστε τα επόμενα απλά βήματα.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
 
@@ -19,7 +19,7 @@
 
 ## Αποθηκεύστε τοπικά το αποθετήριο (clone)
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Τώρα αντιγράψτε το αποθετήριο στον υπολογιστή σας. Κάντε κλικ στο κουμπί `Clone or download` και μετά στο εικονίδιο δεξιά από το σύνδεσμο για αντιγραφή στο πρόχειρο.
 
@@ -30,7 +30,7 @@ git clone "σύνδεσμος που μόλις αντιγράψατε"
 ```
 Όπου "σύνδεσμος που μόλις αντιγράψατε" (χωρίς τα εισαγωγικά) είναι ο σύνδεσμος για αυτό το αποθετήριο. Δείτε τα προηγούμενα βήματα για να βρείτε αυτόν τον σύνδεσμο.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Για παράδειγμα:
 ```
@@ -99,11 +99,11 @@ git push origin <add-your-name>
 
 Εάν πάτε στο αποθετήριο (repository) στο github θα δείτε ένα κουμπί με τίτλο `Compare & pull request`. Κάντε κλικ σε αυτό το κουμπί.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Τώρα υποβάλλετε το pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στο master branch του προγράμματος. Θα ειδοποιηθείτε με email όταν οι αλλαγές που κάνατε ενσωματωθούν.
 
