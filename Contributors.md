@@ -155,6 +155,7 @@
 - [Devin Plumb](https://github.com/DevinPlumb)
 - [Ritika Garg]()
 - [Sangeeta Raut]
+  [George Kakarlis](https://github.com/georgekakarlis)
 - [Sourabh Raut] ( https://github.com/xsraut )
 - [ali M](https://github.com/amarinas)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
