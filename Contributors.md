@@ -2448,5 +2448,6 @@ Disguy
 - [Daniel Sabic](https://github.com/sabicd)
 - [Felipe França](https://github.com/felipefrranca)
 - [Aisa Luana](https://github.com/aisaluana)
+- [Luciano Santos](https://github.com/lucianosz7)
 
 <!-- prettier-ignore-end -->
