@@ -2447,5 +2447,6 @@ Disguy
 - [Felipe Leao](https://github.com/felipeLeao18)
 - [Daniel Sabic](https://github.com/sabicd)
 - [Felipe França](https://github.com/felipefrranca)
+- [Aisa Luana](https://github.com/aisaluana)
 
 <!-- prettier-ignore-end -->
