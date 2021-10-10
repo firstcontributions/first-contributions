@@ -714,6 +714,7 @@ Himanshu Dedha
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
+- [Junior Samaroo](https://github.com/jns0987654321)
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Manasa Venkatesh](https://github.com/Manasav1510)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
