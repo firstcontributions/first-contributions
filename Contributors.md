@@ -912,6 +912,7 @@ Himanshu Dedha
 - [Ryan Demboski](https://github.com/rdemboski)
 - [Saeed Esmaeelinejad](https://github.com/SaeedEsmaeelinejad)
 - [Brandon Ray](https://github.com/brandonaray)
+- [Kaveesh Khattar](https://github.com/KaveeshKhattar)
 - [Prateek Singh](https://github.com/psb27)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Flix](https://github.com/FlixProd/)
