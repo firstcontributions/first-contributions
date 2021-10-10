@@ -2414,5 +2414,6 @@ Disguy
 - [ajtroyer](https://github.com/ajtroyer)
 - [Josh Young](https://github.com/SunYangcheng)
 - [Vaibhavi Deo](https://github.com/alteregoprofile)
+- [Reo Uehara](https://github.com/uh-zz)
 
 <!-- prettier-ignore-end -->
