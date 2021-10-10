@@ -2301,6 +2301,7 @@ Himanshu Dedha
 - [Ayush Rudani](https://github.com/R-Ayush777)
 - [Muhammad Ahmad(ZeusDes)](https://github.com/ZeusDes)
 - [Marcus Vinicius Braz](https://github.com/mvbrazz)
+- [Kunal](https://github.com/RuthlessRuler)
 - [Not Marcus](https://github.com/)
 - [Zyon Amadeus] (https://github.com/InfinitePondera)
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
