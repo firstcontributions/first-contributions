@@ -74,6 +74,7 @@
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
+- [Akshaj Balaji](https://github.com/akshajb)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Ayush Singh](https://github.com/AyushSingh-github)
 - [Anmol Gupta](https://github.com/anmolg84)
