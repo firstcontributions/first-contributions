@@ -18,6 +18,7 @@
 - [Shifaat](https://github.com/Shifaat)
 - [Sid Lais](https://github.com/Sid-Lais)
 - [Jandi Mei](https://github.com/jandi-mei)
+- [Arcadia Cipolla](https://github.com/arcadiacipolla)
 - [Vaishnavi](https://github.com/25-vaishnavi)
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
