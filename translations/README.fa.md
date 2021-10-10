@@ -88,7 +88,7 @@
 <a id="user-content-از-اینجا-کجا-برم-" class="anchor" href="#%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%AC%D8%A7-%D8%A8%D8%B1%D9%85-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>از اینجا کجا برم ؟</h2>
 <p dir="rtl">مشارکتت جشن بگیر و با دوستات و دنبال کننده هات به اشتراک بزار
 <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">web app</a>.</p>
-<p dir="rtl">در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
+<p dir="rtl">.در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
 <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Join slack team</a>.</p>
 <p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
 <h3 dir="rtl">
