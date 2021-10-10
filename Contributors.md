@@ -2439,5 +2439,6 @@ Disguy
 - [Manthan Khandale](https://github.com/Manty-K)
 - [Jonathan Punzalan](https://github.com/hjpunzalan)
 - [Felipe Leao](https://github.com/felipeLeao18)
+- [Daniel Sabic](https://github.com/sabicd)
 
 <!-- prettier-ignore-end -->
