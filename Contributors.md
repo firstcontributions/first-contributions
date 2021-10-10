@@ -85,6 +85,7 @@
 - [Peter Walser] (https://github.com/sirofwalls)
 - [Parseluni] (https://github.com/Parseluni)
 - [Keshav Bansal] (https://github.com/keshavbansal20)
+- [Jorge Araújo](https://github.com/laborim)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Riz Delos Reyes](https://github.com/vantevie)
@@ -2408,5 +2409,7 @@ Disguy
 - [Mel Brandão](https://github.com/melbzzz)
 - [Syed Kawish Qayyum](https://github.com/kawishqayyum)
 - [ajtroyer](https://github.com/ajtroyer)
+- [Josh Young](https://github.com/SunYangcheng)
 - [Mike Caunly](https://github.com/)
+
 <!-- prettier-ignore-end -->
