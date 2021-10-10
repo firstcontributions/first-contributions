@@ -171,6 +171,7 @@
 - [Abhishek Munda](https://github.com/abhishek-munda)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
 - [Shreyas Kulkarni] (https://github.com/SHREYAS290601)
+- [Jei Pratheesh] (https://github.com/JeiRaju)
 - [Em White](https://github.com/kropht)
 - [Marco](https://github.com/Marco-Kap)
 - [ceyxasm](https://github.com/ceyxasm)
