@@ -2417,5 +2417,6 @@ Disguy
 - [Josh Young](https://github.com/SunYangcheng)
 - [Vaibhavi Deo](https://github.com/alteregoprofile)
 - [Reo Uehara](https://github.com/uh-zz)
+- [Manthan Khandale](https://github.com/Manty-K)
 
 <!-- prettier-ignore-end -->
