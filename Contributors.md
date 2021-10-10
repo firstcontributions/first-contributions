@@ -2410,5 +2410,6 @@ Disguy
 - [Syed Kawish Qayyum](https://github.com/kawishqayyum)
 - [ajtroyer](https://github.com/ajtroyer)
 - [Josh Young](https://github.com/SunYangcheng)
+- [Vaibhavi Deo](https://github.com/alteregoprofile)
 
 <!-- prettier-ignore-end -->
