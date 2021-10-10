@@ -182,6 +182,7 @@
 - [Punkalope] (https://github.com/Punkalope)
 - [Anke Pfeiffer] (https://github.com/AnkePfei2fer)
 - Sankar Pitchuka
+- Rebecca Ahn
 - [Daberechi Okorie](https://github.com/Dahbaeraychy)
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
