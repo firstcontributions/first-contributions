@@ -2444,5 +2444,6 @@ Disguy
 - [Jonathan Punzalan](https://github.com/hjpunzalan)
 - [Felipe Leao](https://github.com/felipeLeao18)
 - [Daniel Sabic](https://github.com/sabicd)
+- [Felipe França](https://github.com/felipefrranca)
 
 <!-- prettier-ignore-end -->
