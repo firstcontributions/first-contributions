@@ -1174,6 +1174,7 @@ Himanshu Dedha
 - [Harsh Saini](https://github.com/HarshSaini13)
 - [Miguel Angel Abad](https://github.com/zerok1986)
 - [Shahril Lutfi](https://github.com/msl21)
+- [Backtracker7](https://github.com/Backtracker7)
 - [Lanre Fagbeyiro](https://github.com/lanre-waju)
 - [Dhruva Krishna](https://github.com/Dhruvakrishna)
 - [Babu Mohammed Izhan](https://github.com/Babu-Mohammed-Izhan)
