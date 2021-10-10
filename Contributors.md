@@ -25,6 +25,7 @@
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [tsX369](https://github.com/tsX369)
 - [Manu Peralta] (https://github.com/manuperalta)
+- [Craig Parker](https://github.com/ifrit901)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
