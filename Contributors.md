@@ -2426,5 +2426,6 @@ Disguy
 - [Reo Uehara](https://github.com/uh-zz)
 - [Manthan Khandale](https://github.com/Manty-K)
 - [Jonathan Punzalan](https://github.com/hjpunzalan)
+- [Felipe Leao](https://github.com/felipeLeao18)
 
 <!-- prettier-ignore-end -->
