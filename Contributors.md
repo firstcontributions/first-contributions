@@ -18,6 +18,7 @@
 - [Vaishnavi](https://github.com/25-vaishnavi)
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
+- [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [Manu Peralta] (https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
