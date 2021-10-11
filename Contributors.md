@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 
 # **Contributors**
 
@@ -2466,5 +2466,6 @@ Disguy
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
 - [Alexandra D] (https://github.com/dobre-alexandra)
+- [Aday Monzon](https://github.com/Aday-Monzon)
 
 <!-- prettier-ignore-end -->
