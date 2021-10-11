@@ -2452,5 +2452,6 @@ Disguy
 - [Aisa Luana](https://github.com/aisaluana)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
+- [Claenio](https://github.com/claenio)
 
 <!-- prettier-ignore-end -->
