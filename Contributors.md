@@ -4,6 +4,7 @@
 
 - [Pankaj Prajapati](https://github.com/paprajapati9)
 - [Waleed Mumtaz](https://github.com/waleedmumtaz)
+- [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [MI RAKIB] (https://github.com/mirakib)
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
