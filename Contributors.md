@@ -2370,6 +2370,7 @@ Himanshu Dedha
 - [Saif Kholid](https://github.com/Kholid0803)
 - [Sav](https://github.com/Harchok)
 - [malufreirejau](https://github.com/malufreirejau)
+- [Nick Kessey](https://github.com/RockosBos)
 - [chelle](https://github.com/cgentemann)
 - [Ramon Alves Rigoni](https://github.com/rrigonia)
 - [mayuri shinde](https://github.com/Mayurishinde27)
