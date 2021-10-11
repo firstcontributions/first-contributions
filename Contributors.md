@@ -7,7 +7,7 @@
 - [chmodx1sh](https://github.com/chmodx1sh)
 - [Felipe Santos](https://github.com/felipesantos2)
 - [Luis Hernandez](https://github.com/DatBoiLuiskrrt?tab=repositories)
-- [Vivek Kumar Dubey]
+- [Vivek Kumar Dubey](Vivek Kumar Dubey)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
