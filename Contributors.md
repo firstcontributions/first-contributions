@@ -22,6 +22,7 @@
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Savan Bhanderi](https://github.com/Savan414) 
 - [Shifaat](https://github.com/Shifaat)
+- [Jeff lin](https://github.com/a1045520)
 - [Sid Lais](https://github.com/Sid-Lais)
 - [Jandi Mei](https://github.com/jandi-mei)
 - [Arcadia Cipolla](https://github.com/arcadiacipolla)
