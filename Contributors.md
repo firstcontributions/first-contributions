@@ -2139,6 +2139,7 @@ Himanshu Dedha
 - [Ritu-Singh](https://github.com/RituSingh2002)
 - [Chaitanya M](https://github.com/ChaitanyaM18)
 - [Tyler Johnson](https://github.com/TJohnson986)
+- [Eric Joest] (https://github.com/E-jo)
 - [Anthony Lopez](https://github.com/GrungeKarma)
 - [Rathijit Paul](https://github.com/rathijitpapon)
 - [Impala SixFive](https://github.com/impala65)
