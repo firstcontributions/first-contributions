@@ -24,6 +24,7 @@
 - [Shifaat](https://github.com/Shifaat)
 - [Jeff lin](https://github.com/a1045520)
 - [Sid Lais](https://github.com/Sid-Lais)
+- [Sudipto Mondal](https://github.com/sudipto)
 - [Jandi Mei](https://github.com/jandi-mei)
 - [Arcadia Cipolla](https://github.com/arcadiacipolla)
 - [Vaishnavi](https://github.com/25-vaishnavi)
