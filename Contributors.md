@@ -75,6 +75,7 @@
 - [Daniel C](https://github.com/dnzc)
 - [Agaramudhala](https://github.com/agaramudhala)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
+- [Ujjwal Pandey] (https://github.com/Ryednap/first-contributions)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
 - [Matt McKenna](https://github.com/smvgggsdd)
 - [Timothy Benton](https://github.com/humantl1)
