@@ -1459,6 +1459,7 @@ Himanshu Dedha
 - [Magnus Manfelt N Bergh](https://github.com/manfelt)
 - [Pierre Coulon](https://github.com/Pierrecoulon1)
 - [Yaron Lavi](https://github.com/yawikflame)
+- [Beatriz Ribeiro](https://github.com/beabebaw)
 - [Quentin HENRY](https://github.com/Dythic)
 - [Yakov Rakhamimov](https://github.com/jacobra19)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
