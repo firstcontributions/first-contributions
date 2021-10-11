@@ -2457,5 +2457,5 @@ Disguy
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
 - [Alexandra D] (https://github.com/dobre-alexandra)
-
+- [Murilo Mesquita](https://github.com/Murilomsq)
 <!-- prettier-ignore-end -->
