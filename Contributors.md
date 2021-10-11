@@ -2456,6 +2456,9 @@ Disguy
 - [Aisa Luana](https://github.com/aisaluana)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
-- [Alexandra D] (https://github.com/dobre-alexandra)
+- [Alexandra D](https://github.com/dobre-alexandra)
+- [Emmanuel Quiroz](https://github.com/emmanuel-quiroz)
+
+
 
 <!-- prettier-ignore-end -->
