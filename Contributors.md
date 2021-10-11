@@ -1770,6 +1770,7 @@ Himanshu Dedha
 - [Sun Cold](https://github.com/Sun-Cold)
 - [Jiaget](https://github.com/Jiaget)
 - [Nitu Kumari](https://github.com/U220053)
+- [Yuri Gogolitsyn](https://github.com/ygogolitsyn) 
 - [Something Went Well](https://github.com/somethingwentwell)
 - [canntfly](https://github.com/canntfly)
 - [Yaswanthkumar Gothireddy](https://github.com/yaswanthkumargothi)
