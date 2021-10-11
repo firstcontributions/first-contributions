@@ -2471,5 +2471,6 @@ Disguy
 - [Alexandra D](https://github.com/dobre-alexandra)
 - [Charles Wen](https://github.com/wencharles)
 - [Aday Monzon](https://github.com/Aday-Monzon)
+- [Victor Hüni](https://github.com/VictorHueni)
 
 <!-- prettier-ignore-end -->
