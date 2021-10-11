@@ -5,6 +5,7 @@
 - [Pankaj Prajapati](https://github.com/paprajapati9)
 - [MI RAKIB] (https://github.com/mirakib)
 - [Smit Jani](https://github.com/smitj23)
+- [Anurag Goel](https://github.com/anuraggoel27)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [Steven Anthony] (https://github.com/sthony)
