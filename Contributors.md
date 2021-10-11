@@ -246,6 +246,7 @@
 - [Anirudh Mishra](https://github.com/anirudhgray)
 - [Cloudy Botty](https://github.com/cloud-03)
 - [Vivek Joshi](https://github.com/vjvivekvj)
+- [Priya Ranjan](https://github.com/priya03ranjan01)
 - [AymanGamal](https://github.com/cod-lvr)
 - [Tom Davis](https://github.com/Kat35601)
 - [Fabian Glahn](https://github.com/fabiglahn)
@@ -2460,5 +2461,6 @@ Disguy
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
 - [Alexandra D] (https://github.com/dobre-alexandra)
+
 
 <!-- prettier-ignore-end -->
