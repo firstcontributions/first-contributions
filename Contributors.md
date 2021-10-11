@@ -1108,6 +1108,7 @@ Himanshu Dedha
 - [Cheyenne Smith](https://github.com/cbsmith5)
 - [Deepak Goyal](https://github.com/goyaldpk)
 - [Alexandra Popescu](https://github.com/alexanpo)
+- [Verena S] (https://github.com/vuerena)
 - [Dan Koller](https://github.com/dan-koller)
 - [Yazan Kherfan](https://github.com/yazok8)
 - [Mathewkutty Mathew](https://github.com/Mathewkutty)
@@ -2377,7 +2378,7 @@ Himanshu Dedha
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
- - Dan Tcheche
+- Dan Tcheche
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Mitali Agrawal](https://github.com/MitaliAg)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
