@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Pankaj Prajapati](https://github.com/paprajapati9)
+- [Waleed Mumtaz](https://github.com/waleedmumtaz)
 - [MI RAKIB] (https://github.com/mirakib)
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
