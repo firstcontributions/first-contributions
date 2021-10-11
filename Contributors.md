@@ -7,6 +7,7 @@
 - [Smit Jani](https://github.com/smitj23)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Ester Santos](https://github.com/EsterRibeiro)
+- [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [chmodx1sh](https://github.com/chmodx1sh)
