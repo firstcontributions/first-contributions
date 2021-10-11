@@ -2468,7 +2468,8 @@ Disguy
 - [Aisa Luana](https://github.com/aisaluana)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
-- [Alexandra D] (https://github.com/dobre-alexandra)
+- [Alexandra D](https://github.com/dobre-alexandra)
+- [Charles Wen](https://github.com/wencharles)
 - [Aday Monzon](https://github.com/Aday-Monzon)
 
 <!-- prettier-ignore-end -->
