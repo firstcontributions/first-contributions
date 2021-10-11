@@ -2450,5 +2450,6 @@ Disguy
 - [Felipe França](https://github.com/felipefrranca)
 - [Aisa Luana](https://github.com/aisaluana)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Francisco Heronildo](https://github.com/FranciscoHeronildo)
 
 <!-- prettier-ignore-end -->
