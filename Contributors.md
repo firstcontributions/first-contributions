@@ -292,7 +292,7 @@ Aditya Agarwal
 - [Naing Tan Ba](https://github.com/Tranks27)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 - [Ramiro Solis](https://github.com/Solis1)
-tayo360
+- tayo360
 - [Adityan Gupta](https://github.com/Adityan2001)
   [James Byford](https://github.com/Jbyford89)
 - [Muhammad Kamiel](https://github.com/kmil31)
@@ -663,6 +663,7 @@ Himanshu Dedha
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
 - [FactorYang](https://github.com/FactorYang)
+- [rjkawoya] (https://github.com/rjkawoya)
 - [HHz8746](https://github.com/HHz8746)
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
 - [James Dinh](https://github.com/SonDinh5310)
