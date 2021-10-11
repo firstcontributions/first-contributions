@@ -18,6 +18,7 @@
 - [Nagulapally Anudeep] (https://github.com/Nagulapally-Anudeep)
 - [Roberto Yudi](https://github.com/Roberto-Yudi)
 - [Sushant Chhetry](https://github.com/SushantChhetry)
+- [KUSHAGRA JAISWAL](https://github.com/KUSHAGRA-JAISWAL)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Savan Bhanderi](https://github.com/Savan414) 
@@ -2476,5 +2477,6 @@ Disguy
 - [Charles Wen](https://github.com/wencharles)
 - [Aday Monzon](https://github.com/Aday-Monzon)
 - [Victor Hüni](https://github.com/VictorHueni)
+
 
 <!-- prettier-ignore-end -->
