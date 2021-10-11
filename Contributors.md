@@ -2364,6 +2364,7 @@ Himanshu Dedha
 - [Khushbu Mittal](https://github.com/khushbumittal23)
  - Dan Tcheche
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
+- [Mitali Agrawal](https://github.com/MitaliAg)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Kimberley Torres](https://github.com/kim-tor)
 - [Ozan Uslan](https://github.com/ozanuslan)
