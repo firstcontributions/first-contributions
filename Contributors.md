@@ -2476,5 +2476,6 @@ Disguy
 - [Charles Wen](https://github.com/wencharles)
 - [Aday Monzon](https://github.com/Aday-Monzon)
 - [Victor Hüni](https://github.com/VictorHueni)
+- [Joni Oliveira](https://github.com/jonioliveira)
 
 <!-- prettier-ignore-end -->
