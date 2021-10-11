@@ -2484,5 +2484,6 @@ Disguy
 - [Aday Monzon](https://github.com/Aday-Monzon)
 - [Victor Hüni](https://github.com/VictorHueni)
 - [Joni Oliveira](https://github.com/jonioliveira)
+- [James Soderberg](https://github.com/james-soderberg
 
 <!-- prettier-ignore-end -->
