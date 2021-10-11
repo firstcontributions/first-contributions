@@ -2383,5 +2383,5 @@ Himanshu Dedha
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 Disguy
 - [Laura Pippitt](https://github.com/laapipp)
-- [Vladimir Salnikov] https://github.com/VladimirSalnikov
+- [Vladimir Salnikov](https://github.com/VladimirSalnikov)
 <!-- prettier-ignore-end -->
