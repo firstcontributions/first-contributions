@@ -67,6 +67,7 @@
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
+- [Nachiket Suryawanshi](https://github.com/Nachi28)
 - [Alex Tumiri](https://github.com/Zelechos)
 - [Alice Petzinger](https://github.com/alicepetzinger)
 - [Manvi Pachauri](https://github.com/ManviPachauri)
