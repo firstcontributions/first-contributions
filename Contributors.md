@@ -1659,6 +1659,7 @@ Himanshu Dedha
 - [Sirisha](https://github.com/Sirisha-embedded)
 - [Marlena Chatzigrigoriou](https://github.com/marlenachatzigrigoriou)
 - [Yash Shah](https://github.com/Waryserpant122)
+- [Aashish Neupane](https://github.com/itsaash)
 - [NtZw](https://github.com/ntzw)
 - [adrielyeung](https://github.com/adrielyeung)
 - [Punit Choudhary](https://github.com/Punit-Choudhary)
