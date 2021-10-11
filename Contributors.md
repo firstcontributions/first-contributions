@@ -2489,5 +2489,6 @@ Disguy
 - [Victor Hüni](https://github.com/VictorHueni)
 - [Joni Oliveira](https://github.com/jonioliveira)
 - [James Soderberg](https://github.com/james-soderberg
+- [Felipe Luz](https://github.com/felipeluz10)
 
 <!-- prettier-ignore-end -->
