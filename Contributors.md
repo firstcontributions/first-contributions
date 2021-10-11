@@ -663,7 +663,7 @@ Himanshu Dedha
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
 - [FactorYang](https://github.com/FactorYang)
-- [rjkawoya] (https://github.com/rjkawoya)
+- <a href="https://github.com/rjkawoya"> R.J.</a>
 - [HHz8746](https://github.com/HHz8746)
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
 - [James Dinh](https://github.com/SonDinh5310)
