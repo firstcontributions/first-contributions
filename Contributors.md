@@ -2410,6 +2410,7 @@ Himanshu Dedha
 - [Sayan Sahu](https://github.com/SayanSahu99/)
 - [Insiya Khedapa] (https://github.com/Insiya-Decoded)
 - [Sushil Pandey](https://github.com/Amor64)
+- [Vrushali Naik] (https://github.com/kvrush)
 - [Adri-md-1208](https://github.com/Adri-md-1208)
 - [Ulan Rakymzhanov](https://github.com/urakymzhan)
 - [Harshad Thombare](https://github.com/harshadt21)
