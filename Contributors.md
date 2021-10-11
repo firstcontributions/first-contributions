@@ -2484,5 +2484,5 @@ Disguy
 - [Aday Monzon](https://github.com/Aday-Monzon)
 - [Victor Hüni](https://github.com/VictorHueni)
 - [Joni Oliveira](https://github.com/jonioliveira)
-
+- [Angela Lima](https://github.com/angelamcosta)
 <!-- prettier-ignore-end -->
