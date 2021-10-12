@@ -2283,6 +2283,7 @@ Himanshu Dedha
   [Oliver - BoonyToons](https://github.com/BoonyToons)
 - [wolfetone](https://github.com/wolfetone)
 - [test23]
+- [Zacle](https://github.com/Zacle)
 - [Teena Acharya](https://github.com/teenaacharya)
 - [Suvarna Pattayil - SuvP](https://github.com/Suv-P)
 - [Richa Motwani](https://github.com/Richa2801)
