@@ -104,6 +104,7 @@
 - [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
 - [Brites](https://github.com/Brites101)
+- [Flippy](https://github.com/Flip771)
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
