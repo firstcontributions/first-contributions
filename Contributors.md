@@ -8,6 +8,7 @@
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Arnav Puri](https://github.com/ArnavPuri)
 - [losowy](https://github.com/losowyLP)
+- [Milind jamnekar](https://github.com/Milind-Jamnekar)
 - [MI RAKIB](https://github.com/mirakib)
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
