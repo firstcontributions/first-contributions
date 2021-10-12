@@ -2515,5 +2515,6 @@ Disguy
 - [Felipe Luz](https://github.com/felipeluz10)
 - [Dabrovsky](https://github.com/Dabrovsky)
 - [Claudiu Forgaci](https://github.com/cforgaci)
+- [Suraj Kumar](https://github.com/skmodi649)
 
 <!-- prettier-ignore-end -->
