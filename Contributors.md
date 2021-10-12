@@ -2437,6 +2437,7 @@ Himanshu Dedha
 - [Aashish Duddukuri] (https://github.com/aashd)
 - [Jacob Beene] (https://github.com/jebeene)
 - [Mehak Kambo] (https://github.com/MehakKambo)
+- [Jon Bøgvad Kejser](https://github.com/joke2512)
 - [Simran Keshri](https://github.com/sims-keshri)
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
