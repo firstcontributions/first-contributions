@@ -911,6 +911,7 @@ Himanshu Dedha
   [Blayne S  Gower II](https://github.com/BlaSGoII)
 - [BHKR](https://github.com/BHKR)
 - [priyanshu](https://github.com/001priyanshu)
+- [Michael Swann](https://github.com/Ms1Dev)
 - [John Wanjema](https://github.com/johnwanjema)
 - [MNaiwrit](https://github.com/mnaiwrit52)
 - [Temitope Feyisitan](https://github.com/epotimeT)
