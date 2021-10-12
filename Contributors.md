@@ -47,6 +47,7 @@
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Steven Drake](https://github.com/sdrake01)
+- [Amrit](https://github.com/thelastpawn009)
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Jo Anna Mollman](https://github.com/jodi08)
