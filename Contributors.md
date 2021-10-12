@@ -141,6 +141,7 @@
 - [Rayza Araujo](https://github.com/araujorayza)
 - [Nirbhay Chaplot](https://github.com/nirbhay12345)
 - [Harshit Kr Vishwakarma](https://github.com/HarshitRV)
+- [Ishaan Dasgupta](https://github.com/IshaanDasgupta)
 - [Hritvik Mohan](https://github.com/Hritvik-Mohan)
 - [Anurag Sharma](https://github.com/Anurag-2000)
 - [Tamanna-S](https://github.com/Tamanna-S)
