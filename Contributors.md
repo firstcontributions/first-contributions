@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Rerebla](https://github.com/Rerebla)
+- [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Pankaj Prajapati](https://github.com/paprajapati9)
