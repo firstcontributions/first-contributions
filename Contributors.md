@@ -99,6 +99,7 @@
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
+- [Daniel García](https://github.com/Danielggz)
 - [Brites](https://github.com/Brites101)
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
