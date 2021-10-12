@@ -2513,5 +2513,6 @@ Disguy
 - [James Soderberg](https://github.com/james-soderberg
 - [Felipe Luz](https://github.com/felipeluz10)
 - [Dabrovsky](https://github.com/Dabrovsky)
+- [Claudiu Forgaci](https://github.com/cforgaci)
 
 <!-- prettier-ignore-end -->
