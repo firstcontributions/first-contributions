@@ -1106,6 +1106,7 @@ Himanshu Dedha
 - [DEEPAMJYOTI SAHOO](https://github.com/Deepam4u)
 - [ASHUTOSH KUMAR CHOUDHARY](https://github.com/Ash-KODES)
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
+-[SHASHANK KYADARI](https://github.com/gitshasha)
 - [Nae Sebastian](https://github.com/SheepSeb)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
 - [Maxi Chiale](https://github.com/maxichiale)
@@ -2504,6 +2505,7 @@ Disguy
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Francisco Heronildo](https://github.com/FranciscoHeronildo)
 - [Alexandra D](https://github.com/dobre-alexandra)
+
 - [Charles Wen](https://github.com/wencharles)
 - [Aday Monzon](https://github.com/Aday-Monzon)
 - [Victor Hüni](https://github.com/VictorHueni)
