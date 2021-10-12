@@ -84,6 +84,7 @@
 - [sruly rosenblat](https://github.com/codeForX)
 - [MostafaKMilly](https://github.com/MostafaKMilly)
 - [NimitWadhwa](https://github.com/nimit05)
+- [JaySuthar](https://github.com/Jay-Suthar)
 - [Kimon](https://github.com/TheKimon)
 - [Priya Sharma](https://github.com/priya0220)
 - [Nihal Dias](https://github.com/nrd26)
