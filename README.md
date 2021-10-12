@@ -114,7 +114,7 @@ Change to the repository directory on your computer (if you are not already ther
 ```
 cd first-contributions
 ```
-
+My name is Shneior  
 Now create a branch using the `git checkout` command:
 
 ```
