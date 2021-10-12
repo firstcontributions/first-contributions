@@ -1358,6 +1358,7 @@ Himanshu Dedha
 - [Fabian Pijcke](https://github.com/shepard8)
 - [linteresting](https://github.com/Linteresting)
 - [Fatih Aydin](https://github.com/fatay)
+- [Saatvat Gupta](https://github.com/Saatvat)
 - [Robin Borgstrom](https://github.com/robinborg)
 - [Alessandro Meschi](https://github.com/MrAlessandro)
 - [Amir Raza](https://github.com/pseudo-nymous)
