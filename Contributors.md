@@ -1244,6 +1244,7 @@ Himanshu Dedha
 - [Vikas](https://github.com/vikasdabhi)
 - [LakshmiSankaraSubramanian](https://github.com/LakshmiSankaraSubramanian)
 - [Curt House](https://github.com/Neurum)
+- [Rushikesh](https://github.com/RUSHI-15)
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
 - [Arvind](https://github.com/01arvind)
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
