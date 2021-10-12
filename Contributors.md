@@ -72,6 +72,7 @@
 - [Soham Ghosh](https://github.com/sohamghosh1509)
 - [Shagun Bose](https://github.com/shagunBose)
 - [Alice Springfeld](https://github.com/alicespringfeld)
+- [Debbie Thompson](https://github.com/debbiect246)
 - [Tom Kennedy](https://github.com/Skyrub-dev)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [Pedro Veríssimo](https://github.com/pbv2)
