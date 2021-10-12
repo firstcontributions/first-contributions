@@ -115,6 +115,7 @@
 - [Anmol Gupta](https://github.com/anmolg84)
 - [Shivani Kumari](https://github.com/shivanikumari631)
 - [Kodali Bhavana](https://github.com/Kodali-Bhavana)
+- [Chieh Ju](https://github.com/trinityliaoAI)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Nasreen Khalid](https://github.com/NasreenKhalid)
 - [Abideen Bello] (https://github.com/bideeen)
