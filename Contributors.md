@@ -153,6 +153,7 @@
 - [Chukwuemeka Aladimma] (https://github.com/Acel-01)
 - [Akemi Murayama] (https://github.com:akemim12)
 - [Amit Bhargava](https://github.com/ambhargava)
+- [Tamara W](https://github.com/Tam-star)
 - [Sabri Oussama](https://github.com/Sabri01)
 - [Max VanReynegom](https://github.com/maxvrdev)
 - [jrojas] (https://github.com/jrojas10)
