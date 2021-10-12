@@ -12,6 +12,7 @@
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
+- [Felipe Flores] (https://github.com/FelFT)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
