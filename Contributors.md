@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Rerebla](https://github.com/Rerebla)
+- [Joshua Hinojo] (https://github.com/jgone99)
 - [Pankaj Prajapati](https://github.com/paprajapati9)
 - [Waleed Mumtaz](https://github.com/waleedmumtaz)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
