@@ -113,6 +113,7 @@
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Akshaj Balaji](https://github.com/akshajb)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
+- [Danilo Mladenovic](https://github.com/Danilo-Mladenovic)
 - [Ayush Singh](https://github.com/AyushSingh-github)
 - [Anmol Gupta](https://github.com/anmolg84)
 - [Shivani Kumari](https://github.com/shivanikumari631)
