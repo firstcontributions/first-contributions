@@ -29,7 +29,7 @@
   [Siva Sundar](https://github.com/siivvaa)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
-- [Savan Bhanderi](https://github.com/Savan414) 
+- [Savan Bhanderi](https://github.com/Savan414)
 - [Shifaat](https://github.com/Shifaat)
 - [Jeff lin](https://github.com/a1045520)
 - [Sid Lais](https://github.com/Sid-Lais)
@@ -1796,7 +1796,7 @@ Himanshu Dedha
 - [Sun Cold](https://github.com/Sun-Cold)
 - [Jiaget](https://github.com/Jiaget)
 - [Nitu Kumari](https://github.com/U220053)
-- [Yuri Gogolitsyn](https://github.com/ygogolitsyn) 
+- [Yuri Gogolitsyn](https://github.com/ygogolitsyn)
 - [Something Went Well](https://github.com/somethingwentwell)
 - [canntfly](https://github.com/canntfly)
 - [Yaswanthkumar Gothireddy](https://github.com/yaswanthkumargothi)
@@ -2477,6 +2477,7 @@ Himanshu Dedha
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 Disguy
 - [Laura Pippitt](https://github.com/laapipp)
+- [Ben Fleming] (https://github.com/BEN-FLEMING)
 - [Alief Ramadhan](https://github.com/itsmelief)
 - [Aya Helmaoui](https://github.com/Ayahelmaoui)
 - [Mel Brandão](https://github.com/melbzzz)
@@ -2500,5 +2501,6 @@ Disguy
 - [Joni Oliveira](https://github.com/jonioliveira)
 - [James Soderberg](https://github.com/james-soderberg
 - [Felipe Luz](https://github.com/felipeluz10)
+
 
 <!-- prettier-ignore-end -->
