@@ -46,6 +46,7 @@
 - [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [tsX369](https://github.com/tsX369)
+ - [Gavin Barnes](https://github.com/cantidosan)
 - [Manu Peralta] (https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
