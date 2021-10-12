@@ -216,6 +216,7 @@
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Abhishek Munda](https://github.com/abhishek-munda)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
+- [John David Soto](https://github.com/scruffy403)
 - [Shreyas Kulkarni] (https://github.com/SHREYAS290601)
 - [Jei Pratheesh] (https://github.com/JeiRaju)
 - [Em White](https://github.com/kropht)
