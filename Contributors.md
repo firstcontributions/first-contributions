@@ -1310,6 +1310,7 @@ Himanshu Dedha
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
+- [Brian Gor] (https://github.com/briangor)
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
 - [Meeru](https://github.com/m33ru) ¯\_(ツ)\_/¯
 - [Vlad Konoshenko](https://github.com/Konoshenko)
