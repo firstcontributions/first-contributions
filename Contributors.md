@@ -6,6 +6,7 @@
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
+- [Shyam Jalan](https://github.com/shyamjalan)
 - [Prasad Naik] (https://github.com/naik24)
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
