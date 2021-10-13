@@ -5,6 +5,7 @@
 - [Rerebla](https://github.com/Rerebla)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
+- [Prasad Naik] (https://github.com/naik24)
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Sindhura K S](https://github.com/sindhuraks)
