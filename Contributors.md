@@ -22,6 +22,7 @@
 - [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Irina Kuz](https://github.com/IrinaKuz)
+- [Rozen Berg](https://github.com/rozenberg4christ)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [chmodx1sh](https://github.com/chmodx1sh)
 - [Felipe Santos](https://github.com/felipesantos2)
