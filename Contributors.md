@@ -2534,5 +2534,6 @@ Disguy
 - [Suraj Kumar](https://github.com/skmodi649)
 - [Likang](https://github.com/leekkxy)
 - [kkusznir](https://github.com/kkusznir)
+- [Thomas W](https://github.com/wolfi3654)
 
 <!-- prettier-ignore-end -->
