@@ -4,6 +4,7 @@
 
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
+- [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
 - [Felipe Santos](https://github.com/felipesantos2)
 - [Luis Hernandez](https://github.com/DatBoiLuiskrrt?tab=repositories)
