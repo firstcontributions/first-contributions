@@ -218,6 +218,7 @@
   [Muhammad Zohaib] (https://github.com/ZohaibAsif)
 - [Akshit Mehra](https://github.com/AkshiMehra/)
 - [Shishupal Kumar](https://github.com/shishupalamigo/)
+- [Ritesh Kumar](https://github.com/rit-kr/)
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Abhishek Munda](https://github.com/abhishek-munda)
