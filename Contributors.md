@@ -2399,6 +2399,7 @@ Himanshu Dedha
 - [Hasobi Roid Radityo](https://github.com/hasobi)
 - [Carlo Martin](https://github.com/CarloMtzMartin)
 - [Kode Lebah](https://github.com/kodelebah)
+- [Aaron Jarda Johnson] (https://github.com/JardaCS)
 - [Madhan M](https://github.com/CaptMadhan)
 - [Vinamra Dash](https://github.com/Vinamra-15)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
