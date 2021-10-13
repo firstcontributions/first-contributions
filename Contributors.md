@@ -2538,5 +2538,6 @@ Disguy
 - [Likang](https://github.com/leekkxy)
 - [kkusznir](https://github.com/kkusznir)
 - [Thomas W](https://github.com/wolfi3654)
+- [Sinbad07](https://github.com/Sinbad07)
 
 <!-- prettier-ignore-end -->
