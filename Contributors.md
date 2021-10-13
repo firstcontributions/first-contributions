@@ -2402,6 +2402,7 @@ Himanshu Dedha
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
 - [Otis C](https://github.com/otili9890)
+- [Luiggy Macias](https://github.com/macluiggy)
 - [Sam Lees](https://github.com/bitsam)
 - [Marty Zhu](https://github.com/marty-zhu)
 - [Agustin Santagada](https://github.com/agustinsantagada)
