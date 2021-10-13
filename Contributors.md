@@ -47,6 +47,7 @@
 - [Jandi Mei](https://github.com/jandi-mei)
 - [Arcadia Cipolla](https://github.com/arcadiacipolla)
 - [Vaishnavi](https://github.com/25-vaishnavi)
+- [Dhinesh-M](https://github.com/mdhinesh)
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
 - [Koranteng Anane](https://github.com/squidiw)
