@@ -21,6 +21,7 @@
 - [Christina Varghese](https://github.com/christinichka)
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
+- [Junaid Arham](https://github.com/jazaki/)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Ester Santos](https://github.com/EsterRibeiro)
