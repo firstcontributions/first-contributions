@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Javier Carrion](https://github.com/JavaVista)
+- [Royce Le](https://github.com/roycevanle)
 - [Rerebla](https://github.com/Rerebla)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Rohit Kumar](https://github.com/rk0010159)
