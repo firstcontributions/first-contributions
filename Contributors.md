@@ -178,6 +178,7 @@
 - [Smith Ringtho] (https://github.com/ringtho)
   Joshua Do
   Akanksha Singh
+  Manas Chinta 29
 - [Itzhak Maymon] (https://github.com/tzahy92)
   [Eniola Fagbeyiro](https://github.com/eniola-f)
   Anishka (https://github.com/anishka01)
