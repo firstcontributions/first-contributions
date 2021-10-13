@@ -2172,6 +2172,7 @@ Himanshu Dedha
 - [Megat Harun](https://github.com/megatharun)
 - [komooo](https://github.com/komooo)
 - [Leonie](https://github.com/Leo-nie)
+- [Wadzek1](https://github.com/Wadzek1)
 - [Cami Queiroz](https://github.com/camimq)
 - [Himanshu Chaudhary](https://github.com/chaudharyhimanshu)
 - [Cami Queiroz](https://github.com/camimq)
