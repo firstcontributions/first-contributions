@@ -1173,6 +1173,7 @@ Himanshu Dedha
 - [Naman Singh Nayal](https://github.com/NamanSN240002)
 - [Izzminhal Akmal](https://github.com/Kemystra)
 - [Santanu Biswas](https://github.com/Santanu29)
+- [meritarition](https://github.com/meritarition)
 - [utah239](https://github.com/utah239)
 - [SahityaRoy](https://github.com/SahityaRoy)
 - [abimaelB](https://github.com/abimael-o-o)
