@@ -2267,6 +2267,7 @@ Himanshu Dedha
 - [Allan Paul Rosero](https://github.com/allanrosero)
 - [Arianna Haradon](https://github.com/arianna-h-h)
 - [Dong Xia](https://github.com/Dong-Yi-Xia)
+- [Luiggy Macias](https://github.com/macluiggy)
 - [Chris LoJacono](https://github.com/chrislojacono)
 - [Emma Carlsson](https://github.com/emmeth99)
 - [Kamal Kant](https://github.com/kamal2806/)
