@@ -20,6 +20,7 @@
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
+- [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
