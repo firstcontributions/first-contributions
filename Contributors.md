@@ -7,6 +7,7 @@
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
+- [Sindhura K S](https://github.com/sindhuraks)
 - [Pankaj Prajapati](https://github.com/paprajapati9)
 - [Waleed Mumtaz](https://github.com/waleedmumtaz)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
