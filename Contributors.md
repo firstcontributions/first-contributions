@@ -451,6 +451,7 @@ Pranjal
 - [Felipe Antunes](https://github.com/feantuns)
 - [Achal Singh](https://github.com/achal-singh)
 - [Sanya](https://github.com/M-Sanya)
+- [Felipe Martins] (https://github.com/felipemartins334)
 - [Shaurya](https://github.com/shaurya5 )
 - [Tom](https://github.com/tomer9)
 - [Aisling K](https://github.com/aikearney)
