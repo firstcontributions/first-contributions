@@ -239,6 +239,7 @@
 - Sankar Pitchuka
 - Rebecca Ahn
 - [Daberechi Okorie](https://github.com/Dahbaeraychy)
+- Mohamed Habarneh
 - [Ajriel](https://github.com/AjrielRm/)
 - [Valentine G](https://github.com/1-creator)
 - [Vipul Kumar Singh](https://github.com/vipul-2003)
