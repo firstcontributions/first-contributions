@@ -56,7 +56,7 @@
 - [eddyhakimi](https://github.com/eddyhakimi)
 - [Debabrata Banerjee](https://github.com/debabratabanerjee) 
 - [Jeff lin](https://github.com/a1045520)
-- [Putri Nursofiyanti](https://github.com/putrinj)
+- [Putri Nursofiyanti Juliashakti](https://github.com/putrinj)
 - [Sid Lais](https://github.com/Sid-Lais)
 - [Sudipto Mondal](https://github.com/sudipto)
 - [Jandi Mei](https://github.com/jandi-mei)
