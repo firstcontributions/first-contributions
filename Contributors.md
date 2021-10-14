@@ -2570,5 +2570,6 @@ Disguy
 - [Srikant V S](https://https://github.com/srikantvs)
 - [TyraLizQ10](https://github.com/TyraLizQ10)
 - [Stian Martinsen](https://github.com/stian-git)
+- [Ashley James Ivin Foster](https://github.com/ajifoster3)
 
 <!-- prettier-ignore-end -->
