@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 
 # **Contributors**
 
@@ -2569,6 +2569,7 @@ Disguy
 - [Dabrovsky](https://github.com/Dabrovsky)
 - [Claudiu Forgaci](https://github.com/cforgaci)
 - [Suraj Kumar](https://github.com/skmodi649)
+- [Vladimir Salnikov] (https://github.com/VladimirSalnikov)
 - [Likang](https://github.com/leekkxy)
 - [kkusznir](https://github.com/kkusznir)
 - [Thomas W](https://github.com/wolfi3654)
