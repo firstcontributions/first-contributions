@@ -1035,6 +1035,7 @@ Himanshu Dedha
 - [Kaushik Sai Kadali](https://github.com/kaushiksai29)
 - [Ashish Shroti](https://github.com/ashishshroti14)
 - [Alpesh Valvi](https://github.com/AlpeshValvi123)
+- [Steven Wang](https://github.com/happiestbee)
 - [Om Parshar](https://github.com/orashar)
 - [Sudha Tanay Doddi](https://github.com/sudhatanay)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
