@@ -2478,6 +2478,7 @@ Himanshu Dedha
 - [Kadambini](https://github.com/kadambinipanda)
 - [AtaT](https://github.com/fotino21)
 - [Firejoust](https://github.com/camezza)
+- [Terrell Turner](https://github.com/meshDrip)
 - [Ahmad Takkoush](https://github.com/ahmadtakkoush)
 - [Ashish Shaji](https://github.com/covertgravy)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
