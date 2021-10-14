@@ -63,6 +63,7 @@
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [Olly Overend](https://github.com/OliverOverend)
 - [Koranteng Anane](https://github.com/squidiw)
+- [Nick Ankenbruck] (https://github.com/nmankenb)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [tsX369](https://github.com/tsX369)
 - [Gavin Barnes](https://github.com/cantidosan)
