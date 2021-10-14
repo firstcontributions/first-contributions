@@ -27,6 +27,7 @@
 - [Happy Francis Atta Baffo](https://github.com/baffoatta/)
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
+- [Mohammed Shaz](https://github.com/mo-shaz)
 - [Junaid Arham](https://github.com/jazaki/)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
