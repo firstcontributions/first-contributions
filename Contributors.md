@@ -2566,5 +2566,6 @@ Disguy
 - [Shivam Rawat](https://github.com/wickedwisdom0911)
 - [Aisa Luana](https://https://github.com/aisaluana)
 - [Srikant V S](https://https://github.com/srikantvs)
+- [TyraLizQ10](https://github.com/TyraLizQ10)
 
 <!-- prettier-ignore-end -->
