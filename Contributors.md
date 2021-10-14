@@ -12,6 +12,7 @@
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Dishant](https://github.com/Dishant2001)
+- [Isaiah Mori](https://github.com/frin457)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
 - [Andrew Chambers](https://github.com/W3Dojo)
