@@ -741,6 +741,7 @@ Himanshu Dedha
 - [sunzida311](https://github.com/sunzida311)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
+- [Rahul Mokaria](https://github.com/rahulmokaria)
 - [FactorYang](https://github.com/FactorYang)
 - <a href="https://github.com/rjkawoya"> R.J.</a>
 - [HHz8746](https://github.com/HHz8746)
