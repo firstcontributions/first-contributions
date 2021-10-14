@@ -21,6 +21,7 @@
 - [Chandan M S](https://github.com/zac-candy)
 - [Arnav Puri](https://github.com/ArnavPuri)
 - [losowy](https://github.com/losowyLP)
+- [Treasure Ajefu](https://github.com/cybergeni)
 - [Milind jamnekar](https://github.com/Milind-Jamnekar)
 - [MI RAKIB](https://github.com/mirakib)
 - [Christina Varghese](https://github.com/christinichka)
