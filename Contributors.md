@@ -87,6 +87,7 @@
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Simeon Akanbi](https://github.com/simple-codes22)
 - [David Michael](https://github.com/davelearning)
+- [Avi B](https://github.com/inspiringsource)
 - [Robert West](https://github.com/rolewest)
 - [Saswata Majumdar](https://github.com/Sas1999)
 - [David Coe](https://github.com/Daviology38)
