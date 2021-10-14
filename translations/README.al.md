@@ -7,31 +7,31 @@
 # Kontributet e Para
 
 
-Është e vështirë. Është gjithmonë e vështirë hera e parë kur bën diçka. Sidomos kur bashkëpunon, të bësh gabime nuk është një ndjenjë e mirë. Ne duam ta thjeshtësojmë mënyrën se si kontribuesit e open-source mësojnë dhe kontribuojnë për herë të parë.
-Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë se sa ta bësh këtë gjë në një vend praktike? Ky projekt synon të udhëzojë & të thjeshtësojë mënyrën se si fillestarët bëjnë kontributin e tyre të parë. Nëse dëshiron të bësh kontributin tënd të parë, ndiqi hapat më poshtë.
+Është gjithmonë e vështirë hera e parë kur bën diçka. Sidomos kur bashkëpunon, të bësh gabime nuk është një ndjenjë e mirë. Ne duam ta thjeshtësojmë mënyrën se si kontribuesit e open-source mësojnë dhe kontribuojnë për herë të parë.
+Leximi i artikujve dhe shikimi i tutorialve ndihmojnë, por ç'është më mirë se sa ta bësh këtë gjë në një vend praktik? Prandaj ky projekt synon të udhëzojë dhe të thjeshtësojë mënyrën se si fillestarët e bëjnë kontributin e tyre të parë. Nëse dëshironi të bëni kontributin tuaj të parë, ndiqni hapat më poshtë!
 
-#### *Nëse ende nuk ndjehesh komod me command line, [këtu ke tutoriale që përdorin veglat e GUI]( #tutorials-using-other-tools )*
+#### *Nëse ende nuk ndiheni rehat me command line, [këtu ke tutoriale që përdorin veglat e GUI]( #tutorials-using-other-tools )*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje]( https://help.github.com/articles/set-up-git/).
+Nëse nuk e keni Git të instaluar në paisjen tuaj, [instalojeni]( https://help.github.com/articles/set-up-git/).
 
-## Bëje fork këtë repozitor
+## Bëni fork këtë repozitor
 
-Për të bërë fork këtë repozitor kliko butonin fork në majë të kësaj faqeje. Kjo do të krijojë një kopje të ketij repozitori në llogarinë tënde.
+Për të bërë fork këtë repozitor kliko butonin fork në krye të kësaj faqe. Kjo do të krijojë një kopje të këtij repozitori në llogarinë tuaj.
 
-## Klonoje këtë repozitor
+## Klononi këtë repozitor
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e GitHub, hap forked repository, kliko butonin Code dhe pastaj kliko ikonën *copy to clipboard*.
+Tani klononi në paisjen tuaj repozitorin që e keni bërë fork paraprakisht. Shkoni tek llogaria juaj e GitHub, hapni repozitorin që e keni bërë fork paraprakisht, klikoni butonin "code" dhe pastaj klikoni ikonën *copy to clipboard*.
 
-Hap terminalin dhe bëje run git komandën në vazhdim:
+Hapni terminalin dhe bëni run git komandën në vazhdim:
 
 ```
-git clone "url që sapo ke kopjuar"
+git clone "url-në që sapo e keni kopjuar"
 ```
-ku "url që sapo ke kopjuar" (pa thonjëzat) është url e këtij repozitori (repozitori që bëre fork). Shiko hapat e mëparshëm për të marrë url-në.
+ku "url-në që sapo e keni kopjuar" (pa thonjëzat) është url-ja e këtij repozitori (repozitori që e keni bërë fork). Shiko hapat paraprak për të marrë url-në.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -39,16 +39,16 @@ Për shembull:
 ```
 git clone https://github.com/ky-je-ti/first-contributions.git
 ```
-ku `ky-je-ti` është emri jot në GitHub. Këtu ti e kopjon përmbajtjen e repozitorit first-contributions në GitHub te kompjuteri jot.
+ku `ky-je-ti` është emri juaj në GitHub. Ju këtu i kopjoni përmbajtjet e repozitorit first-contributions në GitHub te kompjuteri juaj.
 
-## Krijo një degë (branch)
+## Krijoni një degë (branch)
 
-Ndryshoje lokacionin te repozitori në kompjuterin tënd (nëse nuk je në lokacionin e duhur):
+Ndryshoni lokacionin përndryshe direktorinë te repozitori në kompjuterin tuaj (nëse nuk jeni ende në lokacionin e duhur):
 
 ```
 cd first-contributions
 ```
-Tani krijo një degë duke përdorur komandën `git checkout`:
+Tani krijoni një degë (branch) duke përdorur komandën `git checkout`:
 ```
 git checkout -b <emri-i-degës-tënde>
 ```
@@ -57,57 +57,57 @@ Për shembull:
 ```
 git checkout -b add-filan-fisteku
 ```
-(Emri i degës nuk është e nevojshme të ketë fjalën *add* në të, por është e arsyeshme të përfshihet pasi që qëllimi i kësaj dege është të shtojë emrin tënd në një listë.)
+(Emri i degës nuk ka nevojë të ketë fjalën *add* në të, por është një gjë e arsyeshme të përfshihet sepse qëllimi i kësaj dege është të shtojë emrin tuaj në një listë.)
 
-## Bëji ndryshimet e nevojshme dhe bëji commit
+## Bëni ndryshimet e nevojshme dhe bëni commit ato ndryshime
 
-Tani hap fajllin `Contributors.md` në një program për editim të tekstit dhe shto emrin tënd. Mos e shto në fillim ose në fund. Shtoje ku të duash në mes. Tani, ruaj fajllin.
+Tani hap fajllin `Contributors.md` në një program për editim të tekstit dhe shtoni emrin tuaj. Mos e shtoni atë në fillim ose në fund të fajllit. Shtojeni ku të doni në mes. Tani, ruani fajllin.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
-Nëse shkon te lokacioni i projektit dhe e ekzekuton komandën `git status`, do shohësh se ka ndryshime.
+Nëse shkoni te lokacioni i projektit dhe e ekzekutoni komandën `git status`, do shihni se ka ndryshime.
 
 
-Shtoji këto ndryshime te dega që sapo krijove duke përdorur komandën `git add`:
+Shtoni këto ndryshime te dega që sapo e krijuat duke përdorur komandën `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Tani bëji commit këto ndryshime duke përdorur komandën `git commit`:
+Tani bëni commit këto ndryshime duke përdorur komandën `git commit`:
 ```
-git commit -m "Add <emri-jot> to Contributors list"
+git commit -m "Add <emri-juaj> to Contributors list"
 ```
-zëvendëso `<emri-jot>` me emrin tënd.
+zëvendëso `<emri-juaj>` me emrin tuaj.
 
-## Bëji push (shtyji) ndryshimet në GitHub
+## Bëni push (shtyji) ndryshimet në GitHub
 
-Bëji push ndryshimet duke përdorur komandën `git push`: 
+Bëni push ndryshimet duke përdorur komandën `git push`: 
 ```
-git push origin <emri-i-degës-tënde>
+git push origin <emri-i-degës-tuaj>
 ```
-zëvendëso `<emri-i-degës-tënde>` me emrin e degës që krijove më herët.
+duke e zëvendësuar `<emri-i-degës-tuaj>` me emrin e degës që krijuat më herët.
 
-## Bëji ndryshimet submit për shqyrtim
+## Bëni ndryshimet submit për shqyrtim
 
-Nëse shkon te repozitori jot në GitHub, do të shohësh një buton `Compare & pull request`. Klikoje.
+Nëse shkoni te repozitori juaj në GitHub, do të shihni një buton `Compare & pull request`. Klikoni në atë buton.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Tani bëje submit këtë pull request.
+Tani bëni submit këtë pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Së shpejti do të bashkoj (bëj merge) të gjitha ndryshimet te dega master e këtij projekti. Ti do të njoftohesh me email kur të bëhen ndryshimet.
+Së shpejti do t'i bashkoj (bëj merge) të gjitha ndryshimet tuaja te dega master e këtij projekti. Ju do të njoftoheni me e-mail në momentin kur të bëhen ndryshimet.
 
-## Ku të shkosh nga këtu?
+## Ku të shkoni nga këtu?
 
-Urime!  Ti sapo ke kompletuar procesin _fork -> clone -> edit -> PR_ që do ta hasësh shpesh si kontributor!
+Urime!  Ju sapo keni kompletuar rrjedhën standarde  _fork -> clone -> edit -> pull request_ që do ta hasni shpesh si kontribues!
 
-Festoje kontributin tënd dhe ndaje me shokët dhe ndjekësit duke shkuar te  [web aplikacioni](https://firstcontributions.github.io/#social-share).
+Festoni kontributin tuaj dhe ndajeni me shokët dhe ndjekësit duke shkuar tek  [web aplikacioni](https://firstcontributions.github.io/#social-share).
 
-Ti mund të bashkohesh në ekipin tonë në slack nëse të duhet ndihmë ose nëse ke ndonjë pyetje. [Bashkohu ekipit në slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+Ju mund t'i bashkoheni ekipin tonë në slack nëse ju duhet ndihmë ose nëse keni ndonjë pyetje. [Bashkohu ekipit në slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
 
 Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar një listë projektesh me probleme të lehta tek të cilat mund të fillosh. Shiko [listën e projekteve në web apliacion](https://firstcontributions.github.io/#project-list).
 
