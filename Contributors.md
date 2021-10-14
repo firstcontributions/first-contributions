@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 
 # **Contributors**
 
@@ -2586,5 +2586,6 @@ Disguy
 - [Ashley James Ivin Foster](https://github.com/ajifoster3)
 - [Akhil Parmar](https://github.com/parmarakhil)
 - [Iuri Mendes](https://github.com/fcoiuri)
+- [Tarun Pal Singh](https://github.com/singhTarunPal)
 
 <!-- prettier-ignore-end -->
