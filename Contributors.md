@@ -2568,7 +2568,7 @@ Disguy
 - [Felipe Luz](https://github.com/felipeluz10)
 - [Dabrovsky](https://github.com/Dabrovsky)
 - [Claudiu Forgaci](https://github.com/cforgaci)
-- [Vladimir Salnikov] (https://github.com/VladimirSalnikov
+- [Vladimir Salnikov] (https://github.com/VladimirSalnikov)
 - [Suraj Kumar](https://github.com/skmodi649)
 - [Likang](https://github.com/leekkxy)
 - [kkusznir](https://github.com/kkusznir)
