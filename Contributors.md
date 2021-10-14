@@ -61,6 +61,7 @@
 - [Sid Lais](https://github.com/Sid-Lais)
 - [Sudipto Mondal](https://github.com/sudipto)
 - [Jandi Mei](https://github.com/jandi-mei)
+- [Nirav](https://github.com/srkds)
 - [Arcadia Cipolla](https://github.com/arcadiacipolla)
 - [Vaishnavi](https://github.com/25-vaishnavi)
 - [Dhinesh-M](https://github.com/mdhinesh)
