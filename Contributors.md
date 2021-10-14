@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
+- [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
 - [Rerebla](https://github.com/Rerebla)
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
