@@ -129,6 +129,7 @@
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
 - [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
+- [Daniel García](https://github.com/Danielggz)
 - [Brites](https://github.com/Brites101)
 - [Flippy](https://github.com/Flip771)
 - [WaiSkats] (https://github.com/WaiSkats)
