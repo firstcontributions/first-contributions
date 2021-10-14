@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Diego Sousa](https://github.com/sousadiego11)
 - [Royce Le](https://github.com/roycevanle)
 - [Rerebla](https://github.com/Rerebla)
 - [Vitali Gujevski](https://github.com/vgujevski/)
