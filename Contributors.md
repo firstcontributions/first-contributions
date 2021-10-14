@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Royce Le](https://github.com/roycevanle)
 - [Rerebla](https://github.com/Rerebla)
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
