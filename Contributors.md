@@ -2582,5 +2582,6 @@ Disguy
 - [Stian Martinsen](https://github.com/stian-git)
 - [Ashley James Ivin Foster](https://github.com/ajifoster3)
 - [Akhil Parmar](https://github.com/parmarakhil)
+- [Iuri Mendes](https://github.com/fcoiuri)
 
 <!-- prettier-ignore-end -->
