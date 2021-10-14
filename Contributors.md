@@ -4,6 +4,7 @@
 
 - [Royce Le](https://github.com/roycevanle)
 - [Rerebla](https://github.com/Rerebla)
+- [Aadil Khalifa](https://github.com/aadilkhalifa)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Mohit Verma](https://github.com/vermamohit13)
