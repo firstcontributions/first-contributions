@@ -2574,5 +2574,6 @@ Disguy
 - [TyraLizQ10](https://github.com/TyraLizQ10)
 - [Stian Martinsen](https://github.com/stian-git)
 - [Ashley James Ivin Foster](https://github.com/ajifoster3)
+- [Akhil Parmar](https://github.com/parmarakhil)
 
 <!-- prettier-ignore-end -->
