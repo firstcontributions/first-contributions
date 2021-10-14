@@ -24,6 +24,7 @@
 - [Milind jamnekar](https://github.com/Milind-Jamnekar)
 - [MI RAKIB](https://github.com/mirakib)
 - [Christina Varghese](https://github.com/christinichka)
+- [Happy Francis Atta Baffo](https://github.com/baffoatta/)
 - [Smit Jani](https://github.com/smitj23)
 - [Anurag Goel](https://github.com/anuraggoel27)
 - [Junaid Arham](https://github.com/jazaki/)
