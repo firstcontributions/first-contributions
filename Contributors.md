@@ -2002,6 +2002,7 @@ Himanshu Dedha
 - [Mert Cikla](https://github.com/mertcikla)
 - [Anno](https://github.com/anno59)
 - [Sun Ao](https://github.com/MarshalL-son)
+- [S. Hanko](https://github.com/s-hanko)
 - [Vinay Prabhu](https://github.com/Vinayprabhu19)
 - [Domingo Salerno](https://github.com/DASalerno)
 - [Muddassir Choudhry](https://github.com/MuddassirAsh)
