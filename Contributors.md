@@ -2235,6 +2235,7 @@ Himanshu Dedha
 - [glide143](https://github.com/glide143)
 - [Mariusz Git](https://github.com/mariuszgit)
 - [todoggler](https://github.com/todoggler)🦭
+- [Karen Hanko](https://github.com/guu1227)
 - [Ankit Kokane](https://github.com/thedudeonsun)
 - [Alexey Luhinin](https://github.com/alexey-luhinin)
 - [Andrey Firsov](https://github.com/avfirsov)
