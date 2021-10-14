@@ -6,6 +6,7 @@
 - [Rerebla](https://github.com/Rerebla)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Rohit Kumar](https://github.com/rk0010159)
+- [Mohit Verma](https://github.com/vermamohit13)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
 - [Shyam Jalan](https://github.com/shyamjalan)
