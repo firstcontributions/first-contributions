@@ -2568,5 +2568,6 @@ Disguy
 - [Aisa Luana](https://https://github.com/aisaluana)
 - [Srikant V S](https://https://github.com/srikantvs)
 - [TyraLizQ10](https://github.com/TyraLizQ10)
+- [Stian Martinsen](https://github.com/stian-git)
 
 <!-- prettier-ignore-end -->
