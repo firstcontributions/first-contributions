@@ -2206,6 +2206,7 @@ Himanshu Dedha
 - [Curtis Dean](https://github.com/cdeanatx)
 - [r3dg33k](https://github.com/r3dg33k)
 - [Brennon Loveless](https://github.com/bloveless)
+- [kornel53](https://github.com/kornel53)
 - [jabir](https://github.com/jabir366)
 - [Zuraiz Ahmed Shehzad](https://github.com/ZuraizAhmedShehzad)
 - [Gustavo Tavares](https://github.com/gustavo600)
