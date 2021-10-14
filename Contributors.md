@@ -31,6 +31,7 @@
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
+- [Tansy Hu](https://github.com/subarashii-huch09)
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Rozen Berg](https://github.com/rozenberg4christ)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
