@@ -61,6 +61,7 @@
 - [Madan](https://github.com/Madanaa)
 - [Roberto Yudi](https://github.com/Roberto-Yudi)
 - [Sushant Chhetry](https://github.com/SushantChhetry)
+- [John Nolan](https://github.com/Fediry)
   [Siva Sundar](https://github.com/siivvaa)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
