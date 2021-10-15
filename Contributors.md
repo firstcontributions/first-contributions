@@ -10,6 +10,7 @@
 - [Tom Broager](https://github.com/TomBroager)
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
 - [Vitali Gujevski](https://github.com/vgujevski/)
+- [Faran Mohammad](https://github.com/Faranheit15)
 - [Favour James](https://github.com/Favourj-bit)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Mohit Verma](https://github.com/vermamohit13)
