@@ -38,6 +38,7 @@
 - [Junaid Arham](https://github.com/jazaki/)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
+- [Alexander Stokes](https://github.com/Skwangles)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
