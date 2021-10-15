@@ -13,7 +13,7 @@ Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ ).
+Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://docs.github.com/es/get-started/quickstart/set-up-git ).
 
 ## Bifurca (*Fork*) este repositorio
 
