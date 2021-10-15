@@ -16,6 +16,7 @@
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
 - [Shyam Jalan](https://github.com/shyamjalan)
 - [Prasad Naik] (https://github.com/naik24)
+- Karin
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Joseph Caldwell](https://github.com/joseph-caldwell)
