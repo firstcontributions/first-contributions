@@ -2435,6 +2435,7 @@ Himanshu Dedha
 - [Yash Desai](https://github.com/yashdesoi)
 - [Naman Garg]
 - [Deepanshu verma](https://github.com/iDeepverma)
+- [Basak Demirok](https://github.com/BasakDemirok)
 - [Aneika Blake-Laing](https://github.com/aneilaing)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Texopolis](https://github.com/texopolis)
