@@ -16,6 +16,7 @@
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
 - [Shyam Jalan](https://github.com/shyamjalan)
 - [Prasad Naik] (https://github.com/naik24)
+- Karin
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Joseph Caldwell](https://github.com/joseph-caldwell)
@@ -646,6 +647,7 @@ Himanshu Dedha
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
 - [Rohit Gangwar](https://github.com/rohit8020/)
+- [Christopher](https://github.com/christopherlim98)
 - [Rahul](https://github.com/sRahul-00)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
@@ -2434,6 +2436,7 @@ Himanshu Dedha
 - [Yash Desai](https://github.com/yashdesoi)
 - [Naman Garg]
 - [Deepanshu verma](https://github.com/iDeepverma)
+- [Basak Demirok](https://github.com/BasakDemirok)
 - [Aneika Blake-Laing](https://github.com/aneilaing)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Texopolis](https://github.com/texopolis)
@@ -2518,6 +2521,7 @@ Himanshu Dedha
 - [Sarvesh Hon](https://github.com/sarveshhon/)
 - [Gustavo Barbosa](https://github.com/gusbdev)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
+- [Abhishek Jain](https://github.com/abhi-j0407)
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
 - [Changyu Meng](https://github.com/longfish)
@@ -2603,5 +2607,6 @@ Disguy
 - [Iuri Mendes](https://github.com/fcoiuri)
 - [Tarun Pal Singh](https://github.com/singhTarunPal)
 - [Jagjit Singh Bhumra](https://github.com/jagjitsbhumra)
+- [Pooja Reddy](https://github.com/chayenne-pepper)
 
 <!-- prettier-ignore-end -->
