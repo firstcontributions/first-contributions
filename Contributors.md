@@ -5,6 +5,7 @@
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
+- [Khai Bui](https://github.com/GuyBritish)
 - [Rerebla](https://github.com/Rerebla)
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
 - [Vitali Gujevski](https://github.com/vgujevski/)
