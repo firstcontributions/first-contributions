@@ -7,7 +7,7 @@
 - [Royce Le](https://github.com/roycevanle)
 - [Khai Bui](https://github.com/GuyBritish)
 - [Rerebla](https://github.com/Rerebla)
-- [Tom Broager]()
+- [Tom Broager]
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Favour James](https://github.com/Favourj-bit)
