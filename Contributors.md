@@ -2617,5 +2617,6 @@ Disguy
 - [Pooja Reddy](https://github.com/chayenne-pepper)
 - [Maxime Héliot](https://github.com/maximeheliot)
 - [Mrinal Choudhary] (https://github.com/mrinal07)
+- [Matheus Rufino] (https://github.com/matheusrufinos)
 
 <!-- prettier-ignore-end -->
