@@ -2611,5 +2611,6 @@ Disguy
 - [Tarun Pal Singh](https://github.com/singhTarunPal)
 - [Jagjit Singh Bhumra](https://github.com/jagjitsbhumra)
 - [Pooja Reddy](https://github.com/chayenne-pepper)
+- [Maxime Héliot](https://github.com/maximeheliot)
 
 <!-- prettier-ignore-end -->
