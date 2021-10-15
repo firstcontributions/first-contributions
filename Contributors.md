@@ -93,7 +93,7 @@
 - [Kinzang Wangdi](https://github.com/geekbeats)
 - [Omkar Gunjal](https://github.com/omkarg1417)
 - [Daniel Belarmino](https://github.com/belarba)
-  [Zevelix] (https://github.com/zevelix)
+- [Zevelix] (https://github.com/zevelix)
 - [Adhiraj Soparkar](https://github.com/Adhiraj10)
 - [Labib Hibatullah](https://github.com/lalabib)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
