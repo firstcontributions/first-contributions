@@ -28,6 +28,7 @@
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Chandan M S](https://github.com/zac-candy)
 - [Arnav Puri](https://github.com/ArnavPuri)
+- [Zaid Mujahid](https://github.com/ZaidMujahid)
 - [losowy](https://github.com/losowyLP)
 - [Treasure Ajefu](https://github.com/cybergeni)
 - [Milind jamnekar](https://github.com/Milind-Jamnekar)
