@@ -130,6 +130,7 @@
 - [Priya Sharma](https://github.com/priya0220)
 - [Nihal Dias](https://github.com/nrd26)
 - [Gulraiz Noor Bari](https://github.com/gulraiznoorbari)
+- [lukxchr](https://github.com/lukxchr)
 - [Hamza Bouchikhi](https://github.com/devnart)
 - [Ganache99](https://github.com/Ganache99)
 - [Daniel C](https://github.com/dnzc)
