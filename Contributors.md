@@ -2613,6 +2613,6 @@ Disguy
 - [Jagjit Singh Bhumra](https://github.com/jagjitsbhumra)
 - [Pooja Reddy](https://github.com/chayenne-pepper)
 - [Maxime Héliot](https://github.com/maximeheliot)
--  Mrinal Choudhary
+- [Mrinal Choudhary] (https://github.com/mrinal07)
 
 <!-- prettier-ignore-end -->
