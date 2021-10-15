@@ -533,6 +533,7 @@ Pranjal
 -[Sushmita](https://github.com/sush14feb)
 - [Amal Richwin](https://github.com/AmalRichwin)
 - [Vishal Sharma](https://github.com/VishalS047)
+- [Vishal Ravichandran](https://github.com/Vishal-011)
 - [Akshat Kant Thakur](https://github.com/akshatkant/)
 - [Shreyas H C](https://github.com/shreyashc)
 - [Rahul](https://github.com/Rahul8955)
