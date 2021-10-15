@@ -2604,5 +2604,6 @@ Disguy
 - [Iuri Mendes](https://github.com/fcoiuri)
 - [Tarun Pal Singh](https://github.com/singhTarunPal)
 - [Jagjit Singh Bhumra](https://github.com/jagjitsbhumra)
+- [Pooja Reddy](https://github.com/chayenne-pepper)
 
 <!-- prettier-ignore-end -->
