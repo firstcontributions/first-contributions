@@ -1226,6 +1226,7 @@ Himanshu Dedha
 - [Alex Herrera](https://github.com/monkeylunchbreak)
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [Fnechz](https://github.com/Fnechz)
+- [PythonPro3](https://github.com/PythonPro3)
 - [Kiriti](https://github.com/GVS-Kiriti)
 - [Khalil](https://github.com/khalil1233)
 - [Vishnu](https://github.com/vibindi)
