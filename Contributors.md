@@ -79,6 +79,7 @@
 - [Vaishnavi](https://github.com/25-vaishnavi)
 - [Dhinesh-M](https://github.com/mdhinesh)
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
+- [elman23](https://github.com/elman23)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
