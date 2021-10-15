@@ -2520,6 +2520,7 @@ Himanshu Dedha
 - [Sarvesh Hon](https://github.com/sarveshhon/)
 - [Gustavo Barbosa](https://github.com/gusbdev)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
+- [Abhishek Jain](https://github.com/abhi-j0407)
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
 - [Changyu Meng](https://github.com/longfish)
