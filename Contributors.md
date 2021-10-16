@@ -9,6 +9,7 @@
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
 - [DanielTruong](https://github.com/anhduy1202)
+- [Emily Essex](https://github.com/emilygraceessex)
 - [Khai Bui](https://github.com/GuyBritish)
 - [Hanane NAHIM](https://github.com/hannhm1109)
 - [Rerebla](https://github.com/Rerebla)
