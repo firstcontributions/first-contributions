@@ -2617,5 +2617,6 @@ Disguy
 - [Pooja Reddy](https://github.com/chayenne-pepper)
 - [Maxime Héliot](https://github.com/maximeheliot)
 - [Mrinal Choudhary] (https://github.com/mrinal07)
+- [Tatiane Correa] (https://github.com/taticorrea)
 
 <!-- prettier-ignore-end -->
