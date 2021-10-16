@@ -54,7 +54,7 @@
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Ester Santos](https://github.com/EsterRibeiro)
-- João Gomes
+- [João Gomes](https://github.com/joaogomes1))
 - [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Tansy Hu](https://github.com/subarashii-huch09)
