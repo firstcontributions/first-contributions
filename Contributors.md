@@ -25,6 +25,7 @@
 - [Mohit Verma](https://github.com/vermamohit13)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
+- [Mirla Lopes](https://github.com/Mirlaaa)
 - [Shyam Jalan](https://github.com/shyamjalan)
 - [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
