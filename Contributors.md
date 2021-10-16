@@ -521,6 +521,7 @@ Pranjal
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [Marcus Fisher](https://github.com/msfisher)
+- [Gabriel De Oliveira](https://github.com/gdeoliveira03)
 - [AtanuGhosh](https://github.com/zabuja)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Arialdys Calderon](https://github.com/arialdyscv)
