@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
