@@ -211,6 +211,7 @@
 - [Adrian Townsend](https://github.com/adrianrtownsend)
   [viroopaksh-utrayak](https://github.com/viroopaksh-utrayak)
 - [Varun Patel](https://github.com/varunpatel07)
+- [Ayush Patel](https://github.com/ayush-patel-78)
 - [Skyz03](https://github.com/Skyz03)
 - [Jean-Baptiste Edouard](https://github.com/Jean-Baptiste-E)
 - [Peder Schroeder](https://github.com/schroepn/)
