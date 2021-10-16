@@ -1,4 +1,4 @@
-﻿<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->
 
 # **Contributors**
 
@@ -291,6 +291,7 @@
 - [Jei Pratheesh] (https://github.com/JeiRaju)
 - [Em White](https://github.com/kropht)
 - [Marco](https://github.com/Marco-Kap)
+- [Drew](https://github.com/dbrokamp)
 - [ceyxasm](https://github.com/ceyxasm)
 - [Radha Krishna](https://github.com/trk286)
 - [Krutarth](https://github.com/JohnDoeIsBack)
