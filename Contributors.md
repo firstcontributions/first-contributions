@@ -263,6 +263,7 @@
 - [Tamika Hayes] (https://github.com/TamikaHayes)
 - [Devin Plumb](https://github.com/DevinPlumb)
 - [Ritika Garg]()
+- [Dan Lawson](https://github.com/danlsn/)
 - [Sangeeta Raut]
   [George Kakarlis](https://github.com/georgekakarlis)
 - [Sourabh Raut] ( https://github.com/xsraut )
