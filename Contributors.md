@@ -2583,6 +2583,7 @@ Himanshu Dedha
 - [Ryan Helm](https://github.com/rjhelm)
 - [Abhijith S S](https://github.com/ssabhijith2000)
 - [Lucas Native](https://github.com/LucasNative)
+- [Harsh Kothari](https://github.com/toHarsh)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
 Disguy
 - [Laura Pippitt](https://github.com/laapipp)
