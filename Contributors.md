@@ -30,6 +30,7 @@
 - [Joseph Caldwell](https://github.com/joseph-caldwell)
 - [Sindhura K S](https://github.com/sindhuraks)
 - [Dieter Kaupp](https://github.com/dkaupp)
+- [Simon Jerry](https://github.com/swagasoft)
 - [Pankaj Prajapati](https://github.com/paprajapati9)
 - [Waleed Mumtaz](https://github.com/waleedmumtaz)
 - [Jose Chaparro](https://github.com/jchapar)
