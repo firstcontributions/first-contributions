@@ -765,6 +765,7 @@ Himanshu Dedha
 - [Kharlo Pena](https://github.com/Kharlo109)
 - [Rajul koshta](https://github.com/rajulkoshta)
 - [Gaurav Kumar Singh](https://github.com/gauravks99)
+- [Luiz Otavio B W Poli](https://github.com/usui-natsuo)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Ahmed Fathy](https://github.com/ahmedfathydev)
 - [Bradley English](https://github.com/BE-Code)
