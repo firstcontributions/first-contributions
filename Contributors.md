@@ -2628,5 +2628,6 @@ Disguy
 - [Maxime Héliot](https://github.com/maximeheliot)
 - [Mrinal Choudhary] (https://github.com/mrinal07)
 - [Matheus Rufino] (https://github.com/matheusrufinos)
+- [Chad Crowell](https://github.com/chadcrowell-code)
 
 <!-- prettier-ignore-end -->
