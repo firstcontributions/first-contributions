@@ -21,6 +21,7 @@
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
 - [Shyam Jalan](https://github.com/shyamjalan)
+- [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
 - [Shneior Aizen](https://github.com/Shneior770) 
