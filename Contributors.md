@@ -53,6 +53,7 @@
 - [Tansy Hu](https://github.com/subarashii-huch09)
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Rozen Berg](https://github.com/rozenberg4christ)
+- [Adarsh Kannan](https://github.com/void-adarsh)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
