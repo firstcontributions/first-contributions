@@ -24,6 +24,7 @@
 - Karin
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
+- [Maddy Kilmurray] (https://github.com/MaddyKilmurray)
 - [Joseph Caldwell](https://github.com/joseph-caldwell)
 - [Sindhura K S](https://github.com/sindhuraks)
 - [Dieter Kaupp](https://github.com/dkaupp)
