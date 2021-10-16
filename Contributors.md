@@ -1321,6 +1321,7 @@ Himanshu Dedha
 - [Ashiangmor Caleb](https://github.com/Kuameh)
 - [HassanBahati](https://github.com/HassanBahati)
 - [Harshit Bhat](https://github.com/harshitbhat)
+- [Noah Hradek](https://github.com/nhrade)
 - [Thosan Girisona S](https://github.com/blankon123)
 - [Daniel Johnson](https://github.com/danjohnson77)
 - [Philip Lee](https://github.com/philiplee13)
