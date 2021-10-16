@@ -8,6 +8,7 @@
 - [DanielTruong](https://github.com/anhduy1202)
 - [Khai Bui](https://github.com/GuyBritish)
 - [Rerebla](https://github.com/Rerebla)
+- [alif angga](https://github.com/playmakermz)
 - [Tom Broager](https://github.com/TomBroager)
 - [Hmue Thiha Naung](https://github.com/Hmue-gif)
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
