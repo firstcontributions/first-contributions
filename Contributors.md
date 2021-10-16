@@ -5,6 +5,7 @@
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
+- [DanielTruong](https://github.com/anhduy1202)
 - [Khai Bui](https://github.com/GuyBritish)
 - [Rerebla](https://github.com/Rerebla)
 - [Tom Broager](https://github.com/TomBroager)
