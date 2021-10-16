@@ -10,6 +10,7 @@
 - [Nishad Kulkarni](https://github.com/Nishadk7)
 - [DanielTruong](https://github.com/anhduy1202)
 - [Khai Bui](https://github.com/GuyBritish)
+- [Hanane NAHIM](https://github.com/hannhm1109)
 - [Rerebla](https://github.com/Rerebla)
 - [alif angga](https://github.com/playmakermz)
 - [Tom Broager](https://github.com/TomBroager)
