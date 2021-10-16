@@ -729,6 +729,7 @@ Himanshu Dedha
 - [Austin Pautz](https://github.com/austindesosa)
 - [Josh Merlin](https://github.com/jamjamnewbie)
 - [Aiden Halili](https://github.com/aidenhalili)
+- [Nakoya Wilson](https://github.com/nakoyawilson)
 - [Megha Agarwal](https://github.com/Megha184)
 - [Matthew Martinez](https://github.com/lilcobija)
 - [Sachin Hatikankan](https://github.com/SachinHatikankar100)
