@@ -9,6 +9,7 @@
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
+- [Varghese George](https://github.com/varghese1508)
 - [DanielTruong](https://github.com/anhduy1202)
 - [Emily Essex](https://github.com/emilygraceessex)
 - [Lucy Lee] (https://github.com/lucylee418)
