@@ -4,6 +4,7 @@
 
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Sachin Singh](https://github.com/thesachinsingh)
+- [Pratik ](https://github.com/WarlordSam07)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
