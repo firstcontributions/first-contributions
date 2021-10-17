@@ -1601,6 +1601,7 @@ Himanshu Dedha
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Marcel Schliesser](https://github.com/marcelschliesser)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
+- [David Weiss](https://github.com/davidtheweiss)
 - [Max Notarangelo](https://github.com/MaxNotarangelo)
 - [Gustavo Kenji](https://github.com/GustavoKenji)
 - [Alexander](https://github.com/avramch)
