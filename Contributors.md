@@ -10,6 +10,7 @@
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
+- [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
 - [Malvika Verma](https://github.com/malvikao2)
