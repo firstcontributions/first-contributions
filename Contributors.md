@@ -176,6 +176,7 @@
 - [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
 - [Ayush Malviya](https://github.com/ayush-geek)
+- [Julio César Gama](https://github.com/juliocesargama)
 - [Daniel García](https://github.com/Danielggz)
 - [Brites](https://github.com/Brites101)
 - [Flippy](https://github.com/Flip771)
