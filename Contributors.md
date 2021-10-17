@@ -644,6 +644,7 @@ Himanshu Dedha
 - [jackson batty](https://github.com/jacksonbatty)
 - [Ye Htet Aung](https://github.com/tony-yh91)
 - [Antonio Martinez](https://github.com/op3n-signal)
+- [Vaishnavi Sridhar](https://github.com/vaishsridh)
 - [Tanu Mehrotra](https://github.com/b49tan/)
 - [Erick Sanchez Vital](https://github.com/Erick-vital)
 - [Eyal lampel](https://github.com/eyallampel1)
