@@ -120,6 +120,7 @@
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Lars Schöbitz](https://github.com/larnsce/)
+- [Nonchalant Nerd](https://github.com/nonchalant-nerd)
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Kinzang Wangdi](https://github.com/geekbeats)
 - [Omkar Gunjal](https://github.com/omkarg1417)
