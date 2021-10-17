@@ -41,6 +41,7 @@
 - [Hemanth](https://github.com/anumolu-hemanth)
 - [Shneior Aizen](https://github.com/Shneior770) 
 - [Joshua Hinojo] (https://github.com/jgone99)
+- [Alina Ronghangpi](https://github.com/pushki-elena)
 - [Maddy Kilmurray] (https://github.com/MaddyKilmurray)
 - [Joseph Caldwell](https://github.com/joseph-caldwell)
 - [Sindhura K S](https://github.com/sindhuraks)
