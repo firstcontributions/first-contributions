@@ -12,6 +12,7 @@
 - [Varghese George](https://github.com/varghese1508)
 - [DanielTruong](https://github.com/anhduy1202)
 - [Emily Essex](https://github.com/emilygraceessex)
+- [Saloni Dwivedi](https://github.com/Saloni098)
 - [Lucy Lee] (https://github.com/lucylee418)
 - [Khai Bui](https://github.com/GuyBritish)
 - [Hanane NAHIM](https://github.com/hannhm1109)
