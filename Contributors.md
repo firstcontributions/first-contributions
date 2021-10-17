@@ -1347,6 +1347,7 @@ Himanshu Dedha
 - [Suman kumar](https://github.com/Suman-kumar23)
 - [Tushar Gupta](https:github.com/tushargupta00)
 - [Ashiangmor Caleb](https://github.com/Kuameh)
+- [Caleb Felix](https://github.com/calebfelix)
 - [HassanBahati](https://github.com/HassanBahati)
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Noah Hradek](https://github.com/nhrade)
