@@ -80,6 +80,7 @@
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
+- [Tanmay Tete](https://github.com/tancot85)
 - [Felipe Santos](https://github.com/felipesantos2)
 - [Luis Hernandez](https://github.com/DatBoiLuiskrrt?tab=repositories)
 - [Vivek Kumar Dubey](Vivek Kumar Dubey)
