@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
+- [Rohit Tewari](https://github.com/rtewari056)
 - [Sachin Singh](https://github.com/thesachinsingh)
 - [Pratik ](https://github.com/WarlordSam07)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
