@@ -572,6 +572,7 @@ Pranjal
 - [Corey Fontenot](https://github.com/corey-fontenot)
 - [Ian Mena}(https://github.com/ian0000)
 - [Merius TZ](https://github.com/MeriusTz)
+- [MD.Ejaz Hussain](https://github.com/Ejaz29)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
 - [Qiang Chen](https://github.com/KidLab2021)
