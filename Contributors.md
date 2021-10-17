@@ -1,7 +1,6 @@
 ﻿<!-- prettier-ignore-start -->
 
 # **Contributors**
-- [Muhammad Bella BN](https://github.com/bellabeen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
