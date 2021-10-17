@@ -2128,6 +2128,7 @@ Himanshu Dedha
 - [canhuynh1998](https://github.com/canhuynh1998)
 - [Behdad](https://github.com/behdad88)
 - [Hafidzal](https://github.com/hafidzal)
+- [ZhiHong Chua](https://github.com/c6z3h)
 - [queendeveloper](https://github.com/queendeveloperbr)
 - [uthadehikaru](https://github.com/uthadehikaru)
 - [Tr0612](https://github.com/Tr0612)
