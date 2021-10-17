@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <!-- prettier-ignore-start -->
 
 # **Contributors**
@@ -2657,5 +2659,8 @@ Disguy
 - [Matheus Rufino] (https://github.com/matheusrufinos)
 - [Chad Crowell](https://github.com/chadcrowell-code)
 - [Chinmay Das](https://github.com/chinmaydas96)
+- [Diego Pagini](https://github.com/diegopagini)
+
+
 
 <!-- prettier-ignore-end -->
