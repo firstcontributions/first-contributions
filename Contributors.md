@@ -210,6 +210,7 @@
 - [Parseluni] (https://github.com/Parseluni)
 - [Keshav Bansal] (https://github.com/keshavbansal20)
 - [Jorge Araújo](https://github.com/laborim)
+- [Albert Osei Frimpong] (https://github.com/Alotab)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Rudra Shah](https://github.com/scienceLabwork)
 - [Lily Tang](https://github.com/tang305)
