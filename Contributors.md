@@ -2543,6 +2543,7 @@ Himanshu Dedha
 - [malufreirejau](https://github.com/malufreirejau)
 - [Nick Kessey](https://github.com/RockosBos)
 - [chelle](https://github.com/cgentemann)
+- [Dimitrascu Andrei](https://github.com/AndreiD049)
 - [Ramon Alves Rigoni](https://github.com/rrigonia)
 - [mayuri shinde](https://github.com/Mayurishinde27)
 - [Lukasz](https://github.com/lukandor)
