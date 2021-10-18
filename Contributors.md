@@ -2512,6 +2512,7 @@ Himanshu Dedha
 - [Deepanshu verma](https://github.com/iDeepverma)
 - [Basak Demirok](https://github.com/BasakDemirok)
 - [Aneika Blake-Laing](https://github.com/aneilaing)
+- [Venkatesh Kocherlakota](https://github.com/venkateshkocherlakota)
 - [Malyala Lakshminarayana](https://github.com/Ln11211)
 - [Texopolis](https://github.com/texopolis)
 - [Gabriel Silva](https://github.com/Gabriel-CSS)
