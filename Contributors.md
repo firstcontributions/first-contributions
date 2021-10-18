@@ -2711,5 +2711,6 @@ Disguy
 - [Vishesh Gupta](https://github.com/guptavishu1000)
 - [Misori Silmu](https://github.com/silmu)
 - [Aqsa Aqeel](https://github.com/aqsaaqeel)
+- [Nitish kumar](https://github.com/technitish9123)
 
 <!-- prettier-ignore-end -->
