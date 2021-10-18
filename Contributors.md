@@ -8,6 +8,7 @@
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
+- [Apoorv Chandhok](https://github.com/ApoorvChandhok)
 - [DanielTruong](https://github.com/anhduy1202)
 - [Khai Bui](https://github.com/GuyBritish)
 - [Hanane NAHIM](https://github.com/hannhm1109)
