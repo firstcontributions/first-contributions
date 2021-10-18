@@ -54,6 +54,7 @@
 - [Maddy Kilmurray] (https://github.com/MaddyKilmurray)
 - [Joseph Caldwell](https://github.com/joseph-caldwell)
 - [Sindhura K S](https://github.com/sindhuraks)
+- [Cambell X](https://github.com/CambellX)
 - Tanu
 - [Jorge Tadeo](https://github.com/JorgeTadeo)
 - [Suyash Shukla](https://github.com/suyashshukla30)
