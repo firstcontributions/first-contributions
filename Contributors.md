@@ -784,6 +784,7 @@ Himanshu Dedha
 - [Nakoya Wilson](https://github.com/nakoyawilson)
 - [Megha Agarwal](https://github.com/Megha184)
 - [Matthew Martinez](https://github.com/lilcobija)
+- [Kira Novak](https://github.com/newspaperhobo)
 - [Sachin Hatikankan](https://github.com/SachinHatikankar100)
 - [Chirantan Acharyya](https://github.com/chirantan-acharyya)
 - [Ricardo Chairez](https://github.com/ricardochairez)
@@ -2714,5 +2715,6 @@ Disguy
 - [Misori Silmu](https://github.com/silmu)
 - [Aqsa Aqeel](https://github.com/aqsaaqeel)
 - [Nitish kumar](https://github.com/technitish9123)
+
 
 <!-- prettier-ignore-end -->
