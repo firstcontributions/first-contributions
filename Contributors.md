@@ -2267,6 +2267,7 @@ Himanshu Dedha
 - [Prabal Rawal](https://github.com/prabal-rawal)
 - [Uroš Ilijevec](https://github.com/iljo89)
 - [Andrew Baughman](https://github.com/andrewbaughman)
+- [Eternity](https://github.com/nityataa)
 - [eath1](https://github.com/eath1)
 - [Juan Gonzalez](https://github.com/Juan-Gon03/)
 - [Deniz Dogan](https://github.com/nagod)
