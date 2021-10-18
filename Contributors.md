@@ -6,6 +6,7 @@
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Luis Zarate](https://github.com/jlzaratec)
+- [Nikunj Rohit](https://github.com/nik132-eng)
 - [Sai Sarah](https://github.com/saisarah)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
