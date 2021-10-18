@@ -1634,6 +1634,7 @@ Himanshu Dedha
 - [Gustavo Kenji](https://github.com/GustavoKenji)
 - [Alexander](https://github.com/avramch)
 - [William Dias](https://github.com/Williamaia)
+- [ProjectGaZ](https://github.com/ProjectGaZ)
 - [Ahmad Alkhalawi](https://github.com/4hma4d)
 - [Marut Dhungana](https://github.com/consciousness11)
 - [Paulami Bhattacharya](https://github.com/paulamib123)
