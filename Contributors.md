@@ -2706,5 +2706,6 @@ Disguy
 - [Ruben Espinosa](https://github.com/rubenesp87)
 - [JEON Se-ok](https://github.com/seokjeon)
 - [Vishesh Gupta](https://github.com/guptavishu1000)
+- [Misori Silmu](https://github.com/silmu)
 
 <!-- prettier-ignore-end -->
