@@ -72,6 +72,7 @@
 - [Simon Jerry](https://github.com/swagasoft)
 - [Pankaj Prajapati](https://github.com/paprajapati9)
 - [Waleed Mumtaz](https://github.com/waleedmumtaz)
+- [Krishna Geeth](https://github.com/Geethegreat)
 - [Jose Chaparro](https://github.com/jchapar)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Chandan M S](https://github.com/zac-candy)
