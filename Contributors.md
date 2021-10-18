@@ -942,6 +942,7 @@ Himanshu Dedha
 - [ADAMU M. M.](https://github.com/AdamsGeeky)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
+- [Juan Daniel](https://github.com/JuanD-lab)
 - [Charitha Laksri Udawatta](https://github.com/charithau)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Akram Narejo](https://github.com/akramnarejo)
