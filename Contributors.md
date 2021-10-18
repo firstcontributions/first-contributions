@@ -2661,5 +2661,6 @@ Disguy
 - [Chad Crowell](https://github.com/chadcrowell-code)
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Swapnamoy Das](https://https://github.com/Swapnamoy951)
+- [JEON Se-ok](https://github.com/seokjeon)
 
 <!-- prettier-ignore-end -->
