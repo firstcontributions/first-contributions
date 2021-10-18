@@ -16,6 +16,7 @@
 - [Pratik ](https://github.com/WarlordSam07)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
+- [Ankit Gupta](https://github.com/luckyhero613)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Kevin Yuan](https://github.com/kevkev99
