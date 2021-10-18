@@ -296,6 +296,7 @@
 - [Mohammad Ali Ashraf] (https://github.com/programmingLover12)
 - [Michael Bui] (https://github.com/michaelbui99)
 - [Shruthi Pillai] (https://github.com/shrum99)
+- [Jaintra Kumar Pandey](https://github.com/jaintra)
 - [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
