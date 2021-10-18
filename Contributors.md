@@ -9,6 +9,7 @@
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Nikunj Rohit](https://github.com/nik132-eng)
 - [Sai Sarah](https://github.com/saisarah)
+- [Wang Wai Siong](https://github.com/jeffisnotahero)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
