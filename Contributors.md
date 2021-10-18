@@ -215,6 +215,7 @@
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
+- [Shivansh Srivastava](https://github.com/shiv0112)
 - [Akshaj Balaji](https://github.com/akshajb)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Danilo Mladenovic](https://github.com/Danilo-Mladenovic)
