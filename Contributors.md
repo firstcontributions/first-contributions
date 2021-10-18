@@ -10,6 +10,7 @@
 - [Frail Bongat](https://github.com/frailbongat)
 - [Rohit Tewari](https://github.com/rtewari056)
 - [Sachin Singh](https://github.com/thesachinsingh)
+- [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
