@@ -16,6 +16,7 @@
 - [Pratik ](https://github.com/WarlordSam07)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
+- [Ankit Gupta](https://github.com/luckyhero613)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Kevin Yuan](https://github.com/kevkev99
@@ -102,6 +103,7 @@
 - [Vivek Kumar Dubey](Vivek Kumar Dubey)
 - [Idris Mangal](https://github.com/idriswebxy)
 - [Sathish Velayudam](https://github.com/therealskv)
+- [Sarthak Shah](https://github.com/saither0204)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Nagulapally Anudeep] (https://github.com/Nagulapally-Anudeep)
 - [Madan](https://github.com/Madanaa)
@@ -213,6 +215,7 @@
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
+- [Shivansh Srivastava](https://github.com/shiv0112)
 - [Akshaj Balaji](https://github.com/akshajb)
 - [Dhananjay Kuber](https://github.com/dhananjaykuber)
 - [Danilo Mladenovic](https://github.com/Danilo-Mladenovic)
@@ -2699,4 +2702,5 @@ Disguy
 - [Ruben Espinosa](https://github.com/rubenesp87)
 - [JEON Se-ok](https://github.com/seokjeon)
 - [Supot Tonz](https://github.com/tonzsm)
+- [Vishesh Gupta](https://github.com/guptavishu1000)
 <!-- prettier-ignore-end -->
