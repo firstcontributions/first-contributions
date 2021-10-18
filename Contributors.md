@@ -50,6 +50,7 @@
 - [Faran Mohammad](https://github.com/Faranheit15)
 - [Gabriel Abubakar](https://github.com/GabrielAbubakar)
 - [Favour James](https://github.com/Favourj-bit)
+- [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Mohit Verma](https://github.com/vermamohit13)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
