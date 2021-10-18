@@ -21,6 +21,7 @@
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Ankit Gupta](https://github.com/luckyhero613)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
+- [Divyesh Mangroliya](https://github.com/Divyesh24)
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
