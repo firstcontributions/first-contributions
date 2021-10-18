@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Deletking](https://github.com/Deletking)
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Luis Zarate](https://github.com/jlzaratec)
