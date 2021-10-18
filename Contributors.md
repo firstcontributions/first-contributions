@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
+- [Ankit Gupta](https://github.com/luckyhero613)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Royce Le](https://github.com/roycevanle)
 - [Rerebla](https://github.com/Rerebla)
