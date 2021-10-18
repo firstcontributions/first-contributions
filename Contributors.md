@@ -2702,5 +2702,7 @@ Disguy
 - [Ruben Espinosa](https://github.com/rubenesp87)
 - [JEON Se-ok](https://github.com/seokjeon)
 - [Vishesh Gupta](https://github.com/guptavishu1000)
+Fisher
+- [Sirojiddin Tursunbayev](https://github.com/sFisher611)
 
 <!-- prettier-ignore-end -->
