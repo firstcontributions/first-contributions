@@ -2708,5 +2708,6 @@ Disguy
 - [JEON Se-ok](https://github.com/seokjeon)
 - [Vishesh Gupta](https://github.com/guptavishu1000)
 - [Misori Silmu](https://github.com/silmu)
+- [Aqsa Aqeel](https://github.com/aqsaaqeel)
 
 <!-- prettier-ignore-end -->
