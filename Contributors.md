@@ -2684,5 +2684,5 @@ Disguy
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Swapnamoy Das](https://https://github.com/Swapnamoy951)
 - [Ruben Espinosa](https://github.com/rubenesp87)
-- Misori
+- [Misori](https://github.com/silmu)
 <!-- prettier-ignore-end -->
