@@ -18,6 +18,7 @@
 - [Darshan Damre](https://github.com/darshandamre)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
+- [Kinglucifer300](https://github.com/Kinglucifer300)
 - [Rohit Tewari](https://github.com/rtewari056)
 - [Sachin Singh](https://github.com/thesachinsingh)
 - [Tyler Alexander](https://github.com/klikx)
