@@ -140,6 +140,7 @@
 - [Chiamaka Ojiyi](https://github.com/AlgoDame)
 - [Shifaat](https://github.com/Shifaat)
 - [eddyhakimi](https://github.com/eddyhakimi)
+- [Angel Rodriguez](https://github.com/angel2424)
 - [Dev-Sam9](https://github.com/Dev-Sam9)
 - [Debabrata Banerjee](https://github.com/debabratabanerjee) 
 - [Jeff lin](https://github.com/a1045520)
