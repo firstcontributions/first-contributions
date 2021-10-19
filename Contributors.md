@@ -16,6 +16,7 @@
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
 - [Richa Srivastava](https://github.com/getRicha)
 - [Darshan Damre](https://github.com/darshandamre)
+- [Tadas Maslauskas](https://github.com/maslauskas)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
 - [Rohit Tewari](https://github.com/rtewari056)
