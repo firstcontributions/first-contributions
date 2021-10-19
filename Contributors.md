@@ -2733,5 +2733,6 @@ Disguy
 - [Nitish kumar](https://github.com/technitish9123)
 - [Chad MacLean] (https://github.com/ChadRMacLean)
 - [Dana Cartright] (https://github.com/dlcartright)
+- [Karthik Taduvai] (https://github.com/karthiktaduvai)
 
 <!-- prettier-ignore-end -->
