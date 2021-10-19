@@ -12,6 +12,7 @@
 - [Nikunj Rohit](https://github.com/nik132-eng)
 - [Sai Sarah](https://github.com/saisarah)
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
+- [Richa Srivastava](https://github.com/getRicha)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
