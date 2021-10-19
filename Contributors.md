@@ -2720,5 +2720,6 @@ Disguy
 - [Misori Silmu](https://github.com/silmu)
 - [Aqsa Aqeel](https://github.com/aqsaaqeel)
 - [Nitish kumar](https://github.com/technitish9123)
+- [Chad MacLean] (https://github.com/ChadRMacLean)
 
 <!-- prettier-ignore-end -->
