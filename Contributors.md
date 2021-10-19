@@ -1098,6 +1098,7 @@ Himanshu Dedha
 - [Ashley H.](https://github.com/aehoover)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Harshit Vaish](https://github.com/Harshit036)
+- [Reza Salam](https://github.com/rezasm)
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Leonard Ugorji](https://github.com/LeoUCon)
