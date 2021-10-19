@@ -1497,6 +1497,7 @@ Himanshu Dedha
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
 - [Fernando Harris](https://github.com/fharris)
+- [Ruben Renteria](https://github.com/rubenren)
 - [Ryan Lynch](https://github.com/UniqueClone)
 - [Yashraj Motwani](https://github.com/Yash117)
 - [Evgeny Vlasov](https://github.com/vlasove)
