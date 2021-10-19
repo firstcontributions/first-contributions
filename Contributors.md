@@ -2747,5 +2747,6 @@ Disguy
 - [Dana Cartright] (https://github.com/dlcartright)
 - [Karthik Taduvai] (https://github.com/karthiktaduvai)
 - [Krishna Prabhakar]
+- [Fernando Correa] (https://github.com/fer-correa)
 
 <!-- prettier-ignore-end -->
