@@ -2742,5 +2742,6 @@ Disguy
 - [Chad MacLean] (https://github.com/ChadRMacLean)
 - [Dana Cartright] (https://github.com/dlcartright)
 - [Karthik Taduvai] (https://github.com/karthiktaduvai)
+- [Krishna Prabhakar]
 
 <!-- prettier-ignore-end -->
