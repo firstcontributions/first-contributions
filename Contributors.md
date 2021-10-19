@@ -1093,6 +1093,7 @@ Himanshu Dedha
 - [Harsh Soni](https://github.com/hashfx)
 - [Diveshan](https://github.com/Dive1995)
 - [Nisarg Kudgunti](https://github.com/Nisarg6502)
+- [Ori Bayo](https://github.com/oriBayo)
 - [Mohan Sahu](https://github.com/mohantechnology)
 - [Ashley H.](https://github.com/aehoover)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
