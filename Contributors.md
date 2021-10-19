@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Abhi Kamble](https://github.com/coder-abhi)
+- [Muhammad Usman](https://github.com/zillBoy)
 - [Jocelyn Remington](https://github.com/jocelynrem)
 - [Deletking](https://github.com/Deletking)
 - [Hemanth Ravula](https://github.com/hmnth07)
