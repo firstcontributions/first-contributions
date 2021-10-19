@@ -18,6 +18,7 @@
 - [Richa Srivastava](https://github.com/getRicha)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Tadas Maslauskas](https://github.com/maslauskas)
+- [Aaren Ajai Mathew](https://github.com/A3lli0t)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
 - [Kinglucifer300](https://github.com/Kinglucifer300)
