@@ -303,6 +303,7 @@
 - [Fernando Blum Garcia](https://github.com/fblumgarcia)
 - [Eunjnnn] (https://github.com/Eunjnnn)
 - [Rhona] (https://github.com/rhonall)
+- [Bradtmoeller] (https://github.com/denschiro)
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [Nimesha Chathurangi] (https://github.com/Nimesha1996)
