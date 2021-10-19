@@ -195,6 +195,7 @@
 - [Nachiket Suryawanshi](https://github.com/Nachi28)
 - [Anouk Driessen](https://github.com/anoukdriessen)
 - [Alex Tumiri](https://github.com/Zelechos)
+- [Divya Eldo](https://github.com/Divya-mariyam)
 - [Alice Petzinger](https://github.com/alicepetzinger)
 - [Manvi Pachauri](https://github.com/ManviPachauri)
 - [sruly rosenblat](https://github.com/codeForX)
