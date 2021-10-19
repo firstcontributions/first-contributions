@@ -913,6 +913,7 @@ Himanshu Dedha
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Yagya Gaire](https://github.com/yagyagaire)
 - [Elie Zgheib](https://github.com/ElieZgb)
+- [Lizmery V.](https://github.com/lizmery)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
