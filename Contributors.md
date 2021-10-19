@@ -55,6 +55,7 @@
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Faran Mohammad](https://github.com/Faranheit15)
 - [Gabriel Abubakar](https://github.com/GabrielAbubakar)
+- [Cody Therrien](https://github.com/codytherrien)
 - [Favour James](https://github.com/Favourj-bit)
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
