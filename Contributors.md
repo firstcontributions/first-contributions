@@ -2597,6 +2597,7 @@ Himanshu Dedha
 - [Nick Kessey](https://github.com/RockosBos)
 - [chelle](https://github.com/cgentemann)
 - [Dimitrascu Andrei](https://github.com/AndreiD049)
+- [Emilio Ziniades](https://github.com/emilioziniades)
 - [Ramon Alves Rigoni](https://github.com/rrigonia)
 - [mayuri shinde](https://github.com/Mayurishinde27)
 - [Lukasz](https://github.com/lukandor)
