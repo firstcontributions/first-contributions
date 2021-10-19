@@ -73,6 +73,7 @@
 - [Sindhura K S](https://github.com/sindhuraks)
 - [Cambell X](https://github.com/CambellX)
 - Tanu
+- [Sharad Maurya] (https://github.com/GODSPE3D)
 - [Jorge Tadeo](https://github.com/JorgeTadeo)
 - [Suyash Shukla](https://github.com/suyashshukla30)
 - [Dieter Kaupp](https://github.com/dkaupp)
