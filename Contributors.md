@@ -2547,6 +2547,6 @@ Disguy
 - [Thomas W](https://github.com/wolfi3654)
 - [Sinbad07](https://github.com/Sinbad07)
 - [Shivam Rawat](https://github.com/wickedwisdom0911)
-- [Danilo Florenzano] (https://github.com/daniloflorenzano)
+- [Danilo Florenzano](https://github.com/daniloflorenzano)
 
 <!-- prettier-ignore-end -->
