@@ -143,6 +143,7 @@
 - [Angel Rodriguez](https://github.com/angel2424)
 - [Dev-Sam9](https://github.com/Dev-Sam9)
 - [Debabrata Banerjee](https://github.com/debabratabanerjee) 
+- [Jason Petersen](https://github.com/jasonp670)
 - [Jeff lin](https://github.com/a1045520)
 - [Putri Nursofiyanti Juliashakti](https://github.com/putrinj)
 - [Sid Lais](https://github.com/Sid-Lais)
