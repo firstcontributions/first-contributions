@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Thulani Nyama](https://github.com/ThulaniNyama)
+- [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Abhi Kamble](https://github.com/coder-abhi)
