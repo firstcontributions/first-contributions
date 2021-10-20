@@ -2773,5 +2773,6 @@ Disguy
 - [Zishan Shaikh] (https://github.com/Mac1122543)
 - [Axay Sagathiya](https://github.com/axaysagathiya)
 - [Amol Goel](https://github.com/deathrangerr)
+- [Hassan Abba Ahmed](https://github.com/haitchabba)
 
 <!-- prettier-ignore-end -->
