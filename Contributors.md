@@ -10,6 +10,7 @@
 - [Abshir Mohamed] (https://github.com/roycas99)
 - [Muhammad Usman](https://github.com/zillBoy)
   [Catherine Kiiru](https://github.com/CatherineKiiru)
+  [Ayman Lar](https://github.com/AymanLar)
 - [David Brent]
 - [Jocelyn Remington](https://github.com/jocelynrem)
 - [Deletking](https://github.com/Deletking)
