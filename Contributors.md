@@ -1259,6 +1259,7 @@ Himanshu Dedha
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Piper050](https://github.com/Piper050)
 - [Linda Ngo](https://github.com/linda-ngo)
+- [Antony Long](https://github.com/antonylong)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
 - [scientia-ac-labore](https://github.com/scientia-ac-labore)
 - [Nickel-yadav](https://github.com/nickel-yadav)
