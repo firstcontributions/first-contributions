@@ -2774,5 +2774,6 @@ Disguy
 - [Axay Sagathiya](https://github.com/axaysagathiya)
 - [Amol Goel](https://github.com/deathrangerr)
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
+- [CrimsonTome](https://github.com/crimsontome)
 
 <!-- prettier-ignore-end -->
