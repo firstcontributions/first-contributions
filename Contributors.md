@@ -1499,6 +1499,7 @@ Himanshu Dedha
 - [James Faith Shameh](https://github.com/blackpandan)
 - [Regis Zaleman](https://github.com/TheRegge)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
+- [Antra Tripathi](https://github.com/antra0497)
 - [Dennis Joel Mwagiru](https://github.com/dennismwagiru)
 - [Yaron Pentchak](https://github.com/yaronpen)
 - [Brian Gor] (https://github.com/briangor)
