@@ -23,6 +23,7 @@
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Asra Jawaid](https://github.com/Asra2000)
+-[Prince Nwuke](https://github.com/prius2055)
 - [karuna](https://github.com/Karunasharma09)
 - [Nikunj Rohit](https://github.com/nik132-eng)
 - [Sai Sarah](https://github.com/saisarah)
