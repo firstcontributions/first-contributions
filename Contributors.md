@@ -127,6 +127,7 @@
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Tansy Hu](https://github.com/subarashii-huch09)
 - [Irina Kuz](https://github.com/IrinaKuz)
+- [Parth Soni](https://github.com/parth1007)
 - [Rozen Berg](https://github.com/rozenberg4christ)
 - [Adarsh Kannan](https://github.com/void-adarsh)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
