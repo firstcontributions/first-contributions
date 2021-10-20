@@ -39,6 +39,7 @@
 - [Sachin Singh](https://github.com/thesachinsingh)
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
+- [Michael Huskey] (https://github.com/mhusk)
 - [Bryan Endres](https://github.com/bendres97)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
