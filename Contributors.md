@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Abhi Kamble](https://github.com/coder-abhi)
+- Hope Chijuka (https://github.com/Hopeuche360)
 - [Muhammad Usman](https://github.com/zillBoy)
 - [David Brent]
 - [Jocelyn Remington](https://github.com/jocelynrem)
