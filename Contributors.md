@@ -2794,5 +2794,6 @@ Disguy
 - [Gabe Brown](https://github.com/gabebrown814)
 - [Matthew Yakubek](https://github.com/Myakubek)
 - [Lisa Heinecke](https://github.com/Tafkae)
+- [Eugenio Guimaraes](https://github.com/EugenioGuimaraes)
 
 <!-- prettier-ignore-end -->
