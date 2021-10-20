@@ -3121,6 +3121,7 @@ Berliana
 - [Simon Bentley](https://github.com/sbentley85)
 - [Vincent Vais](https://github.com/Vincent-Vais)
 - [Snehjeet Banerjee](https://github.com/SnehjeetBenz)
+- [Soumyadeb Basu](https://github.com/Soumyadeb-Basu)
 - Lauren Gregg
 - [MJ](https://github.com/speklet)
 - [Samantha Monteiro](https://github.com/samanthakem)
