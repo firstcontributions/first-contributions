@@ -1167,6 +1167,7 @@ Himanshu Dedha
 - [Om Parshar](https://github.com/orashar)
 - [Sudha Tanay Doddi](https://github.com/sudhatanay)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
+- [Hypnogod](https://github.com/hypnogod)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
