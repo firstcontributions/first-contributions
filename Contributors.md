@@ -2785,5 +2785,6 @@ Disguy
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
 - [CrimsonTome](https://github.com/crimsontome)
 - [Gabe Brown](https://github.com/gabebrown814)
+- [Matthew Yakubek](https://github.com/Myakubek)
 
 <!-- prettier-ignore-end -->
