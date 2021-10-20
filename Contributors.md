@@ -5,6 +5,7 @@
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - Hope Chijuka (https://github.com/Hopeuche360)
+- [Abshir Mohamed] (https://github.com/roycas99)
 - [Muhammad Usman](https://github.com/zillBoy)
 - [David Brent]
 - [Jocelyn Remington](https://github.com/jocelynrem)
