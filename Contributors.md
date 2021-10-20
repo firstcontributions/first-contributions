@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Thulani Nyama](https://github.com/ThulaniNyama)
+- [Aniket Kumar](https://github.com/ghostrider22)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - Hope Chijuka (https://github.com/Hopeuche360)
 - [Abshir Mohamed] (https://github.com/roycas99)
