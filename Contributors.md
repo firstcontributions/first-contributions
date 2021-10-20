@@ -2672,6 +2672,7 @@ Himanshu Dedha
 - [Ulan Rakymzhanov](https://github.com/urakymzhan)
 - [Harshad Thombare](https://github.com/harshadt21)
 - [Brady Cargle](https://github.com/bradycargle)
+- [Shubham Jain](https://github.com/jshubham895)
 - [Pranathi Kodicherla](https://github.com/Pranathi-star)
 - [Christian Viramontes](https://github.com/icryeverytime)
 - [Elsnmr](https://github.com/elsnmr)
