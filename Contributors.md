@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-
+- [Chandana Allam](https://github.com/callam20)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - Hope Chijuka (https://github.com/Hopeuche360)
