@@ -2791,5 +2791,6 @@ Disguy
 - [CrimsonTome](https://github.com/crimsontome)
 - [Gabe Brown](https://github.com/gabebrown814)
 - [Matthew Yakubek](https://github.com/Myakubek)
+- [Masoud Karimi](https://github.com/masoudkarimi)
 
 <!-- prettier-ignore-end -->
