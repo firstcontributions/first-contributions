@@ -15,6 +15,7 @@
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
   [Elen S](https://github.com/ElenaS1981)
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
+- [Shrejal Singh](https://github.com/shrejal99)
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Luis Zarate](https://github.com/jlzaratec)
 - [karuna](https://github.com/Karunasharma09)
