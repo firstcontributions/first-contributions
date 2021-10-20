@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - Hope Chijuka (https://github.com/Hopeuche360)
 - [Muhammad Usman](https://github.com/zillBoy)
