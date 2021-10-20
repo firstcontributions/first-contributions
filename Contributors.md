@@ -2750,5 +2750,5 @@ Disguy
 - [Karthik Taduvai] (https://github.com/karthiktaduvai)
 - [Krishna Prabhakar]
 - [Fernando Correa] (https://github.com/fer-correa)
-- [Rodrigo Nascimento] (https://github.com/rodrigo102)
+- [Rodrigo Nascimento](https://github.com/rodrigo102)
 <!-- prettier-ignore-end -->
