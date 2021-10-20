@@ -1899,6 +1899,7 @@ Himanshu Dedha
 - [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
 - [Makarov Ilya 🌲](https://github.com/makarilyaev)
 - [billionray](https://github.com/billionray)
+[Alicia Jones] (https://github.com/Lishjones)
 - [NotManyIdeasDev](https://github.com/NotManyIdeasDev)
 - [Ramy1951](https://github.com/Ramy1951)
 - [VladPetryshyn](https://github.com/VladPetryshyn)
