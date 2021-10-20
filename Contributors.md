@@ -2,6 +2,8 @@
 
 # **Contributors**
 
+
+- [Tanmay Jajotar](https://twitter.com/tanmay_th)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - Hope Chijuka (https://github.com/Hopeuche360)
