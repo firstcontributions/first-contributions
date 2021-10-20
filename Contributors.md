@@ -10,6 +10,7 @@
 - [Deletking](https://github.com/Deletking)
 - [Hemanth Ravula](https://github.com/hmnth07)
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
+  [Elen S](https://github.com/ElenaS1981)
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Luis Zarate](https://github.com/jlzaratec)
