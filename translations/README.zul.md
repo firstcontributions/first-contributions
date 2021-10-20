@@ -27,7 +27,7 @@ Fometha le repo ngokuchofoza inkinobho yemfoloko phezulu kwaleli khasi. Lokhu ku
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Manje faka i-repo efakwe emshini wakho kumshini wakho. Yiya ku-akhawunti yakho ye-GitHub, vula i-repo evuliwe, chofoza inkinobho ye-clone bese uchofoza ikhophi ku-clipboard icon.
+Manje faka i-repo efakwe emshinini wakho, kumshini wakho. Yiya ku-akhawunti yakho ye-GitHub, vula i-repo evuliwe, chofoza inkinobho ye-clone bese uchofoza ikhophi ku-clipboard icon.
 
 Vula i-console bese ugijima umyalo we-git:
 
