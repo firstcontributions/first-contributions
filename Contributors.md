@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-
+- [Mansi Singh](https://github.com/singhmansi25)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
 - [Aniket Kumar](https://github.com/ghostrider22)
