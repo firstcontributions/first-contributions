@@ -11,6 +11,7 @@
 - [David Brent]
 - [Jocelyn Remington](https://github.com/jocelynrem)
 - [Deletking](https://github.com/Deletking)
+- [Priyanka Vaishya](https://github.com/PriyankaVaishya)
 - [Hemanth Ravula](https://github.com/hmnth07)
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
   [Elen S](https://github.com/ElenaS1981)
