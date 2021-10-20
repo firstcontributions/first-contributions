@@ -2782,5 +2782,6 @@ Disguy
 - [Michael Brigham](https://github.com/michael-ames/)
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
 - [CrimsonTome](https://github.com/crimsontome)
+- [Gabe Brown](https://github.com/gabebrown814)
 
 <!-- prettier-ignore-end -->
