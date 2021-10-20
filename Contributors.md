@@ -2766,5 +2766,6 @@ Disguy
 - [Anisha](https://github.com/Anisha7860)
 - [Prajesh Yeotikar] (https://github.com/prajeshy)
 - [Shubham Bhatt] (https://github.com/shubhatt1)
+- [Zishan Shaikh] (https://github.com/Mac1122543)
 
 <!-- prettier-ignore-end -->
