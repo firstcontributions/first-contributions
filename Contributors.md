@@ -2759,5 +2759,6 @@ Disguy
 - [Fernando Correa] (https://github.com/fer-correa)
 - [David Yappeter](https://github.com/david-yappeter)
 - [Anisha](https://github.com/Anisha7860)
+- [Prajesh Yeotikar] (https://github.com/prajeshy)
 
 <!-- prettier-ignore-end -->
