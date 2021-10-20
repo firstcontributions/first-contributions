@@ -28,6 +28,7 @@
 - [Nikunj Rohit](https://github.com/nik132-eng)
 - [Sai Sarah](https://github.com/saisarah)
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
+- [Rupal](https://github.com/rupalAg)
 - [Richa Srivastava](https://github.com/getRicha)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Tadas Maslauskas](https://github.com/maslauskas)
