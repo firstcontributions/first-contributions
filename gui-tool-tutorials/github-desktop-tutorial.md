@@ -117,3 +117,4 @@ You can join our slack team in case you need any help or have any questions. [Jo
 
 ## Tutorials Using Other Tools
 [Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+  Thanks this was helpful.
