@@ -2771,5 +2771,6 @@ Disguy
 - [Shubham Bhatt] (https://github.com/shubhatt1)
 - [Zishan Shaikh] (https://github.com/Mac1122543)
 - [Axay Sagathiya](https://github.com/axaysagathiya)
+- [Amol Goel](https://github.com/deathrangerr)
 
 <!-- prettier-ignore-end -->
