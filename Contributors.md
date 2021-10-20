@@ -2756,5 +2756,6 @@ Disguy
 - [Karthik Taduvai] (https://github.com/karthiktaduvai)
 - [Krishna Prabhakar]
 - [Fernando Correa] (https://github.com/fer-correa)
+- [David Yappeter](https://github.com/david-yappeter)
 
 <!-- prettier-ignore-end -->
