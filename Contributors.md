@@ -1007,6 +1007,7 @@ Himanshu Dedha
 - [Abhijit Sarode](https://github.com/abhijitsarode)
 - [Abel Tung](https://github.com/AlexTungsten)
 - [OptimChain](https://github.com/OptimChain)
+- [Nils Matic](https://github.com/matic1909)
 - [Cheong Lau](https://github.com/cmrss2)
 - [Surendar Singh](https://github.com/SurendarSingh)
 - [Ankur Patil](https://github.com/ankur12-1610)
