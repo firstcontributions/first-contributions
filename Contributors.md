@@ -880,6 +880,7 @@ Himanshu Dedha
   [Mark](https://github.com/mkict)
 - [Douglas Ede](https://github.com/Douglas4739)
 - [David Delgadillo](https://github.com/David-Del1)
+- [Roe Ann Kim Codoy](https://github.com/arraayyy)
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
 - [Bhavesh Mishra](https://github.com/thefool76)
