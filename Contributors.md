@@ -33,6 +33,7 @@
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
 - [Rupal](https://github.com/rupalAg)
 - [Richa Srivastava](https://github.com/getRicha)
+- [Katarina VC](https://github.com/katarina-vc)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Tadas Maslauskas](https://github.com/maslauskas)
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
