@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
@@ -2808,10 +2809,11 @@ Disguy
 - [Michael Brigham](https://github.com/michael-ames/)
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
 - [CrimsonTome](https://github.com/crimsontome)
-- [Bennykillua](https://github.com/BennyKillua)
 - [Gabe Brown](https://github.com/gabebrown814)
 - [Matthew Yakubek](https://github.com/Myakubek)
 - [Lisa Heinecke](https://github.com/Tafkae)
 - [Eugenio Guimaraes](https://github.com/EugenioGuimaraes)
 - [Jayesh](https://github.com/jayeshsorathia)
+- [Bennykillua](https://github.com/BennyKillua)
+- [lcrnjakovic](https://github.com/lcrnjakovic)
 <!-- prettier-ignore-end -->
