@@ -2813,5 +2813,6 @@ Disguy
 - [Lisa Heinecke](https://github.com/Tafkae)
 - [Eugenio Guimaraes](https://github.com/EugenioGuimaraes)
 - [Jayesh](https://github.com/jayeshsorathia)
-[
+- [lcrnjakovic](https://github.com/lcrnjakovic)
+
 <!-- prettier-ignore-end -->
