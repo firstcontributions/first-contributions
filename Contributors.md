@@ -6,6 +6,7 @@
 - [Erick Rosa](https://github.com/RosaErick)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
+- [Levan Vekua](https://github.com/lvekua)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
 - [Raghav Kapur](https://github.com/codingkapur)
