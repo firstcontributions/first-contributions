@@ -2822,5 +2822,6 @@ Disguy
 - [Eugenio Guimaraes](https://github.com/EugenioGuimaraes)
 - [Jayesh](https://github.com/jayeshsorathia)
 - [lcrnjakovic](https://github.com/lcrnjakovic)
+- [StavrosCaptain](https://github.com/StavrosCaptain)
 
 <!-- prettier-ignore-end -->
