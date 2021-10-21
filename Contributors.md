@@ -6,6 +6,7 @@
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
 - [Aniket Kumar](https://github.com/ghostrider22)
+- [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - Hope Chijuka (https://github.com/Hopeuche360)
 - [Abshir Mohamed] (https://github.com/roycas99)
