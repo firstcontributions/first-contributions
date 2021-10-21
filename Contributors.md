@@ -11,6 +11,7 @@
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
+- [David Rosanwo](https://github.com/olusanwo)
 - Hope Chijuka (https://github.com/Hopeuche360)
 - [Abshir Mohamed] (https://github.com/roycas99)
 - [Muhammad Usman](https://github.com/zillBoy)
