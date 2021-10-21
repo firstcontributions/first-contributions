@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Shivam Mishra](https://github.com/SHIVA-JI)
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Frail Bongat](https://github.com/frailbongat)
 - [Rohit Tewari](https://github.com/rtewari056)
