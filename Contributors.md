@@ -14,6 +14,7 @@
   [Catherine Kiiru](https://github.com/CatherineKiiru)
   [Ayman Lar](https://github.com/AymanLar)
 - [David Brent]
+- [Najam ul Hassan](https://github.com/Najamulhassan3383)
 - [Jocelyn Remington](https://github.com/jocelynrem)
 - [Deletking](https://github.com/Deletking)
 - [Priyanka Vaishya](https://github.com/PriyankaVaishya)
