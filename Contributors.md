@@ -1549,6 +1549,7 @@ Himanshu Dedha
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
+- Arpit Batra
 - [Reuben Sanchez](https://github.com/ReubeniSandwich)
 - [Kartikey Dubey](https://github.com/kartikey-git)
 - [Elizabeth Campbell](https://github.com/campbellita)
