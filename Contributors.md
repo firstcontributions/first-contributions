@@ -60,6 +60,7 @@
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
 - [Malvika Verma](https://github.com/malvikao2)
+- [Yeana Cho](https://github.com/yeana-dev)
 - [Abhishek Chandra](https://github.com/abhishekchandra2522k)
 - [Karuna Sharma](https://github.com/Karunasharma09)
 - [Tai Tai](https://github.com/ywettai-dev)
