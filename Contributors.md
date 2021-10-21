@@ -43,6 +43,7 @@
 - [Richa Srivastava](https://github.com/getRicha)
 - [Katarina VC](https://github.com/katarina-vc)
 - [Darshan Damre](https://github.com/darshandamre)
+- [Manendar Verma](https://github.com/mverma45)
 - [Tadas Maslauskas](https://github.com/maslauskas)
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
