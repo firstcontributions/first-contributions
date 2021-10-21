@@ -1523,6 +1523,7 @@ Himanshu Dedha
 - [andreas789](https://github.com/andreas789)
 - [David Dobritoiu](https://github.com/Davis856)
 - [Radminas Usackas](https://github.com/ne0rad)
+- Manav Arora
 - [Joshua Qualls](https://github.com/JTQualls)
 - [Tariqul Islam](https://github.com/tstariqul)
 - [Vbroskas](https://github.com/vbroskas)
