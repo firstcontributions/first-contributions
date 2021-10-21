@@ -33,6 +33,7 @@
 - [Asra Jawaid](https://github.com/Asra2000)
 -[Prince Nwuke](https://github.com/prius2055)
 - [karuna](https://github.com/Karunasharma09)
+- [Shubhankar Madgulkar](https://github.com/smadgulkar)
 - [Nikunj Rohit](https://github.com/nik132-eng)
 - [Sai Sarah](https://github.com/saisarah)
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
