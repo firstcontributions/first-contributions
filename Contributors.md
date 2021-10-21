@@ -167,6 +167,7 @@
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
 - [Manuel Str_F](https://github.com/WebDevManuel)
 - [Savan Bhanderi](https://github.com/Savan414) 
+- [Derek Blauser](https://github.com/DeeGeeBlauser) 
 - [Karelle Hofler](https://github.com/karellehofler) 
 -[subbarao](https://github.com/subbarao515)
 - [Chiamaka Ojiyi](https://github.com/AlgoDame)
