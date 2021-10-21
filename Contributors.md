@@ -212,6 +212,7 @@
 - [David Coe](https://github.com/Daviology38)
 - [Soham Ghosh](https://github.com/sohamghosh1509)
 - [Shagun Bose](https://github.com/shagunBose)
+- [Aakash Sell](https://github.com/aakashsell)
 - [Alice Springfeld](https://github.com/alicespringfeld)
 - [Debbie Thompson](https://github.com/debbiect246)
 - [Tom Kennedy](https://github.com/Skyrub-dev)
