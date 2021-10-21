@@ -2704,6 +2704,7 @@ Himanshu Dedha
 - [Ruben Corona](https://github.com/RubenCJ)
 - [Mehak](https://github.com/mehaksareen20)
 - [Royce Dy](https://github.com/rad182)
+- [Alexandra Shapira](https://github.com/AlexandraShapira)
 - [Noel Johnson](https://github.com/noel-johnson)
 - [Kevin Grimsley](https://github.com/kevin-grimsley)
 - [Sayan Sahu](https://github.com/SayanSahu99/)
