@@ -5,6 +5,7 @@
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
+- [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
