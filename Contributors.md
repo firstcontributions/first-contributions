@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Erick Rosa](https://github.com/RosaErick)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
