@@ -14,6 +14,7 @@
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - [David Rosanwo](https://github.com/olusanwo)
+- [Krishna Nand Dubey](https://github.com/Deadpool2e)
 - Hope Chijuka (https://github.com/Hopeuche360)
 - [Abshir Mohamed] (https://github.com/roycas99)
 - [Muhammad Usman](https://github.com/zillBoy)
