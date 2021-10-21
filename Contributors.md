@@ -222,6 +222,7 @@
 - [Tom Kennedy](https://github.com/Skyrub-dev)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [Pedro Veríssimo](https://github.com/pbv2)
+- [Samyak Kumar Sahoo](https://github.com/samyak1999)
 - [Sebastian Neumeier](https://github.com/test123-all)
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)
