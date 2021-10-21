@@ -2385,6 +2385,7 @@ Himanshu Dedha
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
+- [Nacer Ali](https://github.com/naco99)
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
 - [Darren Odi](https://github.com/darrenodi)
 - [Oz](https://github.com/Ozay0900)
@@ -2626,7 +2627,7 @@ Himanshu Dedha
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - Dan Tcheche
-- [Malik Abdul Aziz](https://github.com/crossdev-app)
+- [M k Abdul Aziz](https://github.com/crossdev-app)
 - [Mitali Agrawal](https://github.com/MitaliAg)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Kimberley Torres](https://github.com/kim-tor)
