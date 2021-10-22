@@ -29,6 +29,7 @@
 - [David Brent]
 - [Najam ul Hassan](https://github.com/Najamulhassan3383)
 - [Jocelyn Remington](https://github.com/jocelynrem)
+- [Thomas] (https://github.com/MediumChan)
 - [Deletking](https://github.com/Deletking)
 - [Priyanka Vaishya](https://github.com/PriyankaVaishya)
 - [Hemanth Ravula](https://github.com/hmnth07)
