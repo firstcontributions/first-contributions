@@ -2831,5 +2831,6 @@ Disguy
 - [hzq](https://github.com/xiaolubo)
 - [Ferdian Ardhana](https://github.com/ferdianrura97)
 - [Nishant Suthar](https://github.com/nik25s)
+- [you96](https://github.com/you96)
 
 <!-- prettier-ignore-end -->
