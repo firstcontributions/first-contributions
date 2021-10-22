@@ -1317,6 +1317,7 @@ Himanshu Dedha
 - [ironsgold](https://github.com/ironsgold)
 - [Omar Mehmood](https://github.com/OmarMeh117)
 - [Jon Gull](https://github.com/JonrGull)
+- [Jesus Rosario](https://github.com/jessur2030)
 - [Carlos Martinez](https://github.com/carmarher)
 - [Pahal-Jain](https://github.com/pahaljain)
 - [Jason Lv](https://github.com/jason1105)
