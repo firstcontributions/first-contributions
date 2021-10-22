@@ -286,6 +286,7 @@
 - [Matt McKenna](https://github.com/smvgggsdd)
 - [Timothy Benton](https://github.com/humantl1)
 - [Joel Graf](https://github.com/joelthegraf)
+- [Grant Holmes](https://github.com/gholmes829)
 - [iamjusky](https://github.com/iamjusky)
 - [Kayla M](https://github.com/kaykaym01)
 - [Anubhav Cp](https://github.com/anubhav-cp)
