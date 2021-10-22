@@ -51,6 +51,7 @@
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
 - [Rupal](https://github.com/rupalAg)
 - [Richa Srivastava](https://github.com/getRicha)
+- [Lindsay Shelton](https://github.com/lsheltonSTO)
 - [Katarina VC](https://github.com/katarina-vc)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Manendar Verma](https://github.com/mverma45)
