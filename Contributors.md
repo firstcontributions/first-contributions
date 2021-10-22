@@ -66,6 +66,7 @@
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
 - [Michael Huskey] (https://github.com/mhusk)
+- [Varun](https://github.com/Varun080)
 - [Bryan Endres](https://github.com/bendres97)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Ruben Gonzalez](https://github.com/Rubengon84)
