@@ -2759,6 +2759,7 @@ Himanshu Dedha
 - [Ryan Helm](https://github.com/rjhelm)
 - [Vytenis Gelazius](https://github.com/vytenis555)
 - [Abhijith S S](https://github.com/ssabhijith2000)
+- [Tom Nguyen](https://github.com/nguyener1)
 - [Lucas Native](https://github.com/LucasNative)
 - [Harsh Kothari](https://github.com/toHarsh)
 - [Sanket Agarwal](https://github.com/SanketAgwl)
