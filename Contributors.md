@@ -14,6 +14,7 @@
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - [David Rosanwo](https://github.com/olusanwo)
+- [Mitsunobu Yoneda](https://github.com/higamaya)
 - [Annie Ausen](https://github.com/aausen)
 - [Krishna Nand Dubey](https://github.com/Deadpool2e)
 - Hope Chijuka (https://github.com/Hopeuche360)
