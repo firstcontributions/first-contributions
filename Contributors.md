@@ -215,6 +215,7 @@
 - [Steven Drake](https://github.com/sdrake01)
 - [Amrit](https://github.com/thelastpawn009)
 - [Hendrik Welschoff](https://github.com/welschoff)
+- [Raul Quintanilla] (https://github.com/RaulQuintanilla)
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Lars Schöbitz](https://github.com/larnsce/)
 - [Nonchalant Nerd](https://github.com/nonchalant-nerd)
