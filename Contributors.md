@@ -2862,5 +2862,6 @@ Disguy
 - [sphinxbard](https://github.com/sphinxbard)
 - [Glory](https://github.com/gloriaporte)
 - [Gustavo Esser](https://github.com/GustavoEsser)
+- [Daniele Freitas](https://github.com/dani-freitas)
 
 <!-- prettier-ignore-end -->
