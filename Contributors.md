@@ -2857,5 +2857,6 @@ Disguy
 - [you96](https://github.com/you96)
 - [nmacoley](https://github.com/nmacoley)
 - [sphinxbard](https://github.com/sphinxbard)
+- [Glory](https://github.com/gloriaporte)
 
 <!-- prettier-ignore-end -->
