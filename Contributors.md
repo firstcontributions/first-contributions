@@ -2823,5 +2823,6 @@ Disguy
 - [Jayesh](https://github.com/jayeshsorathia)
 - [lcrnjakovic](https://github.com/lcrnjakovic)
 - [StavrosCaptain](https://github.com/StavrosCaptain)
+- [hzq](https://github.com/xiaolubo)
 
 <!-- prettier-ignore-end -->
