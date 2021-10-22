@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
