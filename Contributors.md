@@ -4,6 +4,7 @@
 
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Michael Carr](https://github.com/xyeres)
+- [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
