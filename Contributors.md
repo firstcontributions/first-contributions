@@ -79,7 +79,7 @@
 - [Ruben Gonzalez](https://github.com/Rubengon84)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Gabriel Borghetti] (https://github.com/GabrielBorghetti)
-- [Ankit Gupta](https://github.com/luckyhero613)
+- [Ankit Gupta](https://github.com/luckyhero613)q
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Divyesh Mangroliya](https://github.com/Divyesh24)
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
@@ -90,6 +90,7 @@
 - [Malvika Verma](https://github.com/malvikao2)
 - [Ritik Parida](https://github.com/SirGaLaHaD69)
 - [Yeana Cho](https://github.com/yeana-dev)
+- [Arpan Singh](https://github.com/kibi11)
 - [Abhishek Chandra](https://github.com/abhishekchandra2522k)
 - [Karuna Sharma](https://github.com/Karunasharma09)
 - [Tai Tai](https://github.com/ywettai-dev)
