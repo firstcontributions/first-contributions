@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Alexis Barreyre](https://github.com/Alexis6942069)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Asmita Gaire](https://github.com/asmitagaire00)
