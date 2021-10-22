@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
+- [Michelle Williams](https://github.com/michellestdarling)
 - [Randy Riley](https://github.com/rylee816)
 - [Michael Carr](https://github.com/xyeres)
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
