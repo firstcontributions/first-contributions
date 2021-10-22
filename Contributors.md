@@ -2824,5 +2824,6 @@ Disguy
 - [Jayesh](https://github.com/jayeshsorathia)
 - [lcrnjakovic](https://github.com/lcrnjakovic)
 - [StavrosCaptain](https://github.com/StavrosCaptain)
+- [Fluxyl](https://github.com/Fluxyl)
 
 <!-- prettier-ignore-end -->
