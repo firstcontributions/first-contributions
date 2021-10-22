@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-
+- [Skjord](https://github.com/Skjord)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Asmita Gaire](https://github.com/asmitagaire00)
