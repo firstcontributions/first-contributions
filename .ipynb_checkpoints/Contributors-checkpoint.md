@@ -908,7 +908,6 @@ Himanshu Dedha
 - [James Dinh](https://github.com/SonDinh5310)
 - [anuj singh]
 - [Ja rdt](https://github.com/notsharing)
-- [Noah Ward](https://github.com/noahward)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Alexander Craggs](https://github.com/EyreC)
