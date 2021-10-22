@@ -474,6 +474,7 @@
 - [Cloudy Botty](https://github.com/cloud-03)
 - [Vivek Joshi](https://github.com/vjvivekvj)
 - [AymanGamal](https://github.com/cod-lvr)
+- [Adam](https://github.com/kanter666)
 - [Tom Davis](https://github.com/Kat35601)
 - [Fabian Glahn](https://github.com/fabiglahn)
 - [Ashish Nain](https://github.com/Asi-21)
