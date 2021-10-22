@@ -2828,5 +2828,6 @@ Disguy
 - [StavrosCaptain](https://github.com/StavrosCaptain)
 - [hzq](https://github.com/xiaolubo)
 - [Ferdian Ardhana](https://github.com/ferdianrura97)
+- [Nishant Suthar](https://github.com/nik25s)
 
 <!-- prettier-ignore-end -->
