@@ -1042,6 +1042,7 @@ Himanshu Dedha
 - [Shashank Kumar Upadhyay](https://github.com/skup-sci)
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Mohammad Shakib](https://github.com/mo-shakib)
+- [Matthias Ableidinger](https://github.com/kadhonn)
 - [Abhijit Sarode](https://github.com/abhijitsarode)
 - [Abel Tung](https://github.com/AlexTungsten)
 - [OptimChain](https://github.com/OptimChain)
