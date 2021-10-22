@@ -2827,5 +2827,6 @@ Disguy
 - [lcrnjakovic](https://github.com/lcrnjakovic)
 - [StavrosCaptain](https://github.com/StavrosCaptain)
 - [hzq](https://github.com/xiaolubo)
+- [Ferdian Ardhana](https://github.com/ferdianrura97)
 
 <!-- prettier-ignore-end -->
