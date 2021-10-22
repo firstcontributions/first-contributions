@@ -2838,5 +2838,5 @@ Disguy
 - [Ferdian Ardhana](https://github.com/ferdianrura97)
 - [Nishant Suthar](https://github.com/nik25s)
 - [you96](https://github.com/you96)
-
+- [Skjord](https://github.com/Skjord)
 <!-- prettier-ignore-end -->
