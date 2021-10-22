@@ -77,6 +77,7 @@
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
 - [Ruben Gonzalez](https://github.com/Rubengon84)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
+- [Gabriel Borghetti] (https://github.com/GabrielBorghetti)
 - [Ankit Gupta](https://github.com/luckyhero613)
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Divyesh Mangroliya](https://github.com/Divyesh24)
