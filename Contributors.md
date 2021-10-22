@@ -2775,6 +2775,7 @@ Disguy
 - [Reo Uehara](https://github.com/uh-zz)
 - [Manthan Khandale](https://github.com/Manty-K)
 - [Jonathan Punzalan](https://github.com/hjpunzalan)
+- [Margareth Borba](https://github.com/mborba1)
 - [Felipe Leao](https://github.com/felipeLeao18)
 - [Daniel Sabic](https://github.com/sabicd)
 - [Felipe França](https://github.com/felipefrranca)
