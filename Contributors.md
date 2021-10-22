@@ -13,6 +13,7 @@
 - [Samatar(Abdulaziz) Abdi](https://github.com/azeez1776)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
+- [Gautam Prabhu](https://github.com/gsp-mit)
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
