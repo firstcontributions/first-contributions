@@ -405,6 +405,7 @@
 - [Shreyas Kulkarni] (https://github.com/SHREYAS290601)
 - [Jei Pratheesh] (https://github.com/JeiRaju)
 - [Em White](https://github.com/kropht)
+- [Xinyi Tay] (https://github.com/xinyitay)
 - [Marco](https://github.com/Marco-Kap)
 - [Drew](https://github.com/dbrokamp)
 - [ceyxasm](https://github.com/ceyxasm)
