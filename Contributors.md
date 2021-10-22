@@ -2867,5 +2867,6 @@ Disguy
 - [Glory](https://github.com/gloriaporte)
 - [Gustavo Esser](https://github.com/GustavoEsser)
 - [Daniele Freitas](https://github.com/dani-freitas)
+- [Hernani Junior](https://github.com/hernanijr)
 
 <!-- prettier-ignore-end -->
