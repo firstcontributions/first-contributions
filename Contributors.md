@@ -2850,5 +2850,6 @@ Disguy
 - [Nishant Suthar](https://github.com/nik25s)
 - [you96](https://github.com/you96)
 - [nmacoley](https://github.com/nmacoley)
+- [sphinxbard](https://github.com/sphinxbard)
 
 <!-- prettier-ignore-end -->
