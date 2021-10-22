@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-
+- [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Asmita Gaire](https://github.com/asmitagaire00)
