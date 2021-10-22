@@ -2858,5 +2858,6 @@ Disguy
 - [nmacoley](https://github.com/nmacoley)
 - [sphinxbard](https://github.com/sphinxbard)
 - [Glory](https://github.com/gloriaporte)
+- [Gustavo Esser](https://github.com/GustavoEsser)
 
 <!-- prettier-ignore-end -->
