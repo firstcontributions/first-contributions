@@ -302,6 +302,7 @@
 - [Albert Osei Frimpong] (https://github.com/Alotab)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Rudra Shah](https://github.com/scienceLabwork)
+- [Swapnil Nayak] (https://github.com/swapnilnyk10)
 - [Lily Tang](https://github.com/tang305)
 - [Riz Delos Reyes](https://github.com/vantevie)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
