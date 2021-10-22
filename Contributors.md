@@ -7,6 +7,7 @@
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Levan Vekua](https://github.com/lvekua)
+- [Samatar(Abdulaziz) Abdi](https://github.com/azeez1776)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
