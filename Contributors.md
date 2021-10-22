@@ -2,6 +2,7 @@
 
 # **Contributors**
 
+- [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Asmita Gaire](https://github.com/asmitagaire00)
@@ -34,7 +35,7 @@
 - [Hemanth Ravula](https://github.com/hmnth07)
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
 - [Joshua Buscher](https://github.com/Crimsondragon2002)
--  [Elen S](https://github.com/ElenaS1981)
+- [Elen S](https://github.com/ElenaS1981)
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Shrejal Singh](https://github.com/shrejal99)
 - [Jean Khoury](https://github.com/jeankhoury0)
