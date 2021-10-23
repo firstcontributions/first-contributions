@@ -43,6 +43,7 @@
 - [Jocelyn Remington](https://github.com/jocelynrem)
 - [Thomas] (https://github.com/MediumChan)
 - [Deletking](https://github.com/Deletking)
+  [Morbius](https://github.com/prads46)
 - [Priyanka Vaishya](https://github.com/PriyankaVaishya)
 - [Hemanth Ravula](https://github.com/hmnth07)
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
