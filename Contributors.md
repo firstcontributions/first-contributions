@@ -2909,5 +2909,6 @@ Disguy
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
 - [Megan Dolan](https://github.com/mgndolan)
+- [Coolsnake8](https://github.com/Coolsnake8)
 
 <!-- prettier-ignore-end -->
