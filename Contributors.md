@@ -149,6 +149,7 @@
 - [Sindhura K S](https://github.com/sindhuraks)
 - [Cambell X](https://github.com/CambellX)
 - Tanu
+- [Ashray Gattani](https://github.com/AshrayGattani)
 - [Sharad Maurya] (https://github.com/GODSPE3D)
 - [Jorge Tadeo](https://github.com/JorgeTadeo)
 - [Suyash Shukla](https://github.com/suyashshukla30)
