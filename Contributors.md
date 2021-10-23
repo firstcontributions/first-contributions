@@ -42,6 +42,7 @@
   [Ayman Lar](https://github.com/AymanLar)
 - [David Brent]
 - [Prem Sundar]
+- [Megan Riley] (https://github.com/meganriley)
 - [Ilmari99](http://github.com/Ilmari99)
 - [Muchu69390](https://github.com/Muchu69390)
 - [Anurag Chakraborty](https://github.com/achak47)
