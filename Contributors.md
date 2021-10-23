@@ -20,6 +20,7 @@
 - [Samatar(Abdulaziz) Abdi](https://github.com/azeez1776)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
+- [Akansha verma](https://github.com/Akansha-cr)
 - [Gautam Prabhu](https://github.com/gsp-mit)
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
 - [Raghav Kapur](https://github.com/codingkapur)
