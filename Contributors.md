@@ -135,6 +135,7 @@
 - [Gabriel Abubakar](https://github.com/GabrielAbubakar)
 - [Cody Therrien](https://github.com/codytherrien)
 - [Favour James](https://github.com/Favourj-bit)
+- [Jacky_Cutler](https://github.com/VancouverJohn)
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Mohit Verma](https://github.com/vermamohit13)
