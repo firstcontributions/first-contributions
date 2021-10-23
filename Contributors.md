@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
+- [Noah] https://github.com/noah-yac
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Randy Riley](https://github.com/rylee816)
