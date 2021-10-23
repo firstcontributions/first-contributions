@@ -2899,5 +2899,6 @@ Disguy
 - [Hernani Junior](https://github.com/hernanijr)
 - [Anushan Santhirakumar](https://github.com/anushan1508)
 - [Trilok Vallamkonda](https://github.com/trilok2703)
+- [Francesca Belfiore](https://github.com/Francesca-Belfiore)
 
 <!-- prettier-ignore-end -->
