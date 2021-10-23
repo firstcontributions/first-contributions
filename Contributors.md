@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
+- [Noah] https://github.com/noah-yac
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Randy Riley](https://github.com/rylee816)
@@ -14,6 +15,7 @@
 - [Anoop Chacko](https://github.com/AnoopChacko)
 - [Anton Christoffersson](https://github.com/miraz12)
 - [Anthony Ammar](https://github.com/Antho13710)
+- [Prabin Singh](https://github.com/prabin544)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [Rabih ND](https://github.com/RabihND)
@@ -43,6 +45,7 @@
 - [Muhammad Usman](https://github.com/zillBoy)
   [Catherine Kiiru](https://github.com/CatherineKiiru)
   [Ayman Lar](https://github.com/AymanLar)
+- [Daniel Dills](https://github.com/danieldills)
 - [David Brent]
 - [Prem Sundar]
 - [Megan Riley] (https://github.com/meganriley)
@@ -59,6 +62,7 @@
 - [Hemanth Ravula](https://github.com/hmnth07)
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
 - [Joshua Buscher](https://github.com/Crimsondragon2002)
+- [Pranav Krishnan](https://github.com/PranavKrishnan007)
 - [Elen S](https://github.com/ElenaS1981)
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Shrejal Singh](https://github.com/shrejal99)
@@ -132,6 +136,7 @@
 - [Gabriel Abubakar](https://github.com/GabrielAbubakar)
 - [Cody Therrien](https://github.com/codytherrien)
 - [Favour James](https://github.com/Favourj-bit)
+- [Jacky_Cutler](https://github.com/VancouverJohn)
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Mohit Verma](https://github.com/vermamohit13)
@@ -144,8 +149,9 @@
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
 - [José Londoño](https://github.com/jlondonob)
+- [Dejan Aksović])(https://github.com/AllEffort)
 - [Hemanth](https://github.com/anumolu-hemanth)
-- [Shneior Aizen](https://github.com/Shneior770) 
+- [Shneior Aizen](https://github.com/Shneior770)
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Prashant Singh] (https://github.com/Prashant-17-11)
 - [Alina Ronghangpi](https://github.com/pushki-elena)
@@ -515,6 +521,7 @@
 - [Anirudh Mishra](https://github.com/anirudhgray)
 - [Paladin Qu](https://github.com/paladinqu)
 - [Cloudy Botty](https://github.com/cloud-03)
+- [Dan Ryan](https://github.com/boogie-matrix)
 - [Vivek Joshi](https://github.com/vjvivekvj)
 - [AymanGamal](https://github.com/cod-lvr)
 - [Adam](https://github.com/kanter666)
@@ -2904,4 +2911,8 @@ Disguy
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
 - [Virag Zaveri](https://github.com/viragz158)
+- [Megan Dolan](https://github.com/mgndolan)
+- [Coolsnake8](https://github.com/Coolsnake8)
+- [Acácio Andrade](https://github.com/acac-io)
+
 <!-- prettier-ignore-end -->
