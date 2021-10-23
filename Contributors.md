@@ -655,6 +655,7 @@ Pranjal
 - [Phyllis Atieno](https://github.com/phyleria)
 - [Emily Margaret](https://github.com/em3B)
 - [Catter]
+- [Nanor Israel](https://github.com/NanorIsrael)
 - [Abhiram Mundru](https://github.com/AbhiramMundru)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Douglas Kaminski](https://github.com/dokam)
