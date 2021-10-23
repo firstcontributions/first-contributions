@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
+- [Noah] https://github.com/noah-yac
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Randy Riley](https://github.com/rylee816)
@@ -148,6 +149,7 @@
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
 - [José Londoño](https://github.com/jlondonob)
+- [Dejan Aksović])(https://github.com/AllEffort)
 - [Hemanth](https://github.com/anumolu-hemanth)
 - [Shneior Aizen](https://github.com/Shneior770)
 - [Joshua Hinojo] (https://github.com/jgone99)
@@ -2910,5 +2912,6 @@ Disguy
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
 - [Megan Dolan](https://github.com/mgndolan)
 - [Coolsnake8](https://github.com/Coolsnake8)
+- [Acácio Andrade](https://github.com/acac-io)
 
 <!-- prettier-ignore-end -->
