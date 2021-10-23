@@ -44,7 +44,6 @@
 - [Prem Sundar]
 - [Ilmari99](http://github.com/Ilmari99)
 - [Muchu69390](https://github.com/Muchu69390)
-- [Anurag Chakraborty](https://github.com/achak47)
 - [Sumaiya Fatma](https://github.com/sumushi)
 - [Najam ul Hassan](https://github.com/Najamulhassan3383)
 - [Jocelyn Remington](https://github.com/jocelynrem)
@@ -2839,7 +2838,7 @@ Disguy
 - [Sinbad07](https://github.com/Sinbad07)
 - [Shivam Rawat](https://github.com/wickedwisdom0911)
 - [Aisa Luana](https://https://github.com/aisaluana)
-- [Srikant V S](https://https://github.com/srikantvs)
+- [Srikant V S](https://github.com/srikantvs)
 - [TyraLizQ10](https://github.com/TyraLizQ10)
 - [Stian Martinsen](https://github.com/stian-git)
 - [Ashley James Ivin Foster](https://github.com/ajifoster3)
