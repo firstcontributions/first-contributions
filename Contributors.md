@@ -1746,6 +1746,7 @@ Himanshu Dedha
 - [Jaime Justo](https://github.com/jaimejusto)
 - [Jesse van Veen](https://github.com/JSvanVeen)
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
+- [Vaclav Sekret](https://github.com/VasekS),(https://vaclavsekret.dev)
 - [Marcel Schliesser](https://github.com/marcelschliesser)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
 - [David Weiss](https://github.com/davidtheweiss)
