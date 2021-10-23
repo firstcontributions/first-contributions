@@ -1622,6 +1622,7 @@ Himanshu Dedha
 - [Kartikey Dubey](https://github.com/kartikey-git)
 - [Elizabeth Campbell](https://github.com/campbellita)
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
+- [Vishnu R Kumar](https://github.com/vishnurk6247)
 - [Tom Kirk](https://github.com/t1b3r1us)
 - [Andrew Bankston](https://github.com/andrewbankston)
 - [Fernando Harris](https://github.com/fharris)
