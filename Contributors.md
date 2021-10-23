@@ -906,6 +906,7 @@ Himanshu Dedha
 - Chirantan
 - [MontejoJorge](https://github.com/montejojorge) 🍍
 - [Tia S](https://github.com/tia-kristen)
+- [Victor Lazo](https://github.com/vlazoq)
 - [Florie Anstett](https://github.com/AFlorie)
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
