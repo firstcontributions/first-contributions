@@ -2896,5 +2896,6 @@ Disguy
 - [Daniele Freitas](https://github.com/dani-freitas)
 - [Hernani Junior](https://github.com/hernanijr)
 - [Anushan Santhirakumar](https://github.com/anushan1508)
+- [Trilok Vallamkonda](https://github.com/trilok2703)
 
 <!-- prettier-ignore-end -->
