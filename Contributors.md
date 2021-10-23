@@ -2903,5 +2903,5 @@ Disguy
 - [Anushan Santhirakumar](https://github.com/anushan1508)
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
-
+- [Virag Zaveri](https://github.com/viragz158)
 <!-- prettier-ignore-end -->
