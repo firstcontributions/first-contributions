@@ -1414,6 +1414,7 @@ Himanshu Dedha
 - [meritarition](https://github.com/meritarition)
 - [utah239](https://github.com/utah239)
 - [SahityaRoy](https://github.com/SahityaRoy)
+- [kevintang300](https://github.com/kevintang300)
 - [abimaelB](https://github.com/abimael-o-o)
 - [samedsay](https://github.com/samedsay)
 - [Lily Silva](https://github.com/LiliRosa)
