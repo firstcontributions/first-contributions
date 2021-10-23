@@ -9,6 +9,7 @@
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
+- [Anton Christoffersson](https://github.com/miraz12)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [Rabih ND](https://github.com/RabihND)
