@@ -2167,6 +2167,7 @@ Himanshu Dedha
 - [Emilkens](https://github.com/Emilkens)
 - [Megat Harun](https://github.com/megatharun)
 - [komooo](https://github.com/komooo)
+- [Itay Raveh](https://github.com/itay-raveh)
 - [Leonie](https://github.com/Leo-nie)
 - [Cami Queiroz](https://github.com/camimq)
 - [Himanshu Chaudhary](https://github.com/chaudharyhimanshu)
