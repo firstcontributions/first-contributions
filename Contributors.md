@@ -1439,6 +1439,7 @@ Himanshu Dedha
 - [foufouboy](https://github.com/foufouboy/first-contributions)
 - [omarelweshy](https://github.com/omarelweshy)
 - [Naren Gorantla](https://github.com/Naren0)
+- [Francisco Fabiano](https://github.com/Francisco-Fab)
 - [David Páez](https://github.com/paezdavid)
 - [Billy Brown III](https://github.com/BillyBDev)
 - [maryamdkh](https://github.com/maryamdkh)
