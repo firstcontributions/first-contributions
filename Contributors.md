@@ -2433,6 +2433,7 @@ Himanshu Dedha
 - [Emilkens](https://github.com/Emilkens)
 - [Megat Harun](https://github.com/megatharun)
 - [komooo](https://github.com/komooo)
+- [Itay Raveh](https://github.com/itay-raveh)
 - [Leonie](https://github.com/Leo-nie)
 - [Wadzek1](https://github.com/Wadzek1)
 - [Cami Queiroz](https://github.com/camimq)
