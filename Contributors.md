@@ -43,6 +43,7 @@
 - [Muhammad Usman](https://github.com/zillBoy)
   [Catherine Kiiru](https://github.com/CatherineKiiru)
   [Ayman Lar](https://github.com/AymanLar)
+- [Daniel Dills](https://github.com/danieldills)
 - [David Brent]
 - [Prem Sundar]
 - [Megan Riley] (https://github.com/meganriley)
