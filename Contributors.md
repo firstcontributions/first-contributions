@@ -11,6 +11,7 @@
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
 - [Kishan Kumar Seth](https://github.com/kishanks412)
+- [Anoop Chacko](https://github.com/AnoopChacko)
 - [Anton Christoffersson](https://github.com/miraz12)
 - [Anthony Ammar](https://github.com/Antho13710)
 - [Erick Rosa](https://github.com/RosaErick)
