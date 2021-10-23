@@ -2916,6 +2916,7 @@ Disguy
 - [Megan Dolan](https://github.com/mgndolan)
 - [Coolsnake8](https://github.com/Coolsnake8)
 - [Acácio Andrade](https://github.com/acac-io)
+- [Vanza Setia](https://github.com/vanzasetia)
 
 
 <!-- prettier-ignore-end -->
