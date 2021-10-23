@@ -2710,6 +2710,7 @@ Himanshu Dedha
 - [Madhan M](https://github.com/CaptMadhan)
 - [Vinamra Dash](https://github.com/Vinamra-15)
 - [Ayush Pattnaik](https://github.com/Ayu10x)
+- [Vishakha](https://github.com/vishakha868)
 - [József Polgár](https://github.com/polgarj)
 - [Indhuja M](https://github.com/CaptIndhuja)
 - [Eddy](https://github.com/bitedd)
