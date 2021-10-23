@@ -2839,7 +2839,7 @@ Disguy
 - [Sinbad07](https://github.com/Sinbad07)
 - [Shivam Rawat](https://github.com/wickedwisdom0911)
 - [Aisa Luana](https://https://github.com/aisaluana)
-- [Srikant V S](https://https://github.com/srikantvs)
+- [Srikant V S](https://github.com/srikantvs)
 - [TyraLizQ10](https://github.com/TyraLizQ10)
 - [Stian Martinsen](https://github.com/stian-git)
 - [Ashley James Ivin Foster](https://github.com/ajifoster3)
