@@ -25,6 +25,7 @@
 - [Agha Muqarib](https://github.com/Agha-Muqarib)
 - [Akansha verma](https://github.com/Akansha-cr)
 - [Gautam Prabhu](https://github.com/gsp-mit)
+- [Hiten Soni](https://github.com/hitensoni)
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
