@@ -2904,5 +2904,6 @@ Disguy
 - [Anushan Santhirakumar](https://github.com/anushan1508)
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
+- [Coolsnake8](https://github.com/Coolsnake8)
 
 <!-- prettier-ignore-end -->
