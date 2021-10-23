@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
-
+- [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Noah] https://github.com/noah-yac
 - [Jose Camacho](https://github.com/sircoko)
