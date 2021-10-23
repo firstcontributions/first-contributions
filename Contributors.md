@@ -2874,5 +2874,6 @@ Disguy
 - [Gustavo Esser](https://github.com/GustavoEsser)
 - [Daniele Freitas](https://github.com/dani-freitas)
 - [Hernani Junior](https://github.com/hernanijr)
+- [Anushan Santhirakumar](https://github.com/anushan1508)
 
 <!-- prettier-ignore-end -->
