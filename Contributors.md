@@ -146,7 +146,7 @@
 - Karin
 - [José Londoño](https://github.com/jlondonob)
 - [Hemanth](https://github.com/anumolu-hemanth)
-- [Shneior Aizen](https://github.com/Shneior770) 
+- [Shneior Aizen](https://github.com/Shneior770)
 - [Joshua Hinojo] (https://github.com/jgone99)
 - [Prashant Singh] (https://github.com/Prashant-17-11)
 - [Alina Ronghangpi](https://github.com/pushki-elena)
@@ -2905,5 +2905,6 @@ Disguy
 - [Anushan Santhirakumar](https://github.com/anushan1508)
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
+- [Megan Dolan](https://github.com/mgndolan)
 
 <!-- prettier-ignore-end -->
