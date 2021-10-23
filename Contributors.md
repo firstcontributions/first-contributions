@@ -2910,6 +2910,7 @@ Disguy
 - [Anushan Santhirakumar](https://github.com/anushan1508)
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
+- [Virag Zaveri](https://github.com/viragz158)
 - [Megan Dolan](https://github.com/mgndolan)
 - [Coolsnake8](https://github.com/Coolsnake8)
 - [Acácio Andrade](https://github.com/acac-io)
