@@ -14,6 +14,7 @@
 - [Anoop Chacko](https://github.com/AnoopChacko)
 - [Anton Christoffersson](https://github.com/miraz12)
 - [Anthony Ammar](https://github.com/Antho13710)
+- [Prabin Singh](https://github.com/prabin544)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [Rabih ND](https://github.com/RabihND)
