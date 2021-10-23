@@ -63,7 +63,7 @@
 - [Nikunj Rohit](https://github.com/nik132-eng)
 - [Nirmalya Ghosh](https://github.com/Nirmalya24)
 - [Sai Sarah](https://github.com/saisarah)
--[sashank](https://github.com/sashank002)
+- [Smit Shah](https://github.com/smit77763)
 - [Wang Wai Siong](https://github.com/jeffisnotahero)
 - [Rupal](https://github.com/rupalAg)
 - [Richa Srivastava](https://github.com/getRicha)
