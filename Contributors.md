@@ -240,6 +240,7 @@ tayo360
   [Vitor de Oliveira Mendes](https://github.com/MendesVitor)
   [Chan](https://github.com/chanvn)
 - [Kedar Hargude](https://github.com/kedar-hargude)
+- [Avinash Mallick](https://github.com/avimallick)
 - [Aniket Nayek](https://github.com/AniketNayek3101)
 - [Mayank Negi](https://github.com/mayanknegi-kun)
 - [Robert Njenga](https://github.com/robertnjenga)
