@@ -44,6 +44,7 @@
 - [Prem Sundar]
 - [Ilmari99](http://github.com/Ilmari99)
 - [Muchu69390](https://github.com/Muchu69390)
+- [Anurag Chakraborty](https://github.com/achak47)
 - [Sumaiya Fatma](https://github.com/sumushi)
 - [Najam ul Hassan](https://github.com/Najamulhassan3383)
 - [Jocelyn Remington](https://github.com/jocelynrem)
