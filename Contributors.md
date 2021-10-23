@@ -103,6 +103,7 @@
 - [Abhishek Chandra](https://github.com/abhishekchandra2522k)
 - [Karuna Sharma](https://github.com/Karunasharma09)
 - [Tai Tai](https://github.com/ywettai-dev)
+- [Fatima Rami](https://github.com/Fatima-Rami)
 - [Varghese George](https://github.com/varghese1508)
 - [DanielTruong](https://github.com/anhduy1202)
 - [Emily Essex](https://github.com/emilygraceessex)
