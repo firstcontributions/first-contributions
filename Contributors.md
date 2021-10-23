@@ -1778,6 +1778,7 @@ Himanshu Dedha
 - [Quentin HENRY](https://github.com/Dythic)
 - [Yakov Rakhamimov](https://github.com/jacobra19)
 - [M Faisal Ghozi](https://github.com/mfaisalghozi)
+- [Japar Sidik](https://github.com/Jersk41)S
 - [Anna Porofijeva](https://github.com/annayeva)
 - [Joseph Harrison](https://github.com/BanJoeH)
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
