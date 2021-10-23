@@ -2911,5 +2911,6 @@ Disguy
 - [Trilok Vallamkonda](https://github.com/trilok2703)
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
 - [Megan Dolan](https://github.com/mgndolan)
+- [Acácio Andrade](https://github.com/acac-io)
 
 <!-- prettier-ignore-end -->
