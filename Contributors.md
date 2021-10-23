@@ -10,6 +10,7 @@
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
 - [Erick Rosa](https://github.com/RosaErick)
+- [Rabih ND](https://github.com/RabihND)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Levan Vekua](https://github.com/lvekua)
