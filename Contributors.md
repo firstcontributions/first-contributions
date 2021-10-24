@@ -476,6 +476,7 @@
 - [Anke Pfeiffer] (https://github.com/AnkePfei2fer)
 - Sankar Pitchuka
 - Rebecca Ahn
+- [JJSaga]
 - [Daberechi Okorie](https://github.com/Dahbaeraychy)
 - Mohamed Habarneh
 - [Ajriel](https://github.com/AjrielRm/)
