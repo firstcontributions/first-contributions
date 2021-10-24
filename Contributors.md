@@ -8,6 +8,7 @@
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
+- [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
 - [Randy Riley](https://github.com/rylee816)
 - [Michael Carr](https://github.com/xyeres)
 - [Dumac Revano Chen](https://github.com/dumacrevano)
