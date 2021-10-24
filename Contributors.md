@@ -22,6 +22,7 @@
 - [Rabih ND](https://github.com/RabihND)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
+- [Dev Parikh](https://github.com/Dev79844)
 - [Levan Vekua](https://github.com/lvekua)
 - [Samatar(Abdulaziz) Abdi](https://github.com/azeez1776)
 - [Alexandre Corlet](https://github.com/alexandrecorlet)
