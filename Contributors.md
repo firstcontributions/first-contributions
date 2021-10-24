@@ -42,6 +42,7 @@
 - [David Rosanwo](https://github.com/olusanwo)
 - [David Nguyen](https://github.com/nguyedav1934)
 - [Mitsunobu Yoneda](https://github.com/higamaya)
+- [JediSebas](https://github.com/JediSebas)
 - [Meenakshi Chauhan](https://github.com/meenachan)
 - [Annie Ausen](https://github.com/aausen)
 - [Krishna Nand Dubey](https://github.com/Deadpool2e)
