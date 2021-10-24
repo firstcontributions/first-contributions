@@ -1261,6 +1261,7 @@ Himanshu Dedha
 - [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
+- [Akshay Aggarwal](https://github.com/AkshayAggarwal2509)
 - [Lucas Fontes](https://github.com/lvbfontes)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [C.S.Bahushruth](https://github.com/PotatoSpudowski)
