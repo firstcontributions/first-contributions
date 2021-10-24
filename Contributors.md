@@ -2927,6 +2927,7 @@ Disguy
 - [Acácio Andrade](https://github.com/acac-io)
 - [Vanza Setia](https://github.com/vanzasetia)
 - [Andi L.](https://github.com/Lehnargh)
+- [Suuna Conrad](https://github.com/conradsuuna)
 
 
 <!-- prettier-ignore-end -->
