@@ -920,6 +920,7 @@ Himanshu Dedha
 - [SURJIT KUMAR KAUSIK](https://github.com/seaZonal2001)
 - [Austin Pautz](https://github.com/austindesosa)
 - [Josh Merlin](https://github.com/jamjamnewbie)
+- [Andrew Quamme](https://github.com/andrewquamme)
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Nakoya Wilson](https://github.com/nakoyawilson)
 - [Megha Agarwal](https://github.com/Megha184)
