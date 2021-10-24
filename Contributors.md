@@ -2929,6 +2929,7 @@ Disguy
 - [Vanza Setia](https://github.com/vanzasetia)
 - [Andi L.](https://github.com/Lehnargh)
 - [Suuna Conrad](https://github.com/conradsuuna)
+- [Leon](https://github.com/leonvsc)
 
 
 <!-- prettier-ignore-end -->
