@@ -181,6 +181,7 @@
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Chandan M S](https://github.com/zac-candy)
 - [Arnav Puri](https://github.com/ArnavPuri)
+- [Shuto Osawa](https://github.com/ShutoOsawa)
 - [Zaid Mujahid](https://github.com/ZaidMujahid)
 - [losowy](https://github.com/losowyLP)
 - [Treasure Ajefu](https://github.com/cybergeni)
