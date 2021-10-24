@@ -2720,6 +2720,7 @@ Himanshu Dedha
 - [Ayush Pattnaik](https://github.com/Ayu10x)
 - [Vishakha](https://github.com/vishakha868)
 - [József Polgár](https://github.com/polgarj)
+- [Nathan Baylon](https://github.com/bayl0n)
 - [Indhuja M](https://github.com/CaptIndhuja)
 - [Eddy](https://github.com/bitedd)
 - [Nandini Khandelwal](https://github.com/nkhandelwal07)
