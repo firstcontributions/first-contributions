@@ -16,6 +16,7 @@
 - [Meharab](https://github.com/Meharab)
 - [Robert Smith](https://github.com/rsmith2271)
 - [Kishan Kumar Seth](https://github.com/kishanks412)
+- [Akash Shetgar](https://github.com/Akashshetgar)
 - [Anoop Chacko](https://github.com/AnoopChacko)
 - [Anton Christoffersson](https://github.com/miraz12)
 - [Anthony Ammar](https://github.com/Antho13710)
