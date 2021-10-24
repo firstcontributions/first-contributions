@@ -525,6 +525,7 @@
 - [Sushane Yadav](https://github.com/shaneydv)
 - [Lenard Mangay-ayam](https://github.com/lenard123)
 - [Pravigya Jain](https://github.com/pravigya/first-contributions.git)
+- [Dallas Jammé](https://github.com/Jamme-D)
 - [Leonardo Rodrigues da Silva](https://github.com/leonardorxs)
 - [Ravi Vishwakarma](https://github.com/ravivish)
 - [Rupam Kerketta](https://github.com/rupamkerketta)
