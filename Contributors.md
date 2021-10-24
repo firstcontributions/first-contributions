@@ -2053,6 +2053,7 @@ Himanshu Dedha
 - Khushi Batra
 - [jovicon](https://github.com/jovicon)
 - [eeemt](https://github.com/eeemt)
+- [Ryan Wachter](https://github.com/Prahr)
 - [Nawaz Khan](https://github.com/nawazkhan)
 - [Amogh G Kotabagi](https://github.com/Amogh-G-K)
 - [kamil_marczak](https://github.com/kamil1marczak)
