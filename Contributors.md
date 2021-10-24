@@ -2942,6 +2942,6 @@ Disguy
 - [Suuna Conrad](https://github.com/conradsuuna)
 - [Zach Ripka](https://github.com/zripka)
 - [Leon](https://github.com/leonvsc)
-
+- [Amitrajit](https://github.com/amitrajitroy)
 
 <!-- prettier-ignore-end -->
