@@ -179,6 +179,7 @@
 - [Zaid Mujahid](https://github.com/ZaidMujahid)
 - [losowy](https://github.com/losowyLP)
 - [Treasure Ajefu](https://github.com/cybergeni)
+- [John Sweeney](https://github.com/swanGenie)
 - [Milind jamnekar](https://github.com/Milind-Jamnekar)
 - [MI RAKIB](https://github.com/mirakib)
 - [Christina Varghese](https://github.com/christinichka)
