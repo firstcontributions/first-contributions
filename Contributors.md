@@ -44,6 +44,7 @@
 - [Abhi Kamble](https://github.com/coder-abhi)
 - [David Rosanwo](https://github.com/olusanwo)
 - [David Nguyen](https://github.com/nguyedav1934)
+- [Drew Hosick] (https://github.com/drewhosick)
 - [Mitsunobu Yoneda](https://github.com/higamaya)
 - [JediSebas](https://github.com/JediSebas)
 - [Meenakshi Chauhan](https://github.com/meenachan)
