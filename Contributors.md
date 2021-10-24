@@ -45,6 +45,7 @@
 - [Freda Xiaoyun Yu](https://https://github.com/FredaXYu)
 - [Alexandre Blanquero](https://github.com/Alexandreblnqro)
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
+- [Akshay Aggarwal](https://github.com/AkshayAggarwal2509)
 - [Lucas Fontes](https://github.com/lvbfontes)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [Siddhartha Rao](https://github.com/siddhartharao17)
