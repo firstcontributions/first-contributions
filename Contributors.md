@@ -2926,6 +2926,7 @@ Disguy
 - [Coolsnake8](https://github.com/Coolsnake8)
 - [Acácio Andrade](https://github.com/acac-io)
 - [Vanza Setia](https://github.com/vanzasetia)
+- [Andi L.](https://github.com/Lehnargh)
 
 
 <!-- prettier-ignore-end -->
