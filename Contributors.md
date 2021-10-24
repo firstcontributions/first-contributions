@@ -18,6 +18,7 @@
 - [Prabin Singh](https://github.com/prabin544)
 - [Erick Rosa](https://github.com/RosaErick)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
+- [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
 - [Rabih ND](https://github.com/RabihND)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
