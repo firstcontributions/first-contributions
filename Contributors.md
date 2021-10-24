@@ -2467,6 +2467,7 @@ Himanshu Dedha
 - [Nate Cottrell](https://github.com/NC-Coyote)
 - [Ethan Khoe](https://github.com/elkhoe)
 - [Ana Carolina Gomes](https://github.com/lingsv)
+- [Andrew Ryan](https://github.com/rarAndy)
 - [haziboro](https://github.com/haziboro)
 - [Jeff Browning](https://github.com/browningjeff1)
 - [Sohail Gsais](https://github.com/SohailMG)
@@ -2917,6 +2918,7 @@ Disguy
 - [Coolsnake8](https://github.com/Coolsnake8)
 - [Acácio Andrade](https://github.com/acac-io)
 - [Vanza Setia](https://github.com/vanzasetia)
+
 
 
 <!-- prettier-ignore-end -->
