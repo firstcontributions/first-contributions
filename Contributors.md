@@ -2926,6 +2926,6 @@ Disguy
 - [Coolsnake8](https://github.com/Coolsnake8)
 - [Acácio Andrade](https://github.com/acac-io)
 - [Vanza Setia](https://github.com/vanzasetia)
-- [Esha_Mittal](https://github.com/eshamittal)
+- [Esha Mittal](https://github.com/eshamittal)
 
 <!-- prettier-ignore-end -->
