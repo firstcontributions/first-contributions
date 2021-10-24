@@ -150,6 +150,7 @@
 - [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
+- [Quincy Miller] (https://github.com/QuincyMillerDev)
 - [José Londoño](https://github.com/jlondonob)
 - [Dejan Aksović])(https://github.com/AllEffort)
 - [Hemanth](https://github.com/anumolu-hemanth)
