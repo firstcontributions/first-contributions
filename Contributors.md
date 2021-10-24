@@ -9,6 +9,7 @@
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Randy Riley](https://github.com/rylee816)
 - [Michael Carr](https://github.com/xyeres)
+- [Dumac Revano Chen](https://github.com/dumacrevano)
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
