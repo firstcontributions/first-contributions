@@ -13,6 +13,7 @@
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
+- [Robert Smith](https://github.com/rsmith2271)
 - [Kishan Kumar Seth](https://github.com/kishanks412)
 - [Anoop Chacko](https://github.com/AnoopChacko)
 - [Anton Christoffersson](https://github.com/miraz12)
