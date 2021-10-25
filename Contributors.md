@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+﻿<!-- prettier-ignore-start -->
 
 # **Contributors**
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
@@ -15,6 +15,7 @@
 - [Ahmad Abdullahi](https://github.com/ahm-tech)
 - [Dumac Revano Chen](https://github.com/dumacrevano)
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
+- [Souvik Pan] (https://github.com/ZouvikPan)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
