@@ -1,4 +1,5 @@
 # Contributors
+
 - [Cine-Pixel](https://github.com/Cine-Pixel)
 - [Ross Calvert](https://github.com/Ross-C)
 - [Harsh Kasodariya](https://github.com/harshkaso)
@@ -49,7 +50,7 @@
   Akanksha Singh
   Anishka (https://github.com/anishka01)
 - [Mayur S Chittaragi](https://github.com/MayurSChittaragi)
-- [Aman-_-](https://github.com/AmanKJ)
+- [Aman-\_-](https://github.com/AmanKJ)
 - [Saad Irfan](http://github.com/msaaddev)
 - [masha](https://github.com/masha-nv)
 - [cafonso](https://github.com/cafonso)
@@ -1300,7 +1301,7 @@
 - Prathima Kadari
 - [Deepak Kumar](https://github.com/Deepak18-06)
 - [Luhit Atluri](https://github.com/luhit729)
-- [Rosh Kruv]( https://github.com/roshKruv)
+- [Rosh Kruv](https://github.com/roshKruv)
 - [Thomas Gipson](https://github.com/thomasGipson)
 - [siddhesh jungade](https://github.com/siddheshJungade)
 - [Omkar Chari](https://github.com/omkarchari619)
@@ -9506,6 +9507,7 @@
 - [Zach Rudy](https://github.com/zcr7948)
 - [David Marom](https://github.com/DavidMarom)
 - [Faial](https://github.com/fabfas)
+  [ChaplainsBud](https://github.com/ChaplainsBud)
 - [Alex White](https://github.com/alex-wh)
 - [manusanchev](https://github.com/manusanchev)
 - [Shruti Raj](https://github.com/Sparkla)
