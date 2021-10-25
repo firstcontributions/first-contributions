@@ -132,6 +132,7 @@
 - [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
+- [Joshua Philips](https://github.com/joshua-philips)
 - [Malvika Verma](https://github.com/malvikao2)
 - [Ritik Parida](https://github.com/SirGaLaHaD69)
 - [Yeana Cho](https://github.com/yeana-dev)
