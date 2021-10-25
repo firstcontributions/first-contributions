@@ -9,6 +9,7 @@
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
+- [Poula Helmy](https://github.com/poulahelmy)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
