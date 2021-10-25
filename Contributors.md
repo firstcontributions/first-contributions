@@ -1625,6 +1625,7 @@ Himanshu Dedha
 - [Nikos Andriotis](https://github.com/nikos-andriotis)
 - [Meeru](https://github.com/m33ru) ¯\_(ツ)\_/¯
 - [Vlad Konoshenko](https://github.com/Konoshenko)
+- [Markku Kynsijärvi](https://github.com/markkukynsijarvi)
 - [Andrea Antonio Perrelli](https://github.com/AndreaPerrelli)
 - [Chris Anderson](https://github.com/TheSlamAnderson)
 - [Ayush Aggarwal](https://github.com/ayushggr)
