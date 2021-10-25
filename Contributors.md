@@ -2058,6 +2058,7 @@ Himanshu Dedha
 - [Chloe Blazey](https://github.com/chloeblazey)
 - [Marri Kargar](https://github.com/Marri-k)
 - [donglangjohn](https://github.com/donglangjohn)
+- [Charles Bonoan](https://github.com/cbonoan)
 - Adarsh Jha
 - Khushi Batra
 - [jovicon](https://github.com/jovicon)
