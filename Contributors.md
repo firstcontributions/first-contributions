@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
+- [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Noah] https://github.com/noah-yac
 - [Willen Yang] (https://github.com/yangxile4)
