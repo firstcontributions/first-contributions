@@ -31,6 +31,7 @@
 - [Rabih ND](https://github.com/RabihND)
 - [Aldair Huamani Cusi](https://github.com/Baku452)
 - [Asmita Gaire](https://github.com/asmitagaire00)
+- [Sangram Rath](https://github.com/sangramrath)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Dev Parikh](https://github.com/dev79844)
 - [Levan Vekua](https://github.com/lvekua)
