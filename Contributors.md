@@ -2984,6 +2984,6 @@ Disguy
 - [Kanha Tomar](https://github.com/kanharajput)
 - [Baiqiang Fu](https://github.com/ProvenceLavanda)
 - [Ana Carla Vasconcelos](https://github.com/anacarlavgs)
-
+- [Admir Husić](https://github.com/admirhusic)
 
 <!-- prettier-ignore-end -->
