@@ -1809,6 +1809,7 @@ Himanshu Dedha
 - [Edy Michel](https://github.com/edmichs)
 - [reidoh](https://github.com/reidoh)
 - [Kyle Smith](https://github.com/sKorpion19091)
+- [Kyle Davis](https://github.com/sKorpion19091)
 - [tugotron](https://github.com/tugotron)
 - [Ayush Sahni](https://github.com/ayushsahnios)
 - [Jaime Justo](https://github.com/jaimejusto)
