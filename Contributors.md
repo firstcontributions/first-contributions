@@ -14,6 +14,7 @@
 - [Michael Carr](https://github.com/xyeres)
 - [Ahmad Abdullahi](https://github.com/ahm-tech)
 - [Dumac Revano Chen](https://github.com/dumacrevano)
+- [Devang Jain](https://github.com/djrobin17)
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Souvik Pan] (https://github.com/ZouvikPan)
 - [Jeremy] (https://github.com/jeje-01350)
