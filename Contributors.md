@@ -6,9 +6,9 @@
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
-- [Noah] https://github.com/noah-yac
-- [Willen Yang] (https://github.com/yangxile4)
-- [Mansi  Vashistha] (https://github.com/Mansihub)
+- [Noah](https://github.com/noah-yac)
+- [Willen Yang](https://github.com/yangxile4)
+- [Mansi  Vashistha](https://github.com/Mansihub)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
