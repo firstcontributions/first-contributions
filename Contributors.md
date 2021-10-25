@@ -85,6 +85,7 @@
 - [Fatima-Ezzahra OUHMID](https://github.com/Fatiima-Ezzahra)
 - [Shrejal Singh](https://github.com/shrejal99)
 - [Jean Khoury](https://github.com/jeankhoury0)
+- [Chodak Chokphel]
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Asra Jawaid](https://github.com/Asra2000)
 -[Prince Nwuke](https://github.com/prius2055)
