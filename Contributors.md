@@ -1,4 +1,4 @@
-﻿<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->
 
 # **Contributors**
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
@@ -562,6 +562,7 @@
 - [Richard Anatsui](https://github.com/rich5k)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Anirudh Mishra](https://github.com/anirudhgray)
+- [Zaikin Vladislav Sergeevich](https://github.com/aiserrock)
 - [Paladin Qu](https://github.com/paladinqu)
 - [Cloudy Botty](https://github.com/cloud-03)
 - [Dan Ryan](https://github.com/boogie-matrix)
