@@ -5,6 +5,7 @@
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
+- [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Noah] https://github.com/noah-yac
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
