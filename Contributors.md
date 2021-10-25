@@ -286,6 +286,7 @@
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Raul Quintanilla] (https://github.com/RaulQuintanilla)
 - [Edian Ibarrola](https://github.com/edianibarrola)
+- [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
 - [Nonchalant Nerd](https://github.com/nonchalant-nerd)
 - [Jo Anna Mollman](https://github.com/jodi08)
