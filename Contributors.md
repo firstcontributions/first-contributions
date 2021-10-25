@@ -2958,6 +2958,7 @@ Disguy
 - [Leon](https://github.com/leonvsc)
 - [Raj Dutta](https://github.com/rajprogrammerbd)
 - [Souvik Giri](https://github.com/SouvikGiri)
+- [Baiqiang Fu](https://github.com/ProvenceLavanda)
 
 
 <!-- prettier-ignore-end -->
