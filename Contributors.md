@@ -2837,7 +2837,7 @@ Disguy
 - [hzq](https://github.com/xiaolubo)
 - [Ferdian Ardhana](https://github.com/ferdianrura97)
 - [Nishant Suthar](https://github.com/nik25s)
-- [Abhishek Yadav]
+- [Abhishek Yadav][]
 - [you96](https://github.com/you96)
 
 
