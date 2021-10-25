@@ -364,6 +364,7 @@
 - [Brites](https://github.com/Brites101)
 - [Flippy](https://github.com/Flip771)
 - [WaiSkats] (https://github.com/WaiSkats)
+- [Carol Bolger] (https://github.com/RealWorldApplications)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
 - [Dishti Oberai](https://github.com/Dishti-Oberai)
 - [Shivansh Srivastava](https://github.com/shiv0112)
