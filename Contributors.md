@@ -809,6 +809,7 @@ Himanshu Dedha
 - [Samiksha Mahure](https://github.com/samiksha-14)
 - [Lorenzo Sfarra](https://github.com/lorenzosfarra)
 - [janith.kanchana](https://github.com/JanithKE)
+- [Harry Burge](https://github.com/HarryBurge)
 - [Manav Kampani](https://github.com/Kampani)
 - [Rutvij Dave](https://github.com/rutvijdave12)
 - [Sundararajan](https://github.com/Sundar-07)
