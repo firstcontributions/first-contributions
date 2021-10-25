@@ -305,6 +305,7 @@
 - [Willen Yang] (https://github.com/yangxile)
 - [Nachiket Suryawanshi](https://github.com/Nachi28)
 - [Anouk Driessen](https://github.com/anoukdriessen)
+- [Willen Yang] (https://github.com/yangxile3)
 - [Alex Tumiri](https://github.com/Zelechos)
 - [Divya Eldo](https://github.com/Divya-mariyam)
 - [Alice Petzinger](https://github.com/alicepetzinger)
