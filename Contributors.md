@@ -11,6 +11,7 @@
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
 - [Randy Riley](https://github.com/rylee816)
 - [Michael Carr](https://github.com/xyeres)
+- [Ahmad Abdullahi](https://github.com/ahm-tech)
 - [Dumac Revano Chen](https://github.com/dumacrevano)
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Jeremy] (https://github.com/jeje-01350)
