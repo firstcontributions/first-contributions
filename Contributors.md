@@ -216,6 +216,7 @@
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
+- [Ann Shen Cheah](https://github.com/JShen98)
 - [MaverickD650](https://github.com/MaverickD650)
 - [Tanmay Tete](https://github.com/tancot85)
 - [Tanmay Tripathi](https://github.com/boogyman25)
