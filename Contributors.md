@@ -5,6 +5,7 @@
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Noah] https://github.com/noah-yac
 - [Willen Yang] (https://github.com/yangxile4)
+- [Mansi Vashistha] (https://github.com/Mansihub)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [Jose Camacho](https://github.com/sircoko)
