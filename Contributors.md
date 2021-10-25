@@ -27,6 +27,7 @@
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
 - [Rabih ND](https://github.com/RabihND)
+- [Aldair Huamani Cusi](https://github.com/Baku452)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Dev Parikh](https://github.com/dev79844)
