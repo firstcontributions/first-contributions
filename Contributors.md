@@ -11,6 +11,7 @@
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
 - [Randy Riley](https://github.com/rylee816)
+- [Preetpal Singh](https://github.com/UP941594)
 - [Michael Carr](https://github.com/xyeres)
 - [Ahmad Abdullahi](https://github.com/ahm-tech)
 - [Dumac Revano Chen](https://github.com/dumacrevano)
