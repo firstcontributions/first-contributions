@@ -2976,6 +2976,6 @@ Disguy
 - [Souvik Giri](https://github.com/SouvikGiri)
 - [Kanha Tomar](https://github.com/kanharajput)
 - [Baiqiang Fu](https://github.com/ProvenceLavanda)
-
+- [Rennan Cavalcante](https://github.com/rennanrene)
 
 <!-- prettier-ignore-end -->
