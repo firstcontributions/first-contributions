@@ -222,6 +222,8 @@
 - [Krishna Geeth](https://github.com/Geethegreat)
 - [Jose Chaparro](https://github.com/jchapar)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
+- [Manish Pandey](https://github.com/mmanishpandey/first-contributions.git)
+
 - [Chandan M S](https://github.com/zac-candy)
 - [Arnav Puri](https://github.com/ArnavPuri)
 - [Shuto Osawa](https://github.com/ShutoOsawa)
