@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Noel Gore](https://github.com/NoelGore)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Yash](https://github.com/yashakula)
