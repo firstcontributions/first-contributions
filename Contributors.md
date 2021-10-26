@@ -62,6 +62,7 @@
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - [David Rosanwo](https://github.com/olusanwo)
+- [Rakshatha Vasudev](https://github.com/rakshathavasudev)
 - [David Nguyen](https://github.com/nguyedav1934)
 - [Drew Hosick] (https://github.com/drewhosick)
 - [Mitsunobu Yoneda](https://github.com/higamaya)
