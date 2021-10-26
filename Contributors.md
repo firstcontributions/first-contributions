@@ -1451,6 +1451,7 @@ Himanshu Dedha
 - [ASHUTOSH KUMAR CHOUDHARY](https://github.com/Ash-KODES)
 - [Huu Hoang Duong Nguyen](https://github.com/Edmond48)
 - [Joshua King](https://github.com/Joshuajking)
+- [André Arroxellas](https://github.com/andregda)
 - [Anisha Shruti](https://github.com/anishashruti)
 - [Taejin Jung](https://github.com/taejin5314)
 - [Aayush Yadav](https://github.com/aayushhyadav)
