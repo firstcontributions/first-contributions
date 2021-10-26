@@ -3009,6 +3009,7 @@ Disguy
 - [Andrews Nguyen-Phan](https://github.com/thebeatlesphan)
 - [Ana Carla Vasconcelos](https://github.com/anacarlavgs)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
+- [Brian McQueen](https://github.com/brianleemcqueen)
 
 
 <!-- prettier-ignore-end -->
