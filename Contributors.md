@@ -3003,6 +3003,7 @@ Disguy
 - [Baiqiang Fu](https://github.com/ProvenceLavanda)
 - [Andrews Nguyen-Phan](https://github.com/thebeatlesphan)
 - [Ana Carla Vasconcelos](https://github.com/anacarlavgs)
+- [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 
 
 <!-- prettier-ignore-end -->
