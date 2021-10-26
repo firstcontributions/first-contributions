@@ -250,6 +250,7 @@
 - [Madan](https://github.com/Madanaa)
 - [Roberto Yudi](https://github.com/Roberto-Yudi)
 - [Sushant Chhetry](https://github.com/SushantChhetry)
+- [Anas Tarrab](https://github.com/UP920130)
 - [John Nolan](https://github.com/Fediry)
   [Siva Sundar](https://github.com/siivvaa)
 - [Chiranjeev Agrawal](https://github.com/chiranjeevagrawal57)
