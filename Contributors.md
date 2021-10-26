@@ -4,6 +4,7 @@
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
+- [David Brudnicki] (https://github.com/dbrudnicki)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
