@@ -3008,6 +3008,7 @@ Disguy
 - [Baiqiang Fu](https://github.com/ProvenceLavanda)
 - [Andrews Nguyen-Phan](https://github.com/thebeatlesphan)
 - [Ana Carla Vasconcelos](https://github.com/anacarlavgs)
+- [Elsie Marion Omondi](https://github.com/elsie-dev)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
 
