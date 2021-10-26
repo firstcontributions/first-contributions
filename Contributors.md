@@ -9,6 +9,7 @@
 - [Noah] https://github.com/noah-yac
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
+- [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
