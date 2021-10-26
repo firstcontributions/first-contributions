@@ -330,6 +330,7 @@
 - [Alice Springfeld](https://github.com/alicespringfeld)
 - [Debbie Thompson](https://github.com/debbiect246)
 - [Tom Kennedy](https://github.com/Skyrub-dev)
+- [Matthew Baker](https://github.com/leftstanding)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
