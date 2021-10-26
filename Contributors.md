@@ -3016,6 +3016,6 @@ Disguy
 - [Elsie Marion Omondi](https://github.com/elsie-dev)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
-
+- [James Chhun](https://github.com/wingchhun)
 
 <!-- prettier-ignore-end -->
