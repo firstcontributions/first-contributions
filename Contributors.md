@@ -2,8 +2,10 @@
 
 # **Contributors**
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
+- [Yash](https://github.com/yashakula)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
+- [David Brudnicki] (https://github.com/dbrudnicki)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
@@ -1451,6 +1453,7 @@ Himanshu Dedha
 - [ASHUTOSH KUMAR CHOUDHARY](https://github.com/Ash-KODES)
 - [Huu Hoang Duong Nguyen](https://github.com/Edmond48)
 - [Joshua King](https://github.com/Joshuajking)
+- [André Arroxellas](https://github.com/andregda)
 - [Anisha Shruti](https://github.com/anishashruti)
 - [Taejin Jung](https://github.com/taejin5314)
 - [Aayush Yadav](https://github.com/aayushhyadav)
@@ -3017,6 +3020,7 @@ Disguy
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
 - [Jacky Zhang](https://github.com/zboosy)
+- [David Hunsaker](https://github.com/DavidHunsaker)
 
 
 <!-- prettier-ignore-end -->
