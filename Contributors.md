@@ -2991,6 +2991,6 @@ Disguy
 - [Baiqiang Fu](https://github.com/ProvenceLavanda)
 - [Andrews Nguyen-Phan](https://github.com/thebeatlesphan)
 - [Ana Carla Vasconcelos](https://github.com/anacarlavgs)
-
+- [Dhananjayan Dayalan](https://github.com/dhananjayandayalan)
 
 <!-- prettier-ignore-end -->
