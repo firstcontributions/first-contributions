@@ -1143,6 +1143,7 @@ Himanshu Dedha
 - [Mohammad Shakib](https://github.com/mo-shakib)
 - [Matthias Ableidinger](https://github.com/kadhonn)
 - [Abhijit Sarode](https://github.com/abhijitsarode)
+- [Peerarust S](https://github.com/gnoyoyo)
 - [Abel Tung](https://github.com/AlexTungsten)
 - [OptimChain](https://github.com/OptimChain)
 - [Nils Matic](https://github.com/matic1909)
