@@ -29,6 +29,7 @@
 - [Devang Jain](https://github.com/djrobin17)
 - [Jeya Nishwanth J S](https://github.com/jnishwath)
 - [Jeysen Freedman](https://github.com/jeyeverett)
+- [Fernando Fernandez](https://github.com/frfernandezdev)
 - [Souvik Pan] (https://github.com/ZouvikPan)
 - [Jeremy] (https://github.com/jeje-01350)
 - [Meharab](https://github.com/Meharab)
