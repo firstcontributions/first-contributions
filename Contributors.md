@@ -10,6 +10,7 @@
 - [Noah] https://github.com/noah-yac
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
+- [Saharsh Laud](github.com/SaharshLaud)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
@@ -1188,7 +1189,6 @@ Himanshu Dedha
 - [Khushal Sachdeva](https://github.com/CodeKhushal)
 - [Om Mishra](https://github.com/oreo2107)
 - [Vedant Gokhale](https://github.com/gokhalevedant06)
-- [Saharsh Laud](github.com/SaharshLaud)
 - [Solomon G](github.com/soulsolomon)
 - [Sawix](https://github.com/Sawix)
 - [Ira](https://github.com/irapandey)
