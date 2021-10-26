@@ -188,6 +188,7 @@
 - [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
+- Alessandro Garcia
 - [Quincy Miller] (https://github.com/QuincyMillerDev)
 - [José Londoño](https://github.com/jlondonob)
 - [Dejan Aksović])(https://github.com/AllEffort)
