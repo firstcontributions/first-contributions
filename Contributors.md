@@ -46,7 +46,7 @@
 - [Prabin Singh](https://github.com/prabin544)
 - [Erick Rosa](https://github.com/RosaErick)
 - [abdelrhman azazy](https://github.com/Azazy1)
--[Martin Lever](https://github.com/MartinL551)
+- [Martin Lever](https://github.com/MartinL551)
 - [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
@@ -3016,6 +3016,6 @@ Disguy
 - [Elsie Marion Omondi](https://github.com/elsie-dev)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
-
+- [Michael Crenshaw](https://github.com/crenshaw-dev)
 
 <!-- prettier-ignore-end -->
