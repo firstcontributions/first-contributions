@@ -63,7 +63,7 @@
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Saumya](https://github.com/Saumya132)
-- [Nathan Duddles)(https://github.com/nathan-duddles)
+- [Nathan Duddles](https://github.com/nathan-duddles)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
 - [David Rosanwo](https://github.com/olusanwo)
