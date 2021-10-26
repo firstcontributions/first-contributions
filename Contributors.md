@@ -12,6 +12,7 @@
 - [Mansi  Vashistha] (https://github.com/Mansihub)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
+- [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Poula Helmy](https://github.com/poulahelmy)
   [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
