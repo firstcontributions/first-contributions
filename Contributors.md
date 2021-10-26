@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
+- [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
@@ -13,6 +14,7 @@
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Poula Helmy](https://github.com/poulahelmy)
+  [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [wsa138](https://github.com/wsa138)
 - [Jose Camacho](https://github.com/sircoko)
@@ -39,6 +41,7 @@
 - [Anthony Ammar](https://github.com/Antho13710)
 - [Prabin Singh](https://github.com/prabin544)
 - [Erick Rosa](https://github.com/RosaErick)
+- [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
 - [Ahmed Ikram](https://github.com/ahmed-cmyk)
@@ -116,6 +119,7 @@
 - [Katarina VC](https://github.com/katarina-vc)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Manendar Verma](https://github.com/mverma45)
+- [Leevi Holmström](https://github.com/EnlightedNot)
 - [Tadas Maslauskas](https://github.com/maslauskas)
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
@@ -185,6 +189,7 @@
 - [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
+- Alessandro Garcia
 - [Quincy Miller] (https://github.com/QuincyMillerDev)
 - [José Londoño](https://github.com/jlondonob)
 - [Dejan Aksović])(https://github.com/AllEffort)
