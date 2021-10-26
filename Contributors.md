@@ -12,6 +12,7 @@
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Poula Helmy](https://github.com/poulahelmy)
+  [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [wsa138](https://github.com/wsa138)
 - [Jose Camacho](https://github.com/sircoko)
