@@ -2778,6 +2778,7 @@ Himanshu Dedha
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
+- [Joshua Tomajko](https://github.com/joshtom1)
 - Dan Tcheche
 - [M k Abdul Aziz](https://github.com/crossdev-app)
 - [Mitali Agrawal](https://github.com/MitaliAg)
