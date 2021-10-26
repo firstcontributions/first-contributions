@@ -12,6 +12,7 @@
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
+- [wsa138](https://github.com/wsa138)
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
