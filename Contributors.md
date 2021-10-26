@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Aurel Koci](https://github.com/aurelkoci)
 - [Noel Gore](https://github.com/NoelGore)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Yash](https://github.com/yashakula)
