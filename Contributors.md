@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
+- [Yash](https://github.com/yashakula)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
 - [David Brudnicki] (https://github.com/dbrudnicki)
