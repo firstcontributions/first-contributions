@@ -2979,6 +2979,7 @@ Disguy
 - [Francesca Belfiore](https://github.com/Francesca-Belfiore)
 - [Virag Zaveri](https://github.com/viragz158)
 - [Megan Dolan](https://github.com/mgndolan)
+- [Jenis Rai](https://github.com/Jenis313)
 - [Coolsnake8](https://github.com/Coolsnake8)
 - [Acácio Andrade](https://github.com/acac-io)
 - [Vanza Setia](https://github.com/vanzasetia)
