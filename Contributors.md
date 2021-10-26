@@ -1698,6 +1698,7 @@ Himanshu Dedha
 - [Jonny Tran](https://github.com/jonathanktran)
 - [Jessica Gillim](https://github.com/obstaclez)
 - [Marcos Spanholi](https://github.com/marcosspn)
+- [Shawn Kost](https://github.com/shawnkost)
 - [Aashish KC](https://github.com/kcaashish)
 - [Ebubekir Doğan](https://github.com/Ebu44)
 - [Ayush Bisht](https://github.com/ayushbisht2001)
