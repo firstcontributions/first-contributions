@@ -1504,6 +1504,7 @@ Himanshu Dedha
 - [Adrianne Sebastian](https://github.com/arcsbstn)
 - [David Rosas](https://github.com/drosaslin)
 - [Chandan H](https://github.com/Chandan-h-509)
+- [crixxcroxx](https://github.com/crixxcroxx)
 - [Naman Singh Nayal](https://github.com/NamanSN240002)
 - [Izzminhal Akmal](https://github.com/Kemystra)
 - [Santanu Biswas](https://github.com/Santanu29)
