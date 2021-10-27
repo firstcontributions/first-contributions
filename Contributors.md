@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [Ashwin Devadiga](https://github.com/adevadiga02)
+- [Owen Nowakowski](https://github.com/onowakow)
 - [Noel Gore](https://github.com/NoelGore)
 - [Min Khant Aung](https://github.com/MinKhantAung522)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
