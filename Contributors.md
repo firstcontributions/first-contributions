@@ -25,6 +25,7 @@
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Abhinandan Saha](https://github.com/abhinandan991)
 - [Poula Helmy](https://github.com/poulahelmy)
+- [Ricardo Sosa](https://github.com/rsosa-plusnet)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [wsa138](https://github.com/wsa138)
