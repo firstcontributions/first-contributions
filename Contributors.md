@@ -3,6 +3,7 @@
 # **Contributors**
 - [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Noel Gore](https://github.com/NoelGore)
+- [Daljeet Singh] (https://github.com/daljeetseera)
 - [Min Khant Aung](https://github.com/MinKhantAung522)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Yash](https://github.com/yashakula)
