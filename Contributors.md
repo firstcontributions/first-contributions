@@ -24,6 +24,7 @@
   [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [wsa138](https://github.com/wsa138)
+- [Johan Ramirez](https://github.com/joaramirezra)
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
