@@ -87,7 +87,6 @@
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
-- [Bastien Oeuvrard](https://github.com/Sairkko) 
 - [Saumya](https://github.com/Saumya132)
 - [Nathan Duddles](https://github.com/nathan-duddles)
 - [Yannelly Mercado] (https://github.com/yannellym)
@@ -172,6 +171,7 @@
 - [Divyesh Mangroliya](https://github.com/Divyesh24)
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Animesh Srivastava](https://github.com/animesh-77)
+- [Bastien Oeuvrard](https://github.com/Sairkko)
 - [Paul Gardner](https://github.com/paul-gardner-1999)
 - [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
