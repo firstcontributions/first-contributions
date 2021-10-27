@@ -6,6 +6,7 @@
 - [Min Khant Aung](https://github.com/MinKhantAung522)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Yash](https://github.com/yashakula)
+- [Maruf](https://github.com/marufjs)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
 - [David Brudnicki] (https://github.com/dbrudnicki)
