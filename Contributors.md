@@ -2435,5 +2435,6 @@ Disguy
 - [Manthan Khandale](https://github.com/Manty-K)
 - [Jonathan Punzalan](https://github.com/hjpunzalan)
 - [Felipe Leao](https://github.com/felipeLeao18)
+- [Aakash Aggarwal](https://github.com/asquaree)
 
 <!-- prettier-ignore-end -->
