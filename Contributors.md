@@ -30,6 +30,7 @@
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [Steven Anthony] (https://github.com/sthony)
+- [Nick Ankenbruck] (https://github.com/nankenb)
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Rozen Berg](https://github.com/rozenberg4christ)
