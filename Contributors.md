@@ -13,7 +13,7 @@
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
-- [Bastien Oeuvrard] (https://github.com/Sairkko)
+- [Bastien Oeuvrard](https://github.com/Sairkko)
 - [Saumya](https://github.com/Saumya132)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
