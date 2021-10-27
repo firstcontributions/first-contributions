@@ -27,7 +27,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
+เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *Copy to clipboard* (คำสั่งคัดลอก)
 
 เปิดโปรแกรมเทอร์มินอลในเครื่อง (เช่น Terminal ใน MacOS หรือ cmd ใน Windows) แล้วรันคำสั่ง git ต่อไปนี้:
 
