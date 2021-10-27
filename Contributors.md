@@ -35,6 +35,7 @@
 - [wsa138](https://github.com/wsa138)
 - [Johan Ramirez](https://github.com/joaramirezra)
 - [Jose Camacho](https://github.com/sircoko)
+- [Biju Borah](https://github.com/biju-borah)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
 - [Gusaku](https://github.com/mizuki-jcg)
