@@ -139,6 +139,7 @@
 - [Kinglucifer300](https://github.com/Kinglucifer300)
 - [Rohit Tewari](https://github.com/rtewari056)
 - [Arpita Pandya](https://github.com/arpitapandya)
+- [Shahid Hussain](https://github.com/Shahid0120)
 - [Sachin Singh](https://github.com/thesachinsingh)
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
