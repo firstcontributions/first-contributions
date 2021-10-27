@@ -41,6 +41,7 @@
 - [Gusaku](https://github.com/mizuki-jcg)
 - [Randy Riley](https://github.com/rylee816)
 - [Sri Lekha Mondreti](https://github.com/SriLekhaMondreti)
+- [A-Koderr](https://github.com/A-Koderr)
 - [Preetpal Singh](https://github.com/UP941594)
 - [Michael Carr](https://github.com/xyeres)
 - [Tyler Woodward](https://github.com/twoodwar)
