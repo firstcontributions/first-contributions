@@ -2576,6 +2576,7 @@ Himanshu Dedha
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
 - [Darren Odi](https://github.com/darrenodi)
 - [Oz](https://github.com/Ozay0900)
+- [Azwan Nurfadhillah](https://github.com/AzwanNF)
 - [Soham Datta](https://github.com/sohamdata)
 - [Kazuki Tsuruse](https://github.com/tsurusekazuki)
 - [Mayank Singh Negi](https://github.com/Mayank242002)
