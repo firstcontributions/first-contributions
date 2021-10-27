@@ -691,6 +691,7 @@ Pranjal
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Raghav](https://github.com/never-code)
 - [Durgesh Kumar Meena](https://github.com/durgeshmeena)
+- [Handika Harianto Ew Jong](https://github.com/handikaharianto)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Javier Aravena](https://github.com/Javier190)
 - [Saman Dehghan](https://github.com/sadehghan)
