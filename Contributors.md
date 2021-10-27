@@ -6,6 +6,7 @@
 - [Owen Nowakowski](https://github.com/onowakow)
 - [Noel Gore](https://github.com/NoelGore)
 - [Jitesh Jayarman](https://github.com/jiteshj2)
+- [Zeyad Naguib](https://github.com/zeyadmtn)
 - [Daljeet Singh] (https://github.com/daljeetseera)
 - [Min Khant Aung](https://github.com/MinKhantAung522)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
