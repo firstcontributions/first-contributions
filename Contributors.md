@@ -29,6 +29,7 @@
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
+- [Gusaku](https://github.com/mizuki-jcg)
 - [Randy Riley](https://github.com/rylee816)
 - [Sri Lekha Mondreti](https://github.com/SriLekhaMondreti)
 - [Preetpal Singh](https://github.com/UP941594)
