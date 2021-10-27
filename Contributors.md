@@ -18,6 +18,7 @@
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
+- [Trevor James Geiger] (https://github.com/trevorgeiger)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Poula Helmy](https://github.com/poulahelmy)
