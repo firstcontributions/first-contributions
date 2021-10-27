@@ -20,6 +20,7 @@
 - [Mansi  Vashistha] (https://github.com/Mansihub)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Trevor James Geiger] (https://github.com/trevorgeiger)
+- [Gaurav Basu](https://github.com/gauravbasu6)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Poula Helmy](https://github.com/poulahelmy)
