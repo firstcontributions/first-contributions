@@ -3019,6 +3019,7 @@ Disguy
 - [Elsie Marion Omondi](https://github.com/elsie-dev)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
+- [Elozino Ovedhe] (https://github.com/Elozino)
 - [David Hunsaker](https://github.com/DavidHunsaker)
 
 
