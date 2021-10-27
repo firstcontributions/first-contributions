@@ -3047,6 +3047,7 @@ Disguy
 - [David Hunsaker](https://github.com/DavidHunsaker)
 - [Vibha Harikar](https://github.com/vhAtInt)
 - [Raymart Guioguio](https://github.com/rymrtpgg)
+- [Janusz Kumor] (https://github.com/jkumor01
 
 
 - [LianWen wu](https://github.com/childrentime)
