@@ -37,6 +37,7 @@
 - [Sri Lekha Mondreti](https://github.com/SriLekhaMondreti)
 - [Preetpal Singh](https://github.com/UP941594)
 - [Michael Carr](https://github.com/xyeres)
+- [Tyler Woodward](https://github.com/twoodwar)
 - [Ahmad Abdullahi](https://github.com/ahm-tech)
 - [Dumac Revano Chen](https://github.com/dumacrevano)
 - [Devang Jain](https://github.com/djrobin17)
