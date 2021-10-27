@@ -586,6 +586,7 @@
 - [Rupam Kerketta](https://github.com/rupamkerketta)
 - [Rahul Kushwaha](https://github.com/Rahul881020)
 - [Richard Anatsui](https://github.com/rich5k)
+- [Oakland Running](https://github.com/oaklandrunning)
 - [Ethan Schoen](https://github.com/ethanschoen)
 - [Anirudh Mishra](https://github.com/anirudhgray)
 - [Zaikin Vladislav Sergeevich](https://github.com/aiserrock)
