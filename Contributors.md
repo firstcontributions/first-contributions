@@ -3025,6 +3025,7 @@ Disguy
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
 - [David Hunsaker](https://github.com/DavidHunsaker)
+- [Vibha Harikar](https://github.com/vhAtInt)
 
 
 <!-- prettier-ignore-end -->
