@@ -95,6 +95,7 @@
 - [David Rosanwo](https://github.com/olusanwo)
 - [Joni Samanen](https://github.com/Joni-Samanen)
 - [Rakshatha Vasudev](https://github.com/rakshathavasudev)
+- [Jakub Ucinski](https://github.com/jakub-ucinski)
 - [David Nguyen](https://github.com/nguyedav1934)
 - [Drew Hosick] (https://github.com/drewhosick)
 - [Mitsunobu Yoneda](https://github.com/higamaya)
