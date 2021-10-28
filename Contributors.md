@@ -663,6 +663,7 @@ Aditya Agarwal
 - [Andrew Chambers](https://github.com/W3Dojo)
 - [Andrea](https://github.com/andrea-genovese)
 - [Naing Tan Ba](https://github.com/Tranks27)
+- [Walt Downing](https://github.com/waltdowning)
 - [Ye Phone Myint](https://github.com/Ye-Phone-Myint)
 - [Ramiro Solis](https://github.com/Solis1)
 - tayo360
