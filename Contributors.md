@@ -3073,6 +3073,7 @@ Disguy
 
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
+- [Cindy Li] (https://github.com/cli-cli)
 - <!-- prettier-ignore-end -->
 - [Yash Gupta](https://github.com/YG3A5D)
 - [Charlie Greenhalgh](https://github.com/charliegreeny)
