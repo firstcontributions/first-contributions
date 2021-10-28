@@ -456,6 +456,7 @@
 - [Ishaan Dasgupta](https://github.com/IshaanDasgupta)
 - [Hritvik Mohan](https://github.com/Hritvik-Mohan)
 - [Anurag Sharma](https://github.com/Anurag-2000)
+  [Stanislav Kubernat] (https://github.com/StaniKub/)
 - [Tamanna-S](https://github.com/Tamanna-S)
 - [mariete1223](https://github.com/mariete1223)
 - [Habibur Rahman](https://github.com/habib-sust)
