@@ -1324,6 +1324,7 @@ Himanshu Dedha
 - [Ori Bayo](https://github.com/oriBayo)
 - [Mohan Sahu](https://github.com/mohantechnology)
 - [Ashley H.](https://github.com/aehoover)
+- [Stephen Taylor](https://github.com/smtaylor22)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Harshit Vaish](https://github.com/Harshit036)
 - [Reza Salam](https://github.com/rezasm)
