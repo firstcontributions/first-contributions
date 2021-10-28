@@ -22,6 +22,7 @@
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Noah] https://github.com/noah-yac
+- [Shilpa Elluru]ttps://github.com/shilpa-elluru
 - [Sanzida Luna] https://github.com/SanzidaMojibLuna
 - [Rahul Goswami] https://github.com/gosrahul21
 - [Willen Yang] (https://github.com/yangxile4)
