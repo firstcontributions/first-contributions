@@ -88,7 +88,7 @@ https://github.com/Sairkko/first-contributions.git<!-- prettier-ignore-start -->
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Bastien Oeuvrard](https://github.com/Sairkko)  
-- [Saumya](https://github.com/Saumya132)
+- [Saumya](https://github.com/Saumya132) 
 - [Nathan Duddles](https://github.com/nathan-duddles)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
