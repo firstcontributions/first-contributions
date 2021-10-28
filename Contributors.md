@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+https://github.com/Sairkko/first-contributions.git<!-- prettier-ignore-start -->
 
 # **Contributors**
 - [Ashwin Devadiga](https://github.com/adevadiga02)
@@ -87,7 +87,7 @@
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
-- [Bastien Oeuvrard] (https://github.com/Sairkko)  
+- [Bastien Oeuvrard](https://github.com/Sairkko)  
 - [Saumya](https://github.com/Saumya132)
 - [Nathan Duddles](https://github.com/nathan-duddles)
 - [Yannelly Mercado] (https://github.com/yannellym)
