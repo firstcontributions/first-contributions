@@ -59,6 +59,7 @@
 - [Fernando Fernandez](https://github.com/frfernandezdev)
 - [Souvik Pan] (https://github.com/ZouvikPan)
 - [Jeremy] (https://github.com/jeje-01350)
+- [June](https://github.com/junezimmerman93)
 - [Meharab](https://github.com/Meharab)
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
 - [Robert Smith](https://github.com/rsmith2271)
