@@ -811,6 +811,7 @@ Pranjal
 - [Marcus Fisher](https://github.com/msfisher)
 - [Gabriel De Oliveira](https://github.com/gdeoliveira03)
 - [AtanuGhosh](https://github.com/zabuja)
+- [ZackNoyes](https://github.com/ZackNoyes)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Arialdys Calderon](https://github.com/arialdyscv)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
