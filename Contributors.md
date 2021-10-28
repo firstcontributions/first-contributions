@@ -273,6 +273,7 @@
 - [João Gomes](https://github.com/joaogomes1))
 - [Steven Anthony] (https://github.com/sthony)
 - [Amanda Cochran](https://github.com/Wildefyre116)
+- [Bastien](https://github.com/Sairkko)
 - [Tansy Hu](https://github.com/subarashii-huch09)
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Parth Soni](https://github.com/parth1007)
