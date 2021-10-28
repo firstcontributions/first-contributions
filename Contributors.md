@@ -179,6 +179,7 @@
 - [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
+- [Caroline Tavs](https://github.com/3nilorac)
 - [Joshua Philips](https://github.com/joshua-philips)
 - [Malvika Verma](https://github.com/malvikao2)
 - [Ritik Parida](https://github.com/SirGaLaHaD69)
