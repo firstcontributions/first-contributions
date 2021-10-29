@@ -1714,6 +1714,7 @@ Himanshu Dedha
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Joel Poh](https://github.com/jwnpoh)
 - [Mayur Ray](https://github.com/raymayur9)
+- [Silvia Piovesan] (https://github.com/silviapio)
 - [Tristan Schaaf](https://github.com/TristanSchaaf)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Prateek Goel](https://github.com/goelprateek5) 🤙
