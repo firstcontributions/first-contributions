@@ -7,6 +7,7 @@
 - [Abdullah Zahid](https://github.com/mxzahid)
 - [Owen Nowakowski](https://github.com/onowakow)
 - [Noel Gore](https://github.com/NoelGore)
+- [Kyu Sik](https://github.com/Kim-Mark)
 - [Jitesh Jayarman](https://github.com/jiteshj2)
 - [Zeyad Naguib](https://github.com/zeyadmtn)
 - [Daljeet Singh] (https://github.com/daljeetseera)
