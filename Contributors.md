@@ -46,6 +46,7 @@
 - [Julian Teschner](https://github.com/JulianTeschner)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
+- [Alina Ryan](https://github.com/AlinaRyan)
 - [Amir Mohammad Hl](https://github.com/Imorate)
   [hyeongjin](https://github.com/uhj130)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
