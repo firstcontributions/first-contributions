@@ -34,6 +34,7 @@
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Abhinandan Saha](https://github.com/abhinandan991)
+- [Julian Teschner](https://github.com/JulianTeschner)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Amir Mohammad Hl](https://github.com/Imorate)
