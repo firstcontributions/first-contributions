@@ -794,6 +794,7 @@ Pranjal
 - [Tom](https://github.com/tomer9)
 - [Aisling K](https://github.com/aikearney)
 - [Vijender P](https://github.com/pvijender)
+- [Aisha Gaines](https://github.com/aishamikale)
 - [Sridhar Maskeri](https://github.com/floating-dynamo)
 - [Simon Wild](https:/github.com/admsmw)
 - [workingkolenko]
