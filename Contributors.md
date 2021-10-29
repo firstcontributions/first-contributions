@@ -391,6 +391,7 @@
 - [NimitWadhwa](https://github.com/nimit05)
 - [JaySuthar](https://github.com/Jay-Suthar)
 - [Kimon](https://github.com/TheKimon)
+- [gyurim](https://github.com/gyulimlee)
 - [Nimesh Garg](https://github.com/nimeshgarg)
 - [SzymCrusader](https://github.com/SzymCrusader)
 - [Priya Sharma](https://github.com/priya0220)
