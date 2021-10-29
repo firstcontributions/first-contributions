@@ -20,6 +20,7 @@
 - [Jakey08] (https://github.com/Jakey08)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
+- [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Noah] https://github.com/noah-yac
