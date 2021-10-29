@@ -1012,7 +1012,7 @@ Himanshu Dedha
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [xDavide9](https://github.com/xDavide9)
 - [Sahil Suman](https://github.com/sahilsuman933)
-- [Amit Pal](https://github.com/amitpali181)
+- [Amit Pal](https://github.com/amitpali16181)
 - [SURJIT KUMAR KAUSIK](https://github.com/seaZonal2001)
 - [Austin Pautz](https://github.com/austindesosa)
 - [Josh Merlin](https://github.com/jamjamnewbie)
