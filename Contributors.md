@@ -2608,6 +2608,7 @@ Himanshu Dedha
 - [Fraczek](https://github.com/JakubFr4czek)
 - [scapecast](https://github.com/scapecast)
 - [Robert Turner](https://github.com/rt3me)
+- [seunghyun](https://github.com/dlsehy)
 - [Nacer Ali](https://github.com/naco99)
 - [Mateusz Styrna](https://github.com/mateuszstyrna)
 - [Darren Odi](https://github.com/darrenodi)
