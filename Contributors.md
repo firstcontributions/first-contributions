@@ -80,6 +80,7 @@
 - [Anthony Ammar](https://github.com/Antho13710)
 - [Aditya Kulkarni](https://github.com/adit-g-kul18)
 - [Prabin Singh](https://github.com/prabin544)
+- [Mahak Gupta](https://github.com/Mahak-Gupta25)
 - [Erick Rosa](https://github.com/RosaErick)
 - [abdelrhman azazy](https://github.com/Azazy1)
 -[Martin Lever](https://github.com/MartinL551)
