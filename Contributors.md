@@ -1089,6 +1089,7 @@ Himanshu Dedha
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
 - [Bhavesh Mishra](https://github.com/thefool76)
+- [Pius]
 - [Frank Minichiello](https://github.com/fmini)
 - [Hridoy Das](https://github.com/Hridoy-Das9)
 - [Raghavendra Reddy](https://github.com/PRR184)
