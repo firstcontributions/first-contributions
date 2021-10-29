@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+
 - [Taeyoung Jung](https://github.com/taeyoung24)
 - [CJ Wow](https://github.com/scope2018)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
@@ -105,7 +106,7 @@
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Tibo De Peueter](https://github.com/fortemfiducia)
 - [chear5967] (http://github.com/chear5967)
-- [Bastien Oeuvrard] (https://github.com/Sairkko)  
+- [Bastien Oeuvrard] (https://github.com/Sairkko)
 - [Mark Jot](https://github.com/markojot)
 - [Saumya](https://github.com/Saumya132)
 - [Nathan Duddles](https://github.com/nathan-duddles)
@@ -728,7 +729,7 @@
 - [Rishi Kashyap](https://github.com/incarnate87)
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
-- [Nico Araya](https://github.com/NicolasArayaB) 
+- [Nico Araya](https://github.com/NicolasArayaB)
 - [Nagesh Bansal](https://github.com/Nageshbansal)
 - [jung](https://github.com/yoonsung713)
 - [Nagesh Bansal](https://github.com/Nageshbansal)
@@ -770,7 +771,7 @@
 - [Aimi Fadhil](https://github.com/ColonelBucket8)
 - [Kenth Cadayday](https://github.com/Kentuxx/)
 - [Emily Jia](https://github.com/emilyyjia)
-- [sangjin](https://github.com/hakgu-tpu) 
+- [sangjin](https://github.com/hakgu-tpu)
 - [R3nrs](https://github.com/R3nrs)
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
@@ -1463,7 +1464,7 @@
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
-[Jaewan0](https://github.com/Jaewan0)
+  [Jaewan0](https://github.com/Jaewan0)
 - [Kaunaj Banerjee](https://github.com/Kaunaj)
 - [Andrew Davis](https://github.com/AdavisSnakes)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
@@ -2434,7 +2435,7 @@
 - [Sam An](https://github.com/sammiee5311)
 - [Matthew Leroe](https://github.com/ChaplainsBud)
 - [CJ castillo](https://github.com/caytejohn)
- [Yuka Okuda](https://github.com/yuka1369)
+  [Yuka Okuda](https://github.com/yuka1369)
 - [Tejas Shende](https://github.com/Tejas06)
 - [Jess LaFrank](https://git.generalassemb.ly/jlafrank2)
 - [Juyeon Kim](https://github.com/proceane)
@@ -3094,7 +3095,6 @@
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
 - [Jo Leung](https://github.com/jo9553)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
