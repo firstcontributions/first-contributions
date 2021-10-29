@@ -816,6 +816,7 @@ Pranjal
 - [ZackNoyes](https://github.com/ZackNoyes)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Arialdys Calderon](https://github.com/arialdyscv)
+- [Mohamed Amine Ben Afia](https://github.com/MedAmine-SUDO)
 - [Kannan Jayachandran](https://github.com/kannanjayachandran)
 - [Justin Portell](https://github.com/just-port)
 - [Atharva Ikhar](https://github.com/iatharva)
