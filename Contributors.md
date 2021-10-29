@@ -1007,6 +1007,7 @@ Himanshu Dedha
 - [Lewis Hill](https://github.com/lewy192)
 - [Sankalp Swami](https://github.com/SwamiSankalp)
 - [Ahmed Wafik](https://github.com/wafik111)
+- [xmoonanx](https://github.com/xmoonanx)
 - [Venkatakrishnan G](https://github.com/venkat-gvk)
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [xDavide9](https://github.com/xDavide9)
