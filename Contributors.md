@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
 - [CJ Wow](https://github.com/scope2018)
@@ -779,7 +780,7 @@ Pranjal
 - [Aimi Fadhil](https://github.com/ColonelBucket8)
 - [Kenth Cadayday](https://github.com/Kentuxx/)
 - [Emily Jia](https://github.com/emilyyjia)
-- [sangjin](https://github.com/hakgu-tpu) 
+- [sangjin](https://github.com/hakgu-tpu)
 - [R3nrs](https://github.com/R3nrs)
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
