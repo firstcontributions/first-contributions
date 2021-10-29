@@ -2726,6 +2726,7 @@ Himanshu Dedha
 - [Emma Carlsson](https://github.com/emmeth99)
 - [Kamal Kant](https://github.com/kamal2806/)
 - [Grim](https://github.com/Expellma/)
+- [Hernandes Erick](https://github.com/hern4ndes)
 - [Ahmad Fariz Dwi Putra](https://github.com/ahmadfariz)
 - [Edvcel](https://github.com/edvcel)
 - [Sujata](https://github.com/sujatanaik530)
@@ -3108,8 +3109,6 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -3121,3 +3120,4 @@ Disguy
 - [ByeongJun Kim](https://github.com/tlswkdpgla)
 - [Armm Supakorn](https://github.com/armspkt)
 - [Kimmo Saari](https://github.com/kirbo)
+
