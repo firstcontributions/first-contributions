@@ -11,6 +11,7 @@
 - [Zeyad Naguib](https://github.com/zeyadmtn)
 - [Daljeet Singh] (https://github.com/daljeetseera)
 - [Min Khant Aung](https://github.com/MinKhantAung522)
+- [yoo jung] (https://github.com/fpdhin)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Yash](https://github.com/yashakula)
 - [Maruf](https://github.com/marufjs)
