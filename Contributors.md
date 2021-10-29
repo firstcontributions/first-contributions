@@ -23,6 +23,7 @@
 - [Athul Prakash](https://github.com/psychoSherlock)
 - [David Brudnicki] (https://github.com/dbrudnicki)
 - [Jakey08] (https://github.com/Jakey08)
+- [oli310] (https://github.com/oli310)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [junhwi](https://github.com/kimkimjunjun)
