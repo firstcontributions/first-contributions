@@ -2629,6 +2629,7 @@ Himanshu Dedha
 - [Nate Cottrell](https://github.com/NC-Coyote)
 - [Ethan Khoe](https://github.com/elkhoe)
 - [Ana Carolina Gomes](https://github.com/lingsv)
+- [Jack Carney](https://github.com/jackhcarney)
 - [haziboro](https://github.com/haziboro)
 - [Jeff Browning](https://github.com/browningjeff1)
 - [Sohail Gsais](https://github.com/SohailMG)
