@@ -252,6 +252,7 @@
 - Karin
 - Alessandro Garcia
 - [Quincy Miller] (https://github.com/QuincyMillerDev)
+- [Navneet Kumar] (https://github.com/NavneetKumar2907)
 - [José Londoño](https://github.com/jlondonob)
 - [Dejan Aksović])(https://github.com/AllEffort)
 - [Hemanth](https://github.com/anumolu-hemanth)
