@@ -97,6 +97,7 @@
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Tibo De Peueter](https://github.com/fortemfiducia)
+- [chear5967] (http://github.com/chear5967)
 - [Bastien Oeuvrard] (https://github.com/Sairkko)  
 - [Mark Jot](https://github.com/markojot)
 - [Saumya](https://github.com/Saumya132)
