@@ -2,6 +2,7 @@
 
 # **Contributors**
 - [CJ Wow](https://github.com/scope2018)
+- [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Abdullah Zahid](https://github.com/mxzahid)
