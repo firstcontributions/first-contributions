@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [VIOLET2F](https://github.com/lou320)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
 - [CJ Wow](https://github.com/scope2018)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
