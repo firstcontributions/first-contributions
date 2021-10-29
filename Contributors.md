@@ -185,6 +185,7 @@
 - [Sachin Singh](https://github.com/thesachinsingh)
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
+- [IsmaFlippad](https://github.com/IsmaFlippad)
 - [Michael Huskey] (https://github.com/mhusk)
 - [Varun](https://github.com/Varun080)
 - [Bryan Endres](https://github.com/bendres97)
