@@ -2218,6 +2218,7 @@ Himanshu Dedha
 - [tip14](https://github.com/tip14)
 - [Unnamalai RM](https://github.com/Unna27)
 - [Mateus Daniel](https://github.com/Matteuus)
+- [Franz Nkezimana](https://github.com/kezfran)
 - [Devendra](https://github.com/debsdoon)
 - [Cuday](https://github.com/abrahes12-day)
 - [German III](https://github.com/germaniii)
