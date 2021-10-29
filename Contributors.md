@@ -13,7 +13,6 @@
 - [Owen Nowakowski](https://github.com/onowakow)
 - [Noel Gore](https://github.com/NoelGore)
 - [Kyu Sik](https://github.com/Kim-Mark)
-- [Takuya Matsumoto](https://github.com/TakuyaMats)
 - [Jitesh Jayarman](https://github.com/jiteshj2)
 - [Zeyad Naguib](https://github.com/zeyadmtn)
 - [Daljeet Singh] (https://github.com/daljeetseera)
@@ -3101,7 +3100,7 @@
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
+- [Takuya Matsumoto](https://github.com/TakuyaMats)
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
