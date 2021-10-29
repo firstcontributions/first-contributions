@@ -3024,6 +3024,7 @@ Disguy
 - [Axay Sagathiya](https://github.com/axaysagathiya)
 - [Ifeanyi Iheagwara](https://github.com/Bennykillua)
 - [Sivakaresh Navaretnam](https://github.com/Sivakaresh)
+- [Knaux] (https://github.com/Knaux)
 - [Amol Goel](https://github.com/deathrangerr)
 - [Michael Brigham](https://github.com/michael-ames/)
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
@@ -3076,7 +3077,6 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
 
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
