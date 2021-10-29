@@ -20,6 +20,7 @@
 - [Yash](https://github.com/yashakula)
   [woodong](https://github.com/wdong218)
 - [Maruf](https://github.com/marufjs)
+- [Gines Diaz](https://github.com/ginestopo)
 - [dongbin](https://github.com/dobi02)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
