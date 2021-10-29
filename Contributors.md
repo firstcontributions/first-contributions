@@ -23,10 +23,10 @@
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
-- [Noah](https://github.com/noah-yac)
+- [Noah]https://github.com/noah-yac
 - [Shilpa Elluru]ttps://github.com/shilpa-elluru
-- [Sanzida Luna](https://github.com/SanzidaMojibLuna)
-- [Rahul Goswami](https://github.com/gosrahul21)
+- [Sanzida Luna]https://github.com/SanzidaMojibLuna
+- [Rahul Goswami]https://github.com/gosrahul21
 - [Willen Yang](https://github.com/yangxile4)
 - [Mansi  Vashistha](https://github.com/Mansihub)
 - [Brijesh Kumar Sharma](https://github.com/Brijesh-kumar-sharma)
@@ -113,7 +113,7 @@
 - [Meenakshi Chauhan](https://github.com/meenachan)
 - [Annie Ausen](https://github.com/aausen)
 - [Krishna Nand Dubey](https://github.com/Deadpool2e)
-- [Hope Chijuka](https://github.com/Hopeuche360)
+- Hope Chijuka (https://github.com/Hopeuche360)
 - [Abshir Mohamed](https://github.com/roycas99)
 - [Muhammad Usman](https://github.com/zillBoy)
   [Catherine Kiiru](https://github.com/CatherineKiiru)
@@ -184,7 +184,7 @@
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Animesh Srivastava](https://github.com/animesh-77)
 - [Paul Gardner](https://github.com/paul-gardner-1999)
-- [Kevin Yuan](https://github.com/kevkev99)
+- [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
 - [Caroline Tavs](https://github.com/3nilorac)
@@ -729,8 +729,8 @@ Pranjal
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Javier Aravena](https://github.com/Javier190)
 - [Saman Dehghan](https://github.com/sadehghan)
-- [Julio Vargas](https://github.com/JulioCeVa)
--[Devashish Daharia](https://github.com/dev404error)
+- [Julio Vargas]https://github.com/JulioCeVa
+-[Devashish Daharia]https://github.com/dev404error
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
 - [Sourav Sharma](https://github.com/souravprogrammer)
@@ -838,7 +838,7 @@ Pranjal
 - [Shreyas H C](https://github.com/shreyashc)
 - [Rahul](https://github.com/Rahul8955)
 - [Sai Prasad](https://github.com/bsaiprasad22)
-- [Vidit Ostwal]([https://github.com/Vidit-Ostwal)
+- [Vidit Ostwal]([200~https://github.com/Vidit-Ostwal)
 - [Vishesh Bardia](https://github.com/legion20)
 - [Tulsi Chopade](https://github.com/tulsi11)
 - [Corey Fontenot](https://github.com/corey-fontenot)
