@@ -198,6 +198,7 @@
 - [Fatima Rami](https://github.com/Fatima-Rami)
 - [Varghese George](https://github.com/varghese1508)
 - [DanielTruong](https://github.com/anhduy1202)
+- [Tyler Linthacum](https://github.com/tyler-linthacum)
 - [Emily Essex](https://github.com/emilygraceessex)
 - [Blake Johnson](https://github.com/kanerbw1)
 - [Saloni Dwivedi](https://github.com/Saloni098)
@@ -225,8 +226,7 @@
 - [Code Digi Fort](https://github.com/codedigifort)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
 - [Sri Harsha Vandanapu](https://github.com/aryan-sri-harsha)
-- [Mirla Lopes](https://github.com/Mirlaaa)
-- [Shyam Jalan](https://github.com/shyamjalan)
+- [Mirla Lopes](https://github.com/Mirlaaa)- [Shyam Jalan](https://github.com/shyamjalan)
 - [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
