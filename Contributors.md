@@ -1451,6 +1451,7 @@ Himanshu Dedha
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
+[Jaewan0](https://github.com/Jaewan0)
 - [Kaunaj Banerjee](https://github.com/Kaunaj)
 - [Andrew Davis](https://github.com/AdavisSnakes)
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
