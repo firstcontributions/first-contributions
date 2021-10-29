@@ -26,6 +26,7 @@
 - [Jakey08] (https://github.com/Jakey08)
 - [oli310] (https://github.com/oli310)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
+- [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
