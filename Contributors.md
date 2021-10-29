@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+`<!-- prettier-ignore-start -->
 
 # **Contributors**
 - [CJ Wow](https://github.com/scope2018)
@@ -18,6 +18,7 @@
 - [Athul Prakash](https://github.com/psychoSherlock)
 - [David Brudnicki] (https://github.com/dbrudnicki)
 - [Jakey08] (https://github.com/Jakey08)
+- [AnJungSub]
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
@@ -2465,6 +2466,7 @@ Himanshu Dedha
 - [bluetmn](https://github.com/bluetmn)
 - [Phelix Dusengimana](https://github.com/phelixdusengimana)
 - [yyl2020](https://github.com/yyl2020)
+- [AnJungSub]
 - [jefferyjob](https://github.com/jefferyjob)
 - [akbarchives](https://github.com/akbarchives)
 - [sarthakkmishraa](https://github.com/sarthakkmishraa)
@@ -3076,8 +3078,7 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
-
+- [AnJungSub] (https://github.com/Sub2222)
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
