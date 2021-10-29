@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 
 # **Contributors**
+- [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
 - [CJ Wow](https://github.com/scope2018)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
