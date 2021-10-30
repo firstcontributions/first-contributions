@@ -82,6 +82,7 @@
 - [Jeremy] (https://github.com/jeje-01350)
 - [June](https://github.com/junezimmerman93)
 - [Meharab](https://github.com/Meharab)
+- [Petre Tiberiu](https://github.com/Petrickah)
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
 - [Robert Smith](https://github.com/rsmith2271)
 - [Kishan Kumar Seth](https://github.com/kishanks412)
