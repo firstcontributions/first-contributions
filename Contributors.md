@@ -418,6 +418,7 @@
 - [Anouk Driessen](https://github.com/anoukdriessen)
 - [Willen Yang] (https://github.com/yangxile3)
 - [Alex Tumiri](https://github.com/Zelechos)
+- [Rebecca Best] (https://github.com/bestbec)
 - [Divya Eldo](https://github.com/Divya-mariyam)
 - [Alice Petzinger](https://github.com/alicepetzinger)
 - [Manvi Pachauri](https://github.com/ManviPachauri)
