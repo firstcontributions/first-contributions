@@ -91,6 +91,7 @@
 - [Brian MacDonald](https://github.com/bmacdonald-editor)
 - [Akash Shetgar](https://github.com/Akashshetgar)
 - [Anoop Chacko](https://github.com/AnoopChacko)
+- [luaRRaul](https://github.com/luaRRaul)
 - [Anton Christoffersson](https://github.com/miraz12)
 - [Anthony Ammar](https://github.com/Antho13710)
 - [Aditya Kulkarni](https://github.com/adit-g-kul18)
