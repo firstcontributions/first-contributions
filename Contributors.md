@@ -1,6 +1,6 @@
-<!-- prettier-ignore-start -->
 
 # **Contributors**
+<!-- prettier-ignore-start -->
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
@@ -3083,6 +3083,7 @@ Disguy
 - [you96](https://github.com/you96)
 - [nmacoley](https://github.com/nmacoley)
 - [sphinxbard](https://github.com/sphinxbard)
+- [brianyou0](https://github.com/brianyou0)
 - [Glory](https://github.com/gloriaporte)
 - [Gustavo Esser](https://github.com/GustavoEsser)
 - [Kimber Ashman](https://github.com/kimberashman)
