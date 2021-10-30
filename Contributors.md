@@ -2765,6 +2765,7 @@ Himanshu Dedha
 - [shi7](https://github.com/shi7)
   [Oliver - BoonyToons](https://github.com/BoonyToons)
 - [wolfetone](https://github.com/wolfetone)
+- [Moritz](https://github.com/MoritzWillmann)
 - [test23]
 - [Zacle](https://github.com/Zacle)
 - [Teena Acharya](https://github.com/teenaacharya)
