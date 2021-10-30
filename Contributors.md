@@ -5,6 +5,7 @@
 - [VIOLET2F](https://github.com/lou320)
 - [Kartik Negi](https://github.com/kartiknegi23)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
+- [Gabriel Rockson](https://github.com/rocksongabriel)
 - [CJ Wow](https://github.com/scope2018)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Weston Henschel](https://github.com/wchenschel)
