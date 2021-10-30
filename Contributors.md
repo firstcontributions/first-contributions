@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
 - [Kartik Negi](https://github.com/kartiknegi23)
