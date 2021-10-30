@@ -1789,6 +1789,7 @@ Himanshu Dedha
 - [Reuben Sanchez](https://github.com/ReubeniSandwich)
 - [Kartikey Dubey](https://github.com/kartikey-git)
 - [Elizabeth Campbell](https://github.com/campbellita)
+- [Daksh Ashar](https://github.com/Daksh-Ashar)
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Vishnu R Kumar](https://github.com/vishnurk6247)
 - [Tom Kirk](https://github.com/t1b3r1us)
