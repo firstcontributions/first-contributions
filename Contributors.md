@@ -83,6 +83,7 @@
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
 - [Robert Smith](https://github.com/rsmith2271)
 - [Kishan Kumar Seth](https://github.com/kishanks412)
+- [Brian MacDonald](https://github.com/bmacdonald-editor)
 - [Akash Shetgar](https://github.com/Akashshetgar)
 - [Anoop Chacko](https://github.com/AnoopChacko)
 - [Anton Christoffersson](https://github.com/miraz12)
