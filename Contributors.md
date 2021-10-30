@@ -477,6 +477,7 @@
 - [Nasreen Khalid](https://github.com/NasreenKhalid)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Peter Walser] (https://github.com/sirofwalls)
+- [Paul Friedrich] (https://github.com/Paul1911)
 - [Parseluni] (https://github.com/Parseluni)
 - [Keshav Bansal] (https://github.com/keshavbansal20)
 - [Jorge Araújo](https://github.com/laborim)
