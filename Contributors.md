@@ -3,6 +3,7 @@
 # **Contributors**
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
+- [Kartik Negi](https://github.com/kartiknegi23)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
 - [CJ Wow](https://github.com/scope2018)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
