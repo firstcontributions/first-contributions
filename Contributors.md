@@ -687,6 +687,7 @@
 - [Ashish Nain](https://github.com/Asi-21)
 - [Vedika Gadia]
 - [Ramiro Rubio](https://github.com/ramirorubioc)
+- [James Cowart](https://github.com/homsau)
 - [Casey Toy](https://github.com/ROSEHlPS)
 - [Sadid Idibekov](https://github.com/Sadid-USN)
 - [Chaz Carbis](https://github.com/LilCthulu)
