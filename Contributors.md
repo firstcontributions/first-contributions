@@ -3154,7 +3154,6 @@ Disguy
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
-- <!-- prettier-ignore-end -->
 - [Yash Gupta](https://github.com/YG3A5D)
 - [Charlie Greenhalgh](https://github.com/charliegreeny)
 - [Gabriel Ramos](https://github.com/gabston)
@@ -3174,3 +3173,4 @@ Disguy
 - [Mohamed shibin](https://github.com/shibil102)
 - [Andrea Porrazzo](https://github.com/andreaPorrazzo)
 - [Debobroto Talukder](https://github.com/debobrototalukder)
+<!-- prettier-ignore-end -->
