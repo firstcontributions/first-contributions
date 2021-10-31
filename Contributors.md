@@ -6,6 +6,7 @@
 - [Lucky225](https://github.com/lucky225)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
+- [Jason Thornsberry](https://github.com/jaytberry77)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
 - [Vikash Kumar](https://github.com/Codefreak69)
 - [Kartik Negi](https://github.com/kartiknegi23)
