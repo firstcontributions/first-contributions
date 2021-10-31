@@ -1190,6 +1190,7 @@ Himanshu Dedha
 - [Péter Gábor Sasvári](https://github.com/sasieightynine)
 - [Kashish Dhingra](https://github.com/kashish-d)
 - [John C. Lee](https://github.com/SpaceDA)
+- [Matthew Ross Maclean](https://github.com/matty271828)
 - [Himanshu Thakur](https://github.com/himanshu-thakur-7)
 - [Hefny](https://github.com/mahmoud1brahim)
 - [Yagya Gaire](https://github.com/yagyagaire)
