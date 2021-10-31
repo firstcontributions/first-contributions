@@ -19,6 +19,7 @@
 - [Weston Henschel](https://github.com/wchenschel)
 - [Isi Atash](https://github.com/Isi-Atash)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
+- [Sarah Akinkunmi](https://github.com/oluwadamiloju)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Abdullah Zahid](https://github.com/mxzahid)
 - [Owen Nowakowski](https://github.com/onowakow)
