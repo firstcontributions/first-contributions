@@ -1587,6 +1587,7 @@ Himanshu Dedha
 - [Cheyenne Smith](https://github.com/cbsmith5)
 - [Deepak Goyal](https://github.com/goyaldpk)
 - [Alexandra Popescu](https://github.com/alexanpo)
+- [Abdelrazek](https://github.com/abdelrazek-alaa)
 - [Verena S] (https://github.com/vuerena)
 - [Dan Koller](https://github.com/dan-koller)
 - [Yazan Kherfan](https://github.com/yazok8)
