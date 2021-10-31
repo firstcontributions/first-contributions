@@ -265,6 +265,7 @@
 - [Favour James](https://github.com/Favourj-bit)
 - [Jacky_Cutler](https://github.com/VancouverJohn)
 - [Abdul Samed Walker](https://github.com/Myextraordinarylife)
+- [Syed Barkat Uddin Nizami] (https://github.com/BarkatNizami)
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Magnus Sustad](https://github.com/mgnss)
