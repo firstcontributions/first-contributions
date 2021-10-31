@@ -3015,6 +3015,7 @@ Himanshu Dedha
 - [Nicole Romero](https://github.com/bniroo)
 - [Abderrahmane Issam](https://github.com/issam9)
 - [Thomas Olsen](https://github.com/thomaseolsen)
+- [Eddie Reyes](https://github.com/eboogieman)
 - [Ryan Helm](https://github.com/rjhelm)
 - [Vytenis Gelazius](https://github.com/vytenis555)
 - [Abhijith S S](https://github.com/ssabhijith2000)
