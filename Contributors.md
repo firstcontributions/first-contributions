@@ -138,6 +138,7 @@
 - [Bastien Oeuvrard] (https://github.com/Sairkko)  
 - [Mark Jot](https://github.com/markojot)
 - [Saumya](https://github.com/Saumya132)
+- [Guy Kayam] (https://github.com/GuyKayam)
 - [Nathan Duddles](https://github.com/nathan-duddles)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
