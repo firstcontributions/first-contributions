@@ -83,6 +83,7 @@
 - [Tyson Swords](https://github.com/Zeeennnyyy) 
 - [Will Guo]
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
+- [Deepak Dwivedi](https://github.com/Dvd1234)
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
 - [Vishwas Modhera](https://github.com/vishxm)
