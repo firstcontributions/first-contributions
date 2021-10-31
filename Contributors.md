@@ -3162,3 +3162,4 @@ Disguy
 - [Eden Nathan] (https://github.com/dndn10)
 - [Mary Paul] (https://github.com/chauxvive)
 - [Meriem Mounchid] (https://github.com/meriem-mounchid)
+- [Suvrat Verma](https://github.com/suvvrat)
