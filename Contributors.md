@@ -6,6 +6,7 @@
 - [Lucky225](https://github.com/lucky225)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
+- [Vikash Kumar](https://github.com/Codefreak69)
 - [Kartik Negi](https://github.com/kartiknegi23)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
 - [Gabriel Rockson](https://github.com/rocksongabriel)
