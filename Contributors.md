@@ -3176,4 +3176,5 @@ Disguy
 - [Mohamed shibin](https://github.com/shibil102)
 - [Andrea Porrazzo](https://github.com/andreaPorrazzo)
 - [Debobroto Talukder](https://github.com/debobrototalukder)
+- [Liz Shestakova](https://github.com/nanopick)
 <!-- prettier-ignore-end -->
