@@ -76,6 +76,7 @@
 - [wsa138](https://github.com/wsa138)
 - [Johan Ramirez](https://github.com/joaramirezra)
 - [Angelina Freda Smith](https://github.com/painted-shrimp)
+- [Kundai Sithole](https://github.com/kundais)
 - [Jose Camacho](https://github.com/sircoko)
 - [Biju Borah](https://github.com/biju-borah)
 - [Michelle Williams](https://github.com/michellestdarling)
