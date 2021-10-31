@@ -3178,4 +3178,5 @@ Disguy
 - [Andrea Porrazzo](https://github.com/andreaPorrazzo)
 - [Debobroto Talukder](https://github.com/debobrototalukder)
 - [Liz Shestakova](https://github.com/nanopick)
+- [Daniel Pankratov](https://github.com/DanielPankratov)
 <!-- prettier-ignore-end -->
