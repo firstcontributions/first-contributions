@@ -46,7 +46,8 @@
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
-- [Noah] https://github.com/noah-yac
+- [Noah] (https://github.com/noah-yac)
+- [Ajith S]()
 - [Shilpa Elluru]ttps://github.com/shilpa-elluru
 - [Sanzida Luna] https://github.com/SanzidaMojibLuna
 - [Ankit Choudhary] https://github.com/ankit017
