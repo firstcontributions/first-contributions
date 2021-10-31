@@ -67,6 +67,7 @@
 - [Abhinandan Saha](https://github.com/abhinandan991)
 - [Julian Teschner](https://github.com/JulianTeschner)
 - [Jeo Vela](https://github.com/jeovela)
+- [Kundai Sithole](https://github.com/kundais)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Alina Ryan](https://github.com/AlinaRyan)
