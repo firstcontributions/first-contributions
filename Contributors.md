@@ -39,6 +39,7 @@
 - [David Brudnicki] (https://github.com/dbrudnicki)
 - [Jakey08] (https://github.com/Jakey08)
 - [oli310] (https://github.com/oli310)
+- [Tanishka Jain](https://github.com/Tanishka71)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
