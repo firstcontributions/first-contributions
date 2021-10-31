@@ -23,6 +23,7 @@
 - [Owen Nowakowski](https://github.com/onowakow)
 - [Noel Gore](https://github.com/NoelGore)
 - [Joseph Hargrove] (https://github.com/TreetopLover)
+- [Deepak Dwivedi](https://github.com/Dvd1234)
 - [Kyu Sik](https://github.com/Kim-Mark)
 - [Jitesh Jayarman](https://github.com/jiteshj2)
 - [Zeyad Naguib](https://github.com/zeyadmtn)
