@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
+- [Lucky225](https://github.com/lucky225)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
 - [Kartik Negi](https://github.com/kartiknegi23)
