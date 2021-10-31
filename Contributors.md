@@ -97,6 +97,7 @@
 - [Petre Tiberiu](https://github.com/Petrickah)
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
 - [Robert Smith](https://github.com/rsmith2271)
+- [Thomas Myhre](https://github.com/thomamyh)
 - [Kishan Kumar Seth](https://github.com/kishanks412)
 - [Brian MacDonald](https://github.com/bmacdonald-editor)
 - [Akash Shetgar](https://github.com/Akashshetgar)
