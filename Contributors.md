@@ -3197,4 +3197,5 @@ Disguy
 - [Liz Shestakova](https://github.com/nanopick)
 - [Daniel Pankratov](https://github.com/DanielPankratov)
 - [Ziyue Zhou](https://github.com/ziyue5)
+- [Prakita Renatin](https://github.com/Rakagami)
 <!-- prettier-ignore-end -->
