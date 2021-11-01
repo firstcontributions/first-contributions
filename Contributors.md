@@ -56,6 +56,7 @@
 - [Sanzida Luna] https://github.com/SanzidaMojibLuna
 - [Ankit Choudhary] https://github.com/ankit017
 - [Rahul Goswami] https://github.com/gosrahul21
+- [dewhallez] https://github.com/dewhallez
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
