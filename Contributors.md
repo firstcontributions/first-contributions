@@ -1138,6 +1138,7 @@ Himanshu Dedha
 - [Andrey Nagatani](https://github.com/inatagan)
 - [Shubham Sarkar](https://github.com/DevastatingRPG)
 - [Pranavkumar Patil](https://github.com/Pranavkumar77)
+- [Jon Zavialov](https://github.com/JonZavialov)
 - [Ze Kai Cheong](https://github.com/ZeKaiCheong)
 - [Akash Panwar](https://github.com/akshpnwr)
 - [sunzida311](https://github.com/sunzida311)
