@@ -182,8 +182,6 @@
 - agashvaran
 - [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
-- [Sangeeth Raaj](https://github.com/SangeethRaajA)
-- sangeeth first commit
 - [Abhijeet Mahapatra](https://github.com/Abhi-1001)
 - [Nicolas M. Pardo](https://github.com/nikodermus)
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
@@ -5838,6 +5836,7 @@
 - [Garima Kalra](https://github.com/kalragarima)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Marko Monsalud](https://github.com/markomonsalud)
+- [Sangeeth Raaj](https://github.com/SangeethRaajA)
 - [Darko_Vucetic](https://github.com/g1dra)
 - [Aastha Singh](https://github.com/aasthasingh650)
 - [Radek Miernik](https://github.com/RadekMiernik)
