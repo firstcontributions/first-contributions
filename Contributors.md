@@ -85,7 +85,6 @@
 - Rebecca Camejo (https://github.com/rcamejo01)
 - prasenareddy15
 - [Timothy Liau](https://github.com/timliau)
-- [Sangeeth Raaj](https://github.com/SangeethRaajA)
   [Filza zarin](https://github.com/Filzazarin)
   [Çağrı Kızılkan](https://github.com/cgrkzlkn)
   [Chamika Visal](https://github.com/chamikaVisal)
@@ -183,6 +182,8 @@
 - agashvaran
 - [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
+- [Sangeeth Raaj](https://github.com/SangeethRaajA)
+- sangeeth first contribution
 - [Abhijeet Mahapatra](https://github.com/Abhi-1001)
 - [Nicolas M. Pardo](https://github.com/nikodermus)
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
