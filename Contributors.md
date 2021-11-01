@@ -2904,6 +2904,7 @@ Himanshu Dedha
 - [Muhammad Raza Khan](https://github.com/BlizZard-bot)
 - [Rizki Maulana Citra](https://github.com/rizkimcitra)
 - [Ana Palma] (https://github.com/CogumeloAmarelo)
+- [AstermW](https://github.com/AstermW)
 - [Anang-Abr](https://github.com/Anang-Abr)
 - [Nabeel Aejaz](https://github.com/nabeelaejaz)
 - [Otis C](https://github.com/otili9890)
