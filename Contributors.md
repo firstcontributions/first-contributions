@@ -34,6 +34,7 @@
 - [Sudhanshu Shekhar](https://github.com/FuryACE007)
 - [Daljeet Singh] (https://github.com/daljeetseera)
 - [Min Khant Aung](https://github.com/MinKhantAung522)
+- [Daniel Okyere](https://github.com/DanielOkyere)
 - [Ashish jaiswar](https://github.com/ashish-jaiswar)
 - [Yash](https://github.com/yashakula)
   [woodong](https://github.com/wdong218)
