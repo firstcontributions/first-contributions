@@ -2623,6 +2623,7 @@ Himanshu Dedha
 - [Prabal Rawal](https://github.com/prabal-rawal)
 - [Uroš Ilijevec](https://github.com/iljo89)
 - [Andrew Baughman](https://github.com/andrewbaughman)
+- [James Clark](https://github.com/j-e-clark)
 - [Eternity](https://github.com/nityataa)
 - [eath1](https://github.com/eath1)
 - [Juan Gonzalez](https://github.com/Juan-Gon03/)
