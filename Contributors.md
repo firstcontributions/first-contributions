@@ -17,6 +17,7 @@
 - [Bosko](https://github.com/NightShop)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Weston Henschel](https://github.com/wchenschel)
+- [Steve Sayantan] (https://github.com/SteveSayantan)
 - [Isi Atash](https://github.com/Isi-Atash)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
 - [Sarah Akinkunmi](https://github.com/oluwadamiloju)
