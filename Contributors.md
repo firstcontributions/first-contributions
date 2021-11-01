@@ -4,6 +4,7 @@
 - [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
+- [beauhomme](https://github.com/beauhomme/)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [Shruti Pisal](https://github.com/shruti-0411)
 - [VIOLET2F](https://github.com/lou320)
