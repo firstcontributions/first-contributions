@@ -183,7 +183,7 @@
 - [Zahra Khan](https://github.com/zahrakhadijha)
 - [Carl Sciz](https://github.com/carlsciz)
 - [Sangeeth Raaj](https://github.com/SangeethRaajA)
-- sangeeth first contribution
+- sangeeth first commit
 - [Abhijeet Mahapatra](https://github.com/Abhi-1001)
 - [Nicolas M. Pardo](https://github.com/nikodermus)
 - [Patrik Millvik Rosenström](https://github.com/nanoteck137) 
