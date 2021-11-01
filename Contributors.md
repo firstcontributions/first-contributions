@@ -1544,6 +1544,7 @@ Himanshu Dedha
 - [Heizal Nagginda](https://github.com/Heizal)
 - [Mark Howard](https://github.com/MarkJamesHoward)
 - [Sammriddh Gupta](https://github.com/SammriddhGupta)
+- [Ajay SS](https://github.com/JADcooler)
 - [James Howard](https://githhub.com/MarkJamesHoward)
 - [Jilvin Abraham](https://github.com/JilvinAbraham)
 - [Alexander](https://github.com/axlts)
