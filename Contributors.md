@@ -236,6 +236,7 @@
 - [Kevin Yuan](https://github.com/kevkev99
 - [Royce Le](https://github.com/roycevanle)
 - [Nishad Kulkarni](https://github.com/Nishadk7)
+- [Nischal B K](https://github.com/Nischal2017)
 - [Caroline Tavs](https://github.com/3nilorac)
 - [Joshua Philips](https://github.com/joshua-philips)
 - [Malvika Verma](https://github.com/malvikao2)
