@@ -24,6 +24,7 @@
 - [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Abdullah Zahid](https://github.com/mxzahid)
 - [Owen Nowakowski](https://github.com/onowakow)
+- [Alex Morrell] (https://github.com/amorrell2002)
 - [Noel Gore](https://github.com/NoelGore)
 - [Joseph Hargrove] (https://github.com/TreetopLover)
 - [Deepak Dwivedi](https://github.com/Dvd1234)
