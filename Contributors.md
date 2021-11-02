@@ -3002,6 +3002,7 @@ Himanshu Dedha
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
 - [Sarvesh Hon](https://github.com/sarveshhon/)
 - [Gustavo Barbosa](https://github.com/gusbdev)
+- [Jaemin](https://github.com/depave)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
 - [Abhishek Jain](https://github.com/abhi-j0407)
 - [Davey Carp](https://github.com/daveylcarp)
