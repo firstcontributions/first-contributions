@@ -3024,7 +3024,7 @@ Disguy
 - [Axay Sagathiya](https://github.com/axaysagathiya)
 - [Ifeanyi Iheagwara](https://github.com/Bennykillua)
 - [Sivakaresh Navaretnam](https://github.com/Sivakaresh)
-- [Knaux] (https://github.com/Knaux)
+- [Knaux](https://github.com/Knaux)
 - [Amol Goel](https://github.com/deathrangerr)
 - [Michael Brigham](https://github.com/michael-ames/)
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
