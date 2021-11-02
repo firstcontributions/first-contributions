@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [seonmin](https://github.com/Iridescence7)
 - [Kid-Chang](https://github.com/Kid-Chang)
 - [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
