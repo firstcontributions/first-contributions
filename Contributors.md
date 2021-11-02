@@ -3228,4 +3228,5 @@ Disguy
 - [JaeWook Lee](https://github.com/limulu-k)
 - [noeunsol](https://github.com/Noeunsol)
 - [Sunbean Park](https://github.com/sunbeanp)
+- [Osman Tahir Kuzu](https://github.com/OsmanTahirKuzu
 <!-- prettier-ignore-end -->
