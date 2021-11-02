@@ -3203,5 +3203,5 @@ Disguy
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 - [JaeWook Lee](https://github.com/limulu-k)
-- [JaeHun Jung:kr:](https://github.com/Parma994)
+- [JaeHun Jung :kr: ](https://github.com/Parma994)
 <!-- prettier-ignore-end -->
