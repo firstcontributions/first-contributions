@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-i- [James Wilson](https://github.com/james-wilson-21)
+- [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
