@@ -3203,5 +3203,5 @@ Disguy
 - [Ziyue Zhou](https://github.com/ziyue5)
 - [Prakita Renatin](https://github.com/Rakagami)
 - [Mathursan Balathas](https://github.com/Mathursan-007)
-- [Trishal Varma Mudunuri](https://github.com/mtrishal123)
+- [louis chow](https://github.com/LouisChow0306)
 <!-- prettier-ignore-end -->
