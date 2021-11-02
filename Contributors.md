@@ -96,6 +96,7 @@
 - [Bastien Oeuvrard] (https://github.com/Sairkko)  
 - [Saumya](https://github.com/Saumya132)
   [shivanjal dwivedi]
+  [skd28]
 - [Nathan Duddles](https://github.com/nathan-duddles)
 - [Yannelly Mercado] (https://github.com/yannellym)
 - [Abhi Kamble](https://github.com/coder-abhi)
