@@ -401,6 +401,7 @@
 - [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
 - [Manu Peralta](https://github.com/manuperalta)
+- [SeungEon](https://github.com/SeungEon042079)
 - [tsX369](https://github.com/tsX369)
 - [Gavin Barnes](https://github.com/cantidosan)
 - [Manu Peralta](https://github.com/manuperalta)
