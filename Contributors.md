@@ -15,6 +15,7 @@
   [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [wsa138](https://github.com/wsa138)
+- [Matias Laakkonen](https://github.com/Matias180304)
 - [Jose Camacho](https://github.com/sircoko)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
