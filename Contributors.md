@@ -1,4 +1,3 @@
-
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [James Wilson](https://github.com/james-wilson-21)
@@ -201,6 +200,7 @@
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Marpureddy Saswat](https://github.com/Eren-Yeaager)
 - [Chodak Chokphel]
+- [Kang-Minseokk](https://github.com/Kang-Minseokk)
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Asra Jawaid](https://github.com/Asra2000)
 -[Prince Nwuke](https://github.com/prius2055)
@@ -218,8 +218,7 @@
 - [Katarina VC](https://github.com/katarina-vc)
 - [Darshan Damre](https://github.com/darshandamre)
 - [Manendar Verma](https://github.com/mverma45)
-- [Leevi Holmström](https://github.com/EnlightedNot)
-- [Tadas Maslauskas](https://github.com/maslauskas)
+- [Leevi Holmström](https://github.com/EnlightedNo- [Tadas Maslauskas](https://github.com/maslauskas)
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
