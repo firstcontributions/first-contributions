@@ -3228,4 +3228,5 @@ Disguy
 - [JaeWook Lee](https://github.com/limulu-k)
 - [noeunsol](https://github.com/Noeunsol)
 - [Sunbean Park](https://github.com/sunbeanp)
+- [John Sciutto](https://github.com/johnsciutto)
 <!-- prettier-ignore-end -->
