@@ -13,7 +13,7 @@
 - [Shruti Pisal](https://github.com/shruti-0411)
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
-- [K-Nuguri](https://github.com/K-Nuguri)
+- [K-Nuguri] (https://github.com/K-Nuguri)
 - [Vikash Kumar](https://github.com/Codefreak69)
 - [Danis Idiatullin](https://github.com/dddiiirrr3)
 - [Kartik Negi](https://github.com/kartiknegi23)
