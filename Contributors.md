@@ -1542,6 +1542,7 @@ Himanshu Dedha
 - [Kyin Edwards](https://github.com/KyinE1)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Piper050](https://github.com/Piper050)
+- [uichan] (http://github.com/wjddml)
 - [Linda Ngo](https://github.com/linda-ngo)
 - [Antony Long](https://github.com/antonylong)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
