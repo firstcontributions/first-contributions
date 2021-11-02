@@ -351,8 +351,6 @@
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Parth Soni](https://github.com/parth1007)
 - [Rozen Berg](https://github.com/rozenberg4christ)
-- [Adarsh Kannan](https://github.com/void-adarsh)
-- [Rodrigo Vélez] (https://github.com/llRodroll)
 - [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
 - [Ann Shen Cheah](https://github.com/JShen98)
@@ -3205,4 +3203,5 @@ Disguy
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 - [JaeWook Lee](https://github.com/limulu-k)
+- [JaeHun Jung:kr:](https://github.com/Parma994)
 <!-- prettier-ignore-end -->
