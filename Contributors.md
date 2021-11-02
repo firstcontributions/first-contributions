@@ -71,6 +71,7 @@
 - [Trevor James Geiger] (https://github.com/trevorgeiger)
 - [Gaurav Basu](https://github.com/gauravbasu6)
 - [Mike G.]
+- [Jaehyeok Jo](https://github.com/poer2424)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Abhinandan Saha](https://github.com/abhinandan991)
