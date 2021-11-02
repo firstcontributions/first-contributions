@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [James Wilson](https://github.com/james-wilson-21)
+i- [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
@@ -3132,7 +3132,7 @@ Disguy
 - [StavrosCaptain](https://github.com/StavrosCaptain)
 - [hzq](https://github.com/xiaolubo)
 - [V Sai Prakash](https://github.com/vsaiprakash)
-- [Ferdian Ardhana](https://github.com/ferdianrura97)
+- [Fe rdian Ardhana](https://github.com/ferdianrura97)
 - [Nishant Suthar](https://github.com/nik25s)
 - [you96](https://github.com/you96)
 - [nmacoley](https://github.com/nmacoley)
@@ -3167,13 +3167,12 @@ Disguy
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
 - [Elozino Ovedhe] (https://github.com/Elozino)
-- [David Hunsaker](https://github.com/DavidHunsaker)
+- [D avid Hunsaker](https://github.com/DavidHunsaker)
 - [Vibha Harikar](https://github.com/vhAtInt)
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
-
+- [Rigles](https://github.com/Rigles)
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -3188,7 +3187,7 @@ Disguy
 - [Pushpendra patwal](https://github.com/SINGHXLb)
 - [cksgnlcjswo](https://github.com/cksgnlcjswo)
 - [Susmith Barigidad] (https://github.com/SusmithBarigidad)
-- Mohammad Sharique (https://github.com/Sharique-stack)
+- [Mohammad Sharique] (https://github.com/Sharique-stack)
 - [Eden Nathan] (https://github.com/dndn10)
 - [Mary Paul] (https://github.com/chauxvive)
 - [Meriem Mounchid] (https://github.com/meriem-mounchid)
@@ -3203,4 +3202,4 @@ Disguy
 - [Prakita Renatin](https://github.com/Rakagami)
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
-<!-- prettier-ignore-end -->
+<i!-- prettier-ignore-end -->
