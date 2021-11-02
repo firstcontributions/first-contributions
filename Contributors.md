@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Amrendra Singh](https://github.com/amrendra01)
 - [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
