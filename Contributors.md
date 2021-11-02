@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [21yuyu99](https://github.com/21yuyu99)
 - [Kid-Chang](https://github.com/Kid-Chang)
+- [GeonYeop Na](https://github.com/NaJhinY)
 - [James Wilson](https://github.com/james-wilson-21)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
