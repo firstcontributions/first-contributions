@@ -56,6 +56,7 @@
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
+- [Brandon Simon](https://github.com/simonbr2) 
 - [Noah] (https://github.com/noah-yac)
 - [Ajith S]()
 - [Shilpa Elluru]ttps://github.com/shilpa-elluru
