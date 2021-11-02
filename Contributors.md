@@ -3205,5 +3205,5 @@ Disguy
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 - [JaeWook Lee](https://github.com/limulu-k)
-- [Noeunsol](http://github.com/Noeunsol)
+- [noeunsol](https://github.com/Noeunsol)
 <!-- prettier-ignore-end -->
