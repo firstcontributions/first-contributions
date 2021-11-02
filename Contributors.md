@@ -3224,5 +3224,6 @@ Disguy
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 - [JaeWook Lee](https://github.com/limulu-k)
--_[Sunbean Park](https://github.com/sunbeanp)
+- [noeunsol](https://github.com/Noeunsol)
+- [Sunbean Park](https://github.com/sunbeanp)
 <!-- prettier-ignore-end -->
