@@ -2738,7 +2738,7 @@ Himanshu Dedha
 - [JammUtkarsh](https://github.com/JammUtkarsh)
 - [João Rosso](https://github.com/joaorosso)
 - [Denizcan Boyraz](https://github.com/dboyraz)
--_[Thiago Rider Augusto](https://github.com/thiagorider)
+- [Thiago Rider Augusto](https://github.com/thiagorider)
 - [Joseph Chan](https://github.com/jchanke)
 - [kevinvu184](https://github.com/kevinvu184)
 - [Richard Ormiston](https://github.com/rjormiston)
@@ -3203,3 +3203,4 @@ Disguy
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 <i!-- prettier-ignore-end -->
+
