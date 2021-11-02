@@ -65,7 +65,7 @@
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
-- [Brandon Simon](https://github.com/simonbr2) 
+- [Brandon Simon](https://github.com/simonbr2)
 - [Noah] (https://github.com/noah-yac)
 - [Ajith S]()
 - [Shilpa Elluru]ttps://github.com/shilpa-elluru
@@ -3190,7 +3190,7 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
+- [githubtemp5](https://github.com/githubtemp5)
 - [Subin Park](https://github.com/IamSOL1)
 
 - [LianWen wu](https://github.com/childrentime)
