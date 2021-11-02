@@ -103,6 +103,7 @@
 - [Gusaku](https://github.com/mizuki-jcg)
 - [Sachin Baghel](https://github.com/sachin10fi)
 - [Randy Riley](https://github.com/rylee816)
+- [Stephen Podlogar](https://github.com/stpodlogar)
 - [Sri Lekha Mondreti](https://github.com/SriLekhaMondreti)
 - [A-Koderr](https://github.com/A-Koderr)
 - [Preetpal Singh](https://github.com/UP941594)
