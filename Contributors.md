@@ -3226,4 +3226,5 @@ Disguy
 - [JaeWook Lee](https://github.com/limulu-k)
 - [noeunsol](https://github.com/Noeunsol)
 - [Sunbean Park](https://github.com/sunbeanp)
+- [Maiia Pivovarova](https://github.com/maiia-pi)
 <!-- prettier-ignore-end -->
