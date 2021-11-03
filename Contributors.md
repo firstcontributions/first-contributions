@@ -102,6 +102,7 @@
 - [Kundai Sithole](https://github.com/kundais)
 - [Jose Camacho](https://github.com/sircoko)
 - [Biju Borah](https://github.com/biju-borah)
+- [Raymond Lam](https://github.com/rayoloo)
 - [Michelle Williams](https://github.com/michellestdarling)
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
 - [Gusaku](https://github.com/mizuki-jcg)
