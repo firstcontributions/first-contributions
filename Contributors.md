@@ -3232,4 +3232,5 @@ Disguy
 - [John Sciutto](https://github.com/johnsciutto)
 - [Michael Walker](https://github.com/modernmusician)
 - [Fokrule Hasan](https://github.com/modernmusician)
+- [Aaron Backman](https://github.com/AaronBackman)
 <!-- prettier-ignore-end -->
