@@ -78,6 +78,7 @@
 - [dewhallez] https://github.com/dewhallez
 - [Willen Yang] (https://github.com/yangxile4)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
+- [Arminder Singh](https://github.com/dev-arminder)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Trevor James Geiger] (https://github.com/trevorgeiger)
 - [Gaurav Basu](https://github.com/gauravbasu6)
