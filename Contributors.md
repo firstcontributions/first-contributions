@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Gmelon] (https://github.com/gmelon)
 - [21yuyu99](https://github.com/21yuyu99)
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [Kid-Chang](https://github.com/Kid-Chang)
@@ -62,6 +63,7 @@
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
+[Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
@@ -3229,5 +3231,11 @@ Disguy
 - [noeunsol](https://github.com/Noeunsol)
 - [Sunbean Park](https://github.com/sunbeanp)
 - [John Sciutto](https://github.com/johnsciutto)
+
+- [Michael Walker](https://github.com/modernmusician)
+- [Fokrule Hasan](https://github.com/modernmusician)
+- [Aaron Backman](https://github.com/AaronBackman)
+- [Jashwantherao](https://github.com/Jashwantherao)
+[FinstonesWZ] (https://github.com/FinstonesWZ)
 - [nedondev](https://github.com/nedondev)
 <!-- prettier-ignore-end -->
