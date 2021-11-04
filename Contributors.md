@@ -60,6 +60,7 @@
 - [Yash](https://github.com/yashakula)
   [woodong](https://github.com/wdong218)
 - [Maruf](https://github.com/marufjs)
+- [Sean Layden](https://github.com/seanlayden)
 - [Gines Diaz](https://github.com/ginestopo)
 - [dongbin](https://github.com/dobi02)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
