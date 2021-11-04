@@ -2582,6 +2582,7 @@ Himanshu Dedha
 - [uthadehikaru](https://github.com/uthadehikaru)
 - [Tr0612](https://github.com/Tr0612)
 - [Ben Dover](https://gitbend.com/over)
+- [L-Carlos](https://github.com/L-Carlos)
 - [Jakub Wieśniak](https://github.com/MrChazar)
 - [bluetmn](https://github.com/bluetmn)
 - [Phelix Dusengimana](https://github.com/phelixdusengimana)
