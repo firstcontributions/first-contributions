@@ -37,6 +37,7 @@
 - [Hussain Ashraf] (https;//github.com/hussainashraf)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Weston Henschel](https://github.com/wchenschel)
+- [Heather Yager](https://github.com/heatheryager)
 - [Steve Sayantan] (https://github.com/SteveSayantan)
 - [Isi Atash](https://github.com/Isi-Atash)
 - [joshmal9999](https://github.com/joshmal9999)
