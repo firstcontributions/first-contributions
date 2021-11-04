@@ -3200,6 +3200,7 @@ Disguy
 - [Elsie Marion Omondi](https://github.com/elsie-dev)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Brian McQueen](https://github.com/brianleemcqueen)
+- [Valerie Jackson](https://github.com/JACKSONVH)
 - [Elozino Ovedhe] (https://github.com/Elozino)
 - [David Hunsaker](https://github.com/DavidHunsaker)
 - [Vibha Harikar](https://github.com/vhAtInt)
