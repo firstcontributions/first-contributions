@@ -6,6 +6,7 @@
 - [21yuyu99](https://github.com/21yuyu99)
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [kkatottn](https://github.com/kkatottn)
+- [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Neil Gebhard](https://github.com/neilgebhard)
 - [Kid-Chang](https://github.com/Kid-Chang)
 - [GeonYeop Na](https://github.com/NaJhinY)
