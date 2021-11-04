@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Mattia Righetti] (https://github.com/mattiarighetti)
+- [Mattia Righetti](https://github.com/mattiarighetti)
 - [Gmelon] (https://github.com/gmelon)
 - [21yuyu99](https://github.com/21yuyu99)
 - [Park Seongbin](https://github.com/SeongbinPark82)
