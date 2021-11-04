@@ -1263,6 +1263,7 @@ Himanshu Dedha
 - [Nabeel Ahmed Khan](https://github.com/NabeelAhmed314)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
 - [Amilio Dsouza](https://github.com/AmilioDsouza)
+- [Seth Howell](https://github.com/sethbam9)
 - [Rohan Nair](https://github.com/rohannair11)
 - [Tsahi Edri](https://github.com/tsahiedri)
 - [Marcello Pignata](https://github.com/MarcelloPignata)
