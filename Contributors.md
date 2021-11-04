@@ -15,6 +15,7 @@
 - [hyeongil](https://github.com/201HI)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [Shruti Pisal](https://github.com/shruti-0411)
+- [Markos Sankey](https://github.com/markossankey)
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
 - [K-Nuguri](https://github.com/K-Nuguri)
