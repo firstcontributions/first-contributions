@@ -1664,6 +1664,7 @@ Himanshu Dedha
 - [Emrich-Michael Perrier](https://github.com/emrichmp)
 - [Mark T](https://github.com/woozical)
 - [masha](https://github.com/masha-nv)
+- [Muhammed Esad Cömert](https://github.com/muhammedesadcomert)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
 - [Luciano Zangeronimo](https://github.com/zangeronimo)
@@ -3221,9 +3222,7 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
 - [Subin Park](https://github.com/IamSOL1)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
