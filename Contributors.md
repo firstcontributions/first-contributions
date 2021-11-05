@@ -3268,4 +3268,5 @@ Disguy
 - [Ian D](https://github.com/gid212)
 -[WNH](https://github.com/wounnahtun)
 - [Jacob](https://github.com/jacob-ethan)
+- [Alexsandro Bezerra](https://github.com/AlexsandroBezerra)
 <!-- prettier-ignore-end -->
