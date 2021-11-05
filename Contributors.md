@@ -97,6 +97,7 @@
 - [Mike G.]
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
+- [Sanket Jagdale](https://github.com/Sanket00900)
 - [Abhinandan Saha](https://github.com/abhinandan991)
 - [Julian Teschner](https://github.com/JulianTeschner)
 - [Jeo Vela](https://github.com/jeovela)
