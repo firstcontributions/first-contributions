@@ -82,7 +82,7 @@
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
-- [Brandon Simon](https://github.com/simonbr2) 
+- [Brandon Simon](https://github.com/simonbr2)
 - [Noah] (https://github.com/noah-yac)
 - [Ajith S]()
 - [Shilpa Elluru]ttps://github.com/shilpa-elluru
@@ -98,6 +98,7 @@
 - [Gaurav Basu](https://github.com/gauravbasu6)
 - [Mike G.]
 - [Rosa Blanca Baker](https://github.com/sugarmango)
+- [Miguel Venero Yupanqui](https://github.com/MVeneroY)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Sanket Jagdale](https://github.com/Sanket00900)
 - [Abhinandan Saha](https://github.com/abhinandan991)
@@ -158,7 +159,7 @@
 - [Mahak Gupta](https://github.com/Mahak-Gupta25)
 - [Erick Rosa](https://github.com/RosaErick)
 - [abdelrhman azazy](https://github.com/Azazy1)
-- [Gustavo Bastian](https://github.com/gustavobastian) 
+- [Gustavo Bastian](https://github.com/gustavobastian)
 -[Martin Lever](https://github.com/MartinL551)
 - [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
