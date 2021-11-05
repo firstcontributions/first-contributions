@@ -40,6 +40,7 @@
 - [Weston Henschel](https://github.com/wchenschel)
 - [Heather Yager](https://github.com/heatheryager)
 - [Steve Sayantan] (https://github.com/SteveSayantan)
+- [Sheroz Samatov](https://github.com/sherozsamatov) 👋
 - [Isi Atash](https://github.com/Isi-Atash)
 - [joshmal9999](https://github.com/joshmal9999)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
