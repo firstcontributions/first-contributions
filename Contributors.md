@@ -13,6 +13,7 @@
 - [Kid-Chang](https://github.com/Kid-Chang)
 - [GeonYeop Na](https://github.com/NaJhinY)
 - [James Wilson](https://github.com/james-wilson-21)
+- [Roman Yefimets](https://github.com/romainiac)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
