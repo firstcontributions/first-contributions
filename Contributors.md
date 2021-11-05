@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Amrendra Singh](https://github.com/amrendra0
+- [Amrendra Singh](https://github.com/amrendra01)
 - [Gmelon] (https://github.com/gmelon)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
