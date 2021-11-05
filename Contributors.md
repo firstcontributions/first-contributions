@@ -54,6 +54,7 @@
 - [Deepak Dwivedi](https://github.com/Dvd1234)
 - [Koremochi](https://github.com/Koremochi)
 - [Kyu Sik](https://github.com/Kim-Mark)
+- [Johnson Nguyen](https://github.com/jhoangnguyen)
 - [Jitesh Jayarman](https://github.com/jiteshj2)
 - [Zeyad Naguib](https://github.com/zeyadmtn)
 - [Sudhanshu Shekhar](https://github.com/FuryACE007)
