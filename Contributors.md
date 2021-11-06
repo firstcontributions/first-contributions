@@ -1269,6 +1269,7 @@ Himanshu Dedha
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Joselito Rebelo](https://github.com/joselito-coder)
+- [Westley Winks] (https://github.com/DadOfApollo)
 - [Melissa Coates](https://github.com/mecoat/)
 - [Ipsita Goel](https://github.com/ipsitagoel)
 - [Nabeel Ahmed Khan](https://github.com/NabeelAhmed314)
