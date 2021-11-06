@@ -18,6 +18,7 @@
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
 - [hyeongil](https://github.com/201HI)
+- [Yohannes Ketema](https://github.com/JohnZDictator)
 - [Jenna Franco](https://github.com/myinnernerd)
 - [Shruti Pisal](https://github.com/shruti-0411)
 - [Markos Sankey](https://github.com/markossankey)
