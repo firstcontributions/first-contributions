@@ -1,4 +1,3 @@
-
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Gmelon] (https://github.com/gmelon)
@@ -14,6 +13,7 @@
 - [GeonYeop Na](https://github.com/NaJhinY)
 - [James Wilson](https://github.com/james-wilson-21)
 - [Roman Yefimets](https://github.com/romainiac)
+- [Abdulaziz-04](https://github.com/Abdulaziz-04)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
