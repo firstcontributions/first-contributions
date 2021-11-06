@@ -9,6 +9,7 @@
 - [kkatottn](https://github.com/kkatottn)
 - [hpekkan](https://github.com/hpekkan)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
+- [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Neil Gebhard](https://github.com/neilgebhard)
 - [Kid-Chang](https://github.com/Kid-Chang)
 - [GeonYeop Na](https://github.com/NaJhinY)
@@ -3286,4 +3287,5 @@ Disguy
 - [Jacqueline Ann Lim](https://github.com/s3753072)
 - [Stonie Johnson](https://github.com/stoniejohnson)
 - [Kamaljot Singh](https://github.com/Spiritual-Programmer)
+- [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 <!-- prettier-ignore-end -->
