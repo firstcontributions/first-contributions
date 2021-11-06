@@ -1587,6 +1587,7 @@ Himanshu Dedha
 - [Tanzeel Khan](https://github.com/tanzeyl)
 - [Kyin Edwards](https://github.com/KyinE1)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
+- [Jayaram Jai](https://github.com/jayaramvs1243)
 - [Piper050](https://github.com/Piper050)
 - [uichan] (http://github.com/wjddml)
 - [Linda Ngo](https://github.com/linda-ngo)
