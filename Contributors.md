@@ -3284,4 +3284,5 @@ Disguy
 - [Alexsandro Bezerra](https://github.com/AlexsandroBezerra)
 - [Hanefi balcı](https://github.com/hanefibalci)
 - [Jacqueline Ann Lim](https://github.com/s3753072)
+- [Stonie Johnson](https://github.com/stoniejohnson)
 <!-- prettier-ignore-end -->
