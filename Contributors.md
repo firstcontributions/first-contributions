@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [MTM] (https://github.com/MyoThetMaung)
 - [Gmelon] (https://github.com/gmelon)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
@@ -9,6 +10,7 @@
 - [kkatottn](https://github.com/kkatottn)
 - [hpekkan](https://github.com/hpekkan)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
+- [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Neil Gebhard](https://github.com/neilgebhard)
 - [Kid-Chang](https://github.com/Kid-Chang)
 - [GeonYeop Na](https://github.com/NaJhinY)
@@ -25,6 +27,7 @@
 - [Markos Sankey](https://github.com/markossankey)
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
+- [Billy Bao](https://github.com/biligeny)
 - [K-Nuguri](https://github.com/K-Nuguri)
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
@@ -104,6 +107,8 @@
 - [Gaurav Basu](https://github.com/gauravbasu6)
 - [Mike G.]
 - [Rosa Blanca Baker](https://github.com/sugarmango)
+- [Mohsen Rokni](https://github.com/roknimohsen)
+- [Burim Koci](https://github.com/bkocii)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Sanket Jagdale](https://github.com/Sanket00900)
 - [Abhinandan Saha](https://github.com/abhinandan991)
@@ -239,6 +244,7 @@
 - [Heiko Schmidt](https://github.com/heikoschmidt1187)
 - [Jean Khoury](https://github.com/jeankhoury0)
 - [Marpureddy Saswat](https://github.com/Eren-Yeaager)
+- [Sauradip Sengupta](https://github.com/sauradip007)
 - [Chodak Chokphel]
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Asra Jawaid](https://github.com/Asra2000)
@@ -1620,6 +1626,7 @@ Himanshu Dedha
 - [mmg13](https://github.com/mmg13)
 - [Avinash Karn](https://github.com/Avikarn)
 - [Fahad Alharbi](https://github.com/Fahadeidalharbi)
+- [Fahad Imrann](https://github.com/DodiAlba)
 - [Onigiri](https://github.com/onigiri070)
 - [Archit Jain](https://github.com/architjen)
 - [James Moles](https://github.com/JPMoles)
@@ -3281,4 +3288,7 @@ Disguy
 - [Alexsandro Bezerra](https://github.com/AlexsandroBezerra)
 - [Hanefi balcı](https://github.com/hanefibalci)
 - [Hillary VanOtten](https://github.com/hvanotten)
+- [Jacqueline Ann Lim](https://github.com/s3753072)
+- [Stonie Johnson](https://github.com/stoniejohnson)
+- [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 <!-- prettier-ignore-end -->
