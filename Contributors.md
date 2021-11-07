@@ -3191,6 +3191,7 @@ Disguy
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
 - [CrimsonTome](https://github.com/crimsontome)
 - [Gabe Brown](https://github.com/gabebrown814)
+- [George Venizelos](https://github.com/venizg)
 - [Matthew Yakubek](https://github.com/Myakubek)
 - [Lisa Heinecke](https://github.com/Tafkae)
 - [Eugenio Guimaraes](https://github.com/EugenioGuimaraes)
