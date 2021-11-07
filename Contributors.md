@@ -14,6 +14,7 @@
 - [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Neil Gebhard](https://github.com/neilgebhard)
 - [Kid-Chang](https://github.com/Kid-Chang)
+- [Lucas Walters] (https://github.com/theLucasWalters)
 - [GeonYeop Na](https://github.com/NaJhinY)
 - [James Wilson](https://github.com/james-wilson-21)
 - [Roman Yefimets](https://github.com/romainiac)
