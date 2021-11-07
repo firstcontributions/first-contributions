@@ -3075,6 +3075,7 @@ Himanshu Dedha
 - [Noel Johnson](https://github.com/noel-johnson)
 - [Kevin Grimsley](https://github.com/kevin-grimsley)
 - [Sayan Sahu](https://github.com/SayanSahu99/)
+- [Brian Phan](https://github.com/ph4rden)
 - [Insiya Khedapa] (https://github.com/Insiya-Decoded)
 - [Sushil Pandey](https://github.com/Amor64)
 - [Vrushali Naik] (https://github.com/kvrush)
