@@ -8,6 +8,7 @@
 - [21yuyu99](https://github.com/21yuyu99)
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [kkatottn](https://github.com/kkatottn)
+- [cs-z](https://github.com/cs-z)
 - [hpekkan](https://github.com/hpekkan)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
