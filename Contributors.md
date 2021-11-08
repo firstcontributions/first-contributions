@@ -802,6 +802,7 @@ Aditya Agarwal
 - [Xile Yang] (https://github.com/yangxile)
 - [Pla Benjamin](https://github.com/benjaminPla)
 - [Lowic Mangin](https://github.com/logic-fabric)
+- [mozkzki](https://github.com/mozkzki)
 - [Andrew Chambers](https://github.com/W3Dojo)
 - [Andrea](https://github.com/andrea-genovese)
 - [Naing Tan Ba](https://github.com/Tranks27)
