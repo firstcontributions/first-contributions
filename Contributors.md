@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [MTM] (https://github.com/MyoThetMaung)
+- [Amanda Adoyi] (https://github.com/lonercode)
 - [Gmelon] (https://github.com/gmelon)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
