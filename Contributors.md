@@ -52,7 +52,8 @@
 - [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Weston Henschel](https://github.com/wchenschel)
 - [Heather Yager](https://github.com/heatheryager)
-- [Steve Sayantan] (https://github.com/SteveSayantan)
+- [John Tettis](https://github.com/john-tettis):)
+- [Steve Sayantan](https://github.com/SteveSayantan)
 - [Sheroz Samatov](https://github.com/sherozsamatov) 👋
 - [Isi Atash](https://github.com/Isi-Atash)
 - [joshmal9999](https://github.com/joshmal9999)
