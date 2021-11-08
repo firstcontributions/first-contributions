@@ -3299,4 +3299,4 @@ Disguy
 - [Stonie Johnson](https://github.com/stoniejohnson)
 - [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 - [AkshayHere](https://github.com/AkshayHere)
-- [chang min] (https://github.com.aimls0503)
+- [changmin] (https://github.com.aimls0503)
