@@ -1030,7 +1030,7 @@ Himanshu Dedha
 - [Antoon Beres](https://github.com/AntoonBeres)
 - [Dimitrios Pigkas](https://github.com/takispig)
 - [Todd](https://github.com/DotSpread)
- [Kim jin wonn](https://github.com/vahaie)
+ [Kim jin won](https://github.com/vahaie)
 - [Shubh Chudasama](https://github.com/c-shubh)
 - [Jens Jovellano](https://github.com/pizzanoodles)
 - [Harshit Bhat](https://github.com/harshitbhat)
