@@ -2024,6 +2024,7 @@ Himanshu Dedha
 - [bjarkt](https://github.com/bjarkt)
 - [Steve Bailey](https://github.com/StevexBailey)
 - [Taylor-Rae Loatman](https://github.com/TaylorLoatman)
+- [Giavonna Vic](https://github.com/giavonnavi-s)
 - [Pogchamp](https://github.com/yibinlong)
 - [swoorr](https://github.com/swoorr)
 - [swoorr](https://github.com/Dhrunit/)
