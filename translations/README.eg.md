@@ -53,7 +53,7 @@ git clone "url you just copied"
 <div dir="rtl">على سبيل المثال:</div>
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.gitsss
 ```
 
 <div dir="rtl">
