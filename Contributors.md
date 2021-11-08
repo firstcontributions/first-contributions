@@ -3302,4 +3302,5 @@ Disguy
 - [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 - [AkshayHere](https://github.com/AkshayHere)
 - [Jeongbin Seo](https://github.com/seojbin)
-<!-- prettier-ignore-end -->
+- [haeun](https://github.com/seohaeun0112)
+        <!-- prettier-ignore-end -->
