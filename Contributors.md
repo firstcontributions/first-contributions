@@ -97,6 +97,7 @@
 - [Brandon Simon](https://github.com/simonbr2) 
 - [Noah] (https://github.com/noah-yac)
 - [Ajith S]()
+- [YangSeokwon] (https://github.com/Y-seokwon/first-contributions.git)
 - [Shilpa Elluru]ttps://github.com/shilpa-elluru
 - [Sanzida Luna] https://github.com/SanzidaMojibLuna
 - [Ankit Choudhary] https://github.com/ankit017
