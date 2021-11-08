@@ -97,7 +97,7 @@
 - [junhwi](https://github.com/kimkimjunjun)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
-- [Brandon Simon](https://github.com/simonbr2) 
+- [Brandon Simon](https://github.com/simonbr2)
 - [Noah] (https://github.com/noah-yac)
 - [Ajith S]()
 - [YangSeokwon] (https://github.com/Y-seokwon/first-contributions.git)
@@ -177,7 +177,7 @@
 - [Mahak Gupta](https://github.com/Mahak-Gupta25)
 - [Erick Rosa](https://github.com/RosaErick)
 - [abdelrhman azazy](https://github.com/Azazy1)
-- [Gustavo Bastian](https://github.com/gustavobastian) 
+- [Gustavo Bastian](https://github.com/gustavobastian)
 -[Martin Lever](https://github.com/MartinL551)
 - [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
@@ -3312,3 +3312,4 @@ Disguy
 <!-- prettier-ignore-end -->
 - [minsung](https://github.com/minsungk02)
 - [seungbin0131](https://github.com/seungbin0131)
+- [JamileQueiroz](https://github.com/JamileQueiroz)
