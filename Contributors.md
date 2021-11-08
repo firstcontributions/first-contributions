@@ -187,6 +187,7 @@
 - [Aldair Huamani Cusi](https://github.com/Baku452)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Sangram Rath](https://github.com/sangramrath)
+- [Walt W] (https://github.com/WaltW358)
 - [Dusk Kitil](https://github.com/duskkitil)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
 - [Dev Parikh](https://github.com/dev79844)
