@@ -172,6 +172,7 @@
 - [Anoop Chacko](https://github.com/AnoopChacko)
 - [luaRRaul](https://github.com/luaRRaul)
 - [Anton Christoffersson](https://github.com/miraz12)
+- [Rotem Weisz] (https://github.com/rotem175)
 - [Anthony Ammar](https://github.com/Antho13710)
 - [Aditya Kulkarni](https://github.com/adit-g-kul18)
 - [Prabin Singh](https://github.com/prabin544)
