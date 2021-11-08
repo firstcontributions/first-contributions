@@ -1944,6 +1944,7 @@ Himanshu Dedha
 - [acphil2](https://github.com/acphil2)
 - [Arif Jehda-Oh](https://github.com/arifjehoh)
 - [Michael Gartner](https://github.com/mdroidian)
+- [Yashira Jacobs](https://github.com/yashirajb)
 - [Thang Cao](https://github.com/shiyoline)
 - [Sebastian Puig](https://github.com/patanpuig)
 - [Kify](https://github.com/Kify7)
