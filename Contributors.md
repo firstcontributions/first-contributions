@@ -3299,4 +3299,5 @@ Disguy
 - [Stonie Johnson](https://github.com/stoniejohnson)
 - [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 - [AkshayHere](https://github.com/AkshayHere)
+- [Jeongbin Seo](https://github.com/seojbin)
 <!-- prettier-ignore-end -->
