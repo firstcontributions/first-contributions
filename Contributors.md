@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Matttx](https://github.com/Matttx)
 - [hamseungyeal] (https://github.com/hamseungyeal)
+- [JonathanC] (https://github.com/Jonathan-Challenger)
 - [MTM] (https://github.com/MyoThetMaung)
 - [Amanda Adoyi] (https://github.com/lonercode)
 - [John Farina] (https://github.com/jfarina5)
