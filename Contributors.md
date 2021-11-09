@@ -66,6 +66,7 @@
 - [Abdullah Zahid](https://github.com/mxzahid)
 - [Adithya SM](https://github.com/Adithya65)
 - [[Sahira Bibi](https://github.com/sahirabibi)
+- [Michael Davitt](https://github.com/michaeldavitt)
 - [Owen Nowakowski](https://github.com/onowakow)
 - [Alex Morrell] (https://github.com/amorrell2002)
 - [Noel Gore](https://github.com/NoelGore)
