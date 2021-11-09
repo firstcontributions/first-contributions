@@ -28,7 +28,7 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.id.md">Bahasa Indonesia</a>
         </td>
-        <td>
+        <td> <Michelle-A>
            <a href="../translations/README.ca.md">Català</a>
         </td>
         <td>
