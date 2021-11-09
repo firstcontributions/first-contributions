@@ -3332,4 +3332,5 @@ Disguy
 - [Angel Ria Purnamasari](https://github.com/angellee177)
 - [Muhammed Sodiq](https://github.com/sodiq2000)
 - [Rishav Kumar](https://github.com/Rishav9852Kumar)
+- [Jaess Jang](https://github.com/jjjwodls)
 <!-- prettier-ignore-end -->
