@@ -420,6 +420,7 @@
 - [Tanmay Tete](https://github.com/tancot85)
 - [Tanmay Tripathi](https://github.com/boogyman25)
 - [Felipe Santos](https://github.com/felipesantos2)
+- [kschub](https://github.com/kschub)
 - [Luis Hernandez](https://github.com/DatBoiLuiskrrt?tab=repositories)
 - [Vivek Kumar Dubey](Vivek Kumar Dubey)
 - [Idris Mangal](https://github.com/idriswebxy)
