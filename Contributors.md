@@ -417,6 +417,7 @@
 - [Parth Soni](https://github.com/parth1007)
 - [Rozen Berg](https://github.com/rozenberg4christ)
 - [Adarsh Kannan](https://github.com/void-adarsh)
+- [Maëlys Bras de fer](https://github.com/m-bdf)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
