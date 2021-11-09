@@ -9,6 +9,7 @@
 - [John Farina] (https://github.com/jfarina5)
 -	[Manoj Gopale] (https://github.com/ManojGopale)
 - [Gmelon] (https://github.com/gmelon)
+- [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
 - [21yuyu99](https://github.com/21yuyu99)
