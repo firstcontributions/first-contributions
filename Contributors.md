@@ -563,6 +563,7 @@
 - [Daniel García](https://github.com/Danielggz)
 - [Brites](https://github.com/Brites101)
 - [Flippy](https://github.com/Flip771)
+- [Jerry Yan Krismanto](https://github.com/jerry-krismanto)
 - [WaiSkats] (https://github.com/WaiSkats)
 - [Carol Bolger] (https://github.com/RealWorldApplications)
 - [Utkarsh Jaiswal](https://github.com/UtkJaiswal)
