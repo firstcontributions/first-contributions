@@ -3154,6 +3154,7 @@ Disguy
 - [Margareth Borba](https://github.com/mborba1)
 - [Felipe Leao](https://github.com/felipeLeao18)
 - [Daniel Sabic](https://github.com/sabicd)
+- [Vlad Rakhmanin](https://github.com/toadkarter) 
 - [Felipe França](https://github.com/felipefrranca)
 - [Aisa Luana](https://github.com/aisaluana)
 - [Luciano Santos](https://github.com/lucianosz7)
