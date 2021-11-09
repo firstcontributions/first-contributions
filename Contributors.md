@@ -119,6 +119,7 @@
 - [Gaurav Basu](https://github.com/gauravbasu6)
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
+- [Hardik]
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [Joshua Reyes](https://github.com/j-reyes314)
 - [Mohsen Rokni](https://github.com/roknimohsen)
