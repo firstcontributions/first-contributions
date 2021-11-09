@@ -1114,6 +1114,7 @@ Himanshu Dedha
 - [Saptarshi Bhattacharya](https://github.com/sbk2k1)
 - [Utkarsh Dayal](https://github.com/uxd2486)
 - [Om Prashant Dharme]
+- [Donald Oliver](https://github.com/doliv76)
 - [Sanchit Garg ](https://github.com/sanchit-iitr)
 - [Aju Maharjan](https://github.com/aju513)
 - [Alexander Shen](https://github.com/shenalexw)
