@@ -13,6 +13,7 @@
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
 - [21yuyu99](https://github.com/21yuyu99)
+- [Ayume Francis](https://github.com/francis556)👀 🤫
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [kkatottn](https://github.com/kkatottn)
 - [cs-z](https://github.com/cs-z)
