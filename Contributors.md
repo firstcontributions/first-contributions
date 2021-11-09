@@ -3323,8 +3323,9 @@ Disguy
 - [AkshayHere](https://github.com/AkshayHere)
 - [Jeongbin Seo](https://github.com/seojbin)
 - [heechan3188](https://github.com/heechan3188)
-<!-- prettier-ignore-end -->
 - [minsung](https://github.com/minsungk02)
 - [seungbin0131](https://github.com/seungbin0131)
 - [Dami Sparks](https://github.com/damisparks)
 - [Angel Ria Purnamasari](https://github.com/angellee177)
+- [Muhammed Sodiq] (https://github.com/sodiq2000)
+<!-- prettier-ignore-end -->
