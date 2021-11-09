@@ -119,6 +119,7 @@
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
 - [Rosa Blanca Baker](https://github.com/sugarmango)
+- [Joshua Reyes](https://github.com/j-reyes314)
 - [Mohsen Rokni](https://github.com/roknimohsen)
 - [Burim Koci](https://github.com/bkocii)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
