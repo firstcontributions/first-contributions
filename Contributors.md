@@ -51,6 +51,7 @@
 - [Gabriel Rockson](https://github.com/rocksongabriel)
 - [Christian Haedrich](https://github.com/HaedrichHC)
 - [CJ Wow](https://github.com/scope2018)
+- [Melvin Gilis](https://github.com/melvinxeu)
 - [Trevor Katemba](https://github.com/tkatemb)
 - [Bosko](https://github.com/NightShop)
 - [Piyush Sonawane](https://github.com/PiyushSonawane1302)
