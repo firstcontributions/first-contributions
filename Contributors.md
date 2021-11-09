@@ -2092,6 +2092,7 @@ Himanshu Dedha
 - [ProjectGaZ](https://github.com/ProjectGaZ)
 - [Ahmad Alkhalawi](https://github.com/4hma4d)
 - [Marut Dhungana](https://github.com/consciousness11)
+- [laforce2] (https://github.com/laforce2)
 - [Paulami Bhattacharya](https://github.com/paulamib123)
 - [Irina Kose](https://github.com/irkose)
 - [Akshay Saini](https://github.com/anonyxhappie)
