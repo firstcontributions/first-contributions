@@ -2,7 +2,7 @@
 
 먼저, 전체 싱크과정을 이해해야합니다. 본 스키마에는 3개의 저장소들이 있습니다. 저의 GitHub에 있는 제 공개저장소인 `github.com/Roshanjossey/first-contributions/`와 여러분의 포크된 저장소인 `github.com/Your-Name/first-contributions/`, 그리고 로컬 머신에 위치해서 현재 작업중인 저장소가 있습니다. 오픈 소스 프로젝트에 특화된 이러한 조합을 `트라이앵글 워크플로우`라고 부릅니다.
 
-<img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
+<img style="float;" src="https://firstcontributions.github.io/assets/additional-material/triangle_workflow.png" alt="triangle workflow" />
 
 여러분의 두 개의 저장소들을 제 공개 저장소의 최신 상태와 싱크상태를 유지하기 위해서는 제일 먼저여러분의 로컬머신에 위치한 저장소를 제 공개 저장소와 fetch와 merge를 해야합니다.
 두번째는 여러분의 로컬 저장소를 포크된 GitHub의 저장소에 push하는 것 입니다. 이전 과정에서 봤듯이 "pull request"를 요청할 수 있는 곳은 오직 포크된 저장소에서만 가능합니다. 따라서 마지막으로 업데이트 되어야하는 저장소는 포크된 GitHub입니다.
