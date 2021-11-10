@@ -3347,5 +3347,6 @@ Disguy
 - [Rishav Kumar](https://github.com/Rishav9852Kumar)
 - [Jaess Jang](https://github.com/jjjwodls)
 - [Alex Cao](https://github.com/cccgp)
+- [Nikhil Chandna]
 - [Woosung Kim](https://github.com/kws1207)
 <!-- prettier-ignore-end -->
