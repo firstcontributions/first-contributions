@@ -1906,6 +1906,7 @@ Himanshu Dedha
 - [Dhrumit Mandaliya](https://github.com/dhrumitsoni)
 - [andreas789](https://github.com/andreas789)
 - [David Dobritoiu](https://github.com/Davis856)
+- [Jonas P](https://github.com/JonasPla)
 - [Radminas Usackas](https://github.com/ne0rad)
 - Manav Arora
 - [Joshua Qualls](https://github.com/JTQualls)
