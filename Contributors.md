@@ -6567,3 +6567,4 @@
 -[Rahul Katta](https://github.com/luharine)
 - [Karoline Suzuki](https://github.com/suzukikarol)
 - [Richard Randria](https://github.com/randria)
+- [bakusiel](https://github.com/bakusiel)
