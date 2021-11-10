@@ -42,6 +42,7 @@
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
 - [Billy Bao](https://github.com/biligeny)
 - [K-Nuguri](https://github.com/K-Nuguri)
+- [Jenny McGrath](https://github.com/jennymarie1027)
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
 - [Vikash Kumar](https://github.com/Codefreak69)
