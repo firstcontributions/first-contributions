@@ -3360,4 +3360,5 @@ Disguy
 - [Nikhil Chandna]
 - [Woosung Kim](https://github.com/kws1207)
 - [Mahmoud Samy](https://github.com/ibnsamy96)
+- [Amenallah Barkaoui](https://github.com/AmenallahBarkaoui)
 <!-- prettier-ignore-end -->
