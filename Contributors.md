@@ -5,7 +5,7 @@
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
-  [Emiliano] (https://github.com/Emiliano-Russo)
+- [Emiliano] (https://github.com/Emiliano-Russo)
 - [MTM] (https://github.com/MyoThetMaung)
 - [Amanda Adoyi] (https://github.com/lonercode)
 - [John Farina] (https://github.com/jfarina5)
