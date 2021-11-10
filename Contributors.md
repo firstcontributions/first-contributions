@@ -21,6 +21,7 @@
 - [cs-z](https://github.com/cs-z)
 - [hpekkan](https://github.com/hpekkan)
 - [LucasFab] (https://github.com/LucasFab)
+- [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
