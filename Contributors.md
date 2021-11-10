@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Matttx](https://github.com/Matttx)
+- [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 - [MTM] (https://github.com/MyoThetMaung)
