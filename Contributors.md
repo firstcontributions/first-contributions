@@ -1882,7 +1882,7 @@ Himanshu Dedha
 - [Ayush Bhargav](https://github.com/AyushBhargav)
 - [Prateek Goel](https://github.com/goelprateek5) 🤙
 - [Esben Sørensen](https://github.com/esbendamkjaer)
-- [Georg Magneshaugen](https://github.com/georgmagne)
+- [Georg Magneshaugen](https://github.com/georgmagne) 
 - [Abc Singh](https://github.com/achintya-cell)
 - [James Faith Shameh](https://github.com/blackpandan)
 - [Stany Vanhemelrijck (https://github.com/stanyvh)
@@ -1927,6 +1927,7 @@ Himanshu Dedha
 - [Harrison Cramer](https://github.com/KingOfCramers)
 - [Aditya B](https://github.com/adifeb/first-contributions)
 - [Hectonit](https://github.com/hectonit)
+- [Matej Musil](https://github.com/ShutenDoji9)
 - [Joshua Dillon](https://github.com/jdil1223)
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
