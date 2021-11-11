@@ -38,6 +38,7 @@
 - [James Wilson](https://github.com/james-wilson-21)
 - [Roman Yefimets](https://github.com/romainiac)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
+- [Joseph Gwara](https://github.com/JosephGwara)
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
 - [hyeongil](https://github.com/201HI)
