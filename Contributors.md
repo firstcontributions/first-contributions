@@ -3365,6 +3365,7 @@ Disguy
 - [Muhammed Sodiq](https://github.com/sodiq2000)
 - [Rishav Kumar](https://github.com/Rishav9852Kumar)
 - [Jaess Jang](https://github.com/jjjwodls)
+- [Mitch Suzara](https://github.com/suzaram3)
 - [Alex Cao](https://github.com/cccgp)
 - [Nikhil Chandna]
 - [SalmaHanafi](https://github.com/SalmaHanafi)
