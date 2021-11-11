@@ -2295,6 +2295,7 @@ Himanshu Dedha
 - [Dmego](https://github.com/dmego)
 - [Lcan](https://github.com/lcan520)
 - [Sooraj Sunil](https://github.com/soorajsunil1409)
+- [Karad](https://github.com/itsKarad)
 - [Robin Mark Oscar Gill](https://github.com/gillocodes1)
 - [Dan Vidoni](https://github.com/dan-vidoni)
 - [CHxCOOH](https://github.com/CHxCOOH)
