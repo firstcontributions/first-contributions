@@ -642,6 +642,7 @@
 - [Shreenath Siriyala](https://github.com/ShreeTheTree)
 - [Soumyajoy Das](https://github.com/soumyajoydas01)
 - [Sowmya] (https://github.com/sowmya-hub)
+  [Naomi Fathers] (https://github.com/naomifathers)
 - [K Hari Aneesh Siddhartha] (https://github.com/ansid0102)
 - [Behnaz Khoshnood] (https://github.com/behnazkhoshnood)
 - [Sukhmeet Singh](https://github.com/SukhmeetSingh2002)
