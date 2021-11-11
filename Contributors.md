@@ -3382,4 +3382,5 @@ Disguy
 - [ZiuChen](https://https://github.com/ZiuChen)
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
+- [Steve Toms](https://github.com/thermalhound)
 <!-- prettier-ignore-end -->
