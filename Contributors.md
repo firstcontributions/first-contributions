@@ -517,6 +517,7 @@
 - [Labib Hibatullah](https://github.com/lalabib)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Simeon Akanbi](https://github.com/simple-codes22)
+- [Aitor Mateu](https://github.com/Nokocchi93)
 - [David Michael](https://github.com/davelearning)
 - [Avi B](https://github.com/inspiringsource)
 - [Graeme Chambers](https://github.com/graeme-chambers)
