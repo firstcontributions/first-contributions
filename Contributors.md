@@ -1610,6 +1610,7 @@ Himanshu Dedha
 - [Gemma Draper](https://github.com/gemma-draper/)
 - [Joseph Schultz](https://github.com/cuppajoey)
 - [sololabs](https://github.com/sololabs)
+- [yoshida701](https://github.com/yoshiman701)
 - [Justin Stouffer](https://github.com/jstouffer33)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Mac Rowe](https://github.com/rowemac)
