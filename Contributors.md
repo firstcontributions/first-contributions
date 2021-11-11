@@ -1138,6 +1138,7 @@ Himanshu Dedha
 - [Rohit Gangwar](https://github.com/rohit8020/)
 - [Christopher](https://github.com/christopherlim98)
 - [Rahul](https://github.com/sRahul-00)
+- [Nik Syarul Zaffi](https://github.com/niksyarul)
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
 - [Ted Dino](https://github.com/ted-dino)
