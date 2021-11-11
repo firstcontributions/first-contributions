@@ -3305,7 +3305,7 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
+- [Lex Rich](https://github.com/FuryQueen380)
 - [Subin Park](https://github.com/IamSOL1)
 
 - [LianWen wu](https://github.com/childrentime)
