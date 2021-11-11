@@ -11,6 +11,7 @@
 - [Amanda Adoyi] (https://github.com/lonercode)
 - [John Farina] (https://github.com/jfarina5)
 -	[Manoj Gopale] (https://github.com/ManojGopale)
+- [Russell Buck] (https://github.com/buckage)
 - [Gmelon] (https://github.com/gmelon)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
