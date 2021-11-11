@@ -142,6 +142,7 @@
 - [Mike G.]
 - [Hardik]
 - [Rosa Blanca Baker](https://github.com/sugarmango)
+- [GJCode](https://github.com/GJGits)
 - [Joshua Reyes](https://github.com/j-reyes314)
 - [Mohsen Rokni](https://github.com/roknimohsen)
 - [Burim Koci](https://github.com/bkocii)
