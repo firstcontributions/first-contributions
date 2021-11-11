@@ -64,6 +64,7 @@
 - [Samuel Missonnier](https://github.com/samuelmissonnier)
 - [Trevor Katemba](https://github.com/tkatemb)
 - [Bosko](https://github.com/NightShop)
+- [Ihtisham U.](github.com/ihtisham-sudo)
 - [Piyush Sonawane](https://github.com/PiyushSonawane1302)
 - [Andrew Kerr](https://github.com/andkerr)
 - [Hussain Ashraf] (https;//github.com/hussainashraf)
