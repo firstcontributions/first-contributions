@@ -30,6 +30,7 @@
 - [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
+- [Timo Chen] (https://github.com/kunkun9811)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Neil Gebhard](https://github.com/neilgebhard)
