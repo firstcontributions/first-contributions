@@ -175,6 +175,7 @@
 - [Sachin Baghel](https://github.com/sachin10fi)
 - [Randy Riley](https://github.com/rylee816)
 - [Stephen Podlogar](https://github.com/stpodlogar)
+- [Netanel Kadosh](https://github.com/NetanelK)
 - [Sri Lekha Mondreti](https://github.com/SriLekhaMondreti)
 - [A-Koderr](https://github.com/A-Koderr)
 - [EdgeSan](https://github.com/EdgeSan)
