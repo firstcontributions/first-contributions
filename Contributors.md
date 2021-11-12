@@ -177,6 +177,7 @@
 - [Stephen Podlogar](https://github.com/stpodlogar)
 - [Netanel Kadosh](https://github.com/NetanelK)
 - [Sri Lekha Mondreti](https://github.com/SriLekhaMondreti)
+- [Jacob Knutson](https://github.com/jknutsonn)
 - [A-Koderr](https://github.com/A-Koderr)
 - [EdgeSan](https://github.com/EdgeSan)
 - [Preetpal Singh](https://github.com/UP941594)
