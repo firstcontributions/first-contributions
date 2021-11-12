@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [JGM01] (https://github.com/JGM01/)
 - [tofdaj] (https://github.com/tofdaj)
+- [Zain-Amroti] (https://github.com/zainamroti)
 - [Matttx](https://github.com/Matttx)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
