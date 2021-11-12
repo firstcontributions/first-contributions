@@ -3390,5 +3390,6 @@ Disguy
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
 - [Steve Toms](https://github.com/thermalhound)
-- [Satyam Sinha](https://github.com/satsin06)
+- [Satyam Sinha](https://github.com/satsin06) 
+- [Viren Wanekar](https://github.com/viren1908)
 <!-- prettier-ignore-end -->
