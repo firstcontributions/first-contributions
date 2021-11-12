@@ -3393,4 +3393,5 @@ Disguy
 - [Steve Toms](https://github.com/thermalhound)
 - [Satyam Sinha](https://github.com/satsin06) 
 - [Viren Wanekar](https://github.com/viren1908)
+- [Rick Mrcatdev](https://github.com/atxiii)
 <!-- prettier-ignore-end -->
