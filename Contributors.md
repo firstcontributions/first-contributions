@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [JGM01] (https://github.com/JGM01/)
 - [tofdaj] (https://github.com/tofdaj)
 - [Zain-Amroti] (https://github.com/zainamroti)
