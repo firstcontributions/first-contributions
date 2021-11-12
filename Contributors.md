@@ -3353,6 +3353,7 @@ Disguy
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 - [JaeWook Lee](https://github.com/limulu-k)
 - [noeunsol](https://github.com/Noeunsol)
+- [HDI865] (https://github.com/HDI865)
 - [Sunbean Park](https://github.com/sunbeanp)
 - [John Sciutto](https://github.com/johnsciutto)
 - [Michael Walker](https://github.com/modernmusician)
