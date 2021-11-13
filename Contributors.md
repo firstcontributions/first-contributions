@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
+- [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
 - [Nevil Mills](https://github.com/nevilmills)
 - [tofdaj] (https://github.com/tofdaj)
