@@ -3360,6 +3360,7 @@ Disguy
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
 - [JaeWook Lee](https://github.com/limulu-k)
+- [Jarret Minkler](https://github.com/jminkler)
 - [noeunsol](https://github.com/Noeunsol)
 - [HDI865] (https://github.com/HDI865)
 - [Sunbean Park](https://github.com/sunbeanp)
