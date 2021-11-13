@@ -338,6 +338,7 @@
 - [Varun](https://github.com/Varun080)
 - [Bryan Endres](https://github.com/bendres97)
 - [Tom Anders Andersen](https://github.com/tomandersandersen)
+- [Sylvia Anahime] (https://github.com/TheLadySylvia)
 - [Ruben Gonzalez](https://github.com/Rubengon84)
 - [Srikar Marupaka](https://github.com/srikarmarupaka)
 - [Gabriel Borghetti] (https://github.com/GabrielBorghetti)
