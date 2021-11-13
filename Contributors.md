@@ -1611,6 +1611,7 @@ Himanshu Dedha
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
+- [Greg Vincent](https://github.com/gregjvincent)
 - [Mohit N]
 - [Raj Singh](https://github.com/rajsingh619)
 - [J Delaney](https://github.com/Juniper11)
