@@ -1989,6 +1989,7 @@ Himanshu Dedha
 - [Shawn Kost](https://github.com/shawnkost)
 - [Aashish KC](https://github.com/kcaashish)
 - [Ebubekir Doğan](https://github.com/Ebu44)
+- [David Nikolaj Vinje](https://github.com/david-vinje)
 - [Ayush Bisht](https://github.com/ayushbisht2001)
 - [Raphael Ugwu](https://github.com/fullstackmafia)
 - [Rogério Brum Hermany](https://github.com/brummm)
