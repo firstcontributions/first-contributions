@@ -14,6 +14,7 @@
 - [nchavan70] (https://github.com/nchavan70)
 - [Emiliano] (https://github.com/Emiliano-Russo)
 - [Massurio] (https://github.com/massurio)
+- [Mim1c] (https://https://github.com/Mim1c)
 - [MTM] (https://github.com/MyoThetMaung)
 - [Amanda Adoyi] (https://github.com/lonercode)
 - [John Farina] (https://github.com/jfarina5)
