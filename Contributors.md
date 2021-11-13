@@ -320,6 +320,7 @@ Gavriel Frant
 - [Emilio Marquez] (https://github.com/emiliomarquez)
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Ethan Song] (https://github.com/ethansong3)
+- [Husein Bajrektarević](https://github.com/b-husein)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - [Kevin Bouchaud] (https://github.com/Owainn)
 - [Chang Wei] (https://github.com/ochowei)
