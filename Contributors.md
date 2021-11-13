@@ -162,6 +162,7 @@ Akshit Agarwal
 -[Luis Polanco](https://github.com/luisPolanco25)
 -[Yash Srivastava](https://github.com/yash312312)
 -[Michael P]
+[Adir Elmakyes]-
 -[Alejandro Neri](https://github.com/aleneri97)
 -[Bargaouz Saad](https://github.com/sbrg95)
 -[Smarth Mangla](https://github.com/smarthmangla)
