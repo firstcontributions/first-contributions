@@ -132,6 +132,7 @@
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
+- [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
 - [rosa-xo](https://github.com/rosa-xo) 
