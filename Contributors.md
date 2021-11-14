@@ -3422,4 +3422,5 @@ Disguy
 - [Marcus Hoefl] (https://github.com/mhoefl)
 - [Nimesh Jain](https://github.com/nimeshjain1)
 - [Sean Red](https://seanred.io)
+- [Monster Xiong](https://github.com/MonsterXiong)
 <!-- prettier-ignore-end -->
