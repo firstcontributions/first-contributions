@@ -12,6 +12,7 @@
 - [Matttx](https://github.com/Matttx)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
+- [SayamJain1](https://github.com/SayamJain1)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 - [nchavan70] (https://github.com/nchavan70)
 - [Emiliano] (https://github.com/Emiliano-Russo)
