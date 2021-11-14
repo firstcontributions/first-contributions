@@ -23,6 +23,7 @@
 - [John Farina] (https://github.com/jfarina5)
 - [Manoj Gopale] (https://github.com/ManojGopale)
 - [Russell Buck] (https://github.com/buckage)
+- [Subinoy Dutta] (https://github.com/subi9)
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [Gmelon] (https://github.com/gmelon)
 - [Omgandhi18] (https://github.com/Omgandhi18)
