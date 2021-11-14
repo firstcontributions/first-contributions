@@ -1618,6 +1618,7 @@ Himanshu Dedha
 - [Shwet Yadav](https://github.com/Shwet-yadav)
 - [Md Shakib Uddin Bhuiyan](https://github.com/ShakibUddin)
 - [Zaheda Jafari](https://github.com/zackdaspy/)
+- [Bradley FS] (https://github.com/bradleyFS)
 - [Arkadipta Chatterjee](https://github.com/Arkadipta-Chatterjee)
 - [Samantha Tarrice](https://github.com/samanthatarrice)
 - [Cine-Pixel](https://github.com/Cine-Pixel)
