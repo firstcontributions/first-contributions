@@ -3124,6 +3124,7 @@ Himanshu Dedha
 - [JunyouGuan](https://github.com/guanjunyou)
 - [Kadambini](https://github.com/kadambinipanda)
 - [AtaT](https://github.com/fotino21)
+- [Soldev](https://github.com/solkumadev)
 - [Firejoust](https://github.com/camezza)
 - [lucash](https://github.com/lucasjhong)
 - [Terrell Turner](https://github.com/meshDrip)
