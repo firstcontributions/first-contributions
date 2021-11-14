@@ -3417,4 +3417,5 @@ Disguy
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
+- [Sean Red](https://seanred.io)
 <!-- prettier-ignore-end -->
