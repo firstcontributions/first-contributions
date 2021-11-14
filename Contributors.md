@@ -1285,6 +1285,7 @@ Himanshu Dedha
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
 - [James Dinh](https://github.com/SonDinh5310)
 - [anuj singh]
+- [Emir Smajic]
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
