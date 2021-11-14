@@ -620,6 +620,7 @@
 - [Danilo Mladenovic](https://github.com/Danilo-Mladenovic)
 - [Ayush Singh](https://github.com/AyushSingh-github)
 - [Krishna Teja](https://github.com/krishnakaspe)
+- [Sorrell Sohota](https://github.com/Sorrelljs)
 - [Anmol Gupta](https://github.com/anmolg84)
 - [Shivani Kumari](https://github.com/shivanikumari631)
 - [Kodali Bhavana](https://github.com/Kodali-Bhavana)
