@@ -1,7 +1,7 @@
+
 # **Contributors**
-
 <!-- prettier-ignore-start -->
-
+- [Amrendra Singh] (https://github.com/amrendra01)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
@@ -9,7 +9,9 @@
 - [tofdaj] (https://github.com/tofdaj)
 - [ahmedr2001] (https://github.com/ahmedr2001)
 - [Zain-Amroti] (https://github.com/zainamroti)
+- [Bhavani Prasad] (https://github.com/bhavaniatja)
 - [Matttx](https://github.com/Matttx)
+- [SayamJain1](https://github.com/SayamJain1)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
@@ -22,6 +24,7 @@
 - [John Farina] (https://github.com/jfarina5)
 - [Manoj Gopale] (https://github.com/ManojGopale)
 - [Russell Buck] (https://github.com/buckage)
+- [Subinoy Dutta] (https://github.com/subi9)
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [Gmelon] (https://github.com/gmelon)
 - [Omgandhi18] (https://github.com/Omgandhi18)
@@ -36,6 +39,7 @@
 - [Gourav Kadam](https://github.com/Gourav2404)
 - [hpekkan](https://github.com/hpekkan)
 - [Trickster026](https://github.com/Trickster026)
+- [viraj](https://github.com/ViruSutar)
 - [LucasFab] (https://github.com/LucasFab)
 - [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
@@ -132,6 +136,8 @@
 - [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
   [Julian Coda-Forno] (https://github.com/Julian-CF)
+- [Aaza](https://github.com/azaregon)
+[Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
 - [rosa-xo](https://github.com/rosa-xo)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
@@ -615,6 +621,7 @@
 - [Danilo Mladenovic](https://github.com/Danilo-Mladenovic)
 - [Ayush Singh](https://github.com/AyushSingh-github)
 - [Krishna Teja](https://github.com/krishnakaspe)
+- [Sorrell Sohota](https://github.com/Sorrelljs)
 - [Anmol Gupta](https://github.com/anmolg84)
 - [Shivani Kumari](https://github.com/shivanikumari631)
 - [Kodali Bhavana](https://github.com/Kodali-Bhavana)
@@ -1271,6 +1278,7 @@
 - [Shrey Nahar](https://github.com/Shrey-Nahar)
 - [James Dinh](https://github.com/SonDinh5310)
 - [anuj singh]
+- [Emir Smajic]
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
@@ -3115,6 +3123,7 @@
 - [JunyouGuan](https://github.com/guanjunyou)
 - [Kadambini](https://github.com/kadambinipanda)
 - [AtaT](https://github.com/fotino21)
+- [Soldev](https://github.com/solkumadev)
 - [Firejoust](https://github.com/camezza)
 - [lucash](https://github.com/lucasjhong)
 - [Terrell Turner](https://github.com/meshDrip)
@@ -3400,4 +3409,6 @@
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
+- [Nimesh Jain](https://github.com/nimeshjain1)
+- [Sean Red](https://seanred.io)
 <!-- prettier-ignore-end -->
