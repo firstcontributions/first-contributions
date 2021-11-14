@@ -1,4 +1,4 @@
-
+﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
@@ -8,6 +8,7 @@
 - [ahmedr2001] (https://github.com/ahmedr2001)
 - [Zain-Amroti] (https://github.com/zainamroti)
 - [Matttx](https://github.com/Matttx)
+- [SayamJain1](https://github.com/SayamJain1)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
