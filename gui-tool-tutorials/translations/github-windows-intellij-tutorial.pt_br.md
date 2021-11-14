@@ -5,7 +5,7 @@
 
 # Primeiras Contribuições
 
-| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="40"> | IntelliJ IDEA |
+| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | IntelliJ IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -20,7 +20,7 @@ Se você ainda não tem o IntelliJ IDEA no seu computador, [instale-o](https://w
 
 ## Faça o Fork deste repositório 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://camo.githubusercontent.com/fcf9a4ed664cc63de2fcb14d1135072ba6d4c74a8e9bdb224ad6ab1e72600c3b/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f666f726b2e706e67" alt="fork this repository" />
 
 Fork este repo clicando no botão fork(bifurcar) no canto superior direito desta página. Isso criará uma cópia deste repositório em sua conta do GitHub.
  
@@ -30,7 +30,7 @@ Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são Fork
 
 ## Clone seu Repositório 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://camo.githubusercontent.com/4c3f7f1bec4f04db40ecf58dc2e19c2d8992f100f3bbbc4767a9d20b29f4a43d/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67" alt="clone this repository" />
 
 O próximo passo será clonar seu repo em sua máquina para que você possa modificá-lo. O IntelliJ IDEA precisa da URL do seu repo, portanto clique no botão "clone" e então clique no ícone "copy to clipboard".
  
@@ -94,11 +94,11 @@ Neste ponto, você concluiu a alteração, mas ela ainda está apenas no seu rep
 Em seu repo no GitHub, você verá o botão `Compare & pull request` ao lado da notificação do novo branch, clique nesse botão.
 
 
-<img src="https://firstcontributions.github.io/assets/Readme/assets/compare-and-pull.png" alt="create a pull request" />
+<img src="https://camo.githubusercontent.com/ca3b1cefece5f3b9b3435020e6a357ca024cda5bd2b1e140a15170fcd1ec5381/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f6d706172652d616e642d70756c6c2e706e67" alt="create a pull request" />
 
 Agora submeta o pull request. 
 
-<img src="https://firstcontributions.github.io/assets/Readme/assets/submit-pull-request.png" alt="submit pull request" />
+<img src="https://camo.githubusercontent.com/71401ba5551a64aeac3838825a52ce7a7597cd8b54a0d7200d9454e2cbfbb13f/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f7375626d69742d70756c6c2d726571756573742e706e67" alt="submit pull request" />
 
 Em breve estarei mesclando todas as suas alterações no branch master deste projeto. Você receberá um e-mail de notificação assim que as alterações forem integradas.
 
