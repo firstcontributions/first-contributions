@@ -966,6 +966,7 @@ Pranjal
 - [cjlightnsound](https://github.com/cjlightnsound)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
+- [Salvador Oliveira](https://github.com/Salv4d/)
   [Chad McCarthy](https://github.com/chadmcc-1)
 - [Appledora](https://github.com/appledora)
 - [Ismeet Kour Chhabda](https://github.com/ismeet010)
