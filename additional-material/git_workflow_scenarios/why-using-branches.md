@@ -30,7 +30,7 @@ Alice is working on Feature A and Bob is working on Feature B. Alice is halfway 
 
 After Bob finishes Feature A he would like to merge bob into master. However, bob now contains Feature A, Feature B and parts of Feature C, but Feature C is not ready to be merged! It's easy to see that a workflow like this can lead to many confusing merge conflicts.
 
-The trick is that instead of having personal branches one should have feature branches. Alice should have a branch for Feature A and Feature C and Bob should have a branch for Feature Band Feature A. That way they both can work on different features without tramping on each other's toes.
+The trick is that instead of having personal branches one should have feature branches. Alice should have a branch for Feature A and Feature C and Bob should have a branch for Feature B and Feature A. That way they both can work on different features without tramping on each other's toes.
 
 ## How to create branches?
 
