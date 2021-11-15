@@ -36,6 +36,7 @@
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [kkatottn](https://github.com/kkatottn)
 - [cs-z](https://github.com/cs-z)
+- [Saad Rizwan](https://github.com/SaadRizwanKhan) 🇵🇰
 - [Gourav Kadam](https://github.com/Gourav2404)
 - [hpekkan](https://github.com/hpekkan)
 - [Trickster026](https://github.com/Trickster026)
