@@ -27,6 +27,7 @@
 - [Subinoy Dutta] (https://github.com/subi9)
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [Gmelon] (https://github.com/gmelon)
+- [B Pinches] (https://github.com/benpinc)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
