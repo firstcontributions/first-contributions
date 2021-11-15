@@ -11,6 +11,7 @@
 - [John Farina] (https://github.com/jfarina5)
 -	[Manoj Gopale] (https://github.com/ManojGopale)
 - [Gmelon] (https://github.com/gmelon)
+- [Ben Pinches] (https://github.com/benpinc)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
