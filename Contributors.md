@@ -3430,4 +3430,5 @@ Disguy
 - [Nimesh Jain](https://github.com/nimeshjain1)
 - [Sean Red](https://seanred.io)
 - [Monster Xiong](https://github.com/MonsterXiong)
+- [Akitakek](https://github.com/akitakek)
 <!-- prettier-ignore-end -->
