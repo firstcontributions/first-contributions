@@ -18,6 +18,7 @@
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [mondara] (https://github.com/Mondara)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
+- [James Yang] (https://github.com/TwistedBrainHead)
 - [nchavan70] (https://github.com/nchavan70)
 - [Emiliano] (https://github.com/Emiliano-Russo)
 - [Massurio] (https://github.com/massurio)
