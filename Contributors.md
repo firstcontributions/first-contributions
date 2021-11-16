@@ -3432,6 +3432,7 @@ Disguy
 - [benn1S] (https://github.com/benn1S)
 - [Vikram Abhishek Sah]
 - [Nikhil Chandna]
+- [the1311](https://github.com/the1311)
 - [SalmaHanafi](https://github.com/SalmaHanafi)
 - [Woosung Kim](https://github.com/kws1207)
 - [Mahmoud Samy](https://github.com/ibnsamy96)
