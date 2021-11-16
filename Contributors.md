@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Daniel Corwin] (https://github.com/dcrwn)
@@ -80,6 +80,7 @@
 - [Jenny McGrath](https://github.com/jennymarie1027)
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
+- [Truong Giang Hoang](https://github.com/nhtg0710)
 - [Vikash Kumar](https://github.com/Codefreak69)
 - [Aidan Mariglia](https://github.com/AidanMariglia)
 - [Danis Idiatullin](https://github.com/dddiiirrr3)
