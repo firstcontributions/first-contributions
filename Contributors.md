@@ -3437,4 +3437,5 @@ Disguy
 - [Akitakek](https://github.com/akitakek)
 - [George Gebbett](https://github.com/georgegebbett)
 - [JJeeff248](https://github.com/JJeeff248)
+- [AngelaDev](https://github.com/AngelaDev93):purple_heart:
 <!-- prettier-ignore-end -->
