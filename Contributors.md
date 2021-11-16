@@ -75,6 +75,7 @@
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
 - [Vikash Kumar](https://github.com/Codefreak69)
+- [Aidan Mariglia](https://github.com/AidanMariglia)
 - [Danis Idiatullin](https://github.com/dddiiirrr3)
 - [Robert Ning](https://github.com/ningrundong)
 - [Kartik Negi](https://github.com/kartiknegi23)
