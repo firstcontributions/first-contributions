@@ -171,6 +171,7 @@
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
 - [Hardik]
+- [Nadeem Abdelkader](https://github.com/Nadeem-Abdelkader)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [GJCode](https://github.com/GJGits)
 - [Joshua Reyes](https://github.com/j-reyes314)
