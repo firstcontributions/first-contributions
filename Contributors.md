@@ -3453,4 +3453,5 @@ Disguy
 - [AngelaDev](https://github.com/AngelaDev93):purple_heart:
 - [frhamadiansyah](https://github.com/frhamadiansyah)
 - [josh watkins](https://github.com/darkwolf86)
+- [SeawardSalmon6](https://github.com/seawardsalmon6)
 <!-- prettier-ignore-end -->
