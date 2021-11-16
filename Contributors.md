@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Amrendra Singh] (https://github.com/amrendra01)
+- [Daniel Ty] (https://github.com/tydan3)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
