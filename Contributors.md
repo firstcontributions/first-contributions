@@ -3461,4 +3461,5 @@ Disguy
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
 - [S Palmer](https://github.com/s-palmer)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
+- [Tatiana Ferreyra](https://github.com/tferreyra)
 <!-- prettier-ignore-end -->
