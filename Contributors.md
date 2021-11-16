@@ -3318,6 +3318,7 @@ Disguy
   [minjun](https://github.com/alswns8875)
 - [StavrosCaptain](https://github.com/StavrosCaptain)
 - [hzq](https://github.com/xiaolubo)
+- [Bianca Marina Codau](https://github.com/codaubianca/)
 - [V Sai Prakash](https://github.com/vsaiprakash)
 - [Ferdian Ardhana](https://github.com/ferdianrura97)
 - [Nishant Suthar](https://github.com/nik25s)
