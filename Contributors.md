@@ -1019,7 +1019,7 @@ Pranjal
 - [Muhammad Faizan](https://github.com/MuhammadFaizan7326)
 - [Shresth](https://github.com/Shresth-Jain/)
 - [Atul](https://github.com/atulk0)
-<<<<<<< HEAD
+
 - [Minku Singh](https://github.com/minku-singh)
 - [Connor Lawson](https://github.com/lawsoncr/)
 <!-- Muhammad Faizan-->
@@ -1921,7 +1921,7 @@ Himanshu Dedha
 - [Filipe Lima](https://github.com/datsfilipe)
 - [Martin Bozhinov](https://github.com/MartinBozhinov)
 - [BrotatoBoi](https://github.com/BrotatoBoi) ;p
-=======
+
 - [Aedyn Yeras](https://github.com/Aedyn01)
 - [Aaron Abreu 🦕](https://github.com/gh0sttttt)
 - [Gaurva Sharma](https://github.com/gaurav4sharma)
