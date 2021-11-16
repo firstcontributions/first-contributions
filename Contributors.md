@@ -2997,6 +2997,7 @@ Himanshu Dedha
 - [Richa Motwani](https://github.com/Richa2801)
 - [Josué Francisco](https://github.com/cassule)
 - [Zain Najeeb](https://github.com/Zain-Najeeb)
+- [Ben Wade](https://github.com/benwade91)
 - [Nick Lu](https://github.com/nicklutuxun)
 - [Cody Lillywhite](https://github.com/Codyl)
 - [shi7](https://github.com/shi7)
