@@ -3454,4 +3454,5 @@ Disguy
 - [frhamadiansyah](https://github.com/frhamadiansyah)
 - [josh watkins](https://github.com/darkwolf86)
 - [HridoyHazard](https://github.com/HridoyHazard)
+- [SeawardSalmon6](https://github.com/seawardsalmon6)
 <!-- prettier-ignore-end -->
