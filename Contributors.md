@@ -57,6 +57,7 @@
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
 - [Timo Chen] (https://github.com/kunkun9811)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
+- [Nathan Lin] (https://github.com/nathanlin109)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Neil Gebhard](https://github.com/neilgebhard)
 - [Kid-Chang](https://github.com/Kid-Chang)
@@ -3433,6 +3434,7 @@ Disguy
 - [benn1S] (https://github.com/benn1S)
 - [Vikram Abhishek Sah]
 - [Nikhil Chandna]
+- [the1311](https://github.com/the1311)
 - [SalmaHanafi](https://github.com/SalmaHanafi)
 - [Woosung Kim](https://github.com/kws1207)
 - [Mahmoud Samy](https://github.com/ibnsamy96)
@@ -3458,4 +3460,5 @@ Disguy
 - [josh watkins](https://github.com/darkwolf86)
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
 - [Gary Koji](https://github.com/greencow555)
+- [S Palmer](https://github.com/s-palmer)
 <!-- prettier-ignore-end -->
