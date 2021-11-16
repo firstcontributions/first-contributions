@@ -45,6 +45,7 @@
 - [Trickster026](https://github.com/Trickster026)
 - [viraj](https://github.com/ViruSutar)
 - [LucasFab] (https://github.com/LucasFab)
+- [Daniel Lang] (https://github.com/daniellang09)
 - [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
