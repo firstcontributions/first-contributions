@@ -33,6 +33,7 @@
 - [Subinoy Dutta] (https://github.com/subi9)
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [Gmelon] (https://github.com/gmelon)
+- [Puneet Jain] (https://github.com/puneetjain05)
 - [B Pinches] (https://github.com/benpinc)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
