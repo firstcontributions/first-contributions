@@ -2575,6 +2575,7 @@ Himanshu Dedha
 - [Genevea](https://github.com/genevea)
 - [Julian Quintero](https://github.com/Julian-quintero)
 - [Amul Agrawal](https://github.com/amulagrawal02)
+- [Jasper Lunn](https://github.com/akaJasper)
 - [aidken](https://github.com/aidken)
 - [Josiah Denny](https://github.com/jcdenny)
 - [Subham Bharadwaz](https://github.com/subhamBharadwaz)
