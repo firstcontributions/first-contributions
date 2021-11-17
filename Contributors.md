@@ -139,6 +139,7 @@
 - [Yash](https://github.com/yashakula)
   [woodong](https://github.com/wdong218)
 - [Maruf](https://github.com/marufjs)
+- [Divyang Maurya](https://github.com/divyang-20)
 - [Sean Layden](https://github.com/seanlayden)
 - [Gines Diaz](https://github.com/ginestopo)
 - [dongbin](https://github.com/dobi02)
