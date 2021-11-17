@@ -2282,6 +2282,7 @@ Himanshu Dedha
 - [ebina4yaka](https://github.com/ebina4yaka)
 - [Pierluigi Supino](https://github.com/pierluigisupino)
 - [obutora](https://github.com/obutora)
+- [Tanish](https://github.com/Tanish-Panwar)
 - [LachlanDev](https://github.com/LachlanDev)
 - [tangzixuan](https://github.com/tangzixuan)
 - [Matheus Janibelli](https://github.com/mjanibelli)
