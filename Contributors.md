@@ -18,6 +18,7 @@
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
+- [sachin] (https://github.com/sachin11226)
 - [Mukesh Venkatesan] (https://github.com/Mukeshvj99)
 - [mondara] (https://github.com/Mondara)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
