@@ -42,6 +42,7 @@
 - [Gmelon] (https://github.com/gmelon)
 - [Puneet Jain] (https://github.com/puneetjain05)
 - [B Pinches] (https://github.com/benpinc)
+[Laura Markus] (https://github.com/lauramarkus)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
