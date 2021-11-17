@@ -3461,4 +3461,5 @@ Disguy
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
 - [S Palmer](https://github.com/s-palmer)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
+- [Luiz Mainart](https://github.com/LuizDMM)
 <!-- prettier-ignore-end -->
