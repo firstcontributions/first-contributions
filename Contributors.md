@@ -1136,6 +1136,7 @@ Himanshu Dedha
 - [Michael Chong](https://github.com/michaeljchong)
 - [saisameerd](https://github.com/saisameerd)
 - [Goldenpreet Kaur](https://github.com/Golden-preet)
+- [Souvik Das](https://github.com/whyucode)
 - [ahop1](https://github.com/ahop1)
 - [jackson batty](https://github.com/jacksonbatty)
 - [Ye Htet Aung](https://github.com/tony-yh91)
