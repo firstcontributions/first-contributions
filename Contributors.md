@@ -3476,4 +3476,5 @@ Disguy
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
 - [Luiz Mainart](https://github.com/LuizDMM)
 - [André Felipe](https://github.com/liipeandre)
+- [David Gentile](https://github.com/dcgentile)
 <!-- prettier-ignore-end -->
