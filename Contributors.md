@@ -417,6 +417,7 @@
 - [ahyeon](http://github.com/ahyns62)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Faran Mohammad](https://github.com/Faranheit15)
+- [Ian Wagner](https://github.com/ian-wag)
 - [Gabriel Abubakar](https://github.com/GabrielAbubakar)
 - [Cody Therrien](https://github.com/codytherrien)
 - [Favour James](https://github.com/Favourj-bit)
