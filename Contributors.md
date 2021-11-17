@@ -18,6 +18,7 @@
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
+- [Jonathan]
 - [mondara] (https://github.com/Mondara)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 - [James Yang] (https://github.com/TwistedBrainHead)
