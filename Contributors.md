@@ -998,6 +998,7 @@ Pranjal
 - [Berto Zoban](https://github.com/whoisthismans)
 - [Sai Pavan Krishna Nagam](https://github.com/ucantfindme)
 - [Phyllis Atieno](https://github.com/phyleria)
+- [Rotimi Ajasa-Lot](https://github.com/rajasalot)
 - [Emily Margaret](https://github.com/em3B)
 - [Catter]
 - [Nanor Israel](https://github.com/NanorIsrael)
