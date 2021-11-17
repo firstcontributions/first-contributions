@@ -3472,4 +3472,5 @@ Disguy
 - [S Palmer](https://github.com/s-palmer)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
 - [Luiz Mainart](https://github.com/LuizDMM)
+- [André Felipe](https://github.com/liipeandre)
 <!-- prettier-ignore-end -->
