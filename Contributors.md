@@ -21,6 +21,7 @@
 - [mondara] (https://github.com/Mondara)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 - [James Yang] (https://github.com/TwistedBrainHead)
+- [willberg845] (https://github.com/willberg845)
 - [nchavan70] (https://github.com/nchavan70)
 - [Emiliano] (https://github.com/Emiliano-Russo)
 - [Massurio] (https://github.com/massurio)
