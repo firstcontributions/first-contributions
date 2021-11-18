@@ -5,6 +5,7 @@
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
+- [Alvin Masaba] (https://github.com/funkyman3121)
 - [Amrendra Singh] (https://github.com/amrendra01)
 - [Daniel Ty] (https://github.com/tydan3)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
