@@ -3485,4 +3485,5 @@ Disguy
 - [André Felipe](https://github.com/liipeandre)
 - [David Gentile](https://github.com/dcgentile)
 - [nakahira](https://github.com/xuzhongping)
+- [rgredel](https://github.com/rgredel)
 <!-- prettier-ignore-end -->
