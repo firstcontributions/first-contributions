@@ -3473,4 +3473,5 @@ Disguy
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
 - [Luiz Mainart](https://github.com/LuizDMM)
 - [André Felipe](https://github.com/liipeandre)
+- [Aditya Kapse](https://github.com/Adityakapse)
 <!-- prettier-ignore-end -->
