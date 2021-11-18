@@ -155,6 +155,7 @@
 - [dongbin](https://github.com/dobi02)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
+- [Seerat]
 - [David Brudnicki] (https://github.com/dbrudnicki)
 - [Jakey08] (https://github.com/Jakey08)
 - [Johnson Nguyen](https://github.com/jhoangnguyen)
