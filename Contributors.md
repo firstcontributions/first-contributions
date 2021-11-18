@@ -1,6 +1,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [ACF] (https://github.com/adriancf-br)
+- [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
 - [Amrendra Singh] (https://github.com/amrendra01)
@@ -11,6 +12,7 @@
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
 - [Nevil Mills](https://github.com/nevilmills)
+- [Cody Freese](https://github.com/BlueViper8907)
 - [tofdaj] (https://github.com/tofdaj)
 - [ahmedr2001] (https://github.com/ahmedr2001)
 - [Zain-Amroti] (https://github.com/zainamroti)
@@ -22,6 +24,7 @@
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
 - [sachin] (https://github.com/sachin11226)
+- [Virack Chhom] (https://github.com/chhomchhom)
 - [Mukesh Venkatesan] (https://github.com/Mukeshvj99)
 - [mondara] (https://github.com/Mondara)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
@@ -152,6 +155,7 @@
 - [dongbin](https://github.com/dobi02)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
+- [Seerat]
 - [David Brudnicki] (https://github.com/dbrudnicki)
 - [Jakey08] (https://github.com/Jakey08)
 - [Johnson Nguyen](https://github.com/jhoangnguyen)
@@ -695,6 +699,7 @@
 - [Skyz03](https://github.com/Skyz03)
 - [Jean-Baptiste Edouard](https://github.com/Jean-Baptiste-E)
 - [Peder Schroeder](https://github.com/schroepn/)
+- [Luqmaan hakeem](https://github.com/rghdrizzle)
 - [Matthias Ikuenobe](https://github.com/TheRealOsy/)
 - [Tim Wong] (https://github.com/timwong00)
 - [Shreenath Siriyala](https://github.com/ShreeTheTree)
@@ -3473,9 +3478,12 @@ Disguy
 - [frhamadiansyah](https://github.com/frhamadiansyah)
 - [josh watkins](https://github.com/darkwolf86)
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
+- [Tiago Geraldes]
 - [S Palmer](https://github.com/s-palmer)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
 - [Luiz Mainart](https://github.com/LuizDMM)
 - [André Felipe](https://github.com/liipeandre)
 - [David Gentile](https://github.com/dcgentile)
+- [nakahira](https://github.com/xuzhongping)
+- [rgredel](https://github.com/rgredel)
 <!-- prettier-ignore-end -->
