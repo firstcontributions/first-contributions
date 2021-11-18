@@ -12,6 +12,7 @@
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
 - [Nevil Mills](https://github.com/nevilmills)
+- [Cody Freese](https://github.com/BlueViper8907)
 - [tofdaj] (https://github.com/tofdaj)
 - [ahmedr2001] (https://github.com/ahmedr2001)
 - [Zain-Amroti] (https://github.com/zainamroti)
