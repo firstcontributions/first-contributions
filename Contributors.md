@@ -2036,6 +2036,7 @@ Himanshu Dedha
 - [Ruben Renteria](https://github.com/rubenren)
 - [Ryan Lynch](https://github.com/UniqueClone)
 - [armanabkar](https://github.com/armanabkar)
+- [Elias Roberts](https://github.com/erobertsdev)
 - [Yashraj Motwani](https://github.com/Yash117)
 - [Evgeny Vlasov](https://github.com/vlasove)
 - [Richard Cook](https://github.com/richastral)
