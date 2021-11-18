@@ -35,7 +35,7 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.fr.md">Français</a>
         </td>
         <td>
-           <a href="../translations/README.es.md">Español</a>
+           <a href="../translations/README.es.md">Español</a>>
         </td>
     </tr>
     <tr>
