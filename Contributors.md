@@ -7,6 +7,7 @@
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
+- [Dhanush Nadella] (https://github.com/dnadella787)
 - [Nevil Mills](https://github.com/nevilmills)
 - [tofdaj] (https://github.com/tofdaj)
 - [ahmedr2001] (https://github.com/ahmedr2001)
