@@ -3475,6 +3475,7 @@ Disguy
 - [frhamadiansyah](https://github.com/frhamadiansyah)
 - [josh watkins](https://github.com/darkwolf86)
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
+- [Tiago Geraldes]
 - [S Palmer](https://github.com/s-palmer)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
 - [Luiz Mainart](https://github.com/LuizDMM)
