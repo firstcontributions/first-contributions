@@ -10,6 +10,7 @@
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
+- [Krinish Radadiya](https://github.com/krinish291)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
 - [Nevil Mills](https://github.com/nevilmills)
