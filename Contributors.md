@@ -697,6 +697,7 @@
 - [Skyz03](https://github.com/Skyz03)
 - [Jean-Baptiste Edouard](https://github.com/Jean-Baptiste-E)
 - [Peder Schroeder](https://github.com/schroepn/)
+- [Luqmaan hakeem](https://github.com/rghdrizzle)
 - [Matthias Ikuenobe](https://github.com/TheRealOsy/)
 - [Tim Wong] (https://github.com/timwong00)
 - [Shreenath Siriyala](https://github.com/ShreeTheTree)
