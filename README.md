@@ -161,6 +161,11 @@ git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
+## Added Authentication through CLI
+
+If you get this error while trying to push your branch 'Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.' Refer the following article:
+<a href="https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/">Token Authentication for git operations.</a>
+
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
