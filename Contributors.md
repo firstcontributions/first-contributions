@@ -1,8 +1,11 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Hardik Patel](https://github.com/hardikgpatel)
+- [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
 - [Nishit Sheth] (https://github.com/nishitinfo)
+- [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
@@ -10,9 +13,11 @@
 - [Amrendra Singh] (https://github.com/amrendra01)
 - [Daniel Ty] (https://github.com/tydan3)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
+- [Dhruv Chandrani] (https://github.com/dchandrani)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
 - [Krinish Radadiya](https://github.com/krinish291)
+- [Karan Ganwani](https://github.com/karan-97)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
@@ -2499,6 +2504,7 @@ Himanshu Dedha
 - [Meshal Najdi](https://github.com/MeshalNajdi)
 - [Sandipan Paul](https://github.com/SandipanPaul)
 - [Abhiram Alluri](https://github.com/Abhiram0907)
+- [Jigar Bhaliya] (https://github.com/Bhaliya-jigar)
 - [Muhammad Afif Nur Azizi](https://github.com/petrikorsubuh)
 - [Nimisha Vijay](https://github.com/nimisha-vijay)
 - [Mohamed Azhar](https://github.com/mohamed-azhar/)
