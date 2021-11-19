@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
@@ -10,9 +11,11 @@
 - [Amrendra Singh] (https://github.com/amrendra01)
 - [Daniel Ty] (https://github.com/tydan3)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
+- [Dhruv Chandrani] (https://github.com/dchandrani)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
 - [Krinish Radadiya](https://github.com/krinish291)
+- [Karan Ganwani](https://github.com/karan-97)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
