@@ -8,6 +8,7 @@
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
+- [Hardik Patel](https://github.com/hardikpatel0884)
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Amrendra Singh] (https://github.com/amrendra01)
 - [Daniel Ty] (https://github.com/tydan3)
