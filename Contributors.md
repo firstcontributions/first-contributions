@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Hardik Patel](https://github.com/hardikgpatel)
 - [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
