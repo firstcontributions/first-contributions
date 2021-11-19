@@ -3,9 +3,13 @@
 <!-- prettier-ignore-start -->
 - [Vats Patel](https://github.com/Vats14)
 - [ACF](https//github.com/adriancf-br)
-- [Pratik Ramteke](https://github.com/pratikramteke)
 - [Daniel Corwin](https://github.com/dcrwn)
 - Vinayaka Hegde
+- [Ayesha Pathan](https://github.com/ayesha1026)
+- [Nishit Sheth](https://github.com/nishitinfo)
+- [Dhavalketu Darji](https://github.com/dhavalketu)
+- [Pratik Ramteke](https://github.com/pratikramteke)
+- [Hardik Patel](https://github.com/hardikpatel0884)
 - [Alvin Masaba](https://github.com/funkyman3121)
 - [Amrendra Singh](https://github.com/amrendra01)
 - [Daniel Ty](https://github.com/tydan3)
