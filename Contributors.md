@@ -1150,6 +1150,7 @@ Shubham Gupta
 - [m0nusingh](http://github.com/m0nusingh)
 - [Sohid Ullah](https://github.com/shdrana)
 - [Yash Agrawal](http://github.com/yashagrawal457)
+- [Sam Tee] (https://github.com/Asanim)
 - [Rahul RK](https://github.com/DevTMK)
 - [Ben Martens](https://github.com/BenMartens15)
 - [rorondre](https://github.com/rorondre)
