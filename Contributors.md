@@ -528,6 +528,7 @@
 - [Fabien Lallemand](https://github.com/Despprie)
 - [Sathish Velayudam](https://github.com/therealskv)
 - [Sarthak Shah](https://github.com/saither0204)
+- [Josh Bolipata](https://github.com/JugjugB)
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Nagulapally Anudeep] (https://github.com/Nagulapally-Anudeep)
 - [Madan](https://github.com/Madanaa)
