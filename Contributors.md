@@ -3494,4 +3494,5 @@ Disguy
 - [nakahira](https://github.com/xuzhongping)
 - [rgredel](https://github.com/rgredel)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
+- [R Haffer](https://github.com/rhaffer)
 <!-- prettier-ignore-end -->
