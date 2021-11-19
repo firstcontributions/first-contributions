@@ -2501,6 +2501,7 @@ Himanshu Dedha
 - [Meshal Najdi](https://github.com/MeshalNajdi)
 - [Sandipan Paul](https://github.com/SandipanPaul)
 - [Abhiram Alluri](https://github.com/Abhiram0907)
+- [Jigar Bhaliya] (https://github.com/Bhaliya-jigar)
 - [Muhammad Afif Nur Azizi](https://github.com/petrikorsubuh)
 - [Nimisha Vijay](https://github.com/nimisha-vijay)
 - [Mohamed Azhar](https://github.com/mohamed-azhar/)
