@@ -2425,6 +2425,7 @@ Himanshu Dedha
 - [Yysoim](https://github.com/yysoim)
 - [Mahdhi Rezvi](https://github.com/Mahdhir)
 - [Aldilas](https://github.com/aldeetropolis)
+- [Tim Dimas](https://github.com/timdim10)
 - [Alexandre Merched](https://github.com/artismyname)
 - [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
 - [Makarov Ilya 🌲](https://github.com/makarilyaev)
