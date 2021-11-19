@@ -16,6 +16,7 @@
 - [Daniel Ty] (https://github.com/tydan3)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Dhruv Chandrani] (https://github.com/dchandrani)
+- [Jay Rajvadiya](https://github.com/jayrajvadiya123)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
 - [Krinish Radadiya](https://github.com/krinish291)
