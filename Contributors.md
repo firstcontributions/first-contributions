@@ -56,6 +56,7 @@
 - [Russell Buck] (https://github.com/buckage)
 - [Subinoy Dutta] (https://github.com/subi9)
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
+- [casperera] (https://github.com/casperera)
 - [Gmelon] (https://github.com/gmelon)
 - [Puneet Jain] (https://github.com/puneetjain05)
 - [B Pinches] (https://github.com/benpinc)
