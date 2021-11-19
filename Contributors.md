@@ -1,7 +1,6 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
@@ -12,6 +11,7 @@
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
+- [Vats Patel] (https://github.com/Vats14)
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
