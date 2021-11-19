@@ -13,6 +13,7 @@
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
 - [Krinish Radadiya](https://github.com/krinish291)
+- [Karan Ganwani](https://github.com/karan-97)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
