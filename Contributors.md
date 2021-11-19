@@ -3496,4 +3496,5 @@ Disguy
 - [rgredel](https://github.com/rgredel)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
+- [nishitinfo](https://github.com/nishitinfo)
 <!-- prettier-ignore-end -->
