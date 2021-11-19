@@ -57,6 +57,7 @@
 - [Ayume Francis](https://github.com/francis556)👀 🤫
 - [JamileQueiroz](https://github.com/JamileQueiroz)
 - [Park Seongbin](https://github.com/SeongbinPark82)
+- [Sarah DeMercurio](https://github.com/sdemercurio) 💃
 - [kkatottn](https://github.com/kkatottn)
 - [cs-z](https://github.com/cs-z)
 - [Saad Rizwan](https://github.com/SaadRizwanKhan) 🇵🇰
