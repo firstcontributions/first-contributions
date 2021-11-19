@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
