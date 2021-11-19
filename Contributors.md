@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [ACF] (https//github.com/adriancf-br)
+- [Nishit Sheth] (https://github.com/nishitinfo)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
