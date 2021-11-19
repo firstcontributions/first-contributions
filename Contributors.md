@@ -3511,4 +3511,5 @@ Disguy
 - [rgredel](https://github.com/rgredel)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
+- [Dawid Nowak](https://github.com/DawidNowak)
 <!-- prettier-ignore-end -->
