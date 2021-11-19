@@ -1951,6 +1951,7 @@ Himanshu Dedha
 - [Mark Denkert](https://github.com/DenkertM/)
 - [Rushikesh](https://github.com/RUSHI-15)
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
+- [Arpan Goswami](https://github.com/arpangoswami)
 - [Arvind](https://github.com/01arvind)
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
 - [Bashar Zahalka](https://github.com/Basharza)
