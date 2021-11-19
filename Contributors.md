@@ -1200,6 +1200,7 @@ Himanshu Dedha
 - [Brahim Boulhend](https://github.com/l7aje)
 - [Ruta R](https://github.com/RReiso)
   [MMA](https://github.com/MyatMinAung)
+- [Sam Tee](https://github.com/Asanim)
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Urwashi Kumrawat](https://github.com/uru0120)
