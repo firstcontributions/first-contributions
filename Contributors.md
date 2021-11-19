@@ -4,6 +4,7 @@
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
+- [Nishit Sheth](https://github.com/nishitinfo)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
