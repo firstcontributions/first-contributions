@@ -11,6 +11,7 @@
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [JGM01] (https://github.com/JGM01/)
+- [Vats Patel](https://github.com/Vats14)
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
