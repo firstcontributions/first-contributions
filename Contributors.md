@@ -12,6 +12,7 @@
 - Vinayaka Hegde
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Alvin Masaba] (https://github.com/funkyman3121)
+- [Ajay Kannan](https://github.com/Ajay-Kannan7)
 - [Amrendra Singh] (https://github.com/amrendra01)
 - [Daniel Ty] (https://github.com/tydan3)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
