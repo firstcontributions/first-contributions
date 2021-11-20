@@ -210,6 +210,7 @@
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
 - [Hardik]
+- [Naman Sharma](https://github.com/nmnsharma007)
 - [Maxime Studter](https://github.com/MaximeSTUDTER)
 - [Nadeem Abdelkader](https://github.com/Nadeem-Abdelkader)
 - [Rosa Blanca Baker](https://github.com/sugarmango)
