@@ -1,6 +1,8 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+
+- [Deepak Kumar](https://github.com/dth99)
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Vats Patel] (https://github.com/Vats14)
