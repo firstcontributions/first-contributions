@@ -1965,6 +1965,7 @@ Himanshu Dedha
 - [Curt House](https://github.com/Neurum)
 - [Mark Denkert](https://github.com/DenkertM/)
 - [Rushikesh](https://github.com/RUSHI-15)
+- [Chris Dickson](https://github.com/DicksonChris)
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
 - [Arpan Goswami](https://github.com/arpangoswami)
 - [Arvind](https://github.com/01arvind)
