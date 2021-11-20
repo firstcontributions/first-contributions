@@ -100,6 +100,7 @@
 - [Lucky225](https://github.com/lucky225)
 - [beauhomme](https://github.com/beauhomme/)
 - [hyeongil](https://github.com/201HI)
+- [Rajat Sharma](https://github.com/rajat4984)
 - [Yohannes Ketema](https://github.com/JohnZDictator)
 - [karam koujan](https://github.com/karam-koujan)
 - [Jenna Franco](https://github.com/myinnernerd)
