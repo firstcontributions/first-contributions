@@ -142,6 +142,7 @@
 - [joshmal9999](https://github.com/joshmal9999)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
 - [Sarah Akinkunmi](https://github.com/oluwadamiloju)
+- [Rashad Arfan](https://github.com/rashad93)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Abdullah Zahid](https://github.com/mxzahid)
 - [Adithya SM](https://github.com/Adithya65)
