@@ -1207,6 +1207,7 @@ Himanshu Dedha
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [John L.](https://github.com/bubbles91)
+- [Shubham Kale](https://github.com/HeyItsShubhamKale)
 - [MOHAMMED SHAMIL K](https://github.com/shamilkotta)
 - [Ritesh](https://github.com/RiteshK555)
 - [Ayush Mehrotra] (https://github.com/code-ayu)
