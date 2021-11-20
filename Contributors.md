@@ -4,6 +4,7 @@
 - [ACF] (https//github.com/adriancf-br)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
+- [Sarah Napoleon]
 - Vinayaka Hegde
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Amrendra Singh] (https://github.com/amrendra01)
@@ -134,7 +135,6 @@
 - [Adithya SM](https://github.com/Adithya65)
 - [[Sahira Bibi](https://github.com/sahirabibi)
 - [Michael Davitt](https://github.com/michaeldavitt)
-- [Sarah Napoleon]
 - [Owen Nowakowski](https://github.com/onowakow)
 - [Alex Morrell] (https://github.com/amorrell2002)
 - [Noel Gore](https://github.com/NoelGore)
