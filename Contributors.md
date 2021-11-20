@@ -3514,4 +3514,5 @@ Disguy
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
 - [Dawid Nowak](https://github.com/DawidNowak)
+- [HridoyHazard](https://github.com/HridoyHazard)
 <!-- prettier-ignore-end -->
