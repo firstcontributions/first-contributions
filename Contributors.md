@@ -3521,6 +3521,7 @@ Disguy
 - [André Felipe](https://github.com/liipeandre)
 - [David Gentile](https://github.com/dcgentile)
 - [nakahira](https://github.com/xuzhongping)
+- [Sarah Napoleon]
 - [rgredel](https://github.com/rgredel)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
