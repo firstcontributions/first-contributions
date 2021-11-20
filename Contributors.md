@@ -3519,4 +3519,6 @@ Disguy
 - [R Haffer](https://github.com/rhaffer)
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
+- [Ritik mehra](https://github.com/rtk18)
+
 <!-- prettier-ignore-end -->
