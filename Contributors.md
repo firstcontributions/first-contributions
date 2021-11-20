@@ -4,7 +4,6 @@
 - [ACF] (https//github.com/adriancf-br)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
-- [Sarah Napoleon]
 - Vinayaka Hegde
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Amrendra Singh] (https://github.com/amrendra01)
@@ -3492,5 +3491,6 @@ Disguy
 - [André Felipe](https://github.com/liipeandre)
 - [David Gentile](https://github.com/dcgentile)
 - [nakahira](https://github.com/xuzhongping)
+- [Sarah Napoleon]
 - [rgredel](https://github.com/rgredel)
 <!-- prettier-ignore-end -->
