@@ -219,6 +219,7 @@
 - [Rosa Blanca Baker](https://github.com/sugarmango)
 - [GJCode](https://github.com/GJGits)
 - [Joshua Reyes](https://github.com/j-reyes314)
+- [Gurman Toor](https://github.com/GurmanToor)
 - [Mohsen Rokni](https://github.com/roknimohsen)
 - [Burim Koci](https://github.com/bkocii)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
