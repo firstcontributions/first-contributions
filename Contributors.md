@@ -3523,4 +3523,5 @@ Disguy
 - [R Haffer](https://github.com/rhaffer)
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
+- [Michelle Gude](https://github.com/michellecgude)
 <!-- prettier-ignore-end -->
