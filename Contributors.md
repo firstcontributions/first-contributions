@@ -1110,6 +1110,7 @@ Pranjal
 - [Ian Mena}(https://github.com/ian0000)
 - [Gana Sai Teja](https://github.com/gana-18)
 - [Merius TZ](https://github.com/MeriusTz)
+- [Karan Chandekar](https://github.com/KaranChandekar)
 - [MD.Ejaz Hussain](https://github.com/Ejaz29)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Bilal K.](https://github.com/bilalkhann16)
