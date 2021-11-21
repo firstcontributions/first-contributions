@@ -3437,7 +3437,7 @@ Disguy
 - [Pushpendra patwal](https://github.com/SINGHXLb)
 - [cksgnlcjswo](https://github.com/cksgnlcjswo)
 - [Susmith Barigidad] (https://github.com/SusmithBarigidad)
-- Mohammad Sharique (https://github.com/Sharique-stack)
+- [Mohammad Sharique] (https://github.com/Sharique-stack)
 - [Eden Nathan] (https://github.com/dndn10)
 - [Mary Paul] (https://github.com/chauxvive)
 - [Meriem Mounchid] (https://github.com/meriem-mounchid)
@@ -3451,7 +3451,7 @@ Disguy
 - [Daniel Pankratov](https://github.com/DanielPankratov)
 - [Oskar Dragon](https://github.com/oskar-dragon)
 - [Ziyue Zhou](https://github.com/ziyue5)
-[HeonJun] (http://github.com/bluedeepweb)
+- [HeonJun] (http://github.com/bluedeepweb)
 - [Prakita Renatin](https://github.com/Rakagami)
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
@@ -3465,10 +3465,10 @@ Disguy
 - [Fokrule Hasan](https://github.com/modernmusician)
 - [Aaron Backman](https://github.com/AaronBackman)
 - [Jashwantherao](https://github.com/Jashwantherao)
-[FinstonesWZ] (https://github.com/FinstonesWZ)
+- [FinstonesWZ] (https://github.com/FinstonesWZ)
 - [Ewan Pavey](https://github.com/EwanP0208)
 - [Ian D](https://github.com/gid212)
--[WNH](https://github.com/wounnahtun)
+- [WNH](https://github.com/wounnahtun)
 - [Jacob](https://github.com/jacob-ethan)
 - [Alexsandro Bezerra](https://github.com/AlexsandroBezerra)
 - [Hanefi balcı](https://github.com/hanefibalci)
@@ -3529,5 +3529,8 @@ Disguy
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Michelle Gude](https://github.com/michellecgude)
--[Dharansh Neema](https://github.com/Dharansh-Neema)
+- [Dharansh Neema](https://github.com/Dharansh-Neema)
+
+- [Iury Vianna](https://github.com/iurynascimento) > Brazil RJ <
+
 <!-- prettier-ignore-end -->
