@@ -844,6 +844,7 @@
 - [Mohasin Sutar](https://github.com/mohasinsutar)
 - [Raoul Vincent Reyes](https://github.com/rvinrys)
 - [Walid Palekar](https://github.com/palwd8/)
+- sumit
 - [Toyeesh Sinha](https://github.com/bubsy3d)
 - [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Arihant](https://github.com/arihantjain-git/)
