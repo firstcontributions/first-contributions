@@ -3534,6 +3534,7 @@ Disguy
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Michelle Gude](https://github.com/michellecgude)
 - [ksat8384](https://github.com/ksat8384)
--[Dharansh Neema](https://github.com/Dharansh-Neema)
+- [Dharansh Neema](https://github.com/Dharansh-Neema)
 - [Aditi Ojha](https://github.com/aditi824)
+- [Guilherme Natan](https://github.com/guiga1929)
 <!-- prettier-ignore-end -->
