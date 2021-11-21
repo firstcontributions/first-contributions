@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [NIU ZJ](https://github.com/day0n)
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
@@ -3421,9 +3422,7 @@ Disguy
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
 - [Musadiq Peerzada](https://github.com/musadiqpeerzada)
-
 - [Subin Park](https://github.com/IamSOL1)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
