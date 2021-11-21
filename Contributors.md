@@ -51,6 +51,7 @@
 - [Mim1c] (https://https://github.com/Mim1c)
 - [Anjan] (https://github.com/anjanbaradwaj)
 - [MTM] (https://github.com/MyoThetMaung)
+- [Harish Kumar] (https://github.com/h-kumar)
 - [Amanda Adoyi] (https://github.com/lonercode)
 - [John Farina] (https://github.com/jfarina5)
 - [Manoj Gopale] (https://github.com/ManojGopale)
