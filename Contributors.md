@@ -62,6 +62,7 @@
 - [Puneet Jain] (https://github.com/puneetjain05)
 - [B Pinches] (https://github.com/benpinc)
 [Laura Markus] (https://github.com/lauramarkus)
+- [Aryan Raj] (hhtps://github.com/aryan0103raj)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
@@ -3515,6 +3516,7 @@ Disguy
 - [JJeeff248](https://github.com/JJeeff248)
 - [AngelaDev](https://github.com/AngelaDev93):purple_heart:
 - [frhamadiansyah](https://github.com/frhamadiansyah)
+- [AnunaySharma] (https://github.com/AnunaySharma2)
 - [josh watkins](https://github.com/darkwolf86)
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
 - [Tiago Geraldes]
@@ -3531,6 +3533,9 @@ Disguy
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Michelle Gude](https://github.com/michellecgude)
--[Dharansh Neema](https://github.com/Dharansh-Neema)
+- [Dharansh Neema](https://github.com/Dharansh-Neema)
 - [Sebastien Cailleau](https://github.com/Sebastien-Cailleau)
+- [ksat8384](https://github.com/ksat8384)
+- [Aditi Ojha](https://github.com/aditi824)
+- [Guilherme Natan](https://github.com/guiga1929)
 <!-- prettier-ignore-end -->
