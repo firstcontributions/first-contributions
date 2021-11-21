@@ -3532,4 +3532,5 @@ Disguy
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Michelle Gude](https://github.com/michellecgude)
 -[Dharansh Neema](https://github.com/Dharansh-Neema)
+- [Sebastien Cailleau](https://github.com/Sebastien-Cailleau)
 <!-- prettier-ignore-end -->
