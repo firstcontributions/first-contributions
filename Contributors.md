@@ -2,7 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Hardik Patel](https://github.com/hardikgpatel)
-- [NIU ZJ](https://github.com/day0n)
+- [NIU](https://github.com/day0n)
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
