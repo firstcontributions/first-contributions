@@ -3533,8 +3533,9 @@ Disguy
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Michelle Gude](https://github.com/michellecgude)
-- [ksat8384](https://github.com/ksat8384)
 - [Dharansh Neema](https://github.com/Dharansh-Neema)
+- [Sebastien Cailleau](https://github.com/Sebastien-Cailleau)
+- [ksat8384](https://github.com/ksat8384)
 - [Aditi Ojha](https://github.com/aditi824)
 - [Guilherme Natan](https://github.com/guiga1929)
 <!-- prettier-ignore-end -->
