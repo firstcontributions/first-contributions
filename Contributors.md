@@ -1648,6 +1648,7 @@ Himanshu Dedha
 - [Brandon Ray](https://github.com/brandonaray)
 - [Kaveesh Khattar](https://github.com/KaveeshKhattar)
 - [Prateek Singh](https://github.com/psb27)
+- [Hassaan Sheikh](https://github.com/HassaanSheikh)
 - [Piyush Goyal](https://github.com/PiyushGoyal)
 - [Flix](https://github.com/FlixProd/)
 - [Alexander Nguyen](https://github.com/GalexyN)
