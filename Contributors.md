@@ -24,6 +24,7 @@ James Smith
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Karan Ganwani](https://github.com/karan-97)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
+- [Luiz Junior](https://github.com/LuizAPJunior)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
 - [Nevil Mills](https://github.com/nevilmills)
