@@ -10,6 +10,7 @@
 James Smith
 - [ce3team] (https://github.com/ce3team)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
+- Yash Kharche (https://github.com/YashKharche)
 - [AungThuZaw] (https://github.com/AungThuZaw20)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - [Avinash Prasad] (https://github.com/avionmission)
