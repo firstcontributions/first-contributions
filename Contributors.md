@@ -3542,6 +3542,7 @@ Disguy
 - [nakahira](https://github.com/xuzhongping)
 - [Sarah Napoleon]
 - [rgredel](https://github.com/rgredel)
+- [Afe] (https://github.com/afeexclusive)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
 - [Raine Legary](https://github.com/Rainethhh)
