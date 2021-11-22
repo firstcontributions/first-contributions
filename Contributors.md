@@ -3533,6 +3533,7 @@ Disguy
 - [rgredel](https://github.com/rgredel)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
+- [Raine Legary](https://github.com/Rainethhh)
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Michelle Gude](https://github.com/michellecgude)
