@@ -495,6 +495,9 @@ James Smith
 - [Sindhura K S](https://github.com/sindhuraks)
 - [Cambell X](https://github.com/CambellX)
 - Tanu
+- Yash Kharche (https://github.com/YashKharche)
+- [Yash Kharche](https://github.com/YashKharche)
+
 - [Ashray Gattani](https://github.com/AshrayGattani)
 - [Sharad Maurya] (https://github.com/GODSPE3D)
 - [Jorge Tadeo](https://github.com/JorgeTadeo)
