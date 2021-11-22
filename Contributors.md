@@ -12,6 +12,7 @@ James Smith
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [AungThuZaw] (https://github.com/AungThuZaw20)
 - [Daniel Corwin] (https://github.com/dcrwn)
+- [Avinash Prasad] (https://github.com/avionmission)
 - Vinayaka Hegde
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Alvin Masaba] (https://github.com/funkyman3121)
