@@ -2138,6 +2138,7 @@ Himanshu Dedha
 - [Ehsan Gudarzi](http://github.com/gudarzi)
 - [Jacob Mason](http://github.com/JacobMason83)
 - [hadi chloun](https://github.com/hadichloun)
+- [TerminusEst](https://github.com/TerminusEstJ)
 - [Ciantera Rose](http://github.com/ciantera)
 - [Walter G Silver](https://github.com/waltergpc)
 - [Shashank](https://github.com/wayne-197)
