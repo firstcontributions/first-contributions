@@ -10,6 +10,7 @@
 James Smith
 - [ce3team] (https://github.com/ce3team)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
+- [AungThuZaw] (https://github.com/AungThuZaw20)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
 - [Hardik Patel](https://github.com/hardikpatel0884)
