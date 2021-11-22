@@ -240,6 +240,7 @@ James Smith
 - [Jeo Vela](https://github.com/jeovela)
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
+- [Antti Tuomola](https://github.com/anttituomola)
 - [Alina Ryan](https://github.com/AlinaRyan)
 - [Berk Topbas](https://github.com/the-alchemist88)
 - [Amir Mohammad Hl](https://github.com/Imorate)
