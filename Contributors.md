@@ -39,6 +39,7 @@ James Smith
 - [Bhavani Prasad] (https://github.com/bhavaniatja)
 - [eton-codes](https://github.com/eton-codes)
 - [Matttx](https://github.com/Matttx)
+- [Enrique Ji](https://github.com/enriquejiwa)
 - [SayamJain1](https://github.com/SayamJain1)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
