@@ -3553,4 +3553,5 @@ Disguy
 - [Aditi Ojha](https://github.com/aditi824)
 - [Guilherme Natan](https://github.com/guiga1929)
 - [Sangam Choudhary](https://github.com/Sangamchoudhary)
+- [Paulo Ferraz] (https://github.com/paulosgf)
 <!-- prettier-ignore-end -->
