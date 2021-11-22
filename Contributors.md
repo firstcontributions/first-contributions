@@ -1230,7 +1230,6 @@
 - +AFs-Abror Xalilov+AF0-(https://github.com/Abror1997)
 - +AFs-Andreja Ho+AF0-(https://github.com/AndrejaCH)
 - +AFs-z-hymn+AF0-(https://github.com/z-hymn)
-- Varun 
 - +AFs-Rashmi Duleesha+AF0-(https://github.com/Rashmildp)
 - +AFs-Kacper Barabasz+AF0-(https://github.com/Borub-ar)
 - +AFs-Fahd Sultan+AF0-(https://github.com/sfsultan)
@@ -1660,6 +1659,7 @@
 - +AFs-kouki+AF0-(https://github.com/koukihk)
 - +AFs-lbxx123456+AF0-(https://github.com/lbxx123456)
 - Lazy1
+- Varun
 - +AFs-Sumit Banwakade+AF0-(https://github.com/Sumit4482)
 - +AFs-Alok Verma+AF0-(https://github.com/alokverma749)
 - +AFs-Agung Kurnia Robbi+AF0-(https://github.com/agungrobbi)
