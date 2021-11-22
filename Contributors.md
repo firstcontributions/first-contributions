@@ -8,6 +8,7 @@
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 James Smith
+- [Alexander Durach] (https://github.com/AlexDur)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - Vinayaka Hegde
