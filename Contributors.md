@@ -9,6 +9,7 @@
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 James Smith
 - [ce3team] (https://github.com/ce3team)
+- [Adrian Acosta] (https://github.com/AdrianAcostaPR)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [AungThuZaw] (https://github.com/AungThuZaw20)
 - [Daniel Corwin] (https://github.com/dcrwn)
