@@ -3561,4 +3561,5 @@ Disguy
 - [Guilherme Natan](https://github.com/guiga1929)
 - [Sangam Choudhary](https://github.com/Sangamchoudhary)
 - [Emilio Morbidoni](https://github.com/emiliomrb)
+- [coko-go](https://github.com/coko-go)
 <!-- prettier-ignore-end -->
