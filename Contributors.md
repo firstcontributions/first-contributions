@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
