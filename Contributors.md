@@ -220,6 +220,7 @@
 - [Ankit Choudhary] https://github.com/ankit017
 - [Matthew McAndrews] (https://github.com/MatthewMcAndrews)
 - [Rahul Goswami] https://github.com/gosrahul21
+- [Solevni]
 - [dewhallez] https://github.com/dewhallez
 - [Willen Yang] (https://github.com/yangxile4)
 - [Keen1] (https://github.com/Keen1)
