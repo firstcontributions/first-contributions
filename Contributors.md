@@ -98,6 +98,7 @@
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
 - [Timo Chen] (https://github.com/kunkun9811)
+- [Harvinder Singh](https://github.com/Happy-developing/)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Nathan Lin] (https://github.com/nathanlin109)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
