@@ -7,7 +7,8 @@
 - [ACF] (https//github.com/adriancf-br)
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
-James Smith
+- [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
+- James Smith
 - [ce3team] (https://github.com/ce3team)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [AungThuZaw] (https://github.com/AungThuZaw20)
