@@ -3566,4 +3566,5 @@ Disguy
 - [Emilio Morbidoni](https://github.com/emiliomrb)
 - [coko-go](https://github.com/coko-go)
 - [Yinan Yang](https://github.com/nango94213)
+- [Nisarg Jhatakia](https://github.com/Nisarg000)
 <!-- prettier-ignore-end -->
