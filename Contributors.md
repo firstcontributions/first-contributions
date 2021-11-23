@@ -2265,6 +2265,7 @@ Himanshu Dedha
 - [Japar Sidik](https://github.com/Jersk41)S
 - [Anna Porofijeva](https://github.com/annayeva)
 - [Joseph Harrison](https://github.com/BanJoeH)
+- [Kevin Joseph](https://github.com/kevinjosephh)
 - [Daniel Madden](https://wordpress.com/home/behindakeyboard.wordpress.com)
 - [Brock Henry](https://github.com/entropical)
 - [Jim Chen](https://github.com/skymarkC)
