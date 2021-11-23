@@ -3563,4 +3563,5 @@ Disguy
 - [Sangam Choudhary](https://github.com/Sangamchoudhary)
 - [Emilio Morbidoni](https://github.com/emiliomrb)
 - [coko-go](https://github.com/coko-go)
+- [Yinan Yang](https://github.com/nango94213)
 <!-- prettier-ignore-end -->
