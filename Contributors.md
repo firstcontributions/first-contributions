@@ -7,6 +7,7 @@
 - [Vats Patel] (https://github.com/Vats14)
 - [ACF] (https//github.com/adriancf-br)
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
+- [DJ Taylor](https://github.com/djtaylor8)
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
