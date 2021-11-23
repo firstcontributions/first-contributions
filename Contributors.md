@@ -3454,6 +3454,7 @@ Disguy
 - [Adrian Tsang](https://github.com/ahwtsang)
 - [ByeongJun Kim](https://github.com/tlswkdpgla)
 - [Armm Supakorn](https://github.com/armspkt)
+- [Vaibhav Pawar](https://github.com/PawarVaibhav446)
 - [Kimmo Saari](https://github.com/kirbo)
 - [Ígor Rodrigues](https://github.com/Igorjr19)
 - [Pushpendra patwal](https://github.com/SINGHXLb)
