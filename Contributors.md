@@ -37,6 +37,7 @@
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
 - [Nevil Mills](https://github.com/nevilmills)
+- [Tomáš Kukumberg](https://github.com/TomasKukumberg)
 - [Cody Freese](https://github.com/BlueViper8907)
 - [Mode Waldon](https://github.com/ModeSelectStart)
 - [Shaun Purslow](https://github.com/shaund16)
