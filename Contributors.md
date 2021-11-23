@@ -5,6 +5,7 @@
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Vats Patel] (https://github.com/Vats14)
+- [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [ACF] (https//github.com/adriancf-br)
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
