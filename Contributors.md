@@ -3570,4 +3570,5 @@ Disguy
 - [coko-go](https://github.com/coko-go)
 - [Yinan Yang](https://github.com/nango94213)
 - [Nisarg Jhatakia](https://github.com/Nisarg000)
+- [Patryk Dziurkowski](https://github.com/patrykdziurkowski)
 <!-- prettier-ignore-end -->
