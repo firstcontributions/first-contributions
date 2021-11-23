@@ -3370,6 +3370,7 @@ Disguy
 - [Chad MacLean] (https://github.com/ChadRMacLean)
 - [Dana Cartright] (https://github.com/dlcartright)
 - [Karthik Taduvai] (https://github.com/karthiktaduvai)
+- [Yorozu Okuchi] (https://github.com/okuchi-yorozu)
 - [Krishna Prabhakar]
  -[Marco Valle] (https://github.com/MarcoValleCS/)
 - [Fernando Correa] (https://github.com/fer-correa)
