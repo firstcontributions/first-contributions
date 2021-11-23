@@ -3571,4 +3571,5 @@ Disguy
 - [Yinan Yang](https://github.com/nango94213)
 - [Nisarg Jhatakia](https://github.com/Nisarg000)
 - [Patryk Dziurkowski](https://github.com/patrykdziurkowski)
+- [Tanay Jha](https://github.com/tanay-jha)
 <!-- prettier-ignore-end -->
