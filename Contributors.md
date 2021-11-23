@@ -1198,6 +1198,7 @@ Himanshu Dedha
 - [Souvik Das](https://github.com/whyucode)
 - [ahop1](https://github.com/ahop1)
 - [jackson batty](https://github.com/jacksonbatty)
+- [pranit patil](https://github.com/PranitPatil03)
 - [Ye Htet Aung](https://github.com/tony-yh91)
 - [Antonio Martinez](https://github.com/op3n-signal)
 - [Vaishnavi Sridhar](https://github.com/vaishsridh)
