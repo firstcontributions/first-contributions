@@ -7,7 +7,7 @@
 - [Advait Jain](https://github.com/Zoronium)
 - [Vats Patel] (https://github.com/Vats14)
 - [Nitesh Kumar](https://github.com/NITESH37)
-- [ACF] (https//github.com/adriancf-br)
+- [ACF] (https://github.com/adriancf-br)
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
@@ -222,20 +222,20 @@
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
-- [rosa-xo](https://github.com/rosa-xo) 
+- [rosa-xo](https://github.com/rosa-xo)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Brandon Simon](https://github.com/simonbr2)
 - [Noah] (https://github.com/noah-yac)
 - [Ajith S]()
 - [YangSeokwon] (https://github.com/Y-seokwon/first-contributions.git)
-- [Shilpa Elluru]ttps://github.com/shilpa-elluru
-- [Sanzida Luna] https://github.com/SanzidaMojibLuna
-- [Ankit Choudhary] https://github.com/ankit017
+- [Shilpa Elluru] (https://github.com/shilpa-elluru)
+- [Sanzida Luna] (https://github.com/SanzidaMojibLuna)
+- [Ankit Choudhary] (https://github.com/ankit017)
 - [Matthew McAndrews] (https://github.com/MatthewMcAndrews)
-- [Rahul Goswami] https://github.com/gosrahul21
+- [Rahul Goswami] (https://github.com/gosrahul21)
 - [Solevni]
-- [dewhallez] https://github.com/dewhallez
+- [dewhallez] (https://github.com/dewhallez)
 - [Willen Yang] (https://github.com/yangxile4)
 - [Keen1] (https://github.com/Keen1)
 - [Deepmala Mittal] (https://github.com/deepmalamittal)
@@ -433,7 +433,7 @@
 - [Shahid Hussain](https://github.com/Shahid0120)
 - [Sachin Singh](https://github.com/thesachinsingh)
 - [Tyler Alexander](https://github.com/klikx)
-- [Pratik ](https://github.com/WarlordSam07)
+- [Pratik](https://github.com/WarlordSam07)
 - [Rini]
 - [IsmaFlippad](https://github.com/IsmaFlippad)
 - [Michael Huskey] (https://github.com/mhusk)
@@ -3546,7 +3546,7 @@ Disguy
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
 - [Steve Toms](https://github.com/thermalhound)
-- [Satyam Sinha](https://github.com/satsin06) 
+- [Satyam Sinha](https://github.com/satsin06)
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
