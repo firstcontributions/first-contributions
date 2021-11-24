@@ -3556,6 +3556,7 @@ Disguy
 - [David Gentile](https://github.com/dcgentile)
 - [nakahira](https://github.com/xuzhongping)
 - [Sarah Napoleon]
+- [INAI Yosuke](https://github.com/totoro721)
 - [rgredel](https://github.com/rgredel)
 - [Afe] (https://github.com/afeexclusive)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
