@@ -3585,4 +3585,5 @@ Disguy
 - [Patryk Dziurkowski](https://github.com/patrykdziurkowski)
 - [Tanay Jha](https://github.com/tanay-jha)
 - [Carlo Occhiena](https://github.com/carloocchiena)
+- [Paulo Ferraz](https://github.com/paulosgf)
 <!-- prettier-ignore-end -->
