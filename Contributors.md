@@ -11,6 +11,7 @@
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
+ - 42W
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Wyatt Huang](https://github.com/wyatt-h)
 - [Parth Gupta](https://github.com/gupta-parth)
