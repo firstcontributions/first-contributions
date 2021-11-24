@@ -50,7 +50,7 @@
 - [Shaun Purslow](https://github.com/shaund16)
 - [tofdaj] (https://github.com/tofdaj)
 - [ahmedr2001] (https://github.com/ahmedr2001)
-- [Moro Afriyie](https://github.com/Moro-Afriyie)
+- [Moro Owusu Afriyie](https://github.com/Moro-Afriyie)
 - [Zain-Amroti] (https://github.com/zainamroti)
 - [Bhavani Prasad] (https://github.com/bhavaniatja)
 - [eton-codes](https://github.com/eton-codes)
