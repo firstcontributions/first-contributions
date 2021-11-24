@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [sudoCreate258](https://github.com/sudoCreate258)
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Advait Jain](https://github.com/Zoronium)
