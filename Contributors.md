@@ -39,6 +39,7 @@
 - [Dhruv Chandrani] (https://github.com/dchandrani)
 - [Jay Rajvadiya](https://github.com/jayrajvadiya123)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
+- [42wob] (https://github.com/qduong42/)
 - [JGM01] (https://github.com/JGM01/)
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Karan Ganwani](https://github.com/karan-97)
