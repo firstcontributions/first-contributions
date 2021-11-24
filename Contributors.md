@@ -10,6 +10,7 @@
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
 - [Nishit Sheth](https://github.com/nishitinfo)
+- [Wyatt Huang](https://github.com/wyatt-h)
 - [Parth Gupta](https://github.com/gupta-parth)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
