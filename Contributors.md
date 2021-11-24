@@ -29,6 +29,7 @@
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Ajay Kannan](https://github.com/Ajay-Kannan7)
 - [Amrendra Singh] (https://github.com/amrendra01)
+- Evangelos Spyromilios -> 42Wolfsburg (https://github.com/V-Spyromilios)
 - [Daniel Ty] (https://github.com/tydan3)
 - [designer alabi] (https://github.com/designeralabi)
 - [Perrine Cribier-Delande] (https://github.com/delcrip)
