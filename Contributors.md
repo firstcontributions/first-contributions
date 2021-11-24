@@ -3576,6 +3576,7 @@ Disguy
 - [Raine Legary](https://github.com/Rainethhh)
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
+- [Valentin Simeonov] (https://github.com/garadraw/)
 - [Michelle Gude](https://github.com/michellecgude)
 - [Dharansh Neema](https://github.com/Dharansh-Neema)
 - [Sebastien Cailleau](https://github.com/Sebastien-Cailleau)
