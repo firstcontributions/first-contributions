@@ -1997,6 +1997,7 @@ Himanshu Dedha
 - [Prashant Bhatkal](https://github.com/prashant-btkl)
 - [Arpan Goswami](https://github.com/arpangoswami)
 - [Arvind](https://github.com/01arvind)
+- [Pranit Patil](https://github.com/PranitPatil03)
 - [Thet Win Htwe](https://github.com/thetwinhtwe)
 - [Bashar Zahalka](https://github.com/Basharza)
 - [Ashish Tom](https://github.com/alceil)
