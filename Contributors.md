@@ -27,6 +27,7 @@
 - [Ajay Kannan](https://github.com/Ajay-Kannan7)
 - [Amrendra Singh] (https://github.com/amrendra01)
 - [Daniel Ty] (https://github.com/tydan3)
+- [designer alabi] (https://github.com/designeralabi)
 - [Perrine Cribier-Delande] (https://github.com/delcrip)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Dhruv Chandrani] (https://github.com/dchandrani)
