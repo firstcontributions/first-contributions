@@ -3563,6 +3563,7 @@ Disguy
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
 - [Tiago Geraldes]
 - [S Palmer](https://github.com/s-palmer)
+  [FaisalShakib] (https://github.com/FaisalShakib)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
 - [Luiz Mainart](https://github.com/LuizDMM)
 - [André Felipe](https://github.com/liipeandre)
