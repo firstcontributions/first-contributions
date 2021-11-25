@@ -55,6 +55,7 @@
 - [Luiz Junior](https://github.com/LuizAPJunior)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
+- [Aritra Koley](https://github.com/aritrakoley)
 - [Nevil Mills](https://github.com/nevilmills)
 - [Tomáš Kukumberg](https://github.com/TomasKukumberg)
 - [Cody Freese](https://github.com/BlueViper8907)
