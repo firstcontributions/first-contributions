@@ -3603,4 +3603,5 @@ Disguy
 - [Tanay Jha](https://github.com/tanay-jha)
 - [Carlo Occhiena](https://github.com/carloocchiena)
 - [Paulo Ferraz](https://github.com/paulosgf)
+- [Yasuyuki Araki](https://github/y-araki)
 <!-- prettier-ignore-end -->
