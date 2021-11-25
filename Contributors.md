@@ -3516,6 +3516,7 @@ Disguy
 - [Jashwantherao](https://github.com/Jashwantherao)
 [FinstonesWZ] (https://github.com/FinstonesWZ)
 - [Ewan Pavey](https://github.com/EwanP0208)
+- [serge](https://github.com/serge1994)
 - [Ian D](https://github.com/gid212)
 -[WNH](https://github.com/wounnahtun)
 - [Jacob](https://github.com/jacob-ethan)
