@@ -39,6 +39,7 @@
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Dhruv Chandrani] (https://github.com/dchandrani)
 - [Jay Rajvadiya](https://github.com/jayrajvadiya123)
+- [Justice Petersen](https://github.com/justiceap)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [42wob] (https://github.com/qduong42/)
 - [JGM01] (https://github.com/JGM01/)
