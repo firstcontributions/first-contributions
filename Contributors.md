@@ -45,6 +45,7 @@
 - [Jay Rajvadiya](https://github.com/jayrajvadiya123)
 - [Justice Petersen](https://github.com/justiceap)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
+- [Yuvraj Chaudhari](https://github.com/yuvrajchaudhari03)
 - [42wob] (https://github.com/qduong42/)
 - [JGM01] (https://github.com/JGM01/)
 - [Dhanush Nadella](https://github.com/dnadella787)
