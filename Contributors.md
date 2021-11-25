@@ -29,6 +29,7 @@
 - [Daniel Corwin] (https://github.com/dcrwn)
 - [Avinash Prasad] (https://github.com/avionmission)
 - Vinayaka Hegde
+- [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Ajay Kannan](https://github.com/Ajay-Kannan7)
