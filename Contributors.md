@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [Zodd13](https://github.com/Zodd13)
 - [Xessive Observer](https://github.com/XessiveObserver)
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
