@@ -3580,4 +3580,5 @@ Disguy
 - [Patryk Dziurkowski](https://github.com/patrykdziurkowski)
 - [Tanay Jha](https://github.com/tanay-jha)
 - [Carlo Occhiena](https://github.com/carloocchiena)
+- [Cissoko Boris](https://github.com/cissoko97)
 <!-- prettier-ignore-end -->
