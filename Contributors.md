@@ -3613,4 +3613,5 @@ Disguy
 - [Carlo Occhiena](https://github.com/carloocchiena)
 - [Paulo Ferraz](https://github.com/paulosgf)
 - [Yasuyuki Araki](https://github/y-araki)
+- [Anna Isacson](https://github.com/AIsacson)
 <!-- prettier-ignore-end -->
