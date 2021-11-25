@@ -113,6 +113,7 @@
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Nathan Lin] (https://github.com/nathanlin109)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
+- [Agrim Saharia] (https://github.com/agrimsaharia)
 - [Paulina Liwanag] (https://github.com/linaliwanag)
 - [Neil Gebhard](https://github.com/neilgebhard)
 - [Kid-Chang](https://github.com/Kid-Chang)
