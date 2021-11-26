@@ -3621,4 +3621,5 @@ Disguy
 - [Yasuyuki Araki](https://github/y-araki)
 - [Anna Isacson](https://github.com/AIsacson)
 - [Syahrizal Hanif](https://github.com/rzlco666)
+- [Fredrik Thorild](https://github.com/fthorild)
 <!-- prettier-ignore-end -->
