@@ -3617,4 +3617,5 @@ Disguy
 - [Paulo Ferraz](https://github.com/paulosgf)
 - [Yasuyuki Araki](https://github/y-araki)
 - [Anna Isacson](https://github.com/AIsacson)
+- [Syahrizal Hanif](https://github.com/rzlco666)
 <!-- prettier-ignore-end -->
