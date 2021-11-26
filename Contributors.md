@@ -2506,6 +2506,7 @@ Himanshu Dedha
 - [Alexandre Merched](https://github.com/artismyname)
 - [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
 - [Makarov Ilya 🌲](https://github.com/makarilyaev)
+- [Alexander Firfarov](https://github.com/AlexFirfarov)
 - [billionray](https://github.com/billionray)
 [Alicia Jones] (https://github.com/Lishjones)
 - [NotManyIdeasDev](https://github.com/NotManyIdeasDev)
