@@ -1701,9 +1701,7 @@
 - [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
 - [Loser](https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
-<!-- Renzo Cabarios -->
 - [Renzo Cabarios](https://github.com/renzothenoob) 
-<!-- Renzo Cabarios -->
 - [JPMurara](https://github.com/JPMurara)
 - [PuduManie](https://github.com/JacquesPMvanWyk)
 - [awilkin](https://github.com/awilkin)
