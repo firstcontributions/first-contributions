@@ -3629,4 +3629,5 @@ Disguy
 - [Syahrizal Hanif](https://github.com/rzlco666)
 - Lemmy Hemmingway
 - KHALED AFFAN [MY BLOG](https://khaled3afan@gmail.com)
+- Jonas Pena [MY BLOG](https://github.com/jonasp-dev)
 <!-- prettier-ignore-end -->
