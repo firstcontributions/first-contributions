@@ -17,6 +17,7 @@
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
 - [Nishit Sheth](https://github.com/nishitinfo)
+- [Dave Coleman](https://github.com/dave1c)
 - [Eduard Beiline] (https://github.com/Eduard953)
 - [Wyatt Huang](https://github.com/wyatt-h)
 - [Pietro Nuti](https://github.com/pnuts93)
