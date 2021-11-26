@@ -1409,6 +1409,7 @@ Himanshu Dedha
 - [sunzida311](https://github.com/sunzida311)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
+- [Nawal Ahmad](https://github.com/nawal-ahmad)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [FactorYang](https://github.com/FactorYang)
 - <a href="https://github.com/rjkawoya"> R.J.</a>
