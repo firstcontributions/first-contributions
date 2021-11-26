@@ -115,6 +115,7 @@
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [Sarah DeMercurio](https://github.com/sdemercurio) 💃
 - [kkatottn](https://github.com/kkatottn)
+yejashi
 - [cs-z](https://github.com/cs-z)
 - [Saad Rizwan](https://github.com/SaadRizwanKhan) 🇵🇰
 - [Gourav Kadam](https://github.com/Gourav2404)
