@@ -25,11 +25,11 @@
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
-## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+## <div dir="rtl"> استنسخ هذا المشروع - Fork this Repository </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
 افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
-من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
+من خلال ذلك ستنشىء نسخة من هذا المشروع على حسابك الخاص.
 </div>
 
 ## <div dir="rtl"> استنسخ هذا المشروع - Clone the repository </div>
