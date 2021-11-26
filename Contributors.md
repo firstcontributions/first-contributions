@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Zodd13](https://github.com/Zodd13)
 - [Rishi Kumar](https://github.com/CodesOfRishi)
