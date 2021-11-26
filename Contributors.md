@@ -3621,4 +3621,5 @@ Disguy
 - [Yasuyuki Araki](https://github/y-araki)
 - [Anna Isacson](https://github.com/AIsacson)
 - [Syahrizal Hanif](https://github.com/rzlco666)
+- KHALED AFFAN [MY BLOG](https://khaled3afan@gmail.com)
 <!-- prettier-ignore-end -->
