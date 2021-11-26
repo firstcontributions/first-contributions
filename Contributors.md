@@ -5,6 +5,7 @@
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Zodd13](https://github.com/Zodd13)
 - [Rishi Kumar](https://github.com/CodesOfRishi)
+- [Mohammad Kabbara](https://github.com/mohammadkabbara)
 - [Xessive Observer](https://github.com/XessiveObserver)
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
