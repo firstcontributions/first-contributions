@@ -1358,6 +1358,7 @@ Himanshu Dedha
 - [Nakoya Wilson](https://github.com/nakoyawilson)
 - [Megha Agarwal](https://github.com/Megha184)
 - [Matthew Martinez](https://github.com/lilcobija)
+- [Chaim Cohen](https://github.com/faceless613)
 - [Sachin Hatikankan](https://github.com/SachinHatikankar100)
 - [Chirantan Acharyya](https://github.com/chirantan-acharyya)
 - [Ricardo Chairez](https://github.com/ricardochairez)
