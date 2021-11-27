@@ -17,6 +17,7 @@
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
+- [Jafar Jalilov](https://github.com/jafarjalilov)
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Dave Coleman](https://github.com/dave1c)
 - [Eduard Beiline] (https://github.com/Eduard953)
