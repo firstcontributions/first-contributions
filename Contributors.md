@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Shivam Kumar](https://github.com/shi-ivam)
 -[Marah Musleh](https://github.com/Marahmusleh)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
