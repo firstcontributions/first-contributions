@@ -3639,4 +3639,5 @@ Disguy
 - Jonas Pena [MY BLOG](https://github.com/jonasp-dev)
 - [Shivang Mishra](https://github.com/ShivangM)
 - [Anca](https://github.com/aancaa)
+- [Szy0127](https://github.com/Szy0127)
 <!-- prettier-ignore-end -->
