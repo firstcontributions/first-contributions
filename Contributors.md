@@ -2907,6 +2907,7 @@ Himanshu Dedha
 - [Aleix Anguita Gomez](https://github.com/aleixango)
 - [Leonard Vlaicu](https://github.com/leonard-vlaicu)
 - [Edincodes](https://github.com/edincodes)
+- [Vesna Bozic](https://github.com/VesnaBozic)
 - [levartsang](https://github.com/levartsang)
 - [Taulant Xhakli](https://github.com/taulantxhakli)
 - [VendedorDeWards](https://github.com/VendedorDeWards)
