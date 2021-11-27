@@ -8,6 +8,7 @@
 - [Xessive Observer](https://github.com/XessiveObserver)
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
+- [Mohit Hedaoo](https://github.com/Wonders11)
 - [Advait Jain](https://github.com/Zoronium)
 - [Vats Patel] (https://github.com/Vats14)
 - [Nitesh Kumar](https://github.com/NITESH37)
