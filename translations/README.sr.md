@@ -6,7 +6,7 @@
 
 # Prvi prilog
 
-Teško je. Prvi pokušaj je uvek težak. Kada sarađuješ sa drugima, napraviti greške je utoliko strašnije. Želeli bismo da olakšamo proces kroz koji novi programeri koji doprinose otvorenom softveru (eng. open source) uče i doprinose po prvi put.
+Teško je. Prvi pokušaj je uvek težak. Kada sarađuješ sa drugima, greške deluju je mnogo strašnije. Želeli bismo da olakšamo proces kroz koji novi programeri koji doprinose otvorenom softveru (eng. open source) uče i doprinose po prvi put.
 
 Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u svoje ruke i zaista doprinositi u trening-sredini. Ovaj projekat ima za cilj da pruži konkretne korake i olakša način na koji početnici prilažu svoje prve doprinose (eng. contributions). Ukoliko ste se prepoznali u tekstu iznad, pratite sledeće korake.
 
@@ -15,11 +15,11 @@ Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 
-Ukoliko nemati git instaliran na vašoj mašini, [instalirajte ga ovde]( https://help.github.com/articles/set-up-git/).
+Ukoliko nemate git instaliran na vašoj mašini, [instalirajte ga ovde]( https://help.github.com/articles/set-up-git/).
 
 ## Napravite fork repozitorijuma
 
-Napravite račvanje (fork) tako što ćete kliknuti na dugme *fork* na vrhu stranice. Ovako pravite kopiju repozitorijuma na vašoj strani.
+Napravite račvanje (fork) tako što ćete kliknuti na dugme *fork* na vrhu stranice. Ovako pravite kopiju repozitorijuma na vašoj stranici.
 
 ## Klonirajte repozitorijum
 
@@ -65,7 +65,7 @@ Otvorite `Contributors.md` fajl u tekst editoru i dodajte vaše ime. Nemojte dod
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ukoliko odete u radni direktorijum i izvršite komandu `git status`,primetićete da postoje promene.
+Ukoliko odete u radni direktorijum i izvršite komandu `git status`, primetićete da postoje promene.
 
 Dodajte ove promene u granu koju ste gore napravili koristeći `git add` komandu:
 
@@ -89,7 +89,7 @@ gde umesto `<add-your-branch-name>` stavljate ime vašeg grananja.
 
 ## Pošaljite izmene na reviziju
 
-Ukoliko odete na repoyitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
+Ukoliko odete na repozitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -97,7 +97,7 @@ a potom pošaljite zahtev klikom na dugme *submit*.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Nakon toga, ja ću spojiti promene koje ste napravili sa master granom projekta. Dobićete mejl potvrde kada se grane spoje.
+Nakon toga, spojiće se promene koje ste napravili sa master granom projekta. Dobićete mejl potvrde kada se grane spoje.
 
 ## Šta dalje?
 
@@ -105,7 +105,7 @@ Nakon toga, ja ću spojiti promene koje ste napravili sa master granom projekta.
 
 Proslavite tako što ćete podeliti vaš doprinos sa prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
 
-Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakvih pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+Pridružite se i našem Slack timu u slučaju da vam je potrebna bilo kakva pomoć ili imate bilo kakvih pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
 
 A sada, možemo početi sa doprinosima drugim projektima. Napravili smo spisak projekata sa jednostavnim problemima na kojima možete početi da radite. Posetite stranicu sa [the list of projects na našem sajtu](https://firstcontributions.github.io/#project-list).
 
