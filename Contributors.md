@@ -4,6 +4,7 @@
 -[Marah Musleh](https://github.com/Marahmusleh)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [Mohit Kumar](https://github.com/itsmohitmkk)
 - [Zodd13](https://github.com/Zodd13)
 - [Rishi Kumar](https://github.com/CodesOfRishi)
 - [Xessive Observer](https://github.com/XessiveObserver)
