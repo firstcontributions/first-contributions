@@ -3621,5 +3621,5 @@
 - Jonas Pena [MY BLOG](https://github.com/jonasp-dev)
 - [Shivang Mishra](https://github.com/ShivangM)
 - [Anca](https://github.com/aancaa)
-- [Hariz](https://github.com/harysreza)
+- [harysreza](https://github.com/harysreza)
 <!-- prettier-ignore-end -->
