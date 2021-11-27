@@ -52,6 +52,7 @@
 - [Justice Petersen](https://github.com/justiceap)
 - [Denis Milosavljevic](https://github.com/denismilosavljevic95)
 - [Yuvraj Chaudhari](https://github.com/yuvrajchaudhari03)
+- [Junichi K](https://github.com/jun-k)
 - [42wob] (https://github.com/qduong42/)
 - [JGM01] (https://github.com/JGM01/)
 - [Dhanush Nadella](https://github.com/dnadella787)
