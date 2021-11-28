@@ -3638,6 +3638,7 @@ Disguy
 - [Carlo Occhiena](https://github.com/carloocchiena)
 - [Paulo Ferraz](https://github.com/paulosgf)
 - [Yasuyuki Araki](https://github/y-araki)
+- [Selcher](https://github.com/selcher)
 - [Anna Isacson](https://github.com/AIsacson)
 - [Syahrizal Hanif](https://github.com/rzlco666)
 - Lemmy Hemmingway
