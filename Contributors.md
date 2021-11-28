@@ -2040,6 +2040,7 @@ Himanshu Dedha
 - [Philip Lee](https://github.com/philiplee13)
 - [Charles Kasasira](https://github.com/charleskasasira)
 - [Jefferson X.](https://github.com/jeffersonximeness)
+- [Colin Hicks](https://github.com/colinjhicks)
 - [Taran](https://github.com)
 - [Lipika Debnath](https://github.com/lipika19)
 - [Vikas](https://github.com/vikasdabhi)
