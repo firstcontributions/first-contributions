@@ -206,6 +206,7 @@ yejashi
 - [Sheroz Samatov](https://github.com/sherozsamatov) 👋
 - [Isi Atash](https://github.com/Isi-Atash)
 - [joshmal9999](https://github.com/joshmal9999)
+- [Rawan Alazazi](https://github.com/rawanazazi12)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
 - [Sarah Akinkunmi](https://github.com/oluwadamiloju)
 - [Rashad Arfan](https://github.com/rashad93)
