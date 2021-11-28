@@ -1220,6 +1220,7 @@ Himanshu Dedha
 - [Rutvij Dave](https://github.com/rutvijdave12)
 - [Sundararajan](https://github.com/Sundar-07)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
+- [Armaan Kafaipour](https://github.com/ArmaanKafaipour)
 - [Shrinath](https://github.com/ShrinathNR)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [Gerard Gandionco](https://github.com/Vaiterius)
