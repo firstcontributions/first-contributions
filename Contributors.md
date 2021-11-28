@@ -101,6 +101,7 @@
 - [willberg845] (https://github.com/willberg845)
 - [nchavan70] (https://github.com/nchavan70)
 - [Emiliano] (https://github.com/Emiliano-Russo)
+- [Mohamed Fadl](https://github.com/mohnabilfadl)
 - [Massurio] (https://github.com/massurio)
 - [lyannul] ("https://github.com/lyannul")
 - [Mim1c] (https://https://github.com/Mim1c)
