@@ -1,9 +1,11 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
 -[Marah Musleh](https://github.com/Marahmusleh)
+- [taqro](https://github.com/taqro)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Mohit Kumar](https://github.com/itsmohitmkk)
@@ -66,6 +68,7 @@
 - [JGM01] (https://github.com/JGM01/)
 - [Dhanush Nadella](https://github.com/dnadella787)
 - [Peter Simpson](https://github.com/pj-simpson)
+- [Siddhesh Bangar](https://github.com/SiddheshBangar)
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Karan Ganwani](https://github.com/karan-97)
 - [albinary10] (https://github.com/albinary10)
@@ -91,6 +94,7 @@
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
+- [Juan Ospina](https://github.com/jeo02)
 - [sachin] (https://github.com/sachin11226)
 - [Virack Chhom] (https://github.com/chhomchhom)
 - [materialcontext] (https://github.com/materialcontext)
@@ -102,6 +106,7 @@
 - [willberg845] (https://github.com/willberg845)
 - [nchavan70] (https://github.com/nchavan70)
 - [Emiliano] (https://github.com/Emiliano-Russo)
+- [Mohamed Fadl](https://github.com/mohnabilfadl)
 - [Massurio] (https://github.com/massurio)
 - [lyannul] ("https://github.com/lyannul")
 - [Mim1c] (https://https://github.com/Mim1c)
@@ -118,6 +123,7 @@
 - [Puneet Jain] (https://github.com/puneetjain05)
 - [B Pinches] (https://github.com/benpinc)
 [Laura Markus] (https://github.com/lauramarkus)
+- [Sachin garampalli] (https://github.com/Indicgamer)
 - [Aryan Raj] (hhtps://github.com/aryan0103raj)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
@@ -1701,6 +1707,7 @@ Himanshu Dedha
 - [Stephen Taylor](https://github.com/smtaylor22)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Harshit Vaish](https://github.com/Harshit036)
+- [x1081080](https://github.com/x1081080)
 - [Reza Salam](https://github.com/rezasm)
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
 - [Tuhin Das](https://github.com/tuhindas30)
@@ -2040,6 +2047,7 @@ Himanshu Dedha
 - [Philip Lee](https://github.com/philiplee13)
 - [Charles Kasasira](https://github.com/charleskasasira)
 - [Jefferson X.](https://github.com/jeffersonximeness)
+- [Colin Hicks](https://github.com/colinjhicks)
 - [Taran](https://github.com)
 - [Lipika Debnath](https://github.com/lipika19)
 - [Vikas](https://github.com/vikasdabhi)
@@ -3654,4 +3662,8 @@ Disguy
 - [Szy0127](https://github.com/Szy0127)
 - [vguo](https://github.com/vguo2037)
 - [airevahn](https://github.com/airevahn)
+- [theom95](https://github.com/theom95)
+- [fcancela](https://github.com/fcancela)
+- [Toroy](https://github.com/toroy)
+- [p0txky](https://github.com/p0txky)
 <!-- prettier-ignore-end -->
