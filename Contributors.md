@@ -119,6 +119,7 @@
 - [Puneet Jain] (https://github.com/puneetjain05)
 - [B Pinches] (https://github.com/benpinc)
 [Laura Markus] (https://github.com/lauramarkus)
+- [Sachin garampalli] (https://github.com/Indicgamer)
 - [Aryan Raj] (hhtps://github.com/aryan0103raj)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
