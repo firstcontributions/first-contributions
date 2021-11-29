@@ -10,6 +10,7 @@
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Mohit Kumar](https://github.com/itsmohitmkk)
 - [Zodd13](https://github.com/Zodd13)
+- [Caio Tayota](https://github.com/caiotayota)
 - [Rishi Kumar](https://github.com/CodesOfRishi)
 - [Xessive Observer](https://github.com/XessiveObserver)
 - [waterleaper](https://github.com/waterleaper8)
