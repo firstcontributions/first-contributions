@@ -4,6 +4,7 @@
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
 -[Marah Musleh](https://github.com/Marahmusleh)
+- [taqro](https://github.com/taqro)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Mohit Kumar](https://github.com/itsmohitmkk)
