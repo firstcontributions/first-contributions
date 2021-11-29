@@ -88,6 +88,7 @@
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
+- [Juan Ospina](https://github.com/jeo02)
 - [sachin] (https://github.com/sachin11226)
 - [Virack Chhom] (https://github.com/chhomchhom)
 - [materialcontext] (https://github.com/materialcontext)
