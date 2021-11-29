@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
 -[Marah Musleh](https://github.com/Marahmusleh)
