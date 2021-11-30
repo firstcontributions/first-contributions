@@ -3704,4 +3704,5 @@ Disguy
 - [Anna Moody](https://github.com/a-moody1241)
 - [Scott Engelhard] (https://github.com/dudescott)
 - Vince Duarte
+- [Haoran Wang] (https://github.com/whr0002)
 <!-- prettier-ignore-end -->
