@@ -2002,6 +2002,7 @@ Himanshu Dedha
 - [Jessica Angel](https://github.com/jessica-angel7)
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Ishan Gupta](https://github.com/ishan-gupt)
+- [Gautam Singhal](https://github.com/singhalgautam)
 - [Kaung Wai](https://github.com/kaungwai)
 - [Ayushman Singh Rathore](https://github.com/Spartan09)
 - [Benjamin Wolf](https://github.com/devBenWolf)
