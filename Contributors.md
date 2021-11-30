@@ -8,6 +8,7 @@
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Marah Musleh](https://github.com/Marahmusleh)
+- [Manan Sharma](https://github.com/manansharma18)
 - [taqro](https://github.com/taqro)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
