@@ -3577,6 +3577,7 @@ Disguy
 - [luigigil] (https://github.com/luigigil)
 - [Sunbean Park](https://github.com/sunbeanp)
 - [John Sciutto](https://github.com/johnsciutto)
+- [Mackenzie Fileman](https://github.com/mfilemanCS)
 - [Michael Walker](https://github.com/modernmusician)
 - [Fokrule Hasan](https://github.com/modernmusician)
 - [Aaron Backman](https://github.com/AaronBackman)
