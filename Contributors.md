@@ -3683,4 +3683,5 @@ Disguy
 - [Toroy](https://github.com/toroy)
 - [p0txky](https://github.com/p0txky)
 - [Cory Baddeley](https://github.com/cbaddeley)
+- [Andrew Sandell](https://github.com/absandell)
 <!-- prettier-ignore-end -->
