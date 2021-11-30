@@ -53,6 +53,7 @@
 - [Hassan] (https://github.com/hassansahhin)
 - [Esra Zeybek] (https://github.com/ElsaZey)
 - [Daniel Corwin] (https://github.com/dcrwn)
+- [John Shoemaker] (https://github.com/jshoemaker76)
 - [Avinash Prasad] (https://github.com/avionmission)
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - Vinayaka Hegde
