@@ -3704,4 +3704,5 @@ Disguy
 - [Anna Moody](https://github.com/a-moody1241)
 - [Scott Engelhard] (https://github.com/dudescott)
 - Vince Duarte
+- [Jaclyn Penano] (https://github.com/jsp3339)
 <!-- prettier-ignore-end -->
