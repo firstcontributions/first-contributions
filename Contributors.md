@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Brian Tsai](https://github.com/bpsimusic)
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
 - [Alan Kemboi](https://github.com/alankemboi)
 - [Dayce](https://github.com/LDesse)
