@@ -3540,6 +3540,7 @@ Disguy
 - [Luiz Mainart](https://github.com/LuizDMM)
 - [André Felipe](https://github.com/liipeandre)
 - [David Gentile](https://github.com/dcgentile)
+- [Smridhi Gupta](https://github.com/smridhiwho)
 - [nakahira](https://github.com/xuzhongping)
 - [Sarah Napoleon]
 - [rgredel](https://github.com/rgredel)
