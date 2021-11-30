@@ -43,6 +43,7 @@
 - [DevXenon](https://github.com/HtetLinOo)
 - [Attyuttam Saha](https://github.com/Attyuttam)
 - James Smith
+- [Vinay]-[nothing]
 - [ce3team] (https://github.com/ce3team)
 -[Nirbyoleek Das](https://github.com/Nirbyoleek)
 - [Pratik Ramteke] (https://github.com/pratikramteke)
