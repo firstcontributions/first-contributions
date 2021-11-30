@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
