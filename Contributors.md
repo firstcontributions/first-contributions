@@ -3712,4 +3712,5 @@ Disguy
 - [Yoni Smolyar] (https://github.com/ysmolyar)
 - Vince Duarte
 - Kathy Chowaniec
+- [Vinay Gonuguntla] (https://github.com/vinay-g)
 <!-- prettier-ignore-end -->
