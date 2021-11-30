@@ -8,6 +8,7 @@
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Marah Musleh](https://github.com/Marahmusleh)
+- [Manan Sharma](https://github.com/manansharma18)
 - [taqro](https://github.com/taqro)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
@@ -3702,7 +3703,11 @@ Disguy
 - [Abhishek Gupta](https://github.com/abhi15999)
 - [Martha Kalisz](https://github.com/mskalisz)
 - [Anna Moody](https://github.com/a-moody1241)
+- [Ali Ahmed](https://github.com/AliNisarAhmed)
 - [Scott Engelhard] (https://github.com/dudescott)
 - Vince Duartes
 - Thinh Nguyen
+- [Lavanya Kumari] (https://github.com/lavanyakumari0)
+- Vince Duarte
+- Kathy Chowaniec
 <!-- prettier-ignore-end -->
