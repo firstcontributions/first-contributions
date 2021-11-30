@@ -1177,6 +1177,7 @@ Pranjal
 - [AtanuGhosh](https://github.com/zabuja)
 - [A Schnackenberg](https://github.com/based-template)
 - [Jason Sochin](https://github.com/nihcosnosaj)
+- [Brock Chenicek](https://github.com/bchenicek)
 - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
 - [Michael](https://github.com/Michael-Ivanov1)
 - [Marcus Fisher](https://github.com/msfisher)
