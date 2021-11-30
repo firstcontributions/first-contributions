@@ -27,6 +27,7 @@
 - [Vats Patel] (https://github.com/Vats14)
 - [Nitesh Kumar](https://github.com/NITESH37)
 - [Ricardo Conchas](https://github.com/rishells)
+- [Anuj Varshney](https://github.com/ianujvarshney)
 - [ACF] (https//github.com/adriancf-br)
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
