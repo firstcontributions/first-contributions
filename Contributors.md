@@ -39,6 +39,7 @@
 - [Wyatt Huang](https://github.com/wyatt-h)
 - [Pietro Nuti](https://github.com/pnuts93)
 - [Parth Gupta](https://github.com/gupta-parth)
+- [Ayesha Tahamid] (https://github.com/ayeshatahamid)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
 - [DevXenon](https://github.com/HtetLinOo)
