@@ -3703,4 +3703,5 @@ Disguy
 - [Martha Kalisz](https://github.com/mskalisz)
 - [Anna Moody](https://github.com/a-moody1241)
 - [Scott Engelhard] (https://github.com/dudescott)
+- Vince Duarte
 <!-- prettier-ignore-end -->
