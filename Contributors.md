@@ -3670,4 +3670,5 @@ Disguy
 - [fcancela](https://github.com/fcancela)
 - [Toroy](https://github.com/toroy)
 - [p0txky](https://github.com/p0txky)
+- [Cory Baddeley](https://github.com/cbaddeley)
 <!-- prettier-ignore-end -->
