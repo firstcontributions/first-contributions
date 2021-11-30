@@ -837,6 +837,7 @@ yejashi
 - [jrojas] (https://github.com/jrojas10)
 - [Fernando Blum Garcia](https://github.com/fblumgarcia)
 - [Eunjnnn] (https://github.com/Eunjnnn)
+- [neelish] (https://github.com/immidineelish)
 - [Rhona] (https://github.com/rhonall)
 - [Bradtmoeller] (https://github.com/denschiro)
 - [Swati Chauhan](https://github.com/swatichauhan814)
