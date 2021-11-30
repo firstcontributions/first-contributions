@@ -21,6 +21,7 @@
 - [Mohit Hedaoo](https://github.com/Wonders11)
 - [Robert Lieblang](https://github.com/roblieblang)
 - [Somnath Prasad](https://github.com/somnathPrasad)
+- [Aditya Sahatonde](https://github.com/AdityaSahatonde)
 - [Advait Jain](https://github.com/Zoronium)
 - [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
