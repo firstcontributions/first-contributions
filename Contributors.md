@@ -3669,6 +3669,7 @@ Disguy
 - [Selcher](https://github.com/selcher)
 - [Anna Isacson](https://github.com/AIsacson)
 - [Syahrizal Hanif](https://github.com/rzlco666)
+- [Ricardo Magana] (https://github.com/cootp)
 - Lemmy Hemmingway
 - KHALED AFFAN [MY BLOG](https://khaled3afan@gmail.com)
 - Jonas Pena [MY BLOG](https://github.com/jonasp-dev)
