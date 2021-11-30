@@ -78,6 +78,7 @@
 - [Junichi K](https://github.com/jun-k)
 - [42wob] (https://github.com/qduong42/)
 - [JGM01] (https://github.com/JGM01/)
+- [Jenny Wang](https://github.com/jennywang23)
 - [Dhanush Nadella](https://github.com/dnadella787)
 - [Siddhesh Bangar](https://github.com/SiddheshBangar)
 - [Krinish Radadiya](https://github.com/krinish291)
