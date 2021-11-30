@@ -3708,4 +3708,5 @@ Disguy
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - Vince Duarte
 - Kathy Chowaniec
+- [Vinay Gonuguntla] (https://github.com/vinay-g)
 <!-- prettier-ignore-end -->
