@@ -3683,6 +3683,7 @@ Disguy
 - [airevahn](https://github.com/airevahn)
 - [theom95](https://github.com/theom95)
 - [fcancela](https://github.com/fcancela)
+- [Ruo Chen](https://github.com/OverlordFlowers)
 - [Toroy](https://github.com/toroy)
 - [p0txky](https://github.com/p0txky)
 - [Cory Baddeley](https://github.com/cbaddeley)
