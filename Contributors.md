@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Dorival](https://github.com/DorivalJunior23)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
