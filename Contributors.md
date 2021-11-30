@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Jason Holman](https://github.com/holmanjr)
 - [Alan Kemboi](https://github.com/alankemboi)
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
