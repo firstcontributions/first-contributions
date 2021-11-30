@@ -48,6 +48,7 @@
 - [Esra Zeybek] (https://github.com/ElsaZey)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - [Avinash Prasad] (https://github.com/avionmission)
+- [Aadharsh K Xavier](https://github.com/akxavier)
 - Vinayaka Hegde
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
