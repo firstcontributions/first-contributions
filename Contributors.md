@@ -45,6 +45,7 @@
 - [DevXenon](https://github.com/HtetLinOo)
 - [Attyuttam Saha](https://github.com/Attyuttam)
 - James Smith
+- [Rahul Chari](https://github.com/rah-1)
 - [Vinay]-[nothing]
 - [ce3team] (https://github.com/ce3team)
 -[Nirbyoleek Das](https://github.com/Nirbyoleek)
