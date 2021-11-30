@@ -127,6 +127,7 @@
 - [Anjan] (https://github.com/anjanbaradwaj)
 - [MTM] (https://github.com/MyoThetMaung)
 - [Amanda Adoyi] (https://github.com/lonercode)
+- [Virtuoso-] (https://github.com/VirtuosoLucidity)
 - [John Farina] (https://github.com/jfarina5)
 - [Manoj Gopale] (https://github.com/ManojGopale)
 - [Russell Buck] (https://github.com/buckage)
