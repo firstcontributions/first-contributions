@@ -828,6 +828,7 @@ yejashi
 - [Chukwuemeka Aladimma] (https://github.com/Acel-01)
 - [Andrew Little] (https://github.com/mellodog )
 - [Akemi Murayama] (https://github.com:akemim12)
+- [pitta vamsi] (https://github.com/Pittavamsi)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Tamara W](https://github.com/Tam-star)
 - [Sabri Oussama](https://github.com/Sabri01)
