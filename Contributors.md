@@ -3705,4 +3705,5 @@ Disguy
 - [Scott Engelhard] (https://github.com/dudescott)
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - Vince Duarte
+- [Tarun Kumar Jain] (https://github.com/tarun-kumar-jain)
 <!-- prettier-ignore-end -->
