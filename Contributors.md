@@ -417,6 +417,7 @@ yejashi
 - [Mitsunobu Yoneda](https://github.com/higamaya)
 - [JediSebas](https://github.com/JediSebas)
 - [Meenakshi Chauhan](https://github.com/meenachan)
+- [Lucas Gracia](https://github.com/LucasGracia)
 - [Annie Ausen](https://github.com/aausen)
 - [Krishna Nand Dubey](https://github.com/Deadpool2e)
 - Hope Chijuka (https://github.com/Hopeuche360)
