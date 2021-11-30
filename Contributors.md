@@ -2042,6 +2042,7 @@ Himanshu Dedha
 - [Deboshruti Banerji](https://github.com/dbanerji)
 - [Govind Singh Bisht](https://github.com/govind2404)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
+- [Edwin Lora](https://github.com/loragonzaleze)
 - [Adithya LK](https://github.com/adilk0728)
 - [Kimbrian Marshall](https://github.com/cimbraien)
 - [Joao Pedro Soares G Santos](https://github.com/JPedro-SG)
