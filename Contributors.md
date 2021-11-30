@@ -1,12 +1,13 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Alan Kemboi](https://github.com/alankemboi)
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
--[Marah Musleh](https://github.com/Marahmusleh)
+- [Marah Musleh](https://github.com/Marahmusleh)
 - [taqro](https://github.com/taqro)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
