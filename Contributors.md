@@ -28,6 +28,7 @@
 - [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
 - [Nitesh Kumar](https://github.com/NITESH37)
+- [Joshua Best](https://github.com/joshuabest541)
 - [Ricardo Conchas](https://github.com/rishells)
 - [Ulrich Vollert](https://github.com/ulrivo)
 - [Anuj Varshney](https://github.com/ianujvarshney)
