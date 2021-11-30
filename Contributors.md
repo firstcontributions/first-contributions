@@ -21,6 +21,7 @@
 - [Robert Lieblang](https://github.com/roblieblang)
 - [Somnath Prasad](https://github.com/somnathPrasad)
 - [Advait Jain](https://github.com/Zoronium)
+- [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
 - [Nitesh Kumar](https://github.com/NITESH37)
 - [Ricardo Conchas](https://github.com/rishells)
