@@ -3706,6 +3706,7 @@ Disguy
 - [Ali Ahmed](https://github.com/AliNisarAhmed)
 - [Scott Engelhard] (https://github.com/dudescott)
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
+- [Yoni Smolyar] (https://github.com/ysmolyar)
 - Vince Duarte
 - Kathy Chowaniec
 <!-- prettier-ignore-end -->
