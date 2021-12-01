@@ -3734,4 +3734,5 @@ Disguy
 - [Raven Ramos] (https://github.com/ravenkimr)
 - [Gateston Johns] (https://github.com/gatestonjohns)
 - [Eduardo Yoo] (https://github.com/EduardoYoo)
+- [Jiayu Huang] (https://github.com/peter6866)
 <!-- prettier-ignore-end -->
