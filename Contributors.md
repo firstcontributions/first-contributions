@@ -12,6 +12,7 @@
 - kishan Yadav
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Shivam Kumar](https://github.com/shi-ivam)
+- [Christopher_Dang](https://github.com/christopherdang)
 - [Marah Musleh](https://github.com/Marahmusleh)
 - [Manan Sharma](https://github.com/manansharma18)
 - [taqro](https://github.com/taqro)
