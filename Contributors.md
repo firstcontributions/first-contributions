@@ -3726,7 +3726,7 @@ Disguy
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - [Yoni Smolyar] (https://github.com/ysmolyar)
 - Vince Duarte
-- [Raul Hinojosa](https://github.com/mnmistake123)
+- [Raul Hinojosa] (https://github.com/mnmistake123)
 - Kathy Chowaniec
 - [Vinay Gonuguntla] (https://github.com/vinay-g)
 - [Raven Ramos] (https://github.com/ravenkimr)
