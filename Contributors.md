@@ -132,6 +132,7 @@ Ajith
 - [mondara] (https://github.com/Mondara)
 - [UnclassedPenguin](https://github.com/UnclassedPenguin)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
+Heng Sun
 - [James Yang] (https://github.com/TwistedBrainHead)
 - [willberg845] (https://github.com/willberg845)
 - [nchavan70] (https://github.com/nchavan70)
