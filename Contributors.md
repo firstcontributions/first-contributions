@@ -131,6 +131,7 @@ Ajith
 - [Mukesh Venkatesan] (https://github.com/Mukeshvj99)
 - [mondara] (https://github.com/Mondara)
 - [UnclassedPenguin](https://github.com/UnclassedPenguin)
+- Andres Gaitan
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 - [James Yang] (https://github.com/TwistedBrainHead)
 - [willberg845] (https://github.com/willberg845)
