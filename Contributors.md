@@ -3704,5 +3704,5 @@ Disguy
 - [Anna Moody](https://github.com/a-moody1241)
 - [Scott Engelhard] (https://github.com/dudescott)
 - Vince Duarte
-- [Raul Hinojosa] (https://github.com/mnmistake123)
+- [Raul Hinojosa](https://github.com/mnmistake123)
 <!-- prettier-ignore-end -->
