@@ -3717,7 +3717,7 @@ Disguy
 - [Anna Moody](https://github.com/a-moody1241)
 - [Ali Ahmed](https://github.com/AliNisarAhmed)
 - [Scott Engelhard] (https://github.com/dudescott)
-- [Thinh Nguyen] (https://github.com/prospertin)
+- [Thinh Nguyen](https://github.com/prospertin)
 - [Harsha Vardhan] (https://github.com/harsha6117)
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - [Yoni Smolyar] (https://github.com/ysmolyar)
