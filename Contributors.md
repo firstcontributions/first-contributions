@@ -24,6 +24,7 @@
 - [Xessive Observer](https://github.com/XessiveObserver)
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
+- [Hao Zheng] (https://github.com/marla0530)
 - [Mohit Hedaoo](https://github.com/Wonders11)
 - [Robert Lieblang](https://github.com/roblieblang)
 - [Somnath Prasad](https://github.com/somnathPrasad)
