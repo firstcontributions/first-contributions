@@ -39,6 +39,7 @@
 - [DJ Taylor](https://github.com/djtaylor8)
 - [Jafar Jalilov](https://github.com/jafarjalilov)
 - [Nishit Sheth](https://github.com/nishitinfo)
+- [Subhadeep Paul](https://github.com/white-peed)
 - [Dave Coleman](https://github.com/dave1c)
 - [Eduard Beiline] (https://github.com/Eduard953)
 - [Wyatt Huang](https://github.com/wyatt-h)
