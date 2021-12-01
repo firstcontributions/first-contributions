@@ -2418,6 +2418,7 @@ Himanshu Dedha
 - [Gravish Purohit](https://github.com/gravishpurohit)
 - [Johannes Schenk](https://github.com/Jobo0o)
 - [Ravi Gupta](https://github.com/ravi9607)
+- [Caroline Rogers] (http://github.com/caroliinecec)
 - [Sahil Shrivastava](https://github.com/sahil6993)
 - [Sumit Kumar](https://github.com/Shadowpii)
 - [Dillon O'Connor](https://github.com/dillonoconnor)
