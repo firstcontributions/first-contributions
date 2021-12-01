@@ -53,6 +53,7 @@ Tristan Bottone
 - [DevXenon](https://github.com/HtetLinOo)
 - [Attyuttam Saha](https://github.com/Attyuttam)
 - James Smith
+- Jason Ghent
 - [Rahul Chari](https://github.com/rah-1)
 - [Vinay]-[nothing]
 - [ce3team] (https://github.com/ce3team)
