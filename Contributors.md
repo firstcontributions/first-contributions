@@ -3717,4 +3717,5 @@ Disguy
 - Kathy Chowaniec
 - [Vinay Gonuguntla] (https://github.com/vinay-g)
 - [Raven Ramos] (https://github.com/ravenkimr)
+- [Gateston Johns] (https://github.com/gatestonjohns)
 <!-- prettier-ignore-end -->
