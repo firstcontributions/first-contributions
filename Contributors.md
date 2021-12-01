@@ -365,6 +365,7 @@ yejashi
 - [June](https://github.com/junezimmerman93)
 - [Meharab](https://github.com/Meharab)
 - [Petre Tiberiu](https://github.com/Petrickah)
+- [Chase Wrenn] (https://github.com/chasewrennufl)
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
 - [Robert Smith](https://github.com/rsmith2271)
 - [Thomas Myhre](https://github.com/thomamyh)
