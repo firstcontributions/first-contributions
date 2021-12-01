@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
 - [Alan Kemboi](https://github.com/alankemboi)
