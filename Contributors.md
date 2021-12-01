@@ -3731,4 +3731,5 @@ Disguy
 - [Vinay Gonuguntla] (https://github.com/vinay-g)
 - [Raven Ramos] (https://github.com/ravenkimr)
 - [Gateston Johns] (https://github.com/gatestonjohns)
+- [Eduardo Yoo] (https://github.com/EduardoYoo)
 <!-- prettier-ignore-end -->
