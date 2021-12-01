@@ -2317,6 +2317,7 @@ Himanshu Dedha
 - [Joe Forrester](https://github.com/cujaf6)
 - [Uduru0522](https://github.com/Uduru0522)
 - [Hanabi](https://github.com/hanabi7654321)
+- [Bhargav Raju](https://github.com/bhargavraju)
 - [Redhcp](https://github.com/redhcp)
 - [Gabriel QR](https://github.com/gabrielqr-code)
 - [Rmy](https://github.com/BenRmy)
