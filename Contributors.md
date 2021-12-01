@@ -414,6 +414,7 @@ yejashi
 - [Gautam Prabhu](https://github.com/gsp-mit)
 - [Hiten Soni](https://github.com/hitensoni)
 - [Irina Shcherbakova](https://github.com/IrinaShcherbakova)
+- [Delaney Woodward](https://github.com/delaney201)
 - [Raghav Kapur](https://github.com/codingkapur)
 - [Aniket Kumar](https://github.com/ghostrider22)
 - [Tibo De Peueter](https://github.com/fortemfiducia)
