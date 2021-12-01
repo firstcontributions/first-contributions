@@ -93,6 +93,7 @@ Tristan Bottone
 - [Siddhesh Bangar](https://github.com/SiddheshBangar)
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Karan Ganwani](https://github.com/karan-97)
+Ajith
 - [albinary10] (https://github.com/albinary10)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Luiz Junior](https://github.com/LuizAPJunior)
