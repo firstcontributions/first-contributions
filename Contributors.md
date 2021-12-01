@@ -9,7 +9,7 @@
 - [Dorival](https://github.com/DorivalJunior23)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
-- [Ayushi Sinha](https://github.com/Ayushi271)
+- [Ayushi sinha](https://github.com/Ayushi271)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Marah Musleh](https://github.com/Marahmusleh)
 - [Manan Sharma](https://github.com/manansharma18)
