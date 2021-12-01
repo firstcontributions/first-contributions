@@ -129,7 +129,7 @@ Ajith
 - [James Yang] (https://github.com/TwistedBrainHead)
 - [willberg845] (https://github.com/willberg845)
 - [nchavan70] (https://github.com/nchavan70)
-- [Chance Onyiorah] (https://github.com/chancethescholar)
+- [Chance Onyiorah](https://github.com/chancethescholar)
 - [Emiliano] (https://github.com/Emiliano-Russo)
 - [Mohamed Fadl](https://github.com/mohnabilfadl)
 - [Massurio] (https://github.com/massurio)
