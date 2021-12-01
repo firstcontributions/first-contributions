@@ -11,6 +11,7 @@
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Ayushi sinha](https://github.com/Ayushi271)
+- [Cindy Lin](https://github.com/cindylin235)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Christopher_Dang](https://github.com/christopherdang)
 - [Marah Musleh](https://github.com/Marahmusleh)
