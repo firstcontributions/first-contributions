@@ -3760,6 +3760,7 @@ Disguy
 - [Eduardo Yoo] (https://github.com/EduardoYoo)
 - [Jiayu Huang] (https://github.com/peter6866)
 - [Daniel Park] (https://github.com/Dan1004x)
+- [William Gregory] (https://github.com/WEGGregory)
 - Scott Lagler
 - [Eric Chen] (https://github.com/eychen2)
 - [Benjamin Moffett] (https://github.com/BenAM63)
