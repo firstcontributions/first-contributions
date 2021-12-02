@@ -151,6 +151,7 @@ Heng Sun
 - [Emiliano] (https://github.com/Emiliano-Russo)
 - [Mohamed Fadl](https://github.com/mohnabilfadl)
 - [Massurio] (https://github.com/massurio)
+- [Corey Wolfe] (https://github.com/CWolfe1320)
 - [lyannul] ("https://github.com/lyannul")
 - [Mim1c] (https://https://github.com/Mim1c)
 - [Anjan] (https://github.com/anjanbaradwaj)
