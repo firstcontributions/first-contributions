@@ -13,6 +13,7 @@
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
+- [Khang Bui] (https://github.com/KhangHB) 
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Christopher_Dang](https://github.com/christopherdang)
 - [Marah Musleh](https://github.com/Marahmusleh)
