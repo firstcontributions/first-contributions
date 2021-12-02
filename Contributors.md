@@ -100,6 +100,7 @@ Tristan Bottone
 - [JGM01] (https://github.com/JGM01/)
 - [Jenny Wang](https://github.com/jennywang23)
 - [Dhanush Nadella](https://github.com/dnadella787)
+- [Tyler Leonard](https://github.com/tylerleonard5)
 - [Siddhesh Bangar](https://github.com/SiddheshBangar)
 - [Krinish Radadiya](https://github.com/krinish291)
 - [Karan Ganwani](https://github.com/karan-97)
