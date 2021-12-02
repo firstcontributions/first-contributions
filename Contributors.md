@@ -11,6 +11,7 @@
 - [Quinton] (https://github.com/qwiebe)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
+- [Ethan Coward](https://github.com/CDE90)
 - kishan Yadav
 -  Oliver Yuan
 - geuristic
