@@ -1668,6 +1668,7 @@ Himanshu Dedha
 - [Shreeraj Vijay Bhamare](https://github.com/shreerajbhamare)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
 - [Cao Toan Khoa](https://github.com/khoatcao)
+- [Annalina Becker] (https://github.com/annalinab)
 - [Giuliana Dowd](https://github.com/giulianadowd)
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Navneet Singh](https://github.com/navneet-28)
