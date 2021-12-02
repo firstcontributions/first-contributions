@@ -3755,6 +3755,7 @@ Disguy
 - [Harsha Vardhan] (https://github.com/harsha6117)
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - [Yoni Smolyar] (https://github.com/ysmolyar)
+- [Jitul Kumar Laphong] (https://github.com/jitulkr)
 - Vince Duarte
 - Kathy Chowaniec
 - Richard Orama
