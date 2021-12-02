@@ -15,6 +15,7 @@
 -  Oliver Yuan
 - geuristic
 - Christina Kahn
+- Yuko Matsumoto
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
