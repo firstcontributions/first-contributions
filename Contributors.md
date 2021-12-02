@@ -66,6 +66,7 @@ Tristan Bottone
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
 - [DevXenon](https://github.com/HtetLinOo)
+- [Matthew Kopelowitz](https://github.com/MatthewKopelowitz)
 - [Attyuttam Saha](https://github.com/Attyuttam)
 - James Smith
 - Jason Ghent
