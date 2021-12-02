@@ -30,6 +30,7 @@
 - [Hao Zheng] (https://github.com/marla0530)
 - [Mohit Hedaoo](https://github.com/Wonders11)
 - [Robert Lieblang](https://github.com/roblieblang)
+- [Kevin Tandi] (https://github.com/kevintandi)
 - [Somnath Prasad](https://github.com/somnathPrasad)
 - [Aditya Sahatonde](https://github.com/AdityaSahatonde)
 - [Advait Jain](https://github.com/Zoronium)
