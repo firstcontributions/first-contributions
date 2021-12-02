@@ -8,6 +8,7 @@
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
+- [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Ayushi sinha](https://github.com/Ayushi271)
