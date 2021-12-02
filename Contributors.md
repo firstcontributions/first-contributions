@@ -7,6 +7,7 @@
 - [Alan Kemboi](https://github.com/alankemboi)
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
+- [Naachiket Pant](https://github.com/poshi1865)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 - [Shivam Kumar](https://github.com/shi-ivam)
