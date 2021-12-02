@@ -11,6 +11,7 @@
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
+- Oliver
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
