@@ -3782,4 +3782,5 @@ Disguy
 - [Benjamin Moffett] (https://github.com/BenAM63)
 - [Colton Bonell] (https://github.com/cbonell01)
 - [Silvio Torre] (https://github.com/silviotorre)
+- [Matthew Revell](https://github.com/mattatheus)
 <!-- prettier-ignore-end -->
