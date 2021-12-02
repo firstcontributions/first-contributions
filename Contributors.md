@@ -2821,6 +2821,7 @@ Himanshu Dedha
 - [Phanthro](https://github.com/Phanthro)
 - [VigneshLingam](https://github.com/VigneshLingam)
 - [Emily Zhang](https://github.com/em-zhang)
+- [Jason Zhang](https://github.com/zhang-jason)
 - [ZachJones](https://github.com/zxjx)
 - [SewonYun](https://github.com/SewonYun)
 - [Dilipmkallarackal](https://dilipmkallarackal.github.io/)
