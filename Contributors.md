@@ -3750,4 +3750,5 @@ Disguy
 - [Daniel Park] (https://github.com/Dan1004x)
 - Scott Lagler
 - [Eric Chen] (https://github.com/eychen2)
+- [Colton Bonell] (https://github.com/cbonell01)
 <!-- prettier-ignore-end -->
