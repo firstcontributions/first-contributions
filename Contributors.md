@@ -14,6 +14,7 @@
 - [Ethan Coward](https://github.com/CDE90)
 - kishan Yadav
 -  Oliver Yuan
+-herman ombasa
 - geuristic
 - Christina Kahn
 - Yuko Matsumoto
