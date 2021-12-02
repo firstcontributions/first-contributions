@@ -15,6 +15,7 @@
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
+  [ saugata das](https://github.com/saugata-das)
 - [Khang Bui] (https://github.com/KhangHB) 
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Christopher_Dang](https://github.com/christopherdang)
