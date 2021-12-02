@@ -264,6 +264,7 @@
 - [Saad Irfan](http://github.com/msaaddev)
 - [Emrich-Michael Perrier](https://github.com/emrichmp)
 - [masha](https://github.com/masha-nv)
+- [Maher Halabi] (https://github/com/maherhalabi)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
 - [Luciano Zangeronimo](https://github.com/zangeronimo)
