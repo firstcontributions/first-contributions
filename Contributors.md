@@ -3744,4 +3744,5 @@ Disguy
 - [Eduardo Yoo] (https://github.com/EduardoYoo)
 - [Jiayu Huang] (https://github.com/peter6866)
 - [Daniel Park] (https://github.com/Dan1004x)
+- Scott Lagler
 <!-- prettier-ignore-end -->
