@@ -304,6 +304,7 @@ yejashi
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
 - [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
+- [Prateek Singh](https://github.com/7ORP3DO)
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
