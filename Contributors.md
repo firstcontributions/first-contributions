@@ -86,6 +86,7 @@ Tristan Bottone
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Najmieh Sadat Safarabadi](https://github.com/najmieh)
+- [Sid](https://github.com/SidSmith70/)
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Ajay Kannan](https://github.com/Ajay-Kannan7)
 - [Amrendra Singh] (https://github.com/amrendra01)
