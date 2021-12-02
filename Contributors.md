@@ -52,6 +52,7 @@ Tristan Bottone
 - [Dave Coleman](https://github.com/dave1c)
 - [Eduard Beiline] (https://github.com/Eduard953)
 - [Wyatt Huang](https://github.com/wyatt-h)
+- [Ranger Chenore](https://github.com/rango3526)
 - [Pietro Nuti](https://github.com/pnuts93)
 - [Parth Gupta](https://github.com/gupta-parth)
 - [Ayesha Tahamid] (https://github.com/ayeshatahamid)
