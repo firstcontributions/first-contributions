@@ -19,6 +19,7 @@
 - [Cindy Lin](https://github.com/cindylin235)
 - [Khang Bui] (https://github.com/KhangHB) 
 - [Shivam Kumar](https://github.com/shi-ivam)
+- [Priyanshu Patwa](https://github.com/Priyanshu2022)
 - [Christopher_Dang](https://github.com/christopherdang)
 - [Marah Musleh](https://github.com/Marahmusleh)
 - [Manan Sharma](https://github.com/manansharma18)
