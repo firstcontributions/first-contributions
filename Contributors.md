@@ -13,6 +13,7 @@
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
 -  Oliver Yuan
+-herman ombasa
 - geuristic
 - Christina Kahn
 - Yuko Matsumoto
