@@ -3763,4 +3763,5 @@ Disguy
 - [Eric Chen] (https://github.com/eychen2)
 - [Benjamin Moffett] (https://github.com/BenAM63)
 - [Colton Bonell] (https://github.com/cbonell01)
+- [Silvio Torre] (https://github.com/silviotorre)
 <!-- prettier-ignore-end -->
