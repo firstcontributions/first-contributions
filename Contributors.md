@@ -3742,6 +3742,7 @@ Disguy
 - [Yoni Smolyar] (https://github.com/ysmolyar)
 - Vince Duarte
 - Kathy Chowaniec
+- Richard Orama
 - [Vinay Gonuguntla] (https://github.com/vinay-g)
 - [Raven Ramos] (https://github.com/ravenkimr)
 - [Gateston Johns] (https://github.com/gatestonjohns)
