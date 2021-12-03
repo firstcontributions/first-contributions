@@ -3796,4 +3796,5 @@ Disguy
 - [Silvio Torre] (https://github.com/silviotorre)
 - [Matthew Revell](https://github.com/mattatheus)
 - Eric Clayton
+- [Jared Peterson](https://github.com/hobbitcakes)
 <!-- prettier-ignore-end -->
