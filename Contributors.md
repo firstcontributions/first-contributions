@@ -3788,4 +3788,5 @@ Disguy
 - [Colton Bonell] (https://github.com/cbonell01)
 - [Silvio Torre] (https://github.com/silviotorre)
 - [Matthew Revell](https://github.com/mattatheus)
+- Eric Clayton
 <!-- prettier-ignore-end -->
