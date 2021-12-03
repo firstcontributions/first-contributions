@@ -30,6 +30,7 @@
 - Yuko Matsumoto
 - Tianlan Yang
 - Rachel Peterson
+- Rosario Firmino Palazzolo
 - Jonathan Joseph
 - David Cooney
 - Ryan Roth
