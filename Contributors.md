@@ -730,6 +730,7 @@ yejashi
 - [Putri Nursofiyanti Juliashakti](https://github.com/putrinj)
 - [Sid Lais](https://github.com/Sid-Lais)
 - [Rishabh Sharma](https://github.com/redhairrs)
+- [Chinmay Kaushik](https://github.com/chinmaykaushik)
 - [Sudipto Mondal](https://github.com/sudipto)
 - [Jandi Mei](https://github.com/jandi-mei)
 - [Nirav](https://github.com/srkds)
