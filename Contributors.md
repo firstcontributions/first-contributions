@@ -32,6 +32,7 @@
 - Rachel Peterson
 - Jonathan Joseph
 - David Cooney
+- Ryan Roth
 - [Veronica Soden]
 - [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
