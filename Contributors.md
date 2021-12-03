@@ -23,6 +23,7 @@
 - Tianlan Yang
 - Rachel Peterson
 - David Cooney
+- [Veronica Soden]
 - [Alexander Snure](https://github.com/asnure15)
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
