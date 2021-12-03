@@ -222,6 +222,7 @@ yejashi
 - [Trickster026](https://github.com/Trickster026)
 - [ilyas babu](https://github.com/ilyasbabu)
 - [viraj](https://github.com/ViruSutar)
+- [Kyle Blackmon] (https://github.com/jkyleBlackmon)
 - [Steven Stonaker] (https://github.com/sstonaker)
 - [LucasFab] (https://github.com/LucasFab)
 - [Daniel Lang] (https://github.com/daniellang09)
