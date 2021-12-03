@@ -110,6 +110,7 @@ Tristan Bottone
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - Vinayaka Hegde
 - Brant Norris
+- Graham Vaith
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Najmieh Sadat Safarabadi](https://github.com/najmieh)
