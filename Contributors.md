@@ -3822,4 +3822,5 @@ Disguy
 - [Mason Anderson](https://github.com/mranderson47)
 - [Mark Sia](https://github.com/marksia)
 - [Sebastian Stockbridge](https://github.com/sstockbridge)
+- [Mark McGinnis](https://github.com/markmcginnis)
 <!-- prettier-ignore-end -->
