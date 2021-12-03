@@ -30,6 +30,7 @@
 - Yuko Matsumoto
 - Tianlan Yang
 - Rachel Peterson
+- Jonathan Joseph
 - David Cooney
 - [Veronica Soden]
 - [D.S.]
