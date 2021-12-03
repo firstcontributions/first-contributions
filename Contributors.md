@@ -35,6 +35,7 @@
 - Jonathan Joseph
 - David Cooney
 - Ryan Roth
+- Ali Abusulb - Go Gators
 - [Veronica Soden]
 - [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
