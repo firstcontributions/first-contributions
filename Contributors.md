@@ -17,6 +17,7 @@
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - kishan Yadav
+- Joshua Weinstein
 -  Oliver Yuan
 - Ashish Satyavarapu
 -herman ombasa
