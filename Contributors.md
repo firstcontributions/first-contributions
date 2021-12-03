@@ -6,6 +6,7 @@
 - [Zac Driscoll]
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
+- [Aditi Verma]
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
 - [Santosh Managuli](https://github.com/santoshmanaguli)
 - [Alan Kemboi](https://github.com/alankemboi)
