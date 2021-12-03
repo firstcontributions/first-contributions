@@ -598,6 +598,7 @@ yejashi
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
 - [Sonal Varshney](https://github.com/sonalvrshny)
 - [ahyeon](http://github.com/ahyns62)
+- [Herman Gonzalez] (http://github.com/hermalez)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Faran Mohammad](https://github.com/Faranheit15)
 - [Ian Wagner](https://github.com/ian-wag)
