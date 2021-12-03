@@ -3815,4 +3815,5 @@ Disguy
 - [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
 - [Mason Anderson](https://github.com/mranderson47)
 - [Mark Sia](https://github.com/marksia)
+- [Kyle Dampier](https://github.com/kyledampier)
 <!-- prettier-ignore-end -->
