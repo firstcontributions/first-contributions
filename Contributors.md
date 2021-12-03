@@ -526,6 +526,7 @@ yejashi
 - [sonya Brinson](https://github.com/sdsimmons1967)
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
 - [Joshua Buscher](https://github.com/Crimsondragon2002)
+- [bruh moment]
 - [Jaai Joshi] (https://github.com/Jaaij26)
 - [Pranav Krishnan](https://github.com/PranavKrishnan007)
 - [Elen S](https://github.com/ElenaS1981)
