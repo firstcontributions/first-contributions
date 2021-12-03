@@ -3826,4 +3826,5 @@ Disguy
 - [Mark Sia](https://github.com/marksia)
 - [Sebastian Stockbridge](https://github.com/sstockbridge)
 - [Mark McGinnis](https://github.com/markmcginnis)
+- Trent Corey
 <!-- prettier-ignore-end -->
