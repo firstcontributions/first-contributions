@@ -26,6 +26,7 @@
 - Yuko Matsumoto
 - Tianlan Yang
 - Rachel Peterson
+- Aditi Verma
 - David Cooney
 - [Veronica Soden]
 - [D.S.]
