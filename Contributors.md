@@ -25,6 +25,7 @@
 - geuristic
 - Christina Kahn
 - Nikhil Kumawat
+- Derek Musial
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
