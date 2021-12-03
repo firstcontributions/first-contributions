@@ -506,6 +506,7 @@ yejashi
 - [Sumaiya Fatma](https://github.com/sumushi)
 - [Najam ul Hassan](https://github.com/Najamulhassan3383)
 - [Jocelyn Remington](https://github.com/jocelynrem)
+- [Giovanni Cornejo] (https://github.com/Gearsman24)
 - [Thomas] (https://github.com/MediumChan)
 - [Deletking](https://github.com/Deletking)
 - [Tom Blanchard]
