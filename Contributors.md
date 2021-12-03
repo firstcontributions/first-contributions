@@ -3798,4 +3798,5 @@ Disguy
 - [Matthew Revell](https://github.com/mattatheus)
 - Eric Clayton
 - [Jared Peterson](https://github.com/hobbitcakes)
+- [Zach Curran](https://github.com/curranzach)
 <!-- prettier-ignore-end -->
