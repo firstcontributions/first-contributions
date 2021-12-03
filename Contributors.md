@@ -26,6 +26,7 @@
 - Rachel Peterson
 - David Cooney
 - [Veronica Soden]
+- [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Uttam](https://github.com/helper-uttam)
 - [Alexander Snure](https://github.com/asnure15)
