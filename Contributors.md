@@ -3837,4 +3837,5 @@ Disguy
 - [Sebastian Stockbridge](https://github.com/sstockbridge)
 - [Mark McGinnis](https://github.com/markmcginnis)
 - [Derek Pena](https://github.com/DerekPena)
+- [Joseph Somerdin](https://github.com/asleeponpluto)
 <!-- prettier-ignore-end -->
