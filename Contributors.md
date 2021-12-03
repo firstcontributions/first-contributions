@@ -8,6 +8,7 @@
 - [Dorival](https://github.com/DorivalJunior23)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - kishan Yadav
+- [Aadesh Thirukonda] (https://github.com/aadeshthirukonda)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Marah Musleh](https://github.com/Marahmusleh)
 - [Manan Sharma](https://github.com/manansharma18)
