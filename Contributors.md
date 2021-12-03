@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Heinrich Perez](https://github.com/h-perez)
+- [Mattia Giane](https://github.com/fiordiconio)
 - [Zac Driscoll]
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
