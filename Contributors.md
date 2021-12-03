@@ -18,6 +18,7 @@
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - kishan Yadav
 -  Oliver Yuan
+- Ashish Satyavarapu
 -herman ombasa
 - geuristic
 - Christina Kahn
