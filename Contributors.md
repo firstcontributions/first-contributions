@@ -3809,4 +3809,5 @@ Disguy
 - [Jared Peterson](https://github.com/hobbitcakes)
 - [Zach Curran](https://github.com/curranzach)
 - [Pushme Happy](https://github.com/pushme021)
+- [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
 <!-- prettier-ignore-end -->
