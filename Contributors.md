@@ -20,6 +20,7 @@
 -herman ombasa
 - geuristic
 - Christina Kahn
+- Nikhil Kumawat
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
