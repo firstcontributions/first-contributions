@@ -3836,6 +3836,7 @@ Disguy
 - [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
 - [Mason Anderson](https://github.com/mranderson47)
 - [Mark Sia](https://github.com/marksia)
+- [Brian Pernut](https://github.com/pernutbrian)
 - [Sebastian Stockbridge](https://github.com/sstockbridge)
 - [Mark McGinnis](https://github.com/markmcginnis)
 - [Derek Pena](https://github.com/DerekPena)
