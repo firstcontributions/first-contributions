@@ -26,6 +26,7 @@
 - Christina Kahn
 - Nikhil Kumawat
 - Derek Musial
+- Juliette Montes
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
