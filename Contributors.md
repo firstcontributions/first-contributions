@@ -193,6 +193,7 @@ Heng Sun
 - [Manoj Gopale] (https://github.com/ManojGopale)
 - [Russell Buck] (https://github.com/buckage)
 - [Subinoy Dutta] (https://github.com/subi9)
+Nathalie Bonin
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [casperera] (https://github.com/casperera)
 - [Gmelon] (https://github.com/gmelon)
