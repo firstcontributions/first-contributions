@@ -285,6 +285,7 @@ yejashi
 - [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Weston Henschel](https://github.com/wchenschel)
 - [Yun Zhe Wong] (https://github.com/yunzhewong)
+- [Weiqing Han] (https://github.com/weiqinghan)
 - [Pablo Rodriguez](https://github.com/pablo-alex)
 - [Heather Yager](https://github.com/heatheryager)
 - [John Tettis](https://github.com/john-tettis):)
