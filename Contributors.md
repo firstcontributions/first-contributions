@@ -35,7 +35,6 @@
 - Jonathan Joseph
 - David Cooney
 - Ryan Roth
-- Ali Abusulb - Go Gators
 - [Veronica Soden]
 - [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
@@ -113,6 +112,7 @@ Tristan Bottone
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - Vinayaka Hegde
 - Brant Norris
+- Sofia Valdes
 - Graham Vaith
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
