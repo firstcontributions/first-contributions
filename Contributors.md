@@ -3799,6 +3799,7 @@ Disguy
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - [Yoni Smolyar] (https://github.com/ysmolyar)
 - [Jitul Kumar Laphong] (https://github.com/jitulkr)
+- [Joseph Pacifici] (https://github.com/josephpacifici7)
 - Vince Duarte
 - Kathy Chowaniec
 - Richard Orama
