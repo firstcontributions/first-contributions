@@ -3812,4 +3812,5 @@ Disguy
 - [Zach Curran](https://github.com/curranzach)
 - [Pushme Happy](https://github.com/pushme021)
 - [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
+- [Mason Anderson](https://github.com/mranderson47)
 <!-- prettier-ignore-end -->
