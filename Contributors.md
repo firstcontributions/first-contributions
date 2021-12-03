@@ -62,6 +62,7 @@ Tristan Bottone
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
 - [Jafar Jalilov](https://github.com/jafarjalilov)
+- [Conner Gallimore]
 - [Nishit Sheth](https://github.com/nishitinfo)
 - [Subhadeep Paul](https://github.com/white-peed)
 - [Dave Coleman](https://github.com/dave1c)
