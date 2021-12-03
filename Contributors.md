@@ -18,6 +18,7 @@
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - kishan Yadav
+- Ellie Brinkman
 - Joshua Weinstein
 -  Oliver Yuan
 - Andres Wolfe
