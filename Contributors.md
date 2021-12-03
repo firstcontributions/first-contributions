@@ -33,6 +33,7 @@
 - Jonathan Joseph
 - David Cooney
 - Ryan Roth
+- Maia Gervasone
 - [Veronica Soden]
 - [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
