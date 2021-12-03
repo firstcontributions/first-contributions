@@ -3839,4 +3839,5 @@ Disguy
 - [Mark McGinnis](https://github.com/markmcginnis)
 - [Derek Pena](https://github.com/DerekPena)
 - [Joseph Somerdin](https://github.com/asleeponpluto)
+- [Connor Short](https://github.com/connorshort)
 <!-- prettier-ignore-end -->
