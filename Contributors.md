@@ -3816,4 +3816,5 @@ Disguy
 - [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
 - [Mason Anderson](https://github.com/mranderson47)
 - [Mark Sia](https://github.com/marksia)
+- [Sebastian Stockbridge](https://github.com/sstockbridge)
 <!-- prettier-ignore-end -->
