@@ -118,6 +118,7 @@ Tristan Bottone
 - Nevermind
 - Brant Norris
 - Graham Vaith
+- Dilimulati Diliyaer
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Najmieh Sadat Safarabadi](https://github.com/najmieh)
