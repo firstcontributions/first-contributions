@@ -19,6 +19,7 @@
 -herman ombasa
 - geuristic
 - Christina Kahn
+- Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
 - Rachel Peterson
