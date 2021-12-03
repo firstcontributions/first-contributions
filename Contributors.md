@@ -18,9 +18,7 @@
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - kishan Yadav
-- Ellie Brinkman
-- Joshua Weinstein
--  Oliver Yuan
+- Hunter Rafferty
 - Andres Wolfe
 - Benjamin Gelok
 - Ashish Satyavarapu
@@ -124,6 +122,7 @@ Tristan Bottone
 - [Alvin Masaba] (https://github.com/funkyman3121)
 - [Ajay Kannan](https://github.com/Ajay-Kannan7)
 - [Amrendra Singh] (https://github.com/amrendra01)
+- Hunter Rafferty
 - Evangelos Spyromilios -> 42Wolfsburg (https://github.com/V-Spyromilios)
 - [Daniel Ty] (https://github.com/tydan3)
 - [JohannesB]
