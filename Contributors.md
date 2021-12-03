@@ -360,6 +360,7 @@ yejashi
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
 - [Hardik]
+- [Gabe Myers] (https://github.com/gabethemyers)
 - [Riley]
 - [Naman Sharma](https://github.com/nmnsharma007)
 - [Maxime Studter](https://github.com/MaximeSTUDTER)
