@@ -2420,6 +2420,7 @@ Himanshu Dedha
 - [Vi1234sh12](https://github.com/Vi1234sh12)
 - [Gustavo Baptista](https://github.com/gustavoggsb)
 - [Olivia Gambitsis](https://github.com/olivia-gambitsis)
+- [Logan Rotenberger](https://github.com/LRotenberger)
 - [Edy Michel](https://github.com/edmichs)
 - [reidoh](https://github.com/reidoh)
 - [Kyle Smith](https://github.com/sKorpion19091)
