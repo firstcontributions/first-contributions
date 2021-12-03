@@ -112,6 +112,7 @@ Tristan Bottone
 - [Avinash Prasad] (https://github.com/avionmission)
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - Vinayaka Hegde
+- Nevermind
 - Brant Norris
 - Graham Vaith
 - [Quinn Moffat](https://github.com/qlmoffat)
