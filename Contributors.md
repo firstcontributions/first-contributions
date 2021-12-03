@@ -727,6 +727,7 @@ yejashi
 - [jungho](https://github.com/mju230)
 - [David Le](https://github.com/DaveLe)
 - [Dev-Sam9](https://github.com/Dev-Sam9)
+- [Haohui Bao](https://github.com/SusBhhs)
 - [Debabrata Banerjee](https://github.com/debabratabanerjee)
 - [Jason Petersen](https://github.com/jasonp670)
 - [Jeff lin](https://github.com/a1045520)
