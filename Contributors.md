@@ -30,6 +30,7 @@ Justin Villena
 - Reese Quinn
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
+- Isaiah Hernandez
 - Relly Valentine
 - kishan Yadav
 - Ellie Brinkman
