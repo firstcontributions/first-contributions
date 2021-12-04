@@ -25,6 +25,7 @@
 Justin Villena
 - Charles Ulrich
 - Reese Quinn
+- Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
 - Relly Valentine
 - kishan Yadav
