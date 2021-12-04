@@ -24,6 +24,7 @@
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
+- [Ayush Shakya](https://github.com/Ayu5h5hakya)
 Justin Villena
 - Charles Ulrich
 - Dimitri Distefano
