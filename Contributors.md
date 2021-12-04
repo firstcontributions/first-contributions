@@ -3652,6 +3652,7 @@ Disguy
 - [Zach Ripka](https://github.com/zripka)
 - [Leon](https://github.com/leonvsc)
 - [Windra](https://github.com/pwindrap18)
+- [Justin Rossiter]
 - [Raj Dutta](https://github.com/rajprogrammerbd)
 - [Souvik Giri](https://github.com/SouvikGiri)
 - [Kanha Tomar](https://github.com/kanharajput)
@@ -3878,5 +3879,4 @@ Disguy
 - [Gabriel Brosula](https://github.com/gabrielbrosula)
 - [Dave D](https://github.com/Dnasty777)
 - Nikos Dupuy
-- Justin Rossiter
 <!-- prettier-ignore-end -->
