@@ -52,6 +52,7 @@ Justin Villena
 - Kaj Wiegerink
 - Nikhil Kumawat
 - Derek Musial
+- Juliette Montes
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
