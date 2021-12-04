@@ -10,6 +10,7 @@
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Zac Driscoll]
+- [Claudia Brito] (https://github.com/claudiabrito96)
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
