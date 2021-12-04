@@ -30,6 +30,7 @@
 -herman ombasa
 - geuristic
 - Christina Kahn
+- Dylan DeAlmeida
 - Nikhil Kumawat
 - Derek Musial
 - Grace Tholl
