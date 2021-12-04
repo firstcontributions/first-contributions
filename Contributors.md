@@ -3876,5 +3876,5 @@ Disguy
 - [Joe Gross](https://github.com/joegross7)
 - [Gabriel Brosula](https://github.com/gabrielbrosula)
 - [Dave D](https://github.com/Dnasty777)
-- Nikos Dupuy
+-Nikos Dupuy
 <!-- prettier-ignore-end -->
