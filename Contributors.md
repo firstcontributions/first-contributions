@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [MAb](https://github.com/MAb540)
@@ -38,6 +38,7 @@ Justin Villena
 - Dimitri Distefano
 - William Manuel
 - Reese Quinn
+- Natalie Heywood
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
 - Isaiah Hernandez
