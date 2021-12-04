@@ -23,11 +23,12 @@
 - kishan Yadav
 - Ellie Brinkman
 - Joshua Weinstein
--  Oliver Yuan
+- Dakota Cappel
+- Oliver Yuan
 - Andres Wolfe
 - Benjamin Gelok
 - Ashish Satyavarapu
--herman ombasa
+- herman ombasa
 - geuristic
 - Christina Kahn
 - Dylan DeAlmeida
