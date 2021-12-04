@@ -581,7 +581,7 @@ yejashi
 - [Lyle Wincentsen](https://github.com/mrspaghetti)
 - [Joshua Buscher](https://github.com/Crimsondragon2002)
 - [bruh moment]
-- [Sean O'Mahony]
+- [Sean O'Mahony](https://github.com/119401062)
 - [Jaai Joshi] (https://github.com/Jaaij26)
 - [Pranav Krishnan](https://github.com/PranavKrishnan007)
 - [Elen S](https://github.com/ElenaS1981)
