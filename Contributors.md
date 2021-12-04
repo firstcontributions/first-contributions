@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 -Omar Maslamani
 -Chidiogo Onoh
+
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
 - [Colin Rocks](https://github.com/colinrocksuf)
@@ -26,6 +27,7 @@
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 Justin Villena
 - Charles Ulrich
+- Nicholas Bonhoure (https://github.com/nicholasbonhoure)
 - William Manuel
 - Reese Quinn
 - Mikhail Budko (https://github.com/mikhailbudko)
