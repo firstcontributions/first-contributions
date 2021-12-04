@@ -52,7 +52,7 @@ Justin Villena
 - Kaj Wiegerink
 - Nikhil Kumawat
 - Derek Musial
-- Enemias Itzep
+- Enemias R Itzep
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
