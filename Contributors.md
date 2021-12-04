@@ -1,4 +1,4 @@
-
+﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Joel Guerreiro](https://github.com/j-guerreiro)
@@ -262,6 +262,7 @@ Nathalie Bonin
 - [Taca] (https://github.com/tic-tacs)
 - [kkatottn](https://github.com/kkatottn)
 yejashi
+- [Steven Menendez]
 - [cs-z](https://github.com/cs-z)
 - [Saad Rizwan](https://github.com/SaadRizwanKhan) 🇵🇰
 - [Gourav Kadam](https://github.com/Gourav2404)
