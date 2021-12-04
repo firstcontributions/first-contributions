@@ -82,6 +82,7 @@ Justin Villena
 - [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
 Tristan Bottone
+-Daymao Silva
 - [Nitesh Kumar](https://github.com/NITESH37)
 - [Joshua Best](https://github.com/joshuabest541)
 - [Ricardo Conchas](https://github.com/rishells)
