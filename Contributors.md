@@ -3899,4 +3899,5 @@ Michael Wong
 - Nikos Dupuy
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
+- [Will McCoy] (https://github.com/willway09)
 <!-- prettier-ignore-end -->
