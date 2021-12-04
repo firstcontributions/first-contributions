@@ -47,6 +47,7 @@ Justin Villena
 -herman ombasa
 - geuristic
 - Christina Kahn
+- Kevin Zak
 - Dylan DeAlmeida
 - Nikhil Kumawat
 - Derek Musial
