@@ -490,6 +490,7 @@ yejashi
 - [Walt W] (https://github.com/WaltW358)
 - [Dusk Kitil](https://github.com/duskkitil)
 - [Thulani Nyama](https://github.com/ThulaniNyama)
+- [Daniel Rousso](https://github.com/dan23uf)
 - [Dev Parikh](https://github.com/dev79844)
 - [Levan Vekua](https://github.com/lvekua)
 - [Samatar(Abdulaziz) Abdi](https://github.com/azeez1776)
