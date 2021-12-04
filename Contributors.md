@@ -4,11 +4,13 @@
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
 -Chidiogo Onoh
+- [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Zac Driscoll]
+- [Claudia Brito] (https://github.com/claudiabrito96)
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
@@ -18,8 +20,10 @@
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
+- [Gabriel Bermudez](https://github.com/skinnii)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
+- [Nick Strawser] (https://github.com/nickstrawser)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
@@ -39,11 +43,13 @@ Justin Villena
 - Ellie Brinkman
 - Joshua Weinstein
 -  Oliver Yuan
+- Vivian Sung
 - Kemari Chen Loy
 - Andres Wolfe
 - Benjamin Gelok
 - Ben Winans 
 - Sijia Li
+- Justin Golabek
 - Ashish Satyavarapu
 -herman ombasa
 - geuristic
@@ -53,6 +59,7 @@ Justin Villena
 - Nikhil Kumawat
 - Derek Musial
 - Enemias R Itzep
+- Juliette Montes
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
@@ -273,6 +280,7 @@ yejashi
 - [Harvinder Singh](https://github.com/Happy-developing/)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Lily Maloney] (https://github.com/Lukewarm-Water)
+- [Rachel West] (https://github.com/piggyplum)
 - [Nathan Lin] (https://github.com/nathanlin109)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Agrim Saharia] (https://github.com/agrimsaharia)
@@ -3898,4 +3906,5 @@ Michael Wong
 - Nikos Dupuy
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
+- [Will McCoy] (https://github.com/willway09)
 <!-- prettier-ignore-end -->
