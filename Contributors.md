@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [MAb](https://github.com/MAb540)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
 -Chidiogo Onoh
