@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
+- [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Zac Driscoll]
 - [Patrick Harris](https://github.com/PatrickHJR)
