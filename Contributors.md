@@ -47,6 +47,7 @@ Justin Villena
 - Yuko Matsumoto
 - Tianlan Yang
 - Rachel Peterson
+- Ian Craig
 - Rosario Firmino Palazzolo
 -Arthur Berry
 - Jonathan Joseph
