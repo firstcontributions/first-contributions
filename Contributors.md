@@ -26,6 +26,7 @@
 -  Oliver Yuan
 - Andres Wolfe
 - Benjamin Gelok
+- Sijia Li
 - Ashish Satyavarapu
 -herman ombasa
 - geuristic
