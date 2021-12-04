@@ -24,6 +24,7 @@
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
 Justin Villena
 - Charles Ulrich
+- Samantha Martinez
 - Reese Quinn
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
