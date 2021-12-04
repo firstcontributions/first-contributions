@@ -49,6 +49,7 @@ Justin Villena
 - geuristic
 - Christina Kahn
 - Dylan DeAlmeida
+- Kaj Wiegerink
 - Nikhil Kumawat
 - Derek Musial
 - Grace Tholl
