@@ -3857,4 +3857,5 @@ Disguy
 - [Kareem Bataineh](https://github.com/kareembataineh)
 - [Chase Whitfield](https://github.com/chasewhitfield)
 - [Joe Gross](https://github.com/joegross7)
+- [Gabriel Brosula](https://github.com/gabrielbrosula)
 <!-- prettier-ignore-end -->
