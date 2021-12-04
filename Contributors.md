@@ -3865,4 +3865,5 @@ Disguy
 - [Chase Whitfield](https://github.com/chasewhitfield)
 - [Joe Gross](https://github.com/joegross7)
 - [Gabriel Brosula](https://github.com/gabrielbrosula)
+- [Dave D](https://github.com/Dnasty777)
 <!-- prettier-ignore-end -->
