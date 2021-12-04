@@ -33,6 +33,7 @@
 - [Ayush Shakya](https://github.com/Ayu5h5hakya)
 Justin Villena
 - Charles Ulrich
+- Lidor Waldman
 - Dimitri Distefano
 - William Manuel
 - Reese Quinn
