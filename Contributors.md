@@ -3849,4 +3849,5 @@ Disguy
 - [Joseph Somerdin](https://github.com/asleeponpluto)
 - [Connor Short](https://github.com/connorshort)
 - [Kareem Bataineh](https://github.com/kareembataineh)
+- [Chase Whitfield](https://github.com/chasewhitfield)
 <!-- prettier-ignore-end -->
