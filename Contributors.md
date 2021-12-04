@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
 -Chidiogo Onoh
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
