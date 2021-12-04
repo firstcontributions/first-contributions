@@ -596,6 +596,7 @@ yejashi
 - [Arpita Pandya](https://github.com/arpitapandya)
 - [Shahid Hussain](https://github.com/Shahid0120)
 - [Sachin Singh](https://github.com/thesachinsingh)
+- [Taise Miyazumi](https://github.com/tmiyazumi)
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
 - [Rini]
