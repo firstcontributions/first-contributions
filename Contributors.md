@@ -18,6 +18,7 @@
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
+- [Gabriel Bermudez](https://github.com/skinnii)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
