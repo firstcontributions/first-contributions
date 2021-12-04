@@ -30,7 +30,6 @@ Justin Villena
 - Reese Quinn
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
-- Isaiah Hernandez
 - Relly Valentine
 - kishan Yadav
 - Ellie Brinkman
@@ -79,6 +78,7 @@ Justin Villena
 - [Zodd13](https://github.com/Zodd13)
 - [Caio Tayota](https://github.com/caiotayota)
 - [Rishi Kumar](https://github.com/CodesOfRishi)
+- [Jopplk](https://github.com/Jopplk)
 - [Xessive Observer](https://github.com/XessiveObserver)
 - [waterleaper](https://github.com/waterleaper8)
 - [Ayesha Pathan](https://github.com/ayesha1026)
@@ -3860,7 +3860,6 @@ Disguy
 - [Colton Bonell] (https://github.com/cbonell01)
 - [Silvio Torre] (https://github.com/silviotorre)
 - [Matthew Revell](https://github.com/mattatheus)
-- [Shivan Desai](https://github.com/SUD592001)
 - Eric Clayton
 - Kevin Tang
 - [Kelly Dheng] (https://github.com/kdheng)
