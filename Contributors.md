@@ -3799,6 +3799,7 @@ Disguy
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Valentin Simeonov] (https://github.com/garadraw/)
+- [Hunter Lawson] (https://github.com/hunterlawson)
 - [Michelle Gude](https://github.com/michellecgude)
 - [Md Jabir Hossain](https://github.com/skywalker-alt327)
 - [Dharansh Neema](https://github.com/Dharansh-Neema)
