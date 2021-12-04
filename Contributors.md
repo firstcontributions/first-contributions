@@ -3885,4 +3885,5 @@ Disguy
 - [Dave D](https://github.com/Dnasty777)
 - Nikos Dupuy
 - [Monique Huang] (https://github.com/moniquehuang)
+- Jack Wu
 <!-- prettier-ignore-end -->
