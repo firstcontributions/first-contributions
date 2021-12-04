@@ -4,6 +4,7 @@
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
 -Chidiogo Onoh
+- [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
 - [Colin Rocks](https://github.com/colinrocksuf)
