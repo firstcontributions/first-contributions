@@ -22,6 +22,7 @@
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
+- [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 Justin Villena
 - Charles Ulrich
 - Reese Quinn
