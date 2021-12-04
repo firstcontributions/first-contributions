@@ -3857,4 +3857,5 @@ Disguy
 - [Kareem Bataineh](https://github.com/kareembataineh)
 - [Chase Whitfield](https://github.com/chasewhitfield)
 - [Joe Gross](https://github.com/joegross7)
+- [Catherine Healy](https://github.com/catherinehealyy)
 <!-- prettier-ignore-end -->
