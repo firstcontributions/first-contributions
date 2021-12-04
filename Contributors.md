@@ -11,6 +11,7 @@
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
 - [Santosh Managuli](https://github.com/santoshmanaguli)
 - [Alan Kemboi](https://github.com/alankemboi)
+- [Claudia Rubio](https://github.com/claudia-rubio)
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
