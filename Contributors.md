@@ -25,6 +25,7 @@
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 Justin Villena
 - Charles Ulrich
+- William Manuel
 - Reese Quinn
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
