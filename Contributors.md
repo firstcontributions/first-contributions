@@ -58,6 +58,7 @@ Justin Villena
 - David Cooney
 - Ryan Roth
 - Ali Abusulb - Go Gators
+- Nicolas Perez
 - [Veronica Soden]
 - [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
