@@ -24,6 +24,7 @@
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
 Justin Villena
 - Charles Ulrich
+- Reese Quinn
 - Emma Bailly
 - Relly Valentine
 - kishan Yadav
