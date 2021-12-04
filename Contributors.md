@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
+- [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Zac Driscoll]
 - [Patrick Harris](https://github.com/PatrickHJR)
@@ -10,6 +11,7 @@
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
 - [Santosh Managuli](https://github.com/santoshmanaguli)
 - [Alan Kemboi](https://github.com/alankemboi)
+- [Claudia Rubio](https://github.com/claudia-rubio)
 - [Dayce](https://github.com/LDesse)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
@@ -19,7 +21,9 @@
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
+Justin Villena
 - Charles Ulrich
+- Emma Bailly
 - Relly Valentine
 - kishan Yadav
 - Ellie Brinkman
@@ -79,6 +83,7 @@
 - [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
 Tristan Bottone
+-Daymao Silva
 - [Nitesh Kumar](https://github.com/NITESH37)
 - [Joshua Best](https://github.com/joshuabest541)
 - [Ricardo Conchas](https://github.com/rishells)
@@ -375,6 +380,7 @@ yejashi
 - [Matthew McAndrews] (https://github.com/MatthewMcAndrews)
 - [Rahul Goswami] https://github.com/gosrahul21
 - [Solevni]
+- [Joseph Hardin] https://github.com/josephphardin
 - [dewhallez] https://github.com/dewhallez
 - [Willen Yang] (https://github.com/yangxile4)
 - [Keen1] (https://github.com/Keen1)
@@ -3854,8 +3860,10 @@ Disguy
 - [Derek Pena](https://github.com/DerekPena)
 - [Joseph Somerdin](https://github.com/asleeponpluto)
 - [Connor Short](https://github.com/connorshort)
+-Yash Patel
 - [Kareem Bataineh](https://github.com/kareembataineh)
 - [Chase Whitfield](https://github.com/chasewhitfield)
 - [Joe Gross](https://github.com/joegross7)
 - [Catherine Healy](https://github.com/catherinehealyy)
+- [Gabriel Brosula](https://github.com/gabrielbrosula)
 <!-- prettier-ignore-end -->
