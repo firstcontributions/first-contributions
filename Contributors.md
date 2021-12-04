@@ -46,6 +46,7 @@ Justin Villena
 - Tianlan Yang
 - Rachel Peterson
 - Rosario Firmino Palazzolo
+-Arthur Berry
 - Jonathan Joseph
 - David Cooney
 - Ryan Roth
