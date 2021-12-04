@@ -3921,4 +3921,5 @@ Michael Wong
 - [mahiro72](https://github.com/mahiro72)
 - [Axel Oliver](https://github.com/AxelOliver)
 - [Nikhil Kumar Tyagi](https://github.com/nkroker)
+- [Rémi Thériault](https://github.com/RemPsyc)
 <!-- prettier-ignore-end -->
