@@ -21,6 +21,7 @@
 - [Gabriel Bermudez](https://github.com/skinnii)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
+- [Nick Strawser] (https://github.com/nickstrawser)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [Ethan Coward](https://github.com/CDE90)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
