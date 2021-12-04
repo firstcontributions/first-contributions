@@ -26,6 +26,7 @@
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 Justin Villena
 - Charles Ulrich
+- Dimitri Distefano
 - William Manuel
 - Reese Quinn
 - Mikhail Budko (https://github.com/mikhailbudko)
