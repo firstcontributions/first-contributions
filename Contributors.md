@@ -660,6 +660,7 @@ yejashi
 - [Prasad Naik] (https://github.com/naik24)
 - Karin
 - Alessandro Garcia
+- Riddhi Banerjee
 - [Quincy Miller] (https://github.com/QuincyMillerDev)
 - [Navneet Kumar] (https://github.com/NavneetKumar2907)
 - [José Londoño](https://github.com/jlondonob)
