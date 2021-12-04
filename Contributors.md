@@ -143,6 +143,7 @@ Tristan Bottone
 - [Yuvraj Chaudhari](https://github.com/yuvrajchaudhari03)
 - [Junichi K](https://github.com/jun-k)
 - [42wob] (https://github.com/qduong42/)
+- [Eddie Ferro] (https://github.com/EddieFerro)
 - [JGM01] (https://github.com/JGM01/)
 - [Jenny Wang](https://github.com/jennywang23)
 - [Dhanush Nadella](https://github.com/dnadella787)
