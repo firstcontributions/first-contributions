@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+-Omar Maslamani
 -Chidiogo Onoh
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
