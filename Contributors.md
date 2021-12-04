@@ -20,6 +20,7 @@
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
 - Charles Ulrich
+- Emma Bailly
 - Relly Valentine
 - kishan Yadav
 - Ellie Brinkman
