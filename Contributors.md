@@ -29,6 +29,7 @@ Justin Villena
 - Ellie Brinkman
 - Joshua Weinstein
 -  Oliver Yuan
+- Kemari Chen Loy
 - Andres Wolfe
 - Benjamin Gelok
 - Sijia Li
