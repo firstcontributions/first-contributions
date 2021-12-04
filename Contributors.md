@@ -272,6 +272,7 @@ yejashi
 - [Harvinder Singh](https://github.com/Happy-developing/)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Lily Maloney] (https://github.com/Lukewarm-Water)
+- [Rachel West] (https://github.com/piggyplum)
 - [Nathan Lin] (https://github.com/nathanlin109)
 - [Elliot Rodger] (https://github.com/ElliotR1997)
 - [Agrim Saharia] (https://github.com/agrimsaharia)
