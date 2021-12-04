@@ -27,10 +27,11 @@ Justin Villena
 - Emma Bailly
 - Relly Valentine
 - kishan Yadav
-- Ellie Brinkman
+- Ellie BrinkmanF
 - Joshua Weinstein
 -  Oliver Yuan
 - Kemari Chen Loy
+- Ian Craig
 - Andres Wolfe
 - Benjamin Gelok
 - Ben Winans 
