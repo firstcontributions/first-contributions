@@ -3918,4 +3918,5 @@ Michael Wong
 - [Raiee Gulhane] (https://github.com/raieegulhane)
 - [mahiro72](https://github.com/mahiro72)
 - [Axel Oliver](https://github.com/AxelOliver)
+- [Nikhil Kumar Tyagi](https://github.com/nkroker)
 <!-- prettier-ignore-end -->
