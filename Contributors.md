@@ -663,6 +663,7 @@ yejashi
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
 - [Magnus Sustad](https://github.com/mgnss)
+- [Boris Russanov] (https://github.com/Boris-Russanov)
 - [Mohit Verma](https://github.com/vermamohit13)
 - [Code Digi Fort](https://github.com/codedigifort)
 - [Ali Murtaza Memon](https://github.com/ali-thegilfoyle)
