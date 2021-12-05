@@ -13,6 +13,7 @@
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Brian N. Smith](https://github.com/nuonce)
+- [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
 - [Claudia Brito](https://github.com/claudiabrito96)
 - [Patrick Harris](https://github.com/PatrickHJR)
@@ -3911,4 +3912,5 @@
 - [Nikhil Kumar Tyagi](https://github.com/nkroker)
 - [Rémi Thériault](https://github.com/RemPsyc)
 - [Julian Arvesu](https://github.com/jarvesu)
-  <!-- prettier-ignore-end -->
+- [Maria Taktasheva](https://github.com/mtaktash)
+<!-- prettier-ignore-end -->
