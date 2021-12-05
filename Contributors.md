@@ -35,6 +35,7 @@
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 - [Ayush Shakya](https://github.com/Ayu5h5hakya)
 - [Ricky de Medeiros](https://github.com/Ricky-de-Medeiros)
+- [Sourav Batgiri](https://github.com/BitterSteelbsn)
 Justin Villena
 - Charles Ulrich
 - Lidor Waldman
