@@ -46,10 +46,10 @@ Justin Villena
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
 - Isaiah Hernandez
-- El Mathieu
 - Relly Valentine
 - kishan Yadav
 - Ellie Brinkman
+- El Mathieu 
 - Joshua Weinstein
 -  Oliver Yuan
 - Vivian Sung
