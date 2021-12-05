@@ -53,7 +53,7 @@ Justin Villena
 - Kemari Chen Loy
 - Andres Wolfe
 - Benjamin Gelok
-- Ben Winans 
+- Ben Winans
 - Sijia Li
 - Justin Golabek
 - Ashish Satyavarapu
@@ -87,7 +87,7 @@ Justin Villena
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
-- [Khang Bui] (https://github.com/KhangHB) 
+- [Khang Bui] (https://github.com/KhangHB)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Priyanshu Patwa](https://github.com/Priyanshu2022)
 - [Christopher_Dang](https://github.com/christopherdang)
@@ -406,7 +406,7 @@ yejashi
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
-- [rosa-xo](https://github.com/rosa-xo) 
+- [rosa-xo](https://github.com/rosa-xo)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Brandon Simon](https://github.com/simonbr2)
@@ -1996,6 +1996,7 @@ Himanshu Dedha
 - [Htoo Khant Linn](https://github.com/htookhantlinn)
 - [Yashraj Basan](https://github.com/yashrajb)
 - [Crystal Faqiri](https://github.com/cfaqiri)
+- [akria-ngnm](https://github.com/akira-ngnm)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
 [Jaewan0](https://github.com/Jaewan0)
@@ -3792,7 +3793,7 @@ Michael Wong
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
 - [Steve Toms](https://github.com/thermalhound)
-- [Satyam Sinha](https://github.com/satsin06) 
+- [Satyam Sinha](https://github.com/satsin06)
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
@@ -3927,4 +3928,5 @@ Michael Wong
 - [Rémi Thériault](https://github.com/RemPsyc)
 - [Julian Arvesu](https://github.com/jarvesu)
 - [Maria Taktasheva](https://github.com/mtaktash)
+
 <!-- prettier-ignore-end -->
