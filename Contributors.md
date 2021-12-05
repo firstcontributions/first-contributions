@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Dylan VanStaden] (https://github.com/kernenovae)
 - [MAb](https://github.com/MAb540)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
