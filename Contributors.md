@@ -42,6 +42,7 @@
   Justin Villena
 - Charles Ulrich
 - Lidor Waldman
+- Fareed Khamitov
 - Dimitri Distefano
 - William Manuel
 - Reese Quinn
