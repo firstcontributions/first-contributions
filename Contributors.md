@@ -3935,4 +3935,5 @@ Michael Wong
 - [Julian Arvesu](https://github.com/jarvesu)
 - [Maria Taktasheva](https://github.com/mtaktash)
 - [Alexis Todd]
+- [Hanissa Shamsuddin](https://github.com/hanssdd)
 <!-- prettier-ignore-end -->
