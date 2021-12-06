@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [MAb](https://github.com/MAb540)
+- [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
 -Chidiogo Onoh
@@ -50,7 +51,7 @@ Justin Villena
 - kishan Yadav
 - Ellie Brinkman
 - Joshua Weinstein
--  Oliver Yuan
+- Oliver Yuan
 - Vivian Sung
 - Kemari Chen Loy
 - Andres Wolfe
