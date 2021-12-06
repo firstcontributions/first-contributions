@@ -231,6 +231,7 @@ Ajith
 - [mondara] (https://github.com/Mondara)
 - [UnclassedPenguin](https://github.com/UnclassedPenguin)
 - Andres Gaitan
+- [John Bang] (https://github.com/gowrath)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 Heng Sun
 - [Jake Richard](https://github.com/jaARke)
