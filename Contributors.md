@@ -1533,6 +1533,7 @@ Himanshu Dedha
 - [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
 - [Carl Altoveros](https://github.com/carlaltoveros)
+  [Ryan_Sharrar](https://github.com/rsharrar)
 - [Tay West](https://github.com/tayannewest)
 - [Kevin diyelectromusic](https://github.com/diyelectromusic)
 - [Vaishnav Chandurkar](https://github.com/vaishnavme)
