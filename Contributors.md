@@ -3930,4 +3930,5 @@ Michael Wong
 - [Rémi Thériault](https://github.com/RemPsyc)
 - [Julian Arvesu](https://github.com/jarvesu)
 - [Maria Taktasheva](https://github.com/mtaktash)
+- [Alexis Todd]
 <!-- prettier-ignore-end -->
