@@ -3940,4 +3940,5 @@ Michael Wong
 - [Maria Taktasheva](https://github.com/mtaktash)
 - [Alexis Todd]
 - [Hanissa Shamsuddin](https://github.com/hanssdd)
+- [mcurtaz](https://github.com/mcurtaz)
 <!-- prettier-ignore-end -->
