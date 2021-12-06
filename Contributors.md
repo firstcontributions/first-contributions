@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Dylan VanStaden] (https://github.com/kernenovae)
+- [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
