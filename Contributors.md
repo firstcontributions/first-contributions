@@ -4,6 +4,7 @@
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
+- [Satwik Anmol](https://github.com/satwikan/)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 -Omar Maslamani
