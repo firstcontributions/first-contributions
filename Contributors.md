@@ -41,6 +41,7 @@
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 - [Ayush Shakya](https://github.com/Ayu5h5hakya)
 - [Ricky de Medeiros](https://github.com/Ricky-de-Medeiros)
+- [Gouse Mohiddin] (https://github.com/gousemohiddin44)
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 Justin Villena
 - Charles Ulrich
