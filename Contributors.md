@@ -3879,6 +3879,7 @@ Michael Wong
 - [Yoni Smolyar] (https://github.com/ysmolyar)
 - [Jitul Kumar Laphong] (https://github.com/jitulkr)
 - [Joseph Pacifici] (https://github.com/josephpacifici7)
+- [euphros] (https://github.com/euphroshub)
 - Vince Duarte
 - Kathy Chowaniec
 - Richard Orama
