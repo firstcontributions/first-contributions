@@ -180,6 +180,7 @@ Tristan Bottone
 - Nevermind
 - Brant Norris
 - Graham Vaith
+- Jonathan Lagos
 - Dilimulati Diliyaer
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
