@@ -3109,6 +3109,7 @@ Himanshu Dedha
 - [Romeshb](https://github.com/romeshb)
 - [Jorge Agoiz Pedraja](https://github.com/jorgeAgoiz)
 - [Ali Nategh](https://github.com/alinategh-js)
+- [Jimmy](https://github.com/jimcDC)
 - [Rodrigo Pova](https://github.com/rodrigo-pova)
 - [bkmak](https://github.com/bkmak)
 - [windy](https://github.com/zfwang95)
