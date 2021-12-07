@@ -3945,5 +3945,6 @@ Michael Wong
 - [Alexis Todd]
 - [Hanissa Shamsuddin](https://github.com/hanssdd)
 - [mcurtaz](https://github.com/mcurtaz)
+- [Dinesh Lamichhane] (https://github.com/Dynelc)
 - [Angela Stoddard](https://github.com/astoddard514)
 <!-- prettier-ignore-end -->
