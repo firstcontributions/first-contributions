@@ -163,6 +163,7 @@ Tristan Bottone
 - [Hassan] (https://github.com/hassansahhin)
 - [Esra Zeybek] (https://github.com/ElsaZey)
 - [Daniel Corwin] (https://github.com/dcrwn)
+- [Furqan Amjad] (https://github.com/megaz90)
 - [John Shoemaker] (https://github.com/jshoemaker76)
 - [Avinash Prasad] (https://github.com/avionmission)
 - [Aadharsh K Xavier](https://github.com/akxavier)
