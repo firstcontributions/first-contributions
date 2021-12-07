@@ -3960,4 +3960,5 @@ Michael Wong
 - [Angela Stoddard](https://github.com/astoddard514)
 - rachel orr
 - [Lakshmi Prasanna M S](https://github.com/lp060)
+- [Hollie Krauser] (https://github.com/Holliejk)
 <!-- prettier-ignore-end -->
