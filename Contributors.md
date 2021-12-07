@@ -158,6 +158,7 @@ Tristan Bottone
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
 - [DevXenon](https://github.com/HtetLinOo)
+- [Walt Iddings](https://github.com/wai1)
 - [Matthew Kopelowitz](https://github.com/MatthewKopelowitz)
 - [Attyuttam Saha](https://github.com/Attyuttam)
 - James Smith
