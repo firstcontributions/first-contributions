@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
