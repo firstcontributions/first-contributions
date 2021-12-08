@@ -3972,4 +3972,5 @@ Michael Wong
 - [Lakshmi Prasanna M S](https://github.com/lp060)
 - [Hollie Krauser] (https://github.com/Holliejk)
 - [Red Tomato](https://github.com/sudo-tomato)
+- [Sylvain lepe](https://github.com/sylvainlepe)
 <!-- prettier-ignore-end -->
