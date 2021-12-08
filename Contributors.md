@@ -1,8 +1,11 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Rojan Sapkota] (https://github.com/RojanGamingYT)
+- [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Dylan VanStaden] (https://github.com/kernenovae)
+- Tito Ruiz
+- Kristin Wiseman (https://github.com/kristin-wiseman)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
 - [Satwik Anmol](https://github.com/satwikan/)
@@ -11,6 +14,10 @@
 - [Joel Guerreiro](https://github.com/j-guerreiro)
   -Omar Maslamani
   -Chidiogo Onoh
+- [Debjit Karmakar](https://github.com/debjitl45)
+- [Soe Myat Myat](https://github.com/soemyatmyat)
+-Omar Maslamani
+-Chidiogo Onoh
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
@@ -22,6 +29,7 @@
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
 - Reva Vijayn
+- [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Claudia Brito] (https://github.com/claudiabrito96)
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
@@ -59,6 +67,7 @@
 - kishan Yadav
 - Ellie Brinkman
 - Joshua Weinstein
+- Saiful Islam
 - Oliver Yuan
 - Vivian Sung
 - Kemari Chen Loy
@@ -852,6 +861,7 @@
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
+- [Nicholas Willson] (https://github.com/njdubzz/)
 - [Nonchalant Nerd](https://github.com/nonchalant-nerd)
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Subin Chaliyath](https://github.com/subinchaliyath)
@@ -3952,4 +3962,5 @@
 - [Hollie Krauser] (https://github.com/Holliejk)
 - [Red Tomato](https://github.com/sudo-tomato)
 - [Renu Shinde](https://github.com/renu-shinde)
+- [Sylvain lepe](https://github.com/sylvainlepe)
 <!-- prettier-ignore-end -->
