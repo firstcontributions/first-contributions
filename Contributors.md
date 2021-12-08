@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Dylan VanStaden] (https://github.com/kernenovae)
+- Tito Ruiz
 - [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
 - [Satwik Anmol](https://github.com/satwikan/)
