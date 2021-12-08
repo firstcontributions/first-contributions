@@ -10,6 +10,7 @@
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Rajat Jain](https://github.com/Rajat-Jain29) 
 - [Joel Guerreiro](https://github.com/j-guerreiro)
+- [Debjit Karmakar](https://github.com/debjitl45)
 -Omar Maslamani
 -Chidiogo Onoh
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
