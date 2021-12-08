@@ -12,11 +12,11 @@
 -Chidiogo Onoh
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
-- [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
+- [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
