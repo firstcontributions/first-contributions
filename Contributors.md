@@ -5,6 +5,7 @@
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
+- Kristin Wiseman (https://github.com/kristin-wiseman)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
 - [Satwik Anmol](https://github.com/satwikan/)
