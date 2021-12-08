@@ -856,6 +856,7 @@ yejashi
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
+- [Nicholas Willson] (https://github.com/njdubzz/)
 - [Nonchalant Nerd](https://github.com/nonchalant-nerd)
 - [Jo Anna Mollman](https://github.com/jodi08)
 - [Subin Chaliyath](https://github.com/subinchaliyath)
