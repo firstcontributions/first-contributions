@@ -27,6 +27,7 @@
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
 - Reva Vijayn
+- Andrew Freeman
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
 - [Claudia Brito] (https://github.com/claudiabrito96)
