@@ -1920,6 +1920,7 @@ Himanshu Dedha
 - [x1081080](https://github.com/x1081080)
 - [Reza Salam](https://github.com/rezasm)
 - [Rajarshi Dutta](https://github.com/Rajarshi1001)
+- [Jordan Oldham](https://github.com/Skippyy22)
 - [Tuhin Das](https://github.com/tuhindas30)
 - [Leonard Ugorji](https://github.com/LeoUCon)
 - [Atishay J](https://github.com/Atishay-J)
