@@ -3978,4 +3978,5 @@ Michael Wong
 - [Hollie Krauser] (https://github.com/Holliejk)
 - [Red Tomato](https://github.com/sudo-tomato)
 - [Sylvain lepe](https://github.com/sylvainlepe)
+- [Omar Rashed](https://github.com/Omar-F-Rashed)
 <!-- prettier-ignore-end -->
