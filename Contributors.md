@@ -57,6 +57,7 @@
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 Justin Villena
 - Charles Ulrich
+- Alpha Bah
 - Lidor Waldman
 - Dimitri Distefano
 - William Manuel
