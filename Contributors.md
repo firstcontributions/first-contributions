@@ -16,6 +16,7 @@
 - [Heinrich Perez](https://github.com/h-perez)
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
+- [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
