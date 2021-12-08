@@ -10,7 +10,7 @@
 - [MAb](https://github.com/MAb540)
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
-- [Rajat Jain](https://github.com/Rajat-Jain29) 
+- [Rajat Jain](https://github.com/Rajat-Jain29)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
@@ -73,7 +73,7 @@ Justin Villena
 - Nooh AlMahfoodhi (https://github.com/Noah-Comma)
 - chetan nada
 - Benjamin Gelok
-- Ben Winans 
+- Ben Winans
 - Yibo Kong
 - Sijia Li
 - Justin Golabek
@@ -92,7 +92,7 @@ Justin Villena
 - Tianlan Yang
 - Rachel Peterson
 - Yonas  Bahre
-- Ayush Krishnappa 
+- Ayush Krishnappa
 - Rosario Firmino Palazzolo
 -Arthur Berry
 - Jonathan Joseph
@@ -110,7 +110,7 @@ Justin Villena
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
-- [Khang Bui] (https://github.com/KhangHB) 
+- [Khang Bui] (https://github.com/KhangHB)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Priyanshu Patwa](https://github.com/Priyanshu2022)
 - [Christopher_Dang](https://github.com/christopherdang)
@@ -435,7 +435,7 @@ yejashi
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
-- [rosa-xo](https://github.com/rosa-xo) 
+- [rosa-xo](https://github.com/rosa-xo)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Brandon Simon](https://github.com/simonbr2)
@@ -568,7 +568,7 @@ yejashi
 - [Tibo De Peueter](https://github.com/fortemfiducia)
 - [chear5967] (http://github.com/chear5967)
 - [Gaman Jain] (https://github.com/gamanjain)
-- [Bastien Oeuvrard] (https://github.com/Sairkko)  
+- [Bastien Oeuvrard] (https://github.com/Sairkko)
 - [Mark Jot](https://github.com/markojot)
 - [Saumya](https://github.com/Saumya132)
 - [Guy Kayam] (https://github.com/GuyKayam)
@@ -1965,6 +1965,7 @@ Himanshu Dedha
 - [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
+- [Armando Claudio Jiménez](https://github.com/armandoclaudio)
 - [Kaushik Sai Kadali](https://github.com/kaushiksai29)
 - [Ashish Shroti](https://github.com/ashishshroti14)
 - [Alpesh Valvi](https://github.com/AlpeshValvi123)
@@ -3828,7 +3829,7 @@ Michael Wong
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
 - [Steve Toms](https://github.com/thermalhound)
-- [Satyam Sinha](https://github.com/satsin06) 
+- [Satyam Sinha](https://github.com/satsin06)
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
