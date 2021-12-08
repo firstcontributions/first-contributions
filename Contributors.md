@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
