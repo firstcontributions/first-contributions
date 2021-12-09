@@ -2722,6 +2722,7 @@ Himanshu Dedha
 - [Parthib Banerjee](https://github.com/parthib01)
 - [Carlos Gamboa](https://github.com/gamboacarlos)
 - [Alvin Zhao](https://github.com/yzAlvin)
+- [Adib Attie](https://github.com/dibsonthis)
 - [Dmego](https://github.com/dmego)
 - [Lcan](https://github.com/lcan520)
 - [Sooraj Sunil](https://github.com/soorajsunil1409)
