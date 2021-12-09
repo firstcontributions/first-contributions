@@ -148,6 +148,7 @@ Justin Villena
 - [Somnath Prasad](https://github.com/somnathPrasad)
 - [Aditya Sahatonde](https://github.com/AdityaSahatonde)
 - [Advait Jain](https://github.com/Zoronium)
+- [Yugal Mishra](https://github.com/yugaled)
 - [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
 Tristan Bottone
