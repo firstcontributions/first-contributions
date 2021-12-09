@@ -3994,4 +3994,5 @@ Michael Wong
 - [Red Tomato](https://github.com/sudo-tomato)
 - [Sylvain lepe](https://github.com/sylvainlepe)
 - [Omar Rashed](https://github.com/Omar-F-Rashed)
+- [Jay Nam](https://github.com/yaluruns)
 <!-- prettier-ignore-end -->
