@@ -55,6 +55,7 @@ Jawadur
 - [Ayush Shakya](https://github.com/Ayu5h5hakya)
 - [Ricky de Medeiros](https://github.com/Ricky-de-Medeiros)
 - [Gouse Mohiddin] (https://github.com/gousemohiddin44)
+- [Zach Simmons] (https://github.com/zjsimmons13)
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 Justin Villena
 - Charles Ulrich
