@@ -17,6 +17,7 @@
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
+- [Sean Lubbers](https://github.com/festizio)
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
