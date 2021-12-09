@@ -60,6 +60,7 @@ Jawadur
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 Justin Villena
 - Charles Ulrich
+- [Ashutosh Aswal](https://github.com/yellowHatpro)
 - Alpha Bah
 - Lidor Waldman
 - Dimitri Distefano
