@@ -40,6 +40,7 @@ Jawadur
 - [Alan Kemboi](https://github.com/alankemboi)
 - [Claudia Rubio](https://github.com/claudia-rubio)
 - [Dayce](https://github.com/LDesse)
+- [Debopam Roy](https://github.com/DebopamRoy)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
 - [Gabriel Bermudez](https://github.com/skinnii)
