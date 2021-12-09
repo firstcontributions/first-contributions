@@ -3791,6 +3791,7 @@ Michael Wong
 - [Debobroto Talukder](https://github.com/debobrototalukder)
 - [Liz Shestakova](https://github.com/nanopick)
 - [Daniel Pankratov](https://github.com/DanielPankratov)
+- [RRFish](https://github.com/RRFish)
 - [Oskar Dragon](https://github.com/oskar-dragon)
 - [Ziyue Zhou](https://github.com/ziyue5)
 [HeonJun] (http://github.com/bluedeepweb)
