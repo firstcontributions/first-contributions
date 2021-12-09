@@ -2707,6 +2707,7 @@ Himanshu Dedha
 - [lastchiliarch](https://github.com/lastchiliarch)
 - [GrilledLettuce](https://github.com/GrilledLettuce)
 - [RyanHu](https://github.com/RyanHu0401/)
+- [Konstantin Kerekovski](https://github.com/kerekovskik)
 - [N3RO4](https://github.com/N3RO4/)
 - [NPU-Franklin](https://github.com/NPU-Franklin)
 - [DaKing👍🏼](https://github.com/shenduldh)
