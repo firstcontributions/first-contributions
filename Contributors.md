@@ -161,6 +161,7 @@ Tristan Bottone
 - [Ulrich Vollert](https://github.com/ulrivo)
 - [Anuj Varshney](https://github.com/ianujvarshney)
 - [ACF] (https//github.com/adriancf-br)
+- [Jonathan Conde](https://github.com/JC0nde)
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
 - [DJ Taylor](https://github.com/djtaylor8)
