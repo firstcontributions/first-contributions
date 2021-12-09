@@ -4003,4 +4003,5 @@ Michael Wong
 - [Sylvain lepe](https://github.com/sylvainlepe)
 - [Omar Rashed](https://github.com/Omar-F-Rashed)
 - [Jay Nam](https://github.com/yaluruns)
+- [SoonBanned](https://github.com/SoonBanned)
 <!-- prettier-ignore-end -->
