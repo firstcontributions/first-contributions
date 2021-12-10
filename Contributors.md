@@ -34,6 +34,7 @@ Jawadur
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
 - [Claudia Brito] (https://github.com/claudiabrito96)
+- [Austin Stephens] (https://github.com/AustinStephens)
 - [Patrick Harris](https://github.com/PatrickHJR)
 - [Brian Tsai](https://github.com/bpsimusic)
 - [Aeyon Ahmad](https://github.com/AeyonAhmad)
