@@ -932,6 +932,7 @@ yejashi
 - [Divya Eldo](https://github.com/Divya-mariyam)
 - [Alice Petzinger](https://github.com/alicepetzinger)
 - [Manvi Pachauri](https://github.com/ManviPachauri)
+- [Brian Hyun](https://github.com/brianhyun)
 - [Omid Shahidi](https://github.com/TheOmid)
 - [sruly rosenblat](https://github.com/codeForX)
 - [MostafaKMilly](https://github.com/MostafaKMilly)
