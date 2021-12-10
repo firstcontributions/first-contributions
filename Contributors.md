@@ -3428,6 +3428,7 @@ Himanshu Dedha
 - [Abdullah0sama](https://github.com/Abdullah0sama/)
 - [Rado Maycon](https://github.com/RadoMaycon)
 - [Adarsh Thakur](https://github.com/adrsh-23)
+- [Valentyn Grygoriev] (https://github.com/zigfridus)
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak](https://github.com/UD11)
 - [Aditya Tapshalkar](https://github.com/adityataps)
