@@ -20,6 +20,7 @@
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
+- Nithin
 - [Sean Lubbers](https://github.com/festizio)
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
