@@ -4,6 +4,7 @@
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
+- [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
 - Kristin Wiseman (https://github.com/kristin-wiseman)
