@@ -1,6 +1,9 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+
+- [NarcissusBlog](https://narcissusblog.top)
+
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
