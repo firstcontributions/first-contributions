@@ -64,6 +64,7 @@ Jawadur
 Justin Villena
 - Charles Ulrich
 - Alpha Bah
+- Alon Oziel
 - Lidor Waldman
 - Dimitri Distefano
 - William Manuel
