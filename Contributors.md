@@ -4025,4 +4025,5 @@ Michael Wong
 - [Jay Nam](https://github.com/yaluruns)
 - [SoonBanned](https://github.com/SoonBanned)
 - [Nagaba Trevor](https://github.com/trevornagaba)
+- [Sudipto Chakraborty](https://github.com/web-dot)
 <!-- prettier-ignore-end -->
