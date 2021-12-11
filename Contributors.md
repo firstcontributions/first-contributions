@@ -192,6 +192,7 @@ Tristan Bottone
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
 - [DevXenon](https://github.com/HtetLinOo)
+- [Daniel Nel](https://github.com/Swzhydlta)
 - [Walt Iddings](https://github.com/wai1)
 - [Matthew Kopelowitz](https://github.com/MatthewKopelowitz)
 - [Attyuttam Saha](https://github.com/Attyuttam)
