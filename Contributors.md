@@ -27,6 +27,7 @@ Jawadur
 - [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
+- [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Syahirah Azahri] (https://github.com/syhrah99/)
