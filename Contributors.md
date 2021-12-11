@@ -276,6 +276,7 @@ Ajith
 - Miguel
 - [Enrique Ji](https://github.com/enriquejiwa)
 - [SayamJain1](https://github.com/SayamJain1)
+- [chadcoder] (https://github.com/chadcoder)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
