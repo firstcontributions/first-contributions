@@ -17,6 +17,7 @@
 - [Rajat Jain](https://github.com/Rajat-Jain29) 
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
+- [Daniel Hernandez](https://github.com/DanielHGungo)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
 -Omar Maslamani
 -Chidiogo Onoh
