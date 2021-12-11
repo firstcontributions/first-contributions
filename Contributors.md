@@ -38,6 +38,7 @@ Jawadur
 - Reva Vijayn
 - Andrew Freeman
 - Srishti
+- [Amie Walton] (https://github.com/amielouise2)
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
 - [Claudia Brito] (https://github.com/claudiabrito96)
