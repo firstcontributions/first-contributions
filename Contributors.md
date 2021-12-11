@@ -27,15 +27,18 @@ Jawadur
 - [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Heinrich Perez](https://github.com/h-perez)
+- [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
+- Harsha Vardhan(thunder07)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
 - Srishti
+- [Amie Walton] (https://github.com/amielouise2)
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
 - [Claudia Brito] (https://github.com/claudiabrito96)
@@ -80,7 +83,8 @@ Justin Villena
 - Emma Bailly
 - Isaiah Hernandez
 - Relly Valentine
-- Phi Doan
+- Odell Blackmon III
+- Phi Doan 
 - kishan Yadav
 - Ellie Brinkman
 - Joshua Weinstein
@@ -656,6 +660,7 @@ yejashi
 - [Marpureddy Saswat](https://github.com/Eren-Yeaager)
 - [Sauradip Sengupta](https://github.com/sauradip007)
 - [Chodak Chokphel]
+- [Marquise Hurtt] (https://github.com/DONMAAD)
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Asra Jawaid](https://github.com/Asra2000)
 -[Prince Nwuke](https://github.com/prius2055)
@@ -4017,10 +4022,12 @@ Michael Wong
 - rachel orr
 - [Lakshmi Prasanna M S](https://github.com/lp060)
 - [Hollie Krauser] (https://github.com/Holliejk)
+- [Isaac Hughes] (https://github.com/IsaacHughes74)
 - [Red Tomato](https://github.com/sudo-tomato)
 - [Sylvain lepe](https://github.com/sylvainlepe)
 - [Omar Rashed](https://github.com/Omar-F-Rashed)
 - [Jay Nam](https://github.com/yaluruns)
 - [SoonBanned](https://github.com/SoonBanned)
 - [Nagaba Trevor](https://github.com/trevornagaba)
+- [Sudipto Chakraborty](https://github.com/web-dot)
 <!-- prettier-ignore-end -->
