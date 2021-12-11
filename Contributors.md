@@ -31,6 +31,7 @@ Jawadur
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
+- Harsha Vardhan(thunder07)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - [Zac Driscoll]
 - Reva Vijayn
