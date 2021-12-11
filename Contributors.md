@@ -35,6 +35,7 @@ Jawadur
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
+- Srishti
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
 - [Claudia Brito] (https://github.com/claudiabrito96)
