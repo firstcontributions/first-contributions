@@ -4035,4 +4035,5 @@ Michael Wong
 - [Nagaba Trevor](https://github.com/trevornagaba)
 - [Sudipto Chakraborty](https://github.com/web-dot)
 - [Rithvik](https://github.com/rithvik78)
+- [chadhg](https://github.com/chadhg)
 <!-- prettier-ignore-end -->
