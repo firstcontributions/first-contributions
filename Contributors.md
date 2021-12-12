@@ -80,6 +80,7 @@ Justin Villena
 - Dimitri Distefano
 - William Manuel
 - Reese Quinn
+- Sayan Maity
 - Natalie Heywood
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
