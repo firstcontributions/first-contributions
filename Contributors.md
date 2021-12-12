@@ -4032,4 +4032,5 @@ Michael Wong
 - [SoonBanned](https://github.com/SoonBanned)
 - [Nagaba Trevor](https://github.com/trevornagaba)
 - [Sudipto Chakraborty](https://github.com/web-dot)
+- [Rithvik](https://github.com/rithvik78)
 <!-- prettier-ignore-end -->
