@@ -11,6 +11,7 @@
 - Tito Ruiz
 - [Kristin Wiseman](https://github.com/kristin-wiseman)
 - [Mauricio Martino](https://github.com/sbrj)
+- Aakansh
 - [MAb](https://github.com/MAb540)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
@@ -85,6 +86,7 @@
 - Dimitri Distefano
 - William Manuel
 - Reese Quinn
+- Sayan Maity
 - Natalie Heywood
 - [Mikhail Budko](https://github.com/mikhailbudko)
 - Emma Bailly
@@ -1998,6 +2000,7 @@
 - [Alexander Nguyen](https://github.com/GalexyN)
 - [Jaideep Sharma](http://github.com/camperjett)
 - [Souvik Roy](https://githib.com/SouvikRoy31)
+- [Tay Black](https://github.com/ouroboros-t)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
@@ -4026,6 +4029,7 @@
 - [Dinesh Lamichhane](https://github.com/Dynelc)
 - [Angela Stoddard](https://github.com/astoddard514)
 - rachel orr
+- [David Rogers](https://github.com/Davidr2134)
 - [Lakshmi Prasanna M S](https://github.com/lp060)
 - [Hollie Krauser](https://github.com/Holliejk)
 - [Isaac Hughes](https://github.com/IsaacHughes74)
@@ -4037,4 +4041,5 @@
 - [Nagaba Trevor](https://github.com/trevornagaba)
 - [Sudipto Chakraborty](https://github.com/web-dot)
 - [Rithvik](https://github.com/rithvik78)
+- [chadhg](https://github.com/chadhg)
 <!-- prettier-ignore-end -->
