@@ -8,6 +8,7 @@
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
+- Aakansh
 - Kristin Wiseman (https://github.com/kristin-wiseman)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [MAb](https://github.com/MAb540)
