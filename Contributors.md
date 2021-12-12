@@ -19,6 +19,7 @@
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [Daniel Hernandez](https://github.com/DanielHGungo)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
+- [May Thazin Htun](https://github.com/maythazinhtunn)
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
