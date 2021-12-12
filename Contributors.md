@@ -1,4 +1,3 @@
-
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
@@ -14,7 +13,8 @@
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
-- [Rajat Jain](https://github.com/Rajat-Jain29) 
+- [Rajat Jain](https://github.com/Rajat-Jain29)
+- [AJ Hill](https://github.com/eygis) 
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [Daniel Hernandez](https://github.com/DanielHGungo)
