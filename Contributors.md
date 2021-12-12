@@ -1992,6 +1992,7 @@ Himanshu Dedha
 - [Alexander Nguyen](https://github.com/GalexyN)
 - [Jaideep Sharma](http://github.com/camperjett)
 - [Souvik Roy](https://githib.com/SouvikRoy31)
+- [Tay Black](https://github.com/ouroboros-t)
 - [Mirlan Urzhanov](https://github.com/zhanybekovych)
 - [Edward Jiwook Kim](https://github.com/kimjiwook0129)
 - [(Freda) Xiaoyun Yu](https://github.com/FredaXYu)
