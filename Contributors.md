@@ -4025,6 +4025,7 @@ Michael Wong
 - [Dinesh Lamichhane] (https://github.com/Dynelc)
 - [Angela Stoddard](https://github.com/astoddard514)
 - rachel orr
+- [David Rogers](https://github.com/Davidr2134)
 - [Lakshmi Prasanna M S](https://github.com/lp060)
 - [Hollie Krauser] (https://github.com/Holliejk)
 - [Isaac Hughes] (https://github.com/IsaacHughes74)
