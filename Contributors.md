@@ -61,6 +61,7 @@
 - [Zsolt Kebel](https://github.com/zsoltkebel)
 - [Gabriele C.](https://github.com/gchem1se)
 - [Sumin Lee](https://github.com/nimuseel)
+- [Aditya Jindal](https://github.com/adityaongit)
 - [Arthur Remy](https://github.com/remy29)
 - [Destiny Aigbe](https://github.com/Destiny-01)
 - [Amusa Rasak](https://github.com/Abdulrozzaq)
