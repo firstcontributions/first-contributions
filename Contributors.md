@@ -44,6 +44,7 @@ Jawadur
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
+- [Prisca Chidimma] (https://github.com/Priceless-P)
 - Srishti
 - [Amie Walton] (https://github.com/amielouise2)
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
