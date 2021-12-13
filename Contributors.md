@@ -134,7 +134,7 @@
 - Ali Abusulb - Go Gators
 - Yaswant Krishna
 - Nicolas Perez
-- slowjo
+- [slowjo](https://github.com/slowjo)
 - [Veronica Soden]
 - [D.S.]
 - [Thomas Pena](https://github.com/thomaspr1205)
