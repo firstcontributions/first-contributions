@@ -150,7 +150,7 @@ Justin Villena
 - [Kieran Ford](https://github.com/kieranford4805)
 - [Muqimov Hamdam](https://github.com/mqhamdam)
 - [Moulya Ramesh]
-- [Priyam Suthar] (https://github.com/pdsuthar10)
+- [Priyam Suthar](https://github.com/pdsuthar10)
 - [Caio Tayota](https://github.com/caiotayota)
 - [Rishi Kumar](https://github.com/CodesOfRishi)
 - [Xessive Observer](https://github.com/XessiveObserver)
