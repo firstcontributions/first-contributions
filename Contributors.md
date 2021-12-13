@@ -1,4 +1,4 @@
-
+﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Tommy Son](https://github.com/TommyMynnSon)
@@ -35,6 +35,7 @@ Jawadur
 - [Heinrich Perez](https://github.com/h-perez)
 - [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
+- [Gabriela Galindo] (https://github.com/gabgg71)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
