@@ -28,6 +28,7 @@
   -Chidiogo Onoh
   Jawadur
 - Nithin
+- [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
 - [Sean Lubbers](https://github.com/festizio)
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
@@ -100,6 +101,7 @@
 - Vivian Sung
 - Kemari Chen Loy
 - Andres Wolfe
+- Jacob Ashmore
 - Nooh AlMahfoodhi (https://github.com/Noah-Comma)
 - chetan nada
 - Benjamin Gelok
