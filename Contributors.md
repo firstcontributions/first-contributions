@@ -99,6 +99,7 @@ Justin Villena
 - Vivian Sung
 - Kemari Chen Loy
 - Andres Wolfe
+- Jacob Ashmore
 - Nooh AlMahfoodhi (https://github.com/Noah-Comma)
 - chetan nada
 - Benjamin Gelok
