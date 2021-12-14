@@ -28,6 +28,7 @@
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
+- [Brian Bawden]
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
 - [Edson Canganjo](https://github.com/edsoncanganjo)
