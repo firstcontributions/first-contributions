@@ -4058,4 +4058,5 @@ Michael Wong
 - [M Showkat](https://github.com/justshowkat)
 - [Agoriah](https://github.com/Agoriah)
 - [chakotha](https://github.com/chakotha)
+- [menoetius](https://github.com/menoetius-the-rash)
 <!-- prettier-ignore-end -->
