@@ -139,6 +139,7 @@ Justin Villena
 - Nicolas Perez
 - [Veronica Soden]
 - [D.S.]
+- [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Darren Peters](https://github.com/daredagger)
