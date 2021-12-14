@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [menoetius](https://github.com/menoetius-the-rash)
 - [Tommy Son](https://github.com/TommyMynnSon)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
@@ -18,6 +19,7 @@
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Rajat Jain](https://github.com/Rajat-Jain29)
+- [Khalid Shareef](https://github.com/Khalid6468)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [Daniel Hernandez](https://github.com/DanielHGungo)
@@ -28,6 +30,7 @@
 Jawadur
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
+- [Edson Canganjo](https://github.com/edsoncanganjo)
 - [Sean Lubbers](https://github.com/festizio)
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
@@ -95,6 +98,7 @@ Justin Villena
 - Odell Blackmon III
 - Phi Doan
 - kishan Yadav
+- Prashant Bhapkar
 - Ellie Brinkman
 - Joshua Weinstein
 - Saiful Islam
@@ -125,6 +129,7 @@ Justin Villena
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
+- Mayank Kashyap
 - Rachel Peterson
 - Yonas  Bahre
 - Ayush Krishnappa
@@ -3960,6 +3965,7 @@ Michael Wong
 - [airevahn](https://github.com/airevahn)
 - [theom95](https://github.com/theom95)
 - [fcancela](https://github.com/fcancela)
+- [Athul Joy](https://github.com/iathul)
 - [Ruo Chen](https://github.com/OverlordFlowers)
 - [Toroy](https://github.com/toroy)
 - [NCr4wl3r](https://github.com/NCr4wl3r)
@@ -4052,5 +4058,7 @@ Michael Wong
 - [chadhg](https://github.com/chadhg)
 - [saeedmosavyzadeh](https://github.com/saeedmosavyzadeh)
 - [M Showkat](https://github.com/justshowkat)
+- [Agoriah](https://github.com/Agoriah)
+- [chakotha](https://github.com/chakotha)
 - [Vinicius Kremer Santos](https://github.com/viniciusks)
 <!-- prettier-ignore-end -->
