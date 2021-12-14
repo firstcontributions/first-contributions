@@ -3971,35 +3971,35 @@ Michael Wong
 - [Martha Kalisz](https://github.com/mskalisz)
 - [Anna Moody](https://github.com/a-moody1241)
 - [Ali Ahmed](https://github.com/AliNisarAhmed)
-- [Scott Engelhard] (https://github.com/dudescott)
-- [Harsha Vardhan] (https://github.com/harsha6117)
-- [Lavanya Kumari] (https://github.com/lavanyakumari0)
-- [Yoni Smolyar] (https://github.com/ysmolyar)
-- [Jitul Kumar Laphong] (https://github.com/jitulkr)
-- [Joseph Pacifici] (https://github.com/josephpacifici7)
-- [euphros] (https://github.com/euphroshub)
-- Vince Duarte
-- Vimal Octavius [https://github.com/vimaloctavius]
-- Kathy Chowaniec
-- Richard Orama
-- [Vinay Gonuguntla] (https://github.com/vinay-g)
-- [Raven Ramos] (https://github.com/ravenkimr)
-- [Gateston Johns] (https://github.com/gatestonjohns)
-- [Eduardo Yoo] (https://github.com/EduardoYoo)
-- [Jiayu Huang] (https://github.com/peter6866)
-- [Daniel Park] (https://github.com/Dan1004x)
-- [William Gregory] (https://github.com/WEGGregory)
-- Scott Lagler
-- [Eric Chen] (https://github.com/eychen2)
-- [Benjamin Moffett] (https://github.com/BenAM63)
-- [Colton Bonell] (https://github.com/cbonell01)
-- [Silvio Torre] (https://github.com/silviotorre)
+- [Scott Engelhard](https://github.com/dudescott)
+- [Harsha Vardhan](https://github.com/harsha6117)
+- [Lavanya Kumari](https://github.com/lavanyakumari0)
+- [Yoni Smolyar](https://github.com/ysmolyar)
+- [Jitul Kumar Laphong](https://github.com/jitulkr)
+- [Joseph Pacifici](https://github.com/josephpacifici7)
+- [euphros](https://github.com/euphroshub)
+- [Vince Duarte]
+- [Vimal Octavius](https://github.com/vimaloctavius)
+- [Kathy Chowaniec]
+- [Richard Orama]
+- [Vinay Gonuguntla](https://github.com/vinay-g)
+- [Raven Ramos](https://github.com/ravenkimr)
+- [Gateston Johns](https://github.com/gatestonjohns)
+- [Eduardo Yoo](https://github.com/EduardoYoo)
+- [Jiayu Huang](https://github.com/peter6866)
+- [Daniel Park](https://github.com/Dan1004x)
+- [William Gregory](https://github.com/WEGGregory)
+- [Scott Lagler]
+- [Eric Chen](https://github.com/eychen2)
+- [Benjamin Moffett](https://github.com/BenAM63)
+- [Colton Bonell](https://github.com/cbonell01)
+- [Silvio Torre](https://github.com/silviotorre)
 - [Matthew Revell](https://github.com/mattatheus)
 - [Shivan Desai](https://github.com/SUD592001)
-- Eric Clayton
-- Kevin Tang
-- [Kelly Dheng] (https://github.com/kdheng)
-- Faizan Mohammad
+- [Eric Clayton]
+- [Kevin Tang]
+- [Kelly Dheng](https://github.com/kdheng)
+- [Faizan Mohammad]
 - [Jared Peterson](https://github.com/hobbitcakes)
 - [Zach Curran](https://github.com/curranzach)
 - [Pushme Happy](https://github.com/pushme021)
@@ -4012,7 +4012,7 @@ Michael Wong
 - [Derek Pena](https://github.com/DerekPena)
 - [Joseph Somerdin](https://github.com/asleeponpluto)
 - [Connor Short](https://github.com/connorshort)
--Yash Patel
+- [Yash Patel]
 - [Kareem Bataineh](https://github.com/kareembataineh)
 - [Chase Whitfield](https://github.com/chasewhitfield)
 - [Joe Gross](https://github.com/joegross7)
@@ -4020,11 +4020,11 @@ Michael Wong
 - [Dave D](https://github.com/Dnasty777)
 - [Samuel Roberson](https://github.com/swroberson)
 - Nikos Dupuy
-- [Monique Huang] (https://github.com/moniquehuang)
+- [Monique Huang](https://github.com/moniquehuang)
 - Justin Rossiter
-- [Will McCoy] (https://github.com/willway09)
-- [Natalie Nguyen] (https://github.com/natnguyen003)
-- [Raiee Gulhane] (https://github.com/raieegulhane)
+- [Will McCoy](https://github.com/willway09)
+- [Natalie Nguyen](https://github.com/natnguyen003)
+- [Raiee Gulhane](https://github.com/raieegulhane)
 - [mahiro72](https://github.com/mahiro72)
 - [Axel Oliver](https://github.com/AxelOliver)
 - [Nikhil Kumar Tyagi](https://github.com/nkroker)
@@ -4039,8 +4039,8 @@ Michael Wong
 - rachel orr
 - [David Rogers](https://github.com/Davidr2134)
 - [Lakshmi Prasanna M S](https://github.com/lp060)
-- [Hollie Krauser] (https://github.com/Holliejk)
-- [Isaac Hughes] (https://github.com/IsaacHughes74)
+- [Hollie Krauser](https://github.com/Holliejk)
+- [Isaac Hughes](https://github.com/IsaacHughes74)
 - [Red Tomato](https://github.com/sudo-tomato)
 - [Sylvain lepe](https://github.com/sylvainlepe)
 - [Omar Rashed](https://github.com/Omar-F-Rashed)
