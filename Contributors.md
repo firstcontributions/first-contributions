@@ -3974,6 +3974,7 @@ Michael Wong
 - [Joseph Pacifici] (https://github.com/josephpacifici7)
 - [euphros] (https://github.com/euphroshub)
 - Vince Duarte
+- Vimal Octavius [https://github.com/vimaloctavius]
 - Kathy Chowaniec
 - Richard Orama
 - [Vinay Gonuguntla] (https://github.com/vinay-g)
