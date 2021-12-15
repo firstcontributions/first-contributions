@@ -299,6 +299,7 @@ Ajith
 - [Matttx](https://github.com/Matttx)
 - Miguel
 - [Enrique Ji](https://github.com/enriquejiwa)
+- [Freddy Sossa](https://github.com/fredsossa1)
 - [SayamJain1](https://github.com/SayamJain1)
 - [chadcoder] (https://github.com/chadcoder)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
