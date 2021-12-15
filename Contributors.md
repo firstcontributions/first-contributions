@@ -1282,6 +1282,7 @@ Himanshu Dedha
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
 - [Vladimir Meshalkin](https://github.com/LadMes)
+- [Lei Yu](https://github.com/rye4ray)
 - [Martin Meng](https://github.com/MartinMxn)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Davis Kabiswa](https://github.com/Dkabiswa)
