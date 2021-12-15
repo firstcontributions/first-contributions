@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [menoetius](https://github.com/menoetius-the-rash)
+- [syzwina](https://github.com/syzwina)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
