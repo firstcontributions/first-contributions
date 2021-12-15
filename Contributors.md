@@ -194,6 +194,7 @@ Justin Villena
 Tristan Bottone
 -Daymao Silva
 - [Cindel Guerrero] (https://github.com/Cindel17)
+- [Jason Ahn] (https://github.com/j-ahn94)
 - [Nitesh Kumar](https://github.com/NITESH37)
 - [Daniel Casto](https://github.com/danielcasto)
 - [Joshua Best](https://github.com/joshuabest541)
