@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [menoetius](https://github.com/menoetius-the-rash)
 - [Tommy Son](https://github.com/TommyMynnSon)
+- [Daniel Apantaku](https://github.com/korecodes)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Antro Safin] (https://github.com/AntroSafin)
