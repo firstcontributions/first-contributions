@@ -4061,6 +4061,7 @@ Michael Wong
 - [chadhg](https://github.com/chadhg)
 - [saeedmosavyzadeh](https://github.com/saeedmosavyzadeh)
 - [M Showkat](https://github.com/justshowkat)
+- [Lusengeri Anzagi](https://github.com/Lusengeri)
 - [Agoriah](https://github.com/Agoriah)
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
