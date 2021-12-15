@@ -4070,4 +4070,5 @@ Michael Wong
 - [Agoriah](https://github.com/Agoriah)
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
+- [Sullivan Jahnke] (https://github.com/sjahnke15)
 <!-- prettier-ignore-end -->
