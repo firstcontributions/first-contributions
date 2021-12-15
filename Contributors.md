@@ -1,7 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [menoetius](https://github.com/menoetius-the-rash)
 - [Tommy Son](https://github.com/TommyMynnSon)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
@@ -19,16 +19,20 @@
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Rajat Jain](https://github.com/Rajat-Jain29)
+- [Deepesh Mhatre DM](https://github.com/deepeshdm)
+- [Khalid Shareef](https://github.com/Khalid6468)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [Daniel Hernandez](https://github.com/DanielHGungo)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
 - [May Thazin Htun](https://github.com/maythazinhtunn)
-  -Omar Maslamani
-  -Chidiogo Onoh
-  Jawadur
+-Omar Maslamani
+-Chidiogo Onoh
+Jawadur
+- [Brian Bawden]
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
+- [Edson Canganjo](https://github.com/edsoncanganjo)
 - [Sean Lubbers](https://github.com/festizio)
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
@@ -96,6 +100,7 @@
 - Odell Blackmon III
 - Phi Doan
 - kishan Yadav
+- Prashant Bhapkar
 - Ellie Brinkman
 - Joshua Weinstein
 - Saiful Islam
@@ -126,6 +131,7 @@
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
+- Mayank Kashyap
 - Rachel Peterson
 - Yonas Bahre
 - Ayush Krishnappa
@@ -141,12 +147,14 @@
 - [slowjo](https://github.com/slowjo)
 - [Veronica Soden]
 - [D.S.]
+- [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Darren Peters](https://github.com/daredagger)
 - [Uttam](https://github.com/helper-uttam)
 - [Alexander Snure](https://github.com/asnure15)
 - [Ayushi sinha](https://github.com/Ayushi271)
+- Lukman Memon
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
 - [Khang Bui] (https://github.com/KhangHB)
@@ -3946,6 +3954,7 @@
 - [airevahn](https://github.com/airevahn)
 - [theom95](https://github.com/theom95)
 - [fcancela](https://github.com/fcancela)
+- [Athul Joy](https://github.com/iathul)
 - [Ruo Chen](https://github.com/OverlordFlowers)
 - [Toroy](https://github.com/toroy)
 - [NCr4wl3r](https://github.com/NCr4wl3r)
@@ -4037,4 +4046,9 @@
 - [Rithvik](https://github.com/rithvik78)
 - [chadhg](https://github.com/chadhg)
 - [saeedmosavyzadeh](https://github.com/saeedmosavyzadeh)
+- [M Showkat](https://github.com/justshowkat)
+- [Lusengeri Anzagi](https://github.com/Lusengeri)
+- [Agoriah](https://github.com/Agoriah)
+- [chakotha](https://github.com/chakotha)
+- [Ione03](https://github.com/Ione03)
 <!-- prettier-ignore-end -->
