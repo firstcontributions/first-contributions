@@ -36,6 +36,7 @@
 - [Heinrich Perez](https://github.com/h-perez)
 - [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
+- [Gabriela Galindo] (https://github.com/gabgg71)
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
@@ -44,6 +45,7 @@
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
+- [Prisca Chidimma] (https://github.com/Priceless-P)
 - Srishti
 - [Amie Walton] (https://github.com/amielouise2)
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
@@ -139,6 +141,7 @@
 - [slowjo](https://github.com/slowjo)
 - [Veronica Soden]
 - [D.S.]
+- [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Darren Peters](https://github.com/daredagger)
 - [Uttam](https://github.com/helper-uttam)
@@ -1009,6 +1012,7 @@
 - [Pranay Raman] (https://github.com/PranayRaman/first-contributions)
 - [Siddharth Khuntwal](https://github.com/sid-khuntwal)
 - [Nasreen Khalid](https://github.com/NasreenKhalid)
+- [Khalid Tarek](https://github.com/Khalid-Tarek)
 - [Abideen Bello] (https://github.com/bideeen)
 - [Peter Walser] (https://github.com/sirofwalls)
 - [Paul Friedrich] (https://github.com/Paul1911)
@@ -3959,6 +3963,7 @@
 - [Joseph Pacifici] (https://github.com/josephpacifici7)
 - [euphros] (https://github.com/euphroshub)
 - Vince Duarte
+- Vimal Octavius [https://github.com/vimaloctavius]
 - Kathy Chowaniec
 - Richard Orama
 - [Vinay Gonuguntla] (https://github.com/vinay-g)
@@ -4029,4 +4034,5 @@
 - [Sudipto Chakraborty](https://github.com/web-dot)
 - [Rithvik](https://github.com/rithvik78)
 - [chadhg](https://github.com/chadhg)
+- [saeedmosavyzadeh](https://github.com/saeedmosavyzadeh)
 <!-- prettier-ignore-end -->
