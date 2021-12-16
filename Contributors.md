@@ -1,11 +1,13 @@
-﻿# **Contributors**
+
+# **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [menoetius](https://github.com/menoetius-the-rash)
+- [syzwina](https://github.com/syzwina)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
+- [Pranav Arora](https://github.com/pranavarora1895)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Antro Safin] (https://github.com/AntroSafin)
@@ -15,8 +17,12 @@
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
 - Aakansh
+-Varun Agrawal
+- TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
+- Omar Elwaliely (https://github.com/omarelwaliely)
 - [Mauricio Martino] (https://github.com/sbrj)
+- [Kumar Prince] (https://github.com/thekrprince)
 - [MAb](https://github.com/MAb540)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
@@ -31,9 +37,10 @@
 - [Daniel Hernandez](https://github.com/DanielHGungo)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
 - [May Thazin Htun](https://github.com/maythazinhtunn)
-  -Omar Maslamani
-  -Chidiogo Onoh
-  Jawadur
+- [beingapalware](https://github.com/beingapalware)
+-Omar Maslamani
+-Chidiogo Onoh
+Jawadur
 - [Brian Bawden]
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
@@ -42,6 +49,7 @@
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
+- [Muneeb](https://github.com/Vaiyani)
 - [Heinrich Perez](https://github.com/h-perez)
 - [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
@@ -51,6 +59,7 @@
 - [Brian N. Smith](https://github.com/nuonce)
 - Harsha Vardhan(thunder07)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
+- Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
@@ -300,6 +309,7 @@
 - [Matttx](https://github.com/Matttx)
 - Miguel
 - [Enrique Ji](https://github.com/enriquejiwa)
+- [Freddy Sossa](https://github.com/fredsossa1)
 - [SayamJain1](https://github.com/SayamJain1)
 - [chadcoder] (https://github.com/chadcoder)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
@@ -1145,6 +1155,7 @@
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Abhishek Munda](https://github.com/abhishek-munda)
+- [Eric Marzouk] (https://github.com/EricM5)
   [Kendall Felder](https://github.com/oldgraybuzzard)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
 - [Ayush Dey](https://github.com/its-ayush-07)
@@ -4056,4 +4067,6 @@
 - [Agoriah](https://github.com/Agoriah)
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
+- [Sullivan Jahnke] (https://github.com/sjahnke15)
+- Robert
 <!-- prettier-ignore-end -->
