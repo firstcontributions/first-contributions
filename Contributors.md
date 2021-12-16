@@ -16,6 +16,7 @@
 - Tito Ruiz
 - Aakansh
 -Varun Agrawal
+- TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [Kumar Prince] (https://github.com/thekrprince)
