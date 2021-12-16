@@ -31,6 +31,7 @@
 - [Daniel Hernandez](https://github.com/DanielHGungo)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
 - [May Thazin Htun](https://github.com/maythazinhtunn)
+- [beingapalware](https://github.com/beingapalware)
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
