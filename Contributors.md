@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Brian Omoga] (https://github.com/Pepper-Mint747)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
