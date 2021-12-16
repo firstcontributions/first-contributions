@@ -17,6 +17,7 @@
 - Aakansh
 - Kristin Wiseman (https://github.com/kristin-wiseman)
 - [Mauricio Martino] (https://github.com/sbrj)
+- [Kumar Prince] (https://github.com/thekrprince)
 - [MAb](https://github.com/MAb540)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
