@@ -41,6 +41,7 @@
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
+- VastoLordePy
 - [Brian Bawden]
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
