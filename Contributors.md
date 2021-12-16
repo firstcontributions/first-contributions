@@ -17,6 +17,7 @@
 - Tito Ruiz
 - Aakansh
 -Varun Agrawal
+- [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
 - Omar Elwaliely (https://github.com/omarelwaliely)
