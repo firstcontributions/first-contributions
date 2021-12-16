@@ -15,6 +15,7 @@
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
 - Aakansh
+-Varun Agrawal
 - Kristin Wiseman (https://github.com/kristin-wiseman)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [Kumar Prince] (https://github.com/thekrprince)
