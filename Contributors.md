@@ -6,6 +6,7 @@
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
+- [Pranav Arora](https://github.com/pranavarora1895)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Antro Safin] (https://github.com/AntroSafin)
