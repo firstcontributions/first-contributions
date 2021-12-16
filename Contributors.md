@@ -53,6 +53,7 @@ Jawadur
 - [Brian N. Smith](https://github.com/nuonce)
 - Harsha Vardhan(thunder07)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
+- Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
