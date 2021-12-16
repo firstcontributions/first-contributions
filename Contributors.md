@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [menoetius](https://github.com/menoetius-the-rash)
@@ -17,6 +17,7 @@
 - Aakansh
 -Varun Agrawal
 - Kristin Wiseman (https://github.com/kristin-wiseman)
+- Omar Elwaliely (https://github.com/omarelwaliely)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [Kumar Prince] (https://github.com/thekrprince)
 - [MAb](https://github.com/MAb540)
