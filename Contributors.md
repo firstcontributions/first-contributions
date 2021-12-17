@@ -15,6 +15,7 @@
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Dylan VanStaden] (https://github.com/kernenovae)
+- [Zaman Zaidi] (https://github.com/ArcadeHeroin)
 - Tito Ruiz
 - Aakansh
 -Varun Agrawal
