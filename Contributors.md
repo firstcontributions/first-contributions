@@ -22,6 +22,7 @@
 - Aakansh
 - Siddhant Kumar
 - Varun Agrawal
+- Brian Xu
 - [Bueze Nwokolo](https://github.com/nwokolo24)
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
