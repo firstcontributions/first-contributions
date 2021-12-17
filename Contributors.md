@@ -19,6 +19,7 @@
 - [Vijay] (https://github.com/vijayaraghavanm)
 - Tito Ruiz
 - Aakansh
+- Siddhant Kumar
 - Varun Agrawal
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
