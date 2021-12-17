@@ -21,6 +21,7 @@
 - Aakansh
 - Siddhant Kumar
 - Varun Agrawal
+- [Bueze Nwokolo](https://github.com/nwokolo24)
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
