@@ -8,14 +8,14 @@
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Pranav Arora](https://github.com/pranavarora1895)
-- [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
-- [Jalen Edington] (https://github.com/kyrlitp)
-- [Antro Safin] (https://github.com/AntroSafin)
-- [Rojan Sapkota] (https://github.com/RojanGamingYT)
-- [Arif Mudi Priyatno] (https://github.com/arifmudi)
-- [Avishkar Vichare] (https://github.com/AvishkarVichare)
-- [Dylan VanStaden] (https://github.com/kernenovae)
-- [Vijay] (https://github.com/vijayaraghavanm)
+- [Vijay Raghuwanshi](https://github.com/ervijayraghuwanshi)
+- [Jalen Edington](https://github.com/kyrlitp)
+- [Antro Safin](https://github.com/AntroSafin)
+- [Rojan Sapkota](https://github.com/RojanGamingYT)
+- [Arif Mudi Priyatno](https://github.com/arifmudi)
+- [Avishkar Vichare](https://github.com/AvishkarVichare)
+- [Dylan VanStaden](https://github.com/kernenovae)
+- [Vijay](https://github.com/vijayaraghavanm)
 - Tito Ruiz
 - Aakansh
 - Varun Agrawal
