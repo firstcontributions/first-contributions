@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [menoetius](https://github.com/menoetius-the-rash)
+- [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
