@@ -4085,5 +4085,6 @@ Michael Wong
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
 - [Sullivan Jahnke] (https://github.com/sjahnke15)
+- [Nicolas Mora] (https://github.com/NikelausM)
 - Robert
 <!-- prettier-ignore-end -->
