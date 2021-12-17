@@ -774,6 +774,7 @@ yejashi
 - [Hanane NAHIM](https://github.com/hannhm1109)
 - [Rerebla](https://github.com/Rerebla)
 - [Kevin Yuan](https://github.com/kevkev99)
+- [Prashant Singh](https://github.com/eelectron)
 - [alif angga](https://github.com/playmakermz)
 - [Ibrahim Shittu](https://github.com/Dbest2018)
 - [Tom Broager](https://github.com/TomBroager)
