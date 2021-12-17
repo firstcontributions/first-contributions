@@ -1,8 +1,14 @@
-# **Contributors**
+﻿# **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [menoetius](https://github.com/menoetius-the-rash)
+- [syzwina](https://github.com/syzwina)
+- [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
+  [Eric Duwe](https://github.com/ericduwe)
+- [Daniel Apantaku](https://github.com/korecodes)
+- [Pranav Arora](https://github.com/pranavarora1895)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Antro Safin] (https://github.com/AntroSafin)
@@ -12,23 +18,32 @@
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - Tito Ruiz
 - Aakansh
+  -Varun Agrawal
+- [Buse Koseoglu] (https://github.com/busekoseoglu)
+- TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
+- Omar Elwaliely (https://github.com/omarelwaliely)
 - [Mauricio Martino] (https://github.com/sbrj)
+- [Kumar Prince] (https://github.com/thekrprince)
 - [MAb](https://github.com/MAb540)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
+- [Rohit Kumar](https://github.com/ciechanowiec)
 - [Rajat Jain](https://github.com/Rajat-Jain29)
 - [Deepesh Mhatre DM](https://github.com/deepeshdm)
 - [Khalid Shareef](https://github.com/Khalid6468)
+- [Shubhankar Kalekar](https://github.com/ShubhankarK)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [Daniel Hernandez](https://github.com/DanielHGungo)
 - [Soe Myat Myat](https://github.com/soemyatmyat)
 - [May Thazin Htun](https://github.com/maythazinhtunn)
--Omar Maslamani
--Chidiogo Onoh
-Jawadur
+- [beingapalware](https://github.com/beingapalware)
+  -Omar Maslamani
+  -Chidiogo Onoh
+  Jawadur
+- VastoLordePy
 - [Brian Bawden]
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
@@ -37,6 +52,7 @@ Jawadur
 - [Siva Rama Krishna Yellepeddi](https://github.com/yellkrishna)
 - [Stella Rojas](https://github.com/ssrojas/)
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
+- [Muneeb](https://github.com/Vaiyani)
 - [Heinrich Perez](https://github.com/h-perez)
 - [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
@@ -46,6 +62,7 @@ Jawadur
 - [Brian N. Smith](https://github.com/nuonce)
 - Harsha Vardhan(thunder07)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
+- Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
 - Andrew Freeman
@@ -147,7 +164,7 @@ Jawadur
 - [slowjo](https://github.com/slowjo)
 - [Veronica Soden]
 - [D.S.]
-- [Suraj Subramanian](https://github.com/suraj-subramanian) 
+- [Suraj Subramanian](https://github.com/suraj-subramanian)
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Darren Peters](https://github.com/daredagger)
@@ -295,6 +312,7 @@ Jawadur
 - [Matttx](https://github.com/Matttx)
 - Miguel
 - [Enrique Ji](https://github.com/enriquejiwa)
+- [Freddy Sossa](https://github.com/fredsossa1)
 - [SayamJain1](https://github.com/SayamJain1)
 - [chadcoder] (https://github.com/chadcoder)
 - [Vaibhav] (https://github.com/vaibhavvsharma)
@@ -461,7 +479,7 @@ Jawadur
 - [Zeyad Naguib](https://github.com/zeyadmtn)
 - [lainiecode] (https://github.com/lainiecode)
 - [Sudhanshu Shekhar](https://github.com/FuryACE007)
-   [Shyamu Yadav](https://github.com/Shyamu431)
+  [Shyamu Yadav](https://github.com/Shyamu431)
 - [Daljeet Singh] (https://github.com/daljeetseera)
 - [Min Khant Aung](https://github.com/MinKhantAung522)
 - [Daniel Okyere](https://github.com/DanielOkyere)
@@ -1140,6 +1158,7 @@ Jawadur
 - [Archit Garg](https://github.com/architgarg603)
 - [Mrityunjay Kumar](https://github.com/Mrityunjay002)
 - [Abhishek Munda](https://github.com/abhishek-munda)
+- [Eric Marzouk] (https://github.com/EricM5)
   [Kendall Felder](https://github.com/oldgraybuzzard)
 - [Madhuri Jadhav](https://github.com/madhuri1791)
 - [Ayush Dey](https://github.com/its-ayush-07)
@@ -3912,6 +3931,7 @@ Jawadur
 - [Sarah Napoleon]
 - [INAI Yosuke](https://github.com/totoro721)
 - [Kyle Helstrom](https://github.com/khelstrom)
+- [Matthew Wieser] (https://github.com/mryan93)
 - [rgredel](https://github.com/rgredel)
 - [Afe] (https://github.com/afeexclusive)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
@@ -4042,6 +4062,7 @@ Jawadur
 - [Jay Nam](https://github.com/yaluruns)
 - [SoonBanned](https://github.com/SoonBanned)
 - [Nagaba Trevor](https://github.com/trevornagaba)
+- [Nicola Kahale](https://github.com/nakowafers)
 - [Sudipto Chakraborty](https://github.com/web-dot)
 - [Rithvik](https://github.com/rithvik78)
 - [chadhg](https://github.com/chadhg)
@@ -4051,4 +4072,7 @@ Jawadur
 - [Agoriah](https://github.com/Agoriah)
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
+- [Sullivan Jahnke] (https://github.com/sjahnke15)
+- [Nicolas Mora] (https://github.com/NikelausM)
+- Robert
 <!-- prettier-ignore-end -->
