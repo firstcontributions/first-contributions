@@ -100,6 +100,8 @@ Jawadur
 - [Zach Simmons] (https://github.com/zjsimmons13)
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 Justin Villena
+
+add jerry404lee
 - Charles Ulrich
 - Alpha Bah
 - Alon Oziel
