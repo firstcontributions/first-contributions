@@ -15,9 +15,10 @@
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Dylan VanStaden] (https://github.com/kernenovae)
+- [Vijay] (https://github.com/vijayaraghavanm)
 - Tito Ruiz
 - Aakansh
--Varun Agrawal
+- Varun Agrawal
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
