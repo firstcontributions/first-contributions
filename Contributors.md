@@ -2,8 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [menoetius](https://github.com/menoetius-the-rash)
-- [Azizkhuja](https://github.com/Azizkhuja) -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
+- [menoetius](https://github.com/menoetius-the-rash) -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
 - [schmay33](https://github.com/schmay33)
@@ -20,6 +19,7 @@
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Vijay] (https://github.com/vijayaraghavanm)
+- [Azizkhuja](https://github.com/Azizkhuja)
 - Tito Ruiz
 - Aakansh
 - Siddhant Kumar
