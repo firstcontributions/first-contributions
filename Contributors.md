@@ -99,6 +99,7 @@ Jawadur
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [Ben Jackson] (https://github.com/benjacksondev)
 - [Nick Strawser] (https://github.com/nickstrawser)
+-[Kunal Gaur] (https://github.com/kunalgaur7983)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
 - [Ethan Coward](https://github.com/CDE90)
