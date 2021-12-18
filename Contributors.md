@@ -10,6 +10,7 @@
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Pranav Arora](https://github.com/pranavarora1895)
+- [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Antro Safin] (https://github.com/AntroSafin)
