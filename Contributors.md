@@ -25,6 +25,7 @@
 - Siddhant Kumar
 - Varun Agrawal
 - Brian Xu
+- [Aaditya] (https://github.com/songoku4)
 -Kynnedy Esteves (https://github.com/kynnedye)
 - [Bueze Nwokolo](https://github.com/nwokolo24)
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
