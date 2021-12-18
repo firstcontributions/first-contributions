@@ -180,6 +180,7 @@ Justin Villena
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Darren Peters](https://github.com/daredagger)
+- [uppercase](https://github.com/ekloyatri)
 - [Uttam](https://github.com/helper-uttam)
 - [Alexander Snure](https://github.com/asnure15)
 - [Ayushi sinha](https://github.com/Ayushi271)
