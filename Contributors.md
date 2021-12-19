@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
