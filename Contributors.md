@@ -54,6 +54,7 @@
 - [Soe Myat Myat](https://github.com/soemyatmyat)
 - [May Thazin Htun](https://github.com/maythazinhtunn)
 - [beingapalware](https://github.com/beingapalware)
+- [Pradeep Pai Kateel](https://github.com/pradeeppaikateel)
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
