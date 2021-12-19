@@ -2082,6 +2082,7 @@ Himanshu Dedha
 - [Steven Wang](https://github.com/happiestbee)
 - [Om Parshar](https://github.com/orashar)
 - [Sudha Tanay Doddi](https://github.com/sudhatanay)
+- [Radosvet Petrov](https://github.com/radosvet93)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Hypnogod](https://github.com/hypnogod)
 - [Manny Alfaro](https://github.com/Mannyalfa)
