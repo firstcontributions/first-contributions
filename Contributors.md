@@ -1,7 +1,8 @@
-﻿# **Contributors**
+# **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Hudlez](https://github.com/hudlez)
+- [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash) -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
 - [Pratik](https://github.com/pratikmdhr)
@@ -23,18 +24,17 @@
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Vijay] (https://github.com/vijayaraghavanm)
+- [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - Tito Ruiz
 - Aakansh
-  <<<<<<< HEAD
   -Varun Agrawal
-  =======
 - Siddhant Kumar
 - Varun Agrawal
 - Brian Xu
+- [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
   -Kynnedy Esteves (https://github.com/kynnedye)
 - [Bueze Nwokolo](https://github.com/nwokolo24)
-  > > > > > > > master
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
@@ -61,6 +61,10 @@
   -Omar Maslamani
   -Chidiogo Onoh
   Jawadur
+- [Pradeep Pai Kateel](https://github.com/pradeeppaikateel)
+-Omar Maslamani
+-Chidiogo Onoh
+Jawadur
 - VastoLordePy
 - [Brian Bawden]
   [Usman Naveed](https://github.com/usman-naveed)
@@ -223,6 +227,7 @@
 - [Siddharth Pradeep](https://github.com/thirt33n)
 - [Robert Lieblang](https://github.com/roblieblang)
 - [Moiz Rehman] (https://github.com/MoizRehman98)
+- [Allen Lin] (https://github.com/allenlinsh)
 - [Kevin Tandi] (https://github.com/kevintandi)
 - [Somnath Prasad](https://github.com/somnathPrasad)
 - [Aditya Sahatonde](https://github.com/AdityaSahatonde)
@@ -1774,6 +1779,7 @@
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Asim Delvi](https://github.com/asimdelvi)
+- [Mubarak Bakarman] (https://github.com/mub-pro)
 - [Michael Haselberger](https://github.com/mhasel)
 - [Michael Overkamp](https://github.com/MichaelOver)
 - [Swastik Samal](https://github.com/Swastik-tsk)
@@ -2073,6 +2079,7 @@
 - [Steven Wang](https://github.com/happiestbee)
 - [Om Parshar](https://github.com/orashar)
 - [Sudha Tanay Doddi](https://github.com/sudhatanay)
+- [Radosvet Petrov](https://github.com/radosvet93)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Hypnogod](https://github.com/hypnogod)
 - [Manny Alfaro](https://github.com/Mannyalfa)
@@ -4110,4 +4117,6 @@
 - [Josh F](https://github.com/jdfo330)
 - [Ai King Sam](https://github.com/AI-King)
 - [Ashwin Kundeti](https://github.com/ashwin-k22)
+- [Ajai Verma](https://github.com/ajaiverma)
+- [Hosein Rahnama](https://github.com/Hosein-Rahnama)
 <!-- prettier-ignore-end -->
