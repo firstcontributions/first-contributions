@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Antisoft7](https://github.com/Antisoft7)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
