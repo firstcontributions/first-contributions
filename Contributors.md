@@ -1,4 +1,4 @@
-
+﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [The Capricorn](https://github.com/khushmanvar)
@@ -383,7 +383,7 @@ Nathalie Bonin
 - [Daniel Jordan] (https://github.com/dan2811)
 - [Arson James] (https://github.com/ArsonJames)
 - [21yuyu99](https://github.com/21yuyu99)
-- [Ayume Francis](https://github.com/francis556)👀 🤫
+- [Ayume Francis](https://github.com/francis556)👀 ??
 - [JamileQueiroz](https://github.com/JamileQueiroz)
 - [Jeet Debnath] (https://github.com/JxxT)
 - [Park Seongbin](https://github.com/SeongbinPark82)
@@ -521,6 +521,7 @@ yejashi
 - [David Brudnicki] (https://github.com/dbrudnicki)
 - [Jakey08] (https://github.com/Jakey08)
 - [Johnson Nguyen](https://github.com/jhoangnguyen)
+- [Nhan Pham] (https://github.com/NhanPhamTrong)
 - [oli310] (https://github.com/oli310)
 - [Tanishka Jain](https://github.com/Tanishka71)
 - [Justus Walter-Helk](https://github.com/justuswalter-helk)
