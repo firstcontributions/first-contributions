@@ -131,6 +131,7 @@ Justin Villena
 - Reese Quinn
 - Sayan Maity
 - Natalie Heywood
+- [Nur Amyleena Arnie](https://github.com/amyleena95)
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
 - Isaiah Hernandez
