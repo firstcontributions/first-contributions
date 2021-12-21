@@ -4135,4 +4135,5 @@ Michael Wong
 - [Hosein Rahnama](https://github.com/Hosein-Rahnama)
 - [Ajaya Shrestha](https://github.com/ajaya92)
 - [Iris van den Boomen]
+- [The V4Tican](https://github.com/thev4tican)
 <!-- prettier-ignore-end -->
