@@ -4146,4 +4146,5 @@ Michael Wong
 - [Shelly H](https://github.com/shelly1138)
 - [Rahul Garg](https://github.com/VanSHOE)
 - [Johan Liebert](https://github.com/johanliebertt)
+- [Meet Mulik](https://github.com/MeetMulik)
 <!-- prettier-ignore-end -->
