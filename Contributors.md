@@ -31,6 +31,7 @@
 - Siddhant Kumar
 - Varun Agrawal
 - Brian Xu
+-[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
 -Kynnedy Esteves (https://github.com/kynnedye)
