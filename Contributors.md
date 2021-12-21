@@ -285,7 +285,8 @@ Tristan Bottone
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
-Ashish Choudhary
+- Ashish Choudhary
+- Julius
 - trainer2001
 - Graham Vaith
 - Jonathan Lagos
