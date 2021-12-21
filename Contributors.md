@@ -46,6 +46,7 @@
 - [Tom Welsh] (https://github.com/twelsh)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
+- [Poornima Taranath] (https://github.com/poornima-taranath)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Rohit Kumar](https://github.com/ciechanowiec)
 - [Rajat Jain](https://github.com/Rajat-Jain29)
@@ -133,6 +134,7 @@ Jawadur
 - Reese Quinn
 - Sayan Maity
 - Natalie Heywood
+- [Nur Amyleena Arnie](https://github.com/amyleena95)
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
 - Isaiah Hernandez
@@ -189,7 +191,7 @@ Jawadur
   <<<<<<< HEAD
 - # [slowjo](https://github.com/slowjo)
 - Ashish Suman
-  > > > > > > > master
+- [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
 - [D.S.]
 - [Suraj Subramanian](https://github.com/suraj-subramanian)
@@ -285,6 +287,7 @@ Jawadur
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
+Ashish Choudhary
 - trainer2001
 - Graham Vaith
 - Jonathan Lagos
@@ -1050,6 +1053,7 @@ Jawadur
 - [Ayush Malviya](https://github.com/ayush-geek)
 - [Julio César Gama](https://github.com/juliocesargama)
 - [Daniel García](https://github.com/Danielggz)
+- [Saurabh Sharma]
 - [Brites](https://github.com/Brites101)
 - [Flippy](https://github.com/Flip771)
 - [Jerry Yan Krismanto](https://github.com/jerry-krismanto)
@@ -3884,7 +3888,8 @@ Jawadur
 - [RRFish](https://github.com/RRFish)
 - [Oskar Dragon](https://github.com/oskar-dragon)
 - [Ziyue Zhou](https://github.com/ziyue5)
-  [HeonJun] (http://github.com/bluedeepweb)
+- [Ajay J b](https://github.com/ajayjb)
+[HeonJun] (http://github.com/bluedeepweb)
 - [Prakita Renatin](https://github.com/Rakagami)
 - [Mathursan Balathas](https://github.com/Mathursan-007)
 - [Trishal Varma Mudunuri](https://github.com/mtrishal123)
@@ -4107,16 +4112,23 @@ Jawadur
 - [M Showkat](https://github.com/justshowkat)
 - [Lusengeri Anzagi](https://github.com/Lusengeri)
 - [Agoriah](https://github.com/Agoriah)
+- [Darshan Yadav](https://github.com/darshan-yadav)
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
 - [Sullivan Jahnke] (https://github.com/sjahnke15)
 - [Nicolas Mora] (https://github.com/NikelausM)
 - Robert
 - [Mingting Ouyang](https://github.com/mingtingouyang)
+- Wei
 - Chang
 - [Josh F](https://github.com/jdfo330)
 - [Ai King Sam](https://github.com/AI-King)
 - [Ashwin Kundeti](https://github.com/ashwin-k22)
 - [Ajai Verma](https://github.com/ajaiverma)
 - [Hosein Rahnama](https://github.com/Hosein-Rahnama)
+- [Ajaya Shrestha](https://github.com/ajaya92)
+- [Iris van den Boomen]
+- [The V4Tican](https://github.com/thev4tican)
+- [Shelly H](https://github.com/shelly1138)
+- [Rahul Garg](https://github.com/VanSHOE)
 <!-- prettier-ignore-end -->
