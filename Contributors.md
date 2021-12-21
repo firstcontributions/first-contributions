@@ -46,6 +46,7 @@
 - [Tom Welsh] (https://github.com/twelsh)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Satwik Anmol](https://github.com/satwikan/)
+- [Poornima Taranath] (https://github.com/poornima-taranath)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Rohit Kumar](https://github.com/ciechanowiec)
 - [Rajat Jain](https://github.com/Rajat-Jain29)
