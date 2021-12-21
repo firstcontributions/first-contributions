@@ -3408,6 +3408,7 @@ Himanshu Dedha
 - [Karen Hanko](https://github.com/guu1227)
 - [Ankit Kokane](https://github.com/thedudeonsun)
 - [Alexey Luhinin](https://github.com/alexey-luhinin)
+* Stop reading names (https://github.com/parthnagdev)
 - [Andrey Firsov](https://github.com/avfirsov)
 - [JammUtkarsh](https://github.com/JammUtkarsh)
 - [João Rosso](https://github.com/joaorosso)
