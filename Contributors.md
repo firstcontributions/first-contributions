@@ -4,6 +4,7 @@
 - [JDaddy] (https://github.com/Jason8830)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
 - [Hudlez](https://github.com/hudlez)
+- [tejaswari7](https://github.com/tejaswari7)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
