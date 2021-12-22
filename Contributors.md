@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [JDaddy] (https://github.com/Jason8830)
+- [Amal Kuriakose](https://github.com/amalkuriakose)
 - [Hudlez](https://github.com/hudlez)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
