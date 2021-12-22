@@ -6,7 +6,6 @@
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
-- [Akanksha](https://github.com/aka9ksha)
 -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
@@ -30,6 +29,7 @@
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - Tito Ruiz
 - Aakansh
+- [Akanksha](https://github.com/aka9ksha)
 - Siddhant Kumar
 - Varun Agrawal
 - Brian Xu
