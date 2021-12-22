@@ -32,6 +32,7 @@
 - [Akanksha](https://github.com/aka9ksha)
 - Siddhant Kumar
 - Varun Agrawal
+- Pratyush Sinha
 - Brian Xu
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
