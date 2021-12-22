@@ -312,6 +312,7 @@ Tristan Bottone
 - [Perrine Cribier-Delande] (https://github.com/delcrip)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Dhruv Chandrani] (https://github.com/dchandrani)
+- [Semir Teskeredzic] (https://github.com/semirteskeredzic)
 - [Thomas S Nielsen] (https://github.com/Quball)
 - [Jay Rajvadiya](https://github.com/jayrajvadiya123)
 - [Justice Petersen](https://github.com/justiceap)
