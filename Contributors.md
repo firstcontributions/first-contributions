@@ -132,6 +132,7 @@ Jawadur
 - [Gouse Mohiddin] (https://github.com/gousemohiddin44)
 - [Zach Simmons] (https://github.com/zjsimmons13)
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
+- [Vishal Pathak] (https://github.com/pathakvishal1111)
 Justin Villena
 - Charles Ulrich
 - Alpha Bah
