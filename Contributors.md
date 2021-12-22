@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Benjamin](https://github.com/haik-x)
 - [Rohan Karan](https://github.com/rohankaran)
 - [JDaddy] (https://github.com/Jason8830)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
