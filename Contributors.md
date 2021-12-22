@@ -22,6 +22,7 @@
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
+- [Vicente Soriano] (http://github.com/vicente-s)
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Ilija Kovacevic] (https://github.com/ili16)
