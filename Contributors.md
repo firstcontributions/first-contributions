@@ -2543,6 +2543,7 @@ Himanshu Dedha
 - [Fatih Aydin](https://github.com/fatay)
 - [Saatvat Gupta](https://github.com/Saatvat)
 - [Robin Borgstrom](https://github.com/robinborg)
+- [Robin BerGra](https://github.com/RobinBerGra)
 - [Alessandro Meschi](https://github.com/MrAlessandro)
 - [Amir Raza](https://github.com/pseudo-nymous)
 - [Amrit Dhaliwal](https://github.com/AmrDhaliwal)
