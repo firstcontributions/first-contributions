@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [JDaddy] (https://github.com/Jason8830)
 - [Hudlez](https://github.com/hudlez)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
@@ -27,10 +28,12 @@
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - Tito Ruiz
 - Aakansh
-  -Varun Agrawal
+- [Akanksha](https://github.com/aka9ksha)
 - Siddhant Kumar
 - Varun Agrawal
+- Pratyush Sinha
 - Brian Xu
+-[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
   -Kynnedy Esteves (https://github.com/kynnedye)
@@ -45,6 +48,7 @@
 - [MAb](https://github.com/MAb540)
 - [Tom Welsh] (https://github.com/twelsh)
 - [Debopam Roy](https://github.com/DebopamRoy)
+- [Sameeksha Mahajan](https://github.com/Sameeksha22/)
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Poornima Taranath] (https://github.com/poornima-taranath)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
@@ -63,6 +67,7 @@
   -Chidiogo Onoh
   Jawadur
 - [Pradeep Pai Kateel](https://github.com/pradeeppaikateel)
+- Titamah Simpson
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
@@ -194,7 +199,8 @@ Jawadur
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
 - [D.S.]
-- [Suraj Subramanian](https://github.com/suraj-subramanian)
+- [Malv93](https://github.com/Malv93)
+- [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Darren Peters](https://github.com/daredagger)
@@ -287,7 +293,8 @@ Jawadur
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
-Ashish Choudhary
+- Ashish Choudhary
+- Julius
 - trainer2001
 - Graham Vaith
 - Jonathan Lagos
@@ -3399,6 +3406,7 @@ Ashish Choudhary
 - [Karen Hanko](https://github.com/guu1227)
 - [Ankit Kokane](https://github.com/thedudeonsun)
 - [Alexey Luhinin](https://github.com/alexey-luhinin)
+* Stop reading names (https://github.com/parthnagdev)
 - [Andrey Firsov](https://github.com/avfirsov)
 - [JammUtkarsh](https://github.com/JammUtkarsh)
 - [João Rosso](https://github.com/joaorosso)
@@ -4131,4 +4139,9 @@ Ashish Choudhary
 - [The V4Tican](https://github.com/thev4tican)
 - [Shelly H](https://github.com/shelly1138)
 - [Rahul Garg](https://github.com/VanSHOE)
+- [Johan Liebert](https://github.com/johanliebertt)
+- [Meet Mulik](https://github.com/MeetMulik)
+- [Sepehr Sahraian](https://github.com/sprshr)
+- [Devendra sahu](https://github.com/code09-web)
+- [EveSquare](https://github.com/EveSquare)
 <!-- prettier-ignore-end -->
