@@ -195,6 +195,7 @@ Justin Villena
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
 - [D.S.]
+- [Keelan10](https://github.com/Keelan10)
 - [Malv93](https://github.com/Malv93)
 - [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
@@ -631,6 +632,7 @@ yejashi
 - [Souvik Pan] (https://github.com/ZouvikPan)
 - [Jeremy] (https://github.com/jeje-01350)
 - [June](https://github.com/junezimmerman93)
+- [Keelan10](https://github.com/Keelan10)
 - [Meharab](https://github.com/Meharab)
 - [Petre Tiberiu](https://github.com/Petrickah)
 - [Chase Wrenn] (https://github.com/chasewrennufl)
