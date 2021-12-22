@@ -11,7 +11,7 @@
 - [syzwina](https://github.com/syzwina)
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
-- [ByungChan Lee] (https://github.com/lbc1013)
+- [ByungChan Lee](https://github.com/lbc1013)
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
 - [hussein saad] (https://github.com/hussein-saad)
