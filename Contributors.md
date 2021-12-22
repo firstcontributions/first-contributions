@@ -2133,6 +2133,7 @@ Himanshu Dedha
 - [Urvi Mitra](https://github.com/urvimitra)
 - [Kartik Prajapat](https://github.com/kartikpjpt)
 - [Ross Calvert](https://github.com/Ross-C)
+- [Florian Wuensche](https://github.com/siabrac)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! :](https://github.com/samyak1409/)
 - [Njoguu](https://github.com/Njoguu)
