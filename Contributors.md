@@ -4076,6 +4076,7 @@ Michael Wong
 - [Jitul Kumar Laphong] (https://github.com/jitulkr)
 - [Joseph Pacifici] (https://github.com/josephpacifici7)
 - [euphros] (https://github.com/euphroshub)
+- [Betsegaw Lemma Amersho] (https://github.com/betsegawlemma)
 - Vince Duarte
 - Vimal Octavius [https://github.com/vimaloctavius]
 - Kathy Chowaniec
