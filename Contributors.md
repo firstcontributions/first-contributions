@@ -783,6 +783,7 @@ yejashi
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
+- [Jules](https://github.com/NullioJava)
 - [Kinglucifer300](https://github.com/Kinglucifer300)
 - [Rohit Tewari](https://github.com/rtewari056)
 - [mhojune](https://github.com/mhojune)
