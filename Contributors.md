@@ -44,6 +44,7 @@
 - Prabhu
 - Brian Xu
 - Caitlynne Kezys
+- David Zheng
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
