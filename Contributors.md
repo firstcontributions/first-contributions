@@ -1,22 +1,30 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Benjamin](https://github.com/haik-x)
+- [Rohan Karan](https://github.com/rohankaran)
 - [JDaddy] (https://github.com/Jason8830)
+- [Amal Kuriakose](https://github.com/amalkuriakose)
 - [Hudlez](https://github.com/hudlez)
+- [tejaswari7](https://github.com/tejaswari7)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
-- [menoetius](https://github.com/menoetius-the-rash) -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
+- [menoetius](https://github.com/menoetius-the-rash)
+- [Angelica Figueroa](https://github.com/angelicaf13)
+-[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
+- [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
 - [hussein saad] (https://github.com/hussein-saad)
 - [Pranav Arora](https://github.com/pranavarora1895)
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
+- [Vicente Soriano] (http://github.com/vicente-s)
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Ilija Kovacevic] (https://github.com/ili16)
@@ -25,6 +33,8 @@
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Vijay] (https://github.com/vijayaraghavanm)
+- [stkolanu] (https://github.com.stkolanu) 
+- [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - Tito Ruiz
 - Aakansh
@@ -32,7 +42,10 @@
 - Siddhant Kumar
 - Varun Agrawal
 - Pratyush Sinha
+- Prabhu
 - Brian Xu
+- Caitlynne Kezys
+- David Zheng
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
@@ -68,12 +81,14 @@
   Jawadur
 - [Pradeep Pai Kateel](https://github.com/pradeeppaikateel)
 - Titamah Simpson
+- [Ahmad Muhaemin](https://github.com/amuhaemin)
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
 - VastoLordePy
 - [Brian Bawden]
   [Usman Naveed](https://github.com/usman-naveed)
+- [BooDeer](https://github.com/BooDeer)
 - Nithin
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
 - [Edson Canganjo](https://github.com/edsoncanganjo)
@@ -113,6 +128,7 @@ Jawadur
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
 - [Gabriel Bermudez](https://github.com/skinnii)
+- [PixelZee](https://github.com/pixelzee3)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [Ben Jackson] (https://github.com/benjacksondev)
@@ -129,9 +145,11 @@ Jawadur
 - [Gouse Mohiddin] (https://github.com/gousemohiddin44)
 - [Zach Simmons] (https://github.com/zjsimmons13)
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
-  Justin Villena
+- [Vishal Pathak] (https://github.com/pathakvishal1111)
+Justin Villena
 - Charles Ulrich
 - Alpha Bah
+- [Raymond Broome](https://github.com/m0nd)
 - Alon Oziel
 - Lidor Waldman
 - Dimitri Distefano
@@ -193,8 +211,7 @@ Jawadur
 - Ali Abusulb - Go Gators
 - Yaswant Krishna
 - Nicolas Perez
-  <<<<<<< HEAD
-- # [slowjo](https://github.com/slowjo)
+- [slowjo](https://github.com/slowjo)
 - Ashish Suman
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
@@ -313,6 +330,7 @@ Jawadur
 - [Perrine Cribier-Delande] (https://github.com/delcrip)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
 - [Dhruv Chandrani] (https://github.com/dchandrani)
+- [Semir Teskeredzic] (https://github.com/semirteskeredzic)
 - [Thomas S Nielsen] (https://github.com/Quball)
 - [Jay Rajvadiya](https://github.com/jayrajvadiya123)
 - [Justice Petersen](https://github.com/justiceap)
@@ -2116,6 +2134,7 @@ Jawadur
 - [Urvi Mitra](https://github.com/urvimitra)
 - [Kartik Prajapat](https://github.com/kartikpjpt)
 - [Ross Calvert](https://github.com/Ross-C)
+- [Florian Wuensche](https://github.com/siabrac)
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! :](https://github.com/samyak1409/)
 - [Njoguu](https://github.com/Njoguu)
@@ -2522,6 +2541,7 @@ Jawadur
 - [Fatih Aydin](https://github.com/fatay)
 - [Saatvat Gupta](https://github.com/Saatvat)
 - [Robin Borgstrom](https://github.com/robinborg)
+- [Robin BerGra](https://github.com/RobinBerGra)
 - [Alessandro Meschi](https://github.com/MrAlessandro)
 - [Amir Raza](https://github.com/pseudo-nymous)
 - [Amrit Dhaliwal](https://github.com/AmrDhaliwal)
@@ -4144,4 +4164,6 @@ Jawadur
 - [Sepehr Sahraian](https://github.com/sprshr)
 - [Devendra sahu](https://github.com/code09-web)
 - [EveSquare](https://github.com/EveSquare)
+- [jaslli](https://github.com/jaslli)
+- [kadja099](https://github.com/kadja099)
 <!-- prettier-ignore-end -->
