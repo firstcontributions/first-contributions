@@ -313,6 +313,7 @@ Arpit Agarwal
 -[Avirup Basu](https://github.com/avirup171)
 -[Kemal Muharemovic](https://github.com/KemalMuharemovic)
 -[Aastha Shukla](https://github.com/aastha1910)
+-[Amanjeet Kumar](https://github.com/TechnicalAmanjeet)
 -[Ishaan Jain](https://github.com/ishaan14112000)
 -[Yuv](https://github.com/yuvsust)
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
