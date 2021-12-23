@@ -10,6 +10,7 @@
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
+- [Angelica Figueroa](https://github.com/angelicaf13)
 -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
