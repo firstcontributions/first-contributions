@@ -33,6 +33,7 @@
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Vijay] (https://github.com/vijayaraghavanm)
+- [stkolanu] (https://github.com.stkolanu) 
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - Tito Ruiz
