@@ -22,6 +22,7 @@
 - [hussein saad] (https://github.com/hussein-saad)
 - [Pranav Arora](https://github.com/pranavarora1895)
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
+- [Manikanta Reddy Nayini](https://github.com/mreddyn)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Vicente Soriano] (http://github.com/vicente-s)
