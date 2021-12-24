@@ -925,6 +925,7 @@ yejashi
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Bastien](https://github.com/Sairkko)
 - [Tansy Hu](https://github.com/subarashii-huch09)
+- [Rakesh Parihar](https://github.com/rpzero19)
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Parth Soni](https://github.com/parth1007)
 - [Rozen Berg](https://github.com/rozenberg4christ)
