@@ -36,6 +36,7 @@
 - [stkolanu] (https://github.com.stkolanu) 
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
+- [Jay EPEP](https://github.com/eppp)
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
@@ -109,6 +110,7 @@ Jawadur
 - Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
+- [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
 - Srishti
@@ -132,7 +134,9 @@ Jawadur
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [Ben Jackson] (https://github.com/benjacksondev)
-- [Nick Strawser] (https://github.com/nickstrawser) -[Kunal Gaur] (https://github.com/kunalgaur7983)
+- [Nick Strawser] (https://github.com/nickstrawser)
+- [Arpit Babbar] (https://github.com/arpitbabbar)
+-[Kunal Gaur] (https://github.com/kunalgaur7983)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
 - [Ethan Coward](https://github.com/CDE90)
@@ -170,6 +174,7 @@ Justin Villena
 - Joshua Weinstein
 - Saiful Islam
 - Oliver Yuan
+- [Kevin Bohorquez](https://github.com/scyth3-c)
 - Vivian Sung
 - Kemari Chen Loy
 - Andres Wolfe
@@ -445,6 +450,7 @@ Justin Villena
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
 - [Timo Chen] (https://github.com/kunkun9811)
+- [kiprotich brian] (https://github.com/biiruto)
 - [Harvinder Singh](https://github.com/Happy-developing/)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
 - [Lily Maloney] (https://github.com/Lukewarm-Water)
@@ -781,6 +787,7 @@ Justin Villena
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
+- [Jules](https://github.com/NullioJava)
 - [Kinglucifer300](https://github.com/Kinglucifer300)
 - [Rohit Tewari](https://github.com/rtewari056)
 - [mhojune](https://github.com/mhojune)
@@ -1440,6 +1447,7 @@ Justin Villena
 - [Salvador Oliveira](https://github.com/Salv4d/)
   [Chad McCarthy](https://github.com/chadmcc-1)
 - [Appledora](https://github.com/appledora)
+  [Isaac Lopez](https://github.com/codingcorvid)
 - [Ismeet Kour Chhabda](https://github.com/ismeet010)
 - [Kurtis Gibson](https://github.com/kagibson)
 - [Kwesi Obika](https://github.com/KwesiObika)
@@ -1805,6 +1813,7 @@ Justin Villena
 - [Rachana Singh](https://github.com/rachana-singh27)
   [Anuj Yadav](https://github.com/ajishere07)
 - [Arvind Jei](https://github.com/arvjei11)
+- [Eliran Amar](https://github.com/eliranamar)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Asim Delvi](https://github.com/asimdelvi)
@@ -2548,6 +2557,7 @@ Justin Villena
 - [b0bdN](https://github.com/b0bdN)
 - [Bushan SC](https://github.com/scbushan05)
 - [Walid Sakr](https://github.com/wsakr)
+- [Juan Mojica](https://github.com/jcmojicar)
 - [ev9nsk](https://github.com/ev9nsk)
 - [NemaPy](https://github.com/nemapy)
 - [Neil J](https://github.com/neiljaviya)
@@ -3202,6 +3212,7 @@ Justin Villena
 - [NoboruWataya](https://github.com/NoboruWataya123)
 - [Dirk Cziesla](https://github.com/EndOfSource)
 - [yama0401](https://github.com/yama0401)
+- [Mohanad Alrwaihy](https://github.com/MohanadOO)
 - [Rahman Haroon](https://github.com/rahmanharoon)
 - [Fenix Xia](https://github.com/Fenix3123)
 - [Ratan Patil](https://github.com/ratanpatil212)
@@ -3349,6 +3360,7 @@ Justin Villena
 - [Rohit Arunachalam](https://github.com/rohitarunachalam)
 - [Sadman Sobhan](https://github.com/imran110219)
 - [Obichukwu O](https://github.com/obichukwu)
+- [Lisa S](https://github.com/lisa005)
 - [Bunty](https://github.com/BuntyBru)
 - [jpbongiovanni](https://github.com/JpBongiovanni)
 - [Brittny M.](https://github.com/AdmiralVancouver)
@@ -4062,6 +4074,7 @@ Justin Villena
 - [Jitul Kumar Laphong] (https://github.com/jitulkr)
 - [Joseph Pacifici] (https://github.com/josephpacifici7)
 - [euphros] (https://github.com/euphroshub)
+- [Betsegaw Lemma Amersho] (https://github.com/betsegawlemma)
 - Vince Duarte
 - Vimal Octavius [https://github.com/vimaloctavius]
 - Kathy Chowaniec
@@ -4165,5 +4178,8 @@ Justin Villena
 - [Devendra sahu](https://github.com/code09-web)
 - [EveSquare](https://github.com/EveSquare)
 - [jaslli](https://github.com/jaslli)
+- [koderik](https://github.com/koderik)
 - [kadja099](https://github.com/kadja099)
+- [kiddos19882]()
+- [Nidhi Verma](https://github.com/nidhi99verma)
 <!-- prettier-ignore-end -->
