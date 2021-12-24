@@ -170,6 +170,7 @@ Justin Villena
 - Joshua Weinstein
 - Saiful Islam
 - Oliver Yuan
+- [Kevin Bohorquez](https://github.com/scyth3-c)
 - Vivian Sung
 - Kemari Chen Loy
 - Andres Wolfe
