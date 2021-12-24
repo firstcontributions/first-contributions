@@ -3363,6 +3363,7 @@ Himanshu Dedha
 - [Rohit Arunachalam](https://github.com/rohitarunachalam)
 - [Sadman Sobhan](https://github.com/imran110219)
 - [Obichukwu O](https://github.com/obichukwu)
+- [Lisa S](https://github.com/lisa005)
 - [Bunty](https://github.com/BuntyBru)
 - [jpbongiovanni](https://github.com/JpBongiovanni)
 - [Brittny M.](https://github.com/AdmiralVancouver)
