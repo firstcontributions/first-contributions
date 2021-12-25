@@ -41,6 +41,7 @@
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - [Jay EPEP](https://github.com/eppp)
+- Nikita
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
