@@ -81,6 +81,7 @@
 - [May Thazin Htun](https://github.com/maythazinhtunn)
 - [beingapalware](https://github.com/beingapalware)
 - [Pradeep Pai Kateel](https://github.com/pradeeppaikateel)
+- [Andrew D](https://github.com/itsdevandy)
 - Titamah Simpson
 - [Ahmad Muhaemin](https://github.com/amuhaemin)
 -Omar Maslamani
