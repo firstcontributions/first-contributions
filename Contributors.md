@@ -2,9 +2,11 @@
 
 <!-- prettier-ignore-start -->
 
+-[HninYuHlaing](https://github.com/miracleace)
 - [Benjamin](https://github.com/haik-x)
 - [Rohan Karan](https://github.com/rohankaran)
 - [JDaddy] (https://github.com/Jason8830)
+- [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
 - [Hudlez](https://github.com/hudlez)
 - [tejaswari7](https://github.com/tejaswari7)
@@ -19,7 +21,6 @@
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
 - [Daniel Apantaku](https://github.com/korecodes)
--[Kumar Kalyan](https://github.com/kum9748ar)
 - [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
 - [hussein saad] (https://github.com/hussein-saad)
 - [Pranav Arora](https://github.com/pranavarora1895)
@@ -4182,4 +4183,5 @@
 - [kadja099](https://github.com/kadja099)
 - [kiddos19882]()
 - [Nidhi Verma](https://github.com/nidhi99verma)
+-[Kumar Kalyan](https://github.com/kum9748ar)
 <!-- prettier-ignore-end -->
