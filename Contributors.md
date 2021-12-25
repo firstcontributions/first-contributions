@@ -632,7 +632,6 @@ yejashi
 - [Souvik Pan] (https://github.com/ZouvikPan)
 - [Jeremy] (https://github.com/jeje-01350)
 - [June](https://github.com/junezimmerman93)
-- [Keelan10](https://github.com/Keelan10)
 - [Meharab](https://github.com/Meharab)
 - [Petre Tiberiu](https://github.com/Petrickah)
 - [Chase Wrenn] (https://github.com/chasewrennufl)
