@@ -37,7 +37,7 @@
 - [Bueze Nwokolo](https://github.com/nwokolo24)
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
-- Tolulope Akinbande (https://github.com/FlyingCicada)
+- [Tolulope Akinbande] (https://github.com/FlyingCicada)
 - Kristin Wiseman (https://github.com/kristin-wiseman)
 - Omar Elwaliely (https://github.com/omarelwaliely)
 - [Mauricio Martino] (https://github.com/sbrj)
