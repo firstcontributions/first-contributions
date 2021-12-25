@@ -1,12 +1,13 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Benjamin](https://github.com/haik-x)
 - [Rohan Karan](https://github.com/rohankaran)
 - [JDaddy] (https://github.com/Jason8830)
+- [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
 - [Hudlez](https://github.com/hudlez)
+- [wook95](https://github.com/wook95)
 - [tejaswari7](https://github.com/tejaswari7)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
@@ -22,6 +23,7 @@
 - [hussein saad] (https://github.com/hussein-saad)
 - [Pranav Arora](https://github.com/pranavarora1895)
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
+- [Manikanta Reddy Nayini](https://github.com/mreddyn)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Vicente Soriano] (http://github.com/vicente-s)
@@ -77,6 +79,7 @@
 - [May Thazin Htun](https://github.com/maythazinhtunn)
 - [beingapalware](https://github.com/beingapalware)
 - [Pradeep Pai Kateel](https://github.com/pradeeppaikateel)
+- [Andrew D](https://github.com/itsdevandy)
 - Titamah Simpson
 - [Ahmad Muhaemin](https://github.com/amuhaemin)
   -Omar Maslamani
@@ -919,6 +922,7 @@
 - [Amanda Cochran](https://github.com/Wildefyre116)
 - [Bastien](https://github.com/Sairkko)
 - [Tansy Hu](https://github.com/subarashii-huch09)
+- [Rakesh Parihar](https://github.com/rpzero19)
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Parth Soni](https://github.com/parth1007)
 - [Rozen Berg](https://github.com/rozenberg4christ)
@@ -1994,6 +1998,7 @@
 - [Nick Irikawa](https://github.com/nirikawa)
 - [Eduardo Kusznieryk](https://github.com/kusznieryk)
 - [Thomas Salisbury](https://github.com/ThomasSalisbury)
+- [Davit Tskhondia](https://github.com/dtskhondia)
 - [Huan Le](https://github.com/huancho9802)
 - [jfjini11](https://github.com/jjini11)
 - [blautista](https://github.com/blautista)
@@ -4179,4 +4184,7 @@
 - [kadja099](https://github.com/kadja099)
 - [kiddos19882]()
 - [Nidhi Verma](https://github.com/nidhi99verma)
+- [Lion] (https://github.com/TheLionDev)
+- [zztaki](https://github.com/ZzTaki)
+- [kum9748ar](https://github.com/kum9748ar)
 <!-- prettier-ignore-end -->
