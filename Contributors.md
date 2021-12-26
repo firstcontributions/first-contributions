@@ -230,6 +230,7 @@ Justin Villena
 - [Veronica Soden]
 - [D.S.]
 - [Malv93](https://github.com/Malv93)
+- [Edimara](https://github.com/edimarasantos)
 - [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
