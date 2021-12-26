@@ -9,6 +9,7 @@
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
+- [traderdude123](https://github.com/traderdude123)
 - [Hudlez](https://github.com/hudlez)
 - [wook95](https://github.com/wook95)
 - [tejaswari7](https://github.com/tejaswari7)
