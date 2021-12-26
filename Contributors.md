@@ -49,6 +49,7 @@
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
+- [Kgosietsile Modise] (https://github.com/modisek)
 - Siddhant Kumar
 - Varun Agrawal
 - Pratyush Sinha
