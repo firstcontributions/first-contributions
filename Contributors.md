@@ -57,7 +57,7 @@
 - Brian Xu
 - Caitlynne Kezys
 - David Zheng
-- Edimara -[Soumya Podha]https://github.com/soumyapodha
+- [Edimara](https://github.com/edimarasantos)
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
   -Kynnedy Esteves (https://github.com/kynnedye)
