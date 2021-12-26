@@ -4,6 +4,7 @@
 -[HninYuHlaing](https://github.com/miracleace)
 [Saiwunna21](https://github.com/SaiWunna21)
 - [Emre](https://github.com/eayture)
+- [Emanuel C.](https://github.com/emacaz)
 - [Benjamin](https://github.com/haik-x)
 - [Rohan Karan](https://github.com/rohankaran)
 - [JDaddy] (https://github.com/Jason8830)
