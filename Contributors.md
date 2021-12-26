@@ -4211,4 +4211,5 @@ Michael Wong
 - [zztaki](https://github.com/ZzTaki)
 - [kum9748ar](https://github.com/kum9748ar)
 - [adimatiwala](https://github.com/adimatiwala)
+- [nawazshanu](https://github.com/nawazshanu)
 <!-- prettier-ignore-end -->
