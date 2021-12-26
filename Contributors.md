@@ -6,6 +6,7 @@
 - [Benjamin](https://github.com/haik-x)
 - [Rohan Karan](https://github.com/rohankaran)
 - [JDaddy] (https://github.com/Jason8830)
+- [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
 - [Hudlez](https://github.com/hudlez)
