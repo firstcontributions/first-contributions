@@ -55,6 +55,7 @@
 - [Jay EPEP](https://github.com/eppp)
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
+sylucck
 - Nikita
 - Tito Ruiz
 - Aakansh
