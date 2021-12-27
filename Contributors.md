@@ -52,6 +52,7 @@
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - [Jay EPEP](https://github.com/eppp)
 - [Martinlwx](https://github.com/MartinLwx)
+- [Vasanti Suthar](https://github.com/vasantisuthar)
 - Nikita
 - Tito Ruiz
 - Aakansh
