@@ -50,6 +50,7 @@
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - [Jay EPEP](https://github.com/eppp)
+- [Martinlwx](https://github.com/MartinLwx)
 - Nikita
 - Tito Ruiz
 - Aakansh
