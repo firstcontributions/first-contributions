@@ -4225,4 +4225,5 @@ Michael Wong
 - [nawazshanu](https://github.com/nawazshanu)
 - [tcf2272](https://github.com/toddcford)
 - [Dhruv Patil](https://github.com/larsonjack05)
+- [Nikita Lejnev](https://github.com/NikitaLejnev)
 <!-- prettier-ignore-end -->
