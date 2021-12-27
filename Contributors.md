@@ -6,6 +6,7 @@
 - [Emre](https://github.com/eayture)
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
+- [WaiPhyoeOo](https://github.com/waiphyoeoo)
 - [Benjamin](https://github.com/haik-x)
 - [The RainMan](https://github.com/TheRainManV2)
 - [Rohan Karan](https://github.com/rohankaran)
