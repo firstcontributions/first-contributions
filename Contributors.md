@@ -4224,4 +4224,5 @@ Michael Wong
 - [adimatiwala](https://github.com/adimatiwala)
 - [nawazshanu](https://github.com/nawazshanu)
 - [tcf2272](https://github.com/toddcford)
+- [Dhruv Patil](https://github.com/larsonjack05)
 <!-- prettier-ignore-end -->
