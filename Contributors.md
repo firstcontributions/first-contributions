@@ -4226,4 +4226,5 @@ Michael Wong
 - [tcf2272](https://github.com/toddcford)
 - [Dhruv Patil](https://github.com/larsonjack05)
 - [Nikita Lejnev](https://github.com/NikitaLejnev)
+- [Kamil Brzezinski](https://github.com/kamilbrzezinski)
 <!-- prettier-ignore-end -->
