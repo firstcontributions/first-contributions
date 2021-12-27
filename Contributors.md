@@ -237,6 +237,7 @@ Justin Villena
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
 - [D.S.]
+- [Kristoffer Sullivan](https://github.com/ksully1993)
 - [Malv93](https://github.com/Malv93)
 - [Edimara](https://github.com/edimarasantos)
 - [Suraj Subramanian](https://github.com/suraj-subramanian) 
