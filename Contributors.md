@@ -1510,6 +1510,7 @@ Pranjal
 - [Shaurya](https://github.com/shaurya5 )
 - [Tom](https://github.com/tomer9)
 - [Aisling K](https://github.com/aikearney)
+- [Diego Penuela](https://github.com/diegopenuela)
 - [Vijender P](https://github.com/pvijender)
 - [Aisha Gaines](https://github.com/aishamikale)
 - [Sridhar Maskeri](https://github.com/floating-dynamo)
