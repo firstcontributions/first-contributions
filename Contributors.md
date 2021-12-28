@@ -55,6 +55,7 @@
 - [Jay EPEP](https://github.com/eppp)
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
+- [zredb](https://github.com/zredb)
 sylucck
 - Nikita
 - Tito Ruiz
