@@ -324,6 +324,7 @@ Tristan Bottone
 - [Walt Iddings](https://github.com/wai1)
 - [Matthew Kopelowitz](https://github.com/MatthewKopelowitz)
 - [Attyuttam Saha](https://github.com/Attyuttam)
+- [Adnan Niloy](https://github.com/Adnan-Niloy)
 - James Smith
 - Jason Ghent
 - [Rahul Chari](https://github.com/rah-1)
