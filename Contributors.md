@@ -11,6 +11,7 @@
 - [Benjamin](https://github.com/haik-x)
 - [The RainMan](https://github.com/TheRainManV2)
 - [Rohan Karan](https://github.com/rohankaran)
+- [Lion elias]
 - [JDaddy] (https://github.com/Jason8830)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
