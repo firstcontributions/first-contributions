@@ -66,6 +66,7 @@ sylucck
 - Pratyush Sinha
 - Prabhu
 - Brian Xu
+- James Loewen
 - Caitlynne Kezys
 - David Zheng
 -[Soumya Podha]https://github.com/soumyapodha
