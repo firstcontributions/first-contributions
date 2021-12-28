@@ -4246,5 +4246,5 @@ Michael Wong
 - [Dhruv Patil](https://github.com/larsonjack05)
 - [Nikita Lejnev](https://github.com/NikitaLejnev)
 - [Kamil Brzezinski](https://github.com/kamilbrzezinski)
-- [sunshuqing19990203](https://github.com/sunshuqing19990203/)
+
 <!-- prettier-ignore-end -->
