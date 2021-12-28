@@ -778,6 +778,7 @@ yejashi
 - [Giovanni Cornejo] (https://github.com/Gearsman24)
 - [Thomas] (https://github.com/MediumChan)
 - [Deletking](https://github.com/Deletking)
+- [Ricky Lao](https://github.com/rickylao)
 - [Tom Blanchard]
   [Morbius](https://github.com/prads46)
 - [Priyanka Vaishya](https://github.com/PriyankaVaishya)
