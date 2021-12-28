@@ -3879,6 +3879,7 @@ Disguy
 - [Amol Goel](https://github.com/deathrangerr)
 - [Michael Brigham](https://github.com/michael-ames/)
 - [Hassan Abba Ahmed](https://github.com/haitchabba)
+- [Shabarish Nair](https://github.com/shab95)
 - [CrimsonTome](https://github.com/crimsontome)
 - [Gabe Brown](https://github.com/gabebrown814)
 - [George Venizelos](https://github.com/venizg)
