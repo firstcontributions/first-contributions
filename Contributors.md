@@ -11,6 +11,7 @@
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
 - [Benjamin](https://github.com/haik-x)
 - [The RainMan](https://github.com/TheRainManV2)
+- [The Coding Canal](https://github.com/TheCodingCanal)
 - [Rohan Karan](https://github.com/rohankaran)
 - [Lion elias]
 - [JDaddy] (https://github.com/Jason8830)
