@@ -70,6 +70,7 @@ sylucck
 - Varun Agrawal
 - Pratyush Sinha
 - Prabhu
+- Kshitij Barnwal
 - Brian Xu
 - James Loewen
 - Caitlynne Kezys
