@@ -60,6 +60,7 @@
 - Varun Agrawal
 - Pratyush Sinha
 - Prabhu
+- Kshitij Barnwal
 - Brian Xu
 - Caitlynne Kezys
 - David Zheng
