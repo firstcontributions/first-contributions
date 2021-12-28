@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 -[HninYuHlaing](https://github.com/miracleace)
 [Saiwunna21](https://github.com/SaiWunna21)
+- [SeokJoon](https://github.com/eshc123)
 - [Emre](https://github.com/eayture)
 - [Robert Greenwood](https://github.com/ImRobG)
 - [Emanuel C.](https://github.com/emacaz)
