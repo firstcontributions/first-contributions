@@ -30,6 +30,7 @@
 - [tejaswari7](https://github.com/tejaswari7)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
+- [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [Angelica Figueroa](https://github.com/angelicaf13)
