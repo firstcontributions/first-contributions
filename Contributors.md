@@ -241,6 +241,7 @@ Justin Villena
 - Tianlan Yang
 - Mayank Kashyap
 - Bo Chung
+- Courtney Hardy
 - Rachel Peterson
 - Yonas  Bahre
 - Ayush Krishnappa 
