@@ -14,6 +14,7 @@
 - [The RainMan](https://github.com/TheRainManV2)
 - [The Coding Canal](https://github.com/TheCodingCanal)
 - [Rohan Karan](https://github.com/rohankaran)
+- [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
 - [JDaddy] (https://github.com/Jason8830)
 - [Christian Abrokwa](https://github.com/Daquiver1)
