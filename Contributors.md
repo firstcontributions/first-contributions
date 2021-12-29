@@ -17,6 +17,7 @@
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
 - [JDaddy] (https://github.com/Jason8830)
+- [aditya7196] (https://github.com/aditya7196)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
