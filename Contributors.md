@@ -723,6 +723,7 @@ yejashi
 -[Martin Lever](https://github.com/MartinL551)
 - [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
+- [oduold](https://github.com/oduold)
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
 - [Ahmed Ikram](https://github.com/ahmed-cmyk)
 - [Rabih ND](https://github.com/RabihND)
