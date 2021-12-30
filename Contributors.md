@@ -325,6 +325,7 @@ Tristan Bottone
 - [Jafar Jalilov](https://github.com/jafarjalilov)
 - [Conner Gallimore]
 - [Nishit Sheth](https://github.com/nishitinfo)
+- [Fernando Guevara](https://github.com/guevaraf)
 - [Subhadeep Paul](https://github.com/white-peed)
 - [Dave Coleman](https://github.com/dave1c)
 - [Eduard Beiline] (https://github.com/Eduard953)
@@ -4276,4 +4277,5 @@ Michael Wong
 - [MartinHeywang](https://github.com/MartinHeywang)
 - [Sugumar]
 - [OguzhanDogdu](https://github.com/oguzsout)
+- [Piposo745](https://github.com/Piposo745)
 <!-- prettier-ignore-end -->
