@@ -1,8 +1,8 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
--[HninYuHlaing](https://github.com/miracleace)
-[Saiwunna21](https://github.com/SaiWunna21)
+- [HninYuHlaing](https://github.com/miracleace)
+- [Saiwunna21](https://github.com/SaiWunna21)
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [SeokJoon](https://github.com/eshc123)
 - [Emre](https://github.com/eayture)
@@ -68,7 +68,7 @@
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
 - [zredb](https://github.com/zredb)
-sylucck
+- sylucck
 - Nikita
 - Tito Ruiz
 - Aakansh
@@ -83,15 +83,15 @@ sylucck
 - James Loewen
 - Caitlynne Kezys
 - David Zheng
--[Soumya Podha]https://github.com/soumyapodha
+- [Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
--Kynnedy Esteves (https://github.com/kynnedye)
+- [Kynnedy Esteves] (https://github.com/kynnedye)
 - [Bueze Nwokolo](https://github.com/nwokolo24)
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
-- TayCel (https://github.com/TayCel)
-- Kristin Wiseman (https://github.com/kristin-wiseman)
-- Omar Elwaliely (https://github.com/omarelwaliely)
+- [TayCel] (https://github.com/TayCel)
+- [Kristin Wiseman] (https://github.com/kristin-wiseman)
+- [Omar Elwaliely] (https://github.com/omarelwaliely)
 - [Mauricio Martino] (https://github.com/sbrj)
 - [Kumar Prince] (https://github.com/thekrprince)
 - [Alex Prezioso] (https://github.com/a-prezioso)
@@ -118,9 +118,9 @@ sylucck
 - [Andrew D](https://github.com/itsdevandy)
 - Titamah Simpson
 - [Ahmad Muhaemin](https://github.com/amuhaemin)
--Omar Maslamani
--Chidiogo Onoh
-Jawadur
+- Omar Maslamani
+- Chidiogo Onoh
+- Jawadur
 - VastoLordePy
 - [Brian Bawden]
   [Usman Naveed](https://github.com/usman-naveed)
@@ -172,7 +172,7 @@ Jawadur
 - [Ben Jackson] (https://github.com/benjacksondev)
 - [Nick Strawser] (https://github.com/nickstrawser)
 - [Arpit Babbar] (https://github.com/arpitbabbar)
--[Kunal Gaur] (https://github.com/kunalgaur7983)
+- [Kunal Gaur] (https://github.com/kunalgaur7983)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
 - [Ethan Coward](https://github.com/CDE90)
@@ -187,7 +187,7 @@ Jawadur
 - [Zach Simmons] (https://github.com/zjsimmons13)
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 - [Vishal Pathak] (https://github.com/pathakvishal1111)
-Justin Villena
+- Justin Villena
 - Charles Ulrich
 - Alpha Bah
 - [Raymond Broome](https://github.com/m0nd)
@@ -228,7 +228,7 @@ Justin Villena
 - Mohit Tamang
 - Justin Golabek
 - Ashish Satyavarapu
--herman ombasa
+- herman ombasa
 - geuristic
 - Christina Kahn
 - Pranay Singh
