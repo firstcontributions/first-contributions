@@ -42,6 +42,7 @@
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
+- [Emely]
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
 - [Govind Kumar](https://github.com/govind527)
