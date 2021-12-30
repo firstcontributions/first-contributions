@@ -17,6 +17,7 @@
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
 - [JDaddy] (https://github.com/Jason8830)
+- [aditya7196] (https://github.com/aditya7196)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
@@ -27,7 +28,9 @@
 - [Srabon Khan](https://github.com/srabonkhan0461)
 - [Abby Anderson](https://github.com/abby-anderson)
 - [tejaswari7](https://github.com/tejaswari7)
+- [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
+- [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [Angelica Figueroa](https://github.com/angelicaf13)
@@ -191,6 +194,7 @@ Justin Villena
 - Alpha Bah
 - [Raymond Broome](https://github.com/m0nd)
 - Alon Oziel
+- [Benny Christian Henning](https://github.com/bchenning)
 - Lidor Waldman
 - Dimitri Distefano
 - William Manuel
@@ -242,6 +246,7 @@ Justin Villena
 - Tianlan Yang
 - Mayank Kashyap
 - Bo Chung
+- Courtney Hardy
 - Rachel Peterson
 - Yonas Bahre
 - Ayush Krishnappa
@@ -305,8 +310,9 @@ Justin Villena
 - [Yugal Mishra](https://github.com/yugaled)
 - [Wahyu Adi Candra](https://github.com/adicandra1)
 - [Vats Patel] (https://github.com/Vats14)
-  Tristan Bottone
-  -Daymao Silva
+Tristan Bottone
+-Daymao Silva
+- [Luca Consalvi](https://github.com/Luk4e)
 - [Cindel Guerrero] (https://github.com/Cindel17)
 - [Nitesh Kumar](https://github.com/NITESH37)
 - [Daniel Casto](https://github.com/danielcasto)
@@ -468,6 +474,7 @@ Justin Villena
 - [21yuyu99](https://github.com/21yuyu99)
 - [Ayume Francis](https://github.com/francis556)👀 🤫
 - [JamileQueiroz](https://github.com/JamileQueiroz)
+- [Jalal-Althahab](https://github.com/Jalal-Althahab)
 - [Jeet Debnath] (https://github.com/JxxT)
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [Sarah DeMercurio](https://github.com/sdemercurio) 💃
@@ -723,6 +730,7 @@ Justin Villena
 - [Gustavo Bastian](https://github.com/gustavobastian) -[Martin Lever](https://github.com/MartinL551)
 - [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
+- [oduold](https://github.com/oduold)
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
 - [Ahmed Ikram](https://github.com/ahmed-cmyk)
 - [Rabih ND](https://github.com/RabihND)
@@ -2648,6 +2656,7 @@ Justin Villena
 - [Shubham Priyank](https://github.com/priyank-091)
 - [Dewansh Thakur](https://github.com/dewanshDT)
 - [Lucas K](https://github.com/lk1ng)
+- [Andrea Stefano Polito](https://github.com/flubberwuffer)
 - [Philippe Proctor](https://github.com/peproctor)
 - [Justin Tran](https://github.com/justintran12)
 - [Ankit rawat](https://github.com/Ankit7895)
@@ -4251,4 +4260,6 @@ Justin Villena
 - [sunshuqing19990203](https://github.com/sunshuqing19990203)
 - [claudn](https://github.com/claudn)
 - [dhruva3223](https://github.com/dhruva3223/first-contributions)
+- [LiZheGuang](https://github.com/LiZheGuang)
+- [MartinHeywang](https://github.com/MartinHeywang)
 <!-- prettier-ignore-end -->
