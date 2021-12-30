@@ -1,3 +1,4 @@
+﻿
 # **Contributors**
 
 <!-- prettier-ignore-start -->
@@ -31,9 +32,12 @@
 - [tejaswari7](https://github.com/tejaswari7)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
+- [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
-- [Angelica Figueroa](https://github.com/angelicaf13) -[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
+- [Angelica Figueroa](https://github.com/angelicaf13)
+- [Abe](https://github.com/abe-101)
+- [Njoku Okechukuw Valentine] (https://github.com/bonsoirval)
 - [CinthiaRS](https://github.com/CinthiaRS24)
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
@@ -164,6 +168,7 @@ sylucck
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
 - [Gabriel Bermudez](https://github.com/skinnii)
+- [Jaydip Pansuriya](https://github.com/jaydipPansuriya21) 
 - [PixelZee](https://github.com/pixelzee3)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
@@ -189,6 +194,7 @@ sylucck
 - Alpha Bah
 - [Raymond Broome](https://github.com/m0nd)
 - Alon Oziel
+- [Benny Christian Henning](https://github.com/bchenning)
 - Lidor Waldman
 - Dimitri Distefano
 - William Manuel
@@ -240,6 +246,7 @@ sylucck
 - Tianlan Yang
 - Mayank Kashyap
 - Bo Chung
+- Courtney Hardy
 - Rachel Peterson
 - Yonas Bahre
 - Ayush Krishnappa
@@ -267,6 +274,7 @@ sylucck
 - [Uttam](https://github.com/helper-uttam)
 - [Alexander Snure](https://github.com/asnure15)
 - [Ayushi sinha](https://github.com/Ayushi271)
+- [Reet](https://github.com/RaniK27)
 - Lukman Memon
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
@@ -466,6 +474,7 @@ Tristan Bottone
 - [21yuyu99](https://github.com/21yuyu99)
 - [Ayume Francis](https://github.com/francis556)👀 🤫
 - [JamileQueiroz](https://github.com/JamileQueiroz)
+- [Jalal-Althahab](https://github.com/Jalal-Althahab)
 - [Jeet Debnath] (https://github.com/JxxT)
 - [Park Seongbin](https://github.com/SeongbinPark82)
 - [Sarah DeMercurio](https://github.com/sdemercurio) 💃
@@ -4171,7 +4180,8 @@ Tristan Bottone
 - [Samuel Roberson](https://github.com/swroberson)
 - Nikos Dupuy
 - Rymii M 
-- Mohammed Hasik	
+- Mohammed Hasik
+- Jason Zhong
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
 - [Will McCoy] (https://github.com/willway09)
@@ -4254,4 +4264,8 @@ Tristan Bottone
 - [claudn](https://github.com/claudn)
 - [dhruva3223](https://github.com/dhruva3223/first-contributions)
 - [LiZheGuang](https://github.com/LiZheGuang)
+- [MartinHeywang](https://github.com/MartinHeywang)
+- [Sugumar]
+- [OguzhanDogdu](https://github.com/oguzsout)
+- [Piposo745](https://github.com/Piposo745)
 <!-- prettier-ignore-end -->
