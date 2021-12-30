@@ -4189,7 +4189,8 @@ Michael Wong
 - [Samuel Roberson](https://github.com/swroberson)
 - Nikos Dupuy
 - Rymii M 
-- Mohammed Hasik	
+- Mohammed Hasik
+- Jason Zhong
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
 - [Will McCoy] (https://github.com/willway09)
