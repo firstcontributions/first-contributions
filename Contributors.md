@@ -34,7 +34,8 @@
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [Angelica Figueroa](https://github.com/angelicaf13)
--[Njoku Okechukuw Valentine] (https://github.com/bonsoirval
+- [Abe](https://github.com/abe-101)
+- [Njoku Okechukuw Valentine] (https://github.com/bonsoirval)
 - [CinthiaRS](https://github.com/CinthiaRS24)
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
