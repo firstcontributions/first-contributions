@@ -7,6 +7,7 @@
 - [SeokJoon](https://github.com/eshc123)
 - [Emre](https://github.com/eayture)
 - [Robert Greenwood](https://github.com/ImRobG)
+- [Mayank Tyagi](https://github.com/mayanktyagi1709)
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
