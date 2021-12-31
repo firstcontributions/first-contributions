@@ -2465,6 +2465,7 @@ Himanshu Dedha
 - [Adithya LK](https://github.com/adilk0728)
 - [Kimbrian Marshall](https://github.com/cimbraien)
 - [Joao Pedro Soares G Santos](https://github.com/JPedro-SG)
+- [Prithvi Kumar] (https://github.com/PrithviK21)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Elliott Belle](https://github.com/Elliott-Chong)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
