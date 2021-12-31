@@ -151,6 +151,7 @@ Jawadur
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
 - Harsha Vardhan(thunder07)
+- [Adeboye 'Boye' Folaranmi](https://github.com/Boye95)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
