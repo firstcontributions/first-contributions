@@ -578,6 +578,7 @@ yejashi
 - [joshmal9999](https://github.com/joshmal9999)
 - [Rawan Alazazi](https://github.com/rawanazazi12)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
+- [qbecb1zen](https://github.com/qbecb1zen)
 - [Sarah Akinkunmi](https://github.com/oluwadamiloju)
 - [Rashad Arfan](https://github.com/rashad93)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
