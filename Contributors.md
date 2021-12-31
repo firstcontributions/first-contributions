@@ -4292,3 +4292,4 @@ Michael Wong
 - [Yash Pareek](https://github.com/deepAIYash)
 - [Glob_Bruh](https://github.com/glob-bruh)
 <!-- prettier-ignore-end -->
+- [Hasan Tanveer](https://github.com/maxHus)
