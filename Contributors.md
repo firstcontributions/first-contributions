@@ -4299,4 +4299,5 @@ Michael Wong
 - [Yash Pareek](https://github.com/deepAIYash)
 - [Glob_Bruh](https://github.com/glob-bruh)
 - [jcqueiroz](https://github.com/jcqueiroz)
+- [AndrewSamoil](https://github.com/AndySamoil)
 <!-- prettier-ignore-end -->
