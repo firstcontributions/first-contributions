@@ -3533,6 +3533,7 @@ Himanshu Dedha
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [Amol Kadam](https://github.com/101amolkadam)
+- [Garett Anderson](https://github.com/gjanderso)
 - [victorquanlam](https://github.com/victorquanlam)
 - [Kashif Mushtaq](https://github.com/kashif-mushtaq)
 - [namekosiru](https://github.com/namekosiru)
