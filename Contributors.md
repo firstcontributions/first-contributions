@@ -4,13 +4,16 @@
 -[HninYuHlaing](https://github.com/miracleace)
 [Saiwunna21](https://github.com/SaiWunna21)
 - [AndyCam](https://github.com/AndresDavidArcos)
+- [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
 - [SeokJoon](https://github.com/eshc123)
 - [Emre](https://github.com/eayture)
 - [Robert Greenwood](https://github.com/ImRobG)
+- [Mayank Tyagi](https://github.com/mayanktyagi1709)
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
 - [Benjamin](https://github.com/haik-x)
+- [Albert Fay](https://github.com/AlbertFay)'
 - [The RainMan](https://github.com/TheRainManV2)
 - [The Coding Canal](https://github.com/TheCodingCanal)
 - [Rohan Karan](https://github.com/rohankaran)
@@ -43,6 +46,8 @@
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
+- [Emely]
+- [CrypticXT](https://github.com/CrypticXT)
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
 - [Govind Kumar](https://github.com/govind527)
@@ -168,6 +173,7 @@ Jawadur
 - [Quinton] (https://github.com/qwiebe)
 - [Gabriel Bermudez](https://github.com/skinnii)
 - [Jaydip Pansuriya](https://github.com/jaydipPansuriya21)
+- [Daniel Weinshtein](https://github.com/Danielv8899
 - [PixelZee](https://github.com/pixelzee3)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
@@ -422,6 +428,7 @@ Ajith
 - [Bhavani Prasad] (https://github.com/bhavaniatja)
 - [eton-codes](https://github.com/eton-codes)
 - [Matttx](https://github.com/Matttx)
+- Saripalli
 - Miguel
 - [Enrique Ji](https://github.com/enriquejiwa)
 - [Freddy Sossa](https://github.com/fredsossa1)
@@ -575,6 +582,7 @@ yejashi
 - [joshmal9999](https://github.com/joshmal9999)
 - [Rawan Alazazi](https://github.com/rawanazazi12)
 - [Zelalem Mekonnen](https://github.com/zelalemMK)
+- [qbecb1zen](https://github.com/qbecb1zen)
 - [Sarah Akinkunmi](https://github.com/oluwadamiloju)
 - [Rashad Arfan](https://github.com/rashad93)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
@@ -2219,6 +2227,7 @@ Himanshu Dedha
 - [Benjamin Siau](https://github.com/bensiauu)
 - [sereno](https://github.com/sereno1987)
 - [Rahul](https://github.com/Rahul-go1503/)
+- [Reed McFadden](https://github.com/reedmcfadden)
 - [John Kponyo](https://github.com/nullstead)
 - [AntBru](https://github.com/ab-uol)
 - [Amit-1001](https://github.com/Amit-1001/)
@@ -4281,4 +4290,6 @@ Michael Wong
 - [Sugumar]
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
+- [Yash Pareek](https://github.com/deepAIYash)
+- [Glob_Bruh](https://github.com/glob-bruh)
 <!-- prettier-ignore-end -->
