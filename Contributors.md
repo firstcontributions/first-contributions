@@ -19,6 +19,7 @@
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
+- [Codelikesuraj](https://github.com/codelikesuraj)
 - [JDaddy] (https://github.com/Jason8830)
 - [aditya7196] (https://github.com/aditya7196)
 - [Christian Abrokwa](https://github.com/Daquiver1)
