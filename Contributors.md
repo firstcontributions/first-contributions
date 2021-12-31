@@ -84,6 +84,7 @@ sylucck
 - Varun Agrawal
 - Pratyush Sinha
 - Prabhu
+-Tejender Upadhyay
 - Kshitij Barnwal
 - Brian Xu
 - James Loewen
