@@ -4298,4 +4298,5 @@ Michael Wong
 - [Piposo745](https://github.com/Piposo745)
 - [Yash Pareek](https://github.com/deepAIYash)
 - [Glob_Bruh](https://github.com/glob-bruh)
+- [jcqueiroz](https://github.com/jcqueiroz)
 <!-- prettier-ignore-end -->
