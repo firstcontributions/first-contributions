@@ -32,6 +32,7 @@
 - [Srabon Khan](https://github.com/srabonkhan0461)
 - [Abby Anderson](https://github.com/abby-anderson)
 - [tejaswari7](https://github.com/tejaswari7)
+- [Dharuan Luigi](https://github.com/dharuanluigi)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Zishanwang1992](https://github.com/Zishanwang1992)
