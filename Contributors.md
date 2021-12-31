@@ -4286,4 +4286,5 @@ Michael Wong
 - [Sugumar]
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
+- [Yash Pareek](https://github.com/deepAIYash)
 <!-- prettier-ignore-end -->
