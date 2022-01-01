@@ -14,6 +14,7 @@
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
+- [Guntaas Singh](https://github.com/guntaas-singh)
 - [Benjamin](https://github.com/haik-x)
 - [Albert Fay](https://github.com/AlbertFay)'
 - [The RainMan](https://github.com/TheRainManV2)
