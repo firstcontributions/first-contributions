@@ -92,6 +92,7 @@ sylucck
 - James Loewen
 - Caitlynne Kezys
 - David Zheng
+- Willis K
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
