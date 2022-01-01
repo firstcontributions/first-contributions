@@ -4318,4 +4318,5 @@ Michael Wong
 - [jcqueiroz](https://github.com/jcqueiroz)
 - [AndrewSamoil](https://github.com/AndySamoil)
 - [Lorenzo Vainigli](https://github.com/lorenzovngl)
+- [Tyler Sanders](https://github.com/styler0)
 <!-- prettier-ignore-end -->
