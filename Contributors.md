@@ -4314,4 +4314,5 @@ Michael Wong
 - [Glob_Bruh](https://github.com/glob-bruh)
 - [jcqueiroz](https://github.com/jcqueiroz)
 - [AndrewSamoil](https://github.com/AndySamoil)
+- [Lorenzo Vainigli](https://github.com/lorenzovngl)
 <!-- prettier-ignore-end -->
