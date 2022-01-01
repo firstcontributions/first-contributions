@@ -157,6 +157,7 @@ Jawadur
 - Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
+- Knauxu
 - [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
