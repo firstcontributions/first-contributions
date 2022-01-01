@@ -12,6 +12,7 @@
 =======
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
+- [Kyaw Thu](https://github.com/evanch98)
 - [SeokJoon](https://github.com/eshc123)
 
 - [Emre](https://github.com/eayture)
@@ -27,18 +28,22 @@
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
+- [Codelikesuraj](https://github.com/codelikesuraj)
 - [JDaddy] (https://github.com/Jason8830)
+- [Sudhan Gurav](https://github.com/JSudn)
 - [aditya7196] (https://github.com/aditya7196)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
 - [traderdude123](https://github.com/traderdude123)
 - [Hudlez](https://github.com/hudlez)
+- [EricXie](https://github.com/XieYY-Eric)
 - [wook95](https://github.com/wook95)
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
 - [Srabon Khan](https://github.com/srabonkhan0461)
 - [Abby Anderson](https://github.com/abby-anderson)
 - [tejaswari7](https://github.com/tejaswari7)
+- [Dharuan Luigi](https://github.com/dharuanluigi)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Zishanwang1992](https://github.com/Zishanwang1992)
@@ -83,6 +88,7 @@
 - [Jay EPEP](https://github.com/eppp)
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
+- [Aniruddha Shrikhande](https://github.com/blitzitout)
 - [zredb](https://github.com/zredb)
   sylucck
 - Nikita
@@ -94,11 +100,17 @@
 - Varun Agrawal
 - Pratyush Sinha
 - Prabhu
+-Tejender Upadhyay
 - Kshitij Barnwal
 - Brian Xu
 - James Loewen
 - Caitlynne Kezys
 - David Zheng -[Soumya Podha]https://github.com/soumyapodha
+=======
+- David Zheng
+- Willis K
+-[Soumya Podha]https://github.com/soumyapodha
+
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
   -Kynnedy Esteves (https://github.com/kynnedye)
@@ -157,10 +169,12 @@
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
 - Harsha Vardhan(thunder07)
+- [Adeboye 'Boye' Folaranmi](https://github.com/Boye95)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
+- Knauxu
 - [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
@@ -2466,6 +2480,7 @@ Tristan Bottone
 - [Adithya LK](https://github.com/adilk0728)
 - [Kimbrian Marshall](https://github.com/cimbraien)
 - [Joao Pedro Soares G Santos](https://github.com/JPedro-SG)
+- [Prithvi Kumar] (https://github.com/PrithviK21)
 - [Ramsha Zulfiqar](https://github.com/Ramsha-Zulfiqar)
 - [Elliott Belle](https://github.com/Elliott-Chong)
 - [Shweta Srinivasan](https://github.com/shweta-srinivasan44)
@@ -3531,6 +3546,7 @@ Tristan Bottone
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [jaabberwocky](https://github.com/jaabberwocky)
 - [Amol Kadam](https://github.com/101amolkadam)
+- [Garett Anderson](https://github.com/gjanderso)
 - [victorquanlam](https://github.com/victorquanlam)
 - [Kashif Mushtaq](https://github.com/kashif-mushtaq)
 - [namekosiru](https://github.com/namekosiru)
@@ -4168,6 +4184,7 @@ Tristan Bottone
 - [Gateston Johns] (https://github.com/gatestonjohns)
 - [Eduardo Yoo] (https://github.com/EduardoYoo)
 - [Jiayu Huang] (https://github.com/peter6866)
+- Moses Mwila
 - [Daniel Park] (https://github.com/Dan1004x)
 - [William Gregory] (https://github.com/WEGGregory)
 - Scott Lagler
@@ -4290,8 +4307,11 @@ Tristan Bottone
 - [LiZheGuang](https://github.com/LiZheGuang)
 - [MartinHeywang](https://github.com/MartinHeywang)
 - [Sugumar]
+- [Michelle Lin]
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
 - [Yash Pareek](https://github.com/deepAIYash)
 - [Glob_Bruh](https://github.com/glob-bruh)
+- [jcqueiroz](https://github.com/jcqueiroz)
+- [AndrewSamoil](https://github.com/AndySamoil)
 <!-- prettier-ignore-end -->
