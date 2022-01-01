@@ -1285,6 +1285,7 @@ yejashi
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Abdulhakeem Adefioye](https://github.com/Adefioye)
 - [Ayush Yadav] (https://github.com/yadav-ayush)
+- [Tyler Parris] (https://github.com/tparris4)
 - [Hesbon Mokua] (https://github.com/hezthewolf)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
 - [Łukasz Makowski](https://github.com/lukmak0394)
