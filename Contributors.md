@@ -4300,4 +4300,5 @@ Michael Wong
 - [Glob_Bruh](https://github.com/glob-bruh)
 - [jcqueiroz](https://github.com/jcqueiroz)
 - [AndrewSamoil](https://github.com/AndySamoil)
+- [Alexwilfriedo](https://github.com/Alexwilfriedo)
 <!-- prettier-ignore-end -->
