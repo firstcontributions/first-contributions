@@ -24,6 +24,7 @@
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
+- [Szeles László]
 - [Codelikesuraj](https://github.com/codelikesuraj)
 - [JDaddy] (https://github.com/Jason8830)
 - [Sudhan Gurav](https://github.com/JSudn)
