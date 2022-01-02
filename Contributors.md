@@ -4226,6 +4226,7 @@ Michael Wong
 - Rymii M 
 - Mohammed Hasik
 - Jason Zhong
+- [Kyle Smith] (https://github.com/BrakeZap/)
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
 - [Will McCoy] (https://github.com/willway09)
