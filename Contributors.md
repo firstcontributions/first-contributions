@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[HninYuHlaing](https://github.com/miracleace)
@@ -169,6 +169,7 @@ Jawadur
 - [Zac Driscoll]
 - Reva Vijayn
 - Knauxu
+- Jess Hand
 - [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
