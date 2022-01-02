@@ -382,6 +382,7 @@ Tristan Bottone
 - [Avinash Prasad] (https://github.com/avionmission)
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - [Byoungyoon Park] (https://github.com/rustiebeats)
+- Malik Rossi
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
