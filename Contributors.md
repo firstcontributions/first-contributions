@@ -300,6 +300,7 @@ Justin Villena
 - [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
+- [Patrick Hunter](https://github.com/pehunter)
 - [Darren Peters](https://github.com/daredagger)
 - [uppercase](https://github.com/ekloyatri)
 - [Uttam](https://github.com/helper-uttam)
