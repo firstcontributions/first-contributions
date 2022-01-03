@@ -104,6 +104,7 @@ sylucck
 - Caitlynne Kezys
 - David Zheng
 - Willis K
+- Cade Merritt
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
