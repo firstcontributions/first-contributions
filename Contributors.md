@@ -89,6 +89,7 @@
 - [Jay EPEP](https://github.com/eppp)
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
+- [Ifra Rabbani] (https://github.com/irabba2)
 - [Aniruddha Shrikhande](https://github.com/blitzitout)
 - [zredb](https://github.com/zredb)
 sylucck
