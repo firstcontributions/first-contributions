@@ -1949,6 +1949,7 @@ Himanshu Dedha
 - [Lizmery V.](https://github.com/lizmery)
 - [Jason Zhu](https://github.com/JasonZhu95)
 - [Sidhaant Thakker](https://github.com/SidhaantThakker)
+- [Steve Schmidt](https://github.com/s0nials)
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
 - [Junior Samaroo](https://github.com/jns0987654321)
 - [Matthew Joyce](https://github.com/matthewJ1981)
