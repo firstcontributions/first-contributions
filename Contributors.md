@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[HninYuHlaing](https://github.com/miracleace)
+- [Daniel Carroll](https://github.com/Krydan)
 -[Ravi prakash](https://github.com/321ravi)
 -[Saiwunna21](https://github.com/SaiWunna21)
 - [AndyCam](https://github.com/AndresDavidArcos)
