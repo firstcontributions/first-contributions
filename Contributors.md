@@ -2031,6 +2031,7 @@ Himanshu Dedha
 - [Mohammad Shakib](https://github.com/mo-shakib)
 - [Matthias Ableidinger](https://github.com/kadhonn)
 - [Abhijit Sarode](https://github.com/abhijitsarode)
+- [Efrain Quiñonez](https://github.com/efrain2204)
 - [Peerarust S](https://github.com/gnoyoyo)
 - [Abel Tung](https://github.com/AlexTungsten)
 - [OptimChain](https://github.com/OptimChain)
