@@ -7,6 +7,7 @@
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
 - [Kyaw Thu](https://github.com/evanch98)
+- [Alvin Lee](https://github.com/zephyrdark)
 - [SeokJoon](https://github.com/eshc123)
 - [Emre](https://github.com/eayture)
 - [Robert Greenwood](https://github.com/ImRobG)
