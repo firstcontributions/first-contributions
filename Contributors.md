@@ -4356,4 +4356,6 @@ Michael Wong
 - [Duy Khanh](https://github.com/lordshenk)
 - [Vincent Fantin]
 - [Bryan Kristiono](https://github/Kristinus)
+- [Thisara Wijesundera](https://github/TWijesundera)
+
 <!-- prettier-ignore-end -->
