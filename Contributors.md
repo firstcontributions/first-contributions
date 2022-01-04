@@ -89,7 +89,7 @@
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Vijay] (https://github.com/vijayaraghavanm)
 - [stkolanu] (https://github.com.stkolanu)
-- [stevie-strange] (https://github.com/stevie-strange) 
+- [stevie-strange] (https://github.com/stevie-strange)
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - [Jay EPEP](https://github.com/eppp)
@@ -204,7 +204,7 @@ Jawadur
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
 - [Gabriel Bermudez](https://github.com/skinnii)
-- [Jaydip Pansuriya](https://github.com/jaydipPansuriya21) 
+- [Jaydip Pansuriya](https://github.com/jaydipPansuriya21)
 - [Daniel Weinshtein](https://github.com/Danielv8899)
 - [PixelZee](https://github.com/pixelzee3)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
@@ -247,7 +247,7 @@ Justin Villena
 - Isaiah Hernandez
 - Relly Valentine
 - Odell Blackmon III
-- Phi Doan 
+- Phi Doan
 - kishan Yadav
 - Prashant Bhapkar
 - Ellie Brinkman
@@ -262,7 +262,7 @@ Justin Villena
 - Nooh AlMahfoodhi (https://github.com/Noah-Comma)
 - chetan nada
 - Benjamin Gelok
-- Ben Winans 
+- Ben Winans
 - Yibo Kong
 - Simon Karofillidis
 - Sijia Li
@@ -288,7 +288,7 @@ Justin Villena
 - Courtney Hardy
 - Rachel Peterson
 - Yonas  Bahre
-- Ayush Krishnappa 
+- Ayush Krishnappa
 - Rosario Firmino Palazzolo
 -Arthur Berry
 - Jonathan Joseph
@@ -306,7 +306,7 @@ Justin Villena
 - [Kristoffer Sullivan](https://github.com/ksully1993)
 - [Malv93](https://github.com/Malv93)
 - [Edimara](https://github.com/edimarasantos)
-- [Suraj Subramanian](https://github.com/suraj-subramanian) 
+- [Suraj Subramanian](https://github.com/suraj-subramanian)
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Patrick Hunter](https://github.com/pehunter)
@@ -319,7 +319,7 @@ Justin Villena
 - Lukman Memon
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
-- [Khang Bui] (https://github.com/KhangHB) 
+- [Khang Bui] (https://github.com/KhangHB)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Priyanshu Patwa](https://github.com/Priyanshu2022)
 - [Christopher_Dang](https://github.com/christopherdang)
@@ -600,6 +600,7 @@ yejashi
 - [Melvin Gilis](https://github.com/melvinxeu)
 - [Samuel Missonnier](https://github.com/samuelmissonnier)
 - [Trevor Katemba](https://github.com/tkatemb)
+- [Israel Hazan](https://github.com/Hazannovich)
 - [Bosko](https://github.com/NightShop)
 - [Ihtisham U.](github.com/ihtisham-sudo)
 - [Piyush Sonawane](https://github.com/PiyushSonawane1302)
@@ -666,7 +667,7 @@ yejashi
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
-- [rosa-xo](https://github.com/rosa-xo) 
+- [rosa-xo](https://github.com/rosa-xo)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
 - [Brandon Simon](https://github.com/simonbr2)
@@ -802,7 +803,7 @@ yejashi
 - [chear5967] (http://github.com/chear5967)
 - [Noah317](http://github.com/Noah317)
 - [Gaman Jain] (https://github.com/gamanjain)
-- [Bastien Oeuvrard] (https://github.com/Sairkko)  
+- [Bastien Oeuvrard] (https://github.com/Sairkko)
 - [Mark Jot](https://github.com/markojot)
 - [Saumya](https://github.com/Saumya132)
 - [Guy Kayam] (https://github.com/GuyKayam)
@@ -2861,7 +2862,7 @@ Himanshu Dedha
 - [Jeferson Nolasco](https://github.com/jehnls)
 - [Zekun Wang](https://github.com/fEst1ck)
 - [Frama](https://github.com/FramaTHO)
-- Alan 
+- Alan
 - [Razo](https://github.com/razohayon)
 - [Nikhil Mehta](https://github.com/nsmehta)
 - [Aneena Shinoy](https://github.com/Aneena)
@@ -3567,7 +3568,7 @@ Himanshu Dedha
 - [JammUtkarsh](https://github.com/JammUtkarsh)
 - [João Rosso](https://github.com/joaorosso)
 - [Jinwoo](https://github.com/YangNaang2)
-- 
+-
 -_[Thiago Rider Augusto](https://github.com/thiagorider)
 - [Joseph Chan](https://github.com/jchanke)
 - [kevinvu184](https://github.com/kevinvu184)
@@ -4115,7 +4116,7 @@ Michael Wong
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
 - [Steve Toms](https://github.com/thermalhound)
-- [Satyam Sinha](https://github.com/satsin06) 
+- [Satyam Sinha](https://github.com/satsin06)
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
@@ -4251,7 +4252,7 @@ Michael Wong
 - [Dave D](https://github.com/Dnasty777)
 - [Samuel Roberson](https://github.com/swroberson)
 - Nikos Dupuy
-- Rymii M 
+- Rymii M
 - Mohammed Hasik
 - Jason Zhong
 - [Kyle Smith] (https://github.com/BrakeZap/)
