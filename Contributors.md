@@ -4340,4 +4340,5 @@ Michael Wong
 - [Lorenzo Vainigli](https://github.com/lorenzovngl)
 - [Tyler Sanders](https://github.com/styler0)
 - [Ankur Upadhyay](https://github.com/ankurup3)
+- [Vincent Fantin]
 <!-- prettier-ignore-end -->
