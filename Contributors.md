@@ -1,5 +1,5 @@
-
 # **Contributors**
+
 <!-- prettier-ignore-start -->
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
@@ -699,6 +699,7 @@ yejashi
 - [Gurman Toor](https://github.com/GurmanToor)
 - [Mohsen Rokni](https://github.com/roknimohsen)
 - [Burim Koci](https://github.com/bkocii)
+- [Sneha Gupta](https://github.com/Snehagupta1907)
 - [Nikita Ivannikov](https://github.com/isomiesniksu)
 - [Sanket Jagdale](https://github.com/Sanket00900)
 - [Abhinandan Saha](https://github.com/abhinandan991)
@@ -4346,4 +4347,5 @@ Michael Wong
 - [Tyler Sanders](https://github.com/styler0)
 - [Ankur Upadhyay](https://github.com/ankurup3)
 - [Vincent Fantin]
+
 <!-- prettier-ignore-end -->
