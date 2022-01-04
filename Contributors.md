@@ -4352,4 +4352,5 @@ Michael Wong
 - [Ankur Upadhyay](https://github.com/ankurup3)
 - [Duy Khanh](https://github.com/lordshenk)
 - [Vincent Fantin]
+- [Bryan Kristiono](https://github/Kristinus)
 <!-- prettier-ignore-end -->
