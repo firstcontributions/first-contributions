@@ -98,7 +98,8 @@
 - [Ifra Rabbani] (https://github.com/irabba2)
 - [Aniruddha Shrikhande](https://github.com/blitzitout)
 - [zredb](https://github.com/zredb)
-sylucck
+- [Bilbo Swaggins](https://github.com/bilboswaggins-eng)
+- sylucck
 - Nikita
 - Tito Ruiz
 - Aakansh
@@ -108,7 +109,7 @@ sylucck
 - Varun Agrawal
 - Pratyush Sinha
 - Prabhu
--Tejender Upadhyay
+- Tejender Upadhyay
 - Kshitij Barnwal
 - Brian Xu
 - James Loewen
