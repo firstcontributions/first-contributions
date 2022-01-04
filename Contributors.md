@@ -41,6 +41,7 @@
 - [traderdude123](https://github.com/traderdude123)
 - [Hudlez](https://github.com/hudlez)
 - [EricXie](https://github.com/XieYY-Eric)
+- [Saeid Dogani](https://github.com/SaiedDogani1989)
 - [wook95](https://github.com/wook95)
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
 - [Srabon Khan](https://github.com/srabonkhan0461)
