@@ -4343,6 +4343,7 @@ Michael Wong
 - [Anowar J Radwan](https://github.com/AjRadwan)
 - [Sugumar]
 - [Michelle Lin]
+- [Sanjana Jampana](https://github.com/sanjujampana)
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
 - [Yash Pareek](https://github.com/deepAIYash)
