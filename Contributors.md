@@ -31,6 +31,7 @@
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
 - [Daniel Castro Razo](https://github.com/daniel-cr)
+- [Zendannyy](https://github.com/zendannyy)
 - [Szeles László]
 - [Codelikesuraj](https://github.com/codelikesuraj)
 - [JDaddy] (https://github.com/Jason8830)
