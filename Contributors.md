@@ -197,6 +197,7 @@ Jawadur
 - Reva Vijayn
 - Knauxu
 - Jess Hand
+- [Matthew Hand](https://github.com/HandMatt/)
 - [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
