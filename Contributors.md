@@ -480,6 +480,8 @@ Ajith
 - [Vaibhav] (https://github.com/vaibhavvsharma)
 - [hamseungyeal] (https://github.com/hamseungyeal)
 - [Fliegbert]
+- [Vamshi Krishna](https://github.com/VamshiNetha18)
+- 
 - [Juan Ospina](https://github.com/jeo02)
 - [Advait Deshpande](https://github.com/advait-cs)
 - [sachin] (https://github.com/sachin11226)
