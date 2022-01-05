@@ -36,6 +36,7 @@
 - [Szeles László]
 - [Codelikesuraj](https://github.com/codelikesuraj)
 - [JDaddy] (https://github.com/Jason8830)
+- [Jose Ozuna] (https://github.com/joseozuna48)
 - [Sudhan Gurav](https://github.com/JSudn)
 - [aditya7196] (https://github.com/aditya7196)
 - [Christian Abrokwa](https://github.com/Daquiver1)
