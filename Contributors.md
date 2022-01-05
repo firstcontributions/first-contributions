@@ -159,6 +159,7 @@ sylucck
 - Titamah Simpson
 - [Ahmad Muhaemin](https://github.com/amuhaemin)
 - [Sean Song](https://github.com/SeanSong25)
+- [Sawa](https://github.com/SawaTszm)
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
