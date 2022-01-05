@@ -29,6 +29,7 @@
 - [Benjamin](https://github.com/haik-x)
 - [Albert Fay](https://github.com/AlbertFay)'
 - [The RainMan](https://github.com/TheRainManV2)
+- [Manah Shetty](https://github.com/manahshetty)
 - [The Coding Canal](https://github.com/TheCodingCanal)
 - [Mohammad Aman](https://github.com/AMANmohd1)
 - [Rohan Karan](https://github.com/rohankaran)
