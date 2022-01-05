@@ -4336,6 +4336,7 @@ Michael Wong
 - [Anowar J Radwan](https://github.com/AjRadwan)
 - [Sugumar]
 - [Michelle Lin]
+- [Szymon Szyszkowski](https://github.com/PROJECT-DEFIANT)
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
 - [Yash Pareek](https://github.com/deepAIYash)
