@@ -18,6 +18,7 @@
 - [John babu](https://github.com/johnbabu021)
 - [SeokJoon](https://github.com/eshc123)
 - [Emre](https://github.com/eayture)
+- [James Walshe](https://github.com/jameswalshe)
 - [Robert Greenwood](https://github.com/ImRobG)
 - [Julia Maehler](https://github.com/jmaehler)
 - [Mayank Tyagi](https://github.com/mayanktyagi1709)
