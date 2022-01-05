@@ -4,6 +4,7 @@
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
+-[Rajan Lodhiya]
 -[Anas Muhammed]
 -[Ravi prakash](https://github.com/321ravi)
 -[Saiwunna21](https://github.com/SaiWunna21)
