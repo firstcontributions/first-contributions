@@ -18,6 +18,7 @@
 - [Alvin Lee](https://github.com/zephyrdark)
 - [John babu](https://github.com/johnbabu021)
 - [SeokJoon](https://github.com/eshc123)
+- [FuseIsHere](https://github.com/fuseishere813)
 - [Emre](https://github.com/eayture)
 - [James Walshe](https://github.com/jameswalshe)
 - [Robert Greenwood](https://github.com/ImRobG)
