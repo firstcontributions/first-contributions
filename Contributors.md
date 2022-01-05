@@ -36,6 +36,7 @@
 - [Zendannyy](https://github.com/zendannyy)
 - [Szeles László]
 - [Codelikesuraj](https://github.com/codelikesuraj)
+- [Kalp Shah] (https://github.com/kalpshah485)
 - [JDaddy] (https://github.com/Jason8830)
 - [Jose Ozuna] (https://github.com/joseozuna48)
 - [Sudhan Gurav](https://github.com/JSudn)
@@ -158,6 +159,7 @@
 - Titamah Simpson
 - [Ahmad Muhaemin](https://github.com/amuhaemin)
 - [Sean Song](https://github.com/SeanSong25)
+- [Sawa](https://github.com/SawaTszm)
 -Omar Maslamani
 -Chidiogo Onoh
 Jawadur
@@ -1866,6 +1868,7 @@ Jawadur
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
 - [Walesson Silva](https://github.com/walesl04)
+- [Francesco Santi](https://github.com/FrancescoSanti96)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Rudolf Fonseca](https://github.com/rudolffonseca)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
@@ -4348,4 +4351,5 @@ Jawadur
 - [Neerosh] (https://github.com/Neerosh)
 - [Andrew Johnson](https://github.com/Andrew-R-Johnson)
 - [Hal tunb ay] (https://github.com/haltunbay)
+- [Skandesh] (https://github.com/Randommmmmmmm)
 <!-- prettier-ignore-end -->
