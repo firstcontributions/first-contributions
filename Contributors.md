@@ -4374,5 +4374,5 @@ Michael Wong
 - [Hal tunb ay] (https://github.com/haltunbay)
 - [Skandesh] (https://github.com/Randommmmmmmm)
 - [GuoYongHeng] (https://github.com/GuoYongHeng)
-- [Amit Raj] (https://github.com/amit894)
+- [Amit Raj](https://github.com/amit894)
 <!-- prettier-ignore-end -->
