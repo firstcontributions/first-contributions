@@ -11,6 +11,7 @@
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
 - [Sumon Dey](https://github.com/DeySmn)
 - [Kyaw Thu](https://github.com/evanch98)
+- [Andrio](https://github.com/Andrio-Codes)
 - [Alvin Lee](https://github.com/zephyrdark)
 - [John babu](https://github.com/johnbabu021)
 - [SeokJoon](https://github.com/eshc123)
@@ -122,7 +123,8 @@
 - Cade Merritt -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
-  -Kynnedy Esteves (https://github.com/kynnedye)
+-Kynnedy Esteves (https://github.com/kynnedye)
+- [Guru Prasad](https://github.com/guruprasad-afk)
 - [Bueze Nwokolo](https://github.com/nwokolo24)
 - [Buse Koseoglu] (https://github.com/busekoseoglu)
 - TayCel (https://github.com/TayCel)
@@ -4349,4 +4351,5 @@ Jawadur
 - [Bryan Kristiono](https://github/Kristinus)
 - [Neerosh] (https://github.com/Neerosh)
 - [Andrew Johnson](https://github.com/Andrew-R-Johnson)
+- [Hal tunb ay] (https://github.com/haltunbay)
 <!-- prettier-ignore-end -->
