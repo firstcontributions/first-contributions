@@ -1878,6 +1878,7 @@ Himanshu Dedha
 - [Mohammed Muzammil Ahmed](https://github.com/YaseenYo)
 - [Nada Hussein](https://github.com/nadah09)
 - [Walesson Silva](https://github.com/walesl04)
+- [Francesco Santi](https://github.com/FrancescoSanti96)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Rudolf Fonseca](https://github.com/rudolffonseca)
 - [Stephen Chiang](https://github.com/stephenchonkyboi)
