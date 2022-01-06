@@ -1,4 +1,3 @@
-# smart-edu
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Phan Nhật Chánh](https://github.com/phannhatchanh)
