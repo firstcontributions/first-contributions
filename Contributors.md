@@ -37,6 +37,7 @@
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
 - Tanvi Rupareliya
+- Tanvi patel
 - [Daniel Castro Razo](https://github.com/daniel-cr)
 - [Zendannyy](https://github.com/zendannyy)
 - [Szeles László]
