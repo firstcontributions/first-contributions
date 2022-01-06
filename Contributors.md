@@ -4394,4 +4394,5 @@ Michael Wong
 - [GuoYongHeng] (https://github.com/GuoYongHeng)
 - [Amit Raj](https://github.com/amit894)
 - [Frany](https://github.com/franchev)
+- [Tào Nhật Minh](https://github.com/Minh-tao)
 <!-- prettier-ignore-end -->
