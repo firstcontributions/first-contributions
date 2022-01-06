@@ -2044,6 +2044,7 @@ Himanshu Dedha
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
 - [(Gauransh Juneja)](https://github.com/GaushJ)
 - [John Gilpin](https://github.com/jgilpn)
+- [Markus Braunwarth](https://github.com/mbraunwarth)
 - [Ankan Bhaumik](https://github.com/bhaumikankan)
 - [Yoko Saka](https://github.com/yocosaka)
 - [Joyesh Meshram](https://github.com/polixonrio)
