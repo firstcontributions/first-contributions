@@ -188,6 +188,7 @@ Jawadur
 - [Patralekha Bhattacharjee](https://github.com/Patralekha/)
 - [Muneeb](https://github.com/Vaiyani)
 - [Heinrich Perez](https://github.com/h-perez)
+- [Achal Varma](https://github.com/AchalVarma/)
 - [Aayush Jha](https://github.com/JhaAayush)
 - [Colin Rocks](https://github.com/colinrocksuf)
 - [Gabriela Galindo] (https://github.com/gabgg71)
