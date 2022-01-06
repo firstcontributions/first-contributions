@@ -4387,4 +4387,5 @@ Michael Wong
 - [Skandesh] (https://github.com/Randommmmmmmm)
 - [GuoYongHeng] (https://github.com/GuoYongHeng)
 - [Amit Raj](https://github.com/amit894)
+- [Frany](https://github.com/franchev)
 <!-- prettier-ignore-end -->
