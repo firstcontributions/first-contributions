@@ -67,6 +67,7 @@
 - [Abby Anderson](https://github.com/abby-anderson)
 - [tejaswari7](https://github.com/tejaswari7)
 - [Dharuan Luigi](https://github.com/dharuanluigi)
+- [yash](https://github.com/Yashg100)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Ilias000]
