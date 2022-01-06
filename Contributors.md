@@ -61,6 +61,7 @@
 - [Saeid Dogani](https://github.com/SaiedDogani1989)
 - [wook95](https://github.com/wook95)
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
+- [Jonathan Bresolin](https://github.com/jonbres2/)
 - [Srabon Khan](https://github.com/srabonkhan0461)
 - [Abby Anderson](https://github.com/abby-anderson)
 - [tejaswari7](https://github.com/tejaswari7)
