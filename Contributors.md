@@ -4784,6 +4784,7 @@
 - Winston6079
 - [Pallav Jain](https://github.com/pallavjain)
 - [Tom Rutkow](https://github.com/tomarara)
+- [Jesus Hector Zamora] (https://github.com/jesushzv)
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Chris Bell](https://github.com/chrisbellcodes)
 - [BedrockCoder](https://github.com/BedrockCoder)
