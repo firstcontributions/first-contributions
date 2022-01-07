@@ -6,6 +6,7 @@
 - [Arson James] (https://github.com/ArsonJames)
 - [21yuyu99](https://github.com/21yuyu99)
 - [Park Seongbin](https://github.com/SeongbinPark82)
+- [Adithya65](https://github.com/Adithya65)
 - [kkatottn](https://github.com/kkatottn)
 - [hpekkan](https://github.com/hpekkan)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
