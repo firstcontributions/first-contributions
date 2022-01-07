@@ -718,6 +718,7 @@ yejashi
 - [Solevni]
 - [Joseph Hardin] https://github.com/josephphardin
 - [dewhallez] https://github.com/dewhallez
+- [dpmoody] https://github.com/Dan-Moody
 - [Willen Yang] (https://github.com/yangxile4)
 - [Keen1] (https://github.com/Keen1)
 - [Deepmala Mittal] (https://github.com/deepmalamittal)
