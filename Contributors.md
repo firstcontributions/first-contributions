@@ -44,6 +44,7 @@
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
+- [Amit Talawar](https://github.com/AmitTalawar)
 - [Daniel Castro Razo](https://github.com/daniel-cr)
 - [Zendannyy](https://github.com/zendannyy)
 - [Szeles László]
