@@ -4294,12 +4294,12 @@ Michael Wong
 - Rymii M 
 - Mohammed Hasik
 - Jason Zhong
-- [Kyle Smith] (https://github.com/BrakeZap/)
-- [Monique Huang] (https://github.com/moniquehuang)
+- [Kyle Smith](https://github.com/BrakeZap/)
+- [Monique Huang](https://github.com/moniquehuang)
 - Justin Rossiter
-- [Will McCoy] (https://github.com/willway09)
-- [Natalie Nguyen] (https://github.com/natnguyen003)
-- [Raiee Gulhane] (https://github.com/raieegulhane)
+- [Will McCoy](https://github.com/willway09)
+- [Natalie Nguyen](https://github.com/natnguyen003)
+- [Raiee Gulhane](https://github.com/raieegulhane)
 - [mahiro72](https://github.com/mahiro72)
 - [Axel Oliver](https://github.com/AxelOliver)
 - [Nikhil Kumar Tyagi](https://github.com/nkroker)
@@ -4310,13 +4310,13 @@ Michael Wong
 - [Alexis Todd]
 - [Hanissa Shamsuddin](https://github.com/hanssdd)
 - [mcurtaz](https://github.com/mcurtaz)
-- [Dinesh Lamichhane] (https://github.com/Dynelc)
+- [Dinesh Lamichhane](https://github.com/Dynelc)
 - [Angela Stoddard](https://github.com/astoddard514)
 - rachel orr
 - [David Rogers](https://github.com/Davidr2134)
 - [Lakshmi Prasanna M S](https://github.com/lp060)
-- [Hollie Krauser] (https://github.com/Holliejk)
-- [Isaac Hughes] (https://github.com/IsaacHughes74)
+- [Hollie Krauser](https://github.com/Holliejk)
+- [Isaac Hughes](https://github.com/IsaacHughes74)
 - [Red Tomato](https://github.com/sudo-tomato)
 - [Sylvain lepe](https://github.com/sylvainlepe)
 - [Omar Rashed](https://github.com/Omar-F-Rashed)
@@ -4335,11 +4335,11 @@ Michael Wong
 - [Darshan Yadav](https://github.com/darshan-yadav)
 - [chakotha](https://github.com/chakotha)
 - [Ione03](https://github.com/Ione03)
-- [Sullivan Jahnke] (https://github.com/sjahnke15)
-- [Nicolas Mora] (https://github.com/NikelausM)
+- [Sullivan Jahnke](https://github.com/sjahnke15)
+- [Nicolas Mora](https://github.com/NikelausM)
 - Robert
-- [Abhishek] (https://github.com/hvn2k)
-- [Martin Fogl] (https://github.com/MToerpe)
+- [Abhishek](https://github.com/hvn2k)
+- [Martin Fogl](https://github.com/MToerpe)
 - [Mingting Ouyang](https://github.com/mingtingouyang)
 - Wei
 - Chang
@@ -4367,14 +4367,14 @@ Michael Wong
 - [kadja099](https://github.com/kadja099)
 - [kiddos19882]()
 - [Nidhi Verma](https://github.com/nidhi99verma)
-- [Lion] (https://github.com/TheLionDev)
+- [Lion](https://github.com/TheLionDev)
 - [zztaki](https://github.com/ZzTaki)
 - [kum9748ar](https://github.com/kum9748ar)
 - [adimatiwala](https://github.com/adimatiwala)
 - [nawazshanu](https://github.com/nawazshanu)
 - [tcf2272](https://github.com/toddcford)
 - [Dhruv Patil](https://github.com/larsonjack05)
-- [Mehran Rasa] (https://github.com/mehranrasa)
+- [Mehran Rasa](https://github.com/mehranrasa)
 - [Nikita Lejnev](https://github.com/NikitaLejnev)
 - [Kamil Brzezinski](https://github.com/kamilbrzezinski)
 - [sunshuqing19990203](https://github.com/sunshuqing19990203)
