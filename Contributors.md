@@ -111,6 +111,7 @@
 - [Sumukh Mg] (https://github.com/sumukhmg)
 - [Ilija Kovacevic] (https://github.com/ili16)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
+- [Jenny Klein] 
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
