@@ -8,6 +8,7 @@
 - [Daniel Carroll](https://github.com/Krydan)
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
 -[Ravi prakash](https://github.com/321ravi)
 [Gbegudu Joshua](https://github.com/jaykay04)
