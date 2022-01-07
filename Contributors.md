@@ -62,6 +62,7 @@
 - [EricXie](https://github.com/XieYY-Eric)
 - [Saeid Dogani](https://github.com/SaiedDogani1989)
 - [wook95](https://github.com/wook95)
+- [Davi do Nascimento Santos] (https://github.com/Davi-do-Nascimento-Santos)
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
 - [Jonathan Bresolin](https://github.com/jonbres2/)
 - [Srabon Khan](https://github.com/srabonkhan0461)
