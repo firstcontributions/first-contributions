@@ -4409,4 +4409,5 @@ Michael Wong
 - [Frany](https://github.com/franchev)
 - [Tào Nhật Minh](https://github.com/Minh-tao)
 - [ExoticRoots](https://github.com/fredericbruening)
+- [Thang Bui](https://github.com/bnnthang)
 <!-- prettier-ignore-end -->
