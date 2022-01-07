@@ -4406,5 +4406,6 @@ Michael Wong
 - [Amit Raj](https://github.com/amit894)
 - [Frany](https://github.com/franchev)
 - [Tào Nhật Minh](https://github.com/Minh-tao)
+- [Daniel Alvarez](https://github.com/dannymalvarez)
 - [ExoticRoots](https://github.com/fredericbruening)
 <!-- prettier-ignore-end -->
