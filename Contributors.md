@@ -4179,6 +4179,7 @@ Michael Wong
 - [Afe] (https://github.com/afeexclusive)
 - [Sudhir Pullannagari](https://github.com/pullannagari)
 - [R Haffer](https://github.com/rhaffer)
+- [Hunter G](https://github.com/Moose-Tracks)
 - [Raine Legary](https://github.com/Rainethhh)
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
