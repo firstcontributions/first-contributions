@@ -2531,6 +2531,7 @@ Himanshu Dedha
 - [Babu Mohammed Izhan](https://github.com/Babu-Mohammed-Izhan)
 - [Abhishek More](https://github.com/Thokya)
 - [Travis Zheng](https://github.com/Travis544)
+- [Richard Rowley](https://github.com/fearless359)
 - [Allen Nguyen](https://github.com/Mernex1)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
 - [Prabir Tarafdar](https://github.com/ptarafdar001)
