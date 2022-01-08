@@ -2055,6 +2055,7 @@ Himanshu Dedha
 - [Aditya Singh](https://github.com/YusiferZendric)
 - [Florian Edemessi](https://github.com/nair0lf32)
 - [ADAMU M. M.](https://github.com/AdamsGeeky)
+- [Simon Pohl](https://github.com/Simon-Po)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Juan Daniel](https://github.com/JuanD-lab)
