@@ -2185,6 +2185,7 @@ Himanshu Dedha
 - [priyanshu](https://github.com/001priyanshu)
 - [Michael Swann](https://github.com/Ms1Dev)
 - [John Wanjema](https://github.com/johnwanjema)
+- [Georgica Bors](https://github.com/borsgeorgica)
 - [MNaiwrit](https://github.com/mnaiwrit52)
 - [Temitope Feyisitan](https://github.com/epotimeT)
 - [Olaleye Blessing](https://github.com/Olaleye-Blessing)
