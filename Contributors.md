@@ -4422,5 +4422,6 @@
 - [ExoticRoots](https://github.com/fredericbruening)
 - [Thang Bui](https://github.com/bnnthang)
 - [Danilo Herrera](https://github.com/iDanilohs)
-
+- [Mandar Naik](https://github.com/mandarnaik016)
+- [Hussain Petladwala] (https://github.com/Hussain-P99)
 <!-- prettier-ignore-end -->
