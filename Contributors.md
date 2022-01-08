@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+-Talib Hussain
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
