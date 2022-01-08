@@ -27,6 +27,7 @@
 - [Jaikishan Brijwani](https://github.com/ricknjacky)
 - [YaBoiMikeyP BOIIIIIIIIIIIIIIIIIIIIIIIIII]
 - [Yehoshua Kahan](https://github.com/ykahan)
+- [Jason Evans](https://github.com/GrumpyMonk26)
 - [Paimo Emmanuel](https://github.com/paimoemmanuel)
 - [Yuktha Sri Vennela](https://github.com/yuktha-0044)
 - [Imran Ahmad](https://github.com/meetimran)
