@@ -10,6 +10,7 @@
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Nandan Kakadiya](https://github.com/Nandan26)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
 -[Ravi prakash](https://github.com/321ravi)
