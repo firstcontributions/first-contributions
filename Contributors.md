@@ -118,6 +118,7 @@
 - [Sumukh Mg] (https://github.com/sumukhmg)
 - [Ilija Kovacevic] (https://github.com/ili16)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
+- [srishti mittal] (https://github.com/mittal-srishti4)
 - [Jenny Klein]
 - [Sillix] 
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
