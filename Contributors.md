@@ -4413,4 +4413,5 @@ Michael Wong
 - [Tào Nhật Minh](https://github.com/Minh-tao)
 - [ExoticRoots](https://github.com/fredericbruening)
 - [Thang Bui](https://github.com/bnnthang)
+- [Jinho Kim](https://github.com/cocoball28)
 <!-- prettier-ignore-end -->
