@@ -4414,5 +4414,4 @@ Michael Wong
 - [ExoticRoots](https://github.com/fredericbruening)
 - [Thang Bui](https://github.com/bnnthang)
 - [Jinho Kim](https://github.com/cocoball28)
-- [Jinho Kim](https://github.com/cocoball28)
 <!-- prettier-ignore-end -->
