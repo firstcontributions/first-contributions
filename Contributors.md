@@ -16,6 +16,14 @@
   -[Ravi prakash](https://github.com/321ravi)
   [Gbegudu Joshua](https://github.com/jaykay04)
   -[Arin Santry](https://github.com/arin-santry)
+-[Yonkwang Kim]
+-[Rajan Lodhiya]
+-[Anas Muhammed]
+-[Alekhya Gandu](https://github.com/dsLeks)
+-[Ranjeet Mishra](https://github.com/ranjmishra)
+-[Ravi prakash](https://github.com/321ravi)
+[Gbegudu Joshua](https://github.com/jaykay04)
+-[Arin Santry](https://github.com/arin-santry)
 - [Dein Dehouwer](https://github.com/redcodefox)
   -[Saiwunna21](https://github.com/SaiWunna21)
   -[Deep-Ramani](https://github.com/Deep-Ramani)
@@ -43,6 +51,7 @@
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
+- [MuhammadSameh] (https://github.com/MuhammadSameh)
 - [Guntaas Singh](https://github.com/guntaas-singh)
 - [Benjamin](https://github.com/haik-x)
 - [Albert Fay](https://github.com/AlbertFay)'
@@ -82,6 +91,7 @@
 - [yash](https://github.com/Yashg100)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
+- [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
 - [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Boby](https://github.com/bobychaudhary)
@@ -2060,6 +2070,7 @@
 - [Aditya Singh](https://github.com/YusiferZendric)
 - [Florian Edemessi](https://github.com/nair0lf32)
 - [ADAMU M. M.](https://github.com/AdamsGeeky)
+- [Simon Pohl](https://github.com/Simon-Po)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Juan Daniel](https://github.com/JuanD-lab)
@@ -2187,6 +2198,7 @@
 - [priyanshu](https://github.com/001priyanshu)
 - [Michael Swann](https://github.com/Ms1Dev)
 - [John Wanjema](https://github.com/johnwanjema)
+- [Georgica Bors](https://github.com/borsgeorgica)
 - [MNaiwrit](https://github.com/mnaiwrit52)
 - [Temitope Feyisitan](https://github.com/epotimeT)
 - [Olaleye Blessing](https://github.com/Olaleye-Blessing)
@@ -4424,4 +4436,5 @@
 - [Danilo Herrera](https://github.com/iDanilohs)
 - [Mandar Naik](https://github.com/mandarnaik016)
 - [Hussain Petladwala] (https://github.com/Hussain-P99)
+- [Diarit Salihaj] (https://github.com/Diarit-S)
 <!-- prettier-ignore-end -->
