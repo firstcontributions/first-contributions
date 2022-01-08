@@ -102,6 +102,7 @@
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
+  [Rehan Ali](https://github.com/rali7196)
 - [Emely]
 - [Vox]
 - [Nijil Chandran]
