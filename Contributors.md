@@ -81,6 +81,7 @@
 - [yash](https://github.com/Yashg100)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
+- [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
 - [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Boby](https://github.com/bobychaudhary)
