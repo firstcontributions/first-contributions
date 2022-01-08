@@ -7,6 +7,7 @@
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
+-[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
