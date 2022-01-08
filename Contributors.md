@@ -19,6 +19,7 @@
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Nandan Kakadiya](https://github.com/Nandan26)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
 -[Ravi prakash](https://github.com/321ravi)
@@ -128,6 +129,7 @@
 - [Ilija Kovacevic] (https://github.com/ili16)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [Jenny Klein]
+- [Sillix] 
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
@@ -4437,4 +4439,5 @@
 - [Mandar Naik](https://github.com/mandarnaik016)
 - [Hussain Petladwala] (https://github.com/Hussain-P99)
 - [Diarit Salihaj] (https://github.com/Diarit-S)
+- [Ramya A](https://github.com/regulusarcturusblack)
 <!-- prettier-ignore-end -->
