@@ -4,6 +4,7 @@
 -[Jorge_Ar] (https://github.com/jamp-scp28)
 -[Sarah](https://github.com/sarah157)
 -Talib Hussain
+-[Joshua McElroy](https://github.com/tkdevil)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
