@@ -271,6 +271,7 @@ Jawadur
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
 - [Ethan Coward](https://github.com/CDE90)
+-[Aditya Thakur](https://github.com/Aditya696/first-contributions.git)
 - [moo-yeol-lee](https://github.com/Lee-moo)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
