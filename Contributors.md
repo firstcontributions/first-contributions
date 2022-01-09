@@ -285,6 +285,7 @@ Jawadur
 Justin Villena
 - Charles Ulrich
 - Alpha Bah
+- Navneet Thakur
 - [Raymond Broome](https://github.com/m0nd)
 - Alon Oziel
 - [Benny Christian Henning](https://github.com/bchenning)
