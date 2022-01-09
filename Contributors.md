@@ -4452,4 +4452,5 @@ Michael Wong
 - [Dan Marius Dumitrescu](https://github.com/dan-dm)
 - [Pramod Lumb](https://github.com/pramod74)
 - [Yosi Kimhi](https://github.com/YosiKimhi)
+- [Joaocaf](https://github.com/Joaocaf)
 <!-- prettier-ignore-end -->
