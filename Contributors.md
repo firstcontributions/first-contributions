@@ -4437,6 +4437,7 @@ Michael Wong
 - [Hussain Petladwala] (https://github.com/Hussain-P99)
 - [Diarit Salihaj] (https://github.com/Diarit-S)
 - [Ramya A](https://github.com/regulusarcturusblack)
+- [Robert D] (https://github.com/ro-mo-do)
 - [Oleksandr V](https://github.com/olevol)
 - [Dan Marius Dumitrescu](https://github.com/dan-dm)
 <!-- prettier-ignore-end -->
