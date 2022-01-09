@@ -4,6 +4,7 @@
 -[Jorge_Ar] (https://github.com/jamp-scp28)
 -[Sarah](https://github.com/sarah157)
 -Talib Hussain
+-[Joshua McElroy](https://github.com/tkdevil)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
@@ -23,6 +24,7 @@
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
 -[Nandan Kakadiya](https://github.com/Nandan26)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
@@ -95,6 +97,7 @@
 - [tejaswari7](https://github.com/tejaswari7)
 - [Dharuan Luigi](https://github.com/dharuanluigi)
 - [yash](https://github.com/Yashg100)
+- [Lakshay Tyagi](https://github.com/imlakshay08)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
@@ -123,6 +126,7 @@
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
 - [Govind Kumar](https://github.com/govind527)
+- [Dev-Liro](https://github.com/dev-liro)
 - [hussein saad] (https://github.com/hussein-saad)
 - [Pranav Arora](https://github.com/pranavarora1895)
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
@@ -278,6 +282,7 @@
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
 - [Ethan Coward](https://github.com/CDE90)
+-[Aditya Thakur](https://github.com/Aditya696/first-contributions.git)
 - [moo-yeol-lee](https://github.com/Lee-moo)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
 - [Sobhi Hosni](https://github.com/SobhiHosni))
@@ -292,6 +297,7 @@
   Justin Villena
 - Charles Ulrich
 - Alpha Bah
+- Navneet Thakur
 - [Raymond Broome](https://github.com/m0nd)
 - Alon Oziel
 - [Benny Christian Henning](https://github.com/bchenning)
@@ -310,6 +316,8 @@
 - Relly Valentine
 - Odell Blackmon III
 - Phi Doan
+- Karttekay Grover
+- Phi Doan 
 - kishan Yadav
 - Prashant Bhapkar
 - Ellie Brinkman
@@ -427,6 +435,7 @@
 - [Jonathan Conde](https://github.com/JC0nde)
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
+- [TecToast](https://github.com/TecToast)
 - [DJ Taylor](https://github.com/djtaylor8)
 - [Jafar Jalilov](https://github.com/jafarjalilov)
 - [Conner Gallimore]
@@ -3029,6 +3038,7 @@
 - [Tommy Pang](https://github.com/tommycp96)
 - [Will Emond](https://github.com/TB9652)
 - [Thalles Augusto 👋🏾👦🏾:octocat: 💻🚀](https://github.com/ThesllaDev)
+- [:octocat: Thomas Erhel](https://github.com/ThomasErhel)
 - [Gokul Karki](https://github.com/gokulkar879)
 - [Amber Suratte](https://github.com/asuratte)
 - [MZdravko](https://github.com/MZdravko)
@@ -4451,6 +4461,8 @@
 - [Hussain Petladwala] (https://github.com/Hussain-P99)
 - [Diarit Salihaj] (https://github.com/Diarit-S)
 - [Ramya A](https://github.com/regulusarcturusblack)
+- [Robert D] (https://github.com/ro-mo-do)
 - [Oleksandr V](https://github.com/olevol)
 - [Dan Marius Dumitrescu](https://github.com/dan-dm)
+- [Pramod Lumb](https://github.com/pramod74)
 <!-- prettier-ignore-end -->
