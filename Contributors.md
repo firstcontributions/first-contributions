@@ -3021,6 +3021,7 @@ Himanshu Dedha
 - [Tommy Pang](https://github.com/tommycp96)
 - [Will Emond](https://github.com/TB9652)
 - [Thalles Augusto 👋🏾👦🏾:octocat: 💻🚀](https://github.com/ThesllaDev)
+- [:octocat: Thomas Erhel](https://github.com/ThomasErhel)
 - [Gokul Karki](https://github.com/gokulkar879)
 - [Amber Suratte](https://github.com/asuratte)
 - [MZdravko](https://github.com/MZdravko)
