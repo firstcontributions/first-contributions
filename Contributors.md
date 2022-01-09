@@ -1,7 +1,9 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+-[Jorge_Ar] (https://github.com/jamp-scp28)
+-[Sarah](https://github.com/sarah157)
+-Talib Hussain
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
@@ -16,6 +18,8 @@
   -[Ravi prakash](https://github.com/321ravi)
   [Gbegudu Joshua](https://github.com/jaykay04)
   -[Arin Santry](https://github.com/arin-santry)
+-[Neeraj Sehgal](https://github.com/SehgalNeeraj)
+
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
@@ -42,6 +46,7 @@
 - [SeokJoon](https://github.com/eshc123)
 - [FuseIsHere](https://github.com/fuseishere813)
 - [Emre](https://github.com/eayture)
+- [Valan Baptist Mathuranayagam](https://github.com/valanm22)
 - [Bazgha Razi](https://github.com/Bazgha19)
 - [James Walshe](https://github.com/jameswalshe)
 - [Robert Greenwood](https://github.com/ImRobG)
@@ -109,7 +114,9 @@
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
+  [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
+- [Vox]
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
 - [Riley Huff](https://github.com/RileyMH231)
@@ -128,6 +135,7 @@
 - [Sumukh Mg] (https://github.com/sumukhmg)
 - [Ilija Kovacevic] (https://github.com/ili16)
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
+- [srishti mittal] (https://github.com/mittal-srishti4)
 - [Jenny Klein]
 - [Sillix] 
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
@@ -1819,6 +1827,7 @@
 - [Soufiane Elharem](https://github.com/Selharem)
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Daniel Punter](https://github.com/danp2392)
+- [GVZ42](https://github.com/gvz42-web)
 - [Saptarshi Bhattacharya](https://github.com/sbk2k1)
 - [Utkarsh Dayal](https://github.com/uxd2486)
 - [Om Prashant Dharme]
@@ -2301,6 +2310,7 @@
 - [Radosvet Petrov](https://github.com/radosvet93)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
 - [Hypnogod](https://github.com/hypnogod)
+- [Jed-Marc Nocum](https://github.com/jedmarcnocum)
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
@@ -2556,6 +2566,7 @@
 - [Babu Mohammed Izhan](https://github.com/Babu-Mohammed-Izhan)
 - [Abhishek More](https://github.com/Thokya)
 - [Travis Zheng](https://github.com/Travis544)
+- [Richard Rowley](https://github.com/fearless359)
 - [Allen Nguyen](https://github.com/Mernex1)
 - [Fahrizal Indi Dirgantara](https://github.com/Vouyeuz)
 - [Prabir Tarafdar](https://github.com/ptarafdar001)
@@ -4440,4 +4451,6 @@
 - [Hussain Petladwala] (https://github.com/Hussain-P99)
 - [Diarit Salihaj] (https://github.com/Diarit-S)
 - [Ramya A](https://github.com/regulusarcturusblack)
+- [Oleksandr V](https://github.com/olevol)
+- [Dan Marius Dumitrescu](https://github.com/dan-dm)
 <!-- prettier-ignore-end -->
