@@ -1,15 +1,21 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+-[Jorge_Ar] (https://github.com/jamp-scp28)
+-[Sarah](https://github.com/sarah157)
+-Talib Hussain
+-[Joshua McElroy](https://github.com/tkdevil)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
+-[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
 -[Nandan Kakadiya](https://github.com/Nandan26)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
@@ -32,6 +38,7 @@
 - [SeokJoon](https://github.com/eshc123)
 - [FuseIsHere](https://github.com/fuseishere813)
 - [Emre](https://github.com/eayture)
+- [Valan Baptist Mathuranayagam](https://github.com/valanm22)
 - [Bazgha Razi](https://github.com/Bazgha19)
 - [James Walshe](https://github.com/jameswalshe)
 - [Robert Greenwood](https://github.com/ImRobG)
@@ -80,6 +87,7 @@
 - [tejaswari7](https://github.com/tejaswari7)
 - [Dharuan Luigi](https://github.com/dharuanluigi)
 - [yash](https://github.com/Yashg100)
+- [Lakshay Tyagi](https://github.com/imlakshay08)
 - [harry](https://github.com/harrylog)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
@@ -99,6 +107,7 @@
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
+  [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
 - [Saraswathi Chandrasekaran]
 - [Nijil Chandran]
@@ -411,6 +420,7 @@ Tristan Bottone
 - [Jonathan Conde](https://github.com/JC0nde)
 - [Soubhagya Nayak](https://github.com/Soubhagya264)
 - [Iamsej](https://github.com/Iamsej)
+- [TecToast](https://github.com/TecToast)
 - [DJ Taylor](https://github.com/djtaylor8)
 - [Jafar Jalilov](https://github.com/jafarjalilov)
 - [Conner Gallimore]
@@ -4431,4 +4441,7 @@ Michael Wong
 - [Hussain Petladwala] (https://github.com/Hussain-P99)
 - [Diarit Salihaj] (https://github.com/Diarit-S)
 - [Ramya A](https://github.com/regulusarcturusblack)
+- [Robert D] (https://github.com/ro-mo-do)
+- [Oleksandr V](https://github.com/olevol)
+- [Dan Marius Dumitrescu](https://github.com/dan-dm)
 <!-- prettier-ignore-end -->
