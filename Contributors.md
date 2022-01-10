@@ -26,6 +26,7 @@
 -[Anas Muhammed]
 -[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
 -[Nandan Kakadiya](https://github.com/Nandan26)
+- [Aboubacar Diawara](https://github.com/waradia09)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
 -[Ravi prakash](https://github.com/321ravi)
@@ -279,6 +280,9 @@
 - [Nick Strawser] (https://github.com/nickstrawser)
 - [Arpit Babbar] (https://github.com/arpitbabbar)
   -[Kunal Gaur] (https://github.com/kunalgaur7983)
+- [Anoop S] (https://github.com/anoopanni)
+-[Kunal Gaur] (https://github.com/kunalgaur7983)
+
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
 - [Ethan Coward](https://github.com/CDE90)
@@ -4465,4 +4469,6 @@
 - [Oleksandr V](https://github.com/olevol)
 - [Dan Marius Dumitrescu](https://github.com/dan-dm)
 - [Pramod Lumb](https://github.com/pramod74)
+- [Yosi Kimhi](https://github.com/YosiKimhi)
+- [Joaocaf](https://github.com/Joaocaf)
 <!-- prettier-ignore-end -->
