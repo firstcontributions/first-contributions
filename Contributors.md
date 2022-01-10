@@ -7,6 +7,7 @@
 - [Priyanshu Jain](https://github.com/priyanshuwustl)
 - [Ipshita Diwan](https://github.com/thecatthatmeowed)
 - Bernard Lucas https://github.com/balucas
+- [Susan Wangari](https://github.com/Susan-Wangari)
 - [Biswas Nandamuri] (https://github.com/Biswas-N)
 - Jape Seifu https://github.com/jseifu
 - [Nathaniel Chan](https://github.com/SevenNateNine)
