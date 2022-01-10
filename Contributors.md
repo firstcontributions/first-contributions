@@ -4463,4 +4463,5 @@ Michael Wong
 - [Yosi Kimhi](https://github.com/YosiKimhi)
 - [Joaocaf](https://github.com/Joaocaf)
 - [Sean Do] (https://github.com/sean-do)
+- [Bohruz](https://github.com/bohruz)
 <!-- prettier-ignore-end -->
