@@ -30,7 +30,6 @@
 - [Daniel Castro Razo](https://github.com/daniel-cr)
 - [Szeles László]
 - [Codelikesuraj](https://github.com/codelikesuraj)
-- [Ming Wen](https://github.com/mingwencode)
 - [JDaddy] (https://github.com/Jason8830)
 - [Sudhan Gurav](https://github.com/JSudn)
 - [aditya7196] (https://github.com/aditya7196)
@@ -64,6 +63,7 @@
 - [Emely]
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
+- [Ming Wen](https://github.com/mingwencode)
 - [Riley Huff](https://github.com/RileyMH231)
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
