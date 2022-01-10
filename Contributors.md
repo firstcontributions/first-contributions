@@ -4454,4 +4454,5 @@ Michael Wong
 - [Pramod Lumb](https://github.com/pramod74)
 - [Yosi Kimhi](https://github.com/YosiKimhi)
 - [Joaocaf](https://github.com/Joaocaf)
+- [Alex Vasilev](https://github.com/shushu15)
 <!-- prettier-ignore-end -->
