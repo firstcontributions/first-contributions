@@ -7,6 +7,7 @@
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Talib Hussain
 -[Joshua McElroy](https://github.com/tkdevil)
+-[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
