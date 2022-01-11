@@ -94,6 +94,7 @@
 - [wook95](https://github.com/wook95)
 - [Davi do Nascimento Santos] (https://github.com/Davi-do-Nascimento-Santos)
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
+- [Yash Tibra](https://github.com/yash249-techy)
 - [Jonathan Bresolin](https://github.com/jonbres2/)
 - [Srabon Khan](https://github.com/srabonkhan0461)
 - [Abby Anderson](https://github.com/abby-anderson)
