@@ -4472,4 +4472,5 @@ Michael Wong
 - [Bohruz](https://github.com/bohruz)
 - [Prajwal S M](https://github.com/prajwalsm522)
 - [Rajendra](https://github.com/rajendra-tamboli)
+- [Harshil Bhatia](https://github.com/harshilbhatia7)
 <!-- prettier-ignore-end -->
