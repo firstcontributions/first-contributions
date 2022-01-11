@@ -123,6 +123,7 @@
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
 - [Vox]
+- [yewinag](https://github.com/yewinag)
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
 - [Riley Huff](https://github.com/RileyMH231)
