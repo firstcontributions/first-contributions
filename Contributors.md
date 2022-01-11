@@ -154,6 +154,7 @@
 - [Dylan VanStaden] (https://github.com/kernenovae)
 - [Vijay] (https://github.com/vijayaraghavanm)
 - [stkolanu] (https://github.com.stkolanu)
+- [Brandon Peeler] (https://github.com/disastrousspecialist)
 - [stevie-strange] (https://github.com/stevie-strange) 
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
