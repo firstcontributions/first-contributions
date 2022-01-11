@@ -9,6 +9,7 @@
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[Genominus](https://github.com/Genominus)
+-[HAK](https://github.com/Genominus)
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
