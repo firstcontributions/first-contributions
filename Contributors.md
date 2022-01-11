@@ -103,6 +103,7 @@
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
+- [Kay](https://github.com/huskhi)
 - [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
@@ -120,6 +121,7 @@
   [Eric Duwe](https://github.com/ericduwe)
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
+- [Kay](https://github.com/huskhi)
 - [Vox]
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
