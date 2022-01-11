@@ -103,6 +103,7 @@
 - [yash](https://github.com/Yashg100)
 - [Lakshay Tyagi](https://github.com/imlakshay08)
 - [harry](https://github.com/harrylog)
+- [Devesh Tulshyan](https://github.com/Devesh225)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
