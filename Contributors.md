@@ -60,7 +60,8 @@
 - [MuhammadSameh] (https://github.com/MuhammadSameh)
 - [Guntaas Singh](https://github.com/guntaas-singh)
 - [Benjamin](https://github.com/haik-x)
-- [Albert Fay](https://github.com/AlbertFay)'
+- [Albert Fay](https://github.com/AlbertFay)
+- [Andrew Lee](https://github.com/AndrewJetLee)
 - [The RainMan](https://github.com/TheRainManV2)
 - [Manah Shetty](https://github.com/manahshetty)
 - [The Coding Canal](https://github.com/TheCodingCanal)
