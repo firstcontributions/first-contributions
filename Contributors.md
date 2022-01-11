@@ -17,6 +17,7 @@
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[JamesLee](https://github.com/Jamesleeeeeee)
 -[Bolutife Lawrence](https://github.com/bolutife-lawrence)
 [Sanish Chirayath](https://github.com/sanishchirayath1)
 -[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
