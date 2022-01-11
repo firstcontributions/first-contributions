@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[Jorge_Ar] (https://github.com/jamp-scp28)
+- [Derek hall](https://github.com/hderek22)
 -[Sarah](https://github.com/sarah157)
 -Talib Hussain
 -[Joshua McElroy](https://github.com/tkdevil)
