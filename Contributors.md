@@ -2,7 +2,8 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[Jorge_Ar] (https://github.com/jamp-scp28)
-- [Derek hall](https://github.com/hderek22)
+-[Derek hall](https://github.com/hderek22)
+-[AungKhantTun](https://github.com/AungKhantTun)
 -[Sarah](https://github.com/sarah157)
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Talib Hussain
