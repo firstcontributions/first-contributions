@@ -75,6 +75,7 @@
 - [Guntaas Singh](https://github.com/guntaas-singh)
   [Aniket Thakur](https://github.com/aniket-thakur)
 - [Benjamin](https://github.com/haik-x)
+- [Amit](https://github.com/amit-2k1)
 - [Albert Fay](https://github.com/AlbertFay)
 - [Andrew Lee](https://github.com/AndrewJetLee)
 - [The RainMan](https://github.com/TheRainManV2)
