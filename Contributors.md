@@ -40,6 +40,7 @@
 -[Deep-Ramani](https://github.com/Deep-Ramani)
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
+- [Vishwas Acharya](https://github.com/vishwasracharya)
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
 - [Sumon Dey](https://github.com/DeySmn)
