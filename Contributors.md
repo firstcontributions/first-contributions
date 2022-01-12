@@ -2134,6 +2134,7 @@ Himanshu Dedha
 - [Siddhesh Sonawane](https://github.com/siddheshsonawane07)
 - [AJ Diaz](https://github.com/alexanderjessediaz)
 - [Josh Perez](https://github.com/JoshuaP25)
+- [Szampan](https://github.com/Szampan)
 - [Alexander Sadosky](https://github.com/asadosky)
 - [Janakan Sivaloganathan](https://github.com/Janakan2466)
 - [Himanshi](https://github.com/Himanshi1207)
