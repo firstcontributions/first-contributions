@@ -1368,6 +1368,7 @@ yejashi
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [Pedro Ferreira] (https://github.com/bacilo)
 - [ba-13] (https://github.com/ba-13)
+- [Michael Chatzidakis]
 - [J. Lin] (https://github.com/j1in)
 - [Diamond Rivero] (https://github.com/diamant3)
 - [Mohammad Ali Ashraf] (https://github.com/programmingLover12)
