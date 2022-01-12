@@ -43,6 +43,7 @@
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
 - [Sumon Dey](https://github.com/DeySmn)
 - [Kyaw Thu](https://github.com/evanch98)
+- [Aditya Priyanshu](https://github.com/Adityap-3055)
 - [Andrio](https://github.com/Andrio-Codes)
 - [Yanelly Sandheinrich] (https://github.com/yms1080)
 - [Rahul Sharma](https://github.com/rahulsh18)
