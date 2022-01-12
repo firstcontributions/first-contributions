@@ -201,6 +201,7 @@ sylucck
 - Fitzerrick
 - Willis K
 - Cade Merritt
+- [Suprith Gurudu] (https://github.com/Suprith-Reddy)
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
 - [Aaditya] (https://github.com/songoku4)
