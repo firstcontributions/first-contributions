@@ -13,6 +13,7 @@
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[Genominus](https://github.com/Genominus)
 -[HAK](https://github.com/Genominus)
+-[Ming Ng](https://github.com/redconOne)
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
