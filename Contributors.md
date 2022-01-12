@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+-[KurXZ](https://github.com/kurxz/)
 -[Jorge_Ar] (https://github.com/jamp-scp28)
 -[Derek hall](https://github.com/hderek22)
 -[AungKhantTun](https://github.com/AungKhantTun)
