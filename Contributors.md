@@ -11,6 +11,7 @@
 -Talib Hussain
 -[Joshua McElroy](https://github.com/tkdevil)
 -[Faheem](https://github.com/codeFaheem)
+-[Donald Riedl](https://github.com/riedldsr)
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Unik Dahal](https://github.com/Unik-Dahal)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
