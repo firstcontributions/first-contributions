@@ -10,6 +10,7 @@
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
+-[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[Genominus](https://github.com/Genominus)
 -[HAK](https://github.com/Genominus)
 -[Anas Jehani](https://github.com/Ajehani)
