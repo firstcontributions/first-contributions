@@ -76,6 +76,7 @@
 - [Manah Shetty](https://github.com/manahshetty)
 - [The Coding Canal](https://github.com/TheCodingCanal)
 - [Mohammad Aman](https://github.com/AMANmohd1)
+- [ColorWP](https://github.com/ColorWP)
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
 - [Lion elias]
