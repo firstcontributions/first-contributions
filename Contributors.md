@@ -25,6 +25,7 @@
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+
 -[JamesLee](https://github.com/Jamesleeeeeee)
 -[M.Robi](https://github.com/BeatBob)
 -[Juhani Rusi](https://github.com/juhanirusi)
@@ -92,6 +93,7 @@
 - [JDaddy] (https://github.com/Jason8830)
 - [Jose Ozuna] (https://github.com/joseozuna48)
 - [Sudhan Gurav](https://github.com/JSudn)
+- [Piyush Panpaliya](https://github.com/piyush-panpaliya)
 - [aditya7196] (https://github.com/aditya7196)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Nithin Suresh](https://github.com/nithinkzy)
