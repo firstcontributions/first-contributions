@@ -182,6 +182,7 @@ sylucck
 - Caitlynne Kezys
 - David Zheng
 - Eyup Ensar Coban
+- Fitzerrick
 - Willis K
 - Cade Merritt
 -[Soumya Podha]https://github.com/soumyapodha
