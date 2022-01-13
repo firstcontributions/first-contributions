@@ -4500,6 +4500,7 @@ Michael Wong
 - [Bryan Kristiono](https://github/Kristinus)
 - [Neerosh] (https://github.com/Neerosh)
 - [Andrew Johnson](https://github.com/Andrew-R-Johnson)
+- [Fernando J. Spitz](https://github.com/fjspitz)
 - [Hal tunb ay] (https://github.com/haltunbay)
 - [Skandesh] (https://github.com/Randommmmmmmm)
 - [GuoYongHeng] (https://github.com/GuoYongHeng)
