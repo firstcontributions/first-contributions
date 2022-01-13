@@ -207,6 +207,7 @@ sylucck
 - Fitzerrick
 - Willis K
 - Cade Merritt
+- Pablo Paliza (https://github.com/unit4216)
 - [Suprith Gurudu] (https://github.com/Suprith-Reddy)
 -[Soumya Podha]https://github.com/soumyapodha
 - [Martinimsa](https://github.com/Martinimsa)
