@@ -27,6 +27,7 @@
 -[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Senthil Bala](https://github.com/besenthil)
 -[Benjamin Bruno](https://github.com/leckermatz79)
+-[Kuldeep Singh](https://github.com/nisKULDEEP)
 -[Yonkwang Kim]
 -[Navya]
 -[Kwofach] (https://github.com/kwofach)
