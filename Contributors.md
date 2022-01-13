@@ -4527,4 +4527,5 @@ Michael Wong
 - [Pintu Das] (https://github.com/yefeyfe)
 - Jack Sparrow
 - [Atakan S] (https://github.com/AtakanGH)
+- softvisioneer
 <!-- prettier-ignore-end -->
