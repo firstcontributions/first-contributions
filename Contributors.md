@@ -4520,4 +4520,5 @@ Michael Wong
 - [Harshil Bhatia](https://github.com/harshilbhatia7)
 - [Ruslan Kossak] (https://github.com/tredstart)
 - [Vitor Albres] (https://github.com/thealbres)
+- [Pintu Das] (https://github.com/yefeyfe)
 <!-- prettier-ignore-end -->
