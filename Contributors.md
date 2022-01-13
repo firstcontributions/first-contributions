@@ -93,6 +93,7 @@
 - [Mohammad Aman](https://github.com/AMANmohd1)
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
+- [Hrituraj Kalsekar](https://github.com/jacktheripp3r)
 - [Lion elias]
 - [Amit Talawar](https://github.com/AmitTalawar)
 - [Daniel Castro Razo](https://github.com/daniel-cr)
