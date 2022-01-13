@@ -4467,6 +4467,5 @@
 - [Pintu Das] (https://github.com/yefeyfe)
 - Jack Sparrow
 - [Atakan S] (https://github.com/AtakanGH)
-- [William Benarto] (https://github.com/wbenarto)
 - softvisioneer
 <!-- prettier-ignore-end -->
