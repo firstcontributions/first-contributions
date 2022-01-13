@@ -792,6 +792,7 @@ yejashi
 - [Matthew McAndrews] (https://github.com/MatthewMcAndrews)
 - [Rahul Goswami] https://github.com/gosrahul21
 - [Solevni]
+- [Avinash Kamat] https://github.com/avikamat96
 - [Joseph Hardin] https://github.com/josephphardin
 - [dewhallez] https://github.com/dewhallez
 - [dpmoody] https://github.com/Dan-Moody
