@@ -4524,6 +4524,7 @@ Michael Wong
 - [Harshil Bhatia](https://github.com/harshilbhatia7)
 - [Ruslan Kossak] (https://github.com/tredstart)
 - [Vitor Albres] (https://github.com/thealbres)
+- [Truica Sorin] (https://github.com/sorin800)
 - [Pintu Das] (https://github.com/yefeyfe)
 - Jack Sparrow
 - [Atakan S] (https://github.com/AtakanGH)
