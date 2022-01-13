@@ -468,6 +468,7 @@
 - [Byoungyoon Park] (https://github.com/rustiebeats)
 - Malik Rossi
 - Vinayaka Hegde
+- [Vaibhav Gope](https://github.com/vaibhavgope)
 - Nevermind
 - Brant Norris
 - Ashish Choudhary
