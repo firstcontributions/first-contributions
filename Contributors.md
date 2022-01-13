@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
 -[Haseeb Siddiqui](https://github.com/hsbsid)
 -[KurXZ](https://github.com/kurxz/)
@@ -100,6 +101,7 @@
 - [HTZ](https://github.com/hninthuzar)
 - [Hrituraj Kalsekar](https://github.com/jacktheripp3r)
 - [Lion elias]
+  -[Ashwani Garg]
 - [Amit Talawar](https://github.com/AmitTalawar)
 - [Daniel Castro Razo](https://github.com/daniel-cr)
 - [Zendannyy](https://github.com/zendannyy)
