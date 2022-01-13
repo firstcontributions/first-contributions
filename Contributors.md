@@ -4468,4 +4468,5 @@
 - Jack Sparrow
 - [Atakan S] (https://github.com/AtakanGH)
 - softvisioneer
+- [William Benarto] (https://github.com/wbenarto)
 <!-- prettier-ignore-end -->
