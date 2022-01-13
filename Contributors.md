@@ -4525,5 +4525,6 @@ Michael Wong
 - [Ruslan Kossak] (https://github.com/tredstart)
 - [Vitor Albres] (https://github.com/thealbres)
 - [Pintu Das] (https://github.com/yefeyfe)
+- Jack Sparrow
 - [Atakan S] (https://github.com/AtakanGH)
 <!-- prettier-ignore-end -->
