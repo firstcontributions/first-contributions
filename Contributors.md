@@ -4529,4 +4529,5 @@ Michael Wong
 - Jack Sparrow
 - [Atakan S] (https://github.com/AtakanGH)
 - softvisioneer
+- [Mateusz K] (https://github.com/marzipan14)
 <!-- prettier-ignore-end -->
