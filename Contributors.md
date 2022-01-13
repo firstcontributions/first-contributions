@@ -11,6 +11,7 @@
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Talib Hussain
 -[Joshua McElroy](https://github.com/tkdevil)
+-[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
 -[Donald Riedl](https://github.com/riedldsr)
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
