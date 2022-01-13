@@ -10,6 +10,7 @@
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Nayan Jain](https://github.com/NayanJain09)
 - {Martin Renteria}{https://github.com/MartinRenteria}
+- [Krishna Prasanth](https://github.com/gkprasanth)
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 -[Shubham Singh](https://github.com/shubhamcodez)
 - [Apleht](https://github.com/apleht)
@@ -472,7 +473,8 @@ Sumit Sagar
 - [Pooja Patil](https://github.com/poojapatil010677)
 - [Kartik Shukla](https://github.com/kartiks-21)
 - [Jeevan Joshi](https://github.com/G1Joshi)
-- [Jason Weyland](https://github.com/JWeyland12)
+- [Jason Weyland](http                                                                                      767,23        14%
+s://github.com/JWeyland12)
 - [Lebohang Kuenane](https://github.com/kuenane)
 - [V01D](https://github.com/V01D-NULL)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
