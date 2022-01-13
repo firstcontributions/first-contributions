@@ -2262,6 +2262,7 @@ Himanshu Dedha
 - [John Wanjema](https://github.com/johnwanjema)
 - [Georgica Bors](https://github.com/borsgeorgica)
 - [MNaiwrit](https://github.com/mnaiwrit52)
+- [Vansh Goel](https://github.com/vansh-goel)
 - [Temitope Feyisitan](https://github.com/epotimeT)
 - [Olaleye Blessing](https://github.com/Olaleye-Blessing)
 - [IVIosab](https://github.com/IVIosab)
