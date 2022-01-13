@@ -4514,4 +4514,5 @@ Michael Wong
 - [Rajendra](https://github.com/rajendra-tamboli)
 - [Harshil Bhatia](https://github.com/harshilbhatia7)
 - [Ruslan Kossak] (https://github.com/tredstart)
+- [Vitor Albres] (https://github.com/thealbres)
 <!-- prettier-ignore-end -->
