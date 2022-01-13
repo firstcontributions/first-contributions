@@ -31,6 +31,7 @@
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
 -[JamesLee](https://github.com/Jamesleeeeeee)
 -[M.Robi](https://github.com/BeatBob)
