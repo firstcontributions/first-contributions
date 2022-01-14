@@ -4544,4 +4544,5 @@ Michael Wong
 - [Carl J] (https://github.com/Carlj0666)
 - [Caio Mendes] (https://github.com/caio546)
 - [Anelka Lopez] (https://github.com/PhantomDSYT)
+- [Kev Sole] (https://github.com/kevsole)
 <!-- prettier-ignore-end -->
