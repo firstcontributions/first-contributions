@@ -598,6 +598,7 @@ Ajith
 - [mondara] (https://github.com/Mondara)
 - [UnclassedPenguin](https://github.com/UnclassedPenguin)
 - Andres Gaitan
+- Anh Viet Nguyen
 - [John Bang] (https://github.com/gowrath)
 - [JonathanC] (https://github.com/Jonathan-Challenger)
 Heng Sun
