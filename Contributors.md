@@ -108,7 +108,7 @@ sylucck
 - [Satwik Anmol](https://github.com/satwikan/)
 - [Poornima Taranath] (https://github.com/poornima-taranath)
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
-- Abaysew Tekle
+- [Abaysew Tekle] (https://github.com/Abaysewtekle)
 - [Joel Guerreiro](https://github.com/j-guerreiro)
 - [Debjit Karmakar](https://github.com/debjitl45)
 - [TusharKrSoni] (https://github.com/TusharKrSoniTKS/)
