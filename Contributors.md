@@ -107,6 +107,7 @@
 - [Amit Talawar](https://github.com/AmitTalawar)
 - [Daniel Castro Razo](https://github.com/daniel-cr)
 - [Zendannyy](https://github.com/zendannyy)
+- [Arpit Garg](https://github.com/arpit-garg-1995)
 - [Szeles László]
 - [Codelikesuraj](https://github.com/codelikesuraj)
 - [Kalp Shah] (https://github.com/kalpshah485)
