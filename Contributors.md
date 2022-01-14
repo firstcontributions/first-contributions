@@ -202,6 +202,7 @@
 - [zredb](https://github.com/zredb)
 sylucck
 - Nikita
+- [Eugene]
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
