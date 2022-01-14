@@ -58,6 +58,7 @@
 -[rashidpbi](https://github.com/rashidpbi)
 - [Dein Dehouwer](https://github.com/redcodefox)
 -[Saiwunna21](https://github.com/SaiWunna21)
+-[Nigel Monfries](https://github.com/NMonfries)
 -[Deep-Ramani](https://github.com/Deep-Ramani)
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Ananthakrishnan K](https://github.com/k-ananthakrishnan)
