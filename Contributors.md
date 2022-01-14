@@ -421,6 +421,7 @@ Justin Villena
 - [Kristoffer Sullivan](https://github.com/ksully1993)
 - [Malv93](https://github.com/Malv93)
 - [Edimara](https://github.com/edimarasantos)
+- [Carlos Briceno] (https://github.com/carlosbm14)
 - [Suraj Subramanian](https://github.com/suraj-subramanian) 
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
