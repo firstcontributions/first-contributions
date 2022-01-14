@@ -2978,6 +2978,7 @@ Himanshu Dedha
 - [Vanshika Rana](https://github.com/Vanshika-Rana)
 - Timothy Hayduk
 - [Daniel Tshibangu](https://github.com/danieltshibangu)
+- [Kawaritai] (https://github.com/Kawaritai)
 - [Humble](https://github.com/Salex-H)
 - [Estelle Severs](https://github.com/EstelleSevers)
 - [Yuba Neupane](https://github.com/YubaNeupane)
