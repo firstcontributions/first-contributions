@@ -46,6 +46,7 @@
 - [The Capricorn](https://github.com/khushmanvar)
 - [Ilias000]
 - [Zishanwang1992](https://github.com/Zishanwang1992)
+- [Parker Savage](https://github.com/parkersavage)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [Angelica Figueroa](https://github.com/angelicaf13)
