@@ -1157,7 +1157,7 @@
 - [Pranav Nikam] (https://github.com/pranavnikam3110)
 - [Adolfo Rhs](https://github.com/adolforhs)
 - [Roberto Adolfo Herrera Soriano](https://github.com/robsorRS)
-- [Tiffany Ding] (https://github.com/ding-09)
+- [Tiffany Ding](https://github.com/ding-09)
 - [JAGCV](https://github.com/joseagcv)
 - [Sanidhya Gupta](http://github.com/sanidhyag1)
 - [Douglas McWherter](https://github.com/teserve)
