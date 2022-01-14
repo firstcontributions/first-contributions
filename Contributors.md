@@ -144,6 +144,7 @@
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
 - [Zishanwang1992](https://github.com/Zishanwang1992)
+- [Ashley Mays](https://github.com/ashleymays091)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [son dao](https://github.com/SonDao99)
@@ -203,6 +204,7 @@
 - [zredb](https://github.com/zredb)
 sylucck
 - Nikita
+- [Eugene]
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
@@ -1581,6 +1583,7 @@ yejashi
 - [Ritwik Shaw](https://github.com/RitwikShaw27)
 - [Prakhar Shukla](https://github.com/prakharshukla)
 Aditya Agarwal
+- [Banka Mani Bhargava] (https://github.com/manibhargava4)
 - [yeonuk](https://github.com/dhfpdhaos)
 - [Dishant](https://github.com/Dishant2001)
 - [Jishnu Biju](https://github.com/Jishnu075)
