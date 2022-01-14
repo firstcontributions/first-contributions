@@ -35,6 +35,7 @@
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
 -[Anas Muhammed]
+-[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
 -[JamesLee](https://github.com/Jamesleeeeeee)
