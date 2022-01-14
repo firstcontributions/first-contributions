@@ -151,6 +151,7 @@
 - [menoetius](https://github.com/menoetius-the-rash)
 - [son dao] (https://github.com/SonDao99)
 - [Angelica Figueroa](https://github.com/angelicaf13)
+- [dali012]
 - [Abe](https://github.com/abe-101)
 - [Njoku Okechukuw Valentine] (https://github.com/bonsoirval)
 - [CinthiaRS](https://github.com/CinthiaRS24)
