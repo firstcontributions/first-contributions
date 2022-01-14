@@ -128,6 +128,7 @@
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
 - [Zishanwang1992](https://github.com/Zishanwang1992)
+- [Ashley Mays](https://github.com/ashleymays091)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [son dao] (https://github.com/SonDao99)
@@ -187,6 +188,7 @@
 - [zredb](https://github.com/zredb)
 sylucck
 - Nikita
+- [Eugene]
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
