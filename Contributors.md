@@ -32,6 +32,7 @@
 -[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Senthil Bala](https://github.com/besenthil)
 -[Benjamin Bruno](https://github.com/leckermatz79)
+- Ricardo Camacho Mireles
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
 -[Yonkwang Kim]
 -[Rohit](https://github.com/rohit27-2)
