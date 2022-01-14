@@ -3749,6 +3749,7 @@ Himanshu Dedha
 - [Yoga Meleniawan P](https://github.com/yogameleniawan)
 - [Jerome Flores](https://github.com/jeromefloresss)
 - [Ian Peter Larrauri Lastimosa](https://github.com/LastimosaPeter)
+- [Jamie Grantham-Burton](https://github.com/jgburton)
 - [David Bomard](https://github.com/dbomard)
 - [John Lesaba](https://github.com/jlesaba)
 - [Marco Mosna](https://github.com/CodeHub-CreamPy)
