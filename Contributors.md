@@ -3350,6 +3350,7 @@ Himanshu Dedha
 - [David Klein](https://github.com/KleinHorn)
 - [Lars-Peter Feigl](https://github.com/LPF33)
 - [Airton Lima Jr](https://github.com/airtonlimajr)
+- [Lucas Oliveira de Almeida](https://github.com/lucasolal)
 - [Cal Idom](https://github.com/Cidom10)
 - [literaryno4](https://github.com/literaryno4)
 - [Patrick Martin](https://github.com/patrickmartinasin)
