@@ -4541,4 +4541,5 @@ Michael Wong
 - [Mateusz K] (https://github.com/marzipan14)
 - [Carl J] (https://github.com/Carlj0666)
 - [Caio Mendes] (https://github.com/caio546)
+- [Anelka Lopez] (https://github.com/PhantomDSYT)
 <!-- prettier-ignore-end -->
