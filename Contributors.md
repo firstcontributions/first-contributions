@@ -10,6 +10,7 @@
 -[Sarah](https://github.com/sarah157)
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Talib Hussain
+-[Mayur Vaidya](https://github.com/mnvaidya)
 -[Joshua McElroy](https://github.com/tkdevil)
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
