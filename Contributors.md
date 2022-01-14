@@ -4494,6 +4494,7 @@ Michael Wong
 - [Sugumar]
 - [Michelle Lin]
 - [Sanjana Jampana](https://github.com/sanjujampana)
+- [Rajat Khatri](https://github.com/MrMorningStark)
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
 - [Yash Pareek](https://github.com/deepAIYash)
