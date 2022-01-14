@@ -21,6 +21,7 @@
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
+-[VarunSatpute](https://github.com/VarunSatpute)
 -[Genominus](https://github.com/Genominus)
 -[HAK](https://github.com/Genominus)
 -[Ming Ng](https://github.com/redconOne)
