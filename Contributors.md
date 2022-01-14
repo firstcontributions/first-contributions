@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+-[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[shiwam](https://github.com/orrgato)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
 -[Haseeb Siddiqui](https://github.com/hsbsid)
