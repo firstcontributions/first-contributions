@@ -32,6 +32,7 @@
 -[Benjamin Bruno](https://github.com/leckermatz79)
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
 -[Yonkwang Kim]
+-[Rohit](https://github.com/rohit27-2)
 -[Navya]
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
