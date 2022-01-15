@@ -3728,6 +3728,7 @@ Himanshu Dedha
 - 
 -_[Thiago Rider Augusto](https://github.com/thiagorider)
 - [Joseph Chan](https://github.com/jchanke)
+- [Win Chan](https://github.com/wincsw)
 - [RajAdwaita](https://github.com/RajAdwaita)
 - [kevinvu184](https://github.com/kevinvu184)
 - [Richard Ormiston](https://github.com/rjormiston)
