@@ -4581,5 +4581,6 @@ Michael Wong
 - [Caio Mendes] (https://github.com/caio546)
 - [Anelka Lopez] (https://github.com/PhantomDSYT)
 - [Kev Sole] (https://github.com/kevsole)
+- [Dan Angelin](https://github.com/DanAngelin)
 - [stickman]
 <!-- prettier-ignore-end -->
