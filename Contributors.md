@@ -4,6 +4,7 @@
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
+-[Girish Kumar](https://github.com/GirishKumarDevadiga)
 -[shiwam](https://github.com/orrgato)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
 -[Haseeb Siddiqui](https://github.com/hsbsid)
