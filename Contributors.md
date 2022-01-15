@@ -2596,6 +2596,7 @@ Himanshu Dedha
 - [Eliza Nimrichter](https://github.com/rallycarza)
 - [Arshal Nuna Soren](https://github.com/arshalsoren)
 - [Manuel Schmid](https://github.com/manusmd)
+- [Devesh Mukherjee](https://github.com/darkghost33)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
 - [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
