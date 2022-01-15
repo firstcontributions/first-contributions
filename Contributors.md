@@ -1226,6 +1226,7 @@ yejashi
 - [Sudipto Mondal](https://github.com/sudipto)
 - [Jandi Mei](https://github.com/jandi-mei)
 - [Nirav](https://github.com/srkds)
+- [Rohit Kohli](https://github.com/rohitkoh123)
 - [Arcadia Cipolla](https://github.com/arcadiacipolla)
 - [Vaishnavi](https://github.com/25-vaishnavi)
 - [Shiva Prakash Pendem](https://github.com/shivaprakash-sudo)
