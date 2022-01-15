@@ -4594,4 +4594,5 @@ Michael Wong
 - [Dan Angelin](https://github.com/DanAngelin)
 - [David DeVore] (https://github.com/daviddevore)
 - [stickman]
+- [Joseph Lee](https://github.com/jooo-lee)
 <!-- prettier-ignore-end -->
