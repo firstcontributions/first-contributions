@@ -1221,6 +1221,7 @@ yejashi
 - [Aleksey Voko](https://github.com/Aleksey-Voko)
 - [jungho](https://github.com/mju230)
 - [David Le](https://github.com/DaveLe)
+- [Tim Schoenwald](https://github.com/TimS27)
 - [Dev-Sam9](https://github.com/Dev-Sam9)
 - [Haohui Bao](https://github.com/SusBhhs)
 - [Debabrata Banerjee](https://github.com/debabratabanerjee)
