@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[shiwam](https://github.com/orrgato)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
