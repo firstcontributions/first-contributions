@@ -3779,6 +3779,7 @@ Himanshu Dedha
 - [Ian Peter Larrauri Lastimosa](https://github.com/LastimosaPeter)
 - [Jamie Grantham-Burton](https://github.com/jgburton)
 - [David Bomard](https://github.com/dbomard)
+- [Piyush Mishra](https://github.com/piyush-mishra-pm)
 - [John Lesaba](https://github.com/jlesaba)
 - [Marco Mosna](https://github.com/CodeHub-CreamPy)
 - [Martin Edgar Atole](https://github.com/Mrtiin)
