@@ -2357,6 +2357,7 @@ Himanshu Dedha
 - [Faris Waiteasa](https://github.com/fariswaiteasa)
 - [Heather Barton](https://github.com/CisnePHX)
 - [Neha Anand](https://github.com/NehaAnand28)
+- [nadi726](https://github.com/nadi726)
 - [Nitin Mewar](https://github.com/nitinmewar)
 - [Apoorv Aggarwal](https://github.com/HackerApoorv)
 - [Yashashwini Dixit](https://github.com/YashashwiniDixit)
