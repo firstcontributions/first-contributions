@@ -63,6 +63,7 @@
 -[Saiwunna21](https://github.com/SaiWunna21)
 -[Nigel Monfries](https://github.com/NMonfries)
 -[Deep-Ramani](https://github.com/Deep-Ramani)
+- [Manish K](https://github.com/mksjc)
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Ananthakrishnan K](https://github.com/k-ananthakrishnan)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
