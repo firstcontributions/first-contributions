@@ -3766,6 +3766,7 @@ Himanshu Dedha
 - [Damian Kuras](https://github.com/DamianKuras)
 - [bestcondition](https://github.com/bestcondition)
 - [chirathkdev](https://github.com/chirathkdev)
+- [Nils Kruthoff](https://github.com/nilskruthoff)
 - [Jarek Hry](https://github.com/akcer)
 - [Naman Girdhar](https://github.com/namangirdhar16)
 - [Balaji PJ](https://github.com/dystopiadroid)
