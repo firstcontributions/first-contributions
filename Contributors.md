@@ -219,6 +219,7 @@ itay-guter
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - [Jay EPEP](https://github.com/eppp)
+- [James Hall](https://github.com/JHallFS)
 - [Endunry](https://github.com/Raqhael)
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
