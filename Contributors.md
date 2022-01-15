@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
+-[Miloni Atal](https://github.com/MiloniAtal)
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
 -[shiwam](https://github.com/orrgato)
