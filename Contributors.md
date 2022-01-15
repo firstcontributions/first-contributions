@@ -2,6 +2,7 @@
 
 -[Dijo T Mathews](https://github.com/dijotmathews)
 -[Benjamin Chiang](https://github.com/chychiang)
+-[Shreya Denny](https://github.com/shreyadenny)
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
