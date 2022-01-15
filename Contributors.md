@@ -22,7 +22,7 @@
 - [Benjamin](https://github.com/haik-x)
 - [Albert Fay](https://github.com/AlbertFay)'
 - [The RainMan](https://github.com/TheRainManV2)
-- [mukul ojha](https://github.com/mukul314)
+- [mukul ojha1](https://github.com/mukul314)
 - [The Coding Canal](https://github.com/TheCodingCanal)
 - [Mohammad Aman](https://github.com/AMANmohd1)
 - [Rohan Karan](https://github.com/rohankaran)
