@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Miloni Atal](https://github.com/MiloniAtal)
