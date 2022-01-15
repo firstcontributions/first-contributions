@@ -14,6 +14,7 @@ Laura Langdon
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Talib Hussain
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
+-[MaruthiKo](https://github.com/MaruthiKo)
 -[Mayur Vaidya](https://github.com/mnvaidya)
 -[Joshua McElroy](https://github.com/tkdevil)
 -[Hugo Bouderlique](https://github.com/HugoBde)
