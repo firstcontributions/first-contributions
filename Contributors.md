@@ -4590,5 +4590,6 @@ Michael Wong
 - [Anelka Lopez] (https://github.com/PhantomDSYT)
 - [Kev Sole] (https://github.com/kevsole)
 - [Dan Angelin](https://github.com/DanAngelin)
+- [David DeVore] (https://github.com/daviddevore)
 - [stickman]
 <!-- prettier-ignore-end -->
