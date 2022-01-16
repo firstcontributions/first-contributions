@@ -30,6 +30,7 @@ itay-guter
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
+-[Trenton Stetson](https://github.com/stetson912)
 -[Mayur Vaidya](https://github.com/mnvaidya)
 -[Joshua McElroy](https://github.com/tkdevil)
 -[Hugo Bouderlique](https://github.com/HugoBde)
