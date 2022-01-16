@@ -24,6 +24,7 @@ itay-guter
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
 -Talib Hussain
+-[Rajat Kumar](https://github.com/rajat844)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
