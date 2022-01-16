@@ -4605,5 +4605,6 @@ Michael Wong
 - [stickman]
 - [Joseph Lee](https://github.com/jooo-lee)
 - [Vibhanshu vaibhav](https://github.com/1jb16is118/)
+- [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
 <!-- prettier-ignore-end -->
