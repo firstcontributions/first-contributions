@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Alexander Marasco](https://github.com/Marascax)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
