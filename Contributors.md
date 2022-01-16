@@ -1,6 +1,9 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+
+- [Niranjan Margam](https://github.com/margam-niranjan)
+
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
