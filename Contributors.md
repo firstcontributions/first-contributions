@@ -20,6 +20,7 @@ Laura Langdon
 -[Derek hall](https://github.com/hderek22)
 -[AungKhantTun](https://github.com/AungKhantTun)
 -[J Mcdonnell](https://github.com/DonkeyFeet00)
+-[Mallory Pitser](https://github.com/mpitser)
 -[Sarah](https://github.com/sarah157)
 -[LPA](https://github.com/Lin-Pyae)
 itay-guter
