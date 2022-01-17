@@ -4541,8 +4541,8 @@ Michael Wong
 - [Vitor Albres] (https://github.com/thealbres)
 - [Truica Sorin] (https://github.com/sorin800)
 - [Pintu Das] (https://github.com/yefeyfe)
+- [Rajat Malhotra] (https://github.com/rajat0988)
 - Jack Sparrow
-- Rajat Malhotra (https://github.com/rajat0988)
 - [Atakan S] (https://github.com/AtakanGH)
 - softvisioneer
 - [Mateusz K] (https://github.com/marzipan14)
