@@ -2429,6 +2429,7 @@ Himanshu Dedha
 - [Alpesh Valvi](https://github.com/AlpeshValvi123)
 - [Steven Wang](https://github.com/happiestbee)
 - [Om Parshar](https://github.com/orashar)
+- [Seth King](http://github.com/sethmichaelking)
 - [Sudha Tanay Doddi](https://github.com/sudhatanay)
 - [Radosvet Petrov](https://github.com/radosvet93)
 - [Omar Zaheer](https://github.com/Omar-M-Z)
