@@ -43,7 +43,7 @@ itay-guter
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
--[Anushka]
+-[Anushka Pandey](https://github.com/anushkaapandeyy)
 -[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Senthil Bala](https://github.com/besenthil)
 -[Benjamin Bruno](https://github.com/leckermatz79)
