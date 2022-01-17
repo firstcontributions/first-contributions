@@ -6,6 +6,7 @@
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
+-[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[MMT](https://github.com/MinMinThway)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
