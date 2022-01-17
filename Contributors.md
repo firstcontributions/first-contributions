@@ -9,6 +9,7 @@ Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[MMT](https://github.com/MinMinThway)
+- [d-bst](https://github.com/d-bst)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
 -[Ben Belljamin](https://github.com/benbelljamin)
