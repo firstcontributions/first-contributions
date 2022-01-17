@@ -4542,6 +4542,7 @@ Michael Wong
 - [Truica Sorin] (https://github.com/sorin800)
 - [Pintu Das] (https://github.com/yefeyfe)
 - Jack Sparrow
+- Rajat Malhotra
 - [Atakan S] (https://github.com/AtakanGH)
 - softvisioneer
 - [Mateusz K] (https://github.com/marzipan14)
