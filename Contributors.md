@@ -2,10 +2,14 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
+- [Gilberto Almeida](https://github.com/gilbertoalmeida)
+- [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
+-[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[MMT](https://github.com/MinMinThway)
+- [d-bst](https://github.com/d-bst)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
 -[Ben Belljamin](https://github.com/benbelljamin)
@@ -37,9 +41,11 @@ itay-guter
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
 -[Donald Riedl](https://github.com/riedldsr)
+-[Meet Soni](https://github.com/meetsoni1214)
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Unik Dahal](https://github.com/Unik-Dahal)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
+-Zhihua Qu
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[VarunSatpute](https://github.com/VarunSatpute)
@@ -62,6 +68,7 @@ itay-guter
 -[Navya]
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
+-[Urvi Singhal]
 -[Anas Muhammed]
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
@@ -409,6 +416,7 @@ Justin Villena
 - Karttekay Grover
 - Phi Doan 
 - kishan Yadav
+- Zhiqing Qu
 - Prashant Bhapkar
 - Ellie Brinkman
 - Joshua Weinstein
@@ -2954,6 +2962,7 @@ Himanshu Dedha
 - [swoorr](https://github.com/Dhrunit/)
 - [Tristan John Magpayo](https://github.com/tristanmagpayo)
 - [Jabbar Bie](https://github.com/jabbarbie)
+- [Ioannis Tsirozidis](https://github.com/IoannisTsirozidis)
 - [MrsRo13ot] (https://github.com/MrsRo13ot)
 - [Egidio De-Souza](https://github.com/EgidioDe-Souza)
 - [Fatemeh Khaledian](https://github.com/fatemehkhaledian)
@@ -4614,4 +4623,5 @@ Michael Wong
 - [Vibhanshu vaibhav](https://github.com/1jb16is118/)
 - [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
+- [Yash Chandak](https://github.com/ychandak17/)
 <!-- prettier-ignore-end -->
