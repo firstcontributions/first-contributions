@@ -40,6 +40,7 @@ itay-guter
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Unik Dahal](https://github.com/Unik-Dahal)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
+-Zhihua Qu
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[VarunSatpute](https://github.com/VarunSatpute)
