@@ -68,6 +68,7 @@ itay-guter
 -[Navya]
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
+-[Urvi Singhal]
 -[Anas Muhammed]
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
