@@ -37,6 +37,7 @@ itay-guter
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
 -[Donald Riedl](https://github.com/riedldsr)
+-[Meet Soni](https://github.com/meetsoni1214)
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Unik Dahal](https://github.com/Unik-Dahal)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
