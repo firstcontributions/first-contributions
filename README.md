@@ -159,7 +159,11 @@ Push your changes using the command `git push`:
 git push origin <add-your-branch-name>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+Replace text imbetween the <> operators `<add-your-branch-name>` with the name of the branch you created earlier. Also, remember to remove the <> operators. If they are included, you will recieve an error. Below is an example of how the line of code should appear.
+
+```
+git push origin add-your-branch-name
+```
 
 ## Submit your changes for review
 
