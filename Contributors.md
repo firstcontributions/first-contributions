@@ -4620,4 +4620,5 @@ Michael Wong
 - [Vibhanshu vaibhav](https://github.com/1jb16is118/)
 - [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
+- [Yash Chandak](https://github.com/ychandak17/)
 <!-- prettier-ignore-end -->
