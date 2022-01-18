@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
+- [Charlie](https://github.com/CharlieSlaughadhain)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
@@ -51,7 +52,6 @@ itay-guter
 -[Unik Dahal](https://github.com/Unik-Dahal)
 -[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -Zhihua Qu
--Charlie(https://github.com/CharlieSlaughadhain)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[VarunSatpute](https://github.com/VarunSatpute)
