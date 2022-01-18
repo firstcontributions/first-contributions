@@ -212,6 +212,7 @@ itay-guter
   [Eric Duwe](https://github.com/ericduwe)
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
+- [lordson fernando]
 - [Vox]
 - [Amey Sawant](https://github.com/Amey0498)
 - [yewinag](https://github.com/yewinag)
