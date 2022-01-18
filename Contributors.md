@@ -15,6 +15,7 @@ Laura Langdon
 -[Ben Belljamin](https://github.com/benbelljamin)
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
+-[Ayush panwar](https://github.com/PanwarAyush)
 -[shiwam](https://github.com/orrgato)
 -[Alice Chen]
 -[Mrinaal Arora](https://github.com/aroramrinaal)
