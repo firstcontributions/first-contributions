@@ -472,7 +472,7 @@ Justin Villena
 - Grace Tholl
 - Yuko Matsumoto
 - Tianlan Yang
-- Benjamin Cortese
+- [Benjamin Cortese](https://github.com/pizza654321)
 - Mayank Kashyap
 - Bo Chung
 - Courtney Hardy
