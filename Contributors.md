@@ -1996,6 +1996,7 @@ Himanshu Dedha
 - [MOHAMMED SHAMIL K](https://github.com/shamilkotta)
 - [Ritesh](https://github.com/RiteshK555)
 - [Ayush Mehrotra] (https://github.com/code-ayu)
+- [Nick D] (https://github.com/nick-d-99)
 - [Muhammad Salman Afzal](https://github.com/muhammadsalmanafzal)
 - [Vedran Baric](https://github.com/vedranb7)
 - [Mitch Bertsch](https://github.com/bmxtricky)
