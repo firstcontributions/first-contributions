@@ -9,6 +9,7 @@
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
+-{Jessie Gardner](https://github.com/jessiegargner4)
 -[Taise Miyazumi]
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[MMT](https://github.com/MinMinThway)
