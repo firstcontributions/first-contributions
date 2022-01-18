@@ -4635,4 +4635,5 @@ Michael Wong
 - [Yash Chandak](https://github.com/ychandak17/)
 - [Likhita Manchikanti](https://github.com/likhitamanchikanti)
 - [William Benarto] (https://github.com/wbenarto/)
+-[David Romero](https://github.com/Darolo13)
 <!-- prettier-ignore-end -->
