@@ -33,6 +33,7 @@ itay-guter
 -Mishank Kumar
 -Talib Hussain
 -[Rajat Kumar](https://github.com/rajat844)
+-[Shaocong Shi](https://github.com/scsbkhunt)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
