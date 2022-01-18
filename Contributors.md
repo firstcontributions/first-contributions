@@ -121,6 +121,7 @@ itay-guter
 - [Aditya Priyanshu](https://github.com/Adityap-3055)
 - [Amar Panji Senjaya](https://github.com/amarps)
 - [Andrio](https://github.com/Andrio-Codes)
+- [Anjali Sajeevan]
 - [Yanelly Sandheinrich] (https://github.com/yms1080)
 - [Rahul Sharma](https://github.com/rahulsh18)
 - [Alvin Lee](https://github.com/zephyrdark)
