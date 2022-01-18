@@ -91,6 +91,8 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 Open a terminal and run the following git command:
 
+This is a test
+
 ```
 git clone "url you just copied"
 ```
