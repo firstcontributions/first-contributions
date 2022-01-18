@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
@@ -19,6 +19,7 @@ Laura Langdon
 -[Ayush panwar](https://github.com/PanwarAyush)
 -[shiwam](https://github.com/orrgato)
 -[Alice Chen]
+-[William Ericson] (https://github.com/Apollo2203)
 -[Mrinaal Arora](https://github.com/aroramrinaal)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
 -[Haseeb Siddiqui](https://github.com/hsbsid)
