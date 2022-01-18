@@ -37,6 +37,7 @@ itay-guter
 -[Shaocong Shi](https://github.com/scsbkhunt)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
+-[BikramPanda](https://github.com/bikipanda)
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
 -[Trenton Stetson](https://github.com/stetson912)
 -[Mayur Vaidya](https://github.com/mnvaidya)
