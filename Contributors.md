@@ -2,7 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
-- [Charlie](https://github.com/CharlieSlaughadhain)
+- [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
