@@ -75,6 +75,7 @@ itay-guter
 -[Rajan Lodhiya]
 -[Urvi Singhal]
 -[Anas Muhammed]
+-[Mohd Muzakkir Saifi] (https://github.com/muzakkirsaifi123)
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
