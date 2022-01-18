@@ -2633,6 +2633,7 @@ Himanshu Dedha
 - [samedsay](https://github.com/samedsay)
 - [Lily Silva](https://github.com/LiliRosa)
 - [julia](https://github.com/jusato)
+- [Shreya Mahajan]
 - [isacancetin](https://github.com/isacancetin)
 - [Trevor Tomlin](https://github.com/trevortomlin)
 - [Zachary Adams](https://github.com/FatalTrip)
