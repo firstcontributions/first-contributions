@@ -4631,4 +4631,5 @@ Michael Wong
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
 - [Yash Chandak](https://github.com/ychandak17/)
 - [Likhita Manchikanti](https://github.com/likhitamanchikanti)
+- [William Benarto] (https://github.com/wbenarto/)
 <!-- prettier-ignore-end -->
