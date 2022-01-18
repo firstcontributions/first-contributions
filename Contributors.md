@@ -6,7 +6,6 @@
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
--[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[MMT](https://github.com/MinMinThway)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
@@ -70,6 +69,7 @@ itay-guter
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
+-[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[Javohir Uralov](https://github.com/javohir101dev/first-contributions) 
 -[JamesLee](https://github.com/Jamesleeeeeee)
 -[M.Robi](https://github.com/BeatBob)
