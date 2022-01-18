@@ -69,6 +69,7 @@ itay-guter
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 -[Yonkwang Kim]
+-[Isaac Spiller]
 -[Rohit](https://github.com/rohit27-2)
 -[Matt Brown](https://github.com/mjb-it)
 -[Dr Sheldon Liu](https://github.com/DrSheldonLiu)
