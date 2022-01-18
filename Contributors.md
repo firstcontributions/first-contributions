@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[shiwam](https://github.com/orrgato)
+-[Taise Miyazumi](https://github.com/tmiyazumi)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
 -[Haseeb Siddiqui](https://github.com/hsbsid)
 -[KurXZ](https://github.com/kurxz/)
