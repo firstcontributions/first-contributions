@@ -4602,6 +4602,7 @@ Michael Wong
 - [Pramod Lumb](https://github.com/pramod74)
 - [Yosi Kimhi](https://github.com/YosiKimhi)
 - [Joaocaf](https://github.com/Joaocaf)
+- [Nicole Meers](https://github.com/nicolemeers)
 - [Sean Do] (https://github.com/sean-do)
 - [Little Krishna] (https://github.com/little-krishna)
 - [Bohruz](https://github.com/bohruz)
