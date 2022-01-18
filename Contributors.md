@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Cee Lopez](https://github.com/Amenthius/)
 - [Alexander Marasco](https://github.com/Marascax)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
