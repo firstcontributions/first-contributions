@@ -24,6 +24,7 @@ Laura Langdon
 -[KurXZ](https://github.com/kurxz/)
 -[Jorge_Ar] (https://github.com/jamp-scp28)
 -[Derek hall](https://github.com/hderek22)
+-[Mohd Muzakkir Saifi] (https://github.com/muzakkirsaifi123)
 -[AungKhantTun](https://github.com/AungKhantTun)
 -[J Mcdonnell](https://github.com/DonkeyFeet00)
 -[Mallory Pitser](https://github.com/mpitser)
@@ -75,7 +76,6 @@ itay-guter
 -[Rajan Lodhiya]
 -[Urvi Singhal]
 -[Anas Muhammed]
--[Mohd Muzakkir Saifi] (https://github.com/muzakkirsaifi123)
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
