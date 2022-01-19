@@ -42,6 +42,7 @@ itay-guter
 -Mishank Kumar
 -Talib Hussain
 -GANESH
+-[Khang Vinh Pham](https://github.com/vkhangpham)
 -[Rajat Kumar](https://github.com/rajat844)
 -[Elijah Galahad](https://guthub.com/EGalahad)
 -[Shaocong Shi](https://github.com/scsbkhunt)
