@@ -15,6 +15,7 @@ Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Taise Miyazumi]
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
+-[Itish srivastava](https://github.com/Legendary-Person)
 -[MMT](https://github.com/MinMinThway)
 - [d-bst](https://github.com/d-bst)
 -[Red skull Coder](https://github.com/RedSkullCoder)
