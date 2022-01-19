@@ -38,6 +38,7 @@ itay-guter
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
 -Talib Hussain
+-Nathalie Weinstock
 -[Rajat Kumar](https://github.com/rajat844)
 -[Shaocong Shi](https://github.com/scsbkhunt)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
