@@ -1,8 +1,11 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Xin Wang](https://github.com/xw2519)
+- [Sanchit-Batra] (https://github.com/Sanchit-Batra)
+- [Anson Antony] (https://github.com/ansonantony)
 - [Alexander Marasco](https://github.com/Marascax)
+- [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
@@ -20,8 +23,10 @@ Laura Langdon
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
 -[Ayush panwar](https://github.com/PanwarAyush)
+-[Ajinkya Bhandare](https://github.com/0-Ajinkya)
 -[shiwam](https://github.com/orrgato)
 -[Alice Chen]
+-[Mohammed Shoaib](https://github.com/Mohammed-Shoaib01)
 -[William Ericson] (https://github.com/Apollo2203)
 -[Mrinaal Arora](https://github.com/aroramrinaal)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
@@ -39,6 +44,8 @@ itay-guter
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
 -Talib Hussain
+-GANESH
+-[Khang Vinh Pham](https://github.com/vkhangpham)
 -[Rajat Kumar](https://github.com/rajat844)
 -[Elijah Galahad](https://guthub.com/EGalahad)
 -[Shaocong Shi](https://github.com/scsbkhunt)
@@ -71,6 +78,7 @@ itay-guter
 -[Senthil Bala](https://github.com/besenthil)
 -[Remiferiaa](https://github.com/Remiferiaa)
 -[Benjamin Bruno](https://github.com/leckermatz79)
+- [Arnab Sharma](https://github.com/arnabsharma91)
 - Ricardo Camacho Mireles
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
@@ -117,10 +125,11 @@ itay-guter
 - [Ananthakrishnan K](https://github.com/k-ananthakrishnan)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
-- [Hrijul Chauhan] (https://github.com/HrijulChauhan)
+- [Hrijul Chauhan] (https://github.com/HrijulChauhan) 
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
 - [Sumon Dey](https://github.com/DeySmn)
 - [Kyaw Thu](https://github.com/evanch98)
+- [Ankita Dam](https://github.com/ankitadam)
 - [Aditya Priyanshu](https://github.com/Adityap-3055)
 - [Amar Panji Senjaya](https://github.com/amarps)
 - [Andrio](https://github.com/Andrio-Codes)
@@ -1481,6 +1490,7 @@ Nathalie Bonin
 - [Rhona] (https://github.com/rhonall)
 - [Bradtmoeller] (https://github.com/denschiro)
 - [scornaby-ufo]
+-[Zhen Wu] - Go Gators
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [Nimesha Chathurangi] (https://github.com/Nimesha1996)
@@ -4650,4 +4660,7 @@ Nathalie Bonin
 - [Andika Bahari](https://github.com/andikabahari)
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
+- [Ziming Yap](https://github.com/zimingyap)
+- [Atta Jahangiri](https://github.com/dreamson80)
+- [Jorge Silva] (https://github.com/jesv99)
 <!-- prettier-ignore-end -->
