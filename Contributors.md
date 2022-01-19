@@ -228,6 +228,7 @@ itay-guter
 - [Kathy Short](https://github.com/okshort)
 - [Pratik](https://github.com/pratikmdhr)
 - [syzwina](https://github.com/syzwina)
+- [mhaikalazizan] (https://github.com/mhaikalazizan)
 - [schmay33](https://github.com/schmay33)
 - [Tommy Son](https://github.com/TommyMynnSon)
   [Eric Duwe](https://github.com/ericduwe)
