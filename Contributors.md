@@ -267,6 +267,7 @@ itay-guter
 - [Aniruddha Shrikhande](https://github.com/blitzitout)
 - [zredb](https://github.com/zredb)
 sylucck
+- Joshua Hughes
 - Nikita
 - [Eugene]
 - Tito Ruiz
