@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
 - [Sylvain Laporte](https://github.com/Lyspal)
+- [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
