@@ -365,6 +365,7 @@ Jawadur
 - Reva Vijayn
 - Knauxu
 - Jess Hand
+- [Yusuf Al Muqaddami](https://github.com/yusufal-dev)
 - [Matthew Hand](https://github.com/HandMatt/)
 - [Tina Lambert] (https://github.com/tinalambert)
 - Andrew Freeman
