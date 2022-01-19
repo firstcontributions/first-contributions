@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
+- [Sylvain Laporte](https://github.com/Lyspal)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
