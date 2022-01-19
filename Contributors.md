@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Sanchit-Batra] (https://github.com/Sanchit-Batra)
 - [Alexander Marasco](https://github.com/Marascax)
 - [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
