@@ -10,8 +10,8 @@
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
-- [Furkan Kapukaya](https://github.com/furkankapukayaa)
 - [Manish Bajagai](https://github.com/manishbajagai2)
+- [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Taise Miyazumi]
