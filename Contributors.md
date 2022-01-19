@@ -3534,6 +3534,7 @@ Himanshu Dedha
 - [Nathaniel Grill](https://github.com/ncfgrill)
 - [J. Daniel F. Ruano](https://github.com/jezsdaniel)
 - [Cindy Conrad](https://github.com/syhndie)
+  [Rahul Yadav](https://github.com/itzrahulyadav)
 - [Margy Couper](https://github.com/wassupbonsai)
 - [Kate Follett](https://github.com/kateskips)
 - [Howard Wang](https://github.com/wjahoward)
