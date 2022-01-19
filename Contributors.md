@@ -247,7 +247,7 @@
   -Omar Maslamani
   -Chidiogo Onoh
   Jawadur
-- [Janki Patel](https://github.com/JankiShahPatel)
+- [Janki H Patel](https://github.com/JankiShahPatel)
 - VastoLordePy
 - [Brian Bawden]
   [Usman Naveed](https://github.com/usman-naveed)
