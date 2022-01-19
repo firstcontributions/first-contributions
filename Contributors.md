@@ -11,6 +11,7 @@
 - [Dipti Malla](https://github.com/diptimalla)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
+- [Riya Angira](https://github.com/Gwalib)
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Taise Miyazumi]
