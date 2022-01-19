@@ -4666,4 +4666,5 @@ Michael Wong
 - [Andika Bahari](https://github.com/andikabahari)
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
+- [Ziming Yap](https://github.com/zimingyap)
 <!-- prettier-ignore-end -->
