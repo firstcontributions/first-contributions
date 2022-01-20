@@ -16,6 +16,7 @@
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Taise Miyazumi]
+- [Eli Shumaker] (https://github.com/WormInTheDirt)
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[Itish srivastava](https://github.com/Legendary-Person)
 -[MMT](https://github.com/MinMinThway)
