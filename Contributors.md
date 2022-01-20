@@ -512,6 +512,7 @@ Justin Villena
 - Yaswant Krishna
 - Nicolas Perez
 - Ashish Suman
+- Kamil Roszuk
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
 - [D.S.]
