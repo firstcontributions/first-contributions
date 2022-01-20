@@ -4572,7 +4572,6 @@
 - [David Romero](https://github.com/Darolo13)
 - [Andika Bahari](https://github.com/andikabahari)
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
-- [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
 - [Ziming Yap](https://github.com/zimingyap)
 - [Atta Jahangiri](https://github.com/dreamson80)
 - [Jorge Silva] (https://github.com/jesv99)
