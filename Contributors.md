@@ -20,6 +20,7 @@
 Zelalem Tadesse
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
+-[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
 - [Eli Shumaker] (https://github.com/WormInTheDirt)
 - [Dev DeCoste] (https://github.com/DevDeCoste)
