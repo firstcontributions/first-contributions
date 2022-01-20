@@ -107,6 +107,7 @@ itay-guter
 -[Bolutife Lawrence](https://github.com/bolutife-lawrence)
 [Sanish Chirayath](https://github.com/sanishchirayath1)
 -[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
+  -Zuxiang Wang
 -[Nandan Kakadiya](https://github.com/Nandan26)
 - [Aboubacar Diawara](https://github.com/waradia09)
 -[Alekhya Gandu](https://github.com/dsLeks)
