@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Jon-Michael C](https://github.com/jon-michael-c)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Xin Wang](https://github.com/xw2519)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
