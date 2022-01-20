@@ -9,6 +9,7 @@
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
+- [Jose Angel Rodriguez](https://github.com/JosARodriguez)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Manish Bajagai](https://github.com/manishbajagai2)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
