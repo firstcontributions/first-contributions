@@ -902,6 +902,7 @@ yejashi
 - [dpmoody] https://github.com/Dan-Moody
 - [Willen Yang] (https://github.com/yangxile4)
 - [Keen1] (https://github.com/Keen1)
+- [John Vinh] (https://github.com/johnvinh)
 - [Deepmala Mittal] (https://github.com/deepmalamittal)
 - [SungHyun Kim] (https://github.com/SungHyun627)
 - [Sanchit Arora] (https://github.com/sanchitarorra)
