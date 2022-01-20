@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Xin Wang](https://github.com/xw2519)
+- [Harshit kumar yadav](https://github.com/harshit2123)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
 - [Anson Antony] (https://github.com/ansonantony)
 - [Alexander Marasco](https://github.com/Marascax)
