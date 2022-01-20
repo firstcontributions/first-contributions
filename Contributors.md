@@ -58,6 +58,7 @@ itay-guter
 -[Trenton Stetson](https://github.com/stetson912)
 -[Mayur Vaidya](https://github.com/mnvaidya)
 -[Joshua McElroy](https://github.com/tkdevil)
+- Jeya Iyadurai
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
 -[Donald Riedl](https://github.com/riedldsr)
