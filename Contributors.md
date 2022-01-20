@@ -14,6 +14,7 @@
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Manish Bajagai](https://github.com/manishbajagai2)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
+Zelalem Tadesse
 Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Taise Miyazumi]
