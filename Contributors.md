@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Jon-Michael C](https://github.com/jon-michael-c)
+- [Moaz Adel] (https://github.com/Moaz-Adel)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Xin Wang](https://github.com/xw2519)
 - [Harshit kumar yadav](https://github.com/harshit2123)
