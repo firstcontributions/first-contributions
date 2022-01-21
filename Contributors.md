@@ -4712,6 +4712,7 @@ Michael Wong
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
 - [Likhita Manchikanti] (https://github.com/likhitamanchikanti)
 - [Ziming Yap](https://github.com/zimingyap)
+- [Douglas Samuel](https://github.com/dousam)
 - [Atta Jahangiri](https://github.com/dreamson80)
 - [Jorge Silva] (https://github.com/jesv99)
 - [Sampreeth D] (https://github.com/sampreethD)
