@@ -4720,4 +4720,5 @@ Michael Wong
 - [Feril Sunu](https://github.com/ferilsunu)
 - [David Yarzebinski](https://github.com/coffeegerm)
 - [Saurav Gore] (https://github.com/sauravgore)
+- [Katie Tran] (https://github.com/Katie419)
 <!-- prettier-ignore-end -->
