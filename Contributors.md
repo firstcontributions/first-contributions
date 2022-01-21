@@ -15,6 +15,7 @@
 - [Alexander Marasco](https://github.com/Marascax)
 - [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
+- [Robert Drako](https://github.com/ericgchu)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
 - [Suhas Holla](https://github.com/suhashollakc)
