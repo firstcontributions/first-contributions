@@ -103,6 +103,7 @@ itay-guter
 - [Daniel Carroll](https://github.com/Krydan)
 -[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Senthil Bala](https://github.com/besenthil)
+-[Rashidat Jimoh] (https://github.com/RashidatJay)
 -[Remiferiaa](https://github.com/Remiferiaa)
 -[Benjamin Bruno](https://github.com/leckermatz79)
 - [Arnab Sharma](https://github.com/arnabsharma91)
