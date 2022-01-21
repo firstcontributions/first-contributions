@@ -4728,4 +4728,5 @@ Michael Wong
 - [David Yarzebinski](https://github.com/coffeegerm)
 - [Saurav Gore] (https://github.com/sauravgore)
 - [Katie Tran] (https://github.com/Katie419)
+- [Francesco Di Sciascio] (https://github.com/francescodisciascio)
 <!-- prettier-ignore-end -->
