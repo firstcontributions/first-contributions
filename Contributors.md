@@ -18,6 +18,7 @@
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Manish Bajagai](https://github.com/manishbajagai2)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
+- [Coding Monopoly](https://github.com/CodingMonopoly)
 Zelalem Tadesse
 [Kaleb Kohn]
 Laura Langdon
