@@ -29,6 +29,7 @@ Laura Langdon
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
 - [Eli Shumaker] (https://github.com/WormInTheDirt)
+-[Eric Chu] (https://github.com/ericgchu)
 - [Dev DeCoste] (https://github.com/DevDeCoste)
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[Itish srivastava](https://github.com/Legendary-Person)
