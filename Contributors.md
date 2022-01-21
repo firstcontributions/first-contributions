@@ -1464,6 +1464,7 @@ yejashi
 - [Jorge Araújo](https://github.com/laborim)
 - [Albert Osei Frimpong] (https://github.com/Alotab)
 - [Sheetal Patel](https://github.com/sheetal2001p)
+- [Mayur Rathod](https://github.com/rathodmayur93)
 - [Rudra Shah](https://github.com/scienceLabwork)
 - [Swapnil Nayak] (https://github.com/swapnilnyk10)
 - [Lily Tang](https://github.com/tang305)
