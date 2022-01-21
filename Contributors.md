@@ -59,7 +59,7 @@ itay-guter
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
 -Talib Hussain
--jack
+-[jack haben](https://github.com/jHaben)
 -GANESH
 -[Khang Vinh Pham](https://github.com/vkhangpham)
 -[Rajat Kumar](https://github.com/rajat844)
