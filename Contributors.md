@@ -98,6 +98,7 @@ itay-guter
 - [Arnab Sharma](https://github.com/arnabsharma91)
 - Ricardo Camacho Mireles
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
+-[Devendar](https://github.com/rawatd)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 -[Yonkwang Kim]
 -[Isaac Spiller]
