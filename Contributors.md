@@ -8,6 +8,7 @@
 - [Harshit kumar yadav](https://github.com/harshit2123)
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
 - [Markos Markakis](https://github.com/mmarkakis)
+- [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
 - [Anson Antony] (https://github.com/ansonantony)
 - [Alexander Marasco](https://github.com/Marascax)
