@@ -1,5 +1,5 @@
-
 # **Contributors**
+
 <!-- prettier-ignore-start -->
 - [Alexander Marasco](https://github.com/Marascax)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
@@ -24,7 +24,7 @@ Laura Langdon
 -[Sarah](https://github.com/sarah157)
 -[LPA](https://github.com/Lin-Pyae)
 itay-guter
--[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
+-[Nyan Linn Huet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
 -Talib Hussain
 -[Rajat Kumar](https://github.com/rajat844)
@@ -53,6 +53,7 @@ itay-guter
 -[Senthil Bala](https://github.com/besenthil)
 -[Remiferiaa](https://github.com/Remiferiaa)
 -[Benjamin Bruno](https://github.com/leckermatz79)
+-[Ricardo Delgado](https://github.com/rockcor0)
 - Ricardo Camacho Mireles
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
 - [Braddy Yeoh](https://github.com/yeohbraddy)
