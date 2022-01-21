@@ -23,6 +23,7 @@
 Zelalem Tadesse
 [Kaleb Kohn]
 Laura Langdon
+-[Rohit Saraff](https://github.com/anythingoes)
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
