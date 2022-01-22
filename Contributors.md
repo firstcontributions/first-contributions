@@ -4738,4 +4738,5 @@ Michael Wong
 - [Nathan Yee] (https://github.com/NathanYee412)
 - [Arion Dey] (https://github.com/Gravetide)
 - [Piotr Olearczyk] (https://github.com/picu63)
+- [Luis Fernando Novaes](https://github.com/lfmnovaes)
 <!-- prettier-ignore-end -->
