@@ -60,6 +60,7 @@ itay-guter
 -Mishank Kumar
 -Talib Hussain
 -jack
+-Aarav Shah
 -GANESH
 -[Khang Vinh Pham](https://github.com/vkhangpham)
 -[Rajat Kumar](https://github.com/rajat844)
