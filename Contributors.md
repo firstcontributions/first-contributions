@@ -21,6 +21,7 @@
 - [Dipti Malla](https://github.com/diptimalla)
 - [Suhas Holla](https://github.com/suhashollakc)
 - [Jose Angel Rodriguez](https://github.com/JosARodriguez)
+- [Khaled Matar](https://github.com/Matars)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Manish Bajagai](https://github.com/manishbajagai2)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
