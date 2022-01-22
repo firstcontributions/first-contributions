@@ -1526,6 +1526,7 @@ yejashi
 - [Chukwuemeka Aladimma] (https://github.com/Acel-01)
 - [Andrew Little] (https://github.com/mellodog )
 - [Akemi Murayama] (https://github.com:akemim12)
+- [Kieran Canter] (https://github.com/KieranCanter)
 - [pitta vamsi] (https://github.com/Pittavamsi)
 - [Amit Bhargava](https://github.com/ambhargava)
 - [Tamara W](https://github.com/Tam-star)
