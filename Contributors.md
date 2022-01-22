@@ -2,6 +2,8 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Xin Wang](https://github.com/xw2519)
+-gabrielle-Cannella
+
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
 - [Anson Antony] (https://github.com/ansonantony)
 - [Alexander Marasco](https://github.com/Marascax)
