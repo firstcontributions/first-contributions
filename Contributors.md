@@ -4730,4 +4730,5 @@ Michael Wong
 - [Saurav Gore] (https://github.com/sauravgore)
 - [Katie Tran] (https://github.com/Katie419)
 - [Francesco Di Sciascio] (https://github.com/francescodisciascio)
+- [Nathan Yee] (https://github.com/NathanYee412)
 <!-- prettier-ignore-end -->
