@@ -9,6 +9,7 @@
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
 - [Anson Antony] (https://github.com/ansonantony)
+- [Rushil Joshi] (https://github.com/rushiljoshi00)
 - [Alexander Marasco](https://github.com/Marascax)
 - [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
