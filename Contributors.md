@@ -4741,4 +4741,5 @@ Michael Wong
 - [Arion Dey] (https://github.com/Gravetide)
 - [Piotr Olearczyk] (https://github.com/picu63)
 - [Luis Fernando Novaes](https://github.com/lfmnovaes)
+- [George Rauta](https://github.com/GeorgeR227)
 <!-- prettier-ignore-end -->
