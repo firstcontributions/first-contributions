@@ -4733,4 +4733,5 @@ Michael Wong
 - [Katie Tran] (https://github.com/Katie419)
 - [Francesco Di Sciascio] (https://github.com/francescodisciascio)
 - [Nathan Yee] (https://github.com/NathanYee412)
+- [Arion Dey] (https://github.com/Gravetide)
 <!-- prettier-ignore-end -->
