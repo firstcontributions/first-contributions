@@ -4737,4 +4737,5 @@ Michael Wong
 - [Francesco Di Sciascio] (https://github.com/francescodisciascio)
 - [Nathan Yee] (https://github.com/NathanYee412)
 - [Arion Dey] (https://github.com/Gravetide)
+- [Ryuichi Maeda] (https://github.com/ryuichi-maeda)
 <!-- prettier-ignore-end -->
