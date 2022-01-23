@@ -4756,4 +4756,5 @@ Michael Wong
 - [Luis Fernando Novaes](https://github.com/lfmnovaes)
 - [George Rauta](https://github.com/GeorgeR227)
 - [Saumya](https://twitter.com/saumya1singh)
+- [Jaron Bauers](https://github.com/jaron-bauers)
 <!-- prettier-ignore-end -->
