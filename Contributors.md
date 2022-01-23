@@ -89,6 +89,7 @@ itay-guter
 -[Joshua McElroy](https://github.com/tkdevil)
 -[Bladimir Hernandez](https://github.com/blaherrod)
 - Jeya Iyadurai
+- [Harshit Gupta](https://github.com/hgupta12)
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Okey Ezeobele](https://github.com/OkeyEzeobele)
 -[Faheem](https://github.com/codeFaheem)
