@@ -6,6 +6,7 @@
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
+- [Paschal Maximillian](https://github.com/Pascal488)
 - [Xin Wang](https://github.com/xw2519)
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
