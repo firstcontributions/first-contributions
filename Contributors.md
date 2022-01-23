@@ -4747,6 +4747,7 @@ Michael Wong
 - [Shershon A J](https://github.com/Shershon25)
 - [Feril Sunu](https://github.com/ferilsunu)
 - [David Yarzebinski](https://github.com/coffeegerm)
+- [Federico Gottardi](https://github.com/fedegot)
 - [Saurav Gore] (https://github.com/sauravgore)
 - [Katie Tran] (https://github.com/Katie419)
 - [Francesco Di Sciascio] (https://github.com/francescodisciascio)
