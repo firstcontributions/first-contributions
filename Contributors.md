@@ -4,6 +4,7 @@
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Moaz Adel] (https://github.com/Moaz-Adel)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
+- [Davide A. Butera](https://github.com/davide-butera)
 - [Xin Wang](https://github.com/xw2519)
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
