@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Moaz Adel] (https://github.com/Moaz-Adel)
+- [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
 - [Xin Wang](https://github.com/xw2519)
