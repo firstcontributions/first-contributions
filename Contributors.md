@@ -41,6 +41,7 @@ Laura Langdon
 -[Andrew](https://github.com/0-Andrew-0/0-Andrew-0.github.io)
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Priyanshu Gautam](https://github.com/PriyanshuGautam1923)
+-Mayank Arya (https://github.com/Arya-Mayank)
 -[Iven Hartford] (https://github.com/ivenhartford)
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
