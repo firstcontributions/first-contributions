@@ -10,16 +10,16 @@ Mahirap. Laging mahirap sa unang beses ng anumang gawain. Lalo na sa isang kolab
 
 Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*, pero ano pa bang mas epektibong pamamaraan kaysa sa aktual na aplikasyon ng isang pagsasanay? Ang pangunahing pakay ng proyektong ito ay gabayan ang mga baguhan na gawin ang kanilang unang *contribution*. Kung ikaw ay isa sa mga taong iyon, sundin lang ang mga sumusunod na tagubilin.
 
-#### *Kung hindi ka komportable na gumamit ng *command line*, [ito ay mga tutorials gamit ang mga *GUI* tools.]( #tutorials-using-other-tools )*
+#### _Kung hindi ka komportable na gumamit ng **command line**, [ito ay mga tutorials gamit ang mga **GUI** tools.](#mga-tutorials-gamit-ang-ibang-tools)_
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Kung hindi naka-*install* ang *git* sa iyong kompyuter, [i-install mo](https://help.github.com/articles/set-up-git/).
+Kung hindi naka-*_install_ ang _git_ sa iyong kompyuter, [i-install mo](https://help.github.com/articles/set-up-git/).
 
 ## I-fork ang repository
 
-I-fork ang *repository* sa pamamagitan ng pag-click ng *fork* *button* na matatagpuan sa bandang itaas na kanan ng *webpage* na ito.
+I-fork ang *repository* sa pamamagitan ng pag-click ng *fork button* na matatagpuan sa bandang itaas na kanan ng *webpage* na ito.
 Magkakaroon na ng kopya ng *repository* na ito sa iyong account.
 
 ## I-clone ang repository
@@ -41,7 +41,7 @@ Halimbawa:
 ```
 git clone https://github.com/iyong-username/first-contributions.git
 ```
-kung saan ang `iyong-username` ang iyong username sa GitHub. Mula sa command na ito, dito nagsisimula ng paggawa ng kopya ng nilalaman ng first-contributions repository mula sa GitHub papunta sa iyong kompyuter.
+kung saan ang `iyong-username` ang iyong username sa GitHub. Mula sa command na ito, dito nagsisimula ang paggawa ng kopya ng nilalaman ng first-contributions repository mula sa GitHub papunta sa iyong kompyuter.
 
 ## Gumawa ng isang branch
 
@@ -63,7 +63,7 @@ git checkout -b dagdag-juan-dela-cruz
 
 ## Gumawa ng kinakailangan na pagbabago at i-commit ang mga natukoy na pagbabago
 
-Ngayon, buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan. Huwag mo idagdag sa simula o sa hulian ng tinutukoy na file. Ilagay sa kalagitnaan ng file. At i-save and file.
+Ngayon, buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan. Huwag mo idagdag sa simula o sa hulihan ng tinutukoy na file. Ilagay sa kalagitnaan ng file. At i-save and file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -79,9 +79,9 @@ git add Contributors.md
 
 Ngayon, i-commit ang mga nabagong files gamit ang `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <iyong-pangalan> to Contributors list"
 ```
-kung saan ang `<your-name>` ay ang iyong pangalan.
+kung saan ang `<iyong-pangalan>` ay ang iyong pangalan.
 
 ## I-push ang mga changes sa GitHub
 
@@ -89,11 +89,11 @@ I-push ang mga nabago mong files gamit ang command na `git push`:
 ```
 git push origin <dagdag-branch-name>
 ```
-kung saan ang `<dagdag-branch-name>` ay ang pangalan ng branch na naidagdag mo kani-kanila lang.
+kung saan ang `<dagdag-branch-name>` ay ang pangalan ng branch na naidagdag mo kani-kanina lang.
 
 ## I-submit ang changes para sa review
 
-Pumunta sa iyong repository sa GitHub at may makikita kang  `Compare & pull request` button, i-click mo ang tumutukoy na button.
+Pumunta sa iyong repository sa GitHub at may makikita kang  `Compare & pull request` button, i-click mo ang tinutukoy na button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -109,9 +109,9 @@ Congrats!  Nakumpleto mo ang standard _fork -> clone -> edit -> PR_ na workflow 
 
 I-celebrate ang iyong kontribusyon at i-share mo sa mga kaibigan at followers mo sa pagpunta sa [web app](https://firstcontributions.github.io/#social-share).
 
-Puwede ka rin sumama sa aming Slack team kung kailangan mo ng karagdagan tulong o gustong magtanong. [Sumama sa aming Slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Maaari ka rin sumama sa aming Slack team kung kailangan mo ng karagdagang tulong o gustong magtanong. [Sumama sa aming Slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng listahan ng mga proyekto na may madaling issues na puwedeng-puwede kang makisabay. Paki-visit lang [ang listahan mula sa web app](https://firstcontributions.github.io/#project-list).
+Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng listahan ng mga proyekto na may madaling issues na maaari mong pag-umpisahan. Paki-visit lang [ang listahan mula sa web app](https://firstcontributions.github.io/#project-list).
 
 ### [Mga karagdagan na materyal](../additional-material/git_workflow_scenarios/additional-material.md)
 
