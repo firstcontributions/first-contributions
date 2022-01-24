@@ -3607,6 +3607,7 @@ Himanshu Dedha
 - [Cindy Conrad](https://github.com/syhndie)
   [Rahul Yadav](https://github.com/itzrahulyadav)
 - [Margy Couper](https://github.com/wassupbonsai)
+- [Robert Ciotoiu](https://github.com/robertciotoiu)
 - [Kate Follett](https://github.com/kateskips)
 - [Howard Wang](https://github.com/wjahoward)
 - [Aidan Gibson](https://github.com/aidan-gibson)
