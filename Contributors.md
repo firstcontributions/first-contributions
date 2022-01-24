@@ -4507,6 +4507,7 @@ Michael Wong
 - Jonas Pena [MY BLOG](https://github.com/jonasp-dev)
 - [Shivang Mishra](https://github.com/ShivangM)
 - [Anca](https://github.com/aancaa)
+- [Sharika] (https:github.com/sharikakhondaker)
 - [Szy0127](https://github.com/Szy0127)
 - [vguo](https://github.com/vguo2037)
 - [Zander Bournand](https://github.com/ZanderBournand)
