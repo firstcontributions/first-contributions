@@ -4765,4 +4765,5 @@ Michael Wong
 - [Jaron Bauers](https://github.com/jaron-bauers)
 - [purplemicah](https://github.com/purplemicah)
 - [karren](https://github.com/slzr99kis)
+- [Quang Lam](https://github.com/trunkey2003)
 <!-- prettier-ignore-end -->
