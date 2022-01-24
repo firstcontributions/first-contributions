@@ -4770,5 +4770,6 @@ Michael Wong
 - [purplemicah](https://github.com/purplemicah)
 - [karren](https://github.com/slzr99kis)
 - [Quang Lam](https://github.com/trunkey2003)
+- [Cranberry Cheeze](https://github.com/cranberrycheeze)
 - [Sam Gerstner] (https://github.com/samgerstner)
 <!-- prettier-ignore-end -->
