@@ -3043,6 +3043,7 @@ Himanshu Dedha
 - [J. Daniel F. Ruano](https://github.com/jezsdaniel)
 - [Cindy Conrad](https://github.com/syhndie)
 - [Margy Couper](https://github.com/wassupbonsai)
+- [Robert Ciotoiu](https://github.com/robertciotoiu)
 - [Kate Follett](https://github.com/kateskips)
 - [Howard Wang](https://github.com/wjahoward)
 - [Aidan Gibson](https://github.com/aidan-gibson)
