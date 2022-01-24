@@ -4762,4 +4762,5 @@ Michael Wong
 - [Saumya](https://twitter.com/saumya1singh)
 - [Jaron Bauers](https://github.com/jaron-bauers)
 - [purplemicah](https://github.com/purplemicah)
+- [karren](https://github.com/slzr99kis)
 <!-- prettier-ignore-end -->
