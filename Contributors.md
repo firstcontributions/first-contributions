@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Jon-Michael C](https://github.com/jon-michael-c)
+- [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Moaz Adel] (https://github.com/Moaz-Adel)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
