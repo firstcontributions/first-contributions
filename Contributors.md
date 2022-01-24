@@ -4760,4 +4760,5 @@ Michael Wong
 - [George Rauta](https://github.com/GeorgeR227)
 - [Saumya](https://twitter.com/saumya1singh)
 - [Jaron Bauers](https://github.com/jaron-bauers)
+- [purplemicah](https://github.com/purplemicah)
 <!-- prettier-ignore-end -->
