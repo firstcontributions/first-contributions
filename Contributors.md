@@ -4448,6 +4448,7 @@ Michael Wong
 - [josh watkins](https://github.com/darkwolf86)
 - [SeawardSalmon6](https://github.com/seawardsalmon6)
 - [Tiago Geraldes]
+- [Khush Ramani](https://github.com/LynX-gh)
 - [S Palmer](https://github.com/s-palmer)
   [FaisalShakib] (https://github.com/FaisalShakib)
 - [Kaique Bondezan](https://github.com/kaiquebondezan)
