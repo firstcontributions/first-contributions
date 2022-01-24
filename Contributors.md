@@ -252,6 +252,7 @@ Dheeraj
 - [Matt Wheeler](https://github.com/wheelerMT)
 - [Amal Jos](https://github.com/eymaal)
 - [Srabon Khan](https://github.com/srabonkhan0461)
+- [Khush Ramani] (https://github.com/LynX-gh)
 - [Abby Anderson](https://github.com/abby-anderson)
 - [tejaswari7](https://github.com/tejaswari7)
 - [Dharuan Luigi](https://github.com/dharuanluigi)
