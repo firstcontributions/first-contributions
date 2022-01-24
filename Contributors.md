@@ -4762,6 +4762,7 @@ Michael Wong
 - [Katie Tran] (https://github.com/Katie419)
 - [Francesco Di Sciascio] (https://github.com/francescodisciascio)
 - [Nathan Yee] (https://github.com/NathanYee412)
+- [Wendyyasmim](https://github.com/Wendyyasmim)
 - [Arion Dey] (https://github.com/Gravetide)
 - [Piotr Olearczyk] (https://github.com/picu63)
 - [Akash Kapoor](https://github.com/akashkapoor1985/)
