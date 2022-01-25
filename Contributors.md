@@ -184,6 +184,7 @@ Dheeraj
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
 - [Hrijul Chauhan] (https://github.com/HrijulChauhan) 
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
+- [Sadnro Soncini](https://github.com/sandrosoncini)
 - [Samrath Chauhan](https://github.com/samrath49)
 - [Sumon Dey](https://github.com/DeySmn)
 - [Kyaw Thu](https://github.com/evanch98)
