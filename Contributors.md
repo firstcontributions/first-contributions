@@ -38,6 +38,7 @@ Christopher K Calahan Jr
 Zelalem Tadesse
 [Kaleb Kohn]
 Laura Langdon
+Olive
 - [Radhika Bansal] (https://github.com/Radhika403)
 - [Preetham Mothukuri](https://github.com/preetham-m)
 -[Rohit Saraff](https://github.com/anythingoes)
