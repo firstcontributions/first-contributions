@@ -4752,6 +4752,7 @@ Michael Wong
 - [David DeVore] (https://github.com/daviddevore)
 - [stickman]
 - [Joseph Lee](https://github.com/jooo-lee)
+- [Eray Alkış](https://github.com/Blissblass)
 - [Vibhanshu vaibhav](https://github.com/1jb16is118/)
 - [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
