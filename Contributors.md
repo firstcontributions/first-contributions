@@ -308,6 +308,7 @@ Dheeraj
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
 - [Manikanta Reddy Nayini](https://github.com/mreddyn)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
+- [Bailey Rosato] (https://github.com/baileyrosato)
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Emre Cetin](https://github.com/h-emre-cetin)
 - [Vicente Soriano] (http://github.com/vicente-s)
