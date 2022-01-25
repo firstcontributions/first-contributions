@@ -56,6 +56,7 @@ Caroline Fye
 -[Iven Hartford] (https://github.com/ivenhartford)
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
+-[William Mauck]
 -[Connor Swingle](https://github.com/Connor-S-Swingle)
 - [Eli Shumaker] (https://github.com/WormInTheDirt)
 -[Eric Chu] (https://github.com/ericgchu)
