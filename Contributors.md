@@ -96,6 +96,7 @@ Caroline Fye
 itay-guter
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
+-Terry Smith
 -Talib Hussain
 -jack
 -Aarav Shah
