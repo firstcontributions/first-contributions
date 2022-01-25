@@ -4781,4 +4781,5 @@ Michael Wong
 - [Quang Lam](https://github.com/trunkey2003)
 - [Cranberry Cheeze](https://github.com/cranberrycheeze)
 - [Sam Gerstner] (https://github.com/samgerstner)
+- [Gareth Carew] (https://github.com/GarethCarew/)
 <!-- prettier-ignore-end -->
