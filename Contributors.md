@@ -75,6 +75,7 @@ Caroline Fye
 -[Abhay](https://github.com/abhaypsamrat)
 -[Alice Chen]
 -[Gergana](https://github.com/gerito100)
+-[Stanley Cai]
 -[Mohammed Shoaib](https://github.com/Mohammed-Shoaib01)
 -[William Ericson] (https://github.com/Apollo2203)
 -[Mrinaal Arora](https://github.com/aroramrinaal)
