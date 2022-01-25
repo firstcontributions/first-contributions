@@ -168,6 +168,7 @@ itay-guter
   -Zuxiang Wang
 -[Nandan Kakadiya](https://github.com/Nandan26)
 - [Aboubacar Diawara](https://github.com/waradia09)
+-[JasonYamada](https://github.com/jtyamada)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
 -[Ravi prakash](https://github.com/321ravi)
