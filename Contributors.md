@@ -4641,6 +4641,7 @@ Michael Wong
 - [Sudipto Chakraborty](https://github.com/web-dot)
 - [Rithvik](https://github.com/rithvik78)
 - [chadhg](https://github.com/chadhg)
+- [Connor Kilgore](https://github.com/connor-kilgore)
 - [saeedmosavyzadeh](https://github.com/saeedmosavyzadeh)
 - [M Showkat](https://github.com/justshowkat)
 - [Lusengeri Anzagi](https://github.com/Lusengeri)
