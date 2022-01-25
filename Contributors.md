@@ -249,6 +249,7 @@ Dheeraj
 - [Jose Ozuna] (https://github.com/joseozuna48)
 - [Sudhan Gurav](https://github.com/JSudn)
 - [aditya7196] (https://github.com/aditya7196)
+- [Vinayak_RP](https://github.com/Vinayak730)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Andrew Mele](https://github.com/andrew-mele)
 - [Nithin Suresh](https://github.com/nithinkzy)
