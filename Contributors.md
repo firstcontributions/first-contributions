@@ -99,6 +99,7 @@ itay-guter
 -Talib Hussain
 -jack
 -Aarav Shah
+-Zachariah Derrick
 -GANESH
 -Adrian
 -[Khang Vinh Pham](https://github.com/vkhangpham)
