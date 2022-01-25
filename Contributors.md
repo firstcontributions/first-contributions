@@ -4786,4 +4786,5 @@ Michael Wong
 - [Cranberry Cheeze](https://github.com/cranberrycheeze)
 - [Sam Gerstner] (https://github.com/samgerstner)
 - [Gareth Carew] (https://github.com/GarethCarew/)
+- [Jayam Malviya] (https://github.com/midNight-jam)
 <!-- prettier-ignore-end -->
