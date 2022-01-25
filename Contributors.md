@@ -9,6 +9,7 @@
 - [Moaz Adel] (https://github.com/Moaz-Adel)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
+- [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
 - [Paschal Maximillian](https://github.com/Pascal488)
