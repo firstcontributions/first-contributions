@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Jon-Michael C](https://github.com/jon-michael-c)
+- [Martins Anerua](https://github.com/anerua)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Jeewon Lee](https://github.com/jjwlee94)
@@ -12,6 +13,7 @@
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
 - [Paschal Maximillian](https://github.com/Pascal488)
+- [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
@@ -36,12 +38,14 @@
 - [Khaled Matar](https://github.com/Matars)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
 - [Manish Bajagai](https://github.com/manishbajagai2)
+- [Shoaib Ahmed](https://github.com/shoaibahmed997)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 - [Coding Monopoly](https://github.com/CodingMonopoly)
-  Zelalem Tadesse
-  [Kaleb Kohn]
-  Laura Langdon
-  Caroline Fye
+Zelalem Tadesse
+[Kaleb Kohn]
+Luke Frazer
+Laura Langdon
+Caroline Fye
 - [Radhika Bansal] (https://github.com/Radhika403)
 - [Preetham Mothukuri](https://github.com/preetham-m) -[Rohit Saraff](https://github.com/anythingoes) -[Andrew](https://github.com/0-Andrew-0/0-Andrew-0.github.io) -[Anirvin Vaddiyar](https://github.com/anirvinv) -[Yilmaz Alpaslan](https://github.com/Yilmaz4) -[Priyanshu Gautam](https://github.com/PriyanshuGautam1923)
   -Mayank Arya (https://github.com/Arya-Mayank) -[Iven Hartford] (https://github.com/ivenhartford) -[Helena He](https://github.com/helarious99) -[Taise Miyazumi] -[Connor Swingle](https://github.com/Connor-S-Swingle)
@@ -139,6 +143,7 @@
 - [Jose Ozuna] (https://github.com/joseozuna48)
 - [Sudhan Gurav](https://github.com/JSudn)
 - [aditya7196] (https://github.com/aditya7196)
+- [Vinayak_RP](https://github.com/Vinayak730)
 - [Christian Abrokwa](https://github.com/Daquiver1)
 - [Andrew Mele](https://github.com/andrew-mele)
 - [Nithin Suresh](https://github.com/nithinkzy)
@@ -4365,6 +4370,7 @@
 - [Hunter Lawson] (https://github.com/hunterlawson)
 - [Michelle Gude](https://github.com/michellecgude)
 - [Md Jabir Hossain](https://github.com/skywalker-alt327)
+- [lbk](https://github.com/lee15253)
 - [Dharansh Neema](https://github.com/Dharansh-Neema)
 - [Sebastien Cailleau](https://github.com/Sebastien-Cailleau)
 - [ksat8384](https://github.com/ksat8384)
@@ -4621,6 +4627,7 @@
 - [David DeVore] (https://github.com/daviddevore)
 - [stickman]
 - [Joseph Lee](https://github.com/jooo-lee)
+- [Eray Alkış](https://github.com/Blissblass)
 - [Vibhanshu vaibhav](https://github.com/1jb16is118/)
 - [William Kan] (https://github.com/wkan17012021)
 - [Atharva Wasekar](https://github.com/Electric-Dragon/)
@@ -4661,4 +4668,8 @@
 - [Cranberry Cheeze](https://github.com/cranberrycheeze)
 - [Sam Gerstner] (https://github.com/samgerstner)
 - [Gareth Carew] (https://github.com/GarethCarew/)
+- [Raymond Zeaiter] (https://github.com/king-oldmate/)
+- [Jayam Malviya] (https://github.com/midNight-jam)
+- [Disha Verma] (https://github.com/dishaverma1)
+- [Ant2705](https://github.com/ant2705)
 <!-- prettier-ignore-end -->
