@@ -4755,7 +4755,6 @@ Michael Wong
 - [Francesco Di Sciascio] (https://github.com/francescodisciascio)
 - [Nathan Yee] (https://github.com/NathanYee412)
 - [Arion Dey] (https://github.com/Gravetide)
-anyunyao
 - [Piotr Olearczyk] (https://github.com/picu63)
 - [Akash Kapoor](https://github.com/akashkapoor1985/)
 - [Luis Fernando Novaes](https://github.com/lfmnovaes)
