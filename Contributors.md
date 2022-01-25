@@ -4768,4 +4768,5 @@ Michael Wong
 - [purplemicah](https://github.com/purplemicah)
 - [karren](https://github.com/slzr99kis)
 - [Quang Lam](https://github.com/trunkey2003)
+- [Okwara Victor](https://github.com/veektoh-win)
 <!-- prettier-ignore-end -->
