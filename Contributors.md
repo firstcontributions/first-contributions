@@ -38,6 +38,7 @@ Christopher K Calahan Jr
 - [Coding Monopoly](https://github.com/CodingMonopoly)
 Zelalem Tadesse
 [Kaleb Kohn]
+Luke Frazer
 Laura Langdon
 Caroline Fye
 - [Radhika Bansal] (https://github.com/Radhika403)
