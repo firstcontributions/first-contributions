@@ -4824,4 +4824,5 @@ Michael Wong
 - [Ant2705](https://github.com/ant2705)
 - [arhamymr](https://github.com/arhamymr)
 - [Charles Phil](https://github.com/charlesphil)
+- [Caleb Freitas](https://github.com/caleb-freitas)
 <!-- prettier-ignore-end -->
