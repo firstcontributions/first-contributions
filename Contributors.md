@@ -18,6 +18,7 @@
 - [Paschal Maximillian](https://github.com/Pascal488)
 - [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
+- [Ganesh Singh](https://github.com/GaneshSingh757)
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
 - [Marc Perlas](https://github.com/DadTech)
