@@ -62,6 +62,7 @@ Zelalem Tadesse
 Luke Frazer
 Laura Langdon
 Caroline Fye
+Gabrielle Jones
 - [Radhika Bansal] (https://github.com/Radhika403)
 - [Vinay Jain] (https://github.com/vinayjain18)
 - [Yash Navik] (https://github.com/Yashnavik)
