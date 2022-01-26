@@ -49,6 +49,7 @@ Christopher K Calahan Jr
 - [Shoaib Ahmed](https://github.com/shoaibahmed997)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 - [Coding Monopoly](https://github.com/CodingMonopoly)
+- [Amar Dura](https://github.com/dura-amar)
 Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
