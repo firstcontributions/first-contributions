@@ -4726,6 +4726,7 @@ Michael Wong
 - [Hal tunb ay] (https://github.com/haltunbay)
 - [Skandesh] (https://github.com/Randommmmmmmm)
 - [GuoYongHeng] (https://github.com/GuoYongHeng)
+- [Felix Levert] (https://github.com/felixlevert)
 - [Amit Raj](https://github.com/amit894)
 - [Frany](https://github.com/franchev)
 - [Tào Nhật Minh](https://github.com/Minh-tao)
