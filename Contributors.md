@@ -49,6 +49,7 @@ Luke Frazer
 Laura Langdon
 Caroline Fye
 - [Radhika Bansal] (https://github.com/Radhika403)
+- [Yash Navik] (https://github.com/Yashnavik)
 - [Preetham Mothukuri](https://github.com/preetham-m)
 -[Rohit Saraff](https://github.com/anythingoes)
 -[Andrew](https://github.com/0-Andrew-0/0-Andrew-0.github.io)
