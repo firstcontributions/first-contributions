@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Piotr Kowalski] (https://github.com/fatherJS)
 - [Jon-Michael C](https://github.com/jon-michael-c)
+- [Srinath Aravamudhan](https://github.com/fossSpirit)
 - [Martins Anerua](https://github.com/anerua)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
