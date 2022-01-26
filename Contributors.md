@@ -683,6 +683,7 @@ Tristan Bottone
 - [Jafar Jalilov](https://github.com/jafarjalilov)
 - [Conner Gallimore]
 - [Nishit Sheth](https://github.com/nishitinfo)
+Nathan Hill 
 - [Subhadeep Paul](https://github.com/white-peed)
 - [Dave Coleman](https://github.com/dave1c)
 - [Eduard Beiline] (https://github.com/Eduard953)
