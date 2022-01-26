@@ -21,6 +21,7 @@
 - [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
 - [Ganesh Singh](https://github.com/GaneshSingh757)
+- [Neeraj Baddula](https://github.com/neerajbaddula)
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
