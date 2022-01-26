@@ -2,7 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - Shubham Kanekal
-- [Piotr Kowalski] (https://github.com/fatherJS)
+- [Piotr Kowalski](https://github.com/fatherJS)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
 - [Martins Anerua](https://github.com/anerua)
@@ -17,6 +17,7 @@
 - [Kishane Lewis](https://github.com/cosisaxis)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
+- [Nick Rodriguez](https://github.com/NickkRodriguez)
 - [Paschal Maximillian](https://github.com/Pascal488)
 - [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
