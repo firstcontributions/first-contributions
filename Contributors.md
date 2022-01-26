@@ -57,6 +57,7 @@ Caroline Fye
 -[Priyanshu Gautam](https://github.com/PriyanshuGautam1923)
 -Mayank Arya (https://github.com/Arya-Mayank)
 -[Iven Hartford] (https://github.com/ivenhartford)
+-[Brandan Pratt] (https://github.com/brantheeman)
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
 -[William Mauck]
