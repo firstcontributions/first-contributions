@@ -42,12 +42,13 @@
 - [Rushil Joshi] (https://github.com/rushiljoshi00)
 Christopher K Calahan Jr
 - [Alexander Marasco](https://github.com/Marascax)
-- [Abhilipsa Sahoo](https://github.com/abhilipsasahoo03) 
+- [Abhilipsa Sahoo](https://github.com/abhilipsasahoo03)
 - [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Robert Drako](https://github.com/ericgchu)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
+[Will Melton] (http://github.com/willmelton21)
 - [Suhas Holla](https://github.com/suhashollakc)
 - [Jose Angel Rodriguez](https://github.com/JosARodriguez)
 - [Khaled Matar](https://github.com/Matars)
@@ -172,7 +173,7 @@ itay-guter
 -[Rohit](https://github.com/rohit27-2)
 -[Matt Brown](https://github.com/mjb-it)
 -[Dr Sheldon Liu](https://github.com/DrSheldonLiu)
--[Navya] 
+-[Navya]
 -[Gary Arzumanyan](https://github.com/garyarzuma/)
 -[Meka](https://github.com/Meka88)
 -[Kwofach] (https://github.com/kwofach)
@@ -183,7 +184,7 @@ itay-guter
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
 -Eli Barela
--[Javohir Uralov](https://github.com/javohir101dev/first-contributions) 
+-[Javohir Uralov](https://github.com/javohir101dev/first-contributions)
 -[JamesLee](https://github.com/Jamesleeeeeee)
 -[M.Robi](https://github.com/BeatBob)
 -[Juhani Rusi](https://github.com/juhanirusi)
@@ -217,7 +218,7 @@ itay-guter
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
 Dheeraj
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
-- [Hrijul Chauhan] (https://github.com/HrijulChauhan) 
+- [Hrijul Chauhan] (https://github.com/HrijulChauhan)
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
 - [Sadnro Soncini](https://github.com/sandrosoncini)
 - [Samrath Chauhan](https://github.com/samrath49)
@@ -362,7 +363,7 @@ Dheeraj
 - [Arif Mudi Priyatno] (https://github.com/arifmudi)
 - [srishti mittal] (https://github.com/mittal-srishti4)
 - [Jenny Klein]
-- [Sillix] 
+- [Sillix]
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
@@ -370,7 +371,7 @@ Dheeraj
 - [stkolanu] (https://github.com.stkolanu)
 - [Brandon Peeler] (https://github.com/disastrousspecialist)
 - [Si-off] (https://github.com/Si-off)
-- [stevie-strange] (https://github.com/stevie-strange) 
+- [stevie-strange] (https://github.com/stevie-strange)
 - [Dylan Frohling] (https://github.com/justrosy)
 - [Alicia Tiernan](https://github.com/AuroraBorealis97)
 - [Jay EPEP](https://github.com/eppp)
@@ -503,7 +504,7 @@ Jawadur
 - [Matias](https://github.com/Qatihc)
 - [Quinton] (https://github.com/qwiebe)
 - [Gabriel Bermudez](https://github.com/skinnii)
-- [Jaydip Pansuriya](https://github.com/jaydipPansuriya21) 
+- [Jaydip Pansuriya](https://github.com/jaydipPansuriya21)
 - [Daniel Weinshtein](https://github.com/Danielv8899)
 - [PixelZee](https://github.com/pixelzee3)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
@@ -552,7 +553,7 @@ Justin Villena
 - Relly Valentine
 - Odell Blackmon III
 - Karttekay Grover
-- Phi Doan 
+- Phi Doan
 - kishan Yadav
 - Zhiqing Qu
 - Prashant Bhapkar
@@ -569,7 +570,7 @@ Justin Villena
 - Nooh AlMahfoodhi (https://github.com/Noah-Comma)
 - chetan nada
 - Benjamin Gelok
-- Ben Winans 
+- Ben Winans
 - Yibo Kong
 - Simon Karofillidis
 - Sijia Li
@@ -598,7 +599,7 @@ Justin Villena
 - Courtney Hardy
 - Rachel Peterson
 - Yonas  Bahre
-- Ayush Krishnappa 
+- Ayush Krishnappa
 - Rosario Firmino Palazzolo
 -Arthur Berry
 - Jonathan Joseph
@@ -618,7 +619,7 @@ Justin Villena
 - [Malv93](https://github.com/Malv93)
 - [Edimara](https://github.com/edimarasantos)
 - [Carlos Briceno] (https://github.com/carlosbm14)
-- [Suraj Subramanian](https://github.com/suraj-subramanian) 
+- [Suraj Subramanian](https://github.com/suraj-subramanian)
 - [Ryan Stone](https://github.com/ryanpstone)
 - [Thomas Pena](https://github.com/thomaspr1205)
 - [Patrick Hunter](https://github.com/pehunter)
@@ -631,7 +632,7 @@ Justin Villena
 - Lukman Memon
 - [Bruce Maddux](https://github.com/knexprince)
 - [Cindy Lin](https://github.com/cindylin235)
-- [Khang Bui] (https://github.com/KhangHB) 
+- [Khang Bui] (https://github.com/KhangHB)
 - [Shivam Kumar](https://github.com/shi-ivam)
 - [Priyanshu Patwa](https://github.com/Priyanshu2022)
 - [Christopher_Dang](https://github.com/christopherdang)
@@ -984,7 +985,7 @@ yejashi
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
-- [rosa-xo](https://github.com/rosa-xo) 
+- [rosa-xo](https://github.com/rosa-xo)
 - [Ajmal-Roshan](https://github.com/ajuroshan)
 - [Hrushikesh Jadhav](https://github.com/rushikesh611)
 - [Marilyn Papadoopoulos](https://github.com/MarilynPapadopoulos)
@@ -3225,7 +3226,7 @@ Himanshu Dedha
 - [Jeferson Nolasco](https://github.com/jehnls)
 - [Zekun Wang](https://github.com/fEst1ck)
 - [Frama](https://github.com/FramaTHO)
-- Alan 
+- Alan
 - [Razo](https://github.com/razohayon)
 - [Nikhil Mehta](https://github.com/nsmehta)
 - [Aneena Shinoy](https://github.com/Aneena)
@@ -3937,7 +3938,7 @@ Himanshu Dedha
 - [JammUtkarsh](https://github.com/JammUtkarsh)
 - [João Rosso](https://github.com/joaorosso)
 - [Jinwoo](https://github.com/YangNaang2)
-- 
+-
 -_[Thiago Rider Augusto](https://github.com/thiagorider)
 - [Joseph Chan](https://github.com/jchanke)
 - [Win Chan](https://github.com/wincsw)
@@ -4491,7 +4492,7 @@ Michael Wong
 - [Ricardo Cruz](https://github.com/RickZurc)
 - [Jeff Weng](https://github.com/wengjn)
 - [Steve Toms](https://github.com/thermalhound)
-- [Satyam Sinha](https://github.com/satsin06) 
+- [Satyam Sinha](https://github.com/satsin06)
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
@@ -4634,7 +4635,7 @@ Michael Wong
 - [Dave D](https://github.com/Dnasty777)
 - [Samuel Roberson](https://github.com/swroberson)
 - Nikos Dupuy
-- Rymii M 
+- Rymii M
 - Mohammed Hasik
 - Jason Zhong
 - [Kyle Smith] (https://github.com/BrakeZap/)
