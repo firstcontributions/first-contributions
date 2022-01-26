@@ -2028,6 +2028,7 @@ Himanshu Dedha
 - [Harshit Bhat](https://github.com/harshitbhat)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - ymbus
+- [Shashwat Singh](https://github.com/EMUL8ER)
 - [Tyler Programs](https://github.com/Tyler-Programs)
 - [Dishant Singh](https://github.com/thisisdishant)
 - [Pete Davey](https://github.com/beefgravy)
