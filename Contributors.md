@@ -2479,6 +2479,7 @@ Himanshu Dedha
 - [aweliego](https://github.com/aweliego)
   [Blayne S  Gower II](https://github.com/BlaSGoII)
 - [BHKR](https://github.com/BHKR)
+- [Faltu Programmer](https://github.com/Faltu-Programmer)
 - [priyanshu](https://github.com/001priyanshu)
 - [Michael Swann](https://github.com/Ms1Dev)
 - [John Wanjema](https://github.com/johnwanjema)
