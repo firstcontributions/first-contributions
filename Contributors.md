@@ -6,6 +6,7 @@
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
 - [Martins Anerua](https://github.com/anerua)
+- [Ian Dennis](https://github.com/ind9-nau)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Moaz Adel] (https://github.com/Moaz-Adel)
