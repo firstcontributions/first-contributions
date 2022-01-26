@@ -151,6 +151,7 @@ itay-guter
 -[Genominus](https://github.com/Genominus)
 -[HAK](https://github.com/Genominus)
 -[Ming Ng](https://github.com/redconOne)
+-[Bradley Essegian](https://github.com/bradd07)
 -[Anas Jehani](https://github.com/Ajehani)
 -[Yosef Melul] (https://github.com/ymelul342)
 -[HninYuHlaing](https://github.com/miracleace)
