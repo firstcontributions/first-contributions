@@ -2648,6 +2648,7 @@ Himanshu Dedha
 - [Samuel Chukwuzube](https://github.com/pHoeniX-svg)
 - [glazed-torus](https://github.com/glazedtorus)
 - [Alyssa Alexander](https://github.com/alyssaalexander)
+- [Jitesh Shamdasani](https://github.com/Jeetu855)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Mehare](https://github.com/mystic-one)
 - [Tanzeel Khan](https://github.com/tanzeyl)
