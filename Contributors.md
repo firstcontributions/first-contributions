@@ -32,6 +32,7 @@
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
 - Chris McCorkle
+- [Sam Asher]
 - [Norm W] (https://github.com/otemon)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh] (http://github.com/kamaldeep0625)
