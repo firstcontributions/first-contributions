@@ -1,4 +1,3 @@
-
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Jon-Michael C](https://github.com/jon-michael-c)
@@ -21,6 +20,7 @@
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
+- [Angelina Kapiniaris](https://github.com/angelinakap2)
 - [Norm W] (https://github.com/otemon)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
