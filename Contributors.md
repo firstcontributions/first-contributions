@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Joshua](http://github.com/developingjay)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Martins Anerua](https://github.com/anerua)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
