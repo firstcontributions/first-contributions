@@ -35,7 +35,7 @@
 - [Sam Asher]
 - [Norm W] (https://github.com/otemon)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
-- [Kamaldeep Singh] (http://github.com/kamaldeep0625)
+- [Kamaldeep Singh](https://github.com/kamaldeep0625)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
 - [Anson Antony] (https://github.com/ansonantony)
 - [Rushil Joshi] (https://github.com/rushiljoshi00)
