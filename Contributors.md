@@ -1299,6 +1299,7 @@ yejashi
 - [Jose Chaparro](https://github.com/jchapar)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Christopher William Driggers-Ellis](https://github.com/CWDE615)
+- [Samuel Fye](https://github.com/henfye)
 - [Chandan M S](https://github.com/zac-candy)
 - [Arnav Puri](https://github.com/ArnavPuri)
 - [Shuto Osawa](https://github.com/ShutoOsawa)
