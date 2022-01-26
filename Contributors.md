@@ -32,6 +32,7 @@
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
 - Chris McCorkle
+- [Jason Zhang](https://github.com/ZSenZhang)
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Sam Asher]
 - [Norm W] (https://github.com/otemon)
