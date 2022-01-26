@@ -175,6 +175,7 @@ itay-guter
 -[JasonYamada](https://github.com/jtyamada)
 -[Alekhya Gandu](https://github.com/dsLeks)
 -[Ranjeet Mishra](https://github.com/ranjmishra)
+-[Erik Meier](https://github.com/errmeier)
 -[Ravi prakash](https://github.com/321ravi)
 [Gbegudu Joshua](https://github.com/jaykay04)
 -[Arin Santry](https://github.com/arin-santry)
