@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- Cameron K Montesano (https://github.com/ckmontesano)
+- Cameron Montesano (https://github.com/ckmontesano)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Piotr Kowalski](https://github.com/fatherJS)
