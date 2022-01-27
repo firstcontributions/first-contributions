@@ -727,6 +727,7 @@ Nathan Hill
 - James Smith
 - Jason Ghent
 - [Rahul Chari](https://github.com/rah-1)
+- [Laura C]
 - [Vinay]-[nothing]
 - [ce3team] (https://github.com/ce3team)
 -[Nirbyoleek Das](https://github.com/Nirbyoleek)
