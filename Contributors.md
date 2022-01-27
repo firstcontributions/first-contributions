@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Ricardo Chairez](https://github.com/RicardoChairez)
+- [Ricardo Chairez ](https://github.com/RicardoChairez)
 - Cameron Montesano (https://github.com/ckmontesano)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
