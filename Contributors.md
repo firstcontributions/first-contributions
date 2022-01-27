@@ -4852,4 +4852,5 @@ Michael Wong
 - [Charles Phil](https://github.com/charlesphil)
 - [Caleb Freitas](https://github.com/caleb-freitas)
 - [Sbundaz]
+- [Justin Eggan](https://github.com/RiceSchoolGitHub)
 <!-- prettier-ignore-end -->
