@@ -367,6 +367,7 @@ Dheeraj
 - [srishti mittal] (https://github.com/mittal-srishti4)
 - [Jenny Klein]
 - [Sillix] 
+- [xuyi]
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
