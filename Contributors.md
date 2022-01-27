@@ -126,6 +126,7 @@ itay-guter
 -Zachariah Derrick
 -GANESH
 -Adrian
+-[Ean Lockwood](https://github.com/eanlockwood)
 -[Khang Vinh Pham](https://github.com/vkhangpham)
 -[Rajat Kumar](https://github.com/rajat844)
 -[Elijah Galahad](https://guthub.com/EGalahad)
