@@ -125,6 +125,7 @@ itay-guter
 -Aarav Shah
 -Zachariah Derrick
 -GANESH
+-Dylan Motz
 -Adrian
 -[Ean Lockwood](https://github.com/eanlockwood)
 -[Khang Vinh Pham](https://github.com/vkhangpham)
