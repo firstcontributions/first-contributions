@@ -4867,4 +4867,5 @@ Michael Wong
 - [Caleb Freitas](https://github.com/caleb-freitas)
 - [Sbundaz]
 - [Justin Eggan](https://github.com/RiceSchoolGitHub)
+- [Nada Adel](https://github.com/nada-adel-mohamady)
 <!-- prettier-ignore-end -->
