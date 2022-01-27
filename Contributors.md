@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Piotr Kowalski] (https://github.com/fatherJS)
 - [Jon-Michael C](https://github.com/jon-michael-c)
