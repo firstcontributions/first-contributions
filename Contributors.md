@@ -36,6 +36,7 @@
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Sam Asher]
+- Jacob Olson
 - [Norm W] (https://github.com/otemon)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh] (http://github.com/kamaldeep0625)
