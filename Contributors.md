@@ -36,6 +36,7 @@
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
 - [Steve Slater](https://github.com/sjslater)
 - [Jean Didier Tarpaga](https://github.com/tarpagad)
+- [James_Robinson](https://github.com/JamesRobinson160552)
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
 - Chris McCorkle
