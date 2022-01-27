@@ -2216,6 +2216,7 @@ Himanshu Dedha
 - [Kalyan Chirla](https://github.com/kalyanchirla)
 - [Vubangsi Mercel](https://htithub.com/vmercel)
 - [Arnab Chattopadhyay](https://github.com/akbc1221)
+- [Valerie Russell](https://github.com/vruss14/)
 - [Kevin Aguilera](https://github.com/KevinDanae)
 - [Nayan Sabnis](https://github.com/nayans99)
 - [PhakphumV. Technolista](https://github.com/PhakphumV)
