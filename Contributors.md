@@ -571,6 +571,7 @@ Justin Villena
 - [Siawash Kasra ](https://github.com/siawashkasra)
 - [Ollie McVey](https://github.com/professor-maplle)
 - Isaiah Hernandez
+- Mugdhatanu Dev Goswami
 - Relly Valentine
 - Odell Blackmon III
 - Karttekay Grover
