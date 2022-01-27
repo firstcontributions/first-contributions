@@ -23,6 +23,7 @@
 - [Paschal Maximillian](https://github.com/Pascal488)
 - [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
+- [Nasya Valenzuela](https://github.com/nasyav)
 - [Ganesh Singh](https://github.com/GaneshSingh757)
 - [Neeraj Baddula](https://github.com/neerajbaddula)
 - [Nina Wang](https://github.com/ericgchu)
