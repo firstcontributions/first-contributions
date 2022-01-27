@@ -15,9 +15,11 @@
 - [Moaz Adel] (https://github.com/Moaz-Adel)
 - [Imran Yafith] (https://github.com/pixelfox01)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
+- [Jagrit Sharma] (https://github.com/JagritSharma06)
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Kishane Lewis](https://github.com/cosisaxis)
+- [HatimZ](https://github.com/HatimZ)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
 - [Nick Rodriguez](https://github.com/NickkRodriguez)
@@ -133,6 +135,7 @@ itay-guter
 -Terry Smith
 -Talib Hussain
 -jack
+-Freus01
 -Aarav Shah
 -Zachariah Derrick
 -GANESH
@@ -2957,6 +2960,7 @@ Himanshu Dedha
 - [Georg Magneshaugen](https://github.com/georgmagne)
 - [Abc Singh](https://github.com/achintya-cell)
 - [James Faith Shameh](https://github.com/blackpandan)
+- [Gulnur Kaztai]            (https://github.com/gulnurkaztai)
 - [Stany Vanhemelrijck (https://github.com/stanyvh)
 - [Regis Zaleman](https://github.com/TheRegge)
 - [Clayton Hamilton, PharmD](https://github.com/claytonjhamilton)
@@ -4867,4 +4871,5 @@ Michael Wong
 - [Caleb Freitas](https://github.com/caleb-freitas)
 - [Sbundaz]
 - [Justin Eggan](https://github.com/RiceSchoolGitHub)
+- [Nada Adel](https://github.com/nada-adel-mohamady)
 <!-- prettier-ignore-end -->
