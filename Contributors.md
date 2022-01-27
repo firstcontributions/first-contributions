@@ -18,6 +18,7 @@
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Kishane Lewis](https://github.com/cosisaxis)
+- [HatimZ](https://github.com/HatimZ)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
 - [Nick Rodriguez](https://github.com/NickkRodriguez)
