@@ -28,6 +28,7 @@
 - [Xin Wang](https://github.com/xw2519)
 - [Nasya Valenzuela](https://github.com/nasyav)
 - [Ganesh Singh](https://github.com/GaneshSingh757)
+- [Zac Bolton](https://github.com/zacharyabolton)
 - [Neeraj Baddula](https://github.com/neerajbaddula)
 - [Nina Wang](https://github.com/ericgchu)
 - [Harshit kumar yadav](https://github.com/harshit2123)
