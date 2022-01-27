@@ -2297,6 +2297,7 @@
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
+- [Manu Karki] (https://github.com/manukarki)
 - [sanket puhan](https://github.com/hacker-kyrie)
 - [Adesh Kumar](https://github.com/adeskmr)
 - [Lucas Zanin](https://github.com/LucasZan1n)
