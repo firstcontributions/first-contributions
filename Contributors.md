@@ -1810,6 +1810,7 @@ Aditya Agarwal
 - [Lowic Mangin](https://github.com/logic-fabric)
 - [mozkzki](https://github.com/mozkzki)
 - [Andrew Chambers](https://github.com/W3Dojo)
+- [Aisha Kapan](https://github.com/morkovka3)
 - [Andrea](https://github.com/andrea-genovese)
 - [Naing Tan Ba](https://github.com/Tranks27)
 - [Walt Downing](https://github.com/waltdowning)
