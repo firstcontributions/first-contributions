@@ -1212,6 +1212,7 @@ yejashi
 - [Marpureddy Saswat](https://github.com/Eren-Yeaager)
 - [Sauradip Sengupta](https://github.com/sauradip007)
 - [Chodak Chokphel]
+- [Lauren Rondenet](https://github.com/lrondenet)
 - [Marquise Hurtt] (https://github.com/DONMAAD)
 - [Luis Zarate](https://github.com/jlzaratec)
 - [Asra Jawaid](https://github.com/Asra2000)
