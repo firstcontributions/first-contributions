@@ -2125,6 +2125,7 @@ Himanshu Dedha
 - [Kevin S Manavalan](https://github.com/kevinmanavalan)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
 - [mountainchaser](https://github.com/mountainchaser)
+- [Gianluca De Cola](https://github.com/gianlucadecola)
 - [Rohit Gangwar](https://github.com/rohit8020/)
 - [Christopher](https://github.com/christopherlim98)
 - [Andrew Zelenski](https://github.com/AZelenski261)
