@@ -90,6 +90,7 @@ Gabrielle Jones
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
 -[Itish srivastava](https://github.com/Legendary-Person)
 -[MMT](https://github.com/MinMinThway)
+-Gagan kumar
 - [d-bst](https://github.com/d-bst)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
