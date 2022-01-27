@@ -37,6 +37,7 @@
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Sam Asher]
 - [Norm W] (https://github.com/otemon)
+- [Brian Ruiz]
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh] (http://github.com/kamaldeep0625)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
