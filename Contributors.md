@@ -44,6 +44,7 @@
 - [Daniel Isea](https://github.com/disea18)
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
+- [Davide Xie](https://github.com/Daxe9)
 - [Sam Asher]
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
