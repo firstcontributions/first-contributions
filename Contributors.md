@@ -41,6 +41,7 @@
 - [James_Robinson](https://github.com/JamesRobinson160552)
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
+- [Daniel Isea](https://github.com/disea18)
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Sam Asher]
