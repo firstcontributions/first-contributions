@@ -3581,6 +3581,7 @@ Himanshu Dedha
 - [iamtbc](https://github.com/iamtbc)
 - [Anshu Sinha](https://github.com/Sinha199)
 - [Joseph O.]
+- [ApplePieAngel]
 - [ran](https://github.com/skyan1278)
 - [smalltext](https://github.com/smalltext)
 - [polypixel](https://github.com/poly-pixel)
