@@ -292,6 +292,7 @@ Zack Bryant
 - [Vincent Obbeng](https://github.com/Vi-obb)
 - [The RainMan](https://github.com/TheRainManV2)
 - [Ashu Sharma](https://github.com/ashu-sharma07)
+- [Ashutosh Dwivedi](https://github.com/Ashu5)
 - [Manah Shetty](https://github.com/manahshetty)
 - [Kristofer Osterhout](https://github.com/kris-zekteck)
 - [The Coding Canal](https://github.com/TheCodingCanal)
