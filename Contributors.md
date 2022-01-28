@@ -1600,6 +1600,7 @@ yejashi
 - [Raghav Agrawal](https://github.com/agraghav26)
 - [Christine Amuzie](https://github.com/broaderimpact)
 - [Amogh Badugu](https://github.com/abadugu13/)
+- [Luis Carranza](https://github.com/Ulaznar)
 - [Osama Hamad](https://github.com/osHamad)
 - [Rayza Araujo](https://github.com/araujorayza)
 - [Nirbhay Chaplot](https://github.com/nirbhay12345)
