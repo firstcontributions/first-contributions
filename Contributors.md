@@ -89,6 +89,7 @@ Gabrielle Jones
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Yilmaz Alpaslan](https://github.com/Yilmaz4)
 -[Priyanshu Gautam](https://github.com/PriyanshuGautam1923)
+-[Mason Green]
 -Mayank Arya (https://github.com/Arya-Mayank)
 -[Iven Hartford] (https://github.com/ivenhartford)
 -[Brandan Pratt] (https://github.com/brantheeman)
