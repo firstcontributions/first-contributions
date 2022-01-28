@@ -4727,6 +4727,7 @@ Michael Wong
 - Wei
 - Chang
 - [Adnan Sait](https://github.com/Adnan-Sait)
+- [Amr](https://github.com/amromnia)
 - [Josh F](https://github.com/jdfo330)
 - [Ai King Sam](https://github.com/AI-King)
 - [Ashwin Kundeti](https://github.com/ashwin-k22)
