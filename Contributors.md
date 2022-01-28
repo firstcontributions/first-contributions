@@ -597,6 +597,7 @@ Justin Villena
 - Benjamin Gelok
 - Ben Winans 
 - Yibo Kong
+- [Soujanya Hazra](https://github.com/soujo)
 - Simon Karofillidis
 - Sijia Li
 - Mohit Tamang
