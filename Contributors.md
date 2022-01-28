@@ -10,6 +10,7 @@
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
 - [Martins Anerua](https://github.com/anerua)
 - [Ian Dennis](https://github.com/ind9-nau)
+- [Nihal Jain](https://github.com/NihalJain)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Moaz Adel] (https://github.com/Moaz-Adel)
