@@ -20,6 +20,7 @@
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Jagrit Sharma] (https://github.com/JagritSharma06)
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
+- [Robert-Loera](https://github.com/robert-loera)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Kishane Lewis](https://github.com/cosisaxis)
 - [HatimZ](https://github.com/HatimZ)
