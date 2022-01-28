@@ -4655,6 +4655,7 @@ Michael Wong
 - Eric Clayton
 - Kevin Tang
 - [Kelly Dheng] (https://github.com/kdheng)
+- [Tuan Dang] (https://github.com/tuan-dang-0)
 - Faizan Mohammad
 - [Jared Peterson](https://github.com/hobbitcakes)
 - [Zach Curran](https://github.com/curranzach)
