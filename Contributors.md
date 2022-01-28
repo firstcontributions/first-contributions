@@ -2311,6 +2311,7 @@ Himanshu Dedha
 - [Eliran Amar](https://github.com/eliranamar)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
+- [Berkay Eren Konuk](https://github.com/Berikai)
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Mubarak Bakarman] (https://github.com/mub-pro)
 - [Michael Haselberger](https://github.com/mhasel)
