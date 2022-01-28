@@ -4877,6 +4877,7 @@ Michael Wong
 - [Ant2705](https://github.com/ant2705)
 - [arhamymr](https://github.com/arhamymr)
 - [Charles Phil](https://github.com/charlesphil)
+-[William Qin] (http://githuhb.com/williamqzy)
 - [Caleb Freitas](https://github.com/caleb-freitas)
 - [Sbundaz]
 - [Justin Eggan](https://github.com/RiceSchoolGitHub)
