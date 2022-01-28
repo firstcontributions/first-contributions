@@ -205,6 +205,7 @@ itay-guter
 -[Urvi Singhal]
 -[Anas Muhammed]
 -[Seth Weaver] (https://github.com/Seth-Weaver)
+-[Anshul Nigam] (https://github.com/Anshul-13J/first-contributions.git)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
 -Eli Barela
