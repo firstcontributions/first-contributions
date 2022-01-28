@@ -34,6 +34,7 @@
 - [Zac Bolton](https://github.com/zacharyabolton)
 - [Neeraj Baddula](https://github.com/neerajbaddula)
 - [Nina Wang](https://github.com/ericgchu)
+- [Brian McAbee](https://github.com/brianmcabee/)
 - [Harshit kumar yadav](https://github.com/harshit2123)
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
 - [Marc Perlas](https://github.com/DadTech)
