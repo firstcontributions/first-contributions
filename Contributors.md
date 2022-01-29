@@ -222,6 +222,7 @@ itay-guter
 -[Gary Arzumanyan](https://github.com/garyarzuma/)
 -[Meka](https://github.com/Meka88)
 -[Kwofach] (https://github.com/kwofach)
+-[Akshay] (https://github.com/akshayakula)
 -[Rajan Lodhiya]
 -[Urvi Singhal]
 -[Anas Muhammed]
