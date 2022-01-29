@@ -57,6 +57,7 @@
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Davide Xie](https://github.com/Daxe9)
 - [Sam Asher]
+- [SHUBHAM JAUHARI](https://github.com/Jauhari-01)
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
 - [Brian Ruiz]
