@@ -69,6 +69,7 @@ Christopher K Calahan Jr
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Robert Drako](https://github.com/ericgchu)
 - [Haaris Khatri](https://github.com/haariskhatri)
+- [Annesh Samanta](https://github.com/annesh08)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Dipti Malla](https://github.com/diptimalla)
 - [Suhas Holla](https://github.com/suhashollakc)
