@@ -6,6 +6,7 @@
 - [Melvin J.](https://github.com/melvinj98)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
+- [Nodari Georges](https://github.com/N-Georges)
 - [Thushar Tom](https://github.com/THUSHARTOM)
 - [Chiemerie Ezechukwu](https://github.com/chiemerieezechukwu)
 - [Piotr Kowalski](https://github.com/fatherJS)
