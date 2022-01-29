@@ -38,6 +38,7 @@
 - [Davide A. Butera](https://github.com/davide-butera)
 - [Nick Rodriguez](https://github.com/NickkRodriguez)
 - [Paschal Maximillian](https://github.com/Pascal488)
+- [Mamosebetsi Kekae](https://github.com/shaymk1)
 - [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
 - [Nasya Valenzuela](https://github.com/nasyav)
