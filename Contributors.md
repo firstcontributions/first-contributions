@@ -12,6 +12,7 @@
 - [Siddharth Singh] (https://github.com/SidSin)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
+- -[Dhanvi Medha](https://github.com/jacobalternative)
 - [Martins Anerua](https://github.com/anerua)
 - [Ian Dennis](https://github.com/ind9-nau)
 - [Hafizul Haque](https://github.com/HafizulHaque)
