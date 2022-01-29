@@ -250,6 +250,7 @@ itay-guter
 -[Matt Weiss](https://github.com/mweiss427)
 -[Kelene Moore](https://github.com/keleneM)
 -[Rahul Pandit](https://github.com/skyislimit9218)
+-[Luqman Mti](https://github.com/Luqman-hub)
 - [Dein Dehouwer](https://github.com/redcodefox)
 - [Rahul Again](https://github.com/rah-1)
 -[Saiwunna21](https://github.com/SaiWunna21)
