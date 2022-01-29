@@ -1074,6 +1074,7 @@ yejashi
 - [Arminder Singh](https://github.com/dev-arminder)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
 - [Trevor James Geiger] (https://github.com/trevorgeiger)
+- [Kayla Oates] (https://github.com/KaylaOates)
 - [Gaurav Basu](https://github.com/gauravbasu6)
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
