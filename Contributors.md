@@ -101,6 +101,7 @@
 - [Data Khukhua] (https://github.com/DataKhukhua)
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
 - [Quynh Vo] (https://github.com/quynhhvo)
+  [Nitish Bhattacharjee](https://github.com/imnrb)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
 - [Kajal Jain] (https://github.com/kajaljain0206)
 - [Nabil El assal]  (https://github.com/nabil-e)
