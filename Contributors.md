@@ -78,6 +78,7 @@ Christopher K Calahan Jr
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 - [Coding Monopoly](https://github.com/CodingMonopoly)
 - [Amar Dura](https://github.com/dura-amar)
+- [Darshan Nere](https://github.com/darshannere)
 Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
