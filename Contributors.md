@@ -215,6 +215,7 @@ itay-guter
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 -[Yonkwang Kim]
 -[Isaac Spiller]
+-[John Hong] (https://github.com/jhong97)
 -[Rohit](https://github.com/rohit27-2)
 -[Matt Brown](https://github.com/mjb-it)
 -[Dr Sheldon Liu](https://github.com/DrSheldonLiu)
