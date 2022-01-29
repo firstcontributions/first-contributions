@@ -5,6 +5,7 @@
 - [Fernando Jorge](https://github.com/nandowastaken)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
+- [Thushar Tom](https://github.com/THUSHARTOM)
 - [Chiemerie Ezechukwu](https://github.com/chiemerieezechukwu)
 - [Piotr Kowalski](https://github.com/fatherJS)
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
