@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Fernando Jorge](https://github.com/nandowastaken)
+- [Melvin J.](https://github.com/melvinj98)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Thushar Tom](https://github.com/THUSHARTOM)
