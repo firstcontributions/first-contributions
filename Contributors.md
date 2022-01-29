@@ -4,6 +4,7 @@
 - Cameron Montesano (https://github.com/ckmontesano)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
+- [Chiemerie Ezechukwu](https://github.com/chiemerieezechukwu)
 - [Piotr Kowalski](https://github.com/fatherJS)
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
 - [Jon-Michael C](https://github.com/jon-michael-c)
