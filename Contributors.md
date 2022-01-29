@@ -25,6 +25,7 @@
 - [Robert-Loera](https://github.com/robert-loera)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Kishane Lewis](https://github.com/cosisaxis)
+- [Shaini Dasgupta](https://github.com/HOtTEa-bug)
 - [HatimZ](https://github.com/HatimZ)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 - [Davide A. Butera](https://github.com/davide-butera)
