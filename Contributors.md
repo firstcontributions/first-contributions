@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - Cameron Montesano (https://github.com/ckmontesano)
+- [Fernando Jorge](https://github.com/nandowastaken)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Piotr Kowalski](https://github.com/fatherJS)
