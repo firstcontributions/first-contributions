@@ -2085,6 +2085,7 @@ Himanshu Dedha
 - [Shubh Chudasama](https://github.com/c-shubh)
 - [Jens Jovellano](https://github.com/pizzanoodles)
 - [Harshit Bhat](https://github.com/harshitbhat)
+- [Joseph Adrian](https://github.com/MyGoodSir)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - ymbus
 - [Shashwat Singh](https://github.com/EMUL8ER)
