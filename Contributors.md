@@ -53,6 +53,7 @@
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
 - [Daniel Isea](https://github.com/disea18)
+- [Shubham Kaudewar](https://github.com/ShubhamKaudewar)
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Davide Xie](https://github.com/Daxe9)
