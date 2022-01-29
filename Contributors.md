@@ -16,7 +16,7 @@
 - [Nihal Jain](https://github.com/NihalJain)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
-- [Moaz Adel] (https://github.com/Moaz-Adel)
+- [nla] (https://github.com/NaingLynnAung9925)
 - [Imran Yafith] (https://github.com/pixelfox01)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Jagrit Sharma] (https://github.com/JagritSharma06)
