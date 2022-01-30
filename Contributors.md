@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Fernando Jorge](https://github.com/nandowastaken)
+- [Tanya] (https://github.com/Beta-test-initiation)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Chiemerie Ezechukwu](https://github.com/chiemerieezechukwu)
