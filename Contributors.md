@@ -683,6 +683,7 @@ Justin Villena
 - [taqro](https://github.com/taqro)
 - [Shon Santhosh](https://github.com/shonsanthosh)
 - [Hardik Patel](https://github.com/hardikgpatel)
+- [Bipin Gosain](https://github.com/bipinGosain)
 - [Mohit Kumar](https://github.com/itsmohitmkk)
 - [Zodd13](https://github.com/Zodd13)
 - [Kieran Ford](https://github.com/kieranford4805)
