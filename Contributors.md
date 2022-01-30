@@ -13,6 +13,7 @@
 - [Piotr Kowalski](https://github.com/fatherJS)
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
 - [Fumiya Goto](https://github.com/tofu2323)
+- [Fulosophy](https://github.com/mcolandrea)
 - [Jebus] (https://github.com/Jebushdd)
 - [Siddharth Singh] (https://github.com/SidSin)
 - [Jon-Michael C](https://github.com/jon-michael-c)
