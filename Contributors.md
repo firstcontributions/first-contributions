@@ -7,6 +7,7 @@
 - [Melvin J.](https://github.com/melvinj98)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
+- Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
 - [Thushar Tom](https://github.com/THUSHARTOM)
 - [Isaac Allinson] (https://github.com/IsaacA2151)
