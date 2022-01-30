@@ -402,6 +402,7 @@ Zack Bryant
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
 - [lordson fernando]
+- [Bryan Ortiz](https://github.com/ortizb)
 - [Vox]
 - [Amey Sawant](https://github.com/Amey0498)
 - [yewinag](https://github.com/yewinag)
