@@ -4938,4 +4938,5 @@ Michael Wong
 - [morphelinho](https://github.com/morphelinho)
 - [Imran Sasudin](https://github.com/ImranSasudin)
 - [tanushka lalwani](https://github.com/Tanushka11)
+- [Patrick Lin](https://github.com/pl728)
 <!-- prettier-ignore-end -->
