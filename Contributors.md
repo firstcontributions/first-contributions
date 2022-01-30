@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Fernando Jorge](https://github.com/nandowastaken)
-- [Tanya] (https://github.com/Beta-test-initiation)
+
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Chiemerie Ezechukwu](https://github.com/chiemerieezechukwu)
@@ -11,6 +11,7 @@
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
 - [Fumiya Goto](https://github.com/tofu2323)
 - [Jebus] (https://github.com/Jebushdd)
+- [Tanya] (https://github.com/Beta-test-initiation)
 - [Siddharth Singh] (https://github.com/SidSin)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
