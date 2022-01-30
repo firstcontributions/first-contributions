@@ -57,6 +57,7 @@
 - [Steve Slater](https://github.com/sjslater)
 - [Jean Didier Tarpaga](https://github.com/tarpagad)
 - [James_Robinson](https://github.com/JamesRobinson160552)
+- [Anthony D Wan](https://github.com/anthonydwan)
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
 - [Daniel Isea](https://github.com/disea18)
