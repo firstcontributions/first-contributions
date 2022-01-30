@@ -277,6 +277,7 @@ Dheeraj
 Zack Bryant
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
 - [Hrijul Chauhan] (https://github.com/HrijulChauhan) 
+- [phurba Lama] (https://github.com/phurbalama) 
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
 - [Sadnro Soncini](https://github.com/sandrosoncini)
 - [Samrath Chauhan](https://github.com/samrath49)
