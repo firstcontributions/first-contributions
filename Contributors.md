@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- Jesse Dixon 
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Melvin J.](https://github.com/melvinj98)
