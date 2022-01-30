@@ -44,7 +44,7 @@ Gde je umesto `this-is-you` upisano vaše korisničko ime. Ovim kopirate sadrža
 
 ## Pravljenje grane *branch*
 
-Prebacite se u radni rirektorijum na vašoj mašini:
+Prebacite se u radni direktorijum na vašoj mašini:
 ```
 cd first-contributions
 ```
@@ -89,7 +89,7 @@ gde umesto `<add-your-branch-name>` stavljate ime vašeg grananja.
 
 ## Pošaljite izmene na reviziju
 
-Ukoliko odete na repoyitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
+Ukoliko odete na repozitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
