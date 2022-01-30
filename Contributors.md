@@ -8,6 +8,7 @@
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
+- [Madeleine Macaulay](https://github.com/linbeannie)
 - [Martins Anerua](https://github.com/anerua)
 - [Ian Dennis](https://github.com/ind9-nau)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
