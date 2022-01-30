@@ -4944,4 +4944,5 @@ Michael Wong
 - [tanushka lalwani](https://github.com/Tanushka11)
 - [Patrick Lin](https://github.com/pl728)
 - [Rohan Kumar](https://github.com/Rohan-Kumar007)
+- [Artem Shnayder](https://github.com/teMAN66)
 <!-- prettier-ignore-end -->
