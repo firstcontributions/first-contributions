@@ -4951,4 +4951,5 @@ Michael Wong
 - [Rohan Kumar](https://github.com/Rohan-Kumar007)
 - [Artem Shnayder](https://github.com/teMAN66)
 - [Vaishnavi Ankaskar](https://github.com/Vaishnavi1411)
+- [Konstantin Shumkin](https://github.com/K98940)
 <!-- prettier-ignore-end -->
