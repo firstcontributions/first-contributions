@@ -1291,7 +1291,7 @@ yejashi
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
 - [Rini]
-- [Chase]
+- [ChaseE]
 - [IsmaFlippad](https://github.com/IsmaFlippad)
 - [Michael Huskey] (https://github.com/mhusk)
 - [Varun](https://github.com/Varun080)
