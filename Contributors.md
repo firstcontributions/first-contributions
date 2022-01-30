@@ -4948,4 +4948,5 @@ Michael Wong
 - [Patrick Lin](https://github.com/pl728)
 - [Rohan Kumar](https://github.com/Rohan-Kumar007)
 - [Artem Shnayder](https://github.com/teMAN66)
+- [Vaishnavi Ankaskar](https://github.com/Vaishnavi1411)
 <!-- prettier-ignore-end -->
