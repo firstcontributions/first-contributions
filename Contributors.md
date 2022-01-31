@@ -4972,4 +4972,5 @@ Michael Wong
 - [Manas Handore](https://github.com/Manas-H)
 - [Chen Haowei](https://github.com/ChenHaowei2008)
 - [prtdh] (https://github.com/prtdh)
+- [Kamden Rasmussen](https://github.com/kamden-rasmussen)
 <!-- prettier-ignore-end -->
