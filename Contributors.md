@@ -188,7 +188,6 @@ itay-guter
 -GANESH
 -Dylan Motz
 -Adrian
--NoweMt
 -[Ean Lockwood](https://github.com/eanlockwood)
 -[Khang Vinh Pham](https://github.com/vkhangpham)
 -[Rajat Kumar](https://github.com/rajat844)
@@ -537,6 +536,7 @@ Jawadur
   [Usman Naveed](https://github.com/usman-naveed)
 - [BooDeer](https://github.com/BooDeer)
 - Nithin
+- NoweMt
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
 - [Edson Canganjo](https://github.com/edsoncanganjo)
 - [Sean Lubbers](https://github.com/festizio)
