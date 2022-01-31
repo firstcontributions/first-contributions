@@ -35,6 +35,7 @@
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [nla] (https://github.com/NaingLynnAung9925)
+- [Evan Myllen] (https://github.com/muskievan95)
 - [Mohammed Daniyal] (https://github.com/danides450/first-contributions)
 - [Imran Yafith] (https://github.com/pixelfox01)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
