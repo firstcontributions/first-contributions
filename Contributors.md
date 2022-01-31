@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
@@ -32,9 +33,11 @@
 - [Ian Dennis](https://github.com/ind9-nau)
 - [Hafizul Haque](https://github.com/HafizulHaque)
 - [Nihal Jain](https://github.com/NihalJain)
+- [Udayan Kulkarni](https://github.com/Udayan853)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [nla] (https://github.com/NaingLynnAung9925)
+- [Evan Myllen] (https://github.com/muskievan95)
 - [Mohammed Daniyal] (https://github.com/danides450/first-contributions)
 - [Imran Yafith] (https://github.com/pixelfox01)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
