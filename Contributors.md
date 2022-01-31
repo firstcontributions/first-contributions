@@ -38,6 +38,7 @@
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
 - [Robert-Loera](https://github.com/robert-loera)
 - [Onur Bora Akman](https://github.com/onurborakman)
+- [Willy Trigg](https://github.com/williamgtrigg)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Kishane Lewis](https://github.com/cosisaxis)
 - [Shaini Dasgupta](https://github.com/HOtTEa-bug)
