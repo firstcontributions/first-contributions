@@ -11,6 +11,7 @@
 - [Melvin J.](https://github.com/melvinj98)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
+- [Mario Medina] (https://github.com/Magic-Mario)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
 - [Thushar Tom](https://github.com/THUSHARTOM)
