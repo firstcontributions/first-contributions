@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
+- [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Fernando Jorge](https://github.com/nandowastaken)
