@@ -997,6 +997,7 @@ yejashi
 - [CJ Wow](https://github.com/scope2018)
   [Rickd](https://github.com/rickd-uk)
 - [Krishna Sruthi Velaga] (https://github.com/KSruthiVel)
+-[IzzyHatake](https://github.com/israel1jol)
 - [Melvin Gilis](https://github.com/melvinxeu)
 - [Samuel Missonnier](https://github.com/samuelmissonnier)
 - [Trevor Katemba](https://github.com/tkatemb)
