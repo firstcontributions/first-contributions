@@ -4965,4 +4965,5 @@ Michael Wong
 - [Vaishnavi Ankaskar](https://github.com/Vaishnavi1411)
 - [Konstantin Shumkin](https://github.com/K98940)
 - [Manas Handore](https://github.com/Manas-H)
+- [Chen Haowei](https://github.com/ChenHaowei2008)
 <!-- prettier-ignore-end -->
