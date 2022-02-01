@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
+- [Tom A] (https://github.com/us3rT0m/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
@@ -91,6 +92,7 @@
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
 - [Brian Ruiz]
+- [Bref] (https://github.com/bref1306)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh](https://github.com/kamaldeep0625)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
@@ -4977,6 +4979,7 @@ Michael Wong
 - [Patrick Lin](https://github.com/pl728)
 - [Rohan Kumar](https://github.com/Rohan-Kumar007)
 - [Artem Shnayder](https://github.com/teMAN66)
+- [Luc LE COUTOUR](https://github.com/luc-lecoutour)
 - [Vaishnavi Ankaskar](https://github.com/Vaishnavi1411)
 - [Konstantin Shumkin](https://github.com/K98940)
 - [Nikita Kiselev](https://github.com/Nikita-Kiselev)
@@ -4986,6 +4989,5 @@ Michael Wong
 - [Kamden Rasmussen](https://github.com/kamden-rasmussen)
 - [Jon Sinwell](https://github.com/jsinwell)
 - [Himanshu Jangid](https://github.com/himanshurajora)
-
-
+- [Mathilde Grimal](https://github.com/mathildegrimal)
 <!-- prettier-ignore-end -->
