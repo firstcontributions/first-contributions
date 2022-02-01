@@ -1025,6 +1025,7 @@ yejashi
 - [John Tettis](https://github.com/john-tettis):)
 - [Steve Sayantan](https://github.com/SteveSayantan)
 - [Sheroz Samatov](https://github.com/sherozsamatov) 👋
+- [Sammy White] (https://github.com/SammyWhite000)
 - [Isi Atash](https://github.com/Isi-Atash)
 - [joshmal9999](https://github.com/joshmal9999)
 - [Rawan Alazazi](https://github.com/rawanazazi12)
