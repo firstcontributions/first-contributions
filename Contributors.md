@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
-- [Antonin VAL] (https://github.com/Antonin-dev)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
@@ -93,6 +92,7 @@
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
 - [Brian Ruiz]
+- [Bref] (https://github.com/bref1306)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh](https://github.com/kamaldeep0625)
 - [Sanchit-Batra] (https://github.com/Sanchit-Batra)
@@ -127,6 +127,8 @@
   Laura Langdon
   Caroline Fye
   Gabrielle Jones
+ - [Antonin VAL] (https://github.com/Antonin-dev)
+- [Tom A] (https://github.com/us3rT0m/)
 - [Suhas M L]
 - [Radhika Bansal] (https://github.com/Radhika403)
 - [Vinay Jain] (https://github.com/vinayjain18)
@@ -4832,6 +4834,7 @@
 - [Patrick Lin](https://github.com/pl728)
 - [Rohan Kumar](https://github.com/Rohan-Kumar007)
 - [Artem Shnayder](https://github.com/teMAN66)
+- [Luc LE COUTOUR](https://github.com/luc-lecoutour)
 - [Vaishnavi Ankaskar](https://github.com/Vaishnavi1411)
 - [Konstantin Shumkin](https://github.com/K98940)
 - [Nikita Kiselev](https://github.com/Nikita-Kiselev)
