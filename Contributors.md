@@ -13,6 +13,7 @@
 - Shubham Kanekal
 - [Mario Medina] (https://github.com/Magic-Mario)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
+- [Siddhant Gambhir] (https://github.com/sidGambhir)
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
 - [Thushar Tom](https://github.com/THUSHARTOM)
 - [Isaac Allinson] (https://github.com/IsaacA2151)
