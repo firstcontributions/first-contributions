@@ -303,6 +303,7 @@ Zack Bryant
 - [phurba Lama] (https://github.com/phurbalama) 
 - [Swaroop Bharadwaj](https://github.com/swaroopb2001)
 - [Sadnro Soncini](https://github.com/sandrosoncini)
+- [Ankit Kaushal](https://github.com/ankit5577)
 - [Samrath Chauhan](https://github.com/samrath49)
 - [Sumon Dey](https://github.com/DeySmn)
 - [Kyaw Thu](https://github.com/evanch98)
