@@ -2374,6 +2374,7 @@ Himanshu Dedha
 - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Pius]
+- [Grant Prater](https://github.com/zytron3)
 - [Frank Minichiello](https://github.com/fmini)
 - [Hridoy Das](https://github.com/Hridoy-Das9)
 - [SillyLily1313](https://github.com/SillyLily1313)
