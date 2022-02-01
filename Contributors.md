@@ -9,6 +9,7 @@
 - [GETTUM] (https://github.com/GETTUM)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Melvin J.](https://github.com/melvinj98)
+- [Ayyoub Hamame] (https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Mario Medina] (https://github.com/Magic-Mario)
