@@ -482,6 +482,7 @@ sylucck
 - Kshitij Barnwal
 - Brian Xu
 - Victor
+- [**Julien Coudert Aka Solid**](https://github.com/judev34)
 - James Loewen
 - Caitlynne Kezys
 - David Zheng
