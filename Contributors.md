@@ -4982,4 +4982,5 @@ Michael Wong
 - [prtdh] (https://github.com/prtdh)
 - [Kamden Rasmussen](https://github.com/kamden-rasmussen)
 - [Jon Sinwell](https://github.com/jsinwell)
+- [Himanshu Jangid](https://github.com/himanshurajora)
 <!-- prettier-ignore-end -->
