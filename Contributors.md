@@ -34,6 +34,7 @@
 - [Nihal Jain](https://github.com/NihalJain)
 - [Udayan Kulkarni](https://github.com/Udayan853)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
+- [Eric Matelyan](https://github.com/samurainstein)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [nla] (https://github.com/NaingLynnAung9925)
 - [Evan Myllen] (https://github.com/muskievan95)
