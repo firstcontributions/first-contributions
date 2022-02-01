@@ -293,6 +293,7 @@ itay-guter
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Ananthakrishnan K](https://github.com/k-ananthakrishnan)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
+- [Damien Lhaurado](https://github.com/DamienDeveloppeur)
 Dheeraj
 Zack Bryant
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
@@ -4985,4 +4986,6 @@ Michael Wong
 - [Kamden Rasmussen](https://github.com/kamden-rasmussen)
 - [Jon Sinwell](https://github.com/jsinwell)
 - [Himanshu Jangid](https://github.com/himanshurajora)
+
+
 <!-- prettier-ignore-end -->
