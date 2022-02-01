@@ -4,6 +4,7 @@
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Tom A] (https://github.com/us3rT0m/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
+- [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Leah Hynes](https://github.com/TylerHynes)
