@@ -4964,6 +4964,6 @@ Michael Wong
 - [Artem Shnayder](https://github.com/teMAN66)
 - [Vaishnavi Ankaskar](https://github.com/Vaishnavi1411)
 - [Konstantin Shumkin](https://github.com/K98940)
-- [Manas Handore](https://github.com/Manas-H)
 - [Nikita Kiselev](https://github.com/Nikita-Kiselev)
+- [Manas Handore](https://github.com/Manas-H)
 <!-- prettier-ignore-end -->
