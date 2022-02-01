@@ -4978,4 +4978,5 @@ Michael Wong
 - [Chen Haowei](https://github.com/ChenHaowei2008)
 - [prtdh] (https://github.com/prtdh)
 - [Kamden Rasmussen](https://github.com/kamden-rasmussen)
+- [Jon Sinwell](https://github.com/jsinwell)
 <!-- prettier-ignore-end -->
