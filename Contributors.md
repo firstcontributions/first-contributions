@@ -4999,4 +4999,5 @@ Michael Wong
 - [Mathilde Grimal](https://github.com/mathildegrimal)
 - [Shamsuddeen](https://github.com/shamsu07)
 - [Max tools](https://github.com/maxtools)
+- [Tim Ellis](https://github.com/timmellis)
 - <!-- prettier-ignore-end -->
