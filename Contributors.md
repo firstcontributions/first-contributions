@@ -4997,4 +4997,5 @@ Michael Wong
 - [Dorian JC]
 - [Mathilde Grimal](https://github.com/mathildegrimal)
 - [Shamsuddeen](https://github.com/shamsu07)
+- [Max tools](https://github.com/maxtools)
 - <!-- prettier-ignore-end -->
