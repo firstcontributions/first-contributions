@@ -6,6 +6,7 @@
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Leah Hynes](https://github.com/TylerHynes)
+- [Mohammed Sanan Moinuddin](https://github.com/sananm)
 - [GETTUM] (https://github.com/GETTUM)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Melvin J.](https://github.com/melvinj98)
