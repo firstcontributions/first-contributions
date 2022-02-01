@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
+- [Tom A] (https://github.com/us3rT0m/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
