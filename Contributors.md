@@ -4985,4 +4985,5 @@ Michael Wong
 - [Kamden Rasmussen](https://github.com/kamden-rasmussen)
 - [Jon Sinwell](https://github.com/jsinwell)
 - [Himanshu Jangid](https://github.com/himanshurajora)
+- [Lise Guichard](https://github.com/Lise23)
 <!-- prettier-ignore-end -->
