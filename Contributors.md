@@ -4994,4 +4994,5 @@ Michael Wong
 - [Himanshu Jangid](https://github.com/himanshurajora)
 - [Dorian JC]
 - [Mathilde Grimal](https://github.com/mathildegrimal)
-<!-- prettier-ignore-end -->
+- [Shamsuddeen](https://github.com/shamsu07)
+- <!-- prettier-ignore-end -->
