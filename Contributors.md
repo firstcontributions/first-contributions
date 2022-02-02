@@ -5020,4 +5020,5 @@ Michael Wong
 - [Tim Ellis](https://github.com/timmellis)
 - [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
 - [Manuel Bento](https://github.com/manuelbento19)
+- [Maxime Noah Aldahan](https://github.com/DatBoiSaix)
 - <!-- prettier-ignore-end -->
