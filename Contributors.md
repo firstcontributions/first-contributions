@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [David Sampimon] )(https://github.com/davidsampimon/)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
