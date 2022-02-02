@@ -3,6 +3,7 @@
 - [Matt Herman](https://github.com/mhermandesign)
 - Anh Huynh
 - Sumit Rana
+- [Nitai Banik](https://github.com/NitaiBanik)
 - [Kis9a](https://github.com/kis9a)
 - Jeremy
 - [Mahmudul Hasan](https://github.com/mhasansoft)
