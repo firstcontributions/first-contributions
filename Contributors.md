@@ -431,6 +431,7 @@ Zack Bryant
   [Eric Duwe](https://github.com/ericduwe)
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
+- [Viss]
 - [lordson fernando]
 - [Bryan Ortiz](https://github.com/ortizb)
 - [Vox]
