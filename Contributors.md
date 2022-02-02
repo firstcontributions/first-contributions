@@ -2203,6 +2203,7 @@ Himanshu Dedha
 - [Tanishq Sardana](https://github.com/tanishqsardana)
 - [Md Adil Irshad] (https://github.com/adil14788)
 - [BladeMaster]
+- [Mikołaj Jurecki](https://github.com/La-vendor)
 - [Sudhansu Toppo] (https://github.com/sudhansukinng)
 - [Pranav Wadhwa](https://github.com/nav-28)
 - [Muhammed Hilal](https://github.com/hilalsidhic)
