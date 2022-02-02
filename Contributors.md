@@ -98,6 +98,7 @@
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
 - [Brian Ruiz]
+- [Bijil Subhash] (https://github.com/bijilsubhash)
 - [Bref] (https://github.com/bref1306)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh](https://github.com/kamaldeep0625)
