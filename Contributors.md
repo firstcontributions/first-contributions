@@ -4989,6 +4989,7 @@ Michael Wong
 - [arhamymr](https://github.com/arhamymr)
 - [Charles Phil](https://github.com/charlesphil)
 -[William Qin] (http://githuhb.com/williamqzy)
+- [John Creedon] (https://github.com/dcreedon)
 - [Caleb Freitas](https://github.com/caleb-freitas)
 - [Sbundaz]
 - [Justin Eggan](https://github.com/RiceSchoolGitHub)
@@ -5020,5 +5021,4 @@ Michael Wong
 - [Tim Ellis](https://github.com/timmellis)
 - [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
 - [Manuel Bento](https://github.com/manuelbento19)
-- [John Creedon] (https://github.com/dcreedon)
 - <!-- prettier-ignore-end -->
