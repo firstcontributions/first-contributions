@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [David Sampimon] )(https://github.com/davidsampimon/)
+- [Naiden Radnev] (https://github.com/naiiiden)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Raden Salman] (https://github.com/RadenSalman)
