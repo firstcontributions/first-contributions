@@ -1,19 +1,19 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Muhammad Qazi] (https://github.com/muhammadqazi)
-- [Tom A] (https://github.com/us3rT0m/)
-- [Lauro Bernardo Jr] (https://github.com/lbernardojr)
-- [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
-- [Lrabbit] (https://github.com/litter-rabbit)
-- Cameron Montesano (https://github.com/ckmontesano)
+- [Muhammad Qazi](https://github.com/muhammadqazi)
+- [Tom A](https://github.com/us3rT0m/)
+- [Lauro Bernardo Jr](https://github.com/lbernardojr)
+- [Chuan Tan](https://github.com/Tan-Hwai-Chuan)
+- [Lrabbit](https://github.com/litter-rabbit)
+- Cameron Montesano(https://github.com/ckmontesano)
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
-- [GETTUM] (https://github.com/GETTUM)
+- [GETTUM](https://github.com/GETTUM)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
-- [Ayyoub Hamame] (https://github.com/bouyyah)
+- [Ayyoub Hamame](https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
 - [Mario Medina] (https://github.com/Magic-Mario)
