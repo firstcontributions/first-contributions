@@ -2227,6 +2227,7 @@ Himanshu Dedha
 - [Shivam Choudhary](https://github.com/ShivamChoudhary17)
 - [Aman](https://github.com/av-feaster)
 - [Cecily Liu](https://github.com/QianyuCecilyLiu)
+- [Jared Stull](https://github.com/Jared29)
 - [Aaditya Prasad](https://github.com/aaditya9899)
 - [tonim19](https://github.com/tonim19)
 - [Zhipeng He](https://github.com/ZhipengHe)
