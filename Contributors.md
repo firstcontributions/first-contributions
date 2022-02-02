@@ -5011,4 +5011,5 @@ Michael Wong
 - [Shamsuddeen](https://github.com/shamsu07)
 - [Max tools](https://github.com/maxtools)
 - [Tim Ellis](https://github.com/timmellis)
+- [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
 - <!-- prettier-ignore-end -->
