@@ -127,6 +127,7 @@ Christopher K Calahan Jr
 - [Coding Monopoly](https://github.com/CodingMonopoly)
 - [Amar Dura](https://github.com/dura-amar)
 - [Darshan Nere](https://github.com/darshannere)
+- [Connor McGoey](https://github.com/Cmcgoey3)
 Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
