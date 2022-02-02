@@ -3,10 +3,12 @@
 <!-- prettier-ignore-start -->
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Naiden Radnev] (https://github.com/naiiiden)
+- [Jandir Porta] (https://github.com/jandirdlctm)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
+- [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
 - [Lrabbit] (https://github.com/litter-rabbit)
@@ -14,6 +16,7 @@
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
 - [GETTUM] (https://github.com/GETTUM)
+- [Julien Von Der Marck](https://github.com/jvondermarck)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
@@ -871,6 +874,7 @@ Nathan Hill
 - [Eddie Ferro] (https://github.com/EddieFerro)
 - [JGM01] (https://github.com/JGM01/)
 - [Jenny Wang](https://github.com/jennywang23)
+- [Dylan Power](https://github.com/dylan-power)
 - [Dhanush Nadella](https://github.com/dnadella787)
 - [Tyler Leonard](https://github.com/tylerleonard5)
 - [Siddhesh Bangar](https://github.com/SiddheshBangar)
@@ -1985,6 +1989,7 @@ Pranjal
 - [Handika Harianto Ew Jong](https://github.com/handikaharianto)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Javier Aravena](https://github.com/Javier190)
+- [Kian Cliffe](https://github.com/kiancliffe)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
 -[Devashish Daharia] https://github.com/dev404error
@@ -5021,4 +5026,5 @@ Michael Wong
 - [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
 - [Manuel Bento](https://github.com/manuelbento19)
 - [John Creedon] (https://github.com/dcreedon)
+- [Maxime Noah Aldahan](https://github.com/DatBoiSaix)
 - <!-- prettier-ignore-end -->
