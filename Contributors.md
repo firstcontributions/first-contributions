@@ -15,6 +15,7 @@
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
 - [GETTUM] (https://github.com/GETTUM)
+- [Julien Von Der Marck](https://github.com/jvondermarck)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
