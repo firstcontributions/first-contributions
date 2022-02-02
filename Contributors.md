@@ -874,6 +874,7 @@ Nathan Hill
 - [Eddie Ferro] (https://github.com/EddieFerro)
 - [JGM01] (https://github.com/JGM01/)
 - [Jenny Wang](https://github.com/jennywang23)
+- [Dylan Power](https://github.com/dylan-power)
 - [Dhanush Nadella](https://github.com/dnadella787)
 - [Tyler Leonard](https://github.com/tylerleonard5)
 - [Siddhesh Bangar](https://github.com/SiddheshBangar)
