@@ -809,6 +809,7 @@ Nathan Hill
 - [Attyuttam Saha](https://github.com/Attyuttam)
 - [Adnan Niloy](https://github.com/Adnan-Niloy)
 - James Smith
+- [M Naegel](https://github.com/mnnaegel)
 - Jason Ghent
 - [Rahul Chari](https://github.com/rah-1)
 - [Laura C]
