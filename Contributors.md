@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [David Sampimon] )(https://github.com/davidsampimon/)
+- [Nitzan Papini](https://github.com/nitzanpap)
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
