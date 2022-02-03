@@ -149,6 +149,7 @@ Caroline Fye
 Gabrielle Jones
 - [Suhas M L]
 - [Radhika Bansal] (https://github.com/Radhika403)
+- [Kolawole Akinsumbo] (https://github.com/kolawoleakins)
 - [Vinay Jain] (https://github.com/vinayjain18)
 - [Yash Navik] (https://github.com/Yashnavik)
 - [Preetham Mothukuri](https://github.com/preetham-m)
