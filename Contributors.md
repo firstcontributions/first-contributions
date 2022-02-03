@@ -5051,5 +5051,6 @@ Michael Wong
 - [A N] (https://github.com/aan)
 - [Sreelakshmi PP] (https://github.com/ppsree01)
 - [Hugo Tiburcio] (https://github.com/tiburciohugo)  
+- [Tim Honchel] (https://github.com/tim-honchel)  
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
