@@ -331,6 +331,7 @@ Zack Bryant
 - [Kyaw Thu](https://github.com/evanch98)
 - [Ankita Dam](https://github.com/ankitadam)
 - [Aditya Priyanshu](https://github.com/Adityap-3055)
+- [Chandan Raj Nidavanda](https://github.com/Chandan-Raj)
 - [Amar Panji Senjaya](https://github.com/amarps)
 - [Andrio](https://github.com/Andrio-Codes)
 - [Anjali Sajeevan]
