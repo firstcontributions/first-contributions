@@ -846,6 +846,7 @@ Nathan Hill
 - Nevermind
 - Brant Norris
 - Ashish Choudhary
+- [Simon Prato] (https://github.com/SimonPrato11)
 - Julius
 - trainer2001
 - [Serena Wang] (https://github.com/Serenaaaaaaaa)
