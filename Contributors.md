@@ -4,6 +4,7 @@
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
+- [Lapyem Joel Okello] (https://github.com/lap-jo)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Raden Salman] (https://github.com/RadenSalman)
