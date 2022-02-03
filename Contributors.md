@@ -25,6 +25,7 @@
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
+-[MBAJE RWAKA ERIC] https://github.com/MBAJERWAKAERIC
 - Olteanu Alin (https://github.com/alin1k)
 - [Mario Medina] (https://github.com/Magic-Mario)
 - [Willamys Cleyton] (https://github.com/WillamysC)
