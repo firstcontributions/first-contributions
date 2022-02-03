@@ -5031,6 +5031,7 @@ Michael Wong
 - [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
 - [Manuel Bento](https://github.com/manuelbento19)
 - [Maxime Noah Aldahan](https://github.com/DatBoiSaix)
+- [Praveen Kumar Datti](https://github.com/praveendatti)
 - [Brian Reville] (https://github.com/brianreville)
 - [A N] (https://github.com/aan)
 - <!-- prettier-ignore-end -->
