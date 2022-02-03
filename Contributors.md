@@ -5041,6 +5041,7 @@ Michael Wong
 - [Manuel Bento](https://github.com/manuelbento19)
 - [Maxime Noah Aldahan](https://github.com/DatBoiSaix)
 - [Praveen Kumar Datti](https://github.com/praveendatti)
+- [Dvir Bar Gai](https://github.com/dbargai)
 - [Brian Reville] (https://github.com/brianreville)
 - [A N] (https://github.com/aan)
 - [Sreelakshmi PP] (https://github.com/ppsree01)
