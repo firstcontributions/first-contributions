@@ -210,6 +210,7 @@ Gabrielle Jones
 itay-guter
 -[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
+-[Pedro Augusto Melo](https://github.com/pedroaugusto-melo)
 -Terry Smith
 -Talib Hussain
 -jack
