@@ -11,6 +11,7 @@
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
+- [Vaani]
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
