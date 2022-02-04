@@ -13,6 +13,7 @@
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
+- [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
