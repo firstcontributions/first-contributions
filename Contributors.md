@@ -35,6 +35,7 @@
 - [Faurazeko](https://github.com/Faurazeko)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
+- Benjamin Le Dû (https://github.com/benjiben223)
 - Shubham Kanekal
 - Olteanu Alin (https://github.com/alin1k)
 - [Mario Medina] (https://github.com/Magic-Mario)
