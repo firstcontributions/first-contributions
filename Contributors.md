@@ -18,6 +18,7 @@
 - [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
 - [Lrabbit] (https://github.com/litter-rabbit)
+- [Sazid Abdullah/Ayan](http://github.com/ayannw)
 - Cameron Montesano (https://github.com/ckmontesano)
 - [Leah Hynes](https://github.com/TylerHynes)
 - [sifrant] (https://github.com/sifrant)
