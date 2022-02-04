@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [David Sampimon] )(https://github.com/davidsampimon/)
+- [Dharmik Gohil] )(https://github.com/dharmik9829/)
 - [Nitzan Papini](https://github.com/nitzanpap)
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
@@ -11,23 +12,26 @@
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
+- [Vaani]
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
+- [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - Cameron Montesano (https://github.com/ckmontesano)
-- [Curtis warcup] (https://github.com/Cwarcup)
 - [Leah Hynes](https://github.com/TylerHynes)
 - [sifrant] (https://github.com/sifrant)
 - [Kumiko Sawada](https://github.com/ksawada1)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
 - [Kenice Noel](https://github.com/kenicenoel)
 - [GETTUM] (https://github.com/GETTUM)
+- [Mehmet Müjde](https://github.com/mmuejde)
 - [Julien Von Der Marck](https://github.com/jvondermarck)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
+- [Mr. Business](https://github.com/MrBusiness25)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
@@ -194,6 +198,54 @@
   -Zuxiang Wang -[Nandan Kakadiya](https://github.com/Nandan26)
 - [Aboubacar Diawara](https://github.com/waradia09) -[JasonYamada](https://github.com/jtyamada) -[Alekhya Gandu](https://github.com/dsLeks) -[Danielle Silfa](https://github.com/dnsilfa) -[Ranjeet Mishra](https://github.com/ranjmishra) -[Erik Meier](https://github.com/errmeier) -[Ravi prakash](https://github.com/321ravi)
   [Gbegudu Joshua](https://github.com/jaykay04) -[Arin Santry](https://github.com/arin-santry) -[rashidpbi](https://github.com/rashidpbi) -[Matt Weiss](https://github.com/mweiss427) -[Kelene Moore](https://github.com/keleneM) -[Rahul Pandit](https://github.com/skyislimit9218) -[Luqman Mti](https://github.com/Luqman-hub)
+- [Curtis warcup](https://github.com/Cwarcup)
+- Ricardo Camacho Mireles
+-[Kuldeep Singh](https://github.com/nisKULDEEP)
+-[Devendar](https://github.com/rawatd)
+- [Braddy Yeoh](https://github.com/yeohbraddy)
+-[Yonkwang Kim]
+-[Isaac Spiller]
+-[John Hong] (https://github.com/jhong97)
+-[Rohit](https://github.com/rohit27-2)
+-[Aritra Das](https://github.com/aritra-tech)
+-[Matt Brown](https://github.com/mjb-it)
+-[Dr Sheldon Liu](https://github.com/DrSheldonLiu)
+-[Navya] 
+-[Gary Arzumanyan](https://github.com/garyarzuma/)
+-[Meka](https://github.com/Meka88)
+-[Kwofach] (https://github.com/kwofach)
+-[Akshay] (https://github.com/akshayakula)
+-[Rajan Lodhiya]
+-[Urvi Singhal]
+-[Anas Muhammed]
+-[Seth Weaver] (https://github.com/Seth-Weaver)
+-[Anshul Nigam] (https://github.com/Anshul-13J/first-contributions.git)
+-[Jake Baker] (https://github.com/jakeyeatsteaky)
+-[Onkar Kawathe]
+-Eli Barela
+-[Javohir Uralov](https://github.com/javohir101dev/first-contributions) 
+-[JamesLee](https://github.com/Jamesleeeeeee)
+-[M.Robi](https://github.com/BeatBob)
+-[Juhani Rusi](https://github.com/juhanirusi)
+-[Bolutife Lawrence](https://github.com/bolutife-lawrence)
+[Sanish Chirayath](https://github.com/sanishchirayath1)
+-[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
+  -Zuxiang Wang
+-[Nandan Kakadiya](https://github.com/Nandan26)
+- [Aboubacar Diawara](https://github.com/waradia09)
+-[JasonYamada](https://github.com/jtyamada)
+-[Alekhya Gandu](https://github.com/dsLeks)
+-[Danielle Silfa](https://github.com/dnsilfa)
+-[Ranjeet Mishra](https://github.com/ranjmishra)
+-[Erik Meier](https://github.com/errmeier)
+-[Ravi prakash](https://github.com/321ravi)
+[Gbegudu Joshua](https://github.com/jaykay04)
+-[Arin Santry](https://github.com/arin-santry)
+-[rashidpbi](https://github.com/rashidpbi)
+-[Matt Weiss](https://github.com/mweiss427)
+-[Kelene Moore](https://github.com/keleneM)
+-[Rahul Pandit](https://github.com/skyislimit9218)
+-[Luqman Mti](https://github.com/Luqman-hub)
 - [Dein Dehouwer](https://github.com/redcodefox)
 - [Rahul Again](https://github.com/rah-1) -[Saiwunna21](https://github.com/SaiWunna21) -[Nigel Monfries](https://github.com/NMonfries) -[Swapnil Prasad] -[Prashasth Nair](https://github.com/prashasth-nair) -[Deep-Ramani](https://github.com/Deep-Ramani)
 - [Manish K](https://github.com/mksjc)
@@ -528,6 +580,7 @@
   Justin Villena
 - Charles Ulrich
 - Felicity Homman (https://github.com/felicity-homman)
+- Howard (https://github.com/rthkkona)
 - Alpha Bah
 - Navneet Thakur
 - [Raymond Broome](https://github.com/m0nd)
@@ -610,6 +663,7 @@
 - Nicolas Perez
 - Ashish Suman
 - Kamil Roszuk
+- [GulliverMadrid](https://github.com/GulliverMadrid)
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
 - [D.S.]
@@ -2282,6 +2336,7 @@
   [Anuj Yadav](https://github.com/ajishere07)
 - [Arvind Jei](https://github.com/arvjei11)
 - [Ifmycodecouldtalk] (https://github.com/ifmycodecouldtalk)
+- [Philip Nguyen] (https://github.com/ITSFILLUP)
 - [Eliran Amar](https://github.com/eliranamar)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
@@ -4790,6 +4845,7 @@
 - [Dan Marius Dumitrescu](https://github.com/dan-dm)
 - [Pramod Lumb](https://github.com/pramod74)
 - [Yosi Kimhi](https://github.com/YosiKimhi)
+- [Axl](https://github.com/axl2468/)
 - [Joaocaf](https://github.com/Joaocaf)
 - [Nicole Meers](https://github.com/nicolemeers)
 - [Sean Do] (https://github.com/sean-do)
@@ -4907,5 +4963,6 @@
 - [Hugo Tiburcio] (https://github.com/tiburciohugo)
 - [Tim Honchel] (https://github.com/tim-honchel)
 - [Optimops](https://github.com/Optimops)
+- [Lucas Trecente](https://github.com/lucastrecente)
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
