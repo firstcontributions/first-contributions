@@ -5061,5 +5061,6 @@ Michael Wong
 - [Hugo Tiburcio] (https://github.com/tiburciohugo)  
 - [Tim Honchel] (https://github.com/tim-honchel)  
 - [Optimops](https://github.com/Optimops)
+- [Lucas Trecente](https://github.com/lucastrecente)
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
