@@ -664,6 +664,7 @@ Jawadur
 Justin Villena
 - Charles Ulrich
 - Felicity Homman (https://github.com/felicity-homman)
+- Howard (https://github.com/rthkkona)
 - Alpha Bah
 - Navneet Thakur
 - [Raymond Broome](https://github.com/m0nd)
