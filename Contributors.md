@@ -27,6 +27,7 @@
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
+- [Mr. Business](https://github.com/MrBusiness25)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
