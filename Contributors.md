@@ -2426,6 +2426,7 @@ Himanshu Dedha
   [Anuj Yadav](https://github.com/ajishere07)
 - [Arvind Jei](https://github.com/arvjei11)
 - [Ifmycodecouldtalk] (https://github.com/ifmycodecouldtalk)
+- [Philip Nguyen] (https://github.com/ITSFILLUP)
 - [Eliran Amar](https://github.com/eliranamar)
 - [Gabriel Chammas](https://github.com/gchammas23)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
