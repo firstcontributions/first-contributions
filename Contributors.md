@@ -31,6 +31,7 @@
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
 - [Mr. Business](https://github.com/MrBusiness25)
+- [Faurazeko](https://github.com/Faurazeko)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - Isaac Davis (https://github.com/iad44)
 - Shubham Kanekal
