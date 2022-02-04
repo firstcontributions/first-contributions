@@ -14,6 +14,7 @@
 - [Tom A] (https://github.com/us3rT0m/)
 - [Vaani]
 - [Daniel Cronin] (https://github.com/superman2006irl/)
+- [Nasim Mahdi] (https://github.com/na5im/)
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
