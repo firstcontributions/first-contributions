@@ -2250,6 +2250,7 @@ Himanshu Dedha
 - [Daniel Steinschreiber](https://github.com/dsteinschreiber)
 - [Abhay singh thakur](https://github.com/tabhay563)
 - [Lominex](https://github.com/Lominex)
+- [ishan patel]
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [Brahim Boulhend](https://github.com/l7aje)
 - [Ruta R](https://github.com/RReiso)
