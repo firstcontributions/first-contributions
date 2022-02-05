@@ -15,6 +15,7 @@
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
 - [Vaani]
+- [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Bayquen](https://github.com/bayquen/)
 - [Nasim Mahdi] (https://github.com/na5im/)
