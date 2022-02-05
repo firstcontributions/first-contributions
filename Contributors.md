@@ -157,6 +157,7 @@ Christopher K Calahan Jr
 - [Amar Dura](https://github.com/dura-amar)
 - [Darshan Nere](https://github.com/darshannere)
 - [Connor McGoey](https://github.com/Cmcgoey3)
+-[Joe Iannotta] (https://github.com/cessiumbrain)
 Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
