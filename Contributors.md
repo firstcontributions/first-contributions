@@ -47,6 +47,7 @@
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
 - [Siddhant Gambhir] (https://github.com/sidGambhir)
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
+- Ujjwal Agarwal
 - [Lukas Grabowicz](https://github.com/lukasgrabowicz)
 - [Thushar Tom](https://github.com/THUSHARTOM)
 - [Kalama Kiefer](https://github.com/KalamaKiefer)
