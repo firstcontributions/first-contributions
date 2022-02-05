@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Kodeiak] (https://github.com/Kodeiak/)
+- [Anek Porwal] (https://github.com/Anekjain)
 - [Dharmik Gohil] )(https://github.com/dharmik9829/)
 - [Nitzan Papini](https://github.com/nitzanpap)
 - [Naiden Radnev] (https://github.com/naiiiden)
