@@ -1006,6 +1006,7 @@ yejashi
 - [Saad Rizwan](https://github.com/SaadRizwanKhan) 🇵🇰
 - [Gourav Kadam](https://github.com/Gourav2404)
 - [hpekkan](https://github.com/hpekkan)
+- [Aditya sharma](https://github.com/Aditya-aot)
 - [Trickster026](https://github.com/Trickster026)
 - [ilyas babu](https://github.com/ilyasbabu)
 - [viraj](https://github.com/ViruSutar)
