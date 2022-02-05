@@ -131,6 +131,7 @@
 - [SHUBHAM JAUHARI](https://github.com/Jauhari-01)
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
+- [Labib Asari] (https://github.com/labeeb-7z)
 - [Brian Ruiz]
 - [Bijil Subhash] (https://github.com/bijilsubhash)
 - [Bref] (https://github.com/bref1306)
