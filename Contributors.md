@@ -127,6 +127,7 @@
 - [Shubham Kaudewar](https://github.com/ShubhamKaudewar)
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
+- [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
 - [Sam Asher]
 - [SHUBHAM JAUHARI](https://github.com/Jauhari-01)
