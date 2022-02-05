@@ -155,6 +155,7 @@ Christopher K Calahan Jr
 - [Jose Angel Rodriguez](https://github.com/JosARodriguez)
 - [Khaled Matar](https://github.com/Matars)
 - [Devisha Padmaperuma](https://github.com/Smilin-Dominator)
+- [Tejas Shekhar Warake](https://github.com/tejas-warake)
 - [Manish Bajagai](https://github.com/manishbajagai2)
 - [Shoaib Ahmed](https://github.com/shoaibahmed997)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
