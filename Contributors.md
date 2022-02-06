@@ -3212,6 +3212,7 @@ Himanshu Dedha
 - [Ayush Bisht](https://github.com/ayushbisht2001)
 - [Raphael Ugwu](https://github.com/fullstackmafia)
 - [Rogério Brum Hermany](https://github.com/brummm)
+- [Marcello Belanda](https://github.com/MarcelloBB)
 - [Nabakanta Deuri](https://github.com/ay3ay3)
 - [Fernanda Provasi](https://github.com/Feprovasi)
 - [Nasima Akter Tania 👩](https://github.com/nasima-akter-tania)
