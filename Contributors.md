@@ -22,6 +22,7 @@
 [KayAs] (https://github.com/Kevin-Phon/)
 [AAO] (https://github.com/aaog2/)
 - [Vaani]
+- [Nakul Rathore]
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Bayquen](https://github.com/bayquen/)
