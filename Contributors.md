@@ -491,6 +491,7 @@ Zack Bryant
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
 - [Viss]
+-[David Tawiah Glover](https://github.com/DTGlov)
 - [lordson fernando]
 - [Bryan Ortiz](https://github.com/ortizb)
 - [Vox]
