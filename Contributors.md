@@ -4808,6 +4808,7 @@ Michael Wong
 - [Shivan Desai](https://github.com/SUD592001)
 - Eric Clayton
 - Kevin Tang
+- [Sam Bradley] (https://github.com/SBBradley)
 - [Kelly Dheng] (https://github.com/kdheng)
 - [Tuan Dang] (https://github.com/tuan-dang-0)
 - Faizan Mohammad
