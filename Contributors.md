@@ -4898,6 +4898,7 @@ Michael Wong
 - [Tào Nhật Minh](https://github.com/Minh-tao)
 - [ExoticRoots](https://github.com/fredericbruening)
 - [Thang Bui](https://github.com/bnnthang)
+- [David Ny](https://github.com/DavidJNy) 
 - [Danilo Herrera](https://github.com/iDanilohs)
 - [Mandar Naik](https://github.com/mandarnaik016)
 - [Amrit Atwal](https://github.com/amritatwal)
