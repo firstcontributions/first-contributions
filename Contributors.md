@@ -662,6 +662,7 @@ Jawadur
 - [Nick Strawser] (https://github.com/nickstrawser)
 - [Arpit Babbar] (https://github.com/arpitbabbar)
 - [Anoop S] (https://github.com/anoopanni)
+- [OmarDavidF] (https://github.com/OmarDavidF)
 -[Kunal Gaur] (https://github.com/kunalgaur7983)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
