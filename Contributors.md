@@ -5093,6 +5093,7 @@ Michael Wong
 - [Tim Honchel] (https://github.com/tim-honchel)  
 - [Optimops](https://github.com/Optimops)
 - [Lucas Trecente](https://github.com/lucastrecente)
+- [Miguel Angel](https://github.com/MkAngelo)
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
 - [Gordon Lin](https://github.com/gordonlin-dev)
