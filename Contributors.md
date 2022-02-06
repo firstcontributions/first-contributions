@@ -15,7 +15,7 @@
 - [Hein Khant] (https://github.com/HeinKhant14)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
-[KayAsWP] (https://github.com/Kevin-Phon/)
+[KayAs] (https://github.com/Kevin-Phon/)
 - [Vaani]
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
