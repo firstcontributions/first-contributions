@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
+- [Daniel Jansson]
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Anek Porwal] (https://github.com/Anekjain)
