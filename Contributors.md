@@ -442,6 +442,7 @@ Zack Bryant
 - [Yash Tibra](https://github.com/yash249-techy)
 - [Jonathan Bresolin](https://github.com/jonbres2/)
 - [Matt Wheeler](https://github.com/wheelerMT)
+- [Ryan Barkhoff] (https://github.com/Grizzlybow)
 - [Amal Jos](https://github.com/eymaal)
 - [Steven "Maynard" Chastain](https://github.com/ManiacalMaynard)
 - [Srabon Khan](https://github.com/srabonkhan0461)
