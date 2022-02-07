@@ -400,6 +400,7 @@ Zack Bryant
 - [Valan Baptist Mathuranayagam](https://github.com/valanm22)
 - [Bazgha Razi](https://github.com/Bazgha19)
 - [James Walshe](https://github.com/jameswalshe)
+- [David Mestre](https://github.com/MestreD)
 - [Robert Greenwood](https://github.com/ImRobG)
 - [Julia Maehler](https://github.com/jmaehler)
 - [Sylvanus Etim](https://github.com/iamprincesly)
