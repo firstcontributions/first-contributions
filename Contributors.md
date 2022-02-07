@@ -14,6 +14,7 @@
 - [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
 - [nirav kumar]
+- [James Le-Goff]
 - [Lance Condie] (https://github.com/Condielj)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
