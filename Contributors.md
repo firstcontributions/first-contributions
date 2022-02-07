@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Konnor Young] (https://github.com/Konnor-Young)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Lrabbit] (https://github.com/litter-rabbit)
