@@ -8,6 +8,7 @@
 - [Anek Porwal] (https://github.com/Anekjain)
 - [Dharmik Gohil] )(https://github.com/dharmik9829/)
 - [Nitzan Papini](https://github.com/nitzanpap)
+- [jewoojung] (https://github.com/jewoojung)
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
