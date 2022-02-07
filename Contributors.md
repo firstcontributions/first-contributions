@@ -5127,3 +5127,4 @@ Michael Wong
 - [Alper Gungor](https://github.com/alpergng)
 - [Inzamam Ahmad](https://github.com/inzamamahmad3) 
 - [Samer Zeid](https://github.com/worldsamer)
+- [Lucas Henrique](https://github.com/LucasHenrique-dev)
