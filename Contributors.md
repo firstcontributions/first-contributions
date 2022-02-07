@@ -194,6 +194,7 @@ Gabrielle Jones
 - [Vinay Jain] (https://github.com/vinayjain18)
 - [Yash Navik] (https://github.com/Yashnavik)
 - [Preetham Mothukuri](https://github.com/preetham-m)
+- [Luciano Aieta](https://github.com/LucianoAieta)
 -[Rohit Saraff](https://github.com/anythingoes)
 -[Andrew](https://github.com/0-Andrew-0/0-Andrew-0.github.io)
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
