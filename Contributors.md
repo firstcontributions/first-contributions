@@ -4093,6 +4093,7 @@ Himanshu Dedha
 - [CaoE](https://github.com/CaoE)
 - [ohp](https://github.com/ohpreis)
 - [Juan R](https://github.com/jareyesda)
+- [anatame](https://github.com/Anatame)
 - [or bunfad](https://github.com/orbunfad)
 - [Curtis Dean](https://github.com/cdeanatx)
 - [r3dg33k](https://github.com/r3dg33k)
