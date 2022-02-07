@@ -5135,3 +5135,4 @@ Michael Wong
 - [Samer Zeid](https://github.com/worldsamer)
 - [Lucas Henrique](https://github.com/LucasHenrique-dev)
 - [Mateusz Moveusz93](https://github.com/morveusz93)
+- [Braien Machado](https://github.com/braien-machado)
