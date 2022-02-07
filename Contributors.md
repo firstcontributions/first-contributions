@@ -11,6 +11,7 @@
 - [jewoojung] (https://github.com/jewoojung)
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
+- [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
 - [nirav kumar]
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
