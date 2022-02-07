@@ -5121,6 +5121,7 @@ Michael Wong
 - [Lucas Trecente](https://github.com/lucastrecente)
 - [Miguel Angel](https://github.com/MkAngelo)
 - [Harsh Rajak](https://github.com/AkhilMReji)
+- [Cauã Tavares](https://github.com/CauanGx)
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
 - [Gordon Lin](https://github.com/gordonlin-dev)
