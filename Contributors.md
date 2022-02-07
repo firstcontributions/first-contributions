@@ -275,6 +275,7 @@ itay-guter
 -[Shaocong Shi](https://github.com/scsbkhunt)
 -[Dylan Alfonso](https://github.com/DylanAlfonso13)
 -[MaruthiKo](https://github.com/MaruthiKo)
+-[Signalfire](https://github.com/Signalfire)
 - Jithin Jagadeesh
 -[BikramPanda](https://github.com/bikipanda)
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
