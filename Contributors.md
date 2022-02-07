@@ -5123,6 +5123,7 @@ Michael Wong
 - [Miguel Angel](https://github.com/MkAngelo)
 - [Harsh Rajak](https://github.com/AkhilMReji)
 - [Cauã Tavares](https://github.com/CauanGx)
+- [Marshall Schmutz](https://github.com/mars-schmutz)
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
 - [Gordon Lin](https://github.com/gordonlin-dev)
