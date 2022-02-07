@@ -664,6 +664,7 @@ Jawadur
 - [Claudia Rubio](https://github.com/claudia-rubio)
 - [Dayce](https://github.com/LDesse)
 - [Debopam Roy](https://github.com/DebopamRoy)
+- [Clint Cochrane](https:github.com/coch110149)
 - [Dorival](https://github.com/DorivalJunior23)
 - [Matias](https://github.com/Qatihc)
 - [Quinton] (https://github.com/qwiebe)
