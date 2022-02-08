@@ -31,6 +31,7 @@
 - [Vaani]
 - [Nakul Rathore]
 - [Anas Rouam]
+- [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Bayquen](https://github.com/bayquen/)
