@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
@@ -2859,6 +2859,7 @@ Himanshu Dedha
 - [Burhan Rashid](https://github.com/Burhan-Rashid)
 - [xchrisx](https://github.com/chrisxesq)
 - [Jianan Wang](https://github.com/edwang09)
+- [Clayton Harper](https://github.com/Harper95)
 - [AsyncXeNo](https://github.com/AsyncXeNo)
 - [Pranav Tanpure](https://github.com/pranav280300)
 - [ChihYangHsu](https://github.com/chihyanghsu0805)
