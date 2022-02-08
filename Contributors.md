@@ -4048,6 +4048,7 @@ Himanshu Dedha
 - [Zalene](https://github.com/Zalene)
 - [Barry M](https://github.com/BozzleMay)
 - [Levi Mutter](https://github.com/lmutter)
+- [Veena S Kumar](https://github.com/veenasnair18)
 - [Sandun Abeysooriya](https://github.com/watr-sheep)
 - [Sathishkumar Manogaran](https://github.com/sathishkumar-manogaran)
 - [Max Kasprzik](https://github.com/maxUser)
