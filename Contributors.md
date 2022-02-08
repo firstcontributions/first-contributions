@@ -34,6 +34,7 @@
 - [Shantanu Tiwari](https://github.com/Shantanu2442/)
 - [Nakul Rathore]
 - [Anas Rouam]
+- [Haytham Daoula] (https://github.com/DHaytham)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
