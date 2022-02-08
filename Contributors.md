@@ -20,6 +20,7 @@
 - [James Le-Goff]
 - [Mario Fesko] (https://github.com/mfesko)
 - [Lance Condie] (https://github.com/Condielj)
+- [Kranz Aklilu] (https://github.com/KranzAklilu)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
 - [Carlos Martinez] (https://github.com/Cima9642)
