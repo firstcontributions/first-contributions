@@ -3001,6 +3001,7 @@ Himanshu Dedha
 - [Lily Silva](https://github.com/LiliRosa)
 - [julia](https://github.com/jusato)
 - [Shreya Mahajan]
+- [Richard Litang](https://github.com/heisenberglar)
 - [isacancetin](https://github.com/isacancetin)
 - [Trevor Tomlin](https://github.com/trevortomlin)
 - [Zachary Adams](https://github.com/FatalTrip)
