@@ -15,6 +15,7 @@
 - [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
 - [nirav kumar]
+- [lab596] (https://github.com/lab596)
 - [James Le-Goff]
 - [Mario Fesko] (https://github.com/mfesko)
 - [Lance Condie] (https://github.com/Condielj)
