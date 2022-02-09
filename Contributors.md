@@ -5168,5 +5168,9 @@ Michael Wong
 - [Rebekah Snow](https://github.com/rebekahsnow/)
 - [fake one](https://github.com/fakeone)
 - [Oluwaseye Hassan] (https://github.com/seye14)
+<<<<<<< Updated upstream
 - [Jeet Chandwani] (https://github.com/jeet-chandwani)
 - [William G] (<https://github.com/MSFT>)
+=======
+- [Salim Bamahfoodh](https://github.com/Salimer)
+>>>>>>> Stashed changes
