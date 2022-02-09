@@ -56,6 +56,7 @@
 - [Ananya](https://github.com/Ananya-Singh-22)
 - [sifrant] (https://github.com/sifrant)
 - [Kumiko Sawada](https://github.com/ksawada1)
+- [Nicola Lamaddalena](https://github.com/Uomonero1)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
 - [Kenice Noel](https://github.com/kenicenoel)
 - [GETTUM] (https://github.com/GETTUM)
