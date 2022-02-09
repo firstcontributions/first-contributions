@@ -1070,6 +1070,7 @@ yejashi
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
 - [Timo Chen] (https://github.com/kunkun9811)
+- [Tamas Kiraly] (https://github.com/gitkiraly)
 - [kiprotich brian] (https://github.com/biiruto)
 - [Harvinder Singh](https://github.com/Happy-developing/)
 - [Nishant Barnwal] (https://github.com/Nishant-Barnwal)
