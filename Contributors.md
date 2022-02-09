@@ -40,6 +40,7 @@
 - [Shantanu Tiwari](https://github.com/Shantanu2442/)
 - [Nakul Rathore]
 - [Anas Rouam]
+- Vijay Ponnavolu
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
