@@ -2317,6 +2317,7 @@ Himanshu Dedha
 - [Jared Stull](https://github.com/Jared29)
 - [Aaditya Prasad](https://github.com/aaditya9899)
 - [tonim19](https://github.com/tonim19)
+- [vorthkor](https://github.com/vorthkor)
 - [Zhipeng He](https://github.com/ZhipengHe)
 - [Mohsen Khodadadi](https://github.com/mkhodadadi94)
 - [Soufiane Elharem](https://github.com/Selharem)
