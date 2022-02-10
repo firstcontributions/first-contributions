@@ -17,6 +17,7 @@
   [emachado](https://github.com/ErickMachado95) 
   [Luke Yin] (https://github.com/luke-yin)
   [Parul G] (https://github.com/parulgo7)
+  [Vishal Vaibhav] (https://github.com/vaibhav355)
   [Hamza Mouzakki](https://github.com/hamzaMouzakki)
   [Sergey Kirintsev](https://github.com/SergeyKirintsev)
 - [Abishka](https://github.com/abishka)
