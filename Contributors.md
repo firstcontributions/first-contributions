@@ -78,6 +78,7 @@
 - [Mr. Business](https://github.com/MrBusiness25)
 - [Faurazeko](https://github.com/Faurazeko)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
+- [Harshit Sharan] (https://github.com/HarshitSharan/)
 - Isaac Davis (https://github.com/iad44)
 - Benjamin Le Dû (https://github.com/benjiben223)
 - Shubham Kanekal 
