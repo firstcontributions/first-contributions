@@ -24,6 +24,7 @@
 - [James Le-Goff]
 -[Usha sri](https://github.com//ushasri123980)
 - [Mario Fesko] (https://github.com/mfesko)
+- Harshitha Devi Ganajala (https://github.com/harshi1122)
 - [Lance Condie] (https://github.com/Condielj)
 - [Kranz Aklilu] (https://github.com/KranzAklilu)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
