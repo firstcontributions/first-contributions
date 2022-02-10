@@ -128,6 +128,7 @@
 - [Jagrit Sharma] (https://github.com/JagritSharma06)
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
 - [Robert-Loera](https://github.com/robert-loera)
+- [Tamir Kiviti](https://github.com/tamirkiviti)
 - [Onur Bora Akman](https://github.com/onurborakman)
 - [Willy Trigg](https://github.com/williamgtrigg)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
