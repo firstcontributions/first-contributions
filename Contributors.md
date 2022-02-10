@@ -8,6 +8,7 @@
 - [Laira Nicole Cham](https://github.com/lnvc)
 - [Alhassane Toure] (https://github.com/Hassan0895)
 - [David Sampimon] )(https://github.com/davidsampimon/)
+- [Priyank Harjilawala] (https://github.com/Priyank1712)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Anek Porwal] (https://github.com/Anekjain)
 - [Dharmik Gohil] )(https://github.com/dharmik9829/)
