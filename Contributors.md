@@ -139,6 +139,7 @@
 - [Piyush Gaur](https://github.com/Dark-Knight-Rises)
 - [Paschal Maximillian](https://github.com/Pascal488)
 - [Mamosebetsi Kekae](https://github.com/shaymk1)
+- [Cyrus Kirk](https://github.com/CyrusKirk)
 - [Evren Tan](https://github.com/evrentan)
 - [Xin Wang](https://github.com/xw2519)
 - [Probhakar Roy](https://github.com/probhakarroy)
