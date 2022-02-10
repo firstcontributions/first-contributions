@@ -210,6 +210,7 @@ Christopher K Calahan Jr
 - [Manish Bajagai](https://github.com/manishbajagai2)
 - [Shoaib Ahmed](https://github.com/shoaibahmed997)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
+- [Riya Angira](https://github.com/Gwalib)
 - [Coding Monopoly](https://github.com/CodingMonopoly)
 - [Amar Dura](https://github.com/dura-amar)
 - [Darshan Nere](https://github.com/darshannere)
