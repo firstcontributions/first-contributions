@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Ayodele Victor] (https://github.com/enterprevic)
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
 - [Daniel Jansson]
 - [Rahul Waghmare] (https://github.com/rahul5522)
