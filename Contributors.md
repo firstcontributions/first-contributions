@@ -91,6 +91,7 @@
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
 - [Ankush Das](https://github.com/dasankush)
 - Ujjwal Agarwal
+- [Yannick NGASSA](https://github.com/yannickngassa)
 - [Lukas Grabowicz](https://github.com/lukasgrabowicz)
 - [Thushar Tom](https://github.com/THUSHARTOM)
 - [Kalama Kiefer](https://github.com/KalamaKiefer)
