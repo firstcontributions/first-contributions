@@ -74,7 +74,7 @@
 - [Julien Von Der Marck](https://github.com/jvondermarck)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
-- [Karthik Shivaram] (https://github.com/karthik96siddhu)
+- [Karthik Siddhu] (https://github.com/karthik96siddhu)
 - [Melvin J.](https://github.com/melvinj98)
 - [Mr. Business](https://github.com/MrBusiness25)
 - [Faurazeko](https://github.com/Faurazeko)
