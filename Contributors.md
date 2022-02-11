@@ -10,6 +10,7 @@
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Priyank Harjilawala] (https://github.com/Priyank1712)
 - [Kodeiak] (https://github.com/Kodeiak/)
+- [Noki] (https://github.com/Noki22/)
 - [Anek Porwal] (https://github.com/Anekjain)
 - [Dharmik Gohil] )(https://github.com/dharmik9829/)
 - [Nitzan Papini](https://github.com/nitzanpap)
