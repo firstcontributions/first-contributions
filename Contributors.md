@@ -66,6 +66,7 @@
 - [Nicola Lamaddalena](https://github.com/Uomonero1)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
 - [Kenice Noel](https://github.com/kenicenoel)
+- [tanguy-a](https://github.com/tanguy-a)
 - [GETTUM] (https://github.com/GETTUM)
 - [Ilementvo] (https://github.com/ilementvo)
 - [Mehmet Müjde](https://github.com/mmuejde)
