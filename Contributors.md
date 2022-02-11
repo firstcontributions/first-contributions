@@ -370,6 +370,7 @@ itay-guter
 -Eli Barela
 -[Javohir Uralov](https://github.com/javohir101dev/first-contributions) 
 -[JamesLee](https://github.com/Jamesleeeeeee)
+
 -[M.Robi](https://github.com/BeatBob)
 -[Juhani Rusi](https://github.com/juhanirusi)
 -[Bolutife Lawrence](https://github.com/bolutife-lawrence)
@@ -425,6 +426,7 @@ Zack Bryant
 - [Rahul Sharma](https://github.com/rahulsh18)
 - [Alvin Lee](https://github.com/zephyrdark)
 - [Ayush Pathak](https://github.com/AyushPathak3011)
+- [Chris Albertsen](https://github.com/ChrisAlbertsen)
 - [John babu](https://github.com/johnbabu021)
 - [SeokJoon](https://github.com/eshc123)
 - [Nicole Sylvester] (https://github.com/nicolesylvester)
