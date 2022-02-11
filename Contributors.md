@@ -123,7 +123,7 @@
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Saurav Raj](https://github.com/saurzv)
 - [nla] (https://github.com/NaingLynnAung9925)
-- [Prayag Bhatia] (https://github.com/prayag1740)
+- [Prayag Bhatia](https://github.com/prayag1740)
 - [Evan Myllen] (https://github.com/muskievan95)
 - [Mohammed Daniyal] (https://github.com/danides450/first-contributions)
 - [Imran Yafith] (https://github.com/pixelfox01)
