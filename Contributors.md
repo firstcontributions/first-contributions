@@ -7,6 +7,7 @@
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
 - [Alhassane Toure] (https://github.com/Hassan0895)
+-[Amohelang Thoabala] (https://github.com/amohelangthoabala)
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Priyank Harjilawala] (https://github.com/Priyank1712)
 - [Kodeiak] (https://github.com/Kodeiak/)
