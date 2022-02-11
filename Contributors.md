@@ -15,6 +15,7 @@
 - [Nitzan Papini](https://github.com/nitzanpap)
 - [jewoojung] (https://github.com/jewoojung)
 - [Naiden Radnev] (https://github.com/naiiiden)
+- [Hangen7] (https://github.com/hangen7)
 - [Jandir Porta] (https://github.com/jandirdlctm)
 - [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
 - [Daniel Adesanya](https://github.com/4x3l3r8)
