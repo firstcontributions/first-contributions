@@ -4965,6 +4965,7 @@ Michael Wong
 - [Mingting Ouyang](https://github.com/mingtingouyang)
 - Wei
 - Chang
+- [Jared Rigby](https://github.com/jazibobs)
 - [Adnan Sait](https://github.com/Adnan-Sait)
 - [Amr](https://github.com/amromnia)
 - [Josh F](https://github.com/jdfo330)
