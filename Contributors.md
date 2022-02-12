@@ -2155,6 +2155,7 @@ Pranjal
 - [Douglas Kaminski](https://github.com/dokam)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
+- [David Benoit](https://github.com/dbenoi)
 - [Gustavo Bethelmy](https://github.com/gigablack)
 - [Roheet Rajendran](https://github.com/roheetnarayanan)
 - [Theodore Lindsey](https://github.com/theo-commmits)
