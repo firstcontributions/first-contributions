@@ -133,7 +133,6 @@
 - [Tamir Kiviti](https://github.com/tamirkiviti)
 - [Onur Bora Akman](https://github.com/onurborakman)
 - [Willy Trigg](https://github.com/williamgtrigg)
-- [Shahibuzzaman](https://github.com/shahibuzzaman)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [ConallOToole](https://github.com/conall47)
 - [Kishane Lewis](https://github.com/cosisaxis)
