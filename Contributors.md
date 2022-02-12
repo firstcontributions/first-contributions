@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Saullo Almeida] (https://github.com/saulloalmeida/)
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
 - [Daniel Jansson]
 - [Rahul Waghmare] (https://github.com/rahul5522)
