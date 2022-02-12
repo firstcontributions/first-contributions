@@ -182,6 +182,7 @@
 - [Norm W] (https://github.com/otemon)
 - [Labib Asari] (https://github.com/labeeb-7z)
 - [Brian Ruiz]
+- [Etiene Essenoh](https://github.com/St80ene)
 - [Bijil Subhash] (https://github.com/bijilsubhash)
 - [Bref] (https://github.com/bref1306)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
