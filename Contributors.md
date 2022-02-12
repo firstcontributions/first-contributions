@@ -5175,6 +5175,7 @@ Michael Wong
 - [Cauã Tavares](https://github.com/CauanGx)
 - [Marshall Schmutz](https://github.com/mars-schmutz)
 - [Creberus] (https://github.com/Creberus)
+- [RuiHan Li] (https://github.com/shulva)
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
 - [Gordon Lin](https://github.com/gordonlin-dev)
