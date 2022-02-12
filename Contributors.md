@@ -38,6 +38,7 @@
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
 - [Roopesh Saravanan] (theroopesh)
+- [Andrés Felipe Arroyave Naranjo](https://github.com/JohnFTitor)
 [KayAs] (https://github.com/Kevin-Phon/)
 [AAO] (https://github.com/aaog2/)
 - [Vaani]
