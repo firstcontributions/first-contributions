@@ -6,6 +6,7 @@
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
+- [Abhay Kumar Chaurasiya](https://github.com/chaurasiyag)
 - [Alhassane Toure] (https://github.com/Hassan0895)
 - [David Sampimon] )(https://github.com/davidsampimon/)
 - [Priyank Harjilawala] (https://github.com/Priyank1712)
