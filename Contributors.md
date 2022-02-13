@@ -502,6 +502,7 @@ Zack Bryant
 - [Steven "Maynard" Chastain](https://github.com/ManiacalMaynard)
 - [Srabon Khan](https://github.com/srabonkhan0461)
 - [Abby Anderson](https://github.com/abby-anderson)
+- [Amie Foster] (https://github.com/amiefoster)
 - [tejaswari7](https://github.com/tejaswari7)
 - [Dharuan Luigi](https://github.com/dharuanluigi)
 - [yash](https://github.com/Yashg100)
