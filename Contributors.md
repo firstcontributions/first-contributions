@@ -71,6 +71,7 @@
 - [Mehmet Müjde](https://github.com/mmuejde)
 - [Todd Dalton]
 - [temi temiola](https://github.com/tofetpuzo)
+- [Dakota Smith] (https://github.com/dakotaleesmith)
 - [Julien Von Der Marck](https://github.com/jvondermarck)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
