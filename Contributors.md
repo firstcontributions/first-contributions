@@ -179,7 +179,7 @@
 - [Sam Asher]
 - [SHUBHAM JAUHARI](https://github.com/Jauhari-01)
 - Jacob Olson
-- Salma Nageeb
+- Salma Nageeb (https://github.com/NageebSalma)
 - [Norm W] (https://github.com/otemon)
 - [Labib Asari] (https://github.com/labeeb-7z)
 - [Brian Ruiz]
