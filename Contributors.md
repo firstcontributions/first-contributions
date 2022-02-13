@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
 - [Daniel Jansson]
+- [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
