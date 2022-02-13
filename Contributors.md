@@ -254,6 +254,7 @@ Gabrielle Jones
 -[MMT](https://github.com/MinMinThway)
 -Gagan kumar
 - [d-bst](https://github.com/d-bst)
+- [George Offley](https://github.com/georgeoffley)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
 -[sujana](https://github.com/sujana-kamasany)
