@@ -9,6 +9,7 @@
 - [Daniel Jansson]
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Somesh Bhandare]
+- [Jason Gutierrez](https://github.com/JasonGeee)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
