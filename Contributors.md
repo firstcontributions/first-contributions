@@ -278,6 +278,7 @@ Gabrielle Jones
 -[Stanley Cai]
 -[Mohammed Shoaib](https://github.com/Mohammed-Shoaib01)
 -[William Ericson] (https://github.com/Apollo2203)
+-[Karthik Kolathumani] (https://github.com/EnlighteningKay)
 -[Hayden P](https://github.com/conure512)
 -[Mrinaal Arora](https://github.com/aroramrinaal)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
