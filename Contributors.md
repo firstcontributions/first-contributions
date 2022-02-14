@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Carl Che] (https://github.com/CarlChe)
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
+- [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Rahul Waghmare] (https://github.com/rahul5522)
