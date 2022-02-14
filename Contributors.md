@@ -51,6 +51,7 @@
 -[Starborne] (https://github.com/plasmawalrus)
 - Vijay Ponnavolu
 - [Haytham Daoula] (https://github.com/DHaytham)
+- [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
