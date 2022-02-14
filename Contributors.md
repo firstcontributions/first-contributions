@@ -5,6 +5,7 @@
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
 
 - [Daniel Jansson]
+- [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
@@ -27,6 +28,10 @@
 - [lab596] (https://github.com/lab596)
 - [James Le-Goff] -[Usha sri](https://github.com//ushasri123980)
 - [pavanbhat] (https://github.com/Euphoria99)
+- [James Le-Goff]
+-[Usha sri](https://github.com//ushasri123980)
+-[Malik Mertus](https://github.com/Malic33100)
+- [Gary Meade] (https://github.com/gsmeade)
 - [Mario Fesko] (https://github.com/mfesko)
 - Harshitha Devi Ganajala (https://github.com/harshi1122)
 - [Lance Condie] (https://github.com/Condielj)
@@ -72,6 +77,7 @@
 - [Mehmet Müjde](https://github.com/mmuejde)
 - [Todd Dalton]
 - [temi temiola](https://github.com/tofetpuzo)
+- [Dakota Smith] (https://github.com/dakotaleesmith)
 - [Julien Von Der Marck](https://github.com/jvondermarck)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
@@ -5045,4 +5051,5 @@
 - [Pedro de León](https://github.com/pedro-deleon)
 - [nilzyj](https://github.com/nilzyj)
 - [Ayush](https://github.com/Ayushh1023)
+- [Matthew S](https://github.com/MatthewSafar)
 - [Bryan Linda](https://github.com/blindaa121)
