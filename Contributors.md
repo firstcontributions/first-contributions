@@ -4698,6 +4698,7 @@ Michael Wong
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
+- [Zhi Hong Lew] (https://github.com/zhihonglew)
 - [Yash Gupta](https://github.com/YG3A5D)
 - [Charlie Greenhalgh](https://github.com/charliegreeny)
 - [Gabriel Ramos](https://github.com/gabston)
