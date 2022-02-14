@@ -5220,3 +5220,4 @@ Michael Wong
 - [Feng-Jay](https://github.com/Feng-Jay)
 - [Ben Kereopa-Yorke](https://github.com/Benjamin-KY)
 - [Harsha Chandrashekar](https://github.com/EagleCoder404)
+- [George Delchev](https://github.com/george-delchev)
