@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Carl Che] (https://github.com/CarlChe)
+- [Denise Namutebi] (https://github.com/DeniseNamutebi)
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
