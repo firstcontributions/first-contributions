@@ -26,6 +26,7 @@
 - [lab596] (https://github.com/lab596)
 - [James Le-Goff]
 -[Usha sri](https://github.com//ushasri123980)
+-[Malik Mertus](https://github.com/Malic33100)
 - [Gary Meade] (https://github.com/gsmeade)
 - [Mario Fesko] (https://github.com/mfesko)
 - Harshitha Devi Ganajala (https://github.com/harshi1122)
