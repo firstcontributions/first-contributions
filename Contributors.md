@@ -94,6 +94,7 @@
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
 - [Siddhant Gambhir] (https://github.com/sidGambhir)
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
+- [Nicolas Georgiou] (https://github.com/DeadlyAlien)
 - [Ankush Das](https://github.com/dasankush)
 - Ujjwal Agarwal
 - [Lukas Grabowicz](https://github.com/lukasgrabowicz)
