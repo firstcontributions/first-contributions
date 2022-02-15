@@ -238,6 +238,7 @@ Gabrielle Jones
 - [Radhika Bansal] (https://github.com/Radhika403)
 -[sahil ](ttps://github.com/sahilpratapyadav1)
 - [Kolawole Akinsumbo] (https://github.com/kolawoleakins)
+- [Mansz] (https://github.com/mansz81)
 - [Vinay Jain] (https://github.com/vinayjain18)
 - [Yash Navik] (https://github.com/Yashnavik)
 - [Preetham Mothukuri](https://github.com/preetham-m)
