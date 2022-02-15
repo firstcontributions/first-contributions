@@ -173,7 +173,7 @@
 - [Xin Wang](https://github.com/xw2519)
 - [Probhakar Roy](https://github.com/probhakarroy)
 - [Alexey Makridenko](https://github.com/makridenko)
-- [Ashish Poudel] (https://github.com/ashishpoudel523/)
+- [Ashish Poudel] (https://github.com/ashishpoudel523)
 - [Nasya Valenzuela](https://github.com/nasyav)
 - [Ganesh Singh](https://github.com/GaneshSingh757)
 - [Zac Bolton](https://github.com/zacharyabolton)
