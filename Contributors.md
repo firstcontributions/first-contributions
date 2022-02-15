@@ -44,6 +44,7 @@
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
+- [Emma Camelo] (https://www.github.com/ecamel1/)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Bayquen](https://github.com/bayquen/)
 - [Nasim Mahdi] (https://github.com/na5im/)
