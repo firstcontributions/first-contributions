@@ -145,6 +145,7 @@
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Jagrit Sharma] (https://github.com/JagritSharma06)
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
+- [Jason Kluge] (https://github.com/kehngid)
 - [Robert-Loera](https://github.com/robert-loera)
 - [Tamir Kiviti](https://github.com/tamirkiviti)
 - [Onur Bora Akman](https://github.com/onurborakman)
