@@ -11,6 +11,7 @@
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Somesh Bhandare]
 - [Jason Gutierrez](https://github.com/JasonGeee)
+- [Alphonzo](https://github.com/San-Shwe)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
