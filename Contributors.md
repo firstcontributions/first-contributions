@@ -54,6 +54,7 @@
 [KayAs] (https://github.com/Kevin-Phon/)
 [AAO] (https://github.com/aaog2/)
 - [Vaani]
+- [Eden Bar](https://github.com/dxomaster)
 - [Shantanu Tiwari](https://github.com/Shantanu2442/)
 - [Nakul Rathore]
 - [Anas Rouam]
