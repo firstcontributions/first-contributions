@@ -101,6 +101,7 @@
 - [Willamys Cleyton] (https://github.com/WillamysC)
 - [Otabek Sobirov] (https://github.com/Otabek8866)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
+-Akash Hasamnis
 - [Siddhant Gambhir] (https://github.com/sidGambhir)
 - [Mufrat Karim Aritra](https://github.com/mufratkarim)
 - [Nicolas Georgiou] (https://github.com/DeadlyAlien)
