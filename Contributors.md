@@ -2260,6 +2260,7 @@ Pranjal
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Kamend0](https://github.com/kamend0)
 - [Bilal K.](https://github.com/bilalkhann16)
+- Gary Cooper (https://github.com/garycooper6)
 - [Bat-Undrakh Davaadorj](https://github.com/Bat-Undrakh)
 - [Qiang Chen](https://github.com/KidLab2021)
 - [Shrayansh Baunthiyal](https://github.com/shrayansh95)
