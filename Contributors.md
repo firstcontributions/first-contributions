@@ -2265,6 +2265,7 @@ Himanshu Dedha
 - [Piyush Agrawal](https://github.com/p1yu5h0)
 - [Sangeeth Sudhakar](https://github.com/sangues)
 - [Maryll Castelino](https://github.com/Maryll-castelino)
+- [Aishwarya Mirashi](https://github.com/Aishwarya-Mirashi)
 - [Meleyotan Oyeleke](https://github.com/Meleyotan)
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Aashish Illa](https://github.com/aashish0909)
