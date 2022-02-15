@@ -2861,6 +2861,7 @@ Himanshu Dedha
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
 - [Akshay Aggarwal](https://github.com/AkshayAggarwal2509)
 - [Lucas Fontes](https://github.com/lvbfontes)
+- [Samuele Vezzuto](https://github.com/vezzusamu)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [C.S.Bahushruth](https://github.com/PotatoSpudowski)
 - [Sandro Miranda](https://github.com/sandromiranda)
