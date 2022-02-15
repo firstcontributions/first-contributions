@@ -217,6 +217,7 @@
 - [Rushil Joshi] (https://github.com/rushiljoshi00)
 Christopher K Calahan Jr
 - [Alexander Marasco](https://github.com/Marascax)
+- [Samuel Odoom](https://github.com/Sirrsam)
 - [Abhilipsa Sahoo](https://github.com/abhilipsasahoo03)
 - [Lenin Valdivia](https://github.com/Oqqay)
 - [Ananya](https://github.com/ananya182001)
