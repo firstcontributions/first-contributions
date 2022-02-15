@@ -3098,6 +3098,7 @@ Himanshu Dedha
 - [Alissa Zhang](https://github.com/alissazhang)
 - [Javier Garcia](https://github.com/Javi-GM)
 - [foufouboy](https://github.com/foufouboy/first-contributions)
+- [Jiyu Wang] (https://github.com/jiyu-wang/first-contributions)
 - [omarelweshy](https://github.com/omarelweshy)
 - [Naren Gorantla](https://github.com/Naren0)
 - [Francisco Fabiano](https://github.com/Francisco-Fab)
