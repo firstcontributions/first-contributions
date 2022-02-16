@@ -5,6 +5,7 @@
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
+- [Ayrat Gimranov] (https://github.com/ag961)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
