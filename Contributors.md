@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Phillip N.] (https://github.com/phuclinh9802)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
