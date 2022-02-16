@@ -1,7 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+[Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [George Owino] (https://github.com/vkoll29)
@@ -9,12 +9,13 @@
   -[Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
+- [Keean Ferreira] (https://github.com/Keean07)
 - [Mart Anthony Salazar](https://github.com/mart-anthony-stark)
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Somesh Bhandare]
 - [Jason Gutierrez](https://github.com/JasonGeee)
 - [Alphonzo](https://github.com/San-Shwe)
-- [Swayam Mehta]()
+- [Swayam Mehta](https://github.com/SwayamMehta10)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Laira Nicole Cham](https://github.com/lnvc)
@@ -65,6 +66,7 @@
 - [Anas Rouam]
   -[Starborne] (https://github.com/plasmawalrus)
 - Vijay Ponnavolu
+- [Abisai Arreguin](https://github.com/Abisai-Arreguin)
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sam kanja](https://github.com/Samkanja/)
@@ -475,6 +477,7 @@
 - [Sylvanus Etim](https://github.com/iamprincesly)
 - [Jorge Ciprián](https://github.com/JorgeFCS)
 - [Mayank Tyagi](https://github.com/mayanktyagi1709)
+- [Max Chan He Tek](https://github.com/mcht1123)
 - [Mahmoud Ganaini](https://github.com/Ganaini)
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
@@ -5251,3 +5254,4 @@
 - [Harsha Chandrashekar](https://github.com/EagleCoder404)
 - [George Delchev](https://github.com/george-delchev)
 - [Nutawut Bootton](https://github.com/kane5648)
+- [Rodrigo Queiroz](https://github.com/RodrigoWebDev)
