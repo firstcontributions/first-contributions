@@ -3394,7 +3394,6 @@ Himanshu Dedha
 - [Watson Tang](https://github.com/tyanbiao)
 - [Tatenda](https://github.com/Taity045)
 - [Ikemura Kazutaka](https://github.com/ikemura23)
-- [Aishwarya Mirashi](https://github.com/Aishwarya-Mirashi)
 - [Ryo Mimura](https://github.com/r-mimura)
 - [Pranav Bobde](https://github.com/Pranav-Bobde)
 - [Anirudh Praveen](https://github.com/AnirudhPraveen)
