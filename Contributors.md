@@ -64,6 +64,7 @@
 - [Anas Rouam]
 -[Starborne] (https://github.com/plasmawalrus)
 - Vijay Ponnavolu
+- [Abisai Arreguin](https://github.com/Abisai-Arreguin)
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sam kanja](https://github.com/Samkanja/)
