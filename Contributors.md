@@ -5249,3 +5249,4 @@ Michael Wong
 - [Harsha Chandrashekar](https://github.com/EagleCoder404)
 - [George Delchev](https://github.com/george-delchev)
 - [Nutawut Bootton](https://github.com/kane5648)
+- [Rodrigo Queiroz](https://github.com/RodrigoWebDev)
