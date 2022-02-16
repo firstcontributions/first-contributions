@@ -473,6 +473,7 @@ Zack Bryant
 - [Sylvanus Etim](https://github.com/iamprincesly)
 - [Jorge Ciprián](https://github.com/JorgeFCS)
 - [Mayank Tyagi](https://github.com/mayanktyagi1709)
+- [Max Chan He Tek](https://github.com/mcht1123)
 - [Mahmoud Ganaini](https://github.com/Ganaini)
 - [Emanuel C.](https://github.com/emacaz)
 - [William Souza](https://github.com/williamguilhermesouza)
