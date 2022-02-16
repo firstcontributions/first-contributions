@@ -424,6 +424,7 @@ itay-guter
 -[rashidpbi](https://github.com/rashidpbi)
 -[Matt Weiss](https://github.com/mweiss427)
 -[Kelene Moore](https://github.com/keleneM)
+
 -[Rahul Pandit](https://github.com/skyislimit9218)
 -[Luqman Mti](https://github.com/Luqman-hub)
 - [Dein Dehouwer](https://github.com/redcodefox)
@@ -2642,6 +2643,7 @@ Himanshu Dedha
 - [Sarfaraz Khan](https://github.com/GoogolDKhan)
 - [Victor Olechow](https://github.com/volechow)
 - [Albino Cianciotti](https://github.com/albino98)
+- [Tális](https://github.com/talisbreda)
 - [Rishabh Jha](https://github.com/bruteF04C3)
 - [Aliffiqri Agwar](https://github.com/SorrowInRain)
 - [Dan Kollar](https://github.com/dkollar)
