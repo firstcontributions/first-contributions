@@ -144,6 +144,7 @@
 - [Hafizul Haque](https://github.com/HafizulHaque)
 - [Nihal Jain](https://github.com/NihalJain)
 - [Udayan Kulkarni](https://github.com/Udayan853)
+- [Sezai Burak Kantarci](https://github.com/kantarcise)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Eric Matelyan](https://github.com/samurainstein)
 - [Advay Ramesh](https://github.com/Advay0100)
