@@ -248,9 +248,9 @@ Christopher K Calahan Jr
 - [Coding Monopoly](https://github.com/CodingMonopoly)
 - [Amar Dura](https://github.com/dura-amar)
 - [Darshan Nere](https://github.com/darshannere)
-- [Connor McGoey](https://github.com/Cmcgoey3)
 - [Francis Palattao](https://github.com/kindredFP)
--[Joe Iannotta] (https://github.com/cessiumbrain)
+- [Connor McGoey](https://github.com/Cmcgoey3)
+- [Joe Iannotta] (https://github.com/cessiumbrain)
 Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
