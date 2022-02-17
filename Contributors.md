@@ -12,6 +12,7 @@
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
+- [Kriza Lacsamana] (https://github.com/klacsamana15)
 - [Keean Ferreira] (https://github.com/Keean07)
 - [Mart Anthony Salazar](https://github.com/mart-anthony-stark)
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
