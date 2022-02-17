@@ -391,6 +391,7 @@ itay-guter
 - [Braddy Yeoh](https://github.com/yeohbraddy)
 -[Yonkwang Kim]
 -[Isaac Spiller]
+-[Dharmik Gangani]
 -[John Hong] (https://github.com/jhong97)
 -[Rohit](https://github.com/rohit27-2)
 -[Aritra Das](https://github.com/aritra-tech)
