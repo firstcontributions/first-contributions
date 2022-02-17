@@ -1,4 +1,4 @@
-
+﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Phillip N.] (https://github.com/phuclinh9802)
@@ -53,6 +53,7 @@
 - [Kranz Aklilu] (https://github.com/KranzAklilu)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
+- [Gosia Marczak] (https://github.com/ilmasota)
 - [Carlos Martinez] (https://github.com/Cima9642)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Anna Wojdylo](https://github.com/Noi5/)
