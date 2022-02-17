@@ -366,6 +366,7 @@ itay-guter
 -Zhihua Qu
 -Shreya(https://https://github.com/shreyakota)
 -[WASIM SAMNANI](https://github.com/Wasimsamnani)
+-[ADITYA GUPTA](https://github.com/oyeadii)
 -[vicentegarcya](https://github.com/vicentegarcya)
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[CapCo56](https://github.com/CapCo56)
