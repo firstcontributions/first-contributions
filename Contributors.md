@@ -5260,6 +5260,7 @@ Michael Wong
 - [Matthew S](https://github.com/MatthewSafar)
 - [Bryan Linda](https://github.com/blindaa121)
 - [Feng-Jay](https://github.com/Feng-Jay)
+- [Rachit Kansagra](https://github.com/rachitkansagra)
 - [Ben Kereopa-Yorke](https://github.com/Benjamin-KY)
 - [Harsha Chandrashekar](https://github.com/EagleCoder404)
 - [George Delchev](https://github.com/george-delchev)
