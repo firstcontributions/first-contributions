@@ -5256,3 +5256,4 @@ Michael Wong
 - [Rodrigo Queiroz](https://github.com/RodrigoWebDev)
 - [Luiz Santos](https://github.com/J0se-Luiz)
 - [Dennis Wiersma](https://github.com/denniswiersma)
+- [Joseph Lee](https://github.com/QiUnknown)
