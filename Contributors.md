@@ -502,6 +502,7 @@ Zack Bryant
   [Aniket Thakur](https://github.com/aniket-thakur)
 - [Benjamin](https://github.com/haik-x)
 - [Amit](https://github.com/amit-2k1)
+- [Iswag](https://github.com/ISHAQ066/)
 - [Albert Fay](https://github.com/AlbertFay)
 - [Andrew Lee](https://github.com/AndrewJetLee)
 - [Vincent Obbeng](https://github.com/Vi-obb)
