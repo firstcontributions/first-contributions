@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
+- [Shoib Ansari] (https://github.com/reddishshoib )
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
