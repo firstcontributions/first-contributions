@@ -113,6 +113,7 @@
 - Binil Tom Jose(https://github.com/BinilTomJose1278)2
 - Olteanu Alin (https://github.com/alin1k)
 - [Mario Medina] (https://github.com/Magic-Mario)
+- [Kacper Ochnik] (https://github.com/TeriyakiGod)
 - [Willamys Cleyton] (https://github.com/WillamysC)
 - [Otabek Sobirov] (https://github.com/Otabek8866)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
