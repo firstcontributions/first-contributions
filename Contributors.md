@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Rafael Kayo](https://github.com/rKayoo)
+- [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
@@ -12,7 +13,7 @@
 - [Ayrat Gimranov] (https://github.com/ag961)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
--[Myat Su Mon] (https://github.com/myat-su-mon/)
+- [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
