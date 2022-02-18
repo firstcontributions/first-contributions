@@ -2127,6 +2127,7 @@ Pranjal
 - [Aimar Ibarra](https://github.com/AimarIbarra)
 - [pickwick-rudge](https://github.com/pickwick-rudge)
 - [Ahmad Shalein](https://github.com/AhmadShalein)
+- [Md Belal Hosen](https://github.com/imbelal)
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Shubham Kumar 🤴](https://github.com/shubham-1903)
 - [Vivek Shah](https://github.com/viveknshah)
