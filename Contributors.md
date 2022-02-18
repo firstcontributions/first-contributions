@@ -9,6 +9,7 @@
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Shoib Ansari] (https://github.com/reddishshoib )
+- [Esther F] (https://github.com/zelf0)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [Ayrat Gimranov] (https://github.com/ag961)
 - [George Owino] (https://github.com/vkoll29)
