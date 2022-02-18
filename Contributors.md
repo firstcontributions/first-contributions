@@ -997,6 +997,7 @@ Nathan Hill
 - [Furqan Amjad] (https://github.com/megaz90)
 - [John Shoemaker] (https://github.com/jshoemaker76)
 - [Avinash Prasad] (https://github.com/avionmission)
+- [Nicholas Honen] (https://github.com/nickhonen)
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - [Byoungyoon Park] (https://github.com/rustiebeats)
 - Malik Rossi
