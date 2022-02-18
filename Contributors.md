@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Rafael Kayo](https://github.com/rKayoo)
@@ -622,6 +622,7 @@ Zack Bryant
 - [Jenny Klein]
 - [Sillix] 
 - [xuyi]
+- [xpctnc] (https://github.com/xpctnc)
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
