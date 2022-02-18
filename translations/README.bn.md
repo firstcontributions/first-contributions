@@ -20,7 +20,7 @@
 
 ## এই রিপোজিটরি ফর্ক করুন
 
-এই পৃষ্ঠার উপরের অংশে ফর্ক (fork) বাটনে ক্লিক করে এই রিপোজিটরি ফর্ক করুন।
+এই পৃষ্ঠার উপরের অংশে ফর্ক (Fork) বাটনে ক্লিক করে এই রিপোজিটরি ফর্ক করুন।
 এই প্রক্রিয়ায় আপনার অ্যাকাউন্টে এই রিপোজিটরির একটি কপি তৈরি হবে।
 
 ## রিপোজিটরি ক্লোন করুন
@@ -28,16 +28,18 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন *ক্লিপবোর্ডে কপি করুন(copy to clipboard)* আইকনটিতে।
+এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে কোড(Code) বাটনে ক্লিক করুন। এরপর ক্লিক করুন *ক্লিপবোর্ডে কপি করুন(copy to clipboard)* আইকনটিতে।
 
-আপনার টার্মিনাল (উইন্ডোজের ক্ষেত্রে কমান্ড প্রম্পট (CMD)) চালু করুন এবং নিচের কমান্ড রান করুন:
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+আপনার টার্মিনাল (উইন্ডোজের ক্ষেত্রে কমান্ড প্রম্পট (CMD) চালু করুন এবং নিচের কমান্ড রান করুন:
 
 ```
 git clone "url you just copied"
 ```
-যেখানে "url you just copied" (উদ্ধৃত চিহ্ণ ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
+যেখানে "url you just copied" (উদ্ধৃত চিহ্ণ ব্যতীত) এর স্থানে ঐ ইউআরএল(url) পেস্ট(paste) করুন   যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
 
 উদাহরণ:
 ```
