@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Rafael Kayo](https://github.com/rKayoo)
+- [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
@@ -11,7 +12,8 @@
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [Ayrat Gimranov] (https://github.com/ag961)
 - [George Owino] (https://github.com/vkoll29)
-- [Brian Young](https://github.com/ReadingTheDocumentation/) -[Myat Su Mon] (https://github.com/myat-su-mon/)
+- [Brian Young](https://github.com/ReadingTheDocumentation/)
+- [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
@@ -109,7 +111,8 @@
 - [Harshit Sharan] (https://github.com/HarshitSharan/)
 - Isaac Davis (https://github.com/iad44)
 - Benjamin Le Dû (https://github.com/benjiben223)
-- Shubham Kanekal
+- Shubham Kanekal 
+- spiritedDreamer3001
 - Binil Tom Jose(https://github.com/BinilTomJose1278)2
 - Olteanu Alin (https://github.com/alin1k)
 - [Mario Medina] (https://github.com/Magic-Mario)
@@ -590,6 +593,7 @@ itay-guter
 - [Jenny Klein]
 - [Sillix]
 - [xuyi]
+- [xpctnc] (https://github.com/xpctnc)
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
 - [Dylan VanStaden] (https://github.com/kernenovae)
@@ -659,6 +663,7 @@ itay-guter
 - [Herman Ciechanowiec] (https://github.com/ciechanowiec)
 - [Rohit Kumar](https://github.com/ciechanowiec)
 - [Vaibhav Barodawala] (https://github.com/reinzmet)
+- [Vaibhav Pathak] (https://github.com/mrdaybird/)
 - [Rajat Jain](https://github.com/Rajat-Jain29)
 - [Deepesh Mhatre DM](https://github.com/deepeshdm)
 - [Khalid Shareef](https://github.com/Khalid6468)
@@ -5232,3 +5237,4 @@ itay-guter
 - [Shane Test](https://github.com/test)
 - [emmettxt](https://github.com/emmettxt)
 - [jackk1024](https://github.com/jackk1024)
+- [ggruening ](https://github.com/ggruening)
