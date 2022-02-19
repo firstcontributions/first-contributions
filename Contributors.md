@@ -5306,3 +5306,4 @@ Michael Wong
 - [adityamali](https://github.com/adityamali)
 - [ceemo](https://github.com/ceemo-twilio)
 - [John T](https://github.com/JohnFilipe)
+- [Wendell Kenneddy](https://github.com/wendell-kenneddy)
