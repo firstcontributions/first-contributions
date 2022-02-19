@@ -270,6 +270,7 @@ Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
 José Valles
+- [John Anderson] (https://github.com/johntanderson)
 Sakshi Gupta
 Laura Langdon
 Caroline Fye
