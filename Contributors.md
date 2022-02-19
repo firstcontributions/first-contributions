@@ -1,9 +1,11 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
+- [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
 - [Conor Kennedy] (https://github.com/conorkenn)
@@ -12,11 +14,13 @@
 - [Esther F] (https://github.com/zelf0)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [Ayrat Gimranov] (https://github.com/ag961)
+- [Alex Voytko] (https://github.com/alevoy)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
+- [Shivankar Pilligundla] (https://github.com/shivankar-p)
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
 - [Farah Sinada] (https://github.com/FarahSinada)
 - [Keean Ferreira] (https://github.com/Keean07)
@@ -115,6 +119,7 @@
 - [Christopher S.](https://github.com/randoul)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - [Harshit Sharan] (https://github.com/HarshitSharan/)
+- [Elias Rodrigues] (https://github.com/eliasroodrigues/)
 - Isaac Davis (https://github.com/iad44)
 - Benjamin Le Dû (https://github.com/benjiben223)
 - Shubham Kanekal 
@@ -184,6 +189,7 @@
 - [Kishane Lewis](https://github.com/cosisaxis)
 - [Shaini Dasgupta](https://github.com/HOtTEa-bug)
 - [HatimZ](https://github.com/HatimZ)
+- [Prahlad Timalsina](https://github.com/prahladtimalsina)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 [Chris Hani](https://github.com/hanichris)
 - [Davide A. Butera](https://github.com/davide-butera)
@@ -269,6 +275,7 @@ Zelalem Tadesse
 [Kaleb Kohn]
 Luke Frazer
 José Valles
+- [John Anderson] (https://github.com/johntanderson)
 Sakshi Gupta
 Laura Langdon
 Caroline Fye
@@ -826,6 +833,7 @@ Justin Villena
 - Mugdhatanu Dev Goswami
 - Relly Valentine
 - Odell Blackmon III
+- Alexander Tönges
 - Karttekay Grover
 - Phi Doan 
 - kishan Yadav
@@ -5292,3 +5300,7 @@ Michael Wong
 - [jackk1024](https://github.com/jackk1024)
 - [ggruening ](https://github.com/ggruening)
 - [omayer30415 ](https://github.com/omayer30415)
+- [tae100k](https://github.com/tae100k)
+- [tae100k](https://github.com/tae100k)
+- [adityamali](https://github.com/adityamali)
+- [ceemo](https://github.com/ceemo-twilio)
