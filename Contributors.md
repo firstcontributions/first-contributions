@@ -188,6 +188,7 @@
 - [Kishane Lewis](https://github.com/cosisaxis)
 - [Shaini Dasgupta](https://github.com/HOtTEa-bug)
 - [HatimZ](https://github.com/HatimZ)
+- [Prahlad Timalsina](https://github.com/prahladtimalsina)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
 [Chris Hani](https://github.com/hanichris)
 - [Davide A. Butera](https://github.com/davide-butera)
