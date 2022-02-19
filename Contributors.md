@@ -118,6 +118,7 @@
 - [Christopher S.](https://github.com/randoul)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - [Harshit Sharan] (https://github.com/HarshitSharan/)
+- [Elias Rodrigues] (https://github.com/eliasroodrigues/)
 - Isaac Davis (https://github.com/iad44)
 - Benjamin Le Dû (https://github.com/benjiben223)
 - Shubham Kanekal 
