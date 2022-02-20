@@ -16,6 +16,7 @@
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [Ayrat Gimranov] (https://github.com/ag961)
 - [Alex Voytko] (https://github.com/alevoy)
+- [Aryan Godara] (https://github.com/AryanGodara/)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
