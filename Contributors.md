@@ -376,6 +376,7 @@ itay-guter
 - Jithin Jagadeesh
 -[BikramPanda](https://github.com/bikipanda)
 -[Aniruddh Pramod](https://github.com/aniruddh-pramod)
+-[Sinan Harmanci]
 -[Trenton Stetson](https://github.com/stetson912)
 -[Mayur Vaidya](https://github.com/mnvaidya)
 -[Joshua McElroy](https://github.com/tkdevil)
