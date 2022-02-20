@@ -4843,6 +4843,7 @@ Michael Wong
 - [benn1S] (https://github.com/benn1S)
 - [Vikram Abhishek Sah]
 - [Nikhil Chandna]
+- [xwanats] (https://github.com/xwanats)
 - [Dylan Morrissey] (https://github.com/morrisseydylan)
 - [the1311](https://github.com/the1311)
 - [SalmaHanafi](https://github.com/SalmaHanafi)
