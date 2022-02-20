@@ -5326,3 +5326,4 @@ Michael Wong
 - [vismay](https://github.com/vismay03)
 - [kanchanbhayera] (https://github.com/kanchanbhayera)
 - [Jakub Soboczyński](https://github.com/teziovsky)
+- [Joao F Cachinho](https://github.com/jcachinho)
