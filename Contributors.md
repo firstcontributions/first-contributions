@@ -43,6 +43,7 @@
 - [Priyank Harjilawala] (https://github.com/Priyank1712)
 - [Anil Kumar] (https://github.com/anil10032)
 - [Vamsi Vemur] https://github.com/ramv2014
+- [Ayden Kauffman] (https://github.com/AKauffy)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Zhonghan] (https://github.com/ZhonghanZhou)
 - [Dhiraj Jadhav] (https://github.com/i7hira7/)
