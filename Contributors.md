@@ -5187,6 +5187,7 @@ Michael Wong
 - [Dorian JC]
 - [Mathilde Grimal](https://github.com/mathildegrimal)
 - [Shamsuddeen](https://github.com/shamsu07)
+- [wirsnow](https://github.com/wirsnow)
 - [Max tools](https://github.com/maxtools)
 - [Tim Ellis](https://github.com/timmellis)
 - [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
