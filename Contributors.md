@@ -4,6 +4,7 @@
 
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Rafael Kayo](https://github.com/rKayoo)
+- [Archana Sevak] (https://github.com/ajsevak)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
@@ -16,11 +17,14 @@
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [Ayrat Gimranov] (https://github.com/ag961)
 - [Alex Voytko] (https://github.com/alevoy)
+- [Aryan Godara] (https://github.com/AryanGodara/)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
+- [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
+- [Samuel Sau] (https://github.com/SamuelSau)
 - [Shivankar Pilligundla] (https://github.com/shivankar-p)
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
 - [Farah Sinada] (https://github.com/FarahSinada)
@@ -40,6 +44,7 @@
 - [Anil Kumar] (https://github.com/anil10032)
 - [Vamsi Vemur] https://github.com/ramv2014
 - [Kodeiak] (https://github.com/Kodeiak/)
+- [Zhonghan] (https://github.com/ZhonghanZhou)
 - [Dhiraj Jadhav] (https://github.com/i7hira7/)
 - [Anek Porwal] (https://github.com/Anekjain)
 - [Dharmik Gohil] )(https://github.com/dharmik9829/)
@@ -2491,6 +2496,7 @@
 - [Manasa Venkatesh](https://github.com/Manasav1510)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
 - [Tom Stinson](https://github.com/14tstinson)
+- [milljer]
 - [Juan Cornejo](https://github.com/jcornejo86)
 - [Roxas](https://github.com/Glitch-Code-Design)
 - [Joselito Rebelo](https://github.com/joselito-coder)
