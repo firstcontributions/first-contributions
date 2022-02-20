@@ -519,6 +519,7 @@ Zack Bryant
 - [Shreya Denny](https://github.com/shreyadenny)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
 - [Ravi Ramchand](https://github.com/RaviRamchand)
+- [Gyanashree Giri] (https://github.com/GGi347)
 - [MuhammadSameh] (https://github.com/MuhammadSameh)
 - [Guntaas Singh](https://github.com/guntaas-singh)
 - [Radmir Sharifullin] (https://github.com/RadmirKZN)
