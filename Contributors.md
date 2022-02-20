@@ -9,6 +9,7 @@
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
+- [Daniru Ayuka](https://github.com/Daniru2007)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Shoib Ansari] (https://github.com/reddishshoib )
