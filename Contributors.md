@@ -27,6 +27,7 @@
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
+- [Molly Vanessa] (https://github.com/molly460)
 - [Daniel Jansson]
 - [Veronica Yap]
 - [Stacy Chiok]
