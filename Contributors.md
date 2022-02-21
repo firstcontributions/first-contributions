@@ -596,6 +596,7 @@ Zack Bryant
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
+- [Moulibrota Das](https://github.com/moulibrota-das)
 - [Nathaniel Bekele](https://github.com/natiwb)
 - [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Ashley Mays](https://github.com/ashleymays091)
