@@ -4,11 +4,13 @@
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [Archana Sevak] (https://github.com/ajsevak)
+- [JAAS] (https://github.com/jaas666)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Carl Che] (https://github.com/CarlChe)
+- [Dalan K] (https://github.com/ShakerrRL)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Shoib Ansari] (https://github.com/reddishshoib )
@@ -24,6 +26,7 @@
 - [Daniel Jansson]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
+- [Yash Jethani] (https://github.com/abcd1234zyx)
 - [Shivankar Pilligundla] (https://github.com/shivankar-p)
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
 - [Farah Sinada] (https://github.com/FarahSinada)
@@ -42,6 +45,7 @@
 - [Priyank Harjilawala] (https://github.com/Priyank1712)
 - [Anil Kumar] (https://github.com/anil10032)
 - [Vamsi Vemur] https://github.com/ramv2014
+- [Ayden Kauffman] (https://github.com/AKauffy)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Zhonghan] (https://github.com/ZhonghanZhou)
 - [Dhiraj Jadhav] (https://github.com/i7hira7/)
@@ -90,6 +94,7 @@
 - [Abisai Arreguin](https://github.com/Abisai-Arreguin)
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
+- [Sameer Mannava]()
 - [Duc Tran](https://github.com/Ducz01)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
@@ -232,6 +237,7 @@
 - [Daniel Isea](https://github.com/disea18)
 - [Daniel Ho](https://github.com/Daniel-Ho986)
 - [Shubham Kaudewar](https://github.com/ShubhamKaudewar)
+- [Anish Kuriya] (https://github.com/anishk11/)
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Leonard Hibo](https://github.com/LeonardHibo)
@@ -518,6 +524,7 @@ Zack Bryant
 - [Shreya Denny](https://github.com/shreyadenny)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
 - [Ravi Ramchand](https://github.com/RaviRamchand)
+- [Gyanashree Giri] (https://github.com/GGi347)
 - [MuhammadSameh] (https://github.com/MuhammadSameh)
 - [Guntaas Singh](https://github.com/guntaas-singh)
 - [Radmir Sharifullin] (https://github.com/RadmirKZN)
@@ -841,7 +848,9 @@ Justin Villena
 - Relly Valentine
 - Odell Blackmon III
 - Alexander Tönges
+- [Kaushik Chowdhury](https://github.com/KaushikChowdhury)
 - Karttekay Grover
+- Max Morgan (https://github.com/decepsis)
 - Phi Doan 
 - kishan Yadav
 - Zhiqing Qu
@@ -5319,3 +5328,5 @@ Michael Wong
 - [Ali Mohsen](https://github.com/mohsenalis)
 - [vismay](https://github.com/vismay03)
 - [kanchanbhayera] (https://github.com/kanchanbhayera)
+- [Jakub Soboczyński](https://github.com/teziovsky)
+- [Joao F Cachinho](https://github.com/jcachinho)
