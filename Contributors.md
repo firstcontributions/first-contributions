@@ -2634,6 +2634,7 @@ Himanshu Dedha
 - [Philip Nguyen] (https://github.com/ITSFILLUP)
 - [Eliran Amar](https://github.com/eliranamar)
 - [Gabriel Chammas](https://github.com/gchammas23)
+- [Jay Greck](https://github.com/JayGreck)
 - [Nataly Merezhuk](https://github.com/natalyjazzviolin)
 - [Berkay Eren Konuk](https://github.com/Berikai)
 - [Asim Delvi](https://github.com/asimdelvi)
