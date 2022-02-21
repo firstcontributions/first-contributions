@@ -29,6 +29,7 @@
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
 - [Veronica Yap]
+- [Stacy Chiok]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
 - [Yash Jethani] (https://github.com/abcd1234zyx)
