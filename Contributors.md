@@ -26,6 +26,7 @@
 - [Daniel Jansson]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
+- [Yash Jethani] (https://github.com/abcd1234zyx)
 - [Shivankar Pilligundla] (https://github.com/shivankar-p)
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
 - [Farah Sinada] (https://github.com/FarahSinada)
