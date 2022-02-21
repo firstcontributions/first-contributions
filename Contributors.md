@@ -216,6 +216,7 @@
 - [Suk Joon Hong](https://github.com/hsjplus)
 - [Piyush Gaur](https://github.com/Dark-Knight-Rises)
 - [Paschal Maximillian](https://github.com/Pascal488)
+- [tyfal] (https://github.com/tyfal)
 - [Mamosebetsi Kekae](https://github.com/shaymk1)
 - [Cyrus Kirk](https://github.com/CyrusKirk)
 - [Evren Tan](https://github.com/evrentan)
