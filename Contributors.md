@@ -4,6 +4,7 @@
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [Archana Sevak] (https://github.com/ajsevak)
+- [Vamsi Kumar] (https://github.com/kuwar81523)
 - [JAAS] (https://github.com/jaas666)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
