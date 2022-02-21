@@ -1,7 +1,6 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [Archana Sevak] (https://github.com/ajsevak)
@@ -16,6 +15,7 @@
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
+- [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
 - [Shoib Ansari] (https://github.com/reddishshoib )
 - [Esther F] (https://github.com/zelf0)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
@@ -27,6 +27,8 @@
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Daniel Jansson]
+- [Veronica Yap]
+- [Stacy Chiok]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
 - [Yash Jethani] (https://github.com/abcd1234zyx)
@@ -141,6 +143,7 @@
 - [Mario Medina] (https://github.com/Magic-Mario)
 - [Kacper Ochnik] (https://github.com/TeriyakiGod)
 - [Willamys Cleyton] (https://github.com/WillamysC)
+- [Khanya Kupelo] (https://github.com/khanya-kupelo)
 - [Otabek Sobirov] (https://github.com/Otabek8866)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
   -Akash Hasamnis
@@ -451,6 +454,7 @@
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [Ilias000]
+- [Moulibrota Das](https://github.com/moulibrota-das)
 - [Nathaniel Bekele](https://github.com/natiwb)
 - [Zishanwang1992](https://github.com/Zishanwang1992)
 - [Ashley Mays](https://github.com/ashleymays091)
@@ -3910,6 +3914,7 @@
 - [Tejas Shende](https://github.com/Tejas06)
 - [Jess LaFrank](https://git.generalassemb.ly/jlafrank2)
 - [Juyeon Kim](https://github.com/proceane)
+- [Mfena Kaase](https://github.com/MfenaKaase)
 - [Hamza MiloufdAmar](https://github.com/HamzaAmar)
 - [Mohamed Amr](https://github.com/mohamedamr13)
 - [Fernando Sampaio](https://github.com/Sampasbc)
@@ -5169,3 +5174,5 @@
 - [kanchanbhayera] (https://github.com/kanchanbhayera)
 - [Jakub Soboczyński](https://github.com/teziovsky)
 - [Joao F Cachinho](https://github.com/jcachinho)
+- [Steven Samy] (https://github.com/stevensamy27)
+- [Tezze] (https://github.com/Tezze2001)
