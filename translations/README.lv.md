@@ -4,119 +4,115 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Pirmais devums
+# पहिले योगदान
+प्रथमच काहीतरी करणे नेहमीच कठीण असते. याव्यतिरिक्त, चुका करणे, विशेषतः इतरांशी संवाद साधताना, आनंददायी नाही. आम्ही नवीन मुक्त स्रोत सह-लेखक शिकण्याचा आणि प्रथमच त्यांचे इनपुट जोडण्याचा मार्ग सुलभ करू इच्छितो.
 
-Kaut ko paveikt pirmo reizi vienmēr ir grūti. Turklāt pieļaut kļūdas, jo īpaši līdzdarbojoties ar citiem, nav patīkami. Mēs vēlamies vienkāršot veidu, kā jauni atvērtā koda līdzautori mācās un pievieno savu devumu pirmo reizi.
+लेख वाचणे आणि ट्यूटोरियल पाहणे मदत करू शकते, परंतु वास्तविक शिक्षण वातावरणापेक्षा चांगले काहीही नाही. या प्रकल्पाचे उद्दिष्ट मार्गदर्शन प्रदान करणे आणि नवशिक्यांनी त्यांचे प्रथम योगदान जोडण्याचे मार्ग सुलभ करणे हे आहे. तुम्हाला सहभागी व्हायचे असल्यास, खालील चरणांचे अनुसरण करा.
 
-Rakstu lasīšana un pamācību skatīšanās var palīdzēt, tomēr nekas nav labāks par īstu darbību mācību vidē. Šī projekta mērķis ir sniegt norādījumus un vienkāršot veidu, kā iesācēji pievieno savu pirmo devumu. Ja tu vēlies līdzdarboties, seko turpmāk norādītajiem soļiem.
-
-#### *Ja tu nejūties ērti ar komandrindu, [izmanto GUI rīku pamācības.]( #pamācības-citiem-rīkiem )*
+#### *जर तुम्हाला कमांड लाइनसह सोयीस्कर वाटत नसेल, तर 
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Ja tavā datorā nav git, [uzinstalē to]( https://help.github.com/articles/set-up-git/).
+तुमच्या संगणकावर गिट नसल्यास, [ते स्थापित करा] (https://help.github.com/articles/set-up-git/).
 
-## Izveido repozitorija atzarojumu
+## भांडार शाखा तयार करते
 
-Izveido savu repozitorija atzarojumu, nospiežot *fork* pogu šīs lapas augšpusē.
-Tādējādi tavā profilā tiks izveidota šī repozitorija kopija.
+या पृष्ठाच्या शीर्षस्थानी * फोर्क * बटणावर क्लिक करून तुमची स्वतःची भांडार शाखा तयार करा.
+हे तुमच्या प्रोफाइलमध्ये या भांडाराची एक प्रत तयार करेल.
 
-## Klonē repozitoriju
+## रेपॉजिटरी क्लोन करा
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Tagad klonē nokopēto repozitoriju savā datorā. Ej uz savu GitHub profilu, atver nokopēto repozitoriju, nospied *clone* pogu un tad nospied uz *copy to clipboard* ikonas.
+आता तुमच्या संगणकावरील कॉपी केलेल्या भांडाराचे क्लोन करा. तुमच्या GitHub प्रोफाइलवर जा, कॉपी केलेले भांडार उघडा, * क्लोन * बटण दाबा आणि नंतर * क्लिपबोर्डवर कॉपी करा * चिन्हावर क्लिक करा.
 
-Atver termināli un palaid šo git komandu:
+टर्मिनल उघडा आणि ही git कमांड चालवा:
 
-```
-git clone "tikko nokopētā saite"
-```
-kur "tikko nokopētā saite" (bez pēdiņām) ir url uz šo repozitoriju (tavs projekta atzarojums). Apskaties iepriekšējos soļos, kā dabūt url.
+``
+git क्लोन "फक्त कॉपी केलेली लिंक"
+``
+जिथे "फक्त कॉपी केलेली लिंक" (कोट्सशिवाय) ही या भांडाराची url आहे (तुमची प्रकल्प शाखा). url कसे मिळवायचे यासाठी मागील चरण पहा.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Piemēram:
+उदाहरणार्थ:
 ```
 git clone https://github.com/tavs-vārds/first-contributions.git
 ```
-kur `tavs-vārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozitorija *first-contributions* saturu savā datorā.
+जिथे `your-name` हे तुमचे GitHub वापरकर्तानाव आहे. अशा प्रकारे तुम्ही GitHub रेपॉजिटरी * प्रथम-योगदान* मधील सामग्री तुमच्या संगणकावर कॉपी करता.
+## शाखा तयार करतो
+तुमच्या कॉम्प्युटरवरील रेपॉजिटरी डिरेक्टरी बदला (जर तुम्ही त्यात आधीपासून नसल्यास):
 
-## Izveido zaru
+``
+cd प्रथम-योगदान
+``
+आता 'git checkout' कमांडसह एक शाखा तयार करा:
+``
+git checkout -b <put-new-branch-name>
+``
 
-Savā datorā nomaini repozitorija direktoriju (ja tu vēl neatrodies tajā):
-
-```
-cd first-contributions
-```
-Tagad izveido zaru ar `git checkout` komandu:
-```
-git checkout -b <ieliec-jaunā-zara-nosaukumu>
-```
-
-Piemēram:
-```
+उदाहरणार्थ:
+``
 git checkout -b add-alonzo-church
-```
-(Zara nosaukumā nav obligāti jābūt vārdam *add*, bet būtu lietderīgi to iekļaut, jo šī zara mērķis ir tava vārda pievienošana sarakstam.)
+``
+(शाखेच्या नावात *add* हा शब्द असण्याची गरज नाही, पण ते समाविष्ट करणे उपयुक्त ठरेल, कारण या शाखेचा उद्देश तुमचे नाव यादीत समाविष्ट करणे आहे.)
 
-## Veic nepieciešamās izmaiņas un iesūti tās
+## आवश्यक बदल करा आणि सबमिट करा
 
-Tagad atver `Contributors.md` failu teksta redaktorā un pievieno tam savu vārdu. Nepievieno to faila sākumā vai beigās, bet ievieto to kaut kur pa vidu. Pēc tam saglabā failu.
-
+आता 'Contributors.md' फाईल टेक्स्ट एडिटरमध्ये उघडा आणि त्यात तुमचे नाव जोडा. फाईलच्या सुरवातीला किंवा शेवटी जोडू नका, तर मध्यभागी कुठेतरी ठेवा. नंतर फाईल सेव्ह करा.
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
+तुम्ही प्रोजेक्ट डिरेक्टरीमध्ये जाऊन `git status` कमांड कार्यान्वित केल्यास, तुम्हाला त्यात बदल झाल्याचे दिसेल.
 
-Ja tu dosies uz projekta direktoriju un izpildīsi komandu `git status`, tu redzēsi, ka tajā ir izmaiņas.
 
+तुम्ही 'git add' कमांडने नुकतेच तयार केलेल्या शाखेत खालील बदल जोडा:
 
-Pievieno šīs izmaiņas zaram, kuru tu tikko izveidoji, ar `git add` komandu:
-
-```
+``
 git add Contributors.md
-```
+``
 
-Tagad iesūti šīs izmaiņas ar `git commit` komandu:
-```
-git commit -m "Add <tavs-vārds> to Contributors list"
-```
-aizvietojot `<tavs-vārds>` ar savu vārdu.
+आता हे बदल `git कमिट` कमांडसह सबमिट करा:
+``
+git कमिट -m "योगदानकर्त्यांच्या यादीत <your-name> जोडा"
+``
+`<your-name>` च्या जागी तुमच्या स्वतःच्या नावाने.
 
-## Pievieno izmaiņas GitHub
 
-Pievieno savas izmaiņas ar komandu `git push`:
-```
-git push origin <ievieto-zara-nosaukumu>
-```
-aizvietojot `<ievieto-zara-nosaukumu>` ar zara, kuru tu iepriekš izveidoji, nosaukumu.
+## GitHub मध्ये बदल जोडते
+तुमचे बदल `git push` कमांडसह जोडा:
+``
+git पुश मूळ <insert-name>
+``
+`<insert-branch-name>` तुम्ही आधी तयार केलेल्या शाखेच्या नावाने बदलत आहे.
 
-## Iesniedz izmaiņas pārskatīšanai
-
-Ja tu dosies uz savu GitHub repozitoriju, tu redzēsi `Compare & pull request` pogu. Nospied to.
+## पुनरावलोकनासाठी बदल सबमिट करा
+तुम्ही तुमच्या GitHub रेपॉजिटरीमध्ये गेल्यास, तुम्हाला `तुलना आणि विनंती पुल` बटण दिसेल. ते दाबा.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Tagad iesniedz pievienotās izmaiņas.
+आता जोडलेले बदल सबमिट करा.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Jau pavisam drīz es pievienošu visas tavas izmaiņas šī projekta galvenajam (master) zaram. Tu saņemsi paziņojumu e-pastā, tiklīdz izmaiņas būs pievienotas.
+या प्रकल्पाच्या मुख्य शाखेत मी तुमचे सर्व बदल लवकरच जोडेन. बदल जोडल्याबरोबर तुम्हाला एक ईमेल सूचना प्राप्त होईल.
 
-## Un ko tagad?
+## आणि आता काय?
 
-Apsveicam! Tu tikko pabeidzi standarta  _fork -> clone -> edit -> PR_  darbplūsmu, ar kuru turpmāk bieži nāksies sastapties kā līdzautoram.
+अभिनंदन! तुम्ही नुकतेच मानक _fork -> क्लोन -> संपादन -> PR_ वर्कफ्लो पूर्ण केले आहे ज्याचा तुम्हाला भविष्यात सह-लेखक म्हणून सामना करावा लागेल.
+तुमच्या मित्रांना आणि अनुयायांना [आमच्या साइट] (https://firstcontributions.github.io/#social-share) बद्दल सांगा.
 
-Pastāsti par savu devumu saviem draugiem un sekotājiem, izmantojot [mūsu vietni](https://firstcontributions.github.io/#social-share).
+तुम्हाला मदत हवी असल्यास किंवा काही प्रश्न असल्यास तुम्ही आमच्या स्लॅक टीममध्ये देखील सामील होऊ शकता. [स्लॅकमध्ये सामील व्हा] (https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYQ
 
-Tu vari pievienoties arī mūsu slack komandai, ja tev nepieciešama palīdzība vai ir kādi jautājumi. [Pievienojies slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+आता तुम्ही इतर प्रकल्पांमध्ये सहभागी होऊ शकता. आम्ही अशा प्रकल्पांची सूची संकलित केली आहे ज्यात तुम्हाला प्रारंभ करण्यासाठी सोप्या समस्या आहेत. एक्सप्लोर करा [आमच्या साइटवरील प्रकल्पांची सूची] (https://firstcontributions.github.io/#project-list).
 
-Tagad tu vari līdzdarboties arī citos projektos. Mēs esam sastādījuši sarakstu ar projektiem, kuros ir vienkāršas problēmas, ar kurām tu varētu sākt. Izpēti [projektu sarakstu mūsu vietnē](https://firstcontributions.github.io/#project-list).
+Tumacyā mitrānnā āṇi anuyāyānnā [āmacyā sā'iṭa] (https://Firstcontributions.Github.Io/#social-share) baddala sāṅgā.
 
-### [Papildu materiāli](../additional-material/git_workflow_scenarios/additional-material.md)
+Tumhālā madata havī asalyāsa kinvā kāhī praśna asalyāsa tumhī āmacyā slĕka ṭīmamadhyē dēkhīla sāmīla hō'ū śakatā. [Slĕkamadhyē sāmīla vhā] (https://Join.Slack.Com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYQ
 
+### [पापिलडू मटेरियाली](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Pamācības citiem rīkiem
+## इतर साधनांसाठी सूचना
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
