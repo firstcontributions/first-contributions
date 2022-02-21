@@ -7,6 +7,7 @@
 - [Vamsi Kumar] (https://github.com/kuwar81523)
 - [JAAS] (https://github.com/jaas666)
 - [C.N. Mbhalati](https://github.com/CN-M)
+- [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
