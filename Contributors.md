@@ -66,6 +66,7 @@
 - [nirav kumar]
 - [Akshay Khare] (https://github.com/akshaykhare19)
 - [Atsushi Nitta] (https://github.com/a2-ww-1182)
+- [ArchitGupta-IITB](https://github.com/ArchitGupta-IITB)
 - [lab596] (https://github.com/lab596)
 - [James Le-Goff]
 -[Usha sri](https://github.com//ushasri123980)
