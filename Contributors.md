@@ -849,6 +849,7 @@ Justin Villena
 - Alexander Tönges
 - [Kaushik Chowdhury](https://github.com/KaushikChowdhury)
 - Karttekay Grover
+- Max Morgan (https://github.com/decepsis)
 - Phi Doan 
 - kishan Yadav
 - Zhiqing Qu
