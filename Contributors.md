@@ -251,6 +251,7 @@
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
 - [Sam Asher]
+- [Hailey Dann] (https://github.com/hailey-d)
 - [Anish]
 - [SHUBHAM JAUHARI](https://github.com/Jauhari-01)
 - Jacob Olson
