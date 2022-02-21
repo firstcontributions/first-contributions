@@ -4070,6 +4070,7 @@ Himanshu Dedha
 - [Tejas Shende](https://github.com/Tejas06)
 - [Jess LaFrank](https://git.generalassemb.ly/jlafrank2)
 - [Juyeon Kim](https://github.com/proceane)
+- [Mfena Kaase](https://github.com/MfenaKaase)
 - [Hamza MiloufdAmar](https://github.com/HamzaAmar)
 - [Mohamed Amr](https://github.com/mohamedamr13)
 - [Fernando Sampaio](https://github.com/Sampasbc)
