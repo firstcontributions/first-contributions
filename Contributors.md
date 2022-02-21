@@ -237,6 +237,7 @@
 - [Daniel Isea](https://github.com/disea18)
 - [Daniel Ho](https://github.com/Daniel-Ho986)
 - [Shubham Kaudewar](https://github.com/ShubhamKaudewar)
+- [Anish Kuriya] (https://github.com/anishk11/)
 - Chris McCorkle
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Leonard Hibo](https://github.com/LeonardHibo)
