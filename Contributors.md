@@ -243,6 +243,7 @@
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
 - [Sam Asher]
+- [Anish]
 - [SHUBHAM JAUHARI](https://github.com/Jauhari-01)
 - Jacob Olson
 - [Norm W] (https://github.com/otemon)
