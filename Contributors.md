@@ -146,6 +146,7 @@
 - [Mario Medina] (https://github.com/Magic-Mario)
 - [Kacper Ochnik] (https://github.com/TeriyakiGod)
 - [Willamys Cleyton] (https://github.com/WillamysC)
+- [Khanya Kupelo] (https://github.com/khanya-kupelo)
 - [Otabek Sobirov] (https://github.com/Otabek8866)
 - Unkown Crafts(https://github.com/FakeZombieCraft/first-contributions)
 -Akash Hasamnis
