@@ -5338,3 +5338,4 @@ Michael Wong
 - [Jakub Soboczyński](https://github.com/teziovsky)
 - [Joao F Cachinho](https://github.com/jcachinho)
 - [Steven Samy] (https://github.com/stevensamy27)
+- [Tezze] (https://github.com/Tezze2001)
