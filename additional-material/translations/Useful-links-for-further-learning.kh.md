@@ -1,0 +1,38 @@
+# តំណ​ភ្ជាប់​ដែល​មានប្រយោជន៍
+
+ឯកសារនេះត្រូវបានឧទ្ទិសដល់គេហទំព័រគន្លឹះ និងល្បិច ប្រកាសប្លក់ និងគេហទំព័រមានប្រយោជន៍ ដែលធ្វើឲ្យជីវិតរបស់យើងកាន់តែងាយស្រួល។ ពួកវាជាឯកសារយោងដ៏ល្អសម្រាប់បម្រើតម្រូវការទាំងអស់របស់យើង មិនថាជាអ្នកចាប់ផ្តើម ឬអ្នកជំនាញ។ ទំព័រនេះគួរតែដើរតួជាលិបិក្រមនៃតំណភ្ជាប់ដែលមានប្រយោជន៍ទាំងអស់នោះ ដែលនឹងជួយអ្នកគ្រប់គ្នាដែលថ្មីនៅក្នុងដែនប្រភពបើកចំហ ឬអ្នកដែលចង់ស្វែងយល់បន្ថែម។
+
+## បញ្ជី
+1.  [ការបង្រៀនអន្តរកម្មទៅ git](https://try.github.io)
+2.  [git - ការណែនាំសាមញ្ញ](http://rogerdudler.github.io/git-guide/)
+3.  [លើការមិនធ្វើ ជួសជុល ឬលុបការសន្យានៅក្នុង git](http://sethrobertson.github.io/GitFixUm/fixup.html)
+4.  [ការបង្រៀន Git និង GitHub ត្រូវបានបកប្រែជាភាសាជាច្រើន។](https://github.com/Roshanjossey/first-contributions)
+5.  [បញ្ចូលគ្នានូវជម្លោះ](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)
+6.  [Rការដោះស្រាយជម្លោះរួមបញ្ចូលគ្នា](https://githowto.com/resolving_conflicts)
+7. [មូលដ្ឋានគ្រឹះនៃ Git - មគ្គុទ្ទេសក៍ចាប់ផ្តើមរហ័សសាមញ្ញ](https://blog.praveen.science/basics-of-git-the-quick-start-guide/)
+8. [ស្តង់ដារ Git បានអនុវត្តតាមវិធីរបស់យើងនៃ Spotify Agile Methodology](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/)
+9. [ផ្លូវកាត់ Git](https://blog.praveen.science/git-shortcuts/)
+10.  [សន្លឹកបន្លំ Git ផ្លូវការជាភាសាជាច្រើន។](https://services.github.com/on-demand/resources/cheatsheets)
+11.  [ទទួលបានសន្លឹកបន្លំពី Tower](https://www.git-tower.com/learn/cheat-sheets/git)
+12.  [បញ្ហា Git ទូទៅ](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
+13. [Git Rebase](https://blog.gitprime.com/git-rebase-an-illustrated-guide/)
+14. [មគ្គុទ្ទេសក៍សម្រាប់អ្នកចាប់ផ្តើមដំបូង ចំពោះការបះបោរ និងការស៊ី](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
+15. [Git Cheatsheet ដែលបង្ហាញពីទំនាក់ទំនងរវាងពាក្យបញ្ជា និងឯកសារ](http://ndpsoftware.com/git-cheatsheet.html)
+16. [របៀបរួមចំណែក](https://opensource.guide/how-to-contribute/)
+17. [ចាប់ផ្តើមជាមួយប្រភពបើកចំហ](https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources)
+18. [របៀបរួមចំណែក](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+19. [ការបង្រៀន Atlassians Git](https://www.atlassian.com/git)
+20. [ទាញការវាយតម្លៃសំណើ](https://help.github.com/articles/about-pull-request-reviews/)
+21. [ការបង្រៀនអន្តរកម្មមួយផ្សេងទៀតសម្រាប់ git](https://learngitbranching.js.org/)
+22. [សន្លឹកបន្លំបន្ទាត់ពាក្យបញ្ជា Git](https://gist.github.com/davfre/8313299)
+23. [សៀវភៅសរសេរកម្មវិធី](https://github.com/EbookFoundation/free-programming-books)
+24. [សៀវភៅអេឡិចត្រូនិចនៃព័ត៌មានជំនួយ និងអាថ៌កំបាំងប្រកបដោយវិជ្ជាជីវៈ](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
+25. [ការបង្រៀនអំពីច្បាប់សាមញ្ញនៃការក្លាយជាអ្នកជំនាញ git](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+26. [ចំណាំអំពី Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+27. [គន្លឹះមានប្រយោជន៍ចំនួន ប្រាំ សម្រាប់សារសន្យាកាន់តែប្រសើរ](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
+28. [ការគ្រប់គ្រងកំណែដោយប្រើ Git](https://ourcodingclub.github.io/2017/02/27/git.html)
+29. [ការគ្រប់គ្រងកំណែជាមួយ Git](https://www.udacity.com/course/version-control-with-git--ud123)
+30. [ធ្វើសវនកម្មវគ្គសិក្សា Coursera ពី Google](https://www.coursera.org/learn/introduction-git-github)
+31. [ការប្រើប្រាស់ការគ្រប់គ្រងកំណែនៅក្នុងកូដសហរដ្ឋអាមេរិក](https://code.visualstudio.com/docs/editor/versioncontrol)
+32. [Git vs Github: តើអ្វីជាភាពខុសគ្នា និងរបៀបចាប់ផ្តើមជាមួយទាំងពីរ](https://kinsta.com/knowledgebase/git-vs-github/)
+Keep adding more links, that you find helpful.
