@@ -31,6 +31,7 @@
 - [Molly Vanessa] (https://github.com/molly460)
 - [Daniel Jansson]
 - [Veronica Yap]
+- [Satyam Kumar] (https://github.com/officSatyam)
 - [Stacy Chiok]
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
