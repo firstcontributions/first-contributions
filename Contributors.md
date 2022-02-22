@@ -314,6 +314,7 @@ Laura Langdon
 Caroline Fye
 Gabrielle Jones
 - [Suhas M L]
+- Hendrik Vogel
 - [Radhika Bansal] (https://github.com/Radhika403)
 -[sahil ](ttps://github.com/sahilpratapyadav1)
 - [Kolawole Akinsumbo] (https://github.com/kolawoleakins)
