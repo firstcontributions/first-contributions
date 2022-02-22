@@ -60,6 +60,7 @@
 - [Ayden Kauffman] (https://github.com/AKauffy)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Zhonghan] (https://github.com/ZhonghanZhou)
+- [Aradhana Chhabra] (https://github.com/AradhanaChhabra/)
 - [Dhiraj Jadhav] (https://github.com/i7hira7/)
 - [Anek Porwal] (https://github.com/Anekjain)
 - [Aaryan Dangi] (https://github.com/ubermensch101)
