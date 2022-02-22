@@ -18,6 +18,7 @@
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
+- [Oliver Looney] (https://github.com/Oliver-Looney)
 - [Shoib Ansari] (https://github.com/reddishshoib )
 - [Esther F] (https://github.com/zelf0)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
@@ -31,6 +32,7 @@
 - [Molly Vanessa] (https://github.com/molly460)
 - [Daniel Jansson]
 - [Veronica Yap]
+- [Satyam Kumar] (https://github.com/officSatyam)
 - [Stacy Chiok]
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
@@ -104,6 +106,7 @@
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sameer Mannava]()
+- [Ayush Dobal]
 - [Duc Tran](https://github.com/Ducz01)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
@@ -2686,6 +2689,7 @@ Himanshu Dedha
 - [milljer]
 - [Juan Cornejo](https://github.com/jcornejo86)
 - [Roxas](https://github.com/Glitch-Code-Design)
+- [Raynan](https://github.com/raynan10)
 - [Joselito Rebelo](https://github.com/joselito-coder)
 - [Westley Winks] (https://github.com/DadOfApollo)
 - [Melissa Coates](https://github.com/mecoat/)
@@ -5355,3 +5359,4 @@ Michael Wong
 - [Tezze] (https://github.com/Tezze2001)
 - [Anuj Bisht] (https://github.com/bishtanuj)
 - [Jiang Nan](https://github.com/oxonan9)
+- [Josh Fisher] (https://github.com/mrjoshfisher)
