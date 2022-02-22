@@ -433,7 +433,7 @@ Achal Mukaty
 - [eruj22](https://github.com/eruj22)
 - Jino Rohit
 - Irving Viveros
-- Nikki
+- [Nikki](add-your-github-profile)
 - [Usman Nadeem](https://github.com/usmanyvr)
 - [AnmolKaushik] (https://github.com/anmol-ui)
 - [Eduardo Rerick](https://github.com/eduardorerick)
