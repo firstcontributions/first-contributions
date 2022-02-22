@@ -5359,6 +5359,7 @@ Michael Wong
 - [Wendell Kenneddy](https://github.com/wendell-kenneddy)
 - [Ali Mohsen](https://github.com/mohsenalis)
 - [vismay](https://github.com/vismay03)
+- [Verena Diersch] (https://github.com/verena-diersch)
 - [kanchanbhayera] (https://github.com/kanchanbhayera)
 - [Jakub Soboczyński](https://github.com/teziovsky)
 - [Joao F Cachinho](https://github.com/jcachinho)
