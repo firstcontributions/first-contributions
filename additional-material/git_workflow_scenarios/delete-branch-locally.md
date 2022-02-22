@@ -1,4 +1,4 @@
-#Deleting a locally created Branch
+# Deleting a locally created Branch
 
 This will be handy when you accidently misspelled a branch name.
 
