@@ -62,6 +62,7 @@
 - [Zhonghan] (https://github.com/ZhonghanZhou)
 - [Dhiraj Jadhav] (https://github.com/i7hira7/)
 - [Anek Porwal] (https://github.com/Anekjain)
+- [Aaryan Dangi] (https://github.com/ubermensch101)
 - [Dharmik Gohil] )(https://github.com/dharmik9829/)
 - [Nitzan Papini](https://github.com/nitzanpap)
 - [jewoojung] (https://github.com/jewoojung)
