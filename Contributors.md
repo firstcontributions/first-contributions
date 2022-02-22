@@ -244,6 +244,7 @@
 - [Nina Wang](https://github.com/ericgchu)
 - [Brian McAbee](https://github.com/brianmcabee/)
 - [Harshit kumar yadav](https://github.com/harshit2123)
+- [Andrew Ross] (https://github.com/namenotinuse)
 - [Hakima Maarouf](https://github.com/hamaarouf)
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
 - [Marc Perlas](https://github.com/DadTech)
