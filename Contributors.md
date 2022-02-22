@@ -5367,5 +5367,6 @@ Michael Wong
 - [Steven Samy] (https://github.com/stevensamy27)
 - [Tezze] (https://github.com/Tezze2001)
 - [Anuj Bisht] (https://github.com/bishtanuj)
+- [Filipa Silva](https://github.com/filipaasilva)
 - [Josh Fisher] (https://github.com/mrjoshfisher)
 - [Andrew Mroczkowski] (https://github.com/amroczk4)
