@@ -114,6 +114,7 @@
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
+- DendeSon (https://https://github.com/DendeSon)
 - [Lrabbit] (https://github.com/litter-rabbit)
 - [Sazid Abdullah/Ayan](http://github.com/ayannw)
 - Cameron Montesano (https://github.com/ckmontesano)
