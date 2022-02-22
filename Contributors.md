@@ -5333,6 +5333,7 @@ Michael Wong
 - [Rodrigo Queiroz](https://github.com/RodrigoWebDev)
 - [Luiz Santos](https://github.com/J0se-Luiz)
 - [Dennis Wiersma](https://github.com/denniswiersma)
+- [Sameeksha Dalvi] (https://github.com/sameekshadalvi)
 - [Joseph Lee](https://github.com/QiUnknown)
 - [Gracesilia](https://github.com/gracesilia)
 - [janey668](https://github.com/janey668)
