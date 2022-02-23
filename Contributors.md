@@ -203,6 +203,7 @@
 - [Ayushi Srivastava](https://github.com/a-tanvi)
 - [Martins Anerua](https://github.com/anerua)
 - [Ian Dennis](https://github.com/ind9-nau)
+- [Ian Christian](https://github.com/ianc1991)
 - [Hafizul Haque](https://github.com/HafizulHaque)
 - [Nihal Jain](https://github.com/NihalJain)
 - [Udayan Kulkarni](https://github.com/Udayan853)
