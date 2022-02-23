@@ -997,6 +997,7 @@ Justin Villena
 - [Ayesha Pathan](https://github.com/ayesha1026)
 - [Hao Zheng] (https://github.com/marla0530)
 - [Mohit Hedaoo](https://github.com/Wonders11)
+- [James Wei](https://github.com/monkey-king-jim)
 - [Siddharth Pradeep](https://github.com/thirt33n)
 - [Robert Lieblang](https://github.com/roblieblang)
 - [Moiz Rehman] (https://github.com/MoizRehman98)
