@@ -3305,6 +3305,7 @@ Himanshu Dedha
 - [Abd](https://github.com/abd-ar)
 - [Filipe Lima](https://github.com/datsfilipe)
 - [Martin Bozhinov](https://github.com/MartinBozhinov)
+- [Ivo Pavlov](https://github.com/ivopavlov87)
 - [BrotatoBoi](https://github.com/BrotatoBoi) ;p
 - [Temitope Babatola](https://github.com/BBimie)
 - [William]
