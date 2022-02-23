@@ -4488,6 +4488,7 @@ Himanshu Dedha
 - [Meghan McFadden](https://github.com/meghanmcfadden)
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [ss]
+- [Patrick Drummond](https://github.com/PatrickDrummond)
 - [Joy Taylor](https://github.com/Joytaylor)
 - [Aaron Jeskie](https://github.com/ajesk)
 - [Dhanush Reddy](https://github.com/dhanushreddy291/)
