@@ -5259,6 +5259,7 @@ Michael Wong
 - [Raymond Zeaiter] (https://github.com/king-oldmate/)
 - [Jayam Malviya] (https://github.com/midNight-jam)
 - [Disha Verma] (https://github.com/dishaverma1)
+- [Kristopher Maxwell] (https://github.com/kcmaxwell)
 - [Mohamed Salah]
 - [Ant2705](https://github.com/ant2705)
 - [arhamymr](https://github.com/arhamymr)
