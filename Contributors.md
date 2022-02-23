@@ -1,4 +1,4 @@
-
+﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Eric Manfred](https://github.com/emanfred)
@@ -510,6 +510,7 @@ itay-guter
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Ananthakrishnan K](https://github.com/k-ananthakrishnan)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
+- [Septimiu Pop](https://github.com/SeptimiuPop)
 - [Damien Lhaurado](https://github.com/DamienDeveloppeur)
 Dheeraj
 Zack Bryant
