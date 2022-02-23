@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Phillip N.] (https://github.com/phuclinh9802)
@@ -268,6 +268,7 @@ Gabrielle Jones
 - [Suhas M L]
 - [Radhika Bansal] (https://github.com/Radhika403)
 -[sahil ](ttps://github.com/sahilpratapyadav1)
+- Ali Bangash (https://github.com/alibangas)
 - [Kolawole Akinsumbo] (https://github.com/kolawoleakins)
 - [Vinay Jain] (https://github.com/vinayjain18)
 - [Yash Navik] (https://github.com/Yashnavik)
