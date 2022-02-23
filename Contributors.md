@@ -873,6 +873,7 @@ Justin Villena
 - Reese Quinn
 - Sayan Maity
 - Natalie Heywood
+- [Tiago Jorge Barbosa Fernandes](https://github.com/Tiagof577)
 - [Nur Amyleena Arnie](https://github.com/amyleena95)
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
