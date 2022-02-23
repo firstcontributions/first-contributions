@@ -5155,6 +5155,7 @@ Michael Wong
 - [Piposo745](https://github.com/Piposo745)
 - [Yash Pareek](https://github.com/deepAIYash)
 - [Glob_Bruh](https://github.com/glob-bruh)
+- [Nalani Arita] (https://github.com/nalanios)
 - [jcqueiroz](https://github.com/jcqueiroz)
 - [AndrewSamoil](https://github.com/AndySamoil)
 - [Lorenzo Vainigli](https://github.com/lorenzovngl)
