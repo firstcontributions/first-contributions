@@ -5,6 +5,7 @@
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [cugab gaming]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
+- [DrowningSelf]
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [Archana Sevak] (https://github.com/ajsevak)
