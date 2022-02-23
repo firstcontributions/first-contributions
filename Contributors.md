@@ -19,6 +19,7 @@
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
+- [Samia Alghamdi]
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Orinax Bulbaron] (https://github.com/Orinax)
