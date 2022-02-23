@@ -265,6 +265,7 @@
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
+- [Tyler Woodcock](https://github.com/scolopaxminor)
 - [Sam Asher]
 - [Hailey Dann] (https://github.com/hailey-d)
 - [Anish]
