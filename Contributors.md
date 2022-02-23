@@ -4,6 +4,7 @@
 - [Eric Manfred](https://github.com/emanfred)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [cugab gaming]
+- [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
