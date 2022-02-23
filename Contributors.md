@@ -5317,6 +5317,7 @@ Michael Wong
 - [Alper Gungor](https://github.com/alpergng)
 - [Inzamam Ahmad](https://github.com/inzamamahmad3) 
 - [Samer Zeid](https://github.com/worldsamer)
+- [Samer Miqdadi](https://github.com/samermiq/first-contributions.git)
 - [Lucas Henrique](https://github.com/LucasHenrique-dev)
 - [Mateusz Moveusz93](https://github.com/morveusz93)
 - [Braien Machado](https://github.com/braien-machado)
