@@ -26,6 +26,7 @@
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
 - [Oliver Looney] (https://github.com/Oliver-Looney)
+- [Dylan Trepos] (https://github.com/dylantrepos)
 - [Shoib Ansari] (https://github.com/reddishshoib )
 - [Esther F] (https://github.com/zelf0)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
