@@ -79,7 +79,7 @@
 - [Gosia Marczak] (https://github.com/ilmasota)
 - [Carlos Martinez] (https://github.com/Cima9642)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
-- [Tristan Frazier] (https://github.com/Tris-Frazier)
+- [Tristan Frazier](https://github.com/Tris-Frazier)
 - [Anna Wojdylo](https://github.com/Noi5/)
 - [Hein Khant] (https://github.com/HeinKhant14)
 - [Raden Salman] (https://github.com/RadenSalman)
