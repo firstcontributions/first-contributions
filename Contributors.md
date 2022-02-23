@@ -20,6 +20,7 @@
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Samia Alghamdi]
+- [Juan M]
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Orinax Bulbaron] (https://github.com/Orinax)
