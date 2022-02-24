@@ -121,6 +121,7 @@
 - [Sameer Mannava]()
 - [Ayush Dobal]
 - [Duc Tran](https://github.com/Ducz01)
+- [Kelvin Doe](https://github.com/kelvindoe22)
 - [Sam kanja](https://github.com/Samkanja/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
