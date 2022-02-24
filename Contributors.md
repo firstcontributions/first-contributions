@@ -13,6 +13,7 @@
 - [C.Beare] (https://github.com/SeaBeare)
 - [Vamsi Kumar] (https://github.com/kuwar81523)
 - [JAAS] (https://github.com/jaas666)
+- [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
