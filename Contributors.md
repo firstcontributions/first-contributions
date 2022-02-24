@@ -47,6 +47,7 @@
 - [Bharat] (https://github.com/nicobreins)
 - [Satyam Kumar] (https://github.com/officSatyam)
 - [Stacy Chiok]
+- [HyperLeafy] (https://github.com/HyperLeafy)
 - [YL]
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
