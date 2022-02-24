@@ -2815,6 +2815,7 @@ Himanshu Dedha
 - [Ciaran Rogers](https://github.com/CiaranRogers88)
 - [Shreeraj Vijay Bhamare](https://github.com/shreerajbhamare)
 - [Prateek Bansal](https://github.com/itsprateekbansal)
+- [Konstantin Uzunov](https://github.com/kuzunov)
 - [Cao Toan Khoa](https://github.com/khoatcao)
 - [Annalina Becker] (https://github.com/annalinab)
 - [Giuliana Dowd](https://github.com/giulianadowd)
