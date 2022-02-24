@@ -5374,6 +5374,7 @@ Michael Wong
 - [Ben Kereopa-Yorke](https://github.com/Benjamin-KY)
 - [Harsha Chandrashekar](https://github.com/EagleCoder404)
 - [George Delchev](https://github.com/george-delchev)
+- [Ali Danapour](https://github.com/alidanapour)
 - [Nutawut Bootton](https://github.com/kane5648)
 - [Rodrigo Queiroz](https://github.com/RodrigoWebDev)
 - [Luiz Santos](https://github.com/J0se-Luiz)
