@@ -24,6 +24,7 @@
 - [Samia Alghamdi]
 - [Juan M]
 - [luissoy] (https://github.com/luissabio)
+- [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
 - [alesabio] (https://github.com/alesabio)
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
