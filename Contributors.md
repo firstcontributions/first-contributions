@@ -9,6 +9,7 @@
 - [DrowningSelf]
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
 - [Rafael Kayo](https://github.com/rKayoo)
+- [Mehedi Hassan Durjoi](https://github.com/durjoi)
 - [Archana Sevak] (https://github.com/ajsevak)
 - [C.Beare] (https://github.com/SeaBeare)
 - [Vamsi Kumar] (https://github.com/kuwar81523)
