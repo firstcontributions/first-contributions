@@ -2428,6 +2428,7 @@ Himanshu Dedha
 - [Todd](https://github.com/DotSpread)
  [Kim jin won](https://github.com/vahaie)
 - [Andrew Li](https://github.com/andrew159li)
+- [Maxime N](https://github.com/MaximeNry)
 - [Shubh Chudasama](https://github.com/c-shubh)
 - [Jens Jovellano](https://github.com/pizzanoodles)
 - [Harshit Bhat](https://github.com/harshitbhat)
