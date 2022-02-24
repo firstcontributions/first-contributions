@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Eric Manfred](https://github.com/emanfred)
@@ -12,6 +12,7 @@
 - [Archana Sevak] (https://github.com/ajsevak)
 - [C.Beare] (https://github.com/SeaBeare)
 - [Vamsi Kumar] (https://github.com/kuwar81523)
+- [Vikhyath S](https://github.com/vikhyathdevadiga)
 - [JAAS] (https://github.com/jaas666)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
