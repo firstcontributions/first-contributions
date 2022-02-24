@@ -16,6 +16,7 @@
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
+- [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
