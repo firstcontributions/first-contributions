@@ -85,6 +85,7 @@
 - [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
 - [Daniel Adesanya](https://github.com/4x3l3r8)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
+- [Sam Hamilton] (https://github.com/sthamilton)
 - [nirav kumar]
 - [Akshay Khare] (https://github.com/akshaykhare19)
 - [Atsushi Nitta] (https://github.com/a2-ww-1182)
