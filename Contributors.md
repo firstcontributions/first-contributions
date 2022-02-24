@@ -1421,6 +1421,7 @@ yejashi
 - [Mounir El-Abbas](https://github.com/MounirEl-Abbas)
 - [Gusaku](https://github.com/mizuki-jcg)
 - [Sachin Baghel](https://github.com/sachin10fi)
+- [Xaypanya Phongsa](https://github.com/Xaypanya)
 - [Randy Riley](https://github.com/rylee816)
 - [Stephen Podlogar](https://github.com/stpodlogar)
 - [Netanel Kadosh](https://github.com/NetanelK)
