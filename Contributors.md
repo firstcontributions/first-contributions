@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Eric Manfred](https://github.com/emanfred)
@@ -1257,6 +1257,7 @@ yejashi
   [Markos Sankey](https://github.com/markossankey)
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
+- [Vikhyath S](https://github.com/vikhyathdevadiga)
 - [Billy Bao](https://github.com/biligeny)
 - [Philip Maglieri] (https://github.com/Mr-PMAG)
 - [Sudarshan S] (https://github.com/sudarshan-hub)
