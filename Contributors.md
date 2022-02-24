@@ -967,6 +967,7 @@ Justin Villena
 - Nicolas Perez
 - Ashish Suman
 - Kamil Roszuk
+- Ivan Sledge
 - [GulliverMadrid](https://github.com/GulliverMadrid)
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
