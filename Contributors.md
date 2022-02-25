@@ -144,6 +144,7 @@
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
+- [Logan Clifton] (https://github.com/Logan752000)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
 - DendeSon (https://https://github.com/DendeSon)
 - [Lrabbit] (https://github.com/litter-rabbit)
