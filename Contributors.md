@@ -615,6 +615,7 @@ Zack Bryant
 - [Andrew Mele](https://github.com/andrew-mele)
 - [Nithin Suresh](https://github.com/nithinkzy)
 - [Amal Kuriakose](https://github.com/amalkuriakose)
+- [mcjerz](https://github.com/mcjerz)
 - [traderdude123](https://github.com/traderdude123)
 - [Hudlez](https://github.com/hudlez)
 - [nekoism](https://github.com/nekoism)
