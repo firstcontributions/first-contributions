@@ -29,6 +29,7 @@
 - [luissoy] (https://github.com/luissabio)
 - [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
 - [alesabio] (https://github.com/alesabio)
+- [NTP] (https://github.com/duralumin02)
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Orinax Bulbaron] (https://github.com/Orinax)
