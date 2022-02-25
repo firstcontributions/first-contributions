@@ -385,6 +385,7 @@ Gabrielle Jones
 -[sujana](https://github.com/sujana-kamasany)
 -[Ben Belljamin](https://github.com/benbelljamin)
 - [Rahul Viju](https://github.com/rahulviju)
+-[Tyler Lenick](https://github.com/tylerlenick)
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
 -[Ayush panwar](https://github.com/PanwarAyush)
