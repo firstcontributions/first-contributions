@@ -24,7 +24,7 @@ Esse documento provê informações sobre como remover um arquivo do seu reposit
 
 ### [Removendo um Branch do seu repositório](../git_workflow_scenarios/removing-branch-from-your-repository.md)
 Esse documento provê informações sobre como deletar um Branch do seu repositório.
-> Apenas siga esses passos após o seu pull request ter sido mesclado.
+> Apenas siga esses passos após o seu pull request ter sido integrado.
 
 ### [Resolvendo conflitos de Merge](../git_workflow_scenarios/resolving-merge-conflicts.md)
 Esse documento provê informações sobre como resolver conflitos de Merge.
@@ -43,4 +43,4 @@ Esse documento provê informações sobre como desfazer um commit no seu reposit
 > Take these steps if you want to undo/reset a local commit.
 
 ### [Links úteis](../git_workflow_scenarios/Useful-links-for-further-learning.md)
-Esse documento é dedicado a todos os blog posts, sites úteis, dicas e truques que fazem a nossa vida mais simples. Seja você um expert ou um iniciante, essa pagina deve servir como um index para todos esses links úteis para ajudar qualquer um que seja novo no mundo de projetos open-source ou alguém que queira prender mais a respeito.
+Esse documento é dedicado a todos os blog posts, sites úteis, dicas e truques que fazem a nossa vida mais simples. Seja você um expert ou um iniciante, essa página deve servir como um index para todos esses links úteis para ajudar qualquer um que seja novo no mundo de projetos open-source ou alguém que queira prender mais a respeito.
