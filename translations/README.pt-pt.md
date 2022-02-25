@@ -7,7 +7,7 @@
 
 É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está a colaborar, errar não é algo agradável. Mas *open source* (código aberto) trata-se de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembra-te: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, segue os passos abaixo. Nós prometemos, será divertido.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projecto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembra-te: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, segue os passos abaixo. Nós prometemos, será divertido.
 
 Se ainda não tens o git na tua máquina, [instala-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
@@ -38,7 +38,7 @@ onde "este-eh-voce" é o seu usuário do GitHub. Aqui estas a copiar o conteúdo
 
 ## Cria um Branch
 
-Vá para o diretório do repositório no teu computador (caso ainda não estejas lá):
+Vá para o directório do repositório no teu computador (caso ainda não estejas lá):
 ```
 cd first-contributions
 ```
@@ -56,7 +56,7 @@ Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é reco
 
 ## Efetua as alterações necessárias e faz um Commit
 
-Agora abre o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome nele e guarda o ficheiro. Se fores para o diretório do projeto e executar o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
+Agora abre o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome nele e guarda o ficheiro. Se fores para o directório do projecto e executar o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
 ```
 git add Contributors.md
 ```
@@ -84,7 +84,7 @@ Agora envia um Pull Request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envia um pull request" />
 
-Logo estarei a incorporar as tuas mudanças no Branch principal (master) deste projeto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
+Logo estarei a incorporar as tuas mudanças no Branch principal (master) deste projecto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
 
 ## Para onde ir a partir daqui?
 
