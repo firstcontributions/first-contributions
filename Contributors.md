@@ -2277,6 +2277,7 @@ Pranjal
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Balaganesh Manikandan](https://github.com/Bala179)
 - [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
+- [Kufre Udoh](https://github.com/gentlekboy)
 - [Aimi Fadhil](https://github.com/ColonelBucket8)
 - [Kenth Cadayday](https://github.com/Kentuxx/)
 - [Emily Jia](https://github.com/emilyyjia)
