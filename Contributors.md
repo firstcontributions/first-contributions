@@ -5049,6 +5049,7 @@ Michael Wong
 - [Gateston Johns] (https://github.com/gatestonjohns)
 - [Eduardo Yoo] (https://github.com/EduardoYoo)
 - [Jiayu Huang] (https://github.com/peter6866)
+- [Edilson Matola](https://github.com/edilsonmatola)
 - Moses Mwila
 - [Daniel Park] (https://github.com/Dan1004x)
 - [William Gregory] (https://github.com/WEGGregory)
