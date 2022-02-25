@@ -23,6 +23,7 @@
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Samia Alghamdi]
+- [Eric Skoglund] (https://github.com/Ericmjskoglund)
 - [Juan M]
 - [luissoy] (https://github.com/luissabio)
 - [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
