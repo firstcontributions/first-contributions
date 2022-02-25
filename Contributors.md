@@ -27,6 +27,8 @@
 - [Eric Skoglund] (https://github.com/Ericmjskoglund)
 - [Juan M]
 - [luissoy] (https://github.com/luissabio)
+- [Duralumin] (https://github.com/duralumin02)
+
 - [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
 - [alesabio] (https://github.com/alesabio)
 - [Carl Che] (https://github.com/CarlChe)
