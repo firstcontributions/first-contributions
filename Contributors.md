@@ -137,6 +137,7 @@
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sameer Mannava]()
 - [Ayush Dobal]
+- [Austin Smith] (https://github.com/Garrus5009)
 - [Duc Tran](https://github.com/Ducz01)
 - [Kelvin Doe](https://github.com/kelvindoe22)
 - [Sam kanja](https://github.com/Samkanja/)
