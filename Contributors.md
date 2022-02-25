@@ -24,6 +24,7 @@
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Samia Alghamdi]
+- [Adam Pudliner](https://github.com/adampudliner)
 - [Eric Skoglund] (https://github.com/Ericmjskoglund)
 - [Juan M]
 - [luissoy] (https://github.com/luissabio)
