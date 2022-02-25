@@ -37,6 +37,7 @@
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
+- [Cyrus Shafizadeh] (https://github.com/cshafizadeh)
 - [Gabriel Pereira] (https://github.com/gsp-boop)
 - [Oliver Looney] (https://github.com/Oliver-Looney)
 - [Dylan Trepos] (https://github.com/dylantrepos)
