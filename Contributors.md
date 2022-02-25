@@ -694,6 +694,7 @@ Zack Bryant
 - [Jenny Klein]
 - [Sillix] 
 - [xuyi]
+- [hwangsr]
 - [xpctnc] (https://github.com/xpctnc)
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
