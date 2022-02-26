@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Eric Manfred](https://github.com/emanfred)
-- [Mark Vasquez] (https://github.com/Mark-Vasquez)
+- [Mark Vasquez](https://github.com/Mark-Vasquez)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
 - [cugab gaming]
