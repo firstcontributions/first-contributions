@@ -85,6 +85,7 @@
 - [Vamsi Vemur] https://github.com/ramv2014
 - [Ayden Kauffman] (https://github.com/AKauffy)
 - [Kodeiak] (https://github.com/Kodeiak/)
+- [Raj Singh] (https://github.com/singhrajgithub)
 - [Zhonghan] (https://github.com/ZhonghanZhou)
 - [Aradhana Chhabra] (https://github.com/AradhanaChhabra/)
 - [Dhiraj Jadhav] (https://github.com/i7hira7/)
