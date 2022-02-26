@@ -8,6 +8,7 @@
 - [Ajith D]
 - [cugab gaming]
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
+- [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
