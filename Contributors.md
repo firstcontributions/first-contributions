@@ -9,6 +9,7 @@
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
+- [Adyansh Kakran](https://github.com/AdyanshKakran)
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [Mehedi Hassan Durjoi](https://github.com/durjoi)
