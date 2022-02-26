@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Eric Manfred](https://github.com/emanfred)
 - [Antonios Papadakis](https://github.com/one-and-only)
+- [Gurveer Singh](https://github.com/Gurveer01)
 - [Dominic Duke](https://github.com/domduke)
 - [k2491p](https://github.com/k2491p)
 - [cugab gaming]
