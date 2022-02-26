@@ -6,6 +6,7 @@
 - [Dominic Duke](https://github.com/domduke)
 - [cugab gaming]
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
+- [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
