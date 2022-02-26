@@ -2786,6 +2786,7 @@ Himanshu Dedha
 - [Dan Kollar](https://github.com/dkollar)
 - [Dharmesh Upadhyay](https://github.com/itsdharmxd)
 - [Akash Tandale](https://github.com/Akash-Tandale001)
+- [Matthew Margeson](https://github.com/MargesonMJ)
 - [xsthetic](https://github.com/xsthetic)
 - [Tyler Laquinta](https://github.com/tylerlaquinta)
 - [Krishna Prakash](https://github.com/KrishnaPrakash650)
