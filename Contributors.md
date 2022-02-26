@@ -216,6 +216,7 @@
 - [Krish Veera] (https://github.com/krishrveera)
 - [Jebus] (https://github.com/Jebushdd)
 - [Siddharth Singh] (https://github.com/SidSin)
+- [Anant] (https://github.com/Anant16)
 - [Daniel Langwost] (https://github.com/LadanCode)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Arman Moztarzadeh] (https://github.com/armanmoztar)
