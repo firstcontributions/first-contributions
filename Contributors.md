@@ -610,6 +610,7 @@ Zack Bryant
 - [Mohammad Aman](https://github.com/AMANmohd1)
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
+- [Kiran kumar bhatra](https://github.com/kiran49kumar)
 - [Hrituraj Kalsekar](https://github.com/jacktheripp3r)
 - [Lion elias]
 - [Nic]
