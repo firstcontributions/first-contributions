@@ -5,6 +5,7 @@
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
 - [k2491p](https://github.com/k2491p)
+- [Ajith D]
 - [cugab gaming]
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
