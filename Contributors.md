@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Carl Che] (https://github.com/CarlChe)
+- [Menachem Saada] (https://github.com/meny100)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
