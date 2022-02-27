@@ -13,6 +13,7 @@
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
+- [Shwe Zin](https://github.com/Shweryl)
 - [DrowningSelf]
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
