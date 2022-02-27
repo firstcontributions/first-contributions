@@ -7,6 +7,7 @@
 - [k2491p](https://github.com/k2491p)
 - [Ajith D]
 - [Ashutosh](https://github.com/AshutoshShrestha)
+- [SZH](https://github.com/Shweryl)
 - [cugab gaming]
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Gagan Garg]
