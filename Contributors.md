@@ -70,6 +70,7 @@
 - [Satyam Kumar] (https://github.com/officSatyam)
 - [Stacy Chiok]
 - [HyperLeafy] (https://github.com/HyperLeafy)
+- [Prateek Yadav] (https://github.com/prateeky477)
 - [YL]
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
