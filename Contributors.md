@@ -12,6 +12,7 @@
 - [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
+- [SabrinaAde](https://github.com/SabrinaAde)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
 - [Rafael Kayo](https://github.com/rKayoo)
