@@ -5,12 +5,15 @@
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
 - [k2491p](https://github.com/k2491p)
+- [veryl1](https://github.com/Shweryl)
 - [Ajith D]
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [cugab gaming]
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
+- [Veryl](https://github.com/Shweryl)
+- [shwe zin](https://github.com/Shweryl)
 - [DrowningSelf]
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
