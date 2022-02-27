@@ -11,6 +11,7 @@
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
+- [Veryl](https://github.com/Shweryl)
 - [DrowningSelf]
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
