@@ -649,6 +649,7 @@ Zack Bryant
 - [traderdude123](https://github.com/traderdude123)
 - [Hudlez](https://github.com/hudlez)
 - [nekoism](https://github.com/nekoism)
+[Faza]
 - [EricXie](https://github.com/XieYY-Eric)
 - [Saeid Dogani](https://github.com/SaiedDogani1989)
 - [wook95](https://github.com/wook95)
