@@ -621,6 +621,7 @@ Zack Bryant
 - [Manah Shetty](https://github.com/manahshetty)
 - [Kristofer Osterhout](https://github.com/kris-zekteck)
 - [The Coding Canal](https://github.com/TheCodingCanal)
+- [TheJFo](https://github.com/TheJFo)
 - [Mohammad Aman](https://github.com/AMANmohd1)
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
