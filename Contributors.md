@@ -10,6 +10,7 @@
 - [SZH](https://github.com/Shweryl)
 - [cugab gaming]
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
+- [zaw ye naing](https://github.com/zawyenaing22)
 - [Gagan Garg]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
