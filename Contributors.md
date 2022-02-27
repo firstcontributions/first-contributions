@@ -1310,6 +1310,7 @@ yejashi
 - [Aidan Mariglia](https://github.com/AidanMariglia)
 - [Danis Idiatullin](https://github.com/dddiiirrr3)
 - [Robert Ning](https://github.com/ningrundong)
+- [Luca Fiorentino](https://github.com/fioredev)
 - [Kartik Negi](https://github.com/kartiknegi23)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
 - [moonjunehyeok](https://github.com/moonjunehyeok)
