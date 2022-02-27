@@ -14,7 +14,7 @@ Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä on
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Jos sinulla ei ole git asennettuna koneellesi, [asenna se](https://help.github.com/articles/set-up-git/).
+Asenna [Git](https://help.github.com/articles/set-up-git/) koneellesi, jos sitä sinulla ei ole asennettuna.
 
 ## Forkkaa tämä repositorio
 
