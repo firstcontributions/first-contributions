@@ -3787,6 +3787,7 @@ Himanshu Dedha
 - [MrADIGEN](https://github.com/mradigen)
 - [Ramiro](https://github.com/ramirok)
 - [u9g](https://github.com/u9g)
+- [lhartvik](https://github.com/lhartvik)
 - [volokh0x](https://github.com/volokh0x)
 - [YoshidaTomoaki](https://github.com/YoshidaTomoaki)
 - [Lesley Cheung](https://github.com/lezzles11)
