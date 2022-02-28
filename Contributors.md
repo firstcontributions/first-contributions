@@ -1108,6 +1108,7 @@ Nathan Hill
 - Jason Ghent
 - [Rahul Chari](https://github.com/rah-1)
 - [Laura C]
+- [Emmanuel Kobara](https://github.com/ekobara)
 - [Vinay]-[nothing]
 - [ce3team] (https://github.com/ce3team)
 -[Nirbyoleek Das](https://github.com/Nirbyoleek)
