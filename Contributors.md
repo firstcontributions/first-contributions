@@ -3040,6 +3040,7 @@ Himanshu Dedha
 - [Enyinna Chinwendu](https://github.com/wendeee)
 - [Bhargav avinash](https://github.com/bhargav794)
 - [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
+- [Nandan Holla](https://github.com/nandanholla)
 - [Shweta Patil](https://github.com/ShwetaPatil232)
 - [Kaushik Sai Kadali](https://github.com/kaushiksai29)
 - [Ashish Shroti](https://github.com/ashishshroti14)
