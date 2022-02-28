@@ -267,6 +267,7 @@
 - [Willy Trigg](https://github.com/williamgtrigg)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Timmy Omolana](https://github.com/Tee-Stark)
+- [Milofow](https://github.com/Milofow)
 - [Anish Vedantham] (https://github.com/garciajump)
 - [ConallOToole](https://github.com/conall47)
 - [Kishane Lewis](https://github.com/cosisaxis)
