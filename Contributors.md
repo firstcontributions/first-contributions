@@ -74,6 +74,7 @@
 - [goobric aka Mikal] (https://github.com/goobric
 - [Molly Vanessa] (https://github.com/molly460)
 - [Daniel Jansson]
+- [Kaiden H] (https://github.com/dratsuC)
 - [Veronica Yap]
 - [Bharat] (https://github.com/nicobreins)
 - [Satyam Kumar] (https://github.com/officSatyam)
