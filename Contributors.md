@@ -14,6 +14,7 @@
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Gagan Garg]
+- [Sneha Supriya](https://github.com/codingsneha)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Shwe Zin](https://github.com/Shweryl)
 - [Saurabh Dange](https://github.com/Saurabh-Dange)
