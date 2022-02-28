@@ -234,7 +234,6 @@
 - [Rohan Rathi](https://github.com/RohanIRathi)
 - [Subhasis Patra](https://github.com/SOLITIX)
 - [Rajesh Alane](https://www.github.com/rajeshalane)
-- [Akriti Mangal](https://github.com/akritimangal)
 - [Prajna Puranik](https://www.github.com/prajnapuranik)
 - [Ishan Roychowdhury] (https://github.com/hi101000)
 - [Uzma Khalil Shaikh](https://github.com/Uzma-Shaikh)
