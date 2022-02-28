@@ -48,6 +48,7 @@
 - [NTP] (https://github.com/duralumin02)
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
+- [Pranav Pillai] (https://github.com/pranav1597)
 - [Orinax Bulbaron] (https://github.com/Orinax)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Daniel Chang] (https://github.com/dcphantom)
