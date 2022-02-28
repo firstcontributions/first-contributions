@@ -82,6 +82,7 @@
 - [HyperLeafy] (https://github.com/HyperLeafy)
 - [Prateek Yadav] (https://github.com/prateeky477)
 - [YL]
+- [Emily Arnold] 
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
