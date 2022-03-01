@@ -9,6 +9,7 @@
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
 - [Dominic Merchelski] (https://github.com/rat-3)
+- [Yash Anand] (https://github.com/YashxAnand)
 - [k2491p](https://github.com/k2491p)
 - [Ankit Mehta](https://github.com/ankyit)
 - [Ajith D]
