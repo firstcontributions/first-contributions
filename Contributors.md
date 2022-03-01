@@ -8,6 +8,7 @@
 - [Eric Manfred](https://github.com/emanfred)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
+- [Dominic Merchelski] (https://github.com/rat-3)
 - [k2491p](https://github.com/k2491p)
 - [Ajith D]
 - [Ashutosh](https://github.com/AshutoshShrestha)
