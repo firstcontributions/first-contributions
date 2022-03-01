@@ -12,6 +12,7 @@
 - [Yash Anand] (https://github.com/YashxAnand)
 - [k2491p](https://github.com/k2491p)
 - [Ankit Mehta](https://github.com/ankyit)
+-[Prashasth Nair](https://github.com/prashasth-nair)
 - [Ajith D]
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
@@ -572,7 +573,6 @@ itay-guter
 -[Saiwunna21](https://github.com/SaiWunna21)
 -[Nigel Monfries](https://github.com/NMonfries)
 -[Swapnil Prasad]
--[Prashasth Nair](https://github.com/prashasth-nair)
 -[HPH](https://github.com/HsuPyaeHan)
 -[Deep-Ramani](https://github.com/Deep-Ramani)
 - [Manish K](https://github.com/mksjc)
