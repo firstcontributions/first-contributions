@@ -17,6 +17,7 @@
 - [Mahmoud Hamdy]
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
+- [Colton Gibson]
 - [cugab gaming]
 - [code Nithin] (https://github.com/codenithin)
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
