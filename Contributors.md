@@ -10,6 +10,7 @@
 - [Dominic Duke](https://github.com/domduke)
 - [Dominic Merchelski] (https://github.com/rat-3)
 - [k2491p](https://github.com/k2491p)
+- [Ankit Mehta](https://github.com/ankyit)
 - [Ajith D]
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
