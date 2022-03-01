@@ -64,6 +64,7 @@
 - [Pranav Pillai] (https://github.com/pranav1597)
 - [Orinax Bulbaron] (https://github.com/Orinax)
 - [Conor Kennedy] (https://github.com/conorkenn)
+- [Manisha Nair] (https://github.com/maneesha-28)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
 - [Cyrus Shafizadeh] (https://github.com/cshafizadeh)
