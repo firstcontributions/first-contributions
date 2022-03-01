@@ -13,6 +13,7 @@
 - [k2491p](https://github.com/k2491p)
 - [Ankit Mehta](https://github.com/ankyit)
 - [Ajith D]
+- [Mahmoud Hamdy]
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
 - [cugab gaming]
