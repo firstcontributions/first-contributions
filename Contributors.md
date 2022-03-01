@@ -9,6 +9,7 @@
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
 - [k2491p](https://github.com/k2491p)
+- [Ankit Mehta](https://github.com/ankyit)
 - [Ajith D]
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
