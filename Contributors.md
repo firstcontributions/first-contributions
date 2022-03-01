@@ -655,6 +655,7 @@ Zack Bryant
 - [Zendannyy](https://github.com/zendannyy)
 - [Arpit Garg](https://github.com/arpit-garg-1995)
 - [Szeles László]
+- Gloria 
 - Abdulaziz
 - ssp
 - [Codelikesuraj](https://github.com/codelikesuraj)
