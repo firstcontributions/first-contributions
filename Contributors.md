@@ -21,6 +21,7 @@
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Gagan Garg]
 - [Sneha Supriya](https://github.com/codingsneha)
+- [Jacob Yancey]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Mohammad Hussain](https://github.com/hussaincode)
 - [Shwe Zin](https://github.com/Shweryl)
