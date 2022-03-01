@@ -15,6 +15,7 @@
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
 - [cugab gaming]
+- [code Nithin] (https://github.com/codenithin)
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Gagan Garg]
