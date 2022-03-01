@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Rahul Ghetia](https://github.com/Rahul6725)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
 - [Eric Manfred](https://github.com/emanfred)
@@ -75,6 +76,7 @@
 - [goobric aka Mikal] (https://github.com/goobric
 - [Molly Vanessa] (https://github.com/molly460)
 - [Daniel Jansson]
+- [Kaiden H] (https://github.com/dratsuC)
 - [Veronica Yap]
 - [Bharat] (https://github.com/nicobreins)
 - [Satyam Kumar] (https://github.com/officSatyam)
@@ -82,6 +84,7 @@
 - [HyperLeafy] (https://github.com/HyperLeafy)
 - [Prateek Yadav] (https://github.com/prateeky477)
 - [YL]
+- [Emily Arnold] 
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
 - [Samuel Sau] (https://github.com/SamuelSau)
@@ -90,6 +93,7 @@
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
 - [Farah Sinada] (https://github.com/FarahSinada)
 - [Keean Ferreira] (https://github.com/Keean07)
+- [Brendan Jensen]
 - [Mart Anthony Salazar](https://github.com/mart-anthony-stark)
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
 - [Somesh Bhandare]
