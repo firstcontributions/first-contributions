@@ -400,6 +400,7 @@ Gabrielle Jones
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
 -[William Mauck]
+-[JF Giroux](https://github.com/jfgirouxhome)
 -[Connor Swingle](https://github.com/Connor-S-Swingle)
 -[Austin Sanders](https://github.com/ASandersDev/)
 - [Eli Shumaker] (https://github.com/WormInTheDirt)
