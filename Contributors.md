@@ -716,6 +716,7 @@ Zack Bryant
 - [Abe](https://github.com/abe-101)
 - [Njoku Okechukuw Valentine] (https://github.com/bonsoirval)
 - [CinthiaRS](https://github.com/CinthiaRS24)
+- [Matthew Volaris](https://github.com/mattv52)
 - [Karen Farnes](https://github.com/karenfarnes)
 - [Kathy Short](https://github.com/okshort)
 - [Pratik](https://github.com/pratikmdhr)
