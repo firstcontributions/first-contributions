@@ -141,6 +141,7 @@
 - [Atsushi Nitta] (https://github.com/a2-ww-1182)
 - [lab596] (https://github.com/lab596)
 - [James Le-Goff]
+- [Jocyline Magero]
 - [Joe Mithiran] (https://github.com/JoeKM888/)
 -[Usha sri](https://github.com//ushasri123980)
 -[Malik Mertus](https://github.com/Malic33100)
