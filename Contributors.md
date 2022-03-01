@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Rahul Ghetia](https://github.com/Rahul6725)
+- [Timeo Williams](https://github.com/timeowilliams)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
 - [Eric Manfred](https://github.com/emanfred)
