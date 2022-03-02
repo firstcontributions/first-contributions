@@ -1054,6 +1054,7 @@ Justin Villena
 - [uppercase](https://github.com/ekloyatri)
 - [Uttam](https://github.com/helper-uttam)
 - [Alexander Snure](https://github.com/asnure15)
+- [Takshay](https://github.com/Takshay-Makadia)
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Reet](https://github.com/RaniK27)
 - Lukman Memon
