@@ -13,6 +13,7 @@
 - [Dominic Merchelski] (https://github.com/rat-3)
 - [Yash Anand] (https://github.com/YashxAnand)
 - [k2491p](https://github.com/k2491p)
+-[Daniela Morales](https://github.com/DaniMSix)
 - [Ankit Mehta](https://github.com/ankyit)
 - [Luna](https://github.com/Lunamoon97
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
