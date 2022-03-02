@@ -1367,6 +1367,7 @@ yejashi
 -[IzzyHatake](https://github.com/israel1jol)
 - [Melvin Gilis](https://github.com/melvinxeu)
 - [Samuel Missonnier](https://github.com/samuelmissonnier)
+- [Jinco](https://github.com/jmmoore2520)
 - [Trevor Katemba](https://github.com/tkatemb)
 - [Bosko](https://github.com/NightShop)
 - [Ihtisham U.](github.com/ihtisham-sudo)
