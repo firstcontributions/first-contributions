@@ -86,6 +86,7 @@
 - [Oliver Looney] (https://github.com/Oliver-Looney)
 - [Dylan Trepos] (https://github.com/dylantrepos)
 - [Shoib Ansari] (https://github.com/reddishshoib )
+- [Jordan Trinder] (https://github.com/JordanTrind)
 - [Yash Patel]  (https://github.com/Yash472001)
 - [Esther F] (https://github.com/zelf0)
 - [Denise Namutebi] (https://github.com/DeniseNamutebi)
