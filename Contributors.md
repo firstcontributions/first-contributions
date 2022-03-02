@@ -17,6 +17,7 @@
 - [Luna](https://github.com/Lunamoon97
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
+- [Piotr Wlazeł](https://github.com/Nieokorzesany)
 - [Ajith D]
 - [Mahmoud Hamdy]
 - [bakerdude39](https://github.com/bakerdude39)
