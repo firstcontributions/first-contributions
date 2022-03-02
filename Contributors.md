@@ -1010,6 +1010,7 @@ Justin Villena
 - Justin Golabek
 - Ashish Satyavarapu
 -herman ombasa
+- [Hamish Payne] (https://github.com/hampay)
 - geuristic
 - Christina Kahn
 - Pranay Singh
