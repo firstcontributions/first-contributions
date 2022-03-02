@@ -15,6 +15,7 @@
 - [Ankit Mehta](https://github.com/ankyit)
 - [Ajith D]
 - [Mahmoud Hamdy]
+- [bakerdude39](https://github.com/bakerdude39)
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
 - [Colton Gibson]
