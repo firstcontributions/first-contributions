@@ -34,6 +34,7 @@
 - [Sneha Supriya](https://github.com/codingsneha)
 - [Jacob Yancey]
 - [Ephemeral Astronaut](https://github.com/troglodytto)
+- [Mike Smith](https://github.com/htimsekim)
 - [Mohammad Hussain](https://github.com/hussaincode)
 - [Shwe Zin](https://github.com/Shweryl)
 - [Saurabh Dange](https://github.com/Saurabh-Dange)
