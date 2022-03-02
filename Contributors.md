@@ -21,6 +21,7 @@
 - [cugab gaming]
 - [code Nithin] (https://github.com/codenithin)
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
+- [Steven Tarmann](https://github.com/StevenTarmann)
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Gagan Garg]
 - [Sneha Supriya](https://github.com/codingsneha)
