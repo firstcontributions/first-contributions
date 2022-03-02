@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rahul Ghetia](https://github.com/Rahul6725)
-- [Sonet Adhikary] (https://github.com/SonetAD)
+- [Sonet Adhikary](https://github.com/SonetAD)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Sourabh prasad](https://github.com/DxLRate)
