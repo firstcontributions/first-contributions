@@ -7,6 +7,7 @@
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
+-[Adithya K Shetty]
 - [Eric Manfred](https://github.com/emanfred)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
