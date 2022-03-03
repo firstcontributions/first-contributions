@@ -99,6 +99,7 @@
 - [George Owino] (https://github.com/vkoll29)
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 - [Rodrigo Viano](https://github.com/rviano96/rviano96/)
+- [Snapre](https://github.com/snapre)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Molly Vanessa] (https://github.com/molly460)
