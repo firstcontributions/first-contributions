@@ -584,6 +584,7 @@ Zack Bryant
 - [Ifra Rabbani] (https://github.com/irabba2)
 - [Aniruddha Shrikhande](https://github.com/blitzitout)
 - [zredb](https://github.com/zredb)
+- [Anmol Bhardwaj](https://github.com/anmolbhardwaj17)
 sylucck
 - Nikita
 - [Eugene]
