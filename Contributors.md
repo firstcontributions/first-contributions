@@ -127,6 +127,7 @@
 - [Somesh Bhandare]
 - [Shubhabrata Sen](https://github.com/ssen85)
 - [Jason Gutierrez](https://github.com/JasonGeee)
+- [Michael-Otieno](https://github.com/Michael-Otieno)
 - [Alphonzo](https://github.com/San-Shwe)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
