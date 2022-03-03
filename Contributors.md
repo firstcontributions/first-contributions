@@ -272,6 +272,7 @@
 - [Dave Starmer](https://github.com/DaveStarmer)
 - [Fulosophy](https://github.com/mcolandrea)
 - Md Zubaer
+-[Divyam Bhutani] (i want to learn *-*)
 - [Krish Veera] (https://github.com/krishrveera)
 - [Jebus] (https://github.com/Jebushdd)
 - [Siddharth Singh] (https://github.com/SidSin)
