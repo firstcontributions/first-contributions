@@ -1,7 +1,6 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
 -   [Rahul Ghetia](https://github.com/Rahul6725)
 -   [Timeo Williams](https://github.com/timeowilliams)
 -   [Riyaz Shaikh](https://github.com/riyaz2022)
@@ -2244,7 +2243,6 @@
 -   [Kiradigi](https://github.com/Kiradigi)
 -   [Minku Singh](https://github.com/minku-singh)
 -   [Connor Lawson](https://github.com/lawsoncr/)
-
 <!-- Muhammad Faizan-->
 -   [Shresth](https://github.com/Shresth-Jain/)
 -   [MilanAgrawal](https://github.com/MilanAgrawal)
