@@ -1306,6 +1306,7 @@ Nathalie Bonin
 yejashi
 - [Steven Menendez]
 - [cs-z](https://github.com/cs-z)
+- [Wong Jian Hui] (https://github.com/nicwongg)
 - [Saad Rizwan](https://github.com/SaadRizwanKhan) 🇵🇰
 - [Gourav Kadam](https://github.com/Gourav2404)
 - [hpekkan](https://github.com/hpekkan)
