@@ -5321,7 +5321,6 @@ Michael Wong
 - [Jack Logan] (https://github.com/jack-m-logan)
 - [Robert D] (https://github.com/ro-mo-do)
 - [Oleksandr V](https://github.com/olevol)
-- -[Jan Auth](https://github.com/janauth)
 - [Dan Marius Dumitrescu](https://github.com/dan-dm)
 - [Pramod Lumb](https://github.com/pramod74)
 - [Yosi Kimhi](https://github.com/YosiKimhi)
@@ -5536,3 +5535,4 @@ Michael Wong
 - [maulanazn](https://github.com/maulanazn)
 - [EniDev911](https://github.com/enidev911)
 - [Youyangkou](https://github.com/youyangkou)
+- [Jan Auth](https://github.com/janauth)
