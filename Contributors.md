@@ -40,6 +40,7 @@
 - [Gagan Garg]
 - [Sneha Supriya](https://github.com/codingsneha)
 - [Jacob Yancey]
+- [Mayank Sharma](https://github.com/aimhack3r)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Mike Smith](https://github.com/htimsekim)
 - [Mohammad Hussain](https://github.com/hussaincode)
