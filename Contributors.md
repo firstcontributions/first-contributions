@@ -4942,9 +4942,7 @@ Disguy
 - [Jason Wang](https://github.com/JsonWang95)
 - [Musadiq Peerzada](https://github.com/musadiqpeerzada)
 Michael Wong
-
 - [Subin Park](https://github.com/IamSOL1)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -5388,6 +5386,7 @@ Michael Wong
 - [Saumya](https://twitter.com/saumya1singh)
 - [Jaron Bauers](https://github.com/jaron-bauers)
 - [purplemicah](https://github.com/purplemicah)
+- [VCBAL](https://github.com/vcbal2580)
 - [karren](https://github.com/slzr99kis)
 - [Quang Lam](https://github.com/trunkey2003)
 - [Cranberry Cheeze](https://github.com/cranberrycheeze)
