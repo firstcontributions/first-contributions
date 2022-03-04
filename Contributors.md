@@ -5542,3 +5542,4 @@ Michael Wong
 - [Youyangkou](https://github.com/youyangkou)
 - [Jan Auth](https://github.com/janauth)
 - [Youssef Hussein](https://github.com/yorki404)
+- [Rafael Hernandez](https://github.com/rafawashere)
