@@ -5325,6 +5325,7 @@
 - [Steven Samy] (https://github.com/stevensamy27)
 - [Tezze] (https://github.com/Tezze2001)
 - [tgv]
+- [daichigb] (https://github.com/daichigb)
 - [fourier517](https://github.com/fourierz517)
 - [Anuj Bisht] (https://github.com/bishtanuj)
 - [Filipa Silva](https://github.com/filipaasilva)
@@ -5345,3 +5346,8 @@
 - [Eden Mulugeta](https://github.com/EdenMulugeta)
 - [Dreammy23](https://github.com/Dreammy23)
 - [HsuYuSung](https://github.com/HsuYuSung)
+- [maulanazn](https://github.com/maulanazn)
+- [EniDev911](https://github.com/enidev911)
+- [Youyangkou](https://github.com/youyangkou)
+- [Jan Auth](https://github.com/janauth)
+- [Youssef Hussein](https://github.com/yorki404)
