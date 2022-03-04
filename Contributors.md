@@ -4,7 +4,7 @@
 - [Eric Manfred](https://github.com/emanfred)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [cugab gaming]
-- [Ademola Abdulkadir]
+- [Ademola Abdulkadir](https://github.com/AdeWorks33)
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [DrowningSelf]
