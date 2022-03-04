@@ -3330,6 +3330,7 @@ Himanshu Dedha
 - [Devesh Mukherjee](https://github.com/darkghost33)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
+- [Damon Ngo](https://github.com/thengoster)
 - [Daniel Cortés Pichardo](https://github.com/danimaniarqsoft)
 - [Alissa Zhang](https://github.com/alissazhang)
 - [Javier Garcia](https://github.com/Javi-GM)
