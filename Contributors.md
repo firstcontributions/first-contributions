@@ -3151,6 +3151,7 @@ Himanshu Dedha
 - [sereno](https://github.com/sereno1987)
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Reed McFadden](https://github.com/reedmcfadden)
+- [Yoan Faure](https://github.com/y0anfa)
 - [John Kponyo](https://github.com/nullstead)
 - [AntBru](https://github.com/ab-uol)
 - [Amit-1001](https://github.com/Amit-1001/)
