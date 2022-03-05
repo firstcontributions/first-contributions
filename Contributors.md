@@ -4441,6 +4441,7 @@ Himanshu Dedha
 - [gnicoloud](https://github.com/gnicoloud/)
 - [Raha Moosavi](https://github.com/acse-srm3018)
 - [Kunal Jha](https://github.com/kunljha)
+- [Anirudh Kavle](https://github.com/Anirudh-Kavle)
 - [xnmll](https://github.com/xnmll)
 - [Dawit Meonnen](https://github.com/Dave-lab12)
 - [MistaAsh](https://github.com/MistaAsh)
