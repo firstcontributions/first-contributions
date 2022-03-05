@@ -462,7 +462,7 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/iko1133">iko1133</a>
         </td>
         <td>
-            <a href="https://github.com/mikowhy">mikowhy</a>
+            <a href="https://github.com/mikowhy">Mikowhy1</a>
         </td>
     </tr>
  </table>
