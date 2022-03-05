@@ -2799,6 +2799,7 @@ Himanshu Dedha
 - [Anupreet Singh](https://github.com/realanupreet)
 - [avid-priyanshu](https://github.com/avidpriyanshu)
 - [Manik Billawria](https://github.com/ManikBillawria)
+- [Ayobamiji Oyewo](https://github.com/AyobamitheTitan)
 - [Jackie Ye](https://github.com/JackieYe27)
 - [Shaun Lockie](https://github.com/Shaunlockie)
 - [Naftoli Ost](https://github.com/naftoliost)
