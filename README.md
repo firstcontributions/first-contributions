@@ -81,9 +81,9 @@ _Agar buyruqlar satri sizga qulay bo'lmasa, [bu yerda GUI tool'lardan foydalanin
 
 #### Agar qurilmangizda git yo'q bo'lsa, [o'rnating](https://help.github.com/articles/set-up-git/).
 
-## Bu repository'ni fork qiling
+## Ushbu repository'ni fork qiling
 
-Ushbu repository'ni sahifaning o'ng yuqorisida turgan tugmani bosib o'zingizga fork qiling. Bu orqali sizning hisobingizda repository'ning nusxasi paydo bo'ladi.
+Ushbu repository'ni sahifaning o'ng yuqorisida turgan sanchqiga o'xshash tugmani bosib o'zingizga fork qiling. Bu orqali sizning hisobingizda repository'ning nusxasi paydo bo'ladi.
 
 ## Repository'dan clone (birga bir nusxa) olish
 
@@ -101,7 +101,7 @@ git clone "siz hozirgina nusxa olgan URL"
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL'dan nusxa olish" />
 
-For example:
+Misol uchun:
 
 ```
 git clone https://github.com/bu-siz/first-contributions.git
@@ -179,11 +179,11 @@ Tez orada loyihaga yuborgan o'zgarishlaringizni master branchga qo'shaman. O'zga
 
 Tabriklaymiz! Siz contributor sifatida bajaradigan _fork -> clone -> edit -> pull request_ ish ketma-ketligini tugatdingiz. Siz endi contributor hisoblanasiz.
 
-Quyidagi manzil orqali qo'shgan hissangizni do'stlaringiz va yaqinlaringizga bo'lishing:[veb dastur](https://firstcontributions.github.io/#social-share).
+Quyidagi manzil orqali qo'shgan hissangizni do'stlaringiz va yaqinlaringizga bo'lishing: [veb sahifa](https://firstcontributions.github.io/#social-share).
 
 Biror yordam kk bo'lsa yoki savolingiz bo'lsa bizning Slack guruhimizga qo'shiling. [Slack jamoa](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-Endi, keling boshqa loyihalarga contribute qilamiz. Biz siz uchun boshlash oson bo'lgan loyihalarga tegishli issue'larni taxlab qo'yganmiz. Qarab chiqing: [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Endi, keling boshqa loyihalarga contribute qilamiz. Biz siz uchun boshlash oson bo'lgan loyihalarga tegishli issue'larni taxlab qo'yganmiz. Qarab chiqing: [veb sahifadagi loyihalar ro'yhati](https://firstcontributions.github.io/#project-list).
 
 ### [Qo'shimcha materiallar](additional-material/git_workflow_scenarios/additional-material.md)
 
