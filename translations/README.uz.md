@@ -5,7 +5,7 @@
 
 #
 
-#### _Read this in [other languages](translations/Translations.md)._
+#### _Buni [boshqa tillarda](translations/Translations.md) o'qing._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](translations/README.aze.md)</kbd>
@@ -71,127 +71,124 @@
 
 #
 
-# First Contributions
+# Dastlabki hissa qo'shish (contribution)
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Bu loyiha endi boshlaganlarga dastlabki contribution qilishga yo'l ko'rsatish va soddalashtirishni maqsad qilgan. Agar siz ilk contribution qilishni o'ylab turgan bo'lsangiz, quyidagi qadamlarni amalga oshiring.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_Agar buyruqlar satri sizga qulay bo'lmasa, [bu yerda GUI tool'lardan foydalaning.](#boshqa-toolllardan-foydalanish)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Bu repository'ni fork qiling" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### Agar qurilmangizda git yo'q bo'lsa, [o'rnating](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Ushbu repository'ni fork qiling
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Ushbu repository'ni sahifaning o'ng yuqorisida turgan sanchqiga o'xshash tugmani bosib o'zingizga fork qiling. Bu orqali sizning hisobingizda repository'ning nusxasi paydo bo'ladi.
 
-## Clone the repository
+## Repository'dan clone (birga bir nusxa) olish
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="repositoryni clone qilish" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Endi qurilmangizdan turib fork qilingan repository'ni clone qiling. Github hisobingizga kiring, fork qilingan repository'ni oching, code tugmasiga bosing keyin _copy to clipboard_ belgisini bosing.
 
-Open a terminal and run the following git command:
-
-```
-git clone "url you just copied"
-```
-
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-For example:
+Teminal'ni oching va quyidagi buyruqni ishga tushiring:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone "siz hozirgina nusxa olgan URL"
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+"siz hozirgina nusxa olgan URL" (qo'shtirnoq belgilarisiz) siz fork qilgan repository'ning URL'i (manzili). URL'ni olish uchun dastlabki qadamlarga qarang.
 
-## Create a branch
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL'dan nusxa olish" />
 
-Change to the repository directory on your computer (if you are not already there):
+Misol uchun:
+
+```
+git clone https://github.com/bu-siz/first-contributions.git
+```
+
+URL'dagi `bu-siz` ning o'rniga GitHub hisobingizdagi username'ingiz bo'ladi. Mana GitHub'dagi first-contributions repository'sining nusxasi sizning kompyuteringizga ko'chirildi.
+
+## Branch yaratish
+
+Agar allaqachon ko'chirib olingan loyiha papkasiga kirmagan bo'lsangiz, quyidagi buyruqni terib repository papkasiga kiring:
 
 ```
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Endi `git checkout` buyrug'ini terib yangi branch hosil qiling:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b yangi-branch-nomi
 ```
 
-For example:
+Misol uchun:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-ali-valiyev
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(Branch nomida _add_ so'zi bo'lishi shart emas, lekin shunday qilinsa buning sababi bor, ya'ni bu branch ro'yhatga sizning ismingizni qo'shmoqda).
 
-## Make necessary changes and commit those changes
+## Kerakli o'zgarishlarni qo'shish va commit qilish
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Endi `Contributors.md` faylini kod taxrirlagichda (text editor) oching, hamda ismingizni qo'shing. Ismingizni eng boshi yoki oxiriga qo'shmang, o'rta qatorlarga yozsangiz kifoya. Endi faylni saqlang.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Agar loyiha yo'nalishiga kirib olib `git status` ni ishga tushirsangiz, o'zgarishlarni ko'rasiz.
 
-Add those changes to the branch you just created using the `git add` command:
+`git add` buyurug'i orqali branch'ga hozirgina qilingan o'zgarishni qo'shing:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Endi `git commit` buyrug'i orqali o'zgarishlarni commit qiling:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <sizning-ismingiz> to Contributors list"
 ```
 
-replacing `<your-name>` with your name.
+Buyruqdagi `<sizning-ismingiz>`ning o'rniga ismingizni yozing.
 
-## Push changes to GitHub
+## O'zgarishlarni GitHub'ga push qilish
 
-Push your changes using the command `git push`:
+`git push` buyrug'i orqali o'zgarishlarni push qiling:
 
 ```
-git push origin <add-your-branch-name>
+git push origin <yangi-branch-nomi>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+Buyruqdagi `<yangi-branch-nomi>` o'rniga, avvalroq yaratgan yangi branch'ingiz nomini qo'ying.
 
-## Submit your changes for review
+## Review uchun o'zgarishlarni yuboring
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+GitHub'dagi repository'ingizga kirsangiz, `Compare & pull request` tugmasini ko'rasiz. Shu tugmani bosing.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="pull request yaratish" />
 
-Now submit the pull request.
+Endi pull request yuboring.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="pull request yuborish" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Tez orada loyihaga yuborgan o'zgarishlaringizni master branchga qo'shaman. O'zgarishlar merge qilingan paytda pochtangizga xabar boradi.
 
-## Where to go from here?
+## Endi qayerga?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+Tabriklaymiz! Siz contributor sifatida bajaradigan _fork -> clone -> edit -> pull request_ ish ketma-ketligini tugatdingiz. Siz endi contributor hisoblanasiz.
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Quyidagi manzil orqali qo'shgan hissangizni do'stlaringiz va yaqinlaringizga bo'lishing: [veb sahifa](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
+Biror yordam kk bo'lsa yoki savolingiz bo'lsa bizning Slack guruhimizga qo'shiling. [Slack jamoa](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Endi, keling boshqa loyihalarga contribute qilamiz. Biz siz uchun boshlash oson bo'lgan loyihalarga tegishli issue'larni taxlab qo'yganmiz. Qarab chiqing: [veb sahifadagi loyihalar ro'yhati](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [Qo'shimcha materiallar](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## Boshqa toolllardan foydalanish
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
-
-添加内容
