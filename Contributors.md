@@ -441,6 +441,7 @@ Gabrielle Jones
 -[Mason Green]
 -Mayank Arya (https://github.com/Arya-Mayank)
 -[Iven Hartford] (https://github.com/ivenhartford)
+-[Drew Haile] (https://github.com/snithercode/)
 -[Brandan Pratt] (https://github.com/brantheeman)
 -[Helena He](https://github.com/helarious99)
 -[Taise Miyazumi]
