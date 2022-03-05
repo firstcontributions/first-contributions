@@ -21,6 +21,7 @@
 - [k2491p](https://github.com/k2491p)
 -[Daniela Morales](https://github.com/DaniMSix)
 - [Ankit Mehta](https://github.com/ankyit)
+- [Andres Calzadias](https://github.com/cmndrqueso)
 - [Luna](https://github.com/Lunamoon97
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
