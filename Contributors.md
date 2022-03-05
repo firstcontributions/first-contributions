@@ -15,7 +15,7 @@
 -   [Kamil Yousuf](https://github.com/tyiop794)
 -   [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
 -   [Amay Jain](https://github.com/vrindavan)
-    [Aman Kumar](https://github.com/Aman98801)
+-   [Aman Kumar](https://github.com/Aman98801)
 -   [Antonios Papadakis](https://github.com/one-and-only)
 -   [Dominic Duke](https://github.com/domduke)
 -   [Dominic Merchelski] (https://github.com/rat-3)
