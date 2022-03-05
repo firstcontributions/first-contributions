@@ -5556,4 +5556,5 @@ Michael Wong
 - [Youssef Hussein](https://github.com/yorki404)
 - [Rafael Hernandez](https://github.com/rafawashere)
 - [WMA](https://github.com/wminaung)
+- [Chabazite](https://github.com/chabazite)
 - [Mega](https://github.com/mega2799)
