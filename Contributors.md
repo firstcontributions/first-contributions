@@ -5548,3 +5548,4 @@ Michael Wong
 - [Jan Auth](https://github.com/janauth)
 - [Youssef Hussein](https://github.com/yorki404)
 - [Rafael Hernandez](https://github.com/rafawashere)
+- [Mega](https://github.com/mega2799)
