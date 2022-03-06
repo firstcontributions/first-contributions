@@ -24,7 +24,8 @@
 - [Ankit Mehta](https://github.com/ankyit)
 - [Diwanshi Gupta](https://github.com/diwanshib)
 - [Andres Calzadias](https://github.com/cmndrqueso)
-- [Luna](https://github.com/Lunamoon97
+- [Luna](https://github.com/Lunamoon97)
+- [Victor](https://github.com/victor0x16)
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
