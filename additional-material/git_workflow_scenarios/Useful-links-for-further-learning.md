@@ -32,5 +32,7 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 27. [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
 28. [Version Control using Git](https://ourcodingclub.github.io/2017/02/27/git.html)
 29. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-
+30. [Audit the Coursera course from Google](https://www.coursera.org/learn/introduction-git-github)
+31. [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+32. [Git vs Github: What's the Difference and How to Get Started with Both](https://kinsta.com/knowledgebase/git-vs-github/)
 Keep adding more links, that you find helpful.

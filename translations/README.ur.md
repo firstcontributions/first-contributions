@@ -1,5 +1,5 @@
 <div dir="rtl">
-<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="../assets/join-slack-team.png"></a>
+<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
 </div>
 
 # <div dir="rtl"> پہلی شراکت </div>
@@ -22,7 +22,7 @@
 ## <div dir="rtl"> اس گودام کوفورک کریں </div>
 <div dir="rtl">
 اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
-<img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
+<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس گودام کوفورک کریں" />
 <br />
 یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
 </div>
@@ -32,11 +32,11 @@
 <div dir="rtl">
 اب آپ اپنی مشین پر یہ ریپو کلون کریں.
 </div>
-<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ذخیرے کا کلون کجیے" />
 <div dir="rtl">
  کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
 </div>
-<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
 <div dir="rtl">
 ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
 </div>
@@ -111,11 +111,11 @@ git push origin <add-your-name>
 
 <div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دیکھائ دے گا. اس بٹن کو دبائیں. </div>
 
-<img style="float: left;" src="../assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
 <div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
 
-<img style="float: left;" src="../assets/submit-pull-request.png" alt="پل درخواست جمع کروائیں" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="پل درخواست جمع کروائیں" />
 
 <div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
@@ -124,7 +124,7 @@ git push origin <add-your-name>
 ## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔   </div>
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/90c576dade3a169088f993aebe41242a9c2f064d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63642f56697375616c5f53747564696f5f323031375f4c6f676f2e737667" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/90c576dade3a169088f993aebe41242a9c2f064d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63642f56697375616c5f53747564696f5f323031375f4c6f676f2e737667" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 

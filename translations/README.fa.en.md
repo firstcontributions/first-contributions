@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -13,7 +13,7 @@ Hadafe IN Proje Mohayya Kardane Yek Rahnama Va Sade Kardane Rahe Taze Kar Ha Bar
 
 #### *IN Ro Dar [Zaban Haye Dige](../Translations.md) Bekhoonin.*
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Age Rooye Computeret GIT Nadari,Nasbesh Kon
 [Install It]( https://help.github.com/articles/set-up-git/).
@@ -25,7 +25,7 @@ IN Ye Copy Az Repository Miare Too Accountet
 
 ## Repository Ro Clone Kon
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 Hala Repo Ro Roo Computeret Clone Kon. Click Kon Roo Dokmeye Clome Va Bad Click Kon Rooye Icone *copy to clipboard*
 
 Terminal Ro Baz Kon Va Dastoorate Zir Ro Vared Kon:
@@ -35,7 +35,7 @@ git clone "url you just copied"
 ```
 Jayi Ke "URL You Just Copied" ( Bedoone Alamate " Vojood Dare ) URL IN Repository Ke Too Marhaleye Ghabli Didi Vojood Dare
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Baraye Mesal:
 ```
@@ -86,11 +86,11 @@ Be Jaye `<add-your-name>` Esme Branchi Ke Sakhte Boodi Ro Benevis.
 
 Age Beri Too Repository Roo GitHub, Dokmeye `Compare & pull request` Ro Mibini. Roosh Click Kon
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Hala Darkhate Pull Ro Submit Kon
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Be Zoodi Man Tamame Taghiratet Ro Be Branche "Master" Ezafe Mikonam. Be Mahze IN Ke Taghirat Submit Shod Email Daryaft Mikoni
 
@@ -110,7 +110,7 @@ Hala Bia Too Proje Haye Dige Mosharekat Konim. We Ye Listi Az Proje Hayi Ba Mosh
 
 ## Tutorials Using Other Tools
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://camo.githubusercontent.com/9c8fd305d62972c62a5053febcd4fcd7b3591b44ea66156c91ff755826d30083/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f676b2d69636f6e2e706e67" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 

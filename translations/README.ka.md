@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -10,7 +10,7 @@
 
 ಲೇಖನಗಳನ್ನು ಓದುವುದು ಮತ್ತು ಟ್ಯುಟೋರಿಯಲ್ ನೋಡುವುದು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಆದರೆ ಅಭ್ಯಾಸ ಪರಿಸರದಲ್ಲಿ ವಿಷಯವನ್ನು ಮಾಡುವುದಕ್ಕಿಂತ ಉತ್ತಮವಾದದ್ದು ಯಾವುದು? ಈ ಯೋಜನೆಯು ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಮತ್ತು ಆರಂಭಿಕರು ತಮ್ಮ ಮೊದಲ ಕೊಡುಗೆ ನೀಡುವ ವಿಧಾನವನ್ನು ಸರಳಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ನಿಮ್ಮ ಮೊದಲ ಕೊಡುಗೆ ನೀಡಲು ನೀವು ಬಯಸಿದರೆ, ಕೆಳಗಿನ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಹೊಂದಿಲ್ಲದಿದ್ದರೆ,[ಅದನ್ನು ಸ್ಥಾಪಿಸಿ]](https://help.github.com/articles/set-up-git/)
 

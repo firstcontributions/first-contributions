@@ -42,7 +42,7 @@ Example of ```git reset --hard``` usage
 # Commit crazy.php
 $ git add crazy.php
 $ git commit -m "Started a crazy dev"
-# Edit crazy.php file again and changed a lot other files
+# Edit crazy.php file again and changed a lot of other files
 # Commit all tracked files
 $ git add .
 $ git commit -m "Continued dev"
@@ -50,6 +50,6 @@ $ git commit -m "Continued dev"
 # Decided to remove the whole things
 $ git reset --hard HEAD~2
 ```
-The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points in the same time reverting all changes you have made and remove the 2 snapshot we have just created from project history.
+The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points at the same time reverting all changes you have made and remove the 2 snapshots we have just created from project history.
 
 P.s. Never perform ```git reset --hard``` if you've already pushed your commits to a shared repository as it will cause problems to everyone on that repository.
