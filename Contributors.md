@@ -933,6 +933,7 @@ Jawadur
 - Andrew Freeman
 - [Prisca Chidimma] (https://github.com/Priceless-P)
 - Srishti
+- [Judy Bui] (https://github.com/JudyBui127)
 - [Amie Walton] (https://github.com/amielouise2)
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
