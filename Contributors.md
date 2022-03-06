@@ -5550,6 +5550,7 @@ Michael Wong
 - [Gerva Monsalve](https://github.com/Germonsalve)
 - [Lesnee](https://github.com/lesnee)
 - [Eiji](https://github.com/eijiok)
+- [Zyad Tarek](https://github.com/ZyadTarek)
 - [Moretza](https://github.com/mrtztg)
 - [Shreyas Sukhadeve](https://github.com/Shreyas-SAS)
 - [Brad Kabosky](https://github.com/BradKabosky)
@@ -5568,4 +5569,4 @@ Michael Wong
 - [WMA](https://github.com/wminaung)
 - [Chabazite](https://github.com/chabazite)
 - [Mega](https://github.com/mega2799)
-- [Thomas Warren](https://github.com/ThomasWarren2147)
+- [Thomas Warren](https://github.com/ThomasWarren2147)2
