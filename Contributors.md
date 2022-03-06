@@ -733,6 +733,7 @@ Zack Bryant
 - [yash](https://github.com/Yashg100)
 - [Lakshay Tyagi](https://github.com/imlakshay08)
 - [harry](https://github.com/harrylog)
+- [Barok Dagim](https://github.com/BarokDG)
 - [Devesh Tulshyan](https://github.com/Devesh225)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
