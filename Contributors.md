@@ -7,6 +7,7 @@
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
+- [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
 -[Adithya K Shetty]
