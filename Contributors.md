@@ -2,7 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Ye Pyae Aung](github.com/YePyaeAung)
-- [Akshat Sharma](github.com/akshatcoder-hash)
+- [Akshat Sharma](https://github.com/akshatcoder-hash)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
 - [Timeo Williams](https://github.com/timeowilliams)
