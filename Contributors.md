@@ -981,6 +981,7 @@ Jawadur
 -[Kunal Gaur] (https://github.com/kunalgaur7983)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
 - [d2bin] (https://github.com/d2bin)
+- [relyzer] (https://github.com/relyzer)
 - [Ethan Coward](https://github.com/CDE90)
 -[Aditya Thakur](https://github.com/Aditya696/first-contributions.git)
 - [moo-yeol-lee](https://github.com/Lee-moo)
