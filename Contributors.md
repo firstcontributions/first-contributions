@@ -417,6 +417,7 @@ Christopher K Calahan Jr
 - [Matthew Chin](https://github.com/matthewjchin)
 - [Annesh Samanta](https://github.com/annesh08)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
+- [Gustav Alerby](https://github.com/gbyx3)
 - [Dipti Malla](https://github.com/diptimalla)
 - [Vipul Maheshwari](https://github.com/vipulmaheshwari11)
 - [Suhas Holla](https://github.com/suhashollakc)
