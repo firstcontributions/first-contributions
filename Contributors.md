@@ -4802,9 +4802,7 @@
 -   [Jason Wang](https://github.com/JsonWang95)
 -   [Musadiq Peerzada](https://github.com/musadiqpeerzada)
     Michael Wong
-
 -   [Subin Park](https://github.com/IamSOL1)
-
 -   [LianWen wu](https://github.com/childrentime)
 -   [Yusong Wu](lukewys.github.io)
 -   [Cindy Li] (https://github.com/cli-cli)
@@ -5399,3 +5397,6 @@
 -   [Chabazite](https://github.com/chabazite)
 -   [Mega](https://github.com/mega2799)
 -   [Thomas Warren](https://github.com/ThomasWarren2147)2
+-   [Kevin Ahn](https://github.com/maketheworldwise)
+-   [Ashfaaq Rifath](https://github.com/ashfaaqrifath)
+-   [Amanuel Abebe](https://github.com/CodEZ47)
