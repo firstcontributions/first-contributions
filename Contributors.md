@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Akshat Sharma](github.com/akshatcoder-hash)
+- [Akshat Sharma](github.com/akshatcoder-hash) - 1000th Contributor
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
 - [Timeo Williams](https://github.com/timeowilliams)
