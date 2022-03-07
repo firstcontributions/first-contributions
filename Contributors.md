@@ -774,7 +774,7 @@ Zack Bryant
 - [Njoku Okechukuw Valentine] (https://github.com/bonsoirval)
 - [CinthiaRS](https://github.com/CinthiaRS24)
 - [Matthew Volaris](https://github.com/mattv52)
-- {[Dejan Katic]+(https://github.com/Korgulos)}
+- [Dejan Katic](https://github.com/Korgulos)
 - [Karen Farnes](https://github.com/karenfarnes)
 - [Kathy Short](https://github.com/okshort)
 - [Pratik](https://github.com/pratikmdhr)
