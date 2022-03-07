@@ -3083,6 +3083,7 @@ Himanshu Dedha
 - [Divonil Liquid](https://github.com/DivonilLiquid)
 - [sachin mittal](https://github.com/SachinMittal1766)
 - [Gibsonogram](https://github.com/Gibsonogram)
+- [Américo Chaquisse](https://github.com/Americo-Chaquisse)
 - [Anik Chakraborty](https://github.com/Anikcb)
 - [Shane Healy](https://github.com/Shanehealy43)
 - [Gracie Nguyen](https://github.com/cutiepurr)
