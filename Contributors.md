@@ -2880,6 +2880,7 @@ Himanshu Dedha
 - [Ishan Gupta](https://github.com/developer-ishan)
 - [Abhishek Ranjan](https://github.com/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
+- [Anurag](https://github.com/addedByAnurag)
 - [Henok Wondimu](https://github.com/henok3878)
 - [A Shot of Code](https://github.com/markjameshoward)
 - [Vladimir Marinov](https://github.com/VladiMarinov)
