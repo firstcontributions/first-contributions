@@ -198,6 +198,7 @@
 - [Carlos Martinez] (https://github.com/Cima9642)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Pratham Pancholi]
+- [Jose Santiago](https://github.com/JDSanti)
 - [Kudzai Dube] https://github.com/kudzidube7
 - [Ricardo Torres] (https://github.com/RicardoTorres2022)
 - [Anna Wojdylo](https://github.com/Noi5/)
