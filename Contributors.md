@@ -35,6 +35,7 @@
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
 - [Ajith D]
 - [AL]
+- [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
 - [Mahmoud Hamdy]
 - [bakerdude39](https://github.com/bakerdude39)
