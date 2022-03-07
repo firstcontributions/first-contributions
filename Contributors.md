@@ -13,6 +13,7 @@
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
 -[Adithya K Shetty]
+- [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
 - [Scott Burton](https://github.com/klrqn)
 - [Kamil Yousuf](https://github.com/tyiop794)
