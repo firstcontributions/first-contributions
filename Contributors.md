@@ -1,7 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [Linh Dang]
+- [Tran Linh Dang]
 - [Rahul Ghetia](https://github.com/Rahul6725)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
