@@ -3162,6 +3162,7 @@ Himanshu Dedha
 - [Manny Alfaro](https://github.com/Mannyalfa)
 - [Kushal Upreti](https://github.com/KushalUpreti)
 - [Abdul Shaikz](https://github.com/AbdulShaikz)
+- [Molnár Attila](https://github.com/Monesz1)
 - [Ayoub Abidi](https://github.com/ayoub3bidi)
 - [SomStar](https://github.com/Somnath-swami)
 - [MaazMahmood](https://github.com/maazm007)
