@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+
 -   [Vincent Limo](https://github.com/v-limo)
 -   [Rahul Ghetia](https://github.com/Rahul6725)
 -   [Timeo Williams](https://github.com/timeowilliams)
@@ -4336,6 +4337,7 @@
 *   Stop reading names (https://github.com/parthnagdev)
 
 
+
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -4580,6 +4582,7 @@
 - [Kyle Smith] (https://github.com/BrakeZap/)
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
+- Vishal Narayan (https://github.com/VishalN7)
 - [Will McCoy] (https://github.com/willway09)
 - [Natalie Nguyen] (https://github.com/natnguyen003)
 - [Raiee Gulhane] (https://github.com/raieegulhane)
@@ -4936,3 +4939,4 @@
 - [Kevin Ahn](https://github.com/maketheworldwise)
 - [Ashfaaq Rifath](https://github.com/ashfaaqrifath)
 - [Amanuel Abebe](https://github.com/CodEZ47)
+- [Gustavo Rangel](https://github.com/gustavobrangel)
