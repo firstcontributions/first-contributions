@@ -3330,6 +3330,7 @@ Himanshu Dedha
 - [Luciano Zangeronimo](https://github.com/zangeronimo)
 - [Andre Diofanu](https://github.com/andrediofanu)
 - [Adrianne Sebastian](https://github.com/arcsbstn)
+- [Guy Cohen](https://github.com/guycohen7)
 - [David Rosas](https://github.com/drosaslin)
 - [Chandan H](https://github.com/Chandan-h-509)
 - [crixxcroxx](https://github.com/crixxcroxx)
