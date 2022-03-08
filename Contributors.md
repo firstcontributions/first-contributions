@@ -89,6 +89,7 @@
 - [Izzy H.]
 - [Ben Janac](https://github.com/orobor0s/)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
+- [Jesuferanmi Asiyanbi](https://github.com/Pherizee)
 - [David Ogar] (https://github.com/The-True-Hooha)
 - [Shajith Hameed](https://github.com/d3xferno)
 - [Deepak Lakhera](https://github.com/dLakhera)
