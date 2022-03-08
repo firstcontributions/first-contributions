@@ -66,6 +66,7 @@
 - [Mike Smith](https://github.com/htimsekim)
 - [Mohammad Hussain](https://github.com/hussaincode)
 - [Shwe Zin](https://github.com/Shweryl)
+- [N. Dennis] (https://github.com/ndennis124)
 - [Saurabh Dange](https://github.com/Saurabh-Dange)
 - [DrowningSelf]
 - [Quauhtli Garcia] (https://github.com/qgarcia95)
