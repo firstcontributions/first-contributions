@@ -494,6 +494,7 @@ Gabrielle Jones
 -[Itish srivastava](https://github.com/Legendary-Person)
 -[MMT](https://github.com/MinMinThway)
 -Gagan kumar
+- Sim Lim
 - [d-bst](https://github.com/d-bst)
 - [George Offley](https://github.com/georgeoffley)
 - [Vladislav Krukhmalev] (https://github.com/NemarioGit)
