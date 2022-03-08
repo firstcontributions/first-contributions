@@ -314,6 +314,7 @@ Zack Bryant
 - [Amar Panji Senjaya](https://github.com/amarps)
 - [Andrio](https://github.com/Andrio-Codes)
 - [Anjali Sajeevan]
+- [Daniel Polo-Wood] (https://github.com/dpolowood)
 - [Yanelly Sandheinrich] (https://github.com/yms1080)
 - [Rahul Sharma](https://github.com/rahulsh18)
 - [Alvin Lee](https://github.com/zephyrdark)
