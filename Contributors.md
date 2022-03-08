@@ -2564,6 +2564,7 @@ Himanshu Dedha
 - [Gerard Gandionco](https://github.com/Vaiterius)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
+- [Omar Ashraf](https://github.com/SpadeQ22)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
 - [Ben Elgren](https://github.com/belgren)
 - [Swati Munda](https://github.com/swatiM19/)
