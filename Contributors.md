@@ -234,6 +234,7 @@ Christopher K Calahan Jr
 - [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
 - [Robert Drako](https://github.com/ericgchu)
+- [Gilberto Valadares] (https://github.com/gilbertomavs/gilbertomavs)
 - [Haaris Khatri](https://github.com/haariskhatri)
 - [Matthew Chin](https://github.com/matthewjchin)
 - [Annesh Samanta](https://github.com/annesh08)
