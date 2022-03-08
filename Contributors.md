@@ -49,6 +49,7 @@
 - [cugab gaming]
 - [hamzah-sajid-code](https://github.com/hamzah-sajid-code)
 - [yuejiahz](https://github.com/yuejiahz)
+- [Emmanuel Ugwu](https://github.com/ugwutotheeshoes)
 - [Haafizz Ismail](https://github.com/haafizzismail)
 - [code Nithin] (https://github.com/codenithin)
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
