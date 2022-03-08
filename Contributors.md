@@ -972,6 +972,7 @@ Jawadur
 - [Alan Kemboi](https://github.com/alankemboi)
 - [Claudia Rubio](https://github.com/claudia-rubio)
 - [Dayce](https://github.com/LDesse)
+- [Lukasz Przybylka] (https://github.com/l-przybylka)
 - [Debopam Roy](https://github.com/DebopamRoy)
 - [Clint Cochrane](https:github.com/coch110149)
 - [Dorival](https://github.com/DorivalJunior23)
