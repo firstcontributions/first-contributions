@@ -11,7 +11,7 @@
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
-- [Antony Otero](https://github.com/antonyotero)
+- [HMT](https://github.com/HlaingMinThant)
 -[Adithya K Shetty]
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
