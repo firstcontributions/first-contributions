@@ -138,6 +138,7 @@
 - [Molly Vanessa] (https://github.com/molly460)
 - [Daniel Jansson]
 - [Kaiden H] (https://github.com/dratsuC)
+- [Nokhalal Mahato] (https://github.com/nk412k)
 - [Veronica Yap]
 - [Bharat] (https://github.com/nicobreins)
 - [Satyam Kumar] (https://github.com/officSatyam)
