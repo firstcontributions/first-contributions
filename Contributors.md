@@ -83,6 +83,7 @@
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Izzy H.]
+- [Ben Janac](https://github.com/orobor0s/)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
 - [David Ogar] (https://github.com/The-True-Hooha)
 - [Shajith Hameed](https://github.com/d3xferno)
