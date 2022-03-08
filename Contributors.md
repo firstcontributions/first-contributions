@@ -5599,3 +5599,4 @@ Michael Wong
 - [Ashfaaq Rifath](https://github.com/ashfaaqrifath)
 - [Amanuel Abebe](https://github.com/CodEZ47)
 - [Gustavo Rangel](https://github.com/gustavobrangel)
+- [Jan Auth](https://github.com/janauth)
