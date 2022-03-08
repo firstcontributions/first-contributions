@@ -5606,3 +5606,4 @@ Michael Wong
 - [Amanuel Abebe](https://github.com/CodEZ47)
 - [Gustavo Rangel](https://github.com/gustavobrangel)
 - [Jan Auth](https://github.com/janauth)
+- [Tomás Vigouroux](https://github.com/tvigouroux/)
