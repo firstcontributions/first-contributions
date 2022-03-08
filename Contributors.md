@@ -22,6 +22,7 @@
 - [Aman Kumar](https://github.com/Aman98801)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
+- [Kenrick Lam](https://github.com/klam98)
 - [Dominic Merchelski] (https://github.com/rat-3)
 - [Yash Anand] (https://github.com/YashxAnand)
 - [k2491p](https://github.com/k2491p)
