@@ -5232,6 +5232,7 @@ Michael Wong
 - [Kyle Smith] (https://github.com/BrakeZap/)
 - [Monique Huang] (https://github.com/moniquehuang)
 - Justin Rossiter
+- Vishal Narayan (https://github.com/VishalN7)
 - [Will McCoy] (https://github.com/willway09)
 - [Natalie Nguyen] (https://github.com/natnguyen003)
 - [Raiee Gulhane] (https://github.com/raieegulhane)
