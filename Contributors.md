@@ -1,10 +1,12 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Yasharjs](https://github.com/yasharjs)
 - [Akshat Sharma](github.com/akshatcoder-hash)
+- [Diko](https://github.com/Ihtiandiko03)
+- [Palmese Davide Mattia] (https://github.com/PalmeseDavideMattia)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
 - [Timeo Williams](https://github.com/timeowilliams)
@@ -15,6 +17,10 @@
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero) -[Adithya K Shetty]
+- [Antony Otero](https://github.com/antonyotero)
+- [Bhaskar Sharma](https://github.com/imbhaskarn)
+- [Krayorn](https://github.com/Krayorn)
+-[Adithya K Shetty]
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
 - [Scott Burton](https://github.com/klrqn)
@@ -22,6 +28,7 @@
 - [KSYW] (https://https://github.com/KhantSu)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
 - [Amay Jain](https://github.com/vrindavan)
+- [Shidharth Limboo](https://github.com/sushimushi)
 - [Aman Kumar](https://github.com/Aman98801)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
 - [Antonios Papadakis](https://github.com/one-and-only)
@@ -38,6 +45,7 @@
 - [Victor](https://github.com/victor0x16)
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
+- [Kevin Rad](https://github.com/radeau)
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
 - [Ajith D]
 - [AL]
@@ -280,6 +288,7 @@
 - [Mr. Business](https://github.com/MrBusiness25)
 - [Faurazeko](https://github.com/Faurazeko)
 - [Christopher S.](https://github.com/randoul)
+- [Saverio S.](https://github.com/saverio-sevilla)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - [Harshit Sharan] (https://github.com/HarshitSharan/)
 - [Elias Rodrigues] (https://github.com/eliasroodrigues/)
@@ -5419,6 +5428,7 @@
 - [Manish Sonthalia](https://github.com/manishsonthalia)
 - [Gerva Monsalve](https://github.com/Germonsalve)
 - [Lesnee](https://github.com/lesnee)
+- [Sal Frisina](https://github.com/Sfrisina)
 - [Eiji](https://github.com/eijiok)
 - [Zyad Tarek](https://github.com/ZyadTarek)
 - [Moretza](https://github.com/mrtztg)
@@ -5446,3 +5456,4 @@
 - [Gustavo Rangel](https://github.com/gustavobrangel)
 - [Jan Auth](https://github.com/janauth)
 - [Tomás Vigouroux](https://github.com/tvigouroux/)
+- [Michał Zemełka](https://github.com/dzemeuksis/)
