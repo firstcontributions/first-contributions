@@ -291,6 +291,7 @@
 - Isaac Davis (https://github.com/iad44)
 - Benjamin Le Dû (https://github.com/benjiben223)
 - Shubham Kanekal 
+- Tran Linh Dang
 - spiritedDreamer3001
 - DataThink2021 (https://github.com/Data-Think-2021)
 - Binil Tom Jose(https://github.com/BinilTomJose1278)2
