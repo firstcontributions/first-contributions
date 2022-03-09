@@ -17,6 +17,7 @@
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
+- [Krayorn](https://github.com/Krayorn)
 -[Adithya K Shetty]
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
