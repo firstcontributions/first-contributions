@@ -291,6 +291,7 @@
 - [Mr. Business](https://github.com/MrBusiness25)
 - [Faurazeko](https://github.com/Faurazeko)
 - [Christopher S.](https://github.com/randoul)
+- [Saverio S.](https://github.com/saverio-sevilla)
 - [Ayyoub Hamame] (https://github.com/bouyyah)
 - [Harshit Sharan] (https://github.com/HarshitSharan/)
 - [Elias Rodrigues] (https://github.com/eliasroodrigues/)
