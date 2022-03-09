@@ -5622,3 +5622,4 @@ Michael Wong
 - [Gustavo Rangel](https://github.com/gustavobrangel)
 - [Jan Auth](https://github.com/janauth)
 - [Tomás Vigouroux](https://github.com/tvigouroux/)
+- [Michał Zemełka](https://github.com/dzemeuksis/)
