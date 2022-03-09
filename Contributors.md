@@ -5299,7 +5299,7 @@ Michael Wong
 - [Abhishek] (https://github.com/hvn2k)
 - [Martin Fogl] (https://github.com/MToerpe)
 - [Mingting Ouyang](https://github.com/mingtingouyang)
-- Wei
+- [Segun Ajibola](https://github.com/segunajibola)
 - Chang
 - [Adnan Sait](https://github.com/Adnan-Sait)
 - [Amr](https://github.com/amromnia)
