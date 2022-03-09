@@ -29,6 +29,7 @@
 - [Amay Jain](https://github.com/vrindavan)
 - [Shidharth Limboo](https://github.com/sushimushi)
 - [Aman Kumar](https://github.com/Aman98801)
+- [Dimitris Baklesis](https://github.com/dbaklesis)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
