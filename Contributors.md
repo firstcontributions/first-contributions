@@ -22,7 +22,7 @@
 - [KSYW] (https://https://github.com/KhantSu)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
 - [Amay Jain](https://github.com/vrindavan)
-- [Aman Kumar](https://github.com/Aman98801)
+- [Zaw Lin Htike](https://github.com/Zawlinhtike397)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [Dominic Duke](https://github.com/domduke)
