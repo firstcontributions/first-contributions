@@ -5,6 +5,7 @@
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Yasharjs](https://github.com/yasharjs)
 - [Akshat Sharma](github.com/akshatcoder-hash)
+- [Diko](https://github.com/Ihtiandiko03)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
 - [Timeo Williams](https://github.com/timeowilliams)
