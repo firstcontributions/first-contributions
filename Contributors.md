@@ -39,6 +39,7 @@
 - [Victor](https://github.com/victor0x16)
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
+- [Kevin Rad](https://github.com/radeau)
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
 - [Ajith D]
 - [AL]
