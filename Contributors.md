@@ -22,6 +22,7 @@
 -[Adithya K Shetty]
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
+- [Catalin Siegling](https://github.com/Ant-Acid)
 - [Scott Burton](https://github.com/klrqn)
 - [Kamil Yousuf](https://github.com/tyiop794)
 - [KSYW] (https://https://github.com/KhantSu)
