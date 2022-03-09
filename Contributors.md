@@ -9,6 +9,7 @@
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
+- [Amara Enwerem](https://github.com/theamara111)
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
