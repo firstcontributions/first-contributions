@@ -21,7 +21,7 @@
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn) -[Adithya K Shetty]
 - [Jacob McMichael](https://github.com/jamcmich)
-- [Qasim Bhatti](github.com/qbhatti)
+- [Qasim Bhatti](https://github.com/qbhatti)
 - [Eric Manfred](https://github.com/emanfred)
 - [Catalin Siegling](https://github.com/Ant-Acid)
 - [Scott Burton](https://github.com/klrqn)
