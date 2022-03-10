@@ -172,6 +172,7 @@
 - [Farah Sinada] (https://github.com/FarahSinada)
 - [Keean Ferreira] (https://github.com/Keean07)
 - [Brendan Jensen]
+- [Alan Zhen] (https://github.com/Azhen917)
 - [Dev Patel] (https://github.com/Virus2466)
 - [Mart Anthony Salazar](https://github.com/mart-anthony-stark)
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
