@@ -17,6 +17,7 @@
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
+- [Enri](https://github.com/anaverage-enri)
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn)
 -[Adithya K Shetty]
