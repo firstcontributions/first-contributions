@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Priyanshu Kumar](github.com/kumarpriyanshu2k2)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Yasharjs](https://github.com/yasharjs)
