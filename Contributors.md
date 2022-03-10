@@ -26,6 +26,7 @@
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
 - [Catalin Siegling](https://github.com/Ant-Acid)
+- [Marek Sliwinski](https://github.com/Maarkhu)
 - [Scott Burton](https://github.com/klrqn)
 - [Jessica Hamilton](https://github.com/jessicant)
 - [Kamil Yousuf](https://github.com/tyiop794)
