@@ -21,6 +21,7 @@
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn)
 -[Adithya K Shetty]
+- [Ashwini Kumar] (https://github.com/ashwini3326)
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
 - [Catalin Siegling](https://github.com/Ant-Acid)
