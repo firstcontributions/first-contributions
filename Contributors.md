@@ -20,6 +20,7 @@
 - [Enri](https://github.com/anaverage-enri)
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn)
+- [Munib Karimi] (https://github.com/Munib97)
 -[Adithya K Shetty]
 - [Ashwini Kumar] (https://github.com/ashwini3326)
 - [Jacob McMichael](https://github.com/jamcmich)
