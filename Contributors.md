@@ -295,6 +295,7 @@
 - [temi temiola](https://github.com/tofetpuzo)
 - [Dakota Smith] (https://github.com/dakotaleesmith)
 - [Julien Von Der Marck](https://github.com/jvondermarck)
+- [Rahul Kumar] (https://github.com/RK456)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Melvin J.](https://github.com/melvinj98)
