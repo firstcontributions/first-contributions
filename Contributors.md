@@ -3850,6 +3850,7 @@ Himanshu Dedha
 - [Sumit Kumar](https://github.com/Shadowpii)
 - [Dillon O'Connor](https://github.com/dillonoconnor)
 - [kyle](https://github.com/rexgamer945)
+- [Aleksa Nikolic](https://github.com/xale-a)
 - [James Ekirigwe](https://github.com/jaocekeo)
 - [Arthur Sit](https://github.com/Legendarytruth)
 - [Pranav Thakran](https://github.com/PranavThakran)
