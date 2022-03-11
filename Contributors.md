@@ -5499,6 +5499,7 @@ Michael Wong
 - [Disha Verma] (https://github.com/dishaverma1)
 - [Kristopher Maxwell] (https://github.com/kcmaxwell)
 - [Mohamed Salah]
+- [Buhari Sayed](https://github.com/buharisayed)
 - [Ant2705](https://github.com/ant2705)
 - [arhamymr](https://github.com/arhamymr)
 - [Charles Phil](https://github.com/charlesphil)
