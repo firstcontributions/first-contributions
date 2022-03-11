@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # 
 
-<!-- Added a word in line 7 -->
+// Removed
 
 #### _Read this in [other languages](translations/Translations.md)._
 
