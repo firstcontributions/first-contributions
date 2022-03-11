@@ -65,7 +65,7 @@ git checkout -b add-alonzo-church
 
 ## आवश्यक परिवर्तन करे बर अउ उन परिवर्तनों ल कमिट करे बर-
 
-अब `Contributors.md` फ़ाइल ल एक टेक्स्ट एडिटर म खोलकर एमा अपन नाम लिखव। फ़ाइल के शुरुआत या अंत म एला झन जोड़बे। एला बीच म कही तिरिया देहु आपमन | 
+अब `Contributors.md` फ़ाइल ल एक टेक्स्ट एडिटर म खोलकर एमा अपन नाम लिखव। फ़ाइल के शुरुआत या अंत म एला झन जोड़बे। एला बीच म कही तिरिया देहु आपमन |
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -110,7 +110,7 @@ git push origin <अपन-शाखा-के-नाम-जोड़व>
 
 बधाई हो मितान! आपमन ने_fork -> clone -> edit -> PR_ वर्कफ़्लो ल पूरा कर डरे हव!
 
-अपन पहली योगदान के ख़ुशी म अपन संगी मन करा शेयर करव [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके | 
+अपन पहली योगदान के ख़ुशी म अपन संगी मन करा शेयर करव [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके |
 
 आपमन हमर स्लैक टीम ल ज्वाइन कर सकत हव अगर आपमन ल कोनो सहायता के जरुरत होही त | [म ज्वाइन करव](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
@@ -118,7 +118,6 @@ git push origin <अपन-शाखा-के-नाम-जोड़व>
 
 ## अन्य टूल के उपयोग करके ट्यूटोरियल
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
-
