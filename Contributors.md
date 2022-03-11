@@ -118,6 +118,7 @@
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Samia Alghamdi]
 - [Adam Pudliner](https://github.com/adampudliner)
+- [Shoeb Meti](https://github.com/Mystogan2000)
 - [Eric Skoglund] (https://github.com/Ericmjskoglund)
 - [Juan M]
 - [luissoy] (https://github.com/luissabio)
