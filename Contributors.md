@@ -10,6 +10,7 @@
 - [Diko](https://github.com/Ihtiandiko03)
 - [Palmese Davide Mattia] (https://github.com/PalmeseDavideMattia)
 - [Vincent Limo](https://github.com/v-limo)
+- [Ilyass Salamat](https://github.com/ily-salamat)
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Adedamola XL] (https://github.com/AdedamolaXL)
