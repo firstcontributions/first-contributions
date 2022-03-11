@@ -34,6 +34,7 @@
 - [Kamil Yousuf](https://github.com/tyiop794)
 -[M.N.S.R.NITHIN]
 -Mili
+-[Aayush Yadav] (https://github.com/aayush-y)
 - [KSYW] (https://https://github.com/KhantSu)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
 - [Amay Jain](https://github.com/vrindavan)
