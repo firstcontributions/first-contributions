@@ -87,6 +87,7 @@
 - [Mayank Sharma](https://github.com/aimhack3r)
 - [Ephemeral Astronaut](https://github.com/troglodytto)
 - [Mike Smith](https://github.com/htimsekim)
+- [Amir MoharamiFard](https://github.com/moharami)
 - [Mohammad Hussain](https://github.com/hussaincode)
 - [Shwe Zin](https://github.com/Shweryl)
 - [N. Dennis] (https://github.com/ndennis124)
