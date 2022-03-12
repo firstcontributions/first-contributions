@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [ansari-daish](https://github.com/ansari-danish)
 - [Deglier Amorim](github.com/deglier)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
