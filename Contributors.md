@@ -2798,6 +2798,7 @@ Himanshu Dedha
 - [Parham Modirniya](https://github.com/modirniya)
 - [Nayan Sabnis](https://github.com/nayans99)
 - [PhakphumV. Technolista](https://github.com/PhakphumV)
+- [Dennis Kane](https://github.com/dwakane)
 - [SWAYAM SURYAVANSHI](https://github.com/swwayam24)
 - [ULUGBEK BAHROM](https://github.com/ulugbekbahromov/))
 - [Patrick Crouch](https://github.com/PatrickCrouch)
