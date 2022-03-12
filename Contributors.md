@@ -18,6 +18,7 @@
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Adedamola XL] (https://github.com/AdedamolaXL)
+- [zedestrian](https://github.com/zedestrian)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
 - [Amara Enwerem](https://github.com/theamara111)
