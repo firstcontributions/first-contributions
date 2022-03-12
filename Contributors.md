@@ -275,6 +275,7 @@
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sameer Mannava]()
 - [Ayush Dobal]
+- [Fuseini Iddrisu Tahitu](https://github.com/tifuseini)
 - [Johann Schallenberger](https://github.com/jschallenberger)
 - [Austin Smith] (https://github.com/Garrus5009)
 - [Duc Tran](https://github.com/Ducz01)
