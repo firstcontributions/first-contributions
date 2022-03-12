@@ -5440,6 +5440,7 @@ Michael Wong
 - [Prajwal S M](https://github.com/prajwalsm522)
 - [Rajendra](https://github.com/rajendra-tamboli)
 - [Harshil Bhatia](https://github.com/harshilbhatia7)
+- [Dave G.](https://github.com/DavidG1542)
 - [Ruslan Kossak] (https://github.com/tredstart)
 - [Vitor Albres] (https://github.com/thealbres)
 - [Truica Sorin] (https://github.com/sorin800)
