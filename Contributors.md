@@ -850,6 +850,7 @@ Zack Bryant
 - [Bryan Ortiz](https://github.com/ortizb)
 - [Vox]
 - [Amey Sawant](https://github.com/Amey0498)
+- [shment](https://github.com/shment7)
 - [yewinag](https://github.com/yewinag)
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
