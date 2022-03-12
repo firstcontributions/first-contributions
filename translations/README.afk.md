@@ -1,177 +1,119 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[! [ओपन सोर्स लव] (https://badges.frapsoft.com/os/v1/open-source.svg?v=103)] (https://github.com/ellerbrock/open-source-badges/ )
+[<img align = "right" width = "150" src = "https://firstcontributions.github.io/assets/Readme/join-slack-team.png">] (https://join.slack.com / टी / पहले योगदानकर्ता / साझा_इनवाइट / enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiNjKZMG)
+[! [लाइसेंस: एमआईटी] (https://img.shields.io/badge/License-MIT-green.svg)] (https://opensource.org/licenses/MIT)
+[! [ओपन सोर्स हेल्पर्स] (https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)] (https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Eerste Bydraes
+#पहला योगदान
 
-Dit is moeilik. Dit is altyd moeilik om die eerste keer iets te doen. Veral wanneer jy saamwerk, maak foute nie 'n gemaklike ding nie. Ons wou die manier waarop nuwe open source bydraers vir die eerste keer leer en bydra, vereenvoudig.
+यह मुश्किल है। पहली बार कुछ करना हमेशा कठिन होता है। खासकर जब आप एक साथ काम करते हैं, तो गलतियाँ करना आरामदायक बात नहीं है। हम नए ओपन सोर्स योगदानकर्ताओं के पहली बार सीखने और योगदान करने के तरीके को सरल बनाना चाहते थे।
 
-Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die praktyk te doen? Hierdie projek het ten doel om leiding te gee en die manier waarop beginners hul eerste bydrae maak, te vereenvoudig. As jy jou eerste bydrae wil maak, volg die onderstaande stappe.
+लेख पढ़ना और ट्यूटोरियल देखना मदद कर सकता है, लेकिन व्यवहार में सही काम करने से बेहतर क्या है? इस परियोजना का उद्देश्य मार्गदर्शन प्रदान करना और शुरुआती लोगों द्वारा अपना पहला योगदान देने के तरीके को सरल बनाना है। यदि आप अपना पहला योगदान देना चाहते हैं, तो नीचे दिए गए चरणों का पालन करें।
 
-#### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.]( #tutorials-using-other-tools )*
+#### * यदि आप कमांड लाइन के साथ सहज नहीं हैं, [ऐसे ट्यूटोरियल हैं जो GUI टूल का उपयोग करते हैं।] (# Tutorials-use-other-tools) *
 
-#### *Lees dit in [ander tale .](translations/Translations.md).*
+#### * इसे [अन्य भाषाओं में पढ़ें।] (अनुवाद / अनुवाद। एमडी)। *
 
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-
-
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-
-As jy nie git op jou masjien het nie, [installeer dit]( https://help.github.com/articles/set-up-git/).
-
-## Vork hierdie bewaarplek
-
-Vork hierdie repo deur op die vurk knoppie bo-aan hierdie bladsy te klik. Dit sal 'n kopie van hierdie repository in u rekening skep.
-
-## Klone die repository
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
-
-Klone nou die vurk repo aan jou masjien. Gaan na jou GitHub-rekening, maak die vurk repo oop, klik op die kloonknop en klik dan op die kopie na die knipbord- ikoon.
-
-Open 'n terminaal en voer die volgende git opdrag uit:
-
-```
-git clone "url you just copied"
-```
-
-waar "url jy net gekopieer" het (sonder die aanhalingstekens) is die url na hierdie repository (jou vurk van hierdie projek). Sien die vorige stappe om die url te verkry.
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-Byvoorbeeld:
-
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-
-waar `this-is-youis` jou GitHub gebruikersnaam Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
-
-## Skep 'n tak
-
-Verander na die repository gids op jou rekenaar (as jy nie reeds daar is nie):
-
-```
-cd first-contributions
-```
-
-Skep nou 'n tak met die git `checkout` opdrag:
-
-```
-git checkout -b <add-your-new-branch-name>
-```
-
-Byvoorbeeld:
-
-```
-git checkout -b add-alonzo-church
-```
-
-(Die naam van die tak hoef nie die woord by te voeg nie, maar dit is 'n redelike ding om in te sluit omdat die doel van hierdie tak is om jou naam by 'n lys te voeg.)
-
-## Maak die nodige veranderinge en verbind die veranderinge
-
-Nou oop `Contributors.md` lêer in 'n teksredigeerder, voeg jou naam daarby. Moet dit nie aan die begin of einde van die lêer byvoeg nie. Sit dit oral tussenin. Stoor nou die lêer.
-
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
-
-As u na die projekgids gaan en die opdrag uitvoer `git status`, sal u sien dat daar veranderinge is.
+[🇮🇳] (अनुवाद / README.hi.md)
+[🇲🇲] (अनुवाद / README.mm_unicode.md)
+[🇮🇩] (अनुवाद / README.id.md)
+[🇫🇷] (अनुवाद / README.fr.md)
+[🇪🇸] (अनुवाद / README.es.md)
+[<img src = "https://firstcontributions.github.io/assets/Readme/catalan1.png" चौड़ाई = "22">] (अनुवाद / README.ca.md)
+[🇳🇱] (अनुवाद / README.nl.md)
+[🇱🇹] (अनुवाद / README.lt.md)
+[🇷🇺] (अनुवाद / README.ru.md)
+[: स्लोवाकिया:] (अनुवाद / README.slk.md)
+[🇯🇵] (अनुवाद / README.ja.md)
+[🇻🇳] (अनुवाद / README.vn.md)
+[🇵🇱] (अनुवाद / README.pl.md)
+[🇮🇷] (अनुवाद / README.fa.md)
+[🇮🇷] (अनुवाद / README.fa.en.md)
+[🇰🇷 ] (अनुवाद / README.ko.md)
+[🇩🇪] (अनुवाद / README.de.md)
+[🇩🇰] (अनुवाद / README.da.md)
+[🇨🇳] (अनुवाद / README.chs.md)
+[🇹🇼] (अनुवाद / README.cht.md)
+[🇬🇷] (अनुवाद / README.gr.md)
+[🇪🇬] (अनुवाद / README.eg.md)
+[🇸🇦] (अनुवाद / README.ar.md)
+[🇺🇦] (अनुवाद / README.ua.md)
+[🇧🇷] (अनुवाद / README.pt_br.md)
+[🇵🇹] (अनुवाद / README.pt-pt.md)
+[🇮🇹] (अनुवाद / README.it.md)
+[🇹🇭] (अनुवाद / README.th.md)
+[🏴] (अनुवाद / README.gl.md)
+[🇵🇰] (अनुवाद / README.ur.md)
+[: बांग्लादेश:] (अनुवाद / README.bn.md)
+[🇲🇩 ] (अनुवाद / README.ro.md)
+[🇹🇷] (अनुवाद / README.tr.md)
+[🇸🇪] (अनुवाद / README.se.md)
+[: स्लोवेनिया:] (अनुवाद / README.sl.md)
+[🇮🇱] (अनुवाद / README.hb.md)
+[🇨🇿] (अनुवाद / README.cs.md)
+[<img src = "https://firstcontributions.github.io/assets/Readme/pirate.png" चौड़ाई = "22">] (अनुवाद / README.en-pirate.md)
+[🇲🇽] (अनुवाद / README.mx.md)
+[🇿🇦] (अनुवाद / README.zul.md)
+[🇿🇦] (अनुवाद / README.afk.md)
+[🇰🇪] (अनुवाद / README.kws.md)
+[🇳🇬] (अनुवाद / README.igb.md)
 
 
-Voeg die veranderinge by die tak wat jy net geskep het deur die `git add` opdrag te gebruik:
 
-```
-git add Contributors.md
-```
+<img align = "राइट" चौड़ाई = "300" src = "https://firstcontributions.github.io/assets/Readme/fork.png" alt = "इस रिपॉजिटरी को फोर्क करें" />
 
-Doen nou die veranderinge deur die `git commit` opdrag te gebruik:
+यदि आपकी मशीन पर गिट नहीं है, [इसे स्थापित करें] (https://help.github.com/articles/set-up-git/)।
 
-```
-git commit -m "Add <your-name> to Contributors list"
-```
+## इस भंडार को फोर्क करें
 
-vervang `<your-name>` met jou naam.
+इस पृष्ठ के शीर्ष पर स्थित कांटा बटन पर क्लिक करके इस रेपो को फोर्क करें। यह आपके खाते में इस भंडार की एक प्रति बनाएगा।
 
-## Druk veranderinge na GitHub
+## रिपॉजिटरी को क्लोन करें
 
-Druk jou veranderinge deur die opdrag te gebruik `git push`:
+<img align = "राइट" चौड़ाई = "300" src = "https://firstcontributions.github.io/assets/Readme/clone.png" alt = "इस रिपॉजिटरी को क्लोन करें" />
 
-```
-git push origin <add-your-branch-name>
-```
+अब फोर्क रेपो को अपनी मशीन पर क्लोन करें। अपने गिटहब खाते पर जाएं, फोर्क रेपो खोलें, क्लोन बटन पर क्लिक करें, और फिर कॉपी को क्लिपबोर्ड आइकन पर क्लिक करें।
 
-vervang `<add-your-branch-name>` met die naam van die tak wat jy vroeër geskep het.
+एक टर्मिनल खोलें और निम्नलिखित git कमांड निष्पादित करें:
 
-## Dien jou veranderinge in vir hersiening
+`` `
+गिट क्लोन "यूआरएल जिसे आपने अभी कॉपी किया है"
+`` `
 
-As jy na jou repository op GitHub gaan, sal jy 'n `Compare & pull` requestknoppie sien. Klik op daardie knoppie.
+जहां "यूआरएल आपने अभी कॉपी किया है" (उद्धरण के बिना) इस भंडार का यूआरएल है (इस परियोजना का आपका कांटा)। url प्राप्त करने के लिए पिछले चरण देखें।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img align = "राइट" चौड़ाई = "300" src = "https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt = "URL को क्लिपबोर्ड पर कॉपी करें" />
 
-Dien nou die trekversoek in.
+उदाहरण के लिए:
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+`` `
+गिट क्लोन https://github.com/this-is-you/first-contributions.git
+`` `
 
-Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsmelt. U sal 'n kennisgewing-e-pos ontvang sodra die veranderinge saamgesmelt is.
+जहाँ 'यह-इस-आप' आपका GitHub उपयोगकर्ता नाम है यहाँ आप अपने कंप्यूटर पर GitHub में पहले योगदान भंडार की सामग्री की प्रतिलिपि बनाते हैं।
 
-## Waarheen gaan jy vandaan?
+## एक शाखा बनाएं
 
-Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei wat jy dikwels as 'n bydraer sal ervaar!
+अपने कंप्यूटर पर रिपोजिटरी निर्देशिका में बदलें (यदि आप पहले से वहां नहीं हैं):
 
-Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://roshanjossey.github.io/first-contributions/#social-share) gaan .
+`` `
+सीडी प्रथम-योगदान
+`` `
 
-U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+अब git `checkout` कमांड के साथ एक ब्रांच बनाएं:
 
-Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://roshanjossey.github.io/first-contributions/#project-list).
+`` `
+गिट चेकआउट-बी <जोड़ें-आपकी-नई-शाखा-नाम>
+`` `
 
-### [Bykomende materiaal](../additional-material/git_workflow_scenarios/additional-material.md)
+उदाहरण के लिए:
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visuele Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visuele Studio Kode](../github-windows-vs-code-tutorial.md)|
+`` `
+गिट चेकआउट-बी ऐड-अलोंजो-चर्च
+`` `
 
+(शाखा के नाम में शब्द जोड़ने की आवश्यकता नहीं है, लेकिन इसे शामिल करना एक उचित बात है क्योंकि इस शाखा का उद्देश्य सूची में आपका नाम जोड़ना है।)
+
+## आवश्यक परिवर्तन करें और परिवर्तनों को कनेक्ट करें
+
+अब `Contributors.md` फ़ाइल खोलें
