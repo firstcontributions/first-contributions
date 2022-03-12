@@ -103,6 +103,7 @@
 - [Saurabh Dange](https://github.com/Saurabh-Dange)
 - [DrowningSelf]
 - [Quauhtli Garcia] (https://github.com/qgarcia95)
+- [Tara Rosenthal] (https://github.com/tararosenthal)
 - [Joanne Santos] (https://github.com/joannemvsantos)
 - [Denver] (https://github.com/vir0za)
 - [SabrinaAde](https://github.com/SabrinaAde)
