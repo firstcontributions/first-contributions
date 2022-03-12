@@ -536,6 +536,7 @@ Gabrielle Jones
 -[MMT](https://github.com/MinMinThway)
 -Gagan kumar
 - Sim Lim
+- [Yang-Haoran](https://github.com/Yang-Haoran)
 - [d-bst](https://github.com/d-bst)
 - [George Offley](https://github.com/georgeoffley)
 - [Vladislav Krukhmalev] (https://github.com/NemarioGit)
@@ -5052,9 +5053,7 @@ Disguy
 - [Jason Wang](https://github.com/JsonWang95)
 - [Musadiq Peerzada](https://github.com/musadiqpeerzada)
 Michael Wong
-
 - [Subin Park](https://github.com/IamSOL1)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
