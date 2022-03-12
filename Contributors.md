@@ -325,6 +325,7 @@
 - [Elias Rodrigues] (https://github.com/eliasroodrigues/)
 - Isaac Davis (https://github.com/iad44)
 - Benjamin Le Dû (https://github.com/benjiben223)
+- [Junyu Li](https://github.com/qununb)
 - Shubham Kanekal 
 - Tran Linh Dang
 - spiritedDreamer3001
