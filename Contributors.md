@@ -1280,6 +1280,7 @@ Nathan Hill
 - Graham Vaith
 - Jonathan Lagos
 - Dilimulati Diliyaer
+- Yashwant Sontakke
 - [Quinn Moffat](https://github.com/qlmoffat)
 - [Hardik Patel](https://github.com/hardikpatel0884)
 - [Najmieh Sadat Safarabadi](https://github.com/najmieh)
