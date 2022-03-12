@@ -13,6 +13,7 @@
 - [Vincent Limo](https://github.com/v-limo)
 - [Ilyass Salamat](https://github.com/ily-salamat)
 - [Rahul Ghetia](https://github.com/Rahul6725l)
+- [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Adedamola XL] (https://github.com/AdedamolaXL)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
