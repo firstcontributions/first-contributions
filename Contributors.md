@@ -13,6 +13,7 @@
 - [Palmese Davide Mattia] (https://github.com/PalmeseDavideMattia)
 - [Vincent Limo](https://github.com/v-limo)
 - [Ilyass Salamat](https://github.com/ily-salamat)
+- [Mayank Pathak](https://github.com/bad-at-names0)
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
