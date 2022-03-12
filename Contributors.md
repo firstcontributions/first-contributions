@@ -44,6 +44,7 @@
 - [Amay Jain](https://github.com/vrindavan)
 - [Shidharth Limboo](https://github.com/sushimushi)
 - [Aman Kumar](https://github.com/Aman98801)
+- [Dhananjayan Vinayagam](https://github.com/Dhanajayan)
 - [Dimitris Baklesis](https://github.com/dbaklesis)
 - [Bony Sureliya] (https://github.com/bonysureliya)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
