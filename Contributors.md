@@ -109,6 +109,7 @@
 - [Joanne Santos] (https://github.com/joannemvsantos)
 - [Denver] (https://github.com/vir0za)
 - [SabrinaAde](https://github.com/SabrinaAde)
+- [Ankush Banik](https://github.com/Ankush263)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
 - [Rafael Kayo](https://github.com/rKayoo)
