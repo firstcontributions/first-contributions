@@ -8,6 +8,7 @@
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
+- [A Friedman]
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Yasharjs](https://github.com/yasharjs)
