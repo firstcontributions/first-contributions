@@ -4,6 +4,7 @@
 
 - [Luan Nutels](https://github.com/luannutels)
 - [ansari-daish](https://github.com/ansari-danish)
+- [Owar1](https://github.com/Owar1)
 - [Deglier Amorim](github.com/deglier)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
