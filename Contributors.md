@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Luan Nutels](https://github.com/luannutels)
 - [ansari-daish](https://github.com/ansari-danish)
 - [Deglier Amorim](github.com/deglier)
 - [James Ballow](https://github.com/jmb11x)
@@ -5501,4 +5502,4 @@
 - [mweerts](https://github.com/mweerts)
 - [vivek vaidya](https://github.com/Husler007)
 - [Jersey Liu](https://github.com/NeoJersey)
-- [Luan Nutels](https://github.com/luannutels)
+-
