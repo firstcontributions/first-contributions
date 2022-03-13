@@ -23,6 +23,7 @@
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
+- [Bhuvaneswari Pathsamatla](https://github.com/bhuvanaindukuri)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
 - [Amara Enwerem](https://github.com/theamara111)
