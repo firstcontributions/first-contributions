@@ -12,8 +12,9 @@
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
--[Adithya K Shetty]
+- [Adithya K Shetty]
 - [Eric Manfred](https://github.com/emanfred)
+- [Senay Fekadu](https://github.com/Senay-Fekadu2)
 - [Scott Burton](https://github.com/klrqn)
 - [Kamil Yousuf](https://github.com/tyiop794)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
