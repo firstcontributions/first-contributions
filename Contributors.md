@@ -1,7 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Luan Nutels](https://github.com/luannutels)
 - [ansari-daish](https://github.com/ansari-danish)
 - [Owar1](https://github.com/Owar1)
 - [Martin Wachira](https://github.com/martinwachira)
@@ -9,7 +9,9 @@
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
+- [A Friedman]
 - [Ye Pyae Aung](github.com/YePyaeAung)
+- [Soyas Limbu](https://github.com/soyas07)
 - [Yasharjs](https://github.com/yasharjs)
 - [Akshat Sharma](github.com/akshatcoder-hash)
 - [Diko](https://github.com/Ihtiandiko03)
@@ -20,7 +22,7 @@
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
-- [Adedamola XL] (https://github.com/AdedamolaXL)
+- [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
@@ -52,6 +54,7 @@
 - [Dimitris Baklesis](https://github.com/dbaklesis)
 - [Bony Sureliya] (https://github.com/bonysureliya)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
+- [Stephen]
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [ZLH](https://github.com/Zawlinhtike397)
 - [Dominic Duke](https://github.com/domduke)
@@ -106,6 +109,7 @@
 - [Joanne Santos] (https://github.com/joannemvsantos)
 - [Denver] (https://github.com/vir0za)
 - [SabrinaAde](https://github.com/SabrinaAde)
+- [Ankush Banik](https://github.com/Ankush263)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
 - [Rafael Kayo](https://github.com/rKayoo)
@@ -116,9 +120,11 @@
 - [Arnav Khajuria] (https://github.com/arnavk1872)
 - [adkood] (https://github.com/adkood)
 - [JAAS] (https://github.com/jaas666)
+- [Filippos Makridis] (https://github.com/noobas32)
 - [Ahmed Alsubhi] (https://github.com/iAhmedAlsubhi)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
+- [Blake Yeboah](https://github.com/Blake-K-Yeboah)
 - [Izzy H.]
 - [Ben Janac](https://github.com/orobor0s/)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
@@ -1225,6 +1231,7 @@
 - [Subinoy Dutta] (https://github.com/subi9)
   Nathalie Bonin
 - Jack Wu
+- Lorenzo Fratini
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [casperera] (https://github.com/casperera)
 - [Gmelon] (https://github.com/gmelon)
@@ -5505,3 +5512,4 @@
 - [vivek vaidya](https://github.com/Husler007)
 - [Jersey Liu](https://github.com/NeoJersey)
 - [Twatchal](https://github.com/Twatchal)
+- [mixed-source](https://github.com/mixed-source)
