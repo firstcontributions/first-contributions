@@ -5501,4 +5501,4 @@
 - [mweerts](https://github.com/mweerts)
 - [vivek vaidya](https://github.com/Husler007)
 - [Jersey Liu](https://github.com/NeoJersey)
-- [Luan Nutels] (https://github.com/luannutels)
+- [Luan Nutels](https://github.com/luannutels)
