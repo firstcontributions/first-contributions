@@ -92,6 +92,7 @@
 - [Emmanuel Ugwu](https://github.com/ugwutotheeshoes)
 - [Haafizz Ismail](https://github.com/haafizzismail)
 - [code Nithin] (https://github.com/codenithin)
+- [Ben Kanku Barthelemy](https://github.com/VirgoCoachman)
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Steven Tarmann](https://github.com/StevenTarmann)
 - [zaw ye naing](https://github.com/zawyenaing22)
