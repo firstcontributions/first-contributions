@@ -1386,6 +1386,7 @@ Heng Sun
 - [Subinoy Dutta] (https://github.com/subi9)
 Nathalie Bonin
 - Jack Wu
+- Lorenzo Fratini
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [casperera] (https://github.com/casperera)
 - [Gmelon] (https://github.com/gmelon)
