@@ -21,7 +21,7 @@
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
-- [Adedamola XL] (https://github.com/AdedamolaXL)
+- [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
@@ -5687,3 +5687,4 @@ Michael Wong
 - [vivek vaidya](https://github.com/Husler007)
 - [Jersey Liu](https://github.com/NeoJersey)
 - [Twatchal](https://github.com/Twatchal)
+- [mixed-source](https://github.com/mixed-source)
