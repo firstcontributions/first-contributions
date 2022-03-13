@@ -119,6 +119,7 @@
 - [Arnav Khajuria] (https://github.com/arnavk1872)
 - [adkood] (https://github.com/adkood)
 - [JAAS] (https://github.com/jaas666)
+- [Filippos Makridis] (https://github.com/noobas32)
 - [Ahmed Alsubhi] (https://github.com/iAhmedAlsubhi)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
