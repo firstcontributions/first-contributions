@@ -444,6 +444,7 @@
 - [Harshit kumar yadav](https://github.com/harshit2123)
 - [Andrew Ross] (https://github.com/namenotinuse)
 - [Hakima Maarouf](https://github.com/hamaarouf)
+- [Elise Young](https://github.com/elise-young)
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
 - [Marc Perlas](https://github.com/DadTech)
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
