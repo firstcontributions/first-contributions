@@ -14,6 +14,7 @@
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
+- [Chrispy]
 - [Yasharjs](https://github.com/yasharjs)
 - [Monisha Jegadesan](github.com/monisha-jega)
 - [Akshat Sharma](github.com/akshatcoder-hash)
