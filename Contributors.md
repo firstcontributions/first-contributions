@@ -10,6 +10,7 @@
 - [Asim Delvi](https://github.com/asimdelvi)
 - [Max Sauer](https://github.com/mjs2011)
 - [Anupreet Singh](https://github.com/realanupreet)
+- [Elie Zgheib](https://github.com/ElieZgb)
 - [Jackie Ye](https://github.com/JackieYe27)
 - [Naftoli Ost](https://github.com/naftoliost)
 - [Rukundo Kevin](https://github.com/rukundo-kevin)
