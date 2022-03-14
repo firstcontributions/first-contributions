@@ -103,6 +103,7 @@
 - [Steven Tarmann](https://github.com/StevenTarmann)
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Thomas ElGawly] (https://gitlab.com/Avengur)
+- [Joseph Kirchner] (https://github.com/Ignautz)
 - [Gagan Garg]
 - Tze Chung Tai
 - [Sneha Supriya](https://github.com/codingsneha)
