@@ -12,6 +12,7 @@
 - [A Friedman]
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Soyas Limbu](https://github.com/soyas07)
+- [Imraan Pattan]
 - [Yasharjs](https://github.com/yasharjs)
 - [Akshat Sharma](github.com/akshatcoder-hash)
 - [Diko](https://github.com/Ihtiandiko03)
