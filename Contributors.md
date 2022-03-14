@@ -30,15 +30,16 @@
 - [Amara Enwerem](https://github.com/theamara111)
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Lucidity](https://github.com/Luc1d1ty)
--[Bhavana Hebbar](https://github.com/BhavanaHebbar)
+- [Bhavana Hebbar](https://github.com/BhavanaHebbar)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
+- [daniel7an](https://github.com/daniel7an)
 - [Enri](https://github.com/anaverage-enri)
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn)
 - [Juan Reyna III] (https://github.com/Juanreyna3)
 - [Munib Karimi] (https://github.com/Munib97)
--[Adithya K Shetty]
+- [Adithya K Shetty]
 - [Ashwini Kumar] (https://github.com/ashwini3326)
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
@@ -47,9 +48,9 @@
 - [Scott Burton](https://github.com/klrqn)
 - [Jessica Hamilton](https://github.com/jessicant)
 - [Kamil Yousuf](https://github.com/tyiop794)
--[M.N.S.R.NITHIN]
--Mili
--[Aayush Yadav] (https://github.com/aayush-y)
+- [M.N.S.R.NITHIN]
+- Mili
+- [Aayush Yadav] (https://github.com/aayush-y)
 - [KSYW] (https://https://github.com/KhantSu)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
 - [Amay Jain](https://github.com/vrindavan)
@@ -67,7 +68,7 @@
 - [Dominic Merchelski] (https://github.com/rat-3)
 - [Yash Anand] (https://github.com/YashxAnand)
 - [k2491p](https://github.com/k2491p)
--[Daniela Morales](https://github.com/DaniMSix)
+- [Daniela Morales](https://github.com/DaniMSix)
 - [Ankit Mehta](https://github.com/ankyit)
 - [Diwanshi Gupta](https://github.com/diwanshib)
 - [Andres Calzadias](https://github.com/cmndrqueso)
