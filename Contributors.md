@@ -5593,6 +5593,7 @@ Michael Wong
 - [Cauã Tavares](https://github.com/CauanGx)
 - [Marshall Schmutz](https://github.com/mars-schmutz)
 - [Creberus] (https://github.com/Creberus)
+- [Clément Despiney](https://github.com/cdespiney)
 - [Rahul Singh Karki]
 - <!-- prettier-ignore-end -->
 - [justartover](https://github.com/justartover1)
