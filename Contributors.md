@@ -997,6 +997,7 @@ sylucck
 - [Sean Song](https://github.com/SeanSong25)
 - [Sawa](https://github.com/SawaTszm)
 -Omar Maslamani
+- [asko1](https://github.com/asko1/)
 -Chidiogo Onoh
 Jawadur
 - VastoLordePy
