@@ -2925,6 +2925,7 @@ Himanshu Dedha
 - [Mubarak Bakarman] (https://github.com/mub-pro)
 - [Michael Haselberger](https://github.com/mhasel)
 - [Michael Overkamp](https://github.com/MichaelOver)
+- [Enrico Giorio](https://github.com/EnricoSteez)
 - [Swastik Samal](https://github.com/Swastik-tsk)
 - [Saksham Singh](https://github.com/sakssingh)
 - [Max Sauer](https://github.com/mjs2011)
