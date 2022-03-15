@@ -18,6 +18,7 @@
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Chrispy]
+- [Siim Sink] (https://github.com/sinkkkk)
 - [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
 - [Monisha Jegadesan](github.com/monisha-jega)
