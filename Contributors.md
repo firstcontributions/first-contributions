@@ -5719,3 +5719,4 @@ Michael Wong
 - [Kangbeen Ko] (https://github.com/KevinTheRainmaker)
 - [Mavericks Balitaan] (https://github.com/mavericks-db)
 - [DJKal11] (https://github.com/DJkal11)
+- [Jan K.] (https://github.com/Jns234)
