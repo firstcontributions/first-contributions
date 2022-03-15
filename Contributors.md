@@ -16,6 +16,7 @@
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
 - [Ingela]
+- [Nox](github.com/NoxF7)
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
