@@ -5689,7 +5689,7 @@ Michael Wong
 - [WMA](https://github.com/wminaung)
 - [Chabazite](https://github.com/chabazite)
 - [Mega](https://github.com/mega2799)
-- [Thomas Warren](https://github.com/ThomasWarren2147)2
+- [Thomas Warren](https://github.com/ThomasWarrn2147)2
 - [Kevin Ahn](https://github.com/maketheworldwise)
 - [Ashfaaq Rifath](https://github.com/ashfaaqrifath)
 - [Amanuel Abebe](https://github.com/CodEZ47)
@@ -5705,10 +5705,10 @@ Michael Wong
 - [Twatchal](https://github.com/Twatchal)
 - [mixed-source](https://github.com/mixed-source)
 - [newbie](https://github.com/newbie2298)
+- [Kangbeen Ko] (https://github.com/KevinTheRainmaker)
 - [Harvey Wang](https://github.com/HarveyWang0901)
 - [MikeAraujo] (https://github.com/m1k34j0)
 - [Tina](https://github.com/Tina-otoge)
 - [NY] (https://github.com/nycan)
 - [901grey] (https://github.com/901grey/)
 - [Sub0Zero1990] (https://github.com/Sub0Zero1990)
-- [Kangbeen Ko] (https://github.com/KevinTheRainmaker)
