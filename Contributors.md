@@ -2053,6 +2053,7 @@ yejashi
 - [Adhiraj Soparkar](https://github.com/Adhiraj10)
 - [Md. Emon Prodhan](https://github.com/emon-ai)
 - [Labib Hibatullah](https://github.com/lalabib)
+- [henriquezna](https://github.com/henriquezna)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Simeon Akanbi](https://github.com/simple-codes22)
 - [Rolbin](https://github.com/thenoveltyseeker)
