@@ -14,6 +14,7 @@
 - [Ben Mead](github.com/bmead221)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
+- [Ingela]
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
