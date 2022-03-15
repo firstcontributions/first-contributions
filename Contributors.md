@@ -20,6 +20,7 @@
 - [Imraan Pattan]
 - [Chrispy]
 - [Harri L](https://github.com/a1sop0s)
+- [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink] (https://github.com/sinkkkk)
 - [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
