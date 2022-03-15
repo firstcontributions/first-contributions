@@ -14,10 +14,13 @@
 - [Ben Mead](github.com/bmead221)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
+- [Ingela]
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Chrispy]
+- [Harri L](https://github.com/a1sop0s)
+- [Siim Sink] (https://github.com/sinkkkk)
 - [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
 - [Monisha Jegadesan](github.com/monisha-jega)
@@ -997,6 +1000,7 @@ sylucck
 - [Sean Song](https://github.com/SeanSong25)
 - [Sawa](https://github.com/SawaTszm)
 -Omar Maslamani
+- [asko1](https://github.com/asko1/)
 -Chidiogo Onoh
 Jawadur
 - VastoLordePy
@@ -4410,6 +4414,7 @@ Himanshu Dedha
 - [Daekun](https://github.com/daekun0920)
 - [Germain](https://github.com/Germain-n)
 - [joshKesler](https://github.com/jkesle)
+- [NeptuneN](https://github.com/NeptuneN)
 - [LFBianchi](https://github.com/LFBianchi)
 - [CarloC](https://github.com/carlocardona)
 - [z3b1](https://github.com/z3b1K)
@@ -4744,6 +4749,7 @@ Himanshu Dedha
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak](https://github.com/UD11)
 - [MdSaib](https://github.com/MdSaib)
+- [Kuldar Kaasik](https://github.com/Kuldz)
 - [Aditya Tapshalkar](https://github.com/adityataps)
 - [Amir Lampel](https://github.com/amirlampel)
 - [Guilherme do C. Costa](https://github.com/Guiilhermecosta)
@@ -5720,3 +5726,6 @@ Michael Wong
 - [Mavericks Balitaan] (https://github.com/mavericks-db)
 - [DJKal11] (https://github.com/DJkal11)
 - [Andres](https://github.com/AndresTPT)
+- [Jan K.] (https://github.com/Jns234)
+- [Martin M.] (https://github.com/martinmakejev)
+
