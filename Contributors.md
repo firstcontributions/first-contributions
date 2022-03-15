@@ -91,6 +91,7 @@
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
 - [Kevin Rad](https://github.com/radeau)
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
+- [RaitBoach](https://github.com/RaitBoach)
 - [Ajith D]
 - [AL]
 - [Harry Johnson](https://github.com/Hjohnson7)
