@@ -5738,3 +5738,4 @@ Michael Wong
 - [DJKal11] (https://github.com/DJkal11)
 - [Jan K.] (https://github.com/Jns234)
 - [Martin M.] (https://github.com/martinmakejev)
+- [Balazs Kepli] (https://github.com/keplib)
