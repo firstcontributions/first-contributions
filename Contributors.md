@@ -4744,6 +4744,7 @@ Himanshu Dedha
 - [Isaiah Bell](https://github.com/Isaiah-B)
 - [Uddalak](https://github.com/UD11)
 - [MdSaib](https://github.com/MdSaib)
+- [Kuldar Kaasik](https://github.com/Kuldz)
 - [Aditya Tapshalkar](https://github.com/adityataps)
 - [Amir Lampel](https://github.com/amirlampel)
 - [Guilherme do C. Costa](https://github.com/Guiilhermecosta)
