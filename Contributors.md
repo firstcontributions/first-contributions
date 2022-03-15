@@ -1876,6 +1876,7 @@ yejashi
 - [alif angga](https://github.com/playmakermz)
 - [Ibrahim Shittu](https://github.com/Dbest2018)
 - [Tom Broager](https://github.com/TomBroager)
+- [Bala Ks] (https://github.com/Bala417)
 - [Hmue Thiha Naung](https://github.com/Hmue-gif)
 - [Aadil Khalifa](https://github.com/aadilkhalifa)
 - [Sonal Varshney](https://github.com/sonalvrshny)
