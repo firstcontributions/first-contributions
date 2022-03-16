@@ -208,9 +208,9 @@ git push origin <add-your-branch-name>
       <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
     </tr>
     <tr>
-      <th><a href="../gitkraken-tutorial.md">GitKraken</a></th>
-      <th><a href="../github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
-      <th><a href="../github-desktop-tutorial.md">GitHub Desktop</a></th>
+      <th><a href="../gui-tool-tutorials/gitkraken-tutorial.md">GitKraken</a></th>
+      <th><a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
+      <th><a href="../gui-tool-tutorials/github-desktop-tutorial.md">GitHub Desktop</a></th>
     </tr>
   </table>
 </div>
