@@ -13,6 +13,7 @@
 - [Soyas Limbu](https://github.com/soyas07)
 - [Yasharjs](https://github.com/yasharjs)
 - [Akshat Sharma](github.com/akshatcoder-hash)
+- [Eric Yarger](https://github.com/eyarger)
 - [Diko](https://github.com/Ihtiandiko03)
 - [Palmese Davide Mattia] (https://github.com/PalmeseDavideMattia)
 - [Vincent Limo](https://github.com/v-limo)
