@@ -20,7 +20,6 @@
 - Peter Galvan
 - Mohammad Murtaza
 - prince singh
-- prince singh
 - [Chayson Spigarelli] (https://github.com/chasespigarelli21)
 - [Jingjing] (https://github.com/jingjing714)
 - [Miles Brown] (https://github.com/Qweezl)
