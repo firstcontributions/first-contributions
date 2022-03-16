@@ -21,6 +21,7 @@
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Chrispy]
+- [Couches] (https://github.com/Couches)
 - [Sten P] (https://github.com/Sphvy)
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
