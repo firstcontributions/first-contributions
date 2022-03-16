@@ -2658,6 +2658,7 @@ Himanshu Dedha
 - [Armaan Kafaipour](https://github.com/ArmaanKafaipour)
 - [Shrinath](https://github.com/ShrinathNR)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
+- [George Kakavas](https://github.com/george-kakavas)
 - [Gerard Gandionco](https://github.com/Vaiterius)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
 - [Amrin](https://github.com/Coderamrin)
