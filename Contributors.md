@@ -10,6 +10,10 @@
 - Tomiwa
 - danitachi
 - Tony
+- Tomiwa
+- danitachi
+- Tony
+- [Augusto](https://github.com/augustoibarrola)
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [ansari-daish](https://github.com/ansari-danish)
@@ -19,6 +23,8 @@
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
+- Sumanth P
+- [Tom Gooding](https://github.com/TomJGooding)
 - Sumanth P
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - A Friedman
@@ -37,6 +43,7 @@
   [Seethin] (https://github.com/Seethin)
 - [Couches] (https://github.com/Couches)
 - [Sten P] (https://github.com/Sphvy)
+- [Raghu Kokku]
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink](https://github.com/sinkkkk)
@@ -670,6 +677,7 @@
 - [Joshua McElroy](https://github.com/tkdevil)
 - [Bladimir Hernandez](https://github.com/blaherrod)
 - Jeya Iyadurai
+-[Justin Marley](https://github.com/Gspuk-Git)
 - [Harshit Gupta](https://github.com/hgupta12)
 - [Hugo Bouderlique](https://github.com/HugoBde)
 - [Okey Ezeobele](https://github.com/OkeyEzeobele)
@@ -1347,6 +1355,7 @@
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
+- [Kevin Grow] (https://github.com/kdgrow)
 - Ashish Choudhary
 - [Simon Prato](https://github.com/SimonPrato11)
 - Julius
