@@ -5759,3 +5759,4 @@ Michael Wong
 - [prayogaea01] (https://github.com/prayogaea01)
 - [rorooooooo] (https://github.com/rorooooooo)
 - [asherhe](https://github.com/asherhe)
+- [rorima](https://github.com/rorima)
