@@ -32,6 +32,7 @@
 - [Siim Sink] (https://github.com/sinkkkk)
 - [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
+- [Vim]
 - [Monisha Jegadesan](github.com/monisha-jega)
 - [Akshat Sharma](github.com/akshatcoder-hash)
 - [Eric Yarger](https://github.com/eyarger)
