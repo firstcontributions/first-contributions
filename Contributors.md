@@ -3,9 +3,13 @@
 <!-- prettier-ignore-start -->
 
 - [Yaynshet Medhin](https://github.com/yayner2002)
+- [Shashank](https://github.com/shashankurs)
 - [Akhila Krishna K](https://github.com/akhila1729)
 - [Luan Nutels](https://github.com/luannutels)
 - danitachi
+- Tomiwa
+- danitachi
+- Tony
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [ansari-daish](https://github.com/ansari-danish)
@@ -28,6 +32,11 @@
 - Chrispy
 - [Couches](https://github.com/Couches)
 - [Sten P](https://github.com/Sphvy)
+- Imraan Pattan
+- Chrispy
+  [Seethin] (https://github.com/Seethin)
+- [Couches] (https://github.com/Couches)
+- [Sten P] (https://github.com/Sphvy)
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink](https://github.com/sinkkkk)
@@ -177,6 +186,13 @@
 - [Dhineshkumar R](https://github.com/dk017)
 - [Mohammed Thayyib](https://github.com/beingconscious)
 - [Daniel B.](https://github.com/Danvs60)
+- Samia Alghamdi
+- [Phillip N.] (https://github.com/phuclinh9802)
+- [Luz Jimenez Vela] (https://github.com/luzloujv)
+- [Emmanuel Alao] (https://github.com/omogidi)
+- [Dhineshkumar R] (https://github.com/dk017)
+- [Mohammed Thayyib] (https://github.com/beingconscious)
+- [Daniel B.]  (https://github.com/Danvs60)
 - Samia Alghamdi
 - [Adam Pudliner](https://github.com/adampudliner)
 - [Shoeb Meti](https://github.com/Mystogan2000)
@@ -774,6 +790,8 @@
 - [Ayush Pathak](https://github.com/AyushPathak3011)
 - [John babu](https://github.com/johnbabu021)
 - [SeokJoon](https://github.com/eshc123)
+- [Nicole Sylvester](https://github.com/nicolesylvester)
+- [Orange Ng](https://github.com/OrangeNg)
 - [Nicole Sylvester](https://github.com/nicolesylvester)
 - [FuseIsHere](https://github.com/fuseishere813)
 - [AnikethPaul](https://github.com/anipaul2)
