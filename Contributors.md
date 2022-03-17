@@ -4,6 +4,7 @@
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Akhila Krishna K](https://github.com/akhila1729)
 - [Luan Nutels](https://github.com/luannutels)
+- [danitachi]
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [ansari-daish](https://github.com/ansari-danish)
