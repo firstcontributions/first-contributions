@@ -17,6 +17,7 @@
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
 - [Ingela]
+- [Himansh] (https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
 - [Nox](github.com/NoxF7)
 - [Ye Pyae Aung](github.com/YePyaeAung)
