@@ -5699,6 +5699,7 @@ Michael Wong
 - [Josh Fisher] (https://github.com/mrjoshfisher)
 - [Varunika Gupta](https://github.com/varunika91)
 - [Andrew Mroczkowski] (https://github.com/amroczk4)
+- [Janella Mina] (https://github.com/MinaJanella)
 - [Marko](https://github.com/mmilivoj)
 - [Manish Sonthalia](https://github.com/manishsonthalia)
 - [Gerva Monsalve](https://github.com/Germonsalve)
