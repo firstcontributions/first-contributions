@@ -1335,6 +1335,7 @@ Nathan Hill
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
+- [Kevin Grow] (https://github.com/kdgrow)
 - Ashish Choudhary
 - [Simon Prato] (https://github.com/SimonPrato11)
 - Julius
