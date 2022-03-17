@@ -776,6 +776,7 @@ Zack Bryant
 - [Ayush Pathak](https://github.com/AyushPathak3011)
 - [John babu](https://github.com/johnbabu021)
 - [SeokJoon](https://github.com/eshc123)
+- [Orange Ng](https://github.com/OrangeNg)
 - [Nicole Sylvester] (https://github.com/nicolesylvester)
 - [FuseIsHere](https://github.com/fuseishere813)
 [AnikethPaul](https://github.com/anipaul2)
