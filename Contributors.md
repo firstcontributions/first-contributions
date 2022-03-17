@@ -7,6 +7,7 @@
 - [Luan Nutels](https://github.com/luannutels)
 - [Tomiwa]
 - [danitachi]
+- [Tony]
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [ansari-daish](https://github.com/ansari-danish)
