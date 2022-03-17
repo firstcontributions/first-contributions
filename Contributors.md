@@ -16,7 +16,6 @@
 - [Ben Mead](github.com/bmead221)
 - [Tom Gooding](https://github.com/TomJGooding)
 - [Sumanth P]
-- []
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
 - [Ingela]
