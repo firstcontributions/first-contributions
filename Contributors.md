@@ -152,6 +152,7 @@
 - [Quauhtli Garcia] (https://github.com/qgarcia95)
 - [Tara Rosenthal] (https://github.com/tararosenthal)
 - [Joanne Santos] (https://github.com/joannemvsantos)
+- [Delfhub] (https://github.com/delfhub)
 - [Denver] (https://github.com/vir0za)
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Ankush Banik](https://github.com/Ankush263)
