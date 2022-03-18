@@ -24,6 +24,7 @@
 - [Sumanth P]
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
+- [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
 - [Himansh] (https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
