@@ -1383,7 +1383,6 @@ Nathan Hill
 - [Anthony Khoury](https://github.com/anthony14khoury)
 Ajith
 - [albinary10] (https://github.com/albinary10)
-- [Raymond Tsang] (https://github.com/bakmei)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Luiz Junior](https://github.com/LuizAPJunior)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
@@ -5775,4 +5774,3 @@ Michael Wong
 - [rorima](https://github.com/rorima)
 
 <!-- prettier-ignore-end -->
->>>>>>> master
