@@ -14,6 +14,7 @@
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [Sai Krishna Nerella](https://github.com/nsaikrishna94)
+- [Luigi Altamura](https://github.com/LuigiAltamura)
 - [ansari-daish](https://github.com/ansari-danish)
 - [Owar1](https://github.com/Owar1)
 - [Deglier Amorim](github.com/deglier)
