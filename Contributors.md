@@ -6,6 +6,7 @@
 - [Shashank](https://github.com/shashankurs)
 - [Akhila Krishna K](https://github.com/akhila1729)
 - [Luan Nutels](https://github.com/luannutels)
+- [BL7Awy](https://github.com/goar5670)
 - [Tomiwa]
 - [danitachi]
 - [Tony]
