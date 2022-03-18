@@ -50,6 +50,7 @@
 - [Till](https://github.com/till-t)
 - [Vim]
 - [Monisha Jegadesan](github.com/monisha-jega)
+- [David SY] (https://github.com/DavidSyrup)
 - [Akshat Sharma](github.com/akshatcoder-hash)
 - [Eric Yarger](https://github.com/eyarger)
 - [Diko](https://github.com/Ihtiandiko03)
