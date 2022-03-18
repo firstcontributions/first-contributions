@@ -2066,6 +2066,7 @@
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
 - [Christian Melendez](https://github.com/christianhxc)
 - [Chethan Krishnamurthy](https://github.com/Chetank003)
+- [Chris Jones](https://github.com/chrisjonesdesign85)
 - [Alex Tray](https://github.com/AlexTRay)
 - [Xavier Walton](https://github.com/breezy-bodega)
 - William G.
