@@ -9,6 +9,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [Tomiwa]
 - [danitachi]
+- [Akshata Naik]
 - [Tony]
 - [Augusto](https://github.com/augustoibarrola)
 - [Rong Xiang](https://github.com/zjrongxiang)
