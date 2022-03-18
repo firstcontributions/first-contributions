@@ -1065,6 +1065,7 @@ Jawadur
 - [Mattia Giane](https://github.com/fiordiconio)
 - [Syahirah Azahri] (https://github.com/syhrah99/)
 - [Brian N. Smith](https://github.com/nuonce)
+- [Adam Gaffney](https://github.com/AdamGaffney96)
 - Harsha Vardhan(thunder07)
 - [Adeboye 'Boye' Folaranmi](https://github.com/Boye95)
 - [Driss SQALLI HOUSSAINI] (https://github.com/dsqalli)
