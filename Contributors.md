@@ -11,6 +11,7 @@
 - [danitachi]
 - [Akshata Naik]
 - [Tony]
+- [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
