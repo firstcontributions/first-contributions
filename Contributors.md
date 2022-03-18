@@ -40,9 +40,9 @@
 - [Sten P](https://github.com/Sphvy)
 - Imraan Pattan
 - Chrispy
-  [Seethin] (https://github.com/Seethin)
-- [Couches] (https://github.com/Couches)
-- [Sten P] (https://github.com/Sphvy)
+  [Seethin](https://github.com/Seethin)
+- [Couches](https://github.com/Couches)
+- [Sten P](https://github.com/Sphvy)
 - [Raghu Kokku]
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
@@ -163,6 +163,12 @@
 - [Tara Rosenthal](https://github.com/tararosenthal)
 - [Joanne Santos](https://github.com/joannemvsantos)
 - [Denver](https://github.com/vir0za)
+- DrowningSelf
+- [Quauhtli Garcia](https://github.com/qgarcia95)
+- [Tara Rosenthal](https://github.com/tararosenthal)
+- [Joanne Santos](https://github.com/joannemvsantos)
+- [Delfhub](https://github.com/delfhub)
+- [Denver](https://github.com/vir0za)
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Ankush Banik](https://github.com/Ankush263)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
@@ -194,12 +200,12 @@
 - [Mohammed Thayyib](https://github.com/beingconscious)
 - [Daniel B.](https://github.com/Danvs60)
 - Samia Alghamdi
-- [Phillip N.] (https://github.com/phuclinh9802)
-- [Luz Jimenez Vela] (https://github.com/luzloujv)
-- [Emmanuel Alao] (https://github.com/omogidi)
-- [Dhineshkumar R] (https://github.com/dk017)
-- [Mohammed Thayyib] (https://github.com/beingconscious)
-- [Daniel B.]  (https://github.com/Danvs60)
+- [Phillip N.](https://github.com/phuclinh9802)
+- [Luz Jimenez Vela](https://github.com/luzloujv)
+- [Emmanuel Alao](https://github.com/omogidi)
+- [Dhineshkumar R](https://github.com/dk017)
+- [Mohammed Thayyib](https://github.com/beingconscious)
+- [Daniel B.](https://github.com/Danvs60)
 - Samia Alghamdi
 - [Adam Pudliner](https://github.com/adampudliner)
 - [Shoeb Meti](https://github.com/Mystogan2000)
@@ -281,7 +287,7 @@
 - [David Sampimon](https://github.com/davidsampimon/)
 - [Priyank Harjilawala](https://github.com/Priyank1712)
 - [Anil Kumar](https://github.com/anil10032)
-- [Vamsi Vemur] https://github.com/ramv2014
+- [Vamsi Vemur](https://github.com/ramv2014)
 - [Ayden Kauffman](https://github.com/AKauffy)
 - [Neevan](https://github.com/neevan01)
 - [Saurabh](https://github.com/saurabh1046)
@@ -325,7 +331,7 @@
 - [Khova Krishna Pilato](https://github.com/krishnaPj)
 - Pratham Pancholi
 - [Jose Santiago](https://github.com/JDSanti)
-- [Kudzai Dube] https://github.com/kudzidube7
+- [Kudzai Dube](https://github.com/kudzidube7)
 - [Ricardo Torres](https://github.com/RicardoTorres2022)
 - [Anna Wojdylo](https://github.com/Noi5/)
 - [Hein Khant](https://github.com/HeinKhant14)
@@ -1355,7 +1361,7 @@
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
-- [Kevin Grow] (https://github.com/kdgrow)
+- [Kevin Grow](https://github.com/kdgrow)
 - Ashish Choudhary
 - [Simon Prato](https://github.com/SimonPrato11)
 - Julius
