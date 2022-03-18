@@ -1,19 +1,21 @@
 ﻿# **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
 - [Akhila Krishna K](https://github.com/akhila1729)
 - [Luan Nutels](https://github.com/luannutels)
+- [BL7Awy](https://github.com/goar5670)
 - [Tomiwa]
 - [danitachi]
 - [Tony]
+- [Augusto](https://github.com/augustoibarrola)
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [ansari-daish](https://github.com/ansari-danish)
 - [Owar1](https://github.com/Owar1)
 - [Deglier Amorim](github.com/deglier)
+- [lougau92](https://github.com/lougau92)
 - [Laurie H](https://github.com/coderlore)
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
@@ -22,6 +24,7 @@
 - [Sumanth P]
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [A Friedman]
+- [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
 - [Himansh] (https://github.com/Himuu14)
 - [Jose Latines](https://github.com/joselatines)
@@ -34,6 +37,7 @@
 - [Couches] (https://github.com/Couches)
 - [Sten P] (https://github.com/Sphvy)
 - [Raghu Kokku]
+- [William Long] (https://github.com/wlong0477)
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink] (https://github.com/sinkkkk)
@@ -75,8 +79,6 @@
 - [Marek Sliwinski](https://github.com/Maarkhu)
 - [Scott Burton](https://github.com/klrqn)
 - [Jessica Hamilton](https://github.com/jessicant)
-- [Kamil Yousuf](https://github.com/tyiop794) -[M.N.S.R.NITHIN]
-  -Mili -[Aayush Yadav] (https://github.com/aayush-y)
 - [KSYW] (https://https://github.com/KhantSu)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
 - [Amay Jain](https://github.com/vrindavan)
@@ -147,6 +149,7 @@
 - [Quauhtli Garcia] (https://github.com/qgarcia95)
 - [Tara Rosenthal] (https://github.com/tararosenthal)
 - [Joanne Santos] (https://github.com/joannemvsantos)
+- [Delfhub] (https://github.com/delfhub)
 - [Denver] (https://github.com/vir0za)
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Ankush Banik](https://github.com/Ankush263)
@@ -1167,6 +1170,7 @@
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
+- [Kevin Grow] (https://github.com/kdgrow)
 - Ashish Choudhary
 - [Simon Prato] (https://github.com/SimonPrato11)
 - Julius
@@ -1964,6 +1968,7 @@
 - [Ganache99](https://github.com/Ganache99)
 - [chinmay29hub](https://github.com/chinmay29hub)
 - [Daniel C](https://github.com/dnzc)
+- [Hier Gabion III](https://github.com/hiergabion03)
 - [Agaramudhala](https://github.com/agaramudhala)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [Ujjwal Pandey] (https://github.com/Ryednap/first-contributions)
