@@ -14,6 +14,7 @@
 - [ansari-daish](https://github.com/ansari-danish)
 - [Owar1](https://github.com/Owar1)
 - [Deglier Amorim](github.com/deglier)
+- [lougau92](https://github.com/lougau92)
 - [Laurie H](https://github.com/coderlore)
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
