@@ -5782,5 +5782,4 @@ Michael Wong
 - [rorooooooo] (https://github.com/rorooooooo)
 - [asherhe](https://github.com/asherhe)
 - [rorima](https://github.com/rorima)
-
-<!-- prettier-ignore-end -->
+- - [Thomas Pham](https://github.com/phvmous)
