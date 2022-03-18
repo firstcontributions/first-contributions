@@ -2143,6 +2143,7 @@ yejashi
 - [Ganache99](https://github.com/Ganache99)
 - [chinmay29hub](https://github.com/chinmay29hub)
 - [Daniel C](https://github.com/dnzc)
+- [Hier Gabion III](https://github.com/hiergabion03)
 - [Agaramudhala](https://github.com/agaramudhala)
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [Ujjwal Pandey] (https://github.com/Ryednap/first-contributions)
