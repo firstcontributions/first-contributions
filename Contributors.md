@@ -16,6 +16,7 @@
 - [Imraan Pattan]
 - [Yasharjs](https://github.com/yasharjs)
 - [Monisha Jegadesan](github.com/monisha-jega)
+- [David SY] (https://github.com/DavidSyrup)
 - [Akshat Sharma](github.com/akshatcoder-hash)
 - [Diko](https://github.com/Ihtiandiko03)
 - [Palmese Davide Mattia] (https://github.com/PalmeseDavideMattia)
