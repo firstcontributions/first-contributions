@@ -1,6 +1,7 @@
-﻿
-# **Contributors**
+﻿# **Contributors**
+
 <!-- prettier-ignore-start -->
+- [Cody Liske](https://github.com/cliske94)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
