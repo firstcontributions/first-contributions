@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [skionide](https://github.com/Skye967)
 - [ZigRazor](https://github.com/ZigRazor)
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
