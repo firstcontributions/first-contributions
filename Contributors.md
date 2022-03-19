@@ -5798,5 +5798,5 @@ Michael Wong
 - [SilverAlpaca](https://github.com/SilverAlpaca)
 Duncan Ledesma
 - [Levent Sarıoğlu](https://github.com/leventsoft)
-
+- [Brady](https://github.com/TeleBrady)
 <!-- prettier-ignore-end -->
