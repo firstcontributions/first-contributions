@@ -16,6 +16,7 @@
 - [Tony]
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
+- [Hüseyin Şen Kaya](https://github.com/huseyinsenkaya)
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [Sai Krishna Nerella](https://github.com/nsaikrishna94)
