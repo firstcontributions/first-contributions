@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
+- [Shiwam Tiwari](https://github.com/shiwam-C114/)
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [ZigRazor](https://github.com/ZigRazor)
@@ -43,11 +44,11 @@
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Chrispy]
-  [Seethin] (https://github.com/Seethin)
-- [Couches] (https://github.com/Couches)
-- [Sten P] (https://github.com/Sphvy)
+  [Seethin](https://github.com/Seethin)
+- [Couches](https://github.com/Couches)
+- [Sten P](https://github.com/Sphvy)
 - [Raghu Kokku]
-- [William Long] (https://github.com/wlong0477)
+- [William Long](https://github.com/wlong0477)
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink] (https://github.com/sinkkkk)
