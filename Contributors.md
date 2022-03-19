@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [skionide](https://github.com/Skye967)
+- [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [ZigRazor](https://github.com/ZigRazor)
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
