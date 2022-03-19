@@ -24,6 +24,7 @@
 - [Deglier Amorim](github.com/deglier)
 - [lougau92](https://github.com/lougau92)
 - [Laurie H](https://github.com/coderlore)
+- [Elijah Raji](https://github.com/photon-e)
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
