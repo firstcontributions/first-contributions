@@ -5787,5 +5787,6 @@ Michael Wong
 - [asherhe](https://github.com/asherhe)
 - [rorima](https://github.com/rorima)
 - [SilverAlpaca](https://github.com/SilverAlpaca)
+Duncan Ledesma
 
 <!-- prettier-ignore-end -->
