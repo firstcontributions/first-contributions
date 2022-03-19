@@ -5594,6 +5594,7 @@ Michael Wong
 - [Akash Kapoor](https://github.com/akashkapoor1985/)
 - [Luis Fernando Novaes](https://github.com/lfmnovaes)
 - [George Rauta](https://github.com/GeorgeR227)
+- [Tharindu Dhanushka](https://github.com/dhanushka1999)
 - [Saumya](https://twitter.com/saumya1singh)
 - [Jaron Bauers](https://github.com/jaron-bauers)
 - [purplemicah](https://github.com/purplemicah)
