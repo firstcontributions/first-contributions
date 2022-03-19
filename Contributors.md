@@ -1,5 +1,5 @@
-﻿
-# **Contributors**
+﻿# **Contributors**
+
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [skionide](https://github.com/Skye967)
@@ -125,6 +125,7 @@
 - [Victor](https://github.com/victor0x16)
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
+- [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Kevin Rad](https://github.com/radeau)
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
 - [RaitBoach](https://github.com/RaitBoach)
