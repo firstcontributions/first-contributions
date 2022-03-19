@@ -1,5 +1,5 @@
-﻿
-# **Contributors**
+﻿# **Contributors**
+
 <!-- prettier-ignore-start -->
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
@@ -240,6 +240,7 @@
 - [Keshava kommaraju](https://github.com/k3shav17)
 - [Rodrigo Viano](https://github.com/rviano96/rviano96/)
 - [Snapre](https://github.com/snapre)
+- [Ninad Sutrave](https://github.com/NinadSutrave)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Molly Vanessa] (https://github.com/molly460)
