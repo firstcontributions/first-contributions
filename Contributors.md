@@ -90,6 +90,7 @@
 - [Catalin Siegling](https://github.com/Ant-Acid)
 - [Marek Sliwinski](https://github.com/Maarkhu)
 - [Scott Burton](https://github.com/klrqn)
+- [NoisypinkBubble](https://github.com/NoisyPinkBubble)
 - [Jessica Hamilton](https://github.com/jessicant)
 - [Kamil Yousuf](https://github.com/tyiop794)
 -[M.N.S.R.NITHIN]
