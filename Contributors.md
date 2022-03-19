@@ -2,6 +2,8 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
+
+- [Jasmine Shaikh](https://github.com/Jasmine-Shaikh)
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [ZigRazor](https://github.com/ZigRazor)
