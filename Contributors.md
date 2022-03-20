@@ -12,6 +12,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+- [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
 - [Akshata Naik]
 - [Tony]
