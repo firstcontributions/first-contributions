@@ -1,5 +1,5 @@
-﻿
-# **Contributors**
+﻿# **Contributors**
+
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [skionide](https://github.com/Skye967)
@@ -11,6 +11,7 @@
 - [Luan Nutels](https://github.com/luannutels)
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
+- [shanas](https://github.com/mrshanas)
 - [Tomiwa]
 - [danitachi]
 - [Akshata Naik]
