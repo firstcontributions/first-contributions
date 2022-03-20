@@ -1,5 +1,5 @@
-﻿
-# **Contributors**
+﻿# **Contributors**
+
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [skionide](https://github.com/Skye967)
@@ -24,6 +24,7 @@
 - [Luigi Altamura](https://github.com/LuigiAltamura)
 - [ansari-daish](https://github.com/ansari-danish)
 - [Owar1](https://github.com/Owar1)
+- [Preet Sojitra](https://github.com/Preet-Sojitra)
 - [Deglier Amorim](github.com/deglier)
 - [lougau92](https://github.com/lougau92)
 - [Laurie H](https://github.com/coderlore)
