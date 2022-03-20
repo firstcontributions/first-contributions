@@ -5814,5 +5814,5 @@ Duncan Ledesma
 - [Levent Sarıoğlu](https://github.com/leventsoft)
 - [Bamboudorer](https://github.com/Bamboudorer)
 - [NelsonFSP] (https://github.com/NelsonFSP)
-
+- [Brey Rivera] (https://github.com/BreyRivera2021)
 <!-- prettier-ignore-end -->
