@@ -144,6 +144,7 @@
 - [cugab gaming]
 - [Sifang Shan](https://github.com/ivoryssf)
 - [hamzah-sajid-code](https://github.com/hamzah-sajid-code)
+- [Mihir Raj](https://github.com/MihirRajChowdhury)
 - [Pravin Mallya](https://github.com/mallyapravin)
 - [yuejiahz](https://github.com/yuejiahz)
 - [Emmanuel Ugwu](https://github.com/ugwutotheeshoes)
