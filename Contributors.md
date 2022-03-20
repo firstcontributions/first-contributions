@@ -142,6 +142,7 @@
 - [cugab gaming]
 - [Sifang Shan](https://github.com/ivoryssf)
 - [hamzah-sajid-code](https://github.com/hamzah-sajid-code)
+- [Pravin Mallya](https://github.com/mallyapravin)
 - [yuejiahz](https://github.com/yuejiahz)
 - [Emmanuel Ugwu](https://github.com/ugwutotheeshoes)
 - [Haafizz Ismail](https://github.com/haafizzismail)
