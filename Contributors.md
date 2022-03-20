@@ -147,6 +147,7 @@
 - [Winny Hu](https://github.com/huhuining)
 - [Arushi Agarwal](https://github.com/arushiagar)
 - [Manjit Pardeshi](https://github.com/Manjit2003)
+- [Alec Kapil Ramdhan](https://github.com/alec-kr)
 - [Bhargavi Chada](https://github.com/BhargaviChada)
 - [Harsh Chopra](https://github.com/Harsh62Chopra)
 - [Gunwoo Martin Ko](https://github.com/gunwooko)
