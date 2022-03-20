@@ -252,6 +252,7 @@
 - [Kaiden H] (https://github.com/dratsuC)
 - [Nokhalal Mahato] (https://github.com/nk412k)
 - [Veronica Yap]
+- [Melvyn Fontaine] (https://github.com/Nirsu)
 - [Bharat] (https://github.com/nicobreins)
 - [Satyam Kumar] (https://github.com/officSatyam)
 - [Stacy Chiok]
