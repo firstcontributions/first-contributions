@@ -1,5 +1,5 @@
-﻿
-# **Contributors**
+﻿# **Contributors**
+
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [skionide](https://github.com/Skye967)
@@ -5805,5 +5805,6 @@ Michael Wong
 - [SilverAlpaca](https://github.com/SilverAlpaca)
 Duncan Ledesma
 - [Levent Sarıoğlu](https://github.com/leventsoft)
+- [Zeyad Khaled Al Sakhi](https://github.com/zeyadalsakhi17)
 
 <!-- prettier-ignore-end -->
