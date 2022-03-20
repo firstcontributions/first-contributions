@@ -41,6 +41,7 @@
 - [Jose Latines](https://github.com/joselatines)
 - [Nox](github.com/NoxF7)
 - [Ye Pyae Aung](github.com/YePyaeAung)
+- [Icy Parkinson] (github.com/icyparkinson)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Chrispy]
