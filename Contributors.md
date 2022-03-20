@@ -195,6 +195,7 @@
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Blake Yeboah](https://github.com/Blake-K-Yeboah)
+- [PW] (https://gihub.com/pvwali)
 - [Raquel] (https://github.com/rakicodes)
 - [Izzy H.]
 - [Ben Janac](https://github.com/orobor0s/)
