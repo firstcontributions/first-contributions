@@ -355,6 +355,7 @@
 -[Starborne] (https://github.com/plasmawalrus)
 - Vijay Ponnavolu
 - [Abisai Arreguin](https://github.com/Abisai-Arreguin)
+- [Raymond Tsang](https://github.com/bakmei)
 - [Haytham Daoula] (https://github.com/DHaytham)
 - [Krishna MS Iyengar](https://github.com/krishna-ms-git)
 - [Sameer Mannava]()
