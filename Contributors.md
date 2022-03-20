@@ -5797,6 +5797,7 @@ Michael Wong
 - [rorooooooo] (https://github.com/rorooooooo)
 - [asherhe](https://github.com/asherhe)
 - [rorima](https://github.com/rorima)
+- [Shameekh Naveed](https://github.com/Shameekh-Naveed)
 - [SilverAlpaca](https://github.com/SilverAlpaca)
 Duncan Ledesma
 - [Levent Sarıoğlu](https://github.com/leventsoft)
