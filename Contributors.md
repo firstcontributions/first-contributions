@@ -5806,5 +5806,6 @@ Michael Wong
 - [SilverAlpaca](https://github.com/SilverAlpaca)
 Duncan Ledesma
 - [Levent Sarıoğlu](https://github.com/leventsoft)
+- [Bamboudorer](https://github.com/Bamboudorer)
 
 <!-- prettier-ignore-end -->
