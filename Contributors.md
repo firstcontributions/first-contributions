@@ -233,6 +233,7 @@
 - [Orinax Bulbaron] (https://github.com/Orinax)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Manisha Nair] (https://github.com/maneesha-28)
+- [Chinmay Pandya] (https://github.com/pandyacr)
 - [William Shepard] (https://github.com/NHGrizzly)
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Michelle Lam](https://github.com/mchellelm)
