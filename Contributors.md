@@ -158,6 +158,7 @@
 - [Pravin Mallya](https://github.com/mallyapravin)
 - [yuejiahz](https://github.com/yuejiahz)
 - [Emmanuel Ugwu](https://github.com/ugwutotheeshoes)
+- [Sameer Sahu](https://github.com/SameerSahu007)
 - [Haafizz Ismail](https://github.com/haafizzismail)
 - [code Nithin] (https://github.com/codenithin)
 - [Ben Kanku Barthelemy](https://github.com/VirgoCoachman)
