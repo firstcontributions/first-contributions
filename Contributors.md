@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Arun Pandey](https://github.com/EigenPandey)
+- [pastequeninja](https://github.com/pastequeninja)
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [ZigRazor](https://github.com/ZigRazor)
