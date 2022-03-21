@@ -18,6 +18,7 @@
 - [Tomiwa]
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
+- [McMoffin](https://github.com/mcMoffin)
 - [Akshata Naik]
 - [Bibek Chand](https://github.com/bibekchand)
 - [Tony]
