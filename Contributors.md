@@ -824,6 +824,7 @@ Zack Bryant
 [AnikethPaul](https://github.com/anipaul2)
 - [Emre](https://github.com/eayture)
 - [Valan Baptist Mathuranayagam](https://github.com/valanm22)
+- [Favour Nwachukwu] (https://github.com/favour33)
 - [Bazgha Razi](https://github.com/Bazgha19)
 - [James Walshe](https://github.com/jameswalshe)
 - [David Mestre](https://github.com/MestreD)
