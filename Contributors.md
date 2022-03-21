@@ -5491,6 +5491,7 @@ Michael Wong
 - [BaileyW](https://github.com/NerosJourney)
 - [Nidhi Verma](https://github.com/nidhi99verma)
 - [Lion] (https://github.com/TheLionDev)
+- [vitorramosferreira] (https://github.com/vitorramosferreira)
 - [zztaki](https://github.com/ZzTaki)
 - [kum9748ar](https://github.com/kum9748ar)
 - [adimatiwala](https://github.com/adimatiwala)
