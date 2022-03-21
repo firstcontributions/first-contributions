@@ -28,6 +28,7 @@
 - [Deglier Amorim](github.com/deglier)
 - [lougau92](https://github.com/lougau92)
 - [Laurie H](https://github.com/coderlore)
+- [Zohiab R](https://github.com/ZDON-Official)
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
