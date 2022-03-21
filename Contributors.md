@@ -15,6 +15,7 @@
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
 - [Akshata Naik]
+- [Bibek Chand](https://github.com/bibekchand)
 - [Tony]
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
