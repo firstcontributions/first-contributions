@@ -55,6 +55,7 @@
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Chrispy]
+- [Lee Lacey] (github.com/ll8464)
   [Seethin] (https://github.com/Seethin)
 - [Couches] (https://github.com/Couches)
 - [Sten P] (https://github.com/Sphvy)
