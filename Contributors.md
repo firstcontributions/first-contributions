@@ -5835,5 +5835,6 @@ Duncan Ledesma
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
 - [KlokMiraj](https://github.com/KlokMiraj)
+- [Keenan Kan](https://github.com/keenerz) 👋
 
 <!-- prettier-ignore-end -->
