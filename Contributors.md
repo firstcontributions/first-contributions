@@ -21,6 +21,7 @@
 - [Tomiwa]
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
+- [skyskyha] (https://github.com/skyskyha)
 - [McMoffin](https://github.com/mcMoffin)
 - [Akshata Naik]
 - [Bibek Chand](https://github.com/bibekchand)
