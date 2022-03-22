@@ -5842,6 +5842,7 @@ Duncan Ledesma
 - [Rima Haldar] (https://github.com/Rima-Haldar)
 - [Levent Sarıoğlu](https://github.com/leventsoft)
 - [Bamboudorer](https://github.com/Bamboudorer)
+- [kramoos] (https://github.com/kramoos)
 - [NelsonFSP] (https://github.com/NelsonFSP)
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
