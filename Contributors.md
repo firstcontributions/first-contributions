@@ -43,6 +43,7 @@
 - [Tom Gooding](https://github.com/TomJGooding)
 - [Sumanth P]
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
+- [Niranjan Nlc ](https://github.com/NiranjanNlc)
 - [A Friedman]
 - [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
