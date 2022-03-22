@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
+- [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Arun Pandey](https://github.com/EigenPandey)
 - [pastequeninja](https://github.com/pastequeninja)
 - [Texas Tangler](https://github.com/Texas-Tangler)
