@@ -46,23 +46,24 @@
 - [A Friedman]
 - [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
-- [Himansh] (https://github.com/Himuu14) 
+- [Himansh](https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
-- [Liam] (https://github.com/LiamGlenn)
+- [Liam](https://github.com/LiamGlenn)
 - [Nox](github.com/NoxF7)
 - [Ye Pyae Aung](github.com/YePyaeAung)
-- [Icy Parkinson] (github.com/icyparkinson)
+- [Icy Parkinson](github.com/icyparkinson)
 - [Soyas Limbu](https://github.com/soyas07)
+- [JV/plsticclove](https://github.com/plsticclove)
 - [Imraan Pattan]
 - [Chrispy]
-  [Seethin] (https://github.com/Seethin)
-- [Couches] (https://github.com/Couches)
-- [Sten P] (https://github.com/Sphvy)
+  [Seethin](https://github.com/Seethin)
+- [Couches](https://github.com/Couches)
+- [Sten P](https://github.com/Sphvy)
 - [Raghu Kokku]
-- [William Long] (https://github.com/wlong0477)
+- [William Long](https://github.com/wlong0477)
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
-- [Siim Sink] (https://github.com/sinkkkk)
+- [Siim Sink](https://github.com/sinkkkk)
 - [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
 - [Vim]
