@@ -3369,6 +3369,7 @@ Himanshu Dedha
 - [Samyak Jain! :](https://github.com/samyak1409/)
 - [Njoguu](https://github.com/Njoguu)
 - [Sai Krishnan](https://github.com/SaiKrishnan101)
+- [Jeuri Morel](https://github.com/JeuriMorel)
 - [Quado1](https://github.com/Quado1)
 - [Benjamin Siau](https://github.com/bensiauu)
 - [sereno](https://github.com/sereno1987)
