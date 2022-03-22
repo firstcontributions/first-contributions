@@ -3448,6 +3448,7 @@ Himanshu Dedha
 - [Akoopie](https://github.com/Akoopie)
 - [JenE](https://github.com/yeahokthen)
 - [mmg13](https://github.com/mmg13)
+- [Dominic Romano](https://github.com/domrom123)
 - [Avinash Karn](https://github.com/Avikarn)
 - [Fahad Alharbi](https://github.com/Fahadeidalharbi)
 - [Fahad Imrann](https://github.com/DodiAlba)
