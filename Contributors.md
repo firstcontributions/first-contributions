@@ -5837,6 +5837,7 @@ Michael Wong
 - [Shameekh Naveed](https://github.com/Shameekh-Naveed)
 - [SilverAlpaca](https://github.com/SilverAlpaca)
 Duncan Ledesma
+- [Rima Haldar] (https://github.com/Rima-Haldar)
 - [Levent Sarıoğlu](https://github.com/leventsoft)
 - [Bamboudorer](https://github.com/Bamboudorer)
 - [NelsonFSP] (https://github.com/NelsonFSP)
