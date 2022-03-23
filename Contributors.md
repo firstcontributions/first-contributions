@@ -64,6 +64,7 @@
 - [Icy Parkinson] (github.com/icyparkinson)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
+- [Pavan](https://github.com/pavan2108)
 - [Chrispy]
 - [Lee Lacey] (github.com/ll8464)
   [Seethin] (https://github.com/Seethin)
