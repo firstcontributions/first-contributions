@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
+- [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
