@@ -1976,6 +1976,7 @@ yejashi
 - [Ian Wagner](https://github.com/ian-wag)
 - [Gabriel Abubakar](https://github.com/GabrielAbubakar)
 - [Cody Therrien](https://github.com/codytherrien)
+- [Cody Phillips](https://github.com/Braumski)
 - [Favour James](https://github.com/Favourj-bit)
 - [Jacky_Cutler](https://github.com/VancouverJohn)
 - [Webhead3893] (https://github.com/webhead3893)
