@@ -695,6 +695,7 @@ itay-guter
 -[Ean Lockwood](https://github.com/eanlockwood)
 -[Jesse Springborn](https://github.com/jlspringborn)
 -[Khang Vinh Pham](https://github.com/vkhangpham)
+-[lffx](https://github.com/lffx)
 -[Rajat Kumar](https://github.com/rajat844)
 -[Elijah Galahad](https://guthub.com/EGalahad)
 -[Shaocong Shi](https://github.com/scsbkhunt)
