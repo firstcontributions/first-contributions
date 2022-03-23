@@ -505,6 +505,7 @@
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
 - [Jason Kluge] (https://github.com/kehngid)
 - [Robert-Loera](https://github.com/robert-loera)
+- [Kalman Labinsky](https://github.com/kalmanl)
 - [Tamir Kiviti](https://github.com/tamirkiviti)
 - [Onur Bora Akman](https://github.com/onurborakman)
 - [Willy Trigg](https://github.com/williamgtrigg)
