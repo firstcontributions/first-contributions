@@ -1,7 +1,11 @@
-﻿# **Contributors**
+# **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
+- [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
+- [Nika Nabakhteveli](https://github.com/nNabakhteveli)
+- [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Arun Pandey](https://github.com/EigenPandey)
 - [pastequeninja](https://github.com/pastequeninja)
 - [Texas Tangler](https://github.com/Texas-Tangler)
@@ -18,10 +22,13 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+- [Sheikh Limon](https://github.com/sheikhlimon)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
+- [skyskyha] (https://github.com/skyskyha)
 - [McMoffin](https://github.com/mcMoffin)
 - [Akshata Naik]
+- [Akhil Kumar] (https://github.com/akhil9281)
 - [Bibek Chand](https://github.com/bibekchand)
 - [Tony]
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
@@ -693,6 +700,7 @@ itay-guter
 -[Ean Lockwood](https://github.com/eanlockwood)
 -[Jesse Springborn](https://github.com/jlspringborn)
 -[Khang Vinh Pham](https://github.com/vkhangpham)
+-[lffx](https://github.com/lffx)
 -[Rajat Kumar](https://github.com/rajat844)
 -[Elijah Galahad](https://guthub.com/EGalahad)
 -[Shaocong Shi](https://github.com/scsbkhunt)
@@ -3369,6 +3377,7 @@ Himanshu Dedha
 - [Samyak Jain! :](https://github.com/samyak1409/)
 - [Njoguu](https://github.com/Njoguu)
 - [Sai Krishnan](https://github.com/SaiKrishnan101)
+- [Jeuri Morel](https://github.com/JeuriMorel)
 - [Quado1](https://github.com/Quado1)
 - [Benjamin Siau](https://github.com/bensiauu)
 - [sereno](https://github.com/sereno1987)
@@ -3448,6 +3457,7 @@ Himanshu Dedha
 - [Akoopie](https://github.com/Akoopie)
 - [JenE](https://github.com/yeahokthen)
 - [mmg13](https://github.com/mmg13)
+- [Dominic Romano](https://github.com/domrom123)
 - [Avinash Karn](https://github.com/Avikarn)
 - [Fahad Alharbi](https://github.com/Fahadeidalharbi)
 - [Fahad Imrann](https://github.com/DodiAlba)
@@ -5704,6 +5714,8 @@ Michael Wong
 - [Creberus] (https://github.com/Creberus)
 - [Clément Despiney](https://github.com/cdespiney)
 - [Rahul Singh Karki]
+- [Stoyan Kostadinov](https://github.com/stoyanK7)
+- [Gideon](https://github.com/GideonLer)
 - [justartover](https://github.com/justartover1)
 - [Gordon Lin](https://github.com/gordonlin-dev)
 - [Alper Gungor](https://github.com/alpergng)
@@ -5719,7 +5731,7 @@ Michael Wong
 - [Jeet Chandwani] (https://github.com/jeet-chandwani)
 - [William G] (<https://github.com/MSFT>)
 - [Clotilde L] (https://github.com/Clotildelevou)
--[Nishchay] ()
+- [Nishchay] ()
 - [shubham wagh] (https://github.com/pro2501)
 - [Pedro de León](https://github.com/pedro-deleon)
 - [nilzyj](https://github.com/nilzyj)
@@ -5818,6 +5830,7 @@ Michael Wong
 - [MikeAraujo] (https://github.com/m1k34j0)
 - [Tina](https://github.com/Tina-otoge)
 - [NY] (https://github.com/nycan)
+- [Snork] (https://github.com/Snork-UK)
 - [b100dh0und] (https://github.com/b100dh0und)
 - [901grey] (https://github.com/901grey/)
 - [Sub0Zero1990] (https://github.com/Sub0Zero1990)
@@ -5837,9 +5850,14 @@ Michael Wong
 - [Levent Sarıoğlu](https://github.com/leventsoft)
 - [Bamboudorer](https://github.com/Bamboudorer)
 - [NelsonFSP](https://github.com/NelsonFSP)
+- [Rima Haldar] (https://github.com/Rima-Haldar)
+- [kramoos](https://github.com/kramoos)
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
 - [KlokMiraj](https://github.com/KlokMiraj)
+- [JJRoss](https://github.com/JJ-Ross)
 - [Keenan Kan](https://github.com/keenerz) 👋
+- [Viraj Shah](https://github.com/virajbshah)
+- [Selorm Lotsu](https://github.com/yaw-sid)
 
 <!-- prettier-ignore-end -->
