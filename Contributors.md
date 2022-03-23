@@ -5857,5 +5857,6 @@ Duncan Ledesma
 -[JJRoss](https://github.com/JJ-Ross)
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
+- [Selorm Lotsu](https://github.com/yaw-sid)
 
 <!-- prettier-ignore-end -->
