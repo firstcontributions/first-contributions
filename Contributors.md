@@ -24,6 +24,7 @@
 - [skyskyha] (https://github.com/skyskyha)
 - [McMoffin](https://github.com/mcMoffin)
 - [Akshata Naik]
+- [Akhil Kumar] (https://github.com/akhil9281)
 - [Bibek Chand](https://github.com/bibekchand)
 - [Tony]
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
