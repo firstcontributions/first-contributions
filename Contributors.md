@@ -5854,5 +5854,6 @@ Duncan Ledesma
 - [KlokMiraj](https://github.com/KlokMiraj)
 -[JJRoss](https://github.com/JJ-Ross)
 - [Keenan Kan](https://github.com/keenerz) 👋
+- [Viraj Shah](https://github.com/virajbshah)
 
 <!-- prettier-ignore-end -->
