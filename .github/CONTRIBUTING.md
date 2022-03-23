@@ -87,6 +87,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/hahn">hahn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
         </td>
         <td>
+            <a href="https://github.com/emilydoswell">Hey I'm Emily</a>
+        </td>
+        <td>
             <a href="https://github.com/Sergih28">Sergih28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
         </td>
         <td>
