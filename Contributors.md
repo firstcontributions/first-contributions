@@ -3458,6 +3458,7 @@ Himanshu Dedha
 - [Carlos Martinez](https://github.com/carmarher)
 - [Pahal-Jain](https://github.com/pahaljain)
 - [Jason Lv](https://github.com/jason1105)
+- [Farboo](https://github.com/farboo)
 - [Akoopie](https://github.com/Akoopie)
 - [JenE](https://github.com/yeahokthen)
 - [mmg13](https://github.com/mmg13)
