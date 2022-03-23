@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
+- [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
@@ -3767,6 +3768,7 @@ Himanshu Dedha
 - [Ryan Lynch](https://github.com/UniqueClone)
 - [armanabkar](https://github.com/armanabkar)
 - [Elias Roberts](https://github.com/erobertsdev)
+- [Ahsan Javed Butt](https://github.com/ahsanwtc)
 - [Yashraj Motwani](https://github.com/Yash117)
 - [Evgeny Vlasov](https://github.com/vlasove)
 - [Richard Cook](https://github.com/richastral)
