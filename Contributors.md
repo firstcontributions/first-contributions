@@ -4,6 +4,7 @@
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
+- [Alexis Ballo](https://github.com/alexisballo2)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
 - [Sairam Cholleti](https://github.com/sairam-27)
