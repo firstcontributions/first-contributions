@@ -783,6 +783,7 @@ itay-guter
 -[Anshul Nigam] (https://github.com/Anshul-13J/first-contributions.git)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
 -[Onkar Kawathe]
+-[Omkar Nazarkar](https://github.com/omkarnazarkar)
 -Eli Barela
 -[Javohir Uralov](https://github.com/javohir101dev/first-contributions) 
 -[JamesLee](https://github.com/Jamesleeeeeee)
