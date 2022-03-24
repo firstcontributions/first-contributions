@@ -3817,6 +3817,7 @@ Himanshu Dedha
 - [Sahi Selva] (https://github.com/ssahisnu)
 - [Simeon Kenneth Tobechi](https://github.com/kenRelic)
 - [Sebastian Puig](https://github.com/patanpuig)
+- [Anchit Srivastava](https://github.com/AnchitCap)
 - [Valentino Malvarmo](https://github.com/valentarmo)
 - [Fabian Pijcke](https://github.com/shepard8)
 - [linteresting](https://github.com/Linteresting)
