@@ -97,6 +97,7 @@
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
+- [Dane LeBlanc](https://github.com/dane-leblanc)
 - [Bhuvaneswari Pathsamatla](https://github.com/bhuvanaindukuri)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Labheshwar](https://github.com/labheshwar)
