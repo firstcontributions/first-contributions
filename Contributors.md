@@ -38,6 +38,7 @@
 - [Augusto](https://github.com/augustoibarrola)
 - [Hüseyin Şen Kaya](https://github.com/huseyinsenkaya)
 - [Rong Xiang](https://github.com/zjrongxiang)
+- [Manuel Lemos](https://github.com/MannyLemos)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [Sai Krishna Nerella](https://github.com/nsaikrishna94)
 - [Luigi Altamura](https://github.com/LuigiAltamura)
