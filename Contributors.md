@@ -9,6 +9,7 @@
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
+- [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Arun Pandey](https://github.com/EigenPandey)
 - [pastequeninja](https://github.com/pastequeninja)
 - [Texas Tangler](https://github.com/Texas-Tangler)
