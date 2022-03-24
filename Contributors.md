@@ -1644,6 +1644,7 @@ yejashi
 - [hero9331](http://github.com/hero9331)
 - [Joseph Hargrove] (https://github.com/TreetopLover)
 - [Deepak Dwivedi](https://github.com/Dvd1234)
+- [Alex Diple](https://github.com/alexdiple)
 - [Koremochi](https://github.com/Koremochi)
 - [Kyu Sik](https://github.com/Kim-Mark)
 - [Jitesh Jayarman](https://github.com/jiteshj2)
