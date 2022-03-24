@@ -5878,5 +5878,6 @@ Duncan Ledesma
 - [Selorm Lotsu](https://github.com/yaw-sid)
 - [Habeeb Awoyemi](https://github.com/habeebability)
 - [Jayant Rane](https://github.com/jayantrane)
+- [Suleyman Baris Eser](https://github.com/suleymanbariseser)
 
 <!-- prettier-ignore-end -->
