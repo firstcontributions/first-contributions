@@ -59,6 +59,7 @@
 - [Ingela]
 - [Himansh] (https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
+- [Yafet Berhanu](https://github.com/yaphet17)
 - [Liam] (https://github.com/LiamGlenn)
 - [Nox](github.com/NoxF7)
 - [Sana]
