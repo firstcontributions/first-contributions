@@ -3529,6 +3529,7 @@ Himanshu Dedha
 - [Emrich-Michael Perrier](https://github.com/emrichmp)
 - [Mark T](https://github.com/woozical)
 - [masha](https://github.com/masha-nv)
+- [Jesse Mill] 
 - [Maher Halabi] (https://github/com/maherhalabi)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
