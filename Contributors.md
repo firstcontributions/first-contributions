@@ -5888,5 +5888,6 @@ Duncan Ledesma
 - [Jayant Rane](https://github.com/jayantrane)
 - [Suleyman Baris Eser](https://github.com/suleymanbariseser)
 - [Meeko](https://github.com/to-Meeko)
+- [Theo Tarr](https://github.com/theotarr)
 
 <!-- prettier-ignore-end -->
