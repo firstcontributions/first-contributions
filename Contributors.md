@@ -33,6 +33,7 @@
 - [Akshata Naik]
 - [Akhil Kumar] (https://github.com/akhil9281)
 - [Bibek Chand](https://github.com/bibekchand)
+- [Brandon Maurice](https://github.com/bmaurice98)
 - [Tony]
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
