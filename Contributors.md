@@ -98,6 +98,7 @@
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
+- [Aditya Joshi](https://github.com/Joshi-Adi)
 - [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
 - [Dane LeBlanc](https://github.com/dane-leblanc)
