@@ -5875,5 +5875,6 @@ Duncan Ledesma
 - [Viraj Shah](https://github.com/virajbshah)
 - [Selorm Lotsu](https://github.com/yaw-sid)
 - [Habeeb Awoyemi](https://github.com/habeebability)
+- [Masato Nagashima](https://github.com/MasatoNagashima)
 
 <!-- prettier-ignore-end -->
