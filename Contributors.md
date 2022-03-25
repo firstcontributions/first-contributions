@@ -5896,4 +5896,5 @@ Duncan Ledesma
 - [Meeko](https://github.com/to-Meeko)
 - [Aniruddh Singh ](https://github.com/a1nn1997)
 - [Giuliano De Pian] (https://github.com/giulianodepian)
+- [quirkeey](https://github.com/quirkeey)
 <!-- prettier-ignore-end -->
