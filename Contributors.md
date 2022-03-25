@@ -3440,6 +3440,7 @@ Himanshu Dedha
 - [Jitesh Shamdasani](https://github.com/Jeetu855)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Prathamesh Mehare](https://github.com/mystic-one)
+- [Imran Radzi](https://github.com/imranradzi)
 - [Tanzeel Khan](https://github.com/tanzeyl)
 - [Kyin Edwards](https://github.com/KyinE1)
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
