@@ -26,6 +26,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+- [Pedro Moyano](https://github.com/petermoyano)
 - [Sheikh Limon](https://github.com/sheikhlimon)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
