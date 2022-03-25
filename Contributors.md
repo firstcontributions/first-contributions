@@ -5877,6 +5877,7 @@ Duncan Ledesma
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
 - [KlokMiraj](https://github.com/KlokMiraj)
+- [Luis Boris](https://github.com/luisboris)
 -[JJRoss](https://github.com/JJ-Ross)
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
