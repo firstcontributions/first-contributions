@@ -1677,6 +1677,7 @@ yejashi
 - [dongbin](https://github.com/dobi02)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
+
 - [Seerat]
 - [Timo]
 - [David Brudnicki] (https://github.com/dbrudnicki)
@@ -5890,5 +5891,5 @@ Duncan Ledesma
 - [Jayant Rane](https://github.com/jayantrane)
 - [Suleyman Baris Eser](https://github.com/suleymanbariseser)
 - [Meeko](https://github.com/to-Meeko)
-
+- [Aniruddh Singh ](https://github.com/a1nn1997)
 <!-- prettier-ignore-end -->
