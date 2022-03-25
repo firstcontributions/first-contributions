@@ -406,6 +406,7 @@
 - [Duc Tran](https://github.com/Ducz01)
 - [Kelvin Doe](https://github.com/kelvindoe22)
 - [Sam kanja](https://github.com/Samkanja/)
+- [Eric Tuovila](https://github.com/only-devices/)
 - [Ellie Foote] (https://www.github.com/elliefoote)
 - [Daniel Cronin] (https://github.com/superman2006irl/)
 - [Bayquen](https://github.com/bayquen/)
