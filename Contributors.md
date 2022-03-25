@@ -5895,4 +5895,5 @@ Duncan Ledesma
 - [Suleyman Baris Eser](https://github.com/suleymanbariseser)
 - [Meeko](https://github.com/to-Meeko)
 - [Aniruddh Singh ](https://github.com/a1nn1997)
+- [Giuliano De Pian] (https://github.com/giulianodepian)
 <!-- prettier-ignore-end -->
