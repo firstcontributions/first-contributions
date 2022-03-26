@@ -5179,7 +5179,7 @@ Disguy
 - [Eugenio Guimaraes](https://github.com/EugenioGuimaraes)
 - [Jayesh](https://github.com/jayeshsorathia)
 - [lcrnjakovic](https://github.com/lcrnjakovic)
-  [minjun](https://github.com/alswns8875)
+  [minjun](https://github.com/minjund)
 - [StavrosCaptain](https://github.com/StavrosCaptain)
 - [hzq](https://github.com/xiaolubo)
 - [Bianca Marina Codau](https://github.com/codaubianca/)
