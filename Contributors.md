@@ -5893,6 +5893,7 @@ Duncan Ledesma
 - [Bamboudorer](https://github.com/Bamboudorer)
 - [kramoos] (https://github.com/kramoos)
 - [NelsonFSP] (https://github.com/NelsonFSP)
+- [simontagbor](https://github.com/Simontagbor)
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
 - [KlokMiraj](https://github.com/KlokMiraj)
@@ -5908,5 +5909,4 @@ Duncan Ledesma
 - [Aniruddh Singh ](https://github.com/a1nn1997)
 - [Giuliano De Pian] (https://github.com/giulianodepian)
 - [quirkeey](https://github.com/quirkeey)
-- [simontagbor](https://github.com/Simontagbor)
 <!-- prettier-ignore-end -->
