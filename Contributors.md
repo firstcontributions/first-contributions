@@ -5910,4 +5910,5 @@ Duncan Ledesma
 - [Aniruddh Singh ](https://github.com/a1nn1997)
 - [Giuliano De Pian] (https://github.com/giulianodepian)
 - [quirkeey](https://github.com/quirkeey)
+- [Ai Nitta](https://github.com/initta)
 <!-- prettier-ignore-end -->
