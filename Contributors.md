@@ -1981,6 +1981,7 @@ yejashi
 - [Saloni Dwivedi](https://github.com/Saloni098)
 - [Lucy Lee] (https://github.com/lucylee418)
 - [Khai Bui](https://github.com/GuyBritish)
+- [Tad Mac] (https://github.com/tad-mac)
 - [Hanane NAHIM](https://github.com/hannhm1109)
 - [Rerebla](https://github.com/Rerebla)
 - [Kevin Yuan](https://github.com/kevkev99)
