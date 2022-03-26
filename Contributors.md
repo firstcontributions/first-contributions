@@ -2771,6 +2771,7 @@ Himanshu Dedha
 - [Ben Elgren](https://github.com/belgren)
 - [Swati Munda](https://github.com/swatiM19/)
 - [Chandler King](https://github.com/chandleroking/)
+- [Raghav Jindal](https://github.com/HiberNuts)
 - [Kelly](https://github.com/kellyxavier)
 - [Samarth Soni](https://github.com/samarthsoni17)
 - [Amritaansh Narain](https://github.com/namritaansh02)
