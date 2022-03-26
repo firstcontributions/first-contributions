@@ -72,6 +72,7 @@
 - [Yafet Berhanu](https://github.com/yaphet17)
 - [Liam] (https://github.com/LiamGlenn)
 - [Nox](github.com/NoxF7)
+- [Victoria] (github.com/vjordan-cs)
 - [Sana]
 - [Matt Villa](https://github.com/mv805)
 - [Ye Pyae Aung](github.com/YePyaeAung)
