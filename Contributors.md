@@ -5893,6 +5893,7 @@ Duncan Ledesma
 - [Bamboudorer](https://github.com/Bamboudorer)
 - [kramoos] (https://github.com/kramoos)
 - [NelsonFSP] (https://github.com/NelsonFSP)
+- [simontagbor](https://github.com/Simontagbor)
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
 - [KlokMiraj](https://github.com/KlokMiraj)
