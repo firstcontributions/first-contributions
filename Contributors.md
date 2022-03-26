@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
+- [Tushar verma](https://github.com/Tushar656)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Alexis Ballo](https://github.com/alexisballo2)
