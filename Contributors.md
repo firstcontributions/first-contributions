@@ -3116,6 +3116,7 @@ Himanshu Dedha
 - [Aliffiqri Agwar](https://github.com/SorrowInRain)
 - [Dan Kollar](https://github.com/dkollar)
 - [Dharmesh Upadhyay](https://github.com/itsdharmxd)
+- [Daniel Alejandro Tejerina](https://github.com/Mettralla)
 - [Akash Tandale](https://github.com/Akash-Tandale001)
 - [Matthew Margeson](https://github.com/MargesonMJ)
 - [xsthetic](https://github.com/xsthetic)
