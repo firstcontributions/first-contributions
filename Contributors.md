@@ -32,6 +32,7 @@
 - [danitachi]
 - [skyskyha] (https://github.com/skyskyha)
 - [McMoffin](https://github.com/mcMoffin)
+- [CodeWithUma](https://github.com/CodeWithUma)
 - [Akshata Naik]
 - [Akhil Kumar] (https://github.com/akhil9281)
 - [Bibek Chand](https://github.com/bibekchand)
