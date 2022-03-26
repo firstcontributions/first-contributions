@@ -364,6 +364,7 @@
 - [Atsushi Nitta] (https://github.com/a2-ww-1182)
 - [lab596] (https://github.com/lab596)
 - [James Le-Goff]
+- [Alex Bull] (https://github.com/Basketball-Gamer1011)
 - [Jocyline Magero]
 - [Joe Mithiran] (https://github.com/JoeKM888/)
 -[Usha sri](https://github.com//ushasri123980)
