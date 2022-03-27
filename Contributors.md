@@ -73,6 +73,7 @@
 - [A Friedman]
 - [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
+- [Tony Raud](https://github.com/lamineer)
 - [Himansh] (https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
 - [Yafet Berhanu](https://github.com/yaphet17)
