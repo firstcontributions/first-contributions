@@ -38,6 +38,7 @@
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
 - [skyskyha] (https://github.com/skyskyha)
+- [Riordanis22] (https://github.com/Riordanis)
 - [McMoffin](https://github.com/mcMoffin)
 - [CodeWithUma](https://github.com/CodeWithUma)
 - [Akshata Naik]
