@@ -184,6 +184,7 @@
 - [RaitBoach](https://github.com/RaitBoach)
 - [Akshay Kataria](https://github.com/Akshaykataria08)
 - [Ajith D]
+- [Linh Dang]
 - [AL]
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
