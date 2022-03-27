@@ -5830,6 +5830,7 @@ Michael Wong
 - [tgv]
 - [daichigb] (https://github.com/daichigb)
 - [fourier517](https://github.com/fourierz517)
+- [laft2](https://github.com/laft2)
 - [Anuj Bisht] (https://github.com/bishtanuj)
 - [Filipa Silva](https://github.com/filipaasilva)
 - [Josh Fisher] (https://github.com/mrjoshfisher)
