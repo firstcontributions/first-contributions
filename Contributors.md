@@ -41,6 +41,7 @@
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
 - [Piotr Wlazeł](https://github.com/Nieokorzesany)
 - [Ajith D]
+- [Linh Dang]
 - [AL]
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
