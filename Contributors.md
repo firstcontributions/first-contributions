@@ -350,6 +350,7 @@
 - [Vamsi Vemur] https://github.com/ramv2014
 - [Ayden Kauffman] (https://github.com/AKauffy)
 - [Neevan] (https://github.com/neevan01)
+- [Noah Nannen] (https://github.com/Noah-nannen)
 - [Saurabh] (https://github.com/saurabh1046)
 - [Md Hasan Ali] (https://github.com/hasanali05)
 - [Kodeiak] (https://github.com/Kodeiak/)
