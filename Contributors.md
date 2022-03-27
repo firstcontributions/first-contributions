@@ -7,6 +7,7 @@
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
+- [Jhon Arias](https://github.com/jhonfredi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Alexis Ballo](https://github.com/alexisballo2)
 - [Matt Rueter](https://github.com/MattRueter)
