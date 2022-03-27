@@ -50,6 +50,7 @@
 - [Augusto](https://github.com/augustoibarrola)
 - [Hüseyin Şen Kaya](https://github.com/huseyinsenkaya)
 - [Rong Xiang](https://github.com/zjrongxiang)
+- [Hetav Modi](https://github.com/hetavv)
 - [Manuel Lemos](https://github.com/MannyLemos)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [Sai Krishna Nerella](https://github.com/nsaikrishna94)
