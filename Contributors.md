@@ -11,6 +11,7 @@
 - [Matt Rueter](https://github.com/MattRueter)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
+- [Manan Bordia](https://github.com/mananbordia)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
