@@ -5929,4 +5929,5 @@ Duncan Ledesma
 - [Giuliano De Pian] (https://github.com/giulianodepian)
 - [quirkeey](https://github.com/quirkeey)
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
+- [Stephan Krug](https://github.com/stephankruggg)
 <!-- prettier-ignore-end -->
