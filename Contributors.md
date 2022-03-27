@@ -61,6 +61,7 @@
 - [Deglier Amorim](github.com/deglier)
 - [lougau92](https://github.com/lougau92)
 - [Anushka](https://github.com/Anushka1503)
+- [Dave Aigbe](https://github.com/DaveAigbe)
 - [Laurie H](https://github.com/coderlore)
 - [Zohiab R](https://github.com/ZDON-Official)
 - [Renzo Villaflor](https://github.com/rvill015)
