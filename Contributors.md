@@ -185,6 +185,7 @@
 - [Akshay Kataria](https://github.com/Akshaykataria08)
 - [Ajith D]
 - [Linh Dang]
+- [Tran Dang]
 - [AL]
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
