@@ -30,6 +30,7 @@
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
 - [Pedro Moyano](https://github.com/petermoyano)
+- [Yusuf Alsaedi](https://github.com/redmite123)
 - [Sheikh Limon](https://github.com/sheikhlimon)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
