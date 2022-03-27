@@ -171,6 +171,7 @@
 - [Diwanshi Gupta](https://github.com/diwanshib)
 - [Andres Calzadias](https://github.com/cmndrqueso)
 - [Fabien Naveau](https://github.com/FabienNaveau)
+- [Farah Rusli](https://github.com/fn-r)
 - [Luna](https://github.com/Lunamoon97)
 - [Delsan Anthony](https://github.com/delsananthony)
 - [Victor](https://github.com/victor0x16)
