@@ -5786,6 +5786,7 @@ Michael Wong
 - [justartover](https://github.com/justartover1)
 - [Gordon Lin](https://github.com/gordonlin-dev)
 - [Alper Gungor](https://github.com/alpergng)
+- [Soeren Kaupp](https://github.com/SoerenKa93)
 - [Inzamam Ahmad](https://github.com/inzamamahmad3) 
 - [Samer Zeid](https://github.com/worldsamer)
 - [Samer Miqdadi](https://github.com/samermiq/first-contributions.git)
