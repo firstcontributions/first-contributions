@@ -36,6 +36,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+- [mxfoyster](https://github.com/mxfoyster)
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
 - [Sheikh Limon](https://github.com/sheikhlimon)
@@ -2270,6 +2271,9 @@
 - [Luis Rondon](https://github.com/luis2605)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Razeen Abdal Rahman](https://github.com/Razeen-Abdal-Rahman)
+- [Zane Shaw](https://github.com/zshawdev/)
+- [Daniel Tassew] (https://github.com/daniel-tassew)  
+- [Razeen Abdal Rahman](https://github.com/Razeen-Abdal-Rahman)  
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
 - [Menachem Rapp] (https://github.com/MenachemRapp)
 - [Punkalope] (https://github.com/Punkalope)
@@ -5604,6 +5608,8 @@
 - [Gordon Lin](https://github.com/gordonlin-dev)
 - [Alper Gungor](https://github.com/alpergng)
 - [Inzamam Ahmad](https://github.com/inzamamahmad3)
+- [Soeren Kaupp](https://github.com/SoerenKa93)
+- [Inzamam Ahmad](https://github.com/inzamamahmad3) 
 - [Samer Zeid](https://github.com/worldsamer)
 - [Samer Miqdadi](https://github.com/samermiq/first-contributions.git)
 - [Lucas Henrique](https://github.com/LucasHenrique-dev)
@@ -5755,4 +5761,6 @@
 - [quirkeey](https://github.com/quirkeey)
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
+- [William Albert] (https://github.com/wlow1211)
+- [bashkirian](https://github.com/bashkirian)
 <!-- prettier-ignore-end -->
