@@ -6,6 +6,7 @@
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
+- [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
