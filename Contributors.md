@@ -968,6 +968,7 @@ Zack Bryant
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
 - [Yash Tibra](https://github.com/yash249-techy)
 - [Jonathan Bresolin](https://github.com/jonbres2/)
+- [PolarStar971]
 - [Matt Wheeler](https://github.com/wheelerMT)
 - [Ryan Barkhoff] (https://github.com/Grizzlybow)
 - [Amal Jos](https://github.com/eymaal)
