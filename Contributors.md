@@ -2440,6 +2440,7 @@ yejashi
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Palak Thakur](https://github.com/Plk116)
 - [Luis Rondon](https://github.com/luis2605)
+- [Zane Shaw](https://github.com/zshawdev/)
 - [Daniel Tassew] (https://github.com/daniel-tassew)  
 - [Razeen Abdal Rahman](https://github.com/Razeen-Abdal-Rahman)  
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
