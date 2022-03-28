@@ -5938,4 +5938,5 @@ Duncan Ledesma
 - [quirkeey](https://github.com/quirkeey)
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
+- [William Albert] (https://github.com/wlow1211)
 <!-- prettier-ignore-end -->
