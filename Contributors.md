@@ -5941,4 +5941,5 @@ Duncan Ledesma
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
 - [William Albert] (https://github.com/wlow1211)
+- [bashkirian](https://github.com/bashkirian)
 <!-- prettier-ignore-end -->
