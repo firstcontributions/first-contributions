@@ -35,6 +35,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+- [mxfoyster](https://github.com/mxfoyster)
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
 - [Sheikh Limon](https://github.com/sheikhlimon)
