@@ -37,6 +37,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+  [Erica Sue](https://github.com/Duckibear)
 - [mxfoyster](https://github.com/mxfoyster)
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
