@@ -74,6 +74,7 @@
 - [Ben Mead](github.com/bmead221)
 - [Tom Gooding](https://github.com/TomJGooding)
 - [Sumanth P]
+- [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc ](https://github.com/NiranjanNlc)
 - [A Friedman]
