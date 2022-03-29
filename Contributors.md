@@ -247,6 +247,7 @@
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Jay Abella](https://github.com/jcabella1)
 - [Ankush Banik](https://github.com/Ankush263)
+- [Dao Vo](https://github.com/daygoDao)
 - [Adyansh Kakran](https://github.com/AdyanshKakran)
 - [Eugene Song] (https://github.com/EugenSong)
 - [Svenja Jaeger] (https://github.com/gagaraaraa/first-contributions.git)
