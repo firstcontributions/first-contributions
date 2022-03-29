@@ -8,6 +8,7 @@
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
+- [Ayisha Alli](https://github.com/AyishaAlli)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
@@ -36,6 +37,7 @@
 - [BL7Awy](https://github.com/goar5670)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Tomiwa]
+- [mxfoyster](https://github.com/mxfoyster)
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
 - [Sheikh Limon](https://github.com/sheikhlimon)
@@ -74,6 +76,7 @@
 - [Ben Mead](github.com/bmead221)
 - [Tom Gooding](https://github.com/TomJGooding)
 - [Sumanth P]
+- [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc ](https://github.com/NiranjanNlc)
 - [A Friedman]
@@ -806,6 +809,7 @@
 - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
 - [Yash Tibra](https://github.com/yash249-techy)
 - [Jonathan Bresolin](https://github.com/jonbres2/)
+- [PolarStar971]
 - [Matt Wheeler](https://github.com/wheelerMT)
 - [Ryan Barkhoff] (https://github.com/Grizzlybow)
 - [Amal Jos](https://github.com/eymaal)
@@ -2268,6 +2272,7 @@
 - [Hadia Noor](https://github.com/Hadia-Noor)
 - [Palak Thakur](https://github.com/Plk116)
 - [Luis Rondon](https://github.com/luis2605)
+- [Zane Shaw](https://github.com/zshawdev/)
 - [Daniel Tassew] (https://github.com/daniel-tassew)
 - [Razeen Abdal Rahman](https://github.com/Razeen-Abdal-Rahman)
 - [Joseph Rasanjana](https://github.com/JosephLahiru)
@@ -5604,6 +5609,7 @@
 - [Gordon Lin](https://github.com/gordonlin-dev)
 - [Alper Gungor](https://github.com/alpergng)
 - [Inzamam Ahmad](https://github.com/inzamamahmad3)
+- [Soeren Kaupp](https://github.com/SoerenKa93)
 - [Samer Zeid](https://github.com/worldsamer)
 - [Samer Miqdadi](https://github.com/samermiq/first-contributions.git)
 - [Lucas Henrique](https://github.com/LucasHenrique-dev)
@@ -5634,6 +5640,7 @@
 - [Luiz Santos](https://github.com/J0se-Luiz)
 - [Dennis Wiersma](https://github.com/denniswiersma)
 - [Sameeksha Dalvi] (https://github.com/sameekshadalvi)
+- [Soham Tembhurne](https://github.com/sohamtembhurne)
 - [Joseph Lee](https://github.com/QiUnknown)
 - [Gracesilia](https://github.com/gracesilia)
 - [janey668](https://github.com/janey668)
@@ -5755,4 +5762,7 @@
 - [quirkeey](https://github.com/quirkeey)
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
+- [William Albert] (https://github.com/wlow1211)
+- [bashkirian](https://github.com/bashkirian)
+- [Vadim Filimonov](https://github.com/vadimfilimonov)
 <!-- prettier-ignore-end -->
