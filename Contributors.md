@@ -2976,6 +2976,7 @@ Himanshu Dedha
 - [Aiden Halili](https://github.com/aidenhalili)
 - [Nakoya Wilson](https://github.com/nakoyawilson)
 - [Megha Agarwal](https://github.com/Megha184)
+- [Brandon Elzy](https://github.com/belzy)
 - [Matthew Martinez](https://github.com/lilcobija)
 - [Dzyan Kelsick](https://github.com/Varkous)
 - [Chaim Cohen](https://github.com/faceless613)
