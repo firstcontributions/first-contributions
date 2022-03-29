@@ -12,6 +12,7 @@
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
+- [Nic Ledoux](https://github.com/NicLedoux/)
 - [Alexis Ballo](https://github.com/alexisballo2)
 - [Matt Rueter](https://github.com/MattRueter)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
