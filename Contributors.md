@@ -135,6 +135,7 @@
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Jus Buckingham](https://github.com/jusbuckingham)
 - [Lucidity](https://github.com/Luc1d1ty)
+- [Valentin Montagné](https://github.com/montagnev)
 -[Bhavana Hebbar](https://github.com/BhavanaHebbar)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
