@@ -2218,6 +2218,7 @@ yejashi
 - [henriquezna](https://github.com/henriquezna)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
 - [Simeon Akanbi](https://github.com/simple-codes22)
+- [Rida](https://github.com/ridacode)
 - [Rolbin](https://github.com/thenoveltyseeker)
 - [Aitor Mateu](https://github.com/Nokocchi93)
 - [David Michael](https://github.com/davelearning)
