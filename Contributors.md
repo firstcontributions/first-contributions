@@ -21,6 +21,7 @@
 - [Manan Bordia](https://github.com/mananbordia)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
+- [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
 - [Arun Pandey](https://github.com/EigenPandey)
