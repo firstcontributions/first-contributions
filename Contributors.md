@@ -213,6 +213,7 @@
 - [SZH](https://github.com/Shweryl)
 - [Colton Gibson]
 - [cugab gaming]
+- [Chris Koski](https://github.com/ChrisKoskiii)
 - [Sifang Shan](https://github.com/ivoryssf)
 - [Zhilin Li](https://github.com/zzhilin)
 - [hamzah-sajid-code](https://github.com/hamzah-sajid-code)
