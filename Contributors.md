@@ -55,6 +55,7 @@
 - [idunne360](https://github.com/idunne360)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [danitachi]
+- [Ismael Liriano](https://github.com/IsmaelLiriano12)
 - [Lukas Benner] (https://github.com/LukasBenner)
 - [skyskyha] (https://github.com/skyskyha)
 - [Riordanis22] (https://github.com/Riordanis)
