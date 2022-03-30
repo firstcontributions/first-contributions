@@ -3049,6 +3049,7 @@ Himanshu Dedha
 - [Emir Smajic]
 - [Ja rdt](https://github.com/notsharing)
 - [Amit Kumar Samantara](https://github.com/amitsamantara)
+- [Damilola Oladele](https://github.com/activus-d)
 - [Manthan Nagpurkar](https://github.com/manthan0227)
 - [Alexander Craggs](https://github.com/EyreC)
 - [Gokul Thiagarajan](https://github.com/gokulthiagarajan)
