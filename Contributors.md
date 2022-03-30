@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Rahul Pundir](https://github.com/iamr9r)
