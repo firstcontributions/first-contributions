@@ -5961,4 +5961,5 @@ Duncan Ledesma
 - [Vadim Filimonov](https://github.com/vadimfilimonov)
 - [zerone0x](https://github.com/zerone0x)
 - [Shanna Swindle](https://github.com/stardustandserendipity)
+- [Khoi Dang Nguyen](https://github.com/khoister)
 <!-- prettier-ignore-end -->
