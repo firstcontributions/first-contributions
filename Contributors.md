@@ -38,6 +38,7 @@
 - [ZigRazor](https://github.com/ZigRazor)
 - [Jasmine](https://github.com/jasminelee789)
 - [Omkar Ashtekar](https://github.com/omkarun)
+- [Davis-sang](https://github.com/davis-sang)
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
 - [Eric Shen] (https://github.com/eric-hcshen)
