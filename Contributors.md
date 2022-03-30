@@ -2793,6 +2793,7 @@ Pranjal
 - [John](https://github.com/konig-coo)
 - [Mohammed]
 - [Adrian]
+- [Nima](https://github.com/n13a)
 - [vhouriet](https://github.com/vhouriet)
 - [Alwaz](https://github.com/Alwaz)
 - [Samruddhi Anil Ghodake](https://github.com/samughodake)
