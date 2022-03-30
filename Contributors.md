@@ -318,6 +318,7 @@
 - [Hemanth ] (https://github.com/confusedBoy)
 - [Dylan Trepos] (https://github.com/dylantrepos)
 - [Shoib Ansari] (https://github.com/reddishshoib )
+- [Ugur Berkay Kahveci] (https://github.com/ubkahveci)
 - [Jordan Trinder] (https://github.com/JordanTrind)
 - [Yash Patel]  (https://github.com/Yash472001)
 - [Esther F] (https://github.com/zelf0)
