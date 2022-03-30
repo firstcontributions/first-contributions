@@ -25,6 +25,7 @@
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Andy Wood](https://github.com/TheWoodenMan)
 - [Oladle Damilola](https://github.com/activus-d)
+- [Ashish vajpayee](https://github.com/Ashish-Vajpayee)
 - [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
