@@ -20,6 +20,7 @@
 - [Nic Ledoux](https://github.com/NicLedoux/)
 - [Alexis Ballo](https://github.com/alexisballo2)
 - [Matt Rueter](https://github.com/MattRueter)
+- [kaem](https://github.com/Kerinjo)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
 - [Manan Bordia](https://github.com/mananbordia)
