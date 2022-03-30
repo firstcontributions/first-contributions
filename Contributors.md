@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 - [Ideal Re](https://github.com/idealre)
-- [Ashish vajpayee](https://github.com/Ashish-Vajpayee)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Rahul Pundir](https://github.com/iamr9r)
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
@@ -24,6 +23,7 @@
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Oladle Damilola](https://github.com/activus-d)
+- [Ashish vajpayee](https://github.com/Ashish-Vajpayee)
 - [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
