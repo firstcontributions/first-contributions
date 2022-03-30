@@ -403,6 +403,7 @@
 - [Jocyline Magero]
 - [Joe Mithiran] (https://github.com/JoeKM888/)
 -[Usha sri](https://github.com//ushasri123980)
+- [Bakbergen Ryskulov] (https://github.com/bryskulov)
 -[Malik Mertus](https://github.com/Malic33100)
 -[Islam Bassuni](https://github.com/Islam231bi)
 - [Gary Meade] (https://github.com/gsmeade)
