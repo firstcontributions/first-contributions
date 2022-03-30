@@ -410,6 +410,7 @@
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
 - [Sam Hamilton] (https://github.com/sthamilton)
 - [nirav kumar]
+- [Amaka Ezeoke]
 - [Akshay Khare] (https://github.com/akshaykhare19)
 - [Atsushi Nitta] (https://github.com/a2-ww-1182)
 - [lab596] (https://github.com/lab596)
