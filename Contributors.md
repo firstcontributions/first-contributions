@@ -197,6 +197,7 @@
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [ZLH](https://github.com/Zawlinhtike397)
 - [Dominic Duke](https://github.com/domduke)
+- [Chris Thompson](https://github.com/ChrisThompsonDev)
 - [Kenrick Lam](https://github.com/klam98)
 - [Piyush Negi](https://github.com/NegiBaba)
 - [Dominic Merchelski] (https://github.com/rat-3)
