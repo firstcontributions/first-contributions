@@ -2402,6 +2402,7 @@ yejashi
 - [Tamika Hayes] (https://github.com/TamikaHayes)
 - [Devin Plumb](https://github.com/DevinPlumb)
 - [Ritika Garg]()
+- [Wase Zahin] (https://github.com/Wase-Zahin)
 - [Dan Lawson](https://github.com/danlsn/)
 - [Sangeeta Raut]
   [George Kakarlis](https://github.com/georgekakarlis)
