@@ -55,6 +55,7 @@
 - [Riordanis22] (https://github.com/Riordanis)
 - [McMoffin](https://github.com/mcMoffin)
 - [CodeWithUma](https://github.com/CodeWithUma)
+- [Arquimidio] (https://github.com/Arquimidio)
 - [Akshata Naik]
 - [Akhil Kumar] (https://github.com/akhil9281)
 - [Bibek Chand](https://github.com/bibekchand)
