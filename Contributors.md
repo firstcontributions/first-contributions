@@ -5960,4 +5960,5 @@ Duncan Ledesma
 - [bashkirian](https://github.com/bashkirian)
 - [Vadim Filimonov](https://github.com/vadimfilimonov)
 - [zerone0x](https://github.com/zerone0x)
+- [Shanna Swindle](https://github.com/stardustandserendipity)
 <!-- prettier-ignore-end -->
