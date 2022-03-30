@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ideal Re](https://github.com/idealre)
+- [Ashish vajpayee](https://github.com/Ashish-Vajpayee)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Rahul Pundir](https://github.com/iamr9r)
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
