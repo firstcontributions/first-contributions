@@ -73,6 +73,7 @@
 - [Anushka](https://github.com/Anushka1503)
 - [Dave Aigbe](https://github.com/DaveAigbe)
 - [Laurie H](https://github.com/coderlore)
+- [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
 - [Renzo Villaflor](https://github.com/rvill015)
 - [Pranay Singh](https://github.com/singhpranay06)
