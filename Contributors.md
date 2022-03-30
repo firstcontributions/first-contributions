@@ -9,6 +9,7 @@
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
+- [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
