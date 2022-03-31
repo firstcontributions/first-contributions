@@ -2526,6 +2526,7 @@ yejashi
 - [Jana Spiller](https://github.com/TheJPlan)
 - [Shruti Deshpande](https://github.com/deshpande-shruti)
 - [Coku](https://github.com/MrCoku)
+- [Cecil Zhang] (https://github.com/jzhang9632)
 - [Stefano Baccetti] (https://github.com/Stefino76)
 - [Aleksandar Marjanovic](https://github.com/coa989)
 - [Rutumbhara Kale](https://github.com/Rutumbhara)
