@@ -6000,6 +6000,7 @@ Duncan Ledesma
 - [Vadim Filimonov](https://github.com/vadimfilimonov)
 - [zerone0x](https://github.com/zerone0x)
 - [Shanna Swindle](https://github.com/stardustandserendipity)
+- [Eric Anderson](https://github.com/speakertorockets)
 - [Khoi Dang Nguyen](https://github.com/khoister)
 - [Melissa](https://github.com/melissa-learns/)
 <!-- prettier-ignore-end -->
