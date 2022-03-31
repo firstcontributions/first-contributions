@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Shrey](https://github.com/shreykinshu)
+-[Nikhil](https://github.com/Kirito-Excalibur)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
