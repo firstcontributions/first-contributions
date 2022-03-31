@@ -498,6 +498,7 @@
 - [Ilementvo] (https://github.com/ilementvo)
 - [Mehmet Müjde](https://github.com/mmuejde)
 - [Todd Dalton]
+- [thomasdecactus]
 - [temi temiola](https://github.com/tofetpuzo)
 - [Dakota Smith] (https://github.com/dakotaleesmith)
 - [Julien Von Der Marck](https://github.com/jvondermarck)
