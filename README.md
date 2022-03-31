@@ -75,7 +75,7 @@ _if the command line thing no easy for you,abeg my pipu [see how u go do the tin
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### if git no dey your machine sef, [you fit get git for dis place](https://help.github.com/articles/set-up-git/).
+#### if git no dey your machine sef [you fit get git for dis place](https://help.github.com/articles/set-up-git/).
 
 ## YOU GO FIT FORK DIS REPO
 
@@ -87,7 +87,7 @@ Na then the tin go create dis repo for your github account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Open the terminal for your machine make you run dis git command:
 
 ```
 git clone "url you just copied"
@@ -97,13 +97,13 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Make we sample am like:
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
  
-where `this-is-you` is your GitHub username. wetin dey happen be say you dey copy all the thing wey dey inside the repo wey you copy to your github now to for your machine.
+Na `this-is-you` be your GitHub username. wetin dey happen be say you dey copy all the thing wey dey inside the repo wey you copy to your github now all dey go your machine.
 
 ## Create a branch
 Abeg open the directory wey you download the repo(that one be say if you no already dey inside):
@@ -113,20 +113,20 @@ Abeg open the directory wey you download the repo(that one be say if you no alre
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Now make u create branch using `git checkout` command:
 
 ```
 git checkout -b your-new-branch-name
 ```
 
-For example:
+How you go sample am:
 
 ```
 git checkout -b add-a-lon-zo-co-der
 ```
 (You no go need put _add_ but he make sense to put am because wetin we wan do  na to put your name for the list of contributors.)
 
-## Make necessary changes and commit those changes
+## Change wetin matter, make u commit am.
 
 Abeg open `Contributors.md` file for text editor, enter your name. No enter am for top or bottom but you fit put am anywhere for middle. Then, save am.
 
