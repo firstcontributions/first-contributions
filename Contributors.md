@@ -5993,4 +5993,5 @@ Gabrielle Jones
 - [Shanna Swindle](https://github.com/stardustandserendipity)
 - [Khoi Dang Nguyen](https://github.com/khoister)
 - [Melissa](https://github.com/melissa-learns/)
+- [Augusto Xavier (augustocbx)](https://github.com/augustocbx/)
 <!-- prettier-ignore-end -->
