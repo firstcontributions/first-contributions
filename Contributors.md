@@ -11,6 +11,7 @@
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
+- [sachin patil] (https://github.com/sachin112211)
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
