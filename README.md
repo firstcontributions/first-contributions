@@ -69,23 +69,21 @@
 # 
 
 # First Contributions
+This project na to show pipu wey just wan make dem first open source contribution, if you for like contribute and you never do am before abeg just dey read dey go
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
-
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_if the command line thing no easy for you,abeg my pipu [see how u go do the tin here](#this-go-make-you-sabi-to-use-GUI)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### if git no dey your machine sef, [you fit get git for dis place](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## YOU GO FIT FORK DIS REPO
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+To fit fork am am you go need press that button wey dey for the top of dis page.
+Na then the tin go create dis repo for your github account.
 
-## Clone the repository
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+## Make you put the repo for your machine
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt=" awonran repo" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -104,12 +102,12 @@ For example:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+ 
+where `this-is-you` is your GitHub username. wetin dey happen be say you dey copy all the thing wey dey inside the repo wey you copy to your github now to for your machine.
 
 ## Create a branch
+Abeg open the directory wey you download the repo(that one be say if you no already dey inside):
 
-Change to the repository directory on your computer (if you are not already there):
 
 ```
 cd first-contributions
@@ -124,66 +122,65 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-a-lon-zo-co-der
 ```
-
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(You no go need put _add_ but he make sense to put am because wetin we wan do  na to put your name for the list of contributors.)
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Abeg open `Contributors.md` file for text editor, enter your name. No enter am for top or bottom but you fit put am anywhere for middle. Then, save am.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+You got fit execute the `git status` if you go inside that director, you go see say he don different from before.
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Now make you add the thing wey don change with `git add` command to the branch wey we just create 
 
-Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Make you commit the thing wey don change `git commit` command:
 
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
 
-replacing `<your-name>` with your name.
+Make you change `<your-name>` with your own name wey u want.
 
 ## Push changes to GitHub
 
-Push your changes using the command `git push`:
+Make you push am now `git push`:
 
 ```
 git push origin <add-your-branch-name>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+comot `<add-your-branch-name>` with the name of the branch wey you don create before.
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Inside for your repo for github you go see  `Compare & pull request` button. press the button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Make you Submit the thing now.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+I go soon put all the changes into master for this project, I go signal when I don mash am together.
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+I happy for you o! You don finish  _fork -> clone -> edit -> pull request_ workflow wey you go need do if you wan dey contribute!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Go jubilate the thing wey you don do with you friends and followers for [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
+You fit join our slack team for support or you wan question us. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Now make we show you way to contribute to even more beta projects, we don put together plenty project wey get issues wey no too hard wey you go fit start to dey contribute sharperly. [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [Awoof material](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
 
