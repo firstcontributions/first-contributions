@@ -442,6 +442,7 @@
 - [Kudzai Dube] https://github.com/kudzidube7
 - [Ricardo Torres] (https://github.com/RicardoTorres2022)
 - [Anna Wojdylo](https://github.com/Noi5/)
+- [Oghenero Ologe] (https://github.com/Nero2005/)
 - [Hein Khant] (https://github.com/HeinKhant14)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
