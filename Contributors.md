@@ -77,6 +77,7 @@
 - [Bibek Chand](https://github.com/bibekchand)
 - [Brandon Maurice](https://github.com/bmaurice98)
 - [Tony]
+- [Steve Odhiambo](https://github.com/steveodhiambo)
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
 - [Hüseyin Şen Kaya](https://github.com/huseyinsenkaya)
