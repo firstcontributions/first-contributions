@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Caroline SENES](https://github.com/CarolineSenes)
 - [Shrey](https://github.com/shreykinshu)
 -[Nikhil](https://github.com/Kirito-Excalibur)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
