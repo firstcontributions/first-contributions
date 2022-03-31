@@ -10,6 +10,7 @@
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
+- [Sadie Manicom](https://github.com/sadienicole)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
 - [sachin patil] (https://github.com/sachin112211)
