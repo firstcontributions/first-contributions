@@ -73,6 +73,7 @@
 - [Ismael Liriano](https://github.com/IsmaelLiriano12)
 - [Lukas Benner] (https://github.com/LukasBenner)
 - [skyskyha] (https://github.com/skyskyha)
+- [mia] (https://github.com/MiaPisan)
 - [Riordanis22] (https://github.com/Riordanis)
 - [McMoffin](https://github.com/mcMoffin)
 - [CodeWithUma](https://github.com/CodeWithUma)
