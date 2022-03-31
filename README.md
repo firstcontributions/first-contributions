@@ -95,7 +95,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (without the quotation marks) is the url to this repository (i.e the fork you've made to this project). See the subsequent steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
