@@ -25,6 +25,7 @@
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
 - [Manan Bordia](https://github.com/mananbordia)
 - [pattycodes]
+- [Héctor]
 - [Nnaji Chimuanya](https://github/NnajiChimuanya)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
