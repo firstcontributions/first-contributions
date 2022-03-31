@@ -1878,6 +1878,7 @@ yejashi
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
 - [oduold](https://github.com/oduold)
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
+- [Ayobami Haastrup](https://github.com/AyobamiH)
 - [Ahmed Ikram](https://github.com/ahmed-cmyk)
 - [Rabih ND](https://github.com/RabihND)
 - [Aldair Huamani Cusi](https://github.com/Baku452)
