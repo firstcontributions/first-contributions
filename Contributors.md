@@ -42,6 +42,7 @@
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [ZigRazor](https://github.com/ZigRazor)
 - [Jasmine](https://github.com/jasminelee789)
+-[Joshua](https://github.com/kxng0109)
 - [Omkar Ashtekar](https://github.com/omkarun)
 - [Davis-sang](https://github.com/davis-sang)
 - [Yaynshet Medhin](https://github.com/yayner2002)
