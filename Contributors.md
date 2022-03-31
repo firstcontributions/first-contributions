@@ -1044,6 +1044,7 @@ Zack Bryant
 -[David Tawiah Glover](https://github.com/DTGlov)
 - [lordson fernando]
 - [Bryan Ortiz](https://github.com/ortizb)
+- [Eric S](https://github.com/esolano611)
 - [Vox]
 - [Amey Sawant](https://github.com/Amey0498)
 - [shment](https://github.com/shment7)
