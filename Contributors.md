@@ -19,6 +19,7 @@
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
+- [Muinde Nthusi](https://github.com/nthusi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nic Ledoux](https://github.com/NicLedoux/)
 - [Alexis Ballo](https://github.com/alexisballo2)
