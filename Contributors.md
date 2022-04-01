@@ -3,7 +3,8 @@
 <!-- prettier-ignore-start -->
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Shrey](https://github.com/shreykinshu)
--[Nikhil](https://github.com/Kirito-Excalibur)
+- [Rhett G](https://github.com/rhettg28)
+- [Nikhil](https://github.com/Kirito-Excalibur)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
@@ -19,6 +20,7 @@
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
+- [Saiyam Jain](https://github.com/itzsamdev)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Muinde Nthusi](https://github.com/nthusi)
@@ -35,6 +37,7 @@
 - [Nnaji Chimuanya](https://github/NnajiChimuanya)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Wasif Shehzad](https://github.com/wasif-shehzad)
+- [Divyangana](https://github.com/divyangana009)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
 - [Andy Wood](https://github.com/TheWoodenMan)
 - [Oladle Damilola](https://github.com/activus-d)
@@ -43,6 +46,7 @@
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
 - [Arun Pandey](https://github.com/EigenPandey)
+- [Elias Burgstaller](https://github.com/eliburgi)
 - [pastequeninja](https://github.com/pastequeninja)
 - [Texas Tangler](https://github.com/Texas-Tangler)
 - [skionide](https://github.com/Skye967)
@@ -66,6 +70,7 @@
 - [mxfoyster](https://github.com/mxfoyster)
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
+- [Lener]
 - [Sheikh Limon](https://github.com/sheikhlimon)
 - [idunne360](https://github.com/idunne360)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
@@ -107,6 +112,7 @@
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
 - [Tom Gooding](https://github.com/TomJGooding)
+- [Aleks Hatfield](https://github.com/aleks-hat)
 - [Sumanth P]
 - [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
@@ -225,6 +231,7 @@
 - [Diwanshi Gupta](https://github.com/diwanshib)
 - [Andres Calzadias](https://github.com/cmndrqueso)
 - [Fabien Naveau](https://github.com/FabienNaveau)
+  [weimingdiit](https://github.com/weimingdiit)
 - [Farah Rusli](https://github.com/fn-r)
 - [Luna](https://github.com/Lunamoon97)
 - [Delsan Anthony](https://github.com/delsananthony)
@@ -1272,6 +1279,7 @@
   -[Aditya Thakur](https://github.com/Aditya696/first-contributions.git)
 - [moo-yeol-lee](https://github.com/Lee-moo)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
+- [jtpfa](https://github.com/jtpfa)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
 - [Prabal Srivastava](https://github.com/prabal262002)
@@ -4272,6 +4280,7 @@
 - [SinKy](https://github.com/SinKy-Yan)
 - [MonsieurLundi](https://github.com/MonsieurLundi)
 - [Darío Liendo](https://github.com/dariogliendo)
+- [Nicolas Graf](https://github.com/NicolasGraf)
 - [Tim Tsai](https://github.com/tim08094495757)
 - [Ville Savolainen]
 - [79-k](https://github.com/79-k)
@@ -6060,6 +6069,8 @@
 
 - [ksat8384](https://github.com/ksat8384)
 
+- [Marcel Hans](https://github.com/marcelhans)
+
 - [Aditi Ojha](https://github.com/aditi824)
 
 - [Guilherme Natan](https://github.com/guiga1929)
@@ -7023,6 +7034,10 @@
 
 - [Jan Auth](https://github.com/janauth)
 
+
+
+- [Julirei] (https://github.com/julirei/)
+
 - [Ritvik Joshi](https://github.com/ritvikjoshi197
 
 - [Tomás Vigouroux](https://github.com/tvigouroux/)
@@ -7069,6 +7084,8 @@
 
 - [Jan K.] (https://github.com/Jns234)
 
+- [IronDogMedia-Russell] (https://github.com/rkasselman)
+- 
 - [Martin M.] (https://github.com/martinmakejev)
 
 - [Balazs Kepli] (https://github.com/keplib)
@@ -7146,7 +7163,9 @@
 - [Khoi Dang Nguyen](https://github.com/khoister)
 
 - [Ghada AbdulWahab](https://github.com/GAbdulWahab)
-
 - [Melissa](https://github.com/melissa-learns/)
+- [Jhet] (https://github.com/jhetchan/)
+- [KevinHarizaj](https://github.com/KevinHarizaj)
+- [r1verrr](https://github.com/r1verrr)
 <!-- prettier-ignore-end -->
 
