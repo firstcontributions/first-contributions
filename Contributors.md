@@ -7,6 +7,7 @@
 - [Shrey](https://github.com/shreykinshu)
 - [Rhett G](https://github.com/rhettg28)
 - [Nikhil](https://github.com/Kirito-Excalibur)
+- [Joe Helton] (https://github.com/JCHDeveloperGuy)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
