@@ -20,6 +20,7 @@
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
+- [Saiyam Jain](https://github.com/itzsamdev)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Muinde Nthusi](https://github.com/nthusi)
