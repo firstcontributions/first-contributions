@@ -4275,6 +4275,7 @@ Himanshu Dedha
 - [SinKy](https://github.com/SinKy-Yan)
 - [MonsieurLundi](https://github.com/MonsieurLundi)
 - [Darío Liendo](https://github.com/dariogliendo)
+- [Nicolas Graf](https://github.com/NicolasGraf)
 - [Tim Tsai](https://github.com/tim08094495757)
 - [Ville Savolainen]
 - [79-k](https://github.com/79-k)
