@@ -37,6 +37,7 @@
 - [Manan Bordia](https://github.com/mananbordia)
 - [pattycodes]
 - [Héctor]
+- [Juan Miguel Castellanos Jaramillo](https://github.com/jmiguelcastellanosj)
 - [Nnaji Chimuanya](https://github/NnajiChimuanya)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Wasif Shehzad](https://github.com/wasif-shehzad)
