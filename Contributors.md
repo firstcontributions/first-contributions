@@ -230,6 +230,7 @@
 - [Diwanshi Gupta](https://github.com/diwanshib)
 - [Andres Calzadias](https://github.com/cmndrqueso)
 - [Fabien Naveau](https://github.com/FabienNaveau)
+  [weimingdiit](https://github.com/weimingdiit)
 - [Farah Rusli](https://github.com/fn-r)
 - [Luna](https://github.com/Lunamoon97)
 - [Delsan Anthony](https://github.com/delsananthony)
