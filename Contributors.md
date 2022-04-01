@@ -6014,4 +6014,5 @@ Duncan Ledesma
 - [Khoi Dang Nguyen](https://github.com/khoister)
 - [Melissa](https://github.com/melissa-learns/)
 - [Jhet] (https://github.com/jhetchan/)
+- [KevinHarizaj](https://github.com/KevinHarizaj)
 <!-- prettier-ignore-end -->
