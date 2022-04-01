@@ -1245,7 +1245,7 @@
 - [Hardik Patel](https://github.com/hardikgpatel)
 - [Bipin Gosain](https://github.com/bipinGosain)
 - [Mohit Kumar](https://github.com/itsmohitmkk)
-- [Saahil Kumar Jha](https://github.com/JhaSaahil)
+- [Saahil Jha](https://github.com/JhaSaahil)
 - [Zodd13](https://github.com/Zodd13)
 - [Kieran Ford](https://github.com/kieranford4805)
 - [Muqimov Hamdam](https://github.com/mqhamdam)
