@@ -310,6 +310,7 @@
 - [JAAS] (https://github.com/jaas666)
 - [Filippos Makridis] (https://github.com/noobas32)
 - [Ahmed Alsubhi] (https://github.com/iAhmedAlsubhi)
+- [Samuel Marandi](https://github.com/samuel-marandi)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Blake Yeboah](https://github.com/Blake-K-Yeboah)
