@@ -109,6 +109,7 @@
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
 - [Tom Gooding](https://github.com/TomJGooding)
+- [Aleks Hatfield](https://github.com/aleks-hat)
 - [Sumanth P]
 - [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
