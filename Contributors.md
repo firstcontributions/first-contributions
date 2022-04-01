@@ -6021,4 +6021,5 @@ Duncan Ledesma
 - [Melissa](https://github.com/melissa-learns/)
 - [Jhet] (https://github.com/jhetchan/)
 - [KevinHarizaj](https://github.com/KevinHarizaj)
+- [r1verrr](https://github.com/r1verrr)
 <!-- prettier-ignore-end -->
