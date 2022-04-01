@@ -45,6 +45,7 @@
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
 - [Arun Pandey](https://github.com/EigenPandey)
+- [Elias Burgstaller](https://github.com/eliburgi)
 - [pastequeninja](https://github.com/pastequeninja)
 - [Texas Tangler](https://github.com/Texas-Tangler)
 - [skionide](https://github.com/Skye967)
