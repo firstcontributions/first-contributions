@@ -1299,7 +1299,7 @@
 - [Rohinish.k.singh](https://github.com/rohinish404)
 - [Ayesha Tahamid] (https://github.com/ayeshatahamid)
 - [Dhavalketu Darji] (https://github.com/dhavalketu)
-- [Markus Aly] (https://github.com/AlymAlym)
+- [Markus Alym] (https://github.com/AlymAlym)
 - [Abdelqader Al-Omari](https://github.com/abdelqader-alomari)
 - [DevXenon](https://github.com/HtetLinOo)
 - [Daniel Nel](https://github.com/Swzhydlta)
