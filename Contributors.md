@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [diana](https://github.com/difince)
+- [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Shrey](https://github.com/shreykinshu)
 - [Rhett G](https://github.com/rhettg28)
