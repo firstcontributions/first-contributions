@@ -5970,6 +5970,7 @@ Michael Wong
 - [Mavericks Balitaan] (https://github.com/mavericks-db)
 - [DJKal11] (https://github.com/DJkal11)
 - [Jan K.] (https://github.com/Jns234)
+- [IronDogMedia-Russell] (https://github.com/rkasselman)
 - [Martin M.] (https://github.com/martinmakejev)
 - [Balazs Kepli] (https://github.com/keplib)
 - [prayogaea01] (https://github.com/prayogaea01)
