@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Om Bhosale](https://github.com/OmegaCoding5505)
+- [Poirei Ngamba Singha K](https://github.com/poirei)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [diana](https://github.com/difince)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
