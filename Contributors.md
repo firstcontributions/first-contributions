@@ -11,6 +11,7 @@
 - [Tima Gixe](https://github.com/timagixe)
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Shrey](https://github.com/shreykinshu)
+- [electroNBS](https://github.com/electroNBS)
 - [Rhett G](https://github.com/rhettg28)
 - [Nikhil](https://github.com/Kirito-Excalibur)
 - [Joe Helton] (https://github.com/JCHDeveloperGuy)
