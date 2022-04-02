@@ -5975,6 +5975,7 @@ Michael Wong
 - [Ashfaaq Rifath](https://github.com/ashfaaqrifath)
 - [Amanuel Abebe](https://github.com/CodEZ47)
 - [Gustavo Rangel](https://github.com/gustavobrangel)
+- [Linda Shen](https://github.com/lindashendev)
 - [Albert Osei](https://github.com/Albert-Osei)
 - [Jan Auth](https://github.com/janauth)
 - [Julirei] (https://github.com/julirei/)
