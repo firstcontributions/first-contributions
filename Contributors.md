@@ -6038,4 +6038,5 @@ Duncan Ledesma
 - [r1verrr](https://github.com/r1verrr)
 - [Jonathan Yanez](https://github.com/jonathanyanez02)
 - [Dimitris Bouris](https://github.com/dbouris)
+- [Noah Nannen]
 <!-- prettier-ignore-end -->
