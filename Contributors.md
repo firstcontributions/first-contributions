@@ -2041,6 +2041,7 @@ yejashi
 - [Taise Miyazumi](https://github.com/tmiyazumi)
 - [Tyler Alexander](https://github.com/klikx)
 - [Pratik ](https://github.com/WarlordSam07)
+- [Ajayi Sijibomi](https://github.com/Sijibomii)
 - [Rini]
 - [ChaseE]
 - [IsmaFlippad](https://github.com/IsmaFlippad)
