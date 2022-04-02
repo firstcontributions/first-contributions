@@ -9,6 +9,7 @@
 - [Nikhil](https://github.com/Kirito-Excalibur)
 - [Joe Helton] (https://github.com/JCHDeveloperGuy)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
+- [crxtzonceu](https://github.com/crxtzonceu)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Zheng Li](https://github.com/nickync)
