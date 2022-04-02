@@ -6013,6 +6013,7 @@ Duncan Ledesma
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
 - [Selorm Lotsu](https://github.com/yaw-sid)
+- [Samuel Lalawmpuia](https://github.com/20cs109)
 - [Habeeb Awoyemi](https://github.com/habeebability)
 - [Jayant Rane](https://github.com/jayantrane)
 - [Suleyman Baris Eser](https://github.com/suleymanbariseser)
