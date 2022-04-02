@@ -131,6 +131,7 @@ Gavriel Frant
 - [Razeed](https://github.com/j-razeed)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
+- [Sai Sreekar] (https://github.com/electroNBS)
 - [Tirenioluwa Shobande]
 - [Jack Mulligan](https://github.com/jackmulligan-ire/)
 - [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
