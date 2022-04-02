@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Om Bhosale](https://github.com/OmegaCoding5505)
 - [diana](https://github.com/difince)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Caroline SENES](https://github.com/CarolineSenes)
