@@ -90,6 +90,7 @@
 - [skyskyha] (https://github.com/skyskyha)
 - [mia] (https://github.com/MiaPisan)
 - [Riordanis22] (https://github.com/Riordanis)
+- [Huzefa](https://github.com/HuzefaC)
 - [McMoffin](https://github.com/mcMoffin)
 - [CodeWithUma](https://github.com/CodeWithUma)
 - [Arquimidio] (https://github.com/Arquimidio)
