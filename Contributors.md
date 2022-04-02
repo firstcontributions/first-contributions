@@ -144,6 +144,7 @@
 - [Victoria] (github.com/vjordan-cs)
 - [Sana]
 - [Matt Villa](https://github.com/mv805)
+Vedant Borkar
 - [Ibukun Ekunwe](https://github.com/ekunweibukun)
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Icy Parkinson] (github.com/icyparkinson)
