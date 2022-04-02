@@ -183,6 +183,7 @@
 - [Amara Enwerem](https://github.com/theamara111)
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Jus Buckingham](https://github.com/jusbuckingham)
+- [Sebastian](https://github.com/M4ntes)
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Valentin Montagné](https://github.com/montagnev)
 -[Bhavana Hebbar](https://github.com/BhavanaHebbar)
