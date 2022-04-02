@@ -17,6 +17,7 @@
 - [crxtzonceu](https://github.com/crxtzonceu)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
+- [edaro27](https://github.com/edaro27)
 - [Zheng Li](https://github.com/nickync)
 - [Rahul Pundir](https://github.com/iamr9r)
 - [Alvin Alic](https://github.com/aalic1)
