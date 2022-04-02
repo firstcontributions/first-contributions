@@ -6031,4 +6031,5 @@ Duncan Ledesma
 - [Jhet] (https://github.com/jhetchan/)
 - [KevinHarizaj](https://github.com/KevinHarizaj)
 - [r1verrr](https://github.com/r1verrr)
+- [Jonathan Yanez](https://github.com/jonathanyanez02)
 <!-- prettier-ignore-end -->
