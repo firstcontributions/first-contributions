@@ -35,6 +35,7 @@
 - [Badal Pareta] (https://github.com/badalpareta)
 - [sachin patil] (https://github.com/sachin112211)
 - [Flamintus Maximus](https://github.com/Flamintus)
+- [Mukhtar Onifade](https://github.com/basfar)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
