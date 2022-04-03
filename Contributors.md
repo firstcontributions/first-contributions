@@ -340,6 +340,7 @@ Vedant Borkar
 - [PW] (https://gihub.com/pvwali)
 - [Raquel] (https://github.com/rakicodes)
 - [Izzy H.]
+- [Pramila Tamang](https://github.com/pramila09)
 - [Ben Janac](https://github.com/orobor0s/)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
 - [Jesuferanmi Asiyanbi](https://github.com/Pherizee)
