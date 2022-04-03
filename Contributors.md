@@ -164,6 +164,7 @@ Vedant Borkar
 - [Lee Lacey] (github.com/ll8464)
   [Seethin] (https://github.com/Seethin)
 - [Couches] (https://github.com/Couches)
+- [Salvatore Bottiglieri] (https://github.com/petrosso96)
 - [Sten P] (https://github.com/Sphvy)
 - [Raghu Kokku]
 - [William Long] (https://github.com/wlong0477)
