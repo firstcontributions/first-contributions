@@ -356,7 +356,7 @@ Vedant Borkar
 - [Dhineshkumar R] (https://github.com/dk017)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
-- [Simon H] (https://github.com/nomishdr)
+- [Simon H](https://github.com/nomishdr)
 - [Samia Alghamdi]
 - [Adam Pudliner](https://github.com/adampudliner)
 - [Shoeb Meti](https://github.com/Mystogan2000)
