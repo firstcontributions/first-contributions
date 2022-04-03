@@ -47,6 +47,7 @@
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
 - [Manan Bordia](https://github.com/mananbordia)
 - [pattycodes]
+- [Chad Watson](https://github.com/kaedda)
 - [Héctor]
 - [Juan Miguel Castellanos Jaramillo](https://github.com/jmiguelcastellanosj)
 - [Nnaji Chimuanya](https://github/NnajiChimuanya)
