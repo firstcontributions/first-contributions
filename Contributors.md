@@ -1,4 +1,4 @@
-# **Contributors**
+﻿# **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Om Bhosale](https://github.com/OmegaCoding5505)
@@ -1026,6 +1026,7 @@ Zack Bryant
 - Gloria 
 - Abdulaziz
 - ssp
+-Vasudev
 - [Codelikesuraj](https://github.com/codelikesuraj)
 - [Kalp Shah] (https://github.com/kalpshah485)
 - [JDaddy] (https://github.com/Jason8830)
