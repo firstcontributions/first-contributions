@@ -417,6 +417,7 @@ Vedant Borkar
 - [Brendan Jensen]
 - [Alan Zhen] (https://github.com/Azhen917)
 - [Matt Phillips] (https://github.com/mjp9876)
+- [Parker Duncan] (kttps://github.com/ParkerDuncanDev)
 - [Dev Patel] (https://github.com/Virus2466)
 - [Mart Anthony Salazar](https://github.com/mart-anthony-stark)
 - [Alexander Oakley](https://github.com/oakla/first-contributions)
