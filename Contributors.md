@@ -49,6 +49,7 @@
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
 - [Manan Bordia](https://github.com/mananbordia)
+- [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
 - [Chad Watson](https://github.com/kaedda)
 - [Héctor]
