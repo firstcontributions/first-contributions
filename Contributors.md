@@ -330,6 +330,7 @@ Vedant Borkar
 - [Ahmed Alsubhi] (https://github.com/iAhmedAlsubhi)
 - [Samuel Marandi](https://github.com/samuel-marandi)
 - [C.N. Mbhalati](https://github.com/CN-M)
+- [BemaFisher] (https://github.com/BemaFisher)
 - [Pritesh Dhandhukia](https://github.com/pritxxh)
 - [Blake Yeboah](https://github.com/Blake-K-Yeboah)
 - [PW] (https://gihub.com/pvwali)
