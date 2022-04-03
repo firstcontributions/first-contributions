@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Om Bhosale](https://github.com/OmegaCoding5505)
+- [Hernan Garcia](https://github.com/hernangarcia1517)
 - [John Michael Darrin](https://github.com/JohnMichaelD)
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - [Kieran Klukas](https://github.com/kcoderhtml)
