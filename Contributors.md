@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Om Bhosale](https://github.com/OmegaCoding5505)
+- [Code Puppies] (https://github.com/codepuppies88)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
 - [Kyaw San Oo](https://github.com/kyawsanoo12)
 - [John Michael Darrin](https://github.com/JohnMichaelD)
