@@ -35,6 +35,7 @@
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Sadie Manicom](https://github.com/sadienicole)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
+- [Aidan Comer](https://github.com/alhcomer)
 - [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
 - [Md Hasibul Kabir](https://github.com/hasibul134409)
 - [Badal Pareta] (https://github.com/badalpareta)
