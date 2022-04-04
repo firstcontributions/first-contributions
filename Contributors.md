@@ -6081,4 +6081,5 @@ Duncan Ledesma
 - -[Suman Roy](https://github.com/Suman373)
 - [Alexandr]
 - [David](https://github.com/DatskoDavid)
+- [Pietras](https://github.com/PietrasWoo)
 <!-- prettier-ignore-end -->
