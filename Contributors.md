@@ -6066,6 +6066,7 @@ Duncan Ledesma
 - [Jonathan Yanez](https://github.com/jonathanyanez02)
 - [Dimitris Bouris](https://github.com/dbouris)
 - [Logan Thoreson](https://github.com/lthoreson)
+- [Leonardo Estrada](https://github.com/leovere)
 - [Noah Nannen]
 - -[Suman Roy](https://github.com/Suman373)
 - [Alexandr]
