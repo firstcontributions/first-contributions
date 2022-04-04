@@ -12,6 +12,7 @@
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [diana](https://github.com/difince)
+- [Modern Mariner]
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Tima Gixe](https://github.com/timagixe)
