@@ -5,7 +5,7 @@
 - [Hernan Garcia](https://github.com/hernangarcia1517)
 - [Kyaw San Oo](https://github.com/kyawsanoo12)
 - [John Michael Darrin](https://github.com/JohnMichaelD)
-- [Emmanuel Bamidele](https://github.com/Emmanuel-Bamidele)
+- [Emmanuel Anuoluwa Bamidele](https://github.com/Emmanuel-Bamidele)
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [diana](https://github.com/difince)
