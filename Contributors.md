@@ -1470,6 +1470,7 @@ Justin Villena
 - [Vats Patel] (https://github.com/Vats14)
 Tristan Bottone
 -Daymao Silva
+-Vasudeva
 - [Luca Consalvi](https://github.com/Luk4e)
 - [Cindel Guerrero] (https://github.com/Cindel17)
 - [Nitesh Kumar](https://github.com/NITESH37)
