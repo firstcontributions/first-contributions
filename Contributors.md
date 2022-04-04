@@ -67,6 +67,7 @@
 - [Ashish vajpayee](https://github.com/Ashish-Vajpayee)
 - [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
+- yzz
 - [Shashank S](https://github.com/Shashankshaji)
 - [Arun Pandey](https://github.com/EigenPandey)
 - [Elias Burgstaller](https://github.com/eliburgi)
