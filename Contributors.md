@@ -79,6 +79,7 @@
 - [ZigRazor](https://github.com/ZigRazor)
 - [Jasmine](https://github.com/jasminelee789)
 - [Joshua](https://github.com/kxng0109)
+- [Antoine Q.](https://github.com/antoine-q)
 - [Omkar Ashtekar](https://github.com/omkarun)
 - [Davis-sang](https://github.com/davis-sang)
 - [Yaynshet Medhin](https://github.com/yayner2002)
