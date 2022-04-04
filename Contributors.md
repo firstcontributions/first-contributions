@@ -6061,6 +6061,7 @@ Duncan Ledesma
 - [r1verrr](https://github.com/r1verrr)
 - [Jonathan Yanez](https://github.com/jonathanyanez02)
 - [Dimitris Bouris](https://github.com/dbouris)
+- [Logan Thoreson](https://github.com/lthoreson)
 - [Noah Nannen]
 - -[Suman Roy](https://github.com/Suman373)
 - [Alexandr]
