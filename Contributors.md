@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 - [Code Puppies] (https://github.com/codepuppies88)
+- [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
 - [Kyaw San Oo](https://github.com/kyawsanoo12)
