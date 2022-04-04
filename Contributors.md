@@ -3035,6 +3035,7 @@ Himanshu Dedha
 - [Maryll Castelino](https://github.com/Maryll-castelino)
 - [Meleyotan Oyeleke](https://github.com/Meleyotan)
 - [Subham Ghosh](https://github.com/subhamgcon)
+- [Nadia Schmidtke](https://github.com/Nadia-JSch/)
 - [Aashish Illa](https://github.com/aashish0909)
 - [Shikonn Tamanegi](https://github.com/Shikunsh)
 - [Aditya Shahari](https://github.com/Aditya-Shahari)
