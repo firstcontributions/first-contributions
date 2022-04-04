@@ -6000,6 +6000,7 @@ Michael Wong
 - [Jose Luis] (https://github.com/lujoselu98)
 - [Thomas Warren](https://github.com/ThomasWarren2147)2
 - [Kevin Ahn](https://github.com/maketheworldwise)
+- [BntM] (https://github.com/BntM)
 - [Ashfaaq Rifath](https://github.com/ashfaaqrifath)
 - [Amanuel Abebe](https://github.com/CodEZ47)
 - [Gustavo Rangel](https://github.com/gustavobrangel)
