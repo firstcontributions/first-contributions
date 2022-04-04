@@ -2408,6 +2408,7 @@ yejashi
 - [Riz Delos Reyes](https://github.com/vantevie)
 - [Kaustubh Joshi](https://github.com/kaustubhjoshi1910)
 - [Raghav Agrawal](https://github.com/agraghav26)
+- [Jonah Wagner](https://github.com/devbyjonah)
 - [Christine Amuzie](https://github.com/broaderimpact)
 - [Amogh Badugu](https://github.com/abadugu13/)
 - [Luis Carranza](https://github.com/Ulaznar)
