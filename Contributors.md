@@ -144,6 +144,7 @@
 - [Ben Mead](github.com/bmead221)
 - [Tom Gooding](https://github.com/TomJGooding)
 - [Aleks Hatfield](https://github.com/aleks-hat)
+- [Aavash Chhetri](https://github.com/A-atmos)
 - [Sumanth P]
 - [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
