@@ -5,6 +5,7 @@
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
+- [Andre Alves](https://github.com/andrealvesaraujo)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
 - [Kyaw San Oo](https://github.com/kyawsanoo12)
 - [John Michael Darrin](https://github.com/JohnMichaelD)
