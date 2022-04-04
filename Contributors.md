@@ -444,6 +444,7 @@ Vedant Borkar
 - [Priyank Harjilawala] (https://github.com/Priyank1712)
 - [Anil Kumar] (https://github.com/anil10032)
 - [Vamsi Vemur] https://github.com/ramv2014
+- [Gerry] (https://github.com/gerryau)
 - [Ayden Kauffman] (https://github.com/AKauffy)
 - [Neevan] (https://github.com/neevan01)
 - [Noah Nannen] (https://github.com/Noah-nannen)
