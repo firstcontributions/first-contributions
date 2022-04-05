@@ -32,6 +32,7 @@
 -[Odari Atongo](https://github.com/Odari-Atongo)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
+- [Andrea Ubbiali](https://github.com/aubbiali)
 - [edaro27](https://github.com/edaro27)
 - [Jyoti Bhaliyan](https://github.com/Jbhaliyan)
 - [Zheng Li](https://github.com/nickync)
