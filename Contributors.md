@@ -2197,6 +2197,7 @@ yejashi
 - [Christopher William Driggers-Ellis](https://github.com/CWDE615)
 - [Samuel Fye](https://github.com/henfye)
 - [Chandan M S](https://github.com/zac-candy)
+- [Ivan Safronov](https://github.com/issafronov)
 - [Arnav Puri](https://github.com/ArnavPuri)
 - [Shuto Osawa](https://github.com/ShutoOsawa)
 - [Zaid Mujahid](https://github.com/ZaidMujahid)
