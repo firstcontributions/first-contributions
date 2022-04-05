@@ -595,6 +595,7 @@ Vedant Borkar
 - [Junyu Li](https://github.com/qununb)
 - Shubham Kanekal 
 - Tran Linh Dang
+- [Chantelle](https://github.com/bella77-69)
 - spiritedDreamer3001
 - DataThink2021 (https://github.com/Data-Think-2021)
 - Binil Tom Jose(https://github.com/BinilTomJose1278)2
@@ -6106,4 +6107,5 @@ Duncan Ledesma
 - [Dhanashree](https://github.com/dsjambekar)
 - [غاده عبدالوهاب](https://github.com/GAbdulWahab)
 - [ilias](https://github.com/iliakesk)
+
 <!-- prettier-ignore-end -->
