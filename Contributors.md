@@ -899,6 +899,7 @@ itay-guter
 -[Ming Ng](https://github.com/redconOne)
 -[Bradley Essegian](https://github.com/bradd07)
 -[Anas Jehani](https://github.com/Ajehani)
+-[Douglas Kent](https://github.com/dglhke)
 -[Yosef Melul] (https://github.com/ymelul342)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
