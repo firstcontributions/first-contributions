@@ -290,6 +290,7 @@ Vedant Borkar
 - [Linh Dang]
 - [Tran Dang]
 - [AL]
+- [SimonS]
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
 - [Mahmoud Hamdy]
