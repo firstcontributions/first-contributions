@@ -3542,6 +3542,7 @@ Himanshu Dedha
 - [Greg Vincent](https://github.com/gregjvincent)
 - [Mohit N]
 - [Raj Singh](https://github.com/rajsingh619)
+- [Nguyen-Hanh Nong](https://github.com/Nguyen-HanhNong)
 - [J Delaney](https://github.com/Juniper11)
 - [Gottfried Owono](https://github.com/Ge0ni)
 - [myo thant kyaw](https://github.com/myothant88)
