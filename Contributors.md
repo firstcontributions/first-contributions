@@ -28,6 +28,7 @@
 - [Joe Helton] (https://github.com/JCHDeveloperGuy)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [crxtzonceu](https://github.com/crxtzonceu)
+-[Odari Atongo](https://github.com/Odari-Atongo)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
 - [edaro27](https://github.com/edaro27)
