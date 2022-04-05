@@ -6080,6 +6080,7 @@ Duncan Ledesma
 - [quirkeey](https://github.com/quirkeey)
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
+- [Valerio Wallin](https://github.com/valjason)
 - [William Albert] (https://github.com/wlow1211)
 - [bashkirian](https://github.com/bashkirian)
 - [Vadim Filimonov](https://github.com/vadimfilimonov)
