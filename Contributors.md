@@ -326,6 +326,7 @@ Vedant Borkar
 - [Gagan Garg]
 - Tze Chung Tai
 - [Ethan Hopkins](https://github.com/sauceori)
+- [Neil Hanlon] 
 - [Sneha Supriya](https://github.com/codingsneha)
 - [Jacob Yancey]
 - [Mayank Sharma](https://github.com/aimhack3r)
