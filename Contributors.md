@@ -39,6 +39,7 @@
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Sadie Manicom](https://github.com/sadienicole)
+- [Moad Akhraz](https://github.com/mdakh404)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Aidan Comer](https://github.com/alhcomer)
 - [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
