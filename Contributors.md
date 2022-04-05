@@ -3,6 +3,9 @@
 <!-- prettier-ignore-start -->
 
 - [Om Bhosale](https://github.com/OmegaCoding5505) -[Somesh Kumar Thakur](https://github.com/someshthakur90)
+- [AAleksandros](https://github.com/AAleksandros)
+- [Om Bhosale](https://github.com/OmegaCoding5505)
+-[Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
