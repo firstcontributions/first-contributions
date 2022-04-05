@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [AAleksandros](https://github.com/AAleksandros)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 -[Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Code Puppies] (https://github.com/codepuppies88)
