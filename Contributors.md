@@ -74,6 +74,7 @@
 Indra Sonowal
 - [gigo64](https://github.com/gigo64)
 - [Héctor]
+- [Michael Reyna] (https://github.com/MReyna12)
 - [Juan Miguel Castellanos Jaramillo](https://github.com/jmiguelcastellanosj)
 - [Nnaji Chimuanya](https://github/NnajiChimuanya)
 - [Pritam Panda](https://github.com/Pritam0077)
