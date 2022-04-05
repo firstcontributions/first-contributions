@@ -2088,6 +2088,7 @@ yejashi
 - [Rini]
 - [ChaseE]
 - [IsmaFlippad](https://github.com/IsmaFlippad)
+- [Brian Ervin]
 - [Michael Huskey] (https://github.com/mhusk)
 - [Varun](https://github.com/Varun080)
 - [Bryan Endres](https://github.com/bendres97)
