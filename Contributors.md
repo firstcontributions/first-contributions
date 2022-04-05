@@ -17,6 +17,7 @@
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
 - [jake hourani]
+- [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Tima Gixe](https://github.com/timagixe)
