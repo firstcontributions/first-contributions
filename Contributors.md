@@ -16,6 +16,7 @@
 - [diana](https://github.com/difince)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
+- [jake hourani]
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Tima Gixe](https://github.com/timagixe)
