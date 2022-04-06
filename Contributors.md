@@ -19,6 +19,7 @@
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
 - [timothy luedtke](https://github.com/timothyluedtke)
+- [simon wu](https://github.com/simon-engineer)
 - [jake hourani]
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
