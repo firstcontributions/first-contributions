@@ -3107,6 +3107,7 @@ Himanshu Dedha
 - [Chirantan Acharyya](https://github.com/chirantan-acharyya)
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
+- [Anshuman Sathua](https://github.com/anshu-21)
 - [Namita Rastogi](https://github.com/Ashley936)
 - [Jithin Krishnan](https://github.com/jithinkrishnanrs)
 - [Kalyan Chirla](https://github.com/kalyanchirla)
