@@ -48,6 +48,7 @@
 - [Clenio Filho](https://github.com/fhclenio)
 - [Andrea Ubbiali](https://github.com/aubbiali)
 - [edaro27](https://github.com/edaro27)
+- [Ale Castillo](https://github.com/aleepsy)
 - [Jyoti Bhaliyan](https://github.com/Jbhaliyan)
 - [Zheng Li](https://github.com/nickync)
 - [Rahul Pundir](https://github.com/iamr9r)
