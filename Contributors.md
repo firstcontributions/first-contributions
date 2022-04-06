@@ -8,6 +8,7 @@
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
 - [Andre Alves](https://github.com/andrealvesaraujo)
+- [Michael Conrad Viray (MCV)](github.com/michaelsandiegoviray)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
 - [Kyaw San Oo](https://github.com/kyawsanoo12)
 - [John Michael Darrin](https://github.com/JohnMichaelD)
@@ -6092,7 +6093,7 @@ Duncan Ledesma
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
 - [Valerio Wallin](https://github.com/valjason)
-- [William Albert] (https://github.com/wlow1211)
+- [William Albert] (https://github.com/wlow1211)2
 - [bashkirian](https://github.com/bashkirian)
 - [Vadim Filimonov](https://github.com/vadimfilimonov)
 - [zerone0x](https://github.com/zerone0x)
