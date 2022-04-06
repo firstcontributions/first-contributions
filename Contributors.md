@@ -5,7 +5,7 @@
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
--[Somesh Kumar Thakur](https://github.com/someshthakur90)
+- [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
@@ -29,6 +29,7 @@
 - [jake hourani]
 - [bbulakit](https://github.com/bbulakit)
 - [MrHerbalizer](https://github.com/MrHerbalizer)
+- [Chrstphr Hll](https://github.com/ChrstphrHll)
 - [Andrew Whitman]
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
