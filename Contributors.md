@@ -19,6 +19,7 @@
 - [Modern Mariner]
 - [jake hourani]
 - [MrHerbalizer](https://github.com/MrHerbalizer)
+- [Andrew Whitman]
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Tima Gixe](https://github.com/timagixe)
