@@ -26,6 +26,7 @@
 - [jake hourani]
 - [bbulakit](https://github.com/bbulakit)
 - [MrHerbalizer](https://github.com/MrHerbalizer)
+- [Andrew Whitman]
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Taylor Kelly](https://github.com/AbbaZabbaCodes)
