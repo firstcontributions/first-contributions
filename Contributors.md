@@ -24,6 +24,7 @@
 - [timothy luedtke](https://github.com/timothyluedtke)
 - [simon wu](https://github.com/simon-engineer)
 - [jake hourani]
+- [bbulakit](https://github.com/bbulakit)
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
