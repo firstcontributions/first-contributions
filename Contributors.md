@@ -28,6 +28,7 @@
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
+- [Taylor Kelly](https://github.com/AbbaZabbaCodes)
 - [Tima Gixe](https://github.com/timagixe)
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Shrey](https://github.com/shreykinshu)
