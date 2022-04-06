@@ -11,6 +11,7 @@
 - [Andre Alves](https://github.com/andrealvesaraujo)
 - [Michael Conrad Viray (MCV)](github.com/michaelsandiegoviray)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
+- [Log](https://github.com/logbasetwo)
 - [Kyaw San Oo](https://github.com/kyawsanoo12)
 - [John Michael Darrin](https://github.com/JohnMichaelD)
 - [Emmanuel Anuoluwa Bamidele](https://github.com/Emmanuel-Bamidele)
