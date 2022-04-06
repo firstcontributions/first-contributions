@@ -4,10 +4,11 @@
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
--[Somesh Kumar Thakur](https://github.com/someshthakur90)
+- [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
+- [Matias Guarnera](https://github.com/matiasg11)
 - [Andre Alves](https://github.com/andrealvesaraujo)
 - [Michael Conrad Viray (MCV)](github.com/michaelsandiegoviray)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
@@ -38,7 +39,7 @@
 - [Joe Helton] (https://github.com/JCHDeveloperGuy)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [crxtzonceu](https://github.com/crxtzonceu)
--[Odari Atongo](https://github.com/Odari-Atongo)
+- [Odari Atongo](https://github.com/Odari-Atongo)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Andrea Ubbiali](https://github.com/aubbiali)
@@ -81,7 +82,7 @@
 - [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
 - [Chad Watson](https://github.com/kaedda)
-Indra Sonowal
+-  Indra Sonowal
 - [gigo64](https://github.com/gigo64)
 - [Héctor]
 - [Michael Reyna] (https://github.com/MReyna12)
