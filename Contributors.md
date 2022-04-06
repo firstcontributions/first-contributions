@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Oscar](https://github.com/zitrocode)
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
