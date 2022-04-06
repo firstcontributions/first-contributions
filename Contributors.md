@@ -442,6 +442,7 @@ Vedant Borkar
 - [Daniel Jansson]
 - [Kaiden H] (https://github.com/dratsuC)
 - [Nokhalal Mahato] (https://github.com/nk412k)
+- [Himanshu Shekhar] (https://github.com/Shekhar1276)
 - [Veronica Yap]
 - [Melvyn Fontaine] (https://github.com/Nirsu)
 - [Bharat] (https://github.com/nicobreins)
