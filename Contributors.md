@@ -18,6 +18,7 @@
 - [Marja Centina] (https://github.com/murrha)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
+- [timothy luedtke](https://github.com/timothyluedtke)
 - [jake hourani]
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
