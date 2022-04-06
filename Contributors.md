@@ -1751,6 +1751,7 @@ yejashi
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
 - [Vikhyath S](https://github.com/vikhyathdevadiga)
+- [paritoshbhtt (https://github.com/paritoshbhtt)]
 - [Billy Bao](https://github.com/biligeny)
 - [Philip Maglieri] (https://github.com/Mr-PMAG)
 - [Sudarshan S] (https://github.com/sudarshan-hub)
