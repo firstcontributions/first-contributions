@@ -3158,6 +3158,7 @@ Himanshu Dedha
 - [Ze Kai Cheong](https://github.com/ZeKaiCheong)
 - [Akash Panwar](https://github.com/akshpnwr)
 - [sunzida311](https://github.com/sunzida311)
+- [Anshuman Sathua](https://github.com/anshu-21)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
 - [Nawal Ahmad](https://github.com/nawal-ahmad)
