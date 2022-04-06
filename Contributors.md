@@ -66,6 +66,7 @@
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Muinde Nthusi](https://github.com/nthusi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
+- [Nathaniel Vo](https://github.com/midnightslushie)
 - [Behnam Haddadian](https://github.com/Behnam-H)
 - [Nic Ledoux](https://github.com/NicLedoux/)
 - [Alexis Ballo](https://github.com/alexisballo2)
