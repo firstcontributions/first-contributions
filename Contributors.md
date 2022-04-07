@@ -46,7 +46,7 @@
 - [Joe Helton] (https://github.com/JCHDeveloperGuy)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [crxtzonceu](https://github.com/crxtzonceu)
--[Odari Atongo](https://github.com/Odari-Atongo)
+- [Odari Atongo](https://github.com/Odari-Atongo)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Andrea Ubbiali](https://github.com/aubbiali)
@@ -91,6 +91,7 @@
 - [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
 - [Chad Watson](https://github.com/kaedda)
+- [wuteek]
 Indra Sonowal
 - [gigo64](https://github.com/gigo64)
 - [Héctor]
