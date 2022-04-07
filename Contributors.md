@@ -47,6 +47,7 @@
 - [electroNBS](https://github.com/electroNBS)
 - [Rhett G](https://github.com/rhettg28)
 - [Nikhil](https://github.com/Kirito-Excalibur)
+  [Xoalh](https://github.com/Xoalh)
 - [Joe Helton] (https://github.com/JCHDeveloperGuy)
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [crxtzonceu](https://github.com/crxtzonceu)
