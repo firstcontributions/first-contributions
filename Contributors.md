@@ -130,7 +130,8 @@ Indra Sonowal
 - [BL7Awy](https://github.com/goar5670)
 - [kenmwangi](https://github.com/kenmwangi)
 - [WLHSDXN](https://github.com/WLHSDXN)
-- [Tomiwa]
+- [Tomiwa]'
+- [Kealan Mawhinney](https://github.com/kmawhinney)
   [Erica Sue](https://github.com/Duckibear)
 - [mxfoyster](https://github.com/mxfoyster)
 - [Pedro Moyano](https://github.com/petermoyano)
