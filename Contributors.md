@@ -8,6 +8,7 @@
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
+- [Alireza Jahandoost](https://github.com/alireza-jahandoost)
 - [Oyekola Toheeb](https://github.com/To-heeb)
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
