@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Rachelle](https://github.com/jollypolly123)
 - [Oscar](https://github.com/zitrocode)
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
