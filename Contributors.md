@@ -6147,4 +6147,5 @@ Duncan Ledesma
 - [غاده عبدالوهاب](https://github.com/GAbdulWahab)
 - [ilias](https://github.com/iliakesk)
 - [Boyeon Ihn](https://github.com/boyeonihn)
+- [João Vítor Borges](https://github.com/JVBorges)
 <!-- prettier-ignore-end -->
