@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Wizard-F](https://github.com/Wizard-F)
 - [Rachelle](https://github.com/jollypolly123)
 - [Oscar](https://github.com/zitrocode)
 - [AAleksandros](https://github.com/AAleksandros)
