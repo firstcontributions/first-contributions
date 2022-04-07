@@ -28,6 +28,7 @@
 - [Modern Mariner]
 - [timothy luedtke](https://github.com/timothyluedtke)
 - [simon wu](https://github.com/simon-engineer)
+- [Emmanuel Akanji](https://github.com/manny-uncharted)
 - [jake hourani]
 - [bbulakit](https://github.com/bbulakit)
 - [MrHerbalizer](https://github.com/MrHerbalizer)
