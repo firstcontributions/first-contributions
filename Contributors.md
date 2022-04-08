@@ -29,6 +29,7 @@
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
 - [Marja Centina] (https://github.com/murrha)
+- [Kristin Harris] (https://github.com/reverie64)
 - [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
