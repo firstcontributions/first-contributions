@@ -6157,4 +6157,5 @@ Duncan Ledesma
 - [Boyeon Ihn](https://github.com/boyeonihn)
 - [João Vítor Borges](https://github.com/JVBorges)
 - [Brian Chalfant](https://github.com/brian-chalfant)
+- [Chang Si Kai](https://github.com/sikai00)
 <!-- prettier-ignore-end -->
