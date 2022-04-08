@@ -32,7 +32,7 @@
 - [Omar Shehata](https://github.com/OIS202)
 - [timothy luedtke](https://github.com/timothyluedtke)
 - [simon wu](https://github.com/simon-engineer)
-- [Emmanuel Akanji](https://github.com/manny-uncharted)
+- [thantzin win](https://github.com/Micheal-Winn)
 - [jake hourani]
 - [bbulakit](https://github.com/bbulakit)
 - [Doug_Shipman](https://github.com/explr77)
