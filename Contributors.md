@@ -2,6 +2,8 @@
 
 <!-- prettier-ignore-start -->
 - [Toby]
+- [IIvexII](https://github.com/IIvexII)
+- [MTM]
 - [andrewkuhl](https://github.com/andrewkuhl)
 - [Wizard-F](https://github.com/Wizard-F)
 - [Rachelle](https://github.com/jollypolly123)
@@ -6139,6 +6141,7 @@ Duncan Ledesma
 - [Eric Anderson](https://github.com/speakertorockets)
 - [Khoi Dang Nguyen](https://github.com/khoister)
 - [Melissa](https://github.com/melissa-learns/)
+- [Matt Cowan](https://github.com/mattbcowan)
 - [Jhet] (https://github.com/jhetchan/)
 - [KevinHarizaj](https://github.com/KevinHarizaj)
 - [r1verrr](https://github.com/r1verrr)
@@ -6158,4 +6161,5 @@ Duncan Ledesma
 - [Boyeon Ihn](https://github.com/boyeonihn)
 - [João Vítor Borges](https://github.com/JVBorges)
 - [Brian Chalfant](https://github.com/brian-chalfant)
+- [Chang Si Kai](https://github.com/sikai00)
 <!-- prettier-ignore-end -->
