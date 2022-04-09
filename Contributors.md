@@ -9,6 +9,7 @@
 - [Wizard-F](https://github.com/Wizard-F)
 - [Rachelle](https://github.com/jollypolly123)
 - [Oscar](https://github.com/zitrocode)
+- [Ronak](https://github.com/ronakvir)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
