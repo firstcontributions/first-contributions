@@ -1,6 +1,9 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [IIvexII](https://github.com/IIvexII)
+- [MTM]
+- [andrewkuhl](https://github.com/andrewkuhl)
 - [Wizard-F](https://github.com/Wizard-F)
 - [Rachelle](https://github.com/jollypolly123)
 - [Oscar](https://github.com/zitrocode)
@@ -22,11 +25,17 @@
 - [John Michael Darrin](https://github.com/JohnMichaelD)
 - [Emmanuel Anuoluwa Bamidele](https://github.com/Emmanuel-Bamidele)
 - [Poirei Ngamba Singha K](https://github.com/poirei)
+- Mason C
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
+- [wuteek]
 - [Marja Centina](https://github.com/murrha)
 - [Yang Tuấn Anh](https://github.com/YangTuanAnh)
+- [Marja Centina] (https://github.com/murrha)
+- [Kristin Harris] (https://github.com/reverie64)
+- [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
+- [master]
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
 - [Omar Shehata](https://github.com/OIS202)
@@ -35,6 +44,7 @@
 - [Emmanuel Akanji](https://github.com/manny-uncharted)
 - [jake hourani]
 - [bbulakit](https://github.com/bbulakit)
+- [Doug_Shipman](https://github.com/explr77)
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Chrstphr Hll](https://github.com/ChrstphrHll)
 - [Andrew Whitman]
@@ -4639,6 +4649,7 @@ yejashi
 - [Curtis Allyn Green](https://github.com/CurtGreen)
 - [Andreass Jessen](https://github.com/BurningTrapezoid)
 - [Henrique Batista](https://github.com/RiqueBR)
+- [Justin Le](https://github.com/twopcz)
 - [Piotr Pomierski](https://github.com/Pomierski)
 - [Phanthro](https://github.com/Phanthro)
 - [VigneshLingam](https://github.com/VigneshLingam)
@@ -6135,6 +6146,7 @@ yejashi
 - [Eric Anderson](https://github.com/speakertorockets)
 - [Khoi Dang Nguyen](https://github.com/khoister)
 - [Melissa](https://github.com/melissa-learns/)
+- [Matt Cowan](https://github.com/mattbcowan)
 - [Jhet] (https://github.com/jhetchan/)
 - [KevinHarizaj](https://github.com/KevinHarizaj)
 - [r1verrr](https://github.com/r1verrr)
@@ -6154,4 +6166,5 @@ yejashi
 - [Boyeon Ihn](https://github.com/boyeonihn)
 - [João Vítor Borges](https://github.com/JVBorges)
 - [Brian Chalfant](https://github.com/brian-chalfant)
+- [Chang Si Kai](https://github.com/sikai00)
 <!-- prettier-ignore-end -->
