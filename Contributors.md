@@ -170,6 +170,7 @@ Indra Sonowal
 - [Bibek Chand](https://github.com/bibekchand)
 - [Brandon Maurice](https://github.com/bmaurice98)
 - [Tony]
+- [Anjia Cao]
 - [David Meadows] (https://github.com/dmeadows8585)
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Augusto](https://github.com/augustoibarrola)
