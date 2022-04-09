@@ -3134,6 +3134,7 @@ Himanshu Dedha
 - [Panos J. Chatziioannou](https://github.com/Panos-JC)
 - [xDavide9](https://github.com/xDavide9)
 - [Sahil Suman](https://github.com/sahilsuman933)
+- [Christoper Rean Houghton](https://github.com/lahb2434)
 - [Amit Pal](https://github.com/amitpal16181)
 - [Saikat Das](https://github.com/saikatg347)
 - [SURJIT KUMAR KAUSIK](https://github.com/seaZonal2001)
