@@ -64,6 +64,7 @@
 - [Odari Atongo](https://github.com/Odari-Atongo)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
+- [Mudit Mishra](https://github.com/mudit023)
 - [Andrea Ubbiali](https://github.com/aubbiali)
 - [edaro27](https://github.com/edaro27)
 - [Ale Castillo](https://github.com/aleepsy)
