@@ -20,6 +20,7 @@
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
 - [Tony Ube](https://github.com/tuta-bits)
+- [Jose Medina](https://github.com/JoseMedina24)
 - [Andre Alves](https://github.com/andrealvesaraujo)
 - [Michael Conrad Viray (MCV)](github.com/michaelsandiegoviray)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
