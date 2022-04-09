@@ -6075,6 +6075,7 @@ Michael Wong
 - [Amanuel Abebe](https://github.com/CodEZ47)
 - [Gustavo Rangel](https://github.com/gustavobrangel)
 - [Linda Shen](https://github.com/lindashendev)
+- [Amit Kandar](https://github.com/amit-kandar)
 - [Albert Osei](https://github.com/Albert-Osei)
 - [Jan Auth](https://github.com/janauth)
 - [Julirei] (https://github.com/julirei/)
