@@ -19,6 +19,7 @@
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
+- [Tony Ube](https://github.com/tuta-bits)
 - [Andre Alves](https://github.com/andrealvesaraujo)
 - [Michael Conrad Viray (MCV)](github.com/michaelsandiegoviray)
 - [Hernan Garcia](https://github.com/hernangarcia1517)
