@@ -6169,4 +6169,5 @@ Duncan Ledesma
 - [João Vítor Borges](https://github.com/JVBorges)
 - [Brian Chalfant](https://github.com/brian-chalfant)
 - [Chang Si Kai](https://github.com/sikai00)
+- [Kopichok](https://github.com/Kopichok)
 <!-- prettier-ignore-end -->
