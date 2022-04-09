@@ -32,6 +32,7 @@
 - [Emmanuel Anuoluwa Bamidele](https://github.com/Emmanuel-Bamidele)
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - Mason C
+- [edgarbc] (https://github.com/edgarbc)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
