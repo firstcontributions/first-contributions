@@ -13,6 +13,7 @@
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
+- [Jackson Tai](https://www.github.com/JacksonTai/)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
