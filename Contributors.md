@@ -1187,6 +1187,7 @@ Zack Bryant
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
 - [Abhishek Choudhary](https://github.com/iamabhi5hek)
+- [Rajat Agrawal](https://github.com/dev-razz)
 - [Riley Huff](https://github.com/RileyMH231)
 - [Daniel Apantaku](https://github.com/korecodes)
 - [Bárbaro Javier Valmaseda Vázquez](https://github.com/bjvalmaseda92)
