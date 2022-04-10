@@ -34,6 +34,7 @@
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - Mason C
 - [edgarbc] (https://github.com/edgarbc)
+- [eden2888] (https://github.com/eden2888)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
