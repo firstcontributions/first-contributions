@@ -2936,6 +2936,7 @@ Pranjal
 - [Gana Sai Teja](https://github.com/gana-18)
 - [Merius TZ](https://github.com/MeriusTz)
 - [Karan Chandekar](https://github.com/KaranChandekar)
+- [KRTechZen](https://github.com/KRTechZen)
 - [MD.Ejaz Hussain](https://github.com/Ejaz29)
 - [Astitva Aggarwal](https://github.com/AstitvaAggarwal)
 - [Kamend0](https://github.com/kamend0)
