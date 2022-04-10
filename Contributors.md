@@ -960,6 +960,7 @@ itay-guter
 -[Senthil Bala](https://github.com/besenthil)
 -[Thomas Peter Buckley](https://github.com/thomaspeter92)
 -[Rashidat Jimoh] (https://github.com/RashidatJay)
+-[Divyanshu Singh] (https://github.com/Divyanshu050303)
 -[Remiferiaa](https://github.com/Remiferiaa)
 -[Benjamin Bruno](https://github.com/leckermatz79)
 - [Arnab Sharma](https://github.com/arnabsharma91)
