@@ -6187,4 +6187,5 @@ Duncan Ledesma
 - [Chang Si Kai](https://github.com/sikai00)
 - [Kopichok](https://github.com/Kopichok)
 - [lczz911](https://github.com/lczz911)
+- [jakel168](https://github.com/jakel168)
 <!-- prettier-ignore-end -->
