@@ -1850,6 +1850,7 @@ yejashi
 - [Rashad Arfan](https://github.com/rashad93)
 - [Ashwin Devadiga](https://github.com/adevadiga02)
 - [Abdullah Zahid](https://github.com/mxzahid)
+- [Jose Del Rosario](https://github.com/Josedelrosa)
 - [Adithya SM](https://github.com/Adithya65)
 - [[Sahira Bibi](https://github.com/sahirabibi)
 - [Michael Davitt](https://github.com/michaeldavitt)
