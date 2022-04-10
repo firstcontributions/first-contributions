@@ -6175,6 +6175,7 @@ Duncan Ledesma
 - [Boyeon Ihn](https://github.com/boyeonihn)
 - [João Vítor Borges](https://github.com/JVBorges)
 - [Brian Chalfant](https://github.com/brian-chalfant)
+- [Meowzers26](https://github.com/Meowzers26)
 - [Chang Si Kai](https://github.com/sikai00)
 - [Kopichok](https://github.com/Kopichok)
 <!-- prettier-ignore-end -->
