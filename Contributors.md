@@ -73,6 +73,7 @@
 - [Mudit Mishra](https://github.com/mudit023)
 - [Andrea Ubbiali](https://github.com/aubbiali)
 - [edaro27](https://github.com/edaro27)
+- [Michael Adetona](https://github.com/AdetonaMichael)
 - [Ale Castillo](https://github.com/aleepsy)
 - [Jyoti Bhaliyan](https://github.com/Jbhaliyan)
 - [Mohamed Chebaane](https://github.com/chebmohamed97)
