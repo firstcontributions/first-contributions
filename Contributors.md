@@ -4713,6 +4713,7 @@ Himanshu Dedha
 - [J. Daniel F. Ruano](https://github.com/jezsdaniel)
 - [Cindy Conrad](https://github.com/syhndie)
   [Rahul Yadav](https://github.com/itzrahulyadav)
+- [Ricardo Milos]
 - [Margy Couper](https://github.com/wassupbonsai)
 - [Robert Ciotoiu](https://github.com/robertciotoiu)
 - [Kate Follett](https://github.com/kateskips)
