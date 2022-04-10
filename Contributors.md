@@ -6139,6 +6139,7 @@ Duncan Ledesma
 - [kramoos] (https://github.com/kramoos)
 - [NelsonFSP] (https://github.com/NelsonFSP)
 - [simontagbor](https://github.com/Simontagbor)
+- [goosefeather](https://github.com/goosefeather)
 - [Aindrajaya](https://github.com/aindrajaya)
 - [KehYeun Liao](https://github.com/steakforlife)
 - [KlokMiraj](https://github.com/KlokMiraj)
