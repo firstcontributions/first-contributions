@@ -4,6 +4,7 @@
 - [IIvexII](https://github.com/IIvexII)
 - [MTM]
 - [keerthana286](https://github.com/keerthana286)
+- [Augustin Lima](https://github.com/aaugustinlima)
 -[TomBurrows101](https://github.com/TomBurrows101)
 - [andrewkuhl](https://github.com/andrewkuhl)
 - [Wizard-F](https://github.com/Wizard-F)
