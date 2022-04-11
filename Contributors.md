@@ -6210,4 +6210,5 @@ Duncan Ledesma
 - [modster](https://github.com/modster)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [syip1](https://github.com/syip1)
+- [Jesse da Silva](https://github.com/jds1g14)
 <!-- prettier-ignore-end -->
