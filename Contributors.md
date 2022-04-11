@@ -6160,6 +6160,7 @@ Duncan Ledesma
 - [KlokMiraj](https://github.com/KlokMiraj)
 - [Luis Boris](https://github.com/luisboris)
 -[JJRoss](https://github.com/JJ-Ross)
+- [Wyatt](https://github.com/y-at)
 - [Garrett Guymon]
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
