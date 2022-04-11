@@ -1064,6 +1064,7 @@ Zack Bryant
 - [FuseIsHere](https://github.com/fuseishere813)
 [AnikethPaul](https://github.com/anipaul2)
 - [Emre](https://github.com/eayture)
+- [Heather Inness](https://github.com/hminness)
 - [Valan Baptist Mathuranayagam](https://github.com/valanm22)
 - [Favour Nwachukwu] (https://github.com/favour33)
 - [Bazgha Razi](https://github.com/Bazgha19)
