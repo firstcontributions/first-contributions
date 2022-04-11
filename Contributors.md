@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [IIvexII](https://github.com/IIvexII)
+- [Ka Hung Lee](https://github.com/leekahung)
 - [MTM]
 - [keerthana286](https://github.com/keerthana286)
 - [Augustin Lima](https://github.com/aaugustinlima)
