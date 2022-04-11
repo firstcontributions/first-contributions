@@ -41,6 +41,7 @@
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
+- [Kanan Azizli] (https://github.com/kananazizli)
 - [Marja Centina] (https://github.com/murrha)
 - [Kristin Harris] (https://github.com/reverie64)
 - [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
