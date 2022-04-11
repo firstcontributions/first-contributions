@@ -396,6 +396,7 @@ Vedant Borkar
 - [Joanne Santos] (https://github.com/joannemvsantos)
 - [Delfhub] (https://github.com/delfhub)
 - [Denver] (https://github.com/vir0za)
+- [Alisherka7] (https://github.com/Alisherka7)
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Jay Abella](https://github.com/jcabella1)
 - [Ankush Banik](https://github.com/Ankush263)
