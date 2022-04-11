@@ -2566,6 +2566,7 @@ yejashi
 - [scornaby-ufo]
 -[Zhen Wu] - Go Gators
 - [Swati Chauhan](https://github.com/swatichauhan814)
+- [Dimpal Kalita](https://github.com/Dimpal-Kalita)
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [Nimesha Chathurangi] (https://github.com/Nimesha1996)
 - [Austin Nicholas] (https://github.com/adenix)
