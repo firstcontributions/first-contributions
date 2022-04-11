@@ -1618,6 +1618,7 @@ Nathan Hill
 - [Aadharsh K Xavier](https://github.com/akxavier)
 - [Byoungyoon Park] (https://github.com/rustiebeats)
 - Malik Rossi
+- Tereza Yagomba
 - Vinayaka Hegde
 - Nevermind
 - Brant Norris
