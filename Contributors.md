@@ -12,6 +12,7 @@
 - [Ronak](https://github.com/ronakvir)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [AAleksandros](https://github.com/AAleksandros)
+- [svtdoug](https://github.com/svtdoug)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Jackson Tai](https://www.github.com/JacksonTai/)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
