@@ -5288,6 +5288,7 @@ Himanshu Dedha
 - [Paras Aghija](https://github.com/paras-aghija)
 - [Changyu Meng](https://github.com/longfish)
 - [himanshu](https://github.com/DYNA-MICS)
+- [HeyHannibal] (https://github.com/HeyHannibal)
 - [Ruben Corona](https://github.com/RubenCJ)
 - [Mehak](https://github.com/mehaksareen20)
 - [Royce Dy](https://github.com/rad182)
