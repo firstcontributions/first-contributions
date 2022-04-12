@@ -5437,10 +5437,8 @@ Disguy
 - [Jason Wang](https://github.com/JsonWang95)
 - [Musadiq Peerzada](https://github.com/musadiqpeerzada)
 Michael Wong
-
 - [Subin Park](https://github.com/IamSOL1)
 - [Sanket Jadhav](https://github.com/SanketJadhav7d3)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -6151,6 +6149,7 @@ Duncan Ledesma
 - [Pietras](https://github.com/PietrasWoo)
 - [TheDivloop](https://github.com/thedivloop)
 - [Dhanashree](https://github.com/dsjambekar)
+- [Seren9](https://github.com/Seren9)
 - [غاده عبدالوهاب](https://github.com/GAbdulWahab)
 - [ilias](https://github.com/iliakesk)
 - [Boyeon Ihn](https://github.com/boyeonihn)
