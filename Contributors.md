@@ -3344,6 +3344,7 @@ Himanshu Dedha
 - [Marcello Pignata](https://github.com/MarcelloPignata)
 - [Ciara Giron](https://github.com/cjgiron)
 - [Mike Willett](https://github.com/mrwillett)
+- [Teagan O'Gorman](https://github.com/teaganogorman)
 - [Hitesh Mishra](https://github.com/hitesh-mishra456)
 - [Maaz Muhammad](https://github.com/maaz997)
 - [Hara](https://github.com/hhara21)
