@@ -6215,4 +6215,5 @@ Duncan Ledesma
 - [syip1](https://github.com/syip1)
 - [Jesse da Silva](https://github.com/jds1g14)
 - [Kai](https://github.com/akaigraham)
+- [ufo-alert](https://github.com/ufo-alert)
 <!-- prettier-ignore-end -->
