@@ -55,6 +55,7 @@
 - [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
+- [Andre Morales] (https://github.com/dremo1995)
 - [Omar Shehata](https://github.com/OIS202)
 - [timothy luedtke](https://github.com/timothyluedtke)
 - [simon wu](https://github.com/simon-engineer)
