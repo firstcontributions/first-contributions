@@ -1735,6 +1735,7 @@ yejashi
 - [Sudarshan S] (https://github.com/sudarshan-hub)
 - [K-Nuguri](https://github.com/K-Nuguri)
 - [Jenny McGrath](https://github.com/jennymarie1027)
+- [Derek Amsterdam](https://github.com/Overstand73)
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Thomas Le](https://github.com/37Thomas)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
