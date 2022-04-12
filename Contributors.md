@@ -5,6 +5,7 @@
 - [Ka Hung Lee](https://github.com/leekahung)
 - [MTM]
 - [keerthana286](https://github.com/keerthana286)
+- [Obaida HY](https://github.com/ObaidaHY)
 - [Augustin Lima](https://github.com/aaugustinlima)
 -[TomBurrows101](https://github.com/TomBurrows101)
 -[89453728](https://github.com/89453728)
@@ -108,7 +109,7 @@
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Muinde Nthusi](https://github.com/nthusi)
-- [Obayda Haj Yahya](https://github.com/ObaidaHY)
+- [Obaida Haj Yahya](https://github.com/ObaidaHY)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nathaniel Vo](https://github.com/midnightslushie)
 - [Behnam Haddadian](https://github.com/Behnam-H)
