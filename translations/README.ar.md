@@ -7,17 +7,17 @@
 # <div dir="rtl">مساهمتك الأولى</div>
 
 <div dir="rtl">
-الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعجا.
+الصعوبة متوقعة عندما تبدأ أي عمل جديد، خصوصًا إذا كان العمل يتضمن أشخاصًا آخرين، مما يجعل الوقوع في الخطأ مزعجًا.
 <br>
-لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب الآخرون سيساعدونك في تصحيح هذا الخطأ.
+لكن المساهمة مطلوبة في المشاريع مفتوحة المصدر كما يُتوقع الخطأ ولهذا السبب سيساعدك الآخرون في تصحيح هذا الخطأ.
 <br>
-في هذا المشروع هدفنا هو تسهيل الطريق لمساهمتك الأولى.
+في هذا المشروع، هدفنا هو تسهيل الطريق لمساهمتك الأولى.
 </div>
 
 
 <div dir="rtl">
-قراءة ومشاهدة التعليمات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا استطعت المساهمة في مشروع دون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفير التوجيهات والتعليمات البدائية لإتمام أول مساهمة لك.
-تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيا ومتابعا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك ستستمع بذلك.
+قراءة ومشاهدة التعليمات المتوفرة على الإنترنت ستساعدك حتمًا، لكن ستستفيد أكثر إذا استطعت المساهمة في مشروع دون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفير التوجيهات والتعليمات البدائية لإتمام أول مساهمة لك.
+تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيًا ومتابعًا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك أن تستمتع بذلك.
 </div>
 
 
@@ -38,11 +38,11 @@
 
 <div dir="rtl">
 استنسخ هذا المشروع على جهازك.
-انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
+انقر على زر Clone ثم انقر على أيقونة Copy to clipboard.
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح الطرفية واكتب الأمر التالي:
+افتح الترمينال واكتب الأمر التالي:
 </div>
 
 ```
@@ -131,7 +131,7 @@ git push origin "add-your-name"
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
+<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني.</div>
 
 <div dir="rtl">الفرع الرئيس الخاص بك لن يحتوي على هذه التغيررات. عليك مزامنته مع الفرع الرئيس عن طريق الخطوات التالية.</div>
 
@@ -174,8 +174,6 @@ git push origin master
 
 ## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
+|<a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-
+|[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|
