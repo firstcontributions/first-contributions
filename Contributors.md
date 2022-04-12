@@ -162,6 +162,7 @@ Indra Sonowal
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
 - [Tanmay Gokhale](https://github.com/tanmay-droid-ui)
+- [Bilal Mohmand] (https://github.com/BilalMohmand58)
 - [Eric Shen] (https://github.com/eric-hcshen)
 - [c0d3 ninja](https://github.com/c0d3-ninja)
 - [Akhila Krishna K](https://github.com/akhila1729)
