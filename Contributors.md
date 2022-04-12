@@ -20,7 +20,7 @@
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
-- [Horribleness](https://https://github.com/Horribleness)
+- [Horribleness](https://github.com/Horribleness)
 - [Manan Karnik] (https://github.com/MananKarnik)
 - [Tony Ube](https://github.com/tuta-bits)
 - [Jose Medina](https://github.com/JoseMedina24)
