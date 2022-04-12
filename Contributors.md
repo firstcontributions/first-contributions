@@ -1822,6 +1822,7 @@ yejashi
 - [Sudarshan S] (https://github.com/sudarshan-hub)
 - [K-Nuguri](https://github.com/K-Nuguri)
 - [Jenny McGrath](https://github.com/jennymarie1027)
+- [Derek Amsterdam](https://github.com/Overstand73)
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Thomas Le](https://github.com/37Thomas)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
@@ -6217,4 +6218,5 @@ Duncan Ledesma
 - [Jesse da Silva](https://github.com/jds1g14)
 - [Kai](https://github.com/akaigraham)
 - [ufo-alert](https://github.com/ufo-alert)
+- [tclem](https://github.com/tclem404)
 <!-- prettier-ignore-end -->
