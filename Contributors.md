@@ -44,6 +44,7 @@
 - Mason C
 - [edgarbc] (https://github.com/edgarbc)
 - [Shrikant Dhayje](https://github.com/shriekdj)
+- [lucky-chap](https://github.com/lucky-chap)
 - [eden2888] (https://github.com/eden2888)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [Anees-Asghar](https://github.com/Anees-Asghar)
