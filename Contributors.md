@@ -28,6 +28,7 @@
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
 - [Oyekola Toheeb](https://github.com/To-heeb)
 - [Peeyush Guleria](https://github.com/peeyushguleria)
+- [John Mbugua](https://github.com/mbuguaj254)
 - [Code Puppies] (https://github.com/codepuppies88)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
@@ -2073,6 +2074,7 @@ yejashi
 - [chear5967] (http://github.com/chear5967)
 - [Rajat Sachan] (https://github.com/rajatsachan8)
 - [Noah317](http://github.com/Noah317)
+- [Vio](https://github.com/limpido)
 - [Gaman Jain] (https://github.com/gamanjain)
 - [Bastien Oeuvrard] (https://github.com/Sairkko)  
 - [Mark Jot](https://github.com/markojot)
@@ -6237,5 +6239,6 @@ Duncan Ledesma
 - [ufo-alert](https://github.com/ufo-alert)
 - [tclem](https://github.com/tclem404)
 - [Victoria Blackburn](https://github.com/vacb)
+- [Mohamednur Hassan](https://github.com/mohamednur)
 - [aan-arakal](https://github.com/aan-arakal)
 <!-- prettier-ignore-end -->
