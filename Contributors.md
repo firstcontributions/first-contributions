@@ -6244,4 +6244,5 @@ Duncan Ledesma
 - [Victoria Blackburn](https://github.com/vacb)
 - [Mohamednur Hassan](https://github.com/mohamednur)
 - [aan-arakal](https://github.com/aan-arakal)
+- [Esthefani Agapito](https://github.com/esthefaniagapito)
 <!-- prettier-ignore-end -->
