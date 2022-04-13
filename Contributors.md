@@ -1,11 +1,11 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-- [techMonowar](https://github.com/techMonowar)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
 - [MTM]
 - [keerthana286](https://github.com/keerthana286)
+- [techMonowar](https://github.com/techMonowar)
 - [rahulkarda](https://github.com/rahulkarda)
 - [Obaida HY](https://github.com/ObaidaHY)
 - [Augustin Lima](https://github.com/aaugustinlima)
