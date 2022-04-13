@@ -896,6 +896,7 @@ Gabrielle Jones
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
 -[Ayush panwar](https://github.com/PanwarAyush)
+-[Muhammad Anas Sarfraz](https://github.com/anassarfraz)
 -[Vinoth Mohan](https://github.com/iamvinot)
 -[Ajinkya Bhandare](https://github.com/0-Ajinkya)
 -[shiwam](https://github.com/orrgato)
