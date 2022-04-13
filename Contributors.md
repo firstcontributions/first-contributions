@@ -24,6 +24,7 @@
 - [Jackson Tai](https://www.github.com/JacksonTai/)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
+- [Jonathan Chen](https://github.com/JonHPC)
 - [ Sol Cif] (https://github.com/Scif99)
 - [TiknockTokomak] (https://github.com/TiknockTokomak)
 - [Hamdi Guerbej] (https://github.com/guerbejhamdi)
