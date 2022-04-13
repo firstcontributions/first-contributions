@@ -241,6 +241,7 @@ Vedant Borkar
 - [Imraan Pattan]
 - [Pavan](https://github.com/pavan2108)
 - [Chrispy]
+- Hamdan Salih
 - [Osi Obomighie](https://github.com/Osireg17)
 - [Lee Lacey] (github.com/ll8464)
   [Seethin] (https://github.com/Seethin)
