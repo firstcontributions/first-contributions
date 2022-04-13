@@ -2073,6 +2073,7 @@ yejashi
 - [chear5967] (http://github.com/chear5967)
 - [Rajat Sachan] (https://github.com/rajatsachan8)
 - [Noah317](http://github.com/Noah317)
+- [Vio](https://github.com/limpido)
 - [Gaman Jain] (https://github.com/gamanjain)
 - [Bastien Oeuvrard] (https://github.com/Sairkko)  
 - [Mark Jot](https://github.com/markojot)
