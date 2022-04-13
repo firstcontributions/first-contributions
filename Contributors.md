@@ -4335,6 +4335,7 @@ Himanshu Dedha
 - [Daniel Lee](https://github.com/danyollee)
 - [Thiago Reschützegger](https://github.com/ThiagoReschutzegger)
 - [Watson Tang](https://github.com/tyanbiao)
+- [Felix Fernando Wijaya](https://github.com/voltgizerz)
 - [Tatenda](https://github.com/Taity045)
 - [Ikemura Kazutaka](https://github.com/ikemura23)
 - [Ryo Mimura](https://github.com/r-mimura)
