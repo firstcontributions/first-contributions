@@ -3064,6 +3064,7 @@ Himanshu Dedha
 - [ahop1](https://github.com/ahop1)
 - [jackson batty](https://github.com/jacksonbatty)
 - [Ye Htet Aung](https://github.com/tony-yh91)
+- [Jayce Ese](https://github.com/JayceEse)
 - [Antonio Martinez](https://github.com/op3n-signal)
 - [Vaishnavi Sridhar](https://github.com/vaishsridh)
 - [Bruno Leppe](https://github.com/brunoleppe)
