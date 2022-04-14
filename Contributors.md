@@ -6248,4 +6248,5 @@ Duncan Ledesma
 - [aan-arakal](https://github.com/aan-arakal)
 - [Esthefani Agapito](https://github.com/esthefaniagapito)
 - [misalign](https://github.com/misalign)
+- [nlo88](https://github.com/nlo88)
 <!-- prettier-ignore-end -->
