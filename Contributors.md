@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 
-- [Md Sowrov Sarkar](https://github.com/sowrovsarkar63)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
 - [MTM]
