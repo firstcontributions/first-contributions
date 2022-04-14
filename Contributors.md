@@ -6256,4 +6256,5 @@ Duncan Ledesma
 - [Esthefani Agapito](https://github.com/esthefaniagapito)
 - [misalign](https://github.com/misalign)
 - [nlo88](https://github.com/nlo88)
+- [Greedy-Jabberwock](https://github.com/Greedy-Jabberwock)
 <!-- prettier-ignore-end -->
