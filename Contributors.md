@@ -3033,7 +3033,8 @@ Himanshu Dedha
 - [Ben Elgren](https://github.com/belgren)
 - [Swati Munda](https://github.com/swatiM19/)
 - [Chandler King](https://github.com/chandleroking/)
-- [Raghav Jindal](https://github.com/HiberNuts)
+- [Raghav Jindal](https://github.com/HiberNuts) :point_left: lol
+- [Amruth Kiran](https://github.com/FrootPunchSamurai)
 - [Kelly](https://github.com/kellyxavier)
 - [Samarth Soni](https://github.com/samarthsoni17)
 - [Amritaansh Narain](https://github.com/namritaansh02)
@@ -6256,4 +6257,5 @@ Duncan Ledesma
 - [Esthefani Agapito](https://github.com/esthefaniagapito)
 - [misalign](https://github.com/misalign)
 - [nlo88](https://github.com/nlo88)
+
 <!-- prettier-ignore-end -->
