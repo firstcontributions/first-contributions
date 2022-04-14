@@ -4,6 +4,7 @@
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
 - [MTM]
+- [Jeff Rutherford](https://github.com/JeffRutherford)
 - [keerthana286](https://github.com/keerthana286)
 - [techMonowar](https://github.com/techMonowar)
 - [rahulkarda](https://github.com/rahulkarda)
