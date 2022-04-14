@@ -95,7 +95,7 @@ git push origin <add-your-branch-name>
 
 همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
 
-حال، شما می‌توانید مشارکت خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک لیست از پروژه‌ها با مشکلات ساده ایجاد کردیم که گزینه خوبی برای شروع می‌باشد. لیست پروژه‌ها را [این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
+حال، شما می‌توانید مشارکت خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک لیست از پروژه‌ها با مشکلات ساده ایجاد کردیم که گزینه خوبی برای شروع می‌باشد. لیست پروژه‌ها را [از این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
 
 ### [اطلاعات بیشتر](additional-material/git_workflow_scenarios/additional-material.md)
 
