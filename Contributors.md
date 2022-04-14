@@ -2014,6 +2014,7 @@ yejashi
 - [A-Koderr](https://github.com/A-Koderr)
 - [EdgeSan](https://github.com/EdgeSan)
 - [Preetpal Singh](https://github.com/UP941594)
+- [Argi](https://github.com/argi-dev)
 - [Michael Carr](https://github.com/xyeres)
 - [Tyler Woodward](https://github.com/twoodwar)
 - [Ahmad Abdullahi](https://github.com/ahm-tech)
