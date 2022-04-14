@@ -6253,6 +6253,7 @@ Duncan Ledesma
 - [tclem](https://github.com/tclem404)
 - [Victoria Blackburn](https://github.com/vacb)
 - [Mohamednur Hassan](https://github.com/mohamednur)
+- [Avanish Bandekar](https://github.com/avanishrb)
 - [aan-arakal](https://github.com/aan-arakal)
 - [Esthefani Agapito](https://github.com/esthefaniagapito)
 - [misalign](https://github.com/misalign)
