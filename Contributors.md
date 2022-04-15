@@ -5,6 +5,7 @@
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
+- [Matthew Clark](https://https://github.com/maty714)
 - [MTM]
 - [Jeff Rutherford](https://github.com/JeffRutherford)
 - [keerthana286](https://github.com/keerthana286)
