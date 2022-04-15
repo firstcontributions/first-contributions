@@ -3630,6 +3630,7 @@ Himanshu Dedha
 - [Akash Hasnat](https://github.com/Akash-hasnat/Akash-hasnat)
 - [Akshay Aggarwal](https://github.com/AkshayAggarwal2509)
 - [Lucas Fontes](https://github.com/lvbfontes)
+- [akanakis](https://github.com/akanakis)
 - [Samuele Vezzuto](https://github.com/vezzusamu)
 - [Jason Moldovan](https://github.com/moldovanjason)
 - [C.S.Bahushruth](https://github.com/PotatoSpudowski)
