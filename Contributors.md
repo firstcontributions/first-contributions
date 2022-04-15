@@ -1068,6 +1068,7 @@ itay-guter
 - [Damien Lhaurado](https://github.com/DamienDeveloppeur)
 Dheeraj
 Zack Bryant
+- [Clement Ronald Amirtharaj](https://github.com/bcronald)
 - [GOURAV SINGH}(https://github.com/Gourav1616Singh)
 - [Hrijul Chauhan] (https://github.com/HrijulChauhan) 
 - [phurba Lama] (https://github.com/phurbalama) 
