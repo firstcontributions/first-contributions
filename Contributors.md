@@ -82,6 +82,7 @@
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Taylor Kelly](https://github.com/AbbaZabbaCodes)
 - [Tima Gixe](https://github.com/timagixe)
+- [Saurabh Kumar Singh](https://github.com/singh1203)
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Shrey](https://github.com/shreykinshu)
 - [electroNBS](https://github.com/electroNBS)
