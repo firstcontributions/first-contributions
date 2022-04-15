@@ -6265,4 +6265,5 @@ Duncan Ledesma
 - [misalign](https://github.com/misalign)
 - [nlo88](https://github.com/nlo88)
 - [Greedy-Jabberwock](https://github.com/Greedy-Jabberwock)
+- [Tetzdesen](https://github.com/Tetzdesen)
 <!-- prettier-ignore-end -->
