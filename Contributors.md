@@ -16,6 +16,7 @@
 - [andrewkuhl](https://github.com/andrewkuhl)
 - [ThomasMThoppil](https://github.com/ThomasMThoppil)
 - [Wizard-F](https://github.com/Wizard-F)
+- [Kenny-Simpson](https://github.com/KNJI-Web-Creations)
 - [Rachelle](https://github.com/jollypolly123)
 - [Aaron](https://github.com/FlakTotem/)
 - [Oscar](https://github.com/zitrocode)
