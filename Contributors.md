@@ -60,6 +60,7 @@
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - Mason C
 - [edgarbc] (https://github.com/edgarbc)
+- [Soumen samanta](https://github.com/soumen246)
 - [Shrikant Dhayje](https://github.com/shriekdj)
 - [lucky-chap](https://github.com/lucky-chap)
 - [eden2888] (https://github.com/eden2888)
