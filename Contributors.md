@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Xevziler](https://github.com/Xevziler)
 - [Pokruk](https://github.com/Pokruk)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
