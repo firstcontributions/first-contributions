@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
