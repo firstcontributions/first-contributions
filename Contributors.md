@@ -387,6 +387,7 @@ Vedant Borkar
 - [Tran Dang]
 - [AL]
 - [SimonS]
+- [tyche5]
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
 - [Mahmoud Hamdy]
