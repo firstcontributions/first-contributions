@@ -2,6 +2,8 @@
 
 We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
+sometimes i have to check it's working
+
 ### [Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
 > Use this when you need to adjust a commit you made.
