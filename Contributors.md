@@ -6280,4 +6280,5 @@ Duncan Ledesma
 - [Greedy-Jabberwock](https://github.com/Greedy-Jabberwock)
 - [Dylan Tuttle](https://github.com/dylanjtuttle)
 - [Tetzdesen](https://github.com/Tetzdesen)
+- [Llydo1](https://github.com/Llydo1/)
 <!-- prettier-ignore-end -->
