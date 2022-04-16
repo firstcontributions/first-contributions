@@ -4349,6 +4349,7 @@ Himanshu Dedha
 - [Pranav Thakran](https://github.com/PranavThakran)
 - [YAMADA Nobuko](https://github.com/e99h2121)
 - [AurumByte](https://github.com/AurumByte)
+- Bill Simpson
 - [Peleg Ohana](https://github.com/HeroicMuffin)
 - [Leo4zhou](https://github.com/Leo4zhou)
 - [RenatoAWK](https://github.com/RenatoAwk)
