@@ -5,6 +5,7 @@
 - [Xevziler](https://github.com/Xevziler)
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
+- [Julian Vickers](https://github.com/JulianVickers)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
