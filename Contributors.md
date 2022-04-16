@@ -92,6 +92,7 @@
 - [Tima Gixe](https://github.com/timagixe)
 - [Saurabh Kumar Singh](https://github.com/singh1203)
 - [Caroline SENES](https://github.com/CarolineSenes)
+- [Dhanush Suvarna](https://github.com/Dhanush-git)
 - [Shrey](https://github.com/shreykinshu)
 - [electroNBS](https://github.com/electroNBS)
 - [Rhett G](https://github.com/rhettg28)
