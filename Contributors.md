@@ -48,6 +48,7 @@
 - [John Mbugua](https://github.com/mbuguaj254)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
+- [Justin Quinn] (https://github.com/jpq3366)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
 - [Tony Ube](https://github.com/tuta-bits)
