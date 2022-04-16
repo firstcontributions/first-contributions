@@ -6,6 +6,7 @@
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
+- [Ka Hung Lee](https://github.com/leekahung)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Matthew Clark](https://https://github.com/maty714)
 - [MTM]
