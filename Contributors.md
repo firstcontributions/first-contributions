@@ -751,6 +751,7 @@ Vedant Borkar
 - [Saurav Raj](https://github.com/saurzv)
 - [nla] (https://github.com/NaingLynnAung9925)
 - [Evan Myllen] (https://github.com/muskievan95)
+- [Lachlan Daly] (https://github.com/LachieDaly)
 - [Mohammed Daniyal] (https://github.com/danides450/first-contributions)
 - [Imran Yafith] (https://github.com/pixelfox01)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
