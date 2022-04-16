@@ -2340,6 +2340,7 @@ yejashi
 - [Diya Yang]
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
+- [Skwangles S](https://github.com/Skwangles)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [João Gomes](https://github.com/joaogomes1))
 - [William Lawson](https://github.com/wlawson2)
