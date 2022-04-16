@@ -663,6 +663,7 @@ Vedant Borkar
 - [Lrabbit] (https://github.com/litter-rabbit)
 - [Sazid Abdullah/Ayan](http://github.com/ayannw)
 - Cameron Montesano (https://github.com/ckmontesano)
+- [Jaden Kropp](https://github.com/elbowgreasel)
 - [Justin Logan](https://github.com/itsjustlogan)
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Ananya](https://github.com/Ananya-Singh-22)
