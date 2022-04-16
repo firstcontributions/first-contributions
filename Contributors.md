@@ -22,6 +22,7 @@
 - [Jackson Tai](https://www.github.com/JacksonTai/)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
+- [Clay Thomas Bowser](https://github.com/claybowser)
 - [ Sol Cif] (https://github.com/Scif99)
 - [TiknockTokomak] (https://github.com/TiknockTokomak)
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
