@@ -85,6 +85,7 @@
 - [Modern Mariner]
 - [Andre Morales] (https://github.com/dremo1995)
 - [Omar Shehata](https://github.com/OIS202)
+- [Dilraj Singh](https://github.com/SinghDilraj)
 - [timothy luedtke](https://github.com/timothyluedtke)
 - [Zeki Köse]
 - [simon wu](https://github.com/simon-engineer)
