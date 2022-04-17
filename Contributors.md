@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
+- [mitchiban](https://github.com/mitchiban)
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [Julian Vickers](https://github.com/JulianVickers)
