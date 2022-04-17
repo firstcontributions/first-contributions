@@ -1,9 +1,13 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Raymond](https://github.com/raymondariwoola)
+- [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
+- [mitchiban](https://github.com/mitchiban)
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
+- [Julian Vickers](https://github.com/JulianVickers)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
@@ -28,6 +32,7 @@
 - [Oscar](https://github.com/zitrocode)
 - [Ronak](https://github.com/ronakvir)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
+- [Adam McFillin](https://github.com/amcfillin)
 - [AAleksandros](https://github.com/AAleksandros)
 - [svtdoug](https://github.com/svtdoug)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
@@ -48,6 +53,7 @@
 - Regina Vanata
 - [Rounak Shrivastava](https://github.com/Rounakshrivastava5)
 - [Manan Karnik](https://github.com/MananKarnik)
+- [Justin Quinn](https://github.com/jpq3366)
 - [Tony Ube](https://github.com/tuta-bits)
 - [Jose Medina](https://github.com/JoseMedina24)
 - [Andre Alves](https://github.com/andrealvesaraujo)
@@ -60,6 +66,7 @@
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - Mason C
 - [edgarbc](https://github.com/edgarbc)
+- [Soumen samanta](https://github.com/soumen246)
 - [Shrikant Dhayje](https://github.com/shriekdj)
 - [lucky-chap](https://github.com/lucky-chap)
 - [eden2888](https://github.com/eden2888)
@@ -386,6 +393,7 @@ Vedant Borkar
 - [Tran Dang]
 - [AL]
 - [SimonS]
+- [tyche5]
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
 - [Mahmoud Hamdy]
@@ -658,6 +666,7 @@ Vedant Borkar
 - [Lrabbit](https://github.com/litter-rabbit)
 - [Sazid Abdullah/Ayan](http://github.com/ayannw)
 - [Cameron Montesano](https://github.com/ckmontesano)
+- [Jaden Kropp](https://github.com/elbowgreasel)
 - [Justin Logan](https://github.com/itsjustlogan)
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Ananya](https://github.com/Ananya-Singh-22)
@@ -755,6 +764,7 @@ Vedant Borkar
 - [Jagrit Sharma](https://github.com/JagritSharma06)
 - [Tyler Clark](https://github.com/TheAngryTaqutio)
 - [Jason Kluge](https://github.com/kehngid)
+- [Lachlan Daly](https://github.com/LachieDaly)
 - [Robert-Loera](https://github.com/robert-loera)
 - [Kalman Labinsky](https://github.com/kalmanl)
 - [Tamir Kiviti](https://github.com/tamirkiviti)
@@ -880,6 +890,7 @@ Gabrielle Jones
 - [Preetham Mothukuri](https://github.com/preetham-m)
 - [Luciano Aieta](https://github.com/LucianoAieta)
 - [Rohit Saraff](https://github.com/anythingoes)
+- [Guilherme Silva](https://github.com/guilhermemdasilva)
 - [Andrew](https://github.com/0-Andrew-0/0-Andrew-0.github.io)
 - [Anirvin Vaddiyar](https://github.com/anirvinv)
 - [Yilmaz Alpaslan](https://github.com/Yilmaz4)
@@ -1848,6 +1859,7 @@ Nathalie Bonin
 - [Jenna Franco](https://github.com/myinnernerd)
 - [Shruti Pisal](https://github.com/shruti-0411)
 - [Divya Patil](https://github.com/predystopic-dev)
+- [Harsh Dubey](https://github.com/harsushka)
   [Markos Sankey](https://github.com/markossankey)
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
@@ -4347,6 +4359,7 @@ Himanshu Dedha
 - [Pranav Thakran](https://github.com/PranavThakran)
 - [YAMADA Nobuko](https://github.com/e99h2121)
 - [AurumByte](https://github.com/AurumByte)
+- Bill Simpson
 - [Peleg Ohana](https://github.com/HeroicMuffin)
 - [Leo4zhou](https://github.com/Leo4zhou)
 - [RenatoAWK](https://github.com/RenatoAwk)
@@ -4760,6 +4773,7 @@ Himanshu Dedha
 - [Aly Abdulatif](https://github.com/aly-ab)
 - [Amon Tobi](https://github.com/mttn3773)
 - [D Antonio Young](https://github.com/Gomurmamma)
+- [Mammos Georgios](https://github.com/MammosGeorgios)
 - [Nelson Lim](https://github.com/nlmj)
 - [Abhishek Kumar](https://github.com/ab-by)
 - Deepanshu Sharma
@@ -6278,4 +6292,6 @@ Duncan Ledesma
 - [Greedy-Jabberwock](https://github.com/Greedy-Jabberwock)
 - [Dylan Tuttle](https://github.com/dylanjtuttle)
 - [Tetzdesen](https://github.com/Tetzdesen)
+- [Llydo1](https://github.com/Llydo1/)
+- [417401901](https://github.com/417401901/)
 <!-- prettier-ignore-end -->
