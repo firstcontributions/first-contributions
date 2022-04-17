@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Raymond](https://github.com/raymondariwoola)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
 - [mitchiban](https://github.com/mitchiban)
