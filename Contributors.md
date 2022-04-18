@@ -6304,4 +6304,5 @@ Duncan Ledesma
 - [Tetzdesen](https://github.com/Tetzdesen)
 - [Llydo1](https://github.com/Llydo1/)
 - [417401901](https://github.com/417401901/)
+- [Kaustubh Trivedi](https://github.com/KaustubhTrivedi)
 <!-- prettier-ignore-end -->
