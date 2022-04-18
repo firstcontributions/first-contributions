@@ -2901,6 +2901,7 @@ Pranjal
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Md.Soykot](https://github.com/soykot2910)
 - [AR10X](https://github.com/AR10X)
+  [ajl2612](https://github.com/ajl2612)
 - [Rodrigo R. da Silva](https://github.com/rodrigoridasi)
 - [Paul Wasilewicz](https://github.com/milk-mann)
 - [Felipe Paulo](https://github.com/FelipeUTFPR)
