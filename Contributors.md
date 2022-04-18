@@ -137,6 +137,7 @@
 - [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Aidan Comer](https://github.com/alhcomer)
 - [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
+- [Steve Ostler] (https://github.com/steveostler)
 - [Md Hasibul Kabir](https://github.com/hasibul134409)
 - [Badal Pareta] (https://github.com/badalpareta)
 - [sachin patil] (https://github.com/sachin112211)
