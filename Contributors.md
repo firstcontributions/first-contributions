@@ -83,6 +83,7 @@
 - [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
+- [Laurens De Wachter] (https://github.com/Laurensdewachter)
 - [Andre Morales] (https://github.com/dremo1995)
 - [Omar Shehata](https://github.com/OIS202)
 - [Dilraj Singh](https://github.com/SinghDilraj)
@@ -161,6 +162,7 @@
 - [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
 - [Chad Watson](https://github.com/kaedda)
+- [Laurens De Wachter] (https://github.com/Laurensdewachter)
 - [wuteek](https://github.com/wuteek)
 Indra Sonowal
 - [gigo64](https://github.com/gigo64)
