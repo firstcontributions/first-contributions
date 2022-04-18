@@ -1266,6 +1266,7 @@ Zack Bryant
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
 - [Bailey Rosato] (https://github.com/baileyrosato)
 - [Jalen Edington] (https://github.com/kyrlitp)
+- [Spencer Wilkie] (https://github.com/stwilkie1)
 - [Emre Cetin](https://github.com/h-emre-cetin)
 - [Vicente Soriano] (http://github.com/vicente-s)
 - [Antro Safin] (https://github.com/AntroSafin)
