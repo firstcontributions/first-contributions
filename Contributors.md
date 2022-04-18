@@ -1243,6 +1243,7 @@ Zack Bryant
 - [Dev-Liro](https://github.com/dev-liro)
 - [hussein saad] (https://github.com/hussein-saad)
 - [Pranav Arora](https://github.com/pranavarora1895)
+- [Walter Lehner] (https://github.com/wlehner)
 - [Aditya Vishwakkarma](https://github.com/adityavishwakkarma)
 - [Manikanta Reddy Nayini](https://github.com/mreddyn)
 - [Vijay Raghuwanshi] (https://github.com/ervijayraghuwanshi)
