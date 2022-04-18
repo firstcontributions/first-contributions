@@ -21,6 +21,7 @@
 - [Obaida HY](https://github.com/ObaidaHY)
 - [Augustin Lima](https://github.com/aaugustinlima)
 - [PerpetualPenguin](https://github.com/PerpetualPenguin)
+- [Tanu222](https://github.com/Tanu222)
 -[TomBurrows101](https://github.com/TomBurrows101)
 -[89453728](https://github.com/89453728)
 -[Sandeep Kumar Rai]
