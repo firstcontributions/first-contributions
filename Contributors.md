@@ -116,6 +116,7 @@
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Mudit Mishra](https://github.com/mudit023)
+- [Swapnil Jain](https://github.com/swapy-27)
 - [Andrea Ubbiali](https://github.com/aubbiali)
 - [edaro27](https://github.com/edaro27)
 - [Michael Adetona](https://github.com/AdetonaMichael)
