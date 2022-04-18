@@ -481,6 +481,7 @@ Vedant Borkar
 - [Jesuferanmi Asiyanbi](https://github.com/Pherizee)
 - [David Ogar] (https://github.com/The-True-Hooha)
 - [Shajith Hameed](https://github.com/d3xferno)
+- [Mien Nguyen](https://github.com/emsnguyen)
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Luz Jimenez Vela] (https://github.com/luzloujv)
