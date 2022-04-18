@@ -1836,7 +1836,7 @@ yejashi
 - [Biziyaremye Henriette](https://github.com/henriette-bizy)
 - [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
-- [Juan Goncalves]((goncalvesjfet/first-contributions)
+- [Juan Goncalves](https://github.com/goncalvesjfet/first-contributions)
 - [Pramod Shivaprasad] (https://github.com/Pramod2392)
 - [Timo Chen] (https://github.com/kunkun9811)
 - [Tamas Kiraly] (https://github.com/gitkiraly)
