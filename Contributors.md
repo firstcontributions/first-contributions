@@ -6231,6 +6231,7 @@ Duncan Ledesma
 -[JJRoss](https://github.com/JJ-Ross)
 - [Wyatt](https://github.com/y-at)
 - [Garrett Guymon]
+- [Verlangen](https://github.com/verlangen)
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
 - [Selorm Lotsu](https://github.com/yaw-sid)
