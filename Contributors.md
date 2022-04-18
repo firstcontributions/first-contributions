@@ -174,6 +174,7 @@ Indra Sonowal
 - [Juan Miguel Castellanos Jaramillo](https://github.com/jmiguelcastellanosj)
 - [Nnaji Chimuanya](https://github/NnajiChimuanya)
 - [Pritam Panda](https://github.com/Pritam0077)
+- [Malek Bellasfar](https://github.com/DoomHEADSHOT)
 - [Sairam Cholleti](https://github.com/sairam-27)
 - [Wasif Shehzad](https://github.com/wasif-shehzad)
 - [Divyangana](https://github.com/divyangana009)
