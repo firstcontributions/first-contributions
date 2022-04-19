@@ -59,6 +59,7 @@
 - [John Mbugua](https://github.com/mbuguaj254)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
+- [Alistair Taylor] (https://github.com/alistairmt1970) 
 - [Justin Quinn] (https://github.com/jpq3366)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
