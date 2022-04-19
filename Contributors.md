@@ -2033,6 +2033,7 @@ yejashi
 - [Berk Topbas](https://github.com/the-alchemist88)
 - [Amir Mohammad Hl](https://github.com/Imorate)
   [hyeongjin](https://github.com/uhj130)
+  [Pedro Chamone](https:]]github.com/Chamonex)
 - [Sandile Moremedi](https://github.com/Ma-Sandza)
 - [wsa138](https://github.com/wsa138)
 - [Johan Ramirez](https://github.com/joaramirezra)
