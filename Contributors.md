@@ -3858,6 +3858,7 @@ Himanshu Dedha
 - [Nicolas Verbois](https://github.com/nverbois)
 - [Ryan Smith](https://github.com/RLSmith96118)
 - [Vinay Kumar](https://github.com/foolhardy21)
+- [Lucas Lo](https://github.com/lucaslmlok)
 - [Iulia Groza](https://github.com/iuliagroza)
 - [Vlad Yanum](https://github.com/YanumVlad)
 - [Luigi Cardone](https://github.com/luigi-cardone)
