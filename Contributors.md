@@ -6313,4 +6313,5 @@ Duncan Ledesma
 - [417401901](https://github.com/417401901/)
 - [Kaustubh Trivedi](https://github.com/KaustubhTrivedi)
 - [Williams Ceng](https://github.com/WilliamsCeng)
+- [V Sinho](https://github.com/vsinho)
 <!-- prettier-ignore-end -->
