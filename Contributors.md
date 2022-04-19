@@ -14,6 +14,7 @@
 - [Ka Hung Lee](https://github.com/leekahung)
 - [Matthew Clark](https://https://github.com/maty714)
 - [MTM]
+- [pratish ninawe](https://github.com/Pratish10)
 - [Jeff Rutherford](https://github.com/JeffRutherford)
 - [keerthana286](https://github.com/keerthana286)
 - [techMonowar](https://github.com/techMonowar)
