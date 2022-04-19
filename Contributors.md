@@ -13,6 +13,7 @@
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
+- [Manoj Kumar](https://github.com/mtkumar123/)
 - [Matthew Clark](https://https://github.com/maty714)
 - [MTM]
 - [pratish ninawe](https://github.com/Pratish10)
