@@ -1871,6 +1871,7 @@ yejashi
 - [Lucas Walters] (https://github.com/theLucasWalters)
 - [GeonYeop Na](https://github.com/NaJhinY)
 - [John Smith](https://github.com/IsTaro)
+- [Jacques Sanchez](https://github.com/JacquesSanchez)
 - [James Wilson](https://github.com/james-wilson-21)
   [Vaibhav Srivastava](https://github.com/Vaibhav-srivastava-knit)
 - [Roman Yefimets](https://github.com/romainiac)
