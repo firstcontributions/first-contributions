@@ -844,6 +844,7 @@ Vedant Borkar
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
 - [Tyler Woodcock](https://github.com/scolopaxminor)
+- [mmosc](https://github.com/mmosc/)
 - [Sam Asher]
 - [Hailey Dann] (https://github.com/hailey-d)
 - [Anish]
