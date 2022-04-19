@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
