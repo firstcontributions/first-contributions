@@ -35,6 +35,7 @@
 - [Kenny-Simpson](https://github.com/KNJI-Web-Creations)
 - [Rachelle](https://github.com/jollypolly123)
 - [Aaron](https://github.com/FlakTotem/)
+- [awiswasi](https://github.com/awiswasi/)
 - [Oscar](https://github.com/zitrocode)
 - [Ronak](https://github.com/ronakvir)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
