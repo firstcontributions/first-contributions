@@ -17,6 +17,7 @@
 - [Matthew Clark](https://https://github.com/maty714)
 - [MTM]
 - [pratish ninawe](https://github.com/Pratish10)
+- [katy millard](https://github.com/katy4599)
 - [Jeff Rutherford](https://github.com/JeffRutherford)
 - [Mayur Athavale](https://github.com/etterpaklokskapma1729)
 - [keerthana286](https://github.com/keerthana286)
