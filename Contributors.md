@@ -131,6 +131,7 @@
 - [Ale Castillo](https://github.com/aleepsy)
 - [Jyoti Bhaliyan](https://github.com/Jbhaliyan)
 - [Mohamed Chebaane](https://github.com/chebmohamed97)
+- [umaibox](https://github.com/umaibox)
 - [Zheng Li](https://github.com/nickync)
 - [Rahul Pundir](https://github.com/iamr9r)
 - [Alvin Alic](https://github.com/aalic1)
