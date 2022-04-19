@@ -485,6 +485,7 @@ Vedant Borkar
 - [Blake Yeboah](https://github.com/Blake-K-Yeboah)
 - [PW] (https://gihub.com/pvwali)
 - [Raquel] (https://github.com/rakicodes)
+- [Manu Sinha] (https://github.com/manusinha27)
 - [Izzy H.]
 - [Pramila Tamang](https://github.com/pramila09)
 - [Ben Janac](https://github.com/orobor0s/)
