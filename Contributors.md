@@ -175,6 +175,7 @@
 Indra Sonowal
 - [gigo64](https://github.com/gigo64)
 - [Héctor]
+- [Sujan Ghimire] (https://github.com/Sujan14728)
 - [JHalliwel]
 - [Michael Reyna] (https://github.com/MReyna12)
 - [Juan Miguel Castellanos Jaramillo](https://github.com/jmiguelcastellanosj)
