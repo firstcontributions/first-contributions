@@ -464,6 +464,7 @@ Vedant Borkar
 - [Shwe Zin](https://github.com/Shweryl)
 - [N. Dennis] (https://github.com/ndennis124)
 - [Saurabh Dange](https://github.com/Saurabh-Dange)
+- [Varad Paralikar](https://github.com/VARADSP)
 - [Laura Coronel](https://github.com/LauraAbCoronel)
 - [Akshay Krishna](https://github.com/akshay-krishna)
 - [DrowningSelf]
