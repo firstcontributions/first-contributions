@@ -48,6 +48,7 @@
 - [Oscar](https://github.com/zitrocode)
 - [Ronak](https://github.com/ronakvir)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
+- [Mbaziira Ronald](https://github.com/mbaziiraronald)
 - [Adam McFillin](https://github.com/amcfillin)
 - [Devyanshu Jadon](https://github.com/devyloper)
 - [AAleksandros](https://github.com/AAleksandros)
