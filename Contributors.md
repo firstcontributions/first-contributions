@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [ankushkumarshukla ]
 - [Yash](https://github.com/Yashk4444)
+- [Rain](https://github.com/lcy101u)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
 - [Jordi](https://github.com/JordiEspinozaMendoza)
