@@ -2056,6 +2056,7 @@ yejashi
 - [Julian Teschner](https://github.com/JulianTeschner)
 - [Jeo Vela](https://github.com/jeovela)
 - [Poula Helmy](https://github.com/poulahelmy)
+- [Lucas Passarella](https://github.com/LukeSparky/)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Alina Ryan](https://github.com/AlinaRyan)
 - [Berk Topbas](https://github.com/the-alchemist88)
