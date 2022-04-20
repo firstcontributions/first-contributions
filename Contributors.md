@@ -6344,4 +6344,5 @@ Duncan Ledesma
 - [V Sinho](https://github.com/vsinho)
 - [WangEn](https://github.com/WangEn)
 - [Dejmenek](https://github.com/Dejmenek)
+- [FulbertGato](https://github.com/FulbertGato)
 <!-- prettier-ignore-end -->
