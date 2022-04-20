@@ -6324,6 +6324,7 @@ Duncan Ledesma
 - [Jesse da Silva](https://github.com/jds1g14)
 - [Kai](https://github.com/akaigraham)
 - [ufo-alert](https://github.com/ufo-alert)
+  [Paul](https://github.com/pewiii?tab=repositories)
 - [tclem](https://github.com/tclem404)
 - [Victoria Blackburn](https://github.com/vacb)
 - [Mohamednur Hassan](https://github.com/mohamednur)
@@ -6343,5 +6344,4 @@ Duncan Ledesma
 - [V Sinho](https://github.com/vsinho)
 - [WangEn](https://github.com/WangEn)
 - [Dejmenek](https://github.com/Dejmenek)
-  [Paul](https://github.com/pewiii?tab=repositories)
 <!-- prettier-ignore-end -->
