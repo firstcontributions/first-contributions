@@ -61,6 +61,7 @@
 - [Oyekola Toheeb](https://github.com/To-heeb)
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [John Mbugua](https://github.com/mbuguaj254)
+- [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
 - [Alistair Taylor] (https://github.com/alistairmt1970) 
