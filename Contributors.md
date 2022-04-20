@@ -16,6 +16,7 @@
 - [mileticluka](https://github.com/mileticluka)
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
+- [Raghav Pandit](https://github.com/panditraghav)
 - [Julian Vickers](https://github.com/JulianVickers)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [IIvexII](https://github.com/IIvexII)
