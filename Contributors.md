@@ -792,6 +792,7 @@ Vedant Borkar
 - [Advay Ramesh](https://github.com/Advay0100)
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Saurav Raj](https://github.com/saurzv)
+- [Chad Theman] (https://github.com/CH-Webdev)
 - [nla] (https://github.com/NaingLynnAung9925)
 - [Evan Myllen] (https://github.com/muskievan95)
 - [Lachlan Daly] (https://github.com/LachieDaly)
