@@ -4,6 +4,7 @@
 - [ankushkumarshukla ]
 - [Yash](https://github.com/Yashk4444)
 - [Rain](https://github.com/lcy101u)
+- [Eliyahu Belay](https://github.com/EliyahuBelay)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
 - [Jordi](https://github.com/JordiEspinozaMendoza)
