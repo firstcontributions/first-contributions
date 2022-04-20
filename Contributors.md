@@ -6325,6 +6325,7 @@ Duncan Ledesma
 - [Jesse da Silva](https://github.com/jds1g14)
 - [Kai](https://github.com/akaigraham)
 - [ufo-alert](https://github.com/ufo-alert)
+  [Paul](https://github.com/pewiii?tab=repositories)
 - [tclem](https://github.com/tclem404)
 - [Victoria Blackburn](https://github.com/vacb)
 - [Mohamednur Hassan](https://github.com/mohamednur)
