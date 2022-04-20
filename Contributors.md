@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [ankushkumarshukla ]
 - [Yash](https://github.com/Yashk4444)
+- [Fazil Raja](https://github.com/fazilraja)
 - [Rain](https://github.com/lcy101u)
 - [Eliyahu Belay](https://github.com/EliyahuBelay)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
