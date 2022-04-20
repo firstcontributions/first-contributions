@@ -833,6 +833,7 @@ Vedant Borkar
 - [Andrew Ross] (https://github.com/namenotinuse)
 - [Hakima Maarouf](https://github.com/hamaarouf)
 - [Elise Young](https://github.com/elise-young)
+- [Ayoub Taji](https://github.com/ataji)
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
 - [Marc Perlas](https://github.com/DadTech)
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
