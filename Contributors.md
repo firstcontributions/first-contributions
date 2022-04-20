@@ -15,6 +15,7 @@
 - [Ka Hung Lee](https://github.com/leekahung)
 - [Manoj Kumar](https://github.com/mtkumar123/)
 - [Matthew Clark](https://https://github.com/maty714)
+- [Jonatandb](https://github.com/Jonatandb)
 - [MTM]
 - [pratish ninawe](https://github.com/Pratish10)
 - [katy millard](https://github.com/katy4599)
