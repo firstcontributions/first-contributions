@@ -5,6 +5,7 @@
 - [Yash](https://github.com/Yashk4444)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
+- [Jordi](https://github.com/JordiEspinozaMendoza)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
 - [dyCodes](https://github.com/dyCodes)
