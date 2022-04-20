@@ -417,6 +417,7 @@ Vedant Borkar
 - [Linh Dang]
 - [Tran Dang]
 - [AL]
+- [Tony Smith](https://github.com/g8rda)
 - [SimonS]
 - [tyche5]
 - [Harry Johnson](https://github.com/Hjohnson7)
