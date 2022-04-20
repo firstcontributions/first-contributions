@@ -6298,6 +6298,7 @@ Duncan Ledesma
 - [Noah Nannen]
 - -[Suman Roy](https://github.com/Suman373)
 - [Alexandr]
+- [Alicia Largent]
 - [bhura](https://github.com/bhura112)
 - [David](https://github.com/DatskoDavid)
 - [Pietras](https://github.com/PietrasWoo)
