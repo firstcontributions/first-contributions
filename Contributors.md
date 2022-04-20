@@ -5,6 +5,7 @@
 - [Raymond](https://github.com/raymondariwoola)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Xevziler](https://github.com/Xevziler)
+- [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
 - [mileticluka](https://github.com/mileticluka)
 - [Pokruk](https://github.com/Pokruk)
