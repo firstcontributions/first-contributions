@@ -12,6 +12,7 @@
 - [Raymond](https://github.com/raymondariwoola)
 - [Jordi](https://github.com/JordiEspinozaMendoza)
 - [Chan](https://github.com/Chan-Amasawa)
+- [Adetola Ogundipe](https://github.com/tolaogundipe)
 - [Xevziler](https://github.com/Xevziler)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
