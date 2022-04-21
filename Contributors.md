@@ -6286,6 +6286,7 @@ Duncan Ledesma
 -[JJRoss](https://github.com/JJ-Ross)
 - [Wyatt](https://github.com/y-at)
 - [Garrett Guymon]
+  [Alexis](https://github.com/aarbaiza100)
 - [Verlangen](https://github.com/verlangen)
 - [Keenan Kan](https://github.com/keenerz) 👋
 - [Viraj Shah](https://github.com/virajbshah)
@@ -6366,4 +6367,5 @@ Duncan Ledesma
 - [Dejmenek](https://github.com/Dejmenek)
 - [FulbertGato](https://github.com/FulbertGato)
 - [Joko](https://github.com/Chatra11)
+
 <!-- prettier-ignore-end -->
