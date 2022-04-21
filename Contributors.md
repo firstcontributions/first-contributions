@@ -64,6 +64,7 @@
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Jonathan Chen](https://github.com/JonHPC)
 - [ Sol Cif](https://github.com/Scif99)
+- [itsmraga-hub](https://github.com/itsmraga-hub)
 - [TiknockTokomak] (https://github.com/TiknockTokomak)
 - [Hamdi Guerbej] (https://github.com/guerbejhamdi)
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
