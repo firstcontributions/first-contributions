@@ -122,6 +122,7 @@
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Chrstphr Hll](https://github.com/ChrstphrHll)
 - [Andrew Whitman]
+- [Elroy Urbina](https://github.com/RoyTheJet)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Taylor Kelly](https://github.com/AbbaZabbaCodes)
