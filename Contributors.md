@@ -93,6 +93,7 @@
 - [Soumen samanta](https://github.com/soumen246)
 - [Your Mum](https://github.com/SowmeshSharma0411)
 - [Shrikant Dhayje](https://github.com/shriekdj)
+- [SinisterGaze](https://github.com/SinisterGaze)
 - [lucky-chap](https://github.com/lucky-chap)
 - [eden2888] (https://github.com/eden2888)
 - [Kieran Klukas](https://github.com/kcoderhtml)
