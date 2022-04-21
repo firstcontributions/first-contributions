@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [ankushkumarshukla ]
+- [Alec](https://github.com/aelishRollo)
 - [Yash](https://github.com/Yashk4444)
 - [Fazil Raja](https://github.com/fazilraja)
 - [Rain](https://github.com/lcy101u)
