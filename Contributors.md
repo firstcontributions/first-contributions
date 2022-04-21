@@ -6357,4 +6357,5 @@ Duncan Ledesma
 - [WangEn](https://github.com/WangEn)
 - [Dejmenek](https://github.com/Dejmenek)
 - [FulbertGato](https://github.com/FulbertGato)
+- [Joko](https://github.com/Chatra11)
 <!-- prettier-ignore-end -->
