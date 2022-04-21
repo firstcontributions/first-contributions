@@ -2327,6 +2327,7 @@ Himanshu Dedha
 - [Raymond Yan](https://github.com/raymond-design)
 - [🌜 Claudia Benito 🌛](https://github.com/claudiabdm)
 - [Sean Finegan](https://github.com/SFin12)
+- [Yaoxing Xu](https://github.com/xuyaoxing)
 - [Carlos Monge](https://github.com/Cmonge135)
 - [Tanya Rastogi](https://github.com/iamtanya-22)
 - [Pratik Anand](https://github.com/pratik8696)
