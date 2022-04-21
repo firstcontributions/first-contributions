@@ -33,6 +33,7 @@
 - [keerthana286](https://github.com/keerthana286)
 - [techMonowar](https://github.com/techMonowar)
 - [rahulkarda](https://github.com/rahulkarda)
+- [Nishith Choudhary](https://github.com/nishu8)
 - [Obaida HY](https://github.com/ObaidaHY)
 - [Augustin Lima](https://github.com/aaugustinlima)
 - [PerpetualPenguin](https://github.com/PerpetualPenguin)
