@@ -56,6 +56,7 @@
 - [Devyanshu Jadon](https://github.com/devyloper)
 - [AAleksandros](https://github.com/AAleksandros)
 - [svtdoug](https://github.com/svtdoug)
+- [Ankit Jaiswal](https://github.com/ankit0305)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Jackson Tai](https://www.github.com/JacksonTai/)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
