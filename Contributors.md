@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [ankushkumarshukla ]
+- [PedroTolvo_aka_pwdrc]
 - [Alec](https://github.com/aelishRollo)
 - [Yash](https://github.com/Yashk4444)
 - [Duncan](https://github.com/dskilton)
