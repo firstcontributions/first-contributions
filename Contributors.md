@@ -241,6 +241,7 @@ Indra Sonowal
 - [Joshua](https://github.com/kxng0109)
 - [Antoine Q.](https://github.com/antoine-q)
 - [Omkar Ashtekar](https://github.com/omkarun)
+- [Rodrigo Casanova](https://github.com/rodrigo0345)
 - [Davis-sang](https://github.com/davis-sang)
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
