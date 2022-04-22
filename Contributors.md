@@ -6379,4 +6379,5 @@ Duncan Ledesma
 - [Mahmoud Easa](https://github.com/MahmoudEasa)
 - [Joko](https://github.com/Chatra11)
 - [OrenLai](https://github.com/OrenLai)
+- [Sachin Bhat](https://github.com/bhatsac)
 <!-- prettier-ignore-end -->
