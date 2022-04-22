@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [wyt](https://github.com/wyt)
 - [ankushkumarshukla ]
 - [PedroTolvo_aka_pwdrc]
 - [Alec](https://github.com/aelishRollo)
