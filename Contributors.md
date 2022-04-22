@@ -327,7 +327,7 @@ Vedant Borkar
 - [Omar Hosam](https://github.com/OmarHosam)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
-- [Fra]
+- [Fran]
 - [Pavan](https://github.com/pavan2108)
 - [Chrispy]
 - Hamdan Salih
