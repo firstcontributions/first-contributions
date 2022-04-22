@@ -5400,6 +5400,7 @@ Himanshu Dedha
 - [Tom Peeters](https://github.com/tomhpeeters)
 - [Raghavendra] (https://raghavendrarao4.github.io/)
 - [Aditya Sharma] (https://github.com/adityash1)
+- [Maksim-yo]
 - [Rajendra Rakha] (https://github.com/rjndrkha)
 - [Lara Giuliana](https://github.com/laragiuliana)
 - [Sofía I. Crespo Maldonado] (https://github.com/SofiaCrespoMaldo)
