@@ -232,6 +232,7 @@ Indra Sonowal
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [Maina Kibe](hhtp://github.com/Mainakibe)
+- [jannickbath](https://github.com/jannickbath)
 - [ZigRazor](https://github.com/ZigRazor)
 - [Jasmine](https://github.com/jasminelee789)
 - [Joshua](https://github.com/kxng0109)
