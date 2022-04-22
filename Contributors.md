@@ -204,6 +204,7 @@
 - [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
 - [Chad Watson](https://github.com/kaedda)
+- [Shyamanand Yadav](https://github.com/shyamayadav154)
 - [wuteek](https://github.com/wuteek)
 Indra Sonowal
 - [gigo64](https://github.com/gigo64)
