@@ -23,6 +23,7 @@
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
 - [mileticluka](https://github.com/mileticluka)
+- [Lloyd the man]
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [gold]
