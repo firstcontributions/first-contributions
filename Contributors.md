@@ -2061,6 +2061,7 @@ yejashi
 - [Mansi  Vashistha] (https://github.com/Mansihub)
 - [Arminder Singh](https://github.com/dev-arminder)
 - [Brijesh Kumar Sharma] (https://github.com/Brijesh-kumar-sharma)
+- [Kacper Kaczmarzyk] (https://github.com/Anfarius)
 - [Trevor James Geiger] (https://github.com/trevorgeiger)
 - [Kayla Oates] (https://github.com/KaylaOates)
 - [Gaurav Basu](https://github.com/gauravbasu6)
