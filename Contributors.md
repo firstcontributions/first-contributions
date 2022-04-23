@@ -61,6 +61,7 @@
 - [awiswasi](https://github.com/awiswasi/)
 - [Oscar](https://github.com/zitrocode)
 - [Ronak](https://github.com/ronakvir)
+- [Tan Zi Xi](https://github.com/tzixi)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [Mbaziira Ronald](https://github.com/mbaziiraronald)
 - [Adam McFillin](https://github.com/amcfillin)
