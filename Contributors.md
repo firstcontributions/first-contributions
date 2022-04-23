@@ -6389,4 +6389,5 @@ Duncan Ledesma
 - [Joko](https://github.com/Chatra11)
 - [OrenLai](https://github.com/OrenLai)
 - [Sachin Bhat](https://github.com/bhatsac)
+- [Kadank](https://github.com/kadank)
 <!-- prettier-ignore-end -->
