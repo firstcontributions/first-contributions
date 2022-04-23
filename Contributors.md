@@ -9,6 +9,7 @@
 - [Yash](https://github.com/Yashk4444)
 - [Duncan](https://github.com/dskilton)
 - [Fazil Raja](https://github.com/fazilraja)
+- [Muhammed Shehaz](https://github.com/sh3hz)
 - [Rain](https://github.com/lcy101u)
 - [Eliyahu Belay](https://github.com/EliyahuBelay)
 - [Utmost Re](https://github.com/utmostre)
