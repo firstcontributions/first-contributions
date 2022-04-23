@@ -17,6 +17,7 @@
 - [Jordi](https://github.com/JordiEspinozaMendoza)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Adetola Ogundipe](https://github.com/tolaogundipe)
+- [wasswaenockmale](https://github.com/wasswaenockmale/)
   [Scaramouche9](https://github.com/Scaramouche9)
 - [Xevziler](https://github.com/Xevziler)
 - [dyCodes](https://github.com/dyCodes)
