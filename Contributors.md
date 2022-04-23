@@ -6393,4 +6393,5 @@ Duncan Ledesma
 - [OrenLai](https://github.com/OrenLai)
 - [Sachin Bhat](https://github.com/bhatsac)
 - [Kadank](https://github.com/kadank)
+- [Rocky](https://github.com/simpleplanya)
 <!-- prettier-ignore-end -->
