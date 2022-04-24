@@ -6406,4 +6406,5 @@ Duncan Ledesma
 - [Sachin Bhat](https://github.com/bhatsac)
 - [Kadank](https://github.com/kadank)
 - [Rocky](https://github.com/simpleplanya)
+- [Beni](https://github.com/arbenferati)
 <!-- prettier-ignore-end -->
