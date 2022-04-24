@@ -6409,4 +6409,5 @@ Duncan Ledesma
 - [Kadank](https://github.com/kadank)
 - [Rocky](https://github.com/simpleplanya)
 - [Beni](https://github.com/arbenferati)
+- [Krisyohanda](https://github.com/krisyohanda)
 <!-- prettier-ignore-end -->
