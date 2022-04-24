@@ -5,6 +5,7 @@
 - [wyt](https://github.com/wyt)
 - [ankushkumarshukla ]
 - [PedroTolvo_aka_pwdrc]
+- [Shettima Ali] (https://github.com/Shetteemah)
 - [Alec](https://github.com/aelishRollo)
 - [Yash](https://github.com/Yashk4444)
 - [Duncan](https://github.com/dskilton)
