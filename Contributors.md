@@ -413,6 +413,7 @@ Vedant Borkar
 - [Amay Jain](https://github.com/vrindavan)
 - [Shidharth Limboo](https://github.com/sushimushi)
 - [Aman Kumar](https://github.com/Aman98801)
+- [Yakov Bershtadt]
 - [Joel Giannelli](https://github.com/jg100)
 - [Kieran Roberts] (https://github.com/K-R237)
 - [Dhananjayan Vinayagam](https://github.com/Dhanajayan)
