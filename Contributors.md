@@ -140,6 +140,7 @@
 - [simon wu](https://github.com/simon-engineer)
 - [Emmanuel Akanji](https://github.com/manny-uncharted)
 - [jake hourani]
+- [Eric Fenton](https://github.com/Eribloot)
 - [Luca](https://github.com/lucapdr01)
 - [bbulakit](https://github.com/bbulakit)
 - [Doug_Shipman](https://github.com/explr77)
