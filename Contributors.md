@@ -4510,6 +4510,7 @@ Himanshu Dedha
 - [Bilou](https://github.com/Bilou4)
 - [Amanpreet](https://github.com/amanpreet9391)
 - [Chris](https://github.com/ChrisHaslam93)
+- [Michael](https://github.com/Michael3161010)
 - [Amelia](https://github.com/AmeliaGryffon)
 - [kiwidreamz](https://github.com/kiwidreamz)
 - [Sanchit Saxena](https://github.com/Sanshx)
