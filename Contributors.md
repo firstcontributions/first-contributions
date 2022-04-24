@@ -369,6 +369,7 @@ Vedant Borkar
 - [Diko](https://github.com/Ihtiandiko03)
 -[Dave](https://github.com/dsmallhoover)
 - [Palmese Davide Mattia] (https://github.com/PalmeseDavideMattia)
+- [Juvert Mbah] (https://github.com/juvertmbah)
 - [Vincent Limo](https://github.com/v-limo)
 - [Ilyass Salamat](https://github.com/ily-salamat)
 - [Mayank Pathak](https://github.com/bad-at-names0)
