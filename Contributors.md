@@ -2464,6 +2464,7 @@ yejashi
 - [Julian Lopez](https://github.com/Juliandreslopez)
 - [Nagulapally Anudeep] (https://github.com/Nagulapally-Anudeep)
 - [Madan](https://github.com/Madanaa)
+- [Rednorme](https://github.com/Rednorme)
 - [Roberto Yudi](https://github.com/Roberto-Yudi)
 - [Sushant Chhetry](https://github.com/SushantChhetry)
 - [John Nolan](https://github.com/Fediry)
