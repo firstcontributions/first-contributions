@@ -83,6 +83,7 @@
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Jackson Tai](https://www.github.com/JacksonTai/)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
+- [Jeremy] (https://github.com/jqwez)
 - [Mukul Bhardwaj](https://github.com/mb-008)
 - [KHN](https://github.com/Ko-Htet-Naing)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
