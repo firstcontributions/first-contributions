@@ -241,6 +241,8 @@
 - [Shajith Hameed](https://github.com/d3xferno)
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
+- [Ranj] (https://github.com/rnj50)
+
 - [Luz Jimenez Vela] (https://github.com/luzloujv)
 - [Emmanuel Alao] (https://github.com/omogidi)
 - [Dhineshkumar R] (https://github.com/dk017)
