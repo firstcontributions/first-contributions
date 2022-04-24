@@ -18,6 +18,7 @@
 - [Raymond](https://github.com/raymondariwoola)
 - [Jordi](https://github.com/JordiEspinozaMendoza)
 - [Chan](https://github.com/Chan-Amasawa)
+- [Tejas](https://github.com/Tejas9535)
 - [Adetola Ogundipe](https://github.com/tolaogundipe)
 - [wasswaenockmale](https://github.com/wasswaenockmale/)
   [Scaramouche9](https://github.com/Scaramouche9)
