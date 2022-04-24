@@ -6,6 +6,7 @@
 - [ankushkumarshukla ]
 - [PedroTolvo_aka_pwdrc]
 - [Alec](https://github.com/aelishRollo)
+- [Alan](https://github.com/CipherKill/)
 - [Yash](https://github.com/Yashk4444)
 - [Duncan](https://github.com/dskilton)
 - [Fazil Raja](https://github.com/fazilraja)
