@@ -6415,4 +6415,5 @@ Duncan Ledesma
 - [Rocky](https://github.com/simpleplanya)
 - [Beni](https://github.com/arbenferati)
 - [Krisyohanda](https://github.com/krisyohanda)
+- [minioura-a](https://github.com/minoura-a)
 <!-- prettier-ignore-end -->
