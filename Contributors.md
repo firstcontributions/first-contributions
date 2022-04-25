@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [akavort]
 - [wyt000000]
 - [wyt](https://github.com/wyt)
 - [ankushkumarshukla ]
