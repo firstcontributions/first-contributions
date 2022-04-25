@@ -6420,4 +6420,5 @@ Duncan Ledesma
 - [Beni](https://github.com/arbenferati)
 - [Krisyohanda](https://github.com/krisyohanda)
 - [minioura-a](https://github.com/minoura-a)
+- [Muhammet ŞAFAK](https://github.com/muhammetsafak)
 <!-- prettier-ignore-end -->
