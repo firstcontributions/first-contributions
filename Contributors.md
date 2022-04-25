@@ -382,6 +382,7 @@ Vedant Borkar
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Aditya Joshi](https://github.com/Joshi-Adi)
+- [Mathieu Albin](https://github.com/jaegar-wolf)
 - [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
 - [Dane LeBlanc](https://github.com/dane-leblanc)
