@@ -331,6 +331,7 @@ Indra Sonowal
 - [A Friedman]
 - [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
+- [Shayne Luangvisa] (https://github.com/ShayneSL/)
 - [Tony Raud](https://github.com/lamineer)
 - [Himansh] (https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
