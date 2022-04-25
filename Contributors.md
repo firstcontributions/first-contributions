@@ -200,6 +200,7 @@
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Mukhtar Onifade](https://github.com/basfar)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
+- [PrairieWaltz](https://github.com/PrairieWaltz)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
