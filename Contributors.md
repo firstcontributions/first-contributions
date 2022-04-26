@@ -110,6 +110,7 @@
 - [Justin Quinn] (https://github.com/jpq3366)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
+- [Luke Simone](https://github.com/lukesnc)
 - [Tony Ube](https://github.com/tuta-bits)
 - [Jose Medina](https://github.com/JoseMedina24)
 - [Andre Alves](https://github.com/andrealvesaraujo)
