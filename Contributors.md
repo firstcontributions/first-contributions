@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [khada]
 - [akavort]
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [wyt0000]
