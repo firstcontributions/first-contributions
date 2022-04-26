@@ -724,6 +724,7 @@ Vedant Borkar
 - [Anas Rouam]
 -[Starborne] (https://github.com/plasmawalrus)
 - Vijay Ponnavolu
+- [Jet Sng] (https://github.com/zjsng)
 - [Abisai Arreguin](https://github.com/Abisai-Arreguin)
 - [Raymond Tsang](https://github.com/bakmei)
 - [Haytham Daoula] (https://github.com/DHaytham)
