@@ -65,6 +65,7 @@
 -[TomBurrows101](https://github.com/TomBurrows101)
 -[89453728](https://github.com/89453728)
 -[Sandeep Kumar Rai]
+- [Alex]
 - [yamatonao](https://github.com/yamatonao)
 - [andrewkuhl](https://github.com/andrewkuhl)
 - [Dipankur](https://github.com/dipankurverma)
