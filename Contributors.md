@@ -67,6 +67,7 @@
 -[Sandeep Kumar Rai]
 - [Alex]
 - [yamatonao](https://github.com/yamatonao)
+- [04Deek](https://github.com/04Deek)
 - [andrewkuhl](https://github.com/andrewkuhl)
 - [Dipankur](https://github.com/dipankurverma)
 - [ThomasMThoppil](https://github.com/ThomasMThoppil)
