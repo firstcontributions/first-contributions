@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [khada]
 - [akavort]
 - [wyt000000]
 - [wyt](https://github.com/wyt)
