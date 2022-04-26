@@ -6298,6 +6298,7 @@ Michael Wong
 - [mweerts](https://github.com/mweerts)
 - [vivek vaidya](https://github.com/Husler007)
 - [Jersey Liu](https://github.com/NeoJersey)
+- [Afroditi Doriti](https://github.com/adoriti)
 - [Twatchal](https://github.com/Twatchal)
 - [mixed-source](https://github.com/mixed-source)
 - [newbie](https://github.com/newbie2298)
