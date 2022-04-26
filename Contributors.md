@@ -4271,6 +4271,7 @@ Himanshu Dedha
 - [Rafael](https://github.com/rafaelnq)
 - [zchazc](https://github.com/zchazc)
 - [Renato Paiva](https://github.com/renatopaivabv)
+- [Renato Mercado](https://github.com/merRen22)
 - [McKenna-RF](https://github.com/mckenna-rf)
 - [KA](https://github.com/KA2033)
 - [Darshani Audhish](https://github.com/darshani28)
