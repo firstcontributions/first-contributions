@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 - [akavort]
 - [Iftikhar #100Devs](https://github.com/ifti891)
-- [wyt0000
+- [wyt0000]
 - [wyt](https://github.com/wyt)
 - [ankushkumarshukla ]
 - [PedroTolvo_aka_pwdrc]
