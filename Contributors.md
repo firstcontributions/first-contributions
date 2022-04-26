@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [akavort]
 - [wyt000000]
 - [wyt](https://github.com/wyt)
 - [ankushkumarshukla ]
@@ -97,6 +98,7 @@
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
 - [Oyekola Toheeb](https://github.com/To-heeb)
 - [Peeyush Guleria](https://github.com/peeyushguleria)
+- [Josue Santos-Ramirez](https://github.com/Josue-SR)
 - [John Mbugua](https://github.com/mbuguaj254)
 - [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
@@ -200,6 +202,7 @@
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Mukhtar Onifade](https://github.com/basfar)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
+- [PrairieWaltz](https://github.com/PrairieWaltz)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
@@ -382,6 +385,7 @@ Vedant Borkar
 - [Stan Suo](https://github.com/stansuo)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Aditya Joshi](https://github.com/Joshi-Adi)
+- [Mathieu Albin](https://github.com/jaegar-wolf)
 - [Adedamola XL](https://github.com/AdedamolaXL)
 - [zedestrian](https://github.com/zedestrian)
 - [Dane LeBlanc](https://github.com/dane-leblanc)
@@ -6417,4 +6421,7 @@ Duncan Ledesma
 - [Beni](https://github.com/arbenferati)
 - [Krisyohanda](https://github.com/krisyohanda)
 - [minioura-a](https://github.com/minoura-a)
+- [Muhammet ŞAFAK](https://github.com/muhammetsafak)
+- [Mustafa Siddiqui](https://github.com/mush1e)
+- [Kain Klob](https://github.com/KKlob)
 <!-- prettier-ignore-end -->
