@@ -6421,4 +6421,5 @@ Duncan Ledesma
 - [Krisyohanda](https://github.com/krisyohanda)
 - [minioura-a](https://github.com/minoura-a)
 - [Muhammet ŞAFAK](https://github.com/muhammetsafak)
+- [Mustafa Siddiqui](https://github.com/mush1e)
 <!-- prettier-ignore-end -->
