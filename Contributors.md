@@ -6422,4 +6422,5 @@ Duncan Ledesma
 - [minioura-a](https://github.com/minoura-a)
 - [Muhammet ŞAFAK](https://github.com/muhammetsafak)
 - [Mustafa Siddiqui](https://github.com/mush1e)
+- [Kain Klob](https://github.com/KKlob)
 <!-- prettier-ignore-end -->
