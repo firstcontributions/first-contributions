@@ -130,6 +130,7 @@
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
 - [Kanan Azizli] (https://github.com/kananazizli)
+- [Kolbi Esch] (https://github.com/KolbiEsch)
 - [Nikolai Baklanov] (https://github.com/Nikolaiko)
 - [Marja Centina] (https://github.com/murrha)
 - [Kristin Harris] (https://github.com/reverie64)
