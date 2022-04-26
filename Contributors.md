@@ -15,6 +15,7 @@
 - [Duncan](https://github.com/dskilton)
 - [Fazil Raja](https://github.com/fazilraja)
 - [Muhammed Shehaz](https://github.com/sh3hz)
+- [Blankjr](https://github.com/Blankjr)
 - [Rain](https://github.com/lcy101u)
 - [Isaac](https://github.com/isaacangyu)
 - [Eliyahu Belay](https://github.com/EliyahuBelay)
