@@ -6384,6 +6384,7 @@ Duncan Ledesma
 - [Alicia Largent]
 - pufferjacket
 - [bhura](https://github.com/bhura112)
+- [Tundrian](https://github.com/Tundrian)
 - [David](https://github.com/DatskoDavid)
 - [Pietras](https://github.com/PietrasWoo)
 - [TheDivloop](https://github.com/thedivloop)
