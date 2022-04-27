@@ -6443,4 +6443,5 @@ Duncan Ledesma
 - [Rain](https://github.com/chasingtherain)
 - [Mon](https://github.com/MonicaNeel)
 - [Tanwa](https://github.com/JustTanwa)
+- [Alex](https://github.com/AlejandroBlanco)
 <!-- prettier-ignore-end -->
