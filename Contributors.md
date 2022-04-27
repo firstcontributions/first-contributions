@@ -39,6 +39,7 @@
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
 - [Pokruk](https://github.com/Pokruk)
+- [cody] (https://github.com/codynw42)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [gold]
 - [Amin Awinti](https://github.com/Amin-Awinti)
