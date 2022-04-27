@@ -6437,4 +6437,5 @@ Duncan Ledesma
 - [Kain Klob](https://github.com/KKlob)
 - [Alma Lindborg] (https://github.com/alma-lindborg/)
 - howsun
+- [Rain](https://github.com/chasingtherain)
 <!-- prettier-ignore-end -->
