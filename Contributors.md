@@ -6,6 +6,7 @@
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [wyt0000]
 - [wyt](https://github.com/wyt)
+- [Josue](https://github.com/jpsphaxer)
 - [ankushkumarshukla ]
 - [PedroTolvo_aka_pwdrc]
 - [Shettima Ali] (https://github.com/Shetteemah)
