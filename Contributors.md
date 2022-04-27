@@ -42,6 +42,7 @@
 - [gold]
 - [Amin Awinti](https://github.com/Amin-Awinti)
 - [Raghav Pandit](https://github.com/panditraghav)
+- [Melvin Jacob] (https://github.com/melvinouseph)
 - [Julian Vickers](https://github.com/JulianVickers)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
 - [BBTing1](https://github.com/BBTing1/)
