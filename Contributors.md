@@ -733,6 +733,7 @@ Vedant Borkar
 - [Eden Bar](https://github.com/dxomaster)
 - [Shantanu Tiwari](https://github.com/Shantanu2442/)
 - [Dshane Godbold](https://github.com/DshaneGodbold)
+- [Leonardo Gonfiantini]
 - [Nakul Rathore]
 - [Anas Rouam]
 -[Starborne] (https://github.com/plasmawalrus)
