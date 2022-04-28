@@ -11,6 +11,7 @@
 - [ankushkumarshukla ]
 - [llSeeSharpll]
 - [PedroTolvo_aka_pwdrc]
+- [DuckBeGodz]
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alec](https://github.com/aelishRollo)
