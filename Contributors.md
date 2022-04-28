@@ -38,7 +38,7 @@
 - [mitchiban](https://github.com/mitchiban)
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
-- [Izik](https://github.com/izik-martinez)
+- [Iziks](https://github.com/izik-martinez)
 - [Pokruk](https://github.com/Pokruk)
 - [cody] (https://github.com/codynw42)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
