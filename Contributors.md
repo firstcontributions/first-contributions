@@ -323,6 +323,7 @@ Indra Sonowal
 - [David Meadows] (https://github.com/dmeadows8585)
 - [Fede Chaves] (https://github.com/fedechaves)
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
+- [Mohamed Khaled Mahmoud]
 - [Augusto](https://github.com/augustoibarrola)
 - [Hüseyin Şen Kaya](https://github.com/huseyinsenkaya)
 - [Rong Xiang](https://github.com/zjrongxiang)
