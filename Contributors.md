@@ -97,6 +97,7 @@
 - [Jeremy] (https://github.com/jqwez)
 - [Mukul Bhardwaj](https://github.com/mb-008)
 - [KHN](https://github.com/Ko-Htet-Naing)
+- [Carlos Monge Jr](https://github.com/CarlosMongeJr)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Jonathan Chen](https://github.com/JonHPC)
 - [ Sol Cif](https://github.com/Scif99)
