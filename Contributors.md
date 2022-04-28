@@ -88,6 +88,7 @@
 - [Ronak](https://github.com/ronakvir)
 - [Tan Zi Xi](https://github.com/tzixi)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
+- [TaVon Yuille] (https://github.com/tsyuille)
 - [Mbaziira Ronald](https://github.com/mbaziiraronald)
 - [Adam McFillin](https://github.com/amcfillin)
 - [Devyanshu Jadon](https://github.com/devyloper)
