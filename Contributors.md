@@ -11,7 +11,7 @@
 - [ankushkumarshukla ]
 - [llSeeSharpll]
 - [PedroTolvo_aka_pwdrc]
-- [Salman Sayyed](https://github.com/Salman-Sayyed)
+- [Salman Sayyed](https://github.com/Sayyed-Salman)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
