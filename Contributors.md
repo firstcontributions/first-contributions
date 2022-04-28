@@ -117,6 +117,7 @@
 - [Justin Quinn] (https://github.com/jpq3366)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
 - [Manan Karnik] (https://github.com/MananKarnik)
+- [Danilo Vuksanovic aka Chodala] (https://github.com/Chodala)
 - [Luke Simone](https://github.com/lukesnc)
 - [Tony Ube](https://github.com/tuta-bits)
 - [Jose Medina](https://github.com/JoseMedina24)
