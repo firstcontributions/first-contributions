@@ -346,6 +346,7 @@ Indra Sonowal
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc ](https://github.com/NiranjanNlc)
 - [A Friedman]
+- [Omary Ally] (https://github.com/IamOmasa)
 - [Lu de Oliveira](https://github.com/ludeoliveira)
 - [Ingela]
 - [Shayne Luangvisa] (https://github.com/ShayneSL/)
