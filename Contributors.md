@@ -181,6 +181,7 @@
 - [Dhanush Suvarna](https://github.com/Dhanush-git)
 - [Shrey](https://github.com/shreykinshu)
 - [electroNBS](https://github.com/electroNBS)
+- [Dhruv Mittal](https://github.com/d14mittal)
 - [Rhett G](https://github.com/rhettg28)
 - [Nikhil](https://github.com/Kirito-Excalibur)
 - [Anna Luz Serena](https://github.com/annaluzserena)
