@@ -366,6 +366,7 @@ Indra Sonowal
 - [Himansh] (https://github.com/Himuu14) 
 - [Jose Latines](https://github.com/joselatines)
 - [Yafet Berhanu](https://github.com/yaphet17)
+- [Arthur Gartner](https://github.com/ArthurGartner)
 - [Liam] (https://github.com/LiamGlenn)
 - [Nox](github.com/NoxF7)
 - [Victoria] (github.com/vjordan-cs)
