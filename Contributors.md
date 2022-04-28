@@ -6450,6 +6450,7 @@ Duncan Ledesma
 - [Kain Klob](https://github.com/KKlob)
 - [Alma Lindborg] (https://github.com/alma-lindborg/)
 - howsun
+- [simona]
 - [Rain](https://github.com/chasingtherain)
 - [Mon](https://github.com/MonicaNeel)
 - [Tanwa](https://github.com/JustTanwa)
