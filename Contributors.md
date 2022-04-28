@@ -6476,4 +6476,5 @@ Duncan Ledesma
 - [wangjiancheng](https://github.com/wjcwin)
 - [Issei20]
 - [bdf715](https://github.com/bdf715)
+- [Gene Lyth](https://github.com/gmlyth)
 <!-- prettier-ignore-end -->
