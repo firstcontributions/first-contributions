@@ -6480,4 +6480,5 @@ Duncan Ledesma
 - [Gene Lyth](https://github.com/gmlyth)
 - [WeiKeng Ng]](https://github.com/hawkng)
 - [Gabriel Hanich](https://github.com/gabriel-hanich)
+- [Kingson Zhang](https://github.com/kingsonzhang)
 <!-- prettier-ignore-end -->
