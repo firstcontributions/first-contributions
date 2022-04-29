@@ -575,6 +575,7 @@ Vedant Borkar
 - [C.Beare] (https://github.com/SeaBeare)
 - [Vamsi Kumar] (https://github.com/kuwar81523)
 - [Arnav Khajuria] (https://github.com/arnavk1872)
+- [eliza]
 - [adkood] (https://github.com/adkood)
 - [JAAS] (https://github.com/jaas666)
 - [Filippos Makridis] (https://github.com/noobas32)
