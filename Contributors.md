@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ritik Singh](https://github.com/bloodmonk7)
+- [Philip]
 - [khada]
 - [akavort]
 - [Iftikhar #100Devs](https://github.com/ifti891)
