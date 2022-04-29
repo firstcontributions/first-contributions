@@ -376,6 +376,7 @@ Indra Sonowal
 - [Liam] (https://github.com/LiamGlenn)
 - [Nox](github.com/NoxF7)
 - [Victoria] (github.com/vjordan-cs)
+- [Jeppe Hauman] (https://github.com/JeppeHauman)
 - [Sana]
 - [Matt Villa](https://github.com/mv805)
 Vedant Borkar
