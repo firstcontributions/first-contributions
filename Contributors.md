@@ -356,6 +356,7 @@ Indra Sonowal
 - [Aleks Hatfield](https://github.com/aleks-hat)
 - [Aavash Chhetri](https://github.com/A-atmos)
 - [Sumanth P]
+- [Jagmeet Singh]
 - [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc ](https://github.com/NiranjanNlc)
