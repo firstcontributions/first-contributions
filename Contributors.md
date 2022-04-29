@@ -6486,4 +6486,5 @@ Duncan Ledesma
 - [Gabriel Hanich](https://github.com/gabriel-hanich)
 - [Kingson Zhang](https://github.com/kingsonzhang)
 - [Gulcan Topcu] (https://github.com/colossus06)
+- [Michał Wieczorek](https://github.com/misiekIDD)
 <!-- prettier-ignore-end -->
