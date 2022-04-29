@@ -6479,4 +6479,5 @@ Duncan Ledesma
 - [bdf715](https://github.com/bdf715)
 - [Gene Lyth](https://github.com/gmlyth)
 - [WeiKeng Ng]](https://github.com/hawkng)
+- [Gabriel Hanich](https://github.com/gabriel-hanich)
 <!-- prettier-ignore-end -->
