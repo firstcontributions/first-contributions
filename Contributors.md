@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Aiden Frevert](https://github.com/afrevert)
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Philip]
 - [khada]
