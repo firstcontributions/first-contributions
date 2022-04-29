@@ -10,6 +10,7 @@
 - [Josue](https://github.com/jpsphaxer)
   [DrewNextTime](https://github.com/DrewNextTime)
 - [ankushkumarshukla ]
+- [Ayushman Sanjeev](https://github.com/tiredhorse)
 - [llSeeSharpll]
 - [PedroTolvo_aka_pwdrc]
 - [DuckBeGodz]
