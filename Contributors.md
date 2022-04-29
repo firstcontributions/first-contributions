@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Ritik Singh](https://github.com/bloodmonk7)
 - [khada]
 - [akavort]
 - [Iftikhar #100Devs](https://github.com/ifti891)
