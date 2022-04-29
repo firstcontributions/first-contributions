@@ -3185,6 +3185,7 @@ Himanshu Dedha
 - [George Kakavas](https://github.com/george-kakavas)
 - [Gerard Gandionco](https://github.com/Vaiterius)
 - [Vaibhav Tankha](https://github.com/vaibhavtankha)
+- [Khanh Chung](https://github.com/craftzmask)
 - [Amrin](https://github.com/Coderamrin)
 - [Omar Ashraf](https://github.com/SpadeQ22)
 - [Furkan Tozkoparan](https://github.com/ftozkoparan)
@@ -6478,4 +6479,5 @@ Duncan Ledesma
 - [Issei20]
 - [bdf715](https://github.com/bdf715)
 - [Gene Lyth](https://github.com/gmlyth)
+
 <!-- prettier-ignore-end -->
