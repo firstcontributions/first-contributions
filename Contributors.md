@@ -3730,6 +3730,7 @@ Himanshu Dedha
 - [leopaul29](https://github.com/leopaul29)
 - [Ahmad Yasser](https://github.com/ahmdyasser)
 - [Jordi Marimon](https://github.com/jordimarimon)
+- [tlo](https://github.com/tlo-uk)
 - [Thanmay M Das](https://github.com/tAnboyy)
 - [Ken Lin](https://github.com/kenlin2411)
 - [Rachel Fabrigar](https://github.com/chengalore)
