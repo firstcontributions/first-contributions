@@ -54,6 +54,7 @@
 - [Lloyd the man]
 - [Iziks](https://github.com/izik-martinez)
 - [Pokruk](https://github.com/Pokruk)
+- [Saitama93](https://github.com/saitama93)
 - [cody] (https://github.com/codynw42)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [gold]
@@ -129,6 +130,7 @@
 - [John Mbugua](https://github.com/mbuguaj254)
 - [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
+- [Rushin Shah](https://github.com/RushinShah22)
 - Regina Vanata
 - [FisheTac]
 - [Alistair Taylor] (https://github.com/alistairmt1970) 
@@ -6501,5 +6503,6 @@ Duncan Ledesma
 - [Kingson Zhang](https://github.com/kingsonzhang)
 - [Gulcan Topcu] (https://github.com/colossus06)
 - [Michał Wieczorek](https://github.com/misiekIDD)
+- [Eric C Vento](https://github.com/ericcvento)
 - [Hussam Alshayeb](https://github.com/iHussamAlshayeb)
 <!-- prettier-ignore-end -->
