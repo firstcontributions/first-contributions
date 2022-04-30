@@ -173,6 +173,7 @@
 - [Dilraj Singh](https://github.com/SinghDilraj)
 - [timothy luedtke](https://github.com/timothyluedtke)
 - [Zeki Köse]
+- [Oluyanju Oluwaseyi] (https://github.com/emperor6inch)
 - [simon wu](https://github.com/simon-engineer)
 - [Emmanuel Akanji](https://github.com/manny-uncharted)
 - [jake hourani]
