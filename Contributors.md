@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Aiden Frevert](https://github.com/afrevert)
 - [Ritik Singh](https://github.com/bloodmonk7)
+- [Ron Ran](https://github.com/ronran1)
 - [Philip]
 - [khada]
 - [akavort]
