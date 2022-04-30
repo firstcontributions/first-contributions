@@ -54,6 +54,7 @@
 - [Iziks](https://github.com/izik-martinez)
 - [Pokruk](https://github.com/Pokruk)
 - [cody] (https://github.com/codynw42)
+- [Saitama93](https://github.com/saitama93)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [gold]
 - [Amin Awinti](https://github.com/Amin-Awinti)
