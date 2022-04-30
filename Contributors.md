@@ -7,7 +7,7 @@
 - [khada]
 - [akavort]
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
-- [Pratik Mali] (https://github.com/impratik7)
+- [Pratik Mali](https://github.com/impratik7)
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [wyt0000]
 - [wyt](https://github.com/wyt)
