@@ -6,6 +6,7 @@
 - [Philip]
 - [khada]
 - [akavort]
+- [Abdulrahman Alaa](https://github.com/abdulrahmanalaa123)
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
 - [Pratik Mali] (https://github.com/impratik7)
 - [Iftikhar #100Devs](https://github.com/ifti891)
@@ -54,7 +55,6 @@
 - [Iziks](https://github.com/izik-martinez)
 - [Pokruk](https://github.com/Pokruk)
 - [cody] (https://github.com/codynw42)
-- [Saitama93](https://github.com/saitama93)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [gold]
 - [Amin Awinti](https://github.com/Amin-Awinti)
@@ -130,7 +130,6 @@
 - [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
-- [Rushin Shah](https://github.com/RushinShah22)
 - [FisheTac]
 - [Alistair Taylor] (https://github.com/alistairmt1970) 
 - [Justin Quinn] (https://github.com/jpq3366)
@@ -6503,5 +6502,4 @@ Duncan Ledesma
 - [Gulcan Topcu] (https://github.com/colossus06)
 - [Michał Wieczorek](https://github.com/misiekIDD)
 - [Hussam Alshayeb](https://github.com/iHussamAlshayeb)
-- [Eric C Vento](https://github.com/ericcvento)
 <!-- prettier-ignore-end -->
