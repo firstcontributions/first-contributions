@@ -557,6 +557,7 @@ Vedant Borkar
 - [Mike Smith](https://github.com/htimsekim)
 - [Hind Tayeb](https://github.com/HindTayeb)
 - [Amir MoharamiFard](https://github.com/moharami)
+- [Frederick Lambert](https://github.com/4kita)
 - [Mohammad Hussain](https://github.com/hussaincode)
 - [Shwe Zin](https://github.com/Shweryl)
 - [N. Dennis] (https://github.com/ndennis124)
