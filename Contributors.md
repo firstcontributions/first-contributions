@@ -6508,4 +6508,5 @@ Duncan Ledesma
 - [Michał Wieczorek](https://github.com/misiekIDD)
 - [Hussam Alshayeb](https://github.com/iHussamAlshayeb)
 - [Eric C Vento](https://github.com/ericcvento)
+- [Ivan Cox](https://github.com/IvnRmcd)
 <!-- prettier-ignore-end -->
