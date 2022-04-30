@@ -153,6 +153,7 @@
 - [Shrikant Dhayje](https://github.com/shriekdj)
 - [SinisterGaze](https://github.com/SinisterGaze)
 - [lucky-chap](https://github.com/lucky-chap)
+- [KosyAbone](https://github.com/KosyAbone)
 - [eden2888] (https://github.com/eden2888)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [yangzhengca](https://github.com/yangzhengca)
