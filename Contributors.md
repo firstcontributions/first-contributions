@@ -42,6 +42,7 @@
   [Scaramouche9](https://github.com/Scaramouche9)
 - [Xevziler](https://github.com/Xevziler)
 - [Kerplunkx](https://github.com/Kerplunkx)
+- [Megat Iskandar Shahriman] (https://github.com/Isky-Codes)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
