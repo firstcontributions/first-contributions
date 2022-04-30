@@ -23,6 +23,7 @@
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Shettima Ali] (https://github.com/Shetteemah)
+- [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
 - [Yash](https://github.com/Yashk4444)
