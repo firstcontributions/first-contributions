@@ -130,6 +130,7 @@
 - [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
+- [Rushin Shah](https://github.com/RushinShah22)
 - [FisheTac]
 - [Alistair Taylor] (https://github.com/alistairmt1970) 
 - [Justin Quinn] (https://github.com/jpq3366)
