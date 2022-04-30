@@ -9,7 +9,7 @@
 - [Clenio Filho](https://github.com/fhclenio)
 - [Zheng Li](https://github.com/nickync)
 - [Rahul Pundir](https://github.com/iamr9r)
-- [Adeyemi Gbenga] (https://github.com/addegbenga)
+- [Adeyemi Gbenga](https://github.com/addegbenga)
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
