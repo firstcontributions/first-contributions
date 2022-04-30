@@ -6503,4 +6503,5 @@ Duncan Ledesma
 - [Gulcan Topcu] (https://github.com/colossus06)
 - [Michał Wieczorek](https://github.com/misiekIDD)
 - [Hussam Alshayeb](https://github.com/iHussamAlshayeb)
+- [Eric C Vento](https://github.com/ericcvento)
 <!-- prettier-ignore-end -->
