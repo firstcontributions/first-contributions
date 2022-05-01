@@ -103,6 +103,7 @@
 - [Wizard-F](https://github.com/Wizard-F)
 - [Kenny-Simpson](https://github.com/KNJI-Web-Creations)
 - [Rachelle](https://github.com/jollypolly123)
+- [Pratik Mali](https://github.com/impratik7)
 - [Aaron](https://github.com/FlakTotem/)
 - [awiswasi](https://github.com/awiswasi/)
 - [Oscar](https://github.com/zitrocode)
