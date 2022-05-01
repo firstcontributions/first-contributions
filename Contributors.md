@@ -5785,6 +5785,7 @@ Michael Wong
 - [seungbin0131](https://github.com/seungbin0131)
 - [Dami Sparks](https://github.com/damisparks)
 - [Angel Ria Purnamasari](https://github.com/angellee177)
+- [John Malapit](https://github.com/johnmal-dev)
 - [Muhammed Sodiq](https://github.com/sodiq2000)
 - [Rishav Kumar](https://github.com/Rishav9852Kumar)
 - [Jaess Jang](https://github.com/jjjwodls)
