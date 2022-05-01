@@ -59,6 +59,7 @@
 - [Lloyd the man]
 - [okdv] (https://github.com/okdv)
 - [Iziks](https://github.com/izik-martinez)
+- [jartdian](https://github.com/jartdian)
 - [Pokruk](https://github.com/Pokruk)
 - [cody] (https://github.com/codynw42)
 - [Saitama93](https://github.com/saitama93)
