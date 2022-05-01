@@ -20,6 +20,7 @@
 - [llSeeSharpll]
 - [PedroTolvo_aka_pwdrc]
 - [DuckBeGodz]
+- [Computatrum](https://github.com/Computatrums)
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Shettima Ali] (https://github.com/Shetteemah)
