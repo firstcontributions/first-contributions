@@ -39,6 +39,7 @@
 - [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
 - [Syed Amaan]
+- [88potatoes](https://github.com/88potatoes)
 - [Jordi](https://github.com/JordiEspinozaMendoza)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Tejas](https://github.com/Tejas9535)
