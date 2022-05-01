@@ -6,6 +6,7 @@
 - [Ron Ran](https://github.com/ronran1)
 - [Philip]
 - [khada]
+- [fanti]
 - [akavort]
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
 - [Pratik Mali] (https://github.com/impratik7)
