@@ -5727,6 +5727,7 @@ Michael Wong
 - [Charlie Greenhalgh](https://github.com/charliegreeny)
 - [Gabriel Ramos](https://github.com/gabston)
 - [Adrian Tsang](https://github.com/ahwtsang)
+- [David Miller](https://github.com/djmiller1008)
 - [ByeongJun Kim](https://github.com/tlswkdpgla)
 - [Armm Supakorn](https://github.com/armspkt)
 - [Vaibhav Pawar](https://github.com/PawarVaibhav446)
