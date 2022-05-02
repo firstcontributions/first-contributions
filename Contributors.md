@@ -755,6 +755,7 @@ Vedant Borkar
 -[Islam Bassuni](https://github.com/Islam231bi)
 - [Gary Meade] (https://github.com/gsmeade)
 - [Mario Fesko] (https://github.com/mfesko)
+- [Caleb Steinman] (https://github.com/Caleb656)
 - Harshitha Devi Ganajala (https://github.com/harshi1122)
 - [Lance Condie] (https://github.com/Condielj)
 - [Kranz Aklilu] (https://github.com/KranzAklilu)
