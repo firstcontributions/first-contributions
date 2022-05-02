@@ -26,6 +26,7 @@
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Shettima Ali] (https://github.com/Shetteemah)
+- [sisi](https://github.com/sisi-in-tech/)
 - [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
