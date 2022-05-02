@@ -6527,4 +6527,5 @@ Duncan Ledesma
 - [Eric C Vento](https://github.com/ericcvento)
 - [gus lio] (https://github.com/gus-lio)
 - [Ivan Cox](https://github.com/IvnRmcd)
+- [Alba Ascaso](https://github.com/AlbaAsca)
 <!-- prettier-ignore-end -->
