@@ -8,6 +8,7 @@
 - [Philip]
 - [khada]
 - [akavort]
+- [Elemento]
 - [Rishie Bothra] (https://github.com/rishiebothra)
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
 - [Pratik Mali] (https://github.com/impratik7)
