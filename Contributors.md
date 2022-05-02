@@ -10,6 +10,7 @@
 - [khada]
 - [akavort]
 - [Elemento]
+- [Casey] (https://github.com/cwellis)
 - [Rishie Bothra] (https://github.com/rishiebothra)
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
 - [Pratik Mali] (https://github.com/impratik7)
