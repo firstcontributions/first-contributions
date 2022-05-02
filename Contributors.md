@@ -3330,6 +3330,7 @@ Himanshu Dedha
 - [Ted Dino](https://github.com/ted-dino)
 - [Philip Bettler] (https://github.com/pgbettler)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
+- [Christopher J](https://github.com/TheBestCharChar)
 - [Hannah Getnet](https://github.com/earthcomfy)
 - [John L.](https://github.com/bubbles91)
 - [Shubham Kale](https://github.com/HeyItsShubhamKale)
