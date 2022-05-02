@@ -3684,6 +3684,7 @@ Himanshu Dedha
 - [Bar Amber](https://github.com/baramber)
 - [Vladimir Meshalkin](https://github.com/LadMes)
 - [Ahana Mittra](https://github.com/AhanaMittra)
+- [Stephen Bao](https://github.com/Stephen-Bao)
 - [Martin Meng](https://github.com/MartinMxn)
 - [Vighnesh Kadam](https://github.com/vighnesh-kadam)
 - [Davis Kabiswa](https://github.com/Dkabiswa)
