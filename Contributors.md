@@ -4793,6 +4793,7 @@ Himanshu Dedha
 - [tip14](https://github.com/tip14)
 - [Ian Geithner](https://github.com/ijg1996)
 - [Unnamalai RM](https://github.com/Unna27)
+- [Jacques Lombaard](https://github.com/lombaardj)
 - [Mateus Daniel](https://github.com/Matteuus)
 - [Franz Nkezimana](https://github.com/kezfran)
 - [Devendra](https://github.com/debsdoon)
