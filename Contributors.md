@@ -35,6 +35,7 @@
 - [Alan](https://github.com/CipherKill/)
 - [Yash](https://github.com/Yashk4444)
 - [Duncan](https://github.com/dskilton)
+- [Jesus G Jara](https://github.com/jesusgjara)
 - [Fazil Raja](https://github.com/fazilraja)
 - [Muhammed Shehaz](https://github.com/sh3hz)
 - [Blankjr](https://github.com/Blankjr)
