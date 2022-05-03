@@ -6542,4 +6542,5 @@ Duncan Ledesma
 - [Alba Ascaso](https://github.com/AlbaAsca)
 - [Varun Mathuria] (https://github.com/varunmathuria)
 - [Karan Bhat](https://github.com/Karan9bhat)
+- [Charees8](https://github.com/Charees8)
 <!-- prettier-ignore-end -->
