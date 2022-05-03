@@ -16,6 +16,7 @@
 - [Casey] (https://github.com/cwellis)
 - [Rishie Bothra] (https://github.com/rishiebothra)
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
+- [LadyNazlia_Amanda_Faulkenberry] (https://github.com/LadyNazlia)
 - [Pratik Mali] (https://github.com/impratik7)
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [wyt0000]
