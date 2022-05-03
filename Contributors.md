@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [HirakinAndr](https://github.com/HirakinAndr)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
 - [Ritik Singh](https://github.com/bloodmonk7)
