@@ -19,6 +19,7 @@
 - [wyt0000]
 - [Abdulrahman Alaa](https://github.com/abulrahmanalaa123)
 - [wyt](https://github.com/wyt)
+- [Niko Kanta][https://github.com/nekantar-su]
 - [Josue](https://github.com/jpsphaxer)
   [DrewNextTime](https://github.com/DrewNextTime)
 - [ankushkumarshukla ]
