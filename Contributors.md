@@ -1471,7 +1471,7 @@ sylucck
 - Varun Agrawal
 - Pratyush Sinha
 - Prabhu
--Tejender Upadhyay
+- Tejender Upadhyay
 - Kshitij Barnwal
 - Brian Xu
 - Victor
@@ -1482,6 +1482,7 @@ sylucck
 - Eyup Ensar Coban
 - Fitzerrick
 - Willis K
+- [Myles Nieman](https://github.com/NiemanMyles/)
 - Cade Merritt
 - Pablo Paliza (https://github.com/unit4216)
 - [Suprith Gurudu] (https://github.com/Suprith-Reddy)
