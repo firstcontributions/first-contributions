@@ -6557,4 +6557,6 @@ Duncan Ledesma
 - [Spacedaway] (https://github.com/Spacedaway)
 - [Silik1] (https://github.com/Silik1)
 - [Zoni - brasiqui] (https://github.com/brasiqui)
+- [Christien Ng](https://github.com/cng008)
+
 <!-- prettier-ignore-end -->
