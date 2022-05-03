@@ -186,6 +186,7 @@
 - [Marja Centina] (https://github.com/murrha)
 - [Kristin Harris] (https://github.com/reverie64)
 - [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
+- [Minh Nguyen] (https://github.com/minhducnguyen26)
 - [Montek kundan](https://github.com/Montekkundan)
 - [Modern Mariner]
 - [Andre Morales] (https://github.com/dremo1995)
