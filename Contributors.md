@@ -66,6 +66,7 @@
 - [mitchiban](https://github.com/mitchiban)
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
+- [Austin Merrill][https://github.com/AJMerr]
 - [Litmus Zhang](https://github.com/litmus-zhang)
 - [okdv] (https://github.com/okdv)
 - [Iziks](https://github.com/izik-martinez)
