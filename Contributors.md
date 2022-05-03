@@ -80,6 +80,7 @@
 - [cody] (https://github.com/codynw42)
 - [Saitama93](https://github.com/saitama93)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
+- [Mac Mecoy](https://github.com/mwmMecoy)
 - [gold]
 - [mocoman132](https://github.com/mocoman132)
 - [Amin Awinti](https://github.com/Amin-Awinti)
