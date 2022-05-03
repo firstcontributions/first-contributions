@@ -9,6 +9,7 @@
 - [Philip]
 - [khada]
 - [akavort]
+- [MAHESH]
 - [Elemento]
 - [Casey] (https://github.com/cwellis)
 - [Rishie Bothra] (https://github.com/rishiebothra)
