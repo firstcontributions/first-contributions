@@ -6535,6 +6535,7 @@ Duncan Ledesma
 - [wangjiancheng](https://github.com/wjcwin)
 - [Issei20]
 - [bdf715](https://github.com/bdf715)
+- [Demba Diack](https://github.com/DembaDiack)
 - [Gene Lyth](https://github.com/gmlyth)
 - [WeiKeng Ng]](https://github.com/hawkng)
 - [Gabriel Hanich](https://github.com/gabriel-hanich)
