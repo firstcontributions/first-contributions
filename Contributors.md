@@ -6536,5 +6536,6 @@ Duncan Ledesma
 - [gus lio] (https://github.com/gus-lio)
 - [Ivan Cox](https://github.com/IvnRmcd)
 - [Alba Ascaso](https://github.com/AlbaAsca)
+- [Varun Mathuria] (https://github.com/varunmathuria)
 - [Karan Bhat](https://github.com/Karan9bhat)
 <!-- prettier-ignore-end -->
