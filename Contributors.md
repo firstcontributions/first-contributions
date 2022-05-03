@@ -6550,4 +6550,5 @@ Duncan Ledesma
 - [Varun Mathuria] (https://github.com/varunmathuria)
 - [Karan Bhat](https://github.com/Karan9bhat)
 - [Spacedaway] (https://github.com/Spacedaway)
+- [Silik1] (https://github.com/Silik1)
 <!-- prettier-ignore-end -->
