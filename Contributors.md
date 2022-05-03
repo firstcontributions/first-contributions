@@ -6,6 +6,7 @@
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
+- [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [khada]
 - [akavort]
