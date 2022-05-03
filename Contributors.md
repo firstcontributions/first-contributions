@@ -6557,4 +6557,5 @@ Duncan Ledesma
 - [Spacedaway] (https://github.com/Spacedaway)
 - [Silik1] (https://github.com/Silik1)
 - [Zoni - brasiqui] (https://github.com/brasiqui)
+- [Emre Yilmaz](https://github.com/ymzEmre)
 <!-- prettier-ignore-end -->
