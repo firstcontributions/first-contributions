@@ -528,6 +528,7 @@ Vedant Borkar
 - [Luna](https://github.com/Lunamoon97)
 - [Delsan Anthony](https://github.com/delsananthony)
 - [Victor](https://github.com/victor0x16)
+- [Misha C](https://github.com/CheeTheStudent)
 - [Jayvirsinh Chudasama](https://github.com/jayvir-git)
 - [Kaung Zaw Thant](https://github.com/kaung-zaw-thant)
 - [Kevin Rad](https://github.com/radeau)
