@@ -6574,4 +6574,5 @@ Duncan Ledesma
 - [Zoni - brasiqui] (https://github.com/brasiqui)
 - [QR Koh] (https://github.com/hikarixx)
 - [Mary Rose] (https://github.com/ElektrazCode)
+- [Grazian0o] (https://github.com/Grazian0o)
 <!-- prettier-ignore-end -->
