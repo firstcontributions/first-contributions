@@ -38,6 +38,7 @@
 - [raahimz](https://github.com/raahimz)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [sisi](https://github.com/sisi-in-tech/)
+- [indigorose](https://github.com/indigorose)
 - [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
