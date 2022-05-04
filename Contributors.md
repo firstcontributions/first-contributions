@@ -6561,4 +6561,5 @@ Duncan Ledesma
 - [Spacedaway] (https://github.com/Spacedaway)
 - [Silik1] (https://github.com/Silik1)
 - [Zoni - brasiqui] (https://github.com/brasiqui)
+- [QR Koh] (https://github.com/hikarixx)
 <!-- prettier-ignore-end -->
