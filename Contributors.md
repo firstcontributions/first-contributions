@@ -27,6 +27,7 @@
 - [Pratik Mali] (https://github.com/impratik7)
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [wyt0000]
+- [Slootthh]https://github.com/Slootthh/first-contributions.git
 - [Abdulrahman Alaa](https://github.com/abulrahmanalaa123)
 - [wyt](https://github.com/wyt)
 - [Niko Kanta][https://github.com/nekantar-su]
