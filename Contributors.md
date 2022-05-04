@@ -14,6 +14,7 @@
 - [Marko Tomik](https://github.com/mvrque)
 - [Min Oak Kyaw](https://github.com/Kybton)
 - [MAHESH]
+- [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Qingrong Zhou](https://github.com/DreamingSarah)
