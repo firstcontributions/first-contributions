@@ -26,7 +26,7 @@
 - [LadyNazlia_Amanda_Faulkenberry] (https://github.com/LadyNazlia)
 - [Pratik Mali] (https://github.com/impratik7)
 - [Iftikhar #100Devs](https://github.com/ifti891)
-- [wyt0000]
+- [Rich Fisler](https://github.com/RichFislerPhysics)
 - [Abdulrahman Alaa](https://github.com/abulrahmanalaa123)
 - [wyt](https://github.com/wyt)
 - [Niko Kanta][https://github.com/nekantar-su]
