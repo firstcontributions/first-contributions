@@ -3282,6 +3282,7 @@ Himanshu Dedha
 - [Joseph Adrian](https://github.com/MyGoodSir)
 - [Aarushi Jain](https://github.com/Aarushijain-06)
 - ymbus
+- [Anthony Koury](https://github.com/AnthonyKoury)
 - [Marco Savino](https://github.com/marco-savino)
 - [metlx](https://github.com/metlx)
 - [Marco Martinez](https://github.com/MarcoAntonioMartinez)
