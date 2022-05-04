@@ -6390,6 +6390,7 @@ Michael Wong
 - [rorima](https://github.com/rorima)
 - [Shameekh Naveed](https://github.com/Shameekh-Naveed)
 - [SilverAlpaca](https://github.com/SilverAlpaca)
+- [cesar](https://github.com/cesar-codes)
 Duncan Ledesma
 - [Rima Haldar] (https://github.com/Rima-Haldar)
 - [Levent Sarıoğlu](https://github.com/leventsoft)
