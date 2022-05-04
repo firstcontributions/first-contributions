@@ -251,6 +251,7 @@
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
 - [Shoukou Lee](https://github.com/shoukou-lee)
+- [Ruth Wata](htttps://github.com/R-N-Wata)
 - [Sadie Manicom](https://github.com/sadienicole)
 - [Moad Akhraz](https://github.com/mdakh404)
 - [Arash Mohamadpour] (https://github.com/arashmpr)
