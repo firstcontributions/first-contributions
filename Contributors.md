@@ -65,6 +65,7 @@
   [Scaramouche9](https://github.com/Scaramouche9)
 - [Xevziler](https://github.com/Xevziler)
 - [Kerplunkx](https://github.com/Kerplunkx)
+- [Magnus Kraft](https://github.com/manx)
 - [Megat Iskandar Shahriman] (https://github.com/Isky-Codes)
 - [Leomhann](https://github.com/Benjamin-Boy)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
