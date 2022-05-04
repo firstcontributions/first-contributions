@@ -997,6 +997,7 @@ Vedant Borkar
 - [Anthony D Wan](https://github.com/anthonydwan)
 - [Markos Markakis](https://github.com/mmarkakis)
 - [Detjon Shahu](https://github.com/detiishahu)
+- [Michael Nguyen](https://github.com/MichaelNDev)
 - [Daniel Isea](https://github.com/disea18)
 - [Daniel Ho](https://github.com/Daniel-Ho986)
 - [Shubham Kaudewar](https://github.com/ShubhamKaudewar)
