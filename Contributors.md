@@ -11,6 +11,7 @@
 - [Philip]
 - [khada]
 - [akavort]
+- [Marko Tomik](https://github.com/mvrque)
 - [MAHESH]
 - [Elemento]
 - [Md Sujan] (https://github.com/MdSujan99)
