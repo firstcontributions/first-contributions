@@ -5229,6 +5229,7 @@ Himanshu Dedha
 - [Sohail Gsais](https://github.com/SohailMG)
 - [gnicoloud](https://github.com/gnicoloud/)
 - [Raha Moosavi](https://github.com/acse-srm3018)
+- [Ritik Patel]
 - [Kunal Jha](https://github.com/kunljha)
 - [Anirudh Kavle](https://github.com/Anirudh-Kavle)
 - [xnmll](https://github.com/xnmll)
