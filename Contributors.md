@@ -6566,4 +6566,5 @@ Duncan Ledesma
 - [Silik1] (https://github.com/Silik1)
 - [Zoni - brasiqui] (https://github.com/brasiqui)
 - [QR Koh] (https://github.com/hikarixx)
+- [Andrew Sun] (https://github.com/xiushanlaoyao)
 <!-- prettier-ignore-end -->
