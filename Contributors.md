@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [HirakinAndr](https://github.com/HirakinAndr)
+- [Howard Wang] (https://github.com/Howarang12)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
 - [Ryan Fang](https://github.com/ryanfang5)
