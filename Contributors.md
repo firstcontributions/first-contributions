@@ -20,6 +20,7 @@
 - [MAHESH]
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
+- [Brandon White]
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Qingrong Zhou](https://github.com/DreamingSarah)
 - [Casey] (https://github.com/cwellis)
