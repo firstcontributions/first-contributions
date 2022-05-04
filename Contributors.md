@@ -96,6 +96,7 @@
 - [BBTing1](https://github.com/BBTing1/)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
+- [Kristl Yuen](https://github.com/kristlyuen)
 - [Manoj Kumar](https://github.com/mtkumar123/)
 - [Ymer Nordström](https://github.com/ymer94/)
 - [Matthew Clark](https://https://github.com/maty714)
