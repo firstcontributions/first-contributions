@@ -9,6 +9,7 @@
 - [Ron Ran](https://github.com/ronran1)
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
+- [Jon Pena]
 - [khada]
 - [akavort]
 - [Marko Tomik](https://github.com/mvrque)
