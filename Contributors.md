@@ -6395,6 +6395,7 @@ Michael Wong
 - [Christos Panopoulos](https://github.com/ChrisPanopoulos)
 - [mweerts](https://github.com/mweerts)
 - [vivek vaidya](https://github.com/Husler007)
+- [Ian Stewart](https://github.com/ianstewart4)
 - [Jersey Liu](https://github.com/NeoJersey)
 - [Afroditi Doriti](https://github.com/adoriti)
 - [Twatchal](https://github.com/Twatchal)
