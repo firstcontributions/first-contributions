@@ -4,6 +4,7 @@
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
+- [Ryan Fang](https://github.com/ryanfang5)
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
