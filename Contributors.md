@@ -774,6 +774,7 @@ Vedant Borkar
 - [Bakbergen Ryskulov] (https://github.com/bryskulov)
 -[Malik Mertus](https://github.com/Malic33100)
 -[Islam Bassuni](https://github.com/Islam231bi)
+- [Isranthares] (https://github.com/Isranthares)
 - [Gary Meade] (https://github.com/gsmeade)
 - [Mario Fesko] (https://github.com/mfesko)
 - [Caleb Steinman] (https://github.com/Caleb656)
