@@ -1585,6 +1585,7 @@ Jawadur
 - [BooDeer](https://github.com/BooDeer)
 - Nithin
 - NoweMt
+- [Ed Way](https://github.com/emtek995)
 - [Fernando Candeia Torres](https://github.com/fernandocandeiatorres)
 - [Edson Canganjo](https://github.com/edsoncanganjo)
 - [Steven Ha](https://github.com/steven-ha-88)
