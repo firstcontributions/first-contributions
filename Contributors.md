@@ -114,6 +114,7 @@
 - [Ka Hung Lee](https://github.com/leekahung)
 - [Kristl Yuen](https://github.com/kristlyuen)
 - [Manoj Kumar](https://github.com/mtkumar123/)
+- [Pascale Delaunay](https://github.com/pascalecodes)
 - [Ymer Nordström](https://github.com/ymer94/)
 - [Matthew Clark](https://https://github.com/maty714)
 - [Jonatandb](https://github.com/Jonatandb)
