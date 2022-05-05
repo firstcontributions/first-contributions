@@ -663,6 +663,7 @@ Vedant Borkar
 - [Manu Sinha] (https://github.com/manusinha27)
 - [Izzy H.]
 - [Pramila Tamang](https://github.com/pramila09)
+- [Aysha Springston](https://github.com/aysha-codes)
 - [Ben Janac](https://github.com/orobor0s/)
 - [Emiliano Tosar](https://github.com/EmilianoTosar)
 - [Jesuferanmi Asiyanbi](https://github.com/Pherizee)
