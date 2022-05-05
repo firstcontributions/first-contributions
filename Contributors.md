@@ -19,6 +19,7 @@
 - [akavort]
 - [Collins Kandongwe](https://github.com/Kandongwe)
 - [Marko Tomik](https://github.com/mvrque)
+- [Karl Marx Roxas](https://github.com/Karlroxas21)
 - [Min Oak Kyaw](https://github.com/Kybton)
 - [MAHESH]
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
