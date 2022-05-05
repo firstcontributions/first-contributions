@@ -6604,4 +6604,5 @@ Duncan Ledesma
 - [Mary Rose] (https://github.com/ElektrazCode)
 - [Brandon Barricklow] (https://github.com/BLBarricklow)
 - [Grazian0o] (https://github.com/Grazian0o)
+- [hanwei] (https://github.com/backendcloud)
 <!-- prettier-ignore-end -->
