@@ -15,6 +15,7 @@
 - [Jon Pena]
 - [khada]
 - [akavort]
+- [Collins Kandongwe](https://github.com/Kandongwe)
 - [Marko Tomik](https://github.com/mvrque)
 - [Min Oak Kyaw](https://github.com/Kybton)
 - [MAHESH]
