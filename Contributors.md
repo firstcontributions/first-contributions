@@ -3078,6 +3078,7 @@ Pranjal
 -[Devashish Daharia] https://github.com/dev404error
 - [Akshit Arora](https://github.com/akshitarora921)
 - [Uffa Modey](https://github.com/UffaModey)
+- [Eric Ryan](https://github.com/eryan411)
 - [Sourav Sharma](https://github.com/souravprogrammer)
 - [Ian Cornish](https://github.com/icornish97)
 - [Soha Hussain](https://github.com/SohaHussain)
