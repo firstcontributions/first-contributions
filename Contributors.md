@@ -6612,4 +6612,5 @@ Duncan Ledesma
 - [Brandon Barricklow] (https://github.com/BLBarricklow)
 - [Grazian0o] (https://github.com/Grazian0o)
 - [hanwei] (https://github.com/backendcloud)
+- [Matthew Dickson](https://github.com/matthewdickson1)
 <!-- prettier-ignore-end -->
