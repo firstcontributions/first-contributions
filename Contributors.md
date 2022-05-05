@@ -1927,6 +1927,7 @@ Ajith
 - [albinary10] (https://github.com/albinary10)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Luiz Junior](https://github.com/LuizAPJunior)
+- [Bishama Irfan](https://github.com/Bishama)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
 - [Nebulahh](https://github.com/nebulahh)
 - [Aritra Koley](https://github.com/aritrakoley)
