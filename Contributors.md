@@ -96,6 +96,7 @@
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [Mac Mecoy](https://github.com/mwmMecoy)
 - [gold]
+- [quick test]
 - [mocoman132](https://github.com/mocoman132)
 - [Amin Awinti](https://github.com/Amin-Awinti)
 - [Raghav Pandit](https://github.com/panditraghav)
