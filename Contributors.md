@@ -6070,6 +6070,7 @@ Michael Wong
 - [Abhishek] (https://github.com/hvn2k)
 - [Martin Fogl] (https://github.com/MToerpe)
 - [Mingting Ouyang](https://github.com/mingtingouyang)
+- [Anne Stewart](https://github.com/AnneStewart89)
 - Wei
 - Chang
 - [Adnan Sait](https://github.com/Adnan-Sait)
