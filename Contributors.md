@@ -47,6 +47,7 @@
 - [llSeeSharpll]
 - [PedroTolvo_aka_pwdrc]
 - [DuckBeGodz]
+- [OrnellaTchinda](https://github.com/OrnellaTchinda)
 - [Brendon Wright](https://github.com/BrendonW250)
 - [Olubukunmi Olufemi](https://github.com/PhemiT)
 - [Computatrum](https://github.com/Computatrums)
