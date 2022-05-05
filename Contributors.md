@@ -5339,6 +5339,7 @@ Himanshu Dedha
 - [David Bomard](https://github.com/dbomard)
 - [Piyush Mishra](https://github.com/piyush-mishra-pm)
 - [John Lesaba](https://github.com/jlesaba)
+- [Wesley Patterson](https://github.com/wpatt849)
 - [Marco Mosna](https://github.com/CodeHub-CreamPy)
 - [Martin Edgar Atole](https://github.com/Mrtiin)
 - [Ayan Gupta](https://github.com/ayangupta9)
