@@ -8,6 +8,7 @@
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
 - [Andrew Chang](https://github.com/acchang)
+- [Aparna Soneja](https://github.com/aparna2071)
 - [Ryan Fang](https://github.com/ryanfang5)
 - [Jake Roberts](https://github.com/JRoberts012)
 - [Ritik Singh](https://github.com/bloodmonk7)
