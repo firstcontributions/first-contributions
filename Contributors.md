@@ -5,6 +5,7 @@
 - [Howard Wang] (https://github.com/Howarang12)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
+- [Andrew Chang](https://github.com/acchang)
 - [Ryan Fang](https://github.com/ryanfang5)
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
