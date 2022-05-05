@@ -6602,5 +6602,6 @@ Duncan Ledesma
 - [QR Koh] (https://github.com/hikarixx)
 - [Brad Lindgren] (https://github.com/BradCL)
 - [Mary Rose] (https://github.com/ElektrazCode)
+- [Brandon Barricklow] (https://github.com/BLBarricklow)
 - [Grazian0o] (https://github.com/Grazian0o)
 <!-- prettier-ignore-end -->
