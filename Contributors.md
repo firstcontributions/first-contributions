@@ -3967,6 +3967,7 @@ Himanshu Dedha
 - [Htoo Khant Linn](https://github.com/htookhantlinn)
 - [Yashraj Basan](https://github.com/yashrajb)
 - [Crystal Faqiri](https://github.com/cfaqiri)
+- [Ioana Tiplea](https://github.com/ioanat94)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
 - [Marius Malinauskas](https://github.com/Marovii)
 - [Hadi Zainurin](https://github.com/hadizainurin)
