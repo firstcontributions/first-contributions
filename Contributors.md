@@ -6619,4 +6619,5 @@ Duncan Ledesma
 - [Grazian0o] (https://github.com/Grazian0o)
 - [hanwei] (https://github.com/backendcloud)
 - [Matthew Dickson](https://github.com/matthewdickson1)
+- [Michele0303](https://github.com/Michele0303)
 <!-- prettier-ignore-end -->
