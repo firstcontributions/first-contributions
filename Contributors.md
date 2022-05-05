@@ -4128,6 +4128,7 @@ Himanshu Dedha
 - [Manuel Schmid](https://github.com/manusmd)
 - [Devesh Mukherjee](https://github.com/darkghost33)
 - [sktht](https://github.com/sktht)
+- [Mary Shodiya](https://github.com/MaryShodiya)
 - [Sergey Kabanov](https://github.com/kabser)
 - [Niamh Carter](https://github.com/NSCarter)
 - [Damon Ngo](https://github.com/thengoster)
