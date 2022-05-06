@@ -6622,4 +6622,5 @@ Duncan Ledesma
 - [hanwei] (https://github.com/backendcloud)
 - [Matthew Dickson](https://github.com/matthewdickson1)
 - [Michele0303](https://github.com/Michele0303)
+- [Bos, Pierry](https://github.com/pierrybos)
 <!-- prettier-ignore-end -->
