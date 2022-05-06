@@ -58,6 +58,7 @@
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Shettima Ali] (https://github.com/Shetteemah)
+- [Alessio Chen] (https://github.com/AlessioChen)
 - [sisi](https://github.com/sisi-in-tech/)
 - [indigorose](https://github.com/indigorose)
 - [Matthew Berti](https://github.com/mberti13)
