@@ -3,6 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+# 
+
+#### _Read this in [other languages](translations/Translations.md)._
+<kbd>[<img alt="المصرية" title="المصرية" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/github-desktop-tutorial-eg.md)</kbd>
+# 
+
+
 
 # First Contributions
 
