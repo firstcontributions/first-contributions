@@ -6627,4 +6627,5 @@ Duncan Ledesma
 - [Matthew Dickson](https://github.com/matthewdickson1)
 - [Michele0303](https://github.com/Michele0303)
 - [Bos, Pierry](https://github.com/pierrybos)
+- [Jack McMahon](https://github.com/JackMcMahon97/)
 <!-- prettier-ignore-end -->
