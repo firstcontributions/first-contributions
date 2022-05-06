@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Sergio Garcia](https://github.com/sgarciagallego)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
