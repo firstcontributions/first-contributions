@@ -5,6 +5,7 @@
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
+- [Kevin Shi](https://github.com/kshi4234)
 - [Howard Wang] (https://github.com/Howarang12)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
