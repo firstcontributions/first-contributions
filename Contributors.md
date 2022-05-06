@@ -7,6 +7,7 @@
 - [Howard Wang] (https://github.com/Howarang12)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
+- [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [Andrew Chang](https://github.com/acchang)
 - [Aparna Soneja](https://github.com/aparna2071)
 - [Ryan Fang](https://github.com/ryanfang5)
