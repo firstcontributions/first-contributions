@@ -67,6 +67,7 @@
 - [Computatrum](https://github.com/Computatrums)
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
+- [Benjamin Yankowitz](https://github.com/BenjaminYankowitz)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alessio Chen] (https://github.com/AlessioChen)
 - [sisi](https://github.com/sisi-in-tech/)
