@@ -110,6 +110,7 @@
 - [Zelalem Solomon] (https://github.com/Zolasol)
 - [Austin Merrill][https://github.com/AJMerr]
 - [Litmus Zhang](https://github.com/litmus-zhang)
+  [Tommaso Pellegrino](https://github.com/tomtom-95)
 - [okdv] (https://github.com/okdv)
 - [Iziks](https://github.com/izik-martinez)
 - [jartdian](https://github.com/jartdian)
