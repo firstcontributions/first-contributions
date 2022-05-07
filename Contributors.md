@@ -23,6 +23,7 @@
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [Jon Pena]
+- [3nhit] (https://github.com/3nhit)
 - [khada]
 - [akavort]
 - [Gab McCullough-Murray](https://github.com/gabmcm)
