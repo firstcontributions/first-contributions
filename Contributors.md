@@ -1,4 +1,4 @@
-# **Contributors**
+﻿# **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Sergio Garcia](https://github.com/sgarciagallego)
@@ -2861,6 +2861,7 @@ yejashi
 - [Swati Chauhan](https://github.com/swatichauhan814)
 - [Dimpal Kalita](https://github.com/Dimpal-Kalita)
 - [Poorva Gupta] (https://github.com/poorvaa18)
+- [Esha Mahendra]
 - [Nimesha Chathurangi] (https://github.com/Nimesha1996)
 - [Austin Nicholas] (https://github.com/adenix)
 - [SK MIRAJ] (https://github.com/miraj0507)
