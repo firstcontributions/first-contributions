@@ -7,6 +7,7 @@
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Kevin Shi](https://github.com/kshi4234)
 - [Howard Wang] (https://github.com/Howarang12)
+- [Celia Kelly](https://github.com/celiackelly)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
