@@ -117,6 +117,7 @@
   [Tommaso Pellegrino](https://github.com/tomtom-95)
 - [okdv] (https://github.com/okdv)
 - [Iziks](https://github.com/izik-martinez)
+- [valerievozza] (https://github.com/valerievozza)
 - [jartdian](https://github.com/jartdian)
 - [Brian Lee] (https://github.com/washow)
 - [Pokruk](https://github.com/Pokruk)
