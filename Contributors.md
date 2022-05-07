@@ -3380,6 +3380,7 @@ Himanshu Dedha
 - [Khushi Sinha](https://github.com/khushisinha20/)
 - [Urwashi Kumrawat](https://github.com/uru0120)
 - [Siddhartha Sarkar](https://github.com/siddsarkar)
+- [JSONseagull](https://github.com/jsonseagull)
 - [Yan Rivera](https://github.com/yanrivera19)
 - [Shivam Choudhary](https://github.com/ShivamChoudhary17)
 - [Aman](https://github.com/av-feaster)
