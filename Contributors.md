@@ -619,6 +619,7 @@ Vedant Borkar
 - [Samuel Rodriguez](https://github.com/SamuelRodri)
 - [Gnocchingbird] (https://github.com/gnocchingbird)
 - [Steven Tarmann](https://github.com/StevenTarmann)
+- [Edmund Wevs](https://github.com/dopewevmond)
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Thomas ElGawly] (https://gitlab.com/Avengur)
 - [Joseph Kirchner] (https://github.com/Ignautz)
