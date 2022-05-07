@@ -264,6 +264,7 @@
 - [Luca](https://github.com/lucapdr01)
 - [bbulakit](https://github.com/bbulakit)
 - [Doug_Shipman](https://github.com/explr77)
+- [mx] (https://github.com/xingxing-prog)
 - [Ramanathan Perumal](https://github.com/ramamet)
 - [MrHerbalizer](https://github.com/MrHerbalizer)
 - [Chrstphr Hll](https://github.com/ChrstphrHll)
