@@ -5564,6 +5564,7 @@ Himanshu Dedha
 - [Joshua Tomajko](https://github.com/joshtom1)
 - Dan Tcheche
 - [Mutun](https://github.com/mutunx)
+- [Utkarsh Gupta](https://github.com/utkarshgg)
 - [M k Abdul Aziz](https://github.com/crossdev-app)
 - [Mitali Agrawal](https://github.com/MitaliAg)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
