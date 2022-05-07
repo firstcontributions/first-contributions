@@ -5249,6 +5249,7 @@ Himanshu Dedha
 - [S-EgeCaliskan](https://github.com/S-EgeCaliskan)
 - [Tom Busby](https://github.com/tbusby)
 - [Asinsa](https://github.com/Asinsa)
+- [Davide-22](https://github.com/Davide-22)
 - [EhrenmannXD] (https://github.com/EhrenmannXD)
 - [Vipul Raj](https://github.com/VipulRaj-123)
 - [Ginay M](https://github.com/ginaym)
