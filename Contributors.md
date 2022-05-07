@@ -983,6 +983,7 @@ Vedant Borkar
 - [Willy Trigg](https://github.com/williamgtrigg)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Timmy Omolana](https://github.com/Tee-Stark)
+- [Daniel Moderiano](https://github.com/daniel-moderiano/)
 - [Milofow](https://github.com/Milofow)
 - [Anish Vedantham] (https://github.com/garciajump)
 - [ConallOToole](https://github.com/conall47)
