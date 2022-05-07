@@ -150,6 +150,18 @@ git commit -m "Add <your-name> to Contributors list"
 
 replacing `<your-name>` with your name.
 
+Before Pushing code, generate access token for your github account.
+Create Personal Access Token on GitHub
+From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => check all boxes => click Generate token => Copy the generated Token, it will be something like gty_opwdhduemagfkwoumsxjpq
+Now follow below method based on your OS:
+For Windows OS 
+Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
+If you don’t find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
+
+For macOS
+Click on the magnifying glass on the right side of the menu bar. Type Keychain access then press the Enter key to launch the app => In Keychain Access, search for github.com => Find the internet password entry for github.com => Edit or delete the entry accordingly => You are done
+
+
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
