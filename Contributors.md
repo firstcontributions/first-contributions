@@ -417,6 +417,7 @@ Indra Sonowal
 - [Tony]
 - [Anjia Cao]
 - [David Meadows] (https://github.com/dmeadows8585)
+- [Zain Bazaz] (https://github.com/zainbazaz)
 - [Fede Chaves] (https://github.com/fedechaves)
 - [Aleem Ahmed] (https://github.com/aleem-ahmed)
 - [Mohamed Khaled Mahmoud]
