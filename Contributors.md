@@ -35,6 +35,7 @@
 - [Brandon White]
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Qingrong Zhou](https://github.com/DreamingSarah)
+- [Anudruth Manjunath]
 - [Casey] (https://github.com/cwellis)
 - [Rishie Bothra] (https://github.com/rishiebothra)
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
