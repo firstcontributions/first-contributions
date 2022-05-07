@@ -1,4 +1,4 @@
-﻿# **Contributors**
+# **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Sergio Garcia](https://github.com/sgarciagallego)
@@ -625,6 +625,7 @@ Vedant Borkar
 - [Joseph Kirchner] (https://github.com/Ignautz)
 - [Gagan Garg]
 - Tze Chung Tai
+- [Jayeon](https://github.com/jayeon)
 - [Ethan Hopkins](https://github.com/sauceori)
 - [Neil Hanlon] 
 - [Sneha Supriya](https://github.com/codingsneha)
