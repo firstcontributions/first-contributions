@@ -3854,6 +3854,7 @@ Himanshu Dedha
 - [Thanmay M Das](https://github.com/tAnboyy)
 - [Ken Lin](https://github.com/kenlin2411)
 - [Rachel Fabrigar](https://github.com/chengalore)
+- [Yaw Deezy](https://github.com/dglitxh)
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Fausta Abimanyu](https://github.com/faustabmnyh)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
