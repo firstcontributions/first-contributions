@@ -524,6 +524,7 @@ Vedant Borkar
 - [Labheshwar](https://github.com/labheshwar)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
 - [Amara Enwerem](https://github.com/theamara111)
+- [Priscilla De Los Santos](https://github.com/pndelossantos)
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
 - [Jus Buckingham](https://github.com/jusbuckingham)
 - [Sebastian](https://github.com/M4ntes)
