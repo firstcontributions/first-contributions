@@ -9,6 +9,7 @@
 - [Howard Wang] (https://github.com/Howarang12)
 - [Celia Kelly](https://github.com/celiackelly)
 - [Ethen](html://github.com/ethenpage)
+- [Abhishek Rawat](https://github.com/rawatdev)
 - [Aiden Frevert](https://github.com/afrevert)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [color00](https://github.com/color00)
