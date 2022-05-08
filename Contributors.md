@@ -6640,6 +6640,7 @@ Duncan Ledesma
 - [Eric C Vento](https://github.com/ericcvento)
 - [gus lio] (https://github.com/gus-lio)
 - [Ivan Cox](https://github.com/IvnRmcd)
+- [Bharat Kumar] (https://github.com/mbharatk)
 - [Alba Ascaso](https://github.com/AlbaAsca)
 - [Hunter Roney](https://github.com/roney17)
 - [Varun Mathuria] (https://github.com/varunmathuria)
