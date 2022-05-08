@@ -4433,6 +4433,7 @@ Himanshu Dedha
 - [Jagadeesh G](https://github.com/therandomuserr)
 - [Nikhil Kumar](https://github.com/NikhilGithubOfficial)
 - [Sowande Iyanuoluwa](https://github.com/iyanushow)
+- [Matthew C. Lewis](https://github.com/MCLewisCodes/)
 - [Jonathan](https://github.com/Jonny2379)
 - [Jaewoo Chung](https://github.com/jaewoochung)
 - [Erik Tastepe](https://github.com/erik-tastepe)
