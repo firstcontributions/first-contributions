@@ -25,6 +25,7 @@
 - [Philip]
 - [Jon Pena]
 - [3nhit] (https://github.com/3nhit)
+- [Greg Chan]
 - [khada]
 - [akavort]
 - [Gab McCullough-Murray](https://github.com/gabmcm)
