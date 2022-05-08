@@ -413,6 +413,7 @@ Indra Sonowal
 - [Lukas Benner] (https://github.com/LukasBenner)
 - [skyskyha] (https://github.com/skyskyha)
 - [mia] (https://github.com/MiaPisan)
+- [Ajoy](https://github.com/Ajoy10)
 - [Riordanis22] (https://github.com/Riordanis)
 - [Huzefa](https://github.com/HuzefaC)
 - [McMoffin](https://github.com/mcMoffin)
