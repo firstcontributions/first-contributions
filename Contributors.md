@@ -4301,6 +4301,7 @@ Himanshu Dedha
 - [Joel Poh](https://github.com/jwnpoh)
 - [Mayur Ray](https://github.com/raymayur9)
 - [Silvia Piovesan] (https://github.com/silviapio)
+- [Marie Sallaberry](https://github.com/MarieTKD)
 - [Enigmacoder-bot](https://github.com/enigmacoder-bot)
 - [Tristan Schaaf](https://github.com/TristanSchaaf)
 - [Ayush Bhargav](https://github.com/AyushBhargav)
