@@ -2228,6 +2228,7 @@ yejashi
 - [Keen1] (https://github.com/Keen1)
 - [Deepmala Mittal] (https://github.com/deepmalamittal)
 - [SungHyun Kim] (https://github.com/SungHyun627)
+- [Intisaar Othman] (https://github.com/abnain-14)
 - [Sanchit Arora] (https://github.com/sanchitarorra)
 - [Wenxin Liu] (https://github.com/wenxin-liu)
 - [Mansi  Vashistha] (https://github.com/Mansihub)
