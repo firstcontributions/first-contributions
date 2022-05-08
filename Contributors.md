@@ -6662,4 +6662,5 @@ Duncan Ledesma
 - [Jack McMahon](https://github.com/JackMcMahon97/)
 - [jfranzw](https://github.com/jfranzw)
 - [Oumar Talibe Ba](https://github.com/ba-talibe)
+- [Carlo Spata] (https://github.com/carlospata)
 <!-- prettier-ignore-end -->
