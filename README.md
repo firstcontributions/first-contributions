@@ -1,3 +1,6 @@
+# First-contributions
+<p align="center"><img width=400px height=300px src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-GitHub.jpg" alt="Project logo"></a>
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
