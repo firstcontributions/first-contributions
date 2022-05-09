@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Abhinav](https://github.com/malteezy)
@@ -21,6 +22,7 @@
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [Motahhar Mokfi](https://github.com/motahharm)
+- [Roei Klein](https://github.com/kleinroei)
 - [Maverick Fernandez @100Devs] (https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
@@ -94,6 +96,7 @@
 - [Utmost Re](https://github.com/utmostre)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
+- [Casalcuin Crow](https://github.com/alcuincrow)
 - [Syed Amaan]
 - [Salvo Polizzi]
 - [88potatoes](https://github.com/88potatoes)
@@ -664,6 +667,7 @@ Vedant Borkar
 - [Delfhub] (https://github.com/delfhub)
 - [Denver] (https://github.com/vir0za)
 - [Alisherka7] (https://github.com/Alisherka7)
+- [rangaomkaram](https://github.com/rangaomkaram)
 - [SabrinaAde](https://github.com/SabrinaAde)
 - [Jay Abella](https://github.com/jcabella1)
 - [Ankush Banik](https://github.com/Ankush263)
@@ -6669,4 +6673,5 @@ Duncan Ledesma
 - [Oumar Talibe Ba](https://github.com/ba-talibe)
 - [Carlo Spata] (https://github.com/carlospata)
 - [Phat Nguyen](https://github.com/pnt325)
+- [Ashish Choudhary](https://github.com/proModeLife/)
 <!-- prettier-ignore-end -->
