@@ -6668,4 +6668,5 @@ Duncan Ledesma
 - [Oumar Talibe Ba](https://github.com/ba-talibe)
 - [Carlo Spata] (https://github.com/carlospata)
 - [Phat Nguyen](https://github.com/pnt325)
+- [Ashish Choudhary](https://github.com/proModeLife/)
 <!-- prettier-ignore-end -->
