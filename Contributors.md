@@ -25,6 +25,7 @@
 - [Philip]
 - [Jon Pena]
 - [3nhit] (https://github.com/3nhit)
+- [Grant Murombo] (https://github.com/chaperoneg)
 - [Greg Chan]
 - [khada]
 - [akavort]
