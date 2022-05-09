@@ -6675,4 +6675,5 @@ Duncan Ledesma
 - [Carlo Spata] (https://github.com/carlospata)
 - [Phat Nguyen](https://github.com/pnt325)
 - [Ashish Choudhary](https://github.com/proModeLife/)
+- [Jefferson Braz] (https://github.com/JJeffersonbraz)
 <!-- prettier-ignore-end -->
