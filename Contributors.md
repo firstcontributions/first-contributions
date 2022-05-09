@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Abhinav](https://github.com/malteezy)
