@@ -6666,4 +6666,5 @@ Duncan Ledesma
 - [jfranzw](https://github.com/jfranzw)
 - [Oumar Talibe Ba](https://github.com/ba-talibe)
 - [Carlo Spata] (https://github.com/carlospata)
+- [Phat Nguyen](https://github.com/pnt325)
 <!-- prettier-ignore-end -->
