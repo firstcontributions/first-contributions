@@ -94,6 +94,7 @@
 - [Utmost Re](https://github.com/utmostre)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
 - [Raymond](https://github.com/raymondariwoola)
+- [Casalcuin Crow](https://github.com/alcuincrow)
 - [Syed Amaan]
 - [Salvo Polizzi]
 - [88potatoes](https://github.com/88potatoes)
