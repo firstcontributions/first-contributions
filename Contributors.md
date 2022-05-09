@@ -5703,6 +5703,7 @@ Disguy
 - [Mel Brandão](https://github.com/melbzzz)
 - [Syed Kawish Qayyum](https://github.com/kawishqayyum)
 - [Akhilnand C](https://github.com/Frost2799)
+- [Kunal Patel]
 - [ajtroyer](https://github.com/ajtroyer)
 - [Josh Young](https://github.com/SunYangcheng)
 - [Vaibhavi Deo](https://github.com/alteregoprofile)
