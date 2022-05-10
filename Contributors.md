@@ -10,6 +10,7 @@
 - [Kevin Shi](https://github.com/kshi4234)
 - [Howard Wang] (https://github.com/Howarang12)
 - [Celia Kelly](https://github.com/celiackelly)
+- [Tristan](https://github.com/TristanHarris2)
 - [Saadman Galib](https://github.com/saadman-galib)
 - [Ethen](html://github.com/ethenpage)
 - [Abhishek Rawat](https://github.com/rawatdev)
