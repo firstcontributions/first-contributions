@@ -2744,6 +2744,7 @@ yejashi
 - [Jared Whitlock](https://github.com/Drone14)
 - popegrigorii
 - Tanmay Arora
+- [Antonio Nesta](https://github.com/Kr4tos94)
 - [Willen Yang] (https://github.com/yangxile)
 - [Nachiket Suryawanshi](https://github.com/Nachi28)
 - [Anouk Driessen](https://github.com/anoukdriessen)
