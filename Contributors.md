@@ -3443,6 +3443,7 @@ Himanshu Dedha
 - [Ayoub Boulahtar](https://github.com/Boulahtar)
 - [Srijan Singh](https://github.com/Verito21)
 - [Ted Dino](https://github.com/ted-dino)
+- [Gazibara Dino](https://github.com/gazibarad)
 - [Philip Bettler] (https://github.com/pgbettler)
 - [Himanshu Mahawar](https://github.com/himanshu27tasveer)
 - [Christopher J](https://github.com/TheBestCharChar)
