@@ -3316,6 +3316,7 @@ Himanshu Dedha
 - [Sundararajan](https://github.com/Sundar-07)
 - [Vaibhav Aswal](https://github.com/VaibhavAswal)
 - [Armaan Kafaipour](https://github.com/ArmaanKafaipour)
+- [McKinley Forser](https://github.com/mckinleyforster)
 - [Shrinath](https://github.com/ShrinathNR)
 - [Nikhil Agrawa](https://github.com/nmagrawal)
 - [George Kakavas](https://github.com/george-kakavas)
