@@ -6692,4 +6692,5 @@ Duncan Ledesma
 - [Robert Theo](https://github.com/robertheo15)
 - [Raheem Amer](https://github.com/RaheemAmer)
 - [Furkan Akçakaya](https://github.com/furkanakcakaya)
+- [Kian Afkhami](https://github.com/kianafk)
 <!-- prettier-ignore-end -->
