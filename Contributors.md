@@ -2047,6 +2047,7 @@ Nathalie Bonin
 - [Aryan Raj] (hhtps://github.com/aryan0103raj)
 - [Omgandhi18] (https://github.com/Omgandhi18)
 - [Daniel Jordan] (https://github.com/dan2811)
+- [hg-gx](https://github.com/hg-gx)
 - [ricecooker250] (https://github.com/ricecooker250)
 - [Arson James] (https://github.com/ArsonJames)
 - [21yuyu99](https://github.com/21yuyu99)
