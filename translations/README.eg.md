@@ -35,7 +35,7 @@
  بضغطك علي Fork فانك انشات مستودع (الخاص بك) علي حساب ال Github (الخاص بك) من المشروع الرئيسي و بامكانك الان اضافة لمستك الخاصة.
 </div>
 
-## <div dir="rtl"> استنسخ هذا المشروع  - Clone the repository </div>
+## <div dir="rtl"> استنسخ هذا المستودع  - Clone the repository </div>
 
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -114,7 +114,7 @@ git checkout -b "add-alonzo-church"
 
 <br>
 
-## <div dir="rtl">بامكانك الان تغير ما تريد - Creating changes to Github</div></h2><br>
+## <div dir="rtl">بامكانك الان تغير ما تريد - Create changes on Github</div></h2><br>
 
 
 <div dir="rtl">
@@ -123,6 +123,9 @@ git checkout -b "add-alonzo-church"
   - قم بفتج الملف الذي يسمي "Contributors.md" و اكتب اسمك و لاتنسي وضع رابط حساب ال Github (الخاص بك) و عند الانتهاء تاكد انك حفظت تلك التغيرات
 
   - اذهب للترمينال واكتب هذا الأمر (`git status`) لكي يظهر لك التغيرات التي قمت بها في المشروع.
+ <br>
+ <img align="center" width="650" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" /> 
+ <br> <br>
 
   - لكي نضيف التغيرات التي قمت بها, اكتب هذا الامر (`git add`) 
   
@@ -131,7 +134,7 @@ git checkout -b "add-alonzo-church"
 ```
 git add Contributors.md
 ```
-## <div dir="rtl">  اضافة و شرح التغيرات - Commiting changes to Github</div></h2><br>
+## <div dir="rtl">  اضافة و شرح التغيرات - Commit changes to Github</div></h2><br>
 
 
 سوف توضح و تشرح التغيرات التي قمت بها عن طريق كتابتها عبر هذا الامر (`git commit`) و لا تنسي ان تستبدل (`<your-name>`) باسمك
@@ -153,14 +156,16 @@ git push origin "add-your-name"
 ```
 
 <br>
-<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
 
+## <div dir="rtl">  تسليم التغيرات للمراجعة - Hand over your changes on Github </div>
 
-<div dir="rtl">في صفحة المشروع بتاعك على صفحتك الشخصية على github دوس على زرار <code>Compare &amp; pull request</code>. هو ماكنش  ظاهر قبل كدة.</div>
+بداخل صفحتك الخاصة و بالتحديد في صفحة المشروع على Github, انقر على زر  (`Compare & pull request`)
+
+<br>
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-<div dir="rtl">دلوقتي هتسلم طلبك لصاحب المشروع الأساسي عشان يراجع عليه، في الحالة دي الطلب بتاعك هيوصلي. </div>
+<div dir="rtl">كما هو موضح في الصورة, سوف نسلم التغيرات في هيئة طلب لصاحب المشروع الرئيسي لكي يراجع عليها  </div>
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
