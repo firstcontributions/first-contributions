@@ -6693,4 +6693,5 @@ Duncan Ledesma
 - [Raheem Amer](https://github.com/RaheemAmer)
 - [Furkan Akçakaya](https://github.com/furkanakcakaya)
 - [Kian Afkhami](https://github.com/kianafk)
+- [Andrew Farrell](https://github.com/atf8760)
 <!-- prettier-ignore-end -->
