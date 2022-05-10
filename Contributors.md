@@ -6696,4 +6696,5 @@ Duncan Ledesma
 - [Kian Afkhami](https://github.com/kianafk)
 - [Andrew Farrell](https://github.com/atf8760)
 - [Sam Devine](https://github.com/samueldevine)
+- [Pietro Celiento](https://github.com/ptr-cln)
 <!-- prettier-ignore-end -->
