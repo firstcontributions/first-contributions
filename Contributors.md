@@ -6688,4 +6688,5 @@ Duncan Ledesma
 - [Geoffroy Guillotte](https://github.com/G-Roid)
 - [Jefferson Braz] (https://github.com/JJeffersonbraz)
 - [Robert Theo](https://github.com/robertheo15)
+- [Raheem Amer](https://github.com/RaheemAmer)
 <!-- prettier-ignore-end -->
