@@ -76,6 +76,7 @@
 - [Brendon Wright](https://github.com/BrendonW250)
 - [Olubukunmi Olufemi](https://github.com/PhemiT)
 - [Computatrum](https://github.com/Computatrums)
+- [OnkelPony](https://github.com/OnkelPony)
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Benjamin Yankowitz](https://github.com/BenjaminYankowitz)
@@ -6689,4 +6690,5 @@ Duncan Ledesma
 - [Jefferson Braz] (https://github.com/JJeffersonbraz)
 - [Robert Theo](https://github.com/robertheo15)
 - [Raheem Amer](https://github.com/RaheemAmer)
+- [Furkan Akçakaya](https://github.com/furkanakcakaya)
 <!-- prettier-ignore-end -->
