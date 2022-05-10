@@ -47,6 +47,7 @@
 - [Casey] (https://github.com/cwellis)
 - [Rishie Bothra] (https://github.com/rishiebothra)
 - [Vaibhav Raj Goel](https://github.com/goelvaibhav)
+[devarapally Uma Reddy](https://github.com/uma-devarapally)
 - [Eric Klatzer](https://github.com/eklatzer)
 - [LadyNazlia_Amanda_Faulkenberry] (https://github.com/LadyNazlia)
 - [Pratik Mali] (https://github.com/impratik7)
