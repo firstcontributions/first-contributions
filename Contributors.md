@@ -57,6 +57,7 @@
 - [Iftikhar #100Devs](https://github.com/ifti891)
 - [Ruizii]
 - [wyt0000]
+[Devarapally uma reddy]
 - [Slootthh]https://github.com/Slootthh/first-contributions.git
 - [Abdulrahman Alaa](https://github.com/abulrahmanalaa123)
 - [Valtina] (https://github.com/valtinaxu)
