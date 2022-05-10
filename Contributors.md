@@ -2609,6 +2609,7 @@ yejashi
 - [Mohammed Shaz](https://github.com/mo-shaz)
 - [Junaid Arham](https://github.com/jazaki/)
 - [Diya Yang]
+- [Liat Regev] (https://github.com/liat-regev)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Akinmegha, Temitope Samuel](https://github.com/temitopeakin1)
