@@ -33,7 +33,7 @@
 - [Greg Chan]
 - [khada]
 - [akavort]
-JT
+- [JT]
 - [Gab McCullough-Murray](https://github.com/gabmcm)
 - [Collins Kandongwe](https://github.com/Kandongwe)
 - [Marko Tomik](https://github.com/mvrque)
