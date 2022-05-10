@@ -2546,6 +2546,7 @@ yejashi
 - [Syed Barkat Uddin Nizami] (https://github.com/BarkatNizami)
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
+- [Thomas Thelen-Clemmons](https://github.com/thamasmorethelen)
 - [Magnus Sustad](https://github.com/mgnss)
 - [Boris Russanov] (https://github.com/Boris-Russanov)
 - [Mohit Verma](https://github.com/vermamohit13)
@@ -2608,6 +2609,7 @@ yejashi
 - [Mohammed Shaz](https://github.com/mo-shaz)
 - [Junaid Arham](https://github.com/jazaki/)
 - [Diya Yang]
+- [Liat Regev] (https://github.com/liat-regev)
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Akinmegha, Temitope Samuel](https://github.com/temitopeakin1)
@@ -6691,4 +6693,7 @@ Duncan Ledesma
 - [Robert Theo](https://github.com/robertheo15)
 - [Raheem Amer](https://github.com/RaheemAmer)
 - [Furkan Akçakaya](https://github.com/furkanakcakaya)
+- [Kian Afkhami](https://github.com/kianafk)
+- [Andrew Farrell](https://github.com/atf8760)
+- [Sam Devine](https://github.com/samueldevine)
 <!-- prettier-ignore-end -->
