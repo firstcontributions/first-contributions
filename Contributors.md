@@ -2546,6 +2546,7 @@ yejashi
 - [Syed Barkat Uddin Nizami] (https://github.com/BarkatNizami)
 - [Israr Ahmad Khan](https://github.com/israrwz)
 - [Rohit Kumar](https://github.com/rk0010159)
+- [Thomas Thelen-Clemmons](https://github.com/thamasmorethelen)
 - [Magnus Sustad](https://github.com/mgnss)
 - [Boris Russanov] (https://github.com/Boris-Russanov)
 - [Mohit Verma](https://github.com/vermamohit13)
