@@ -124,7 +124,7 @@ git checkout -b "add-alonzo-church"
  قم بفتح الملف الذي يسمي "Contributors.md" و اكتب اسمك و لاتنسي وضع رابط حساب ال Github (الخاص بك) و عند الانتهاء تاكد انك حفظت تلك التغيرات. 
 </div><br>
 <div dir="rtl">
- اذهب للترمينال واكتب هذا الأمر (`git status`) لكي يظهر لك التغيرات التي قمت بها في المشروع.
+ اذهب للترمينال واكتب هذا الأمر (<code> git status </code>) لكي يظهر لك التغيرات التي قمت بها في المشروع.
 </div><br>
   <img align="center" width="500" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" /> 
  <br> <br>
