@@ -6706,4 +6706,5 @@ Duncan Ledesma
 - [Sam Devine](https://github.com/samueldevine)
 - [Pietro Celiento](https://github.com/ptr-cln)
 - [scampb38] (https://github.com/scampb38) 
+- [Kamil Kuliberda](https://github.com/AvantWolf)
 <!-- prettier-ignore-end -->
