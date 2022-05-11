@@ -2744,6 +2744,7 @@ yejashi
 - [Jared Whitlock](https://github.com/Drone14)
 - popegrigorii
 - Tanmay Arora
+- [Antonio Nesta](https://github.com/Kr4tos94)
 - [Willen Yang] (https://github.com/yangxile)
 - [Nachiket Suryawanshi](https://github.com/Nachi28)
 - [Anouk Driessen](https://github.com/anoukdriessen)
@@ -6696,4 +6697,5 @@ Duncan Ledesma
 - [Kian Afkhami](https://github.com/kianafk)
 - [Andrew Farrell](https://github.com/atf8760)
 - [Sam Devine](https://github.com/samueldevine)
+- [Pietro Celiento](https://github.com/ptr-cln)
 <!-- prettier-ignore-end -->
