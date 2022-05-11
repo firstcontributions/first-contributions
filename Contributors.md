@@ -4,6 +4,7 @@
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
+- [Nancy Chaudhry](https://github.com/chaudhryna)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
