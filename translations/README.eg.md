@@ -119,15 +119,17 @@ git checkout -b "add-alonzo-church"
 
 <div dir="rtl">
    لنقم بتسجيل اول مساهمة لك عن طريق اضافة اسمك لقائمة المساهمين "Contributors.md" عن طريق المحرر المفضل لك "text editor"   
-
-1. قم بفتج الملف الذي يسمي "Contributors.md" و اكتب اسمك و لاتنسي وضع رابط حساب ال Github (الخاص بك) و عند الانتهاء تاكد انك حفظت تلك التغيرات.
-
-2. اذهب للترمينال واكتب هذا الأمر (`git status`) لكي يظهر لك التغيرات التي قمت بها في المشروع.
- <br>
+</div><br>
+<div dir="rtl">
+ قم بفتج الملف الذي يسمي "Contributors.md" و اكتب اسمك و لاتنسي وضع رابط حساب ال Github (الخاص بك) و عند الانتهاء تاكد انك حفظت تلك التغيرات. 
+</div><br>
+<div dir="rtl">
+ اذهب للترمينال واكتب هذا الأمر (`git status`) لكي يظهر لك التغيرات التي قمت بها في المشروع.
+</div><br>
   <img align="center" width="500" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" /> 
  <br> <br>
 
-  3. لكي نضيف التغيرات التي قمت بها, اكتب هذا الامر (`git add`) 
+لكي نضيف التغيرات التي قمت بها, اكتب هذا الامر (`git add`) 
   
 </div>
 
