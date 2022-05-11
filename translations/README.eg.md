@@ -85,7 +85,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ## <div dir="rtl">  قم بعمل فرع خاص بك - Create a branch </div>
 
 <div dir="rtl"> 
-  بعد انشاء نسختك الخاصة بك من الخطوات السابقة ..   انتقل للفولدر اللذي تم تحميله مسبقا
+  بعد انشاء نسختك الخاصة بك من الخطوات السابقة ..   انتقل للفولدر الذي تم تحميله مسبقا
 </div>
 
 <br>
