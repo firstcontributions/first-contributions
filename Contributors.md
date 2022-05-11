@@ -195,6 +195,7 @@
 - [Oscar](https://github.com/zitrocode)
 - [Ronak](https://github.com/ronakvir)
 - [Tan Zi Xi](https://github.com/tzixi)
+- [Deepesh sharma](https://github.com/sunnybio)
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [TaVon Yuille] (https://github.com/tsyuille)
 - [Mbaziira Ronald](https://github.com/mbaziiraronald)
