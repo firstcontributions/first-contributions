@@ -12,6 +12,7 @@
 - [Howard Wang] (https://github.com/Howarang12)
 - [Celia Kelly](https://github.com/celiackelly)
 - [Tristan](https://github.com/TristanHarris2)
+- [Bartosz Milew](https://github.com/BartekMilew)
 - [Saadman Galib](https://github.com/saadman-galib)
 - [Ethen](html://github.com/ethenpage)
 - [Abhishek Rawat](https://github.com/rawatdev)
