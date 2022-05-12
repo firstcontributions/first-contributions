@@ -6716,4 +6716,5 @@ Duncan Ledesma
 - [scampb38] (https://github.com/scampb38) 
 - [Kamil Kuliberda](https://github.com/AvantWolf)
 - [Itamar Barkai] (https://github.com/TheAllSeer)
+- [NurhudaStyle]
 <!-- prettier-ignore-end -->
