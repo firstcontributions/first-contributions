@@ -15,6 +15,7 @@
 - [Kevin Shi](https://github.com/kshi4234)
 - [Howard Wang] (https://github.com/Howarang12)
 - [miyashiro1] (https://github.com/miyashiro1)
+- [Franco Filippi] (https://github.com/frcofilippi)
 - [Celia Kelly](https://github.com/celiackelly)
 - [Tristan](https://github.com/TristanHarris2)
 - [Bartosz Milew](https://github.com/BartekMilew)
