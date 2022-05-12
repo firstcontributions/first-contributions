@@ -5,6 +5,7 @@
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
+- [Kieran Brady] (https://github.com/kb1107)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
