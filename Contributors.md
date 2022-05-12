@@ -50,6 +50,7 @@
 - [Elemento]
 - [Brandon White]
 - [Md Sujan] (https://github.com/MdSujan99)
+- [Otávio Cipriano](https://github.com/Otavio-Cipriano)
 - [Qingrong Zhou](https://github.com/DreamingSarah)
 - [Anudruth Manjunath]
 - [Casey] (https://github.com/cwellis)
