@@ -87,6 +87,7 @@
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Benjamin Yankowitz](https://github.com/BenjaminYankowitz)
+[Prasanna Jangali](https://github.com/PrasannaJangali)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alessio Chen] (https://github.com/AlessioChen)
 - [sisi](https://github.com/sisi-in-tech/)
