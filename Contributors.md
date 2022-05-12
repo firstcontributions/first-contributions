@@ -32,6 +32,7 @@
 - [MoisesCastlee](https://github.com/moisescastlee)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
+- [ofavor](https://github.com/favorxo)
 - [Roei Klein](https://github.com/kleinroei)
 - [Maverick Fernandez @100Devs] (https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
