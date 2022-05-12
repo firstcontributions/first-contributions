@@ -25,6 +25,7 @@
 - [Ryan Fang](https://github.com/ryanfang5)
 - [Jake Roberts](https://github.com/JRoberts012)
 - [Ritik Singh](https://github.com/bloodmonk7)
+- [Kevin Lindholm](https://github.com/KevinLindh)
 - [MoisesCastlee](https://github.com/moisescastlee)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
