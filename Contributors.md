@@ -6424,4 +6424,5 @@ Duncan Ledesma
 - [Muhammet ŞAFAK](https://github.com/muhammetsafak)
 - [Mustafa Siddiqui](https://github.com/mush1e)
 - [Kain Klob](https://github.com/KKlob)
+- [Madalina B](https://github.com/madalinabatinas3pg)
 <!-- prettier-ignore-end -->
