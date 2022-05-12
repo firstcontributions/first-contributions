@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [sussyamogus5](https://github.com/sussyamogus5)
+- [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
