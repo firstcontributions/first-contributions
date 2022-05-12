@@ -40,6 +40,7 @@
 - [akavort]
 - [JT]
 - [Gab McCullough-Murray](https://github.com/gabmcm)
+[Prasanna Jangali](https://github.com/PrasannaJangali)
 - [Collins Kandongwe](https://github.com/Kandongwe)
 - [Marko Tomik](https://github.com/mvrque)
 - [Karl Marx Roxas](https://github.com/Karlroxas21)
