@@ -288,6 +288,7 @@
 - [Oluyanju Oluwaseyi] (https://github.com/emperor6inch)
 - [simon wu](https://github.com/simon-engineer)
 - [Emmanuel Akanji](https://github.com/manny-uncharted)
+- [Ahmad Abbas](https://github.com/ahmadabbas02)
 - [jake hourani]
 - [Eric Fenton](https://github.com/Eribloot)
 - [Luca](https://github.com/lucapdr01)
