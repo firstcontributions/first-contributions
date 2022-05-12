@@ -673,6 +673,7 @@ Vedant Borkar
 - [Mohammad Hussain](https://github.com/hussaincode)
 - [Shwe Zin](https://github.com/Shweryl)
 - [N. Dennis] (https://github.com/ndennis124)
+- [Steve Martella] (https://github.com/steve-martella/)
 - [Saurabh Dange](https://github.com/Saurabh-Dange)
 - [Varad Paralikar](https://github.com/VARADSP)
 - [Laura Coronel](https://github.com/LauraAbCoronel)
