@@ -997,6 +997,7 @@ Vedant Borkar
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Arman Moztarzadeh] (https://github.com/armanmoztar)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
+- [Sayantan Bera] (https://github.com/beraSayantan)
 - -[Dhanvi Medha](https://github.com/jacobalternative)
 - [Aayush Sharma](https://github.com/Aayush987)
 - [Milpontia N](https://github.com/lordeunicorn)
