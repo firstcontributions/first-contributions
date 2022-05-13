@@ -98,6 +98,7 @@
 - [Raymond](https://github.com/raymondariwoola)
 - [Casalcuin Crow](https://github.com/alcuincrow)
 - [Syed Amaan]
+- [McGrail](https://github.com/Robotonist)
 - [Salvo Polizzi]
 - [88potatoes](https://github.com/88potatoes)
 - [Jordi](https://github.com/JordiEspinozaMendoza)
