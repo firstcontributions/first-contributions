@@ -2961,6 +2961,7 @@ yejashi
 - [Meet Mehta](https://github.com/mehtameet2802)
 - [Tejas](https://github.com/tm2k23)
 - [Max Meyaev](https://github.com/maxmeyaev)
+- [Ricardo Doberstein](https://github.com/ricardodoberstein)
 - [Cesar Vasquez](https://github.com/cesar0914)
 - [Mrigank Singh](https://github.com/mriganksingh1)
 - [Ayman Damoun](https://github.com/damounayman)
