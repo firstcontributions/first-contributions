@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [UvrajSB](https://github.com/UvrajSB)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
