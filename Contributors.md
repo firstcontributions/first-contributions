@@ -2810,6 +2810,7 @@ yejashi
 - [s0v13tl3m0n](https://github.com/s0v13tl3m0n)
 [Hemant Raj](https://github.com/hemant767)
 - [Pranjal Kushwaha](https://github.com/PranjalKushwaha)
+- [Arlo](https://github.com/llullaku)
 - [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
 - [Ayush Malviya](https://github.com/ayush-geek)
