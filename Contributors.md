@@ -4128,6 +4128,7 @@ Himanshu Dedha
 - [Yogi Arif Widodo, 2021](https://github.com/yogithesymbian)
 - [Nae Sebastian](https://github.com/SheepSeb)
 - [Riya Gupta 👩](https://github.com/RiyaGupta89)
+- [Yoan Waucampt]
 - [Hadi Kazemian](https://github.com/mhadikazemian)
 - [Maxi Chiale](https://github.com/maxichiale)
 - [Pedro Cisternas](https://github.com/pedrocisternas)
