@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Amulya A Shetty](https://github.com/amulyaashetty)
 - [Ethen](html://github.com/ethenpage)
 - [Aiden Frevert](https://github.com/afrevert)
 - [Ritik Singh](https://github.com/bloodmonk7)
