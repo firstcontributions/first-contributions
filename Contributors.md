@@ -4342,6 +4342,7 @@ Himanshu Dedha
 - [PavlMais](https://github.com/PavlMais)
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Joel Poh](https://github.com/jwnpoh)
+- [Zachary Drummond](https://github.com/zdrummon)
 - [Mayur Ray](https://github.com/raymayur9)
 - [Silvia Piovesan] (https://github.com/silviapio)
 - [Marie Sallaberry](https://github.com/MarieTKD)
