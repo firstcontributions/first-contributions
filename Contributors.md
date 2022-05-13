@@ -241,6 +241,7 @@
 - [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
+- [Vincent Sablan]
 - [Shevindi Rodrigo](https://github.com/ShevindiRodrigo)
 - [Aakanksha Desai](https://github.com/Aakanksha-Desai)
 - [Rushin Shah](https://github.com/RushinShah22)
