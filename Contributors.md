@@ -6730,4 +6730,5 @@ Duncan Ledesma
 - [Itamar Barkai] (https://github.com/TheAllSeer)
 - [iFallenHunt] (https://github.com/iFallenHunt)
 - [NurhudaStyle]
+- [Ha Anna](https://github.com/its-haanna)
 <!-- prettier-ignore-end -->
