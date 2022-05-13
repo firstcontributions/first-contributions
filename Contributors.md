@@ -48,6 +48,7 @@
 - [khada]
 - [akavort]
 - [JT]
+- [ilikerice]
 - [adelevett](https://github.com/adelevett)
 - [Gab McCullough-Murray](https://github.com/gabmcm)
 - [Collins Kandongwe](https://github.com/Kandongwe)
