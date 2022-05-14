@@ -2,8 +2,10 @@
 
 <!-- prettier-ignore-start -->
 - [UvrajSB](https://github.com/UvrajSB)
+- [Apurv Jha](https://github.com/apurvjha123)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [sussyamogus5](https://github.com/sussyamogus5)
+- [Apurv Jha](https://github.com/apurvjha123)
 - [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
