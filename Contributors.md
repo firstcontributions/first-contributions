@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [UvrajSB](https://github.com/UvrajSB)
+- [Anuj-N](https://github.com/Anuj-N)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [Abhay](https://github.com/abhay1704)
