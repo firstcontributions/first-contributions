@@ -39,6 +39,7 @@
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Kevin Lindholm](https://github.com/KevinLindh)
 - [MoisesCastlee](https://github.com/moisescastlee)
+- [Madhureshminoshi](https://github.com/Minodeveloper)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [ofavor](https://github.com/favorxo)
