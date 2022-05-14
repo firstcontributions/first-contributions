@@ -31,6 +31,7 @@
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [color00](https://github.com/color00)
 - [Devhoss](https://github.com/Devhoss)
+- [Hampton Ford](https://github.com/shford)
 - [Andrew Chang](https://github.com/acchang)
 - [Aparna Soneja](https://github.com/aparna2071)
 - [Ryan Fang](https://github.com/ryanfang5)
