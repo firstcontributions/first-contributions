@@ -362,6 +362,7 @@
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Mukhtar Onifade](https://github.com/basfar)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
+- [Eddie Chen] (https://github.com/echen642)
 - [PrairieWaltz](https://github.com/PrairieWaltz)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
