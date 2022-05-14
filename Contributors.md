@@ -54,6 +54,7 @@
 - [ilikerice]
 - [adelevett](https://github.com/adelevett)
 - [Gab McCullough-Murray](https://github.com/gabmcm)
+[Prasanna Jangali](https://github.com/PrasannaJangali)
 - [Collins Kandongwe](https://github.com/Kandongwe)
 - [Marko Tomik](https://github.com/mvrque)
 - [Karl Marx Roxas](https://github.com/Karlroxas21)
@@ -100,6 +101,7 @@
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
 - [raahimz](https://github.com/raahimz)
 - [Benjamin Yankowitz](https://github.com/BenjaminYankowitz)
+[Prasanna Jangali](https://github.com/PrasannaJangali)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alessio Chen] (https://github.com/AlessioChen)
 - [sisi](https://github.com/sisi-in-tech/)
