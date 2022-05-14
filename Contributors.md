@@ -6726,6 +6726,7 @@ Duncan Ledesma
 - [Bos, Pierry](https://github.com/pierrybos)
 - [Jack McMahon](https://github.com/JackMcMahon97/)
 - [jfranzw](https://github.com/jfranzw)
+- [Joann Saeou](https://github.com/joannsaeou)
 - [Oumar Talibe Ba](https://github.com/ba-talibe)
 - [Carlo Spata] (https://github.com/carlospata)
 - [Phat Nguyen](https://github.com/pnt325)
