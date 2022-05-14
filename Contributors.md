@@ -6741,4 +6741,5 @@ Duncan Ledesma
 - [NurhudaStyle]
 - [Ha Anna](https://github.com/its-haanna)
 - [Keshav Kumar](https://github.com/Keshavshyper6325)
+- [Sumeet Jain](https://github.com/sumeet2-lab)
 <!-- prettier-ignore-end -->
