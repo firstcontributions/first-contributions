@@ -5885,10 +5885,8 @@ Disguy
 - [Jason Wang](https://github.com/JsonWang95)
 - [Musadiq Peerzada](https://github.com/musadiqpeerzada)
 Michael Wong
-
 - [Subin Park](https://github.com/IamSOL1)
 - [Sanket Jadhav](https://github.com/SanketJadhav7d3)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -6739,4 +6737,6 @@ Duncan Ledesma
 - [iFallenHunt] (https://github.com/iFallenHunt)
 - [NurhudaStyle]
 - [Ha Anna](https://github.com/its-haanna)
+- [Walter Sumbon](https://github.com/WalterSumbon)
 <!-- prettier-ignore-end -->
+
