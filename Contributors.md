@@ -32,6 +32,7 @@
 - [Saadman Galib](https://github.com/saadman-galib)
 - [Ethen](html://github.com/ethenpage)
 - [Kay Kang](https://github.com/kaykang87)
+- [James koduah](https://github.com/James-koduah)
 - [Abhishek Rawat](https://github.com/rawatdev)
 - [Aiden Frevert](https://github.com/afrevert)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
