@@ -29,6 +29,7 @@
 - [Bartosz Milew](https://github.com/BartekMilew)
 - [Saadman Galib](https://github.com/saadman-galib)
 - [Ethen](html://github.com/ethenpage)
+- [Kay Kang](https://github.com/kaykang87)
 - [Abhishek Rawat](https://github.com/rawatdev)
 - [Aiden Frevert](https://github.com/afrevert)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
