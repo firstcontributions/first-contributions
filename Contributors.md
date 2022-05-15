@@ -49,6 +49,7 @@
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [Jon Pena]
+- [Yanwei Yang] (https://github.com/PoPowerYang)
 - [3nhit] (https://github.com/3nhit)
 - [Grant Murombo] (https://github.com/chaperoneg)
 - [Greg Chan]
