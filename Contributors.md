@@ -44,6 +44,7 @@
 - [Jake Roberts](https://github.com/JRoberts012)
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Kevin Lindholm](https://github.com/KevinLindh)
+- [Daksh Shah](https://github.com/ddddaksh)
 - [MoisesCastlee](https://github.com/moisescastlee)
 - [Madhureshminoshi](https://github.com/Minodeveloper)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
