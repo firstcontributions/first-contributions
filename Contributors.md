@@ -26,6 +26,7 @@
 - [miyashiro1] (https://github.com/miyashiro1)
 - [Franco Filippi] (https://github.com/frcofilippi)
 - [Celia Kelly](https://github.com/celiackelly)
+- [William]
 - [Tristan](https://github.com/TristanHarris2)
 - [Bartosz Milew](https://github.com/BartekMilew)
 - [Saadman Galib](https://github.com/saadman-galib)
