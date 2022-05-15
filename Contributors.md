@@ -13,7 +13,8 @@
 - [Kieran Brady] (https://github.com/kb1107)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
-- [Joshua Goldstein] 
+- [Luck Tran](https://github.com/lucktran)
+- [Joshua Goldstein]
 - [Namit Saxena] (https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
