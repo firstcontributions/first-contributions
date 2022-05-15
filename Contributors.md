@@ -49,6 +49,7 @@
 - [Roei Klein](https://github.com/kleinroei)
 - [Maverick Fernandez @100Devs] (https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
+- [Raydel Comas](https://github.com/rcomas91)
 - [Philip]
 - [Jon Pena]
 - [Yanwei Yang] (https://github.com/PoPowerYang)
