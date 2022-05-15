@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [UvrajSB](https://github.com/UvrajSB)
+- [Anuj-N](https://github.com/Anuj-N)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [Abhay](https://github.com/abhay1704)
@@ -17,6 +18,7 @@
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Kevin Shi](https://github.com/kshi4234)
+- [Srehdeep](https://github.com/Srehdeep)
 - [Howard Wang] (https://github.com/Howarang12)
 - [miyashiro1] (https://github.com/miyashiro1)
 - [Franco Filippi] (https://github.com/frcofilippi)
@@ -30,6 +32,7 @@
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [color00](https://github.com/color00)
 - [Devhoss](https://github.com/Devhoss)
+- [Hampton Ford](https://github.com/shford)
 - [Andrew Chang](https://github.com/acchang)
 - [Aparna Soneja](https://github.com/aparna2071)
 - [Ryan Fang](https://github.com/ryanfang5)
@@ -37,6 +40,7 @@
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Kevin Lindholm](https://github.com/KevinLindh)
 - [MoisesCastlee](https://github.com/moisescastlee)
+- [Madhureshminoshi](https://github.com/Minodeveloper)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [ofavor](https://github.com/favorxo)
@@ -45,6 +49,7 @@
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [Jon Pena]
+- [Yanwei Yang] (https://github.com/PoPowerYang)
 - [3nhit] (https://github.com/3nhit)
 - [Grant Murombo] (https://github.com/chaperoneg)
 - [Greg Chan]
@@ -179,6 +184,7 @@
 - [Ymer Nordström](https://github.com/ymer94/)
 - [Matthew Clark](https://https://github.com/maty714)
 - [Jonatandb](https://github.com/Jonatandb)
+- [ImaadM]
 - [MTM]
 - [Chris Basham](https://github.com/berninup)
 - [pratish ninawe](https://github.com/Pratish10)
@@ -360,6 +366,7 @@
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Mukhtar Onifade](https://github.com/basfar)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
+- [Eddie Chen] (https://github.com/echen642)
 - [PrairieWaltz](https://github.com/PrairieWaltz)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
@@ -6718,6 +6725,7 @@ Duncan Ledesma
 - [Bos, Pierry](https://github.com/pierrybos)
 - [Jack McMahon](https://github.com/JackMcMahon97/)
 - [jfranzw](https://github.com/jfranzw)
+- [Joann Saeou](https://github.com/joannsaeou)
 - [Oumar Talibe Ba](https://github.com/ba-talibe)
 - [Carlo Spata] (https://github.com/carlospata)
 - [Phat Nguyen](https://github.com/pnt325)
@@ -6738,5 +6746,7 @@ Duncan Ledesma
 - [NurhudaStyle]
 - [Ha Anna](https://github.com/its-haanna)
 - [Walter Sumbon](https://github.com/WalterSumbon)
+- [Keshav Kumar](https://github.com/Keshavshyper6325)
+- [Sumeet Jain](https://github.com/sumeet2-lab)
 <!-- prettier-ignore-end -->
 
