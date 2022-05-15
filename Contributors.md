@@ -774,6 +774,7 @@ Vedant Borkar
 - [Daniel Chang] (https://github.com/dcphantom)
 - [Michelle Lam](https://github.com/mchellelm)
 - [Shameen Kalam](https://github.com/shameenkals)
+- [Valesh Gopal] (https://github.com/valeshgopal/)
 - [ArnavSahoo](https://github.com/darthTh0t)
 - [Kaung Myat Hein] (https://github.com/KaungMyatHein582)
 - [Cyrus Shafizadeh] (https://github.com/cshafizadeh)
