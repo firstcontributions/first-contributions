@@ -32,6 +32,7 @@
 - [Abhishek Rawat](https://github.com/rawatdev)
 - [Aiden Frevert](https://github.com/afrevert)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
+- [Alex Macharia](https://github.com/alexmacharia)
 - [color00](https://github.com/color00)
 - [Devhoss](https://github.com/Devhoss)
 - [Hampton Ford](https://github.com/shford)
