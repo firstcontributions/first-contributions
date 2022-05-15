@@ -97,6 +97,7 @@
 - [DuckBeGodz]
 - [simran]
 - [Parthan-Sachin](https://github.com/Parthan-Sachin)
+- [Tobisamcodes](https://github.com/tobisamcode)
 - [OrnellaTchinda](https://github.com/OrnellaTchinda)
 - [Brendon Wright](https://github.com/BrendonW250)
 - [Olubukunmi Olufemi](https://github.com/PhemiT)
