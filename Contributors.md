@@ -274,6 +274,7 @@
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - Mason C
 - [edgarbc] (https://github.com/edgarbc)
+- [Deepak Guru] (https://github.com/DeepakGuru1998)
 - [Soumen samanta](https://github.com/soumen246)
 - [Your Mum](https://github.com/SowmeshSharma0411)
 - [Shrikant Dhayje](https://github.com/shriekdj)
