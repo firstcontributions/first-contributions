@@ -12,7 +12,7 @@ Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'e
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
 
-Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
+Si vous n'avez pas git sur votre ordinateur, [ installez-le](https://help.github.com/articles/set-up-git/).
 
 ## Embranchez ce répertoire (aussi appelé un Fork)
 
