@@ -6751,6 +6751,7 @@ Duncan Ledesma
 - [Furkan Akçakaya](https://github.com/furkanakcakaya)
 - [Kian Afkhami](https://github.com/kianafk)
 - [Andrew Farrell](https://github.com/atf8760)
+- [Joseph Torres](https://github.com/Lantheru)
 - [Sam Devine](https://github.com/samueldevine)
 - [Pietro Celiento](https://github.com/ptr-cln)
 - [scampb38] (https://github.com/scampb38) 
