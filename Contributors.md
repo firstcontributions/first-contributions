@@ -6732,4 +6732,5 @@ Duncan Ledesma
 - [iFallenHunt] (https://github.com/iFallenHunt)
 - [NurhudaStyle]
 - [Ha Anna](https://github.com/its-haanna)
+- [Jeanshell Xu](https://github.com/xucons)
 <!-- prettier-ignore-end -->
