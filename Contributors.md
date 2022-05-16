@@ -40,6 +40,7 @@
 - [Kay Kang](https://github.com/kaykang87)
 - [Abhishek Rawat](https://github.com/rawatdev)
 - [Aiden Frevert](https://github.com/afrevert)
+- [Christian L](https://github.com/weir99)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [Alex Macharia](https://github.com/alexmacharia)
 - [color00](https://github.com/color00)
