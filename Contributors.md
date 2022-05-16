@@ -69,6 +69,7 @@
 - [Greg Chan]
 - [khada]
 - [akavort]
+- [Anay Mody] (https://github.com/anaymody)
 - [JT]
 - [ilikerice]
 - [adelevett](https://github.com/adelevett)
