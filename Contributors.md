@@ -73,6 +73,7 @@
 - [akavort]
 - [Anay Mody] (https://github.com/anaymody)
 - [JT]
+- [Dominic Bell](https://github.com/dobell733)
 - [ilikerice]
 - [adelevett](https://github.com/adelevett)
 - [Gab McCullough-Murray](https://github.com/gabmcm)
