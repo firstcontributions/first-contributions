@@ -6780,4 +6780,5 @@ Duncan Ledesma
 - [Sukanta Bala](https://github.com/su1nta)
 - [Vitor Sasaki](https://github.com/vSasakiv)
 - [Daniel Park](https://github.com/Danielpark1239)
+- [Junior Mourao](https://github.com/mouraojunior)
 <!-- prettier-ignore-end -->
