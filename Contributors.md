@@ -267,6 +267,7 @@
 - [Alistair Taylor] (https://github.com/alistairmt1970) 
 - [Justin Quinn] (https://github.com/jpq3366)
 - [Rounak Shrivastava] (https://github.com/Rounakshrivastava5)
+- [Horribleness](https://github.com/Horribleness)
 - [Manan Karnik] (https://github.com/MananKarnik)
 - [Danilo Vuksanovic aka Chodala] (https://github.com/Chodala)
 - [Luke Simone](https://github.com/lukesnc)
