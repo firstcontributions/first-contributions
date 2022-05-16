@@ -183,6 +183,7 @@
 - [aflyingtombstone]
 - [gold]
 - [quick test]
+- [varun](https://github.com/varun146)
 - [mocoman132](https://github.com/mocoman132)
 - [Rajesh Kumar](https://github.com/rajeshkumar1130)
 - [Amin Awinti](https://github.com/Amin-Awinti)
