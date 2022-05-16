@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [hack3rwhale](https://github.com/hack3rwhale)
 - [UvrajSB](https://github.com/UvrajSB)
 -[Prajwal](https://github.com/prajwalbandak)
 - [Anuj-N](https://github.com/Anuj-N)
