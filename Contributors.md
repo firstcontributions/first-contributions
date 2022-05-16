@@ -6729,6 +6729,7 @@ Duncan Ledesma
 - [Gabriel Hanich](https://github.com/gabriel-hanich)
 - [Kingson Zhang](https://github.com/kingsonzhang)
 - [Gulcan Topcu] (https://github.com/colossus06)
+- [Michael Render](https://github.com/RenderMichael)
 - [Michał Wieczorek](https://github.com/misiekIDD)
 - [Hussam Alshayeb](https://github.com/iHussamAlshayeb)
 - [Eric C Vento](https://github.com/ericcvento)
