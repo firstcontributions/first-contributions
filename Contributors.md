@@ -4799,6 +4799,7 @@ Himanshu Dedha
 - [u9g](https://github.com/u9g)
 - [lhartvik](https://github.com/lhartvik)
 - [volokh0x](https://github.com/volokh0x)
+- [Aashman Sheera](https://github.com/Aashman17)
 - [YoshidaTomoaki](https://github.com/YoshidaTomoaki)
 - [Lesley Cheung](https://github.com/lezzles11)
 - [Tommy Pang](https://github.com/tommycp96)
