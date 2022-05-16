@@ -2219,6 +2219,7 @@ yejashi
 - [Hussain Ashraf] (https;//github.com/hussainashraf)
 - [Gwanwoo Kim](https://github.com/dev-wantap)
 - [Weston Henschel](https://github.com/wchenschel)
+- [Jonathan Müller](https://github.com/J-o-n-a-t-h-a-n-M-u-e-l-l-e-r)
 - [Yun Zhe Wong] (https://github.com/yunzhewong)
 - [Weiqing Han] (https://github.com/weiqinghan)
 - [Pablo Rodriguez](https://github.com/pablo-alex)
