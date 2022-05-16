@@ -20,6 +20,7 @@
 - [Abhinav](https://github.com/malteezy)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [YO-RO](https://github.com/YO-RO)
+> [Muhammad Muhammad Inuwa](https://github.com/mminuwaali)
 - [Kevin Shi](https://github.com/kshi4234)
 - [Srehdeep](https://github.com/Srehdeep)
 - [Howard Wang] (https://github.com/Howarang12)
