@@ -78,6 +78,7 @@
 - [Grant Murombo] (https://github.com/chaperoneg)
 - [Greg Chan]
 - [khada]
+- [Phone Myint Maw] (https://github.com/meemaw2020)
 - [akavort]
 - [Anay Mody] (https://github.com/anaymody)
 - [JT]
@@ -2008,6 +2009,7 @@ Nathan Hill
 - Julius
 - trainer2001
 - [Serena Wang] (https://github.com/Serenaaaaaaaa)
+-  [Aly Bahaa] (https://github.com/aly-bahaa)
 - Graham Vaith
 - Jonathan Lagos
 - Dilimulati Diliyaer
@@ -6778,6 +6780,7 @@ Duncan Ledesma
 - [Geoffroy Guillotte](https://github.com/G-Roid)
 - [Jefferson Braz] (https://github.com/JJeffersonbraz)
 - [Robert Theo](https://github.com/robertheo15)
+- [Rishikesh Panda](https://github.com/redrodeo03)
 - [Raheem Amer](https://github.com/RaheemAmer)
 - [Furkan Akçakaya](https://github.com/furkanakcakaya)
 - [Kian Afkhami](https://github.com/kianafk)
@@ -6802,4 +6805,5 @@ Duncan Ledesma
 - [Jun Le] (https://www.junlevan.com/)
 - [Justin LaPorta] (https://github.com/Justin-LaPorta)
 - [Shahila1990](https://github.com/Shahila1990)
+- [vinsout](https://github.com/vinsout)
 <!-- prettier-ignore-end -->
