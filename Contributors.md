@@ -419,6 +419,7 @@
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Naveen Kumar](https://github.com/Naveen353)
 - [Nika Nabakhteveli](https://github.com/nNabakhteveli)
+- [Kat Anderson](https://github.com/Kat42272)
 - [Manan Bordia](https://github.com/mananbordia)
 - [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
