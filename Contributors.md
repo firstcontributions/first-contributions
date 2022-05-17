@@ -1730,6 +1730,7 @@ Jawadur
 - [Driss SQALLI HOUSSAINI] (https://github.com/dsqalli)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
 - Alejandro Rodriguez(Vzla)
+- [cloudvy](https://github.com/cloudvy)
 - [Zac Driscoll]
 - Reva Vijayn
 - Knauxu
