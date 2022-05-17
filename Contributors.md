@@ -6817,4 +6817,5 @@ Duncan Ledesma
 - [Justin LaPorta] (https://github.com/Justin-LaPorta)
 - [vinsout](https://github.com/vinsout)
 - [Fabio tarantino](https://github.com/FabuDev7)
+- [pdog](https://github.com/PDog1310)
 <!-- prettier-ignore-end -->
