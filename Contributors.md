@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [hack3rwhale](https://github.com/hack3rwhale)
+- [mccurdyr] (https://github.com/mccurdyr)
 - [SaadChaay](https://github.com/saadchaay)
 - [Nicksomething23](https://github.com/nicksomething23)
 - [benqhdri](https://github.com/benqhdri)
