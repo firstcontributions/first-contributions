@@ -50,6 +50,7 @@
 - [Aiden Frevert](https://github.com/afrevert)
 - [Christian L](https://github.com/weir99)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
+- [Christine Seddon] (https://github.com/CSeddon01)
 - [Alex Macharia](https://github.com/alexmacharia)
 - [color00](https://github.com/color00)
 - [Devhoss](https://github.com/Devhoss)
