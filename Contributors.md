@@ -6683,6 +6683,7 @@ Duncan Ledesma
 - [Meowzers26](https://github.com/Meowzers26)
 - [Chang Si Kai](https://github.com/sikai00)
 - [Kopichok](https://github.com/Kopichok)
+- [Tristan Gottschalk](https://github.com/trstngttschlk/)
 - [lczz911](https://github.com/lczz911)
 - [jakel168](https://github.com/jakel168)
 - [3deep0019](https://github.com/3deep0019)
