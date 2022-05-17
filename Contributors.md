@@ -4353,6 +4353,7 @@ Himanshu Dedha
 - [Benedikt Broich](https://github.com/BenediktBroich)
 - [Arian Izadi](https://github.com/arianizadi)
 - [SSW](https://github.com/SuSandiWin)
+- [Arthur Rossi](https://github.com/rossi-p)
 - [Deboshruti Banerji](https://github.com/dbanerji)
 - [Govind Singh Bisht](https://github.com/govind2404)
 - [Rahul Dev Sharma](https://github.com/rahulsust)
