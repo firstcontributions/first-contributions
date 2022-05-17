@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [hack3rwhale](https://github.com/hack3rwhale)
+- [SaadChaay](https://github.com/saadchaay)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
 -[Prajwal](https://github.com/prajwalbandak)
