@@ -19,6 +19,7 @@
 - [Karthik Murali](https://github.com/karthikmurali60)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
+- [Shreyes Gadwalkar] (https://github.com/ShreyesGadwalkar)
 - [Namit Saxena] (https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
