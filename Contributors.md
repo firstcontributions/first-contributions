@@ -56,6 +56,7 @@
 - [Usman Rasheed](https://github.com/usmanlog)
 - [Jake Roberts](https://github.com/JRoberts012)
 - [Ritik Singh](https://github.com/bloodmonk7)
+- [Dvidian](https://github.com/Dvidian)
 - [Kevin Lindholm](https://github.com/KevinLindh)
 - [Daksh Shah](https://github.com/ddddaksh)
 - [MoisesCastlee](https://github.com/moisescastlee)
