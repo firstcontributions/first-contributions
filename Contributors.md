@@ -1145,6 +1145,7 @@ Vedant Borkar
 - [Labib Asari] (https://github.com/labeeb-7z)
 - [Brian Ruiz]
 - [Bijil Subhash] (https://github.com/bijilsubhash)
+- [Lucretia Maswabela] (https://github.com/Lucretiam)
 - [Bref] (https://github.com/bref1306)
 - [Logan Eyeshenberg] (https://github.com/ericgchu)
 - [Kamaldeep Singh](https://github.com/kamaldeep0625)
