@@ -6793,4 +6793,5 @@ Duncan Ledesma
 - [Daniel Park](https://github.com/Danielpark1239)
 - [Junior Mourao](https://github.com/mouraojunior)
 - [Travis Moore](https://github.com/trav382)
+- [Sam Kohl](https://github.com/Sam-Kohl)
 <!-- prettier-ignore-end -->
