@@ -6815,4 +6815,5 @@ Duncan Ledesma
 - [Jun Le] (https://www.junlevan.com/)
 - [Justin LaPorta] (https://github.com/Justin-LaPorta)
 - [vinsout](https://github.com/vinsout)
+- [Fabio tarantino](https://github.com/FabuDev7)
 <!-- prettier-ignore-end -->
