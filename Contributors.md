@@ -6801,4 +6801,5 @@ Duncan Ledesma
 - [Sam Kohl](https://github.com/Sam-Kohl)
 - [Jun Le] (https://www.junlevan.com/)
 - [Justin LaPorta] (https://github.com/Justin-LaPorta)
+- [vinsout](https://github.com/vinsout)
 <!-- prettier-ignore-end -->
