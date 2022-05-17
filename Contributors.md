@@ -2999,7 +2999,6 @@ yejashi
 - [Jaintra Kumar Pandey](https://github.com/jaintra)
 - [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
-- [Noemi Andras] (https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Sheryl Delrosario] (https://github.com/sheryldelrosario)
@@ -3015,6 +3014,7 @@ yejashi
 - [Rohitdutt parsai](https://github.com/rohitdutt)
 - [Abdulhakeem Adefioye](https://github.com/Adefioye)
 - [Ayush Yadav] (https://github.com/yadav-ayush)
+- [Noemi Andras] (https://github.com/noemiandras)
 - [Tyler Parris] (https://github.com/tparris4)
 - [Hesbon Mokua] (https://github.com/hezthewolf)
 - [Ogenna Esimai](https://github.com/ogennaesimai)
@@ -6821,4 +6821,5 @@ Duncan Ledesma
 - [vinsout](https://github.com/vinsout)
 - [Fabio tarantino](https://github.com/FabuDev7)
 - [pdog](https://github.com/PDog1310)
+- [Afolabi Omotoso](https://github.com/avurlerby)
 <!-- prettier-ignore-end -->

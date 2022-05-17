@@ -53,3 +53,6 @@ $ git reset --hard HEAD~2
 The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points at the same time reverting all changes you have made and remove the 2 snapshots we have just created from project history.
 
 P.s. Never perform ```git reset --hard``` if you've already pushed your commits to a shared repository as it will cause problems to everyone on that repository.
+
+After running git reset --hard uou can push the changes to remote repository by running git push -f 
+Disclaimer: This must be done with Caution!
