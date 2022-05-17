@@ -270,6 +270,7 @@
 - [Ankit Jaiswal](https://github.com/ankit0305)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Jackson Tai](https://www.github.com/JacksonTai/)
+- [Jason Chen](https://github.com/jc80800)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
 - [Jeremy] (https://github.com/jqwez)
 - [Mukul Bhardwaj](https://github.com/mb-008)
