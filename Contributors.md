@@ -91,6 +91,7 @@
 - [Gab McCullough-Murray](https://github.com/gabmcm)
 - [Collins Kandongwe](https://github.com/Kandongwe)
 - [Marko Tomik](https://github.com/mvrque)
+- [Marwane LECHGUER] (https://github.com/mlechgue)
 - [Karl Marx Roxas](https://github.com/Karlroxas21)
 - [Min Oak Kyaw](https://github.com/Kybton)
 - [MAHESH]
