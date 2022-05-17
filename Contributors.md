@@ -5,6 +5,7 @@
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [mccurdyr] (https://github.com/mccurdyr)
 - [SaadChaay](https://github.com/saadchaay)
+- [Kalenna](https://github.com/KalennaCodes)
 - [Nicksomething23](https://github.com/nicksomething23)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
