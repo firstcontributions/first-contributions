@@ -38,6 +38,7 @@
 - [Franco Filippi] (https://github.com/frcofilippi)
 - [Celia Kelly](https://github.com/celiackelly)
 - [William]
+- [Ahmad Humayun](https://github.com/AhmadHumayun)
 - [Tristan](https://github.com/TristanHarris2)
 - [Bartosz Milew](https://github.com/BartekMilew)
 - [Saadman Galib](https://github.com/saadman-galib)
