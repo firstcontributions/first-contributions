@@ -18,6 +18,7 @@
 - [Kieran Brady] (https://github.com/kb1107)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
+- [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
 - [Shreyes Gadwalkar] (https://github.com/ShreyesGadwalkar)
