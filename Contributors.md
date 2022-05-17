@@ -3105,6 +3105,7 @@ yejashi
 - [Paladin Qu](https://github.com/paladinqu)
 - [Cloudy Botty](https://github.com/cloud-03)
 - [Dan Ryan](https://github.com/boogie-matrix)
+- [Jason Hobbs](https://github.com/telnetdoogie)
 - [John Gionti](https://github.com/jgionti)
 - [Vivek Joshi](https://github.com/vjvivekvj)
 - [AymanGamal](https://github.com/cod-lvr)
