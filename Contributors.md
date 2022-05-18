@@ -6837,4 +6837,5 @@ Duncan Ledesma
 - [Hassan Refaat](https://github.com/hassanrefaat9)
 - [Jingyao Liu](https://github.com/Liu-Jingyao)
 - [JJ]
+- [Codeand con Reyes](https://github.com/CarlosReyesM)
 <!-- prettier-ignore-end -->
