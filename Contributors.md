@@ -983,6 +983,7 @@ Vedant Borkar
 - [Bayquen](https://github.com/bayquen/)
 - [Nasim Mahdi] (https://github.com/na5im/)
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
+- [Carmine Parisi] (https://github.com/pakkiotto/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
 - [Gowtham Rajeshshekaran] (https://github.com/gowtham-ra)
 - [Chuan Tan] (https://github.com/Tan-Hwai-Chuan)
