@@ -101,7 +101,8 @@
 - [Venkata Poduri] (https://github.com/VenkataP29)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
-- [Brandon White]
+- [Brandon White] 
+- [ingrid s] (https://github.com/luvinqt21-)
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Soufian El Habib] (https://github.com/soufian250)
 - [Otávio Cipriano](https://github.com/Otavio-Cipriano)
