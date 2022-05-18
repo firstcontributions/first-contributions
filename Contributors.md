@@ -223,6 +223,7 @@
 - [Ka Hung Lee](https://github.com/leekahung)
 - [Kristl Yuen](https://github.com/kristlyuen)
 - [Manoj Kumar](https://github.com/mtkumar123/)
+- [WeedsFrenzy](https://github.com/WeedsFrenzy)
 - [Pascale Delaunay](https://github.com/pascalecodes)
 - [Ymer Nordström](https://github.com/ymer94/)
 - [Matthew Clark](https://https://github.com/maty714)
@@ -2299,7 +2300,6 @@ yejashi
 - [dongbin](https://github.com/dobi02)
 - [Abhinav Sawarkar](https://github.com/abhinavishere)
 - [Athul Prakash](https://github.com/psychoSherlock)
-
 - [Seerat]
 - [Timo]
 - [David Brudnicki] (https://github.com/dbrudnicki)
