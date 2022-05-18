@@ -109,6 +109,7 @@
 - [Elemento]
 - [Brandon White] 
 - [ingrid s] (https://github.com/luvinqt21-)
+- [Anu](https://github.com/anu-codes)
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Soufian El Habib] (https://github.com/soufian250)
 - [Otávio Cipriano](https://github.com/Otavio-Cipriano)
