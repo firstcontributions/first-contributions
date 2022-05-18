@@ -6824,4 +6824,5 @@ Duncan Ledesma
 - [vinsout](https://github.com/vinsout)
 - [Fabio tarantino](https://github.com/FabuDev7)
 - [pdog](https://github.com/PDog1310)
+- [Akumi Chan](https://github.com/GripenANM)
 <!-- prettier-ignore-end -->
