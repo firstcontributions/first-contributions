@@ -94,6 +94,7 @@
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
 - [Brandon White]
+- [Bonolo Rapoo]
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Soufian El Habib] (https://github.com/soufian250)
 - [Otávio Cipriano](https://github.com/Otavio-Cipriano)
