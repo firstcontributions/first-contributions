@@ -57,6 +57,7 @@
 - [Alex Macharia](https://github.com/alexmacharia)
 - [color00](https://github.com/color00)
 - [Devhoss](https://github.com/Devhoss)
+- [Rishiraj Chandra](https://github.com/rchandra20)
 - [Hampton Ford](https://github.com/shford)
 - [Andrew Chang](https://github.com/acchang)
 - [Aparna Soneja](https://github.com/aparna2071)
