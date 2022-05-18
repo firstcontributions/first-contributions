@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [hack3rwhale](https://github.com/hack3rwhale)
+- [Joseph Venable](https://github.com/JJVenable)
 - [mccurdyr] (https://github.com/mccurdyr)
 - [SaadChaay](https://github.com/saadchaay)
 - [Kalenna](https://github.com/KalennaCodes)
