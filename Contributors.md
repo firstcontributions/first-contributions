@@ -26,6 +26,7 @@
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
+- [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin] (https://github.com/MaxwellCalkin)
 - [Shreyes Gadwalkar] (https://github.com/ShreyesGadwalkar)
 - [Namit Saxena] (https://github.com/oddball1123)
