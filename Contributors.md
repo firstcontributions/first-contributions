@@ -6827,4 +6827,5 @@ Duncan Ledesma
 - [Fabio tarantino](https://github.com/FabuDev7)
 - [pdog](https://github.com/PDog1310)
 - [Akumi Chan](https://github.com/GripenANM)
+- [Hassan Refaat](https://github.com/hassanrefaat9)
 <!-- prettier-ignore-end -->
