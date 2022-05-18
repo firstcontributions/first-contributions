@@ -683,6 +683,7 @@ Vedant Borkar
 - [Dominic Duke](https://github.com/domduke)
 - [Chris Thompson](https://github.com/ChrisThompsonDev)
 - [Kenrick Lam](https://github.com/klam98)
+- [Devashish Mital](https://github.com/devashishmital)
 - [Piyush Negi](https://github.com/NegiBaba)
 - [Dominic Merchelski] (https://github.com/rat-3)
 - [Yash Anand] (https://github.com/YashxAnand)
