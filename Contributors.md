@@ -12,7 +12,7 @@
 - [Prajwal](https://github.com/prajwalbandak)
 - [Anuj-N](https://github.com/Anuj-N)
 - [Neha Santani](https://github.com/NehaSantani)
-- [Harish Thakur](https://github.com/harish445)
+- [Alex Folayan](https://github.com/Knice2)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [Abhay](https://github.com/abhay1704)
