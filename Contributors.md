@@ -5571,6 +5571,7 @@ Himanshu Dedha
 - [GoodbyeGhost](https://github.com/GoodbyeGhost)
 - [Gaurav Verma](https://github.com/lucky-web-dev)
 - [Deep Patel](https://github.com/DeepP2667)
+- [Eric Jakobsen] (https://github.com/brightsideridin)
 - [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
 - [Loser](https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
