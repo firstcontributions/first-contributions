@@ -39,6 +39,7 @@
 - [donkeeman](https://github.com/donkeeman)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Ling Xiao](https://github.com/lingxiao14122)
+- [Maxim Makovey] (https://github.com/MAXIBOB)
 - [YO-RO](https://github.com/YO-RO)
 - [Saad Amir](https://github.com/saadamirpk)
 - [Kevin Shi](https://github.com/kshi4234)
