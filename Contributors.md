@@ -84,6 +84,7 @@
 - [Maverick Fernandez @100Devs] (https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Shan]
+- [Micah Shaffer] (https://github.com/mshaff12)
 - [Raydel Comas](https://github.com/rcomas91)
 - [Philip]
 - [Jon Pena]
