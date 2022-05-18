@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # 
 
-#### _[တခြားဘာသာစကားများဖြင့်] ဖတ်ရန်(translations/Translations.md)._
+#### _[တခြားဘာသာစကားများဖြင့်](translations/Translations.md) ဖတ်ရန်။_
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](translations/README.aze.md)</kbd>
@@ -92,8 +92,6 @@ Fork လုပ်ဖို့အတွက် စာမျက်နှာအပ�
 
 command line (သို့) terminal ကိုဖွင့်ပြီး အောက်က Git command ကို run ပါ။
 
-Open a terminal and run the following git command:
-
 ```
 git clone "ခုဏက copy ထားတဲ့ လင့်ခ်"
 ```
@@ -177,7 +175,7 @@ git push origin <add-your-branch-name>
 
 သင့်ရဲ့ပြောင်းလဲမှုတွေကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်။
 
-## Where to go from here? ဒါပြီးရင် ဘာတွေဆက် လေ့လာမလဲ
+## ဒါပြီးရင် ဘာတွေဆက် လေ့လာမလဲ
 
 Congratulation! Open Source Project တွေမှာ အမြဲလုပ်ရလေ့ရှိတဲ့ _fork -> clone -> edit -> pull request_ လုပ်ငန်းစဥ်ကို သင် အောင်မြင်စွာ လုပ်နိုင်ခဲ့ပါပြီ။
 
