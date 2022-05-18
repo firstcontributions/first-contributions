@@ -22,6 +22,7 @@
 - [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Amr Ashebo](https://github.com/amr8644)
+- [Okoye Victor](https://github.com/ChuloWay)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
