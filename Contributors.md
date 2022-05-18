@@ -22,7 +22,8 @@
 - [MAHESH]
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
-- [Brandon White]
+- [Brandon White] 
+- [ingrid s] (https://github.com/luvinqt21-)
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Qingrong Zhou](https://github.com/DreamingSarah)
 - [Casey] (https://github.com/cwellis)
