@@ -1481,6 +1481,7 @@ Zack Bryant
   [jaswanthreddy](https://github.com/jaswanthreddy-007)
 - [Radmir Sharifullin] (https://github.com/RadmirKZN)
   [Aniket Thakur](https://github.com/aniket-thakur)
+  [Steven Stewart](https://github.com/Stevie011)
 - [Benjamin](https://github.com/haik-x)
 - [Amit](https://github.com/amit-2k1)
 - [Iswag](https://github.com/ISHAQ066/)
