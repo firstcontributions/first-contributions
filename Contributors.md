@@ -32,6 +32,7 @@
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
 - [donkeeman](https://github.com/donkeeman)
+- [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [YO-RO](https://github.com/YO-RO)
 - [Saad Amir](https://github.com/saadamirpk)
