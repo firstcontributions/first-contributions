@@ -6832,4 +6832,5 @@ Duncan Ledesma
 - [pdog](https://github.com/PDog1310)
 - [Akumi Chan](https://github.com/GripenANM)
 - [Hassan Refaat](https://github.com/hassanrefaat9)
+- [Jingyao Liu](https://github.com/Liu-Jingyao)
 <!-- prettier-ignore-end -->
