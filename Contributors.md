@@ -3932,6 +3932,7 @@ Himanshu Dedha
 - [Scott Borecki](https://github.com/Scott-Borecki)
 - [Navneet Singh](https://github.com/navneet-28)
 - [Jiankarlo Belarmino](https://github.com/CSjianbel)
+- [Soham Sen](https://github.com/NuclearCactus)
 - [aweliego](https://github.com/aweliego)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Prashanta Ghoshal](https://github.com/prashantaghoshal)
