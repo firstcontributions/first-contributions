@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Badran GUELLIM](https://github.com/bdrnglm)
+- [Jonathan Mani](https://github.com/jonathanmani)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
 - [mccurdyr] (https://github.com/mccurdyr)
