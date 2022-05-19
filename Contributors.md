@@ -5781,6 +5781,7 @@ Himanshu Dedha
 - [Chirag Chopra](https://github.com/chiragshivam)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
+- [Faith Platz](https://github.com/platzf)
 - [Raj Chopde](https://github.com/rchopde/junit-reports)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - [Joshua Tomajko](https://github.com/joshtom1)
