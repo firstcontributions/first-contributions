@@ -23,6 +23,7 @@
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [sussyamogus5](https://github.com/sussyamogus5)
+- [secondary-smiles](https://github.com/secondary-smiles)
 - [Steve Behm] (https://github.com/SteveBehm)
 - [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
