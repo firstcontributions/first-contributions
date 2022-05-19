@@ -6771,6 +6771,7 @@ Duncan Ledesma
 - [Brian Chalfant](https://github.com/brian-chalfant)
 - [Meowzers26](https://github.com/Meowzers26)
 - [Chang Si Kai](https://github.com/sikai00)
+- [Derrick] (https://github.com/d-zh21)
 - [Kopichok](https://github.com/Kopichok)
 - [Tristan Gottschalk](https://github.com/trstngttschlk/)
 - [lczz911](https://github.com/lczz911)
