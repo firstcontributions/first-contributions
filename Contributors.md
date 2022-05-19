@@ -4828,7 +4828,6 @@ Himanshu Dedha
 - [Anuj Dhingra](https://github.com/Anuj0103)
 - [Felix Macaspac](https://github.com/felixmacaspac)
 - [ebina4yaka](https://github.com/ebina4yaka)
-- [Pierluigi Supino](https://github.com/pierluigisupino)
 - [obutora](https://github.com/obutora)
 - [Tanish](https://github.com/Tanish-Panwar)
 - [LachlanDev](https://github.com/LachlanDev)
