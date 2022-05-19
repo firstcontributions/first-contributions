@@ -1531,6 +1531,7 @@ Zack Bryant
 - [Amit](https://github.com/amit-2k1)
 - [Iswag](https://github.com/ISHAQ066/)
 - [Albert Fay](https://github.com/AlbertFay)
+- [Darby Poptones](https://github.com/poptone)
 - [Andrew Lee](https://github.com/AndrewJetLee)
 - [Vincent Obbeng](https://github.com/Vi-obb)
 - [The RainMan](https://github.com/TheRainManV2)
