@@ -6778,6 +6778,7 @@ Duncan Ledesma
 - [Shyamala]
 - [OrenLai](https://github.com/OrenLai)
 - [Sachin Bhat](https://github.com/bhatsac)
+- [sarthak kushwaha](https://github.com/Sarthak2720)
 - [Kadank](https://github.com/kadank)
 - [Rocky](https://github.com/simpleplanya)
 - [Beni](https://github.com/arbenferati)
@@ -6881,4 +6882,3 @@ Duncan Ledesma
 - [Mini-Sylar](https://github.com/Mini-Sylar)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
 <!-- prettier-ignore-end -->
-
