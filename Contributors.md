@@ -6836,6 +6836,7 @@ Duncan Ledesma
 - [Andrew Farrell](https://github.com/atf8760)
 - [Joseph Torres](https://github.com/Lantheru)
 - [Sam Devine](https://github.com/samueldevine)
+- [Raul Pop](https://github.com/raulpop8)
 - [Pietro Celiento](https://github.com/ptr-cln)
 - [scampb38] (https://github.com/scampb38)
 - [Kamil Kuliberda](https://github.com/AvantWolf)
