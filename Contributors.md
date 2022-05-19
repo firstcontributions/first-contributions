@@ -3038,7 +3038,7 @@ yejashi
 - [Jaintra Kumar Pandey](https://github.com/jaintra)
 - [Acigam] (https://github.com/Acigam)
 - [marenga julius](https://github.com/marenga14)
-- [Noemi Andras] (https://github.com/noemiandras)
+- [Noemi Andras](https://github.com/noemiandras)
 - [Preeti Tibrewala] (https://github.com/preetitibrewala)
 - [Muskan Gupta] (https://github.com/gmuskan95)
 - [Sheryl Delrosario] (https://github.com/sheryldelrosario)
