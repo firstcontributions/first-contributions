@@ -1122,6 +1122,7 @@ Vedant Borkar
 - [Saurav Raj](https://github.com/saurzv)
 - [Chad Theman] (https://github.com/CH-Webdev)
 - [nla] (https://github.com/NaingLynnAung9925)
+- [Prayag Bhatia](https://github.com/prayag1740)
 - [Evan Myllen] (https://github.com/muskievan95)
 - [Lachlan Daly] (https://github.com/LachieDaly)
 - [Mohammed Daniyal] (https://github.com/danides450/first-contributions)
