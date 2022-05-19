@@ -2889,6 +2889,7 @@ Himanshu Dedha
 - [Gustavo Barbosa](https://github.com/gusbdev)
 - [Abhinav Narang](https://github.com/abhinavn-04/)
 - [Abhishek Jain](https://github.com/abhi-j0407)
+- [Ishita Paliwal](https://github.com/ishitapaliwal03)
 - [Davey Carp](https://github.com/daveylcarp)
 - [Paras Aghija](https://github.com/paras-aghija)
 - [Changyu Meng](https://github.com/longfish)
@@ -3065,4 +3066,3 @@ Disguy
 
 - [LianWen wu](https://github.com/childrentime)
 <!-- prettier-ignore-end -->
-- [Ishita Paliwal](https://github.com/ishitapaliwal03)
