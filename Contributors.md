@@ -3257,6 +3257,7 @@ Aditya Agarwal
 - [Brody Moore](https://github.com/bammoore511)
 - [Pranjal]
 - [Joshua Nobleza](https://github.com/joshn28)
+- [Jack Normand](https://github.com/jacknormand)
 - [not-devil](https://github.com/not-devil)
 - [Atherv Patil](https://github.com/ColonelAVP)
 - [Sohail](https://github.com/ahmadsohail404)
