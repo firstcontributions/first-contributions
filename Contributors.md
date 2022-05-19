@@ -6096,6 +6096,7 @@ Michael Wong
 - [Viren Wanekar](https://github.com/viren1908)
 - [Rick Mrcatdev](https://github.com/atxiii)
 - [Marcus Hoefl] (https://github.com/mhoefl)
+- [Nidhi Sony](https://github.com/nidhisony24)
 - [Nimesh Jain](https://github.com/nimeshjain1)
 - [Sean Red](https://seanred.io)
 - [Sven Juhler] (https://github.com/Paranator)
