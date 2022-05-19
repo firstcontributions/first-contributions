@@ -2424,6 +2424,7 @@ yejashi
 - [Poula Helmy](https://github.com/poulahelmy)
 - [Lucas Passarella](https://github.com/LukeSparky/)
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
+- [Antti Tuomola](https://github.com/anttituomola)
 - [Alina Ryan](https://github.com/AlinaRyan)
 - [Berk Topbas](https://github.com/the-alchemist88)
 - [Andreas Vieten](https://github.com/CryptoNari)
