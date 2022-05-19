@@ -6808,6 +6808,7 @@ Duncan Ledesma
 - [Silik1] (https://github.com/Silik1)
 - [Zoni - brasiqui] (https://github.com/brasiqui)
 - [QR Koh] (https://github.com/hikarixx)
+- [Andrew Sun] (https://github.com/xiushanlaoyao)
 - [Brad Lindgren] (https://github.com/BradCL)
 - [Mary Rose] (https://github.com/ElektrazCode)
 - [Brandon Barricklow] (https://github.com/BLBarricklow)
