@@ -6501,6 +6501,7 @@ Michael Wong
 - [Nathan Yee] (https://github.com/NathanYee412)
 - [Wendyyasmim](https://github.com/Wendyyasmim)
 - [Arion Dey] (https://github.com/Gravetide)
+- [Pramit Singh](https://github.com/pramitsingh0)
 - [Piotr Olearczyk] (https://github.com/picu63)
 - [Akash Kapoor](https://github.com/akashkapoor1985/)
 - [Luis Fernando Novaes](https://github.com/lfmnovaes)
