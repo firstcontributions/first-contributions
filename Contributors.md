@@ -1326,7 +1326,7 @@ Gabrielle Jones
 -[Sarah](https://github.com/sarah157)
 -[LPA](https://github.com/Lin-Pyae)
 itay-guter
--[Nyan Linn Htet](https://github.com/MrNyanLinnHtet)
+-[Nyan Linn Huet](https://github.com/MrNyanLinnHtet)
 -Mishank Kumar
 -[Pedro Augusto Melo](https://github.com/pedroaugusto-melo)
 -Terry Smith
@@ -1395,7 +1395,8 @@ itay-guter
 -[Divyanshu Singh] (https://github.com/Divyanshu050303)
 -[Remiferiaa](https://github.com/Remiferiaa)
 -[Benjamin Bruno](https://github.com/leckermatz79)
-- [Arnab Sharma](https://github.com/arnabsharma91)
+-[Ricardo Delgado](https://github.com/rockcor0)
+-[Arnab Sharma](https://github.com/arnabsharma91)
 - Ricardo Camacho Mireles
 -[Kuldeep Singh](https://github.com/nisKULDEEP)
 -[Devendar](https://github.com/rawatd)
