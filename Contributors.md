@@ -17,9 +17,11 @@
 - [Anuj-N](https://github.com/Anuj-N)
 - [Neha Santani](https://github.com/NehaSantani)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
+- [Nidhal Mtir](https://github.com/ndmtir)
 - [Raj]
 - [David](https://github.com/DavidZhu1388)
 - [Harish Thakur](https://github.com/harish445)
+- [Mtir Nidhal](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [sussyamogus5](https://github.com/sussyamogus5)
