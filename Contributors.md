@@ -120,6 +120,8 @@
 - [Venkata Poduri] (https://github.com/VenkataP29)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
+- [Brandon White]
+- [Bonolo Rapoo]
 - [Brandon White] 
 - [ingrid s] (https://github.com/luvinqt21-)
 - [Or Orsatti](https://github.com/or-orsatti)
