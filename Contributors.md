@@ -3323,6 +3323,7 @@ Pranjal
 - [Abhiram Mundru](https://github.com/AbhiramMundru)
 - [Nigar Movsumova](https://github.com/NigarMovsumova)
 - [Douglas Kaminski](https://github.com/dokam)
+- [Soham Datta](https://github.com/sohamdata)
 - [Hrithik Sawant](https://github.com/HrithikSawant)
 - [Shikhar Maheshwari](https://github.com/shikhar-sm)
 - [Gustavo Bethelmy](https://github.com/gigablack)
