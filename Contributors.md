@@ -1816,6 +1816,7 @@ Jawadur
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
 - [Ben Jackson] (https://github.com/benjacksondev)
 - [Nick Strawser] (https://github.com/nickstrawser)
+- [Vikash Kumar] (https://github.com/Vikashrock45)
 - [Arpit Babbar] (https://github.com/arpitbabbar)
 - [Anoop S] (https://github.com/anoopanni)
 - [OmarDavidF] (https://github.com/OmarDavidF)
@@ -6367,6 +6368,7 @@ Michael Wong
 - [AndrewSamoil](https://github.com/AndySamoil)
 - [Lorenzo Vainigli](https://github.com/lorenzovngl)
 - [Tyler Sanders](https://github.com/styler0)
+[Vikash Kumar](
 - [Ankur Upadhyay](https://github.com/ankurup3)
 - [Duy Khanh](https://github.com/lordshenk)
 - [Vincent Fantin]
