@@ -20,6 +20,7 @@
 - [David](https://github.com/DavidZhu1388)
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
+- [Aditya Narayan](https://github.com/adityanarayanm095)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [Abhay](https://github.com/abhay1704)
 - [VictorAugDB](https://github.com/VictorAugDB)
