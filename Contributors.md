@@ -3187,6 +3187,8 @@ yejashi
 - [James Cowart](https://github.com/homsau)
 - [Casey Toy](https://github.com/ROSEHlPS)
 - [Sadid Idibekov](https://github.com/Sadid-USN)
+- [Edward Smakov](https://github.com/esmakov)
+
 - [Chaz Carbis](https://github.com/LilCthulu)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Ramiro Solis](https://github.com/Solis1)
