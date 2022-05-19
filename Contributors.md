@@ -5,6 +5,7 @@
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
+- [Jason Hu](https://github.com/jasonhuhx)
 - [mccurdyr] (https://github.com/mccurdyr)
 - [SaadChaay](https://github.com/saadchaay)
 - [Kalenna](https://github.com/KalennaCodes)
