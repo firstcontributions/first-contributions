@@ -8,6 +8,7 @@
 - [SaadChaay](https://github.com/saadchaay)
 - [Kalenna](https://github.com/KalennaCodes)
 - [Nicksomething23](https://github.com/nicksomething23)
+- [Tomas Perez](https://github.com/ttomrp)
 - [dim]
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
