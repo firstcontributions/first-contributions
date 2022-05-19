@@ -5791,6 +5791,7 @@ Himanshu Dedha
 - [Mitali Agrawal](https://github.com/MitaliAg)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
 - [Kimberley Torres](https://github.com/kim-tor)
+- [Nick Tuchkov] (https://github.com/tuchkovnick)
 - [Ozan Uslan](https://github.com/ozanuslan)
 - [Onur Küçüköz](https://github.com/OnurKucukoz)
 - [Oğuz Akif Tüfekcioğlu](https://github.com/oguzakif)
