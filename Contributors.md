@@ -1298,6 +1298,7 @@ Gabrielle Jones
 -[Tyler Lenick](https://github.com/tylerlenick)
 -[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
+- [Asa Henry](https://github.com/Num0Programmer)
 -[Ayush panwar](https://github.com/PanwarAyush)
 -[Muhammad Anas Sarfraz](https://github.com/anassarfraz)
 -[Vinoth Mohan](https://github.com/iamvinot)
