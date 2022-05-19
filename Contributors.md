@@ -2250,6 +2250,7 @@ yejashi
 - [James Wilson](https://github.com/james-wilson-21)
   [Vaibhav Srivastava](https://github.com/Vaibhav-srivastava-knit)
 - [Roman Yefimets](https://github.com/romainiac)
+- [Abdulaziz-04](https://github.com/Abdulaziz-04)
 - [Yusuf Isbilir](https://github.com/yusufisbilir)
 - [Joseph Gwara](https://github.com/JosephGwara)
 - [Lucky225](https://github.com/lucky225)
