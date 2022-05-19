@@ -1527,6 +1527,7 @@ Zack Bryant
 - [The Coding Canal](https://github.com/TheCodingCanal)
 - [TheJFo](https://github.com/TheJFo)
 - [Mohammad Aman](https://github.com/AMANmohd1)
+- [ColorWP](https://github.com/ColorWP)
 - [Rohan Karan](https://github.com/rohankaran)
 - [HTZ](https://github.com/hninthuzar)
 - [Kiran kumar bhatra](https://github.com/kiran49kumar)
