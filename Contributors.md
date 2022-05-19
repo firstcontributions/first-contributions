@@ -6269,6 +6269,7 @@ Michael Wong
 - [Kareem Bataineh](https://github.com/kareembataineh)
 - [Chase Whitfield](https://github.com/chasewhitfield)
 - [Joe Gross](https://github.com/joegross7)
+- [Catherine Healy](https://github.com/catherinehealyy)
 - [Gabriel Brosula](https://github.com/gabrielbrosula)
 - [Dave D](https://github.com/Dnasty777)
 - [Samuel Roberson](https://github.com/swroberson)
