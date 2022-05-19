@@ -5655,6 +5655,7 @@ Himanshu Dedha
 - [Anisykurli Faza Ramadhani](https://github.com/fazapoint)
 - [Loser](https://github.com/LoserDevelopment)
 - [Karolox](https://github.com/karolox)
+- [Renzo Cabarios](https://github.com/renzothenoob) 
 - [mcnj](https://github.com/mcnj)
 - [Tiffany Wu] (https://github.com/tiff-wu)
 - [JPMurara](https://github.com/JPMurara)
