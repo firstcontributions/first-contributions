@@ -6073,6 +6073,7 @@ Michael Wong
 - [Eden Nathan] (https://github.com/dndn10)
 - [Mary Paul] (https://github.com/chauxvive)
 - [Meriem Mounchid] (https://github.com/meriem-mounchid)
+- [Alyssa Paglumotan](https://github.com/alyssamelody)
 - [Suvrat Verma](https://github.com/suvvrat)
 - [Mohamed shibin](https://github.com/shibil102)
 - [Antony Tzigkos](https://github.com/katarn2006)
