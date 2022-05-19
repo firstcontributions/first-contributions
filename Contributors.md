@@ -2548,8 +2548,8 @@ yejashi
 - [Abshir Mohamed] (https://github.com/roycas99)
 - [Muhammad Usman](https://github.com/zillBoy)
 - [Ana B](https://github.com/okbarnard)
-  [Catherine Kiiru](https://github.com/CatherineKiiru)
-  [Ayman Lar](https://github.com/AymanLar)
+- [Catherine Kiiru](https://github.com/CatherineKiiru)
+- [Ayman Lar](https://github.com/AymanLar)
 - [Daniel Dills](https://github.com/danieldills)
   [Aung Myint Myat](https://github.com/Aungmyat23711)
 - [David Brent]
