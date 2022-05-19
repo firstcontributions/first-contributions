@@ -5815,6 +5815,7 @@ Himanshu Dedha
 - [Jacob Beene] (https://github.com/jebeene)
 - [Mehak Kambo] (https://github.com/MehakKambo)
 - [Jon Bøgvad Kejser](https://github.com/joke2512)
+- [Thomas Bisom](https://github.com/Darkshadows61])
 - [Simran Keshri](https://github.com/sims-keshri)
 - [Alessandro Bertani](https://github.com/alessandrobertani)
 - [Nilson Takayuki Sasaki](https://github.com/nilsonsasaki)
