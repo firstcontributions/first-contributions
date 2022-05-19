@@ -5248,7 +5248,7 @@ Himanshu Dedha
 - [Mammos Georgios](https://github.com/MammosGeorgios)
 - [Nelson Lim](https://github.com/nlmj)
 - [Abhishek Kumar](https://github.com/ab-by)
-- Deepanshu Sharma
+- [Deepanshu Sharma](https://github.com/deeps65)
 - [AayushSaini101](https://github.com/AayushSaini101)
 - [Sushrut Lekurwale](https://github.com/sushrutlekurwale)
 - [Chowsy Cho](https://github.com/chowsychoch/)
