@@ -6375,6 +6375,7 @@ Michael Wong
 - [Nalani Arita] (https://github.com/nalanios)
 - [jcqueiroz](https://github.com/jcqueiroz)
 - [AndrewSamoil](https://github.com/AndySamoil)
+- [Alexwilfriedo](https://github.com/Alexwilfriedo)
 - [Lorenzo Vainigli](https://github.com/lorenzovngl)
 - [Tyler Sanders](https://github.com/styler0)
 [Vikash Kumar](
