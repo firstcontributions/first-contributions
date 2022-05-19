@@ -6179,6 +6179,7 @@ Michael Wong
 - [Toroy](https://github.com/toroy)
 - [NCr4wl3r](https://github.com/NCr4wl3r)
 - [p0txky](https://github.com/p0txky)
+- [hariharanep4](https://github.com/hariharanep4)
 - [Cory Baddeley](https://github.com/cbaddeley)
 - [Josh Kovil] (https://github.com/JoshKovil/)
 - [Andrew Sandell](https://github.com/absandell)
