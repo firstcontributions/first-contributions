@@ -102,6 +102,7 @@
 - [Phone Myint Maw] (https://github.com/meemaw2020)
 - [akavort]
 - [Anay Mody] (https://github.com/anaymody)
+- [Faiz Kasman] (https://github.com/ryzncodes)
 - [JT]
 - [Dominic Bell](https://github.com/dobell733)
 - [ilikerice]
