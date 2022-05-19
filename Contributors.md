@@ -1,5 +1,4 @@
 # **Contributors**
-
 <!-- prettier-ignore-start -->
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Louis Liu](https://github.com/LouisLiuyifeng)
