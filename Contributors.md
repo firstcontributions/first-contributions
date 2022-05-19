@@ -689,7 +689,7 @@ Vedant Borkar
 - [Joel Giannelli](https://github.com/jg100)
 - [Kieran Roberts] (https://github.com/K-R237)
 - [Dhananjayan Vinayagam](https://github.com/Dhanajayan)
-- [Dimitris Baklesis](https://github.com/dbaklesis)
+- [Santosh Surve](https://github.com/santosh-surve)
 - [Shubh](https://github.com/Imshubh69)
 - [Bony Sureliya] (https://github.com/bonysureliya)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
