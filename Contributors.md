@@ -6882,3 +6882,5 @@ Duncan Ledesma
 - [Mini-Sylar](https://github.com/Mini-Sylar)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
 <!-- prettier-ignore-end -->
+- [Devisha Solanki](https://github.com/devishasolanki)
+
