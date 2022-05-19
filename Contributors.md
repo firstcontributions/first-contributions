@@ -6857,4 +6857,5 @@ Duncan Ledesma
 - [Jingyao Liu](https://github.com/Liu-Jingyao)
 - [JJ]
 - [Mini-Sylar](https://github.com/Mini-Sylar)
+- [Zhenyuan Lau](https://github.com/zhenyuanlau)
 <!-- prettier-ignore-end -->
