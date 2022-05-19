@@ -4247,7 +4247,7 @@ Himanshu Dedha
 - [Dominic Romano](https://github.com/domrom123)
 - [Avinash Karn](https://github.com/Avikarn)
 - [Fahad Alharbi](https://github.com/Fahadeidalharbi)
-- [Fahad Imrann](https://github.com/DodiAlba)
+- [Fahad Imran](https://github.com/DodiAlba)
 - [Onigiri](https://github.com/onigiri070)
 - [Archit Jain](https://github.com/architjen)
 - [James Moles](https://github.com/JPMoles)
