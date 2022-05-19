@@ -174,7 +174,10 @@
 - [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
+
 - [Yash](https://github.com/Yashk4444)
+
+- [Melvin Lucas](https://github.com/LucasMelvin15)
 - [Duncan](https://github.com/dskilton)
 - [Andrew Babilonia](https://github.com/FLAIVIINGO)
 - [Karen](https://github.com/Limebee)
