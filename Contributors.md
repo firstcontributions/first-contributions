@@ -4228,7 +4228,7 @@ Himanshu Dedha
 - [Ishwarya Rajalakshmi K](https://github.com/ishuu10)
 - [Jayaram Jai](https://github.com/jayaramvs1243)
 - [Piper050](https://github.com/Piper050)
-- [uichan] (http://github.com/wjddml)
+- [uichan](https://github.com/wjddml)
 - [Linda Ngo](https://github.com/linda-ngo)
 - [Antony Long](https://github.com/antonylong)
 - [Prathamesh Sawant](https://github.com/Prathamesh0421)
