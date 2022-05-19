@@ -6410,6 +6410,7 @@ Michael Wong
 - [Vitor Albres] (https://github.com/thealbres)
 - [Truica Sorin] (https://github.com/sorin800)
 - [Pintu Das] (https://github.com/yefeyfe)
+- [Rajat Malhotra] (https://github.com/rajat0988)
 - Jack Sparrow
 - [The Web Critter](https://github.com/thewebcritter)
 - [Atakan S] (https://github.com/AtakanGH)
