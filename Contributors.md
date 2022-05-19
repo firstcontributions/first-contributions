@@ -7,7 +7,7 @@
 - [mccurdyr] (https://github.com/mccurdyr)
 - [SaadChaay](https://github.com/saadchaay)
 - [Kalenna](https://github.com/KalennaCodes)
-- [Akshat]
+- [Akshat](https;//github.com/10Prime)
 - [Nicksomething23](https://github.com/nicksomething23)
 - [Tomas Perez](https://github.com/ttomrp)
 - [dim]
