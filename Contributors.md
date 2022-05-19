@@ -4537,6 +4537,8 @@ Himanshu Dedha
 - [Rogério Brum Hermany](https://github.com/brummm)
 - [Marcello Belanda](https://github.com/MarcelloBB)
 - [Nabakanta Deuri](https://github.com/ay3ay3)
+- [Shveta]
+- [Mayuravaani](https://github.com/mayuravaani)
 - [Fernanda Provasi](https://github.com/Feprovasi)
 - [Nasima Akter Tania 👩](https://github.com/nasima-akter-tania)
 - [sheng812](https://github.com/sheng812)
