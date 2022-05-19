@@ -1459,6 +1459,7 @@ itay-guter
 -[HPH](https://github.com/HsuPyaeHan)
 -[Deep-Ramani](https://github.com/Deep-Ramani)
 - [Manish K](https://github.com/mksjc)
+- [Mayank Patel](https://github.com/mayankdp)
 - [AndyCam](https://github.com/AndresDavidArcos)
 - [Ananthakrishnan K](https://github.com/k-ananthakrishnan)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
