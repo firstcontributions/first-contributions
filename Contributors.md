@@ -6614,6 +6614,8 @@ Michael Wong
 - [WMA](https://github.com/wminaung)
 - [Chabazite](https://github.com/chabazite)
 - [Mega](https://github.com/mega2799)
+- [Thomas Warren](https://github.com/ThomasWarren2147)
+- [Ganesh Halthota](https://github.com/ganeshhalthota)
 - [Jose Luis] (https://github.com/lujoselu98)
 - [Thomas Warren](https://github.com/ThomasWarren2147)2
 - [Kevin Ahn](https://github.com/maketheworldwise)
