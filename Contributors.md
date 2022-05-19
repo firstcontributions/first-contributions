@@ -1683,6 +1683,7 @@ sylucck
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
+- [Ayush Kanodia](https://github.com/AyushKanodia)
 - [Kgosietsile Modise] (https://github.com/modisek)
 - Siddhant Kumar
 - Varun Agrawal
