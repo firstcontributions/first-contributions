@@ -1188,6 +1188,7 @@ Vedant Borkar
 - [Shubham Kaudewar](https://github.com/ShubhamKaudewar)
 - [Anish Kuriya] (https://github.com/anishk11/)
 - Chris McCorkle
+- [Jason Zhang](https://github.com/ZSenZhang)
 - [Jonathan Bloom](https://github.com/jgb266)
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
