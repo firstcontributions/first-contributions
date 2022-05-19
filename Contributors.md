@@ -6901,4 +6901,5 @@ Duncan Ledesma
 - [JJ]
 - [Mini-Sylar](https://github.com/Mini-Sylar)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
+- [Patricia Namoro](https://github.com/git-TAP)
 <!-- prettier-ignore-end -->
