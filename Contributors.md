@@ -1050,6 +1050,7 @@ Vedant Borkar
 - [Rahul Kumar] (https://github.com/RK456)
 - [Fernando Jorge](https://github.com/nandowastaken)
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
+- [Karthik Siddhu] (https://github.com/karthik96siddhu)
 - [Melvin J.](https://github.com/melvinj98)
 - [Mr. Business](https://github.com/MrBusiness25)
 - [Faurazeko](https://github.com/Faurazeko)
