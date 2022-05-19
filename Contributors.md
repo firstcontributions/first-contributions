@@ -1837,6 +1837,8 @@ Jawadur
 - [Sourav Batgiri](https://github.com/BitterSteelbsn)
 - [Vishal Pathak] (https://github.com/pathakvishal1111)
 Justin Villena
+
+add jerry404lee
 - Charles Ulrich
 - Felicity Homman (https://github.com/felicity-homman)
 - Howard (https://github.com/rthkkona)
