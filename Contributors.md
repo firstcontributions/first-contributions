@@ -6790,6 +6790,8 @@ Duncan Ledesma
 - [Alma Lindborg] (https://github.com/alma-lindborg/)
 - howsun
 - [simona]
+- [Soumil Jaiswal](https://github.com/soumilj94)
+- [Devisha Solanki](https://github.com/devishasolanki)
 - [Thung Yong Han](https://github.com/ThungYongHan)
 - [Rain](https://github.com/chasingtherain)
 - [Mon](https://github.com/MonicaNeel)
@@ -6882,5 +6884,3 @@ Duncan Ledesma
 - [Mini-Sylar](https://github.com/Mini-Sylar)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
 <!-- prettier-ignore-end -->
-- [Devisha Solanki](https://github.com/devishasolanki)
-
