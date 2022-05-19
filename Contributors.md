@@ -1557,6 +1557,7 @@ Zack Bryant
 - ssp
 - [Codelikesuraj](https://github.com/codelikesuraj)
 - [Kalp Shah] (https://github.com/kalpshah485)
+- [Jesse Dixon] (https://github.com/Lyricfoil)
 - [JDaddy] (https://github.com/Jason8830)
 - [Jose Ozuna] (https://github.com/joseozuna48)
 - [Sudhan Gurav](https://github.com/JSudn)
