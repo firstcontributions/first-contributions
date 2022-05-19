@@ -2737,6 +2737,7 @@ yejashi
 - [Samuel Fye](https://github.com/henfye)
 - [Chandan M S](https://github.com/zac-candy)
 - [Ivan Safronov](https://github.com/issafronov)
+- [Jacky Tse](https://github.com/jktse)
 - [Arnav Puri](https://github.com/ArnavPuri)
 - [Shuto Osawa](https://github.com/ShutoOsawa)
 - [Zaid Mujahid](https://github.com/ZaidMujahid)
