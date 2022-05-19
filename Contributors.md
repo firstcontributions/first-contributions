@@ -1233,6 +1233,7 @@ Christopher K Calahan Jr
 - [Rajdeep Das](https://github.com/Rajspeaks)
 - [Tejas Shekhar Warake](https://github.com/tejas-warake)
 - [Manish Bajagai](https://github.com/manishbajagai2)
+- [Ian Kipchirchir](https://github.com/KipchirchirIan)
 - [Shoaib Ahmed](https://github.com/shoaibahmed997)
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 - [Coding Monopoly](https://github.com/CodingMonopoly)
