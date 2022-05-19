@@ -3255,6 +3255,7 @@ Aditya Agarwal
 - [Pranjal]
 - [Joshua Nobleza](https://github.com/joshn28)
 - [not-devil](https://github.com/not-devil)
+- [Atherv Patil](https://github.com/ColonelAVP)
 - [Sohail](https://github.com/ahmadsohail404)
 - [Matthew Spence](https://github.com/MrButak)
 - [Vitor de Oliveira Mendes](https://github.com/MendesVitor)
