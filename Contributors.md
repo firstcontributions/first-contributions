@@ -286,6 +286,7 @@
 - [Aaron](https://github.com/FlakTotem/)
 - [awiswasi](https://github.com/awiswasi/)
 - [Oscar](https://github.com/zitrocode)
+- [Fang Jian](https://github.com/fangjian98)
 - [Ronak](https://github.com/ronakvir)
 - [Tan Zi Xi](https://github.com/tzixi)
 - [Deepesh sharma](https://github.com/sunnybio)
