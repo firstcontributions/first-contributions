@@ -40,6 +40,7 @@
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
+- [Dimple Jain](https://github.com/dimplehoney)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin] (https://github.com/MaxwellCalkin)
 - [Shreyes Gadwalkar] (https://github.com/ShreyesGadwalkar)
@@ -124,7 +125,7 @@
 - [Elemento]
 - [Brandon White]
 - [Bonolo Rapoo]
-- [Brandon White] 
+- [Brandon White]
 - [ingrid s] (https://github.com/luvinqt21-)
 - [Or Orsatti](https://github.com/or-orsatti)
 - [Anu](https://github.com/anu-codes)
