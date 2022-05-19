@@ -1666,6 +1666,7 @@ Zack Bryant
 - [zredb](https://github.com/zredb)
 - [apwhitelaw] (https://github.com/apwhitelaw)
 sylucck
+- Joshua Hughes
 - Nikita
 - [Eugene]
 - Tito Ruiz
