@@ -6566,6 +6566,7 @@ Michael Wong
 - [Tim Ellis](https://github.com/timmellis)
 - [Yann Le Bezvoet](https://github.com/YannLeBezvoet)
 - [Manuel Bento](https://github.com/manuelbento19)
+- [John Creedon] (https://github.com/dcreedon)
 - [Maxime Noah Aldahan](https://github.com/DatBoiSaix)
 - [Praveen Kumar Datti](https://github.com/praveendatti)
 - [Dvir Bar Gai](https://github.com/dbargai)
