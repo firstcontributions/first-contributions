@@ -5776,6 +5776,7 @@ Himanshu Dedha
 - [Vibhuti Jain](https://github.com/vibhuvj27)
 - [Suresh Dahal](https://github.com/sureshdahal
 - [Abhinash Yadav](https://github.com/ralphcoder)
+- [Chirag Chopra](https://github.com/chiragshivam)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
 - [Raj Chopde](https://github.com/rchopde/junit-reports)
