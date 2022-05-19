@@ -6094,6 +6094,7 @@ Michael Wong
 - [Hanefi balcı](https://github.com/hanefibalci)
 - [Jacqueline Ann Lim](https://github.com/s3753072)
 - [Stonie Johnson](https://github.com/stoniejohnson)
+- [Kamaljot Singh](https://github.com/Spiritual-Programmer)
 - [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 - [AkshayHere](https://github.com/AkshayHere)
 - [Jeongbin Seo](https://github.com/seojbin)
