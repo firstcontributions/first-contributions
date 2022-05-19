@@ -6179,6 +6179,7 @@ Michael Wong
 - [Patryk Dziurkowski](https://github.com/patrykdziurkowski)
 - [Tanay Jha](https://github.com/tanay-jha)
 - [Carlo Occhiena](https://github.com/carloocchiena)
+- [Cissoko Boris](https://github.com/cissoko97)
 - [Paulo Ferraz](https://github.com/paulosgf)
 - [Yasuyuki Araki](https://github/y-araki)
 - [Selcher](https://github.com/selcher)
