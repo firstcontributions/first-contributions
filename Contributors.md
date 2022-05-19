@@ -118,6 +118,7 @@
 - [Elemento]
 - [Brandon White] 
 - [ingrid s] (https://github.com/luvinqt21-)
+- [Or Orsatti](https://github.com/or-orsatti)
 - [Anu](https://github.com/anu-codes)
 - [Md Sujan] (https://github.com/MdSujan99)
 - [Soufian El Habib] (https://github.com/soufian250)
