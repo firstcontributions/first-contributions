@@ -866,6 +866,7 @@ Vedant Borkar
 - [Oliver Looney] (https://github.com/Oliver-Looney)
 - [Hemanth ] (https://github.com/confusedBoy)
 - [Dylan Trepos] (https://github.com/dylantrepos)
+- [Chris Gonel](https://github.com/cgonel)
 - [Giorgio Contestabile] (https://github.com/gitNoYokai)
 - [Shoib Ansari] (https://github.com/reddishshoib )
 - [Ugur Berkay Kahveci] (https://github.com/ubkahveci)
