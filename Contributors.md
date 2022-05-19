@@ -95,6 +95,7 @@
 - [Micah Shaffer] (https://github.com/mshaff12)
 - [Raydel Comas](https://github.com/rcomas91)
 - [Philip]
+- [David Cao](https://github.com/DavidCao4626)
 - [Jon Pena]
 - [Yanwei Yang] (https://github.com/PoPowerYang)
 - [3nhit] (https://github.com/3nhit)
