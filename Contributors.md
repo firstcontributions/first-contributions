@@ -6966,4 +6966,5 @@ Duncan Ledesma
 - [Nnaemeka Umeh (fps).](https://github.com/fps8k)
 - [Anderson Santos](https://github.com/anderri)
 - [Waleska](https://github.com/waleska404)
+- [Luca Lumetti](https://github.com/LucaLumetti)
 <!-- prettier-ignore-end -->
