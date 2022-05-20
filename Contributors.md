@@ -5910,6 +5910,7 @@ Himanshu Dedha
 - [Jose Angel](https://github.com/josearg150)
 - [Amit Kumar Sharma](https://github.com/amitaks24)
 - [Sarath](https://github.com/Sarath191181208)
+- [newpower](https://github.com/jimnewpower)
 - [Nicole Romero](https://github.com/bniroo)
 - [Abderrahmane Issam](https://github.com/issam9)
 - [Thomas Olsen](https://github.com/thomaseolsen)
