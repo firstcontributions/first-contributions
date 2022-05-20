@@ -39,6 +39,7 @@
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Turry](https://github.com/Oh-Turry)
 - [Kieran Brady] (https://github.com/kb1107)
+- [Adam Stephens](https://github.com/stender11)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
 - [Yusuf Rabiu](https://github.com/stackkrocket)
