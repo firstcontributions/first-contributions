@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Danush S](https://github.com/Danush123)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Olabisi Olaoye](https://github.com/olabisi09)
