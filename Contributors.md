@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [dbsaw](https://github.com/dbsaw)
 - [Danush S](https://github.com/Danush123)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Jonathan Mani](https://github.com/jonathanmani)
