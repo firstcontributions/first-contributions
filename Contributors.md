@@ -6766,5 +6766,5 @@ add jerry404lee
 - [Anderson Santos](https://github.com/anderri)
 - [Waleska](https://github.com/waleska404)
 - [Luca Lumetti](https://github.com/LucaLumetti)
-- [Haikal Tahar](https://github.com/haikali3)
+- [Muhammad Haikal Tahar](https://github.com/haikali3)
 <!-- prettier-ignore-end -->
