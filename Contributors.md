@@ -75,6 +75,7 @@
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [Christine Seddon] (https://github.com/CSeddon01)
 - [Alex Macharia](https://github.com/alexmacharia)
+- [Christian Larson](https://github.com/degenerating)
 - [color00](https://github.com/color00)
 - [Devhoss](https://github.com/Devhoss)
 - [Rishiraj Chandra](https://github.com/rchandra20)
