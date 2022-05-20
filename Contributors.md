@@ -3772,7 +3772,7 @@ Himanshu Dedha
 - [Ipsita Goel](https://github.com/ipsitagoel)
 - [Nabeel Ahmed Khan](https://github.com/NabeelAhmed314)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
-- [Amilio Dsouza](https://github.com/AmilioDsouza)
+- [Alex Folayan](https://github.com/Alex-Folayan)
 - [Seth Howell](https://github.com/sethbam9)
 - [Rohan Nair](https://github.com/rohannair11)
 - [Tsahi Edri](https://github.com/tsahiedri)
