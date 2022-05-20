@@ -6965,4 +6965,5 @@ Duncan Ledesma
 - [Grant Yang](https://github.com/gyangle)
 - [Nnaemeka Umeh (fps).](https://github.com/fps8k)
 - [Anderson Santos](https://github.com/anderri)
+- [Waleska](https://github.com/waleska404)
 <!-- prettier-ignore-end -->
