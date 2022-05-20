@@ -23,6 +23,7 @@
 - [Prajwal](https://github.com/prajwalbandak)
 - [Anuj-N](https://github.com/Anuj-N)
 - [Neha Santani](https://github.com/NehaSantani)
+- [Alex Folayan](https://github.com/Knice2)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [Raj]
@@ -3864,7 +3865,7 @@ Himanshu Dedha
 - [Ipsita Goel](https://github.com/ipsitagoel)
 - [Nabeel Ahmed Khan](https://github.com/NabeelAhmed314)
 - [Amadeusz Sitnicki](http://github.com/Tesseractan)
-- [Amilio Dsouza](https://github.com/AmilioDsouza)
+- [Alex Folayan](https://github.com/Alex-Folayan)
 - [Seth Howell](https://github.com/sethbam9)
 - [Rohan Nair](https://github.com/rohannair11)
 - [Tsahi Edri](https://github.com/tsahiedri)
