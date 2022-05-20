@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [sussyamogus5](https://github.com/sussyamogus5)
+- [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [HirakinAndr](https://github.com/HirakinAndr)
