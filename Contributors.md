@@ -19,6 +19,7 @@
 - [Anuj-N](https://github.com/Anuj-N)
 - [Neha Santani](https://github.com/NehaSantani)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
+- [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [Raj]
 - [David](https://github.com/DavidZhu1388)
 - [Harish Thakur](https://github.com/harish445)
