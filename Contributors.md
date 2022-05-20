@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [David Sampimon] )(https://github.com/davidsampimon/)
@@ -6,7 +6,7 @@
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [Jandir Porta] (https://github.com/jandirdlctm)
 - [Lapyem Joel Okello] (https://github.com/lap-jo)
-- [Muhammad Qazi] (https://github.com/muhammadqazi)
+- [Muhaxfmmad Qazi] (https://github.com/muhammadqazi)
 - [Khova Krishna Pilato] (https://github.com/krishnaPj)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
@@ -1123,6 +1123,7 @@ yejashi
 - [Dimas Abiyoga](https://github.com/d-abiyoga)
 - [Quang Toan TRAN](https://github.com/toancqb)
 - [Prateek Singh](https://github.com/7ORP3DO)
+- [Rigoberto Rosa](https://github.com/RigosHelloWorld)
 - [Aaza](https://github.com/azaregon)
 [Julian Coda-Forno] (https://github.com/Julian-CF)
 - [junhwi](https://github.com/kimkimjunjun)
