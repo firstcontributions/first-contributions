@@ -3,7 +3,8 @@
 <!-- prettier-ignore-start -->
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Jonathan Mani](https://github.com/jonathanmani)
--[Olabisi Olaoye](https://github.com/olabisi09)
+- [Olabisi Olaoye](https://github.com/olabisi09)
+- [TenTraicion](https://github.com/TenTraicion)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
 - [kciccolella](https://github.com/kciccolella)
