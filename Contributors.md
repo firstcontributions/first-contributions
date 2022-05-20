@@ -465,6 +465,7 @@
 - [Obaida Haj Yahya](https://github.com/ObaidaHY)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nathaniel Vo](https://github.com/midnightslushie)
+- [Lucas Frigo de Souza](https://github.com/lfrigodesouza)
 - [Behnam Haddadian](https://github.com/Behnam-H)
 - [Nic Ledoux](https://github.com/NicLedoux/)
 - [Alexis Ballo](https://github.com/alexisballo2)
