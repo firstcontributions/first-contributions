@@ -18,6 +18,7 @@
 - [Nicksomething23](https://github.com/nicksomething23)
 - [Tomas Perez](https://github.com/ttomrp)
 - [dim]
+- [David Miller]((https://github.com/davidmiller2013)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
 - [Prajwal](https://github.com/prajwalbandak)
