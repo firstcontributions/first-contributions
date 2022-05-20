@@ -3654,6 +3654,7 @@ Himanshu Dedha
 - [Subham Ghosh](https://github.com/subhamgcon)
 - [Nadia Schmidtke](https://github.com/Nadia-JSch/)
 - [Aashish Illa](https://github.com/aashish0909)
+- [Katya Richter](https://github.com/knrichter19)
 - [Shikonn Tamanegi](https://github.com/Shikunsh)
 - [Aditya Shahari](https://github.com/Aditya-Shahari)
 - [Editha Karina Hermawan](https://github.com/edithakarina)
