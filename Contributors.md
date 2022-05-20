@@ -6958,4 +6958,5 @@ Duncan Ledesma
 - [Patricia Namoro](https://github.com/git-TAP)
 - [Grant Yang](https://github.com/gyangle)
 - [Nnaemeka Umeh (fps).](https://github.com/fps8k)
+- [Ronald Sumida](https://github.com/ronaldsumida)
 <!-- prettier-ignore-end -->
