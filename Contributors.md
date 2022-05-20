@@ -6970,6 +6970,7 @@ Duncan Ledesma
 - [Hassan Refaat](https://github.com/hassanrefaat9)
 - [Jingyao Liu](https://github.com/Liu-Jingyao)
 - [JJ]
+- [Codeand con Reyes](https://github.com/CarlosReyesM)
 - [Mini-Sylar](https://github.com/Mini-Sylar)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
 - [Patricia Namoro](https://github.com/git-TAP)
