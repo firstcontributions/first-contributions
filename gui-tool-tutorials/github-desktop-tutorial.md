@@ -22,7 +22,7 @@ If you're using a version of GitHub desktop before 1.0, [refer this tutorial](gi
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top right of this page.
-This will create of copy of this repository in your account.
+This will create a copy of this repository in your account.
 
 ## Clone the repository
 
