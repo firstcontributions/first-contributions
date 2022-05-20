@@ -1442,6 +1442,7 @@ itay-guter
 -[Mohamed](https://github.com/melmorsy)
 -[Juhani Rusi](https://github.com/juhanirusi)
 -[Bolutife Lawrence](https://github.com/bolutife-lawrence)
+-[Gábor Nagy](https://github.com/ngygbr)
 -[Sanish Chirayath](https://github.com/sanishchirayath1)
 -[Siarhei Sialitski](https://github.com/Siarhei-Sialitski)
   -Zuxiang Wang
