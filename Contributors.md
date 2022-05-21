@@ -7015,3 +7015,4 @@ Duncan Ledesma
 - [Lorenzo Perez](https://github.com/lorenzojperez)
 - [Rushan Ahmed Patel](https://github.com/RushanAhmed)
 <!-- prettier-ignore-end -->
+- [Jian Kim](https://github.com/jian7061)
