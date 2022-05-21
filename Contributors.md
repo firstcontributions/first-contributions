@@ -198,7 +198,7 @@
 - [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
-
+- [Shivendu Kumar](https://github.com/Shivendu-Kumar)
 - [Yash](https://github.com/Yashk4444)
 
 - [Melvin Lucas](https://github.com/LucasMelvin15)
@@ -391,7 +391,6 @@
 - [Yang Tuấn Anh] (https://github.com/YangTuanAnh)
 - [Minh Nguyen] (https://github.com/minhducnguyen26)
 - [Montek kundan](https://github.com/Montekkundan)
-- [Modern Mariner]
 - [Andre Morales] (https://github.com/dremo1995)
 - [Omar Shehata](https://github.com/OIS202)
 - [Prem Sagar Kushwaha](https://github.com/premsagarkushwaha)
