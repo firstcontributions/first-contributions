@@ -92,6 +92,7 @@
 - [Abhishek Rawat](https://github.com/rawatdev)
 - [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com)
 - [Aiden Frevert](https://github.com/afrevert)
+- [Kim Fom](https://github.com/kimfom01)
 - [Christian L](https://github.com/weir99)
 - [Kirstie Hayes](https://github.com/epixieme)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
