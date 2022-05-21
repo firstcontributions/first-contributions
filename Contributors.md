@@ -7010,4 +7010,5 @@ Duncan Ledesma
 - [Wolfgang Utz] (https://github.com/utzwol)
 - [Jin Yijie](https://github.com/ladotx)
 - [Lorenzo Perez](https://github.com/lorenzojperez)
+- [Furkan Kurt : D](https://github.com/furkkurt)
 <!-- prettier-ignore-end -->
