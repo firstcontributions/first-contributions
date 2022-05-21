@@ -4,6 +4,7 @@
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Joel Tony](https://github.com/jay-tau)
 - [dbsaw](https://github.com/dbsaw)
+- [Furkan Kurt :D](https://github.com/furkkurt)
 - [Mariana Westphalen] (https://github.com/marianaWest)
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
