@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Joel Tony](https://github.com/jay-tau)
+- [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
 - [Mariana Westphalen] (https://github.com/marianaWest)
 - [Arjun Puthli] (https://github.com/akagam1)
