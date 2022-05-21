@@ -78,6 +78,7 @@
 - [Franco Filippi](https://github.com/frcofilippi)
 - [Celia Kelly](https://github.com/celiackelly)
 - [Arth Prajapati](https://github.com/arth2002)
+- Shubh g
 - [William]
 - [Ahmad Humayun](https://github.com/AhmadHumayun)
 - [Zurabi Chkhikvadze](https://github.com/ZuieS)
