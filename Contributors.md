@@ -4,6 +4,7 @@
 - [dbsaw](https://github.com/dbsaw)
 - [Danush S](https://github.com/Danush123)
 - [Badran GUELLIM](https://github.com/bdrnglm)
+- [Ruchik Bakhai](https://github.com/RuchikBakhai)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Olabisi Olaoye](https://github.com/olabisi09)
 - [TenTraicion](https://github.com/TenTraicion)
