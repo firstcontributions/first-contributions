@@ -58,6 +58,7 @@
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
+- [Luna Bean](https://github.com/Luna-Bean)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
