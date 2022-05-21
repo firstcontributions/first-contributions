@@ -6994,5 +6994,5 @@ Duncan Ledesma
 - [Waleska](https://github.com/waleska404)
 - [Riccardo Ventrici.] (https://github.com/v3ntri)
 - [Luca Lumetti](https://github.com/LucaLumetti)
-- [Wolfgang Utz] (https://github.com/utzwol)
+- [utzwol] (https://github.com/utzwol)
 <!-- prettier-ignore-end -->
