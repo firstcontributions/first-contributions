@@ -48,6 +48,7 @@
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
+- [Arnav Negi](https://github.com/Arnav-Negi)
 - [Turry](https://github.com/Oh-Turry)
 - [Kieran Brady](https://github.com/kb1107)
 - [Adam Stephens](https://github.com/stender11)
