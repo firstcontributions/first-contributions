@@ -7012,4 +7012,5 @@ Duncan Ledesma
 - [Wolfgang Utz] (https://github.com/utzwol)
 - [Jin Yijie](https://github.com/ladotx)
 - [Lorenzo Perez](https://github.com/lorenzojperez)
+- [Rushan Ahmed Patel](https://github.com/RushanAhmed)
 <!-- prettier-ignore-end -->
