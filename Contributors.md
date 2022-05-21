@@ -195,7 +195,7 @@
 - [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
-
+- Naman Agarwal
 - [Yash](https://github.com/Yashk4444)
 
 - [Melvin Lucas](https://github.com/LucasMelvin15)
