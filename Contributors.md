@@ -192,6 +192,7 @@
 - [PedroTolvo_aka_pwdrc]
 - [DuckBeGodz]
 - [simran]
+ [notghettolenny](https://github.com/notghettolenny)
 - [Bishakha]
 - [Parthan-Sachin](https://github.com/Parthan-Sachin)
 - [Jota33](https://github.com/jota33)
