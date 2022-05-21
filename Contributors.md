@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [dbsaw](https://github.com/dbsaw)
+- [Mariana Westphalen] (https://github.com/marianaWest)
 - [Danush S](https://github.com/Danush123)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
