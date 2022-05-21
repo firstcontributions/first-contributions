@@ -496,6 +496,7 @@
 - [Manan Bordia](https://github.com/mananbordia)
 - [Nodier Vasquez](https://github.com/VasquezNodier)
 - [pattycodes]
+- [Siddharth Singh]
 - [Chad Watson](https://github.com/kaedda)
 - [Shyamanand Yadav](https://github.com/shyamayadav154)
 - [wuteek](https://github.com/wuteek)
