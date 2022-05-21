@@ -24,6 +24,7 @@
 - [Akshat](https://github.com/10Prime)
 - [Nicksomething23](https://github.com/nicksomething23)
 - [Tomas Perez](https://github.com/ttomrp)
+- [Krishna Sethiya](https://github.com/INFORTER0731)
 - [dim]
 - [kaveri] (https://github.com/kaverigotkhindi/)
 - [David Miller]((https://github.com/davidmiller2013)
