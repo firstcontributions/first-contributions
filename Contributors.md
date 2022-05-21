@@ -240,6 +240,7 @@
 - [James Peeler](https://github.com/jamespeeler)
 - [Magnus Kraft](https://github.com/manx)
 - [Megat Iskandar Shahriman](https://github.com/Isky-Codes)
+- [Anthony Church](https://github.com/ITedInnovator)
 - [Leomhann](https://github.com/Benjamin-Boy)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
 - [doziben](https://github.com/doziben)
