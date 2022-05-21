@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Teo Vilenskiy](https://github.com/xxvnt4)
 - [dbsaw](https://github.com/dbsaw)
 - [Danush S](https://github.com/Danush123)
 - [Badran GUELLIM](https://github.com/bdrnglm)
