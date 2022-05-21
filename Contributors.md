@@ -2924,6 +2924,7 @@ yejashi
 - [Alice Springfeld](https://github.com/alicespringfeld)
 - [Debbie Thompson](https://github.com/debbiect246)
 - [Tom Kennedy](https://github.com/Skyrub-dev)
+- [Mohammed Hashique A](https://github.com/hashiq300)
 - [Matthew Baker](https://github.com/leftstanding)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [Pedro Veríssimo](https://github.com/pbv2)
