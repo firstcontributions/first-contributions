@@ -1,7 +1,8 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Varad Katkalambekar] 
+- [Varad Katkalambekar]
+- [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
