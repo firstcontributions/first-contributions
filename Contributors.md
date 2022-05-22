@@ -7020,5 +7020,6 @@ Duncan Ledesma
 - [Rushan Ahmed Patel](https://github.com/RushanAhmed)
 - [kohkb](https://github.com/kohkb)
 - [Ebenezer](https://github.com/ebi10sa22)
+- [nakamurakko](https://github.com/nakamurakko)
 <!-- prettier-ignore-end -->
 - [Jian Kim](https://github.com/jian7061)
