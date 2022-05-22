@@ -37,7 +37,7 @@
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
 - [Prajwal](https://github.com/prajwalbandak)
-- [Anuj-N](https://github.com/Anuj-N)
+- [Anuj-N](https://github.com/Anuj-N)s
 - [Neha Santani](https://github.com/NehaSantani)
 - [Alex Folayan](https://github.com/Knice2)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
@@ -46,6 +46,7 @@
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
 - [David](https://github.com/DavidZhu1388)
+- [ShireenShaikh](https://github.com/toasted-breads)
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
