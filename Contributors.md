@@ -59,6 +59,7 @@
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
+Nicholaus Michael
 - [Daniel Tran] (https://github.com/danielduytran)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
