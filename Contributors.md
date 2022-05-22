@@ -7000,4 +7000,5 @@ Duncan Ledesma
 - [Luca Lumetti](https://github.com/LucaLumetti)
 - [Wolfgang Utz] (https://github.com/utzwol)
 - [Jin Yijie](https://github.com/ladotx)
+- [Aashish Kanted](https://github.com/aashishkanted)
 <!-- prettier-ignore-end -->
