@@ -1,14 +1,15 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Varad Katkalambekar]
+- [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Joel Tony](https://github.com/jay-tau)
 - [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
+- [kajetanc] (https://github.com/kajetanc)
 - [Mariana Westphalen] (https://github.com/marianaWest)
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
@@ -1223,6 +1224,7 @@
 - Chris McCorkle
 - [Jason Zhang](https://github.com/ZSenZhang)
 - [Jonathan Bloom](https://github.com/jgb266)
+- [Pratik]
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
 - [Tyler Woodcock](https://github.com/scolopaxminor)
@@ -6825,5 +6827,6 @@ add jerry404lee
 - [Ebenezer](https://github.com/ebi10sa22)
 - [nakamurakko](https://github.com/nakamurakko)
 - [Milind Nayse](https://github.com/Milind-N)
+- [tonghuihuang](https://github.com/CodeMan-cmd)
 <!-- prettier-ignore-end -->
 - [Jian Kim](https://github.com/jian7061)
