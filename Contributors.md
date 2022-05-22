@@ -66,6 +66,7 @@
 - [Adam Stephens](https://github.com/stender11)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
+- [Roberto Saliola](https://github.com/Roberto286)
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
