@@ -870,7 +870,7 @@ Vedant Borkar
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Ranj] (https://github.com/rnj50)
-
+- [petrellaj](https://github.com/petrellaj)
 - [Luz Jimenez Vela] (https://github.com/luzloujv)
 - [Emmanuel Alao] (https://github.com/omogidi)
 - [Dhineshkumar R] (https://github.com/dk017)
