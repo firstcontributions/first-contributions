@@ -472,6 +472,7 @@
 - [Kielan Anderson](https://github.com/Kielan2)
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
+- [Rohan Janardhan](https://github.com/rxhxn30)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Ruth Wata](htttps://github.com/R-N-Wata)
 - [Sadie Manicom](https://github.com/sadienicole)
