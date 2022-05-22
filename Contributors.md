@@ -7016,5 +7016,6 @@ Duncan Ledesma
 - [Jin Yijie](https://github.com/ladotx)
 - [Lorenzo Perez](https://github.com/lorenzojperez)
 - [Rushan Ahmed Patel](https://github.com/RushanAhmed)
+- [kohkb](https://github.com/kohkb)
 <!-- prettier-ignore-end -->
 - [Jian Kim](https://github.com/jian7061)
