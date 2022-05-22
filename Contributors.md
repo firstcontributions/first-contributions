@@ -17,6 +17,7 @@
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Olabisi Olaoye](https://github.com/olabisi09)
+- [Shammah Benjamin](https://github.com/asbenjamin)
 - [TenTraicion](https://github.com/TenTraicion)
 - [Hattie Tavares](https://github.com/HattieTavares)
 - [hack3rwhale](https://github.com/hack3rwhale)
