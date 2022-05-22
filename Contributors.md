@@ -8,6 +8,7 @@
 - [Joel Tony](https://github.com/jay-tau)
 - [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
+- [kajetanc] (https://github.com/kajetanc)
 - [Mariana Westphalen] (https://github.com/marianaWest)
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
