@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Alisa Owens](https://github.com/alisaowens)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Joel Tony](https://github.com/jay-tau)
 - [Ahmed Zougari](https://github.com/zougari47)
