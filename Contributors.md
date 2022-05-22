@@ -1236,6 +1236,7 @@ Vedant Borkar
 - Chris McCorkle
 - [Jason Zhang](https://github.com/ZSenZhang)
 - [Jonathan Bloom](https://github.com/jgb266)
+- [Pratik]
 - [Leonard Hibo](https://github.com/LeonardHibo)
 - [Davide Xie](https://github.com/Daxe9)
 - [Tyler Woodcock](https://github.com/scolopaxminor)
