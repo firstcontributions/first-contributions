@@ -257,6 +257,7 @@
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
+- [Charles Agoe](https://github.com/agoetee) 
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
 - [Zelalem Solomon](https://github.com/Zolasol)
