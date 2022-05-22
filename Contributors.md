@@ -223,7 +223,6 @@
 - [Alan](https://github.com/CipherKill/)
 
 - [Yash](https://github.com/Yashk4444)
-
 - [Melvin Lucas](https://github.com/LucasMelvin15)
 - [Duncan](https://github.com/dskilton)
 - [Andrew Babilonia](https://github.com/FLAIVIINGO)
@@ -7033,8 +7032,10 @@ Duncan Ledesma
 - [Ebenezer](https://github.com/ebi10sa22)
 - [nakamurakko](https://github.com/nakamurakko)
 - [tonghuihuang](https://github.com/CodeMan-cmd)
+- [Kirito139] (https://github.com/Kirito139)
 <!-- prettier-ignore-end -->
 - [Jian Kim](https://github.com/jian7061)
 - [CryoSolace]
 - [cesarnuness](https://github.com/cesarnuness)
 - [Grogu96](https://github.com/grogu96)
+
