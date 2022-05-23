@@ -816,6 +816,7 @@ Vedant Borkar
 - [SZH](https://github.com/Shweryl)
 - [Colton Gibson]
 - [cugab gaming]
+- [Ritesh Mishra was here]
 - [Chris Koski](https://github.com/ChrisKoskiii)
 - [Sifang Shan](https://github.com/ivoryssf)
 - [Zhilin Li](https://github.com/zzhilin)
