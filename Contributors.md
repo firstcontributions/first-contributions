@@ -231,6 +231,7 @@ Nicholaus Michael
 - [Yash](https://github.com/Yashk4444)
 
 - [Melvin Lucas](https://github.com/LucasMelvin15)
+- [Dev Nakum](https://github.com/DevNakum)
 - [Duncan](https://github.com/dskilton)
 - [Andrew Babilonia](https://github.com/FLAIVIINGO)
 - [Karen](https://github.com/Limebee)
