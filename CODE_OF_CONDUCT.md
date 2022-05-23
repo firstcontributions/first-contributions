@@ -1,3 +1,5 @@
+There's no CoC in this repository!!!
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
