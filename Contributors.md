@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Imtiaz Al Shariar](https://github.com/imtiazkun)
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
