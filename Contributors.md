@@ -238,6 +238,7 @@ Nicholaus Michael
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alessio Chen] (https://github.com/AlessioChen)
 - [sisi](https://github.com/sisi-in-tech/)
+- [creddy]
 - [indigorose](https://github.com/indigorose)
 - [Matthew Berti](https://github.com/mberti13)
 - [Alec](https://github.com/aelishRollo)
