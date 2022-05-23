@@ -1,10 +1,11 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-
--[Divya Arora](https://github.com/divyaarora1808)
-
+- [Chirag sharma] (https://github.com/chiragksharma)]
+- [Divya Arora](https://github.com/divyaarora1808)
+- [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
+- [abdoufermat5](https://github.com/abdoufermat5)
 - [Janmey chauhan](https://github.com/janmey97)
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
@@ -24,6 +25,7 @@
 - [Mariana Westphalen] (https://github.com/marianaWest)
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
+- [Teshane Crawford] (https://github.com/TeshaneCrawford)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
 - [Jonathan Mani](https://github.com/jonathanmani)
@@ -44,6 +46,7 @@
 - [Tomas Perez](https://github.com/ttomrp)
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [dim]
+- [Matt E] (https://github.com/mmatt21e)
   [Punit Gupta](https://github.com/Gpunit573)
 - [kaveri] (https://github.com/kaverigotkhindi/)
 - [David Miller]((https://github.com/davidmiller2013)
@@ -167,6 +170,7 @@
 - [khada]
 - [Phone Myint Maw](https://github.com/meemaw2020)
 - [akavort]
+- [Paul Yang]
 - [Anay Mody](https://github.com/anaymody)
 - [Faiz Kasman](https://github.com/ryzncodes)
 - [JT]
