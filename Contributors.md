@@ -6972,4 +6972,5 @@ Duncan Ledesma
 - [Anderson Santos](https://github.com/anderri)
 - [Waleska](https://github.com/waleska404)
 - [Luca Lumetti](https://github.com/LucaLumetti)
+- [Manuel Borja](https://github.com/manuelblp)
 <!-- prettier-ignore-end -->
