@@ -2169,6 +2169,7 @@ Nathan Hill
 - Evangelos Spyromilios -> 42Wolfsburg (https://github.com/V-Spyromilios)
 - [Daniel Ty] (https://github.com/tydan3)
 - [JohannesB]
+- [Hitesh]
 - [designer alabi] (https://github.com/designeralabi)
 - [Perrine Cribier-Delande] (https://github.com/delcrip)
 - [Rami Anand] (https://github.com/rameshanandakrishnan)
