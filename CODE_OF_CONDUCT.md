@@ -65,9 +65,5 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 available at [http://contributor-covenant.org/version/1/4][version]
 
 
-
-****************RITESH****MISHRA*************
-
-
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
