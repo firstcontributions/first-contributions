@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 -[Divya Arora](https://github.com/divyaarora1808)
+- [Dev G](https://github.com/20CE034)
 - [Janmey chauhan](https://github.com/janmey97)
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
