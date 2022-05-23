@@ -1,6 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Varad Katkalambekar]
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
