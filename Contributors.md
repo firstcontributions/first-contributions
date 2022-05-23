@@ -8,6 +8,7 @@
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
+- [Shivam Patel](https://github.com/Shivam1111111)
 - [Joel Tony](https://github.com/jay-tau)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Ahmed Zougari](https://github.com/zougari47)
