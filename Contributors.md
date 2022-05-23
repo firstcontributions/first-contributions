@@ -104,6 +104,7 @@ Nicholaus Michael
 - [Howard Wang](https://github.com/Howarang12)
 - [miyashiro1](https://github.com/miyashiro1)
 - [Franco Filippi](https://github.com/frcofilippi)
+- [egochamberpie]
 - [Celia Kelly](https://github.com/celiackelly)
 - [Arth Prajapati](https://github.com/arth2002)
 - Shubh g
