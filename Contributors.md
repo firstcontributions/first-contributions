@@ -2,6 +2,7 @@
 
 hijhihihihiih
 <!-- prettier-ignore-start -->
+- Sneed Sneedson
 - [Varad Katkalambekar]
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
