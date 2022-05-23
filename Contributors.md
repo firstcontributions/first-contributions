@@ -5,6 +5,7 @@
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
+- [Kayle Down](https://github.com/afatduck/)
 - [abdoufermat5](https://github.com/abdoufermat5)
 - [Janmey chauhan](https://github.com/janmey97)
 - [Dev Gundalia](https://github.com/20CE034)
