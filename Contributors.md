@@ -170,6 +170,7 @@ Nicholaus Michael
 - [khada]
 - [Phone Myint Maw](https://github.com/meemaw2020)
 - [akavort]
+- [Paul Yang]
 - [Anay Mody](https://github.com/anaymody)
 - [Faiz Kasman](https://github.com/ryzncodes)
 - [JT]
