@@ -230,9 +230,9 @@ Nicholaus Michael
 - [Alan](https://github.com/CipherKill/)
 
 - [Yash](https://github.com/Yashk4444)
-
 - [Melvin Lucas](https://github.com/LucasMelvin15)
 - [Dev Nakum](https://github.com/DevNakum)
+- [Henil Mistry](https://github.com/HenilMistry)
 - [Duncan](https://github.com/dskilton)
 - [Andrew Babilonia](https://github.com/FLAIVIINGO)
 - [Karen](https://github.com/Limebee)
