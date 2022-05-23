@@ -135,6 +135,7 @@ Nicholaus Michael
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [ofavor](https://github.com/favorxo)
+- [NikhilTamboli] (https://github.com/NikhilTamboli)
 - [Roei Klein](https://github.com/kleinroei)
 - [Maverick Fernandez @100Devs](https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
