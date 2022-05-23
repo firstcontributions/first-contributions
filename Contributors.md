@@ -684,6 +684,7 @@ Vedant Borkar
 - [Salvatore Bottiglieri] (https://github.com/petrosso96)
 - [Sten P] (https://github.com/Sphvy)
 - [Raghu Kokku]
+- [Wesley Vinson] (https://githuh.com/wvinson43)
 - [William Long] (https://github.com/wlong0477)
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
