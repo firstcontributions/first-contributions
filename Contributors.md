@@ -40,6 +40,7 @@
 - [David Miller]((https://github.com/davidmiller2013)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
+- [Ashmit Chamoli](https://github.com/ashmitchamoli)
 - [Prajwal](https://github.com/prajwalbandak)
 - [Anuj-N](https://github.com/Anuj-N)s
 - [Neha Santani](https://github.com/NehaSantani)
