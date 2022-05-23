@@ -7,6 +7,7 @@
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Varad Katkalambekar]
+- [careyuyu](https://github.com/careyuyu) 
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
