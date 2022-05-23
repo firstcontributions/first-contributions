@@ -3558,6 +3558,7 @@ Aditya Agarwal
 - [John](https://github.com/konig-coo)
 - [Mohammed]
 - [Adrian]
+- [karelzel]
 - [Nima](https://github.com/n13a)
 - [vhouriet](https://github.com/vhouriet)
 - [Alwaz](https://github.com/Alwaz)
