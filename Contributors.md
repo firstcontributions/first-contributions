@@ -7067,6 +7067,7 @@ Duncan Ledesma
 - [Waleska](https://github.com/waleska404)
 - [Riccardo Ventrici.] (https://github.com/v3ntri)
 - [Luca Lumetti](https://github.com/LucaLumetti)
+- [Federico Marra](https://github.com/Marra-Federico)
 - [Wolfgang Utz] (https://github.com/utzwol)
 - [Jin Yijie](https://github.com/ladotx)
 - [Lorenzo Perez](https://github.com/lorenzojperez)
