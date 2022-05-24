@@ -18,6 +18,7 @@
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/)
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Vishesh Goyal](https://github.com/vishesh011)
+- [Ansh Bansal](https://github.com/anshhhhhhh)
 - [Vinaya Datta](https://github.com/vinaya-datta/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Raul Flores](https://github.com/Raul-A-Flores)
