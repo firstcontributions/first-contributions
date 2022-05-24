@@ -835,6 +835,7 @@ Vedant Borkar
 - [Gnocchingbird] (https://github.com/gnocchingbird)
 - [Steven Tarmann](https://github.com/StevenTarmann)
 - [Edmund Wevs](https://github.com/dopewevmond)
+- [Priyank Jain](https://github.com/priyankmjain)
 - [zaw ye naing](https://github.com/zawyenaing22)
 - [Thomas ElGawly] (https://gitlab.com/Avengur)
 - [Joseph Kirchner] (https://github.com/Ignautz)
