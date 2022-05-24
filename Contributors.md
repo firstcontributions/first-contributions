@@ -16,6 +16,7 @@
 - [careyuyu](https://github.com/careyuyu) 
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
+- [Vinaya Datta](https://github.com/vinaya-datta/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
