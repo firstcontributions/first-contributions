@@ -26,6 +26,7 @@
 - [Surya](https://github.com/suryanva)
 - [Joel Tony](https://github.com/jay-tau)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
+- [Sharad Arora](https://github.com/Sharad910)
 - [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
 - [kajetanc] (https://github.com/kajetanc)
