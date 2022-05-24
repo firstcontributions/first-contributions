@@ -36,6 +36,7 @@
 - [Teshane Crawford] (https://github.com/TeshaneCrawford)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
+- [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Vatsal Patel](https://github.com/VatsalP117)
 - [Olabisi Olaoye](https://github.com/olabisi09)
