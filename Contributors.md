@@ -10,6 +10,7 @@
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Varad Katkalambekar]
+  [Glenn Dueñas](https://github.com/glenndt99)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [careyuyu](https://github.com/careyuyu) 
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
