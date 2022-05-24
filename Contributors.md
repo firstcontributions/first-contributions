@@ -15,6 +15,7 @@
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
+- [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Joel Tony](https://github.com/jay-tau)
