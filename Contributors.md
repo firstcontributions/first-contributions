@@ -2663,7 +2663,7 @@ yejashi
 - [Thomas] (https://github.com/MediumChan)
 - [Deletking](https://github.com/Deletking)
 - [Ricky Lao](https://github.com/rickylao)
-- [Tom Blanchard]
+- [Graham Patton](https://github.com/g-patton)
   [Morbius](https://github.com/prads46)
 - [Priyanka Vaishya](https://github.com/PriyankaVaishya)
 - [Hemanth Ravula](https://github.com/hmnth07)
