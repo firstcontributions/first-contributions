@@ -101,6 +101,7 @@ Nicholaus Michael
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
+- [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
