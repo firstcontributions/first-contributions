@@ -496,6 +496,7 @@
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Justin Ceccarelli](https://github.com/Jcecc)
 - [Charly Finos](https://github.com/charlyfinos)
+- [Chris Jones Dev](https://github.com/chrisjonesdesign85)
 - [Charly Finos](https://github.com/charlyfinos)
 - [jie yang](https://github.com/guoyangnice)
 - [CodingWatchCollector](https://github.com/CodingWatchCollector)
