@@ -14,8 +14,8 @@
 - [Varad Katkalambekar]
   [Glenn Dueñas](https://github.com/glenndt99)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
-- [careyuyu](https://github.com/careyuyu) 
-- [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
+- [careyuyu](https://github.com/careyuyu)
+- [UsernameNotCopied](https://github.com/UsernameNotCopied/)
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Vishesh Goyal](https://github.com/vishesh011)
 - [Vinaya Datta](https://github.com/vinaya-datta/)
@@ -56,6 +56,7 @@
 - [Tomas Perez](https://github.com/ttomrp)
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [dim]
+- [Piotr Grzybowski](https://github.com/Piotr-Grzybowski)
 - [Matt E] (https://github.com/mmatt21e)
   [Punit Gupta](https://github.com/Gpunit573)
 - [kaveri] (https://github.com/kaverigotkhindi/)
@@ -299,7 +300,7 @@ Nicholaus Michael
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
-- [Charles Agoe](https://github.com/agoetee) 
+- [Charles Agoe](https://github.com/agoetee)
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
 - [Zelalem Solomon](https://github.com/Zolasol)
