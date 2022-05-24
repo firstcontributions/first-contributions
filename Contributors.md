@@ -22,6 +22,7 @@
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Shivam Patel](https://github.com/Shivam1111111)
+- [Surya](https://github.com/suryanva)
 - [Joel Tony](https://github.com/jay-tau)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Ahmed Zougari](https://github.com/zougari47)
