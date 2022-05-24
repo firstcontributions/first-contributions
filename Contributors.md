@@ -37,6 +37,7 @@
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
 - [Jonathan Mani](https://github.com/jonathanmani)
+- [Vatsal Patel](https://github.com/VatsalP117)
 - [Olabisi Olaoye](https://github.com/olabisi09)
 - [Shammah Benjamin](https://github.com/asbenjamin)
 - [TenTraicion](https://github.com/TenTraicion)
