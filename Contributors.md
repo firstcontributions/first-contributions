@@ -4215,6 +4215,7 @@ Himanshu Dedha
 - [Siddhartha Rao](https://github.com/siddhartharao17)
 - [Junai22](https://github.com/Junai22)
 - [Grace K](https://github.com/kelleygrace88)
+- [Anna Baginski](https://github.com/annabaginski)
 - [Paulis Matrix](https://github.com/PaulisMatrix)
 - [Enyinna Chinwendu](https://github.com/wendeee)
 - [Bhargav avinash](https://github.com/bhargav794)
