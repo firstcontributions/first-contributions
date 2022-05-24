@@ -14,8 +14,8 @@
 - [Varad Katkalambekar]
   [Glenn Dueñas](https://github.com/glenndt99)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
-- [careyuyu](https://github.com/careyuyu) 
-- [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
+- [careyuyu](https://github.com/careyuyu)
+- [UsernameNotCopied](https://github.com/UsernameNotCopied/)
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Vishesh Goyal](https://github.com/vishesh011)
 - [Vinaya Datta](https://github.com/vinaya-datta/)
@@ -298,7 +298,7 @@ Nicholaus Michael
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
-- [Charles Agoe](https://github.com/agoetee) 
+- [Charles Agoe](https://github.com/agoetee)
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
 - [Zelalem Solomon](https://github.com/Zolasol)
@@ -7089,3 +7089,4 @@ Duncan Ledesma
 - [Guilherme Correia](https://github.com/tussera)
 - [Rahul Kumar](https://github.com/rk-code101)
 - [Qixuan Liu](https://github.com/qixuan27)
+- [Ansh Bansal](https://github.com/anshhhhhhh)
