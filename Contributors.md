@@ -6804,6 +6804,7 @@ add jerry404lee
 - [Spacedaway] (https://github.com/Spacedaway)
 - [Silik1] (https://github.com/Silik1)
 - [Zoni - brasiqui] (https://github.com/brasiqui)
+- [Srikar Kolukula](https://github.com/srikarkolukula9)
 - [QR Koh] (https://github.com/hikarixx)
 - [Andrew Sun] (https://github.com/xiushanlaoyao)
 - [Brad Lindgren] (https://github.com/BradCL)
