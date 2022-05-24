@@ -574,6 +574,7 @@ Indra Sonowal
 - [Divyangana](https://github.com/divyangana009)
 - [zhengp](https://github.com/zhengp570)
 - [Darrick Fauvel](https://github.com/DarrickFauvel)
+- [Ndeye Aissatou Gassama](https://github.com/ayshagassama1)
 - [Andy Wood](https://github.com/TheWoodenMan)
 - [Oladle Damilola](https://github.com/activus-d)
 - [SkiBlue](https://github.com/skiblue3)
