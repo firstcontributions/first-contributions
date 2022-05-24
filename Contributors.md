@@ -3198,6 +3198,7 @@ yejashi
 - [Ayman Damoun](https://github.com/damounayman)
 - [shina](https://github.com/shina-blueprint)
 - [Alberto Patino] (https://github.com/albertopatinno/)
+- [Dmitry Ulyumdzhiev](https://github.com/deadb0d4)
 - [Pawan Mishra](https://github.com/pawankm21)
 - [Sweta Bora](https://github.com/the-dork)
 - [Mohammed Aadil](https://github.com/aadilMohd)
