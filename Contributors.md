@@ -124,6 +124,7 @@ Nicholaus Michael
 - [Arth Prajapati](https://github.com/arth2002)
 - Shubh g
 - [William]
+- [Lovemore Daka](https://github.com/beautifulboy11)
 - [Ahmad Humayun](https://github.com/AhmadHumayun)
 - [Zurabi Chkhikvadze](https://github.com/ZuieS)
 - [Tristan](https://github.com/TristanHarris2)
