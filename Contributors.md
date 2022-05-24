@@ -144,6 +144,7 @@ Nicholaus Michael
 - [Alex Macharia](https://github.com/alexmacharia)
 - [Christian Larson](https://github.com/degenerating)
 - [color00](https://github.com/color00)
+- [Rohit Chaoji](https://github.com/rohitchaoji)
 - [Devhoss](https://github.com/Devhoss)
 - [Rishiraj Chandra](https://github.com/rchandra20)
 - [Hampton Ford](https://github.com/shford)
@@ -7082,4 +7083,3 @@ Duncan Ledesma
 - [Yash](https://github.com/YashBhole29)
 - [SHP](https://github.com/SaiHlyanPhyoe7)
 - [Guilherme Correia](https://github.com/tussera)
-- [Rahul Kumar](https://github.com/rk-code101)
