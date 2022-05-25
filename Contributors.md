@@ -1,4 +1,4 @@
-﻿  # **Contributors**
+  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
@@ -22,6 +22,7 @@
   [Sarthak Kumar](https://github.com/sarthak503)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [careyuyu](https://github.com/careyuyu) 
+- [Jea] (https://github.com/learncoding22)
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Isaiah Cooper] (https://github.com/Explainin)
