@@ -18,6 +18,7 @@
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Joel Tony](https://github.com/jay-tau)
+- [Sarang S](https://github.com/saaarangs)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
