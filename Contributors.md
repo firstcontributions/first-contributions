@@ -64,6 +64,7 @@
 - [mccurdyr](https://github.com/mccurdyr)
 - [SaadChaay](https://github.com/saadchaay)
 - [AnujSharma](https://github.com/Anujsharma0307)
+- [Petya Angelova](https://github.com/bpetya44)
 - [Kalenna](https://github.com/KalennaCodes)
 - [Akshat](https://github.com/10Prime)
 - [Nicksomething23](https://github.com/nicksomething23)
