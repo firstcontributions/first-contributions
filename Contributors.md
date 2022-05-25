@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Shravan Garg](https://github.com/shravan-garg)
+- [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Diya Rastogi](https://github.com/diyar03)
