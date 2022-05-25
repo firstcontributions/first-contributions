@@ -5,6 +5,7 @@
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Divya Arora](https://github.com/divyaarora1808)
+- [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
 - [abdoufermat5](https://github.com/abdoufermat5)
