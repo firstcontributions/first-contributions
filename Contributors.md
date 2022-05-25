@@ -123,6 +123,7 @@ Nicholaus Michael
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
 - [donkeeman](https://github.com/donkeeman)
+- [Yatee Singh](https://github.com/yatee-singh)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Maxim Makovey](https://github.com/MAXIBOB)
