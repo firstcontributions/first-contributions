@@ -1,4 +1,4 @@
-  # **Contributors**
+﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
@@ -7087,6 +7087,7 @@ Duncan Ledesma
 - [Riccardo Ventrici.] (https://github.com/v3ntri)
 - [Luca Lumetti](https://github.com/LucaLumetti)
 - [Federico Marra](https://github.com/Marra-Federico)
+- [Marianna Mileo] (https://github.com/merymylo)
 - [Wolfgang Utz] (https://github.com/utzwol)
 - [Jin Yijie](https://github.com/ladotx)
 - [Lorenzo Perez](https://github.com/lorenzojperez)
