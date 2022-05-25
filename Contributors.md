@@ -67,6 +67,7 @@
 - [Tomas Perez](https://github.com/ttomrp)
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [dim]
+- [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [Matt E] (https://github.com/mmatt21e)
   [Riya Treasa Varghease](https://github.com/r-treasa27)
   [Punit Gupta](https://github.com/Gpunit573)
