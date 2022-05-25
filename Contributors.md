@@ -8,6 +8,7 @@
 - [Dev G](https://github.com/20CE034)
 - [abdoufermat5](https://github.com/abdoufermat5)
 - [Seralyn Campbell](https://github.com/Seralyn)
+- [Karthik Vaithin](https://github.com/kvaithin)
 - [Janmey chauhan](https://github.com/janmey97)
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
