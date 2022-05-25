@@ -13,6 +13,7 @@
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Varad Katkalambekar]
   [Glenn Dueñas](https://github.com/glenndt99)
+  [Sarthak Kumar](https://github.com/sarthak503)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [careyuyu](https://github.com/careyuyu) 
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
