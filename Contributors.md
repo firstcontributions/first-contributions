@@ -89,7 +89,8 @@
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [5ynchronized](https://github.com/5ynchronizeD)
 - [Raj]
-- [Ammar Azman] 
+- [Ammar Azman]
+- [Kirk Corwin](https://github.com/KirkCorwin) 
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
