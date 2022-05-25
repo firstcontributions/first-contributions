@@ -103,6 +103,7 @@
 - [secondary-smiles](https://github.com/secondary-smiles)
 - [Steve Behm](https://github.com/SteveBehm)
 - [Abhay](https://github.com/abhay1704)
+- [Wikignometry] (https://github.com/Wikignometry)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
