@@ -1,4 +1,4 @@
-# **Contributors**
+  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
@@ -7105,3 +7105,4 @@ Duncan Ledesma
 - [Qixuan Liu](https://github.com/qixuan27)
 - [Jakub Czarnecki](https://github.com/CzarneckiJakub/)
 - [Cody Jennings](https://github.com/CodyTJennings)
+- [Vijay Dharmaji](https://github.com/vijaydharmaji29/)
