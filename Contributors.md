@@ -7072,6 +7072,7 @@ Duncan Ledesma
 - [iFallenHunt] (https://github.com/iFallenHunt)
 - [NurhudaStyle]
 - [Ha Anna](https://github.com/its-haanna)
+- [Knight](https://github.com/Knight-101)
 - [Walter Sumbon](https://github.com/WalterSumbon)
 - [Keshav Kumar](https://github.com/Keshavshyper6325)
 - [Sumeet Jain](https://github.com/sumeet2-lab)
