@@ -187,6 +187,7 @@ Nicholaus Michael
 - [Maverick Fernandez @100Devs](https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Shan]
+- [Akash Ranjan](https://github.com/Arkos2048)
 - [Micah Shaffer](https://github.com/mshaff12)
 - [Raydel Comas](https://github.com/rcomas91)
 - [Philip]
