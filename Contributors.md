@@ -28,8 +28,8 @@
 - [careyuyu](https://github.com/careyuyu) 
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
-Aran Seth
 - [Isaiah Cooper] (https://github.com/Explainin)
+Aran Seth
 - [Joshi Bhavya](https://github.com/Bhavya0304)
 - [Vishesh Goyal](https://github.com/vishesh011)
 - [Vinaya Datta](https://github.com/vinaya-datta/)
