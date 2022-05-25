@@ -15,8 +15,8 @@
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
-- [careyuyu](https://github.com/careyuyu) 
-- [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
+- [careyuyu](https://github.com/careyuyu)
+- [UsernameNotCopied](https://github.com/UsernameNotCopied/)
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Isaiah Cooper] (https://github.com/Explainin)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
@@ -26,6 +26,7 @@
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Cecilia Sun] (https://github.com/CeciliaRuiSun)
+- [Rounak Sanpui](https://github.com/rounxk)
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
 - [Joel Tony](https://github.com/jay-tau)
@@ -77,7 +78,7 @@
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [5ynchronized](https://github.com/5ynchronizeD)
 - [Raj]
-- [Ammar Azman] 
+- [Ammar Azman]
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
@@ -308,7 +309,7 @@ Nicholaus Michael
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
-- [Charles Agoe](https://github.com/agoetee) 
+- [Charles Agoe](https://github.com/agoetee)
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
 - [Zelalem Solomon](https://github.com/Zolasol)
