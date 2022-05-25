@@ -73,6 +73,7 @@
 - [Alex Folayan](https://github.com/Knice2)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
+- [5ynchronized](https://github.com/5ynchronizeD)
 - [Raj]
 - [Ammar Azman] 
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
