@@ -14,6 +14,7 @@
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Varad Katkalambekar]
+- [Samukelo Ngidi](https://github.com/SamukeloNgidi)
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
