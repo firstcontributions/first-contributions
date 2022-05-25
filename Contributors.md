@@ -644,6 +644,7 @@ Indra Sonowal
 - [Bibek Chand](https://github.com/bibekchand)
 - [Brandon Maurice](https://github.com/bmaurice98)
 - [Tony]
+- [Radhika Nair]
 - [Anjia Cao]
 - [David Meadows] (https://github.com/dmeadows8585)
 - [Zain Bazaz] (https://github.com/zainbazaz)
