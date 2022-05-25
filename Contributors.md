@@ -15,6 +15,7 @@
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Varad Katkalambekar]
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
+- [Ayush Malik](https://github.com/Ayush-004)
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
