@@ -41,6 +41,7 @@
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
 - [Joel Tony](https://github.com/jay-tau)
+- [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
 - [John Sebastian](https://github.com/CapedBaldie)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
