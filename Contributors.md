@@ -2,6 +2,9 @@
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
+- [Vilakshan Gupta](https://github.com/vilakshan-gupta)
+- [Ayush Bhardwaj](https://github.com/bhayush)
+
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Chirag Vadhavana](https://github.com/chiragvadhavana)
 - [Shravan Garg](https://github.com/shravan-garg)
