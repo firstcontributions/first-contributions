@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
+- [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
