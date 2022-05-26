@@ -63,6 +63,7 @@
 - [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Vatsal Patel](https://github.com/VatsalP117)
+- [Victor Cardoso](https://github.com/victoralbenor)
 - [Olabisi Olaoye](https://github.com/olabisi09)
 - [Shammah Benjamin](https://github.com/asbenjamin)
 - [TenTraicion](https://github.com/TenTraicion)
