@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
+- [Subhajit Mahata](https://github.com/subhajitkp007)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Rohit Arora](https://github.com/rohit18115)
