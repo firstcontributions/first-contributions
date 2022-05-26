@@ -6,6 +6,7 @@
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Chirag Vadhavana](https://github.com/chiragvadhavana)
 - [Shravan Garg](https://github.com/shravan-garg)
+- [Ariel Rubel](https://github.com/pepepinguino69)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Divya Arora](https://github.com/divyaarora1808)
