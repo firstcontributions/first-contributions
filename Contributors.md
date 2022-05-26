@@ -1262,6 +1262,7 @@ Vedant Borkar
 - [Kalman Labinsky](https://github.com/kalmanl)
 - [Tamir Kiviti](https://github.com/tamirkiviti)
 - [Onur Bora Akman](https://github.com/onurborakman)
+- [Effi Phil](https://github.com/effip24)
 - [Willy Trigg](https://github.com/williamgtrigg)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
 - [Timmy Omolana](https://github.com/Tee-Stark)
