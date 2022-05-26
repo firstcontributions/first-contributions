@@ -16,6 +16,7 @@
 - [Janmey chauhan](https://github.com/janmey97)
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
+- [Mazhar Ansari](https://github.com/MJCoder15)
 - [Varad Katkalambekar]
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
 - [Ayush Malik](https://github.com/Ayush-004)
