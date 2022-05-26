@@ -24,6 +24,7 @@
 - [Ayush Malik](https://github.com/Ayush-004)
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
+  [Harshit Verma]
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [careyuyu](https://github.com/careyuyu) 
 - [Jea] (https://github.com/learncoding22)
