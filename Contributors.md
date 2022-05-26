@@ -21,6 +21,7 @@
 - [Mazhar Ansari](https://github.com/MJCoder15)
 - [Varad Katkalambekar]
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
+- [Omadoye Mary](https://github.com/Seundede)
 - [Ayush Malik](https://github.com/Ayush-004)
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
