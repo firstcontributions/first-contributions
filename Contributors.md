@@ -29,7 +29,8 @@
   [Sarthak Kumar](https://github.com/sarthak503)
   [Harshit Verma]
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
-- [careyuyu](https://github.com/careyuyu) 
+- [careyuyu](https://github.com/careyuyu)
+  [Adewale Adeyemo]
 - [Jea] (https://github.com/learncoding22)
 - [Priyangshu Sarkar](https://github.com/Priyangshu28)
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
