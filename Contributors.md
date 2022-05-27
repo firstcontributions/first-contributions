@@ -6184,6 +6184,7 @@ Disguy
 - [Andi L.](https://github.com/Lehnargh)
 - [Suuna Conrad](https://github.com/conradsuuna)
 - [Zach Ripka](https://github.com/zripka)
+- [David Franco](https://github.com/superdfv)
 - [Leon](https://github.com/leonvsc)
 - [Windra](https://github.com/pwindrap18)
 - [Raj Dutta](https://github.com/rajprogrammerbd)
