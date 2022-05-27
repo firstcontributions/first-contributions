@@ -7153,3 +7153,4 @@ Duncan Ledesma
 - [Jacob Logue](https://github.com/krikcet)
 - [A Woods](https://github.com/alessandrawoods)
 - [Dan Tang](https://github.com/DTZUZU)
+- [Maddie Lee](https://github.com/eobda)
