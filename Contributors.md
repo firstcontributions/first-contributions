@@ -7145,6 +7145,7 @@ Duncan Ledesma
 - [Jian Kim](https://github.com/jian7061)
 - [CryoSolace]
 - [cesarnuness](https://github.com/cesarnuness)
+- [lucaGonzalez](https://github.com/lucagonzalez)
 - [Grogu96](https://github.com/grogu96)
 - [Yash](https://github.com/YashBhole29)
 - [SHP](https://github.com/SaiHlyanPhyoe7)
