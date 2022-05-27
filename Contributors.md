@@ -7133,6 +7133,7 @@ Duncan Ledesma
 - [Ebenezer](https://github.com/ebi10sa22)
 - [nakamurakko](https://github.com/nakamurakko)
 - [tonghuihuang](https://github.com/CodeMan-cmd)
+- [Hans-Derly Rameau](https://github.com/hansderly)
 <!-- prettier-ignore-end -->
 - [Jian Kim](https://github.com/jian7061)
 - [CryoSolace]
