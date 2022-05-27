@@ -7013,6 +7013,7 @@ Duncan Ledesma
 - [Mahmoud Easa](https://github.com/MahmoudEasa)
 - [Joko](https://github.com/Chatra11)
 - [Shyamala]
+- [Muhammad Daryl Rashad](https://github.com/drlrshd)
 - [OrenLai](https://github.com/OrenLai)
 - [Sachin Bhat](https://github.com/bhatsac)
 - [sarthak kushwaha](https://github.com/Sarthak2720)
