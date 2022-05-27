@@ -7151,3 +7151,4 @@ Duncan Ledesma
 - [Adele Chinda](https://github.com/logahn)
 - [Jacob Logue](https://github.com/krikcet)
 - [A Woods](https://github.com/alessandrawoods)
+- [Dan Tang](https://github.com/DTZUZU)
