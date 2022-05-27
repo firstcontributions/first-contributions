@@ -179,6 +179,7 @@ Nicholaus Michael
 - [Kim Fom](https://github.com/kimfom01)
 - [Christian L](https://github.com/weir99)
 - [Kirstie Hayes](https://github.com/epixieme)
+- [Chijioke Ubajaka](https://github.com/UbajakaCJ)
 - [martelro](https://github.com/martelro)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [Christine Seddon](https://github.com/CSeddon01)
