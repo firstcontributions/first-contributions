@@ -7125,6 +7125,7 @@ Duncan Ledesma
 - [Riccardo Ventrici.] (https://github.com/v3ntri)
 - [Luca Lumetti](https://github.com/LucaLumetti)
 - [Federico Marra](https://github.com/Marra-Federico)
+- [Omar Adil] (https://github.com/Ommi03)
 - [Marianna Mileo] (https://github.com/merymylo)
 - [Wolfgang Utz] (https://github.com/utzwol)
 - [Jin Yijie](https://github.com/ladotx)
