@@ -2032,7 +2032,7 @@ add jerry404lee
 - Max Morgan (https://github.com/decepsis)
 - Phi Doan
 - kishan Yadav
--  Oliver Yuan
+- Oliver Yuan
 -TianYang
 -TianlanYang
 -Tianlan Yang1
@@ -2231,7 +2231,7 @@ Nathan Hill
 - Julius
 - trainer2001
 - [Serena Wang] (https://github.com/Serenaaaaaaaa)
--  [Aly Bahaa] (https://github.com/aly-bahaa)
+- [Aly Bahaa] (https://github.com/aly-bahaa)
 - Graham Vaith
 - Jonathan Lagos
 - Dilimulati Diliyaer
@@ -3234,7 +3234,8 @@ yejashi
 - [Wase Zahin] (https://github.com/Wase-Zahin)
 - [Dan Lawson](https://github.com/danlsn/)
 - [Sangeeta Raut]
-  [George Kakarlis](https://github.com/georgekakarlis)
+- [Rodrigo Rojo](https://github.com/Rodrigo-Rojo)
+- [George Kakarlis](https://github.com/georgekakarlis)
 - [Sourabh Raut] ( https://github.com/xsraut )
 - [ali M](https://github.com/amarinas)
 - [Rohitdutt parsai](https://github.com/rohitdutt)
