@@ -1040,6 +1040,7 @@ Vedant Borkar
 - [Yash Jethani] (https://github.com/abcd1234zyx)
 - [Shivankar Pilligundla] (https://github.com/shivankar-p)
 - [Kriza Lacsamana] (https://github.com/klacsamana15)
+- [Mia Pisan] (https://github.com/MiaPisan)
 - [Farah Sinada] (https://github.com/FarahSinada)
 - [Keean Ferreira] (https://github.com/Keean07)
 - [Brendan Jensen]
