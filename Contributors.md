@@ -10,6 +10,7 @@
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
+- [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
