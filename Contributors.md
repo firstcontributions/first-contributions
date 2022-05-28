@@ -2086,6 +2086,7 @@ add jerry404lee
 - Nikhil Kumawat
 - Gurunandan S
 - Derek Musial
+- Idan Strulovich
 - Diego Little
 - Siddhartha Purwar
 - Juliette Montes
