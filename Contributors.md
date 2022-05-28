@@ -1779,6 +1779,7 @@ Zack Bryant
 - [yewinag](https://github.com/yewinag)
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
+- [Oyedare Temiloluwa](https://github.com/Oyedare)
 - [Abhishek Choudhary](https://github.com/iamabhi5hek)
 - [Rajat Agrawal](https://github.com/dev-razz)
 - [Riley Huff](https://github.com/RileyMH231)
