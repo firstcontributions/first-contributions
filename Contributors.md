@@ -141,6 +141,7 @@ Nicholaus Michael
 - [Roberto Saliola](https://github.com/Roberto286)
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
+- [Electro](https://github.com/Electro-Magnet45)
 - [Joshua Goldstein]
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Dimple Jain](https://github.com/dimplehoney)
