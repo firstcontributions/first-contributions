@@ -3395,6 +3395,7 @@ Aditya Agarwal
 - [Banka Mani Bhargava] (https://github.com/manibhargava4)
 - [yeonuk](https://github.com/dhfpdhaos)
 - [Dishant](https://github.com/Dishant2001)
+- [Isaiah Mori](https://github.com/frin457)
 - [Jishnu Biju](https://github.com/Jishnu075)
 - [Mateus Elias](https://github.com/mateuseap)
 - [Xile Yang] (https://github.com/yangxile)
