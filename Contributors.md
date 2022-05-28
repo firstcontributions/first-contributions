@@ -3105,6 +3105,7 @@ yejashi
 - [Arlo](https://github.com/llullaku)
 - [Fabian Schmitt](https://github.com/fabian-schmitt/)
 - [Somesh Mehta]
+- [Jyoti Patel](https://github.com/jyotip101)
 - [Ayush Malviya](https://github.com/ayush-geek)
 - [Julio César Gama](https://github.com/juliocesargama)
 - [Daniel García](https://github.com/Danielggz)
