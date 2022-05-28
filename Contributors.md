@@ -5,6 +5,7 @@
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Chirag Vadhavana](https://github.com/chiragvadhavana)
+- [Afzal Ansari](https://github.com/dev-afzalansari)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Ariel Rubel](https://github.com/pepepinguino69)
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
