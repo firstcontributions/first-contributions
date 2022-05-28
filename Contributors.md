@@ -1313,6 +1313,7 @@ Vedant Borkar
 - [Sarthak Dhonchak](https://github.com/SarthakDhonchak/)
 - [Marc Perlas](https://github.com/DadTech)
 - [Alex Ownejazayeri](https://github.com/alexownejazayeri)
+- [Kevin Britten](https://github.com/KevinBritten/)
 - [Venkata Sai Manoj Illendula] (https://github.com/ivsaimanoj)
 - [Steve Slater](https://github.com/sjslater)
 - [Jean Didier Tarpaga](https://github.com/tarpagad)
