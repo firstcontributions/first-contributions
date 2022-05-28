@@ -7,6 +7,7 @@
 - [Chirag Vadhavana](https://github.com/chiragvadhavana)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Ariel Rubel](https://github.com/pepepinguino69)
+- [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
