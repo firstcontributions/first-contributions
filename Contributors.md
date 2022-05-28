@@ -6064,6 +6064,7 @@ Himanshu Dedha
 - [Frank Wu](https://github.com/frankwuzp)
 - [Gustavo Loi](https://github.com/gustavoloi)
 - [Zack Rutledge](https://github.com/Dethik)
+- [James Hawkins](https://github.com/jhawk7)
 - [Jose Angel](https://github.com/josearg150)
 - [Amit Kumar Sharma](https://github.com/amitaks24)
 - [Sarath](https://github.com/Sarath191181208)
