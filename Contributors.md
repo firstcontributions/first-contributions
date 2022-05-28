@@ -3139,6 +3139,7 @@ yejashi
 - [Peter Walser] (https://github.com/sirofwalls)
 - [Paul Friedrich] (https://github.com/Paul1911)
 - [Parseluni] (https://github.com/Parseluni)
+- [Felipe Flores] (https://github.com/FelFT)
 - [Keshav Bansal] (https://github.com/keshavbansal20)
 - [Jorge Araújo](https://github.com/laborim)
 - [Albert Osei Frimpong] (https://github.com/Alotab)
