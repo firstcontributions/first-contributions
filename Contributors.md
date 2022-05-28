@@ -6950,6 +6950,7 @@ Duncan Ledesma
 - [Aniruddh Singh ](https://github.com/a1nn1997)
 - [Giuliano De Pian] (https://github.com/giulianodepian)
 - [quirkeey](https://github.com/quirkeey)
+- [Ai Nitta](https://github.com/initta)
 - [Kaustubh Kulkarni](https://github.com/kkbacktrakcs)
 - [Stephan Krug](https://github.com/stephankruggg)
 - [Valerio Wallin](https://github.com/valjason)
