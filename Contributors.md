@@ -126,7 +126,6 @@
 - [Ethen](html://github.com/ethenpage)
 - [Kay Kang](https://github.com/kaykang87)
 - [Abhishek Rawat](https://github.com/rawatdev)
-
 - [Allyson Smith](https://github.com/allyson-s-code)
 - [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com)
 - [Aiden Frevert](https://github.com/afrevert)
