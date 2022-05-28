@@ -7181,4 +7181,5 @@ Duncan Ledesma
 - [Dan Tang](https://github.com/DTZUZU)
 - [Maddie Lee](https://github.com/eobda)
 - [Justin Mai](https://github.com/JustinM2250)
+- [Michael Mederos](https://github.com/mikemederos)
 <!-- prettier-ignore-end -->
