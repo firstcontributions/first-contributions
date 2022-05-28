@@ -586,7 +586,6 @@ Nicholaus Michael
 - [Alexis Ballo](https://github.com/alexisballo2)
 - [evilgaoshu](https://github.com/evilgaoshu)
 - [Matt Rueter](https://github.com/MattRueter)
-- [Marcus Hok Sum Leung](https://github.com/marcushs)
 - [kaem](https://github.com/Kerinjo)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Naveen Kumar](https://github.com/Naveen353)
@@ -3859,7 +3858,6 @@ Himanshu Dedha
 - [Chirantan Acharyya](https://github.com/chirantan-acharyya)
 - [Ricardo Chairez](https://github.com/ricardochairez)
 - [CharlieEdwards](https://github.com/cpaule1811)
-- [Anshuman Sathua](https://github.com/anshu-21)
 - [Namita Rastogi](https://github.com/Ashley936)
 - [Jithin Krishnan](https://github.com/jithinkrishnanrs)
 - [Kalyan Chirla](https://github.com/kalyanchirla)
@@ -3910,7 +3908,6 @@ Himanshu Dedha
 - [Ze Kai Cheong](https://github.com/ZeKaiCheong)
 - [Akash Panwar](https://github.com/akshpnwr)
 - [sunzida311](https://github.com/sunzida311)
-- [Anshuman Sathua](https://github.com/anshu-21)
 - [Htet Arkar Oo](https://github.com/HtetArkarOo)
 - [Surz](https://github.com/SurajTC)
 - [Nawal Ahmad](https://github.com/nawal-ahmad)
@@ -7157,7 +7154,6 @@ Duncan Ledesma
 - [nakamurakko](https://github.com/nakamurakko)
 - [tonghuihuang](https://github.com/CodeMan-cmd)
 - [Hans-Derly Rameau](https://github.com/hansderly)
-<!-- prettier-ignore-end -->
 - [Jian Kim](https://github.com/jian7061)
 - [CryoSolace]
 - [cesarnuness](https://github.com/cesarnuness)
@@ -7179,3 +7175,4 @@ Duncan Ledesma
 - [A Woods](https://github.com/alessandrawoods)
 - [Dan Tang](https://github.com/DTZUZU)
 - [Maddie Lee](https://github.com/eobda)
+<!-- prettier-ignore-end -->
