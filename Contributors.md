@@ -67,6 +67,7 @@ Harshit Rai
 - [Camille Granier](https://github.com/camille-granier)
 - [Teshane Crawford] (https://github.com/TeshaneCrawford)
 - [Badran GUELLIM](https://github.com/bdrnglm)
+- [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
 - [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
