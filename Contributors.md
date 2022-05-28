@@ -4930,6 +4930,7 @@ Himanshu Dedha
 - [Akshay Saini](https://github.com/anonyxhappie)
 - [Marc Lynch](https://github.com/mwl6)
 - [Alec Ghost](https://github.com/AlecGhost)
+- [Shehzad Aslam Oza](https://github.com/ShehzadAslamOza/)
 - [Andrew Quach](https://github.com/andrewrquach/)
 - [Lee.Jeongwon](https://github.com/inet815)
 - [Alfie Phillips](https://github.com/AlfiePhillips)
