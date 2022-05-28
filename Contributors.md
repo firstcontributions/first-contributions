@@ -2120,6 +2120,7 @@ add jerry404lee
 - [GulliverMadrid](https://github.com/GulliverMadrid)
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
+- [Nick Deloach](https://github.com/ThaMountain)
 - [D.S.]
 - [Kristoffer Sullivan](https://github.com/ksully1993)
 - [Malv93](https://github.com/Malv93)
