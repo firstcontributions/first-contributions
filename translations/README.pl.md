@@ -15,7 +15,7 @@ Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github
 
 ## Utwórz fork repozytorium (`fork`)
 
-Utwórz fork tego repozytorium klikając przycisk `Fork` na górze tej strony. Stworzysz tym samym kopie tego repozytorium na swoim koncie.
+Utwórz fork tego repozytorium klikając przycisk `Fork` na górze tej strony. Stworzysz tym samym kopię tego repozytorium na swoim koncie.
 
 ## Sklonuj repozytorium (`clone`)
 
