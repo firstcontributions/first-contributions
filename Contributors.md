@@ -586,6 +586,7 @@ Nicholaus Michael
 - [Alexis Ballo](https://github.com/alexisballo2)
 - [evilgaoshu](https://github.com/evilgaoshu)
 - [Matt Rueter](https://github.com/MattRueter)
+- [Marcus Hok Sum Leung](https://github.com/marcushs)
 - [kaem](https://github.com/Kerinjo)
 - [Siddharth Bisht](https://github.com/OfficialSiddharthBisht)
 - [Naveen Kumar](https://github.com/Naveen353)
