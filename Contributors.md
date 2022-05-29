@@ -7213,4 +7213,5 @@ Duncan Ledesma
 - [Vyacheslav Shkarubskiy] (https://github.com/shkarubskiy)
 - [Hendrik] (https://github.com/comhendrik)
 - [YingHuaYvLuo](https://github.com/YingHuaYvLuo)
+- [lidor4x4](https://github.com/lidor4x4)
 <!-- prettier-ignore-end -->
