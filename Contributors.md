@@ -106,6 +106,7 @@
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [5ynchronized](https://github.com/5ynchronizeD)
 - [Raj]
+- [ritik jain](https://github.com/RJ025)
 - [Ammar Azman]
 - [Kirk Corwin](https://github.com/KirkCorwin) 
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
