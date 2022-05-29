@@ -573,7 +573,7 @@ Nicholaus Michael
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Ruth Wata](htttps://github.com/R-N-Wata)
 - [Sadie Manicom](https://github.com/sadienicole)
-- [Moad Akhraz](https:cd first-contributions//github.com/mdakh404)
+- [Moad Akhraz](https://github.com/mdakh404)
 - [Arash Mohamadpour] (https://github.com/arashmpr)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Aidan Comer](https://github.com/alhcomer)
@@ -771,7 +771,7 @@ Vedant Borkar
 - [Harri L](https://github.com/a1sop0s)
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink] (https://github.com/sinkkkk)
-cd first-contributions- [Yasharjs](https://github.com/yasharjs)
+- [Yasharjs](https://github.com/yasharjs)
 - [Till](https://github.com/till-t)
 - [Vim]
 - [Monisha Jegadesan](github.com/monisha-jega)
