@@ -18,6 +18,7 @@
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
+- [Lionel](https://github.com/myominhtoo)
 - [Karthik Vaithin](https://github.com/kvaithin)
 - [Vaibhav Dubey](https://github.com/Dubeyvaib)
 - [abdoufermat5](https://github.com/abdoufermat5)
