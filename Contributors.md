@@ -310,6 +310,7 @@ Nicholaus Michael
 - [Benjamin Yankowitz](https://github.com/BenjaminYankowitz)
 - [Shettima Ali] (https://github.com/Shetteemah)
 - [Alessio Chen] (https://github.com/AlessioChen)
+- [Lance Vance]
 - [sisi](https://github.com/sisi-in-tech/)
 - [blis] (https://github.com/bernardLis/)
 - [creddy]
