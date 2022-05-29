@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
