@@ -47,6 +47,7 @@
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Sunny Hemdev](https://github.com/sunny151091/)
 - [Isaiah Cooper] (https://github.com/Explainin)
+- [Don S Jr] (https://github.com/clefbassman)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
 - [Vishesh Goyal](https://github.com/vishesh011) [Vinaya Datta](https://github.com/vinaya-datta/) [Alisa Owens](https://github.com/alisaowens)
 - [Raul Flores](https://github.com/Raul-A-Flores)
