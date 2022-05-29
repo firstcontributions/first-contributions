@@ -7111,6 +7111,7 @@ Duncan Ledesma
 - [Brandon Barricklow] (https://github.com/BLBarricklow)
 - [Grazian0o] (https://github.com/Grazian0o)
 - [hanwei] (https://github.com/backendcloud)
+- [Tristan Geenens] (https://github.com/nicopip)
 - [Matthew Dickson](https://github.com/matthewdickson1)
 - [Michele0303](https://github.com/Michele0303)
 - [Aldebaran20](https://github.com/Aldebaran20)
