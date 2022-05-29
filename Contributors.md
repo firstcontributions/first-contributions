@@ -141,6 +141,7 @@ Nicholaus Michael
 - [Jack Buckley](https://github.com/jack-r-buckley/)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Arnav Negi](https://github.com/Arnav-Negi)
+- [Riley Spence] (https://github.com/RileyRSVP)
 - [Turry](https://github.com/Oh-Turry)
 - [Kieran Brady](https://github.com/kb1107)
 - [Adam Stephens](https://github.com/stender11)
