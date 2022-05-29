@@ -180,6 +180,7 @@ Nicholaus Michael
 - [Ahmad Humayun](https://github.com/AhmadHumayun)
 - [Zurabi Chkhikvadze](https://github.com/ZuieS)
 - [Tristan](https://github.com/TristanHarris2)
+- [Kelby Rose](https://github.com/kelby-rose/)
 - [Bartosz Milew](https://github.com/BartekMilew)
 - [Saadman Galib](https://github.com/saadman-galib)
 - [Thomas Stevens](https://github.com/ThomasAlanStevens)
