@@ -7203,4 +7203,5 @@ Duncan Ledesma
 - [Justin Mai](https://github.com/JustinM2250)
 - [Michael Mederos](https://github.com/mikemederos)
 - [JunKe Li](https://github.com/randolph555)
+- [Vyacheslav Shkarubskiy] (https://github.com/shkarubskiy)
 <!-- prettier-ignore-end -->
