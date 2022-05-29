@@ -7207,4 +7207,5 @@ Duncan Ledesma
 - [Michael Mederos](https://github.com/mikemederos)
 - [JunKe Li](https://github.com/randolph555)
 - [Vyacheslav Shkarubskiy] (https://github.com/shkarubskiy)
+- [Hendrik] (https://github.com/comhendrik)
 <!-- prettier-ignore-end -->
