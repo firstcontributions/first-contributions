@@ -2257,6 +2257,7 @@ Nathan Hill
 - Ashish Choudhary
 - [Simon Prato] (https://github.com/SimonPrato11)
 - Julius
+- Kashish
 - trainer2001
 - [Serena Wang] (https://github.com/Serenaaaaaaaa)
 - [Aly Bahaa] (https://github.com/aly-bahaa)
