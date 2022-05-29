@@ -16,6 +16,7 @@
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Divya Arora](https://github.com/divyaarora1808)
+- [Divjot Bedi](https://github.com/dbedi3311)
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
