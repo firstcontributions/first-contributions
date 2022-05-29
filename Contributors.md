@@ -7202,4 +7202,5 @@ Duncan Ledesma
 - [Maddie Lee](https://github.com/eobda)
 - [Justin Mai](https://github.com/JustinM2250)
 - [Michael Mederos](https://github.com/mikemederos)
+- [JunKe Li](https://github.com/randolph555)
 <!-- prettier-ignore-end -->
