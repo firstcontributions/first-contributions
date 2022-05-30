@@ -63,6 +63,7 @@ Harshit Rai
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
 - [Joel Tony](https://github.com/jay-tau)
+- [G Jeevika](https://github.com/Gjeev)
 - [Tim Leung](https://github.com/timleungtech)
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
