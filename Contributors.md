@@ -7220,4 +7220,5 @@ Duncan Ledesma
 - [Hendrik] (https://github.com/comhendrik)
 - [YingHuaYvLuo](https://github.com/YingHuaYvLuo)
 - [lidor4x4](https://github.com/lidor4x4)
+- [Zahid Khan](https://github.com/ZFK07)
 <!-- prettier-ignore-end -->
