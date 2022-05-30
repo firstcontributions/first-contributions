@@ -7228,4 +7228,5 @@ Duncan Ledesma
 - [lidor4x4](https://github.com/lidor4x4)
 - [Zahid Khan](https://github.com/ZFK07)
 - [Qianpeng Li](https://github.com/QianpengLi577)
+- [Mónica Fidalgo](https://github.com/MonicaFidalgo)
 <!-- prettier-ignore-end -->
