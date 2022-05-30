@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
