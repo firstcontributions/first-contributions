@@ -15,6 +15,7 @@
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
+- [Brian Patterson] (https://github.com/brianjpatterson)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Divjot Bedi](https://github.com/dbedi3311)
