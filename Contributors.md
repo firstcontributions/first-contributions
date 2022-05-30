@@ -3768,6 +3768,7 @@ Himanshu Dedha
 - [Abhay singh thakur](https://github.com/tabhay563)
 - [Lominex](https://github.com/Lominex)
 - [ishan patel]
+- [Julie Mead] (https://github.com/JulieMead)
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [Brahim Boulhend](https://github.com/l7aje)
 - [Ruta R](https://github.com/RReiso)
