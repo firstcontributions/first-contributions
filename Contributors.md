@@ -472,6 +472,7 @@ Nicholaus Michael
 - [Shaun O'Grady](https://github.com/ogradyso)
 - [Code Puppies] (https://github.com/codepuppies88)
 - Regina Vanata
+- [Ruwan Gunawardhana] (https://github.com/Ruwanc)
 - [Vincent Sablan]
 - [Shevindi Rodrigo](https://github.com/ShevindiRodrigo)
 - [Aakanksha Desai](https://github.com/Aakanksha-Desai)
