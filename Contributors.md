@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
