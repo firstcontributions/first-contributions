@@ -13,6 +13,7 @@ Ni vigumu. Ni vigumu daima mara ya kwanza unafanya kitu. Hasa wakati unashirikia
 Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaidi kuliko kufanya mambo halisi katika mazingira ya mazoezi? Mradi huu unalenga kutoa mwongozo na kurahisisha wasanidi wa njia kufanya mchango wao wa kwanza. Ikiwa unatafuta kufanya mchango wako wa kwanza, fuata hatua zifuatazo.
 
 #### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.]( #tutorials-using-other-tools )*
+#### *Kama bado huna Git kwa mashine yako, [iongeze](https://help.github.com/articles/set-up-git/)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
