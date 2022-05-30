@@ -5,6 +5,7 @@
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- Kassra-K
 - [Chirag Vadhavana](https://github.com/Ckm54)
 - [Collins Kiplangat](https://github.com/chiragvadhavana)
 - [Afzal Ansari](https://github.com/dev-afzalansari)
