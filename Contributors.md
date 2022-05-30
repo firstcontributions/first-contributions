@@ -779,6 +779,7 @@ Vedant Borkar
 - [Wesley Vinson] (https://githuh.com/wvinson43)
 - [William Long] (https://github.com/wlong0477)
 - [Harri L](https://github.com/a1sop0s)
+Aneesh Chavan
 - [Magnus Kaunismäe](https://github.com/iSamsungS)
 - [Siim Sink] (https://github.com/sinkkkk)
 - [Yasharjs](https://github.com/yasharjs)
