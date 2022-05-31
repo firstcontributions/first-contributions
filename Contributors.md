@@ -6,6 +6,7 @@
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Farhan Karim](https://github.com/farhankarimcs)
+- [Uday Mehtani](https://github.com/uday03meh)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - Kassra-K
