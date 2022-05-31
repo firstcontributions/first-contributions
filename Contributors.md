@@ -6489,7 +6489,7 @@ add jerry404lee
 - [Atakan S] (https://github.com/AtakanGH)
 - softvisioneer
 - xflave
-- [MRGEUS](https://github.com/Callmebymynameplz)
+- [MRGEUSS](https://github.com/Callmebymynameplz)
 - [Mateusz K] (https://github.com/marzipan14)
 - [Carl J] (https://github.com/Carlj0666)
 - [Caio Mendes] (https://github.com/caio546)
