@@ -109,8 +109,9 @@ Harshit Rai
 - [dim]
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [Matt E] (https://github.com/mmatt21e)
-  [Riya Treasa Varghease](https://github.com/r-treasa27)
-  [Punit Gupta](https://github.com/Gpunit573)
+- [Riya Treasa Varghease](https://github.com/r-treasa27)
+- [Anand Kumar](https://github.com/kanand003)
+- [Punit Gupta](https://github.com/Gpunit573)
 - [kaveri] (https://github.com/kaverigotkhindi/)
 - [David Miller]((https://github.com/davidmiller2013)
 - [benqhdri](https://github.com/benqhdri)
