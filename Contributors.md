@@ -113,6 +113,7 @@ Harshit Rai
   [Riya Treasa Varghease](https://github.com/r-treasa27)
   [Punit Gupta](https://github.com/Gpunit573)
 - [kaveri] (https://github.com/kaverigotkhindi/)
+- [Faizan]
 - [David Miller]((https://github.com/davidmiller2013)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
