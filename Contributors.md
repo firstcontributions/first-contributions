@@ -87,6 +87,7 @@ Harshit Rai
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Akshay Kumbarwar](https://github.com/aks14075032)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
+- [Sahaj Singh](https://github.com/Bigguysahaj)
 - [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Vatsal Patel](https://github.com/VatsalP117)
