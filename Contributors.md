@@ -6,6 +6,7 @@
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
+- [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
