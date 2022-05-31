@@ -343,6 +343,7 @@ Nicholaus Michael
 - [Nicolas](https://github.com/nnicolasg)
 - [Jesus G Jara](https://github.com/jesusgjara)
 - [Fazil Raja](https://github.com/fazilraja)
+- [Sebastian](https://github.com/Samuurai)
 - [Muhammed Shehaz](https://github.com/sh3hz)
 - [Blankjr](https://github.com/Blankjr)
 - [Rain](https://github.com/lcy101u)
