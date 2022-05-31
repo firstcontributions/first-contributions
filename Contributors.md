@@ -21,6 +21,7 @@
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Brian Patterson] (https://github.com/brianjpatterson)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
+- [Kimberly Rodriguez](https://github.com/kimmiethecoder)
 - [Divya Arora](https://github.com/divyaarora1808)
 - [Divjot Bedi](https://github.com/dbedi3311)
 - [Diya Rastogi](https://github.com/diyar03)
