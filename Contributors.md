@@ -964,6 +964,7 @@ Aneesh Chavan
 - [Alisherka7] (https://github.com/Alisherka7)
 - [rangaomkaram](https://github.com/rangaomkaram)
 - [SabrinaAde](https://github.com/SabrinaAde)
+- [Carl Omondi](https://github.com/ckomondi)
 - [Jay Abella](https://github.com/jcabella1)
 - [Ankush Banik](https://github.com/Ankush263)
 - [Dao Vo](https://github.com/daygoDao)
