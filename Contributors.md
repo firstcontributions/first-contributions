@@ -255,6 +255,7 @@ Nicholaus Michael
 - [Grant Murombo](https://github.com/chaperoneg)
 - [Greg Chan]
 - [khada]
+- [Jake Clifford](https://github.com/jakeclifford)
 - [Phone Myint Maw](https://github.com/meemaw2020)
 - [akavort]
 - [Paul Yang]
