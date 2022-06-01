@@ -71,6 +71,7 @@ Harshit Rai
 - [G Jeevika](https://github.com/Gjeev)
 - [Tim Leung](https://github.com/timleungtech)
 - [wlftuc](https://github.com/wlftuc)
+- [abdux] (https://github.com/abdux)
 - [Sarang S](https://github.com/saaarangs)
 - [John Sebastian](https://github.com/CapedBaldie)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
