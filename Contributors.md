@@ -7257,4 +7257,5 @@ Duncan Ledesma
 - [Mónica Fidalgo](https://github.com/MonicaFidalgo)
 - [GaneshPallam](https://github.com/GaneshPallam)
 - [Sourabh M](https://github.com/cmsourabh)
+- [Thomas L](https://github.com/ThomasLokkart)
 <!-- prettier-ignore-end -->
