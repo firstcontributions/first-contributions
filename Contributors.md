@@ -7246,6 +7246,7 @@ Duncan Ledesma
 - [Michael Mederos](https://github.com/mikemederos)
 - [JunKe Li](https://github.com/randolph555)
 - [Vyacheslav Shkarubskiy] (https://github.com/shkarubskiy)
+- [Deepak Gupta](https://github.com/guptadeepak8)
 - [Hendrik] (https://github.com/comhendrik)
 - [YingHuaYvLuo](https://github.com/YingHuaYvLuo)
 - [lidor4x4](https://github.com/lidor4x4)
