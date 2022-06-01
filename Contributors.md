@@ -7245,4 +7245,5 @@ Duncan Ledesma
 - [Zahid Khan](https://github.com/ZFK07)
 - [Qianpeng Li](https://github.com/QianpengLi577)
 - [Mónica Fidalgo](https://github.com/MonicaFidalgo)
+- [GaneshPallam](https://github.com/GaneshPallam)
 <!-- prettier-ignore-end -->
