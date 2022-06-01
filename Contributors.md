@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
+- [Andrew Arkwright](https://github.com/AndrewArkwright)
 - [Addison] (https://github.com/ag4423)
 - [PeterLiu] (https://github.com/Peterliu8368)
 - [Alphonsus Okoli](https://github.com/alphamanium)
