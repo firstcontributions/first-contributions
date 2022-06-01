@@ -104,6 +104,7 @@ Harshit Rai
 - [Nikhileswar Reddy](https://github.com/Nikhil5)
 - [Jason Hu](https://github.com/jasonhuhx)
 - [mccurdyr](https://github.com/mccurdyr)
+- [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
 - [AnujSharma](https://github.com/Anujsharma0307)
 - [Petya Angelova](https://github.com/bpetya44)
