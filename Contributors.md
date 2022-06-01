@@ -558,6 +558,7 @@ Nicholaus Michael
 - [Chrstphr Hll](https://github.com/ChrstphrHll)
 - [Andrew Whitman]
 - [Elroy Urbina](https://github.com/RoyTheJet)
+- [Yuval Sharma](https://github.com/Yuval207)
 - [Zweli Sangweni](https://github.com/Zweli-Sa)
 - [Maheshwaran Dhandapani](https://github.com/Maheshwaran17)
 - [Taylor Kelly](https://github.com/AbbaZabbaCodes)
