@@ -5944,6 +5944,7 @@ Himanshu Dedha
 - [Meghan McFadden](https://github.com/meghanmcfadden)
 - [Shashwat Dev](https://github.com/ShashwatDev-IIITBBSR)
 - [ss]
+- [Herianto Tanoyo](https://github.com/heri2000)
 - [Patrick Drummond](https://github.com/PatrickDrummond)
 - [Joy Taylor](https://github.com/Joytaylor)
 - [Aaron Jeskie](https://github.com/ajesk)
