@@ -4535,6 +4535,7 @@ Himanshu Dedha
 - [Deepak Goyal](https://github.com/goyaldpk)
 - [Alexandra Popescu](https://github.com/alexanpo)
 - [Abdelrazek](https://github.com/abdelrazek-alaa)
+- [Dennis Ojeda] (https://github.com/royojeda)
 - [Verena S] (https://github.com/vuerena)
 - [Dan Koller](https://github.com/dan-koller)
 - [Yazan Kherfan](https://github.com/yazok8)
