@@ -174,6 +174,7 @@ Nicholaus Michael
 - [Luck Tran](https://github.com/lucktran)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Joshua Goldstein]
+- [Nuwan Sudusinghe](https://github.com/ArcReactive)
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Keisha Shanice](https://github.com/KeishaShanice)
