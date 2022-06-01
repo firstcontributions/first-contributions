@@ -12,6 +12,7 @@
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
+- [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - Kassra-K
 - [Joshua Silvernale] (https://github.com/jsilvernale)
