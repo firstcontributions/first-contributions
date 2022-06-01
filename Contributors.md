@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [Addison] (https://github.com/ag4423)
+- [PeterLiu] (https://github.com/Peterliu8368)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
