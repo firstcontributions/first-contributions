@@ -133,6 +133,7 @@ Harshit Rai
 - [kaveri] (https://github.com/kaverigotkhindi/)
 - [Faizan]
 - [David Miller]((https://github.com/davidmiller2013)
+- [Bjørnar Otterlei](https://github.com/Bcdo)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
 - [Ashmit Chamoli](https://github.com/ashmitchamoli)
