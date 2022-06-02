@@ -7272,5 +7272,5 @@ Duncan Ledesma
 - [GaneshPallam](https://github.com/GaneshPallam)
 - [Sourabh M](https://github.com/cmsourabh)
 - [Thomas L](https://github.com/ThomasLokkart)
-- [Jeremia P](htpps://github.com/Jeremiapane)
-<!-- prettier-ignore-end -->
+- [Jeremia](https://github.com/Jeremiapane)
+
