@@ -244,6 +244,7 @@ Nicholaus Michael
 - [Dvidian](https://github.com/Dvidian)
 - [Kevin Lindholm](https://github.com/KevinLindh)
 - [Daksh Shah](https://github.com/ddddaksh)
+- [Devanshu Sharma](https://github.com/devanshus)
 - [MoisesCastlee](https://github.com/moisescastlee)
 - [Madhureshminoshi](https://github.com/Minodeveloper)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
