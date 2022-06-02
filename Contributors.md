@@ -7272,4 +7272,5 @@ Duncan Ledesma
 - [Sourabh M](https://github.com/cmsourabh)
 - [Thomas L](https://github.com/ThomasLokkart)
 - [Jeremia](https://github.com/Jeremiapane)
+- [Anggun](https://github.com/Anggun)
 <!-- prettier-ignore-end -->
