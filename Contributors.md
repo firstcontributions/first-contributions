@@ -264,6 +264,7 @@ Nicholaus Michael
 - [Akash Ranjan](https://github.com/Arkos2048)
 - [Micah Shaffer](https://github.com/mshaff12)
 - [Raydel Comas](https://github.com/rcomas91)
+- [Andrea](https://github.com/gitand)
 - [Philip]
 - [David Cao](https://github.com/DavidCao4626)
 - [Jon Pena]
