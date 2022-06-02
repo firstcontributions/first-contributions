@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
+- [David Kitavi](https://github.com/kitavidavis)
 - [Andrew Arkwright](https://github.com/AndrewArkwright)
 - [Addison] (https://github.com/ag4423)
 - [PeterLiu] (https://github.com/Peterliu8368)
