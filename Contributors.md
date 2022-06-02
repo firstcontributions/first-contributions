@@ -20,6 +20,7 @@
 - Kassra-K
 - [Joshua Silvernale] (https://github.com/jsilvernale)
 - [Chirag Vadhavana](https://github.com/Ckm54)
+- [Sai nikhil G](https://github.com/Evolve-03)
 - [Collins Kiplangat](https://github.com/chiragvadhavana)
 - [Afzal Ansari](https://github.com/dev-afzalansari)
 - [Luke Herbst](https://github.com/LukeHerbst)
