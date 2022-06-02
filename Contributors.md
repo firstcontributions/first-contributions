@@ -12,6 +12,7 @@
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Farhan Karim](https://github.com/farhankarimcs)
+- [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
@@ -7272,4 +7273,4 @@ Duncan Ledesma
 - [Sourabh M](https://github.com/cmsourabh)
 - [Thomas L](https://github.com/ThomasLokkart)
 - [Jeremia](https://github.com/Jeremiapane)
-<!-- prettier-ignore-end -->
+
