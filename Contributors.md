@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [samuelhoffmann1] (https://github.com/samuelhoffmann1)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [Andrew Arkwright](https://github.com/AndrewArkwright)
 - [Addison] (https://github.com/ag4423)
