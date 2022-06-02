@@ -19,6 +19,7 @@
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- [Orne Virardi] (https://github.com/ornevirardi)
 - Kassra-K
 - [Joshua Silvernale] (https://github.com/jsilvernale)
 - [Chirag Vadhavana](https://github.com/Ckm54)
