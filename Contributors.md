@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [rbih-boulanouar] (https://github.com/rbih-boulanouar)
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [David Kitavi](https://github.com/kitavidavis)
