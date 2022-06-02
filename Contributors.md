@@ -152,6 +152,7 @@ Harshit Rai
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
+- [Yash Amode](https://github.com/yashamode)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [secondary-smiles](https://github.com/secondary-smiles)
