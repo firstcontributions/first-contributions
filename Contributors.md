@@ -199,6 +199,7 @@ Nicholaus Michael
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Maxim Makovey](https://github.com/MAXIBOB)
 - [YO-RO](https://github.com/YO-RO)
+- [Jaycee Villanueva](https://github.com/jayceetronix)
 - [Saad Amir](https://github.com/saadamirpk)
 - [Kevin Shi](https://github.com/kshi4234)
 - [Srehdeep](https://github.com/Srehdeep)
