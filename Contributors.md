@@ -3876,6 +3876,7 @@ Himanshu Dedha
 - [Aashish Illa](https://github.com/aashish0909)
 - [Katya Richter](https://github.com/knrichter19)
 - [Shikonn Tamanegi](https://github.com/Shikunsh)
+- [Anthony Hung](https://github.com/NRngnl)
 - [Aditya Shahari](https://github.com/Aditya-Shahari)
 - [Editha Karina Hermawan](https://github.com/edithakarina)
 - [Edwin Hung](https://github.com/edwinhung)
