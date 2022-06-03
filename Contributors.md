@@ -937,6 +937,7 @@ Aneesh Chavan
 - [Linh Dang]
 - [Tran Dang]
 - [AL]
+- [Christine Kim]
 - [Tony Smith](https://github.com/g8rda)
 - [SimonS]
 - [tyche5]
