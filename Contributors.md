@@ -7,6 +7,7 @@
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [David Kitavi](https://github.com/kitavidavis)
+- [David Enders](https://github.com/davidenders11)
 - [Andrew Arkwright](https://github.com/AndrewArkwright)
 - [Addison] (https://github.com/ag4423)
 - [PeterLiu] (https://github.com/Peterliu8368)
