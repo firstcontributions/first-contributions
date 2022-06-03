@@ -881,6 +881,7 @@ Aneesh Chavan
 - [Jessica Hamilton](https://github.com/jessicant)
 - [Kamil Yousuf](https://github.com/tyiop794)
 - [Htet 0o Wai Yan](https://github.com/HankyHtet)
+- [Mohd Nizam] (https://github.com/alinizam723)
 -[M.N.S.R.NITHIN]
 - [Oluwatimilehin Atobatele] (https://github.com/dev-atobatele)
 -Mili
