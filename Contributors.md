@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [jagoanteknoku] (https://github.com/jagoanteknoku)
 - [rbih-boulanouar] (https://github.com/rbih-boulanouar)
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
