@@ -469,6 +469,7 @@ Nicholaus Michael
 - [Maria Alexis Sales](https://github.com/AlexisSales)
 - [Alex]
 - [Jeff]
+- [Sai Anoop Avunuri](https://github.com/ExtraneousFalcon)
 - [yamatonao](https://github.com/yamatonao)
 - [andrewkuhl](https://github.com/andrewkuhl)
 - [Dipankur](https://github.com/dipankurverma)
