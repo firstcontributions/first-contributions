@@ -14,6 +14,7 @@
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Farhan Karim](https://github.com/farhankarimcs)
+- [Eric Neves](https://github.com/EricNeves)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
