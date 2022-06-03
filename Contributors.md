@@ -1298,6 +1298,7 @@ Aneesh Chavan
 - Md Zubaer
 -[Divyam Bhutani] (i want to learn *-*)
 - [Krish Veera] (https://github.com/krishrveera)
+[Amarjeet](https://github.com/crimson-4)
 - [Jebus] (https://github.com/Jebushdd)
 - [Siddharth Singh] (https://github.com/SidSin)
 - [Anant] (https://github.com/Anant16)
