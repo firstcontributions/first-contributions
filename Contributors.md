@@ -7295,4 +7295,5 @@ Duncan Ledesma
 - [michaeljoelt](https://github.com/michaeljoelt)
 - [Shalini](https://github.com/Shalini469717)
 - [Rahul Bhatija](https://github.com/rahul4coding)
+- [Sleaz](https://github.com/sleaz)
 <!-- prettier-ignore-end -->
