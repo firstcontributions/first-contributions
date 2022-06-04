@@ -39,6 +39,7 @@
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
+- [Don S Jr] (https://github.com/clefbassman)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Brian Patterson] (https://github.com/brianjpatterson)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
@@ -49,6 +50,7 @@
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Dev G](https://github.com/20CE034)
+- [Birame Ndoye](https://github.com/biramendoye)
 - flgoyens
 - [Lionel](https://github.com/myominhtoo)
 - [Karthik Vaithin](https://github.com/kvaithin)
@@ -79,7 +81,6 @@
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Sunny Hemdev](https://github.com/sunny151091/)
 - [Isaiah Cooper] (https://github.com/Explainin)
-- [Don S Jr] (https://github.com/clefbassman)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
 - [Vishesh Goyal](https://github.com/vishesh011) [Vinaya Datta](https://github.com/vinaya-datta/) [Alisa Owens](https://github.com/alisaowens)
 - [Raul Flores](https://github.com/Raul-A-Flores)
