@@ -108,6 +108,7 @@ Harshit Rai
 - [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
 - [kajetanc] (https://github.com/kajetanc)
+- [Vandit Narain Tyagi] (https://github.com/the-formless)
 -[Ishann Daultani] (https://github.com/ishannCodes)
 - [Abhishek Topwal] [https://github.com/abhishek-topwal]
 - [Mariana Westphalen] (https://github.com/marianaWest)
