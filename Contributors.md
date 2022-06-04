@@ -7294,5 +7294,5 @@ Duncan Ledesma
 - [michaeljoelt](https://github.com/michaeljoelt)
 - [Shalini](https://github.com/Shalini469717)
 - [Rahul Bhatija](https://github.com/rahul4coding)
-  [Siddharth chandrakar](https://github.com/iamsid0908)
+  [Siddharth chandrakar](https://github.com/iamsid0908,https://twitter.com/siddharth5634)
 <!-- prettier-ignore-end -->
