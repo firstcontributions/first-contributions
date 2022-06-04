@@ -11,6 +11,7 @@
 - [David Enders](https://github.com/davidenders11)
 - [Andrew Arkwright](https://github.com/AndrewArkwright)
 - [Addison] (https://github.com/ag4423)
+- [Amanda W] (https://github.com/Laptop-Salad)
 - [PeterLiu] (https://github.com/Peterliu8368)
 - [Alphonsus Okoli](https://github.com/alphamanium)
 - [Nuri Kim](https://github.com/nurikimchi)
