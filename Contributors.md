@@ -1,4 +1,4 @@
-  # **Contributors**
+﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
@@ -17,6 +17,7 @@
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
+- [Julian Elmasry] (https://github.com/julian31186)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Eric Neves](https://github.com/EricNeves)
 - [Felipe Videira](https://github.com/felipe-videira)
