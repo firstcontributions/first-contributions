@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
+- [Mahdi Malkawi] (https://github.com/malkawimahdi)
 - [rbih-boulanouar] (https://github.com/rbih-boulanouar)
 - [Sourabh Patel](https://github.com/getmeapencil)
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
