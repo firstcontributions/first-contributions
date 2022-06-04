@@ -7316,4 +7316,5 @@ Duncan Ledesma
 - [swarazz](https://github.com/swarazz)
 - [katewanjoushao](https://github.com/katewanjoushao)
 - [Matthew Burgess](https://github.com/msappy00)
+- [Devin Douglas](https://github.com/djdouglas01)
 <!-- prettier-ignore-end -->
