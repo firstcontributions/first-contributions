@@ -82,6 +82,7 @@
 - [Sarah Yap](https://github.com/skyuanow) 
 - [Tyson Swords](https://github.com/Zeeennnyyy) 
 - [Will Guo]
+- [Ankit Gupta](https://github.com/en1gm479)
 - [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
