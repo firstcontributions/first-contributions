@@ -119,6 +119,7 @@ Harshit Rai
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Akshay Kumbarwar](https://github.com/aks14075032)
+- [Abiona Olushola Jude] (https://github.com/Abiona-0lushola-Jude)
 - [Ruchik Bakhai](https://github.com/RuchikBakhai)
 - [Sahaj Singh](https://github.com/Bigguysahaj)
 - [Medha](https://github.com/medha-verma)
