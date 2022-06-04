@@ -20,6 +20,7 @@
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Farhan Karim](https://github.com/farhankarimcs)
+- [Mauro Philipe](https://github.com/mauroPh)
 - [Eric Neves](https://github.com/EricNeves)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
