@@ -93,6 +93,7 @@ Harshit Rai
 - [Cecilia Sun] (https://github.com/CeciliaRuiSun)
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
+- [Halil Bulut](https://github.com/Hellin1)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
 - [Tim Leung](https://github.com/timleungtech)
