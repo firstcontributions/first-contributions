@@ -7309,4 +7309,5 @@ Duncan Ledesma
 - [Tayyibah Uddin] (https://github.com/tayy-b)
 - [Sleaz](https://github.com/sleaz)
 - [Ravi Shankar](https://github.com/ravishankar2463)
+- [swarazz](https://github.com/swarazz)
 <!-- prettier-ignore-end -->
