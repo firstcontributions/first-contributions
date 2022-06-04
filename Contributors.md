@@ -107,6 +107,7 @@ Harshit Rai
 - [Sharad Arora](https://github.com/Sharad910)
 - [Ahmed Zougari](https://github.com/zougari47)
 - [dbsaw](https://github.com/dbsaw)
+[rukyr97](https://github.com/rukyr97)
 - [kajetanc] (https://github.com/kajetanc)
 - [Vandit Narain Tyagi] (https://github.com/the-formless)
 -[Ishann Daultani] (https://github.com/ishannCodes)
