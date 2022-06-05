@@ -68,6 +68,7 @@
 - flgoyens
 - [Lionel](https://github.com/myominhtoo)
 - [Karthik Vaithin](https://github.com/kvaithin)
+- [Muneeb Rehman](https://github.com/mrehmm001)
 - [Vaibhav Dubey](https://github.com/Dubeyvaib)
 - [abdoufermat5](https://github.com/abdoufermat5)
 - [Seralyn Campbell](https://github.com/Seralyn)
