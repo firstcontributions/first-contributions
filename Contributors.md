@@ -107,6 +107,7 @@ Harshit Rai
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
 - [Tim Leung](https://github.com/timleungtech)
+= [Alex Wells](https://github.com/AWells595)
 - [wlftuc](https://github.com/wlftuc)
 - [abdux] (https://github.com/abdux)
 - [Sarang S](https://github.com/saaarangs)
