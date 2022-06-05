@@ -24,6 +24,7 @@
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Julian Elmasry] (https://github.com/julian31186)
+- [Niels Brons] (https://github.com/NielsBrons)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Mauro Philipe](https://github.com/mauroPh)
