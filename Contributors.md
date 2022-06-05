@@ -7323,4 +7323,5 @@ Duncan Ledesma
 - [katewanjoushao](https://github.com/katewanjoushao)
 - [Matthew Burgess](https://github.com/msappy00)
 - [Devin Douglas](https://github.com/djdouglas01)
+- [Ericoolen Song](https://github.com/Eric-Song-Nop)
 <!-- prettier-ignore-end -->
