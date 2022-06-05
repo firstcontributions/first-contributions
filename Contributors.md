@@ -434,6 +434,7 @@ Nicholaus Michael
 - [mitchiban](https://github.com/mitchiban)
 - [Charles Agoe](https://github.com/agoetee) 
 - [mileticluka](https://github.com/mileticluka)
+- [pcarter444] (https://github.com/pcarter444)
 - [Lloyd the man]
 - [Zelalem Solomon](https://github.com/Zolasol)
 - [Austin Merrill][https://github.com/AJMerr]
