@@ -2757,6 +2757,7 @@ yejashi
 - [Prabin Singh](https://github.com/prabin544)
 - [Michael Kowalski](https://github.com/mgkowalski/)
 - [Mahak Gupta](https://github.com/Mahak-Gupta25)
+- [Maxime Lebel](https://github.com/Asaree)
 - [Erick Rosa](https://github.com/RosaErick)
 - [abdelrhman azazy](https://github.com/Azazy1)
 - [Kyle Gibson](https://github.com/kgibsonprogramming)
