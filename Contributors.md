@@ -7277,6 +7277,7 @@ Duncan Ledesma
 - [Hans-Derly Rameau](https://github.com/hansderly)
 - [Jian Kim](https://github.com/jian7061)
 - [CryoSolace]
+- [Dipanwita](https://github.com/thee-pan)
 - [cesarnuness](https://github.com/cesarnuness)
 - [lucaGonzalez](https://github.com/lucagonzalez)
 - [Grogu96](https://github.com/grogu96)
