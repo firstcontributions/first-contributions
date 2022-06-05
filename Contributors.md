@@ -43,6 +43,7 @@
 - [Luke Herbst](https://github.com/LukeHerbst)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Ariel Rubel](https://github.com/pepepinguino69)
+- [Anushka Saxena](https://github.com/anushkasaxena27)
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
