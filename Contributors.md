@@ -46,6 +46,7 @@
 - [Orne Virardi] (https://github.com/ornevirardi)
 - [Kadl19] (https://github.com/Kadl19)
 - Kassra-K
+- [Preshtha Garg](https://github.com/preshthagarg)
 - [raj shukla]
 - [Sabbir Hosen Emon] (https://github.com/sabbirhosenemon)
 - [Joshua Silvernale] (https://github.com/jsilvernale)
