@@ -4,6 +4,7 @@
 - [chewbacca234] (https://github.com/chewbacca234)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
+- [Aakrut Dabhi] (https://github.com/Aakrut)
 - [rbih-boulanouar] (https://github.com/rbih-boulanouar)
 - [Sourabh Patel](https://github.com/getmeapencil)
 - [Piyush Rana ] (https://github.com/piyush09-05)
