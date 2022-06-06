@@ -23,6 +23,7 @@
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [Ghanendra](https://github.com/gpt3ch)
 - [Joel van der Boom](https://github.com/joelvdb)
+- [Nidhi Bangera](https://github.com/nidhi-17) 
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 -[Tom Yotwongjai](https://github.com/tomyotwongjai)
