@@ -39,6 +39,7 @@
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Sage Writ](https://github.com/sagewrit)
 - [Orne Virardi] (https://github.com/ornevirardi)
+- [Kadl19] (https://github.com/Kadl19)
 - Kassra-K
 - [raj shukla]
 - [Sabbir Hosen Emon] (https://github.com/sabbirhosenemon)
