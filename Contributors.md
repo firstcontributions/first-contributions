@@ -22,6 +22,7 @@
 - [Nuri Kim](https://github.com/nurikimchi)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [David E] (https://github.com/ElliottConsulting)
+- [Senali](https://github.com/senali-d)
 - [Ghanendra](https://github.com/gpt3ch)
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Nidhi Bangera](https://github.com/nidhi-17) 
