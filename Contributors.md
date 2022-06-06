@@ -1409,6 +1409,7 @@ Aneesh Chavan
 - [Ashish Poudel] (https://github.com/ashishpoudel523/)
 - [Nasya Valenzuela](https://github.com/nasyav)
 - [Ganesh Singh](https://github.com/GaneshSingh757)
+- [Mounir Bessoufi](https://github.com/mhannibal)
 - [Zac Bolton](https://github.com/zacharyabolton)
 - [Neeraj Baddula](https://github.com/neerajbaddula)
 - [Nina Wang](https://github.com/ericgchu)
@@ -7345,4 +7346,5 @@ Duncan Ledesma
 - [Devin Douglas](https://github.com/djdouglas01)
 - [Ericoolen Song](https://github.com/Eric-Song-Nop)
 - [Qiuyi Wang](https://github.com/qiuyi0907)
+
 <!-- prettier-ignore-end -->
