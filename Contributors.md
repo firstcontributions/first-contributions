@@ -1729,6 +1729,7 @@ Zack Bryant
 - [Aditya Priyanshu](https://github.com/Adityap-3055)
 - [Chandan Raj Nidavanda](https://github.com/Chandan-Raj)
 - [Amar Panji Senjaya](https://github.com/amarps)
+- [André ElOtroCattivo](https://github.com/elotrocattivo)
 - [Andrio](https://github.com/Andrio-Codes)
 - [Anjali Sajeevan]
 - [Himanshu Sajwan](https://github.com/HimanshuSajwan911)
