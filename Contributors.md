@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [chewbacca234] (https://github.com/chewbacca234)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
+- [Suhas Gumma]  (https://github.com/suhasgumma)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
 - [Aakrut Dabhi] (https://github.com/Aakrut)
 - [rbih-boulanouar] (https://github.com/rbih-boulanouar)
