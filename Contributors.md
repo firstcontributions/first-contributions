@@ -7369,4 +7369,5 @@ Duncan Ledesma
 - [Mohit Dhule](https://github.com/mohit564)
 - [Juan Pablo Isaza](https://github.com/jisazamp)
 - [Shivani Sharma](https://github.com/Shivani-1611)
+- [Robert Szewczyk](https://github.com/Robert1195)
 <!-- prettier-ignore-end -->
