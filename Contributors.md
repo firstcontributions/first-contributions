@@ -28,6 +28,7 @@
 - [David E] (https://github.com/ElliottConsulting)
 - [Ghanendra](https://github.com/gpt3ch)
 - [Joel van der Boom](https://github.com/joelvdb)
+  [Cristian Camacho](https://github.com/CristianCamacho)
 - [Nidhi Bangera](https://github.com/nidhi-17) 
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
