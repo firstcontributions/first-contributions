@@ -3340,6 +3340,7 @@ yejashi
 - [Tamara W](https://github.com/Tam-star)
 - [Sabri Oussama](https://github.com/Sabri01)
 - [Max VanReynegom](https://github.com/maxvrdev)
+- [Levente Gulyas](https://github.com/Glevi96)
 - [Kwame Sarfo](https://github.com/Ksarfo69)
 - [jrojas] (https://github.com/jrojas10)
 - [Fernando Blum Garcia](https://github.com/fblumgarcia)
