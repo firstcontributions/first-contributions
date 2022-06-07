@@ -7365,4 +7365,5 @@ Duncan Ledesma
 - [Ericoolen Song](https://github.com/Eric-Song-Nop)
 - [Qiuyi Wang](https://github.com/qiuyi0907)
 - [Mohit Dhule](https://github.com/mohit564)
+- [Juan Pablo Isaza](https://github.com/jisazamp)
 <!-- prettier-ignore-end -->
