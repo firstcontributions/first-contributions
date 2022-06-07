@@ -7368,4 +7368,5 @@ Duncan Ledesma
 - [Qiuyi Wang](https://github.com/qiuyi0907)
 - [Mohit Dhule](https://github.com/mohit564)
 - [Juan Pablo Isaza](https://github.com/jisazamp)
+- [Shivani Sharma](https://github.com/Shivani-1611)
 <!-- prettier-ignore-end -->
