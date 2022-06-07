@@ -153,6 +153,7 @@ Harshit Rai
 - [Nicksomething23](https://github.com/nicksomething23)
 - [Tomas Perez](https://github.com/ttomrp)
 - [Krishna Sethiya](https://github.com/INFORTER0731)
+  [Palvazar](https://github.com/Palvazar1)
 - [dim]
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [Matt E] (https://github.com/mmatt21e)
