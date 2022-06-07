@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [chewbacca234] (https://github.com/chewbacca234)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
+- [spacerschoice] (https://github.com/spacerschoice)
 - [Suhas Gumma]  (https://github.com/suhasgumma)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
 - [Aakrut Dabhi] (https://github.com/Aakrut)
