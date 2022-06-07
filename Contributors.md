@@ -36,6 +36,7 @@
 - [Niels Brons] (https://github.com/NielsBrons)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
+- [GAILLARD Germain] (https://github.com/gaillard-germain)
 - [Mauro Philipe](https://github.com/mauroPh)
 - [mouss3abbb](https://github.com/mouss3abbb)
 - [Eric Neves](https://github.com/EricNeves)
