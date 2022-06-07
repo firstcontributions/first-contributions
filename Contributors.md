@@ -197,6 +197,7 @@ Harshit Rai
 - [ritik jain](https://github.com/RJ025)
 - [Ammar Azman]
 - [Kirk Corwin](https://github.com/KirkCorwin) 
+- [Rohit Singh]
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
