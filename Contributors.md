@@ -65,6 +65,7 @@
 - [Anushka Saxena](https://github.com/anushkasaxena27)
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
+- [Nabil Noh](https://github.com/mrnabilnoh)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Don S Jr] (https://github.com/clefbassman)
 - [Chirag sharma] (https://github.com/chiragksharma)]
