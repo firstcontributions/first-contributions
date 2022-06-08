@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [chewbacca234] (https://github.com/chewbacca234)
+- [tiklup11] (https://github.com/tiklup11)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
 - [Suhas Gumma]  (https://github.com/suhasgumma)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
