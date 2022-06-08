@@ -94,6 +94,7 @@
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Mazhar Ansari](https://github.com/MJCoder15)
+- [Kenny Pearson](https://github.com/kenwoodp)
 - [Varad Katkalambekar]
 - [Anthonippillai Vincent Nishan] (https://github.com/SunrayVision)
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
