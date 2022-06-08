@@ -170,6 +170,7 @@ Harshit Rai
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
 - [AnujSharma](https://github.com/Anujsharma0307)
+- [Pete Darinzo](https://github.com/PeteDarinzo)
 - [Petya Angelova](https://github.com/bpetya44)
 - [Kalenna](https://github.com/KalennaCodes)
 - [Akshat](https://github.com/10Prime)
