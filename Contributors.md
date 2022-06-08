@@ -171,6 +171,7 @@ Harshit Rai
 - [mccurdyr](https://github.com/mccurdyr)
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
+- [Chris Naugle](https://github.com/crn717)
 - [AnujSharma](https://github.com/Anujsharma0307)
 - [Pete Darinzo](https://github.com/PeteDarinzo)
 - [Petya Angelova](https://github.com/bpetya44)
