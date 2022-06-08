@@ -7385,4 +7385,5 @@ Duncan Ledesma
 - [Shivani Sharma](https://github.com/Shivani-1611)
 - [Stephen Brink](https://github.com/stephenb101010)
 - [Eric Wu](https://github.com/dumplingman0403)
+- [Adrian Czerwinski](https://github.com/AdrianCzerwinski)
 <!-- prettier-ignore-end -->
