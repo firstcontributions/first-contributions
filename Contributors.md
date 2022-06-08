@@ -7384,4 +7384,5 @@ Duncan Ledesma
 - [Juan Pablo Isaza](https://github.com/jisazamp)
 - [Shivani Sharma](https://github.com/Shivani-1611)
 - [Stephen Brink](https://github.com/stephenb101010)
+- [Eric Wu](https://github.com/dumplingman0403)
 <!-- prettier-ignore-end -->
