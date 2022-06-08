@@ -7350,6 +7350,7 @@ Duncan Ledesma
 - [A Woods](https://github.com/alessandrawoods)
 - [Dan Tang](https://github.com/DTZUZU)
 - [Maddie Lee](https://github.com/eobda)
+- [Shuhaid Lambe](https://github.com/shuhaid)
 - [Justin Mai](https://github.com/JustinM2250)
 - [Michael Mederos](https://github.com/mikemederos)
 - [JunKe Li](https://github.com/randolph555)
