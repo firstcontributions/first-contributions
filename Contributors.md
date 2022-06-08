@@ -1,4 +1,4 @@
-﻿  # **Contributors**
+  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Thanh Hoan](https://github.com/thanhhoann)
@@ -7389,4 +7389,5 @@ Duncan Ledesma
 - [Eric Wu](https://github.com/dumplingman0403)
 - [Adrian Czerwinski](https://github.com/AdrianCzerwinski)
 - [Tom Lai](https://github.com/ymlai87416)
+- [Jogy Felix](https://github.com/jogyfelix)
 <!-- prettier-ignore-end -->
