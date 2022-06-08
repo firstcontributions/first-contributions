@@ -47,6 +47,7 @@
 - [Mauro Philipe](https://github.com/mauroPh)
 - [mouss3abbb](https://github.com/mouss3abbb)
 - [Eric Neves](https://github.com/EricNeves)
+- [Yasar Nazzarian](https://github.com/Yasar2019)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Hansel Warrior] (https://github.com/B3AST721)
 - [Uday Mehtani](https://github.com/uday03meh)
