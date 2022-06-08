@@ -105,6 +105,7 @@
   [Sarthak Kumar](https://github.com/sarthak503)
   [Harshit Verma]
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
+- [Francisca Suarez](https://github.com/franciisca)
 - [Eman Hassan] (https://github.com/emanhassan2020)
 - [careyuyu](https://github.com/careyuyu)
   [Adewale Adeyemo]
