@@ -2865,6 +2865,7 @@ yejashi
   [Aung Myint Myat](https://github.com/Aungmyat23711)
 - [David Brent]
 - [Prem Sundar]
+- [Adan Garcia](https://github.com/developingAdan)
 - [Megan Riley] (https://github.com/meganriley)
 - [Ilmari99](http://github.com/Ilmari99)
 - [Muchu69390](https://github.com/Muchu69390)
