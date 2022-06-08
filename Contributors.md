@@ -85,6 +85,7 @@
 - [Divjot Bedi](https://github.com/dbedi3311)
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
+- [Henry Hokkaido](https://github.com/Mythaenea)
 - [Mehak Agrawal] (https://github.com/mehakagrawal)
 - [Dev G](https://github.com/20CE034)
 - [Birame Ndoye](https://github.com/biramendoye)
