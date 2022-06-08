@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [chewbacca234] (https://github.com/chewbacca234)
+- [tiklup11] (https://github.com/tiklup11)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
 - [Abraham Han] (https://github.com/ahan15)
 - [spacerschoice] (https://github.com/spacerschoice)
