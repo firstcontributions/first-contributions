@@ -7386,4 +7386,5 @@ Duncan Ledesma
 - [Stephen Brink](https://github.com/stephenb101010)
 - [Eric Wu](https://github.com/dumplingman0403)
 - [Adrian Czerwinski](https://github.com/AdrianCzerwinski)
+- [Tom Lai](https://github.com/ymlai87416)
 <!-- prettier-ignore-end -->
