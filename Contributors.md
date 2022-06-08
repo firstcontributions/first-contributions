@@ -7344,6 +7344,7 @@ Duncan Ledesma
 - [Vyacheslav Shkarubskiy] (https://github.com/shkarubskiy)
 - [Deepak Gupta](https://github.com/guptadeepak8)
 - [Hendrik] (https://github.com/comhendrik)
+- [Erin Patterson](https://github.com/atttp)
 - [YingHuaYvLuo](https://github.com/YingHuaYvLuo)
 - [lidor4x4](https://github.com/lidor4x4)
 - [Zahid Khan](https://github.com/ZFK07)
