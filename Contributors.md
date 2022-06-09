@@ -44,7 +44,7 @@
 - [Nidhi Bangera](https://github.com/nidhi-17) 
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
--[Tom Yotwongjai](https://github.com/tomyotwongjai)
+- [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Niels Brons] (https://github.com/NielsBrons)
 - [Prerna] (https://github.com/prernamittal)
@@ -4688,6 +4688,7 @@ Himanshu Dedha
 - [Lily Silva](https://github.com/LiliRosa)
 - [julia](https://github.com/jusato)
 - [Shreya Mahajan]
+- [Michael Bauer](https://github.com/mbauer0989)
 - [Richard Litang](https://github.com/heisenberglar)
 - [isacancetin](https://github.com/isacancetin)
 - [Trevor Tomlin](https://github.com/trevortomlin)
