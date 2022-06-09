@@ -30,6 +30,7 @@
 - [Addison] (https://github.com/ag4423)
 - [Chhetri](https://github.com/chhetri28)
 - [Amanda W] (https://github.com/Laptop-Salad)
+- [Thomas]
 - [PeterLiu] (https://github.com/Peterliu8368)
 - [Alphonsus Okoli](https://github.com/alphamanium)
 - [Elias Dzobo](https://github.com/elias-dzobo)
