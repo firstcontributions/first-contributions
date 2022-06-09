@@ -91,6 +91,7 @@
 - [Carl Shone](https://github.com/carlts93)
 - [Kimberly Rodriguez](https://github.com/kimmiethecoder)
 - [Divya Arora](https://github.com/divyaarora1808)
+- [Jp Venadas](https://github.com/JPvenadas)
 - [ColinAllenDev] (https://github.com/colinallendev)
 - [Divjot Bedi](https://github.com/dbedi3311)
 - [Diya Rastogi](https://github.com/diyar03)
