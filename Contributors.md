@@ -7408,4 +7408,5 @@ Duncan Ledesma
 - [Tom Lai](https://github.com/ymlai87416)
 - [Jogy Felix](https://github.com/jogyfelix)
 - [Noufal A](https://github.com/noufalgit)
+- [Luz Davico](https://github.com/luz-d20)
 <!-- prettier-ignore-end -->
