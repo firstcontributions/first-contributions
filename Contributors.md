@@ -20,6 +20,7 @@
 - [Sourabh Patel](https://github.com/getmeapencil)
 - [Piyush Rana ] (https://github.com/piyush09-05)
 - [Samuel Kinuthia](https://github.com/Siymiel)
+- [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [David Kitavi](https://github.com/kitavidavis)
