@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Khai Nguyen](https://github.com/xkhainguyen)
+- [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
 - [kanazawazawa](https://github.com/kanazawazawa)
 - [Thanh Hoan](https://github.com/thanhhoann)
