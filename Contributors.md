@@ -1,6 +1,8 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+
+- [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
