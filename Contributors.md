@@ -163,6 +163,7 @@ Harshit Rai
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
 - [Camille Granier](https://github.com/camille-granier)
+- [Mira Kinebuchi](https://github.com/mira-kine)
 - [Teshane Crawford] (https://github.com/TeshaneCrawford)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
