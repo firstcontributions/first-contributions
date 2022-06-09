@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Luis Padilla] (https://github.com/lpadillah)
 - [Thanh Hoan](https://github.com/thanhhoann)
 - [chewbacca234] (https://github.com/chewbacca234)
 - [tiklup11] (https://github.com/tiklup11)
