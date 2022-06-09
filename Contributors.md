@@ -1,4 +1,4 @@
-﻿  # **Contributors**
+  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
@@ -7318,5 +7318,6 @@ Duncan Ledesma
 - [swarazz](https://github.com/swarazz)
 - [katewanjoushao](https://github.com/katewanjoushao)
 - [Matthew Burgess](https://github.com/msappy00)
+- [Sam Cleveland] (https://github.com/Sam-Cleveland)
 - [Devin Douglas](https://github.com/djdouglas01)
 <!-- prettier-ignore-end -->
