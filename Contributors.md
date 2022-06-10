@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # **Contributors**
+=======
+﻿# **Contributors**
+>>>>>>> 0301019b28f06ff57e1a603c71ca2265bc9bacac
 
 <!-- prettier-ignore-start -->
 
@@ -116,6 +120,7 @@
 - [Dev Gundalia](https://github.com/20CE034)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Mazhar Ansari](https://github.com/MJCoder15)
+- [SeHeon-Park](https://github.com/SeHeon-Park)
 - [Kenny Pearson](https://github.com/kenwoodp)
 - [Varad Katkalambekar]
 - [Anthonippillai Vincent Nishan] (https://github.com/SunrayVision)
