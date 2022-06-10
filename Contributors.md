@@ -33,6 +33,7 @@
 - [Chhetri](https://github.com/chhetri28)
 - [Amanda W] (https://github.com/Laptop-Salad)
 - [Thomas]
+- [Catalin Petrovici](https://github.com/catalinpetrovici24)
 - [PeterLiu] (https://github.com/Peterliu8368)
 - [Alphonsus Okoli](https://github.com/alphamanium)
 - [Elias Dzobo](https://github.com/elias-dzobo)
