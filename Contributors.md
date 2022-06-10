@@ -51,6 +51,7 @@
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [GAILLARD Germain] (https://github.com/gaillard-germain)
 - [Mauro Philipe](https://github.com/mauroPh)
+- [Terra Hanks](https://github.com/vampyteuth)
 - [Sanjaya J Shetty](https://github.com/SanjayShetty01)
 - [mouss3abbb](https://github.com/mouss3abbb)
 - [Eric Neves](https://github.com/EricNeves)
