@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Ali Rihan](https://github.com/a13r1)
 - [Sean Chua](https://github.com/SeansC12)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
