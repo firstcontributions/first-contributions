@@ -1,4 +1,4 @@
-  # **Contributors**
+﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Khai Nguyen](https://github.com/xkhainguyen)
@@ -84,6 +84,7 @@
 - [Anushka Saxena](https://github.com/anushkasaxena27)
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
+- [Kapil Baser]
 - [Nabil Noh](https://github.com/mrnabilnoh)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Don S Jr] (https://github.com/clefbassman)
