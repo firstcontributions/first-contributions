@@ -1114,6 +1114,7 @@ Aneesh Chavan
 - [Jesuferanmi Asiyanbi](https://github.com/Pherizee)
 - [David Ogar] (https://github.com/The-True-Hooha)
 - [Shajith Hameed](https://github.com/d3xferno)
+- [Rohit Jadhav](https://github.com/rjcoder86)
 - [Mien Nguyen](https://github.com/emsnguyen)
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
