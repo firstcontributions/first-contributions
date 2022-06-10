@@ -7338,6 +7338,7 @@ Duncan Ledesma
 - [Jingyao Liu](https://github.com/Liu-Jingyao)
 - [JJ]
 - [Codeand con Reyes](https://github.com/CarlosReyesM)
+- [Shuaib Ahmed](https://github.com/Shuaib-Ahmed)
 - [Mini-Sylar](https://github.com/Mini-Sylar)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
 - [Patricia Namoro](https://github.com/git-TAP)
