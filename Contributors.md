@@ -247,6 +247,7 @@ Harshit Rai
 - [Adeyemi Adetayo] (https://github.com/adetayoadeyemi)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
+- [Rahul Anand](https://github.com/rnand)
 - [Hubert Kwitowski] (https://github.com/specillum)
 Nicholaus Michael
 - [Daniel Tran] (https://github.com/danielduytran)
