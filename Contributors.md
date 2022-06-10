@@ -1,4 +1,4 @@
-﻿  # **Contributors**
+  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Ali Rihan](https://github.com/a13r1)
@@ -7414,6 +7414,7 @@ Duncan Ledesma
 - [swarazz](https://github.com/swarazz)
 - [katewanjoushao](https://github.com/katewanjoushao)
 - [Matthew Burgess](https://github.com/msappy00)
+- [Sam Cleveland] (https://github.com/Sam-Cleveland)
 - [Devin Douglas](https://github.com/djdouglas01)
 - [Ericoolen Song](https://github.com/Eric-Song-Nop)
 - [Qiuyi Wang](https://github.com/qiuyi0907)
