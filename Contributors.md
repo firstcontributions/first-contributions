@@ -284,6 +284,7 @@ Nicholaus Michael
 - [Joshua Goldstein]
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Dimple Jain](https://github.com/dimplehoney)
+- [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Luna Bean](https://github.com/Luna-Bean)
