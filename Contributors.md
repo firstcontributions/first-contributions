@@ -2762,6 +2762,7 @@ yejashi
 - [Elmeri Keitaanranta](https://github.com/ElmeriVincent)
 - [Antti Tuomola](https://github.com/anttituomola)
 - [Alina Ryan](https://github.com/AlinaRyan)
+- [Rushi Javiya](https://github.com/Rushijaviya)
 - [Berk Topbas](https://github.com/the-alchemist88)
 - [Andreas Vieten](https://github.com/CryptoNari)
 - [Amir Mohammad Hl](https://github.com/Imorate)
