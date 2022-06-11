@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Purnima Kumar](https://github.com/Purnima-1)
 - [Ali Rihan](https://github.com/a13r1)
 - [Sean Chua](https://github.com/SeansC12)
 - [Khai Nguyen](https://github.com/xkhainguyen)
