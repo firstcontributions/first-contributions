@@ -283,6 +283,7 @@ Nicholaus Michael
 - [Electro](https://github.com/Electro-Magnet45)
 - [Joshua Goldstein]
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
+- [mdelrosa](https://github.com/mdelrosa)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Keisha Shanice](https://github.com/KeishaShanice)
