@@ -7431,4 +7431,5 @@ Duncan Ledesma
 - [Noufal A](https://github.com/noufalgit)
 - [Luz Davico](https://github.com/luz-d20)
 - [Yash Goel](https://github.com/root-yash)
+- [hiraoku shinichi](https://github.com/s-hiraoku)
 <!-- prettier-ignore-end -->
