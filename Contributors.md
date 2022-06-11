@@ -7448,4 +7448,5 @@ Duncan Ledesma
 - [Minindu Hewawasam](https://github.com/mininduhewawasam)
 - [hiraoku shinichi](https://github.com/s-hiraoku)
 - [Gwon gibeom](https://github.com/gwongibeom)
+- [Emma M](https://github.com/emmaclarem)
 <!-- prettier-ignore-end -->
