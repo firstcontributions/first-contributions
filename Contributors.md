@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ali Rihan](https://github.com/a13r1)
+- [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [Sean Chua](https://github.com/SeansC12)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
