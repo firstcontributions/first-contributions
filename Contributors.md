@@ -36,6 +36,7 @@
 - [Chhetri](https://github.com/chhetri28)
 - [Amanda W] (https://github.com/Laptop-Salad)
 - [Thomas]
+- [Rutul Amin](https://github.com/rutul24591)
 - [Catalin Petrovici](https://github.com/catalinpetrovici24)
 - [PeterLiu] (https://github.com/Peterliu8368)
 - [Alphonsus Okoli](https://github.com/alphamanium)
