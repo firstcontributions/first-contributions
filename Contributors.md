@@ -9829,6 +9829,7 @@
 - [Dominik Petrovic](https://github.com/nixxcode)
 - [Chakradhar Koppula](https://github.com/ckoppula199)
 - [ShatteredTrace](https://github.com/ShatteredTrace)
+- [Kevin Corpuz](https://github.com/macknive)
 - [Richard Job](https://github.com/richardjob)
 - [Jang Ho Cho](https://github.com/jhc95/)
 - [Shea Buckner](https://github.com/towhitch)
