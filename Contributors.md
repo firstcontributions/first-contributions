@@ -7429,4 +7429,5 @@ Duncan Ledesma
 - [Jogy Felix](https://github.com/jogyfelix)
 - [Noufal A](https://github.com/noufalgit)
 - [Luz Davico](https://github.com/luz-d20)
+- [Yash Goel](https://github.com/root-yash)
 <!-- prettier-ignore-end -->
