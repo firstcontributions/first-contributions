@@ -4,6 +4,7 @@
 - [Ali Rihan](https://github.com/a13r1)
 - [Sean Chua](https://github.com/SeansC12)
 - [Khai Nguyen](https://github.com/xkhainguyen)
+- [Arjun M S](https://github.com/arjun-ms)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
 - [kanazawazawa](https://github.com/kanazawazawa)
