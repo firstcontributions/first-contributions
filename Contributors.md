@@ -7449,4 +7449,5 @@ Duncan Ledesma
 - [hiraoku shinichi](https://github.com/s-hiraoku)
 - [Gwon gibeom](https://github.com/gwongibeom)
 - [Emma M](https://github.com/emmaclarem)
+- [skradle](https://github.com/skradle)
 <!-- prettier-ignore-end -->
