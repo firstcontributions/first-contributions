@@ -5,6 +5,7 @@
 - [Sean Chua](https://github.com/SeansC12)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
+- [Melvin Ng](https://github.com/melvincwng)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
 - [kanazawazawa](https://github.com/kanazawazawa)
