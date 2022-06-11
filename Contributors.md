@@ -251,6 +251,7 @@ Harshit Rai
 - [secondary-smiles](https://github.com/secondary-smiles)
 - [Steve Behm](https://github.com/SteveBehm)
 - [Abhay](https://github.com/abhay1704)
+- [WWiet]
 - [Wikignometry] (https://github.com/Wikignometry)
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Dianne Corpuz] (https://github.com/corpzbrideee02)
