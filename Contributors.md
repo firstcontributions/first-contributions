@@ -7467,5 +7467,6 @@ Lee Drennan
 - [skradle](https://github.com/skradle)
 - [AimLow](https://github.com/AimLow-SMM)
 - [Asya](https://github.com/asyasusen)
+-[SNJS](https://github.com/soniasyed)
 - [RoLeN1984](https://github.com/RoLeN1984)
 <!-- prettier-ignore-end -->
