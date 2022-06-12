@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Purnima Kumar](https://github.com/Purnima-1)
+- [Jason Jia](https://github.com/jasonjiajs)
 - [Ali Rihan](https://github.com/a13r1)
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [Sean Chua](https://github.com/SeansC12)
