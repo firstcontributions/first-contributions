@@ -42,6 +42,7 @@
 - [Addison] (https://github.com/ag4423)
 - [Chhetri](https://github.com/chhetri28)
 - [Amanda W] (https://github.com/Laptop-Salad)
+- [Akshay Kalbhor - atkalbhor] (https://github.com/akshay-kalbhor)
 - [Thomas]
 - [Rutul Amin](https://github.com/rutul24591)
 - [Catalin Petrovici](https://github.com/catalinpetrovici24)
