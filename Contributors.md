@@ -1195,7 +1195,7 @@ Aneesh Chavan
 - [Keshava kommaraju](https://github.com/k3shav17)
 - [Rodrigo Viano](https://github.com/rviano96/rviano96/)
 - [Snapre](https://github.com/snapre)
-- [Priyanka Rose](https://github.com/RoseVZ)
+- [Priyanka Rose Varghese](https://github.com/RoseVZ)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
 - [goobric aka Mikal] (https://github.com/goobric
 - [Molly Vanessa] (https://github.com/molly460)
