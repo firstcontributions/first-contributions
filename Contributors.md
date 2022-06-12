@@ -8,6 +8,7 @@
 - [Sean Chua](https://github.com/SeansC12)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
+- [Monu Neolia](https://github.com/neolia-monu)
 - [Melvin Ng](https://github.com/melvincwng)
 - [Ashraful Alam] (https://github.com/ashraful-alam2k)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
