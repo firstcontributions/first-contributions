@@ -7462,4 +7462,5 @@ Duncan Ledesma
 - [Emma M](https://github.com/emmaclarem)
 - [skradle](https://github.com/skradle)
 - [AimLow](https://github.com/AimLow-SMM)
+- [Asya](https://github.com/asyasusen)
 <!-- prettier-ignore-end -->
