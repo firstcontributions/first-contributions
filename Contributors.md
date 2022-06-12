@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [Ali Rihan](https://github.com/a13r1)
