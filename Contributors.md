@@ -7417,6 +7417,7 @@ Duncan Ledesma
 - [Shuhaid Lambe](https://github.com/shuhaid)
 - [Justin Mai](https://github.com/JustinM2250)
 - [Michael Mederos](https://github.com/mikemederos)
+- [Happy David](https://github.com/happy-david)
 - [JunKe Li](https://github.com/randolph555)
 - [Vyacheslav Shkarubskiy] (https://github.com/shkarubskiy)
 - [Deepak Gupta](https://github.com/guptadeepak8)
