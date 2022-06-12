@@ -2537,6 +2537,7 @@ Heng Sun
 Nathalie Bonin
 - Jack Wu
 - Lorenzo Fratini
+- miloje357
 - [CJ Lawson](https://github.com/CJLawson-design)
 - [Eddie-ZQ] (https://github.com/Eddie-Zq)
 - [casperera] (https://github.com/casperera)
