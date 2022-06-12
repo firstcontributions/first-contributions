@@ -26,6 +26,7 @@
 - [Shubh](https://github.com/imshubh69)
 - [DeIn221](https://github.com/DeIn221)
 - [ranemirus]
+- [Lin Lin] (http://github.com/linsquared)
 - [ddak22] (https://github.com/ddak22)
 - [Suhas Gumma]  (https://github.com/suhasgumma)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
