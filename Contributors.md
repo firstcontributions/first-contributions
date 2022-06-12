@@ -45,6 +45,7 @@
 - [Akshay Kalbhor - atkalbhor] (https://github.com/akshay-kalbhor)
 - [Thomas]
 - [Rutul Amin](https://github.com/rutul24591)
+- [Shivam Singh](https://github.com/shivamsinghydv)
 - [Catalin Petrovici](https://github.com/catalinpetrovici24)
 - [PeterLiu] (https://github.com/Peterliu8368)
 - [Alphonsus Okoli](https://github.com/alphamanium)
