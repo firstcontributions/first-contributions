@@ -3047,7 +3047,7 @@ add jerry404lee
 - [Rolbin](https://github.com/thenoveltyseeker)
 - [Aitor Mateu](https://github.com/Nokocchi93)
 - [David Michael](https://github.com/davelearning)
-- [Kevin H](https://github.com/khallslearn)
+- [Kevin Halls](https://github.com/khallslearn)
 - [Avi B](https://github.com/inspiringsource)
 - [Graeme Chambers](https://github.com/graeme-chambers)
 - [Robert West](https://github.com/rolewest)
