@@ -473,6 +473,7 @@ Nicholaus Michael
 - [Duncan](https://github.com/dskilton)
 - [Andrew Babilonia](https://github.com/FLAIVIINGO)
 - [Karen](https://github.com/Limebee)
+- [Haleema Khan](https://github.com/hsadia538)
 - [Nicolas](https://github.com/nnicolasg)
 - [Jesus G Jara](https://github.com/jesusgjara)
 - [Fazil Raja](https://github.com/fazilraja)
