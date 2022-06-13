@@ -7489,4 +7489,5 @@ Lee Drennan
 - [NewDawnFades21](https://github.com/NewDawnFades21)
 - [Ankit Singh Kandari](https://github.com/ankitkandari)
 - [Ibrahim Esseddyq](https://github.com/ibrahimesseddyq)
+- [Pearl Akpan](https://github.com/pearlsky)
 <!-- prettier-ignore-end -->
