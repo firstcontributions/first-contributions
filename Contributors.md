@@ -3777,6 +3777,7 @@ Aditya Agarwal
 - [Sridhar Maskeri](https://github.com/floating-dynamo)
 - [Simon Wild](https:/github.com/admsmw)
 - [workingkolenko]
+- [Dariusz Jendryczka](https://github.com/DJendryczka)
 - [Arash](https://github.com/SinaDashti)
 - [Andy](https://github.com/andy814/)
 - [Andy Daubner](https://github.com/AX-11)
