@@ -23,8 +23,8 @@ e.g. :
 `=======`: Indicates the break point used for comparison. Breaks up changes that user has committed (above) to changes coming from merge (below) to visually see the differences.  
 `>>>>>>>`: Indicates the end of the lines that had a merge conflict.  
 
-You resolve a conflict by editing the file and then manually merging the parts of the file that git had trouble merging. This may mean discarding either your changes or someone else's or going ahead with a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
-
+You resolve a conflict by editing the file and then manually merging the parts of the file that git had troubled merging. This may mean discarding either your changes or someone else's or going ahead with a mix of the two. You will also need to delete the '<<<<<<<', '=======', and '>>>>>>>' in the file.
+how to edit the file? is by deleting the lines that are edited or removed from your last edit on your project and also delete the signs  '<<<<<<<' and '=======' and '>>>>>>>' and then press on mark as resolved button
 
 Once you have resolved the conflict do a `git add`. Do not forget to run the tests, as you have to make sure that you have resolved the conflict.
 
@@ -33,3 +33,13 @@ You can also download different plugins depending on the IDE you are using for a
 
 # How to undo a merge?
 If you want to undo a merge then you can do `git merge —abort`
+
+One of the best aspects about Git is that you can undo virtually anything.You can use the git reset command to return to the revision before the merge, thereby effectively undoing it:
+$ git reset --hard <commit-before-merge>
+
+If you don't have the hash of the commit before the merge at hand, you can also use the following variation of the command:
+$ git reset --hard HEAD~1
+
+using "HEAD~1", you're telling Git to go back to the commit before the current HEAD revision — which should be the commit before the merge!
+
+Please note that, in both cases, we need to use the "--hard" option. This means that any local changes in your Working Copy will be discarded; if you have valuable uncommitted changes, be sure to use git stash before.
