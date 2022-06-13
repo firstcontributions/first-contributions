@@ -5256,6 +5256,7 @@ Himanshu Dedha
 - [Antonius Copeland](https://github.com/letyoursoulglo)
 - [Clemens Schuetz](https://github.com/somekindofpanem)
 - [Gabou](https://github.com/Gabou)
+- [Remi Ajagbe](https://github.com/remajabs)
 - [Daniel Lee](https://github.com/danyollee)
 - [Thiago Reschützegger](https://github.com/ThiagoReschutzegger)
 - [Watson Tang](https://github.com/tyanbiao)
