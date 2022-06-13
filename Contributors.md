@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Nur Hamid](https://github.com/nurhamidqq)
+- [Mahaveer Jain](https://github.com/mahaveer82)
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
