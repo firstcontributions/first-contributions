@@ -186,6 +186,7 @@ Harshit Rai
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Sharad Arora](https://github.com/Sharad910)
 - [Ahmed Zougari](https://github.com/zougari47)
+- [Daniel Gaerber](https://github.com/Gandagorn)
 - [dbsaw](https://github.com/dbsaw)
 [rukyr97](https://github.com/rukyr97)
 - [kajetanc] (https://github.com/kajetanc)
