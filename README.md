@@ -157,6 +157,11 @@ Push your changes using the command `git push`:
 ```
 git push origin <add-your-branch-name>
 ```
+OR if this gives you a fatal error, try
+
+```
+git push --set-upstream origin <add-your-branch-name>
+```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
