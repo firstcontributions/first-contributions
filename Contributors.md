@@ -923,6 +923,7 @@ Vedant Borkar
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Fran]
+- [kundelguz]
 - [Pavan](https://github.com/pavan2108)
 - [Chrispy]
 - Hamdan Salih
