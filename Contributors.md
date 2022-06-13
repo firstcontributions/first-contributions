@@ -174,6 +174,7 @@ Harshit Rai
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
 - [Halil Bulut](https://github.com/Hellin1)
+- Diego Clavijo(https://github.com/dncx97)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
 - [Tim Leung](https://github.com/timleungtech)
