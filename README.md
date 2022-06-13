@@ -159,7 +159,7 @@ git push origin <add-your-branch-name>
 ```
 
 OR if this gives you a fatal error;
-`error: failed to push some refs to 'https://github.com/PEvansik/first-contributions.git'`
+> `error: failed to push some refs to 'https://github.com/PEvansik/first-contributions.git'`
 
 try
 ```
