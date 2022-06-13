@@ -7483,4 +7483,5 @@ Lee Drennan
 - [RoLeN1984](https://github.com/RoLeN1984)
 - [NewDawnFades21](https://github.com/NewDawnFades21)
 - [Ankit Singh Kandari](https://github.com/ankitkandari)
+- [Ibrahim Esseddyq](https://github.com/ibrahimesseddyq)
 <!-- prettier-ignore-end -->
