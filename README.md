@@ -157,8 +157,11 @@ Push your changes using the command `git push`:
 ```
 git push origin <add-your-branch-name>
 ```
-OR if this gives you a fatal error, try
 
+OR if this gives you a fatal error;
+`error: failed to push some refs to 'https://github.com/PEvansik/first-contributions.git'`
+
+try
 ```
 git push --set-upstream origin <add-your-branch-name>
 ```
