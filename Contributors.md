@@ -28,6 +28,7 @@
 - [Abraham Han] (https://github.com/ahan15)
 - [spacerschoice] (https://github.com/spacerschoice)
 - [Shubh](https://github.com/imshubh69)
+- [Hugo Guilherme] (https://github.com/hugomilesi)
 - [DeIn221](https://github.com/DeIn221)
 - [ranemirus]
 - [Lin Lin] (http://github.com/linsquared)
