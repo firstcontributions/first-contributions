@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Mahaveer Jain](https://github.com/mahaveer82)
 - [Vivian Arevalo](https://github.com/vivian-mca)
