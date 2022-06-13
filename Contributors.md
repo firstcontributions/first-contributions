@@ -6994,6 +6994,7 @@ Michael Wong
 - [Brian Reville] (https://github.com/brianreville)
 - [A N] (https://github.com/aan)
 - [Sreelakshmi PP] (https://github.com/ppsree01)
+- [Manar Alzoubi](https://github.com/Manar-Alzoubi/)
 - [Hugo Tiburcio] (https://github.com/tiburciohugo)
 - [Tim Honchel] (https://github.com/tim-honchel)
 - [Optimops](https://github.com/Optimops)
