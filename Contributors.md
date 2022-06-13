@@ -7472,7 +7472,8 @@ Lee Drennan
 - [skradle](https://github.com/skradle)
 - [AimLow](https://github.com/AimLow-SMM)
 - [Asya](https://github.com/asyasusen)
--[SNJS](https://github.com/soniasyed)
+- [SNJS](https://github.com/soniasyed)
 - [RoLeN1984](https://github.com/RoLeN1984)
 - [NewDawnFades21](https://github.com/NewDawnFades21)
+- [Ankit Singh Kandari](https://github.com/ankitkandari)
 <!-- prettier-ignore-end -->
