@@ -161,6 +161,7 @@
 - [Sunny Hemdev](https://github.com/sunny151091/)
 - [Isaiah Cooper] (https://github.com/Explainin)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
+- [Bolaji Motayo](https://github.com/Bolaji-Motayo)
 - [Vishesh Goyal](https://github.com/vishesh011) [Vinaya Datta](https://github.com/vinaya-datta/) [Alisa Owens](https://github.com/alisaowens)
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
