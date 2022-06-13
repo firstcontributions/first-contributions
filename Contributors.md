@@ -6,6 +6,7 @@
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
+- [Cole Robinson](https://github.com/Col-R)
 - [Ali Rihan](https://github.com/a13r1)
 - [Ala Mohammad](https://github.com/AlaaYlula)  
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
