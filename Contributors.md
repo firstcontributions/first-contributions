@@ -354,6 +354,7 @@ Nicholaus Michael
 - [Kim Fom](https://github.com/kimfom01)
 - [Christian L](https://github.com/weir99)
 - [Kirstie Hayes](https://github.com/epixieme)
+- [Brandon Bode](https://github.com/BBode11)
 - [Chijioke Ubajaka](https://github.com/UbajakaCJ)
 - [martelro](https://github.com/martelro)
 - [Mohammed-Thahseen]
