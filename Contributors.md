@@ -730,6 +730,7 @@ Nicholaus Michael
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Dhanush Suvarna](https://github.com/Dhanush-git)
 - [Shrey](https://github.com/shreykinshu)
+- [Aman Tripathi](https://github.com/aman-at8)
 - [electroNBS](https://github.com/electroNBS)
 - [Dhruv Mittal](https://github.com/d14mittal)
 - [Rhett G](https://github.com/rhettg28)
