@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Somenath Ghosh](https://github.com/somenathghosh04)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Filip Telente](https://github.com/aminta5)
 - [Nur Hamid](https://github.com/nurhamidqq)
