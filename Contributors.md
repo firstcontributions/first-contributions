@@ -174,6 +174,7 @@
 - [Joshi Bhavya](https://github.com/Bhavya0304)
 - [Bolaji Motayo](https://github.com/Bolaji-Motayo)
 - [Vishesh Goyal](https://github.com/vishesh011) [Vinaya Datta](https://github.com/vinaya-datta/) [Alisa Owens](https://github.com/alisaowens)
+- [Donald Lv](https://github.com/SpadeInTheDirt)
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 Harshit Rai
