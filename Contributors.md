@@ -7500,4 +7500,5 @@ Lee Drennan
 - [Ibrahim Esseddyq](https://github.com/ibrahimesseddyq)
 - [Pearl Akpan](https://github.com/pearlsky)
 - [Hun Liang](https://github.com/fractaloffugue)
+- [thinhntr](https://github.com/thinhntr)
 <!-- prettier-ignore-end -->
