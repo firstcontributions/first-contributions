@@ -1869,6 +1869,7 @@ Zack Bryant
 - [Julia Maehler](https://github.com/jmaehler)
 - [Sylvanus Etim](https://github.com/iamprincesly)
 - [Jorge Ciprián](https://github.com/JorgeFCS)
+- [Laith Al.](https://github.com/laith-alayassa)
 - [Mayank Tyagi](https://github.com/mayanktyagi1709)
 - [Max Chan He Tek](https://github.com/mcht1123)
 - [Mahmoud Ganaini](https://github.com/Ganaini)
