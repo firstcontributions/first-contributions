@@ -10,6 +10,7 @@
 - [Jason Jia](https://github.com/jasonjiajs)
 - [Cole Robinson](https://github.com/Col-R)
 - [Ali Rihan](https://github.com/a13r1)
+- [Wairimu Ian](https://github.com/wairimu-ian)
 - [Ala Mohammad](https://github.com/AlaaYlula)  
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [Sean Chua](https://github.com/SeansC12)
