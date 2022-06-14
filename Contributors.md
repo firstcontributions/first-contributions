@@ -408,6 +408,7 @@ Nicholaus Michael
 - [Faiz Kasman](https://github.com/ryzncodes)
 - [JT]
 - [Justin Lewman]
+- [Tiffany Huang]
 - [Dominic Bell](https://github.com/dobell733)
 - [ilikerice]
 - [adelevett](https://github.com/adelevett)
