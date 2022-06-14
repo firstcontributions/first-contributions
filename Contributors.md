@@ -3291,6 +3291,7 @@ yejashi
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
+- [Triss Marsh](https://github.com/distriss)
 - [Sebastian Neumeier](https://github.com/test123-all)
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)
