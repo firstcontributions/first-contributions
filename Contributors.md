@@ -7518,4 +7518,5 @@ Stephen kihuni
 - [Pearl Akpan](https://github.com/pearlsky)
 - [Hun Liang](https://github.com/fractaloffugue)
 - [thinhntr](https://github.com/thinhntr)
+- [Marcos Chalet](https://github.com/marcosChalet)
 <!-- prettier-ignore-end -->
