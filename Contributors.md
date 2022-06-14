@@ -79,6 +79,7 @@
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Julian Elmasry] (https://github.com/julian31186)
+- [Setki Fejsko] (https://github.com/SetkiF)
 - [Niels Brons] (https://github.com/NielsBrons)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
