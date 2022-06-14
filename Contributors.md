@@ -597,6 +597,7 @@ Nicholaus Michael
 - [ThomasMThoppil](https://github.com/ThomasMThoppil)
 - [Wizard-F](https://github.com/Wizard-F)
 - [Kenny-Simpson](https://github.com/KNJI-Web-Creations)
+- [Pawel K] (https://github.com/Pawelk1000)
 - [Rachelle](https://github.com/jollypolly123)
 - [Pratik Mali](https://github.com/impratik7)
 - [Aaron](https://github.com/FlakTotem/)
