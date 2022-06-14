@@ -7519,4 +7519,5 @@ Stephen kihuni
 - [Hun Liang](https://github.com/fractaloffugue)
 - [thinhntr](https://github.com/thinhntr)
 - [Marcos Chalet](https://github.com/marcosChalet)
+- [Iago Saito](https://github.com/iagosaito)
 <!-- prettier-ignore-end -->
