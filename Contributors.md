@@ -3000,6 +3000,7 @@ yejashi
 - [Lindsay Shelton](https://github.com/lsheltonSTO)
 - [Katarina VC](https://github.com/katarina-vc)
 - [Darshan Damre](https://github.com/darshandamre)
+- [Semih Berkay Öztürk](https://github.com/semihberkayozturk)
 - [Manendar Verma](https://github.com/mverma45)
 - [Leevi Holmström](https://github.com/EnlightedNot)
 - [Tadas Maslauskas](https://github.com/maslauskas)
