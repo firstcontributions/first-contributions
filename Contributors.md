@@ -38,6 +38,7 @@
 - [ddak22] (https://github.com/ddak22)
 - [Suhas Gumma]  (https://github.com/suhasgumma)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
+- [Ahmed Nasr](https://github.com/NotAhmedNasr)
 - [Aakrut Dabhi] (https://github.com/Aakrut)
 - [rbih-boulanouar] (https://github.com/rbih-boulanouar)
 - [Sourabh Patel](https://github.com/getmeapencil)
