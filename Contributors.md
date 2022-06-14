@@ -155,6 +155,7 @@
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
   [Harshit Verma]
+- [Mårten Sjöberg](https://github.com/tikktakk79)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [Francisca Suarez](https://github.com/franciisca)
 - [Eman Hassan] (https://github.com/emanhassan2020)
