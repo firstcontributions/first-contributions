@@ -607,6 +607,7 @@ Nicholaus Michael
 - [Dipankur](https://github.com/dipankurverma)
 - [ThomasMThoppil](https://github.com/ThomasMThoppil)
 - [Wizard-F](https://github.com/Wizard-F)
+- [Suyash](https://github.com/Gsuyash20)
 - [Kenny-Simpson](https://github.com/KNJI-Web-Creations)
 - [Pawel K] (https://github.com/Pawelk1000)
 - [Rachelle](https://github.com/jollypolly123)
