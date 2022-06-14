@@ -13,6 +13,7 @@
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [Sean Chua](https://github.com/SeansC12)
 - [Aenq](https://github.com/aenq)
+- [Josue Chavez](https://github.com/chjosue80)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
 - [Monu Neolia](https://github.com/neolia-monu)
