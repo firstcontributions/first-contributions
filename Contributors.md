@@ -405,6 +405,7 @@ Nicholaus Michael
 - [Anay Mody](https://github.com/anaymody)
 - [Faiz Kasman](https://github.com/ryzncodes)
 - [JT]
+- [Justin Lewman]
 - [Dominic Bell](https://github.com/dobell733)
 - [ilikerice]
 - [adelevett](https://github.com/adelevett)
