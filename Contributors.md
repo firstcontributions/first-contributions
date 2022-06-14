@@ -314,6 +314,7 @@ Nicholaus Michael
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Luna Bean](https://github.com/Luna-Bean)
+- [Duc Dong](https://github.com/ducdongmg)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Namit Saxena](https://github.com/oddball1123)
