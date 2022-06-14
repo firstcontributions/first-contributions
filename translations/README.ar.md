@@ -25,7 +25,7 @@
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
-## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+## <div dir="rtl"> تشعب من هذا المشروع - Fork this Repository </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
 افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
@@ -171,6 +171,38 @@ git push origin master
 
 <div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> اسمه <code>origin</code>.</div>
 <br>
+</div>
+
+
+<div dir="rtl">
+
+## الى أين الان؟
+</div>
+
+<div dir="rtl">مبروك! لقد قمت بعمل سير العمل: تشعب ‫-‬> استنساخ ‫-‬> تعديل ‫-‬> طلب-سحب الذي ستواجهه كثيرًا كمساهم! 
+</div>
+<br>
+
+<div dir="rtl">
+احتفل بمساهمتك وشاركها مع أصدقائك ومتابعيك بالانتقال إلى <a href='https://firstcontributions.github.io/#social-share'> تطبيق الويب. </a>
+</div>
+<br>
+
+<div dir="rtl">
+ يمكنك الانضمام إلى فريق Slack في حال احتجت إلى أي مساعدة أو لديك أي أسئلة. <a href='https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA'> انضم الى فريق سلاك Slack </a>
+
+ 
+</div>
+<br>
+
+<div dir="rtl">
+لنبدأ الآن بالمساهمة في مشاريع أخرى. لقد قمنا بجمع قائمة مشاريع فيها مشاكل سهلة يمكنك البدء فيها. <a href='https://firstcontributions.github.io/#project-list'> تحقق من قائمة المشاريع في تطبيق الويب.
+ </a>
+
+</div>
+<br>
+ 
+
 
 ## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
 
