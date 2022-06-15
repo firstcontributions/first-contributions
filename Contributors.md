@@ -610,6 +610,7 @@ Nicholaus Michael
 -[Sandeep Kumar Rai]
 - [Maria Alexis Sales](https://github.com/AlexisSales)
 - [Alex]
+- [Jeffrey Bender](https://github.com/jeffreybender)
 - [Jeff]
 - [Sai Anoop Avunuri](https://github.com/ExtraneousFalcon)
 - [yamatonao](https://github.com/yamatonao)
