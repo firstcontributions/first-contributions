@@ -187,6 +187,7 @@
 - [Donald Lv](https://github.com/SpadeInTheDirt)
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
+- [Csanad Balla](https://github.com/Csanad-Balla)
 Harshit Rai
 - [Cecilia Sun] (https://github.com/CeciliaRuiSun)
 - [Shivam Patel](https://github.com/Shivam1111111)
