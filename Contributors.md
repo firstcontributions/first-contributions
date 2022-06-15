@@ -17,6 +17,7 @@
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [Godswill Omonkhodion](https://github.com/Owillz01)
 - [Sean Chua](https://github.com/SeansC12)
+- [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Khai Nguyen](https://github.com/xkhainguyen)
