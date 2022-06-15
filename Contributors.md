@@ -37,6 +37,7 @@
 - [Thanh Hoan](https://github.com/thanhhoann)
 - [chewbacca234] (https://github.com/chewbacca234)
 - [tiklup11] (https://github.com/tiklup11)
+- [chinarjoshi] (https://github.com/chinarjoshi)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
 - [Abraham Han] (https://github.com/ahan15)
 - [spacerschoice] (https://github.com/spacerschoice)
