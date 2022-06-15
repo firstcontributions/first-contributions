@@ -7523,4 +7523,5 @@ Stephen kihuni
 - [thinhntr](https://github.com/thinhntr)
 - [Marcos Chalet](https://github.com/marcosChalet)
 - [Iago Saito](https://github.com/iagosaito)
+- [Ben Nguyen](https://github.com/BenVN123)
 <!-- prettier-ignore-end -->
