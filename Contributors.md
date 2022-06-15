@@ -7,7 +7,7 @@
 - [ANKESH](https://github.com/Ankesh054-official)
 - [Mahmoud Aldinah](https://github.com/Mahmoud-Dinah)
 - [Omotosho Joseph](https://github.com/JOSEPHOMOTOSHO)
-- [Nayzaw Minnaing](https://github.com/ahnge)
+- [Ahnge](https://github.com/ahnge)
 - [Rohit Roshan](https://github.com/ROHIT-ROSHAN)
 - [Avery Caulfield](https://github.com/metaEthics)
   [Chad McCarthy](https://github.com/chadmcc-1)
