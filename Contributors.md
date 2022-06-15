@@ -524,6 +524,7 @@ Nicholaus Michael
 - [Utmost Re](https://github.com/utmostre)
 - [Mohit](https://github.com/13AMohit)
 - [Abhimanyu](https://github.com/Abhimanyudev7)
+- [Umar Abdullah](https://github.com/UmxrAbdullxh)
 - [Raymond](https://github.com/raymondariwoola)
 - [Casalcuin Crow](https://github.com/alcuincrow)
 - [Syed Amaan]
