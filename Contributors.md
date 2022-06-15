@@ -7547,4 +7547,5 @@ Stephen kihuni
 - [Delete020](https://github.com/Delete020)
 - [Praneeth Bandi](https://github.com/Pranteloupe)
 - [Amir Fatemi](https://github.com/amir2520)
+- [Marie Luongo](https://github.com/marie-lu)
 <!-- prettier-ignore-end -->
