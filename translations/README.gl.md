@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,7 +9,7 @@
 
 Ler artículos e ver titoriais pode axudar, pero ¿que haberá mellor que facer as cousas nunha contorna pensada para practicar? Iste proxecto enfócase en prover unha guía e en simplificar o xeito no que os novatos fan a súa primeira contribución. Lembra que mentres máis relaxado esteas, mellor aprenderás. Se queres facer a túa primeira contribución só tés que seguir os sinxelos pasos que se amosan a continuación. E prometémosche que será entretido.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de éste repositorio" />
 
 Se aínda non tés git na túa máquina, [ instálao ]( https://help.github.com/articles/set-up-git/ )
 
@@ -20,7 +20,7 @@ Isto creará unha copia deste repositorio na túa conta.
 
 ## Clona(*Clone*) o repositorio
 
-<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
 A continuación clona este repo no teu equipo. Fai click no botón "*Clone*" e despois na icona para copiar ó portapapeis (clipboard)
 
@@ -31,7 +31,7 @@ git clone "url que copiache"
 ```
 Onde "url que copiache" (sen as comiñas) é a url  deste repositorio. Mira os pasos previos para obter a url.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL a clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL a clipboard" />
 
 Por exemplo:
 ```
@@ -85,11 +85,11 @@ cambiando `<engade-o-teu-nome>` polo nome da branch que creaches antes.
 
 Se vas ó teu repositorio en GitHub, verás un botón `Compare & pull request`. Fai click nese botón:
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="crea unha pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea unha pull request" />
 
 Agora crea e envía a pull request:
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="sube a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="sube a pull request" />
 
 Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxecto. Recibirás unha notificación por correo cando os cambios xa estean mesturados.
 
@@ -98,7 +98,7 @@ Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxe
 ## Titoriais con outras ferramentas
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
