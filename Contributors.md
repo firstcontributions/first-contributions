@@ -195,6 +195,7 @@ Harshit Rai
 - [Shivam Patel](https://github.com/Shivam1111111)
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
+- [Furkan Kir](https://github.com/furkankir)
 - [Halil Bulut](https://github.com/Hellin1)
 - Diego Clavijo(https://github.com/dncx97)
 - [Joel Tony](https://github.com/jay-tau)
