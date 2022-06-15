@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Robby G]
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Filip Telente](https://github.com/aminta5)
