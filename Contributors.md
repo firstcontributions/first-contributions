@@ -75,6 +75,7 @@
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Nabil Noh](https://github.com/mrnabilnoh)
+- [Alfonso Serediti]
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Don S Jr] (https://github.com/clefbassman)
 - [Chirag sharma] (https://github.com/chiragksharma)]
