@@ -10,6 +10,7 @@
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
+- [Daniel Page](https://github.com/Daniel-Page)
 - [Cole Robinson](https://github.com/Col-R)
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
