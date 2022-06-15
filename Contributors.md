@@ -1,4 +1,4 @@
-  # **Contributors**
+﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [Robby G]
@@ -7545,4 +7545,5 @@ Stephen kihuni
 - [Monish Soni](https://github.com/sonimonish00)
 - [Delete020](https://github.com/Delete020)
 - [Praneeth Bandi](https://github.com/Pranteloupe)
+- [Amir Fatemi](https://github.com/amir2520)
 <!-- prettier-ignore-end -->
