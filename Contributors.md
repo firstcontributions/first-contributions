@@ -7530,4 +7530,5 @@ Stephen kihuni
 - [Iago Saito](https://github.com/iagosaito)
 - [Ben Nguyen](https://github.com/BenVN123)
 - [Anup Kewat](https://github.com/anupkewat)
+- [Tom Middleditch](https://github.com/Tomstar2000)
 <!-- prettier-ignore-end -->
