@@ -7540,4 +7540,5 @@ Stephen kihuni
 - [Maharshi Basu](https://github.com/MashyBasker)
 - [Monish Soni](https://github.com/sonimonish00)
 - [Delete020](https://github.com/Delete020)
+- [Praneeth Bandi](https://github.com/Pranteloupe)
 <!-- prettier-ignore-end -->
