@@ -7482,6 +7482,7 @@ Duncan Ledesma
 - [Erin Patterson](https://github.com/atttp)
 - [YingHuaYvLuo](https://github.com/YingHuaYvLuo)
 - [lidor4x4](https://github.com/lidor4x4)
+- [Bruc3Had](https://github.com/Bruc3Had)
 - [Zahid Khan](https://github.com/ZFK07)
 - [Orgregar](https://github.com/orgregar)
 - [Qianpeng Li](https://github.com/QianpengLi577)
