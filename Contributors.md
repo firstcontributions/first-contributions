@@ -70,6 +70,7 @@
 - [Amanda W] (https://github.com/Laptop-Salad)
 - [Akshay Kalbhor - atkalbhor] (https://github.com/akshay-kalbhor)
 - [Thomas]
+- [Brandon Ingram] (https://github.com/Bingram22)
 - [Rutul Amin](https://github.com/rutul24591)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Catalin Petrovici](https://github.com/catalinpetrovici24)
