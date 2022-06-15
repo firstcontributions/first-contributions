@@ -7510,6 +7510,7 @@ Duncan Ledesma
 - [Mohit Dhule](https://github.com/mohit564)
 - [Juan Pablo Isaza](https://github.com/jisazamp)
 - [Shivani Sharma](https://github.com/Shivani-1611)
+- [Kay Wu Quoc] 
 - [Stephen Brink](https://github.com/stephenb101010)
 - [Eric Wu](https://github.com/dumplingman0403)
 - [Adrian Czerwinski](https://github.com/AdrianCzerwinski)
