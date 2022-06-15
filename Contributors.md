@@ -7537,4 +7537,5 @@ Stephen kihuni
 - [Tom Middleditch](https://github.com/Tomstar2000)
 - [Mayukhdeep Mathur](https://github.com/mayukhdeep12)
 - [Maharshi Basu](https://github.com/MashyBasker)
+- [Delete020](https://github.com/Delete020)
 <!-- prettier-ignore-end -->
