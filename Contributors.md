@@ -1019,6 +1019,7 @@ Aneesh Chavan
 - [Antony Otero](https://github.com/antonyotero)
 - [Majid Zahedi](https://github.com/majidzahedi)
 - [Enri](https://github.com/anaverage-enri)
+- [7w1](https://github.com/7w1)
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn)
 - [Juan Reyna III] (https://github.com/Juanreyna3)
