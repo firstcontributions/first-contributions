@@ -124,6 +124,7 @@
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Kapil Baser]
 - [Nabil Noh](https://github.com/mrnabilnoh)
+- [Alfonso Serediti]
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Don S Jr] (https://github.com/clefbassman)
 - [Chirag sharma] (https://github.com/chiragksharma)]
