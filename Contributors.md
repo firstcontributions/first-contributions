@@ -4383,6 +4383,7 @@ Himanshu Dedha
 - [Vedant Gokhale](https://github.com/gokhalevedant06)
 - [Saharsh Laud](github.com/SaharshLaud)
 - [Solomon G](github.com/soulsolomon)
+- [Dan Pugsley](https://github.com/dan-pugsley)
 - [Sawix](https://github.com/Sawix)
 - [Ira](https://github.com/irapandey)
 - [Jspine01](https://github.com/jspine01)
