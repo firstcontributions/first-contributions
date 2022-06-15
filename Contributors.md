@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Robby G]
--[Akash Jaiswal](https://github.com/akashjaiswal797112)
+-[PSA](https://github.com/PyaeSoneAung877)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [invalid](https://github.com/whoisYoges)
