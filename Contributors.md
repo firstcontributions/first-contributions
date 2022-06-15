@@ -7524,4 +7524,5 @@ Stephen kihuni
 - [Marcos Chalet](https://github.com/marcosChalet)
 - [Iago Saito](https://github.com/iagosaito)
 - [Ben Nguyen](https://github.com/BenVN123)
+- [Anup Kewat](https://github.com/anupkewat)
 <!-- prettier-ignore-end -->
