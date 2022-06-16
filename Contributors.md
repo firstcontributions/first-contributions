@@ -5,6 +5,7 @@
 - [Robby G]
 - [Ashley-Chen](https://github.com/ashlchen)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
+- [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Abiodun Adefila](https://github.com/adefaze)
