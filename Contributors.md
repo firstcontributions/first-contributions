@@ -1,8 +1,11 @@
 ﻿  # **Contributors**
 
+
 <!-- prettier-ignore-start -->
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
+- [Himanshu Tiwari](https://github.com/ozymandias9876)
+- [Himanshu Tiwari](https://github.com/ozymandias9876)
 -[Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
