@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
 -[Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
