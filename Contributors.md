@@ -1606,6 +1606,7 @@ Christopher K Calahan Jr
 - [Gilberto Valadares] (https://github.com/gilbertomavs/gilbertomavs)
 - [Haaris Khatri](https://github.com/haariskhatri)
 - [Matthew Chin](https://github.com/matthewjchin)
+- [Frank Sitawa](https://github.com/franksitawa)
 - [Annesh Samanta](https://github.com/annesh08)
 - [Gilberto Almeida](https://github.com/gilbertoalmeida)
 - [Gustav Alerby](https://github.com/gbyx3)
