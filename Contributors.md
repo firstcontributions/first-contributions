@@ -5347,6 +5347,7 @@ Himanshu Dedha
 - [Chris](https://github.com/ChrisHaslam93)
 - [Michael](https://github.com/Michael3161010)
 - [Amelia](https://github.com/AmeliaGryffon)
+- [Dan](https://github.com/D4NZ-jpg)
 - [kiwidreamz](https://github.com/kiwidreamz)
 - [Sanchit Saxena](https://github.com/Sanshx)
 - [Vibha N] (https://github.com/readroamwrite)
