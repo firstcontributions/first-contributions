@@ -103,6 +103,7 @@
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Setki Fejsko] (https://github.com/SetkiF)
 - [Niels Brons] (https://github.com/NielsBrons)
+- [Cal Archer] (https://github.com/CalArcher)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [GAILLARD Germain] (https://github.com/gaillard-germain)
