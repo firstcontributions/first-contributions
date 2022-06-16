@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Tran-Quyen](https://github.com/Tran-Quyen)
 - [Robby G]
