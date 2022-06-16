@@ -7556,4 +7556,5 @@ Stephen kihuni
 - [Marie Luongo](https://github.com/marie-lu)
 - Just AmrG
 - [Mhamed Ajjig](https://github.com/Ajjig)
+- [Curtis Bowser](https://github.com/bwsrcurtis) 
 <!-- prettier-ignore-end -->
