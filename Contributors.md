@@ -36,6 +36,7 @@
 - [Aenq](https://github.com/aenq)
 - [Airsayy](https://github.com/AirSayy)
 - [Josue Chavez](https://github.com/chjosue80)
+- [Lorenzo jerumeh](https://github.com/LorenzoOyani)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
 - [Monu Neolia](https://github.com/neolia-monu)
