@@ -7568,5 +7568,6 @@ Stephen kihuni
 - Just AmrG
 - [Mhamed Ajjig](https://github.com/Ajjig)
 - [Curtis Bowser](https://github.com/bwsrcurtis) 
-- [mendelssohnbach](https://github.com/mendelssohnbach/) 
+- [mendelssohnbach](https://github.com/mendelssohnbach/)
+- DistronX 
 <!-- prettier-ignore-end -->
