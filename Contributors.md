@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
 - [Ashley-Chen](https://github.com/ashlchen)
