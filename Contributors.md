@@ -6,6 +6,7 @@
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
+- [Abiodun Adefila](https://github.com/adefaze)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
