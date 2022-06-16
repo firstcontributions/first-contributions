@@ -7555,4 +7555,5 @@ Stephen kihuni
 - [Amir Fatemi](https://github.com/amir2520)
 - [Marie Luongo](https://github.com/marie-lu)
 - Just AmrG
+- [Mhamed Ajjig](https://github.com/Ajjig)
 <!-- prettier-ignore-end -->
