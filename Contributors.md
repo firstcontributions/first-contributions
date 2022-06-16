@@ -288,6 +288,7 @@ Harshit Rai
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [5ynchronized](https://github.com/5ynchronizeD)
 - [Raj]
+- [Redekian](https://github.com/Redekian)
 - [ritik jain](https://github.com/RJ025)
 - [Ammar Azman]
 - [Kirk Corwin](https://github.com/KirkCorwin) 
