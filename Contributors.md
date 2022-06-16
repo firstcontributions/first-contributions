@@ -7,6 +7,7 @@
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
+- [Angela Johnson](https://github.com/angieloux)
 - [Filip Telente](https://github.com/aminta5)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [Nur Hamid](https://github.com/nurhamidqq)
