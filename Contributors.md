@@ -17,6 +17,7 @@
 - [Daniel Page](https://github.com/Daniel-Page)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
 - [Cole Robinson](https://github.com/Col-R)
+- [Zach Adkins](https://github.com/zaa94/)
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
 - [Ala Mohammad](https://github.com/AlaaYlula)
