@@ -7570,5 +7570,6 @@ Stephen kihuni
 - [Mhamed Ajjig](https://github.com/Ajjig)
 - [Curtis Bowser](https://github.com/bwsrcurtis) 
 - [mendelssohnbach](https://github.com/mendelssohnbach/)
+- [kuldeepsingh](https://github.com/Kdsingh333)
 - DistronX 
 <!-- prettier-ignore-end -->
