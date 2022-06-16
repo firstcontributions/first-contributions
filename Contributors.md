@@ -8,6 +8,7 @@
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
 - [Filip Telente](https://github.com/aminta5)
+- [Jarren Juan](https://github.com/JarrenJuan)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Mahaveer Jain](https://github.com/mahaveer82)
 - [Vivian Arevalo](https://github.com/vivian-mca)
