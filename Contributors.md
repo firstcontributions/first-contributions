@@ -949,6 +949,7 @@ Indra Sonowal
 - [Aavash Chhetri](https://github.com/A-atmos)
 - [Sumanth P]
 - [Jagmeet Singh]
+- [Nass Nass779]
 - [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc ](https://github.com/NiranjanNlc)
