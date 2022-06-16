@@ -34,6 +34,7 @@
 - [Sean Chua](https://github.com/SeansC12)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
+- [Airsayy](https://github.com/AirSayy)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
