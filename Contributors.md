@@ -5411,6 +5411,7 @@ Himanshu Dedha
 - [Adib Attie](https://github.com/dibsonthis)
 - [Dmego](https://github.com/dmego)
 - [Lcan](https://github.com/lcan520)
+- [Aswin Vishnu A](https://github.com/AswinVishnuA)
 - [Sooraj Sunil](https://github.com/soorajsunil1409)
 - [Karad](https://github.com/itsKarad)
 - [Robin Mark Oscar Gill](https://github.com/gillocodes1)
