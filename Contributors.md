@@ -7551,5 +7551,4 @@ Stephen kihuni
 - [Praneeth Bandi](https://github.com/Pranteloupe)
 - [Amir Fatemi](https://github.com/amir2520)
 - [Marie Luongo](https://github.com/marie-lu)
-- Just AmrG
 <!-- prettier-ignore-end -->
