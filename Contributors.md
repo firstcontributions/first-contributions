@@ -25,6 +25,7 @@
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
 - [Daniel Page](https://github.com/Daniel-Page)
+- [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
