@@ -44,6 +44,7 @@
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
 - [Monu Neolia](https://github.com/neolia-monu)
+- [Lekha Sathvik](https://github.com/dlsathvik04)
 - [Melvin Ng](https://github.com/melvincwng)
 - [Ashraful Alam] (https://github.com/ashraful-alam2k)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
