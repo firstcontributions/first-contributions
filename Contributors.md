@@ -102,6 +102,7 @@
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Marc Hamacek] (https://github.com/MarcHamacek)
+- [Xien Thomas] (https://github.com/Xien-Thomas)
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Setki Fejsko] (https://github.com/SetkiF)
 - [Niels Brons] (https://github.com/NielsBrons)
