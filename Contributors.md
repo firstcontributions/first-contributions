@@ -22,6 +22,7 @@
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
+- [ajsumo]
 - [Daniel Page](https://github.com/Daniel-Page)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
 - [Cole Robinson](https://github.com/Col-R)
