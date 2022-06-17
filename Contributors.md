@@ -216,6 +216,7 @@ Harshit Rai
 - [suin](https://github.com/suin-d)
 - [Furkan Kir](https://github.com/furkankir)
 - [Halil Bulut](https://github.com/Hellin1)
+- [Christine Lin](https://github.com/christinelin8)
 - Diego Clavijo(https://github.com/dncx97)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
