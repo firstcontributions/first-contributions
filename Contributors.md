@@ -2940,6 +2940,7 @@ yejashi
 - [abdelrhman azazy](https://github.com/Azazy1)
 - [Kyle Gibson](https://github.com/kgibsonprogramming)
 - [Gustavo Bastian](https://github.com/gustavobastian)
+- [Micah Galos](https://github.com/micahgalos)
 -[Martin Lever](https://github.com/MartinL551)
 - [Miika Rantalaiho](https://github.com/miikaran)
 - [Vikram Pratap Singh](https://github.com/VikramPratapSingh)
