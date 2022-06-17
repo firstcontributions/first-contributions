@@ -35,7 +35,9 @@
 - [Sean Chua](https://github.com/SeansC12)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
+- [Airsayy](https://github.com/AirSayy)
 - [Josue Chavez](https://github.com/chjosue80)
+- [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
 - [Monu Neolia](https://github.com/neolia-monu)
@@ -101,9 +103,11 @@
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Marc Hamacek] (https://github.com/MarcHamacek)
+- [Xien Thomas] (https://github.com/Xien-Thomas)
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Setki Fejsko] (https://github.com/SetkiF)
 - [Niels Brons] (https://github.com/NielsBrons)
+- [Cal Archer] (https://github.com/CalArcher)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [GAILLARD Germain] (https://github.com/gaillard-germain)
@@ -213,6 +217,7 @@ Harshit Rai
 - [suin](https://github.com/suin-d)
 - [Furkan Kir](https://github.com/furkankir)
 - [Halil Bulut](https://github.com/Hellin1)
+- [Christine Lin](https://github.com/christinelin8)
 - Diego Clavijo(https://github.com/dncx97)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
@@ -950,6 +955,7 @@ Indra Sonowal
 - [Aavash Chhetri](https://github.com/A-atmos)
 - [Sumanth P]
 - [Jagmeet Singh]
+- [Nass Nass779]
 - [Marques Sousa] (https://github.com/marquesmoreirasousa/)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc ](https://github.com/NiranjanNlc)
@@ -7547,6 +7553,7 @@ Stephen kihuni
 - [AimLow](https://github.com/AimLow-SMM)
 - [Asya](https://github.com/asyasusen)
 - [SNJS](https://github.com/soniasyed)
+-[lemon](https://github.com/Lefie)
 - [RoLeN1984](https://github.com/RoLeN1984)
 - [NewDawnFades21](https://github.com/NewDawnFades21)
 - [Ankit Singh Kandari](https://github.com/ankitkandari)
@@ -7570,4 +7577,7 @@ Stephen kihuni
 - [Mhamed Ajjig](https://github.com/Ajjig)
 - [Curtis Bowser](https://github.com/bwsrcurtis)
 - [mendelssohnbach](https://github.com/mendelssohnbach/)
+- [kuldeepsingh](https://github.com/Kdsingh333)
+- DistronX
+- [akhademigod](https://github.com/akhademigod)
 <!-- prettier-ignore-end -->
