@@ -110,6 +110,7 @@
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
+- [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
 - [Marc Hamacek] (https://github.com/MarcHamacek)
 - [Xien Thomas] (https://github.com/Xien-Thomas)
 - [Julian Elmasry] (https://github.com/julian31186)
