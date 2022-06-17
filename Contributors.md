@@ -56,6 +56,7 @@
 - [kanazawazawa](https://github.com/kanazawazawa)
 - [anelevo](https://github.com/Anelevo)
 - [Mohammed Shahul](https://github.com/mshahulpm)
+- [Michael Alls](https://github.com/mallsjr)
 - [Thanh Hoan](https://github.com/thanhhoann)
 - [chewbacca234] (https://github.com/chewbacca234)
 - [tiklup11] (https://github.com/tiklup11)
