@@ -7462,6 +7462,7 @@ Duncan Ledesma
 - [Codeand con Reyes](https://github.com/CarlosReyesM)
 - [Shuaib Ahmed](https://github.com/Shuaib-Ahmed)
 - [Mini-Sylar](https://github.com/Mini-Sylar)
+- [Rodrigo Amaral](https://github.com/ramaral11)
 - [Zhenyuan Lau](https://github.com/zhenyuanlau)
 - [Patricia Namoro](https://github.com/git-TAP)
 - [Grant Yang](https://github.com/gyangle)
