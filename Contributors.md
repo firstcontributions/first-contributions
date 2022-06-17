@@ -53,6 +53,7 @@
 - [tiklup11] (https://github.com/tiklup11)
 - [chinarjoshi] (https://github.com/chinarjoshi)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
+- [yohei-ito](https://github.com/yohei-ito)
 - [Abraham Han] (https://github.com/ahan15)
 - [spacerschoice] (https://github.com/spacerschoice)
 - [Shubh](https://github.com/imshubh69)
