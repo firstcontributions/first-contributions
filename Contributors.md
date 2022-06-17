@@ -9,6 +9,7 @@
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
+- [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
