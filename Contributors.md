@@ -14,6 +14,7 @@
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
+- [Sitaram Pal](https://github.com/sitaram2011)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
