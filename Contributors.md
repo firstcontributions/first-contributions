@@ -7590,4 +7590,5 @@ Stephen kihuni
 - [kuldeepsingh](https://github.com/Kdsingh333)
 - DistronX
 - [akhademigod](https://github.com/akhademigod)
+- [olidiaks](https://github.com/olidiaks)
 <!-- prettier-ignore-end -->
