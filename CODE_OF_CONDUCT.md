@@ -11,6 +11,8 @@ orientation.
 
 ## Our Standards
 
+let's broke this repo
+
 Examples of behaviour that contributes to creating a positive environment
 include:
 
