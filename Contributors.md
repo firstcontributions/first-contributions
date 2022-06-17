@@ -7591,4 +7591,5 @@ Stephen kihuni
 - DistronX
 - [akhademigod](https://github.com/akhademigod)
 - [olidiaks](https://github.com/olidiaks)
+- [Denny Thomas](https://github.com/smash-cracker)
 <!-- prettier-ignore-end -->
