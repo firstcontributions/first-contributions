@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Oussama Bernou](https://github.com/0ussamaBernou)
+- [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
 - [Ashley-Chen](https://github.com/ashlchen)
