@@ -5,6 +5,7 @@
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
 - [Ashley-Chen](https://github.com/ashlchen)
+- [Todi Rahmat](https://github.com/todikun)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
