@@ -3364,6 +3364,7 @@ yejashi
 - [FlashForm](https://github.com/FlashForm)
 - [gyurim](https://github.com/gyulimlee)
 - [Nimesh Garg](https://github.com/nimeshgarg)
+- [Tai Thai](https://github.com/thaibaotai/)
 - [SzymCrusader](https://github.com/SzymCrusader)
 - [GodKimba](https://github.com/GodKimba)
 - [Priya Sharma](https://github.com/priya0220)
