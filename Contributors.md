@@ -276,6 +276,7 @@ Harshit Rai
 - [Hattie Tavares](https://github.com/HattieTavares)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
+- [Jessica Johnson] (https://github.com/jessicajohnson-austin)
 - [kciccolella](https://github.com/kciccolella)
 - [Nikhileswar Reddy](https://github.com/Nikhil5)
 - [Jason Hu](https://github.com/jasonhuhx)
