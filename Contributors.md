@@ -1430,6 +1430,7 @@ Aneesh Chavan
 - [Leah Hynes](https://github.com/TylerHynes)
 - [Ananya](https://github.com/Ananya-Singh-22)
 - [sifrant] (https://github.com/sifrant)
+- [Guettaf Abdelhak] (https://github.com/AbdelhakGuettaf)
 - [Kumiko Sawada](https://github.com/ksawada1)
 - [Nicola Lamaddalena](https://github.com/Uomonero1)
 - [Mohammed Sanan Moinuddin](https://github.com/sananm)
