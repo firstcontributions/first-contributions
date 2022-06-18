@@ -7,6 +7,7 @@
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
+- [Quan Jiang](https://github.com/JQuan1999)
 - [Julie S](https://github.com/Julie-S2020)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Ashley-Chen](https://github.com/ashlchen)
