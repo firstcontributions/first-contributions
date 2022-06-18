@@ -3812,6 +3812,7 @@ Aditya Agarwal
 - [Sourav Sharma](https://github.com/souravprogrammer)
 - [Ian Cornish](https://github.com/icornish97)
 - [Soha Hussain](https://github.com/SohaHussain)
+- [Michael Z](https://github.com/mzhao48)
 - [Bhushan Mendhe](https://github.com/bmendhe23)
 - [Gaurab Halder](https://github.com/gaurabhalder)
   [Shayla Lewis](https://github.com/shaylalewis)
