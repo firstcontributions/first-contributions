@@ -8,6 +8,7 @@
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
 - [Quan Jiang](https://github.com/JQuan1999)
+- [VaradC](https://github.com/cvarad96)
 - [Julie S](https://github.com/Julie-S2020)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Ashley-Chen](https://github.com/ashlchen)
