@@ -7621,4 +7621,5 @@ Stephen kihuni
 - [olidiaks](https://github.com/olidiaks)
 - [Denny Thomas](https://github.com/smash-cracker)
 -[Harshil Hirpara](https://github.com/harshil202)
+-[Md Ariful Haque](https://github.com/mah-shamim)
 <!-- prettier-ignore-end -->
