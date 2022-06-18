@@ -22,6 +22,7 @@
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
 - [Sitaram Pal](https://github.com/sitaram2011)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
+[Mary June Scott] (https://github.com/MaryJune89)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
 - [Angela Johnson](https://github.com/angieloux)
