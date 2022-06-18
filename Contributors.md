@@ -7622,4 +7622,5 @@ Stephen kihuni
 - [Denny Thomas](https://github.com/smash-cracker)
 -[Harshil Hirpara](https://github.com/harshil202)
 -[Md Ariful Haque](https://github.com/mah-shamim)
+- [Paul Visser](https://github.com/PaulVisser-IT)
 <!-- prettier-ignore-end -->
