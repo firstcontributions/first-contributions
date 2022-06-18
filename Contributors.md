@@ -4,6 +4,7 @@
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
+- [Divya](https://github.com/d-coder111)
 - [Robby G]
 - [Julie S](https://github.com/Julie-S2020)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
@@ -109,7 +110,6 @@
 - [Elias Dzobo](https://github.com/elias-dzobo)
 - [Nuri Kim](https://github.com/nurikimchi)
 - [Hermanda Mak] (https://github.com/hhmmak)
-- [Divya] (https://github.com/d-coder111)
 - [Y-askour] (https://github.com/Y-askour)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [David E] (https://github.com/ElliottConsulting)
