@@ -355,6 +355,7 @@ Harshit Rai
 - [Rahul Anand](https://github.com/rnand)
 - [Hubert Kwitowski] (https://github.com/specillum)
 Nicholaus Michael
+- [Fateh Hamid] (https://github.com/F-Hamid)
 - [Daniel Tran] (https://github.com/danielduytran)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
