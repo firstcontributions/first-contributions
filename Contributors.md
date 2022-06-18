@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [AdamTempest](https://github.com/AdamTempest)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
