@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [nnhjs](https://github.com/nnhjs)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
