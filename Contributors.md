@@ -51,6 +51,7 @@
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
 - [Airsayy](https://github.com/AirSayy)
+- [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
