@@ -1,4 +1,4 @@
-﻿  # **Contributors**
+  # **Contributors**
 
 <!-- prettier-ignore-start -->
 - [nnhjs](https://github.com/nnhjs)
@@ -17,6 +17,7 @@
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
+- [S. M. Sajid Hasan Shanta](https://github.com/SajidHShanta)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
 - [Sitaram Pal](https://github.com/sitaram2011)
