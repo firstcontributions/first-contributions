@@ -1,4 +1,4 @@
-﻿ **Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 - [nnhjs](https://github.com/nnhjs)
@@ -35,7 +35,7 @@
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
 - [Achyut Neupane](http://github.com/achyutkneupane)
-- [Adam Tempest](https://github.com/AdamTempest)
+- [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
