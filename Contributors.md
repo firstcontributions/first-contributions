@@ -55,7 +55,7 @@
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
 - [Firoz Khan] (https://github.com/firoz57)
-- [Abhishek Mukherjee] (https://github.com/abhishekmukherjee)
+- [Abhishek Mukherjee] (https://github.com/abhishekkmukherjee)
 - [kanazawazawa](https://github.com/kanazawazawa)
 - [anelevo](https://github.com/Anelevo)
 - [Mohammed Shahul](https://github.com/mshahulpm)
