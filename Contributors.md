@@ -30,6 +30,7 @@
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
+- [Achyut Neupane](http://github.com/achyutkneupane)
 - [Daniel Page](https://github.com/Daniel-Page)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
