@@ -5,6 +5,7 @@
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
+- [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
