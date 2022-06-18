@@ -134,6 +134,7 @@
 - [Cal Archer] (https://github.com/CalArcher)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
+- [Abbate Emanuele](https://github.com/maxcohen31)
 - [GAILLARD Germain] (https://github.com/gaillard-germain)
 - [Mauro Philipe](https://github.com/mauroPh)
 - [Mohammad Ghanem](https://github.com/ghanemgit)
