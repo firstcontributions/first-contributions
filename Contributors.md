@@ -166,6 +166,7 @@
 - [Sage Writ](https://github.com/sagewrit)
 - [Orne Virardi] (https://github.com/ornevirardi)
 - [Kadl19] (https://github.com/Kadl19)
+- [monologan] (https://github.com/monologan)
 - Kassra-K
 - neo
 - DibyansuSharma
