@@ -39,6 +39,7 @@
 - [Daniel Page](https://github.com/Daniel-Page)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
+- [Md Anisur Rahman](https://github.com/a-n-i-s)
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
 - [Ali Rihan](https://github.com/a13r1)
