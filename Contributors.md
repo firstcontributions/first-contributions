@@ -2767,6 +2767,7 @@ yejashi
 - [Samuel Missonnier](https://github.com/samuelmissonnier)
 - [Jinco](https://github.com/jmmoore2520)
 - [Trevor Katemba](https://github.com/tkatemb)
+- [Ibrahim Ouedraogo](https:/github.com/ibrahimoued)
 - [Bosko](https://github.com/NightShop)
 - [Ihtisham U.](github.com/ihtisham-sudo)
 - [Piyush Sonawane](https://github.com/PiyushSonawane1302)
