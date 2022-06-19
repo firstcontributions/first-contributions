@@ -156,6 +156,7 @@
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- [Jonathan Andrade Valenzuela] (https://github.com/jmv1006)
 - [Sage Writ](https://github.com/sagewrit)
 - [Orne Virardi] (https://github.com/ornevirardi)
 - [Kadl19] (https://github.com/Kadl19)
