@@ -221,6 +221,7 @@
 - [Kenny Pearson](https://github.com/kenwoodp)
 - [Varad Katkalambekar]
 - [Anthonippillai Vincent Nishan] (https://github.com/SunrayVision)
+- [Fernando Unger](https://github.com/fernandounger/)
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
 - [Omadoye Mary](https://github.com/Seundede)
 - [Khair Muhammad Memon](https://github.com/khairmuhammad)
