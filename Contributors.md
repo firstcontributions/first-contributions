@@ -8,6 +8,7 @@
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
 - [Somesh Pandey](https://github.com/someshsp25/first-contributions.git)
+ SOMESH PANDEY
 - [Quan Jiang](https://github.com/JQuan1999)
 - [VaradC](https://github.com/cvarad96)
 - [Julie S](https://github.com/Julie-S2020)
