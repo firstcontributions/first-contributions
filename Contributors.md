@@ -1,4 +1,4 @@
-﻿**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 - [nnhjs](https://github.com/nnhjs)
@@ -20,6 +20,7 @@
 - [S. M. Sajid Hasan Shanta](https://github.com/SajidHShanta)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
+- [Chetan Nair](https://github.com/ChetanNair)
 - [Sitaram Pal](https://github.com/sitaram2011)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 [Mary June Scott] (https://github.com/MaryJune89)
