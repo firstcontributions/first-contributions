@@ -41,6 +41,7 @@
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
 - [Julian](https://github.com/JulianToppo)
+- [Brandon Bondig](https://github.com/brandonbondig)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
