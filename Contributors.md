@@ -7,6 +7,7 @@
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
+- [David yao] (https://github.com/davidyao2011)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [VaradC](https://github.com/cvarad96)
 - [Julie S](https://github.com/Julie-S2020)
