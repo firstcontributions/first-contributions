@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
 - [nnhjs](https://github.com/nnhjs)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
