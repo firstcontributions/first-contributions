@@ -13,6 +13,7 @@
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
+- [Harrison Jones](https://github.com/harrisonJones12)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
 - [Angela Johnson](https://github.com/angieloux)
