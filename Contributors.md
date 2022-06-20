@@ -145,6 +145,7 @@
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
 - [Marc Hamacek] (https://github.com/MarcHamacek)
 - [Xien Thomas] (https://github.com/Xien-Thomas)
+- [holy5] (https://github.com/holy5)
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Setki Fejsko] (https://github.com/SetkiF)
 - [Niels Brons] (https://github.com/NielsBrons)
