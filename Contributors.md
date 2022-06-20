@@ -152,7 +152,7 @@
 - [Setki Fejsko] (https://github.com/SetkiF)
 - [Niels Brons] (https://github.com/NielsBrons)
 - [Cal Archer] (https://github.com/CalArcher)
-  [Abhishek Thakur] (https://github.com/iamabhishekt)
+  [Abhishek Thakur](https://github.com/iamabhishekt)
 - [Prerna] (https://github.com/prernamittal)
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Abbate Emanuele](https://github.com/maxcohen31)
@@ -284,7 +284,7 @@
 - [Ahmed Zougari](https://github.com/zougari47)
 - [Daniel Gaerber](https://github.com/Gandagorn)
 - [dbsaw](https://github.com/dbsaw)
-  [rukyr97](https://github.com/rukyr97)
+  [rukyrAbh97](https://github.com/rukyr97)
 - [kajetanc] (https://github.com/kajetanc)
 - [Vandit Narain Tyagi] (https://github.com/the-formless) -[Ishann Daultani] (https://github.com/ishannCodes)
 - [Abhishek Topwal] [https://github.com/abhishek-topwal]
