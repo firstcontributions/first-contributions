@@ -355,6 +355,7 @@ Harshit Rai
 - [Filip Koci](https://github.com/sos321)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
+- [Gatlin Cruz](https://github.com/gatlincruz2)
 - [5ynchronized](https://github.com/5ynchronizeD)
 - [Raj]
 - [Redekian](https://github.com/Redekian)
