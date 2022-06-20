@@ -1078,6 +1078,7 @@ Aneesh Chavan
 - [Dane LeBlanc](https://github.com/dane-leblanc)
 - [Shubham Ayachit](https://github.com/shubham-ayachit)
 - [Bhuvaneswari Pathsamatla](https://github.com/bhuvanaindukuri)
+- [Yuvraj singh](https://github.com/Yuvraj-50)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Labheshwar](https://github.com/labheshwar)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
