@@ -7636,6 +7636,7 @@ Stephen kihuni
 - [Praneeth Bandi](https://github.com/Pranteloupe)
 - [Amir Fatemi](https://github.com/amir2520)
 - [Marie Luongo](https://github.com/marie-lu)
+- Hiten Solanki
 - Just AmrG
 - [Mhamed Ajjig](https://github.com/Ajjig)
 - [Curtis Bowser](https://github.com/bwsrcurtis) 
