@@ -7649,5 +7649,5 @@ Stephen kihuni
 -[Md Ariful Haque](https://github.com/mah-shamim)
 - [Paul Visser](https://github.com/PaulVisser-IT)
 - [Javlon Abdurazakov](https://github.com/javlona)
-- [Mikhail Beloborodov] (https://github.com/MikeBeloborodov)
+- [Mikhail Beloborodov](https://github.com/MikeBeloborodov)
 <!-- prettier-ignore-end -->
