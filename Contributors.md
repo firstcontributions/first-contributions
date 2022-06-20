@@ -5997,6 +5997,7 @@ Himanshu Dedha
 - [Sarah M Standish](https://github.com/sarahstandish)
 - [Alexia Chatzikonstantinou](https://github.com/alexhatz05)
 - [Tarou Shota](https://github.com/TarouShota)
+- [David Okon](https://github.com/davidemusi)
 - [MengXiangYun](https://github.com/mengxianun)
 - [Taenite](https://github.com/Taenite)
 - [Rida Mumtaz](https://github.com/rida-hash)
