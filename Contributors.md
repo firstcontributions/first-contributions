@@ -619,6 +619,7 @@ Nicholaus Michael
 - [Anthony Church](https://github.com/ITedInnovator)
 - [Leomhann](https://github.com/Benjamin-Boy)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
+
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
@@ -7646,4 +7647,5 @@ Stephen kihuni
 -[Md Ariful Haque](https://github.com/mah-shamim)
 - [Paul Visser](https://github.com/PaulVisser-IT)
 - [Javlon Abdurazakov](https://github.com/javlona)
+- [Hau Nguyen](https://github.com/thehaung)
 <!-- prettier-ignore-end -->
