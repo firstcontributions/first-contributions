@@ -10,6 +10,7 @@
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
+- [Aaron Lowe](https://github.com/CyberFlameGO
 - [David yao] (https://github.com/davidyao2011)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [VaradC](https://github.com/cvarad96)
@@ -31,6 +32,7 @@
 [Mary June Scott] (https://github.com/MaryJune89)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
+- [Timi Adenuga](https://github.com/Thi-mee)
 - [Angela Johnson](https://github.com/angieloux)
 - [Filip Telente](https://github.com/aminta5)
 - [Jarren Juan](https://github.com/JarrenJuan)
@@ -41,6 +43,7 @@
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
 - [Julian](https://github.com/JulianToppo)
+- [Brandon Bondig](https://github.com/brandonbondig)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
@@ -165,6 +168,7 @@
 - [Sage Writ](https://github.com/sagewrit)
 - [Orne Virardi] (https://github.com/ornevirardi)
 - [Kadl19] (https://github.com/Kadl19)
+- [monologan] (https://github.com/monologan)
 - Kassra-K
 - neo
 - DibyansuSharma
@@ -505,6 +509,7 @@ Nicholaus Michael
 - [Marwane LECHGUER](https://github.com/mlechgue)
 - [Karl Marx Roxas](https://github.com/Karlroxas21)
 - [Min Oak Kyaw](https://github.com/Kybton)
+- [Jerick Gutierrez](https://github.com/Mackhintosh)
 - [MAHESH]
 - [Venkata Poduri](https://github.com/VenkataP29)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
