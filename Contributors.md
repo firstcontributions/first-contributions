@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Oishik Sengupta] (https://github.com/oiishik)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
