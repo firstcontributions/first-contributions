@@ -508,6 +508,7 @@ Nicholaus Michael
 - [Marwane LECHGUER](https://github.com/mlechgue)
 - [Karl Marx Roxas](https://github.com/Karlroxas21)
 - [Min Oak Kyaw](https://github.com/Kybton)
+- [Jerick Gutierrez](https://github.com/Mackhintosh)
 - [MAHESH]
 - [Venkata Poduri](https://github.com/VenkataP29)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
