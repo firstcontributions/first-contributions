@@ -1499,6 +1499,7 @@ Aneesh Chavan
 - [Freskim Elmazi](https://github.com/FreskimElmazi)
 - [Karthik Siddhu] (https://github.com/karthik96siddhu)
 - [Melvin J.](https://github.com/melvinj98)
+- [Pedro Amaral](https://github.com/PedroASA)
 - [Mr. Business](https://github.com/MrBusiness25)
 - [Faurazeko](https://github.com/Faurazeko)
 - [Christopher S.](https://github.com/randoul)
