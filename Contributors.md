@@ -9,6 +9,7 @@
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
+- [Moses Samanhyia](https://github.com/starlabelgh)
 - [Robby G]
 - [Aaron Lowe](https://github.com/CyberFlameGO
 - [David yao] (https://github.com/davidyao2011)
