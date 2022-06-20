@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Oishik Sengupta] (https://github.com/oiishik)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
 - [nnhjs](https://github.com/nnhjs)
