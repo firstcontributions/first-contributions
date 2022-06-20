@@ -32,6 +32,7 @@
 [Mary June Scott] (https://github.com/MaryJune89)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
+- [Timi Adenuga](https://github.com/Thi-mee)
 - [Angela Johnson](https://github.com/angieloux)
 - [Filip Telente](https://github.com/aminta5)
 - [Jarren Juan](https://github.com/JarrenJuan)
