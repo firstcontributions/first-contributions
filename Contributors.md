@@ -5,6 +5,7 @@
 - [Oishik Sengupta] (https://github.com/oiishik)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
+- [Sadeedpv](https://github.com/Sadeedpv)
 - [nnhjs](https://github.com/nnhjs)
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
