@@ -46,6 +46,7 @@
 - [Filip Telente](https://github.com/aminta5)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [Nur Hamid](https://github.com/nurhamidqq)
+- [Harsh Gupta](https://github.com/Harsh3341)
 - [Mahaveer Jain](https://github.com/mahaveer82)
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
