@@ -7667,6 +7667,7 @@ Stephen kihuni
 - Hiten Solanki
 - Just AmrG
 - [Mhamed Ajjig](https://github.com/Ajjig)
+- [Frankie Fisher](https://github.com/fish2410)
 - [Curtis Bowser](https://github.com/bwsrcurtis) 
 - [mendelssohnbach](https://github.com/mendelssohnbach/)
 - [kuldeepsingh](https://github.com/Kdsingh333)
