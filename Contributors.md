@@ -1,10 +1,11 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Nitinram Velraj] (https://github.com/nitinramvelraj)
-- [Oishik Sengupta] (https://github.com/oiishik)
-- [Padumn Kumar] (https://github.com/slashtab)
-- [Isabel Rodenas] (https://github.com/isromar)
+- [Divyansh Bansal](https://github.com/idivyanshbansal)
+- [Nitinram Velraj](https://github.com/nitinramvelraj)
+- [Oishik Sengupta](https://github.com/oiishik)
+- [Padumn Kumar](https://github.com/slashtab)
+- [Isabel Rodenas](https://github.com/isromar)
 - [nnhjs](https://github.com/nnhjs)
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
