@@ -27,6 +27,7 @@
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
+- [Ahmed Alaedi](https://github.com/aalsaedi265)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [S. M. Sajid Hasan Shanta](https://github.com/SajidHShanta)
 - [Ojash Kushwaha](https://github.com/OjashKush)
