@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
+- [Vlad Romanov] (https://github.com/VRomanov89)
 - [Oishik Sengupta] (https://github.com/oiishik)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
