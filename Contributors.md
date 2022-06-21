@@ -182,6 +182,7 @@
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Hansel Warrior] (https://github.com/B3AST721)
 - [Uday Mehtani](https://github.com/uday03meh)
+- [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
