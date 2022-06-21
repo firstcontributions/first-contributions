@@ -53,6 +53,7 @@
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
 - [Julian](https://github.com/JulianToppo)
+- [Kiran Kumar](https://github.com/CodingKiran)
 - [Brandon Bondig](https://github.com/brandonbondig)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [AdamTempest](https://github.com/AdamTempest)
