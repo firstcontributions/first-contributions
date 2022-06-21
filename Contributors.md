@@ -507,6 +507,7 @@ Nicholaus Michael
 - [Raydel Comas](https://github.com/rcomas91)
 - [Andrea](https://github.com/gitand)
 - [Philip]
+- [Garrett Clough](https://github.com/garrettclough)
 - [David Cao](https://github.com/DavidCao4626)
 - [Jon Pena]
 - [Yanwei Yang](https://github.com/PoPowerYang)
