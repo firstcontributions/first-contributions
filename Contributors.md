@@ -867,6 +867,7 @@ Nicholaus Michael
 - [Arash Mohamadpour] (https://github.com/arashmpr)
 - [Aqib Naeem](https://github.com/AqibNaeem19)
 - [Aidan Comer](https://github.com/alhcomer)
+- [Lauren Qiu](https://github.com/laurenqiu)
 - [Adan Moreno/Hachikoi](https://github.com/Hachikoi-the-creator)
 - [Steve Ostler] (https://github.com/steveostler)
 - [Md Hasibul Kabir](https://github.com/hasibul134409)
