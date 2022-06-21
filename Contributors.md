@@ -15,6 +15,7 @@
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Robby G]
+- <a href="https://github.com/hello-smile6">hello-smile6</a> <sub><a href="https://solanum.9pfs.repl.co">(Personal IRC network)</a></sub><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=hello-smile6&show_icons=true&theme=tokyonight)](https://github.com/hello-smile6/)
 - [Aaron Lowe](https://github.com/CyberFlameGO
 - [David yao] (https://github.com/davidyao2011)
 - [Quan Jiang](https://github.com/JQuan1999)
