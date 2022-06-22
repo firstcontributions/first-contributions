@@ -15,6 +15,7 @@
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
+- [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Samiksha Kute] (https://github.com/samikshakute)
