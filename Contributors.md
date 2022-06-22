@@ -239,6 +239,7 @@
 - [Dev G](https://github.com/20CE034)
 - [Birame Ndoye](https://github.com/biramendoye)
 - flgoyens
+- Jason Chan 
 - [Lionel](https://github.com/myominhtoo)
 - [Karthik Vaithin](https://github.com/kvaithin)
 - [Muneeb Rehman](https://github.com/mrehmm001)
@@ -7688,4 +7689,5 @@ Stephen kihuni
 - [Pomiscle](https://github.com/pomiscle)
 - [Milene Toazza](https://github.com/mihtoa)
 - [Kartone](https://github.com/estarpro1022)
+- [Terence Teoh](https://github.com/terenceteoh23)
 <!-- prettier-ignore-end -->
