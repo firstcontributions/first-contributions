@@ -7696,4 +7696,5 @@ Stephen kihuni
 - [Anish Lukkireddy](https://github.com/anishlukk123)
 - [Ricky](https://github.com/rickybopanna)
 - [Hendrick](https://github.com/erdav544)
+- [Skip Masonsmith] (https://github.com/SMasonsmith)
 <!-- prettier-ignore-end -->
