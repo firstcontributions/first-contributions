@@ -239,6 +239,7 @@
 - [Dev G](https://github.com/20CE034)
 - [Birame Ndoye](https://github.com/biramendoye)
 - flgoyens
+- Jason Chan 
 - [Lionel](https://github.com/myominhtoo)
 - [Karthik Vaithin](https://github.com/kvaithin)
 - [Muneeb Rehman](https://github.com/mrehmm001)
