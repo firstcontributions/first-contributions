@@ -3,6 +3,7 @@
 # **Contributors**
 
 - [Royce Le](https://github.com/roycevanle)
+- [Abhishek Mishra](https://github.com/abhishekiiitr)
 - [Rerebla](https://github.com/Rerebla)
 - [Vitali Gujevski](https://github.com/vgujevski/)
 - [Rohit Kumar](https://github.com/rk0010159)
