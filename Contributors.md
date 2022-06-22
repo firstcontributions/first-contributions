@@ -1,4 +1,4 @@
-﻿**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
@@ -445,6 +445,7 @@ Nicholaus Michael
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
 - [donkeeman](https://github.com/donkeeman)
+- [adamsocki](https://github.com/adamsocki)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Ling Xiao](https://github.com/lingxiao14122)
