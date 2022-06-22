@@ -7009,6 +7009,7 @@ Michael Wong
 - [Fernando J. Spitz](https://github.com/fjspitz)
 - [Hal tunb ay] (https://github.com/haltunbay)
 - [Skandesh] (https://github.com/Randommmmmmmm)
+- [Darnell Davis] (https://github.com/deesclouds)
 - [GuoYongHeng] (https://github.com/GuoYongHeng)
 - [Felix Levert] (https://github.com/felixlevert)
 - [Amit Raj](https://github.com/amit894)
