@@ -7687,4 +7687,5 @@ Stephen kihuni
 -[Aman Panjwani] (https://github.com/Amanp17)
 - [Pomiscle](https://github.com/pomiscle)
 - [Milene Toazza](https://github.com/mihtoa)
+- [Terence Teoh](https://github.com/terenceteoh23)
 <!-- prettier-ignore-end -->
