@@ -7687,4 +7687,5 @@ Stephen kihuni
 -[Aman Panjwani] (https://github.com/Amanp17)
 - [Pomiscle](https://github.com/pomiscle)
 - [Milene Toazza](https://github.com/mihtoa)
+- [Kartone](https://github.com/estarpro1022)
 <!-- prettier-ignore-end -->
