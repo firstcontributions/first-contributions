@@ -7689,4 +7689,5 @@ Stephen kihuni
 - [Pomiscle](https://github.com/pomiscle)
 - [Milene Toazza](https://github.com/mihtoa)
 - [Terence Teoh](https://github.com/terenceteoh23)
+- [Anish Lukkireddy](https://github.com/anishlukk123)
 <!-- prettier-ignore-end -->
