@@ -162,6 +162,7 @@
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
+- [Aaron Reynolds](https://github.com/areyn77463)
 - [Marc Hamacek] (https://github.com/MarcHamacek)
 - [Xien Thomas] (https://github.com/Xien-Thomas)
 - [holy5] (https://github.com/holy5)
