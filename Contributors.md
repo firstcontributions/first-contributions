@@ -7686,4 +7686,5 @@ Stephen kihuni
 - [Mikhail Beloborodov] (https://github.com/MikeBeloborodov)
 -[Aman Panjwani] (https://github.com/Amanp17)
 - [Pomiscle](https://github.com/pomiscle)
+- [Milene Toazza](https://github.com/mihtoa)
 <!-- prettier-ignore-end -->
