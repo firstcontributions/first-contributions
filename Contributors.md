@@ -84,6 +84,7 @@
 - [Airsayy](https://github.com/AirSayy)
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
+- [H Russell Martinez](https://github.com/hrussellm)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Arjun M S](https://github.com/arjun-ms)
