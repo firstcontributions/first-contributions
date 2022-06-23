@@ -19,6 +19,7 @@
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Abhinav Garg](https://github.com/theabhiinavgarg)
+- [Abigel Asteraye](https://github.com/simplectasy)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Samiksha Kute] (https://github.com/samikshakute)
 - [Robby G]
