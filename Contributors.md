@@ -30,6 +30,7 @@
 - [Quan Jiang](https://github.com/JQuan1999)
 - [VaradC](https://github.com/cvarad96)
 - [Julie S](https://github.com/Julie-S2020)
+- [Nicoleta Serban](https://github.com/NicoletaSerban)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
