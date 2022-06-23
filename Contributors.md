@@ -54,6 +54,7 @@
 [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Anna]
+- [Uday](https://github.com/udaysonyy)
 - [Angela Johnson](https://github.com/angieloux)
 - [Filip Telente](https://github.com/aminta5)
 - [Jarren Juan](https://github.com/JarrenJuan)
