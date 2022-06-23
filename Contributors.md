@@ -14,6 +14,7 @@
 - [Jack Ma](https://github.com/KingJacM)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
+- [Piotr Kowalczewski] (https://github.com/kowalczewski)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Amir Soleimanian](https://github.com/CoachAlpha)
