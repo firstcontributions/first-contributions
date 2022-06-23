@@ -313,6 +313,7 @@ Harshit Rai
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
 - [John Sebastian](https://github.com/CapedBaldie)
+- [Ester Guri](https://github.com/esterguri)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Sharad Arora](https://github.com/Sharad910)
 - [Ahmed Zougari](https://github.com/zougari47)
