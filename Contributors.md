@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
+- [Mark Timothy Advento] (https://github.com/markadv/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
 - [Nelson de Barros](https://github.com/nek54)
 - [Oishik Sengupta] (https://github.com/oiishik)
