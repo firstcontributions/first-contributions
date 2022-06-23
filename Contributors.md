@@ -7706,4 +7706,5 @@ Stephen kihuni
 - [Ricky](https://github.com/rickybopanna)
 - [Hendrick](https://github.com/erdav544)
 - [Skip Masonsmith] (https://github.com/SMasonsmith)
+- <a href="https://github.com/franksiret">FrankSiret</a> 👉 <a href="https://franksiret.github.io/resume-cv">follow me</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=franksiret&show_icons=true&theme=tokyonight)](https://github.com/franksiret/)
 <!-- prettier-ignore-end -->
