@@ -32,6 +32,7 @@
 - [Julie S](https://github.com/Julie-S2020)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
+- [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
 - [Saran-pariyar](https://github.com/Saran-pariyar)
