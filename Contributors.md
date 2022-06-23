@@ -1,7 +1,9 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
+- [weiguangchao](https://github.com/weiguangchao)
 - [Vlad Romanov] (https://github.com/VRomanov89)
 - [Nelson de Barros](https://github.com/nek54)
 - [Oishik Sengupta] (https://github.com/oiishik)
@@ -1308,7 +1310,6 @@ Aneesh Chavan
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Ranj] (https://github.com/rnj50)
-
 - [Luz Jimenez Vela] (https://github.com/luzloujv)
 - [Emmanuel Alao] (https://github.com/omogidi)
 - [Dhineshkumar R] (https://github.com/dk017)
@@ -1883,7 +1884,6 @@ itay-guter
 -[Yosef Melul] (https://github.com/ymelul342)
 -[HninYuHlaing](https://github.com/miracleace)
 -[Htet Paing Win](https://github.com/htetpaingwin1999)
-
 - [Daniel Carroll](https://github.com/Krydan)
 -[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Senthil Bala](https://github.com/besenthil)
