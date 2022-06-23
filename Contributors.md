@@ -7670,6 +7670,7 @@ Stephen kihuni
 - [Emma M](https://github.com/emmaclarem)
 - [skradle](https://github.com/skradle)
 - [AimLow](https://github.com/AimLow-SMM)
+- [Mr. Bones] (https://github.com/bbones17)
 - [Asya](https://github.com/asyasusen)
 - [SNJS](https://github.com/soniasyed)
 -[lemon](https://github.com/Lefie)
@@ -7720,4 +7721,3 @@ Stephen kihuni
 - <a href="https://github.com/franksiret">FrankSiret</a> 👉 <a href="https://franksiret.github.io/resume-cv">follow me</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=franksiret&show_icons=true&theme=tokyonight)](https://github.com/franksiret/)
 - [Tiago Dresch](https://github.com/tdresch)
 <!-- prettier-ignore-end -->
-- [Mr. Bones] (https://github.com/bbones17)
