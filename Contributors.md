@@ -34,6 +34,7 @@
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
+- [Saran-pariyar](https://github.com/Saran-pariyar)
 - [Milo Roberts](https://github.com/MiloRoberts)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
