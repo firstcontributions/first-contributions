@@ -7211,6 +7211,7 @@ Michael Wong
 - [Ayush](https://github.com/Ayushh1023)
 - [Matthew S](https://github.com/MatthewSafar)
 - [Bryan Linda](https://github.com/blindaa121)
+- [Decio Hernandez-Ross](https://github.com/decitoe)
 - [Manuel Borja](https://github.com/manuelblp)
 - [Feng-Jay](https://github.com/Feng-Jay)
 - [Rachit Kansagra](https://github.com/rachitkansagra)
