@@ -7720,5 +7720,6 @@ Stephen kihuni
 - [Skip Masonsmith] (https://github.com/SMasonsmith)
 - <a href="https://github.com/franksiret">FrankSiret</a> 👉 <a href="https://franksiret.github.io/resume-cv">follow me</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=franksiret&show_icons=true&theme=tokyonight)](https://github.com/franksiret/)
 - [Tiago Dresch](https://github.com/tdresch)
+- [Alonso Torres-Hotrum](https://github.com/ajhotrum)
 - Ajinkya
 <!-- prettier-ignore-end -->
