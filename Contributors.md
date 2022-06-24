@@ -7731,4 +7731,5 @@ Stephen kihuni
 - [Alonso Torres-Hotrum](https://github.com/ajhotrum)
 - Ajinkya
 - [Amit Narayan Dharmkamble](https://github.com/amythologic1)
+- [Jeffrey Tan](https://github.com/jeffreytan1)
 <!-- prettier-ignore-end -->
