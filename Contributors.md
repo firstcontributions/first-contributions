@@ -47,6 +47,7 @@
   [Glenn Dueñas](https://github.com/glenndt99)
   [Sarthak Kumar](https://github.com/sarthak503)
   [Harshit Verma]
+  [alias-arch](https://github.com/alias-arch)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [Eman Hassan] (https://github.com/emanhassan2020)
 - [careyuyu](https://github.com/careyuyu)
