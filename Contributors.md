@@ -7737,4 +7737,5 @@ Stephen kihuni
 - [Amit Narayan Dharmkamble](https://github.com/amythologic1)
 - [Jeffrey Tan](https://github.com/jeffreytan1)
 - [Vijay Choudary](https://github.com/scriptyvijay)
+- [Kamil Chulakov](https://github.com/kamilchulakov)
 <!-- prettier-ignore-end -->
