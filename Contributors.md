@@ -75,6 +75,7 @@
 - [Dhrumi Shah](https://github.com/dhrumishah)
 - [Julian](https://github.com/JulianToppo)
 - [Kiran Kumar](https://github.com/CodingKiran)
+- [Arjun M](https://github.com/arjunm2305)
 - [Brandon Bondig](https://github.com/brandonbondig)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [AdamTempest](https://github.com/AdamTempest)
