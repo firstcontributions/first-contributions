@@ -286,7 +286,8 @@
 - [Khair Muhammad Memon](https://github.com/khairmuhammad)
 - [Ayush Malik](https://github.com/Ayush-004)
   [Glenn Dueñas](https://github.com/glenndt99)
-  [Sarthak Kumar](https://github.com/sarthak503)
+- [Jeff Ni](https://github.com/nijeff27)
+- [Sarthak Kumar](https://github.com/sarthak503)
   [Harshit Verma]
 - [Mårten Sjöberg](https://github.com/tikktakk79)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
