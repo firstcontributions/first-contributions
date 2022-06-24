@@ -1882,6 +1882,7 @@ itay-guter
 -[PhaneeChowdary7](https://github.com/PhaneeChowdary7)
 -[CapCo56](https://github.com/CapCo56)
 -[VarunSatpute](https://github.com/VarunSatpute)
+-[Peter Tettey Yamak](https://github.com/PTettey)
 =[Sakibul Alam]
 - It was a great learning.
 -[Genominus](https://github.com/Genominus)
