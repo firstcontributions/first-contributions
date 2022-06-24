@@ -7734,4 +7734,5 @@ Stephen kihuni
 - Ajinkya
 - [Amit Narayan Dharmkamble](https://github.com/amythologic1)
 - [Jeffrey Tan](https://github.com/jeffreytan1)
+- [Vijay Choudary](https://github.com/scriptyvijay)
 <!-- prettier-ignore-end -->
