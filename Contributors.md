@@ -64,7 +64,7 @@
 - [Filip Telente](https://github.com/aminta5)
 - [Bakul Gupta](https://github.com/Bakul-G)
 - [Jarren Juan](https://github.com/JarrenJuan)
-- [The Tronic](https://github.com/ajTronic)
+- [ajTronic](https://github.com/ajTronic)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
 - [Iano Njuguna](https://github.com/IanoNjuguna)
