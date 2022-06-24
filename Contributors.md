@@ -61,6 +61,7 @@
 - [Ahnge](https://github.com/ahnge)
 [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
 - [Timi Adenuga](https://github.com/Thi-mee)
+- [Tommy Seamans](https://github.com/tseamans1214)
 - [Anna]
 - [Uday](https://github.com/udaysonyy)
 - [Angela Johnson](https://github.com/angieloux)
