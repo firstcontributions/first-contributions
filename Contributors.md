@@ -7729,4 +7729,5 @@ Stephen kihuni
 - [Tiago Dresch](https://github.com/tdresch)
 - [Alonso Torres-Hotrum](https://github.com/ajhotrum)
 - Ajinkya
+- [Amit Narayan Dharmkamble](https://github.com/amythologic1)
 <!-- prettier-ignore-end -->
