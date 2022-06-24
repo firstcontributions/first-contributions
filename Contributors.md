@@ -19,6 +19,7 @@
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
+- [Matthew McCane](https://github.com/DakuwoN)
 - [Abhinav Garg](https://github.com/theabhiinavgarg)
 - [Abigel Asteraye](https://github.com/simplectasy)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
