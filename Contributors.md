@@ -7541,6 +7541,7 @@ Duncan Ledesma
 - [Mihai Zecheru](https://github.com/MihaiZecheru)
 - [Rishikesh Panda](https://github.com/redrodeo03)
 - [Raheem Amer](https://github.com/RaheemAmer)
+- [Jon Tokad](https://github.com/Jon-Tokad)
 - [Furkan Akçakaya](https://github.com/furkanakcakaya)
 - [Kian Afkhami](https://github.com/kianafk)
 - [Andrew Farrell](https://github.com/atf8760)
