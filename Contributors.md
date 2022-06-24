@@ -10,6 +10,7 @@
 - [Joel Tony](https://github.com/jay-tau)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Ahmed Zougari](https://github.com/zougari47)
+- [Sanjog Rijal](https://github.com/SanjogRijal)
 - [dbsaw](https://github.com/dbsaw)
 - [kajetanc] (https://github.com/kajetanc)
 - [Mariana Westphalen] (https://github.com/marianaWest)
