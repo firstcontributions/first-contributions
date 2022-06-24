@@ -14,6 +14,7 @@
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Jack Ma](https://github.com/KingJacM)
+- [Sophearoth Prum](https://github.com/biscuit-lee)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
