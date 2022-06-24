@@ -71,6 +71,7 @@
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [ajsumo]
+- [Dhrumi Shah](https://github.com/dhrumishah)
 - [Julian](https://github.com/JulianToppo)
 - [Kiran Kumar](https://github.com/CodingKiran)
 - [Brandon Bondig](https://github.com/brandonbondig)
