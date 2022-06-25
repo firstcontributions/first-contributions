@@ -24,6 +24,7 @@
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Matthew McCane](https://github.com/DakuwoN)
+- [Paresh Mestry](https://github.com/im-pareshm)
 - [Abhinav Garg](https://github.com/theabhiinavgarg)
 - [Abigel Asteraye](https://github.com/simplectasy)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
