@@ -7748,4 +7748,5 @@ Stephen kihuni
 - [Kamil Chulakov](https://github.com/kamilchulakov)
 - [Manish Saha](https://github.com/Manice18)
 - [Hau Nguyen](https://github.com/thehaung)
+- [Foystor Wan](https://github.com/Foystor)
 <!-- prettier-ignore-end -->
