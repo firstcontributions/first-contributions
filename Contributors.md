@@ -1598,6 +1598,7 @@ Aneesh Chavan
 - [Fumiya Goto](https://github.com/tofu2323)
 - [Christian Aguilar](https://github.com/COZMIKDX)
 - [Dave Starmer](https://github.com/DaveStarmer)
+- [Daniel Langwost](https://github.com/LadanCode)
 - [Fulosophy](https://github.com/mcolandrea)
 - Md Zubaer
 -[Divyam Bhutani] (i want to learn *-*)
@@ -1606,7 +1607,6 @@ Aneesh Chavan
 - [Jebus] (https://github.com/Jebushdd)
 - [Siddharth Singh] (https://github.com/SidSin)
 - [Anant] (https://github.com/Anant16)
-- [Daniel Langwost] (https://github.com/LadanCode)
 - [Jon-Michael C](https://github.com/jon-michael-c)
 - [Arman Moztarzadeh] (https://github.com/armanmoztar)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
