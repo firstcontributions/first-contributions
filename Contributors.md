@@ -42,6 +42,7 @@
 - [Julie S](https://github.com/Julie-S2020)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
+- [Destiny O'Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
