@@ -48,6 +48,7 @@
 - [Todi Rahmat](https://github.com/todikun)
 - [Vivek Tiwari](https://github.com/probablyvivek)
 - [Saran-pariyar](https://github.com/Saran-pariyar)
+- [hyr2](https://github.com/hyr2)
 - [Milo Roberts](https://github.com/MiloRoberts)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
