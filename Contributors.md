@@ -25,7 +25,7 @@
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Paresh Mestry](https://github.com/im-pareshm)
-- [Abhinav Garg](https://github.com/theabhiinavgarg)
+- [AungMyatThu](https://github.com/Aung67890)
 - [Abigel Asteraye](https://github.com/simplectasy)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Samiksha Kute] (https://github.com/samikshakute)
