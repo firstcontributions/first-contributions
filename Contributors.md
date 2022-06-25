@@ -13,6 +13,7 @@
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
+- [Hafiz Muhammad Khuzaima Umair](https://github.com/mkhuzaima "Khuzaima's Github Profile")
 - [Jack Ma](https://github.com/KingJacM)
 - [Sophearoth Prum](https://github.com/biscuit-lee)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
