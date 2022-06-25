@@ -42,6 +42,7 @@
 - [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
+- [Vivek Tiwari](https://github.com/probablyvivek)
 - [Saran-pariyar](https://github.com/Saran-pariyar)
 - [Milo Roberts](https://github.com/MiloRoberts)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
