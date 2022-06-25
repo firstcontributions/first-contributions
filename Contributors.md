@@ -7746,4 +7746,5 @@ Stephen kihuni
 - [Vijay Choudary](https://github.com/scriptyvijay)
 - [Kamil Chulakov](https://github.com/kamilchulakov)
 - [Manish Saha](https://github.com/Manice18)
+- [Hau Nguyen](https://github.com/thehaung)
 <!-- prettier-ignore-end -->
