@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Jakub Gania](https://github.com/jakubgania)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
