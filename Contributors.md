@@ -6797,6 +6797,7 @@ Michael Wong
 - [R Haffer](https://github.com/rhaffer)
 - [Hunter G](https://github.com/Moose-Tracks)
 - [Raine Legary](https://github.com/Rainethhh)
+- [McDonald Otoyo](https://github.com/mcdonald-0)
 - [Dawid Nowak](https://github.com/DawidNowak)
 - [HridoyHazard](https://github.com/HridoyHazard)
 - [Valentin Simeonov] (https://github.com/garadraw/)
