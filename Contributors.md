@@ -268,6 +268,7 @@
 - [Mehak Agrawal] (https://github.com/mehakagrawal)
 - [Dev G](https://github.com/20CE034)
 - [Birame Ndoye](https://github.com/biramendoye)
+- [Yug Agarwal] (https://github.com/03YugAgarwal)
 - flgoyens
 - Jason Chan 
 - [Lionel](https://github.com/myominhtoo)
