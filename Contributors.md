@@ -1385,6 +1385,7 @@ Aneesh Chavan
 - [Brian Young](https://github.com/ReadingTheDocumentation/)
 - [Keshava kommaraju](https://github.com/k3shav17)
 - [Rodrigo Viano](https://github.com/rviano96/rviano96/)
+- [Ian Luciano](https://github.com/ianskie26)
 - [Snapre](https://github.com/snapre)
 - [Priyanka Rose Varghese](https://github.com/RoseVZ)
 - [Myat Su Mon] (https://github.com/myat-su-mon/)
