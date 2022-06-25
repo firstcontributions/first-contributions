@@ -33,6 +33,7 @@
 - [David yao] (https://github.com/davidyao2011)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [VaradC](https://github.com/cvarad96)
+- [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Julie S](https://github.com/Julie-S2020)
