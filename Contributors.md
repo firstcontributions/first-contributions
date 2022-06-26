@@ -7774,4 +7774,5 @@ Stephen kihuni
 - [Foystor Wan](https://github.com/Foystor)
 - [邹茂萍](https://github.com/RunJavaCode)
 - [Carlos Roman](https://github.com/carlosroman)
+- [Tyler Andal](https://github.com/tandal)
 <!-- prettier-ignore-end -->
