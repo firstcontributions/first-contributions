@@ -45,6 +45,7 @@
 - [David yao] (https://github.com/davidyao2011)
 - [Dino Luethy] (https://github.com/EngineerDino)
 - [Quan Jiang](https://github.com/JQuan1999)
+- [Levi Francis](https://github.com/leevigh)
 - [VaradC](https://github.com/cvarad96)
 - [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
