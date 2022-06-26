@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Jakub Gania](https://github.com/jakubgania)
+- [CloudySky](https://github.com/songhachheo)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
