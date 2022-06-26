@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Jakub Gania](https://github.com/jakubgania)
+- [Shashwat Shah](https://github.com/shashwat-shah)
 - [The Singularity is Near](https://github.com/standardAI)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
