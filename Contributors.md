@@ -102,6 +102,7 @@
 - [Arjun M](https://github.com/arjunm2305)
 - [Brandon Bondig](https://github.com/brandonbondig)
 - [Achyut Neupane](http://github.com/achyutkneupane)
+- [Spencer V](https://github.com/Spencerv1/first-contributions)
 - [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
 - [James Jeffreys](https://github.com/jamesjeffreys)
