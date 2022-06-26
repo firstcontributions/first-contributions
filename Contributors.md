@@ -7,6 +7,7 @@
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
+- [Rachit Verma] (https://github.com/darkknight20032001)
 - [Nelson de Barros](https://github.com/nek54)
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
 - [Oishik Sengupta] (https://github.com/oiishik)
