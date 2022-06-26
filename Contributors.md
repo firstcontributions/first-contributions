@@ -266,6 +266,7 @@
 - [Jp Venadas](https://github.com/JPvenadas)
 - [ColinAllenDev] (https://github.com/colinallendev)
 - [Divjot Bedi](https://github.com/dbedi3311)
+- [Tejesh Annavarapu](https://github.com/Tejesh18)
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
 - [Henry Hokkaido](https://github.com/Mythaenea)
