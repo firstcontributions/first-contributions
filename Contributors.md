@@ -6688,6 +6688,7 @@ Michael Wong
 - [Charlie Greenhalgh](https://github.com/charliegreeny)
 - [Gabriel Ramos](https://github.com/gabston)
 - [Adrian Tsang](https://github.com/ahwtsang)
+- [Wshop Code](https://github.com/wshopcode)
 - [David Miller](https://github.com/djmiller1008)
 - [ByeongJun Kim](https://github.com/tlswkdpgla)
 - [Armm Supakorn](https://github.com/armspkt)
