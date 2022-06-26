@@ -776,6 +776,7 @@ Nicholaus Michael
 - [Oscar](https://github.com/zitrocode)
 - [Fang Jian](https://github.com/fangjian98)
 - [Ronak](https://github.com/ronakvir)
+-[shaurya](https://github.com/shaurya074)
 - [SinlessMirror](https://github.com/SinlessMirror)
 - [Tan Zi Xi](https://github.com/tzixi)
 - [Deepesh sharma](https://github.com/sunnybio)
