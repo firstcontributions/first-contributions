@@ -6839,6 +6839,7 @@ Michael Wong
 - [ksat8384](https://github.com/ksat8384)
 - [Marcel Hans](https://github.com/marcelhans)
 - [Aditi Ojha](https://github.com/aditi824)
+- [Aadithya Krishna Vamshi](https://github.com/skillkumaroriginal)
 - [Guilherme Natan](https://github.com/guiga1929)
 - [Sangam Choudhary](https://github.com/Sangamchoudhary)
 - [Emilio Morbidoni](https://github.com/emiliomrb)
