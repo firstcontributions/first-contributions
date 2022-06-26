@@ -12,6 +12,7 @@
 - [Nelson de Barros](https://github.com/nek54)
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
 - [Oishik Sengupta] (https://github.com/oiishik)
+- [Jasmine Mary]
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
 - [Ashiru Adedayo] (https://github.com/adedayotoheeb)
