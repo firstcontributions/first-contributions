@@ -1153,6 +1153,7 @@ Aneesh Chavan
 - [zedestrian](https://github.com/zedestrian)
 - [Dane LeBlanc](https://github.com/dane-leblanc)
 - [Shubham Ayachit](https://github.com/shubham-ayachit)
+- [Dalphon Orechi](https://github.com/dalphonorechi)
 - [Bhuvaneswari Pathsamatla](https://github.com/bhuvanaindukuri)
 - [Yuvraj singh](https://github.com/Yuvraj-50)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
