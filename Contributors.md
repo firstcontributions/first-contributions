@@ -7759,4 +7759,5 @@ Stephen kihuni
 - [Hau Nguyen](https://github.com/thehaung)
 - [Foystor Wan](https://github.com/Foystor)
 - [Carlos Roman](https://github.com/carlosroman)
+- [Audrey Huynh](https://github.com/Audrey-Huynh)
 <!-- prettier-ignore-end -->
