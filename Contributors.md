@@ -18,6 +18,7 @@
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
+- [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Hafiz Muhammad Khuzaima Umair](https://github.com/mkhuzaima "Khuzaima's Github Profile")
 - [Jack Ma](https://github.com/KingJacM)
