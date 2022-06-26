@@ -6671,6 +6671,7 @@ Himanshu Dedha
 - [Musadiq Peerzada](https://github.com/musadiqpeerzada)
 Michael Wong
 - [Dragonlord1005](https://github.com/Dragonlord1005)
+- [Hector Torres](https://github.com/spacelordhector)
 - [Subin Park](https://github.com/IamSOL1)
 - [Sanket Jadhav](https://github.com/SanketJadhav7d3)
 - [LianWen wu](https://github.com/childrentime)
