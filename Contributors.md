@@ -7,6 +7,7 @@
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
+- [BaraahAbusara](https://github.com/BaraahAbusara)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Vlad Romanov] (https://github.com/VRomanov89)

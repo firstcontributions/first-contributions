@@ -42,6 +42,13 @@ git branch AnyBranchName
 
 A new branch will be created named AnyBranchName and all the file changes in this branch will not be affected in the main branch.
 For detailed explanation refer [How to create branch](https://www.atlassian.com/git/tutorials/using-branches)
+#### Navigate into the branch 
+
+```
+git checkout AnyBranchName
+```
+
+That way you will go from your current branch into your new branch and all the file changes in this branch will not be affected in the main branch.
 
 #### Delete the branch
 
