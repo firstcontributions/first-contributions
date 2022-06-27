@@ -110,6 +110,7 @@
 - [Kiran Kumar](https://github.com/CodingKiran)
 - [Arjun M](https://github.com/arjunm2305)
 - [Brandon Bondig](https://github.com/brandonbondig)
+- [Rishika Sinha](https://github.com/rishikasinha7)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
 - [AdamTempest](https://github.com/AdamTempest)
