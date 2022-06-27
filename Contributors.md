@@ -256,6 +256,7 @@
 - [Joshua Silvernale] (https://github.com/jsilvernale)
 - [Chirag Vadhavana](https://github.com/Ckm54)
 - [Keith Jackson](https://github.com/KJackson50)
+  [Omer Zein](https://github.com/omerz25)
 - [Sai nikhil G](https://github.com/Evolve-03)
 - [Kartikey Tandon](https://github.com/kartikeytandon)
 - [Collins Kiplangat](https://github.com/chiragvadhavana)
