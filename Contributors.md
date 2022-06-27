@@ -102,6 +102,7 @@
 - [E Rod](https://github.com/Proximacentauri-b)
 - [Lin Lin] (http://github.com/linsquared)
 - [ddak22] (https://github.com/ddak22)
+- [Kishore Rajkumar] (https://github.com/kishore-rajkumar)
 - [Suhas Gumma]  (https://github.com/suhasgumma)
 - [Mahdi Malkawi] (https://github.com/malkawimahdi)
 - [Ahmed Nasr](https://github.com/NotAhmedNasr)
