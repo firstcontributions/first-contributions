@@ -597,6 +597,7 @@ Nicholaus Michael
 - [Min Oak Kyaw](https://github.com/Kybton)
 - [Jerick Gutierrez](https://github.com/Mackhintosh)
 - [MAHESH]
+- [Khai Syuen Tan](https://github.com/KhaiTan6)
 - [Venkata Poduri](https://github.com/VenkataP29)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
