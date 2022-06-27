@@ -20,6 +20,7 @@
 - [Ashiru Adedayo] (https://github.com/adedayotoheeb)
 - [nnhjs](https://github.com/nnhjs)
 - [Black Knight](https://github.com/BlacKnight-RH)
+- [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
