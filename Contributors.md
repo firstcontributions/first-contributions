@@ -3132,6 +3132,7 @@ yejashi
 - [Abhi Kamble](https://github.com/coder-abhi)
 - [David Rosanwo](https://github.com/olusanwo)
 - [Joni Samanen](https://github.com/Joni-Samanen)
+- [Chris Shine](https://github.com/CShine612)
 - [Rakshatha Vasudev](https://github.com/rakshathavasudev)
 - [Jakub Ucinski](https://github.com/jakub-ucinski)
 - [David Nguyen](https://github.com/nguyedav1934)
