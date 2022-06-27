@@ -13,6 +13,7 @@
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
 - [Oishik Sengupta] (https://github.com/oiishik)
 - [Jasmine Mary]
+- [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
 - [Ashiru Adedayo] (https://github.com/adedayotoheeb)
