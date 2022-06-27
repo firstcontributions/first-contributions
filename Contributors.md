@@ -51,6 +51,7 @@
 - [veasnawt](https://github.com/veasnawt)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Julie S](https://github.com/Julie-S2020)
+- [Sasiru Ravihansa](https://github.com/sasirura)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Destiny O'Connor](https://github.com/SuperDeafveloper)
