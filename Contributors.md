@@ -24,6 +24,7 @@
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
+-[vidhi](https://github.com/VidhiSaxena27)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Hafiz Muhammad Khuzaima Umair](https://github.com/mkhuzaima "Khuzaima's Github Profile")
