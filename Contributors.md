@@ -9,6 +9,7 @@
 - [The Singularity is Near](https://github.com/standardAI)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
+- [Sami Amjid Khan] (https://github.com/samiamjidkhan/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
 - [Vishnu Santhosh] (https://github.com/vishsant)
 - [Rachit Verma] (https://github.com/darkknight20032001)
