@@ -157,13 +157,13 @@ git remote add upstream https://github.com/Roshanjossey/first-contributions
 git fetch upstream
 ```
 
-<div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيس.</div>
+<div dir="rtl">هنا سنقوم بسحب جميع التغييرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
 
 ```
 git rebase upstream/master
 ```
 
-<div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيس. إذا رفعت التغييرات لفرعك الرئيس سيتم تحديث مشروعك</div>
+<div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيسي. إذا رفعت التغييرات لفرعك الرئيسي سيتم تحديث مشروعك</div>
 
 ```
 git push origin master
