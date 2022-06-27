@@ -17,6 +17,7 @@
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
+- [Seth Addo] (https://github.com/seths10)
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Conor Kennedy] (https://github.com/conorkenn)
