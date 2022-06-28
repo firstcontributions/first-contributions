@@ -74,6 +74,7 @@
 - [Francesco Villano] (https://github.com/franzvill)
   [Roshan Rasal](https://github.com/Rosh3639) -[Anurag Dwivedi](https://github.com/anuragdw710)
 - [EYoa](https://github.com/eyoa)
+- [Dwayne Armster] (https://github.com/DwayneArmster)
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
 - [Julia Hoang](https://github.com/julhoang) CHECK OUT MINE!
 - [sktht](https://github.com/sktht)
