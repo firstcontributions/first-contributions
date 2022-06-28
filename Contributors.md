@@ -4435,6 +4435,7 @@ Himanshu Dedha
 - [Michael Haselberger](https://github.com/mhasel)
 - [Michael Overkamp](https://github.com/MichaelOver)
 - [Enrico Giorio](https://github.com/EnricoSteez)
+- [Yousef Abu-Qatrieh](https://github.com/Yousef-Abu-Qatrieh)
 - [Swastik Samal](https://github.com/Swastik-tsk)
 - [Saksham Singh](https://github.com/sakssingh)
 - [Max Sauer](https://github.com/mjs2011)
