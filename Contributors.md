@@ -5265,6 +5265,7 @@ Himanshu Dedha
 - [acphil2](https://github.com/acphil2)
 - [Arif Jehda-Oh](https://github.com/arifjehoh)
 - [Michael Gartner](https://github.com/mdroidian)
+- [Ari B](https://github.com/trendicoff)
 - [Yashira Jacobs](https://github.com/yashirajb)
 - [Thang Cao](https://github.com/shiyoline)
 - [Sebastian Puig](https://github.com/patanpuig)
