@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
