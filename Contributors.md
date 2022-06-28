@@ -7813,5 +7813,6 @@ Stephen kihuni
 - [Tyler Andal](https://github.com/tandal)
 - [Tan YK](https://github.com/tanyk8)
 - [Nimish Chalkar](https://github.com/NimishChalkar)
+- [Daniel Teffenhart](https://github.com/Nuggit40)
 - [Yogesh Pendse](https://github.com/yogeshpendse)
 <!-- prettier-ignore-end -->
