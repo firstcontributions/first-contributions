@@ -7812,6 +7812,7 @@ Stephen kihuni
 - [Carlos Roman](https://github.com/carlosroman)
 - [Tyler Andal](https://github.com/tandal)
 - [Tan YK](https://github.com/tanyk8)
+- [Jason Ani](https://github.com/xxxdigi)
 - [Nimish Chalkar](https://github.com/NimishChalkar)
 - [Daniel Teffenhart](https://github.com/Nuggit40)
 - [Yogesh Pendse](https://github.com/yogeshpendse)
