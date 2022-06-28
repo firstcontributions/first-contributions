@@ -6,6 +6,7 @@
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
+Tony Idehen
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
