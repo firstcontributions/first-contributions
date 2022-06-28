@@ -431,6 +431,7 @@ Harshit Rai
 - [dim]
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [Matt E] (https://github.com/mmatt21e)
+- [Mwanaidi-M] (https://github.com/Mwanaidi-M)
   [Riya Treasa Varghease](https://github.com/r-treasa27)
   [Punit Gupta](https://github.com/Gpunit573)
 - [kaveri] (https://github.com/kaverigotkhindi/)
