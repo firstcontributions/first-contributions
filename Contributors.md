@@ -7829,4 +7829,5 @@ Stephen kihuni
 - [Yogesh Pendse](https://github.com/yogeshpendse)
 - [MashiroLang](https://github.com/mashirolang)
 - [gelifeke](https://github.com/gelifeke)
+- [Yudha Islami Sulistya](https://github.com/yudhaislamisulistya)
 <!-- prettier-ignore-end -->
