@@ -7830,4 +7830,5 @@ Stephen kihuni
 - [MashiroLang](https://github.com/mashirolang)
 - [gelifeke](https://github.com/gelifeke)
 - [Yudha Islami Sulistya](https://github.com/yudhaislamisulistya)
+- [Yudha Islami Sulistya](https://facebook.com/yudhaislamisulistya)
 <!-- prettier-ignore-end -->
