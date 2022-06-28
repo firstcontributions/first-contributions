@@ -7822,4 +7822,5 @@ Stephen kihuni
 - [Nimish Chalkar](https://github.com/NimishChalkar)
 - [Daniel Teffenhart](https://github.com/Nuggit40)
 - [Yogesh Pendse](https://github.com/yogeshpendse)
+- [MashiroLang](https://github.com/mashirolang)
 <!-- prettier-ignore-end -->
