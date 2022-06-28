@@ -5060,6 +5060,7 @@ Himanshu Dedha
 - [Ayushman Singh Rathore](https://github.com/Spartan09)
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
+- [Sean McDermott](https://github.com/seandevwork) 
 - [Vinod Biradar](https://github.com/vinod014)
 - [Niti Shah](https://github.com/Niti-Shah)
 - [Samir Supe](https://github.com/Mir-SA)
