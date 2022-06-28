@@ -701,6 +701,7 @@ Nicholaus Michael
 - [Nicolas](https://github.com/nnicolasg)
 - [Jesus G Jara](https://github.com/jesusgjara)
 - [Fazil Raja](https://github.com/fazilraja)
+- [Lawrence Porquia](https://github.com/CarthyPoo)
 - [Sebastian](https://github.com/Samuurai)
 - [Muhammed Shehaz](https://github.com/sh3hz)
 - [Blankjr](https://github.com/Blankjr)
