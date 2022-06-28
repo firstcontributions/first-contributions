@@ -507,6 +507,7 @@ Nicholaus Michael
 - [Joshua Goldstein]
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Okeke Kenechukwu](https://github.com/kenekc18)
+- [Ankit Sharma](https://github.com/Sabretooth1405)
 - [mdelrosa](https://github.com/mdelrosa)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
