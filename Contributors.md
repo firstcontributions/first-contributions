@@ -59,6 +59,7 @@ Tony Idehen
   [John Carmack](https://pokemonpower92.github.io/portfolio/)
 - <a href="https://github.com/hello-smile6">hello-smile6</a> <sub><a href="https://solanum.9pfs.repl.co">(Personal IRC network)</a></sub><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=hello-smile6&show_icons=true&theme=tokyonight)](https://github.com/hello-smile6/)
 - [Aaron Lowe](https://github.com/CyberFlameGO
+- [Josh Hayles] (https://github.com/joshhayles)
 - [David yao] (https://github.com/davidyao2011)
 - [Dino Luethy] (https://github.com/EngineerDino)
 - [Quan Jiang](https://github.com/JQuan1999)
