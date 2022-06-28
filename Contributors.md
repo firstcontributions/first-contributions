@@ -743,6 +743,7 @@ Nicholaus Michael
 - [Brian Lee] (https://github.com/washow)
 - [Pokruk](https://github.com/Pokruk)
 - [cody] (https://github.com/codynw42)
+- [Rawzi Homran] (https://github.com/rawziNael)
 - [Saitama93](https://github.com/saitama93)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [Mac Mecoy](https://github.com/mwmMecoy)
