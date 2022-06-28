@@ -48,6 +48,7 @@
 [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Angela Johnson](https://github.com/angieloux)
+- [Abdullah Qasim](https://github.com/Abdullahqasim75)
 - [Filip Telente](https://github.com/aminta5)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [Nur Hamid](https://github.com/nurhamidqq)
