@@ -4,6 +4,7 @@
 - [Carleii](https://github.com/carleii)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 -[Ahmed,Alimohamed] (https://github.com/severicus)
+- [Rishi Raj ](https://github.com/Rishi562)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
@@ -7828,4 +7829,5 @@ Stephen kihuni
 - [Yogesh Pendse](https://github.com/yogeshpendse)
 - [MashiroLang](https://github.com/mashirolang)
 - [gelifeke](https://github.com/gelifeke)
+
 <!-- prettier-ignore-end -->
