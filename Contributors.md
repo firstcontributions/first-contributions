@@ -9,6 +9,7 @@
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
 Tony Idehen
 - [Shashwat Shah](https://github.com/shashwat-shah)
+- [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
 - [Peco602](https://github.com/Peco602)
