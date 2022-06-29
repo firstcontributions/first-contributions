@@ -7863,4 +7863,5 @@ Stephen kihuni
 - [Iker Sánchez](https://github.com/arieshiphop)
 - [Jason Ani](https://github.com/xxxdigi)
 - [Võ Minh Thiên Long](https://github.com/thienlongtpct)
+- [Chris Wilson]
 <!-- prettier-ignore-end -->
