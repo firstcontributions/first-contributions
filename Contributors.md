@@ -8,7 +8,6 @@
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Robby G]
-- [Suraj Sajwan](https://github.com/Sajwan055)
 - [David yao] (https://github.com/davidyao2011)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [VaradC](https://github.com/cvarad96)
@@ -16,6 +15,7 @@
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
+- [Suraj Sajwan](https://github.com/Sajwan055)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
