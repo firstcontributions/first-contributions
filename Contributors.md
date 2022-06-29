@@ -18,6 +18,7 @@ Tony Idehen
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
+- [Erica Layton](https://github.com/BeeperDev)
 - [Peco602](https://github.com/Peco602)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
