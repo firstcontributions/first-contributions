@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [Carleii](https://github.com/carleii)
