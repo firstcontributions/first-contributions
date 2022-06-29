@@ -7844,4 +7844,5 @@ Stephen kihuni
 - [Tianfu Wang](https://github.com/tfwang96)
 - [Arkadiusz Drężek](https://github.com/git-nauka)
 - [Mujahid Khan](https://github.com/themujahidkhan)
+- [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
 <!-- prettier-ignore-end -->
