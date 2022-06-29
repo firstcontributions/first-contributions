@@ -1004,6 +1004,7 @@ Nicholaus Michael
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Muinde Nthusi](https://github.com/nthusi)
+[Erin Conagher]
 - [Obaida Haj Yahya](https://github.com/ObaidaHY)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nathaniel Vo](https://github.com/midnightslushie)
