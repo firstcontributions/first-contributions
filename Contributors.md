@@ -3284,6 +3284,7 @@ yejashi
 - [Tansy Hu](https://github.com/subarashii-huch09)
 - [Rakesh Parihar](https://github.com/rpzero19)
 - [Irina Kuz](https://github.com/IrinaKuz)
+- [Heng Qu]
 - [Parth Soni](https://github.com/parth1007)
 - [Rozen Berg](https://github.com/rozenberg4christ)
 - [Adarsh Kannan](https://github.com/void-adarsh)
