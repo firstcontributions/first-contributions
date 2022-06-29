@@ -13,6 +13,7 @@
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
 Tony Idehen
 - [Shashwat Shah](https://github.com/shashwat-shah)
+- [Mitchell Megla](https://github.com/mitchell-megla)
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
