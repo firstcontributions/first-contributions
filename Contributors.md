@@ -125,6 +125,7 @@ Tony Idehen
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
 - [Bo Jangles](https://github.com/Bo-Jangles)
+- [Lewis Rye](https://github.com/LewisRye)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
