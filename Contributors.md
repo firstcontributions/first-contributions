@@ -7850,4 +7850,6 @@ Stephen kihuni
 - [Arkadiusz Drężek](https://github.com/git-nauka)
 - [Mujahid Khan](https://github.com/themujahidkhan)
 - [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
+- [Laura Farrer Muñoz](https://github.com/laurasoad)
+
 <!-- prettier-ignore-end -->
