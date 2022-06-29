@@ -7842,5 +7842,6 @@ Stephen kihuni
 - [Yudha Islami Sulistya](https://facebook.com/yudhaislamisulistya)
 - [mindcrunch4u](https://github.com/mindcrunch4u)
 - [Tianfu Wang](https://github.com/tfwang96)
-- [Arkadiusz Drężek](https://github.com/git-nauka) 
+- [Arkadiusz Drężek](https://github.com/git-nauka)
+- [Mujahid Khan](https://github.com/themujahidkhan)
 <!-- prettier-ignore-end -->
