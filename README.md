@@ -2,7 +2,8 @@
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-# 
+
+#
 
 #### _Read this in [other languages](translations/Translations.md)._
 
@@ -65,7 +66,8 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
-# 
+
+#
 
 # First Contributions
 
@@ -156,6 +158,10 @@ Push your changes using the command `git push`:
 
 ```
 git push origin -u <add-your-branch-name>
+
+If you are unable to push due to errors that include :
+Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+please refer to the documentation in Github about getting a personal access token here
 ```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
