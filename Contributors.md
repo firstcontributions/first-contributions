@@ -14,6 +14,7 @@
 Tony Idehen
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Mitchell Megla](https://github.com/mitchell-megla)
+- [Rohan Abraham](https://github.com/RohanSAbraham)
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
