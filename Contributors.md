@@ -7859,4 +7859,5 @@ Stephen kihuni
 - [Mujahid Khan](https://github.com/themujahidkhan)
 - [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
 - [Iker Sánchez](https://github.com/arieshiphop)
+- [Jason Ani](https://github.com/xxxdigi)
 <!-- prettier-ignore-end -->
