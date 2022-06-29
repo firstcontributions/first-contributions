@@ -7862,4 +7862,5 @@ Stephen kihuni
 - [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
 - [Iker Sánchez](https://github.com/arieshiphop)
 - [Jason Ani](https://github.com/xxxdigi)
+- [Võ Minh Thiên Long](https://github.com/thienlongtpct)
 <!-- prettier-ignore-end -->
