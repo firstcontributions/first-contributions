@@ -3398,6 +3398,7 @@ yejashi
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Akinmegha, Temitope Samuel](https://github.com/temitopeakin1)
+- [Karthik Balasundaram](https://github.com/karthikbalasundram)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [João Gomes](https://github.com/joaogomes1))
 - [William Lawson](https://github.com/wlawson2)
