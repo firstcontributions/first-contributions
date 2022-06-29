@@ -2588,6 +2588,7 @@ add jerry404lee
 - [Priyanshu Patwa](https://github.com/Priyanshu2022)
 - [Christopher_Dang](https://github.com/christopherdang)
 - [Marah Musleh](https://github.com/Marahmusleh)
+- [Stephanie Marin](https://github.com/StephanieYuzuriha)
 - [Manan Sharma](https://github.com/manansharma18)
 - [taqro](https://github.com/taqro)
 - [orion](https://github.com/583373805) 
