@@ -254,6 +254,7 @@ Tony Idehen
 - [Farhan Karim](https://github.com/farhankarimcs)
 - [Abbate Emanuele](https://github.com/maxcohen31)
 - [GAILLARD Germain] (https://github.com/gaillard-germain)
+- [Joseba Ercilla] (https://github.com/jercilla)
 - [Mauro Philipe](https://github.com/mauroPh)
 - [Mohammad Ghanem](https://github.com/ghanemgit)
 - [Terra Hanks](https://github.com/vampyteuth)
