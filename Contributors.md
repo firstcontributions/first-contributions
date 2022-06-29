@@ -115,6 +115,7 @@ Tony Idehen
 - [Bakul Gupta](https://github.com/Bakul-G)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
+- [Bo Jangles](https://github.com/Bo-Jangles)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
