@@ -6230,6 +6230,7 @@ Himanshu Dedha
 - [Mariusz Git](https://github.com/mariuszgit)
 - [todoggler](https://github.com/todoggler)🦭
 - [Karen Hanko](https://github.com/guu1227)
+- [Kazuaki Ueda](https://github.com/kazweda)
 - [Ankit Kokane](https://github.com/thedudeonsun)
 - [Alexey Luhinin](https://github.com/alexey-luhinin)
 * Stop reading names (https://github.com/parthnagdev)
