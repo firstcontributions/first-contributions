@@ -502,6 +502,7 @@ Nicholaus Michael
 - [Riley Spence] (https://github.com/RileyRSVP)
 - [Turry](https://github.com/Oh-Turry)
 - [Kieran Brady](https://github.com/kb1107)
+- [Brittany Tinnin](https://github.com/TinninBrittany)
 - [Adam Stephens](https://github.com/stender11)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
@@ -7839,4 +7840,5 @@ Stephen kihuni
 - [Yudha Islami Sulistya](https://github.com/yudhaislamisulistya)
 - [Yudha Islami Sulistya](https://facebook.com/yudhaislamisulistya)
 - [Tianfu Wang](https://github.com/tfwang96)
+- [mindcrunch4u](https://github.com/mindcrunch4u)
 <!-- prettier-ignore-end -->
