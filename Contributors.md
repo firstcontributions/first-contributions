@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Mohammad Iqbal](https://github.com/iqmd)
 - [Carleii](https://github.com/carleii)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram] (https://github.com/prasannarajaram)
