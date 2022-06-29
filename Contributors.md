@@ -192,6 +192,7 @@ Tony Idehen
 - [Hugo Guilherme] (https://github.com/hugomilesi)
 - [DeIn221](https://github.com/DeIn221)
 - [ranemirus]
+- [dasl3on](https://github.com/dasl3on)
 - [Ishmael Williams] (https://github.com/Ishmael-Williams)
 - [Chad Bryant] (https://github.com/g3chad)
 - [E Rod](https://github.com/Proximacentauri-b)
