@@ -3398,6 +3398,7 @@ yejashi
 - [Yogeshwar Bari](https://github.com/yogeshwarbari)
 - [Lawal, Abdulrafiu Kehinde](https://github.com/kennie-larkson)
 - [Akinmegha, Temitope Samuel](https://github.com/temitopeakin1)
+- [Karthik Balasundaram](https://github.com/karthikbalasundram)
 - [Ester Santos](https://github.com/EsterRibeiro)
 - [João Gomes](https://github.com/joaogomes1))
 - [William Lawson](https://github.com/wlawson2)
@@ -7859,4 +7860,5 @@ Stephen kihuni
 - [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
 - [Iker Sánchez](https://github.com/arieshiphop)
 - [Jay Chen](https://github.com/xiaoyuan0203) 
+- [Jason Ani](https://github.com/xxxdigi)
 <!-- prettier-ignore-end -->
