@@ -27,6 +27,7 @@ Tony Idehen
 - [Nelson de Barros](https://github.com/nek54)
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
 - [Oishik Sengupta] (https://github.com/oiishik)
+- [Perla Martinez] (https://github.com/aghata12)
 - [Jeff Kwakou] (https://github.com/JeffKwakou)
 - [Jasmine Mary]
 - [Khalid Yacoub] (https://github.com/Faudii)
