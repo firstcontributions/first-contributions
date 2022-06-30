@@ -2750,6 +2750,7 @@ Ajith
 - [Luiz Junior](https://github.com/LuizAPJunior)
 - [Bishama Irfan](https://github.com/Bishama)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
+- [Henry Morris](https://github.com/HMPrgm)
 - [Nebulahh](https://github.com/nebulahh)
 - [Aritra Koley](https://github.com/aritrakoley)
 - [Nevil Mills](https://github.com/nevilmills)
