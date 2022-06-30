@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Prayag](https://github.com/Prayag-09)
 - [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
