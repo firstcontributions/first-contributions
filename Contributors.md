@@ -3291,6 +3291,7 @@ yejashi
 - [Krzysztof Moszyński](https://github.com/NonVideri)
 - [Divyesh Mangroliya](https://github.com/Divyesh24)
 - [Noah Beach](https://github.com/noahwbeach)
+- [Alejandro Duarte](https://github.com/the-alek)
 - [Vaibhav Chopra](https://github.com/Vaibhav-Chopra-GT)
 - [Animesh Srivastava](https://github.com/animesh-77)
 - [Chaewoo Lee](https://github.com/ChaewooLee)
