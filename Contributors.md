@@ -1902,6 +1902,7 @@ Gabrielle Jones
 -[Ajinkya Bhandare](https://github.com/0-Ajinkya)
 -[shiwam](https://github.com/orrgato)
 -[Abhay](https://github.com/abhaypsamrat)
+-[Sagar Goswami](https://github.com/sagargoswami2001)
 -[Ali Daoudi]
 -[Alice Chen]
 -[Gergana](https://github.com/gerito100)
