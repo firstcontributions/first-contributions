@@ -120,6 +120,7 @@ Tony Idehen
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Tommy Seamans](https://github.com/tseamans1214)
 - [Anna]
+- [Minki Beak](https://github.com/miinkeee)
 - [Andrew Chang](https://github.com/AndrewChang2025)
 - [Uday](https://github.com/udaysonyy)
 - [Angela Johnson](https://github.com/angieloux)
