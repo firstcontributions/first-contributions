@@ -7888,4 +7888,5 @@ Stephen kihuni
 - [Jeeten Potabathni](https://github.com/jeetenp)
 - [Jean Nunes]~(https://github.com/ja8an)
 - [Manuel Esteban]~(https://github.com/Manuekle)
+- [Ian Knopke](https://github.com/ekponk)
 <!-- prettier-ignore-end -->
