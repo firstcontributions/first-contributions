@@ -6966,6 +6966,7 @@ Michael Wong
 - [Scott Engelhard] (https://github.com/dudescott)
 - [Thinh Nguyen](https://github.com/prospertin)
 - [Harsha Vardhan] (https://github.com/harsha6117)
+- [Jason Carr] (https://github.com/jasoncarr95/)
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - [Yoni Smolyar] (https://github.com/ysmolyar)
 - [Jitul Kumar Laphong] (https://github.com/jitulkr)
