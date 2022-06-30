@@ -7835,6 +7835,7 @@ Stephen kihuni
 - [Pomiscle](https://github.com/pomiscle)
 - [Milene Toazza](https://github.com/mihtoa)
 - [Guancheng Fu](https://github.com/litstar414)
+- [Carlos Guzman](https://github.com/Carlos7T)
 - [Terence Teoh](https://github.com/terenceteoh23)
 - [Anish Lukkireddy](https://github.com/anishlukk123)
 - [Ricky](https://github.com/rickybopanna)
