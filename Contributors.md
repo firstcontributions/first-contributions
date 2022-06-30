@@ -7886,4 +7886,5 @@ Stephen kihuni
 - [Robert Crockett](https://github.com/robertcrockett)
 - [Jeeten Potabathni](https://github.com/jeetenp)
 - [Jean Nunes]~(https://github.com/ja8an)
+- [Manuel Esteban]~(https://github.com/Manuekle)
 <!-- prettier-ignore-end -->
