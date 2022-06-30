@@ -3815,6 +3815,7 @@ yejashi
 - [Walid Palekar](https://github.com/palwd8/)
 - sumit
 - [Toyeesh Sinha](https://github.com/bubsy3d)
+- [Gustavo Cristian](https://github.com/dyaghas)
 - [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Arihant](https://github.com/arihantjain-git/)
 - [Heidal](https://github.com/TheHeidal/)
