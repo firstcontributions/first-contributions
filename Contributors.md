@@ -7881,4 +7881,5 @@ Stephen kihuni
 - [Vincent Lee](https://github.com/VLDQ)
 - [Robert Crockett](https://github.com/robertcrockett)
 - [Jeeten Potabathni](https://github.com/jeetenp)
+- [Jean Nunes]~(https://github.com/ja8an)
 <!-- prettier-ignore-end -->
