@@ -2655,6 +2655,7 @@ Tristan Bottone
 - [Joshua Best](https://github.com/joshuabest541)
 - [Ricardo Conchas](https://github.com/rishells)
 - [Ulrich Vollert](https://github.com/ulrivo)
+- [Gus Fowle] (https://github.com/gfowle201926762)
 - [Anuj Varshney](https://github.com/ianujvarshney)
 - [ACF] (https//github.com/adriancf-br)
 - [Jonathan Conde](https://github.com/JC0nde)
