@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Prayag](https://github.com/Prayag-09)
+- [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
