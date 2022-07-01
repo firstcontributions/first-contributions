@@ -21,6 +21,7 @@ Tony Idehen
 - [Rohan Abraham](https://github.com/RohanSAbraham)
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
+- [Rahul Roy](https://github.com/RAHULRo)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
