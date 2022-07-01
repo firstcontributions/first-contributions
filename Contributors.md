@@ -37,6 +37,7 @@ Tony Idehen
 - [Perla Martinez] (https://github.com/aghata12)
 - [Jeff Kwakou] (https://github.com/JeffKwakou)
 - [Jasmine Mary]
+- [Shubham Kumar] (https://github.com/shubhamk90)
 - [Khalid Yacoub] (https://github.com/Faudii)
 - [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
