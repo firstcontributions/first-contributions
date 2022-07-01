@@ -7893,6 +7893,7 @@ Stephen kihuni
 - [Mujahid Khan](https://github.com/themujahidkhan)
 - [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
 - [Iker Sánchez](https://github.com/arieshiphop)
+- [Jay Chen](https://github.com/xiaoyuan0203) 
 - [Jason Ani](https://github.com/xxxdigi)
 - [Võ Minh Thiên Long](https://github.com/thienlongtpct)
 - [Vincent Lee](https://github.com/VLDQ)
