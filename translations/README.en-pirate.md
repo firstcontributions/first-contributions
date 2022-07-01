@@ -6,7 +6,7 @@
 
 # First Contributions
 
-'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't' a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
 
