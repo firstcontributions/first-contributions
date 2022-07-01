@@ -360,6 +360,7 @@ Tony Idehen
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Mazhar Ansari](https://github.com/MJCoder15)
 - [Kenny Pearson](https://github.com/kenwoodp)
+- [Roger Stafford](https://github.com/rogerstafforducl)
 - [Varad Katkalambekar]
 - [Anthonippillai Vincent Nishan] (https://github.com/SunrayVision)
 - [Fernando Unger](https://github.com/fernandounger/)
