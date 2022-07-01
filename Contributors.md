@@ -5256,6 +5256,7 @@ Himanshu Dedha
 - [Hectonit](https://github.com/hectonit)
 - [Matej Musil](https://github.com/ShutenDoji9)
 - [Joshua Dillon](https://github.com/jdil1223)
+- [William Zijie Zhang](https://github.com/Transurgeon)
 - [Chris Clements](https://github.com/cclements1384)
 - [Justin Maksimczuk](https://github.com/justinmaks)
 - [Guillermo Brachettta](https://github.com/gbrachetta)
