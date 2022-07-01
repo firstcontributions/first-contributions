@@ -69,6 +69,7 @@ Tony Idehen
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [Abhinav Garg](https://github.com/theabhiinavgarg)
 - [Abigel Asteraye](https://github.com/simplectasy)
+  [Giane Apuada](https://github.com/PeacefulHermits)
 - [Prakash](https://github.com/Prakash4844)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
