@@ -109,6 +109,7 @@ Tony Idehen
 - [Ojash Kushwaha](https://github.com/OjashKush)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
+- [Akshat Kumar](https://github.com/Akshatkumar4433)
 - [Chetan Nair](https://github.com/ChetanNair)
 - [Sitaram Pal](https://github.com/sitaram2011)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
