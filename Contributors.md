@@ -54,6 +54,7 @@ Tony Idehen
 - [Gideon Balogun](https://github.com/itzgeebee)
 - [Hafiz Muhammad Khuzaima Umair](https://github.com/mkhuzaima "Khuzaima's Github Profile")
 - [Jack Ma](https://github.com/KingJacM)
+- [Nozomu Ohno](https://github.com/nohno23)
 - [Sophearoth Prum](https://github.com/biscuit-lee)
 - [Abhiram Santhosh](https://github.com/mayopik)
 - [Brian Muimi](https://github.com/brianmuimi)
