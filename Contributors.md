@@ -26,6 +26,7 @@ Tony Idehen
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Mitchell Megla](https://github.com/mitchell-megla)
 - [Rohan Abraham](https://github.com/RohanSAbraham)
+- [Nayan Pasari](https://github.com/npasari)
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Rahul Roy](https://github.com/RAHULRo)
