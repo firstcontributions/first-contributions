@@ -7907,6 +7907,7 @@ Stephen kihuni
 - [Arkadiusz Drężek](https://github.com/git-nauka)
 - [Mujahid Khan](https://github.com/themujahidkhan)
 - [Tejendra Singh Rajawat](https://github.com/Tejendrasrajawat)
+- [Alex Metzger] (https://github.com/Metameg)
 - [Iker Sánchez](https://github.com/arieshiphop)
 - [Jason Ani](https://github.com/xxxdigi)
 - [Võ Minh Thiên Long](https://github.com/thienlongtpct)
