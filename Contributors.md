@@ -7907,6 +7907,7 @@ Stephen kihuni
 - [Vincent Lee](https://github.com/VLDQ)
 - [Robert Crockett](https://github.com/robertcrockett)
 - [Jeeten Potabathni](https://github.com/jeetenp)
+- [Fernando Mora](https://github.com/jfernandomora)
 - [Jean Nunes]~(https://github.com/ja8an)
 - [Manuel Esteban]~(https://github.com/Manuekle)
 - [Ian Knopke](https://github.com/ekponk)
