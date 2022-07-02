@@ -7914,4 +7914,5 @@ Stephen kihuni
 - [Ian Knopke](https://github.com/ekponk)
 - [Manish Kandepalli](https://github.com/manish295)
 - [Bayu Afif Nuranto](https://github.com/bayunuranto14)
+- [Dan Eisen](https://github.com/slightlyNoided)
 <!-- prettier-ignore-end -->
