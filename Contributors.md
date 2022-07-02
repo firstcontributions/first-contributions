@@ -19,6 +19,7 @@
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
+- [Shauna Empringham](https://github.com/ShaunaTheDead86)
 Tony Idehen
 - [Amira Ezzeldin](https://github.com/aezz4007)
 - [Shashwat Shah](https://github.com/shashwat-shah)
