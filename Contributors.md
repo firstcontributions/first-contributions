@@ -7,6 +7,7 @@
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Vikas Adhikari](https://github.com/VikasAdhikari07)
+- [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Elvis Osano](https://github.com/Elvis-Osano)
