@@ -7,6 +7,7 @@
 - [Vikas Adhikari](https://github.com/VikasAdhikari07)
 - [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
+- [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [Carleii](https://github.com/carleii)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
