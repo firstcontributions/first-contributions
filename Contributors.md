@@ -2787,7 +2787,7 @@ Ajith
 - [Matttx](https://github.com/Matttx)
 - Saripalli
 - Miguel
-- [Hans0811](https://github.com/hans0811)
+- WrathOfThanos
 - [Enrique Ji](https://github.com/enriquejiwa)
 - [Freddy Sossa](https://github.com/fredsossa1)
 - [SayamJain1](https://github.com/SayamJain1)
