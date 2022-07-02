@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
+- [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Vikas Adhikari](https://github.com/VikasAdhikari07)
 - [Jay](https://github.com/jaghara)
