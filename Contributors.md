@@ -37,7 +37,7 @@ Tony Idehen
 - [Rachit Verma] (https://github.com/darkknight20032001)
 - [Nelson de Barros](https://github.com/nek54)
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
-- [Oishik Sengupta] (https://github.com/oiishik)
+- [Manasa D] (https://github.com/manasa1626)
 - [Tim O'Brien] (https://github.com/animalchin45)
 - [Perla Martinez] (https://github.com/aghata12)
 - [Jeff Kwakou] (https://github.com/JeffKwakou)
