@@ -6332,6 +6332,7 @@ Himanshu Dedha
 - [SaMs-Hub](https://github.com/SaMs-Hub)
 - [Divyansh Upadhyay](https://github.com/DuP-491)
 - [Rutar Andriy](https://github.com/RutarAndriy)
+- WrathOfThanos(https://github.com/WrathOfThanos)
 - [MrMultiMediator](https://github.com/MrMultiMediator)
 - [Arnold Ho](https://github.com/arnoldboy123)
 - [xCUELHO](https://github.com/xCUELHO)
