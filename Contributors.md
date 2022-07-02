@@ -10,7 +10,7 @@
 - [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [Carleii](https://github.com/carleii)
-- [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
+- [manasa1626](https://github.com/manasa1626)
 - [Prasanna Rajaram] (https://github.com/prasannarajaram)
 -[Ahmed,Alimohamed] (https://github.com/severicus)
 - [Monteiro H.](https://github.com/monteiroh)
