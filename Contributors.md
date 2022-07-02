@@ -179,6 +179,7 @@ Tony Idehen
 - [Zach Adkins](https://github.com/zaa94/)
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
+- [Tomer Lev](https://github.com/tomerlev001)
 - [Ala Mohammad](https://github.com/AlaaYlula)
 - [Shafayet Khan Shafee](https://github.com/shafayetShafee) 
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
