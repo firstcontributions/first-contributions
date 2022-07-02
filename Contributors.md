@@ -1,4 +1,4 @@
-**Contributors**
+b**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Prayag](https://github.com/Prayag-09)
@@ -73,6 +73,7 @@ Tony Idehen
 - [Abhiram Santhosh](https://github.com/mayopik)
 - [Brian Muimi](https://github.com/brianmuimi)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
+- [Bibin Biju](https://github.com/bib265)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
