@@ -3138,6 +3138,7 @@ yejashi
 - [June](https://github.com/junezimmerman93)
 - [Meharab](https://github.com/Meharab)
 - [Petre Tiberiu](https://github.com/Petrickah)
+- [Nikolaos Giachoudis](https://github.com/elpaxoudis)
 - [Chase Wrenn] (https://github.com/chasewrennufl)
 - [Yasmin Ledesma](https://github.com/HiddenOgre28)
 - [Courtney Burch](https://githib.com/courtneyburch)
