@@ -7943,4 +7943,5 @@ Stephen kihuni
 - [otjake](https://github.com/otjake)
 - [cflsurp](https://github.com/cflsurp)
 - [Serhat Levent Yavas](https://github.com/serhatleventyavas)
+- [BurgerMeanie](https://github.com/BurgerMeanie)
 <!-- prettier-ignore-end -->
