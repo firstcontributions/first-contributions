@@ -7874,4 +7874,5 @@ Stephen kihuni
 - [Võ Minh Thiên Long](https://github.com/thienlongtpct)
 - [Vincent Lee](https://github.com/VLDQ)
 - [Robert Crockett](https://github.com/robertcrockett)
+- [Lucy Xu](https://github.com/alan8365)
 <!-- prettier-ignore-end -->
