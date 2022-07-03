@@ -19,6 +19,7 @@ b**Contributors**
 -[Ahmed,Alimohamed] (https://github.com/severicus)
 - [Monteiro H.](https://github.com/monteiroh)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
+- [krishna Dwivedi](https://github.com/Krishnadwivedi52)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
 - [Shauna Empringham](https://github.com/ShaunaTheDead86)
