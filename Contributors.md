@@ -7931,4 +7931,5 @@ Stephen kihuni
 - [Tom Tsang](https://github.com/sdr70)
 - [Robin Wang](https://github.com/Cloverwave)
 - [PaulTitto](https://github.com/PaulTitto)
+- [otjake](https://github.com/otjake)
 <!-- prettier-ignore-end -->
