@@ -662,6 +662,7 @@ Nicholaus Michael
 - [3nhit] (https://github.com/3nhit)
 - [Grant Murombo](https://github.com/chaperoneg)
 - [Greg Chan]
+- [Kevin Miller] (https://github.com/kevinmilleryo)
 - [khada]
 - [Jake Clifford](https://github.com/jakeclifford)
 - [Phone Myint Maw](https://github.com/meemaw2020)
