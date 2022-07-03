@@ -6072,6 +6072,7 @@ Himanshu Dedha
 - [Dirk Cziesla](https://github.com/EndOfSource)
 - [yama0401](https://github.com/yama0401)
 - [Mohanad Alrwaihy](https://github.com/MohanadOO)
+- [Aamer Shikari](https://github.com/AamerShikari)
 - [Rahman Haroon](https://github.com/rahmanharoon)
 - [Fenix Xia](https://github.com/Fenix3123)
 - [Ratan Patil](https://github.com/ratanpatil212)
