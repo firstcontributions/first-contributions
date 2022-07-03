@@ -7935,4 +7935,5 @@ Stephen kihuni
 - [PaulTitto](https://github.com/PaulTitto)
 - [otjake](https://github.com/otjake)
 - [cflsurp](https://github.com/cflsurp)
+- [Serhat Levent Yavas](https://github.com/serhatleventyavas)
 <!-- prettier-ignore-end -->
