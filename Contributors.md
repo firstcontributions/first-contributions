@@ -424,6 +424,7 @@ zen.coder1.branch2
 Harshit Rai
 - [Cecilia Sun] (https://github.com/CeciliaRuiSun)
 - [Shivam Patel](https://github.com/Shivam1111111)
+- [Brick](https://github.com/rickard0)
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
 - [Furkan Kir](https://github.com/furkankir)
