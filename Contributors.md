@@ -2,7 +2,7 @@ b**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Prayag](https://github.com/Prayag-09)
-- [Peace Oghenevwefe](https://github.com/Peazzycole)
+- [Andrew Daugdaug](https://github.com/gp-drew)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
