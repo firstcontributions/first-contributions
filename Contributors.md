@@ -7928,4 +7928,5 @@ Stephen kihuni
 - [Dan Eisen](https://github.com/slightlyNoided)
 - [Tom Tsang](https://github.com/sdr70)
 - [Robin Wang](https://github.com/Cloverwave)
+- [David Wigg](https://github.com/davidjwigg)
 <!-- prettier-ignore-end -->
