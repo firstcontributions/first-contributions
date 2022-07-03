@@ -53,6 +53,8 @@ Tony Idehen
 - [Prasang Gupta](https://github.com/prasang-gupta)
 - [Shubham Kumar] (https://github.com/shubhamk90)
 zen.coder1.branch3
+zen.coder1
+zen.coder1.branch2
 - [Khalid Yacoub] (https://github.com/Faudii)
 - [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
@@ -7934,4 +7936,6 @@ Stephen kihuni
 - [Robin Wang](https://github.com/Cloverwave)
 - [PaulTitto](https://github.com/PaulTitto)
 - [otjake](https://github.com/otjake)
+- [cflsurp](https://github.com/cflsurp)
+- [Serhat Levent Yavas](https://github.com/serhatleventyavas)
 <!-- prettier-ignore-end -->
