@@ -15,6 +15,7 @@
 - [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [Carleii](https://github.com/carleii)
+- [Andreas Nilsson](https://github.com/anil9)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram] (https://github.com/prasannarajaram)
 -[Ahmed,Alimohamed] (https://github.com/severicus)
