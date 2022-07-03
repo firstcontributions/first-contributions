@@ -145,7 +145,9 @@ If you're making changes to a translation, please request a review from our prev
             <img width="100" src="https://avatars2.githubusercontent.com/u/20030805?s=460&v=4" alt="@ThirdScript" />
         </td>
     </tr>
-    <tr>
+    <tr><td>
+            <a href="https://github.com/subham-dhara">SubhamDhara</a>
+        </td>
         <td>
             <a href="https://github.com/MJMajoor">MJMajoor</a>
         </td>
