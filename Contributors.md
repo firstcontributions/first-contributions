@@ -1700,6 +1700,7 @@ Aneesh Chavan
 - [Kalama Kiefer](https://github.com/KalamaKiefer)
 - [Isaac Allinson] (https://github.com/IsaacA2151)
 - [Chiemerie Ezechukwu](https://github.com/chiemerieezechukwu)
+  [Chiemelie Melikam](https://github.com/MChiemelie)
 - [Piotr Kowalski](https://github.com/fatherJS)
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
 - [Fumiya Goto](https://github.com/tofu2323)
