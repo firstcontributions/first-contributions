@@ -52,6 +52,7 @@ Tony Idehen
 - [Jasmine Mary]
 - [Prasang Gupta](https://github.com/prasang-gupta)
 - [Shubham Kumar] (https://github.com/shubhamk90)
+zen.coder1
 - [Khalid Yacoub] (https://github.com/Faudii)
 - [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
