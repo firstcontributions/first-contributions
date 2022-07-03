@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Himanshu Dubey](https://github.com/sorted-hd)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
