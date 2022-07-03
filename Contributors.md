@@ -1,4 +1,4 @@
-b**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Prayag](https://github.com/Prayag-09)
@@ -3563,6 +3563,7 @@ yejashi
 - [Simeon Akanbi](https://github.com/simple-codes22)
 - [Jordan Moldovan](https://github.com/jmoldyvan)
 - [Rida](https://github.com/ridacode)
+- [German Panov](https://github.com/mdlufy)
 - [Rolbin](https://github.com/thenoveltyseeker)
 - [Aitor Mateu](https://github.com/Nokocchi93)
 - [David Michael](https://github.com/davelearning)
