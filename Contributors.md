@@ -108,6 +108,7 @@ zen.coder1.branch2
 - [Aaron Lowe](https://github.com/CyberFlameGO
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [Josh Hayles] (https://github.com/joshhayles)
+- [Taisia] (https://github.com/TaisiaKozharina)
 - [David yao] (https://github.com/davidyao2011)
 - [Dino Luethy] (https://github.com/EngineerDino)
 - [Quan Jiang](https://github.com/JQuan1999)
