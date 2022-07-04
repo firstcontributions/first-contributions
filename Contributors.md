@@ -7954,4 +7954,5 @@ Stephen kihuni
 - [David27](https://github.com/davidacab)
 - [Serhat Levent Yavas](https://github.com/serhatleventyavas)
 - [BurgerMeanie](https://github.com/BurgerMeanie)
+- [Mateusz Marek](https://github.com/MateuszEM88)
 <!-- prettier-ignore-end -->
