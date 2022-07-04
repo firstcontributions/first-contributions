@@ -7952,6 +7952,7 @@ Stephen kihuni
 - [Manish Kandepalli](https://github.com/manish295)
 - [Bayu Afif Nuranto](https://github.com/bayunuranto14)
 - [Dan Eisen](https://github.com/slightlyNoided)
+- [Joe Virn](https://github.com/joevirn)
 - [Tom Tsang](https://github.com/sdr70)
 - [Robin Wang](https://github.com/Cloverwave)
 - [PaulTitto](https://github.com/PaulTitto)
