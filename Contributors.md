@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Himanshu Dubey](https://github.com/sorted-hd)
+- [Liza Yemini](https://github.com/LizaYemini)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
