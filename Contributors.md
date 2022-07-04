@@ -7963,4 +7963,5 @@ Stephen kihuni
 - [David27](https://github.com/davidacab)
 - [Serhat Levent Yavas](https://github.com/serhatleventyavas)
 - [BurgerMeanie](https://github.com/BurgerMeanie)
+- [Hrishit Bhattacharya](https://github.com/Hrishit-B)
 <!-- prettier-ignore-end -->
