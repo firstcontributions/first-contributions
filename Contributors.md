@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Himanshu Dubey](https://github.com/sorted-hd)
+- [ Himanshu Dubey](https://github.com/sorted-hd)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
