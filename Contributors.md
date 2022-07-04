@@ -454,6 +454,7 @@ Harshit Rai
 -[Ishann Daultani] (https://github.com/ishannCodes)
 - [Abhishek Topwal] [https://github.com/abhishek-topwal]
 - [Mariana Westphalen] (https://github.com/marianaWest)
+- [Marvin John Walter](https://github.com/Marvjowa)
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
 - [Camille Granier](https://github.com/camille-granier)
