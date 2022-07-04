@@ -97,6 +97,7 @@ zen.coder1.branch2
 - [Abigel Asteraye](https://github.com/simplectasy)
   [Giane Apuada](https://github.com/PeacefulHermits)
 - [Prakash](https://github.com/Prakash4844)
+- [Prince Jeffrey](https://github.com/JaMox2)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Samiksha Kute] (https://github.com/samikshakute)
