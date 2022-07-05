@@ -7969,4 +7969,5 @@ Stephen kihuni
 - [BurgerMeanie](https://github.com/BurgerMeanie)
 - [Hrishit Bhattacharya](https://github.com/Hrishit-B)
 - [Saneev Dasari](https://github.com/saneev)
+- [David Wigg](https://github.com/davidjwigg)
 <!-- prettier-ignore-end -->
