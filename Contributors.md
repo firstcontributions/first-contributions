@@ -7961,6 +7961,7 @@ Stephen kihuni
 - [Jean Nunes]~(https://github.com/ja8an)
 - [Manuel Esteban]~(https://github.com/Manuekle)
 - [Ian Knopke](https://github.com/ekponk)
+- [fyz](https://github.com/fy711)
 - [Manish Kandepalli](https://github.com/manish295)
 - [Bayu Afif Nuranto](https://github.com/bayunuranto14)
 - [Dan Eisen](https://github.com/slightlyNoided)
