@@ -41,6 +41,7 @@ Tony Idehen
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Adam Ralph](https://github.com/adamjralph)
+- [Rohit Yadav](https://github.com/devrohityadav)
 - [Rahul Roy](https://github.com/RAHULRo)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
