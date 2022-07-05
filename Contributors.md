@@ -157,6 +157,10 @@
   [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
   [Shivam Singh](https://github.com/CommData)
   [Prakhar Dubey](https://github.com/prakhardubey2002)
+  [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
+  [Shivam Singh](https://github.com/CommData)
+  [Steven Hastings](https://github.com/gitHasty-0321)
+  [Prakhar Dubey](https://github.com/prakhardubey2002)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Tommy Seamans](https://github.com/tseamans1214)
 - [Anna]
