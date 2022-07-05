@@ -119,6 +119,7 @@ zen.coder1.branch2
 - [Josh Hayles] (https://github.com/joshhayles)
 - [Taisia] (https://github.com/TaisiaKozharina)
 - [David yao] (https://github.com/davidyao2011)
+- [david yahoo] (https://github.com/kurapika23)
 - [Dino Luethy] (https://github.com/EngineerDino)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Levi Francis](https://github.com/leevigh)
