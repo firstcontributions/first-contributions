@@ -7977,4 +7977,6 @@ Stephen kihuni
 - [Hrishit Bhattacharya](https://github.com/Hrishit-B)
 - [Saneev Dasari](https://github.com/saneev)
 - [David Wigg](https://github.com/davidjwigg)
+- [Hezron Njoroge](https://github.com/Mhezron)
+
 <!-- prettier-ignore-end -->
