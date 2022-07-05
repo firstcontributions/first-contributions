@@ -7,6 +7,7 @@
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Amos Mwongela](https://github.com/4ouR04)
 - [Vikas Adhikari](https://github.com/VikasAdhikari07)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Jay](https://github.com/jaghara)
