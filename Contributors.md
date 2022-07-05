@@ -339,6 +339,7 @@ zen.coder1.branch2
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Jonathan Andrade Valenzuela] (https://github.com/jmv1006)
+- [Jonathan Adithya](https://github.com/jo-adithya)
 - [Sage Writ](https://github.com/sagewrit)
 - [Orne Virardi] (https://github.com/ornevirardi)
 - [Kadl19] (https://github.com/Kadl19)
