@@ -4,6 +4,7 @@
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Liza Yemini](https://github.com/LizaYemini)
+- [Daniel DeCario](https://github.com/CaptainIff)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
