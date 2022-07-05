@@ -3,8 +3,11 @@
 <!-- prettier-ignore-start -->
 
 - [Himanshu Dubey](https://github.com/sorted-hd)
+- [Liza Yemini](https://github.com/LizaYemini)
+- [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
+- <a href="https://github.com/keshav-xebia">Keshav Sharma</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=keshav-xebia&show_icons=true&theme=tokyonight)](https://github.com/keshav-xebia)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [Neel Awsare](https://github.com/awsare)
 - [chensheng](https://github.com/ChenSheng6869)<br/><img src="https://github-readme-stats.vercel.app/api?username=ChenSheng6869&show_icons=true&hide_title=true&theme=blue-green"/>
@@ -17,6 +20,8 @@
 - [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [Carleii](https://github.com/carleii)
+- [Kostusenko-Alex]
+- [Kostusenko-Alex #2 ]
 - [Andreas Nilsson](https://github.com/anil9)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram] (https://github.com/prasannarajaram)
@@ -62,6 +67,7 @@
   zen.coder1
   zen.coder1.branch2
 - [Khalid Yacoub] (https://github.com/Faudii)
+- [Maryam Abdulkareem] (https://github.com/Tolohuntomilade)
 - [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
@@ -99,6 +105,7 @@
 - [Abigel Asteraye](https://github.com/simplectasy)
   [Giane Apuada](https://github.com/PeacefulHermits)
 - [Prakash](https://github.com/Prakash4844)
+- [Prince Jeffrey](https://github.com/JaMox2)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Samiksha Kute] (https://github.com/samikshakute)
@@ -108,6 +115,7 @@
 - [Aaron Lowe](https://github.com/CyberFlameGO
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [Josh Hayles] (https://github.com/joshhayles)
+- [Taisia] (https://github.com/TaisiaKozharina)
 - [David yao] (https://github.com/davidyao2011)
 - [Dino Luethy] (https://github.com/EngineerDino)
 - [Quan Jiang](https://github.com/JQuan1999)
@@ -237,6 +245,7 @@
 - [Hugo Guilherme] (https://github.com/hugomilesi)
 - [DeIn221](https://github.com/DeIn221)
 - [ranemirus]
+- [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [Ishmael Williams] (https://github.com/Ishmael-Williams)
 - [Chad Bryant] (https://github.com/g3chad)
@@ -454,6 +463,7 @@
   -[Ishann Daultani] (https://github.com/ishannCodes)
 - [Abhishek Topwal] [https://github.com/abhishek-topwal]
 - [Mariana Westphalen] (https://github.com/marianaWest)
+- [Marvin John Walter](https://github.com/Marvjowa)
 - [Arjun Puthli] (https://github.com/akagam1)
 - [Danush S](https://github.com/Danush123)
 - [Camille Granier](https://github.com/camille-granier)
@@ -1013,6 +1023,7 @@
 - [Andrea Ubbiali](https://github.com/aubbiali)
   [cylearny](https://github.com/cylearny)
 - [edaro27](https://github.com/edaro27)
+Sabrina K
 - [Michael Adetona](https://github.com/AdetonaMichael)
 - [Ale Castillo](https://github.com/aleepsy)
 - [Jyoti Bhaliyan](https://github.com/Jbhaliyan)
@@ -7874,6 +7885,8 @@ Himanshu Dedha
 - Hiten Solanki
 - Just AmrG
 - [Mhamed Ajjig](https://github.com/Ajjig)
+- [GhostKaat](https://github.com/ghostkaat)
+- [JJ Bai](https://github.com/JJBai2003)
 - [Frankie Fisher](https://github.com/fish2410)
 - [Curtis Bowser](https://github.com/bwsrcurtis) 
 - [mendelssohnbach](https://github.com/mendelssohnbach/)
@@ -7943,6 +7956,7 @@ Himanshu Dedha
 - [Manish Kandepalli](https://github.com/manish295)
 - [Bayu Afif Nuranto](https://github.com/bayunuranto14)
 - [Dan Eisen](https://github.com/slightlyNoided)
+- [Joe Virn](https://github.com/joevirn)
 - [Tom Tsang](https://github.com/sdr70)
 - [Robin Wang](https://github.com/Cloverwave)
 - [PaulTitto](https://github.com/PaulTitto)
@@ -7951,4 +7965,4 @@ Himanshu Dedha
 - [David27](https://github.com/davidacab)
 - [Serhat Levent Yavas](https://github.com/serhatleventyavas)
 - [BurgerMeanie](https://github.com/BurgerMeanie)
-- <!-- prettier-ignore-end -->
+<!-- prettier-ignore-end -->
