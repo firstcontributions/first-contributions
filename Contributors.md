@@ -245,6 +245,7 @@ zen.coder1.branch2
 - [Shubh](https://github.com/imshubh69)
 - [Hugo Guilherme] (https://github.com/hugomilesi)
 - [DeIn221](https://github.com/DeIn221)
+- [matheuuss] (https://github.com/matheuuss)
 - [ranemirus]
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
