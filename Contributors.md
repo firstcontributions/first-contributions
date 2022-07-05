@@ -3,14 +3,16 @@
 <!-- prettier-ignore-start -->
 
 - [Himanshu Dubey](https://github.com/sorted-hd)
+- [Liza Yemini](https://github.com/LizaYemini)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
 - <a href="https://github.com/keshav-xebia">Keshav Sharma</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=keshav-xebia&show_icons=true&theme=tokyonight)](https://github.com/keshav-xebia)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
-- [Catherine Chukwu](https://github.com/kjcatherine)
+
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Amos Mwongela](https://github.com/4ouR04)
 - [Vikas Adhikari](https://github.com/VikasAdhikari07)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Jay](https://github.com/jaghara)
@@ -21,6 +23,7 @@
 - [Carleii](https://github.com/carleii)
 - [Kostusenko-Alex]
 - [Kostusenko-Alex #2 ]
+- [Andy Qin](https://github.com/qin-andrew123)
 - [Andreas Nilsson](https://github.com/anil9)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram] (https://github.com/prasannarajaram) -[Ahmed,Alimohamed] (https://github.com/severicus)
@@ -40,6 +43,7 @@
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Adam Ralph](https://github.com/adamjralph)
+- [Rohit Yadav](https://github.com/devrohityadav)
 - [Rahul Roy](https://github.com/RAHULRo)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
@@ -65,6 +69,7 @@
   zen.coder1
   zen.coder1.branch2
 - [Khalid Yacoub] (https://github.com/Faudii)
+- [Maryam Abdulkareem] (https://github.com/Tolohuntomilade)
 - [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
 - [Isabel Rodenas] (https://github.com/isromar)
@@ -150,9 +155,14 @@
   [Mary June Scott] (https://github.com/MaryJune89)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
-  [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
-  [Shivam Singh](https://github.com/CommData)
-  [Prakhar Dubey](https://github.com/prakhardubey2002)
+-[Catherine Chukwu](https://github.com/kjcatherine)
+-[Prasannajeet Pradhan](https://github.com/prasannajeet2002)
+-[Shivam Singh](https://github.com/CommData)
+-[Prakhar Dubey](https://github.com/prakhardubey2002)
+-[Prasannajeet Pradhan](https://github.com/prasannajeet2002)
+-[Shivam Singh](https://github.com/CommData)
+-[Steven Hastings](https://github.com/gitHasty-0321)
+-[Prakhar Dubey](https://github.com/prakhardubey2002)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Tommy Seamans](https://github.com/tseamans1214)
 - [Anna]
@@ -240,7 +250,9 @@
 - [Shubh](https://github.com/imshubh69)
 - [Hugo Guilherme] (https://github.com/hugomilesi)
 - [DeIn221](https://github.com/DeIn221)
+- [matheuuss] (https://github.com/matheuuss)
 - [ranemirus]
+- [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [Ishmael Williams] (https://github.com/Ishmael-Williams)
 - [Chad Bryant] (https://github.com/g3chad)
@@ -1012,6 +1024,7 @@
 - [Andrea Ubbiali](https://github.com/aubbiali)
   [cylearny](https://github.com/cylearny)
 - [edaro27](https://github.com/edaro27)
+Sabrina K
 - [Michael Adetona](https://github.com/AdetonaMichael)
 - [Ale Castillo](https://github.com/aleepsy)
 - [Jyoti Bhaliyan](https://github.com/Jbhaliyan)
@@ -7670,6 +7683,7 @@ add jerry404lee
 - Hiten Solanki
 - Just AmrG
 - [Mhamed Ajjig](https://github.com/Ajjig)
+- [GhostKaat](https://github.com/ghostkaat)
 - [JJ Bai](https://github.com/JJBai2003)
 - [Frankie Fisher](https://github.com/fish2410)
 - [Curtis Bowser](https://github.com/bwsrcurtis)
@@ -7736,6 +7750,7 @@ add jerry404lee
 - [Manish Kandepalli](https://github.com/manish295)
 - [Bayu Afif Nuranto](https://github.com/bayunuranto14)
 - [Dan Eisen](https://github.com/slightlyNoided)
+- [Joe Virn](https://github.com/joevirn)
 - [Tom Tsang](https://github.com/sdr70)
 - [Robin Wang](https://github.com/Cloverwave)
 - [PaulTitto](https://github.com/PaulTitto)
@@ -7744,4 +7759,7 @@ add jerry404lee
 - [David27](https://github.com/davidacab)
 - [Serhat Levent Yavas](https://github.com/serhatleventyavas)
 - [BurgerMeanie](https://github.com/BurgerMeanie)
+- [Hrishit Bhattacharya](https://github.com/Hrishit-B)
+- [Saneev Dasari](https://github.com/saneev)
+- [David Wigg](https://github.com/davidjwigg)
 <!-- prettier-ignore-end -->
