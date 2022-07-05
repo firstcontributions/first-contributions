@@ -7971,4 +7971,6 @@ Stephen kihuni
 - [Hrishit Bhattacharya](https://github.com/Hrishit-B)
 - [Saneev Dasari](https://github.com/saneev)
 - [David Wigg](https://github.com/davidjwigg)
+- [Yash Khapke](https://github.com/YashKhapke)
+
 <!-- prettier-ignore-end -->
