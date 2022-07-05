@@ -1,4 +1,4 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Himanshu Dubey](https://github.com/sorted-hd)
@@ -2972,6 +2972,7 @@ yejashi
 - [Derek Amsterdam](https://github.com/Overstand73)
 - [Gavinaa123aah](https://github.com/Gavinaa123aah)
 - [Thomas Le](https://github.com/37Thomas)
+- [Anastasia Onyan](https://github.com/AnastasiaOnyan)
 - [Moutasim EL Ayoubi](https://github.com/Moutasim02)
 - [Truong Giang Hoang](https://github.com/nhtg0710)
 - [Vikash Kumar](https://github.com/Codefreak69)
