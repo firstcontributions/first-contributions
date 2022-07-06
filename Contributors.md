@@ -1,6 +1,7 @@
-﻿**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->\
+- [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [Kyle Young] (https://github.com/KyleYoung69)
 - [Rachel Opuba]
 - [Mya Davis] 
