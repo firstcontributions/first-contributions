@@ -7,6 +7,7 @@
 - [Khushi Jashnani] (https://github.com/khushijashnani)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Daniel DeCario](https://github.com/CaptainIff)
+- [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
