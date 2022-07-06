@@ -2935,6 +2935,7 @@ yejashi
 - [Steven Stonaker] (https://github.com/sstonaker)
 - [LucasFab] (https://github.com/LucasFab)
 - [Daniel Lang] (https://github.com/daniellang09)
+- [Jinol Shah](https://github.com/jinolshah)
 - [Biziyaremye Henriette](https://github.com/henriette-bizy)
 - [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
