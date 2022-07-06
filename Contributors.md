@@ -7953,6 +7953,7 @@ Stephen kihuni
 - [Yudha Islami Sulistya](https://github.com/yudhaislamisulistya)
 - [Yudha Islami Sulistya](https://facebook.com/yudhaislamisulistya)
 - [mindcrunch4u](https://github.com/mindcrunch4u)
+- [David Chapman](https://github.com/d3chapma)
 - [Tianfu Wang](https://github.com/tfwang96)
 - [Arkadiusz Drężek](https://github.com/git-nauka)
 - [Mujahid Khan](https://github.com/themujahidkhan)
