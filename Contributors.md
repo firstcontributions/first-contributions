@@ -1014,6 +1014,7 @@ Nicholaus Michael
 - [Taylor Kelly](https://github.com/AbbaZabbaCodes)
 - [Tima Gixe](https://github.com/timagixe)
 - [Saurabh Kumar Singh](https://github.com/singh1203)
+- [Yanna Lin](https://github.com/linyanna)
 - [Caroline SENES](https://github.com/CarolineSenes)
 - [Dhanush Suvarna](https://github.com/Dhanush-git)
 - [Shrey](https://github.com/shreykinshu)
