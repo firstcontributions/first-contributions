@@ -8009,4 +8009,5 @@ Stephen kihuni
 - [David Wigg](https://github.com/davidjwigg)
 - [Mariana Schmidt](https://github.com/marianaceci)
 - [Shen Lingyu](https://github.com/FoeverA0)
+- [Leah Slaughter](https://github.com/lslaughter726)
 <!-- prettier-ignore-end -->
