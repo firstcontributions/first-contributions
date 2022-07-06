@@ -1,7 +1,11 @@
 ﻿**Contributors**
 
+
 <!-- prettier-ignore-start -->
 - Rachel Opuba
+- [Kyle Young] (https://github.com/KyleYoung69)
+- [Rachel Opuba]
+- [Kshitiz-Mhto](https://github.com/Kshitiz-Mhto)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani](https://github.com/khushijashnani)
@@ -17,6 +21,7 @@
 - [Yousef Sherian](https://github.com/yousef-dev1)
 - [Patrick Lesiewicz](https://github.com/KrsPatrick)
 - [Alex Slutsky](https://github.com/Pa1best)
+- [Devdatt Pandit](https://github.com/Devdatt17)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Amos Mwongela](https://github.com/4ouR04)
@@ -32,12 +37,14 @@
 - [Kostusenko-Alex](#)
 - [Kostusenko-Alex #2](#)  
 - [Andy Qin](https://github.com/qin-andrew123)
+- [Brianna Bland](https://github.com/bbland1)
 - [Andreas Nilsson](https://github.com/anil9)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
 - [Ahmed,Alimohamed](https://github.com/severicus)
 - [Monteiro H.](https://github.com/monteiroh)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
+  [amrutha](https://github.com/amrutha1098)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
@@ -2933,6 +2940,7 @@ yejashi
 - [Steven Stonaker] (https://github.com/sstonaker)
 - [LucasFab] (https://github.com/LucasFab)
 - [Daniel Lang] (https://github.com/daniellang09)
+- [Jinol Shah](https://github.com/jinolshah)
 - [Biziyaremye Henriette](https://github.com/henriette-bizy)
 - [Alain Nguyen](https://github.com/Alsaka-No-One)
 - [Rajdeep Saha]((https://github.com/saha-rajdeep)
