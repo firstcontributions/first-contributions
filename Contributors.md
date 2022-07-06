@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->\
 - [Kyle Young] (https://github.com/KyleYoung69)
 - [Rachel Opuba]
+- [Mya Davis] 
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani] (https://github.com/khushijashnani)
