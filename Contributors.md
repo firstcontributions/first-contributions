@@ -6966,6 +6966,7 @@ Michael Wong
 - [André Felipe](https://github.com/liipeandre)
 - [David Gentile](https://github.com/dcgentile)
 - [Smridhi Gupta](https://github.com/smridhiwho)
+- [James Nghiem] (https://github.com/jemzir)
 - [nakahira](https://github.com/xuzhongping)
 - [Sarah Napoleon]
 - [Liam Hillebrand](https://github.com/listergage)
