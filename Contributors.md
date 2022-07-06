@@ -1,6 +1,7 @@
 ﻿**Contributors**
 
 <!-- prettier-ignore-start -->
+- [Rachel Opuba]
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani] (https://github.com/khushijashnani)
