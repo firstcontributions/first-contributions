@@ -6063,6 +6063,7 @@ Himanshu Dedha
 - [Aidan Gibson](https://github.com/aidan-gibson)
 - [Rishita Shaw](https://github.com/Theseregrets)
 - [Volker Shmuley](https://github.com/VolkerShmuley)
+- [Vignesh Subramanian](https://github.com/Vikinov)
 - [Mert Cikla](https://github.com/mertcikla)
 - [Anno](https://github.com/anno59)
 - [Sun Ao](https://github.com/MarshalL-son)
