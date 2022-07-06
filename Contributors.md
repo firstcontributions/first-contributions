@@ -135,6 +135,7 @@ zen.coder1.branch2
 - [Saran-pariyar](https://github.com/Saran-pariyar)
 - [hyr2](https://github.com/hyr2)
 - [Milo Roberts](https://github.com/MiloRoberts)
+- [Elaine Cortez](https://github.com/aznleng)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
