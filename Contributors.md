@@ -7992,4 +7992,5 @@ Stephen kihuni
 - [Saneev Dasari](https://github.com/saneev)
 - [David Wigg](https://github.com/davidjwigg)
 - [Mariana Schmidt](https://github.com/marianaceci)
+- [Shen Lingyu](https://github.com/FoeverA0)
 <!-- prettier-ignore-end -->
