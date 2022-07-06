@@ -154,6 +154,7 @@ zen.coder1.branch2
 - [Ahmed Alaedi](https://github.com/aalsaedi265)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [S. M. Sajid Hasan Shanta](https://github.com/SajidHShanta)
+- [stingermissile](https://github.com/stingermissile)
 - [Ojash Kushwaha](https://github.com/OjashKush)
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
