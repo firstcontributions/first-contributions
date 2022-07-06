@@ -45,6 +45,7 @@ Tony Idehen
 - [Nayan Pasari](https://github.com/npasari)
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
+- [Samir Patel]
 - [Adam Ralph](https://github.com/adamjralph)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Rahul Roy](https://github.com/RAHULRo)
