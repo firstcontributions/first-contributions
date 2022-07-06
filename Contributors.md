@@ -23,6 +23,7 @@
 - [Zakria Mansur](https://github.com/zakria00)
 - [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
+- [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Kostusenko-Alex]
 - [Kostusenko-Alex #2 ]
