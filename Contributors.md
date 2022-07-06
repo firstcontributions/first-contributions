@@ -14,6 +14,7 @@
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - <a href="https://github.com/keshav-xebia">Keshav Sharma</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=keshav-xebia&show_icons=true&theme=tokyonight)](https://github.com/keshav-xebia)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
+- [Yousef Sherian](https://github.com/yousef-dev1)
 - [Patrick Lesiewicz](https://github.com/KrsPatrick)
 - [Alex Slutsky](https://github.com/Pa1best)
 - [Neel Awsare](https://github.com/awsare)
