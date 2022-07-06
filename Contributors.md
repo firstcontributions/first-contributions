@@ -5768,6 +5768,7 @@ Himanshu Dedha
 - [Aldilas](https://github.com/aldeetropolis)
 - [Tim Dimas](https://github.com/timdim10)
 - [Alexandre Merched](https://github.com/artismyname)
+-[Yuval Maharshak](https://github.com/Yuval-Maharshak)
 - [Madeleine Smith 🤘](https://github.com/MadeleineSmith)
 - [Makarov Ilya 🌲](https://github.com/makarilyaev)
 - [Alexander Firfarov](https://github.com/AlexFirfarov)
