@@ -2662,6 +2662,7 @@ add jerry404lee
 - [Uttam](https://github.com/helper-uttam)
 - [Alexander Snure](https://github.com/asnure15)
 - [Takshay](https://github.com/Takshay-Makadia)
+- [Sunmin Kim](https://github.com/gitsunmin)
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Reet](https://github.com/RaniK27)
 - Lukman Memon
