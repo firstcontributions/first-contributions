@@ -38,6 +38,7 @@
 -[Ahmed,Alimohamed] (https://github.com/severicus)
 - [Monteiro H.](https://github.com/monteiroh)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
+  [amrutha](https://github.com/amrutha1098)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
