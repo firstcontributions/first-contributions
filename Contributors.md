@@ -5487,6 +5487,7 @@ Himanshu Dedha
 - [Kamal C.](https://github.com/kamalchah)
 - [AnanditaRian19](https://github.com/AnanditaRian19)
 - [Prakash Aryan](https://github.com/prakash-aryan)
+- [thetgman](https://github.com/thetgman)
 - [Kartik Nadiger](https://github.com/kartiknad)
 - [Esteban Montelongo](https://github.com/EstebanMontelongo)
 - [Jihun Kim](https://github.com/Jihunn-Kim)
