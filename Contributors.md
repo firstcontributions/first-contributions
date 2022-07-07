@@ -69,6 +69,7 @@
 -[Madison Reese](https://github.com/MadisonReese)
 -[Nirmit](https://github.com/Nirmit2207)
 -[Manas Sharma](https://github.com/Manas-E)
+-[Nirmit](https://github.com/Nirmit2207)
 - [Sudeep Kumar Gupta](https://github.com/sudeep423)
 - [Murakiki](https://github.com/murakiki)
 - [Kartikey Sharma](https://github.com/KartikeySharma)
