@@ -1669,6 +1669,7 @@ Aneesh Chavan
 - [Leonardo Gonfiantini]
 - [Nakul Rathore]
 - [Anas Rouam]
+- [Thanos Dodd]
 -[Starborne] (https://github.com/plasmawalrus)
 - Vijay Ponnavolu
 - [Jet Sng] (https://github.com/zjsng)
