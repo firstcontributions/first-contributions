@@ -41,6 +41,7 @@
 - [Tauhid Patel](https://github.com/tauhidpatel)
 - [Kostusenko-Alex]
 - [Kostusenko-Alex #2 ]
+- [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions) 
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
 - [Andreas Nilsson](https://github.com/anil9)
