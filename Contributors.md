@@ -247,6 +247,7 @@ zen.coder1.branch2
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
 - [Firoz Khan] (https://github.com/firoz57)
+- [Paul Mayoral] (https://github.com/peterpalmer05)
 - [Luis Amorim] (https://github.com/raskilo)
 - [Abhishek Mukherjee] (https://github.com/abhishekkmukherjee)
 - [kanazawazawa](https://github.com/kanazawazawa)
