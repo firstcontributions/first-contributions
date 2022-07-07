@@ -1,6 +1,7 @@
 **Contributors**
 
-<!-- prettier-ignore-start -->\
+<!-- prettier-ignore-start -->
+- [Rafael Dutra](https://github.com/RafaDRF)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Babba Voss](https://github.com/Lordvoss/)
