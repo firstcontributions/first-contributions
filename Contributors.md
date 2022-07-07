@@ -53,6 +53,7 @@
 - [Shauna Empringham](https://github.com/ShaunaTheDead86)
 Tony Idehen
 - [Amira Ezzeldin](https://github.com/aezz4007)
+- [andrei g](https://github.com/andrei-g-git)
 - [Zhengtong Nie](https://github.com/ztNIE)
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Mitchell Megla](https://github.com/mitchell-megla)
