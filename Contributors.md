@@ -64,6 +64,7 @@ Tony Idehen
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Samir Patel]
+- [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Rahul Roy](https://github.com/RAHULRo)
