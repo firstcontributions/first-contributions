@@ -24,6 +24,7 @@
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Noelle Ferrari](https://github.com/zelda4669)
 - [Amos Mwongela](https://github.com/4ouR04)
 - [Vikas Adhikari](https://github.com/VikasAdhikari07)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
