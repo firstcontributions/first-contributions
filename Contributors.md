@@ -35,6 +35,7 @@
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
+- [Tauhid Patel](https://github.com/tauhidpatel)
 - [Kostusenko-Alex]
 - [Kostusenko-Alex #2 ]
 - [Andy Qin](https://github.com/qin-andrew123)
