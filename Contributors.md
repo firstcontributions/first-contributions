@@ -6,6 +6,7 @@
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
+- [David Galvez Valverde](https://github.com/davidgalvez)
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Babba Voss](https://github.com/Lordvoss/)
 - [ARKARLIN](https://github.com/christopher4RY)
