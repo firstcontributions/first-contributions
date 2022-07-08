@@ -12,6 +12,7 @@
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani] (https://github.com/khushijashnani)
 - [Liza Yemini](https://github.com/LizaYemini)
+- [Henrik Berg](https://github.com/henkeb)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Daniel DeCario](https://github.com/CaptainIff)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
