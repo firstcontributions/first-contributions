@@ -112,6 +112,7 @@ zen.coder1.branch2
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 -[vidhi](https://github.com/VidhiSaxena27)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
+- [Brady Camp](https://github.com/bradyjcamp)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Gideon Balogun](https://github.com/itzgeebee)
 - [Leron Tonge](https://github.com/lerontonge)
