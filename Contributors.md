@@ -91,6 +91,7 @@ Tony Idehen
 - [Sami Amjid Khan] (https://github.com/samiamjidkhan/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
 - [Vishnu Santhosh] (https://github.com/vishsant)
+- [Jainam Kothari] (https://github.com/Jainam1401)
 - [Rachit Verma] (https://github.com/darkknight20032001)
 - [Nelson de Barros](https://github.com/nek54)
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
