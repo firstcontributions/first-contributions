@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Rafael Dutra](https://github.com/RafaDRF)
+- [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
