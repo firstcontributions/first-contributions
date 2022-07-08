@@ -2056,6 +2056,7 @@ itay-guter
 -[Trenton Stetson](https://github.com/stetson912)
 -[Mayur Vaidya](https://github.com/mnvaidya)
 -[Joshua McElroy](https://github.com/tkdevil)
+-Yatharth
 -[Bladimir Hernandez](https://github.com/blaherrod)
 - Jeya Iyadurai
 -[Justin Marley](https://github.com/Gspuk-Git)
