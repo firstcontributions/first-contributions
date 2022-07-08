@@ -139,6 +139,7 @@ zen.coder1.branch2
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Matthew McCane](https://github.com/DakuwoN)
+- [Rishikesh S](https://github.com/Rhilok)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [Abhinav Garg](https://github.com/theabhiinavgarg)
 - [Abigel Asteraye](https://github.com/simplectasy)
