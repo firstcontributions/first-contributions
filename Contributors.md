@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->\
+- Saima Teasha
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [Kyle Young] (https://github.com/KyleYoung69)
 - [Rachel Opuba]
