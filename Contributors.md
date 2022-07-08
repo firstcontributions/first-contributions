@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
+- [XYZscratcher](https://github.com/XYZscratcher)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Babba Voss](https://github.com/Lordvoss/)
