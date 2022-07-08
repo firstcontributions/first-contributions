@@ -5,6 +5,7 @@
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Babba Voss](https://github.com/Lordvoss/)
+- [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
 - [Mya Davis] 
 - [Himanshu Dubey](https://github.com/sorted-hd)
