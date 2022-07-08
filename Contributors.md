@@ -345,6 +345,7 @@ zen.coder1.branch2
 - [Xien Thomas] (https://github.com/Xien-Thomas)
 - [holy5] (https://github.com/holy5)
 - [Julian Elmasry] (https://github.com/julian31186)
+- [Shlok Sheth] (https://github.com/shethshlok)
 - [Setki Fejsko] (https://github.com/SetkiF)
 - [Martin Iglesias] (https://github.com/MartinIglesias86)
 - [Niels Brons] (https://github.com/NielsBrons)
