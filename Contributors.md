@@ -3708,6 +3708,7 @@ yejashi
 - [Dingani Brian Nkala] (https://github.com/dinganibrian)
 - [Ujjwal Pandey] (https://github.com/Ryednap/first-contributions)
 - [restartingpsyduck](https://github.com/restartingpsyduck)
+- [Astro648 (Ayaan R)](https://github.com/astro648)
 - [Matt McKenna](https://github.com/smvgggsdd)
 - [Timothy Benton](https://github.com/humantl1)
 - [Joel Graf](https://github.com/joelthegraf)
