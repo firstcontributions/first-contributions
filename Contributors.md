@@ -1,6 +1,7 @@
   # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [ya boy]
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [Luis Padilla] (https://github.com/lpadillah)
