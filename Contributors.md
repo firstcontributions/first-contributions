@@ -7927,6 +7927,7 @@ Lee Drennan
 - [Tom Lai](https://github.com/ymlai87416)
 Stephen kihuni
 - [Jogy Felix](https://github.com/jogyfelix)
+- [Sachin Kumar Jain](https://github.com/sachinit09)
 - [Noufal A](https://github.com/noufalgit)
 - [Luz Davico](https://github.com/luz-d20)
 - [Yash Goel](https://github.com/root-yash)
