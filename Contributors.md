@@ -8063,5 +8063,4 @@ Stephen kihuni
 - [Leah Slaughter](https://github.com/lslaughter726)
 - [Anthony Allen](https://github.com/anthonyallen1988)
 - [Kyle Patterson](https://github.com/kylekap)
-
 <!-- prettier-ignore-end -->
