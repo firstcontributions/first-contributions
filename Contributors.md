@@ -4632,6 +4632,7 @@ yejashi
 - [Dhinesh-M](https://github.com/mdhinesh)
 - [Vaibhav Shukla](https://github.com/mr-vaibh/) - aka MrVaiBH
 - [elman23](https://github.com/elman23)
+- [ksimsek](https://github.com/ksimsek)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
