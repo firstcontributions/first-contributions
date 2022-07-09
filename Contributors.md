@@ -8006,6 +8006,7 @@ Stephen kihuni
 - [Hau Nguyen](https://github.com/thehaung)
 - [Foystor Wan](https://github.com/Foystor)
 - [Jeremy Phua](https://github.com/jeremyphua)
+- [Stanislao](https://github.com/sfid98)
 - [David Ordiales](https://github.com/dordiales)
 - [邹茂萍](https://github.com/RunJavaCode)
 - [Carlos Roman](https://github.com/carlosroman)
