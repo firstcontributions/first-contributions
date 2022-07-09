@@ -497,6 +497,7 @@ Harshit Rai
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
 - [Furkan Kir](https://github.com/furkankir)
+- [Thin H Han](https://github.com/thinhtoohan)
 - [Halil Bulut](https://github.com/Hellin1)
 - [Christine Lin](https://github.com/christinelin8)
 - Diego Clavijo(https://github.com/dncx97)
