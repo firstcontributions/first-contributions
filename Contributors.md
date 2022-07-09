@@ -34,6 +34,7 @@
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Juliet Adeboye](https://github.com/Julietadeboye)
 - [Noelle Ferrari](https://github.com/zelda4669)
 - [Amos Mwongela](https://github.com/4ouR04)
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
@@ -78,7 +79,6 @@
 - [Samir Patel]
 - [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
-- [Juliet Adeboye](https://github.com/Julietadeboye)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
 - [Rahul Roy](https://github.com/RAHULRo)
