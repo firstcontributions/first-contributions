@@ -8006,6 +8006,7 @@ Stephen kihuni
 - [Hau Nguyen](https://github.com/thehaung)
 - [Foystor Wan](https://github.com/Foystor)
 - [Jeremy Phua](https://github.com/jeremyphua)
+- [Stanislao](https://github.com/sfid98)
 - [David Ordiales](https://github.com/dordiales)
 - [邹茂萍](https://github.com/RunJavaCode)
 - [Carlos Roman](https://github.com/carlosroman)
@@ -8062,4 +8063,5 @@ Stephen kihuni
 - [Leah Slaughter](https://github.com/lslaughter726)
 - [Anthony Allen](https://github.com/anthonyallen1988)
 - [Kyle Patterson](https://github.com/kylekap)
+
 <!-- prettier-ignore-end -->
