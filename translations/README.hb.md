@@ -2,7 +2,7 @@
   <a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://camo.githubusercontent.com/76f0e887c183ccc31c1cb63c33d2dbf48cb2df51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667" alt="License: MIT"></a>
   <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a>
-  <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="../assets/join-slack-team.png"></a>
+  <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
 </div>
 
 <div dir="rtl">
@@ -10,17 +10,17 @@
 </div>
 
 <div dir="rtl">
-זה קשה. זה תמיד קשה כשעושים משהו בפעם הראשונה. במיוחד כאשר משתפים פעולה, לעשות טעויות זה לא משהו נוח. רצינו להקל על הדרך שבה תורמים בפעם הראשונה לומדים ותורמים בפעם הראשונה.
-קריאת כתבות וצפייה בסרטוני הדרכה יכולים לעזור, אבל מה יותר טוב מאשר לבצע את הדברים בסביבת למידה? המטרה של הפרויקט הזה היא לתת הכוונה ולפשט את הדרך שבה מתחילים מבצעים את התרומה הראשונה שלהם. אם אתם מחפשים לבצע את התרומה הראשונה שלכם, עקבו אחרי הצעדים למטה.
+מטרת פרויקט זה היא לפשט ולהדריך מתחילים בדרכם אל תרומתם הראשונה לקוד פתוח.
+ אם אתם מחפשים דרך לבצע תרומה ראשונית, עקבו אחר ההוראות הבאות.
 </div>
 
 <div dir="rtl">
-<h4> אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
-<a href="#הדרכות-בשימוש-כלים-אחרים">קישור לכלים גרפיים</a>.</h4>
+<h4> אם אינכם חשים בנוח להשתמש בשורת פקודה, ניתן להשתמש 
+<a href="#הדרכות-בשימוש-כלים-אחרים">בכלים גרפיים</a>.</h4>
 </div>
 
 <div dir="rtl">
-<h4>ניתן לקרוא את המאמר
+<h4>כמו כן, ניתן לקרוא את המאמר
 <a href="">בשפות אחרות</a>.</h4>
 </div>
 
@@ -29,7 +29,7 @@
 </div>
 
 <div dir="rtl">
-<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>
+<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository"></a>
 </div>
 
 <div dir="rtl">
@@ -46,12 +46,13 @@
 </div>
 
 <div dir="rtl">
-  <img align="left" width="300" src="../assets/clone.png" alt="clone this repository" />
+  <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 </div>
 
 <div dir="rtl">
   
-כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `העתק ללוח`
+כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `copy to clipboard`.
+
 פתחו טרמינל והריצו את הפקודה הבאה:
 </div>
 
@@ -60,10 +61,10 @@ git clone "url you just copied"
 ```
 <div dir="rtl">
   
-כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר שביצעתם עליו FORK מקודם. ראו את הצעדים הקודמים כדי להשיג את הקישור.
+כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו FORK קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
 </div>
 
-<img align="left" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 <div dir="rtl">
 לדוגמא:
@@ -74,7 +75,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 <div dir="rtl">
   
-כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. כאן, אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
+כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. לכאן אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
 </div>
 
 <div dir="rtl">
@@ -82,7 +83,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 </div>
 
 <div dir="rtl">
-תחליפו לתיקיית המאגר בתוך המחשב שלכם (אם אתם כבר לא נמצאים שם):
+החליפו לתיקיית המאגר בתוך המחשב שלכם (אם אינכם נמצאים כבר בתיקייה זו ):
 </div>
 
 ```
@@ -94,7 +95,7 @@ cd first-contributions
 </div>
 
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b your-new-branch-name
 ```
 <div dir="rtl">
   לדוגמא:
@@ -105,7 +106,7 @@ git checkout -b add-alonzo-church
 ```
 
 <div dir="rtl">
-(שם הענף לא חייב להכיל את המילה add בתוכו, אבל זה הגיוני להוסיף אותה מכיוון שהמטרה של הענף היא להוסיף את השם שלכם לרשימה)
+(שם הענף לא חייב להכיל את המילה add בתוכו, אבל זה הגיוני להוסיף אותה מכיוון שמטרת הענף היא להוסיף את שמכם לרשימה.)
 </div>
 
 <div dir="rtl">
@@ -114,7 +115,7 @@ git checkout -b add-alonzo-church
 
 <div dir="rtl">
   
-כעת תפתחו את הקובץ, `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
+כעת פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
 
 
 אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
@@ -126,7 +127,7 @@ git add Contributors.md
 ```
 <div dir="rtl">
   
-עכשיו, בצעו(commit) את שינויים הללו תוך שימוש בפקודת `git commit`:
+עכשיו, בצעו commit לשינויים הללו תוך שימוש בפקודת `git commit`:
 </div>
 
 ```
@@ -134,7 +135,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 <div dir="rtl">
   
-החליפו את הביטוי `<your-name>` .עם השם שלכם
+החליפו את הביטוי `<your-name>` עם השם שלכם.
 </div>
 
 <div dir="rtl">
@@ -151,7 +152,7 @@ git push origin <add-your-branch-name>
 ```
 <div dir="rtl">
   
-החליפו את `<add-your-branch-name>` .עם השם של הענף שיצרתם מוקדם יותר
+החליפו את `<add-your-branch-name>` עם השם של הענף שיצרתם מוקדם יותר.
 </div>
 
 <div dir="rtl">
@@ -160,13 +161,13 @@ git push origin <add-your-branch-name>
 
 <div dir="rtl">
   
-אם תלכו למאגר שלכם ב-GitHub, אתם תראו כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
+אם תלכו למאגר שלכם ב-GitHub, תוכלו לראות כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
 
-<img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 כעת, הגישו את בקשת הדחיפה (pull request):
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 בקרוב, אני אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
 </div>
@@ -181,7 +182,8 @@ git push origin <add-your-branch-name>
 
 <div dir="rtl">
 כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של Fork->Clone->Edit->PR שאתם תפגשו באופן שכיח כתורמים!
-חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל-<a href="https://firstcontributions.github.io/#project-list">web app</a>.
+תחגגו את התרומתכם ושתפו אותה עם החברים והעוקבים שלכם בכך שתלכו ל-<a href="https://firstcontributions.github.io/#project-list">web app</a>.
+  </br>
 אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות.
 <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">הצטרפו לקבוצת סלאק</a>.
 
@@ -201,14 +203,14 @@ git push origin <add-your-branch-name>
 <div dir="rtl">
   <table style="width:100%">
     <tr>
-      <th><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></th>
+      <th><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></th>
       <th><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></th>
       <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
     </tr>
     <tr>
-      <th><a href="../gitkraken-tutorial.md">GitKraken</a></th>
-      <th><a href="../github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
-      <th><a href="../github-desktop-tutorial.md">GitHub Desktop</a></th>
+      <th><a href="../gui-tool-tutorials/gitkraken-tutorial.md">GitKraken</a></th>
+      <th><a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
+      <th><a href="../gui-tool-tutorials/github-desktop-tutorial.md">GitHub Desktop</a></th>
     </tr>
   </table>
 </div>
