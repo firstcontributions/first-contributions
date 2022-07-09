@@ -5400,6 +5400,7 @@ Himanshu Dedha
 - [Andrew DiZenzo](https://github.com/andrewtdiz)
 - [Vishnu R Kumar](https://github.com/vishnurk6247)
 - [Tom Kirk](https://github.com/t1b3r1us)
+- [Chase Seltzner](https://github.com/cseltzner)
 - [Andrew Bankston](https://github.com/andrewbankston)
 - [Fernando Harris](https://github.com/fharris)
 - [Ruben Renteria](https://github.com/rubenren)
