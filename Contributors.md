@@ -18,7 +18,7 @@
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Henrik Berg](https://github.com/henkeb)
 - [Jim Ezesinachi](https://github.com/rapaktech)
-- [Daniel DeCario](https://github.com/CaptainIff)
+- [HAH](https://github.com/HtetAungHtet)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Prayag](https://github.com/Prayag-09)
