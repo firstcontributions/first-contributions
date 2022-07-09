@@ -126,6 +126,7 @@ zen.coder1.branch2
 - [Leron Tonge](https://github.com/lerontonge)
 - [Hafiz Muhammad Khuzaima Umair](https://github.com/mkhuzaima "Khuzaima's Github Profile")
 - [Jack Ma](https://github.com/KingJacM)
+- [Angel Nieto](https://github.com/N-a290)
 - [blackbrokkoli](https://github.com/blackbrokkoli)
 - [Nozomu Ohno](https://github.com/nohno23)
 - [Sophearoth Prum](https://github.com/biscuit-lee)
