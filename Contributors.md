@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Hargovind Singh](https://github.com/GovindProMax)
+- [Michael Remp]
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
