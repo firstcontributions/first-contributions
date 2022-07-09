@@ -90,6 +90,7 @@ Tony Idehen
 - [Erica Layton](https://github.com/BeeperDev)
 - [Peco602](https://github.com/Peco602)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
+- [Shiraz Jafri] (https://github.com/shirazJafri)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Sami Amjid Khan] (https://github.com/samiamjidkhan/)
 - [Vlad Romanov] (https://github.com/VRomanov89)
