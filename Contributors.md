@@ -327,6 +327,7 @@ zen.coder1.branch2
 - [Noelia Valverde] (https://github.com/noeliavalverde)
 - [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
 - [samuelhoffmann1] (https://github.com/samuelhoffmann1)
+- [Braden Peterson] (https://github.com/bpetes24)
 - [Justin Lengvarsky] (https://github.com/Justin-Lengvarsky)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [David Kitavi](https://github.com/kitavidavis)
