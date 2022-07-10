@@ -808,6 +808,7 @@ Nicholaus Michael
 - [DuckBeGodz]
 - [simran]
  [notghettolenny](https://github.com/notghettolenny)
+- [Syazwani](https://github.com/syazwanirahimin)
 - [Bishakha]
 - [ProsivePlayer]
 - [Parthan-Sachin](https://github.com/Parthan-Sachin)
