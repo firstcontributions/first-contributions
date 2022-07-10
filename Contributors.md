@@ -1452,6 +1452,7 @@ Jawadur
 -[Aditya Thakur](https://github.com/Aditya696/first-contributions.git)
 - [moo-yeol-lee](https://github.com/Lee-moo)
 - [AmirMohammad Golestani](https://github.com/AmirMohammadGolestani)
+- [ZAFFAR MAQBOOL] (https://github.com/zaffar-maqbool)
 - [jtpfa](https://github.com/jtpfa)
 - [Sobhi Hosni]((https://github.com/SobhiHosni))
 - [Andres Maldonado-Martin](https://github.com/HypnoticMarten77)
