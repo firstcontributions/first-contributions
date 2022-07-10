@@ -8073,5 +8073,6 @@ Stephen kihuni
 - [Anthony Allen](https://github.com/anthonyallen1988)
 - [Kyle Patterson](https://github.com/kylekap)
 - [Anri Lombard](https://github.com/Anri-Lombard)
+- [Seong Kim](https://github.com/SeongUgKim)
 -[Suprovho De Sarkar](https://github.com/Suprovho)
 <!-- prettier-ignore-end -->
