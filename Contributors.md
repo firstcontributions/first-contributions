@@ -15,6 +15,7 @@
 - [David Galvez Valverde](https://github.com/davidgalvez)
 - [Rushikesh Bhawar]
 - [Kyle Young](https://github.com/KyleYoung69)
+- [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Babba Voss](https://github.com/Lordvoss/)
 - [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
