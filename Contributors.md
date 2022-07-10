@@ -8075,5 +8075,6 @@ Stephen kihuni
 - [Kyle Patterson](https://github.com/kylekap)
 - [Anri Lombard](https://github.com/Anri-Lombard)
 - [Seong Kim](https://github.com/SeongUgKim)
+- [Andrew T Burke](https://github.com/AndyTBurke)
 -[Suprovho De Sarkar](https://github.com/Suprovho)
 <!-- prettier-ignore-end -->
