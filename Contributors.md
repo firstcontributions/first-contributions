@@ -8081,4 +8081,5 @@ Stephen kihuni
 - [Seong Kim](https://github.com/SeongUgKim)
 - [Andrew T Burke](https://github.com/AndyTBurke)
 -[Suprovho De Sarkar](https://github.com/Suprovho)
+- [Kesäkuu 2022]
 <!-- prettier-ignore-end -->
