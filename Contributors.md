@@ -8091,4 +8091,5 @@ Stephen kihuni
 - [Luchack] 
 - [Jawahwe Alqotym](https://github.com/jawaher-alqotym)
 - [Niko Kamtsioras](https://github.com/NikoKamtsioras)
+- [Nikolaos Gazis](https://github.com/GRNikosGazis)
 <!-- prettier-ignore-end -->
