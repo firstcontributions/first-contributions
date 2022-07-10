@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [The Gaming Warlord](github.com/Kyoshi7)
+- [Jiseeeh](https://github.com/Jiseeeh)
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Michael Remp]
 - [Rafael Dutra](https://github.com/RafaDRF)
