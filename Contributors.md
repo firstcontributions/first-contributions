@@ -8083,4 +8083,5 @@ Stephen kihuni
 - [Suprovho De Sarkar](https://github.com/Suprovho)
 - [Kesäkuu 2022]
 - [Luchack] 
+- [Jawahwe Alqotym](https://github.com/jawaher-alqotym)
 <!-- prettier-ignore-end -->
