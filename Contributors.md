@@ -8089,4 +8089,5 @@ Stephen kihuni
 - [Kesäkuu 2022]
 - [Luchack] 
 - [Jawahwe Alqotym](https://github.com/jawaher-alqotym)
+- [Kyle Koivuneva](https://github.com/kkylek)
 <!-- prettier-ignore-end -->
