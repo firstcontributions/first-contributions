@@ -15,6 +15,7 @@
 - [Babba Voss](https://github.com/Lordvoss/)
 - [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
+- [TheCallipo] (https://github.com/TheCallipo)
 - [Mya Davis] 
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
