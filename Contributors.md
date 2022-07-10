@@ -19,6 +19,7 @@
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
 - [Mya Davis] 
+- [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani] (https://github.com/khushijashnani)
