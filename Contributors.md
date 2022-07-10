@@ -10,6 +10,7 @@
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
+- [Agus Deo Saputra Utama] (https://github.com/agusdeo)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [David Galvez Valverde](https://github.com/davidgalvez)
 - [Rushikesh Bhawar]
@@ -8090,4 +8091,7 @@ Stephen kihuni
 - [Luchack] 
 - [Jawahwe Alqotym](https://github.com/jawaher-alqotym)
 - [Kyle Koivuneva](https://github.com/kkylek)
+- [Niko Kamtsioras](https://github.com/NikoKamtsioras)
+- [Nikolaos Gazis](https://github.com/GRNikosGazis)
+>>>>>>> parent/master
 <!-- prettier-ignore-end -->
