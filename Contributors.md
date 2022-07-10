@@ -107,6 +107,7 @@ Tony Idehen
 - [Oishik Sengupta] (https://github.com/oiishik)
 - [Tim O'Brien] (https://github.com/animalchin45)
 - [Samyak Sheersh](https://github.com/ssheersh)
+- [Vasu Aggarwal](https://github.com/Vasu-Aggarwal283)
 - [Perla Martinez] (https://github.com/aghata12)
 - [Jeff Kwakou] (https://github.com/JeffKwakou)
 - [Jasmine Mary]
