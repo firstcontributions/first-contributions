@@ -1,10 +1,17 @@
-**Contributors**
+out**Contributors**
 
 <!-- prettier-ignore-start -->
+- [Henry Arboladora](https://github.com/Henry-Arb)
+- [Gurpreet Singh](https://github.com/gurpreet78371)
+- [Byeongun Park](https://github.com/bupark82)
+- [Neeltyper001] (https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Hargovind Singh](https://github.com/GovindProMax)
+- [Nseabasi Udondian (https://github.com/nseudondian)]
+- [Lim Wei Hong]
 - [Michael Remp]
+- [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
@@ -13,6 +20,7 @@
 - [Agus Deo Saputra Utama] (https://github.com/agusdeo)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [David Galvez Valverde](https://github.com/davidgalvez)
+- [Harihara Subramanian](https://github.com/HariharaSubramanianM)
 - [Rushikesh Bhawar]
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
@@ -20,7 +28,8 @@
 - [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
-- [silver-will]
+- [silver-will] (https://github.com/Silver-will)
+- [xaim_em] (https://github.com/axaiem)
 - [Mya Davis] 
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
@@ -96,6 +105,7 @@ Tony Idehen
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
 - [Rahul Roy](https://github.com/RAHULRo)
+- [Celal Kincros](https://github.com/CelalKincross)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
@@ -1303,6 +1313,7 @@ Vedant Borkar
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Icy Parkinson] (github.com/icyparkinson)
 - [Omar Hosam](https://github.com/OmarHosam)
+- [Inf1ntius_1309](github.com/inf1nitius1309)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Fran]
@@ -4075,6 +4086,7 @@ Aditya Agarwal
 - [Brody Moore](https://github.com/bammoore511)
 - [Pranjal]
 - [Joshua Nobleza](https://github.com/joshn28)
+- [Harsvin Kumar Singh](https://github.com/Pandeezy)
 - [Jack Normand](https://github.com/jacknormand)
 - [not-devil](https://github.com/not-devil)
 - [Atherv Patil](https://github.com/ColonelAVP)
@@ -8083,6 +8095,7 @@ Stephen kihuni
 - [David Wigg](https://github.com/davidjwigg)
 - [Mariana Schmidt](https://github.com/marianaceci)
 - [Shen Lingyu](https://github.com/FoeverA0)
+- [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Aswin Haridas](https://github.com/ashone77)
 - [Ruban jaganathan](https://github.com/RubanNathan)
 - [Mohammed S]
@@ -8099,4 +8112,5 @@ Stephen kihuni
 - [Jawahwe Alqotym](https://github.com/jawaher-alqotym)
 - [Niko Kamtsioras](https://github.com/NikoKamtsioras)
 - [Nikolaos Gazis](https://github.com/GRNikosGazis)
+- [Gróf Patrik] (https://github.com/patyo233)
 <!-- prettier-ignore-end -->
