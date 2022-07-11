@@ -7,6 +7,7 @@
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Lim Wei Hong]
 - [Michael Remp]
+- [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
