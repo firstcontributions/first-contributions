@@ -1,6 +1,7 @@
-**Contributors**
+out**Contributors**
 
 <!-- prettier-ignore-start -->
+- [Henry Arboladora](https://github.com/Henry-Arb)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001] (https://github.com/Neeltyper001/)
