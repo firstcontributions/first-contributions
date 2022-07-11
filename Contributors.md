@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 
-
 - [Byeongun Park](https://github.com/bupark82)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
@@ -24,7 +23,7 @@
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
 - [Mya Davis]
-- [iburnthings] (https://github.com/iburnthings) attempt 2
+- [iburnthings] (https://github.com/iburnthings)
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
