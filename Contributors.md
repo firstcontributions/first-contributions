@@ -96,6 +96,7 @@ Tony Idehen
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
 - [Rahul Roy](https://github.com/RAHULRo)
+- [Celal Kincros](https://github.com/CelalKincross)
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
