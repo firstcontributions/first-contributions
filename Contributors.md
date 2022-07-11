@@ -8113,4 +8113,5 @@ Stephen kihuni
 - [Niko Kamtsioras](https://github.com/NikoKamtsioras)
 - [Nikolaos Gazis](https://github.com/GRNikosGazis)
 - [Gróf Patrik] (https://github.com/patyo233)
+- [Vladimir Novikov] (https://github.com/novavovikov)
 <!-- prettier-ignore-end -->
