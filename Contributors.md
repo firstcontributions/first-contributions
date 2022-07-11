@@ -23,6 +23,7 @@
 - [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
+- [xaim_em] (https://github.com/axaiem)
 - [Mya Davis] 
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
