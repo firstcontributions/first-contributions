@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Byeongun Park](https://github.com/bupark82)
+- [Neeltyper001] (https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Hargovind Singh](https://github.com/GovindProMax)
