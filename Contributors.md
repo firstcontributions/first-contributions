@@ -1306,6 +1306,7 @@ Vedant Borkar
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Icy Parkinson] (github.com/icyparkinson)
 - [Omar Hosam](https://github.com/OmarHosam)
+- [Inf1ntius_1309](github.com/inf1nitius1309)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Imraan Pattan]
 - [Fran]
