@@ -223,6 +223,7 @@ zen.coder1.branch2
 - [Akshat Kumar](https://github.com/Akshatkumar4433)
 - [Chetan Nair](https://github.com/ChetanNair)
 - [Sitaram Pal](https://github.com/sitaram2011)
+- [Thad](https://github.com/adminprivileges)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Pacifique Ntahurunga](https://github.com/npacifique)
 [Mary June Scott] (https://github.com/MaryJune89)
