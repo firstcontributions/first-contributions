@@ -22,7 +22,7 @@
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
 - [Mya Davis]
-- [iburnthings] (https://github.com/iburnthings)
+- [iburnthings] (https://github.com/iburnthings) attempt 2
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
