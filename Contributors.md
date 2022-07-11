@@ -4080,6 +4080,7 @@ Aditya Agarwal
 - [Brody Moore](https://github.com/bammoore511)
 - [Pranjal]
 - [Joshua Nobleza](https://github.com/joshn28)
+- [Harsvin Kumar Singh](https://github.com/Pandeezy)
 - [Jack Normand](https://github.com/jacknormand)
 - [not-devil](https://github.com/not-devil)
 - [Atherv Patil](https://github.com/ColonelAVP)
