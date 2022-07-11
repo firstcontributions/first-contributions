@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Gurpreet Singh](https://github.com/gurpreet78371)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001] (https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
