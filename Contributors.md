@@ -7949,6 +7949,7 @@ Duncan Ledesma
 - [Adrian Czerwinski](https://github.com/AdrianCzerwinski)
 - [sasakama](https://github.com/sasakamaq)
 Lee Drennan
+- [Shriansh Agarwal](https://github.com/shriansh2002)
 - [Tom Lai](https://github.com/ymlai87416)
 Stephen kihuni
 - [Jogy Felix](https://github.com/jogyfelix)
