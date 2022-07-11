@@ -279,6 +279,7 @@ zen.coder1.branch2
 - [Airsayy](https://github.com/AirSayy)
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
+- [Anthony Eid] (https://github.com/Anthony-Eid)
 - [Russell Martinez](https://github.com/hrussellm)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
