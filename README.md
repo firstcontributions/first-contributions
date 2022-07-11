@@ -2,7 +2,8 @@
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-# 
+
+#
 
 #### _Read this in [other languages](translations/Translations.md)._
 
@@ -65,7 +66,8 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
-# 
+
+#
 
 # First Contributions
 
@@ -169,6 +171,8 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+Yash Desai
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
