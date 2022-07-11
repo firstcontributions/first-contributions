@@ -8106,4 +8106,5 @@ Stephen kihuni
 - [Jawahwe Alqotym](https://github.com/jawaher-alqotym)
 - [Niko Kamtsioras](https://github.com/NikoKamtsioras)
 - [Nikolaos Gazis](https://github.com/GRNikosGazis)
+- [Gróf Patrik] (https://github.com/patyo233)
 <!-- prettier-ignore-end -->
