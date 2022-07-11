@@ -5,6 +5,7 @@
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Hargovind Singh](https://github.com/GovindProMax)
+- [Lim Wei Hong]
 - [Michael Remp]
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
