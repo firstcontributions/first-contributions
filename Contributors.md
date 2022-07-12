@@ -1,6 +1,7 @@
 out**Contributors**
 
 <!-- prettier-ignore-start -->
+- [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
 - [Byeongun Park](https://github.com/bupark82)
