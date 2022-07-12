@@ -506,6 +506,7 @@ zen.coder1.branch2
 - [Jea] (https://github.com/learncoding22)
 - [Priyangshu Sarkar](https://github.com/Priyangshu28)
   [Zubaba Ahmed]
+- [Paúl Millanes](https://github.com/PaulMilMor)
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Sunny Hemdev](https://github.com/sunny151091/)
