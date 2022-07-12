@@ -101,7 +101,7 @@ If you're making changes to a translation, please request a review from our prev
 <table>
     <tr>
         <td>
-           <a href="../translations/README.nl.md">Nederlands</a>
+           <a href="../translations/README.nl.md">Netherlands</a>
         </td>
         <td>
            <a href="../translations/README.ru.md">Русский язык</a>
