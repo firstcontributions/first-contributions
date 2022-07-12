@@ -7,7 +7,8 @@
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Babba Voss](https://github.com/Lordvoss/)
 - [Rachel Opuba]
-- [Mya Davis] 
+- [Mya Davis]
+- [Matt De Vries](https://github.com/DeVriesMatt) 
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani] (https://github.com/khushijashnani)
