@@ -17,6 +17,7 @@
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
 - [Oishik Sengupta] (https://github.com/oiishik)
 - [Jasmine Mary]
+- [Debankar Dutta Chowdhury] (https://github.com/deedeecee)
 - [Khalid Yacoub] (https://github.com/Faudii)
 - [Achmad Fadjar] (https://github.com/achvents)
 - [Padumn Kumar] (https://github.com/slashtab)
