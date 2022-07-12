@@ -8130,4 +8130,6 @@ Stephen kihuni
 - [Nikolaos Gazis](https://github.com/GRNikosGazis)
 - [Gróf Patrik] (https://github.com/patyo233)
 - [Vladimir Novikov] (https://github.com/novavovikov)
+- [Daniele Scaffai](https://github.com/DanScaff)
+
 <!-- prettier-ignore-end -->
