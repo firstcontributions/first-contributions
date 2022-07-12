@@ -5553,6 +5553,7 @@ Himanshu Dedha
 - [Prakash Aryan](https://github.com/prakash-aryan)
 - [thetgman](https://github.com/thetgman)
 - [Kartik Nadiger](https://github.com/kartiknad)
+- [horojan](https://github.com/horojan)
 - [Esteban Montelongo](https://github.com/EstebanMontelongo)
 - [Jihun Kim](https://github.com/Jihunn-Kim)
 - [Shatakshi Singh](https://github.com/shatakshisingh24)
