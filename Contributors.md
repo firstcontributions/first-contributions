@@ -1,6 +1,7 @@
 out**Contributors**
 
 <!-- prettier-ignore-start -->
+- [ashish lotake](https://github.com/ashishlotake)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
