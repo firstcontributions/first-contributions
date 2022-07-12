@@ -242,6 +242,7 @@ zen.coder1.branch2
 - [Andrew Chang](https://github.com/AndrewChang2025)
 - [Uday](https://github.com/udaysonyy)
 - [Angela Johnson](https://github.com/angieloux)
+- [Vamiq](https://github.com/wherethehellami/first-contributions.git)
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
 - [Filip Telente](https://github.com/aminta5)
 - [v-raikar](https://github.com/vraikar-git)
