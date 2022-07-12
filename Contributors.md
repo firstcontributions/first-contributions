@@ -16,6 +16,7 @@ out**Contributors**
 - [Lim Wei Hong]
 - [Michael Remp]
 - [Paige Witty]
+- [Anika Roy](https://github.com/Anika-Roy)
 - [green1490] (https://github.com/green1490)
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
