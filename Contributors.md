@@ -9,6 +9,7 @@ out**Contributors**
 - [Neeltyper001] (https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
+- [Matt De Vries](https://github.com/DeVriesMatt)
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Nseabasi Udondian (https://github.com/nseudondian)]
 - [Lim Wei Hong]
