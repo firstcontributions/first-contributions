@@ -77,6 +77,7 @@ out**Contributors**
 - [Zakria Mansur](https://github.com/zakria00)
 - [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
+- [Mohammad Abdullah](https://github.com/abdullah2202)
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Tauhid Patel](https://github.com/tauhidpatel)
