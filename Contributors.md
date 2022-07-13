@@ -8024,7 +8024,7 @@ Stephen kihuni
 - [Marie Luongo](https://github.com/marie-lu)
 - Hiten Solanki
 - Just AmrG
--  Shubham [https://github.com/shubhraj]
+- Shubham [https://github.com/shubhraj]
 - [Mhamed Ajjig](https://github.com/Ajjig)
 - [GhostKaat](https://github.com/ghostkaat)
 - [JJ Bai](https://github.com/JJBai2003)
@@ -8140,4 +8140,5 @@ Stephen kihuni
 - [Caxarial Z] (https://github.com/Caxarial)
 - [Kateryna Nikolaeva] (https://github.com/Shkalyar)
 - [ivn1s](https://github.com/ivn1s)
+- [Islam Kamel](https://github.com/islam-kamel) ✌️
 <!-- prettier-ignore-end -->
