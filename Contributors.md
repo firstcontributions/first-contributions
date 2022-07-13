@@ -444,6 +444,7 @@ zen.coder1.branch2
 - [monologan] (https://github.com/monologan)
 - Kassra-K
 - neo
+- [Sebastian W](https://github.com/sebastianwhyte)
 - DibyansuSharma
 -[Suman Das](https://github.com/NoOne-Cares)
 - [sandeep singh] (https://github.com/spyboy01)
