@@ -21,6 +21,7 @@ out**Contributors**
 - [Michael Remp]
 - [Ray Hu]
 - [Paige Witty]
+- [Moustafa Elsayed]
 - [Abhijeet Das Gupta] (https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
 - [green1490] (https://github.com/green1490)
