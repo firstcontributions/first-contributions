@@ -19,6 +19,7 @@ out**Contributors**
 - [Lim Wei Hong]
 - [Jason Wilson](https://github.com/WilsonJhub)
 - [Michael Remp]
+- [Ray Hu]
 - [Paige Witty]
 - [Abhijeet Das Gupta] (https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
