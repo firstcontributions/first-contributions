@@ -216,6 +216,7 @@ zen.coder1.branch2
 - [veasnawt](https://github.com/veasnawt)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Julie S](https://github.com/Julie-S2020)
+- [Paul Lowrance](https://github.com/PaulLowrance
 - [Sasiru Ravihansa](https://github.com/sasirura)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
