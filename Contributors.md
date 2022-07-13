@@ -207,6 +207,7 @@ zen.coder1.branch2
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Mike Anderson] (https://github.com/mkanderson1701)
 - [Levi Francis](https://github.com/leevigh)
+- [Eiyad Ziyadah](https://github.com/eziyadah)
 - [VaradC](https://github.com/cvarad96)
 - [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
