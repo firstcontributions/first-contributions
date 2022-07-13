@@ -2,6 +2,7 @@ out**Contributors**
 
 <!-- prettier-ignore-start -->
 - [ashish lotake](https://github.com/ashishlotake)
+- [Jana Hafez](https://github.com/JanaHafez1)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Roopaksh](https://github.com/Roopaksh1)
