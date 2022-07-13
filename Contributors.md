@@ -3679,6 +3679,7 @@ yejashi
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Steven Drake](https://github.com/sdrake01)
 - [Amrit](https://github.com/thelastpawn009)
+- [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
 - [Raul Quintanilla] (https://github.com/RaulQuintanilla)
 - [Edian Ibarrola](https://github.com/edianibarrola)
