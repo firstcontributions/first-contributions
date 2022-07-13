@@ -8132,4 +8132,5 @@ Stephen kihuni
 - [Gróf Patrik] (https://github.com/patyo233)
 - [Vladimir Novikov] (https://github.com/novavovikov)
 - Link-pan
+- [Caxarial] (https://github.com/Caxarial)
 <!-- prettier-ignore-end -->
