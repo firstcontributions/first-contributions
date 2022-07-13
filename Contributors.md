@@ -16,6 +16,7 @@ out**Contributors**
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Nseabasi Udondian (https://github.com/nseudondian)]
 - [Lim Wei Hong]
+- [Jason Wilson](https://github.com/WilsonJhub)
 - [Michael Remp]
 - [Paige Witty]
 - [Abhijeet Das Gupta] (https://github.com/abhijelly)
