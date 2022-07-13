@@ -8134,4 +8134,5 @@ Stephen kihuni
 - [Vladimir Novikov] (https://github.com/novavovikov)
 - Link-pan
 - [Caxarial Z] (https://github.com/Caxarial)
+- [Kateryna Nikolaeva] (https://github.com/Shkalyar)
 <!-- prettier-ignore-end -->
