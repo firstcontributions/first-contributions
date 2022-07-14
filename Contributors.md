@@ -1878,6 +1878,7 @@ Aneesh Chavan
 - [Aleksi Jalmanen] (https://github.com/alluvm)
 - [Ankush Das](https://github.com/dasankush)
 - Ujjwal Agarwal
+- [Yannick NGASSA](https://github.com/yannickngassa)
 - [Lukas Grabowicz](https://github.com/lukasgrabowicz)
 - [Thushar Tom](https://github.com/THUSHARTOM)
 - [Kalama Kiefer](https://github.com/KalamaKiefer)
