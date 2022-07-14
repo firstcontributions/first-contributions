@@ -7593,6 +7593,7 @@ Michael Wong
 - [Samer Miqdadi](https://github.com/samermiq/first-contributions.git)
 - [Lucas Henrique](https://github.com/LucasHenrique-dev)
 - [Mateusz Moveusz93](https://github.com/morveusz93)
+- [Jerald Cris Bergantiños](https://github.com/JeraldCrisBergantinos)
 - [Braien Machado](https://github.com/braien-machado)
 - [Rebekah Snow](https://github.com/rebekahsnow/)
 - [fake one](https://github.com/fakeone)
