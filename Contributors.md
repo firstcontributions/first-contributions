@@ -63,6 +63,7 @@
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - <a href="https://github.com/keshav-xebia">Keshav Sharma</a><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=keshav-xebia&show_icons=true&theme=tokyonight)](https://github.com/keshav-xebia)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
+- [TEJAS DHAMECHA](https://github.com/notanmay)
 - [Akshay Babbar](https://github.com/akshay-babbar)
 - [Yousef Sherian](https://github.com/yousef-dev1)
 - [Patrick Lesiewicz](https://github.com/KrsPatrick)
