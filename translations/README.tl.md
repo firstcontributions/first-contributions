@@ -10,7 +10,7 @@ Mahirap. Laging mahirap sa unang beses ng anumang gawain. Lalo na sa isang kolab
 
 Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*, pero ano pa bang mas epektibong pamamaraan kaysa sa aktual na aplikasyon ng isang pagsasanay? Ang pangunahing pakay ng proyektong ito ay gabayan ang mga baguhan na gawin ang kanilang unang *contribution*. Kung ikaw ay isa sa mga taong iyon, sundin lang ang mga sumusunod na tagubilin.
 
-#### *Kung hindi ka komportable na gumamit ng *command line*, [ito ay mga tutorials gamit ang mga *GUI* tools.]( #tutorials-using-other-tools )*
+#### *Kung hindi ka komportable na gumamit ng *command line*, [ito ay mga tutorials gamit ang mga *GUI* tools.](#Mga-tutorials-gamit-ang-ibang-tools)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
