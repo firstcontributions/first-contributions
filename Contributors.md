@@ -5545,6 +5545,7 @@ Himanshu Dedha
 - [Amir Raza](https://github.com/pseudo-nymous)
 - [Amrit Dhaliwal](https://github.com/AmrDhaliwal)
 - [b0bdN](https://github.com/b0bdN)
+- [Dor Wiser](https://github.com/wiserdor)
 - [Bushan SC](https://github.com/scbushan05)
 - [Walid Sakr](https://github.com/wsakr)
 - [Juan Mojica](https://github.com/jcmojicar)
