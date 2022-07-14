@@ -1711,6 +1711,7 @@ Aneesh Chavan
 - [Alphonzo](https://github.com/San-Shwe)
 - [Rahul Waghmare] (https://github.com/rahul5522)
 - [parksukhoon96] (https://github.com/parksukhoon96)
+- [Nishant Kumar] (https://github.com/nishant-k-290195)
 - [Laira Nicole Cham](https://github.com/lnvc)
 - [Alhassane Toure] (https://github.com/Hassan0895)
 - [Amohelang Thoabala](https://github.com/amohelangthoabala)
