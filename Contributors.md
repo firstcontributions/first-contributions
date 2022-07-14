@@ -207,7 +207,7 @@ zen.coder1.branch2
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Rishikesh S](https://github.com/Rhilok)
 - [Paresh Mestry](https://github.com/im-pareshm)
-- [Abhinav Garg](https://github.com/theabhiinavgarg)
+- [AungMyatThu](https://github.com/Aung67890)
 - [Abigel Asteraye](https://github.com/simplectasy)
   [Giane Apuada](https://github.com/PeacefulHermits)
 - [Prakash](https://github.com/Prakash4844)
