@@ -5629,6 +5629,7 @@ Himanshu Dedha
 - [Zhenkai Weng](https://github.com/oakrc)
 - [Peter G.](https://github.com/syspentarc)
 - [KCCPMG](https://github.com/KCCPMG)
+- [Jesus Flores] (https://github.com/Jesus-fhz)
 - [Trinnawat Charoenpradubsilp](https://github.com/trinnawat)
 - [Gaikanomer9](https://github.com/Gaikanomer9)
 - [screencancer] (https://github.com/screencancer)
