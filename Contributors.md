@@ -3781,7 +3781,6 @@ yejashi
 - [JaySuthar](https://github.com/Jay-Suthar)
 - [Kimon](https://github.com/TheKimon)
 - [FlashForm](https://github.com/FlashForm)
-- [Syed Aareez](https://github.com/syedaareez)
 - [gyurim](https://github.com/gyulimlee)
 - [Nimesh Garg](https://github.com/nimeshgarg)
 - [Tai Thai](https://github.com/thaibaotai/)
