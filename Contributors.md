@@ -1,6 +1,7 @@
 ﻿out**Contributors**
 
 <!-- prettier-ignore-start -->
+- [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
