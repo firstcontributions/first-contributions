@@ -355,6 +355,7 @@ zen.coder1.branch2
 - [DeIn221](https://github.com/DeIn221)
 - [matheuuss] (https://github.com/matheuuss)
 - [ranemirus]
+- [tatavarthiv] (https://github.com/tatavarthiv)
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [Ishmael Williams] (https://github.com/Ishmael-Williams)
