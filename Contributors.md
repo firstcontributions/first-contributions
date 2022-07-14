@@ -589,6 +589,7 @@ Harshit Rai
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Sharad Arora](https://github.com/Sharad910)
 - [Ahmed Zougari](https://github.com/zougari47)
+- [Sanjog Rijal](https://github.com/SanjogRijal)
 - [Daniel Gaerber](https://github.com/Gandagorn)
 - [dbsaw](https://github.com/dbsaw)
 [rukyr97](https://github.com/rukyr97)
@@ -7966,6 +7967,7 @@ Duncan Ledesma
 - [CryoSolace]
 - [Dipanwita](https://github.com/thee-pan)
 - [cesarnuness](https://github.com/cesarnuness)
+- [Grogu96](https://github.com/grogu96)
 - [lucaGonzalez](https://github.com/lucagonzalez)
 - [Grogu96](https://github.com/grogu96)
 - [Yash](https://github.com/YashBhole29)
@@ -8197,3 +8199,4 @@ si
 - [Islam Kamel](https://github.com/islam-kamel) ✌️
 - [Sai Abhilash](https://github.com/abhi9cr7)
 <!-- prettier-ignore-end -->
+
