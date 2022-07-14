@@ -1601,7 +1601,7 @@ Aneesh Chavan
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
 - [Ranj] (https://github.com/rnj50)
-
+- [Aksh](https://github.com/AkshMehta)
 - [Luz Jimenez Vela] (https://github.com/luzloujv)
 - [Emmanuel Alao] (https://github.com/omogidi)
 - [Dhineshkumar R] (https://github.com/dk017)
