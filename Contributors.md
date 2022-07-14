@@ -53,6 +53,7 @@
 - [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
+- [silver-will] (https://github.com/Silver-will)
 - [xaim_em] (https://github.com/axaiem)
 - [Mya Davis] 
 - [William Owusu](https://github.com/Willowusu)
