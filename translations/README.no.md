@@ -9,7 +9,7 @@ Det er alltid vanskelig å gjøre noe for første gang. Spesielt når man samarb
 
 Å lese artikler og se videoer kan hjelpe, men hva kan vel være bedre enn å gjøre det i praksis? Dette prosjektet håper å kunne tilby en enkel veiledning og gjøre det lett for nybegynnere å gi sitt første bidrag. Følg trinnene nedenfor hvis du ønsker å gi ditt første bidrag til dette prosjektet.
 
-#### _Hvis du ikke er komfortabel med terminal, [så finnes det andre metoder](#veiledning-for-andre-verktøy)._
+#### _Hvis du ikke er komfortabel med terminal, [så finnes det andre metoder](#Veiledning-for-andre-verktøy)._
 
 #### _Les dette på [andre språk (other languages)](/translations/Translations.md)._
 
