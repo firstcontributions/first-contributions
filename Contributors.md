@@ -2012,6 +2012,7 @@ Christopher K Calahan Jr
 - [Gustav Alerby](https://github.com/gbyx3)
 - [Dipti Malla](https://github.com/diptimalla)
 - [Vipul Maheshwari](https://github.com/vipulmaheshwari11)
+- [Javier Tamez](https://github.com/ProwlingLynx)
 - [Suhas Holla](https://github.com/suhashollakc)
 - [Jose Angel Rodriguez](https://github.com/JosARodriguez)
 - [Khaled Matar](https://github.com/Matars)
@@ -8012,7 +8013,7 @@ Duncan Ledesma
 - [Mohit Dhule](https://github.com/mohit564)
 - [Juan Pablo Isaza](https://github.com/jisazamp)
 - [Shivani Sharma](https://github.com/Shivani-1611)
-- [Kay Wu Quoc] 
+- [Kay Wu Quoc]
 - [Valestyas] (https://github.com/valestyas) :>
 - [Stephen Brink](https://github.com/stephenb101010)
 - [Eric Wu](https://github.com/dumplingman0403)
@@ -8174,7 +8175,7 @@ Stephen kihuni
 - [Caxarial Z] (https://github.com/Caxarial)
 - [Kateryna Nikolaeva] (https://github.com/Shkalyar)
 - [ivn1s](https://github.com/ivn1s)
-- [Luke Sutton] (https://github.com/AffiliateIndustries) 
+- [Luke Sutton] (https://github.com/AffiliateIndustries)
 - [Islam Kamel](https://github.com/islam-kamel) ✌️
 - [Sai Abhilash](https://github.com/abhi9cr7)
 <!-- prettier-ignore-end -->
