@@ -753,6 +753,7 @@ Nicholaus Michael
 - [Celia Kelly](https://github.com/celiackelly)
 - [Arth Prajapati](https://github.com/arth2002)
 - Shubh g
+- [Lucky Temitope Osunbiyi] (https://github.com/LuckyTemitope/)
 - [William]
 - [Akansha]
 - [Lovemore Daka](https://github.com/beautifulboy11)
@@ -2696,6 +2697,7 @@ add jerry404lee
 - Reese Quinn
 - Sayan Maity
 - Natalie Heywood
+- [Lucky Osunbiyi] (https://github.com/LuckyTemitop)
 - [Tiago Jorge Barbosa Fernandes](https://github.com/Tiagof577)
 - [Nur Amyleena Arnie](https://github.com/amyleena95)
 - Mikhail Budko (https://github.com/mikhailbudko)
