@@ -32,6 +32,7 @@
 - [Ray Hu]
 - [Paige Witty]
 - [Moustafa Elsayed]
+- [Alexander Castillo](https://github.com/Jhuiice)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
 - [green1490] (https://github.com/green1490)
