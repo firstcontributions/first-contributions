@@ -3144,6 +3144,7 @@ yejashi
 - [Christian Haedrich](https://github.com/HaedrichHC)
 - [CJ Wow](https://github.com/scope2018)
   [Rickd](https://github.com/rickd-uk)
+  [Tu276] (httpss://github.com/Tu276)
 - [Krishna Sruthi Velaga] (https://github.com/KSruthiVel)
 -[IzzyHatake](https://github.com/israel1jol)
 - [Melvin Gilis](https://github.com/melvinxeu)
@@ -7857,6 +7858,7 @@ Duncan Ledesma
 -[Aaron Long](https://github.com/syhn3417)
 - [wangjiancheng](https://github.com/wjcwin)
 - [Issei20]
+- [Tu276] (https://github.com/Tu276)
 - [bdf715](https://github.com/bdf715)
 - [Demba Diack](https://github.com/DembaDiack)
 - [Gene Lyth](https://github.com/gmlyth)
