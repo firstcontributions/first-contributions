@@ -1713,6 +1713,7 @@ Aneesh Chavan
 - [parksukhoon96] (https://github.com/parksukhoon96)
 - [Nishant Kumar] (https://github.com/nishant-k-290195)
 - [Laira Nicole Cham](https://github.com/lnvc)
+- [Abhay Kumar Chaurasiya](https://github.com/chaurasiyag)
 - [Alhassane Toure] (https://github.com/Hassan0895)
 - [Amohelang Thoabala](https://github.com/amohelangthoabala)
 - [David Sampimon] )(https://github.com/davidsampimon/)
