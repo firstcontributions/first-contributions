@@ -30,6 +30,7 @@
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
+<kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22">](translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">](translations/README.lt.md)</kbd>
@@ -155,7 +156,7 @@ replacing `<your-name>` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin -u <add-your-branch-name>
 ```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
