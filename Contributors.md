@@ -8058,6 +8058,7 @@ Stephen kihuni
 - [Monish Soni](https://github.com/sonimonish00)
 - [Delete020](https://github.com/Delete020)
 - [Praneeth Bandi](https://github.com/Pranteloupe)
+- [Ahmed Hritani](https://github.com/ahmed-hritani)
 - [Amir Fatemi](https://github.com/amir2520)
 - [Marie Luongo](https://github.com/marie-lu)
 - Hiten Solanki
