@@ -4185,7 +4185,6 @@ Aditya Agarwal
 - [Kritika Singhal](https://github.com/kritika0598)
 - [Shubham Kumar 🤴](https://github.com/shubham-1903)
 - [Vivek Shah](https://github.com/viveknshah)
-- [Amr Arafa](https://github.com/AmrArafa)
 - [ingoaf](https://github.com/ingoaf)
 - [Omkar Vichare](https://github.com/Omkar845)
 - [aeron34](https://github.com/aeron34)
