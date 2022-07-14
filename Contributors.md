@@ -2006,6 +2006,7 @@ Aneesh Chavan
 - [Norm W] (https://github.com/otemon)
 - [Labib Asari] (https://github.com/labeeb-7z)
 - [Brian Ruiz]
+- [Etiene Essenoh](https://github.com/St80ene)
 - [Bijil Subhash] (https://github.com/bijilsubhash)
 - [Lucretia Maswabela] (https://github.com/Lucretiam)
 - [Bref] (https://github.com/bref1306)
