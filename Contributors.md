@@ -2814,6 +2814,7 @@ add jerry404lee
 - [Mohit Kumar](https://github.com/itsmohitmkk)
 - [Zodd13](https://github.com/Zodd13)
 - [Kieran Ford](https://github.com/kieranford4805)
+- [Alexander Kislov](https://github.com/farengeyt451)
 - [Muqimov Hamdam](https://github.com/mqhamdam)
 - [Sudip Kunda] (https://github.com/cbjuju)
 - [Moulya Ramesh]
