@@ -6,6 +6,7 @@
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Andika Eka Kurnia](https://github.com/dikdns)
+- [Clinton Otse](https://github.com/DhanteyUD)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Atakan Pars](https://github.com/AP9747)
