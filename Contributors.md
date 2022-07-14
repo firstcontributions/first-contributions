@@ -1721,7 +1721,7 @@ Aneesh Chavan
 - [Neevan] (https://github.com/neevan01)
 - [Noah Nannen] (https://github.com/Noah-nannen)
 - [Saurabh] (https://github.com/saurabh1046)
-- [Md Hasan Ali] (https://github.com/hasanali05)
+- [Md Hasan Ali](https://github.com/hasanali05)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Raj Singh] (https://github.com/singhrajgithub)
 - [Zhonghan] (https://github.com/ZhonghanZhou)
