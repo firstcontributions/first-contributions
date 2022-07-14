@@ -11,7 +11,7 @@ Teško je. Prvi pokušaj je uvek težak. Kada sarađuješ sa drugima, napraviti 
 Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u svoje ruke i zaista doprinositi u trening-sredini. Ovaj projekat ima za cilj da pruži konkretne korake i olakša način na koji početnici prilažu svoje prve doprinose (eng. contributions). Ukoliko ste se prepoznali u tekstu iznad, pratite sledeće korake.
 
 
-#### *Ako vam je nezgodno da čitate tekst u komandnoj liniji, [evo linka kroz GUI alate.]( #tutorials-using-other-tools )*
+#### *Ako vam je nezgodno da čitate tekst u komandnoj liniji, [evo linka kroz GUI alate.](#Uputstva-za-druge-alate)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 

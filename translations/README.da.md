@@ -10,7 +10,7 @@ Det er svært. Det er altid svært når det er første gang. Specielt hvis man s
 
 At læse artikler og se video guides hjælper, men hvad er bedre end at bruge det i praksis? Dette projekt håber at kunne tilbyde vejledning og gøre det overkommeligt for alle at lave deres første open-source bidrag.
 
-#### *Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer]( #tutorials-using-other-tools )*
+#### *Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer](#Guides-med-andre-værktøjer)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />

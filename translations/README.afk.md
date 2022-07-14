@@ -10,7 +10,7 @@ Dit is moeilik. Dit is altyd moeilik om die eerste keer iets te doen. Veral wann
 
 Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die praktyk te doen? Hierdie projek het ten doel om leiding te gee en die manier waarop beginners hul eerste bydrae maak, te vereenvoudig. As jy jou eerste bydrae wil maak, volg die onderstaande stappe.
 
-#### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.]( #tutorials-using-other-tools )*
+#### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.](#Bykomende-materiaal )*
 
 #### *Lees dit in [ander tale .](translations/Translations.md).*
 
