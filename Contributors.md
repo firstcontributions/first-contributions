@@ -1,4 +1,4 @@
-﻿out**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
