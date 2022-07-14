@@ -155,6 +155,7 @@ Tony Idehen
 - [Liyf Izeeze]
 - [Jainam Kothari] (https://github.com/Jainam1401)
 - [Rachit Verma] (https://github.com/darkknight20032001)
+- [John Liang] (https://github.com/jliangv)
 - [Nelson de Barros](https://github.com/nek54)
 - [Maximilian Stahl] (https://github.com/MaxiStahl1992)
 - [Oishik Sengupta] (https://github.com/oiishik)
