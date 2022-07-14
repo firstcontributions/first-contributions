@@ -1608,6 +1608,7 @@ Aneesh Chavan
 - [Dhineshkumar R] (https://github.com/dk017)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
+- [Seth Addo] (https://github.com/seths10)
 - [Simon H](https://github.com/nomishdr)
 - [Samia Alghamdi]
 - [Adam Pudliner](https://github.com/adampudliner)
@@ -1618,6 +1619,7 @@ Aneesh Chavan
 - [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
 - [alesabio] (https://github.com/alesabio)
 - [NTP] (https://github.com/duralumin02)
+
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
 - [Pranav Pillai] (https://github.com/pranav1597)
