@@ -428,7 +428,6 @@ zen.coder1.branch2
 - [Aaron Reynolds](https://github.com/areyn77463)
 - [Marc Hamacek] (https://github.com/MarcHamacek)
 - [Xien Thomas] (https://github.com/Xien-Thomas)
-- [holy5] (https://github.com/holy5)
 - [Julian Elmasry] (https://github.com/julian31186)
 - [Shlok Sheth] (https://github.com/shethshlok)
 - [Setki Fejsko] (https://github.com/SetkiF)
