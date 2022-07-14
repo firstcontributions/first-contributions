@@ -2169,6 +2169,7 @@
 - [Navharsh](https://github.com/Navharsh-Kr)
 - [Daniel Weinshtein](https://github.com/Danielv8899)
 - [PixelZee](https://github.com/pixelzee3)
+- [Clinton Otse](https://github.com/DhanteyUD)
 - [Michael Mendez](https://github.com/Mchl-Mndz)
 - [Pradhuman Soni] (https://github.com/whopradhuman)
 - [Micah Bowonthamachakr] (https://github.com/micahbow)
