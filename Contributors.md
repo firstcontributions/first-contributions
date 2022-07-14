@@ -6,6 +6,7 @@
 - [Atakan Pars](https://github.com/AP9747)
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Federico Podesta](https://github.com/FedePodesta)
+- [Chiara Di Sano](https://github.com/KikiDotPy)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Roopaksh](https://github.com/Roopaksh1)
