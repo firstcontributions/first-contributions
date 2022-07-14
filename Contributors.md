@@ -2289,7 +2289,6 @@ Zack Bryant
 - [William Souza](https://github.com/williamguilhermesouza)
 - [Shreya Denny](https://github.com/shreyadenny)
 - [WaiPhyoeOo](https://github.com/waiphyoeoo)
-- [Alexander Kislov](https://github.com/farengeyt451)
 - [Ravi Ramchand](https://github.com/RaviRamchand)
 - [Gyanashree Giri] (https://github.com/GGi347)
 - [MuhammadSameh] (https://github.com/MuhammadSameh)
