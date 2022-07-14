@@ -394,6 +394,7 @@ zen.coder1.branch2
 - [Y-askour] (https://github.com/Y-askour)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
 - [David E] (https://github.com/ElliottConsulting)
+- [Reneesme S]
 - [Ghanendra](https://github.com/gpt3ch)
 - [Joel van der Boom](https://github.com/joelvdb)
   [Cristian Camacho](https://github.com/CristianCamacho)
