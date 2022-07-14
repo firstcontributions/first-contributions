@@ -275,6 +275,7 @@ zen.coder1.branch2
 - [Prakhar Dubey](https://github.com/prakhardubey2002)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Tommy Seamans](https://github.com/tseamans1214)
+- [A5tr0] (https://github.com/a5tr0-o)
 - [Anna]
 - [Minki Beak](https://github.com/miinkeee)
 - [Obi Sammy](https://github.com/obi-sammy)
