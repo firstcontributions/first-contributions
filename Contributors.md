@@ -1736,6 +1736,7 @@ Aneesh Chavan
 - [Naiden Radnev] (https://github.com/naiiiden)
 - [exxnnonymous](https://github.com/exxnnonymous)
 - [Jandir Porta] (https://github.com/jandirdlctm)
+- [Samip Suwal] (https://github.com/samipsuwal)
 - [Roisul Islam Rumi] (https://github.com/RoisulIslamRumi)
 - [Daniel Adesanya](https://github.com/4x3l3r8)
 - [Bipin Mishra] (https://github.com/bipin-mishra1)
