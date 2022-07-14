@@ -491,6 +491,7 @@ zen.coder1.branch2
 - [Tarakeswar Mondal](https://github.com/tarakes)
 - [Luke Herbst](https://github.com/LukeHerbst)
 - [Shravan Garg](https://github.com/shravan-garg)
+- [Sachin parihar](https://github.com/sachinparihar)
 - [Ariel Rubel](https://github.com/pepepinguino69)
 - [Anushka Saxena](https://github.com/anushkasaxena27)
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
