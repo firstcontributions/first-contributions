@@ -5890,6 +5890,7 @@ Himanshu Dedha
 - [N3RO4](https://github.com/N3RO4/)
 - [NPU-Franklin](https://github.com/NPU-Franklin)
 - [DaKing👍🏼](https://github.com/shenduldh)
+- [Kavya K Jayachandran] (https://github.com/kavyajayan)
 - [albertrzcinski](https://github.com/albertrzcinski)
 - [zefengdaguo](https://github.com/zefengdaguo)
 - [Kylo Yip](https://github.com/yipwinghong)
