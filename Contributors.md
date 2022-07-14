@@ -1,4 +1,4 @@
-out**Contributors**
+﻿out**Contributors**
 
 <!-- prettier-ignore-start -->
 - [ashish lotake](https://github.com/ashishlotake)
@@ -2037,6 +2037,7 @@ Gabrielle Jones
 -[Priyanshu Gautam](https://github.com/PriyanshuGautam1923)
 -[Mason Green]
 -Mayank Arya (https://github.com/Arya-Mayank)
+-likwid (https://github.com/likwidsec)
 -[Iven Hartford] (https://github.com/ivenhartford)
 -[Drew Haile] (https://github.com/snithercode/)
 -[Brandan Pratt] (https://github.com/brantheeman)
