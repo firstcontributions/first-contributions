@@ -4906,6 +4906,7 @@ Himanshu Dedha
 - [Masiel Villalba](https://github.com/masiiie)
 - [Bar Amber](https://github.com/baramber)
 - [Vladimir Meshalkin](https://github.com/LadMes)
+- [Lei Yu](https://github.com/rye4ray)
 - [Ahana Mittra](https://github.com/AhanaMittra)
 - [Stephen Bao](https://github.com/Stephen-Bao)
 - [Martin Meng](https://github.com/MartinMxn)
