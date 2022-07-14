@@ -29,6 +29,7 @@
 - [Anika Roy](https://github.com/Anika-Roy)
 - [green1490] (https://github.com/green1490)
 - [Duffimuss] (https://github.com/Duffimuss)
+- [Olaoluwa Ajanaku](https://github.com/0laolu)
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Rafael Dutra](https://github.com/RafaDRF)
