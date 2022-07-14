@@ -289,6 +289,7 @@ zen.coder1.branch2
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
 - [Bo Jangles](https://github.com/Bo-Jangles)
+- [Lewis Rye](https://github.com/LewisRye)
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
