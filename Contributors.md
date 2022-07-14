@@ -103,7 +103,6 @@
 - [Shashwat Pragya](https://github.com/shashwat183)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
-- [Clinton Otse](https://github.com/DhanteyUD)
 - [Airsayy](https://github.com/AirSayy)
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
