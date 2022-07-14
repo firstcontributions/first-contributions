@@ -720,6 +720,7 @@ Nicholaus Michael
 - [Luck Tran](https://github.com/lucktran)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Joshua Goldstein]
+- [Nuwan Sudusinghe](https://github.com/ArcReactive)
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Okeke Kenechukwu](https://github.com/kenekc18)
 - [Ankit Sharma](https://github.com/Sabretooth1405)
