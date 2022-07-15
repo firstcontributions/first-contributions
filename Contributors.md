@@ -1,7 +1,6 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
