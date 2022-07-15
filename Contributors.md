@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-  [Idzanaagi](https://github.com/Idzanaagi)
+- [Idzanaagi](https://github.com/Idzanaagi)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
@@ -1090,4 +1090,5 @@
 - [Kevin Htun](https://github.com/kkhtun)
 - [Akram Ghanem](https://github.com/barribarri20)
 - [Elifraha Natai](https://github.com/elifraha)
+- [Ajith P. Kumar](https://github.com/JOSHI-owo)
 <!-- prettier-ignore-end -->
