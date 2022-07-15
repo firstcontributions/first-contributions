@@ -15,7 +15,7 @@ Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 
-Ukoliko nemati git instaliran na vašoj mašini, [instalirajte ga ovde]( https://help.github.com/articles/set-up-git/).
+Ukoliko nemate git instaliran na vašoj mašini, [instalirajte ga ovde]( https://help.github.com/articles/set-up-git/).
 
 ## Napravite fork repozitorijuma
 
@@ -57,7 +57,7 @@ Na primer:
 ```
 git checkout -b add-alonzo-church
 ```
-(Naziv grane ne mora da sadrži *add* na početku, ali je zgodno uključiti ga jer je svrha ove grane da doda vaše ime na listu.
+(Naziv grane ne mora da sadrži *add* na početku, ali je zgodno uključiti ga jer je svrha ove grane da doda vaše ime na listu.)
 
 ## Napravite potrebne izmene i potvrdite promene
 
