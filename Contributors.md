@@ -152,6 +152,7 @@
 - [Jack Ma](https://github.com/KingJacM)
 - [Angel Nieto](https://github.com/N-a290)
 - [blackbrokkoli](https://github.com/blackbrokkoli)
+- [Avinash Karmjit](https://github.com/avi465)
 - [Nozomu Ohno](https://github.com/nohno23)
 - [Sophearoth Prum](https://github.com/biscuit-lee)
 - [Abhiram Santhosh](https://github.com/mayopik)
