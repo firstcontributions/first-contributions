@@ -7,7 +7,7 @@
 
 Ovaj projekat ima za cilj da pruži konkretne korake i olakša način na koji početnici prilažu svoje prve doprinose (eng. contributions). Ukoliko ste se prepoznali u tekstu iznad i zelite da probate i doprinesete ovome ili nekom drugom projektu, pratite slijedece korake.
 
-#### _Ukoliko niste bas sigurni u vas rad sa komandnom linijom/terminalom (terminal -> za macOs), [mozete koristit ovaj link kroz GUI alate.](#tutorials-using-other-tools)_
+#### _Ukoliko niste bas sigurni u vas rad sa komandnom linijom/terminalom (terminal -> za macOs), [mozete koristit ovaj link kroz GUI alate.](#Uputstva-za-druge-alate)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 

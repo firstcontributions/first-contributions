@@ -32,9 +32,9 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulta as et
 
 Por exemplo:
 ```
-git clone https://github.com/este-eh-voce/first-contributions.git
+git clone https://github.com/este-e-voce/first-contributions.git
 ```
-onde "este-eh-voce" é o seu usuário do GitHub. Aqui estas a copiar o conteúdo do repositório first-contributions para o teu computador.
+onde "este-e-voce" é o seu usuário do GitHub. Aqui estas a copiar o conteúdo do repositório first-contributions para o teu computador.
 
 ## Cria um Branch
 
@@ -56,7 +56,7 @@ Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é reco
 
 ## Efetua as alterações necessárias e faz um Commit
 
-Agora abre o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome nele e guarda o ficheiro. Se fores para o diretório do projeto e executar o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
+Agora abre o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome nele e guarda o ficheiro. Se fores para o diretório do projeto e executares o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
 ```
 git add Contributors.md
 ```
