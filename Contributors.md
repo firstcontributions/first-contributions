@@ -1080,4 +1080,5 @@
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
 - [Islam Kamel](https://github.com/islam-kamel)
+- [Akram Ghanem](https://github.com/barribarri20)
 <!-- prettier-ignore-end -->
