@@ -110,7 +110,7 @@ git push origin <add-your-name>
 
 আপনার অবদানের আনন্দ উপভোগ করুন এবং [ওয়েব অ্যাপ](https://roshanjossey.github.io/first-contributions/#social-share)-এর মাধ্যমে বন্ধু ও অনুসরণকারীদের সাথে শেয়ার করুন।
 
-কোন সহায়তার প্রয়োজন হলে বা আপনার কোন প্রশ্ন থাকলে আপনি আমাদের স্ল্যাক টিমে যুক্ত হতে পারেন। [স্ল্যাক টিমে যোগ দিন](https://firstcontributions.herokuapp.com)
+কোন সহায়তার প্রয়োজন হলে বা আপনার কোন প্রশ্ন থাকলে আপনি আমাদের স্ল্যাক টিমে যুক্ত হতে পারেন। [স্ল্যাক টিমে যোগ দিন](https://join.slack.com/t/firstcontributors/shared_invite/zt-kpbyrmkk-JDkRtchcvRvQ0qK4iPmyvA)
 
 এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://roshanjossey.github.io/first-contributions/#project-list) দেখুন।
 
