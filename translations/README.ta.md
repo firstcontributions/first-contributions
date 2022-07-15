@@ -18,7 +18,7 @@
 கொண்டுள்ளது. உங்கள் முதல் பங்களிப்பை வழங்க விரும்பினால், கீழே உள்ள வழிமுறைகளை 
 பின்பற்றவும்.
 
-#### *command line tool உங்களுக்கு வசதியாக இல்லை என்றால், [இங்கே GUI tools ஐ பயன்படுத்தி பயிற்சிகள் உள்ளன.](#tutorials-using-other-tools)*
+#### *command line tool உங்களுக்கு வசதியாக இல்லை என்றால், [இங்கே GUI tools ஐ பயன்படுத்தி பயிற்சிகள் உள்ளன.](#பிற-கருவிகளைப்-பயன்படுத்தி-பயிற்சிகள்)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="இந்த repository ஐ fork செய்யவும்" />
 
