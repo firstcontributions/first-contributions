@@ -106,7 +106,7 @@ Kis idő elteltével összevonja a változásokat a project fő ágában. Értes
 
 Gratulálunk! Sikeresen teljesítetted az alapvető _fork -> clone -> edit -> PR_ folyamatot, melyet gyakran kell majd csinálnod közreműködőként!
 
-Ünnepeld meg az első kooperációdat és osszd meg barátaidall és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
+Ünnepeld meg az első kooperációdat és osszd meg barátaiddal és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
 
 Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
 
