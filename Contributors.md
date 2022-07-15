@@ -132,6 +132,7 @@
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
+- [Kartikeya Agate](https://github.com/agatekartik)
 - [Emanuel181](https://github.com/Emanuel181)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
