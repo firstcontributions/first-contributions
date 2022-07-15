@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Gargi Sontakke](https://github.com/gargi-son)
 - [Idzanaagi](https://github.com/Idzanaagi)
+- [Frostbyte]
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
