@@ -35,6 +35,7 @@
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Rafael Dutra](https://github.com/RafaDRF)
+- [Madani Khouane(https://github.com/madani20)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
 - [mhb-flh](https://github.com/mhb-flh)
