@@ -12,7 +12,7 @@ Ni vigumu. Ni vigumu daima mara ya kwanza unafanya kitu. Hasa wakati unashirikia
 
 Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaidi kuliko kufanya mambo halisi katika mazingira ya mazoezi? Mradi huu unalenga kutoa mwongozo na kurahisisha wasanidi wa njia kufanya mchango wao wa kwanza. Ikiwa unatafuta kufanya mchango wako wa kwanza, fuata hatua zifuatazo.
 
-#### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.]( #tutorials-using-other-tools )*
+#### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.](#Mafundisho-Kutumia-Zana-Zingine)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -26,10 +26,10 @@ Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda na
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboardboard .
+Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
 
-Fungua terminal na uendesha amri yafuatayo yafuatayo:
+Fungua terminal na uendesha amri yafuatayo:
 
 ```
 git clone "url you just copied"
@@ -117,7 +117,7 @@ Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu
 
 ## Wapi kutoka hapa?
 
-Hongera! Wewe umekamilisha fomu ya kawaida -> clone -> hariri -> PRflowflow ambayo unakutana mara nyingi kama mchangiaji!
+Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull request* ambayo unakutana mara nyingi kama mchangiaji!
 
 Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye [programu ya wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 

@@ -6,10 +6,11 @@
 
 # 첫 기여
 
-
-어렵습니다. 무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
+무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
 
 관련된 글을 읽거나 튜토리얼을 보는 것도 물론 도움이 되지만, 연습공간에서 직접 해보는 것보다 나은게 있을까요? 이 프로젝트의 목표는 초보자도 첫 오픈소스 기여를 할 수 있도록 단순한 방식으로 안내하는 것입니다. 첫 기여를 하고 싶으시다면 아래의 설명을 따라주세요.
+
+커맨드 라인 사용에 익숙치 않으시다면 [이곳](#다른-도구들에-관한-튜토리얼)에서 GUI 툴에 대한 튜토리얼을 확인할 수 있습니다.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="이 저장소 포크하기" />
 
@@ -23,7 +24,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="이 저장소 복제하기" />
 
-이제 이 저장소를 자신의 기기에 클론합니다. Clone or download 버튼을 클릭하고 클립보드로 복사 아이콘을 클릭합니다.
+이제 이 저장소를 자신의 기기에 클론합니다. 우상단의 `Code` 버튼을 클릭하고 클립보드로 복사 아이콘을 클릭합니다.
 
 터미널을 열고 다음 Git 명령을 실행합니다:
 
@@ -110,7 +111,7 @@ git push origin <add-your-name>
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="풀 요청 제출하기"
 />
 
-이제 여러분의 변경사항을 담당자가 확인한 후에 마스터 브랜치에 머지 하게 되면 알림 메일을 받으실겁니다.
+이제 여러분의 변경사항을 담당자가 확인한 후에 마스터 브랜치에 머지하게 되면 알림 메일을 받으실겁니다.
 
 ## 첫 기여, 그리고 그 후
 
@@ -129,6 +130,6 @@ git push origin <add-your-name>
 
 ## 다른 도구들에 관한 튜토리얼
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>| <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)     | [Atlassian Sourcetree](../sourcetree-macos-tutorial.md)         | [IntelliJ IDEA](../github-windows-intellij-tutorial.md)         |
+| [GitHub Desktop](../github-desktop-tutorial.md)              | [Visual Studio 2017](../github-windows-vs2017-tutorial.md)   | [GitKraken](../gitkraken-tutorial.md)                        | [Visual Studio Code](../github-windows-vs-code-tutorial.md)  | [Atlassian Sourcetree](../sourcetree-macos-tutorial.md)      | [IntelliJ IDEA](../github-windows-intellij-tutorial.md)      |
