@@ -1,7 +1,9 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-  [Idzanaagi](https://github.com/Idzanaagi)
+
+[Idzanaagi](https://github.com/Idzanaagi)
+
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
@@ -104,6 +106,7 @@
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
+- [Luis Martinez](https://github.com/LJMartinez07)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Lebelek](https://github.com/lblk-coder)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
