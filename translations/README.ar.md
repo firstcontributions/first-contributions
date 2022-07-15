@@ -7,9 +7,9 @@
 # <div dir="rtl">مساهمتك الأولى</div>
 
 <div dir="rtl">
-الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعجا.
+الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ أمراً مزعجا.
 <br>
-لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب الآخرون سيساعدونك في تصحيح هذا الخطأ.
+لكن المساهمة في مشاريع مفتوحة المصدر تتطلب وتتوقع الخطأ ولهذا السبب الآخرون سيساعدونك في تصحيح هذا الخطأ.
 <br>
 في هذا المشروع هدفنا هو تسهيل الطريق لمساهمتك الأولى.
 </div>
@@ -25,24 +25,24 @@
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
-## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+## <div dir="rtl"> انسخ هذا المشروع - Fork this Repository </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
-افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
+انسخ هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع على حسابك الخاص.
 </div>
 
-## <div dir="rtl"> استنسخ هذا المشروع - Clone the repository </div>
+## <div dir="rtl"> انقل هذا المشروع - Clone the repository </div>
 
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 <div dir="rtl">
-استنسخ هذا المشروع على جهازك.
+انقل هذا المشروع على جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح الطرفية واكتب الأمر التالي:
+افتح (Terminal) واكتب الأمر التالي:
 </div>
 
 ```
@@ -58,7 +58,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 <div dir="rtl">
-في هذا المثال لاحظ 'this-is-you' سيكون اسم حسابك في موقع github يليه رابط المشروع الذي فرقته في أول خطوة، هذا الأمر سينسخ محتويات المشروع على جهازك لتتمكن من التعديل عليه بحرية.
+في هذا المثال انسخ 'this-is-you' سيكون اسم حسابك في موقع github يليه رابط المشروع الذي فرقته في أول خطوة، هذا الأمر سينسخ محتويات المشروع على جهازك لتتمكن من التعديل عليه بحرية.
 </div>
 <br>
 
@@ -91,7 +91,7 @@ git checkout -b "add-alonzo-church"
 
 <div dir="rtl">
 الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف اسمك ثم احفظ الملف.
-بعد ذلك اذهب إلى الطرفية واكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
+بعد ذلك اذهب إلى (Terminal) واكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
 لإضافة هذه التغييرات قم بإضافتها عن طريق هذا الأمر <code>git add</code>.
 </div>
 
@@ -131,7 +131,7 @@ git push origin "add-your-name"
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
+<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
 <div dir="rtl">الفرع الرئيس الخاص بك لن يحتوي على هذه التغيررات. عليك مزامنته مع الفرع الرئيس عن طريق الخطوات التالية.</div>
 
@@ -150,7 +150,7 @@ git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 <div dir="rtl">بهذه الطريقة نخبر git أن هناك نسخة أخرى من هذا المشروع في هذا الرابط ونسميها <code>upstream</code>.
-بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
+بعد أن أوافق على تغيراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
 </div>
 
 ```
@@ -171,11 +171,58 @@ git push origin master
 
 <div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> اسمه <code>origin</code>.</div>
 <br>
+</div>
+
+
+<div dir="rtl">
+
+## الى أين الان؟
+</div>
+
+<div dir="rtl">مبروك! لقد قمت بعمل سير العمل: تشعب ‫-‬> استنساخ ‫-‬> تعديل ‫-‬> طلب-سحب الذي ستواجهه كثيرًا كمساهم! 
+</div>
+<br>
+
+<div dir="rtl">
+احتفل بمساهمتك وشاركها مع أصدقائك ومتابعيك بالانتقال إلى <a href='https://firstcontributions.github.io/#social-share'> تطبيق الويب. </a>
+</div>
+<br>
+
+<div dir="rtl">
+ يمكنك الانضمام إلى فريق Slack في حال احتجت إلى أي مساعدة أو لديك أي أسئلة. <a href='https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA'> انضم الى فريق سلاك Slack </a>
+
+ 
+</div>
+<br>
+
+<div dir="rtl">
+لنبدأ الآن بالمساهمة في مشاريع أخرى. لقد قمنا بجمع قائمة مشاريع فيها مشاكل سهلة يمكنك البدء فيها. <a href='https://firstcontributions.github.io/#project-list'> تحقق من قائمة المشاريع في تطبيق الويب.
+ </a>
+
+</div>
+<br>
+ 
+
+
+## ماذا ستفعل الآن ؟
+
+تهانينا , لقد إنتهيت من عملية الفرق - الاستنساخ - التعديل - فتح طلب دمج , هذه العملية سترافقك الى النهاية كمساهم في البرمجيات المفتوحة
+
+إحتفل بمساهمتك وشاركها مع إصدقائك ومتابعيك بالذهاب للموقع التالي
+[web app](https://firstcontributions.github.io/#social-share)
+
+يمكنك الإنضمام الينا في فريق السلاك في حال إحتجت أي مساعدة أو سؤال
+[Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+
+والآن لنساعدك بالمساهمة في مشاريع أخرى , لقد جمعنا قائمة من المشاريع التي تحتوي على مشاكل بسيطة للمبتدئين ليمكنك البدء منها يمكنك تصفح هذه القائمة من هنا
+[the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+
+### [المزيد من المصادر](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
 
 
