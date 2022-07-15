@@ -1086,4 +1086,5 @@
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
 - [Akram Ghanem](https://github.com/barribarri20)
+- [Elifraha Natai](https://github.com/elifraha)
 <!-- prettier-ignore-end -->
