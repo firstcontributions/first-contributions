@@ -8072,6 +8072,7 @@ Stephen kihuni
 - [Kamil Chulakov](https://github.com/kamilchulakov)
 - [Manish Saha](https://github.com/Manice18)
 -[Naman Jain](https://github.com/N-coder-bot)
+-[Rivaldo Ortega](https://github.com/rivaldo-ortega)
 - [Hau Nguyen](https://github.com/thehaung)
 - [Foystor Wan](https://github.com/Foystor)
 - [Jeremy Phua](https://github.com/jeremyphua)
