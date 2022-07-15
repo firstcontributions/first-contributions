@@ -585,6 +585,7 @@
 - [Devanshu Sharma](https://github.com/devanshus)
 - [MoisesCastlee](https://github.com/moisescastlee)
 - [Madhureshminoshi](https://github.com/Minodeveloper)
+- [Utkarsh Agarwal](https://github.com/utkarsh-3112)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [Raydel Comas](https://github.com/rcomas91)
