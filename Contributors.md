@@ -1,9 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
-[Idzanaagi](https://github.com/Idzanaagi)
-
+- [Idzanaagi](https://github.com/Idzanaagi)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
@@ -15,6 +13,7 @@
 - [ashish lotake](https://github.com/ashishlotake)
 - [Atakan Pars](https://github.com/AP9747)
 - [Jana Hafez](https://github.com/JanaHafez1)
+- [Ramil Algayev](https://github.com/EuropeanMosquito)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
 - [Chetan Dhongade](https://github.com/binary-ibex)
@@ -38,7 +37,7 @@
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Rafael Dutra](https://github.com/RafaDRF)
-- [Madani Khouane(https://github.com/madani20)
+- [Madani Khouane](https://github.com/madani20)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
 - [mhb-flh](https://github.com/mhb-flh)
@@ -51,6 +50,7 @@
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Babba Voss](https://github.com/Lordvoss/)
 - [ARKARLIN](https://github.com/christopher4RY)
+- [RAJMISHRA](https://github.com/rajmishra-47)
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
@@ -299,6 +299,7 @@
 - [E Rod](https://github.com/Proximacentauri-b)
 - [Ahmed Nasr](https://github.com/NotAhmedNasr)
 - [Sourabh Patel](https://github.com/getmeapencil)
+- [Ajala Marvellous](https://github.com/ajalamarvellous)
 - [Samuel Kinuthia](https://github.com/Siymiel)
 - [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
@@ -585,6 +586,7 @@
 - [Devanshu Sharma](https://github.com/devanshus)
 - [MoisesCastlee](https://github.com/moisescastlee)
 - [Madhureshminoshi](https://github.com/Minodeveloper)
+- [Utkarsh Agarwal](https://github.com/utkarsh-3112)
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [Raydel Comas](https://github.com/rcomas91)
@@ -1088,4 +1090,6 @@
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
 - [Akram Ghanem](https://github.com/barribarri20)
+- [Elifraha Natai](https://github.com/elifraha)
+- [Ajith P. Kumar](https://github.com/JOSHI-owo)
 <!-- prettier-ignore-end -->
