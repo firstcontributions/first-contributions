@@ -8,7 +8,7 @@
 - [nnhjs](https://github.com/nnhjs)
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
-- [Sadeedpv](https://Github.com/Sadeedpv)
+- [Sadeed-pv](https://Github.com/Sadeedpv)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
