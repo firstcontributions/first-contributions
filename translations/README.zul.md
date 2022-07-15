@@ -11,7 +11,7 @@ Kulukhuni. Kuhlale kunzima okokuqala lapho wenza okuthile. Ikakhulukazi uma ubam
 
 Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza okwamanje izinto ezenzakalweni? Le phrojekthi ihlose ukunikeza isiqondiso nokwenza ukuthi abaqalayo benze indlela yabo yokuqala. Uma ubheka ukwenza umnikelo wakho wokuqala, landela izinyathelo ezingezansi.
 
-#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.]( #tutorials-using-other-tools )*
+#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.](#Izinto-ezengeziwe)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -27,7 +27,7 @@ Fometha le repo ngokuchofoza inkinobho yemfoloko phezulu kwaleli khasi. Lokhu ku
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Manje faka i-repo efakwe emshini wakho kumshini wakho. Yiya ku-akhawunti yakho ye-GitHub, vula i-repo evuliwe, chofoza inkinobho ye-clone bese uchofoza ikhophi ku-clipboard icon.
+Manje faka i-repo efakwe emshinini wakho, kumshini wakho. Yiya ku-akhawunti yakho ye-GitHub, vula i-repo evuliwe, chofoza inkinobho ye-clone bese uchofoza ikhophi ku-clipboard icon.
 
 Vula i-console bese ugijima umyalo we-git:
 

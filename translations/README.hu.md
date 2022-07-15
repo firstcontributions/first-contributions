@@ -10,7 +10,7 @@ Minden kezdet nehéz, ezért szeretnénk segíteni számodra az első lépésekb
 
 A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a kezdők első lépéseit nyilt forráskódú szoftverek közös programozásában. Ha te is most készülsz először ilyet csinálni, segítünk neked, kövessd az alábbi lépéseket.
 
-#### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.]( #tutorials-using-other-tools )*
+#### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkold ezt a repot" />
 
@@ -106,7 +106,7 @@ Kis idő elteltével összevonja a változásokat a project fő ágában. Értes
 
 Gratulálunk! Sikeresen teljesítetted az alapvető _fork -> clone -> edit -> PR_ folyamatot, melyet gyakran kell majd csinálnod közreműködőként!
 
-Ünnepeld meg az első kooperációdat és osszd meg barátaidall és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
+Ünnepeld meg az első kooperációdat és osszd meg barátaiddal és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
 
 Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
 
