@@ -10,7 +10,7 @@ Es complicado. Siempre resulta difícil la primera vez que haces algo. Principal
 
 Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas?. Este proyecto se enfoca en guíar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
-#### *Si no estás cómodo con la linea de comandos, [aqui hay unos tutoriales usando herramientas gráficas.]( #tutorials-using-other-tools )*
+#### *Si no estás cómodo con la linea de comandos, [aqui hay unos tutoriales usando herramientas gráficas.](#Tutoriales-con-otras-herramientas)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
