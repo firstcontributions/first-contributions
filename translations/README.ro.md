@@ -18,14 +18,14 @@ Dacă nu ai git instalat, [ instalează-l ]( https://help.github.com/articles/se
 
 ## Ramifică repozitoriul(depozit)
 
-Ramifică acest repo(depozit) făcând clic pe butonul fork locat pe partea de sus a paginii.
+Ramifică acest repository  (depozit) făcând clic pe butonul fork locat pe partea de sus a paginii.
 Acesta va creea o copie a repozitoriului în contul tău.
 
 ## Clonează repozitoriul(depozit)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Acum clonează acest repo pe computerul tău. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
+Acum clonează acest repo pe computerul tău. Dă clic pe butonul clone apoi clic pe *copiați în clipboard*.
 
 Deschideți un terminal și executați următoarea comanda git: 
 
@@ -40,7 +40,7 @@ De exemplu:
 ```
 git clone https://github.com/acesta-ești-tu/prima-contribuție.git
 ```
-Unde `acesta-ești-tu` este numele tău GitHub. Aici tu copiezi conținutul repozitorului GitHub "prima-contribuție" pe computerul tău.
+Unde `acesta-ești-tu` este numele tău GitHub. Aici copiezi conținutul repozitorului GitHub "prima-contribuție" pe computerul tău.
 
 ## Creează o Ramură
 
@@ -62,7 +62,7 @@ git checkout -b adaug-alonzo-church
 
 ## Fă schimbările necesare si comite aceste schimbări
 
-Acum deschide fișierul `Contributors.md` într-un editor de text (ca NotePad, Vim, nano, emacs, etc.), adaugă numele tău în el, apoi salvează fișierul. Dacă accesezi directorul de proiect și execuți comanda `git status`, vei vedea schimbări. Adaugă acele schimbări la ramura creată de tine cu comanda `git add`:
+Acum deschide fișierul `Contributors.md` într-un editor de text (ca NotePad, Vim, nano, emacs, etc.), adaugă numele tău în el, apoi salvează fișierul. Dacă accesezi     de proiect și execuți comanda `git status`, vei vedea schimbări. Adaugă acele schimbări la ramura creată de tine cu comanda `git add`:
 ```
 git add Contributors.md
 ```
@@ -83,7 +83,7 @@ Schimbând `<adaug-numele-tău>` cu numele ramurii create de tine anterior.
 
 ## Trimite modificările pentru examinare
 
-Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull request`(Compară & trage cererea). Fă clic pe el.
+Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull request`(Compară & trage cererea). Apasă clic pe el.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
