@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-まだGitをインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/)からインストールしてください
+まだGitをインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/)からインストールしてください。
 
 ## レポジトリをフォーク
 
@@ -54,7 +54,7 @@ cd first-contributions
 git checkout -b <add-your-name>
 ```
 
-例:
+例 :
 ```
 git checkout -b add-alonzo-church
 ```
