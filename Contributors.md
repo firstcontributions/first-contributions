@@ -51,6 +51,7 @@
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani](https://github.com/khushijashnani)
 - [Liza Yemini](https://github.com/LizaYemini)
+- [Clifford Mapesa](https://github.com/droffilc1)
 - [Abbey Santos](https://github.com/AbbeyIT)
 - [Henrik Berg](https://github.com/henkeb)
 - [Henry Burii](https://github.com/buriihenry)
