@@ -12,56 +12,7 @@ Ni vigumu. Ni vigumu daima mara ya kwanza unafanya kitu. Hasa wakati unashirikia
 
 Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaidi kuliko kufanya mambo halisi katika mazingira ya mazoezi? Mradi huu unalenga kutoa mwongozo na kurahisisha wasanidi wa njia kufanya mchango wao wa kwanza. Ikiwa unatafuta kufanya mchango wako wa kwanza, fuata hatua zifuatazo.
 
-#### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.]( #tutorials-using-other-tools )*
-
-#### *Soma hii kwa [lugha zingine](translations/Translations.md).*
-
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-[🇷🇸](translations/README.sr.md)
-
-
+#### *Ikiwa huna urahisi na mstari wa amri, [hapa ni mafunzo kwa kutumia zana za GUI.](#Mafundisho-Kutumia-Zana-Zingine)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -75,10 +26,10 @@ Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda na
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboardboard .
+Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
 
-Fungua terminal na uendesha amri yafuatayo yafuatayo:
+Fungua terminal na uendesha amri yafuatayo:
 
 ```
 git clone "url you just copied"
@@ -166,7 +117,7 @@ Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu
 
 ## Wapi kutoka hapa?
 
-Hongera! Wewe umekamilisha fomu ya kawaida -> clone -> hariri -> PRflowflow ambayo unakutana mara nyingi kama mchangiaji!
+Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull request* ambayo unakutana mara nyingi kama mchangiaji!
 
 Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye [programu ya wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 

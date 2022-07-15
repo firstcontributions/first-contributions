@@ -6,11 +6,11 @@
 
 # Primeras contribuciones
 
-Es complicado. Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es agradable. Queremos simplificar la forma en la que los nuevos contribuidores de _open source_ aprenden y contribuyen por primera vez.
+Es complicado. Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es agradable. Queremos simplificar la forma en la que los nuevos contribuyentes de _open source_ aprenden y contribuyen por primera vez.
 
 Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas?. Este proyecto se enfoca en guíar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
-#### *Si no estás cómodo con la linea de comandos, [aqui hay unos tutoriales usando herramientas gráficas.]( #tutorials-using-other-tools )*
+#### *Si no estás cómodo con la linea de comandos, [aqui hay unos tutoriales usando herramientas gráficas.](#Tutoriales-con-otras-herramientas)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
@@ -86,7 +86,7 @@ reemplazando `<nombre>` con tu nombre.
 
 ## Carga (*Push*) tus cambios a GitHub
 
-mandar un *push* de tus cambios usando el comando `git push`:
+Mandar un *push* de tus cambios usando el comando `git push`:
 ```
 git push origin <nombre-rama>
 ```
