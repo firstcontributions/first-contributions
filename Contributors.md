@@ -169,6 +169,7 @@
 - [Michael Silverman](https://github.com/msilverman-va)
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [Quan Jiang](https://github.com/JQuan1999)
+- [Sarah](https://github.com/mintyeucalyptus)
 - [Levi Francis](https://github.com/leevigh)
 - [Eiyad Ziyadah](https://github.com/eziyadah)
 - [VaradC](https://github.com/cvarad96)
