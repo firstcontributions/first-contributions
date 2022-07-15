@@ -10,7 +10,7 @@
 Është e vështirë. Është gjithmonë e vështirë hera e parë kur bën diçka. Sidomos kur bashkëpunon, të bësh gabime nuk është një ndjenjë e mirë. Ne duam ta thjeshtësojmë mënyrën se si kontribuesit e open-source mësojnë dhe kontribuojnë për herë të parë.
 Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë se sa ta bësh këtë gjë në një vend praktike? Ky projekt synon të udhëzojë & të thjeshtësojë mënyrën se si fillestarët bëjnë kontributin e tyre të parë. Nëse dëshiron të bësh kontributin tënd të parë, ndiqi hapat më poshtë.
 
-#### *Nëse ende nuk ndjehesh komod me command line, [këtu ke tutoriale që përdorin veglat e GUI]( #tutorials-using-other-tools )*
+#### *Nëse ende nuk ndjehesh komod me command line, [këtu ke tutoriale që përdorin veglat e GUI](#Tutoriale-duke-përdorur-vegla-tjera )*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
