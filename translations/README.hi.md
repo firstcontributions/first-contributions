@@ -12,7 +12,7 @@
 
 अगर आपके कंप्यूटर पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/) |
 
-_यदि आप कमांड लाइन के साथ सहज नहीं हैं, [तो यहाँ ग्राफिकल इंटरफेस (GUI) टूल्स का उपयोग करने वाले ट्यूटोरियल हैं](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools) |_
+_यदि आप कमांड लाइन के साथ सहज नहीं हैं, [तो यहाँ ग्राफिकल इंटरफेस (GUI) टूल्स का उपयोग करने वाले ट्यूटोरियल हैं](#अन्य-टूल-का-उपयोग-करके-ट्यूटोरियल) |_
 
 ## रिपॉज़िटरी को फॉर्क करना
 
@@ -120,8 +120,8 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## अन्य टूल का उपयोग करके ट्यूटोरियल
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|<a href="/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://camo.githubusercontent.com/3793fd7afab1e383a841a5e39c681c802cdcbbb1ffa01571a06b1a167e086512/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f6775692d746f6f6c2d7475746f7269616c732f6769746b72616b656e2d7475746f7269616c2f676b2d69636f6e2e706e67" width="100"></a>|<a href="/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
+|[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)|
 
 

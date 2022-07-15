@@ -1,0 +1,114 @@
+GitFlow is a branching model for Git made by Vincent Driessen. In this article I will dig into why and how to use GitFlow.
+The Git Flow Workflow defines a strict branching model designed around the project release. This provides a robust framework for managing larger projects.  
+
+Git Flow is ideally suited for projects that have a scheduled release cycle and for the DevOps best practice of continuous delivery. It assigns very specific roles to different branches and defines how and when they should interact. It uses individual branches for preparing, maintaining, and recording releases.
+
+/*--------------------------*/
+
+How is GitFlow implemented?
+
+1. Develop and Master Branches
+Instead of a single master branch, Git Flow uses two branches to record the history of the project. It is based on two main branches with infinite lifetime namely master and develop.
+
+Master Branch: The master branch contains the production code and stores the official release history.
+Develop Branch: The develop branch contains pre-production code and serves as an integration branch for features.
+
+1.1. Creating a Develop Branch
+Without the git-flow extensions:
+->git branch develop
+->git push -u origin develop
+When using the git-flow extensions:
+->git flow init
+When using the git-flow extension library, executing git flow init on an existing repo will create the develop branch.
+
+2. Feature Branch
+Each new feature should reside in its branch, which can be pushed to the central repository for backup/collaboration. Feature branches use the latest develop as their parent branch. When a feature is complete, it gets merged back into develop. Features should never interact directly with the master branch.
+
+2.1. Creating a Feature Branch
+Without git-flow extensions:
+->git checkout develop
+->git checkout -b feature_branch
+->With git-flow extensions:
+->git flow feature start feature_branch
+
+2.2. Finishing a Feature Branch
+Without git-flow extensions:
+->git checkout develop
+->git merge feature_branch
+With git-flow extensions:
+->git flow feature finish feature_branch
+
+3. Release Branch
+Once develop has acquired enough features for a release (or a predetermined release date is approaching), we fork a release branch off of develop. Creating this branch starts the next release cycle, so no new features can be added after this point—only bug fixes, documentation generation, and other release-oriented tasks should go in this branch. Release branch may branch off from develop and must merge into both master and develop.
+
+Using a dedicated branch to prepare releases makes it possible for one team to polish the current release while another team continues working on features for the next release.
+
+3.1. Creating a Release Branch
+Without the git-flow extensions:
+git checkout develop
+git checkout develop
+->git checkout -b release/0.1.0
+When using the git-flow extensions:
+->git flow release start 0.1.0
+Switched to a new branch 'release/0.1.0'
+
+3.2. Finishing a Release Branch
+Without git-flow extensions:
+->git checkout master
+->git merge release/0.1.0
+With git-flow extensions:
+->git flow release finish 0.1.0
+
+4. Hotfix Branch
+Maintenance or “hotfix” branches are used to quickly patch production releases. Hotfix branches are necessary to act immediately upon an undesired status of master. Hotfix branches are a lot like release branches and feature branches except they’re based on master instead of develop. This is the only branch that should fork directly off of master. As soon as the fix is complete, it should be merged into both master and develop (or the current release branch), and the master branch should be tagged with an updated version number.
+
+4.1. Creating a Hotfix Branch
+Without git-flow extensions:
+->git checkout master
+->git checkout -b hotfix_branch
+With git-flow extensions: 
+->git flow hotfix start hotfix_branch
+
+4.2. Finishing a Hotfix Branch
+Without git-flow extensions:
+->git checkout master
+->git merge hotfix_branch
+->git checkout develop
+->git merge hotfix_branch
+->gith git-flow extensions:
+->git branch -D hotfix_branch
+->git flow hotfix finish hotfix_branch
+
+/*---------------------------------*/
+
+Advantages of Git Flow
+Now let’s talk summarize the major advantages provided by Git flow:
+
+Ensures a clean state of branches at any given moment in the life cycle of a project
+The naming convention of branches follows a systematic pattern making it easier to comprehend
+Has extensions and support on most used git tools
+Ideal in case of maintaining multiple versions in production
+Great for a release-based software workflow.
+Offers a dedicated channel for hotfixes to production.
+
+/*------------------------------------*/
+
+Disadvantages of Git Flow
+Well nothing is ideal, so Git Flow holds some disadvantage as well like:
+
+Git history becomes unreadable
+The master/develop branch split is considered redundant and makes the Continuous Delivery/Integration harder
+Not recommended in case of maintaining a single version in production
+
+/*--------------------------------------------------*/
+
+Summary
+Here we discussed the Git Flow Workflow. Git Flow is one of the many styles of Git workflows you and your team can utilize. Let’s summarize the whole workflow of Git Flow:
+
+A develop branch is created from master
+Feature branches are created from develop
+When a feature is complete it is merged into the develop branch
+A release branch is created from develop
+When the release branch is done it is merged into develop and master
+If an issue in the master is detected a hotfix branch is created from master
+Once the hotfix is complete it is merged to both develop and master
