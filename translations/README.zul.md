@@ -11,7 +11,7 @@ Kulukhuni. Kuhlale kunzima okokuqala lapho wenza okuthile. Ikakhulukazi uma ubam
 
 Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza okwamanje izinto ezenzakalweni? Le phrojekthi ihlose ukunikeza isiqondiso nokwenza ukuthi abaqalayo benze indlela yabo yokuqala. Uma ubheka ukwenza umnikelo wakho wokuqala, landela izinyathelo ezingezansi.
 
-#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.]( #tutorials-using-other-tools )*
+#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.](#Izinto-ezengeziwe)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />

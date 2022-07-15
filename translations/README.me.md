@@ -7,7 +7,7 @@
 
 Ovaj projekat ima za cilj da pojednostavi i vodi početnike do njihovog prvog doprinosa. Ako želite da napravite vaš prvi doprinos, pratite korake ispod.  
 
-_Ako nijeste navikli da koristite komandnu liniju, [evo tutorijala koji koristi GUI alatke.](#tutorials-using-other-tools)_
+_Ako nijeste navikli da koristite komandnu liniju, [evo tutorijala koji koristi GUI alatke.](#Tutorijali-koji-koriste-druge-alatke)_
 
 <img  align="right"  width="300"  src="https://firstcontributions.github.io/assets/Readme/fork.png"  alt="napravite kopiju repozitorijuma"  />
 
