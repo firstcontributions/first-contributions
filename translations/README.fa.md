@@ -1,114 +1,107 @@
-<body><article class="markdown-body"><p><a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://camo.githubusercontent.com/d41b9884bd102b525c8fb9a8c3c8d3bbed2b67f0/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313033" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" style="max-width:100%;"></a>
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM" rel="nofollow"><img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png" data-canonical-src="https://firstcontributions.herokuapp.com/badge.svg" style="max-width:100%;"></a>
-<a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://camo.githubusercontent.com/76f0e887c183ccc31c1cb63c33d2dbf48cb2df51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667" alt="License: MIT" data-canonical-src="https://img.shields.io/badge/License-MIT-green.svg" style="max-width:100%;"></a>
-<a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a></p>
-<p dir="rtl">بخاطر ترجمه ضعیف شرمندم میتونین نسخه فینگلیش رو بخونین که قطعا بهتره</p>
-<h1 dir="rtl">
-<a id="user-content-اولین-مشارکت" class="anchor" href="#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>اولین مشارکت</h1>
-<p dir="rtl">سخته . همیشه سخته که برای اولین بار کاری رو انجام بدی. مخصوصا وقتی داری همکاری میکنی. اشتباه کردن چیز راحتی نیست. اما دنیای متن باز تماماً درباره مشارکت و همکاری هست. ما میخواستیم تا راه رو ساده کنیم تا مشارکت کننده های جدید این همکاری رو برای بار اول یاد بگیرن</p>
-<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ هدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-<p dir="rtl">اگه روی دستگاهت گیت نداری.
-<a href="https://help.github.com/articles/set-up-git/"> نصبش کن</a>.</p>
-<h2 dir="rtl">
-<a id="user-content-این-ریپوزیتوری-رو-فورک-کن" class="anchor" href="#%D8%A7%DB%8C%D9%86-%D8%B1%DB%8C%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%D9%81%D9%88%D8%B1%DA%A9-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>این ریپوزیتوری رو فورک کن</h2>
-<p dir="rtl">این ریپوزیتوری رو از طریق کلیک کردن روی دکمه فورک بالای این صفحه فورک کن
-این کار یک کپی از ریپوزیتوری تو اکانتت میسازه</p>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-<h2 dir="rtl">
-<a id="user-content-ریپپوزیتوری-رو-کلون-کن" class="anchor" href="#%D8%B1%DB%8C%D9%BE%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%DA%A9%D9%84%D9%88%D9%86-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ریپپوزیتوری رو کلون کن</h2>
-<p dir="rtl">حالا ریپ و رو داخل کامپیوترت کلون کن. روی دکمه کلون کلیک کن و بعد روی (کپی در کلیپبورد) کلیک کن</p>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
-<p dir="rtl">ترمینال رو باز کن و دستورات زیر رو وارد کن</p>
-<pre><code>git clone "لینکی که کپی کردی"
-</code></pre>
-<p dir="rtl">جایی که (لینکی که کپی کردی) هست درواقع آدرس ریپوزیتوری هست که تو قدم پیش دیدی</p>
+<p align="right">
 
-<p dir="rtl">برای مثال</p>
-<pre><code>git clone https://github.com/this-is-you/first-contributions.git
-</code></pre>
-<p dir="rtl">داخل لینک بجای
-<code>this-is-you</code>
-نام کاربری گیتهاب خودت رو قرار بده
-تو این مرحله داری محتویات ریپوزیتوری رو از گیتهاب کپی میکنی تو کامپیوتر خودت</p>
-<h2 dir="rtl">
-<a id="user-content-برنچ-شاخه-بساز" class="anchor" href="#%D8%A8%D8%B1%D9%86%DA%86-%D8%B4%D8%A7%D8%AE%D9%87-%D8%A8%D8%B3%D8%A7%D8%B2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>برنچ (شاخه) بساز</h2>
-<p dir="rtl">اگه هنوز داخل پوشه ریپوزیتوری نیستی. برو داخلش</p>
-<pre><code>cd first-contributions
-</code></pre>
-<p dir="rtl">حالا با استفاده از دستور
-<code>git checkout</code>
-یک برنچ جدید بساز</p>
-<pre><code>git checkout -b &lt;add-your-name&gt;
-</code></pre>
-<p dir="rtl">برای مثال</p>
-<pre><code>git checkout -b add-alonzo-church
-</code></pre>
-<p dir="rtl">لازم نیست کلمه
-<code>add</code>
-رو اول اسم برنچ بنویسی اما از اونجا که هدف از ساخت این برنچ اضافه کردن اسمت به لیست هست کار منطقی ای هست</p>
-<h2 dir="rtl">
-<a id="user-content-تغیرات-ضروری-رو-انجام-بده-و-کامیت-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%A8%D8%AF%D9%87-%D9%88-%DA%A9%D8%A7%D9%85%DB%8C%D8%AA-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیرات ضروری رو انجام بده و کامیت کن</h2>
-<p dir="rtl">حالا فایل
-<code>Contributors.md</code>
-رو داخل تکست ایدتور باز کن و اسمت رو به آخر فایل اضافه ک. بعد فابل رو ذخیره کن. اگه حالا وارد پوشه پروژه بشی و دستور
-<code>git status</code>
-رو اجرا کنی. میبینی که تغیرات اونجاست. حالا اون تغیرات رو به برنچی که ساختی اضافه کن با استفاده از دستور
-<code>git add</code></p>
-<pre><code>git add Contributors.md
-</code></pre>
-<p dir="rtl">حالا اون تغیرات با استفاده از دستور زیر کامیت کن
-<code>git commit</code></p>
-<pre><code>git commit -m "Add &lt;your-name&gt; to Contributors list"
-</code></pre>
-<p dir="rtl">جای
-<code>&lt;your-name&gt;</code>
-رو با اسم خودت عوض کن</p>
-<h2 dir="rtl">
-<a id="user-content-تغیرات-رو-به-گیتهاب-پوش-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88-%D8%A8%D9%87-%DA%AF%DB%8C%D8%AA%D9%87%D8%A7%D8%A8-%D9%BE%D9%88%D8%B4-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیرات رو به گیتهاب پوش کن</h2>
-<p dir="rtl">با استفاده از دستور زیر تغیراتت رو به گیتهاب پوش کن
-<code>git push</code></p>
-<pre><code>git push origin &lt;add-your-name&gt;
-</code></pre>
-<p dir="rtl">اسم
-<code>&lt;add-your-name&gt;</code>
-رو با اسم برنچی که ساخته بودی عوض کن</p>
-<h2 dir="rtl">
-<a id="user-content-تغیراتت-رو-برای-برسی-ثبت-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA%D8%AA-%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D8%B3%DB%8C-%D8%AB%D8%A8%D8%AA-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیراتت رو برای برسی ثبت کن</h2>
-<p dir="rtl">اگه بری داخل ریپوزیتوریت تو گیتهاب. میبینی که دکمه
-<code>Compare &amp; pull request</code>
-وجود داره . روش کلیک کن</p>
+# اولین مشارکت
+این پروژه قصد دارد تا مسیر مشارکت در پروژه‌های متن‌باز را برای تازه‌کارها آسان نماید. اگر شما نیز بدنبال راهی برای ثبت اولین مشارکت خود هستید، این اقدامات را دنبال کنید.
+
+_اگر با محیط کامندی (CLI) احساس راحتی نمی‌کنید، [راهنمای استفاده از ابزارهای گرافیکی (GUI) را مشاهده کنید](#آموزش-انجام-مشارکت-در-دیگر-ابزارها)._
+
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+#### اگر نرم‌افزار git را آماده ندارید، [از اینجا نصب کنید](https://help.github.com/articles/set-up-git/).
+
+## مخزن را فورک کنید
+با کلیک کردن بر روی دکمه Fork، از مخزن مورد نظر یک انشعاب بگیرید. این عملیات یک نسخه کپی از مخزن را بر روی حساب کاربری شما ایجاد می‌کند.
+
+## مخزن را کلون کنید
+
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
+حال، از مخزن فورک شده، یک کلون روی سیستم کاربری خود ایجاد کنید. وارد حساب کاربری خود شده و مخزن فورک شده را باز کنید. دکمه Code را فشرده و نماد copy to clipboard را انتخاب کنید.
+
+سپس یک ترمینال باز کنید و دستور گیت زیر را اجرا نمایید:
+```
+git clone "url you just copied"
+```
+بطوری که در قسمت "url you just copied"، آدرس مخزن فورک شده بدون علامت‌های کوتیشن (نقل قول) قرار گیرد.
+
+<img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+بعنوان مثال:
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
+بطوری که عبارت `this-is-you` برابر با نام حساب کاربری گیت‌هاب شما باشد. با این اقدام، تمام محتوای مورد نیاز جهت مشارکت را بر روی سیستم خود آماده می‌سازید.
+
+### یک برنچ ایجاد کنید
+اگر در مسیر مخزن کلون شده قرار ندارید، با دستور زیر وارد مسیر مخزن شوید:
+```
+cd first-contributions
+```
+با استفاده از دستور `git checkout` یک برنچ جدید ایجاد کنید:
+```
+git checkout -b your-new-branch-name
+```
+بعنوان مثال:
+```
+git checkout -b add-alonzo-church
+```
+(هیچ لزومی نیست که در نام برنچ از کلمه `add` استفاده کنید. چنانچه قرار است بعنوان مشارکت، نام خود را به یک لیست اضافه کنیم، استفاده از این کلمه بعنوان نام برنچ، امری عاقلانه می‌باشد.)
+
+### تغییرات اساسی ایجاد کرده و کامیت کنید
+در این قدم، ابتدا فایل `Contributors.md` را در یک محیط ویرایش متن باز کنید. نام خود را به این فایل اضافه کنید. توجه کنید که نام نه در ابتدا و نه در انتها قرار گیرد. نام را بین اسامی قرار دهید. فایل را ذخیره کنید.
+
+<img align="left" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+چنانچه وارد مسیر مخزن شوید و دستور `git status` را اجرا نمایید، مشاهده خواهید کرد که تغییراتی بر روی مخزن اعمال شده.
+
+با استفاده از دستور `git add`، تغییرات را به برنچ از پیش ساخته‌شده اضافه کنید:
+```
+git add Contributors.md
+```  
+
+حال، تغییرات را با دستور `git commit` کامیت و ثبت نمایید:
+```
+git commit -m "Add <your-name> to Contributors list"
+```
+توجه داشته باشید که نام خود را با عبارت `<your-name>` جایگزین کنید.
+
+## تغییرات را ارسال (پوش) کنید
+با استفاده از دستور `git push` تغییرات ثبت شده را ارسال کنید:
+```
+git push origin <add-your-branch-name>
+```
+نام برنچی که در مراحل قبل ایجاد کردید را با عبارت `<add-your-branch-name>` جایگزین کنید.
+
+## تغییرات خود را برای بررسی، ثبت کنید
+چنانچه وارد مخزن فورک شده در حساب کاربری خود شوید، گزینه‌ای تحت عنوان `Compare & pull request` مشاهده خواهید کرد. آن گزینه را انتخاب کنید.
+
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
-<p dir="rtl">حالا دستور پل رو ثبت کن</p>
+
+در این مرحله، درخواست (Pull request) خود را ثبت کنید.
+
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
-<p dir="rtl">بزودی من تمام تغیرات تو رو به شاخه اصلی این پروژه اضافه میکنم
-زمانی که تغیرات ثبت شد یک ایمیل دریافت میکنی</p>
-<h2 dir="rtl">
-<a id="user-content-از-اینجا-کجا-برم-" class="anchor" href="#%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%AC%D8%A7-%D8%A8%D8%B1%D9%85-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>از اینجا کجا برم ؟</h2>
-<p dir="rtl">مشارکتت جشن بگیر و با دوستات و دنبال کننده هات به اشتراک بزار
-<a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">web app</a>.</p>
-<p dir="rtl">در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Join slack team</a>.</p>
-<p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
-<h3 dir="rtl">
-<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_scenarios/additional-material.md">Additional material</a>
-</h3>
-<h2 dir="rtl">
-<a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials Using Other Tools</h2>
-<table>
-<thead>
-<tr>
-<th><a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://camo.githubusercontent.com/59366250bb159bb039b8eba5bd19c615dfc1819a/68747470733a2f2f6465736b746f702e6769746875622e636f6d2f696d616765732f6465736b746f702d69636f6e2e737667" width="100" data-canonical-src="https://desktop.github.com/images/desktop-icon.svg" style="max-width:100%;"></a></th>
-<th><a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" style="max-width:100%;"></a></th>
-<th><a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100" style="max-width:100%;"></a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="../github-desktop-tutorial.md">GitHub Desktop</a></td>
-<td><a href="../github-windows-vs2017-tutorial.md">Visual Studio 2017</a></td>
-<td><a href="../gitkraken-tutorial.md">GitKraken</a></td>
-</tr>
-</tbody>
-</table>
+
+نهایتا، من تغییرات شما را به برنچ master پروژه اضافه (merge) خواهم کرد. بلافاصله پس از مرج شدن درخواست شما، یک ایمیل مبنی بر همین موضوع برای شما ارسال خواهد شد.
+
+## اقدامات بعدی
+تبریک! شما مراحل فورک کردن، کلون کردن، ایجاد تغییرات و پول رکوئست را به خوبی پشت سر گذاشتید.
+
+مشارکت خود روی این پروژه را [از اینجا](https://firstcontributions.github.io/#social-share) با دیگر دوستان و دنبال‌کنندگان خود جشن بگیرید.
+
+همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
+
+حال، شما می‌توانید مشارکت خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک لیست از پروژه‌ها با مشکلات ساده ایجاد کردیم که گزینه خوبی برای شروع می‌باشد. لیست پروژه‌ها را [از این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
+
+### [اطلاعات بیشتر](additional-material/git_workflow_scenarios/additional-material.md)
+
+## آموزش انجام مشارکت در دیگر ابزارها
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+|                                                                                                                                                             |                                                                                                                                                                                                     |                                                                                                                                                                                              |                                                                                                                                                                                              |                                                                                                                                                                                                              |                                                                                                                                                                                                                                  |
+</p>
