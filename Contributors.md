@@ -687,6 +687,7 @@
 - [Kristl Yuen](https://github.com/kristlyuen)
 - [Manoj Kumar](https://github.com/mtkumar123/)
 - [WeedsFrenzy](https://github.com/WeedsFrenzy)
+- [Sam Drumm](https://github.com/sam-drumm)
 - [Pascale Delaunay](https://github.com/pascalecodes)
 - [Ymer Nordström](https://github.com/ymer94/)
 - [Matthew Clark](https://https://github.com/maty714)
