@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # First Contributions
 
-| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="40"> | IntelliJ IDEA |
+| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | IntelliJ IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -19,7 +19,7 @@ If you don't have IntelliJ IDEA on your machine, [install it](https://www.jetbra
 
 ## Fork this repository
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
 Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
@@ -29,7 +29,7 @@ Most top-level GitHub Repos (i.e. ones not forked from any other repo) have a sm
 
 ## Clone your repository
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 The next step is to clone your repo down to your machine so you can begin making changes. IntelliJ IDEA needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
@@ -89,11 +89,11 @@ At this point you have completed your change but it still only resides in your r
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
-<img src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 

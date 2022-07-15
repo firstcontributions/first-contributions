@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -13,30 +13,32 @@
 
 ถ้าคุณอยากร่วมส่งคอนทริบิ้วชั่นครั้งแรกของคุณ เพียงแค่ทำตามขั้นตอนง่าย ๆ ด้านล่าง เราบอกเลยว่า มันจะสนุกแน่นอน
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+_ถ้าคุณยังใช้ git command line ยังไม่คล่องเท่าไหร่ , [นี้คือตัวอย่างการใช้ผ่านเครื่องมือ GUI](#tutorials-using-other-tools)_
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/ )
 
 ## กด "Fork" โปรเจ็คนี้
 
-โปรเจ็คหลักนี้ จะเรียกว่า โปรเจ็คต้นน้ำ คุณสามารถแยกโปรเจ็คต้นน้ำออกไปทำที่แอคเคาน์ส่วนตัวของคุณได้ โดยการกดปุ่ม "Fork" ที่ด้านบนของหน้านี้
+โปรเจ็คหลักนี้ จะเรียกว่า โปรเจ็คต้นน้ำ คุณสามารถแยกโปรเจ็คต้นทางออกไปทำที่แอคเคาน์ส่วนตัวของคุณได้ โดยการกดปุ่ม "Fork" ที่ด้านบนของหน้านี้
 
-แล้วโปรเจ็คต้นน้ำจะถูกคัดลอกนำไปใส่ไว้ในแอคเคาน์ของคุณ
+แล้วโปรเจ็คต้นทางจะถูกคัดลอกนำไปใส่ไว้ในแอคเคาน์ของคุณ
 
 ## กด "Clone" โปรเจ็คนี้
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
+เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *Copy to clipboard* (คำสั่งคัดลอก)
 
 เปิดโปรแกรมเทอร์มินอลในเครื่อง (เช่น Terminal ใน MacOS หรือ cmd ใน Windows) แล้วรันคำสั่ง git ต่อไปนี้:
 
 ```
 git clone "url ที่คัดลอกไว้"
 ```
-"url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คของคุณ คุณสามารถเลื่อนกลับไปดูวิธีการคัดลอก url ได้จากหัวข้อก่อนหน้านี้
+"url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คบน git ของคุณ คุณสามารถเลื่อนกลับไปดูวิธีการคัดลอก url ได้จากหัวข้อก่อนหน้านี้
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ตัวอย่าง:
 ```
@@ -66,7 +68,7 @@ git checkout -b add-alonzo-church
 
 ตอนนี้ให้เปิดไฟล์ `Contributors.md` ในโปรแกรม text editor เพิ่มชื่อของคุณลงไป จากนั้นเซฟไฟล์
 
-<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 ในโปรแกรมเทอร์มินอล ถ้าคุณอยู่ที่ directory ของโปรเจ็ค ให้ลองพิมพ์คำสั่ง `git status` จะเห็นว่าคุณได้ทำการเปลี่ยนอะไรไปบ้าง
 
@@ -93,11 +95,11 @@ git push origin <ชื่อ branch ของคุณ>
 
 ไปที่ repository ของคุณบน GitHub คลิ๊กที่ `Compare & pull request`
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 ตอนนี้ก็ส่ง Pull Request ไปที่โปรเจ็คต้นน้ำได้เลย
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 แล้วเดี๋ยวเราจะ "Merge" หรือรวมผลงานที่คุณได้เปลี่ยนแปลงโค้ดมาที่ master branch ของโปรเจ็คนี้ คุณจะได้รับอีเมลล์ เมื่อเราได้ทำการ Merge ผลงานของคุณเรียบร้อยแล้ว
 
@@ -113,7 +115,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 ## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่น ๆ
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 

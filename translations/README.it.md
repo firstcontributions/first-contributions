@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -10,18 +10,18 @@
 
 Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che provare a fare effettivamente le cose sul campo? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato, meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati qui sotto. Ti promettiamo che sarà divertente.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Forka questa repository
 
-Forka questa repo (cartella) cliccando sul bottone fork in cima alla pagina.
-Questo creeerà una copia di questa repository nel tuo account.
+Forka questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
+Questo creerà una copia di questa repository nel tuo account.
 
 ## Clona la repository
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Ora clona questa repo nel tuo computer. Clicca sul pulsante per clonare e poi copia l'url.
 
@@ -32,7 +32,7 @@ git clone "url appena copiato"
 ```
 dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Per esempio:
 ```
@@ -84,11 +84,11 @@ sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
 Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Ora invia la pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modiche saranno state accettate.
 

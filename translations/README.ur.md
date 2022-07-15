@@ -1,5 +1,5 @@
 <div dir="rtl">
-<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="../assets/join-slack-team.png"></a>
+<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
 </div>
 
 # <div dir="rtl"> پہلی شراکت </div>
@@ -19,24 +19,24 @@
 <a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
-## <div dir="rtl"> اس گودام کوفورک کریں </div>
+## <div dir="rtl"> اس ریپوزٹری کوفورک کریں </div>
 <div dir="rtl">
-اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
-<img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
+اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس ریپوزٹری کا استعمال کریں.
+<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس گودام کوفورک کریں" />
 <br />
-یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
+یہ آپ کے اکاونٹ میں اس ریپوزٹری کی ایک کاپی بنا دے گا۔.
 </div>
 
-## <div dir="rtl">ذخیرے کا کلون کیجیے</div>
+## <div dir="rtl">ریپوزٹری کا کلون کیجیے</div>
 
 <div dir="rtl">
 اب آپ اپنی مشین پر یہ ریپو کلون کریں.
 </div>
-<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ریپوزٹری کا کلون کجیے" />
 <div dir="rtl">
  کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
 </div>
-<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
 <div dir="rtl">
 ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
 </div>
@@ -46,7 +46,7 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 ```
 
 <div dir="rtl">
-جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
+جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ریپوزٹری کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
 
 <div dir="rtl">مثال کے طور پر:</div>
@@ -55,17 +55,17 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub گودام کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
+<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub ریپوزٹری کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
 
-## <div dir="rtl"> ایک شاخ بنائیں </div>
+## <div dir="rtl"> ایک برانچ بنائیں </div>
 
-<div dir="rtl"> اپنے کمپیوٹر پر ذخیرہ کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
+<div dir="rtl"> اپنے کمپیوٹر پر ریپوزٹری کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
 
 ```
 cd first-contributions
 ```
 
-<div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
+<div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک برانچ تشکیل دیں : </div>
 
 ```
 git checkout -b <add-your-name>
@@ -77,12 +77,12 @@ git checkout -b <add-your-name>
 git checkout -b add-alonzo-church
 ```
 
-<div dir="rtl"> (شاخ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
+<div dir="rtl"> (برانچ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس برانچ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
 ## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
 
 <div dir="rtl">
-اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
+اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس برانچ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
 </div>
 
 ```
@@ -105,26 +105,26 @@ git commit -m "Add <your-name> to Contributors list"
 git push origin <add-your-name>
 ```
 
-<div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
+<div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو برانچ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
 ## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
 
 <div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دیکھائ دے گا. اس بٹن کو دبائیں. </div>
 
-<img style="float: left;" src="../assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
 <div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
 
-<img style="float: left;" src="../assets/submit-pull-request.png" alt="پل درخواست جمع کروائیں" />
+<img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="پل درخواست جمع کروائیں" />
 
-<div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
+<div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر برانچ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
 ### <div dir="rtl"> [ اضافی مواد ](../additional-material/git_workflow_scenarios/additional-material.md) </div>
 
 ## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔   </div>
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/90c576dade3a169088f993aebe41242a9c2f064d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63642f56697375616c5f53747564696f5f323031375f4c6f676f2e737667" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/90c576dade3a169088f993aebe41242a9c2f064d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63642f56697375616c5f53747564696f5f323031375f4c6f676f2e737667" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
