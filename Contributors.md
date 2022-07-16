@@ -163,6 +163,7 @@
 - [Brian Muimi](https://github.com/brianmuimi)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Bibin Biju](https://github.com/bib265)
+- [Mohammad Arfizur Rahman](https://github.com/arfizurrahman)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Piotr Kowalczewski] (https://github.com/kowalczewski)
 - [Dapo Adedire](https://github.com/dapoadedire)
