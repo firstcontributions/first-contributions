@@ -1105,6 +1105,7 @@
 - [Jared Whitlock](https://github.com/Drone14)
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
+- [Ning Lee](https://github.com/ninglee47)
 - Song
 - [Akram Ghanem](https://github.com/barribarri20)
 - [Elifraha Natai](https://github.com/elifraha)
