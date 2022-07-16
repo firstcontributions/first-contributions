@@ -277,6 +277,7 @@
 - [José Arias Canto](https://github.com/joseearias)
 - [Godswill Omonkhodion](https://github.com/Owillz01)
 - [Sean Chua](https://github.com/SeansC12)
+- [Srajan Deo Jain](https://github.com/SrajanDJain)
 - [Shashwat Pragya](https://github.com/shashwat183)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
