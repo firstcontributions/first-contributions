@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Gargi Sontakke](https://github.com/gargi-son)
+- [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Frostbyte]
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
