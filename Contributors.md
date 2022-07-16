@@ -1105,10 +1105,12 @@
 - [Jared Whitlock](https://github.com/Drone14)
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
+- [Ning Lee](https://github.com/ninglee47)
 - Song
 - [Akram Ghanem](https://github.com/barribarri20)
 - [Elifraha Natai](https://github.com/elifraha)
 - [Ajith P. Kumar](https://github.com/JOSHI-owo)
 - [Ahmad Jafarov](https://github.com/Ahm3tJ4f)
 - [Hezekiah ELisha](https://github.com/Hezekiah-Elisha)
+- [Mohammad Rayan Bin Elias](https://github.com/binelias)
 <!-- prettier-ignore-end -->
