@@ -1102,4 +1102,5 @@
 - [Akram Ghanem](https://github.com/barribarri20)
 - [Elifraha Natai](https://github.com/elifraha)
 - [Ajith P. Kumar](https://github.com/JOSHI-owo)
+- [Ahmad Jafarov](https://github.com/Ahm3tJ4f)
 <!-- prettier-ignore-end -->
