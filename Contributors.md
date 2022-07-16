@@ -1,7 +1,8 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Gargi Sontakke](https://github.com/gargi-son)
+- [Rahul Satpute](https://github.com/rahulsatpute9960)
+- [Gargi Sontakke](https://github.com/gargi-so)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Frostbyte]
