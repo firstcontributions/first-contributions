@@ -3,9 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-*Người dịch: [Tran Ly Vu](https://github.com/tranlyvu)*
-*Người chỉnh sửa: [Phuc Cai](https://github.com/hoangphuc05)* 
-
 # Đóng góp đầu tiên
 
 Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó chịu. Chúng tôi muốn đơn giản hóa quy trình học và đóng góp vào những dự án (project) mã nguồn mở. 
