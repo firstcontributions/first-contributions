@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Ayush Bharatiya](https://github.com/ayush9492)
 - [Gargi Sontakke](https://github.com/gargi-son)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
