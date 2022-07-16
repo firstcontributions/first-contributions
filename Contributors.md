@@ -1124,4 +1124,5 @@
 - [Heritage Olayinka](https://github.com/HeritageOlayinka)
 - [Chetan Patel](https://github.com/chetan104522/first-contributions)
 - [Héctor Martín](https://github.com/Soggins)
+- [Matias Gomez](https://github.com/Matgc04)
 <!-- prettier-ignore-end -->
