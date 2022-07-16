@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
-- [Siqi Liu] (https://github.com/leowrites/)
+- [Siqi Liu](https://github.com/leowrites/)
 - [Gargi Sontakke](https://github.com/gargi-so)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
