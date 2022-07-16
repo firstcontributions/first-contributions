@@ -1115,4 +1115,5 @@
 - [Hezekiah Elisha](https://github.com/Hezekiah-Elisha)
 - [Mohammad Rayan Bin Elias](https://github.com/binelias)
 - [Heritage Olayinka](https://github.com/HeritageOlayinka)
+- [Héctor Martín](https://github.com/Soggins)
 <!-- prettier-ignore-end -->
