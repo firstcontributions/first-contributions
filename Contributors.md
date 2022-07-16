@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Gargi Sontakke](https://github.com/gargi-son)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Frostbyte]
@@ -34,6 +35,7 @@
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Jason Wilson](https://github.com/WilsonJhub)
 - [Alexander Castillo](https://github.com/Jhuiice)
+- [Awais Ahmad](https://github.com/IMAWAISAHMAD)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
