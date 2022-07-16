@@ -8,22 +8,22 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Repository forken" />
 
-Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
+Aller Anfang ist schwer. Gerade dann, wenn man gemeinsam an etwas arbeitet, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Community ihre ersten Schritte so einfach wie möglich zu machen. 
 
-Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+Natürlich helfen die vorhandenen Artikel und Video-Tutorials. Aber was kann besser sein, als es einfach einmal auszuprobieren - mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt soll Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
 
 Wenn du Git noch nicht installiert hast, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
 ## Repository forken
 
-Forke das Repository durch das Anklicken der Schaltfläche "Fork". Dadurch erhältst du deine eigene Version des Projektes in deinem Profil.
+Forke die Repository indem du "Fork" klickst. Dadurch erhältst du deine eigene Version des Projektes in deinem Profil.
 
 ## Repository klonen
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Repository klonen" />
 
-Klone das Repository auf deinen Computer. Klicke auf die Schaltfläche "Clone or download" und anschließend auf das "copy to clipboard"-Symbol.
+Klone die Repository auf deinen Computer. Klicke auf die Schaltfläche "Clone or download" und anschließend auf das "copy to clipboard"-Symbol.
 
 Öffne eine Kommandozeile und gib das folgende git-Kommando ein:
 
@@ -38,7 +38,7 @@ Beispiel:
 ```
 git clone https://github.com/dein-Name/first-contributions.git
 ```
-An der Stelle 'dein-Name' muss dein GitHub-Username stehen. Mit diesem Befehl kopierst du den Inhalt deines first-contributions-Repository von GitHub auf deinen Computer.
+An der Stelle 'dein-Name' muss dein GitHub-Benutzername stehen. Mit diesem Befehl kopierst du den Inhalt deiner first-contributions-Repository von GitHub auf deinen Computer.
 
 ## Erstelle einen Branch
 
@@ -47,7 +47,7 @@ Wechsle zum Repository-Verzeichnis auf deinem Computer (falls du es nicht schon 
 ```
 cd first-contributions
 ```
-Erstelle nun einen Branch mit dem Befehl `git checkout`:
+Erstelle nun eine Branch mit dem Befehl `git checkout`:
 ```
 git checkout -b <add-dein-Name>
 ```
@@ -57,7 +57,7 @@ Beispiel:
 git checkout -b add-max-mustermann
 ```
 
-(Der Name des Branches muss nicht unbedingt das Wort *add* beinhalten aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
+(Der Name der Branch muss nicht unbedingt das Wort *add* beinhalten, aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
 
 ## Mache die nötigen Änderungen und committe sie
 
@@ -86,11 +86,11 @@ Ersetze `<add-dein-Name>` mit dem Namen des Branches, den du zuvor erstellt hast
 
 ## Sende deine Änderungen zum Review
 
-Wenn du jetzt zu deinem Repository auf GitHub gehst, siehst du einen Knopf `Compare & pull request`. Klicke darauf.
+Wenn du jetzt zu deiner Repository auf GitHub gehst, siehst du einen Button `Compare & pull request`. Klicke darauf.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Erstelle einen pull request" />
 
-Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request` klickst.
+Erstelle einen Pull Request indem du auf den Button `Create pull request` klickst.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
@@ -98,7 +98,7 @@ Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts me
 
 ## Wie geht es weiter?
 
-Glückwunsch! Du hast so eben den Standard-Workflow *Fork -> Clone -> Edit -> Pull Request* beendet, der dir als Mitwirkender häufig begegnen wird.
+Glückwunsch! Du hast soeben den Standard-Workflow *Fork -> Clone -> Edit -> Pull Request* beendet, der dir als Mitwirkender häufig begegnen wird.
 
 Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
 

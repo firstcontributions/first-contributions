@@ -1,39 +1,37 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+# ការរួមចំណែកដំបូង
 
-# របៀបធ្វើ Contribution សម្រាប់មាន់ថ្មី
+គម្រោងនេះមានគោលបំណងធ្វើឱ្យសាមញ្ញ និងណែនាំអ្នកចាប់ផ្តើមបង្កើតការរួមចំណែកដំបូងរបស់ពួកគេ។ ប្រសិនបើអ្នកកំពុងស្វែងរកការរួមចំណែកដំបូងរបស់អ្នក សូមអនុវត្តតាមជំហានខាងក្រោម។
 
-Project មួយនេះបង្កើតឡើងដើម្បីសម្រួលនិងណែនាំចំពោះមាន់ថ្មីក្នុងការធ្វើ contribution ជាលើកដំបូង ។ ប្រសិនបើអ្នកជាមាន់ថ្មីដែលចង់បង្កើត contribution សូមធ្វើតាមការណែនាំដូចខាងក្រោម៖
+_ប្រសិនបើអ្នកមិនដឹងពីរបៀបប្រើបន្ទាត់ពាក្យបញ្ជា [hនេះគឺជាការបង្រៀនសម្រាប់ឧបករណ៍ GUI](#ការបង្រៀនដោយប្រើឧបករណ៍ផ្សេងទៀត។)_
 
-_ប្រសិនបើអ្នកមិនស្និទ្ធជាមួយ command line, [ចុចទីនេះដើម្បីមើលពីរបៀបប្រើប្រាស់ GUI tools.](#របៀបប្រើប្រាស់-tools-ផ្សេងៗទៀត)_
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork repository នេះ" />
+#### ប្រសិនបើអ្នកមិនមាន git នៅលើម៉ាស៊ីនរបស់អ្នក។, ទាញយកនិងដំឡើងវា។[ទាញយកនិងដំឡើងវា។](https://help.github.com/articles/set-up-git/)
 
-#### ប្រសិនបើអ្នកមិនមាន git លើឧបករណ៍របស់អ្នក, [ចុចទីនេះដើម្បីតម្លើង](https://help.github.com/articles/set-up-git/).
+## បំបែកឯកសារនេះ។
 
-## Fork repository នេះ
+បំបែកឯកសារនេះដោយចុចលើប៊ូតុង fork នៅផ្នែកខាងលើនៃទំព័រនេះ។ វានឹងបង្កើតច្បាប់ចម្លងនៃឯកសារនេះនៅក្នុងគណនីរបស់អ្នក។
 
-ដើម្បី Fork repository នេះ សូមចុចលើប៊ូតុង "Fork" ដែលស្ថិតនៅផ្នែកខាងលើនៃទំព័រនេះ ។
-បន្ទាប់មកវានឹងបង្កើត repository ថ្មីចូលទៅក្នុងគណនីរបស់អ្នក ។
+## ក្លូនឯកសារ
 
-## ចម្លង repository
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ចម្លង​ repository នេះ" />
+ឥឡូវនេះក្លូនឯកសារទៅម៉ាស៊ីនរបស់អ្នក។ ចូលទៅកាន់គណនី GitHub របស់អ្នក។ បើកឯកសារ ចុចលើប៊ូតុងកូដ ហើយបន្ទាប់មកចុចលើរូបតំណាងចម្លងទៅក្ដារតម្បៀតខ្ទាស់។ 
 
-ឥឡូវអ្នកត្រូវចម្លង repository ដែលអ្នកបាន fork ចូលទៅឧបករណ៍របស់អ្នក ។ ដំបូងសូមធ្វើការចូលទៅកាន់គណនី GitHub របស់អ្នក បន្ទាប់មកបើក repository នោះ ហើយចុចលើប៊ូតុង "Code" រួចចុចលើនិមិត្តសញ្ញា _copy to clipboard_ ។
-
-បន្ទាប់មកទៀតសូមបើក terminal ហើយវាយបញ្ចូល git command ដូចខាងក្រោម៖
+បើក terminal ហើយដំណើរការពាក្យបញ្ជា git ខាងក្រោម៖:
 
 ```
-git clone "url ដែលអ្នកបានចម្លង"
+git clone "url you just copied"
 ```
 
-ដោយវាយបញ្ចូល "url ដែលអ្នកបានចម្លង" (ដោយមិនប្រើសញ្ញាធ្មេញកណ្តុរ) ហើយជា url នៃ repository នេះ (ដែលអ្នកបាន fork). សូមមើលពីរបៀបខាងដើមក្នុងការចម្លង url ។
+កន្លែងដែល "url អ្នកទើបតែចម្លង" (ដោយគ្មានសញ្ញាសម្រង់) គឺជា url ទៅកាន់ឯកសារនេះ។  (ផ្លូវរបស់អ្នកនៃគម្រោងនេះ) សូមមើលជំហានមុនដើម្បីទទួលបាន url ។
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="ចម្លង URL ទៅ clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ឧទាហរណ៍:
 
@@ -60,20 +58,20 @@ git checkout -b your-new-branch-name
 ឧទាហរណ៍:
 
 ```
-git checkout -b add-veasnawt
+git checkout -b add-alonzo-church
 ```
 
-(ឈ្មោះ branch មិនចាំបាច់ទាល់តែមានពាក្យ _add_ នោះទេ ប៉ុន្តែវាជារឿងសមហេតុផលមួយដែលយើងដាក់ពាក្យនេះ ព្រោះគោលបំណងក្នុងការបង្កើត branch ថ្មីនេះគឺដើម្បី បញ្ចូល/add ឈ្មោះរបស់អ្នកចូលទៅក្នុងបញ្ជី)
+(ឈ្មោះសាខាមិនចាំបាច់មានពាក្យបន្ថែមនៅក្នុងវាទេ ប៉ុន្តែវាជារឿងសមហេតុផលក្នុងការបញ្ចូល ព្រោះគោលបំណងនៃសាខានេះគឺដើម្បីបន្ថែមឈ្មោះរបស់អ្នកទៅក្នុងបញ្ជី។)
 
-## បន្ថែមឈ្មោះរបស់អ្នករួចធ្វើការ commit
+## ធ្វើការផ្លាស់ប្តូរជាចាំបាច់ ហើយធ្វើការផ្លាស់ប្តូរទាំងនោះ
 
-សូមបើក file `Contributors.md` នៅលើ text editor, បន្ទាប់មកបន្ថែមឈ្មោះរបស់អ្នកចូលទៅក្នុងបញ្ជី ។ សូមកុំបន្ថែមឈ្មោះរបស់អ្នកនៅខាងដើមឫខាងចុងនៃ file ប៉ុន្តែបន្ថែមវានៅកណ្តាលឬរវាងឈ្មោះផ្សេងៗទៀត បន្ទាប់មក ចុច Save ។
+ឥឡូវនេះបើកឯកសារ `Contributors.md` នៅក្នុងកម្មវិធីនិពន្ធអត្ថបទ បន្ទាប់មកបន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើម ឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅកន្លែងណាមួយនៅចន្លោះ ឥឡូវនេះរក្សាទុកឯកសារ។
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-ប្រសិនបើអ្នកវាយបញ្ចូល command `git status`, នោះអ្នកនឺងឃើញ File ដែលបានកែប្រែ
+ប្រសិនបើអ្នកចូលទៅកាន់ថតគម្រោង ហើយប្រតិបត្តិស្ថានភាពពាក្យបញ្ជា `git status` អ្នកនឹងឃើញមានការផ្លាស់ប្តូរ។
 
-បន្ទាប់មកទៀតសូមបញ្ចូល file​ នោះទៅក្នុង branch ដែលអ្នកទើបតែបានបង្កើតដោយប្រើប្រាស់ command `git add`:
+បន្ថែមការផ្លាស់ប្តូរទាំងនោះទៅសាខាដែលអ្នកទើបតែបង្កើតដោយប្រើពាក្យបញ្ជា `git add`:
 
 ```
 git add Contributors.md
@@ -85,11 +83,11 @@ git add Contributors.md
 git commit -m "Add <your-name> to Contributors list"
 ```
 
-ដោយប្តូរ `<your-name>` ទៅជាឈ្មោះរបស់អ្នក ។
+ជំនួសឈ្មោះ `<your-name>` ដោយឈ្មោះរបស់អ្នក។
 
-## Push កំណែថ្មីទៅកាន់ GitHub
+## បន្ថែមការផ្លាស់ប្តូរទៅ GitHub
 
-ដើម្បី push សូមប្រើប្រាស់ command `git push`:
+បន្ថែមការផ្លាស់ប្តូររបស់អ្នកដោយប្រើពាក្យបញ្ជា `git push`:
 
 ```
 git push origin <add-your-branch-name>
