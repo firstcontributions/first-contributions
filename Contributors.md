@@ -81,6 +81,7 @@
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Eve Tanios] (https://github.com/etanios03)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
 - [Amos Mwongela](https://github.com/4ouR04)
