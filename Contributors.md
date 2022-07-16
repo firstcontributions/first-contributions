@@ -1103,9 +1103,10 @@
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
 - [Triss Marsh](https://github.com/distriss)
+- [Loud Deedee](https://github.com/adeolad)
 - [Sebastian Neumeier](https://github.com/test123-all)
 - [Eric Goetsch](https://github.com/goetsch101)
-- [Ketan Saraf](https://github.com/Keshraf)
+- [Ketan Saraf](https://github.com/Keshraf)git
 - [Jared Whitlock](https://github.com/Drone14)
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
