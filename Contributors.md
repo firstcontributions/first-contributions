@@ -1111,6 +1111,6 @@
 - [Elifraha Natai](https://github.com/elifraha)
 - [Ajith P. Kumar](https://github.com/JOSHI-owo)
 - [Ahmad Jafarov](https://github.com/Ahm3tJ4f)
-- [Hezekiah Elisha Okang'a](https://github.com/Hezekiah-Elisha)
+- [Hezekiah Elisha](https://github.com/Hezekiah-Elisha)
 - [Mohammad Rayan Bin Elias](https://github.com/binelias)
 <!-- prettier-ignore-end -->
