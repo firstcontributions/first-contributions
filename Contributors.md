@@ -549,6 +549,7 @@
 - [Kevin Shi](https://github.com/kshi4234)
 - [Srehdeep](https://github.com/Srehdeep)
 - [Howard Wang](https://github.com/Howarang12)
+- [Adwait Kulkarni](https://github.com/AdwaitKulkarni58)
 - [miyashiro1](https://github.com/miyashiro1)
 - [Franco Filippi](https://github.com/frcofilippi)
 - [Lovemore Daka](https://github.com/beautifulboy11)
