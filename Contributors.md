@@ -1112,4 +1112,5 @@
 - [Ajith P. Kumar](https://github.com/JOSHI-owo)
 - [Ahmad Jafarov](https://github.com/Ahm3tJ4f)
 - [Mohammad Rayan Bin Elias](https://github.com/binelias)
+- [Heritage Olayinka](https://github.com/HeritageOlayinka)
 <!-- prettier-ignore-end -->
