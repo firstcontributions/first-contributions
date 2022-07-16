@@ -646,6 +646,7 @@
 - [raahimz](https://github.com/raahimz)
 - [Benjamin Yankowitz](https://github.com/BenjaminYankowitz)
 - [Matthew Berti](https://github.com/mberti13)
+  [Kevin Duffy](https://github.com/Soadaa56)
 - [Alec](https://github.com/aelishRollo)
 - [Alan](https://github.com/CipherKill/)
 - [Vipul Patil](https://github.com/vipulpatilvsp)
