@@ -47,6 +47,7 @@
 - [Madani Khouane](https://github.com/madani20)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
+- [Dean Cabral](https://github.com/DeanCabral)
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
