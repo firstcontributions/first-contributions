@@ -4907,6 +4907,7 @@ Michael Wong
 - [Rajat Khatri](https://github.com/MrMorningStark)
 - [OguzhanDogdu](https://github.com/oguzsout)
 - [Piposo745](https://github.com/Piposo745)
+- [Emily Chin](https://github.com/mremily9)
 - [Yash Pareek](https://github.com/deepAIYash)
 - [Glob_Bruh](https://github.com/glob-bruh)
 - [jcqueiroz](https://github.com/jcqueiroz)
