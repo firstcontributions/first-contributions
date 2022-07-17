@@ -1134,4 +1134,5 @@
 - [Matias Gomez](https://github.com/Matgc04)
 - [WarbDev](https://github.com/WarbDev)
 - [Sam Low](https://github.com/SamuelmdLow/)
+- [Kelsey Doyle](https://github.com/kdoyle390)
 <!-- prettier-ignore-end -->
