@@ -1,6 +1,8 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
+- [Aliraza Khan] (https://github.com/itsarkcodes)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
