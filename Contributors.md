@@ -1126,4 +1126,5 @@
 - [Chetan Patel](https://github.com/chetan104522/first-contributions)
 - [Héctor Martín](https://github.com/Soggins)
 - [Matias Gomez](https://github.com/Matgc04)
+- [WarbDev](https://github.com/WarbDev)
 <!-- prettier-ignore-end -->
