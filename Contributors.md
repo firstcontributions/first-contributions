@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
@@ -93,6 +94,7 @@
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Simone Mazza](https://github.com/Simo524)
 - [Eve Tanios] (https://github.com/etanios03)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
