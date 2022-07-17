@@ -1110,6 +1110,7 @@
 - [Triss Marsh](https://github.com/distriss)
 - [Loud Deedee](https://github.com/adeolad)
 - [Sebastian Neumeier](https://github.com/test123-all)
+- [Sebastian Vasile](https://github.com/svasile8)
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)git
 - [Jared Whitlock](https://github.com/Drone14)
