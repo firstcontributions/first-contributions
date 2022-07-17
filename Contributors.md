@@ -1109,6 +1109,7 @@
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
 - [Triss Marsh](https://github.com/distriss)
+- [Emily Chin](https://github.com/mremily9)
 - [Loud Deedee](https://github.com/adeolad)
 - [Sebastian Neumeier](https://github.com/test123-all)
 - [Sebastian Vasile](https://github.com/svasile8)
