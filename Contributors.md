@@ -1136,4 +1136,5 @@
 - [WarbDev](https://github.com/WarbDev)
 - [Sam Low](https://github.com/SamuelmdLow/)
 - [Itor Fidelis](https://github.com/ItorFidel/)
+- [Kelsey Doyle](https://github.com/kdoyle390)
 <!-- prettier-ignore-end -->
