@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
@@ -1134,4 +1135,5 @@
 - [Matias Gomez](https://github.com/Matgc04)
 - [WarbDev](https://github.com/WarbDev)
 - [Sam Low](https://github.com/SamuelmdLow/)
+- [Itor Fidelis](https://github.com/ItorFidel/)
 <!-- prettier-ignore-end -->
