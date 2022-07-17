@@ -1128,4 +1128,5 @@
 - [Héctor Martín](https://github.com/Soggins)
 - [Matias Gomez](https://github.com/Matgc04)
 - [WarbDev](https://github.com/WarbDev)
+- [Sam Low](https://github.com/SamuelmdLow/)
 <!-- prettier-ignore-end -->
