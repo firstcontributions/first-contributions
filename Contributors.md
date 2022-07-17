@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
 - [Siqi Liu](https://github.com/leowrites/)
