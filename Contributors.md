@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
@@ -1151,5 +1152,6 @@
 - [Andres Cueva](https://github.com/andrescueva)
 - [Daniel Chan](https://github.com/danieljchan)
 - [Cj3 McCollum](https://github.com/534118306)
-<!-- prettier-ignore-end -->
- [Cj3 vipinsingh](https://github.com/534118306)
+  <!-- prettier-ignore-end -->
+  [Cj3 vipinsingh](https://github.com/534118306)
+- [Kasi Reeves](https://github.com/Kasirocswell)
