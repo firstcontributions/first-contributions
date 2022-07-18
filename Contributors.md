@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
@@ -15,6 +15,7 @@
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
+- [Another Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Priyanka Singh](https://github.com/priyanka2710singhs)
 - [Andika Eka Kurnia](https://github.com/dikdns)
@@ -141,6 +142,7 @@
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
+- [Claro Alvino](https://github.com/alvinoc)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
 - [Rahul Roy](https://github.com/RAHULRo)
@@ -469,6 +471,7 @@
 - [Shammah Benjamin](https://github.com/asbenjamin)
 - [TenTraicion](https://github.com/TenTraicion)
 - [Michaela](https://github.com/Michaela-K)
+- [Giulia Fabiani](https://github.com/g-fabiani)
 - [Nguyen Quoc Tran](https://github.com/NguyenTran88)
 - [Hattie Tavares](https://github.com/HattieTavares)
 - [hack3rwhale](https://github.com/hack3rwhale)
@@ -523,6 +526,7 @@
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
+- [E Stanzah](https://github.com/edwstanzah)
 - [Rahul Anand](https://github.com/rnand)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
@@ -1137,4 +1141,5 @@
 - [Sam Low](https://github.com/SamuelmdLow/)
 - [Itor Fidelis](https://github.com/ItorFidel/)
 - [Kelsey Doyle](https://github.com/kdoyle390)
+- [Cj3 McCollum](https://github.com/534118306)
 <!-- prettier-ignore-end -->

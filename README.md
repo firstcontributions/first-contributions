@@ -165,6 +165,17 @@ git push origin -u <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
+<details>
+<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+
+* ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
+   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+
+</details>
+
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
