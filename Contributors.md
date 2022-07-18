@@ -141,6 +141,7 @@
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
+- [Claro Alvino](https://github.com/alvinoc)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
 - [Rahul Roy](https://github.com/RAHULRo)
