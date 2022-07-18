@@ -4,6 +4,7 @@
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
+- [Mike Gabriel](https://github.com/MaxMike47)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
 - [Siqi Liu](https://github.com/leowrites/)
 - [Gargi Sontakke](https://github.com/gargi-so)
