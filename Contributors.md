@@ -810,6 +810,7 @@
 - [KosyAbone](https://github.com/KosyAbone)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [yangzhengca](https://github.com/yangzhengca)
+- [Rowan Willis](https://github.com/rwillis-scottlogic)
 - [Anees-Asghar](https://github.com/Anees-Asghar)
 - [NSHU17](https://github.com/NSHU17)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
