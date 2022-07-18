@@ -525,6 +525,7 @@
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
+- [E Stanzah](https://github.com/edwstanzah)
 - [Rahul Anand](https://github.com/rnand)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
