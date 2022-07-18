@@ -935,6 +935,7 @@
 - [idunne360](https://github.com/idunne360)
 - [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [McMoffin](https://github.com/mcMoffin)
+- [Sooki](https://github.com/0xSooki)
 - [CodeWithUma](https://github.com/CodeWithUma)
 - [Brandon Maurice](https://github.com/bmaurice98)
 - [Augusto](https://github.com/augustoibarrola)
