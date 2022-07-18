@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
@@ -116,6 +117,7 @@
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Tauhid Patel](https://github.com/tauhidpatel)
+- [Ervin Natareno](https://github.com/ervn12)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
@@ -1151,5 +1153,5 @@
 - [Andres Cueva](https://github.com/andrescueva)
 - [Daniel Chan](https://github.com/danieljchan)
 - [Cj3 McCollum](https://github.com/534118306)
-<!-- prettier-ignore-end -->
- [Cj3 vipinsingh](https://github.com/534118306)
+  <!-- prettier-ignore-end -->
+  [Cj3 vipinsingh](https://github.com/534118306)
