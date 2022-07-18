@@ -297,6 +297,7 @@
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [José Arias Canto](https://github.com/joseearias)
 - [Godswill Omonkhodion](https://github.com/Owillz01)
+- [Kai Wang]
 - [Sean Chua](https://github.com/SeansC12)
 - [Srajan Deo Jain](https://github.com/SrajanDJain)
 - [Shashwat Pragya](https://github.com/shashwat183)
