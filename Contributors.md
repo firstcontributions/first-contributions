@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+-[Sanket patil](https://github.com/sanket1one)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez] (https://github.com/RicardoChairez)
