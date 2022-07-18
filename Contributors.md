@@ -1149,3 +1149,4 @@
 - [Andres Cueva](https://github.com/andrescueva)
 - [Cj3 McCollum](https://github.com/534118306)
 <!-- prettier-ignore-end -->
+ [Cj3 vipinsingh](https://github.com/534118306)
