@@ -720,6 +720,7 @@
 - [Raghav Pandit](https://github.com/panditraghav)
 - [Julian Vickers](https://github.com/JulianVickers)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
+- [Omid Tavakkol](https://github.com/pharakh)
 - [BBTing1](https://github.com/BBTing1/)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
