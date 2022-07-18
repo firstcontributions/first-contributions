@@ -471,6 +471,7 @@
 - [Shammah Benjamin](https://github.com/asbenjamin)
 - [TenTraicion](https://github.com/TenTraicion)
 - [Michaela](https://github.com/Michaela-K)
+- [Giulia Fabiani](https://github.com/g-fabiani)
 - [Nguyen Quoc Tran](https://github.com/NguyenTran88)
 - [Hattie Tavares](https://github.com/HattieTavares)
 - [hack3rwhale](https://github.com/hack3rwhale)
