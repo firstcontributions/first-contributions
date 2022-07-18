@@ -544,6 +544,7 @@
 - [Karthik Murali](https://github.com/karthikmurali60)
 - [Roberto Saliola](https://github.com/Roberto286)
 - [Yusuf Rabiu](https://github.com/stackkrocket)
+- [Eric VanSchagen](https://github.com/bojangles86)
 - [Luck Tran](https://github.com/lucktran)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
