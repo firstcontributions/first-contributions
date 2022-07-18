@@ -97,6 +97,7 @@
 - [Devdatt Pandit](https://github.com/Devdatt17)
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
+- [Gal Malach](https://github.com/GalMalach08)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Eve Tanios] (https://github.com/etanios03)
 - [Jordan Garvey](https://github.com/jordangarvey)
