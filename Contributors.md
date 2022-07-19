@@ -1157,6 +1157,7 @@
 - [Matias Gomez](https://github.com/Matgc04)
 - [WarbDev](https://github.com/WarbDev)
 - [Sam Low](https://github.com/SamuelmdLow/)
+- [Talkmill](https://github.com/talkmill)
 - [Kelsey Doyle](https://github.com/kdoyle390)
 - [Andres Cueva](https://github.com/andrescueva)
 - [Daniel Chan](https://github.com/danieljchan)
