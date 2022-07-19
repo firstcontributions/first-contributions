@@ -112,6 +112,7 @@
 - [Neel Awsare](https://github.com/awsare)
 - [Gal Malach](https://github.com/GalMalach08)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Simone Mazza](https://github.com/Simo524)
 - [Eve Tanios] (https://github.com/etanios03)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
