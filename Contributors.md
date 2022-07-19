@@ -206,6 +206,7 @@
 - [Abigel Asteraye](https://github.com/simplectasy)
 - [Prakash](https://github.com/Prakash4844)
 - [Prince Jeffrey](https://github.com/JaMox2)
+Emenike Nyema-Amadi
 - [Md. Ariful Islam](https://github.com/ariful-rony10)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
