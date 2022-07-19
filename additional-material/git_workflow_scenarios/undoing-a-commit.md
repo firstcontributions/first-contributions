@@ -1,55 +1,87 @@
 # Undo local commits 
 
-To undo a local commit, all you need to do is
-```
-git reset
-```
-This command will reset your staging area to your most recent commit, but the changes you made to your working directory will not change. So, you can still re-commit again what you've changed.
-Or, if you only want to remove one file from your previous commit. Then, you can do the command below
-```
-git reset <file>
-```
-The command will remove only the specified file from the staging area, but changes made on the file will still remain.
+To undo local commits we can use git's ```reset``` and ```revert``` commands.
 
-Example of ```git reset``` usage
-```
-# Make changes in index.php and tutorial.php
-# Add files into the staging area
-$ git add .
-# Remembered both files need to be committed separately
-# Unstage tutorial.php
-$ git reset tutorial.php
-# Commit index.php first
-$ git commit -m "Changed index.php"
-# Commit tutorial.php now
-$ git add tutorial.php
-$ git commit -m "Changed tutorial.php"
-```
+## Reset vs Revert
+At first glance, resetting might seem coincidentally close to reverting, but they are actually quite different. Reverting creates a new commit that reverts or undos a previous commit. Resetting, on the other hand, erases commits!
 
-Let's say if you have messed up your local repository and you just want to reset it to your last commit.
-Then, you can run the command below.
-```
-git reset --hard
-```
-The command will not only reset your staging area, but also revert all your changes on the files to your last commit.
-The mode ```--hard``` tells Git to undo all the changes in the working directory too.
-You should only run this when you are really sure of throwing your whole local development out.
+## What Is A Revert?
+When you tell Git to revert a specific commit, Git takes the changes that were made in commit and does the exact opposite of them. Let's break that down a bit. If a character is added in commit A, if Git reverts commit A, then Git will make a new commit where that character is deleted. It also works the other way where if a character/line is removed, then reverting that commit will add that content back!
 
-Example of ```git reset --hard``` usage
-```
-# Decided to start a crazy experiment
-# Create a new file 'crazy.php' and add some code to it
-# Commit crazy.php
-$ git add crazy.php
-$ git commit -m "Started a crazy dev"
-# Edit crazy.php file again and changed a lot of other files
-# Commit all tracked files
-$ git add .
-$ git commit -m "Continued dev"
-# Tested and things went out of hand
-# Decided to remove the whole things
-$ git reset --hard HEAD~2
-```
-The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points at the same time reverting all changes you have made and remove the 2 snapshots we have just created from project history.
+## The ```git revert``` Command
 
-P.s. Never perform ```git reset --hard``` if you've already pushed your commits to a shared repository as it will cause problems to everyone on that repository.
+Now that I've made a commit with some changes, I can revert it with the ```git revert``` command
+
+```git revert <SHA-of-commit-to-revert>```
+
+where ```<SHA>``` is the commit code like the one given below => ```db7e87a```.
+  
+**Example:** ```git revert db7e87a``` will undo the changes made in the commit ```db7e87a```.
+
+## The ```git reset``` command
+
+⚠️ Resetting Is Dangerous ⚠️
+
+> You've got to be careful with Git's resetting capabilities. This is one of the few commands that lets you erase commits from the repository. If a commit is no longer in the    > repository, then its content is gone.
+
+> To alleviate the stress a bit, Git does keep track of everything for about 30 days before it completely erases anything. To access this content, you'll need to use the 
+> ```git reflog``` command. Check out these links for more info:
+
+> * [git-reflog](https://git-scm.com/docs/git-reflog)
+> * [Rewriting History](https://www.atlassian.com/git/tutorials/rewriting-history)
+> * [reflog, your safety net](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html)
+
+The ```git reset``` command is used to reset (erase) commits:
+
+```git reset <reference-to-commit>```
+
+It can be used to:
+* move the HEAD and current branch pointer to the referenced commit
+* erase commits
+* move committed changes to the staging index
+* unstage committed changes
+
+## Git Reset's Flags
+The way that Git determines if it erases, stages previously committed changes, or unstages previously committed changes is by the flag that's used. The flags are:
+
+* ```--mixed```
+* ```--soft```
+* ```--hard```
+
+It's easier to understand how they work with a little animation.
+
+**Click on this [link](https://youtu.be/UN7ki2G2yKc) to view the animation.**
+
+## Reset's ```--mixed``` Flag
+Let's look at each one of these flags.
+
+>  9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+
+>  db7e87a Set page heading to "Quests & Crusades"
+
+>  796ddb0 Merge branch 'heading-update'
+
+Using the sample repo above with ```HEAD``` pointing to ```master``` on commit ```9ec05ca```, running ```git reset --mixed HEAD^``` will take the changes made in commit ```9ec05ca``` and move them to the working directory.
+
+## Reset's ```--soft``` Flag
+Let's use the same few commits and look at how the  ```--soft``` flag works:
+
+> 9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+
+> db7e87a Set page heading to "Quests & Crusades"
+
+> 796ddb0 Merge branch 'heading-update'
+
+Running ```git reset --soft HEAD^``` will take the changes made in commit ```9ec05ca``` and move them directly to the Staging Index.
+
+## Reset's ```--hard``` Flag
+Last but not least, let's look at the ```--hard``` flag:
+
+> 9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+
+> db7e87a Set page heading to "Quests & Crusades"
+
+> 796ddb0 Merge branch 'heading-update'
+
+Running ```git reset --hard HEAD^``` will take the changes made in commit ```9ec05ca``` and erases them.
+You should only run this when you are really sure of throwing the changes.

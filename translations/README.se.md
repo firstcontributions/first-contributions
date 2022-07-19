@@ -11,7 +11,7 @@ Det är alltid svårt första gången man gör något och speciellt när du sama
 Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är alltid bättre att göra det på riktigt. Detta projeket har som syfte att tillhandahålla en guide och göra det enkelt för nybörjare att göra sina första bidrag. Om du är ute efter att göra ditt första bidrag kan du följa stegen nedan.
 
 
-#### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.]( #tutorials-using-other-tools )*
+#### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.](#Handledningar-för-andra-verktyg)*
 
 #### *Läs detta på [andra språk](../Translations.md).*
 

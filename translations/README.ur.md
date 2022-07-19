@@ -19,20 +19,20 @@
 <a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
-## <div dir="rtl"> اس گودام کوفورک کریں </div>
+## <div dir="rtl"> اس ریپوزٹری کوفورک کریں </div>
 <div dir="rtl">
-اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
+اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس ریپوزٹری کا استعمال کریں.
 <img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس گودام کوفورک کریں" />
 <br />
-یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
+یہ آپ کے اکاونٹ میں اس ریپوزٹری کی ایک کاپی بنا دے گا۔.
 </div>
 
-## <div dir="rtl">ذخیرے کا کلون کیجیے</div>
+## <div dir="rtl">ریپوزٹری کا کلون کیجیے</div>
 
 <div dir="rtl">
 اب آپ اپنی مشین پر یہ ریپو کلون کریں.
 </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ذخیرے کا کلون کجیے" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ریپوزٹری کا کلون کجیے" />
 <div dir="rtl">
  کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
 </div>
@@ -46,7 +46,7 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 ```
 
 <div dir="rtl">
-جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
+جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ریپوزٹری کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
 
 <div dir="rtl">مثال کے طور پر:</div>
@@ -55,17 +55,17 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub گودام کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
+<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub ریپوزٹری کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
 
-## <div dir="rtl"> ایک شاخ بنائیں </div>
+## <div dir="rtl"> ایک برانچ بنائیں </div>
 
-<div dir="rtl"> اپنے کمپیوٹر پر ذخیرہ کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
+<div dir="rtl"> اپنے کمپیوٹر پر ریپوزٹری کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
 
 ```
 cd first-contributions
 ```
 
-<div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
+<div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک برانچ تشکیل دیں : </div>
 
 ```
 git checkout -b <add-your-name>
@@ -77,12 +77,12 @@ git checkout -b <add-your-name>
 git checkout -b add-alonzo-church
 ```
 
-<div dir="rtl"> (شاخ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
+<div dir="rtl"> (برانچ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس برانچ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
 ## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
 
 <div dir="rtl">
-اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
+اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس برانچ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
 </div>
 
 ```
@@ -105,7 +105,7 @@ git commit -m "Add <your-name> to Contributors list"
 git push origin <add-your-name>
 ```
 
-<div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
+<div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو برانچ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
 ## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
 
@@ -117,7 +117,7 @@ git push origin <add-your-name>
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="پل درخواست جمع کروائیں" />
 
-<div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
+<div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر برانچ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
 ### <div dir="rtl"> [ اضافی مواد ](../additional-material/git_workflow_scenarios/additional-material.md) </div>
 

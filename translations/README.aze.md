@@ -5,18 +5,18 @@
 
 # İlk töhfələr
 
-Bu layihə yeni başlayanlar üçün ilk töhfələrini vermə yollarını sadələşdirmək və yol göstərmək məqsədi daşıyır. İlk töhfənizi vermək istəyirsinizsə, aşağıdakı adımları tekrar edin.
+Bu layihə, yeni başlayanlar üçün ilk töhfələrini vermə yollarını sadələşdirmək və yol göstərmək məqsədi daşıyır. İlk töhfənizi vermək istəyirsinizsə, aşağıdakı addımları tekrar edin.
 
-_Əgər komut istemi (Command Prompt) ilə razı deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa biləriniz.](#tutorials-using-other-tools)_
+_Əgər komanda sistemi (Command Prompt) ilə işləyə bilmirsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa biləriniz.](#Digər-texnologiyalar-haqqında-təlim )_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### Kompüterinizdə GIT yoxdursa, [buradan quraşdıra bilərsiniz ](https://help.github.com/articles/set-up-git/).
 
-## layihəni "çatallama"
+## layihəni "çəngəlləmə"
 
 Səhifənin yuxarı hissəsindəki "Fork" düyməsini vuraraq bu layihəni çəngəlləyin.
-Bu hesabınızda bu layihənin bir kopyasını yaradacaqdır.
+Bu, hesabınızda bu layihənin bir kopyasını yaradacaqdır.
 
 ## Depoyu (Repository) klonlama
 
@@ -24,29 +24,29 @@ Bu hesabınızda bu layihənin bir kopyasını yaradacaqdır.
 
 İndi çəngəlli depoyu kompüterinizə klonlayın. GitHub hesabınıza daxil olun, çəngəlli depoyu açın, kod düyməsini vurun və sonra _copy to clipboard_ klikləyin.
 
-Daha sonra komut istemini açın aşağıdaki git komutunu daxil edin:
+Daha sonra komanda sistemini açın, aşağıdaki git komandasını daxil edin:
 
 ```
 git clone "kopyaladığınız-url"
 ```
-"kopyaladığınız-url" (dırnaq işarəsi olmadan) yerine bu deponun GitHub səhifəsindən aldığınız linki kopyalayın.
+"kopyaladığınız-url" (dırnaq işarəsi olmadan) yerinə, bu deponun GitHub səhifəsindən aldığınız linki kopyalayın.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Misal üçün:
 ```
-git clone https://github.com/kullanıcı-adi/first-contributions.git
+git clone https://github.com/istifadeci-adi/first-contributions.git
 ```
-`istifadəçi-adı` sizin GitHub istifadəçi adınız. Burada GitHub-dakı ilk töhfələr deposunun içindəkiləri kompüterinizə kopyalayırsınız.
+`istifadeci-adi` sizin GitHub istifadəçi adınızdır. Burada, GitHub-dakı ilk töhfələr deposunun içindəkilərini kompüterinizə kopyalayırsınız.
 
-## Budağı (Branch) yaratmaq
+## Budaq (Branch) yaratmaq
 
 Kompüterinizdəki anbar qovluğuna keçin (əgər orada deyilsinizsə):
 
 ```
 cd first-contributions
 ```
-`git checkout` əmrini istifadə edərək bir Budağ (Branch) yaradın:
+`git checkout` əmrindən istifadə edərək bir Budaq (Branch) yaradın:
 ```
 git checkout -b <sizin-yeni-budağ-adınız>
 ```
@@ -55,11 +55,11 @@ Misal üçün:
 ```
 git checkout -b add-alonzo-church
 ```
-(Budağ adının içinde *add* sözünün olması məcbur deyil, ancaq bu bölmənin məqsədi adınızı siyahıya əlavə etmək olduğu üçün daxil etmək məqbul bir şeydir.)
+(Budaq adının içinde *add* sözünün olması məcbur deyil, ancaq bu bölmənin məqsədi adınızı siyahıya əlavə etmək olduğu üçün daxil etmək məqbuldur.)
 
-## Lazımi dəyişiklikləri edin və bu dəyişiklikləri həyata keçirin
+## Lazımi dəyişiklikləri edin və bu dəyişiklikləri həyata keçirin.
 
-İndi `Contributors.md` faylını mətn redaktorunda açın, adınızı əlavə edin. Faylın əvvəlinə və ya sonuna əlavə etməyin. Arada bir yerə qoyun. İndi faylı saxlayın.
+İndi, `Contributors.md` faylını mətn redaktorunda açın və adınızı əlavə edin. Faylın əvvəlinə və ya sonuna əlavə etməyin. Arada bir yerə qoyun. İndi faylı saxlayın.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -71,24 +71,23 @@ Bu dəyişiklikləri `git add` əmrindən istifadə edərək yaratdığınız Bu
 git add Contributors.md
 ```
 
-İndi `git commit` əmrindən istifadə edərək bu dəyişiklikləri edin:
+İndi, `git commit` əmrindən istifadə edərək bu dəyişiklikləri həyata keçirin:
 
-adınızla `<your-name>` ilə əvəz olunsun.
+`<your-name>` adınız ilə əvəz olunsun.
 
 ## Dəyişiklikləri GitHub'a itələyin (push)
 
 Dəyişikliklərinizi "git push" əmrindən istifadə edərək itələyin:
 
-
 ```
 git push origin <add-your-branch-name>
 ```
 
-`<add-your-branch-name>` yerine öz istifadəçi adınızı daxil edin.
+`<add-your-branch-name>` yerinə öz istifadəçi adınızı daxil edin.
 
-## Dəyişikliklərinizi nəzərdən keçirmək üçün göndərin
+## Dəyişikliklərinizi nəzərdən keçirmək üçün göndərin.
 
-GitHub-dakı anbarınıza daxil olsanız, bir `Compare & pull request` düyməsini görəcəksən. Bu düyməni vurun.
+GitHub-dakı anbarınıza daxil olsanız, `Compare & pull request` düyməsini görəcəksiniz. Bu düyməni vurun.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -102,11 +101,11 @@ Tezliklə bütün dəyişikliklərinizi bu layihənin master filialına birləş
 
 Təbriklər! Töhfə olaraq tez-tez qarşılaşacağınız standart _fork -> clone -> edit -> pull request_ tamamlamısınız!
 
-Töhfənizi qeyd edin və [veb tətbiqetmə](https://firstcontributions.github.io/#social-share) girərək dostlarınız və izləyicilərinizlə bölüşün.
+Töhfənizi qeyd edin və [veb tətbiqetməyə](https://firstcontributions.github.io/#social-share) girərək dostlarınız və izləyicilərinizlə bölüşün.
 
-Hər hansı bir köməyə ehtiyacınız varsa və ya suallarınız varsa, [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-iywfifau-_aMtdwTjBoMzQqzW8~YUUA) komandamıza qoşula bilərsiniz.
+Hər hansı bir köməyə ehtiyacınız və ya suallarınız varsa, [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-iywfifau-_aMtdwTjBoMzQqzW8~YUUA) komandamıza qoşula bilərsiniz.
 
-İndi başqa layihələrə töhfə verməyə başlayaq. Başlaya biləcəyiniz asan məsələləri olan layihələrin siyahısını hazırladıq, [Siyahıya baxın](https://firstcontributions.github.io/#project-list).
+İndi isə, başqa layihələrə töhfə verməyə başlayaq. Başlaya biləcəyiniz asan məsələləri olan layihələrin siyahısını hazırladıq, [Siyahıya baxın](https://firstcontributions.github.io/#project-list).
 
 ### [Əlavə Məlumat](additional-material/git_workflow_scenarios/additional-material.md)
 

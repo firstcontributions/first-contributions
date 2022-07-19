@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+[<img align="right" width="150" height="35" src="https://user-images.githubusercontent.com/30611190/144701174-9893e63c-2404-4602-b245-799689f9df79.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # 
@@ -13,6 +13,7 @@
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Català" alt="Català" src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)</kbd>
 <kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.chs.md)</kbd>
+<kbd>[<img title="Croatian" alt="Croatian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hr.svg" width="22">](translations/README.hr.md)</kbd>
 <kbd>[<img title="Czech" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
@@ -28,9 +29,9 @@
 <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.md)</kbd>
-<kbd>[<img title="Persian_Finglish" alt="Persian_Finglish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.en.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
+<kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22">](translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">](translations/README.lt.md)</kbd>
@@ -43,6 +44,7 @@
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)</kbd>
 <kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)</kbd>
 <kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.tl.md)</kbd>
+<kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.ceb.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
@@ -52,6 +54,7 @@
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">](translations/README.se.md)</kbd>
 <kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sk.svg" width="22">](translations/README.slk.md)</kbd>
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
+<kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](translations/README.kh.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
 <kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
 <kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.cht.md)</kbd>
@@ -66,7 +69,8 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
-# 
+<kbd>[<img title="ພາສາລາວ" alt="ພາສາລາວ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/la.svg" width="22">](translations/README.lo.md)</kbd>
+<kbd>[<img title="Uzbek" alt="Uzbek" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
 
 # First Contributions
 
@@ -115,16 +119,16 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Now create a branch using the `git switch` command:
 
 ```
-git checkout -b your-new-branch-name
+git switch -c your-new-branch-name
 ```
 
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
@@ -156,10 +160,21 @@ replacing `<your-name>` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin -u <add-your-branch-name>
 ```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+<details>
+<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+
+* ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
+   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+
+</details>
 
 ## Submit your changes for review
 
@@ -188,6 +203,5 @@ Now let's get you started with contributing to other projects. We've compiled a 
 ## Tutorials Using Other Tools
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
-添加内容
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
