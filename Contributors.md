@@ -14,6 +14,7 @@
 - [Frostbyte]
 - [Pujya Preyans]
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
+- [Christian Sanchez](https://github.com/digitalghost-dev)
 - [Dany Nghaywe] (https://github.com/DanyNghaywe)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
