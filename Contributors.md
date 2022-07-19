@@ -1,7 +1,6 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
@@ -210,7 +209,7 @@
 - [Abigel Asteraye](https://github.com/simplectasy)
 - [Prakash](https://github.com/Prakash4844)
 - [Prince Jeffrey](https://github.com/JaMox2)
-  Emenike Nyema-Amadi
+- Emenike Nyema-Amadi
 - [Md. Ariful Islam](https://github.com/ariful-rony10)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
@@ -1171,6 +1170,7 @@
 - [Cj3 McCollum](https://github.com/534118306)
 - [Karsten Widjanarko](https://github.com/WidjiWidji)
 - [Ferdiansahgg](https://github.com/ferdiansahgg)
-  <!-- prettier-ignore-end -->
-  [Cj3 vipinsingh](https://github.com/534118306)
-  [Erman Celik](https://github.com/celikerman) -[YasanLakmalH](https://github.com/YasanLakmalH)
+- [Cj3 vipinsingh](https://github.com/534118306)
+- [Erman Celik](https://github.com/celikerman)
+- [YasanLakmalH](https://github.com/YasanLakmalH)
+<!-- prettier-ignore-end -->
