@@ -5,11 +5,11 @@
 
 # Primeras Contribuciones
 
-Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
+Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otras personas, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
 Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
-#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)]( #tutoriales-con-otras-herramientas )*
+#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)](#Tutoriales-con-otras-herramientas)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
@@ -24,7 +24,7 @@ Esto creará una copia de este repositorio en tu cuenta.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
-Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz click en el botón "*clone or download*" y luego haz click en el icono para *copiar al portapapeles*.
+Ahora clona este repositorio en tu ordenador. Dirígete a tu cuenta de GitHub, haz click en el botón "*clone or download*" y luego haz click en el icono para *copiar al portapapeles*.
 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
@@ -32,7 +32,7 @@ Abre tu consola o terminal y ejecuta el siguiente comando de git:
 git clone "url que acabas de copiar"
 ```
 
-Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
+Donde pone "url que acabas de copiar" (remueve las commillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
@@ -52,7 +52,7 @@ cd first-contributions
 
 Ahora crea una rama (*branch*) usando el comando  `git checkout`:
 ```
-git checkout -b <añade tu nombre>
+git checkout -b <escribe tu nombre>
 ```
 
 Por ejemplo:
@@ -69,7 +69,7 @@ Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No l
 
 Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás que hay cambios.
 
-Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
+Agrega esos cambios a la rama (*branch*) fue creada anteriormente usando el comando `git add`:
 
 ```
 git add Contributors.md
@@ -79,7 +79,7 @@ Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
-cambiando `<tu-nombre>` con tu nombre.
+cambia `<tu-nombre>` con tu nombre en las commillas.
 
 ## Manda (*Push*) tus cambios a GitHub
 
@@ -91,7 +91,7 @@ Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste a
 
 ## Envía (*Submit*) tus cambios para ser revisados
 
-Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre este botón.
+Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click en este botón.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="crea una pull request" />
 
@@ -109,7 +109,7 @@ Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web 
 
 También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
+Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues*(problemas) sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
 
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 

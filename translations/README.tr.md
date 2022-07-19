@@ -11,6 +11,8 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
+Eğer komut satırında kendine tam güvenmiyorsan GUI(grafik istemcisi) kullanmak için eğitimlere [ buradan ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools) bakabilirsin.
+
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Projeyi "çatallama"
