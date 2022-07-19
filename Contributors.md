@@ -66,6 +66,7 @@
 - [Harihara Subramanian](https://github.com/HariharaSubramanianM)
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
+- [Daniel Evaristo](https://github.com/djse10/)
 - [Babba Voss](https://github.com/Lordvoss/)
 - [ARKARLIN](https://github.com/christopher4RY)
 - [RAJMISHRA](https://github.com/rajmishra-47)
