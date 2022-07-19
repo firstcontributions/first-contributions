@@ -25,6 +25,7 @@
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Atakan Pars](https://github.com/AP9747)
+- [Kiran Aziz](https://github.com/kiranaziz)
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Ramil Algayev](https://github.com/EuropeanMosquito)
 - [Federico Podesta](https://github.com/FedePodesta)
