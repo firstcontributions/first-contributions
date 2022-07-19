@@ -784,6 +784,7 @@
 - [Swapnil Jain](https://github.com/swapy-27)
 - [Andrea Ubbiali](https://github.com/aubbiali)
 - [Brian Jesse Kimani](https://github.com/BrianJesseKimani)
+- [Idris Ayinde] https://github.com/Edrees-creator
 - [cylearny](https://github.com/cylearny)
 - [edaro27](https://github.com/edaro27)
 - [Michael Adetona](https://github.com/AdetonaMichael)
