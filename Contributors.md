@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
@@ -186,7 +187,7 @@
 - [Bibin Biju](https://github.com/bib265)
 - [Mohammad Arfizur Rahman](https://github.com/arfizurrahman)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
-- [Piotr Kowalczewski] (https://github.com/kowalczewski)
+- [Piotr Kowalczewski](https://github.com/kowalczewski)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Moein Nazari](https://github.com/moeinnazari)
@@ -195,6 +196,7 @@
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Rishikesh S](https://github.com/Rhilok)
+- [Moses Fawole](https://github.com/mosesfawole)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [AungMyatThu](https://github.com/Aung67890)
 - [Abigel Asteraye](https://github.com/simplectasy)
@@ -1155,6 +1157,6 @@
 - [Daniel Chan](https://github.com/danieljchan)
 - [Cj3 McCollum](https://github.com/534118306)
 - [Karsten Widjanarko](https://github.com/WidjiWidji)
-<!-- prettier-ignore-end -->
- [Cj3 vipinsingh](https://github.com/534118306)
- [Erman Celik](https://github.com/celikerman)
+  <!-- prettier-ignore-end -->
+  [Cj3 vipinsingh](https://github.com/534118306)
+  [Erman Celik](https://github.com/celikerman)
