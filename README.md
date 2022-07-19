@@ -115,19 +115,17 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Now create a branch using the `git switch` command:
 
 ```
-git checkout -b your-new-branch-name
+git switch -c your-new-branch-name
 ```
 
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
-
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
 
@@ -160,6 +158,17 @@ git push origin -u <add-your-branch-name>
 ```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+<details>
+<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+
+* ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
+   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+
+</details>
 
 ## Submit your changes for review
 
