@@ -1,9 +1,11 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
+- [Yaseer Tasleem](https://github.com/yaseer-13)
 - [Mike Gabriel](https://github.com/MaxMike47)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
 - [Siqi Liu](https://github.com/leowrites/)
@@ -1155,6 +1157,6 @@
 - [Daniel Chan](https://github.com/danieljchan)
 - [Cj3 McCollum](https://github.com/534118306)
 - [Karsten Widjanarko](https://github.com/WidjiWidji)
-<!-- prettier-ignore-end -->
- [Cj3 vipinsingh](https://github.com/534118306)
- [Erman Celik](https://github.com/celikerman)
+  <!-- prettier-ignore-end -->
+  [Cj3 vipinsingh](https://github.com/534118306)
+  [Erman Celik](https://github.com/celikerman)
