@@ -53,6 +53,7 @@
 - [Henrik Berg](https://github.com/henkeb)
 - [Henry Burii](https://github.com/buriihenry)
 - [Jim Ezesinachi](https://github.com/rapaktech)
+- [Bryan Emond](https://github.com/BryanEmond)
 - [HAH](https://github.com/HtetAungHtet)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
