@@ -98,6 +98,7 @@
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
+- [Jayesh Kumavat](https://github.com/Jayesh3734)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Lebelek](https://github.com/lblk-coder)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
