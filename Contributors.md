@@ -229,6 +229,7 @@ Emenike Nyema-Amadi
 - [Destiny O'Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Ashley-Chen](https://github.com/ashlchen)
+- [sharkipelago]
 - [Todi Rahmat](https://github.com/todikun)
 - [Suraj Sajwan](https://github.com/Sajwan055)
 - [Vivek Tiwari](https://github.com/probablyvivek)
