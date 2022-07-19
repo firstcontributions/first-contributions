@@ -13,6 +13,7 @@
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Frostbyte]
 - [Pujya Preyans]
+- [Fergus Maclean](https://github.com/fergusmac1)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Christian Sanchez](https://github.com/digitalghost-dev)
 - [Dany Nghaywe] (https://github.com/DanyNghaywe)
