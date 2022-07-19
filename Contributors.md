@@ -1175,7 +1175,7 @@
 - [Kelsey Doyle](https://github.com/kdoyle390)
 - [Andres Cueva](https://github.com/andrescueva)
 - [Daniel Chan](https://github.com/danieljchan)
-- [Cj3 McCollum](https://github.com/534118306)
+- [Kasi Reeves](https://github.com/Kasirocswell)
 - [Karsten Widjanarko](https://github.com/WidjiWidji)
 - [Ferdiansahgg](https://github.com/ferdiansahgg)
 - [Cj3 vipinsingh](https://github.com/534118306)
