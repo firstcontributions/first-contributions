@@ -1153,5 +1153,5 @@
 - [Daniel Chan](https://github.com/danieljchan)
 - [Cj3 McCollum](https://github.com/534118306)
 <!-- prettier-ignore-end -->
- [Cj3 vipinsingh](https://github.com/534118306)
+- [Cj3 vipinsingh](https://github.com/534118306)
 - [Erman Celik](https://github.com/celikerman)
