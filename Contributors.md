@@ -97,6 +97,7 @@
 - [Patrick Lesiewicz](https://github.com/KrsPatrick)
 - [Alex Slutsky](https://github.com/Pa1best)
 - [Devdatt Pandit](https://github.com/Devdatt17)
+- [Kristijan Aleksic] (https://github.com/akristijan/)
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
 - [Gal Malach](https://github.com/GalMalach08)
