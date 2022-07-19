@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Aliraza Khan] (https://github.com/itsarkcodes)
 - [Sanket patil](https://github.com/sanket1one)
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
