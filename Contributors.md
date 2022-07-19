@@ -10,6 +10,7 @@
 - [Gargi Sontakke](https://github.com/gargi-so)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
+- [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Frostbyte]
 - [Pujya Preyans]
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
