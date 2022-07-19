@@ -1151,6 +1151,7 @@
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)git
 - [Jared Whitlock](https://github.com/Drone14)
+- [Himanshu Singh](https://github.com/Himanshu-370)
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
 - [Ning Lee](https://github.com/ninglee47)
