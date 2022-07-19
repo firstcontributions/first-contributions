@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Aliraza Khan] (https://github.com/itsarkcodes)
+- [Sanket patil](https://github.com/sanket1one)
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
@@ -132,6 +133,7 @@
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Tauhid Patel](https://github.com/tauhidpatel)
+- [Ervin Natareno](https://github.com/ervn12)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
@@ -1152,6 +1154,7 @@
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)git
 - [Jared Whitlock](https://github.com/Drone14)
+- [Himanshu Singh](https://github.com/Himanshu-370)
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
 - [Ning Lee](https://github.com/ninglee47)
@@ -1168,12 +1171,13 @@
 - [Matias Gomez](https://github.com/Matgc04)
 - [WarbDev](https://github.com/WarbDev)
 - [Sam Low](https://github.com/SamuelmdLow/)
+- [Itor Fidelis](https://github.com/ItorFidel/)
 - [Talkmill](https://github.com/talkmill)
 - [Avinab](https://github.com/aomine2023)
 - [Kelsey Doyle](https://github.com/kdoyle390)
 - [Andres Cueva](https://github.com/andrescueva)
 - [Daniel Chan](https://github.com/danieljchan)
-- [Cj3 McCollum](https://github.com/534118306)
+- [Kasi Reeves](https://github.com/Kasirocswell)
 - [Karsten Widjanarko](https://github.com/WidjiWidji)
 - [Ferdiansahgg](https://github.com/ferdiansahgg)
 - [Cj3 vipinsingh](https://github.com/534118306)
