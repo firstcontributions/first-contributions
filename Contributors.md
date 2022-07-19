@@ -132,6 +132,7 @@
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Tauhid Patel](https://github.com/tauhidpatel)
+- [Ervin Natareno](https://github.com/ervn12)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
