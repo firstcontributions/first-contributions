@@ -90,6 +90,7 @@
 - [Ballween](https://github.com/Ballween)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
 - [Mahreen Abedin](https://github.com/Mahreenn)
+- [SM. Mostafa Jamal](https://github.com/sm-mostafajamal)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [TEJAS DHAMECHA](https://github.com/notanmay)
 - [Akshay Babbar](https://github.com/akshay-babbar)
