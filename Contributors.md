@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Sanket patil](https://github.com/sanket1one)
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
