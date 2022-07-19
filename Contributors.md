@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Aliraza Khan] (https://github.com/itsarkcodes)
 - [Sanket patil](https://github.com/sanket1one)
+- [Eliza Huang](https://github.com/elizahuang/)
 - [Alvin Su](https://github.com/aksu-github)
 - [Andrew Stringfellow] (https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
