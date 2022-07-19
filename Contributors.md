@@ -42,6 +42,7 @@
 - [Neeltyper001](https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [bjp9527](github.com/bjp9527)
+- [Ayush Goel](https://github.com/goelayush89)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Matt De Vries](https://github.com/DeVriesMatt)
 - [Hargovind Singh](https://github.com/GovindProMax)
