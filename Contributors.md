@@ -1169,6 +1169,7 @@
 - [Matias Gomez](https://github.com/Matgc04)
 - [WarbDev](https://github.com/WarbDev)
 - [Sam Low](https://github.com/SamuelmdLow/)
+- [Itor Fidelis](https://github.com/ItorFidel/)
 - [Talkmill](https://github.com/talkmill)
 - [Avinab](https://github.com/aomine2023)
 - [Kelsey Doyle](https://github.com/kdoyle390)
