@@ -263,6 +263,7 @@
 - [Jana Samson](https://github.com/jajasam)
 - [Andrew Chang](https://github.com/AndrewChang2025)
 - [Uday](https://github.com/udaysonyy)
+- [Andrew Muiruri](https://github.com/AndrewMMai)
 - [Angela Johnson](https://github.com/angieloux)
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
 - [Filip Telente](https://github.com/aminta5)
