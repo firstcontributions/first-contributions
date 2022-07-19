@@ -12,6 +12,7 @@
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Frostbyte]
+- [Tommy]
 - [Pujya Preyans]
 - [Fergus Maclean](https://github.com/fergusmac1)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
