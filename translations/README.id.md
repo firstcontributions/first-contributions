@@ -66,7 +66,7 @@ git checkout -b add-alonzo-church
 
 (Nama cabang tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama Anda ke dalam sebuah daftar.)
 
-## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
+## Atur Perubahan yang Diperlukan dan Setelah itu Commit Perubahan Tersebut
 
 Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
 
