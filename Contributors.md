@@ -770,6 +770,7 @@
 - [KosyAbone](https://github.com/KosyAbone)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [yangzhengca](https://github.com/yangzhengca)
+- [SnapsCode](https://github.com/snapsCode)
 - [Anees-Asghar](https://github.com/Anees-Asghar)
 - [NSHU17](https://github.com/NSHU17)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
