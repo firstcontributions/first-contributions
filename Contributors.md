@@ -1,6 +1,8 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
+- [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Sudheendra](https://github.com/programsbysudhi)
