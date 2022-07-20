@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Byeongun Park](https://github.com/bupark82)
@@ -13,6 +14,7 @@
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
+- [Nabeel Ahmed](https://github.com/nabeelahmedjh)
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
