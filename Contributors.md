@@ -874,6 +874,7 @@
 - [Jasmine](https://github.com/jasminelee789)
 - [Joshua](https://github.com/kxng0109)
 - [Denny Chen](https://github.com/DenxyChen)
+- [dansch87](https://github.com/dansch87)
 - [Graeme Crawley](https://github.com/GraemeCrawley)
 - [Antoine Q.](https://github.com/antoine-q)
 - [Omkar Ashtekar](https://github.com/omkarun)
