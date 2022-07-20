@@ -101,6 +101,7 @@
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
 - [Jayesh Kumavat](https://github.com/Jayesh3734)
 - [Jakub Gania](https://github.com/jakubgania)
+- [Alexi](https://github.com/web-dev-lex)
 - [Lebelek](https://github.com/lblk-coder)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
 - [Shauna Empringham](https://github.com/ShaunaTheDead86)
