@@ -1087,4 +1087,5 @@
 - [Eric Goetsch](https://github.com/goetsch101)
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
+- [Robotduinom](https://github.com/robotduinom)
 <!-- prettier-ignore-end -->
