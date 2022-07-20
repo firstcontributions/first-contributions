@@ -184,6 +184,7 @@
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Destiny O'Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
+- [Midhuram Manoj](https://github.com/Midhu7)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Todi Rahmat](https://github.com/todikun)
 - [Suraj Sajwan](https://github.com/Sajwan055)
