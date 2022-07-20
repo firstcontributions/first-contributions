@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Byeongun Park](https://github.com/bupark82)
@@ -546,6 +546,7 @@
 - [Ahmad Humayun](https://github.com/AhmadHumayun)
 - [Zurabi Chkhikvadze](https://github.com/ZuieS)
 - [Tristan](https://github.com/TristanHarris2)
+- [Pawel Lasatowicz](https://github.com/Pawlikon)
 - [Kelby Rose](https://github.com/kelby-rose/)
 - [Bartosz Milew](https://github.com/BartekMilew)
 - [Saadman Galib](https://github.com/saadman-galib)
