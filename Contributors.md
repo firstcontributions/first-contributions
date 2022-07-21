@@ -20,6 +20,7 @@
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
+- [kelvin Kelechi](https://github.com/PromiseMT)
 - [Roopaksh](https://github.com/Roopaksh1)
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
