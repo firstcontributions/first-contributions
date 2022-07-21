@@ -44,6 +44,7 @@
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [David Galvez Valverde](https://github.com/davidgalvez)
+- [Rishi Kejriwal] (https://github.com/Kej-r03)
 - [Harihara Subramanian](https://github.com/HariharaSubramanianM)
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
