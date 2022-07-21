@@ -9,6 +9,7 @@
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Arnav Kamath](https://github.com/arnalph)
+- [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
