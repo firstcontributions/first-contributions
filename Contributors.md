@@ -323,6 +323,7 @@
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
+- [Cameron Bond](https://github.com/CameronB-prog)
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
 - [Aaron Reynolds](https://github.com/areyn77463)
 - [Terra Hanks](https://github.com/vampyteuth)
