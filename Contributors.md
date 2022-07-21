@@ -1,12 +1,14 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
+- [Kaung Myat Hein](https://github.com/kaungmyathein12)
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Andika Eka Kurnia](https://github.com/dikdns)
 - [Rakesh Nagapuri] https://github.com/zerak222
@@ -55,7 +57,7 @@
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Khushi Jashnani](https://github.com/khushijashnani)
-- [Sadam Hussain] (https://github.com/sadamhussain-m)	
+- [Sadam Hussain] (https://github.com/sadamhussain-m)
 - [Collins Ruto](https://github.com/collins-ruto)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Abbey Santos](https://github.com/AbbeyIT)
