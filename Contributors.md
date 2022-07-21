@@ -101,6 +101,7 @@
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Annabel Ilo](https://github.com/annabel-ilo)
+- [aterzgar](https://github.com/aterzgar)
 - [Tauhid Patel](https://github.com/tauhidpatel)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
 - [Andy Qin](https://github.com/qin-andrew123)
