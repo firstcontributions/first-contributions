@@ -4,6 +4,7 @@
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
+- [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
