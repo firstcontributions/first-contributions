@@ -1098,4 +1098,5 @@
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
 - [Robotduinom](https://github.com/robotduinom)
+- [Ibrahim Khalil](https://github.com/bsse1009)
 <!-- prettier-ignore-end -->
