@@ -24,6 +24,7 @@
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Hrittik Garain](https://github.com/hrittik2002)
+- [Rachit Lal](https://github.com/rachitlal-cc)
 - [kelvin Kelechi](https://github.com/PromiseMT)
 - [Roopaksh](https://github.com/Roopaksh1)
 - [Sahil Jawale](https://github.com/Sahiljawale54)
