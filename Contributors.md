@@ -6,6 +6,7 @@
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
+- [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Arnav Kamath](https://github.com/arnalph)
 - [Jose Gibson](https://github.com/josegibson)
