@@ -903,6 +903,7 @@
 - [Haziq Khurshid](https://github.com/haziq-khurshid)
 - [BL7Awy](https://github.com/goar5670)
 - [kenmwangi](https://github.com/kenmwangi)
+- [Gabriel Lucas] (https://github.com/umloucobr)
 - [WLHSDXN](https://github.com/WLHSDXN)
 - [Li Xiang](https://github.com/lxow456)
 - [Pedro Moyano](https://github.com/petermoyano)
