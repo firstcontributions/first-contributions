@@ -169,6 +169,7 @@
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Matthew McCane](https://github.com/DakuwoN)
+- [Swapnali Bhargude](https://github.com/swapnaliss)
 - [Rishikesh S](https://github.com/Rhilok)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [AungMyatThu](https://github.com/Aung67890)
