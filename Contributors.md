@@ -7,6 +7,7 @@
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Arnav Kamath](https://github.com/arnalph)
+- [Jose Gibson](https://github.com/josegibson)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
