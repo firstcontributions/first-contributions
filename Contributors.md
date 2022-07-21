@@ -1099,4 +1099,5 @@
 - [Jared Whitlock](https://github.com/Drone14)
 - [Robotduinom](https://github.com/robotduinom)
 - [Ibrahim Khalil](https://github.com/bsse1009)
+- [Cristi](https://github.com/cristi00794)
 <!-- prettier-ignore-end -->
