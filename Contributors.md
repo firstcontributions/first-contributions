@@ -768,6 +768,7 @@
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [Mbaziira Ronald](https://github.com/mbaziiraronald)
 - [Adam McFillin](https://github.com/amcfillin)
+- [Janos Kocs](https://github.com/janoskocs)
 - [Devyanshu Jadon](https://github.com/devyloper)
 - [AAleksandros](https://github.com/AAleksandros)
 - [svtdoug](https://github.com/svtdoug)
