@@ -1110,6 +1110,7 @@
 - [Matthew Baker](https://github.com/leftstanding)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [Pedro Veríssimo](https://github.com/pbv2)
+- [Gavin M](https://github.com/gmeeker99)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
 - [Triss Marsh](https://github.com/distriss)
 - [Sebastian Neumeier](https://github.com/test123-all)
