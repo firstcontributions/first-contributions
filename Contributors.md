@@ -11,6 +11,7 @@
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Arnav Kamath](https://github.com/arnalph)
+- [Sadeedpv](https://github.com/Sadeedpv)
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Byeongun Park](https://github.com/bupark82)
