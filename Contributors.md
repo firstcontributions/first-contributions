@@ -424,6 +424,7 @@
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Sunny Hemdev](https://github.com/sunny151091/)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
+- [Francis Ang](https://github.com/mobius-two)
 - [Bolaji Motayo](https://github.com/Bolaji-Motayo)
 - [Donald Lv](https://github.com/SpadeInTheDirt)
 - [Raul Flores](https://github.com/Raul-A-Flores)
