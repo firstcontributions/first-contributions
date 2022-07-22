@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
@@ -948,6 +949,7 @@
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
 - [Renzo Villaflor](https://github.com/rvill015)
+- [Krishnanand Yadav](https://github.com/Krishnanand2517)
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
