@@ -1,7 +1,6 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
