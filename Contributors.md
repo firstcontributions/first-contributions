@@ -24,6 +24,7 @@
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [Ankur Dubey](https://github.com/Saad-Abbasi)
+- [Rudy Becker] (https://github.com/RudyBecker)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Atakan Pars](https://github.com/AP9747)
 - [Fidel Ramos](https://github.com/FidelAlberto)
@@ -1078,7 +1079,7 @@
 - [Daniel Greene](https://github.com/MonkeySoup318)
 - [tsX369](https://github.com/tsX369)
 - [Gavin Barnes](https://github.com/cantidosan)
-sahil prasad
+  sahil prasad
 - [Manu Peralta](https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Sejal Mishra](https://github.com/sejalmishra)
