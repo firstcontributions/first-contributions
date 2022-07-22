@@ -1141,5 +1141,6 @@
 - [Cristi](https://github.com/cristi00794)
 - [Sanudra](https://github.com/samudra-perera)
 - [Shayan Raza](https://github.com/Shayan-Raza)
+- [Ashik V S](https://github.com/HeyitsAsh)
 - [pranshu Taneja](https://github.com/pranshu-taneja)
 <!-- prettier-ignore-end -->
