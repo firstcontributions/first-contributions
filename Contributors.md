@@ -531,6 +531,7 @@
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Arnav Negi](https://github.com/Arnav-Negi)
 - [Turry](https://github.com/Oh-Turry)
+- [Hassan Raza](https://github.com/hassanrsiddiqi)
 - [Kieran Brady](https://github.com/kb1107)
 - [Brittany Tinnin](https://github.com/TinninBrittany)
 - [Adam Stephens](https://github.com/stender11)
