@@ -1,7 +1,6 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Priyank Patil](https://github.com/priyank003)
