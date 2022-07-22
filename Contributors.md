@@ -1121,6 +1121,7 @@
 - [Mohammed Hashique A](https://github.com/hashiq300)
 - [Matthew Baker](https://github.com/leftstanding)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
+- [John Wheldale](https://github.com/whejy)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Gavin M](https://github.com/gmeeker99)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
