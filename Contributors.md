@@ -20,6 +20,7 @@
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Atakan Pars](https://github.com/AP9747)
+- [Fidel Ramos](https://github.com/FidelAlberto)
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
