@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Sandesh Verma](https://github.com/ren276)
 - [Bernie Lorente](https://github.com/berniemackie97)
+- [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
