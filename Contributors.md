@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Sandesh Verma](https://github.com/ren276)
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
