@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Sandesh Verma](https://github.com/ren276)
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
@@ -24,7 +25,7 @@
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [Ankur Dubey](https://github.com/Saad-Abbasi)
-- [Rudy Becker] (https://github.com/RudyBecker)
+- [Rudy Becker](https://github.com/RudyBecker)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Atakan Pars](https://github.com/AP9747)
 - [Fidel Ramos](https://github.com/FidelAlberto)
