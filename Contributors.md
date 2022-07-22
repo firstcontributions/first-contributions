@@ -663,6 +663,7 @@
 - [Alan](https://github.com/CipherKill/)
 - [Vipul Patil](https://github.com/vipulpatilvsp)
 - [Yash](https://github.com/Yashk4444)
+- [Nicolas Benoit](https://github.com/Niksune)
 - [Melvin Lucas](https://github.com/LucasMelvin15)
 - [Dev Nakum](https://github.com/DevNakum)
 - [Henil Mistry](https://github.com/HenilMistry)
