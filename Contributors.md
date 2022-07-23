@@ -1144,6 +1144,7 @@
 - [Robert West](https://github.com/rolewest)
 - [Robert Hommes](https://github.com/RobertHGit)
 - [NamSeoYong](https://github.com/NamSeoYong)
+- [chike-onyia chinedu derek](https://github.com/derekonyia)
 - [Saswata Majumdar](https://github.com/Sas1999)
 - [David Coe](https://github.com/Daviology38)
 - [Soham Ghosh](https://github.com/sohamghosh1509)
