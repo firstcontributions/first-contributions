@@ -81,6 +81,7 @@
 - [Sadam Hussain](https://github.com/sadamhussain-m)
 - [Collins Ruto](https://github.com/collins-ruto)
 - [Liza Yemini](https://github.com/LizaYemini)
+- [Elizabeth Cantu](https://github.com/Esagecc)
 - [Abbey Santos](https://github.com/AbbeyIT)
 - [Henrik Berg](https://github.com/henkeb)
 - [Deep](https://github.com/just2deep)
