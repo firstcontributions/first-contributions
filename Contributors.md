@@ -74,6 +74,7 @@
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
+- [Cindy](https://github.com/Ccindy0171)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [David Galvez Valverde](https://github.com/davidgalvez)
 - [Rishi Kejriwal](https://github.com/Kej-r03)
