@@ -159,6 +159,7 @@
 - [Amira Ezzeldin](https://github.com/aezz4007)
 - [andrei g](https://github.com/andrei-g-git)
 - [Zhengtong Nie](https://github.com/ztNIE)
+- [Azzzanadra](https://github.com/Azzzanadra)
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Mitchell Megla](https://github.com/mitchell-megla)
 - [Rohan Abraham](https://github.com/RohanSAbraham)
