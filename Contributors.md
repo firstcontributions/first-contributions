@@ -23,6 +23,7 @@
 - [Andika Eka Kurnia](https://github.com/dikdns)
 - [Elena Sarnouk](https://github.com/elenasarnouk)
 - [Rakesh Nagapuri](https://github.com/zerak222)
+- [Wilman Vinueza](https://github.com/wildanvin)
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [Ankur Dubey](https://github.com/Saad-Abbasi)
