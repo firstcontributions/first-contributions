@@ -100,6 +100,7 @@
 - [Vinit Hemadri](https://github.com/Vinitvh)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
+- [trsaints](https://github.com/trsaints)
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [TEJAS DHAMECHA](https://github.com/notanmay)
