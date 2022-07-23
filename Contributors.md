@@ -38,6 +38,7 @@
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
+- [JK Lagrosa](https://github.com/jklagrosa)
 - [Nabeel Ahmed](https://github.com/nabeelahmedjh)
 - [Richard Adebayo](https://github.com/richardebrain)
 - [Chetan Dhongade](https://github.com/binary-ibex)
