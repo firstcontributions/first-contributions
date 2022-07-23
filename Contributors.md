@@ -1144,6 +1144,7 @@
 - [Debbie Thompson](https://github.com/debbiect246)
 - [Tom Kennedy](https://github.com/Skyrub-dev)
 - [Mohammed Hashique A](https://github.com/hashiq300)
+- [Anomitro Das](https://github.com/ayanokoji024)
 - [Matthew Baker](https://github.com/leftstanding)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [John Wheldale](https://github.com/whejy)
