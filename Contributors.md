@@ -249,6 +249,7 @@
 - [Akshat Kumar](https://github.com/Akshatkumar4433)
 - [Chetan Nair](https://github.com/ChetanNair)
 - [Sitaram Pal](https://github.com/sitaram2011)
+- [Brent Tan](https://github.com/BrentTanKian)
 - [Thad](https://github.com/adminprivileges)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Pacifique Ntahurunga](https://github.com/npacifique)
