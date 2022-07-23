@@ -152,6 +152,7 @@
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
+- [Sara Reveles](https://github.com/sareli89)
 - [Jayesh Kumavat](https://github.com/Jayesh3734)
 - [Jakub Gania](https://github.com/jakubgania)
 - [Alexi](https://github.com/web-dev-lex)
