@@ -22,8 +22,6 @@
 - [Jose Gibson](https://github.com/josegibson)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - [Byeongun Park](https://github.com/bupark82)
-- [Jagannatha Bylahalli] (https://github.com/JaganBylahalli)
-- [Manish Sindur]https://github.com/manishsindur
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
@@ -54,6 +52,7 @@
 - [Khosraw Azizi](https://github.com/khosraw)
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
+- [Hubaka Ghayati Setyakurnia](https://github.com/hubahuba2016)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001](https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
@@ -875,7 +874,6 @@
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
 - [Rohan Janardhan](https://github.com/rxhxn30)
-- [unlucky-cat](https://github.com/unlucky-cat)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Ruth Wata](https://github.com/R-N-Wata)
 - [Sadie Manicom](https://github.com/sadienicole)
@@ -1169,5 +1167,4 @@
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
 - [pranshu Taneja](https://github.com/pranshu-taneja)
-- [Marlon Correia] (https://github.comMarlon-Correia)
 <!-- prettier-ignore-end -->
