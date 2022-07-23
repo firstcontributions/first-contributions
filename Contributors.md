@@ -22,6 +22,7 @@
 - [Jose Gibson](https://github.com/josegibson)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - [Byeongun Park](https://github.com/bupark82)
+- [Jagannatha Bylahalli] (https://github.com/JaganBylahalli)
 - [Manish Sindur]https://github.com/manishsindur
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
 - [Add Byeongun Park](https://github.com/bupark82)
