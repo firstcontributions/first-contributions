@@ -1,4 +1,4 @@
-**Contributors**
+**cdContributors**
 
 <!-- prettier-ignore-start -->
 
@@ -8,8 +8,8 @@
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Leo Estrella](https://github.com/sharpsight44)
-- [Jazmine "Divine" Arizala](https://github.com/earthlydev)
- -[Rahul kumar](https://github.com/rahul152-ai)
+- [Jazmine &#34;Divine&#34; Arizala](https://github.com/earthlydev)
+  -[Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
@@ -98,6 +98,7 @@
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Vinit Hemadri](https://github.com/Vinitvh)
+- [Jagannatha Bylahalli](https://github.com/JaganBylahalli)
 - [Prayag](https://github.com/Prayag-09)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
 - [Mahreen Abedin](https://github.com/Mahreenn)
@@ -228,7 +229,7 @@
 - [Sasiru Ravihansa](https://github.com/sasirura)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
 - [Luis Castillo](https://github.com/LuisCastilloKC)
-- [Destiny O'Connor](https://github.com/SuperDeafveloper)
+- [Destiny O&#39;Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Midhuram Manoj](https://github.com/Midhu7)
 - [Ashley-Chen](https://github.com/ashlchen)
@@ -807,7 +808,7 @@
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Josue Santos-Ramirez](https://github.com/Josue-SR)
 - [John Mbugua](https://github.com/mbuguaj254)
-- [Shaun O'Grady](https://github.com/ogradyso)
+- [Shaun O&#39;Grady](https://github.com/ogradyso)
 - [Shevindi Rodrigo](https://github.com/ShevindiRodrigo)
 - [Aakanksha Desai](https://github.com/Aakanksha-Desai)
 - [Rushin Shah](https://github.com/RushinShah22)
@@ -1160,4 +1161,5 @@
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
 - [pranshu Taneja](https://github.com/pranshu-taneja)
+
 <!-- prettier-ignore-end -->
