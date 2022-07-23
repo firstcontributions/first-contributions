@@ -9,7 +9,6 @@
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Leo Estrella](https://github.com/sharpsight44)
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
-
  -[Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
