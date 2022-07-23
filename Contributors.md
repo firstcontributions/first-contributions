@@ -18,6 +18,7 @@
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Byeongun Park](https://github.com/bupark82)
+- [Chiemelie Chinweuba](https://github.com/Emelie4)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Andika Eka Kurnia](https://github.com/dikdns)
