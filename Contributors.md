@@ -1,7 +1,6 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Sandesh Verma](https://github.com/ren276)
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
