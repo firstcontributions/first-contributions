@@ -872,6 +872,7 @@
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
 - [Rohan Janardhan](https://github.com/rxhxn30)
+- [unlucky-cat](https://github.com/unlucky-cat)
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Ruth Wata](https://github.com/R-N-Wata)
 - [Sadie Manicom](https://github.com/sadienicole)
