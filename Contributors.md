@@ -525,6 +525,7 @@
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [Gatlin Cruz](https://github.com/gatlincruz2)
 - [5ynchronized](https://github.com/5ynchronizeD)
+- [Liran Goldman](https://github.com/LGGC)
 - [Chris Morin](https://github.com/christophermorin)
 - [Redekian](https://github.com/Redekian)
 - [ritik jain](https://github.com/RJ025)
