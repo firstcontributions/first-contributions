@@ -49,6 +49,7 @@
 - [Rachit Lal](https://github.com/rachitlal-cc)
 - [kelvin Kelechi](https://github.com/PromiseMT)
 - [Roopaksh](https://github.com/Roopaksh1)
+- [Khosraw Azizi](https://github.com/khosraw)
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
 - [Byeongun Park](https://github.com/bupark82)
