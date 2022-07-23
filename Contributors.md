@@ -18,6 +18,7 @@
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Arnav Kamath](https://github.com/arnalph)
 - [Sadeedpv](https://github.com/Sadeedpv)
+- [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Ponder E. Stine](https://github.com/ponderstine)
