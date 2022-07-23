@@ -416,6 +416,7 @@
 - [Dev G](https://github.com/20CE034)
 - [Birame Ndoye](https://github.com/biramendoye)
 - [Lionel](https://github.com/myominhtoo)
+- [Aivoric85](https://github.com/Aivoric85)
 - [Karthik Vaithin](https://github.com/kvaithin)
 - [Muneeb Rehman](https://github.com/mrehmm001)
 - [Vaibhav Dubey](https://github.com/Dubeyvaib)
