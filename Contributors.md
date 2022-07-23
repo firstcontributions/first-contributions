@@ -574,6 +574,7 @@
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Abdur Rehman](https://github.com/mann-codes2014)
+- [Patrick Tung](https://github.com/Patrickrtu)
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
