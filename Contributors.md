@@ -111,6 +111,7 @@
 - [Christina Ries](https://github.com/cxxxries)
 - [Neel Awsare](https://github.com/awsare)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Harel Cohen](https://github.com/harel-cohen)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
 - [Amos Mwongela](https://github.com/4ouR04)
