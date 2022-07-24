@@ -1199,6 +1199,8 @@ Ali Hassan
 - [A Saryn](https://github.com/asaryn)
 - [Takuya Kikuchi](https://github.com/takuyakikuchi)
 - [Mikhil](https://github.com/doomerofepics)
+- [Ryan Olsen](https://github.com/Ryankolsen)
 - [Alessandro Consorti](https://github.com/cybergodot)
 - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
+
 <!-- prettier-ignore-end -->
