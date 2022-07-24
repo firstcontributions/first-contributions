@@ -997,6 +997,7 @@ Ali Hassan
 - [lougau92](https://github.com/lougau92)
 - [Anushka](https://github.com/Anushka1503)
 - [Dave Aigbe](https://github.com/DaveAigbe)
+  Matheus Trilha Koch
 - [Laurie H](https://github.com/coderlore)
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
