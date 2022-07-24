@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Sandesh Verma](https://github.com/ren276)
+- [Aldo Arista 🐱‍](https://github.com/aldoawp) 
 - [Ashwath Stark](https://github.com/ashwathstark)
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
@@ -32,7 +33,7 @@
 - [Elena Sarnouk](https://github.com/elenasarnouk)
 - [Daniel Bowen](https://github.com/Dbowen89)
 - [Rakesh Nagapuri](https://github.com/zerak222)
-- [Mohammad Rajabloo(https://github.com/MohammadRajabloo1991)
+- [Mohammad Rajabloo](https://github.com/MohammadRajabloo1991)
 - [Wilman Vinueza](https://github.com/wildanvin)
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
@@ -1114,15 +1115,15 @@
 - [Daniel Greene](https://github.com/MonkeySoup318)
 - [tsX369](https://github.com/tsX369)
 - [Gavin Barnes](https://github.com/cantidosan)
-  sahil prasad
-  [tusmm] (https://github.com/tusmm)
+- sahil prasad
+- [tusmm](https://github.com/tusmm)
 - [Manu Peralta](https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Steven Drake](https://github.com/sdrake01)
-- [Yosef_kiali] (https://github.com/kiali-labs)
+- [Yosef_kiali](https://github.com/kiali-labs)
 - [Amrit](https://github.com/thelastpawn009)
 - [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
