@@ -46,6 +46,7 @@ Ali Hassan
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
 - [JK Lagrosa](https://github.com/jklagrosa)
+- [Kirti Jain](https://github.com/kirtijain627)
 - [Nabeel Ahmed](https://github.com/nabeelahmedjh)
 - [Richard Adebayo](https://github.com/richardebrain)
 - [Chetan Dhongade](https://github.com/binary-ibex)
