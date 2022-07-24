@@ -204,6 +204,7 @@ Ali Hassan
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - [Brady Camp](https://github.com/bradyjcamp)
+- [Noam Peleg](https://github.com/Peleg-Noam)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Gideon Balogun](https://github.com/itzgeebee)
 - [Leron Tonge](https://github.com/lerontonge)
