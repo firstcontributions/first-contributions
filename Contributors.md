@@ -8,7 +8,7 @@
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Leo Estrella](https://github.com/sharpsight44)
-Ali Hassan
+- [Ali Hassan](https://github.com/alihassan-here)
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
