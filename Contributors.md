@@ -84,6 +84,7 @@
 - [Rishi Kejriwal](https://github.com/Kej-r03)
 - [Harihara Subramanian](https://github.com/HariharaSubramanianM)
 - [Kyle Young](https://github.com/KyleYoung69)
+- [Rajeev Krishnan V](https://github.com/rajeevkrishnanv)
 - [Basilios](https://github.com/basilioss/)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Babba Voss](https://github.com/Lordvoss/)
