@@ -128,6 +128,7 @@ Ali Hassan
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Christina Ries](https://github.com/cxxxries)
 - [Neel Awsare](https://github.com/awsare)
+- [Antony Fox-Bramwell](https://github.com/afoxbr)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Harel Cohen](https://github.com/harel-cohen)
 - [Jordan Garvey](https://github.com/jordangarvey)
