@@ -1178,4 +1178,5 @@
 - [pranshu Taneja](https://github.com/pranshu-taneja)
 - [Roshan Sharma](https://github.com/imrosun)
 - [A Saryn](https://github.com/asaryn)
+- [Takuya Kikuchi](https://github.com/takuyakikuchi)
 <!-- prettier-ignore-end -->
