@@ -140,6 +140,7 @@ Ali Hassan
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Laban Bwire](https://github.com/delabi/first-contributions)
 - [Jay](https://github.com/jaghara)
+- [Hyelda Dzarma](https://github.com/hyelnatzz)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Zakria Mansur](https://github.com/zakria00)
 - [Elvis Osano](https://github.com/Elvis-Osano)
