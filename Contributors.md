@@ -129,6 +129,7 @@
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
 - [TJ Ries](https://github.com/tj-ries)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
+- [Laban Bwire](https://github.com/delabi/first-contributions)
 - [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Zakria Mansur](https://github.com/zakria00)
