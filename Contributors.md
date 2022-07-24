@@ -534,6 +534,7 @@
 - [Neha Santani](https://github.com/NehaSantani)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
+- [BrunchWithYou](https://github.com/BrunchWithYou)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [Gatlin Cruz](https://github.com/gatlincruz2)
