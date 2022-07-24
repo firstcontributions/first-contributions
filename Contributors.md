@@ -1175,5 +1175,6 @@
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
 - [pranshu Taneja](https://github.com/pranshu-taneja)
+- [Roshan Sharma](https://github.com/imrosun)
 - [A Saryn](https://github.com/asaryn)
 <!-- prettier-ignore-end -->
