@@ -1192,4 +1192,5 @@ Ali Hassan
 - [Takuya Kikuchi](https://github.com/takuyakikuchi)
 - [Mikhil](https://github.com/doomerofepics)
 - [Alessandro Consorti](https://github.com/cybergodot)
+- [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
 <!-- prettier-ignore-end -->
