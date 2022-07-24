@@ -8,6 +8,7 @@
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
+- [Aditya kumar] (https://github.com/codekid20)
 - [Leo Estrella](https://github.com/sharpsight44)
 Ali Hassan
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
