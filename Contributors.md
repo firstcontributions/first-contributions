@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Sandesh Verma](https://github.com/ren276)
+- [Ian Macharia](https://github.com/imac7)
 - [Ashwath Stark](https://github.com/ashwathstark)
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
