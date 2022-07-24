@@ -19,6 +19,7 @@ Ali Hassan
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [Arnav Kamath](https://github.com/arnalph)
+- [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
 - [Leianne Fajutagana](https://github.com/leifaj)
