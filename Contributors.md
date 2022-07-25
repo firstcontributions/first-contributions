@@ -54,6 +54,7 @@
 - [JK Lagrosa](https://github.com/jklagrosa)
 - [Kirti Jain](https://github.com/kirtijain627)
 - [Nabeel Ahmed](https://github.com/nabeelahmedjh)
+- [Numan Iftikhar](https://github.com/numan-iftikhar)
 - [Richard Adebayo](https://github.com/richardebrain)
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
