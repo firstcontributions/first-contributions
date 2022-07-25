@@ -1213,5 +1213,6 @@
 - [Alessandro Consorti](https://github.com/cybergodot)
 - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
 - [Alberto Pabón](https://github.com/pabon-alberto)
+- [Eleonore Bivaud](https://github.com/EleonoreBivo)
 
 <!-- prettier-ignore-end -->
