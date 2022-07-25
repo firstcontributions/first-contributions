@@ -1219,5 +1219,5 @@
 - [Alberto Pabón](https://github.com/pabon-alberto)
 - [Eleonore Bivaud](https://github.com/EleonoreBivo)
 - [MohammadJavad Moshiri](https://github.com/mjmoshiri)
-
+- [Aditya Verma](https://github.com/Addy2408)
 <!-- prettier-ignore-end -->
