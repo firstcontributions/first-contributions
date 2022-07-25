@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Gunjan Modi](https://github.com/gunjanmodi)
+- [Rajat Raj](https://github.com/rajatrjj)
 - [Sandesh Verma](https://github.com/ren276)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp) 
 - [Andrew Patasik](https://github.com/andrewpatasik)
@@ -571,6 +572,7 @@
 - [Chris Morin](https://github.com/christophermorin)
 - [Redekian](https://github.com/Redekian)
 - [ritik jain](https://github.com/RJ025)
+
 - [Kirk Corwin](https://github.com/KirkCorwin)
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
 - [Narhzih](https://github.com/narhzih)
