@@ -1199,6 +1199,7 @@
 - [Roshan Sharma](https://github.com/imrosun)
 - [A Saryn](https://github.com/asaryn)
 - [Takuya Kikuchi](https://github.com/takuyakikuchi)
+- [David Lopez](https://github.com/dlopez0882)
 - [Mikhil](https://github.com/doomerofepics)
 - [Ryan Olsen](https://github.com/Ryankolsen)
 - [Alessandro Consorti](https://github.com/cybergodot)
