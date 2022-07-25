@@ -66,6 +66,7 @@
 - [Hrittik Garain](https://github.com/hrittik2002)
 - [Rachit Lal](https://github.com/rachitlal-cc)
 - [kelvin Kelechi](https://github.com/PromiseMT)
+- [William Chaffin] (https://github.com/IvoryCrayon)
 - [Roopaksh](https://github.com/Roopaksh1)
 - [Khosraw Azizi](https://github.com/khosraw)
 - [win21H2](https://github.com/win21H2)
