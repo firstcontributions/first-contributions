@@ -19,6 +19,7 @@
 - [Priyank Patil](https://github.com/priyank003)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
+- [Andrea Coluzzi](https://github.com/coluzziandrea)
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Wayne Cen](https://github.com/waynecen)
