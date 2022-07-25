@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Sandesh Verma](https://github.com/ren276)
+- [Aldo Arista 🐱‍](https://github.com/aldoawp) 
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
 - [Ashwath Stark](https://github.com/ashwathstark)
@@ -1133,8 +1134,8 @@
 - [Daniel Greene](https://github.com/MonkeySoup318)
 - [tsX369](https://github.com/tsX369)
 - [Gavin Barnes](https://github.com/cantidosan)
-  sahil prasad
-  [tusmm](https://github.com/tusmm)
+- sahil prasad
+- [tusmm](https://github.com/tusmm)
 - [Manu Peralta](https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Sejal Mishra](https://github.com/sejalmishra)
