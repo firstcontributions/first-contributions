@@ -1227,5 +1227,6 @@
 - [MohammadJavad Moshiri](https://github.com/mjmoshiri)
 - [Aditya Verma](https://github.com/Addy2408)
 - [Vipul Agrawal](https://github.com/vipulagr890)
+- [Okolo Arthur](https://github.com/OkoloArt)
 
 <!-- prettier-ignore-end -->
