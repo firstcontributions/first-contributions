@@ -629,6 +629,7 @@
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
+- [Lauren Monteiro](https://github.com/laurenmonteiro)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
 - [Yatee Singh](https://github.com/yatee-singh)
