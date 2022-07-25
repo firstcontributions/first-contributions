@@ -1120,6 +1120,7 @@
 - [bakerdude39](https://github.com/bakerdude39)
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
+- [Ryga](https://github.com/ryga9)
 - [SeokJoon](https://github.com/eshc123)
 - [Orange Ng](https://github.com/OrangeNg)
 - [Barok Dagim](https://github.com/BarokDG)
