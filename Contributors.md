@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [satoko 🐈‍⬛](https://github.com/satoko)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Sandesh Verma](https://github.com/ren276)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp) 
@@ -18,6 +19,7 @@
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
+- [Ivan Fitzpatrick](https://github.com/iftzp)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Andrea Coluzzi](https://github.com/coluzziandrea)
@@ -130,6 +132,7 @@
 - [trsaints](https://github.com/trsaints)
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
+- [Dor Liberman](https://github.com/dorlib)
 - [TEJAS DHAMECHA](https://github.com/notanmay)
 - [Akshay Babbar](https://github.com/akshay-babbar)
 - [Yousef Sherian](https://github.com/yousef-dev1)
@@ -1220,4 +1223,6 @@
 - [Eleonore Bivaud](https://github.com/EleonoreBivo)
 - [MohammadJavad Moshiri](https://github.com/mjmoshiri)
 - [Aditya Verma](https://github.com/Addy2408)
+- [Vipul Agrawal](https://github.com/vipulagr890)
+
 <!-- prettier-ignore-end -->
