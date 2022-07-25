@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [satoko 🐈‍⬛](https://github.com/satoko)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Sandesh Verma](https://github.com/ren276)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp) 
