@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [satoko 🐈‍⬛](https://github.com/satoko)
+- [Jeremy Quihano](https://github.com/jquihano)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Sandesh Verma](https://github.com/ren276)
