@@ -1222,5 +1222,6 @@
 - [Alberto Pabón](https://github.com/pabon-alberto)
 - [Eleonore Bivaud](https://github.com/EleonoreBivo)
 - [MohammadJavad Moshiri](https://github.com/mjmoshiri)
+- [Vipul Agrawal](https://github.com/vipulagr890)
 
 <!-- prettier-ignore-end -->
