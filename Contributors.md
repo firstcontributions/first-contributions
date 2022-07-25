@@ -1204,5 +1204,6 @@
 - [Ryan Olsen](https://github.com/Ryankolsen)
 - [Alessandro Consorti](https://github.com/cybergodot)
 - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
+- [Alberto Pabón](https://github.com/pabon-alberto)
 
 <!-- prettier-ignore-end -->
