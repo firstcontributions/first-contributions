@@ -1,14 +1,14 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Maxi Aditya Kusuma](https://github.com/tustoz)
 - [Sandesh Verma](https://github.com/ren276)
 - [Ian Macharia](https://github.com/imac7)
 - [Ashwath Stark](https://github.com/ashwathstark)
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
-- [Aditya kumar] (https://github.com/codekid20)
+- [Aditya kumar](https://github.com/codekid20)
 - [Leo Estrella](https://github.com/sharpsight44)
 Ali Hassan
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
@@ -37,7 +37,7 @@ Ali Hassan
 - [Jaturon JT](https://github.com/Jattyz)
 - [Daniel Bowen](https://github.com/Dbowen89)
 - [Rakesh Nagapuri](https://github.com/zerak222)
-- [Mohammad Rajabloo(https://github.com/MohammadRajabloo1991)
+- [Mohammad Rajabloo](https://github.com/MohammadRajabloo1991)
 - [Wilman Vinueza](https://github.com/wildanvin)
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
