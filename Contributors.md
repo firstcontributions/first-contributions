@@ -112,6 +112,7 @@
 - [Henry Burii](https://github.com/buriihenry)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Bryan Emond](https://github.com/BryanEmond)
+- [Namrata Ruchandani](https://github.com/Namrata2108)
 - [HAH](https://github.com/HtetAungHtet)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
