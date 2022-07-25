@@ -1231,5 +1231,6 @@
 - [Aditya Verma](https://github.com/Addy2408)
 - [Vipul Agrawal](https://github.com/vipulagr890)
 - [Okolo Arthur](https://github.com/OkoloArt)
+- [Robert Bui](https://github.com/robert-mdh-bui)
 
 <!-- prettier-ignore-end -->
