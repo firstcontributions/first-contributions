@@ -12,6 +12,7 @@
 - [Christopher Palileo](https://github.com/cpalileo)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Aditya kumar](https://github.com/codekid20)
+- [Alloun Mohand](https://https://github.com/Mohand2)
 - [Leo Estrella](https://github.com/sharpsight44)
 - [Ali Hassan](https://github.com/alihassan-here)
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
