@@ -7,6 +7,7 @@
 - [Ashwath Stark](https://github.com/ashwathstark)
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
+- [Christopher Palileo](https://github.com/cpalileo)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Aditya kumar] (https://github.com/codekid20)
 - [Leo Estrella](https://github.com/sharpsight44)
