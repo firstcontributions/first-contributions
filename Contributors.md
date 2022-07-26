@@ -27,6 +27,7 @@
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
+- [Rai Shahnawaz Khan](https://github.com/raishahnawaz95)
 - [Ivan Fitzpatrick](https://github.com/iftzp)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
