@@ -145,6 +145,7 @@
 - [trsaints](https://github.com/trsaints)
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
+- [Sourav Rai](https://github.com/souraviarrai)
 - [Dor Liberman](https://github.com/dorlib)
 - [TEJAS DHAMECHA](https://github.com/notanmay)
 - [Akshay Babbar](https://github.com/akshay-babbar)
