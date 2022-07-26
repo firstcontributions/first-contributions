@@ -12,6 +12,7 @@
 - [Aldo Arista 🐱‍](https://github.com/aldoawp) 
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
+- [Anand Dubey]
 - [Ashwath Stark](https://github.com/ashwathstark)
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
