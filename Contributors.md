@@ -1210,6 +1210,7 @@
 - [Alice Springfeld](https://github.com/alicespringfeld)
 - [Debbie Thompson](https://github.com/debbiect246)
 - [Tom Kennedy](https://github.com/Skyrub-dev)
+- [Andrey Kovalchuk](https://github.com/andrey1186)
 - [Mohammed Hashique A](https://github.com/hashiq300)
 - [Anomitro Das](https://github.com/ayanokoji024)
 - [Matthew Baker](https://github.com/leftstanding)
