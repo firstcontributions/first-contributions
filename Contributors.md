@@ -369,6 +369,7 @@
 - [Shafayet Khan Shafee](https://github.com/shafayetShafee)
 - [Amina SAOUDI](https://github.com/AminaSaoudi)
 - [José Arias Canto](https://github.com/joseearias)
+- [Mohamed Mahi TOURE](https://github.com/touremahhi)
 - [Godswill Omonkhodion](https://github.com/Owillz01)
 - [Sean Chua](https://github.com/SeansC12)
 - [Dallin Hendig](https://github.com/Dallin1H)
