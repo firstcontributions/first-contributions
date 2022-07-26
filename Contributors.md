@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Borhan Uddin](https://github.com/borhan-dev/)
+- [Ricky Hernandez](https://github.com/code2244)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
