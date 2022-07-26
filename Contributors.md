@@ -650,6 +650,7 @@
 - [Franco Filippi](https://github.com/frcofilippi)
 - [Lovemore Daka](https://github.com/beautifulboy11)
 - [Ahmad Humayun](https://github.com/AhmadHumayun)
+- [Edwin Choi](https://github.com/ec-coding)
 - [Zurabi Chkhikvadze](https://github.com/ZuieS)
 - [Tristan](https://github.com/TristanHarris2)
 - [Pawel Lasatowicz](https://github.com/Pawlikon)
