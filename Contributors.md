@@ -5,6 +5,7 @@
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
+- [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Anand]
