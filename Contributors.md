@@ -42,6 +42,7 @@
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Ponder E. Stine](https://github.com/ponderstine)
+- RobertTheLeft
 - [Byeongun Park](https://github.com/bupark82)
 - [Alin Mercasi](https://github.com/alinmercasi)
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
