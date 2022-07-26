@@ -100,6 +100,7 @@
 - [Naveen Sequeira](https://github.com/navseq)
 - [Alexander Castillo](https://github.com/Jhuiice)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
+- [Arnett Regina](https://github.com/rarne12)
 - [Anika Roy](https://github.com/Anika-Roy)
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
 - [DannyLin](https://github.com/danny-lin714)
