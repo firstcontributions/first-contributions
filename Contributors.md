@@ -1228,6 +1228,7 @@
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [John Wheldale](https://github.com/whejy)
 - [Pedro Veríssimo](https://github.com/pbv2)
+- [Ohr Tsadok](https://github.com/thelight413)
 - [Gavin M](https://github.com/gmeeker99)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
 - [Triss Marsh](https://github.com/distriss)
