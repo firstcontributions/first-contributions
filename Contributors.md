@@ -786,6 +786,7 @@
 - [Anthony Church](https://github.com/ITedInnovator)
 - [Leomhann](https://github.com/Benjamin-Boy)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
+- [Alex Kokobane](https://github.com/alexkokobane)
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [Carmel Mary Ugim](https://github.com/Carmel-Mary)
