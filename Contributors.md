@@ -7,6 +7,7 @@
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
+- [Anand]
 - [Sandesh Verma](https://github.com/ren276)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp) 
