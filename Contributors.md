@@ -36,6 +36,7 @@
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Wayne Cen](https://github.com/waynecen)
+- [James Wigg] (https://github.com/Shaydas1)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [AllieGie] (https://github.com/AllieGie)
