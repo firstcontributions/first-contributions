@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Issac Lopez](https://github.com/Issac-Lopez)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Gunjan Modi](https://github.com/gunjanmodi)
