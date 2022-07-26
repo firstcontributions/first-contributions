@@ -40,6 +40,7 @@
 - [Arnav Kamath](https://github.com/arnalph)
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Sadeedpv](https://github.com/Sadeedpv)
+- [Sumith Sreedhar](https://github.com/sumith-sreedhar)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
