@@ -1259,5 +1259,6 @@
 - [Okolo Arthur](https://github.com/OkoloArt)
 - [Robert Bui](https://github.com/robert-mdh-bui)
 - [Umesh Verma](https://github.com/umesh-verma)
+- [Jason Qiu](https://github.com/Jqiu149)
 
 <!-- prettier-ignore-end -->
