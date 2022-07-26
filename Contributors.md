@@ -1237,5 +1237,6 @@
 - [Vipul Agrawal](https://github.com/vipulagr890)
 - [Okolo Arthur](https://github.com/OkoloArt)
 - [Robert Bui](https://github.com/robert-mdh-bui)
+- [Umesh Verma](https://github.com/umesh-verma)
 
 <!-- prettier-ignore-end -->
