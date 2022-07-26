@@ -1159,6 +1159,7 @@
 - [SZH](https://github.com/Shweryl)
 - [Ryga](https://github.com/ryga9)
 - [SeokJoon](https://github.com/eshc123)
+- [Sam Ho](https://github.com/samhoooo)
 - [Orange Ng](https://github.com/OrangeNg)
 - [Barok Dagim](https://github.com/BarokDG)
 - [Devesh Tulshyan](https://github.com/Devesh225)
