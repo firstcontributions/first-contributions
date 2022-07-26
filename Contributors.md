@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [satoko 🐈‍⬛](https://github.com/satoko)
@@ -11,7 +12,7 @@
 - [Anand]
 - [Sandesh Verma](https://github.com/ren276)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
-- [Aldo Arista 🐱‍](https://github.com/aldoawp) 
+- [Aldo Arista 🐱‍](https://github.com/aldoawp)
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
 - [Anand Dubey]
@@ -1033,8 +1034,7 @@
 - [alkndoom](https://github.com/alkndoom)
 - [lougau92](https://github.com/lougau92)
 - [Anushka](https://github.com/Anushka1503)
-- [Dave Aigbe](https://github.com/DaveAigbe)
-  Matheus Trilha Koch
+- [Dave Aigbe](https://github.com/DaveAigbe) Matheus Trilha Koch
 - [Laurie H](https://github.com/coderlore)
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
@@ -1245,5 +1245,5 @@
 - [Okolo Arthur](https://github.com/OkoloArt)
 - [Robert Bui](https://github.com/robert-mdh-bui)
 - [Umesh Verma](https://github.com/umesh-verma)
-
+- [steve Lee](https://github.com/201steve)
 <!-- prettier-ignore-end -->
