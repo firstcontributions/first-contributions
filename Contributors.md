@@ -189,6 +189,7 @@
 - [Andreas Nilsson](https://github.com/anil9)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
+- [Kenny Patrick](https://github.com/kenny-patrick)
 - [Monteiro H.](https://github.com/monteiroh)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Monteiro H.](https://github.com/monteiroh)
