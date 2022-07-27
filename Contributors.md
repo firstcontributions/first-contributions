@@ -17,6 +17,7 @@
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Anand]
 - [Sandesh Verma](https://github.com/ren276)
+- [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp) 
 - [Andrew Patasik](https://github.com/andrewpatasik)
