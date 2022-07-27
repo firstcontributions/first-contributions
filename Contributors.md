@@ -1284,5 +1284,6 @@ Karol Sykała
 - [Bhavya Muni](https://github.com/BhavyaMuni)
 - [jbarber07](https://github.com/jbarber07/first-contributions)
 - [zhoujunyi](https://github.com/micro-coding)
+- [Ritle](https://github.com/RitleHub)
 
 <!-- prettier-ignore-end -->
