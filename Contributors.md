@@ -88,6 +88,7 @@
 - [Richard Adebayo](https://github.com/richardebrain)
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
+- [Mohd Adil](https://github.com/Mohd-Adil-JMI)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Hrittik Garain](https://github.com/hrittik2002)
 - [Rachit Lal](https://github.com/rachitlal-cc)
