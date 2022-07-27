@@ -1198,6 +1198,7 @@
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Steven Drake](https://github.com/sdrake01)
+Karol Sykała
 - [Yosef_kiali](https://github.com/kiali-labs)
 - [Amrit](https://github.com/thelastpawn009)
 - [DocHaaz](https://github.com/DocHaaz)
