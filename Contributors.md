@@ -1256,6 +1256,7 @@ Karol Sykała
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
 - [Robotduinom](https://github.com/robotduinom)
+- [Priyanshu Gupta](https://github.com/priyanshu411/)
 - [Ibrahim Khalil](https://github.com/bsse1009)
 - [Cristi](https://github.com/cristi00794)
 - [Sanudra](https://github.com/samudra-perera)
