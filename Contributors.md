@@ -1270,5 +1270,6 @@
 - [Robert Bui](https://github.com/robert-mdh-bui)
 - [Umesh Verma](https://github.com/umesh-verma)
 - [Jason Qiu](https://github.com/Jqiu149)
+- [Saumya Singh](https://github.com/saumya1singh)
 
 <!-- prettier-ignore-end -->
