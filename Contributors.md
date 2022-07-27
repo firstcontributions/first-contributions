@@ -66,6 +66,7 @@
 - [Daniel Bowen](https://github.com/Dbowen89)
 - [Rakesh Nagapuri](https://github.com/zerak222)
 - [Mohammad Rajabloo](https://github.com/MohammadRajabloo1991)
+- [Krisztián Kiss](https://github.com/septimus1213)
 - [Wilman Vinueza](https://github.com/wildanvin)
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
