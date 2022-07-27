@@ -207,6 +207,7 @@
 - [Holmgren](https://github.com/holmgrendev)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Monteiro H.](https://github.com/monteiroh)
+- [Mako](https://github.com/makogra)
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
