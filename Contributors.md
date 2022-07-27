@@ -1282,5 +1282,6 @@
 - [qianpeng li](https://github.com/QianpengLi577)
 - [Bhavya Muni](https://github.com/BhavyaMuni)
 - [jbarber07](https://github.com/jbarber07/first-contributions)
+- [zhoujunyi](https://github.com/micro-coding)
 
 <!-- prettier-ignore-end -->
