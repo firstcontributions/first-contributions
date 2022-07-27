@@ -9,6 +9,7 @@
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
+- [Navin Narayanan] (https://github.com/navincodesalot)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Anand]
