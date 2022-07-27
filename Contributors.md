@@ -404,7 +404,7 @@
 - [yohei-ito](https://github.com/yohei-ito)
 - [Shubh](https://github.com/imshubh69)
 - [DeIn221](https://github.com/DeIn221)
--
+- [Pepe Gomes](https://github.com/JLGOrtega)
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [E Rod](https://github.com/Proximacentauri-b)
