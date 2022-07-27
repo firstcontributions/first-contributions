@@ -8,6 +8,7 @@
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
+- [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Navin Narayanan] (https://github.com/navincodesalot)
 - [Gunjan Modi](https://github.com/gunjanmodi)
