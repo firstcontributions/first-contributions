@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Ricky Hernandez](https://github.com/code2244)
@@ -16,7 +17,7 @@
 - [Anand]
 - [Sandesh Verma](https://github.com/ren276)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
-- [Aldo Arista 🐱‍](https://github.com/aldoawp) 
+- [Aldo Arista 🐱‍](https://github.com/aldoawp)
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
 - [Anand Dubey]
@@ -1207,6 +1208,7 @@
 - [Daniel Belarmino](https://github.com/belarba)
 - [Adhiraj Soparkar](https://github.com/Adhiraj10)
 - [Md. Emon Prodhan](https://github.com/emon-ai)
+- [f.k](https://github.com/fk00750)
 - [Labib Hibatullah](https://github.com/lalabib)
 - [henriquezna](https://github.com/henriquezna)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
@@ -1274,5 +1276,4 @@
 - [Jason Qiu](https://github.com/Jqiu149)
 - [Saumya Singh](https://github.com/saumya1singh)
 - [qianpeng li](https://github.com/QianpengLi577)
-
 <!-- prettier-ignore-end -->
