@@ -824,6 +824,7 @@
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
 - [Kristl Yuen](https://github.com/kristlyuen)
+- [Cristina Outeda](https://github.com/crisouteda)
 - [Manoj Kumar](https://github.com/mtkumar123/)
 - [WeedsFrenzy](https://github.com/WeedsFrenzy)
 - [Pascale Delaunay](https://github.com/pascalecodes)
