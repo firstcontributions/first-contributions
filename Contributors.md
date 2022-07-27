@@ -34,6 +34,7 @@
 - [Priyank Patil](https://github.com/priyank003)
 - [Rai Shahnawaz Khan](https://github.com/raishahnawaz95)
 - [Ivan Fitzpatrick](https://github.com/iftzp)
+- [Alexandru Sirbu](https://github.com/AlexandruPaul21)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Andrea Coluzzi](https://github.com/coluzziandrea)
