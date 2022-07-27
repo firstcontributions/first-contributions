@@ -129,6 +129,7 @@
 - [Basilios](https://github.com/basilioss/)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Babba Voss](https://github.com/Lordvoss/)
+- [KingLyrics](https://github.com/KingLyrics/)
 - [ARKARLIN](https://github.com/christopher4RY)
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
