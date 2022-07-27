@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Borhan Uddin](https://github.com/borhan-dev/)
+- [Darren John de Lima](https://github.com/Darthagnon/)
 - [Ricky Hernandez](https://github.com/code2244)
 - [James Coates](https://github.com/nexuspcs)
 - [Issac Lopez](https://github.com/Issac-Lopez)
