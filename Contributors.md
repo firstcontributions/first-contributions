@@ -258,6 +258,7 @@
 - [Abhiram Santhosh](https://github.com/mayopik)
 - [Brian Muimi](https://github.com/brianmuimi)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
+- [Chan K](https://github.com/KChandanGITHUB)
 - [Bibin Biju](https://github.com/bib265)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
