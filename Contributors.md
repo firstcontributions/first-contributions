@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+-[Amir](https://github.com/amir1611)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
