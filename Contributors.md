@@ -53,6 +53,7 @@
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Wayne Cen](https://github.com/waynecen)
+- [James Wigg] (https://github.com/Shaydas1)
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [James Wigg] (https://github.com/Shaydas1)
 - [Scott Sterling](https://github.com/scottasterling)
