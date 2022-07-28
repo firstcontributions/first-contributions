@@ -1293,5 +1293,6 @@ Karol Sykała
 - [zhoujunyi](https://github.com/micro-coding)
 - [Ritle](https://github.com/RitleHub)
 - [Lakshman Kambam](https://github.com/klakshman318)
+- [Chi-lun Chu] (https://github.com/ChilunC)
 
 <!-- prettier-ignore-end -->
