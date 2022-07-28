@@ -1306,5 +1306,5 @@ Karol Sykała
 - [Janae Stewart](https://github.com/janaestewart)
 - [Chi-lun Chu] (https://github.com/ChilunC)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
-
+- [Jsvends] (https://github.com/jsvends)
 <!-- prettier-ignore-end -->
