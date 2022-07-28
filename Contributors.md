@@ -94,6 +94,7 @@
 - [Richard Adebayo](https://github.com/richardebrain)
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
+- [Matthew Hutchinson](https://github.com/sedgwuck)
 - [Mohd Adil](https://github.com/Mohd-Adil-JMI)
 - [Henry Arboladora](https://github.com/Henry-Arb)
 - [Hrittik Garain](https://github.com/hrittik2002)
