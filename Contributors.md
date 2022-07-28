@@ -16,6 +16,7 @@
 - [Navin Narayanan] (https://github.com/navincodesalot)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
+- [Harsha HL](https://github.com/harsha-hl)
 - [Anand]
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
 - [Sandesh Verma](https://github.com/ren276)
