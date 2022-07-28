@@ -806,6 +806,7 @@
 - [Albgp22](https://github.com/albgp22)
 - [Sabrina](https://github.com/eggsmayhem)
 - [Xevziler](https://github.com/Xevziler)
+- [Jaden Hong](https://github.com/thisjdn)
 - [Kerplunkx](https://github.com/Kerplunkx)
 - [James Peeler](https://github.com/jamespeeler)
 - [Magnus Kraft](https://github.com/manx)
