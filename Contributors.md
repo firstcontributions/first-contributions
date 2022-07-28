@@ -1298,5 +1298,6 @@ Karol Sykała
 - [Ritle](https://github.com/RitleHub)
 - [Lakshman Kambam](https://github.com/klakshman318)
 - [Chi-lun Chu] (https://github.com/ChilunC)
+- [Arturo Rodrigo] (https://github.com/ArturRod)
 
 <!-- prettier-ignore-end -->
