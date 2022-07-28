@@ -1300,5 +1300,5 @@ Karol Sykała
 - [Lakshman Kambam](https://github.com/klakshman318)
 - [Chi-lun Chu] (https://github.com/ChilunC)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
-
+- [Rohan Pawar](https://github.com/rohaan-pawar)
 <!-- prettier-ignore-end -->
