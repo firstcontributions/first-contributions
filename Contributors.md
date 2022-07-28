@@ -609,6 +609,7 @@
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [David Miller](https://github.com/davidmiller2013)
+- [Joevanie Canete Jr](https://github.com/joevanie-canete-jr)
 - [Bjørnar Otterlei](https://github.com/Bcdo)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
