@@ -1301,6 +1301,7 @@ Karol Sykała
 - [zhoujunyi](https://github.com/micro-coding)
 - [Ritle](https://github.com/RitleHub)
 - [Lakshman Kambam](https://github.com/klakshman318)
+- [Janae Stewart](https://github.com/janaestewart)
 - [Chi-lun Chu] (https://github.com/ChilunC)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
 
