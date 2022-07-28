@@ -10,6 +10,7 @@
 - [Ricky Hernandez](https://github.com/code2244)
 - [James Coates](https://github.com/nexuspcs)
 - [Issac Lopez](https://github.com/Issac-Lopez)
+- [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Chris Deprez](https://github.com/Krikke99)
