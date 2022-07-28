@@ -270,6 +270,7 @@
 - [Noam Peleg](https://github.com/Peleg-Noam)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Gideon Balogun](https://github.com/itzgeebee)
+- [Chiobi Jason](https://github.com/ChiobiJason)
 - [Leron Tonge](https://github.com/lerontonge)
 - [Jack Ma](https://github.com/KingJacM)
 - [Angel Nieto](https://github.com/N-a290)
