@@ -576,6 +576,7 @@
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Akshay Kumbarwar](https://github.com/aks14075032)
 - [Nikhil Narla](https://github.com/nikhilnarla)
+- [Chris Hickey](https://github.com/kickeyhickey)
 - [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Martin Polley](https://github.com/MartinP460)
