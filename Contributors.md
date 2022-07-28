@@ -724,6 +724,7 @@
 - [Aparna Soneja](https://github.com/aparna2071)
 - [Ryan Fang](https://github.com/ryanfang5)
 - [Usman Rasheed](https://github.com/usmanlog)
+- [Jonyski](https://github.com/Jonyski)
 - [Jake Roberts](https://github.com/JRoberts012)
 - [Ritik Singh](https://github.com/bloodmonk7)
 - [Aymdi](https://github.com/Aymdi)
