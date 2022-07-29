@@ -1304,7 +1304,7 @@ Karol Sykała
 - [Ritle](https://github.com/RitleHub)
 - [Lakshman Kambam](https://github.com/klakshman318)
 - [Janae Stewart](https://github.com/janaestewart)
-- [Chi-lun Chu] (https://github.com/ChilunC)
-- [Arturo Rodrigo] (https://github.com/ArturRod)
-- [Jsvends] (https://github.com/jsvends)
+- [Chi-lun Chu](https://github.com/ChilunC)
+- [Arturo Rodrigo](https://github.com/ArturRod)
+- [Jsvends](https://github.com/jsvends)
 <!-- prettier-ignore-end -->
