@@ -652,6 +652,7 @@
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [Rahul Anand](https://github.com/rnand)
+- [Jimit Patel](https://github.com/jimit-exe)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
 - [Sergio Garcia](https://github.com/sgarciagallego)
