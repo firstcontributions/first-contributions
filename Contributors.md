@@ -1332,5 +1332,5 @@ Karol Sykała
 - [Haruki Kuriwada](https://github.com/kuri-sun)
 - [KapilKumar7](https://github.com/KapilKumar7)
 - [Angelo Galavotti](https://github.com/AngeloGalav)
-
+- [GKosheev](https://github.com/GKosheev)
 <!-- prettier-ignore-end -->
