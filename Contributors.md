@@ -184,6 +184,7 @@ Mohamad Zaid
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - [ARYAN KOHLI](https://github.com/Aryan-Kohli)
 - [Sourav Rai](https://github.com/souraviarrai)
+- [Jeff Marks](https://github.com/jefftmarks)
 - [Dor Liberman](https://github.com/dorlib)
 - [TEJAS DHAMECHA](https://github.com/notanmay)
 - [Akshay Babbar](https://github.com/akshay-babbar)
