@@ -1329,5 +1329,6 @@ Karol Sykała
 - [Hassani sayed] (https://github.com/hamzahassani)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
 - [KapilKumar7](https://github.com/KapilKumar7)
+- [Angelo Galavotti](https://github.com/AngeloGalav)
 
 <!-- prettier-ignore-end -->
