@@ -25,6 +25,7 @@
 - [Sandesh Verma](https://github.com/ren276)
 - [Andrew Skillett]
 - [happinyz]
+- [Noah Conway]
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
