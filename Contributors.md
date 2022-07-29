@@ -13,6 +13,7 @@
 - [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
+- [Acha Rha'ah](https://github.com/AchaRhah)
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Navin Narayanan] (https://github.com/navincodesalot)
