@@ -27,7 +27,7 @@
 - [happinyz]
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
-- [Aldo Arista 🐱‍](https://github.com/aldoawp) 
+- [Aldo Arista 🐱‍](https://github.com/aldoawp)
 - [Henry Le](https://github.com/henrysama58)
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
@@ -168,6 +168,7 @@
 - [Bryan Emond](https://github.com/BryanEmond)
 - [Namrata Ruchandani](https://github.com/Namrata2108)
 - [HAH](https://github.com/HtetAungHtet)
+- [Amit Chandra](https://github.com/dpedrupal)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
 - [Vinit Hemadri](https://github.com/Vinitvh)
