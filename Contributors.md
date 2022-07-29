@@ -1158,6 +1158,7 @@ Mohamad Zaid
 - [Jacob McMichael](https://github.com/jamcmich)
 - [Eric Manfred](https://github.com/emanfred)
 - [Catalin Siegling](https://github.com/Ant-Acid)
+- [Hayyan Shah](https://github.com/Hayyaaaan)
 - [Marek Sliwinski](https://github.com/Maarkhu)
 - [Scott Burton](https://github.com/klrqn)
 - [Zeneto](https://github.com/ze-nto)
