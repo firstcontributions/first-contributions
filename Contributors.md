@@ -54,7 +54,7 @@
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Wayne Cen](https://github.com/waynecen)
 - [Timi Ombe](https://github.com/SpaceTimmi)
-- [James Wigg] (https://github.com/Shaydas1)
+- [James Wigg](https://github.com/Shaydas1)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
 - [AllieGie] (https://github.com/AllieGie)
