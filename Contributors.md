@@ -20,6 +20,7 @@
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Harsha HL](https://github.com/harsha-hl)
+- [enn-dee](https://github.com/enn-dee)
 - [Anand]
 - [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
