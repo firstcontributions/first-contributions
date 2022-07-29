@@ -1050,6 +1050,7 @@
 - [dansch87](https://github.com/dansch87)
 - [Graeme Crawley](https://github.com/GraemeCrawley)
 - [Antoine Q.](https://github.com/antoine-q)
+- [Anthony Beech](https://github.com/AnthonyBeech)
 - [Omkar Ashtekar](https://github.com/omkarun)
 - [Rodrigo Casanova](https://github.com/rodrigo0345)
 - [Davis-sang](https://github.com/davis-sang)
