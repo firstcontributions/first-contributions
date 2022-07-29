@@ -21,6 +21,7 @@
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Harsha HL](https://github.com/harsha-hl)
 - [Anand]
+- [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
 - [Sandesh Verma](https://github.com/ren276)
 - [Andrew Skillett]
