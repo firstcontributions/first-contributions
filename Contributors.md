@@ -434,7 +434,7 @@
 - [yohei-ito](https://github.com/yohei-ito)
 - [Shubh](https://github.com/imshubh69)
 - [DeIn221](https://github.com/DeIn221)
--
+- 
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [E Rod](https://github.com/Proximacentauri-b)
@@ -1319,5 +1319,5 @@ Karol Sykała
 - [Chi-lun Chu] (https://github.com/ChilunC)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
-
+- [Jian Zhang](https://github.com/KeeProMise)
 <!-- prettier-ignore-end -->
