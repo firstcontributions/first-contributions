@@ -677,6 +677,7 @@
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
+- [Christian Lhie Besmanos](https://github.com/cellbesmanos)
 - [Luna Bean](https://github.com/Luna-Bean)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Amna Ahmed](https://github.com/nono5342)
