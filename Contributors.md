@@ -22,6 +22,7 @@
 - [Harsha HL](https://github.com/harsha-hl)
 - [enn-dee](https://github.com/enn-dee)
 - [Anand]
+Mohamad Zaid
 - [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
 - [Sandesh Verma](https://github.com/ren276)
