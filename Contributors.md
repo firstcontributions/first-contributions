@@ -9,6 +9,7 @@
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Ricky Hernandez](https://github.com/code2244)
 - [James Coates](https://github.com/nexuspcs)
+- [James Wigg](https://github.com/Shaydas1)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
