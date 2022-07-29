@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Amir](https://github.com/amir1611)
+- [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
@@ -1044,7 +1045,6 @@ Mohamad Zaid
 - [pastequeninja](https://github.com/pastequeninja)
 - [Texas Tangler](https://github.com/Texas-Tangler)
 - [Justin Zijlstra](https://github.com/justinzijlstra)
-- [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [Maina Kibe](https://github.com/Mainakibe)
 - [jannickbath](https://github.com/jannickbath)
 - [ZigRazor](https://github.com/ZigRazor)
