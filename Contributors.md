@@ -1327,5 +1327,6 @@ Karol Sykała
 - [Arturo Rodrigo] (https://github.com/ArturRod)
 - [Hassani sayed] (https://github.com/hamzahassani)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
+- [KapilKumar7](https://github.com/KapilKumar7)
 
 <!-- prettier-ignore-end -->
