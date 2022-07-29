@@ -1323,6 +1323,7 @@ Karol Sykała
 - [Janae Stewart](https://github.com/janaestewart)
 - [Chi-lun Chu] (https://github.com/ChilunC)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
+- [Hassani sayed] (https://github.com/hamzahassani)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
 
 <!-- prettier-ignore-end -->
