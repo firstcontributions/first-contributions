@@ -21,6 +21,7 @@
 - [Navin Narayanan] (https://github.com/navincodesalot)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
+- [Kikune] (https://github.com/Kikune)
 - [Harsha HL](https://github.com/harsha-hl)
 - [enn-dee](https://github.com/enn-dee)
 - [Davood-Naderi](https://github.com/dadynaderi1)
