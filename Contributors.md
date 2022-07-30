@@ -267,6 +267,7 @@ Mohamad Zaid
 - [Steven Gilliland](https://github.com/StevDev88)
 - [Celal Kincros](https://github.com/CelalKincross)
 - [Alex Colvin](https://github.com/alex-colvin)
+- [Pride Chamisa](https://github.com/quintofsteel)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
 - [Erica Layton](https://github.com/BeeperDev)
