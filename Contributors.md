@@ -1332,6 +1332,7 @@ Karol Sykała
 - [Bhavya Muni](https://github.com/BhavyaMuni)
 - [jbarber07](https://github.com/jbarber07/first-contributions)
 - [zhoujunyi](https://github.com/micro-coding)
+- [Codesterlalit](https://github.com/codesterlalit)
 - [Ritle](https://github.com/RitleHub)
 - [Lakshman Kambam](https://github.com/klakshman318)
 - [Janae Stewart](https://github.com/janaestewart)
