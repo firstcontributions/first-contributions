@@ -814,6 +814,7 @@ Mohamad Zaid
 - [Nicolas Benoit](https://github.com/Niksune)
 - [Melvin Lucas](https://github.com/LucasMelvin15)
 - [Dev Nakum](https://github.com/DevNakum)
+- [Ian Dolge](https://github.com/iandolge)
 - [Henil Mistry](https://github.com/HenilMistry)
 - [Duncan](https://github.com/dskilton)
 - [Andrew Babilonia](https://github.com/FLAIVIINGO)
