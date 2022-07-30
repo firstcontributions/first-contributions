@@ -87,6 +87,7 @@ Mohamad Zaid
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Andika Eka Kurnia](https://github.com/dikdns)
 - [Elena Sarnouk](https://github.com/elenasarnouk)
+- [Berkay Kuytuoğlu](https://github.com/doandroidsdreamof)
 - [Jaturon JT](https://github.com/Jattyz)
 - [Daniel Bowen](https://github.com/Dbowen89)
 - [Rakesh Nagapuri](https://github.com/zerak222)
