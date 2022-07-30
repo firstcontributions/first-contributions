@@ -217,6 +217,7 @@ Mohamad Zaid
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Laban Bwire](https://github.com/delabi/first-contributions)
 - [Jay](https://github.com/jaghara)
+- [Yash Chaudhari](https://github.com/xB0t)
 - [Hyelda Dzarma](https://github.com/hyelnatzz)
 - [Mohammad Iqbal](https://github.com/iqmd)
 - [Zakria Mansur](https://github.com/zakria00)
