@@ -75,6 +75,7 @@ Mohamad Zaid
 - [Jose Gibson](https://github.com/josegibson)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - RobertTheLeft
+- [Atul Raj] (https://github.com/King-Atul)
 - [Byeongun Park](https://github.com/bupark82)
 - [Alin Mercasi](https://github.com/alinmercasi)
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
