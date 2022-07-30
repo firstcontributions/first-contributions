@@ -16,6 +16,7 @@
 - [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
+- [Kanyisa Ntombini](https://github.com/Kanyisa-Ntombini)
 - [Acha Rha'ah](https://github.com/AchaRhah)
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
