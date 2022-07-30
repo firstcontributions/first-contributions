@@ -92,6 +92,7 @@ Mohamad Zaid
 - [Wilman Vinueza](https://github.com/wildanvin)
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
+- [Harshit Mathur](https://github.com/harshitmathur2000)
 - [Ankur Dubey](https://github.com/Saad-Abbasi)
 - [Rudy Becker](https://github.com/RudyBecker)
 - [ashish lotake](https://github.com/ashishlotake)
