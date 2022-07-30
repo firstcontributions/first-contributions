@@ -41,6 +41,7 @@ Mohamad Zaid
 - [Mutmainah Odunewu](https://github.com/mutmainaho)
 - [Anand Dubey]
 - [Ashwath Stark](https://github.com/ashwathstark)
+- [Amandeep Singh](https://github.com/Amandeep404)
 - [Ajay Liu](https://github.com/ajayliu)
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Christopher Palileo](https://github.com/cpalileo)
