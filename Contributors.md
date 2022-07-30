@@ -8,6 +8,7 @@
 - [Salman P Y](https://github.com/salmanpy04)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
+- [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
 - [James Coates](https://github.com/nexuspcs)
 - [James Wigg](https://github.com/Shaydas1)
