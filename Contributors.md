@@ -29,6 +29,7 @@
 - [Davood-Naderi](https://github.com/dadynaderi1)
 - [Anand]
 Mohamad Zaid
+- [Elias-Chacin](https://github.com/chacinelias)
 - [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
 - [Sandesh Verma](https://github.com/ren276)
