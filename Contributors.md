@@ -1219,6 +1219,7 @@ Mohamad Zaid
 - [Devesh Tulshyan](https://github.com/Devesh225)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Aditya Chnahdoke](https://github.com/Puskchan)
+- [Shtevie] (https://github.com/shtevie)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
