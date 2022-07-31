@@ -950,6 +950,7 @@ Mohamad Zaid
 - [Josue Santos-Ramirez](https://github.com/Josue-SR)
 - [John Mbugua](https://github.com/mbuguaj254)
 - [Shaun O'Grady](https://github.com/ogradyso)
+- [Gangaraju Bopparam]("Hey, Hello, How are you!!")
 - [Shevindi Rodrigo](https://github.com/ShevindiRodrigo)
 - [Aakanksha Desai](https://github.com/Aakanksha-Desai)
 - [Rushin Shah](https://github.com/RushinShah22)
