@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Amir](https://github.com/amir1611)
+- [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
