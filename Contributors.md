@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Hari om Singh](https://github.com/Harixomxsingh)
 - [Amir](https://github.com/amir1611)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Borhan Uddin](https://github.com/borhan-dev/)
