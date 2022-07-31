@@ -523,6 +523,7 @@ Mohamad Zaid
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Nabil Noh](https://github.com/mrnabilnoh)
+- [Xelame](https://github.com/Xelame)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Carl Shone](https://github.com/carlts93)
