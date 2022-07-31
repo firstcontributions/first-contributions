@@ -5,6 +5,7 @@
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
+- [Guerra-Renzo](https://github.com/Renzo-Guerra)
 - [Salman P Y](https://github.com/salmanpy04)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
