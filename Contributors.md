@@ -490,6 +490,7 @@ Mohamad Zaid
 - [Cameron Bond](https://github.com/CameronB-prog)
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
 - [Aaron Reynolds](https://github.com/areyn77463)
+- [Lito Polaquito](https://github.com/ichicar)
 - [Terra Hanks](https://github.com/vampyteuth)
 - [Georgie Conway](https://github.com/dopeantelope)
 - [Victory Quiah](https://github.com/vquiah)
