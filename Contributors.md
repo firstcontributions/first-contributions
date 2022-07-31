@@ -81,6 +81,7 @@ Mohamad Zaid
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Ponder E. Stine](https://github.com/ponderstine)
+- [Ricardo Augustine](https://github.com/r-augustine)
 - RobertTheLeft
 - [Atul Raj] (https://github.com/King-Atul)
 - [Byeongun Park](https://github.com/bupark82)
