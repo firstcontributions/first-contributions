@@ -77,6 +77,7 @@ Mohamad Zaid
 - [Abdulla Aidhaan](https://github.com/i701)
 - [Arnav Kamath](https://github.com/arnalph)
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
+- [Omkar Ramishte](https://github.com/omk-coder)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
