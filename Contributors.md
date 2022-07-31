@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Amir](https://github.com/amir1611)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Borhan Uddin](https://github.com/borhan-dev/)
@@ -28,6 +29,7 @@
 - [Harsha HL](https://github.com/harsha-hl)
 - [enn-dee](https://github.com/enn-dee)
 - [Davood-Naderi](https://github.com/dadynaderi1)
+- [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Anand]
 Mohamad Zaid
 - [Elias-Chacin](https://github.com/chacinelias)
