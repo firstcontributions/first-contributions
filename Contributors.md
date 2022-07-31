@@ -1351,5 +1351,6 @@ Karol Sykała
 - [Angelo Galavotti](https://github.com/AngeloGalav)
 - [Juan Escobar](https://github.com/Totalreine)
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
+- [Ankit Allwin](https://github.com/ankitallwin)
 
 <!-- prettier-ignore-end -->
