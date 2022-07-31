@@ -27,6 +27,7 @@
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Kikune] (https://github.com/Kikune)
 - [Harsha HL](https://github.com/harsha-hl)
+- [Justin Wallace](https://github.com/jpwallace22)
 - [enn-dee](https://github.com/enn-dee)
 - [Davood-Naderi](https://github.com/dadynaderi1)
 - [Anand]
