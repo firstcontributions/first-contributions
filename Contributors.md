@@ -1353,5 +1353,6 @@ Karol Sykała
 - [Juan Escobar](https://github.com/Totalreine)
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
 - [Ankit Allwin](https://github.com/ankitallwin)
+- [Ankita Malik](https://github.com/AnkitaMalik22)
 
 <!-- prettier-ignore-end -->
