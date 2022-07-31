@@ -647,6 +647,7 @@ Mohamad Zaid
 - [Ashmit Chamoli](https://github.com/ashmitchamoli)
 - [Prajwal](https://github.com/prajwalbandak)
 - [Neha Santani](https://github.com/NehaSantani)
+- [Sujay Dey](https://github.com/SD-13)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
 - [BrunchWithYou](https://github.com/BrunchWithYou)
