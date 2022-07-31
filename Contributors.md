@@ -1356,5 +1356,6 @@ Karol Sykała
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
 - [Ankit Allwin](https://github.com/ankitallwin)
 - [Ankita Malik](https://github.com/AnkitaMalik22)
+- [Tetbirt Aimen](https://github.com/Einma)
 
 <!-- prettier-ignore-end -->
