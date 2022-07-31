@@ -1369,5 +1369,6 @@ Karol Sykała
 - [Tetbirt Aimen](https://github.com/Einma)
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
+- [Benjamin Ezugwu](https://github.com/Benrojex)
 
 <!-- prettier-ignore-end -->
