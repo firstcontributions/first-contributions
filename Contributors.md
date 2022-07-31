@@ -1208,6 +1208,7 @@ Mohamad Zaid
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
 - [Nikos Pavlopoulos](https://github.com/pavlopoulos)
 - [Antonios Papadakis](https://github.com/one-and-only)
+- [Franklyn Ebikam](https://github.com/febikamBU)
 - [ZLH](https://github.com/Zawlinhtike397)
 - [Dominic Duke](https://github.com/domduke)
 - [Chris Thompson](https://github.com/ChrisThompsonDev)
