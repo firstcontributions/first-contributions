@@ -570,6 +570,7 @@ Mohamad Zaid
 - [Sunny Hemdev](https://github.com/sunny151091/)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
 - [Francis Ang](https://github.com/mobius-two)
+- [Nikhil Pandey](https://github.com/nikhilpandeynp0505)
 - [Bolaji Motayo](https://github.com/Bolaji-Motayo)
 - [Donald Lv](https://github.com/SpadeInTheDirt)
 - [Raul Flores](https://github.com/Raul-A-Flores)
