@@ -12,6 +12,7 @@
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
 -[Namya Khan] (https://github.com/namyakhan)
 - [Borhan Uddin](https://github.com/borhan-dev/)
+- [Saad Farhan](https://github.com/SaadFarhanIdress)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
 - [Salman P Y](https://github.com/salmanpy04)
