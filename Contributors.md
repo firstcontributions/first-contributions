@@ -17,6 +17,7 @@
 - [K8](https://github.com/styerfoam)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
+- [Eugene Kim](https://github.com/beyondGnE/)
 -[let-light-shine](https://github.com/let-light-shine)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
