@@ -198,6 +198,7 @@ Mohamad Zaid
 - [Elizabeth Cantu](https://github.com/Esagecc)
 - [Abbey Santos](https://github.com/AbbeyIT)
 - [Henrik Berg](https://github.com/henkeb)
+- [Anand Chaudahry](https://github.com/anandchaudhary854)
 - [Deep](https://github.com/just2deep)
 - [Henry Burii](https://github.com/buriihenry)
 - [Jim Ezesinachi](https://github.com/rapaktech)
