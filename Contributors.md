@@ -276,6 +276,7 @@ Mohamad Zaid
 - [Zhengtong Nie](https://github.com/ztNIE)
 - [Azzzanadra](https://github.com/Azzzanadra)
 - [Shashwat Shah](https://github.com/shashwat-shah)
+- [Shourya Tyagi](https://github.com/ShouryaTyagi042)
 - [Mitchell Megla](https://github.com/mitchell-megla)
 - [Rohan Abraham](https://github.com/RohanSAbraham)
 - [Aquon Bovell](https://github.com/aquonbovell)
