@@ -228,6 +228,7 @@ Mohamad Zaid
 - [Toprak Kis](https://github.com/toprakkis)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
 - [TJ Ries](https://github.com/tj-ries)
+- [Sankalp]
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Laban Bwire](https://github.com/delabi/first-contributions)
 - [Jay](https://github.com/jaghara)
