@@ -1235,6 +1235,7 @@ Mohamad Zaid
 - [SLIPdiggers](https://github.com/SLIPdiggers)
 - [Farah Rusli](https://github.com/fn-r)
 - [Luna](https://github.com/Lunamoon97)
+- [Jared Hatch](https://github.com/hatchjp)
 - [Delsan Anthony](https://github.com/delsananthony)
 - [Victor](https://github.com/victor0x16)
 - [Misha C](https://github.com/CheeTheStudent)
