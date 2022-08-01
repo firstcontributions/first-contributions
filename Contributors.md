@@ -28,6 +28,7 @@
 - [James Wigg](https://github.com/Shaydas1)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [Anmol Panchal](https://github.com/anmolp476)
+- [Raiyan Mukhtar](https://github.com/raiyanmook27)
 - [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
