@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
