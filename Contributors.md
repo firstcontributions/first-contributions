@@ -760,6 +760,7 @@ Mohamad Zaid
 - [Christian L](https://github.com/weir99)
 - [Kirstie Hayes](https://github.com/epixieme)
 - [Brandon Bode](https://github.com/BBode11)
+- [Adam Watt](https://github.com/AdamJWatt88)
 - [Chijioke Ubajaka](https://github.com/UbajakaCJ)
 - [martelro](https://github.com/martelro)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
