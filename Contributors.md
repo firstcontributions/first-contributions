@@ -1205,6 +1205,7 @@ Mohamad Zaid
 - [Marek Sliwinski](https://github.com/Maarkhu)
 - [Scott Burton](https://github.com/klrqn)
 - [Zeneto](https://github.com/ze-nto)
+- [Andrew Kohn](https://github.com/AndrewKohn)
 - [NoisypinkBubble](https://github.com/NoisyPinkBubble)
 - [Jessica Hamilton](https://github.com/jessicant)
 - [Kamil Yousuf](https://github.com/tyiop794)
