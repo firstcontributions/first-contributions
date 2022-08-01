@@ -1388,5 +1388,6 @@ Karol Sykała
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
 - [Benjamin Ezugwu](https://github.com/Benrojex)
+- [Prajwal Adhikari](https://github.com/Prajwal-Adhikari)
 
 <!-- prettier-ignore-end -->
