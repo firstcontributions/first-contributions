@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
+- [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
