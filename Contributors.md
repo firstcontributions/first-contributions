@@ -10,6 +10,7 @@
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
+- [**_Keshav Sharma_**](https://github.com/ksharma20/)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
@@ -32,8 +33,6 @@
 - [Justin Wallace](https://github.com/jpwallace22)
 - [enn-dee](https://github.com/enn-dee)
 - [Davood-Naderi](https://github.com/dadynaderi1)
-- [Anand]
-Mohamad Zaid
 - [Elias-Chacin](https://github.com/chacinelias)
 - [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
