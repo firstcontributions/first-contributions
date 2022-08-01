@@ -109,6 +109,7 @@ Mohamad Zaid
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
+- [Olesia Polevoi](https://github.com/OlesiaPolevoi)
 - [Andika Eka Kurnia](https://github.com/dikdns)
 - [Elena Sarnouk](https://github.com/elenasarnouk)
 - [Berkay Kuytuoğlu](https://github.com/doandroidsdreamof)
