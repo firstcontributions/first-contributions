@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Sameed Khan](https://github.com/Sameedkhan25)
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
