@@ -8,6 +8,7 @@
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
+-[Namya Khan] (https://github.com/namyakhan)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
