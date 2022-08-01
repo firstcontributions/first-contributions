@@ -1396,5 +1396,6 @@ Karol Sykała
 - [Benjamin Ezugwu](https://github.com/Benrojex)
 - [Prajwal Adhikari](https://github.com/Prajwal-Adhikari)
 - [Arvind Chauhan](https://github.com/ArvindChauhan1)
+- [Denisse Alfaro](https://github.com/Vychz/)
 
 <!-- prettier-ignore-end -->
