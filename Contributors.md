@@ -517,6 +517,7 @@ Mohamad Zaid
 - [Yasar Nazzarian](https://github.com/Yasar2019)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
+- [Thomas Perzi](https://github.com/PerziThomas)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
