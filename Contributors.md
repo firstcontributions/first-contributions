@@ -7,6 +7,7 @@
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
+- [Uzair Kamal](https://github.com/UzairKamalYZ)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
@@ -471,7 +472,7 @@ Mohamad Zaid
 - [yohei-ito](https://github.com/yohei-ito)
 - [Shubh](https://github.com/imshubh69)
 - [DeIn221](https://github.com/DeIn221)
--
+- 
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [E Rod](https://github.com/Proximacentauri-b)
