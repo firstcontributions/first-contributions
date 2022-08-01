@@ -234,6 +234,7 @@ Mohamad Zaid
 - [Neel Awsare](https://github.com/awsare)
 - [Antony Fox-Bramwell](https://github.com/afoxbr)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Luis Malagon](https://github.com/FarmerGPSY) 
 - [Harel Cohen](https://github.com/harel-cohen)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
