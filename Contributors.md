@@ -54,6 +54,8 @@ Mohamad Zaid
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
 - [Henry Le](https://github.com/henrysama58)
 - [Andrew Patasik](https://github.com/andrewpatasik)
+-
+- [Aditya Singh Tomar](https://github.com/adityastomar67)
 - [Ian Macharia](https://github.com/imac7)
 - [Mutmainah Odunewu](https://github.com/mutmainaho)
 - [Anand Dubey]
