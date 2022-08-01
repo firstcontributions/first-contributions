@@ -1392,5 +1392,6 @@ Karol Sykała
 - [michael bz](https://github.com/mikabz1)
 - [Benjamin Ezugwu](https://github.com/Benrojex)
 - [Prajwal Adhikari](https://github.com/Prajwal-Adhikari)
+- [Arvind Chauhan](https://github.com/ArvindChauhan1)
 
 <!-- prettier-ignore-end -->
