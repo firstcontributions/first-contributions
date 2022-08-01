@@ -59,6 +59,7 @@ Mohamad Zaid
 - [Aditya kumar](https://github.com/codekid20)
 - [Alloun Mohand](https://https://github.com/Mohand2)
 - [Leo Estrella](https://github.com/sharpsight44)
+- [Olin Johnson](https://github.com/olinjohnson)
 - [Ali Hassan](https://github.com/alihassan-here)
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Rahul kumar](https://github.com/rahul152-ai)
