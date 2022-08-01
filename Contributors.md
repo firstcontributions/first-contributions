@@ -1333,5 +1333,6 @@ Karol Sykała
 - [KapilKumar7](https://github.com/KapilKumar7)
 - [Angelo Galavotti](https://github.com/AngeloGalav)
 - [Juan Escobar](https://github.com/Totalreine)
+- [Leonardo Goss](https://github.com/leopiresgoss)
 
 <!-- prettier-ignore-end -->
