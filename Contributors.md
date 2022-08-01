@@ -1281,6 +1281,7 @@ Mohamad Zaid
 - [Gavin Barnes](https://github.com/cantidosan)
 - sahil prasad
 - [tusmm](https://github.com/tusmm)
+- [Kirtan Patel](https://github.com/kirtankp)
 - [Manu Peralta](https://github.com/manuperalta)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Sejal Mishra](https://github.com/sejalmishra)
