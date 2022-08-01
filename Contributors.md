@@ -15,6 +15,7 @@
 - [K8](https://github.com/styerfoam)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
+-[let-light-shine](https://github.com/let-light-shine)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
 - [James Coates](https://github.com/nexuspcs)
@@ -472,7 +473,7 @@ Mohamad Zaid
 - [yohei-ito](https://github.com/yohei-ito)
 - [Shubh](https://github.com/imshubh69)
 - [DeIn221](https://github.com/DeIn221)
-- 
+-
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [E Rod](https://github.com/Proximacentauri-b)
