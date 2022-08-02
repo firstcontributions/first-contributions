@@ -28,6 +28,7 @@
 -[let-light-shine](https://github.com/let-light-shine)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
+- [Jackbaklava](https://github.com/Jackbaklava)
 - [James Coates](https://github.com/nexuspcs)
 - [James Wigg](https://github.com/Shaydas1)
 - [Issac Lopez](https://github.com/Issac-Lopez)
