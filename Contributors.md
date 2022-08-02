@@ -1422,6 +1422,7 @@ Karol Sykała
 - [Tetbirt Aimen](https://github.com/Einma)
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
+- [Ivan Simakov](https://github.com/simafrus)
 - [gingivere0](https://github.com/gingivere0)
 - [Benjamin Ezugwu](https://github.com/Benrojex)
 - [Prajwal Adhikari](https://github.com/Prajwal-Adhikari)
