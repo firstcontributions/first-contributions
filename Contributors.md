@@ -1426,6 +1426,7 @@ Karol Sykała
 - [Ivan Simakov](https://github.com/simafrus)
 - [gingivere0](https://github.com/gingivere0)
 - [Benjamin Ezugwu](https://github.com/Benrojex)
+- [Antonio Ciccone](https://github.com/ciccone1978)
 - [Prajwal Adhikari](https://github.com/Prajwal-Adhikari)
 - [Arvind Chauhan](https://github.com/ArvindChauhan1)
 - [Denisse Alfaro](https://github.com/Vychz/)
