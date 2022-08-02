@@ -1417,6 +1417,7 @@ Karol Sykała
 - [Rohan Pawar](https://github.com/rohaan-pawar)
 - [Hassani sayed] (https://github.com/hamzahassani)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
+- [Jian Zhang](https://github.com/KeeProMise)
 - [KapilKumar7](https://github.com/KapilKumar7)
 - [Angelo Galavotti](https://github.com/AngeloGalav)
 - [Juan Escobar](https://github.com/Totalreine)
