@@ -1445,4 +1445,5 @@ Karol Sykała
 - [Arvind Chauhan](https://github.com/ArvindChauhan1)
 - [Denisse Alfaro](https://github.com/Vychz/)
 - [Prince Kumar](https://github.com/imprince26/)
+- [Navaneeth Mohan](https://github.com/nav-mohan/)
 <!-- prettier-ignore-end -->
