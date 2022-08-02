@@ -1421,6 +1421,7 @@ Karol Sykała
 - [KapilKumar7](https://github.com/KapilKumar7)
 - [Angelo Galavotti](https://github.com/AngeloGalav)
 - [Juan Escobar](https://github.com/Totalreine)
+- [Peng Tao](https://github.com/kazenyas)
 - [GKosheev](https://github.com/GKosheev)
 - [Leonardo Goss](https://github.com/leopiresgoss)
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
