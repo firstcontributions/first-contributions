@@ -2,8 +2,8 @@
 
 <!-- prettier-ignore-start -->
 - [Sameed Khan](https://github.com/Sameedkhan25)
-- [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Dias](https://github.com/diasdauletov)
