@@ -9,6 +9,7 @@
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
+- [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
 -[Namya Khan] (https://github.com/namyakhan)
 - [Borhan Uddin](https://github.com/borhan-dev/)
