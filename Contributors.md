@@ -1419,6 +1419,7 @@ Karol Sykała
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
 - [Ankit Allwin](https://github.com/ankitallwin)
 - [Ankita Malik](https://github.com/AnkitaMalik22)
+- [Jerry Gathu](https://github.com/Gathu17)
 - [Tetbirt Aimen](https://github.com/Einma)
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
