@@ -102,6 +102,7 @@ Mohamad Zaid
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
+- [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - [Ricardo Augustine](https://github.com/r-augustine)
 - RobertTheLeft
