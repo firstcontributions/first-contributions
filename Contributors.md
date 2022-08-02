@@ -55,8 +55,7 @@
 - [Kikune](https://github.com/Kikune)
 - [Harsha HL](https://github.com/harsha-hl)
 - [Justin Wallace](https://github.com/jpwallace22)
-- [enn-dee](https://github.com/enn-dee)
-- [Jordan Espinosa](https://github.com/statechamp103)
+- [enn-dee](https://github.com/enn-dee)-
 - [Davood-Naderi](https://github.com/dadynaderi1)
 - [Elias-Chacin](https://github.com/chacinelias)
 - [Kimberly Peters](https://github.com/KimberlyPeters)
@@ -107,6 +106,7 @@
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
+- [Jordan Espinosa](https://github.com/statechamp103)
 - [AllieGie](https://github.com/AllieGie)
 - [Abdulla Aidhaan](https://github.com/i701)
 - [Arnav Kamath](https://github.com/arnalph)
