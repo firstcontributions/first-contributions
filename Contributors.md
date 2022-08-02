@@ -1414,6 +1414,7 @@ Karol Sykała
 - [Arturo Rodrigo](https://github.com/ArturRod)
 - [Jsvends](https://github.com/jsvends)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
+- [Rohan Pawar](https://github.com/rohaan-pawar)
 - [Hassani sayed] (https://github.com/hamzahassani)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
 - [KapilKumar7](https://github.com/KapilKumar7)
