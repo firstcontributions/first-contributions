@@ -627,6 +627,7 @@ Mohamad Zaid
 - [Harrison Jones](https://github.com/harrisonJones12)
 - [Furkan Kir](https://github.com/furkankir)
 - [Thin H Han](https://github.com/thinhtoohan)
+- [Cameron De Robertis](https://github.com/cmderobertis)
 - [Halil Bulut](https://github.com/Hellin1)
 - [Christine Lin](https://github.com/christinelin8)
 - [Joel Tony](https://github.com/jay-tau)
