@@ -1411,5 +1411,6 @@ Karol Sykała
 - [Prajwal Adhikari](https://github.com/Prajwal-Adhikari)
 - [Arvind Chauhan](https://github.com/ArvindChauhan1)
 - [Denisse Alfaro](https://github.com/Vychz/)
+- [Prince Kumar](https://github.com/imprince26/)
 
 <!-- prettier-ignore-end -->
