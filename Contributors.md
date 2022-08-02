@@ -1403,7 +1403,9 @@ Karol Sykała
 - [Ritle](https://github.com/RitleHub)
 - [Lakshman Kambam](https://github.com/klakshman318)
 - [Janae Stewart](https://github.com/janaestewart)
-- [Chi-lun Chu] (https://github.com/ChilunC)
+- [Chi-lun Chu](https://github.com/ChilunC)
+- [Arturo Rodrigo](https://github.com/ArturRod)
+- [Jsvends](https://github.com/jsvends)
 - [Arturo Rodrigo] (https://github.com/ArturRod)
 - [Hassani sayed] (https://github.com/hamzahassani)
 - [Haruki Kuriwada](https://github.com/kuri-sun)
@@ -1423,5 +1425,4 @@ Karol Sykała
 - [Arvind Chauhan](https://github.com/ArvindChauhan1)
 - [Denisse Alfaro](https://github.com/Vychz/)
 - [Prince Kumar](https://github.com/imprince26/)
-
 <!-- prettier-ignore-end -->
