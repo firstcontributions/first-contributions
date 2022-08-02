@@ -150,6 +150,7 @@ Mohamad Zaid
 - [Numan Iftikhar](https://github.com/numan-iftikhar)
 - [Richard Adebayo](https://github.com/richardebrain)
 - [Chetan Dhongade](https://github.com/binary-ibex)
+- [Harsh kumar](https://github.com/thisisharsh7)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Matthew Hutchinson](https://github.com/sedgwuck)
 - [Noordeep Kaur](https://github.com/Noor291)
