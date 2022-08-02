@@ -1415,6 +1415,7 @@ Karol Sykała
 - [KapilKumar7](https://github.com/KapilKumar7)
 - [Angelo Galavotti](https://github.com/AngeloGalav)
 - [Juan Escobar](https://github.com/Totalreine)
+- [Leonardo Goss](https://github.com/leopiresgoss)
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
 - [Ankit Allwin](https://github.com/ankitallwin)
 - [Ankita Malik](https://github.com/AnkitaMalik22)
