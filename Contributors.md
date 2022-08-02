@@ -11,6 +11,7 @@
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
+- [Harshad Hirapara](https://github.com/harshad389)
 -[Namya Khan] (https://github.com/namyakhan)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
