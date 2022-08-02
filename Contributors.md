@@ -1421,5 +1421,4 @@ Karol Sykała
 - [Arvind Chauhan](https://github.com/ArvindChauhan1)
 - [Denisse Alfaro](https://github.com/Vychz/)
 - [Prince Kumar](https://github.com/imprince26/)
-- [Cameron De Robertis](https://github.com/cmderobertis)
 <!-- prettier-ignore-end -->
