@@ -1152,6 +1152,7 @@ Mohamad Zaid
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Hetav Modi](https://github.com/hetavv)
 - [Manuel Lemos](https://github.com/MannyLemos)
+- [Takumi Hamada](https://github.com/sheltie-fusafusa)
 - [Ayush Tripathi](https://github.com/AyushTripathiIITP)
 - [Sai Krishna Nerella](https://github.com/nsaikrishna94)
 - [Luigi Altamura](https://github.com/LuigiAltamura)
