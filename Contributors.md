@@ -1171,7 +1171,7 @@
 - [lougau92](https://github.com/lougau92)
 - [Anushka](https://github.com/Anushka1503)
 - [Dave Aigbe](https://github.com/DaveAigbe)
-  Matheus Trilha Koch
+- Matheus Trilha Koch
 - [Laurie H](https://github.com/coderlore)
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
@@ -1400,6 +1400,7 @@ Karol Sykała
 - [Robert Bui](https://github.com/robert-mdh-bui)
 - [Tyler West](https://github.com/tylerwest7)
 - [Umesh Verma](https://github.com/umesh-verma)
+- [steve Lee](https://github.com/201steve)
 - [Jason Qiu](https://github.com/Jqiu149)
 - [Saumya Singh](https://github.com/saumya1singh)
 - [qianpeng li](https://github.com/QianpengLi577)
