@@ -248,6 +248,7 @@ Mohamad Zaid
 - [TJ Ries](https://github.com/tj-ries)
 - [Sankalp]
 - [Harsh Raghuwanshi](https://github.com/harsha094)
+- [Isaac Bowser]
 - [Laban Bwire](https://github.com/delabi/first-contributions)
 - [Jay](https://github.com/jaghara)
 - [Yash Chaudhari](https://github.com/xB0t)
