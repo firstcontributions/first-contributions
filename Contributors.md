@@ -100,6 +100,7 @@ Mohamad Zaid
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
+- [Aido]
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
 - [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
