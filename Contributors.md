@@ -16,6 +16,7 @@
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
 - [Nicholas-Barker](https://github.com/InhumanNick)
+- [Avinash-Nandan](https://github.com/Avinash219)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
