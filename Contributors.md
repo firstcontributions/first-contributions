@@ -8,6 +8,7 @@
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
+- [Deepak Singh](https://github.com/deepak427)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
