@@ -1332,6 +1332,7 @@ Karol Sykała
 - [Daniel Belarmino](https://github.com/belarba)
 - [Adhiraj Soparkar](https://github.com/Adhiraj10)
 - [Md. Emon Prodhan](https://github.com/emon-ai)
+- [f.k](https://github.com/fk00750)
 - [Labib Hibatullah](https://github.com/lalabib)
 - [henriquezna](https://github.com/henriquezna)
 - [Aaron Beck](https://github.com/aaronmicalbeck)
