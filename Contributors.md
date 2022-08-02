@@ -123,6 +123,7 @@ Mohamad Zaid
 - [Jaturon JT](https://github.com/Jattyz)
 - [Daniel Bowen](https://github.com/Dbowen89)
 - [Rakesh Nagapuri](https://github.com/zerak222)
+- [Jose Arellanes](https://github.com/jmarellanes) 
 - [Mohammad Rajabloo](https://github.com/MohammadRajabloo1991)
 - [Krisztián Kiss](https://github.com/septimus1213)
 - [Wilman Vinueza](https://github.com/wildanvin)
