@@ -91,6 +91,7 @@ Mohamad Zaid
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Andrea Coluzzi](https://github.com/coluzziandrea)
 - [Colby Berens](https://github.com/MacAttack1)
+-[Dhananjay Pant](https://github.com/Dhananjay-12)
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Wayne Cen](https://github.com/waynecen)
