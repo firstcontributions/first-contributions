@@ -70,6 +70,7 @@
 - [Ian Macharia](https://github.com/imac7)
 - [Mutmainah Odunewu](https://github.com/mutmainaho)
 - [Anand Dubey]
+- [Vasu Devrani](https://github.com/VasuDevrani)
 - [Ashwath Stark](https://github.com/ashwathstark)
 - [Amandeep Singh](https://github.com/Amandeep404)
 - [Ajay Liu](https://github.com/ajayliu)
