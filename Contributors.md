@@ -11,6 +11,7 @@
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
+- [Keshav Sharma](https://github.com/ksharma20/)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
 - [Harshad Hirapara](https://github.com/harshad389)
@@ -51,8 +52,6 @@
 - [Justin Wallace](https://github.com/jpwallace22)
 - [enn-dee](https://github.com/enn-dee)
 - [Davood-Naderi](https://github.com/dadynaderi1)
-- [Anand]
-Mohamad Zaid
 - [Elias-Chacin](https://github.com/chacinelias)
 - [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
