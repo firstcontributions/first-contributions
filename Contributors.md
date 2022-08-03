@@ -9,6 +9,7 @@
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [CyOfficial](https://github.com/CyOfficial)
+- [Hagay Haut](https://github.com/HagayHaut)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Deepak Singh](https://github.com/deepak427)
