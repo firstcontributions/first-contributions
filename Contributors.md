@@ -17,6 +17,7 @@
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
+- [Ivan Djukic](https://github.com/ivandjuka77)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Liam Platt-Young](https://github.com/liamnpynz)
 - [Tuan Anh](https://github.com/ez2do)
