@@ -1466,4 +1466,5 @@ Karol Sykała
 - [Navaneeth Mohan](https://github.com/nav-mohan/)
 - [Haochen Dong](https://github.com/RekiOwl/) 
 - [Ario Pratomo](https://github.com/ariopratomo/) 
+- [Akarsh](https://github.com/akarshn04/)
 <!-- prettier-ignore-end -->
