@@ -80,8 +80,8 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork this repository by clicking on the fork button on the top-right of this page.
+This will create a copy of this repository in your github account.
 
 ## Clone the repository
 
