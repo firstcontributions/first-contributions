@@ -8,6 +8,7 @@
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Awang Karisma](https://github.com/awang-karisma)
+- [Jaymee Chen](https://github.com/jmechn)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Hagay Haut](https://github.com/HagayHaut)
 - [Thuany Soares](https://github.com/Thurunany)
