@@ -6,6 +6,7 @@
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [Darian Ngo](https://github.com/itsDarianNgo)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [CyOfficial](https://github.com/CyOfficial)
@@ -1455,4 +1456,5 @@ Karol Sykała
 - [Denisse Alfaro](https://github.com/Vychz/)
 - [Prince Kumar](https://github.com/imprince26/)
 - [Navaneeth Mohan](https://github.com/nav-mohan/)
+
 <!-- prettier-ignore-end -->
