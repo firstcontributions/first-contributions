@@ -1457,4 +1457,5 @@ Karol Sykała
 - [Denisse Alfaro](https://github.com/Vychz/)
 - [Prince Kumar](https://github.com/imprince26/)
 - [Navaneeth Mohan](https://github.com/nav-mohan/)
+- [Haochen Dong](https://github.com/RekiOwl/) 
 <!-- prettier-ignore-end -->
