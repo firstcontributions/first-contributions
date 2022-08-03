@@ -1473,4 +1473,5 @@ Karol Sykała
 - [Ario Pratomo](https://github.com/ariopratomo/) 
 - [Akarsh](https://github.com/akarshn04/)
 - [Fabrício Catani](https://github.com/fabriciocf92/)
+- [Edauro](https://github.com/edauro)
 <!-- prettier-ignore-end -->
