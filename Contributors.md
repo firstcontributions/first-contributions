@@ -1449,6 +1449,7 @@ Karol Sykała
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
 - [Ivan Simakov](https://github.com/simafrus)
+-[Seyienei Meyase](https://github.com/aneimeyase)
 - [gingivere0](https://github.com/gingivere0)
 - [Benjamin Ezugwu](https://github.com/Benrojex)
 - [Antonio Ciccone](https://github.com/ciccone1978)
