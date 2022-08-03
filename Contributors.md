@@ -237,7 +237,6 @@
 -   [Liza Yemini](https://github.com/LizaYemini)
 -   [Elizabeth Cantu](https://github.com/Esagecc)
 -   [Abbey Santos](https://github.com/AbbeyIT)
--   [Julio Sevillano](https://github.com/AcirDeveloper)
 -   [Henrik Berg](https://github.com/henkeb)
 -   [Anand Chaudahry](https://github.com/anandchaudhary854)
 -   [Deep](https://github.com/just2deep)
@@ -1470,6 +1469,7 @@
 -   [Navaneeth Mohan](https://github.com/nav-mohan/)
 -   [Haochen Dong](https://github.com/RekiOwl/)
 -   [Ario Pratomo](https://github.com/ariopratomo/)
+-   [Julio Sevillano](https://github.com/AcirDeveloper)
 -   [Akarsh](https://github.com/akarshn04/)
 -   [Fabrício Catani](https://github.com/fabriciocf92/)
 <!-- prettier-ignore-end -->
