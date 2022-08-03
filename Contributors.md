@@ -1457,7 +1457,7 @@ Karol Sykała
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
 - [Ivan Simakov](https://github.com/simafrus)
--[Seyienei Meyase](https://github.com/aneimeyase)
+- [Seyienei Meyase](https://github.com/aneimeyase)
 - [gingivere0](https://github.com/gingivere0)
 - [Benjamin Ezugwu](https://github.com/Benrojex)
 - [Antonio Ciccone](https://github.com/ciccone1978)
@@ -1469,4 +1469,5 @@ Karol Sykała
 - [Haochen Dong](https://github.com/RekiOwl/) 
 - [Ario Pratomo](https://github.com/ariopratomo/) 
 - [Akarsh](https://github.com/akarshn04/)
+- [Fabrício Catani](https://github.com/fabriciocf92/)
 <!-- prettier-ignore-end -->
