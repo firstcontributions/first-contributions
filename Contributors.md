@@ -886,6 +886,7 @@
 - [Brendon Wright](https://github.com/BrendonW250)
 - [Olubukunmi Olufemi](https://github.com/PhemiT)
 - [Computatrum](https://github.com/Computatrums)
+- [Amy Posten](https://github.com/aeposten)
 - [Jason Parker](http://github.com/jparrker)
 - [OnkelPony](https://github.com/OnkelPony)
 - [Salman Sayyed](https://github.com/Salman-Sayyed)
