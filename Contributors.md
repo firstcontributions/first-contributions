@@ -96,6 +96,7 @@
 - [Alloun Mohand](https://https://github.com/Mohand2)
 - [Leo Estrella](https://github.com/sharpsight44)
 - [Olin Johnson](https://github.com/olinjohnson)
+- [Francis O'Donnell](https://github.com/fjodonnell)
 - [Yair Daboul](https://github.com/yairdab)
 - [Ali Hassan](https://github.com/alihassan-here)
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
