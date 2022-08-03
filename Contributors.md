@@ -22,6 +22,7 @@
 - [Keshav Sharma](https://github.com/ksharma20/)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
+- [Aaron Lin](https://github.com/shinganlin)
 - [Harshad Hirapara](https://github.com/harshad389)
 - [Namya Khan](https://github.com/namyakhan)
 - [Borhan Uddin](https://github.com/borhan-dev/)
