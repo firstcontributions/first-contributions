@@ -222,6 +222,7 @@
 - [Babba Voss](https://github.com/Lordvoss/)
 - [KingLyrics](https://github.com/KingLyrics/)
 - [Alex Kang](https://github.com/alexhanabich)
+- [Máté Menyhárt](https://github.com/MMate2007)
 - [ARKARLIN](https://github.com/christopher4RY)
 - [William Owusu](https://github.com/Willowusu)
 - [Himanshu Dubey](https://github.com/sorted-hd)
