@@ -761,6 +761,7 @@
 - [Roberto Saliola](https://github.com/Roberto286)
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
+- [tetragonites](https://github.com/tetragonites)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
