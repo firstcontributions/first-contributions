@@ -1458,4 +1458,5 @@ Karol Sykała
 - [Prince Kumar](https://github.com/imprince26/)
 - [Navaneeth Mohan](https://github.com/nav-mohan/)
 - [Haochen Dong](https://github.com/RekiOwl/) 
+- [Ario Pratomo](https://github.com/ariopratomo/) 
 <!-- prettier-ignore-end -->
