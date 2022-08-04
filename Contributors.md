@@ -68,6 +68,7 @@
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Kikune](https://github.com/Kikune)
 - [Harsha HL](https://github.com/harsha-hl)
+- [Genet Adno ](https://github.com/GenetAdno)
 - [Justin Wallace](https://github.com/jpwallace22)
 - [enn-dee](https://github.com/enn-dee)
 - [Jordan Espinosa](https://github.com/statechamp103)
@@ -135,6 +136,7 @@
 - [Aido]
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
+- [Genet Adno](https://github.com/GenetAdno)
 - [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - [Ricardo Augustine](https://github.com/r-augustine)
