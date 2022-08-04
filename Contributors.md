@@ -18,6 +18,7 @@
 - [CyOfficial](https://github.com/CyOfficial)
 - [Loju](https://github.com/looju)
 - [Hagay Haut](https://github.com/HagayHaut)
+- [ToySoldi3rr](https://github.com/ToySoldi3rr)
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
