@@ -1,4 +1,4 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -1420,6 +1420,7 @@
 - [Priyanshu Gupta](https://github.com/priyanshu411/)
 - [Ibrahim Khalil](https://github.com/bsse1009)
 - [Cristi](https://github.com/cristi00794)
+- [etamarh12]( https://github.com/etamarh12)
 - [Sanudra](https://github.com/samudra-perera)
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
@@ -1492,4 +1493,5 @@
 - [Edauro](https://github.com/edauro)
 - [Raul Viana](https://github.com/raulviana)
 - [desmond1313](https://github.com/desmond1313)
+
 <!-- prettier-ignore-end -->
