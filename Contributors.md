@@ -66,6 +66,7 @@
 - [Rajat Raj](https://github.com/rajatrjj)
 - [Kikune](https://github.com/Kikune)
 - [Harsha HL](https://github.com/harsha-hl)
+- [Genet Adno ](https://github.com/GenetAdno)
 - [Justin Wallace](https://github.com/jpwallace22)
 - [enn-dee](https://github.com/enn-dee)
 - [Jordan Espinosa](https://github.com/statechamp103)
