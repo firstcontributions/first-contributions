@@ -12,6 +12,7 @@
 - [Jaymee Chen](https://github.com/jmechn)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Hagay Haut](https://github.com/HagayHaut)
+- [Lfh404] (https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Deepak Singh](https://github.com/deepak427)
