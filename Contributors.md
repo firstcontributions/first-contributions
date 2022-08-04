@@ -1051,6 +1051,7 @@
 - [lucky-chap](https://github.com/lucky-chap)
 - [KosyAbone](https://github.com/KosyAbone)
 - [Kieran Klukas](https://github.com/kcoderhtml)
+- [Kaynan Coelho](https://github.com/kaynancl)
 - [yangzhengca](https://github.com/yangzhengca)
 - [SnapsCode](https://github.com/snapsCode)
 - [Anees-Asghar](https://github.com/Anees-Asghar)
