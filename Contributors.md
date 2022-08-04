@@ -7,6 +7,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [Louka Tran](https://github.com/loukacodes)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
