@@ -1490,6 +1490,7 @@
 - [Haochen Dong](https://github.com/RekiOwl/)
 - [Ario Pratomo](https://github.com/ariopratomo/)
 - [Akarsh](https://github.com/akarshn04/)
+- [Julio Sevillano](https://github.com/AcirDeveloper/)
 - [Fabrício Catani](https://github.com/fabriciocf92/)
 - [Edauro](https://github.com/edauro)
 - [Raul Viana](https://github.com/raulviana)
