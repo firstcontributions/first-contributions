@@ -66,6 +66,7 @@
 - [Navin Narayanan](https://github.com/navincodesalot)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
+- [Harmionee Kaur](https://github.com/Harmionee)
 - [Kikune](https://github.com/Kikune)
 - [Harsha HL](https://github.com/harsha-hl)
 - [Genet Adno ](https://github.com/GenetAdno)
