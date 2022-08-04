@@ -653,6 +653,7 @@
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Csanad Balla](https://github.com/Csanad-Balla)
 - [Shivam Patel](https://github.com/Shivam1111111)
+- [Pratik Patel](https://github.com/pratikpatel2512)
 - [Brick](https://github.com/rickard0)
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
