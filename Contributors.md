@@ -1503,6 +1503,9 @@
 - [Edauro](https://github.com/edauro)
 - [Raul Viana](https://github.com/raulviana)
 - [desmond1313](https://github.com/desmond1313)
+
+- [Wisdomn_]
+
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
 
 <!-- prettier-ignore-end -->
