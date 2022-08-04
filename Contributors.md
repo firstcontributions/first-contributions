@@ -348,6 +348,7 @@
 - [Pride Chamisa](https://github.com/quintofsteel)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
+- [Joseph Kang](https://github.com/joeskang)
 - [Erica Layton](https://github.com/BeeperDev)
 - [Peco602](https://github.com/Peco602)
 - [Nelson de Barros](https://github.com/nek54)
