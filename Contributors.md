@@ -343,6 +343,7 @@
 - [Shourya Tyagi](https://github.com/ShouryaTyagi042)
 - [Mitchell Megla](https://github.com/mitchell-megla)
 - [Rohan Abraham](https://github.com/RohanSAbraham)
+- [Aklile Kidane](https://github.com/Akidane47)
 - [Aquon Bovell](https://github.com/aquonbovell)
 - [Nayan Pasari](https://github.com/npasari)
 - [Ainara Arevalo](https://github.com/ainaraap)
