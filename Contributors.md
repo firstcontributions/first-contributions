@@ -133,6 +133,7 @@
 - [Aido]
 - [Leianne Fajutagana](https://github.com/leifaj)
 - [Jose Gibson](https://github.com/josegibson)
+- [Genet Adno](https://github.com/GenetAdno)
 - [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - [Ricardo Augustine](https://github.com/r-augustine)
