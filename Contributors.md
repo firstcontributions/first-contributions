@@ -1,4 +1,4 @@
-﻿**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -417,6 +417,7 @@
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Levi Francis](https://github.com/leevigh)
+- [George-Ber Zaltsman](https://github.com/gbfz)
 - [Eiyad Ziyadah](https://github.com/eziyadah)
 - [VaradC](https://github.com/cvarad96)
 - [Collins Self](https://github.com/collins-self)
