@@ -47,7 +47,7 @@
 - [Isidro Mata](https://github.com/EyesOfSiva/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Eugene Kim](https://github.com/beyondGnE/)
--[let-light-shine](https://github.com/let-light-shine)
+- [let-light-shine](https://github.com/let-light-shine)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
 - [Jackbaklava](https://github.com/Jackbaklava)
@@ -81,6 +81,7 @@
 - [Andrew Skillett]
 - [happinyz]
 - [Noah Conway]
+- [Nissan]
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
@@ -114,6 +115,7 @@
 - [Ivan Fitzpatrick](https://github.com/iftzp)
 - [Alexandru Sirbu](https://github.com/AlexandruPaul21)
 - [Faizan Rasool](https://github.com/faizanraso)
+
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Andrea Coluzzi](https://github.com/coluzziandrea)
