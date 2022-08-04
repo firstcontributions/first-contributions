@@ -1482,5 +1482,6 @@ Karol Sykała
 - [Akarsh](https://github.com/akarshn04/)
 - [Fabrício Catani](https://github.com/fabriciocf92/)
 - [Edauro](https://github.com/edauro)
+- [Raul Viana](https://github.com/raulviana)
 - [desmond1313](https://github.com/desmond1313)
 <!-- prettier-ignore-end -->
