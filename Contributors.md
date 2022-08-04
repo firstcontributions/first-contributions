@@ -8,6 +8,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [Darian Ngo](https://github.com/itsDarianNgo)
 - [Louka Tran](https://github.com/loukacodes)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
