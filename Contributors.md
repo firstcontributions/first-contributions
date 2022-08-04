@@ -86,6 +86,7 @@
 - [happinyz]
 - [Noah Conway]
 - [Nissan]
+- [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
