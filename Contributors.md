@@ -1,4 +1,4 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Samuel Echols](https://github.com/sechols223)
@@ -1411,6 +1411,7 @@ Karol Sykała
 - [Priyanshu Gupta](https://github.com/priyanshu411/)
 - [Ibrahim Khalil](https://github.com/bsse1009)
 - [Cristi](https://github.com/cristi00794)
+- [etamarh12]( https://github.com/etamarh12)
 - [Sanudra](https://github.com/samudra-perera)
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
@@ -1482,4 +1483,5 @@ Karol Sykała
 - [Fabrício Catani](https://github.com/fabriciocf92/)
 - [Edauro](https://github.com/edauro)
 - [desmond1313](https://github.com/desmond1313)
+
 <!-- prettier-ignore-end -->
