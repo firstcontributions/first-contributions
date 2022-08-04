@@ -9,9 +9,6 @@
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
 
-É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, cometer erros não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
-
-Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente pôr a mão na massa em um ambiente prático? Este projeto visa guiar e simplificar a forma com que os novatos fazem a sua primeira contribuição. Se quiser fazer a sua primeira contribuição, siga os passos abaixo.
 
 Se você nao tem o Github desktop na sua máquina, [instale aqui](https://desktop.github.com/).
 
@@ -64,7 +61,7 @@ Exemplo: Se o seu nome for James Smith, Deve ficar parecido com isso.
 
 \[James Smith](https://github.com/jamessmith)
 
-Você pode ver as alterações feitas em Contributors.md no Github Desktop.
+
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="checar mudanças" />
 
