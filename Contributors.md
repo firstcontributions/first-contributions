@@ -30,6 +30,7 @@
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Luccas Elias](https://github.com/chEfInHO0)
 - [Ivan Djukic](https://github.com/ivandjuka77)
+- [Vincent Shadbolt](https://github.com/V-Shadbolt)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Yahya Benmahane](https://github.com/yahyabene)
 - [Liam Platt-Young](https://github.com/liamnpynz)
