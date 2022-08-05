@@ -102,6 +102,7 @@ Harsh Shah
 - [Andrew Skillett]
 - [happinyz]
 - [Noah Conway]
+- [Ben Cruickshank](https://github.com/officerclucks)
 - [Nissan]
 - [z3one]
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
