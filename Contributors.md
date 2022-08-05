@@ -1515,6 +1515,7 @@
 - [Fabrício Catani](https://github.com/fabriciocf92/)
 - [Edauro](https://github.com/edauro)
 - [Raul Viana](https://github.com/raulviana)
+- [Guru](https://github.com/ChattiGuruRaghavendra)
 - [desmond1313](https://github.com/desmond1313)
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
