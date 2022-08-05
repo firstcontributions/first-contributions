@@ -14,6 +14,7 @@
 - [Dave Collison](https://github.com/thebigdavec)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
+- [Sean Anderson](https://github.com/haker2500)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
 - [CyOfficial](https://github.com/CyOfficial)
