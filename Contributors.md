@@ -1243,7 +1243,7 @@ Harsh Shah
 - [Owar1](https://github.com/Owar1)
 - [Abraham MZ](https://github.com/AbrMa)
 - [Deglier Amorim](github.com/deglier)
-- [Sean McNeil](github.com/seanpmcneil)
+- [Sean McNeil](https://github.com/seanpmcneil)
 - [alkndoom](https://github.com/alkndoom)
 - [lougau92](https://github.com/lougau92)
 - [Anushka](https://github.com/Anushka1503)
