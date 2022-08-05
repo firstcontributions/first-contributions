@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Michael Oberkoh](https://github.com/Oberkoh)
 - [Samuel Echols](https://github.com/sechols223)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lubna Fathima N](https://github.com/lubnafathima)
