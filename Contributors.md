@@ -4,10 +4,12 @@
 
 - [Michael Oberkoh](https://github.com/Oberkoh)
 - [Samuel Echols](https://github.com/sechols223)
+
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Sameed Khan](https://github.com/Sameedkhan25)
+- [Abdul Samad](https://github.com/asamadsid)
 - [Souradeep Das](https://github.com/shadesin)
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Darian Ngo](https://github.com/itsDarianNgo)
