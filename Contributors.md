@@ -4,6 +4,7 @@
 
 - [Samuel Echols](https://github.com/sechols223)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
+- [Lyndon Purcell](https://github.com/ljpurcell)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Sameed Khan](https://github.com/Sameedkhan25)
