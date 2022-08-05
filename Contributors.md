@@ -140,6 +140,7 @@ Harsh Shah
 - [Ivan Fitzpatrick](https://github.com/iftzp)
 - [Alexandru Sirbu](https://github.com/AlexandruPaul21)
 - [Faizan Rasool](https://github.com/faizanraso)
+- [Yiorgos Fil](https://github.com/yogiyiorgos)
 - [Robbie Woolf](https://github.com/robbiemwoolf)
 - [RadTurkin](https://github.com/radturkin)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
