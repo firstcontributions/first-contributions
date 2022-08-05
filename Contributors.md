@@ -231,6 +231,7 @@
 - [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
+- [Lenin Chris Fernandes](https://github.com/Lchris22)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
