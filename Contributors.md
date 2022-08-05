@@ -23,6 +23,7 @@
 - [Deepak Singh](https://github.com/deepak427)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
+- [Anurag Tiwari](https://github.com/Danuragtiwari)
 - [Siddhant Hota](https://github.com/Siddhanthota)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Luccas Elias](https://github.com/chEfInHO0)
