@@ -76,6 +76,7 @@
 - [Andrew Skillett]
 - [happinyz]
 - [Noah Conway]
+- [Ben Cruickshank] (https://github.com/officerclucks)
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
