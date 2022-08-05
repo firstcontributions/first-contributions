@@ -31,6 +31,7 @@ Harsh Shah
 - [Deepak Singh](https://github.com/deepak427)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
+- [Anurag Tiwari](https://github.com/Danuragtiwari)
 - [Richard Rekow](https://github.com/Dick-Alan)
 - [Siddhant Hota](https://github.com/Siddhanthota)
 - [Leyli Ghavami](https://github.com/lghavami)
