@@ -306,6 +306,7 @@
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Isaac Bowser]
 - [Laban Bwire](https://github.com/delabi/first-contributions)
+- [Manvith Yadav Dega] (https://github.com/iib2019014)
 - [Jay](https://github.com/jaghara)
 - [Yash Chaudhari](https://github.com/xB0t)
 - [Hyelda Dzarma](https://github.com/hyelnatzz)
