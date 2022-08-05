@@ -74,6 +74,7 @@ Harsh Shah
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
 - [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
+- [Noel Castillon 🐳](https://github.com/noelcastillon1)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Kanyisa Ntombini](https://github.com/Kanyisa-Ntombini)
 - [Sagore Sarker] (https://github.com/sagoresarker)
