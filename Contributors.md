@@ -103,6 +103,7 @@ Harsh Shah
 - [happinyz]
 - [Noah Conway]
 - [Nissan]
+- [z3one]
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
 - [Harvey Munoz] (https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
