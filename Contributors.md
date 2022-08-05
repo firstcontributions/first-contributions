@@ -324,6 +324,7 @@
 - [Patryk Potrec](https://github.com/Patryk-Potrec)
 - [Tauhid Patel](https://github.com/tauhidpatel)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
+- [Seiji](https://github.com/seiji327)
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
 - [Andreas Nilsson](https://github.com/anil9)
