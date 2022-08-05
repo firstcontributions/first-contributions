@@ -101,6 +101,7 @@ Harsh Shah
 - [Noah Conway]
 - [Nissan]
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
+- [Harvey Munoz] (https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
