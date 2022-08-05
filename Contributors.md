@@ -28,6 +28,7 @@
 - [Deepak Singh](https://github.com/deepak427)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
+- [Richard Rekow](https://github.com/Dick-Alan)
 - [Siddhant Hota](https://github.com/Siddhanthota)
 - [Leyli Ghavami](https://github.com/lghavami)
 - [Jack Roberts](https://github.com/JackRobs25)
