@@ -54,6 +54,7 @@
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
+- [Zeerak](https://github.com/zeerakb1/)
 - [Isidro Mata](https://github.com/EyesOfSiva/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Eugene Kim](https://github.com/beyondGnE/)
