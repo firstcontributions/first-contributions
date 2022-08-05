@@ -774,6 +774,7 @@
 - [Steve Behm](https://github.com/SteveBehm)
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
+- [Johnathan Im] (https://github.com/johnathanim20)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [Rahul Anand](https://github.com/rnand)
 - [Jimit Patel](https://github.com/jimit-exe)
