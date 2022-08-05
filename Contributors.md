@@ -1530,5 +1530,6 @@ Harsh Shah
 - [desmond1313](https://github.com/desmond1313)
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
+- [ItsJensen](https://github.com/ItsJensen)
 
 <!-- prettier-ignore-end -->
