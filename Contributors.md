@@ -1500,5 +1500,6 @@
 - [Raul Viana](https://github.com/raulviana)
 - [desmond1313](https://github.com/desmond1313)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
+- [Rodolfo Cabral Neves](https://github.com/roddas)
 
 <!-- prettier-ignore-end -->
