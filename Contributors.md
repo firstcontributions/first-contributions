@@ -58,6 +58,7 @@
 - [Ricky Hernandez](https://github.com/code2244)
 - [Jackbaklava](https://github.com/Jackbaklava)
 - [James Coates](https://github.com/nexuspcs)
+- [Aaron Bermudez](https://github.com/AaronB3110)
 - [James Wigg](https://github.com/Shaydas1)
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
