@@ -7,6 +7,7 @@
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
+Harsh Shah
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Souradeep Das](https://github.com/shadesin)
 - [Maxime Boucher](https://github.com/themaxboucher)
