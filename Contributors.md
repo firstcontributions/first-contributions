@@ -71,6 +71,7 @@
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Kanyisa Ntombini](https://github.com/Kanyisa-Ntombini)
+- [Sai Kumar](https://github.com/hellosai-github)
 - [Acha Rha'ah](https://github.com/AchaRhah)
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
