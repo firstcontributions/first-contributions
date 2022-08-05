@@ -9,6 +9,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Souradeep Das](https://github.com/shadesin)
+- [Maxime Boucher](https://github.com/themaxboucher)
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Louka Tran](https://github.com/loukacodes)
