@@ -256,6 +256,7 @@
 - [Khushi Jashnani](https://github.com/khushijashnani)
 - [Sadam Hussain](https://github.com/sadamhussain-m)
 - [Collins Ruto](https://github.com/collins-ruto)
+- [JamesDev](https://github.com/RScanlon2021)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Elizabeth Cantu](https://github.com/Esagecc)
 - [Abbey Santos](https://github.com/AbbeyIT)
