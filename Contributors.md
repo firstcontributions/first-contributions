@@ -76,6 +76,7 @@ Harsh Shah
 - [satoko 🐈‍⬛](https://github.com/satoko)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Kanyisa Ntombini](https://github.com/Kanyisa-Ntombini)
+- [Sagore Sarker] (https://github.com/sagoresarker)
 - [Sai Kumar](https://github.com/hellosai-github)
 - [Acha Rha'ah](https://github.com/AchaRhah)
 - [Naveen Narayanan](https://github.com/stealthyninja86)
