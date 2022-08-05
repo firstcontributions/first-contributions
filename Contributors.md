@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 
 - [Samuel Echols](https://github.com/sechols223)
-- [SoftwareArchitect9817](https://github.com/SoftwareArchitect9817)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lubna Fathima N](https://github.com/lubnafathima)
