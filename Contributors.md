@@ -5,6 +5,7 @@
 - [Samuel Echols](https://github.com/sechols223)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
+- [Lyndon Purcell](https://github.com/ljpurcell)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 Harsh Shah
