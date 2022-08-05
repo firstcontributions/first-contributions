@@ -10,6 +10,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 Harsh Shah
 - [Sameed Khan](https://github.com/Sameedkhan25)
+- [Abdul Samad](https://github.com/asamadsid)
 - [Souradeep Das](https://github.com/shadesin)
 - [Maxime Boucher](https://github.com/themaxboucher)
 - [Hari om Singh](https://github.com/Harixomxsingh)
