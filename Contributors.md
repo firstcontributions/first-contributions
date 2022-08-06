@@ -70,6 +70,7 @@ Harsh Shah
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
 - [Issac Lopez](https://github.com/Issac-Lopez)
+- [Michael RV](https://github.com/mike-rv)
 - [Anmol Panchal](https://github.com/anmolp476)
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
 - [Tanvi Rana](https://github.com/tanvirana)
