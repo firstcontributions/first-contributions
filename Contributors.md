@@ -1548,6 +1548,6 @@ Harsh Shah
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
-
+- [VenomAI](https://github.com/venomboss985)
 
 <!-- prettier-ignore-end -->
