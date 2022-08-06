@@ -17,6 +17,7 @@ Harsh Shah
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Louka Tran](https://github.com/loukacodes)
+- [Austin Marking](https://github.com/asmarking)
 - [Dave Collison](https://github.com/thebigdavec)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
