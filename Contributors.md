@@ -4,6 +4,7 @@
 
 - [Matthew Gigante] (https://github.com/matthew0420)
 - [Samuel Echols](https://github.com/sechols223)
+- [Yasier Ansari](https://github.com/yasier-ansari)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lyndon Purcell](https://github.com/ljpurcell)
