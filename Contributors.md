@@ -1203,6 +1203,7 @@ Harsh Shah
 - [Oladle Damilola](https://github.com/activus-d)
 - [SkiBlue](https://github.com/skiblue3)
 - [Ashish vajpayee](https://github.com/Ashish-Vajpayee)
+- [Hasan Rizvi] (https://github.com/Hasanrizvi1993)
 - [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
