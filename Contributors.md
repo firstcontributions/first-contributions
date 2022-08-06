@@ -12,7 +12,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 Harsh Shah
 - [Sameed Khan](https://github.com/Sameedkhan25)
-- Axel Badam
+- Axel Badamm
 - [Abdul Samad](https://github.com/asamadsid)
 - [Souradeep Das](https://github.com/shadesin)
 - [Maxime Boucher](https://github.com/themaxboucher)
