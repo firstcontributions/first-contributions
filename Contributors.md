@@ -1553,7 +1553,7 @@ Harsh Shah
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
 - [Aman](https://github.com/amanace)
-
+- [Shiran Elad](https://github.com/shiranelad)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
