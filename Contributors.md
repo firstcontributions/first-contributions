@@ -856,6 +856,7 @@ Harsh Shah
 - [Saad Amir](https://github.com/saadamirpk)
 - [Kevin Shi](https://github.com/kshi4234)
 - [Srehdeep](https://github.com/Srehdeep)
+- [Ferdroid8080](https://github.com/ferdroid8080)
 - [Howard Wang](https://github.com/Howarang12)
 - [miyashiro1](https://github.com/miyashiro1)
 - [Franco Filippi](https://github.com/frcofilippi)
