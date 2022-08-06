@@ -1503,6 +1503,7 @@ Harsh Shah
 - [Chi-lun Chu](https://github.com/ChilunC)
 - [Arturo Rodrigo](https://github.com/ArturRod)
 - [Jsvends](https://github.com/jsvends)
+- [Yash Kumar](https://github.com/yashkc2025)
 - [Arturo Rodrigo](https://github.com/ArturRod)
 - [Rohan Pawar](https://github.com/rohaan-pawar)
 - [Hassani sayed](https://github.com/hamzahassani)
