@@ -1456,6 +1456,7 @@ Harsh Shah
 - [John Wheldale](https://github.com/whejy)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Ohr Tsadok](https://github.com/thelight413)
+- [Bilal Zahid](https://github.com/bilalzhd)
 - [Gavin M](https://github.com/gmeeker99)
 - [Samyak Kumar Sahoo](https://github.com/samyak1999)
 - [Triss Marsh](https://github.com/distriss)
