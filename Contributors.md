@@ -522,6 +522,7 @@ Harsh Shah
 - [Iano Njuguna](https://github.com/IanoNjuguna)
 - [Mahaveer Jain](https://github.com/mahaveer82)
 - [Rachel Chen](https://github.com/RachelJiarui)
+- [Isuru Gunarathne](https://github.com/IsuruGunarathne)
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
