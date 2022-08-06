@@ -20,7 +20,7 @@ Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en
 Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha en esta página.
 Esto creará una copia de este repositorio en tu cuenta.
 
-## Clona (*Clone*) el repositorio
+## Clona (*Clone*) el repositorio bifurcado
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
@@ -81,7 +81,7 @@ git commit -m "Add <tu-nombre> to Contributors list"
 ```
 cambiando `<tu-nombre>` con tu nombre.
 
-## Manda (*Push*) tus cambios a GitHub
+## Sube (*Push*) tus cambios a GitHub
 
 Haz *push* de tus cambios usando el comando `git push`:
 ```
