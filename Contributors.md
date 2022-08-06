@@ -535,6 +535,7 @@ Harsh Shah
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
 - [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
+- [David Borry](https://github.com/davidborry)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
 - [Md Anisur Rahman](https://github.com/a-n-i-s)
