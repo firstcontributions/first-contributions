@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Matthew Gigante] (https://github.com/matthew0420)
 - [Samuel Echols](https://github.com/sechols223)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
