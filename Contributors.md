@@ -44,6 +44,7 @@ Harsh Shah
 - [Yahya Benmahane](https://github.com/yahyabene)
 - [Liam Platt-Young](https://github.com/liamnpynz)
 - [Tuan Anh](https://github.com/ez2do)
+- [General Kenobi](https://github.com/snowboulder)
 - [Keshav Sharma](https://github.com/ksharma20/)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
