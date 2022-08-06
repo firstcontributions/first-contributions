@@ -54,6 +54,7 @@ Harsh Shah
 - [Aaron Lin](https://github.com/shinganlin)
 - [Harshad Hirapara](https://github.com/harshad389)
 - [Namya Khan](https://github.com/namyakhan)
+- [Zarau baidu](https://github.com/zeerau)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
 - [Angela Yuan](https://github.com/AngelaSYuan/)
