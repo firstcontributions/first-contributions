@@ -429,7 +429,7 @@ Harsh Shah
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - [Brady Camp](https://github.com/bradyjcamp)
-- [Noam Peleg](https://github.com/Peleg-Noam)
+- [Noama Peleg](https://github.com/Peleg-Noam)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Gideon Balogun](https://github.com/itzgeebee)
 - [Chiobi Jason](https://github.com/ChiobiJason)
@@ -1577,5 +1577,5 @@ Harsh Shah
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 
 - [spark07](https://github.com/sparkO7)
-
+- [Gourav Mandhane](https://github.com/gourav-mandhane)
 <!-- prettier-ignore-end -->
