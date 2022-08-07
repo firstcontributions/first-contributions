@@ -148,6 +148,7 @@ Harsh Shah
 - [Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
 - [Rai Shahnawaz Khan](https://github.com/raishahnawaz95)
+- [Assaad Ziade](https://github.com/Assaad-Ziade)
 - [Ivan Fitzpatrick](https://github.com/iftzp)
 - [Alexandru Sirbu](https://github.com/AlexandruPaul21)
 - [Faizan Rasool](https://github.com/faizanraso)
