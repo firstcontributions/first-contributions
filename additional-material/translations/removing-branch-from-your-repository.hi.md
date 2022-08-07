@@ -7,12 +7,12 @@
 git checkout master
 ```
 
-मास्टर में `<add-your-name>`मर्ज करें:
+उसके बाद मास्टर में `<add-your-name>`मर्ज करें:
 ```
 git merge <add-your-name> master
 ```
 
-अपने स्थानीय मशीन के रेपो से `<add-your-name>` निकालें:
+फिर अपने स्थानीय मशीन के रेपो से `<add-your-name>` निकालें:
 ```
 git branch -d <add-your-name>
 ```
