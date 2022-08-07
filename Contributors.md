@@ -12,6 +12,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 Harsh Shah
 - [vandit Tyagi](https://github.com/vandit98)
+- [Aryan Singh](https://github.com/singharyan1007)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
 - [Joa Leitola](https://github.com/jjooaa)
