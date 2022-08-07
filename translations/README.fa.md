@@ -6,7 +6,7 @@
 <p align="right">
 
 # اولین مشارکت
-این پروژه قصد دارد تا مسیر مشارکت در پروژه‌های متن‌باز را برای تازه‌کارها آسان نماید. اگر شما نیز بدنبال راهی برای ثبت اولین مشارکت خود هستید، این اقدامات را دنبال کنید.
+هدف این پروژه، نمایش و اجرای فرآیند مشارکت در پروژه‌های متن باز به برنامه‌نویسان تازه‌کار می‌باشد. اگر شما هم بدنبال راهی برای ثبت اولین مشارکت خود هستید، این مراحل را دنبال کنید.
 
 _اگر با محیط کامندی (CLI) احساس راحتی نمی‌کنید، [راهنمای استفاده از ابزارهای گرافیکی (GUI) را مشاهده کنید](#آموزش-انجام-مشارکت-در-دیگر-ابزارها)._
 
@@ -88,16 +88,16 @@ git push origin <add-your-branch-name>
 
 نهایتا، من تغییرات شما را به برنچ master پروژه اضافه (merge) خواهم کرد. بلافاصله پس از مرج شدن درخواست شما، یک ایمیل مبنی بر همین موضوع برای شما ارسال خواهد شد.
 
-## اقدامات بعدی
-تبریک! شما مراحل فورک کردن، کلون کردن، ایجاد تغییرات و پول رکوئست را به خوبی پشت سر گذاشتید.
+## حالا چطوری باید ادامه بدید!
+تبریک میگم! شما تمامی مراحل مشارکت در توسعه متن باز اعم از فورک، کلون، ایجاد تغییرات و پول ریکوئست را به خوبی پشت سر گذاشتید.
 
-مشارکت خود روی این پروژه را [از اینجا](https://firstcontributions.github.io/#social-share) با دیگر دوستان و دنبال‌کنندگان خود جشن بگیرید.
+مشارکت خود در این پروژه متن باز را [از اینجا](https://firstcontributions.github.io/#social-share) با دیگر دوستان و دنبال‌کنندگان خود جشن بگیرید.
 
-همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
+همچنین شما با عضویت در [نیم slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)، می توانید سوالات خود را با دیگر اعضا مطرح نمایید.
 
 حال، شما می‌توانید مشارکت خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک لیست از پروژه‌ها با مشکلات ساده ایجاد کردیم که گزینه خوبی برای شروع می‌باشد. لیست پروژه‌ها را [از این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
 
-### [اطلاعات بیشتر](additional-material/git_workflow_scenarios/additional-material.md)
+### برای کسب [اطلاعات بیشتر](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## آموزش انجام مشارکت در دیگر ابزارها
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
