@@ -14,6 +14,7 @@ aestadt
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 Harsh Shah
 - [vandit Tyagi](https://github.com/vandit98)
+- [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
