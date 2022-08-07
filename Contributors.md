@@ -1187,6 +1187,7 @@ Harsh Shah
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
+- [imohdalam](https://github.com/imohdalam)
 - [Shegun Samuel](https://github.com/Shegun-istaken)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
