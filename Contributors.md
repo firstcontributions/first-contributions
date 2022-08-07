@@ -18,6 +18,7 @@ Harsh Shah
 - [Souradeep Das](https://github.com/shadesin)
 - [Maxime Boucher](https://github.com/themaxboucher)
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [Finson Coutinho](https://github.com/finsoncoutinho)
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
