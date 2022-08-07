@@ -10,6 +10,7 @@
 - [Lyndon Purcell](https://github.com/ljpurcell)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
+- [Arka Pratim Chaudhuri](https://github.com/arka1002)
 Harsh Shah
 - [vandit Tyagi](https://github.com/vandit98)
 - [Aryan Singh](https://github.com/singharyan1007)
