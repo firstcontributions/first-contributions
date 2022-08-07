@@ -10,7 +10,7 @@
 - [Lyndon Purcell](https://github.com/ljpurcell)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
-Harsh Shah
+  Harsh Shah
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Ian Johnston](https://github.com/ianjojo)
 - [Abdul Samad](https://github.com/asamadsid)
@@ -1485,7 +1485,7 @@ Harsh Shah
 - [Priyanshu Gupta](https://github.com/priyanshu411/)
 - [Ibrahim Khalil](https://github.com/bsse1009)
 - [Cristi](https://github.com/cristi00794)
-- [etamarh12]( https://github.com/etamarh12)
+- [etamarh12](https://github.com/etamarh12)
 - [Sanudra](https://github.com/samudra-perera)
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
@@ -1562,7 +1562,7 @@ Harsh Shah
 - [Raul Viana](https://github.com/raulviana)
 - [Guru](https://github.com/ChattiGuruRaghavendra)
 - [desmond1313](https://github.com/desmond1313)
-- Wisdomn_
+- Wisdomn\_
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
 - [Aman](https://github.com/amanace)
@@ -1572,5 +1572,5 @@ Harsh Shah
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 
 - [spark07](https://github.com/sparkO7)
-
+- [Ahmed Albarghouti](https://github.com/AhmedAlbarghouti)
 <!-- prettier-ignore-end -->
