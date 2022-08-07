@@ -77,6 +77,7 @@ Harsh Shah
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Zeerak](https://github.com/zeerakb1/)
 - [Isidro Mata](https://github.com/EyesOfSiva/)
+- [Himanshu Rathore](https://github.com/Himanshu2561/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Eugene Kim](https://github.com/beyondGnE/)
 - [let-light-shine](https://github.com/let-light-shine)
