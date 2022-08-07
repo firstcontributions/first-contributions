@@ -13,6 +13,7 @@
 Harsh Shah
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Abdul Samad](https://github.com/asamadsid)
+- [Kavya Jain](https://github.com/kj71)
 - [Souradeep Das](https://github.com/shadesin)
 - [Maxime Boucher](https://github.com/themaxboucher)
 - [Hari om Singh](https://github.com/Harixomxsingh)
