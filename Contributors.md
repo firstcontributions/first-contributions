@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [Matthew Gigante] (https://github.com/matthew0420)
+- [Matthew Gigante](https://github.com/matthew0420)
 - [Samuel Echols](https://github.com/sechols223)
 aestadt
 - [Yasier Ansari](https://github.com/yasier-ansari)
@@ -133,6 +133,7 @@ Harsh Shah
 - [Ben Cruickshank](https://github.com/officerclucks)
 - [Nissan]
 - [z3one]
+- [amun06](https://github.com/amun06)
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
 - [Harvey Munoz] (https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
