@@ -255,6 +255,7 @@ Harsh Shah
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Cem Yilmaz](https://github.com/PokerCoder)
 - [Jason Wilson](https://github.com/WilsonJhub)
+- [Jason Rickenbacher](https://github.com/JRickenbacher)
 - [Andre G](https://github.com/Xephna)
 - [Naveen Sequeira](https://github.com/navseq)
 - [Alexander Castillo](https://github.com/Jhuiice)
