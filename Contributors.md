@@ -220,6 +220,7 @@ Harsh Shah
 - [Nitant Makwana](https://github.com/Codeboy6496)
 - [Atakan Pars](https://github.com/AP9747)
 - [Federico Speltini](https://github.com/FedeSpeltini)
+- [Saeed Yari](https://github.com/sisiun)
 - [Marissa Langham](https://github.com/MaRissaLangham)
 - [Fidel Ramos](https://github.com/FidelAlberto)
 - [Jana Hafez](https://github.com/JanaHafez1)
