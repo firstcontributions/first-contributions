@@ -57,6 +57,7 @@ Harsh Shah
 - [Aaron Lin](https://github.com/shinganlin)
 - [Harshad Hirapara](https://github.com/harshad389)
 - [Namya Khan](https://github.com/namyakhan)
+- [Doron Griffin-Tann] (https://github.com/TheDiamondSkyv32)
 - [Zarau baidu](https://github.com/zeerau)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
