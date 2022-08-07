@@ -2,6 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
+
+- [Hareesh Bhittam] (https://github.com/Hareesh108)
 - [Matthew Gigante] (https://github.com/matthew0420)
 - [Samuel Echols](https://github.com/sechols223)
 - [Yasier Ansari](https://github.com/yasier-ansari)
