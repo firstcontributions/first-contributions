@@ -4,6 +4,7 @@
 
 - [Matthew Gigante] (https://github.com/matthew0420)
 - [Samuel Echols](https://github.com/sechols223)
+aestadt
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
@@ -18,7 +19,6 @@ Harsh Shah
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
 - [Joa Leitola](https://github.com/jjooaa)
 - [Ian Johnston](https://github.com/ianjojo)
-aestadt
 - [Abdul Samad](https://github.com/asamadsid)
 - [Kavya Jain](https://github.com/kj71)
 - [Souradeep Das](https://github.com/shadesin)
