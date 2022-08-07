@@ -12,6 +12,7 @@
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 Harsh Shah
 - [Sameed Khan](https://github.com/Sameedkhan25)
+- abdullah muhammad moosa
 - [Ian Johnston](https://github.com/ianjojo)
 - [Abdul Samad](https://github.com/asamadsid)
 - [Kavya Jain](https://github.com/kj71)
