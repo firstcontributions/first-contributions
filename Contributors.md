@@ -274,6 +274,7 @@ Harsh Shah
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
+- [Dhruvesh Navghare](https://github.com/dhruvesh9)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Lenin Chris Fernandes](https://github.com/Lchris22)
