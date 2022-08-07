@@ -26,6 +26,7 @@ Harsh Shah
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
 - [CyOfficial](https://github.com/CyOfficial)
+- [neuralpain](https://github.com/neuralpain)
 - [Loju](https://github.com/looju)
 - [Hagay Haut](https://github.com/HagayHaut)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
