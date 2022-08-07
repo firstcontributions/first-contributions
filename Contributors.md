@@ -23,6 +23,7 @@ Harsh Shah
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Finson Coutinho](https://github.com/finsoncoutinho)
 - [Darian Ngo](https://github.com/itsDarianNgo)
+- [Matthew Dunn] (https://github.com/pyr1te)
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
 - [Dave Collison](https://github.com/thebigdavec)
