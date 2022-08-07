@@ -1578,5 +1578,6 @@ Harsh Shah
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 
 - [spark07](https://github.com/sparkO7)
+- [taimoon](https://github.com/taimoon)
 
 <!-- prettier-ignore-end -->
