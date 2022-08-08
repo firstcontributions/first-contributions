@@ -1586,7 +1586,7 @@ Harsh Shah
 - [Aman](https://github.com/amanace)
 - [Maximiliano Vinzón](https://github.com/mvinzon)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
-
+- [Khadijah Kelly][https://github.com/deedeenkelly1995]
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 
 - [spark07](https://github.com/sparkO7)
