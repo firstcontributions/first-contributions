@@ -187,7 +187,7 @@ Harsh Shah
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
 - [Wayne Cen](https://github.com/waynecen)
-- 
+-
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
@@ -1564,6 +1564,7 @@ Harsh Shah
 - [Ankita Malik](https://github.com/AnkitaMalik22)
 - [Jerry Gathu](https://github.com/Gathu17)
 - [Tetbirt Aimen](https://github.com/Einma)
+- [Matin](https://github.com/wreck2build)
 - [Yuichi Dobashi](https://github.com/y-dobashi)
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
