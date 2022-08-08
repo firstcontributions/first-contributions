@@ -17,6 +17,7 @@ aestadt
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
+- Ayushi Kotiyal
 Harsh Shah
 - [vandit Tyagi](https://github.com/vandit98)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
