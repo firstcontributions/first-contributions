@@ -6,6 +6,7 @@
 - [Dileepa Samarawickrama](https://github.com/dnsamw)
 - [Tanya Tomar](https://github.com/tanyatomar98)
 - [Samuel Echols](https://github.com/sechols223)
+- [Uzair Hussain](https://github.com/Uzairhussain98)
 aestadt
 - [Kevin Sukher](https://github.com/KSukher)
 - [Yasier Ansari](https://github.com/yasier-ansari)
