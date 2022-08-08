@@ -1597,5 +1597,6 @@ Harsh Shah
 - [spark07](https://github.com/sparkO7)
 - [taimoon](https://github.com/taimoon)
 - [Hubert Ooi](https://github.com/hubertooi)
+- [Michael Mohlomi] (https://github.com/MohlomiKM)
 
 <!-- prettier-ignore-end -->
