@@ -245,6 +245,7 @@ Harsh Shah
 - [Harsh kumar](https://github.com/thisisharsh7)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Matthew Hutchinson](https://github.com/sedgwuck)
+- [Marisa Brantley] (https://github.com/marisabrantley)
 - [Noordeep Kaur](https://github.com/Noor291)
 - [Mohd Adil](https://github.com/Mohd-Adil-JMI)
 - [Henry Arboladora](https://github.com/Henry-Arb)
