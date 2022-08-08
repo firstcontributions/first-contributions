@@ -41,6 +41,7 @@ Harsh Shah
 - [neuralpain](https://github.com/neuralpain)
 - [Loju](https://github.com/looju)
 - [Hagay Haut](https://github.com/HagayHaut)
+- [Mayukh Bhowmick](https://github.com/mayukh551)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
