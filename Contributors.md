@@ -945,6 +945,7 @@ Harsh Shah
 - [Mustafa Ali](https://github.com/MustafaAliDS)
 - [Ron Ran](https://github.com/ronran1)
 - [Raydel Comas](https://github.com/rcomas91)
+- [Bálint Kőrösi](https://github.com/korbal)
 - [Andrea](https://github.com/gitand)
 - [Garrett Clough](https://github.com/garrettclough)
 - [David Cao](https://github.com/DavidCao4626)
