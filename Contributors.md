@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Matthew Gigante](https://github.com/matthew0420)
+- [Dileepa Samarawickrama](https://github.com/dnsamw)
 - [Tanya Tomar](https://github.com/tanyatomar98)
 - [Samuel Echols](https://github.com/sechols223)
 aestadt
