@@ -105,6 +105,7 @@ Harsh Shah
 - [Aaron Bermudez](https://github.com/AaronB3110)
 - [James Wigg](https://github.com/Shaydas1)
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
+- [Vineeth B V](https://github.com/vinsdragonis)
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [Tobiloba Isaiah Adebisi] (https://github.com/Adebisi1234)
