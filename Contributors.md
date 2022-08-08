@@ -187,7 +187,7 @@ Harsh Shah
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
 - [Wayne Cen](https://github.com/waynecen)
-- 
+- [Jessica van der Merwe](https://github.com/JessicavdM)
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
