@@ -7,6 +7,7 @@
 - [Tanya Tomar](https://github.com/tanyatomar98)
 - [Samuel Echols](https://github.com/sechols223)
 aestadt
+- [Kevin Sukher](https://github.com/KSukher)
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
