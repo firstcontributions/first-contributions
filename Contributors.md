@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Matthew Gigante](https://github.com/matthew0420)
+- [Tanya Tomar](https://github.com/tanyatomar98)
 - [Samuel Echols](https://github.com/sechols223)
 aestadt
 - [Yasier Ansari](https://github.com/yasier-ansari)
