@@ -46,6 +46,7 @@ Harsh Shah
 - [Hagay Haut](https://github.com/HagayHaut)
 - [Mayukh Bhowmick](https://github.com/mayukh551)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
+- [Tushar Pathak](https://github.com/tushar54594)
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
