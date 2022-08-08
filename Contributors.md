@@ -47,6 +47,7 @@ Harsh Shah
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
+- [Debojit Pushilal](https://github.com/Evoder15)
 - [Deepak Singh](https://github.com/deepak427)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
