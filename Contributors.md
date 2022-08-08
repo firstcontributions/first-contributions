@@ -197,6 +197,7 @@ Harsh Shah
 - [Arnav Kamath](https://github.com/arnalph)
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Omkar Ramishte](https://github.com/omk-coder)
+- [John Budd](https://github.com/Jbudd512)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
