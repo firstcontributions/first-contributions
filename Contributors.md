@@ -84,6 +84,7 @@ Harsh Shah
 - [General Kenobi](https://github.com/snowboulder)
 - [Keshav Sharma](https://github.com/ksharma20/)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
+- [Dalibor Maljurić](https://github.com/RegularEverydayAverageGuy)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
 - [Aaron Lin](https://github.com/shinganlin)
 - [Harshad Hirapara](https://github.com/harshad389)
