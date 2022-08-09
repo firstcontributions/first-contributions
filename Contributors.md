@@ -782,6 +782,7 @@ Harsh Shah
 - [Ahmed Zougari](https://github.com/zougari47)
 - [Sanjog Rijal](https://github.com/SanjogRijal)
 - [Daniel Gaerber](https://github.com/Gandagorn)
+- [Ryan Luna](https://github.com/Gandagorn)
 - [dbsaw](https://github.com/dbsaw)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
