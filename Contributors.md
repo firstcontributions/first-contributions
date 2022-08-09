@@ -99,6 +99,7 @@ Harsh Shah
 - [Angela Yuan](https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
 - [Joshua-Levish](https://github.com/jdlevish)
+- [ConkyTheGreat2](https://github.com/ConkyTheGreat)
 - [Nicholas-Barker](https://github.com/InhumanNick)
 - [Avinash-Nandan](https://github.com/Avinash219)
 - [Kshitij Radotra](https://github.com/kshitij-ra)
