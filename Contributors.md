@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Shivam Pande](https://github.com/ShivamPande18)
+- [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Adriaan Louw](https://github.com/Boskrag)
