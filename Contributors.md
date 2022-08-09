@@ -13,6 +13,7 @@
 aestadt
 - [Kevin Sukher](https://github.com/KSukher)
 - [Vinay Kumar](https://github.com/n4ryn)
+- [HBO](https://github.com/badbatunde)
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
