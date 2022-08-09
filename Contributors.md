@@ -18,6 +18,7 @@ aestadt
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
 - [Yasier Ansari](https://github.com/yasier-ansari)
+- [Nathan TT](https://github.com/nthaitang7)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lyndon Purcell](https://github.com/ljpurcell)
