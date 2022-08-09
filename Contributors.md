@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Shivam Pande](https://github.com/ShivamPande18)
+- [Clark D. Hou](https://github.com/cdh31211811)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Adriaan Louw](https://github.com/Boskrag)
