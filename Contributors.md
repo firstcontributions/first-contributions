@@ -14,6 +14,7 @@
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 aestadt
+- [Colin Mclaughlin](https://github.com/colin-mcl)
 - [Kevin Sukher](https://github.com/KSukher)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
