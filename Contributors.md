@@ -89,6 +89,7 @@ Harsh Shah
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
 - [Angela Yuan](https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
+- [Joshua-Levish](https://github.com/jdlevish)
 - [Nicholas-Barker](https://github.com/InhumanNick)
 - [Avinash-Nandan](https://github.com/Avinash219)
 - [Kshitij Radotra](https://github.com/kshitij-ra)
