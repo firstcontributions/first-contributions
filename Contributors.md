@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Anastasia Belenkii](https://github.com/Hoskayne)
+- [Adriaan Louw](https://github.com/Boskrag)
 - [Pablo Gomes🃏⛱](https://github.com/pgng08)
 - [Matthew Gigante](https://github.com/matthew0420)
 - [Dileepa Samarawickrama](https://github.com/dnsamw)
