@@ -11,6 +11,7 @@
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 aestadt
 - [Kevin Sukher](https://github.com/KSukher)
+- [Vinay Kumar](https://github.com/n4ryn)
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
