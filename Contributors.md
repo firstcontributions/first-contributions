@@ -53,6 +53,7 @@ Harsh Shah
 - [Vennila Pugazhenthi](https://github.com/VennilaPugazhenthi)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
+- [Michael Lee Piotrowski](https://www.github.com/MikePiotrowski)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Prathamesh Kirad](https://github.com/Prathamesh-V-Kirad)
 - [neuralpain](https://github.com/neuralpain)
