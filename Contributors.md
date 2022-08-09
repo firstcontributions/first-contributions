@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Muhammad Ibrahim](https://github.com/ibrahimqureshae)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
@@ -12,7 +13,7 @@
 - [Tanya Tomar](https://github.com/tanyatomar98)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
-aestadt
+- [aestadt]
 - [Kevin Sukher](https://github.com/KSukher)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
@@ -20,12 +21,12 @@ aestadt
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lyndon Purcell](https://github.com/ljpurcell)
-- - [Samar Pratap](https://github.com/noughtsamar)
+- [Samar Pratap](https://github.com/noughtsamar)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
-- Ayushi Kotiyal
-Harsh Shah
+- [Ayushi Kotiyal]
+- [Harsh Shah]
 - [vandit Tyagi](https://github.com/vandit98)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
@@ -119,7 +120,7 @@ Harsh Shah
 - [Vineeth B V](https://github.com/vinsdragonis)
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
 - [Issac Lopez](https://github.com/Issac-Lopez)
-- [Tobiloba Isaiah Adebisi] (https://github.com/Adebisi1234)
+- [Tobiloba Isaiah Adebisi](https://github.com/Adebisi1234)
 - [Michael RV](https://github.com/mike-rv)
 - [Anmol Panchal](https://github.com/anmolp476)
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
@@ -129,7 +130,7 @@ Harsh Shah
 - [Noel Castillon 🐳](https://github.com/noelcastillon1)
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Kanyisa Ntombini](https://github.com/Kanyisa-Ntombini)
-- [Sagore Sarker] (https://github.com/sagoresarker)
+- [Sagore Sarker](https://github.com/sagoresarker)
 - [Sai Kumar](https://github.com/hellosai-github)
 - [Acha Rha'ah](https://github.com/AchaRhah)
 - [Naveen Narayanan](https://github.com/stealthyninja86)
@@ -160,7 +161,7 @@ Harsh Shah
 - [z3one]
 - [amun06](https://github.com/amun06)
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
-- [Harvey Munoz] (https://github.com/Zyhru)
+- [Harvey Munoz](https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
@@ -207,7 +208,6 @@ Harsh Shah
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
 - [Wayne Cen](https://github.com/waynecen)
--
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
@@ -229,7 +229,7 @@ Harsh Shah
 - [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
 - [Ponder E. Stine](https://github.com/ponderstine)
 - [Ricardo Augustine](https://github.com/r-augustine)
-- RobertTheLeft
+- [RobertTheLeft]
 - [Atul Raj](https://github.com/King-Atul)
 - [Byeongun Park](https://github.com/bupark82)
 - [Mubashir Ahmed](https://github.com/Mubashir-Md)
@@ -241,7 +241,7 @@ Harsh Shah
 - [Andika Eka Kurnia](https://github.com/dikdns)
 - [Elena Sarnouk](https://github.com/elenasarnouk)
 - [Berkay Kuytuoğlu](https://github.com/doandroidsdreamof)
-- [Kevin O'Brien] (https://github.com/KevinOBrien8)
+- [Kevin O'Brien](https://github.com/KevinOBrien8)
 - [Tan](https://github.com/tan1193)
 - [Jaturon JT](https://github.com/Jattyz)
 - [Daniel Bowen](https://github.com/Dbowen89)
