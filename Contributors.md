@@ -1624,5 +1624,6 @@ Harsh Shah
 - [Mohit Jain] (https://github.com/mohit229123)
 - [Ruan Huysen] (https://github.com/Rhman101)
 - [Ashutosh Shinde] (https://github.com/CelestialLemon)
+- [Fpersistent](https://github.com/FPersistent)
 
 <!-- prettier-ignore-end -->
