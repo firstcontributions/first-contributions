@@ -825,6 +825,7 @@ Harsh Shah
 - [Tomas Perez](https://github.com/ttomrp)
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
+- [Rathish Aadiraja](https://github.com/RathishAadiraja)
 - [David Miller](https://github.com/davidmiller2013)
 - [Joevanie Canete Jr](https://github.com/joevanie-canete-jr)
 - [Bjørnar Otterlei](https://github.com/Bcdo)
