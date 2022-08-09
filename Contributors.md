@@ -5,6 +5,7 @@
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
+- [Abhijeet Kumar](https://github.com/abhijeetbyte)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Adriaan Louw](https://github.com/Boskrag)
 - [Pablo Gomes🃏⛱](https://github.com/pgng08)
