@@ -40,6 +40,7 @@ Harsh Shah
 - [Dave Collison](https://github.com/thebigdavec)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
+- [Nash Vador](https://github.com/nashvador)
 - [Sean Anderson](https://github.com/haker2500)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
