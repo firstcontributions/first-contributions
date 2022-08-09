@@ -1468,13 +1468,13 @@
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
 - [Girraj Kishor](https://github.com/girrajkishor123)
 - [Steven Drake](https://github.com/sdrake01)
-  Karol Sykała
+- [Karol Sykała]
 - [Yosef_kiali](https://github.com/kiali-labs)
-  [Prajwal Yeri](https://github.com/Praj78)
+- [Prajwal Yeri](https://github.com/Praj78)
 - [Amrit](https://github.com/thelastpawn009)
 - [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
-  Mohammed Ameen
+- Mohammed Ameen
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
@@ -1613,15 +1613,13 @@
 - [Raul Viana](https://github.com/raulviana)
 - [Guru](https://github.com/ChattiGuruRaghavendra)
 - [desmond1313](https://github.com/desmond1313)
-- Wisdomn_
+- [Wisdomn_]
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
 - [Aman](https://github.com/amanace)
 - [Maximiliano Vinzón](https://github.com/mvinzon)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
-
 - [Rodolfo Cabral Neves](https://github.com/roddas)
-
 - [spark07](https://github.com/sparkO7)
 - [taimoon](https://github.com/taimoon)
 - [Hubert Ooi](https://github.com/hubertooi)
