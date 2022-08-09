@@ -57,6 +57,7 @@ Harsh Shah
 - [Prathamesh Kirad](https://github.com/Prathamesh-V-Kirad)
 - [neuralpain](https://github.com/neuralpain)
 - [Loju](https://github.com/looju)
+- [ConkyTheGreat](https://github.com/ConkyTheGreat)
 - [Hagay Haut](https://github.com/HagayHaut)
 - [Mayukh Bhowmick](https://github.com/mayukh551)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
