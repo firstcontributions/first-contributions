@@ -101,6 +101,7 @@ Harsh Shah
 - [Zeerak](https://github.com/zeerakb1/)
 - [Isidro Mata](https://github.com/EyesOfSiva/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
+- [Hoai-An Phan](https://github.com/hoaian-phan)
 - [Eugene Kim](https://github.com/beyondGnE/)
 - [let-light-shine](https://github.com/let-light-shine)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
