@@ -1627,5 +1627,6 @@ Harsh Shah
 - [Ruan Huysen] (https://github.com/Rhman101)
 - [Ashutosh Shinde] (https://github.com/CelestialLemon)
 - [Fpersistent](https://github.com/FPersistent)
+- [Sandeep Urankar](https://www.github.com/SandeepUrankar)
 
 <!-- prettier-ignore-end -->
