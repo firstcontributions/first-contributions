@@ -1619,7 +1619,7 @@ Harsh Shah
 - [Aman](https://github.com/amanace)
 - [Maximiliano Vinzón](https://github.com/mvinzon)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
-
+- [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 
 - [spark07](https://github.com/sparkO7)
