@@ -174,6 +174,7 @@ Harsh Shah
 - [dreamyvvoice](https://github.com/dreamyvoice)
 - [Alloun Mohand](https://https://github.com/Mohand2)
 - [Leo Estrella](https://github.com/sharpsight44)
+- [Michael NBDS](https://github.com/michael-nbds)
 - [Olin Johnson](https://github.com/olinjohnson)
 - [Francis O'Donnell](https://github.com/fjodonnell)
 - [Yair Daboul](https://github.com/yairdab)
