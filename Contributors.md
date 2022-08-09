@@ -98,6 +98,7 @@ Harsh Shah
 - [Vladislav-Mironov](https://github.com/Daleniant)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
+- [Ayush Yadav](https://github.com/ayush-wd)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Zeerak](https://github.com/zeerakb1/)
 - [Isidro Mata](https://github.com/EyesOfSiva/)
