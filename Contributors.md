@@ -1639,5 +1639,6 @@ Harsh Shah
 - [Ashutosh Shinde] (https://github.com/CelestialLemon)
 - [Fpersistent](https://github.com/FPersistent)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
+- [Mitchell Hayes](https://github.com/MitchellHayes) 
 
 <!-- prettier-ignore-end -->
