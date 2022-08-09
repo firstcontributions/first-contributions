@@ -1619,5 +1619,6 @@ Harsh Shah
 - [Michael Mohlomi] (https://github.com/MohlomiKM)
 - [Mohit Jain] (https://github.com/mohit229123)
 - [Ruan Huysen] (https://github.com/Rhman101)
+- [Ashutosh Shinde] (https://github.com/CelestialLemon)
 
 <!-- prettier-ignore-end -->
