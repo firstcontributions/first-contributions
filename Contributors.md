@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Shivam Pande](https://github.com/ShivamPande18)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Adriaan Louw](https://github.com/Boskrag)
 - [Pablo Gomes🃏⛱](https://github.com/pgng08)
