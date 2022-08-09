@@ -212,6 +212,7 @@ Harsh Shah
 - [Abdulla Aidhaan](https://github.com/i701)
 - [Arnav Kamath](https://github.com/arnalph)
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
+- [Stefan Kondring](https://github.com/s-kond)
 - [Omkar Ramishte](https://github.com/omk-coder)
 - [John Budd](https://github.com/Jbudd512) 
 - [Sadeedpv](https://github.com/Sadeedpv)
