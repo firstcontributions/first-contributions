@@ -684,6 +684,7 @@ Harsh Shah
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
+- [Thibaud Mallet](https://github.com/ThibaudMallet)
 - [incalescence](https://github.com/incalescence)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [Jonathan Adithya](https://github.com/jo-adithya)
