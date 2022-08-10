@@ -455,6 +455,7 @@ Sattyam Samania
 - [Shauna Empringham](https://github.com/ShaunaTheDead86)
 - [Hamza Juwaihan](https://github.com/hamzajuwaihan)
 - [Amira Ezzeldin](https://github.com/aezz4007)
+- [SanC](https://github.com/SanC005)
 - [andrei g](https://github.com/andrei-g-git)
 - [Zhengtong Nie](https://github.com/ztNIE)
 - [Azzzanadra](https://github.com/Azzzanadra)
