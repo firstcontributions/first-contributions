@@ -78,6 +78,7 @@ Sattyam Samania
 - [Debojit Pushilal](https://github.com/Evoder15)
 - [Deepak Singh](https://github.com/deepak427)
 - [MSweeley](https://github.com/MSweeley/)
+- [Raphael Radespiel] (https://github.com/Raphael-Radespiel)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
 - [XD](https://github.com/snowboulder)
