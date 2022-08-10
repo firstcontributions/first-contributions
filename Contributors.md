@@ -35,6 +35,7 @@ aestadt
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - Ayushi Kotiyal
 Harsh Shah
+Sattyam Samania
 - [vandit Tyagi](https://github.com/vandit98)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
