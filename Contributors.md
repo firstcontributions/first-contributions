@@ -34,6 +34,7 @@ aestadt
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - Ayushi Kotiyal
+- [Pratik Mishra](https://github.com/Pratik-here)
 Harsh Shah
 Sattyam Samania
 - [vandit Tyagi](https://github.com/vandit98)
