@@ -176,6 +176,7 @@ Harsh Shah
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
+- [Satvik Watts](https://github.com/SatvikWatts)
 - [Henry Le](https://github.com/henrysama58)
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
