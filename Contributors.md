@@ -53,6 +53,7 @@ Sattyam Samania
 - [Matthew Dunn] (https://github.com/pyr1te)
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
+- [Sushanta Mukherjee](https://github.com/sushantamukherjee/)
 - [Dave Collison](https://github.com/thebigdavec)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
