@@ -5,6 +5,7 @@
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Shivam Pande](https://github.com/ShivamPande18)
+- [Jaiden Crawford](https://github.com/Crawfish-h)
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
