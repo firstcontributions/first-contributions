@@ -3,7 +3,8 @@
 <!-- prettier-ignore-start -->
 
 - [Srisuma Atluri](https://github.com/Srisuma13)
-- [Lake Stevens](https://github.com/LakeChicken29)
+- [Rajeev Hansda](https://github.com/rajeevrhansda) 
+- [Lake Stevens] (https://github.com/LakeChicken29)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
@@ -17,6 +18,7 @@
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 - [aestadt]
+- [Irfan Ashraf](https://github.com/IrfanAshraf-pro)
 - [Colin Mclaughlin](https://github.com/colin-mcl)
 - [Kevin Sukher](https://github.com/KSukher)
 - [Vinay Kumar](https://github.com/n4ryn)
@@ -165,6 +167,7 @@
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
 - [Sandesh Verma](https://github.com/ren276)
 - [Andrew Skillett]
+- [Wahaj404](https://github.com/Wahaj404)
 - [happinyz]
 - [Noah Conway]
 - [Debarya Das]
@@ -177,6 +180,7 @@
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt ‍🫡](https://github.com/jwvogt)
 - [Aldo Arista 🐱‍](https://github.com/aldoawp)
+- [Satvik Watts](https://github.com/SatvikWatts)
 - [Henry Le](https://github.com/henrysama58)
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
