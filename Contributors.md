@@ -30,6 +30,7 @@ aestadt
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
 - [Yasier Ansari](https://github.com/yasier-ansari)
+- [Haley Seymour](https://github.com/hseymo)
 - [Nathan TT](https://github.com/nthaitang7)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
