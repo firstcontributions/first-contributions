@@ -72,6 +72,7 @@ Harsh Shah
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Debojit Pushilal](https://github.com/Evoder15)
 - [Deepak Singh](https://github.com/deepak427)
+- [MSweeley](https://github.com/MSweeley/)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
 - [XD](https://github.com/snowboulder)
