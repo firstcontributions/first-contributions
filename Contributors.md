@@ -9,6 +9,7 @@
 - [Ivan Loeza](https://github.com/iloeza)
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
+- [Corrie Botha](https://github.com/Kerneels94)
 - [Adriaan Louw](https://github.com/Boskrag)
 - [Pablo Gomes🃏⛱](https://github.com/pgng08)
 - [Matthew Gigante](https://github.com/matthew0420)
