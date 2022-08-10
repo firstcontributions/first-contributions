@@ -1616,6 +1616,7 @@ Sattyam Samania
 - [Juan Escobar](https://github.com/Totalreine)
 - [Shamsuddeen sadisu](https://github.com/shamsudeenb2)
 - [Peng Tao](https://github.com/kazenyas)
+- [rbonifac](https://github.com/rbonifac)
 - [GKosheev](https://github.com/GKosheev)
 - [Leonardo Goss](https://github.com/leopiresgoss)
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
