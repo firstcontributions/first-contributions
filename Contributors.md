@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
+- [NuggxtDev](https://github.com/Nuggxt)
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Jaiden Crawford](https://github.com/Crawfish-h)
