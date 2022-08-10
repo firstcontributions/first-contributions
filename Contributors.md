@@ -61,6 +61,7 @@ Sattyam Samania
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
 - [Sushanta Mukherjee](https://github.com/sushantamukherjee/)
+- [Yasin_xoxoedg](https://github.com/xoxoedg)
 - [Dave Collison](https://github.com/thebigdavec)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
