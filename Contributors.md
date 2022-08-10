@@ -21,6 +21,7 @@ aestadt
 - [Ismail Ahmad](https://github.com/SneezyG)
 - [Colin Mclaughlin](https://github.com/colin-mcl)
 - [Kevin Sukher](https://github.com/KSukher)
+- [Amr Emara](https://github.com/aemara)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
 - [Yasier Ansari](https://github.com/yasier-ansari)
@@ -1659,5 +1660,10 @@ Sattyam Samania
 - [Fpersistent](https://github.com/FPersistent)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
 - [Mitchell Hayes](https://github.com/MitchellHayes) 
+main
 - [Olla Bak](https://github.com/iamolla)
+
+- [Peashooter](https://github.com/RuibaiXu)
+
+main
 <!-- prettier-ignore-end -->
