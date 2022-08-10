@@ -1648,7 +1648,7 @@ Sattyam Samania
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
-
+- [Haris Ahmed](https://github.com/harisahmed321)
 - [spark07](https://github.com/sparkO7)
 - [taimoon](https://github.com/taimoon)
 - [Hubert Ooi](https://github.com/hubertooi)
