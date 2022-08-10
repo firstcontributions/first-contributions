@@ -118,6 +118,7 @@ Sattyam Samania
 - [Avinash-Nandan](https://github.com/Avinash219)
 - [Kshitij Radotra](https://github.com/kshitij-ra)
 - [Vladislav-Mironov](https://github.com/Daleniant)
+- [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
 - [Ayush Yadav](https://github.com/ayush-wd)
