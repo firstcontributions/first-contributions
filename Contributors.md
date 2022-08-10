@@ -1404,6 +1404,7 @@ Harsh Shah
 - [Majid Zahedi](https://github.com/majidzahedi)
 - [Enri](https://github.com/anaverage-enri)
 - [7w1](https://github.com/7w1)
+- [Pratik Singh](https://github.com/pratik12350)
 - [Mohammad Darmousa](https://github.com/mdarmousa)
 - [Bhaskar Sharma](https://github.com/imbhaskarn)
 - [Krayorn](https://github.com/Krayorn)
