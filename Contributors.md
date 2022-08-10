@@ -165,6 +165,7 @@ Harsh Shah
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
 - [Sandesh Verma](https://github.com/ren276)
 - [Andrew Skillett]
+- [Wahaj404](https://github.com/Wahaj404)
 - [happinyz]
 - [Noah Conway]
 - [Debarya Das]
