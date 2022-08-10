@@ -84,6 +84,7 @@ Harsh Shah
 - [Leyli Ghavami](https://github.com/lghavami)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Luccas Elias](https://github.com/chEfInHO0)
+- [Yujia Gu](https://github.com/yujia10)
 - [Ivan Djukic](https://github.com/ivandjuka77)
 - [Vincent Shadbolt](https://github.com/V-Shadbolt)
 - [Andujar Brutus](https://github.com/Brutusa)
@@ -229,7 +230,7 @@ Harsh Shah
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Stefan Kondring](https://github.com/s-kond)
 - [Omkar Ramishte](https://github.com/omk-coder)
-- [John Budd](https://github.com/Jbudd512) 
+- [John Budd](https://github.com/Jbudd512)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
@@ -1647,6 +1648,6 @@ Harsh Shah
 - [Ashutosh Shinde] (https://github.com/CelestialLemon)
 - [Fpersistent](https://github.com/FPersistent)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
-- [Mitchell Hayes](https://github.com/MitchellHayes) 
+- [Mitchell Hayes](https://github.com/MitchellHayes)
 
 <!-- prettier-ignore-end -->
