@@ -48,6 +48,7 @@ Sattyam Samania
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
 - [Sameed Khan](https://github.com/Sameedkhan25)
+- [Sebastian Hoyos](https://github.com/tamerlantian)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
 - [Joa Leitola](https://github.com/jjooaa)
 - [Ian Johnston](https://github.com/ianjojo)
