@@ -1611,6 +1611,7 @@ Harsh Shah
 - [Jerry Gathu](https://github.com/Gathu17)
 - [Tetbirt Aimen](https://github.com/Einma)
 - [Matin](https://github.com/wreck2build)
+- [Pujan Soni](https://github.com/pujansoni)
 - [Yuichi Dobashi](https://github.com/y-dobashi)
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
 - [michael bz](https://github.com/mikabz1)
