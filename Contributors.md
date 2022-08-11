@@ -797,6 +797,7 @@ Binyamin Roberts
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [Francisca Suarez](https://github.com/franciisca)
 - [careyuyu](https://github.com/careyuyu)
+- [Eseosa Oseghale](https://github.com/eseosa22)
 - [Akshat](https://github.com/Akshat-Mishra101)
 - [Priyangshu Sarkar](https://github.com/Priyangshu28)
 - [Paúl Millanes](https://github.com/PaulMilMor)
