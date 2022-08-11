@@ -1565,6 +1565,7 @@ Binyamin Roberts
 - [Andrey Kovalchuk](https://github.com/andrey1186)
 - [Mohammed Hashique A](https://github.com/hashiq300)
 - [Anomitro Das](https://github.com/ayanokoji024)
+- [Varun Kumar](https://github.com/vk-2000)
 - [Matthew Baker](https://github.com/leftstanding)
 - [Aditya Nandan - MAD](https://github.com/imadi-arch)
 - [John Wheldale](https://github.com/whejy)
