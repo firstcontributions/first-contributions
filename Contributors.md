@@ -4,6 +4,7 @@
 
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [NuggxtDev](https://github.com/Nuggxt)
+- [Jonathan Johnson](https://github.com/Nova-One)
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Konstantina Roumelioti] (https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
