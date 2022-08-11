@@ -795,6 +795,7 @@ Binyamin Roberts
 - [Muneeb ur rehman](https://github.com/HM-MUNEEB)
 - [Kenny Pearson](https://github.com/kenwoodp)
 - [Roger Stafford](https://github.com/rogerstafforducl)
+- [Aidan Ching](https://github.com/aidan-ching)
 - [Fernando Unger](https://github.com/fernandounger/)
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
 - [Omadoye Mary](https://github.com/Seundede)
