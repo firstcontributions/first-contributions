@@ -825,6 +825,7 @@ Binyamin Roberts
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
+- [Kumar Gandhi](https://github.com/kumargandhi/)
 - [John Sebastian](https://github.com/CapedBaldie)
 - [Ester Guri](https://github.com/esterguri)
 - [Caroline J. Dale](https://github.com/carolinejdale)
