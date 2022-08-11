@@ -12,6 +12,7 @@
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
+- [Ibe Chuks](https://github.com/IbeChuksVictor)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Corrie Botha](https://github.com/Kerneels94)
 - [Adriaan Louw](https://github.com/Boskrag)
