@@ -155,6 +155,7 @@ Binyamin Roberts
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
 - [Tanvi Rana](https://github.com/tanvirana)
 - [satoko 🐈‍⬛](https://github.com/satoko)
+- [Olamide Oladele] (https://github.com/OlamideOladele)
 - [Prasad Mutnale](https://github.com/Prasad-mutnale)
 - [Noel Castillon 🐳](https://github.com/noelcastillon1)
 - [Jeremy Quihano](https://github.com/jquihano)
