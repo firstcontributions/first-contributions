@@ -47,6 +47,7 @@ aestadt
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - Ayushi Kotiyal
+- Iqbal
 - [Andrew Virts](https://github.com/asvirts)
 Harsh Shah
 Sattyam Samania
