@@ -666,6 +666,7 @@ Binyamin Roberts
 - [Sean Chua](https://github.com/SeansC12)
 - [Dallin Hendig](https://github.com/Dallin1H)
 - [Shashwat Pragya](https://github.com/shashwat183)
+- [Brady Davenport](https://github.com/bradydavenport)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
 - [Airsayy](https://github.com/AirSayy)
