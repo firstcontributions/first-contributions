@@ -81,6 +81,7 @@ Sattyam Samania
 - [Hagay Haut](https://github.com/HagayHaut)
 - [Mayukh Bhowmick](https://github.com/mayukh551)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
+- [Tony Wang](https://github.com/ReconDoge)
 - [Tushar Pathak](https://github.com/tushar54594)
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
