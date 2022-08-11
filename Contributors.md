@@ -1688,4 +1688,5 @@ Binyamin Roberts
 - [crypto guy](https://github.com/cryptoguy55a/)
 - [Aditya Vaste](https://github.com/adivaste/)
 
+- [arnuld-acog](https://github.com/arnuld-acog)
 <!-- prettier-ignore-end -->
