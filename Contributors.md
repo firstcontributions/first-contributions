@@ -116,6 +116,7 @@ Sattyam Samania
 - [Yahya Benmahane](https://github.com/yahyabene)
 - [Lucas Köpke](https://github.com/meislucas)
 - [Liam Platt-Young](https://github.com/liamnpynz)
+- [Henry Okam](https://github.com/mchenryspagg)
 - [Tuan Anh](https://github.com/ez2do)
 - [General Kenobi](https://github.com/snowboulder)
 - [Keshav Sharma](https://github.com/ksharma20/)
