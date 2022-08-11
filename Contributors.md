@@ -123,6 +123,7 @@ Sattyam Samania
 - [Aaron Lin](https://github.com/shinganlin)
 - [Harshad Hirapara](https://github.com/harshad389)
 - [Namya Khan](https://github.com/namyakhan)
+- [Arijit Paria](https://github.com/TUTORIEX)
   [Ashish Sharma] (https://github.com/itsashish1801)
 - [Doron Griffin-Tann] (https://github.com/TheDiamondSkyv32)
 - [Zarau baidu](https://github.com/zeerau)
