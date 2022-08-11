@@ -44,6 +44,7 @@ aestadt
 - [Andrew Virts](https://github.com/asvirts)
 Harsh Shah
 Sattyam Samania
+- [prgVaibhav](https://github.com/PrgVaibhav)
 - [vandit Tyagi](https://github.com/vandit98)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
