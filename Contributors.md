@@ -59,6 +59,7 @@ Sattyam Samania
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Finson Coutinho](https://github.com/finsoncoutinho)
 - [Darian Ngo](https://github.com/itsDarianNgo)
+- [Amy Liu](https://github.com/Aliu9742)
 - [Matthew Dunn] (https://github.com/pyr1te)
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
