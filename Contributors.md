@@ -1,8 +1,8 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
+- [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Konstantina Roumelioti] (https://github.com/kwnna99)
