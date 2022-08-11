@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [Rajeev Hansda](https://github.com/rajeevrhansda) 
+- [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Konstantina Roumelioti] (https://github.com/kwnna99)
@@ -23,7 +23,7 @@
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
-aestadt
+  aestadt
 - [Irfan Ashraf](https://github.com/IrfanAshraf-pro)
 - [Sam Rao](https://github.com/samrao1997)
 - [Josmar Suarez](https://github.com/LuisJosmarSuarez)
@@ -47,8 +47,8 @@ aestadt
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - Ayushi Kotiyal
 - [Andrew Virts](https://github.com/asvirts)
-Harsh Shah
-Sattyam Samania
+  Harsh Shah
+  Sattyam Samania
 - [Samarth Rayar](https://github.com/samarth2001)
 - [vandit Tyagi](https://github.com/vandit98)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
@@ -154,8 +154,8 @@ Sattyam Samania
 - [Aaron Bermudez](https://github.com/AaronB3110)
 - [James Wigg](https://github.com/Shaydas1)
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
-- [Vineeth B V](https://github.com/vinsdragonis) 
-Binyamin Roberts
+- [Vineeth B V](https://github.com/vinsdragonis)
+  Binyamin Roberts
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [Tobiloba Isaiah Adebisi] (https://github.com/Adebisi1234)
@@ -260,7 +260,7 @@ Binyamin Roberts
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Stefan Kondring](https://github.com/s-kond)
 - [Omkar Ramishte](https://github.com/omk-coder)
-- [John Budd](https://github.com/Jbudd512) 
+- [John Budd](https://github.com/Jbudd512)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
 - [Devi Sri Charan](https://github.com/DeviSriCharan2020412)
@@ -1590,7 +1590,7 @@ Binyamin Roberts
 - [Priyanshu Gupta](https://github.com/priyanshu411/)
 - [Ibrahim Khalil](https://github.com/bsse1009)
 - [Cristi](https://github.com/cristi00794)
-- [etamarh12]( https://github.com/etamarh12)
+- [etamarh12](https://github.com/etamarh12)
 - [Sanudra](https://github.com/samudra-perera)
 - [Shayan Raza](https://github.com/Shayan-Raza)
 - [Ashik V S](https://github.com/HeyitsAsh)
@@ -1671,7 +1671,7 @@ Binyamin Roberts
 - [Raul Viana](https://github.com/raulviana)
 - [Guru](https://github.com/ChattiGuruRaghavendra)
 - [desmond1313](https://github.com/desmond1313)
-- Wisdomn_
+- Wisdomn\_
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
 - [Aman](https://github.com/amanace)
@@ -1689,7 +1689,7 @@ Binyamin Roberts
 - [Ashutosh Shinde] (https://github.com/CelestialLemon)
 - [Fpersistent](https://github.com/FPersistent)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
-- [Mitchell Hayes](https://github.com/MitchellHayes) 
+- [Mitchell Hayes](https://github.com/MitchellHayes)
 - [Peashooter](https://github.com/RuibaiXu)
 - [Anusha](https://github.com/anushas-dev)
 - [Oscar Caicedo](https://github.com/oscarmc17)
@@ -1698,4 +1698,5 @@ Binyamin Roberts
 
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
+- [Santiago-Carrizo](https://github.com/zantica)
 <!-- prettier-ignore-end -->
