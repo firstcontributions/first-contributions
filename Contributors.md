@@ -1684,5 +1684,6 @@ Binyamin Roberts
 - [Anusha](https://github.com/anushas-dev)
 - [Oscar Caicedo](https://github.com/oscarmc17)
 - [crypto guy](https://github.com/cryptoguy55a/)
+- [Aditya Vaste](https://github.com/adivaste/)
 
 <!-- prettier-ignore-end -->
