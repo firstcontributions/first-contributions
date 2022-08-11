@@ -25,6 +25,7 @@
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 aestadt
+- [Alina Khay](https://github.com/alinakhay)
 - [Irfan Ashraf](https://github.com/IrfanAshraf-pro)
 - [Sam Rao](https://github.com/samrao1997)
 - [Josmar Suarez](https://github.com/LuisJosmarSuarez)
