@@ -448,6 +448,7 @@ Binyamin Roberts
 - [Seiji](https://github.com/seiji327)
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
+- [Adigun Kafayat](https://github.com/Kathy-kay)
 - [Andreas Nilsson](https://github.com/anil9)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
