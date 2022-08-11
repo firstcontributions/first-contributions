@@ -108,6 +108,7 @@ Sattyam Samania
 - [Vincent Shadbolt](https://github.com/V-Shadbolt)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Yahya Benmahane](https://github.com/yahyabene)
+- [Lucas Köpke](https://github.com/meislucas)
 - [Liam Platt-Young](https://github.com/liamnpynz)
 - [Tuan Anh](https://github.com/ez2do)
 - [General Kenobi](https://github.com/snowboulder)
