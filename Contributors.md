@@ -703,6 +703,7 @@ Binyamin Roberts
 - [Elias Dzobo](https://github.com/elias-dzobo)
 - [Nuri Kim](https://github.com/nurikimchi)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
+- [Jukka Korhonen](https://github.com/Kortsukoo)
 - [Ghanendra](https://github.com/gpt3ch)
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Nidhi Bangera](https://github.com/nidhi-17)
