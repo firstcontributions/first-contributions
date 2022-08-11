@@ -25,6 +25,7 @@
 aestadt
 - [Irfan Ashraf](https://github.com/IrfanAshraf-pro)
 - [Sam Rao](https://github.com/samrao1997)
+- [Josmar Suarez](https://github.com/LuisJosmarSuarez)
 - [Ismail Ahmad](https://github.com/SneezyG)
 - [ Joel Crouch](https://github.com/joelcrouch)
 - [Colin Mclaughlin](https://github.com/colin-mcl)
