@@ -547,6 +547,7 @@ Binyamin Roberts
 - [Brian Muimi](https://github.com/brianmuimi)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Chan K](https://github.com/KChandanGITHUB)
+- [Fariman Guliev](https://github.com/farimano)
 - [Bibin Biju](https://github.com/bib265)
 - [Josckar Palomeque](https://github.com/Josckar)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
