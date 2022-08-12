@@ -1713,4 +1713,5 @@ Binyamin Roberts
 
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
+- [Sajid Khan](https://github.com/sajidkhan56)
 <!-- prettier-ignore-end -->
