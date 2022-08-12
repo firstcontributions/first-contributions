@@ -427,6 +427,7 @@ Binyamin Roberts
 - [Alex Slutsky](https://github.com/Pa1best)
 - [Devdatt Pandit](https://github.com/Devdatt17)
 - [Joseph Hardwicke](https://github.com/Jozebel11)
+- [Akash Katuri] (https://github.com/akashkaturi)
 - [Christina Ries](https://github.com/cxxxries)
 - [Neel Awsare](https://github.com/awsare)
 - [Antony Fox-Bramwell](https://github.com/afoxbr)
