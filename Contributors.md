@@ -60,6 +60,7 @@ aestadt
 Harsh Shah
 Sattyam Samania
 - [Samarth Rayar](https://github.com/samarth2001)
+- [Fatimah Badmus](https://github.com/fatimahbadmus)
 - [vandit Tyagi](https://github.com/vandit98)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
