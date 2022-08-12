@@ -867,6 +867,7 @@ Binyamin Roberts
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Martin Polley](https://github.com/MartinP460)
 - [Vatsal Patel](https://github.com/VatsalP117)
+- [Vinicius Lunardi](https://github.com/viniciuslunardi)
 - [Victor Cardoso](https://github.com/victoralbenor)
 - [Olabisi Olaoye](https://github.com/olabisi09)
 - [Shammah Benjamin](https://github.com/asbenjamin)
