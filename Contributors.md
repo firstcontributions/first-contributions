@@ -1728,4 +1728,5 @@ Binyamin Roberts
 - [mflorezr](https://github.com/mflorezr)
 - [janyng]](https://github.com/janyng)
 - [Meenarh](https://github.com/meenarh)
+- [Georgie](https://github.com/sheckathorne)
 <!-- prettier-ignore-end -->
