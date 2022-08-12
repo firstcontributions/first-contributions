@@ -71,6 +71,7 @@ Sattyam Samania
 - [Ian Johnston](https://github.com/ianjojo)
 - [Abdul Samad](https://github.com/asamadsid)
 - [Kavya Jain](https://github.com/kj71)
+[Kipung Park](https://github.com/kipung)
 - [Souradeep Das](https://github.com/shadesin)
 - [Maxime Boucher](https://github.com/themaxboucher)
 - [Hari om Singh](https://github.com/Harixomxsingh)
