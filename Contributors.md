@@ -1,4 +1,4 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -1729,4 +1729,5 @@ Binyamin Roberts
 - [janyng]](https://github.com/janyng)
 - [Meenarh](https://github.com/meenarh)
 - [Georgie](https://github.com/sheckathorne)
+- [Javi](https://github.com/JaviPantoja)
 <!-- prettier-ignore-end -->
