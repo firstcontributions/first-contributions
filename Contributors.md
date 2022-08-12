@@ -33,6 +33,7 @@ aestadt
 - [Josmar Suarez](https://github.com/LuisJosmarSuarez)
 - [Ismail Ahmad](https://github.com/SneezyG)
 - [ Joel Crouch](https://github.com/joelcrouch)
+- [Sathvik Malgikar] (https://github.com/Sathvik-Malgikar)
 - [Colin Mclaughlin](https://github.com/colin-mcl)
 - [Kevin Sukher](https://github.com/KSukher)
 - [Amr Emara](https://github.com/aemara)
