@@ -1096,6 +1096,7 @@ Binyamin Roberts
 - [Karen](https://github.com/Limebee)
 - [Haleema Khan](https://github.com/hsadia538)
 - [Nicolas](https://github.com/nnicolasg)
+- [Joseph Ofili](https://github.com/jayyy123)
 - [Jesus G Jara](https://github.com/jesusgjara)
 - [Fazil Raja](https://github.com/fazilraja)
 - [Lawrence Porquia](https://github.com/CarthyPoo)
