@@ -330,6 +330,7 @@ Binyamin Roberts
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Harsh kumar](https://github.com/thisisharsh7)
 - [Filippo Ghirardini](https://github.com/filoghira)
+- [Sekuriyo](https://github.com/skryo1)
 - [Matthew Hutchinson](https://github.com/sedgwuck)
 - [Marisa Brantley] (https://github.com/marisabrantley)
 - [Noordeep Kaur](https://github.com/Noor291)
