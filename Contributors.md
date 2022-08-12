@@ -1721,4 +1721,5 @@ Binyamin Roberts
 
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
+- [mflorezr](https://github.com/mflorezr)
 <!-- prettier-ignore-end -->
