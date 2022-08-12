@@ -60,6 +60,7 @@ Sattyam Samania
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Aryan Singh](https://github.com/singharyan1007)
 - [Sameed Khan](https://github.com/Sameedkhan25)
+- [Arun Sagar S A](https://github.com/arun-sagar-s-a)
 - [Sebastian Hoyos](https://github.com/tamerlantian)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
 - [Joa Leitola](https://github.com/jjooaa)
