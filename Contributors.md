@@ -116,6 +116,7 @@ Sattyam Samania
 - [Amir](https://github.com/amir1611)
 - [XD](https://github.com/snowboulder)
 - [Hassan](https://github.com/Mhassanniazi)
+- [Enosejolagbon](https://github.com/enosefelix)
 - [Neo Polorie](https://github.com/kndpolorie)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
 - [Richard Rekow](https://github.com/Dick-Alan)
