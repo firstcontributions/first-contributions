@@ -1380,6 +1380,7 @@ Binyamin Roberts
 - [Akhila Krishna K](https://github.com/akhila1729)
 - [Luan Nutels](https://github.com/luannutels)
 - [Thomas Quigley](https://github.com/thomasquigley56)
+- [RFoxtea](https://github.com/RFoxtea)
 - [Haziq Khurshid](https://github.com/haziq-khurshid)
 - [BL7Awy](https://github.com/goar5670)
 - [kenmwangi](https://github.com/kenmwangi)
