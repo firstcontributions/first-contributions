@@ -1543,6 +1543,7 @@ Binyamin Roberts
 - [Kane Hall](https://github.com/kahall27)
 - [Gavin Barnes](https://github.com/cantidosan)
 - sahil prasad
+- [Robert Fernandez Romero](https://github.com/alexhw301)
 - [tusmm](https://github.com/tusmm)
 - [Kirtan Patel](https://github.com/kirtankp)
 - [Manu Peralta](https://github.com/manuperalta)
