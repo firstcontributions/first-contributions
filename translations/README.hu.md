@@ -40,7 +40,7 @@ Például:
 ```
 git clone https://github.com/a-te-git-neved/first-contributions.git
 ```
-a `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
+A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
 
 ## Készíts egy ágat (branch)
 
