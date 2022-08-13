@@ -18,6 +18,7 @@
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
+- [Ankur Ghosh](https://github.com/AnkurGhosh541)
 - [Corrie Botha](https://github.com/Kerneels94)
 - [Adriaan Louw](https://github.com/Boskrag)
 - [Raji Risikat Yewande](https://github.com/wandexdev)
