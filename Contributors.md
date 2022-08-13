@@ -9,6 +9,7 @@
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
+- [hustnzj](https://github.com/hustnzj)
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Konstantina Roumelioti] (https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
