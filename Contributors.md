@@ -715,6 +715,7 @@ Binyamin Roberts
 - [Dharmendra Kumar](https://github.com/DharmendraGITHB)
 - [Chinu Anand](https://github.com/chinu-anand)
 - [Pepe Gomes](https://github.com/JLGOrtega)
+- [Valentin Krivolutskii](https://github.com/valentin0897)
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [E Rod](https://github.com/Proximacentauri-b)
