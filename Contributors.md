@@ -50,6 +50,7 @@ aestadt
 - [Haley Seymour](https://github.com/hseymo)
 - [Nathan TT](https://github.com/nthaitang7)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
+- [Devadathan M B](https://github.com/devadathanmb)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lyndon Purcell](https://github.com/ljpurcell)
 - - [Samar Pratap](https://github.com/noughtsamar)
