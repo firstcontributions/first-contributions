@@ -761,6 +761,7 @@ Binyamin Roberts
 - [Thomas Perzi](https://github.com/PerziThomas)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
+- [Alejandro Omar Pintos](https://github.com/nomadCoder23)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [Thibaud Mallet](https://github.com/ThibaudMallet)
 - [incalescence](https://github.com/incalescence)
