@@ -7,6 +7,7 @@
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
+- [Daniela Brailovsky] (https://github.com/danielabrailo)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
