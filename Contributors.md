@@ -89,6 +89,7 @@ Sattyam Samania
 - [Sushanta Mukherjee](https://github.com/sushantamukherjee/)
 - [Yasin_xoxoedg](https://github.com/xoxoedg)
 - [Dave Collison](https://github.com/thebigdavec)
+- [Utkarsh Joshi](https://github.com/utkarshjosh)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Nash Vador](https://github.com/nashvador)
