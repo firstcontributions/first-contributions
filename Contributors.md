@@ -749,6 +749,7 @@ Binyamin Roberts
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
 - [Aaron Reynolds](https://github.com/areyn77463)
 - [Lito Polaquito](https://github.com/ichicar)
+- [Raneh Egbe](https://github.com/Ranecodes)
 - [Terra Hanks](https://github.com/vampyteuth)
 - [Georgie Conway](https://github.com/dopeantelope)
 - [Victory Quiah](https://github.com/vquiah)
