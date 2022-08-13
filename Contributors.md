@@ -18,6 +18,7 @@
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
+- [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Ankur Ghosh](https://github.com/AnkurGhosh541)
