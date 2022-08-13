@@ -6,6 +6,7 @@
 - [Evan Lahey] (https://github.com/FeelsRossMan)
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [NuggxtDev](https://github.com/Nuggxt)
+- [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [Lake Stevens] (https://github.com/LakeChicken29)
