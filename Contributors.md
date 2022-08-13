@@ -997,6 +997,7 @@ Binyamin Roberts
 - [Kevin Feng](https://github.com/kevinfengcs88)
 - [Onubulachi-Abigail Wami](https://github.com/oewami)
 - [Patrick Tung](https://github.com/Patrickrtu)
+- [Ezra John Guia](https://github.com/ejohnguia)
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
