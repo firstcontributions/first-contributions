@@ -98,6 +98,7 @@ Sattyam Samania
 - [Jaymee Chen](https://github.com/jmechn)
 - [Michael Lee Piotrowski](https://www.github.com/MikePiotrowski)
 - [CyOfficial](https://github.com/CyOfficial)
+- [Youngtechie](https://github.com/Youngtechie)
 - [Prathamesh Kirad](https://github.com/Prathamesh-V-Kirad)
 - [neuralpain](https://github.com/neuralpain)
 - [Loju](https://github.com/looju)
