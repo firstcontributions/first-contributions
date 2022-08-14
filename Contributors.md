@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Aeolusw] (https://github.com/Aeolusw)
+- [Tim Okonkwo] (https://github.com/timokonkwo)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [NuggxtDev](https://github.com/Nuggxt)
