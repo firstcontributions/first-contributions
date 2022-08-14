@@ -1760,5 +1760,6 @@ Binyamin Roberts
 - [MSeljubac](https://github.com/MSeljubac)
 - [sossesam](https://github.com/sossesam/first-contributions)
 - [psorek](https://github.com/Psorek)
+- [Manoj](https://github.com/Ktac77)
 runerjs
 <!-- prettier-ignore-end -->
