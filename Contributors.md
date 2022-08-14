@@ -1,4 +1,4 @@
-﻿**Contributors**
+﻿﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -1766,6 +1766,7 @@ Binyamin Roberts
 - [psorek](https://github.com/Psorek)
 - [Manoj](https://github.com/Ktac77)
 - [Coditdoc7](https://github.com/Coditdoc)
+- [Ezra John Guia](https://github.com/ejohnguia)
 - [jithuraj](https://github.com/jithuraj)
 runerjs
 <!-- prettier-ignore-end -->
