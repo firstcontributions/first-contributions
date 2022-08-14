@@ -1180,6 +1180,7 @@ Binyamin Roberts
 - [Raghav Pandit](https://github.com/panditraghav)
 - [Julian Vickers](https://github.com/JulianVickers)
 - [andreisemianiuk](https://github.com/andreisemianiuk)
+- [fais](https://github.com/E-fais)
 - [BBTing1](https://github.com/BBTing1/)
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
