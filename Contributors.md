@@ -67,6 +67,7 @@ aestadt
 - [Andrew Virts](https://github.com/asvirts)
 Harsh Shah
 Sattyam Samania
+[Md Mudassir Akhter](https://github.com/mudassir-jmi)
 - [Samarth Rayar](https://github.com/samarth2001)
 - [Fatimah Badmus](https://github.com/fatimahbadmus)
 - [vandit Tyagi](https://github.com/vandit98)
