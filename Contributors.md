@@ -1762,5 +1762,6 @@ Binyamin Roberts
 - [sossesam](https://github.com/sossesam/first-contributions)
 - [psorek](https://github.com/Psorek)
 - [Manoj](https://github.com/Ktac77)
+- [Coditdoc7](https://github.com/Coditdoc)
 runerjs
 <!-- prettier-ignore-end -->
