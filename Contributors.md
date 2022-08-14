@@ -867,6 +867,7 @@ Binyamin Roberts
 - [Cameron De Robertis](https://github.com/cmderobertis)
 - [Halil Bulut](https://github.com/Hellin1)
 - [Christine Lin](https://github.com/christinelin8)
+- [Asliddin E.](https://github.com/asliddin2002developer)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
 - [Bekbolat Kuralbayev](https://github.com/bekbolsky)
