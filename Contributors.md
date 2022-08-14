@@ -66,6 +66,7 @@ aestadt
 - [Lalman Thakur](https://github.com/Lalman888)
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - Ayushi Kotiyal
+- [Manish Basargekar](https://github.com/8mn)
 - Labeed
 - Iqbal
 - [Andrew Virts](https://github.com/asvirts)
