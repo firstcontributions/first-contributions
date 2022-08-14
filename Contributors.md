@@ -62,6 +62,7 @@ aestadt
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Muhammad Ibrahim](https://github.com/ibrahimqureshae)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
+- [Lalman Thakur](https://github.com/Lalman888)
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - Ayushi Kotiyal
 - Labeed
