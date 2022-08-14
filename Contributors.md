@@ -998,6 +998,7 @@ Binyamin Roberts
 - [Onubulachi-Abigail Wami](https://github.com/oewami)
 - [Patrick Tung](https://github.com/Patrickrtu)
 - [Namit Saxena](https://github.com/oddball1123)
+- [Bartholomew Eguoba](https://github.com/retrong)
 - [Abhinav](https://github.com/malteezy)
 - [Felicia H](https://github.com/coder02603)
 - [Nozawa](https://github.com/n0z0w0)
