@@ -1765,5 +1765,6 @@ Binyamin Roberts
 - [psorek](https://github.com/Psorek)
 - [Manoj](https://github.com/Ktac77)
 - [Coditdoc7](https://github.com/Coditdoc)
+- [jithuraj](https://github.com/jithuraj)
 runerjs
 <!-- prettier-ignore-end -->
