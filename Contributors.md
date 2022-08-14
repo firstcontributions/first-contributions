@@ -167,6 +167,7 @@ Sattyam Samania
 - [ConkyTheGreat2](https://github.com/ConkyTheGreat)
 - [Nicholas-Barker](https://github.com/InhumanNick)
 - [Avinash-Nandan](https://github.com/Avinash219)
+- [sikoeh](https://github.com/sikoeh)
 - [Kshitij Radotra](https://github.com/kshitij-ra)
 - [Vladislav-Mironov](https://github.com/Daleniant)
 - [Arjun S](https://github.com/arjunindia)
