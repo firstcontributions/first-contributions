@@ -1752,5 +1752,6 @@ Binyamin Roberts
 - [Georgie](https://github.com/sheckathorne)
 - [Javi](https://github.com/JaviPantoja)
 - [MSeljubac](https://github.com/MSeljubac)
+- [sossesam](https://github.com/sossesam/first-contributions)
 runerjs
 <!-- prettier-ignore-end -->
