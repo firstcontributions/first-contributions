@@ -890,6 +890,7 @@ Binyamin Roberts
 - [Sanjog Rijal](https://github.com/SanjogRijal)
 - [Daniel Gaerber](https://github.com/Gandagorn)
 - [Ryan Luna](https://github.com/Gandagorn)
+- [Matthias P](https://github.com/mpr531)
 - [dbsaw](https://github.com/dbsaw)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
