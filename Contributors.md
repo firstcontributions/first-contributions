@@ -554,6 +554,7 @@ Binyamin Roberts
 - [Chiobi Jason](https://github.com/ChiobiJason)
 - [Leron Tonge](https://github.com/lerontonge)
 - [Jack Ma](https://github.com/KingJacM)
+- [Tqmrik](https://github.com/Tqmrik)
 - [Angel Nieto](https://github.com/N-a290)
 - [Krishna Cheemalapati](https://github.com/krishnacheemalapati)
 - [blackbrokkoli](https://github.com/blackbrokkoli)
