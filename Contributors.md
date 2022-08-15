@@ -201,6 +201,7 @@ Sattyam Samania
 - [Jackbaklava](https://github.com/Jackbaklava)
 - [James Coates](https://github.com/nexuspcs)
 - [Aaron Bermudez](https://github.com/AaronB3110)
+- [Ankit Bisen](https://github.com/ankitbisen28)
 - [James Wigg](https://github.com/Shaydas1)
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
 - [Vineeth B V](https://github.com/vinsdragonis) 
