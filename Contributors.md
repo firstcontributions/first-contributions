@@ -4,6 +4,7 @@
 
 - [Aeolusw] (https://github.com/Aeolusw)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
+- [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [NuggxtDev](https://github.com/Nuggxt)
 - [BenyLava](https://github.com/BenyLava)
