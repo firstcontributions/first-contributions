@@ -1770,7 +1770,7 @@ Binyamin Roberts
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
 - [mflorezr](https://github.com/mflorezr)
-- [janyng]](https://github.com/janyng)
+- [janyng](https://github.com/janyng)
 - [Meenarh](https://github.com/meenarh)
 - [Georgie](https://github.com/sheckathorne)
 - [Javi](https://github.com/JaviPantoja)
@@ -1784,4 +1784,5 @@ Binyamin Roberts
 - [jithuraj](https://github.com/jithuraj)
 runerjs
 - [Gonzalo](https://github.com/GonzaloMFB)
+- [Emeka Chukwudozie](https://github.com/chukwudozie)
 <!-- prettier-ignore-end -->
