@@ -136,6 +136,7 @@ Sattyam Samania
 - [Debojit Pushilal](https://github.com/Evoder15)
 - [Deepak Singh](https://github.com/deepak427)
 - [MSweeley](https://github.com/MSweeley/)
+- [Deepak C L](https://github.com/MightyFellow)
 - [Raphael Radespiel] (https://github.com/Raphael-Radespiel)
 - [Dias](https://github.com/diasdauletov)
 - [Amir](https://github.com/amir1611)
