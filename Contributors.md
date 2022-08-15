@@ -63,6 +63,7 @@ aestadt
 - [Amr Emara](https://github.com/aemara)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
+- [Saptak Das](https://github.com/Saptaktdk)
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Haley Seymour](https://github.com/hseymo)
 - [Nathan TT](https://github.com/nthaitang7)
