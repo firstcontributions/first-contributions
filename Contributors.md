@@ -1772,6 +1772,7 @@ Binyamin Roberts
 - [Georgie](https://github.com/sheckathorne)
 - [Javi](https://github.com/JaviPantoja)
 - [MSeljubac](https://github.com/MSeljubac)
+- [Vignesh Kathirkamar](https://github.com/VigneshKathirkamar)
 - [sossesam](https://github.com/sossesam/first-contributions)
 - [psorek](https://github.com/Psorek)
 - [Manoj](https://github.com/Ktac77)
