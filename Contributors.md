@@ -14,6 +14,7 @@
 - [Priya Patel](https://github.com/Priyapatel-07)
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Reuben Philip](https://github.com/rphilip2)
+- [Gaurav] (https://github.com/Gaurav-1306)
 - [BenyLava](https://github.com/BenyLava)
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
