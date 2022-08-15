@@ -5,6 +5,7 @@
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Aeolusw] (https://github.com/Aeolusw)
+- [Shantanu Bombatkar](https://github.com/shaantanu9)
 - [Alex Ash] (https://github.com/akaaja2)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
