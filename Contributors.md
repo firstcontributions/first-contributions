@@ -467,6 +467,7 @@ Binyamin Roberts
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
 - [Toprak Kis](https://github.com/toprakkis)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
+- [Susan Thapa](https://github.com/susonthapa)
 - [TJ Ries](https://github.com/tj-ries)
 - [Sankalp]
 - [Harsh Raghuwanshi](https://github.com/harsha094)
