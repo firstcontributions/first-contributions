@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Alia Quintero](https://github.com/aliaquintero)
 - [Aeolusw] (https://github.com/Aeolusw)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
