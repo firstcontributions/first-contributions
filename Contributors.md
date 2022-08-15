@@ -11,6 +11,7 @@
 - [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Rashmi](https://github.com/Rashmi-1) 
+- [Priya Patel](https://github.com/Priyapatel-07)
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Reuben Philip](https://github.com/rphilip2)
 - [BenyLava](https://github.com/BenyLava)
