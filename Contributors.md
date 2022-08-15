@@ -47,6 +47,7 @@ aestadt
 - [Sam Rao](https://github.com/samrao1997)
 - [Josmar Suarez](https://github.com/LuisJosmarSuarez)
 - [Ismail Ahmad](https://github.com/SneezyG)
+- [Maxwell Nganyadi](https://github.com/GOATMaxwellN)
 - [ Joel Crouch](https://github.com/joelcrouch)
 - [Sathvik Malgikar] (https://github.com/Sathvik-Malgikar)
 - [Colin Mclaughlin](https://github.com/colin-mcl)
