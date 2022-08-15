@@ -11,6 +11,7 @@
 - [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [James](https://github.com/StreetsJ)
+- [Partha Mk](https://github.com/parthamk)
 - [Rashmi](https://github.com/Rashmi-1) 
 - [Priya Patel](https://github.com/Priyapatel-07)
 - [NuggxtDev](https://github.com/Nuggxt)
