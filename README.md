@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # 
 
-#### _Read this in [other languages](translations/Translations.md)._
+# _Read this in [Other languages](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](translations/README.aze.md)</kbd>
@@ -76,7 +76,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+# If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
 
@@ -184,7 +184,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+Congratulations! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
