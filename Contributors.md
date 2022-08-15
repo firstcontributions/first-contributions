@@ -281,6 +281,7 @@ Binyamin Roberts
 - [Ali Hassan](https://github.com/alihassan-here)
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Shivam Verma](https://github.com/stoppieboy)
+- [Ross Scott](https://github.com/RossDScott)
 - [Rahul kumar](https://github.com/rahul152-ai)
 - [Priyank Patil](https://github.com/priyank003)
 - [Rai Shahnawaz Khan](https://github.com/raishahnawaz95)
