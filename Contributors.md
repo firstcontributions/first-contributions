@@ -1,4 +1,4 @@
-﻿﻿**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -1437,6 +1437,7 @@ Binyamin Roberts
 - [Dave Aigbe](https://github.com/DaveAigbe)
 - Matheus Trilha Koch
 - [Laurie H](https://github.com/coderlore)
+- [Pritivi Chhabria](https://github.com/pritivisc)
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
 - [Renzo Villaflor](https://github.com/rvill015)
