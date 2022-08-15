@@ -1773,4 +1773,5 @@ Binyamin Roberts
 - [Ezra John Guia](https://github.com/ejohnguia)
 - [jithuraj](https://github.com/jithuraj)
 runerjs
+- [Gonzalo](https://github.com/GonzaloMFB)
 <!-- prettier-ignore-end -->
