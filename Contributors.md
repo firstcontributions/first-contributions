@@ -140,6 +140,7 @@ Sattyam Samania
 - [Neo Polorie](https://github.com/kndpolorie)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
 - [Richard Rekow](https://github.com/Dick-Alan)
+- [Richard Jeremy Githuba](https://github.com/githubarj)
 - [Siddhant Hota](https://github.com/Siddhanthota)
 - [Leyli Ghavami](https://github.com/lghavami)
 - [Jack Roberts](https://github.com/JackRobs25)
