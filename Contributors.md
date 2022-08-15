@@ -127,6 +127,7 @@ Sattyam Samania
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
 - [Tony Wang](https://github.com/ReconDoge)
 - [Tushar Pathak](https://github.com/tushar54594)
+- [Varun Shah](https://github.com/varun-1004)
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
