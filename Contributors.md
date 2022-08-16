@@ -119,6 +119,7 @@ Sattyam Samania
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Amy Liu](https://github.com/Aliu9742)
 - [Matthew Dunn] (https://github.com/pyr1te)
+- [Dimparar]
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
 - [Sushanta Mukherjee](https://github.com/sushantamukherjee/)
