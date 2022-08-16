@@ -1823,4 +1823,5 @@ runerjs
 - [Avinaba Bera](https://github.com/avimax37)
 - [Devalimalik](https://github.com/devalimalik)
 - [HonKLam](https://github.com/HonKLam)
+- [Riley Thompson](https://github.com/rjthompson2)
 <!-- prettier-ignore-end -->
