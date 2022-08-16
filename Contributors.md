@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Mohamed El omary](https://github.com/celomary)
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Aeolusw] (https://github.com/Aeolusw)
