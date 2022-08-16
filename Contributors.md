@@ -1389,6 +1389,7 @@ aestadt
 - [Muinde Nthusi](https://github.com/nthusi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nathaniel Vo](https://github.com/midnightslushie)
+- [Wahyu Kusumo](https://github.com/wahyukusumo)
 - [Lucas Frigo de Souza](https://github.com/lfrigodesouza)
 - [Behnam Haddadian](https://github.com/Behnam-H)
 - [Nic Ledoux](https://github.com/NicLedoux/)
