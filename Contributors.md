@@ -1801,6 +1801,7 @@ Binyamin Roberts
 - [MSeljubac](https://github.com/MSeljubac)
 - [Vignesh Kathirkamar](https://github.com/VigneshKathirkamar)
 - [sossesam](https://github.com/sossesam/first-contributions)
+- [Felmerian](https://github.com/Felmerian)
 - [psorek](https://github.com/Psorek)
 - [Manoj](https://github.com/Ktac77)
 - [Coditdoc7](https://github.com/Coditdoc)
