@@ -232,6 +232,7 @@
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Zeerak](https://github.com/zeerakb1/)
 - [Isidro Mata](https://github.com/EyesOfSiva/)
+- [Himanshu Rathore](https://github.com/Himanshu2561/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Hoai-An Phan](https://github.com/hoaian-phan)
 - [Eugene Kim](https://github.com/beyondGnE/)
