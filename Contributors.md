@@ -1780,17 +1780,12 @@ Binyamin Roberts
 - [Fpersistent](https://github.com/FPersistent)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
 - [Mitchell Hayes](https://github.com/MitchellHayes) 
-main
 - [Olla Bak](https://github.com/iamolla)
-
 - [Peashooter](https://github.com/RuibaiXu)
 - [Anusha](https://github.com/anushas-dev)
 - [Oscar Caicedo](https://github.com/oscarmc17)
 - [crypto guy](https://github.com/cryptoguy55a/)
 - [Aditya Vaste](https://github.com/adivaste/)
-
-main
-main
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
 - [mflorezr](https://github.com/mflorezr)
@@ -1798,9 +1793,6 @@ main
 - [Meenarh](https://github.com/meenarh)
 - [Georgie](https://github.com/sheckathorne)
 - [Javi](https://github.com/JaviPantoja)
-main
-main
-
 - [MSeljubac](https://github.com/MSeljubac)
 - [Vignesh Kathirkamar](https://github.com/VigneshKathirkamar)
 - [sossesam](https://github.com/sossesam/first-contributions)
@@ -1815,5 +1807,4 @@ runerjs
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
 - [Prachi Sharma](https://github.com/prachi128)
-main
 <!-- prettier-ignore-end -->
