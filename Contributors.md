@@ -1806,4 +1806,5 @@ runerjs
 - [Emeka Chukwudozie](https://github.com/chukwudozie)
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
+- [Prachi Sharma](https://github.com/prachi128)
 <!-- prettier-ignore-end -->
