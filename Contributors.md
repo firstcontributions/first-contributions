@@ -1841,6 +1841,7 @@
 - [mflorezr](https://github.com/mflorezr)
 - [janyng](https://github.com/janyng)
 - [Meenarh](https://github.com/meenarh)
+- [Patrick Zocli](https://github.com/Patzi275)
 - [Georgie](https://github.com/sheckathorne)
 - [Javi](https://github.com/JaviPantoja)
 - [MSeljubac](https://github.com/MSeljubac)
