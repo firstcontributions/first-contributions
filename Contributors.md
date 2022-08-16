@@ -100,6 +100,7 @@
 - [Arka Pratim Chaudhuri](https://github.com/arka1002)
 - [Pyae Sone Aung](https://github.com/PyaeSone99)
 - Ayushi Kotiyal
+- [Pratik Mishra](https://github.com/Pratik-here)
 - [Manish Basargekar](https://github.com/8mn)
 - Labeed
 - Iqbal
