@@ -63,6 +63,7 @@
 - [Dileepa Samarawickrama](https://github.com/dnsamw)
 - [Pradum Tiwari](https://github.com/PradumTiwari)
 - [Tanya Tomar](https://github.com/tanyatomar98)
+- [Taufiqurrahman](https://github.com/fiqgant/)
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [Samuel Echols](https://github.com/sechols223)
