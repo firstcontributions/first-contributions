@@ -1814,4 +1814,5 @@ runerjs
 - [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
 - [Prachi Sharma](https://github.com/prachi128)
 - [Avinaba Bera](https://github.com/avimax37)
+- [Devalimalik](https://github.com/devalimalik)
 <!-- prettier-ignore-end -->
