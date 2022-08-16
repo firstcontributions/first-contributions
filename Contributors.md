@@ -35,6 +35,7 @@
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Konstantina Roumelioti] (https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
+- [Anna Welpa](https://github.com/ann-well)
 - [Samuel Veronese](https://github.com/samuelveronese)
 - [Jaiden Crawford](https://github.com/Crawfish-h)
 - [Rachit Agarwal](https://github.com/rachitag112)
