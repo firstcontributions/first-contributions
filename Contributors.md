@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Mohamed El omary](https://github.com/celomary)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
