@@ -295,6 +295,7 @@ Binyamin Roberts
 - [Leo Estrella](https://github.com/sharpsight44)
 - [Michael NBDS](https://github.com/michael-nbds)
 - [Olin Johnson](https://github.com/olinjohnson)
+- [Silvio Pavanetto](https://github.com/reidemeister94)
 - [Francis O'Donnell](https://github.com/fjodonnell)
 - [Yair Daboul](https://github.com/yairdab)
 - [Ali Hassan](https://github.com/alihassan-here)
