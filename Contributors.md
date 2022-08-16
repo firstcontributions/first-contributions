@@ -1811,6 +1811,7 @@
 - [djolemc](https://github.com/djolemc)
 - [Abhilash-Puthukkudi](https://github.com/Abhilash-Puthukkudi)
 - [Aman](https://github.com/amanace)
+- [Nereida Rondon](https://github.com/NereidaRondon)
 - [Maximiliano Vinzón](https://github.com/mvinzon)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
 - [Jaqueline Caamal](https://github.com/JaquelineCaamal)
