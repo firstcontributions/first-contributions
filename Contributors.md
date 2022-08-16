@@ -1833,6 +1833,7 @@
 - [Niharika Baliyan](https://github.com/Niiiha)
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
+- [DerekErb](https://github.com/DerekErb)
 - [Max Panfilov](https://github.com/echomaxi)
 - [Santiago-Carrizo](https://github.com/zantica)
 - [mflorezr](https://github.com/mflorezr)
