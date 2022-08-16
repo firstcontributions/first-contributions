@@ -1830,6 +1830,7 @@
 - [Ruan Huysen](https://github.com/Rhman101)
 - [Ashutosh Shinde](https://github.com/CelestialLemon)
 - [Fpersistent](https://github.com/FPersistent)
+- [emilio215](https://github.com/emilio215)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
 - [Kemal](https://www.github.com/Kemal-D)
 - [Olla Bak](https://github.com/iamolla)
