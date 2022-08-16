@@ -23,7 +23,7 @@
 - [Emma Sargent](https://github.com/eksargent)
 - [James](https://github.com/StreetsJ)
 - [Partha Mk](https://github.com/parthamk)
-- [Rashmi](https://github.com/Rashmi-1) 
+- [Rashmi](https://github.com/Rashmi-1)
 - [Priya Patel](https://github.com/Priyapatel-07)
 - [Shaurya Gupta](https://github.com/shauryag2002)
 - [Ilija Krstic](https://github.com/ilijakrstic)
@@ -215,6 +215,7 @@
 - [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
+- [Prateek Srivastava](https://github.com/prateek-srivastav)
 - [Ayush Yadav](https://github.com/ayush-wd)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Zeerak](https://github.com/zeerakb1/)
@@ -333,7 +334,7 @@
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
 - [Wayne Cen](https://github.com/waynecen)
-- 
+-
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [Scott Sterling](https://github.com/scottasterling)
 - [Sudheendra](https://github.com/programsbysudhi)
