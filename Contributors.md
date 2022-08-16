@@ -1819,6 +1819,7 @@
 - [Nereida Rondon](https://github.com/NereidaRondon)
 - [Maximiliano Vinzón](https://github.com/mvinzon)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
+- [Khadijah Kelly][https://github.com/deedeenkelly1995]
 - [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Harrison Matthews](https://github.com/H-Matthews)
 
