@@ -294,6 +294,7 @@
 - [Andrew Patasik](https://github.com/andrewpatasik)
 - [Ian Macharia](https://github.com/imac7)
 - [Mutmainah Odunewu](https://github.com/mutmainaho)
+- [Rohith Ramanathan] (https://github.com/rohram04)
 - [Anand Dubey]
 - [JustEasyOptions]
 - [JasonSolace](https://github.com/JasonSolace)
