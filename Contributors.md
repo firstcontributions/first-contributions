@@ -14,6 +14,7 @@
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
+- [Emma Sargent](https://github.com/eksargent)
 - [James](https://github.com/StreetsJ)
 - [Partha Mk](https://github.com/parthamk)
 - [Rashmi](https://github.com/Rashmi-1) 
