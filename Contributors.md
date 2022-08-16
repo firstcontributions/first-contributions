@@ -136,6 +136,7 @@ Sattyam Samania
 - [neuralpain](https://github.com/neuralpain)
 - [Loju](https://github.com/looju)
 - [ConkyTheGreat](https://github.com/ConkyTheGreat)
+- [BlazarBeams](https://github.com/blazark)
 - [Hagay Haut](https://github.com/HagayHaut)
 - [Mayukh Bhowmick](https://github.com/mayukh551)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
