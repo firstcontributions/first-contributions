@@ -620,6 +620,7 @@
 - [Nozomu Ohno](https://github.com/nohno23)
 - [Sophearoth Prum](https://github.com/biscuit-lee)
 - [Abhiram Santhosh](https://github.com/mayopik)
+  [Prince Chimaobi](https://github.com/chimoski)
 - [Brian Muimi](https://github.com/brianmuimi)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Chan K](https://github.com/KChandanGITHUB)
