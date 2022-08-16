@@ -73,6 +73,7 @@
 - [Irfan Ashraf](https://github.com/IrfanAshraf-pro)
 - [Sam Rao](https://github.com/samrao1997)
 - [Josmar Suarez](https://github.com/LuisJosmarSuarez)
+- [Abdulwaarith Zakariyya](https://github.com/Abdulwaarith-07)
 - [Ismail Ahmad](https://github.com/SneezyG)
 - [Maxwell Nganyadi](https://github.com/GOATMaxwellN)
 - [ Joel Crouch](https://github.com/joelcrouch)
