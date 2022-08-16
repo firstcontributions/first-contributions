@@ -10,6 +10,7 @@
 - [Evan Lahey] (https://github.com/FeelsRossMan)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
+- [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
 - [James](https://github.com/StreetsJ)
 - [Partha Mk](https://github.com/parthamk)
