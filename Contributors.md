@@ -745,6 +745,7 @@ Sattyam Samania
 - [Mohamed Mahi TOURE](https://github.com/touremahhi)
 - [Godswill Omonkhodion](https://github.com/Owillz01)
 - [Sean Chua](https://github.com/SeansC12)
+- [Abdul Kader](https://github.com/abdulkaderm36)
 - [Dallin Hendig](https://github.com/Dallin1H)
 - [Shashwat Pragya](https://github.com/shashwat183)
 - [Brady Davenport](https://github.com/bradydavenport)
