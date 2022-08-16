@@ -32,7 +32,7 @@ Nyiss egy terminált és futtasd a következő parancsot:
 ```
 git clone "url you just copied"
 ```
-a "url you just copied" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
+A "url you just copied" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="másold az URL címet a vágólapra" />
 
@@ -40,7 +40,7 @@ Például:
 ```
 git clone https://github.com/a-te-git-neved/first-contributions.git
 ```
-a `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
+A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
 
 ## Készíts egy ágat (branch)
 
@@ -80,7 +80,7 @@ Commitoljuk a módosításokat a `git commit` paranccsal:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-helyettesítsd `<your-name>` kifejezést a saját neveddel.
+Helyettesítsd `<your-name>` kifejezést a saját neveddel.
 
 ## Töltsd fel az elkészült változtatásokat a GitHub-ra (push)
 
@@ -88,7 +88,7 @@ Töltsd fel a változtatásokat a `git push` paranccsal:
 ```
 git push origin <add-your-branch-name>
 ```
-helyettesítsd az `<add-your-branch-name>` kifejezést annak a branchnek a nevével, amit korábban létrehoztál.
+Helyettesítsd az `<add-your-branch-name>` kifejezést annak a branchnek a nevével, amit korábban létrehoztál.
 
 ## Küldd be a módosításaidat ellenőrzésre (pull request)
 
