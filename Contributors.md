@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg) 
 - [Mohamed El omary](https://github.com/celomary)
 - [Robin Kempen] (https://github.com/Robinho1997)
