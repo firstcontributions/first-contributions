@@ -1816,4 +1816,6 @@ runerjs
 - [Prachi Sharma](https://github.com/prachi128)
 - [Avinaba Bera](https://github.com/avimax37)
 - [Devalimalik](https://github.com/devalimalik)
+- [Alice Eneyo](https://github.com/Aliyosign)
+
 <!-- prettier-ignore-end -->
