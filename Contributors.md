@@ -286,6 +286,7 @@
 - [Ben Cruickshank](https://github.com/officerclucks)
 - [Nissan]
 - [z3one]
+- [Beata Kilyen] (https://github.com/BerenTheBold)
 - [amun06](https://github.com/amun06)
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
 - [Harvey Munoz](https://github.com/Zyhru)
