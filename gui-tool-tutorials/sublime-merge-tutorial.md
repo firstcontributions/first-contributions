@@ -9,7 +9,7 @@
 |<img alt="Sublime Merge" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sublime-merge.png" width="200">|Sublime Merge Git Client|
 |---|---|
 
-It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating or trying out something new, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
