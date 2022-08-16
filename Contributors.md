@@ -61,7 +61,7 @@
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
-aestadt
+  aestadt
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
 - [Qi Mo Lin](https://github.com/qimolin)
@@ -1137,6 +1137,7 @@ aestadt
 - [Jake Clifford](https://github.com/jakeclifford)
 - [Phone Myint Maw](https://github.com/meemaw2020)
 - [Anay Mody](https://github.com/anaymody)
+- [Steven Musembi](https://github.com/stevomusembi)
 - [Faiz Kasman](https://github.com/ryzncodes)
 - [Dominic Bell](https://github.com/dobell733)
 - [adelevett](https://github.com/adelevett)
