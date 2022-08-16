@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Aeolusw] (https://github.com/Aeolusw)
