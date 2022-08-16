@@ -10,6 +10,7 @@
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
 - [Alex Ash] (https://github.com/akaaja2)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
+- [Ayush Khandelwal] (https://github.com/Ayush-Khandelwal28)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Chenghao Li](https://github.com/lich2000117)
