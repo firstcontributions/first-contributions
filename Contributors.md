@@ -100,9 +100,9 @@ aestadt
 - Labeed
 - Iqbal
 - [Andrew Virts](https://github.com/asvirts)
-Harsh Shah
-Sattyam Samania
-[Md Mudassir Akhter](https://github.com/mudassir-jmi)
+  Harsh Shah
+  Sattyam Samania
+  [Md Mudassir Akhter](https://github.com/mudassir-jmi)
 - [Samarth Rayar](https://github.com/samarth2001)
 - [Fatimah Badmus](https://github.com/fatimahbadmus)
 - [vandit Tyagi](https://github.com/vandit98)
@@ -1513,6 +1513,7 @@ Sattyam Samania
 - [Mayank Pathak](https://github.com/bad-at-names0)
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
+- [Craig Summers](https://github.com/AlphaPentagon)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Aditya Joshi](https://github.com/Joshi-Adi)
 - [Mathieu Albin](https://github.com/jaegar-wolf)
