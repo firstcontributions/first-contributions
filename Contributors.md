@@ -13,6 +13,7 @@
 - [Aeolusw] (https://github.com/Aeolusw)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
+- [Pete Fowler](https://github.com/Pete-Fowler)
 - [Alex Ash] (https://github.com/akaaja2)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
 - [Diksha Tomar] (https://github.com/Dikshatomarr)
