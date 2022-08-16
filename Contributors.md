@@ -1811,6 +1811,7 @@
 - [Aman](https://github.com/amanace)
 - [Maximiliano Vinzón](https://github.com/mvinzon)
 - [Shrinu Kushagra](https://github.com/shrinu-kushagra)
+- [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Harrison Matthews](https://github.com/H-Matthews)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
