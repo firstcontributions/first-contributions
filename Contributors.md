@@ -541,6 +541,7 @@ Binyamin Roberts
 - [Alexi](https://github.com/web-dev-lex)
 - [Farooq](https://github.com/frq-frk)
 - [Lebelek](https://github.com/lblk-coder)
+- [BartyDash](https://github.com/BartyDash)
 - [Larry Urrego](https://github.com/LaUrrego)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
 - [Shauna Empringham](https://github.com/ShaunaTheDead86)
