@@ -1823,6 +1823,7 @@
 - [Harrison Matthews](https://github.com/H-Matthews)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
+- [Andriy Kotko](https://github.com/Kotkoa)
 - [Ope Kareem](https://github.com/talentlessDeveloper)
 - [Haris Ahmed](https://github.com/harisahmed321)
 - [Damien Koh](https://github.com/DKJKOH)
