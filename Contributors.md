@@ -24,6 +24,7 @@
 - [Partha Mk](https://github.com/parthamk)
 - [Rashmi](https://github.com/Rashmi-1) 
 - [Priya Patel](https://github.com/Priyapatel-07)
+- [Shaurya Gupta](https://github.com/shauryag2002)
 - [Ilija Krstic](https://github.com/ilijakrstic)
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Reuben Philip](https://github.com/rphilip2)
