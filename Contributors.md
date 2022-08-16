@@ -1830,6 +1830,7 @@
 - [Haris Ahmed](https://github.com/harisahmed321)
 - [Damien Koh](https://github.com/DKJKOH)
 
+- [Tylor M. Clont] (https://github.com/Tylor1210)
 - [spark07](https://github.com/sparkO7)
 - [Gourav Mandhane](https://github.com/gourav-mandhane)
 - [Ahmed Albarghouti](https://github.com/AhmedAlbarghouti)
