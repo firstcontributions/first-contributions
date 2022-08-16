@@ -1801,6 +1801,7 @@
 - [Harrison Matthews](https://github.com/H-Matthews)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
+- [Haris Ahmed](https://github.com/harisahmed321)
 - [Damien Koh](https://github.com/DKJKOH)
 
 - [spark07](https://github.com/sparkO7)
