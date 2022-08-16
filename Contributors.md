@@ -1826,6 +1826,7 @@
 - [Ashutosh Shinde](https://github.com/CelestialLemon)
 - [Fpersistent](https://github.com/FPersistent)
 - [Sandeep Urankar](https://www.github.com/SandeepUrankar)
+- [Kemal](https://www.github.com/Kemal-D)
 - [Olla Bak](https://github.com/iamolla)
 - [Mitchell Hayes](https://github.com/MitchellHayes)
 - [Peashooter](https://github.com/RuibaiXu)
