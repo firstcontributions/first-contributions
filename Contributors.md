@@ -1832,6 +1832,7 @@
 - [Oscar Caicedo](https://github.com/oscarmc17)
 - [crypto guy](https://github.com/cryptoguy55a/)
 - [Aditya Vaste](https://github.com/adivaste/)
+- [Ashish Padhy](https://github.com/Shurtu-Gal)
 - [Niharika Baliyan](https://github.com/Niiiha)
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
