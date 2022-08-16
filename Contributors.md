@@ -1,8 +1,9 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Halim Shams] (https://github.com/Halim-Shams)
-- [Jai Ganesh](https://github.com/jjaijg) 
+- [Jai Ganesh](https://github.com/jjaijg)
 - [Mohamed El omary](https://github.com/celomary)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
@@ -262,6 +263,7 @@
 - [Jeremy Quihano](https://github.com/jquihano)
 - [Kanyisa Ntombini](https://github.com/Kanyisa-Ntombini)
 - [Sagore Sarker](https://github.com/sagoresarker)
+- [Harsh Mishra](https://github.com/MrMetrik/)
 - [Sai Kumar](https://github.com/hellosai-github)
 - [Acha Rha'ah](https://github.com/AchaRhah)
 - [Naveen Narayanan](https://github.com/stealthyninja86)
@@ -1872,7 +1874,7 @@
 - [ashwin-athappan](https://github.com/ashwin-athappan)
 - [Ezra John Guia](https://github.com/ejohnguia)
 - [jithuraj](https://github.com/jithuraj)
-runerjs
+  runerjs
 - [just a little spark of light](https://github.com/jalsol)
 - [Gonzalo](https://github.com/GonzaloMFB)
 - [Emeka Chukwudozie](https://github.com/chukwudozie)
@@ -1887,4 +1889,3 @@ runerjs
 - [HonKLam](https://github.com/HonKLam)
 - [Riley Thompson](https://github.com/rjthompson2)
 <!-- prettier-ignore-end -->
-
