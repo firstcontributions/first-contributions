@@ -4,6 +4,7 @@
 
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
+- [Pritam Singh](https://github.com/Pritam-s)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Aeolusw] (https://github.com/Aeolusw)
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
