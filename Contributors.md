@@ -347,6 +347,7 @@
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
 - [Wayne Cen](https://github.com/waynecen)
+- [Ferdjani Zakaria](https://github.com/Ferdjani-zakaria)
 - [Jessica van der Merwe](https://github.com/JessicavdM)
 - [Michael Ford] (https://github.com/michaelrossford)
 - [Timi Ombe](https://github.com/SpaceTimmi)
