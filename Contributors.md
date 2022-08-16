@@ -29,6 +29,7 @@
 - [Gaurav] (https://github.com/Gaurav-1306)
 - [BenyLava](https://github.com/BenyLava)
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
+- [Daniela Brailovsky] (https://github.com/danielabrailo)
 - [Diana Borro] (https://github.com/DianaBorro)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
