@@ -1810,4 +1810,5 @@ runerjs
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
 - [Prachi Sharma](https://github.com/prachi128)
+- [Avinaba Bera](https://github.com/avimax37)
 <!-- prettier-ignore-end -->
