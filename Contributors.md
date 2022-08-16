@@ -90,6 +90,7 @@
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Haley Seymour](https://github.com/hseymo)
 - [Nathan TT](https://github.com/nthaitang7)
+- [Keon Jukes](https://github.com/Keon-Jukes)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Louis St-Pierre](https://github.com/louis-stp)
 - [Devadathan M B](https://github.com/devadathanmb)
