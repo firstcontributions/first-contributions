@@ -159,7 +159,7 @@
 - [Michael Lee Piotrowski](https://www.github.com/MikePiotrowski)
 - [Ojonuba Jeremiah](https://www.github.com/spartan124)
 - [CyOfficial](https://github.com/CyOfficial)
-- [mohammedimranK](https://github.com/mohammedimrank)
+- [Kasab Mohammed Imran](https://github.com/mohammedimrank)
 - [Youngtechie](https://github.com/Youngtechie)
 - [Prathamesh Kirad](https://github.com/Prathamesh-V-Kirad)
 - [neuralpain](https://github.com/neuralpain)
