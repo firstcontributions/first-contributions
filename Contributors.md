@@ -9,6 +9,7 @@
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Pritam Singh](https://github.com/Pritam-s)
+- [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Aeolusw] (https://github.com/Aeolusw)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
