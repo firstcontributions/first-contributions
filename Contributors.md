@@ -4,6 +4,7 @@
 
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
+- [Jeff Dauda](https://github.com/jefftrojan)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
   [Shubham Yadav]
