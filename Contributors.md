@@ -1907,5 +1907,6 @@ runerjs
 - [Seayon](https://github.com/Seayon)
 - [Gagan Pabla](https://github.com/CrownPab)
 - [TOPetit](https://github.com/TOPetit)
+- [Juraj Seman] (https://github.com/Ged223)
 <!-- prettier-ignore-end -->
 
