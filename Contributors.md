@@ -1918,5 +1918,6 @@ runerjs
 - [Vincent Schweiger](https://github.com/legendary-cookie)
 - [Nitin Chauhan] (https://github.com/nitinchauhan1208)
 - [Jon Phelps] (https://github.com/programsoftheplains)
+- [Amanda Sherman] (https://github.com/AmandaSherman)
 <!-- prettier-ignore-end -->
 
