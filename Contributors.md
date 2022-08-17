@@ -61,6 +61,7 @@
 - [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
+- [Estefania Sanchez](https://github.com/estefysc)
 - [DUMMY](https://github.com/mirzafaisalbaig)
 - [Ankur Ghosh](https://github.com/AnkurGhosh541)
 - [Corrie Botha](https://github.com/Kerneels94)
