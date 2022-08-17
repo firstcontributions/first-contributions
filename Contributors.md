@@ -1897,5 +1897,6 @@ runerjs
 - [Riley Thompson](https://github.com/rjthompson2)
 - [Toby Mark](https://github.com/Mr-Sbev)
 - [Seayon](https://github.com/Seayon)
+- [Gagan Pabla](https://github.com/CrownPab)
 <!-- prettier-ignore-end -->
 
