@@ -1008,6 +1008,7 @@
 - [mccurdyr](https://github.com/mccurdyr)
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
+- [Muzamil Ali](https://github.com/muzami1ali)
 - [Chris Naugle](https://github.com/crn717)
 - [AnujSharma](https://github.com/Anujsharma0307)
 - [Pete Darinzo](https://github.com/PeteDarinzo)
