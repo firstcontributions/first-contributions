@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
