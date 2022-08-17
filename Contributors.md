@@ -1908,5 +1908,6 @@ runerjs
 - [Gagan Pabla](https://github.com/CrownPab)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Juraj Seman] (https://github.com/Ged223)
+- [Nathan Cao](https://github.com/Ayatuas)
 <!-- prettier-ignore-end -->
 
