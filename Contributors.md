@@ -5,7 +5,7 @@
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Halim Shams] (https://github.com/Halim-Shams)
-- [Jai Ganesh](https://github.com/jjaijg)
+- [Jai Ganesh](https://github.com/jjaijg) 
   [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
 - [Richard Panzera] (https://github.com/richardpanzera)
@@ -28,6 +28,7 @@
 - [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Diego Herrera](https://github.com/diegoherrer4)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
+- [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
 - [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
 - [Emma Sargent](https://github.com/eksargent)
@@ -1896,7 +1897,7 @@
 - [ashwin-athappan](https://github.com/ashwin-athappan)
 - [Ezra John Guia](https://github.com/ejohnguia)
 - [jithuraj](https://github.com/jithuraj)
-  runerjs
+- [runerjs]()
 - [just a little spark of light](https://github.com/jalsol)
 - [Gonzalo](https://github.com/GonzaloMFB)
 - [Emeka Chukwudozie](https://github.com/chukwudozie)
