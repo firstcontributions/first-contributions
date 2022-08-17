@@ -21,6 +21,7 @@
 - [Reuben Philip](https://github.com/rphilip2)
 - [Gaurav] (https://github.com/Gaurav-1306)
 - [BenyLava](https://github.com/BenyLava)
+- [ZubairAtif](https://github.com/zubairatif)
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
