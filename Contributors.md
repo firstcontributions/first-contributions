@@ -5,7 +5,7 @@
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Halim Shams] (https://github.com/Halim-Shams)
-- [Jai Ganesh](https://github.com/jjaijg) 
+- [Jai Ganesh](https://github.com/jjaijg)
   [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
 - [Richard Panzera] (https://github.com/richardpanzera)
@@ -13,6 +13,7 @@
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
+- [Ramadhan Permadi] (https://github.com/rmdhnprmd)
 - [Pritam Singh](https://github.com/Pritam-s)
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
