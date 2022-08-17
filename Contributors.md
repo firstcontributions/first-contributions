@@ -47,6 +47,7 @@
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
+- [Jae Lee](https://github.com/jaegl)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Lake Stevens](https://github.com/LakeChicken29)
 - [Konstantina Roumelioti](https://github.com/kwnna99)
