@@ -1906,5 +1906,6 @@ runerjs
 - [Toby Mark](https://github.com/Mr-Sbev)
 - [Seayon](https://github.com/Seayon)
 - [Gagan Pabla](https://github.com/CrownPab)
+- [TOPetit](https://github.com/TOPetit)
 <!-- prettier-ignore-end -->
 
