@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg) 
 [Shubham Yadav]
