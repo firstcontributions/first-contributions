@@ -1917,5 +1917,6 @@ runerjs
 - [Nathan Cao](https://github.com/Ayatuas)
 - [Vincent Schweiger](https://github.com/legendary-cookie)
 - [Nitin Chauhan] (https://github.com/nitinchauhan1208)
+- [Jon Phelps] (https://github.com/programsoftheplains)
 <!-- prettier-ignore-end -->
 
