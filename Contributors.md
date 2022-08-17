@@ -1916,6 +1916,7 @@
 - [Toby Mark](https://github.com/Mr-Sbev)
 - [Seayon](https://github.com/Seayon)
 - [Gagan Pabla](https://github.com/CrownPab)
+- [TOPetit](https://github.com/TOPetit)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Juraj Seman] (https://github.com/Ged223)
 - [Nathan Cao](https://github.com/Ayatuas)
