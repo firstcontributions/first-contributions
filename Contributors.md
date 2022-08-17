@@ -37,6 +37,7 @@
 - [Aryan Bramhane](https://github.com/neutr0n420)
 - [Gaurav] (https://github.com/Gaurav-1306)
 - [BenyLava](https://github.com/BenyLava)
+- [ZubairAtif](https://github.com/zubairatif)
 - [Prajwal Nadagouda] (https://github.com/prajwalnadagouda)
 - [Daniela Brailovsky] (https://github.com/danielabrailo)
 - [Diana Borro] (https://github.com/DianaBorro)
