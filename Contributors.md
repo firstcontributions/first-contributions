@@ -1911,5 +1911,6 @@ runerjs
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Juraj Seman] (https://github.com/Ged223)
 - [Nathan Cao](https://github.com/Ayatuas)
+- [Vincent Schweiger](https://github.com/legendary-cookie)
 <!-- prettier-ignore-end -->
 
