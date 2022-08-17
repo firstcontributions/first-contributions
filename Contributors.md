@@ -1,9 +1,14 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
+- [Shukur Avazov](https://github.com/shukuravazov)
+- [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg) 
+  [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
+- [Richard Panzera] (https://github.com/richardpanzera)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
@@ -23,6 +28,7 @@
 - [Mo Nakouzi](https://github.com/MoNakouzi)
 - [Diego Herrera](https://github.com/diegoherrer4)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
+- [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
 - [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
 - [Emma Sargent](https://github.com/eksargent)
@@ -44,6 +50,7 @@
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
+- [Jae Lee](https://github.com/jaegl)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Lake Stevens](https://github.com/LakeChicken29)
 - [Konstantina Roumelioti](https://github.com/kwnna99)
@@ -58,6 +65,7 @@
 - [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
+- [Estefania Sanchez](https://github.com/estefysc)
 - [DUMMY](https://github.com/mirzafaisalbaig)
 - [Ankur Ghosh](https://github.com/AnkurGhosh541)
 - [Corrie Botha](https://github.com/Kerneels94)
@@ -1003,6 +1011,7 @@
 - [mccurdyr](https://github.com/mccurdyr)
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
+- [Muzamil Ali](https://github.com/muzami1ali)
 - [Chris Naugle](https://github.com/crn717)
 - [AnujSharma](https://github.com/Anujsharma0307)
 - [Pete Darinzo](https://github.com/PeteDarinzo)
@@ -1888,7 +1897,7 @@
 - [ashwin-athappan](https://github.com/ashwin-athappan)
 - [Ezra John Guia](https://github.com/ejohnguia)
 - [jithuraj](https://github.com/jithuraj)
-runerjs
+- [runerjs]()
 - [just a little spark of light](https://github.com/jalsol)
 - [Gonzalo](https://github.com/GonzaloMFB)
 - [Emeka Chukwudozie](https://github.com/chukwudozie)
@@ -1905,5 +1914,12 @@ runerjs
 - [Toby Mark](https://github.com/Mr-Sbev)
 - [Seayon](https://github.com/Seayon)
 - [Gagan Pabla](https://github.com/CrownPab)
+- [Juliet Ofoegbu](https://github.com/OmaJuliet)
+- [Juraj Seman] (https://github.com/Ged223)
+- [Nathan Cao](https://github.com/Ayatuas)
+- [Peter Sekesan](https://github.com/Pete-Sekesan)
+- [Vincent Schweiger](https://github.com/legendary-cookie)
+- [Nitin Chauhan] (https://github.com/nitinchauhan1208)
+- [Jon Phelps] (https://github.com/programsoftheplains)
+- [Amanda Sherman] (https://github.com/AmandaSherman)
 <!-- prettier-ignore-end -->
-
