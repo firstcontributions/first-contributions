@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 -   [Jonathan Apostol](https://github.com/dev-Jonathan)
--   [shaevtcac] (https://github.com/shaevtchac/)
+-   [shaevtchac] (https://github.com/shaevtchac/)
 -   [Urunov Hamdamboy] (https://github.com/urunov)
 -   [Ayush Jha](https://github.com/AyushJha121)
 -   [Ignatius Obiorah](https://github.com/ignatiusobiorah)
