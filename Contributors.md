@@ -9,7 +9,7 @@
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Shukur Avazov](https://github.com/shukuravazov)
-- [Suyash Suryavanshi](https://github.com/iitiansuyash) 
+- [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Halim Shams] (https://github.com/Halim-Shams)
@@ -1947,6 +1947,7 @@
 - [Amanda Sherman] (https://github.com/AmandaSherman)
 - [Hassam Ud Din] (https://github.com/hassamboi)
 - [Restu Rizkiawan] (https://github.com/masrestu)
+- [Bhargav Sompura] (https://github.com/bhargav070)
 - [Rondo Chen] (https://github.com/rondochen)
 - [Rembert Muylle] (https://github.com/Rembie01)
 <!-- prettier-ignore-end -->
