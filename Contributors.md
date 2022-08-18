@@ -1937,4 +1937,6 @@
 - [Najeb Johnson] (https://github.com/Redtails)
 - [Amanda Sherman] (https://github.com/AmandaSherman)
 - [Hassam Ud Din] (https://github.com/hassamboi)
+- [Anish Aggarwal] (https://github.com/AnishAggarwal71)
+
 <!-- prettier-ignore-end -->
