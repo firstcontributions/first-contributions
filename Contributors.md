@@ -14,6 +14,7 @@
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
+- [Ansh Kaushik]
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Ramadhan Permadi] (https://github.com/rmdhnprmd)
