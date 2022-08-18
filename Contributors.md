@@ -47,6 +47,7 @@
 - [Ilija Krstic](https://github.com/ilijakrstic)
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Reuben Philip](https://github.com/rphilip2)
+- [Esther Nwachukwu](https://github.com/estherbabe)
 - [Aryan Bramhane](https://github.com/neutr0n420)
 - [Gaurav] (https://github.com/Gaurav-1306)
 - [BenyLava](https://github.com/BenyLava)
