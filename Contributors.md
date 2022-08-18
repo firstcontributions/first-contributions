@@ -1892,6 +1892,7 @@
 - [Mitchell Hayes](https://github.com/MitchellHayes)
 - [Peashooter](https://github.com/RuibaiXu)
 - [Anusha](https://github.com/anushas-dev)
+- [Fahd Abdulrazzaq] (https://github.com/fahd-abdulrazzaq)
 - [Oscar Caicedo](https://github.com/oscarmc17)
 - [crypto guy](https://github.com/cryptoguy55a/)
 - [Aditya Vaste](https://github.com/adivaste/)
