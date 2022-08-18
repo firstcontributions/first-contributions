@@ -908,6 +908,7 @@
 - [Carl Shone](https://github.com/carlts93)
 - [Kimberly Rodriguez](https://github.com/kimmiethecoder)
 - [Divya Arora](https://github.com/divyaarora1808)
+- [Jordan Klein](https://github.com/JordanIKlein)
 - [Jp Venadas](https://github.com/JPvenadas)
 - [Divjot Bedi](https://github.com/dbedi3311)
 - [Tejesh Annavarapu](https://github.com/Tejesh18)
