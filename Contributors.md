@@ -21,6 +21,7 @@
 - [Yashraj](https://github.com/yashraj24)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Robin Kempen] (https://github.com/Robinho1997)
+- [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
 - [Ansh Kaushik]
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
