@@ -1958,4 +1958,6 @@
 - [rahul Prajapati] (https://github.com/rahul429-wq)
 - [cirkitty] (https://github.com/cirkitty)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
+- [Bhavik Prajapati] (https://github.com/Bhavik-prajapati)
+
 <!-- prettier-ignore-end -->
