@@ -976,6 +976,7 @@
 - [Nikhil Pandey](https://github.com/nikhilpandeynp0505)
 - [Bolaji Motayo](https://github.com/Bolaji-Motayo)
 - [Donald Lv](https://github.com/SpadeInTheDirt)
+- [Nicolas Telep](https://github.com/ndtelep)
 - [Raul Flores](https://github.com/Raul-A-Flores)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Csanad Balla](https://github.com/Csanad-Balla)
