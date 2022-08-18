@@ -1932,6 +1932,7 @@
 - [Vincent Schweiger](https://github.com/legendary-cookie)
 - [Nitin Chauhan] (https://github.com/nitinchauhan1208)
 - [Jon Phelps] (https://github.com/programsoftheplains)
+- [Najeb Johnson] (https://github.com/Redtails)
 - [Amanda Sherman] (https://github.com/AmandaSherman)
 - [Hassam Ud Din] (https://github.com/hassamboi)
 <!-- prettier-ignore-end -->
