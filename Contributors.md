@@ -1943,4 +1943,5 @@
 - [Amanda Sherman] (https://github.com/AmandaSherman)
 - [Hassam Ud Din] (https://github.com/hassamboi)
 - [Restu Rizkiawan] (https://github.com/masrestu)
+- [Rondo Chen] (https://github.com/rondochen)
 <!-- prettier-ignore-end -->
