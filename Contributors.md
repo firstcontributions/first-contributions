@@ -1950,4 +1950,5 @@
 - [Bhargav Sompura] (https://github.com/bhargav070)
 - [Rondo Chen] (https://github.com/rondochen)
 - [Rembert Muylle] (https://github.com/Rembie01)
+- [cirkitty] (https://github.com/cirkitty)
 <!-- prettier-ignore-end -->
