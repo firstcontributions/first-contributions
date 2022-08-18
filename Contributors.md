@@ -80,6 +80,7 @@
 - [Ashish Kumar](https://github.com/ASHISHKUMAR2411)
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
+- [Thinh Do Truong](https://github.com/lonelyknight2902)
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
 - [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
