@@ -5,6 +5,7 @@
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Urunov Hamdamboy] (https://github.com/urunov)
 - [Ayush Jha](https://github.com/AyushJha121)
+- [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash) 
