@@ -12,6 +12,7 @@
 - [Jai Ganesh](https://github.com/jjaijg)
   [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
+- [Yashraj](https://github.com/yashraj24)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
