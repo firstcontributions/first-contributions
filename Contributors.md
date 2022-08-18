@@ -1951,4 +1951,5 @@
 - [Rondo Chen] (https://github.com/rondochen)
 - [Rembert Muylle] (https://github.com/Rembie01)
 - [cirkitty] (https://github.com/cirkitty)
+- [Ricardo Carrera] (https://github.com/carreraricardo)
 <!-- prettier-ignore-end -->
