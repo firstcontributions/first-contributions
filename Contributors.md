@@ -1932,6 +1932,7 @@
 - [Nathan Cao](https://github.com/Ayatuas)
 - [Peter Sekesan](https://github.com/Pete-Sekesan)
 - [Vincent Schweiger](https://github.com/legendary-cookie)
+- [Walter Li](https://github.com/WalterLII)
 - [Nitin Chauhan] (https://github.com/nitinchauhan1208)
 - [Jon Phelps] (https://github.com/programsoftheplains)
 - [Najeb Johnson] (https://github.com/Redtails)
