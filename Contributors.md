@@ -1945,4 +1945,6 @@
 - [Restu Rizkiawan] (https://github.com/masrestu)
 - [Rondo Chen] (https://github.com/rondochen)
 - [Rembert Muylle] (https://github.com/Rembie01)
+- [rahul Prajapati] (https://github.com/rahul429-wq)
+
 <!-- prettier-ignore-end -->
