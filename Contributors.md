@@ -46,6 +46,7 @@
 - [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
 - [Emma Sargent](https://github.com/eksargent)
+- [Shubham Gupta](https://github.com/shubham-gupta-16)
 - [James](https://github.com/StreetsJ)
 - [Partha Mk](https://github.com/parthamk)
 - [Rashmi](https://github.com/Rashmi-1)
