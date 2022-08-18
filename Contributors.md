@@ -76,6 +76,7 @@
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
 - [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
+- [Mohnish Deshpande](https://github.com/mohnishdeshpande)
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Estefania Sanchez](https://github.com/estefysc)
 - [DUMMY](https://github.com/mirzafaisalbaig)
