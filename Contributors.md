@@ -99,6 +99,7 @@
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
 - [Amit]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
+- [Subhajit Roy](https://github.com/subhajitroycode)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
   aestadt
