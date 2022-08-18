@@ -73,6 +73,7 @@
 - [Anna Welpa](https://github.com/ann-well)
 - [Samuel Veronese](https://github.com/samuelveronese)
 - [Jaiden Crawford](https://github.com/Crawfish-h)
+- [Ashish Kumar](https://github.com/ASHISHKUMAR2411)
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
