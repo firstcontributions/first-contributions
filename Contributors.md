@@ -1961,5 +1961,6 @@
 - [Rembert Muylle] (https://github.com/Rembie01)
 - [rahul Prajapati] (https://github.com/rahul429-wq)
 - [cirkitty] (https://github.com/cirkitty)
+- [Carlos Barona] (https://github.com/Cbarona)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
 <!-- prettier-ignore-end -->
