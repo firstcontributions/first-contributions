@@ -1939,4 +1939,5 @@
 - [Najeb Johnson] (https://github.com/Redtails)
 - [Amanda Sherman] (https://github.com/AmandaSherman)
 - [Hassam Ud Din] (https://github.com/hassamboi)
+- [Restu Rizkiawan] (https://github.com/masrestu)
 <!-- prettier-ignore-end -->
