@@ -4,6 +4,7 @@
 
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Urunov Hamdamboy] (https://github.com/urunov)
+- [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Shukur Avazov](https://github.com/shukuravazov)
