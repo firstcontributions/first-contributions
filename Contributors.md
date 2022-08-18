@@ -1953,5 +1953,6 @@
 - [Bhargav Sompura] (https://github.com/bhargav070)
 - [Rondo Chen] (https://github.com/rondochen)
 - [Rembert Muylle] (https://github.com/Rembie01)
+- [rahul Prajapati] (https://github.com/rahul429-wq)
 - [cirkitty] (https://github.com/cirkitty)
 <!-- prettier-ignore-end -->
