@@ -389,6 +389,7 @@
 - [Adeniyi Olanrewaju](https://github.com/engrmarkk)
 - [Allen Enyi] (https://github.com/ghostdev-labs)
 - [Dhananjay Pant](https://github.com/Dhananjay-12)
+- [Anish Kumar](https://github.com/anishkumark82)
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
