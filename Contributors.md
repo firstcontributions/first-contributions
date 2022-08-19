@@ -73,6 +73,7 @@
 - [hustnzj](https://github.com/hustnzj)
 - [Jae Lee](https://github.com/jaegl)
 - [Brij Desai](https://github.com/brij-desaii)
+- [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
