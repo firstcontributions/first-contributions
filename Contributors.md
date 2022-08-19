@@ -1988,4 +1988,5 @@
 - [Roman Trnka] (https://github.com/sunk4)
 - [Heber Marques] (https://github.com/hfmarques)
 - [Nabin Katwal] (https://github.com/nabinkatwal7)
+- [Ursa Ursic](https://github.com/ursaursic)
 <!-- prettier-ignore-end -->
