@@ -271,6 +271,7 @@
 - [Prateek Srivastava](https://github.com/prateek-srivastav)
 - [Ayush Yadav](https://github.com/ayush-wd)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
+- [Richard Mukam](https://github.com/RichardMukam/)
 - [Zeerak](https://github.com/zeerakb1/)
 - [Isidro Mata](https://github.com/EyesOfSiva/)
 - [Himanshu Rathore](https://github.com/Himanshu2561/)
