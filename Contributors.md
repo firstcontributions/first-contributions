@@ -76,6 +76,7 @@
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
 - [Jae Lee](https://github.com/jaegl)
+-[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
