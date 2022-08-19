@@ -653,6 +653,7 @@
 - [Alex Colvin](https://github.com/alex-colvin)
 - [Pride Chamisa](https://github.com/quintofsteel)
 - [Megha Juneja](https://github.com/mjunej)
+- [Marshal Olu](https://github.com/Olumarshal)
 - [The Singularity is Near](https://github.com/standardAI)
 - [Joseph Kang](https://github.com/joeskang)
 - [Erica Layton](https://github.com/BeeperDev)
