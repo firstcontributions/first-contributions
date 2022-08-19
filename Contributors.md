@@ -1982,4 +1982,5 @@
 - [Smiti Oswal] (https://github.com/smitioswal)
 - [Roman Trnka] (https://github.com/sunk4)
 - [Heber Marques] (https://github.com/hfmarques)
+- [bilel Feki] (https://github.com/bilelfeki)
 <!-- prettier-ignore-end -->
