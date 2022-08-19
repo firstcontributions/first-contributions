@@ -25,6 +25,7 @@
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Abhishek Kumar Gupta] (https://github.com/theabhigupta1271)
 - [Robin Kempen] (https://github.com/Robinho1997)
+- [ItsTHEAvro] (https://github.com/ItsTHEAvro)
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
 - [Ansh Kaushik]
