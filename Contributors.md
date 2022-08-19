@@ -1454,6 +1454,7 @@
 - [Idris Ayinde](https://github.com/Edrees-creator)
 - [Rafson Jani](https://github.com/RJ1911)
 - [cylearny](https://github.com/cylearny)
+- [Carl Childers](https://github.com/marooncarl/)
 - [edaro27](https://github.com/edaro27)
 - [Michael Adetona](https://github.com/AdetonaMichael)
 - [Ale Castillo](https://github.com/aleepsy)
