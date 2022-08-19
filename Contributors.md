@@ -590,6 +590,7 @@
 - [Elvis Osano](https://github.com/Elvis-Osano)
 - [Ahmodiyy](https://github.com/Ahmodiyy)
 - [Mohammad Abdullah](https://github.com/abdullah2202)
+- [Rocco Horvath](https://github.com/RoccoHorvath)
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Annabel Ilo](https://github.com/annabel-ilo)
