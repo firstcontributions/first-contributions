@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
+- [Adam Castaneda] (https://github.com/acastaneda10)
 - [Urunov Hamdamboy] (https://github.com/urunov)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
