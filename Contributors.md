@@ -9,6 +9,7 @@
 - [Nehal Ahmed] (https://github.com/nehal2210)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
+- [Praneeth Pydipalli](https://github.com/praneethpydipalli)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Devang Shah](https://github.com/Devang-Shah-49)
