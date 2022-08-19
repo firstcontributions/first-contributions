@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Purushottam Khedre](https://github.com/puru-khedre)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Urunov Hamdamboy] (https://github.com/urunov)
