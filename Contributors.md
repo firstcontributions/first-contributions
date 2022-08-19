@@ -1972,5 +1972,6 @@
 - [cirkitty] (https://github.com/cirkitty)
 - [Carlos Barona] (https://github.com/Cbarona)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
+- [Smiti Oswal] (https://github.com/smitioswal)
 - [Roman Trnka] (https://github.com/sunk4)
 <!-- prettier-ignore-end -->
