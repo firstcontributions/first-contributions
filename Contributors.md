@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Urunov Hamdamboy] (https://github.com/urunov)
