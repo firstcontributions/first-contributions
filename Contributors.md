@@ -382,6 +382,7 @@
 - [Yiorgos Fil](https://github.com/yogiyiorgos)
 - [Robbie Woolf](https://github.com/robbiemwoolf)
 - [RadTurkin](https://github.com/radturkin)
+- [Dave Thai](https://github.com/mechadragon01)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Andrea Coluzzi](https://github.com/coluzziandrea)
 - [Colby Berens](https://github.com/MacAttack1)
