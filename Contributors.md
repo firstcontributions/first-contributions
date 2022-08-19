@@ -8,6 +8,7 @@
 - [Urunov Hamdamboy] (https://github.com/urunov)
 - [Nehal Ahmed] (https://github.com/nehal2210)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
+- [frantic-dev] (https://github.com/frantic-dev)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Praneeth Pydipalli](https://github.com/praneethpydipalli)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
