@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
