@@ -99,6 +99,7 @@
 - [Anastasia Belenkii](https://github.com/Hoskayne)
 - [Estefania Sanchez](https://github.com/estefysc)
 - [DUMMY](https://github.com/mirzafaisalbaig)
+- [edmund](https://github.com/edmundk0)
 - [Ankur Ghosh](https://github.com/AnkurGhosh541)
 - [Corrie Botha](https://github.com/Kerneels94)
 - [Adriaan Louw](https://github.com/Boskrag)
