@@ -51,6 +51,7 @@
 - [Diksha Tomar] (https://github.com/Dikshatomarr)
 - [Ayush Khandelwal] (https://github.com/Ayush-Khandelwal28)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
+  [Josh Miller](https://github.com/RamenJunkie)
 - [Diego Herrera](https://github.com/diegoherrer4)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
