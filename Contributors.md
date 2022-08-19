@@ -1979,4 +1979,5 @@
 - [Ricardo Carrera] (https://github.com/carreraricardo)
 - [Smiti Oswal] (https://github.com/smitioswal)
 - [Roman Trnka] (https://github.com/sunk4)
+- [Heber Marques] (https://github.com/hfmarques)
 <!-- prettier-ignore-end -->
