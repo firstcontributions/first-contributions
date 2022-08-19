@@ -16,6 +16,7 @@
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Olamide omitogun](https://github.com/Olamide0411)
+- [sadhak kumar] (https://github.com/SadhakKumar)
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
