@@ -1,4 +1,4 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -622,6 +622,7 @@
 - [Annabel Ilo](https://github.com/annabel-ilo)
 - [aterzgar](https://github.com/aterzgar)
 - [Patryk Potrec](https://github.com/Patryk-Potrec)
+- [Inno Paolo Burgos de Leoz ☠](https://github.com/innopaolo)
 - [Tauhid Patel](https://github.com/tauhidpatel)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
 - [Seiji](https://github.com/seiji327)
