@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
+- [Aleksa](https://github.com/aleksastojsic)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
@@ -27,7 +28,6 @@
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
 - [Yashraj](https://github.com/yashraj24)
-- [Aleksa] (https://github.com/aleksastojsic)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Abhishek Kumar Gupta] (https://github.com/theabhigupta1271)
 - [Robin Kempen] (https://github.com/Robinho1997)
