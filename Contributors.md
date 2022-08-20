@@ -1939,6 +1939,7 @@
 - [Santiago-Carrizo](https://github.com/zantica)
 - [mflorezr](https://github.com/mflorezr)
 - [janyng](https://github.com/janyng)
+- [Abe Zayyir](https://github.com/abezayyir)
 - [Meenarh](https://github.com/meenarh)
 - [Patrick Zocli](https://github.com/Patzi275)
 - [Georgie](https://github.com/sheckathorne)
