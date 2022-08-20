@@ -90,6 +90,7 @@
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
+- [Lucky Abiom](https://github.com/Faemous)
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Clark D. Hou](https://github.com/cdh31211811)
