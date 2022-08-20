@@ -39,6 +39,7 @@
 - [Ansh Kaushik]
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
+- [Lior Altshul](https://github.com/lioralt98)
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Ramadhan Permadi] (https://github.com/rmdhnprmd)
   [Ikem Violacordis Adaobi](https://github.com/Violacordis)
