@@ -4,6 +4,7 @@
 
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
+- [Lucas Loureiro](https://github.com/L0ureiro)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
