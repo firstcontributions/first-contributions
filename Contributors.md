@@ -266,6 +266,7 @@
 - [Vincent Shadbolt](https://github.com/V-Shadbolt)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Yahya Benmahane](https://github.com/yahyabene)
+- [Muhammet Öztürk](https://github.com/muhammetozturk95)
 - [Lucas Köpke](https://github.com/meislucas)
 - [Liam Platt-Young](https://github.com/liamnpynz)
 - [Henry Okam](https://github.com/mchenryspagg)
