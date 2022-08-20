@@ -37,6 +37,7 @@
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
 - [Ansh Kaushik]
+- [Niranjan Hegde](https://github.com/Niranjan15052001)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
 - [Ramadhan Permadi] (https://github.com/rmdhnprmd)
