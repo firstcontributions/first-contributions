@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
