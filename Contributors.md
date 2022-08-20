@@ -4,10 +4,11 @@
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Halim Shams] (https://github.com/Halim-Shams)
-- [Jai Ganesh](https://github.com/jjaijg) 
+- [Jai Ganesh](https://github.com/jjaijg)
 [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
 - [Richard Panzera] (https://github.com/richardpanzera)
+Ailine Dominey
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
@@ -1916,4 +1917,3 @@ runerjs
 - [Nathan Cao](https://github.com/Ayatuas)
 - [Vincent Schweiger](https://github.com/legendary-cookie)
 <!-- prettier-ignore-end -->
-
