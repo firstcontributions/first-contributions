@@ -1,7 +1,7 @@
 ﻿**Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Rahul Parajuli](https://github.com/RahulParajuli)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
