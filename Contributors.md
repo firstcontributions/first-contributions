@@ -192,6 +192,7 @@
 - [Joa Leitola](https://github.com/jjooaa)
 - [Ian Johnston](https://github.com/ianjojo)
 - [Abdul Samad](https://github.com/asamadsid)
+- [Nonso Ugbodu](https://github.com/Arndy345)
 - [Kavya Jain](https://github.com/kj71)
 - [Kipung Park](https://github.com/kipung)
 - [Souradeep Das](https://github.com/shadesin)
