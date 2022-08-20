@@ -361,6 +361,7 @@
 - [z3one]
 - [Beata Kilyen] (https://github.com/BerenTheBold)
 - [amun06](https://github.com/amun06)
+- [MSK027](https://github.com/MSK027)
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
 - [Harvey Munoz](https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
