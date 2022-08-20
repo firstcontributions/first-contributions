@@ -8,7 +8,7 @@
 [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
 - [Richard Panzera] (https://github.com/richardpanzera)
-Ailine Dominey
+- [Ailine Dominey] (https://github.com/ailinedominey)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
