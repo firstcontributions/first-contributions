@@ -9,6 +9,7 @@
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Urunov Hamdamboy] (https://github.com/urunov)
 - [Nehal Ahmed] (https://github.com/nehal2210)
+- [Rohan Sharma](https://github.com/rohan843)
 - [Neikoli Augustine](https://github.com/niico868)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
