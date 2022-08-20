@@ -10,6 +10,7 @@
 - [Ayush Jha](https://github.com/AyushJha121)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
 - [Tanush Dhamija](https://github.com/tanushdhamija)
+- [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Shukur Avazov](https://github.com/shukuravazov)
