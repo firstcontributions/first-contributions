@@ -81,8 +81,7 @@
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -1993,5 +1992,6 @@
 - [Smiti Oswal] (https://github.com/smitioswal)
 - [Roman Trnka] (https://github.com/sunk4)
 - [Heber Marques] (https://github.com/hfmarques)
+- [Renato Martins](https://github.com/guimar86)
 - [Nabin Katwal] (https://github.com/nabinkatwal7)
 <!-- prettier-ignore-end -->
