@@ -1490,6 +1490,7 @@
 - [Sadie Manicom](https://github.com/sadienicole)
 - [Moad Akhraz](https://github.com/mdakh404)
 - [Flamintus Maximus](https://github.com/Flamintus)
+- [Nicholas Ng](https://github.com/onenylxus)
 - [Mukhtar Onifade](https://github.com/basfar)
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
