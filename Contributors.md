@@ -31,6 +31,7 @@
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
 - [Yashraj](https://github.com/yashraj24)
+- [Rohit](https://github.com/rohitsasi720)
 - [Aleksa] (https://github.com/aleksastojsic)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Rakhshan Ahmad] (https://github.com/Rakhshan90)
