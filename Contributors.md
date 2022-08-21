@@ -30,6 +30,7 @@
 - [Jai Ganesh](https://github.com/jjaijg)
   [Shubham Yadav]
   [Conner Murowchick]
+- [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
 - [Yashraj](https://github.com/yashraj24)
