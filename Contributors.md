@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Lucas Loureiro](https://github.com/L0ureiro)
