@@ -2028,4 +2028,5 @@
 - [Abhilash Kollikonda](https://github.com/akollikonda)
 - [Hikari](https://github.com/Hikari7)
 - [Ibrahim Opeyemi Abdulraheem](https://github.com/ibroraheem)
+- [Md Shams Firoz](https://github.com/shamsfiroz)
 <!-- prettier-ignore-end -->
