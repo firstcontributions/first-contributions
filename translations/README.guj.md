@@ -8,6 +8,8 @@
 
 આર્ટિકલ્સ વાંચન અને ઓનલાઇન ટ્યુટોરિયલ્સ મદદ કરી શકે છે, પરંતુ પોતે તે કામ કરવાથી સારું શું હોઇ શકે? આ પ્રોજેક્ટ તમને તમારી પ્રથમ કોન્ટ્રિબ્યુશન માટે દિશા નિર્દેશ આપશે. જો તમે તમારું પ્રથમ કોન્ટ્રીબ્યુશન કરવા માંગો છો તો આગળ આપેલા સ્ટેપ્સને અનુસરો.
 
+જો તમે કમાન્ડ લાઇન સાથે આરામદાયક ન હોવ, તો અહીં [ GUI ટૂલ્સનો ઉપયોગ કરવાના ટ્યુટોરિયલ્સ ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools) છે.
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 જો તમારા કમ્પ્યુટર પર Git નથી, [ તો Git ઈન્સ્ટોલ કરો](https://help.github.com/articles/set-up-git/)
