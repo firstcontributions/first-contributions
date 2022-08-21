@@ -1995,6 +1995,7 @@
 - [Prachi Sharma](https://github.com/prachi128)
 - [Avinaba Bera](https://github.com/avimax37)
 - [Devalimalik](https://github.com/devalimalik)
+- [Sandy] (https://github.com/cheek-codes)
 - [Alice Eneyo](https://github.com/Aliyosign)
 - [HonKLam](https://github.com/HonKLam)
 - [Riley Thompson](https://github.com/rjthompson2)
