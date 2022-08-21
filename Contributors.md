@@ -1,4 +1,4 @@
-﻿**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 
@@ -42,6 +42,7 @@
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
 - [Ansh Kaushik]
+- [Cindy Soh]
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Lior Altshul](https://github.com/lioralt98)
