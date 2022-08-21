@@ -513,6 +513,7 @@
 - [Noordeep Kaur](https://github.com/Noor291)
 - [Mohd Adil](https://github.com/Mohd-Adil-JMI)
 - [Henry Arboladora](https://github.com/Henry-Arb)
+- [Elliot Dorey](https://github.com/EJD23579)
 - [Hrittik Garain](https://github.com/hrittik2002)
 - [Rachit Lal](https://github.com/rachitlal-cc)
 - [kelvin Kelechi](https://github.com/PromiseMT)
