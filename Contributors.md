@@ -1988,6 +1988,7 @@
 - [Riley Thompson](https://github.com/rjthompson2)
 - [Toby Mark](https://github.com/Mr-Sbev)
 - [Seayon](https://github.com/Seayon)
+- [Chady] (https://github.com/T-Chady)
 - [Gagan Pabla](https://github.com/CrownPab)
 - [TOPetit](https://github.com/TOPetit)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
