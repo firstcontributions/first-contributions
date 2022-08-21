@@ -37,6 +37,7 @@
 - [Rohit](https://github.com/rohitsasi720)
 - [Aleksa] (https://github.com/aleksastojsic)
 - [RaphaelJS] (https://github.com/RaphaelJ-S)
+- [RahatImroz] (https://github.com/RahatAhmed171)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Rakhshan Ahmad] (https://github.com/Rakhshan90)
 - [Abhishek Kumar Gupta] (https://github.com/theabhigupta1271)
