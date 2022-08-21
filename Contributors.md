@@ -246,6 +246,7 @@
 - [Tony Wang](https://github.com/ReconDoge)
 - [Tushar Pathak](https://github.com/tushar54594)
 - [Varun Shah](https://github.com/varun-1004)
+- [Justin McDonald](https://github.com/niceguy4)
 - [Jithan Gowda CK](https://github.com/JithanGowda)
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
