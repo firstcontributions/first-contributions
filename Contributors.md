@@ -2017,5 +2017,5 @@
 - [Florian Scholz](https://github.com/scholzdev)
 - [Yilver Rivera](https://github.com/RennfahrerU)
 - [Abhilash Kollikonda](https://github.com/akollikonda)
-- [Ibrahim Abdulraheem](https://github.com/ibroraheem)
+- [Ibrahim Opeyemi Abdulraheem](https://github.com/ibroraheem)
 <!-- prettier-ignore-end -->
