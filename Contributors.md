@@ -12,6 +12,7 @@
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Praneeth Pydipalli](https://github.com/praneethpydipalli)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
+- [Taranpreet Singh](https://github.com/taranpreet-singh1)
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
