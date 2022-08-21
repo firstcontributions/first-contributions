@@ -1934,6 +1934,7 @@
 - [Michael Mohlomi] (https://github.com/MohlomiKM)
 - [Rahul Saraf](https://github.com/Rahulsaraf1578)
 - [Michael Mohlomi](https://github.com/MohlomiKM)
+  [Caleb Cyrill]
 - [Mohit Jain](https://github.com/mohit229123)
 - [Ruan Huysen](https://github.com/Rhman101)
 - [Ashutosh Shinde](https://github.com/CelestialLemon)
