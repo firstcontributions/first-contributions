@@ -2014,7 +2014,7 @@
 - [Heber Marques] (https://github.com/hfmarques)
 - [Nabin Katwal] (https://github.com/nabinkatwal7)
 - [Kevin Vuong] (https://github.com/GoldenDukes)
-- [Florian Scholz](https://github.com/scholzdev)
 - [Yilver Rivera](https://github.com/RennfahrerU)
 - [Abhilash Kollikonda](https://github.com/akollikonda)
+- [Florian Scholz](https://github.com/scholzdev)
 <!-- prettier-ignore-end -->
