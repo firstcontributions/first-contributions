@@ -43,6 +43,7 @@
 - [ItsTHEAvro] (https://github.com/ItsTHEAvro)
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
+- [Yash Dalal](https://github.com/YashDalal11)
 - [Ansh Kaushik]
 - [Cindy Soh]
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
@@ -95,8 +96,7 @@
 - [Avinash Dhauni](https://github.com/avinashdhauni)
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
