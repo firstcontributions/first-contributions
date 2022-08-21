@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Randall Weaver](https://github.com/randallwvr90)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
