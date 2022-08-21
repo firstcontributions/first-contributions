@@ -205,6 +205,7 @@
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Finson Coutinho](https://github.com/finsoncoutinho)
 - [Darian Ngo](https://github.com/itsDarianNgo)
+- [Titilola Shittu](https://github.com/lhorla)
 - [Amy Liu](https://github.com/Aliu9742)
 - [Matthew Dunn] (https://github.com/pyr1te)
 - [Dimparar]
