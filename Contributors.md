@@ -2052,4 +2052,5 @@
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
 - [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Marcin Ziętara]([https://github.com/malpakw)
 <!-- prettier-ignore-end -->
