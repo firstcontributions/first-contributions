@@ -62,6 +62,7 @@
 - [Cindy Soh]
 - [Steven Dorsey]
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
+- [Olayemi Michael](https://github.com/michaelin007)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Lior Altshul](https://github.com/lioralt98)
 - [Alia Quintero](https://github.com/aliaquintero)
