@@ -9,6 +9,7 @@
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
+- [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Eno](https://github.com/codEno12)
