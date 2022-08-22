@@ -30,6 +30,7 @@
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
+- [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Meric Peddle] (https://github.com/gjpeddle)
