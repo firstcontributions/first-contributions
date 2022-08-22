@@ -44,6 +44,7 @@
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
 - [Yashraj](https://github.com/yashraj24)
+- [Prajjwal Dewangan]
 - [Rohit](https://github.com/rohitsasi720)
 - [Aleksa] (https://github.com/aleksastojsic)
 - [RaphaelJS] (https://github.com/RaphaelJ-S)
