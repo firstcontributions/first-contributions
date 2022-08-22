@@ -9,6 +9,7 @@
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Purushottam Khedre](https://github.com/puru-khedre)
+- [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
