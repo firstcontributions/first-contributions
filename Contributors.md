@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Jarone McCorkle](https://github.com/jcork4real)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
