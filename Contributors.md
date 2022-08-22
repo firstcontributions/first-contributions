@@ -69,6 +69,7 @@
 - [Sidya Galakho](https://github.com/sokolat)
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
+- [Sumit Ahire](https://github.com/Sumit2701)
 - [Iam a Coder] 
 - [Aeolusw] (https://github.com/Aeolusw)
 - [MochFadilR] (https://github.com/MochFadilR)
