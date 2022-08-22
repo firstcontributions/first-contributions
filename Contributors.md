@@ -151,6 +151,7 @@
 - [Taufiqurrahman](https://github.com/fiqgant/)
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
 - Wow
+- [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [Amit]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [Subhajit Roy](https://github.com/subhajitroycode)
