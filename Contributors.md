@@ -3,13 +3,13 @@
 <!-- prettier-ignore-start -->
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
-- [Halim Shams] (https://github.com/Halim-Shams)
+- [Halim Shams](https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
 [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
-- [Richard Panzera] (https://github.com/richardpanzera)
-- [Ailine Dominey] (https://github.com/ailinedominey)
-- [Robin Kempen] (https://github.com/Robinho1997)
+- [Richard Panzera](https://github.com/richardpanzera)
+- [Ailine Dominey](https://github.com/ailinedominey)
+- [Robin Kempen](https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Alia Quintero](https://github.com/aliaquintero)
