@@ -103,6 +103,7 @@
 - [Shaurya Gupta](https://github.com/shauryag2002)
 - [Ilija Krstic](https://github.com/ilijakrstic)
 - [NuggxtDev](https://github.com/Nuggxt)
+- [Pillonel Philippe](https://github.com/phil71x)
 - [Reuben Philip](https://github.com/rphilip2)
 - [Esther Nwachukwu](https://github.com/estherbabe)
 - [Aryan Bramhane](https://github.com/neutr0n420)
