@@ -69,7 +69,7 @@
 - [Sidya Galakho](https://github.com/sokolat)
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
-- [Iam a Coder] 
+- [Iam a Coder]
 - [Aeolusw] (https://github.com/Aeolusw)
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
@@ -113,8 +113,7 @@
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -780,6 +779,7 @@
 - [veasnawt](https://github.com/veasnawt)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Julie S](https://github.com/Julie-S2020)
+- [Dubravko Cajic](https://github.com/psychonautweb)
 - [Sasiru Ravihansa](https://github.com/sasirura)
 - [Edgars Vasiljevs](https://github.com/EdgarsVasiljevsTDL)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
@@ -2055,7 +2055,7 @@
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 <!-- prettier-ignore-end -->
