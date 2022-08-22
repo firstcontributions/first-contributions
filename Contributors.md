@@ -272,6 +272,7 @@
 - [Tony Wang](https://github.com/ReconDoge)
 - [Tushar Pathak](https://github.com/tushar54594)
 - [Varun Shah](https://github.com/varun-1004)
+- [Yusuke](https://github.com/yk-jp)
 - [Justin McDonald](https://github.com/niceguy4)
 - [Jithan Gowda CK](https://github.com/JithanGowda)
 - [Lfh404](https://github.com/Lfh404)
