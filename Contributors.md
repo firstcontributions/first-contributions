@@ -195,6 +195,7 @@
 - Ayushi Kotiyal
 - [Pratik Mishra](https://github.com/Pratik-here)
 - [Manish Basargekar](https://github.com/8mn)
+- [Tan Choon Yi](https://github.com/lotus710/)
 - Labeed
 - Iqbal
 - [Andrew Virts](https://github.com/asvirts)
