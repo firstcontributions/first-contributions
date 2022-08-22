@@ -1052,6 +1052,7 @@
 - [Asliddin E.](https://github.com/asliddin2002developer)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
+
 - [Bekbolat Kuralbayev](https://github.com/bekbolsky)
 - [F Y Gravel](https://github.com/gravelfy)
 - [Tim Leung](https://github.com/timleungtech)
@@ -2041,4 +2042,5 @@
 - [Ibrahim Opeyemi Abdulraheem](https://github.com/ibroraheem)
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
+- [EasewithTuts](https://github.com/EasewithTuts)
 <!-- prettier-ignore-end -->
