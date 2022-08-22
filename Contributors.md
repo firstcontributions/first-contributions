@@ -954,6 +954,7 @@
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Thomas Perzi](https://github.com/PerziThomas)
+- [Paula Isabel](https://github.com/paulaxisabel)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Alejandro Omar Pintos](https://github.com/nomadCoder23)
