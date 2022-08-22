@@ -590,6 +590,7 @@
 - [Henry Burii](https://github.com/buriihenry)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Bryan Emond](https://github.com/BryanEmond)
+- [Eno](https://github.com/codEno12)
 - [Namrata Ruchandani](https://github.com/Namrata2108)
 - [HAH](https://github.com/HtetAungHtet)
 - [Amit Chandra](https://github.com/dpedrupal)
