@@ -2020,6 +2020,7 @@
 - [Carmen Amba](https://github.com/Carmenbelle)
 - [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
 - [Mohamed Lahyane](https://github.com/Anir-Ln)
+-[Pelumi Olukayode](https://github.com/OluPel)
 - [Prachi Sharma](https://github.com/prachi128)
 - [Avinaba Bera](https://github.com/avimax37)
 - [Devalimalik](https://github.com/devalimalik)
@@ -2069,4 +2070,5 @@
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
+
 <!-- prettier-ignore-end -->
