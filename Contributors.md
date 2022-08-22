@@ -61,6 +61,7 @@
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Lior Altshul](https://github.com/lioralt98)
 - [Alia Quintero](https://github.com/aliaquintero)
+- [Naman Garg](https://github.com/naman-ng)
 - [Kevin Jivani](https://github.com/kevin3010)
 - [Nazimudheen](https://github.com/nazimudheen267)
 - [Ramadhan Permadi] (https://github.com/rmdhnprmd)
@@ -70,6 +71,8 @@
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Iam a Coder]
+- [Sumit Ahire](https://github.com/Sumit2701)
+- [Iam a Coder] 
 - [Aeolusw] (https://github.com/Aeolusw)
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
