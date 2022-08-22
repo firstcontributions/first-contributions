@@ -4,6 +4,7 @@
 
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Evan Nevermore](https://github.com/infiniteinsight)
+- [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Lucas Loureiro](https://github.com/L0ureiro)
