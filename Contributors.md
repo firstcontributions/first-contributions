@@ -2041,4 +2041,5 @@
 - [Ibrahim Opeyemi Abdulraheem](https://github.com/ibroraheem)
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
+- [Nelson Joppi](https://github.com/njoppi2)
 <!-- prettier-ignore-end -->
