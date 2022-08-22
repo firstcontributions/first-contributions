@@ -2056,4 +2056,5 @@
 - [Nelson Joppi](https://github.com/njoppi2)
 - [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
 - [Marcin Ziętara]([https://github.com/malpakw)
+- [Jacob Hobbs]([https://github.com/Xisurthros)
 <!-- prettier-ignore-end -->
