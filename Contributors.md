@@ -11,6 +11,7 @@
 - [Purushottam Khedre](https://github.com/puru-khedre)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Adam Castaneda] (https://github.com/acastaneda10)
+- [Eno](https://github.com/codEno12)
 - [Urunov Hamdamboy] (https://github.com/urunov)
 - [Nehal Ahmed] (https://github.com/nehal2210)
 - [Neikoli Augustine](https://github.com/niico868)
