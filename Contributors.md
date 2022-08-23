@@ -66,6 +66,7 @@
 - [Cindy Soh]
 - [Steven Dorsey]
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
+- [Dubem Obinwanne](https://github.com/DubemObi)
 - [Olayemi Michael](https://github.com/michaelin007)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Lior Altshul](https://github.com/lioralt98)
@@ -80,7 +81,7 @@
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
-- [Iam a Coder] 
+- [Iam a Coder]
 - [Aeolusw] (https://github.com/Aeolusw)
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
@@ -126,8 +127,7 @@
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -2075,7 +2075,7 @@
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
