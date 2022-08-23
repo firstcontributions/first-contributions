@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 
 - [Raboro](https://github.com/Raboro)
-- [Romel Williams](https://github.com/omerome83)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
@@ -13,6 +12,7 @@
 - [Aircraft192](https://github.com/Aircraft192/)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
+- [Romel Williams](https://github.com/omerome83)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Lucas Loureiro](https://github.com/L0ureiro)
