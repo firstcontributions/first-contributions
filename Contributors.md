@@ -2072,4 +2072,5 @@
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
 - [Bello Muhammad]([https://github.com/MohBello])
+- [Luqman Said]([https://github.com/L-SAID])
 <!-- prettier-ignore-end -->
