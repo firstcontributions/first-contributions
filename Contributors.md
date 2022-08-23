@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Randall Weaver](https://github.com/randallwvr90)
+- [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
