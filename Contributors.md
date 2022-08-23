@@ -144,6 +144,7 @@
 - [Rachit Agarwal](https://github.com/rachitag112)
 - [Ivan Loeza](https://github.com/iloeza)
 - [Thinh Do Truong](https://github.com/lonelyknight2902)
+- [Rainb0-0](
 - [Abhijeet Kumar](https://github.com/abhijeetbyte)
 - [Ashutosh Mishra](https://github.com/ashutosh2706)
 - [Ibe Chuks](https://github.com/IbeChuksVictor)
@@ -163,7 +164,7 @@
 - [Tanya Tomar](https://github.com/tanyatomar98)
 - [Taufiqurrahman](https://github.com/fiqgant/)
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
-- Wow
+- [Rainb0-0](https://github.com/Rainb0-0)
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [Amit]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
