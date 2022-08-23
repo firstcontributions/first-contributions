@@ -14,6 +14,7 @@
 - [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
+- [Javier Espinosa](https://github.com/EspJav)
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Deepak Sharma](https://github.com/Deepaksharma-39)
