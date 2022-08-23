@@ -6,6 +6,7 @@
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
+- [Ahmad Afghan](https://github.com/AhmadCR7)
 - [Aircraft192](https://github.com/Aircraft192/)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Chow Mei Kei](https://github.com/meikei-99)
