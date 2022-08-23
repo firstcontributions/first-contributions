@@ -6,6 +6,7 @@
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
+- [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Lucas Loureiro](https://github.com/L0ureiro)
