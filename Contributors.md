@@ -11,6 +11,7 @@
 - [Ahmad Afghan](https://github.com/AhmadCR7)
 - [Aircraft192](https://github.com/Aircraft192/)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
+- [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Lucas Loureiro](https://github.com/L0ureiro)
