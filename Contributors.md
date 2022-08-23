@@ -30,6 +30,7 @@
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Joao Alves](https://github.com/versuspng)
+- [Jacek Głowacz]
 - [Praneeth Pydipalli](https://github.com/praneethpydipalli)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
 - [Taranpreet Singh](https://github.com/taranpreet-singh1)
