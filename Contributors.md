@@ -1369,6 +1369,7 @@
 - [Xevziler](https://github.com/Xevziler)
 - [Jaden Hong](https://github.com/thisjdn)
 - [Kerplunkx](https://github.com/Kerplunkx)
+- [Mbiraru](https://github.com/Mbiraru)
 - [James Peeler](https://github.com/jamespeeler)
 - [Magnus Kraft](https://github.com/manx)
 - [Megat Iskandar Shahriman](https://github.com/Isky-Codes)
