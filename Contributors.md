@@ -15,6 +15,7 @@
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Dom Vacchiano](https://github.com/vacchiano)
+- [Deepak Sharma](https://github.com/Deepaksharma-39)
 - [Purushottam Khedre](https://github.com/puru-khedre)
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
