@@ -36,6 +36,7 @@
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
+- [Gavi Furtado](https://github.com/Gavin-Furtado)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Meric Peddle] (https://github.com/gjpeddle)
 - [Olamide omitogun](https://github.com/Olamide0411)
