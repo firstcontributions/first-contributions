@@ -30,6 +30,7 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Salvador Alvarez](https://github.com/Salvador318Alvarez)
 - [Claudia De Angelis] (https://github.com/Pucchosa)
+- [Davide Schiaroli] (https://github.com/schiaro98)
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Bassel saleh](https://github.com/Bacell94)
