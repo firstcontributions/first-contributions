@@ -22,6 +22,7 @@
 - [Yash Gupta](https://github.com/imstillworthy)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
+- [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Eno](https://github.com/codEno12)
 - [Urunov Hamdamboy] (https://github.com/urunov)
