@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Sameer Katija](https://github.com/Sameerkatija)
 - [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
@@ -89,7 +90,7 @@
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
-- [Iam a Coder] 
+- [Iam a Coder]
 - [AusteZ](https://github.com/AusteZ)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
 - [Aeolusw] (https://github.com/Aeolusw)
@@ -137,8 +138,7 @@
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -2089,7 +2089,7 @@
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
