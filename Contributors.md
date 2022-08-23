@@ -943,6 +943,7 @@
 - [Rutul Amin](https://github.com/rutul24591)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Catalin Petrovici](https://github.com/catalinpetrovici24)
+- [Donall Burns](https://github.com/donall-burns)
 - [Alphonsus Okoli](https://github.com/alphamanium)
 - [Elias Dzobo](https://github.com/elias-dzobo)
 - [Nuri Kim](https://github.com/nurikimchi)
