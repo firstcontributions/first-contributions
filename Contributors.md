@@ -1579,6 +1579,7 @@
 - [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
+- [BlingDan ](https://github.com/BlingDan)
 - [Arun Pandey](https://github.com/EigenPandey)
 - [Elias Burgstaller](https://github.com/eliburgi)
 - [pastequeninja](https://github.com/pastequeninja)
@@ -1952,14 +1953,12 @@
 - [Khadijah Kelly][https://github.com/deedeenkelly1995]
 - [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Harrison Matthews](https://github.com/H-Matthews)
-
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 - [VenomAI](https://github.com/venomboss985)
 - [Andriy Kotko](https://github.com/Kotkoa)
 - [Ope Kareem](https://github.com/talentlessDeveloper)
 - [Haris Ahmed](https://github.com/harisahmed321)
 - [Damien Koh](https://github.com/DKJKOH)
-
 - [Tylor M. Clont] (https://github.com/Tylor1210)
 - [spark07](https://github.com/sparkO7)
 - [Gourav Mandhane](https://github.com/gourav-mandhane)
