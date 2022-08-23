@@ -22,6 +22,7 @@
 - [Nehal Ahmed] (https://github.com/nehal2210)
 - [Ilyas Rufai] (https://github.com/rufilboy)
 - [Neikoli Augustine](https://github.com/niico868)
+- [Esther Idabor](https://github.com/EstherIdabor)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Joao Alves](https://github.com/versuspng)
