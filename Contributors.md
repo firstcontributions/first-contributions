@@ -18,6 +18,7 @@
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Deepak Sharma](https://github.com/Deepaksharma-39)
 - [Purushottam Khedre](https://github.com/puru-khedre)
+- [Rayan](https://github.com/rayanx43)
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
