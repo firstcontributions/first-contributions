@@ -90,6 +90,7 @@
 - [Ayush Khandelwal] (https://github.com/Ayush-Khandelwal28)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
   [Josh Miller](https://github.com/RamenJunkie)
+  [Sayantan Naskar](https://github.com/Arbtrage)
 - [Diego Herrera](https://github.com/diegoherrer4)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
