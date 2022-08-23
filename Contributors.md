@@ -2091,5 +2091,5 @@
 - [Luqman Said]([https://github.com/L-SAID])
 - [CoolKidWithU235]([https://github.com/CoolKidWithU235])
 - [cloud93n]([https://github.com/cloud93n])
-- [b-yenilmez]([https://github.com/b-yenilmez])
+- [b-yenilmez] (https://github.com/b-yenilmez)
 <!-- prettier-ignore-end -->
