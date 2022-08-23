@@ -167,9 +167,9 @@
 - [Amit]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [Subhajit Roy](https://github.com/subhajitroycode)
+- [Adwait Deshpande](https://github.com/adwaitdeshpande-and)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
-  aestadt
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
 - [Bryan Chen](https://github.com/bryancheny)
