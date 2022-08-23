@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
