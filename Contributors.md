@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Mohamed Moulay](https://github.com/Medmly20208)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Natnael Sisay](https://github.com/NatnaelSisay)
 - [Ayesh Biswal](https://github.com/heyyayesh)
