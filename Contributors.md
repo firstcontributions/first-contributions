@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
