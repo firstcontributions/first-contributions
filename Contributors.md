@@ -2142,6 +2142,7 @@
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
 - [Chrystalio](https://github.com/chrystalio)
+- [Filip Swiniarski](https://github.com/FilipSwiniarski)
 - [sn0218](https://github.com/sn0218)
 - [Lalalisa123](https://github.com/Lalalisa123)
 - [Afrid Hussain](https://github.com/afrid18)
