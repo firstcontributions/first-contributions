@@ -2144,4 +2144,5 @@
 - [Jakob Bott](https://github.com/2704jakob)
 - [Sandra Skaria](https://github.com/zaksandra)
 - [AbdelrahmanDwedar](https://github.com/AbdelrahmanDwedar)
+- [Syed Ali](https://github.com/shahzaib)
 <!-- prettier-ignore-end -->
