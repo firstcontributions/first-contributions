@@ -21,6 +21,7 @@
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Javier Espinosa](https://github.com/EspJav)
 - [Lucas Loureiro](https://github.com/L0ureiro)
+- [Akintibubo Pelumi](https://github.com/Akintibubopelumi)
 - [Alberto Formaggio](https://github.com/AlbertoFormaggio1)
 - [Dom Vacchiano](https://github.com/vacchiano)
 - [Deepak Sharma](https://github.com/Deepaksharma-39)
