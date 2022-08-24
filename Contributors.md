@@ -1505,6 +1505,7 @@
 - [Marcin Stodolny](https://github.com/marcinstodolny)
 - [Martin Wachira](https://github.com/martinwachira)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
+- [Vicki Mat](https://github.com/VickiMat)
 - [Mukul Bhardwaj](https://github.com/mb-008)
 - [KHN](https://github.com/Ko-Htet-Naing)
 - [Raffy Wamar] (https://github.com/waffy-kun/)
