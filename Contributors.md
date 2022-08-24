@@ -2177,4 +2177,5 @@ p3tun1a
 - [Genshi](https://github.com/Genshisama)
 - [Maple Z.](https://github.com/maplezoo)
 - [gvindio](https://github.com/GVindio)
+- [Marlie Martinez] (https://github.com/marliemarls)
 <!-- prettier-ignore-end -->
