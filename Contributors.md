@@ -131,6 +131,7 @@
   [Josh Miller](https://github.com/RamenJunkie)
   [Sayantan Naskar](https://github.com/Arbtrage)
 - [Diego Herrera](https://github.com/diegoherrer4)
+- [Ioan Adafinei](https://github.com/IoanRO)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
 - [Chenghao Li](https://github.com/lich2000117)
