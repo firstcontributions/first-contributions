@@ -2094,6 +2094,7 @@
 - [cirkitty] (https://github.com/cirkitty)
 - [Brisben88] (https://github.com/brisben88)
 - [Gredar]
+- [Olakunle Raheem](https://github.com/mayor-rhymes)
 - [Carlos Barona] (https://github.com/Cbarona)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
 - [Smiti Oswal] (https://github.com/smitioswal)
@@ -2130,4 +2131,5 @@
 - [Afrid Hussain](https://github.com/afrid18)
 - [Michael Donnelly](https://github.com/themickster268)
 - [Jakob Bott](https://github.com/2704jakob)
+
 <!-- prettier-ignore-end -->
