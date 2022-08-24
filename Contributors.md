@@ -10,6 +10,7 @@
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
+- [Wanjiru Murira](https://github.com/wanjirumurira)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
