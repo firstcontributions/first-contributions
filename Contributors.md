@@ -92,6 +92,7 @@
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
+- [Russell Tan](https://github.com/spicygimbab)
 - [Iam a Coder] 
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
