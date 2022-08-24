@@ -483,6 +483,7 @@
 - [Shivam Verma](https://github.com/stoppieboy)
 - [Ross Scott](https://github.com/RossDScott)
 - [Rahul kumar](https://github.com/rahul152-ai)
+- [Mihai Catalui](https://github.com/PowerCreation)
 - [Priyank Patil](https://github.com/priyank003)
 - [Rai Shahnawaz Khan](https://github.com/raishahnawaz95)
 - [Assaad Ziade](https://github.com/Assaad-Ziade)
