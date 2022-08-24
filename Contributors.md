@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [DarkLunar](https://github.com/darklunar)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
