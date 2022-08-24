@@ -61,6 +61,7 @@
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
+- [BillieLurk]
   [Shubham Yadav]
   [Conner Murowchick]
 - [Kiana Kermani] (https://github.com/kianakermani)
