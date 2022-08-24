@@ -2102,4 +2102,5 @@
 - [b-yenilmez]([https://github.com/b-yenilmez])
 - [Aditya Sundar](https://github.com/adisun94)
 - [Codechickdev](https://github.com/Codechickdev)
+- [Gayan Kalinga](https://github.com/bg15407)
 <!-- prettier-ignore-end -->
