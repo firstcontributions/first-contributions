@@ -2101,4 +2101,5 @@
 - [cloud93n]([https://github.com/cloud93n])
 - [b-yenilmez]([https://github.com/b-yenilmez])
 - [Aditya Sundar](https://github.com/adisun94)
+- [Codechickdev](https://github.com/Codechickdev)
 <!-- prettier-ignore-end -->
