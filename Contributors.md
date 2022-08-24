@@ -232,6 +232,7 @@
 - [LUNA](https://github.com/EveningStar05)
 - [CLMB](https://github.com/matheusclmb)
 - [Amr Emara](https://github.com/aemara)
+- [Sylvester Asare Sarpong](https://github.com/Tylerasa)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [HBO](https://github.com/badbatunde)
 - [Saptak Das](https://github.com/Saptaktdk)
