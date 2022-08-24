@@ -2035,6 +2035,7 @@
 - [Max Panfilov](https://github.com/echomaxi)
 - [Santiago-Carrizo](https://github.com/zantica)
 - [mflorezr](https://github.com/mflorezr)
+- [Shawn Michael Jumawan](https://github.com/ImShawnTheSheep)
 - [janyng](https://github.com/janyng)
 - [Abe Zayyir](https://github.com/abezayyir)
 - [Meenarh](https://github.com/meenarh)
