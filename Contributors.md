@@ -2096,6 +2096,7 @@
 - [cirkitty] (https://github.com/cirkitty)
 - [Brisben88] (https://github.com/brisben88)
 - [Gredar]
+- [Jordan-Warr] (https://github.com/Jordan-Warr)
 - [Carlos Barona] (https://github.com/Cbarona)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
 - [Smiti Oswal] (https://github.com/smitioswal)
