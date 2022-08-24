@@ -2108,4 +2108,5 @@
 - [Meng Kheang](https://github.com/meangkheang)
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
+- [Afrid Hussain](https://github.com/afrid18)
 <!-- prettier-ignore-end -->
