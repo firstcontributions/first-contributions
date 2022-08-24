@@ -21,6 +21,7 @@
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Javier Espinosa](https://github.com/EspJav)
 - [Lucas Loureiro](https://github.com/L0ureiro)
+- [Ibrahim Hassan](https://github.com/ibrahim-5)
 - [Akintibubo Pelumi](https://github.com/Akintibubopelumi)
 - [Alberto Formaggio](https://github.com/AlbertoFormaggio1)
 - [Dom Vacchiano](https://github.com/vacchiano)
