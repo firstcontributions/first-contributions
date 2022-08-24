@@ -798,6 +798,7 @@
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Swapnali Bhargude](https://github.com/swapnaliss)
 - [Rishikesh S](https://github.com/Rhilok)
+- [Omar Hadidi](https://github.com/OmarHadidi)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [AungMyatThu](https://github.com/Aung67890)
 - [Abigel Asteraye](https://github.com/simplectasy)
