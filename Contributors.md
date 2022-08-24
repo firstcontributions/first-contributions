@@ -67,6 +67,7 @@
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
+- [Matevž Kovačič](https://github.com/mati5kova)
 - [Yashraj](https://github.com/yashraj24)
 - [Prajjwal Dewangan]
 - [Rohit](https://github.com/rohitsasi720)
