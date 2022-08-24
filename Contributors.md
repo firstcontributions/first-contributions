@@ -2130,4 +2130,5 @@
 - [Afrid Hussain](https://github.com/afrid18)
 - [Michael Donnelly](https://github.com/themickster268)
 - [Jakob Bott](https://github.com/2704jakob)
+- [Sandra Skaria](https://github.com/zaksandra)
 <!-- prettier-ignore-end -->
