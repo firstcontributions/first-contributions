@@ -71,6 +71,7 @@
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar] (https://github.com/SadhakKumar)
 - [Jeff Dauda](https://github.com/jefftrojan)
+- [Nafis Bin Nizam](https://github.com/Naf256)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
 - [BillieLurk]
