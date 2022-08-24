@@ -2103,4 +2103,5 @@
 - [Aditya Sundar](https://github.com/adisun94)
 - [Codechickdev](https://github.com/Codechickdev)
 - [Gayan Kalinga](https://github.com/bg15407)
+- [Aryan S. Jadon](https://github.com/Aryan-Jadon18)
 <!-- prettier-ignore-end -->
