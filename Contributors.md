@@ -276,6 +276,7 @@
 - [Vennila Pugazhenthi](https://github.com/VennilaPugazhenthi)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
+- [John Paul Yeap](https://github.com/Lalats12)
 - [Michael Lee Piotrowski](https://www.github.com/MikePiotrowski)
 - [Ojonuba Jeremiah](https://www.github.com/spartan124)
 - [CyOfficial](https://github.com/CyOfficial)
