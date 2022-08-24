@@ -108,6 +108,7 @@
 - [Iam a Coder] 
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
+- [Batıhan Özdemir](https://github.com/batihanoz/)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
 - [Aeolusw] (https://github.com/Aeolusw)
 - [MochFadilR] (https://github.com/MochFadilR)
