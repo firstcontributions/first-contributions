@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [DarkLunar](https://github.com/darklunar)
+- [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
@@ -62,6 +63,7 @@
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
+- [BillieLurk]
   [Shubham Yadav]
   [Conner Murowchick]
 - [Kiana Kermani] (https://github.com/kianakermani)
