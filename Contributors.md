@@ -31,6 +31,7 @@
 - [Nehal Ahmed] (https://github.com/nehal2210)
 - [Ilyas Rufai] (https://github.com/rufilboy)
 - [Neikoli Augustine](https://github.com/niico868)
+- [Logan Phan](https://github.com/letsgologan)
 - [Esther Idabor](https://github.com/EstherIdabor)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
