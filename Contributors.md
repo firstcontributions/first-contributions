@@ -2175,4 +2175,5 @@ p3tun1a
 - [Syed Ali](https://github.com/shahzaib)
 - [Genshi](https://github.com/Genshisama)
 - [Maple Z.](https://github.com/maplezoo)
+- [gvindio](https://github.com/GVindio)
 <!-- prettier-ignore-end -->
