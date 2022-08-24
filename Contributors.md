@@ -78,6 +78,7 @@
 - [BillieLurk]
   [Shubham Yadav]
   [Conner Murowchick]
+- [Paul Mazzia]
 - [Kiana Kermani] (https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
