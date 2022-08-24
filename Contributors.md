@@ -129,6 +129,7 @@ p3tun1a
 - [Batıhan Özdemir](https://github.com/batihanoz/)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
 - [Aeolusw] (https://github.com/Aeolusw)
+- [Terri Iwata] 
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
