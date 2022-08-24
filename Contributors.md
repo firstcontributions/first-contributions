@@ -1847,6 +1847,7 @@
 - [Gavin Barnes](https://github.com/cantidosan)
 - sahil prasad
 - [Robert Fernandez Romero](https://github.com/alexhw301)
+- [Terminatortermi](https://github.com/Terminatortermi)
 - [tusmm](https://github.com/tusmm)
 - [Kirtan Patel](https://github.com/kirtankp)
 - [Manu Peralta](https://github.com/manuperalta)
