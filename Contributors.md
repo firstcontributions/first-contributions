@@ -62,7 +62,7 @@
 - [Jai Ganesh](https://github.com/jjaijg)
   [Shubham Yadav]
   [Conner Murowchick]
-  [Kiana Kermani] (https://github.com/kianakermani)
+- [Kiana Kermani] (https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
