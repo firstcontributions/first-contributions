@@ -858,6 +858,7 @@ p3tun1a
 - [Sasiru Ravihansa](https://github.com/sasirura)
 - [Edgars Vasiljevs](https://github.com/EdgarsVasiljevsTDL)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
+- [Regal-Glitch]
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Destiny O'Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
