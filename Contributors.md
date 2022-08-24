@@ -46,6 +46,7 @@
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Joao Alves](https://github.com/versuspng)
 - [Jacek Głowacz]
+  [Md Faizan Alam](https://github.com/Faizan711)
 - [Praneeth Pydipalli](https://github.com/praneethpydipalli)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
 - [Taranpreet Singh](https://github.com/taranpreet-singh1)
