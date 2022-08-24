@@ -212,6 +212,7 @@
 - [Louis St-Pierre](https://github.com/louis-stp)
 - [Devadathan M B](https://github.com/devadathanmb)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
+- [Eugene Ng](https://github.com/eugeneyng)
 - [Lyndon Purcell](https://github.com/ljpurcell)
 - - [Samar Pratap](https://github.com/noughtsamar)
 - [Lubna Fathima N](https://github.com/lubnafathima)
