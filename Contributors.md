@@ -108,6 +108,7 @@
 - [Sumit Ahire](https://github.com/Sumit2701)
 - [Russell Tan](https://github.com/spicygimbab)
 - [Iam a Coder]
+- [Mark Shnaider] (https://github.com/Tumasozoz)
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
 - [Batıhan Özdemir](https://github.com/batihanoz/)
