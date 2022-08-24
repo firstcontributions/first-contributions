@@ -888,6 +888,7 @@
 - [Uday](https://github.com/udaysonyy)
 - [Angela Johnson](https://github.com/angieloux)
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
+- [Liz D](https://github.com/TalentUXArchitect)
 - [Filip Telente](https://github.com/aminta5)
 - [v-raikar](https://github.com/vraikar-git)
 - [Bakul Gupta](https://github.com/Bakul-G)
