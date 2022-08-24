@@ -10,6 +10,7 @@
 - [Kyaw Kyaw Oo](https://github.com/kyawoo-23)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
+- [Minh](https://github.com/bobcoi03)
 - [Cody]
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
