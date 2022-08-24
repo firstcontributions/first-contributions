@@ -2179,4 +2179,5 @@ p3tun1a
 - [Maple Z.](https://github.com/maplezoo)
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez] (https://github.com/marliemarls)
+- [Nexus](https://github.com/NexushasTaken)
 <!-- prettier-ignore-end -->
