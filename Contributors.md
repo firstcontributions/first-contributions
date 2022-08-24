@@ -107,7 +107,7 @@
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
 - [Russell Tan](https://github.com/spicygimbab)
-- [Iam a Coder] 
+- [Iam a Coder]
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
 - [Batıhan Özdemir](https://github.com/batihanoz/)
@@ -2148,4 +2148,5 @@
 - [AbdelrahmanDwedar](https://github.com/AbdelrahmanDwedar)
 - [Syed Ali](https://github.com/shahzaib)
 - [Genshi](https://github.com/Genshisama)
+- [Maple Z.](https://github.com/maplezoo)
 <!-- prettier-ignore-end -->
