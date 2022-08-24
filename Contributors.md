@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Abhijeet Habe](https://github.com/abhijeethabe)
+- [Ugochukwu Ayomide Onyebuchi](https://github.com/ColeDrain)
 - [Kyaw Kyaw Oo](https://github.com/kyawoo-23)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
@@ -103,7 +104,7 @@
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
 - [Russell Tan](https://github.com/spicygimbab)
-- [Iam a Coder] 
+- [Iam a Coder]
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
@@ -2116,7 +2117,7 @@
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
