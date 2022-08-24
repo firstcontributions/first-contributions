@@ -1048,6 +1048,7 @@
 - [Phuong Pham](https://github.com/Jily102)
 - [Marvens Mertune](https://github.com/mmertune)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
+- [Kyle Krolis](https://github.com/KingKolya)
 - [Mazhar Ansari](https://github.com/MJCoder15)
 - [Muneeb ur rehman](https://github.com/HM-MUNEEB)
 - [Kenny Pearson](https://github.com/kenwoodp)
