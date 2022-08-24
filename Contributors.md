@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Fettah Aud](https://github.com/FettahAud)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Natnael Sisay](https://github.com/NatnaelSisay)
