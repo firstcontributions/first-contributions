@@ -208,6 +208,7 @@
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [Amit]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
+- [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
