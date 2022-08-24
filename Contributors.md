@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
