@@ -95,7 +95,7 @@
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
 - [Russell Tan](https://github.com/spicygimbab)
-- [Iam a Coder] 
+- [Iam a Coder]
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
@@ -144,8 +144,7 @@
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -2000,8 +1999,7 @@
 - [Ahmed Albarghouti](https://github.com/AhmedAlbarghouti)
 - [taimoon](https://github.com/taimoon)
 - [piki-zhu](https://github.com/piki-zhu)
-- [Hubert Ooi](https://github.com/hubertooi)
--[Pelumi Olukayode](https://github.com/OluPel)
+- [Hubert Ooi](https://github.com/hubertooi) -[Pelumi Olukayode](https://github.com/OluPel)
 - [Michael Mohlomi] (https://github.com/MohlomiKM)
 - [Rahul Saraf](https://github.com/Rahulsaraf1578)
 - [Michael Mohlomi](https://github.com/MohlomiKM)
@@ -2088,6 +2086,7 @@
 - [cirkitty] (https://github.com/cirkitty)
 - [Brisben88] (https://github.com/brisben88)
 - [Gredar]
+- [Ariel Gencianeo]
 - [Carlos Barona] (https://github.com/Cbarona)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
 - [Smiti Oswal] (https://github.com/smitioswal)
@@ -2104,7 +2103,7 @@
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
