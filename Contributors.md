@@ -11,6 +11,7 @@
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Ahmad Afghan](https://github.com/AhmadCR7)
 - [Aircraft192](https://github.com/Aircraft192/)
+- [ASAHASRABUDH](https://github.com/asahasrabudhe)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Chow Mei Kei](https://github.com/meikei-99)
@@ -24,6 +25,7 @@
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
+- [Dario Maselli](https://github.com/Neroland)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda] (https://github.com/acastaneda10)
@@ -46,6 +48,7 @@
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
 - [Devang Shah](https://github.com/Devang-Shah-49)
+- [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
@@ -93,7 +96,7 @@
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
-- [Iam a Coder]
+- [Russell Tan](https://github.com/spicygimbab)
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
@@ -795,6 +798,7 @@
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Swapnali Bhargude](https://github.com/swapnaliss)
 - [Rishikesh S](https://github.com/Rhilok)
+- [Omar Hadidi](https://github.com/OmarHadidi)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [AungMyatThu](https://github.com/Aung67890)
 - [Abigel Asteraye](https://github.com/simplectasy)
@@ -2115,5 +2119,6 @@
 - [Meng Kheang](https://github.com/meangkheang)
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
+- [sn0218](https://github.com/sn0218)
 - [Afrid Hussain](https://github.com/afrid18)
 <!-- prettier-ignore-end -->
