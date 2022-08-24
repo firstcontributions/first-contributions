@@ -1694,4 +1694,5 @@ Binyamin Roberts
 - [Aditya Vaste](https://github.com/adivaste/)
 
 - [arnuld-acog](https://github.com/arnuld-acog)
+- [Farjad Anwar](https://github.com/FarjadAnwar3)
 <!-- prettier-ignore-end -->
