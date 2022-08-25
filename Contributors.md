@@ -2241,4 +2241,5 @@ p3tun1a
 - [DYS763](https://github.com/DYS763)
 - [Slidepheromone](https://github.com/SlidepheromoneDev)
 - [knocBack](https://github.com/knocBack)
+- [Rahul Kumar](https://github.com/iamrahul8)
 - <!-- prettier-ignore-end -->
