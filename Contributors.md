@@ -2203,4 +2203,5 @@ p3tun1a
 - [fortewhiLe] (https://github.com/fortewhiLe)
 - [APARNA BISHT](https://github.com/bishtaparna)
 - [Szyman98](https://github.com/Szyman98)
+- [Slimlix Hsu](https://github.com/Slimlix1101)
 <!-- prettier-ignore-end -->
