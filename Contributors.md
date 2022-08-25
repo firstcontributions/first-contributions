@@ -6,6 +6,7 @@
 - [STeverino]
 - [Fettah Aud](https://github.com/FettahAud)
 - [Vishesh Rathi](https://github.com/rathi710)
+- [Vikrant Patil](https://github.com/vikrantpatil7)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
