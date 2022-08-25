@@ -1769,6 +1769,7 @@ p3tun1a
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
 - [Craig Summers](https://github.com/AlphaPentagon)
+- [Leto Bukarica](https://github.com/LetoBukarica)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Aditya Joshi](https://github.com/Joshi-Adi)
 - [Mathieu Albin](https://github.com/jaegar-wolf)
