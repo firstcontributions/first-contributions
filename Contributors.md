@@ -2230,4 +2230,5 @@ p3tun1a
 - [phcbest](https://phcbest.github.io/)
 - [MRJD](https://github.com/MartinRJDagleish)
 - [Yaswanth](https://github.com/yaswanth16)
+- [Rob Kirkpatrick](https://github.com/RobKirkpatrick)
 - <!-- prettier-ignore-end -->
