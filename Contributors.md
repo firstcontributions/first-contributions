@@ -892,6 +892,7 @@ p3tun1a
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
 - [Agbor Tataw](https://github.com/tatawgit)
 - [Ahmed Alaedi](https://github.com/aalsaedi265)
+- [Viktor Sopko](https://github.com/Viktrix8)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
 - [S. M. Sajid Hasan Shanta](https://github.com/SajidHShanta)
 - [stingermissile](https://github.com/stingermissile)
