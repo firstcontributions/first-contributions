@@ -2178,4 +2178,5 @@ p3tun1a
 - [Maple Z.](https://github.com/maplezoo)
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez] (https://github.com/marliemarls)
+- [fortewhiLe] (https://github.com/fortewhiLe)
 <!-- prettier-ignore-end -->
