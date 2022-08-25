@@ -1996,6 +1996,7 @@ p3tun1a
 - [rbonifac](https://github.com/rbonifac)
 - [GKosheev](https://github.com/GKosheev)
 - [Leonardo Goss](https://github.com/leopiresgoss)
+- [Felix](https://github.com/FelixDot)
 - [Zi Cheng Huang](https://github.com/ZiChengHuang915/)
 - [Ankit Allwin](https://github.com/ankitallwin)
 - [Ankita Malik](https://github.com/AnkitaMalik22)
