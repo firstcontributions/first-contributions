@@ -2217,6 +2217,7 @@ p3tun1a
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez] (https://github.com/marliemarls)
 - [fortewhiLe] (https://github.com/fortewhiLe)
+- [erma0x] (https://github.com/erma0x)
 - [APARNA BISHT](https://github.com/bishtaparna)
 - [Szyman98](https://github.com/Szyman98)
 - [Slimlix Hsu](https://github.com/Slimlix1101)
