@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Anna Wolfe]
+- [ASNaq35]
 - [STeverino]
 - [Fettah Aud](https://github.com/FettahAud)
 - [Vishesh Rathi](https://github.com/rathi710)
