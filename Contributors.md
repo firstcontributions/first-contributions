@@ -108,6 +108,7 @@ p3tun1a
 - [Jai Ganesh](https://github.com/jjaijg)
 - [BillieLurk]
 - [YazanDev]
+- [Geferson Araujo](https://github.com/nosrefeg)
   [Shubham Yadav]
   [Conner Murowchick]
 - [Paul Mazzia]
