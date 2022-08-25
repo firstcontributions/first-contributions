@@ -285,7 +285,7 @@ p3tun1a
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Eugene Ng](https://github.com/eugeneyng)
 - [Lyndon Purcell](https://github.com/ljpurcell)
-- - [Samar Pratap](https://github.com/noughtsamar)
+- [Samar Pratap](https://github.com/noughtsamar)
 - [Lubna Fathima N](https://github.com/lubnafathima)
 - [Muhammad Ibrahim](https://github.com/ibrahimqureshae)
 - [Hemanth Kumar M](https://github.com/hemanth1kumar)
@@ -2239,4 +2239,5 @@ p3tun1a
 - [Rob Kirkpatrick](https://github.com/RobKirkpatrick)
 - [DYS763](https://github.com/DYS763)
 - [Slidepheromone](https://github.com/SlidepheromoneDev)
+- [knocBack](https://github.com/knocBack)
 - <!-- prettier-ignore-end -->
