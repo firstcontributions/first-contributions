@@ -1079,6 +1079,7 @@ p3tun1a
 - [Kartikey Tandon](https://github.com/kartikeytandon)
 - [Sumedha Paibonu](https://github.com/SumedhaPaibonu19)
 - [Collins Kiplangat](https://github.com/chiragvadhavana)
+- [Tom Langan](https://github.com/tlangan1)
 - [Afzal Ansari](https://github.com/dev-afzalansari)
 - [Tarakeswar Mondal](https://github.com/tarakes)
 - [Luke Herbst](https://github.com/LukeHerbst)
