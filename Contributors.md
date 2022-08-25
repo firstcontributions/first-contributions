@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Anna Wolfe]
+- [STeverino]
 - [Fettah Aud](https://github.com/FettahAud)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
