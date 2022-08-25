@@ -10,6 +10,7 @@
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Fettah Aud](https://github.com/FettahAud)
+- [Ethan]
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Beki Drobs](https://github.com/Beki-D)
 - [Mg Khin mg Htet](https://github.com/Matthtica)
