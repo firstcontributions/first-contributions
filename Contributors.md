@@ -13,6 +13,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
+- [Sam M'Backe]
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
