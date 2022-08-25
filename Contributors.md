@@ -2069,6 +2069,7 @@ p3tun1a
 - [Khadijah Kelly][https://github.com/deedeenkelly1995]
 - [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Harrison Matthews](https://github.com/H-Matthews)
+- [Alexander Zurawski](https://github.com/AZurawski)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 - [VenomAI](https://github.com/venomboss985)
