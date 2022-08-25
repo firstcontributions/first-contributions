@@ -335,6 +335,7 @@ p3tun1a
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
 - [Sushanta Mukherjee](https://github.com/sushantamukherjee/)
+- [SopaBar]
 - [Yasin_xoxoedg](https://github.com/xoxoedg)
 - [Dave Collison](https://github.com/thebigdavec)
 - [Sagar M](https://github.com/SagarSSMK)
