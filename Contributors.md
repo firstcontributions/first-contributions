@@ -161,6 +161,7 @@ p3tun1a
 - [Mo Nakouzi](https://github.com/MoNakouzi)
   [Josh Miller](https://github.com/RamenJunkie)
   [Sayantan Naskar](https://github.com/Arbtrage)
+- [FFuss] (https://github.com/FFuss)
 - [Diego Herrera](https://github.com/diegoherrer4)
 - [Ioan Adafinei](https://github.com/IoanRO)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
