@@ -2197,4 +2197,5 @@ p3tun1a
 - [Marlie Martinez] (https://github.com/marliemarls)
 - [fortewhiLe] (https://github.com/fortewhiLe)
 - [APARNA BISHT](https://github.com/bishtaparna)
+- [Szyman98](https://github.com/Szyman98)
 <!-- prettier-ignore-end -->
