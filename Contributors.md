@@ -2237,4 +2237,5 @@ p3tun1a
 - [Yaswanth](https://github.com/yaswanth16)
 - [Rob Kirkpatrick](https://github.com/RobKirkpatrick)
 - [DYS763](https://github.com/DYS763)
+- [Slidepheromone](https://github.com/SlidepheromoneDev)
 - <!-- prettier-ignore-end -->
