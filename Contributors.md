@@ -200,7 +200,7 @@ p3tun1a
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
 - [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -2220,4 +2220,5 @@ p3tun1a
 - [Slimlix Hsu](https://github.com/Slimlix1101)
 - [phcbest](https://phcbest.github.io/)
 - [MRJD](https://github.com/MartinRJDagleish)
-- <!-- prettier-ignore-end -->
+- [Laura Simoni](https://github.com/lsimonidev)
+<!-- prettier-ignore-end -->
