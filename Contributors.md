@@ -372,6 +372,7 @@ p3tun1a
 - [Henry Okam](https://github.com/mchenryspagg)
 - [Tuan Anh](https://github.com/ez2do)
 - [General Kenobi](https://github.com/snowboulder)
+- [Naclazzy](https://github.com/Naclazzy)
 - [Keshav Sharma](https://github.com/ksharma20/)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Dalibor Maljurić](https://github.com/RegularEverydayAverageGuy)
