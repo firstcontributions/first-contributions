@@ -31,6 +31,7 @@
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Ahmad Afghan](https://github.com/AhmadCR7)
+- [Jefferson Alaiza](https://github.com/bytss)
 - [Cody A]
 - [prakass sookdev]
 - [Aircraft192](https://github.com/Aircraft192/)
