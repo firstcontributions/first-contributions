@@ -144,6 +144,7 @@ p3tun1a
 - [Sumit Ahire](https://github.com/Sumit2701)
 - [Russell Tan](https://github.com/spicygimbab)
 - [Iam a Coder]
+- [Ahmed Shukri](https://github.com/Ahmed-Shukri02)
 - [Mark Shnaider] (https://github.com/Tumasozoz)
 - [Christian Eckert]
 - [AusteZ](https://github.com/AusteZ)
