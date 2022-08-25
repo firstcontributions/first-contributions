@@ -11,6 +11,7 @@
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Raboro](https://github.com/Raboro)
 - [Cody]
+- [Konrad Urban](https://github.com/knrdrbn)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
