@@ -260,6 +260,7 @@ p3tun1a
 - [Sam Rao](https://github.com/samrao1997)
 - [Josmar Suarez](https://github.com/LuisJosmarSuarez)
 - [Abdulwaarith Zakariyya](https://github.com/Abdulwaarith-07)
+- [Tyler Popson](https://github.com/TylerPopson)
 - [Ismail Ahmad](https://github.com/SneezyG)
 - [Maxwell Nganyadi](https://github.com/GOATMaxwellN)
 - [ Joel Crouch](https://github.com/joelcrouch)
