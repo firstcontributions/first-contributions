@@ -94,6 +94,7 @@ p3tun1a
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
+- [Shadman Thakur](https://github.com/thakurshadman)
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
