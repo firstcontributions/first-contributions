@@ -2,7 +2,10 @@
 
 <!-- prettier-ignore-start -->
 
+- [Anna Wolfe]
+- [STeverino]
 - [Fettah Aud](https://github.com/FettahAud)
+- [Vishesh Rathi](https://github.com/rathi710)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
@@ -13,6 +16,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
+- [Sam M'Backe]
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
@@ -858,6 +862,7 @@ p3tun1a
 - [Sasiru Ravihansa](https://github.com/sasirura)
 - [Edgars Vasiljevs](https://github.com/EdgarsVasiljevsTDL)
 - [Nicoleta Serban](https://github.com/NicoletaSerban)
+- [Regal-Glitch]
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Destiny O'Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
@@ -2179,4 +2184,5 @@ p3tun1a
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez] (https://github.com/marliemarls)
 - [Rogel Cristobal](https://github.com/rogelcristobal)
+- [fortewhiLe] (https://github.com/fortewhiLe)
 <!-- prettier-ignore-end -->
