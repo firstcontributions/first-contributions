@@ -665,7 +665,7 @@ p3tun1a
 - [Collins Ruto](https://github.com/collins-ruto)
 - [JamesDev](https://github.com/RScanlon2021)
 - [Liza Yemini](https://github.com/LizaYemini)
-- [Chaitanya Shahare][
+- [Chaitanya Shahare](https://github.com/Chaitanya-Shahare)
 - [Elizabeth Cantu](https://github.com/Esagecc)
 - [Abbey Santos](https://github.com/AbbeyIT)
 - [Henrik Berg](https://github.com/henkeb)
