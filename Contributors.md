@@ -33,6 +33,7 @@
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
 - [Anurag Yadav](https://github.com/Anurag41682)
+  [Dolapo Ogunfowora] (https://github.com/oedjoat)
 - [Ryan Tin] (https://github.com/rtin1234)
 - [Sam M'Backe]
 - [Simcha Newman]
