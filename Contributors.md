@@ -2144,6 +2144,7 @@ p3tun1a
 - [Toby Mark](https://github.com/Mr-Sbev)
 - [Seayon](https://github.com/Seayon)
 - [Chady] (https://github.com/T-Chady)
+- [vinay] (https://github.com/chelpuri)
 - [Gagan Pabla](https://github.com/CrownPab)
 - [TOPetit](https://github.com/TOPetit)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
