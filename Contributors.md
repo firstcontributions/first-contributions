@@ -497,6 +497,7 @@ p3tun1a
 - [Tony Rodriguez](https://github.com/tony3fk)
 - [Leo Estrella](https://github.com/sharpsight44)
 - [Michael NBDS](https://github.com/michael-nbds)
+- [Gregory Dickson](https://github.com/dgregpm)
 - [Olin Johnson](https://github.com/olinjohnson)
 - [Silvio Pavanetto](https://github.com/reidemeister94)
 - [Francis O'Donnell](https://github.com/fjodonnell)
