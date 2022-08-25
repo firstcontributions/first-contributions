@@ -130,7 +130,7 @@ p3tun1a
 - [Batıhan Özdemir](https://github.com/batihanoz/)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
 - [Aeolusw] (https://github.com/Aeolusw)
-- [Terri Iwata] 
+- [Terri Iwata]
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
@@ -918,6 +918,7 @@ p3tun1a
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
+- [Daniel Ramirez](https://github.com/danielrs95)
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
 - [Iano Njuguna](https://github.com/IanoNjuguna)
 - [Mahaveer Jain](https://github.com/mahaveer82)
@@ -2150,7 +2151,7 @@ p3tun1a
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
