@@ -121,6 +121,7 @@ p3tun1a
 - [Mayank Singh](https://github.com/fms12)
 - [Ansh Kaushik]
 - [Cindy Soh]
+- [Dyte]
 - [Steven Dorsey]
 - [Faizan Khan](https://github.com/lahoreninja)
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
