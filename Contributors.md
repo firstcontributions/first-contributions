@@ -5,6 +5,7 @@
 - [Anna Wolfe]
 - [ASNaq35]
 - [STeverino]
+- [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Fettah Aud](https://github.com/FettahAud)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Beki Drobs](https://github.com/Beki-D)
