@@ -99,6 +99,7 @@ p3tun1a
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg)
 - [BillieLurk]
+- [YazanDev]
   [Shubham Yadav]
   [Conner Murowchick]
 - [Paul Mazzia]
