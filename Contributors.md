@@ -4,6 +4,7 @@
 
 - [Anna Wolfe]
 - [ASNaq35]
+- [JasperMiddendorp] (https://github.com/JasperMiddendorp/)
 - [Daniarfa] (https://github.com/daniarfadd)
 - [STeverino]
 - [Moez Mustafa](https://github.com/moezmustafa)
