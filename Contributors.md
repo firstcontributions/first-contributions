@@ -5,6 +5,7 @@
 - [Anna Wolfe]
 - [ASNaq35]
 - [STeverino]
+- [Moez Mustafa](https://github.com/moezmustafa)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Fettah Aud](https://github.com/FettahAud)
