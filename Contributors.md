@@ -28,6 +28,7 @@
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
 - [Sam M'Backe]
+- [Simcha Newman]
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
