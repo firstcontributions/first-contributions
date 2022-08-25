@@ -2104,6 +2104,7 @@ p3tun1a
 - [Aditya Vaste](https://github.com/adivaste/)
 - [Ashish Padhy](https://github.com/Shurtu-Gal)
 - [Niharika Baliyan](https://github.com/Niiiha)
+- [Jan Lampert](https://github.com/janlampert)
 - [arnuld-acog](https://github.com/arnuld-acog)
 - [Drumstickz64](https://github.com/Drumstickz64)
 - [DerekErb](https://github.com/DerekErb)
