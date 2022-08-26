@@ -2251,5 +2251,6 @@ p3tun1a
 - [knocBack](https://github.com/knocBack)
 - [Rahul Kumar](https://github.com/iamrahul8)
 - [SnakeJoker](https://github.com/SnakeJoker)
+- [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
 - <!-- prettier-ignore-end -->
