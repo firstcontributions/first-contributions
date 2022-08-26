@@ -39,6 +39,7 @@
 - [Ryan Tin] (https://github.com/rtin1234)
 - [Sam M'Backe]
 - [Simcha Newman]
+- [Shawn Michael Sudaria](https://github.com/0xM1cx)  
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
