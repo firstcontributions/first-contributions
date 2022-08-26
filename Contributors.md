@@ -4,6 +4,7 @@
 
 - [Anna Wolfe]
 - [ASNaq35]
+- [Samuel Lukudu] (https://github.com/samuellukudu)
 - [JasperMiddendorp] (https://github.com/JasperMiddendorp/)
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
