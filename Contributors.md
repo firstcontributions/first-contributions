@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [George Babii] - (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
@@ -227,6 +228,7 @@ p3tun1a
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
 - [Lucky Abiom](https://github.com/Faemous)
+
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Clark D. Hou](https://github.com/cdh31211811)
@@ -322,6 +324,7 @@ p3tun1a
 - [Samarth Rayar](https://github.com/samarth2001)
 - [Fatimah Badmus](https://github.com/fatimahbadmus)
 - [vandit Tyagi](https://github.com/vandit98)
+
 - [ItzNesbro](https://github.com/ItzNesbroDev)
 - [Umama Nasir Abbasi](https://github.com/umamanasir)
 - [Željko Carević](https://github.com/ZeljkoCarevic)
@@ -465,7 +468,8 @@ p3tun1a
 - [Aaron Bermudez](https://github.com/AaronB3110)
 - [Ankit Bisen](https://github.com/ankitbisen28)
 - [James Wigg](https://github.com/Shaydas1)
-- [Paul Pickering](https://github.com/Person678)
+- [Paul Pickering](
+https://github.com/Person678)
 - [Pratik Bhagat](https://github.com/bhagatpratik07)
 - [Vineeth B V](https://github.com/vinsdragonis)
   Binyamin Roberts
