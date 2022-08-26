@@ -1148,6 +1148,7 @@ p3tun1a
 - [Jordan Klein](https://github.com/JordanIKlein)
 - [Jp Venadas](https://github.com/JPvenadas)
 - [Divjot Bedi](https://github.com/dbedi3311)
+- [Michał Grzymek](https://github.com/MichalGrzymek)
 - [Tejesh Annavarapu](https://github.com/Tejesh18)
 - [Diya Rastogi](https://github.com/diyar03)
 - [Rohit Arora](https://github.com/rohit18115)
