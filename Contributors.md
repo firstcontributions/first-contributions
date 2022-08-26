@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Swaraj E S]
 - [Anna Wolfe]
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
