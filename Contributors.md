@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Sohag] https://github.com/soh-ag
 - [Anna Wolfe]
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
