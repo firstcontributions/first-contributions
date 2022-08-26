@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [imbharat420](https://github.com/imbharat420)
 - [Anna Wolfe]
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
