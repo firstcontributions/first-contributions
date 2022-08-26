@@ -153,6 +153,7 @@ p3tun1a
 - [Mayank Singh](https://github.com/fms12)
 - [Ansh Kaushik]
 - [Cindy Soh]
+  [Izra James](https://github.com/IzraJ)
 - [Dyte]
 - [Steven Dorsey]
 - [Faizan Khan](https://github.com/lahoreninja)
