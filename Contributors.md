@@ -373,6 +373,7 @@ p3tun1a
 - [BlazarBeams](https://github.com/blazark)
 - [Hagay Haut](https://github.com/HagayHaut)
 - [Mayukh Bhowmick](https://github.com/mayukh551)
+- [Shashank P](https://github.com/shank-p)
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
 - [Tony Wang](https://github.com/ReconDoge)
 - [Tushar Pathak](https://github.com/tushar54594)
