@@ -1588,6 +1588,7 @@ p3tun1a
 - [AAleksandros](https://github.com/AAleksandros)
 - [svtdoug](https://github.com/svtdoug)
 - [Pratyush Dehury](https://github.com/pratyushd0308)
+- [Varish Kongara](https://github.com/VarishKongara)
 - [Ankit Jaiswal](https://github.com/ankit0305)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Jackson Tai](https://www.github.com/JacksonTai/)
