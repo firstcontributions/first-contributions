@@ -619,6 +619,7 @@ p3tun1a
 - [Tan](https://github.com/tan1193)
 - [Jaturon JT](https://github.com/Jattyz)
 - [Daniel Bowen](https://github.com/Dbowen89)
+- [Liel Azulay](https://github.com/liel20946)
 - [Rakesh Nagapuri](https://github.com/zerak222)
 - [Jose Arellanes](https://github.com/jmarellanes)
 - [Mohammad Rajabloo](https://github.com/MohammadRajabloo1991)
