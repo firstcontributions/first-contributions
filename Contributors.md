@@ -11,6 +11,7 @@
 - [TheJestr]
 - [STeverino]
 - [Melvin Jones Repol](https://github.com/mrepol742)
+- [Ayomide Ajayi](https://github.com/ayo-ajayi)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
