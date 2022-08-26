@@ -586,6 +586,7 @@ p3tun1a
 - [Sudheendra](https://github.com/programsbysudhi)
 - [AllieGie](https://github.com/AllieGie)
 - [Abdulla Aidhaan](https://github.com/i701)
+- [Rupesh Kumar Kanth](https://github.com/rupeshkanth218)
 - [Sven Blanke] (https://github.com/ssvenb)
 - [Arnav Kamath](https://github.com/arnalph)
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
