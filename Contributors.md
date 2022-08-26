@@ -7,6 +7,7 @@
 - [JasperMiddendorp] (https://github.com/JasperMiddendorp/)
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
+- [TheJestr]
 - [STeverino]
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
