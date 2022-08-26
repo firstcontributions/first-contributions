@@ -10,11 +10,13 @@
 - [Ram Sankhavaram](https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [STeverino]
+- [Amish Yadav](https://github.com/amishInfyom)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Fettah Aud](https://github.com/FettahAud)
+- [Jeffrey Chao](https://github.com/jchaodubs)
 - [Ethan]
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Beki Drobs](https://github.com/Beki-D)
@@ -790,6 +792,7 @@
 - [Holmgren](https://github.com/holmgrendev)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Monteiro H.](https://github.com/monteiroh)
+- [Quentin Marcuzzi](https://github.com/marcuzzi1)
 - [Mako](https://github.com/makogra)
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
@@ -2253,4 +2256,6 @@
 - [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
 - [liwenkang](https://github.com/liwenkang)
-- <!-- prettier-ignore-end -->
+- [zcvvvbb](https://github.com/zcvvvbb)
+- [Rahul Katta](https://github.com/luharine)
+ <!-- prettier-ignore-end -->
