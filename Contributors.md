@@ -115,6 +115,7 @@ p3tun1a
 - [Geferson Araujo](https://github.com/nosrefeg)
   [Shubham Yadav]
   [Conner Murowchick]
+  [Ana212dev]
 - [Paul Mazzia]
 - [Kiana Kermani] (https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
