@@ -15,6 +15,7 @@
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
+- [Gigi](https://github.com/provdxc366)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Fettah Aud](https://github.com/FettahAud)
