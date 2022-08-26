@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Crimsonshade](https://github.com/crimsonshade)
 - [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [ASNaq35]
