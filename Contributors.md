@@ -1415,6 +1415,7 @@ p3tun1a
 - [Andrew Chang](https://github.com/acchang)
 - [Aparna Soneja](https://github.com/aparna2071)
 - [Ryan Fang](https://github.com/ryanfang5)
+- [D1nocan](https://github.com/d1nocan)
 - [Usman Rasheed](https://github.com/usmanlog)
 - [Jonyski](https://github.com/Jonyski)
 - [Jake Roberts](https://github.com/JRoberts012)
