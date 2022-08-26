@@ -10,6 +10,7 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [STeverino]
+- [Amish Yadav](https://github.com/amishInfyom)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
