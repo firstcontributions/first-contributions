@@ -49,6 +49,7 @@
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
+- [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
 - [Mashinsp](https://github.com/mashinsp)
 - [Nickolas Tazes] (https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
