@@ -274,6 +274,7 @@ p3tun1a
 - [Kevin Sukher](https://github.com/KSukher)
 - [LUNA](https://github.com/EveningStar05)
 - [CLMB](https://github.com/matheusclmb)
+- [Li Duan](https://github.com/vickie1998)
 - [Amr Emara](https://github.com/aemara)
 - [Sylvester Asare Sarpong](https://github.com/Tylerasa)
 - [Vinay Kumar](https://github.com/n4ryn)
