@@ -2263,4 +2263,5 @@ p3tun1a
 - [Aishwar Pathak](https://github.com/mrworld196wide)
 - [zcvvvbb](https://github.com/zcvvvbb)
 -[Rahul Katta](https://github.com/luharine)
- <!-- prettier-ignore-end -->
+- [shuhai](https://github.com/Stack165)
+<!-- prettier-ignore-end -->
