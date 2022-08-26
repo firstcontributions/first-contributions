@@ -792,6 +792,7 @@ p3tun1a
 - [Holmgren](https://github.com/holmgrendev)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Monteiro H.](https://github.com/monteiroh)
+- [Quentin Marcuzzi](https://github.com/marcuzzi1)
 - [Mako](https://github.com/makogra)
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
