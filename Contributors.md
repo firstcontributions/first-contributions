@@ -319,6 +319,7 @@ p3tun1a
   Harsh Shah
   Sattyam Samania
   [Md Mudassir Akhter](https://github.com/mudassir-jmi)
+  [Ramin Karimi](https://github.com/Ramink78)
 - [Samarth Rayar](https://github.com/samarth2001)
 - [Fatimah Badmus](https://github.com/fatimahbadmus)
 - [vandit Tyagi](https://github.com/vandit98)
