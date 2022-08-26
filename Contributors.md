@@ -6,6 +6,7 @@
 - [Crimsonshade](https://github.com/crimsonshade)
 - [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
+- [Mohammad Arwani] (https://github.com/m7md-arwani)
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
 - [JasperMiddendorp] (https://github.com/JasperMiddendorp/)
