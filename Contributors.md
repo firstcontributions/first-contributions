@@ -26,6 +26,7 @@
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
+- [Anup Timsina](https://github.com/anup514)
 - [Nickolas Tazes] (https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
