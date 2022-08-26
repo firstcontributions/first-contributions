@@ -8,6 +8,7 @@
 - [JasperMiddendorp](https://github.com/JasperMiddendorp/)
 - [Daniarfa](https://github.com/daniarfadd)
 - [Ram Sankhavaram](https://github.com/sankhavaramsaitulasiram)
+- [TheJestr]
 - [STeverino]
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
@@ -39,6 +40,7 @@
 - [Ryan Tin](https://github.com/rtin1234)
 - [Sam M'Backe]
 - [Simcha Newman]
+- [Shawn Michael Sudaria](https://github.com/0xM1cx)  
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
@@ -2248,6 +2250,7 @@
 - [knocBack](https://github.com/knocBack)
 - [Rahul Kumar](https://github.com/iamrahul8)
 - [SnakeJoker](https://github.com/SnakeJoker)
+- [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
 - [liwenkang](https://github.com/liwenkang)
 - <!-- prettier-ignore-end -->
