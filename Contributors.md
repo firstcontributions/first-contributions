@@ -2246,5 +2246,5 @@ p3tun1a
 - [Slidepheromone](https://github.com/SlidepheromoneDev)
 - [knocBack](https://github.com/knocBack)
 - [Rahul Kumar](https://github.com/iamrahul8)
-- [SnakeJoker](https://github.com/SnakeJoker)
+- [SnakeJoker](https://github.com/SnakeJoker/)
 - <!-- prettier-ignore-end -->
