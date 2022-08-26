@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
