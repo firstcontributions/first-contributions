@@ -2264,4 +2264,6 @@ p3tun1a
 - [zcvvvbb](https://github.com/zcvvvbb)
 - [Rahul Katta](https://github.com/luharine)
 - [RWDai](https://github.com/GodDai)
- <!-- prettier-ignore-end -->
+- [shuhai](https://github.com/Stack165)
+<!-- prettier-ignore-end -->
+
