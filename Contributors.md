@@ -21,6 +21,7 @@
 - [Jeffrey Chao](https://github.com/jchaodubs)
 - [Ethan]
 - [Vishesh Rathi](https://github.com/rathi710)
+- [Denys Makene](https://github.com/Denysmak)
 - [Beki Drobs](https://github.com/Beki-D)
 - [Mg Khin mg Htet](https://github.com/Matthtica)
 - [Durgesh Babu](https://github.com/Durgesh-babu/)
