@@ -2261,5 +2261,6 @@ p3tun1a
 - [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
 - [zcvvvbb](https://github.com/zcvvvbb)
--[Rahul Katta](https://github.com/luharine)
+- [Rahul Katta](https://github.com/luharine)
+- [Silent Owl Fox](https://github.com/SilentOwlFox)
  <!-- prettier-ignore-end -->
