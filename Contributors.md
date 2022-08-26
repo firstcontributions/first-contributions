@@ -1235,6 +1235,7 @@ p3tun1a
 - [Medha](https://github.com/medha-verma)
 - [Jonathan Mani](https://github.com/jonathanmani)
 - [Martin Polley](https://github.com/MartinP460)
+- [Martin Myczka](https://github.com/mmyczka)
 - [Vatsal Patel](https://github.com/VatsalP117)
 - [Vinicius Lunardi](https://github.com/viniciuslunardi)
 - [Victor Cardoso](https://github.com/victoralbenor)
