@@ -34,6 +34,7 @@
 - [Kyaw Kyaw Oo](https://github.com/kyawoo-23)
 - [Cem Sanga](https://github.com/cemsanga)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
+- [Rowland Adimoha](https://github.com/rowjay007)
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
