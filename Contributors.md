@@ -2196,6 +2196,7 @@ p3tun1a
 - [Kevin Vuong] (https://github.com/GoldenDukes)
 - [Florian Scholz](https://github.com/scholzdev)
 - [Yilver Rivera](https://github.com/RennfahrerU)
+- [Dat Duong](https://github.com/datduong4199)
 - [Abhilash Kollikonda](https://github.com/akollikonda)
 - [Hikari](https://github.com/Hikari7)
 - [Ibrahim Opeyemi Abdulraheem](https://github.com/ibroraheem)
