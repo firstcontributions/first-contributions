@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
