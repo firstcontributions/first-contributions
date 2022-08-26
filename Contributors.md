@@ -10,6 +10,7 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [STeverino]
+- [Melvin Jones Repol](https://github.com/mrepol742)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
@@ -2217,6 +2218,7 @@ p3tun1a
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
 - [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [8x34tnxge](https://github.com/8x34tnxge)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
 - [Kumar Gaurav]([https://github.com/kgaurav152)
