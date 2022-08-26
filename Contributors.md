@@ -88,6 +88,7 @@
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Joao Alves](https://github.com/versuspng)
+- [Matteo Luraghi](https://github.com/matteo-luraghi)
 - [Jacek Głowacz]
   [Md Faizan Alam](https://github.com/Faizan711)
 - [Praneeth Pydipalli](https://github.com/praneethpydipalli)
@@ -2263,4 +2264,5 @@ p3tun1a
 - [zcvvvbb](https://github.com/zcvvvbb)
 - [Rahul Katta](https://github.com/luharine)
 - [Silent Owl Fox](https://github.com/SilentOwlFox)
- <!-- prettier-ignore-end -->
+- [shuhai](https://github.com/Stack165)
+<!-- prettier-ignore-end -->
