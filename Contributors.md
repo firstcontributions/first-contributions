@@ -2248,6 +2248,7 @@ p3tun1a
 - [Roman Trnka] (https://github.com/sunk4)
 - [Heber Marques] (https://github.com/hfmarques)
 - [Nabin Katwal] (https://github.com/nabinkatwal7)
+- [Ursa Ursic](https://github.com/ursaursic)
 - [Maxime Kirch] (https://github.com/MaximeKirch)
 - [Kevin Vuong] (https://github.com/GoldenDukes)
 - [Florian Scholz](https://github.com/scholzdev)
