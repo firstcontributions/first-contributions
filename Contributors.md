@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [TAZER](https://github.com/ajtazer)
-- [Rutuja Kharche](https://github.com/rutuja-kharche
+- [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [maxkup19](https://github.com/maxkup19)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
@@ -360,7 +360,7 @@
 - [Aryan Singh](https://github.com/singharyan1007)
 - [Miguel Angel Francisco](https://github.com/Migu3lito5)
 - [Sameed Khan](https://github.com/Sameedkhan25)
-- abdullah muhammad moosa
+- [abdullah muhammad moosa]
 - [Arun Sagar S A](https://github.com/arun-sagar-s-a)
 - [Sebastian Hoyos](https://github.com/tamerlantian)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
