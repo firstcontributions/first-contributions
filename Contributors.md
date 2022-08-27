@@ -20,7 +20,7 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
-
+- Henry Miller
 - Aarav raj
 - [STeverino]
 - [Grace Kim] (https://github.com/kimgraace)
