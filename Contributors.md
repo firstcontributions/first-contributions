@@ -4,6 +4,7 @@
 
 - [Anna Wolfe]
 - [STeverino]
+- [piyushbhawsar] (https://github.com/piyushbhawsar)
 - [Fettah Aud](https://github.com/FettahAud)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Vikrant Patil](https://github.com/vikrantpatil7)
