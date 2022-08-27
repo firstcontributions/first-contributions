@@ -72,6 +72,7 @@
 - [Jefferson Alaiza](https://github.com/bytss)
 - [Cody A]
 - [prakass sookdev]
+- [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
 - [Aircraft192](https://github.com/Aircraft192/)
 - [ASAHASRABUDH](https://github.com/asahasrabudhe)
