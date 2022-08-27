@@ -198,6 +198,7 @@ p3tun1a
 - [Batıhan Özdemir](https://github.com/batihanoz/)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
 - [Aeolusw] (https://github.com/Aeolusw)
+  [Nikita Kocherinskiy] (https://github.com/nikitakocherinskiy)
 - [Terri Iwata]
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
