@@ -60,7 +60,7 @@
 - [Ryan Tin] (https://github.com/rtin1234)
 - [Sam M'Backe]
 - [Simcha Newman]
-- [Shawn Michael Sudaria](https://github.com/0xM1cx)  
+- [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Saksham Hans](https://github.com/saksham28hans)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
@@ -1427,6 +1427,7 @@ p3tun1a
 - [Christian Larson](https://github.com/degenerating)
 - [color00](https://github.com/color00)
 - [Philippa Olomoro](https://github.com/Philippaolomoro)
+- [Daniel Oppermann](https://github.com/danieloppermann)
 - [Devhoss](https://github.com/Devhoss)
 - [Rishiraj Chandra](https://github.com/rchandra20)
 - [Hampton Ford](https://github.com/shford)
@@ -2251,7 +2252,7 @@ p3tun1a
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [8x34tnxge](https://github.com/8x34tnxge)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
@@ -2307,6 +2308,6 @@ p3tun1a
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
-- [Alex W](https://github.com/awisticky) 
-- [Ashish Kumar](https://github.com/ashish070302) 
+- [Alex W](https://github.com/awisticky)
+- [Ashish Kumar](https://github.com/ashish070302)
 <!-- prettier-ignore-end -->
