@@ -18,6 +18,8 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
+
+  Aarav raj
 - [STeverino]
 - [Grace Kim] (https://github.com/kimgraace)
 - [Tracey Huang] (https://github.com/Traceydh)
