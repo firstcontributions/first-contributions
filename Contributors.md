@@ -14,6 +14,7 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [STeverino]
+- [Grace Kim] (https://github.com/kimgraace)
 - [Tracey Huang] (https://github.com/Traceydh)
 - [Ashu Kumar](https://github.com/Ashu-kumar40)
 - [Melvin Jones Repol](https://github.com/mrepol742)
