@@ -165,6 +165,7 @@ p3tun1a
 - [ItsTHEAvro] (https://github.com/ItsTHEAvro)
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
+- [Yash Dalal](https://github.com/YashDalal11)
 - [Ansh Kaushik]
 - [Cindy Soh]
   [Izra James](https://github.com/IzraJ)
@@ -244,7 +245,7 @@ p3tun1a
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
 - [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [shahin rizwana](https://github.com/shahin2003)
 - [Kael](https://github.com/Dwctor)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
