@@ -1556,6 +1556,7 @@ p3tun1a
 - [Anthony Church](https://github.com/ITedInnovator)
 - [Leomhann](https://github.com/Benjamin-Boy)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
+- [Justin McLemore](https://github.com/justincredble)
 - [Alex Kokobane](https://github.com/alexkokobane)
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
