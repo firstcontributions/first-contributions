@@ -110,6 +110,7 @@
 - [Abhijith0807]
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [Ayush Jha](https://github.com/AyushJha121)
+- [Harshit Pachori](https://github.com/HarshitPachori)
 - [Joao Alves](https://github.com/versuspng)
 - [Matteo Luraghi](https://github.com/matteo-luraghi)
 - [Jacek Głowacz]
