@@ -50,6 +50,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
+-[Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anurag Yadav](https://github.com/Anurag41682)
   [Dolapo Ogunfowora] (https://github.com/oedjoat)
 - [Ryan Tin] (https://github.com/rtin1234)
