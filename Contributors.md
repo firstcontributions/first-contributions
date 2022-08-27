@@ -5,6 +5,7 @@
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [George Babii] (https://github.com/georgevlt)
+- [Kamil Sitarz]
 - [Anna Wolfe]
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
 - [ASNaq35]
