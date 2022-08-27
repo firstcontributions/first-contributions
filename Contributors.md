@@ -152,6 +152,7 @@ p3tun1a
 - [Rakhshan Ahmad] (https://github.com/Rakhshan90)
 - [Abhishek Kumar Gupta] (https://github.com/theabhigupta1271)
 - [Robin Kempen] (https://github.com/Robinho1997)
+- [Adam Plaskitt](https://github.com/AdamPlaskitt)
 - [ItsTHEAvro] (https://github.com/ItsTHEAvro)
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Mayank Singh](https://github.com/fms12)
