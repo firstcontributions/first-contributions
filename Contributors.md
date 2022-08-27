@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [maxkup19](https://github.com/maxkup19)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
