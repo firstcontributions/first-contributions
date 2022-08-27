@@ -111,6 +111,7 @@
 - [Esther Idabor](https://github.com/EstherIdabor)
 - [Abhijith0807]
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
+- [frantic-dev] (https://github.com/frantic-dev)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [Harshit Pachori](https://github.com/HarshitPachori)
 - [Joao Alves](https://github.com/versuspng)
