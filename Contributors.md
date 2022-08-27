@@ -2269,6 +2269,7 @@ p3tun1a
 - [Meng Kheang](https://github.com/meangkheang)
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
+- [dvrlabs](https://github.com/dvrlabs)
 - [Chrystalio](https://github.com/chrystalio)
 - [FonCki](https://github.com/fonCki)
 - [Filip Swiniarski](https://github.com/FilipSwiniarski)
