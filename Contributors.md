@@ -37,6 +37,7 @@
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
   [Ivan Stojanovic](https://github.com/ivan00stojanovic)
+  [Vanya Rastogi](https://github.com/VanyaRastogi)
 - [Cade Humphreys] (https://github.com/thecptwaffles)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Natnael Sisay](https://github.com/NatnaelSisay)
