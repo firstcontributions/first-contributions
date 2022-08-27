@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [TAZER](https://github.com/ajtazer)
 - [Rutuja Kharche](https://github.com/rutuja-kharche
 - [maxkup19](https://github.com/maxkup19)
 - [Varun S V](https://github.com/Varun-SV/)
@@ -19,7 +19,7 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 
-  Aarav raj
+- Aarav raj
 - [STeverino]
 - [Grace Kim] (https://github.com/kimgraace)
 - [Tracey Huang] (https://github.com/Traceydh)
