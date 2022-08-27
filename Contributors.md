@@ -75,6 +75,7 @@
 - [Nickolas Tazes] (https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
+- [Justin Fiset](https://github.com/requin5)
 - [Ahmad Afghan](https://github.com/AhmadCR7)
 - [Jefferson Alaiza](https://github.com/bytss)
 - [Cody A]
