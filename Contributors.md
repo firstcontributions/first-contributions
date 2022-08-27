@@ -2334,5 +2334,6 @@ p3tun1a
 - [Devarsh](https://github.com/devarsh10) 
 - [PJM](https://github.com/MullerPietPompies)
 - [Ajjig](https://www.github.com/Ajjig)
+- [MauricioG](https://www.github.com/mgm9200)
 <!-- prettier-ignore-end -->
   
