@@ -2255,6 +2255,7 @@ p3tun1a
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
 - [Chrystalio](https://github.com/chrystalio)
+- [FonCki](https://github.com/fonCki)
 - [Filip Swiniarski](https://github.com/FilipSwiniarski)
 - [sn0218](https://github.com/sn0218)
 - [Lalalisa123](https://github.com/Lalalisa123)
