@@ -211,6 +211,7 @@ p3tun1a
 - [Pete Fowler](https://github.com/Pete-Fowler)
 - [Alex Ash] (https://github.com/akaaja2)
 - [Evan Lahey] (https://github.com/FeelsRossMan)
+- [Ayebilla Avoka] (https://github.com/Ayebilla)
 - [Diksha Tomar] (https://github.com/Dikshatomarr)
 - [Ayush Khandelwal] (https://github.com/Ayush-Khandelwal28)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
