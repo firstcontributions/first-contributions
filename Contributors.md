@@ -10,6 +10,7 @@
 - [Kamil Sitarz]
 - [Anna Wolfe]
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
+- [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
 - [JasperMiddendorp] (https://github.com/JasperMiddendorp/)
