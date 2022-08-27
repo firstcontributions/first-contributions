@@ -136,6 +136,7 @@ p3tun1a
 - [Meric Peddle] (https://github.com/gjpeddle)
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar] (https://github.com/SadhakKumar)
+- [Hassana Abdullahi](https://github.com/hassana123)
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Nafis Bin Nizam](https://github.com/Naf256)
 - [Halim Shams] (https://github.com/Halim-Shams)
