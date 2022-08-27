@@ -4,6 +4,7 @@
 
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
+- [DijanaPavlovic](https://github.com/DijanaPavlovic)
 - [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
@@ -54,7 +55,7 @@
 - [Ryan Tin] (https://github.com/rtin1234)
 - [Sam M'Backe]
 - [Simcha Newman]
-- [Shawn Michael Sudaria](https://github.com/0xM1cx)  
+- [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
@@ -110,7 +111,7 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Salvador Alvarez](https://github.com/Salvador318Alvarez)
 - [***P3TUN1A***]
-p3tun1a
+  p3tun1a
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
 - [Devang Shah](https://github.com/Devang-Shah-49)
@@ -232,8 +233,7 @@ p3tun1a
 - [Jonathan Johnson](https://github.com/Nova-One)
 - [Abhishek Sonawane](https://github.com/abhishek-sonawane)
 - [hustnzj](https://github.com/hustnzj)
-- [Jae Lee](https://github.com/jaegl)
--[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Kael](https://github.com/Dwctor)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
@@ -2129,8 +2129,7 @@ p3tun1a
 - [Ahmed Albarghouti](https://github.com/AhmedAlbarghouti)
 - [taimoon](https://github.com/taimoon)
 - [piki-zhu](https://github.com/piki-zhu)
-- [Hubert Ooi](https://github.com/hubertooi)
--[Pelumi Olukayode](https://github.com/OluPel)
+- [Hubert Ooi](https://github.com/hubertooi) -[Pelumi Olukayode](https://github.com/OluPel)
 - [Michael Mohlomi] (https://github.com/MohlomiKM)
 - [Rahul Saraf](https://github.com/Rahulsaraf1578)
 - [Michael Mohlomi](https://github.com/MohlomiKM)
@@ -2238,7 +2237,7 @@ p3tun1a
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [8x34tnxge](https://github.com/8x34tnxge)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
@@ -2288,8 +2287,7 @@ p3tun1a
 - [SnakeJoker](https://github.com/SnakeJoker)
 - [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
-- [zcvvvbb](https://github.com/zcvvvbb)
--[Rahul Katta](https://github.com/luharine)
+- [zcvvvbb](https://github.com/zcvvvbb) -[Rahul Katta](https://github.com/luharine)
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
