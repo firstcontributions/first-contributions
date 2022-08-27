@@ -55,6 +55,7 @@
 - [Sam M'Backe]
 - [Simcha Newman]
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)  
+- [Saksham Hans](https://github.com/saksham28hans)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
