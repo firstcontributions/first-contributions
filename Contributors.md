@@ -2248,6 +2248,7 @@ p3tun1a
 - [Jordan-Warr] (https://github.com/Jordan-Warr)
 - [Carlos Barona] (https://github.com/Cbarona)
 - [Ricardo Carrera] (https://github.com/carreraricardo)
+- [Bhavik Prajapati] (https://github.com/Bhavik-prajapati)
 - [Ram Goel] (https://github.com/ramGoel)
 - [Ramya](https://github.com/n-ramya)
 - [Smiti Oswal] (https://github.com/smitioswal)
