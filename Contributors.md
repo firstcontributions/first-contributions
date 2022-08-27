@@ -2329,5 +2329,6 @@ p3tun1a
 - [Ashish Kumar](https://github.com/ashish070302)
 - [Devarsh](https://github.com/devarsh10) 
 - [PJM](https://github.com/MullerPietPompies)
+- [Ajjig](https://www.github.com/Ajjig)
 <!-- prettier-ignore-end -->
   
