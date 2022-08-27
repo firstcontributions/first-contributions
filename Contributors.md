@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [TAZER](https://github.com/ajtazer)
 - [Rutuja Kharche](https://github.com/rutuja-kharche
 - [maxkup19](https://github.com/maxkup19)
