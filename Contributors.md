@@ -518,6 +518,7 @@ p3tun1a
 - [Andrew Skillett]
 - [Wahaj404](https://github.com/Wahaj404)
 - [happinyz]
+  [Thomas]
 - [Noah Conway]
 - [Debarya Das]
 - [Ben Cruickshank](https://github.com/officerclucks)
