@@ -2311,5 +2311,6 @@ p3tun1a
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
 - [Alex W](https://github.com/awisticky) 
-- [Ashish Kumar](https://github.com/ashish070302) 
+- [Ashish Kumar](https://github.com/ashish070302)
+- [Devarsh](https://github.com/devarsh10) 
 <!-- prettier-ignore-end -->
