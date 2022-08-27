@@ -2248,6 +2248,7 @@ p3tun1a
 - [Smiti Oswal] (https://github.com/smitioswal)
 - [Roman Trnka] (https://github.com/sunk4)
 - [Heber Marques] (https://github.com/hfmarques)
+- [bilel Feki] (https://github.com/bilelfeki)
 - [Nabin Katwal] (https://github.com/nabinkatwal7)
 - [Ursa Ursic](https://github.com/ursaursic)
 - [Maxime Kirch] (https://github.com/MaximeKirch)
