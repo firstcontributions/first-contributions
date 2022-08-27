@@ -2127,6 +2127,7 @@ p3tun1a
 - [Ope Kareem](https://github.com/talentlessDeveloper)
 - [Haris Ahmed](https://github.com/harisahmed321)
 - [Damien Koh](https://github.com/DKJKOH)
+- [masa mainio](https://github.com/masamainio/)
 
 - [Tylor M. Clont] (https://github.com/Tylor1210)
 - [spark07](https://github.com/sparkO7)
