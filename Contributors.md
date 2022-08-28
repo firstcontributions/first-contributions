@@ -10,6 +10,7 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche
 - [maxkup19](https://github.com/maxkup19)
+- [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
@@ -41,6 +42,7 @@
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Fettah Aud](https://github.com/FettahAud)
 - [Jeffrey Chao](https://github.com/jchaodubs)
+- [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Denys Makene](https://github.com/Denysmak)
@@ -74,6 +76,7 @@
 - [Ryan Tin] (https://github.com/rtin1234)
 - [Sam M'Backe]
 - [Simcha Newman]
+- [Jerad Sharp] (https://github.com/IronDiggy)
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Jose Ingunza Hamann](https://github.com/jingunza)
 - [Saksham Hans](https://github.com/saksham28hans)
@@ -90,6 +93,7 @@
 - [Justin Fiset](https://github.com/requin5)
 - [Ahmad Afghan](https://github.com/AhmadCR7)
 - [Jefferson Alaiza](https://github.com/bytss)
+- [Stephen TC]
 - [Cody A]
 - [prakass sookdev]
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
@@ -111,6 +115,7 @@
 - [Rayan](https://github.com/rayanx43)
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
+- [Rushabh Modi](https://github.com/rushabh0021)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
@@ -1049,6 +1054,7 @@
 - [Songha Chheo](https://github.com/songhachheo)
 - [Rishika Sinha](https://github.com/rishikasinha7)
 - [Hezron Njoroge](https://github.com/Mhezron)
+- [David Morris](https://github.com/whiteboy916)
 - [Achyut Neupane](https://github.com/achyutkneupane)
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
 - [AdamTempest](https://github.com/AdamTempest)
@@ -2352,7 +2358,9 @@
 - [Ajjig](https://www.github.com/Ajjig)
 - [MauricioG](https://www.github.com/mgm9200)
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
+- [Nick Crisci](https://github.com/nickcrisci)
 - [白隐 Hakuin](https://github.com/Hakuin123)
 - [ArnNied](https://github.com/ArnNied)
 - [Saad Jamil](https://github.com/SaadJamilAkhtar)
+- [Mubin Uddin Ahmed](https://github.com/muansuiu)
 <!-- prettier-ignore-end -->
