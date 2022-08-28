@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
+- [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [TAZER](https://github.com/ajtazer)
