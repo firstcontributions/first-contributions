@@ -25,7 +25,7 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
-
+- [Manda Supraja](https://github.com/Manda-supraja26)
 - Aarav raj
 - [STeverino]
 - [Grace Kim] (https://github.com/kimgraace)
