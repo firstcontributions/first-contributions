@@ -2355,5 +2355,6 @@ p3tun1a
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
 - [白隐Hakuin](https://github.com/Hakuin123)
 - [ArnNied](https://github.com/ArnNied)
+- [Saad Jamil](https://github.com/SaadJamilAkhtar)
 <!-- prettier-ignore-end -->
   
