@@ -486,6 +486,7 @@ p3tun1a
 - [sikoeh](https://github.com/sikoeh)
 - [Kshitij Radotra](https://github.com/kshitij-ra)
 - [Vladislav-Mironov](https://github.com/Daleniant)
+- [morrcriven](https://github.com/morrcriven)
 - [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
