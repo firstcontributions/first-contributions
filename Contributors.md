@@ -1,4 +1,4 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Ansari Saad](https://github.com/Saadansariii/)
@@ -11,6 +11,7 @@
 - [maxkup19](https://github.com/maxkup19)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
+- [Varun Ratnani](https://github.com/varun1002)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
