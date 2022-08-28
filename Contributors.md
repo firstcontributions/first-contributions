@@ -15,7 +15,7 @@
 - [Nicholas Ali](https://github.com/NicholasAli1)
 - [George Babii] (https://github.com/georgevlt)
 - [Kamil Sitarz]
-- [Anna Wolfe]
+- [Anna Wolfe] -[Tasmiya Khan] (https://github.com/Tasmiya-k)
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
 - [ASNaq35]
@@ -45,6 +45,8 @@
 - [Beki Drobs](https://github.com/Beki-D)
 - [Mg Khin mg Htet](https://github.com/Matthtica)
 - [Durgesh Babu](https://github.com/Durgesh-babu/)
+- [Sebastian](https://github.com/sxybeast)
+- [Brrrak](https://github.com/brrrak)
 - [Vikrant Patil](https://github.com/vikrantpatil7)
 - [Usman Ali](https://github.com/usmaan-aali)
 - [Mohamed Moulay](https://github.com/Medmly20208)
@@ -488,6 +490,7 @@
 - [sikoeh](https://github.com/sikoeh)
 - [Kshitij Radotra](https://github.com/kshitij-ra)
 - [Vladislav-Mironov](https://github.com/Daleniant)
+- [morrcriven](https://github.com/morrcriven)
 - [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
@@ -2347,4 +2350,5 @@
 - [MauricioG](https://www.github.com/mgm9200)
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
 - [白隐 Hakuin](https://github.com/Hakuin123)
+- [ArnNied](https://github.com/ArnNied)
 <!-- prettier-ignore-end -->
