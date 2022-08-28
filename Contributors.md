@@ -1856,6 +1856,7 @@ p3tun1a
 - [Pritivi Chhabria](https://github.com/pritivisc)
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
+- [Luis Aguiñaga](https://github.com/luiswoohoo)
 - [Renzo Villaflor](https://github.com/rvill015)
 - [Krishnanand Yadav](https://github.com/Krishnanand2517)
 - [Pranay Singh](https://github.com/singhpranay06)
