@@ -23,7 +23,7 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
-
+- [Jatin Batra] (https://github.com/Crystal11101)
 - Aarav raj
 - [STeverino]
 - [Grace Kim] (https://github.com/kimgraace)
