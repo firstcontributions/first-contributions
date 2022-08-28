@@ -1025,6 +1025,7 @@ p3tun1a
 - [Mahaveer Jain](https://github.com/mahaveer82)
 - [Rachel Chen](https://github.com/RachelJiarui)
 - [Isuru Gunarathne](https://github.com/IsuruGunarathne)
+- [Abdullahi Jimoh](https://github.com/Jimlah)
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
