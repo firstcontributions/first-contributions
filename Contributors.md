@@ -1780,6 +1780,7 @@ p3tun1a
 - [Jasmine](https://github.com/jasminelee789)
 - [Joshua](https://github.com/kxng0109)
 - [Denny Chen](https://github.com/DenxyChen)
+- [Ken Tiet](https://github.com/kentiet)
 - [dansch87](https://github.com/dansch87)
 - [Graeme Crawley](https://github.com/GraemeCrawley)
 - [Antoine Q.](https://github.com/antoine-q)
