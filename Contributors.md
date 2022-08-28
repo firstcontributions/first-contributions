@@ -82,6 +82,7 @@
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
 - [Mashinsp](https://github.com/mashinsp)
+- [Gianpaolo Branca](https://github.com/GianpaoloBranca)
 - [Nickolas Tazes] (https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
