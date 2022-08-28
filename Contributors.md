@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ansari Saad](https://github.com/Saadansariii/)
+- [Steven Noyes](https://github.com/SteveNoyes/)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
