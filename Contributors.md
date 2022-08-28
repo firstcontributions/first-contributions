@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Ansari Saad](https://github.com/Saadansariii/)
+- [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [TAZER](https://github.com/ajtazer)
@@ -24,6 +25,7 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
+- [hat-owl](https://github.com/hat-owl)
 
 - Aarav raj
 - [STeverino]
@@ -65,6 +67,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
+- [Sam Brands](https://github.com/MoosMas)
 - [Savo Bos] -[Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anurag Yadav](https://github.com/Anurag41682)
   [Dolapo Ogunfowora] (https://github.com/oedjoat)
@@ -80,6 +83,7 @@
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
 - [Mashinsp](https://github.com/mashinsp)
+- [Gianpaolo Branca](https://github.com/GianpaoloBranca)
 - [Nickolas Tazes] (https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
@@ -110,7 +114,6 @@
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
-- [Sat Naing](https://github.com/satnaing)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Eno](https://github.com/codEno12)
@@ -2351,4 +2354,5 @@
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
 - [白隐 Hakuin](https://github.com/Hakuin123)
 - [ArnNied](https://github.com/ArnNied)
+- [Saad Jamil](https://github.com/SaadJamilAkhtar)
 <!-- prettier-ignore-end -->
