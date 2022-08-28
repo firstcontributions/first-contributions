@@ -9,6 +9,7 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche
 - [maxkup19](https://github.com/maxkup19)
+- [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
