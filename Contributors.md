@@ -108,6 +108,7 @@
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
+- [Sat Naing](https://github.com/satnaing)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda] (https://github.com/acastaneda10)
 - [Eno](https://github.com/codEno12)
