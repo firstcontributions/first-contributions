@@ -2359,6 +2359,7 @@ p3tun1a
 - [Ajjig](https://www.github.com/Ajjig)
 - [MauricioG](https://www.github.com/mgm9200)
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
+- [Nick Crisci](https://github.com/nickcrisci)
 - [白隐Hakuin](https://github.com/Hakuin123)
 - [ArnNied](https://github.com/ArnNied)
 - [Saad Jamil](https://github.com/SaadJamilAkhtar)
