@@ -2345,5 +2345,6 @@ p3tun1a
 - [PJM](https://github.com/MullerPietPompies)
 - [Ajjig](https://www.github.com/Ajjig)
 - [MauricioG](https://www.github.com/mgm9200)
+- [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
 <!-- prettier-ignore-end -->
   
