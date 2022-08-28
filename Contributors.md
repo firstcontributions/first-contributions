@@ -25,7 +25,6 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
-- [Manda Supraja](https://github.com/Manda-supraja26)
 - Aarav raj
 - [STeverino]
 - [Grace Kim] (https://github.com/kimgraace)
@@ -910,6 +909,7 @@ p3tun1a
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [seok-2-o](https://github.com/seok-2-o)
+- [Manda Supraja 👍](https://github.com/Manda-supraja26)
 - [Emanuel181](https://github.com/Emanuel181)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
