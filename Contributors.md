@@ -25,6 +25,7 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
+- [hat-owl](https://github.com/hat-owl)
 
 - Aarav raj
 - [STeverino]
