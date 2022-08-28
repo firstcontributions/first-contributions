@@ -6,7 +6,7 @@
 # පළමු දායකත්වය
 
 ඔබ පළමු වරට යමක් කරන විට එය සැමවිටම අපහසු වේ. විශේෂයෙන්ම කණ්ඩායමක් විදියට 
-එකට වැඩ කරනකොට වැරදුනොත් ගොඩක් වැඩියි අවාසනාවන්ත වනු ඇත. එබැවින්, විවෘත 
+එකට වැඩ කරනකොට වැරදීමක් සිදුවුවහොත් එය වඩාත් අපහසු වනු ඇත. එබැවින්, විවෘත 
 කේත මෘදුකාංග (විවෘත මූලාශ්‍ර මෘදුකාංග) සහ දායකයින් ලෙස ක්‍රියා කරන ආකාරය ඒ සඳහා 
 පළමු වරට දායක වීම පහසු කිරීම අපගේ අරමුණයි.
 
@@ -40,7 +40,6 @@ git clone "ඔබ පිටපත් කළ url එක"
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-
 උදාහරණ වශයෙන්:
 
 ```
@@ -56,7 +55,6 @@ repository directory යන්න (ඔබ දැනටමත් එහි නො
 ```
 cd first-contributions
 ```
-
 
 දැන් `git checkout` විධානය භාවිතා කරමින් ශාඛාවක් සාදන්න:
 
@@ -74,7 +72,7 @@ git checkout -b add-luke-oliff
 
 ## අවශ්‍ය වෙනස්කම් සිදු කර commit කරන්න
 
-දැන් Contributors.md ගොනුව පෙළ සංස්කාරකයක විවෘත කරන්න, එයට ඔබේ නම එක් කරන්න. ගොනුවේ ආරම්භයේ හෝ අවසානයේ එය එකතු නොකරන්න. එය අතර ඕනෑම තැනක තබන්න. දැන්, ගොනුව save කරන්න.
+දැන් Contributors.md ගොනුව පෙළ සංස්කාරකයක (Text Editor) විවෘත කරන්න, එයට ඔබේ නම එක් කරන්න. ගොනුවේ ආරම්භයේ හෝ අවසානයේ එය එකතු නොකරන්න. එය අතර ඕනෑම තැනක තබන්න. දැන්, ගොනුව save කරන්න.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -92,11 +90,9 @@ git add Contributors.md
 git commit -m "Add <ඔයාගේ_නම> to Contributors list"
 ```
 
-
 `<ඔබගේ-නව-ශාඛාවේ-නම>` ඔබ කලින් නිර්මාණය කළ නම සමඟ ශාඛාව ප්රතිස්ථාපනය කරන්න.
 
 ## සමාලෝචනය සඳහා ඔබේ වෙනස්කම් ඉදිරිපත් කරන්න
-
 
 ඔබ GitHub හි ඔබගේ ගබඩාවට ගියහොත්, ඔබට `Compare & pull request` බොත්තමක් පෙනෙනු ඇත. එම බොත්තම මත ක්ලික් කරන්න.
 
@@ -123,6 +119,5 @@ git commit -m "Add <ඔයාගේ_නම> to Contributors list"
 ## වෙනත් මෙවලම් භාවිතා කරන නිබන්ධන
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
-
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                          | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                       | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                     | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                               | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                   | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                       |
