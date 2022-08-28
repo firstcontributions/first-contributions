@@ -623,6 +623,7 @@ p3tun1a
 - [Wayne Cen](https://github.com/waynecen)
 - [Ferdjani Zakaria](https://github.com/Ferdjani-zakaria)
 - [Jessica van der Merwe](https://github.com/JessicavdM)
+- [Cortney] (https://github.com/Quartini)
 - [Michael Ford] (https://github.com/michaelrossford)
 - [Timi Ombe](https://github.com/SpaceTimmi)
 - [Scott Sterling](https://github.com/scottasterling)
