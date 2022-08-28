@@ -1784,6 +1784,7 @@ p3tun1a
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
 - [Maina Kibe](https://github.com/Mainakibe)
 - [Somrach Chheng](https://github.com/somrachchheng)
+- [Gianpaolo Branca](https://github.com/GianpaoloBranca)
 - [jannickbath](https://github.com/jannickbath)
 - [ZigRazor](https://github.com/ZigRazor)
 - [Jasmine](https://github.com/jasminelee789)
@@ -2284,7 +2285,7 @@ p3tun1a
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [8x34tnxge](https://github.com/8x34tnxge)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
@@ -2341,13 +2342,13 @@ p3tun1a
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
 - [Tom-C](https://github.com/ThomasMarkCartwright)
-- [Alex W](https://github.com/awisticky) 
+- [Alex W](https://github.com/awisticky)
 - [Ashish Kumar](https://github.com/ashish070302)
-- [Devarsh](https://github.com/devarsh10) 
+- [Devarsh](https://github.com/devarsh10)
 - [PJM](https://github.com/MullerPietPompies)
 - [Ajjig](https://www.github.com/Ajjig)
 - [MauricioG](https://www.github.com/mgm9200)
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
 - [白隐Hakuin](https://github.com/Hakuin123)
 <!-- prettier-ignore-end -->
-  
+
