@@ -66,6 +66,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
+- [Sam Brands](https://github.com/MoosMas)
 - [Savo Bos]
 -[Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anurag Yadav](https://github.com/Anurag41682)
