@@ -42,6 +42,7 @@
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Fettah Aud](https://github.com/FettahAud)
 - [Jeffrey Chao](https://github.com/jchaodubs)
+- [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Denys Makene](https://github.com/Denysmak)
