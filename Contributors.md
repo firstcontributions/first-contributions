@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
@@ -62,8 +63,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
-- [Savo Bos]
--[Sohaib Ahmad](https://github.com/sohaibahmed40)
+- [Savo Bos] -[Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anurag Yadav](https://github.com/Anurag41682)
   [Dolapo Ogunfowora] (https://github.com/oedjoat)
 - [Ryan Tin] (https://github.com/rtin1234)
@@ -121,6 +121,7 @@
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [frantic-dev] (https://github.com/frantic-dev)
 - [Ayush Jha](https://github.com/AyushJha121)
+- [Abdulhakeem Yusuff] [https://github.com/hakeemyusuff]
 - [Harshit Pachori](https://github.com/HarshitPachori)
 - [Joao Alves](https://github.com/versuspng)
 - [Matteo Luraghi](https://github.com/matteo-luraghi)
@@ -133,7 +134,7 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Salvador Alvarez](https://github.com/Salvador318Alvarez)
 - [***P3TUN1A***]
-p3tun1a
+  p3tun1a
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
 - [Devang Shah](https://github.com/Devang-Shah-49)
@@ -515,7 +516,7 @@ p3tun1a
   Binyamin Roberts
 - [Martin Joseph Lubowa](https://github.com/martin-creator)
 - [Issac Lopez](https://github.com/Issac-Lopez)
- [Tobiloba Isaiah Adebisi](https://github.com/Adebisi1234)
+  [Tobiloba Isaiah Adebisi](https://github.com/Adebisi1234)
 - [Michael RV](https://github.com/mike-rv)
 - [Anmol Panchal](https://github.com/anmolp476)
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
@@ -2168,8 +2169,7 @@ p3tun1a
 - [Ahmed Albarghouti](https://github.com/AhmedAlbarghouti)
 - [taimoon](https://github.com/taimoon)
 - [piki-zhu](https://github.com/piki-zhu)
-- [Hubert Ooi](https://github.com/hubertooi)
--[Pelumi Olukayode](https://github.com/OluPel)
+- [Hubert Ooi](https://github.com/hubertooi) -[Pelumi Olukayode](https://github.com/OluPel)
 - [Michael Mohlomi] (https://github.com/MohlomiKM)
 - [Rahul Saraf](https://github.com/Rahulsaraf1578)
 - [Michael Mohlomi](https://github.com/MohlomiKM)
@@ -2283,7 +2283,7 @@ p3tun1a
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
-- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)  
+- [Kalyan Vurugonda](https://github.com/kalyan-vurugonda)
 - [8x34tnxge](https://github.com/8x34tnxge)
 - [Marcin Ziętara]([https://github.com/malpakw)
 - [Jacob Hobbs]([https://github.com/Xisurthros)
@@ -2334,19 +2334,17 @@ p3tun1a
 - [SnakeJoker](https://github.com/SnakeJoker)
 - [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
-- [zcvvvbb](https://github.com/zcvvvbb)
--[Rahul Katta](https://github.com/luharine)
+- [zcvvvbb](https://github.com/zcvvvbb) -[Rahul Katta](https://github.com/luharine)
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
 - [Tom-C](https://github.com/ThomasMarkCartwright)
-- [Alex W](https://github.com/awisticky) 
+- [Alex W](https://github.com/awisticky)
 - [Ashish Kumar](https://github.com/ashish070302)
-- [Devarsh](https://github.com/devarsh10) 
+- [Devarsh](https://github.com/devarsh10)
 - [PJM](https://github.com/MullerPietPompies)
 - [Ajjig](https://www.github.com/Ajjig)
 - [MauricioG](https://www.github.com/mgm9200)
 - [SebastianSlangerup](https://www.github.com/SebastianSlangerup)
-- [白隐Hakuin](https://github.com/Hakuin123)
+- [白隐 Hakuin](https://github.com/Hakuin123)
 <!-- prettier-ignore-end -->
-  
