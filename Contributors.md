@@ -9,6 +9,7 @@
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
+- [Nicholas Ali](https://github.com/NicholasAli1)
 - [George Babii] (https://github.com/georgevlt)
 - [Kamil Sitarz]
 - [Anna Wolfe]
