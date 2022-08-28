@@ -114,6 +114,7 @@
 - [Rayan](https://github.com/rayanx43)
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
+- [Rushabh Modi](https://github.com/rushabh0021)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
