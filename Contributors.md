@@ -8,6 +8,8 @@
 - [TAZER](https://github.com/ajtazer)
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche
+-[Favour Badakin]
+(https://favourbadakin@gmail.com
 - [maxkup19](https://github.com/maxkup19)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Crimsonshade](https://github.com/crimsonshade)
