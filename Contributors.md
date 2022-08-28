@@ -1050,6 +1050,7 @@ p3tun1a
 - [Songha Chheo](https://github.com/songhachheo)
 - [Rishika Sinha](https://github.com/rishikasinha7)
 - [Hezron Njoroge](https://github.com/Mhezron)
+- [David Morris](https://github.com/whiteboy916)
 - [Achyut Neupane](https://github.com/achyutkneupane)
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
 - [AdamTempest](https://github.com/AdamTempest)
