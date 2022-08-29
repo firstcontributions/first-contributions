@@ -529,6 +529,7 @@
 - [avevr](https://github.com/avevr)
 - [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
+- [Jodi W](https://github.com/xinwei47)
 - [K8](https://github.com/styerfoam)
 - [Prateek Srivastava](https://github.com/prateek-srivastav)
 - [Ayush Yadav](https://github.com/ayush-wd)
