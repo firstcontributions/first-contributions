@@ -32,7 +32,7 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [hat-owl](https://github.com/hat-owl)
-- [Aditya]
+- [Aditya Sapate]
 - Aarav raj
 - [STeverino]
 - [ssssooooaaaarrrreeee] (https://github.com/Soare345)
