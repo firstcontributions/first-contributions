@@ -27,6 +27,7 @@
 - [shin000000](https://github.com/shin000000) -[Tasmiya Khan] (https://github.com/Tasmiya-k)
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
+- [Amí Naeily](https://github.com/pinkhairs)
 - [Ebimobowei Pondei] (https://github.com/ebimo21)
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
