@@ -16,6 +16,7 @@
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
+- [Hyeyoung Lucia Lee](https://github.com/Hyeyoung-Lucia)
 - [George Babii] (https://github.com/georgevlt)
 - [Kamil Sitarz]
 - [Anna Wolfe]
