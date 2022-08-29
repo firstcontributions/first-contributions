@@ -33,6 +33,7 @@
 - [Amí Naeily](https://github.com/pinkhairs)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
 - [ASNaq35]
+- [Shivankur Singh](https://github.com/Shivankur25)
 - [Samuel Lukudu](https://github.com/samuellukudu)
 - [JasperMiddendorp](https://github.com/JasperMiddendorp/)
 - [Daniarfa](https://github.com/daniarfadd)
