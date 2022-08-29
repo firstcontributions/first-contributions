@@ -8,7 +8,7 @@
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [TAZER](https://github.com/ajtazer)
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
-- [Rutuja Kharche](https://github.com/rutuja-kharche
+- [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [maxkup19](https://github.com/maxkup19)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
@@ -104,6 +104,7 @@
 - [Cody A]
 - [prakass sookdev]
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
+- [RaviVarma-Bandi](https://github.com/RaviVarma-Bandi)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
 - [Aircraft192](https://github.com/Aircraft192/)
 - [ASAHASRABUDH](https://github.com/asahasrabudhe)
