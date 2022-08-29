@@ -37,7 +37,8 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [hat-owl](https://github.com/hat-owl)
-- [Ahmed Tarek] (https://github.com/ahmedtarekabd)
+- [Aditya Sapate]
+- [Ahmed Tarek](https://github.com/ahmedtarekabd)
 - Aarav raj
 - [STeverino]
 - [ssssooooaaaarrrreeee] (https://github.com/Soare345)
