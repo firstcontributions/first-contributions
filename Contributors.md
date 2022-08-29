@@ -20,6 +20,7 @@
 - [Hyeyoung Lucia Lee](https://github.com/Hyeyoung-Lucia)
 - [George Babii] (https://github.com/georgevlt)
 - [Kamil Sitarz]
+- [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000) -[Tasmiya Khan] (https://github.com/Tasmiya-k)
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
