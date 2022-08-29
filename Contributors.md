@@ -61,6 +61,7 @@
 - [Usman Ali](https://github.com/usmaan-aali)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
+- [Thejus M](https://github.com/thejus-m)
   [Ivan Stojanovic](https://github.com/ivan00stojanovic)
   [Vanya Rastogi](https://github.com/VanyaRastogi)
 - [Cade Humphreys] (https://github.com/thecptwaffles)
