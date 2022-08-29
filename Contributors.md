@@ -97,6 +97,7 @@
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Jose Ingunza Hamann](https://github.com/jingunza)
 - [Clemens Ege](https://github.com/clemensege)
+- [Abel Yo](https://github.com/abelyo26)
 - [Saksham Hans](https://github.com/saksham28hans)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
