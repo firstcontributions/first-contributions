@@ -378,6 +378,7 @@
 - [prgVaibhav](https://github.com/PrgVaibhav)
   Harsh Shah
   Sattyam Samania
+  [Jethro Cotton](https://github.com/j37hr0/)
   [Md Mudassir Akhter](https://github.com/mudassir-jmi)
   [Ramin Karimi](https://github.com/Ramink78)
 - [Samarth Rayar](https://github.com/samarth2001)
