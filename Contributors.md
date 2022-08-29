@@ -1,8 +1,9 @@
-**Contributors**
+﻿**Contributors**
 
 <!-- prettier-ignore-start -->
 
 - [Ansari Saad](https://github.com/Saadansariii/)
+- [Steven Noyes](https://github.com/SteveNoyes/)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
@@ -12,14 +13,17 @@
 - [maxkup19](https://github.com/maxkup19)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
+- [Varun Ratnani](https://github.com/varun1002)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
 - [George Babii] (https://github.com/georgevlt)
 - [Kamil Sitarz]
-- [Anna Wolfe] -[Tasmiya Khan] (https://github.com/Tasmiya-k)
+- [Anna Wolfe]
+- [shin000000](https://github.com/shin000000) -[Tasmiya Khan] (https://github.com/Tasmiya-k)
 - [Mohammad Arwani] (https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
+- [Ebimobowei Pondei] (https://github.com/ebimo21)
 - [ASNaq35]
 - [Samuel Lukudu] (https://github.com/samuellukudu)
 - [JasperMiddendorp] (https://github.com/JasperMiddendorp/)
@@ -30,6 +34,7 @@
 
 - Aarav raj
 - [STeverino]
+- [ssssooooaaaarrrreeee] (https://github.com/Soare345)
 - [Grace Kim] (https://github.com/kimgraace)
 - [Tracey Huang] (https://github.com/Traceydh)
 - [Ashu Kumar](https://github.com/Ashu-kumar40)
@@ -660,6 +665,7 @@
 - [Genet Adno](https://github.com/GenetAdno)
 - [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
 - [Ponder E. Stine](https://github.com/ponderstine)
+- [Alex CG](https://github.com/achobani)
 - [Ricardo Augustine](https://github.com/r-augustine)
 - RobertTheLeft
 - [Atul Raj](https://github.com/King-Atul)
@@ -1854,6 +1860,7 @@
 - [Pritivi Chhabria](https://github.com/pritivisc)
 - [Steven Th](https://github.com/Thanske)
 - [Zohiab R](https://github.com/ZDON-Official)
+- [Luis Aguiñaga](https://github.com/luiswoohoo)
 - [Renzo Villaflor](https://github.com/rvill015)
 - [Krishnanand Yadav](https://github.com/Krishnanand2517)
 - [Pranay Singh](https://github.com/singhpranay06)
@@ -2363,4 +2370,5 @@
 - [ArnNied](https://github.com/ArnNied)
 - [Saad Jamil](https://github.com/SaadJamilAkhtar)
 - [Mubin Uddin Ahmed](https://github.com/muansuiu)
+- [liwenkang](https://github.com/liwenkang)
 <!-- prettier-ignore-end -->
