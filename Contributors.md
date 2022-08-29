@@ -5,6 +5,7 @@
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Steven Noyes](https://github.com/SteveNoyes/)
+- [Valeria Marin](https://github.com/Valvalvaal)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
