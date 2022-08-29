@@ -1052,6 +1052,7 @@
 - [Andrew Chang](https://github.com/AndrewChang2025)
 - [Uday](https://github.com/udaysonyy)
 - [Angela Johnson](https://github.com/angieloux)
+- [Chace Ciulla](https://github.com/caciulla)
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
 - [Liz D](https://github.com/TalentUXArchitect)
 - [Filip Telente](https://github.com/aminta5)
