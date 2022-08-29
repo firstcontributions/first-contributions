@@ -1155,6 +1155,7 @@
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [Rathish Aadiraja](https://github.com/RathishAadiraja)
+- [Bharadwaj Divate](https://github.com/BharadwajDivate)
 - [David Miller](https://github.com/davidmiller2013)
 - [Joevanie Canete Jr](https://github.com/joevanie-canete-jr)
 - [Bjørnar Otterlei](https://github.com/Bcdo)
@@ -2111,5 +2112,4 @@
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
 - [Afrid Hussain](https://github.com/afrid18)
-- [Bharadwaj Divate](https://github.com/BharadwajDivate)
 <!-- prettier-ignore-end -->
