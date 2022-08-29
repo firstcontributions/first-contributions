@@ -664,6 +664,7 @@ p3tun1a
 - [Genet Adno](https://github.com/GenetAdno)
 - [Lucie C (Sasszz/Boocie)](https://github.com/sasszz)
 - [Ponder E. Stine](https://github.com/ponderstine)
+- [Alex CG](https://github.com/achobani)
 - [Ricardo Augustine](https://github.com/r-augustine)
 - RobertTheLeft
 - [Atul Raj](https://github.com/King-Atul)
