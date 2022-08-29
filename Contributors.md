@@ -8,6 +8,7 @@
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [TAZER](https://github.com/ajtazer)
+- [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [maxkup19](https://github.com/maxkup19)
