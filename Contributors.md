@@ -523,6 +523,7 @@
 - [Kshitij Radotra](https://github.com/kshitij-ra)
 - [Vladislav-Mironov](https://github.com/Daleniant)
 - [morrcriven](https://github.com/morrcriven)
+- [avevr](https://github.com/avevr)
 - [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
