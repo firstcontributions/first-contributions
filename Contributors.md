@@ -14,6 +14,7 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [maxkup19](https://github.com/maxkup19)
+- [Bigdwarf43](https://github.com/bigdwarf43)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Varun Ratnani](https://github.com/varun1002)
