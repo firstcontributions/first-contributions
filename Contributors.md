@@ -1699,6 +1699,7 @@
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Jonathan Chen](https://github.com/JonHPC)
 - [Sol Cif](https://github.com/Scif99)
+- [Jan Záruba](https://github.com/zarjan)
 - [itsmraga-hub](https://github.com/itsmraga-hub)
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
 - [Oyekola Toheeb](https://github.com/To-heeb)
