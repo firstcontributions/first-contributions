@@ -103,6 +103,7 @@
 - [Saksham Hans](https://github.com/saksham28hans)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
+- YeeHaww_Amit!!
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Zaid Marrie](https://github.com/ZaidMarrie)
