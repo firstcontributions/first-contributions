@@ -1,4 +1,4 @@
-﻿**Contributors**
+# Contributors
 
 <!-- prettier-ignore-start -->
 
