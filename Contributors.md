@@ -2212,6 +2212,7 @@
 - [Fahd Abdulrazzaq] (https://github.com/fahd-abdulrazzaq)
 - [Oscar Caicedo](https://github.com/oscarmc17)
 - [crypto guy](https://github.com/cryptoguy55a/)
+- [Cryo Vitriol](https://github.com/CryoVit)
 - [Aditya Vaste](https://github.com/adivaste/)
 - [Ashish Padhy](https://github.com/Shurtu-Gal)
 - [Niharika Baliyan](https://github.com/Niiiha)
