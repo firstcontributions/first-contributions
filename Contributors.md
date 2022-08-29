@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+-[Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Steven Noyes](https://github.com/SteveNoyes/)
 - [Álvaro Cabo](https://github.com/alvarocabo)
