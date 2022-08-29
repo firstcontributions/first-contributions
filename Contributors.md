@@ -23,6 +23,7 @@
 - [Nicholas Ali](https://github.com/NicholasAli1)
 - [Hyeyoung Lucia Lee](https://github.com/Hyeyoung-Lucia)
 - [George Babii](https://github.com/georgevlt)
+- [Cyber Thunder Storm](https://github.com/cyberthunderstorm/)
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
