@@ -70,6 +70,7 @@
 - [Sam Brands](https://github.com/MoosMas)
 - [Savo Bos]
 -[Sohaib Ahmad](https://github.com/sohaibahmed40)
+-[Thejus-M](https://github.com/thejus-m)
 - [Anurag Yadav](https://github.com/Anurag41682)
   [Dolapo Ogunfowora] (https://github.com/oedjoat)
 - [Ryan Tin] (https://github.com/rtin1234)
