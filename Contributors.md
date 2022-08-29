@@ -1396,6 +1396,7 @@
 - [Amr Ashebo](https://github.com/amr8644)
 - [Johnathan Im](https://github.com/johnathanim20)
 - [Okoye Victor](https://github.com/ChuloWay)
+- [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Rahul Anand](https://github.com/rnand)
 - [Jimit Patel](https://github.com/jimit-exe)
 - [Muhammad Affan Khalid](https://github.com/muhammadaffankhalid)
