@@ -8,6 +8,7 @@
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Ricky Hernandez](https://github.com/code2244)
+- [Joachim Christensen] (https://github.com/joachr)
 - [James Coates](https://github.com/nexuspcs)
 - [Issac Lopez](https://github.com/Issac-Lopez)
 - [Tanvi Rana](https://github.com/tanvirana)
