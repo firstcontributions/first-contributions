@@ -37,6 +37,7 @@
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [hat-owl](https://github.com/hat-owl)
+- Harsit Agarwalla
 - [Aditya Sapate]
 - [Ahmed Tarek](https://github.com/ahmedtarekabd)
 - Aarav raj
