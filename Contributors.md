@@ -39,6 +39,7 @@
 - [Cyber Thunder Storm](https://github.com/cyberthunderstorm/)
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
+- [Maranda Bui]
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Alvaro L.](https://github.com/Lawrence4U/)
 - [Swaraj E S]
