@@ -2502,4 +2502,5 @@
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - 🇪🇨 Danilo 🇪🇨
 - [Brennan Seymour](https://github.com/brenno263)
+- [Derrick Wright](https://github.com/Kcops11)
 <!-- prettier-ignore-end -->
