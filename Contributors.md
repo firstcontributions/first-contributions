@@ -184,7 +184,7 @@
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
-- [Shadman Thakur](https://github.com/thakurshadman)
+- [Shadman Thakur](https://github.com/thakurs[hadman)
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
@@ -227,7 +227,8 @@
 - [Yash Dalal](https://github.com/YashDalal11)
 - [Ansh Kaushik]
 - [Cindy Soh]
-  [Izra James](https://github.com/IzraJ)
+- Christian Kelle
+- [Izra James](https://github.com/IzraJ)
 - [Dyte]
 - [Steven Dorsey]
 - [Faizan Khan](https://github.com/lahoreninja)
