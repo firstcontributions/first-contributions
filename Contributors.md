@@ -271,6 +271,7 @@
 - [Anas Elmakhloufi](https://github.com/anasmak04)
 - [Alokananda Y](https://github.com/alok-37/alok-37)
 - [Sumit Ahire](https://github.com/Sumit2701)
+- [Iam a Coder]
 - [Russell Tan](https://github.com/spicygimbab)
 - [Iam a Coder]
 - [Ahmed Shukri](https://github.com/Ahmed-Shukri02)
@@ -918,6 +919,7 @@
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
 - [Annabel Ilo](https://github.com/annabel-ilo)
+- [tewaripiyush43]([https://github.com/tewaripiyush43])
 - [aterzgar](https://github.com/aterzgar)
 - [Patryk Potrec](https://github.com/Patryk-Potrec)
 - [Inno Paolo Burgos de Leoz ☠](https://github.com/innopaolo)
