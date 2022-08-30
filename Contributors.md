@@ -93,6 +93,7 @@
 - [Cody]
 - [Sam Brands](https://github.com/MoosMas)
 - [Savo Bos]
+  [Ari wolf](http://github.com/ariw96)
 - [Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anurag Yadav](https://github.com/Anurag41682)
 - [Dolapo Ogunfowora](https://github.com/oedjoat)
