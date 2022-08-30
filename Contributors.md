@@ -2392,7 +2392,7 @@
 - [b-yenilmez]([https://github.com/b-yenilmez])
 - [hakimuddin-kika]([https://github.com/hakimuddinkika])
 - [Aditya Sundar](https://github.com/adisun94)
-- [Codechickdev](https://github.com/Codechickdev)
+- [Codechickdev](https://github.com/Codechickdev) -[Joshua Ollivierre](https://github.com/shno784)
 - [Gayan Kalinga](https://github.com/bg15407)
 - [Meng Kheang](https://github.com/meangkheang)
 - [Abhishek Singh](https://github.com/singh4758)
