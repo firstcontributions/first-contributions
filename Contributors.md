@@ -16,7 +16,7 @@
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
-- [Rutuja Kharche](https://github.com/rutuja-kharche
+- [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
@@ -184,7 +184,7 @@
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
-- [Shadman Thakur](https://github.com/thakurshadman)
+- [Shadman Thakur](https://github.com/thakurs[hadman)
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
@@ -227,7 +227,8 @@
 - [Yash Dalal](https://github.com/YashDalal11)
 - [Ansh Kaushik]
 - [Cindy Soh]
-  [Izra James](https://github.com/IzraJ)
+- Christian Kelle
+- [Izra James](https://github.com/IzraJ)
 - [Dyte]
 - [Steven Dorsey]
 - [Faizan Khan](https://github.com/lahoreninja)
