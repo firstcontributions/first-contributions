@@ -38,6 +38,7 @@
 - [DijanaPavlovic](https://github.com/DijanaPavlovic)
 - [Min Phone Aung](https://github.com/PeterHyperAung)
 - [George Babii] (https://github.com/georgevlt)
+- [Sohag] https://github.com/soh-ag
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
