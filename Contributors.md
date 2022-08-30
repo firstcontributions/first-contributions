@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Programer3](https://github.com/Programer3)
 - [Tomas Weiskog](https://github.com/Weiskog)
@@ -2491,7 +2492,5 @@
 - [Laura Simoni](https://github.com/lsimonidev)
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
-- [Alejandro Orozco](https://github.com/Marshysaurus)
 - 🇪🇨 Danilo 🇪🇨
-- [Brennan Seymour](https://github.com/brenno263)
 <!-- prettier-ignore-end -->
