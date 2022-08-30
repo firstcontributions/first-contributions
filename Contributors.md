@@ -1011,6 +1011,7 @@
 - [Tqmrik](https://github.com/Tqmrik)
 - [Angel Nieto](https://github.com/N-a290)
 - [Krishna Cheemalapati](https://github.com/krishnacheemalapati)
+- [Arunava Manna](https://github.com/marunava21)
 - [blackbrokkoli](https://github.com/blackbrokkoli)
 - [Nozomu Ohno](https://github.com/nohno23)
 - [Sophearoth Prum](https://github.com/biscuit-lee)
