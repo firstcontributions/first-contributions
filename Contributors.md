@@ -12,6 +12,7 @@
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
+- [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Kanishk Chathley](https://github.com/can-ishk)
