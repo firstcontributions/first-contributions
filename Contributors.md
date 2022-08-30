@@ -313,6 +313,7 @@
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Clark D. Hou](https://github.com/cdh31211811)
 - [Anna Welpa](https://github.com/ann-well)
+- [Hime Arikawa](https://github.com/HimeArikawa)
 - [Samuel Veronese](https://github.com/samuelveronese)
 - [Jaiden Crawford](https://github.com/Crawfish-h)
 - [Ashish Kumar](https://github.com/ASHISHKUMAR2411)
