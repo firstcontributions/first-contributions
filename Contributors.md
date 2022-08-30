@@ -235,6 +235,7 @@
 - Christian Kelle
 - [Izra James](https://github.com/IzraJ)
 - [Dyte]
+- [Tarun Garg] (https://github.com/Evil2004)
 - [Steven Dorsey]
 - [Faizan Khan](https://github.com/lahoreninja)
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
