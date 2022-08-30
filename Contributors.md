@@ -1062,6 +1062,7 @@
 - [v-raikar](https://github.com/vraikar-git)
 - [Bakul Gupta](https://github.com/Bakul-G)
 - [Pritam Roy](https://github.com/pritam2020)
+- [David Rodriguez](https://github.com/DavidRod1865)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
 - [Bo Jangles](https://github.com/Bo-Jangles)
