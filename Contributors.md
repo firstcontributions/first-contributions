@@ -85,6 +85,7 @@
 - [Greg Long](https://github.com/GLcode-44)
 - [Ayesh Biswal](https://github.com/heyyayesh)
 - [Kyaw Kyaw Oo](https://github.com/kyawoo-23)
+- [Ari wolf](http://github.com/ariw96)
 - [Cem Sanga](https://github.com/cemsanga)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Rowland Adimoha](https://github.com/rowjay007)
@@ -93,7 +94,6 @@
 - [Cody]
 - [Sam Brands](https://github.com/MoosMas)
 - [Savo Bos]
-  [Ari wolf](http://github.com/ariw96)
 - [Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anurag Yadav](https://github.com/Anurag41682)
 - [Dolapo Ogunfowora](https://github.com/oedjoat)
