@@ -1297,6 +1297,7 @@
 - [Brick](https://github.com/rickard0)
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
+- [MC]
 - [Drew Springfield](https://github.com/Sohlar)
 - [Prantix] (https://github.com/the1stenhancer)
 - [akis liolios](https://github.com/akis10)
