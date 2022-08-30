@@ -643,6 +643,7 @@
 - [Jazmine "Divine" Arizala](https://github.com/earthlydev)
 - [Shivam Verma](https://github.com/stoppieboy)
 - [Ross Scott](https://github.com/RossDScott)
+- [Fred DSK](https://github.com/FrederikDSK)
 - [Rahul kumar](https://github.com/rahul152-ai)
 - [Mihai Catalui](https://github.com/PowerCreation)
 - [Priyank Patil](https://github.com/priyank003)
