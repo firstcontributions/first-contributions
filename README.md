@@ -168,7 +168,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
    Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
    
-   OR you can go [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for *'Creating a Personal Access Token'* needs to be used in place of the *password* while pushing the branch in the passowrd prompt.
+   OR you can go [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for *'Creating a Personal Access Token'* which needs to be used in place of the *password* while pushing the branch in the passowrd prompt.
 
 </details>
 
