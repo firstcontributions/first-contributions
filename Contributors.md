@@ -35,6 +35,7 @@
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
+- [Alvaro L.](https://github.com/Lawrence4U/)
 - [Swaraj E S]
 - [imbharat420](https://github.com/imbharat420)
 - [DijanaPavlovic](https://github.com/DijanaPavlovic)
