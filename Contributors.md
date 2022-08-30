@@ -2428,6 +2428,7 @@
 - [zcvvvbb](https://github.com/zcvvvbb)
 - [Sebi](https://github.com/Sebastian352)
 - [Rahul Katta](https://github.com/luharine)
+- [RWDai](https://github.com/GodDai)
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
@@ -2454,3 +2455,4 @@
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Israel Yuri](https://github.com/Israel548)
 <!-- prettier-ignore-end -->
+
