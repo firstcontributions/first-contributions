@@ -2247,6 +2247,7 @@
 - [Prince Kumar](https://github.com/imprince26/)
 - [Navaneeth Mohan](https://github.com/nav-mohan/)
 - [Haochen Dong](https://github.com/RekiOwl/)
+- [Kareem Mahlees](https://github.com/kareemmahlees/)
 - [Ario Pratomo](https://github.com/ariopratomo/)
 - [Akarsh](https://github.com/akarshn04/)
 - [Julio Sevillano](https://github.com/AcirDeveloper/)
