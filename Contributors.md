@@ -54,6 +54,7 @@
 - [Ebimobowei Pondei](https://github.com/ebimo21)
 - [Dylan Manfredi](https://github.com/dmanfredi)
 - [ASNaq35]
+- [Farel](https://github.com/farellukas)
 - [Shivankur Singh](https://github.com/Shivankur25)
 - [Samuel Lukudu](https://github.com/samuellukudu)
 - [JasperMiddendorp](https://github.com/JasperMiddendorp/)
