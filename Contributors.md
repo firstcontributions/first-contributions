@@ -33,6 +33,7 @@
 - [Kamil Sitarz]
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Swaraj E S]
+- [imbharat420](https://github.com/imbharat420)
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
