@@ -2436,4 +2436,5 @@
 - [Andhika Kurniwan](https://github.com/AndhikaK)
 - [Aiden Usui](https://github.com/TheActualAids)
 - [Gazi Rahad](https://github.com/gazirahad7)
+- [Israel Yuri](https://github.com/Israel548)
 <!-- prettier-ignore-end -->
