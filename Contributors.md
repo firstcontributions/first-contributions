@@ -278,7 +278,7 @@
 - [Batıhan Özdemir](https://github.com/batihanoz/)
 - [Daniel Callaghan](https://github.com/xiaoniuniu89)
 - [Aeolusw] (https://github.com/Aeolusw)
-  [Nikita Kocherinskiy] (https://github.com/nikitakocherinskiy)
+- [Nikita Kocherinskiy](https://github.com/nikitakocherinskiy)
 - [Terri Iwata]
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
@@ -2462,6 +2462,7 @@
 - [Jon Hussey](https://github.com/jonhussey)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
 - [Aiden Usui](https://github.com/TheActualAids)
+- [roufy235](https://github.com/roufy235)
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Israel Yuri](https://github.com/Israel548)
 - [AamiBhoot 🇧🇩](https://github.com/aamibhoot)
