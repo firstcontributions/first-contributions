@@ -10,6 +10,7 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
+- [Ekkoz897](https://github.com/ekkoz897)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
