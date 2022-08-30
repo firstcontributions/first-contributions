@@ -41,6 +41,7 @@
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Maranda Bui]
+- [Brandon Lwe](https://github.com/brandonlwe98)
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Alvaro L.](https://github.com/Lawrence4U/)
 - [Swaraj E S]
