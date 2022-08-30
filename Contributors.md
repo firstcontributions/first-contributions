@@ -4,6 +4,7 @@
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
+- [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Steven Noyes](https://github.com/SteveNoyes/)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
@@ -11,6 +12,7 @@
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
+- [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Kanishk Chathley](https://github.com/can-ishk)
@@ -35,6 +37,7 @@
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
+- [Alvaro L.](https://github.com/Lawrence4U/)
 - [Swaraj E S]
 - [imbharat420](https://github.com/imbharat420)
 - [DijanaPavlovic](https://github.com/DijanaPavlovic)
