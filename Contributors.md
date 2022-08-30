@@ -35,6 +35,7 @@
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
 - [Amí Naeily](https://github.com/pinkhairs)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
+- [Dylan Manfredi](https://github.com/dmanfredi)
 - [ASNaq35]
 - [Shivankur Singh](https://github.com/Shivankur25)
 - [Samuel Lukudu](https://github.com/samuellukudu)
