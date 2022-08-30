@@ -2493,6 +2493,7 @@
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
 - [Alejandro Orozco](https://github.com/Marshysaurus)
+- [Jacob Larson](https://github.com/larson15)
 - 🇪🇨 Danilo 🇪🇨
 - [Brennan Seymour](https://github.com/brenno263)
 <!-- prettier-ignore-end -->
