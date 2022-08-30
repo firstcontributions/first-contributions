@@ -2492,4 +2492,5 @@
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
 - 🇪🇨 Danilo 🇪🇨
+- [Brennan Seymour](https://github.com/brenno263)
 <!-- prettier-ignore-end -->
