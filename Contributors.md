@@ -113,6 +113,7 @@
 - [Clemens Ege](https://github.com/clemensege)
 - [Abel Yo](https://github.com/abelyo26)
 - [Saksham Hans](https://github.com/saksham28hans)
+- [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
@@ -314,6 +315,7 @@
 - [Jae Lee](https://github.com/jaegl)
 - [shahin rizwana](https://github.com/shahin2003)
 - [Kael](https://github.com/Dwctor)
+- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -2430,4 +2432,5 @@
 - [Jon Hussey](https://github.com/jonhussey)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
 - [Aiden Usui](https://github.com/TheActualAids)
+- [Gazi Rahad](https://github.com/gazirahad7)
 <!-- prettier-ignore-end -->
