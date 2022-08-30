@@ -34,6 +34,8 @@
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Swaraj E S]
 - [imbharat420](https://github.com/imbharat420)
+- [DijanaPavlovic](https://github.com/DijanaPavlovic)
+- [George Babii] (https://github.com/georgevlt)
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
@@ -2245,7 +2247,8 @@
 - [Ahmed Albarghouti](https://github.com/AhmedAlbarghouti)
 - [taimoon](https://github.com/taimoon)
 - [piki-zhu](https://github.com/piki-zhu)
-- [Hubert Ooi](https://github.com/hubertooi) -[Pelumi Olukayode](https://github.com/OluPel)
+- [Hubert Ooi](https://github.com/hubertooi)
+- [Pelumi Olukayode](https://github.com/OluPel)
 - [Michael Mohlomi] (https://github.com/MohlomiKM)
 - [Rahul Saraf](https://github.com/Rahulsaraf1578)
 - [Michael Mohlomi](https://github.com/MohlomiKM)
