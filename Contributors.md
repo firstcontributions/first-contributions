@@ -72,6 +72,7 @@
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
+- [Shruti Ghosh](https://github.com/neo-shruti-ghosh)
 - [Ashu Kumar](https://github.com/Ashu-kumar40)
 - [Melvin Jones Repol](https://github.com/mrepol742)
 - [Ayomide Ajayi](https://github.com/ayo-ajayi)
