@@ -89,6 +89,7 @@
 - [Jeffrey Chao](https://github.com/jchaodubs)
 - [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
+- [Raymond Jin](https://github.com/Jinray1)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Denys Makene](https://github.com/Denysmak)
 - [Beki Drobs](https://github.com/Beki-D)
