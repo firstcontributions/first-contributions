@@ -2467,4 +2467,5 @@
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Israel Yuri](https://github.com/Israel548)
 - [AamiBhoot 🇧🇩](https://github.com/aamibhoot)
+- [Laura Simoni](https://github.com/lsimonidev)
 <!-- prettier-ignore-end -->
