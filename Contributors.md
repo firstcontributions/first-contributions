@@ -4,6 +4,7 @@
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
+- [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Steven Noyes](https://github.com/SteveNoyes/)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
