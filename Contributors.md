@@ -87,6 +87,7 @@
 - [Durgesh Babu](https://github.com/Durgesh-babu/)
 - [Sebastian](https://github.com/sxybeast)
 - [Brrrak](https://github.com/brrrak)
+- [n53337](https://github.com/n53337)
 - [Vikrant Patil](https://github.com/vikrantpatil7)
 - [Usman Ali](https://github.com/usmaan-aali)
 - [Mohamed Moulay](https://github.com/Medmly20208)
