@@ -2459,5 +2459,5 @@
 - [Aiden Usui](https://github.com/TheActualAids)
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Israel Yuri](https://github.com/Israel548)
+- [AamiBhoot 🇧🇩](https://github.com/aamibhoot)
 <!-- prettier-ignore-end -->
-
