@@ -2493,4 +2493,5 @@
 - [Carlos Alcala](https://github.com/calcala12)
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - 🇪🇨 Danilo 🇪🇨
+- [Brennan Seymour](https://github.com/brenno263)
 <!-- prettier-ignore-end -->
