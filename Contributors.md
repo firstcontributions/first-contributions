@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Steven Noyes](https://github.com/SteveNoyes/)
@@ -66,6 +66,7 @@
 - [Tracey Huang](https://github.com/Traceydh)
 - [Ashu Kumar](https://github.com/Ashu-kumar40)
 - [Melvin Jones Repol](https://github.com/mrepol742)
+- [Ayomide Ajayi](https://github.com/ayo-ajayi)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
