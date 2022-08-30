@@ -635,6 +635,7 @@
 - [Rohith Ramanathan] (https://github.com/rohram04)
 - [Anand Dubey]
 - [JustEasyOptions]
+- [Alik Balika] (https://github.com/alik-balika)
 - [JasonSolace](https://github.com/JasonSolace)
 - [Vasu Devrani](https://github.com/VasuDevrani)
 - [Ashwath Stark](https://github.com/ashwathstark)
