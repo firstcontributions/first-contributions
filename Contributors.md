@@ -315,7 +315,8 @@
 - [Jae Lee](https://github.com/jaegl)
 - [shahin rizwana](https://github.com/shahin2003)
 - [Kael](https://github.com/Dwctor)
-- [Jae Lee](https://github.com/jaegl) -[shahin rizwana](https://github.com/shahin2003)
+- [Jae Lee](https://github.com/jaegl)
+- [shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
@@ -354,6 +355,7 @@
 - [Rainb0-0](https://github.com/Rainb0-0)
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [Amit]
+- [Shino]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -2408,7 +2410,8 @@
 - [SnakeJoker](https://github.com/SnakeJoker)
 - [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
-- [zcvvvbb](https://github.com/zcvvvbb) -[Rahul Katta](https://github.com/luharine)
+- [zcvvvbb](https://github.com/zcvvvbb)
+- [Rahul Katta](https://github.com/luharine)
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
