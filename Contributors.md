@@ -96,6 +96,7 @@
 - [Ethan]
 - [Raymond Jin](https://github.com/Jinray1)
 - [Vishesh Rathi](https://github.com/rathi710)
+- [Phuoc Nguyen] (https://github.com/thiennp94)
 - [Denys Makene](https://github.com/Denysmak)
 - [Beki Drobs](https://github.com/Beki-D)
 - [Mg Khin mg Htet](https://github.com/Matthtica)
