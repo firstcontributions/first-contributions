@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tiago Pavani.](https://github.com/PavaniTiago)
+- [Max Bromet] (https://github.com/mbromet)
 - [Programer3](https://github.com/Programer3)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
