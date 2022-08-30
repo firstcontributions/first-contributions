@@ -1962,6 +1962,7 @@
 - [Pranay Singh](https://github.com/singhpranay06)
 - [James Ballow](https://github.com/jmb11x)
 - [Ben Mead](github.com/bmead221)
+- [Kaya Zdan](https://github.com/kaya-sz)
 - [Tom Gooding](https://github.com/TomJGooding)
 - [Aleks Hatfield](https://github.com/aleks-hat)
 - [Aavash Chhetri](https://github.com/A-atmos)
