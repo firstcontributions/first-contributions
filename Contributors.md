@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Tiago Pavani](https://github.com/PavaniTiago)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Steven Noyes](https://github.com/SteveNoyes/)
