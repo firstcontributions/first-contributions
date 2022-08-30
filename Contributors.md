@@ -1136,6 +1136,7 @@
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [Dhrumi Shah](https://github.com/dhrumishah)
+- [Nicola Maritan] (https://github.com/nicolamaritan)
 - [Julian](https://github.com/JulianToppo)
 - [Kiran Kumar](https://github.com/CodingKiran)
 - [Arjun M](https://github.com/arjunm2305)
