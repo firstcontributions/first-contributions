@@ -77,6 +77,7 @@
 - [Ayomide Ajayi](https://github.com/ayo-ajayi)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Harsh Walia](https://github.com/waliaharsh74)
+- [Aditya Raj](https://github.com/rajaditya1306)
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
