@@ -300,6 +300,7 @@
 - [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
 - [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
+- [Limark Dcunha](https://github.com/limarkdcunha)
 - [Emma Sargent](https://github.com/eksargent)
 - [Shubham Gupta](https://github.com/shubham-gupta-16)
 - [James](https://github.com/StreetsJ)
