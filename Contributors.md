@@ -2292,6 +2292,7 @@
 - [Chady] (https://github.com/T-Chady)
 - [vinay] (https://github.com/chelpuri)
 - [Gagan Pabla](https://github.com/CrownPab)
+  [Bipin Neupane](https://github.com/BipinNeupane)
 - [TOPetit](https://github.com/TOPetit)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Juraj Seman] (https://github.com/Ged223)
