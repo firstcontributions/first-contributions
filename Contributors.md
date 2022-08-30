@@ -16,6 +16,7 @@
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
+- [Bilal Özkırış](https://github.com/bilalOzkiris)
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
