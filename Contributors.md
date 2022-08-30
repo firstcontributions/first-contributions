@@ -93,6 +93,7 @@
 - [piyushbhawsar](https://github.com/piyushbhawsar)
 - [Fettah Aud](https://github.com/FettahAud)
 - [Jeffrey Chao](https://github.com/jchaodubs)
+- [Alex Reynolds](https://github.com/Alex-Reynolds)
 - [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
 - [Raymond Jin](https://github.com/Jinray1)
