@@ -2491,5 +2491,6 @@
 - [Laura Simoni](https://github.com/lsimonidev)
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
+- [Nathan Frank](https://github.com/natefrank48)
 - 🇪🇨 Danilo 🇪🇨
 <!-- prettier-ignore-end -->
