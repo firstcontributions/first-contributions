@@ -822,6 +822,7 @@
 - [Shrey patel](https://github.com/shrey0303)
 - [Anand Chaudahry](https://github.com/anandchaudhary854)
 - [Deep](https://github.com/just2deep)
+-[thuan-le](https://github.com/LorenThuan)
 - [Henry Burii](https://github.com/buriihenry)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Bryan Emond](https://github.com/BryanEmond)
