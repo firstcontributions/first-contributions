@@ -2029,6 +2029,7 @@
 - [Aditya Chnahdoke](https://github.com/Puskchan)
 - [tobisupreme](https://github.com/tobisupreme)
 - [Shtevie](https://github.com/shtevie)
+- [Aikan Shykhmamedov](https://github.com/AikanShykhmamedov)
 - [Olly Overend](https://github.com/OliverOverend)
 - [Koranteng Anane](https://github.com/squidiw)
 - [Abhishek Gururani](https://github.com/gururani-abhishek)
