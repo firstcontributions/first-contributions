@@ -21,6 +21,7 @@
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
 - [Meet Rajput](https://github.com/MeetRajput00)
+- [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Varun Ratnani](https://github.com/varun1002)
 - [Crimsonshade](https://github.com/crimsonshade)
