@@ -87,6 +87,7 @@
 - [Keith Hoffman](https://github.com/khoffLSU)
 - [Gigi](https://github.com/provdxc366)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
+- [Kyle Goben](https://https://github.com/kygoben)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Tru-tru](https://github.com/Tru-tru)
 - [piyushbhawsar](https://github.com/piyushbhawsar)
@@ -2491,6 +2492,5 @@
 - [Laura Simoni](https://github.com/lsimonidev)
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
-- [Alejandro Orozco](https://github.com/Marshysaurus)
 - 🇪🇨 Danilo 🇪🇨
 <!-- prettier-ignore-end -->
