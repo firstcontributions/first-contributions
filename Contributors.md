@@ -553,6 +553,7 @@
 - [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
 - [Jackbaklava](https://github.com/Jackbaklava)
+- [Joachim Christensen] (https://github.com/joachr)
 - [James Coates](https://github.com/nexuspcs)
 - [Aaron Bermudez](https://github.com/AaronB3110)
 - [Ankit Bisen](https://github.com/ankitbisen28)
