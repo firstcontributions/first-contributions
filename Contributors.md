@@ -1492,6 +1492,7 @@
 - [Pawel Lasatowicz](https://github.com/Pawlikon)
 - [Kelby Rose](https://github.com/kelby-rose/)
 - [Bartosz Milew](https://github.com/BartekMilew)
+- [Sebastian Alexander](https://github.com/seb-lex)
 - [Saadman Galib](https://github.com/saadman-galib)
 - [Thomas Stevens](https://github.com/ThomasAlanStevens)
 - [Ethen](https://github.com/ethenpage)
