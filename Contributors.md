@@ -139,6 +139,7 @@
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
 - [Evan Nevermore](https://github.com/infiniteinsight)
+- [Evan Nevermore](https://github.com/Ekkoz897)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Zaid Marrie](https://github.com/ZaidMarrie)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
