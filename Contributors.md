@@ -57,6 +57,7 @@
 - Harsit Agarwalla
 - [Aditya Sapate]
 - [Ahmed Tarek](https://github.com/ahmedtarekabd)
+- [Jatin Batra] (https://github.com/Crystal11101)
 - Aarav raj
 - [Mohsen Ameli](https://github.com/mohsen-ameli)
 - [STeverino]
