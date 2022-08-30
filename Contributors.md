@@ -18,6 +18,7 @@
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
+- [Nikhil]
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
