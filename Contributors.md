@@ -32,6 +32,7 @@
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
+- [Swaraj E S]
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
