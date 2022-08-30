@@ -2480,4 +2480,5 @@
 - [Israel Yuri](https://github.com/Israel548)
 - [AamiBhoot 🇧🇩](https://github.com/aamibhoot)
 - [Laura Simoni](https://github.com/lsimonidev)
+- [Ulysses Leal](https://github.com/ULYBR)
 <!-- prettier-ignore-end -->
