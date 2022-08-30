@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Programer3](https://github.com/Programer3)
+- [Abel Pereira](https://github.com/Ekkoz897)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
@@ -143,6 +144,7 @@
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
 - [Evan Nevermore](https://github.com/infiniteinsight)
+- [Evan Nevermore](https://github.com/Ekkoz897)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Zaid Marrie](https://github.com/ZaidMarrie)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
