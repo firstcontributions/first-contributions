@@ -1532,6 +1532,7 @@
 - [Christian Larson](https://github.com/degenerating)
 - [color00](https://github.com/color00)
 - [Philippa Olomoro](https://github.com/Philippaolomoro)
+- [Daniel Oppermann](https://github.com/danieloppermann)
 - [Devhoss](https://github.com/Devhoss)
 - [Rishiraj Chandra](https://github.com/rchandra20)
 - [Hampton Ford](https://github.com/shford)
