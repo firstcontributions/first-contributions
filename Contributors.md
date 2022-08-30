@@ -16,7 +16,7 @@
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
-- [Rutuja Kharche](https://github.com/rutuja-kharche
+- [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
