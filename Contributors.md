@@ -171,6 +171,7 @@
 - [Neikoli Augustine](https://github.com/niico868)
 - [Logan Phan](https://github.com/letsgologan)
 - [Esther Idabor](https://github.com/EstherIdabor)
+- [Pavan Rathod](https://github.com/Pavanarathod)
 - [Abhijith0807]
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
 - [frantic-dev] (https://github.com/frantic-dev)
