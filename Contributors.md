@@ -1159,6 +1159,7 @@
 - [David Borry](https://github.com/davidborry)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
+- [Derek Thomas](https://github.com/derekt7)
 - [Md Anisur Rahman](https://github.com/a-n-i-s)
 - [Noshin Nawar Neha](https://github.com/nehanawar025)
 - [Aliyu Gambo Aliyu](https://github.com/Aliyugambo)
