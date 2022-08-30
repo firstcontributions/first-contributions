@@ -2419,6 +2419,7 @@
 - [Yash Maurya](https://github.com/Kriyash)--:)
 - [Aishwar Pathak](https://github.com/mrworld196wide)
 - [zcvvvbb](https://github.com/zcvvvbb)
+- [Sebi](https://github.com/Sebastian352)
 - [Rahul Katta](https://github.com/luharine)
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
