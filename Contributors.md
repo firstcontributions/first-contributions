@@ -2491,5 +2491,6 @@
 - [Laura Simoni](https://github.com/lsimonidev)
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
+- [Ryan Tullis](https://github.com/ryantullis)
 - 🇪🇨 Danilo 🇪🇨
 <!-- prettier-ignore-end -->
