@@ -459,6 +459,7 @@
 - [Dave Collison](https://github.com/thebigdavec)
 - [Sagar M](https://github.com/SagarSSMK)
 - [Brian]()
+- [Christoffer Molinder](https://github.com/Kyurino)
 - [Mullerio] (https://github.com/Mullerio)
 - [Utkarsh Joshi](https://github.com/utkarshjosh)
 - [Fadi Badarni](https://github.com/FadiBadarni)
