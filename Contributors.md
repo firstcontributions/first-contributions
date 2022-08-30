@@ -1500,6 +1500,7 @@
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Keisha Shanice](https://github.com/KeishaShanice)
+- [Lydia McCleary] (https://github.com/mcclelyd)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Christian Lhie Besmanos](https://github.com/cellbesmanos)
 - [Luna Bean](https://github.com/Luna-Bean)
