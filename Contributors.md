@@ -28,6 +28,7 @@
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
+- [Emmanuel Okoh](https://github.com/otizgit)
 - [Varun Ratnani](https://github.com/varun1002)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
