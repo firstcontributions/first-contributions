@@ -132,6 +132,7 @@
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
 - [Mashinsp](https://github.com/mashinsp)
 - [Gianpaolo Branca](https://github.com/GianpaoloBranca)
+- [Anup Timsina](https://github.com/anup514)
 - [Nickolas Tazes] (https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
