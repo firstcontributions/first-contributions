@@ -167,7 +167,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
    Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
-   **OR** you can go [here](https://desktop.github.com/images/desktop-icon.svg" width="100") for *'Creating a personal access token'* which you have to use in place of the **password promt** while pushing the branch.
+   **OR** you can go [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for *'Creating a personal access token'* which you have to use in place of the **password promt** while pushing the branch.
 
 </details>
 
