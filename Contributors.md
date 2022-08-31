@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Conner Cook](https://github.com/conner-c)
@@ -98,6 +99,7 @@
 - [Keith Hoffman](https://github.com/khoffLSU)
 - [Gigi](https://github.com/provdxc366)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
+- [Kyle Goben](https://https://github.com/kygoben)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Tru-tru](https://github.com/Tru-tru)
 - Caleb
@@ -2522,6 +2524,7 @@
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
 - [Ryan Tullis](https://github.com/ryantullis)
+- [Chase Thompson](https://github.com/CThompson01)
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - [Jacob Larson](https://github.com/larson15)
 - 🇪🇨 Danilo 🇪🇨
