@@ -166,6 +166,7 @@
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Konrad Urban](https://github.com/knrdrbn)
 - [Arjun Choudhury](https://github.com/arjunchoudhury07)
+- [ Mustafa Shahzad](https://github.com/MoosetafaDev)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
