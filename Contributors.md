@@ -1945,6 +1945,7 @@
 - [Kurt Malley](https://github.com/kmal808)
 - [Priyansh Singh](https://github.com/PriyanshSingh167)
 - [Shashank S](https://github.com/Shashankshaji)
+- [BlingDan ](https://github.com/BlingDan)
 - [Arun Pandey](https://github.com/EigenPandey)
 - [Elias Burgstaller](https://github.com/eliburgi)
 - [pastequeninja](https://github.com/pastequeninja)
