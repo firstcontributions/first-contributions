@@ -2590,4 +2590,5 @@
 - [sanjai_3]([https://github.com/sanjail3])
 - [Boateng Dickson](https://github.com/dboatengg)
 - [Farjad Anwar](https://github.com/FarjadAnwar3)
+- [Elias Howell](https://github.com/eliasjameshowell)
 <!-- prettier-ignore-end -->
