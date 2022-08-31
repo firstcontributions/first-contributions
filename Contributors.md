@@ -228,6 +228,7 @@
 - [Meric Peddle](https://github.com/gjpeddle)
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar] (https://github.com/SadhakKumar)
+- [Frank Sullivan] (https://github.com/franks1-svg)
 - [Hassana Abdullahi](https://github.com/hassana123)
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Nafis Bin Nizam](https://github.com/Naf256)
