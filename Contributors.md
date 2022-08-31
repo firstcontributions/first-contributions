@@ -33,8 +33,7 @@
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
-- [Kanishk Chathley](https://github.com/can-ishk)
--[Arjun R Warrier](https://github.com/arjunrwarrier)
+- [Kanishk Chathley](https://github.com/can-ishk) -[Arjun R Warrier](https://github.com/arjunrwarrier)
 - [Brian Wayne]
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
@@ -561,6 +560,7 @@
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Nash Vador](https://github.com/nashvador)
 - [Sean Anderson](https://github.com/haker2500)
+- [Kelsey Alderman](https://github.com/kelseyalderman)
 - [Vennila Pugazhenthi](https://github.com/VennilaPugazhenthi)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
