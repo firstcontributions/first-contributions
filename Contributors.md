@@ -205,6 +205,7 @@
 - [Rushabh Modi](https://github.com/rushabh0021)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
+- [Mohammed Aasif](https://github.com/Aasif-tecno)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda](https://github.com/acastaneda10)
