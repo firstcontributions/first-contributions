@@ -2440,6 +2440,7 @@
 - [Amanda Sherman] (https://github.com/AmandaSherman)
 - [Hassam Ud Din] (https://github.com/hassamboi)
 - [Joseph Lett] (https://github.com/josephlett)
+- [Anish Aggarwal] (https://github.com/AnishAggarwal71)
 - [Restu Rizkiawan] (https://github.com/masrestu)
 - [Bhargav Sompura] (https://github.com/bhargav070)
 - [Rondo Chen] (https://github.com/rondochen)
