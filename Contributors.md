@@ -47,6 +47,7 @@
 - [Hyeyoung Lucia Lee](https://github.com/Hyeyoung-Lucia)
 - [George Babii](https://github.com/georgevlt)
 - [Cyber Thunder Storm](https://github.com/cyberthunderstorm/)
+- [ChiragChrg](https://github.com/ChiragChrg)
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Maranda Bui]
