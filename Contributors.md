@@ -1850,6 +1850,7 @@
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
 - [diana](https://github.com/difince)
 - [Tima Gixe](https://github.com/timagixe)
+- [Siraj Sharma](https://github.com/sirajsharma)
 - [Saurabh Kumar Singh](https://github.com/singh1203)
 - [Yanna Lin](https://github.com/linyanna)
 - [Caroline SENES](https://github.com/CarolineSenes)
