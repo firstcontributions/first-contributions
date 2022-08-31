@@ -20,6 +20,7 @@
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
+- [Lukasz Sikora](https://github.com/lsikora1)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
