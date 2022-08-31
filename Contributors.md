@@ -253,6 +253,7 @@
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
 - [Alejandro Gonzalez Buffo](https://github.com/alegb91)
+- [Martin Lahr](https://github.com/martin-lahr)
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
