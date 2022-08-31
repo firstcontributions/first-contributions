@@ -215,6 +215,7 @@
 - [Ilyas Rufai](https://github.com/rufilboy)
 - [Neikoli Augustine](https://github.com/niico868)
 - [Logan Phan](https://github.com/letsgologan)
+- [Dima Smaha](https://github.com/DimaSmaha)
 - [Esther Idabor](https://github.com/EstherIdabor)
 - [Pavan Rathod](https://github.com/Pavanarathod)
 - [Abhijith0807]
