@@ -2557,4 +2557,5 @@
   [Yiheng qiu](https://github.com/Oscar_Qiu)
 - [Nexus](https://github.com/NexushasTaken)
 - [Hans3121](https://github.com/hans31212)
+- [Samuel Maltais](https://github.com/SamuelMaltais)
 <!-- prettier-ignore-end -->
