@@ -21,6 +21,7 @@
 - [TAZER](https://github.com/ajtazer)
 - [Nikhil]
 - [Hicham Maachou](https://github.com/hichammaachou)
+- [Jay Froment-Rudder](https://github.com/jfromentrudder)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Brian Wayne]
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
