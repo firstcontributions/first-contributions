@@ -33,6 +33,7 @@
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
 - [Kanishk Chathley](https://github.com/can-ishk)
+-[Arjun R Warrier](https://github.com/arjunrwarrier)
 - [Brian Wayne]
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
