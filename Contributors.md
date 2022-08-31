@@ -443,9 +443,9 @@
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
 - [Sat Naing](https://github.com/satnaing)
+- [Adwait Deshpande](https://github.com/adwaitdeshpande-and)
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
-  aestadt
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
 - [Bryan Chen](https://github.com/bryancheny)
