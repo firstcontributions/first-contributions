@@ -2575,4 +2575,5 @@
 - [Hans3121](https://github.com/hans31212)
 - [Samuel Maltais](https://github.com/SamuelMaltais)
 - [Karthick Kumar](https://github.com/karthickkumar7)
+- [Randy Tran]([https://github.com/quangtran88])
 <!-- prettier-ignore-end -->
