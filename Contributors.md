@@ -2594,4 +2594,5 @@
 - [Boateng Dickson](https://github.com/dboatengg)
 - [Farjad Anwar](https://github.com/FarjadAnwar3)
 - [Elias Howell](https://github.com/eliasjameshowell)
+- [Vision1224](https://github.com/Vision1224)
 <!-- prettier-ignore-end -->
