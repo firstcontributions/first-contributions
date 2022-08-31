@@ -1375,6 +1375,7 @@
 - [Brick](https://github.com/rickard0)
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
+- [majwic](https://github.com/majwic)
 - [MC]
 - [Drew Springfield](https://github.com/Sohlar)
 - [Prantix] (https://github.com/the1stenhancer)
