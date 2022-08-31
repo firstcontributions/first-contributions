@@ -152,6 +152,7 @@
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [RaviVarma-Bandi](https://github.com/RaviVarma-Bandi)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
+- [Ali Samhat](https://github.com/Alinferno)
 - [Aircraft192](https://github.com/Aircraft192/)
 - [ASAHASRABUDH](https://github.com/asahasrabudhe)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
