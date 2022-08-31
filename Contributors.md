@@ -554,7 +554,6 @@
 - [ToySoldi3rr](https://github.com/ToySoldi3rr)
 - [Tony Wang](https://github.com/ReconDoge)
 - [Tushar Pathak](https://github.com/tushar54594)
-- [Naresh M](https://github.com/naresh-webdev)
 - [Varun Shah](https://github.com/varun-1004)
 - [Yusuke](https://github.com/yk-jp)
 - [Kitamado](https://github.com/Seasawher)
