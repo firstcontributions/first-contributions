@@ -4,6 +4,7 @@
 
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
+- [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Kunal Shah] (https://github.com/kunalkshah1)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
