@@ -2542,4 +2542,5 @@
 - [Derrick Wright](https://github.com/Kcops11)
 - [Albert Gomez](https://github.com/agomez-aj)
   [Yiheng qiu](https://github.com/Oscar_Qiu)
+- [Nexus](https://github.com/NexushasTaken)
 <!-- prettier-ignore-end -->
