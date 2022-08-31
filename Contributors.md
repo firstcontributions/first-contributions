@@ -266,6 +266,7 @@
 - [Frederik Franzen]
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
+- [Brandon Bentley](https://github.com/BBentleyDev)
 - [Meric Peddle](https://github.com/gjpeddle)
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar] (https://github.com/SadhakKumar)
