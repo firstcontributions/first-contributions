@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Julian Schiedel] (https://github.com/palladio11)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Kunal Shah] (https://github.com/kunalkshah1)
