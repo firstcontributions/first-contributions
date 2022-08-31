@@ -2498,6 +2498,7 @@
 - [Tyyo1999](https://github.com/tyyo1999)
 - [Jon Hussey](https://github.com/jonhussey)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
+- [Kiara Sta Maria](https://github.com/allysm)
 - [Aiden Usui](https://github.com/TheActualAids)
 - [roufy235](https://github.com/roufy235)
 - [Gaurav Singh](https://github.com/grv-sngh/)
