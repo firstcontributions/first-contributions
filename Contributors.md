@@ -4,6 +4,7 @@
 
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
+-[Prakhar](https://github.com/prakhar2010030)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
