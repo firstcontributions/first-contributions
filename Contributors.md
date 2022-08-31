@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Beshir Saeed] (https://github.com/Bishosba)
+- [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 -[Prakhar](https://github.com/prakhar2010030)
