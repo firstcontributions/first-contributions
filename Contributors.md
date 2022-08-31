@@ -16,6 +16,7 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
+- [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
@@ -117,6 +118,7 @@
 - [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
 - [Raymond Jin](https://github.com/Jinray1)
+- [Maaz Bashir](https://github.com/Maazoo)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Phuoc Nguyen] (https://github.com/thiennp94)
 - [Denys Makene](https://github.com/Denysmak)
@@ -199,6 +201,7 @@
 - [Ali Samhat](https://github.com/Alinferno)
 - [Aircraft192](https://github.com/Aircraft192/)
 - [ASAHASRABUDH](https://github.com/asahasrabudhe)
+- [Abhishek Kumar](https://github.com/abhishek44priv)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Romel Williams](https://github.com/omerome83)
@@ -265,6 +268,7 @@
 - [Frederik Franzen]
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
+- [Brandon Bentley](https://github.com/BBentleyDev)
 - [Meric Peddle](https://github.com/gjpeddle)
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar] (https://github.com/SadhakKumar)
@@ -1470,6 +1474,7 @@
 - [Michaela](https://github.com/Michaela-K)
 - [Nguyen Quoc Tran](https://github.com/NguyenTran88)
 - [Hattie Tavares](https://github.com/HattieTavares)
+- [Sian Lee](https://github.com/chicori3)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
 - [kciccolella](https://github.com/kciccolella)
@@ -2593,4 +2598,6 @@
 - [Farjad Anwar](https://github.com/FarjadAnwar3)
 - [Elias Howell](https://github.com/eliasjameshowell)
 - [Egar Pramana](https://github.com/babylittlepony)
+- [Vision1224](https://github.com/Vision1224)
+- [KARAN K K](https://github.com/KKK2504)
 <!-- prettier-ignore-end -->
