@@ -622,6 +622,7 @@
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Hoai-An Phan](https://github.com/hoaian-phan)
 - [Eugene Kim](https://github.com/beyondGnE/)
+- [Tarek Mo](https://github.com/tarek-mo)
 - [let-light-shine](https://github.com/let-light-shine)
 - [Dhanush Kamath](https://github.com/dhanushkamath)
 - [Ricky Hernandez](https://github.com/code2244)
