@@ -2507,6 +2507,7 @@
 - [Gaurav Singh](https://github.com/grv-sngh/)
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Sam R]
+- [Kyle Geerts]
 - [Israel Yuri](https://github.com/Israel548)
 - [AamiBhoot 🇧🇩](https://github.com/aamibhoot)
 - [Laura Simoni](https://github.com/lsimonidev)
