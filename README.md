@@ -70,9 +70,9 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims to simplify and guide the way beginners make their first contribution  . If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -157,7 +157,7 @@ Push your changes using the command `git push`:
 git push origin -u <add-your-branch-name>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+replacing  `<add-your-branch-name>` with the name of the branch you created earlier.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
