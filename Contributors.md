@@ -169,6 +169,7 @@
 - [Arjun Choudhury](https://github.com/arjunchoudhury07)
 - [ Mustafa Shahzad](https://github.com/MoosetafaDev)
 - [Coker Opeyemi](https://github.com/CokerOpeyemi)
+- [Jarone McCorkle](https://github.com/jcork4real)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
