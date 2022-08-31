@@ -168,6 +168,7 @@
 - [Konrad Urban](https://github.com/knrdrbn)
 - [Arjun Choudhury](https://github.com/arjunchoudhury07)
 - [ Mustafa Shahzad](https://github.com/MoosetafaDev)
+- [Coker Opeyemi](https://github.com/CokerOpeyemi)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
