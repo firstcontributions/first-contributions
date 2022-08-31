@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tiago Pavani.](https://github.com/PavaniTiago)
+- [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Conner Cook](https://github.com/conner-c)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
