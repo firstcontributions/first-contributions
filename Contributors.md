@@ -1289,6 +1289,7 @@
 - [Georgie Conway](https://github.com/dopeantelope)
 - [Victory Quiah](https://github.com/vquiah)
 - [Bo Latt](https://github.com/bolattt)
+- [M Wallin](https://github.com/miwallin)
 - [Sanjaya J Shetty](https://github.com/SanjayShetty01)
 - [mouss3abbb](https://github.com/mouss3abbb)
 - [Eric Neves](https://github.com/EricNeves)
