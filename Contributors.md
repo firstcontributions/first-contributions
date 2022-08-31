@@ -1158,6 +1158,7 @@
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
+- [Daniel Ramirez](https://github.com/danielrs95)
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
 - [Iano Njuguna](https://github.com/IanoNjuguna)
 - [Mahaveer Jain](https://github.com/mahaveer82)
