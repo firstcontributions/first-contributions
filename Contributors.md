@@ -4,6 +4,7 @@
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
+- [samadpls](https://github.com/samadpls)
 - [Conner Cook](https://github.com/conner-c)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
