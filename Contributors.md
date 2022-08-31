@@ -22,6 +22,7 @@
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
 - [Nikhil]
+- [Muthu](https://github.com/samurai-3)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
