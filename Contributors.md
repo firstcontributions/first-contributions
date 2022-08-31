@@ -2616,4 +2616,5 @@
 - [Egar Pramana](https://github.com/babylittlepony)
 - [Vision1224](https://github.com/Vision1224)
 - [KARAN K K](https://github.com/KKK2504)
+- [Ryan Whitman](https://github.com/rmwhitman)
 <!-- prettier-ignore-end -->
