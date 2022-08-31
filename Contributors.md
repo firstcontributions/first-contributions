@@ -2581,4 +2581,5 @@
 - [Karthick Kumar](https://github.com/karthickkumar7)
 - [Randy Tran]([https://github.com/quangtran88])
 - [sanjai_3]([https://github.com/sanjail3])
+- [Boateng Dickson](https://github.com/dboatengg)
 <!-- prettier-ignore-end -->
