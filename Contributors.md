@@ -44,6 +44,7 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
+- [Roshan Christy](https://github.com/roshan-christy)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
 - [Meet Rajput](https://github.com/MeetRajput00)
