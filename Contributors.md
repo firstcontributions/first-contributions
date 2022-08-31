@@ -5,6 +5,7 @@
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
+- [Rattanan Runguthai](https://github.com/NoMoneyDev)
 - [samadpls](https://github.com/samadpls)
 - [Conner Cook](https://github.com/conner-c)
 - [Programer3](https://github.com/Programer3)
