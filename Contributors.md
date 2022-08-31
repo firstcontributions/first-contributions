@@ -272,6 +272,7 @@
 - [YazanDev]
 - [Geferson Araujo](https://github.com/nosrefeg)
   [Shubham Yadav]
+- [Anas Noor](https://github.com/anasmohd50)
   [Conner Murowchick]
   [Ana212dev]
 - [Paul Mazzia]
