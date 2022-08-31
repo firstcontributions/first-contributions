@@ -25,6 +25,7 @@
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
+- [Elena Cherpakova](https://github.com/ElenaCherpakova)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Lukasz Sikora](https://github.com/lsikora1)
