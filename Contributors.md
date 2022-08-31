@@ -178,6 +178,7 @@
 - [Anup Timsina](https://github.com/anup514)
 - [Nickolas Tazes](https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
+- [Fran Munoz](https://github.com/Salex1323)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Justin Fiset](https://github.com/requin5)
 - [Ahmad Afghan](https://github.com/AhmadCR7)
