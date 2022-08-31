@@ -2522,6 +2522,7 @@
 - [Laura Simoni](https://github.com/lsimonidev)
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
+- [Chase Thompson](https://github.com/CThompson01)
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - [Jacob Larson](https://github.com/larson15)
 - 🇪🇨 Danilo 🇪🇨
