@@ -22,6 +22,7 @@
 - [Nikhil]
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Kanishk Chathley](https://github.com/can-ishk)
+- [Brian Wayne]
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
 - [Bilal Özkırış](https://github.com/bilalOzkiris)
