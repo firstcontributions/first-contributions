@@ -2524,10 +2524,12 @@
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
 - [Nathan Frank](https://github.com/natefrank48)
+- [Ryan Tullis](https://github.com/ryantullis)
 - [Chase Thompson](https://github.com/CThompson01)
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - [Jacob Larson](https://github.com/larson15)
 - 🇪🇨 Danilo 🇪🇨
+- [Justin Kenny]
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
 - [Albert Gomez](https://github.com/agomez-aj)
