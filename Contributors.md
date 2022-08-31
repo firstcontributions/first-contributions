@@ -1469,6 +1469,7 @@
 - [Michaela](https://github.com/Michaela-K)
 - [Nguyen Quoc Tran](https://github.com/NguyenTran88)
 - [Hattie Tavares](https://github.com/HattieTavares)
+- [Sian Lee](https://github.com/chicori3)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
 - [kciccolella](https://github.com/kciccolella)
