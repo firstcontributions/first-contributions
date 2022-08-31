@@ -254,6 +254,7 @@
   [Conner Murowchick]
   [Ana212dev]
 - [Paul Mazzia]
+- [Ainara Machargo](https://github.com/carbonara-mac)
 - [Kiana Kermani](https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
