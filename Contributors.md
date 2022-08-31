@@ -63,6 +63,7 @@
 - [Sohag] https://github.com/soh-ag
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
+- [Daniel 231]
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
 - [Mohammad Arwani](https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
