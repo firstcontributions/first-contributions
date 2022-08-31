@@ -158,6 +158,7 @@
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Zaid Marrie](https://github.com/ZaidMarrie)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
+- [Jamie McCullough] (https://github.com/JamieShakes)
 - [Mashinsp](https://github.com/mashinsp)
 - [Gianpaolo Branca](https://github.com/GianpaoloBranca)
 - [Anup Timsina](https://github.com/anup514)
