@@ -2614,4 +2614,5 @@
 - [Egar Pramana](https://github.com/babylittlepony)
 - [Vision1224](https://github.com/Vision1224)
 - [KARAN K K](https://github.com/KKK2504)
+- [Isaiah Mundy](https://github.com/imundy7)
 <!-- prettier-ignore-end -->
