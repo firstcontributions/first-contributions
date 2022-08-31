@@ -77,6 +77,7 @@
 - Aarav raj
 - [Mohsen Ameli](https://github.com/mohsen-ameli)
 - [STeverino]
+  [Sandro Panchame]
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
