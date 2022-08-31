@@ -117,6 +117,7 @@
 - [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
 - [Raymond Jin](https://github.com/Jinray1)
+- [Maaz Bashir](https://github.com/Maazoo)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Phuoc Nguyen] (https://github.com/thiennp94)
 - [Denys Makene](https://github.com/Denysmak)
