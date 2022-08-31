@@ -2475,6 +2475,7 @@
 - [Maple Z.](https://github.com/maplezoo)
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez] (https://github.com/marliemarls)
+- [Rogel Cristobal](https://github.com/rogelcristobal)
 - [fortewhiLe] (https://github.com/fortewhiLe)
 - [erma0x] (https://github.com/erma0x)
 - [APARNA BISHT](https://github.com/bishtaparna)
