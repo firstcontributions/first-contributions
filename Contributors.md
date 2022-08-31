@@ -2596,4 +2596,5 @@
 - [Farjad Anwar](https://github.com/FarjadAnwar3)
 - [Elias Howell](https://github.com/eliasjameshowell)
 - [Vision1224](https://github.com/Vision1224)
+- [KARAN K K](https://github.com/KKK2504)
 <!-- prettier-ignore-end -->
