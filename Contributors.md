@@ -894,8 +894,7 @@
 - [Henrik Berg](https://github.com/henkeb)
 - [Shrey patel](https://github.com/shrey0303)
 - [Anand Chaudahry](https://github.com/anandchaudhary854)
-- [Deep](https://github.com/just2deep)
--[thuan-le](https://github.com/LorenThuan)
+- [Deep](https://github.com/just2deep) -[thuan-le](https://github.com/LorenThuan)
 - [Henry Burii](https://github.com/buriihenry)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Bryan Emond](https://github.com/BryanEmond)
@@ -2529,6 +2528,7 @@
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - [Jacob Larson](https://github.com/larson15)
 - 🇪🇨 Danilo 🇪🇨
+- [Pixfri](https://github.com/Pixfri)
 - [Justin Kenny]
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
