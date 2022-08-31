@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Beshir Saeed] (https://github.com/Bishosba)
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
