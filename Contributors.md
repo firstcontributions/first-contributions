@@ -1298,6 +1298,7 @@
 - [Thibaud Mallet](https://github.com/ThibaudMallet)
 - [incalescence](https://github.com/incalescence)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- [Guilherme Baos](https://github.com/guilhermebaos)
 - [Jonathan Adithya](https://github.com/jo-adithya)
 - [Sage Writ](https://github.com/sagewrit)
 - [Sebastian W](https://github.com/sebastianwhyte)
