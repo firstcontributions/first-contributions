@@ -20,6 +20,7 @@
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
 - [Nikhil]
+- [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Brian Wayne]
