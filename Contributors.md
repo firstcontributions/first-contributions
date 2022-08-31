@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
@@ -193,7 +194,7 @@
 - [Stephen TC]
 - [Cody A]
 - [prakass sookdev]
-- [Jack Doe] 
+- [Jack Doe]
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [RaviVarma-Bandi](https://github.com/RaviVarma-Bandi)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
@@ -2494,7 +2495,7 @@
 - [b-yenilmez]([https://github.com/b-yenilmez])
 - [hakimuddin-kika]([https://github.com/hakimuddinkika])
 - [Aditya Sundar](https://github.com/adisun94)
-- [Codechickdev](https://github.com/Codechickdev) 
+- [Codechickdev](https://github.com/Codechickdev)
 - [Frederick Ohene](https://github.com/isostack)
 - [Joshua Ollivierre](https://github.com/shno784)
 - [Gayan Kalinga](https://github.com/bg15407)
@@ -2596,6 +2597,7 @@
 - [Boateng Dickson](https://github.com/dboatengg)
 - [Farjad Anwar](https://github.com/FarjadAnwar3)
 - [Elias Howell](https://github.com/eliasjameshowell)
+- [Egar Pramana](https://github.com/babylittlepony)
 - [Vision1224](https://github.com/Vision1224)
 - [KARAN K K](https://github.com/KKK2504)
 <!-- prettier-ignore-end -->
