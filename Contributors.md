@@ -2578,5 +2578,5 @@
 - [Samuel Maltais](https://github.com/SamuelMaltais)
 - [Karthick Kumar](https://github.com/karthickkumar7)
 - [Randy Tran]([https://github.com/quangtran88])
--[sanjai_3]([https://github.com/sanjail3])
+- [sanjai_3]([https://github.com/sanjail3])
 <!-- prettier-ignore-end -->
