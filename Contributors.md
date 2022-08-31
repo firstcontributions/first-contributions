@@ -1503,6 +1503,7 @@
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [Rathish Aadiraja](https://github.com/RathishAadiraja)
+- [Stefan](https://github.com/a-mediocre-man)
 - [Bharadwaj Divate](https://github.com/BharadwajDivate)
 - [David Miller](https://github.com/davidmiller2013)
 - [Joevanie Canete Jr](https://github.com/joevanie-canete-jr)
