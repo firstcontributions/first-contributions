@@ -345,6 +345,7 @@
 - [Ioan Adafinei](https://github.com/IoanRO)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
+- [MexL](https://github.com/madiajijah11)
 - [Chenghao Li](https://github.com/lich2000117)
 - [Glenn Simon](https://github.com/glennsimon)
 - [Limark Dcunha](https://github.com/limarkdcunha)
