@@ -4,6 +4,7 @@
 
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
+- [Kunal Shah] (https://github.com/kunalkshah1)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
 - [samadpls](https://github.com/samadpls)
