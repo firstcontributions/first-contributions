@@ -2512,4 +2512,5 @@
 - 🇪🇨 Danilo 🇪🇨
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
+- [Albert Gomez](https://github.com/agomez-aj)
 <!-- prettier-ignore-end -->
