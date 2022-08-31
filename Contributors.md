@@ -2528,6 +2528,7 @@
 - [Alejandro Orozco](https://github.com/Marshysaurus)
 - [Jacob Larson](https://github.com/larson15)
 - 🇪🇨 Danilo 🇪🇨
+- [Justin Kenny]
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
 - [Albert Gomez](https://github.com/agomez-aj)
