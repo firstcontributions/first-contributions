@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Conner Cook](https://github.com/conner-c)
