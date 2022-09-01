@@ -658,6 +658,7 @@
   [Ashish Sharma](https://github.com/itsashish1801)
 - [Doron Griffin-Tann](https://github.com/TheDiamondSkyv32)
 - [Zarau baidu](https://github.com/zeerau)
+- [Chung-Huu-Tin](https://github.com/TinChung41)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Mahamat Adoum](https://github.com/MahamatTech)
 - [Hong-Phuc Dang](https://github.com/hongphucdang1)
