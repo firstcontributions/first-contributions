@@ -41,6 +41,7 @@
 - [TAZER](https://github.com/ajtazer)
 - [Nikhil]
 - [Muthu](https://github.com/samurai-3)
+- [Fatiudeen](https://github.com/fatiudeen)
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Hicham Maachou](https://github.com/hichammaachou)
