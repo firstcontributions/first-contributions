@@ -2636,5 +2636,6 @@ i [Ohlylo](https://github.com/ohlylo)
 - [JCDent0n](https://github.com/JCDent0n)
 - [Vincent Camacho](https://github.com/joyousdevil)
 - [Sriram Rella](https://github.com/rellasriram)
+- [Stephen Sanders] (https://github.com/stephenblakesanders)
 - [Garin YR](https://github.com/garinyr)
 <!-- prettier-ignore-end -->
