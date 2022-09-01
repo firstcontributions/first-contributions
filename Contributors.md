@@ -1365,6 +1365,7 @@
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Nabil Noh](https://github.com/mrnabilnoh)
 - [Xelame](https://github.com/Xelame)
+- [Louis Moses](https://github.com/louismoses)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Carl Shone](https://github.com/carlts93)
