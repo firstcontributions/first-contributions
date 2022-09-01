@@ -2645,5 +2645,6 @@
 - [Vincent Camacho](https://github.com/joyousdevil)
 - [Sriram Rella](https://github.com/rellasriram)
 - [Stephen Sanders] (https://github.com/stephenblakesanders)
+- [pant-s](https://github.com/pant-s)
 - [Garin YR](https://github.com/garinyr)
 <!-- prettier-ignore-end -->
