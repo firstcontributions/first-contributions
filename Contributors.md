@@ -357,6 +357,7 @@
 - [Steven Dorsey]
 - [Faizan Khan](https://github.com/lahoreninja)
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
+- [Mojo Jojo](https://github.com/ZaidDe)
 - [Dubem Obinwanne](https://github.com/DubemObi)
 - [Olayemi Michael](https://github.com/michaelin007)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
