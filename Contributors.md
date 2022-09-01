@@ -10,6 +10,7 @@
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Wayne Watson] (https://github.com/grifway)
 -[Prakhar](https://github.com/prakhar2010030)
+-[Micheal](https://github.com/ad3rinto)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
