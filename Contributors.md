@@ -12,6 +12,7 @@
 - [Francis Alegre] (https://github.com/francisaerol)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Wayne Watson] (https://github.com/grifway)
+- [Rohit Nandi](https://github.com/rohitnandi12)
 - [Prakhar](https://github.com/prakhar2010030)
 - [Micheal](https://github.com/ad3rinto)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
