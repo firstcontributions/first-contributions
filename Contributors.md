@@ -554,6 +554,7 @@
 - [G Jeevika](https://github.com/Gjeev)
 - [F Y Gravel](https://github.com/gravelfy)
 - [Tim Leung](https://github.com/timleungtech)
+- [Harsh](https://github.com/HarshGarg11072002)
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
