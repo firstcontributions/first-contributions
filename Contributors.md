@@ -208,6 +208,7 @@
 - [Cody A]
 - [prakass sookdev]
 - [Jack Doe]
+- [Logan Liong](https://github.com/Loganbliong)
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [RaviVarma-Bandi](https://github.com/RaviVarma-Bandi)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
