@@ -1,14 +1,17 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
+- [Emmanuel Chanda] (https://github.com/chandae)
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Francis Alegre] (https://github.com/francisaerol)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
-- [Wayne Watson] (https://github.com/grifway) -[Prakhar](https://github.com/prakhar2010030)
+- [Wayne Watson] (https://github.com/grifway)
+- [Prakhar](https://github.com/prakhar2010030)
+- [Micheal](https://github.com/ad3rinto)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
@@ -39,11 +42,13 @@
 - [TAZER](https://github.com/ajtazer)
 - [Nikhil]
 - [Muthu](https://github.com/samurai-3)
+- [Fatiudeen](https://github.com/fatiudeen)
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
-- [Kanishk Chathley](https://github.com/can-ishk) -[Arjun R Warrier](https://github.com/arjunrwarrier)
+- [Kanishk Chathley](https://github.com/can-ishk)
+- [Arjun R Warrier](https://github.com/arjunrwarrier)
 - [Brian Wayne]
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
@@ -146,6 +151,7 @@
 - [Brrrak](https://github.com/brrrak)
 - [n53337](https://github.com/n53337)
 - [Vikrant Patil](https://github.com/vikrantpatil7)
+- [Prakhar Singh Chouhan](https://github.com/prakharsinghch)
 - [Usman Ali](https://github.com/usmaan-aali)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
@@ -176,6 +182,7 @@
 - [Dolapo Ogunfowora](https://github.com/oedjoat)
 - [Ryan Tin](https://github.com/rtin1234)
 - [Sam M'Backe]
+- [Shibu Naik](https://github.com/shibuNaik)
 - [Simcha Newman]
 - [Jerad Sharp] (https://github.com/IronDiggy)
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
@@ -314,6 +321,7 @@
 - [Matevž Kovačič](https://github.com/mati5kova)
 - [Yashraj](https://github.com/yashraj24)
 - [Prajjwal Dewangan]
+- [Dawood Siddique](https:github.com/Dawood-Siddique)
 - [Rohit](https://github.com/rohitsasi720)
 - [Aleksa] (https://github.com/aleksastojsic)
 - [RaphaelJS] (https://github.com/RaphaelJ-S)
@@ -574,6 +582,7 @@
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
 - [Nash Vador](https://github.com/nashvador)
 - [Sean Anderson](https://github.com/haker2500)
+- [Kelsey Alderman](https://github.com/kelseyalderman)
 - [Vennila Pugazhenthi](https://github.com/VennilaPugazhenthi)
 - [Awang Karisma](https://github.com/awang-karisma)
 - [Jaymee Chen](https://github.com/jmechn)
@@ -1528,6 +1537,7 @@
 - [Neha Santani](https://github.com/NehaSantani)
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
+- [Aleksa Radojicic](https://github.com/radojicic23)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
 - [BrunchWithYou](https://github.com/BrunchWithYou)
@@ -2607,6 +2617,7 @@
 - 🇪🇨 Danilo 🇪🇨
 - [Pixfri](https://github.com/Pixfri)
 - [Justin Kenny]
+- [Rich]
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
 - [Albert Gomez](https://github.com/agomez-aj)
@@ -2624,8 +2635,13 @@
 - [Egar Pramana](https://github.com/babylittlepony)
 - [Vision1224](https://github.com/Vision1224)
 - [KARAN K K](https://github.com/KKK2504)
+- [Isaiah Mundy](https://github.com/imundy7)
 - [Ryan Whitman](https://github.com/rmwhitman)
 - [Lune Yune](https://github.com/luneyne)
-[JCDent0n](https://github.com/JCDent0n)
-[Yurii Bubis](https://github.com/dobraWodka)
+- [Yurii Bubis](https://github.com/dobraWodka)
+- [JCDent0n](https://github.com/JCDent0n)
+- [Vincent Camacho](https://github.com/joyousdevil)
+- [Sriram Rella](https://github.com/rellasriram)
+- [Stephen Sanders] (https://github.com/stephenblakesanders)
+- [Garin YR](https://github.com/garinyr)
 <!-- prettier-ignore-end -->
