@@ -2626,6 +2626,7 @@
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
 - [Albert Gomez](https://github.com/agomez-aj)
+- [Shreyansh Patel](https://github.com/shreyansh28801)
   [Yiheng qiu](https://github.com/Oscar_Qiu)
 - [Nexus](https://github.com/NexushasTaken)
 - [Hans3121](https://github.com/hans31212)
