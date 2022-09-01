@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Beshir Saeed] (https://github.com/Bishosba)
+- [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Francis Alegre] (https://github.com/francisaerol)
