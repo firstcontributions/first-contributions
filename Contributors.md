@@ -5,6 +5,7 @@
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Julian Schiedel] (https://github.com/palladio11)
+- [Francis Alegre] (https://github.com/francisaerol)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 -[Prakhar](https://github.com/prakhar2010030)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
