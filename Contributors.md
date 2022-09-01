@@ -2630,5 +2630,6 @@ i [Ohlylo](https://github.com/ohlylo)
 - [KARAN K K](https://github.com/KKK2504)
 - [Ryan Whitman](https://github.com/rmwhitman)
 - [Lune Yune](https://github.com/luneyne)
-  [JCDent0n](https://github.com/JCDent0n)
+- [JCDent0n](https://github.com/JCDent0n)
+- [Vincent Camacho](https://github.com/joyousdevil)
 <!-- prettier-ignore-end -->
