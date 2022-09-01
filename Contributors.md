@@ -439,6 +439,7 @@
 - [Jae Lee](https://github.com/jaegl)
 - [shahin rizwana](https://github.com/shahin2003)
 - [Kael](https://github.com/Dwctor)
+- [Deep Shah](https://github.com/DeepShah99)
 - [Jae Lee](https://github.com/jaegl)
 - [shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
