@@ -2957,7 +2957,7 @@ Vincent To
 - [Marius Malinauskas](https://github.com/marius-ms)
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
 - [NongNon](https://github.com/NongNon)
-- [NongNon](https://github.com/ahoura-m)
+- [Ahoura Mortazavi](https://github.com/ahoura-m)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
