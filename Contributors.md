@@ -538,6 +538,7 @@ i [Ohlylo](https://github.com/ohlylo)
 - [Miguel Angel Francisco](https://github.com/Migu3lito5)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - abdullah muhammad moosa
+- Shakhtar
 - [Arun Sagar S A](https://github.com/arun-sagar-s-a)
 - [Sebastian Hoyos](https://github.com/tamerlantian)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
