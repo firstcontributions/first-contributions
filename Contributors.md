@@ -2613,6 +2613,7 @@ i [Ohlylo](https://github.com/ohlylo)
 - 🇪🇨 Danilo 🇪🇨
 - [Pixfri](https://github.com/Pixfri)
 - [Justin Kenny]
+- [Rich]
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
 - [Albert Gomez](https://github.com/agomez-aj)
