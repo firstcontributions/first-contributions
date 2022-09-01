@@ -1,4 +1,4 @@
-﻿**Contributors**
+**Contributors**
 
 <!-- prettier-ignore-start -->
 - [Ansari Saad](https://github.com/Saadansariii/)
@@ -187,6 +187,7 @@ p3tun1a
 - [Matevž Kovačič](https://github.com/mati5kova)
 - [Yashraj](https://github.com/yashraj24)
 - [Prajjwal Dewangan]
+- [Dawood Siddique](https:github.com/Dawood-Siddique)
 - [Rohit](https://github.com/rohitsasi720)
 - [Aleksa] (https://github.com/aleksastojsic)
 - [RaphaelJS] (https://github.com/RaphaelJ-S)
