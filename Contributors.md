@@ -179,6 +179,7 @@ i [Ohlylo](https://github.com/ohlylo)
 - [Dolapo Ogunfowora](https://github.com/oedjoat)
 - [Ryan Tin](https://github.com/rtin1234)
 - [Sam M'Backe]
+- [Shibu Naik](https://github.com/shibuNaik)
 - [Simcha Newman]
 - [Jerad Sharp] (https://github.com/IronDiggy)
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
