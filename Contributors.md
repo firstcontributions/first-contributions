@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
@@ -15,7 +16,7 @@
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
-- [Kunal Shah] (https://github.com/kunalkshah1)
+- [Kunal Shah](https://github.com/kunalkshah1)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
 - [samadpls](https://github.com/samadpls)
