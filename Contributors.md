@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Vidhant007](https://github.com/Vidhant007)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
