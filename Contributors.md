@@ -4,6 +4,7 @@
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
+- [Isaac Kuria](https://github.com/kabszac)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
