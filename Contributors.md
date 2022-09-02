@@ -1,5 +1,7 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
+
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
@@ -14,6 +16,7 @@
 - [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Emmanuel Chanda] (https://github.com/chandae)
+- [Syed Asar Aman]
 - [Julian Schiedel] (https://github.com/palladio11)
 - [Francis Alegre] (https://github.com/francisaerol)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
