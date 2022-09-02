@@ -328,6 +328,7 @@ HarryN
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Nafis Bin Nizam](https://github.com/Naf256)
 - [Halim Shams](https://github.com/Halim-Shams)
+- [Suleyman Ekmekci](https://github.com/el-r0nd)
 - [Jai Ganesh](https://github.com/jjaijg)
 - [Ádám Gyula Simon](https://github.com/Sim077980)
 - [Sai Htet Myat Htut](https://github.com/SaiHtetMyatHtut)
