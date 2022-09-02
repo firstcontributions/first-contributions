@@ -37,7 +37,7 @@
 - [The Aaryan](https://github.com/the-aaryan)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
-HarryN
+  HarryN
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
@@ -75,8 +75,8 @@ HarryN
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
-- [Roshan Christy](https://github.com/roshan-christy(windows))
-- [Roshan Christy](https://github.com/roshan-christy(linux))
+- [Roshan Christy](<https://github.com/roshan-christy(windows)>)
+- [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   i [Ohlylo](https://github.com/ohlylo)
@@ -2425,6 +2425,7 @@ HarryN
 - [masa mainio](https://github.com/masamainio/)
 - Dave
 - [Anthony Diep](https://github.com/anthonyd43)
+- [Chris Betts] (https://github.com/crbetts)
 - [Tylor M. Clont] (https://github.com/Tylor1210)
 - [spark07](https://github.com/sparkO7)
 - [Gourav Mandhane](https://github.com/gourav-mandhane)
