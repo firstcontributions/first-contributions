@@ -203,6 +203,7 @@ HarryN
 - [Dolapo Ogunfowora](https://github.com/oedjoat)
 - [Ryan Tin](https://github.com/rtin1234)
 - [Sam M'Backe]
+- [Paneddo](https://github.com/Paneddo)
 - [Shibu Naik](https://github.com/shibuNaik)
 - [Robert Hoffman](https://github.com/freestyleclan)
 - [Simcha Newman]
