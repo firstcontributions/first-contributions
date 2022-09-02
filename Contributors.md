@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
