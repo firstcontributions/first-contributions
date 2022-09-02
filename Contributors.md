@@ -129,6 +129,7 @@
 - [Ram Sankhavaram](https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
 - [hat-owl](https://github.com/hat-owl)
+- [Justice](https://github.com/jaresj)
 - Harsit Agarwalla
 - [Aditya Sapate]
 - [Ahmed Tarek](https://github.com/ahmedtarekabd)
