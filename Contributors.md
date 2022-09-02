@@ -48,6 +48,7 @@
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
 - [Nikhil]
+- [Renz00](https://github.com/Renz00)
 - [Muthu](https://github.com/samurai-3)
 - [Fatiudeen](https://github.com/fatiudeen)
 - [Neetigya](https://github.com/NeetigyaShah)
