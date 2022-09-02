@@ -562,6 +562,7 @@
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - abdullah muhammad moosa
 - Shakhtar
+- [Kartik Tiwari](https://github.com/2773kartik)
 - [Arun Sagar S A](https://github.com/arun-sagar-s-a)
 - [Sebastian Hoyos](https://github.com/tamerlantian)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
