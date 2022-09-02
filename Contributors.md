@@ -2676,4 +2676,5 @@ HarryN
 - [Shobana](https://github.com/shobanasat)
 - [Winston](https://github.com/p81sunshine)
 - [Riyaz Shaikh](https://github.com/riyaz7122001)
+- [Galaluddin Owais](https://github.com/GalaluddinOwais)
 <!-- prettier-ignore-end -->
