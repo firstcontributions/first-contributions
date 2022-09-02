@@ -61,6 +61,7 @@ HarryN
 - [Fatiudeen](https://github.com/fatiudeen)
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
+- [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
 - [Kanishk Chathley](https://github.com/can-ishk)
