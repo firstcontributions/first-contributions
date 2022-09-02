@@ -645,6 +645,7 @@
 - [Siddhant Hota](https://github.com/Siddhanthota)
 - [Leyli Ghavami](https://github.com/lghavami)
 - [Jack Roberts](https://github.com/JackRobs25)
+- [Victor Parvanov](https://github.com/VictorParvanov)
 - [Luccas Elias](https://github.com/chEfInHO0)
 - [Yujia Gu](https://github.com/yujia10)
 - [Ivan Djukic](https://github.com/ivandjuka77)
