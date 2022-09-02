@@ -52,6 +52,7 @@ HarryN
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
+- [WILLIAM ROZARIO](https://github.com/William73920)
 - [Nikhil]
 - [Renz00](https://github.com/Renz00)
 - [Muthu](https://github.com/samurai-3)
