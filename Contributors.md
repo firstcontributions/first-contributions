@@ -2673,4 +2673,5 @@ HarryN
 - [M Shiva](https://github.com/Shiva1406)
 - [Shobana](https://github.com/shobanasat)
 - [Winston](https://github.com/p81sunshine)
+- [Riyaz Shaikh](https://github.com/riyaz7122001)
 <!-- prettier-ignore-end -->
