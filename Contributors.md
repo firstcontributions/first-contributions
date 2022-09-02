@@ -234,6 +234,7 @@ HarryN
 - [Jack Doe]
 - [Logan Liong](https://github.com/Loganbliong)
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
+- [Shivang Bhatnagar](https://github.com/Shivangbhatnagar237)
 - [RaviVarma-Bandi](https://github.com/RaviVarma-Bandi)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
 - [Ali Samhat](https://github.com/Alinferno)
