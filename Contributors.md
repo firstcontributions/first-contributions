@@ -21,6 +21,7 @@
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Vipassana Dudam](https://github.com/vipassana-01)
+- [Maanil Laad](https://github.com/maanil17)
 - [Kunal Shah](https://github.com/kunalkshah1)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
