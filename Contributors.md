@@ -1,6 +1,5 @@
 # Contributors
 <!-- prettier-ignore-start -->
--[chamber-abhirup](https://github.com/chamber-abhirup)
 - [Khoaiz](https://github.com/Khoaizahmmed)
 - [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
@@ -15,6 +14,7 @@
 - [Francis Alegre] (https://github.com/francisaerol)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 - [Wayne Watson] (https://github.com/grifway)
+- [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
 - [Prakhar](https://github.com/prakhar2010030)
 - [Micheal](https://github.com/ad3rinto)
