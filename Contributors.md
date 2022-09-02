@@ -1486,6 +1486,7 @@ HarryN
 - [Halil Bulut](https://github.com/Hellin1)
 - [Michael Giustiniani](https://github.com/dynowarz90)
 - [Christine Lin](https://github.com/christinelin8)
+- [Andrei Pascuta](https://github.com/RXBlade)
 - [Asliddin E.](https://github.com/asliddin2002developer)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
