@@ -34,6 +34,7 @@
 - [MMarbs2](https://github.com/MMarble2)
 - [samadpls](https://github.com/samadpls)
 - [Conner Cook](https://github.com/conner-c)
+- [The Aaryan](https://github.com/the-aaryan)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
 HarryN
