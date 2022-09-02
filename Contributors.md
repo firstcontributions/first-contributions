@@ -1,5 +1,4 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
@@ -28,6 +27,7 @@
 - [Conner Cook](https://github.com/conner-c)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
+HarryN
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
