@@ -995,6 +995,7 @@
 - [TEJAS DHAMECHA](https://github.com/notanmay)
 - [Akshay Babbar](https://github.com/akshay-babbar)
 - [Yousef Sherian](https://github.com/yousef-dev1)
+- [Ashwin Kumar](https://github.com/ashwin-srdy)
 - [Patrick Lesiewicz](https://github.com/KrsPatrick)
 - [Alex Slutsky](https://github.com/Pa1best)
 - [Devdatt Pandit](https://github.com/Devdatt17)
