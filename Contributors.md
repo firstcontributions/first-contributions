@@ -295,6 +295,7 @@
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
+- [Ricardo Carvalho](https://github.com/ricardocarvalhods)
 - [Shadman Thakur](https://github.com/thakurs[hadman)
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
