@@ -5,6 +5,7 @@
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
+- [Abdul Muqeet] (https://github.com/Nawaz088)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Emmanuel Chanda] (https://github.com/chandae)
