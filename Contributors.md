@@ -1930,6 +1930,7 @@
 - [electroNBS](https://github.com/electroNBS)
 - [Dhruv Mittal](https://github.com/d14mittal)
 - [Rhett G](https://github.com/rhettg28)
+- [Brandon S](https://github.com/brandon-schad)
 - [Nikhil](https://github.com/Kirito-Excalibur)
 - [Anna Luz Serena](https://github.com/annaluzserena)
 - [Clenio Filho](https://github.com/fhclenio)
