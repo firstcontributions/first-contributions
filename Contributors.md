@@ -55,6 +55,7 @@
 - [Elena Cherpakova](https://github.com/ElenaCherpakova)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
+- [Doug Colin](https://github.com/Doug-Colin)
 - [Lukasz Sikora](https://github.com/lsikora1)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
