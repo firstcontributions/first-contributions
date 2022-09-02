@@ -1,6 +1,5 @@
 # Contributors
 <!-- prettier-ignore-start -->
--[chamber-abhirup](https://github.com/chamber-abhirup)
 - [Khoaiz](https://github.com/Khoaizahmmed)
 - [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
