@@ -55,7 +55,7 @@ git checkout -b add-alonzo-church
 (ಶಾಖೆಯ ಹೆಸರಿನಲ್ಲಿ `add` ಎಂಬ ಪದವನ್ನು ಹೊಂದುವ ಅಗತ್ಯವಿಲ್ಲ, ಆದರೆ ಇದನ್ನು ಸೇರಿಸುವುದು ಸಮಂಜಸವಾದ ವಿಷಯ ಏಕೆಂದರೆ ಈ ಶಾಖೆಯ ಉದ್ದೇಶವು ನಿಮ್ಮ ಹೆಸರನ್ನು ಪಟ್ಟಿಗೆ ಸೇರಿಸುವುದು.)
 ## ಅಗತ್ಯ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿ ಮತ್ತು ಆ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿ
 ಈಗ ಪಠ್ಯ ಸಂಪಾದಕದಲ್ಲಿ `Contributor.md` ಫೈಲ್ ಅನ್ನು ತೆರೆಯಿರಿ, ಅದಕ್ಕೆ ನಿಮ್ಮ ಹೆಸರನ್ನು ಸೇರಿಸಿ. ಅದನ್ನು ಫೈಲ್‌ನ ಪ್ರಾರಂಭ ಅಥವಾ ಕೊನೆಯಲ್ಲಿ ಸೇರಿಸಬೇಡಿ. ನಡುವೆ ಎಲ್ಲಿಯಾದರೂ ಇರಿಸಿ. ಈಗ, ಫೈಲ್ ಅನ್ನು ಉಳಿಸಿ.
-<img align="right" width="450" src="ahttps://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಡೈರೆಕ್ಟರಿಗೆ ಹೋಗಿ `git status` ಆಜ್ಞೆಯನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಿದರೆ, ಬದಲಾವಣೆಗಳಿವೆ ಎಂದು ನೀವು ನೋಡುತ್ತೀರಿ.
 Add those changes to the branch you just created using the `git add` command:
 ```
