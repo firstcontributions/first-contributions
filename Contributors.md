@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
