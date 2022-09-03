@@ -523,6 +523,7 @@
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
 - [Rainb0-0](https://github.com/Rainb0-0)
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
+- [apayziev](https://github.com/apayziev)
 - [Amit]
 - [Shino]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
