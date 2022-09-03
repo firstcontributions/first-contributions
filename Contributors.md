@@ -2435,7 +2435,6 @@
 - [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Harrison Matthews](https://github.com/H-Matthews)
 - [Alexander Zurawski](https://github.com/AZurawski)
-
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 - [VenomAI](https://github.com/venomboss985)
 - [Andriy Kotko](https://github.com/Kotkoa)
@@ -2720,4 +2719,6 @@
 - [JEPPUNG](https://github.com/jeppung)
 - [hashvector](https://github.com/hashvector)
 - [Sahinur Islam](https://github.com/devSahinur)
+- [Nobody-Know](https://github.com/Nobody-Know)
 <!-- prettier-ignore-end -->
+
