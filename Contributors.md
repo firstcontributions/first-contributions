@@ -224,6 +224,7 @@
 - [Sam M'Backe]
 - [Paneddo](https://github.com/Paneddo)
 - [Shibu Naik](https://github.com/shibuNaik)
+- [Aryansh Malviya](https://github.com/4127157)
 - [Robert Hoffman](https://github.com/freestyleclan)
 - [Simcha Newman]
 - [Jerad Sharp] (https://github.com/IronDiggy)
