@@ -2711,6 +2711,7 @@
 - [Stephen Sanders] (https://github.com/stephenblakesanders)
 - [pant-s](https://github.com/pant-s)
 - [Derek Zhu](https://github.com/DerekZZhu)
+- [Dave3418](https://github.com/dave3418)
 - [Garin YR](https://github.com/garinyr)
 - [Rahul Kulkarni](https://github.com/kdrahul)
 - [M Shiva](https://github.com/Shiva1406)
