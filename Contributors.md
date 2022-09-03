@@ -8,6 +8,7 @@
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
+- [Dhruv Gandhi](https://github.com/DhruvGandhi31)
 - [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
