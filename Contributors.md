@@ -151,6 +151,7 @@
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Harsh Walia](https://github.com/waliaharsh74)
 - [Aditya Raj](https://github.com/rajaditya1306)
+- [Erik Pereira](https://github.com/Peartre)
 - [hoyeen01](https://github.com/hoyeen01)
 - [ojorgensen](https://github.com/ojorgensen)
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
