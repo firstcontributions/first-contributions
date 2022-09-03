@@ -2707,4 +2707,5 @@
 - [Radek Kocka](https://github.com/RadekKocka)
 - [TSRSE](https://github.com/TSRSE)
 - [JEPPUNG](https://github.com/jeppung)
+- [hashvector](https://github.com/hashvector)
 <!-- prettier-ignore-end -->
