@@ -2733,5 +2733,6 @@
 - [Gavin Tersteeg](https://github.com/tergav17)
 - [Nobody-Know](https://github.com/Nobody-Know)
 - [John Poulos](https://github.com/John-Poulos)
+- [Franciszek Szeptycki](https://github.com/franciszek-szeptycki)
 <!-- prettier-ignore-end -->
 
