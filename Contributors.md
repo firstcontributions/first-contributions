@@ -40,6 +40,7 @@ HarryN
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
+- [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
