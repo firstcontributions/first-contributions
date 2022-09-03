@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
+- [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
