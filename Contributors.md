@@ -31,7 +31,6 @@
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
-- [Kinshuk Goel](https://github.com/kinshukgoel4)
 - [Vipassana Dudam](https://github.com/vipassana-01)
 - [Maanil Laad](https://github.com/maanil17)
 - [Kunal Shah](https://github.com/kunalkshah1)
