@@ -2696,6 +2696,7 @@
 - [Sriram Rella](https://github.com/rellasriram)
 - [Stephen Sanders] (https://github.com/stephenblakesanders)
 - [pant-s](https://github.com/pant-s)
+- [Derek Zhu](https://github.com/DerekZZhu)
 - [Garin YR](https://github.com/garinyr)
 - [Rahul Kulkarni](https://github.com/kdrahul)
 - [M Shiva](https://github.com/Shiva1406)
