@@ -360,6 +360,7 @@
   [Conner Murowchick]
   [Ana212dev]
 - [Paul Mazzia]
+- [Vikas] (https://github.com/venkatavikas69)
 - [Ainara Machargo](https://github.com/carbonara-mac)
 - [Kiana Kermani](https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
