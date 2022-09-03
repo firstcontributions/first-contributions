@@ -116,6 +116,7 @@
 - [shin000000](https://github.com/shin000000)
 - [Swati Aggrawal](https://github.com/swatiaggrawal)
 - [Daniel 231]
+- [Mattazz](https://github.com/mattazz)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
 - [Mohammad Arwani](https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
