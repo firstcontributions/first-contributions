@@ -216,6 +216,7 @@
 - [Ivan Stojanovic](https://github.com/ivan00stojanovic)
 - [Abhijeet Habe](https://github.com/abhijeethabe)
 - [Natnael Sisay](https://github.com/NatnaelSisay)
+- [Charles Kronschnabel] (https://github.com/cjkronschnabel)
 - [Greg Long](https://github.com/GLcode-44)
 - [DevR](https://github.com/ratul-devr)
 - [Ayesh Biswal](https://github.com/heyyayesh)
