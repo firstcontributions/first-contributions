@@ -20,6 +20,7 @@
 - [Sidharth H.](https://github.com/tenocijam)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
+- [Loren-Jahan] (https://github.com/Loren)
 - [Abdul Muqeet] (https://github.com/Nawaz088)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
@@ -533,6 +534,7 @@
 - [apayziev](https://github.com/apayziev)
 - [Amit]
 - [Shino]
+-[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
