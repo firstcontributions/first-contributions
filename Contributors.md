@@ -2735,5 +2735,6 @@
 - [Nobody-Know](https://github.com/Nobody-Know)
 - [John Poulos](https://github.com/John-Poulos)
 - [Franciszek Szeptycki](https://github.com/franciszek-szeptycki)
+- [Rao Muhammad Akif Tufail](https://github.com/RaoAkif)
 <!-- prettier-ignore-end -->
 
