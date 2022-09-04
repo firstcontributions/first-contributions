@@ -322,6 +322,7 @@
 - [Logan Phan](https://github.com/letsgologan)
 - [Dima Smaha](https://github.com/DimaSmaha)
 - [Esther Idabor](https://github.com/EstherIdabor)
+- [Olasunkanmi Alabi](https://github.com/olasunkanmi04)
 - [Pavan Rathod](https://github.com/Pavanarathod)
 - [Abhijith0807]
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
@@ -545,8 +546,7 @@
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -2768,4 +2768,3 @@
 - [Jean Haley](https://github.com/jeanhaley32)
 - [Kran D](https://github.com/githubNinja)
 <!-- prettier-ignore-end -->
-
