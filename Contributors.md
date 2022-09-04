@@ -154,6 +154,7 @@
 - [Mohsen Ameli](https://github.com/mohsen-ameli)
 - [STeverino]
   [Sandro Panchame]
+  [satyam soni]
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
@@ -2740,5 +2741,7 @@
 - [John Poulos](https://github.com/John-Poulos)
 - [Franciszek Szeptycki](https://github.com/franciszek-szeptycki)
 - [michabay05](https://github.com/michabay05)
+- [fahad masood](https://github.com/fhd211)
+- [Mart Wo](https://github.com/martwozniak)
 <!-- prettier-ignore-end -->
 
