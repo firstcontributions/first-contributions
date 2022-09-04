@@ -19,10 +19,10 @@
 <a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
-## <div dir="rtl"> اس گودام کوفورک کریں </div>
+## <div dir="rtl"> اس ذخیرہ کوفورک کریں </div>
 <div dir="rtl">
-اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
-<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس گودام کوفورک کریں" />
+اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس ذخیرہ کا استعمال کریں.
+<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس ذخیرہ کوفورک کریں" />
 <br />
 یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
 </div>
@@ -55,7 +55,7 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub گودام کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
+<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub ذخیرہ کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
 
 ## <div dir="rtl"> ایک شاخ بنائیں </div>
 
