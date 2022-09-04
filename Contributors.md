@@ -276,6 +276,7 @@
 - [Abhishek Kumar](https://github.com/abhishek44priv)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
+- [Abir Moulick](https://github.com/Abir10101)
 - [Romel Williams](https://github.com/omerome83)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
