@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Sivnerof](https://github.com/Sivnerof)
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
