@@ -50,6 +50,7 @@
 - [Vipassana Dudam](https://github.com/vipassana-01)
 - [Maanil Laad](https://github.com/maanil17)
 - [Kunal Shah](https://github.com/kunalkshah1)
+- [Mehdi Amlal](https://github.com/mehdiamlal)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
 - [MMarbs2](https://github.com/MMarble2)
