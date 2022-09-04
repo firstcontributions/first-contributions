@@ -2766,5 +2766,6 @@
 - [Federico](https://github.com/Fede923)
 - [Aninda](https://github.com/anindameister)
 - [Jean Haley](https://github.com/jeanhaley32)
+- [Kran D](https://github.com/githubNinja)
 <!-- prettier-ignore-end -->
 
