@@ -2736,5 +2736,6 @@
 - [Nobody-Know](https://github.com/Nobody-Know)
 - [John Poulos](https://github.com/John-Poulos)
 - [Franciszek Szeptycki](https://github.com/franciszek-szeptycki)
+- [michabay05](https://github.com/michabay05)
 <!-- prettier-ignore-end -->
 
