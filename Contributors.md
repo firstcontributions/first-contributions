@@ -16,6 +16,7 @@
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Isaac Kuria](https://github.com/kabszac)
 - [Rick](https://github.com/SharZzCode)
+- [Lincoln Li](https://github.com/vivalkm)
 - [Sidharth H.](https://github.com/tenocijam)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Beshir Saeed] (https://github.com/Bishosba)
