@@ -27,6 +27,7 @@
 - [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Emmanuel Chanda] (https://github.com/chandae)
+- [Dipendra Shrestha](https://github.com/dipushrestha)
 - [Syed Asar Aman]
 - [Rakshit Shetty ✨✨] (https://github.com/Rakxit-Shetty)
 - [Julian Schiedel] (https://github.com/palladio11)
