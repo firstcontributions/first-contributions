@@ -2749,5 +2749,6 @@
 - [fahad masood](https://github.com/fhd211)
 - [Mart Wo](https://github.com/martwozniak)
 - [Kk]
+- [Chris]
 <!-- prettier-ignore-end -->
 
