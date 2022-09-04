@@ -153,6 +153,7 @@
 - [Mohsen Ameli](https://github.com/mohsen-ameli)
 - [STeverino]
   [Sandro Panchame]
+  [satyam soni]
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
