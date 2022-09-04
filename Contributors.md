@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [jatinseh](https://github.com/jatinseh)
 - [d-kanti](https://github.com/d-kanti)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
