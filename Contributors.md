@@ -39,6 +39,7 @@
 - [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
 - [Prakhar](https://github.com/prakhar2010030)
+- 3GATO3
 - [Micheal](https://github.com/ad3rinto)
 - [Kalstorm](https://github.com/umarabdullah16)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
