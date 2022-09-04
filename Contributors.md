@@ -58,6 +58,7 @@
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
+- [Kanishk](https://github.com/knshkp)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
