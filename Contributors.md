@@ -1862,7 +1862,7 @@ HarryN
 - [Dipankur](https://github.com/dipankurverma)
 - [ThomasMThoppil](https://github.com/ThomasMThoppil)
 - [Wizard-F](https://github.com/Wizard-F)
-- [ASM-DEV](https://github.com/asm-dev)
+- [asm-dev](https://github.com/asm-dev)
 - [Suyash](https://github.com/Gsuyash20)
 - [Kenny-Simpson](https://github.com/KNJI-Web-Creations)
 - [Rachelle](https://github.com/jollypolly123)
