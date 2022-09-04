@@ -1143,6 +1143,7 @@
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Linda Seiter](https://github.com/lseiter)
+- [Mattias Larsson](https://github.com/Matsuchisu)
 - [Adam Ralph](https://github.com/adamjralph)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
