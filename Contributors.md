@@ -142,6 +142,7 @@
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
 - [Mohammad Arwani](https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
+- [Wasim Algamal](https://github.com/walgamal)
 - [Amí Naeily](https://github.com/pinkhairs)
 - [gerasim simeonov](https://github.com/penzata)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
