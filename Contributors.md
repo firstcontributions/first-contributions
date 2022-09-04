@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [d-kanti](https://github.com/d-kanti)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
