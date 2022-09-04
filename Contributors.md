@@ -2757,5 +2757,6 @@
 - [Kk]
 - [Chris]
 - [OhShawty](https://github,com/JammyHuman)
+- [Federico](https://github.com/Fede923)
 <!-- prettier-ignore-end -->
 
