@@ -58,6 +58,7 @@
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
+- [Kanishk](https://github.com/knshkp)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
@@ -153,6 +154,7 @@
 - [Mohsen Ameli](https://github.com/mohsen-ameli)
 - [STeverino]
   [Sandro Panchame]
+  [satyam soni]
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
@@ -2741,5 +2743,7 @@
 - [michabay05](https://github.com/michabay05)
 - [fahad masood](https://github.com/fhd211)
 - [Madhu M Pandurangi](https://github.com/MadhuMPandurangi)
+- [Mart Wo](https://github.com/martwozniak)
+>>>>>>> a6102836eb1c864d1ba2decfb1ad8bd4581e94ae
 <!-- prettier-ignore-end -->
 
