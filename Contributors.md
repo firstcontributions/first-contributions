@@ -2765,5 +2765,6 @@
 - [OhShawty](https://github,com/JammyHuman)
 - [Federico](https://github.com/Fede923)
 - [Aninda](https://github.com/anindameister)
+- [Jean Haley](https://github.com/jeanhaley32)
 <!-- prettier-ignore-end -->
 
