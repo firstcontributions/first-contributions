@@ -90,6 +90,7 @@
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
 - [Hicham Maachou](https://github.com/hichammaachou)
+- [Makakyla Soh] (http://github.com/MakaylaSoh)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Arjun R Warrier](https://github.com/arjunrwarrier)
