@@ -2785,5 +2785,6 @@ MS
 - [dkelxldk](https://github.com/ddouble-d)
 - [Nkemjika](https://github.com/Nkemjikanma)
 - [Sebastian Martinez](https://github.com/BargainBender)
+- [Madhu M Pandurangi](https://github.com/MadhuMPandurangi)
 <!-- prettier-ignore-end -->
 
