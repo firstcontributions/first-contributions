@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Mat](https://github.com/raipidddd0ex)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
