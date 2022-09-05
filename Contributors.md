@@ -2744,6 +2744,7 @@ MS
 - [Samuel Maltais](https://github.com/SamuelMaltais)
 - [Karthick Kumar](https://github.com/karthickkumar7)
 - [Randy Tran]([https://github.com/quangtran88])
+- [Mauricio Allegretti]([https://github.com/mauriallegrettiswnat])
 - [sanjai_3]([https://github.com/sanjail3])
 - [ExpectoPatronumX]([https://github.com/ExpectoPatronumX])
 - [Boateng Dickson](https://github.com/dboatengg)
