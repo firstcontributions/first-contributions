@@ -2799,5 +2799,6 @@ MS
 - [Madhu M Pandurangi](https://github.com/MadhuMPandurangi)
 - [Vaishnavi Ramanujapuram]
 - [samuelbarrionuevo](https://github.com/samuelbarrionuevo)
+- [Viet Vu](https://github.com/Vietvu00)
 <!-- prettier-ignore-end -->
 
