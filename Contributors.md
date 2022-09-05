@@ -3,7 +3,8 @@
 <!-- prettier-ignore-start -->
 
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
--[Ayush Jha](https://github.com/Ayush0054)
+- [Patrick Haley](https://github.com/patrickhaley)
+- [Ayush Jha](https://github.com/Ayush0054)
 - [Fyka Ansari](https://github.com/fykaa)
 - [Mian Azan](https://github.com/mianazan099)
 - [Mat](https://github.com/raipidddd0ex)
