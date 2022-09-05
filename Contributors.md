@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [jatinseh](https://github.com/jatinseh)
+- [khairallah17](https://github.com/khairallah17)
 - [d-kanti](https://github.com/d-kanti)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
