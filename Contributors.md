@@ -2692,6 +2692,7 @@ MS
 - [shuhai](https://github.com/Stack165)
 - [Xunil-Ung](https://github.com/Xunil-Ung)
 - [prax]
+- [Henrique Anzoátegui](https://github.com/Hdanzo)
 - [Tom-C](https://github.com/ThomasMarkCartwright)
 - [Alex W](https://github.com/awisticky)
 - [Ashish Kumar](https://github.com/ashish070302)
