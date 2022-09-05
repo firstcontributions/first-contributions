@@ -1145,6 +1145,7 @@ MS
 - [BartyDash](https://github.com/BartyDash)
 - [Larry Urrego](https://github.com/LaUrrego)
 - [Rohit Rajvaidya](https://github.com/Rohitcode25)
+- [HariVamsiK](https://github.com/HariVamsiK-BITS)
 - [Shauna Empringham](https://github.com/ShaunaTheDead86)
 - [Hamza Juwaihan](https://github.com/hamzajuwaihan)
 - [Amira Ezzeldin](https://github.com/aezz4007)
