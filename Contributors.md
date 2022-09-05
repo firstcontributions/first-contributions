@@ -2521,6 +2521,7 @@ MS
 - [Kemal](https://www.github.com/Kemal-D)
 - [Olla Bak](https://github.com/iamolla)
 - [Mitchell Hayes](https://github.com/MitchellHayes)
+- [Patrick Kopacz](https://github.com/PatrickKop)
 - [Peashooter](https://github.com/RuibaiXu)
 - [Anusha](https://github.com/anushas-dev)
 - [Fahd Abdulrazzaq] (https://github.com/fahd-abdulrazzaq)
