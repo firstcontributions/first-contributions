@@ -2772,5 +2772,6 @@
 - [Jean Haley](https://github.com/jeanhaley32)
 - [Kran D](https://github.com/githubNinja)
 - [PV](https://github.com/pvgithub9)
+- [dkelxldk](https://github.com/ddouble-d)
 <!-- prettier-ignore-end -->
 
