@@ -551,8 +551,7 @@
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -2777,6 +2776,6 @@
 - [Kran D](https://github.com/githubNinja)
 - [PV](https://github.com/pvgithub9)
 - [dkelxldk](https://github.com/ddouble-d)
+- [Naveen](https://github.com/naveensomanna)
 - [Nkemjika](https://github.com/Nkemjikanma)
 <!-- prettier-ignore-end -->
-
