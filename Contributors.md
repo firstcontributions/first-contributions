@@ -6,6 +6,7 @@
 - [Mat](https://github.com/raipidddd0ex)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
+- [Osatuyi Favour](https://github.com/O-Ifeoluwa)
 - [d-kanti](https://github.com/d-kanti)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
