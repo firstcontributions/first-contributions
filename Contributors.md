@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Sahinur Islam](https://github.com/devSahinur)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Mat](https://github.com/raipidddd0ex)
 - [jatinseh](https://github.com/jatinseh)
