@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [jatinseh](https://github.com/jatinseh)
+- [Alex Servin](https://github.com/aservin6)
 - [d-kanti](https://github.com/d-kanti)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
