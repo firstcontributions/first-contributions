@@ -564,6 +564,7 @@
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
 - [Rainb0-0](https://github.com/Rainb0-0)
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
+- [Gunnar Raßmann](https://github.com/grumiumxd)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
 - [Shino]
