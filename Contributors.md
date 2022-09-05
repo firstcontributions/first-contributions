@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 
-Caelan Herzberg
+caelan herzberg
 
 - [jatinseh](https://github.com/jatinseh)
 - [d-kanti](https://github.com/d-kanti)
