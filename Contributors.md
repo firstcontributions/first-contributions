@@ -97,6 +97,7 @@
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [Makakyla Soh] (http://github.com/MakaylaSoh)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
+- [Partha Sarathi Muduli](https://github.com/partha7978)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Arjun R Warrier](https://github.com/arjunrwarrier)
 - [Brian Wayne]
