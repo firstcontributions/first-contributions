@@ -2784,5 +2784,6 @@ MS
 - [PV](https://github.com/pvgithub9)
 - [dkelxldk](https://github.com/ddouble-d)
 - [Nkemjika](https://github.com/Nkemjikanma)
+- [Sebastian Martinez](https://github.com/BargainBender)
 <!-- prettier-ignore-end -->
 
