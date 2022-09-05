@@ -52,6 +52,7 @@
 - [Prakhar](https://github.com/prakhar2010030)
 - 3GATO3
 - [Micheal](https://github.com/ad3rinto)
+- [Jonny He]
 - [Kalstorm](https://github.com/umarabdullah16)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
