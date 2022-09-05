@@ -189,6 +189,7 @@
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
 - [Gigi](https://github.com/provdxc366)
+- [Worthy](https://github.com/worthyag)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Kyle Goben](https://https://github.com/kygoben)
 - [Shayan Affandi](https://github.com/Shayan5785)
