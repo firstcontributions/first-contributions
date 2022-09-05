@@ -13,6 +13,7 @@
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
+- Ojas Dubey
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
 - [Dhruv Gandhi](https://github.com/DhruvGandhi31)
@@ -110,7 +111,7 @@
 - [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
-  i [Ohlylo](https://github.com/ohlylo)
+  [Ohlylo](https://github.com/ohlylo)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
@@ -550,8 +551,7 @@
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -2777,4 +2777,3 @@
 - [dkelxldk](https://github.com/ddouble-d)
 - [Nkemjika](https://github.com/Nkemjikanma)
 <!-- prettier-ignore-end -->
-
