@@ -553,8 +553,7 @@
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -867,6 +866,7 @@
 - [Gregory Dickson](https://github.com/dgregpm)
 - [Olin Johnson](https://github.com/olinjohnson)
 - [Silvio Pavanetto](https://github.com/reidemeister94)
+- [Mayank Gangwar] (https://github.com/Mayank-44)
 - [Francis O'Donnell](https://github.com/fjodonnell)
 - [Yair Daboul](https://github.com/yairdab)
 - [Ali Hassan](https://github.com/alihassan-here)
@@ -2781,4 +2781,3 @@
 - [dkelxldk](https://github.com/ddouble-d)
 - [Nkemjika](https://github.com/Nkemjikanma)
 <!-- prettier-ignore-end -->
-
