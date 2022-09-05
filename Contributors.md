@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
+- [Mian Azan](https://github.com/mianazan099)
 - [Mat](https://github.com/raipidddd0ex)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
