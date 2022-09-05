@@ -724,7 +724,7 @@
 - [Dalibor Maljurić](https://github.com/RegularEverydayAverageGuy)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
 - [Aaron Lin](https://github.com/shinganlin)
-- [Will Shuttleworth] (https://github.com/Will-Shuttleworth)
+- [Will Shuttleworth](https://github.com/Will-Shuttleworth)
 - [Harshad Hirapara](https://github.com/harshad389)
 - [Namya Khan](https://github.com/namyakhan)
 - [Arijit Paria](https://github.com/TUTORIEX)
