@@ -2796,5 +2796,6 @@ MS
 - [Sebastian Martinez](https://github.com/BargainBender)
 - [Madhu M Pandurangi](https://github.com/MadhuMPandurangi)
 - [Vaishnavi Ramanujapuram]
+- [samuelbarrionuevo](https://github.com/samuelbarrionuevo)
 <!-- prettier-ignore-end -->
 
