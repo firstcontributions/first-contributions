@@ -88,6 +88,7 @@
 - [TAZER](https://github.com/ajtazer)
 - [WILLIAM ROZARIO](https://github.com/William73920)
 - [Nikhil]
+- [binay uchai](https://github.com/binayuchai)
 - [Renz00](https://github.com/Renz00)
 - [Muthu](https://github.com/samurai-3)
 - [Fatiudeen](https://github.com/fatiudeen)
