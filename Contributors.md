@@ -698,6 +698,7 @@
 - [Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)
 - [Amir](https://github.com/amir1610)
 - [XD](https://github.com/snowboulde)
+- [Piyush Sultaniya](https://github.com/gitPiyushhh)
 - [Hassan](https://github.com/Mhassanniazi)
 - [Enosejolagbon](https://github.com/enosefelix)
 - [Neo Polorie](https://github.com/kndpolorie)
