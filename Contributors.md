@@ -6,6 +6,7 @@
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Harman Ro](https://github.com/HarmanRo)
 - [Wrik Roy](https://github.com/roywrik)
+- [Rebecca Hampton] (https://github.com/rebeccajhampton)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
 - [Fyka Ansari](https://github.com/fykaa)
