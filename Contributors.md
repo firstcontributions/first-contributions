@@ -1910,6 +1910,7 @@ MS
 - [Chan](https://github.com/Chan-Amasawa)
 - [Tejas](https://github.com/Tejas9535)
 - [Adetola Ogundipe](https://github.com/tolaogundipe)
+- [Jake Shirey](https://github.com/jakeshirey/)
 - [wasswaenockmale](https://github.com/wasswaenockmale/)
 - [Albgp22](https://github.com/albgp22)
 - [Sabrina](https://github.com/eggsmayhem)
