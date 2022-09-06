@@ -19,6 +19,7 @@
 - [d-kanti](https://github.com/d-kanti)
 - [ptrkb](https://github.com/ptrkb)
 - [mithindev](https://github.com/mithindev)
+- [Nivrithi Garimella]
 - [Sivnerof](https://github.com/Sivnerof)
 - [Jada Alexander](https://github.com/jalexandertech)
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
