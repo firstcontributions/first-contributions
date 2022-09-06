@@ -20,6 +20,7 @@
 - [ptrkb](https://github.com/ptrkb)
 - [Lahcen Haouch](https://github.com/LahcenHaouch)
 - [mithindev](https://github.com/mithindev)
+  [DeclanGazil02](https://github.com/DeclanGazil02)
 - [Nivrithi Garimella]
 - [Sivnerof](https://github.com/Sivnerof)
 - [Jada Alexander](https://github.com/jalexandertech)
