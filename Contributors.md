@@ -2796,6 +2796,7 @@ MS
 - [M Shiva](https://github.com/Shiva1406)
 - [Shobana](https://github.com/shobanasat)
 - [Winston](https://github.com/p81sunshine)
+- [Maximillian May](https://github.com/maxmay94)
 - [Riyaz Shaikh](https://github.com/riyaz7122001)
 - [Galaluddin Owais](https://github.com/GalaluddinOwais)
 - [huihui.xiong](https://github.com/XionghuihuiYiwen)
