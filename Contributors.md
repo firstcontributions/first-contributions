@@ -458,6 +458,7 @@
 - [Naman Garg](https://github.com/naman-ng)
 - [Kevin Jivani](https://github.com/kevin3010)
 - [Nazimudheen](https://github.com/nazimudheen267)
+- [Victoria Siver](https://github.com/victoriasiver26)
 - [Ramadhan Permadi](https://github.com/rmdhnprmd)
   [Ikem Violacordis Adaobi](https://github.com/Violacordis)
 - [Pritam Singh](https://github.com/Pritam-s)
