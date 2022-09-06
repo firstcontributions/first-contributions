@@ -14,6 +14,7 @@
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
 - [d-kanti](https://github.com/d-kanti)
+- [ptrkb](https://github.com/ptrkb)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
 - [Jada Alexander](https://github.com/jalexandertech)
