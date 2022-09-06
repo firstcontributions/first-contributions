@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Amir Rasool](https://github.com/AmirRasool)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
