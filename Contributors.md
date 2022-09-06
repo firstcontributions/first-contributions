@@ -2847,5 +2847,5 @@ MS
 - [Thomas Fai](https://github.com/tfai8308)
 - [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
-- [Sajani Panchal](https://github.com/Nini12345678901)
+- [Sajani](https://github.com/Nini12345678901)
 <!-- prettier-ignore-end -->
