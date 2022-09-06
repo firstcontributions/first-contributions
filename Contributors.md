@@ -2857,5 +2857,6 @@ MS
 - [Phillip Vanderlaat] (https://github.com/pvanderlaat)
 - [Xu Shen](https://github.com/chenxu10)
 - [Syed Mahdi](https://github.com/5yM01)
+- [Eric Iamarino] (https://github.com/ericiamarino)
 <!-- prettier-ignore-end -->
 
