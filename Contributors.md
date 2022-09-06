@@ -2848,5 +2848,6 @@ MS
 - [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
 - [Phillip Vanderlaat] (https://github.com/pvanderlaat)
+- [Xu Shen](https://github.com/chenxu10)
 <!-- prettier-ignore-end -->
 
