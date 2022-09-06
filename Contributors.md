@@ -13,6 +13,7 @@
 - [Fyka Ansari](https://github.com/fykaa)
 - [Mian Azan](https://github.com/mianazan099)
 - [Mat](https://github.com/raipidddd0ex)
+- [Ryan](https://github.com/EntropyUF)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
