@@ -19,6 +19,7 @@
 - [Sivnerof](https://github.com/Sivnerof)
 - [Jada Alexander](https://github.com/jalexandertech)
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
+- [Sourabh Singh Bisht](https://github.com/Gallant-Sage)
 - [Richmond Tetteh](https://github.com/richmondstetteh)
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
 - [Washington Aguirre D](https://github.com/Washi92)
