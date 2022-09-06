@@ -54,6 +54,7 @@
 - [Ish Mac] (https://github.com/iceyice)
 - [Emmanuel Chanda] (https://github.com/chandae)
 - [Dipendra Shrestha](https://github.com/dipushrestha)
+- [UJJAWAL RANA]
 - [Syed Asar Aman]
 - [Eric Clayton]
 - [Rakshit Shetty ✨✨] (https://github.com/Rakxit-Shetty)
