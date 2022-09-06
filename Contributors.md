@@ -2853,5 +2853,6 @@ MS
 - [MJ](https://github.com/mj-james)
 - [Phillip Vanderlaat] (https://github.com/pvanderlaat)
 - [Xu Shen](https://github.com/chenxu10)
+- [Syed Mahdi](https://github.com/5yM01)
 <!-- prettier-ignore-end -->
 
