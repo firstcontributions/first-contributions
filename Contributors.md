@@ -2364,6 +2364,7 @@ MS
 - [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
   Mohammed Ameen
+Vincent To
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
