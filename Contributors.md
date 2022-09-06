@@ -596,8 +596,7 @@
 - [Gunnar Raßmann](https://github.com/grumiumxd)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -850,7 +849,7 @@
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Navin Narayanan](https://github.com/navincodesalot)
-MS
+  MS
 - [Miyuki Higa](https://github.com/Maigodz)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
@@ -2857,5 +2856,5 @@ MS
 - [Phillip Vanderlaat] (https://github.com/pvanderlaat)
 - [Xu Shen](https://github.com/chenxu10)
 - [Syed Mahdi](https://github.com/5yM01)
+- [Rodrico Blackman II](https://github.com/RodricoSBlackmanII)
 <!-- prettier-ignore-end -->
-
