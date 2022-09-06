@@ -2845,6 +2845,7 @@ MS
 - [Ann-Kareen Gedeus] (github/anngedeus)
 - [Natalie Maronas](https://github.com/maronasn)
 - [Thomas Fai](https://github.com/tfai8308)
+- [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
 <!-- prettier-ignore-end -->
 
