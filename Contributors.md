@@ -1657,6 +1657,7 @@ MS
 - [Ashmit Chamoli](https://github.com/ashmitchamoli)
 - [Prajwal](https://github.com/prajwalbandak)
 - [Neha Santani](https://github.com/NehaSantani)
+- [Michele Stewart] (https://github.com/michelestew)
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
 - [Aleksa Radojicic](https://github.com/radojicic23)
