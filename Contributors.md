@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Seth Brown](https://github.com/sethbrown246)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Harman Ro](https://github.com/HarmanRo)
