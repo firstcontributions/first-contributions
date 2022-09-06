@@ -106,6 +106,7 @@
 - [Doug Colin](https://github.com/Doug-Colin)
 - [Lukasz Sikora](https://github.com/lsikora1)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
+- [Evan Andresen](https://github.com/evanandresen)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
