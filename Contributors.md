@@ -41,6 +41,7 @@
 - [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
+- [Aissa Nouacer](https://github.com/AissaNouacer)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Isaac Kuria](https://github.com/kabszac)
 - [Rick](https://github.com/SharZzCode)
