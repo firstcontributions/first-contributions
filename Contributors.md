@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Harman Ro](https://github.com/HarmanRo)
