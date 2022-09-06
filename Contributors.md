@@ -2821,5 +2821,6 @@ MS
 - [samuelbarrionuevo](https://github.com/samuelbarrionuevo)
 - [Viet Vu](https://github.com/Vietvu00)
 - [Prabin Nepal] (https://github.com/nepalprabin)
+- [Aleksey Shchipanov] (https://github.com/Shchipanov/first-contributions)
 <!-- prettier-ignore-end -->
 
