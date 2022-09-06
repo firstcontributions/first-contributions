@@ -152,6 +152,7 @@
 - [Kamil Sitarz]
 - [Maranda Bui]
 - [Chukwuani Stephen]
+- [Zachary Melson](https://github.com/zmelson)
 - [Brandon Lwe](https://github.com/brandonlwe98)
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Alvaro L.](https://github.com/Lawrence4U/)
