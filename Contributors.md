@@ -2821,5 +2821,6 @@ MS
 - [samuelbarrionuevo](https://github.com/samuelbarrionuevo)
 - [Viet Vu](https://github.com/Vietvu00)
 - [Prabin Nepal] (https://github.com/nepalprabin)
+- [Roberto Rodriguez](https://github.com/FonecaBot2)
 <!-- prettier-ignore-end -->
 
