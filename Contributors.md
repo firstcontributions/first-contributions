@@ -2847,5 +2847,6 @@ MS
 - [Thomas Fai](https://github.com/tfai8308)
 - [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
+- [Phillip Vanderlaat] (https://github.com/pvanderlaat)
 <!-- prettier-ignore-end -->
 
