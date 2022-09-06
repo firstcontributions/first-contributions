@@ -2849,5 +2849,6 @@ MS
 - [Carley Noll](https://github.com/carlbeet)
 - [MJ](https://github.com/mj-james)
 - [Phillip Vanderlaat] (https://github.com/pvanderlaat)
+- [Xu Shen](https://github.com/chenxu10)
 <!-- prettier-ignore-end -->
 
