@@ -18,6 +18,7 @@
 - [Sivnerof](https://github.com/Sivnerof)
 - [Jada Alexander](https://github.com/jalexandertech)
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
+- [Richmond Tetteh](https://github.com/richmondstetteh)
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
