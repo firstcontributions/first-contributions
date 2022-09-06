@@ -2827,5 +2827,6 @@ MS
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 - [Ann-Kareen Gedeus] (github/anngedeus)
 - [Natalie Maronas](https://github.com/maronasn)
+- [Thomas Fai](https://github.com/tfai8308)
 <!-- prettier-ignore-end -->
 
