@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Sidney Tebbal](https://github.com/sidney888)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Harman Ro](https://github.com/HarmanRo)
