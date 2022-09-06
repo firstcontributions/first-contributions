@@ -177,6 +177,7 @@
 - [Daniarfa](https://github.com/daniarfadd)
 - [Ram Sankhavaram](https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
+- [Khoshow](https://github.com/khoshow)
 - [hat-owl](https://github.com/hat-owl)
 - [Justice](https://github.com/jaresj)
 - Harsit Agarwalla
