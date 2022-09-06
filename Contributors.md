@@ -27,6 +27,7 @@
 - [Dhruv Gandhi](https://github.com/DhruvGandhi31)
 - [Nagasha Jemimah Nyakato](https://github.com/Jem256)
 - [dnkt182] (https://github.com/dnkTin)
+- [abhishek0chauhan] (https://github.com/abhishek0chauhan)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
@@ -568,8 +569,7 @@
 - [Gunnar Raßmann](https://github.com/grumiumxd)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -821,7 +821,7 @@
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Navin Narayanan](https://github.com/navincodesalot)
-MS
+  MS
 - [Miyuki Higa](https://github.com/Maigodz)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
@@ -2814,4 +2814,3 @@ MS
 - [Viet Vu](https://github.com/Vietvu00)
 - [Prabin Nepal] (https://github.com/nepalprabin)
 <!-- prettier-ignore-end -->
-
