@@ -2823,5 +2823,6 @@ MS
 - [Prabin Nepal] (https://github.com/nepalprabin)
 - [Roberto Rodriguez](https://github.com/FonecaBot2)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
+- [shannon harrison]
 <!-- prettier-ignore-end -->
 
