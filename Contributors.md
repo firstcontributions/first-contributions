@@ -36,6 +36,7 @@
 - [Lincoln Li](https://github.com/vivalkm)
 - [Sidharth H.](https://github.com/tenocijam)
 - [Qais Aziz] (https://github.com/qais-aziz)
+- [Alyssa Cape](https://github.com/alyssacape)
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Loren-Jahan] (https://github.com/Loren)
 - [Abdul Muqeet] (https://github.com/Nawaz088)
