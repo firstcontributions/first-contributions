@@ -29,6 +29,7 @@
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
+- [Emma Mastro](https://github.com/emmamastro)
 - [Dhruv Gandhi](https://github.com/DhruvGandhi31)
 - [Nagasha Jemimah Nyakato](https://github.com/Jem256)
 - [dnkt182] (https://github.com/dnkTin)
@@ -816,7 +817,8 @@
 - [Anmol Panchal](https://github.com/anmolp476)
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
 - [Tanvi Rana](https://github.com/tanvirana)
-- [satoko 🐈‍⬛](https://github.com/satoko)
+- [satoko 🐈
+⬛](https://github.com/satoko)
 - [Rakxit-Shetty 🍃🍃🍃] (https://github.com/Rakxit-Shetty)
 - [Olamide Oladele](https://github.com/OlamideOladele)
 - [Prasad Mutnale](https://github.com/Prasad-mutnale)
@@ -863,8 +865,10 @@ MS
 - [Thierry-Rakotomanana](https://github.com/ThierryRakotomanana)
 - [Harvey Munoz](https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
-- [Jack Vogt ‍🫡](https://github.com/jwvogt)
-- [Aldo Arista 🐱‍](https://github.com/aldoawp)
+- [Jack Vogt 
+🫡](https://github.com/jwvogt)
+- [Aldo Arista 🐱
+](https://github.com/aldoawp)
 - [Maria Paz Gutierrez Ayala](https://github.com/mp-gutierrez/)
 - [Satvik Watts](https://github.com/SatvikWatts)
 - [Henry Le](https://github.com/henrysama58)
