@@ -2829,5 +2829,6 @@ MS
 - [Ann-Kareen Gedeus] (github/anngedeus)
 - [Natalie Maronas](https://github.com/maronasn)
 - [Thomas Fai](https://github.com/tfai8308)
+- [Lauren Prieto] (https://github.com/lauren1117)
 <!-- prettier-ignore-end -->
 
