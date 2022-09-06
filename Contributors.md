@@ -40,6 +40,7 @@
 - [Abdul Muqeet] (https://github.com/Nawaz088)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
+- [Ish Mac] (https://github.com/iceyice)
 - [Emmanuel Chanda] (https://github.com/chandae)
 - [Dipendra Shrestha](https://github.com/dipushrestha)
 - [Syed Asar Aman]
