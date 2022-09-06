@@ -2822,5 +2822,6 @@ MS
 - [Viet Vu](https://github.com/Vietvu00)
 - [Prabin Nepal] (https://github.com/nepalprabin)
 - [Roberto Rodriguez](https://github.com/FonecaBot2)
+- [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 <!-- prettier-ignore-end -->
 
