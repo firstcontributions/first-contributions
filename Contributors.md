@@ -2825,5 +2825,6 @@ MS
 - [Roberto Rodriguez](https://github.com/FonecaBot2)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 - [Ann-Kareen Gedeus] (github/anngedeus)
+- [Natalie Maronas](https://github.com/maronasn)
 <!-- prettier-ignore-end -->
 
