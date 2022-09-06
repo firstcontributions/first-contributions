@@ -18,6 +18,7 @@
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
 - [d-kanti](https://github.com/d-kanti)
 - [ptrkb](https://github.com/ptrkb)
+- [Lahcen Haouch](https://github.com/LahcenHaouch)
 - [mithindev](https://github.com/mithindev)
 - [Nivrithi Garimella]
 - [Sivnerof](https://github.com/Sivnerof)
