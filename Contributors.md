@@ -6,6 +6,7 @@
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
+- [Julián Gómez](https://github.com/jgompis)
 - [Harman Ro](https://github.com/HarmanRo)
   [Roberto Camberos] (https://github.com/robertocamberos)
 - [Wrik Roy](https://github.com/roywrik)
