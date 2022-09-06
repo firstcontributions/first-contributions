@@ -4,6 +4,7 @@
 
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Harman Ro](https://github.com/HarmanRo)
+- [Wrik Roy](https://github.com/roywrik)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
 - [Fyka Ansari](https://github.com/fykaa)
@@ -2824,5 +2825,6 @@ MS
 - [Roberto Rodriguez](https://github.com/FonecaBot2)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 - [Annie Michel]
+- [Ann-Kareen Gedeus] (github/anngedeus)
 <!-- prettier-ignore-end -->
 
