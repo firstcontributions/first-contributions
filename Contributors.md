@@ -681,6 +681,7 @@
 - [Dave Collison](https://github.com/thebigdavec)
 - [Sagar M](https://github.com/SagarSSMK)
 - [Brian]()
+- [Adam Eldredge](https://github.com/adameldredge)
 - [Christoffer Molinder](https://github.com/Kyurino)
 - [Mullerio] (https://github.com/Mullerio)
 - [Utkarsh Joshi](https://github.com/utkarshjosh)
