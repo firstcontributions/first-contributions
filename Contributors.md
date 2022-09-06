@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
+- [Adeeb Rashid](https://github.com/adeeb18)
 - [Harman Ro](https://github.com/HarmanRo)
 - [Wrik Roy](https://github.com/roywrik)
 - [Patrick Haley](https://github.com/patrickhaley)
@@ -25,6 +26,7 @@
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
+- [Roie Scharf](https://github.com/scharf-roie)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
@@ -106,6 +108,7 @@
 - [Doug Colin](https://github.com/Doug-Colin)
 - [Lukasz Sikora](https://github.com/lsikora1)
 - [Athos Schrapett](https://github.com/AthosSchrapett/)
+- [Evan Andresen](https://github.com/evanandresen)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
@@ -681,6 +684,7 @@
 - [Dave Collison](https://github.com/thebigdavec)
 - [Sagar M](https://github.com/SagarSSMK)
 - [Brian]()
+- [Adam Eldredge](https://github.com/adameldredge)
 - [Christoffer Molinder](https://github.com/Kyurino)
 - [Mullerio] (https://github.com/Mullerio)
 - [Utkarsh Joshi](https://github.com/utkarshjosh)
@@ -1656,6 +1660,7 @@ MS
 - [Ashmit Chamoli](https://github.com/ashmitchamoli)
 - [Prajwal](https://github.com/prajwalbandak)
 - [Neha Santani](https://github.com/NehaSantani)
+- [Michele Stewart] (https://github.com/michelestew)
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
 - [Aleksa Radojicic](https://github.com/radojicic23)
@@ -2830,4 +2835,5 @@ MS
 - [Natalie Maronas](https://github.com/maronasn)
 - [Thomas Fai](https://github.com/tfai8308)
 - [Evan Zhang](https://github.com/evanzh15)
+- [Carley Noll](https://github.com/carlbeet)
 <!-- prettier-ignore-end -->
