@@ -993,11 +993,7 @@ MS
 - [ashish lotake](https://github.com/ashishlotake)
 - [Nitant Makwana](https://github.com/Codeboy6496)
 - [Atakan Pars](https://github.com/AP9747)
-- [Federico Speltini](https://github.com/FedeSpeltini)
-- [Saeed Yari](https://github.com/sisiun)
-- [Marissa Langham](https://github.com/MaRissaLangham)
-- [Fidel Ramos](https://github.com/FidelAlberto)
-- Test
+- Blabla test
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
 - [JK Lagrosa](https://github.com/jklagrosa)
