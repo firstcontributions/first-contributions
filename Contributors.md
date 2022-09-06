@@ -171,6 +171,7 @@ p3tun1a
   [Josh Miller](https://github.com/RamenJunkie)
   [Sayantan Naskar](https://github.com/Arbtrage)
 - [Diego Herrera](https://github.com/diegoherrer4)
+- [Abdulkareem Ojerinde](https://github.com/abdulkareemoj)
 - [Ioan Adafinei](https://github.com/IoanRO)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
 - [Lakshminarayan Shrivas](https://github.com/LNSHRIVAS)
