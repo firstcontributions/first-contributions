@@ -9,6 +9,7 @@
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
+- [Rajoni Akter](https://github.com/rajoniakter)
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Gift Segun Adesigbin](https://github.com/giftade)
 - [Adeeb Rashid](https://github.com/adeeb18)
