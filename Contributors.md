@@ -40,6 +40,7 @@
 - [Lahcen Haouch](https://github.com/LahcenHaouch)
 - [mithindev](https://github.com/mithindev)
 - [DeclanGazil02](https://github.com/DeclanGazil02)
+- [Shae Smith](https://https://github.com/thereisnospoon1223)
 - [Nivrithi Garimella]
 - [Sivnerof](https://github.com/Sivnerof)
 - [SamanthaCrespo 👩🏼‍💻](https://github.com/samkcrespo)
