@@ -37,6 +37,7 @@
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
+- [Sukhorukov Dmitrii](https://github.com/Frudee)
 - [Roie Scharf](https://github.com/scharf-roie)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
@@ -606,8 +607,7 @@
 - [Gunnar Raßmann](https://github.com/grumiumxd)
 - [apayziev](https://github.com/apayziev)
 - [Amit]
-- [Shino]
--[Loren-haran]
+- [Shino] -[Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -860,7 +860,7 @@
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Navin Narayanan](https://github.com/navincodesalot)
-MS
+  MS
 - [Miyuki Higa](https://github.com/Maigodz)
 - [Gunjan Modi](https://github.com/gunjanmodi)
 - [Rajat Raj](https://github.com/rajatrjj)
@@ -2377,7 +2377,7 @@ MS
 - [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
   Mohammed Ameen
-Vincent To
+  Vincent To
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
@@ -2875,4 +2875,3 @@ Vincent To
 - [Syed Mahdi](https://github.com/5yM01)
 - [Stephen Wang](https://github.com/stephenw121
 <!-- prettier-ignore-end -->
-
