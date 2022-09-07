@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Lane Foxwood](https://github.com/lanefoxwood)
+- [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Adeeb Rashid](https://github.com/adeeb18)
