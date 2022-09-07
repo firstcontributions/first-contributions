@@ -2643,6 +2643,7 @@ Vincent To
 - [cirkitty] (https://github.com/cirkitty)
 - [Brisben88] (https://github.com/brisben88)
 - [Gredar]
+- [Gregory Morita] (https://github.com/GregMorita)
 - [Jordan-Warr] (https://github.com/Jordan-Warr)
 - [Olakunle Raheem](https://github.com/mayor-rhymes)
 - [Ariel Gencianeo]
