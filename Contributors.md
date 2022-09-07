@@ -2890,6 +2890,7 @@ Vincent To
 - [Syed Mahdi](https://github.com/5yM01)
 - [Stephen Wang](https://github.com/stephenw121
 - [Homin-jung](https://github.com/jung-homin)
+- [Jason Dnfkr](https://github.com/JasonDnfkr)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
