@@ -33,6 +33,7 @@
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
+- [Methasit Tantiplubtong](https://github.com/aikonnn)
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
 - [d-kanti](https://github.com/d-kanti)
 - [ptrkb](https://github.com/ptrkb)
