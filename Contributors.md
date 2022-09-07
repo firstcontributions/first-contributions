@@ -1001,6 +1001,7 @@ MS
 - [Jose Arellanes](https://github.com/jmarellanes)
 - [Mohammad Rajabloo](https://github.com/MohammadRajabloo1991)
 - [Krisztián Kiss](https://github.com/septimus1213)
+- [Hanuman Chu](https://github.com/chuhanuman)
 - [Wilman Vinueza](https://github.com/wildanvin)
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
