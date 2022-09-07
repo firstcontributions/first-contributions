@@ -2,6 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
+- [Bruno Dede Jr]
+
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Harman Ro](https://github.com/HarmanRo)
 - [Wrik Roy](https://github.com/roywrik)
