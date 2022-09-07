@@ -17,6 +17,7 @@
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Harman Ro](https://github.com/HarmanRo)
   [Roberto Camberos] (https://github.com/robertocamberos)
+- [Sagar Jariwala](https://github.com/Sagarjari01)
 - [Wrik Roy](https://github.com/roywrik)
 - [Rebecca Hampton] (https://github.com/rebeccajhampton)
 - [Patrick Haley](https://github.com/patrickhaley)
