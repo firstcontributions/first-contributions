@@ -57,6 +57,7 @@
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Alyssa Cape](https://github.com/alyssacape)
 - [Beshir Saeed] (https://github.com/Bishosba)
+- [Tawanda Munongo] (https://github.com/edtha3rd)
 - [Loren-Jahan] (https://github.com/Loren)
 - [Abdul Muqeet] (https://github.com/Nawaz088)
 - [Ralph Custodio] (https://github.com/itsmeralph09)
