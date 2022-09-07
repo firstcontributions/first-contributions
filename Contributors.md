@@ -65,6 +65,7 @@
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Ish Mac] (https://github.com/iceyice)
 - [CommonDrum] (https://github.com/CommonDrum)
+- [Raghav Khanna]
 - [Emmanuel Chanda] (https://github.com/chandae)
 - [Dipendra Shrestha](https://github.com/dipushrestha)
 - [UJJAWAL RANA]
