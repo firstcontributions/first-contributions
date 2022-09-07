@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [Bruno Dede Jr](https://github.com/7Arms) 
+- [Bruno Dede Jr](https://github.com/7Arms)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Harman Ro](https://github.com/HarmanRo)
 - [Wrik Roy](https://github.com/roywrik)
