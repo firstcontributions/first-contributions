@@ -397,6 +397,7 @@
 - [Nehal Ahmed](https://github.com/nehal2210)
 - [Ilyas Rufai](https://github.com/rufilboy)
 - [Neikoli Augustine](https://github.com/niico868)
+- [Jesse Segall](https://github.com/JesseSegall)
 - [Logan Phan](https://github.com/letsgologan)
 - [Dima Smaha](https://github.com/DimaSmaha)
 - [Esther Idabor](https://github.com/EstherIdabor)
