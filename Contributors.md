@@ -97,6 +97,7 @@
   HarryN
 - [Emanuele Bianchetti](https://github.com/ema-bianchetti)
 - [Tomas Weiskog](https://github.com/Weiskog)
+- [Phil Ecker](https://github.com/philecker)
 - [Priyam Agarwal](https://github.com/Priyam183)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Taise Miyazumi](https://github.com/tmiyazumi)
