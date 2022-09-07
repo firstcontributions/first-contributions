@@ -2699,6 +2699,7 @@ Vincent To
 - [Hikari](https://github.com/Hikari7)
 - [Ibrahim Opeyemi Abdulraheem](https://github.com/ibroraheem)
 - [Sayon Som](https://github.com/sayon-som)
+- [Mihnea Tudor Cretu](https://github.com/tudor-cretu)
 - [Md Shams Firoz](https://github.com/shamsfiroz)
 - [Fedi Salhi](https://github.com/FediSalhi)
 - [Nelson Joppi](https://github.com/njoppi2)
