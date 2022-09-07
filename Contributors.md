@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Lane Foxwood](https://github.com/lanefoxwood)
+-[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Harshal Pathak](https://github.com/dev-game-ops)
