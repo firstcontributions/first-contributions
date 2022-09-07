@@ -2892,6 +2892,6 @@ Vincent To
 - [Stephen Wang](https://github.com/stephenw121
 - [Homin-jung](https://github.com/jung-homin)
 - [Sien Long Lim](https://github.com/sienlonglim)
-
+- [Jacob Nakamura](https://github.com/JSwizzleDizzle)
 # sample contribution change
 <!-- prettier-ignore-end -->
