@@ -5,6 +5,7 @@
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
+- [Simon Kellegher](https://github.com/Siborg18)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Julián Gómez](https://github.com/jgompis)
