@@ -46,6 +46,7 @@
 - [Nagasha Jemimah Nyakato](https://github.com/Jem256)
 - [Miles Inada](https://github.com/milesinada)
 - [dnkt182] (https://github.com/dnkTin)
+- [Vishnu PS] (https://github.com/VishnuPScodes)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Aissa Nouacer](https://github.com/AissaNouacer)
