@@ -20,6 +20,7 @@
   [Roberto Camberos] (https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
 - [Wrik Roy](https://github.com/roywrik)
+- [Julien AWON'GA](https://github.com/julien-aw)
 - [Rebecca Hampton] (https://github.com/rebeccajhampton)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
