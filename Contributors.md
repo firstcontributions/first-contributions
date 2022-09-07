@@ -64,7 +64,7 @@
 - [Dipendra Shrestha](https://github.com/dipushrestha)
 - [UJJAWAL RANA]
 - [Syed Asar Aman]
-- [Schamir Poliard🔥🔥](https://github.com/schamiir)
+- [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Eric Clayton]
 - [Rakshit Shetty ✨✨] (https://github.com/Rakxit-Shetty)
 - [Julian Schiedel] (https://github.com/palladio11)
