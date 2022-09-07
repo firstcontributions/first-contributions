@@ -196,7 +196,8 @@
 - [Amí Naeily](https://github.com/pinkhairs)
 - [gerasim simeonov](https://github.com/penzata)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
-- [Dylan Manfredi](https://github.com/dmanfredi)
+- [Dylan Manfredi](https://github.com/dmanfredi)]
+- [Deepak Putta](https://github.com/deepak-putta)
 - [ASNaq35]
 - [Kyle Rooney]
 - [Farel](https://github.com/farellukas)
