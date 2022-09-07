@@ -5,6 +5,7 @@
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Miguel Tejeda](https://github.com/Mtjay)
+- [Harshal Pathak](https://github.com/dev-game-ops)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Gift Segun Adesigbin](https://github.com/giftade)
