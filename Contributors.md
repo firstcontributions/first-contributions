@@ -12,6 +12,7 @@
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Julián Gómez](https://github.com/jgompis)
+- [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Harman Ro](https://github.com/HarmanRo)
   [Roberto Camberos] (https://github.com/robertocamberos)
 - [Wrik Roy](https://github.com/roywrik)
