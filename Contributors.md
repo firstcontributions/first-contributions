@@ -43,6 +43,7 @@
 - [Robert Reyes](https://github.com/robrey0)
 - [Dhruv Gandhi](https://github.com/DhruvGandhi31)
 - [Nagasha Jemimah Nyakato](https://github.com/Jem256)
+- [Miles Inada](https://github.com/milesinada)
 - [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
