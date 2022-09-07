@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 
@@ -86,6 +86,7 @@
 - [UJJAWAL RANA]
 - [Syed Asar Aman]
 - [Schamir Poliard🔥🔥](https://github.com/schamiir)
+- [Magnus Jensen]
 - [Eric Clayton]
 - [Rakshit Shetty ✨✨] (https://github.com/Rakxit-Shetty)
 - [Julian Schiedel] (https://github.com/palladio11)
