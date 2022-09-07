@@ -62,6 +62,7 @@
 - [Sidharth H.](https://github.com/tenocijam)
 - [Qais Aziz] (https://github.com/qais-aziz)
 - [Alyssa Cape](https://github.com/alyssacape)
+- [Bakhtiar Rasheed] (https://github.com/bakhtiar56)
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Tawanda Munongo] (https://github.com/edtha3rd)
 - [Loren-Jahan] (https://github.com/Loren)
