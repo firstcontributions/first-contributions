@@ -2829,6 +2829,7 @@ Vincent To
 - [Ryan Whitman](https://github.com/rmwhitman)
 - [Dani Breijer] (https://github.com/BreijD)
 - [Lune Yune](https://github.com/luneyne)
+- [Davit K](https://github.com/daaavit)
 - [Yurii Bubis](https://github.com/dobraWodka)
 - [JCDent0n](https://github.com/JCDent0n)
 - [Vincent Camacho](https://github.com/joyousdevil)
