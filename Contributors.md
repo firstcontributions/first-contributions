@@ -118,6 +118,7 @@
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
+- [MarcosH911] (https://github.com/MarcosH911)
 - [Kanishk](https://github.com/knshkp)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
