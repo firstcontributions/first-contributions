@@ -172,6 +172,7 @@
 - [Partha Sarathi Muduli](https://github.com/partha7978)
 - [Kanishk Chathley](https://github.com/can-ishk)
 - [Arjun R Warrier](https://github.com/arjunrwarrier)
+- [Ethan Nguyen](https://github.com/SteeRevo)
 - [Brian Wayne]
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
