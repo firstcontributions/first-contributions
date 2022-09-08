@@ -123,6 +123,7 @@
 - [Amir Rasool](https://github.com/AmirRasool)
 - [Marc Vincent Bentoy](https://github.com/marc-bentoy)
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
+- [Petr Juza](https://github.com/petrjz)
 - [MMarbs2](https://github.com/MMarble2)
 - [samadpls](https://github.com/samadpls)
 - [Conner Cook](https://github.com/conner-c)
