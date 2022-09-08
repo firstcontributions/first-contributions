@@ -2913,6 +2913,7 @@ Vincent To
 - [Stephen Wang](https://github.com/stephenw121
 - [Homin-jung](https://github.com/jung-homin)
 - [Sien Long Lim](https://github.com/sienlonglim)
+- [Marius Malinauskas](https://github.com/marius-ms)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
