@@ -2208,6 +2208,7 @@ anokh
 - [Denny Chen](https://github.com/DenxyChen)
 - [Ken Tiet](https://github.com/kentiet)
 - [dansch87](https://github.com/dansch87)
+- [SGSTAR01](https://github.com/SGSTAR01)
 - [Graeme Crawley](https://github.com/GraemeCrawley)
 - [Antoine Q.](https://github.com/antoine-q)
 - [Anthony Beech](https://github.com/AnthonyBeech)
