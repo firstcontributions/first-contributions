@@ -119,6 +119,7 @@
 - [Nikhil](https://github.com/nikhilgithub911)
 - [Micheal](https://github.com/ad3rinto)
 - [Matt Keane](https://github.com/MattKeane)
+- [Varun Modi](https://github.com/Panfern)
 - [Jonny He]
 - [Gaatvul](https://github.com/Gaatvul)
 - [Kalstorm](https://github.com/umarabdullah16)
