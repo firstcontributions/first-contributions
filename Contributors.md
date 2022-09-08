@@ -33,6 +33,7 @@
 - [Harman Ro](https://github.com/HarmanRo)
   [Roberto Camberos] (https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
+[Brent Upton](https://github.com/bupton)
 - [Wrik Roy](https://github.com/roywrik)
 - [Julien AWON'GA](https://github.com/julien-aw)
 - [Rebecca Hampton] (https://github.com/rebeccajhampton)
