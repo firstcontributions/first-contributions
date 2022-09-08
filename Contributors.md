@@ -22,6 +22,7 @@
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
+- [Abdessamie Allouane](https://github.com/AbdessamieAllouane)
 - [Harman Ro](https://github.com/HarmanRo)
   [Roberto Camberos] (https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
