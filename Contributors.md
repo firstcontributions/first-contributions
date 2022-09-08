@@ -1768,6 +1768,7 @@ anokh
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Hamza Jamshed](https://github.com/Sassyprogrammer1)
 - [Jack Buckley](https://github.com/jack-r-buckley/)
+- [William](https://github.com/WilliamZhang91)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Arnav Negi](https://github.com/Arnav-Negi)
 - [Turry](https://github.com/Oh-Turry)
