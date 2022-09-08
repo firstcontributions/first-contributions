@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Lane Foxwood](https://github.com/lanefoxwood)
+-[Pete Wang](https://github.com/pbnj1)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Vandit Shah] (https://github.com/vanditshah44)
