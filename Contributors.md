@@ -238,6 +238,7 @@
 - [JasperMiddendorp](https://github.com/JasperMiddendorp/)
 - [Daniarfa](https://github.com/daniarfadd)
 - [Ram Sankhavaram](https://github.com/sankhavaramsaitulasiram)
+- [Christa DeJesus](https://github.com/christadejesus)
 - [TheJestr]
 - [Khoshow](https://github.com/khoshow)
 - [hat-owl](https://github.com/hat-owl)
