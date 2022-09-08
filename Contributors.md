@@ -18,6 +18,7 @@
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
+- [Rakesh Ganneboina]
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Gift Segun Adesigbin](https://github.com/giftade)
 - [Adeeb Rashid](https://github.com/adeeb18)
