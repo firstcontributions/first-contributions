@@ -2574,6 +2574,7 @@ Vincent To
 - [Fabrício Catani](https://github.com/fabriciocf92/)
 - [Edauro](https://github.com/edauro)
 - [Raul Viana](https://github.com/raulviana)
+- [Tom Kruger] (https://github.com/Krugertom)
 - [Guru](https://github.com/ChattiGuruRaghavendra)
 - [desmond1313](https://github.com/desmond1313)
 - [Afiq Hazim](https://github.com/nurafiqhazim)
