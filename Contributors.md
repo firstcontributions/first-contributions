@@ -2360,6 +2360,7 @@ anokh
 - [Dominic Duke](https://github.com/domduke)
 - [Chris Thompson](https://github.com/ChrisThompsonDev)
 - [Kenrick Lam](https://github.com/klam98)
+- [Hans Scheepers](https://github.com/huurseen)
 - [Devashish Mital](https://github.com/devashishmital)
 - [Piyush Negi](https://github.com/NegiBaba)
 - [k2491p](https://github.com/k2491p)
