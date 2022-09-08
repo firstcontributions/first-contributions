@@ -2094,6 +2094,7 @@ anokh
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - [Soumen samanta](https://github.com/soumen246)
 - [Your Mum](https://github.com/SowmeshSharma0411)
+- [Sam Poff](https://github.com/SamuelPoff)
 - [Shrikant Dhayje](https://github.com/shriekdj)
 - [SinisterGaze](https://github.com/SinisterGaze)
 - [lucky-chap](https://github.com/lucky-chap)
