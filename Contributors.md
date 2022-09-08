@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Lane Foxwood](https://github.com/lanefoxwood)
+- [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
