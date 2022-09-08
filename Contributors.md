@@ -502,6 +502,7 @@
 - [Cindy Soh]
 - Christian Kelle
 - [Izra James](https://github.com/IzraJ)
+- [Paul Cave](https://github.com/paulcave001)
 - [Dyte]
 - [Tarun Garg] (https://github.com/Evil2004)
 - [Steven Dorsey]
