@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Lane Foxwood](https://github.com/lanefoxwood)
+- [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
