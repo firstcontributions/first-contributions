@@ -37,6 +37,7 @@
 - [Mian Azan](https://github.com/mianazan099)
 - [Mat](https://github.com/raipidddd0ex)
 - [Ryan](https://github.com/EntropyUF)
+- [Jorge](https://github.com/JorgeHermo)
 - [Diya Goyal](https://github.com/diyagoyal98)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
