@@ -2934,6 +2934,6 @@ Vincent To
 - [Homin-jung](https://github.com/jung-homin)
 - [Sien Long Lim](https://github.com/sienlonglim)
 - [Marius Malinauskas](https://github.com/marius-ms)
-
+- [Jenifer Hammond](https://github.com/Frinjee)
 # sample contribution change
 <!-- prettier-ignore-end -->
