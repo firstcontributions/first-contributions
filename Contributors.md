@@ -36,6 +36,7 @@
 - [ambangeles] (https://github.com/ambangeles)
 - [Fyka Ansari](https://github.com/fykaa)
 - [Mian Azan](https://github.com/mianazan099)
+- [Nathan Strachan](https://github.com/Nathan-is)
 - [Mat](https://github.com/raipidddd0ex)
 - [Ryan](https://github.com/EntropyUF)
 - [Jorge](https://github.com/JorgeHermo)
