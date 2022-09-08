@@ -4,6 +4,7 @@
 
 - [Lane Foxwood](https://github.com/lanefoxwood)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
 - [Miguel Tejeda](https://github.com/Mtjay)
