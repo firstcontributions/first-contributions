@@ -36,7 +36,7 @@
 - [Harman Ro](https://github.com/HarmanRo)
   [Roberto Camberos] (https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
-[Brent Upton](https://github.com/bupton)
+- [Brent Upton](https://github.com/bupton)
 - [Wrik Roy](https://github.com/roywrik)
 - [Julien AWON'GA](https://github.com/julien-aw)
 - [Rebecca Hampton] (https://github.com/rebeccajhampton)
@@ -369,7 +369,7 @@
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - YeeHaww_Amit!!
 - [Evan Nevermore](https://github.com/infiniteinsight)
--[Erick Felix](https://github.com/efs0-cod3)
+- [Erick Felix](https://github.com/efs0-cod3)
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Zaid Marrie](https://github.com/ZaidMarrie)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
@@ -663,7 +663,7 @@
 - [apayziev](https://github.com/apayziev)
 - [Amit]
 - [Shino]
--[Loren-haran]
+- [Loren-haran]
 - [Filip Emanuel Drexler](https://github.com/filip0910)
 - [NiklasEriksson2](https://github.com/NiklasEriksson2)
 - [Subhajit Roy](https://github.com/subhajitroycode)
@@ -722,11 +722,11 @@
 - arschat
 - [Andrew Virts](https://github.com/asvirts)
 - [prgVaibhav](https://github.com/PrgVaibhav)
-  Harsh Shah
-  Sattyam Samania
-  [Jethro Cotton](https://github.com/j37hr0/)
-  [Md Mudassir Akhter](https://github.com/mudassir-jmi)
-  [Ramin Karimi](https://github.com/Ramink78)
+- Harsh Shah
+- Sattyam Samania
+- [Jethro Cotton](https://github.com/j37hr0/)
+- [Md Mudassir Akhter](https://github.com/mudassir-jmi)
+- [Ramin Karimi](https://github.com/Ramink78)
 - [Samarth Rayar](https://github.com/samarth2001)
 - [Fatimah Badmus](https://github.com/fatimahbadmus)
 - [vandit Tyagi](https://github.com/vandit98)
@@ -937,7 +937,7 @@ MS
 - [Andrew Skillett]
 - [Wahaj404](https://github.com/Wahaj404)
 - [happinyz]
-  [Thomas]
+- [Thomas]
 - [Noah Conway]
 - [Debarya Das]
 - [Ben Cruickshank](https://github.com/officerclucks)
