@@ -2956,7 +2956,7 @@ Vincent To
 - [Carley Noll](https://github.com/carlbeet)
 - [MJ](https://github.com/mj-james)
 - [Cyril Ambwaya](https://github.com/CyrilAmbwaya)
-- [Phillip Vanderlaat] (https://github.com/pvanderlaat)
+- [Phillip Vanderlaat](https://github.com/pvanderlaat)
 - [Alexander Cairel](https://github.com/ajcairel)
 - [Xu Shen](https://github.com/chenxu10)
 - [Syed Mahdi](https://github.com/5yM01)
