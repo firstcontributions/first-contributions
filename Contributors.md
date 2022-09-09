@@ -103,6 +103,7 @@
 - [Ish Mac] (https://github.com/iceyice)
 - [CommonDrum] (https://github.com/CommonDrum)
 - [Raghav Khanna]
+- [Antara Chakraborty] (https://github.com/antara07)
 - [Emmanuel Chanda] (https://github.com/chandae)
 - [Dipendra Shrestha](https://github.com/dipushrestha)
 - [UJJAWAL RANA]
