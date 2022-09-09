@@ -48,6 +48,7 @@
 - [Ayush Jha](https://github.com/Ayush0054)
 - [Fatema Nawrin](https://github.com/Fatema-Nawrin)
 - [ambangeles] (https://github.com/ambangeles)
+- [Yuvraj Singh] (https://github.com/Blurry-Brush)
 - [Fyka Ansari](https://github.com/fykaa)
 - [Mian Azan](https://github.com/mianazan099)
 - [Nathan Strachan](https://github.com/Nathan-is)
