@@ -187,6 +187,7 @@
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
 - [Hicham Maachou](https://github.com/hichammaachou)
+- [💀 : Isaac Lee] (https://github.com/leebobtheblob)
 - [Makakyla Soh] (http://github.com/MakaylaSoh)
 - [Jay Froment-Rudder](https://github.com/jfromentrudder)
 - [Partha Sarathi Muduli](https://github.com/partha7978)
