@@ -11,7 +11,7 @@
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
-- [Ahmed Magdy]
+- Ahmed Magdy
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
  [AKM](https://github.com/AungKaungMo)
