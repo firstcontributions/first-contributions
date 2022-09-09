@@ -20,6 +20,7 @@
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
+- [Jeremy Krans](https://github.com/Jkrans)
 - [Rakesh Ganneboina]
 - [Ann Ni]
 - [Simon Kellegher](https://github.com/Siborg18)
