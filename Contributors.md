@@ -157,6 +157,7 @@
 - [Taise Miyazumi](https://github.com/tmiyazumi)
 - [Erik Esetvontar]
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
+- [Jocke-44]
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
 - [MarcosH911] (https://github.com/MarcosH911)
