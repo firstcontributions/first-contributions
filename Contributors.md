@@ -300,6 +300,7 @@
 - [Alex Reynolds](https://github.com/Alex-Reynolds)
 - [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
 - [Ethan]
+- [Divyam]
 - [Raymond Jin](https://github.com/Jinray1)
 - [Maaz Bashir](https://github.com/Maazoo)
 - [Vishesh Rathi](https://github.com/rathi710)
