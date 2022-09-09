@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 
@@ -1125,6 +1125,7 @@ anokh
 - [Hubaka Ghayati Setyakurnia](https://github.com/hubahuba2016)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001](https://github.com/Neeltyper001/)
+- [Ajay Jarwal](https://github.com/Ajayjarwal)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Matt De Vries](https://github.com/DeVriesMatt)
