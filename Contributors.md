@@ -1182,6 +1182,7 @@ anokh
 - [Anand Chaudahry](https://github.com/anandchaudhary854)
 - [Deep](https://github.com/just2deep) -[thuan-le](https://github.com/LorenThuan)
 - [Henry Burii](https://github.com/buriihenry)
+- [Joshua Myers](https://github.com/joshuatmyers)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Bryan Emond](https://github.com/BryanEmond)
 - [Namrata Ruchandani](https://github.com/Namrata2108)
