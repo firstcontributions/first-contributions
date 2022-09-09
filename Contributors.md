@@ -6,6 +6,7 @@
 -[Pete Wang](https://github.com/pbnj1)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
+- [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Fernando Iván Padin](https://github.com/Fipadin)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
