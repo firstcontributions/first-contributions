@@ -46,6 +46,7 @@
 - [Rebecca Hampton] (https://github.com/rebeccajhampton)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
+- [Fatema Nawrin](https://github.com/Fatema-Nawrin)
 - [ambangeles] (https://github.com/ambangeles)
 - [Fyka Ansari](https://github.com/fykaa)
 - [Mian Azan](https://github.com/mianazan099)
