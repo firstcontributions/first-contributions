@@ -15,6 +15,7 @@
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
+- [Thsa1nt](https://github.com/Thsa1nt)
 - [Ahmed Magdy] (https://github.com/bugz8)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
