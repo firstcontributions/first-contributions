@@ -335,6 +335,7 @@
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Rowland Adimoha](https://github.com/rowjay007)
 - Bern Paul
+- [Arsen](https://github.com/molchoun)
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
