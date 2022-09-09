@@ -118,6 +118,7 @@
 - [Schamir Poliard🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
+- [Makendran G](https://github.com/makendrang)
 - [Mikkel Unrau](https://github.com/mikkelau)
 - [Rakshit Shetty ✨✨] (https://github.com/Rakxit-Shetty)
 - [Julian Schiedel] (https://github.com/palladio11)
