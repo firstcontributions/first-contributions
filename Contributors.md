@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Lane Foxwood](https://github.com/lanefoxwood)
 -[Pete Wang](https://github.com/pbnj1)
 -[Nazib Talukdar](https://github.com/n29-dev)
