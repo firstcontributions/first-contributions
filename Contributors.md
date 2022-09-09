@@ -8,6 +8,7 @@
 -[Nazib Talukdar](https://github.com/n29-dev)
 - [Kyle Viloria] (https://github.com/kyleviloria)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
+- [Anirudh] (https://github.com/aspiringDev22)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah] (https://github.com/vanditshah44)
