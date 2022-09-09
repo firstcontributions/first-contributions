@@ -2894,6 +2894,7 @@ Vincent To
 - [TSRSE](https://github.com/TSRSE)
 - [Aditya-a404a](https://github.com/Aditya-a404a)
 - [leonhard-Carver](https://github.com/Leonhard-Carver)
+- [Harshbardhan Singh](https://github.com/harsh1x4)
 - [Natvern]
 - [JEPPUNG](https://github.com/jeppung)
 - [hashvector](https://github.com/hashvector)
