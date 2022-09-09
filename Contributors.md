@@ -23,7 +23,7 @@
 - [Jeremy Krans](https://github.com/Jkrans)
 - [Rakesh Ganneboina]
 - [Ann Ni]
-- [hphnelopheinaixontrh](https://github.com/ByronTheLightbulb)
+- [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Michael Lappert](https://github.com/lappemic)
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Gift Segun Adesigbin](https://github.com/giftade)
