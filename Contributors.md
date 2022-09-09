@@ -2962,6 +2962,6 @@ Vincent To
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
 - [NongNon](https://github.com/NongNon)
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
-
+- [Harjit S. Liyal 🌸](https://github.com/Slaeh)
 # sample contribution change
 <!-- prettier-ignore-end -->
