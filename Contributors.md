@@ -2651,6 +2651,7 @@ Vincent To
 - [Santiago-Carrizo](https://github.com/zantica)
 - [mflorezr](https://github.com/mflorezr)
 - [Shawn Michael Jumawan](https://github.com/ImShawnTheSheep)
+- [StephenMC](https://github.com/StephenMC13)
 - [janyng](https://github.com/janyng)
 - [Abe Zayyir](https://github.com/abezayyir)
 - [Meenarh](https://github.com/meenarh)
