@@ -2972,6 +2972,7 @@ Vincent To
 - [NongNon](https://github.com/NongNon)
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
 - [Villena21](https://github.com/Villena21)
+- [PolygonTransit](https://github.com/PolygonTransit)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
