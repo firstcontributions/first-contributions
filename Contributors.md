@@ -144,7 +144,7 @@
 - [Dipendra Shrestha](https://github.com/dipushrestha)
 - [UJJAWAL RANA]
 - [Syed Asar Aman]
-- [Schamir Poliard🔥🔥](https://github.com/schamiir)
+- [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
 - [Marvin Roque](https://github.com/Marveeeen)
