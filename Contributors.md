@@ -3004,6 +3004,7 @@ anokh
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
 - [NongNon](https://github.com/NongNon)
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
+- [Alex Randolph](https://github.com/alexGrandolph)
 - [Villena21](https://github.com/Villena21)
 - [PolygonTransit](https://github.com/PolygonTransit)
 - [ruyaniversario](https://github.com/rvaniversario)
