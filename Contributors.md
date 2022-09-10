@@ -1,6 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Seth Brown](https://github.com/sethbrown246)
+- [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
+- [Sidney Tebbal](https://github.com/sidney888)
 - [Mert Arcan](https://github.com/ArjeinN)
 -Neha Muthreja(https.//github.com/neha0003)
 - [Carlos Gonzalez](https://github.com/carlossgv)
@@ -17,6 +20,7 @@
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
+- [Josejavier Navarro](https://github.com/Edret0)
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Aniket] (https://github.com/Aniketbhatia)
 - [Fernando Iván Padin](https://github.com/Fipadin)
@@ -140,7 +144,7 @@
 - [Dipendra Shrestha](https://github.com/dipushrestha)
 - [UJJAWAL RANA]
 - [Syed Asar Aman]
-- [Schamir Poliard🔥🔥](https://github.com/schamiir)
+- [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
 - [Marvin Roque](https://github.com/Marveeeen)
@@ -2881,6 +2885,7 @@ anokh
 - [Tyyo1999](https://github.com/tyyo1999)
 - [Jon Hussey](https://github.com/jonhussey)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
+- [Zaid Afzal](https://github.com/z4id)
 - [Kiara Sta Maria](https://github.com/allysm)
 - [Aiden Usui](https://github.com/TheActualAids)
 - [Robert Hopwood](https://github.com/HopwoodTech)
@@ -2993,6 +2998,7 @@ anokh
 - [Thomas Fai](https://github.com/tfai8308)
 - [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
+- [Sajani](https://github.com/Nini12345678901)
 - [Unish Rajkarnikar](https://github.com/Rajkarnikar-unish)
 - [MJ](https://github.com/mj-james)
 - [Cyril Ambwaya](https://github.com/CyrilAmbwaya)
@@ -3003,6 +3009,7 @@ anokh
 - [Syed Mahdi](https://github.com/5yM01)
 - [Stephen Wang](https://github.com/stephenw121)
 - [Reece Harris](https://github.com/NotReeceHarris)
+- [Eric Iamarino] (https://github.com/ericiamarino)
 - [Tarun Dasari](https://github.com/tarund2302)
 - [Rodrico Blackman II](https://github.com/RodricoSBlackmanII)
 - [Stephen Wang](https://github.com/stephenw121
