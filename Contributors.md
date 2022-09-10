@@ -1075,7 +1075,7 @@ MS
 - [Atul Raj](https://github.com/King-Atul)
 - [Byeongun Park](https://github.com/bupark82)
 - [Mubashir Ahmed](https://github.com/Mubashir-Md)
-anokh 
+anokh
 - [Alin Mercasi](https://github.com/alinmercasi)
 - [itoi10](https://github.com/itoi10)
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
@@ -2122,6 +2122,7 @@ anokh
 - [Carlos Monge Jr](https://github.com/CarlosMongeJr)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Jonathan Chen](https://github.com/JonHPC)
+- [Emil N Berg] (https://github.com/Enberg56)
 - [Sol Cif](https://github.com/Scif99)
 - [Jan Záruba](https://github.com/zarjan)
 - [itsmraga-hub](https://github.com/itsmraga-hub)
