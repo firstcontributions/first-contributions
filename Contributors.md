@@ -50,6 +50,7 @@
 - [Diya Goyal](https://github.com/diyagoyal98)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
+- [Abolfazl Dalvi](https://github.com/Abolfazl-11)
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
 - [Methasit Tantiplubtong](https://github.com/aikonnn)
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
