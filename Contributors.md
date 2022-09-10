@@ -2986,6 +2986,7 @@ anokh
 - [Villena21](https://github.com/Villena21)
 - [PolygonTransit](https://github.com/PolygonTransit)
 - [tsrigo](https://github.com/tsrigo)
+- [jenniferwnino](https://github.com/jenniferwnino)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
