@@ -2994,6 +2994,7 @@ anokh
 - [PolygonTransit](https://github.com/PolygonTransit)
 - [tsrigo](https://github.com/tsrigo)
 - [Lifeni](https://github.com/Lifeni)
+- [Husnain Zahid] (https://github.com/husnain214)
 - [DawidSiuda98](https://github.com/DawidSiuda98)
 - [Vinícius Silveira](https://github.com/vinicius-silveira1)
 
