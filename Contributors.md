@@ -18,6 +18,7 @@
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - Krupa Thumar
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
+- [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Thsa1nt](https://github.com/Thsa1nt)
 - [Ahmed Magdy] (https://github.com/bugz8)
