@@ -32,6 +32,7 @@
 - [Samuele Pasini]
 - [Jeremy Krans](https://github.com/Jkrans)
 - [Carrima Hewitt](https://github.com/chewitt1)
+- [Ashish Khanagwal](https://github.com/Ashish-khanagwal)
 - [Rakesh Ganneboina]
 - [Ann Ni]
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
