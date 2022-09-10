@@ -2463,7 +2463,7 @@ anokh
 - [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
   Mohammed Ameen
-Vincent To
+  Vincent To
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
@@ -2976,6 +2976,7 @@ Vincent To
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
 - [Villena21](https://github.com/Villena21)
 - [PolygonTransit](https://github.com/PolygonTransit)
+- [tsrigo](https://github.com/tsrigo)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
