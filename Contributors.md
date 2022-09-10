@@ -3046,6 +3046,7 @@ anokh
 - [DawidSiuda98](https://github.com/DawidSiuda98)
 - [Vinícius Silveira](https://github.com/vinicius-silveira1)
 - [Paul Evan McGrath](https://github.com/paulevanmac)
+- [Matrixed](https://github.com/hdk-dev)
 
 # sample contribution change
 
