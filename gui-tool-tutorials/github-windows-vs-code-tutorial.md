@@ -15,7 +15,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
-**Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).
+**Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux) as well as keyboard language (UK, DE, etc). You can go through your list of shortcuts by searching "shortcut" in the Command Palette.
 
 ## Fork this repository
 
