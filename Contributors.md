@@ -17,6 +17,7 @@
 - [Fernando Iván Padin](https://github.com/Fipadin)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - Krupa Thumar
+- Imran Biswas
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
