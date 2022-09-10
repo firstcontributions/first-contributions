@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
+- [Sidney Tebbal](https://github.com/sidney888)
 - [Mert Arcan](https://github.com/ArjeinN)
 -Neha Muthreja(https.//github.com/neha0003)
 - [Carlos Gonzalez](https://github.com/carlossgv)
