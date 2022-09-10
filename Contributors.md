@@ -47,6 +47,7 @@
 - [Rakesh Ganneboina]
 - [Ann Ni]
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
+- [Tommaso Botarelli](https://github.com/TommasoBotarelli)
 - [Ron Jean-Francois](https://github.com/ronthetech)
 - [Michael Lappert](https://github.com/lappemic)
 - [Simon Kellegher](https://github.com/Siborg18)
