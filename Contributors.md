@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
+- [Sidney Tebbal](https://github.com/sidney888)
 - [Mert Arcan](https://github.com/ArjeinN)
 -Neha Muthreja(https.//github.com/neha0003)
 - [Carlos Gonzalez](https://github.com/carlossgv)
@@ -19,6 +20,7 @@
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
+- [Josejavier Navarro](https://github.com/Edret0)
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Aniket] (https://github.com/Aniketbhatia)
 - [Fernando Iván Padin](https://github.com/Fipadin)
@@ -2883,6 +2885,7 @@ anokh
 - [Tyyo1999](https://github.com/tyyo1999)
 - [Jon Hussey](https://github.com/jonhussey)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
+- [Zaid Afzal](https://github.com/z4id)
 - [Kiara Sta Maria](https://github.com/allysm)
 - [Aiden Usui](https://github.com/TheActualAids)
 - [Robert Hopwood](https://github.com/HopwoodTech)
