@@ -92,6 +92,7 @@
 - [Richmond Tetteh](https://github.com/richmondstetteh)
 - [Deepanshu kumar](https://github.com/deepanshu1334)
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
+  [Douglas Kiprono](https://github.com/itsdaglas)
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Roie Scharf](https://github.com/scharf-roie)
