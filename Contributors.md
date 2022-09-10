@@ -2884,6 +2884,7 @@ anokh
 - [Tyyo1999](https://github.com/tyyo1999)
 - [Jon Hussey](https://github.com/jonhussey)
 - [Andhika Kurniwan](https://github.com/AndhikaK)
+- [Zaid Afzal](https://github.com/z4id)
 - [Kiara Sta Maria](https://github.com/allysm)
 - [Aiden Usui](https://github.com/TheActualAids)
 - [Robert Hopwood](https://github.com/HopwoodTech)
