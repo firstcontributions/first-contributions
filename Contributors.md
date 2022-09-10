@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 
@@ -31,6 +31,7 @@
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
 - [Jeremy Krans](https://github.com/Jkrans)
+- [Carrima Hewitt](https://github.com/chewitt1)
 - [Rakesh Ganneboina]
 - [Ann Ni]
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
@@ -248,6 +249,7 @@
 - [Min Phone Aung](https://github.com/PeterHyperAung)
 - [George Babii] (https://github.com/georgevlt)
 - [Sohag] https://github.com/soh-ag
+- [Brandon Flores](https://github.com/PineNine)
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
 - [Swati Aggrawal](https://github.com/swatiaggrawal)
@@ -416,6 +418,7 @@
 - [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Abir Moulick](https://github.com/Abir10101)
 - [Romel Williams](https://github.com/omerome83)
+- [Berlun Devera](https://github.com/b-devera)
 - [Sahas Thyarala](https://github.com/Sthyarala)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
@@ -1126,6 +1129,7 @@ anokh
 - [Hubaka Ghayati Setyakurnia](https://github.com/hubahuba2016)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001](https://github.com/Neeltyper001/)
+- [Ajay Jarwal](https://github.com/Ajayjarwal)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Matt De Vries](https://github.com/DeVriesMatt)
@@ -1182,6 +1186,7 @@ anokh
 - [Anand Chaudahry](https://github.com/anandchaudhary854)
 - [Deep](https://github.com/just2deep) -[thuan-le](https://github.com/LorenThuan)
 - [Henry Burii](https://github.com/buriihenry)
+- [Joshua Myers](https://github.com/joshuatmyers)
 - [Jim Ezesinachi](https://github.com/rapaktech)
 - [Bryan Emond](https://github.com/BryanEmond)
 - [Namrata Ruchandani](https://github.com/Namrata2108)
@@ -1441,6 +1446,7 @@ anokh
 - [Bo Jangles](https://github.com/Bo-Jangles)
 - [Lewis Rye](https://github.com/LewisRye)
 - [TheLaziestDog](https://github.com/TheLaziestDog)
+- [Apurv Choubey](https://github.com/Apurv-Here)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
 - [Daniel Ramirez](https://github.com/danielrs95)
@@ -2968,6 +2974,8 @@ Vincent To
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
 - [NongNon](https://github.com/NongNon)
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
+- [Villena21](https://github.com/Villena21)
+- [PolygonTransit](https://github.com/PolygonTransit)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
