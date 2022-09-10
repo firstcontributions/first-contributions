@@ -17,6 +17,7 @@
 - [Aniket] (https://github.com/Aniketbhatia)
 - [Fernando Iván Padin](https://github.com/Fipadin)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Amine Essamet](https://github.com/aminessamet)
 - Krupa Thumar
 - Imran Biswas
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
