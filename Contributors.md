@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Seth Brown](https://github.com/sethbrown246)
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Sidney Tebbal](https://github.com/sidney888)
 - [Mert Arcan](https://github.com/ArjeinN)
