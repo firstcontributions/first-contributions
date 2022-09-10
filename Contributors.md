@@ -14,6 +14,7 @@
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Fernando Iván Padin](https://github.com/Fipadin)
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- Krupa Thumar
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Thsa1nt](https://github.com/Thsa1nt)
