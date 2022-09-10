@@ -6,6 +6,8 @@
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Lane Foxwood](https://github.com/lanefoxwood)
+- [Erfan Razi](https://github.com/erfanrazi)
+- [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 -[Pete Wang](https://github.com/pbnj1)
 -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
 -[Nazib Talukdar](https://github.com/n29-dev)
