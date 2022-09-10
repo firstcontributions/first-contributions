@@ -2998,6 +2998,7 @@ anokh
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
 - [Villena21](https://github.com/Villena21)
 - [PolygonTransit](https://github.com/PolygonTransit)
+- [ruyaniversario](https://github.com/rvaniversario)
 - [tsrigo](https://github.com/tsrigo)
 - [Lifeni](https://github.com/Lifeni)
 - [Husnain Zahid] (https://github.com/husnain214)
