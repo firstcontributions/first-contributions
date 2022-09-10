@@ -2991,6 +2991,7 @@ anokh
 - [PolygonTransit](https://github.com/PolygonTransit)
 - [tsrigo](https://github.com/tsrigo)
 - [Lifeni](https://github.com/Lifeni)
+- [DawidSiuda98](https://github.com/DawidSiuda98)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
