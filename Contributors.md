@@ -131,6 +131,7 @@
 - [Schamir Poliard🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
+- [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
 - [Mikkel Unrau](https://github.com/mikkelau)
 - [Rakshit Shetty ✨✨] (https://github.com/Rakxit-Shetty)
