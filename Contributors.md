@@ -3045,6 +3045,7 @@ anokh
 - [Husnain Zahid] (https://github.com/husnain214)
 - [DawidSiuda98](https://github.com/DawidSiuda98)
 - [Vinícius Silveira](https://github.com/vinicius-silveira1)
+- [Paul Evan McGrath](https://github.com/paulevanmac)
 
 # sample contribution change
 
