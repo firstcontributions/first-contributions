@@ -1916,6 +1916,7 @@ anokh
 - [Brandon Bode](https://github.com/BBode11)
 - [Adam Watt](https://github.com/AdamJWatt88)
 - [Chijioke Ubajaka](https://github.com/UbajakaCJ)
+- [Kemari S. Chen Loy](https://github.com/KS-ChenLoy)
 - [martelro](https://github.com/martelro)
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [Christine Seddon](https://github.com/CSeddon01)
