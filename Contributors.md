@@ -3000,6 +3000,7 @@ anokh
 - [Ann-Kareen Gedeus](https://github/anngedeus)
 - [Natalie Maronas](https://github.com/maronasn)
 - [Thomas Fai](https://github.com/tfai8308)
+- [Michael Shapiro](https://github.com/mikeshapiro13)
 - [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
 - [Sajani](https://github.com/Nini12345678901)
