@@ -54,6 +54,7 @@
 - [Ashish Khanagwal](https://github.com/Ashish-khanagwal)
 - [Rakesh Ganneboina]
 - [Ann Ni]
+- [Miguel Zamora](https://github.com/MiguelZamora-Dev)
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
 - [Ron Jean-Francois](https://github.com/ronthetech)
