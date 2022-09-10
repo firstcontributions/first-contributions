@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Sidney Tebbal](https://github.com/sidney888)
 - [Mert Arcan](https://github.com/ArjeinN)
 -Neha Muthreja(https.//github.com/neha0003)
