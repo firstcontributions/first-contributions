@@ -78,6 +78,7 @@
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
 - [d-kanti](https://github.com/d-kanti)
 - [ptrkb](https://github.com/ptrkb)
+- [Velan](https://github.com/Velogan-Boy/)
 - [Lahcen Haouch](https://github.com/LahcenHaouch)
 - [mithindev](https://github.com/mithindev)
 - [DeclanGazil02](https://github.com/DeclanGazil02)
