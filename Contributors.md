@@ -3001,6 +3001,7 @@ anokh
 - [Xu Shen](https://github.com/chenxu10)
 - [Liam Young](https://github.com/liamkyoung)
 - [Syed Mahdi](https://github.com/5yM01)
+- [Tarun Dasari](https://github.com/tarund2302)
 - [Rodrico Blackman II](https://github.com/RodricoSBlackmanII)
 - [Stephen Wang](https://github.com/stephenw121
 - [Homin-jung](https://github.com/jung-homin)
