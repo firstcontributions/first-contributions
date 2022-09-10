@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Mert Arcan](https://github.com/ArjeinN)
 -Neha Muthreja(https.//github.com/neha0003)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
