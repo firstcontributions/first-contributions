@@ -2993,6 +2993,7 @@ anokh
 - [tsrigo](https://github.com/tsrigo)
 - [Lifeni](https://github.com/Lifeni)
 - [DawidSiuda98](https://github.com/DawidSiuda98)
+- [Vinícius Silveira](https://github.com/vinicius-silveira1)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
