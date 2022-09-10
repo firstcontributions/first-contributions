@@ -6,6 +6,7 @@
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Lane Foxwood](https://github.com/lanefoxwood)
 -[Pete Wang](https://github.com/pbnj1)
+-[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
 -[Nazib Talukdar](https://github.com/n29-dev)
 - [Kyle Viloria] (https://github.com/kyleviloria)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
