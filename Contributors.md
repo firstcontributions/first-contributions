@@ -3019,6 +3019,7 @@ anokh
 - [Homin-jung](https://github.com/jung-homin)
 - [Jason Dnfkr](https://github.com/JasonDnfkr)
 - [Sien Long Lim](https://github.com/sienlonglim)
+- [Tyler Douberly](https://github.com/TylerDouberly)
 - [Jacob Nakamura](https://github.com/JSwizzleDizzle)
 - [Marius Malinauskas](https://github.com/marius-ms)
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
