@@ -1089,6 +1089,7 @@
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Stefan Kondring](https://github.com/s-kond)
 - [Omkar Ramishte](https://github.com/omk-coder)
+- [Youssef Elhardouzi](https://github.com/Akstrov/)
 - [John Budd](https://github.com/Jbudd512)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
