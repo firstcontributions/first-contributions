@@ -25,6 +25,7 @@
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
+- [Sameer Choudhary] (https://github.com/choudhary-sameer)
 - [Josejavier Navarro](https://github.com/Edret0)
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Aniket] (https://github.com/Aniketbhatia)
