@@ -2962,6 +2962,7 @@ anokh
 - [Derek Zhu](https://github.com/DerekZZhu)
 - [Dave3418](https://github.com/dave3418)
 - [Garin YR](https://github.com/garinyr)
+- [Scott Gianan](https://github.com/scott-gianan/)
 - [Rahul Kulkarni](https://github.com/kdrahul)
 - [M Shiva](https://github.com/Shiva1406)
 - [Shobana](https://github.com/shobanasat)
