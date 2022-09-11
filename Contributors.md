@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Rhythm Saha](https://github.com/rhythmsaha)
