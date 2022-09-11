@@ -75,6 +75,7 @@
 - [Ashish Khanagwal](https://github.com/Ashish-khanagwal)
 - [Rakesh Ganneboina]
 - [Ann Ni]
+- [Ian Soukup]
 - [Miguel Zamora](https://github.com/MiguelZamora-Dev)
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
