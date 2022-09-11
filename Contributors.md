@@ -3,15 +3,18 @@
 <!-- prettier-ignore-start -->
 
 - [Bruno Dede Jr](https://github.com/7Arms)
+- [Rhythm Saha](https://github.com/rhythmsaha)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Sidney Tebbal](https://github.com/sidney888)
+- [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
-  -Neha Muthreja(https.//github.com/neha0003)
-  -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
+- [Bash](https://github.com/holy-mother-I-am-drunk)
+-Neha Muthreja(https.//github.com/neha0003)
+-[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
@@ -30,6 +33,7 @@
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sameer Choudhary] (https://github.com/choudhary-sameer)
+- [Paul Osinowo](https://github.com/iyinolu)
 - [Josejavier Navarro](https://github.com/Edret0)
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Aniket] (https://github.com/Aniketbhatia)
@@ -66,6 +70,7 @@
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
 - [Ron Jean-Francois](https://github.com/ronthetech)
+- [Sadman Sakib](https://github.com/sadmann7)
 - [Michael Lappert](https://github.com/lappemic)
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Touha Zohair](https://github.com/touha98)
@@ -1090,6 +1095,7 @@
 - [Mayank Mahajan](https://github.com/mayank2002-jpg)
 - [Stefan Kondring](https://github.com/s-kond)
 - [Omkar Ramishte](https://github.com/omk-coder)
+- [Youssef Elhardouzi](https://github.com/Akstrov/)
 - [John Budd](https://github.com/Jbudd512)
 - [Sadeedpv](https://github.com/Sadeedpv)
 - [Sumith Sreedhar](https://github.com/sumith-sreedhar)
@@ -3069,6 +3075,8 @@
 - [AMHanson] (https://github.com/AMHansonn)
 - [VirginieLemaire](https://github.com/VirginieLemaire)
 - [Arajdian Altaf](https://github.com/DuckOfTheBooBoo)
+- [Lê Hồng Đức](https://github.com/tedomi2705)
+- [Thom Peters](https://github.com/tgpj)
 
 # sample contribution change
 
