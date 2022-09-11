@@ -795,6 +795,7 @@
 - [prgVaibhav](https://github.com/PrgVaibhav)
 - Harsh Shah
 - Sattyam Samania
+- [Oluchukwu Mary Edeh](https://github.com/Oluchiedeh)
 - [Jethro Cotton](https://github.com/j37hr0/)
 - [Md Mudassir Akhter](https://github.com/mudassir-jmi)
 - [Ramin Karimi](https://github.com/Ramink78)
@@ -826,20 +827,20 @@
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Titilola Shittu](https://github.com/lhorla)
 - [Amy Liu](https://github.com/Aliu9742)
-- [Matthew Dunn] (https://github.com/pyr1te)
-- [Dimparar]
+- [Matthew Dunn](https://github.com/pyr1te)
+- Dimparar
 - [Mosaab Laboune](https://github.com/mosaablaboune)
 - [Louka Tran](https://github.com/loukacodes)
 - [Austin Marking](https://github.com/asmarking)
 - [Sushanta Mukherjee](https://github.com/sushantamukherjee/)
-- [SopaBar]
+- SopaBar
 - [Yasin_xoxoedg](https://github.com/xoxoedg)
 - [Dave Collison](https://github.com/thebigdavec)
 - [Sagar M](https://github.com/SagarSSMK)
 - [Brian]()
 - [Adam Eldredge](https://github.com/adameldredge)
 - [Christoffer Molinder](https://github.com/Kyurino)
-- [Mullerio] (https://github.com/Mullerio)
+- [Mullerio](https://github.com/Mullerio)
 - [Utkarsh Joshi](https://github.com/utkarshjosh)
 - [Fadi Badarni](https://github.com/FadiBadarni)
 - [mirzafaisalbaig](https://github.com/mirzafaisalbaig)
