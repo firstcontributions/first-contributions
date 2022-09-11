@@ -42,6 +42,7 @@
 - [Fernando Iván Padin](https://github.com/Fipadin)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Amine Essamet](https://github.com/aminessamet)
+- [Tanay Telsinge](https://github.com/tanayTelsinge)
 - Krupa Thumar
 - Imran Biswas
   [vishal kumar(vishu)]
