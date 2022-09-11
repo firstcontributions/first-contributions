@@ -3003,6 +3003,7 @@ anokh
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 - [Ann-Kareen Gedeus](https://github/anngedeus)
 - [Natalie Maronas](https://github.com/maronasn)
+- [Nika Samadalashvili](https://github.com/nsamadalashvili)
 - [Thomas Fai](https://github.com/tfai8308)
 - [Michael Shapiro](https://github.com/mikeshapiro13)
 - [Jon Ivar Buene](https://github.com/jibuene)
