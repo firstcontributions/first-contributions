@@ -2494,6 +2494,7 @@ anokh
 - [Manu Peralta](https://github.com/manuperalta)
 - [SeungEon](https://github.com/SeungEon042079)
 - [Daniel Greene](https://github.com/MonkeySoup318)
+- [G_Freeman](https://github.com/369geofreeman)
 - [tsX369](https://github.com/tsX369)
 - [Kane Hall](https://github.com/kahall27)
 - [Gavin Barnes](https://github.com/cantidosan)
