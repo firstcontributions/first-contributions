@@ -817,8 +817,7 @@
 - [Anmol Panchal](https://github.com/anmolp476)
 - [Raiyan Mukhtar](https://github.com/raiyanmook27)
 - [Tanvi Rana](https://github.com/tanvirana)
-- [satoko 🐈
-⬛](https://github.com/satoko)
+- [satoko 🐈⬛](https://github.com/satoko)
 - [Rakxit-Shetty 🍃🍃🍃] (https://github.com/Rakxit-Shetty)
 - [Olamide Oladele](https://github.com/OlamideOladele)
 - [Prasad Mutnale](https://github.com/Prasad-mutnale)
