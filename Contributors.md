@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Bruno Dede Jr](https://github.com/7Arms)
+- [Rhythm Saha](https://github.com/rhythmsaha)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
