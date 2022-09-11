@@ -10,6 +10,7 @@
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Sidney Tebbal](https://github.com/sidney888)
+- [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
 -Neha Muthreja(https.//github.com/neha0003)
