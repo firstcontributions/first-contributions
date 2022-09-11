@@ -55,6 +55,7 @@
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Abdessamie Allouane](https://github.com/AbdessamieAllouane)
+- [Dominik Rozwarski](https://github.com/dominikrozwarski)
 - [Harman Ro](https://github.com/HarmanRo)
 - [Roberto Camberos](https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
