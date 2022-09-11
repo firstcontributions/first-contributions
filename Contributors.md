@@ -455,6 +455,7 @@
 - [Alexander Dimitrov](https://github.com/AlexDim1)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Abir Moulick](https://github.com/Abir10101)
+- [Çağrı Uysal](https://github.com/Tuireol)
 - [Romel Williams](https://github.com/omerome83)
 - [Berlun Devera](https://github.com/b-devera)
 - [Sahas Thyarala](https://github.com/Sthyarala)
