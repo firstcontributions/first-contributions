@@ -955,6 +955,7 @@
 - [Azeemat Olayiwola](https://github.com/xy-Zee)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Hoai-An Phan](https://github.com/hoaian-phan)
+
 - [Eugene Kim](https://github.com/beyondGnE/)
 - [Tarek Mo](https://github.com/tarek-mo)
 - [let-light-shine](https://github.com/let-light-shine)
@@ -2789,6 +2790,7 @@ anokh
 - [Peter Sekesan](https://github.com/Pete-Sekesan)
 - [Vincent Schweiger](https://github.com/legendary-cookie)
 - [Walter Li](https://github.com/WalterLII)
+- [Vincent Yip](https://github.com/vincent65)
 - [Nitin Chauhan](https://github.com/nitinchauhan1208)
 - [Jon Phelps](https://github.com/programsoftheplains)
 - [Najeb Johnson](https://github.com/Redtails)
