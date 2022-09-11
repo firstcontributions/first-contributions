@@ -19,6 +19,7 @@
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
+[Amine Braham] (https://github.com/Spid3rrr)
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
