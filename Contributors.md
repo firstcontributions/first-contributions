@@ -23,9 +23,9 @@
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
--[Pete Wang](https://github.com/pbnj1)
--[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
--[Nazib Talukdar](https://github.com/n29-dev)
+  -[Pete Wang](https://github.com/pbnj1)
+  -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
+  -[Nazib Talukdar](https://github.com/n29-dev)
 - [Kyle Viloria](https://github.com/kyleviloria)
 - [Mehrdad Rashedi](https://github.com/mehrdadbinam)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
@@ -52,7 +52,7 @@
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
 - [Hanlei](https://github.com/roomforyeesus)
--[zombie]
+  -[zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Pranjal Goyal](https://github.com/dontwike)
@@ -460,6 +460,7 @@
 - [Cody A]
 - [prakass sookdev]
 - [Jack Doe]
+- [Elvis Kimara](https://github.com/kelvis24)
 - [Logan Liong](https://github.com/Loganbliong)
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [Shivang Bhatnagar](https://github.com/Shivangbhatnagar237)
@@ -1123,7 +1124,7 @@ p3tun1a
 - [Atul Raj](https://github.com/King-Atul)
 - [Byeongun Park](https://github.com/bupark82)
 - [Mubashir Ahmed](https://github.com/Mubashir-Md)
-anokh
+  anokh
 - [Alin Mercasi](https://github.com/alinmercasi)
 - [itoi10](https://github.com/itoi10)
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
