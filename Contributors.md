@@ -3048,6 +3048,7 @@ anokh
 - [Vinícius Silveira](https://github.com/vinicius-silveira1)
 - [Paul Evan McGrath](https://github.com/paulevanmac)
 - [Matrixed](https://github.com/hdk-dev)
+- [AMHanson] (https://github.com/AMHansonn)
 
 # sample contribution change
 
