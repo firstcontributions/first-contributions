@@ -13,6 +13,7 @@
 - [Sidney Tebbal](https://github.com/sidney888)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
+- [Ayush Ranjan](https://github.com/1610ayush)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
 -Neha Muthreja(https.//github.com/neha0003)
 -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
