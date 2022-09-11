@@ -26,6 +26,7 @@
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
 - [Hanlei](https://github.com/roomforyeesus)
+-[zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Benjamin Benscher] (https://github.com/donbool)
