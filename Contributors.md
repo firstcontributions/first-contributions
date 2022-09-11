@@ -1153,6 +1153,7 @@ p3tun1a
 - [Ruthie Ikegah](https://github.com/Ruth-ikegah)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [Michal RUtyna](https://github.com/OwocBomba)
+- [Enzo Augusto](https://github.com/enzogalli)
 - [Harshit Mathur](https://github.com/harshitmathur2000)
 - [Ankur Dubey](https://github.com/Saad-Abbasi)
 - [Rudy Becker](https://github.com/RudyBecker)
