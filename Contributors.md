@@ -3030,6 +3030,7 @@ anokh
 - [Prabin Nepal](https://github.com/nepalprabin)
 - [Roberto Rodriguez](https://github.com/FonecaBot2)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
+- [Patria Rivera](https://github.com/pitzelrivera)
 - [Annie Michel]()
 - [Ann-Kareen Gedeus](https://github/anngedeus)
 - [Deben Salemme](https://github/DebenSalemme)
