@@ -1287,6 +1287,7 @@ anokh
 - [Annabel Ilo](https://github.com/annabel-ilo)
 - [tewaripiyush43]([https://github.com/tewaripiyush43])
 - [aterzgar](https://github.com/aterzgar)
+- [raphire08](https://github.com/raphire08)
 - [Patryk Potrec](https://github.com/Patryk-Potrec)
 - [Inno Paolo Burgos de Leoz ☠](https://github.com/innopaolo)
 - [Tauhid Patel](https://github.com/tauhidpatel)
