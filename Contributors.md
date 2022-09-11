@@ -31,6 +31,7 @@
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sameer Choudhary] (https://github.com/choudhary-sameer)
+- [Paul Osinowo](https://github.com/iyinolu)
 - [Josejavier Navarro](https://github.com/Edret0)
 - [Vandit Shah] (https://github.com/vanditshah44)
 - [Aniket] (https://github.com/Aniketbhatia)
