@@ -3027,6 +3027,7 @@ anokh
 - [Prabin Nepal](https://github.com/nepalprabin)
 - [Roberto Rodriguez](https://github.com/FonecaBot2)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
+- [Annie Michel]()
 - [Ann-Kareen Gedeus](https://github/anngedeus)
 - [Deben Salemme](https://github/DebenSalemme)
 - [Natalie Maronas](https://github.com/maronasn)
