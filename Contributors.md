@@ -20,6 +20,7 @@
 -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
 -[Nazib Talukdar](https://github.com/n29-dev)
 - [Kyle Viloria](https://github.com/kyleviloria)
+- [Mehrdad Rashedi](https://github.com/mehrdadbinam)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Anirudh] (https://github.com/aspiringDev22)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
