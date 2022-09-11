@@ -31,6 +31,7 @@
 - [Hanlei](https://github.com/roomforyeesus)
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
+- [Pranjal Goyal](https://github.com/dontwike)
 - [Benjamin Benscher] (https://github.com/donbool)
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
