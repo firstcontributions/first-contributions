@@ -3059,6 +3059,7 @@ anokh
 - [Matrixed](https://github.com/hdk-dev)
 - [AMHanson] (https://github.com/AMHansonn)
 - [VirginieLemaire](https://github.com/VirginieLemaire)
+- [Arajdian Altaf](https://github.com/DuckOfTheBooBoo)
 
 # sample contribution change
 
