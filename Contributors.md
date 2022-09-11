@@ -3055,6 +3055,7 @@ anokh
 - [Paul Evan McGrath](https://github.com/paulevanmac)
 - [Matrixed](https://github.com/hdk-dev)
 - [AMHanson] (https://github.com/AMHansonn)
+- [VirginieLemaire](https://github.com/VirginieLemaire)
 
 # sample contribution change
 
