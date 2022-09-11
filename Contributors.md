@@ -38,6 +38,7 @@
 - [Amine Essamet](https://github.com/aminessamet)
 - Krupa Thumar
 - Imran Biswas
+  [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
