@@ -5,6 +5,7 @@
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Douglas Kiprono](https://github.com/douglasrono)
+- [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Sidney Tebbal](https://github.com/sidney888)
