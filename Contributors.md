@@ -564,6 +564,7 @@ p3tun1a
   [Shubham Yadav]
 - [Anas Noor](https://github.com/anasmohd50)
   [Conner Murowchick]
+  [Lesley Kimutai](https://github.com/Leskim)
   [Ana212dev]
 - [Paul Mazzia]
 - [Vikas] (https://github.com/venkatavikas69)
