@@ -526,7 +526,8 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Salvador Alvarez](https://github.com/Salvador318Alvarez)
 - [***P3TUN1A***]
-  p3tun1a
+p3tun1a
+- [Tom Furlong](https://github.com/tomfurlong)
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
 - [Alejandro Gonzalez Buffo](https://github.com/alegb91)
