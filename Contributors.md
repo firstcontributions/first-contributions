@@ -3103,6 +3103,7 @@ p3tun1a
 - [Thom Peters](https://github.com/tgpj)
 - [Mostafa Ekbal](https://github.com/mostafaEkbal)
 - [flowers_lover](https://github.com/drybashlykov)
+- [Keanu Lagundimao](https://github.com/yatfu)
 
 # sample contribution change
 
