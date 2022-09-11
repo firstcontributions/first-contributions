@@ -66,6 +66,7 @@
 - [Ron Jean-Francois](https://github.com/ronthetech)
 - [Michael Lappert](https://github.com/lappemic)
 - [Simon Kellegher](https://github.com/Siborg18)
+- [Touha Zohair](https://github.com/touha98)
 - [Gift Segun Adesigbin](https://github.com/giftade)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [escaping-samsara] (https://github.com/escaping-samsara/)
