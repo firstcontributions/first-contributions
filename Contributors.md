@@ -2134,6 +2134,7 @@ p3tun1a
 - [Kristl Yuen](https://github.com/kristlyuen)
 - [Cristina Outeda](https://github.com/crisouteda)
 - [Manoj Kumar](https://github.com/mtkumar123/)
+- [Wojciech Woźniak](https://github.com/wojwozniak)
 - [WeedsFrenzy](https://github.com/WeedsFrenzy)
 - [Pascale Delaunay](https://github.com/pascalecodes)
 - [Ymer Nordström](https://github.com/ymer94/)
