@@ -11,6 +11,7 @@
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
+- [Tanmaya Biswal] (https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Sidney Tebbal](https://github.com/sidney888)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
