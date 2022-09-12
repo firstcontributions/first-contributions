@@ -2965,6 +2965,7 @@ Vincent To
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
 - [NongNon](https://github.com/NongNon)
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
+- [Nia Robles](https://github.com/niaveser)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
