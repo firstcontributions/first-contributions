@@ -3123,6 +3123,7 @@ p3tun1a
 - [Arajdian Altaf](https://github.com/DuckOfTheBooBoo)
 - [Lê Hồng Đức](https://github.com/tedomi2705)
 - [Thom Peters](https://github.com/tgpj)
+- [Carolina Verde](https://github.com/carverde)
 - [Zachary Jorn](https://github.com/ZacharyJorn)
 - [Mostafa Ekbal](https://github.com/mostafaEkbal)
 - [flowers_lover](https://github.com/drybashlykov)
@@ -3130,6 +3131,5 @@ p3tun1a
 - [Mohammad kch](https://github.com/mohammadkch)
 - [Atul Jaitly] (https://github.com/Toolman-11)
 
-# sample contribution change
 
 <!-- prettier-ignore-end -->
