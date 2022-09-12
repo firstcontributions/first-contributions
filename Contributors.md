@@ -2,26 +2,30 @@
 
 <!-- prettier-ignore-start -->
 
+- Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Chandan Jindal](https://github.com/chandan-jindal)
+- [Javier Marín](https://github.com/lessigsx)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Rhythm Saha](https://github.com/rhythmsaha)
 - [Seth Brown](https://github.com/sethbrown246)
+- [Richard Kashyap](https://github.com/richardkashyap21)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
-- [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
-- [Tanmaya Biswal] (https://github.com/tbiswal)
+- [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
+- [Tanmaya Biswal](https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
+- [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
 - [Ayush Ranjan](https://github.com/1610ayush)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
--Neha Muthreja(https.//github.com/neha0003)
+- [Neha Muthreja](https.//github.com/neha0003)
 -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Carlos Gonzalez](https://github.com/carlossgv)
@@ -29,9 +33,12 @@
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
 [Amine Braham] (https://github.com/Spid3rrr)
 - [Lane Foxwood](https://github.com/lanefoxwood)
+- [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Lea Lang](https://github.com/Leaxlang)
+- [Courtney Yatteau]
 -[Pavitra Lalwani](https://github.com/pavitra-lalwani)
   -[Pete Wang](https://github.com/pbnj1)
   -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
@@ -84,6 +91,7 @@
 - [Rakesh Ganneboina]
 - [Ann Ni]
 - [Ian Soukup]
+- [Logan Samstag]
 - [Miguel Zamora](https://github.com/MiguelZamora-Dev)
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
@@ -1665,6 +1673,7 @@ p3tun1a
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Thomas Perzi](https://github.com/PerziThomas)
 - [Paula Isabel](https://github.com/paulaxisabel)
+- [Lokesh Singh Bora](https://github.com/LokeshSingh1102)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Alejandro Omar Pintos](https://github.com/nomadCoder23)
@@ -1886,6 +1895,7 @@ p3tun1a
 - [secondary-smiles](https://github.com/secondary-smiles)
 - [jody wright](https://github.com/jodyswright)
 - [Steve Behm](https://github.com/SteveBehm)
+- [ToxGem](https://github.com/Toxgem)
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Johnathan Im](https://github.com/johnathanim20)
@@ -2130,6 +2140,7 @@ p3tun1a
 - [Kristl Yuen](https://github.com/kristlyuen)
 - [Cristina Outeda](https://github.com/crisouteda)
 - [Manoj Kumar](https://github.com/mtkumar123/)
+- [Wojciech Woźniak](https://github.com/wojwozniak)
 - [WeedsFrenzy](https://github.com/WeedsFrenzy)
 - [Pascale Delaunay](https://github.com/pascalecodes)
 - [Ymer Nordström](https://github.com/ymer94/)
@@ -2841,6 +2852,7 @@ p3tun1a
 - [Ramya](https://github.com/n-ramya)
 - [Smiti Oswal](https://github.com/smitioswal)
 - [Roman Trnka](https://github.com/sunk4)
+- [Roosevelt Burden](https://github.com/MrBird88)
 - [Heber Marques](https://github.com/hfmarques)
 - [bilel Feki](https://github.com/bilelfeki)
 - [Nabin Katwal](https://github.com/nabinkatwal7)
@@ -2991,6 +3003,7 @@ p3tun1a
 - [Egar Pramana](https://github.com/babylittlepony)
 - [Vision1224](https://github.com/Vision1224)
 - [KARAN K K](https://github.com/KKK2504)
+- [Manvendra Rana](https://github.com/manvendrarana)
 - [Isaiah Mundy](https://github.com/imundy7)
 - [Ryan Whitman](https://github.com/rmwhitman)
 - [Dani Breijer](https://github.com/BreijD)
@@ -3115,6 +3128,7 @@ p3tun1a
 - [Arajdian Altaf](https://github.com/DuckOfTheBooBoo)
 - [Lê Hồng Đức](https://github.com/tedomi2705)
 - [Thom Peters](https://github.com/tgpj)
+- [Carolina Verde](https://github.com/carverde)
 - [Zachary Jorn](https://github.com/ZacharyJorn)
 - [Mostafa Ekbal](https://github.com/mostafaEkbal)
 - [flowers_lover](https://github.com/drybashlykov)
@@ -3122,5 +3136,9 @@ p3tun1a
 - [Mohammad kch](https://github.com/mohammadkch)
 - [Axel Aquino] (https://github.com/axelaquinoj)
 # sample contribution change
+- [Atul Jaitly] (https://github.com/Toolman-11)
+- [Fin o'Flaherty](https://github.com/finn-e)
 
+
+- [Ameer Hoosain](https://github.com/Reaper786)
 <!-- prettier-ignore-end -->
