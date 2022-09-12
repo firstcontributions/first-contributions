@@ -2942,7 +2942,7 @@ Vincent To
 - [Sien Long Lim](https://github.com/sienlonglim)
 - [Marius Malinauskas](https://github.com/marius-ms)
 - [Zyr Acel Reyes](https://github.com/zyr4c31)
-- [NongNon](https://github.com/NongNon)
+- [NongNonOwO](https://github.com/NongNon)
 
 # sample contribution change
 <!-- prettier-ignore-end -->
