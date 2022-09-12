@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Bruno Dede Jr](https://github.com/7Arms)
