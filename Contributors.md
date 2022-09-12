@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Tim Geil ⛓](https://github.com/timgeil)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Douglas Kiprono](https://github.com/douglasrono)
