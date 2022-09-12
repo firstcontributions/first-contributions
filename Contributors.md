@@ -3105,6 +3105,7 @@ p3tun1a
 - [Arajdian Altaf](https://github.com/DuckOfTheBooBoo)
 - [Lê Hồng Đức](https://github.com/tedomi2705)
 - [Thom Peters](https://github.com/tgpj)
+- [Zachary Jorn](https://github.com/ZacharyJorn)
 - [Mostafa Ekbal](https://github.com/mostafaEkbal)
 - [flowers_lover](https://github.com/drybashlykov)
 - [Keanu Lagundimao](https://github.com/yatfu)
