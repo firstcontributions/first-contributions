@@ -1012,6 +1012,7 @@ p3tun1a
 - [Sai Kumar](https://github.com/hellosai-github)
 - [Acha Rha&#39;ah](https://github.com/AchaRhah)
 - [Naveen Narayanan](https://github.com/stealthyninja86)
+- [Sifiso Dhlamini](https://github.com/legit-develop)
 - [Chris Deprez](https://github.com/Krikke99)
 - [Keerthivardhan](https://github.com/Keerthivardhan1)
 - [Navin Narayanan](https://github.com/navincodesalot)
