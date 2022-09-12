@@ -3120,7 +3120,7 @@ p3tun1a
 - [flowers_lover](https://github.com/drybashlykov)
 - [Keanu Lagundimao](https://github.com/yatfu)
 - [Mohammad kch](https://github.com/mohammadkch)
-
+- [Axel Aquino] (https://github.com/axelaquinoj)
 # sample contribution change
 
 <!-- prettier-ignore-end -->
