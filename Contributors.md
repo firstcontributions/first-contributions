@@ -130,6 +130,7 @@
 - [Shae Smith](https://https://github.com/thereisnospoon1223)
 - [Nivrithi Garimella]
 - [Sivnerof](https://github.com/Sivnerof)
+-[Mohanish Rane](https://github.com/mohanishrane)
 - [SamanthaCrespo 👩🏼‍💻](https://github.com/samkcrespo)
 - [Akram A. Ahsraf 😎](https://github.com/Ak-ram)
 - [Lucas Blanco](https://github.com/lucasmblanco)
