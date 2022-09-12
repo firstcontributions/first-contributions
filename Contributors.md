@@ -1875,8 +1875,7 @@ p3tun1a
 - [secondary-smiles](https://github.com/secondary-smiles)
 - [jody wright](https://github.com/jodyswright)
 - [Steve Behm](https://github.com/SteveBehm)
-- [ToxGem](https://github.com/
-Toxgem)
+- [ToxGem](https://github.com/Toxgem)
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Johnathan Im](https://github.com/johnathanim20)
