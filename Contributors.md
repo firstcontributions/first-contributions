@@ -3143,7 +3143,6 @@ p3tun1a
 # sample contribution change
 - [Atul Jaitly] (https://github.com/Toolman-11)
 - [Fin o'Flaherty](https://github.com/finn-e)
-
-
 - [Ameer Hoosain](https://github.com/Reaper786)
+- [Maurits N] (https://github.com/mauritsn)
 <!-- prettier-ignore-end -->
