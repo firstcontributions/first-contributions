@@ -162,6 +162,7 @@
 - [Aissa Nouacer](https://github.com/AissaNouacer)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Deepanshu Kumar Sahu]
+- [Simon taksim]
 - [Isaac Kuria](https://github.com/kabszac)
 - [Rick](https://github.com/SharZzCode)
 - [Keegan](https://github.com/guitarkeegan)
