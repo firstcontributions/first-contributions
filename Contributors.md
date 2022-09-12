@@ -106,6 +106,7 @@
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [escaping-samsara] (https://github.com/escaping-samsara/)
 - [Jacques van Zyl](https://github.com/JacquesvZyl)
+- [Domenic Sacchetti](https://github.com/dsacch)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
