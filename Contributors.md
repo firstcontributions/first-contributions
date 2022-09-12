@@ -16,6 +16,7 @@
 - [Ruben Hernandez Jr.] (https://github.com/ruben-hernandez-jr)
 - [Tanmaya Biswal] (https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
+- [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
