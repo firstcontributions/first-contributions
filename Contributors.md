@@ -32,6 +32,7 @@
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
+- [Vineela Juturu](https://github.com/vjuturu)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
 [Amine Braham] (https://github.com/Spid3rrr)
 - [Lane Foxwood](https://github.com/lanefoxwood)
