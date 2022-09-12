@@ -2994,6 +2994,7 @@ p3tun1a
 - [Egar Pramana](https://github.com/babylittlepony)
 - [Vision1224](https://github.com/Vision1224)
 - [KARAN K K](https://github.com/KKK2504)
+- [Manvendra Rana](https://github.com/manvendrarana)
 - [Isaiah Mundy](https://github.com/imundy7)
 - [Ryan Whitman](https://github.com/rmwhitman)
 - [Dani Breijer](https://github.com/BreijD)
