@@ -30,6 +30,7 @@
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
 [Amine Braham] (https://github.com/Spid3rrr)
 - [Lane Foxwood](https://github.com/lanefoxwood)
+- [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
