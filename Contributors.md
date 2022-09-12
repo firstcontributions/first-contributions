@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Tim Geil ⛓](https://github.com/timgeil)
 - Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
