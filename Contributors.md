@@ -86,6 +86,7 @@
 - [Rakesh Ganneboina]
 - [Ann Ni]
 - [Ian Soukup]
+- [Logan Samstag]
 - [Miguel Zamora](https://github.com/MiguelZamora-Dev)
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
