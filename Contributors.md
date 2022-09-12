@@ -3128,6 +3128,7 @@ p3tun1a
 - [Keanu Lagundimao](https://github.com/yatfu)
 - [Mohammad kch](https://github.com/mohammadkch)
 - [Atul Jaitly] (https://github.com/Toolman-11)
+- [Fin o'Flaherty](https://github.com/finn-e)
 
 # sample contribution change
 
