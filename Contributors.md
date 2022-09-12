@@ -252,6 +252,7 @@
 - [Priyam Agarwal](https://github.com/Priyam183)
 - [Ansari Saad](https://github.com/Saadansariii/)
 - [Taise Miyazumi](https://github.com/tmiyazumi)
+- [Robert Fontan](https://github.com/RobertFontan)
 - [Erik Esetvontar]
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Jocke-44]
