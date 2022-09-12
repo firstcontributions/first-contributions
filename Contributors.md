@@ -3120,6 +3120,7 @@ p3tun1a
 - [flowers_lover](https://github.com/drybashlykov)
 - [Keanu Lagundimao](https://github.com/yatfu)
 - [Mohammad kch](https://github.com/mohammadkch)
+- [Atul Jaitly] (https://github.com/Toolman-11)
 
 # sample contribution change
 
