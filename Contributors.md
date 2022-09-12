@@ -214,6 +214,7 @@
 - [Mick Meighan(https://github.com/gatters)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
+- [Nicholas Praimraj](https://github.com/NickPraimraj)
 - [Prakhar](https://github.com/prakhar2010030)
 - [Philip McCrickard](https://github.com/pcricket10)
 - [3GATO3]
