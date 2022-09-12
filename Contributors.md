@@ -2852,6 +2852,7 @@ p3tun1a
 - [Ramya](https://github.com/n-ramya)
 - [Smiti Oswal](https://github.com/smitioswal)
 - [Roman Trnka](https://github.com/sunk4)
+- [Roosevelt Burden](https://github.com/MrBird88)
 - [Heber Marques](https://github.com/hfmarques)
 - [bilel Feki](https://github.com/bilelfeki)
 - [Nabin Katwal](https://github.com/nabinkatwal7)
