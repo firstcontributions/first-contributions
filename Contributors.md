@@ -4,6 +4,7 @@
 
 - [Narendra kumar](https://github.com/wdnarendra/
 - [Bruno Dede Jr](https://github.com/7Arms)
+- [Chandan Jindal](https://github.com/chandan-jindal)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Rhythm Saha](https://github.com/rhythmsaha)
 - [Seth Brown](https://github.com/sethbrown246)
