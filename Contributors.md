@@ -3093,7 +3093,7 @@ p3tun1a
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
 - [Harjit S. Liyal 🌸](https://github.com/Slaeh)
 - [Tcd first-contributionsai](https://github.com/DSTai)
-- [Tai Tran](https://github.com/DSTai)
+- [Tai Tran 1](https://github.com/DSTai)
 - [Alex Randolph](https://github.com/alexGrandolph)
 - [Villena21](https://github.com/Villena21)
 - [PolygonTransit](https://github.com/PolygonTransit)
