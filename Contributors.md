@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Tim Geil ⛓](https://github.com/timgeil)
 - Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
