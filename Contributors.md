@@ -27,25 +27,19 @@
 - [Ayush Ranjan](https://github.com/1610ayush)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
-- [Neha Muthreja](https.//github.com/neha0003)
--[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
+- [Neha Muthreja](https.//github.com/neha0003) -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
-[Amine Braham] (https://github.com/Spid3rrr)
+  [Amine Braham] (https://github.com/Spid3rrr)
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Lea Lang](https://github.com/Leaxlang)
-- [Courtney Yatteau]
--[Pavitra Lalwani](https://github.com/pavitra-lalwani)
-  -[Pete Wang](https://github.com/pbnj1)
-  -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
-  -[Nazib Talukdar](https://github.com/n29-dev)
-  -[rishuraj2307](https://github.com/rishuraj2307)
+- [Courtney Yatteau] -[Pavitra Lalwani](https://github.com/pavitra-lalwani) -[Pete Wang](https://github.com/pbnj1) -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc) -[Nazib Talukdar](https://github.com/n29-dev) -[rishuraj2307](https://github.com/rishuraj2307)
 - [Kyle Viloria](https://github.com/kyleviloria)
 - [Mehrdad Rashedi](https://github.com/mehrdadbinam)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
@@ -67,6 +61,7 @@
 - [sahil](https://github.com/thesloppyguy)
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
+- [Babatunde Taiwo](https://github.com/Proac-Tee)
 - [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Thsa1nt](https://github.com/Thsa1nt)
@@ -74,8 +69,7 @@
 - [Robin Carey](https://github.com/robs179)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
-- [Hanlei](https://github.com/roomforyeesus)
-  -[zombie]
+- [Hanlei](https://github.com/roomforyeesus) -[zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Pranjal Goyal](https://github.com/dontwike)
@@ -144,8 +138,7 @@
 - [DeclanGazil02](https://github.com/DeclanGazil02)
 - [Shae Smith](https://https://github.com/thereisnospoon1223)
 - [Nivrithi Garimella]
-- [Sivnerof](https://github.com/Sivnerof)
--[Mohanish Rane](https://github.com/mohanishrane)
+- [Sivnerof](https://github.com/Sivnerof) -[Mohanish Rane](https://github.com/mohanishrane)
 - [SamanthaCrespo 👩🏼‍💻](https://github.com/samkcrespo)
 - [Akram A. Ahsraf 😎](https://github.com/Ak-ram)
 - [Lucas Blanco](https://github.com/lucasmblanco)
@@ -300,8 +293,8 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
-- [Roshan Christy](https://github.com/roshan-christy(windows))
-- [Roshan Christy](https://github.com/roshan-christy(linux))
+- [Roshan Christy](<https://github.com/roshan-christy(windows)>)
+- [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   i [Ohlylo](https://github.com/ohlylo)
@@ -557,7 +550,7 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Salvador Alvarez](https://github.com/Salvador318Alvarez)
 - [***P3TUN1A***]
-p3tun1a
+  p3tun1a
 - [Tom Furlong](https://github.com/tomfurlong)
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
@@ -3142,10 +3135,11 @@ p3tun1a
 - [Keanu Lagundimao](https://github.com/yatfu)
 - [Mohammad kch](https://github.com/mohammadkch)
 - [Axel Aquino] (https://github.com/axelaquinoj)
+
 # sample contribution change
+
 - [Atul Jaitly] (https://github.com/Toolman-11)
 - [Fin o'Flaherty](https://github.com/finn-e)
-
 
 - [Ameer Hoosain](https://github.com/Reaper786)
 <!-- prettier-ignore-end -->
