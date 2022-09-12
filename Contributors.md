@@ -3031,6 +3031,7 @@ p3tun1a
 - [Aninda](https://github.com/anindameister)
 - [Jean Haley](https://github.com/jeanhaley32)
 - [Kran D](https://github.com/githubNinja)
+<<<<<<< Updated upstream
 - [PV](https://github.com/pvgithub9)
 - [dkelxldk](https://github.com/ddouble-d)
 - [Nkemjika](https://github.com/Nkemjikanma)
@@ -3112,4 +3113,7 @@ p3tun1a
 
 # sample contribution change
 
+=======
+- [Ameer Hoosain](https://github.com/Reaper786)
+>>>>>>> Stashed changes
 <!-- prettier-ignore-end -->
