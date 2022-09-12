@@ -34,6 +34,7 @@
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Courtney Yatteau] 
 -[Pavitra Lalwani](https://github.com/pavitra-lalwani)
   -[Pete Wang](https://github.com/pbnj1)
   -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
