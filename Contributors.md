@@ -2989,6 +2989,7 @@ p3tun1a
 - [Rich]
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
+- [Ritesh Negi](https://github.com/riteshnegi)
 - [Albert Gomez](https://github.com/agomez-aj)
 - [Shreyansh Patel](https://github.com/shreyansh28801)
   [Yiheng qiu](https://github.com/Oscar_Qiu)
