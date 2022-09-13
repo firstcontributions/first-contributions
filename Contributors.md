@@ -122,6 +122,7 @@
 - [Roberto Camberos](https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
 - [Brent Upton](https://github.com/bupton)
+- [Hoper Hope] (https://github.com/HoperHope)
 - [Wrik Roy](https://github.com/roywrik)
 - [Julien AWON'GA](https://github.com/julien-aw)
 - [Rebecca Hampton](https://github.com/rebeccajhampton)
