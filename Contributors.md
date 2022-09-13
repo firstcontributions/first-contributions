@@ -9,6 +9,7 @@
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Bruno Dede Jr](https://github.com/7Arms)
+- [Henry Percy](https://github.com/henryppercy)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Chandan Jindal](https://github.com/chandan-jindal)
 - [Santino Santillán](https://github.com/SantiM5)
