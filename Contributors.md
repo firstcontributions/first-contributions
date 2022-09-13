@@ -188,6 +188,7 @@
 - [Roie Scharf](https://github.com/scharf-roie)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
+- Ojas Dubey
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
 - [Laszlo Huszar](https://github.com/LaszloHuszar)
@@ -335,7 +336,7 @@
 - [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
-  i [Ohlylo](https://github.com/ohlylo)
+  [Ohlylo](https://github.com/ohlylo)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
