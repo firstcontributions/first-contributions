@@ -155,6 +155,7 @@
 - [Ryan](https://github.com/EntropyUF)
 - [Jorge](https://github.com/JorgeHermo)
 - [Diya Goyal](https://github.com/diyagoyal98)
+- caelan herzberg
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
 - [Abolfazl Dalvi](https://github.com/Abolfazl-11)
