@@ -3174,9 +3174,8 @@ p3tun1a
 - [Atul Jaitly] (https://github.com/Toolman-11)
 - [Ayush Anand](https://github.com/ayushanand308)
 - [Fin o'Flaherty](https://github.com/finn-e)
-
-
 - [Ameer Hoosain](https://github.com/Reaper786)
+- [Maurits N] (https://github.com/mauritsn)
 - [Zeatlan](https://github.com/Zeatlan)
 - [Noi Vu Duc](https://github.com/noivuduc)
 <!-- prettier-ignore-end -->
