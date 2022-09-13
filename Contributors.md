@@ -3040,6 +3040,7 @@ p3tun1a
 - [Stephen Sanders](https://github.com/stephenblakesanders)
 - [pant-s](https://github.com/pant-s)
 - [Derek Zhu](https://github.com/DerekZZhu)
+- [Karena Lai](https://github.com/klai890)
 - [Dave3418](https://github.com/dave3418)
 - [Garin YR](https://github.com/garinyr)
 - [Scott Gianan](https://github.com/scott-gianan/)
