@@ -162,6 +162,7 @@
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
 - [Methasit Tantiplubtong](https://github.com/aikonnn)
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
+- [khairallah17](https://github.com/khairallah17)
 - [d-kanti](https://github.com/d-kanti)
 - [ptrkb](https://github.com/ptrkb)
 - [Velan](https://github.com/Velogan-Boy/)
