@@ -877,6 +877,7 @@ p3tun1a
 - [Titilola Shittu](https://github.com/lhorla)
 - [Amy Liu](https://github.com/Aliu9742)
 - [Matthew Dunn](https://github.com/pyr1te)
+- [Nwadirioha David](https://github.com/Davidlloyd8)
 - Dimparar
 - [Mosaab Laboune](https://github.com/mosaablaboune)
 - [Louka Tran](https://github.com/loukacodes)
