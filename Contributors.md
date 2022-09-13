@@ -3170,4 +3170,5 @@ p3tun1a
 
 - [Ameer Hoosain](https://github.com/Reaper786)
 - [Zeatlan](https://github.com/Zeatlan)
+- [Noi Vu Duc](https://github.com/noivuduc)
 <!-- prettier-ignore-end -->
