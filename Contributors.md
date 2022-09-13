@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
@@ -14,6 +15,7 @@
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Chandan Jindal](https://github.com/chandan-jindal)
 - [Santino Santillán](https://github.com/SantiM5)
+- [Lina Zuluaga](https://github.com/linazoo)
 - [Sylvie Quris] (https://github.com/squris)
 - [Javier Marín](https://github.com/lessigsx)
 - [Joseph Corbett](https://github.com/Corbett000)
