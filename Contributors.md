@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [Tim Geil ⛓](https://github.com/timgeil)
 - Osinachi Ibiam-Uro
