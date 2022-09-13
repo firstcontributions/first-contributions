@@ -195,6 +195,7 @@
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Deepanshu Kumar Sahu]
 - [Simon taksim]
+- [Andrew Berning](https://github.com/andrewberning)
 - [Isaac Kuria](https://github.com/kabszac)
 - [Nitin Maurya](https://github.com/nitin2606)
 - [Nitya Kasturey](https://github.com/NityaKasturey01)
