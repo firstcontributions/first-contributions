@@ -59,6 +59,7 @@
 - [Kyle Viloria](https://github.com/kyleviloria)
 - [Alek Branovacki](https://github.com/abranova)
 - [Mehrdad Rashedi](https://github.com/mehrdadbinam)
+- [Kabir Hossain](https://github.com/kobir1989)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Anirudh] (https://github.com/aspiringDev22)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
