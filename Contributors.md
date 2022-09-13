@@ -14,6 +14,7 @@
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Ahmed Magdy] (https://github.com/bugz8)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
+- [Vidhya Lakshmi](https://github.com/vid-27)
 - [Sky Kal](https://github.com/SkyKal)
 - [Hanlei](https://github.com/roomforyeesus)
 - [AKM](https://github.com/AungKaungMo)
