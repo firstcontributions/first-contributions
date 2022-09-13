@@ -60,6 +60,7 @@
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
+- [Sanil](https://github.com/sanil011)
 - [Sameer Choudhary] (https://github.com/choudhary-sameer)
 - [Paul Osinowo](https://github.com/iyinolu)
 - [Josejavier Navarro](https://github.com/Edret0)
