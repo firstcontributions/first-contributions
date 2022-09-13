@@ -20,6 +20,7 @@
 - [Rhythm Saha](https://github.com/rhythmsaha)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Richard Kashyap](https://github.com/richardkashyap21)
+- [Oliver Twist] (https://github.com/bugz8)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
