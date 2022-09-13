@@ -9,6 +9,7 @@
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Chandan Jindal](https://github.com/chandan-jindal)
+- [Santino Santillán](https://github.com/SantiM5)
 - [Javier Marín](https://github.com/lessigsx)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Rhythm Saha](https://github.com/rhythmsaha)
