@@ -21,7 +21,7 @@
 - [Javier Marín](https://github.com/lessigsx)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Rhythm Saha](https://github.com/rhythmsaha)
-[anshul agrawal]
+- [anshul agrawal]
 - [Seth Brown](https://github.com/sethbrown246)
 - [Richard Kashyap](https://github.com/richardkashyap21)
 - [Douglas Kiprono](https://github.com/douglasrono)
@@ -104,6 +104,7 @@
 - [Rushil Jalal](https://github.com/RushilJalal)
 - [Benjamin Benscher](https://github.com/donbool)
 - [Harshal Pathak](https://github.com/dev-game-ops)
+- [Sahinur Islam](https://github.com/devSahinur)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
