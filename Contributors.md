@@ -90,6 +90,7 @@
 - [Robin Carey](https://github.com/robs179)
 - [botoko]
 - [AlexJJGreen](https://github.com/AlexJJGreen)
+- [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
 - [Sky Kal](https://github.com/SkyKal)
 - [Hanlei](https://github.com/roomforyeesus) -[zombie]
