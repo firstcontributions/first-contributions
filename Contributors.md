@@ -390,6 +390,7 @@
   [Sandro Panchame]
   [satyam soni]
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
+- [Aditya Bisht](https://github.com/adityabisht02)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
 - [Shruti Ghosh](https://github.com/neo-shruti-ghosh)
