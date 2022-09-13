@@ -97,6 +97,7 @@
 - [Benjamin Benscher](https://github.com/donbool)
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
+- [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
