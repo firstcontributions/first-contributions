@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [Tim Geil ⛓](https://github.com/timgeil)
