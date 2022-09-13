@@ -29,20 +29,19 @@
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
-	Ericsson Colborn
+  Ericsson Colborn
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
 - [Sridhar Sahu](https://github.com/SridharSahu-1)
 - [Ayush Ranjan](https://github.com/1610ayush)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
-- [Neha Muthreja](https.//github.com/neha0003)
--[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
+- [Neha Muthreja](https.//github.com/neha0003) -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
-[Amine Braham] (https://github.com/Spid3rrr)
+  [Amine Braham] (https://github.com/Spid3rrr)
 - [Karthikeya-Kumar](https://github.com/Karthikeya-kumar)
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
@@ -50,12 +49,7 @@
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Lea Lang](https://github.com/Leaxlang)
-- [Courtney Yatteau]
--[Pavitra Lalwani](https://github.com/pavitra-lalwani)
-  -[Pete Wang](https://github.com/pbnj1)
-  -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
-  -[Nazib Talukdar](https://github.com/n29-dev)
-  -[rishuraj2307](https://github.com/rishuraj2307)
+- [Courtney Yatteau] -[Pavitra Lalwani](https://github.com/pavitra-lalwani) -[Pete Wang](https://github.com/pbnj1) -[✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc) -[Nazib Talukdar](https://github.com/n29-dev) -[rishuraj2307](https://github.com/rishuraj2307)
 - [Kyle Viloria](https://github.com/kyleviloria)
 - [Mehrdad Rashedi](https://github.com/mehrdadbinam)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
@@ -86,10 +80,10 @@
 - [Robin Carey](https://github.com/robs179)
 - [botoko]
 - [AlexJJGreen](https://github.com/AlexJJGreen)
+- [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
 - [Sky Kal](https://github.com/SkyKal)
-- [Hanlei](https://github.com/roomforyeesus)
-  -[zombie]
+- [Hanlei](https://github.com/roomforyeesus) -[zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Pranjal Goyal](https://github.com/dontwike)
@@ -320,8 +314,8 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
-- [Roshan Christy](https://github.com/roshan-christy(windows))
-- [Roshan Christy](https://github.com/roshan-christy(linux))
+- [Roshan Christy](<https://github.com/roshan-christy(windows)>)
+- [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   i [Ohlylo](https://github.com/ohlylo)
@@ -578,7 +572,7 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Salvador Alvarez](https://github.com/Salvador318Alvarez)
 - [***P3TUN1A***]
-p3tun1a
+  p3tun1a
 - [Tom Furlong](https://github.com/tomfurlong)
 - [Claudia De Angelis] (https://github.com/Pucchosa)
 - [Davide Schiaroli] (https://github.com/schiaro98)
@@ -3171,10 +3165,11 @@ p3tun1a
 - [Axel Aquino] (https://github.com/axelaquinoj)
 - [Mil Predo](https://github.com/MilPredo)
 - [Helen Lindsey](https://github.com/mattie805)
+
 # sample contribution change
+
 - [Atul Jaitly] (https://github.com/Toolman-11)
 - [Fin o'Flaherty](https://github.com/finn-e)
-
 
 - [Ameer Hoosain](https://github.com/Reaper786)
 - [Zeatlan](https://github.com/Zeatlan)
