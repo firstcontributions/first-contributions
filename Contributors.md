@@ -160,7 +160,7 @@
 - [Shae Smith](https://https://github.com/thereisnospoon1223)
 - [Nivrithi Garimella]
 - [Sivnerof](https://github.com/Sivnerof)
--[Mohanish Rane](https://github.com/mohanishrane)
+- [Mohanish Rane](https://github.com/mohanishrane)
 - [SamanthaCrespo 👩🏼‍💻](https://github.com/samkcrespo)
 - [Akram A. Ahsraf 😎](https://github.com/Ak-ram)
 - [Lucas Blanco](https://github.com/lucasmblanco)
@@ -3165,6 +3165,7 @@ p3tun1a
 - [Mohammad kch](https://github.com/mohammadkch)
 - [Axel Aquino] (https://github.com/axelaquinoj)
 - [Mil Predo](https://github.com/MilPredo)
+- [Helen Lindsey](https://github.com/mattie805)
 # sample contribution change
 - [Atul Jaitly] (https://github.com/Toolman-11)
 - [Fin o'Flaherty](https://github.com/finn-e)
