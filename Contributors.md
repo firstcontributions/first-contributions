@@ -41,6 +41,7 @@
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
+- [Anshul Agrawal](https://github.com/anshulagrawal2902)
 - [Amine Braham] (https://github.com/Spid3rrr)
 - [Karthikeya-Kumar](https://github.com/Karthikeya-kumar)
 - [Lane Foxwood](https://github.com/lanefoxwood)
