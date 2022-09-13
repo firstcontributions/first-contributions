@@ -58,6 +58,9 @@ If you're making changes to a translation, please request a review from our prev
             <img width="100" src="https://avatars0.githubusercontent.com/u/315048?s=460&v=4" alt="@hahn" />
         </td>
         <td>
+            <img width="100" src="https://avatars.githubusercontent.com/u/93312881?v=4" alt="@Mayank2808sharma" />
+        </td>
+        <td>
             <img width="100" src="https://avatars0.githubusercontent.com/u/16263046?s=460&v=4" alt="@Sergih28" />
         </td>
         <td>
@@ -73,6 +76,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/smitgajjar">smitgajjar</a>
+        </td>
+         <td>
+            <a href="https://github.com/Mayank2808sharma">Mayank2808sharma</a>
         </td>
         <td>
             <a href="https://github.com/bantya">bantya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
@@ -114,6 +120,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
            <a href="../translations/README.vn.md">Tiếng Việt</a>
+        </td>
+         <td>
+           <a href="../translations/README.nl.md">हिन्दी</a>
         </td>
         <td>
            <a href="../translations/README.pl.md">Polski</a>
@@ -466,5 +475,3 @@ If you're making changes to a translation, please request a review from our prev
         </td>
     </tr>
  </table>
-    
-

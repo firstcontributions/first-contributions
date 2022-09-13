@@ -84,6 +84,7 @@
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Thsa1nt](https://github.com/Thsa1nt)
 - [Ahmed Magdy](https://github.com/bugz8)
+- [Mayank Sharma](https://github.com/Mayank2808sharma)
 - [Robin Carey](https://github.com/robs179)
 - [botoko]
 - [AlexJJGreen](https://github.com/AlexJJGreen)
