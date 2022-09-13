@@ -5,6 +5,7 @@
 - [Tim Geil ⛓](https://github.com/timgeil)
 - Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
+- [Siddharth Patel](https://github.com/ssiidd)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
