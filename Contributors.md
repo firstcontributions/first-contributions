@@ -99,7 +99,7 @@
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
-- [Mizraim] (https://github.com/mizraimn/first-contributions)
+- [Mizraim]  (https://github.com/mizraimn/first-contributions)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
 - [Jeremy Krans](https://github.com/Jkrans)
