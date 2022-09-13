@@ -57,6 +57,7 @@
 - [Nazib Talukdar](https://github.com/n29-dev)
 - [rishuraj2307](https://github.com/rishuraj2307)
 - [Kyle Viloria](https://github.com/kyleviloria)
+- [Alek Branovacki](https://github.com/abranova)
 - [Mehrdad Rashedi](https://github.com/mehrdadbinam)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Anirudh] (https://github.com/aspiringDev22)
