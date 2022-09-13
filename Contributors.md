@@ -44,6 +44,7 @@
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
+- [Vineela Juturu](https://github.com/vjuturu)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
 - [Anshul Agrawal](https://github.com/anshulagrawal2902)
 - [Amine Braham] (https://github.com/Spid3rrr)
