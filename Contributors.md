@@ -39,6 +39,7 @@
 - [Tahmeedul Islam](https://github.com/thetahmeed)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
 [Amine Braham] (https://github.com/Spid3rrr)
+- [Karthikeya-Kumar](https://github.com/Karthikeya-kumar)
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
