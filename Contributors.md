@@ -3137,6 +3137,7 @@ p3tun1a
 - [Ahoura Mortazavi](https://github.com/ahoura-m)
 - [Nia Robles](https://github.com/niaveser)
 - [Harjit S. Liyal 🌸](https://github.com/Slaeh)
+- [Aissa Laribi](https://github.com/aissa-laribi)
 - [Tcd first-contributionsai](https://github.com/DSTai)
 - [Tai Tran 1](https://github.com/DSTai)
 - [Alex Randolph](https://github.com/alexGrandolph)
