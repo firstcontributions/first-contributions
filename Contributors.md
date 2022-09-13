@@ -68,6 +68,7 @@
 - [Tanay Telsinge](https://github.com/tanayTelsinge)
 - Krupa Thumar
 - Imran Biswas
+- Asyraf Mustaqim
 - [sahil](https://github.com/thesloppyguy)
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
