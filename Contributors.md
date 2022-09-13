@@ -646,6 +646,7 @@ p3tun1a
 - [Dyte]
 - [Tarun Garg] (https://github.com/Evil2004)
 - [Steven Dorsey]
+- Jaren Balberan
 - [Faizan Khan](https://github.com/lahoreninja)
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
 - [Dubem Obinwanne](https://github.com/DubemObi)
