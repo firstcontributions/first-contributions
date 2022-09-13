@@ -79,6 +79,7 @@
 - [sahil](https://github.com/thesloppyguy)
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
+- [Babatunde Taiwo](https://github.com/Proac-Tee)
 - [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Thsa1nt](https://github.com/Thsa1nt)
