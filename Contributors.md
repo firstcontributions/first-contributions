@@ -240,6 +240,7 @@
 - [Jon Gonzalez](https://github.com/jgonz-hub)
 - [Wayne Watson](https://github.com/grifway)
 - [Mick Meighan(https://github.com/gatters)
+- [Asma](https://github.com/asma-mughal)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
 - [Nicholas Praimraj](https://github.com/NickPraimraj)
