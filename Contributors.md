@@ -178,6 +178,7 @@
 - [Deepanshu Kumar Sahu]
 - [Simon taksim]
 - [Isaac Kuria](https://github.com/kabszac)
+- [Nitin Maurya](https://github.com/nitin2606)
 - [Rick](https://github.com/SharZzCode)
 - [Keegan](https://github.com/guitarkeegan)
 - [Lincoln Li](https://github.com/vivalkm)
