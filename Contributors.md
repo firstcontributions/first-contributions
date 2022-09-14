@@ -1733,6 +1733,7 @@
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Thomas Perzi](https://github.com/PerziThomas)
+- [Etienne Ouellette-Halle](https://github.com/etienneoh)
 - [Paula Isabel](https://github.com/paulaxisabel)
 - [Lokesh Singh Bora](https://github.com/LokeshSingh1102)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
