@@ -22,6 +22,7 @@
 - [Matt Doughty](https://github.com/maddo1919)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
+- [AJ Renfro](https://github.com/arenfro)
 - [Adelinked](https://github.com/Adelinked)
 - [Chandan Jindal](https://github.com/chandan-jindal)
 - [Santino Santillán](https://github.com/SantiM5)
