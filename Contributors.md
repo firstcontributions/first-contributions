@@ -996,6 +996,7 @@
   [Ashish Sharma](https://github.com/itsashish1801)
 - [Doron Griffin-Tann](https://github.com/TheDiamondSkyv32)
 - [Zarau baidu](https://github.com/zeerau)
+- [Kyler Conant](https://github.com/kylerc150)
 - [Chung-Huu-Tin](https://github.com/TinChung41)
 - [Aris Munandar](https://github.com/ArisMunandar13)
 - [Borhan Uddin](https://github.com/borhan-dev/)
