@@ -15,6 +15,7 @@
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [Braedon Behnke]
+- [Matt Doughty](https://github.com/maddo1919)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Adelinked](https://github.com/Adelinked)
