@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [LeZozoien](https://github.com/LeZozoien)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [Vikash](https://github.com/VikashTudu)
