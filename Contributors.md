@@ -178,6 +178,7 @@
 - [Velan](https://github.com/Velogan-Boy/)
 - [Lahcen Haouch](https://github.com/LahcenHaouch)
 - [mithindev](https://github.com/mithindev)
+- [mcplayeraz](https://github.com/mcplayerazhttps://github.com/mcplayeraz/first-contributions.git)
 - [DeclanGazil02](https://github.com/DeclanGazil02)
 - [Shae Smith](https://https://github.com/thereisnospoon1223)
 - [Nivrithi Garimella]
