@@ -3240,4 +3240,5 @@
 - [Dakshesh Apkare ](https://github.com/Daksheshapkare)
 - [Clover Edwards](https://github.com/CEdwards05/)
 - [Naomi Pham](https://github.com/baonguyenpham)
+- [Abenezer Fekadu](https://github.com/Abenezer-Fekadu)
 <!-- prettier-ignore-end -->
