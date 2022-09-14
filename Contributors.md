@@ -3097,6 +3097,7 @@
 - [Natvern]
 - [Mutanton](https://github.com/Mutanton)
 - [JEPPUNG](https://github.com/jeppung)
+- [chinmay khandal](https://github.com/chinmaykhandal)
 - [hashvector](https://github.com/hashvector)
 - [Sahinur Islam](https://github.com/devSahinur)
 - [Gavin Tersteeg](https://github.com/tergav17)
