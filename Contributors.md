@@ -3217,4 +3217,5 @@
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
   [Dakshesh  Apkare ](https://github.com/Daksheshapkare)
+  [Clover Edwards](https://github.com/CEdwards05/)
 <!-- prettier-ignore-end -->
