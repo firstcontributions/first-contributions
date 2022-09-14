@@ -124,7 +124,7 @@
 - [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
 - [NorwegianIcecube] (https://github.com/NorwegianIcecube/first-contributions)
-- [Mizraim]  (https://github.com/mizraimn/first-contributions)
+- [Mizraim] (https://github.com/mizraimn/first-contributions)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
 - [Jeremy Krans](https://github.com/Jkrans)
@@ -236,6 +236,7 @@
 - [Bakhtiar Rasheed](https://github.com/bakhtiar56)
 - [Beshir Saeed](https://github.com/Bishosba)
 - [Tawanda Munongo](https://github.com/edtha3rd)
+- [Melissa Cheng](https://github.com/melissaAcheng)
 - [Loren-Jahan](https://github.com/Loren)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
@@ -3225,7 +3226,7 @@
 - [shannon harrison]()
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
-  [Dakshesh  Apkare ](https://github.com/Daksheshapkare)
-  [Clover Edwards](https://github.com/CEdwards05/)
-  [Naomi Pham](https://github.com/baonguyenpham)
+[Dakshesh Apkare ](https://github.com/Daksheshapkare)
+[Clover Edwards](https://github.com/CEdwards05/)
+[Naomi Pham](https://github.com/baonguyenpham)
 <!-- prettier-ignore-end -->
