@@ -5,6 +5,7 @@
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
+- [Navpreet Singh Sidhu](https://github.com/nsidhu11)
 - [Tim Geil ⛓](https://github.com/timgeil)
 - Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
