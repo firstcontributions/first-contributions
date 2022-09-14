@@ -1301,6 +1301,7 @@ p3tun1a
 - [Devdatt Pandit](https://github.com/Devdatt17)
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Akash Katuri](https://github.com/akashkaturi)
+- [Arvindhan Pugazhenthi](https://github.com/itsarvindh/)
 - [Christina Ries](https://github.com/cxxxries)
 - [Neel Awsare](https://github.com/awsare)
 - [Antony Fox-Bramwell](https://github.com/afoxbr)
