@@ -9,6 +9,7 @@
 - [Vikash](https://github.com/VikashTudu)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
+- [Pablo Pradillos](https://github.com/ppradillos)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
 - [Tim Geil ⛓](https://github.com/timgeil)
 - Osinachi Ibiam-Uro
