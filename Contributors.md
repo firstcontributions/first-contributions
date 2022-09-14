@@ -844,6 +844,7 @@
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
 - [Bryan Chen](https://github.com/bryancheny)
+- [Bryan Suarez](https://github.com/friedaxons)
 - [Qi Mo Lin](https://github.com/qimolin)
 - [Alina Khay](https://github.com/alinakhay)
 - [Irfan Ashraf](https://github.com/IrfanAshraf-pro)
