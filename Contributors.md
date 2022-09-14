@@ -258,6 +258,7 @@
 - [Matt Keane](https://github.com/MattKeane)
 - [Varun Modi](https://github.com/Panfern)
 - [Jonny He]
+- [Jeremiah Brookes](https://github.com/TurquoiseHexagonSun)
 - [Gaatvul](https://github.com/Gaatvul)
 - [Kalstorm](https://github.com/umarabdullah16)
 - [Akash Srivastava](https://github.com/Akashsri3bi)
