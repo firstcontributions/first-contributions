@@ -108,6 +108,7 @@
 - [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
 - [Sky Kal](https://github.com/SkyKal)
+- [Jay](https://github.com/xplorjay)
 - [Hanlei](https://github.com/roomforyeesus) -[zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
