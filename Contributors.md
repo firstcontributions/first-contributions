@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
+- [Romeo](https://github.com/PhyoThantKo123)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
