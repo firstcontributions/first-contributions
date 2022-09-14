@@ -65,6 +65,7 @@
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
 - [Pavitra Lalwani](https://github.com/pavitra-lalwani)
+- [Ling_Lang](https://github.com/Ling-Lang)
 - [Pete Wang](https://github.com/pbnj1)
 - [✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
 - [Nazib Talukdar](https://github.com/n29-dev)
