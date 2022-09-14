@@ -27,6 +27,7 @@
 - [Sylvie Quris] (https://github.com/squris)
 - [Javier Marín](https://github.com/lessigsx)
 - [Joseph Corbett](https://github.com/Corbett000)
+- [Fernando Cuevas](https://github.com/FercueNat)
 - [Rhythm Saha](https://github.com/rhythmsaha)
 - [Abhishek kumar](https://github.com/AforAbhi)
 - [anshul agrawal]
