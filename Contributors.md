@@ -3112,6 +3112,7 @@
 - [Ludwig Jason Sison](https://github.com/ljlsison)
 - [vaporii](https://github.com/phi548182)
 - [Chris]
+- [StinkySteak](https://github.com/StinkySteak)
 - [Rugbeatuno](https://github,com/Rugbeatuno)
 - [OhShawty](https://github,com/JammyHuman)
 - [Federico](https://github.com/Fede923)
@@ -3220,4 +3221,5 @@
 - [Alejandro Avalos](https://github.com/ale_avalos240)
   [Dakshesh  Apkare ](https://github.com/Daksheshapkare)
   [Clover Edwards](https://github.com/CEdwards05/)
+  
 <!-- prettier-ignore-end -->
