@@ -2732,6 +2732,7 @@
 - [Aditya-a404a](https://github.com/Aditya-a404a)
 - [leonhard-Carver](https://github.com/Leonhard-Carver)
 - [JEPPUNG](https://github.com/jeppung)
+- [chinmay khandal](https://github.com/chinmaykhandal)
 - [hashvector](https://github.com/hashvector)
 - [Sahinur Islam](https://github.com/devSahinur)
 - [Gavin Tersteeg](https://github.com/tergav17)
