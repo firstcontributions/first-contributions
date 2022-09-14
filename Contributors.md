@@ -3199,5 +3199,7 @@
 - [Maurits N] (https://github.com/mauritsn)
 - [Zeatlan](https://github.com/Zeatlan)
 - [Noi Vu Duc](https://github.com/noivuduc)
+- [Orrin Couture](https://github.com/Granite360)
 - [shannon harrison]()
+- [Wahyu Purnomo](https://github.com/warifp)
 <!-- prettier-ignore-end -->
