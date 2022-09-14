@@ -122,6 +122,7 @@
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
+- [NorwegianIcecube] (https://github.com/NorwegianIcecube/first-contributions)
 - [Mizraim]  (https://github.com/mizraimn/first-contributions)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
