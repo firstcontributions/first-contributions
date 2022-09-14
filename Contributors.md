@@ -3201,4 +3201,5 @@
 - [Noi Vu Duc](https://github.com/noivuduc)
 - [Orrin Couture](https://github.com/Granite360)
 - [shannon harrison]()
+- [Alejandro Avalos](https://github.com/ale_avalos240)
 <!-- prettier-ignore-end -->
