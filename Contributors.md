@@ -491,6 +491,7 @@
 - [Ari wolf](http://github.com/ariw96)
 - [Mathai Mathew](http://github.com/mathewp88)
 - [Cem Sanga](https://github.com/cemsanga)
+- [Enoch Akinbode](https://github.com/iamenochlee)
 - [Tajul Islam Refath](https://github.com/tajul-islam-refath)
 - [Ashis Kumar Naik](https://github.com/ashiskumarnaik)
 - [Rowland Adimoha](https://github.com/rowjay007)
