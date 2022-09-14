@@ -3148,6 +3148,7 @@
 - [Liam Young](https://github.com/liamkyoung)
 - [Deben Salemme - 2 test](https://github.com/DebenSalemme/first-contributions)
 - [Syed Mahdi](https://github.com/5yM01)
+- [Harsanyi Zsolt](https://github.com/harsnyi)
 - [Stephen Wang](https://github.com/stephenw121)
 - [Reece Harris](https://github.com/NotReeceHarris)
 - [Eric Iamarino] (https://github.com/ericiamarino)
