@@ -23,6 +23,7 @@
 - [Henry Percy](https://github.com/henryppercy)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
+- [Pranathi Pulimamidy](https://github.com/ppulimamidy)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [AJ Renfro](https://github.com/arenfro)
