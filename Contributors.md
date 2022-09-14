@@ -261,6 +261,7 @@
 - [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
+- [Goodness Hero]
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
 - [Mikkel Unrau](https://github.com/mikkelau)
