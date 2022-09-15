@@ -18,7 +18,6 @@
 - [Zubaydullo Abdirakhmonov](https://github.com/Zubaydullo)
 - Osinachi Ibiam-Uro
 - [Narendra kumar](https://github.com/wdnarendra/)
-
 - [vrana](https://github.com/v-rana)
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
@@ -3245,7 +3244,7 @@
 - [Orrin Couture](https://github.com/Granite360)
 - [shannon harrison]()
 - [Wahyu Purnomo](https://github.com/warifp)
--[Gayatri Marrapu](https://github.com/gayatri1661)
+- [Gayatri Marrapu](https://github.com/gayatri1661)
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
 - [Dakshesh Apkare ](https://github.com/Daksheshapkare)
