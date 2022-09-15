@@ -3247,4 +3247,5 @@
 - [Naomi Pham](https://github.com/baonguyenpham)
 - [Abenezer Fekadu](https://github.com/Abenezer-Fekadu)
 - [Danbi Kim](https://github.com/darshea)
+- [Cincy P] (https://github.com/cincyparrothead)
 <!-- prettier-ignore-end -->
