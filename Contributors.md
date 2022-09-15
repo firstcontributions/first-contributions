@@ -3080,6 +3080,7 @@
 - [Musa Khan](https://github.com/Busohabit)
 - [Justin Kenny]
 - [Rich]
+- [Jesus Lopez Calvo](https://github.com/JesusLopezCalvo)
 - [Brennan Seymour](https://github.com/brenno263)
 - [Derrick Wright](https://github.com/Kcops11)
 - [Ritesh Negi](https://github.com/riteshnegi)
