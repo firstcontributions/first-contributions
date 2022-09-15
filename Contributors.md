@@ -8,6 +8,7 @@
 - [Devon Offutt](https://github.com/D-H0f)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Akiel Aries](https://github.com/akielaries)
+- [Wai Phyo 7️⃣](https://github.com/WPSeven)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [mfbevan](https://github.com/mfbevan)
 - [Vikash](https://github.com/VikashTudu)
