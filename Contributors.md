@@ -3255,6 +3255,7 @@
 - [Zeatlan](https://github.com/Zeatlan)
 - [Noi Vu Duc](https://github.com/noivuduc)
 - [Orrin Couture](https://github.com/Granite360)
+- [Brian Bagley](https://github.com/bagl0025)
 - [shannon harrison]()
 - [Wahyu Purnomo](https://github.com/warifp)
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
