@@ -16,6 +16,7 @@
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [Pablo Pradillos](https://github.com/ppradillos)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
+- [Aayush Gulia](https://github.com/aayushgulia666)
 - [Justin Reian Mercado](https://github.com/jrbmercado)
 - [Tim Geil ⛓](https://github.com/timgeil)
 - [Zubaydullo Abdirakhmonov](https://github.com/Zubaydullo)
