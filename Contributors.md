@@ -79,6 +79,7 @@
 - [Courtney Yatteau]
 - [Pavitra Lalwani](https://github.com/pavitra-lalwani)
 - [Ling_Lang](https://github.com/Ling-Lang)
+- [Hunain Sajid](https://github.com/HunnySajid)
 - [Pete Wang](https://github.com/pbnj1)
 - [✇Kenny Johnson✌︎](https://github.com/kenny-johnson-nyc)
 - [Nazib Talukdar](https://github.com/n29-dev)
