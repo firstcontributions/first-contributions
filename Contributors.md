@@ -3252,4 +3252,5 @@
 - [Danbi Kim](https://github.com/darshea)
 - [Cincy P] (https://github.com/cincyparrothead)
 - [Chris Abiva](https://github.com/chabivz)
+- [John Colfer](https://github.com/jpcolfer)
 <!-- prettier-ignore-end -->
