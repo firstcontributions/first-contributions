@@ -3097,6 +3097,7 @@
 - [Samuel Maltais](https://github.com/SamuelMaltais)
 - [Karthick Kumar](https://github.com/karthickkumar7)
 - [Randy Tran]([https://github.com/quangtran88])
+- [Richard Ertel](https://github.com/Richide)
 - [Nils Bengtsson Svanstedt]([https://github.com/Svanstedt])
 - [Mauricio Allegretti]([https://github.com/mauriallegrettiswnat])
 - [sanjai_3]([https://github.com/sanjail3])
