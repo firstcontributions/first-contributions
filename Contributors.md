@@ -2025,6 +2025,7 @@
 - [Lydia McCleary] (https://github.com/mcclelyd)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Christian Lhie Besmanos](https://github.com/cellbesmanos)
+- [Rohan Pandav](https://github.com/rohanpandavv)
 - [Luna Bean](https://github.com/Luna-Bean)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Amna Ahmed](https://github.com/nono5342)
