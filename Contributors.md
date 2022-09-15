@@ -3255,4 +3255,5 @@
 - [Chris Abiva](https://github.com/chabivz)
 - [John Colfer](https://github.com/jpcolfer)
 - [Winnie Chiu](https://github.com/winnie-chiu)
+- [Denis Kochanovskiy](https://github.com/dkochanovskiy)
 <!-- prettier-ignore-end -->
