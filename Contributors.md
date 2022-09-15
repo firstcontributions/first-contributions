@@ -8,6 +8,7 @@
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Akiel Aries](https://github.com/akielaries)
 - [Romeo](https://github.com/PhyoThantKo123)
+- [afshintek](https://github.com/afshintek)
 - [mfbevan](https://github.com/mfbevan)
 - [Vikash](https://github.com/VikashTudu)
 - [Lukas Walczak](https://github.com/walclu)
