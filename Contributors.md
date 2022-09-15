@@ -428,6 +428,7 @@
 - [Justice](https://github.com/jaresj)
 - Harsit Agarwalla
 - [Aditya Sapate]
+- [Laura Twardy]
 - [Ahmed Tarek](https://github.com/ahmedtarekabd)
 - [Jatin Batra] (https://github.com/Crystal11101)
 - Aarav raj
