@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [LeZozoien](https://github.com/LeZozoien)
+- [s1nisteR](https://github.com/s1nisteR)
 - [Devon Offutt](https://github.com/D-H0f)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Akiel Aries](https://github.com/akielaries)
