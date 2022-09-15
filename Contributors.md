@@ -3262,4 +3262,5 @@
 - [Chris Abiva](https://github.com/chabivz)
 - [John Colfer](https://github.com/jpcolfer)
 - [Winnie Chiu](https://github.com/winnie-chiu)
+- [Cristian Cristea](https://github.com/cristiancristea00)
 <!-- prettier-ignore-end -->
