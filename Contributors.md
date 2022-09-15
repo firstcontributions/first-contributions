@@ -134,6 +134,7 @@
 - [Benjamin Benscher](https://github.com/donbool)
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Sahinur Islam](https://github.com/devSahinur)
+- [Nemanja Jocanovic]
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
