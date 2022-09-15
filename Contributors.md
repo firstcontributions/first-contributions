@@ -114,6 +114,7 @@
 - Imran Biswas
 - Asyraf Mustaqim
 - [sahil](https://github.com/thesloppyguy)
+- [Pete McMahon]
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Babatunde Taiwo](https://github.com/Proac-Tee)
