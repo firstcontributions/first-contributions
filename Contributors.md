@@ -2820,6 +2820,7 @@
 - [Alexander Zurawski](https://github.com/AZurawski)
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 - [VenomAI](https://github.com/venomboss985)
+- [Shivam Kumar](https://github.com/shivamkrch)
 - [IchBinJade](https://github.com/IchBinJade)
 - [Andriy Kotko](https://github.com/Kotkoa)
 - [Ope Kareem](https://github.com/talentlessDeveloper)
