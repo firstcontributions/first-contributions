@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Praveen Toppo](https://github.com/silver919)
+- [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
 - [Hyun Sung Cho](https://github.com/hcho774)
@@ -50,6 +51,7 @@
 - [anshul agrawal]
 - [Seth Brown](https://github.com/sethbrown246)
 - [Richard Kashyap](https://github.com/richardkashyap21)
+- [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
@@ -113,6 +115,7 @@
 - Imran Biswas
 - Asyraf Mustaqim
 - [sahil](https://github.com/thesloppyguy)
+- [Pete McMahon]
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
 - [Babatunde Taiwo](https://github.com/Proac-Tee)
@@ -3063,6 +3066,7 @@
 - [Piyush Raj](https://github.com/PiyushRaj927)
 - [roufy235](https://github.com/roufy235)
 - [Gaurav Singh](https://github.com/grv-sngh/)
+- [Vinícius Jacob](https://github.com/vinijacob)
 - [Jahhel] (https://github.com/Jahhel)
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Sam R]
@@ -3094,6 +3098,7 @@
 - [Samuel Maltais](https://github.com/SamuelMaltais)
 - [Karthick Kumar](https://github.com/karthickkumar7)
 - [Randy Tran]([https://github.com/quangtran88])
+- [Richard Ertel](https://github.com/Richide)
 - [Nils Bengtsson Svanstedt]([https://github.com/Svanstedt])
 - [Mauricio Allegretti]([https://github.com/mauriallegrettiswnat])
 - [sanjai_3]([https://github.com/sanjail3])
@@ -3261,6 +3266,7 @@
 - [Brian Bagley](https://github.com/bagl0025)
 - [shannon harrison]()
 - [Wahyu Purnomo](https://github.com/warifp)
+- [Gayatri Marrapu](https://github.com/gayatri1661)
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
 - [Dakshesh Apkare ](https://github.com/Daksheshapkare)
@@ -3269,6 +3275,7 @@
 - [Abenezer Fekadu](https://github.com/Abenezer-Fekadu)
 - [Danbi Kim](https://github.com/darshea)
 - [Cincy P] (https://github.com/cincyparrothead)
+- [Alison Hill] (https://github.com/alisonkhill)
 - [Chris Abiva](https://github.com/chabivz)
 - [John Colfer](https://github.com/jpcolfer)
 - [Winnie Chiu](https://github.com/winnie-chiu)
