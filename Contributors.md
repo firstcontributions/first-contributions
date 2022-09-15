@@ -3254,4 +3254,5 @@
 - [Cincy P] (https://github.com/cincyparrothead)
 - [Chris Abiva](https://github.com/chabivz)
 - [John Colfer](https://github.com/jpcolfer)
+- [Winnie Chiu](https://github.com/winnie-chiu)
 <!-- prettier-ignore-end -->
