@@ -18,6 +18,7 @@
 - [Tim Geil ⛓](https://github.com/timgeil)
 - [Zubaydullo Abdirakhmonov](https://github.com/Zubaydullo)
 - Osinachi Ibiam-Uro
+- [Francis Karuri](https://github.com/LUCASFRANKINC)
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [vrana](https://github.com/v-rana)
 - [Siddharth Patel](https://github.com/ssiidd)
