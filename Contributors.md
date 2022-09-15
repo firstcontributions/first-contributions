@@ -3266,4 +3266,5 @@
 - [John Colfer](https://github.com/jpcolfer)
 - [Winnie Chiu](https://github.com/winnie-chiu)
 - [Cristian Cristea](https://github.com/cristiancristea00)
+- [VANTR-O](https://github.com/vantr-o)
 <!-- prettier-ignore-end -->
