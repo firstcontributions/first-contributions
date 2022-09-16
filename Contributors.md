@@ -2997,6 +2997,7 @@
 - [Sandra Skaria](https://github.com/zaksandra)
 - [AbdelrahmanDwedar](https://github.com/AbdelrahmanDwedar)
 - [Syed Ali](https://github.com/shahzaib)
+- [Aksh Darji](https://github.com/AKSH2002)
 - [Genshi](https://github.com/Genshisama)
 - [Ameen](https://github.com/Ameen2000)
 - [Maple Z.](https://github.com/maplezoo)
