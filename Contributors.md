@@ -3314,5 +3314,6 @@
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
   [Peter Csurgay](https://github.com/csurgay)
 - [Ensar Makas](https://github.com/rasnesakam)
+- [Pepper Coder](https://github.com/PepperCoder)
 - [Sean Campbell] (https://github.com/Campbell3377)
 <!-- prettier-ignore-end -->
