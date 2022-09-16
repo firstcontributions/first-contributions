@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Praveen Toppo](https://github.com/silver919)
+- [Nathan Chan](https://github.com/nkc53) 
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
