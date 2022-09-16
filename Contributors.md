@@ -155,6 +155,7 @@
 - [Yoseph Mekasha](https://github.com/yosephm)
 - [Benjamin Benscher](https://github.com/donbool)
 - [Harshal Pathak](https://github.com/dev-game-ops)
+- [Victoria Young] (https://github.com/vyoung708)
 - [Sahinur Islam](https://github.com/devSahinur)
 - [Nemanja Jocanovic]
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
