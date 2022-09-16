@@ -1,11 +1,12 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Praveen Toppo](https://github.com/silver919)
-- [Nathan Chan](https://github.com/nkc53) 
+- [Nathan Chan](https://github.com/nkc53)
 - Nathan Kandekore
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
 - [LeZozoien](https://github.com/LeZozoien)
@@ -2051,6 +2052,7 @@
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Okeke Kenechukwu](https://github.com/kenekc18)
 - [Ankit Sharma](https://github.com/Sabretooth1405)
+- [Vedansh Mehra](https://github.com/imvedanshmehra)
 - [Adaobi Chuma-Okeke](https://github.com/Chumzine)
 - [mdelrosa](https://github.com/mdelrosa)
 - [Dimple Jain](https://github.com/dimplehoney)
