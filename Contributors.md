@@ -690,6 +690,7 @@
 - [Paul Mazzia]
 - [Vikas] (https://github.com/venkatavikas69)
 - [Meet] (https://github.com/MeetH15)
+- [CodewithDinesh](https://github.com/codewithdinesh)
 - [Ainara Machargo](https://github.com/carbonara-mac)
 - [Kiana Kermani](https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
