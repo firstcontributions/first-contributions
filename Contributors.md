@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [LennardV](https://github.com/lennardv16g)
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
