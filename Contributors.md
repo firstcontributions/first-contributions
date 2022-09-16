@@ -3296,4 +3296,5 @@
 - [Priyanka Chowdhury](https://github.com/priyankaaa532002)
 - [Hyunsoo Kim](https://github.com/dblepart99)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
+- [Mayank Singh](https://github.com/Mayank-sudo)
 <!-- prettier-ignore-end -->
