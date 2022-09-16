@@ -1337,6 +1337,7 @@
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Lenin Chris Fernandes](https://github.com/Lchris22)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
+- [Michael Jones](https://github.com/michaeljones256)
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Artin Yarahmadi](https://github.com/Zplx72)
