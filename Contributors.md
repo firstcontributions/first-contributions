@@ -3,8 +3,10 @@
 <!-- prettier-ignore-start -->
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
+- [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53) 
+- Nathan Kandekore
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
@@ -3313,4 +3315,5 @@
   [Peter Csurgay](https://github.com/csurgay)
 - [Ensar Makas](https://github.com/rasnesakam)
 - [Pepper Coder](https://github.com/PepperCoder)
+- [Sean Campbell] (https://github.com/Campbell3377)
 <!-- prettier-ignore-end -->
