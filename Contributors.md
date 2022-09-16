@@ -1586,6 +1586,7 @@
 - [Abiodun Adefila](https://github.com/adefaze)
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
 - [Akshat Kumar](https://github.com/Akshatkumar4433)
+- [Nishant](https://github.com/Ordinary-droid)
 - [Chetan Nair](https://github.com/ChetanNair)
 - [Sitaram Pal](https://github.com/sitaram2011)
 - [Brent Tan](https://github.com/BrentTanKian)
