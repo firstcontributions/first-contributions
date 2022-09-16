@@ -22,6 +22,7 @@
 - [afshintek](https://github.com/afshintek)
 - [mfbevan](https://github.com/mfbevan)
 - [Vikash](https://github.com/VikashTudu)
+- [Rizel](https://github.com/blackgirlbytes)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [Pablo Pradillos](https://github.com/ppradillos)
