@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Praveen Toppo](https://github.com/silver919)
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
 - [LeZozoien](https://github.com/LeZozoien)
@@ -483,6 +484,7 @@
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Phuoc Nguyen] (https://github.com/thiennp94)
 - [Denys Makene](https://github.com/Denysmak)
+- [Ben](https://github.com/Ben-4869)
 - [Ramyashree Shetty](https://github.com/ramyashreeshetty)
 - [Beki Drobs](https://github.com/Beki-D)
 - [Mg Khin mg Htet](https://github.com/Matthtica)
