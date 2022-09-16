@@ -372,6 +372,7 @@
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
 - [TAZER](https://github.com/ajtazer)
+- [Jon Ramm](https://github.com/jonramm)
 - [WILLIAM ROZARIO](https://github.com/William73920)
 - [Nikhil]
 - [binay uchai](https://github.com/binayuchai)
