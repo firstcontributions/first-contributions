@@ -138,6 +138,7 @@
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Thsa1nt](https://github.com/Thsa1nt)
 - [Ahmed Magdy](https://github.com/bugz8)
+- [Ahmed Saeed](https://github.com/ahmedrsaeed)
 - [Robin Carey](https://github.com/robs179)
 - [yousef]
 - [botoko]
