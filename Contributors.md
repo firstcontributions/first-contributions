@@ -705,6 +705,7 @@
 - [RahatImroz] (https://github.com/RahatAhmed171)
 - [Richard Panzera] (https://github.com/richardpanzera)
 - [Rakhshan Ahmad] (https://github.com/Rakhshan90)
+- [Jeremy Mayo] (https://github.com/mvyx)
 - [Abhishek Kumar Gupta] (https://github.com/theabhigupta1271)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Adam Plaskitt](https://github.com/AdamPlaskitt)
