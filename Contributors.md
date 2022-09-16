@@ -10,6 +10,7 @@
 - [katdotfasta](https://github.com/katdotfasta)
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
+- [Thomas Adler] (https://github.com/thomas0299)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Akiel Aries](https://github.com/akielaries)
 - [Chirag Khatri](https://github.com/chiragkhatri19)
