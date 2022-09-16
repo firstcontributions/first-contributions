@@ -3013,6 +3013,7 @@
 - [dublinsubway](https://github.com/[dublinsubway])
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez](https://github.com/marliemarls)
+- [Jash Shah](https://github.com/gemini30)
 - [Rogel Cristobal](https://github.com/rogelcristobal)
 - [fortewhiLe](https://github.com/fortewhiLe)
 - [erma0x](https://github.com/erma0x)
