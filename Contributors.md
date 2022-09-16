@@ -342,6 +342,7 @@
 - [Robert Fontan](https://github.com/RobertFontan)
 - [Erik Esetvontar]
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
+- [Ankit Hegde]
 - [Jocke-44]
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
