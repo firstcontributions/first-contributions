@@ -10,6 +10,7 @@
 - [Devon Offutt](https://github.com/D-H0f)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Akiel Aries](https://github.com/akielaries)
+- [Chirag Khatri](https://github.com/chiragkhatri19)
 - [Wai Phyo 7️⃣](https://github.com/WPSeven)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [afshintek](https://github.com/afshintek)
