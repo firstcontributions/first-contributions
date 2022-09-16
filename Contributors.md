@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
+- [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53) 
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
