@@ -3325,8 +3325,10 @@
 - [Ifeanyichukwu Favour] (https://github.com/Cisco-A)
 - [Hyunsoo Kim](https://github.com/dblepart99)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
-  [Peter Csurgay](https://github.com/csurgay)
+- [Peter Csurgay](https://github.com/csurgay)
+- [Pardeep Kumar](https://github.com/Tyeion)
 - [Ensar Makas](https://github.com/rasnesakam)
 - [Pepper Coder](https://github.com/PepperCoder)
 - [Sean Campbell] (https://github.com/Campbell3377)
+
 <!-- prettier-ignore-end -->
