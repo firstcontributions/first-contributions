@@ -41,6 +41,7 @@
 - [Francis Karuri](https://github.com/LUCASFRANKINC)
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [vrana](https://github.com/v-rana)
+- [Laviz Pandey](https://github.com/lavizp)
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
