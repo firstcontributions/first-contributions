@@ -53,6 +53,7 @@
 - [Shraddha Anala](https://github.com/shraddha-an)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
 - [Pranathi Pulimamidy](https://github.com/ppulimamidy)
+- [Skandar Souissi](https://github.com/SkandarS0)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [AJ Renfro](https://github.com/arenfro)
