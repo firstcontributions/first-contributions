@@ -6,6 +6,7 @@
 - [LennardV](https://github.com/lennardv16g)
 - [Anirudh](https://github.com/anirudhlohiya)
 - [Immu Bhai](https://github.com/JuliusEternal)
+- [Hassan Nasser](https://github.com/hnasser44)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Praveen Toppo](https://github.com/silver919)
