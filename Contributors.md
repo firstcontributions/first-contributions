@@ -3237,6 +3237,7 @@
 - [Lauren Prieto] (https://github.com/lauren1117)
 - [Julie Maricic-Detweiler]
 - [Michael Shapiro](https://github.com/mikeshapiro13)
+- [Emma Carballal Haire](https://github.com/emma-carballal)
 - [Jon Ivar Buene](https://github.com/jibuene)
 - [Carley Noll](https://github.com/carlbeet)
 - [Sajani](https://github.com/Nini12345678901)
