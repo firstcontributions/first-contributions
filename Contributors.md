@@ -2119,6 +2119,7 @@
 - [Kay Kang](https://github.com/kaykang87)
 - [Abhishek Rawat](https://github.com/rawatdev)
 - [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com)
+- [Duncan Mwangi](https://duniverse.me)
 - [Aiden Frevert](https://github.com/afrevert)
 - [Kim Fom](https://github.com/kimfom01)
 - [Christian L](https://github.com/weir99)
