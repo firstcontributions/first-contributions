@@ -47,6 +47,7 @@
 - [Henry Percy](https://github.com/henryppercy)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
+- [Shraddha Anala](https://github.com/shraddha-an)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
 - [Pranathi Pulimamidy](https://github.com/ppulimamidy)
 - [Ola Samuel](https://github.com/codedhola)
