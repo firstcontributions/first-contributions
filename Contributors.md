@@ -1810,6 +1810,7 @@
 - [Guilherme Baos](https://github.com/guilhermebaos)
 - [Jonathan Adithya](https://github.com/jo-adithya)
 - [Sage Writ](https://github.com/sagewrit)
+- [Vonn](https://github.com/code0monkey1)
 - [Sebastian W](https://github.com/sebastianwhyte)
 - [Aditya Aggarwal](https://github.com/WhackyBoyg0d)
 - [Preshtha Garg](https://github.com/preshthagarg)
