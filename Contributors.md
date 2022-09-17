@@ -169,6 +169,7 @@
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Victoria Young] (https://github.com/vyoung708)
 - [Sahinur Islam](https://github.com/devSahinur)
+- [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
