@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Martina John](https://github.com/MartinaJohn)
+- [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
 - [Anirudh](https://github.com/anirudhlohiya)
 - [Immu Bhai](https://github.com/JuliusEternal)
