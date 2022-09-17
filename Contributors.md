@@ -9,6 +9,7 @@
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53)
+- [Midhun Krishna P](https://github.com/midhunpaini)
 - Nathan Kandekore
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
 - [LeZozoien](https://github.com/LeZozoien)
