@@ -68,6 +68,7 @@
 - [Abhishek kumar](https://github.com/AforAbhi)
 - [Justin Liang]
 - [anshul agrawal]
+- [Dun](https://github.com/DundeeA)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Richard Kashyap](https://github.com/richardkashyap21)
 - [Ashish Kumar Bhoi](https://github.com/AshishBhoi)
