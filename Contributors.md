@@ -75,6 +75,7 @@
 - [Fernando Cuevas](https://github.com/FercueNat)
 - [Rhythm Saha](https://github.com/rhythmsaha)
 - [Abhishek kumar](https://github.com/AforAbhi)
+- [Erick Salazar]
 - [Justin Liang]
 - [anshul agrawal]
 - [Dun](https://github.com/DundeeA)
