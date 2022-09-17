@@ -3332,4 +3332,5 @@
 - [Ensar Makas](https://github.com/rasnesakam)
 - [Pepper Coder](https://github.com/PepperCoder)
 - [Sean Campbell] (https://github.com/Campbell3377)
+- [Jonathan Felicity ](https://github.com/jonathanfelicity)
 <!-- prettier-ignore-end -->
