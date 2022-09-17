@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Martina John](https://github.com/MartinaJohn)
 - [LennardV](https://github.com/lennardv16g)
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
