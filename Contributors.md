@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Shaswata Karan](https://github.com/shaswata-karan)
 - [Martina John](https://github.com/MartinaJohn)
 - [LennardV](https://github.com/lennardv16g)
 - [Anirudh](https://github.com/anirudhlohiya)
