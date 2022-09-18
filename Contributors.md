@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Shaswata Karan](https://github.com/shaswata-karan)
 - [David Porto](https://github.com/davidaleth)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Martina John](https://github.com/MartinaJohn)
