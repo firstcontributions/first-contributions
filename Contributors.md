@@ -947,6 +947,7 @@
 - [Sathvik Malgikar](https://github.com/Sathvik-Malgikar)
 - [Colin Mclaughlin](https://github.com/colin-mcl)
 - [Kevin Sukher](https://github.com/KSukher)
+  [Sukhrob Ikromov](https://github.com/Ikromov247)
 - [LUNA](https://github.com/EveningStar05)
 - [CLMB](https://github.com/matheusclmb)
 - [Li Duan](https://github.com/vickie1998)
