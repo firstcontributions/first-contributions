@@ -664,6 +664,7 @@
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda](https://github.com/acastaneda10)
+- [Chakir Mrabet](https://github.com/ChakirMrabet)
 - [Eno](https://github.com/codEno12)
 - [Urunov Hamdamboy](https://github.com/urunov)
 - [Robert Lent](https://github.com/rlentdh)
