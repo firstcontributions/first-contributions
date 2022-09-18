@@ -379,8 +379,9 @@
 - [Jocke-44]
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
-- [MarcosH911] (https://github.com/MarcosH911)
+- [MarcosH911](https://github.com/MarcosH911)
 - [Kanishk](https://github.com/knshkp)
+- [Rad](https://github.com/rad)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
