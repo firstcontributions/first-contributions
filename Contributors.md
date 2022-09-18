@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [India Rome]
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
