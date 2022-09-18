@@ -16,7 +16,8 @@
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53)
 - [Midhun Krishna P](https://github.com/midhunpaini)
-- Nathan Kandekore
+- My foot was here. 
+Nathan Kandekore
 - Werberger Merton
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [Ans B ](https://github.com/quarantineBot)
