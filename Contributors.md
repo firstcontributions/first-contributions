@@ -3363,4 +3363,5 @@
 - [Jonathan Felicity ](https://github.com/jonathanfelicity)
 - [Abhinav Sharma ] (https://github.com/onlyabhinav)
 - [Daan K ] (https://github.com/daanooo)
+- [Toshi Maeda] (https://github.com/toshi201)
 <!-- prettier-ignore-end -->
