@@ -361,6 +361,7 @@
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
   HarryN
 - [Emanuele Bianchetti](https://github.com/ema-bianchetti)
+- [Yuriel Villanueva](https://github.com/Yurielvillanueva)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Phil Ecker](https://github.com/philecker)
 - [Priyam Agarwal](https://github.com/Priyam183)
