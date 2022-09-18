@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [India Rome]()
 - [David Porto](https://github.com/davidaleth)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Martina John](https://github.com/MartinaJohn)
