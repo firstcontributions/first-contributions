@@ -18,6 +18,7 @@
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Nathan Kandekore
 - Werberger Merton
+- [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
