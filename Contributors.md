@@ -62,6 +62,7 @@
 - [Liam Banahan](https://github.com/liambanahan)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
+- [Nidhish SD](https://github.com/Nidhish-SD)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
 - [Ayush Kukreti](https://github.com/ayshK24)
