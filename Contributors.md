@@ -20,6 +20,7 @@
 - Nathan Kandekore
 - Werberger Merton
 - [Cristian Marrufo]
+- [Celia Bruner] (https://github.com/kiddo7565)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
