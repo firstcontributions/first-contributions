@@ -41,6 +41,7 @@
 - [DON XAVIER](https://github.com/DonXavierdev)
 - [Mark Roberts](https://github.com/mrkrbrts)
 - [Felination](https://github.com/FelinationGX)
+- [Bugz](https://github.com/bugz8)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [afshintek](https://github.com/afshintek)
 - [mfbevan](https://github.com/mfbevan)
@@ -510,6 +511,7 @@
 - Aarav raj
 - [Mohsen Ameli](https://github.com/mohsen-ameli)
 - [STeverino]
+- Henry Miller
   [Sandro Panchame]
   [satyam soni]
 - [ssssooooaaaarrrreeee](https://github.com/Soare345)
@@ -3381,11 +3383,12 @@
 - [Pepper Coder](https://github.com/PepperCoder)
 - [Sean Campbell](https://github.com/Campbell3377)
 - [Jonathan Felicity ](https://github.com/jonathanfelicity)
-- [Abhinav Sharma ](https://github.com/onlyabhinav)
-- [Daan K ](https://github.com/daanooo)
-- [Toshi Maeda](https://github.com/toshi201)
-- [Rishabh Jain](https://github.com/RishabhJain-11)
-- [Zin Min Htike](https://github.com/ZinMinHtike29)
-- [Aneesh Sahu](https://github.com/Aneeshh18)
 - [LMFAO-Jude](https://github.com/lmfao-jude)
+- [Abhinav Sharma ] (https://github.com/onlyabhinav)
+- [Daan K ] (https://github.com/daanooo)
+- [Toshi Maeda] (https://github.com/toshi201)
+- [Rishabh Jain] (https://github.com/RishabhJain-11)
+- [Zin Min Htike] (https://github.com/ZinMinHtike29)
+- [Aneesh Sahu] (https://github.com/Aneeshh18)
+- [Jarozin]
 <!-- prettier-ignore-end -->
