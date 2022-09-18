@@ -3362,4 +3362,5 @@
 - [Sean Campbell] (https://github.com/Campbell3377)
 - [Jonathan Felicity ](https://github.com/jonathanfelicity)
 - [Abhinav Sharma ] (https://github.com/onlyabhinav)
+- [Daan K ] (https://github.com/daanooo)
 <!-- prettier-ignore-end -->
