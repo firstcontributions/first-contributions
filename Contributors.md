@@ -30,6 +30,7 @@
 - [Devon Offutt](https://github.com/D-H0f)
 - [Thomas Adler](https://github.com/thomas0299)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
+- [Muhammad Najib Bala](https://github.com/NAJIB-B)
 - [Akiel Aries](https://github.com/akielaries)
 - [Chirag Khatri](https://github.com/chiragkhatri19)
 - [Wai Phyo 7️⃣](https://github.com/WPSeven)
