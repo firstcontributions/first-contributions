@@ -17,6 +17,7 @@
 - [Nathan Chan](https://github.com/nkc53)
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Nathan Kandekore
+- Werberger Merton
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
