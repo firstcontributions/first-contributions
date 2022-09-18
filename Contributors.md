@@ -89,6 +89,7 @@
 - [Abhishek kumar](https://github.com/AforAbhi)
 - [Erick Salazar]
 - [Justin Liang]
+- [Aaron S]
 - [anshul agrawal]
 - [Dun](https://github.com/DundeeA)
 - [Seth Brown](https://github.com/sethbrown246)
