@@ -2419,6 +2419,7 @@
 - [cylearny](https://github.com/cylearny)
 - [Riya-Jhankda](https://github.com/Riya-jhankda)
 - [Carl Childers](https://github.com/marooncarl/)
+- [Jainam Parikh](https://github.com/JainamParikh0825)
 - [edaro27](https://github.com/edaro27)
 - [Michael Adetona](https://github.com/AdetonaMichael)
 - [Ale Castillo](https://github.com/aleepsy)
