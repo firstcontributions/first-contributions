@@ -679,6 +679,7 @@
 - [Eno](https://github.com/codEno12)
 - [Urunov Hamdamboy](https://github.com/urunov)
 - [Robert Lent](https://github.com/rlentdh)
+- [William Rogers] (https://github.com/qejmc)
 - [Nehal Ahmed](https://github.com/nehal2210)
 - [Ilyas Rufai](https://github.com/rufilboy)
 - [Neikoli Augustine](https://github.com/niico868)
