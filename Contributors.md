@@ -11,6 +11,7 @@
 - [Hassan Nasser](https://github.com/hnasser44)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
+- [Naima Ontiveros](https://github.com/no26829)
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53)
 - [Midhun Krishna P](https://github.com/midhunpaini)
