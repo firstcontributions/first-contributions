@@ -3361,6 +3361,7 @@
 - [Ifeanyichukwu Favour] (https://github.com/Cisco-A)
 - [Hyunsoo Kim](https://github.com/dblepart99)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
+- [Mayank Singh](https://github.com/Mayank-sudo)
 - [Peter Csurgay](https://github.com/csurgay)
 - [Pardeep Kumar](https://github.com/Tyeion)
 - [Ensar Makas](https://github.com/rasnesakam)
