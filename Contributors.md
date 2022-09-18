@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [David Porto](https://github.com/davidaleth)
+- [Faisal Amin](https://github.com/faisalamin001)
 - [Martina John](https://github.com/MartinaJohn)
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
