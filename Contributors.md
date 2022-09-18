@@ -196,6 +196,7 @@
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Samuele Pasini]
 - [Jeremy Krans](https://github.com/Jkrans)
+- [Yograj Rajput](https://github.com/yogitheboss)
 - [Carrima Hewitt](https://github.com/chewitt1)
 - [Ashish Khanagwal](https://github.com/Ashish-khanagwal)
 - [Su Hlaing Hlaing Htet](https://github.com/Su-Hla-ing)
