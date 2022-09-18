@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [David Porto](https://github.com/davidaleth)
 - [Martina John](https://github.com/MartinaJohn)
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
