@@ -41,6 +41,7 @@
 - [DON XAVIER](https://github.com/DonXavierdev)
 - [Mark Roberts](https://github.com/mrkrbrts)
 - [Felination](https://github.com/FelinationGX)
+- [Bugz](https://github.com/bugz8)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [afshintek](https://github.com/afshintek)
 - [mfbevan](https://github.com/mfbevan)
