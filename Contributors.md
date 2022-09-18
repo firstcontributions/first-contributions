@@ -19,6 +19,7 @@
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Nathan Kandekore
 - Werberger Merton
+- [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [Ans B ](https://github.com/quarantineBot)
