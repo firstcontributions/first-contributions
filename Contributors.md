@@ -66,6 +66,7 @@
 - [Shraddha Anala](https://github.com/shraddha-an)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
 - [Pranathi Pulimamidy](https://github.com/ppulimamidy)
+- [Dena Vafadar Afshar](https://github.com/DenavDot)
 - [Skandar Souissi](https://github.com/SkandarS0)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
