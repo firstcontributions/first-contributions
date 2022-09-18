@@ -20,9 +20,9 @@
 - [Daniarfa] (https://github.com/daniarfadd)
 - [Ram Sankhavaram] (https://github.com/sankhavaramsaitulasiram)
 - [TheJestr]
-- Henry Miller
 - Aarav raj
 - [STeverino]
+- Henry Miller
 - [Grace Kim] (https://github.com/kimgraace)
 - [Tracey Huang] (https://github.com/Traceydh)
 - [Ashu Kumar](https://github.com/Ashu-kumar40)
@@ -36,6 +36,7 @@
 - [Fettah Aud](https://github.com/FettahAud)
 - [Jeffrey Chao](https://github.com/jchaodubs)
 - [Ethan]
+- Henry Miller
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Denys Makene](https://github.com/Denysmak)
 - [Beki Drobs](https://github.com/Beki-D)
