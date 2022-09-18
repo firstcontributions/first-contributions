@@ -615,6 +615,7 @@
 - [Cody A]
 - [prakass sookdev]
 - [Jack Doe]
+- [Osama Siddiquee]
 - [Elvis Kimara](https://github.com/kelvis24)
 - [Logan Liong](https://github.com/Loganbliong)
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
