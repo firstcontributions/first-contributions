@@ -18,6 +18,7 @@
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Nathan Kandekore
 - Werberger Merton
+- [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
@@ -94,7 +95,8 @@
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
-- [Tanmaya Biswal](https://github.com/tbiswal)
+- [Poya Fraji](https://github.com/IWBTFY)
+-[Tanmaya Biswal](https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
@@ -380,8 +382,9 @@
 - [Jocke-44]
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
-- [MarcosH911] (https://github.com/MarcosH911)
+- [MarcosH911](https://github.com/MarcosH911)
 - [Kanishk](https://github.com/knshkp)
+- [Rad](https://github.com/rad)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
@@ -661,6 +664,7 @@
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Adam Castaneda](https://github.com/acastaneda10)
+- [Chakir Mrabet](https://github.com/ChakirMrabet)
 - [Eno](https://github.com/codEno12)
 - [Urunov Hamdamboy](https://github.com/urunov)
 - [Robert Lent](https://github.com/rlentdh)
@@ -3360,4 +3364,6 @@
 - [Sean Campbell] (https://github.com/Campbell3377)
 - [Jonathan Felicity ](https://github.com/jonathanfelicity)
 - [Abhinav Sharma ] (https://github.com/onlyabhinav)
+- [Daan K ] (https://github.com/daanooo)
+- [Toshi Maeda] (https://github.com/toshi201)
 <!-- prettier-ignore-end -->
