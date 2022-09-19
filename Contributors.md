@@ -552,6 +552,7 @@
 - [Jeffrey Chao](https://github.com/jchaodubs)
 - [Alex Reynolds](https://github.com/Alex-Reynolds)
 - [Jeffrey Aghahowa](https://github.com/AghahowaJeffrey)
+- [Shardul Sisodiya](https://github.com/shardul523)
 - [Ethan]
 - [Divyam]
 - [Raymond Jin](https://github.com/Jinray1)
