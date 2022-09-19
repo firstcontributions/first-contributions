@@ -1710,6 +1710,7 @@
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Pacifique Ntahurunga](https://github.com/npacifique)
 - [invalid](https://github.com/whoisYoges)
+- [Huu Hoang Duong Nguyen](https://github.com/Edmond48)
 - [Ahnge](https://github.com/ahnge)
 - [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
 - [Shivam Singh](https://github.com/CommData)
