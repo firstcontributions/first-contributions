@@ -782,6 +782,7 @@
 - [Kiana Kermani](https://github.com/kianakermani)
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
+- [Matthew Vinca] (https://github.com/mattyvinx)
 - [Mueen Ahmed](https://github.com/incmak)
 - [Alex Schwarte](https://github.com/alexschwarte)
 - [Matevž Kovačič](https://github.com/mati5kova)
