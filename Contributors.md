@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [India Rome]()
+- [Singapore750](https://github.com/Singapore750)
 - [noonereedus]
 - [Rain Bigsby](https://github.com/RainBigsby)
 - [David Porto](https://github.com/davidaleth)
