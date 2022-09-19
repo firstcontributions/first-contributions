@@ -24,6 +24,7 @@
 - Nathan Kandekore
 - Werberger Merton
 - Roheen Malu
+- [Stefan Mueller]
 - [Cristian Marrufo]
 - [Celia Bruner] (https://github.com/kiddo7565)
 - [Nile Roth] (https://github.com/nilewuzhere)
