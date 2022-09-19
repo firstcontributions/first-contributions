@@ -3245,6 +3245,7 @@
 - [leonhard-Carver](https://github.com/Leonhard-Carver)
 - [Harshbardhan Singh](https://github.com/harsh1x4)
 - [Natvern]
+- [Ex 8](https://github.com/ExHilEr8)
 - [Mutanton](https://github.com/Mutanton)
 - [JEPPUNG](https://github.com/jeppung)
 - [chinmay khandal](https://github.com/chinmaykhandal)
