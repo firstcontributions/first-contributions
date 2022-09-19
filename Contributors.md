@@ -17,6 +17,7 @@
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53)
 - [Midhun Krishna P](https://github.com/midhunpaini)
+- Andrew Usvat
 - Nathan Kandekore
 - Werberger Merton
 - [Cristian Marrufo]
