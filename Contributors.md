@@ -4,6 +4,7 @@
 
 - [India Rome]()
 - [David Porto](https://github.com/davidaleth)
+- [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Martina John](https://github.com/MartinaJohn)
 - [Austin Nze](https://github.com/Ausranking)
