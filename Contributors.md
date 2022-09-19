@@ -25,6 +25,7 @@
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - Andrew Usvat
 - Nathan Kandekore
+- noonereedus (https://github.com/noonereedus)
 - Werberger Merton
 - Roheen Malu
 - [Stefan Mueller]
