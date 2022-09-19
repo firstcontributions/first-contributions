@@ -23,6 +23,7 @@
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Andrew Usvat
 - Nathan Kandekore
+- noonereedus (https://github.com/noonereedus)
 - Werberger Merton
 - Roheen Malu
 - [Stefan Mueller]
