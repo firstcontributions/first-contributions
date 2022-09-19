@@ -6,6 +6,7 @@
 - [David Porto](https://github.com/davidaleth)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
+- [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Martina John](https://github.com/MartinaJohn)
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
