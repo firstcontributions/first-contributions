@@ -29,6 +29,7 @@
 - Nathan Kandekore
 - noonereedus (https://github.com/noonereedus)
 - Werberger Merton
+- Robin Pace
 - Roheen Malu
 - Christopher Calahan
 - [Stefan Mueller]
