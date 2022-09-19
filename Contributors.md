@@ -3376,6 +3376,7 @@
 - [Brian Bagley](https://github.com/bagl0025)
 - [shannon harrison]()
 - [Wahyu Purnomo](https://github.com/warifp)
+- [satyam]
 - [Gayatri Marrapu](https://github.com/gayatri1661)
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
