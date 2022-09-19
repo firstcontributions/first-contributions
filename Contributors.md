@@ -3421,4 +3421,5 @@
 - [Piotr Slomiany] (https://github.com/Sloma44)
 - [The J]
 - [Rishabh Gulati] (https://github.com/RG7121/)
+- [Vinicius Facco Rodrigues](https://github.com/viniciusfacco)
 <!-- prettier-ignore-end -->
