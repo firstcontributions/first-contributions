@@ -23,6 +23,7 @@
 - Werberger Merton
 - [Cristian Marrufo]
 - [Celia Bruner] (https://github.com/kiddo7565)
+- [Veronica Cardenas](https://github.com/Wh0a-br0)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
