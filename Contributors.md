@@ -3431,4 +3431,5 @@
 - [The J]
 - [Rishabh Gulati] (https://github.com/RG7121/)
 - [Vinicius Facco Rodrigues](https://github.com/viniciusfacco)
+- [Kenzie Norris]()
 <!-- prettier-ignore-end -->
