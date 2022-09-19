@@ -3364,6 +3364,7 @@
 - [Clover Edwards](https://github.com/CEdwards05/)
 - [Naomi Pham](https://github.com/baonguyenpham)
 - [Abenezer Fekadu](https://github.com/Abenezer-Fekadu)
+- Bellie Joe Jandusay
 - [Danbi Kim](https://github.com/darshea)
 - [Cincy P](https://github.com/cincyparrothead)
 - [Alison Hill](https://github.com/alisonkhill)
