@@ -16,6 +16,7 @@
 - [Naima Ontiveros](https://github.com/no26829)
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53)
+- [Jack Shanley](https://github.com/JackShanley)
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Nathan Kandekore
 - Werberger Merton
