@@ -3414,4 +3414,5 @@
 - [Sreymeas] (https://github.com/meass)
 - [Piotr Slomiany] (https://github.com/Sloma44)
 - [The J]
+- [Rishabh Gulati] (https://github.com/RG7121/)
 <!-- prettier-ignore-end -->
