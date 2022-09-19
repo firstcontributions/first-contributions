@@ -1718,6 +1718,7 @@
 - [ajTronic](https://github.com/ajTronic)
 - [Bo Jangles](https://github.com/Bo-Jangles)
 - [Lewis Rye](https://github.com/LewisRye)
+- [Lasantha Mudalige](https://github.com/lasanthamudalige)
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Apurv Choubey](https://github.com/Apurv-Here)
 - [Nur Hamid](https://github.com/nurhamidqq)
