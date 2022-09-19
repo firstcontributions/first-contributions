@@ -663,6 +663,7 @@
 - [ASAHASRABUDH](https://github.com/asahasrabudhe)
 - [Abhishek Kumar](https://github.com/abhishek44priv)
 - [Alexander Dimitrov](https://github.com/AlexDim1)
+- [Aldo Socarras](https://github.com/driuft)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
 - [Abir Moulick](https://github.com/Abir10101)
 - [Çağrı Uysal](https://github.com/Tuireol)
