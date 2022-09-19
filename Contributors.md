@@ -29,6 +29,7 @@
 - noonereedus (https://github.com/noonereedus)
 - Werberger Merton
 - Roheen Malu
+- Christopher Calahan
 - [Stefan Mueller]
 - [Cristian Marrufo]
 - [Celia Bruner] (https://github.com/kiddo7565)
