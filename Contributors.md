@@ -112,8 +112,7 @@
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
-- [Poya Fraji](https://github.com/IWBTFY)
--[Tanmaya Biswal](https://github.com/tbiswal)
+- [Poya Fraji](https://github.com/IWBTFY) -[Tanmaya Biswal](https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
@@ -313,6 +312,7 @@
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Deepanshu Kumar Sahu]
 - [Simon taksim]
+- [Aziz Prabowo](https://github.com/azizp128)
 - [Andrew Berning](https://github.com/andrewberning)
 - [Isaac Kuria](https://github.com/kabszac)
 - [Nitin Maurya](https://github.com/nitin2606)
