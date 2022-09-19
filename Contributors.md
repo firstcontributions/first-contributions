@@ -47,6 +47,7 @@
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
 - [Will Braun] (https://github.com/willbraun)
+- [Terrell Hayward] (https://github.com/tjh488)
 - [Himjyoti](https://github.com/HimRock1)
 - [katdotfasta](https://github.com/katdotfasta)
 - [Hyun Sung Cho](https://github.com/hcho774)
