@@ -4,6 +4,7 @@
 
 - [India Rome]()
 - [noonereedus]
+- [Rain Bigsby](https://github.com/RainBigsby)
 - [David Porto](https://github.com/davidaleth)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
