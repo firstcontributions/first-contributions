@@ -3410,4 +3410,5 @@
 - [Aneesh Sahu] (https://github.com/Aneeshh18)
 - [Jarozin]
 - [Sreymeas] (https://github.com/meass)
+- [Piotr Slomiany] (https://github.com/Sloma44)
 <!-- prettier-ignore-end -->
