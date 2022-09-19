@@ -437,6 +437,7 @@
 - [Arjun R Warrier](https://github.com/arjunrwarrier)
 - [Ethan Nguyen](https://github.com/SteeRevo)
 - [Brian Wayne]
+- [John Cardeccia](https://github.com/Carhn/first-contributions)
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
 - [Aser](https://github.com/aser96)
 - [Bilal Özkırış](https://github.com/bilalOzkiris)
