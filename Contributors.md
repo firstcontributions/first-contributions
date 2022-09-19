@@ -343,6 +343,7 @@
 - [Magnus Jensen]
 - [Eric Clayton]
 - [Goodness Hero]
+- [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
 - [Mikkel Unrau](https://github.com/mikkelau)
