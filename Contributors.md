@@ -32,6 +32,7 @@
 - Werberger Merton
 - Robin Pace
 - Roheen Malu
+- Jackson Brittain
 - Christopher Calahan
 - [Stefan Mueller]
 - [Cristian Marrufo]
