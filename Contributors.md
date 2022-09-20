@@ -9,6 +9,7 @@
 - [noonereedus]
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
 - [NYL] (https://github.com/nyyelin)
+- [Folarin]
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
 - [Rekt-Cat](https://github.com/Rekt-Cat)
