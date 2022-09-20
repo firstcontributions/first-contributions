@@ -31,6 +31,7 @@
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - [Johnathan Moe](https://github.com/Juneict)
+- [Estelle Chevallier](https://github.com/estellechvl)
 - Milana Marshall.
 - Andrew Usvat
 - Nick Henderson
