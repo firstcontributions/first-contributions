@@ -165,6 +165,7 @@
 - [Sidney Tebbal](https://github.com/sidney888)
   Ericsson Colborn
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
+- [Naftali Kulik](https://github.com/nkulik94)
 - [Mert Arcan](https://github.com/ArjeinN)
 - [Sridhar Sahu](https://github.com/SridharSahu-1)
 - [Ayush Ranjan](https://github.com/1610ayush)
