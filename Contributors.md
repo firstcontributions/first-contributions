@@ -46,6 +46,7 @@
 - Christopher Calahan
 - [Stefan Mueller]
 - [Cristian Marrufo]
+- Jordan A
 - [Celia Bruner] (https://github.com/kiddo7565)
 - [Nile Roth] (https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
