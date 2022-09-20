@@ -69,6 +69,7 @@
 - [Bugz](https://github.com/bugz8)
 - [Romeo](https://github.com/PhyoThantKo123)
 - [afshintek](https://github.com/afshintek)
+- [ShawnSargent](https://github.cpm/ShawnSargent)
 - [mfbevan](https://github.com/mfbevan)
 - [Vikash](https://github.com/VikashTudu)
 - [Rizel](https://github.com/blackgirlbytes)
