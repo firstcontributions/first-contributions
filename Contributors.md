@@ -77,6 +77,7 @@
 - [Muhammad Najib Bala](https://github.com/NAJIB-B)
 - [Akiel Aries](https://github.com/akielaries)
 - [Chirag Khatri](https://github.com/chiragkhatri19)
+- [Gbolahan Oyeniyi](https://github.com/GeebeeFrost)
 - [Wai Phyo 7️⃣](https://github.com/WPSeven)
 - [DON XAVIER](https://github.com/DonXavierdev)
 - [Mark Roberts](https://github.com/mrkrbrts)
