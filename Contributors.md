@@ -417,6 +417,7 @@
 - [Jeremiah Brookes](https://github.com/TurquoiseHexagonSun)
 - [Gaatvul](https://github.com/Gaatvul)
 - [Kalstorm](https://github.com/umarabdullah16)
+- [Radish](https://github.com/SatelliteDish)
 - [Akash Srivastava](https://github.com/Akashsri3bi)
 - [Saltuk buğra kılıınç](https://github.com/saltukkilinc)
 - [Tiago Pavani.](https://github.com/PavaniTiago)
