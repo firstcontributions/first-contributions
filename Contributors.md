@@ -3445,4 +3445,5 @@
 - [Vinicius Facco Rodrigues](https://github.com/viniciusfacco)
 - [Kenzie Norris]()
 - [Nicholas Ray](https://github.com/Nicholas-Ray-NAU)
+- [Yudhitya M. Renandra](https://github.com/yudhit08)
 <!-- prettier-ignore-end -->
