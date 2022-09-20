@@ -3121,6 +3121,7 @@
 - [Frederick Ohene](https://github.com/isostack)
 - [Joshua Ollivierre](https://github.com/shno784)
 - [Gayan Kalinga](https://github.com/bg15407)
+- [Aryan S. Jadon](https://github.com/Aryan-Jadon18)
 - [Meng Kheang](https://github.com/meangkheang)
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
