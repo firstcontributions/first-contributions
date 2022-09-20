@@ -5,6 +5,7 @@
 - [India Rome]()
 - [Singapore750](https://github.com/Singapore750)
 - [noonereedus]
+- [Rekt-Cat](https://github.com/Rekt-Cat)
 - [Rain Bigsby](https://github.com/RainBigsby)
 - [David Porto](https://github.com/davidaleth)
 - [santosh upadhyaya](https://github.com/santosh-786)
@@ -3120,6 +3121,7 @@
 - [Frederick Ohene](https://github.com/isostack)
 - [Joshua Ollivierre](https://github.com/shno784)
 - [Gayan Kalinga](https://github.com/bg15407)
+- [Aryan S. Jadon](https://github.com/Aryan-Jadon18)
 - [Meng Kheang](https://github.com/meangkheang)
 - [Abhishek Singh](https://github.com/singh4758)
 - [Deividfost](https://github.com/Deividfost)
@@ -3403,6 +3405,7 @@
 - [Noi Vu Duc](https://github.com/noivuduc)
 - [Orrin Couture](https://github.com/Granite360)
 - [Brian Bagley](https://github.com/bagl0025)
+- [Ferrari Lara](https://github.com/ferrarilara)
 - [shannon harrison]()
 - [Wahyu Purnomo](https://github.com/warifp)
 - [satyam]
@@ -3457,4 +3460,6 @@
 - [Brandon Mack](https://github.com/infinity3arc3)
 - [Zander P]
 - [VisheshVGR](https://github.com/VisheshVGR)
+- [Alif Rizki](https://github.com/renzien)
+- [Adrian](https://github.com/adriandero)
   <!-- prettier-ignore-end -->
