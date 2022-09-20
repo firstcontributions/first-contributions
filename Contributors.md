@@ -3440,4 +3440,5 @@
 - [Rishabh Gulati] (https://github.com/RG7121/)
 - [Vinicius Facco Rodrigues](https://github.com/viniciusfacco)
 - [Kenzie Norris]()
+- [Nicholas Ray](https://github.com/Nicholas-Ray-NAU)
 <!-- prettier-ignore-end -->
