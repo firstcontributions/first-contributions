@@ -16,6 +16,7 @@
 - [Anirudh](https://github.com/anirudhlohiya)
 - [Zachary Hallemeyer](https://github.com/Zachary-Hallemeyer)
 - [Immu Bhai](https://github.com/JuliusEternal)
+- [Ahmed Magdy](https://github.com/bugz8)
 - [Hassan Nasser](https://github.com/hnasser44)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
