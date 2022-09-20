@@ -509,6 +509,7 @@
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   [Ohlylo](https://github.com/ohlylo)
+- [Naomi Sharp](https://github.com/Naosha)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
@@ -624,7 +625,7 @@
 - [n53337](https://github.com/n53337)
 - [Vikrant Patil](https://github.com/vikrantpatil7)
 - [Prakhar Singh Chouhan](https://github.com/prakharsinghch)
-Sravan Pant
+  Sravan Pant
 - [Usman Ali](https://github.com/usmaan-aali)
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
