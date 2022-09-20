@@ -1091,6 +1091,7 @@
 - [Ojonuba Jeremiah](https://www.github.com/spartan124)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Kasab Mohammed Imran](https://github.com/mohammedimrank)
+- [Manosrija Nasrin] (https://github.com/manosrija-nasrin)
 - [Youngtechie](https://github.com/Youngtechie)
 - [Prathamesh Kirad](https://github.com/Prathamesh-V-Kirad)
 - [neuralpain](https://github.com/neuralpain)
@@ -3448,4 +3449,4 @@
 - [Nicholas Ray](https://github.com/Nicholas-Ray-NAU)
 - [Yudhitya M. Renandra](https://github.com/yudhit08)
 - - [Dhiaa Al-Shalabi](https://github.com/dhiaaalshalabi)
-<!-- prettier-ignore-end -->
+  <!-- prettier-ignore-end -->
