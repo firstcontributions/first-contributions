@@ -14,6 +14,7 @@
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Omkar Pawar](https://github.com/omkarpawar2001)
+- [Augustine C. Anyasodor](https://github.com/ACAnyasodor)
 - [Martina John](https://github.com/MartinaJohn)
 - [Rebecca Chavez](https://github.com/rlchavez3)
 - [Austin Nze](https://github.com/Ausranking)
