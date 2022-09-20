@@ -1210,7 +1210,7 @@
 - [Azeemat Olayiwola](https://github.com/xy-Zee)
 - [Darren John de Lima](https://github.com/Darthagnon/)
 - [Hoai-An Phan](https://github.com/hoaian-phan)
-
+- [Brent Deverman](https://github.com/deverman)
 - [Eugene Kim](https://github.com/beyondGnE/)
 - [Tarek Mo](https://github.com/tarek-mo)
 - [let-light-shine](https://github.com/let-light-shine)
