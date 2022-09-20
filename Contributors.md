@@ -26,6 +26,7 @@
 - [Jack Shanley](https://github.com/JackShanley)
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
+- Milana Marshall.
 - Andrew Usvat
 - [David Knight] (https://github.com/davidknight00)
 - Nathan Kandekore
