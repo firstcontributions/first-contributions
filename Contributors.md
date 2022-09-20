@@ -27,6 +27,7 @@
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - Andrew Usvat
+- [David Knight] (https://github.com/davidknight00)
 - Nathan Kandekore
 - noonereedus (https://github.com/noonereedus)
 - Werberger Merton
