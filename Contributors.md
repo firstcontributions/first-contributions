@@ -226,6 +226,7 @@
 - [Sahinur Islam](https://github.com/devSahinur)
 - [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
+- [Zachary Parham]
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
 - [Micah Gant] (https://github.com/micah-gant/first-contributions)
