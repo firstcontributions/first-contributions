@@ -5,6 +5,7 @@
 - [India Rome]()
 - [Singapore750](https://github.com/Singapore750)
 - [noonereedus]
+- [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
 - [Rekt-Cat](https://github.com/Rekt-Cat)
 - [Rain Bigsby](https://github.com/RainBigsby)
 - [David Porto](https://github.com/davidaleth)
