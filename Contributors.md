@@ -38,6 +38,7 @@
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - [Johnathan Moe](https://github.com/Juneict)
 - [Estelle Chevallier](https://github.com/estellechvl)
+- [Nick Chapman](https://github.com/NickChapman1988)
 - Milana Marshall.
 - Andrew Usvat
 - Nick Henderson
