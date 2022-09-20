@@ -11,6 +11,7 @@
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
+- [Omkar Pawar](https://github.com/omkarpawar2001)
 - [Martina John](https://github.com/MartinaJohn)
 - [Rebecca Chavez](https://github.com/rlchavez3)
 - [Austin Nze](https://github.com/Ausranking)
