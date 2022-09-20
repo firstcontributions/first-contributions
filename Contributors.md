@@ -2757,6 +2757,7 @@
 - [Franklyn Ebikam](https://github.com/febikamBU)
 - [ZLH](https://github.com/Zawlinhtike397)
 - [Dominic Duke](https://github.com/domduke)
+- [Matt Bryant](https://github.com/Mcbryant14)
 - [Chris Thompson](https://github.com/ChrisThompsonDev)
 - [Kenrick Lam](https://github.com/klam98)
 - [Hans Scheepers](https://github.com/huurseen)
