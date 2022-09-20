@@ -3455,6 +3455,7 @@
 - [Vinicius Facco Rodrigues](https://github.com/viniciusfacco)
 - [Kenzie Norris]()
 - [Nicholas Ray](https://github.com/Nicholas-Ray-NAU)
+- [Cody Beck](https://github.com/cjb873)
 - [Yudhitya M. Renandra](https://github.com/yudhit08)
 - - [Dhiaa Al-Shalabi](https://github.com/dhiaaalshalabi)
 - [Brandon Mack](https://github.com/infinity3arc3)
