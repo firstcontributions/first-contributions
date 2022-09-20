@@ -3457,4 +3457,5 @@
 - [Brandon Mack](https://github.com/infinity3arc3)
 - [Zander P]
 - [Alif Rizki](https://github.com/renzien)
+- [Adrian](https://github.com/adriandero)
   <!-- prettier-ignore-end -->
