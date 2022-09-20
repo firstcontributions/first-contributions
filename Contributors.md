@@ -11,6 +11,7 @@
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Martina John](https://github.com/MartinaJohn)
+- [Rebecca Chavez](https://github.com/rlchavez3)
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
 - [Anirudh](https://github.com/anirudhlohiya)
