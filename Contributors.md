@@ -3452,4 +3452,5 @@
 - [Nicholas Ray](https://github.com/Nicholas-Ray-NAU)
 - [Yudhitya M. Renandra](https://github.com/yudhit08)
 - - [Dhiaa Al-Shalabi](https://github.com/dhiaaalshalabi)
+- [Brandon Mack](https://github.com/infinity3arc3)
   <!-- prettier-ignore-end -->
