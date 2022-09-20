@@ -29,6 +29,7 @@
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - Milana Marshall.
 - Andrew Usvat
+- Nick Henderson
 - [David Knight] (https://github.com/davidknight00)
 - Nathan Kandekore
 - noonereedus (https://github.com/noonereedus)
