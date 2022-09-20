@@ -2870,6 +2870,7 @@
 - [Alberto Pabón](https://github.com/pabon-alberto)
 - [Eleonore Bivaud](https://github.com/EleonoreBivo)
 - [MohammadJavad Moshiri](https://github.com/mjmoshiri)
+- [Ayham Huq]
 - [Aditya Verma](https://github.com/Addy2408)
 - [Vipul Agrawal](https://github.com/vipulagr890)
 - [Okolo Arthur](https://github.com/OkoloArt)
