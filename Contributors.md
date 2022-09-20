@@ -113,6 +113,7 @@
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
+- [Mahir Mulalomerovic](https://github.com/mmahE96)
 
 - [Ayush Kukreti](https://github.com/ayshK24)
 - [Shraddha Anala](https://github.com/shraddha-an)
