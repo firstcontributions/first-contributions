@@ -105,6 +105,7 @@
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
+
 - [Ayush Kukreti](https://github.com/ayshK24)
 - [Shraddha Anala](https://github.com/shraddha-an)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
@@ -167,6 +168,7 @@
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
+
 - [Omar Sarfraz](https://github.com/omar-sarfraz)
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
@@ -432,6 +434,7 @@
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Ankit Hegde]
 - [Jocke-44]
+- [Gavin R]
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
 - [MarcosH911](https://github.com/MarcosH911)
