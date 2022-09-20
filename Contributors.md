@@ -38,6 +38,7 @@
 - noonereedus (https://github.com/noonereedus)
 - Werberger Merton
 - Robin Pace
+- [Jaime De la Vega](https://github.com/JaimeDelaVegaFornie)
 - Roheen Malu
 - Jackson Brittain
 - Christopher Calahan
