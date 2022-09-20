@@ -1551,6 +1551,7 @@
 - [Neel Awsare](https://github.com/awsare)
 - [Antony Fox-Bramwell](https://github.com/afoxbr)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
+- [Manny Sanchez](https://github.com/mannyleandro)
 - [Bhaskar Metiya](https://github.com/bhaskar1001101)
 - [Luis Malagon](https://github.com/FarmerGPSY)
 - [Harel Cohen](https://github.com/harel-cohen)
