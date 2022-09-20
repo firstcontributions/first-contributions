@@ -3403,6 +3403,7 @@
 - [Noi Vu Duc](https://github.com/noivuduc)
 - [Orrin Couture](https://github.com/Granite360)
 - [Brian Bagley](https://github.com/bagl0025)
+- [Ferrari Lara](https://github.com/ferrarilara)
 - [shannon harrison]()
 - [Wahyu Purnomo](https://github.com/warifp)
 - [satyam]
