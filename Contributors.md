@@ -3455,4 +3455,5 @@
 - [Yudhitya M. Renandra](https://github.com/yudhit08)
 - - [Dhiaa Al-Shalabi](https://github.com/dhiaaalshalabi)
 - [Brandon Mack](https://github.com/infinity3arc3)
+- [Zander P]
   <!-- prettier-ignore-end -->
