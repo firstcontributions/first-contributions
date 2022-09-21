@@ -3510,4 +3510,5 @@
 - [Rudra Narayan Dash](https://github.com/ZekromRND)
 - [Kevin Daniel](https://github.com/Kevin-Daniel)
 - [Anudeep Tadikamalla](https://github.com/anudeeptadikamalla)
+- [Rahul-Bhati](https://github.com/Rahul-Bhati)
   <!-- prettier-ignore-end -->
