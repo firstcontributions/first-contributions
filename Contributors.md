@@ -3522,4 +3522,5 @@
 - [Soonam Kalyan](https://github.com/iamsoo)
 - [antivistic](https://github.com/antivistic)
 - [Antony Elfferich](https://github.com/AntonyElfferich)
+- [sid12c](https://github.com/sid12c)
   <!-- prettier-ignore-end -->
