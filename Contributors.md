@@ -34,6 +34,7 @@
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
 - [Anirudh](https://github.com/anirudhlohiya)
+- [JM61.dev](https://github.com/jm61)
 - [Jeroen van Halderen]()
 - [Zachary Hallemeyer](https://github.com/Zachary-Hallemeyer)
 - [Immu Bhai](https://github.com/JuliusEternal)
