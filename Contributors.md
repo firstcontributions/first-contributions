@@ -18,6 +18,7 @@
 - [Rain Bigsby](https://github.com/RainBigsby)
 - [Esther Soloveitchik](https://github.com/keyboardsWarrior)
 - [David Porto](https://github.com/davidaleth)
+- [sandar](https://github.com/sandar00)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
