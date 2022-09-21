@@ -416,6 +416,7 @@
 - [Magnus Jensen]
 - [Eric Clayton]
 - [Goodness Hero]
+-[Empress Beastie] 
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
