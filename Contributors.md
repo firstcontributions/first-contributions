@@ -81,6 +81,7 @@
 - [katdotfasta](https://github.com/katdotfasta)
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
+- [Said Lopez](https://github.com/SaidLopez)
 - [Thomas Adler](https://github.com/thomas0299)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Muhammad Najib Bala](https://github.com/NAJIB-B)
