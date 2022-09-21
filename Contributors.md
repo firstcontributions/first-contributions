@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+  [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [India Rome]()
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
