@@ -41,6 +41,7 @@
 - [Chandan Jindal](https://github.com/chandan-jindal)
 - [Santino Santillán](https://github.com/SantiM5)
 - [Lina Zuluaga](https://github.com/linazoo)
+- [Pranav Dhawan](https://github.com/pranavdhawan)
 - [Sylvie Quris] (https://github.com/squris)
 - [Javier Marín](https://github.com/lessigsx)
 - [Joseph Corbett](https://github.com/Corbett000)
