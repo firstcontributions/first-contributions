@@ -3519,4 +3519,5 @@
 - [Rahul-Bhati](https://github.com/Rahul-Bhati)
 - [Soonam Kalyan](https://github.com/iamsoo)
 - [antivistic](https://github.com/antivistic)
+- [Antony Elfferich](https://github.com/AntonyElfferich)
   <!-- prettier-ignore-end -->
