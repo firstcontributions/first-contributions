@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Arghya Das](https://github.com/Arghyahub)
 - [India Rome]()
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Riya Agarwal]
