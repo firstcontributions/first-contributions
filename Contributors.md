@@ -28,6 +28,7 @@
 - [sandar](https://github.com/sandar00)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
+- [Simon-Raviz](https://github.com/Simon-Rabich)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Arthur Cordovil](https://github.com/devriq)
 - [Omkar Pawar](https://github.com/omkarpawar2001)
