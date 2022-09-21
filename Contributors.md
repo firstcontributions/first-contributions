@@ -4,6 +4,7 @@
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [India Rome]()
 - [Buu Pham](https://github.com/DepressingWeeb)
+- [Riya Agarwal]
 - [Mabig3](https://github.com/cppbird)
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
@@ -2165,6 +2166,7 @@
 - [ToxGem](https://github.com/Toxgem)
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
+- [Sathmika](https://github.com/Sathmikasenadheera01)
 - [Johnathan Im](https://github.com/johnathanim20)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
@@ -3520,5 +3522,7 @@
 - [Rahul-Bhati](https://github.com/Rahul-Bhati)
 - [Soonam Kalyan](https://github.com/iamsoo)
 - [antivistic](https://github.com/antivistic)
-
+- [Antony Elfferich](https://github.com/AntonyElfferich)
+- [Sidharth Chaudhary](https://github.com/sid12c)
+- [cadrac](https://github.com/cadrac)
   <!-- prettier-ignore-end -->
