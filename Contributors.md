@@ -13,6 +13,7 @@
 - [Singapore750](https://github.com/Singapore750)
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
+- [Sarah Adewale](https://github.com/sarah-adewale)
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
 - [NYL] (https://github.com/nyyelin)
 - [Anushka Bhandari](https://github.com/Anushkabh)
