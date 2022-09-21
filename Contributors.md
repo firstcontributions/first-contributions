@@ -4,6 +4,7 @@
 
 - [India Rome]()
 - [Pankaj Kumar](https://github.com/devpkv)
+- [Akshat Mittal](https://akshatmittal61.vercel.app/)
 - [Singapore750](https://github.com/Singapore750)
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
