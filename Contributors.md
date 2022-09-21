@@ -146,6 +146,7 @@
 - [Fernando Cuevas](https://github.com/FercueNat)
 - [Rhythm Saha](https://github.com/rhythmsaha)
 - [Abhishek kumar](https://github.com/AforAbhi)
+- [Charlie Gomez](https://github.com/CGDev-TheMidnightWalker)
 - [Erick Salazar]
 - [Justin Liang]
 - [Aaron S]
