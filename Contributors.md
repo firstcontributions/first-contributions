@@ -3515,6 +3515,7 @@
 - [Rudra Narayan Dash](https://github.com/ZekromRND)
 - [Kevin Daniel](https://github.com/Kevin-Daniel)
 - [Anudeep Tadikamalla](https://github.com/anudeeptadikamalla)
+- [Rahul-Bhati](https://github.com/Rahul-Bhati)
 - [Soonam Kalyan](https://github.com/iamsoo)
 - [antivistic](https://github.com/antivistic)
   <!-- prettier-ignore-end -->
