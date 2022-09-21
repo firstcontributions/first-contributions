@@ -3523,4 +3523,5 @@
 - [antivistic](https://github.com/antivistic)
 - [Antony Elfferich](https://github.com/AntonyElfferich)
 - [Sidharth Chaudhary](https://github.com/sid12c)
+- [cadrac](https://github.com/cadrac)
   <!-- prettier-ignore-end -->
