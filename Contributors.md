@@ -3465,6 +3465,7 @@
 - [Cristian Cristea](https://github.com/cristiancristea00)
 - [VANTRO](https://github.com/vantr-o)
 - [Andrew Stifora](https://github.com/AndrewStifora)
+- [Serjlc](https://github.com/serjlc)
 - [Danyls Ngongang](https://github.com/dtn1999)
 - [Priyanka Chowdhury](https://github.com/priyankaaa532002)
 - [Dayra Quinonez]()
