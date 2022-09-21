@@ -313,6 +313,7 @@
 - [Hoper Hope] (https://github.com/HoperHope)
 - [Wrik Roy](https://github.com/roywrik)
 - [Julien AWON'GA](https://github.com/julien-aw)
+- [Ross Yang](https://github.com/dracularking)
 - [Rebecca Hampton](https://github.com/rebeccajhampton)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
