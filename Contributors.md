@@ -3505,6 +3505,7 @@
 - [Zin Min Htike] (https://github.com/ZinMinHtike29)
 - [Aneesh Sahu] (https://github.com/Aneeshh18)
 - [Jarozin]
+- [Thanos Giapotzis] (https://github.com/thanosgiap)
 - [meelih](https://github.com/meelih)
 - [Sreymeas] (https://github.com/meass)
 - [Piotr Slomiany] (https://github.com/Sloma44)
