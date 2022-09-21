@@ -39,6 +39,7 @@
 - [Anirudh](https://github.com/anirudhlohiya)
 - [JM61.dev](https://github.com/jm61)
 - [Jeroen van Halderen]()
+- [Nestor Blanco]()
 - [Zachary Hallemeyer](https://github.com/Zachary-Hallemeyer)
 - [Immu Bhai](https://github.com/JuliusEternal)
 - [Ahmed Magdy](https://github.com/bugz8)
