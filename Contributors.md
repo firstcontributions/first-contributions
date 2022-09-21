@@ -55,6 +55,7 @@
 - [Nathan Chan](https://github.com/nkc53)
 - [Aman Gupta](https://github.com/Aman-0604)
 - [Jack Shanley](https://github.com/JackShanley)
+- [Piotr Chmurzewski](https://github.com/PiotrChmurzewski)
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - [Johnathan Moe](https://github.com/Juneict)
