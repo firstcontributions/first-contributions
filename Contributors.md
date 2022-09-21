@@ -3514,6 +3514,7 @@
 - [Alif Rizki](https://github.com/renzien)
 - Sarathkumar Nallendhiran
 - [Adrian](https://github.com/adriandero)
+- [Dev Mittal](https://github.com/DevMittal04)
 - [Rudra Narayan Dash](https://github.com/ZekromRND)
 - [Kevin Daniel](https://github.com/Kevin-Daniel)
 - [Bin Xue](https://github.com/xue-bin)
