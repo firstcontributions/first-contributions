@@ -9,6 +9,7 @@
 - [noonereedus]
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
 - [NYL] (https://github.com/nyyelin)
+- [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
