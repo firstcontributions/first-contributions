@@ -4,6 +4,7 @@
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [India Rome]()
 - [Buu Pham](https://github.com/DepressingWeeb)
+- [Riya Agarwal]
 - [Mabig3](https://github.com/cppbird)
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
