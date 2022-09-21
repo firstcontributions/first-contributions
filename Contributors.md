@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+  [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [India Rome]()
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Mabig3](https://github.com/cppbird)
