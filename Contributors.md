@@ -15,6 +15,7 @@
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
 - [Aryansh Rana](https://github.com/Aryanshrana)
+- [Fangzhou Wang] (https://github.com/Wooonster)
 - [Soham Pagi](https://github.com/soham-pagi)
 - [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
 - [Rekt-Cat](https://github.com/Rekt-Cat)
