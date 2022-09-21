@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [India Rome]()
+- [Buu Pham](https://github.com/DepressingWeeb)
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
 - [Singapore750](https://github.com/Singapore750)
