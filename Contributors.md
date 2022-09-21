@@ -2165,6 +2165,7 @@
 - [ToxGem](https://github.com/Toxgem)
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
+- [Sathmika](https://github.com/Sathmikasenadheera01)
 - [Johnathan Im](https://github.com/johnathanim20)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
