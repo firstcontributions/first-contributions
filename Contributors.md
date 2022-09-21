@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-  [Shahzad Ali](https://github.com/Malik-shahzadAli)
+
+[Shahzad Ali](https://github.com/Malik-shahzadAli)
+
 - [India Rome]()
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Riya Agarwal]
@@ -3525,4 +3527,5 @@
 - [Antony Elfferich](https://github.com/AntonyElfferich)
 - [Sidharth Chaudhary](https://github.com/sid12c)
 - [cadrac](https://github.com/cadrac)
+- [kkarrwrites](https://github.com/kkarrwrites)
   <!-- prettier-ignore-end -->
