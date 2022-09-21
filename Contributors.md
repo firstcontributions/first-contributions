@@ -12,6 +12,7 @@
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
 - [Aryansh Rana](https://github.com/Aryanshrana)
+- [Soham Pagi](https://github.com/soham-pagi)
 - [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
 - [Rekt-Cat](https://github.com/Rekt-Cat)
 - [Rain Bigsby](https://github.com/RainBigsby)
