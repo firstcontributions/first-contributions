@@ -1,8 +1,11 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-  [Shahzad Ali](https://github.com/Malik-shahzadAli)
+
+[Shahzad Ali](https://github.com/Malik-shahzadAli)
+
 - [Arghya Das](https://github.com/Arghyahub)
+- [Vortex148]
 - [India Rome]()
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Riya Agarwal]
@@ -417,8 +420,7 @@
 - [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
-- [Goodness Hero]
--[Empress Beastie] 
+- [Goodness Hero] -[Empress Beastie]
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
