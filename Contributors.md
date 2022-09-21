@@ -19,6 +19,7 @@
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
+- [Arthur Cordovil](https://github.com/devriq)
 - [Omkar Pawar](https://github.com/omkarpawar2001)
 - [Augustine C. Anyasodor](https://github.com/ACAnyasodor)
 - [Martina John](https://github.com/MartinaJohn)
