@@ -2385,6 +2385,7 @@
 - [Muhammed Shehaz](https://github.com/sh3hz)
 - [Blankjr](https://github.com/Blankjr)
 - [Rain](https://github.com/lcy101u)
+- [Krzyś](https://github.com/poteznyziomek)
 - [Isaac](https://github.com/isaacangyu)
 - [Eliyahu Belay](https://github.com/EliyahuBelay)
 - [Utmost Re](https://github.com/utmostre)
