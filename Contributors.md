@@ -197,6 +197,7 @@
 - [Richard Kashyap](https://github.com/richardkashyap21)
 - [Ashish Kumar Bhoi](https://github.com/AshishBhoi)
 - [Peeyush Guleria](https://github.com/peeyushguleria)
+- [Eduardo Sousa](https://github.com/eduardodelarge)
 - [Douglas Kiprono](https://github.com/douglasrono)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
