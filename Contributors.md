@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+  [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Arghya Das](https://github.com/Arghyahub)
