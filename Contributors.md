@@ -1239,6 +1239,7 @@
 - [Arijit Paria](https://github.com/TUTORIEX)
   [Ashish Sharma](https://github.com/itsashish1801)
 - [Doron Griffin-Tann](https://github.com/TheDiamondSkyv32)
+- [Jeffrey Whewhetu] (https://github.com/c0d33ngr)
 - [Zarau baidu](https://github.com/zeerau)
 - [Kyler Conant](https://github.com/kylerc150)
 - [Chung-Huu-Tin](https://github.com/TinChung41)
