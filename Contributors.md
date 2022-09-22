@@ -41,6 +41,7 @@
 - [Omkar Pawar](https://github.com/omkarpawar2001)
 - [Augustine C. Anyasodor](https://github.com/ACAnyasodor)
 - [Martina John](https://github.com/MartinaJohn)
+- [Hope Kuypers](https://github.com/Notchoaveragejoe)
 - [Rebecca Chavez](https://github.com/rlchavez3)
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
