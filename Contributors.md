@@ -14,6 +14,7 @@
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Riya Agarwal]
 - [Laxman B](https://github.com/laxmanbalaraman)
+- [Harsh Kumar Dubey](https://github.com/hkdhackcode)
 - [Mabig3](https://github.com/cppbird)
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Dave Alam](https://github.com/davealam)
