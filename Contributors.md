@@ -42,6 +42,7 @@
 - [David Porto](https://github.com/davidaleth)
 - [sandar](https://github.com/sandar00)
 - [santosh upadhyaya](https://github.com/santosh-786)
+- [Chibuikem Iroaganachi](https://github.com/CyborgEvo)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Simon-Raviz](https://github.com/Simon-Rabich)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
