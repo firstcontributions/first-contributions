@@ -10,6 +10,7 @@
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
 - [India Rome]()
+- [Andie Pearce]()
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Riya Agarwal]
