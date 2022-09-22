@@ -5,6 +5,7 @@
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Arghya Das](https://github.com/Arghyahub)
+- [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [India Rome]()
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
