@@ -4,6 +4,7 @@
   [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Christian Arteaga](https://github.com/chrisarap)
+- [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
 - [India Rome]()
 - [Chris Green](https://github.com/ChrisGreenDev)
