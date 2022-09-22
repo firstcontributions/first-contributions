@@ -5,6 +5,7 @@
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Arghya Das](https://github.com/Arghyahub)
 - [India Rome]()
+- [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Riya Agarwal]
 - [Mabig3](https://github.com/cppbird)
