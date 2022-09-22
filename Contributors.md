@@ -1,8 +1,10 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-  [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
-  [Shahzad Ali](https://github.com/Malik-shahzadAli)
+
+[Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
+[Shahzad Ali](https://github.com/Malik-shahzadAli)
+
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
@@ -32,6 +34,7 @@
 - [Rain Bigsby](https://github.com/RainBigsby)
 - [Esther Soloveitchik](https://github.com/keyboardsWarrior)
 - [David Porto](https://github.com/davidaleth)
+- [Victor Owiti](https://github.com/vicowiti)
 - [sandar](https://github.com/sandar00)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
@@ -425,8 +428,7 @@
 - [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
-- [Goodness Hero]
--[Empress Beastie] 
+- [Goodness Hero] -[Empress Beastie]
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
