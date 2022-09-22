@@ -3494,6 +3494,7 @@
 - [Danyls Ngongang](https://github.com/dtn1999)
 - [Priyanka Chowdhury](https://github.com/priyankaaa532002)
 - [Dayra Quinonez]()
+- [Junya Jacqueline Qiao](https://github.com/JunyaQ)
 - [Ifeanyichukwu Favour](https://github.com/Cisco-A)
 - [Hyunsoo Kim](https://github.com/dblepart99)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
