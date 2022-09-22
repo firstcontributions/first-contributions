@@ -1,9 +1,11 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-  [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
-  [CallieRhino](https://github.com/CallieRhino)
-  [Shahzad Ali](https://github.com/Malik-shahzadAli)
+
+[Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
+[CallieRhino](https://github.com/CallieRhino)
+[Shahzad Ali](https://github.com/Malik-shahzadAli)
+
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
@@ -56,6 +58,7 @@
 - [Hassan Nasser](https://github.com/hnasser44)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
+- [Karol Songin](https://github.com/QSETT)
 - [Disha Chaurasia]
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
@@ -427,8 +430,7 @@
 - [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
-- [Goodness Hero]
--[Empress Beastie] 
+- [Goodness Hero] -[Empress Beastie]
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
@@ -3551,6 +3553,5 @@
 - [Antony Elfferich](https://github.com/AntonyElfferich)
 - [Sidharth Chaudhary](https://github.com/sid12c)
 - [cadrac](https://github.com/cadrac)
-- [`J`oe Chen](https://github.com/jochen10518)
--[Shobhnik](https://github.com/Shobhnik13)
+- [`J`oe Chen](https://github.com/jochen10518) -[Shobhnik](https://github.com/Shobhnik13)
   <!-- prettier-ignore-end -->
