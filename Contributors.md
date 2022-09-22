@@ -3568,5 +3568,6 @@
 - [Sidharth Chaudhary](https://github.com/sid12c)
 - [cadrac](https://github.com/cadrac)
 - [`J`oe Chen](https://github.com/jochen10518)
--[Shobhnik](https://github.com/Shobhnik13)
+- [Shobhnik](https://github.com/Shobhnik13)
+- [Araguaci Andrade](https://github.com/araguaci)
   <!-- prettier-ignore-end -->
