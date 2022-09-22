@@ -3549,5 +3549,6 @@
 - [Antony Elfferich](https://github.com/AntonyElfferich)
 - [Sidharth Chaudhary](https://github.com/sid12c)
 - [cadrac](https://github.com/cadrac)
-- [Joe Chen](https://github.com/jochen10518)
+- [`J`oe Chen](https://github.com/jochen10518)
+-[Shobhnik](https://github.com/Shobhnik13)
   <!-- prettier-ignore-end -->
