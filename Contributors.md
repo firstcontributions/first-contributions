@@ -2093,6 +2093,7 @@
 - [Tim Leung](https://github.com/timleungtech)
 - [Harsh](https://github.com/HarshGarg11072002)
 - KB
+- [Morgan Simmons] (https://github.com/morgans856)
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
