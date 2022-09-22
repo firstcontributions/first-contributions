@@ -19,6 +19,7 @@
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
 - [Sarah Adewale](https://github.com/sarah-adewale)
+- [Ved](https://github/ved-rajpoot)
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
 - [NYL] (https://github.com/nyyelin)
 - [Anushka Bhandari](https://github.com/Anushkabh)
