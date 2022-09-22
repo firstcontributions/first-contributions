@@ -3455,6 +3455,7 @@
 - [Lê Hồng Đức](https://github.com/tedomi2705)
 - [Thom Peters](https://github.com/tgpj)
 - [Carolina Verde](https://github.com/carverde)
+- [Nikola Papratovic](https://github.com/npapratovic)
 - [Zachary Jorn](https://github.com/ZacharyJorn)
 - [Mostafa Ekbal](https://github.com/mostafaEkbal)
 - [flowers_lover](https://github.com/drybashlykov)
