@@ -152,6 +152,7 @@
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [Nidhish SD](https://github.com/Nidhish-SD)
+- [Rakshat Kashyap](https://github.com/pixalquarks)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
 - [Mahir Mulalomerovic](https://github.com/mmahE96)
