@@ -4,6 +4,7 @@
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Deepak Kumar](https://github.com/kumar-rocks
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
