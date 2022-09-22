@@ -19,6 +19,7 @@
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
 - [Singapore750](https://github.com/Singapore750)
 - [Katya](https://github.com/KatyaPrusakova/)
+- [Bugz](https://github.com/bugz8)
 - [noonereedus]
 - [Sarah Adewale](https://github.com/sarah-adewale)
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
