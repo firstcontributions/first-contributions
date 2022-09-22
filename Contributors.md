@@ -27,6 +27,7 @@
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
 - [Caleb Lugo] (https://github.com/CNL-Dev)
+- [Chyana](https://github.com/chyana)
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang] (https://github.com/Wooonster)
 - [Soham Pagi](https://github.com/soham-pagi)
