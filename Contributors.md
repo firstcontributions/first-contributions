@@ -1032,6 +1032,7 @@
 - [Tanya Tomar](https://github.com/tanyatomar98)
 - [Taufiqurrahman](https://github.com/fiqgant/)
 - [David Oluwafemi Joshua](https://github.com/jay-davisphem)
+- [Felix Ortiz] (https://github.com/FelixOrtiz97)
 - [Rainb0-0](https://github.com/Rainb0-0)
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
 - [Gunnar Raßmann](https://github.com/grumiumxd)
