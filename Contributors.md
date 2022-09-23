@@ -3590,4 +3590,5 @@
 - [Araguaci Andrade](https://github.com/araguaci)
 - [John Marcial](https://github.com/John121904)
 - [Marco - Ranastar88](https://github.com/Ranastar88)
+- [Anne Rufaedah](https://github.com/annerufa)
   <!-- prettier-ignore-end -->
