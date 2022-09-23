@@ -30,6 +30,7 @@ This will create of copy of this repository in your account.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/clone.png" alt="clone this repository" />
 
 In Sublime Merge, go to File -> Clone Repository.
+Or, use CLI: git clone "url"
 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-clone.png" alt="clone this repository" />
