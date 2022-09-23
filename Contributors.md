@@ -58,6 +58,7 @@
 - [Rain Bigsby](https://github.com/RainBigsby)
 - [Esther Soloveitchik](https://github.com/keyboardsWarrior)
 - [David Porto](https://github.com/davidaleth)
+- [Victor Owiti](https://github.com/vicowiti)
 - [sandar](https://github.com/sandar00)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Chibuikem Iroaganachi](https://github.com/CyborgEvo)
