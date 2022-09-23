@@ -5,6 +5,7 @@
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
+- [Thomas Iovino](https://github.com/TomIovino)
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
