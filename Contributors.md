@@ -3185,6 +3185,7 @@
 - [Olakunle Raheem](https://github.com/mayor-rhymes)
 - [Ariel Gencianeo]
 - [Tierra](https://github.com/flgirl813)
+- [Stuart Lewis](https://github.com/stulew93)
 - [Carlos Barona](https://github.com/Cbarona)
 - [Ricardo Carrera](https://github.com/carreraricardo)
 - [Bhavik Prajapati](https://github.com/Bhavik-prajapati)
