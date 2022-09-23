@@ -44,6 +44,7 @@
 - [Pranav]
 - [LainTS](https://github.com/laindomJS)
 - [Caleb Lugo] (https://github.com/CNL-Dev)
+- [BootVirtual](https://github.com/BootVirtual)
 - [Denis Jackman](https://github.com/denisjackman)
 - [Chyana](https://github.com/chyana)
 - [Aryansh Rana](https://github.com/Aryanshrana)
