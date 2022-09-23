@@ -42,6 +42,7 @@
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
 - [Pranav]
+- [ipatrikxz](https://github.com/ipatrikxz)
 - [LainTS](https://github.com/laindomJS)
 - [Caleb Lugo] (https://github.com/CNL-Dev)
 - [Denis Jackman](https://github.com/denisjackman)
