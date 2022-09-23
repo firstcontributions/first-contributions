@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [AdarsH](https://github.com/AKACHI-4)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
@@ -3591,4 +3592,5 @@
 - [John Marcial](https://github.com/John121904)
 - [Marco - Ranastar88](https://github.com/Ranastar88)
 - [Anne Rufaedah](https://github.com/annerufa)
+- [Akash S](https://github.com/Aakash4792)
   <!-- prettier-ignore-end -->
