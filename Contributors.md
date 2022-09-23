@@ -27,6 +27,7 @@
 - [Riya Agarwal]
 - [Laxman B](https://github.com/laxmanbalaraman)
 - [Harsh Kumar Dubey](https://github.com/hkdhackcode)
+- [Amanda McMullin](https://github.com/amanda-mcmullin)
 - [Mabig3](https://github.com/cppbird)
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Dave Alam](https://github.com/davealam)
