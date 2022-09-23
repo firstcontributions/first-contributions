@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [AdarsH](https://github.com/AKACHI-4)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
@@ -29,6 +30,7 @@
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
 - [Mohini]
+- [Syed Fazil](https://github.com/syedfazil900/)
 - [Sarah Adewale](https://github.com/sarah-adewale)
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
 - [NYL] (https://github.com/nyyelin)
