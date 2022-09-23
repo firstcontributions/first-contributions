@@ -799,6 +799,7 @@
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
 - [Rushabh Modi](https://github.com/rushabh0021)
+- [Kamila Wisniewska] (https://github.com/kamiwis)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
 - [Mohammed Aasif](https://github.com/Aasif-tecno)
