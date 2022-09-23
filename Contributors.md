@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [AdarsH](https://github.com/AKACHI-4)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
@@ -3589,6 +3590,7 @@
 - [Shobhnik](https://github.com/Shobhnik13)
 - [Araguaci Andrade](https://github.com/araguaci)
 - [John Marcial](https://github.com/John121904)
-- [Marco - Ranastar88](https://github.com/Ranastar88)
+- [Akash S](https://github.com/John121904)
+- [Marco - Ranastar88](https://github.com/Aakash4792)
 - [Anne Rufaedah](https://github.com/annerufa)
   <!-- prettier-ignore-end -->
