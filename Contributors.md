@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [AdarsH](https://github.com/AKACHI-4)
+- [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
