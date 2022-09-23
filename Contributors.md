@@ -21,6 +21,7 @@
 - [India Rome]()
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]()
+- [Peace]()
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Balogun Oluwatobi](https://github.com/Cholahji/)
