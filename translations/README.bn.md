@@ -54,16 +54,16 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-এখন `git checkout` কমান্ডের মাধ্যমে একটি ব্রাঞ্চ তৈরি করুন:
+এখন `git switch` কমান্ডের মাধ্যমে একটি ব্রাঞ্চ তৈরি করুন:
 
 ```
-git checkout -b <add-your-name>
+git switch -c <your-new-branch-name>
 ```
 
 উদাহরণ:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 (ব্রাঞ্চের নামে _add_ শব্দটি যুক্ত থাকা জরুরী নয়। তবে এই ব্রাঞ্চের উদ্দেশ্য যেহেতু আপনার নাম তালিকাভুক্ত করা, সেহেতু _add_ শব্দটি যুক্ত থাকাই কাম্য।)
@@ -89,10 +89,10 @@ git commit -m "Add <your-name> to Contributors list"
 `git push` কমান্ড ব্যবহার করে পরিবর্তনগুলো পুশ করুন:
 
 ```
-git push origin <add-your-name>
+git push origin -u <your-new-branch-name>
 ```
 
-এক্ষেত্রে `<add-your-name>`-এর বদলে পূর্বে আপনার তৈরি ব্রাঞ্চের নাম লিখুন।
+এক্ষেত্রে `<your-new-branch-name>`-এর বদলে পূর্বে আপনার তৈরি ব্রাঞ্চের নাম লিখুন।
 
 ## রিভিউয়ের জন্য আপনার পরিবর্তনগুলো জমা দিন
 
