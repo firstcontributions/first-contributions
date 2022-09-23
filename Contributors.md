@@ -3586,4 +3586,5 @@
 - [Shobhnik](https://github.com/Shobhnik13)
 - [Araguaci Andrade](https://github.com/araguaci)
 - [John Marcial](https://github.com/John121904)
+- [Marco - Ranastar88](https://github.com/Ranastar88)
   <!-- prettier-ignore-end -->
