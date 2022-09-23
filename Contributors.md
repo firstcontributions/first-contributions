@@ -192,7 +192,7 @@
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
 - [Mahir Mulalomerovic](https://github.com/mmahE96)
-
+- [NarasimhaAsuri](https://github.com/noone1235)
 - [Ayush Kukreti](https://github.com/ayshK24)
 - [Shraddha Anala](https://github.com/shraddha-an)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
@@ -3615,6 +3615,7 @@
 - [Shobhnik](https://github.com/Shobhnik13)
 - [Araguaci Andrade](https://github.com/araguaci)
 - [John Marcial](https://github.com/John121904)
+- [Narasimha Asuri](https://github.com/noone1235)
 - [Akash S](https://github.com/John121904)
 - [Marco - Ranastar88](https://github.com/Aakash4792)
 - [Anne Rufaedah](https://github.com/annerufa)
