@@ -69,6 +69,7 @@
 - [Rebecca Chavez](https://github.com/rlchavez3)
 - [Austin Nze](https://github.com/Ausranking)
 - [LennardV](https://github.com/lennardv16g)
+- [Amon Munyai](https://github.com/AmonMunyai)
 - [Anirudh](https://github.com/anirudhlohiya)
 - [JM61.dev](https://github.com/jm61)
 - [Jeroen van Halderen]()
