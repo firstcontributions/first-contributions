@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
+- [Shahzad Ali](https://github.com/Malik-shahzadAli)
   [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
   [CallieRhino](https://github.com/CallieRhino)
   [Shahzad Ali](https://github.com/Malik-shahzadAli)
@@ -3574,6 +3576,7 @@
 - [Antony Elfferich](https://github.com/AntonyElfferich)
 - [Sidharth Chaudhary](https://github.com/sid12c)
 - [cadrac](https://github.com/cadrac)
+- [Kishanlal B J](https://github.com/kishanlalbj)
 - [`J`oe Chen](https://github.com/jochen10518)
 - [Shobhnik](https://github.com/Shobhnik13)
 - [Araguaci Andrade](https://github.com/araguaci)
