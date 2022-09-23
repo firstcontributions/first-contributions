@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [AdarsH](https://github.com/AKACHI-4)
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
@@ -37,6 +38,7 @@
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
 - [Mohini]
+- [Syed Fazil](https://github.com/syedfazil900/)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Sarah Adewale](https://github.com/sarah-adewale)
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
