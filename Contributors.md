@@ -9,6 +9,7 @@
 - [Divya Prakash](https://github.com/divyaprakashdp)
 - [Ayan Web](https://github.com/Ayan-web)
 - [Sinduri Gundu](https://github.com/Sinduri11)
+- [Dmitriy Kruglov] (https://github.com/dimakr)
 - [Maneshwar Mehra](https://github.com/maneshwar-mehra)
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
