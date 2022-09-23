@@ -18,6 +18,7 @@
 - [Arghya Das](https://github.com/Arghyahub)
 - [Diskhant](https://github.com/dikshantks)
 - [India Rome]()
+- [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]()
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
