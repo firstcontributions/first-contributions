@@ -3,12 +3,14 @@
 <!-- prettier-ignore-start -->
 - [AdarsH](https://github.com/AKACHI-4)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
+- [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Deepak Kumar](https://github.com/kumar-rocks)
 - [Divya Prakash](https://github.com/divyaprakashdp)
 - [Ayan Web](https://github.com/Ayan-web)
+- [Anakhe Ajayi] (https://github.com/AAnakhe)
 - [Sinduri Gundu](https://github.com/Sinduri11)
 - [Dmitriy Kruglov] (https://github.com/dimakr)
 - [Maneshwar Mehra](https://github.com/maneshwar-mehra)
@@ -31,6 +33,7 @@
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
 - [Mohini]
+- [Shrinav Loka] (https://github.com/lokashrinav)
 - [Sarah Adewale](https://github.com/sarah-adewale)
 - [Mohammed Fahad] (https://github.com/ProgrammerFS)
 - [NYL] (https://github.com/nyyelin)
