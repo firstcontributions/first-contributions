@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [AdarsH](https://github.com/AKACHI-4)
+- [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
