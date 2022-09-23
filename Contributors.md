@@ -106,6 +106,7 @@
 - [Stefan Mueller]
 - [Cristian Marrufo]
 - Jordan A
+- (John Okunowo) (https://github.com/johnfeyisayo)
 - [Celia Bruner] (https://github.com/kiddo7565)
 - [Nile Roth] (https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
