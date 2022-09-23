@@ -1,10 +1,11 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-  [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
-  [CallieRhino](https://github.com/CallieRhino)
-  [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
+- [CallieRhino](https://github.com/CallieRhino)
+- [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Deepak Kumar](https://github.com/kumar-rocks)
+- [Divya Prakash](https://github.com/divyaprakashdp)
 - [Ayan Web](https://github.com/Ayan-web)
 - [Sinduri Gundu](https://github.com/Sinduri11)
 - [Maneshwar Mehra](https://github.com/maneshwar-mehra)
