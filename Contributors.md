@@ -550,6 +550,7 @@
 - [Brian Wayne]
 - [John Cardeccia](https://github.com/Carhn/first-contributions)
 - [Ivan](git@github.com:FaninIS/first-contributions.git)
+- [Joao Ferreira](https://github.com/JoaoF94/first-contributions)
 - [Aser](https://github.com/aser96)
 - [Bilal Özkırış](https://github.com/bilalOzkiris)
 - [Jobin Tom](https://github.com/jobint001)
