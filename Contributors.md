@@ -3347,6 +3347,7 @@
 - [Pixfri](https://github.com/Pixfri)
 - [Musa Khan](https://github.com/Busohabit)
 - [Justin Kenny]
+- [Sayan De] (https://github.com/sayande2002)
 - [Rich]
 - [Jesus Lopez Calvo](https://github.com/JesusLopezCalvo)
 - [Brennan Seymour](https://github.com/brenno263)
