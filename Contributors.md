@@ -22,6 +22,7 @@
 - [Andie Pearce]()
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
+- [Balogun Oluwatobi](https://github.com/Cholahji/)
 - [Riya Agarwal]
 - [Laxman B](https://github.com/laxmanbalaraman)
 - [Harsh Kumar Dubey](https://github.com/hkdhackcode)
