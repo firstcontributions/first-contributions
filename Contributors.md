@@ -1362,5 +1362,6 @@ Karol Sykała
 - [Ankita Malik](https://github.com/AnkitaMalik22)
 - [Tetbirt Aimen](https://github.com/Einma)
 - [michael bz](https://github.com/mikabz1)
+- [omkar R](https://github.com/omk-coder)
 
 <!-- prettier-ignore-end -->
