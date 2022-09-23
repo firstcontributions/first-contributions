@@ -37,6 +37,7 @@
 - [Pranav]
 - [LainTS](https://github.com/laindomJS)
 - [Caleb Lugo] (https://github.com/CNL-Dev)
+- [Denis Jackman](https://github.com/denisjackman)
 - [Chyana](https://github.com/chyana)
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang] (https://github.com/Wooonster)
