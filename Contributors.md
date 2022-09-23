@@ -3576,6 +3576,7 @@
 - [Antony Elfferich](https://github.com/AntonyElfferich)
 - [Sidharth Chaudhary](https://github.com/sid12c)
 - [cadrac](https://github.com/cadrac)
+- [kkarrwrites](https://github.com/kkarrwrites)
 - [Kishanlal B J](https://github.com/kishanlalbj)
 - [`J`oe Chen](https://github.com/jochen10518)
 - [Shobhnik](https://github.com/Shobhnik13)
