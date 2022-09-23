@@ -13,6 +13,7 @@
 - [Christian Arteaga](https://github.com/chrisarap)
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
+- [Diskhant](https://github.com/dikshantks)
 - [India Rome]()
 - [Andie Pearce]()
 - [Chris Green](https://github.com/ChrisGreenDev)
@@ -446,8 +447,7 @@
 - [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
-- [Goodness Hero]
--[Empress Beastie] 
+- [Goodness Hero] -[Empress Beastie]
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
