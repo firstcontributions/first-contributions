@@ -21,6 +21,7 @@
 - [Arghya Das](https://github.com/Arghyahub)
 - [Diskhant](https://github.com/dikshantks)
 - [India Rome]()
+- [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]()
 - [Peace]()
