@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [AdarsH](https://github.com/AKACHI-4)
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
@@ -3340,6 +3341,7 @@
 - [Pixfri](https://github.com/Pixfri)
 - [Musa Khan](https://github.com/Busohabit)
 - [Justin Kenny]
+- [Sayan De] (https://github.com/sayande2002)
 - [Rich]
 - [Jesus Lopez Calvo](https://github.com/JesusLopezCalvo)
 - [Brennan Seymour](https://github.com/brenno263)
