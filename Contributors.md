@@ -3575,4 +3575,5 @@
 - [`J`oe Chen](https://github.com/jochen10518)
 - [Shobhnik](https://github.com/Shobhnik13)
 - [Araguaci Andrade](https://github.com/araguaci)
+- [John Marcial](https://github.com/John121904)
   <!-- prettier-ignore-end -->
