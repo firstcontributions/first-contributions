@@ -1,19 +1,26 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [noonereedus]
+
+- [Zagham Nadeem](https://github.com/zagham-nadeem)
+- [Elias Howell](https://github.com/eliashowell28)
+- [BigRad1 Elgusbi](https://github.com/rsmg10)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [AdarsH](https://github.com/AKACHI-4)
+- [Henrik Larsen](https://github.com/HenrikWintherLarsen)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
 - [Thomas Iovino](https://github.com/TomIovino)
 - [Vishnu Narayan Rai](https://github.com/Narayan1670))
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
+- [Emeghiebo Chizoba](https://github.com/Chizoba-009)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Deepak Kumar](https://github.com/kumar-rocks)
 - [Divya Prakash](https://github.com/divyaprakashdp)
 - [Ayan Web](https://github.com/Ayan-web)
+- [Jessica Chioma](https://github.com/AugustHottie)
+- [Lawrence Aneshimokha](https://github.com/Anelawrence)
 - [Anakhe Ajayi] (https://github.com/AAnakhe)
 - [Sinduri Gundu](https://github.com/Sinduri11)
 - [Madhav Gupta](https://github.com/madhavgupta07)
@@ -27,6 +34,9 @@
 - [Flik](https://github.com/flik58)
 - [Vortex148]
 - [G.G]
+- [Guilherme Correa](https://github.com/letguilhermec)
+- [Sergio Yunsuk Lee] (https://github.com/yunsuklee)
+- [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]()
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
@@ -47,6 +57,7 @@
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
 - [Mohini]
+- [noonereedus]
 - [Syed Fazil](https://github.com/syedfazil900/)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Sarah Adewale](https://github.com/sarah-adewale)
@@ -62,6 +73,7 @@
 - [Denis Jackman](https://github.com/denisjackman)
 - [Chyana](https://github.com/chyana)
 - [Mohit](https://github.com/mohitsarchives)
+- [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang] (https://github.com/Wooonster)
 - [Soham Pagi](https://github.com/soham-pagi)
@@ -194,7 +206,7 @@
 - [Laviz Pandey](https://github.com/lavizp)
 - [Adriel Perez ](https://github.com/kidkiller6021)
 - [Yu Chen]
-- [Mircea Arva][https://github.com/CocolinoFan]
+- [Mircea Arva][https://github.com/cocolinofan]
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
@@ -1420,6 +1432,7 @@
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Christopher Palileo](https://github.com/cpalileo)
 - [John Deen Bucog(Kijimai)](https://github.com/Kijimai)
+- [Christian Kilpatrick](https://github.com/christiankilpatrick-dev)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Aditya kumar](https://github.com/codekid20)
 - [dreamyvvoice](https://github.com/dreamyvoice)
@@ -1506,6 +1519,7 @@
 - [Olesia Polevoi](https://github.com/OlesiaPolevoi)
 - [Andika Eka Kurnia](https://github.com/dikdns)
 - [Elena Sarnouk](https://github.com/elenasarnouk)
+- [Shreyash Mulate] (https://github.com/Shreyash-Mulate)
 - [Berkay Kuytuoğlu](https://github.com/doandroidsdreamof)
 - [Kevin O&#39;Brien](https://github.com/KevinOBrien8)
 - [Tan](https://github.com/tan1193)
@@ -3623,6 +3637,7 @@
 - [Rudra Narayan Dash](https://github.com/ZekromRND)
 - [Kevin Daniel](https://github.com/Kevin-Daniel)
 - [Bin Xue](https://github.com/xue-bin)
+- [Ulises Ruiz](https://github.com/urhriver)
 - [Anudeep Tadikamalla](https://github.com/anudeeptadikamalla)
 - [Rahul-Bhati](https://github.com/Rahul-Bhati)
 - [Soonam Kalyan](https://github.com/iamsoo)
@@ -3645,6 +3660,10 @@
 - [Rajat Rai](https://github.com/therajatrai)
 - [ZM](https://github.com/zm)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
-- [Suzy](https://github.com/suzy97) 
+- [Suzy](https://github.com/suzy97)
 - [John B. Adelana](https://github.com/adelanajohn)
+- [Vishal Kannankra](https://github.com/kvishalv)
+- [Alexa Cole] (https://github.com/alexacole)
+- [Dushyant](https://github.com/techsnap)
+- [Parth](https://github.com/Parth-ops)
   <!-- prettier-ignore-end -->
