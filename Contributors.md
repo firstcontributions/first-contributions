@@ -6,6 +6,7 @@
 - [BigRad1 Elgusbi](https://github.com/rsmg10)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [AdarsH](https://github.com/AKACHI-4)
+- [Henrik Larsen](https://github.com/HenrikWintherLarsen)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
 - [Thomas Iovino](https://github.com/TomIovino)
 - [Vishnu Narayan Rai](https://github.com/Narayan1670))
