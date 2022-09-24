@@ -3660,4 +3660,5 @@
 - [Vishal Kannankra](https://github.com/kvishalv)
 - [Alexa Cole] (https://github.com/alexacole)
 - [Dushyant](https://github.com/techsnap)
+- [Parth](https://github.com/Parth-ops)
   <!-- prettier-ignore-end -->
