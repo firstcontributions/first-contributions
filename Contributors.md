@@ -3637,6 +3637,7 @@
 - [Marco - Ranastar88](https://github.com/Aakash4792)
 - [Anne Rufaedah](https://github.com/annerufa)
 - [omkar R](https://github.com/omk-coder)
+- [Rajat Rai](https://github.com/therajatrai)
 - [ZM](https://github.com/zm)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
 - [Suzy](https://github.com/suzy97) 
