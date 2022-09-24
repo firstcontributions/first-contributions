@@ -3632,6 +3632,7 @@
 - [Rudra Narayan Dash](https://github.com/ZekromRND)
 - [Kevin Daniel](https://github.com/Kevin-Daniel)
 - [Bin Xue](https://github.com/xue-bin)
+- [Ulises Ruiz](https://github.com/urhriver)
 - [Anudeep Tadikamalla](https://github.com/anudeeptadikamalla)
 - [Rahul-Bhati](https://github.com/Rahul-Bhati)
 - [Soonam Kalyan](https://github.com/iamsoo)
