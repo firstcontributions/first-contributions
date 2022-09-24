@@ -25,6 +25,7 @@
 - [Diskhant](https://github.com/dikshantks)
 - [Vortex148]
 - [G.G]
+- [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]()
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
