@@ -2349,6 +2349,7 @@
 - [Christine Seddon](https://github.com/CSeddon01)
 - [Alex Macharia](https://github.com/alexmacharia)
 - [Adam Wandoch](https://github.com/AdamWandoch)
+- [Max Boiar](https://github.com/mboiar)
 - [Christian Larson](https://github.com/degenerating)
 - [color00](https://github.com/color00)
 - [Philippa Olomoro](https://github.com/Philippaolomoro)
