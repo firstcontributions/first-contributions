@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Elias Howell](https://github.com/eliashowell28)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
