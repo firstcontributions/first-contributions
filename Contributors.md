@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [India Rome]()
-- [noonereedus] but this time he learned to do it without guidance
+- [noonereedus] but this time he learned to do it without guidance!
 - [David Porto](https://github.com/davidaleth)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
