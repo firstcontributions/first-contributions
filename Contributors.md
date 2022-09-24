@@ -2739,6 +2739,7 @@
 - [Brandon Maurice](https://github.com/bmaurice98)
 - [Augusto](https://github.com/augustoibarrola)
 - [Hüseyin Şen Kaya](https://github.com/huseyinsenkaya)
+- [soelin-bit](https://github.com/soelin-bit)
 - [Ben-4869](https://github.com/Ben-4869)
 - [Rong Xiang](https://github.com/zjrongxiang)
 - [Hetav Modi](https://github.com/hetavv)
