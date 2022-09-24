@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Elias Howell](https://github.com/eliashowell28)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [AdarsH](https://github.com/AKACHI-4)
