@@ -204,7 +204,7 @@
 - [Laviz Pandey](https://github.com/lavizp)
 - [Adriel Perez ](https://github.com/kidkiller6021)
 - [Yu Chen]
-- [Mircea Arva][https://github.com/CocolinoFan]
+- [Mircea Arva][https://github.com/cocolinofan]
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
@@ -1430,6 +1430,7 @@
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Christopher Palileo](https://github.com/cpalileo)
 - [John Deen Bucog(Kijimai)](https://github.com/Kijimai)
+- [Christian Kilpatrick](https://github.com/christiankilpatrick-dev)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Aditya kumar](https://github.com/codekid20)
 - [dreamyvvoice](https://github.com/dreamyvoice)
@@ -3657,7 +3658,7 @@
 - [Rajat Rai](https://github.com/therajatrai)
 - [ZM](https://github.com/zm)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
-- [Suzy](https://github.com/suzy97) 
+- [Suzy](https://github.com/suzy97)
 - [John B. Adelana](https://github.com/adelanajohn)
 - [Vishal Kannankra](https://github.com/kvishalv)
 - [Alexa Cole] (https://github.com/alexacole)
