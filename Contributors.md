@@ -284,6 +284,7 @@
 - [Anirudh] (https://github.com/aspiringDev22)
 - [Kunal Bhavare] (https://github.com/kbhavre78)
 - [Berkay Uslu] (https://github.com/BerkayUslu)
+- [Kweayon Clark] (https://github.com/kwe92)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Vandit Shah](https://github.com/vanditshah44)
