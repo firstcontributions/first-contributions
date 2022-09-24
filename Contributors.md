@@ -115,6 +115,7 @@
 - [Estelle Chevallier](https://github.com/estellechvl)
 - [Nick Chapman](https://github.com/NickChapman1988)
 - Milana Marshall.
+- [Shrutika Hilale](https://github.com/shrutikahilale)
 - Andrew Usvat
 - Nick Henderson
 - [David Knight] (https://github.com/davidknight00)
