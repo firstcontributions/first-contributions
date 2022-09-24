@@ -66,6 +66,7 @@
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
 - [Pranav]
+- @wangbeishan
 - [ipatrikxz](https://github.com/ipatrikxz)
 - [LainTS](https://github.com/laindomJS)
 - [Caleb Lugo] (https://github.com/CNL-Dev)
