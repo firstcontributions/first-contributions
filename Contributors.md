@@ -69,6 +69,7 @@
 - [Denis Jackman](https://github.com/denisjackman)
 - [Chyana](https://github.com/chyana)
 - [Mohit](https://github.com/mohitsarchives)
+- [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang] (https://github.com/Wooonster)
 - [Soham Pagi](https://github.com/soham-pagi)
