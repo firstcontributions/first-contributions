@@ -27,6 +27,7 @@
 - [Flik](https://github.com/flik58)
 - [Vortex148]
 - [G.G]
+- [Guilherme Correa](https://github.com/letguilhermec)
 - [Sergio Yunsuk Lee] (https://github.com/yunsuklee)
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]()
