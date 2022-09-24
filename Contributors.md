@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [noonereedus] but this time he learnt to do this without guidance
+- [noonereedus] 
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
