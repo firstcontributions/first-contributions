@@ -16,6 +16,7 @@
 - [Divya Prakash](https://github.com/divyaprakashdp)
 - [Ayan Web](https://github.com/Ayan-web)
 - [Jessica Chioma](https://github.com/AugustHottie)
+- [Lawrence Aneshimokha](https://github.com/Anelawrence)
 - [Anakhe Ajayi] (https://github.com/AAnakhe)
 - [Sinduri Gundu](https://github.com/Sinduri11)
 - [Madhav Gupta](https://github.com/madhavgupta07)
