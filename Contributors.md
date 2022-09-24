@@ -148,6 +148,7 @@
 - [Devon Offutt](https://github.com/D-H0f)
 - [Said Lopez](https://github.com/SaidLopez)
 - [Nafees Noor]
+- [Vetle Elvebakken](https://github.com/vetleea)
 - [Thomas Adler](https://github.com/thomas0299)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Muhammad Najib Bala](https://github.com/NAJIB-B)
