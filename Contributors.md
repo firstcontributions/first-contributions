@@ -997,6 +997,7 @@
 - [Ayebilla Avoka] (https://github.com/Ayebilla)
 - [Diksha Tomar] (https://github.com/Dikshatomarr)
 - [Ayush Khandelwal] (https://github.com/Ayush-Khandelwal28)
+- [John B. Adelana](https://github.com/Akshay9607)
 - [Mo Nakouzi](https://github.com/MoNakouzi)
   [Josh Miller](https://github.com/RamenJunkie)
   [Sayantan Naskar](https://github.com/Arbtrage)
