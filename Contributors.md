@@ -121,6 +121,7 @@
 - Werberger Merton
 - Robin Pace
 - [Jaime De la Vega](https://github.com/JaimeDelaVegaFornie)
+- [Corrado Cionini](https://github.com/Sangresz)
 - Roheen Malu
 - Jackson Brittain
 - Christopher Calahan
