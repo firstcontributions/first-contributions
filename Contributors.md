@@ -3658,4 +3658,5 @@
 - [John B. Adelana](https://github.com/adelanajohn)
 - [Vishal Kannankra](https://github.com/kvishalv)
 - [Alexa Cole] (https://github.com/alexacole)
+- [Dushyant](https://github.com/techsnap)
   <!-- prettier-ignore-end -->
