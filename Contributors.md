@@ -3647,4 +3647,5 @@
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
 - [Suzy](https://github.com/suzy97) 
 - [John B. Adelana](https://github.com/adelanajohn)
+- [Vishal Kannankra](https://github.com/kvishalv)
   <!-- prettier-ignore-end -->
