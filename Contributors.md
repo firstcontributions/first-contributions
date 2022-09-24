@@ -8,6 +8,7 @@
 - [Thomas Iovino](https://github.com/TomIovino)
 - [Vishnu Narayan Rai](https://github.com/Narayan1670))
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
+- [Emeghiebo Chizoba](https://github.com/Chizoba-009)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
@@ -194,7 +195,7 @@
 - [Laviz Pandey](https://github.com/lavizp)
 - [Adriel Perez ](https://github.com/kidkiller6021)
 - [Yu Chen]
-- [Mircea Arva][https://github.com/CocolinoFan]
+- [Mircea Arva][https://github.com/cocolinofan]
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
@@ -3645,6 +3646,6 @@
 - [Rajat Rai](https://github.com/therajatrai)
 - [ZM](https://github.com/zm)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
-- [Suzy](https://github.com/suzy97) 
+- [Suzy](https://github.com/suzy97)
 - [John B. Adelana](https://github.com/adelanajohn)
   <!-- prettier-ignore-end -->
