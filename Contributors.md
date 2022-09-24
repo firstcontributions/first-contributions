@@ -3655,4 +3655,5 @@
 - [Suzy](https://github.com/suzy97) 
 - [John B. Adelana](https://github.com/adelanajohn)
 - [Vishal Kannankra](https://github.com/kvishalv)
+- [Alexa Cole] (https://github.com/alexacole)
   <!-- prettier-ignore-end -->
