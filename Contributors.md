@@ -24,6 +24,7 @@
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
 - [Diskhant](https://github.com/dikshantks)
+- [Flik](https://github.com/flik58)
 - [Vortex148]
 - [G.G]
 - [India Rome]()
