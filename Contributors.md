@@ -3630,5 +3630,5 @@
 - [ZM](https://github.com/zm)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
 - [Suzy](https://github.com/suzy97) 
-- [John B. Adelana](https://github.com/adelanajohn)
+- [John Adelana](https://github.com/adelanajohn)
   <!-- prettier-ignore-end -->
