@@ -206,6 +206,7 @@
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Rakshat Kashyap](https://github.com/pixalquarks)
 - [Braedon Behnke]
+- [Nitish Malang] (https://github.com/nitishmalang)
 - [Matt Doughty](https://github.com/maddo1919)
 - [Mahir Mulalomerovic](https://github.com/mmahE96)
 - [NarasimhaAsuri](https://github.com/noone1235)
