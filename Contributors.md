@@ -476,6 +476,7 @@
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Aissa Nouacer](https://github.com/AissaNouacer)
+- [Barack W](https://github.com/walindi)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Deepanshu Kumar Sahu]
 - [Simon taksim]
@@ -2313,6 +2314,7 @@
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Okeke Kenechukwu](https://github.com/kenekc18)
+- [Emmanuel Omeje] (https://github.com/omejeemmanuel1)
 - [Ankit Sharma](https://github.com/Sabretooth1405)
 - [Vedansh Mehra](https://github.com/imvedanshmehra)
 - [Adaobi Chuma-Okeke](https://github.com/Chumzine)
@@ -3680,4 +3682,6 @@
 - [Steven] (https://github.com/steven-liou)
 - [jking412](https://github.com/jking412)
 - [ezinneuzoije] (https://github.com/ezinneuzoije)
+- [Dragos Bucur](https://github.com/DragosBucur99)
+- [Erwin Nowak](https://github.com/erwinowak)
 - <!-- prettier-ignore-end -->
