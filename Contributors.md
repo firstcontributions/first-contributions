@@ -3699,4 +3699,5 @@
 - [YK Sugi](https://github.com/ykdojo/)
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
+- [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
 - <!-- prettier-ignore-end -->
