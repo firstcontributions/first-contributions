@@ -19,6 +19,7 @@
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Harsh Gupta](https://github.com/hrsh22)
 - [Deepak Kumar](https://github.com/kumar-rocks)
 - [Nmk78](https://github.com/Nmk78)
 - [Divya Prakash](https://github.com/divyaprakashdp)
