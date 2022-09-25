@@ -124,6 +124,7 @@
 - [Ahmed Magdy](https://github.com/bugz8)
 - [Aaftab Shaikh](https://github.com/aftab590)
 - [Victor Durojaiye](https://github.com/Kingjaiyee)
+- [Piplup7575](https://github.com/Piplup7575)
 - [Hassan Nasser](https://github.com/hnasser44)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
@@ -3702,5 +3703,4 @@
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
-- [Piplup7575](https://github.com/Piplup7575)
 - <!-- prettier-ignore-end -->
