@@ -120,6 +120,7 @@
 - [Nestor Blanco]()
 - [Zachary Hallemeyer](https://github.com/Zachary-Hallemeyer)
 - [Immu Bhai](https://github.com/JuliusEternal)
+- [Amit Kushwaha](https://github.com)
 - [Ahmed Magdy](https://github.com/bugz8)
 - [Aaftab Shaikh](https://github.com/aftab590)
 - [Victor Durojaiye](https://github.com/Kingjaiyee)
