@@ -3679,4 +3679,5 @@
 - [Parth](https://github.com/Parth-ops)
 - [Steven] (https://github.com/steven-liou)
 - [jking412](https://github.com/jking412)
+- [ezinneuzoije] (https://github.com/ezinneuzoije)
 - <!-- prettier-ignore-end -->
