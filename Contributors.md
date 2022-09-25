@@ -3692,4 +3692,5 @@
 - [Proskurenko Danylo](https://github.com/ProskurenkoDanylo)
 - [Erwin Nowak](https://github.com/erwinowak)
 - [Walker Voss](https://github.com/WVoss31)
+- [YK Sugi](https://github.com/ykdojo/)
 - <!-- prettier-ignore-end -->
