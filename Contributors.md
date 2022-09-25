@@ -357,6 +357,7 @@
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
+- [Pratik Mamdapure](https://github.com/Pratikmamdapure)
 - [Devarsh Patel](https://github.com/Devarsh010)
 - [Sky Kal](https://github.com/SkyKal)
 - [Jay](https://github.com/xplorjay)
