@@ -10,8 +10,6 @@ Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras co
 #### *Se não se sentes confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #Tutoriais-usando-outras-ferramentas)*
 
 
-#### *Ler em [outros idiomas](../translations/Translations.md)* 
-
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositório" />
 
 Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
