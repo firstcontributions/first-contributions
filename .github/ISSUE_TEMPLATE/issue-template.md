@@ -2,8 +2,8 @@
 name: Suggest changes
 about: If you want to report a bug or suggest improvements, please open an issue.
 title: ''
-labels: discussion, question
-assignees: Roshanjossey
+labels: question
+assignees: ''
 
 ---
 
