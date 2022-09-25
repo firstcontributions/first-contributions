@@ -3705,4 +3705,6 @@
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
+- [Sooraj Bharadwaj] (https://github.com/surajbharadwaj17)
+
 - <!-- prettier-ignore-end -->
