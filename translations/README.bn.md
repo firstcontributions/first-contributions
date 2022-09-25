@@ -11,7 +11,6 @@
 
 #### _কমান্ড লাইন ইন্টারফেস এ স্বাচ্ছন্দ্য বোধ না করলে, [এখান থেকে গ্রাফিকাল ইন্টারফেস দিয়ে কিভাবে কাজ টি করতে হয় তার টিউটোরিয়াল দেখুন।](#অন্যান্য-টুল-ব্যবহারের-টিউটোরিয়াল)_
 
-#### _এই লেখাটি [অন্য ভাষায় পড়ুন।](translations/Translations.md)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -114,7 +113,7 @@ git push origin -u <your-new-branch-name>
 
 এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://roshanjossey.github.io/first-contributions/#project-list) দেখুন।
 
-### [ অতিরিক্ত উপাদানসমূহ ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ অতিরিক্ত উপাদানসমূহ ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## অন্যান্য টুল ব্যবহারের টিউটোরিয়াল
 

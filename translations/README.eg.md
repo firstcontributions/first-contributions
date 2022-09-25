@@ -17,9 +17,6 @@
 </div>
 
 
-#### *Read this in [other languages](../Translations.md)* 
-
-
 <div dir="rtl">
 لو ماكنش عندك git على جهازك <a href="https://help.github.com/articles/set-up-git/">حمله من هنا.</a>
 </div>
