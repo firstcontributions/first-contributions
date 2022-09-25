@@ -777,6 +777,7 @@
 - [Raboro](https://github.com/Raboro)
 - [Minh](https://github.com/bobcoi03)
 - [Cody]
+- [Baroon Jha](https://github.com/baroonjha)
 - [Sam Brands](https://github.com/MoosMas)
 - [Savo Bos]
 - [Sohaib Ahmad](https://github.com/sohaibahmed40)
