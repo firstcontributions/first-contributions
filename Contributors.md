@@ -3687,4 +3687,5 @@
 - [Dragos Bucur](https://github.com/DragosBucur99)
 - [Proskurenko Danylo](https://github.com/ProskurenkoDanylo)
 - [Erwin Nowak](https://github.com/erwinowak)
+- [Walker Voss](https://github.com/WVoss31)
 - <!-- prettier-ignore-end -->
