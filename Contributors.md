@@ -476,6 +476,7 @@
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Aissa Nouacer](https://github.com/AissaNouacer)
+- [Barack W](https://github.com/walindi)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Deepanshu Kumar Sahu]
 - [Simon taksim]
