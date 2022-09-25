@@ -128,6 +128,7 @@
 - [Aman Gupta](https://github.com/Aman-0604)
 - [Jack Shanley](https://github.com/JackShanley)
 - [Ishika Gupta](https://github.com/guptaishika128)
+- [Shivam Shrey](https://github.com/shivamshrey)
 - [Piotr Chmurzewski](https://github.com/PiotrChmurzewski)
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
