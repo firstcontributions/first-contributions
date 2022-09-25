@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
+- [Joey Phoier](https://github.com/JoeyPhoier)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Sebastian Richter](https://github.com/gismo1337)
