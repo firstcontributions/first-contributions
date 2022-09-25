@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Abhishek Verma](https://github.com/Abhishekverma2002)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Elias Howell](https://github.com/eliashowell28)
@@ -160,6 +160,7 @@
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
+- [James Oyebade](https://github.com/Bron-analytics)
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
@@ -3681,6 +3682,8 @@
 - [Parth](https://github.com/Parth-ops)
 - [Steven] (https://github.com/steven-liou)
 - [jking412](https://github.com/jking412)
+- [ezinneuzoije] (https://github.com/ezinneuzoije)
 - [Dragos Bucur](https://github.com/DragosBucur99)
 - [Proskurenko Danylo](https://github.com/ProskurenkoDanylo)
+- [Erwin Nowak](https://github.com/erwinowak)
 - <!-- prettier-ignore-end -->
