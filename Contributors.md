@@ -3696,4 +3696,5 @@
 - [Walker Voss](https://github.com/WVoss31)
 - [YK Sugi](https://github.com/ykdojo/)
 - [Naman Mittal](https://github.com/Naman-Mittal1)
+- [Daniel_Reiser](https://github.com/reiserdaniel)
 - <!-- prettier-ignore-end -->
