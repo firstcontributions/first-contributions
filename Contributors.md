@@ -216,6 +216,7 @@
 - [Tim Geil ⛓](https://github.com/timgeil)
 - [Zubaydullo Abdirakhmonov](https://github.com/Zubaydullo)
 - Osinachi Ibiam-Uro
+- [Prince Kumar] (https://github.com/prince14322)
 - [Francis Karuri](https://github.com/LUCASFRANKINC)
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [vultimitavin](https://github.com/vulti-mitavin)
