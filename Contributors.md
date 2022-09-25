@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Abhishek Verma] (https://github.com/Abhishekverma2002//)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Elias Howell](https://github.com/eliashowell28)
