@@ -1438,6 +1438,7 @@
 - [Harvey Munoz](https://github.com/Zyhru)
 - [Erastus Nzula](https://github.com/erastusnzula)
 - [Jack Vogt 🫡](https://github.com/jwvogt)
+- [Quinn O'Neal](https://github.com/quinnoneal)
 - [Aldo Arista 🐱](https://github.com/aldoawp)
 - [Maria Paz Gutierrez Ayala](https://github.com/mp-gutierrez/)
 - [Satvik Watts](https://github.com/SatvikWatts)
