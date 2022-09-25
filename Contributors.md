@@ -100,6 +100,7 @@
 - [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Arthur Cordovil](https://github.com/devriq)
 - [Omkar Pawar](https://github.com/omkarpawar2001)
+- [Edson Sooraj Dsouza](https://github.com/edson-sooraj)
 - [Augustine C. Anyasodor](https://github.com/ACAnyasodor)
 - [Martina John](https://github.com/MartinaJohn)
 - [Hope Kuypers](https://github.com/Notchoaveragejoe)
