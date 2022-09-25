@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
-- [Slim Babay](https://github.com/xslim24x)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
@@ -3703,4 +3702,5 @@
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
+- [Piplup7575](https://github.com/Piplup7575)
 - <!-- prettier-ignore-end -->
