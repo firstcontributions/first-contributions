@@ -160,6 +160,7 @@
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
+- [James Oyebade](https://github.com/Bron-analytics)
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
