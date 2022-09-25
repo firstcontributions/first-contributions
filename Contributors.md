@@ -3695,4 +3695,5 @@
 - [Erwin Nowak](https://github.com/erwinowak)
 - [Walker Voss](https://github.com/WVoss31)
 - [YK Sugi](https://github.com/ykdojo/)
+- [Naman Mittal](https://github.com/Naman-Mittal1)
 - <!-- prettier-ignore-end -->
