@@ -326,6 +326,7 @@
 - [Lane Foxwood](https://github.com/lanefoxwood)
 - [Vidhish Trivedi](https://github.com/Vidhish-Trivedi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Nakul Gupta](https://github.com/nakul010)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Drake Buentello](https://github.com/DrakeB1234)
