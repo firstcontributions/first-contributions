@@ -3716,5 +3716,7 @@
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
 - [Krishna Vivek Vitta](https://github.com/krishnacx)
+- [Hao Tieu Kim](https://github.com/haotieu2001)
 - [Gede Apriana](https://github.com/gedeapriana)
 - <!-- prettier-ignore-end -->
+
