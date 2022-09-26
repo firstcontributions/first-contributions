@@ -2047,6 +2047,7 @@
 - [David Kitavi](https://github.com/kitavidavis)
 - [Pelumi Olawole](https://github.com/pelumiolawole)
 - [David Enders](https://github.com/davidenders11)
+- [Daniel Grossman](https://github.com/woodsnip)
 - [Andrew Arkwright](https://github.com/AndrewArkwright)
 - [Chhetri](https://github.com/chhetri28)
 - [Shawon Krishna Saha](https://github.com/hira-saha)
