@@ -1,12 +1,14 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Sandesh GC](https://github.com/SandeshGC)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Slim Babay](https://github.com/xslim24x)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
+- [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
@@ -2275,6 +2277,7 @@
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
 - [Aleksa Radojicic](https://github.com/radojicic23)
+- [Murad Salameh](https://github.com/murad013)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
 - [BrunchWithYou](https://github.com/BrunchWithYou)
