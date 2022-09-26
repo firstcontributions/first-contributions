@@ -265,6 +265,7 @@
 - [NarasimhaAsuri](https://github.com/noone1235)
 - [Ayush Kukreti](https://github.com/ayshK24)
 - [Shraddha Anala](https://github.com/shraddha-an)
+- [Laxman kohar](https://github.com/Laxmankohar)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
 - [Pranathi Pulimamidy](https://github.com/ppulimamidy)
 - [Dena Vafadar Afshar](https://github.com/DenavDot)
