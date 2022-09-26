@@ -1446,6 +1446,7 @@
 - [Davood-Naderi](https://github.com/dadynaderi1)
 - [Lior Abel](https://github.com/liorabel22)
 - [Sorin](https://github.com/sorincu)
+- [Jim]
 - [Elias-Chacin](https://github.com/chacinelias)
 - [Kimberly Peters](https://github.com/KimberlyPeters)
 - [Muneeb Illahi](https://github.com/muneeb-i-khan)
