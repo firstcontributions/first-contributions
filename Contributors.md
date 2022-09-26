@@ -3726,5 +3726,6 @@
 - [Hao Tieu Kim](https://github.com/haotieu2001)
 - [Gede Apriana](https://github.com/gedeapriana)
 - [Tom Cawthorn](https://github.com/TomCawthorn)
+- [Krish Jaiswal](https://github.com/KrishJ999)
 - <!-- prettier-ignore-end -->
 
