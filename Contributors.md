@@ -48,6 +48,7 @@
 - [Flik](https://github.com/flik58)
 - [Vortex148]
 - [Prafull Kumar Pandey]
+- [Hitarth Srivastava]
 - [G.G]
 - [Guilherme Correa](https://github.com/letguilhermec)
 - [Sergio Yunsuk Lee] (https://github.com/yunsuklee)
