@@ -80,6 +80,7 @@
 - [Mohini]
 - [noonereedus]
 - [Vishnu]
+- [Vedant]
 - [Syed Fazil](https://github.com/syedfazil900/)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Sarah Adewale](https://github.com/sarah-adewale)
