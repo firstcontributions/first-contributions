@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
@@ -3692,6 +3693,7 @@
 - [cadrac](https://github.com/cadrac)
 - [Mariusz Blaszczyk](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [kkarrwrites](https://github.com/kkarrwrites)
+- [Akarikev(Prince Elorm)](https://github.com/Akarikev)
 - [Kishanlal B J](https://github.com/kishanlalbj)
 - [`J`oe Chen](https://github.com/jochen10518)
 - [Shobhnik](https://github.com/Shobhnik13)
@@ -3729,4 +3731,3 @@
 - [Tom Cawthorn](https://github.com/TomCawthorn)
 - [Krish Jaiswal](https://github.com/KrishJ999)
 - <!-- prettier-ignore-end -->
-
