@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Slim Babay](https://github.com/xslim24x)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
