@@ -1526,6 +1526,7 @@
 - [R Sai Ram Apuroop](https://github.com/sairamapuroop)
 - [Ferdjani Zakaria](https://github.com/Ferdjani-zakaria)
 - [Jessica van der Merwe](https://github.com/JessicavdM)
+- [Tanmay Majee] 
 - [Cortney] (https://github.com/Quartini)
 - [Michael Ford] (https://github.com/michaelrossford)
 - [Timi Ombe](https://github.com/SpaceTimmi)
