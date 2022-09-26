@@ -56,6 +56,7 @@
 - [Sergio Yunsuk Lee] (https://github.com/yunsuklee)
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]()
+- [Deepa]
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
