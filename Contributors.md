@@ -680,6 +680,7 @@
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [Kamil Sitarz]
 - [Maranda Bui]
+- [Jai Pratap Singh-The Big Bull]
 - [Chukwuani Stephen]
 - [Zachary Melson](https://github.com/zmelson)
 - [Brandon Lwe](https://github.com/brandonlwe98)
