@@ -4,6 +4,7 @@
 
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Mukul Raghav](https://github.com/Mukul-svg)
+- [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Chris Otudero](https://github.com/ChrisOtudero)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
