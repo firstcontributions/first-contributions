@@ -7,6 +7,7 @@
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
+- [Riya Sharma](https://github.com/riyasharma18)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
