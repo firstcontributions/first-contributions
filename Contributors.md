@@ -1,11 +1,13 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Slim Babay](https://github.com/xslim24x)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
+- [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
@@ -46,6 +48,7 @@
 - [Flik](https://github.com/flik58)
 - [Vortex148]
 - [Prafull Kumar Pandey]
+- [Hitarth Srivastava]
 - [G.G]
 - [Guilherme Correa](https://github.com/letguilhermec)
 - [Sergio Yunsuk Lee] (https://github.com/yunsuklee)
@@ -144,6 +147,7 @@
 - [Ishika Gupta](https://github.com/guptaishika128)
 - [Shivam Shrey](https://github.com/shivamshrey)
 - [Piotr Chmurzewski](https://github.com/PiotrChmurzewski)
+- [Yeghes]
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - [Johnathan Moe](https://github.com/Juneict)
@@ -476,8 +480,8 @@
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Roie Scharf](https://github.com/scharf-roie)
-- [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
+- [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - Ojas Dubey
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
@@ -1161,6 +1165,7 @@
 - [Abdulwaarith Zakariyya](https://github.com/Abdulwaarith-07)
 - [Tyler Popson](https://github.com/TylerPopson)
 - [Ismail Ahmad](https://github.com/SneezyG)
+- [Rajvir Singh](https://github.com/SinghxRaj)
 - [Maxwell Nganyadi](https://github.com/GOATMaxwellN)
 - [ Joel Crouch](https://github.com/joelcrouch)
 - [Sathvik Malgikar](https://github.com/Sathvik-Malgikar)
@@ -2271,6 +2276,7 @@
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
 - [Aleksa Radojicic](https://github.com/radojicic23)
+- [Murad Salameh](https://github.com/murad013)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
 - [BrunchWithYou](https://github.com/BrunchWithYou)
@@ -3628,6 +3634,7 @@
 - [Junya Jacqueline Qiao](https://github.com/JunyaQ)
 - [Ifeanyichukwu Favour](https://github.com/Cisco-A)
 - [Hyunsoo Kim](https://github.com/dblepart99)
+- [Quan Le](https://github.com/BinniesLite)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
 - [Mayank Singh](https://github.com/Mayank-sudo)
 - [Peter Csurgay](https://github.com/csurgay)
@@ -3710,5 +3717,6 @@
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
 - [Krishna Vivek Vitta](https://github.com/krishnacx)
 - [Hao Tieu Kim](https://github.com/haotieu2001)
+- [Gede Apriana](https://github.com/gedeapriana)
 - <!-- prettier-ignore-end -->
 
