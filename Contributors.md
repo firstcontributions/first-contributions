@@ -1042,6 +1042,7 @@
 - [Mahdi Razi] (https://github.com/mahdirazi65)
 - [Nikita Kocherinskiy](https://github.com/nikitakocherinskiy)
 - [Terri Iwata]
+- [Dre Campbell] (https://github.com/DreCampbell)
 - [MochFadilR] (https://github.com/MochFadilR)
 - [Tim Okonkwo] (https://github.com/timokonkwo)
 - [Shantanu Bombatkar](https://github.com/shaantanu9)
