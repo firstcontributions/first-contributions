@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
+- [Chris Otudero](https://github.com/ChrisOtudero)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Joey Phoier](https://github.com/JoeyPhoier)
