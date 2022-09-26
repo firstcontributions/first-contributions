@@ -3712,6 +3712,5 @@
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
-- [Krishna Vivek Vitta](https://github.com/krishnacx)
-- [Gede Apriana](https://github.com/gedeapriana)
+- [JQ](https://github.com/JQwebsite)
 - <!-- prettier-ignore-end -->
