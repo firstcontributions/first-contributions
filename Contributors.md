@@ -750,6 +750,7 @@
 - [Ethan]
 - [Divyam]
 - [Raymond Jin](https://github.com/Jinray1)
+- [Raymond Nolind](https://github.com/nolind)
 - [Maaz Bashir](https://github.com/Maazoo)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Phuoc Nguyen] (https://github.com/thiennp94)
