@@ -3709,6 +3709,7 @@
 - [ZM](https://github.com/zm)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
 - [Suzy](https://github.com/suzy97)
+- [Hina](https://github.com/hmmalic/hmmalic)
 - [John Adelana](https://github.com/adelanajohn)
 - [Vishal Kannankra](https://github.com/kvishalv)
 - [Alexa Cole] (https://github.com/alexacole)
