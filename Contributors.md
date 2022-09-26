@@ -1387,6 +1387,7 @@
 - [Prateek Srivastava](https://github.com/prateek-srivastav)
 - [Ayush Yadav](https://github.com/ayush-wd)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
+- [Nick Dunn] (https://github.com/NBunnDunn/)
 - [Richard Mukam](https://github.com/RichardMukam/)
 - [ugbeadie](https://github.com/ugbeadie)
 - [Zeerak](https://github.com/zeerakb1/)
