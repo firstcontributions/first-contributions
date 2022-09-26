@@ -3479,6 +3479,7 @@
 - [Aditya-a404a](https://github.com/Aditya-a404a)
 - [leonhard-Carver](https://github.com/Leonhard-Carver)
 - [Harshbardhan Singh](https://github.com/harsh1x4)
+- [Swiftaff](https://github.com/Swiftaff)
 - [Natvern]
 - [Ex 8](https://github.com/ExHilEr8)
 - [Mutanton](https://github.com/Mutanton)
