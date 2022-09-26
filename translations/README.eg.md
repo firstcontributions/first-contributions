@@ -17,9 +17,6 @@
 </div>
 
 
-#### *Read this in [other languages](../Translations.md)* 
-
-
 <div dir="rtl">
 لو ماكنش عندك git على جهازك <a href="https://help.github.com/articles/set-up-git/">حمله من هنا.</a>
 </div>
@@ -61,7 +58,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 </div>
 <br>
 
-## <div dir="rtl">  فصل فرع - Create a branch </div>
+## <div dir="rtl">  إنشاء فرع - Create a branch </div>
 
 
 <div dir="rtl"> بما اننا عايزين نعمل تغيير فى الفايل اللى عملناله نسخة على الجهاز.. الأول ننتقل للفولدر اللي لسة نسخينه: </div>
