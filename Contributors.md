@@ -476,8 +476,8 @@
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Roie Scharf](https://github.com/scharf-roie)
-- [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
+- [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - Ojas Dubey
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
@@ -3628,6 +3628,7 @@
 - [Junya Jacqueline Qiao](https://github.com/JunyaQ)
 - [Ifeanyichukwu Favour](https://github.com/Cisco-A)
 - [Hyunsoo Kim](https://github.com/dblepart99)
+- [Quan Le](https://github.com/BinniesLite)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
 - [Mayank Singh](https://github.com/Mayank-sudo)
 - [Peter Csurgay](https://github.com/csurgay)
