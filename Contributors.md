@@ -5,6 +5,7 @@
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
+- [Joey Phoier](https://github.com/JoeyPhoier)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
   [Pharis Njuguna Kariuki](https://github.com/makwaka)
