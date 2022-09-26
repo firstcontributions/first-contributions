@@ -290,6 +290,7 @@
 - [Erick Salazar]
 - [Justin Liang]
 - [Aaron S]
+- [gjerman](https://github.com/gjerman)
 - [yangxizhe]
 - [anshul agrawal]
 - FirstName LastName
