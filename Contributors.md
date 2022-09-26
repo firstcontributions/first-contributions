@@ -2272,6 +2272,7 @@
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
 - [Aleksa Radojicic](https://github.com/radojicic23)
+- [Murad Salameh](https://github.com/murad013)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
 - [BrunchWithYou](https://github.com/BrunchWithYou)
