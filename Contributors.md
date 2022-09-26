@@ -3759,4 +3759,5 @@
 - [Krish Jaiswal](https://github.com/KrishJ999)
 - [Ashwin Padmakumar](https://github.com/ashwinpadmakumar)
 - [Arjun](https://github.com/Arjundotadex)
+- [Vismay Chadha](https://github.com/vishu-25)
 - <!-- prettier-ignore-end -->
