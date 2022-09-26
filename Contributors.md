@@ -6,6 +6,7 @@
 - [Mukul Raghav](https://github.com/Mukul-svg)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Chris Otudero](https://github.com/ChrisOtudero)
+- [Harsh shukla](https://github.com/harshshukla2807)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Joey Phoier](https://github.com/JoeyPhoier)
