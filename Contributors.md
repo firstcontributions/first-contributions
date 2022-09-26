@@ -3705,4 +3705,5 @@
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
+- [Sergey Sereda](https://github.com/SergeySereda0218)
 - <!-- prettier-ignore-end -->
