@@ -3723,5 +3723,6 @@
 - [Krishna Vivek Vitta](https://github.com/krishnacx)
 - [Hao Tieu Kim](https://github.com/haotieu2001)
 - [Gede Apriana](https://github.com/gedeapriana)
+- [Tom Cawthorn](https://github.com/TomCawthorn)
 - <!-- prettier-ignore-end -->
 
