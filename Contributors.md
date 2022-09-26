@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Slim Babay](https://github.com/xslim24x)
