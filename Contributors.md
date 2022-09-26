@@ -7,6 +7,7 @@
 - [Slim Babay](https://github.com/xslim24x)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
+- [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
