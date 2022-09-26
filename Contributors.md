@@ -2570,6 +2570,7 @@
 - [Jonatandb](https://github.com/Jonatandb)
 - [Chris Basham](https://github.com/berninup)
 - [pratish ninawe](https://github.com/Pratish10)
+- [Deepanshu Manocha](https://github.com/dmanocha464)
 - [katy millard](https://github.com/katy4599)
 - [Jeff Rutherford](https://github.com/JeffRutherford)
 - [Mayur Athavale](https://github.com/etterpaklokskapma1729)
