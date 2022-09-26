@@ -146,6 +146,7 @@
 - [Ishika Gupta](https://github.com/guptaishika128)
 - [Shivam Shrey](https://github.com/shivamshrey)
 - [Piotr Chmurzewski](https://github.com/PiotrChmurzewski)
+- [Yeghes]
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - [Youheng Lue](https://github.com/Youheng-Lue)
 - [Johnathan Moe](https://github.com/Juneict)
