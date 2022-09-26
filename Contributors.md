@@ -1483,6 +1483,7 @@
 - [Olin Johnson](https://github.com/olinjohnson)
 - [Silvio Pavanetto](https://github.com/reidemeister94)
 - [Mayank Gangwar] (https://github.com/Mayank-44)
+- [Christopher Arnold] (https://github.com/chriscarnold)
 - [Francis O'Donnell](https://github.com/fjodonnell)
 - [Yair Daboul](https://github.com/yairdab)
 - [Ali Hassan](https://github.com/alihassan-here)
