@@ -7,6 +7,7 @@
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
+  [Pharis Njuguna Kariuki](https://github.com/makwaka)
 - [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Riya Sharma](https://github.com/riyasharma18)
