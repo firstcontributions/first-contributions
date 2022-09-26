@@ -1163,6 +1163,7 @@
 - [Abdulwaarith Zakariyya](https://github.com/Abdulwaarith-07)
 - [Tyler Popson](https://github.com/TylerPopson)
 - [Ismail Ahmad](https://github.com/SneezyG)
+- [Rajvir Singh](https://github.com/SinghxRaj)
 - [Maxwell Nganyadi](https://github.com/GOATMaxwellN)
 - [ Joel Crouch](https://github.com/joelcrouch)
 - [Sathvik Malgikar](https://github.com/Sathvik-Malgikar)
