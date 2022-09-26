@@ -1,10 +1,13 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jitesh Kumar Verma](https://github.com/jitesh1495)
+- [Sahil Yeole](https://github.com/sahilyeole)
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Slim Babay](https://github.com/xslim24x)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
+- [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
@@ -51,6 +54,7 @@
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]()
 - [Nwanya Emmanuel](https://github.com/emmydev9)
+- [Harsh Kumar](https://github.com/harshk-codes)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]()
 - [Peace]()
@@ -474,8 +478,8 @@
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Roie Scharf](https://github.com/scharf-roie)
-- [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - [Khoaiz](https://github.com/Khoaizahmmed)
+- [Razibul Hasan](https://github.com/RazibulHasanAshik)
 - Ojas Dubey
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
@@ -749,6 +753,7 @@
 - [Ethan]
 - [Divyam]
 - [Raymond Jin](https://github.com/Jinray1)
+- [Raymond Nolind](https://github.com/nolind)
 - [Maaz Bashir](https://github.com/Maazoo)
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Phuoc Nguyen] (https://github.com/thiennp94)
@@ -2268,6 +2273,7 @@
 - [Sujay Dey](https://github.com/SD-13)
 - [Andre Lerario](https://github.com/andlerar)
 - [Aleksa Radojicic](https://github.com/radojicic23)
+- [Murad Salameh](https://github.com/murad013)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
 - [BrunchWithYou](https://github.com/BrunchWithYou)
@@ -3625,6 +3631,7 @@
 - [Junya Jacqueline Qiao](https://github.com/JunyaQ)
 - [Ifeanyichukwu Favour](https://github.com/Cisco-A)
 - [Hyunsoo Kim](https://github.com/dblepart99)
+- [Quan Le](https://github.com/BinniesLite)
 - [Denis Kochanovskiy](https://github.com/dkochanovskiy)
 - [Mayank Singh](https://github.com/Mayank-sudo)
 - [Peter Csurgay](https://github.com/csurgay)
