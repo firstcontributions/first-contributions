@@ -1,14 +1,20 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Xuan Liang](https://github.com/ColdWilloWind)
+- [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
+- [Faris Salman](https://github.com/farissalman12)
+- [Yash Gupta](https://github.com/YashGupta018)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
 - [Parth Panchal](https://github.com/hitchhicker007)
+- [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
+- [klopq](https://github.com/klopq)
 - [Chris Otudero](https://github.com/ChrisOtudero)
 - [Harsh shukla](https://github.com/harshshukla2807)
 - [Sahil Yeole](https://github.com/sahilyeole)
@@ -30,6 +36,7 @@
 - [Srishti](https://github.com/srishti011)
 - [Santosh James](https://github.com/Santosh-James)
 - [Henrik Larsen](https://github.com/HenrikWintherLarsen)
+- [Aratrik Basak](https://github.com/Aratrik-02)
 - [Joni Sharma](https://github.com/realjoni17)
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
 - [Thomas Iovino](https://github.com/TomIovino)
@@ -40,6 +47,7 @@
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Rehan Khan](https://github.com/Jbediah)
 - [Harsh Gupta](https://github.com/hrsh22)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Jay Kania](https://github.com/JayKania)
@@ -93,6 +101,7 @@
 - [noonereedus]
 - [Vishnu]
 - [Vedant]
+- [Ilah]
 - [jmdagenais] (https://github.com/jmdagenais)
 - [Syed Fazil](https://github.com/syedfazil900/)
 - [Shrinav Loka] (https://github.com/lokashrinav)
@@ -158,6 +167,7 @@
 - [Ankush mehra] (https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
 - [Disha Chaurasia]
+-[Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday] (https://github.com/vadlamaniuday)
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
@@ -3775,10 +3785,15 @@
 - [Krish Jaiswal](https://github.com/KrishJ999)
 - [Ashwin Padmakumar](https://github.com/ashwinpadmakumar)
 - [Arjun](https://github.com/Arjundotadex)
+- [spider man](https://github.com/Itssxxsalman)
 - [Abdulrahmon Soliu](https://github.com/abdulrahmonsoliu)
 - [Vismay Chadha](https://github.com/vishu-25)
 - [Akshita Gupta](https://github.com/akshitagupta15june)
 - [Michael Saenz](https://github.com/michaelc0n)
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
 - [ZhangQW](https://github.com/CauseISlay)
+- [Sergey Sereda](https://github.com/SergeySereda0218)
+- [Jayesh p](https://github.com/jayeshp19)
+- [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
+- [Evana Rahman](https://github.com/MustakAbsarKhan)
 - <!-- prettier-ignore-end -->
