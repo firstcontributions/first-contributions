@@ -287,6 +287,7 @@
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Fernando Cuevas](https://github.com/FercueNat)
 - [Rhythm Saha](https://github.com/rhythmsaha)
+- [Chanida P]
 - [Abhishek kumar](https://github.com/AforAbhi)
 - [John Marvin Roque](https://github.com/jmroks)
 - [Charlie Gomez](https://github.com/CGDev-TheMidnightWalker)
