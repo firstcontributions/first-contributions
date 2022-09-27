@@ -2551,6 +2551,7 @@
 - [Jordi](https://github.com/JordiEspinozaMendoza)
 - [Chan](https://github.com/Chan-Amasawa)
 - [Tejas](https://github.com/Tejas9535)
+- [David Tony-Awusaku](https://github.com/dtawusaku) 🤯
 - [Adetola Ogundipe](https://github.com/tolaogundipe)
 - [Jake Shirey](https://github.com/jakeshirey/)
 - [wasswaenockmale](https://github.com/wasswaenockmale/)
