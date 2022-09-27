@@ -3763,6 +3763,7 @@
 - [Alexa Cole](https://github.com/alexacole)
 - [Dushyant](https://github.com/techsnap)
 - [Parth](https://github.com/Parth-ops)
+- [Stefan](https://github.com/stefanfaderl)
 - [Steven](https://github.com/steven-liou)
 - [jking412](https://github.com/jking412)
 - [ezinneuzoije](https://github.com/ezinneuzoije)
