@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Matt Black](https://github.com/mblackonline)
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Faris Salman](https://github.com/farissalman12)
