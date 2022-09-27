@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Faris Salman](https://github.com/farissalman12)
@@ -167,8 +168,7 @@
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Ankush mehra] (https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
-- [Disha Chaurasia]
--[Niraj Kumar Mahto](https://github.com/nirajnkm)
+- [Disha Chaurasia] -[Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday] (https://github.com/vadlamaniuday)
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
@@ -3797,6 +3797,7 @@
 - [Sergey Sereda](https://github.com/SergeySereda0218)
 - [CMC Mike](https://github.com/CMCmike)
 - [Jayesh p](https://github.com/jayeshp19)
+- [Martin Metskula](https://github.com/Nitrammets)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
 - <!-- prettier-ignore-end -->
