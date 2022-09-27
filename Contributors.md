@@ -1,6 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
+- [Xuan Liang](https://github.com/ColdWilloWind)
+
 - [Faris Salman](https://github.com/farissalman12)
 - [Yash Gupta](https://github.com/YashGupta018)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
