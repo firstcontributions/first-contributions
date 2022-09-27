@@ -225,6 +225,7 @@
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
 - [Said Lopez](https://github.com/SaidLopez)
+- [Yuvaraj Guru](https://github.com/yuvaguru)
 - [Nafees Noor]
 - [Vetle Elvebakken](https://github.com/vetleea)
 - [Thomas Adler](https://github.com/thomas0299)
