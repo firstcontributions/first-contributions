@@ -3774,4 +3774,5 @@
 - [Abdulrahmon Soliu](https://github.com/abdulrahmonsoliu)
 - [Vismay Chadha](https://github.com/vishu-25)
 - [Akshita Gupta](https://github.com/akshitagupta15june)
+- [Michael Saenz](https://github.com/michaelc0n)
 - <!-- prettier-ignore-end -->
