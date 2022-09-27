@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ansari Danish](https://github.com/ansari-danish)
+- [Ansari Danish](https://github.com/ansari-danish)
 - [Matt Black](https://github.com/mblackonline)
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
