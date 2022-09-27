@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
+- [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
 - [Jingurah](https://github.com/Jingurah)
