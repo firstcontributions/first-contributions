@@ -106,6 +106,7 @@
 - [Caleb Lugo] (https://github.com/CNL-Dev)
 - [BootVirtual](https://github.com/BootVirtual)
 - [Denis Jackman](https://github.com/denisjackman)
+- [Abigail-cloud](https://github.com/Abigail-cloud)
 - [Chyana](https://github.com/chyana)
 - [Mohit](https://github.com/mohitsarchives)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
