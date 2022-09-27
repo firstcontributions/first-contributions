@@ -3803,4 +3803,5 @@
 - [Jayesh p](https://github.com/jayeshp19)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
+- [Harrison Salzverg](https://github.com/Harrison-Salzverg) 
 - <!-- prettier-ignore-end -->
