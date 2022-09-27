@@ -3801,6 +3801,7 @@
 - [vaibhav-1508](https://github.com/vaibhav-1508)
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Muffin Dev](https://github.com/MuffinDev9)
+- [Guillaume M](https://github.com/evilyep)
 - [Daniel_Reiser](https://github.com/reiserdaniel)
 - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
 - [Sooraj Bharadwaj](https://github.com/surajbharadwaj17)
