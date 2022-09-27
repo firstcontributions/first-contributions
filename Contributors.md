@@ -3780,4 +3780,5 @@
 - [Akshita Gupta](https://github.com/akshitagupta15june)
 - [Michael Saenz](https://github.com/michaelc0n)
 - [Nenza Nurfirmansyah](https://github.com/nenzan)
+- [Sergey Sereda](https://github.com/SergeySereda0218)
 - <!-- prettier-ignore-end -->
