@@ -259,6 +259,7 @@
 - [Vladyslav Nechytailo](https://github.com/Nutopia13)
 - Shaswata Karan
 - [Miguel Camitoc](https://github.com/mcamitoc)
+- [astrokit](https://github.com/astrokit)
 - [Pablo Pradillos](https://github.com/ppradillos)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
 - [Aayush Gulia](https://github.com/aayushgulia666)
