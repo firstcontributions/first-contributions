@@ -37,6 +37,7 @@
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Elias Howell](https://github.com/eliashowell28)
+- [Ayush Raj](https://github.com/imyoungsparda)
 - [BigRad1 Elgusbi](https://github.com/rsmg10)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [Shalaka Waghamale](https://github.com/sheldonholic)
