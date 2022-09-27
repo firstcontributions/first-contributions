@@ -77,6 +77,7 @@
 - [Arghya Das](https://github.com/Arghyahub)
 - [Diskhant](https://github.com/dikshantks)
 - [Flik](https://github.com/flik58)
+- [Shuai Wang](https://github.com/shuaiwng)
 - [Vortex148]
 - [Prafull Kumar Pandey]
 - [Hitarth Srivastava]
