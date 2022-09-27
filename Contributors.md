@@ -2934,6 +2934,7 @@
 - [Jus Buckingham](https://github.com/jusbuckingham)
 - [Sebastian](https://github.com/M4ntes)
 - [Lucidity](https://github.com/Luc1d1ty)
+- [Gilberto Macias](https://github.com/Gilmaciasr)
 - [Valentin Montagné](https://github.com/montagnev)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
