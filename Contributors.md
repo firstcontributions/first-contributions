@@ -12,6 +12,7 @@
 - [Parth Panchal](https://github.com/hitchhicker007)
 - [Jingurah](https://github.com/Jingurah)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
+- [klopq](https://github.com/klopq)
 - [Chris Otudero](https://github.com/ChrisOtudero)
 - [Harsh shukla](https://github.com/harshshukla2807)
 - [Sahil Yeole](https://github.com/sahilyeole)
