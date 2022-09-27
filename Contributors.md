@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
+- [Divyansh Saxena](https://github.com/divyansh956)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Matt Black](https://github.com/mblackonline)
