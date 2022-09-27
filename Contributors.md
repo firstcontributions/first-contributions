@@ -38,6 +38,7 @@
 - [Elias Howell](https://github.com/eliashowell28)
 - [BigRad1 Elgusbi](https://github.com/rsmg10)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
+- [Shalaka Waghamale](https://github.com/sheldonholic)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Srishti](https://github.com/srishti011)
 - [Santosh James](https://github.com/Santosh-James)
