@@ -978,6 +978,7 @@
 - [Halim Shams](https://github.com/Halim-Shams)
 - [Suleyman Ekmekci](https://github.com/el-r0nd)
 - [Jai Ganesh](https://github.com/jjaijg)
+- [Afolabi Mabunmi](https://github.com/brownboy3047)
 - [Ádám Gyula Simon](https://github.com/Sim077980)
 - [Sai Htet Myat Htut](https://github.com/SaiHtetMyatHtut)
 - [BillieLurk]
