@@ -2166,6 +2166,7 @@
 - [Aditya Aggarwal](https://github.com/WhackyBoyg0d)
 - [Preshtha Garg](https://github.com/preshthagarg)
 - [Jon Oden](https://github.com/TheJonOden)
+- [Tyler Jennings](https://github.com/TylerJenningsW)
 - [Chirag Vadhavana](https://github.com/Ckm54)
 - [Keith Jackson](https://github.com/KJackson50)
 - [Sai nikhil G](https://github.com/Evolve-03)
