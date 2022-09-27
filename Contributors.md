@@ -5,6 +5,7 @@
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
+- [Amita Singh Rajput](https://github.com/GeekAmita)
 - [Matt Black](https://github.com/mblackonline)
 - [Manilka Navod](https://github.com/manilkanav)
 - [Xuan Liang](https://github.com/ColdWilloWind)
