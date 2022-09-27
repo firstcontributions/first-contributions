@@ -3797,5 +3797,6 @@
 - [Sergey Sereda](https://github.com/SergeySereda0218)
 - [Jayesh p](https://github.com/jayeshp19)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
+- [Liqwik](https://github.com/liqwik)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
 - <!-- prettier-ignore-end -->
