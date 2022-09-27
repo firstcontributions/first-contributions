@@ -3816,6 +3816,7 @@
 - [CMC Mike](https://github.com/CMCmike)
 - [Jayesh p](https://github.com/jayeshp19)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
+- [Liqwik](https://github.com/liqwik)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
 - [Larissa Bandeira de Jesus](https://github.com/larissabandeirajs)
 - [Emrullah Özalp](https://github.com/eozalp)
