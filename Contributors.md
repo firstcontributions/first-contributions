@@ -1,10 +1,11 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Matt Black](https://github.com/mblackonline)
+- [Manilka Navod](https://github.com/manilkanav)
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Faris Salman](https://github.com/farissalman12)
@@ -15,6 +16,7 @@
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
 - [Jainit Bafna](https://github.com/Jainitbitw)
+- [Yilei Li](https://github.com/Riverflame-dev)
 - [Parth Panchal](https://github.com/hitchhicker007)
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
@@ -37,6 +39,7 @@
 - [Elias Howell](https://github.com/eliashowell28)
 - [BigRad1 Elgusbi](https://github.com/rsmg10)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
+- [Shalaka Waghamale](https://github.com/sheldonholic)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Srishti](https://github.com/srishti011)
 - [Santosh James](https://github.com/Santosh-James)
@@ -92,6 +95,7 @@
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Balogun Oluwatobi](https://github.com/Cholahji/)
 - [Riya Agarwal]
+- [Firos K](https://github.com/firoz3130)
 - [Laxman B](https://github.com/laxmanbalaraman)
 - [Harsh Kumar Dubey](https://github.com/hkdhackcode)
 - [Amanda McMullin](https://github.com/amanda-mcmullin)
@@ -107,6 +111,7 @@
 - [Vishnu]
 - [Vedant]
 - [Ilah]
+- [Akshay](https://github.com/akshaypathak2002)
 - [jmdagenais] (https://github.com/jmdagenais)
 - [Syed Fazil](https://github.com/syedfazil900/)
 - [Shrinav Loka] (https://github.com/lokashrinav)
@@ -253,6 +258,7 @@
 - [Vladyslav Nechytailo](https://github.com/Nutopia13)
 - Shaswata Karan
 - [Miguel Camitoc](https://github.com/mcamitoc)
+- [astrokit](https://github.com/astrokit)
 - [Pablo Pradillos](https://github.com/ppradillos)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
 - [Aayush Gulia](https://github.com/aayushgulia666)
@@ -402,6 +408,7 @@
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Kritik](https://github.com/kritikjain9)
 - [Thsa1nt](https://github.com/Thsa1nt)
+- [phenriquep00](https://github.com/phenriquep00)
 - [LeandroLFE](https://github.com/LeandroLFE)
 - [Ahmed Magdy](https://github.com/bugz8)
 - [Ahmed Saeed](https://github.com/ahmedrsaeed)
@@ -3789,6 +3796,7 @@
 - [Hao Tieu Kim](https://github.com/haotieu2001)
 - [Gede Apriana](https://github.com/gedeapriana)
 - [Tom Cawthorn](https://github.com/TomCawthorn)
+- [Eduardo Aguilar](https://github.com/SergioAps)
 - [Kanika Raheja](https://github.com/KanikaRaheja)
 - [pavinbalu](https://github.com/pavinbalu)
 - [Krish Jaiswal](https://github.com/KrishJ999)
@@ -3806,4 +3814,6 @@
 - [Jayesh p](https://github.com/jayeshp19)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
+- [Larissa Bandeira de Jesus](https://github.com/larissabandeirajs)
+- [New Panuwat](https://github.com/newzpanuwat)
 - <!-- prettier-ignore-end -->
