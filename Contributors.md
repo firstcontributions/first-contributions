@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Yash Gupta](https://github.com/YashGupta018)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
