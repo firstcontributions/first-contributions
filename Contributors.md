@@ -3834,5 +3834,6 @@
 - [Larissa Bandeira de Jesus](https://github.com/larissabandeirajs)
 - [Emrullah Özalp](https://github.com/eozalp)
 - [New Panuwat](https://github.com/newzpanuwat)
+- [Paulo Diniz](https://github.com/pldnz)
 
 <!-- prettier-ignore-end -->
