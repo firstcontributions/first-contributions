@@ -3809,4 +3809,5 @@
 - [Jayesh p](https://github.com/jayeshp19)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
+- [Larissa Bandeira de Jesus](https://github.com/larissabandeirajs)
 - <!-- prettier-ignore-end -->
