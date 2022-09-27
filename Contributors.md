@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Faris Salman](https://github.com/farissalman12)
 - [Yash Gupta](https://github.com/YashGupta018)
@@ -164,8 +165,7 @@
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Ankush mehra] (https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
-- [Disha Chaurasia]
--[Niraj Kumar Mahto](https://github.com/nirajnkm)
+- [Disha Chaurasia] -[Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday] (https://github.com/vadlamaniuday)
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
@@ -231,6 +231,7 @@
 - [Chirag Khatri](https://github.com/chiragkhatri19)
 - [Gbolahan Oyeniyi](https://github.com/GeebeeFrost)
 - [Wai Phyo 7️⃣](https://github.com/WPSeven)
+- [Muhammad Noorani](https://github.com/MuhammadNoorani)
 - [DON XAVIER](https://github.com/DonXavierdev)
 - [Mark Roberts](https://github.com/mrkrbrts)
 - [Shounak Das](https://github.com/dasShounak)
