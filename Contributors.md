@@ -3773,4 +3773,5 @@
 - [Arjun](https://github.com/Arjundotadex)
 - [Abdulrahmon Soliu](https://github.com/abdulrahmonsoliu)
 - [Vismay Chadha](https://github.com/vishu-25)
+- [Akshita Gupta](https://github.com/akshitagupta15june)
 - <!-- prettier-ignore-end -->
