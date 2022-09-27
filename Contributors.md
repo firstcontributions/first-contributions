@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Matt Black](https://github.com/mblackonline)
@@ -170,8 +171,7 @@
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
 - [Ankush mehra] (https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
-- [Disha Chaurasia]
--[Niraj Kumar Mahto](https://github.com/nirajnkm)
+- [Disha Chaurasia] -[Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday] (https://github.com/vadlamaniuday)
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
@@ -3396,6 +3396,7 @@
 - [Ameen](https://github.com/Ameen2000)
 - [Maple Z.](https://github.com/maplezoo)
 - [dublinsubway](https://github.com/[dublinsubway])
+- [Tharindu7Kanchana](https://github.com/[Tharindu7Kanchana])
 - [gvindio](https://github.com/GVindio)
 - [Marlie Martinez](https://github.com/marliemarls)
 - [Jash Shah](https://github.com/gemini30)
