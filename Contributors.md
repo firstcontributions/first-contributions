@@ -7,6 +7,7 @@
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
 - [Parth Panchal](https://github.com/hitchhicker007)
+- [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Chris Otudero](https://github.com/ChrisOtudero)
