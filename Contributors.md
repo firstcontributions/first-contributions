@@ -6,6 +6,7 @@
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
+  [Jainit Bafna](https://github.com/Jainitbitw)
 - [Jingurah](https://github.com/Jingurah)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Chris Otudero](https://github.com/ChrisOtudero)
