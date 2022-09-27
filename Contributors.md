@@ -42,6 +42,7 @@
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Rehan Khan](https://github.com/Jbediah)
 - [Harsh Gupta](https://github.com/hrsh22)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Jay Kania](https://github.com/JayKania)
