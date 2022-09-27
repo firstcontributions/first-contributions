@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Faris Salman](https://github.com/farissalman12)
 - [Yash Gupta](https://github.com/YashGupta018)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
