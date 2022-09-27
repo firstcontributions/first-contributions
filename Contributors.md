@@ -3784,6 +3784,7 @@
 - [Hao Tieu Kim](https://github.com/haotieu2001)
 - [Gede Apriana](https://github.com/gedeapriana)
 - [Tom Cawthorn](https://github.com/TomCawthorn)
+- [Eduardo Aguilar](https://github.com/SergioAps)
 - [Kanika Raheja](https://github.com/KanikaRaheja)
 - [pavinbalu](https://github.com/pavinbalu)
 - [Krish Jaiswal](https://github.com/KrishJ999)
