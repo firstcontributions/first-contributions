@@ -83,6 +83,7 @@
 - [Shuai Wang](https://github.com/shuaiwng)
 - [Vortex148]
 - [Prafull Kumar Pandey]
+- [Sarfraz Mohsin](https://github.com/sarfraz-mohsin)
 - [Hitarth Srivastava]
 - [G.G]
 - [Guilherme Correa](https://github.com/letguilhermec)
