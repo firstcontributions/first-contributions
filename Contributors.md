@@ -3850,5 +3850,6 @@
 - [Kevin Palowa](https://github.com/KevinPalowa/)
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
+- [Shayed Hasan](https://github.com/rgzxdc)
 
 <!-- prettier-ignore-end -->
