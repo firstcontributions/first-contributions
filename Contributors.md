@@ -3838,5 +3838,6 @@
 - [Emrullah Özalp](https://github.com/eozalp)
 - [New Panuwat](https://github.com/newzpanuwat)
 - [Paulo Diniz](https://github.com/pldnz)
+- [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
 
 <!-- prettier-ignore-end -->
