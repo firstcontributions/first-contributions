@@ -11,6 +11,7 @@
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Faris Salman](https://github.com/farissalman12)
+- [Juniela Bautista](https://github.com/ellaiela)
 - [Yash Gupta](https://github.com/YashGupta018)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
