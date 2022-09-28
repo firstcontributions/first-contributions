@@ -1221,6 +1221,7 @@ BM
 - [Aryan Bramhane](https://github.com/neutr0n420)
 - [Gaurav](https://github.com/Gaurav-1306)
 - [Hafid-hub](https://github.com/hafid-hub)
+- Risheet Nair
 - [Albert Debbarma](https://github.com/Albert-Debbarma)
 - [BenyLava](https://github.com/BenyLava)
 - [ZubairAtif](https://github.com/zubairatif)
