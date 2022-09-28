@@ -3868,5 +3868,6 @@ Aatmik Sanghvi
 - [Karthik Purushothaman](https://github.com/pkarthik15)
 - [LQYHYQ](https://github.com/LQYHYQ)
 - [Giuliano Gostinfini](https://github.com/Giuliano1993)
+- [Christos Anagnostopoulos](https://github.com/chrisanag)
 
 <!-- prettier-ignore-end -->
