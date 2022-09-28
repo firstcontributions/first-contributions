@@ -5,6 +5,7 @@
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
+- [Sebastian Cruz](https://github.com/sebacruz1)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Adarsh Gupta](https://github.com/adarsh-gupta101)
 - [Rahul lalwani](https://github.com/rahul09999)
