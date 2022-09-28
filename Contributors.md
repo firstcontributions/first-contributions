@@ -205,6 +205,7 @@
 - [LennardV](https://github.com/lennardv16g)
 - [Amon Munyai](https://github.com/AmonMunyai)
 - [Anirudh](https://github.com/anirudhlohiya)
+- [Manigandan](https://github.com/iamurmani)
 - [JM61.dev](https://github.com/jm61)
 - [Jeroen van Halderen]
 - [Nestor Blanco]
