@@ -3864,6 +3864,7 @@
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
 - [Karthik Purushothaman](https://github.com/pkarthik15)
+- [LQYHYQ](https://github.com/LQYHYQ)
 - [Giuliano Gostinfini](https://github.com/Giuliano1993)
 
 <!-- prettier-ignore-end -->
