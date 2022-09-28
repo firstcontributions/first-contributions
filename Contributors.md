@@ -3873,5 +3873,6 @@ Aatmik Sanghvi
 - [LQYHYQ](https://github.com/LQYHYQ)
 - [Giuliano Gostinfini](https://github.com/Giuliano1993)
 - [Christos Anagnostopoulos](https://github.com/chrisanag)
+- [Zayn Chen](https://github.com/zaynchen)
 
 <!-- prettier-ignore-end -->
