@@ -29,6 +29,7 @@
 - [Manilka Navod](https://github.com/manilkanav)
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
+- [Chaw Kok Fei](https://github.com/ChawKokFei)
 - [Chirag Goel](https://github.com/Chirag-18)
 - [Faris Salman](https://github.com/farissalman12)
 - [Juniela Bautista](https://github.com/ellaiela)
