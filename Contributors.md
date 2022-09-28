@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
+- [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Ansari Danish](https://github.com/ansari-danish)
@@ -2271,6 +2272,7 @@
 - [suin](https://github.com/suin-d)
 - [majwic](https://github.com/majwic)
 - [MC]
+- [KurtJQ](https://github.com/KurtJQ)
 - [Drew Springfield](https://github.com/Sohlar)
 - [Prantix](https://github.com/the1stenhancer)
 - [akis liolios](https://github.com/akis10)
@@ -3852,5 +3854,6 @@
 - [Kevin Palowa](https://github.com/KevinPalowa/)
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
+- [Karthik Purushothaman](https://github.com/pkarthik15)
 
 <!-- prettier-ignore-end -->
