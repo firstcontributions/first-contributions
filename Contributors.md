@@ -220,6 +220,7 @@
 - [JM61.dev](https://github.com/jm61)
 - [Jeroen van Halderen]
 - [Nestor Blanco]
+- [Dhvanil Sheth] (https://github.com/DhvanilSheth)
 - [twoadave](https://github.com/twoadave)
 - [Zachary Hallemeyer](https://github.com/Zachary-Hallemeyer)
 - [Immu Bhai](https://github.com/JuliusEternal)
