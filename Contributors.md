@@ -3905,5 +3905,6 @@
 - [Christos Anagnostopoulos](https://github.com/chrisanag)
 - [Pierre Henry](https://github.com/ICExFS)
 - [Zayn Chen](https://github.com/zaynchen)
+- [Hasibul Hasan](https://github.com/iamhasibulhasan)
 
 <!-- prettier-ignore-end -->
