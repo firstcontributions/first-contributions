@@ -433,6 +433,7 @@
 - [Omar Sarfraz](https://github.com/omar-sarfraz)
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
+- [Najeeb Arif](https://githib.com/NajeebArif)
 - [Patrick Ayers](https://github.com/patrickA25)
 - [Pavitra Lalwani](https://github.com/pavitra-lalwani)
 - [Ling_Lang](https://github.com/Ling-Lang)
