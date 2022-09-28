@@ -554,6 +554,7 @@
 - [Alex Servin](https://github.com/aservin6)
 - [Abolfazl Dalvi](https://github.com/Abolfazl-11)
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
+- [Ajay](https://github.com/Ajay-droid-cmd)
 - [Methasit Tantiplubtong](https://github.com/aikonnn)
 - [Osatuyi Favour](https://github.com/O-Ifeoluwa)
 - [khairallah17](https://github.com/khairallah17)
