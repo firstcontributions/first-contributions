@@ -9,6 +9,7 @@
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
+-[Vikram Kumar](https://github.com/vikramkbgs)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Divyansh Saxena](https://github.com/divyansh956)
