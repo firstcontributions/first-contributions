@@ -4,6 +4,7 @@
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
+- [Ekta Gujar](https://github.com/ekta1000)
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
