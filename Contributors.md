@@ -24,6 +24,7 @@
 - [Jingurah](https://github.com/Jingurah)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Zeblue](https://github.com/zbluee)
+- [Bindhu](https://github.com/BindhuChamp/first-contributions)
 - [klopq](https://github.com/klopq)
 - [Chris Otudero](https://github.com/ChrisOtudero)
 - [Harsh shukla](https://github.com/harshshukla2807)
