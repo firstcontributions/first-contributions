@@ -3913,6 +3913,8 @@
 - [Christos Anagnostopoulos](https://github.com/chrisanag)
 - [Pierre Henry](https://github.com/ICExFS)
 - [Zayn Chen](https://github.com/zaynchen)
+- [Isaiah Nkemboh](https://github.com/Isaiah-0914)
+
 - [Hasibul Hasan](https://github.com/iamhasibulhasan)
 - [Ali Efe Çakıcı](https://github.com/aliefe04)
 
