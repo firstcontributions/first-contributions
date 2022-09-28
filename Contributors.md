@@ -544,6 +544,7 @@
 - [Mat](https://github.com/raipidddd0ex)
 - [Ryan](https://github.com/EntropyUF)
 - [Jorge](https://github.com/JorgeHermo)
+- [John Chayachinda](https://github.com/johnchinda)
 - [Diya Goyal](https://github.com/diyagoyal98)
 - caelan herzberg
 - noonereedus
