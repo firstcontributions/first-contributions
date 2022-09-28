@@ -7,6 +7,7 @@
 - [Ekta Gujar](https://github.com/ekta1000)
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Sindura Dasi](https://github.com/sinduraDasi)
+- [Harshit Maurya](https://github.com/H-Maurya)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
