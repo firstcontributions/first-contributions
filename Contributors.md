@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
+- [Aditya Tripathi](https://github.com/aditya5573)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Adarsh Gupta](https://github.com/adarsh-gupta101)
 - [Rahul lalwani](https://github.com/rahul09999)
