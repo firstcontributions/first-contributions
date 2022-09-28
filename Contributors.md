@@ -5,6 +5,7 @@
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Divyansh Saxena](https://github.com/divyansh956)
+- [Sindura Dasi](https://github.com/sinduraDasi)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
