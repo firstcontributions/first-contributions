@@ -934,6 +934,7 @@
 - [Zaid Marrie](https://github.com/ZaidMarrie)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
 - [Jamie McCullough](https://github.com/JamieShakes)
+- [Ian Kent](https://github.com/ianrkent)
 - [Mashinsp](https://github.com/mashinsp)
 - [Gianpaolo Branca](https://github.com/GianpaoloBranca)
 - [Anup Timsina](https://github.com/anup514)
