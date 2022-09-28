@@ -64,6 +64,7 @@
 - [William Harrison](https://github.com/WilliamDavidHarrison)
 - [Shalaka Waghamale](https://github.com/sheldonholic)
 - [AdarsH](https://github.com/AKACHI-4)
+- [Ankit Kumar](https://github.com/ReallyAnkit)
 - [Srishti](https://github.com/srishti011)
 - [Santosh James](https://github.com/Santosh-James)
 - [Henrik Larsen](https://github.com/HenrikWintherLarsen)
