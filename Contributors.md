@@ -199,8 +199,9 @@
 - [Chibuikem Iroaganachi](https://github.com/CyborgEvo)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Shariq Ahmed Khan](https://github.com/codewithshariq)
-- [Shanka Amal](https://github.com/119shane)
+- [Shanka Amal](https://github.com/119shane)[Ayush Jaiswal]
 - [Simon-Raviz](https://github.com/Simon-Rabich)
+  [Ayush Jaiswal](https://github.com/Fabayu)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Arthur Cordovil](https://github.com/devriq)
 - [Omkar Pawar](https://github.com/omkarpawar2001)
