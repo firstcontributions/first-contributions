@@ -3859,6 +3859,7 @@
 - [New Panuwat](https://github.com/newzpanuwat)
 - [Paulo Diniz](https://github.com/pldnz)
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
+- [Cra Rospo](https://github.com/CraRospo)
 - [Kevin Palowa](https://github.com/KevinPalowa/)
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
