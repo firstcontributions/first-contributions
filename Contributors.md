@@ -3909,5 +3909,6 @@
 - [Pierre Henry](https://github.com/ICExFS)
 - [Zayn Chen](https://github.com/zaynchen)
 - [Hasibul Hasan](https://github.com/iamhasibulhasan)
+- [Ali Efe Çakıcı](https://github.com/aliefe04)
 
 <!-- prettier-ignore-end -->
