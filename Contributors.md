@@ -14,6 +14,7 @@
 - [Ekta Gujar](https://github.com/ekta1000)
 -[Vikram Kumar](https://github.com/vikramkbgs)
 - [Sindura Dasi](https://github.com/sinduraDasi)
+- [Kapil Bastola](https://github.com/tHyenigmatiC)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Harshit Maurya](https://github.com/H-Maurya)
