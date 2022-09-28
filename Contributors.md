@@ -174,6 +174,7 @@
 - [Austin Nze](https://github.com/Ausranking)
 - [Jinwei Hu](https://github.com/geekqq)
 - [@stonehoo](https://github.com/etcz)
+- [@stonehoo](https://github.com/etcz)
 - [LennardV](https://github.com/lennardv16g)
 - [Amon Munyai](https://github.com/AmonMunyai)
 - [Anirudh](https://github.com/anirudhlohiya)
