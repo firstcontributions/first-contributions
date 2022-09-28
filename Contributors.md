@@ -319,6 +319,7 @@
 - [TUTICOI]
 - [Vladyslav Nechytailo](https://github.com/Nutopia13)
 - Shaswata Karan
+- Muhammad Saad
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [astrokit](https://github.com/astrokit)
 - [Pablo Pradillos](https://github.com/ppradillos)
