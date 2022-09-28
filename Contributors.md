@@ -6,6 +6,7 @@
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
 - [Divyansh Saxena](https://github.com/divyansh956)
+- [Sindura Dasi](https://github.com/sinduraDasi)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
@@ -3861,5 +3862,6 @@
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
 - [Karthik Purushothaman](https://github.com/pkarthik15)
+- [Giuliano Gostinfini](https://github.com/Giuliano1993)
 
 <!-- prettier-ignore-end -->
