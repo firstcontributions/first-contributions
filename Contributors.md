@@ -786,6 +786,7 @@ BM
 - [Varun S V](https://github.com/Varun-SV/)
 - [Emmanuel Okoh](https://github.com/otizgit)
 - [Varun Ratnani](https://github.com/varun1002)
+- [Riliwan Hassan](https://github.com/worldsalt3)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
