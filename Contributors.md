@@ -2266,6 +2266,7 @@
 - [suin](https://github.com/suin-d)
 - [majwic](https://github.com/majwic)
 - [MC]
+- [KurtJQ](https://github.com/KurtJQ)
 - [Drew Springfield](https://github.com/Sohlar)
 - [Prantix](https://github.com/the1stenhancer)
 - [akis liolios](https://github.com/akis10)
