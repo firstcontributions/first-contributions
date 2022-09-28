@@ -3154,6 +3154,7 @@
 - [Jordan Moldovan](https://github.com/jmoldyvan)
 - [Rida](https://github.com/ridacode)
 - [German Panov](https://github.com/mdlufy)
+- [jrgal74](https://github.com/jrgal74)
 - [Franklin Griffin](https://github.com/Username-107)
 - [Rolbin](https://github.com/thenoveltyseeker)
 - [Aitor Mateu](https://github.com/Nokocchi93)
