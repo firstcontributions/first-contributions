@@ -166,6 +166,7 @@
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Chibuikem Iroaganachi](https://github.com/CyborgEvo)
 - [Faisal Amin](https://github.com/faisalamin001)
+- [Shariq Ahmed Khan](https://github.com/codewithshariq)
 - [Shanka Amal](https://github.com/119shane)
 - [Simon-Raviz](https://github.com/Simon-Rabich)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
