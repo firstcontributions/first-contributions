@@ -40,6 +40,7 @@
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
+- [Sam Meyer] (https://github.com/Smeyer025)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Elias Howell](https://github.com/eliashowell28)
 - [Ayush Raj](https://github.com/imyoungsparda)
