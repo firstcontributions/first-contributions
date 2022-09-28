@@ -47,6 +47,7 @@
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Riya Sharma](https://github.com/riyasharma18)
 - [Sebastian Richter](https://github.com/gismo1337)
+Aatmik Sanghvi
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
 - [Sam Meyer](https://github.com/Smeyer025)
