@@ -29,6 +29,7 @@
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
+- [Ashok Patrudkar](https://github.com/ashokpatrudkar)
 - [Jainit Bafna](https://github.com/Jainitbitw)
 - [Yilei Li](https://github.com/Riverflame-dev)
 - [Parth Panchal](https://github.com/hitchhicker007)
