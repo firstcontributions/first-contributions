@@ -3902,5 +3902,7 @@
 - [Christos Anagnostopoulos](https://github.com/chrisanag)
 - [Pierre Henry](https://github.com/ICExFS)
 - [Zayn Chen](https://github.com/zaynchen)
+- [Harrish](https://github.com/mharrish7)
+
 
 <!-- prettier-ignore-end -->
