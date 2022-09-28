@@ -666,6 +666,7 @@
 - [Max Bromet](https://github.com/mbromet)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
+- [jonatech256](https://github.com/jonatech256)
   HarryN
 - [Emanuele Bianchetti](https://github.com/ema-bianchetti)
 - [Mone Bell-Arrington]
