@@ -21,6 +21,7 @@
 - [Jainit Bafna](https://github.com/Jainitbitw)
 - [Yilei Li](https://github.com/Riverflame-dev)
 - [Parth Panchal](https://github.com/hitchhicker007)
+- [Hajebrahimi Alireza](https://github.com/iarata)
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
