@@ -3847,5 +3847,6 @@
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
 - [Kevin Palowa](https://github.com/KevinPalowa/)
 - [X3nonxe](https://github.com/X3nonxe/)
+- [nikhilxe](https://github.com/nikhilxe)
 
 <!-- prettier-ignore-end -->
