@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
