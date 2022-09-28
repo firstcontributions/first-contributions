@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
+- [Adarsh Gupta](https://github.com/adarsh-gupta101)
 - [Rahul lalwani](https://github.com/rahul09999)
 - [Reemyos](https://github.com/Reemyos)
 - [Saksham](https://github.com/saxam0)
