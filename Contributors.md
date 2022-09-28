@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
+- [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
@@ -19,7 +20,7 @@
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
--[Vikram Kumar](https://github.com/vikramkbgs)
+- [Vikram Kumar](https://github.com/vikramkbgs)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
