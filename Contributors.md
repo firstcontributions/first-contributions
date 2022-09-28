@@ -158,6 +158,7 @@ Aatmik Sanghvi
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang](https://github.com/Wooonster)
 - [Soham Pagi](https://github.com/soham-pagi)
+- [Francis Artemio Landia](https://github.com/Franz-Art-L)
 - [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
 - [Rekt-Cat](https://github.com/Rekt-Cat)
 - [Akhil Satish](https://github.com/akhilsatish2008)
