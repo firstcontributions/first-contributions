@@ -41,6 +41,7 @@
 - [Ibtisam-Afzal](https://github.com/ibtisamafzal)
 - [Yash Gupta](https://github.com/YashGupta018)
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
+- [Awe Peter](https://github.com/peter-sq)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Adam Kraft](https://github.com/adamkraftk)
 - [Hydr0] (https://github.com/spacefaringh20consumer)
