@@ -3842,5 +3842,6 @@
 - [New Panuwat](https://github.com/newzpanuwat)
 - [Paulo Diniz](https://github.com/pldnz)
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
+- [Kevin Palowa](https://github.com/KevinPalowa/)
 
 <!-- prettier-ignore-end -->
