@@ -23,6 +23,7 @@
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
 - [Matt Black](https://github.com/mblackonline)
+- [Aryan Gupta](https://github.com/aryangupta3393)
 - [Manilka Navod](https://github.com/manilkanav)
 - [Xuan Liang](https://github.com/ColdWilloWind)
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
