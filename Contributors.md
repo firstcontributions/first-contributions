@@ -48,6 +48,7 @@
 - [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Riya Sharma](https://github.com/riyasharma18)
+- [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sebastian Richter](https://github.com/gismo1337)
 Aatmik Sanghvi
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
@@ -366,7 +367,7 @@ Aatmik Sanghvi
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
-- [Poya Fraji](https://github.com/IWBTFY) 
+- [Poya Fraji](https://github.com/IWBTFY)
 - [Tanmaya Biswal](https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
@@ -617,7 +618,7 @@ Aatmik Sanghvi
 - [Magnus Jensen]
 - [Eric Clayton]
 - [Scott Dang]
-- [Goodness Hero] 
+- [Goodness Hero]
 - [Empress Beastie]
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
