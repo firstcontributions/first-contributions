@@ -1,6 +1,7 @@
-# Contributors
+# Contributors 👨🏻‍💻 ➕ 👩🏻‍💻
 
 <!-- prettier-ignore-start -->
+- [Saurabh Pagrut 👨🏻‍💻](https://github.com/SaurabhPagrut)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Adarsh Gupta](https://github.com/adarsh-gupta101)
@@ -13,7 +14,7 @@
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
--[Vikram Kumar](https://github.com/vikramkbgs)
+- [Vikram Kumar](https://github.com/vikramkbgs)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
@@ -34,7 +35,7 @@
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Adam Kraft](https://github.com/adamkraftk)
-- [Hydr0] (https://github.com/spacefaringh20consumer)
+- [Hydr0](https://github.com/spacefaringh20consumer)
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
@@ -57,7 +58,7 @@
 - [Joey Phoier](https://github.com/JoeyPhoier)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
-  [Pharis Njuguna Kariuki](https://github.com/makwaka)
+- [Pharis Njuguna Kariuki](https://github.com/makwaka)
 - [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Riya Sharma](https://github.com/riyasharma18)
@@ -124,7 +125,7 @@
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]
 - [Deepa]
--[Benjamin Dutta](https://github.com/Benjamindutta)
+- [Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
