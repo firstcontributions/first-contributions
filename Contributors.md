@@ -358,7 +358,7 @@
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
-- [Poya Fraji](https://github.com/IWBTFY) 
+- [Poya Fraji](https://github.com/IWBTFY)
 - [Tanmaya Biswal](https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
@@ -609,7 +609,7 @@
 - [Magnus Jensen]
 - [Eric Clayton]
 - [Scott Dang]
-- [Goodness Hero] 
+- [Goodness Hero]
 - [Empress Beastie]
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
@@ -657,6 +657,7 @@
 - [Max Bromet](https://github.com/mbromet)
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
+- [jonatech256](https://github.com/jonatech256)
   HarryN
 - [Emanuele Bianchetti](https://github.com/ema-bianchetti)
 - [Mone Bell-Arrington]
