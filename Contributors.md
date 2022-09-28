@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
+- [Keerthivasan D](https://github.com/kd100100)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
