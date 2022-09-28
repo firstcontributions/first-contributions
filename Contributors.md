@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
+- [Aditya Tripathi](https://github.com/aditya5573)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Adarsh Gupta](https://github.com/adarsh-gupta101)
@@ -51,6 +53,7 @@
 - [Hajebrahimi Alireza](https://github.com/iarata)
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
+- [Petsku Helenius] (https://github.com/geptit)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Pranay Jalan](https://github.com/pranayjalan254)
 - [Zeblue](https://github.com/zbluee)
