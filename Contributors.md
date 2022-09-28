@@ -3845,5 +3845,6 @@
 - [Paulo Diniz](https://github.com/pldnz)
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
 - [Kevin Palowa](https://github.com/KevinPalowa/)
+- [X3nonxe](https://github.com/X3nonxe/)
 
 <!-- prettier-ignore-end -->
