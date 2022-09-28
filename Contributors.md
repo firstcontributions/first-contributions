@@ -299,6 +299,7 @@
 - [ShawnSargent](https://github.cpm/ShawnSargent)
 - [mfbevan](https://github.com/mfbevan)
 - [Vikash](https://github.com/VikashTudu)
+- [Vishal](https://github.com/vishalshinde02)
 - [Rizel](https://github.com/blackgirlbytes)
 - [Lukas Walczak](https://github.com/walclu)
 - [TUTICOI]
