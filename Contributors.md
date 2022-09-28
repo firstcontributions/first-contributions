@@ -17,6 +17,7 @@
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
+- [Shivam Vishwakarma](https://github.com/shivamvishwakarm)
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Harshit Maurya](https://github.com/H-Maurya)
 - [Ansari Danish](https://github.com/ansari-danish)
