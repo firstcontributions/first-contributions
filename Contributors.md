@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Adarsh Gupta](https://github.com/adarsh-gupta101)
 - [Rahul lalwani](https://github.com/rahul09999)
