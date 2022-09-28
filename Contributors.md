@@ -258,6 +258,7 @@
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
 - [Said Lopez](https://github.com/SaidLopez)
+- [Yuvaraj Guru](https://github.com/yuvaguru)
 - [Coalby](https://github.com/coalby)
 - [Nafees Noor]
 - [Vetle Elvebakken](https://github.com/vetleea)
