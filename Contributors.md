@@ -10,6 +10,7 @@
 - [Keerthivasan D](https://github.com/kd100100)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
+- [Adyasha Samal](https://github.com/Adyasha28)
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
