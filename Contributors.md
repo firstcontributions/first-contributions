@@ -5,6 +5,7 @@
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Divyansh Saxena](https://github.com/divyansh956)
+- [Sindura Dasi](https://github.com/sinduraDasi)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
@@ -3861,5 +3862,6 @@
 - [nikhilxe](https://github.com/nikhilxe)
 - [Karthik Purushothaman](https://github.com/pkarthik15)
 - [LQYHYQ](https://github.com/LQYHYQ)
+- [Giuliano Gostinfini](https://github.com/Giuliano1993)
 
 <!-- prettier-ignore-end -->
