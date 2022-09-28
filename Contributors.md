@@ -70,6 +70,7 @@
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
 - [Sam Meyer](https://github.com/Smeyer025)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
+- [Brahim Ajakak](https://github.com/ajaxbo360)
 - [Shweta](https://github.com/shwet-aaa)
 - [Elias Howell](https://github.com/eliashowell28)
 - [Ayush Raj](https://github.com/imyoungsparda)
