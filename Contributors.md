@@ -152,6 +152,7 @@
 - [Nabeel Siddiqui](https://github.com/nabeelsiddiqui314)
 - [Flik](https://github.com/flik58)
 - [Shuai Wang](https://github.com/shuaiwng)
+- [Mustafa Ahmed]
 - [Vortex148]
 - [Prafull Kumar Pandey]
 - [Sarfraz Mohsin](https://github.com/sarfraz-mohsin)
