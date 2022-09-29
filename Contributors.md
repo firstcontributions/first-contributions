@@ -33,6 +33,7 @@
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
 - [Vikram Kumar](https://github.com/vikramkbgs)
+- [Calmius](https://github.com/calmius)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
