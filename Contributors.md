@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Jian Sun](https://github.com/zjiansun)
+- [Galih Indra Firmansyah](https://github.com/galihif)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
