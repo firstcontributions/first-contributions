@@ -142,6 +142,7 @@
 - [Hamza Shoukat](https://github.com/hamzashoukat091)
 - [Arghya Das](https://github.com/Arghyahub)
 - [Diskhant](https://github.com/dikshantks)
+- [Nabeel Siddiqui](https://github.com/nabeelsiddiqui314)
 - [Flik](https://github.com/flik58)
 - [Shuai Wang](https://github.com/shuaiwng)
 - [Vortex148]
