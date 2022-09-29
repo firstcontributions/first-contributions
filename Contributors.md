@@ -56,6 +56,7 @@
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Shivam Vishwakarma](https://github.com/shivamvishwakarm)
 - [Divyansh Saxena](https://github.com/divyansh956)
+- [Hazem Ben Abdelhafidh](https://github.com/Hazem-Ben-Abdelhafidh)
 - [Harshit Maurya](https://github.com/H-Maurya)
 - [Scott Johnson](https://github.com/stjohnson44)
 - [Ansari Danish](https://github.com/ansari-danish)
