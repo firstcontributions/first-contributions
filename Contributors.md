@@ -1,7 +1,12 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-[Carlo Tran] (https://github.com/medicalanthrax)
+- [Chad Perry](https://github.com/clewisperry)
+- [Nandan Bilagi](https://github.com/nandanpytech)
 - [Zhan Guang](https://github.com/zhan3333)
+- [TheAwesomeGuy47](https://github.com/theawesomeguy47)
+- [Maneesh Sutar](https://github.com/maneesh29s)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
 - [Triamb Talwar](https://github.com/Triamb-Talwar)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
@@ -10,6 +15,7 @@
 - [Loick Tian](https://github.com/loickengit)
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
+- [Yahya Sghayron](https://github.com/yahyasghayron)
 - [Abhay Sahu] (https://github.com/abhayst007)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
@@ -20,6 +26,7 @@
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [ChangIL Mo](https://github.com/mochangil)
 - [Aditya Tripathi](https://github.com/aditya5573)
+- [James Gore](http://github.com/thejamesgore)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
 - [Sebastian Cruz](https://github.com/sebacruz1)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
@@ -176,7 +183,9 @@
 - [Sergio Yunsuk Lee](https://github.com/yunsuklee)
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]
+- [Jai]
 - [Deepa]
+- [Aviv Keinan](https://github.com/avivk9)
 -[Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
@@ -200,6 +209,7 @@
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
 - [Singapore750](https://github.com/Singapore750)
 - [Katya](https://github.com/KatyaPrusakova/)
+- [Udeh Ifeanyi](https://github.com/Ifescohub)
 - [noonereedus]
 - [Mohini]
 - [noonereedus]
@@ -506,6 +516,8 @@ BM
 - [Mohammad Shaibaz Qaisar](https://github.com/MOHAMMADSHAIBAZQAISAR)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
+- [Prajwal Somalkar] (https://github.com/Prajwal0225)
+- [Sumit Thigale](https://github.com/sumitt10)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sanil](https://github.com/sanil011)
 - [Sameer Choudhary](https://github.com/choudhary-sameer)
@@ -1956,6 +1968,7 @@ BM
 - [Jakub Gania](https://github.com/jakubgania)
 - [Alexi](https://github.com/web-dev-lex)
 - [Farooq](https://github.com/frq-frk)
+- [Andrew Rea](https://github.com/AndrewSRea)
 - [Lebelek](https://github.com/lblk-coder)
 - [BartyDash](https://github.com/BartyDash)
 - [Larry Urrego](https://github.com/LaUrrego)
@@ -4001,4 +4014,5 @@ BM
 - [Salman Shah](https://github.com/salman-shah2022)
 - [Oliver Hyde](https://github.com/oliverjhyde)
 - [Keith Henry Nambale](https://github.com/kithstack1)
+- [David Lee](https://github.com/LordMoMA)
 <!-- prettier-ignore-end -->
