@@ -506,6 +506,7 @@ BM
 - [Mohammad Shaibaz Qaisar](https://github.com/MOHAMMADSHAIBAZQAISAR)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Garvit Shah](https://github.com/gobbledy-gook)
+- [Prajwal Somalkar] (https://github.com/Prajwal0225)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sanil](https://github.com/sanil011)
 - [Sameer Choudhary](https://github.com/choudhary-sameer)
