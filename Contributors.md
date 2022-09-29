@@ -177,6 +177,7 @@
 - [Sergio Yunsuk Lee](https://github.com/yunsuklee)
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]
+- [Jai]
 - [Deepa]
 -[Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
