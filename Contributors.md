@@ -12,6 +12,7 @@
 - [Abhay Sahu] (https://github.com/abhayst007)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
+- [Shivam Gupta](https://github.com/rawnge)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
