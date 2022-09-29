@@ -50,6 +50,7 @@
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
+- [Azhar Anowar](https://github.com/azharanowar)
 - [Piyush Ojha](https://github.com/ojhapiyush)
 - [Matt Black](https://github.com/mblackonline)
 - [Tommy Mapp](https://github.com/arkii1)
