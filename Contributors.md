@@ -4,6 +4,7 @@
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Jian Sun](https://github.com/zjiansun)
 - [Ishika Jain](https://github.com/Ishikajain02)
+- [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Aditya Tripathi](https://github.com/aditya5573)
