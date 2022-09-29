@@ -23,7 +23,7 @@
 - [Keerthivasan D](https://github.com/kd100100)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
-- [Aditya Saini](https://github.com/Aditya-Saini3)
+- [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
 - [Adyasha Samal](https://github.com/Adyasha28)
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
