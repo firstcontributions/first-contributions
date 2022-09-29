@@ -89,6 +89,7 @@
 - [Tarandeep Singh](https://github.com/taran11313)
 - [Riya Sharma](https://github.com/riyasharma18)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
+- [Sagar Sethi](https://github.com/sethisagar)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Aatmik Sanghvi](https://github.com/Aatmik-Coder)
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
