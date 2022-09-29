@@ -80,6 +80,7 @@
 - [Awe Peter](https://github.com/peter-sq)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Adam Kraft](https://github.com/adamkraftk)
+- [Craig Smith](https://github.com/craig-iam-smith)
 - [Hydr0](https://github.com/spacefaringh20consumer)
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
