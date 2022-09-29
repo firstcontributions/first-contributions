@@ -290,6 +290,7 @@ BM
 - [Hassan Nasser](https://github.com/hnasser44)
 - [Julian-Makholy](https://github.com/Julian-Makholy)
 - [Agnaldo Cunha](https://github.com/agnaldoluiz)
+- [Daniel Ehr] (https://github.com/ehda93)
 - [Ankush mehra](https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
 - [Disha Chaurasia]
