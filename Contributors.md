@@ -8,6 +8,7 @@
 - [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
+- [ChangIL Mo](https://github.com/mochangil)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
 - [Sebastian Cruz](https://github.com/sebacruz1)
@@ -77,6 +78,7 @@
   [Pharis Njuguna Kariuki](https://github.com/makwaka)
 - [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
+- [Yvonne Fong](https://github.com/yvnf)
 - [Riya Sharma](https://github.com/riyasharma18)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sebastian Richter](https://github.com/gismo1337)
@@ -3936,5 +3938,6 @@ BM
 - [Sean Lambert](https://github.com/s)
 - [Mingor Hsieh](https://github.com/MMMMMMMingor)
 - [wei45955](https://github.com/wei45955)
+- [Brayan Basallo Soto](https://github.com/brayanbasallo)
 
 <!-- prettier-ignore-end -->
