@@ -5,6 +5,7 @@
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Zhan Guang](https://github.com/zhan3333)
+- [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
 - [Triamb Talwar](https://github.com/Triamb-Talwar)
