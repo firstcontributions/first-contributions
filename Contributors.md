@@ -3934,5 +3934,6 @@ BM
 - [Ali Efe Çakıcı](https://github.com/aliefe04)
 - [Sean Lambert](https://github.com/s)
 - [Mingor Hsieh](https://github.com/MMMMMMMingor)
+- [Brayan Basallo Soto](https://github.com/brayanbasallo)
 
 <!-- prettier-ignore-end -->
