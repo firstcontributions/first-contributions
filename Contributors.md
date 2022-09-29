@@ -846,6 +846,7 @@ BM
 - [George Babii](https://github.com/georgevlt)
 - [Sohag] https://github.com/soh-ag
 - [Brandon Flores](https://github.com/PineNine)
+- [Leander Sannesmoen](https://github.com/leander-sannesmoen)
 - [Anna Wolfe]
 - [shin000000](https://github.com/shin000000)
 - [Swati Aggrawal](https://github.com/swatiaggrawal)
