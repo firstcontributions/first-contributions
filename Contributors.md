@@ -3989,5 +3989,6 @@ BM
 - [Leonem Zhang](https://github.com/LeonemZhang/)
 - [Marioparrilla_](https://github.com/https://github.com/MarioParrilla/)
 - [Marvin.seo](https://github.com/afashs)
+- [Oliver Hyde](https://github.com/oliverjhyde)
 
 <!-- prettier-ignore-end -->
