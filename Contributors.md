@@ -25,6 +25,7 @@
 - [Shivam Vishwakarma](https://github.com/shivamvishwakarm)
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Harshit Maurya](https://github.com/H-Maurya)
+- [Scott Johnson](https://github.com/stjohnson44)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
