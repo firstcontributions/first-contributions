@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
-- [Jian Sun](https://github.com/](https://github.com/zjiansun)
+- [Jian Sun](https://github.com/zjiansun)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
