@@ -63,6 +63,7 @@
 - [Petsku Helenius] (https://github.com/geptit)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Pranay Jalan](https://github.com/pranayjalan254)
+- [Matthew Arthur](https://github.com/arthurmatthew)
 - [Zeblue](https://github.com/zbluee)
 - [Juan Carlos Estevez Vargas](https://github.com/Juan-Carlos-Estevez-Vargas)
 - [klopq](https://github.com/klopq)
