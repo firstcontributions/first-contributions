@@ -80,6 +80,7 @@
 - [Mohasin Haque](https://github.com/Mohasin-Haque)
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Yvonne Fong](https://github.com/yvnf)
+- [Tarandeep Singh](https://github.com/taran11313)
 - [Riya Sharma](https://github.com/riyasharma18)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sebastian Richter](https://github.com/gismo1337)
