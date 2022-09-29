@@ -3955,5 +3955,6 @@ BM
 - [Touchwolf](https://github.com/touchwolf)
 - [Hahahan666](https://github.com/hahahan666)
 - [Affan Mustafa](https://github.com/affanmustafa)
+- [Hongfei Xie](https://github.com/ggfickle)
 
 <!-- prettier-ignore-end -->
