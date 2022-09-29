@@ -129,6 +129,7 @@
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Emeghiebo Chizoba](https://github.com/Chizoba-009)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
+- [Parth Wani](https://github.com/W-P-N)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
 - [Rehan Khan](https://github.com/Jbediah)
