@@ -26,6 +26,7 @@
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [ChangIL Mo](https://github.com/mochangil)
 - [Aditya Tripathi](https://github.com/aditya5573)
+  [Katy Hagen](https://github.com/katyhagen)
 - [James Gore](http://github.com/thejamesgore)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
 - [Sebastian Cruz](https://github.com/sebacruz1)
