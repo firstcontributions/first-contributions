@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Zhan Guang](https://github.com/zhan3333)
+- [Shiva Abhishek](https://github.com/shivaabhishek07)
 - [Triamb Talwar](https://github.com/Triamb-Talwar)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
@@ -12,6 +13,7 @@
 - [Abhay Sahu] (https://github.com/abhayst007)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
+- [Shivam Gupta](https://github.com/rawnge)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
@@ -165,6 +167,7 @@
 - [Vortex148]
 - [Prafull Kumar Pandey]
 - [Sarfraz Mohsin](https://github.com/sarfraz-mohsin)
+- [Aparna George](https://github.com/aparnageorge)
 - [Hitarth Srivastava]
 - [G.G]
 - [Guilherme Correa](https://github.com/letguilhermec)
@@ -778,6 +781,7 @@ BM
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Moshe tesler](https://github.com/tesler77)
 - [Elena Cherpakova](https://github.com/ElenaCherpakova)
+- [Hayden Boshoff](https://github.com/HaydenBoshoff)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Doug Colin](https://github.com/Doug-Colin)
@@ -3987,5 +3991,7 @@ BM
 - [Hongfei Xie](https://github.com/ggfickle)
 - [Leonem Zhang](https://github.com/LeonemZhang/)
 - [Marioparrilla_](https://github.com/https://github.com/MarioParrilla/)
+- [Marvin.seo](https://github.com/afashs)
+- [Oliver Hyde](https://github.com/oliverjhyde)
 
 <!-- prettier-ignore-end -->
