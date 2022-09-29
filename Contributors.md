@@ -52,6 +52,7 @@
 - [Piyush Ojha](https://github.com/ojhapiyush)
 - [Matt Black](https://github.com/mblackonline)
 - [Tommy Mapp](https://github.com/arkii1)
+- [Adeniji Oluwaferanmi](https://GitHub.com/judeadeniji)
 - [Aryan Gupta](https://github.com/aryangupta3393)
 - [Manilka Navod](https://github.com/manilkanav)
 - [Xuan Liang](https://github.com/ColdWilloWind)
