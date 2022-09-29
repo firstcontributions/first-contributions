@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
+- [Ishika Jain](https://github.com/Ishikajain02)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [Aditya Tripathi](https://github.com/aditya5573)
