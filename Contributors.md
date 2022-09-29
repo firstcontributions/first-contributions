@@ -7,6 +7,7 @@
 - [Abhisek Panda](https://github.com/Panda-Abhisek/Abhisek2003.git)
 - [Thomas Iovino](https://github.com/TomIovino)
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
+- [Madhav Gupta](https://github.com/madhavgupta07))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
