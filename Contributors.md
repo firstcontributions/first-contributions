@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
+- [Galih Indra Firmansyah](https://github.com/galihif)
 - [Jian Sun](https://github.com/zjiansun)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Srihari S](https://github.com/SSHSRN)
