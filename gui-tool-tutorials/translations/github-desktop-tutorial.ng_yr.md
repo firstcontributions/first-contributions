@@ -23,6 +23,16 @@ Fork repo yii nipa tite lori bọtini orita ni apa ọtun oke ti oju-iwe yii. Ey
 
 ## Ti ẹda ibi ipamọ naa
 
+Bayi clone repo yii si ẹrọ rẹ. PATAKI: MAA ṢE TI AWỌN REPO ORIGINAL. Lọ si orita rẹ ki o ṣe oniye rẹ. Lati ṣe oniye repo, tẹ lori "Clone tabi Download" ati lẹhinna tẹ "Ṣii ni Ojú-iṣẹ".
 
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
+Ferese agbejade yoo ṣii. Tẹ "Ṣii GitHubDesktop.exe".
 
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
+
+Lẹhin ti o tẹ “Ṣii GitHubDesktop.exe” awọn akoonu naa yoo ṣe igbasilẹ si kọnputa rẹ.
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-downloaded.png" alt="clone this repository" />
+
+Bayi o ti daakọ awọn akoonu ti ibi ipamọ awọn ifunni akọkọ ni github si kọnputa rẹ.
