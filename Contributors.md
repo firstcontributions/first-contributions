@@ -778,6 +778,7 @@ BM
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Moshe tesler](https://github.com/tesler77)
 - [Elena Cherpakova](https://github.com/ElenaCherpakova)
+- [Hayden Boshoff](https://github.com/HaydenBoshoff)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Doug Colin](https://github.com/Doug-Colin)
