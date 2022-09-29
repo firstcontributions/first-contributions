@@ -8,6 +8,7 @@
 - [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
+- [ChangIL Mo](https://github.com/mochangil)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
 - [Sebastian Cruz](https://github.com/sebacruz1)
