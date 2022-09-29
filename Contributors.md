@@ -3933,5 +3933,6 @@ BM
 - [Hasibul Hasan](https://github.com/iamhasibulhasan)
 - [Ali Efe Çakıcı](https://github.com/aliefe04)
 - [Sean Lambert](https://github.com/s)
+- [Mingor Hsieh](https://github.com/MMMMMMMingor)
 
 <!-- prettier-ignore-end -->
