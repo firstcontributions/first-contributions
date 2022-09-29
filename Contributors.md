@@ -3942,5 +3942,5 @@ BM
 - [Sean Lambert](https://github.com/s)
 - [Mingor Hsieh](https://github.com/MMMMMMMingor)
 - [Brayan Basallo Soto](https://github.com/brayanbasallo)
-
+- [Ping Wang] (https://github.com/wangping1511)
 <!-- prettier-ignore-end -->
