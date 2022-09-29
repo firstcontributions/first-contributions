@@ -108,6 +108,7 @@
 - [Chibuikem Iroaganachi](https://github.com/CyborgEvo)
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Shanka Amal](https://github.com/119shane)
+- [Sean Camou] (https://github.com/camou562)
 - [Simon-Raviz](https://github.com/Simon-Rabich)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
 - [Arthur Cordovil](https://github.com/devriq)
