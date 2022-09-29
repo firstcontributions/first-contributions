@@ -228,6 +228,8 @@ BM
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Chibuikem Iroaganachi](https://github.com/CyborgEvo)
 - [Faisal Amin](https://github.com/faisalamin001)
+- [Shanka Amal](https://github.com/119shane)
+- [Sean Camou] (https://github.com/camou562)
 - [Shariq Ahmed Khan](https://github.com/codewithshariq)
 - [Shanka Amal](https://github.com/119shane)[Ayush Jaiswal]
 - [Simon-Raviz](https://github.com/Simon-Rabich)
