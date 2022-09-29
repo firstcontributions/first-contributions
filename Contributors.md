@@ -114,6 +114,7 @@
 - [Ayush Raj](https://github.com/imyoungsparda)
 - [BigRad1 Elgusbi](https://github.com/rsmg10)
 - [William Harrison](https://github.com/WilliamDavidHarrison)
+- [Stathis Xantinidis] (https://github.com/spithash)
 - [Shalaka Waghamale](https://github.com/sheldonholic)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Ankit Kumar](https://github.com/ReallyAnkit)
