@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
+- [Yaswanth Teja](https://github.com/yaswanthteja)
 - [Jian Sun](https://github.com/zjiansun)
 - [Galih Indra Firmansyah](https://github.com/galihif)
 - [Ishika Jain](https://github.com/Ishikajain02)
@@ -50,7 +51,7 @@
 - [Awe Peter](https://github.com/peter-sq)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Adam Kraft](https://github.com/adamkraftk)
-- [Hydr0] (https://github.com/spacefaringh20consumer)
+- [Hydr0](https://github.com/spacefaringh20consumer)
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
