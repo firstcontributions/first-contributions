@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[Carlo Tran] (https://github.com/medicalanthrax)
+
+- [Jabes Eduardo] (https://github.com/Watts8bits)
+- [Carlo Tran] (https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Zhan Guang](https://github.com/zhan3333)
