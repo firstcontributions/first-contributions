@@ -112,7 +112,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 बधाई! आपने _fork -> clone -> edit -> PR_ वर्कफ्लो की पूर्ति कर ली है, जिसका आप अक्सर एक योगदानकर्ता के रूप में सामना करेंगे! 
 
-अपने पहले योगदान की खुशी में जश्न मनाएं तथा इसे [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) के जरिये अपने मित्रों के साथ साझा करें। 
+अपने पहले योगदान की खुशी में जश्न मनाएं तथा इसे [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) के जरिये अपने मित्रों के साथ शेयर करें। 
 
 आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं यदि आपको कुछ मदद चाहिए या आपके कोई प्रश्न हों । [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
