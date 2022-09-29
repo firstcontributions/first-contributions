@@ -5,6 +5,7 @@
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
 - [Jian Sun](https://github.com/zjiansun)
+- [Lingfeng Zhu](https://github.com/LingfengZhu)
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
 - [Abhay Sahu] (https://github.com/abhayst007)
 - [Galih Indra Firmansyah](https://github.com/galihif)
