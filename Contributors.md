@@ -21,6 +21,7 @@
 - [Galih Indra Firmansyah](https://github.com/galihif)
 - [Shivam Gupta](https://github.com/rawnge)
 - [Ishika Jain](https://github.com/Ishikajain02)
+- [Delali Dogbevi](https://github.com/fodela)
 - [Srihari S](https://github.com/SSHSRN)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
