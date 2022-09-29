@@ -4010,5 +4010,5 @@ BM
 - [Salman Shah](https://github.com/salman-shah2022)
 - [Oliver Hyde](https://github.com/oliverjhyde)
 - [David Lee](https://github.com/LordMoMA)
-
+- [Dylan Hurtado 👻](https://github.com/DyLaNHurtado)
 <!-- prettier-ignore-end -->
