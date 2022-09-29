@@ -3993,6 +3993,7 @@ BM
 - [LunarMarathon] (https://github.com/LunarMarathon)
 - [Marioparrilla_](https://github.com/https://github.com/MarioParrilla/)
 - [Marvin.seo](https://github.com/afashs)
+- [Salman Shah](https://github.com/salman-shah2022)
 - [Oliver Hyde](https://github.com/oliverjhyde)
 
 <!-- prettier-ignore-end -->
