@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
