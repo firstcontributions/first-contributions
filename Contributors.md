@@ -3907,7 +3907,6 @@ BM
 - [Proskurenko Danylo](https://github.com/ProskurenkoDanylo)
 - [Erwin Nowak](https://github.com/erwinowak)
 - [Walker Voss](https://github.com/WVoss31)
-- [YK Sugi](https://github.com/ykdojo/)
 - [vaibhav-1508](https://github.com/vaibhav-1508)
 - [Naman Mittal](https://github.com/Naman-Mittal1)
 - [Muffin Dev](https://github.com/MuffinDev9)
