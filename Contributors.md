@@ -3932,5 +3932,6 @@ BM
 - [Zayn Chen](https://github.com/zaynchen)
 - [Hasibul Hasan](https://github.com/iamhasibulhasan)
 - [Ali Efe Çakıcı](https://github.com/aliefe04)
+- [Sean Lambert](https://github.com/s)
 
 <!-- prettier-ignore-end -->
