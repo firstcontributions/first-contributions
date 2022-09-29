@@ -55,6 +55,7 @@
 - [Riya Sharma](https://github.com/riyasharma18)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sebastian Richter](https://github.com/gismo1337)
+- [Pancho AM](https://github.com/Mauratay)
 - [Aatmik Sanghvi](https://github.com/Aatmik-Coder)
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
