@@ -290,6 +290,7 @@ BM
 - [Stefan Mueller]
 - [Cristian Marrufo]
 - Jordan A
+- [jyoti](https://github.com/Jyotipal29)
 - [John Okunowo](https://github.com/johnfeyisayo)
 - [Celia Bruner](https://github.com/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
