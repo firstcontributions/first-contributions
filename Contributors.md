@@ -3954,6 +3954,7 @@ BM
 - [Zayn Chen](https://github.com/zaynchen)
 - [Hasibul Hasan](https://github.com/iamhasibulhasan)
 - [Ali Efe Çakıcı](https://github.com/aliefe04)
+- [Nathan Nguyen](https://github.com/Nathann03)
 - [Sean Lambert](https://github.com/s)
 - [Mingor Hsieh](https://github.com/MMMMMMMingor)
 - [wei45955](https://github.com/wei45955)
