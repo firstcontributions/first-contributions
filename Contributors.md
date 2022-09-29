@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Zhan Guang](https://github.com/zhan3333)
+- [Triamb Talwar](https://github.com/Triamb-Talwar)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
 - [Jian Sun](https://github.com/zjiansun)
