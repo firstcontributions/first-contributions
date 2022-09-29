@@ -164,6 +164,7 @@
 - [Vortex148]
 - [Prafull Kumar Pandey]
 - [Sarfraz Mohsin](https://github.com/sarfraz-mohsin)
+- [Aparna George](https://github.com/aparnageorge)
 - [Hitarth Srivastava]
 - [G.G]
 - [Guilherme Correa](https://github.com/letguilhermec)
