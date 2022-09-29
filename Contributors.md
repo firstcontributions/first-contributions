@@ -1965,6 +1965,7 @@ BM
 - [Jakub Gania](https://github.com/jakubgania)
 - [Alexi](https://github.com/web-dev-lex)
 - [Farooq](https://github.com/frq-frk)
+- [Andrew Rea](https://github.com/AndrewSRea)
 - [Lebelek](https://github.com/lblk-coder)
 - [BartyDash](https://github.com/BartyDash)
 - [Larry Urrego](https://github.com/LaUrrego)
