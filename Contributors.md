@@ -30,6 +30,7 @@
 - [Reemyos](https://github.com/Reemyos)
 - [Saksham](https://github.com/saxam0)
 - [Dev Bhandari](https://github.com/D-z-V)
+- [Aryan Kumar](https://github.com/THE-AryanKumar)
 - [Ravi Tripathi](https://github.com/Ravi-Tripathi21)
 - [Keerthivasan D](https://github.com/kd100100)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
