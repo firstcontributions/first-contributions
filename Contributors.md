@@ -67,6 +67,7 @@
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
+- [Christopher Olsen][https://github.com/crissolsen]
 - [Ashok Patrudkar](https://github.com/ashokpatrudkar)
 - [Jainit Bafna](https://github.com/Jainitbitw)
 - [Yilei Li](https://github.com/Riverflame-dev)
