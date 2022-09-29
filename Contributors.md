@@ -21,6 +21,7 @@
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Adarsh Gupta](https://github.com/adarsh-gupta101)
 - [Rahul lalwani](https://github.com/rahul09999)
+- [Rafal Szybinski](https://github.com/Rafal-Szybinski)
 - [Yogesh Febyani](https://github.com/yogesh0127)
 - [Reemyos](https://github.com/Reemyos)
 - [Saksham](https://github.com/saxam0)
