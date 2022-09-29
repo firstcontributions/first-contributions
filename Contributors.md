@@ -574,6 +574,7 @@ BM
 - [John Huang(pheno)](https://github.com/phenogit)
 - [Mat](https://github.com/raipidddd0ex)
 - [Ryan](https://github.com/EntropyUF)
+- [John Chayachinda](https://github.com/johnchinda)
 - [Jorge](https://github.com/JorgeHermo)
 - [Diya Goyal](https://github.com/diyagoyal98)
 - caelan herzberg
