@@ -78,6 +78,7 @@
 - [Hajebrahimi Alireza](https://github.com/iarata)
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
+- [kaoshlendra](https://github.com/kaoshlendra)
 - [Petsku Helenius] (https://github.com/geptit)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Pranay Jalan](https://github.com/pranayjalan254)
