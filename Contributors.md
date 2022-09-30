@@ -22,6 +22,7 @@
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
 - [Kshitij Maurya](https://github.com/mauryakshitij)
+- [Jacob Reid](https://github.com/z4nzib4r)
 - [Sam Candela](https://github.com/samc18)
 - [Hilmi Mubarok](https://github.com/hilmimubarok)
 - [Zhan Guang](https://github.com/zhan3333)
