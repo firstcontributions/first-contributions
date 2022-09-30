@@ -105,6 +105,7 @@
 - [Patrickhao](https://github.com/patrickhao)
 - [Chirag Goel](https://github.com/Chirag-18)
 - [Faris Salman](https://github.com/farissalman12)
+- [Chiara De Luca](https://github.com/araihC)
 - [Juniela Bautista](https://github.com/ellaiela)
 - [Ibtisam-Afzal](https://github.com/ibtisamafzal)
 - [Yash Gupta](https://github.com/YashGupta018)
