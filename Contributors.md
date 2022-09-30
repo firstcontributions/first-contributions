@@ -4048,6 +4048,7 @@ BM
 - [Khemmathiti Wangsaptawee](https://github.com/C0M3TZZ/)
 - [Aproid](https://github.com/aproid)
 - [Selcuk Basaran](https://github.com/Selcukbasaran)
+- [Aditya Agrawal](https://github.com/adityaiiitL)
 - [Yogesh Rajput](https://github.com/yogeshrajput335)
 
 <!-- prettier-ignore-end -->
