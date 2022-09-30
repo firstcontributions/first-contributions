@@ -614,6 +614,7 @@
 - [Robin Carey](https://github.com/robs179)
 - [yousef]
 - [botoko]
+- [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
