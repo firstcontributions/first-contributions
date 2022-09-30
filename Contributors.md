@@ -1,9 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
 -[Carlo Tran] (https://github.com/medicalanthrax)
-
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Zhan Guang](https://github.com/zhan3333)
@@ -193,7 +191,8 @@
 - [India Rome]
 - [Jai]
 - [Deepa]
-- [Aviv Keinan](https://github.com/avivk9) -[Benjamin Dutta](https://github.com/Benjamindutta)
+- [Aviv Keinan](https://github.com/avivk9)
+- [Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Saravana Kumar](https://github.com/saravana4yu)
@@ -482,7 +481,8 @@
 - [Gustavo Cassalho](https://github.com/Hasllow)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
-- [Neha Muthreja](https.//github.com/neha0003) -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
+- [Neha Muthreja](https.//github.com/neha0003)
+- [Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Aditi Agarwal](https://github.com/Aditi2905)
 - [Carlos Gonzalez](https://github.com/carlossgv)
@@ -4024,5 +4024,6 @@
 - [Oliver Hyde](https://github.com/oliverjhyde)
 - [David Lee](https://github.com/LordMoMA)
 - [Jason James](https://github.com/jccjames422)
-- [Youssef Mahmoud](https://github.com/Youssef-Mhmoud) -[Rebekah Eloise Miller](https://github.com/RebekahEloise)
+- [Youssef Mahmoud](https://github.com/Youssef-Mhmoud)
+- [Rebekah Eloise Miller](https://github.com/RebekahEloise)
 <!-- prettier-ignore-end -->
