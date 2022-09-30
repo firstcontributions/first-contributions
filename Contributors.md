@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[Carlo Tran] (https://github.com/medicalanthrax)
+- [Carlo Tran] (https://github.com/medicalanthrax)
+- [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
 - [Chad Perry](https://github.com/clewisperry)
 - [Anshuman Rout](https://github.com/anshuman0123)
