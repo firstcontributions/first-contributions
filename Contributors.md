@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 -[Carlo Tran] (https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
+- [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Nandan Bilagi](https://github.com/nandanpytech)
