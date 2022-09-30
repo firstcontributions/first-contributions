@@ -21,6 +21,7 @@
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
+- [Krishna Gupta](https://github.com/Gutapa)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Jacob Reid](https://github.com/z4nzib4r)
 - [Sam Candela](https://github.com/samc18)
