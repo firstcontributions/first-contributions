@@ -124,6 +124,7 @@
 - [Yilei Li](https://github.com/Riverflame-dev)
 - [Parth Panchal](https://github.com/hitchhicker007)
 - [Hajebrahimi Alireza](https://github.com/iarata)
+- [Bishawjit Das](https://github.com/bishawjit-das)
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
 - [kaoshlendra](https://github.com/kaoshlendra)
