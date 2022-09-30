@@ -214,6 +214,7 @@
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]
 - [Peace]
+- [Rehan](https://github.com/R3hankhan123)
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Balogun Oluwatobi](https://github.com/Cholahji/)
