@@ -4090,5 +4090,6 @@ BM
 - [satan4iel](https://github.com/satan4iel)
 - [sarbajitmohanty](https://github.com/sarbajitmohanty)
 - [sluxzer](https://github.com/sluxzer)
+- [theshook](https://github.com/theshook)
 
 <!-- prettier-ignore-end -->
