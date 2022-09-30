@@ -66,6 +66,7 @@
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
+- [Andrew Shoemaker](https://github.com/Ashoemaker-tech)
 - [Azhar Anowar](https://github.com/azharanowar)
 - [Piyush Ojha](https://github.com/ojhapiyush)
 - [Matt Black](https://github.com/mblackonline)
