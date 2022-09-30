@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Gelio](https://github.com/bigelio)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Watts](https://github.com/Watts8bits)
@@ -626,7 +627,8 @@
 - [Devarsh Patel](https://github.com/Devarsh010)
 - [Sky Kal](https://github.com/SkyKal)
 - [Jay](https://github.com/xplorjay)
-- [Hanlei](https://github.com/roomforyeesus) -[zombie]
+- [Hanlei](https://github.com/roomforyeesus)
+- [zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Pranjal Goyal](https://github.com/dontwike)
@@ -1948,7 +1950,8 @@
 - [Henrik Berg](https://github.com/henkeb)
 - [Shrey patel](https://github.com/shrey0303)
 - [Anand Chaudahry](https://github.com/anandchaudhary854)
-- [Deep](https://github.com/just2deep) -[thuan-le](https://github.com/LorenThuan)
+- [Deep](https://github.com/just2deep)
+- [thuan-le](https://github.com/LorenThuan)
 - [Henry Burii](https://github.com/buriihenry)
 - [Joshua Myers](https://github.com/joshuatmyers)
 - [Jim Ezesinachi](https://github.com/rapaktech)
