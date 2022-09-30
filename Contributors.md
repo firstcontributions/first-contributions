@@ -4042,5 +4042,6 @@ BM
 - [Leo Heo](https://github.com/hjh1004)
 - [Khemmathiti Wangsaptawee](https://github.com/C0M3TZZ/)
 - [Aproid](https://github.com/aproid)
+- [Selcuk Basaran](https://github.com/Selcukbasaran)
 
 <!-- prettier-ignore-end -->
