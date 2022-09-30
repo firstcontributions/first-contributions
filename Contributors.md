@@ -2905,6 +2905,7 @@ BM
 - [Brandon S](https://github.com/brandon-schad)
 - [Nikhil](https://github.com/Kirito-Excalibur)
 - [Anna Luz Serena](https://github.com/annaluzserena)
+- [Austin Akers](https://github.com/aakers24)
 - [Clenio Filho](https://github.com/fhclenio)
 - [Mudit Mishra](https://github.com/mudit023)
 - [Swapnil Jain](https://github.com/swapy-27)
