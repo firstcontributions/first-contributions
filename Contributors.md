@@ -3938,6 +3938,7 @@ BM
 - [Suzy](https://github.com/suzy97)
 - [Hina](https://github.com/hmmalic/hmmalic)
 - [John Adelana](https://github.com/adelanajohn)
+- [Eric Tuason] (https://github.com/EricTuason)
 - [Vishal Kannankra](https://github.com/kvishalv)
 - [Alexa Cole](https://github.com/alexacole)
 - [Dushyant](https://github.com/techsnap)
