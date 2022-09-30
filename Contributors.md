@@ -32,6 +32,7 @@
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Srihari S](https://github.com/SSHSRN)
 - [Suhani Garg](https://github.com/suhanigarg29)
+- [Adarsh Gupta](https://github.com/adarshgupta404)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [ChangIL Mo](https://github.com/mochangil)
