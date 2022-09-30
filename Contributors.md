@@ -148,6 +148,7 @@
 - [Bindhu] (https://github.com/BindhuChamp/first-contributions)
 - [Juan Carlos Estevez Vargas](https://github.com/Juan-Carlos-Estevez-Vargas)
 - [klopq](https://github.com/klopq)
+- [Lesly Juarez](https://github.com/jlesly)
 - [Chris Otudero](https://github.com/ChrisOtudero)
 - [Harsh shukla](https://github.com/harshshukla2807)
 - [Sahil Yeole](https://github.com/sahilyeole)
