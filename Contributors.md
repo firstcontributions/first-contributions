@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 -[Carlo Tran] (https://github.com/medicalanthrax)
+
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Zhan Guang](https://github.com/zhan3333)
@@ -191,8 +193,7 @@
 - [India Rome]
 - [Jai]
 - [Deepa]
-- [Aviv Keinan](https://github.com/avivk9)
--[Benjamin Dutta](https://github.com/Benjamindutta)
+- [Aviv Keinan](https://github.com/avivk9) -[Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Saravana Kumar](https://github.com/saravana4yu)
@@ -222,7 +223,7 @@
 - [Vishnu]
 - [Vedant]
 - [Ilah]
-BM
+  BM
 - [Akshay](https://github.com/akshaypathak2002)
 - [jmdagenais](https://github.com/jmdagenais)
 - [Varad Tote](https://github.com/Varad0124)
@@ -4016,13 +4017,12 @@ BM
 - [Andisi Ambuku](https://github.com/andisiambuku)
 - [Lucas Tan](https://github.com/a-fly-fly-bird)
 - [LunarMarathon] (https://github.com/LunarMarathon)
-- [Marioparrilla_](https://github.com/https://github.com/MarioParrilla/)
+- [Marioparrilla\_](https://github.com/https://github.com/MarioParrilla/)
 - [Rahul Penchala](https://github.com/rpvirtuoso)
 - [Marvin.seo](https://github.com/afashs)
 - [Salman Shah](https://github.com/salman-shah2022)
 - [Oliver Hyde](https://github.com/oliverjhyde)
 - [David Lee](https://github.com/LordMoMA)
 - [Jason James](https://github.com/jccjames422)
-- [Youssef Mahmoud](https://github.com/Youssef-Mhmoud)
-
+- [Youssef Mahmoud](https://github.com/Youssef-Mhmoud) -[Rebekah Eloise Miller](https://github.com/RebekahEloise)
 <!-- prettier-ignore-end -->
