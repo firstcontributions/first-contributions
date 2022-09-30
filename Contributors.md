@@ -2987,6 +2987,7 @@
 - [Shoukou Lee](https://github.com/shoukou-lee)
 - [Ruth Wata](https://github.com/R-N-Wata)
 - [Sadie Manicom](https://github.com/sadienicole)
+- [Javad Farshchi](https://github.com/javadfarshchi)
 - [Moad Akhraz](https://github.com/mdakh404)
 - [Flamintus Maximus](https://github.com/Flamintus)
 - [Nicholas Ng](https://github.com/onenylxus)
