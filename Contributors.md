@@ -146,6 +146,7 @@
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Yvonne Fong](https://github.com/yvnf)
 - [Matt Willis](https://github.com/Matt-Willis-20)
+- [Paulo Éder](https://github.com/Semente171)
 - [Kunal Bhardwaj](https://github.com/KunalBhardwaj136)
 - [Francesco Di Trapani] (https://github.com/dtfrancesco)
 - [Tarandeep Singh](https://github.com/taran11313)
