@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Watts](https://github.com/Watts8bits)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Carlo Tran](https://github.com/medicalanthrax)
