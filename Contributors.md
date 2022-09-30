@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -179,6 +180,7 @@
 - [Matt Willis](https://github.com/Matt-Willis-20)
 - [Paulo Éder](https://github.com/Semente171)
 - [Kunal Bhardwaj](https://github.com/KunalBhardwaj136)
+- [Elijah Johnny] (https://github.com/ELIJAHJOHNNY)
 - [Francesco Di Trapani](https://github.com/dtfrancesco)
 - [Tarandeep Singh](https://github.com/taran11313)
 - [Riya Sharma](https://github.com/riyasharma18)
