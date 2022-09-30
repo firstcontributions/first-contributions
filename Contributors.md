@@ -99,6 +99,7 @@
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
 - [Ekta Gujar](https://github.com/ekta1000)
 - [Vikram Kumar](https://github.com/vikramkbgs)
+- [Maple Syrup Web](https://github.com/MapleSyrupWeb)
 - [Calmius](https://github.com/calmius)
 - [Outsider](https://github.com/days0102)
 - [Sindura Dasi](https://github.com/sinduraDasi)
