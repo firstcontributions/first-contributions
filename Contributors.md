@@ -96,6 +96,7 @@
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
 - [kaoshlendra](https://github.com/kaoshlendra)
+- [Eduardo Oliveira Rodrigues](https://github.com/eddyrodrigues)
 - [Petsku Helenius] (https://github.com/geptit)
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Pranay Jalan](https://github.com/pranayjalan254)
