@@ -228,7 +228,7 @@
 - [Jai]
 - [Deepa]
 - [Aviv Keinan](https://github.com/avivk9)
--[Benjamin Dutta](https://github.com/Benjamindutta)
+- [Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Saravana Kumar](https://github.com/saravana4yu)
@@ -259,7 +259,7 @@
 - [Vishnu]
 - [Vedant]
 - [Ilah]
-BM
+  BM
 - [Akshay](https://github.com/akshaypathak2002)
 - [jmdagenais](https://github.com/jmdagenais)
 - [Varad Tote](https://github.com/Varad0124)
@@ -521,7 +521,8 @@ BM
 - [Gustavo Cassalho](https://github.com/Hasllow)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
-- [Neha Muthreja](https.//github.com/neha0003) -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
+- [Neha Muthreja](https.//github.com/neha0003)
+- [Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Aditi Agarwal](https://github.com/Aditi2905)
 - [Carlos Gonzalez](https://github.com/carlossgv)
@@ -4069,7 +4070,7 @@ BM
 - [Andisi Ambuku](https://github.com/andisiambuku)
 - [Lucas Tan](https://github.com/a-fly-fly-bird)
 - [LunarMarathon] (https://github.com/LunarMarathon)
-- [Marioparrilla_](https://github.com/https://github.com/MarioParrilla/)
+- [Marioparrilla\_](https://github.com/https://github.com/MarioParrilla/)
 - [Rahul Penchala](https://github.com/rpvirtuoso)
 - [Marvin.seo](https://github.com/afashs)
 - [Salman Shah](https://github.com/salman-shah2022)
@@ -4080,6 +4081,7 @@ BM
 - [Riches Katie](https://github.com/KatieRiches)
 - [Ashwin John Chempolil](https://github.com/ashwinjohn3)
 - [Youssef Mahmoud](https://github.com/Youssef-Mhmoud)
+- [Rebekah Eloise Miller](https://github.com/RebekahEloise)
 - [HANJUN](https://github.com/97970z)
 - [Leo Heo](https://github.com/hjh1004)
 - [Khemmathiti Wangsaptawee](https://github.com/C0M3TZZ/)
