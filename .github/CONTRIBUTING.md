@@ -465,6 +465,11 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/mikowhy">mikowhy</a>
         </td>
     </tr>
+    <tr>
+    <td>
+            <a href="https://github.com/Jitesh-Gadage16">Jitesh Gadage</a>
+        </td>
+    </tr>
  </table>
     
 
