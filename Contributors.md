@@ -5,7 +5,7 @@
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Watts](https://github.com/Watts8bits)
-- [Anurag Nayak] (https://github.com/Anu-Ra-g)
+- [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Kamya](https://github.com/Kamya90)
@@ -21,6 +21,7 @@
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
+- [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Jacob Reid](https://github.com/z4nzib4r)
