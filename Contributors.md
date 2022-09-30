@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[Carlo Tran] (https://github.com/medicalanthrax)
+- [Carlo Tran](https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
@@ -13,7 +13,7 @@
 - [Maneesh Sutar](https://github.com/maneesh29s)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
 - [Triamb Talwar](https://github.com/Triamb-Talwar)
-- [Chris Gorman] (https://github.com/cyrii)
+- [Chris Gorman](https://github.com/cyrii)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
 - [Ki hyun Lee](https://github.com/daveg7lee)
@@ -23,8 +23,8 @@
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
 - [Yahya Sghayron](https://github.com/yahyasghayron)
-- [Abhay Sahu] (https://github.com/abhayst007)
-- [Sophia Chu] (https://github.com/schu-code)
+- [Abhay Sahu](https://github.com/abhayst007)
+- [Sophia Chu](https://github.com/schu-code)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
 - [Shivam Gupta](https://github.com/rawnge)
@@ -55,7 +55,7 @@
 - [Aryan Kumar](https://github.com/THE-AryanKumar)
 - [Ravi Tripathi](https://github.com/Ravi-Tripathi21)
 - [Keerthivasan D](https://github.com/kd100100)
-- [Estitxu Larralde] (https://github.com/Pitxunet)
+- [Estitxu Larralde](https://github.com/Pitxunet)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
