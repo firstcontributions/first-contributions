@@ -8,6 +8,7 @@
 - [Chad Perry](https://github.com/clewisperry)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
+- [Ansh Shori](https://github.com/anshshori2002)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Preetal Shah] (https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
