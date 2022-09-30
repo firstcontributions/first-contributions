@@ -623,6 +623,7 @@
 - [Thsa1nt](https://github.com/Thsa1nt)
 - [phenriquep00](https://github.com/phenriquep00)
 - [LeandroLFE](https://github.com/LeandroLFE)
+- [Emmanuel Jonathan](https://github.com/Emmrys-Jay)
 - [Ahmed Magdy](https://github.com/bugz8)
 - [Ahmed Saeed](https://github.com/ahmedrsaeed)
 - [Robin Carey](https://github.com/robs179)
