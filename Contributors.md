@@ -76,6 +76,7 @@
 - [Divyansh Saxena](https://github.com/divyansh956)
 - [Hazem Ben Abdelhafidh](https://github.com/Hazem-Ben-Abdelhafidh)
 - [Harshit Maurya](https://github.com/H-Maurya)
+- [Danish Khan](https://github.com/Dan0401)
 - [Scott Johnson](https://github.com/stjohnson44)
 - [Mario Gómez](https://github.com/mgomezarr)
 - [Cartago Reminscence](https://github.com/cartagoReminiscence/first-contributions.git)
