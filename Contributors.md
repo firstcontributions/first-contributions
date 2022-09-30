@@ -1,8 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[Carlo Tran] (https://github.com/medicalanthrax)
+- [Carlo Tran] (https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
+- [Daniel Harka](https://github.com/MrDanielHarka)
 - [Chad Perry](https://github.com/clewisperry)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
@@ -25,6 +26,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Wilson Le](https://github.com/WilsonLe)
 - [Jian Sun](https://github.com/zjiansun)
+- [Lingeshwaran](https://github.com/lingeshwaran05)
 - [Loick Tian](https://github.com/loickengit)
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
@@ -145,6 +147,7 @@
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Yvonne Fong](https://github.com/yvnf)
 - [Matt Willis](https://github.com/Matt-Willis-20)
+- [Paulo Éder](https://github.com/Semente171)
 - [Kunal Bhardwaj](https://github.com/KunalBhardwaj136)
 - [Francesco Di Trapani] (https://github.com/dtfrancesco)
 - [Tarandeep Singh](https://github.com/taran11313)
@@ -2113,7 +2116,6 @@ BM
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Michael Silverman](https://github.com/msilverman-va)
 - [karthik M](https://github.com/mjkarthik01)
-- [Mohd Mohitur Rahaman](https://github.com/Mohitur669)
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Levi Francis](https://github.com/leevigh)
@@ -4021,6 +4023,7 @@ BM
 - [Jayesh p](https://github.com/jayeshp19)
 - [Martin Metskula](https://github.com/Nitrammets)
 - [Mohammad Mustak Absar Khan](https://github.com/MustakAbsarKhan)
+- [raghav-rama](https://github.com/raghav-rama)
 - [Liqwik](https://github.com/liqwik)
 - [Evana Rahman](https://github.com/MustakAbsarKhan)
 - [Larissa Bandeira de Jesus](https://github.com/larissabandeirajs)
@@ -4079,10 +4082,12 @@ BM
 - [Aditya Agrawal](https://github.com/adityaiiitL)
 - [Yogesh Rajput](https://github.com/yogeshrajput335)
 - [chance9077](https://github.com/chance9077)
+- [Pushpavalli](https://github.com/pushpavalliPI) 
 - [Ziani Imane](https://github.com/ZianiImane)
 - [Maxime Gonçalves](https://github.com/MaximeGoncalves)
 - [JunYeop Kim](https://github.com/asulater)
 - [satan4iel](https://github.com/satan4iel)
 - [sarbajitmohanty](https://github.com/sarbajitmohanty)
+- [sluxzer](https://github.com/sluxzer)
 
 <!-- prettier-ignore-end -->
