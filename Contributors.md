@@ -89,6 +89,7 @@
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
 - [Adyasha Samal](https://github.com/Adyasha28)
+- [Mridul Goel](https://github.com/mg-0000)
 - [Olakada Samuel](https://github.com/olakadasami)
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
 - [Aryan 'Ba3a' Kumar](https://github.com/ba3a-g)
