@@ -16,6 +16,7 @@
 - [Sidabw](https://github.com/Sidabw)
 - [Banana Paul](https://github.com/pawel045)
 - [Sayan Roy](https://github.com/D3FaltXD)
+- [Faraz Ahmed](https://github.com/GeekkyCoder)
 - [Utkarsh Ambetkar](https://github.com/UTKARSH552)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
