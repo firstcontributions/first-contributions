@@ -2013,6 +2013,7 @@ BM
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Shourya Tyagi](https://github.com/ShouryaTyagi042)
 - [Mitchell Megla](https://github.com/mitchell-megla)
+- [Bill Walker](https://github.com/Falklian)
 - [Rohan Abraham](https://github.com/RohanSAbraham)
 - [Aklile Kidane](https://github.com/Akidane47)
 - [Aquon Bovell](https://github.com/aquonbovell)
