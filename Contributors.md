@@ -129,6 +129,7 @@
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Chaw Kok Fei](https://github.com/ChawKokFei)
 - [Patrickhao](https://github.com/patrickhao)
+- [John Tai](https://github.com/zhuntai)
 - [Chirag Goel](https://github.com/Chirag-18)
 - [Faris Salman](https://github.com/farissalman12)
 - [Chiara De Luca](https://github.com/araihC)
