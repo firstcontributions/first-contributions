@@ -628,6 +628,7 @@
 - [Ahmed Magdy](https://github.com/bugz8)
 - [Ahmed Saeed](https://github.com/ahmedrsaeed)
 - [Robin Carey](https://github.com/robs179)
+- [Erin Miller](https://github.com/erinlmiller)
 - [yousef]
 - [botoko]
 - [Eric Salvi](https://github.com/ericsalvi)
