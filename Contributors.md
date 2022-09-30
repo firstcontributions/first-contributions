@@ -13,6 +13,7 @@
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
 - [Mark Chittenden](https://github.com/mark-chit)
+- [Wilson Le](https://github.com/WilsonLe)
 - [Jian Sun](https://github.com/zjiansun)
 - [Loick Tian](https://github.com/loickengit)
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
