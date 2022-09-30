@@ -4105,6 +4105,7 @@
 - [David Lee](https://github.com/LordMoMA)
 - [Nicholas Cheung](https://github.com/cowfish813)
 - [David Lee](https://github.com/LordMoMA)
+- [Dylan Hurtado 👻](https://github.com/DyLaNHurtado)
 - [Jason James](https://github.com/jccjames422)
 - [Riches Katie](https://github.com/KatieRiches)
 - [Ashwin John Chempolil](https://github.com/ashwinjohn3)
