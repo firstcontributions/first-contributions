@@ -2110,7 +2110,6 @@ BM
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Michael Silverman](https://github.com/msilverman-va)
 - [karthik M](https://github.com/mjkarthik01)
-- [Mohd Mohitur Rahaman](https://github.com/Mohitur669)
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Levi Francis](https://github.com/leevigh)
