@@ -11,6 +11,7 @@
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
 - [Banana Paul] (https://github.com/pawel045)
+- [Sayan Roy](https://github.com/D3FaltXD)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
