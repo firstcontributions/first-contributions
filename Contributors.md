@@ -98,6 +98,7 @@
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
+  [Mathew Ealy](https://github.com/MEaly-Icepts)
 - [Andrew Shoemaker](https://github.com/Ashoemaker-tech)
 - [Azhar Anowar](https://github.com/azharanowar)
 - [Piyush Ojha](https://github.com/ojhapiyush)
