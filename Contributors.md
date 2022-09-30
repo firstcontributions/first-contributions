@@ -2062,6 +2062,7 @@
 - [Adam Ralph](https://github.com/adamjralph)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
+- [Josué Rodriguez](https://github.com/Josue0004)
 - [Rahul Roy](https://github.com/RAHULRo)
 - [Ifeoma Okoh](https://github.com/Ifyokoh)
 - [Steven Gilliland](https://github.com/StevDev88)
