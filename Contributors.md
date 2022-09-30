@@ -2752,6 +2752,7 @@ BM
 - [Kerplunkx](https://github.com/Kerplunkx)
 - [Mbiraru](https://github.com/Mbiraru)
 - [James Peeler](https://github.com/jamespeeler)
+- [TaeHoon Kim](https://github.com/hoonn9)
 - [Magnus Kraft](https://github.com/manx)
 - [Megat Iskandar Shahriman](https://github.com/Isky-Codes)
 - [Anthony Church](https://github.com/ITedInnovator)
