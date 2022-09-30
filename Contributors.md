@@ -22,6 +22,7 @@
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
 - [Yahya Sghayron](https://github.com/yahyasghayron)
 - [Abhay Sahu] (https://github.com/abhayst007)
+- [Sophia Chu] (https://github.com/schu-code)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
 - [Shivam Gupta](https://github.com/rawnge)
