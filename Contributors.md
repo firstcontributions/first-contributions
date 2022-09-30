@@ -4077,6 +4077,7 @@ BM
 - [Nicholas Cheung](https://github.com/cowfish813)
 - [David Lee](https://github.com/LordMoMA)
 - [Jason James](https://github.com/jccjames422)
+- [Riches Katie](https://github.com/KatieRiches)
 - [Ashwin John Chempolil](https://github.com/ashwinjohn3)
 - [Youssef Mahmoud](https://github.com/Youssef-Mhmoud)
 - [HANJUN](https://github.com/97970z)
