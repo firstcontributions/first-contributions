@@ -4073,6 +4073,7 @@ BM
 - [Marvin.seo](https://github.com/afashs)
 - [Salman Shah](https://github.com/salman-shah2022)
 - [Oliver Hyde](https://github.com/oliverjhyde)
+- [Nicholas Cheung](https://github.com/cowfish813)
 - [David Lee](https://github.com/LordMoMA)
 - [Jason James](https://github.com/jccjames422)
 - [Youssef Mahmoud](https://github.com/Youssef-Mhmoud)
