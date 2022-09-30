@@ -18,6 +18,7 @@
 - [Maneesh Sutar](https://github.com/maneesh29s)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
 - [Triamb Talwar](https://github.com/Triamb-Talwar)
+- [Mano Vikram](https://github.com/ManoVikram)
 - [Chris Gorman] (https://github.com/cyrii)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
