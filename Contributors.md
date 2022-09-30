@@ -184,6 +184,7 @@
 - [Vishnu Narayan Rai](https://github.com/Narayan1670))
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Emeghiebo Chizoba](https://github.com/Chizoba-009)
+- [Kamal Neupane](https://github.com/kamal0620040)
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [Parth Wani](https://github.com/W-P-N)
 - [CallieRhino](https://github.com/CallieRhino)
