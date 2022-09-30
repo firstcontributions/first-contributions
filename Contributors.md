@@ -3116,6 +3116,7 @@ BM
 - [Mayank Pathak](https://github.com/bad-at-names0)
 - [Rahul Ghetia](https://github.com/Rahul6725l)
 - [Stan Suo](https://github.com/stansuo)
+- [Zuleriqhbal Hendri](https://github/com/eriqhbal)
 - [Craig Summers](https://github.com/AlphaPentagon)
 - [Leto Bukarica](https://github.com/LetoBukarica)
 - [Timeo Williams](https://github.com/timeowilliams)
