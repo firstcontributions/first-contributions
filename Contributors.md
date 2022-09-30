@@ -9,6 +9,7 @@
 - [Sam Candela](https://github.com/samc18)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
+- [Banana Paul] (https://github.com/pawel045)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
