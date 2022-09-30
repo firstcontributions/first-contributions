@@ -74,6 +74,7 @@
 - [Hazem Ben Abdelhafidh](https://github.com/Hazem-Ben-Abdelhafidh)
 - [Harshit Maurya](https://github.com/H-Maurya)
 - [Scott Johnson](https://github.com/stjohnson44)
+- [Mario Gómez](https://github.com/mgomezarr)
 - [Cartago Reminscence](https://github.com/cartagoReminiscence/first-contributions.git)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
