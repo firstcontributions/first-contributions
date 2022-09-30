@@ -4114,6 +4114,7 @@
 - [Leo Heo](https://github.com/hjh1004)
 - [Parth Sundarka] (https://github.com/parthusun8)
 - [Khemmathiti Wangsaptawee](https://github.com/C0M3TZZ/)
+- [DisasterMaker](https://github.com/DisasterMaker)
 - [Aproid](https://github.com/aproid)
 - [Selcuk Basaran](https://github.com/Selcukbasaran)
 - [Aditya Agrawal](https://github.com/adityaiiitL)
