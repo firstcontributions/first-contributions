@@ -30,6 +30,7 @@
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [ChangIL Mo](https://github.com/mochangil)
 - [Aditya Tripathi](https://github.com/aditya5573)
+- [Jugurtha K](https://github.com/jugurthak)
   [Katy Hagen](https://github.com/katyhagen)
 - [James Gore](http://github.com/thejamesgore)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
