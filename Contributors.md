@@ -4172,5 +4172,6 @@
 - [firatvural](https://github.com/firatvural)
 - [melscoop](https://github.com/melscoop)
 - [SankalpBhatnagar](https://github.com/Doraemon23)
+- [ifeanyi chima](https://github.com/masterifeanyi)
 
 <!-- prettier-ignore-end -->
