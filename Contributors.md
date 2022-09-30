@@ -2433,6 +2433,7 @@
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [Francisca Suarez](https://github.com/franciisca)
 - [careyuyu](https://github.com/careyuyu)
+- [Erion Criscente](https://github.com/ecriscente)
 - [Eseosa Oseghale](https://github.com/eseosa22)
 - [Akshat](https://github.com/Akshat-Mishra101)
 - [Priyangshu Sarkar](https://github.com/Priyangshu28)
