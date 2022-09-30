@@ -252,6 +252,7 @@ BM
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang](https://github.com/Wooonster)
+- [Shreyas Naik](https://github.com/Saishrey)
 - [Soham Pagi](https://github.com/soham-pagi)
 - [Francis Artemio Landia](https://github.com/Franz-Art-L)
 - [Satyam Raghuwanshi](https://github.com/satyamraghuwanshi136)
