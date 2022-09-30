@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[Carlo Tran] (https://github.com/medicalanthrax)
+- [Carlo Tran] (https://github.com/medicalanthrax)
+- [Gelio] (https://github.com/bigelio)
 - [Chad Perry](https://github.com/clewisperry)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
@@ -208,7 +209,7 @@
 - [Jai]
 - [Deepa]
 - [Aviv Keinan](https://github.com/avivk9)
--[Benjamin Dutta](https://github.com/Benjamindutta)
+- [Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Saravana Kumar](https://github.com/saravana4yu)
@@ -499,7 +500,7 @@ BM
 - [Gustavo Cassalho](https://github.com/Hasllow)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
-- [Neha Muthreja](https.//github.com/neha0003) -[Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
+- [Neha Muthreja](https.//github.com/neha0003) - [Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
 - [Aditi Agarwal](https://github.com/Aditi2905)
 - [Carlos Gonzalez](https://github.com/carlossgv)
@@ -581,7 +582,7 @@ BM
 - [Devarsh Patel](https://github.com/Devarsh010)
 - [Sky Kal](https://github.com/SkyKal)
 - [Jay](https://github.com/xplorjay)
-- [Hanlei](https://github.com/roomforyeesus) -[zombie]
+- [Hanlei](https://github.com/roomforyeesus) - [zombie]
 - [AKM](https://github.com/AungKaungMo)
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Pranjal Goyal](https://github.com/dontwike)
@@ -1902,7 +1903,7 @@ BM
 - [Henrik Berg](https://github.com/henkeb)
 - [Shrey patel](https://github.com/shrey0303)
 - [Anand Chaudahry](https://github.com/anandchaudhary854)
-- [Deep](https://github.com/just2deep) -[thuan-le](https://github.com/LorenThuan)
+- [Deep](https://github.com/just2deep) - [thuan-le](https://github.com/LorenThuan)
 - [Henry Burii](https://github.com/buriihenry)
 - [Joshua Myers](https://github.com/joshuatmyers)
 - [Jim Ezesinachi](https://github.com/rapaktech)
