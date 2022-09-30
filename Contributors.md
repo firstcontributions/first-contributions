@@ -4120,6 +4120,7 @@
 - [sarbajitmohanty](https://github.com/sarbajitmohanty)
 - [sluxzer](https://github.com/sluxzer)
 - [theshook](https://github.com/theshook)
+- [Shardul-Kavar](https://github.com/Shardul-Kavar)
 - [ritam77](https://github.com/ritam77)
 
 <!-- prettier-ignore-end -->
