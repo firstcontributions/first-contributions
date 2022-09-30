@@ -65,6 +65,7 @@
 - [Ekta Gujar](https://github.com/ekta1000)
 - [Vikram Kumar](https://github.com/vikramkbgs)
 - [Calmius](https://github.com/calmius)
+- [Outsider](https://github.com/days0102)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
