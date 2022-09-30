@@ -262,6 +262,7 @@
 - [Andie Pearce]
 - [Peace]
 - [Rehan](https://github.com/R3hankhan123)
+- [Alvin Okafor](https://github.com/alvinokafor)
 - [Chris Green](https://github.com/ChrisGreenDev)
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Balogun Oluwatobi](https://github.com/Cholahji/)
