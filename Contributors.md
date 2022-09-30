@@ -4108,7 +4108,6 @@
 - [Marvin.seo](https://github.com/afashs)
 - [Salman Shah](https://github.com/salman-shah2022)
 - [Oliver Hyde](https://github.com/oliverjhyde)
-- [Omkar Shevare](https://github.com/Omkar2108)
 - [Amir Mujkic](https://github.com/amirmujkicc)
 - [Keith Henry Nambale](https://github.com/kithstack1)
 - [David Lee](https://github.com/LordMoMA)
@@ -4145,6 +4144,6 @@
 - [ritam77](https://github.com/ritam77)
 - [aHudspith](https://github.com/aHudspith)
 - [interrobang](https://github.com/Interrobang01)
-
+- [lkalves](https://github.com/lkalves)
 
 <!-- prettier-ignore-end -->
