@@ -4112,5 +4112,6 @@
 - [sarbajitmohanty](https://github.com/sarbajitmohanty)
 - [sluxzer](https://github.com/sluxzer)
 - [theshook](https://github.com/theshook)
+- [ritam77](https://github.com/ritam77)
 
 <!-- prettier-ignore-end -->
