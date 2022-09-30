@@ -1,6 +1,7 @@
 .DS_Store;
 .idea/
 .vs
+.env
 # User-specific files
 *.rsuser
 *.suo
