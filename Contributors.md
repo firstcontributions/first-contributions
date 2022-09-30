@@ -53,6 +53,7 @@
 - [Sophia Chu](https://github.com/schu-code)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
+- [Daniele Vilela](https://github.com/danielevilela)
 - [Shivam Gupta](https://github.com/rawnge)
 - [Vedant Mistry](https://github.com/vibhatsu08)
 - [Ishika Jain](https://github.com/Ishikajain02)
