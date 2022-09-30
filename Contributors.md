@@ -3696,6 +3696,7 @@
 - [Gazi Rahad](https://github.com/gazirahad7)
 - [Sam R]
 - [Kyle Geerts]
+- [Roshan Kumar](https://github.com/roshan-byte)
 - [Israel Yuri](https://github.com/Israel548)
 - [AamiBhoot 🇧🇩](https://github.com/aamibhoot)
 - [Laura Simoni](https://github.com/lsimonidev)
