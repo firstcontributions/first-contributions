@@ -135,6 +135,7 @@
 - [Matthew Arthur](https://github.com/arthurmatthew)
 - [Yash Rajoria](https://github.com/yashrajoria03)
 - [Zeblue](https://github.com/zbluee)
+- [Bindhu] (https://github.com/BindhuChamp/first-contributions)
 - [Juan Carlos Estevez Vargas](https://github.com/Juan-Carlos-Estevez-Vargas)
 - [klopq](https://github.com/klopq)
 - [Chris Otudero](https://github.com/ChrisOtudero)
