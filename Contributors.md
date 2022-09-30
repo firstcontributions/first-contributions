@@ -361,6 +361,8 @@
 - [Daniel Ehr] (https://github.com/ehda93)
 - [Ankush mehra](https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
+- [Disha Chaurasia] -[Niraj Kumar Mahto](https://github.com/nirajnkm)
+- [Vadlamani Uday] (https://github.com/vadlamaniuday)
 - [Disha Chaurasia]
 - [Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday](https://github.com/vadlamaniuday)
@@ -432,6 +434,7 @@
 - [Chirag Khatri](https://github.com/chiragkhatri19)
 - [Gbolahan Oyeniyi](https://github.com/GeebeeFrost)
 - [Wai Phyo 7️⃣](https://github.com/WPSeven)
+- [Muhammad Noorani](https://github.com/MuhammadNoorani)
 - [DON XAVIER](https://github.com/DonXavierdev)
 - [Mark Roberts](https://github.com/mrkrbrts)
 - [Shounak Das](https://github.com/dasShounak)
