@@ -8,6 +8,7 @@
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
+- [Preetal Shah] (https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Sam Candela](https://github.com/samc18)
 - [Zhan Guang](https://github.com/zhan3333)
