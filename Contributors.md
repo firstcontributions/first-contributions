@@ -4087,5 +4087,6 @@ BM
 - [JunYeop Kim](https://github.com/asulater)
 - [satan4iel](https://github.com/satan4iel)
 - [sarbajitmohanty](https://github.com/sarbajitmohanty)
+- [sluxzer](https://github.com/sluxzer)
 
 <!-- prettier-ignore-end -->
