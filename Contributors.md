@@ -1,8 +1,8 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Watts](https://github.com/Watts8bits)
+- [Anurag Nayak] (https://github.com/Anu-Ra-g)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
