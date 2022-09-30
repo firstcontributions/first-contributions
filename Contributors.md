@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
 -[Carlo Tran] (https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
 - [Anshuman Rout](https://github.com/anshuman0123)
@@ -96,7 +95,6 @@
 - [Aryan Gupta](https://github.com/aryangupta3393)
 - [Manilka Navod](https://github.com/manilkanav)
 - [Xuan Liang](https://github.com/ColdWilloWind)
-
 - [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
 - [Chaw Kok Fei](https://github.com/ChawKokFei)
 - [Patrickhao](https://github.com/patrickhao)
@@ -331,13 +329,11 @@ BM
 - [Daniel Ehr] (https://github.com/ehda93)
 - [Ankush mehra](https://github.com/mehraankush)
 - [Karol Songin](https://github.com/QSETT)
-
 - [Disha Chaurasia] -[Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday] (https://github.com/vadlamaniuday)
 - [Disha Chaurasia]
 - [Niraj Kumar Mahto](https://github.com/nirajnkm)
 - [Vadlamani Uday](https://github.com/vadlamaniuday)
-
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
 - [Naima Ontiveros](https://github.com/no26829)
