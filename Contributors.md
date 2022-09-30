@@ -1,7 +1,7 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 - [Watts](https://github.com/Watts8bits)
+- [Anurag Nayak] (https://github.com/Anu-Ra-g)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
