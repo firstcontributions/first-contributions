@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[Carlo Tran] (https://github.com/medicalanthrax)
+- [Carlo Tran] (https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Sam Candela](https://github.com/samc18)
@@ -97,6 +97,7 @@
 - [Yilei Li](https://github.com/Riverflame-dev)
 - [Parth Panchal](https://github.com/hitchhicker007)
 - [Hajebrahimi Alireza](https://github.com/iarata)
+- [Bishawjit Das](https://github.com/bishawjit-das)
 - [Erkhembayar Atarbold](https://github.com/Erkhembayar-Atarbold)
 - [Jingurah](https://github.com/Jingurah)
 - [kaoshlendra](https://github.com/kaoshlendra)
@@ -197,7 +198,7 @@
 - [Jai]
 - [Deepa]
 - [Aviv Keinan](https://github.com/avivk9)
--[Benjamin Dutta](https://github.com/Benjamindutta)
+- [Benjamin Dutta](https://github.com/Benjamindutta)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Harsh Kumar](https://github.com/harshk-codes)
 - [Saravana Kumar](https://github.com/saravana4yu)
