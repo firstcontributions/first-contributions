@@ -172,6 +172,7 @@
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
 - [Brahim Ajakak](https://github.com/ajaxbo360)
 - [Shweta](https://github.com/shwet-aaa)
+- [Dhairya Modi](https://github.com/dhairyam2002/)
 - [Elias Howell](https://github.com/eliashowell28)
 - [Ayush Raj](https://github.com/imyoungsparda)
 - [BigRad1 Elgusbi](https://github.com/rsmg10)
