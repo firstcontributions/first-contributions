@@ -1549,6 +1549,7 @@ BM
 - [Lucas Köpke](https://github.com/meislucas)
 - [Liam Platt-Young](https://github.com/liamnpynz)
 - [Henry Okam](https://github.com/mchenryspagg)
+- [Roxanne Hoggan](https://github.com/roxannehoggan)
 - [Tuan Anh](https://github.com/ez2do)
 - [General Kenobi](https://github.com/snowboulder)
 - [Naclazzy](https://github.com/Naclazzy)
