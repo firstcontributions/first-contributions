@@ -3548,6 +3548,7 @@
 - [Emeka Chukwudozie](https://github.com/chukwudozie)
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Carmen Amba](https://github.com/Carmenbelle)
+- [Edgar Hildebrandt Rojo](https://github.com/ehildebrandtrojo)
 - [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
 - [Mohamed Lahyane](https://github.com/Anir-Ln)
 - [Yicheng Xia](https://github.com/xyc330)
