@@ -32,6 +32,7 @@
 - [Shivam Gupta](https://github.com/rawnge)
 - [Vedant Mistry](https://github.com/vibhatsu08)
 - [Ishika Jain](https://github.com/Ishikajain02)
+- [Zijie Zhou](https://github.com/ZhouZijie-BIT)
 - [Golam Mostofa Rajon](https://github.com/rajon111)
 - [Srihari S](https://github.com/SSHSRN)
 - [Suhani Garg](https://github.com/suhanigarg29)
