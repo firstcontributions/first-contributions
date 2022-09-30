@@ -4,6 +4,7 @@
 -[Carlo Tran] (https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
+- [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Sam Candela](https://github.com/samc18)
 - [Zhan Guang](https://github.com/zhan3333)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
