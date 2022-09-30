@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Watts](https://github.com/Watts8bits)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
@@ -12,7 +13,7 @@
 - [Sam Candela](https://github.com/samc18)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
-- [Banana Paul] (https://github.com/pawel045)
+- [Banana Paul](https://github.com/pawel045)
 - [Sayan Roy](https://github.com/D3FaltXD)
 - [Utkarsh Ambetkar](https://github.com/UTKARSH552)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
