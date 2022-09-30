@@ -4004,6 +4004,7 @@
 - [Rajat Rai](https://github.com/therajatrai)
 - [Yuvraj](https://github.com/YUVRAJg37)
 - [ZM](https://github.com/zm)
+- [Dhairya Patel] (https://github.com/patel-dhairya)
 - [Shubham Singh Kalyanwat](https://github.com/shubham16598)
 - [Suzy](https://github.com/suzy97)
 - [Hina](https://github.com/hmmalic/hmmalic)
@@ -4138,5 +4139,6 @@
 - [ritam77](https://github.com/ritam77)
 - [aHudspith](https://github.com/aHudspith)
 - [interrobang](https://github.com/Interrobang01)
+
 
 <!-- prettier-ignore-end -->
