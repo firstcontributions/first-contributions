@@ -21,6 +21,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Jian Sun](https://github.com/zjiansun)
 - [Loick Tian](https://github.com/loickengit)
+- [Olabisi Adesujo](https://github.com/Great-B)
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
 - [Yahya Sghayron](https://github.com/yahyasghayron)
