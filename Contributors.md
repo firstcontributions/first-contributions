@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 -[Carlo Tran] (https://github.com/medicalanthrax)
+- [Rafael Magalhães](https://github.com/rafar-204)
 - [Chad Perry](https://github.com/clewisperry)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
