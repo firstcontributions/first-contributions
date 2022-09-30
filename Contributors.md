@@ -4127,6 +4127,7 @@
 - [Maxime Gonçalves](https://github.com/MaximeGoncalves)
 - [JunYeop Kim](https://github.com/asulater)
 - [satan4iel](https://github.com/satan4iel)
+- [ryan](https://github.com/RyanSyen)
 - [sarbajitmohanty](https://github.com/sarbajitmohanty)
 - [sluxzer](https://github.com/sluxzer)
 - [theshook](https://github.com/theshook)
