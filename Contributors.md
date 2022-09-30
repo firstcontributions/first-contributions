@@ -13,6 +13,7 @@
 - [Chris Gorman] (https://github.com/cyrii)
 - [Harsh Mohan Yadav](https://github.com/InsanelyHarsh)
 - [Yaswanth Teja](https://github.com/yaswanthteja)
+- [Ki hyun Lee](https://github.com/daveg7lee)
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Jian Sun](https://github.com/zjiansun)
 - [Loick Tian](https://github.com/loickengit)
