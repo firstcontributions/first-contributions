@@ -51,6 +51,7 @@
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
 - [Qashif peer](https://github.com/qashifpeer)
+- [Razan Joshi](https://github.com/razanjoshi)
 - [Jayesh Joshi](https://github.com/jjoshi1812)
 - [Samaresh Das](https://github.com/Samaresh-Das)
 - [Yash Nirmal](https://github.com/yashnirmal)
