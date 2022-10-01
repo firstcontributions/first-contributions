@@ -1365,6 +1365,6 @@
 - [InstallEmployee](https://github.com/installemployee)
 - [VinWare](https://github.com/VinWare)
 - [Manthan Keim](https://github.com/manthankeim)
-
+- [Douglas Evaristo](https://github.com/douglasevaristo)
 
 <!-- prettier-ignore-end -->
