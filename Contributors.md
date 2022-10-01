@@ -4212,6 +4212,6 @@
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
 - [Raul Gon](bigman)
-_ [Arun K Nair](codemaker)(https://github.com/AKN414-IND)
+_ [Arun K Nair](https://github.com/AKN414-IND)
 
 <!-- prettier-ignore-end -->
