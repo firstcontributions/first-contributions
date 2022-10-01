@@ -12,6 +12,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [Ajay Singh](https://github.com/Aj052001)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
@@ -94,7 +95,6 @@
 - [Vibin reji](https://github.com/Vibinreji)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Dhruv Jain](https://github.com/dhruvjain896)
-- [Harsh Raj](https://github.com/developerHarshRaj)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Lakkimsetti Sai Yashwanth](https://github.com/YashwanthLakkimsetti)
