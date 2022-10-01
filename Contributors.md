@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
-
+- [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
@@ -152,7 +152,8 @@
 - [Shounak Das](https://github.com/dasShounak)
 - [Felination](https://github.com/FelinationGX)
 - [Bugz](https://github.com/bugz8)
-- [Romeo](https://github.com/PhyoThantKo123)
+- [Romeo](https://github.com/PhyoThantKo1
+- [Yaduttam Pareek] (https://github.com/Yaduttam95)23)
 - [afshintek](https://github.com/afshintek)
 - [ShawnSargent](https://github.cpm/ShawnSargent)
 - [mfbevan](https://github.com/mfbevan)
