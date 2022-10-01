@@ -1260,7 +1260,7 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
--[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
-
+- [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
+- [Jay Anand](https://github.com/notJAYanand)
 
 <!-- prettier-ignore-end -->
