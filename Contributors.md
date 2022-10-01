@@ -65,6 +65,7 @@
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
 - -luxoreks
+- [Juadeb Gabriel](https://github.com/Juadebfm)
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Pravar Anu](https://github.com/PravarAnu)
 - [Joao Crulhas](https://github.com/joaoCrulhas)
