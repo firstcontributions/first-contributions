@@ -197,6 +197,7 @@
 - [Pancho AM](https://github.com/Mauratay)
 - [Aatmik Sanghvi](https://github.com/Aatmik-Coder)
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
+- [Vaibhav Raj 👆👍👨‍💻](https://github.com/vaibhavraj-exe)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
 - [Sam Meyer](https://github.com/Smeyer025)
 - [Zagham Nadeem](https://github.com/zagham-nadeem)
