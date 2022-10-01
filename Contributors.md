@@ -8,6 +8,7 @@
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
+- [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Ayomide Victor](https://github.com/midevictor/)
