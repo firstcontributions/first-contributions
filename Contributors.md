@@ -1319,6 +1319,7 @@
 - [Himanshu](https://github.com/him2016)
 - [Aman](https://github.com/Aman149)
 - [Ritesh Kumar](https://github.com/55ritesh)
+- [Aditya Sharma](https://github.com/adityassharma-ss)
 
 
 <!-- prettier-ignore-end -->
