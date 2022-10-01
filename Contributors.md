@@ -10,6 +10,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [JATIN SAINI](https://github.com/yunocrown)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
