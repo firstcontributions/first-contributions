@@ -722,6 +722,7 @@
 - [Kyaw Kyaw Oo](https://github.com/kyawoo-23)
 - [Ari wolf](http://github.com/ariw96)
 - [Mathai Mathew](http://github.com/mathewp88)
+- [CodeGoGetter](https://github.com/CodeGoGetter)
 - [Cem Sanga](https://github.com/cemsanga)
 - [Enoch Akinbode](https://github.com/iamenochlee)
 - [Tajul Islam Refath](https://github.com/tajul-islam-refath)
@@ -1269,6 +1270,5 @@
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
 -[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
--[CodeGoGetter](https://github.com/CodeGoGetter)
 
 <!-- prettier-ignore-end -->
