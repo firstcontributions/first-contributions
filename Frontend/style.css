@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    
+    .background{
+    background:url(bg.jpeg);
+    background-size: cover;
+    background-repeat:no repeat;
+    }
+    
+    .container-fluid{
+    margin-left: 0;
+    padding-left:0;
+    
+    }
+    
+    
+    h1{
+    margin-top:135px;
+    text-align: center;
+    font-size: 100px;
+    color:aqua;
+    }
+    h3{
+    text-align: center;
+    font-size: 60px;
+    color:aqua;
+    }
+    
+
+    .container-fluid a{
+    margin-left:33pc;
+    margin-right:33pc;
+    display: flex;
+    justify-content: center;
+    color:black;
+    text-decoration: none;
+    background: transparent;
+    padding: 10px 35px;
+    border-radius: 50px;
+    }
+    
+    a:hover{
+    color:white;
+    border-color: blue;
+    background: blue;
+    }
