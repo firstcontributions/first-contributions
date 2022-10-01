@@ -690,6 +690,7 @@
 - [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
+- [Teresa](https://github.com/Perasperad)
 - [Vidhya Lakshmi](https://github.com/vid-27)
 - [Pratik Mamdapure](https://github.com/Pratikmamdapure)
 - [Devarsh Patel](https://github.com/Devarsh010)
