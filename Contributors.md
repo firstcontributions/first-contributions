@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 - [CyberVarun](https://github.com/CyberVarun)
 - [Houcem Testouri](https://github.com/testourii)
@@ -109,6 +110,7 @@
 - [Kalpit Shah](https://github.com/kalpitshah2311)
 - [Reemyos](https://github.com/Reemyos)
 - [Saksham](https://github.com/saxam0)
+- [Soumya](https://github.com/Im-Soumya)
 - [kalpasuraweera](https://github.com/kalpasuraweera)
 - [Dev Bhandari](https://github.com/D-z-V)
 - [Aryan Kumar](https://github.com/THE-AryanKumar)
