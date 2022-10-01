@@ -126,6 +126,7 @@
 - [JoydeepMallick](https://github.com/JoydeepMallick)
 - [Vedant Mistry](https://github.com/vibhatsu08)
 - [Ishika Jain](https://github.com/Ishikajain02)
+- [Raghav Babbar](https://github.com/BabbarRaghav)
 - [Delali Dogbevi](https://github.com/fodela)
 - [Simon Gideon Mnayi](https://github.com/SimonGideon)
 - [Zijie Zhou](https://github.com/ZhouZijie-BIT)
