@@ -1961,6 +1961,7 @@
   anokh
 - [Alin Mercasi](https://github.com/alinmercasi)
 - [itoi10](https://github.com/itoi10)
+- [Koladele Olaitan](https://github.com/publikphigor)
 - [Chiemelie Chinweuba](https://github.com/Emelie4)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Gaurav Nahata](https://github.com/GauravN123)
