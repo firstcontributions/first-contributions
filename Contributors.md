@@ -4306,5 +4306,6 @@
 - [Atharv Parlikar](https://github.com/atharvParlikar)
 - [coineem123](https://github.com/coineem123)
 - [hsteinmueller](https://github.com/hsteinmueller)
+- [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 
 <!-- prettier-ignore-end -->
