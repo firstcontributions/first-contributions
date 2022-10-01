@@ -375,6 +375,7 @@
 - [Sameer Choudhary](https://github.com/choudhary-sameer)
 - [Paul Osinowo](https://github.com/iyinolu)
 - [Josejavier Navarro](https://github.com/Edret0)
+- [JastinXyz](https://github.com/JastinXyz)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Aniket](https://github.com/Aniketbhatia)
 - [Fernando Iván Padin](https://github.com/Fipadin)
