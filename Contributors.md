@@ -1316,6 +1316,7 @@
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
 - [Aman](https://github.com/Aman149)
+- [Ritesh Kumar](https://github.com/55ritesh)
 
 
 <!-- prettier-ignore-end -->
