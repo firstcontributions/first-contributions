@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+- [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
@@ -1246,6 +1247,7 @@
 - [Shubham Singla](https://github.com/2001shubham)
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
 - [Yashwant Aditya](https://github.com/yashwantaditya009)
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
 - [Prasad Patil](https://github.com/prasadpatil05)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
@@ -1253,8 +1255,10 @@
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
+- [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
-- [Yashita Namdeo](https://github.com/yashitanamdeo)
+- [Kilian Braquin](https://github.com/kilianbraquin)
+-[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 
 
 <!-- prettier-ignore-end -->
