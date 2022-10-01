@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
