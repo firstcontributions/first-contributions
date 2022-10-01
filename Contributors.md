@@ -26,6 +26,7 @@
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
+- [Tautvydas Karvelis](https://github.com/Tautve)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
