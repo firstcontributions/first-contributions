@@ -19,6 +19,7 @@
 - [Dafa Armanto](https://github.com/dafaarmanto)
 - [Qashif peer](https://github.com/qashifpeer)
 - [Samaresh Das](https://github.com/Samaresh-Das)
+- [Yash Nirmal](https://github.com/yashnirmal)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [Navya S Raj](https://github.com/navyasraj02)
 - [Shubh Rai](https://github.com/shubhrai2811)
