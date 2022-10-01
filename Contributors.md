@@ -1,9 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [prashant Kumar](https://github.com/prashantkr29)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
-- [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
