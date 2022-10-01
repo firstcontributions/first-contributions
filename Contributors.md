@@ -1335,11 +1335,11 @@
 - [Uday Bhamre](https://github.com/usvibrus)
 - [Anuja Wijewardana](https://github.com/Anuja-2000)
 - [Aman](https://github.com/Aman149)
+- [Anshul](https://github.com/Anshul-13J)
 - [Ritesh Kumar](https://github.com/55ritesh)
 - [Aditya Sharma](https://github.com/adityassharma-ss)
 - [Robin Singh](https://github.com/RobinSatoru)
 - [Vikas Tripathi](https://github.com/ervikasji)
-
 
 
 <!-- prettier-ignore-end -->
