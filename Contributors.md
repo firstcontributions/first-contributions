@@ -13,6 +13,7 @@
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
 - [Arunava Ghosh](https://github.com/its-ag)
+- [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 - [Kamya](https://github.com/Kamya90)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
