@@ -89,6 +89,7 @@
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [ChangIL Mo](https://github.com/mochangil)
+- [Sanket Jaiswal](https://github.com/SanketJ29)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Jugurtha K](https://github.com/jugurthak)
   [Katy Hagen](https://github.com/katyhagen)
