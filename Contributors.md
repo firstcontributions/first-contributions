@@ -1331,6 +1331,7 @@
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
+- [Saumit Dinesan](https://github.com/justsaumit)
 - [Vilas Sonje](https://github.com/SonjeVilas)
 - [Uday Bhamre](https://github.com/usvibrus)
 - [Anuja Wijewardana](https://github.com/Anuja-2000)
