@@ -1,11 +1,12 @@
 # Contributors
 
-<!-- prettier-ignore-start -->'
+<!-- prettier-ignore-start -->
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
+- [Dhananjay Patel](https://github.com/dhanu0510)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Fsubject](https://github.com/Fsubject)
