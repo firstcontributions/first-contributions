@@ -1283,6 +1283,7 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- [Ankit Agarwal](https://github.com/ankitaga27)
 - [Shubham Kumar Singh](https://github.com/Shubh723)
 - [Ujjwal Jindal](https://github.com/jindalujjwal0720)
 - [Dev](https://github.com/Dev2003203)
