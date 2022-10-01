@@ -132,6 +132,7 @@
 - [Vikram Kumar](https://github.com/vikramkbgs)
 - [Maple Syrup Web](https://github.com/MapleSyrupWeb)
 - [Calmius](https://github.com/calmius)
+- [bbtbir](https://github.com/bbtbir)
 - [Outsider](https://github.com/days0102)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
@@ -4232,10 +4233,13 @@
 - [bhav-khurana](https://github.com/bhav-khurana)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
+- [Aman Kumar](https://github.com/amankumarkeshu)
 - [Raul Gon](bigman)
 - [Vipanshu Suman](https://github.com/vipu18)
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
 - [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
+- [codewithdev] (https://github.com/codewithdev)
+- [tbsschroeder] (https://github.com/tbsschroeder)
 
 <!-- prettier-ignore-end -->
