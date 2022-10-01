@@ -155,6 +155,7 @@
   [Katy Hagen](https://github.com/katyhagen)
 - [James Gore](http://github.com/thejamesgore)
 - [Amarjeet Kumar](https://github.com/Amarjeet-Kumar1)
+- [Vinayak Nigam](https://github.com/louremipsum)
 - [Sebastian Cruz](https://github.com/sebacruz1)
 - [Bipin Chaudhary](https://github.com/Bipin-Chaudhary)
 - [Abhiraj N](https://github.com/abhirajn)
