@@ -4338,6 +4338,7 @@
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 - [Joel Mathew V](github.com/JoelMathewV)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
+- [Amit Batra](https://github.com/amitbatra31)
 - [M. Baharuddin Yusuf](https://github.com/ByeByu07)
 - [Aksel Telle](https://github.com/akseltelle)
 
