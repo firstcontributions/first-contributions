@@ -4311,6 +4311,7 @@
 - [mewxz02](https://github.com/mewxz029/)
 - [Debjit Bhowal](https://github.com/debjit-bw)
 - [ramadanWasfi](https://github.com/ramadanWasfi)
+- [Hector Pasarin](https://github.com/hectorpasarin)
 - [firatvural](https://github.com/firatvural)
 - [melscoop](https://github.com/melscoop)
 - [SankalpBhatnagar](https://github.com/Doraemon23)
