@@ -119,6 +119,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Bernardina Maldonado] (https://github.com/btlmaldonado530)
 - [Wilson Le](https://github.com/WilsonLe)
+- [Vishnu Kota](https://github.com/Vishnu-Kota)
 - [Jian Sun](https://github.com/zjiansun)
 - [Nandini Gangadharan](https://github.com/Nandini-13)
 - [Lingeshwaran](https://github.com/lingeshwaran05)
