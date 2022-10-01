@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Matt Black](https://github.com/mblackonline)
@@ -102,6 +103,7 @@
 - [Katya](https://github.com/KatyaPrusakova/)
 - [noonereedus]
 - [Mohini]
+- [Ansari Danish](https://github.com/ansari-danish)
 - [noonereedus]
 - [Vishnu]
 - [Vedant]
