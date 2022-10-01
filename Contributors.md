@@ -427,6 +427,7 @@
 - [Kabir Hossain](https://github.com/kobir1989)
 - [Tyler McDonald 🌎](https://github.com/tyler-mcdonald)
 - [Anirudh](https://github.com/aspiringDev22)
+- [Shashank Singh](https://github.com/Shashank0271)
 - [Kunal Bhavare](https://github.com/kbhavre78)
 - [Berkay Uslu](https://github.com/BerkayUslu)
 - [Kweayon Clark](https://github.com/kwe92)
