@@ -16,6 +16,7 @@
 - Debobani Ghosh
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
+- [Daniel Stai](https://github.com/DanielStai)
 - [Ansh Shori](https://github.com/anshshori2002)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Preetal Shah](https://github.com/pree251)
@@ -67,6 +68,7 @@
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Delali Dogbevi](https://github.com/fodela)
 - [Zijie Zhou](https://github.com/ZhouZijie-BIT)
+- [Thisura Samarakoon](https://github.com/this8)
 - [Golam Mostofa Rajon](https://github.com/rajon111)
 - [Srihari S](https://github.com/SSHSRN)
 - [Suhani Garg](https://github.com/suhanigarg29)
@@ -192,6 +194,7 @@
 - [Francesco Di Trapani](https://github.com/dtfrancesco)
 - [Tarandeep Singh](https://github.com/taran11313)
 - [Riya Sharma](https://github.com/riyasharma18)
+- [Harshul Jain](https://github.com/Harshul02)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sagar Sethi](https://github.com/sethisagar)
 - [Sebastian Richter](https://github.com/gismo1337)
