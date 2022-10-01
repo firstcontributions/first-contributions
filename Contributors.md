@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 - [CyberVarun](https://github.com/CyberVarun)
+- [Dafa Armanto](https://github.com/dafaarmanto)
 - [Houcem Testouri](https://github.com/testourii)
 - [NikhilMahana](https://github.com/NikhilMahana)
 - [Prabah Prasad Kalita](https://github.com/prabah101)
@@ -3070,6 +3071,7 @@
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
+  MOHAMMAD SHABBIR ALAM
 - [imohdalam](https://github.com/imohdalam)
 - [Shegun Samuel](https://github.com/Shegun-istaken)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
@@ -4231,5 +4233,6 @@
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
 - [Tu TV](https://github.com/tutv/)
+- [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
 
 <!-- prettier-ignore-end -->
