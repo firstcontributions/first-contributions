@@ -116,7 +116,6 @@
 - [Vibin reji](https://github.com/Vibinreji)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Dhruv Jain](https://github.com/dhruvjain896)
-- [Harsh Raj](https://github.com/developerHarshRaj)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Lakkimsetti Sai Yashwanth](https://github.com/YashwanthLakkimsetti)
@@ -1298,6 +1297,7 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Qasim Qlf](https://github.com/qasimqlf)
