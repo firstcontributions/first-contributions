@@ -4231,5 +4231,6 @@
 - [Vipanshu Suman](https://github.com/vipu18)
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
+- [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
 
 <!-- prettier-ignore-end -->
