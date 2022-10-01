@@ -4219,5 +4219,6 @@
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
 - [Raul Gon](bigman)
+- [Vipanshu Suman](https://github.com/vipu18)
 
 <!-- prettier-ignore-end -->
