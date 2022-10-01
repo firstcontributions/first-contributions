@@ -1013,6 +1013,7 @@
 - [Chukwuani Stephen]
 - [Zachary Melson](https://github.com/zmelson)
 - [Brandon Lwe](https://github.com/brandonlwe98)
+- [Nikita Singh](https://github.com/surfacewatering)
 - [Neeraj Wandre](https://github.com/neeraj-wandre)
 - [Alvaro L.](https://github.com/Lawrence4U/)
 - [Swaraj E S]
