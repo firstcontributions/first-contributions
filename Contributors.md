@@ -1263,6 +1263,7 @@
 - [Shubham Singla](https://github.com/2001shubham)
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
 - [Yashwant Aditya](https://github.com/yashwantaditya009)
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
 - [Prasad Patil](https://github.com/prasadpatil05)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
