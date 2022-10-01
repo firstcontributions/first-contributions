@@ -4,6 +4,7 @@
 - [Gelio](https://github.com/bigelio)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
+[Chris Boban V](https://github.com/chrisboban)
 - [Watts](https://github.com/Watts8bits)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
