@@ -4289,5 +4289,6 @@
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
+- [Vikash Kumar](https://github.com/vikashkr-07)
 
 <!-- prettier-ignore-end -->
