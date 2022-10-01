@@ -24,6 +24,7 @@
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
+- [Velvv](https://github.com/Velvv)
 - [Litania Chauke](https://github.com/litaniachauke)
 - [Beela](https://github.com/beela303)  
 - [Vedika](https://github.com/vcvedika)
