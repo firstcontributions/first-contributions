@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+- [Ridho Tadjudin](https://github.com/ridhotadjudin)
+- [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
@@ -10,6 +12,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [JATIN SAINI](https://github.com/yunocrown)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
@@ -51,6 +54,7 @@
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
+-[Aryan Sharma](https://github.com/aryan2909)
 - [Anish Dubey](https://github.com/AnishDubey27)
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
@@ -194,6 +198,7 @@
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
+- [Max Mario Dsouza](https://github.com/Stormshadows)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [rahul Dhiman](https://github.com/rahuld2000)
@@ -1242,5 +1247,7 @@
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
 - [Firdavs K](https://github.com/fir1)
+- [Kazim Sayed](https://github.com/kazimsayed954)
+- [Ankit Verma](https://github.com/ankit-verma-209171)
 
 <!-- prettier-ignore-end -->
