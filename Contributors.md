@@ -154,6 +154,7 @@
 - [Rahul lalwani](https://github.com/rahul09999)
 - [Rafal Szybinski](https://github.com/Rafal-Szybinski)
 - [Yogesh Febyani](https://github.com/yogesh0127)
+- [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Kalpit Shah](https://github.com/kalpitshah2311)
 - [Sanjeev Kumar Bharadwaj](https://github.com/Quanta-of-solitude)
 - [Reemyos](https://github.com/Reemyos)
