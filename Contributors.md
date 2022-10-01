@@ -42,6 +42,8 @@
 - [Tejas Srivastava](https://github.com/MrTejas)
 - David Ajibola
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
+- [Rami Toumi](https://github.com/ratomidev)
+
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Sree chand R](https://github.com/sreechand2002)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
