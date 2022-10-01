@@ -1277,13 +1277,10 @@
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
 - [Yashwant Aditya](https://github.com/yashwantaditya009)
 - [Prasad Patil](https://github.com/prasadpatil05)
-- [Krishnansh Agarwal] (https://github.com/krishnanshagarwal112)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
-- [Firdavs K](https://github.com/fir1)
 - [Kazim Sayed](https://github.com/kazimsayed954)
-- [Md. Solaiman Shohag](https://github.com/cseshohag)
 - [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Harsh Singh](https://github.com/lives-in-virgosupercluster)
@@ -1312,7 +1309,8 @@
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
 - [Rohit Jindamwar](https://github.com/rohit85-it)
+- [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
 
-<!-- prettier-ignore-end -->
 
+<!-- prettier-ignore-end -->
