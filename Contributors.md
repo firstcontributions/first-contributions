@@ -4318,6 +4318,7 @@
 - [SankalpBhatnagar](https://github.com/Doraemon23)
 - [ifeanyi chima](https://github.com/masterifeanyi)
 - [xubai2001](https://github.com/xubai2001)
+- [blackmanjack](https://github.com/blackmanjack)
 - [bhav-khurana](https://github.com/bhav-khurana)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Farizul Hammi](https://github.com/farizulhammi)
