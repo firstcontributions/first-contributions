@@ -99,6 +99,7 @@
 - [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
 - [Hemant Maurya](https://github.com/hemantmaurya344)
+- [Marion Judy](https://github.com/marionjudy13)
 - [Imam Suyuti](https://github.com/imams12)
 - [Ansh Goyal](https://github.com/Ansh1693)
 - [Anshuman Rout](https://github.com/anshuman0123)
@@ -156,6 +157,7 @@
 - [Vishesh Kumar Mishra](https://github.com/texastiger9098)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
+- [Abdulbaki A. Suraj](https://github.com/codelikesuraj)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [James Oyebade](https://github.com/Bron-analytics)
 - [Ans B ](https://github.com/quarantineBot)
@@ -1199,6 +1201,7 @@
 - [Chung-Huu-Tin](https://github.com/TinChung41)
 - [Aris Munandar](https://github.com/ArisMunandar13)
 - [Borhan Uddin](https://github.com/borhan-dev/)
+- [Aliannea Sherman](https://github.com/xistingsherman)
 - [Mahamat Adoum](https://github.com/MahamatTech)
 - [Hong-Phuc Dang](https://github.com/hongphucdang1)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
@@ -1314,5 +1317,4 @@
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
 - [Vilas Sonje](https://github.com/SonjeVilas)
-
 <!-- prettier-ignore-end -->
