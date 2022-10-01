@@ -462,6 +462,7 @@
 - [Nile Roth](https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
 - [Lysander Pitu](https://github.com/Lys4nder)
+- [Owen Kane] (https://github.com/owka54)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [James Oyebade](https://github.com/Bron-analytics)
