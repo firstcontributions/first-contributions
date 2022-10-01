@@ -3921,6 +3921,7 @@
 - [Natalie Maronas](https://github.com/maronasn)
 - [Nika Samadalashvili](https://github.com/nsamadalashvili)
 - [Thomas Fai](https://github.com/tfai8308)
+- [Ricardo Cabreros](https://github.com/crimsonedge98)
 - [Evan Zhang](https://github.com/evanzh15)
 - [Lauren Prieto](https://github.com/lauren1117)
 - [Julie Maricic-Detweiler]
