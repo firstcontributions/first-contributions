@@ -153,6 +153,7 @@
 - [Vishesh Kumar Mishra](https://github.com/texastiger9098)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
+- [Abdulbaki A. Suraj](https://github.com/codelikesuraj)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
 - [James Oyebade](https://github.com/Bron-analytics)
 - [Ans B ](https://github.com/quarantineBot)
