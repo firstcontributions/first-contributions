@@ -3,6 +3,7 @@
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
+- [Qashif peer](https://github.com/qashifpeer)
 - [Houcem Testouri](https://github.com/testourii)
 - [Jonathan Meza](https://github.com/jonma0107)
 - [NikhilMahana](https://github.com/NikhilMahana)
