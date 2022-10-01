@@ -51,6 +51,7 @@
 - baba
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Pravar Anu](https://github.com/PravarAnu)
+- [Joao Crulhas](https://github.com/joaoCrulhas)
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Dhruv Jain](https://github.com/dhruvjain896)
