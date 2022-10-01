@@ -76,6 +76,7 @@
 - [Gelio](https://github.com/bigelio)
 - [Velvv](https://github.com/Velvv)
 - [Litania Chauke](https://github.com/litaniachauke)
+- [Michaella Rodriguez] (https://github.com/michaella23)
 - [Arman Ali Khan](https://github.com/Arman-ali-khan-786)
 - [ThisisGenuine](https://github.com/ThisisGenuine)
 - [Beela](https://github.com/beela303)
