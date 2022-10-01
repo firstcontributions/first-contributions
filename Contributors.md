@@ -694,6 +694,7 @@
 - [Melvin Jones Repol](https://github.com/mrepol742)
 - [Ayomide Ajayi](https://github.com/ayo-ajayi)
 - [Eboweme Ayo](https://github.com/lebrin-Ay)
+- [Vaibhav Batra](https://github.com/GitBatra)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Harsh Walia](https://github.com/waliaharsh74)
 - [Aditya Raj](https://github.com/rajaditya1306)
