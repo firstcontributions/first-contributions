@@ -4233,5 +4233,6 @@
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
 - [Abhishek Prasad](https://github.com/abhishekprasad2384)
-- 
+- [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
+
 <!-- prettier-ignore-end -->
