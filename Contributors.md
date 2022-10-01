@@ -14,6 +14,7 @@
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
+- [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
 - [Ishan Katoch](https://github.com/ishan-1010)
