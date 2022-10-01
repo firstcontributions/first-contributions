@@ -37,6 +37,7 @@
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Jacob Reid](https://github.com/z4nzib4r)
+- [AyushJain](https://github.com/AyushJain001)
 - [Sam Candela](https://github.com/samc18)
 - [Hilmi Mubarok](https://github.com/hilmimubarok)
 - [Blake Boston](https://github.com/bboston2008)
