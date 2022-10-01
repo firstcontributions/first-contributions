@@ -191,6 +191,7 @@
 - [Francesco Di Trapani](https://github.com/dtfrancesco)
 - [Tarandeep Singh](https://github.com/taran11313)
 - [Riya Sharma](https://github.com/riyasharma18)
+- [Harshul Jain](https://github.com/Harshul02)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sagar Sethi](https://github.com/sethisagar)
 - [Sebastian Richter](https://github.com/gismo1337)
