@@ -26,6 +26,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
@@ -531,7 +532,6 @@
 - [Melissa Cheng](https://github.com/melissaAcheng)
 - [Loren-Jahan](https://github.com/Loren)
 - [Chiranjeev Veer Srivastava](https://github.com/GeekGuy-29)
-- [Niclas Tanskanen](https://github.com/niclastanskanen)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
 - [Natalia Chotza](https://github.com/NataliaChotza)
