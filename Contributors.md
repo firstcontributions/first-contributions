@@ -27,6 +27,7 @@
 - [Watts](https://github.com/Watts8bits)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
+- David Ajibola
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Sree chand R](https://github.com/sreechand2002)
