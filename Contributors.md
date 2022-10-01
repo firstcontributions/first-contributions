@@ -1259,6 +1259,6 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
-
+- [Archit Jain](https://github.com/architjain2002)
 
 <!-- prettier-ignore-end -->
