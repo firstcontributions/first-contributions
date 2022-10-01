@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Dixit Tilaji](https://github.com/dixitt5)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
@@ -4237,6 +4238,5 @@
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
 - [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
-- [codewithdev] (https://github.com/codewithdev)
 
 <!-- prettier-ignore-end -->
