@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
@@ -13,6 +14,7 @@
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
+- [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
 - [Ishan Katoch](https://github.com/ishan-1010)
@@ -26,6 +28,7 @@
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
 - [Piyush Srivastava](https://github.com/piyush-sri)
+- Kipkoech Sang
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
 - [Trista L. Pollard](https://github.com/tlanettepollard)
@@ -530,6 +533,7 @@
 - [Melissa Cheng](https://github.com/melissaAcheng)
 - [Loren-Jahan](https://github.com/Loren)
 - [Chiranjeev Veer Srivastava](https://github.com/GeekGuy-29)
+- [Niclas Tanskanen](https://github.com/niclastanskanen)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
 - [Natalia Chotza](https://github.com/NataliaChotza)
@@ -1323,9 +1327,12 @@
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
+- [Anuja Wijewardana](https://github.com/Anuja-2000)
 - [Aman](https://github.com/Aman149)
 - [Ritesh Kumar](https://github.com/55ritesh)
 - [Aditya Sharma](https://github.com/adityassharma-ss)
+- [Robin Singh](https://github.com/RobinSatoru)
+- [Vikas Tripathi](https://github.com/ervikasji)
 
 
 <!-- prettier-ignore-end -->
