@@ -1291,6 +1291,7 @@
   [Conner Murowchick]
   [Lesley Kimutai](https://github.com/Leskim)
   [Ana212dev]
+- [Melvin](https://github.com/doctype-melvin)
 - [Paul Mazzia]
 - [Vikas](https://github.com/venkatavikas69)
 - [Meet](https://github.com/MeetH15)
