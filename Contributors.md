@@ -20,6 +20,7 @@
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Prabincankod](https://github.com/prabincankod)
 - [AADI0009](https://github.com/AADI0009)
+- [CeeKay](https://github.com/CeeKayTech)
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
