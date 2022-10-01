@@ -1265,6 +1265,6 @@
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
-
+- [Ujjwal Jindal](https://github.com/jindalujjwal0720)
 
 <!-- prettier-ignore-end -->
