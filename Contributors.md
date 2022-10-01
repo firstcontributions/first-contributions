@@ -128,6 +128,7 @@
 - [Celia Bruner](https://github.com/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
+- [Vivek Kumar Singh](https://github.com/vivekthedev)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
