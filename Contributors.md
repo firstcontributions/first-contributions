@@ -1,5 +1,7 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
+- [Vinayak Nigam](https://github.com/louremipsum)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
