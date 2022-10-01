@@ -4329,6 +4329,7 @@
 - [Vaishnavi Tripathi](https://github.com/vaishnavi1011)
 - [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 - [coineem123](https://github.com/coineem123)
+- [thatjamesemo](https://github.com/thatjamesemo)
 - [hsteinmueller](https://github.com/hsteinmueller)
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
