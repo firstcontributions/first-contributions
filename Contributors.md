@@ -51,7 +51,7 @@
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
 - [Watts](https://github.com/Watts8bits)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
-- [Tejas Srivastava](https://github.com/MrTejas)
+- [Tejas Srivastav](https://github.com/MrTejas)
 - David Ajibola
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Arunava Ghosh](https://github.com/its-ag)
