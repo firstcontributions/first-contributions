@@ -3935,6 +3935,7 @@
 - [Sien Long Lim](https://github.com/sienlonglim)
 - Victor Immanuel
 - [Tyler Douberly](https://github.com/TylerDouberly)
+- [Leon Repalust](https://github.com/RepalustL)
 - [Jacob Nakamura](https://github.com/JSwizzleDizzle)
 - [Marius Malinauskas](https://github.com/marius-ms)
 - [Jenifer Hammond](https://github.com/Frinjee)
