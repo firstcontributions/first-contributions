@@ -280,6 +280,7 @@
 - [Gustavo Cassalho](https://github.com/Hasllow)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
+- [Aniket Kumar](https://github.com/Kraniket901)
 - [Neha Muthreja](https.//github.com/neha0003)
 - [Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
