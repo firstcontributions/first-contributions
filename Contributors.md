@@ -1298,6 +1298,7 @@
 - [CodewithDinesh](https://github.com/codewithdinesh)
 - [Ainara Machargo](https://github.com/carbonara-mac)
 - [Kiana Kermani](https://github.com/kianakermani)
+- [Jeremia Axel](https://github.com/jeremiaaxel)
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
 - [Matthew Vinca](https://github.com/mattyvinx)
