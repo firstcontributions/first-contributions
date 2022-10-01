@@ -9,6 +9,7 @@
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
+- [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [Houcem Testouri](https://github.com/testourii)
 - [Jonathan Meza](https://github.com/jonma0107)
 - [NikhilMahana](https://github.com/NikhilMahana)
