@@ -6,6 +6,7 @@
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Watts](https://github.com/Watts8bits)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
+- [Frankie Cao](http://github.com/FrankieCao1)
 - [Tejas Srivastava](https://github.com/MrTejas)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Kamya](https://github.com/Kamya90)
