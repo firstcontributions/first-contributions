@@ -1254,6 +1254,7 @@
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
 
 
 <!-- prettier-ignore-end -->
