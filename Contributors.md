@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 - [Fsubject](https://github.com/Fsubject)
 - [Nisarg Shah](https://github.com/nisarg0606)
@@ -27,6 +28,7 @@
 - [Tejas Srivastava](https://github.com/MrTejas)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Arunava Ghosh](https://github.com/its-ag)
+- [Sree chand R](https://github.com/sreechand2002)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 - [Jonathan Zopf](https://github.com/JonathanZopf)
 - [Kamya](https://github.com/Kamya90)
