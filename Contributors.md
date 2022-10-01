@@ -1241,6 +1241,6 @@
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
-
+- [Firdavs K](https://github.com/fir1)
 
 <!-- prettier-ignore-end -->
