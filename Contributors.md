@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Nisarg Shah](https://github.com/nisarg0606)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
