@@ -1266,10 +1266,11 @@
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
+- [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
--[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+
 
 
 <!-- prettier-ignore-end -->
