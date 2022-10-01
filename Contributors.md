@@ -886,7 +886,6 @@
 - [Rohit](https://github.com/rohitsasi720)
 - [Aleksa](https://github.com/aleksastojsic)
 - [RaphaelJS](https://github.com/RaphaelJ-S)
-- [Max Hvesser](https://github.com/maxhvesser)
 - [RahatImroz](https://github.com/RahatAhmed171)
 - [Richard Panzera](https://github.com/richardpanzera)
 - [Rakhshan Ahmad](https://github.com/Rakhshan90)
@@ -1235,6 +1234,7 @@
 - [Santhosh Pai](https://github.com/techtuner)
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Thrishul Sherigar](https://github.com/3shool)
+- [Nitesh Reddy](https://github.com/niteshkumar257)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
 - [Vaishnavi Tripathi](https://github.com/vaishnavi1011)
@@ -1270,6 +1270,7 @@
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
 -[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+
 
 
 <!-- prettier-ignore-end -->
