@@ -4316,5 +4316,5 @@
 - [hsteinmueller](https://github.com/hsteinmueller)
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
-
+- [Amit Batra](https://github.com/amitbatra31)
 <!-- prettier-ignore-end -->
