@@ -7,7 +7,6 @@
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
-- [Rishikesh Shinde](https://github.com/rdshinde)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Fsubject](https://github.com/Fsubject)
@@ -1267,7 +1266,7 @@
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
--[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+-[Dev](https://github.com/Dev2003203)
 
 
 <!-- prettier-ignore-end -->
