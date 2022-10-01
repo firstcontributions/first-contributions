@@ -10,6 +10,7 @@
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [darmozrac](https://github.com/darmozrac)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
+- [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
