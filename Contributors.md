@@ -1201,6 +1201,7 @@
 - [Chung-Huu-Tin](https://github.com/TinChung41)
 - [Aris Munandar](https://github.com/ArisMunandar13)
 - [Borhan Uddin](https://github.com/borhan-dev/)
+- [Aliannea Sherman](https://github.com/xistingsherman)
 - [Mahamat Adoum](https://github.com/MahamatTech)
 - [Hong-Phuc Dang](https://github.com/hongphucdang1)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
@@ -1317,5 +1318,6 @@
 - [Himanshu](https://github.com/him2016)
 - [Aman](https://github.com/Aman149)
 - [Anshul](https://github.com/Anshul-13J)
+- [Ritesh Kumar](https://github.com/55ritesh)
 
 <!-- prettier-ignore-end -->
