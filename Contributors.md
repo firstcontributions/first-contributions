@@ -1233,6 +1233,7 @@
 - [Prasad Patil](https://github.com/prasadpatil05)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
+- [George Pires](https://github.com/GeorgePires)
 
 
 <!-- prettier-ignore-end -->
