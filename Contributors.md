@@ -4331,6 +4331,7 @@
 - [Armaan Khan](https://github.com/AkP2809)
 - [Aman Kumar](https://github.com/amankumarkeshu)
 - [Raul Gon](bigman)
+- [Jayvie Amurao](https://github.com/jayvie/)
 - [Chugil C](https://github.com/ChugilC)
 - [Sai La Min Oak](gay)
 - [Vipanshu Suman](https://github.com/vipu18)
