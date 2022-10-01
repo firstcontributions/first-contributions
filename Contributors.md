@@ -19,6 +19,7 @@
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
+- [Muhammad Adnan Ikram](https://github.com/AdnanIkram)
 - [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
