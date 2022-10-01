@@ -163,6 +163,7 @@
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
+- [Hudson Chromy](https://github.com/hudsonchromy)
 - [Adyasha Samal](https://github.com/Adyasha28)
 - [Nayana Pardhekar](https://github.com/nayanapardhekar)
 - [Mridul Goel](https://github.com/mg-0000)
