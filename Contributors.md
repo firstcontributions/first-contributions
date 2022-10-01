@@ -4357,6 +4357,7 @@
 - [Tanmay Chakrabarty](https://github.com/tanmaychk)
 - [Aksel Telle](https://github.com/akseltelle)
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
+- [Doper](https://github.com/dopamine-joker)
 
 
 <!-- prettier-ignore-end -->
