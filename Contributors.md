@@ -1331,6 +1331,7 @@
 - [Ritesh Kumar](https://github.com/55ritesh)
 - [Aditya Sharma](https://github.com/adityassharma-ss)
 - [Robin Singh](https://github.com/RobinSatoru)
+- [Vikas Tripathi](https://github.com/ervikasji)
 
 
 <!-- prettier-ignore-end -->
