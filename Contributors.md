@@ -98,6 +98,7 @@
 - [Galih Indra Firmansyah](https://github.com/galihif)
 - [Daniele Vilela](https://github.com/danielevilela)
 - [Shivam Gupta](https://github.com/rawnge)
+- [JoydeepMallick](https://github.com/JoydeepMallick)
 - [Vedant Mistry](https://github.com/vibhatsu08)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Delali Dogbevi](https://github.com/fodela)
