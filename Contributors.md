@@ -1286,6 +1286,7 @@
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
 - [Kazim Sayed](https://github.com/kazimsayed954)
+- [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Vishwas Gowda H V ](https://github.com/vishwasgowdahv)
