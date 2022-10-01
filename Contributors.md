@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 - [CyberVarun](https://github.com/CyberVarun)
+- [Dafa Armanto](https://github.com/dafaarmanto)
 - [Houcem Testouri](https://github.com/testourii)
 - [NikhilMahana](https://github.com/NikhilMahana)
 - [Prabah Prasad Kalita](https://github.com/prabah101)
@@ -1290,12 +1291,14 @@
   [Conner Murowchick]
   [Lesley Kimutai](https://github.com/Leskim)
   [Ana212dev]
+- [Melvin](https://github.com/doctype-melvin)
 - [Paul Mazzia]
 - [Vikas](https://github.com/venkatavikas69)
 - [Meet](https://github.com/MeetH15)
 - [CodewithDinesh](https://github.com/codewithdinesh)
 - [Ainara Machargo](https://github.com/carbonara-mac)
 - [Kiana Kermani](https://github.com/kianakermani)
+- [Jeremia Axel](https://github.com/jeremiaaxel)
 - [Thang Le](https://github.com/vortexflame1404)
 - [Mohamed El omary](https://github.com/celomary)
 - [Matthew Vinca](https://github.com/mattyvinx)
@@ -3070,6 +3073,7 @@
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
+  MOHAMMAD SHABBIR ALAM
 - [imohdalam](https://github.com/imohdalam)
 - [Shegun Samuel](https://github.com/Shegun-istaken)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
@@ -4230,6 +4234,7 @@
 - [Vipanshu Suman](https://github.com/vipu18)
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
-- [Anushka Raj](https://github.com/Anushka-codergirl)
+- [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
+
 
 <!-- prettier-ignore-end -->
