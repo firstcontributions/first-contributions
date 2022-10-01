@@ -21,6 +21,7 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
+- [Sanittawan Tan](https://github.com/sanittawan)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
