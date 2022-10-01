@@ -4185,5 +4185,5 @@
 - [ifeanyi chima](https://github.com/masterifeanyi)
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
-
+- [Farizul Hammi](https://github.com/farizulhammi)
 <!-- prettier-ignore-end -->
