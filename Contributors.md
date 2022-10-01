@@ -84,6 +84,7 @@
 - [Rahul lalwani](https://github.com/rahul09999)
 - [Rafal Szybinski](https://github.com/Rafal-Szybinski)
 - [Yogesh Febyani](https://github.com/yogesh0127)
+- [Kalpit Shah](https://github.com/kalpitshah2311)
 - [Reemyos](https://github.com/Reemyos)
 - [Saksham](https://github.com/saxam0)
 - [kalpasuraweera](https://github.com/kalpasuraweera)
