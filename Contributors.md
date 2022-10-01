@@ -351,7 +351,6 @@
 - [Krupa Thumar]
 - [Imran Biswas]
 - [Asyraf Mustaqim]
-- [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [sahil](https://github.com/thesloppyguy)
 - [Pete McMahon]
   [vishal kumar(vishu)]
@@ -1283,6 +1282,7 @@
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Manish Kumar](https://youtube.com/ytanonymousbunny)
 -[Gujot Singh](https://github.com/Gur-jot)
+-[Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 
 
 
