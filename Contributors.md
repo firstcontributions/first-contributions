@@ -4289,5 +4289,5 @@
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
-
+- [Vaishnavi Tripathi](https://github.com/tvaishnavi1011)
 <!-- prettier-ignore-end -->
