@@ -1291,6 +1291,7 @@
 - [Md. Solaiman Shohag](https://github.com/cseshohag)
 - [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
+- [Harsh Singh](https://github.com/lives-in-virgosupercluster)
 - [Abhay Dixit](https://github.com/AbhayD11)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Vishwas Gowda H V ](https://github.com/vishwasgowdahv)
