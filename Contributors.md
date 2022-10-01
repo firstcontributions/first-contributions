@@ -20,6 +20,7 @@
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
 - [Chad Perry](https://github.com/clewisperry)
+- [Hemant Maurya](https://github.com/hemantmaurya344)
 - Debobani Ghosh
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
