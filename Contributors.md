@@ -1288,6 +1288,7 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - [Ankit Agarwal](https://github.com/ankitaga27)
