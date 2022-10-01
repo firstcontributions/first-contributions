@@ -1108,6 +1108,7 @@
 - [Erik Pereira](https://github.com/Peartre)
 - [hoyeen01](https://github.com/hoyeen01)
 - [ojorgensen](https://github.com/ojorgensen)
+- [Vijay Kumar](https://github.com/Iamthevk)
 - [Andrés Ixcamey](https://github.com/Andx45)
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
 - [Moez Mustafa](https://github.com/moezmustafa)
