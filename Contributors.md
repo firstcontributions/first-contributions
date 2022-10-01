@@ -140,7 +140,6 @@
 - [Srihari S](https://github.com/SSHSRN)
 - [Neeraj Varma](https://github.com/karma8022)
 - [Suhani Garg](https://github.com/suhanigarg29)
-- ashish bk
 - [Deepshri M](https://github.com/Deepshaded)
 - [Adarsh Gupta](https://github.com/adarshgupta404)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
@@ -4330,7 +4329,6 @@
 - [Vaishnavi Tripathi](https://github.com/vaishnavi1011)
 - [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 - [coineem123](https://github.com/coineem123)
-- [17Moons](https://github.com/17Moons)
 - [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
 - [thatjamesemo](https://github.com/thatjamesemo)
 - [hsteinmueller](https://github.com/hsteinmueller)
@@ -4338,6 +4336,6 @@
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 - [M. Baharuddin Yusuf](https://github.com/ByeByu07)
 - [Aksel Telle](https://github.com/akseltelle)
-
+- [Shubham Singla](https://github.com/2001shubham)
 
 <!-- prettier-ignore-end -->
