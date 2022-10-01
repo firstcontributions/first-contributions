@@ -1,7 +1,9 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->'
+- [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
+- [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Fsubject](https://github.com/Fsubject)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
@@ -16,6 +18,7 @@
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [sk]
 - [Navya S Raj](https://github.com/navyasraj02)
+- [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
 - [Jonathan Meza](https://github.com/jonma0107)
@@ -24,6 +27,7 @@
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
+- [Velvv](https://github.com/Velvv)
 - [Litania Chauke](https://github.com/litaniachauke)
 - [Beela](https://github.com/beela303)  
 - [Vedika](https://github.com/vcvedika)
@@ -59,6 +63,7 @@
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - [Imam Suyuti](https://github.com/imams12)
 - Debobani Ghosh
+- [Ansh Goyal](https://github.com/Ansh1693)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Sangam verma](https://github.com/sangam-verma9)
 - [Divya Kaushik](https://github.com/divya1515)
@@ -135,6 +140,7 @@
 - [Srihari S](https://github.com/SSHSRN)
 - [Neeraj Varma](https://github.com/karma8022)
 - [Suhani Garg](https://github.com/suhanigarg29)
+- ashish bk
 - [Deepshri M](https://github.com/Deepshaded)
 - [Adarsh Gupta](https://github.com/adarshgupta404)
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
@@ -153,6 +159,7 @@
 - [Rahul lalwani](https://github.com/rahul09999)
 - [Rafal Szybinski](https://github.com/Rafal-Szybinski)
 - [Yogesh Febyani](https://github.com/yogesh0127)
+- [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Kalpit Shah](https://github.com/kalpitshah2311)
 - [Sanjeev Kumar Bharadwaj](https://github.com/Quanta-of-solitude)
 - [Reemyos](https://github.com/Reemyos)
@@ -240,6 +247,7 @@
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Pranay Jalan](https://github.com/pranayjalan254)
 - [Matthew Arthur](https://github.com/arthurmatthew)
+- [Chintan Tripathi](https://github.com/chintan0513)
 - [Yash Rajoria](https://github.com/yashrajoria03)
 - [Zeblue](https://github.com/zbluee)
 - [Bindhu](https://github.com/BindhuChamp/first-contributions)
@@ -635,6 +643,7 @@
 - [Poya Fraji](https://github.com/IWBTFY)
 - [Deep Jawale]
 - [Tanmaya Biswal](https://github.com/tbiswal)
+- [Anurag Lodhi](https://github.com/AnuragLodhi)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
@@ -1504,6 +1513,7 @@
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Clark D. Hou](https://github.com/cdh31211811)
+- [Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady)
 - [Anna Welpa](https://github.com/ann-well)
 - [Hime Arikawa](https://github.com/HimeArikawa)
 - [Samuel Veronese](https://github.com/samuelveronese)
@@ -4308,13 +4318,30 @@
 - [Muhammad Shafa](https://github.com/MuShaf-NMS)
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
 - [Maulana Irfan](https://github.com/mirfan777)
+- [Arunabh Gupta](https://github.com/Arunabh-gupta)
+- [Wiruj Suwanpramote](https://github.com/XtheWiz)
+- [Uma Dhatri] (https://github.com/umadhatri)
+- [Santhosh Pai](https://github.com/techtuner)
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Thrishul Sherigar](https://github.com/3shool)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
+- [Vikash Kumar](https://github.com/vikashkr-07)
+- [Vaishnavi Tripathi](https://github.com/vaishnavi1011)
+- [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 - [coineem123](https://github.com/coineem123)
+- [17Moons](https://github.com/17Moons)
+- [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
+- [thatjamesemo](https://github.com/thatjamesemo)
 - [hsteinmueller](https://github.com/hsteinmueller)
+- [Shrikrishna_umbare](https://github.com/shri142)
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
+- [Joel Mathew V](github.com/JoelMathewV)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 - [Amit Batra](https://github.com/amitbatra31)
+- [M. Baharuddin Yusuf](https://github.com/ByeByu07)
+- [Aksel Telle](https://github.com/akseltelle)
+
+
+
 <!-- prettier-ignore-end -->
