@@ -12,6 +12,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
@@ -94,6 +95,7 @@
 - [Vibin reji](https://github.com/Vibinreji)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Dhruv Jain](https://github.com/dhruvjain896)
+- [Harsh Raj](https://github.com/developerHarshRaj)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Lakkimsetti Sai Yashwanth](https://github.com/YashwanthLakkimsetti)
@@ -127,6 +129,7 @@
 - [Celia Bruner](https://github.com/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
+- [Vivek Kumar Singh](https://github.com/vivekthedev)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
@@ -787,6 +790,7 @@
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Ibrahim Hassan](https://github.com/ibrahim-5)
 - [Alfajri Asnan Kusuma](https://github.com/Askus99)
+- [Berkeli Halmyradov](https://github.com/berkeli)
 - [Akintibubo Pelumi](https://github.com/Akintibubopelumi)
 - [Alberto Formaggio](https://github.com/AlbertoFormaggio1)
 - [Dom Vacchiano](https://github.com/vacchiano)
@@ -1248,5 +1252,7 @@
 - [George Pires](https://github.com/GeorgePires)
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
+- [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
+- [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 
 <!-- prettier-ignore-end -->
