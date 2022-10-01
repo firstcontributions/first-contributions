@@ -4228,5 +4228,5 @@
 - [Raul Gon](bigman)
 - [Vipanshu Suman](https://github.com/vipu18)
 - [Lukmannudin](https://github.com/Lukmannudin)
--[Jotiraditya](https://github.com/JotiradityaB)
+- [Jotiraditya](https://github.com/JotiradityaB)
 <!-- prettier-ignore-end -->
