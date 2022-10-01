@@ -4287,5 +4287,5 @@
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
-
+- [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 <!-- prettier-ignore-end -->
