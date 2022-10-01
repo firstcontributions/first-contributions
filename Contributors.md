@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 - [Yash Adake](https://github.com/YashAdake)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
@@ -348,6 +349,7 @@
 - [Mohammed Fahad](https://github.com/ProgrammerFS)
 - [NYL](https://github.com/nyyelin)
 - [Anushka Bhandari](https://github.com/Anushkabh)
+  [Charliehexx](https://github.com/Charliehexx)
 - [Folarin]
 - [Pranav]
 - @wangbeishan
