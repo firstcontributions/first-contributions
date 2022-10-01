@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 - [Yash Adake](https://github.com/YashAdake)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
@@ -4253,5 +4254,6 @@
 - [codewithdev] (https://github.com/codewithdev)
 - [tbsschroeder] (https://github.com/tbsschroeder)
 - [Muhammad Shafa](https://github.com/MuShaf-NMS)
+- [Muhammad Reynaldi](https://github.com/muhreynaldii)
 
 <!-- prettier-ignore-end -->
