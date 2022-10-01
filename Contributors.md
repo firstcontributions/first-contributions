@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
