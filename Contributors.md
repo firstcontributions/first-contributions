@@ -64,6 +64,7 @@
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [Kunal Sachdeva](https://github.com/slanuk)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
+- [Nihal soni](https://github.com/nihal-soni)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
@@ -367,6 +368,7 @@
 - [Erin Miller](https://github.com/erinlmiller)
 - [yousef]
 - [botoko]
+- 
 - [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
