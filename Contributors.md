@@ -34,6 +34,7 @@
 - [Velvv](https://github.com/Velvv)
 - [Litania Chauke](https://github.com/litaniachauke)
 - [Beela](https://github.com/beela303)
+- [Yagnesh](https://github.com/yaggit)
 - [Vedika](https://github.com/vcvedika)
 - [eskayML](https://github.com/eskayML)
 - [Kratik](https://github.com/k4kratik)
