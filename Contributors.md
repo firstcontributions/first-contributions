@@ -20,6 +20,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [Manish Kumar](https://github.com/Manishch27)
 - [Trista L. Pollard](https://github.com/tlanettepollard)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
