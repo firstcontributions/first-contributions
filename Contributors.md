@@ -4294,6 +4294,7 @@
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
 - [Maulana Irfan](https://github.com/mirfan777)
 - [Nuzul Abatony](https://github.com/Albtony)
+- [Thrishul Sherigar](https://github.com/3shool)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
 - [coineem123](https://github.com/coineem123)
