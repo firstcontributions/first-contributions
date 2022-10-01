@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
@@ -1272,6 +1271,7 @@
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
+-[Ankit Agarwal](https://github.com/ankitaga27)
 
 
 
