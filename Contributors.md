@@ -118,6 +118,7 @@
 - [Cartago Reminscence](https://github.com/cartagoReminiscence/first-contributions.git)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Ansari Danish](https://github.com/ansari-danish)
+- [Alberto Galeazzo](https://github.com/betogzo)
 - [Amita Singh Rajput](https://github.com/GeekAmita)
   [Mathew Ealy](https://github.com/MEaly-Icepts)
 - [Andrew Shoemaker](https://github.com/Ashoemaker-tech)
