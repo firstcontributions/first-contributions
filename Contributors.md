@@ -4317,5 +4317,6 @@
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 - [M. Baharuddin Yusuf](https://github.com/ByeByu07)
+- [Aksel Telle](https://github.com/akseltelle)
 
 <!-- prettier-ignore-end -->
