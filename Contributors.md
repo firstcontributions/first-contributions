@@ -16,6 +16,7 @@
 - [Dafa Armanto](https://github.com/dafaarmanto)
 - [Samaresh Das](https://github.com/Samaresh-Das)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
+- [Vatsal Jha] (https://github.com/Vatsal-Jha)
 - [sk]
 - [Navya S Raj](https://github.com/navyasraj02)
 - [Shubh Rai](https://github.com/shubhrai2811)
