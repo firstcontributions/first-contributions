@@ -1252,6 +1252,7 @@
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
+- [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 
 
 <!-- prettier-ignore-end -->
