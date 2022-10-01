@@ -4325,6 +4325,7 @@
 - [tbsschroeder] (https://github.com/tbsschroeder)
 - [shivam-jha2712](https://github.com/shivam-jha2712)
 - [Muhammad Shafa](https://github.com/MuShaf-NMS)
+- [Muhammad Reynaldi](https://github.com/muhreynaldii)
 - [allworkdone](https://github.com/allworkdone)
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
 - [Maulana Irfan](https://github.com/mirfan777)
@@ -4354,7 +4355,6 @@
 - [Tanmay Chakrabarty](https://github.com/tanmaychk)
 - [Aksel Telle](https://github.com/akseltelle)
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
-
 
 
 <!-- prettier-ignore-end -->
