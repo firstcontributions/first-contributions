@@ -4325,6 +4325,7 @@
 - [Thrishul Sherigar](https://github.com/3shool)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
+- [Vikash Kumar](https://github.com/vikashkr-07)
 - [Vaishnavi Tripathi](https://github.com/vaishnavi1011)
 - [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 - [coineem123](https://github.com/coineem123)
