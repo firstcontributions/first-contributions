@@ -4214,7 +4214,7 @@
 - [Rebekah Eloise Miller](https://github.com/RebekahEloise)
 - [HANJUN](https://github.com/97970z)
 - [Leo Heo](https://github.com/hjh1004)
-- [Parth Sundarka] (https://github.com/parthusun8)
+- [Parth Sundarka](https://github.com/parthusun8)
 - [Khemmathiti Wangsaptawee](https://github.com/C0M3TZZ/)
 - [DisasterMaker](https://github.com/DisasterMaker)
 - [Aproid](https://github.com/aproid)
