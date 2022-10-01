@@ -1506,6 +1506,7 @@
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Clark D. Hou](https://github.com/cdh31211811)
+- [Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady)
 - [Anna Welpa](https://github.com/ann-well)
 - [Hime Arikawa](https://github.com/HimeArikawa)
 - [Samuel Veronese](https://github.com/samuelveronese)
