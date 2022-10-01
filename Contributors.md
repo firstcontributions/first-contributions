@@ -368,6 +368,7 @@
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Amine Essamet](https://github.com/aminessamet)
 - [Tanay Telsinge](https://github.com/tanayTelsinge)
+- [John Zabula](https://github.com/konzab)
 - [Krupa Thumar]
 - [Imran Biswas]
 - [Asyraf Mustaqim]
