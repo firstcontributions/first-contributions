@@ -4253,5 +4253,6 @@
 - [codewithdev] (https://github.com/codewithdev)
 - [tbsschroeder] (https://github.com/tbsschroeder)
 - [Muhammad Shafa](https://github.com/MuShaf-NMS)
+- [Kevin Ratdal](https://github.com/KevinRatdal)
 
 <!-- prettier-ignore-end -->
