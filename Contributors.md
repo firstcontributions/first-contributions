@@ -17,6 +17,7 @@
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
+- [Qashif peer](https://github.com/qashifpeer)
 - [Samaresh Das](https://github.com/Samaresh-Das)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [Vatsal Jha] (https://github.com/Vatsal-Jha)
