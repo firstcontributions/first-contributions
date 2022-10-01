@@ -1,6 +1,7 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->'
+- [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
 - [Nisarg Shah](https://github.com/nisarg0606)
