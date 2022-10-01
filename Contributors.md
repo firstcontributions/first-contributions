@@ -1250,6 +1250,7 @@
 - [hsteinmueller](https://github.com/hsteinmueller)
 - [Shrikrishna_umbare](https://github.com/shri142)
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
+- [juanguirp](https://github.com/juanguirp/)
 - [Joel Mathew V](github.com/JoelMathewV)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 - [Prabesh Bista](https://github.com/PrabeshPP)
