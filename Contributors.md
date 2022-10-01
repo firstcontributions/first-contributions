@@ -1288,7 +1288,7 @@
 - [Archit Jain](https://github.com/architjain2002)
 -[Manish Kumar](https://youtube.com/ytanonymousbunny)
 -[Gujot Singh](https://github.com/Gur-jot)
-
+-[Rohit Jindamwar](https://github.com/rohit85-it)
 
 
 <!-- prettier-ignore-end -->
