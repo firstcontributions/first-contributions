@@ -64,6 +64,7 @@
 - [Sam Candela](https://github.com/samc18)
 - [Hilmi Mubarok](https://github.com/hilmimubarok)
 - [Blake Boston](https://github.com/bboston2008)
+- [Anwar](https://github.com/mistracked)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
 - [Banana Paul](https://github.com/pawel045)
