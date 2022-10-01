@@ -1243,6 +1243,7 @@
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
 - [Yashwant Aditya](https://github.com/yashwantaditya009)
 - [Prasad Patil](https://github.com/prasadpatil05)
+- [Krishnansh Agarwal] (https://github.com/krishnanshagarwal112)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
@@ -1251,3 +1252,4 @@
 
 
 <!-- prettier-ignore-end -->
+
