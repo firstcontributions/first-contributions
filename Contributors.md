@@ -1295,10 +1295,7 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Kilian Braquin](https://github.com/kilianbraquin)
--[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
--[Manish Kumar](https://youtube.com/ytanonymousbunny)
--[Gujot Singh](https://github.com/Gur-jot)
--[Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
+- [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
