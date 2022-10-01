@@ -1269,6 +1269,6 @@
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
 -[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
-
+-[CodeGoGetter](https://github.com/CodeGoGetter)
 
 <!-- prettier-ignore-end -->
