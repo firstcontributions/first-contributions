@@ -1264,6 +1264,7 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
+-[Gujot Singh](https://github.com/Gur-jot)
 
 
 <!-- prettier-ignore-end -->
