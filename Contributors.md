@@ -7,6 +7,7 @@
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
+- [Vedika](https://github.com/vcvedika)
 - [Kratik](https://github.com/k4kratik)
 - [Danish Kamal](https://github.com/danishzayan)
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
