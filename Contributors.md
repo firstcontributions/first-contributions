@@ -40,6 +40,7 @@
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
 - [Tautvydas Karvelis](https://github.com/Tautve)
+- [Pravar Anu](https://github.com/PravarAnu)
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
 - [Dhruv Jain](https://github.com/dhruvjain896)
