@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
