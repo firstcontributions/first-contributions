@@ -4267,5 +4267,6 @@
 - [Muhammad Shafa](https://github.com/MuShaf-NMS)
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
 - [Maulana Irfan](https://github.com/mirfan777)
+- [Wiruj Suwanpramote](https://github.com/XtheWiz)
 
 <!-- prettier-ignore-end -->
