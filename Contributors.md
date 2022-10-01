@@ -1284,6 +1284,7 @@
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
+- [Firdavs K](https://github.com/fir1)
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
@@ -1308,6 +1309,5 @@
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
 - [Rohit Jindamwar](https://github.com/rohit85-it)
-
 
 <!-- prettier-ignore-end -->
