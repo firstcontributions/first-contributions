@@ -790,6 +790,7 @@
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Ibrahim Hassan](https://github.com/ibrahim-5)
 - [Alfajri Asnan Kusuma](https://github.com/Askus99)
+- [Berkeli Halmyradov](https://github.com/berkeli)
 - [Akintibubo Pelumi](https://github.com/Akintibubopelumi)
 - [Alberto Formaggio](https://github.com/AlbertoFormaggio1)
 - [Dom Vacchiano](https://github.com/vacchiano)
