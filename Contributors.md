@@ -13,6 +13,7 @@
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
+- [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
@@ -531,7 +532,6 @@
 - [Melissa Cheng](https://github.com/melissaAcheng)
 - [Loren-Jahan](https://github.com/Loren)
 - [Chiranjeev Veer Srivastava](https://github.com/GeekGuy-29)
-- [Niclas Tanskanen](https://github.com/niclastanskanen)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
 - [Natalia Chotza](https://github.com/NataliaChotza)
@@ -1060,6 +1060,7 @@
 - [Sat Naing](https://github.com/satnaing)
 - [Adwait Deshpande](https://github.com/adwaitdeshpande-and)
 - [Samuel Echols](https://github.com/sechols223)
+- [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
@@ -1329,6 +1330,7 @@
 - [Aman](https://github.com/Aman149)
 - [Ritesh Kumar](https://github.com/55ritesh)
 - [Aditya Sharma](https://github.com/adityassharma-ss)
+- [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 
 
 <!-- prettier-ignore-end -->
