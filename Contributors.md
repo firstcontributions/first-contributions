@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
