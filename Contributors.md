@@ -619,6 +619,7 @@
 - [Amey](https://github.com/Amey117)
 - [Muthu](https://github.com/samurai-3)
 - [Fatiudeen](https://github.com/fatiudeen)
+- [Nati Montes](https://github.com/Brujitari)
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
