@@ -69,7 +69,6 @@
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [Kunal Sachdeva](https://github.com/slanuk)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
-- [Nihal soni](https://github.com/nihal-soni)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
@@ -375,7 +374,6 @@
 - [Erin Miller](https://github.com/erinlmiller)
 - [yousef]
 - [botoko]
-- 
 - [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
@@ -1279,7 +1277,6 @@
 - [Shubham Singla](https://github.com/2001shubham)
 - [Himanshu Bhenwal](https://github.com/Retr0Sushi)
 - [Yashwant Aditya](https://github.com/yashwantaditya009)
-- [Yashita Namdeo](https://github.com/yashitanamdeo)
 - [Prasad Patil](https://github.com/prasadpatil05)
 - [Krishnansh Agarwal] (https://github.com/krishnanshagarwal112)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
@@ -1297,6 +1294,7 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
