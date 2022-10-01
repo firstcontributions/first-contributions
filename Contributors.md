@@ -76,6 +76,7 @@
 - [Anwar](https://github.com/mistracked)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
+- [sohamdata](https://github.com/sohamdata)
 - [Banana Paul](https://github.com/pawel045)
 - [Sayan Roy](https://github.com/D3FaltXD)
 - [Dimterion](https://github.com/Dimterion)
