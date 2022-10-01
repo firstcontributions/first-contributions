@@ -1201,6 +1201,7 @@
 - [Chung-Huu-Tin](https://github.com/TinChung41)
 - [Aris Munandar](https://github.com/ArisMunandar13)
 - [Borhan Uddin](https://github.com/borhan-dev/)
+- [Aliannea Sherman](https://github.com/xistingsherman)
 - [Mahamat Adoum](https://github.com/MahamatTech)
 - [Hong-Phuc Dang](https://github.com/hongphucdang1)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
