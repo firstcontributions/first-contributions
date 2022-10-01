@@ -546,7 +546,6 @@
 - [Rohit Nandi](https://github.com/rohitnandi12)
 - [Nicholas Praimraj](https://github.com/NickPraimraj)
 - [Prakhar](https://github.com/prakhar2010030)
-- [Prabin Subedi](https://github.com/prabincankod)
 - [Philip McCrickard](https://github.com/pcricket10)
 - [Jeremiah Brookes](https://github.com/TurquoiseHexagonSun)
 - [Gaatvul](https://github.com/Gaatvul)
