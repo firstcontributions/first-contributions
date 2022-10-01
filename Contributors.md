@@ -47,6 +47,7 @@
 - [Dhruv Jain](https://github.com/dhruvjain896)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
+- [Lakkimsetti Sai Yashwanth](https://github.com/YashwanthLakkimsetti)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
 - [Jacob Reid](https://github.com/z4nzib4r)
 - [AyushJain](https://github.com/AyushJain001)
