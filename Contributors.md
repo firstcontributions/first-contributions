@@ -59,6 +59,7 @@
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - [Imam Suyuti](https://github.com/imams12)
 - Debobani Ghosh
+- [Ansh Goyal](https://github.com/Ansh1693)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Sangam verma](https://github.com/sangam-verma9)
 - [Divya Kaushik](https://github.com/divya1515)
@@ -126,6 +127,7 @@
 - [JoydeepMallick](https://github.com/JoydeepMallick)
 - [Vedant Mistry](https://github.com/vibhatsu08)
 - [Ishika Jain](https://github.com/Ishikajain02)
+- [Raghav Babbar](https://github.com/BabbarRaghav)
 - [Delali Dogbevi](https://github.com/fodela)
 - [Simon Gideon Mnayi](https://github.com/SimonGideon)
 - [Zijie Zhou](https://github.com/ZhouZijie-BIT)
@@ -152,6 +154,7 @@
 - [Rahul lalwani](https://github.com/rahul09999)
 - [Rafal Szybinski](https://github.com/Rafal-Szybinski)
 - [Yogesh Febyani](https://github.com/yogesh0127)
+- [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Kalpit Shah](https://github.com/kalpitshah2311)
 - [Sanjeev Kumar Bharadwaj](https://github.com/Quanta-of-solitude)
 - [Reemyos](https://github.com/Reemyos)
@@ -267,6 +270,7 @@
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sagar Sethi](https://github.com/sethisagar)
 - [Sebastian Richter](https://github.com/gismo1337)
+- [Abhishek Kumar](https://github.com/Abhishek109062)
 - [Pancho AM](https://github.com/Mauratay)
 - [Aatmik Sanghvi](https://github.com/Aatmik-Coder)
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
@@ -1502,6 +1506,7 @@
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
 - [Clark D. Hou](https://github.com/cdh31211811)
+- [Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady)
 - [Anna Welpa](https://github.com/ann-well)
 - [Hime Arikawa](https://github.com/HimeArikawa)
 - [Samuel Veronese](https://github.com/samuelveronese)
@@ -4315,5 +4320,8 @@
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 -[Prabesh Bista](https://github.com/PrabeshPP)
+- [M. Baharuddin Yusuf](https://github.com/ByeByu07)
+- [Aksel Telle](https://github.com/akseltelle)
+
 
 <!-- prettier-ignore-end -->
