@@ -112,6 +112,7 @@
 - [Bernardina Maldonado] (https://github.com/btlmaldonado530)
 - [Wilson Le](https://github.com/WilsonLe)
 - [Jian Sun](https://github.com/zjiansun)
+- [Nandini Gangadharan](https://github.com/Nandini-13)
 - [Lingeshwaran](https://github.com/lingeshwaran05)
 - [Loick Tian](https://github.com/loickengit)
 - [sangenshoku](https://github.com/sangenshoku)
