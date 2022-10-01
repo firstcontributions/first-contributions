@@ -1231,6 +1231,7 @@
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Frederik Franzen]
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
+- [Anmol Adhikari](https://github.com/quazaranmol)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Brandon Bentley](https://github.com/BBentleyDev)
 - [Meric Peddle](https://github.com/gjpeddle)
