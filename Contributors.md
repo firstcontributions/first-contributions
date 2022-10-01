@@ -38,6 +38,7 @@
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
+- [Jericho 'monciego' Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - [Imam Suyuti](https://github.com/imams12)
