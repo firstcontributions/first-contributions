@@ -1250,6 +1250,7 @@
 - [George Pires](https://github.com/GeorgePires)
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
+- [Yuhanna Kapali](https://github.com/Yuhannakapali)
 
 
 <!-- prettier-ignore-end -->
