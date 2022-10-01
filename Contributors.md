@@ -997,6 +997,7 @@
 - [Shivankur Singh](https://github.com/Shivankur25)
 - [Samuel Lukudu](https://github.com/samuellukudu)
 - [JasperMiddendorp](https://github.com/JasperMiddendorp/)
+- [froggye]
 - [Daniarfa](https://github.com/daniarfadd)
 - [Ram Sankhavaram](https://github.com/sankhavaramsaitulasiram)
 - [Christa DeJesus](https://github.com/christadejesus)
