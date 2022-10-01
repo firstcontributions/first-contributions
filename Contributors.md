@@ -4187,5 +4187,6 @@
 - [ifeanyi chima](https://github.com/masterifeanyi)
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
+- [Anton Yartsev](https://github.com/AntonYartsev)
 
 <!-- prettier-ignore-end -->
