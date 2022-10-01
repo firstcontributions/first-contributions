@@ -184,6 +184,7 @@
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
+- [Lotfi Jebali](https://github.com/lotfijb)
 - [Will Braun](https://github.com/willbraun)
 - [Terrell Hayward](https://github.com/tjh488)
 - [Himjyoti](https://github.com/HimRock1)
