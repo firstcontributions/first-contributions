@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->'
 
+- [Sulabh Shrestha] (https://github.com/SulabhShrestha)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
