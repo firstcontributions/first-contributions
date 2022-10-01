@@ -1308,6 +1308,7 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
