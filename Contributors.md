@@ -1313,6 +1313,6 @@
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
-
+- [Vilas Sonje](https://github.com/SonjeVilas)
 
 <!-- prettier-ignore-end -->
