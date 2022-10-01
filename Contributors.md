@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+- [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
