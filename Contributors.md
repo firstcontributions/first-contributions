@@ -7,6 +7,7 @@
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
+- [Fahri Gunadi](https://github.com/FahriGunadi)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
