@@ -4324,6 +4324,7 @@
 - [Abhishek Prasad](https://github.com/abhishekprasad2384)
 - [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
 - [ElHassen Boumeddiene] (https://github.com/Elhasssen)
+- [Per Stark] (https://github.com/perstarkse)
 - [codewithdev] (https://github.com/codewithdev)
 - [tbsschroeder] (https://github.com/tbsschroeder)
 - [shivam-jha2712](https://github.com/shivam-jha2712)
