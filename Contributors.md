@@ -1254,6 +1254,7 @@
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
+- [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
 
