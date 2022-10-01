@@ -3331,6 +3331,7 @@
 - [Dominic Duke](https://github.com/domduke)
 - [Matt Bryant](https://github.com/Mcbryant14)
 - [Chris Thompson](https://github.com/ChrisThompsonDev)
+- [W. Syafiuddin](https://github.com/its0din-ai)
 - [Kenrick Lam](https://github.com/klam98)
 - [Hans Scheepers](https://github.com/huurseen)
 - [Devashish Mital](https://github.com/devashishmital)
