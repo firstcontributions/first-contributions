@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
@@ -55,8 +56,7 @@
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
-- [LordBenz](https://github.com/lordbenz)
--[Aryan Sharma](https://github.com/aryan2909)
+- [LordBenz](https://github.com/lordbenz) -[Aryan Sharma](https://github.com/aryan2909)
 - [Anish Dubey](https://github.com/AnishDubey27)
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
@@ -131,6 +131,7 @@
 - [Nile Roth](https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
 - [Vivek Kumar Singh](https://github.com/vivekthedev)
+- [Vishesh Kumar Mishra](https://github.com/texastiger9098)
 - [Lysander Pitu](https://github.com/Lys4nder)
 - [Vronz](https://github.com/VronzZ)
 - [Alaa Radhwan ](https://github.com/AlaaRadhwan)
@@ -1256,8 +1257,6 @@
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
-- [Kilian Braquin](https://github.com/kilianbraquin)
--[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
-
+- [Kilian Braquin](https://github.com/kilianbraquin) -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 
 <!-- prettier-ignore-end -->
