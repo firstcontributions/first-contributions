@@ -3443,6 +3443,7 @@
 - [Tetbirt Aimen](https://github.com/Einma)
 - [Matin](https://github.com/wreck2build)
 - [Pujan Soni](https://github.com/pujansoni)
+- [VictorNM](https://github.com/VictorNM)
 - [Brandon Chan](https://github.com/Bchan1999)
 - [Yuichi Dobashi](https://github.com/y-dobashi)
 - [Ashkan Kiafard](https://github.com/AshkanKiafard)
