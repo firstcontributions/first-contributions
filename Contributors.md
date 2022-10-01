@@ -1305,6 +1305,7 @@
 - [Dev](https://github.com/Dev2003203)
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 - [Jay Anand](https://github.com/notJAYanand)
+- [Dherya Rana](https://gthub.com/ranaDherya)
 - [Archit Jain](https://github.com/architjain2002)
 - [Manish Kumar](https://youtube.com/ytanonymousbunny)
 - [Gujot Singh](https://github.com/Gur-jot)
