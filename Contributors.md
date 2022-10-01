@@ -624,6 +624,7 @@
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
 - [Poya Fraji](https://github.com/IWBTFY)
+- [Deep Jawale]
 - [Tanmaya Biswal](https://github.com/tbiswal)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
