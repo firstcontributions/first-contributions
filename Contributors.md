@@ -32,6 +32,7 @@
 - [Sanyam Jain](https://github.com/Sanyam-7)
 - [Danish Kamal](https://github.com/danishzayan)
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
+- [Kunal Sachdeva](https://github.com/slanuk)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Anish Dubey](https://github.com/AnishDubey27)
