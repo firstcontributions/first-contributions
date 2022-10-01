@@ -43,6 +43,7 @@
 - [Gelio](https://github.com/bigelio)
 - [Velvv](https://github.com/Velvv)
 - [Litania Chauke](https://github.com/litaniachauke)
+- [ThisisGenuine](https://github.com/ThisisGenuine)
 - [Beela](https://github.com/beela303)
 - [Yagnesh](https://github.com/yaggit)
 - [Vedika](https://github.com/vcvedika)
