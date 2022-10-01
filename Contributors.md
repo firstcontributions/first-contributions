@@ -1281,6 +1281,7 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- [Ujjwal Jindal](https://github.com/jindalujjwal0720)
 - [Dev](https://github.com/Dev2003203)
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 - [Jay Anand](https://github.com/notJAYanand)
