@@ -9,6 +9,7 @@
 - [AADI0009](https://github.com/AADI0009)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Yaduttam Pareek] (https://github.com/Yaduttam95)
+- [Abubakar Sattar](https://github.com/AbubakarSattar-dev)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
