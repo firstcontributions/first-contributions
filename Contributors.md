@@ -1354,6 +1354,7 @@
 - [Robin Singh](https://github.com/RobinSatoru)
 - [Vikas Tripathi](https://github.com/ervikasji)
 - [Filip Ognjanovic](https://github.com/DeveloperFO)
+- [InstallEmployee](https://github.com/installemployee)
 
 
 <!-- prettier-ignore-end -->
