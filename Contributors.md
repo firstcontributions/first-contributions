@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
+- [Om Prakash](https://github.com/itsokop)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
@@ -15,6 +17,7 @@
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
+- [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
 - [Ishan Katoch](https://github.com/ishan-1010)
@@ -27,7 +30,9 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
+- Kipkoech Sang
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
 - [Trista L. Pollard](https://github.com/tlanettepollard)
@@ -692,6 +697,7 @@
 - [Melvin Jones Repol](https://github.com/mrepol742)
 - [Ayomide Ajayi](https://github.com/ayo-ajayi)
 - [Eboweme Ayo](https://github.com/lebrin-Ay)
+- [Vaibhav Batra](https://github.com/GitBatra)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Harsh Walia](https://github.com/waliaharsh74)
 - [Aditya Raj](https://github.com/rajaditya1306)
@@ -1240,6 +1246,7 @@
 - [Alex Kokobane](https://github.com/alexkokobane)
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
+- [Sachin Verma](https://github.com/sachchu007)
 - [Carmel Mary Ugim](https://github.com/Carmel-Mary)
 - [mitchiban](https://github.com/mitchiban)
 - [Charles Agoe](https://github.com/agoetee)
@@ -1266,7 +1273,6 @@
 - [Santhosh Pai](https://github.com/techtuner)
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Thrishul Sherigar](https://github.com/3shool)
-- [juanguirp](https://github.com/juanguirp/)
 - [Nitesh Reddy](https://github.com/niteshkumar257)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
@@ -1306,6 +1312,7 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+- [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
@@ -1326,11 +1333,18 @@
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
+- [Saumit Dinesan](https://github.com/justsaumit)
+- [Vilas Sonje](https://github.com/SonjeVilas)
+- [Uday Bhamre](https://github.com/usvibrus)
 - [Anuja Wijewardana](https://github.com/Anuja-2000)
 - [Aman](https://github.com/Aman149)
+- [Anshul](https://github.com/Anshul-13J)
 - [Ritesh Kumar](https://github.com/55ritesh)
 - [Aditya Sharma](https://github.com/adityassharma-ss)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
+- [Ayush Shrivastava](https://github.com/ishrivasayush)
+- [Robin Singh](https://github.com/RobinSatoru)
+- [Vikas Tripathi](https://github.com/ervikasji)
 
 
 <!-- prettier-ignore-end -->
