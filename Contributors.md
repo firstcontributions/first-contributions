@@ -198,7 +198,6 @@
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
-- [Max Mario Dsouza](https://github.com/Stormshadows)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [rahul Dhiman](https://github.com/rahuld2000)
@@ -1248,6 +1247,7 @@
 - [George Pires](https://github.com/GeorgePires)
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
+- [Abhay Dixit](https://github.com/AbhayD11)
 
 
 <!-- prettier-ignore-end -->
