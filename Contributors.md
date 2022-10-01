@@ -373,6 +373,7 @@
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]
 - [Peace]
+- [Arpita Srivastava](https://github.com/arpita-oops)
 - [Rehan](https://github.com/R3hankhan123)
 - [Alvin Okafor](https://github.com/alvinokafor)
 - [Chris Green](https://github.com/ChrisGreenDev)
@@ -4316,7 +4317,6 @@
 - [lkalves](https://github.com/lkalves)
 - [Akanksha6202]( https://github.com/Akanksha6202)
 - [mewxz02](https://github.com/mewxz029/)
-- [Debjit Bhowal](https://github.com/debjit-bw)
 - [ramadanWasfi](https://github.com/ramadanWasfi)
 - [Hector Pasarin](https://github.com/hectorpasarin)
 - [firatvural](https://github.com/firatvural)
