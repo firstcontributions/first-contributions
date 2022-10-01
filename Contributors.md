@@ -6,6 +6,7 @@
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
+- [darmozrac](https://github.com/darmozrac)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
