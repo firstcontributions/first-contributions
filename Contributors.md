@@ -88,6 +88,7 @@
 - [Vedant Mistry](https://github.com/vibhatsu08)
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Delali Dogbevi](https://github.com/fodela)
+- [Simon Gideon Mnayi](https://github.com/SimonGideon)
 - [Zijie Zhou](https://github.com/ZhouZijie-BIT)
 - [Thisura Samarakoon](https://github.com/this8)
 - [Golam Mostofa Rajon](https://github.com/rajon111)
