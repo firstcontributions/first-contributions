@@ -1829,6 +1829,7 @@
 - [Dhananjay Pant](https://github.com/Dhananjay-12)
 - [Himanshi Kapoor](https://github.com/himanshikapoor)
 - [Ayanabha Jana](https://github.com/Ayanabha123456)
+- [Saar Koren](https://github.com/s11s11)
 - [Adebowale Mujeeb](https://github.com/Kaydayo)
 - [Wayne Cen](https://github.com/waynecen)
 - [R Sai Ram Apuroop](https://github.com/sairamapuroop)
