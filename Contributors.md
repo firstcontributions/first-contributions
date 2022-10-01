@@ -1281,6 +1281,7 @@
 - [Yashwant Aditya](https://github.com/yashwantaditya009)
 - [Yashita Namdeo](https://github.com/yashitanamdeo)
 - [Prasad Patil](https://github.com/prasadpatil05)
+- [Krishnansh Agarwal] (https://github.com/krishnanshagarwal112)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
@@ -1312,3 +1313,4 @@
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 
 <!-- prettier-ignore-end -->
+
