@@ -25,7 +25,6 @@
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
-- [Aditya Reddy](https://github.com/gurjapuradityareddy)
 - [Watts](https://github.com/Watts8bits)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
