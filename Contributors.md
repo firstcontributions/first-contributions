@@ -1003,6 +1003,7 @@
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
 - [Wasim Algamal](https://github.com/walgamal)
 - [Amí Naeily](https://github.com/pinkhairs)
+- [Sriram Arul](https://github.com/sriramarul)
 - [gerasim simeonov](https://github.com/penzata)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
 - [Dylan Manfredi](https://github.com/dmanfredi)]
