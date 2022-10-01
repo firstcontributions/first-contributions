@@ -1285,9 +1285,11 @@
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 - [Jay Anand](https://github.com/notJAYanand)
 - [Archit Jain](https://github.com/architjain2002)
--[Manish Kumar](https://youtube.com/ytanonymousbunny)
--[Gujot Singh](https://github.com/Gur-jot)
--[Rohit Jindamwar](https://github.com/rohit85-it)
+- [Manish Kumar](https://youtube.com/ytanonymousbunny)
+- [Gujot Singh](https://github.com/Gur-jot)
+- [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+- [mvaschetto](https://github.com/mvaschetto)
+- [Rohit Jindamwar](https://github.com/rohit85-it)
 
 
 <!-- prettier-ignore-end -->
