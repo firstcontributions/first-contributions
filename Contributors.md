@@ -19,6 +19,7 @@
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
+- [Emanuele Favero](https://github.com/emanuelefavero)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
