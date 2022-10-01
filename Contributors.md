@@ -4317,6 +4317,7 @@
 - [Muhammad Shafa](https://github.com/MuShaf-NMS)
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
 - [Maulana Irfan](https://github.com/mirfan777)
+- [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Uma Dhatri] (https://github.com/umadhatri)
 - [Santhosh Pai](https://github.com/techtuner)
 - [Nuzul Abatony](https://github.com/Albtony)
