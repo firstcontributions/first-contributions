@@ -132,6 +132,7 @@
 - [Vikram Kumar](https://github.com/vikramkbgs)
 - [Maple Syrup Web](https://github.com/MapleSyrupWeb)
 - [Calmius](https://github.com/calmius)
+- [bbtbir](https://github.com/bbtbir)
 - [Outsider](https://github.com/days0102)
 - [Sindura Dasi](https://github.com/sinduraDasi)
 - [Kapil Bastola](https://github.com/tHyenigmatiC)
