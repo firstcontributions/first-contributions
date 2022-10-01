@@ -270,6 +270,7 @@
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]
 - [Jai]
+
 - [Deepa]
 - [Aviv Keinan](https://github.com/avivk9)
 - [Benjamin Dutta](https://github.com/Benjamindutta)
@@ -4197,5 +4198,6 @@
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
+- [Mridul](https://github.com/MridulGupta007)
 
 <!-- prettier-ignore-end -->
