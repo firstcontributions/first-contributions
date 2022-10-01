@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -153,6 +153,7 @@
 - [Craig Smith](https://github.com/craig-iam-smith)
 - [Hydr0](https://github.com/spacefaringh20consumer)
 - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
+- [Reet](https://github.com/RaniK27)
 - [Sambhav Jha](https://github.com/Sambhav250703)
 - [Mukul Raghav](https://github.com/Mukul-svg)
 - [Christopher Olsen][https://github.com/crissolsen]
