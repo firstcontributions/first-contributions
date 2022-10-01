@@ -198,6 +198,7 @@
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
+- [Max Mario Dsouza](https://github.com/Stormshadows)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [rahul Dhiman](https://github.com/rahuld2000)
