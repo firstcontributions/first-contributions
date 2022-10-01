@@ -381,6 +381,7 @@
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
 - [Ron Jean-Francois](https://github.com/ronthetech)
 - [Sadman Sakib](https://github.com/sadmann7)
+- [Richard Freeland](https://github.com/freelandr)
 - [Michael Lappert](https://github.com/lappemic)
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Touha Zohair](https://github.com/touha98)
