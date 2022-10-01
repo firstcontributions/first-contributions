@@ -942,6 +942,7 @@
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
+- [Shubh](https://github.com/Imshubh69)
 - [Emmanuel Okoh](https://github.com/otizgit)
 - [Varun Ratnani](https://github.com/varun1002)
 - [Riliwan Hassan](https://github.com/worldsalt3)
