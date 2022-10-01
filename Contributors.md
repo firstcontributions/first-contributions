@@ -56,6 +56,7 @@
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - baba
+- -luxoreks
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Pravar Anu](https://github.com/PravarAnu)
 - [Joao Crulhas](https://github.com/joaoCrulhas)
