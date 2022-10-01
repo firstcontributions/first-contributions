@@ -103,6 +103,7 @@
 - [ANIKET SHEKHAR CHAUDHARI](https://github.com/aniket2003)
 - [Arpit Rath](https://github.com/Ar-tech937)
 - [Sophia Chu](https://github.com/schu-code)
+- [Simon Schindlatz](https://github.com/SimonUR)
 - [Kunal Yadav](https://github.com/kunaaal13)
 - [Galih Indra Firmansyah](https://github.com/galihif)
 - [Daniele Vilela](https://github.com/danielevilela)
