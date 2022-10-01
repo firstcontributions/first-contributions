@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 - [CyberVarun](https://github.com/CyberVarun)
+- [NikhilMahana](https://github.com/NikhilMahana)
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
