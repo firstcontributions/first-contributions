@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
+- [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
