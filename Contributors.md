@@ -1252,6 +1252,7 @@
 - [Santhosh Pai](https://github.com/techtuner)
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Thrishul Sherigar](https://github.com/3shool)
+- [juanguirp](https://github.com/juanguirp/)
 - [Nitesh Reddy](https://github.com/niteshkumar257)
 - [Yash Agarwal](https://github.com/Yash-Agarwal1708)
 - [Atharv Parlikar](https://github.com/atharvParlikar)
