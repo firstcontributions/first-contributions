@@ -59,6 +59,7 @@
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - [Imam Suyuti](https://github.com/imams12)
 - Debobani Ghosh
+- [Ansh Goyal](https://github.com/Ansh1693)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Sangam verma](https://github.com/sangam-verma9)
 - [Divya Kaushik](https://github.com/divya1515)
