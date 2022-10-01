@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
