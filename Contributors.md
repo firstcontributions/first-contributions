@@ -4230,5 +4230,6 @@
 - [Vipanshu Suman](https://github.com/vipu18)
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Shubham Singh](https://github.com/shubham2637)
+- [Bandit Silachai](https://github.com/9MZa/)
 
 <!-- prettier-ignore-end -->
