@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -4197,5 +4198,6 @@
 - [xubai2001](https://github.com/xubai2001)
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Anton Yartsev](https://github.com/AntonYartsev)
+- [Vaahtera](https://github.com/vaahteraa)
 
 <!-- prettier-ignore-end -->
