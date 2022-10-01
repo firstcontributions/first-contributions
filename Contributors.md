@@ -243,6 +243,7 @@
 - [Kashish Lakhara](https://github.com/KashishLakhara04)
 - [Pranay Jalan](https://github.com/pranayjalan254)
 - [Matthew Arthur](https://github.com/arthurmatthew)
+- [Chintan Tripathi](https://github.com/chintan0513)
 - [Yash Rajoria](https://github.com/yashrajoria03)
 - [Zeblue](https://github.com/zbluee)
 - [Bindhu](https://github.com/BindhuChamp/first-contributions)
