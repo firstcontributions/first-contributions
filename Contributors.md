@@ -531,7 +531,6 @@
 - [Melissa Cheng](https://github.com/melissaAcheng)
 - [Loren-Jahan](https://github.com/Loren)
 - [Chiranjeev Veer Srivastava](https://github.com/GeekGuy-29)
-- [Niclas Tanskanen](https://github.com/niclastanskanen)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
 - [Natalia Chotza](https://github.com/NataliaChotza)
@@ -1329,6 +1328,6 @@
 - [Aman](https://github.com/Aman149)
 - [Ritesh Kumar](https://github.com/55ritesh)
 - [Aditya Sharma](https://github.com/adityassharma-ss)
-
+- [Ayush Shrivastava](https://github.com/ishrivasayush)
 
 <!-- prettier-ignore-end -->
