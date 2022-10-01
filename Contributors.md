@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -49,6 +50,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Bernardina Maldonado] (https://github.com/btlmaldonado530)
 - [Wilson Le](https://github.com/WilsonLe)
+- [Vishnu Kota](https://github.com/Vishnu-Kota)
 - [Jian Sun](https://github.com/zjiansun)
 - [Lingeshwaran](https://github.com/lingeshwaran05)
 - [Loick Tian](https://github.com/loickengit)
