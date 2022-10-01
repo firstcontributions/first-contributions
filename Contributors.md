@@ -550,6 +550,7 @@
 - [Prakhar](https://github.com/prakhar2010030)
 - [Prabin Subedi](https://github.com/prabincankod)
 - [Philip McCrickard](https://github.com/pcricket10)
+- [Ingrzs](https://github.com/Ingrzs)
 - [Jeremiah Brookes](https://github.com/TurquoiseHexagonSun)
 - [Gaatvul](https://github.com/Gaatvul)
 - [Kalstorm](https://github.com/umarabdullah16)
