@@ -487,6 +487,7 @@
 - [Tawanda Munongo](https://github.com/edtha3rd)
 - [Melissa Cheng](https://github.com/melissaAcheng)
 - [Loren-Jahan](https://github.com/Loren)
+- [Chiranjeev Veer Srivastava](https://github.com/GeekGuy-29)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
 - [Natalia Chotza](https://github.com/NataliaChotza)
