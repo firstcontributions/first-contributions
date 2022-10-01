@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Yash Adake](https://github.com/YashAdake)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
