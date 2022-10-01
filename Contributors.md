@@ -15,6 +15,7 @@
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
+- [Beela](https://github.com/beela303)  
 - [Vedika](https://github.com/vcvedika)
 - [eskayML](https://github.com/eskayML)
 - [Kratik](https://github.com/k4kratik)
