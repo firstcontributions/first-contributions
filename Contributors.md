@@ -10,6 +10,7 @@
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
+- [RohanKGP](https://github.com/RohanKGP)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
