@@ -2629,6 +2629,7 @@
 - [Tim Leung](https://github.com/timleungtech)
 - [Harsh](https://github.com/HarshGarg11072002)
 - KB
+- [Izma Aziz]
 - [Morgan Simmons](https://github.com/morgans856)
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
