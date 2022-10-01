@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Houcem Testouri](https://github.com/testourii)
 - [NikhilMahana](https://github.com/NikhilMahana)
