@@ -379,6 +379,7 @@
 - [Arthur Cordovil](https://github.com/devriq)
 - [Omkar Pawar](https://github.com/omkarpawar2001)
 - [Edson Sooraj Dsouza](https://github.com/edson-sooraj)
+- [Faris0520](https://github.com/faris0520)
 - [Augustine C. Anyasodor](https://github.com/ACAnyasodor)
 - [Martina John](https://github.com/MartinaJohn)
 - [Hope Kuypers](https://github.com/Notchoaveragejoe)
