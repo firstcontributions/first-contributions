@@ -49,6 +49,7 @@
 - [Jian Sun](https://github.com/zjiansun)
 - [Lingeshwaran](https://github.com/lingeshwaran05)
 - [Loick Tian](https://github.com/loickengit)
+- [sangenshoku](https://github.com/sangenshoku)
 - [Olabisi Adesujo](https://github.com/Great-B)
 - [Lingfeng Zhu](https://github.com/LingfengZhu)
 - [Gwang-Jin Kim](https://github.com/heygwangjin)
