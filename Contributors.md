@@ -20,6 +20,7 @@
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
 - [Qashif peer](https://github.com/qashifpeer)
+- [Jayesh Joshi](https://github.com/jjoshi1812)
 - [Samaresh Das](https://github.com/Samaresh-Das)
 - [Yash Nirmal](https://github.com/yashnirmal)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
