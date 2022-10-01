@@ -641,6 +641,7 @@
 - [Poya Fraji](https://github.com/IWBTFY)
 - [Deep Jawale]
 - [Tanmaya Biswal](https://github.com/tbiswal)
+- [Anurag Lodhi](https://github.com/AnuragLodhi)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
