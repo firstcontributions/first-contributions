@@ -9,6 +9,7 @@
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
+- [Benny Riot](http://github.com/bennyriot)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
