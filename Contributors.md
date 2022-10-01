@@ -1246,7 +1246,7 @@
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
 - [Kazim Sayed](https://github.com/kazimsayed954)
-- [Ankit Verma](https://github.com/ankit-verma-209171)
+- [Aniket Pal](https://github.com/aniiketpal)
 
 
 <!-- prettier-ignore-end -->
