@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
@@ -32,7 +33,7 @@
 - [Gelio](https://github.com/bigelio)
 - [Velvv](https://github.com/Velvv)
 - [Litania Chauke](https://github.com/litaniachauke)
-- [Beela](https://github.com/beela303)  
+- [Beela](https://github.com/beela303)
 - [Vedika](https://github.com/vcvedika)
 - [eskayML](https://github.com/eskayML)
 - [Kratik](https://github.com/k4kratik)
@@ -4218,8 +4219,7 @@
 - [Paulo Diniz](https://github.com/pldnz)
 - [Lalu Muhammad Gilang Kharisma](https://github.com/GilangKharisma/)
 - [Cra Rospo](https://github.com/CraRospo)
-- [Kevin Palowa](https://github.com/KevinPalowa/)
--[Looper](https://github.com/ResponseTime)
+- [Kevin Palowa](https://github.com/KevinPalowa/) -[Looper](https://github.com/ResponseTime)
 - [X3nonxe](https://github.com/X3nonxe/)
 - [nikhilxe](https://github.com/nikhilxe)
 - [Karthik Purushothaman](https://github.com/pkarthik15)
@@ -4316,6 +4316,7 @@
 - [Anton Yartsev](https://github.com/AntonYartsev)
 - [Aman Kumar](https://github.com/amankumarkeshu)
 - [Raul Gon](bigman)
+- [Sai La Min Oak](gay)
 - [Vipanshu Suman](https://github.com/vipu18)
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Shubham Singh](https://github.com/shubham2637)
