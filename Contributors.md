@@ -46,6 +46,7 @@
 - [Kunal Sachdeva](https://github.com/slanuk)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
+- [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
 - [Anish Dubey](https://github.com/AnishDubey27)
 - [Chris Boban V](https://github.com/chrisboban)
