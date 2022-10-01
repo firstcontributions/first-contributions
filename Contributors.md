@@ -376,6 +376,7 @@
 - [Buu Pham](https://github.com/DepressingWeeb)
 - [Balogun Oluwatobi](https://github.com/Cholahji/)
 - [Riya Agarwal]
+- [Samuel Ukpai](https://github.com/Samthesurf)
 - [Nicole Saunders](https://github.com/nicostar26)
 - [Firos K](https://github.com/firoz3130)
 - [Laxman B](https://github.com/laxmanbalaraman)
