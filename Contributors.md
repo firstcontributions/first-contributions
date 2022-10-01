@@ -13,6 +13,7 @@
 - [Dafa Armanto](https://github.com/dafaarmanto)
 - [Samaresh Das](https://github.com/Samaresh-Das)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
+- [sk]
 - [Houcem Testouri](https://github.com/testourii)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
 - [Jonathan Meza](https://github.com/jonma0107)
