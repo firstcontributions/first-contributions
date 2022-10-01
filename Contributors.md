@@ -59,6 +59,7 @@
 - [Tejas Srivastav](https://github.com/MrTejas)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Arunava Ghosh](https://github.com/its-ag)
+- [Shanon Baker ](https://github.com/ShanonBaker)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 - [Jonathan Zopf](https://github.com/JonathanZopf)
 - [Kamya](https://github.com/Kamya90)
