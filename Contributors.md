@@ -6,6 +6,7 @@
 - [Gelio](https://github.com/bigelio)
 - [Kratik](https://github.com/k4kratik)
 - [Danish Kamal](https://github.com/danishzayan)
+- [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Chris Boban V](https://github.com/chrisboban)
