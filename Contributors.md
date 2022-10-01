@@ -4320,6 +4320,7 @@
 - [xubai2001](https://github.com/xubai2001)
 - [bhav-khurana](https://github.com/bhav-khurana)
 - [Makkun](https://github.com/Makkkkuuunn)
+- [Farizul Hammi](https://github.com/farizulhammi)
 - [Anton Yartsev](https://github.com/AntonYartsev)
 - [Aman Kumar](https://github.com/amankumarkeshu)
 - [Raul Gon](bigman)
