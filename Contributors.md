@@ -273,6 +273,7 @@
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
 - [Poya Fraji](https://github.com/IWBTFY)
 - [Deep Jawale]
+- [Usman Fani] (https://github.com/usmanfani)
 - [Tanmaya Biswal](https://github.com/tbiswal)
 - [Anurag Lodhi](https://github.com/AnuragLodhi)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
