@@ -16,6 +16,7 @@
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [sk]
 - [Navya S Raj](https://github.com/navyasraj02)
+- [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
 - [Jonathan Meza](https://github.com/jonma0107)
