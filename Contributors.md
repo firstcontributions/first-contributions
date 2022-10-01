@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+- [Zala Indravijay](https://github.com/indravijay-bot)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
@@ -52,7 +53,6 @@
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
--[Aryan Sharma](https://github.com/aryan2909)
 - [Anish Dubey](https://github.com/AnishDubey27)
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
@@ -1243,7 +1243,6 @@
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
-- [Kazim Sayed](https://github.com/kazimsayed954)
 
 
 <!-- prettier-ignore-end -->
