@@ -486,6 +486,7 @@
 - [vultimitavin](https://github.com/vulti-mitavin)
 - [vrana](https://github.com/v-rana)
 - [Mlodko](https://github.com/Mlodko)
+- [Gabriel Moody](https://github.com/GabrielMoody)
 - [Laviz Pandey](https://github.com/lavizp)
 - [Adriel Perez ](https://github.com/kidkiller6021)
 - [Yu Chen]
