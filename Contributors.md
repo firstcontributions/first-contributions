@@ -40,6 +40,7 @@
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
+- [Dhruv Jain](https://github.com/dhruvjain896)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
