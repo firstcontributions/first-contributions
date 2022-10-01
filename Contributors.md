@@ -97,6 +97,7 @@
 - [Keerthivasan D](https://github.com/kd100100)
 - [Souradeep Bhattacharya](https://github.com/ThePsyk3y)
 - [Estitxu Larralde](https://github.com/Pitxunet)
+- [Ken Cho](https://github.com/kencho51)
 - [Aniket Kumar Paul](https://github.com/Aniket-Kumar-Paul)
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
