@@ -134,6 +134,7 @@
 - [Piyush Chandel](https://github.com/Piyush-Chandel7)
 - [Aditya Saini(AdiOBS)](https://github.com/Aditya-Saini3)
 - [Adyasha Samal](https://github.com/Adyasha28)
+- [Nayana Pardhekar](https://github.com/nayanapardhekar)
 - [Mridul Goel](https://github.com/mg-0000)
 - [Olakada Samuel](https://github.com/olakadasami)
 - [Arshdeep Singh](https://github.com/arshdeepchanne)
