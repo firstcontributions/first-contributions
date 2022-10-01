@@ -1242,6 +1242,7 @@
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
+- [Kazim Sayed](https://github.com/kazimsayed954)
 
 
 <!-- prettier-ignore-end -->
