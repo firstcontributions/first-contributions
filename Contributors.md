@@ -1256,6 +1256,7 @@
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+-[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 
 
 <!-- prettier-ignore-end -->
