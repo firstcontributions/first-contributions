@@ -286,6 +286,7 @@
 - [Harshul Jain](https://github.com/Harshul02)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sagar Sethi](https://github.com/sethisagar)
+- [Srujan Gowda](https://github.com/Sruja10)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Abhishek Kumar](https://github.com/Abhishek109062)
 - [Pancho AM](https://github.com/Mauratay)
