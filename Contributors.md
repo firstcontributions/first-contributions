@@ -534,6 +534,7 @@
 - [Francis Alegre](https://github.com/francisaerol)
 - [Jon Gonzalez](https://github.com/jgonz-hub)
 - [Wayne Watson](https://github.com/grifway)
+- [Harsh Dewangan](https://github.com/harshdew02)
 - [Mick Meighan(https://github.com/gatters)
 - [Asma](https://github.com/asma-mughal)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
