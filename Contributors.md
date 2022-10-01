@@ -361,6 +361,7 @@
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]
 - [Jai]
+
 - [Deepa]
 - [Aviv Keinan](https://github.com/avivk9)
 - [Benjamin Dutta](https://github.com/Benjamindutta)
@@ -4326,6 +4327,7 @@
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Farizul Hammi](https://github.com/farizulhammi)
 - [Anton Yartsev](https://github.com/AntonYartsev)
+- [Mridul](https://github.com/MridulGupta007)
 - [MichaelHadoop](https://github.com/michaelhadoop)
 - [Keshav](https://youtube.com/techedcs)
 - [Armaan Khan](https://github.com/AkP2809)
