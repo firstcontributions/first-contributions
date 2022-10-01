@@ -30,6 +30,7 @@
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
+- [Anish Dubey](https://github.com/AnishDubey27)
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
 - [Watts](https://github.com/Watts8bits)
