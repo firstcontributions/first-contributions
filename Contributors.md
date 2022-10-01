@@ -7,10 +7,12 @@
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
+- [Rishikesh Shinde](https://github.com/rdshinde)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Fsubject](https://github.com/Fsubject)
 - [AADI0009](https://github.com/AADI0009)
+- [Tonjarosenpai](https://github.com/Tonjaro)
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
@@ -400,6 +402,7 @@
 - [Miguel Zamora](https://github.com/MiguelZamora-Dev)
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
+- [Rojarani A](https://github.com/rozza7)
 - [Ron Jean-Francois](https://github.com/ronthetech)
 - [Sadman Sakib](https://github.com/sadmann7)
 - [Richard Freeland](https://github.com/freelandr)
@@ -1262,8 +1265,9 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
-- [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
+-[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
+-[Gujot Singh](https://github.com/Gur-jot)
+-[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
-
 
 <!-- prettier-ignore-end -->
