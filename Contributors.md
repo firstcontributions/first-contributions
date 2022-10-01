@@ -1296,6 +1296,6 @@
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
 - [Rohit Jindamwar](https://github.com/rohit85-it)
-
+- [Himanshu](https://github.com/him2016)
 
 <!-- prettier-ignore-end -->
