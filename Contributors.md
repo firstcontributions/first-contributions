@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 - [CyberVarun](https://github.com/CyberVarun)
 - [Kiran Satya Raj](https://github.com/KiranSatyaRaj)
@@ -13,6 +14,7 @@
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
 - [Arunava Ghosh](https://github.com/its-ag)
+- [Sree chand R](https://github.com/sreechand2002)
 - [Kamya](https://github.com/Kamya90)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
