@@ -445,6 +445,7 @@
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
+- [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
 - [Will Braun](https://github.com/willbraun)
