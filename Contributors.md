@@ -64,6 +64,7 @@
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [Kunal Sachdeva](https://github.com/slanuk)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
+- [Harsh Dewangan](https://github.com/harshdew02)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
