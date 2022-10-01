@@ -1314,6 +1314,7 @@
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
+- [Saumit Dinesan](https://github.com/justsaumit)
 
 
 <!-- prettier-ignore-end -->
