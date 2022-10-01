@@ -70,7 +70,6 @@
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastav](https://github.com/MrTejas)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
-- [Manas Baroi](https://github.com/manas6699)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Shanon Baker ](https://github.com/ShanonBaker)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
@@ -1204,6 +1203,7 @@
 - [Nacnano](https://github.com/Nacnano)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
 - [Justin McLemore](https://github.com/justincredble)
+- [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [TheGodlyDemon](https://github.com/TheGodlyDemon)
 - [Alex Kokobane](https://github.com/alexkokobane)
 - [doziben](https://github.com/doziben)
@@ -1268,7 +1268,7 @@
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
--[Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+
 
 
 <!-- prettier-ignore-end -->
