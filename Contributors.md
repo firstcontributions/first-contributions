@@ -1356,6 +1356,6 @@
 - [Vikas Tripathi](https://github.com/ervikasji)
 - [Filip Ognjanovic](https://github.com/DeveloperFO)
 - [InstallEmployee](https://github.com/installemployee)
-
+- [Darkrider0007](https://github.com/Darkrider0007)
 
 <!-- prettier-ignore-end -->
