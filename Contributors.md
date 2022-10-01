@@ -1286,6 +1286,7 @@
 - [George Pires](https://github.com/GeorgePires)
 - [Firdavs K](https://github.com/fir1)
 - [Kazim Sayed](https://github.com/kazimsayed954)
+- [Md. Solaiman Shohag](https://github.com/cseshohag)
 - [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Abhay Dixit](https://github.com/AbhayD11)
