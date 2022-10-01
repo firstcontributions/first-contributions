@@ -19,6 +19,7 @@
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
   [Dominik Jones](https://github.com/DominikJ22)
+  
 - [Caleb Lugo] (https://github.com/CNL-Dev)
 - [Aryansh Rana](https://github.com/Aryanshrana)
 - [Fangzhou Wang] (https://github.com/Wooonster)
