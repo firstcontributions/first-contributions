@@ -52,6 +52,7 @@
 - [Imam Suyuti](https://github.com/imams12)
 - Debobani Ghosh
 - [Anshuman Rout](https://github.com/anshuman0123)
+- [Sangam verma](https://github.com/sangam-verma9)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
 - [Ansh Shori](https://github.com/anshshori2002)
