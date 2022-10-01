@@ -16,6 +16,7 @@
 - [Pratik Butani](https://github.com/pratikbutani)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Prakhar Sinha]
+- [Trista L. Pollard](https://github.com/tlanettepollard)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
