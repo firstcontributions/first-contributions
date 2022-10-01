@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
-
+- [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
@@ -9,7 +9,6 @@
 - [AADI0009](https://github.com/AADI0009)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [Yaduttam Pareek] (https://github.com/Yaduttam95)
-- [Abubakar Sattar](https://github.com/AbubakarSattar-dev)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
@@ -289,7 +288,6 @@
 - [Harshul Jain](https://github.com/Harshul02)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
 - [Sagar Sethi](https://github.com/sethisagar)
-- [Srujan Gowda](https://github.com/Sruja10)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Abhishek Kumar](https://github.com/Abhishek109062)
 - [Pancho AM](https://github.com/Mauratay)
