@@ -66,6 +66,7 @@
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastav](https://github.com/MrTejas)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
+- [Manas Baroi](https://github.com/manas6699)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Shanon Baker ](https://github.com/ShanonBaker)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
