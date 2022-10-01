@@ -4336,6 +4336,7 @@
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
 - [Angelo Pavilando](https://github.com/pavilandoangelo)
 - [M. Baharuddin Yusuf](https://github.com/ByeByu07)
+- [Ayush Krishna Murthi](https://github.com/AyushKMurthi)
 - [Aksel Telle](https://github.com/akseltelle)
 
 
