@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Kiran Shete](https://github.com/Kiran270999)
+- [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Fsubject](https://github.com/Fsubject)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
