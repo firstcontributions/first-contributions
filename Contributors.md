@@ -126,6 +126,7 @@
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
 - [Kavin Kumar](https://github.com/kavin5kumar)
+- [Harsh Krishan](https://github.com/HarshKrishan)
 - [Juadeb Gabriel](https://github.com/Juadebfm)
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Kishan Kumar](https://github.com/Kishan015)
