@@ -400,6 +400,7 @@
 - [Miguel Zamora](https://github.com/MiguelZamora-Dev)
 - [ByronTheLightbulb](https://github.com/ByronTheLightbulb)
 - [Tommaso Botarelli](https://github.com/TommasoBotarelli)
+- [Rojarani A](https://github.com/rozza7)
 - [Ron Jean-Francois](https://github.com/ronthetech)
 - [Sadman Sakib](https://github.com/sadmann7)
 - [Richard Freeland](https://github.com/freelandr)
