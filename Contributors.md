@@ -4270,5 +4270,6 @@
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
 - [Maulana Irfan](https://github.com/mirfan777)
 - [Nuzul Abatony](https://github.com/Albtony)
+- [Atharv Parlikar](https://github.com/atharvParlikar)
 
 <!-- prettier-ignore-end -->
