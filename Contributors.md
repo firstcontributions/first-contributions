@@ -790,6 +790,7 @@
 - [Lucas Loureiro](https://github.com/L0ureiro)
 - [Ibrahim Hassan](https://github.com/ibrahim-5)
 - [Alfajri Asnan Kusuma](https://github.com/Askus99)
+- [Berkeli Halmyradov](https://github.com/berkeli)
 - [Akintibubo Pelumi](https://github.com/Akintibubopelumi)
 - [Alberto Formaggio](https://github.com/AlbertoFormaggio1)
 - [Dom Vacchiano](https://github.com/vacchiano)
@@ -1253,5 +1254,7 @@
 - [Ankit Verma](https://github.com/ankit-verma-209171)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
+- [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
+
 
 <!-- prettier-ignore-end -->
