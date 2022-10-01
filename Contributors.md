@@ -4323,6 +4323,7 @@
 - [Makkun](https://github.com/Makkkkuuunn)
 - [Farizul Hammi](https://github.com/farizulhammi)
 - [Anton Yartsev](https://github.com/AntonYartsev)
+- [Armaan Khan](https://github.com/AkP2809)
 - [Aman Kumar](https://github.com/amankumarkeshu)
 - [Raul Gon](bigman)
 - [Sai La Min Oak](gay)
