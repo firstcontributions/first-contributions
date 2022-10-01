@@ -5,6 +5,7 @@
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Fsubject](https://github.com/Fsubject)
+- [AADI0009](https://github.com/AADI0009)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
@@ -52,7 +53,6 @@
 - David Ajibola
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Arunava Ghosh](https://github.com/its-ag)
-- [Sree chand R](https://github.com/sreechand2002)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 - [Jonathan Zopf](https://github.com/JonathanZopf)
 - [Kamya](https://github.com/Kamya90)
