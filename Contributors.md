@@ -66,6 +66,7 @@
 - [Ishika Jain](https://github.com/Ishikajain02)
 - [Delali Dogbevi](https://github.com/fodela)
 - [Zijie Zhou](https://github.com/ZhouZijie-BIT)
+- [Thisura Samarakoon](https://github.com/this8)
 - [Golam Mostofa Rajon](https://github.com/rajon111)
 - [Srihari S](https://github.com/SSHSRN)
 - [Suhani Garg](https://github.com/suhanigarg29)
