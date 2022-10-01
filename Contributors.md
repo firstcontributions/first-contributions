@@ -1257,6 +1257,7 @@
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
+-[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 
 
 <!-- prettier-ignore-end -->
