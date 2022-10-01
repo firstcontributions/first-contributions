@@ -299,6 +299,7 @@
 - [Pankaj Kumar](https://github.com/devpkv)
 - [Dave Alam](https://github.com/davealam)
 - [Akshat Mittal](https://akshatmittal61.vercel.app/)
+- [Vipin Yadav](https://github.com/vipin0)
 - [Vipin Chaudhary](https://github.com/itsvipindev)
 - [Singapore750](https://github.com/Singapore750)
 - [Katya](https://github.com/KatyaPrusakova/)
