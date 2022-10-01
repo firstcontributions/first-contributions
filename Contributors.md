@@ -143,6 +143,7 @@
 - [Ki hyun Lee](https://github.com/daveg7lee)
 - [Mark Chittenden](https://github.com/mark-chit)
 - [jyoti](https://github.com/Jyotipal29)
+- [Samuel Ukpai](https://github.com/Samthesurf)
 - [John Okunowo](https://github.com/johnfeyisayo)
 - [Celia Bruner](https://github.com/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
