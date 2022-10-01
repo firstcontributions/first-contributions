@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->'
+
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Kiran Shete](https://github.com/Kiran270999)
@@ -17,6 +18,7 @@
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
+- [Seriki Kamal T.](https://github.com/Sayrikey1)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
@@ -48,11 +50,11 @@
 - [Danish Kamal](https://github.com/danishzayan)
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [Kunal Sachdeva](https://github.com/slanuk)
-- [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
+- [Hussain Lohawala ❤️ ❤️ ❤️](https://github.com/H9660)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
 - [Ritik Bharti](https://github.com/Ritik4388)
 - [LordBenz](https://github.com/lordbenz)
--[Aryan Sharma](https://github.com/aryan2909)
+  -[Aryan Sharma](https://github.com/aryan2909)
 - [Anish Dubey](https://github.com/AnishDubey27)
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
@@ -70,7 +72,7 @@
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
-- [Jericho 'monciego' Bantiquete](https://github.com/monciego)
+- [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - [Imam Suyuti](https://github.com/imams12)
@@ -411,7 +413,7 @@
 - [Brent Upton](https://github.com/bupton)
 - [Hoper Hope](https://github.com/HoperHope)
 - [Wrik Roy](https://github.com/roywrik)
-- [Julien AWON'GA](https://github.com/julien-aw)
+- [Julien AWON&#39;GA](https://github.com/julien-aw)
 - [Ross Yang](https://github.com/dracularking)
 - [Rebecca Hampton](https://github.com/rebeccajhampton)
 - [Patrick Haley](https://github.com/patrickhaley)
@@ -602,8 +604,8 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
-- [Roshan Christy](<https://github.com/roshan-christy(windows)>)
-- [Roshan Christy](<https://github.com/roshan-christy(linux)>)
+- [Roshan Christy](https://github.com/roshan-christy(windows))
+- [Roshan Christy](https://github.com/roshan-christy(linux))
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   [Ohlylo](https://github.com/ohlylo)
@@ -1244,6 +1246,5 @@
 - [KasunHewagama](https://github.com/KasunHewagama)
 - [George Pires](https://github.com/GeorgePires)
 - [Kazim Sayed](https://github.com/kazimsayed954)
-
 
 <!-- prettier-ignore-end -->
