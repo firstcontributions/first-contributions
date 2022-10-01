@@ -1359,6 +1359,7 @@
 - [Vikas Tripathi](https://github.com/ervikasji)
 - [Filip Ognjanovic](https://github.com/DeveloperFO)
 - [InstallEmployee](https://github.com/installemployee)
+- [VinWare](https://github.com/VinWare)
 
 
 <!-- prettier-ignore-end -->
