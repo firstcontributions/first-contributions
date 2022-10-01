@@ -1266,6 +1266,6 @@
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 -[Gujot Singh](https://github.com/Gur-jot)
-
+-[Rohit Jindamwar](https://github.com/rohit85-it)
 
 <!-- prettier-ignore-end -->
