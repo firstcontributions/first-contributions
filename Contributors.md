@@ -1687,6 +1687,7 @@
 - [Dias](https://github.com/diasdauletov)
 - [Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)
 - [Amir](https://github.com/amir1610)
+- [Sainik Khaddar](https://github.com/sainik-khaddar)
 - [XD](https://github.com/snowboulde)
 - [Piyush Sultaniya](https://github.com/gitPiyushhh)
 - [Hassan](https://github.com/Mhassanniazi)
