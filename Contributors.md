@@ -45,7 +45,6 @@
 - [rohit2215](https://github.com/rohit2215)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
-- [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
@@ -1450,6 +1449,6 @@
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
-- [GuyKh](https://github.com/GuyKh)
+- [Dharanash S](https://github.com/Dharanash)
 
 <!-- prettier-ignore-end -->
