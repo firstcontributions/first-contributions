@@ -17,6 +17,7 @@
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
+- [Kaushal Damania](https://github.com/kaushal4)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
 - [darmozrac](https://github.com/darmozrac)
