@@ -6,6 +6,7 @@
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Vishesh Phutela] (https://github.com/Vishesh-30)
 - [Marcos Vinicius](https://github.com/marcostech)
+- [mourad azim](https://github.com/alpha0zero)
 - [Ainsof So'o](https://github.com/ainsofs)
 - [kuldeep singh](https://github.com/Kdsingh333)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
@@ -1688,4 +1689,5 @@
 - [Ethan Cox](https://github.com/MasterReach1)
 
 <!-- prettier-ignore-end -->
+
 - [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
