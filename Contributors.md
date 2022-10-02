@@ -33,6 +33,7 @@
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
+- [Vraj Patel](https://www.linkedin.com/in/vraj-patel-7b0774200))
 - [Prabincankod](https://github.com/prabincankod)
 - [AADI0009](https://github.com/AADI0009)
 - [CeeKay](https://github.com/CeeKayTech)
