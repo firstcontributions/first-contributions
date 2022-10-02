@@ -1441,5 +1441,6 @@
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
+- [Arunesh Singh](https://github.com/arunesh-singh)
 
 <!-- prettier-ignore-end -->
