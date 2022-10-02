@@ -12,6 +12,7 @@
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
+- [Harsh Garg](https://github.com/HarshTheGarg)
 - [RohanKGP](https://github.com/RohanKGP)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Ayomide Victor](https://github.com/midevictor/)
@@ -33,17 +34,7 @@
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
-- [Prabincankod](https://github.com/prabincankod)
-- [AADI0009](https://github.com/AADI0009)
-- [CeeKay](https://github.com/CeeKayTech)
-- [Pratik Butani](https://github.com/pratikbutani)
-- [Nisarg Shah](https://github.com/nisarg0606)
-- [Prakhar Sinha]
-- [Rishav kumar](https://github.com/itsrishav17)
-- [Piyush Srivastava](https://github.com/piyush-sri)
-- Kipkoech Sang
-- [Ansari Danish](https://github.com/ansari-danish)
-- [Manish Kumar](https://github.com/Manishch27)
+- [Prabincankod](https://github.com/prabincankod)git@github.com:HarshTheGarg/first-contributions.git
 - [Trista L. Pollard](https://github.com/tlanettepollard)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
