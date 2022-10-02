@@ -1585,6 +1585,7 @@
 - [Sourav](https://github.com/sourav9582)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
+- [darshit](https://github.com/dar123-art)
 - [Rishieksh](https://github.com/rissh)
 - [Dharmendra Pandit](https://github.com/dkrpandit)
 - [Nagarjun](https://github.com/nagarjun7397)
