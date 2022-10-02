@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 - [Ritesh](https://github.com/codespirit7/)
@@ -117,6 +117,7 @@
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Frankie Cao](http://github.com/FrankieCao1)
 - [Tejas Srivastav](https://github.com/MrTejas)
+- [Akshat Mishra](https://github.com/akshatmishra25)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Manas Baroi](https://github.com/manas6699)
 - [Arunava Ghosh](https://github.com/its-ag)
