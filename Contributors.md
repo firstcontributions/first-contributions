@@ -1587,6 +1587,7 @@
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
+- [Yusril Chalif A](https://github.com/yusrilchalif)
 - [Mayur Jethwa](https://github.com/mayyyur)
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
