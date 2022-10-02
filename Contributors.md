@@ -1397,6 +1397,7 @@
 - [Gaurav Agarwal](https://github.com/gauravag091)
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
+- [Seetaram Naik](https://github.com/SeetaramNaik)
 
 
 <!-- prettier-ignore-end -->
