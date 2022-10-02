@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+Kevin Rangel
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Yuvraj](https://github.com/YuvrajS01)
