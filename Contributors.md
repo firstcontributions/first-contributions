@@ -1389,6 +1389,7 @@
 - [Santosh Rai](https://github.com/santosrai)
 - [Gaurav Agarwal](https://github.com/gauravag091)
 - [Ishaan Shah](https://github.com/ishaan812)
+- [Kanishk Gupta](https://github.com/Kanisshk)
 
 
 <!-- prettier-ignore-end -->
