@@ -2,9 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
-- [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
-- [Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
+- [Jackson Mathew](https://github.com/jacksonmathew)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
@@ -32,6 +31,7 @@
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Atharva Gandhe] (https://github.com/Chill-caster)
+- [Hiren Chandwani](https://github.com/Hiren0502)
 - [Mohit Kukreja] (https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
@@ -39,6 +39,7 @@
 - [Kaushal Damania](https://github.com/kaushal4)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
+- [Sandeep](https://github.com/Sandeep-1507)
 - [darmozrac](https://github.com/darmozrac)
 - [RohanKGP](https://github.com/RohanKGP)
 - [Muhammad Bilal](https://github.com/muhammadbilal20130)
@@ -225,6 +226,7 @@
 - [Sayan Roy](https://github.com/D3FaltXD)
 - [Dimterion](https://github.com/Dimterion)
 - [Faraz Ahmed](https://github.com/GeekkyCoder)
+- [Muhammad Waqar] (https://github.com/muhammadwaqar12)
 - [Utkarsh Ambetkar](https://github.com/UTKARSH552)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
@@ -807,6 +809,7 @@
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
+- [Bigyan Rijal](https://github.com/theoptimist76)
 - [Gigi](https://github.com/provdxc366)
 - [Worthy](https://github.com/worthyag)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
