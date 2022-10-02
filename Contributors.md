@@ -1581,6 +1581,7 @@
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
 - [Ishita](https://github.com/ishita-kundi04)
+- [zahratsabitah](https://github.com/zahrtsa)
 - [Sourav](https://github.com/sourav9582)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
