@@ -1594,6 +1594,7 @@
 - [Anas Qureshi](https://github.com/Anas9764)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
+- [Jerik George](https://github.com/jerik2004)
 - [Harsh Jangitwar](https://github.com/harsh-9c)
 - [Himanshu aggarwal](https://github.com/himanshuaggar)
 - [Jerik George](https://github.com/jerik2004)
