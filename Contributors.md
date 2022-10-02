@@ -104,6 +104,7 @@
 - [Fsubject](https://github.com/Fsubject)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Varad Deshmukh](https://github.com/Varaddd)
+- [Ritesh Kumar](https://github.com/RiteshKr00)
 - [Vraj Patel](https://www.linkedin.com/in/vraj-patel-7b0774200))
 - [Olanrewaju AbdulKabeer](https://www.github.com/olakayCoder1)
 - [Prabincankod](https://github.com/prabincankod)
