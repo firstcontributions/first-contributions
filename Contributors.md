@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Temirov Azat](https://github.com/temirovazat)
+- [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
@@ -79,12 +79,14 @@
 - [Sourasish Mondal](https://github.com/souraOP)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
+- [Temirov Azat](https://github.com/temirovazat)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Rohan Mourya](https://github.com/rohan209547mourya)
 - [Varun](https://github.com/kVarunkk)
 - [Ekechukwu David](https://github.com/davideke1)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
+- [Roshan Karanth](https://github.com/roshankaranth)
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
@@ -1147,6 +1149,7 @@
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
+- [Krzysztof Lagowski](https://github.com/krzysztof-lagowski)
 - [Bryan Chen](https://github.com/bryancheny)
 - [Bryan Suarez](https://github.com/friedaxons)
 - [Qi Mo Lin](https://github.com/qimolin)
@@ -1461,5 +1464,6 @@
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
+- [Peeranut Sueroj](https://github.com/king-peanut)
 
 <!-- prettier-ignore-end -->
