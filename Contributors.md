@@ -1034,6 +1034,7 @@
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar](https://github.com/SadhakKumar)
 - [Frank Sullivan](https://github.com/franks1-svg)
+- [Jedrzej Kijora](https://github.com/jkijora)
 - [Hassana Abdullahi](https://github.com/hassana123)
 - [Vibhu Dhavala](https://github.com/DhavalaV)
 - [Jeff Dauda](https://github.com/jefftrojan)
