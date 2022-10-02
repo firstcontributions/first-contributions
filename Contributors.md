@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+-[Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
@@ -754,6 +755,7 @@
 - [George Babii](https://github.com/georgevlt)
 - [Sohag] https://github.com/soh-ag
 - [Brandon Flores](https://github.com/PineNine)
+- [Gaurav Yadav](https://github.com/gauravengine)
 - [Leander Sannesmoen](https://github.com/leander-sannesmoen)
 - [Mattazz](https://github.com/mattazz)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
@@ -1466,6 +1468,8 @@
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
-- [Agasthi Sankalana](https://github.com/Agasthi98) 
-  [Shubham Sharma](https://github.com/ShubhamSharma025)
+- [Agasthi Sankalana](https://github.com/Agasthi98)
+- [Sahil](https://github.com/SahilMadridista)
+- [Shubham Sharma](https://github.com/ShubhamSharma025)
+
 <!-- prettier-ignore-end -->
