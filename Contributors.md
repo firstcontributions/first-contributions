@@ -24,7 +24,6 @@
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
-- [Anshul Singh](https://github.com/anshulsc)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
 - [Himanshi Tiwari](https://github.com/himanshit0304)
@@ -268,7 +267,6 @@
 - [Terrell Hayward](https://github.com/tjh488)
 - [Himjyoti](https://github.com/HimRock1)
 - [Musaab Abdalla](https://github.com/jamboosan)
-- [Anna Pieroni](https://github.com/TextbookThief)
 - [Harsh Singla](https://github.com/harshsingla-devops)
 - [katdotfasta](https://github.com/katdotfasta)
 - [Hyun Sung Cho](https://github.com/hcho774)
@@ -1503,5 +1501,6 @@
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
+- [NVRaghuCharan](https://github.com/Raghucharan16)
 - 
 <!-- prettier-ignore-end -->
