@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Yuvraj](https://github.com/YuvrajS01)
+- [Awais](https://github.com/Awais-Mustafa)
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
