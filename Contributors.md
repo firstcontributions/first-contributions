@@ -872,6 +872,7 @@
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Konrad Urban](https://github.com/knrdrbn)
 - [Arjun Choudhury](https://github.com/arjunchoudhury07)
+- [Ayman Azzam](https://github.com/AymanAzzam)
 - [ Mustafa Shahzad](https://github.com/MoosetafaDev)
 - [Coker Opeyemi](https://github.com/CokerOpeyemi)
 - [Jarone McCorkle](https://github.com/jcork4real)
