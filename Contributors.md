@@ -17,6 +17,7 @@
 - [Livisha Jain](https://github.com/livisha)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Ali Manashov](https://github.com/alimanashov)
+- [Lakshmipriya Baskar](https://github.com/lakshmipriya166)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
