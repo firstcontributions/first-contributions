@@ -1595,6 +1595,7 @@
 - [Dhananjay Dubey](https://github.com/dhananjay15)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
+- [Mohd khaleeq](https://github.com/Khaleeq01)s
 - [Andrii-Yukhymenko](https://github.com/Andrii-Yukhymenko)
 - [Shubham Sharma](https://github.com/ShubhamSharma025)
 - [Yash Kamal Saxena](https://github.com/kamalyash2002)
