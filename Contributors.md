@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Lian](https://github.com/liulian1004)
 - [Ritesh](https://github.com/15912315)
 - [Parmar Kirti](https://github.com/kirti36)
 - [Ajay Maurya](https://github.com/Ajaymaurya1008)
