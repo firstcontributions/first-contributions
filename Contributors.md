@@ -1606,5 +1606,7 @@
 - [Umar Mansoor](https://github.com/umarmansoor001)
 - [Yumaris] (https://github.com/cronousz)
 - [P Nikita](https://github.com/nikita8763)
+- [Vamsi Krishna](https://github.com/vamsi0750)
+
 
 <!-- prettier-ignore-end -->
