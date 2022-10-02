@@ -1584,5 +1584,5 @@
 - [Dushyant Singh](https://github.com/dushyant60)
 - [Noah Shomette](https://github.com/NoahShomette)
 - [Kuldeep Singh](https://github.com/Switch0XD)
-
+- [Cagri Tasci](https://github.com/StraysWonderland)
 <!-- prettier-ignore-end -->
