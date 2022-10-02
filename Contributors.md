@@ -15,6 +15,7 @@
 - [Abishek](https://github.com/keshiba)
 - [Rahul RK](https://github.com/DevTMK)
 - [Zach J Murphy](https://github.com/zachjmurphy)
+- [Ada](https://github.com/auranykh)
 -[Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Jackson Mathew](https://github.com/jacksonmathew)
