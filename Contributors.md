@@ -1,5 +1,5 @@
 # Contributors
-
+- [Rishav_Ghatak](https://github.com/rishav-gh)
 <!-- prettier-ignore-start -->
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154) 
