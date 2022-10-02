@@ -33,6 +33,7 @@
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
+- [Vraj Patel](https://www.linkedin.com/in/vraj-patel-7b0774200))
 - [Prabincankod](https://github.com/prabincankod)
 - [AADI0009](https://github.com/AADI0009)
 - [CeeKay](https://github.com/CeeKayTech)
@@ -68,6 +69,7 @@
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [GmNock](https://github.com/GMNocK/)
+- [Abhinay](https://github.com/abhinyaay)
 - [mebeing-me](https://github.com/mebeing-me)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
 - [Jonathan Meza](https://github.com/jonma0107)
@@ -303,6 +305,7 @@
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Eduardo Sousa](https://github.com/eduardodelarge)
 - [Douglas Kiprono](https://github.com/douglasrono)
+- [Joel Fah](https://github.com/Joel-Fah/)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [AryKantKode](https://github.com/AryKantKode)
@@ -1374,6 +1377,8 @@
 - [Harsh Wasnik](https://github.com/MUCCHU)
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
+- [Joe Irvine](https://github.com/TheShonuff)
+- [Santosh Rai](https://github.com/santosrai)
 - [Alfino Rossesa](https://github.com/alfinorossesa)
 
 
