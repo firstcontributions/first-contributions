@@ -4,6 +4,7 @@
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Vishesh Phutela] (https://github.com/Vishesh-30)
 - [Marcos Vinicius](https://github.com/marcostech)
+- [Ainsof So'o](https://github.com/ainsofs)
 - [kuldeep singh](https://github.com/Kdsingh333)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
@@ -40,6 +41,7 @@
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Hamdaan Ahmad](https://github.com/githamdaan25)
 - [Shubham Kumar](https://github.com/Shubham1450)
+- [Kishore Yaramala](https://github.com/Daredaevil)
 - [Hemant Modi](https://github.com/HemantModi11)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Swastik Das](https://github.com/SwastikDas26)
@@ -776,7 +778,6 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Temoteo Sabado](https://github.com/Sabado123)
-- [Aryan Deelwal](https://github.com/aryandeelwal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
@@ -1591,6 +1592,7 @@
 - [Ajit Mishra]
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
+- [Anas Qureshi](https://github.com/Anas9764)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Jerik George](https://github.com/jerik2004)
