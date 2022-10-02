@@ -6,7 +6,7 @@
 
 # First Contributions
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
+|<img alt="GitHub Desktop Application" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -33,6 +33,17 @@ Open the GitHub Desktop app and click on the `+` on the top left.
 If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-old-version-tutorial/dt-clone2.png" alt="clone this repository" />
+
+Choose the directory on your machine you would like to clone first-contributions into
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-old-version-tutorial/dt-clone3.png" alt="clone this repository" />
+
+Now you have copied the contents of the first-contributions repository in github to your computer.
+
+**OR**
+Go to Github page of [first-contributions](https://github.com/firstcontributions/first-contributions) and click on the `Code`. Go to `Github CLI` inside Code option. Select `Open with Github Desktop`option. A popup will appear to open in github desktop.
+
+<img Style="float: right;" src="https://github.com/AryanAg08/discord.js-basic/blob/main/dt-clone4.png" alt="Open with Github Desktop" />
 
 Choose the directory on your machine you would like to clone first-contributions into
 
