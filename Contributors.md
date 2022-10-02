@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ritesh](https://github.com/15912315)
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
@@ -1406,6 +1407,7 @@
 - [Saumya katiyar](https://github.com/Ksaumy)
 - [Neel Patel](https://github.com/Neel2107)
 - [Ritesh](https://github.com/abhishek159123)
+- 
 
 
 <!-- prettier-ignore-end -->
