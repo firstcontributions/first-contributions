@@ -1575,6 +1575,7 @@
 - [Akash Badone](https://github.com/akashbadone)
 - [Ritesh](https://github.com/abhishek159123)
 - [Madhavi Sonawane](https://github.com/CODING-Enthusiast9857)
+- [Rishee Sharma](https://github.com/rishee10)
 - [Utkarsh Kashyap](https://github.com/mrgentlemanus)
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
