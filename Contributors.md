@@ -388,6 +388,7 @@
 - [Rohit Dhakad](https://github.com/dhakad17)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mech Mon](https://github.com/Mech-Mon)
+- [AnjoK](https://github.com/Anj0K)
 - [Naftali Kulik](https://github.com/nkulik94)
 - [Mert Arcan](https://github.com/ArjeinN)
 - [Sridhar Sahu](https://github.com/SridharSahu-1)
