@@ -1571,5 +1571,6 @@
 - [Sabit](https://github.com/sab1tm)
 - [VISWANATH](https://github.com/VISWANATH78)
 - [Mayur Jethwa](https://github.com/mayyyur)
+- [Febi Arifin](https://github.com/febiarifin)
 
 <!-- prettier-ignore-end -->
