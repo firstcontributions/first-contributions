@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+-[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 -[Rishabh Sharma](https://github.com/rishabh2209)
