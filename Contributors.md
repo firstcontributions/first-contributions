@@ -1612,6 +1612,7 @@
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Aarav Nigam](https://github.com/Aarav-Nigam)
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
+- [Usama Jamil](https://github.com/usamajamil67)
 - [Shubham Kumar](https://github.com/ShubhamKumar1095)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
