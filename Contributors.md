@@ -81,6 +81,7 @@
 - [Denny Ribeiro](https://github.com/hulluxhd)
 - [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
+- [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
