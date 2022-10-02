@@ -311,6 +311,7 @@
 - [Ki hyun Lee](https://github.com/daveg7lee)
 - [Mark Chittenden](https://github.com/mark-chit)
 - [Aakash Ditya](https://github.com/aakashditya)
+- [Darshil Gevariya](https://github.com/DarshilGevariya)
 - [jyoti](https://github.com/Jyotipal29)
 - [Samuel Ukpai](https://github.com/Samthesurf)
 - [Mayur Joshi](https://github.com/Mayur-Joshi3108)
