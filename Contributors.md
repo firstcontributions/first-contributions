@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Laisa Carmo](https://github.com/laisacsts)
 - [Ali Mansoor ](https://github.com/alimnsr1154) 
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
