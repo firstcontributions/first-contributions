@@ -1499,6 +1499,7 @@
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
+- [JFrids](https://github.com/JFrids)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
 - [GuyKh](https://github.com/GuyKh)
