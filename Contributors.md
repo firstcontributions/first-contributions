@@ -1399,6 +1399,6 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
-
+- [Varun Roy](https://github.com/varun17roy)
 
 <!-- prettier-ignore-end -->
