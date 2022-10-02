@@ -19,6 +19,7 @@
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
+- [Krishn Kant](https://github.com/krishna2332002/)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
