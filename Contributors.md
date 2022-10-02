@@ -1,7 +1,9 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Aman Jain](https://github.com/amanjain5132)
+- [Ritesh](https://github.com/RiteshJha2000)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Awais](https://github.com/Awais-Mustafa)
 - [Ritesh](https://github.com/codespirit7/)
@@ -1437,6 +1439,6 @@
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
-
+- [Yes](github.com/hexsploit0x01)
 
 <!-- prettier-ignore-end -->
