@@ -1433,6 +1433,7 @@
 - [Ishita](https://github.com/ishita-kundi04)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
+- [Nagarjun](https://github.com/nagarjun7397)
 
 
 <!-- prettier-ignore-end -->
