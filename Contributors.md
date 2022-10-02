@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ajay Maurya](https://github.com/Ajaymaurya1008)
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Vishesh Phutela] (https://github.com/Vishesh-30)
 - [Marcos Vinicius](https://github.com/marcostech)
@@ -1260,7 +1261,6 @@
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
-- [Krzysztof Lagowski](https://github.com/krzysztof-lagowski)
 - [Bryan Chen](https://github.com/bryancheny)
 - [Bryan Suarez](https://github.com/friedaxons)
 - [Qi Mo Lin](https://github.com/qimolin)
