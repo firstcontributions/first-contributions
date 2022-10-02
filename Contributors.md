@@ -80,6 +80,7 @@
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [GmNock](https://github.com/GMNocK/)
+- [Niketh Malige](https://github.com/Niketh23)
 - [Abhinay](https://github.com/abhinyaay)
 - [mebeing-me](https://github.com/mebeing-me)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
