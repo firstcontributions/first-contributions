@@ -79,7 +79,6 @@
 - [Srikar D. Palmite](https://github.com/Srikar-D-Palmite)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Atharva Gandhe] (https://github.com/Chill-caster)
-- [Hiren Chandwani](https://github.com/Hiren0502)
 - [Mohit Kukreja] (https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
@@ -1595,6 +1594,7 @@
 - [Anas Qureshi](https://github.com/Anas9764)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
+- [Harsh Jangitwar](https://github.com/harsh-9c)
 - [Himanshu aggarwal](https://github.com/himanshuaggar)
 - [Jerik George](https://github.com/jerik2004)
 - [Krishanthan Krishnamoorthy](https://github.com/krish23)
