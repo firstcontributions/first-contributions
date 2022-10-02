@@ -1451,5 +1451,6 @@
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
 - [GuyKh](https://github.com/GuyKh)
+- [Ishika Garg](https://github.com/ishgit)
 
 <!-- prettier-ignore-end -->
