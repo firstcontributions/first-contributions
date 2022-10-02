@@ -1376,6 +1376,6 @@
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
-
+- [Stif li] (https://github.com/estebanstifli/)
 
 <!-- prettier-ignore-end -->
