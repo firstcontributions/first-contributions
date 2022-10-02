@@ -569,6 +569,7 @@
 - [Mian Azan](https://github.com/mianazan099)
 - [Nathan Strachan](https://github.com/Nathan-is)
 - [John Huang(pheno)](https://github.com/phenogit)
+- [Oybek Kayumov](https://github.com/OybekKayumov)
 - [Mat](https://github.com/raipidddd0ex)
 - [Ryan](https://github.com/EntropyUF)
 - [John Chayachinda](https://github.com/johnchinda)
