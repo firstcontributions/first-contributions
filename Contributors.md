@@ -67,6 +67,7 @@
 - [Swaraj Deshmane](https://github.com/Swarax007)
 - [Imritanshul Sayalwar]
 - [Anshul Singh](https://github.com/anshulsc)
+- [Shikhar Srivastava](https://github.com/sshikhar09)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Emmanuel Omoogun](https://github.com/Abiodun1Omoogun)
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
@@ -1612,7 +1613,6 @@
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Aarav Nigam](https://github.com/Aarav-Nigam)
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
-- [Shubham Kumar](https://github.com/ShubhamKumar1095)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
 - [HyungSu Cheong](https://https://github.com/HyungSuCheong/)
