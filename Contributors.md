@@ -1534,5 +1534,6 @@
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
 - [Kibi](https://github.com/Kibiandkimi)
+- [Konisha](https://github.com/koni24)
 
 <!-- prettier-ignore-end -->
