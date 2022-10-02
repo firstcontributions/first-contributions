@@ -5,6 +5,7 @@
 -[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
+-[Mihir Shinde](https://github.com/MihirShinde-29)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Abishek](https://github.com/keshiba)
 - [Aadarsh Jha](https://github.com/jha-adrs)
