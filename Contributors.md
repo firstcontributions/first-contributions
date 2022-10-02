@@ -458,6 +458,7 @@
 - [Yograj Rajput](https://github.com/yogitheboss)
 - [Carrima Hewitt](https://github.com/chewitt1)
 - [Ashish Khanagwal](https://github.com/Ashish-khanagwal)
+- [Ashish Khare](https://github.com/hugekontrast)
 - [Su Hlaing Hlaing Htet](https://github.com/Su-Hla-ing)
 - [Ilja Snak](https://github.com/TheSnak7)
   [Sukhrob Ikromob](https://github.com/Ikromov247)
@@ -1398,6 +1399,7 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
+- [Saumya katiyar](https://github.com/Ksaumy)
 - [Gautam Choudhary](https://github.com/kumargautam2534)
 
 <!-- prettier-ignore-end -->
