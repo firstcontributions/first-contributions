@@ -300,6 +300,7 @@
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [rahul Dhiman](https://github.com/rahuld2000)
+- [Rutuja More](https://github.com/hrutuja-m)
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Rakshat Kashyap](https://github.com/pixalquarks)
 - [Braedon Behnke]
