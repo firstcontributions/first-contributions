@@ -1621,6 +1621,7 @@
 - [HemanthThota](https://github.com/HemanthThota39)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
+- [Lizzy H](https://github.com/malwareowl)
 - [Sejal Kothari](https://github.com/Sejzz)
 - [P Nikita](https://github.com/nikita8763)
 - [Sarthak Gupta](https://github.com/SarthakGupta145)
