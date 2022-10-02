@@ -1704,5 +1704,5 @@
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
 - [Ethan Cox](https://github.com/MasterReach1)
 - [John Marcial](https://github.com/John121904)
-
+- [Vamsi NAdh](https://github.com/vamsinadh2000)
 <!-- prettier-ignore-end -->
