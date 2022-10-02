@@ -1053,6 +1053,7 @@
 - [Samuel Echols](https://github.com/sechols223)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 - [Clinton Kunhardt](https://github.com/CKunhardt)
+- [Krzysztof Lagowski](https://github.com/krzysztof-lagowski)
 - [Aviad Becker](https://github.com/Beckeruni)
 - [Bryan Chen](https://github.com/bryancheny)
 - [Bryan Suarez](https://github.com/friedaxons)
