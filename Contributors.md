@@ -1435,6 +1435,7 @@
 - [Alex Kokobane](https://github.com/alexkokobane)
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
+- [Enchoz](https://github.com/Enchoz)
 - [Sachin Verma](https://github.com/sachchu007)
 - [Carmel Mary Ugim](https://github.com/Carmel-Mary)
 - [mitchiban](https://github.com/mitchiban)
