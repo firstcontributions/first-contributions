@@ -1619,6 +1619,7 @@
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
 - [HyungSu Cheong](https://https://github.com/HyungSuCheong/)
 - [Sabit](https://github.com/sab1tm)
+- [nanakura](https://github.com/nanakura)
 - [Hdobusa](https://github.com/asubodh)
 - [Laila Nabil](https://github.com/laila-nabil)
 - [VISWANATH](https://github.com/VISWANATH78)
