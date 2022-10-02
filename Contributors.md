@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Kishore Yaramala](https://github.com/Daredaevil)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
