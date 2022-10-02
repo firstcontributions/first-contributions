@@ -1380,6 +1380,6 @@
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
-
+- [Yuvraj Singh Bhadauria}(https://github.com/yuvihere23)
 
 <!-- prettier-ignore-end -->
