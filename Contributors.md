@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Fariawillyan](https://github.com/Fariawillyan)
+- 
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
@@ -1382,6 +1383,7 @@
 - [Zahin Nambiar](https://github.com/Zahin-Nambiar)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
+- [Rishit Yadav](https://github.com/Rishityadav02)
 
 
 <!-- prettier-ignore-end -->
