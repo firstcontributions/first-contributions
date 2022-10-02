@@ -1402,6 +1402,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - [Ankit Agarwal](https://github.com/ankitaga27)
 - [Shubham Kumar Singh](https://github.com/Shubh723)
+- [Sujeet Rajak](https://github.com/MrAwsm99)
 - [Ujjwal Jindal](https://github.com/jindalujjwal0720)
 - [Dev](https://github.com/Dev2003203)
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
