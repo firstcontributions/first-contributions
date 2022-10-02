@@ -1552,5 +1552,6 @@
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
+- [Vaibhav Srivastava](https://github.com/Vaibhav832)
 
 <!-- prettier-ignore-end -->
