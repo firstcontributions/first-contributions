@@ -40,6 +40,7 @@
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Hamdaan Ahmad](https://github.com/githamdaan25)
 - [Shubham Kumar](https://github.com/Shubham1450)
+- [Kishore Yaramala](https://github.com/Daredaevil)
 - [Hemant Modi](https://github.com/HemantModi11)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Swastik Das](https://github.com/SwastikDas26)
