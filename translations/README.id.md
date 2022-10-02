@@ -5,34 +5,32 @@
 
 # Kontribusi Pertama
 
-Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor *open-source* baru belajar dan berkontribusi untuk pertama kalinya.
+Proyek ini bertujuan untuk membantu dan membimbing kontributor pemula untuk melakukan kontribusi pertamanya. Jika anda ingin melakukan kontribusi pertama anda, ikutilah langkah-langkah berikut.
 
-Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada langsung mempraktikan hal-hal tersebut? Proyek ini bertujuan untuk memberikan panduan dan menyederhanakan cara memberikan kontribusi pertama bagi pemula. Jika Anda ingin memberikan kontribusi untuk pertama kalinya, ikuti langkah-langkah di bawah ini.
-
-#### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
+#### _Jika anda tidak nyaman dengan command line, anda bisa menggunakan GUI dengan tutorial [berikut](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
+Untuk melakukan tutorial ini anda diperlukan untuk [menginstall git](https://help.github.com/articles/set-up-git/).
 
 ## Fork Repositori Ini
 
 Fork repositori ini dengan cara menekan tombol *fork* yang ada di bagian kanan atas layar.
-Hal tersebut akan membuat salinan repositori ini di akun anda.
+Tombol ini akan membuat salinan repositori first-contribution di akun anda.
 
-## Klon Repositori
+## Clone Repositori
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
+Setelah anda melakukan langkah diatas, repository akan muncul di akun Github anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
 
 Buka terminal dan eksekusi perintah git berikut:
 
 ```
-git clone "url yang telah Anda salin"
+git clone "url yang telah anda salin"
 ```
 
-yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
+"url yang telah anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url repositori.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -42,17 +40,17 @@ Contoh:
 git clone https://github.com/username-anda/first-contributions.git
 ```
 
-`username-anda` adalah *username* Github Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer anda.
+`username-anda` adalah *username* Github anda. Dengan menjalankan perintah ini, anda telah menyalin repositori first-contributions dari GitHub ke komputer anda.
 
 ## Membuat Cabang (Branch)
 
-Pindah ke direktori repositori Anda yang baru saja disalin (jika belum ada di sana):
+Jika anda belum berada di direktori repositori `first-contribution` di komputer anda, anda dapat menjalankan perintah:
 
 ```
 cd first-contributions
 ```
 
-Buat cabang dengan perintah `git checkout`:
+Kemudian buatlah cabang dengan perintah `git checkout`:
 
 ```
 git checkout -b <add-nama-cabang-baru>
@@ -64,17 +62,17 @@ Contoh:
 git checkout -b add-alonzo-church
 ```
 
-(Nama cabang tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama Anda ke dalam sebuah daftar.)
+(Nama cabang tidak perlu mengandung kata _add_ namun lebih baik untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
 
 ## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
 
-Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
+Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama anda ke dalamnya lalu simpan berkas tersebut. Anda dapat melihat perubahan yang telah anda buat dengan menjalankan perintah `git status` pada direktori repositori. Anda dapat menambahkan perubahan yang telah anda buat dengan menjalankan perintah `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Simpan perubahan tersebut menggunakan perintah `git commit`:
+Kemudian simpan perubahan tersebut menggunakan perintah `git commit`:
 
 ```
 git commit -m "Add <nama> to Contributors list"
@@ -84,7 +82,7 @@ Ubah `<nama>` dengan nama anda.
 
 ## Dorong (Push) Perubahan ke GitHub
 
-Dorong perubahan menggunakan perintah `git push`:
+Push perubahan menggunakan perintah `git push`:
 
 ```
 git push origin <add-nama-cabang-baru>
@@ -94,7 +92,8 @@ Ubah `<add-nama-cabang-baru>` dengan nama cabang yang sebelumnya telah dibuat.
 
 ## Submit Perubahan untuk Diperiksa
 
-Jika Anda membuka repositori Anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
+Bukalah repositori ini di akun Github anda dan tekanlah tombol
+`Compare & pull request`. 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -102,22 +101,21 @@ Kirimkan *Pull Request* (PR)
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Segera Saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
+Setelah PR anda dikirim, pengelola repositori akan segera menggabungkan semua perubahan anda kirim ke cabang utama dari proyek ini. anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
 
-## Ke Mana Lagi Setelah dari Sini?
+## Ke Mana Lagi Setelah ini?
 
-Selamat! Anda baru saja menyelesaikan *fork* -> *clone* -> ubah -> *Pull Request* sebuah alur kerja yang akan sering Anda temui sebagai kontributor!
+Selamat! Anda baru saja menyelesaikan *fork* -> *clone* -> ubah -> *Pull Request*, sebuah alur kerja yang akan sering anda temui sebagai kontributor!
 
-Mari rayakan kontribusi Anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Rayakan kontribusi anda dan bagikan pengalaman tersebut bersama teman-teman anda melalui [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Sekarang, mari mulai berkontribusi di proyek lain. Kami telah mengumpulkan daftar proyek dengan isu yang mudah dikerjakan sehingga anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ## [ Materi tambahan ](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorial Menggunakan Alat Lain
-
+## Tutorial Menggunakan Tools Lain
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
