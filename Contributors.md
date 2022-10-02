@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Ajay Maurya](https://github.com/Ajaymaurya1008)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
@@ -1148,7 +1149,6 @@
 - [Uzair Hussain](https://github.com/Uzairhussain98)
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
-- [Krzysztof Lagowski](https://github.com/krzysztof-lagowski)
 - [Bryan Chen](https://github.com/bryancheny)
 - [Bryan Suarez](https://github.com/friedaxons)
 - [Qi Mo Lin](https://github.com/qimolin)
@@ -1463,6 +1463,5 @@
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
-- [Peeranut Sueroj](https://github.com/king-peanut)
 
 <!-- prettier-ignore-end -->
