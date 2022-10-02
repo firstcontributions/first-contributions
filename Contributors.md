@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Fariawillyan](https://github.com/Fariawillyan)
-- [Ali Mansoor ](https://github.com/alimnsr1154) 
+- [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
@@ -1044,6 +1044,7 @@
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
 - [Lake Stevens](https://github.com/LakeChicken29)
+- [Hari Charan Kandregula](https://github.com/Haricharan0310)
 - [Lucky Abiom](https://github.com/Faemous)
 - [Konstantina Roumelioti](https://github.com/kwnna99)
 - [Shivam Pande](https://github.com/ShivamPande18)
