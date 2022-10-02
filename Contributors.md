@@ -115,6 +115,7 @@
 - [Ekechukwu David](https://github.com/davideke1)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Roshan Karanth](https://github.com/roshankaranth)
+- [Swaraj Deshmane](https://github.com/Swarax007)
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
