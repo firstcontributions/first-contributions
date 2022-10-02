@@ -72,6 +72,7 @@
 - [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - Kipkoech Sang
+- [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
@@ -753,6 +754,7 @@
 - [George Babii](https://github.com/georgevlt)
 - [Sohag] https://github.com/soh-ag
 - [Brandon Flores](https://github.com/PineNine)
+- [Gaurav Yadav](https://github.com/gauravengine)
 - [Leander Sannesmoen](https://github.com/leander-sannesmoen)
 - [Mattazz](https://github.com/mattazz)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
@@ -1402,6 +1404,7 @@
 - [Qasim Qlf](https://github.com/qasimqlf)
 - [Ankit Agarwal](https://github.com/ankitaga27)
 - [Shubham Kumar Singh](https://github.com/Shubh723)
+- [Sujeet Rajak](https://github.com/MrAwsm99)
 - [Ujjwal Jindal](https://github.com/jindalujjwal0720)
 - [Dev](https://github.com/Dev2003203)
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
@@ -1464,6 +1467,10 @@
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
+
 - [Nabin Bhatt](https://github.com/nabinbhatt)
+- [Agasthi Sankalana](https://github.com/Agasthi98)
+- [Sahil](https://github.com/SahilMadridista)
+
 
 <!-- prettier-ignore-end -->
