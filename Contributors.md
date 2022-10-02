@@ -1408,6 +1408,7 @@
 - [Neel Patel](https://github.com/Neel2107)
 - [Ritesh](https://github.com/abhishek159123)
 - [Madhavi Sonawane](https://github.com/CODING-Enthusiast9857)
+- [Ryan Ranaut](https://github.com/RYANRANAUT)
 
 
 <!-- prettier-ignore-end -->
