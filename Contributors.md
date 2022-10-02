@@ -62,6 +62,7 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
+- [v-apor](https://github.com/v-apor)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
 - [Seriki Kamal T.](https://github.com/Sayrikey1)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
