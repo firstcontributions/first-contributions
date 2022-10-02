@@ -130,6 +130,7 @@
 - [Kamya](https://github.com/Kamya90)
 - [Zala Indravijay](https://github.com/indravijay-bot)
 - [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
+- [Mrigank A Sharma](https://github.com/Mrigank56)
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
