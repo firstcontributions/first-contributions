@@ -1446,5 +1446,6 @@
 - [Ardy](https://github.com/ardyop)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
 - [Chakshu](https://github.com/chakshu31)
+- [Gulshan Khandale](https://github.com/Gulshankhandale)
 
 <!-- prettier-ignore-end -->
