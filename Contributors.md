@@ -1478,6 +1478,7 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
+- [Juan Manuel](https://github.com/jseg380)
 - [Samartha Bhat](https://github.com/Samarthasbhat)
 - [Phillip Chu](https://github.com/chuey1a)
 - [Saumya katiyar](https://github.com/Ksaumy)
