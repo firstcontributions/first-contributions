@@ -68,7 +68,6 @@
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
-- [Varun] (https://github.com/kVarunkk)
 - [Ekechukwu David](https://github.com/davideke1)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
@@ -347,7 +346,6 @@
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
   Ericsson Colborn
-- [Rohit Dhakad](https://github.com/dhakad17)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mech Mon](https://github.com/Mech-Mon)
 - [Naftali Kulik](https://github.com/nkulik94)
@@ -1429,6 +1427,7 @@
 - [Ishita](https://github.com/ishita-kundi04)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
+- [darshit](https://github.com/dar123-art)
 
 
 <!-- prettier-ignore-end -->
