@@ -8,6 +8,7 @@
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Awais](https://github.com/Awais-Mustafa)
+- [Gautam Shrotriya](https://github.com/gautam-shrotriya)
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
