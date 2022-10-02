@@ -1535,5 +1535,5 @@
 - [Sahadat Sk](https://github.com/sahadat-sk)
 - [Kibi](https://github.com/Kibiandkimi)
 - [Konisha](https://github.com/koni24)
-
+- [Devesh Mehra](https://github.com/MehraDevesh2022)
 <!-- prettier-ignore-end -->
