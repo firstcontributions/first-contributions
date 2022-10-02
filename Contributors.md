@@ -26,6 +26,7 @@
 - [V Venkat Siddarth Reddy](https://github.com/venkat-siddarth)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
+- [Midhun J Manoj](http://github.com/midhunjmanoj)
 - [Madhusankha](https://github.com/Madhusankha)
 - [Krishn Kant](https://github.com/krishna2332002/)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
