@@ -807,6 +807,7 @@
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
+- [Bigyan Rijal](https://github.com/theoptimist76)
 - [Gigi](https://github.com/provdxc366)
 - [Worthy](https://github.com/worthyag)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
