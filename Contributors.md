@@ -1517,5 +1517,5 @@
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
-- 
+- [Jason Goodney](https://github.com/JasonGoodney)
 <!-- prettier-ignore-end -->
