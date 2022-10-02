@@ -42,6 +42,7 @@
 - [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
+- [Manas Rai] (https://github.com/manas-0407)
 - [Ishan Katoch](https://github.com/ishan-1010)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
