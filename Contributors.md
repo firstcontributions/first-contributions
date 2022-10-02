@@ -7,6 +7,7 @@
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 -[Mihir Shinde](https://github.com/MihirShinde-29)
+-[L Rajat Mohan] (https://github.com/rajatmohan22)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Abishek](https://github.com/keshiba)
 - [Zach J Murphy](https://github.com/zachjmurphy)
