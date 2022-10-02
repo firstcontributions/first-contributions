@@ -37,6 +37,7 @@
 - [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - Kipkoech Sang
+- [Flavia Mabras😽](https://github.com/flamadev)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
 - [Trista L. Pollard](https://github.com/tlanettepollard)
