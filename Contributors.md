@@ -1555,5 +1555,6 @@
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
+- [Sabit](https://github.com/sab1tm)
 
 <!-- prettier-ignore-end -->
