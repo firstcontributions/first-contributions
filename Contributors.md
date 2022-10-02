@@ -1390,6 +1390,6 @@
 - [Gaurav Agarwal](https://github.com/gauravag091)
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
-
+- [Anish Shilpakar](https://github.com/juju2181)
 
 <!-- prettier-ignore-end -->
