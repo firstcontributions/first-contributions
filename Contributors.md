@@ -1372,6 +1372,7 @@
 - [Manthan Keim](https://github.com/manthankeim)
 - [Mario Ruiz](https://github.com/ma-r-s)
 - [Francisco Solis](https://github.com/sisco0)
+- [KRishna RAj](https://github.com/krishna-raz)
 
 
 <!-- prettier-ignore-end -->
