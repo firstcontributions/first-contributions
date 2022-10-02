@@ -519,7 +519,6 @@
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Victoria Young](https://github.com/vyoung708)
 - [Sahinur Islam](https://github.com/devSahinur)
-- [Tarctic](https://github.com/Tarctic)
 - [Jitender Singh Chhapola](https://github.com/niteshjitender)
 - [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
@@ -1529,5 +1528,6 @@
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
+- [AKASH.A.S](https://github.com/akashlisp)
 
 <!-- prettier-ignore-end -->
