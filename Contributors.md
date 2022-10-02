@@ -730,6 +730,7 @@
 - [Moshe tesler](https://github.com/tesler77)
 - [Elena Cherpakova](https://github.com/ElenaCherpakova)
 - [Hayden Boshoff](https://github.com/HaydenBoshoff)
+- [Valeron Toscano](https://github.com/Valeron-T)
 - [Patrick D.](https://github.com/patrickdemersisu)
 - [Álvaro Cabo](https://github.com/alvarocabo)
 - [Doug Colin](https://github.com/Doug-Colin)
