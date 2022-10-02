@@ -1450,5 +1450,6 @@
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
+- [GuyKh](https://github.com/GuyKh)
 
 <!-- prettier-ignore-end -->
