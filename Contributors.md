@@ -1576,6 +1576,7 @@
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
+- [Arunesh Singh](https://github.com/arunesh-singh)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
