@@ -42,6 +42,7 @@
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Kaushal Damania](https://github.com/kaushal4)
+- [Prakhar Goyal](https://github.com/Prakhar-Goyal-3014)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
 - [Sandeep](https://github.com/Sandeep-1507)
