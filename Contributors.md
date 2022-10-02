@@ -1382,6 +1382,6 @@
 - [Zahin Nambiar](https://github.com/Zahin-Nambiar)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
-
+- [Anuj Kumar](https://github.com/heyy-anuj)
 
 <!-- prettier-ignore-end -->
