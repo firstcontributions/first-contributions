@@ -18,6 +18,7 @@
 - [RohanKGP](https://github.com/RohanKGP)
 - [Sheron Jude](https://github.com/sheron184)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
+- [V Venkat Siddarth Reddy](https://github.com/venkat-siddarth)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
 - [Madhusankha](https://github.com/Madhusankha)
