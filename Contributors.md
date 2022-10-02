@@ -465,7 +465,6 @@
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
   Ericsson Colborn
-- [Rohit Dhakad](https://github.com/dhakad17)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mech Mon](https://github.com/Mech-Mon)
 - [AnjoK](https://github.com/Anj0K)
@@ -1586,6 +1585,7 @@
 - [Sourav](https://github.com/sourav9582)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
+- [Rishieksh](https://github.com/rissh)
 - [Dharmendra Pandit](https://github.com/dkrpandit)
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
