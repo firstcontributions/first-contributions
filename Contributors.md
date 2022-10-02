@@ -229,6 +229,7 @@
 - [Sayan Roy](https://github.com/D3FaltXD)
 - [Dimterion](https://github.com/Dimterion)
 - [Faraz Ahmed](https://github.com/GeekkyCoder)
+- [Muhammad Waqar] (https://github.com/muhammadwaqar12)
 - [Utkarsh Ambetkar](https://github.com/UTKARSH552)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
