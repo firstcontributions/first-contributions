@@ -351,6 +351,7 @@
 - [Skandar Souissi](https://github.com/SkandarS0)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
+- [Amitesh Patra](https://github.com/AmiteshPatra)
 - [AJ Renfro](https://github.com/arenfro)
 - [Adelinked](https://github.com/Adelinked)
 - [Chandan Jindal](https://github.com/chandan-jindal)
