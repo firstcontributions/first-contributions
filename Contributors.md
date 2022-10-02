@@ -1592,5 +1592,6 @@
 - [Noah Shomette](https://github.com/NoahShomette)
 - [Kuldeep Singh](https://github.com/Switch0XD)
 - [Vetrichelvan](https://github.com/pythonhubdev)
+- [Samriddh Prasad](https://github.com/Samriddh2703)
 
 <!-- prettier-ignore-end -->
