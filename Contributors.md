@@ -66,6 +66,7 @@
 - [Navya S Raj](https://github.com/navyasraj02)
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
+- [GmNock](https://github.com/GMNocK/)
 - [mebeing-me](https://github.com/mebeing-me)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
 - [Jonathan Meza](https://github.com/jonma0107)
