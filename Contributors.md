@@ -1410,6 +1410,7 @@
 - [Ritesh](https://github.com/abhishek159123)
 - [Madhavi Sonawane](https://github.com/CODING-Enthusiast9857)
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
+- [Robin Gupta](https://github.com/its-bruce)
 
 
 <!-- prettier-ignore-end -->
