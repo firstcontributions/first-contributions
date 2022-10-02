@@ -317,6 +317,7 @@
 - FirstName LastName
 - [Dun](https://github.com/DundeeA)
 - [Seth Brown](https://github.com/sethbrown246)
+- [Sumeet Wagh](https://github.com/sumeetwagh2005)
 - [Richard Kashyap](https://github.com/richardkashyap21)
 - [Ashish Kumar Bhoi](https://github.com/AshishBhoi)
 - [Peeyush Guleria](https://github.com/peeyushguleria)
@@ -1405,7 +1406,6 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
-- [Samartha Bhat](https://github.com/Samarthasbhat)
 - [Phillip Chu](https://github.com/chuey1a)
 - [Saumya katiyar](https://github.com/Ksaumy)
 - [Neel Patel](https://github.com/Neel2107)
@@ -1413,7 +1413,6 @@
 - [Madhavi Sonawane](https://github.com/CODING-Enthusiast9857)
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
-- [Ishita](https://github.com/ishita-kundi04)
 
 
 <!-- prettier-ignore-end -->
