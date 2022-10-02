@@ -1486,6 +1486,7 @@
 - [Gaurav Agarwal](https://github.com/gauravag091)
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
+- [Yung Teck Sheng](https://github.com/yungts97)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
 - [Juan Manuel](https://github.com/jseg380)
 - [Samartha Bhat](https://github.com/Samarthasbhat)
