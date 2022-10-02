@@ -1462,5 +1462,6 @@
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
+- [Peeranut Sueroj](https://github.com/king-peanut)
 
 <!-- prettier-ignore-end -->
