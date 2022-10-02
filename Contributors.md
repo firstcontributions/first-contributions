@@ -1548,5 +1548,6 @@
 - [Unique](https://github.com/Unique-py)
 - [Ritesh Raj](https://github.com/Riteshrajcloud)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
+- [Tharaka Wick](https://github.com/Tharakadhanushka)
 
 <!-- prettier-ignore-end -->
