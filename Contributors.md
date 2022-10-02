@@ -1598,6 +1598,7 @@
 - [Sahadat Sk](https://github.com/sahadat-sk)
 - [Kibi](https://github.com/Kibiandkimi)
 - [Konisha](https://github.com/koni24)
+- [Devesh Mehra](https://github.com/MehraDevesh2022)
 - [Unique](https://github.com/Unique-py)
 - [Ritesh Raj](https://github.com/Riteshrajcloud)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
