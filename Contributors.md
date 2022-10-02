@@ -1513,5 +1513,6 @@
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
+- [Ashish Upadhyay](https://github.com/Ashiiidev)
 - 
 <!-- prettier-ignore-end -->
