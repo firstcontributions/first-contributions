@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ritesh](https://github.com/15912315)
 - [Parmar Kirti](https://github.com/kirti36)
 - [Ajay Maurya](https://github.com/Ajaymaurya1008)
 - [Derek Fox](https://github.com/Derek-Fox)
