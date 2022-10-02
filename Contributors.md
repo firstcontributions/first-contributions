@@ -1399,6 +1399,7 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
+- [Saumya katiyar](https://github.com/Ksaumy)
 
 
 <!-- prettier-ignore-end -->
