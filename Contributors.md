@@ -1609,6 +1609,7 @@
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Adarsh Jaiswal](https://github.com/coder-dash23)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
+- [Bryan Phillip S](https://github.com/NoobBPS)
 - [Kirankumar Ambati](https://www.kirankumarambati.me)
 - [Ahua](https://github.com/Ahua199413)
 - [Jason Goodney](https://github.com/JasonGoodney)
