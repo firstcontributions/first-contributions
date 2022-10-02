@@ -42,7 +42,6 @@
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Kaushal Damania](https://github.com/kaushal4)
-- [Prakhar Goyal](https://github.com/Prakhar-Goyal-3014)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
 - [Sandeep](https://github.com/Sandeep-1507)
@@ -106,7 +105,6 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
-- [Atreay Kukanur](https://github.com/ATREAY)
 - [Harsh Jain](https://github.com/Sriver27)
 - [v-apor](https://github.com/v-apor)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
@@ -1516,5 +1514,6 @@
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
+- [Sudhir](https://github.com/Sudhir8787)
 - 
 <!-- prettier-ignore-end -->
