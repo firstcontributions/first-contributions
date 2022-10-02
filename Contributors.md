@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sabarinath](https://github.com/Sabari-nath-p)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
@@ -14,9 +15,11 @@
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
 - [RohanKGP](https://github.com/RohanKGP)
+- [Sheron Jude](https://github.com/sheron184)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
+- [Krishn Kant](https://github.com/krishna2332002/)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
@@ -1297,6 +1300,7 @@
 - [Arunabh Gupta](https://github.com/Arunabh-gupta)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Santhosh Pai](https://github.com/techtuner)
+- [Franky Lau](https://github.com/Binary67)
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Thrishul Sherigar](https://github.com/3shool)
 - [Nitesh Reddy](https://github.com/niteshkumar257)
@@ -1380,7 +1384,11 @@
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Joe Irvine](https://github.com/TheShonuff)
+- [Kunal](https://github.com/kunal170)
 - [Santosh Rai](https://github.com/santosrai)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
+- [Gaurav Agarwal](https://github.com/gauravag091)
+- [Ishaan Shah](https://github.com/ishaan812)
+
 
 <!-- prettier-ignore-end -->
