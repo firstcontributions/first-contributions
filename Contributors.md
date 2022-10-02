@@ -1,8 +1,9 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
--[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
--[Rishabh Sharma](https://github.com/rishabh2209)
+
+-[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha) -[Rishabh Sharma](https://github.com/rishabh2209)
+
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
@@ -105,7 +106,7 @@
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
-- [Ankit Kiran](https://github.com/Aankirz) 
+- [Ankit Kiran](https://github.com/Aankirz)
 - [Qashif peer](https://github.com/qashifpeer)
 - [Prachi Gupta](https://github.com/Prachi-22-81)
 - [Aditya Bhagat](https://github.com/adityeah2k/)
@@ -180,8 +181,7 @@
 - [Daniel Harka](https://github.com/MrDanielHarka)
 - [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
-- [Hemant Maurya](https://github.com/hemantmaurya344)
--[Saurabh Shukla](https://github.com/Saurabh13042004)
+- [Hemant Maurya](https://github.com/hemantmaurya344) -[Saurabh Shukla](https://github.com/Saurabh13042004)
 - [Marion Judy](https://github.com/marionjudy13)
 - [Imam Suyuti](https://github.com/imams12)
 - [Ansh Goyal](https://github.com/Ansh1693)
@@ -239,7 +239,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [jyoti](https://github.com/Jyotipal29)
 - [Samuel Ukpai](https://github.com/Samthesurf)
-- [Mayur Joshi](https://github.com/Mayur-Joshi3108) 
+- [Mayur Joshi](https://github.com/Mayur-Joshi3108)
 - [John Okunowo](https://github.com/johnfeyisayo)
 - [Celia Bruner](https://github.om/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
@@ -745,8 +745,8 @@
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
-- [Roshan Christy](https://github.com/roshan-christy(windows))
-- [Roshan Christy](https://github.com/roshan-christy(linux))
+- [Roshan Christy](<https://github.com/roshan-christy(windows)>)
+- [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   [Ohlylo](https://github.com/ohlylo)
@@ -1494,5 +1494,5 @@
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
-- 
+- [Azhar Luthfi](https://github.com/azharluthfi14)
 <!-- prettier-ignore-end -->
