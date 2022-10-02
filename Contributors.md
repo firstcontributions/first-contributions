@@ -1687,6 +1687,7 @@
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
 - [Ethan Cox](https://github.com/MasterReach1)
+- [John Marcial](https://github.com/John121904)
 
 <!-- prettier-ignore-end -->
 
