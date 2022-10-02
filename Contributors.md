@@ -1635,6 +1635,7 @@
 - [Harsh Mishra](https://github.com/harsh098)
 - [Sanchit Bajaj](https://github.com/sanchitbajaj02/)
 - [Kalash Vasaniya](https://github.com/kalashvasaniya)
+- [Riya Bansal](https://github.com/banslriya)
 - [Sejal](https://github.com/sejalkothari45)
 - [sokratis12GR](https://github.com/sokratis12GR)
 - [sejsam](https://github.com/sejsam)
