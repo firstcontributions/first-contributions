@@ -535,6 +535,7 @@
 - [Pete McMahon]
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
+- [Stefano Baccetti](https://github.com/Stefino76)
 - [Babatunde Taiwo](https://github.com/Proac-Tee)
 - [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh)
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
