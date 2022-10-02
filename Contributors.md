@@ -691,6 +691,7 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Temoteo Sabado](https://github.com/Sabado123)
+- [Aryan Deelwal](https://github.com/aryandeelwal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
