@@ -1586,6 +1586,7 @@
 - [Sourav](https://github.com/sourav9582)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
+- [Dharmendra Pandit](https://github.com/dkrpandit)
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
