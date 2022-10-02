@@ -1462,5 +1462,5 @@
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
-
+- [Yusril Chalif A](https://github.com/yusrilchalif)
 <!-- prettier-ignore-end -->
