@@ -72,7 +72,6 @@
 - [Atinder Kumar](https://github.com/atinder11)
 - [Emmanuel Omoogun](https://github.com/Abiodun1Omoogun)
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
-- [Himanshi Tiwari](https://github.com/himanshit0304)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Apurva Dubey](https://github.com/umbridge)
 - [Jay Mehta](https://github.com/jaymehta002)
@@ -259,7 +258,6 @@
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
 - [Ansh Shori](https://github.com/anshshori2002)
-- [Yannick Lanteri](https://github.com/Y1N6)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
@@ -1593,6 +1591,7 @@
 - [Ajit Mishra]
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
+- [Harsh Verma](https://github.com/harshverma893)
 - [Anas Qureshi](https://github.com/Anas9764)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
