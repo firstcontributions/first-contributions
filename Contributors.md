@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+-[Parmar Kirti](https://github.com/kirti36)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
@@ -1470,6 +1471,5 @@
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
-- [Shubham Sharma](https://github.com/ShubhamSharma025)
 
 <!-- prettier-ignore-end -->
