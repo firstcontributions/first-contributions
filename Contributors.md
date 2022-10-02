@@ -20,6 +20,7 @@
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Yuvraj](https://github.com/YuvrajS01)
+- [Neha](https://github.com/neha-gunta)
 - [Awais](https://github.com/Awais-Mustafa)
 - [Gautam Shrotriya](https://github.com/gautam-shrotriya)
 - [Ritesh](https://github.com/codespirit7/)
@@ -578,6 +579,7 @@
 - [Harman Ro](https://github.com/HarmanRo)
 - [Roberto Camberos](https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
+- [Zahra Shahid](https://github.com/ZahraShahid)
 - [Brent Upton](https://github.com/bupton)
 - [Hoper Hope](https://github.com/HoperHope)
 - [Wrik Roy](https://github.com/roywrik)
@@ -1462,6 +1464,7 @@
 - Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+- [Ajay Nair](https://github.com/ajayrnairg)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - [Ankit Agarwal](https://github.com/ankitaga27)
 - [Shubham Kumar Singh](https://github.com/Shubh723)
@@ -1556,6 +1559,7 @@
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
+- [Sabit](https://github.com/sab1tm)
 - [nanakura](https://github.com/nanakura)
 
 <!-- prettier-ignore-end -->
