@@ -1662,6 +1662,7 @@
 - [sammkodes96](https://github.com/sammkodes96)
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
+- [Ethan Cox](https://github.com/MasterReach1)
 
 <!-- prettier-ignore-end -->
 - [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
