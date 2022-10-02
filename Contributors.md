@@ -77,6 +77,7 @@
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [hekaton80](https://github.com/hekaton80)
 - [Indravijay](https://github.com/indravijay-bot)
+- [Chibogu Chisom](https://github.com/raeeceip)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
 - [Muhammad Adnan Ikram](https://github.com/AdnanIkram)
