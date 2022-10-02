@@ -66,6 +66,7 @@
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
+- [Varun] (https://github.com/kVarunkk)
 - [Ekechukwu David](https://github.com/davideke1)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
