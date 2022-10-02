@@ -97,7 +97,6 @@
 - [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
-- [Payal].(https://github.com/PayalPadmalyaPrusty)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
@@ -1602,11 +1601,10 @@
 - [Noah Shomette](https://github.com/NoahShomette)
 - [Kuldeep Singh](https://github.com/Switch0XD)
 - [Chhavi Rana](https://github.com/chhavi-rana)
-- [HemanthThota](https://github.com/HemanthThota39)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
 - [Umar Mansoor](https://github.com/umarmansoor001)
 - [Yumaris] (https://github.com/cronousz)
 - [P Nikita](https://github.com/nikita8763)
-
+- [Akshat](https://github.com/Akshat-z)
 <!-- prettier-ignore-end -->
