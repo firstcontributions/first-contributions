@@ -305,6 +305,7 @@
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Eduardo Sousa](https://github.com/eduardodelarge)
 - [Douglas Kiprono](https://github.com/douglasrono)
+- [Joel Fah](https://github.com/Joel-Fah/)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
 - [AryKantKode](https://github.com/AryKantKode)
