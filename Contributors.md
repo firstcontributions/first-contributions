@@ -1,12 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
-- [Prashanth Kumar](https://github.com/PrashanthKumar0)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
-- [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
 - [Atinder Kumar](https://github.com/atinder11)
@@ -18,12 +15,10 @@
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
 - [RohanKGP](https://github.com/RohanKGP)
-- [Subhash Karthik](https://github.com/Karthik-59)
 - [Sheron Jude](https://github.com/sheron184)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
-- [Madhusankha](https://github.com/Madhusankha)
 - [Krishn Kant](https://github.com/krishna2332002/)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
@@ -63,7 +58,6 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
-- [v-apor](https://github.com/v-apor)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
 - [Seriki Kamal T.](https://github.com/Sayrikey1)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
@@ -1397,6 +1391,7 @@
 - [Gaurav Agarwal](https://github.com/gauravag091)
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
+- [Ritesh kumar verma](https://https://github.com/15912315)
 
 
 <!-- prettier-ignore-end -->
