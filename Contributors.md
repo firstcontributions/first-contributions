@@ -1594,6 +1594,7 @@
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
+- [Kirankumar Ambati](https://www.kirankumarambati.me)
 - [Ahua](https://github.com/Ahua199413)
 - [Jason Goodney](https://github.com/JasonGoodney)
 - [Nishant Choudhary](https://github.com/Code-Nishant)
