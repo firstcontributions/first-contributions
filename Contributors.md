@@ -1551,6 +1551,6 @@
 - [Ritesh Raj](https://github.com/Riteshrajcloud)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
-- [Krishanu Chakraborty](https://github.com/go4krishanu)
 
 <!-- prettier-ignore-end -->
+- [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
