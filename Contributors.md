@@ -23,6 +23,7 @@
 - [Neha](https://github.com/neha-gunta)
 - [Awais](https://github.com/Awais-Mustafa)
 - [Gautam Shrotriya](https://github.com/gautam-shrotriya)
+- [Amaan Ur Rahman](https://github.com/amaan118921)
 - [Ritesh](https://github.com/codespirit7/)
 - [Aliaa Gheis](https://github.com/aliaagheisX)
 - [ofek-atias](https://github.com/ofekatias)
