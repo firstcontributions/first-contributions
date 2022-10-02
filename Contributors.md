@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Temirov Azat](https://github.com/temirovazat)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Yuvraj](https://github.com/YuvrajS01)
@@ -1439,6 +1440,5 @@
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
-- [Ardy](https://github.com/ardyop)
 
 <!-- prettier-ignore-end -->
