@@ -1620,6 +1620,7 @@
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [HemanthThota](https://github.com/HemanthThota39)
 - [Vetrichelvan](https://github.com/pythonhubdev)
+- [Aditya Kumar](https://github.com/aditya109)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
 - [Lizzy H](https://github.com/malwareowl)
 - [Sejal Kothari](https://github.com/Sejzz)
