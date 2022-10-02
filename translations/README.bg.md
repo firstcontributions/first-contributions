@@ -12,49 +12,6 @@
 
 #### *Ако не се чувствате комфортно използвайки command line (терминал), [ето и уроци за използването на програми с графичен интерфейс](#Уроци-за-иползването-на-други-приложения)*
 
-#### *Можете да прочетете тази статия и на [други езици](translations/Translations.md).*
-
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-
-
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 

@@ -11,7 +11,6 @@ Det er alltid vanskelig å gjøre noe for første gang. Spesielt når man samarb
 
 #### _Hvis du ikke er komfortabel med terminal, [så finnes det andre metoder](#Veiledning-for-andre-verktøy)._
 
-#### _Les dette på [andre språk (other languages)](/translations/Translations.md)._
 
 <img align="right" width="300" src="/assets/fork.png" alt="fork this repository" />
 
