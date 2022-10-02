@@ -346,6 +346,7 @@
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
   Ericsson Colborn
+- [Rohit Dhakad](https://github.com/dhakad17)
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mech Mon](https://github.com/Mech-Mon)
 - [Naftali Kulik](https://github.com/nkulik94)
