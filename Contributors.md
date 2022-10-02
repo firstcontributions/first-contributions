@@ -1470,5 +1470,6 @@
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
+- [Shubham Sharma](https://github.com/ShubhamSharma025)
 
 <!-- prettier-ignore-end -->
