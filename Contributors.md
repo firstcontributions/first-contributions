@@ -28,6 +28,7 @@
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
+- [Pankaj Chaudhari](https://github.com/Pankaj6198)
 - [Muhammad Adnan Ikram](https://github.com/AdnanIkram)
 - [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
@@ -1384,7 +1385,6 @@
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Zahin Nambiar](https://github.com/Zahin-Nambiar)
 - [Joe Irvine](https://github.com/TheShonuff)
-- [Kunal](https://github.com/kunal170)
 - [Santosh Rai](https://github.com/santosrai)
 - [Gaurav Agarwal](https://github.com/gauravag091)
 
