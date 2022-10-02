@@ -1,8 +1,9 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
--[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
--[Rishabh Sharma](https://github.com/rishabh2209)
+- [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
+- [Arth](https://github.com/probablyarth)
+- [Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
