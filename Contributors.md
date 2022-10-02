@@ -18,7 +18,6 @@
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
 - [RohanKGP](https://github.com/RohanKGP)
-- [Muhammad Bilal](https://github.com/muhammadbilal20130)
 - [Subhash Karthik](https://github.com/Karthik-59)
 - [Sheron Jude](https://github.com/sheron184)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
@@ -1409,6 +1408,7 @@
 - [Neel Patel](https://github.com/Neel2107)
 - [Ritesh](https://github.com/abhishek159123)
 - [Madhavi Sonawane](https://github.com/CODING-Enthusiast9857)
+- [Utkarsh Kashyap](https://github.com/mrgentlemanus)
 
 
 <!-- prettier-ignore-end -->
