@@ -11,6 +11,7 @@
 -[Saksham Paliwal](https://github.com/sakshampaliwal)
 - [Taimur Shahzad Gill](https://github.com/taymuur)
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
+[Ayush Goyal](https://github.com/ayush392)
 -[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
