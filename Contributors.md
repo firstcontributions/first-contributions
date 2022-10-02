@@ -443,6 +443,7 @@
 - [anshul agrawal]
 - FirstName LastName
 - [Dun](https://github.com/DundeeA)
+- [Salome Asatiani](https://github.com/Salteki)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Richard Kashyap](https://github.com/richardkashyap21)
 - [Ashish Kumar Bhoi](https://github.com/AshishBhoi)
