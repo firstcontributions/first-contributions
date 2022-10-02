@@ -1545,6 +1545,7 @@
 - [Kibi](https://github.com/Kibiandkimi)
 - [Konisha](https://github.com/koni24)
 - [Unique](https://github.com/Unique-py)
-- [Ritesh Raj](https://github.com/Riteshrajcloud) 
+- [Ritesh Raj](https://github.com/Riteshrajcloud)
+- [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 
 <!-- prettier-ignore-end -->
