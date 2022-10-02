@@ -1401,6 +1401,7 @@
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
 - [Saumya katiyar](https://github.com/Ksaumy)
+- [Neel Patel](https://github.com/Neel2107)
 
 
 <!-- prettier-ignore-end -->
