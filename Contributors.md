@@ -189,6 +189,7 @@
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
 - [Ansh Shori](https://github.com/anshshori2002)
+- [Yannick Lanteri](https://github.com/Y1N6)
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
