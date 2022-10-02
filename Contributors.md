@@ -95,6 +95,7 @@
 - [Kamya](https://github.com/Kamya90)
 - [Zala Indravijay](https://github.com/indravijay-bot)
 - [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
+- [Ajay Nair](https://github.com/ajayrnairg)
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
