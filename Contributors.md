@@ -1418,7 +1418,7 @@
 - [Madhavi Sonawane](https://github.com/CODING-Enthusiast9857)
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
-- [Ishita](https://github.com/ishita-kundi04)
+- [Ishita Kundi](https://github.com/ishita-kundi04)
 - [Yingchid](https://github.com/Yingchid)
 
 
