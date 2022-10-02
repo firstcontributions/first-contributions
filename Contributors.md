@@ -1417,6 +1417,6 @@
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
 - [Ishita](https://github.com/ishita-kundi04)
-
+- [zahratsabitah](https://github.com/zahrtsa)
 
 <!-- prettier-ignore-end -->
