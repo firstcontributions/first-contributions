@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
