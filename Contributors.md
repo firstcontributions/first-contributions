@@ -1611,5 +1611,6 @@
 - [P Nikita](https://github.com/nikita8763)
 - [Harsh Mishra](https://github.com/harsh098)
 - [Sanchit Bajaj](https://github.com/sanchitbajaj02/)
+- [Kalash Vasaniya](https://github.com/kalashvasaniya)
 
 <!-- prettier-ignore-end -->
