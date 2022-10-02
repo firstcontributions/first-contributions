@@ -1500,5 +1500,5 @@
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
-- 
+- [Jerik George](https://github.com/jerik2004)
 <!-- prettier-ignore-end -->
