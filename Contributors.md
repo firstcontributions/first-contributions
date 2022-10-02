@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Yuvraj](https://github.com/YuvrajS01)
@@ -9,6 +10,7 @@
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
 - [Fariawillyan](https://github.com/Fariawillyan)
+- [Livisha Jain](https://github.com/livisha)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Ali Manashov](https://github.com/alimanashov)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
@@ -43,6 +45,7 @@
 - [rohit2215](https://github.com/rohit2215)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
+- [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
@@ -94,10 +97,12 @@
 - [Yash Nirmal](https://github.com/yashnirmal)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [Navya S Raj](https://github.com/navyasraj02)
+- [Sarvesh Rane](https://github.com/sarveshrane2000)
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [GmNock](https://github.com/GMNocK/)
 - [Niketh Malige](https://github.com/Niketh23)
+- [Marco Buontempo](https://github.com/marcobuontempo)
 - [Abhinay](https://github.com/abhinyaay)
 - [mebeing-me](https://github.com/mebeing-me)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
@@ -288,6 +293,7 @@
 - [Mircea Arva](https://github.com/cocolinofan)
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
+- [Mayank Tripathi](https://github.com/MAYANK-TRIPATH)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
@@ -1442,5 +1448,8 @@
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
 - [Arunesh Singh](https://github.com/arunesh-singh)
+- [Ganesh Rahate](https://github.com/Ganeshsrahate)
+- [Chakshu](https://github.com/chakshu31)
+- [Gulshan Khandale](https://github.com/Gulshankhandale)
 
 <!-- prettier-ignore-end -->
