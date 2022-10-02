@@ -739,6 +739,7 @@
 - [Aryan Deelwal](https://github.com/aryandeelwal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
+- [Nelson Elaye](https://github.com/nelsonelaye)
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Kartikey Verma](https://github.com/kartikver15gr8)
 - [Moshe tesler](https://github.com/tesler77)
