@@ -932,6 +932,7 @@
 - [Mohammed Aasif](https://github.com/Aasif-tecno)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
+- [Guilherme Pereira](https://github.com/Guilospanck)
 - [Adam Castaneda](https://github.com/acastaneda10)
 - [Tyler Perkins](https://github.com/Clortox)
 - [Chakir Mrabet](https://github.com/ChakirMrabet)
