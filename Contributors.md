@@ -1454,5 +1454,6 @@
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
+- [Dharansh S](https://github.com/Dharanash)
 
 <!-- prettier-ignore-end -->
