@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sabarinath](https://github.com/Sabari-nath-p)
+- [Prashanth Kumar](https://github.com/PrashanthKumar0)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
