@@ -28,6 +28,7 @@
 - [Lakshmipriya Baskar](https://github.com/lakshmipriya166)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
+- [Benjamin Duffield-Harding](https://github.com/ben-dh3)
 - [Om Prakash](https://github.com/itsokop)
 - [Anshul Singh](https://github.com/anshulsc)
 - [Atinder Kumar](https://github.com/atinder11)
