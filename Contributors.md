@@ -699,6 +699,7 @@
 - [Ralph Custodio](https://github.com/itsmeralph09)
 - [Natalia Chotza](https://github.com/NataliaChotza)
 - [Ish Mac](https://github.com/iceyice)
+- [Lennard Henze](https://github.com/henzelennard)
 - [CommonDrum](https://github.com/CommonDrum)
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
