@@ -35,6 +35,7 @@
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
+-
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
@@ -1333,6 +1334,7 @@
 - [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 - [coineem123](https://github.com/coineem123)
 - [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
+- Mahesh Prayaga
 - [thatjamesemo](https://github.com/thatjamesemo)
 - [hsteinmueller](https://github.com/hsteinmueller)
 - [Shrikrishna_umbare](https://github.com/shri142)
