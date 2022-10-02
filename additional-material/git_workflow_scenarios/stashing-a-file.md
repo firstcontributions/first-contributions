@@ -96,7 +96,7 @@ You can use ```git stash pop``` to un-stash the last changes drop it from your s
 
 ## Un-applying a Stash
 
-In some cases you want to apply stashed changes, do some work, but up-apply the changes that originally came from the stash. Git does not provide command like ```git unapply```, but it is possible to achieve this effect by simply retrieving the patch associated with a stash and applying it in reverse:
+In some cases you want to apply stashed changes, do some work, but un-apply the changes that originally came from the stash. Git does not provide command like ```git unapply```, but it is possible to achieve this effect by simply retrieving the patch associated with a stash and applying it in reverse:
 
 ```$ git stash show -p stash@{0} | git apply -R```
 
