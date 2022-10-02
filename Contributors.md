@@ -65,6 +65,7 @@
 - [rohit2215](https://github.com/rohit2215)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
+- [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
