@@ -1374,6 +1374,7 @@
 - [Harsh Wasnik](https://github.com/MUCCHU)
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
+- [Alfino Rossesa](https://github.com/alfinorossesa)
 
 
 <!-- prettier-ignore-end -->
