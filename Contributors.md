@@ -1576,5 +1576,6 @@
 - [Mayur Jethwa](https://github.com/mayyyur)
 - [Febi Arifin](https://github.com/febiarifin)
 - [Dushyant Singh](https://github.com/dushyant60)
+- [Kuldeep Singh](https://github.com/Switch0XD)
 
 <!-- prettier-ignore-end -->
