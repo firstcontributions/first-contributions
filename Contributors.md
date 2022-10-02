@@ -1600,6 +1600,6 @@
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
-- [Umar Mansoor](https://github.com/umarmansoor001)
+- [kumar Abhinav](https://github.com/kumarAbhinav919)
 
 <!-- prettier-ignore-end -->
