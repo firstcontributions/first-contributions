@@ -1371,6 +1371,7 @@
 - [VinWare](https://github.com/VinWare)
 - [Manthan Keim](https://github.com/manthankeim)
 - [Mario Ruiz](https://github.com/ma-r-s)
+- [Harsh Wasnik](https://github.com/MUCCHU)
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
 
