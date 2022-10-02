@@ -93,6 +93,7 @@
 - [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
+- [Pratham Goenka](https://github.com/prathamthe1st)
 - [Manas Rai] (https://github.com/manas-0407)
 - [Ishan Katoch](https://github.com/ishan-1010)
 - [Kiran Shete](https://github.com/Kiran270999)
