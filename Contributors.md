@@ -1,12 +1,14 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154) 
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Jay Mehta](https://github.com/jaymehta002)
+- [Prerna](https://github.com/prerna-codes)
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
@@ -33,7 +35,6 @@
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
-- [Vraj Patel](https://www.linkedin.com/in/vraj-patel-7b0774200))
 - [Prabincankod](https://github.com/prabincankod)
 - [AADI0009](https://github.com/AADI0009)
 - [CeeKay](https://github.com/CeeKayTech)
@@ -69,7 +70,6 @@
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [GmNock](https://github.com/GMNocK/)
-- [Abhinay](https://github.com/abhinyaay)
 - [mebeing-me](https://github.com/mebeing-me)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
 - [Jonathan Meza](https://github.com/jonma0107)
