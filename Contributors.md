@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 - [Taimur Shahzad Gill](https://github.com/taymuur)
@@ -1547,5 +1547,5 @@
 - [Unique](https://github.com/Unique-py)
 - [Ritesh Raj](https://github.com/Riteshrajcloud)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
-
+- [Aarav Nigam](https://github.com/Aarav-Nigam)
 <!-- prettier-ignore-end -->
