@@ -28,6 +28,7 @@
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Duane Leem](https://github.com/duaneleem)
 - [Jackson Mathew](https://github.com/jacksonmathew)
+- [Mriganka Das](https://github.com/turtlebeasts)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Mohit Chauhan](https://github.com/mohitchauhan-dev)
 - [Ayush Raj](https://github.com/AyushRaj00)
