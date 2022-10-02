@@ -254,6 +254,7 @@
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
 - [Said Lopez](https://github.com/SaidLopez)
+- [Salar Rezaee](https://github.com/SalarRezaee)
 - [Yuvaraj Guru](https://github.com/yuvaguru)
 - [Coalby](https://github.com/coalby)
 - [Vetle Elvebakken](https://github.com/vetleea)
