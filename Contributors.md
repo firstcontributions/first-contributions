@@ -1449,6 +1449,7 @@
 - [Gujot Singh](https://github.com/Gur-jot)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
+- [Sudhir_Sharma](https://www.linkedin.com/in/sudhir-sharma-4858ab21a/)
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
 - [Himanshu](https://github.com/him2016)
