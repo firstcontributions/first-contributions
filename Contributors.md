@@ -1461,6 +1461,7 @@
 - Ajay Singh
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
+- [Ajay Nair](https://github.com/ajayrnairg)
 - [Qasim Qlf](https://github.com/qasimqlf)
 - [Ankit Agarwal](https://github.com/ankitaga27)
 - [Shubham Kumar Singh](https://github.com/Shubh723)
