@@ -20,6 +20,7 @@
 - [Mohit Kukreja] (https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
+- [Muhammad Ali](https://github.com/muhammadali493)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Kaushal Damania](https://github.com/kaushal4)
 - [Baribor Saturday](https://github.com/Baribor)
