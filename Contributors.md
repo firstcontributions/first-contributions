@@ -15,12 +15,10 @@
 - [L Rajat Mohan] (https://github.com/rajatmohan22)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Abishek](https://github.com/keshiba)
-- [Tim W](https://github.com/phpsystems)
 - [Rahul RK](https://github.com/DevTMK)
 - [Zach J Murphy](https://github.com/zachjmurphy)
 - [Sanket Choudhari](https://github.com/sanketssc)
 - [Ada](https://github.com/auranykh)
-- [Namitha](https://github.com/namitha393)
 -[Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Duane Leem](https://github.com/duaneleem)
@@ -1600,5 +1598,5 @@
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
-
+- [Lizzy H] (https://github.com/malwareowl)
 <!-- prettier-ignore-end -->
