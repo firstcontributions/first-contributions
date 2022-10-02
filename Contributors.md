@@ -24,6 +24,7 @@
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
+- [Anshul Singh](https://github.com/anshulsc)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
 - [Himanshi Tiwari](https://github.com/himanshit0304)
