@@ -94,7 +94,7 @@ Celebra as tuas contribuições e partilha-as com amigos e seguidores através d
 
 Aqui estão alguns repositórios com Issues a nível de principiante em que tu podes ajudar a resolver. Vai em frente e clica nos repositórios para saber mais.
 
-### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
 
 ## Tutoriais com outras ferramentas
 

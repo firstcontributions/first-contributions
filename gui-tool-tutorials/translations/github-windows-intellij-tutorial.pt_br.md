@@ -115,7 +115,7 @@ Agora vamos começar a contribuir para outros projetos, compilamos uma lista de 
 
 
 
-### [Material Adicional](../../additional-material/translations/additional-material.pt_br.md).
+### [Material Adicional](../../additional-material/translations/Portuguese/additional-material.pt_br.md).
 
 ## Tutoriais usando outras ferramentas
 [Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)

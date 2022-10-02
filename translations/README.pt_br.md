@@ -102,7 +102,7 @@ Você também pode se juntar à nossa equipe no Slack caso precise de alguma aju
 
 Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
 
 
 ## Tutoriais usando outras ferramentas
