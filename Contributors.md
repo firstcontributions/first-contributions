@@ -1466,6 +1466,6 @@
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
-- [Agasthi Sankalana](https://github.com/Agasthi98)
-
+- [Agasthi Sankalana](https://github.com/Agasthi98) 
+  [Shubham Sharma](https://github.com/ShubhamSharma025)
 <!-- prettier-ignore-end -->
