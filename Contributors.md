@@ -635,6 +635,7 @@
 - [Evan Andresen](https://github.com/evanandresen)
 - [Sandeep Kumar](https://github.com/webdev-sandeep)
 - [H∆LIM](https://github.com/halimke)
+- [Marco Hernandez](https://github.com/marcoah)
 - [TAZER](https://github.com/ajtazer)
 - [Jon Ramm](https://github.com/jonramm)
 - [WILLIAM ROZARIO](https://github.com/William73920)
