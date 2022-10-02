@@ -101,6 +101,7 @@
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
 - [GmNock](https://github.com/GMNocK/)
+- [Sachin Kumar](https://github.com/Sachindrck)
 - [Niketh Malige](https://github.com/Niketh23)
 - [Marco Buontempo](https://github.com/marcobuontempo)
 - [Abhinay](https://github.com/abhinyaay)
