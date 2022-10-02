@@ -21,7 +21,6 @@
 - [Subhash Karthik](https://github.com/Karthik-59)
 - [Sheron Jude](https://github.com/sheron184)
 - [Utkarsh Katiyar](http://github.com/utkarshkatiyar1)
-- [V Venkat Siddarth Reddy](https://github.com/venkat-siddarth)
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
 - [Madhusankha](https://github.com/Madhusankha)
@@ -1402,7 +1401,8 @@
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
 - [Saumya katiyar](https://github.com/Ksaumy)
-- [Neel Patel](https://github.com/Neel2107)
+- [Samartha Bhat](https://github.com/Samarthasbhat)
+- 
 
 
 <!-- prettier-ignore-end -->
