@@ -616,6 +616,7 @@
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Anna Zhark]
+- [Arth](https://github.com/probablyarth)
 - [Abdessamie Allouane](https://github.com/AbdessamieAllouane)
 - [Dominik Rozwarski](https://github.com/dominikrozwarski)
 - [Harman Ro](https://github.com/HarmanRo)
