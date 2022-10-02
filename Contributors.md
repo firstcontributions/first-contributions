@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Aadarsh Jha](https://github.com/jha-adrs)
+- [Harshal Patil](https://github.com/hp1004)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
@@ -1466,6 +1467,5 @@
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
-- [Agasthi Sankalana](https://github.com/Agasthi98)
 
 <!-- prettier-ignore-end -->
