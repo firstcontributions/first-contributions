@@ -1469,5 +1469,5 @@
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
-
+-[Mohd khaleeq](https://github.com/Khaleeq01)s
 <!-- prettier-ignore-end -->
