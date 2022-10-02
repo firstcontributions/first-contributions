@@ -1492,6 +1492,7 @@
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
 - [Shubham Sharma](https://github.com/ShubhamSharma025)
+- [Ajit Mishra]
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
