@@ -120,6 +120,7 @@
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
 - [Velvv](https://github.com/Velvv)
+- [Aaditya Khetwani](https://github.com/Aaditya-1023)
 - [Litania Chauke](https://github.com/litaniachauke)
 - [Michaella Rodriguez] (https://github.com/michaella23)
 - [Arman Ali Khan](https://github.com/Arman-ali-khan-786)
