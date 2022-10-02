@@ -1591,6 +1591,7 @@
 - [Dushyant Singh](https://github.com/dushyant60)
 - [Noah Shomette](https://github.com/NoahShomette)
 - [Kuldeep Singh](https://github.com/Switch0XD)
+- [Chhavi Rana](https://github.com/chhavi-rana)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
 
