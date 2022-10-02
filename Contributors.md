@@ -1619,5 +1619,5 @@
 - [Sejal](https://github.com/sejalkothari45)
 - [sokratis12GR](https://github.com/sokratis12GR)
 - [sejsam](https://github.com/sejsam)
-
+- [sammkodes96](https://github.com/sammkodes96)
 <!-- prettier-ignore-end -->
