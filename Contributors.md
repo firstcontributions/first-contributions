@@ -1439,5 +1439,6 @@
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
+- [Tom Hooper](https://github.com/tom-hooper-91)
 
 <!-- prettier-ignore-end -->
