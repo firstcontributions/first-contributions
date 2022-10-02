@@ -615,6 +615,7 @@
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [escaping-samsara](https://github.com/escaping-samsara/)
 - [Jacques van Zyl](https://github.com/JacquesvZyl)
+- [Omiete John-lewis](https://github.com/oj-lewis)
 - [Domenic Sacchetti](https://github.com/dsacch)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Julián Gómez](https://github.com/jgompis)
