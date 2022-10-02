@@ -2,8 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
--[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha) -[Rishabh Sharma](https://github.com/rishabh2209)
-
+- [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
+- [Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
@@ -1495,4 +1495,4 @@
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Azhar Luthfi](https://github.com/azharluthfi14)
-<!-- prettier-ignore-end -->
+- <!-- prettier-ignore-end -->
