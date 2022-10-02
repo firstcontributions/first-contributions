@@ -82,6 +82,7 @@
 - [Sourasish Mondal](https://github.com/souraOP)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
+- [Temirov Azat](https://github.com/temirovazat)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Rohan Mourya](https://github.com/rohan209547mourya)
