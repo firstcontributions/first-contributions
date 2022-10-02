@@ -785,7 +785,6 @@
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
-- [Kartikey Verma](https://github.com/kartikver15gr8)
 - [Moshe tesler](https://github.com/tesler77)
 - [Elena Cherpakova](https://github.com/ElenaCherpakova)
 - [Hayden Boshoff](https://github.com/HaydenBoshoff)
@@ -1597,6 +1596,7 @@
 - [Sahil](https://github.com/SahilMadridista)
 - [Andrii-Yukhymenko](https://github.com/Andrii-Yukhymenko)
 - [Shubham Sharma](https://github.com/ShubhamSharma025)
+- [Yash Kamal Saxena](https://github.com/kamalyash2002)
 - [Usman Nizam](https://github.com/unizam12)
 - [Ajit Mishra]
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
