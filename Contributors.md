@@ -1600,6 +1600,7 @@
 - [Jerik George](https://github.com/jerik2004)
 - [Krishanthan Krishnamoorthy](https://github.com/krish23)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
+- [Davendra Bedwal](https://devendra0009.github.io/personal-site/)
 - [NVRaghuCharan](https://github.com/Raghucharan16)
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
