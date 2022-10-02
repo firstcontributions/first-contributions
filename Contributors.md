@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Aman Jain ](https://github.com/amanjain5132)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Awais](https://github.com/Awais-Mustafa)
 - [Ritesh](https://github.com/codespirit7/)
