@@ -1580,6 +1580,7 @@
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
+- [Dharanash S](https://github.com/Dharanash)
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
