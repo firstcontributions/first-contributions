@@ -66,6 +66,7 @@
 - [Livisha Jain](https://github.com/livisha)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Ali Manashov](https://github.com/alimanashov)
+- [Nandagopan Dilip](https://github.com/Nandusss)
 - [Lakshmipriya Baskar](https://github.com/lakshmipriya166)
 - [Aryan Gupta](https://github.com/Aryangp)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
