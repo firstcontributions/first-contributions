@@ -18,6 +18,7 @@
 - [Ada](https://github.com/auranykh)
 -[Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
+- [Duane Leem](https://github.com/duaneleem)
 - [Jackson Mathew](https://github.com/jacksonmathew)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Mohit Chauhan](https://github.com/mohitchauhan-dev)
