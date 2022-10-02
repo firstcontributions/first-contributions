@@ -28,6 +28,7 @@
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
+- [Atharva Gandhe] (https://github.com/Chill-caster)
 - [Mohit Kukreja] (https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
