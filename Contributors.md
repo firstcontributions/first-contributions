@@ -1442,5 +1442,6 @@
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
+- [Chakshu](https://github.com/chakshu31)
 
 <!-- prettier-ignore-end -->
