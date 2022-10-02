@@ -444,6 +444,7 @@
 - FirstName LastName
 - [Dun](https://github.com/DundeeA)
 - [Seth Brown](https://github.com/sethbrown246)
+- [Sumeet Wagh](https://github.com/sumeetwagh2005)
 - [Richard Kashyap](https://github.com/richardkashyap21)
 - [Ashish Kumar Bhoi](https://github.com/AshishBhoi)
 - [Peeyush Guleria](https://github.com/peeyushguleria)
