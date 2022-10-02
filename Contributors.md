@@ -389,6 +389,7 @@
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Eduardo Sousa](https://github.com/eduardodelarge)
 - [Douglas Kiprono](https://github.com/douglasrono)
+- [Aryan Gupta](https://github.com/aryangupta899)
 - [Joel Fah](https://github.com/Joel-Fah/)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
