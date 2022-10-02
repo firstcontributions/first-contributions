@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Taimur Shahzad Gill](https://github.com/taymuur)
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
 -[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
