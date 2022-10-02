@@ -1608,5 +1608,6 @@
 - [Umar Mansoor](https://github.com/umarmansoor001)
 - [Yumaris] (https://github.com/cronousz)
 - [P Nikita](https://github.com/nikita8763)
+- [Harsh Mishra](https://github.com/harsh098)
 
 <!-- prettier-ignore-end -->
