@@ -1481,5 +1481,6 @@
 - [Sahil](https://github.com/SahilMadridista)
 - [Shubham Sharma](https://github.com/ShubhamSharma025)
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
+- [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 
 <!-- prettier-ignore-end -->
