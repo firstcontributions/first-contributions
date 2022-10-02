@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 -[Md Hosam Nayeem](https://github.com/MHNayeem25)
@@ -1570,5 +1570,6 @@
 - [Sabit](https://github.com/sab1tm)
 - [VISWANATH](https://github.com/VISWANATH78)
 - [Mayur Jethwa](https://github.com/mayyyur)
+- [Abdul Karim](https://github.com/kareem96)
 
 <!-- prettier-ignore-end -->
