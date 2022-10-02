@@ -181,6 +181,7 @@
 - [Yash Nirmal](https://github.com/yashnirmal)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
 - [Navya S Raj](https://github.com/navyasraj02)
+- [Samy Benmahrez](https://github.com/samcodesign)
 - [Sarvesh Rane](https://github.com/sarveshrane2000)
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
