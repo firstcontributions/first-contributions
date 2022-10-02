@@ -1500,5 +1500,5 @@
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
-- 
+- [Mayank Madhur](https://github.com/MAYANK-11115722624)
 <!-- prettier-ignore-end -->
