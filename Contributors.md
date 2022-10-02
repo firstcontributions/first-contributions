@@ -1509,6 +1509,7 @@
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
+- [Krishanthan Krishnamoorthy](https://github.com/krish23)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - 
 <!-- prettier-ignore-end -->
