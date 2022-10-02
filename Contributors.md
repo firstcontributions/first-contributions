@@ -824,6 +824,7 @@
 - [gerasim simeonov](https://github.com/penzata)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
 - [Dylan Manfredi](https://github.com/dmanfredi)]
+- [Sarabjeet Singh](https://github.com/sarabs3)
 - [Deepak Putta](https://github.com/deepak-putta)
 - [BrianWhelanDub](https://github.com/BrianWhelanDublin)
 - [Aditya Bisht](https://github.com/adityabisht02)
