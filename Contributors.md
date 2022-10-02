@@ -1388,6 +1388,7 @@
 - [Kunal](https://github.com/kunal170)
 - [Santosh Rai](https://github.com/santosrai)
 - [Gaurav Agarwal](https://github.com/gauravag091)
+- [Ishaan Shah](https://github.com/ishaan812)
 
 
 <!-- prettier-ignore-end -->
