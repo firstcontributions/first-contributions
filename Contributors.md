@@ -4,7 +4,6 @@
 -[Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 -[Md Hosam Nayeem](https://github.com/MHNayeem25)
 -[Vinay Agarwal](https://github.com/vinay360)
-- [Harsh Kumar Singh](https://github.com/harshsingh510)
 -[Saksham Paliwal](https://github.com/sakshampaliwal)
 - [Taimur Shahzad Gill](https://github.com/taymuur)
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
@@ -1597,5 +1596,6 @@
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
+- [Sarthak Gupta](https://github.com/SarthakGupta145)
 
 <!-- prettier-ignore-end -->
