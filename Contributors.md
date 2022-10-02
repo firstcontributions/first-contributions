@@ -94,6 +94,7 @@
 - [Arman Ali Khan](https://github.com/Arman-ali-khan-786)
 - [ThisisGenuine](https://github.com/ThisisGenuine)
 - [Beela](https://github.com/beela303)
+- [Ansh Saxena](https://github.com/anshss)
 - [Yagnesh](https://github.com/yaggit)
 - [Vedika](https://github.com/vcvedika)
 - [eskayML](https://github.com/eskayML)
