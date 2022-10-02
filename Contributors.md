@@ -1400,5 +1400,6 @@
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
 - [Varun Roy](https://github.com/varun17roy)
+- [Saumya katiyar](https://github.com/Ksaumy)
 
 <!-- prettier-ignore-end -->
