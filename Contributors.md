@@ -778,7 +778,6 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Temoteo Sabado](https://github.com/Sabado123)
-- [Aryan Deelwal](https://github.com/aryandeelwal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
@@ -1593,6 +1592,7 @@
 - [Ajit Mishra]
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
+- [Anas Qureshi](https://github.com/Anas9764)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Jerik George](https://github.com/jerik2004)
