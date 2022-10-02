@@ -113,6 +113,7 @@
 - [Yagnesh](https://github.com/yaggit)
 - [Vedika](https://github.com/vcvedika)
 - [eskayML](https://github.com/eskayML)
+- [Manav](https://github.com/Manav39)
 - [Kratik](https://github.com/k4kratik)
 - [Avnish Ranwa](https://github.com/avnishranwa7)
 - [Sanyam Jain](https://github.com/Sanyam-7)
