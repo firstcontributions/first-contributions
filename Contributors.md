@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 -[Vishesh Phutela] (https://github.com/Vishesh-30)
--[Hamdaan Ahmad] (https://github.com/githamdaan25)
 -[Abhiyan Dev Rimal](https://github.com/abhirimal)
 -[Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 -[Md Hosam Nayeem](https://github.com/MHNayeem25)
@@ -32,6 +31,7 @@
 - [Mohit Chauhan](https://github.com/mohitchauhan-dev)
 - [Ayush Raj](https://github.com/AyushRaj00)
 - [Ritesh](https://github.com/RiteshJha2000)
+- [Hamdaan Ahmad](https://github.com/githamdaan25)
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Hemant Modi](https://github.com/HemantModi11)
 - [Yuvraj](https://github.com/YuvrajS01)
