@@ -33,6 +33,7 @@
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Ali Manashov](https://github.com/alimanashov)
 - [Lakshmipriya Baskar](https://github.com/lakshmipriya166)
+- [Aryan Gupta](https://github.com/Aryangp)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Benjamin Duffield-Harding](https://github.com/ben-dh3)
@@ -739,7 +740,6 @@
 - [Aryan Deelwal](https://github.com/aryandeelwal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
-- [Nelson Elaye](https://github.com/nelsonelaye)
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Kartikey Verma](https://github.com/kartikver15gr8)
 - [Moshe tesler](https://github.com/tesler77)
@@ -1564,6 +1564,5 @@
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
 - [Sabit](https://github.com/sab1tm)
 - [VISWANATH](https://github.com/VISWANATH78)
-- [Mayur Jethwa](https://github.com/mayyyur)
 
 <!-- prettier-ignore-end -->
