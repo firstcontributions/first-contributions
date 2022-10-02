@@ -1438,7 +1438,7 @@
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
+- [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Yes](github.com/hexsploit0x01)
-- [Ardy](https://github.com/ardyop)
 
 <!-- prettier-ignore-end -->
