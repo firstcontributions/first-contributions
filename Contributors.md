@@ -1573,5 +1573,6 @@
 - [VISWANATH](https://github.com/VISWANATH78)
 - [Mayur Jethwa](https://github.com/mayyyur)
 - [Febi Arifin](https://github.com/febiarifin)
+- [Dushyant Singh](https://github.com/dushyant60)
 
 <!-- prettier-ignore-end -->
