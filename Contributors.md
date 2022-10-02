@@ -1369,6 +1369,7 @@
 - [Sabrina](https://github.com/eggsmayhem)
 - [Xevziler](https://github.com/Xevziler)
 - [Jaden Hong](https://github.com/thisjdn)
+- [Stingray-bit](https://github.com/Stingray-bit)
 - [Kerplunkx](https://github.com/Kerplunkx)
 - [Mbiraru](https://github.com/Mbiraru)
 - [James Peeler](https://github.com/jamespeeler)
