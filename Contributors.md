@@ -1505,5 +1505,5 @@
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
-- 
+- [Himanshu Singh](https://github.com/developerhimanshu)
 <!-- prettier-ignore-end -->
