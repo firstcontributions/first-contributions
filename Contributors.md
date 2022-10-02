@@ -1297,6 +1297,7 @@
 - [Arunabh Gupta](https://github.com/Arunabh-gupta)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Santhosh Pai](https://github.com/techtuner)
+- [Franky Lau](https://github.com/Binary67)
 - [Nuzul Abatony](https://github.com/Albtony)
 - [Thrishul Sherigar](https://github.com/3shool)
 - [Nitesh Reddy](https://github.com/niteshkumar257)
