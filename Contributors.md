@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Ayush Aryan](https://github.com/Ayush-Aryan-0)
 -[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
@@ -64,6 +65,7 @@
 - [rohit2215](https://github.com/rohit2215)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
+- [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
@@ -389,6 +391,7 @@
 - [Peeyush Guleria](https://github.com/peeyushguleria)
 - [Eduardo Sousa](https://github.com/eduardodelarge)
 - [Douglas Kiprono](https://github.com/douglasrono)
+- [Aryan Gupta](https://github.com/aryangupta899)
 - [Joel Fah](https://github.com/Joel-Fah/)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
@@ -518,6 +521,7 @@
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Victoria Young](https://github.com/vyoung708)
 - [Sahinur Islam](https://github.com/devSahinur)
+- [Tarctic](https://github.com/Tarctic)
 - [Jitender Singh Chhapola](https://github.com/niteshjitender)
 - [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
@@ -1527,5 +1531,8 @@
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
 - [Akash AS](https://github.com/akashlisp)
+
+
+
 
 <!-- prettier-ignore-end -->
