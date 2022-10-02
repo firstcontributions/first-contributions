@@ -289,6 +289,7 @@
 - [Mircea Arva](https://github.com/cocolinofan)
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
+- [Mayank Tripathi](https://github.com/MAYANK-TRIPATH)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
