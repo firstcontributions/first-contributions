@@ -1405,6 +1405,7 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
+- [Samartha Bhat](https://github.com/Samarthasbhat)
 - [Phillip Chu](https://github.com/chuey1a)
 - [Saumya katiyar](https://github.com/Ksaumy)
 - [Neel Patel](https://github.com/Neel2107)
