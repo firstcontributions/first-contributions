@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Ritesh](https://github.com/RiteshJha2000)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Awais](https://github.com/Awais-Mustafa)
 - [Ritesh](https://github.com/codespirit7/)
@@ -1437,6 +1436,7 @@
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
+- [Arpit Bhadani](https://github.com/arpitbhadani)
 
 
 <!-- prettier-ignore-end -->
