@@ -94,6 +94,7 @@
 - [Benny Riot](http://github.com/bennyriot)
 - [Midhun J Manoj](http://github.com/midhunjmanoj)
 - [Madhusankha](https://github.com/Madhusankha)
+- [Kishan Kumar](https://github.com/Kishan015)
 - [Krishn Kant](https://github.com/krishna2332002/)
 - [Kuldeepkumhar-fs](https://github.com/Kuldeepkumhar-fs)
 - [rohit2215](https://github.com/rohit2215)
