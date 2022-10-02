@@ -1379,6 +1379,7 @@
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
+- [Alfino Rossesa](https://github.com/alfinorossesa)
 
 
 <!-- prettier-ignore-end -->
