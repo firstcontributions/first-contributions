@@ -4,6 +4,7 @@
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Vishesh Phutela] (https://github.com/Vishesh-30)
 - [Marcos Vinicius](https://github.com/marcostech)
+- [mourad azim](https://github.com/alpha0zero)
 - [kuldeep singh](https://github.com/Kdsingh333)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
@@ -1661,4 +1662,5 @@
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
 
 <!-- prettier-ignore-end -->
+
 - [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
