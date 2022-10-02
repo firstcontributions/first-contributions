@@ -1405,6 +1405,7 @@
 - [Phillip Chu](https://github.com/chuey1a)
 - [Saumya katiyar](https://github.com/Ksaumy)
 - [Neel Patel](https://github.com/Neel2107)
+- [Ritesh](https://github.com/abhishek159123)
 
 
 <!-- prettier-ignore-end -->
