@@ -1615,5 +1615,6 @@
 - [Harsh Mishra](https://github.com/harsh098)
 - [Sanchit Bajaj](https://github.com/sanchitbajaj02/)
 - [Kalash Vasaniya](https://github.com/kalashvasaniya)
+- [Sejal](https://github.com/sejalkothari45)
 
 <!-- prettier-ignore-end -->
