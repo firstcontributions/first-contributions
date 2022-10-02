@@ -1,12 +1,14 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Kishore Yaramala](https://github.com/Daredaevil)
+
+-[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Shubham Kumar](https://github.com/Shubham1450)
+- [Kishore Yaramala](https://github.com/Daredaevil)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Awais](https://github.com/Awais-Mustafa)
 - [Gautam Shrotriya](https://github.com/gautam-shrotriya)
@@ -23,6 +25,7 @@
 - [Atinder Kumar](https://github.com/atinder11)
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
+- [Apurva Dubey](https://github.com/umbridge)
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
@@ -102,6 +105,7 @@
 - [Dafa Armanto](https://github.com/dafaarmanto)
 - [Ankit Kiran](https://github.com/Aankirz) 
 - [Qashif peer](https://github.com/qashifpeer)
+- [Prachi Gupta](https://github.com/Prachi-22-81)
 - [Aditya Bhagat](https://github.com/adityeah2k/)
 - [Razan Joshi](https://github.com/razanjoshi)
 - [Jayesh Joshi](https://github.com/jjoshi1812)
@@ -232,8 +236,9 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [jyoti](https://github.com/Jyotipal29)
 - [Samuel Ukpai](https://github.com/Samthesurf)
+- [Mayur Joshi](https://github.com/Mayur-Joshi3108) 
 - [John Okunowo](https://github.com/johnfeyisayo)
-- [Celia Bruner](https://github.com/kiddo7565)
+- [Celia Bruner](https://github.om/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
 - [Vivek Kumar Singh](https://github.com/vivekthedev)
@@ -1482,5 +1487,6 @@
 - [Sahil](https://github.com/SahilMadridista)
 - [Shubham Sharma](https://github.com/ShubhamSharma025)
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
+- [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 
 <!-- prettier-ignore-end -->
