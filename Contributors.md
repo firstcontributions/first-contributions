@@ -32,6 +32,7 @@
 - [Laukik Chahande](https://github.com/luciferx48)
 - [Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
+- [Harshal Patil](https://github.com/hp1004)
 - [Duane Leem](https://github.com/duaneleem)
 - [Jackson Mathew](https://github.com/jacksonmathew)
 - [Mriganka Das](https://github.com/turtlebeasts)
