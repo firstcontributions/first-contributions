@@ -28,7 +28,6 @@
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
-- [Atharva Gandhe] (https://github.com/Chill-caster)
 - [Mohit Kukreja] (https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
@@ -692,7 +691,6 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Temoteo Sabado](https://github.com/Sabado123)
-- [Aryan Deelwal](https://github.com/aryandeelwal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
@@ -1489,5 +1487,6 @@
 - [Shubham Sharma](https://github.com/ShubhamSharma025)
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
+- [Anas Qureshi](https://github.com/Anas9764)
 
 <!-- prettier-ignore-end -->
