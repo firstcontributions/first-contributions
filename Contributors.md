@@ -112,6 +112,7 @@
 - [Charvi Upreti]
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
+-
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
@@ -1474,6 +1475,7 @@
 - [Syed Muhammed Hassan Ali](https://github.com/Syed007Hassan)
 - [coineem123](https://github.com/coineem123)
 - [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
+- Mahesh Prayaga
 - [thatjamesemo](https://github.com/thatjamesemo)
 - [Vinod Khadka](https://github.com/skdotv)
 - [hsteinmueller](https://github.com/hsteinmueller)
