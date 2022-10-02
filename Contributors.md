@@ -1375,5 +1375,5 @@
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Vinay Ambatkar](https://github.com/VinayAmbatkar)
-
+- [Joe Irvine](https://github.com/TheShonuff)
 <!-- prettier-ignore-end -->
