@@ -1338,6 +1338,7 @@
 - [coineem123](https://github.com/coineem123)
 - [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
 - [thatjamesemo](https://github.com/thatjamesemo)
+- [Vinod Khadka](https://github.com/skdotv)
 - [hsteinmueller](https://github.com/hsteinmueller)
 - [Shrikrishna_umbare](https://github.com/shri142)
 - [MarcoDiFrancesco](github.com/MarcoDiFrancesco/)
