@@ -65,6 +65,7 @@
 - [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
+- [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
