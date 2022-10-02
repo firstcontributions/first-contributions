@@ -732,6 +732,7 @@
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
 - [jonatech256](https://github.com/jonatech256)
+- [Diego Akel](https://github.com/diegoakel)
 - [Apoorva Anurag](https://github.com/apoorvaanurag)
 - [Yuriel Villanueva](https://github.com/Yurielvillanueva)
 - [Tomas Weiskog](https://github.com/Weiskog)
