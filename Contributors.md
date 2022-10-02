@@ -1637,6 +1637,7 @@
 - [Kalash Vasaniya](https://github.com/kalashvasaniya)
 - [Riya Bansal](https://github.com/banslriya)
 - [Sejal](https://github.com/sejalkothari45)
+- [Shravya S Mallya](https://github.com/Shravya-Mallya)
 - [sokratis12GR](https://github.com/sokratis12GR)
 - [sejsam](https://github.com/sejsam)
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
