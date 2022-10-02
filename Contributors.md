@@ -1706,5 +1706,6 @@
 - [Ethan Cox](https://github.com/MasterReach1)
 - [John Marcial](https://github.com/John121904)
 - [Anthony Byrd](https://github.com/Fyrebyrd75)
+- [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 
 <!-- prettier-ignore-end -->
