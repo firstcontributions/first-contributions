@@ -1375,7 +1375,6 @@
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Joe Irvine](https://github.com/TheShonuff)
-- [Santosh Rai](https://github.com/santosrai)
-
+- [Venkat](https://github.com/Venkatramanbehera)
 
 <!-- prettier-ignore-end -->
