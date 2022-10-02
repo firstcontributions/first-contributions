@@ -1602,6 +1602,7 @@
 - [Usman Nizam](https://github.com/unizam12)
 - [Ajit Mishra]
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
+- [Abhishek Pandey](https://github.com/vedsom)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Harsh Verma](https://github.com/harshverma893)
 - [Anas Qureshi](https://github.com/Anas9764)
