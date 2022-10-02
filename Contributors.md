@@ -1468,5 +1468,6 @@
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
+- [Minh](https://github.com/m-inh)
 
 <!-- prettier-ignore-end -->
