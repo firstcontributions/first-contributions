@@ -102,6 +102,7 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
+- [Atreay Kukanur](https://github.com/ATREAY)
 - [Harsh Jain](https://github.com/Sriver27)
 - [v-apor](https://github.com/v-apor)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
