@@ -25,6 +25,7 @@
 - [Sanket Choudhari](https://github.com/sanketssc)
 - [Ada](https://github.com/auranykh)
 - [Namitha](https://github.com/namitha393)
+- [Laukik Chahande](https://github.com/luciferx48)
 -[Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Duane Leem](https://github.com/duaneleem)
