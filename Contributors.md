@@ -1616,6 +1616,7 @@
 - [Dushyant Singh](https://github.com/dushyant60)
 - [Noah Shomette](https://github.com/NoahShomette)
 - [Kuldeep Singh](https://github.com/Switch0XD)
+- [Tarun Agarwal](https://github.com/tarunagarwal2311)
 - [Cagri Tasci](https://github.com/StraysWonderland)
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [HemanthThota](https://github.com/HemanthThota39)
