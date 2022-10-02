@@ -683,6 +683,7 @@
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
+- [Kartikey Verma](https://github.com/kartikver15gr8)
 - [Moshe tesler](https://github.com/tesler77)
 - [Elena Cherpakova](https://github.com/ElenaCherpakova)
 - [Hayden Boshoff](https://github.com/HaydenBoshoff)
