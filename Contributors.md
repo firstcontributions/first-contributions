@@ -1666,6 +1666,7 @@
 - [Aditya Kumar](https://github.com/aditya109)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
 - [kumar Abhinav](https://github.com/kumarAbhinav919)
+- [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
 - [Lizzy H](https://github.com/malwareowl)
 - [Sejal Kothari](https://github.com/Sejzz)
 - [P Nikita](https://github.com/nikita8763)
@@ -1690,5 +1691,3 @@
 - [John Marcial](https://github.com/John121904)
 
 <!-- prettier-ignore-end -->
-
-- [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
