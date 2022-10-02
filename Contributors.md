@@ -101,6 +101,7 @@
 - [Chris Boban V](https://github.com/chrisboban)
 - [Aditya Reddy](https://github.com/gurjapuradityareddy)
 - [Watts](https://github.com/Watts8bits)
+- [Mayank](https://github.com/mayankch283)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Frankie Cao](http://github.com/FrankieCao1)
 - [Tejas Srivastav](https://github.com/MrTejas)
