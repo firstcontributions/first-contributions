@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Sandeep](https://github.com/Sandeep-1507)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
@@ -21,6 +20,7 @@
 - [Kaushal Damania](https://github.com/kaushal4)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
+- [Sandeep](https://github.com/Sandeep-1507)
 - [darmozrac](https://github.com/darmozrac)
 - [RohanKGP](https://github.com/RohanKGP)
 - [Muhammad Bilal](https://github.com/muhammadbilal20130)
