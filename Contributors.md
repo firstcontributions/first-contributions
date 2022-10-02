@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+-[Abhiyan Dev Rimal](https://github.com/abhirimal)
 -[Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 -[Md Hosam Nayeem](https://github.com/MHNayeem25)
 -[Vinay Agarwal](https://github.com/vinay360)
