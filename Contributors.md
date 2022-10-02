@@ -14,6 +14,7 @@
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
+- [Nehal Sharma](https://github.com/nehallsharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
