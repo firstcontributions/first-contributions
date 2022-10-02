@@ -26,6 +26,7 @@
 - [Gift Segun Adesigbin](https://github.com/giftade)
 - [Adeeb Rashid](https://github.com/adeeb18)
 - [Jacques van Zyl](https://github.com/JacquesvZyl)
+- [Omiete John-lewis](https://github.com/oj-lewis)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
