@@ -5,6 +5,7 @@
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
+- [Atinder Kumar](https://github.com/atinder11)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
