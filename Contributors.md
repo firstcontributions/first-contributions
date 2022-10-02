@@ -13,7 +13,6 @@
 - [Awais](https://github.com/Awais-Mustafa)
 - [Gautam Shrotriya](https://github.com/gautam-shrotriya)
 - [Ritesh](https://github.com/codespirit7/)
-- [Aliaa Gheis](https://github.com/aliaagheisX)
 - [ofek-atias](https://github.com/ofekatias)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
@@ -1505,5 +1504,5 @@
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
-- 
+- [Davendra Bedwal](https://devendra0009.github.io/personal-site/)
 <!-- prettier-ignore-end -->
