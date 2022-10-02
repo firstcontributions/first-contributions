@@ -1366,6 +1366,7 @@
 - [InstallEmployee](https://github.com/installemployee)
 - [VinWare](https://github.com/VinWare)
 - [Manthan Keim](https://github.com/manthankeim)
+- [Mario Ruiz](https://github.com/ma-r-s)
 
 
 <!-- prettier-ignore-end -->
