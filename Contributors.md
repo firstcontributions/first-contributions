@@ -69,6 +69,7 @@
 - [Swaraj Deshmane](https://github.com/Swarax007)
 - [Imritanshul Sayalwar]
 - [Anshul Singh](https://github.com/anshulsc)
+- [Shikhar Srivastava](https://github.com/sshikhar09)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Emmanuel Omoogun](https://github.com/Abiodun1Omoogun)
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
