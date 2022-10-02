@@ -154,7 +154,7 @@
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
-- [Ankit Kiran](https://github.com/Aankirz) 
+- [Ankit Kiran](https://github.com/Aankirz)
 - [Qashif peer](https://github.com/qashifpeer)
 - [Prachi Gupta](https://github.com/Prachi-22-81)
 - [Lucas Cockerham](https://github.com/lcockerham)
@@ -291,7 +291,7 @@
 - [Mark Chittenden](https://github.com/mark-chit)
 - [jyoti](https://github.com/Jyotipal29)
 - [Samuel Ukpai](https://github.com/Samthesurf)
-- [Mayur Joshi](https://github.com/Mayur-Joshi3108) 
+- [Mayur Joshi](https://github.com/Mayur-Joshi3108)
 - [John Okunowo](https://github.com/johnfeyisayo)
 - [Celia Bruner](https://github.om/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
@@ -1597,6 +1597,7 @@
 - [Kuldeep Singh](https://github.com/Switch0XD)
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [Vetrichelvan](https://github.com/pythonhubdev)
+- [Aditya Kumar](https://github.com/aditya109)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
 
 <!-- prettier-ignore-end -->
