@@ -207,6 +207,7 @@
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
+- [Anish Sarawgi](https://github.com/Anish-Sarawgi)
 - [Daniel Harka](https://github.com/MrDanielHarka)
 - [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
