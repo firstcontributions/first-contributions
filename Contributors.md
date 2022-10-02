@@ -1379,9 +1379,9 @@
 - [Harsh Wasnik](https://github.com/MUCCHU)
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
-- [Zahin Nambiar](https://github.com/Zahin-Nambiar)
 - [Joe Irvine](https://github.com/TheShonuff)
 - [Santosh Rai](https://github.com/santosrai)
+- [Prity Dhara](https://github.com/preetidhara)
 
 
 <!-- prettier-ignore-end -->
