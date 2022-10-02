@@ -1439,5 +1439,6 @@
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Yes](github.com/hexsploit0x01)
+- [Ardy](https://github.com/ardyop)
 
 <!-- prettier-ignore-end -->
