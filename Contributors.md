@@ -1582,6 +1582,7 @@
 - [Mayur Jethwa](https://github.com/mayyyur)
 - [Febi Arifin](https://github.com/febiarifin)
 - [Dushyant Singh](https://github.com/dushyant60)
+- [Noah Shomette](https://github.com/NoahShomette)
 - [Kuldeep Singh](https://github.com/Switch0XD)
 
 <!-- prettier-ignore-end -->
