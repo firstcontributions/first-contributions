@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Fariawillyan](https://github.com/Fariawillyan)
+- [Rishit Yadav](https://github.com/Rishityadav02)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
@@ -9,7 +10,7 @@
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Jay Mehta](https://github.com/jaymehta002)
 - [prashant Kumar](https://github.com/prashantkr29)
-- [Suksham_Sharma] (https://github.com/Suksham-sharma)
+- [Suksham_Sharma](https://github.com/Suksham-sharma)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Baribor Saturday](https://github.com/Baribor)
 - [darmozrac](https://github.com/darmozrac)
@@ -376,7 +377,7 @@
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Anil Kumar N]
 - [Garvit Shah](https://github.com/gobbledy-gook)
-- [Prajwal Somalkar] (https://github.com/Prajwal0225)
+- [Prajwal Somalkar](https://github.com/Prajwal0225)
 - [Sumit Thigale](https://github.com/sumitt10)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sanil](https://github.com/sanil011)
@@ -575,7 +576,7 @@
 - [Francis Alegre](https://github.com/francisaerol)
 - [Jon Gonzalez](https://github.com/jgonz-hub)
 - [Wayne Watson](https://github.com/grifway)
-- [Mick Meighan(https://github.com/gatters)
+- [Mick Meighan](https://github.com/gatters)
 - [Asma](https://github.com/asma-mughal)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
