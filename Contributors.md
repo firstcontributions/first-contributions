@@ -1467,7 +1467,10 @@
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
 - [Peeranut Sueroj](https://github.com/king-peanut)
+
+- [Nabin Bhatt](https://github.com/nabinbhatt)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
+
 
 <!-- prettier-ignore-end -->
