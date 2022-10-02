@@ -1499,7 +1499,6 @@
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
-- [JFrids](https://github.com/JFrids)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
 - [GuyKh](https://github.com/GuyKh)
@@ -1517,5 +1516,6 @@
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
+- [Abhay singh](https://www.linkedin.com/in/abhay-singh-patel-04b30b209/)
 - 
 <!-- prettier-ignore-end -->
