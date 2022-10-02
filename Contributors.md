@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Sandeep](https://github.com/Sandeep-1507)
 - [Yuvraj](https://github.com/YuvrajS01)
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
