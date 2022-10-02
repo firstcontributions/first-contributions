@@ -1588,6 +1588,7 @@
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
+- [Jerik George](https://github.com/jerik2004)
 - [Krishanthan Krishnamoorthy](https://github.com/krish23)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
