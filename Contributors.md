@@ -1400,6 +1400,6 @@
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
 - [Saumya katiyar](https://github.com/Ksaumy)
-
+- [Rishee](https://github.com/rishee10)
 
 <!-- prettier-ignore-end -->
