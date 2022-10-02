@@ -68,6 +68,7 @@
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
+- [hekaton80](https://github.com/hekaton80)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
@@ -1520,5 +1521,6 @@
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
-- 
+- [Sahadat Sk](https://github.com/sahadat-sk)
+
 <!-- prettier-ignore-end -->
