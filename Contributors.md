@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Fariawillyan](https://github.com/Fariawillyan)
+- [Anurag Sharma ] (https://github.com/anurrags)
 - [Ali Mansoor ](https://github.com/alimnsr1154) 
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
