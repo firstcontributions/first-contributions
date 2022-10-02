@@ -1366,6 +1366,6 @@
 - [InstallEmployee](https://github.com/installemployee)
 - [VinWare](https://github.com/VinWare)
 - [Manthan Keim](https://github.com/manthankeim)
-
+- [Caitlin Malloch](https://github.com/caitlinmalloch)
 
 <!-- prettier-ignore-end -->
