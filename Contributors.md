@@ -1371,6 +1371,6 @@
 - [Manthan Keim](https://github.com/manthankeim)
 - [Mario Ruiz](https://github.com/ma-r-s)
 - [Francisco Solis](https://github.com/sisco0)
-
+- [Too-Be](https://github.com/Too-Be)
 
 <!-- prettier-ignore-end -->
