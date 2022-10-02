@@ -709,7 +709,6 @@
 - [MarcosH911](https://github.com/MarcosH911)
 - [Kanishk](https://github.com/knshkp)
 - [Rad](https://github.com/rad)
-- [Aparna Dubey](https://github.com/aparna03dubey)
 - [Jeremy Mignolet](https://github.com/jrmy911)
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
@@ -1527,5 +1526,6 @@
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
+- [Akash AS](https://github.com/akashlisp)
 
 <!-- prettier-ignore-end -->
