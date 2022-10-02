@@ -1455,5 +1455,6 @@
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
 - [Dharansh S](https://github.com/Dharanash)
+- [Mayur Jethwa](https://github.com/mayyyur)
 
 <!-- prettier-ignore-end -->
