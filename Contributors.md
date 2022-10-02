@@ -1618,5 +1618,6 @@
 - [Kalash Vasaniya](https://github.com/kalashvasaniya)
 - [Sejal](https://github.com/sejalkothari45)
 - [sokratis12GR](https://github.com/sokratis12GR)
+- [sejsam](https://github.com/sejsam)
 
 <!-- prettier-ignore-end -->
