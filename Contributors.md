@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 - [Yuvraj](https://github.com/YuvrajS01)
@@ -42,7 +42,6 @@
 - [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
-- [Manas Rai] (https://github.com/manas-0407)
 - [Ishan Katoch](https://github.com/ishan-1010)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
@@ -124,7 +123,6 @@
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Frankie Cao](http://github.com/FrankieCao1)
 - [Tejas Srivastav](https://github.com/MrTejas)
-- [Akshat Mishra](https://github.com/akshatmishra25)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Manas Baroi](https://github.com/manas6699)
 - [Arunava Ghosh](https://github.com/its-ag)
@@ -1418,6 +1416,7 @@
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
 - [Ishita](https://github.com/ishita-kundi04)
+- [Nishanth K](https://github.com/Nishanthk10)
 
 
 <!-- prettier-ignore-end -->
