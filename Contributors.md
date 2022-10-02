@@ -33,7 +33,6 @@
 - [prashant Kumar](https://github.com/prashantkr29)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
 - [Atharva Gandhe] (https://github.com/Chill-caster)
-- [Hiren Chandwani](https://github.com/Hiren0502)
 - [Mohit Kukreja] (https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
@@ -1499,5 +1498,6 @@
 - [Sumit Kumar Jha](https://github.com/sumit-kumar-jha1709)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Yash Gupta](https://github.com/YashGupta1510)
+- [Harsh Jangitwar](https://github.com/harsh-9c)
 - 
 <!-- prettier-ignore-end -->
