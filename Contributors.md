@@ -1178,7 +1178,7 @@
 - [Jaymee Chen](https://github.com/jmechn)
 - [John Paul Yeap](https://github.com/Lalats12)
 - [Michael Lee Piotrowski](https://www.github.com/MikePiotrowski)
-  [Omar Mohammad](https://www.github.com/OmarMWarraich) 	
+  [Omar Mohammad](https://www.github.com/OmarMWarraich)
 - [Ojonuba Jeremiah](https://www.github.com/spartan124)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Kasab Mohammed Imran](https://github.com/mohammedimrank)
@@ -1400,6 +1400,7 @@
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
+- [Phillip Chu](https://github.com/chuey1a)
 - [Saumya katiyar](https://github.com/Ksaumy)
 
 
