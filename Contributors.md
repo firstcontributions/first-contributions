@@ -1927,6 +1927,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
 - [Ulisses Junior]([https://github.com/UlissesJunior])
-
+- [Adarsh Goel](https://githbu.com/adarsh-goel)
 
 <!-- prettier-ignore-end -->
