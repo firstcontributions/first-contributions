@@ -125,7 +125,7 @@
 - [Charvi Upreti]
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
--
+- 
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
@@ -1727,5 +1727,6 @@
 - [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
+- [Phuong-Cat Ngo](https://github.com/catcecilia)
 
 <!-- prettier-ignore-end -->
