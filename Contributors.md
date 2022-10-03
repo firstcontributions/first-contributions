@@ -5,6 +5,7 @@ collins kiplangat mutai(Kiplaacollo)
 
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Ravi Kumar] (https://github.com/ravi9083)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
