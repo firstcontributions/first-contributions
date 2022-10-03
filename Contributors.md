@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Aman Punia](https://github.com/m0dulat0r)
@@ -1862,6 +1863,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Vagdevi Surarapu](https://github.com/Vagdevi007) 
 - [shivam](https://github.com/shivam-cse)
 - [Ayush Srivastava](https://github.com/ayushsinha30)
+- [Krishna Singh](https://github.com/kk5190)
 - [Zameel Hassan](https://github.com/zameel7)
 - [ndthanhdev](https://github.com/ndthanhdev)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
@@ -1892,6 +1894,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Aman Kumar](https://github.com/aman-32)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
+
 
 
 <!-- prettier-ignore-end -->
