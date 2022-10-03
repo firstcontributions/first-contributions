@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-- [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
+
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
@@ -12,6 +12,7 @@ collins kiplangat mutai(Kiplaacollo)
 -[Jahnvi ] (https://github.com/jahnvi15/)
 - [Evander Siregar](https://github.com/egocider)
 - [HaJinYong](https://github.com/jsh0512)
+- [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Abhishek Banerjee](https://github.com/abhi-as-a-developer)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
