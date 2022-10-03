@@ -1,0 +1,52 @@
+.bookshelf { margin-top:200px;
+}
+
+.bookshelfbc {
+background:url("images/bc.png");
+}
+.bookshelf-title {
+margin: 40px 0px 0px -10px;
+padding:0px;
+height: 55px;
+width: 660px;
+display: table;
+background: url('images/booktitle2.jpg') top left repeat-y;
+color: white;
+font-size: 28px;
+font-style: bold;
+background-color: #889088;
+}
+.bookshelf-title a {
+text-decoration: none;
+color: #333;
+}
+.bookshelf-name-link {
+display: table-cell;
+vertical-align: middle;
+font-size: 24px;
+font-weight: bolder;
+text-shadow: 0px 2px 0px #E6C8A8;
+color: #7E5325 !important;
+padding-left: 5px;
+}
+.bookshelf-more-link:link {
+color: white;
+text-decoration: none;
+font-size: 12px;
+}
+.bookshelf-body {
+width: 660px !important;
+margin: 0px 0px 0px -10px !important;
+background: url('images/rack.jpg') top left repeat-y;
+background-position: 0px 12px;
+}
+
+.container_16 .grid_11 {
+width: 640px;
+}
+.omega {
+margin-right: 0;
+}
+.alpha {
+margin-left: 0;
+}
