@@ -1731,5 +1731,6 @@
 - [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
+- [Akshay Khale](https://github.com/akshaykhale1992)
 
 <!-- prettier-ignore-end -->
