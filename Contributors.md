@@ -367,6 +367,7 @@
 - [Yuvaraj Guru](https://github.com/yuvaguru)
 - [Coalby](https://github.com/coalby)
 - [Vetle Elvebakken](https://github.com/vetleea)
+- [Madhuri Gundabattula](https://github.com/Madhuri1626)
 - [Thomas Adler](https://github.com/thomas0299)
 - [Amber Robin Navy Macfarlane](https://github.com/AmbyNavy)
 - [Muhammad Najib Bala](https://github.com/NAJIB-B)
