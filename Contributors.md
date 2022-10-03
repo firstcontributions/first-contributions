@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+-[Manjot Singh](https://github.com/ManjotCodes)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Ravi Kumar] (https://github.com/ravi9083)
