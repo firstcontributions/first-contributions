@@ -1720,5 +1720,6 @@
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
+- [Muhammad Afin](https://github.com/afiiin)
 
 <!-- prettier-ignore-end -->
