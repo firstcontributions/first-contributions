@@ -1736,5 +1736,6 @@
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
+- [Stevanus-Christian](https://github.com/Stevanus-Christian)
 
 <!-- prettier-ignore-end -->
