@@ -1798,5 +1798,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Praveen Sahu](https://github.com/sudo-pkyt)
 - [Manmeet kaur](https://github.com/Manmeetkaur1525)
 - [Harshit Gupta](https://github.com/its-harshitg)
+- [jai prakash shah](https://github.com/jai7359)
 
 <!-- prettier-ignore-end -->
