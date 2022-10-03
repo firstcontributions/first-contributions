@@ -171,7 +171,7 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
-- [Jacob Hodge]
+- [Jacob Hodge] Jacob 2 Electric boogaloo
 - [Harsh Jain](https://github.com/Sriver27)
 - [v-apor](https://github.com/v-apor)
 - [Zenx_Altaf](https://github.com/zenx-altaf)
