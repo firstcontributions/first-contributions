@@ -1688,6 +1688,7 @@
 - [Karthikeyan Chintala](https://github.com/KarthikeyanChintala999)
 - [Lizzy H](https://github.com/malwareowl)
 - [Sejal Kothari](https://github.com/Sejzz)
+- [Sonya Amini](https://github.com/aminisonya)
 - [P Nikita](https://github.com/nikita8763)
 - [Sarthak Gupta](https://github.com/SarthakGupta145)
 - [Umar Mansoor](https://github.com/umarmansoor001)
