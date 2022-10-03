@@ -1931,6 +1931,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
+- [Maksym Sitailo](https://github.com/maxsIT)
 
 
 <!-- prettier-ignore-end -->
