@@ -1734,5 +1734,6 @@
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
+- [Anuj Mishra](https://github.com/Anujmishra2005)
 
 <!-- prettier-ignore-end -->
