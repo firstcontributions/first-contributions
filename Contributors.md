@@ -60,6 +60,7 @@
 - [Sibongiseni Msomi](https://github.com/sibowilldo)
 - [Ayush Raj](https://github.com/AyushRaj00)
 - [Ritesh](https://github.com/RiteshJha2000)
+- [Peter Zyambo](https://github.com/sangwani-coder)
 - [Hamdaan Ahmad](https://github.com/githamdaan25)
 - [Shubham Kumar](https://github.com/Shubham1450)
 - [Kishore Yaramala](https://github.com/Daredaevil)
