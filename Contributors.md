@@ -258,6 +258,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - Kipkoech Sang
+- [Isaac Montenegro] (https://github.com/Isaac-M-M)
 - [Morii Shikaa](https://github.com/moriishika)
 - [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
