@@ -1864,6 +1864,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Shivam Mahajan](https://github.com/shivam779823)
 - [Jitesh Jayaraman](https://github.com/hyascavefire)
 - [Ishika Ishani](https://github.com/ishani-1255)
+- [Ryan James](https://github.com/ryanjames1729)
 
 
 <!-- prettier-ignore-end -->
