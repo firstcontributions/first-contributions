@@ -1548,6 +1548,7 @@
 - [Dev](https://github.com/Dev2003203)
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 - [Jay Anand](https://github.com/notJAYanand)
+- [Kiersten Campbell] (https://github.com/colliecoder)
 - [Dherya Rana](https://gthub.com/ranaDherya)
 - [Archit Jain](https://github.com/architjain2002)
 - [Manish Kumar](https://youtube.com/ytanonymousbunny)
@@ -1737,5 +1738,6 @@
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Meer Estiyak](https://github.com/mmestiyak)
+- [Stevanus-Christian](https://github.com/Stevanus-Christian)
 
 <!-- prettier-ignore-end -->
