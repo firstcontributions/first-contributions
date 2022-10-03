@@ -1946,6 +1946,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Tamanna](https://github.com/525tamanna)
 - [Maksym Sitailo](https://github.com/maxsIT)
 - [Karan Sharma](https://github.com/karanS08)
+- [Amisha Prajapati](https://github.com/amisha123prajapati)
 
 
 <!-- prettier-ignore-end -->
