@@ -950,6 +950,7 @@
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
 - [Thejus M](https://github.com/thejus-m)
+- [Arshad Ali](https://github.com/arshad32365)
 - [Vanya Rastogi](https://github.com/VanyaRastogi)
 - [Cade Humphreys](https://github.com/thecptwaffles)
 - [Ivan Stojanovic](https://github.com/ivan00stojanovic)
