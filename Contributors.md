@@ -1809,6 +1809,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [jai prakash shah](https://github.com/jai7359)
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
+- [Fikri Khairul Shaleh](https://github.com/fikriks)
 - [Denis Oliveira](https://github.com/denisolvr)
 
 <!-- prettier-ignore-end -->
