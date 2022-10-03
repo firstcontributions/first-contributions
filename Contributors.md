@@ -1961,6 +1961,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Adalton Junio](https://github.com/AdaltonLeite)
-
+- [Samrat Chakraborty](https://github.com/Samrat1507)
 
 <!-- prettier-ignore-end -->
