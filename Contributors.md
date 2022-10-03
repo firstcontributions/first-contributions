@@ -551,6 +551,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Amitesh Patra](https://github.com/AmiteshPatra)
+- [JessicaFM](https://github.com/JessicaFM)
 - [AJ Renfro](https://github.com/arenfro)
 - [Adelinked](https://github.com/Adelinked)
 - [Chandan Jindal](https://github.com/chandan-jindal)
@@ -1938,6 +1939,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
 - [Maksym Sitailo](https://github.com/maxsIT)
+- [Karan Sharma](https://github.com/karanS08)
 
 
 <!-- prettier-ignore-end -->
