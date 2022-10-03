@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
@@ -1864,6 +1865,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Rohit Das](https://github.com/Rohit2001Das)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
 - [Vicky aggarwal](https://github.com/Vickyagg23)
+- [Gaurav Verma](https://github.com/Gaurav-Verma07)
 - [Shivam Mahajan](https://github.com/shivam779823)
 - [Jitesh Jayaraman](https://github.com/hyascavefire)
 - [Ishika Ishani](https://github.com/ishani-1255)
