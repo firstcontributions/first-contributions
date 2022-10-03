@@ -1685,6 +1685,7 @@
 - [Tharaka Wick](https://github.com/Tharakadhanushka)
 - [Sahil Shriwardhankar](https://github.com/notsointresting)
 - [Usama Jamil](https://github.com/usamajamil67)
+- [Nas Issa](https://github.com/nasissa97)
 - [Shubham Kumar](https://github.com/ShubhamKumar1095)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
