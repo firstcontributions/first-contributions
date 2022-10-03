@@ -1786,5 +1786,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Dhruv Bansal](https://github.com/dhruvbansal18)
 - [Endraswara Wiryawan](https://github.com/endrasww)
 - [Ananto Eko Hendarto](https://github.com/sieputra)
+- [Praveen Sahu](https://github.com/sudo-pkyt)
 
 <!-- prettier-ignore-end -->
