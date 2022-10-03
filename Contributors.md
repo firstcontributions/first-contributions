@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Praise Adegoke](https://github.com/praiseadegokee)
@@ -1873,6 +1874,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
+- [Harith Laxman](https://github.com/Harith-Laxman)
 
 
 <!-- prettier-ignore-end -->
