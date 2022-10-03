@@ -1721,5 +1721,6 @@
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
 - [Selma](https://selma.dance)
+- [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 
 <!-- prettier-ignore-end -->
