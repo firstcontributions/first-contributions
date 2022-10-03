@@ -2,13 +2,11 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-- [Shweta Singh](https://github.com/shwetasingh14)
 - [Rudra Sharma](https://github.com/rudra016)
 - [Shamlo](https://github.com/shammlo)
 - [Robert Theo](https://github.com/robertheo15)
 - [Ashish Patel](https://github.com/ashisxcode)
 - [Alexander Ragland](https://github.com/RaglandDev)
-- [Kalyan](https://github.com/ujinikalyan)
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
@@ -35,6 +33,8 @@ collins kiplangat mutai(Kiplaacollo)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
+- [Rohini Patil](https://github.com/rohinipatil89)
+
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
