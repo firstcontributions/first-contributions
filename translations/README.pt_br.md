@@ -7,12 +7,12 @@
 
 Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras contribuições. Se você deseja fazer a sua primeira contribuição, siga os passos abaixo.
 
-#### *Se não se sentes confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #Tutoriais-usando-outras-ferramentas)*
+#### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #Tutoriais-usando-outras-ferramentas)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositório" />
 
-Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
+Se você não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faça um Fork deste repositório
 
@@ -45,24 +45,24 @@ Vá para o diretório do repositório no seu computador (caso você não esteja 
 cd first-contributions
 ```
 
-Agora crie um Branch usando o comando `git checkout`:
+Agora crie um Branch usando o comando `git checkout -b`:
 ```
 git checkout -b <add-seu-nome>
 ```
 
 Por exemplo:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-joao-silva
 ```
 Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome à uma lista.
 
 ## Efetue as alterações necessárias e faça um Commit
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. 
+Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome nele. Não adicione seu nome no início ou no final do arquivo, coloque em algum lugar entre eles. Agora salve o arquivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+Se você for para o diretório do projeto e executar o comando `git status`, verá que existem alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
 ```
 git add Contributors.md
 ```
