@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Aman Punia](https://github.com/m0dulat0r)
@@ -188,6 +189,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Denny Ribeiro](https://github.com/hulluxhd)
 - [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
+- [Vincent Surkijn](https://github.com/Vincent-Surkijn)
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Pushkar Mahajan](https://github.com/pm656v2)
@@ -658,7 +660,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Erin Miller](https://github.com/erinlmiller)
 - [yousef]
 - [botoko]
--
+- [aiyanfaras](https://github.com/Aiyan-Faras)
 - [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
@@ -1893,6 +1895,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Aman Kumar](https://github.com/aman-32)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
+- [Aneesh Sahu]([https://github.com/Aneeshh18])
 
 
 <!-- prettier-ignore-end -->
