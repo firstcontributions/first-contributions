@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Praise Adegoke](https://github.com/praiseadegokee)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 -[Jahnvi ] (https://github.com/jahnvi15/)
