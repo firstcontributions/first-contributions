@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-- [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
@@ -1902,6 +1901,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
-
+- [Paras Sharma](https://github.com/paras3624)
 
 <!-- prettier-ignore-end -->
