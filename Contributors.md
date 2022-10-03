@@ -1804,5 +1804,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Harshit Gupta](https://github.com/its-harshitg)
 - [jai prakash shah](https://github.com/jai7359)
 - [Rahul Gupta](https://github.com/Flicker-eth)
+- [Aditya Khandelwal](https://github.com/adityak840)
 
 <!-- prettier-ignore-end -->
