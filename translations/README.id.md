@@ -38,10 +38,10 @@ yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke reposito
 Contoh:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/ini-adalah-anda/first-contributions.git
 ```
 
-yang mana `this-is-you` adalah *username* GitHub Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer Anda.
+yang mana `ini-adalah-anda` adalah *username* GitHub Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer Anda.
 
 ## Membuat Cabang (Branch)
 
