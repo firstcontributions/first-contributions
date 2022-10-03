@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Praise Adegoke](https://github.com/praiseadegokee)
@@ -48,6 +49,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Raunak Agarwal](https://github.com/RaunakAgarwal18)
 - [Marcos Vinicius](https://github.com/marcostech)
+[Muhammad Abdullah]
 - [mourad azim](https://github.com/alpha0zero)
 - [Katherine Hambley](https://github.com/khambley)
 - [Alejandro Armenta](https://github.com/alexanderNWO)
