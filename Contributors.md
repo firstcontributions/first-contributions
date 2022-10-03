@@ -1969,6 +1969,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Adalton Junio](https://github.com/AdaltonLeite)
 - [Bhavy Khatter](https://github.com/bhavy007)
+- [Oleksii Solomakha](https://github.com/KamaZz)
 
 
 <!-- prettier-ignore-end -->
