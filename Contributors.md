@@ -1720,5 +1720,6 @@
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
+- [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 
 <!-- prettier-ignore-end -->
