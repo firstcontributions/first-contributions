@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+-[Mohit Sharma](https://github.com/mohitsharma909)
 - [Evander Siregar](https://github.com/egocider)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
@@ -1511,7 +1512,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [Enchoz](https://github.com/Enchoz)
-- [Lars van der Niet](https://github.com/larsniet)
 - [Sachin Verma](https://github.com/sachchu007)
 - [Carmel Mary Ugim](https://github.com/Carmel-Mary)
 - [mitchiban](https://github.com/mitchiban)
