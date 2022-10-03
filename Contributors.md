@@ -1718,5 +1718,5 @@
 - [Anthony Byrd](https://github.com/Fyrebyrd75)
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
-
+- [cronousz](https://github.com/cronousz)
 <!-- prettier-ignore-end -->
