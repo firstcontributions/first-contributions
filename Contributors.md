@@ -4,6 +4,7 @@
 collins kiplangat mutai(Kiplaacollo)
 
 - [Anurag Dutt](https://github.com/duttanurag)
+- [Priyam Gupta](https://github.com/Priyam3955)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
