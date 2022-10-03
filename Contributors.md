@@ -741,6 +741,7 @@
 - [Ish Mac](https://github.com/iceyice)
 - [Lennard Henze](https://github.com/henzelennard)
 - [CommonDrum](https://github.com/CommonDrum)
+- [Honey Tyagi](https://github.com/HoneyTyagii)
 - [Kenneth Mensah](https://github.com/sikakente)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
