@@ -10,7 +10,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
 - [Gunjit_Valechha](https://github.com/Gunjit-V)
-- [Navneet Gupta](https://github.com/Nav21000)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
 - [Akshay P K](https://github.com/akshaypk123)
@@ -1881,6 +1880,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Abhishek Kumar](https://github.com/shangchi9)
 - [Aman Kumar](https://github.com/aman-32)
-
+- [Rachana priyadarshni samal](https://github.com/rachana2522)
 
 <!-- prettier-ignore-end -->
