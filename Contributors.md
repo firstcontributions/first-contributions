@@ -48,6 +48,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
+- [Khushi Arora](https://github.com/Khushii-Arora)]
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
 - [Nisarg Mahyavanshi](https://github.com/Nisarg851)
