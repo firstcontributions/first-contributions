@@ -1875,6 +1875,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Abhishek Kumar](https://github.com/shangchi9)
-
+- [Syed Talal Jilani](https://github.com/syedtalaljilani)
 
 <!-- prettier-ignore-end -->
