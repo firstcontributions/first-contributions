@@ -1775,6 +1775,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Harsh Verma](https://github.com/harshverma893)
 - [Anas Qureshi](https://github.com/Anas9764)
+- [bikrant mishra}(https://hacktoberfest.com/profile/)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Mayank Madhur](https://github.com/MAYANK-11115722624)
