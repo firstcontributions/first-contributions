@@ -1719,5 +1719,6 @@
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
+- [Pushterrance](https://github.com/Pushterrance)
 
 <!-- prettier-ignore-end -->
