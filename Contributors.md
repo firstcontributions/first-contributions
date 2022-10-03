@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+collins kiplangat mutai(Kiplaacollo)
 - [Ashish Patel](https://github.com/ashisxcode)
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
