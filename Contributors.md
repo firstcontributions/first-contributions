@@ -16,6 +16,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ashish Patel](https://github.com/ashisxcode)
 - [Alexander Ragland](https://github.com/RaglandDev)
 - [Kalyan](https://github.com/ujinikalyan)
+
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
@@ -168,7 +169,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Charvi Upreti]
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
--
+- [subhajit chakraborty](https://github.com/chakraborty89subhajit)
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
