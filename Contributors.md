@@ -3,11 +3,11 @@
 <!-- prettier-ignore-start -->
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
-- [Abdullahi Mustafa](https://github.com/abdullmustyy/)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
+- [Abdullahi Mustafa](https://github.com/abdullmustyy/)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Om Prakash](https://github.com/itsokop)
 - [Atinder Kumar](https://github.com/atinder11)
