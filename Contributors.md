@@ -872,6 +872,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
+- [Gregor A]
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [💀 : Isaac Lee](https://github.com/leebobtheblob)
 - [Makakyla Soh](http://github.com/MakaylaSoh)
