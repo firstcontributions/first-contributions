@@ -1774,5 +1774,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [ndthanhdev](https://github.com/ndthanhdev)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
 - [Dhruv Bansal](https://github.com/dhruvbansal18)
+- [Kaushan Dutta](https://github.com/Kaushan-Dutta)
+
 
 <!-- prettier-ignore-end -->
