@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-- [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
 - [Praise Adegoke](https://github.com/praiseadegokee)
@@ -130,7 +129,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Veda C R](https://github.com/crveda)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
-- [Prasath DV](https://github.com/Prasathdv)
 - [vaishnav vijayan](https://github.com/vaishnav-vijayan)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Livisha Jain](https://github.com/livisha)
@@ -1899,6 +1897,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
-
+- [zskull](https://github.com/t35ting)
 
 <!-- prettier-ignore-end -->
