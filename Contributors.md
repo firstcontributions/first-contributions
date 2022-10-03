@@ -34,6 +34,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Lian](https://github.com/liulian1004)
   vivek
 - [El Arif Amine](https://github.com/AmineArif1)
+- [Swastik Gorai](https://github.com/SwastikGorai)
 - [Rudrajeet Chaudhuri](https://github.com/RudeDaCode)
 - [Krishna Kumar](https://github.com/Mr-krishn)
 - [Bilal Iqbal](https://github.com/bilaliqbal1)
