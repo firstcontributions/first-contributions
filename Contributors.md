@@ -47,6 +47,7 @@
 - [Duane Leem](https://github.com/duaneleem)
 - [Jackson Mathew](https://github.com/jacksonmathew)
 - [Mriganka Das](https://github.com/turtlebeasts)
+- [Alex Nojenko](https://github.com/informationvulture)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Mohit Chauhan](https://github.com/mohitchauhan-dev)
 - [Sibongiseni Msomi](https://github.com/sibowilldo)
