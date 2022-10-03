@@ -1,5 +1,4 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
