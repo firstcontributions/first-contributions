@@ -13,6 +13,7 @@
 - [Ainsof So'o](https://github.com/ainsofs)
 - [kuldeep singh](https://github.com/Kdsingh333)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
+- [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
