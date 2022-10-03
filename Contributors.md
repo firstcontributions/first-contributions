@@ -4,6 +4,7 @@
 collins kiplangat mutai(Kiplaacollo)
 - [Evander Siregar](https://github.com/egocider)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
+- [Jay Kumar Gupta](https://github.com/Jay-suk)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
 - [Akshay P K](https://github.com/akshaypk123)
