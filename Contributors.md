@@ -31,6 +31,7 @@
 - [L Rajat Mohan] (https://github.com/rajatmohan22)
 - [Rishabh Sharma](https://github.com/rishabh2209)
 - [Abishek](https://github.com/keshiba)
+- [Karim Was Here](https://github.com/Karim-Kd)
 - [Maciker](https://github.com/Maciker)
 - [Rahul RK](https://github.com/DevTMK)
 - [Zach J Murphy](https://github.com/zachjmurphy)
