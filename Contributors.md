@@ -1820,6 +1820,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
+- [Muhammad Afin](https://github.com/afiiin)
 - [MD MOQADDAS](https://github.com/MDMOQADDAS)
 - [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 - [Jayson De los Reyes](https://github.com/jisundr)
@@ -1851,5 +1852,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Rohit Das](https://github.com/Rohit2001Das)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
 - [Vicky aggarwal](https://github.com/Vickyagg23)
+
 
 <!-- prettier-ignore-end -->
