@@ -1654,6 +1654,7 @@
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
 - [Akash AS](https://github.com/akashlisp)
+- [Yincard](https://github.com/Yincard)
 - [luyan] (https://github.com/luyan0422)
 - [Kibi](https://github.com/Kibiandkimi)
 - [Konisha](https://github.com/koni24)
