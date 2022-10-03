@@ -503,6 +503,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [anshul agrawal]
 - FirstName LastName
 - [Dun](https://github.com/DundeeA)
+- [Kuldeep Singh](https://github.com/Kuldeep800singh)
 - [Salome Asatiani](https://github.com/Salteki)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Sumeet Wagh](https://github.com/sumeetwagh2005)
