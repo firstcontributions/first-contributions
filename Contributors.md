@@ -7,8 +7,7 @@
 - [Parmar Kirti](https://github.com/kirti36)
 - [Ajay Maurya](https://github.com/Ajaymaurya1008)
 - [Derek Fox](https://github.com/Derek-Fox)
-- [Raul](https://github.com/raul-404)
-- [Derek Fox](https://github.com/Derek-Fox)
+- [Vishesh Phutela] (https://github.com/Vishesh-30)
 - [Marcos Vinicius](https://github.com/marcostech)
 - [mourad azim](https://github.com/alpha0zero)
 - [Ainsof So'o](https://github.com/ainsofs)
@@ -1720,5 +1719,6 @@
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
+- [MD MOQADDAS](https://github.com/MDMOQADDAS)
 
 <!-- prettier-ignore-end -->
