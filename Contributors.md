@@ -1656,6 +1656,7 @@
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
 - [Akash AS](https://github.com/akashlisp)
+- [Pushterrance](https://github.com/Pushterrance)
 - [Yincard](https://github.com/Yincard)
 - [luyan] (https://github.com/luyan0422)
 - [Kibi](https://github.com/Kibiandkimi)
@@ -1719,6 +1720,6 @@
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
 - [Amandeep Singh](https://github.com/Amandeepanmol)
-- [Pushterrance](https://github.com/Pushterrance)
+
 
 <!-- prettier-ignore-end -->
