@@ -797,7 +797,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sourabh Singh Bisht](https://github.com/Gallant-Sage)
 - [Richmond Tetteh](https://github.com/richmondstetteh)
 - [Dina (Kendle) Davis](https://github.com/DKendle)
-- [Marthely Nguimeya](https://github.com/Marthely237)
 - [Deepanshu kumar](https://github.com/deepanshu1334)
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
   [Douglas Kiprono](https://github.com/itsdaglas)
@@ -1920,6 +1919,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
-
+- [Gaurav Jha] ([https://github.com/GauravKrJha])
 
 <!-- prettier-ignore-end -->
