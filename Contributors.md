@@ -573,6 +573,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Mohammad Shaibaz Qaisar](https://github.com/MOHAMMADSHAIBAZQAISAR)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Anil Kumar N]
+- [Reza Athallah](https://github.com/rezaaar)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Prajwal Somalkar] (https://github.com/Prajwal0225)
 - [Sumit Thigale](https://github.com/sumitt10)
