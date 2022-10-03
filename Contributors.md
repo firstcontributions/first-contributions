@@ -1940,5 +1940,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Tamanna](https://github.com/525tamanna)
 - [Maksym Sitailo](https://github.com/maxsIT)
 - [Raian Rahman](https://github.com/pranonrahman)
+- [Karan Sharma](https://github.com/karanS08)
 
 <!-- prettier-ignore-end -->
