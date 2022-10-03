@@ -1708,6 +1708,7 @@
 - [Harsh Mishra](https://github.com/harsh098)
 - [Sanchit Bajaj](https://github.com/sanchitbajaj02/)
 - [Kalash Vasaniya](https://github.com/kalashvasaniya)
+- [Dimas Arya Kusuma Putra](https://github.com/DimDimmas)
 - [Riya Bansal](https://github.com/banslriya)
 - [Sejal](https://github.com/sejalkothari45)
 - [Shravya S Mallya](https://github.com/Shravya-Mallya)
