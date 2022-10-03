@@ -754,6 +754,7 @@
 - [Tiago Pavani.](https://github.com/PavaniTiago)
 - [Kinshuk Goel](https://github.com/kinshukgoel4)
 - [Vipassana Dudam](https://github.com/vipassana-01)
+- [Erik Meurrens](https://github.com/FenFideleo)
 - [Maanil Laad](https://github.com/maanil17)
 - [Kunal Shah](https://github.com/kunalkshah1)
 - [Damith Thiwanka](https://github.com/damiththiwanka)
