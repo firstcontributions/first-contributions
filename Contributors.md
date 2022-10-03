@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
+- [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
 - [Kishan Modasiya](https://github.com/kishumds)
 - [Rudra Sharma](https://github.com/rudra016)
