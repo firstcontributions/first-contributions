@@ -3,6 +3,8 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
