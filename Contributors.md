@@ -1278,7 +1278,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Matevž Kovačič](https://github.com/mati5kova)
 - [Yashraj](https://github.com/yashraj24)
 - [Dawood Siddique](https:github.com/Dawood-Siddique)
-- [Shivam](https://github.com/shivampipalwa)
 - [Rohit](https://github.com/rohitsasi720)
 - [Aleksa](https://github.com/aleksastojsic)
 - [RaphaelJS](https://github.com/RaphaelJ-S)
@@ -1964,6 +1963,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Adalton Junio](https://github.com/AdaltonLeite)
-
+- [Sharib Saifi](https://github.com/SharibSaifi)
 
 <!-- prettier-ignore-end -->
