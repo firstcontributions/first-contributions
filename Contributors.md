@@ -1738,5 +1738,6 @@
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
+- [Akkshat](https://github.com/Akkshat09)
 
 <!-- prettier-ignore-end -->
