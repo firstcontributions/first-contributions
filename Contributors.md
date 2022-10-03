@@ -1792,5 +1792,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Endraswara Wiryawan](https://github.com/endrasww)
 - [Ananto Eko Hendarto](https://github.com/sieputra)
 - [Praveen Sahu](https://github.com/sudo-pkyt)
+- [Manmeet kaur](https://github.com/Manmeetkaur1525)
 
 <!-- prettier-ignore-end -->
