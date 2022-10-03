@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Tanmay Deopurkar](https://github.com/tanmays62343) 
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Ravi Kumar] (https://github.com/ravi9083)
