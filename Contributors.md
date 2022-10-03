@@ -1829,7 +1829,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
-- [zsMoonshine](https://github.com/zsMoonshine)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
 - [Akkshat](https://github.com/Akkshat09)
@@ -1858,6 +1857,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
 - [Vicky aggarwal](https://github.com/Vickyagg23)
 - [Shivam Mahajan](https://github.com/shivam779823)
+- [Rakshit Gupta](https://github.com/rakshitgupta23)
 
 
 <!-- prettier-ignore-end -->
