@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Aman Punia](https://github.com/m0dulat0r)
@@ -655,7 +656,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Erin Miller](https://github.com/erinlmiller)
 - [yousef]
 - [botoko]
-- 
+- [aiyanfaras](https://github.com/Aiyan-Faras)
 - [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
