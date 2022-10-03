@@ -1736,5 +1736,7 @@
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
+- [Meer Estiyak](https://github.com/mmestiyak)
+
 
 <!-- prettier-ignore-end -->
