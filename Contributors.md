@@ -23,6 +23,7 @@
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
 - [Samyak Sheokar](https://github.com/SamyakSheokar2203)
 - [Tharuka Wijekoon](https://github.com/tharuka01)
+- [Sameer Khan](https://github.com/Sameer939)
 - [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 - [Mihir Shinde](https://github.com/MihirShinde-29)
 - [L Rajat Mohan] (https://github.com/rajatmohan22)
