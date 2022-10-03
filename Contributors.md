@@ -5,6 +5,7 @@ collins kiplangat mutai(Kiplaacollo)
 
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Abhay Chandel](https://github.com/iabhaychandel)
+- [Elia Zonta](https://github.com/eliazonta)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [GANESH TEKALE](https://github.com/ganeshtekale7400)
