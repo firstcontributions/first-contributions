@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
@@ -1838,6 +1838,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [ndthanhdev](https://github.com/ndthanhdev)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
 - [Dhruv Bansal](https://github.com/dhruvbansal18)
+- [Sachin Vardhan](https://github.com/SachinVardhan06)
 - [Pranavv Raja](https://github.com/pranavvraja)
 - [Endraswara Wiryawan](https://github.com/endrasww)
 - [Ananto Eko Hendarto](https://github.com/sieputra)
