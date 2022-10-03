@@ -875,6 +875,7 @@
 - [Mohammad Arwani](https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
 - [Wasim Algamal](https://github.com/walgamal)
+- [Osilaja Hameed](https://github.com/Osilaja78)
 - [Amí Naeily](https://github.com/pinkhairs)
 - [Sriram Arul](https://github.com/sriramarul)
 - [gerasim simeonov](https://github.com/penzata)
