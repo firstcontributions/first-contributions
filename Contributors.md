@@ -4,6 +4,7 @@
 - [Carter Rogers](https://github.com/Carter-Rogers)
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
 - [Lian](https://github.com/liulian1004)
+- [Soumyajit Brahma](https://github.com/cleverhare)
 - [Ritesh](https://github.com/15912315)
 - [Parmar Kirti](https://github.com/kirti36)
 - [Ajay Maurya](https://github.com/Ajaymaurya1008)
