@@ -2,7 +2,6 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Aman Punia](https://github.com/m0dulat0r)
-- [Kevin Nelson Moudio](https://github.com/blackantrax)
 - [Praise Adegoke](https://github.com/praiseadegokee)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
@@ -1888,6 +1887,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Aman Kumar](https://github.com/aman-32)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
-
+- [Aditya Dev Pandey](https://github.com/AadiiDEV)
 
 <!-- prettier-ignore-end -->
