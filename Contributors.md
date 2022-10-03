@@ -1811,5 +1811,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
 - [Fikri Khairul Shaleh](https://github.com/fikriks)
+- [Rohit Das](https://github.com/Rohit2001Das)
 
 <!-- prettier-ignore-end -->
