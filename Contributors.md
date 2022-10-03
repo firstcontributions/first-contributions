@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
@@ -1152,6 +1153,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Alejandro Gonzalez Buffo](https://github.com/alegb91)
 - [Martin Lahr](https://github.com/martin-lahr)
 - [Devang Shah](https://github.com/Devang-Shah-49)
+- [khaled al hamwie](https://github.com/khaled-al-hamwie)
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
