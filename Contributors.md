@@ -78,7 +78,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Zach J Murphy](https://github.com/zachjmurphy)
 - [Sanket Choudhari](https://github.com/sanketssc)
 - [Ada](https://github.com/auranykh)
-- [Md Farhan Sajid](https://github.com/Farhan-2222)
 - [Namitha](https://github.com/namitha393)
 - [Laukik Chahande](https://github.com/luciferx48)
 - [Jeevraj Taralkar](https://github.com/JTtime)
@@ -1872,7 +1871,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
-- [Muh Zakir Ramadhan](https://github.com/zakirkun)
-
+- [Mithil Jogi](https://github.com/Mithil05)
 
 <!-- prettier-ignore-end -->
