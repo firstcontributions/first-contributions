@@ -1730,5 +1730,5 @@
 - [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
-
+- [Kathleen Jogno](https://github.com/redKath)
 <!-- prettier-ignore-end -->
