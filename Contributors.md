@@ -1986,6 +1986,7 @@ collins kiplangat mutai(Kiplaacollo)
   [John Nelson](https://github.com/John0x11)
 - [Oleksii Solomakha](https://github.com/KamaZz)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
+- [Iman Fauzi](https://github.com/imanfauzi29)
 
 
 <!-- prettier-ignore-end -->
