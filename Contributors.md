@@ -19,6 +19,7 @@
 - [Raunak Agarwal](https://github.com/RaunakAgarwal18)
 - [Marcos Vinicius](https://github.com/marcostech)
 - [mourad azim](https://github.com/alpha0zero)
+- [Alejandro Armenta](https://github.com/alexanderNWO)
 - [Ainsof So'o](https://github.com/ainsofs)
 - [kuldeep singh](https://github.com/Kdsingh333)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
