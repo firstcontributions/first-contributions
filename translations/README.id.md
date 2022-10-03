@@ -12,11 +12,11 @@ Proyek ini bertujuan untuk menyederhanakan dan memandu pemula untuk membuat kont
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git dikomputer mu, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstall git di komputer mu, [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## Fork Repositori Ini
 
-Fork repositori ini dengan cara mengklik tombol *fork* yang ada di bagian atas pada halaman ini.
+Fork repositori ini dengan cara klik tombol *fork* yang ada di bagian atas pada halaman ini.
 Dan repository ini akan disalin ke akun anda.
 
 ## Klon Repositori
@@ -31,7 +31,7 @@ Buka terminal dan jalankan perintah git berikut:
 git clone "url yang telah Anda salin"
 ```
 
-yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini(*fork* Anda dari proyek ini). Lihat langkah sebelumnya untuk mendapatkan url.
+yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini (*fork* Anda dari proyek ini). Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -72,7 +72,7 @@ Sekarang buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama A
 
 Jika Anda pergi ke direktori proyek dan mengeksekusi perintah `git status`, Anda akan melihat ada perubahan.
 
-Tambahkan perubahan tersebut ke cabang yang baru saja Anda buat menggunakan perinta `git add`:
+Tambahkan perubahan tersebut ke cabang yang baru saja Anda buat menggunakan perintah `git add`:
 
 ```
 git add Contributors.md
@@ -117,7 +117,7 @@ Sekarang kirimkan *Pull Request* (PR)
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Segera aya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email pemberitahuan setelah perubahan digabungkan.
+Segera saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email pemberitahuan setelah perubahan digabungkan.
 
 ## Ke Mana Lagi Setelah dari Sini?
 
