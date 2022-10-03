@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Ashish Patel](https://github.com/ashisxcode)
+- [Ashish Patel](https://github.com/ashishxcode)
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
