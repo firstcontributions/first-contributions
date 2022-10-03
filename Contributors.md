@@ -1857,6 +1857,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
 - [Vicky aggarwal](https://github.com/Vickyagg23)
 - [Shivam Mahajan](https://github.com/shivam779823)
+- [Jitesh Jayaraman](https://github.com/hyascavefire)
 
 
 <!-- prettier-ignore-end -->
