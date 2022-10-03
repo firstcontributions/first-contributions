@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Aman Punia](https://github.com/m0dulat0r)
+- [Kevin Nelson Moudio](https://github.com/blackantrax)
 - [Praise Adegoke](https://github.com/praiseadegokee)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
