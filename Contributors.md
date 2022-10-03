@@ -96,6 +96,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Raul](https://github.com/raul-404)
 - [Madhav Milan](https://github.com/m2-madhav)
 - [Ashish Kumar](https://github.com/Ashish16Kumar)
+- [mazino]
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Raunak Agarwal](https://github.com/RaunakAgarwal18)
 - [Marcos Vinicius](https://github.com/marcostech)
