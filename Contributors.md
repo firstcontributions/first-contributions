@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shamlo](https://github.com/shammlo)
+- [Robert Theo](https://github.com/robertheo15)
 - [Ashish Patel](https://github.com/ashisxcode)
 - [Alexander Ragland](https://github.com/RaglandDev)
 - [Ethan Hong](https://github.com/ethanhong)
