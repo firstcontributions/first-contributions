@@ -63,6 +63,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
+- [Biswajit Sahoo](https://github.com/bisu2580)
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
 - [Nisarg Mahyavanshi](https://github.com/Nisarg851)
