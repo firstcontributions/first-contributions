@@ -129,7 +129,6 @@
 - [Charvi Upreti]
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
--
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
@@ -162,7 +161,6 @@
 - [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - Kipkoech Sang
-
 - [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
 - [Ansari Danish](https://github.com/ansari-danish)
@@ -1734,5 +1732,5 @@
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
-
+- [Mayuresh Choudhary](https://github.com/Mayuresh-22)
 <!-- prettier-ignore-end -->
