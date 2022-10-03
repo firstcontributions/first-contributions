@@ -44,6 +44,7 @@
 - [Ada](https://github.com/auranykh)
 - [Namitha](https://github.com/namitha393)
 - [Laukik Chahande](https://github.com/luciferx48)
+- [Jeevraj Taralkar](https://github.com/JTtime)
 - [Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
 - [Harshal Patil](https://github.com/hp1004)
