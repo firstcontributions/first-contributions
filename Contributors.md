@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Agrim Jain](https://github.com/Agrim2411)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 -[Jahnvi ] (https://github.com/jahnvi15/)
@@ -1864,7 +1865,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Shivam Mahajan](https://github.com/shivam779823)
 - [Jitesh Jayaraman](https://github.com/hyascavefire)
 - [Ishika Ishani](https://github.com/ishani-1255)
-- [Ryan James](https://github.com/ryanjames1729)
 
 
 <!-- prettier-ignore-end -->
