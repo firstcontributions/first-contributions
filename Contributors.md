@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Rudra Sharma](https://github.com/rudra016)
 - [Shamlo](https://github.com/shammlo)
 - [Robert Theo](https://github.com/robertheo15)
 - [Ashish Patel](https://github.com/ashisxcode)
