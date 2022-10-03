@@ -205,7 +205,6 @@
 - [Sarvesh Rane](https://github.com/sarveshrane2000)
 - [Shubh Rai](https://github.com/shubhrai2811)
 - [Houcem Testouri](https://github.com/testourii)
-- [Dhruv Rathi](https://github.com/DhruvRathi2001)
 - [GmNock](https://github.com/GMNocK/)
 - [Sachin Kumar](https://github.com/Sachindrck)
 - [Niketh Malige](https://github.com/Niketh23)
@@ -1740,5 +1739,5 @@
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
 - [Akkshat](https://github.com/Akkshat09)
-
+- [Vicky](https://github.com/HungryVicky)
 <!-- prettier-ignore-end -->
