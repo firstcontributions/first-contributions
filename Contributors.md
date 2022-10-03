@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Ashish Patel](https://github.com/ashisxcode)
+- [Alexander Ragland](https://github.com/RaglandDev)
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
