@@ -1928,6 +1928,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
-
+- [Nikita Jare](https://github.com/nikita-jare)
 
 <!-- prettier-ignore-end -->
