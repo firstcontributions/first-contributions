@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
@@ -13,6 +13,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Ravi Kumar] (https://github.com/ravi9083)
 - [Aman Punia](https://github.com/m0dulat0r)
+- [Pushkar Ambastha](https://github.com/Pushkar1853)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
 - [Praise Adegoke](https://github.com/praiseadegokee)
 - [Harsh Duche](https://github.com/ducheharsh)
