@@ -100,6 +100,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Swaraj Deshmane](https://github.com/Swarax007)
 - [Imritanshul Sayalwar]
 - [Anshul Singh](https://github.com/anshulsc)
+- [Bijay Dulal](https://github.com/iambijayd)
 - [Shikhar Srivastava](https://github.com/sshikhar09)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Himanshu](https://github.com/himanshu0416)
