@@ -36,6 +36,7 @@
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd>
 <kbd>[<img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img title="한국어" alt="한국어" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22">](translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">](translations/README.lt.md)</kbd>
+<kbd>[<img title="India" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ro.svg" width="22">](translations/README.ro.md)</kbd>
 <kbd>[<img title="မြန်မာ" alt="မြန်မာ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mm.svg" width="22">](translations/README.mm_unicode.md)</kbd>
 <kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">](translations/README.mk.md)</kbd>
