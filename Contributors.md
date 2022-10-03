@@ -1,5 +1,4 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
@@ -186,6 +185,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ishan Katoch](https://github.com/ishan-1010)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
+- [Rishav_Ghatak](https://github.com/rishav-gh)
 - [Abhinav Pandey](https://github.com/Abhinav0412)
 - [Varad Deshmukh](https://github.com/Varaddd)
 - [Ritesh Kumar](https://github.com/RiteshKr00)
