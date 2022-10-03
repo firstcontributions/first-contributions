@@ -33,7 +33,7 @@ Buksan ang terminal at i-enter ang sumusunod na git command:
 ```
 git clone "url na nakopya mo"
 ```
-kung saan ang "url na nakopya mo" (wala ang mga panipi) ay ang URL ng repository (ang fork ng iyong proyekto). Pakitingin nang mabuti ang mga nakaraan na hakbang upang makuha ang url.
+kung saan ang "url na nakopya mo" (wala ang mga panipi) ay ang URL ng repository (ang fork ng iyong proyekto). Pakitingnan nang mabuti ang mga nakaraang hakbang upang makuha ang url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -63,7 +63,7 @@ git checkout -b dagdag-juan-dela-cruz
 
 ## Gumawa ng kinakailangan na pagbabago at i-commit ang mga natukoy na pagbabago
 
-Ngayon, buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan. Huwag mo idagdag sa simula o sa hulian ng tinutukoy na file. Ilagay sa kalagitnaan ng file. At i-save and file.
+Ngayon, buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan. Huwag mong idagdag sa simula o sa hulian ng tinutukoy na file. Ilagay sa kalagitnaan ng file. At i-save and file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
