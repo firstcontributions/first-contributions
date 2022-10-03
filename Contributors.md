@@ -1746,5 +1746,5 @@
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
 - [Akkshat](https://github.com/Akkshat09)
 - [Babyjohn](https://github.com/babyjohndev)
-
+- [Rohit](https://github.com/xrg360)
 <!-- prettier-ignore-end -->
