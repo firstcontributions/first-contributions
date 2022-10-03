@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Shweta Singh](https://github.com/shwetasingh14)
+- [Kishan Modasiya](https://github.com/kishumds)
 - [Rudra Sharma](https://github.com/rudra016)
 - [Shamlo](https://github.com/shammlo)
 - [Robert Theo](https://github.com/robertheo15)
