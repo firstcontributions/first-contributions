@@ -61,7 +61,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sameer Khan](https://github.com/Sameer939)
 - [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 - [Mihir Shinde](https://github.com/MihirShinde-29)
-- [Arsalan ali](https://github.com/ArsalanAli915)
 - [L Rajat Mohan] (https://github.com/rajatmohan22)
 - [Rishabh Sharma](https://github.com/rishabh2209)
 - [Abishek](https://github.com/keshiba)
@@ -504,7 +503,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [anshul agrawal]
 - FirstName LastName
 - [Dun](https://github.com/DundeeA)
-- [Kuldeep Singh](https://github.com/Kuldeep800singh)
 - [Salome Asatiani](https://github.com/Salteki)
 - [Seth Brown](https://github.com/sethbrown246)
 - [Sumeet Wagh](https://github.com/sumeetwagh2005)
@@ -1813,6 +1811,5 @@ collins kiplangat mutai(Kiplaacollo)
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
 - [Fikri Khairul Shaleh](https://github.com/fikriks)
-- [Rohit Das](https://github.com/Rohit2001Das)
-
+- [Rakshit Gupta](https://github.com/rakshitgupta23)
 <!-- prettier-ignore-end -->
