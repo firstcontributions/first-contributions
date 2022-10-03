@@ -412,6 +412,7 @@
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
+- [P Dharani](https://github.com/PolukondaDharani)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
 - [rahul Dhiman](https://github.com/rahuld2000)
@@ -950,6 +951,7 @@
 - [Mohamed Moulay](https://github.com/Medmly20208)
 - [Mohamed Mongy](https://github.com/mohamedmongy)
 - [Thejus M](https://github.com/thejus-m)
+- [Arshad Ali](https://github.com/arshad32365)
 - [Vanya Rastogi](https://github.com/VanyaRastogi)
 - [Cade Humphreys](https://github.com/thecptwaffles)
 - [Ivan Stojanovic](https://github.com/ivan00stojanovic)
@@ -1546,6 +1548,7 @@
 - [Dev](https://github.com/Dev2003203)
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 - [Jay Anand](https://github.com/notJAYanand)
+- [Kiersten Campbell] (https://github.com/colliecoder)
 - [Dherya Rana](https://gthub.com/ranaDherya)
 - [Archit Jain](https://github.com/architjain2002)
 - [Manish Kumar](https://youtube.com/ytanonymousbunny)
@@ -1733,5 +1736,6 @@
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
+- [Anuj Mishra](https://github.com/Anujmishra2005)
 
 <!-- prettier-ignore-end -->
