@@ -200,6 +200,7 @@
 - [Ankit Kiran](https://github.com/Aankirz)
 - [Qashif peer](https://github.com/qashifpeer)
 - [Prachi Gupta](https://github.com/Prachi-22-81)
+- [Lain](https://github.com/LainWiredIn)
 - [Aditya Bhagat](https://github.com/adityeah2k/)
 - [Razan Joshi](https://github.com/razanjoshi)
 - [Jayesh Joshi](https://github.com/jjoshi1812)
