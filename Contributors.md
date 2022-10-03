@@ -1829,5 +1829,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Warawut Thasungnoen](https://github.com/beer-idev)
 - [Rohit Das](https://github.com/Rohit2001Das)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
+- [Mustafa Hawari](https://github.com/clevermustafa)
 
 <!-- prettier-ignore-end -->
