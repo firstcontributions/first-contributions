@@ -27,6 +27,7 @@
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
 - [Kishan Kumar](https://github.com/kishan0921)
+- [SySagar](https://github.com/SySagar)
 - [Harsh Kumar Singh](https://github.com/harshsingh510)
 - [Saksham Paliwal](https://github.com/sakshampaliwal)
 - [Taimur Shahzad Gill](https://github.com/taymuur)
