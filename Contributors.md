@@ -2212,6 +2212,7 @@ BM
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
 - [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
+- [Denys Sharpylo](https://github.com/sharpyld)
 - [David Borry](https://github.com/davidborry)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
