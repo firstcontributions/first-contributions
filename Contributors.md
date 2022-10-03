@@ -1769,5 +1769,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ayush Srivastava](https://github.com/ayushsinha30)
 - [ndthanhdev](https://github.com/ndthanhdev)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
+- [Rahmat Bungsu Saputra](https://github.com/SaputraBR)
 
 <!-- prettier-ignore-end -->
