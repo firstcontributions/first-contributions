@@ -1747,5 +1747,6 @@
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
 - [Akkshat](https://github.com/Akkshat09)
 - [Babyjohn](https://github.com/babyjohndev)
+- [vicky](https://github.com/HungryVicky)
 
 <!-- prettier-ignore-end -->
