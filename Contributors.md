@@ -1784,5 +1784,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
 - [Dhruv Bansal](https://github.com/dhruvbansal18)
 - [Endraswara Wiryawan](https://github.com/endrasww)
+- [Ananto Eko Hendarto](https://github.com/sieputra)
 
 <!-- prettier-ignore-end -->
