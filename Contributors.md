@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-- [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
+
 - [Evander Siregar](https://github.com/egocider)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
@@ -48,7 +48,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
-- [Nisarg Mahyavanshi](https://github.com/Nisarg851)
 - [Kishan Kumar](https://github.com/kishan0921)
 - [SySagar](https://github.com/SySagar)
 - [Harsh Kumar Singh](https://github.com/harshsingh510)
@@ -1809,5 +1808,5 @@ collins kiplangat mutai(Kiplaacollo)
 - [jai prakash shah](https://github.com/jai7359)
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
-
+- [Mehul Kumar](https://github.com/WonderSTK)
 <!-- prettier-ignore-end -->
