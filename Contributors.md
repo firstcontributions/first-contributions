@@ -151,6 +151,7 @@
 - [Ritesh Kumar](https://github.com/RiteshKr00)
 - [Vraj Patel](https://www.linkedin.com/in/vraj-patel-7b0774200))
 - [Olanrewaju AbdulKabeer](https://www.github.com/olakayCoder1)
+- [Angel Serrato] (https://github.com/SerratoA)
 - [Prabincankod](https://github.com/prabincankod)
 - [AADI0009](https://github.com/AADI0009)
 - [CeeKay](https://github.com/CeeKayTech)
