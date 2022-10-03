@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Kanishq](https://github.com/Kanishq10)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
