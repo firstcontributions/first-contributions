@@ -1983,6 +1983,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Adalton Junio](https://github.com/AdaltonLeite)
 - [Bhavy Khatter](https://github.com/bhavy007)
 - [Oleksii Solomakha](https://github.com/KamaZz)
+- [Sincerely Brittany](https://github.com/SincerelyBrittany)
 
 
 <!-- prettier-ignore-end -->
