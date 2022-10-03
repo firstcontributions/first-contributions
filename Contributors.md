@@ -230,6 +230,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
 - [Vincent Surkijn](https://github.com/Vincent-Surkijn)
+- [Shubham Maurya](https://www.youtube.com/c/DebugWithShubham)
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Pushkar Mahajan](https://github.com/pm656v2)
