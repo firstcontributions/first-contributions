@@ -255,7 +255,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [Aman Setia](https://github.com/Amanse)
 - [JATIN SAINI](https://github.com/yunocrown)
-- [PRIYA KUMARI](https://github.com/priya03050)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
 - [Rohan Mourya](https://github.com/rohan209547mourya)
@@ -1912,6 +1911,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
-
+- [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 
 <!-- prettier-ignore-end -->
