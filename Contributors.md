@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-- [ Evander Siregar] (https://github.com/egocider)
+- [Evander Siregar] (https://github.com/egocider)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Shweta Singh](https://github.com/shwetasingh14)
 - [Kishan Modasiya](https://github.com/kishumds)
