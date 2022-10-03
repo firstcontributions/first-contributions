@@ -1865,6 +1865,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Jitesh Jayaraman](https://github.com/hyascavefire)
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Ryan James](https://github.com/ryanjames1729)
+- [Pratik Pawar](https://github.com/Pawar-Pratik)
 
 
 <!-- prettier-ignore-end -->
