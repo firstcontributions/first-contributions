@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
