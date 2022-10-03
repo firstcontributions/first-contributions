@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Vicky](https://github.com/HungryVicky)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Evander Siregar](https://github.com/egocider)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
@@ -1499,7 +1500,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Avinash-Nandan](https://github.com/Avinash219)
 - [Albgp22](https://github.com/albgp22)
 - [Sabrina](https://github.com/eggsmayhem)
-- [Arun Karthick N M](https://github.com/arunkarthicknm)
 - [Xevziler](https://github.com/Xevziler)
 - [Jaden Hong](https://github.com/thisjdn)
 - [Kerplunkx](https://github.com/Kerplunkx)
@@ -1815,7 +1815,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
 - [Fikri Khairul Shaleh](https://github.com/fikriks)
-- [Warawut Thasungnoen](https://github.com/beer-idev)
 - [Rohit Das](https://github.com/Rohit2001Das)
 
 <!-- prettier-ignore-end -->
