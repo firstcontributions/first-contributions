@@ -1751,5 +1751,6 @@
 - [vicky](https://github.com/HungryVicky)
 - [Vagdevi Surarapu](https://github.com/Vagdevi007) 
 - [shivam](https://github.com/shivam-cse)
+- [Ayush Srivastava](https://github.com/ayushsinha30)
 
 <!-- prettier-ignore-end -->
