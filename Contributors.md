@@ -64,6 +64,7 @@
 - [Swastik Das](https://github.com/SwastikDas26)
 - [Neha](https://github.com/neha-gunta)
 - [Awais](https://github.com/Awais-Mustafa)
+- [Akshad Tulaskar](https://github.com/Akshad05)
 - [Gautam Shrotriya](https://github.com/gautam-shrotriya)
 - [Amaan Ur Rahman](https://github.com/amaan118921)
 - [Ritesh](https://github.com/codespirit7/)
