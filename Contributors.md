@@ -1797,5 +1797,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ananto Eko Hendarto](https://github.com/sieputra)
 - [Praveen Sahu](https://github.com/sudo-pkyt)
 - [Manmeet kaur](https://github.com/Manmeetkaur1525)
+- [Harshit Gupta](https://github.com/its-harshitg)
 
 <!-- prettier-ignore-end -->
