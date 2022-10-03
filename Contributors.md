@@ -15,7 +15,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Agrima Gupta](https://github.com/sassy-bugs)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
-- [Abhay] (https://github.com/darkbits018)
 -[Jahnvi ] (https://github.com/jahnvi15/)
 - [Evander Siregar](https://github.com/egocider)
 - [HaJinYong](https://github.com/jsh0512)
@@ -1919,6 +1918,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
+- [Mirza SNR](https://github.com/MirzaSNR)
 
 
 <!-- prettier-ignore-end -->
