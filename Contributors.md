@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Aryaman Chanana] (https://www.instagram.com/arywcars/)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
@@ -30,7 +31,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Navneet Gupta](https://github.com/Nav21000)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
-  [Sneha Das](https://github.com/iamsnehadas)
 - [Akshay P K](https://github.com/akshaypk123)
 - [Kishan Modasiya](https://github.com/kishumds)
 - [Rudra Sharma](https://github.com/rudra016)
