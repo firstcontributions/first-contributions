@@ -16,6 +16,7 @@
 - [Derek Fox](https://github.com/Derek-Fox)
 - [Raul](https://github.com/raul-404)
 - [Derek Fox](https://github.com/Derek-Fox)
+- [Raunak Agarwal](https://github.com/RaunakAgarwal18)
 - [Marcos Vinicius](https://github.com/marcostech)
 - [mourad azim](https://github.com/alpha0zero)
 - [Ainsof So'o](https://github.com/ainsofs)
