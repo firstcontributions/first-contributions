@@ -28,6 +28,7 @@ nowy wpis
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
+- [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [Prabhat Edupuganti](https://github.com/prabhate)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
