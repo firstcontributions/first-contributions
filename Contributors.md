@@ -2030,6 +2030,7 @@ nowy wpis
 - [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Pranav arora](https://github.com/pranavintech)
+- [Safal Koirala](https://github.com/SafalKoirala)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [zsMoonshine](https://github.com/zsMoonshine)
