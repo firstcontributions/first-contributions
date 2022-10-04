@@ -2103,6 +2103,6 @@ nowy wpis
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
-- [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+- [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar) 
+- [Ankit Kumar](https://github.com/ankittt20)
 <!-- prettier-ignore-end -->
