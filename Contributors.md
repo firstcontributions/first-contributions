@@ -2102,7 +2102,7 @@ nowy wpis
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
-- 
+- [Gopal Gupta](https://github.com/Gopal-252)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - 
 <!-- prettier-ignore-end -->
