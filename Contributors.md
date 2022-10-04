@@ -2039,6 +2039,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Ishabh Thakur](https://github.com/ishabhthakur)
 - [Kuntal Paul](https://github.com/helplessThor)
-
+- [Safal Koirala](https://github.com/SafalKoirala)
 
 <!-- prettier-ignore-end -->
