@@ -31,6 +31,7 @@ nowy wpis
 - [Vrutti Patel](https://github.com/vrutti24)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
 - [Elia Zonta](https://github.com/eliazonta)
+- [Hamza Nawab](https://github.com/blazenn2)
 - [kostas Vitiniotis](https://github.com/kostisvit)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
