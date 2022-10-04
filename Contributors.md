@@ -771,6 +771,7 @@ nowy wpis
 - [Aditi Agarwal](https://github.com/Aditi2905)
 - [Carlos Gonzalez](https://github.com/carlossgv)
 - [Tahmeedul Islam](https://github.com/thetahmeed)
+- [laptopapik](https://github.com/laptopapik)
 - [Vineela Juturu](https://github.com/vjuturu)
 - [Jonnadula Chaitanya](https://github.com/Chaitanya-087)
 - [Arslan Jamil](https://github.com/Arslan240)
@@ -1124,7 +1125,6 @@ nowy wpis
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
-- [Gregor A]
 - [Hicham Maachou](https://github.com/hichammaachou)
 - [💀 : Isaac Lee](https://github.com/leebobtheblob)
 - [Makakyla Soh](http://github.com/MakaylaSoh)
