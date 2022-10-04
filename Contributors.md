@@ -2158,10 +2158,13 @@ nowy wpis
 - [Praneeth](https://github.com/18praneeth)
 - [Coloursplash](https://github.com/Coloursplash)
 - [Ookamini95](https://github.com/Ookamini95)
+
+
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
+- 
 - [Ricardo Ramos](https://github.com/ricardo-ramos-moura)
 - [victhupy] (https://github.com/victhupy) 
 <!-- prettier-ignore-end -->
