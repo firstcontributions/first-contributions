@@ -374,6 +374,7 @@ nowy wpis
 - [v-apor](https://github.com/v-apor)
 - [Zenx_Altaf](https://github.com/zenx-altaf)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
+- [Belvin Shandy Aurora](https://github.com/dizzyme09)
 - [Seriki Kamal T.](https://github.com/Sayrikey1)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
