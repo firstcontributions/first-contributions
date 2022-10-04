@@ -2048,6 +2048,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Royce Dy](https://github.com/rad182)
 -[Rutika Masane](https://github.com/rutika1823)
 -[Funikz](https://github.com/Funikz)
+-[Rahul Rs](https://github.com/RsRsRahul)
 
 
 <!-- prettier-ignore-end -->
