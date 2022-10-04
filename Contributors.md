@@ -11,7 +11,7 @@ collins kiplangat mutai(Kiplaacollo)
 nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
-- [Praveen Chandra](https://github.com/praveenchandra01)
+- [Praveen Chandra] (https://github.com/praveenchandra01)
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Ben Flatau](https://github.com/bflatau)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
