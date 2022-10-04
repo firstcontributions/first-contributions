@@ -2073,6 +2073,7 @@ nowy wpis
 - [Noor Islam](https://github.com/Noor44555)
 - [Amandeep Singh](https://github.com/Amandeep91)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
+- [Priyanshu Kumar Choubey](https://github.com/PriyanshuKumarChoubey)
 
 
 <!-- prettier-ignore-end -->
