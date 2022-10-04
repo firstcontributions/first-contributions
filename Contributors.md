@@ -2104,5 +2104,5 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+- [Viviane Martini](https://github.com/vivianemartini)
 <!-- prettier-ignore-end -->
