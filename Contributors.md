@@ -1405,6 +1405,7 @@ nowy wpis
 - [Faizan Khan](https://github.com/lahoreninja)
 - [Lior Refael](https://github.com/LiorRefael7)
 - [Niranjan Hegde](https://github.com/Niranjan15052001)
+- [Parimala S](https://github.com/ParimalaS27)
 - [Dubem Obinwanne](https://github.com/DubemObi)
 - [Olayemi Michael](https://github.com/michaelin007)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
