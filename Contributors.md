@@ -2154,6 +2154,7 @@ nowy wpis
 - [Aadarsh Mani](https://github.com/aadarshmani)
 - [Praneeth](https://github.com/18praneeth)
 - [Coloursplash](https://github.com/Coloursplash)
+- [Ookamini95](https://github.com/Ookamini95)
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
