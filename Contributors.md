@@ -177,6 +177,7 @@ nowy wpis
 - [SySagar](https://github.com/SySagar)
 - [Harsh Kumar Singh](https://github.com/harshsingh510)
 - [Saksham Paliwal](https://github.com/sakshampaliwal)
+- [Sebastian Probst](https://github.com/Gqudi)
 - [Abhay Sharma] (https://github.com/Abhay2712)
 - [Taimur Shahzad Gill](https://github.com/taymuur)
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
