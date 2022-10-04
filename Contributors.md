@@ -62,6 +62,7 @@ nowy wpis
 - [Rama Bhala](https://github.com/RamaBhala)
 - [Himanshu Chhatwal](https://github.com/himanshu1221)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
+- [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
 - [Sanjay RB](https://github.com/sanjay-rb)
 - [Vrutti Patel](https://github.com/vrutti24)
