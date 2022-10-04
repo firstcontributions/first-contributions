@@ -516,6 +516,7 @@ nowy wpis
 - [Zhan Guang](https://github.com/zhan3333)
 - [Ekansh Gupta](https://github.com/gupta-ekansh)
 - [Sidabw](https://github.com/Sidabw)
+- [mervyns](https://github.com/mervyns)
 - [sohamdata](https://github.com/sohamdata)
 - [Banana Paul](https://github.com/pawel045)
 - [Sayan Roy](https://github.com/D3FaltXD)
