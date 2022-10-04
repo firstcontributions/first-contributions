@@ -3,11 +3,16 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Subhash Sheoran](https://github.com/isheoran)
+- [Gaurav Kumrawat](https://github.com/GauravKumrawat)
 - [Winay Gupta](https://github.com/WinayGupta777)
+- [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
+- [Praveen Chandra](https://github.com/praveenchandra01)
 - [Kunal Kittur](https://github.com/heyyitskk)
+- [Ben Flatau](https://github.com/bflatau)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
 - [Mihir Panchal](https://github.com/MihirRajeshPanchal)
@@ -17,6 +22,7 @@ nowy wpis
 - [Kinza Malik](https://github.com/Kinzamalik)
 - [Shreyam Gupta](https://github.com/shreyamG)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
+- [Hari Krishna](https://github.com/SHIVANATHRIHARIKRISHNA)
 - [axyut](https://github.com/axyut)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
@@ -30,6 +36,7 @@ nowy wpis
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
+- [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [Prabhat Edupuganti](https://github.com/prabhate)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
@@ -60,6 +67,7 @@ nowy wpis
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie] (https://github.com/a-nn-t-s)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
+- [Jongsik Kim](https://github.com/neomax7)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
 - [embTw] (https://github.com/embTw)
 - [Baby Washbear] (https://github.com/babywashbear)
@@ -76,6 +84,7 @@ nowy wpis
 - [segoSambel] (https://github.com/segoSambel)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
+- [Gaurav Verma](https://github.com/iisgaurav)
 - [Thanmai Sai](https://github.com/thanmaisai)
 - [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
 - [Yash Chowdhury](https://github.com/xinkin)
@@ -2147,11 +2156,11 @@ nowy wpis
 - [Aadarsh Mani](https://github.com/aadarshmani)
 - [Praneeth](https://github.com/18praneeth)
 - [Coloursplash](https://github.com/Coloursplash)
-
+- [Ookamini95](https://github.com/Ookamini95)
+- [A Stepanian](https://github.com/a-stepanian)
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
-- [A Stepanian](https://github.com/a-stepanian)
-
+- [Shubham Kumar](https://github.com/Noobham)
 <!-- prettier-ignore-end -->
