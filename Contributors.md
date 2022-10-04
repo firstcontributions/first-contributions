@@ -2063,6 +2063,7 @@ collins kiplangat mutai(Kiplaacollo)
 -[Rutika Masane](https://github.com/rutika1823)
 -[Funikz](https://github.com/Funikz)
 -[Rahul Rs](https://github.com/RsRsRahul)
+- [Noor Islam](https://github.com/Noor44555)
 
 
 <!-- prettier-ignore-end -->
