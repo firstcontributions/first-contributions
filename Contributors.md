@@ -2002,6 +2002,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Erick Sarabia](https://github.com/ericksarabia)
+- [Rochi Eko Pambudi](https://github.com/rochiekop)
 
 
 <!-- prettier-ignore-end -->
