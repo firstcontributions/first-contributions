@@ -2155,6 +2155,7 @@ nowy wpis
 - [Bhavy Khatter](https://github.com/bhavy007)
 - [John Nelson](https://github.com/John0x11)
 - [Oleksii Solomakha](https://github.com/KamaZz)
+- [Ina Bromuos](https://github.com/ibrouos)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Renan Ferro](https://github.com/ferrorenan)
