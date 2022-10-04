@@ -2020,6 +2020,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anirban Chowdhury](https://github.com/0x27ae)
 - [Phong Pham](https://github.com/phongpv)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
+- [Ishabh Thakur](https://github.com/ishabhthakur)
 
 
 <!-- prettier-ignore-end -->
