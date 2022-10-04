@@ -209,6 +209,7 @@ nowy wpis
 - [Sameer Khan](https://github.com/Sameer939)
 - [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 - [Mihir Shinde](https://github.com/MihirShinde-29)
+- [Monster0506](https://github.com/Monster0506)
 - [Arsalan ali](https://github.com/ArsalanAli915)
 - [L Rajat Mohan] (https://github.com/rajatmohan22)
 - [Rishabh Sharma](https://github.com/rishabh2209)
