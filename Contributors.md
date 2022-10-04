@@ -10,6 +10,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
+- [Harsh Pathak](https://github.com/harshpathakzz)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
 - [Praveen Chandra](https://github.com/praveenchandra01)
@@ -407,7 +408,6 @@ nowy wpis
 - [Aman Setia](https://github.com/Amanse)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Melissa Sorrells](https://github.com/melsorrells23)
-- [Connie Park](https://github.com/conniedc1206)
 - [PRIYA KUMARI](https://github.com/priya03050)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
@@ -2167,6 +2167,7 @@ nowy wpis
 - [Sanket Kale](https://github.com/sanketkale99)
 - [jackkweyunga](https://github.com/jackkweyunga)
 - [Praneeth](https://github.com/18praneeth)
+- [Harsh Pathak](https://github.com/harshpathakzz)
 - [Pranav K S](https://github.com/pie111)
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Jaskeerat Chhabra](https://github.com/jaskeeratchhabra)
