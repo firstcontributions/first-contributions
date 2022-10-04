@@ -2029,6 +2029,7 @@ nowy wpis
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
 - [Fikri Khairul Shaleh](https://github.com/fikriks)
+- [Vladimir Sotskov](https://github.com/VSngg)
 - [Warawut Thasungnoen](https://github.com/beer-idev)
 - [Rohit Das](https://github.com/Rohit2001Das)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
