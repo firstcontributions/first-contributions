@@ -33,6 +33,7 @@ nowy wpis
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
+- [Aryan Inani](https://github.com/Adeptus123)
 - [larry Xue](https://github.com/larry-xue)
 - [Abhishek Anuj](https://github.com/abhishekanuj26)
 - [Kapil Kunwar](https://github.com/undef125)
