@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [JOY JAIN](https://github.com/joy529)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
