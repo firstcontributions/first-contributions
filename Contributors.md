@@ -2159,5 +2159,6 @@ nowy wpis
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
-
+- [Shubham Kumar](https://github.com/Noobham)
+- 
 <!-- prettier-ignore-end -->
