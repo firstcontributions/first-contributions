@@ -2094,5 +2094,6 @@ nowy wpis
 - [Tran Minh Thang](https://github.com/mccor2000)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
+- [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - 
 <!-- prettier-ignore-end -->
