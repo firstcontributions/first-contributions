@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Vineet Singh](https://github.com/vineet221713)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [larry Xue](https://github.com/larry-xue)
