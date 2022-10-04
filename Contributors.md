@@ -2149,6 +2149,7 @@ nowy wpis
 - [Manan Sharma](https://github.com/manan126)
 - [Adithya P Mallya](https://github.com/adithyapmallya))
 - [Adalton Junio](https://github.com/AdaltonLeite)
+- [Samrat Chakraborty](https://github.com/Samrat1507)
 - [Bhavy Khatter](https://github.com/bhavy007)
 - [John Nelson](https://github.com/John0x11)
 - [Oleksii Solomakha](https://github.com/KamaZz)
