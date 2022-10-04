@@ -2075,6 +2075,6 @@ nowy wpis
 - [Amandeep Singh](https://github.com/Amandeep91)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
-
+- [Bhavna Mogha](https://github.com/BhavnaMogha)
 
 <!-- prettier-ignore-end -->
