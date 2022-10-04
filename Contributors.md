@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 collins kiplangat mutai(Kiplaacollo)
+
 - [Vicky](https://github.com/HungryVicky)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
@@ -12,7 +14,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
-nowy wpis
+  nowy wpis
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
@@ -38,7 +40,7 @@ nowy wpis
 - [Aryan Inani](https://github.com/Adeptus123)
 - [larry Xue](https://github.com/larry-xue)
 - [Abhishek Anuj](https://github.com/abhishekanuj26)
-- [Kapil Kunwar](https://github.com/undef125)
+- [sandesh gavali](https://github.com/sandesh10000)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
 - [Ayushi kumari](https://github.com/18Ayushi)
@@ -47,8 +49,7 @@ nowy wpis
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
-- [Prabhat Edupuganti](https://github.com/prabhate)
--[Sarfraz Hussain](https://github.com/Sarfraz21)
+- [Prabhat Edupuganti](https://github.com/prabhate) -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
 - [Osman Batur Çelik](https://github.com/osmnbtrclk)
@@ -115,7 +116,7 @@ nowy wpis
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
-- [syedmohdjawad]  (https://github.com/syedmohdjawad)
+- [syedmohdjawad] (https://github.com/syedmohdjawad)
 - [Priyanshu Arora] (https://github.com/priyanshuarora595)
 - [Toky] (https://github.com/herostoky)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
@@ -527,8 +528,7 @@ nowy wpis
 - [Daniel Harka](https://github.com/MrDanielHarka)
 - [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
-- [Hemant Maurya](https://github.com/hemantmaurya344)
--[Saurabh Shukla](https://github.com/Saurabh13042004)
+- [Hemant Maurya](https://github.com/hemantmaurya344) -[Saurabh Shukla](https://github.com/Saurabh13042004)
 - [Marion Judy](https://github.com/marionjudy13)
 - [Imam Suyuti](https://github.com/imams12)
 - [Ansh Goyal](https://github.com/Ansh1693)
@@ -1150,8 +1150,8 @@ nowy wpis
 - [Suraj Kumar Kushwaha](https://github.com/suraj-kush)
 - [Rutuja Kharche](https://github.com/rutuja-kharche)
 - [Favour Badakin](https://favourbadakin@gmail.com)
-- [Roshan Christy](https://github.com/roshan-christy(windows))
-- [Roshan Christy](https://github.com/roshan-christy(linux))
+- [Roshan Christy](<https://github.com/roshan-christy(windows)>)
+- [Roshan Christy](<https://github.com/roshan-christy(linux)>)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
   [Ohlylo](https://github.com/ohlylo)
@@ -2128,7 +2128,7 @@ nowy wpis
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
-= [Fighter-007](https://github.com/Fighter-007)
+  = [Fighter-007](https://github.com/Fighter-007)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Abhishek Kumar](https://github.com/shangchi9)
 - [elchmuetze](https://github.com/elchmuetze)
@@ -2207,9 +2207,8 @@ nowy wpis
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
-- [victhupy] (https://github.com/victhupy) 
+- [victhupy] (https://github.com/victhupy)
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Manu Pandey [ (https://github.com/ManuFake)
-- 
-<!-- prettier-ignore-end -->
+- <!-- prettier-ignore-end -->
