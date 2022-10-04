@@ -1864,6 +1864,7 @@ nowy wpis
 - [Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
 - [Jay Anand](https://github.com/notJAYanand)
 - [Kiersten Campbell] (https://github.com/colliecoder)
+- [TheCrazyCanian](https://github.com/TheCrazyCanian)
 - [Dherya Rana](https://gthub.com/ranaDherya)
 - [Archit Jain](https://github.com/architjain2002)
 - [Manish Kumar](https://youtube.com/ytanonymousbunny)
