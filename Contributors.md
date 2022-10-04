@@ -498,6 +498,7 @@ nowy wpis
 - [Kishan Kumar](https://github.com/Kishan015)
 - [Pravar Anu](https://github.com/PravarAnu)
 - [Joao Crulhas](https://github.com/joaoCrulhas)
+- [Omkar Karke](https://github.com/omkar-karke)
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
 - [Vibin reji](https://github.com/Vibinreji)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
