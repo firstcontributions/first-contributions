@@ -2010,6 +2010,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Erick Sarabia](https://github.com/ericksarabia)
 - [Rochi Eko Pambudi](https://github.com/rochiekop)
 - [Prasetyo Yudho](https://github.com/prasetyoyudo)
-
+- [Cindy Lam](https://github.com/ngl4)
 
 <!-- prettier-ignore-end -->
