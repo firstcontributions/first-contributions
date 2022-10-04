@@ -2054,6 +2054,6 @@ collins kiplangat mutai(Kiplaacollo)
 -[Rutika Masane](https://github.com/rutika1823)
 -[Funikz](https://github.com/Funikz)
 -[Rahul Rs](https://github.com/RsRsRahul)
-
+-[John Swanson](https://github.com/jcswanson)
 
 <!-- prettier-ignore-end -->
