@@ -2235,6 +2235,6 @@ nowy wpis
 - [victhupy] (https://github.com/victhupy) 
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
-- [Manu Pandey [ (https://github.com/ManuFake)
-- 
+- [Manu Pandey] (https://github.com/ManuFake)
+- [Bharti meena](https://github.com/bhartimeena)
 <!-- prettier-ignore-end -->
