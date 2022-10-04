@@ -771,6 +771,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Robin Carey](https://github.com/robs179)
 - [Erin Miller](https://github.com/erinlmiller)
 - [yousef]
+- [arpita-skeen]
 - [botoko]
 - [aiyanfaras](https://github.com/Aiyan-Faras)
 - [Eric Salvi](https://github.com/ericsalvi)
