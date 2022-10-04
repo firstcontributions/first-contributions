@@ -3,10 +3,8 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
-- [Subhash Sheoran](https://github.com/isheoran)
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
 - [Winay Gupta](https://github.com/WinayGupta777)
-- [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
@@ -65,7 +63,6 @@ nowy wpis
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie] (https://github.com/a-nn-t-s)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
-- [Jongsik Kim](https://github.com/neomax7)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
 - [embTw] (https://github.com/embTw)
 - [Baby Washbear] (https://github.com/babywashbear)
@@ -2159,5 +2156,6 @@ nowy wpis
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
+- [Praveen Chandra](https://github.com/praveenchandra01)
 
 <!-- prettier-ignore-end -->
