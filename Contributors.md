@@ -2105,5 +2105,5 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+- [Amitabh Kumar](https://github.com/kamitabh24)
 <!-- prettier-ignore-end -->
