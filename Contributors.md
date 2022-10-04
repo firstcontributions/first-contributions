@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [larry Xue](https://github.com/larry-xue)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Abhay Chandel](https://github.com/iabhaychandel)
