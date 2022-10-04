@@ -12,6 +12,7 @@ nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Kunal Kittur](https://github.com/heyyitskk)
+- [Sowmya sree](https://github.com/sowmyasree33)
 - [Ben Flatau](https://github.com/bflatau)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
