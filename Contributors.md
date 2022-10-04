@@ -613,6 +613,7 @@ nowy wpis
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
+- [Bruno Anesio](https://github.com/brunoanesio)
 - [P Dharani](https://github.com/PolukondaDharani)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [E Praveen](https://github.com/praveenesp/)
