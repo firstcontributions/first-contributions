@@ -1452,7 +1452,6 @@ nowy wpis
 - [Parimala S](https://github.com/ParimalaS27)
 - [Dubem Obinwanne](https://github.com/DubemObi)
 - [Olayemi Michael](https://github.com/michaelin007)
-- [Javeria Jameel](https://github.com/Jiaveria)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Lior Altshul](https://github.com/lioralt98)
 - [Alia Quintero](https://github.com/aliaquintero)
@@ -2165,6 +2164,7 @@ nowy wpis
 - [Samir Gayatri](https://github.com/gayatri19670)
 - [Shaksham Singhal](https://github.com/Shaksham-singhal).
 - [Aadarsh Mani](https://github.com/aadarshmani)
+- [Sanket Kale](https://github.com/sanketkale99)
 - [jackkweyunga](https://github.com/jackkweyunga)
 - [Praneeth](https://github.com/18praneeth)
 - [Coloursplash](https://github.com/Coloursplash)
