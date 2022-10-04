@@ -66,6 +66,7 @@ nowy wpis
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Ravi Kumar] (https://github.com/ravi9083)
 - [Jared Orler] (https://github.com/jaredorler)
+- [Piyush Bagul] (https://github.com/piyush916)
 - [Anurag Rawat] (https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
 - [segoSambel] (https://github.com/segoSambel)
