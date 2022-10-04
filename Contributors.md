@@ -1111,6 +1111,7 @@ nowy wpis
 - [Cyber Thunder Storm](https://github.com/cyberthunderstorm/)
 - [Ankit jha](https://m.youtube.com/channel/UC-a_KKrmOQ4xk8ruy05fGOQ)
 - [ChiragChrg](https://github.com/ChiragChrg)
+- [Alfredo Teogalbo](https://github.com/toor-4)
 - [Brogan Branstetter](https://github.com/broganbrogan)
 - [imbharat420](https://github.com/imbharat420)
 - [DijanaPavlovic](https://github.com/DijanaPavlovic)
