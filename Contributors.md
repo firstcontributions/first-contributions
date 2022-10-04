@@ -161,6 +161,7 @@ nowy wpis
 - [Sakshi](https://github.com/sakshigupta001)
 - [Lian](https://github.com/liulian1004)
   vivek
+- [Jonah Uka](https://github.com/Jojo-GitH2)
 - [Ashish Tiwari](https://github.com/Ashish-100-tiwari)
 - [El Arif Amine](https://github.com/AmineArif1)
 - [forno] (https://github.com/fornclakess)
