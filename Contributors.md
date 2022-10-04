@@ -66,6 +66,7 @@ nowy wpis
 - [Agrima Gupta](https://github.com/sassy-bugs)
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
+- [Sahil Kamate](https://github.com/sahilkamate03)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
