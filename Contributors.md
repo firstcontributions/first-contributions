@@ -159,6 +159,7 @@ nowy wpis
 - [WoodWood](https://github.com/WoodWood1299)
 - [Shamlo](https://github.com/shammlo)
 - [Abhishek S G](https://github.com/abhisheksg222)
+- [Riya Gupta](https://github.com/iriyagupta)
 - [Bharath C S](https://github.com/bharath-acchu)
 - [Robert Theo](https://github.com/robertheo15)
 - [Ashish Patel](https://github.com/ashisxcode)
