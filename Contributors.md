@@ -1196,6 +1196,7 @@ nowy wpis
 - [Jonathan Barzola](https://github.com/jonathanbarzola)
 - [Baroon Jha](https://github.com/baroonjha)
 - [Sulabh Shrestha] (https://github.com/SulabhShrestha)
+- [David Sabalete] (https://github.com/dsabalete)
 - [Sam Brands](https://github.com/MoosMas)
 - [Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anupam Bista](https://github.com/theanupambista)
