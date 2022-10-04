@@ -2098,6 +2098,7 @@ nowy wpis
 - [Warawut Thasungnoen](https://github.com/beer-idev)
 - [Rohit Das](https://github.com/Rohit2001Das)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
+- [Utkarsh Pancholi](https://github.com/Utkarsh212)
 - [Akshat Dhiman](https://github.com/Akshat120)
 - [Vicky aggarwal](https://github.com/Vickyagg23)
 - [Mehul Kumar](https://github.com/WonderSTK)
