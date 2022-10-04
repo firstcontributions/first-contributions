@@ -2110,5 +2110,5 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+- [Shivam Agarwal](https://github.com/leoperd)
 <!-- prettier-ignore-end -->
