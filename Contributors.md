@@ -31,6 +31,7 @@ nowy wpis
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
 - [Sk Tamim](https://github.com/SkTamim)
 - [Sanjay RB](https://github.com/sanjay-rb)
+- [Rohit Pani](https://github.com/Rkpani05)
 - [Vrutti Patel](https://github.com/vrutti24)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
 - [Elia Zonta](https://github.com/eliazonta)
@@ -2112,6 +2113,5 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-
-- [Divyanshu Shukla](https://github.com/Divyanshu6566)
+- 
 <!-- prettier-ignore-end -->
