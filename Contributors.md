@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Winay Gupta](https://github.com/WinayGupta777)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
