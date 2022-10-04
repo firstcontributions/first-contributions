@@ -34,7 +34,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Trey_Crank](https://github.com/TreyTC)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
-- [Thanmai Sai](https://github.com/thanmaisai)
 - [Yash Chowdhury](https://github.com/xinkin)
 - [Pushkar Ambastha](https://github.com/Pushkar1853)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
@@ -2023,6 +2022,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Phong Pham](https://github.com/phongpv)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Ishabh Thakur](https://github.com/ishabhthakur)
+- [Antony Raj]([https://github.com/rock36])
 
 
 <!-- prettier-ignore-end -->
