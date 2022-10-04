@@ -23,6 +23,7 @@ nowy wpis
 - [Prabhat Edupuganti](https://github.com/prabhate)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
+- [Sudipto Das](https://github.com/Sudip200)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
