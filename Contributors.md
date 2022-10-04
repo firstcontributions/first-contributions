@@ -1495,6 +1495,7 @@ nowy wpis
 - [Aryan Bramhane](https://github.com/neutr0n420)
 - [Gaurav](https://github.com/Gaurav-1306)
 - [Hafid-hub](https://github.com/hafid-hub)
+- [Hari Kiran Kante](https://github.com/hari4742)
 - [Albert Debbarma](https://github.com/Albert-Debbarma)
 - [flannelmn](https://github.com/flannelmn)
 - [BenyLava](https://github.com/BenyLava)
