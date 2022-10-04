@@ -2106,8 +2106,8 @@ nowy wpis
 - [Tran Minh Thang](https://github.com/mccor2000)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
-- [Kris Mandanka](https://github.com/krismandanka)
-- 
+- [Kris Mandanka](https://github.com/krismandanka) 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- [Frits Sasia](https://github.com/fritssasia)
 - 
 <!-- prettier-ignore-end -->
