@@ -31,6 +31,7 @@ nowy wpis
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
 - [George Tzinetas](https://github.com/kriminals)
+- [Md Danish Jamal](https://github.com/imdj6)
 - [Deepak Krishnaa Govindarajan](https://github.com/deepakkrish212)
 - [GANESH TEKALE](https://github.com/ganeshtekale7400)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
