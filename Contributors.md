@@ -2168,5 +2168,6 @@ nowy wpis
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
 - [victhupy] (https://github.com/victhupy) 
+- [Mohit Prasad] https://github.com/ProgrammerMohit/Website
 -
 <!-- prettier-ignore-end -->
