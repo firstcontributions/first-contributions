@@ -1862,6 +1862,7 @@ nowy wpis
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Aman Saurav](https://github.com/oops-aman)
 - [Kanishk Gupta](https://github.com/Kanisshk)
+- [Shreya Gupta] (https://github.com/GShreya06)
 - [Anish Shilpakar](https://github.com/juju2181)
 - [Yung Teck Sheng](https://github.com/yungts97)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
