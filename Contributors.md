@@ -2091,6 +2091,6 @@ nowy wpis
 - [Devesh Swarnkar](https://github.com/devesh-0419)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
-
+- [Deepank Pushpad](https://github.com/DeepankRx)
 
 <!-- prettier-ignore-end -->
