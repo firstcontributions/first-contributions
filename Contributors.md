@@ -104,6 +104,7 @@ nowy wpis
 - [Rudra Sharma](https://github.com/rudra016)
 - [Rajesh Kannan](https://github.com/krishfredrick)
 - [Piyush Sharma] (https://github.com/piyush2108)
+- [Hari](https://github.com/broharigunda)
 - [Raf Gutierrez] (https://github.com/RafaelGutz444)
 - [Tsirimaholy](https://github.com/Tsirimaholy)
 - [Jatin Yadav](https://github.com/iamjatinyadav)
