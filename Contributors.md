@@ -17,6 +17,7 @@ nowy wpis
 - [Kinza Malik](https://github.com/Kinzamalik)
 - [Shreyam Gupta](https://github.com/shreyamG)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
+- [Hari Krishna](https://github.com/SHIVANATHRIHARIKRISHNA)
 - [axyut](https://github.com/axyut)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
