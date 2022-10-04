@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Subhash Sheoran](https://github.com/isheoran)
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
 - [Winay Gupta](https://github.com/WinayGupta777)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
