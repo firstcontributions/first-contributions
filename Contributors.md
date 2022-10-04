@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
-- [A Stepanian](https://github.com/a-stepanian)
 - [Winay Gupta](https://github.com/WinayGupta777)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
@@ -2153,5 +2152,6 @@ nowy wpis
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
+- [A Stepanian](https://github.com/a-stepanian)
 
 <!-- prettier-ignore-end -->
