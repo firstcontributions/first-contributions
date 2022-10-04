@@ -5,6 +5,7 @@ collins kiplangat mutai(Kiplaacollo)
 
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
+- [Hima Varshitha](https://github.com/hima-varshi)
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
