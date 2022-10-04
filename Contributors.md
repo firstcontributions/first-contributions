@@ -284,6 +284,7 @@ nowy wpis
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
 - [Midhun J Manoj](http://github.com/midhunjmanoj)
+- [Whisnu Y Saputra](https://github.com/whisnuys) 
 - [Madhusankha](https://github.com/Madhusankha)
 - [Kishan Kumar](https://github.com/Kishan015)
 - [Krishn Kant](https://github.com/krishna2332002/)
