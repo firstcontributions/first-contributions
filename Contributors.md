@@ -2158,6 +2158,7 @@ nowy wpis
 - [Ina Bromuos](https://github.com/ibrouos)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Lauren Gayle](https://github.com/LaurenGayle)
+- [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Erick Sarabia](https://github.com/ericksarabia)
 - [Rochi Eko Pambudi](https://github.com/rochiekop)
