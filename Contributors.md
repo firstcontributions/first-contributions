@@ -2245,5 +2245,6 @@ nowy wpis
 - [Manu Pandey [ (https://github.com/ManuFake)
 - [Dylan Grijalva [ (https://github.com/dylangrijalva)
 - [Geovani Amaral](https://github.com/iamageo)
+- [Lucas Soares](https://github.com/fbsoares-lu)
 - 
 <!-- prettier-ignore-end -->
