@@ -663,6 +663,7 @@ nowy wpis
 - [Pranav Dhawan](https://github.com/pranavdhawan)
 - [Sylvie Quris](https://github.com/squris)
 - [Javier Marín](https://github.com/lessigsx)
+- [Ricardo Sastre](https://github.com/odracir02)
 - [Joseph Corbett](https://github.com/Corbett000)
 - [Fernando Cuevas](https://github.com/FercueNat)
 - [Rhythm Saha](https://github.com/rhythmsaha)
