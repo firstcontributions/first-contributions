@@ -5,6 +5,7 @@ collins kiplangat mutai(Kiplaacollo)
 
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
+- [Hima Varshitha](https://github.com/hima-varshi)
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
@@ -18,7 +19,9 @@ nowy wpis
 - [axyut](https://github.com/axyut)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
+- [laila van rooijen] (https://github.com/Lailaismyname)
 - [larry Xue](https://github.com/larry-xue)
+- [Kapil Kunwar](https://github.com/undef125)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
@@ -32,6 +35,7 @@ nowy wpis
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
+- [Himanshu Chhatwal](https://github.com/himanshu1221)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
 - [Sk Tamim](https://github.com/SkTamim)
 - [Sanjay RB](https://github.com/sanjay-rb)
@@ -63,12 +67,14 @@ nowy wpis
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Ravi Kumar] (https://github.com/ravi9083)
 - [Jared Orler] (https://github.com/jaredorler)
+- [Piyush Bagul] (https://github.com/piyush916)
 - [Anurag Rawat] (https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
 - [segoSambel] (https://github.com/segoSambel)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Thanmai Sai](https://github.com/thanmaisai)
+- [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
 - [Yash Chowdhury](https://github.com/xinkin)
 - [Pushkar Ambastha](https://github.com/Pushkar1853)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
@@ -94,6 +100,7 @@ nowy wpis
 - [Evander Siregar](https://github.com/egocider)
 - [HaJinYong](https://github.com/jsh0512)
 - [Harjaspreet Singh](https://github.com/harjasDot)
+- [Chinmay Kotkar](https://github.com/Chinmay-03)
 - [Hirday Gupta](hirdaygupta1119/first-contributions)
 - [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Sarah Miller](https://github.com/smiller1188)
@@ -103,6 +110,7 @@ nowy wpis
 - [Abdul Rehman](https://github.com/abdulrehmandev)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
 - [Gunjit_Valechha](https://github.com/Gunjit-V)
+- [Hirusha CHamod](https://github.com/hiradev)
 - [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 - [Navneet Gupta](https://github.com/Nav21000)
 - [Krishan Murari](https://github.com/krishan-here)
@@ -883,6 +891,7 @@ nowy wpis
 - [Harman Ro](https://github.com/HarmanRo)
 - [Roberto Camberos](https://github.com/robertocamberos)
 - [Sagar Jariwala](https://github.com/Sagarjari01)
+- [Heyran L](https://github.com/hran-8)
 - [Zahra Shahid](https://github.com/ZahraShahid)
 - [Brent Upton](https://github.com/bupton)
 - [Hoper Hope](https://github.com/HoperHope)
@@ -1163,6 +1172,7 @@ nowy wpis
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Harsh Walia](https://github.com/waliaharsh74)
 - [Aditya Raj](https://github.com/rajaditya1306)
+- [Samik Pandit](https://github.com/panditsamik)
 - [Erik Pereira](https://github.com/Peartre)
 - [hoyeen01](https://github.com/hoyeen01)
 - [ojorgensen](https://github.com/ojorgensen)
@@ -2029,6 +2039,7 @@ nowy wpis
 - [Bikas Kumar Behera](https://github.com/Bikaskumar572)
 - [Jayson De los Reyes](https://github.com/jisundr)
 - [Pranav arora](https://github.com/pranavintech)
+- [Safal Koirala](https://github.com/SafalKoirala)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [zsMoonshine](https://github.com/zsMoonshine)
@@ -2119,6 +2130,15 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- [Viviane Martini](https://github.com/vivianemartini)
 
+
+
+
+
+
+
+
+
+
+- [Viviane Martini](https://github.com/vivianemartini)
 <!-- prettier-ignore-end -->
