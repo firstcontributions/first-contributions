@@ -2082,6 +2082,7 @@ nowy wpis
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
+- [Tran Minh Thang](https://github.com/mccor2000)
 
 
 <!-- prettier-ignore-end -->
