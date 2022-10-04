@@ -7,6 +7,7 @@ collins kiplangat mutai(Kiplaacollo)
 nowy wpis
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
+- [Mihir Panchal](https://github.com/MihirRajeshPanchal)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Archit Handa](https://github.com/Archit-Handa)
@@ -24,6 +25,8 @@ nowy wpis
 - [Prabhat Edupuganti](https://github.com/prabhate)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
+- [Sudipto Das](https://github.com/Sudip200)
+- [Surbhi Mayank](https://github.com/surbhi2408)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
@@ -40,6 +43,7 @@ nowy wpis
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
 - [George Tzinetas](https://github.com/kriminals)
+-[Abhishek Aute](https://github.com/Abhi2820)
 - [Md Danish Jamal](https://github.com/imdj6)
 - [Deepak Krishnaa Govindarajan](https://github.com/deepakkrish212)
 - [GANESH TEKALE](https://github.com/ganeshtekale7400)
@@ -839,6 +843,7 @@ nowy wpis
 - [Muhammad Iqbal](https://github.com/muhammadikbal512)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
+- [Maria Mills] (https://github.com/mariamills)
 - [Micah Gant](https://github.com/micah-gant/first-contributions)
 - [NorwegianIcecube](https://github.com/NorwegianIcecube/first-contributions)
 - [Mizraim](https://github.com/mizraimn/first-contributions)
@@ -1860,6 +1865,7 @@ nowy wpis
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Aman Saurav](https://github.com/oops-aman)
 - [Kanishk Gupta](https://github.com/Kanisshk)
+- [Shreya Gupta] (https://github.com/GShreya06)
 - [Anish Shilpakar](https://github.com/juju2181)
 - [Yung Teck Sheng](https://github.com/yungts97)
 - [Seetaram Naik](https://github.com/SeetaramNaik)
@@ -2111,5 +2117,7 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+
+
+- [Md Rizwan](https://leetcode.com/rizwan073)
 <!-- prettier-ignore-end -->
