@@ -744,6 +744,7 @@ nowy wpis
 - [Anurag Lodhi](https://github.com/AnuragLodhi)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
+- [Nicolas Bolt](https://github.com/nicolasbolt)
 - [Sidney Tebbal](https://github.com/sidney888)
   Ericsson Colborn
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
