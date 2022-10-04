@@ -2139,7 +2139,7 @@ nowy wpis
 - [Samir Gayatri](https://github.com/gayatri19670)
 - [Aadarsh Mani](https://github.com/aadarshmani)
 - [Praneeth](https://github.com/18praneeth)
-
+- [Pranav K S](https://github.com/pie111)
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
 
