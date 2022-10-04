@@ -143,6 +143,7 @@ nowy wpis
 - [Adeleye Temiloluwa](https://github.com/temiloluwa-js)
 - [Alok Ranjan](https://github.com/arpitmx)
 - [Kishan Modasiya](https://github.com/kishumds)
+- [Imokol Faith Ruth](https://github.com/faithruth)
 - [Rudra Sharma](https://github.com/rudra016)
 - [Rajesh Kannan](https://github.com/krishfredrick)
 - [Piyush Sharma] (https://github.com/piyush2108)
