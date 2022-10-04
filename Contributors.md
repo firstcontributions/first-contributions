@@ -63,6 +63,7 @@ nowy wpis
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie] (https://github.com/a-nn-t-s)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
+- [Jongsik Kim](https://github.com/neomax7)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
 - [embTw] (https://github.com/embTw)
 - [Baby Washbear] (https://github.com/babywashbear)
