@@ -2113,6 +2113,6 @@ nowy wpis
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 
-
-- [Md Rizwan](https://leetcode.com/rizwan073)
+- [Divyanshu Shukla](https://github.com/Divyanshu6566)
+- [shreverr](https://github.com/shreverr)
 <!-- prettier-ignore-end -->
