@@ -2100,6 +2100,10 @@ nowy wpis
 - [Firejoust](https://github.com/firejoust)
 - [Ayoub Boulbaz] (https://github.com/AyoubHolmes)
 -[Rutika Masane](https://github.com/rutika1823)
+
+- [Avinash Shukla](https://github.com/Luci04)
+
+
 -[Funikz](https://github.com/Funikz)
 -[Rahul Rs](https://github.com/RsRsRahul)
 - [Noor Islam](https://github.com/Noor44555)
@@ -2116,4 +2120,5 @@ nowy wpis
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
+
 <!-- prettier-ignore-end -->
