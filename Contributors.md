@@ -2164,5 +2164,5 @@ nowy wpis
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
-- 
+- [Ricardo Ramos](https://github.com/ricardo-ramos-moura)
 <!-- prettier-ignore-end -->
