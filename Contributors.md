@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Mohd Azeem](https://github.com/azeemhack)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [larry Xue](https://github.com/larry-xue)
 - [Anurag Dutt](https://github.com/duttanurag)
@@ -68,7 +68,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Raf Gutierrez] (https://github.com/RafaelGutz444)
 - [Tsirimaholy](https://github.com/Tsirimaholy)
 - [Jatin Yadav](https://github.com/iamjatinyadav)
-- [Abinawan Bhattarai](https://github.com/Abinawan)
 - [WoodWood](https://github.com/WoodWood1299)
 - [Shamlo](https://github.com/shammlo)
 - [Abhishek S G](https://github.com/abhisheksg222)
