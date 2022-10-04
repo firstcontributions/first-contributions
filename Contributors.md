@@ -22,6 +22,7 @@ nowy wpis
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
 - [larry Xue](https://github.com/larry-xue)
+- [Abhishek Anuj](https://github.com/abhishekanuj26)
 - [Kapil Kunwar](https://github.com/undef125)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
@@ -380,6 +381,7 @@ nowy wpis
 - [Morii Shikaa](https://github.com/moriishika)
 - [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
+- [Matt Pahuta](https://github.com/mattpahuta)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
 - [Muhammad Soban](https://github.com/Sobaaaan)
@@ -2148,4 +2150,5 @@ nowy wpis
 - [Coloursplash](https://github.com/Coloursplash)
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
+- [Muhammad Uzair](https://github.com/heyitsuzair)
 <!-- prettier-ignore-end -->
