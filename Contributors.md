@@ -121,6 +121,7 @@ nowy wpis
 - [syedmohdjawad]  (https://github.com/syedmohdjawad)
 - [Priyanshu Arora] (https://github.com/priyanshuarora595)
 - [Toky] (https://github.com/herostoky)
+- [Patricia Rodrigues] (https://github.com/patprodrigues)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
 - [Abhishek Dusad] (https://github.com/abhishekd004)
 - [Jahnvi ] (https://github.com/jahnvi15/)
