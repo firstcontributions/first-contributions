@@ -1070,6 +1070,7 @@ nowy wpis
 - [MMarbs2](https://github.com/MMarble2)
 - [samadpls](https://github.com/samadpls)
 - [Conner Cook](https://github.com/conner-c)
+- [Terence Chambers](https://github.com/chambers91)
 - [The Aaryan](https://github.com/the-aaryan)
 - [Max Bromet](https://github.com/mbromet)
 - [Programer3](https://github.com/Programer3)
