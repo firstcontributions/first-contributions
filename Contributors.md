@@ -2071,6 +2071,7 @@ nowy wpis
 -[Rahul Rs](https://github.com/RsRsRahul)
 - [Noor Islam](https://github.com/Noor44555)
 - [Amandeep Singh](https://github.com/Amandeep91)
+- [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 
 
 <!-- prettier-ignore-end -->
