@@ -2092,6 +2092,7 @@ nowy wpis
 - [Endraswara Wiryawan](https://github.com/endrasww)
 - [Ananto Eko Hendarto](https://github.com/sieputra)
 - [Praveen Sahu](https://github.com/sudo-pkyt)
+- [Upender Singh Lakhwan](https://github.com/LaKhWaN)
 - [Manmeet kaur](https://github.com/Manmeetkaur1525)
 - [Harshit Gupta](https://github.com/its-harshitg)
 - [jai prakash shah](https://github.com/jai7359)
