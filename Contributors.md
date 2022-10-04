@@ -840,6 +840,7 @@ nowy wpis
 - [Muhammad Iqbal](https://github.com/muhammadikbal512)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
+- [Maria Mills] (https://github.com/mariamills)
 - [Micah Gant](https://github.com/micah-gant/first-contributions)
 - [NorwegianIcecube](https://github.com/NorwegianIcecube/first-contributions)
 - [Mizraim](https://github.com/mizraimn/first-contributions)
