@@ -56,6 +56,7 @@ nowy wpis
 - [Jared Orler] (https://github.com/jaredorler)
 - [Anurag Rawat] (https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
+- [segoSambel] (https://github.com/segoSambel)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Thanmai Sai](https://github.com/thanmaisai)
@@ -2101,5 +2102,6 @@ nowy wpis
 - [Julie Heard](https://github.com/julieheard)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Yongjin Huang](https://github.com/YongjinHuang)
+- [Prannesh Sathyamoorthy](https://github.com/Prannesh45)
 - 
 <!-- prettier-ignore-end -->
