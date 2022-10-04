@@ -818,6 +818,7 @@ nowy wpis
 - [Amine Essamet](https://github.com/aminessamet)
 - [Tanay Telsinge](https://github.com/tanayTelsinge)
 - [John Zabula](https://github.com/konzab)
+- [Tyler Lutz](https://github.com/tyler-lutz)
 - [Krupa Thumar]
 - [Imran Biswas]
 - [Asyraf Mustaqim]
