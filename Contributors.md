@@ -2109,5 +2109,5 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+- [Ademola Jegde] (https://github.com/sherggs)
 <!-- prettier-ignore-end -->
