@@ -2122,8 +2122,10 @@ nowy wpis
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Samir Gayatri](https://github.com/gayatri19670)
+- [Thanajade Dechananthachai](https://github.com/Thanajade)
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
+
 
 <!-- prettier-ignore-end -->
