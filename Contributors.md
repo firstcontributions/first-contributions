@@ -1913,6 +1913,7 @@ nowy wpis
 - [Fazri Ahyar Rozaq](https://github.com/fazriachyar)
 - [Harsh Verma](https://github.com/harshverma893)
 - [Anas Qureshi](https://github.com/Anas9764)
+- [Kunal Ladhani](https://github.com/Kunal-Ladhani)
 - [bikrant mishra}(https://hacktoberfest.com/profile/)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
