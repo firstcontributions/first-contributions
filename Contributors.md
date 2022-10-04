@@ -219,6 +219,7 @@ nowy wpis
 - [Sibongiseni Msomi](https://github.com/sibowilldo)
 - [Ayush Raj](https://github.com/AyushRaj00)
 - [Ritesh](https://github.com/RiteshJha2000)
+- [Ayush Kumar Gupta](https://github.com/Ayush0202)
 - [Leo Pasturel](https://github.com/leopasturel)
 - [Peter Zyambo](https://github.com/sangwani-coder)
 - [Hamdaan Ahmad](https://github.com/githamdaan25)
