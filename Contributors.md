@@ -1996,6 +1996,7 @@ nowy wpis
 - [Harsh Jangitwar](https://github.com/harsh-9c)
 - [Himanshu aggarwal](https://github.com/himanshuaggar)
 - [Jerik George](https://github.com/jerik2004)
+- [Reny Pacheco](https://github.com/reny-pacheco)
 - [Krishanthan Krishnamoorthy](https://github.com/krish23)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - [Himanshu Singh](https://github.com/developerhimanshu)
