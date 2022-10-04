@@ -1278,6 +1278,7 @@ nowy wpis
 - [Berlun Devera](https://github.com/b-devera)
 - [Sahas Thyarala](https://github.com/Sthyarala)
 - [Chow Mei Kei](https://github.com/meikei-99)
+- [Strzegol](https://github.com/Strzegol)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Javier Espinosa](https://github.com/EspJav)
 - [Lucas Loureiro](https://github.com/L0ureiro)
