@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [larry Xue](https://github.com/larry-xue)
