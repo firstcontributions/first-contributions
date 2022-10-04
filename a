@@ -1,0 +1,504 @@
+[33mcommit 08109efd580e39ce6e45da6eee7b3cc2f20819a6[m[33m ([m[1;36mHEAD -> [m[1;32mmyBranch[m[33m)[m
+Author: Medyk Johnson <tomasz.madaj@o2.pl>
+Date:   Tue Oct 4 11:32:07 2022 +0200
+
+    contributors add
+
+[33mcommit ee67baf6526870b1cf82d9db0015ed55301a6dd3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: c2c89120 ba805fff
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:55:05 2022 +0200
+
+    Merge pull request #56411 from BhaneshP/bhanesh-palliwal
+    
+    Add Bhanesh Palliwal to Contributors list
+
+[33mcommit ba805fffcf79ad13f18d65f290968dd0489f8716[m
+Author: Bhanesh <bhanesh.palliwal@xecurify.com>
+Date:   Tue Oct 4 14:23:49 2022 +0530
+
+    Add Bhanesh Palliwal to Contributors list
+
+[33mcommit c2c891208ff79398eec1f832c1d1f7ac9b8c2466[m
+Merge: b265f702 0972a43a
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:51:17 2022 +0200
+
+    Merge pull request #56410 from tomwf/add-tomwf
+    
+    Add Thomas Chow to Contributors list
+
+[33mcommit 0972a43a2d8c23d6f2f35af4aeaa8ca4411c7a5b[m
+Author: Thomas Chow <tomwf.chow@gmail.com>
+Date:   Tue Oct 4 10:48:30 2022 +0200
+
+    Add Thomas Chow to Contributors list
+
+[33mcommit b265f702e563d82e5223a7170d97fe3337b6073a[m
+Merge: 8982b1b3 97aaa112
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:43:41 2022 +0200
+
+    Merge pull request #56408 from PetrusAriaa/add-petrus-ariaa
+    
+    Add Petrus Ariaa to Contributors list
+
+[33mcommit 97aaa112cff3958b46b1fa4039c9fde3db42f7b0[m
+Author: PetrusAriaa <petrusariacr25@gmail.com>
+Date:   Tue Oct 4 15:41:30 2022 +0700
+
+    Add Petrus Ariaa to Contributors list
+
+[33mcommit 8982b1b38d22686144e1595b3392db6e685d6d20[m
+Merge: de682c7d d99d8e81
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:33:30 2022 +0200
+
+    Merge pull request #56407 from anirudhmakhana/add-anirudh-makhana
+    
+    Add Anirudh Makhana to contributors list
+
+[33mcommit d99d8e81e61cb440ef9a5d5b0e0499224281b9f9[m
+Author: Anirudh Makhana <anirudhmakhana@gmail.com>
+Date:   Tue Oct 4 15:32:32 2022 +0700
+
+    Add Anirudh Makhana to contributors list
+
+[33mcommit de682c7d396f236d60748cda62261b7cc3a0b1c4[m
+Merge: 5abcf689 c1a3dee6
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:30:25 2022 +0200
+
+    Merge pull request #56405 from vrutti24/customerReview
+    
+    first contribution added my name
+
+[33mcommit 5abcf6895d0a3d261c01a9d4dfb8958114fcb6cd[m
+Merge: 9ceafb8a 1b6d473b
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:24:12 2022 +0200
+
+    Merge pull request #56402 from firejoust/main
+    
+    Add Firejoust to Contributors list
+
+[33mcommit 9ceafb8a636719595f966b8bc49afdebaa962369[m
+Merge: f0d0a719 5dcd8975
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:24:07 2022 +0200
+
+    Merge pull request #56401 from omagr/new-contribution-from-omagr
+    
+    Add <om-agarwal> to Contributors list
+
+[33mcommit 1b6d473b1f87844cc28490f1fdb403375ae124d5[m
+Author: Firejoust <42525540+firejoust@users.noreply.github.com>
+Date:   Tue Oct 4 19:22:36 2022 +1100
+
+    Add Firejoust to Contributors list
+
+[33mcommit 5dcd8975ddb3198608c34b85fa653b2e77ee2963[m
+Author: om agarwal <omag.about@gmail.com>
+Date:   Tue Oct 4 13:48:25 2022 +0530
+
+    Add <om-agarwal> to Contributors list
+
+[33mcommit f0d0a7195e5f439fe6776227dcc0d92ef7450bcd[m
+Merge: efd999c2 337622b0
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:14:51 2022 +0200
+
+    Merge pull request #56400 from arpita-skeen/patch-1
+    
+    added my name
+
+[33mcommit 337622b07cd5a8bf85fa12115bad62cfa0368b1d[m
+Author: arpita-skeen <114982206+arpita-skeen@users.noreply.github.com>
+Date:   Tue Oct 4 13:44:39 2022 +0530
+
+    added my name
+
+[33mcommit efd999c29f02e4dfa9de5ab37b86234fbf342054[m
+Merge: 132cad47 c0fb68cd
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:13:42 2022 +0200
+
+    Merge pull request #56399 from prabhate/add-prabhat-e
+    
+    Add Prabhat Edupuganti to Contributors list
+
+[33mcommit c0fb68cde55dc9f303cc707c712f0136c0a58140[m
+Author: Prabhat E <prabhatedupuganti@gmail.com>
+Date:   Tue Oct 4 13:41:59 2022 +0530
+
+    Add Prabhat Edupuganti to Contriutors list
+
+[33mcommit 132cad47ec21fc7dce8b0519bc46b3a6e527dea9[m
+Merge: 653760f9 bbbfe92f
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:06:27 2022 +0200
+
+    Merge pull request #56393 from suchitasoni/contributionBySuchita
+    
+    Add Suchita Soni to Contributors list
+
+[33mcommit 653760f99f302b6438b9cd2d1b0e5f33391145e3[m
+Merge: 9639ea5a e0c44a0e
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:06:25 2022 +0200
+
+    Merge pull request #56392 from syed-m-osama/branch-001
+    
+    Add Syed Mohammad Osama to Contributors list
+
+[33mcommit 9639ea5a3785f66ce03383f0144369b51abc1677[m
+Merge: b316dc9c a3629b7d
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 10:05:17 2022 +0200
+
+    Merge pull request #56391 from kaeptnkrunch/kaeptnkrunch
+    
+    Contributors.md aktualisiert
+
+[33mcommit bbbfe92f13677a40b23a5b88fc31bd4042220584[m
+Author: Suchita Soni <suchita.soni1@gmail.com>
+Date:   Tue Oct 4 13:34:55 2022 +0530
+
+    Add Suchita Soni to Contributors list
+
+[33mcommit a3629b7dc19097a5bc2698c6562cb0d583af171e[m
+Author: Stephan B. R. Langenau <stephan.langenau@barmer.de>
+Date:   Tue Oct 4 10:03:30 2022 +0200
+
+    Contributors.md aktualisiert
+    Add Stephan Langenau to Contributors list
+
+[33mcommit e0c44a0e29879a943b0b52c9c37743c0812b67b5[m
+Author: Osama <syed.m.osama.new@gmail.com>
+Date:   Tue Oct 4 13:33:03 2022 +0530
+
+    Add Syed Mohammad Osama to Contributors list
+
+[33mcommit b316dc9c13048ac6d974bd56042208042cc382d4[m
+Merge: 556ffd84 accff159
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:57:50 2022 +0200
+
+    Merge pull request #56390 from RsRsRahul/patch-3
+    
+    Update Contributors.md
+
+[33mcommit accff159c413a0dfd6551dbc10df0c666d4f177b[m
+Author: Rahul <95147446+RsRsRahul@users.noreply.github.com>
+Date:   Tue Oct 4 13:27:26 2022 +0530
+
+    Update Contributors.md
+    
+    Added Rahul as a contributor
+
+[33mcommit 556ffd84b54101658b1f5ce524991d81b55daee6[m
+Merge: 23e3acae b1ca5678
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:50:44 2022 +0200
+
+    Merge pull request #56389 from Funikz/funikz
+    
+    add Funikz to Contributors list
+
+[33mcommit b1ca56789ccf710b1a65ee949f8989fa09f5be09[m
+Author: Funikz <aurorateam2504@gmail.com>
+Date:   Tue Oct 4 14:49:50 2022 +0700
+
+    add Funikz to Contributors list
+
+[33mcommit 23e3acae9567e6436b601e5255609711afd0bb93[m
+Merge: 7cb6f870 2c630ca8
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:45:49 2022 +0200
+
+    Merge pull request #56387 from rutika1823/patch-2
+    
+    Add Rutika to Contributor.md
+
+[33mcommit 2c630ca8f45c7154b8c867c35c6d6d38381fe737[m
+Author: Rutika Masane <89015502+rutika1823@users.noreply.github.com>
+Date:   Tue Oct 4 13:15:32 2022 +0530
+
+    Add Rutika to Contributor.md
+
+[33mcommit 7cb6f870fdacd8fecf9d9eb6990f686edf5f2417[m
+Merge: 86ad6a58 7eab028e
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:43:24 2022 +0200
+
+    Merge pull request #56386 from arpitmx/add-alok-ranjan
+    
+    Add Alok Ranjan to Contributors list
+
+[33mcommit 7eab028e91167d68a376c8084ccb4ee1312f67a1[m
+Author: arpitmx <arpitmaurya01codechef@gmail.com>
+Date:   Tue Oct 4 13:11:12 2022 +0530
+
+    Add Alok Ranjan to Contributors list
+
+[33mcommit 86ad6a5843554fc2b26f39318d2c5537a11ef5a7[m
+Merge: 1b134b5d 3835027b
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:41:01 2022 +0200
+
+    Merge pull request #56385 from anmspro/add-anmspro
+    
+    add anmspro
+
+[33mcommit 3835027b4c19dcc65d7b6042874ebd7e596b9bcd[m
+Author: anmspro <sakib.anms@gmail.com>
+Date:   Tue Oct 4 13:38:50 2022 +0600
+
+    add anmspro
+
+[33mcommit 1b134b5d87b0d4c7694cf940dfc86409c925e482[m
+Merge: cf7689be df8602a9
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:35:17 2022 +0200
+
+    Merge pull request #56384 from rad182/master
+    
+    Add Royce Dy to Contributors list
+
+[33mcommit df8602a9f2904c5045f3782ea0e850178228e17c[m
+Author: Royce Dy <rad182@users.noreply.github.com>
+Date:   Tue Oct 4 15:34:58 2022 +0800
+
+    Add Royce Dy to Contributors list
+
+[33mcommit cf7689befe8a4179be4b02519f5b86ac1814f346[m
+Merge: 97d1f987 e7e9b47b
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:27:15 2022 +0200
+
+    Merge pull request #56380 from axyut/flyingwheelinair
+    
+    axyut contributed!
+
+[33mcommit 97d1f987273aaa83b6b4cc759eff2223ab8e54ff[m
+Merge: b741ee5e daffe837
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:26:37 2022 +0200
+
+    Merge pull request #56379 from RamaBhala/add-rama-bhala
+    
+    Add this is you
+
+[33mcommit daffe83730ba03d8bb23981bc742672659c18850[m
+Author: Rama Bhala <ramabhala07@gmail.com>
+Date:   Tue Oct 4 12:54:42 2022 +0530
+
+    First
+
+[33mcommit b741ee5e843685718bade0ad1f649eb440c67a57[m
+Merge: a39cf52b 58160319
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:24:41 2022 +0200
+
+    Merge pull request #56378 from lmssr/patch-2
+    
+    Update Contributors.md
+
+[33mcommit 5816031950bdf9df62f9b7c747c8565b81fcf1a3[m
+Author: Luc Mosser <luc.mosser86@orange.fr>
+Date:   Tue Oct 4 09:24:20 2022 +0200
+
+    Update Contributors.md
+
+[33mcommit e7e9b47bc123c7ffbd13b61622c297cf80f3e0ea[m
+Author: Achyut <aoogleak@gmail.com>
+Date:   Tue Oct 4 13:08:45 2022 +0545
+
+    axyut contributed!
+
+[33mcommit a39cf52b5b3968bbb5963fdea13993a8ed815e44[m
+Merge: cd52b045 2f289718
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:22:44 2022 +0200
+
+    Merge pull request #56377 from keith-liew/add-keith-liew
+    
+    Add Keith Liew to Contributors list
+
+[33mcommit 2f289718df2d9ae12e03b298ec8d63f9823dfbf7[m
+Author: keith-liew <>
+Date:   Tue Oct 4 15:20:18 2022 +0800
+
+    Add Keith Liew to Contributors list
+
+[33mcommit cd52b045871b6a16cff6e56d6b4750676afc3acd[m
+Merge: 2fabce5f 8f28574a
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:12:34 2022 +0200
+
+    Merge pull request #56372 from babywashbear/add-BabyWashbear
+    
+    Add BabyWashbear to Contributors list
+
+[33mcommit 2fabce5f106415a78c70b071e18f96ae7ab7d2f7[m
+Merge: 2a472a49 5b793907
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:11:50 2022 +0200
+
+    Merge pull request #56371 from helplessThor/main
+    
+    Update Contributors
+
+[33mcommit 5b793907889297b7af82a1ce4c3b583b3f94f41a[m
+Merge: 2a472a49 7551d570
+Author: Kuntal Paul <66440538+helplessThor@users.noreply.github.com>
+Date:   Tue Oct 4 12:41:13 2022 +0530
+
+    Merge pull request #1 from helplessThor/helplessThor-patch-1
+    
+    Update Contributors.md
+
+[33mcommit 7551d5701c1a8399752c46d4aa9442390e7d248e[m
+Author: Kuntal Paul <66440538+helplessThor@users.noreply.github.com>
+Date:   Tue Oct 4 12:40:32 2022 +0530
+
+    Update Contributors.md
+
+[33mcommit 8f28574a78d2f63a1067e6e044d535f1a1d2fe28[m
+Author: Matthaeus Puehringer <matthaeus.puehringer@denuvo.com>
+Date:   Tue Oct 4 09:09:58 2022 +0200
+
+    Add BabyWashbear to Contributors list
+
+[33mcommit 2a472a492078d11177d07b25e597298a96533a69[m
+Merge: 587ec3f4 c359e2ed
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 09:02:58 2022 +0200
+
+    Merge pull request #56370 from adithziva/patch-1
+    
+    Update Contributors.md
+
+[33mcommit c359e2edd99bf4e8b76da72e9800eb73147788b5[m
+Author: Ziva <63218178+adithziva@users.noreply.github.com>
+Date:   Tue Oct 4 12:32:44 2022 +0530
+
+    Update Contributors.md
+
+[33mcommit 587ec3f4169f5bde906686f167cd73f673d386bd[m
+Merge: 1ad58c79 a2ad01bf
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 08:57:27 2022 +0200
+
+    Merge pull request #56369 from krishfredrick/main
+    
+    This Rajesh Kannan
+
+[33mcommit a2ad01bf63f6553f366f36c95a7f7dbaf1d1139a[m
+Merge: 1ad58c79 b4fe914e
+Author: Rajesh Kannan <krishfredrick11@gmail.com>
+Date:   Tue Oct 4 12:24:59 2022 +0530
+
+    Merge pull request #1 from krishfredrick/krishfredrick-patch-1
+    
+    Update Contributors.md
+
+[33mcommit b4fe914e7952b378c5319b63c375471c98e49031[m
+Author: Rajesh Kannan <krishfredrick11@gmail.com>
+Date:   Tue Oct 4 12:23:20 2022 +0530
+
+    Update Contributors.md
+    
+    #My First contribution
+
+[33mcommit c1a3dee669705f509c72a88a66d139d1a46b1be4[m
+Author: vrutti patel <vrutipatel24102002@gmail.com>
+Date:   Tue Oct 4 12:21:27 2022 +0530
+
+    first contribution
+
+[33mcommit 1ad58c794ac9d994b7c89232c4a29dbd218d5b67[m
+Merge: 2ac5473a 4f160f38
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 08:26:51 2022 +0200
+
+    Merge pull request #56365 from gamedevCloudy/cloudyContribution
+    
+    Add Aayush aka Cloudy to Contributors list
+
+[33mcommit 4f160f3801239a5edb06df18c1dfbf98826dc0f1[m
+Author: gamedevCloudy <acaayush1111@gmail.com>
+Date:   Tue Oct 4 11:55:36 2022 +0530
+
+    Add Aayush aka Cloudy to Contributors list
+
+[33mcommit 2ac5473a497fa2f240b387f82f51886722f4dc2b[m
+Merge: ce7f4a49 dcc32e14
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 08:17:55 2022 +0200
+
+    Merge pull request #56363 from vineet221713/main
+    
+    Update Contributors.md
+
+[33mcommit dcc32e14deeb02ce6b43b722dccdbda777feed62[m
+Author: Vineet Kumar Singh <100182758+vineet221713@users.noreply.github.com>
+Date:   Tue Oct 4 11:46:04 2022 +0530
+
+    Update Contributors.md
+
+[33mcommit ce7f4a495f8604ec30ccc01516619c0a6d8e2c4f[m
+Merge: bc0cdfce 6ad290bf
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 08:09:41 2022 +0200
+
+    Merge pull request #56360 from Aishwaryapaininde/aishwarya
+    
+    aishwarya
+
+[33mcommit bc0cdfceae4527f912adedf95d8e118f12857891[m
+Merge: 94db6490 3a5f84f8
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 08:03:54 2022 +0200
+
+    Merge pull request #56358 from coolwednesday/newBranch
+    
+    new changes
+
+[33mcommit 6ad290bf611beaa2648d48665d04f3b6e2d302e5[m
+Author: Aishwaryapaininde <lit2021019@iiitl.ac.in>
+Date:   Tue Oct 4 11:32:04 2022 +0530
+
+    added my name
+
+[33mcommit 3a5f84f821016a5d14554bde9d1d37601ae8913d[m
+Author: coolwednesday <98943137+coolwednesday@users.noreply.github.com>
+Date:   Tue Oct 4 11:31:58 2022 +0530
+
+    new changes
+    
+    I have added my name in the contributers list.
+
+[33mcommit 94db64902f8079badaa74d1f286ca4da7cc02a72[m
+Merge: 55468eeb fd133942
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 08:01:11 2022 +0200
+
+    Merge pull request #56357 from Shakthi-Dhar/first-contribution-shakthi
+    
+    Add K Shakthi Dhar Reddy to Contributors list
+
+[33mcommit fd1339423ec843699bbec0f3d32cee189fbebf0a[m
+Author: KShakthidharreddy <reddyshakthidhar@gmail.com>
+Date:   Tue Oct 4 11:24:49 2022 +0530
+
+    Add K Shakthi Dhar Reddy to Contributors list
+
+[33mcommit 55468eeb48d0e787e187861dc72daadebeb39d07[m
+Merge: 10d392e1 3acb1751
+Author: First Contributions Bot <65761570+firstcontributions-bot@users.noreply.github.com>
+Date:   Tue Oct 4 07:53:51 2022 +0200
+
+    Merge pull request #56355 from SkTamim/add-sk-tamim
+    
+    Add Sk Tamim to Contributors list
