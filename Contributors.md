@@ -5,6 +5,7 @@ collins kiplangat mutai(Kiplaacollo)
 
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
+
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
@@ -2077,6 +2078,7 @@ nowy wpis
 - [Amandeep Singh](https://github.com/Amandeep91)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
+- [Anupam Dwivedi](https://github.com/Anupam-2105)
 
 
 <!-- prettier-ignore-end -->
