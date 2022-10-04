@@ -2147,7 +2147,7 @@ nowy wpis
 - [Aadarsh Mani](https://github.com/aadarshmani)
 - [Praneeth](https://github.com/18praneeth)
 - [Coloursplash](https://github.com/Coloursplash)
-
+- [Kshitij Agarwal](https://github.com/omniscientHorizon)
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
