@@ -9,6 +9,7 @@ nowy wpis
 - [Vineet Singh](https://github.com/vineet221713)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Tahalu Indo](https://github.com/tahaluindo)
+-[Kinza Malik](https://github.com/Kinzamalik)
 - [Shreyam Gupta](https://github.com/shreyamG)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
 - [axyut](https://github.com/axyut)
