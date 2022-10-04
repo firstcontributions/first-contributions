@@ -2120,6 +2120,7 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- [Samir Gayatri](https://github.com/gayatri19670)
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
