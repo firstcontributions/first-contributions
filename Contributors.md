@@ -180,6 +180,7 @@ nowy wpis
 - [Kishan Kumar](https://github.com/kishan0921)
 - [SySagar](https://github.com/SySagar)
 - [Harsh Kumar Singh](https://github.com/harshsingh510)
+- [Hiya Shivnani](https://github.com/69poisonivy69)
 - [Saksham Paliwal](https://github.com/sakshampaliwal)
 - [Sebastian Probst](https://github.com/Gqudi)
 - [Abhay Sharma] (https://github.com/Abhay2712)
