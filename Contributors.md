@@ -7,6 +7,7 @@ collins kiplangat mutai(Kiplaacollo)
 nowy wpis
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
+- [Mihir Panchal](https://github.com/MihirRajeshPanchal)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Tahalu Indo](https://github.com/tahaluindo)
 -[Kinza Malik](https://github.com/Kinzamalik)
@@ -23,6 +24,7 @@ nowy wpis
 - [Prabhat Edupuganti](https://github.com/prabhate)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
+- [Sudipto Das](https://github.com/Sudip200)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
@@ -838,6 +840,7 @@ nowy wpis
 - [Muhammad Iqbal](https://github.com/muhammadikbal512)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
 - [Sachin Chawla](https://github.com/saxin-chawla)
+- [Maria Mills] (https://github.com/mariamills)
 - [Micah Gant](https://github.com/micah-gant/first-contributions)
 - [NorwegianIcecube](https://github.com/NorwegianIcecube/first-contributions)
 - [Mizraim](https://github.com/mizraimn/first-contributions)
@@ -2108,7 +2111,7 @@ nowy wpis
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
-- 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Evandro Damaso](https://github.com/dam450)
+- [Md Rizwan](https://leetcode.com/rizwan073)
 <!-- prettier-ignore-end -->
