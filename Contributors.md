@@ -1988,6 +1988,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Oleksii Solomakha](https://github.com/KamaZz)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Lauren Gayle](https://github.com/LaurenGayle)
-
+- [Walter Paes](https://github.com/WalterPaes)
 
 <!-- prettier-ignore-end -->
