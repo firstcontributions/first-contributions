@@ -2191,6 +2191,7 @@ nowy wpis
 - [Noor Islam](https://github.com/Noor44555)
 - [Amandeep Singh](https://github.com/Amandeep91)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
+- [c1sc0](https://github.com/c1sc0)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
 - [Drian key](https://github.com/Drian-key)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
