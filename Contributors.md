@@ -2174,6 +2174,7 @@ nowy wpis
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Jaskeerat Chhabra](https://github.com/jaskeeratchhabra)
 - [Coloursplash](https://github.com/Coloursplash)
+- [Manish Prajapati](https://github.com/pman47)
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
