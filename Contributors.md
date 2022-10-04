@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
- - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
+- [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
