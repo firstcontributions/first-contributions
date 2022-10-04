@@ -209,6 +209,8 @@ nowy wpis
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
+- [Rohini Patil](https://github.com/rohinipatil89)
+
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Sriram M](https://github.com/msris108)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
