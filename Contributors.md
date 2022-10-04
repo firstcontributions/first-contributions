@@ -12,7 +12,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
-- [Sanjay RB](https://github.com/sanjay-rb)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
 - [Elia Zonta](https://github.com/eliazonta)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
@@ -2029,6 +2028,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Phong Pham](https://github.com/phongpv)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Ishabh Thakur](https://github.com/ishabhthakur)
+- [Siddharth Jain](https://github.com/siddharth3108)
 
 
 <!-- prettier-ignore-end -->
