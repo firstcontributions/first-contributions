@@ -2163,11 +2163,8 @@ nowy wpis
 - [Bhavy Khatter](https://github.com/bhavy007)
 - [John Nelson](https://github.com/John0x11)
 - [Oleksii Solomakha](https://github.com/KamaZz)
-- [Ina Bromuos](https://github.com/ibrouos)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
-- [Iman Fauzi](https://github.com/imanfauzi29)
 - [Lauren Gayle](https://github.com/LaurenGayle)
-- [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Selma](https://selma.dance)
 - [Jia Jing](https://github.com/jiajing1993)
@@ -2234,5 +2231,6 @@ nowy wpis
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Manu Pandey [ (https://github.com/ManuFake)
-- 
+- [Aman Pandagre](https://github.com/AmanPandagre21)
+
 <!-- prettier-ignore-end -->
