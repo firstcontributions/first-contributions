@@ -116,6 +116,7 @@ nowy wpis
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
 - [AntVena](https://github.com/AntVena)
 - [Sofiyan Syed](https://github.com/IamSofiyan)
+- [Abhishek Kumar](https://github.com/abhishek-kumaraj)
 - [Sakshi](https://github.com/sakshigupta001)
 - [Lian](https://github.com/liulian1004)
   vivek
