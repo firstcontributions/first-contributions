@@ -284,7 +284,6 @@ nowy wpis
 - [Ayomide Victor](https://github.com/midevictor/)
 - [Benny Riot](http://github.com/bennyriot)
 - [Midhun J Manoj](http://github.com/midhunjmanoj)
-- [Whisnu Y Saputra](https://github.com/whisnuys) 
 - [Madhusankha](https://github.com/Madhusankha)
 - [Kishan Kumar](https://github.com/Kishan015)
 - [Krishn Kant](https://github.com/krishna2332002/)
@@ -1198,7 +1197,6 @@ nowy wpis
 - [Jonathan Barzola](https://github.com/jonathanbarzola)
 - [Baroon Jha](https://github.com/baroonjha)
 - [Sulabh Shrestha] (https://github.com/SulabhShrestha)
-- [David Sabalete] (https://github.com/dsabalete)
 - [Sam Brands](https://github.com/MoosMas)
 - [Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anupam Bista](https://github.com/theanupambista)
@@ -2070,6 +2068,7 @@ nowy wpis
 -[Rahul Rs](https://github.com/RsRsRahul)
 - [Noor Islam](https://github.com/Noor44555)
 - [Amandeep Singh](https://github.com/Amandeep91)
+- [shrever](https://github.com/shreverr)
 
 
 <!-- prettier-ignore-end -->
