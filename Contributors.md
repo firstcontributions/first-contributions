@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Priyanshu Kumar](https://github.com/ripperkumar)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
