@@ -678,6 +678,7 @@ nowy wpis
 - [AJ Renfro](https://github.com/arenfro)
 - [Adelinked](https://github.com/Adelinked)
 - [Chandan Jindal](https://github.com/chandan-jindal)
+- [nxjosephofficial](https://github.com/nxjosephofficial)
 - [Santino Santillán](https://github.com/SantiM5)
 - [Lina Zuluaga](https://github.com/linazoo)
 - [Pranav Dhawan](https://github.com/pranavdhawan)
