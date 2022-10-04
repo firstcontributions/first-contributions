@@ -195,6 +195,8 @@ nowy wpis
 - [Vishesh Phutela](https://github.com/Vishesh-30)
 - [Siddhant Gangwar](https://github.com/SiddhantGangwar)
 - [Deepanshu](https://github.com/Deepanshu0509)
+- [Luka] (https://github.com/bluka1)
+- [Jon](https://github.com/jonmoon74)
 - [Luka](https://github.com/bluka1)
 - [Raul](https://github.com/raul-404)
 - [Madhav Milan](https://github.com/m2-madhav)
