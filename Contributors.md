@@ -2089,6 +2089,6 @@ nowy wpis
 - [Devesh Swarnkar](https://github.com/devesh-0419)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
-
+- [Ritesh Kumar](https://github.com/Riteshvs)
 
 <!-- prettier-ignore-end -->
