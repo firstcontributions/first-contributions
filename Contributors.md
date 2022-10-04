@@ -2059,6 +2059,6 @@ collins kiplangat mutai(Kiplaacollo)
 -[Rutika Masane](https://github.com/rutika1823)
 -[Funikz](https://github.com/Funikz)
 -[Rahul Rs](https://github.com/RsRsRahul)
-
+- [Troy Vallarta](https://github.com/Zofserif)
 
 <!-- prettier-ignore-end -->
