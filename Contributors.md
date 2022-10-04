@@ -1447,6 +1447,7 @@ nowy wpis
 - [Reuben Philip](https://github.com/rphilip2)
 - [Gagan Baheti](https://ganbaheti.github.io)
 - [Esther Nwachukwu](https://github.com/estherbabe)
+- [Aishat Muhammed](https://github.com/Aysha-py)
 - [Aryan Bramhane](https://github.com/neutr0n420)
 - [Gaurav](https://github.com/Gaurav-1306)
 - [Hafid-hub](https://github.com/hafid-hub)
