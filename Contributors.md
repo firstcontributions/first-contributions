@@ -338,6 +338,7 @@ nowy wpis
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [hekaton80](https://github.com/hekaton80)
+- [rokiszb](https://github.com/rokiszb)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Chibogu Chisom](https://github.com/raeeceip)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
