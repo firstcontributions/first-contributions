@@ -2205,5 +2205,6 @@ nowy wpis
 - [victhupy] (https://github.com/victhupy) 
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
+- [Sergio Prieto](https://github.com/alejolale)
 
 <!-- prettier-ignore-end -->
