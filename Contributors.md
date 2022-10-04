@@ -98,6 +98,7 @@ nowy wpis
 - [Evander Siregar](https://github.com/egocider)
 - [HaJinYong](https://github.com/jsh0512)
 - [Harjaspreet Singh](https://github.com/harjasDot)
+- [Chinmay Kotkar](https://github.com/Chinmay-03)
 - [Hirday Gupta](hirdaygupta1119/first-contributions)
 - [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Sarah Miller](https://github.com/smiller1188)
