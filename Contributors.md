@@ -43,6 +43,7 @@ nowy wpis
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
+- [Osman Batur Çelik](https://github.com/osmnbtrclk)
 - [Surbhi Mayank](https://github.com/surbhi2408)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
