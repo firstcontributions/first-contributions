@@ -10,7 +10,7 @@ nowy wpis
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Archit Handa](https://github.com/Archit-Handa)
--[Kinza Malik](https://github.com/Kinzamalik)
+- [Kinza Malik](https://github.com/Kinzamalik)
 - [Shreyam Gupta](https://github.com/shreyamG)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
 - [axyut](https://github.com/axyut)
