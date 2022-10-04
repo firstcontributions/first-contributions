@@ -1990,6 +1990,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Oleksii Solomakha](https://github.com/KamaZz)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Lauren Gayle](https://github.com/LaurenGayle)
+- [Renan Ferro](https://github.com/ferrorenan)
 
 
 <!-- prettier-ignore-end -->
