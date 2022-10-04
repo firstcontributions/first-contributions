@@ -2043,6 +2043,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ishabh Thakur](https://github.com/ishabhthakur)
 - [Kuntal Paul](https://github.com/helplessThor)
 - [Luc Mosser](https://github.com/lmssr)
+- [Royce Dy](https://github.com/rad182)
 
 
 <!-- prettier-ignore-end -->
