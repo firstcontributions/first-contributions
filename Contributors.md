@@ -171,6 +171,7 @@ nowy wpis
 - [Sakshi](https://github.com/sakshigupta001)
 - [Lian](https://github.com/liulian1004)
   vivek
+- Julien
 - [Ashish Tiwari](https://github.com/Ashish-100-tiwari)
 - [El Arif Amine](https://github.com/AmineArif1)
 - [forno] (https://github.com/fornclakess)
