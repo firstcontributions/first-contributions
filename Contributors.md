@@ -2157,5 +2157,5 @@ nowy wpis
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Praveen Chandra](https://github.com/praveenchandra01)
-
+- [Shubham Kumar](https://github.com/Noobham)
 <!-- prettier-ignore-end -->
