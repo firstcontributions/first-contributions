@@ -2162,6 +2162,7 @@ nowy wpis
 - [Albin T T](https://github.com/axtr897)
 - [Kiran Thilak](https://github.com/kiran-thilak)
 - [Samir Gayatri](https://github.com/gayatri19670)
+- [Shaksham Singhal](https://github.com/Shaksham-singhal).
 - [Aadarsh Mani](https://github.com/aadarshmani)
 - [jackkweyunga](https://github.com/jackkweyunga)
 - [Praneeth](https://github.com/18praneeth)
