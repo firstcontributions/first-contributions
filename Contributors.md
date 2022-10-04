@@ -1552,6 +1552,7 @@ nowy wpis
 - [Clark D. Hou](https://github.com/cdh31211811)
 - [Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady)
 - [Anna Welpa](https://github.com/ann-well)
+- [Paul Abercrombie](https://github.com/Markaeus)
 - [Hime Arikawa](https://github.com/HimeArikawa)
 - [Samuel Veronese](https://github.com/samuelveronese)
 - [Jaiden Crawford](https://github.com/Crawfish-h)
