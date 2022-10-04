@@ -2165,5 +2165,6 @@ nowy wpis
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
-- 
+- [victhupy] (https://github.com/victhupy) 
+-
 <!-- prettier-ignore-end -->
