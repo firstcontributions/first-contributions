@@ -459,6 +459,7 @@ nowy wpis
 - [Manas Baroi](https://github.com/manas6699)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Shanon Baker ](https://github.com/ShanonBaker)
+- [Ezinne Anne Emilia](https://github.com/ezinneanne)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 - [Jonathan Zopf](https://github.com/JonathanZopf)
 - [Kamya](https://github.com/Kamya90)
