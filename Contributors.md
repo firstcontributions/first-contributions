@@ -2167,6 +2167,7 @@ nowy wpis
 - [Sanket Kale](https://github.com/sanketkale99)
 - [jackkweyunga](https://github.com/jackkweyunga)
 - [Praneeth](https://github.com/18praneeth)
+- [Pranav K S](https://github.com/pie111)
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Jaskeerat Chhabra](https://github.com/jaskeeratchhabra)
 - [Coloursplash](https://github.com/Coloursplash)
