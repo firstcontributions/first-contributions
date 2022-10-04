@@ -974,6 +974,7 @@ nowy wpis
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
 - [Laszlo Huszar](https://github.com/LaszloHuszar)
+- [marccodess](https://github.com/marccodess)
 - [Emma Mastro](https://github.com/emmamastro)
 - [Dhruv Gandhi](https://github.com/DhruvGandhi31)
 - [Nagasha Jemimah Nyakato](https://github.com/Jem256)
