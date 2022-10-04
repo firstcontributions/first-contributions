@@ -56,6 +56,7 @@ nowy wpis
 - [Jared Orler] (https://github.com/jaredorler)
 - [Anurag Rawat] (https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
+- [segoSambel] (https://github.com/segoSambel)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Thanmai Sai](https://github.com/thanmaisai)
