@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Vicky](https://github.com/HungryVicky)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
@@ -1756,7 +1757,6 @@ nowy wpis
 - [Denys Sharpylo](https://github.com/sharpyld)
 - [Saar Koren](https://github.com/s11s11)
 - [Sabrina](https://github.com/eggsmayhem)
-- [Arun Karthick N M](https://github.com/arunkarthicknm)
 - [Xevziler](https://github.com/Xevziler)
 - [Jaden Hong](https://github.com/thisjdn)
 - [Kerplunkx](https://github.com/Kerplunkx)
