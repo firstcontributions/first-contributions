@@ -434,6 +434,7 @@ nowy wpis
 - [helloITdepartment](https://github.com/helloITdepartment)
 - [Jacob Hodge] Jacob 2 Electric boogaloo
 - [Harsh Jain](https://github.com/Sriver27)
+- [ArjunThakor](https://github.com/ARJUN-SINH-THAKOR)
 - [v-apor](https://github.com/v-apor)
 - [Zenx_Altaf](https://github.com/zenx-altaf)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
