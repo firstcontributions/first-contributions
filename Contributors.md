@@ -92,6 +92,7 @@ collins kiplangat mutai(Kiplaacollo)
   vivek
 - [Ashish Tiwari](https://github.com/Ashish-100-tiwari)
 - [El Arif Amine](https://github.com/AmineArif1)
+- [forno] (https://github.com/fornclakess)
 - [Swastik Gorai](https://github.com/SwastikGorai)
 - [Rudrajeet Chaudhuri](https://github.com/RudeDaCode)
 - [Krishna Kumar](https://github.com/Mr-krishn)
