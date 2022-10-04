@@ -2145,6 +2145,7 @@ nowy wpis
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
 - [Karolina Kossakowska](https://github.com/KossakowskaKarolina)
 - [Sayam Agarwal](https://github.com/Sayam241020)
+- [Manan Sharma](https://github.com/manan126)
 - [Adithya P Mallya](https://github.com/adithyapmallya))
 - [Adalton Junio](https://github.com/AdaltonLeite)
 - [Bhavy Khatter](https://github.com/bhavy007)
