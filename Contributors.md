@@ -2240,5 +2240,6 @@ nowy wpis
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Manu Pandey [ (https://github.com/ManuFake)
 - [Dylan Grijalva [ (https://github.com/dylangrijalva)
+- [Geovani Amaral](https://github.com/iamageo)
 - 
 <!-- prettier-ignore-end -->
