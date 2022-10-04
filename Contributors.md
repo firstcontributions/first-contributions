@@ -2138,6 +2138,7 @@ nowy wpis
 - [Kiran Thilak](https://github.com/kiran-thilak)
 - [Samir Gayatri](https://github.com/gayatri19670)
 - [Aadarsh Mani](https://github.com/aadarshmani)
+- [Praneeth](https://github.com/18praneeth)
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
