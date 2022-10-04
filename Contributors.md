@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Krishiv Pandita](https://github.com/krishiv8190)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
