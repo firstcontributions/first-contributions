@@ -1278,7 +1278,6 @@ nowy wpis
 - [Berlun Devera](https://github.com/b-devera)
 - [Sahas Thyarala](https://github.com/Sthyarala)
 - [Chow Mei Kei](https://github.com/meikei-99)
-- [Strzegol](https://github.com/Strzegol)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Javier Espinosa](https://github.com/EspJav)
 - [Lucas Loureiro](https://github.com/L0ureiro)
@@ -2093,5 +2092,6 @@ nowy wpis
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
 - [Deepank Pushpad](https://github.com/DeepankRx)
+- [Martin Davila](https://github.com/iMartinDav) 💚
 
 <!-- prettier-ignore-end -->
