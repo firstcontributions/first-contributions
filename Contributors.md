@@ -14,6 +14,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Harsh Pathak](https://github.com/harshpathakzz)
+- [Ayaan B Bordoloi](https://github.com/Ayaan49)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
 - [Praveen Chandra](https://github.com/praveenchandra01)
