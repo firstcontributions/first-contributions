@@ -22,6 +22,7 @@ nowy wpis
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
 - [larry Xue](https://github.com/larry-xue)
+- [Abhishek Anuj](https://github.com/abhishekanuj26)
 - [Kapil Kunwar](https://github.com/undef125)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
