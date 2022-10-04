@@ -2064,6 +2064,7 @@ collins kiplangat mutai(Kiplaacollo)
 -[Funikz](https://github.com/Funikz)
 -[Rahul Rs](https://github.com/RsRsRahul)
 - [Noor Islam](https://github.com/Noor44555)
+- [Amandeep Singh](https://github.com/Amandeep91)
 
 
 <!-- prettier-ignore-end -->
