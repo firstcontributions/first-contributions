@@ -2175,5 +2175,5 @@ nowy wpis
 - [Shubham Kumar](https://github.com/Noobham)
 - [victhupy] (https://github.com/victhupy) 
 - [Mohit Prasad] https://github.com/ProgrammerMohit/Website
--
+- [Max] (https://github.com/datadrivenmax) 
 <!-- prettier-ignore-end -->
