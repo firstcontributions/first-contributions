@@ -2164,6 +2164,7 @@ nowy wpis
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
+- [Selma](https://selma.dance)
 - [Jia Jing](https://github.com/jiajing1993)
 - [Erick Sarabia](https://github.com/ericksarabia)
 - [Rochi Eko Pambudi](https://github.com/rochiekop)
