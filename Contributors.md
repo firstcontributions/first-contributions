@@ -77,6 +77,7 @@ nowy wpis
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
 - [embTw] (https://github.com/embTw)
 - [Baby Washbear] (https://github.com/babywashbear)
+- [Isaac Emerson](https://github.com/Aeronio)
 - [Koty Stannard](https://github.com/k-stannard)
 - [Ellen Costa-Almeida](https://github.com/e-costalmeida)
 - [Caio Pereira Rodrigues](https://github.com/caioprodrigues)
