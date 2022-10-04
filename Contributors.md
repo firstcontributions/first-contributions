@@ -2112,5 +2112,6 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+
+- [Divyanshu Shukla](https://github.com/Divyanshu6566)
 <!-- prettier-ignore-end -->
