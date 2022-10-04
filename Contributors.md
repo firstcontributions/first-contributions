@@ -71,6 +71,7 @@
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [hekaton80](https://github.com/hekaton80)
+- [Divya Darshana](https://github.com/coolwednesday)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
