@@ -2096,6 +2096,7 @@ nowy wpis
 - [Upender Singh Lakhwan](https://github.com/LaKhWaN)
 - [Manmeet kaur](https://github.com/Manmeetkaur1525)
 - [Harshit Gupta](https://github.com/its-harshitg)
+- [Jayaditya.G](https://github.com/Jayaditya-Contributor)
 - [jai prakash shah](https://github.com/jai7359)
 - [Rahul Gupta](https://github.com/Flicker-eth)
 - [Shahrukh Alam](https://github.com/sakiakamonster)
