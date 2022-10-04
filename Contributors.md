@@ -13,6 +13,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
+- [Tushar Gupta](https://github.com/Tushar-2003)
 nowy wpis
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
