@@ -116,7 +116,6 @@ nowy wpis
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
 - [AntVena](https://github.com/AntVena)
 - [Sofiyan Syed](https://github.com/IamSofiyan)
-- [Abhishek Kumar](https://github.com/abhishek-kumaraj)
 - [Sakshi](https://github.com/sakshigupta001)
 - [Lian](https://github.com/liulian1004)
   vivek
@@ -2078,6 +2077,6 @@ nowy wpis
 - [Amandeep Singh](https://github.com/Amandeep91)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
-
+-[Hanuvesh Singh](https://github.com/Hanuvesh)
 
 <!-- prettier-ignore-end -->
