@@ -2085,6 +2085,7 @@ nowy wpis
 - [ndthanhdev](https://github.com/ndthanhdev)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
 - [Dhruv Bansal](https://github.com/dhruvbansal18)
+- [Kaushan Dutta](https://github.com/Kaushan-Dutta)
 - [Sachin Vardhan](https://github.com/SachinVardhan06)
 - [Pranavv Raja](https://github.com/pranavvraja)
 - [Endraswara Wiryawan](https://github.com/endrasww)
