@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Astha Mishra](https://github.com/asthami)
 - [Vineet Singh](https://github.com/vineet221713)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
