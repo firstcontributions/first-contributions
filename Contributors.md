@@ -153,6 +153,7 @@
 - [Sagar Sethi](https://github.com/sethisagar)
 - [Sebastian Richter](https://github.com/gismo1337)
 - [Pancho AM](https://github.com/Mauratay)
+- [Ashish Lal](https://github.com/ashishlal2003)
 - [Aatmik Sanghvi](https://github.com/Aatmik-Coder)
 - [Felipe Batista 🧑‍💻](https://github.com/BatistaFelipe)
 - [José Luis Jiménez Serrano](https://github.com/JochyDev)
