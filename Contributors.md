@@ -9,7 +9,6 @@ nowy wpis
 - [Vineet Singh](https://github.com/vineet221713)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Tahalu Indo](https://github.com/tahaluindo)
--[Kinza Malik](https://github.com/Kinzamalik)
 - [Shreyam Gupta](https://github.com/shreyamG)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
 - [axyut](https://github.com/axyut)
@@ -2089,6 +2088,6 @@ nowy wpis
 - [Devesh Swarnkar](https://github.com/devesh-0419)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
-
+- [Mohit Parmar](https://github.com/mohitparmar1)
 
 <!-- prettier-ignore-end -->
