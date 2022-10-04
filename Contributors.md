@@ -2130,6 +2130,7 @@ nowy wpis
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Kiran Thilak](https://github.com/kiran-thilak)
 - [Samir Gayatri](https://github.com/gayatri19670)
+- [Aadarsh Mani](https://github.com/aadarshmani)
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
