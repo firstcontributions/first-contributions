@@ -77,6 +77,7 @@ nowy wpis
 - [segoSambel] (https://github.com/segoSambel)
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
+- [Gaurav Verma](https://github.com/iisgaurav)
 - [Thanmai Sai](https://github.com/thanmaisai)
 - [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
 - [Yash Chowdhury](https://github.com/xinkin)
