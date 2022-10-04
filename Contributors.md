@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Rellot's Screwdriver](https://github.com/rellotscrewdriver)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 nowy wpis
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
