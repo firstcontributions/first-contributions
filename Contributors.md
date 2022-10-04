@@ -13,6 +13,7 @@ nowy wpis
 - [axyut](https://github.com/axyut)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [larry Xue](https://github.com/larry-xue)
+- [Harsh Gupta](https://github.com/harshhes)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
