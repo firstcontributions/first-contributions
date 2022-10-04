@@ -216,6 +216,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sushant Gangwar](https://github.com/sushantgwr87)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
 - [Benjamin Duffield-Harding](https://github.com/ben-dh3)
+- [K Shakthi Dhar Reddy](https://github.com/Shakthi-Dhar)
 - [Om Prakash](https://github.com/itsokop)
 - [Swaraj Deshmane](https://github.com/Swarax007)
 - [Imritanshul Sayalwar]
