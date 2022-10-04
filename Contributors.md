@@ -67,6 +67,7 @@ nowy wpis
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Jonas Wouters](https://github.com/JonasWouters113)
 - [Agrima Gupta](https://github.com/sassy-bugs)
+- [Swapnil Sakpal](https://github.com/Swapnil0803)
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
 - [Sahil Kamate](https://github.com/sahilkamate03)
