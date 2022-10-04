@@ -2210,5 +2210,5 @@ nowy wpis
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Manu Pandey [ (https://github.com/ManuFake)
-- [Vallabh Chugh] (https://github.com/vallabhiaf)
+- [Vallabh Chugh](https://github.com/vallabhiaf)
 <!-- prettier-ignore-end -->
