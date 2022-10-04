@@ -1,6 +1,5 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 - [Vicky](https://github.com/HungryVicky)
 - [Abhishek Pandey](https://github.com/bird-03)
@@ -66,7 +65,6 @@ nowy wpis
 - [Hamza Nawab](https://github.com/blazenn2)
 - [kostas Vitiniotis](https://github.com/kostisvit)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
-- [Kratospidey](https://github.com/Kratospidey)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
@@ -2211,5 +2209,4 @@ nowy wpis
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Manu Pandey [ (https://github.com/ManuFake)
-- 
-<!-- prettier-ignore-end -->
+- [Kratospidey](https://github.com/Kratospidey)
