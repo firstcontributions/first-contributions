@@ -61,6 +61,7 @@ nowy wpis
 - [JerryCodesAfrica] (https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Thanmai Sai](https://github.com/thanmaisai)
+- [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
 - [Yash Chowdhury](https://github.com/xinkin)
 - [Pushkar Ambastha](https://github.com/Pushkar1853)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
