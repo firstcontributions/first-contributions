@@ -1995,6 +1995,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Renan Ferro](https://github.com/ferrorenan)
+- [Erick Sarabia](https://github.com/ericksarabia)
 
 
 <!-- prettier-ignore-end -->
