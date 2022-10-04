@@ -2094,5 +2094,5 @@ nowy wpis
 - [Tran Minh Thang](https://github.com/mccor2000)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
-- 
+- [Kallyne Layane](https://github.com/hellokallyne)
 <!-- prettier-ignore-end -->
