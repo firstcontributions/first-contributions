@@ -37,6 +37,7 @@ nowy wpis
 - [Hari Krishna](https://github.com/SHIVANATHRIHARIKRISHNA)
 - [axyut](https://github.com/axyut)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
+- [Antonio García](https://github.com/fou-foo)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
 - [Aryan Inani](https://github.com/Adeptus123)
