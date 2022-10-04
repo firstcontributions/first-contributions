@@ -25,6 +25,7 @@ nowy wpis
 - [Kapil Kunwar](https://github.com/undef125)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
+- [Ayushi kumari](https://github.com/18Ayushi)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
