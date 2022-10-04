@@ -1424,6 +1424,7 @@ nowy wpis
 - [Parimala S](https://github.com/ParimalaS27)
 - [Dubem Obinwanne](https://github.com/DubemObi)
 - [Olayemi Michael](https://github.com/michaelin007)
+- [Javeria Jameel](https://github.com/Jiaveria)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
 - [Lior Altshul](https://github.com/lioralt98)
 - [Alia Quintero](https://github.com/aliaquintero)
