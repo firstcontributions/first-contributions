@@ -380,6 +380,7 @@ nowy wpis
 - [Morii Shikaa](https://github.com/moriishika)
 - [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
+- [Matt Pahuta](https://github.com/mattpahuta)
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
 - [Muhammad Soban](https://github.com/Sobaaaan)
