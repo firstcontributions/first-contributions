@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
 
+- [Subhash Sheoran](https://github.com/isheoran)
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
 - [Winay Gupta](https://github.com/WinayGupta777)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
@@ -2157,4 +2158,5 @@ nowy wpis
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
+- [Shubham Kumar](https://github.com/Noobham)
 <!-- prettier-ignore-end -->
