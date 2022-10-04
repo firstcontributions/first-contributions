@@ -2080,6 +2080,7 @@ nowy wpis
 - [Amandeep Singh](https://github.com/Amandeep91)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
+- [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 
 
 <!-- prettier-ignore-end -->
