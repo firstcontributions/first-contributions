@@ -2102,6 +2102,7 @@ nowy wpis
 - [muhaidil13](https://github.com/muhaidil13)
 - [Utkarsh Agarwal](https://github.com/Utkarsh-Agarwal-585)
 - [Fikri Khairul Shaleh](https://github.com/fikriks)
+- [Denis Oliveira](https://github.com/denisolvr)
 - [Vladimir Sotskov](https://github.com/VSngg)
 - [Warawut Thasungnoen](https://github.com/beer-idev)
 - [Rohit Das](https://github.com/Rohit2001Das)
