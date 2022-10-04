@@ -2159,6 +2159,7 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- [Pyoush Madan](https://github.com/pyoushmadan10)
 - [Albin T T](https://github.com/axtr897)
 - [Kiran Thilak](https://github.com/kiran-thilak)
 - [Samir Gayatri](https://github.com/gayatri19670)
@@ -2172,6 +2173,9 @@ nowy wpis
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Jaskeerat Chhabra](https://github.com/jaskeeratchhabra)
 - [Coloursplash](https://github.com/Coloursplash)
+- [Md Rizwan](https://leetcode.com/rizwan073)
+- [Dr. Asshat](https://github.com/drasshat)
+- [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Kshitij Agarwal](https://github.com/omniscientHorizon)
 - [Ookamini95](https://github.com/Ookamini95)
 - [Md Rizwan](https://leetcode.com/rizwan073)
@@ -2179,7 +2183,7 @@ nowy wpis
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
 - [victhupy] (https://github.com/victhupy) 
-- [Mohit Prasad] https://github.com/ProgrammerMohit/Website
--
+- [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
+- [Anil Kumar Sahoo](https://github.com/settings/profile)
+
 <!-- prettier-ignore-end -->
--[Anil Kumar Sahoo](https://github.com/settings/profile)
