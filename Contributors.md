@@ -2141,6 +2141,7 @@ nowy wpis
 - [Samir Gayatri](https://github.com/gayatri19670)
 - [Aadarsh Mani](https://github.com/aadarshmani)
 - [Praneeth](https://github.com/18praneeth)
+- [Coloursplash](https://github.com/Coloursplash)
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
