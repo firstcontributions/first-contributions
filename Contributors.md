@@ -1944,6 +1944,7 @@ nowy wpis
 - [Arunesh Singh](https://github.com/arunesh-singh)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
 - [Soham Pathak](https://github.com/sohampathak1234)
+- [Aman Yadav](https://github.com/Aman6678)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
 - [Dharanash S](https://github.com/Dharanash)
