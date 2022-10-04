@@ -4,6 +4,7 @@
 collins kiplangat mutai(Kiplaacollo)
 
 - [Anurag Dutt](https://github.com/duttanurag)
+- [Amar Molinas](https://github.com/aemolinas)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
 - [Elia Zonta](https://github.com/eliazonta)
