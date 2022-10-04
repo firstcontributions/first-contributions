@@ -2143,6 +2143,7 @@ nowy wpis
 - [Karan Sharma](https://github.com/karanS08)
 - [Alejandro Garcia](https://github.com/OwboxAl3x)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
+- [Karolina Kossakowska](https://github.com/KossakowskaKarolina)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Adalton Junio](https://github.com/AdaltonLeite)
 - [Bhavy Khatter](https://github.com/bhavy007)
