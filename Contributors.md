@@ -2046,6 +2046,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Kuntal Paul](https://github.com/helplessThor)
 - [Luc Mosser](https://github.com/lmssr)
 - [Royce Dy](https://github.com/rad182)
+-[Rutika Masane](https://github.com/rutika1823)
 
 
 <!-- prettier-ignore-end -->
