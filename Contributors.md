@@ -1222,6 +1222,7 @@ nowy wpis
 - [Anupam Bista](https://github.com/theanupambista)
 - [Anurag Yadav](https://github.com/Anurag41682)
 - [Dolapo Ogunfowora](https://github.com/oedjoat)
+- [Hussain Calcuttawala](https://github.com/hussainbadri21)
 - [Ryan Tin](https://github.com/rtin1234)
 - [Shubham Randive](https://github.com/ShubhamRandive1)
 - [Paneddo](https://github.com/Paneddo)
