@@ -106,6 +106,7 @@ nowy wpis
 - [Abdul Rehman](https://github.com/abdulrehmandev)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
 - [Gunjit_Valechha](https://github.com/Gunjit-V)
+- [Hirusha CHamod](https://github.com/hiradev)
 - [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 - [Navneet Gupta](https://github.com/Nav21000)
 - [Krishan Murari](https://github.com/krishan-here)
