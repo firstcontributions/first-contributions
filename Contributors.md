@@ -2110,5 +2110,5 @@ nowy wpis
 - [Kris Mandanka](https://github.com/krismandanka)
 - 
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
-- 
+- [Evandro Damaso](https://github.com/dam450)
 <!-- prettier-ignore-end -->
