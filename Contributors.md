@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
 - [Subhash Sheoran](https://github.com/isheoran)
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
