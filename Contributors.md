@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-collins kiplangat mutai(Kiplaacollo)
+- [Robson Grangeiro](https://github.com/rgrangeiro)
+- [collins]kiplangat mutai(Kiplaacollo)
 - [Vicky](https://github.com/HungryVicky)
 - [JpArango](https://github.com/Jpkeys29)
 - [Abhishek Pandey](https://github.com/bird-03)
@@ -14,7 +15,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Tushar Gupta](https://github.com/Tushar-2003)
-nowy wpis
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
 - [Hima Varshitha](https://github.com/hima-varshi)
