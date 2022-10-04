@@ -5,7 +5,6 @@ collins kiplangat mutai(Kiplaacollo)
 
 - [Vineet Singh](https://github.com/vineet221713)
 - [Tahalu Indo](https://github.com/tahaluindo)
-- [axyut](https://github.com/axyut)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [larry Xue](https://github.com/larry-xue)
 - [Anurag Dutt](https://github.com/duttanurag)
@@ -13,7 +12,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
-- [Rama Bhala](https://github.com/RamaBhala)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
 - [Sk Tamim](https://github.com/SkTamim)
 - [Sanjay RB](https://github.com/sanjay-rb)
@@ -2043,6 +2041,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ishabh Thakur](https://github.com/ishabhthakur)
 - [Kuntal Paul](https://github.com/helplessThor)
 - [Luc Mosser](https://github.com/lmssr)
+- [Akshay Kumar](https://github.com/akshaykumar23399)
 
 
 <!-- prettier-ignore-end -->
