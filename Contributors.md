@@ -2093,5 +2093,6 @@ nowy wpis
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
 - [Deepank Pushpad](https://github.com/DeepankRx)
-
+- [Julie Heard](https://github.com/julieheard)
+- 
 <!-- prettier-ignore-end -->
