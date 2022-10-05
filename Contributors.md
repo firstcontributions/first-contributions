@@ -31,6 +31,7 @@
 - [law01f] (httos://github.com/law01f)
 - [Nyanab](https://github.com/Nyanab)
 - [Dhruv] (https://github.com/lumi232)
+- [Chris] (https://github.com/chickenCHRISpy)
 - [Alonso Tigerheart] (https://github.com/ezez1237)
 - [Bharti Patel](https://github.com/Indiana-S-coder)
 - [DataDaimon] (https://github.com/DataDaimon)
