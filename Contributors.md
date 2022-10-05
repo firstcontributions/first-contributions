@@ -132,6 +132,7 @@
 - [Milind Shukla](https://github.com/MILINDSHUKLA)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
+- [Harshwardhan Singh] (https://github.com:harsh-ws)
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [George Ruellan](https://github.com/gruellan)
