@@ -105,6 +105,7 @@ nowy wpis
 - [Azhar Sayyad](https://github.com/Azhar221)
 - [George Tzinetas](https://github.com/kriminals)
 - [Abhishek Aute](https://github.com/Abhi2820)
+- [Pushkar Roy](https://github.com/roy2pushkar)
 - [Md Danish Jamal](https://github.com/imdj6)
 - [Deepak Krishnaa Govindarajan](https://github.com/deepakkrish212)
 - [GANESH TEKALE](https://github.com/ganeshtekale7400)
