@@ -2278,5 +2278,6 @@ nowy wpis
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
 - [Khánh Pluto](https://github.com/khanh41)
+- [Pratya Than](https://github.com/l0ginp)
 
 <!-- prettier-ignore-end -->
