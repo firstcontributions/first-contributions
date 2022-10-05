@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Prashant Padhy](https://github.com/prashantpadhy)
+- [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
