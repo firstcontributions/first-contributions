@@ -22,7 +22,6 @@
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
 - [Faiyaaz Haque] (https://github.com/FaiyaazHawk)
 - [Winay Gupta](https://github.com/WinayGupta777)
-- [Supratik Dutta](https://github.com/SuproCodes)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
@@ -2287,5 +2286,6 @@ nowy wpis
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
+- [Sadrealam Ahmed](https://github.com/sadre1)
 
 <!-- prettier-ignore-end -->
