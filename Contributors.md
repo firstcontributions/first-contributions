@@ -2347,6 +2347,7 @@
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Trina Ngo] (https://github.com/thngo2)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- [Amitabh Kumar](https://github.com/kamitabh24)
 - [Pyoush Madan](https://github.com/pyoushmadan10)
 - [Albin T T](https://github.com/axtr897)
 - [Kiran Thilak](https://github.com/kiran-thilak)
