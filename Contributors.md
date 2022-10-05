@@ -1021,6 +1021,7 @@ nowy wpis
 - [Aissa Nouacer](https://github.com/AissaNouacer)
 - [Barack W](https://github.com/walindi)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
+- [Ajikobi Olanrewaju](https://github.com/Larryking007)
 - [Aziz Prabowo](https://github.com/azizp128)
 - [Andrew Berning](https://github.com/andrewberning)
 - [Isaac Kuria](https://github.com/kabszac)
