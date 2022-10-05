@@ -28,6 +28,7 @@ nowy wpis
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
 - [Praveen Chandra](https://github.com/praveenchandra01)
+- [Zoheb Alam](https://github.com/ali7979)
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Ben Flatau](https://github.com/bflatau)
 - [Sowmya sree](https://github.com/sowmyasree33)
