@@ -1036,6 +1036,7 @@
 - [Heyran L](https://github.com/hran-8)
 - [Zahra Shahid](https://github.com/ZahraShahid)
 - [Brent Upton](https://github.com/bupton)
+- [Wes Bourke](https://github.com/wesbourke101)
 - [Hoper Hope](https://github.com/HoperHope)
 - [Wrik Roy](https://github.com/roywrik)
 - [Julien AWON&#39;GA](https://github.com/julien-aw)
