@@ -1999,6 +1999,7 @@ nowy wpis
 - [Anas Qureshi](https://github.com/Anas9764)
 - [Kunal Ladhani](https://github.com/Kunal-Ladhani)
 - [bikrant mishra}(https://hacktoberfest.com/profile/)
+- [Chaterina M Fransisca](https://github.com/chaterinamf)
 - [Michalis Papamichael]
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Mayank Madhur](https://github.com/MAYANK-11115722624)
