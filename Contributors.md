@@ -11,6 +11,7 @@
 - [HarshVijay](https://github.com/harshvijay63)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
+- [Anurag Nayak](https://github.com/Anurag-Nayak)
 - [Will Menezes](https://github.com/uiuzih)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
 - [Vicky](https://github.com/HungryVicky)
