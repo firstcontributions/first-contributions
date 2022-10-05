@@ -97,6 +97,7 @@ nowy wpis
 - [Prabhat Edupuganti](https://github.com/prabhate)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
+- [Chapi Menge](https://github.com/chapimenge3)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
 - [Saurabh Kumar](https://github.com/Saurabh-2809)
