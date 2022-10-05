@@ -2415,6 +2415,6 @@
 - [Deepika Kumari](https://github.com/dips6202)
 - [Manish Singh Parihar](https://github.com/Msparihar)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
-
+- [Lukas Paul](https://github.com/lukas1505)
 
 <!-- prettier-ignore-end -->
