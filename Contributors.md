@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Hydrotho](https://github.com/hydrotho)
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Will Menezes](https://github.com/uiuzih)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
@@ -32,9 +33,10 @@ nowy wpis
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Ben Flatau](https://github.com/bflatau)
 - [Sowmya sree](https://github.com/sowmyasree33)
+- [Abhishek Chahar](https://github.com/Devil1729)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
-- [Mihir Panchal](https://github.com/MihirRajeshPanchal)
+- - [Mihir Panchal](https://github.com/MihirRajeshPanchal)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Archit Handa](https://github.com/Archit-Handa)
@@ -1623,6 +1625,7 @@ nowy wpis
 - [Subhajit Roy](https://github.com/subhajitroycode)
 - [Sat Naing](https://github.com/satnaing)
 - [Adwait Deshpande](https://github.com/adwaitdeshpande-and)
+- [Nahshal Manir](https://github.com/nahshalManir)
 - [Samuel Echols](https://github.com/sechols223)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
@@ -2275,5 +2278,6 @@ nowy wpis
 - [Muhammad Talha Khan](https://github.com/muhtalhakhan)
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
+- [Khánh Pluto](https://github.com/khanh41)
 
 <!-- prettier-ignore-end -->
