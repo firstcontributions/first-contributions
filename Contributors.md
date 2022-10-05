@@ -2356,5 +2356,5 @@ nowy wpis
 - [Shubham Rawat](https://github.com/shubhamrawat090)
 - Harsh(https://github.com/harsh23079)
 - Abhishek(https://github.com/abhishekratnam)
-
+- [Kim Arthur Lorenzo](https://github.com/artdev-hash)
 <!-- prettier-ignore-end -->
