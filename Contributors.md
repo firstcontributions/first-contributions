@@ -2326,6 +2326,7 @@
 - [Ishabh Thakur](https://github.com/ishabhthakur)
 - [Kuntal Paul](https://github.com/helplessThor)
 - [Luc Mosser](https://github.com/lmssr)
+- [Akshay Kumar](https://github.com/akshaykumar23399)
 - [Abhika Mittal](https://github.com/Abhika3021)
 - [Royce Dy](https://github.com/rad182)
 - [Firejoust](https://github.com/firejoust)
