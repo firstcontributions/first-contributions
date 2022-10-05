@@ -1199,6 +1199,7 @@ nowy wpis
 - [Fatiudeen](https://github.com/fatiudeen)
 - [Nati Montes](https://github.com/Brujitari)
 - [Suraj Kumar Sharma](https://github.com/surajsharma14)
+- [Markus Haendler](https://github.com/mhaendler)
 - [Neetigya](https://github.com/NeetigyaShah)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
