@@ -2307,5 +2307,6 @@ nowy wpis
 - [Rajath](https://github.com/SilverDragon12)
 - [Brunda](https://github.com/brundabharadwaj)
 - [silassentinel] (https://github.com/silassentinel)
+- [ofekatr] (https://github.com/ofekatr)
 
 <!-- prettier-ignore-end -->
