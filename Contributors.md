@@ -32,6 +32,7 @@
 - [Sohan-Mishra](https://github.com/Hansolo1103)
 - [Karim](https://github.com/abkarim)
 - [Shashank Shukla](https://github.com/Wodlfvllf)
+- [Arth Srivastava](https://github.com/ArthSrivastava)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Kartik Nandagoan](https://github.com/KartikRN)
