@@ -2333,6 +2333,8 @@ nowy wpis
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
 - [Shagun Rathore](https://github.com/itshagunrathore)
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
-- [Rahul Bisht (https://github.com/RahulBeast195)
+- [Rahul Bisht] (https://github.com/RahulBeast195)
+- [Hrishikesh Mahalle](https://github.com/HrishikeshMahalle)
+
 
 <!-- prettier-ignore-end -->
