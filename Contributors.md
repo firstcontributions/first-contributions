@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Mohd Azeem](https://github.com/azeemhack)
 - [Astha Mishra](https://github.com/asthami)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [JOY JAIN](https://github.com/joy529)
@@ -277,7 +278,6 @@
 - [Raf Gutierrez] (https://github.com/RafaelGutz444)
 - [Tsirimaholy](https://github.com/Tsirimaholy)
 - [Jatin Yadav](https://github.com/iamjatinyadav)
-- [Abinawan Bhattarai](https://github.com/Abinawan)
 - [WoodWood](https://github.com/WoodWood1299)
 - [Shamlo](https://github.com/shammlo)
 - [Sohini Joarder] (https://github.com/SohinijRover)
