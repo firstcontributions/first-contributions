@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-#
 
 #### _Read this in [other languages](translations/Translations.md)._
 
@@ -71,7 +70,6 @@
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Mongolia" alt="Mongolia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mn.svg" width="22">](translations/README.mn.md)</kbd>
 
-#
 
 # First Contributions
 
@@ -120,16 +118,16 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Now create a branch using the `git switch` command:
 
 ```
-git checkout -b your-new-branch-name
+git switch -c your-new-branch-name
 ```
 
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
@@ -149,20 +147,20 @@ git add Contributors.md
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `<your-name>` with your name.
+replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
 
 ```
-git push origin -u <add-your-branch-name>
+git push origin -u your-branch-name
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+replacing `your-branch-name` with the name of the branch you created earlier.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
@@ -185,7 +183,7 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
