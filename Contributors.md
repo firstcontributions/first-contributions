@@ -126,6 +126,7 @@ nowy wpis
 - [Koty Stannard](https://github.com/k-stannard)
 - [Anish Kacham](https://github.com/anishKacham)
 - [Ellen Costa-Almeida](https://github.com/e-costalmeida)
+- [Lena Artinger](https://github.com/lenaArtinger)
 - [Caio Pereira Rodrigues](https://github.com/caioprodrigues)
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
 - [Manjot Singh](https://github.com/ManjotCodes)
