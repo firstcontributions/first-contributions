@@ -589,6 +589,7 @@
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [amchatman](https://github.com/amchatman)
 - [Kunal Sachdeva](https://github.com/slanuk)
+- [Kartikay Tiwari](https://github.com/ishtails)
 - [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
 - [J. Antonio García-Ramírez](https://github.com/fou-foo)
 - [Nihal soni](https://github.com/nihal-soni)
