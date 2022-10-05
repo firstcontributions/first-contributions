@@ -7,6 +7,7 @@
 - [Payal Jain](https://github.com/payal1206)
 - [Hari Prasad](https://github.com/hariprasd)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
+- [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [atul rajput](https://github.com/Atulrajput9068)
