@@ -2024,6 +2024,7 @@ nowy wpis
 - [Dharansh S](https://github.com/Dharanash)
 - [Aman Jain](https://github.com/amanjain5132)
 - [Yusril Chalif A](https://github.com/yusrilchalif)
+- [Yusuf Abdulakeem A](https://github.com/hakeem750)
 - [Mayur Jethwa](https://github.com/mayyyur)
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Dhananjay Dubey](https://github.com/dhananjay15)
