@@ -121,6 +121,7 @@ nowy wpis
 - [George Tzinetas](https://github.com/kriminals)
 - [Abhishek Aute](https://github.com/Abhi2820)
 - [Md Danish Jamal](https://github.com/imdj6)
+- [Ved Prakash Nautiyal](https://github.com/vedprakashnautiyal)
 - [Deepak Krishnaa Govindarajan](https://github.com/deepakkrish212)
 - [GANESH TEKALE](https://github.com/ganeshtekale7400)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
