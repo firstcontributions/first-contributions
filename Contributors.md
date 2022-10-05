@@ -2323,5 +2323,6 @@ nowy wpis
 - [i-curve](https://github.com/i-curve)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Jonathan Stallard](https://github.com/stallardjw)
+- [Jaideep Ahluwalia](https://github.com/Jaideep12)
 
 <!-- prettier-ignore-end -->
