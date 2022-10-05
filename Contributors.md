@@ -1623,6 +1623,7 @@ nowy wpis
 - [Subhajit Roy](https://github.com/subhajitroycode)
 - [Sat Naing](https://github.com/satnaing)
 - [Adwait Deshpande](https://github.com/adwaitdeshpande-and)
+- [Nahshal Manir](https://github.com/nahshalManir)
 - [Samuel Echols](https://github.com/sechols223)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
@@ -2276,5 +2277,6 @@ nowy wpis
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
 - [Tanu Soni](https://github.com/tanus786)
+- [Khánh Pluto](https://github.com/khanh41)
 
 <!-- prettier-ignore-end -->
