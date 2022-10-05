@@ -244,7 +244,7 @@ nowy wpis
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Rohini Patil](https://github.com/rohinipatil89)
-
+- [Bimalesh Seth](https://github.com/Bimalesh-Seth)
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Sriram M](https://github.com/msris108)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
