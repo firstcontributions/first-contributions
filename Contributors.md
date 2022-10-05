@@ -12,6 +12,7 @@
 - [Vikash Patel](https://github.com/its-red-eagle)
 - [law01f] (httos://github.com/law01f)
 - [DataDaimon] (https://github.com/DataDaimon)
+- [Lakhwinder-Singh](https://github.com/Lakhwinderr)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
 - [akashaw] (https://github.com/akashaw)
@@ -2349,5 +2350,4 @@ nowy wpis
 - [Rahul Bisht] (https://github.com/RahulBeast195)
 - [Hrishikesh Mahalle](https://github.com/HrishikeshMahalle)
 - [i_Akshay (https://github.com/Akshay1018)
-
 <!-- prettier-ignore-end -->
