@@ -792,6 +792,7 @@
 - [Narendra kumar](https://github.com/wdnarendra/)
 - [vultimitavin](https://github.com/vulti-mitavin)
 - [Siddhant Singh](https://github.com/siddhantsingh-1)
+- [Caleb Fankhauser](https://github.com/cfankhauser1)
 - [vrana](https://github.com/v-rana)
 - [Mlodko](https://github.com/Mlodko)
 - [Gabriel Moody](https://github.com/GabrielMoody)
