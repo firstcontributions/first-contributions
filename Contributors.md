@@ -1927,6 +1927,7 @@ nowy wpis
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
+- [Siddak Bagga](https://github.com/siddakbagga13)
 - [Harsh Singh](https://github.com/lives-in-virgosupercluster)
 - [Abhay Dixit](https://github.com/AbhayD11)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
