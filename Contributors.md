@@ -1714,6 +1714,7 @@ nowy wpis
 - [Deepak C L](https://github.com/MightyFellow)
 - [Raphael Radespiel](https://github.com/Raphael-Radespiel)
 - [Dias](https://github.com/diasdauletov)
+  [Jake Morgan](https://github.com/jmorgan3142001)
 - [Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)
 - [Amir](https://github.com/amir1610)
 - [Sainik Khaddar](https://github.com/sainik-khaddar)
