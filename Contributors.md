@@ -315,6 +315,7 @@
 - [Jon](https://github.com/jonmoon74)
 - [Luka](https://github.com/bluka1)
 - [Raul](https://github.com/raul-404)
+- [Tushar Sinha](https://github.com/tusharsinha-2908)
 - [Madhav Milan](https://github.com/m2-madhav)
 - [Ashish Kumar](https://github.com/Ashish16Kumar)
 - [mazino]
