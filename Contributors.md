@@ -2312,5 +2312,6 @@ nowy wpis
 - [silassentinel] (https://github.com/silassentinel)
 - [ofekatr] (https://github.com/ofekatr)
 - [Arjun] (https://github.com/Arjundotadex)
+- [Sugyani Manjari Dash](https://github.com/Sugyani31)
 
 <!-- prettier-ignore-end -->
