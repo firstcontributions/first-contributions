@@ -220,7 +220,6 @@
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Jonas Wouters](https://github.com/JonasWouters113)
 - [Agrima Gupta](https://github.com/sassy-bugs)
-- [Swapnil Sakpal](https://github.com/Swapnil0803)
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
 - [Sahil Kamate](https://github.com/sahilkamate03)
@@ -2350,6 +2349,7 @@
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Trina Ngo] (https://github.com/thngo2)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- [Ankit Pawar](https://github.com/ankit8453).
 - [Yongjin Huang](https://github.com/YongjinHuang)
 - [Amitabh Kumar](https://github.com/kamitabh24)
 - [Pyoush Madan](https://github.com/pyoushmadan10)
