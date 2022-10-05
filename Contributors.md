@@ -30,6 +30,7 @@
 - [DataDaimon] (https://github.com/DataDaimon)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
+- [Akhil](https://github.com/AkhilJ321)
 - [akashaw] (https://github.com/akashaw)
 - [HarshVijay](https://github.com/harshvijay63)
 - [Vansh Aggarwal](https://github.com/vansh-agg)
