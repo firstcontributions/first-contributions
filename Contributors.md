@@ -2333,5 +2333,5 @@ nowy wpis
 - [Shagun Rathore](https://github.com/itshagunrathore)
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
 - [Rahul Bisht (https://github.com/RahulBeast195)
-
+- [Smit Vasoya (Smit-Vasoya-Tridhya)](https://github.com/Smit-Vasoya-Tridhya)
 <!-- prettier-ignore-end -->
