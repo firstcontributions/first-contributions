@@ -2272,5 +2272,6 @@ nowy wpis
 - [Syariful Msth](https://github.com/SyarifulMsth)
 - [Muhammad Talha Khan](https://github.com/muhtalhakhan)
 - [Jakhaxz](https://github.com/Jakhaxz)
+- [Venom] (https://github.com/venom)
 
 <!-- prettier-ignore-end -->
