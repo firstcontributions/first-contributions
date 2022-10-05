@@ -2270,5 +2270,6 @@ nowy wpis
 - [P Gautam](https://github.com/pgautam27)
 - [Syariful Msth](https://github.com/SyarifulMsth)
 - [Muhammad Talha Khan](https://github.com/muhtalhakhan)
+- [Jakhaxz](https://github.com/Jakhaxz)
 
 <!-- prettier-ignore-end -->
