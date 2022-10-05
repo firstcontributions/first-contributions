@@ -36,7 +36,6 @@
 - [Mayur Vora](https://github.com/Mayur-vora)
 nowy wpis
 - [Wayne Miles] (https://github.com/WayneMilesIII)
--[Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
 - [Hima Varshitha](https://github.com/hima-varshi)
@@ -94,6 +93,7 @@ nowy wpis
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
 - [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
+- [Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Sanjay RB](https://github.com/sanjay-rb)
 - [Vrutti Patel](https://github.com/vrutti24)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
