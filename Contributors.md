@@ -2385,6 +2385,6 @@
 - [Daniel Freire](https://github.com/proxyanon)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
-
+- [Lalit Chaudhary](https://github.com/codelalit007)
 
 <!-- prettier-ignore-end -->
