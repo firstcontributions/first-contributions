@@ -4,7 +4,6 @@
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
-- [Shubham Kondekar](https://github.com/kondekarshubham123)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
@@ -725,6 +724,7 @@
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
+- [Harsh Singh] (https://github.com/HarshSingh21)
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
