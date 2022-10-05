@@ -2385,6 +2385,7 @@
 - [Daniel Freire](https://github.com/proxyanon)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
+- [Isha Bhutto](https://github.com/ishabhutto)
 
 
 <!-- prettier-ignore-end -->
