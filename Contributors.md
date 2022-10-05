@@ -142,6 +142,7 @@ nowy wpis
 - [Sarah Miller](https://github.com/smiller1188)
 - [Abhishek Banerjee](https://github.com/abhi-as-a-developer)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
+- [Naveenkumar J](https://github.com/naveenkumar-j)
 - [Aleph Lakra](https://github.com/Iamkenji)
 - [Petrus Aria Chevalier Rambing] (https://github.com/petrusariaa)
 - [Abdul Rehman](https://github.com/abdulrehmandev)
