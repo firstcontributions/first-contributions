@@ -2307,6 +2307,7 @@
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
 - [Karolina Kossakowska](https://github.com/KossakowskaKarolina)
 - [Sayam Agarwal](https://github.com/Sayam241020)
+- [Siddhant Kumar](https://github.com/Siddhant87)
 - [Kshitij Pandey](https://github.com/Kshitij-1373)
 - [Manan Sharma](https://github.com/manan126)
 - [Adithya P Mallya](https://github.com/adithyapmallya))
