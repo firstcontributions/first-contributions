@@ -2294,5 +2294,5 @@ nowy wpis
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
 - [Brunda](https://github.com/brundabharadwaj)
-
+- [Rakshith R Acharya] (https://github.com/RakshithRAcharya)
 <!-- prettier-ignore-end -->
