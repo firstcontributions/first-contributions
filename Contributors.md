@@ -292,7 +292,6 @@
 - [tht-jxny](https://github.com/tht-jxny)
 - [AntVena](https://github.com/AntVena)
 - [Sofiyan Syed](https://github.com/IamSofiyan)
-- [Abhishek Kumar](https://github.com/abhishek-kumaraj)
 - [Sakshi](https://github.com/sakshigupta001)
 - [Lian](https://github.com/liulian1004)
   vivek
@@ -2339,6 +2338,7 @@
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [c1sc0](https://github.com/c1sc0)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
+- [Hanuvesh Singh](https://github.com/Hanuvesh)
 - [Drian key](https://github.com/Drian-key)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
