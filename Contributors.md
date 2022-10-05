@@ -2332,6 +2332,7 @@
 - [Phong Pham](https://github.com/phongpv)
 - [Sahil Thakur](https://github.com/Blacklight34)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
+- [Mahek Rohit Gor](https://github.com/MahekRohitGor)
 - [Tharindu Sooriyaarachchi](https://github.com/TharinduDilshan)
 - [Ishabh Thakur](https://github.com/ishabhthakur)
 - [Nilesh Sanyal](https://github.com/NileshSanyal)
