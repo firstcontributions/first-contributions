@@ -2327,5 +2327,6 @@ nowy wpis
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Jonathan Stallard](https://github.com/stallardjw)
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
+- [Shagun Rathore](https://github.com/itshagunrathore)
 
 <!-- prettier-ignore-end -->
