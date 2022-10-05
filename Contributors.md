@@ -2300,5 +2300,7 @@ nowy wpis
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
 - [Brunda](https://github.com/brundabharadwaj)
+- [Suhaas](https://github.com/suhaas-livcd)
+
 
 <!-- prettier-ignore-end -->
