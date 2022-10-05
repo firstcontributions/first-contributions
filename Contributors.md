@@ -2335,5 +2335,6 @@ nowy wpis
 - [Shagun Rathore](https://github.com/itshagunrathore)
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
 - [Rahul Bisht (https://github.com/RahulBeast195)
+- [i_Akshay (https://github.com/Akshay1018)
 
 <!-- prettier-ignore-end -->
