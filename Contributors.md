@@ -2238,6 +2238,7 @@ nowy wpis
 - [Kshitij Agarwal](https://github.com/omniscientHorizon)
 - [Ookamini95](https://github.com/Ookamini95)
 - [KingofGnome](https://github.com/KingofGnome)
+- [Aryam parmar](https://github.com/aryamparmar)
 - [A Stepanian](https://github.com/a-stepanian)
 - [Md Rizwan](https://leetcode.com/rizwan073)
 - [Dr. Asshat](https://github.com/drasshat)
