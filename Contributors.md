@@ -1623,6 +1623,7 @@ nowy wpis
 - [Subhajit Roy](https://github.com/subhajitroycode)
 - [Sat Naing](https://github.com/satnaing)
 - [Adwait Deshpande](https://github.com/adwaitdeshpande-and)
+- [Nahshal Manir](https://github.com/nahshalManir)
 - [Samuel Echols](https://github.com/sechols223)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
