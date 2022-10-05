@@ -2256,5 +2256,6 @@ nowy wpis
 - [Lucas Soares](https://github.com/fbsoares-lu)
 - [Keith Flynn] (https://github.com/keith-flynn)
 - [Andiani Putri] (https://github.com/andianiputri)
+- [Firman] (https://github.com/firmanJS)
 
 <!-- prettier-ignore-end -->
