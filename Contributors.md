@@ -485,6 +485,7 @@ nowy wpis
 - [Aman Setia](https://github.com/Amanse)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Melissa Sorrells](https://github.com/melsorrells23)
+- Saad Khan
 - [PRIYA KUMARI](https://github.com/priya03050)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
