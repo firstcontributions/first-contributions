@@ -29,6 +29,7 @@
 - [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
+- [Satantago] (https://github.com/Satantago)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [Aditya Phalswal](https://github.com/Adityaphalswal)
 - [atul rajput](https://github.com/Atulrajput9068)
