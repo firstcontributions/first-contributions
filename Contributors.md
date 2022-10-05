@@ -148,6 +148,7 @@ nowy wpis
 - [Anurag Rawat](https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
 - [segoSambel](https://github.com/segoSambel)
+- [WerG0D](https://github.com/WerG0D)
 - [JerryCodesAfrica](https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
 - [Prajukta Dey](https://github.com/prajuktadey)
