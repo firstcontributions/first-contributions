@@ -37,6 +37,7 @@
 - [Will Menezes](https://github.com/uiuzih)
 - [Josuan Leonardo](https://github.com/josleonardo)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
+- [Suthar Yash](https://github.com/Yash-suthar)
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
