@@ -121,6 +121,7 @@ nowy wpis
 - [segoSambel](https://github.com/segoSambel)
 - [JerryCodesAfrica](https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
+- [Prajukta Dey](https://github.com/prajuktadey)
 - [Gaurav Verma](https://github.com/iisgaurav)
 - [Thanmai Sai](https://github.com/thanmaisai)
 - [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
