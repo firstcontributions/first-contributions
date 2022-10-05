@@ -5,6 +5,7 @@
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
+- [Akash Yadav](https://github.com/Akash-moon)
 - [Hari Prasad](https://github.com/hariprasd)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
