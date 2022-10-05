@@ -485,7 +485,6 @@ nowy wpis
 - [Aman Setia](https://github.com/Amanse)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Melissa Sorrells](https://github.com/melsorrells23)
-- Saad Khan
 - [PRIYA KUMARI](https://github.com/priya03050)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
@@ -2333,6 +2332,7 @@ nowy wpis
 - [ofekatr] (https://github.com/ofekatr)
 - [Arjun] (https://github.com/Arjundotadex)
 - [i-curve](https://github.com/i-curve)
+- [Ankit](https://github.com/ankitiiitian)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Jonathan Stallard](https://github.com/stallardjw)
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
