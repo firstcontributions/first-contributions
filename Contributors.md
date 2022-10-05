@@ -78,6 +78,7 @@ nowy wpis
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [Krunal Kharat](https://github.com/KrunalKharat02)
+- [Santosh S](https://github.com/San55-hub)
 - [Prabhat Edupuganti](https://github.com/prabhate)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
