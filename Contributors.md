@@ -2329,6 +2329,7 @@
 - [Royce Dy](https://github.com/rad182)
 - [Firejoust](https://github.com/firejoust)
 - [Ayoub Boulbaz] (https://github.com/AyoubHolmes)
+- [Mrunank Pawar](https://github.com/mrunankpawar)
 - [Rutika Masane](https://github.com/rutika1823)
 - [Funikz](https://github.com/Funikz)
 - [Rahul Rs](https://github.com/RsRsRahul)
