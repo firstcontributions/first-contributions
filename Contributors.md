@@ -2263,5 +2263,6 @@ nowy wpis
 - [Firman] (https://github.com/firmanJS)
 - [Khushi Agarwal] (https://github.com/curriee11)
 - [Ashish Antony Pauly](https://github.com/ashishantonytsr)
+- [Aman Jain](https://github.com/amannayak0007)
 
 <!-- prettier-ignore-end -->
