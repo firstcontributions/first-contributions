@@ -27,6 +27,7 @@
 - [JpArango](https://github.com/Jpkeys29)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Someshfengde](https://github.com/someshfengde)
+- [Sohan-Mishra](https://github.com/Hansolo1103)
 - [Karim](https://github.com/abkarim)
 - [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Abhishek Pandey](https://github.com/bird-03)
