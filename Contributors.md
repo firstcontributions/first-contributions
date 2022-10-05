@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [law01f] (httos://github.com/law01f)
 - [Hydrotho](https://github.com/hydrotho)
