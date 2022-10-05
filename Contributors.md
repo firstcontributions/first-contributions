@@ -9,6 +9,7 @@
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Sreenath Sharma](https://github.com/sreenath707)
+- [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
