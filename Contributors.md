@@ -2269,5 +2269,6 @@ nowy wpis
 - [Aman Jain](https://github.com/amannayak0007)
 - [P Gautam](https://github.com/pgautam27)
 - [Syariful Msth](https://github.com/SyarifulMsth)
+- [Muhammad Talha Khan](https://github.com/muhtalhakhan)
 
 <!-- prettier-ignore-end -->
