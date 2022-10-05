@@ -2416,6 +2416,7 @@
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Luan Vu](https://github.com/luanvuhlu)
 - [Deepika Kumari](https://github.com/dips6202)
+- [Ebrima Barry](https://github.com/ebrimaporeh)
 - [Idrak Sheikh](https://github.com/idraksheikh)
 - [Manish Singh Parihar](https://github.com/Msparihar)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
