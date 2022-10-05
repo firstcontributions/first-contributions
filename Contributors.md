@@ -172,6 +172,8 @@
 - [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
+- [ashutosh_sankpal](https://github.com/ashutoshj30)
+
 - [George Tzinetas](https://github.com/kriminals)
 - [Abhishek Aute](https://github.com/Abhi2820)
 - [Pushkar Roy](https://github.com/roy2pushkar)
