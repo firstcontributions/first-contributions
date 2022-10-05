@@ -2324,6 +2324,7 @@
 - [Phong Pham](https://github.com/phongpv)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Ishabh Thakur](https://github.com/ishabhthakur)
+- [Mohd Azeem](https://github.com/AzeemIdrisi)
 - [Kuntal Paul](https://github.com/helplessThor)
 - [Abir Hasan](https://github.com/abirhasn07)
 - [Luc Mosser](https://github.com/lmssr)
