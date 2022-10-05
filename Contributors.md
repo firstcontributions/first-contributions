@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [law01f] (httos://github.com/law01f)
 - [Hydrotho](https://github.com/hydrotho)
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Will Menezes](https://github.com/uiuzih)
