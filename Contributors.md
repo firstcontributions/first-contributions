@@ -2227,6 +2227,7 @@
 - [zsMoonshine](https://github.com/zsMoonshine)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
+- [Mayuresh Choudhary](https://github.com/Mayuresh-22)
 - [Steve Nascimento](https://github.com/SteveNascimento)
 - [Akkshat](https://github.com/Akkshat09)
 - [Babyjohn](https://github.com/babyjohndev)
