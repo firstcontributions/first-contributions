@@ -2313,5 +2313,6 @@ nowy wpis
 - [ofekatr] (https://github.com/ofekatr)
 - [Arjun] (https://github.com/Arjundotadex)
 - [i-curve](https://github.com/i-curve)
+- [Sugyani Manjari Dash](https://github.com/Sugyani31)
 
 <!-- prettier-ignore-end -->
