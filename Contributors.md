@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Hydrotho](https://github.com/hydrotho)
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Will Menezes](https://github.com/uiuzih)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
