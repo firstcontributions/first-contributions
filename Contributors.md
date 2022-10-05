@@ -86,6 +86,7 @@
 - [larry Xue](https://github.com/larry-xue)
   Anurag kataria
 - [Abhishek Anuj](https://github.com/abhishekanuj26)
+- [Prasanjit Panda](https://github.com/Prasanjit-4)
 - [Kapil Kunwar](https://github.com/undef125)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
