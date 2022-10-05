@@ -9,6 +9,7 @@
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)
 - [law01f] (httos://github.com/law01f)
+- [DataDaimon] (https://github.com/DataDaimon)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
 - [akashaw] (https://github.com/akashaw)
