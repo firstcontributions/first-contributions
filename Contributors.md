@@ -13,6 +13,7 @@
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
+- [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Karim](https://github.com/abkarim)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
