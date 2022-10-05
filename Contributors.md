@@ -13,6 +13,7 @@
 - [Hari Prasad](https://github.com/hariprasd)
 - [MrAnonymous09](https://github.com/MrAnonymous09)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
+- [Alperen Dagli](https://www.github.com/dglalperen)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
