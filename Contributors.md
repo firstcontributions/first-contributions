@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Ashish Patel](https://github.com/ashishxcode)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Shrikant Kosariya](https://github.com/shrikant2233)
 - [Alessandro Greco](https://github.com/aleff-github)
@@ -487,7 +486,6 @@
 - [Shubham Maurya](https://www.youtube.com/c/DebugWithShubham)
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
-- [Gunjan Yadav]
 - [Pushkar Mahajan](https://github.com/pm656v2)
 - [Emanuele Favero](https://github.com/emanuelefavero)
 - [Atul Sisodiya](https://github.com/AtulSisodiya)
@@ -2224,12 +2222,10 @@
 - [Pranav arora](https://github.com/pranavintech)
 - [Safal Koirala](https://github.com/SafalKoirala)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
-- [Kathleen Jogno](https://github.com/redKath)
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [zsMoonshine](https://github.com/zsMoonshine)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
-- [Mayuresh Choudhary](https://github.com/Mayuresh-22)
 - [Steve Nascimento](https://github.com/SteveNascimento)
 - [Akkshat](https://github.com/Akkshat09)
 - [Babyjohn](https://github.com/babyjohndev)
@@ -2291,7 +2287,6 @@
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
 - [Maksym Sitailo](https://github.com/maxsIT)
-- [Harry Daniels] (https://github.com/harrycs1)
 - [Karan Sharma](https://github.com/karanS08)
 - [Alejandro Garcia](https://github.com/OwboxAl3x)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
@@ -2426,5 +2421,5 @@
 - [Manish Singh Parihar](https://github.com/Msparihar)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
 - [Akash Sancheti](https://github.com/Akash1105)
-
+- [Sourav Nayek](https://github.com/SOURAV416)
 <!-- prettier-ignore-end -->
