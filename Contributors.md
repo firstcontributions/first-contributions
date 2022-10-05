@@ -2,7 +2,10 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [law01f] (httos://github.com/law01f)
 - [Hydrotho](https://github.com/hydrotho)
+- [HarshVijay](https://github.com/harshvijay63)
+- [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Will Menezes](https://github.com/uiuzih)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
@@ -11,6 +14,7 @@
 - [JpArango](https://github.com/Jpkeys29)
 - [Karim](https://github.com/abkarim)
 - [Abhishek Pandey](https://github.com/bird-03)
+- [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Andres Romero](https://github.com/aromero18020)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
@@ -23,7 +27,8 @@
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
-nowy wpis
+  nowy wpis
+- [Wayne Miles] (https://github.com/WayneMilesIII)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
 - [Hima Varshitha](https://github.com/hima-varshi)
@@ -33,6 +38,7 @@ nowy wpis
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Ben Flatau](https://github.com/bflatau)
 - [Sowmya sree](https://github.com/sowmyasree33)
+- [Md Raashid Hussain](https://github.com/raashid18)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
 - [Mihir Panchal](https://github.com/MihirRajeshPanchal)
@@ -64,7 +70,7 @@ nowy wpis
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [Krunal Kharat](https://github.com/KrunalKharat02)
 - [Prabhat Edupuganti](https://github.com/prabhate)
--[Sarfraz Hussain](https://github.com/Sarfraz21)
+  -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
 - [Osman Batur Çelik](https://github.com/osmnbtrclk)
@@ -555,7 +561,7 @@ nowy wpis
 - [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
 - [Hemant Maurya](https://github.com/hemantmaurya344)
--[Saurabh Shukla](https://github.com/Saurabh13042004)
+  -[Saurabh Shukla](https://github.com/Saurabh13042004)
 - [Marion Judy](https://github.com/marionjudy13)
 - [Imam Suyuti](https://github.com/imams12)
 - [Ansh Goyal](https://github.com/Ansh1693)
@@ -2165,7 +2171,7 @@ nowy wpis
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
-= [Fighter-007](https://github.com/Fighter-007)
+  = [Fighter-007](https://github.com/Fighter-007)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Abhishek Kumar](https://github.com/shangchi9)
 - [elchmuetze](https://github.com/elchmuetze)
@@ -2258,7 +2264,7 @@ nowy wpis
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
-- [victhupy] (https://github.com/victhupy) 
+- [victhupy] (https://github.com/victhupy)
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [CarOL](https://github.com/hx-w)
@@ -2270,6 +2276,7 @@ nowy wpis
 - [Andiani Putri] (https://github.com/andianiputri)
 - [Firman] (https://github.com/firmanJS)
 - [Khushi Agarwal] (https://github.com/curriee11)
+- [Namita](https://github.com/namita333)
 - [Ashish Antony Pauly](https://github.com/ashishantonytsr)
 - [Aman Jain](https://github.com/amannayak0007)
 - [P Gautam](https://github.com/pgautam27)
@@ -2280,6 +2287,5 @@ nowy wpis
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
-- [Namita](https://github.com/namita333)
 
 <!-- prettier-ignore-end -->
