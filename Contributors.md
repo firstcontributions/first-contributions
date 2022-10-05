@@ -2308,5 +2308,6 @@ nowy wpis
 - [Brunda](https://github.com/brundabharadwaj)
 - [silassentinel] (https://github.com/silassentinel)
 - [ofekatr] (https://github.com/ofekatr)
+- [Vivek Raj Gupta](https://github.com/Vivek-raj-gupta-2002)
 
 <!-- prettier-ignore-end -->
