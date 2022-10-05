@@ -2311,7 +2311,7 @@ nowy wpis
 - [Brunda](https://github.com/brundabharadwaj)
 - [silassentinel] (https://github.com/silassentinel)
 - [ofekatr] (https://github.com/ofekatr)
-- [Arjun] (https://github.com/Arjundotadex)
+- [Arjun] (https://github.com/Arjundotadex
+- [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [OM] (https://github.com/omnalamwar/)
-
 <!-- prettier-ignore-end -->
