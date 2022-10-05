@@ -307,7 +307,7 @@
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Rohini Patil](https://github.com/rohinipatil89)
-
+-[Krishna Biswal](https://github.com/KrishT0)
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Sriram M](https://github.com/msris108)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
