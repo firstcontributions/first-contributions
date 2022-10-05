@@ -12,7 +12,7 @@ Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras co
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositório" />
 
-Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
+Se não possui o git em sua máquina, [instale-o aqui](https://help.github.com/articles/set-up-git/).
 
 ## Faça um Fork deste repositório
 
