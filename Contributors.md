@@ -2288,5 +2288,6 @@ nowy wpis
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
+- [Brunda](https://github.com/brundabharadwaj)
 
 <!-- prettier-ignore-end -->
