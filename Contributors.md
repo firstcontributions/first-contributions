@@ -2283,5 +2283,6 @@ nowy wpis
 - [Venom] (https://github.com/venom)
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
+- [Rajath](https://github.com/SilverDragon12)
 
 <!-- prettier-ignore-end -->
