@@ -2316,5 +2316,6 @@ nowy wpis
 - [Arjun] (https://github.com/Arjundotadex)
 - [i-curve](https://github.com/i-curve)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
+- [Jonathan Stallard](https://github.com/stallardjw)
 
 <!-- prettier-ignore-end -->
