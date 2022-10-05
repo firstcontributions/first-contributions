@@ -2345,5 +2345,6 @@ nowy wpis
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
 - [Rahul Bisht (https://github.com/RahulBeast195)
 - [i_Akshay (https://github.com/Akshay1018)
+- [Nguyen Hoang Dung](https://github.com/gnud-gnaoh)
 
 <!-- prettier-ignore-end -->
