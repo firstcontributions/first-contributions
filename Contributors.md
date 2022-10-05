@@ -132,6 +132,7 @@
 - [Sanjay RB](https://github.com/sanjay-rb)
 - [Vrutti Patel](https://github.com/vrutti24)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
+- [Ravish Satwani](https://github.com/ravish036)
 - [Elia Zonta](https://github.com/eliazonta)
 - [Khori Hutama](https://github.com/khorihutama)
 - [Hamza Nawab](https://github.com/blazenn2)
