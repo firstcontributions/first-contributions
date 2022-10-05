@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-collins kiplangat mutai(Kiplaacollo)
+<!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Ashutosh Kumar](https://github.com/incognion)
 - [Will Menezes](https://github.com/uiuzih)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
 - [Vicky](https://github.com/HungryVicky)
