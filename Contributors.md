@@ -7,6 +7,7 @@
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
+- [Tooba Rashid](https://github.com/toobaarashid)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
 - [Waqar Shahbaz](https://github.com/waqarshahbaz)
