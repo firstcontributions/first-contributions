@@ -22,6 +22,7 @@ nowy wpis
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Prabhat Edupuganti](https://github.com/prabhate)
+- [Prince Kumar Sahni](https://github.com/mrprince123)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
