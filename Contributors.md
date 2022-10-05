@@ -2262,5 +2262,6 @@ nowy wpis
 - [Andiani Putri] (https://github.com/andianiputri)
 - [Firman] (https://github.com/firmanJS)
 - [Khushi Agarwal] (https://github.com/curriee11)
+- [Ashish Antony Pauly](https://github.com/ashishantonytsr)
 
 <!-- prettier-ignore-end -->
