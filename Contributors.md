@@ -20,6 +20,7 @@
 - [JpArango](https://github.com/Jpkeys29)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Karim](https://github.com/abkarim)
+- [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Andres Romero](https://github.com/aromero18020)
