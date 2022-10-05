@@ -902,6 +902,7 @@
 - [Ritik Prabhat] (https://github.com/ritik-prabhat)
 - [Drake Buentello](https://github.com/DrakeB1234)
 - [Omar Sarfraz](https://github.com/omar-sarfraz)
+- [Vipul Kumar](https://github.com/vipulkumar49)
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
 - [Najeeb Arif](https://githib.com/NajeebArif)
