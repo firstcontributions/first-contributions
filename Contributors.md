@@ -66,7 +66,6 @@ nowy wpis
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Saalimon](https://github.com/saalimon)
 - [Tahalu Indo](https://github.com/tahaluindo)
-- [Nguyen Hoang Dung](https://github.com/gnud-gnaoh)
 - [Archit Handa](https://github.com/Archit-Handa)
 - [Kinza Malik](https://github.com/Kinzamalik)
 - [Shreyam Gupta](https://github.com/shreyamG)
@@ -2346,5 +2345,6 @@ nowy wpis
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
 - [Rahul Bisht (https://github.com/RahulBeast195)
 - [i_Akshay (https://github.com/Akshay1018)
+- [Nguyen Hoang Dung](https://github.com/gnud-gnaoh)
 
 <!-- prettier-ignore-end -->
