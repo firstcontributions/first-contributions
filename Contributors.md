@@ -6,6 +6,7 @@
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
+- [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
 - [Hari Prasad](https://github.com/hariprasd)
 - [MrAnonymous09](https://github.com/MrAnonymous09)
