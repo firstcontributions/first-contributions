@@ -1000,6 +1000,7 @@ nowy wpis
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
 - [Roie Scharf](https://github.com/scharf-roie)
 - [Khoaiz](https://github.com/Khoaizahmmed)
+- [Thomas Setchell](https://github.com/TommyS13)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
