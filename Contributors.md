@@ -19,6 +19,7 @@
 - [MrAnonymous09](https://github.com/MrAnonymous09)
 - [Ahmed](https://github.com/yussa01)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
+- [Akshay Kapoor](https://github.com/Akshay-Kapoor)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
