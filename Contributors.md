@@ -2267,6 +2267,7 @@ nowy wpis
 - [Khushi Agarwal] (https://github.com/curriee11)
 - [Ashish Antony Pauly](https://github.com/ashishantonytsr)
 - [Aman Jain](https://github.com/amannayak0007)
+- [P Gautam](https://github.com/pgautam27)
 - [Syariful Msth](https://github.com/SyarifulMsth)
 
 <!-- prettier-ignore-end -->
