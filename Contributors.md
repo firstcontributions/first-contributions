@@ -17,6 +17,7 @@
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
+- [Aditya Phalswal](https://github.com/Adityaphalswal)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)\
@@ -37,6 +38,7 @@
 - [Will Menezes](https://github.com/uiuzih)
 - [Josuan Leonardo](https://github.com/josleonardo)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
+- [Suthar Yash](https://github.com/Yash-suthar)
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
@@ -51,6 +53,7 @@
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Kartik Nandagoan](https://github.com/KartikRN)
+- [Vimal Athithya] ( https://github.com/Vimalathithya007)
 - [Andres Romero](https://github.com/aromero18020)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
@@ -2390,6 +2393,7 @@
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
+- [Deepika Kumari](https://github.com/dips6202)
 
 
 <!-- prettier-ignore-end -->
