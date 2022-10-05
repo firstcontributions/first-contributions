@@ -38,6 +38,7 @@
 - [Hydrotho](https://github.com/hydrotho)
 - [Akhil](https://github.com/AkhilJ321)
 - [akashaw] (https://github.com/akashaw)
+-[Ruchit Raushan](https://github.com/Ruchit1101/first-contributions.git)
 - [HarshVijay](https://github.com/harshvijay63)
 - [Vansh Aggarwal](https://github.com/vansh-agg)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
