@@ -223,6 +223,7 @@
 - [Adeleye Temiloluwa](https://github.com/temiloluwa-js)
 - [Alok Ranjan](https://github.com/arpitmx)
 - [Kishan Modasiya](https://github.com/kishumds)
+- [Minerva Phoenix](https://github.com/Reledia)
 - [Ashvanth.S](https://github.com/ash-01xor)
 - [Imokol Faith Ruth](https://github.com/faithruth)
 - [Rudra Sharma](https://github.com/rudra016)
