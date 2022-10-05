@@ -2409,6 +2409,7 @@
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
+- [Luan Vu](https://github.com/luanvuhlu)
 - [Deepika Kumari](https://github.com/dips6202)
 - [Manish Singh Parihar](https://github.com/Msparihar)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
