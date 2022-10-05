@@ -2389,6 +2389,7 @@
 - [Daniel Freire](https://github.com/proxyanon)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
+- [Jakob Schneider](https://github.com/JSchneids)
 
 
 <!-- prettier-ignore-end -->
