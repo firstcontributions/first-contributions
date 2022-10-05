@@ -30,6 +30,7 @@
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)\
 - [suryakant Dubalgunde] (https://github.com/suryakantdubalgunde)
+- [Lottiecodes] (https://github.com/lottiecodes)
 - [law01f] (httos://github.com/law01f)
 - [Nyanab](https://github.com/Nyanab)
 - [Dhruv] (https://github.com/lumi232)
