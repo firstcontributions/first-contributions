@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
 - [Astha Mishra](https://github.com/asthami)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
