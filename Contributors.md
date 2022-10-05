@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Shrikant Kosariya](https://github.com/shrikant2233)
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
