@@ -25,6 +25,7 @@
 - [Hydrotho](https://github.com/hydrotho)
 - [akashaw] (https://github.com/akashaw)
 - [HarshVijay](https://github.com/harshvijay63)
+- [Vansh Aggarwal](https://github.com/vansh-agg)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Anurag Nayak](https://github.com/Anurag-Nayak)
