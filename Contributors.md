@@ -2331,5 +2331,6 @@ nowy wpis
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
 - [Shagun Rathore](https://github.com/itshagunrathore)
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
+- [Rahul Bisht (https://github.com/RahulBeast195)
 
 <!-- prettier-ignore-end -->
