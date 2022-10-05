@@ -1993,7 +1993,7 @@ nowy wpis
 - [Himanshu aggarwal](https://github.com/himanshuaggar)
 - [Jerik George](https://github.com/jerik2004)
 - [Krishanthan Krishnamoorthy](https://github.com/krish23)
-- [Evwerhamre Calvin](https://www.linkedin.com/in/lalitkrsharma/)
+- [Evwerhamre Calvin](https://https://github.com/CaderC)
 - [Adil khan](https://www.linkedin.com/in/adil-khan-ba65b7229/)
 - [Himanshu Singh](https://github.com/developerhimanshu)
 - [Davendra Bedwal](https://devendra0009.github.io/personal-site/)
