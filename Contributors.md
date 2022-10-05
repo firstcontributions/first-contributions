@@ -2249,5 +2249,6 @@ nowy wpis
 - [Dylan Grijalva [ (https://github.com/dylangrijalva)
 - [Geovani Amaral](https://github.com/iamageo)
 - [Lucas Soares](https://github.com/fbsoares-lu)
-- 
+- [Keith Flynn] (https://github.com/keith-flynn)
+
 <!-- prettier-ignore-end -->
