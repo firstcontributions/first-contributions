@@ -177,7 +177,6 @@ nowy wpis
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
 - [Sahil Kamate](https://github.com/sahilkamate03)
-- [Emore Ogheneyoma Lawrence](https://github.com/devyoma)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
@@ -2066,6 +2065,7 @@ nowy wpis
 - [Harsh Verma](https://github.com/harshverma893)
 - [Anas Qureshi](https://github.com/Anas9764)
 - [Kunal Ladhani](https://github.com/Kunal-Ladhani)
+- [Pooja Mulik](https://github.com/pmulik34)
 - [bikrant mishra}(https://hacktoberfest.com/profile/)
 - [Chaterina M Fransisca](https://github.com/chaterinamf)
 - [Michalis Papamichael]
