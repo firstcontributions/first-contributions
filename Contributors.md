@@ -2358,5 +2358,6 @@ nowy wpis
 - [Shubham Rawat](https://github.com/shubhamrawat090)
 - Harsh(https://github.com/harsh23079)
 - Abhishek(https://github.com/abhishekratnam)
+- [Daniel Freire](https://github.com/proxyanon)
 
 <!-- prettier-ignore-end -->
