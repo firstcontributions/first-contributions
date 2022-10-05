@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Yasrib Proyas](https://github.com/Proyas21)
 - [law01f] (httos://github.com/law01f)
 - [Hydrotho](https://github.com/hydrotho)
 - [HarshVijay](https://github.com/harshvijay63)
@@ -121,6 +122,7 @@ nowy wpis
 - [segoSambel](https://github.com/segoSambel)
 - [JerryCodesAfrica](https://github.com/JerryCodesAfrica)
 - [Aman Punia](https://github.com/m0dulat0r)
+- [Prajukta Dey](https://github.com/prajuktadey)
 - [Gaurav Verma](https://github.com/iisgaurav)
 - [Thanmai Sai](https://github.com/thanmaisai)
 - [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
@@ -2287,5 +2289,6 @@ nowy wpis
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
 - [Sadrealam Ahmed](https://github.com/sadre1)
+- [Brunda](https://github.com/brundabharadwaj)
 
 <!-- prettier-ignore-end -->
