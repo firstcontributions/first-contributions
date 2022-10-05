@@ -2290,5 +2290,5 @@ nowy wpis
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
 - [Brunda](https://github.com/brundabharadwaj)
-
+- [Wesley Fuchs](https://github.com/wesleyfuchs)
 <!-- prettier-ignore-end -->
