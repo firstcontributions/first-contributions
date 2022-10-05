@@ -248,6 +248,7 @@
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
 - [Ayush Kanduri](https://github.com/Ayush-Kanduri)
+- [tht-jxny](https://github.com/tht-jxny)
 - [AntVena](https://github.com/AntVena)
 - [Sofiyan Syed](https://github.com/IamSofiyan)
 - [Abhishek Kumar](https://github.com/abhishek-kumaraj)
