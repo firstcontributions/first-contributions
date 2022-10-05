@@ -84,6 +84,7 @@ nowy wpis
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
+- [George Ruellan](https://github.com/gruellan)
 - [vinay boyat](https://github.com/VINAYBOYAT11)
 - [Krunal Kharat](https://github.com/KrunalKharat02)
 - [Prabhat Edupuganti](https://github.com/prabhate)
