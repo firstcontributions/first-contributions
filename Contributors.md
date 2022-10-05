@@ -825,7 +825,6 @@ nowy wpis
 - [Nakul Gupta](https://github.com/nakul010)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
-- [Ritik Prabhat] (https://github.com/ritik-prabhat)
 - [Drake Buentello](https://github.com/DrakeB1234)
 - [Omar Sarfraz](https://github.com/omar-sarfraz)
 - [Lea Lang](https://github.com/Leaxlang)
@@ -2291,5 +2290,5 @@ nowy wpis
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
 - [Brunda](https://github.com/brundabharadwaj)
-
+- [Harsh Userethe](https://github.com/HarshUserethe)
 <!-- prettier-ignore-end -->
