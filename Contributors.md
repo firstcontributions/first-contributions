@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Carter Rogers](https://github.com/Carter-Rogers)
+- [Michael Orizano](https://github.com/MaickolO)
 - [Lian](https://github.com/liulian1004)
 - [Ritesh](https://github.com/15912315)
 - [Parmar Kirti](https://github.com/kirti36)
