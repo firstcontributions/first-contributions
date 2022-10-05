@@ -98,6 +98,7 @@ nowy wpis
 - [kostas Vitiniotis](https://github.com/kostisvit)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
+- [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
 - [George Tzinetas](https://github.com/kriminals)
