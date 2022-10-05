@@ -1093,6 +1093,7 @@ nowy wpis
 - [Wayne Watson](https://github.com/grifway)
 - [Laisa Carmo](https://github.com/laisacsts)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
+- [Sonal Maurya ](https://github.com/Sonal-Mauya)
 - [Mick Meighan(https://github.com/gatters)
 - [Asma](https://github.com/asma-mughal)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
