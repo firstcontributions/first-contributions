@@ -50,7 +50,7 @@
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
-nowy wpis
+- [Shashank Shukla](https://github.com/Sshashank0743)
 - [Wayne Miles] (https://github.com/WayneMilesIII)
 -[Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Harsh Pathak](https://github.com/harshpathakzz)
