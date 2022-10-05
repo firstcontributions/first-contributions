@@ -5,6 +5,7 @@
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
+- [Vikash Patel](https://github.com/its-red-eagle)
 - [law01f] (httos://github.com/law01f)
 - [Hydrotho](https://github.com/hydrotho)
 - [HarshVijay](https://github.com/harshvijay63)
