@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Shrikant Kosariya](https://github.com/shrikant2233)
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
@@ -15,7 +16,9 @@
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
 - [Hari Prasad](https://github.com/hariprasd)
+- [Kartheek Tammana](https://github.com/kst164)
 - [MrAnonymous09](https://github.com/MrAnonymous09)
+- [Ahmed](https://github.com/yussa01)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Sreenath Sharma](https://github.com/sreenath707)
@@ -29,6 +32,7 @@
 - [law01f] (httos://github.com/law01f)
 - [Nyanab](https://github.com/Nyanab)
 - [Dhruv] (https://github.com/lumi232)
+- [Chris] (https://github.com/chickenCHRISpy)
 - [Alonso Tigerheart] (https://github.com/ezez1237)
 - [Bharti Patel](https://github.com/Indiana-S-coder)
 - [DataDaimon] (https://github.com/DataDaimon)
@@ -36,6 +40,7 @@
 - [Hydrotho](https://github.com/hydrotho)
 - [Akhil](https://github.com/AkhilJ321)
 - [akashaw] (https://github.com/akashaw)
+-[Ruchit Raushan](https://github.com/Ruchit1101/first-contributions.git)
 - [HarshVijay](https://github.com/harshvijay63)
 - [Vansh Aggarwal](https://github.com/vansh-agg)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
@@ -2406,7 +2411,10 @@
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
+- [Luan Vu](https://github.com/luanvuhlu)
 - [Deepika Kumari](https://github.com/dips6202)
+- [Manish Singh Parihar](https://github.com/Msparihar)
+- [Wissam Fawaz](https://github.com/wissamfawaz)
 - [Akash Sancheti](https://github.com/Akash1105)
 
 <!-- prettier-ignore-end -->
