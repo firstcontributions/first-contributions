@@ -15,6 +15,7 @@
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
+- [Aditya Phalswal](https://github.com/Adityaphalswal)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)\
