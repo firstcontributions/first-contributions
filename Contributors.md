@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Hari Prasad](https://github.com/hariprasd)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
