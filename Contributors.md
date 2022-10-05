@@ -9,7 +9,6 @@
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
-- [Waqar Shahbaz](https://github.com/waqarshahbaz)
 - [Nathan Speich](https://github.com/nathanspeich)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
@@ -2406,6 +2405,7 @@
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Deepika Kumari](https://github.com/dips6202)
+- [Nikita Koselev](https://github.com/nikitakoselev)
 
 
 <!-- prettier-ignore-end -->
