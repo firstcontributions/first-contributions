@@ -7,6 +7,7 @@
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)
 - [law01f] (httos://github.com/law01f)
+- [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
 - [HarshVijay](https://github.com/harshvijay63)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
