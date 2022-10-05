@@ -36,6 +36,7 @@
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
+- [Pratheeksha R](https://github.com/035pratheeksha)
 - [Someshfengde](https://github.com/someshfengde)
 - [Sohan-Mishra](https://github.com/Hansolo1103)
 - [Karim](https://github.com/abkarim)
