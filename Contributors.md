@@ -2411,6 +2411,7 @@
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Deepika Kumari](https://github.com/dips6202)
 - [Manish Singh Parihar](https://github.com/Msparihar)
+- [Wissam Fawaz](https://github.com/wissamfawaz)
 
 
 <!-- prettier-ignore-end -->
