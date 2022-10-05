@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Payal Jain](https://github.com/payal1206)
 - [Hari Prasad](https://github.com/hariprasd)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
