@@ -16,6 +16,7 @@
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
 - [Hari Prasad](https://github.com/hariprasd)
+- [Kartheek Tammana](https://github.com/kst164)
 - [MrAnonymous09](https://github.com/MrAnonymous09)
 - [Ahmed](https://github.com/yussa01)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
