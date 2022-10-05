@@ -60,6 +60,7 @@ nowy wpis
 - [Vineet Singh](https://github.com/vineet221713)
 - [Mihir Panchal](https://github.com/MihirRajeshPanchal)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
+- [Saalimon](https://github.com/saalimon)
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Archit Handa](https://github.com/Archit-Handa)
 - [Kinza Malik](https://github.com/Kinzamalik)
