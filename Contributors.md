@@ -2290,6 +2290,7 @@
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
 - [Maksym Sitailo](https://github.com/maxsIT)
+- [Harry Daniels] (https://github.com/harrycs1)
 - [Karan Sharma](https://github.com/karanS08)
 - [Alejandro Garcia](https://github.com/OwboxAl3x)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
