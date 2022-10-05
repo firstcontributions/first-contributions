@@ -2260,5 +2260,6 @@ nowy wpis
 - [Keith Flynn] (https://github.com/keith-flynn)
 - [Andiani Putri] (https://github.com/andianiputri)
 - [Firman] (https://github.com/firmanJS)
+- [Khushi Agarwal] (https://github.com/curriee11)
 
 <!-- prettier-ignore-end -->
