@@ -78,6 +78,7 @@ nowy wpis
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [Krunal Kharat](https://github.com/KrunalKharat02)
 - [Prabhat Edupuganti](https://github.com/prabhate)
+- [Prince Kumar Sahni](https://github.com/mrprince123)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
