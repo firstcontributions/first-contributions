@@ -2265,7 +2265,6 @@ nowy wpis
 - [Geovani Amaral](https://github.com/iamageo)
 - [Lucas Soares](https://github.com/fbsoares-lu)
 - [Keith Flynn] (https://github.com/keith-flynn)
--[Tanu Soni](https://github.com/tanus786)
 - [Andiani Putri] (https://github.com/andianiputri)
 - [Firman] (https://github.com/firmanJS)
 - [Khushi Agarwal] (https://github.com/curriee11)
@@ -2276,4 +2275,6 @@ nowy wpis
 - [Muhammad Talha Khan](https://github.com/muhtalhakhan)
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
+- [Tanu Soni](https://github.com/tanus786)
+
 <!-- prettier-ignore-end -->
