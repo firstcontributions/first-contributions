@@ -27,7 +27,7 @@
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
-  nowy wpis
+nowy wpis
 - [Wayne Miles] (https://github.com/WayneMilesIII)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
