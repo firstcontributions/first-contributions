@@ -32,6 +32,7 @@
 - [Winay Gupta](https://github.com/WinayGupta777)
 - [Supratik Dutta](https://github.com/SuproCodes)
 - [Adrita Chakraborty](https://github.com/AD-2409)
+- [Atish Shah](https://github.com/Atish03)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
