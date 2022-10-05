@@ -2329,6 +2329,7 @@
 - [Phong Pham](https://github.com/phongpv)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Ishabh Thakur](https://github.com/ishabhthakur)
+- [Siddharth Jain](https://github.com/siddharth3108)
 - [Hrushikesh Desai](https://github.com/hrushikeshhd18)
 - [Justin Roy](https://github.com/justin-roy)
 - [Trung Pham](https://github.com/sfnvm)
