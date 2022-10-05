@@ -60,6 +60,7 @@
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
+- [Vandit1920](https://github.iu.edu/vanjain)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Pratheeksha R](https://github.com/035pratheeksha)
 - [Someshfengde](https://github.com/someshfengde)
