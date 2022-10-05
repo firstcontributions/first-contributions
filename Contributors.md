@@ -175,6 +175,7 @@
 - [Anish Kacham](https://github.com/anishKacham)
 - [Ellen Costa-Almeida](https://github.com/e-costalmeida)
 - [Lena Artinger](https://github.com/lenaArtinger)
+- [Bhagirath Sarvaiya](https://github.com/bhagirath77)
 - [Caio Pereira Rodrigues](https://github.com/caioprodrigues)
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
 - [Manjot Singh](https://github.com/ManjotCodes)
