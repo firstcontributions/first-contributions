@@ -2329,6 +2329,7 @@
 - [Fajril Pratama](https://github.com/zapellass123)
 - [Rochi Eko Pambudi](https://github.com/rochiekop)
 - [Prasetyo Yudho](https://github.com/prasetyoyudo)
+- [Cindy Lam](https://github.com/ngl4)
 - [Ikrom Syadzali](https://github.com/ikromxyz)
 - [Phong Pham](https://github.com/phongpv)
 - [Sahil Thakur](https://github.com/Blacklight34)
