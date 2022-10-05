@@ -2407,6 +2407,6 @@
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Deepika Kumari](https://github.com/dips6202)
-
+- [Akash Sancheti](https://github.com/Akash1105)
 
 <!-- prettier-ignore-end -->
