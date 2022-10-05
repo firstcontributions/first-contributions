@@ -2184,6 +2184,7 @@
 - [Vagdevi Surarapu](https://github.com/Vagdevi007)
 - [shivam](https://github.com/shivam-cse)
 - [Ayush Srivastava](https://github.com/ayushsinha30)
+- [Krishna Singh](https://github.com/kk5190)
 - [Zameel Hassan](https://github.com/zameel7)
 - [ndthanhdev](https://github.com/ndthanhdev)
 - [Ansh Sahu](https://github.com/Anshsahu0802)
@@ -2359,5 +2360,6 @@
 - Harsh(https://github.com/harsh23079)
 - Abhishek(https://github.com/abhishekratnam)
 - [Daniel Freire](https://github.com/proxyanon)
+
 
 <!-- prettier-ignore-end -->
