@@ -49,6 +49,7 @@ nowy wpis
 - [laila van rooijen] (https://github.com/Lailaismyname)
 - [Aryan Inani](https://github.com/Adeptus123)
 - [larry Xue](https://github.com/larry-xue)
+  Anurag kataria
 - [Abhishek Anuj](https://github.com/abhishekanuj26)
 - [Kapil Kunwar](https://github.com/undef125)
 - [Vipin Pathak](https://github.com/vipin018)
