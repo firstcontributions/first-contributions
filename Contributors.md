@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+
 - [Hari Prasad](https://github.com/hariprasd)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
@@ -43,7 +45,7 @@
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
-nowy wpis
+  nowy wpis
 - [Wayne Miles] (https://github.com/WayneMilesIII)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
@@ -91,7 +93,7 @@ nowy wpis
 - [Krunal Kharat](https://github.com/KrunalKharat02)
 - [Prabhat Edupuganti](https://github.com/prabhate)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
--[Sarfraz Hussain](https://github.com/Sarfraz21)
+  -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
 - [Saurabh Kumar](https://github.com/Saurabh-2809)
@@ -270,14 +272,13 @@ nowy wpis
 - [Suchita Soni](https://github.com/suchitasoni)
 - [Alejandro Armenta](https://github.com/alexanderNWO)
 - [Leonardo Borges](https://github.com/xisvaldo)
-- [Ainsof So'o](https://github.com/ainsofs)
+- [Ainsof So&#39;o](https://github.com/ainsofs)
 - [kuldeep singh](https://github.com/Kdsingh333)
 - [Fuzelmd](https://github.com/fuzelmd)
 - [Abhiyan Dev Rimal](https://github.com/abhirimal)
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Rohini Patil](https://github.com/rohinipatil89)
-
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Sriram M](https://github.com/msris108)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
@@ -557,7 +558,7 @@ nowy wpis
 - [Pavitha Pichaimani](https://github.com/pavithapichai)
 - [amchatman](https://github.com/amchatman)
 - [Kunal Sachdeva](https://github.com/slanuk)
-- [Hussain Lohawala :heart: :heart: :heart:](https://github.com/H9660)
+- [Hussain Lohawala ❤️ ❤️ ❤️](https://github.com/H9660)
 - [J. Antonio García-Ramírez](https://github.com/fou-foo)
 - [Nihal soni](https://github.com/nihal-soni)
 - [Rajesh Kumar Singh](https://github.com/NutNick31)
@@ -593,7 +594,7 @@ nowy wpis
 - [Jericho &#39;monciego&#39; Bantiquete](https://github.com/monciego)
 - [Chad Perry](https://github.com/clewisperry)
 - [Hemant Maurya](https://github.com/hemantmaurya344)
--[Saurabh Shukla](https://github.com/Saurabh13042004)
+  -[Saurabh Shukla](https://github.com/Saurabh13042004)
 - [Marion Judy](https://github.com/marionjudy13)
 - [Imam Suyuti](https://github.com/imams12)
 - [Ansh Goyal](https://github.com/Ansh1693)
@@ -904,7 +905,7 @@ nowy wpis
 - [Imran Biswas]
 - [Asyraf Mustaqim]
 - [sahil](https://github.com/thesloppyguy)
--[Imran Rehman](https://github.com/imranrehman-it)
+  -[Imran Rehman](https://github.com/imranrehman-it)
 - [Pete McMahon]
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
@@ -2207,7 +2208,7 @@ nowy wpis
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
-= [Fighter-007](https://github.com/Fighter-007)
+  = [Fighter-007](https://github.com/Fighter-007)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Abhishek Kumar](https://github.com/shangchi9)
 - [elchmuetze](https://github.com/elchmuetze)
@@ -2300,7 +2301,7 @@ nowy wpis
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
-- [victhupy] (https://github.com/victhupy) 
+- [victhupy] (https://github.com/victhupy)
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [CarOL](https://github.com/hx-w)
@@ -2333,5 +2334,7 @@ nowy wpis
 - [Shagun Rathore](https://github.com/itshagunrathore)
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
 - [Rahul Bisht (https://github.com/RahulBeast195)
+- [kuya-false](https://github.com/paulcedo)[
+  ]()
 
 <!-- prettier-ignore-end -->
