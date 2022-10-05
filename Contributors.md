@@ -15,6 +15,7 @@
 - [law01f] (httos://github.com/law01f)
 - [Nyanab](https://github.com/Nyanab)
 - [Alonso Tigerheart] (https://github.com/ezez1237)
+- [Bharti Patel](https://github.com/Indiana-S-coder)
 - [DataDaimon] (https://github.com/DataDaimon)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
