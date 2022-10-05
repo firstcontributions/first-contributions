@@ -2344,6 +2344,8 @@
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
+- [V R Haridas](https://github.com/Haridasvr)
+- [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
 - [Trina Ngo] (https://github.com/thngo2)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
