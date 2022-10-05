@@ -2369,6 +2369,7 @@
 - Harsh(https://github.com/harsh23079)
 - Abhishek(https://github.com/abhishekratnam)
 - [Daniel Freire](https://github.com/proxyanon)
+- [Macho Maheen](https://github.com/MachoMaheen)
 
 
 <!-- prettier-ignore-end -->
