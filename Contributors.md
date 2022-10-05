@@ -8,6 +8,7 @@
 - [Vikash Patel](https://github.com/its-red-eagle)
 - [law01f] (httos://github.com/law01f)
 - [Hydrotho](https://github.com/hydrotho)
+- [akashaw] (https://github.com/akashaw)
 - [HarshVijay](https://github.com/harshvijay63)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
