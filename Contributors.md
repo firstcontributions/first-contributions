@@ -106,6 +106,7 @@
 - [Tahalu Indo](https://github.com/tahaluindo)
 - [Archit Handa](https://github.com/Archit-Handa)
 - [Kinza Malik](https://github.com/Kinzamalik)
+- [Adam Stelmach](https://github.com/sAdamingo)
 - [Shreyam Gupta](https://github.com/shreyamG)
 - [Gitanjali Gore](https://github.com/gitssz)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
