@@ -6,6 +6,7 @@
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
+- [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
