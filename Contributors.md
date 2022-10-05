@@ -2275,5 +2275,6 @@ nowy wpis
 - [Muhammad Talha Khan](https://github.com/muhtalhakhan)
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
+- [Tanu Soni](https://github.com/tanus786)
 
 <!-- prettier-ignore-end -->
