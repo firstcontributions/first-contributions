@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Will Menezes](https://github.com/uiuzih)
 - [Vicky](https://github.com/HungryVicky)
 - [JpArango](https://github.com/Jpkeys29)
 - [Karim](https://github.com/abkarim)
