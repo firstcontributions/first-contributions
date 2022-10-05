@@ -23,6 +23,7 @@
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Someshfengde](https://github.com/someshfengde)
 - [Karim](https://github.com/abkarim)
+- [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Andres Romero](https://github.com/aromero18020)
