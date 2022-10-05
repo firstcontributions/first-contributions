@@ -5,6 +5,7 @@
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
+- [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
