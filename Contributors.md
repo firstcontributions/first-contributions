@@ -1206,6 +1206,7 @@ nowy wpis
 - [Leander Sannesmoen](https://github.com/leander-sannesmoen)
 - [Mattazz](https://github.com/mattazz)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
+- [Lam Phan](https://github.com/lamphan129)
 - [Mohammad Arwani](https://github.com/m7md-arwani)
 - [Musaddiq Ashfaq](http://github.com/musaddiq-ashfaq)
 - [Wasim Algamal](https://github.com/walgamal)
