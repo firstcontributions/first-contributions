@@ -309,6 +309,7 @@
 - [Adith Ziva](https://github.com/adithziva)
 - [Bilal Iqbal](https://github.com/bilaliqbal1)
 - [Soumyajit Brahma](https://github.com/cleverhare)
+- [Vaibhav Kumar](https://github.com/vaibhavkumar779)
 - [Mukhesh Babu Yaddanapudi](https://github.com/MukheshBabu)
 - [Ritesh](https://github.com/15912315)
 - [Parmar Kirti](https://github.com/kirti36)
