@@ -26,6 +26,7 @@
 - [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
+- [Kartik Nandagoan](https://github.com/KartikRN)
 - [Andres Romero](https://github.com/aromero18020)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
