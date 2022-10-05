@@ -137,6 +137,7 @@ nowy wpis
 - [Shanmukh Sai Madhu](https://github.com/ShanmukhSaiMadhu)
 - [Yash Chowdhury](https://github.com/xinkin)
 - [Pushkar Ambastha](https://github.com/Pushkar1853)
+- [Praneesh Sharma](https://github.com/Praneesh-Sharma)
 - [Vedha Vikash](https://github.com/vedha-vikash-pixel)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
 - [Praise Adegoke](https://github.com/praiseadegokee)
