@@ -2362,6 +2362,6 @@
 - Harsh(https://github.com/harsh23079)
 - Abhishek(https://github.com/abhishekratnam)
 - [Daniel Freire](https://github.com/proxyanon)
-
+- [David Ramirez](https://github.com/dave-ramirez)
 
 <!-- prettier-ignore-end -->
