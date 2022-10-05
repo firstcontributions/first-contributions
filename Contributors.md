@@ -176,6 +176,7 @@ nowy wpis
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
 - [Sahil Kamate](https://github.com/sahilkamate03)
+- [Emore Ogheneyoma Lawrence](https://github.com/devyoma)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
