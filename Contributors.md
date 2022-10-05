@@ -13,6 +13,7 @@
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
+- [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Karim](https://github.com/abkarim)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
@@ -23,18 +24,20 @@
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
 - [Faiyaaz Haque] (https://github.com/FaiyaazHawk)
 - [Winay Gupta](https://github.com/WinayGupta777)
+- [Supratik Dutta](https://github.com/SuproCodes)
+- [Adrita Chakraborty](https://github.com/AD-2409)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
-nowy wpis
 - [Wayne Miles] (https://github.com/WayneMilesIII)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
 - [Praveen Chandra](https://github.com/praveenchandra01)
+- [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Ben Flatau](https://github.com/bflatau)
@@ -327,6 +330,7 @@ nowy wpis
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
 - [Prasath DV](https://github.com/Prasathdv)
 - [vaishnav vijayan](https://github.com/vaishnav-vijayan)
+- [Vamsi Dhananjay](https://github.com/vamsi-dhananjay)
 - [Fariawillyan](https://github.com/Fariawillyan)
 - [Livisha Jain](https://github.com/livisha)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
@@ -824,6 +828,7 @@ nowy wpis
 - [Nakul Gupta](https://github.com/nakul010)
 - [Erfan Razi](https://github.com/erfanrazi)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
+- [Ritik Prabhat] (https://github.com/ritik-prabhat)
 - [Drake Buentello](https://github.com/DrakeB1234)
 - [Omar Sarfraz](https://github.com/omar-sarfraz)
 - [Lea Lang](https://github.com/Leaxlang)
@@ -873,6 +878,7 @@ nowy wpis
 - [Imran Biswas]
 - [Asyraf Mustaqim]
 - [sahil](https://github.com/thesloppyguy)
+-[Imran Rehman](https://github.com/imranrehman-it)
 - [Pete McMahon]
   [vishal kumar(vishu)]
 - [Joel Maldonado-Ruiz](https://github.com/joelmaldonadoruiz)
