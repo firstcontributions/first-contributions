@@ -2329,5 +2329,6 @@ nowy wpis
 - [Jonathan Stallard](https://github.com/stallardjw)
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
 - [Shagun Rathore](https://github.com/itshagunrathore)
+- [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
 
 <!-- prettier-ignore-end -->
