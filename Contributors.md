@@ -15,7 +15,8 @@
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
-- [Vikash Patel](https://github.com/its-red-eagle)
+- [Vikash Patel](https://github.com/its-red-eagle)\
+- [suryakant Dubalgunde] (https://github.com/suryakantdubalgunde)
 - [law01f] (httos://github.com/law01f)
 - [Nyanab](https://github.com/Nyanab)
 - [Alonso Tigerheart] (https://github.com/ezez1237)
