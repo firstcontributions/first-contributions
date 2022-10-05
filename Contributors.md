@@ -97,6 +97,7 @@ nowy wpis
 - [Krunal Kharat](https://github.com/KrunalKharat02)
 - [Prabhat Edupuganti](https://github.com/prabhate)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
+- [Somtochukwu Nwosu] (https://github.com/SomyN)
 -[Sarfraz Hussain](https://github.com/Sarfraz21)
 - [Amar Molinas](https://github.com/aemolinas)
 - [Sudipto Das](https://github.com/Sudip200)
