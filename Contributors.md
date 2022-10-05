@@ -519,7 +519,7 @@
 - [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - Kipkoech Sang
-- [Isaac Montenegro] (https://github.com/Isaac-M-M)
+- [Isaac Montenegro](https://github.com/Isaac-M-M)
 - [Morii Shikaa](https://github.com/moriishika)
 - [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
@@ -696,7 +696,7 @@
 - [Sayan Roy](https://github.com/D3FaltXD)
 - [Dimterion](https://github.com/Dimterion)
 - [Faraz Ahmed](https://github.com/GeekkyCoder)
-- [Muhammad Waqar] (https://github.com/muhammadwaqar12)
+- [Muhammad Waqar](https://github.com/muhammadwaqar12)
 - [Utkarsh Ambetkar](https://github.com/UTKARSH552)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
@@ -2407,6 +2407,7 @@
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Deepika Kumari](https://github.com/dips6202)
+- [Idrak Sheikh](https://github.com/idraksheikh)
 
 
 <!-- prettier-ignore-end -->
