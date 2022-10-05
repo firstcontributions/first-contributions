@@ -4,6 +4,7 @@
 collins kiplangat mutai(Kiplaacollo)
 - [Will Menezes](https://github.com/uiuzih)
 - [Vicky](https://github.com/HungryVicky)
+- [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
 - [Karim](https://github.com/abkarim)
 - [Abhishek Pandey](https://github.com/bird-03)
