@@ -198,6 +198,7 @@
 - [Lena Artinger](https://github.com/lenaArtinger)
 - [Bhagirath Sarvaiya](https://github.com/bhagirath77)
 - [Caio Pereira Rodrigues](https://github.com/caioprodrigues)
+- [Rishma Sankarbabu](https://github.com/Rishma-SK)
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Ravi Kumar](https://github.com/ravi9083)
