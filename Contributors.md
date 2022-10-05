@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
