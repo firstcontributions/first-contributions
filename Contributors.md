@@ -2075,6 +2075,7 @@ nowy wpis
 - [Himanshu Singh](https://github.com/developerhimanshu)
 - [Davendra Bedwal](https://devendra0009.github.io/personal-site/)
 - [NVRaghuCharan](https://github.com/Raghucharan16)
+- [Shreya Jha](https://github.com/shreyajha2410)
 - [Lalit Kumar Sharma](https://www.linkedin.com/in/lalitkrsharma/)
 - [Sudhir Sharma](https://github.com/Sudhir878786?tab=overviews)
 - [Adarsh Jaiswal](https://github.com/coder-dash23)
