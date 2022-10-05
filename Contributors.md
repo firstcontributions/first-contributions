@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Shrikant Kosariya](https://github.com/shrikant2233)
