@@ -2252,5 +2252,6 @@ nowy wpis
 - [Geovani Amaral](https://github.com/iamageo)
 - [Lucas Soares](https://github.com/fbsoares-lu)
 - [Keith Flynn] (https://github.com/keith-flynn)
+- [Andiani Putri] (https://github.com/andianiputri)
 
 <!-- prettier-ignore-end -->
