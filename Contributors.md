@@ -2286,5 +2286,6 @@ nowy wpis
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
+- [Utkarsh_Pachapande](https://github.com/utkarsh222004)
 
 <!-- prettier-ignore-end -->
