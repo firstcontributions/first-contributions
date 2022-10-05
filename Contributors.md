@@ -410,6 +410,7 @@ nowy wpis
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
 - [hekaton80](https://github.com/hekaton80)
 - [rokiszb](https://github.com/rokiszb)
+- [prabhat7k](https://github.com/prabhat7k)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Chibogu Chisom](https://github.com/raeeceip)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
