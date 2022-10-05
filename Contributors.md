@@ -126,6 +126,7 @@ nowy wpis
 - [Koty Stannard](https://github.com/k-stannard)
 - [Anish Kacham](https://github.com/anishKacham)
 - [Ellen Costa-Almeida](https://github.com/e-costalmeida)
+- [Lena Artinger](https://github.com/lenaArtinger)
 - [Caio Pereira Rodrigues](https://github.com/caioprodrigues)
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
 - [Manjot Singh](https://github.com/ManjotCodes)
@@ -2322,4 +2323,6 @@ nowy wpis
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Jonathan Stallard](https://github.com/stallardjw)
 - [Khush Sachdeva](https://github.com/khush3211)
+- [Jaideep Ahluwalia](https://github.com/Jaideep12)
+
 <!-- prettier-ignore-end -->
