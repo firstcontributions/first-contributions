@@ -4,7 +4,7 @@
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
-- [Shubham Kondekar](https://github.com/kondekarshubham123)
+- [Shivani Saraswat](https://github.com/shivani1706)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
