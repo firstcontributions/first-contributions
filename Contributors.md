@@ -947,6 +947,7 @@
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
 - [Neha Muthreja](https.//github.com/neha0003)
+- [Nick Dalby](https://github.com/Nick-Dalby)
 - [Yahya Abdul Majeed](https://github.com/yahya-abdul-majeed)
 - [Vidya Jejurkar](https://github.com/vidyajejurkar)
 - [Ashfaq Hussain Ahmed](https://github.com/ashfaqshuvo007)
