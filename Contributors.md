@@ -2492,6 +2492,7 @@
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [Priyanshu Kumar Choubey](https://github.com/PriyanshuKumarChoubey)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
+- [kaushal karkar](https://github.com/kaushalkarkar)
 - [Bhavna Mogha](https://github.com/BhavnaMogha)
 - [c1sc0](https://github.com/c1sc0)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
