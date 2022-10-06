@@ -2502,6 +2502,6 @@
 - [Krishna Mundada](https://github.com/krishna050702)
 - [Chinmaya Nayak](https://github.com/ChinmayaNayak21)
 - [Yandi Fenanda](https://github.com/yandiio)
+- [Swati Kumari](https://github.com/SWATI3125)
 - [Sakal Mon](https://github.com/sakalmon)
-- [Jonatan Teofilus](https://github.com/anonimak)
 <!-- prettier-ignore-end -->
