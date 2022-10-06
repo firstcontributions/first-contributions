@@ -2296,6 +2296,7 @@
 - [Pranav arora](https://github.com/pranavintech)
 - [Safal Koirala](https://github.com/SafalKoirala)
 - [Kushagra Agrawal](https://github.com/Kushagra-a)
+- [Anuj Mishra](https://github.com/Anujmishra2005)
 - [Akshay Khale](https://github.com/akshaykhale1992)
 - [zsMoonshine](https://github.com/zsMoonshine)
 - [Anuj Mishra](https://github.com/Anujmishra2005)
