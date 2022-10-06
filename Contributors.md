@@ -260,7 +260,6 @@
 
 - [George Tzinetas](https://github.com/kriminals)
 - [Abhishek Aute](https://github.com/Abhi2820)
-- [Pushkar Roy](https://github.com/roy2pushkar)
 - [Md Danish Jamal](https://github.com/imdj6)
 - [Ved Prakash Nautiyal](https://github.com/vedprakashnautiyal)
 - [Deepak Krishnaa Govindarajan](https://github.com/deepakkrish212)
@@ -2658,6 +2657,8 @@
 - [David Ramirez](https://github.com/dave-ramirez)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
+- [Deepika Kumari](https://github.com/dips6202)
+- [Tanmay](https://github.com/Tanmay-byte)
 - [Isha Bhutto](https://github.com/ishabhutto)
 - [Lalit Chaudhary](https://github.com/codelalit007)
 - [Jakob Schneider](https://github.com/JSchneids)
