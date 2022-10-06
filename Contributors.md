@@ -2517,6 +2517,7 @@
 - [Bagus Tasuru](https://github.com/bagustasuru)
 - [Silverhand](https://github.com/silverhand7)
 - [Krishna Mundada](https://github.com/krishna050702)
+- [Lokesh Malviya](https://github.com/Lokesh-malviya)
 - [Chinmaya Nayak](https://github.com/ChinmayaNayak21)
 - [Yandi Fenanda](https://github.com/yandiio)
 - [Sakal Mon](https://github.com/sakalmon)
