@@ -2738,4 +2738,5 @@
 - [Amit Deshwal](https://github.com/amit-deshwal)
 - [Divyanshu Chaurasiya](https://github.com/Divyanshu960)
 - [Rahul chowdary](https://github.com/rahul-erc)
+- [Bindu Hite](https://github.com/bindu-07)
 <!-- prettier-ignore-end -->
