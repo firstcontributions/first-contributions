@@ -2420,6 +2420,7 @@
 - [Karan Sharma](https://github.com/karanS08)
 - [Alejandro Garcia](https://github.com/OwboxAl3x)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
+- [Chirayu Gupta](https://github.com/ChirayuGupta2003)
 - [Kshitiz Tayal](https://github.com/KshitizTayal)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Siddhant Kumar](https://github.com/Siddhant87)
