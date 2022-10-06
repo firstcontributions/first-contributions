@@ -2569,4 +2569,5 @@
 - [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
 - [Rahul Singh](https://github.com/rahuldhirendersingh)
 - [Cindy Um](https://github.com/CindyU-beep)
+- [Sebin CM](https://github.com/sebzz2k2)
 <!-- prettier-ignore-end -->
