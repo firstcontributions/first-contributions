@@ -2499,4 +2499,5 @@
 - [Silverhand](https://github.com/silverhand7)
 - [Krishna Mundada](https://github.com/krishna050702)
 - [Chinmaya Nayak](https://github.com/ChinmayaNayak21)
+- [Yandi Fenanda](https://github.com/yandiio)
 <!-- prettier-ignore-end -->
