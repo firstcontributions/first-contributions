@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Patil 2104](https://github.com/patil2104)
 - [Avicii_029](https://github.com/avicii029)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
