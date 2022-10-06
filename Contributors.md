@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Patil 2104](https://github.com/patil2104)
 - [Avicii_029](https://github.com/avicii029)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
 - [Yashaswini Shivathaya](https://github.com/y-ashaswini)
