@@ -2069,6 +2069,7 @@
 - [Dherya Rana](https://gthub.com/ranaDherya)
 - [Archit Jain](https://github.com/architjain2002)
 - [Manish Kumar](https://youtube.com/ytanonymousbunny)
+- [Stef Schulz](https://github.com/slothsoft)
 - [Gujot Singh](https://github.com/Gur-jot)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
