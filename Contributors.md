@@ -2522,4 +2522,5 @@
 - [Shanu Mishra](https://github.com/Shanu-02)
 - [Yusuf Adefolahan](https://github.com/sanxy)
 - [Dennis Pater](https://github.com/dpater1986)
+- [Videhi Bavishi](https://github.com/VidehiBavishi)
 <!-- prettier-ignore-end -->
