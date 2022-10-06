@@ -2304,6 +2304,7 @@
 - [Steve Nascimento](https://github.com/SteveNascimento)
 - [Akkshat](https://github.com/Akkshat09)
 - [Babyjohn](https://github.com/babyjohndev)
+- [Rohit](https://github.com/xrg360)
 - [vicky](https://github.com/HungryVicky)
 - [Pyi Kyaw](https://github.com/burmanp)
 - [Vagdevi Surarapu](https://github.com/Vagdevi007)
