@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Tieran Dysart](https://github.com/whyyy1)
+- [Siggy73](https://github.com/Siggy73)
 - [Jassim](https://github.com/jazz96)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Sabohat](https://github.com/sabohat)
