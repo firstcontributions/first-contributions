@@ -2430,6 +2430,7 @@
 - [Drian key](https://github.com/Drian-key)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
 - [Tran Minh Thang](https://github.com/mccor2000)
+- [Yuzai Zhou](https://github.com/yuzaii)
 - [Ritesh Kumar](https://github.com/Riteshvs)
 - [Mohit Parmar](https://github.com/mohitparmar1)
 - [Namit Dasappanavar](https://github.com/namit343)
