@@ -4,6 +4,7 @@
 
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Jassim](https://github.com/jazz96)
+- [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Sabohat](https://github.com/sabohat)
 - [Himalaya Pal](https://github.com/palhimalaya)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
