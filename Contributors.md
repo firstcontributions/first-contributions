@@ -366,6 +366,7 @@
 - [Ashish Patel](https://github.com/ashisxcode)
 - [Alexander Ragland](https://github.com/RaglandDev)
 - [Kalyan](https://github.com/ujinikalyan)
+- [Naman Khera](https:github.com/NMN03)
 - [Jayro Gómez](https://github.com/JayroGG)
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
