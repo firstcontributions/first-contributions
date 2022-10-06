@@ -2369,6 +2369,7 @@
 = [Fighter-007](https://github.com/Fighter-007)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Abhishek Kumar](https://github.com/shangchi9)
+- [Harith Laxman](https://github.com/Harith-Laxman)
 - [elchmuetze](https://github.com/elchmuetze)
 - [Aman Kumar](https://github.com/aman-32)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
