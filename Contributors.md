@@ -2360,6 +2360,7 @@
 - [Selma](https://selma.dance)
 - [Jia Jing](https://github.com/jiajing1993)
 - [Erick Sarabia](https://github.com/ericksarabia)
+- [Mateus Bozzi F](https://github.com/Mateus-Bozzi)
 - [Fajril Pratama](https://github.com/zapellass123)
 - [Rochi Eko Pambudi](https://github.com/rochiekop)
 - [Prasetyo Yudho](https://github.com/prasetyoyudo)
