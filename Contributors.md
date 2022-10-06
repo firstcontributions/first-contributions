@@ -2537,7 +2537,7 @@
 - [V R Haridas](https://github.com/Haridasvr)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
-- [Trina Ngo] (https://github.com/thngo2)
+- [Trina Ngo](https://github.com/thngo2)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Shivam Agarwal](https://github.com/leoperd)
 - [Srikanta Sahu](https://github.com/srksre)
