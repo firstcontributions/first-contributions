@@ -2491,4 +2491,5 @@
 - [Dhanush-E](https://github.com/Dhanush-E)
 - [Aditya Mac](https://github.com/GhoulMac)
 - [Anirban Roy](https://github.com/Wrrikk)
+- [Bagus Tasuru](https://github.com/bagustasuru)
 <!-- prettier-ignore-end -->
