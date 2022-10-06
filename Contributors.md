@@ -113,6 +113,7 @@
 - [Vansh Aggarwal](https://github.com/vansh-agg)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
+- [Varun negi](https://github.com/VarunDTU)
 - [Anurag Nayak](https://github.com/Anurag-Nayak)
 - [Will Menezes](https://github.com/uiuzih)
 - [Disha Gupta](https://github.com/Dishag2611)
