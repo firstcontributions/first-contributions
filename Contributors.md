@@ -2488,4 +2488,5 @@
 - [Rodrigoodev](https://github.com/rodrigoodev)
 - [Mateus Bozzi](https://github.com/Mateus-Bozzi)
 - [Dhanush-E](https://github.com/Dhanush-E)
+- [Yash Kumar Sharma](https://github.com/yashsharm884)
 <!-- prettier-ignore-end -->
