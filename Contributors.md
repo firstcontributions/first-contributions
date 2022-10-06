@@ -4,6 +4,7 @@
 
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
+- [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
