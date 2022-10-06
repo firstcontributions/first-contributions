@@ -2494,4 +2494,5 @@
 - [Aditya Mac](https://github.com/GhoulMac)
 - [Anirban Roy](https://github.com/Wrrikk)
 - [Bagus Tasuru](https://github.com/bagustasuru)
+- [Silverhand](https://github.com/silverhand7)
 <!-- prettier-ignore-end -->
