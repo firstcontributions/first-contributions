@@ -2524,4 +2524,5 @@
 - [Yusuf Adefolahan](https://github.com/sanxy)
 - [Dennis Pater](https://github.com/dpater1986)
 - [Videhi Bavishi](https://github.com/VidehiBavishi)
+- [Ash G](https://github.com/stayyFrostyy)
 <!-- prettier-ignore-end -->
