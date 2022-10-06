@@ -2440,6 +2440,7 @@
 - [Patryk Skonieczny] (https://github.com/bmalvo)
 - [Kallyne Layane](https://github.com/hellokallyne)
 - [Kris Mandanka](https://github.com/krismandanka)
+- [Gopal Gupta](https://github.com/Gopal-252)
 - [Shivam Saroj](https://github.com/shivam-saroj)
 - [V R Haridas](https://github.com/Haridasvr)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
