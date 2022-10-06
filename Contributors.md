@@ -186,7 +186,6 @@
 - [Milind Shukla](https://github.com/MILINDSHUKLA)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
-- [Priyam Gupta](https://github.com/Priyam3955)
 - [Harshwardhan Singh] (https://github.com:harsh-ws)
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
@@ -296,8 +295,6 @@
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
-- [Priyansh Maheshwari] (https://github.com/priyanshm07)
-- [Jahnvi ] (https://github.com/jahnvi15/)
 - [syedmohdjawad]  (https://github.com/syedmohdjawad)
 - [Pranav5060] (https://github.com/Pranav5060)
 - [Priyanshu Arora] (https://github.com/priyanshuarora595)
@@ -2634,4 +2631,5 @@
 - [Sebin CM](https://github.com/sebzz2k2)
 - [Avik Kumar Ghosh](https://github.com/avik712)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
+- [Subhash Nimmala](https://github.com/subhash1599)
 <!-- prettier-ignore-end -->
