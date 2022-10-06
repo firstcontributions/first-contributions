@@ -2510,4 +2510,5 @@
 - [Jonatan Teofilus](https://github.com/anonimak)
 - [Girish Jha](https://github.com/DarkShadowKonoha)
 - [Haxor](https://github.com/Haxorleet)
+- [Shruti Garg](https://github.com/gargshruti)
 <!-- prettier-ignore-end -->
