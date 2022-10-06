@@ -14,6 +14,7 @@
 - [Upanshu Kumar](https://github.com/UpanshuKumar)
 - [Vansh Patel] (https://github.com/vansh-patel-8123/)
 - [Tieran Dysart](https://github.com/whyyy1)
+- [Kevin] (https://github.com/ZaBarudo)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Dipesh Patel](https://github.com/Dipesh049)
 - [Siggy73](https://github.com/Siggy73)
