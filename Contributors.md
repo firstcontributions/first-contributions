@@ -63,6 +63,7 @@
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [K. Priyanshu S-M](https://github.com/KPriyanshu-SM)
 - [Payal Jain](https://github.com/payal1206)
+- [Anam](https://github.com/AnamMalikk)
 - [Ali Shakiba](https://github.com/alishakiba)
 - [Nathan Speich](https://github.com/nathanspeich)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
