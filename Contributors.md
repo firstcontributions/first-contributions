@@ -2400,6 +2400,7 @@
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
 - [Maksym Sitailo](https://github.com/maxsIT)
+- [Priyanshu Parth](https://github.com/Priyanshuparth)
 - [Karan Sharma](https://github.com/karanS08)
 - [Alejandro Garcia](https://github.com/OwboxAl3x)
 - [Amisha Prajapati](https://github.com/amisha123prajapati)
