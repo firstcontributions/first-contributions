@@ -45,6 +45,7 @@
 - [Ashish Patel](https://github.com/ashishxcode)
 - [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Hydrotho](https://github.com/hydrotho)
 - [Gabriel Moreira Silva](https://github.com/GabMoreiraSilva)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
@@ -175,7 +176,8 @@
 - [Kunal Kittur](https://github.com/heyyitskk)
 - [Ben Flatau](https://github.com/bflatau)
 - [Chiemela Uzoma](https://github.com/Codesait)
-- [Sowmya sree](https://github.com/sowmyasree33)
+- [Sowmya sree](https://github.com/sowmyas)
+- [Abhishek Chahar](https://github.com/Devil1729)
 - [Md Raashid Hussain](https://github.com/raashid18)
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
