@@ -2418,7 +2418,6 @@
 - [Ulisses Junior](https://github.com/UlissesJunior)
 - [Bastav Choudhury](https://twitter.com/BastavChoudhary?s=09)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
-- [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Salima Rabiu Zubair] (https://github.com/SafeEHA)
 - [Mirza SNR](https://github.com/MirzaSNR)
 - [Ulisses Junior]([https://github.com/UlissesJunior])
@@ -2700,4 +2699,5 @@
 - [Vaibhav Singh Chande](https://github.com/stonedseeker)
 - [HARSHIT SINGH](https://github.com/harshitsingh09)
 - - [Abhishek Singh](https://github.com/01AbhiSingh)
+- [Mayank Agrawal](https://github.com/Mayank30-creator)
 <!-- prettier-ignore-end -->
