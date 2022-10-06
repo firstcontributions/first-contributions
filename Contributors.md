@@ -97,6 +97,7 @@
 - [Alonso Tigerheart] (https://github.com/ezez1237)
 - [Bharti Patel](https://github.com/Indiana-S-coder)
 - [DataDaimon] (https://github.com/DataDaimon)
+- [Lakhwinder-Singh](https://github.com/Lakhwinderr)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
 - [Akhil](https://github.com/AkhilJ321)
