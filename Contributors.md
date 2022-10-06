@@ -127,6 +127,7 @@
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Pratiksha Nigam](https://github.com/Pratiksha71)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
+- [Kanishka Srivastava](https://github.com/kanishkasrivastava)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
 - [Praveen Chandra](https://github.com/praveenchandra01)
