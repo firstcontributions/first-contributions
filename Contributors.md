@@ -2444,6 +2444,7 @@
 - [Patryk Skonieczny] (https://github.com/bmalvo)
 - [Kallyne Layane](https://github.com/hellokallyne)
 - [Kris Mandanka](https://github.com/krismandanka)
+- [Tashfin Shahid](https://github.com/Tashfinz)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Evandro Damaso](https://github.com/dam450)
 - [Divyanshu Shukla](https://github.com/Divyanshu6566)
