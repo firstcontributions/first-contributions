@@ -2497,5 +2497,5 @@
 - [Anirban Roy](https://github.com/Wrrikk)
 - [Bagus Tasuru](https://github.com/bagustasuru)
 - [Silverhand](https://github.com/silverhand7)
-- [Krishna Mundada](https://github.com/krishna050702)
+- [Udit Sangwan](https://github.com/Creder11)
 <!-- prettier-ignore-end -->
