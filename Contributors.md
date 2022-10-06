@@ -8,6 +8,7 @@
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Sabohat](https://github.com/sabohat)
 - [Himalaya Pal](https://github.com/palhimalaya)
+- [Shubham Garg](https://github.com/shubhamgarg1299)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
 - [James Neal](https://github.com/thekingofhyrule)
