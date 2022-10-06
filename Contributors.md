@@ -650,6 +650,8 @@ harsh vijay (https://github.com/harshvijay63)
 - [Rishav kumar](https://github.com/itsrishav17)
 - [Piyush Srivastava](https://github.com/piyush-sri)
 - Kipkoech Sang
+- [Jatin Agarwal](https://github.com/Hyperbolic007)
+- [Morii Shikaa](https://github.com/moriishika
 - [Isaac Montenegro](https://github.com/Isaac-M-M)
 - [Morii Shikaa](https://github.com/moriishika)
 - [Collins Kiprotich Rono](https://github.com/collynce)
