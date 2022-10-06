@@ -351,6 +351,7 @@
 - [Jatin Yadav](https://github.com/iamjatinyadav)
 - [WoodWood](https://github.com/WoodWood1299)
 - [Shamlo](https://github.com/shammlo)
+- [Himesh Parashar](https://github.com/himeshparashar)
 - [Sohini Joarder] (https://github.com/SohinijRover)
 - [Abhishek S G](https://github.com/abhisheksg222)
 - [Riya Gupta](https://github.com/iriyagupta)
