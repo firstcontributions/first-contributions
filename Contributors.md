@@ -2521,4 +2521,5 @@
 - [Shanu Mishra](https://github.com/Shanu-02)
 - [Yusuf Adefolahan](https://github.com/sanxy)
 - [Dennis Pater](https://github.com/dpater1986)
+- [Isaac Martin](https://github.com/issac5693)
 <!-- prettier-ignore-end -->
