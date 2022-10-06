@@ -89,6 +89,8 @@
 - [kusum chowdhury](https://github.com/kusum-chowdhury)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
+- [Edgar Nyandoro](https://github.com/Major2000)
+- [Vikash Patel](https://github.com/its-red-eagle)
 - [Vikash Patel](https://github.com/its-red-eagle)\
 - [suryakant Dubalgunde] (https://github.com/suryakantdubalgunde)
 - [Lottiecodes] (https://github.com/lottiecodes)
