@@ -24,6 +24,7 @@
 - [James Neal](https://github.com/thekingofhyrule)
 - [Astha Mishra](https://github.com/asthami)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
+- [Simply-Sujal](https://github.com/Simply-Sujal)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [Toms Joseph](https://github.com/TomJosephKavalam)
 - [JOY JAIN](https://github.com/joy529)
