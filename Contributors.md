@@ -2606,4 +2606,5 @@
 - [Cindy Um](https://github.com/CindyU-beep)
 - [Sebin CM](https://github.com/sebzz2k2)
 - [Avik Kumar Ghosh](https://github.com/avik712)
+- [Ashutosh Bandooni](https://github.com/coldn00dles)
 <!-- prettier-ignore-end -->
