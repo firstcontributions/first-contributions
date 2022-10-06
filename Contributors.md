@@ -224,6 +224,7 @@
 - [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
 - [Sanjay RB](https://github.com/sanjay-rb)
+- [Rohit Pani](https://github.com/Rkpani05)
 - [Vrutti Patel](https://github.com/vrutti24)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
 - [Ravish Satwani](https://github.com/ravish036)
