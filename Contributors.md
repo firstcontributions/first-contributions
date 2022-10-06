@@ -2513,4 +2513,5 @@
 - [Haxor](https://github.com/Haxorleet)
 - [Shruti Garg](https://github.com/gargshruti)
 - [Zahid Khan](https://github.com/zahidkhan262)
+- [Muhammad Thoyfur](https://github.com/ipungg-junior)
 <!-- prettier-ignore-end -->
