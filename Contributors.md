@@ -64,6 +64,7 @@
 - [K. Priyanshu S-M](https://github.com/KPriyanshu-SM)
 - [Payal Jain](https://github.com/payal1206)
 - [Anam](https://github.com/AnamMalikk)
+- [Priyansh Namdev](https://github.com/Priyansh67)
 - [Ali Shakiba](https://github.com/alishakiba)
 - [Nathan Speich](https://github.com/nathanspeich)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
