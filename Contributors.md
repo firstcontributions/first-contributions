@@ -66,6 +66,7 @@
 - [Adithya S Prabhu] (https://github.com/TectonicSteak)
 -[Ruchit Raushan](https://github.com/Ruchit1101/first-contributions.git)
 - [HarshVijay](https://github.com/harshvijay63)
+- [Faran Mohammad](https://github.com/Faranheit15)
 - [Vansh Aggarwal](https://github.com/vansh-agg)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
 - [Ashutosh Kumar](https://github.com/incognion)
