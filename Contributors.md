@@ -17,6 +17,7 @@
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
 - [VKSK]
+- [raspicorgi](https://github.com/raspicorgi)
 - [Sabohat](https://github.com/sabohat)
 - [Himalaya Pal](https://github.com/palhimalaya)
 - [Shubham Garg](https://github.com/shubhamgarg1299)
