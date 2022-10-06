@@ -22,6 +22,7 @@
 - [Dipesh Patel](https://github.com/Dipesh049)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
 - [Siggy73](https://github.com/Siggy73)
+- [Prajwal Kedari](https://github.com/prajwalkedari)
 - [Jassim](https://github.com/jazz96)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
@@ -196,6 +197,7 @@
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Saalimon](https://github.com/saalimon)
 - [Tahalu Indo](https://github.com/tahaluindo)
+- 
 - [Archit Handa](https://github.com/Archit-Handa)
 - [Kinza Malik](https://github.com/Kinzamalik)
 - [Adam Stelmach](https://github.com/sAdamingo)
