@@ -54,6 +54,7 @@
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
 - [Akhil](https://github.com/AkhilJ321)
+- [Rachana Yeldi](https://github.com/Rachana1104)
 - [akashaw] (https://github.com/akashaw)
 - [Adithya S Prabhu] (https://github.com/TectonicSteak)
 -[Ruchit Raushan](https://github.com/Ruchit1101/first-contributions.git)
