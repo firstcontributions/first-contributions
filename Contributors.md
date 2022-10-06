@@ -2,6 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
+
+- [Jatin Gera] (https://github.com/JatinGera-noob)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
