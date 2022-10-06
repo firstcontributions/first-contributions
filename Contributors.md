@@ -17,6 +17,7 @@
 - [Faris Salman](https://github.com/farissalman12)
 - [Juniela Bautista](https://github.com/ellaiela)
 - [Yash Gupta](https://github.com/YashGupta018)
+- anshika arora
 - [Chengxu Zhang](https://github.com/ChainShoe-Z)
 - [Jitesh Kumar Verma](https://github.com/jitesh1495)
 - [Adam Kraft](https://github.com/adamkraftk)
