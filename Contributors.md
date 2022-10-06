@@ -11,6 +11,7 @@
 - [Shubham Garg](https://github.com/shubhamgarg1299)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
+- [Norbert Majer](https://github.com/azotamiota)
 - [James Neal](https://github.com/thekingofhyrule)
 - [Astha Mishra](https://github.com/asthami)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
