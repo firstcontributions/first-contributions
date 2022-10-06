@@ -2629,7 +2629,6 @@
 - [Deevanshu Kushwah](https://github.com/deevanshu-k)
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
-- [Maxwell Prehoda] (https://github.com/MaxPrehoda)
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
@@ -2657,7 +2656,6 @@
 - [David Ramirez](https://github.com/dave-ramirez)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
-- [Lalit Chaudhary](https://github.com/codelalit007)
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Luan Vu](https://github.com/luanvuhlu)
 - [Deepika Kumari](https://github.com/dips6202)
@@ -2727,5 +2725,5 @@
 - - [Abhishek Singh](https://github.com/01AbhiSingh)
 - [Amit Deshwal](https://github.com/amit-deshwal)
 - [Divyanshu Chaurasiya](https://github.com/Divyanshu960)
-- [Rahul chowdary](https://github.com/rahul-erc)
+- [Avishkar Parab](https://github.com/AvishkarParab)
 <!-- prettier-ignore-end -->
