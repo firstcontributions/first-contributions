@@ -2564,4 +2564,5 @@
 - [Harsh Gupta](https://github.com/HarshGupta74)
 - [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
 - [Rahul Singh](https://github.com/rahuldhirendersingh)
+- [Cindy Um](https://github.com/CindyU-beep)
 <!-- prettier-ignore-end -->
