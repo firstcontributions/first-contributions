@@ -2788,4 +2788,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Bindu Hite](https://github.com/bindu-07)
 - [Diego Ortiz](https://github.com/aceto82)
 - [Sergey Sereda](https://github.com/SergeySereda0218)
+- [Thiago Santana](https://github.com/ThiagoSousaSantana)
 <!-- prettier-ignore-end -->
