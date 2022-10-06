@@ -72,6 +72,7 @@
 - [Priyansh Namdev](https://github.com/Priyansh67)
 - [Ali Shakiba](https://github.com/alishakiba)
 - [Nathan Speich](https://github.com/nathanspeich)
+- [X]
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
 - [Vishal Mishra](https://github.com/vishalaadee)
