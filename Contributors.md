@@ -56,6 +56,7 @@
 - [law01f] (httos://github.com/law01f)
 - [Arya Shakya](https://github.com/Aryashakya)
 - [Nyanab](https://github.com/Nyanab)
+- [Mohit Kumar](https://github.com/iammk31)
 - [Dhruv] (https://github.com/lumi232)
 - [Chris] (https://github.com/chickenCHRISpy)
 - [Alonso Tigerheart] (https://github.com/ezez1237)
