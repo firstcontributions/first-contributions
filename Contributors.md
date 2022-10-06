@@ -302,6 +302,7 @@
 - [Abhishek S G](https://github.com/abhisheksg222)
 - [Riya Gupta](https://github.com/iriyagupta)
 - [Bharath C S](https://github.com/bharath-acchu)
+- [Vivian C] (https://github.com/caoviv)
 - [Robert Theo](https://github.com/robertheo15)
 - [Ashish Patel](https://github.com/ashisxcode)
 - [Alexander Ragland](https://github.com/RaglandDev)
