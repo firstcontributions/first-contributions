@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Akshay Soni](https://github.com/akshaysoni10)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
