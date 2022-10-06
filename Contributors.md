@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Patil 2104](https://github.com/patil2104)
@@ -121,7 +122,6 @@
 - [Someshfengde](https://github.com/someshfengde)
 - [Sohan-Mishra](https://github.com/Hansolo1103)
 - [Karim](https://github.com/abkarim)
-- [Manjot Singh](https://github.com/ManjotCodes)
 - [Varsha Gupta](https://github.com/varsha080)
 - [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Arth Srivastava](https://github.com/ArthSrivastava)
