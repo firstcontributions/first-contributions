@@ -454,7 +454,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Rohini Patil](https://github.com/rohinipatil89)
-
+- [Shreyas prabhu](https://github.com/ShreyasPrabhuCBs).
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Sriram M](https://github.com/msris108)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
@@ -2612,6 +2612,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
+- [victhupy] (https://github.com/victhupy)
 - [victhupy] (https://github.com/victhupy) 
 - [Mohit Prasad] https://github.com/ProgrammerMohit/Website
 - [Max] (https://github.com/datadrivenmax) 
