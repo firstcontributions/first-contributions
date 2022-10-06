@@ -121,6 +121,7 @@
 - [Someshfengde](https://github.com/someshfengde)
 - [Sohan-Mishra](https://github.com/Hansolo1103)
 - [Karim](https://github.com/abkarim)
+- [Manjot Singh](https://github.com/ManjotCodes)
 - [Varsha Gupta](https://github.com/varsha080)
 - [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Arth Srivastava](https://github.com/ArthSrivastava)
