@@ -2257,6 +2257,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Mayur Jethwa](https://github.com/mayyyur)
 - [Peeranut Sueroj](https://github.com/king-peanut)
 - [Dhananjay Dubey](https://github.com/dhananjay15)
+- [PAL](https://github.com/PeaceAtLast)
 - [Agasthi Sankalana](https://github.com/Agasthi98)
 - [Sahil](https://github.com/SahilMadridista)
 - [Mohd khaleeq](https://github.com/Khaleeq01)s
