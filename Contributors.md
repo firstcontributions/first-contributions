@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Yashaswini Shivathaya](https://github.com/y-ashaswini)
 - [Pankaj Chugh](https://github.com/pchugh17)
 - [Vansh Patel] (https://github.com/vansh-patel-8123/)
 - [Tieran Dysart](https://github.com/whyyy1)
