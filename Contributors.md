@@ -2505,4 +2505,5 @@
 - [Yandi Fenanda](https://github.com/yandiio)
 - [Sakal Mon](https://github.com/sakalmon)
 - [Jonatan Teofilus](https://github.com/anonimak)
+- [Girish Jha](https://github.com/DarkShadowKonoha)
 <!-- prettier-ignore-end -->
