@@ -2561,4 +2561,5 @@
 - [Anubhav Gaur](https://github.com/anubhavgaur8)
 - [Bhawin Ameta](https://github.com/bhawinameta)
 - [Harsh Gupta](https://github.com/HarshGupta74)
+- [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
 <!-- prettier-ignore-end -->
