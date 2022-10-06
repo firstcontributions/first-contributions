@@ -12,8 +12,6 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 #### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)*
 
-#### *Gụọ nke a n'asụsụ [ndị ọzọ](translations/Translations.md).*
-
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
