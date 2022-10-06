@@ -4,6 +4,7 @@
 
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Sabohat](https://github.com/sabohat)
+- [Himalaya Pal](https://github.com/palhimalaya)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
 - [Astha Mishra](https://github.com/asthami)
@@ -2499,4 +2500,5 @@
 - [Silverhand](https://github.com/silverhand7)
 - [Udit Sangwan](https://github.com/Creder11)
 - [Krishna Mundada](https://github.com/krishna050702)
+
 <!-- prettier-ignore-end -->
