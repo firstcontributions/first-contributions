@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Vansh Patel] (https://github.com/vansh-patel-8123/)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Siggy73](https://github.com/Siggy73)
