@@ -2629,6 +2629,7 @@
 - [Deevanshu Kushwah](https://github.com/deevanshu-k)
 - [Jakhaxz](https://github.com/Jakhaxz)
 - [Venom] (https://github.com/venom)
+- [Maxwell Prehoda] (https://github.com/MaxPrehoda)
 - [Khánh Pluto](https://github.com/khanh41)
 - [Pratya Than](https://github.com/l0ginp)
 - [Rajath](https://github.com/SilverDragon12)
