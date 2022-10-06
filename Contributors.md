@@ -855,6 +855,7 @@
 - [Ans B ](https://github.com/quarantineBot)
 - [Mario Heredia](https://github.com/parrrrrley)
 - [BaileyMcCauslin](https://github.com/BaileyMcCauslin)
+- [Harsh Singh] (https://github.com/HarshSingh21)
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
