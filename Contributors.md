@@ -19,6 +19,7 @@
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
 - [VKSK]
+- [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
 - [LeGrandMAG](https://github.com/LeGrandMAG)
 - [Sabohat](https://github.com/sabohat)
