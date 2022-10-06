@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 
 - [Tieran Dysart](https://github.com/whyyy1)
-- [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Siggy73](https://github.com/Siggy73)
 - [Jassim](https://github.com/jazz96)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
@@ -2557,4 +2556,5 @@
 - [Tanisha Kant](https://github.com/tanishakant07)
 - [Vishesh Tiwari](https://github.com/vishesh-hue)
 - [Anubhav Gaur](https://github.com/anubhavgaur8)
+- [Harsh Gupta](https://github.com/HarshGupta74)
 <!-- prettier-ignore-end -->
