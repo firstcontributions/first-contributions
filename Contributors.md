@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Sigit Pramono](https://github.com/SigitPramts)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Siggy73](https://github.com/Siggy73)
