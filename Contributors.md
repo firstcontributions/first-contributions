@@ -128,6 +128,7 @@
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
+- nowy wpis
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Mayur Vora](https://github.com/Mayur-vora)
 - [Shashank Shukla](https://github.com/Sshashank0743)
@@ -2423,6 +2424,7 @@
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [c1sc0](https://github.com/c1sc0)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
+- [Anupam Dwivedi](https://github.com/Anupam-2105)
 - [Hanuvesh Singh](https://github.com/Hanuvesh)
 - [Drian key](https://github.com/Drian-key)
 - [Sohaib Ahmad](https://github.com/SohaibAhmad786)
