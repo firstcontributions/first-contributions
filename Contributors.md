@@ -2547,4 +2547,5 @@
 - [Neerav Jha](https://github.com/neerav34)
 - [Gyaneshwar Tiwari](https://github.com/GyaneshwarTiwari)
 - [changicho](https://github.com/changicho)
+- [wahyu97](https://github.com/wahyu97)
 <!-- prettier-ignore-end -->
