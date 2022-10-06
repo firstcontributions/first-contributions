@@ -2579,6 +2579,8 @@
 - [Max] (https://github.com/datadrivenmax) 
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
+- [Manu Pandey](https://github.com/ManuFake)
+- [Akash Digumber](https://github.com/RAIJIN-afk)
 - [Sergio Prieto](https://github.com/alejolale)
 - [CarOL](https://github.com/hx-w)
 - [Manu Pandey [ (https://github.com/ManuFake)
