@@ -2560,4 +2560,5 @@
 - [Vishesh Tiwari](https://github.com/vishesh-hue)
 - [Anubhav Gaur](https://github.com/anubhavgaur8)
 - [Bhawin Ameta](https://github.com/bhawinameta)
+- [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
 <!-- prettier-ignore-end -->
