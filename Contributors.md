@@ -2418,6 +2418,6 @@
 - [Deepika Kumari](https://github.com/dips6202)
 - [Manish Singh Parihar](https://github.com/Msparihar)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
-
+- [Maks Krol](https://github.com/Maks0098)
 
 <!-- prettier-ignore-end -->
