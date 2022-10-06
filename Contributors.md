@@ -2444,6 +2444,8 @@
 - [Kallyne Layane](https://github.com/hellokallyne)
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
+- [Divyanshu Shukla](https://github.com/Divyanshu6566)
+- [shreverr](https://github.com/shreverr)
 - [Ashish Baruah](https://github.com/AshishBaruah) 
 - [Ademola Jegde] (https://github.com/sherggs)
 - [Deepshikha Yadav](https://github.com/deepshikhayadav)
