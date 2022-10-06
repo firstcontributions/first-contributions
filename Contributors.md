@@ -123,6 +123,7 @@
 - [Varsha Gupta](https://github.com/varsha080)
 - [Shashank Shukla](https://github.com/Wodlfvllf)
 - [Arth Srivastava](https://github.com/ArthSrivastava)
+- [Krishiv Pandita](https://github.com/krishiv8190)
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Kartik Nandagoan](https://github.com/KartikRN)
