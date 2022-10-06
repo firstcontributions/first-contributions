@@ -2673,5 +2673,6 @@
 - [Disha Goel](https://github.com/disha100)
 - [MOHAMMAD ZEESHAN JAWED](https://github.com/zeeshan8281)
 - [Vaibhav Singh Chande](https://github.com/stonedseeker)
-- [Abhishek Singh](https://github.com/01AbhiSingh)
+- [HARSHIT SINGH](https://github.com/harshitsingh09)
+- - [Abhishek Singh](https://github.com/01AbhiSingh)
 <!-- prettier-ignore-end -->
