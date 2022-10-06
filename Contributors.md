@@ -2562,4 +2562,5 @@
 - [Bhawin Ameta](https://github.com/bhawinameta)
 - [Harsh Gupta](https://github.com/HarshGupta74)
 - [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
+- [Rahul Singh](https://github.com/rahuldhirendersingh)
 <!-- prettier-ignore-end -->
