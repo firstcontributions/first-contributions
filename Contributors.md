@@ -29,6 +29,7 @@
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
 - [Akshay Kapoor](https://github.com/Akshay-Kapoor)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
+- [Johnson Tan] (https://github.com/Jtan99)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [Satantago] (https://github.com/Satantago)
