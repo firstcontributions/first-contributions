@@ -2536,4 +2536,5 @@
 - [Isaac Martin](https://github.com/issac5693)
 - [Videhi Bavishi](https://github.com/VidehiBavishi)
 - [Ash G](https://github.com/stayyFrostyy)
+- [Neerav Jha](https://github.com/neerav34)
 <!-- prettier-ignore-end -->
