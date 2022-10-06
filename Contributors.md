@@ -270,6 +270,9 @@
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie](https://github.com/a-nn-t-s)
+
+
+harsh vijay (https://github.com/harshvijay63)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
 - [Jongsik Kim](https://github.com/neomax7)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
