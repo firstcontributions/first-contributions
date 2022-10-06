@@ -42,6 +42,7 @@
 - [suryakant Dubalgunde] (https://github.com/suryakantdubalgunde)
 - [Lottiecodes] (https://github.com/lottiecodes)
 - [law01f] (httos://github.com/law01f)
+- [Arya Shakya](https://github.com/Aryashakya)
 - [Nyanab](https://github.com/Nyanab)
 - [Dhruv] (https://github.com/lumi232)
 - [Chris] (https://github.com/chickenCHRISpy)
