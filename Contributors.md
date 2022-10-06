@@ -17,6 +17,7 @@
 - [Mohd Azeem](https://github.com/azeemhack)
 - [Anirudh Handa](https://github.com/AnirudhHanda)
 - [Norbert Majer](https://github.com/azotamiota)
+- [Rohith Kumar](https://github.com/rohithkumar27)
 - [James Neal](https://github.com/thekingofhyrule)
 - [Astha Mishra](https://github.com/asthami)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
