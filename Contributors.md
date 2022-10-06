@@ -349,6 +349,7 @@
 - [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Sarah Miller](https://github.com/smiller1188)
 - [Abhishek Banerjee](https://github.com/abhi-as-a-developer)
+- [Simons Arhin](https://github.com/simonsKayi)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Aleph Lakra](https://github.com/Iamkenji)
 - [Petrus Aria Chevalier Rambing] (https://github.com/petrusariaa)
