@@ -186,6 +186,7 @@
 - [Milind Shukla](https://github.com/MILINDSHUKLA)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
+- [Priyam Gupta](https://github.com/Priyam3955)
 - [Harshwardhan Singh] (https://github.com:harsh-ws)
 - [Michel de Oliveira](https://github.com/michelzaum)
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
