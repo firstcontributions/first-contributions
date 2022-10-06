@@ -2488,5 +2488,9 @@
 - [Rodrigoodev](https://github.com/rodrigoodev)
 - [Mateus Bozzi](https://github.com/Mateus-Bozzi)
 - [Dhanush-E](https://github.com/Dhanush-E)
+<<<<<<< HEAD
 - [Yash Kumar Sharma](https://github.com/yashsharm884)
+=======
+- [Aditya Mac](https://github.com/GhoulMac)
+>>>>>>> b31976338a8f886678c7785ffb8cc6bd5578a271
 <!-- prettier-ignore-end -->
