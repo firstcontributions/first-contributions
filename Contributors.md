@@ -1808,6 +1808,7 @@
 - [edmund](https://github.com/edmundk0)
 - [Ankur Ghosh](https://github.com/AnkurGhosh541)
 - [Corrie Botha](https://github.com/Kerneels94)
+- [Priyanshu Kumar](https://github.com/ripperkumar)
 - [Adriaan Louw](https://github.com/Boskrag)
 - [Raji Risikat Yewande](https://github.com/wandexdev)
 - [Pablo Gomes🃏⛱](https://github.com/pgng08)
