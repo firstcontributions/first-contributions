@@ -184,6 +184,7 @@
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
 - [Himanshu Chhatwal](https://github.com/himanshu1221)
+- [Ved Chadderwala](https://github.com/ved-2004)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
 - [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
