@@ -12,6 +12,7 @@
 - [Vansh Patel] (https://github.com/vansh-patel-8123/)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
+- [Dipesh Patel](https://github.com/Dipesh049)
 - [Siggy73](https://github.com/Siggy73)
 - [Jassim](https://github.com/jazz96)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
