@@ -26,7 +26,7 @@ Let's take a simple example to understand the branching strategy. A production c
 
 ## Example
 
-Alice is working on Feature A and Bob is working on Feature B. Alice is halfway done with Feature A and has made a few commits in alice. However, Feature A is quite hard to implement so Alice decides that she should rather work on Feature C and makes a few commits onto alice. Bob finished Feature B and decides that he would like to tackle Feature A and so pulls aliceinto bob.
+Alice is working on Feature A and Bob is working on Feature B. Alice is halfway done with Feature A and has made a few commits in alice. However, Feature A is quite hard to implement so Alice decides that she should rather work on Feature C and makes a few commits onto alice. Bob finished Feature B and decides that he would like to tackle Feature A and so pulls alice into bob.
 
 After Bob finishes Feature A he would like to merge bob into master. However, bob now contains Feature A, Feature B and parts of Feature C, but Feature C is not ready to be merged! It's easy to see that a workflow like this can lead to many confusing merge conflicts.
 
