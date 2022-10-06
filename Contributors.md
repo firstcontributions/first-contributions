@@ -2516,4 +2516,5 @@
 - [Zahid Khan](https://github.com/zahidkhan262)
 - [Shanu Mishra](https://github.com/Shanu-02)
 - [Yusuf Adefolahan](https://github.com/sanxy)
+- [Dennis Pater](https://github.com/dpater1986)
 <!-- prettier-ignore-end -->
