@@ -258,6 +258,7 @@
 - [Isaac Emerson](https://github.com/Aeronio)
 - [Koty Stannard](https://github.com/k-stannard)
 - [Anish Kacham](https://github.com/anishKacham)
+- [Manjot Singh](https://github.com/ManjotCodes)
 - [Ellen Costa-Almeida](https://github.com/e-costalmeida)
 - [Lena Artinger](https://github.com/lenaArtinger)
 - [Bhagirath Sarvaiya](https://github.com/bhagirath77)
