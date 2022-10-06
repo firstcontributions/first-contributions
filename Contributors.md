@@ -2473,6 +2473,7 @@
 -[Funikz](https://github.com/Funikz)
 -[Sharad Tripathi](https://github.com/tripathisharad)
 -[Rahul Rs](https://github.com/RsRsRahul)
+-[John Swanson](https://github.com/jcswanson)
 -[TanmayJotangia](https://github.com/TanmayJotangia)
 - [Firejoust](https://github.com/firejoust)
 - [Ayoub Boulbaz] (https://github.com/AyoubHolmes)
