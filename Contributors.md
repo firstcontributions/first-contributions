@@ -9,6 +9,7 @@
 - [Jassim](https://github.com/jazz96)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
+- [Pavan Kumar]
 - [Sabohat](https://github.com/sabohat)
 - [Himalaya Pal](https://github.com/palhimalaya)
 - [Shubham Garg](https://github.com/shubhamgarg1299)
