@@ -2496,6 +2496,8 @@
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
 - [victhupy] (https://github.com/victhupy) 
+- [Mohit Prasad] https://github.com/ProgrammerMohit/Website
+- [Max] (https://github.com/datadrivenmax) 
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Sergio Prieto](https://github.com/alejolale)
