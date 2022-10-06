@@ -2643,4 +2643,5 @@
 - [Avik Kumar Ghosh](https://github.com/avik712)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
 - [Arya Chakraborty](https://github.com/AryaChakraborty)
+- [Disha Goel](https://github.com/disha100)
 <!-- prettier-ignore-end -->
