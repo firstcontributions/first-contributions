@@ -2498,6 +2498,7 @@
 - [victhupy] (https://github.com/victhupy) 
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
+- [Sergio Prieto](https://github.com/alejolale)
 - [CarOL](https://github.com/hx-w)
 - [Manu Pandey [ (https://github.com/ManuFake)
 - [Dylan Grijalva [ (https://github.com/dylangrijalva)
