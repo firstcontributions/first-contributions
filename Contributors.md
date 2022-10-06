@@ -36,6 +36,7 @@
 - [Arth Gupta](https://github.com/guptaarth87)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
+- [Brad Carrico](https://github.com/BCarrico)
 - [Anirudh Handa](https://github.com/AnirudhHanda)
 - [Norbert Majer](https://github.com/azotamiota)
 - [James Neal](https://github.com/thekingofhyrule)
