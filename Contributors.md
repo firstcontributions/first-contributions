@@ -240,6 +240,7 @@
 - [jayesh Bakle](https://github.com/jayesh-bakle)
 - [Himanshu Chhatwal](https://github.com/himanshu1221)
 - [Chaitanya Sheth](https://github.com/Chaitanya-2804)
+- [Dex_Lulz](https://github.com/DexLulz)
 - [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
 - [Tony Nonso Onwuli](https://github.com/TonyKodit)
