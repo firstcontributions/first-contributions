@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Patil 2104](https://github.com/patil2104)
 - [Avicii_029](https://github.com/avicii029)
