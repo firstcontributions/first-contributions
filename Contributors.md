@@ -84,6 +84,7 @@
 - [Akhil](https://github.com/AkhilJ321)
 - [Rachana Yeldi](https://github.com/Rachana1104)
 - [akashaw] (https://github.com/akashaw)
+- [Agrim Jain](https://github.com/Agrim2411)
 - [Adithya S Prabhu] (https://github.com/TectonicSteak)
 -[Ruchit Raushan](https://github.com/Ruchit1101/first-contributions.git)
 - [HarshVijay](https://github.com/harshvijay63)
