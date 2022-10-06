@@ -34,6 +34,7 @@
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
 - [Annamalai](https://github.com/RaMathuZen)
 - [Shubham Parmar](https://github.com/ishubhamparmar)
+- [Tannistha Biswas](https://github.com/TannisthaBiswas)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Tooba Rashid](https://github.com/toobaarashid)
