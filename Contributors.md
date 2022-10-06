@@ -2177,6 +2177,7 @@
 - [Nagarjun](https://github.com/nagarjun7397)
 - [Arpit Bhadani](https://github.com/arpitbhadani)
 - [Yes](github.com/hexsploit0x01)
+- [Khyati Gupta](https://twitter.com/Khyatigupta369)
 - [Tom Hooper](https://github.com/tom-hooper-91)
 - [Ardy](https://github.com/ardyop)
 - [Arunesh Singh](https://github.com/arunesh-singh)
