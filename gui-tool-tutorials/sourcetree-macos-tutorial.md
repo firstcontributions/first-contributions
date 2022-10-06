@@ -39,7 +39,7 @@ The *Accounts* dialog will appear. Click "Add" in the lower left hand corner. Th
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-4-accounts-add.png" alt="SourceTree Connect Add" />
 
-This will open a page in your web browswer. Follow the steps given to authorize your account.
+This will open a page in your web browser. Follow the steps given to authorize your account.
 
 ## Fork this repository
 
@@ -58,7 +58,7 @@ Once you click the "Clone" button, you will be presented with another view to de
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-6-cloning-confirm.png" alt="clone this repository" />
 
-1) **Source URL:** This is automatically filled and you dont need to change it. It is the URL from where your GitHub project resides.
+1) **Source URL:** This is automatically filled and you don't need to change it. It is the URL from where your GitHub project resides.
 
 2) **Destination Path:** This is the physical location on your computer where this project will be saved
 
@@ -93,9 +93,9 @@ You should be able to see and review the file that have been changed and decide 
 
 Next click the **Commit** button on the top left of the dialog. This will show you your staging area.
 
-Click the *Checkbox* to **add** the file to the stagging area. Then enter a commit message.
+Click the *Checkbox* to **add** the file to the staging area. Then enter a commit message.
 
-*Note: You can also select files (both in the stagging and unstaged areas) and add/remove files from the respective areas by using the spacebar*
+*Note: You can also select files (both in the staging and unstaged areas) and add/remove files from the respective areas by using the spacebar*
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-9-committing.png" alt="stage your changes" />
 
