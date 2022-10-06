@@ -68,6 +68,7 @@
 - [Satantago] (https://github.com/Satantago)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
 - [Aditya Phalswal](https://github.com/Adityaphalswal)
+- [kusum chowdhury](https://github.com/kusum-chowdhury)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)\
@@ -157,6 +158,7 @@
 - [Bhanesh Palliwal](https://github.com/BhaneshP)
 - [Vineet Singh](https://github.com/vineet221713)
 - [Mihir Panchal](https://github.com/MihirRajeshPanchal)
+- [Shabnam Islam](https://github.com/shabnamislam)
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Saalimon](https://github.com/saalimon)
 - [Tahalu Indo](https://github.com/tahaluindo)
@@ -2399,6 +2401,7 @@
 - [Mirza SNR](https://github.com/MirzaSNR)
 - [Ulisses Junior]([https://github.com/UlissesJunior])
 - [Tamanna](https://github.com/525tamanna)
+- [siddesh](https://github.com/siddesh140)
 - [Maksym Sitailo](https://github.com/maxsIT)
 - [Priyanshu Parth](https://github.com/Priyanshuparth)
 - [Karan Sharma](https://github.com/karanS08)
@@ -2639,4 +2642,5 @@
 - [Avik Kumar Ghosh](https://github.com/avik712)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
 - [Anish Paudel](https://github.com/rpaudel379)
+- [Arya Chakraborty](https://github.com/AryaChakraborty)
 <!-- prettier-ignore-end -->
