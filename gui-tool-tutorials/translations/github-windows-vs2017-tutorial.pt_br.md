@@ -109,34 +109,38 @@ A primeira vez que você realizar um *Push* para o GitHub, Visual Studio solicit
 
 Depois de realizar uma operação de *Push*, abra o seu repositório no GitHub e deverá ver uma mensagem indicando um *push* recente de uma *branch*.
 
-You can view your changes by opening the `Branch: master` dropdown and selecting your new branch. Congratulations, you can share the branch URL with the world to show your progress!
+Você pode ver suas mudanças abrindo a seleção `Branch: main` e selecionando a sua `branch`. Parabéns! Você pode compartilhar a URL da `branch` com o mundo e mostrar o seu progresso!
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-14-commit6.png" alt="View pushed branch on GitHub" />
 
-## Submit your changes for review
+## Submeta as suas mudanças para uma revisão
 
-At this point you have completed your change but it still only resides in your repo.  This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+Neste ponto, você completou as mudanças, mas elas ainda estão somente no seu repositório. Esse passo te mostrará como submeter essas mudanças para um administrador para que ele possa fazer um *merge* das tuas mudanças.
 
-In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
+No seu repositório no GitHub, você verá o botão `Compare & pull request` próximo à notificação da *branch*. Cloque nesse botão.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Agora submeta o *Pull Request*.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Assim que possível, essas mudanças serão *mergeadas* para a `main branch` deste projeto. Você será notificado via email, quando essa movimentação for realizada.
 
-## Where to go from here?
+## Para onde ir daqui?
 
-Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Parabéns! Você acabou de completar o fluxo de trabalho *fork -> clone -> edit -> PR* que vocẽ vai realizar frequentemente como um contribuidor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+Celebre a sua contribuição e compartilhe-a com os seus amigos e seguidores indo para o [web app](https://firstcontributions.github.io#social-share).
 
 You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
+Você pode se juntar à nossa comunidade no slack, caso precise de alguma ajuda ou tenha alguma dúvida.
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+[Faça parte da nossa comunidade no Slack!](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+
+
+### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
-[Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+[Retorne para a página principal](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
