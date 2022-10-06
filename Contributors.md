@@ -2657,4 +2657,5 @@
 - [Arya Chakraborty](https://github.com/AryaChakraborty)
 - [Disha Goel](https://github.com/disha100)
 - [MOHAMMAD ZEESHAN JAWED](https://github.com/zeeshan8281)
+- [Vaibhav Singh Chande](https://github.com/stonedseeker)
 <!-- prettier-ignore-end -->
