@@ -2605,4 +2605,5 @@
 - [Cindy Um](https://github.com/CindyU-beep)
 - [Sebin CM](https://github.com/sebzz2k2)
 - [Avik Kumar Ghosh](https://github.com/avik712)
+- [K Samarth N Kamath](https://github.com/k-samarth)
 <!-- prettier-ignore-end -->
