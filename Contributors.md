@@ -25,6 +25,7 @@
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Tooba Rashid](https://github.com/toobaarashid)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
+- [K. Priyanshu S-M](https://github.com/KPriyanshu-SM)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
