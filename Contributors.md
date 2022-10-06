@@ -2550,4 +2550,5 @@
 - [Neerav Jha](https://github.com/neerav34)
 - [Gyaneshwar Tiwari](https://github.com/GyaneshwarTiwari)
 - [changicho](https://github.com/changicho)
+- [Tanisha Kant](https://github.com/tanishakant07)
 <!-- prettier-ignore-end -->
