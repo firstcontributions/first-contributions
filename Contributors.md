@@ -2492,6 +2492,7 @@
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
 - [c1sc0](https://github.com/c1sc0)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
+- [Priyanshu Kumar](https://github.com/ripperkumar)
 - [Anupam Dwivedi](https://github.com/Anupam-2105)
 - [Hanuvesh Singh](https://github.com/Hanuvesh)
 - [Drian key](https://github.com/Drian-key)
