@@ -86,6 +86,7 @@ nowy wpis
 - [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
 - [Sarah Miller](https://github.com/smiller1188)
 - [Abhishek Banerjee](https://github.com/abhi-as-a-developer)
+- [Simons Arhin](https://github.com/simonsKayi)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Petrus Aria Chevalier Rambing] (https://github.com/petrusariaa)
 - [Abdul Rehman](https://github.com/abdulrehmandev)
