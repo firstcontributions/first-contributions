@@ -2657,6 +2657,7 @@
 - [David Ramirez](https://github.com/dave-ramirez)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
+- [Lalit Chaudhary](https://github.com/codelalit007)
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Luan Vu](https://github.com/luanvuhlu)
 - [Deepika Kumari](https://github.com/dips6202)
