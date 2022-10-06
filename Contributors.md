@@ -229,6 +229,7 @@
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Ravi Kumar](https://github.com/ravi9083)
+- [Shade Slayer](https://github.com/Shadeslayer234)
 - [Dennis Huynh] (https://github.com/ddhuynh5)
 - [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
 - [Jared Orler](https://github.com/jaredorler)
