@@ -2479,4 +2479,5 @@
 - [Xnuvers007](https://github.com/Xnuvers007)
 - [Elías Sauthier](https://github.com/Goliass)
 - [Rodrigoodev](https://github.com/rodrigoodev)
+- [Mateus Bozzi](https://github.com/Mateus-Bozzi)
 <!-- prettier-ignore-end -->
