@@ -2474,4 +2474,5 @@
 - [abdel.h](https://github.com/abdelhousni)
 - [Harshal](https://github.com/harsh121310)
 - [Xnuvers007](https://github.com/Xnuvers007)
+- [Rodrigoodev](https://github.com/rodrigoodev)
 <!-- prettier-ignore-end -->
