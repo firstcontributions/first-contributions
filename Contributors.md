@@ -2364,6 +2364,7 @@
 - [Swarup Sharma](https://github.com/mrcoder146)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
+- [Shruti Singh](https://github.com/ShrutiSingh04503)
 - [Deepesh Sharma](https://github.com/deepeshsharmaofficial)
 = [Fighter-007](https://github.com/Fighter-007)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
