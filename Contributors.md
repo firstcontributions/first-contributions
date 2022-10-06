@@ -2419,6 +2419,7 @@
 - [Ulisses Junior](https://github.com/UlissesJunior)
 - [Bastav Choudhury](https://twitter.com/BastavChoudhary?s=09)
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
+- [Aaditya Raj]([https://github.com/Aaditya1612])
 - [Ashutosh Ray](https://github.com/Ashutosh-Ray)
 - [Chawin Chokchaimongkolkij]([https://github.com/chawinccmkforlearn])
 - [Salima Rabiu Zubair] (https://github.com/SafeEHA)
