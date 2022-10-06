@@ -809,6 +809,7 @@
 - [Gbolahan Oyeniyi](https://github.com/GeebeeFrost)
 - [Wai Phyo 7️⃣](https://github.com/WPSeven)
 - [Muhammad Noorani](https://github.com/MuhammadNoorani)
+- [Yasir Khan](https://github.com/Yasir-Khan22)
 - [DON XAVIER](https://github.com/DonXavierdev)
 - [Mark Roberts](https://github.com/mrkrbrts)
 - [Shounak Das](https://github.com/dasShounak)
