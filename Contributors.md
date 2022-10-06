@@ -2492,4 +2492,5 @@
 - [Dhanush-E](https://github.com/Dhanush-E)
 - [Aditya Mac](https://github.com/GhoulMac)
 - [Anirban Roy](https://github.com/Wrrikk)
+- [Darshan V](https://github.com/Diplo2by)
 <!-- prettier-ignore-end -->
