@@ -108,6 +108,7 @@
 - [Wayne Miles] (https://github.com/WayneMilesIII)
 - [Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Harsh Pathak](https://github.com/harshpathakzz)
+- [Pratiksha Nigam](https://github.com/Pratiksha71)
 - [Ayaan B Bordoloi](https://github.com/Ayaan49)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
