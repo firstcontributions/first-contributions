@@ -233,6 +233,7 @@
 - [Rishma Sankarbabu](https://github.com/Rishma-SK)
 - [SRITAM MISHRA](https://github.com/ENVIRYO2112VIT)
 - [Manjot Singh](https://github.com/ManjotCodes)
+- [Rugved Mhatre](https://github.com/rugvedmhatre)
 - [Ravi Kumar](https://github.com/ravi9083)
 - [Shade Slayer](https://github.com/Shadeslayer234)
 - [Dennis Huynh] (https://github.com/ddhuynh5)
