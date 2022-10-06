@@ -2473,6 +2473,7 @@
 - [Ebrima Barry](https://github.com/ebrimaporeh)
 - [Idrak Sheikh](https://github.com/idraksheikh)
 - [Manish Singh Parihar](https://github.com/Msparihar)
+- [Edwin Gutierrez](https://github.com/Motiph)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
 - [Akash Sancheti](https://github.com/Akash1105)
 - [Sourav Nayek](https://github.com/SOURAV416)
