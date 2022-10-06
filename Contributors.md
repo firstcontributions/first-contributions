@@ -27,6 +27,7 @@
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Umair Mehmood](https://github.com/umair313)
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
+- [Annamalai](https://github.com/RaMathuZen)
 - [Shubham Parmar](https://github.com/ishubhamparmar)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
