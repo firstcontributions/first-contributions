@@ -2787,4 +2787,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Rahul chowdary](https://github.com/rahul-erc)
 - [Bindu Hite](https://github.com/bindu-07)
 - [Diego Ortiz](https://github.com/aceto82)
+- [Sergey Sereda](https://github.com/SergeySereda0218)
 <!-- prettier-ignore-end -->
