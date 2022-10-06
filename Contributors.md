@@ -2521,6 +2521,7 @@
 - [Lokesh Malviya](https://github.com/Lokesh-malviya)
 - [Chinmaya Nayak](https://github.com/ChinmayaNayak21)
 - [Yandi Fenanda](https://github.com/yandiio)
+- [Swati Kumari](https://github.com/SWATI3125)
 - [Sakal Mon](https://github.com/sakalmon)
 - [Jonatan Teofilus](https://github.com/anonimak)
 - [Girish Jha](https://github.com/DarkShadowKonoha)
