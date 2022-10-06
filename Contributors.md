@@ -11,6 +11,7 @@
 - [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
