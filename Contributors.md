@@ -17,6 +17,7 @@
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
+- [Shubham Parmar](https://github.com/ishubhamparmar)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Tooba Rashid](https://github.com/toobaarashid)
