@@ -155,6 +155,7 @@
 - [Kanishka Srivastava](https://github.com/kanishkasrivastava)
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
+- [Tanmay Deopurkar](https://github.com/tanmays62343) 
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
