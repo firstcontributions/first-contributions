@@ -454,6 +454,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Jacob Garrison](https://github.com/wayahlife)
 - [Shubhankar Ranjan](https://github.com/shubhankar-Ranjan)
 - [Rohini Patil](https://github.com/rohinipatil89)
+- [Aditya Choudhary](https://github.com/Treridith)
 - [Shreyas prabhu](https://github.com/ShreyasPrabhuCBs).
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Sriram M](https://github.com/msris108)
