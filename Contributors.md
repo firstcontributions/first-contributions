@@ -153,6 +153,7 @@
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
 - nowy wpis
 - [Tushar Gupta](https://github.com/Tushar-2003)
+- [Devanshu Rastogi](https://github.com/devanshu052000)
 - [Mayur Vora](https://github.com/Mayur-vora)
 - [Shashank Shukla](https://github.com/Sshashank0743)
 - [Wayne Miles] (https://github.com/WayneMilesIII)
