@@ -269,6 +269,7 @@
 - [Jared Orler](https://github.com/jaredorler)
 - [Piyush Bagul](https://github.com/piyush916)
 - [EndlessTJ](https://github.com/EndlessTJ/first-contributions)
+- [Andrew Onaulogho](https://github.com/RealOcee)
 - [Anurag Rawat](https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
 - [segoSambel](https://github.com/segoSambel)
