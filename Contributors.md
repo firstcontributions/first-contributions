@@ -2437,6 +2437,7 @@
 - [Jst Vex](https://github.com/JstVex)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
+- [Patryk Skonieczny] (https://github.com/bmalvo)
 - [Kallyne Layane](https://github.com/hellokallyne)
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Shivam Saroj](https://github.com/shivam-saroj)
