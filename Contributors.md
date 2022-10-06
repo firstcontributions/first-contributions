@@ -2512,4 +2512,5 @@
 - [Girish Jha](https://github.com/DarkShadowKonoha)
 - [Haxor](https://github.com/Haxorleet)
 - [Shruti Garg](https://github.com/gargshruti)
+- [Zahid Khan](https://github.com/zahidkhan262)
 <!-- prettier-ignore-end -->
