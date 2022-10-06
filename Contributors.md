@@ -2503,4 +2503,5 @@
 - [Chinmaya Nayak](https://github.com/ChinmayaNayak21)
 - [Yandi Fenanda](https://github.com/yandiio)
 - [Sakal Mon](https://github.com/sakalmon)
+- [Jonatan Teofilus](https://github.com/anonimak)
 <!-- prettier-ignore-end -->
