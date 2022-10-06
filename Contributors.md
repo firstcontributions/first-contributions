@@ -2650,6 +2650,7 @@
 - Harsh(https://github.com/harsh23079)
 - Abhishek(https://github.com/abhishekratnam)
 - [Daniel Freire](https://github.com/proxyanon)
+- [David Ramirez](https://github.com/dave-ramirez)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
 - [Jakob Schneider](https://github.com/JSchneids)
