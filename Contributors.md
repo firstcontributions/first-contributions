@@ -2000,6 +2000,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Erick Sarabia](https://github.com/ericksarabia)
-- [Mateus Bozzi](https://github.com/Mateus-Bozzi)
+- [Mateus Bozzi F](https://github.com/Mateus-Bozzi)
 
 <!-- prettier-ignore-end -->
