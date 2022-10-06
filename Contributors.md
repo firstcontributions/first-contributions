@@ -2667,6 +2667,7 @@
 - [Jakob Schneider](https://github.com/JSchneids)
 - [Luan Vu](https://github.com/luanvuhlu)
 - [Deepika Kumari](https://github.com/dips6202)
+- [Lokesh Malviya](https://github.com/Lokesh-malviya)
 - [Abid Hasan Muin](https://github.com/abidmuin)
 - [David](https://github.com/dvlwj)
 - [Nikita Koselev](https://github.com/nikitakoselev)
