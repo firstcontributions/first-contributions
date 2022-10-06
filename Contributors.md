@@ -10,7 +10,7 @@
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
 - [James Neal](https://github.com/thekingofhyrule)
-- [Astha Mishra](https://github.com/asthami)
+- [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [Toms Joseph](https://github.com/TomJosephKavalam)
