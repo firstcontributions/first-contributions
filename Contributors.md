@@ -2515,4 +2515,5 @@
 - [Shruti Garg](https://github.com/gargshruti)
 - [Zahid Khan](https://github.com/zahidkhan262)
 - [Shanu Mishra](https://github.com/Shanu-02)
+- [Yusuf Adefolahan](https://github.com/sanxy)
 <!-- prettier-ignore-end -->
