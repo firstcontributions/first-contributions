@@ -2392,7 +2392,7 @@
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
-- [victhupy] (https://github.com/victhupy) 
+- [victhupy] (https://github.com/victhupy)
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [CarOL](https://github.com/hx-w)
@@ -2446,4 +2446,5 @@
 - [Akash Sancheti](https://github.com/Akash1105)
 - [Sourav Nayek](https://github.com/SOURAV416)
 - [abdel.h](https://github.com/abdelhousni)
+- [Seneen Khan](https://github.com/seneenkhan)
 <!-- prettier-ignore-end -->
