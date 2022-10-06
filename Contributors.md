@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Shaurya Gupta](https://github.com/Shaurya50211)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
