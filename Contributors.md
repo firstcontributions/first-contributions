@@ -2373,6 +2373,7 @@
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
 - [Muhammad Tatma](https://github.com/MuhammadTatma)
 - [Abhishek Kumar](https://github.com/shangchi9)
+- [Syed Talal Jilani](https://github.com/syedtalaljilani)
 - [Rachana priyadarshni samal](https://github.com/rachana2522)
 - [Harith Laxman](https://github.com/Harith-Laxman)
 - [elchmuetze](https://github.com/elchmuetze)
