@@ -2562,4 +2562,5 @@
 - [Bhawin Ameta](https://github.com/bhawinameta)
 - [Harsh Gupta](https://github.com/HarshGupta74)
 - [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
+- [André Moraes](https://github.com/andremoraes98)
 <!-- prettier-ignore-end -->
