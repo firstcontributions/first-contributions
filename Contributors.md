@@ -69,6 +69,7 @@
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
 - [Suthar Yash](https://github.com/Yash-suthar)
 - [Vicky](https://github.com/HungryVicky)
+- [Softmochii](https://github.com/SoftMochii)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
 - [Vandit1920](https://github.iu.edu/vanjain)
