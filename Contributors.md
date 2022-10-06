@@ -2339,6 +2339,7 @@
 - [Rohit Das](https://github.com/Rohit2001Das)
 - [Sourav Mondal](https://github.com/souravmondal99)
 - [Anshika Anand](https://github.com/AnshikaAnand222)
+- [Yash Katyan](https://github.com/yakatyansh)
 - [Srikantam Bhavana nagasai tualsi](https://github.com/Srikantam-Bhavana)
 - [Utkarsh Pancholi](https://github.com/Utkarsh212)
 - [Akshat Dhiman](https://github.com/Akshat120)
