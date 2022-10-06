@@ -12,6 +12,7 @@
 - [Shubham Garg](https://github.com/shubhamgarg1299)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
+- [Anirudh Handa](https://github.com/AnirudhHanda)
 - [Norbert Majer](https://github.com/azotamiota)
 - [James Neal](https://github.com/thekingofhyrule)
 - [Astha Mishra](https://github.com/asthami)
@@ -2068,6 +2069,7 @@
 - [Dherya Rana](https://gthub.com/ranaDherya)
 - [Archit Jain](https://github.com/architjain2002)
 - [Manish Kumar](https://youtube.com/ytanonymousbunny)
+- [Stef Schulz](https://github.com/slothsoft)
 - [Gujot Singh](https://github.com/Gur-jot)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
@@ -2557,4 +2559,5 @@
 - [Vishesh Tiwari](https://github.com/vishesh-hue)
 - [Anubhav Gaur](https://github.com/anubhavgaur8)
 - [Harsh Gupta](https://github.com/HarshGupta74)
+- [Bhawin Ameta](https://github.com/bhawinameta)
 <!-- prettier-ignore-end -->
