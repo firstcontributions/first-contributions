@@ -296,6 +296,8 @@
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
+- [Priyansh Maheshwari] (https://github.com/priyanshm07)
+- [Jahnvi ] (https://github.com/jahnvi15/)
 - [syedmohdjawad]  (https://github.com/syedmohdjawad)
 - [Pranav5060] (https://github.com/Pranav5060)
 - [Priyanshu Arora] (https://github.com/priyanshuarora595)
