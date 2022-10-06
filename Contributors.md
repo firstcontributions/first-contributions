@@ -2404,6 +2404,8 @@
 - [Tamanna](https://github.com/525tamanna)
 - [siddesh](https://github.com/siddesh140)
 - [Maksym Sitailo](https://github.com/maxsIT)
+- [Raian Rahman](https://github.com/pranonrahman)
+- [Karan Sharma](https://github.com/karanS08)
 - [Nikita Jare](https://github.com/nikita-jare)
 - [Priyanshu Parth](https://github.com/Priyanshuparth)
 - [Karan Sharma](https://github.com/karanS08)
