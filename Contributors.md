@@ -24,6 +24,7 @@
 - [Sabohat](https://github.com/sabohat)
 - [Himalaya Pal](https://github.com/palhimalaya)
 - [Shubham Garg](https://github.com/shubhamgarg1299)
+- [Arth Gupta](https://github.com/guptaarth87)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
 - [Anirudh Handa](https://github.com/AnirudhHanda)
