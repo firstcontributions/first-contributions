@@ -8,6 +8,7 @@
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
 - [Astha Mishra](https://github.com/asthami)
+- [Md Asif Siddiqui](https://github.com/SidAsif)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
