@@ -270,6 +270,7 @@
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
 - [syedmohdjawad]  (https://github.com/syedmohdjawad)
+- [Pranav5060] (https://github.com/Pranav5060)
 - [Priyanshu Arora] (https://github.com/priyanshuarora595)
 - [Toky] (https://github.com/herostoky)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
