@@ -2489,6 +2489,7 @@
 - [KingofGnome](https://github.com/KingofGnome)
 - [A Stepanian](https://github.com/a-stepanian)
 - [Md Rizwan](https://leetcode.com/rizwan073)
+- [Kashish Khan](https://github.com/Kashishkhan08)
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
