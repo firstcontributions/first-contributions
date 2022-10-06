@@ -2330,6 +2330,7 @@
 - [Adalton Junio](https://github.com/AdaltonLeite)
 - [Sharib Saifi](https://github.com/SharibSaifi)
 - [Samrat Chakraborty](https://github.com/Samrat1507)
+- [Erick Villatoro](https://github.com/Villa01)
 - [Bhavy Khatter](https://github.com/bhavy007)
 - [John Nelson](https://github.com/John0x11)
 - [Oleksii Solomakha](https://github.com/KamaZz)
