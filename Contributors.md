@@ -64,6 +64,7 @@
 - [Nathan Speich](https://github.com/nathanspeich)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
+- [Vishal Mishra](https://github.com/vishalaadee)
 - [Hari Prasad](https://github.com/hariprasd)
 - [Kartheek Tammana](https://github.com/kst164)
 - [MrAnonymous09](https://github.com/MrAnonymous09)
