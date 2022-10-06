@@ -2784,4 +2784,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Divyanshu Chaurasiya](https://github.com/Divyanshu960)
 - [Rahul chowdary](https://github.com/rahul-erc)
 - [Bindu Hite](https://github.com/bindu-07)
+- [Diego Ortiz](https://github.com/aceto82)
 <!-- prettier-ignore-end -->
