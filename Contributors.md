@@ -8,6 +8,7 @@
 - [Himalaya Pal](https://github.com/palhimalaya)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
 - [Mohd Azeem](https://github.com/azeemhack)
+- [James Neal](https://github.com/thekingofhyrule)
 - [Astha Mishra](https://github.com/asthami)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
