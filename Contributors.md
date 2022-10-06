@@ -2303,6 +2303,7 @@
 - [Stevanus-Christian](https://github.com/Stevanus-Christian)
 - [Steve Nascimento](https://github.com/SteveNascimento)
 - [Akkshat](https://github.com/Akkshat09)
+- [Fadeagles](https://github.com/Fadeagles)
 - [Babyjohn](https://github.com/babyjohndev)
 - [Rohit](https://github.com/xrg360)
 - [vicky](https://github.com/HungryVicky)
