@@ -84,6 +84,7 @@
 - [Kartik Nandagoan](https://github.com/KartikRN)
 - [Vimal Athithya] ( https://github.com/Vimalathithya007)
 - [Andres Romero](https://github.com/aromero18020)
+- [Rizwan C](https://github.com/rizwanc018)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
 - [Subhash Sheoran](https://github.com/isheoran)
