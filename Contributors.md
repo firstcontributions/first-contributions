@@ -2490,6 +2490,8 @@
 - [shrever](https://github.com/shreverr)
 - [Shubham Verma](https://github.com/vermashubham6351)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
+- [Priyanshu Kumar Choubey](https://github.com/PriyanshuKumarChoubey)
+- [Devesh Swarnkar](https://github.com/devesh-0419)
 - [c1sc0](https://github.com/c1sc0)
 - [Devesh Swarnkar](https://github.com/devesh-0419)
 - [Priyanshu Kumar](https://github.com/ripperkumar)
