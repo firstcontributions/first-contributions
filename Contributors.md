@@ -2473,6 +2473,10 @@
 - [Abhika Mittal](https://github.com/Abhika3021)
 - [Royce Dy](https://github.com/rad182)
 -[Rutika Masane](https://github.com/rutika1823)
+
+- [Avinash Shukla](https://github.com/Luci04)
+
+
 -[Funikz](https://github.com/Funikz)
 -[Sharad Tripathi](https://github.com/tripathisharad)
 -[Rahul Rs](https://github.com/RsRsRahul)
