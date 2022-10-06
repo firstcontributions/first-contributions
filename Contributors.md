@@ -2490,4 +2490,5 @@
 - [Mateus Bozzi](https://github.com/Mateus-Bozzi)
 - [Dhanush-E](https://github.com/Dhanush-E)
 - [Aditya Mac](https://github.com/GhoulMac)
+- [Anirban Roy](https://github.com/Wrrikk)
 <!-- prettier-ignore-end -->
