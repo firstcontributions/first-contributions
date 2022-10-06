@@ -2630,6 +2630,7 @@
 - [Rahul Singh](https://github.com/rahuldhirendersingh)
 - [Cindy Um](https://github.com/CindyU-beep)
 - [Sebin CM](https://github.com/sebzz2k2)
+- [Diego HC](https://github.com/DiegoHC06)
 - [Avik Kumar Ghosh](https://github.com/avik712)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
 <!-- prettier-ignore-end -->
