@@ -2513,6 +2513,7 @@
 - [Yash Kumar Sharma](https://github.com/yashsharm884)
 - [Aditya Mac](https://github.com/GhoulMac)
 - [Anirban Roy](https://github.com/Wrrikk)
+- [Darshan V](https://github.com/Diplo2by)
 - [Bagus Tasuru](https://github.com/bagustasuru)
 - [Silverhand](https://github.com/silverhand7)
 - [Krishna Mundada](https://github.com/krishna050702)
