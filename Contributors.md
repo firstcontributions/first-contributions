@@ -10,6 +10,7 @@
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
+- [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
