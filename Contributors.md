@@ -2650,6 +2650,7 @@
 - [Sebin CM](https://github.com/sebzz2k2)
 - [Diego HC](https://github.com/DiegoHC06)
 - [Avik Kumar Ghosh](https://github.com/avik712)
+- [K Samarth N Kamath](https://github.com/k-samarth)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
 - [Arya Chakraborty](https://github.com/AryaChakraborty)
 - [Disha Goel](https://github.com/disha100)
