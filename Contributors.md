@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Sanath Raj Petkar](https://github.com/kar108)
