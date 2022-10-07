@@ -2940,6 +2940,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Mariana P Correa](https://github.com/marianapcorrea)
 -[Sidhant kaushal(https://github.com/sidhantkaushal)
 - [Marcelo Dantas](https://github.com/MarceloLuisDantas)
+- [Chirayu Garg] (https://github.com/gargchirayu)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
 
 <!-- prettier-ignore-end -->
