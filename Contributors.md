@@ -8,7 +8,7 @@
 - [Pankaj Chugh](https://github.com/pchugh17)
 - [Upanshu Kumar](https://github.com/UpanshuKumar)
 - [Vansh Patel] (https://github.com/vansh-patel-8123/)
-- [Tanuj Kalonia] (https://github.com/Tanuj3662)
+- [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Siggy73](https://github.com/Siggy73)
