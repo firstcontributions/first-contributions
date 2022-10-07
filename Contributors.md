@@ -2863,5 +2863,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Aniket Jadhav](https://github.com/aniyy117)
 - [CASIO15](https://github.com/CASIO15/)
 - [Unicifer](https://github.com/vaibhavmittal1998)
+- [SarthakA24](https://github.com/SarthakA24/)
 
 <!-- prettier-ignore-end -->
