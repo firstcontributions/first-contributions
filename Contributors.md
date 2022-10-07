@@ -14,6 +14,7 @@
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Utsab Kundu](https://github.com/Utsab5)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
+- [Anish Doshi](https://github.com/doshianish8)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
