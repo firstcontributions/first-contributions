@@ -2918,6 +2918,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Anil Poudel](https://github.com/pdlanl)
 - [Anand Kamble](https://github.com/anand-kamble)
 - [Gnanaprakash R](https://github.com/GNANA1306)
+- [Lav Kumar](https://github.com/lavkumargupta)
 
 <!-- prettier-ignore-end -->
 
