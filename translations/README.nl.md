@@ -11,8 +11,6 @@ Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deze repository" />
 
-#### _Lees dit in [andere talen](../Translations.md)_
-
 Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ](https://help.github.com/articles/set-up-git/)
 
 ## Deze repository forken
