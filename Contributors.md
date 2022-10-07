@@ -106,6 +106,7 @@
 - [Shrikant Kosariya](https://github.com/shrikant2233)
 - [xAlexus] (https://github.com/xAlexus) 
 - [Alessandro Greco](https://github.com/aleff-github)
+- [Axelle Lança](https://github.com/axellelanca)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Shivani Saraswat](https://github.com/shivani1706)
 - [Umair Mehmood](https://github.com/umair313)
