@@ -1935,6 +1935,8 @@ harsh vijay (https://github.com/harshvijay63)
 - [Samuel Echols](https://github.com/sechols223)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Uzair Hussain](https://github.com/Uzairhussain98)
+  aestadt
+  Ansh Kaushik
 - [Clinton Kunhardt](https://github.com/CKunhardt)
 - [Aviad Becker](https://github.com/Beckeruni)
 - [Bryan Chen](https://github.com/bryancheny)
