@@ -280,7 +280,7 @@
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
 - [ashutosh_sankpal](https://github.com/ashutoshj30)
-
+- [Joshua Ruffolo](https://github.com/jruffolo)
 - [George Tzinetas](https://github.com/kriminals)
 - [Abhishek Aute](https://github.com/Abhi2820)
 - [Md Danish Jamal](https://github.com/imdj6)
