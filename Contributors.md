@@ -38,6 +38,7 @@
 - [Avicii_029](https://github.com/avicii029)
 - [Hardik Jain](https://github.com/hardikjain0101)
 - [frank john](https://guthub.com/frank2ny)
+- [Sirio Negri](https://github.com/ziriuz84)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
 - [Yashaswini Shivathaya](https://github.com/y-ashaswini)
@@ -2935,6 +2936,9 @@ harsh vijay (https://github.com/harshvijay63)
 - [Giacomo Guadagnini](https://github.com/Flipper97)
 - [Mariana P Correa](https://github.com/marianapcorrea)
 - [Manan Sharma](https://github.com/MananSharma2710)
+=======
+-[Sidhant kaushal(https://github.com/sidhantkaushal)
+
 
 <!-- prettier-ignore-end -->
 
