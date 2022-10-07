@@ -9,6 +9,7 @@
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
+- [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
