@@ -74,7 +74,7 @@ Escreva a mensagem "Add `<your-name>` to Contributors list" no campo *sumary*
 
 Substitua `<your-name>` pelo seu nome.
 
-Clique no botãp que diz `Commit to add-your-name`.
+Clique no botão que diz `Commit to add-your-name`.
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit suas alterações" />
 
@@ -84,7 +84,7 @@ Na parte inferior, você pode ver que o commit foi criado com sucesso.
 
 ## Faça o push das mudanças no github
 
-Clique em File->Options e depois em sign-in to Github.com. Digite seu username e senha do Github.
+Clique em File -> Options e depois em sign-in to Github.com. Digite seu username e senha do Github.
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in no Github" />
 
