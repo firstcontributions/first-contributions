@@ -2813,4 +2813,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Crazyc4t](https://github.com/crazyc4t)
 - [Ishan](https://github.com/ishanjogalekar)
 - [Sathi](https://github.com/sathi7029)
+- [Rohan](https://github.com/Rohan-A-V)
 <!-- prettier-ignore-end -->
