@@ -16,6 +16,7 @@
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
+- [Aman Pardeshi](https://github.com/aman-pardeshi)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Patil 2104](https://github.com/patil2104)
 - [Laaaaksh](https://github.com/Laaaaksh)
@@ -2874,4 +2875,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Aditya Chaurasia](https://github.com/ChaurasiaAditya)
 
 <!-- prettier-ignore-end -->
+
 -[Shivangi Tiwari](https://github.com/Shivangi708)
