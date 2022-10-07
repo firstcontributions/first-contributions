@@ -2121,6 +2121,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [coineem123](https://github.com/coineem123)
 - [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
 - Mahesh Prayaga
+- Yux3l
 - [thatjamesemo](https://github.com/thatjamesemo)
 - [Vinod Khadka](https://github.com/skdotv)
 - [hsteinmueller](https://github.com/hsteinmueller)
@@ -2158,6 +2159,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
+- 
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
