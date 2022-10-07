@@ -2935,6 +2935,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ishaan Jain](https://github.com/ishaanjain1898)https://github.com/marianapcorrea
 - [Giacomo Guadagnini](https://github.com/Flipper97)
 - [Mariana P Correa](https://github.com/marianapcorrea)
+- [Robert A Conde](https://github.com/RobertConde)
 
 <!-- prettier-ignore-end -->
 
