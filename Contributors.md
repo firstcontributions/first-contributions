@@ -163,6 +163,7 @@
 - [Lottiecodes] (https://github.com/lottiecodes)
 - [law01f] (httos://github.com/law01f)
 - [Arya Shakya](https://github.com/Aryashakya)
+- [Amogh Kondapalli] (https://github.com/AmoghKondapalli)
 - [Nyanab](https://github.com/Nyanab)
 - [Mohit Kumar](https://github.com/iammk31)
 - [Dhruv] (https://github.com/lumi232)
