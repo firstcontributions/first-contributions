@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Kusum_Yadav](https://github.com/kusum-xor)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
