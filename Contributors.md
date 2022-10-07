@@ -268,6 +268,7 @@
 - [Abu Noman Md Sakib](https://github.com/anmspro)
 - [Saalimon](https://github.com/saalimon)
 - [Tahalu Indo](https://github.com/tahaluindo)
+- [PRITHVIRAJ GAMBHIRE](https://github.com/prithviii10)
 - [hemz](https://github.com/hemanthkrish)
 - [David Odejobi](https://github.com/davidaodejobi)
 - [Archit Handa](https://github.com/Archit-Handa)
