@@ -83,6 +83,7 @@
 - [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
 - [Srinidhi Gopalan](https://github.com/srinidhigopalan)
+- [Pablo Escobar](https://github.com/esc20936)
 - [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Hydrotho](https://github.com/hydrotho)
