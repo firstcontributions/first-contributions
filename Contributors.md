@@ -160,6 +160,7 @@
 - [David Kobalia](https://github.com/daweedkob)
 - [Subhash Sheoran](https://github.com/isheoran)
 - [Gaurav Kumrawat](https://github.com/GauravKumrawat)
+- [Lívia Castro](https://github.com/LivCastro)
 - [Faiyaaz Haque] (https://github.com/FaiyaazHawk)
 - [Abhishek Aggarwal](https://github.com/aggarwal-abhi29)
 - [Winay Gupta](https://github.com/WinayGupta777)
