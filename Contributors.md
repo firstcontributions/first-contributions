@@ -1345,7 +1345,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Makendran G](https://github.com/makendrang)
 - [Popovkov57](https://github.com/Popovkov57)
 - [Diwas Atreya](https://github.com/diwasatreya)
-- [ResmiMA] (https://github.com/ResmiMA)
 - [Mikkel Unrau](https://github.com/mikkelau)
 - [Sean Kerwin](https://github.com/lordkerwin)
 - [Adriane Troy U. Alariao](https://github.com/atualariao)
@@ -2854,5 +2853,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Muthulakshimi](https://github.com/Muthulakshimi)'
 - [Iqbal Nugraha](https://github.com/iqballa24)
 - [Archita](https://github.com/Archita21518)
+- [Hiren chandwani](https://github.com/Hiren0502)
 
 <!-- prettier-ignore-end -->
