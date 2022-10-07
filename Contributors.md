@@ -1496,6 +1496,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Sohag] https://github.com/soh-ag
 - [Brandon Flores](https://github.com/PineNine)
 - [Gaurav Yadav](https://github.com/gauravengine)
+- [Malith Senadheera] (https://github.com/Malitthh)
 - [Leander Sannesmoen](https://github.com/leander-sannesmoen)
 - [Mattazz](https://github.com/mattazz)
 - [Tasmiya Khan](https://github.com/Tasmiya-k)
