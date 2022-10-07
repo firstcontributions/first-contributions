@@ -2910,6 +2910,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
 - [Sumit Sharma](https://github.com/sumit16sharma)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
+- [Anil Poudel](https://github.com/pdlanl)
 
 <!-- prettier-ignore-end -->
 -[Shivangi Tiwari](https://github.com/Shivangi708)
