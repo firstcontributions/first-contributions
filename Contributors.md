@@ -2817,5 +2817,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ishan](https://github.com/ishanjogalekar)
 - [Sathi](https://github.com/sathi7029)
 - [Rohan](https://github.com/Rohan-A-V)
+- [Abedy Gathaba](https://github.com/abedygathaba)
 - [Rellot's Screwdriver](https://github.com/rellotscrewdriver)
 <!-- prettier-ignore-end -->
