@@ -2865,6 +2865,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [CASIO15](https://github.com/CASIO15/)
 - [Unicifer](https://github.com/vaibhavmittal1998)
 - [SarthakA24](https://github.com/SarthakA24/)
+- [Aditya Chaurasia](https://github.com/ChaurasiaAditya)
 
 <!-- prettier-ignore-end -->
 -[Shivangi Tiwari](https://github.com/Shivangi708)
