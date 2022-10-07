@@ -205,7 +205,7 @@
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
-- nowy wpis
+- [Adrij Bhadra](https://github.com/Adriz1611)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Devanshu Rastogi](https://github.com/devanshu052000)
 - [Mayur Vora](https://github.com/Mayur-vora)
