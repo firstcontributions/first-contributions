@@ -2905,6 +2905,8 @@ harsh vijay (https://github.com/harshvijay63)
 - [Animesh Dhakal](https://github.com/animeshdhakal)
 - [Maged Faiz](https://github.com/maiz27)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
+- [Chukwuebuka Okoli](https://github.com/X4MU-L)
 
 <!-- prettier-ignore-end -->
+
 -[Shivangi Tiwari](https://github.com/Shivangi708)
