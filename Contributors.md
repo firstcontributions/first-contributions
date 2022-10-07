@@ -70,6 +70,7 @@
 - [Vita Tran](https://github.com/vita-tran)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
+- [FourSols](https://github.com/FourSols)
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
