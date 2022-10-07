@@ -11,6 +11,7 @@
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Patil 2104](https://github.com/patil2104)
 - [Avicii_029](https://github.com/avicii029)
+- [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
 - [Yashaswini Shivathaya](https://github.com/y-ashaswini)
 - [Shubham](https://github.com/ShubhamP48)
