@@ -2843,5 +2843,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [roatgrammer](https://github.com/roastgrammer)
 - [Muthulakshimi](https://github.com/Muthulakshimi)'
 - [Iqbal Nugraha](https://github.com/iqballa24)
+- [Archita](https://github.com/Archita21518)
 
 <!-- prettier-ignore-end -->
