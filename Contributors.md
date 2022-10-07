@@ -2808,4 +2808,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ronak Sharma](https://github.com/Ronak50)
 - [Omkar Sarodey](https://github.com/Omkar243-sys)
 - [Arghadip Biswas](https://github.com/arghadipbiswas)
+- [Crazyc4t](https://github.com/crazyc4t)
 <!-- prettier-ignore-end -->
