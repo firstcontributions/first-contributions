@@ -6,15 +6,15 @@ Branches are simply pointers to a commit.
 
 When you branch out, git is essentially making a new state of your current code, upon which you can work, without affecting the important main state of the code (which is in master branch).
 
-When you are happy with your experiments, and want to merge you experiments in main code, you run git merge
+When you are happy with your experiments, and want to merge you experiments in main code, you can run git merge
 <branch name> master.
 This will tell git, to add in all changes from your experiment branch into master.
 
-This way, while working in an open source project with a number of contributors, it becomes easy to merge the best suited code without altering the main code or master branch.
+This way, while working in an open source project with a number of contributors, it becomes very easy to merge the best suited code without altering the main code or master branch.
 
 ## How it works?
 
-A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process. You can think of them as a way to request a brand new working directory, staging area, and project history. New commits are recorded in the history for the current branch, which results in a fork in the history of the project.
+A branch represents an independent line of development. Branches serves as an abstraction for the edit/stage/commit process. You can think of them as a way to request a brand new working directory, staging area, and project history. New commits are recorded in the history for the current branch, which results in a fork in the history of the project.
 
 The git branch command lets you create, list, rename, and delete branches. It doesn’t let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
 
