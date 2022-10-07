@@ -323,7 +323,7 @@
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie](https://github.com/a-nn-t-s)
-
+- [Abhinendra Singh](https://github.com/abhinendraSingh3)
 
 harsh vijay (https://github.com/harshvijay63)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
@@ -494,7 +494,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Jon](https://github.com/jonmoon74)
 - [Luka](https://github.com/bluka1)
 - [Raul](https://github.com/raul-404)
-- [RotrixX 🇪🇸](https://github.com/RotrixLOL)
 - [Tushar Sinha](https://github.com/tusharsinha-2908)
 - [Madhav Milan](https://github.com/m2-madhav)
 - [Ashish Kumar](https://github.com/Ashish16Kumar)
