@@ -24,7 +24,7 @@
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Tooba Rashid](https://github.com/toobaarashid)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
-- [Vivian Nicholls](https://github.com/viv-nic)
+- [Viv Nic](https://github.com/viv-nic)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
