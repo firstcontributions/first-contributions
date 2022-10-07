@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Shaurya Gupta](https://github.com/Shaurya50211)
+- [Adnan Ahmed](https://github.com/fidato818)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
