@@ -1,12 +1,15 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Moinuddin Mulla](https://github.com/moinmulla)
+- [Megan Moulos](https://github.com/meganmoulos/)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Utsab Kundu](https://github.com/Utsab5)
+- [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
@@ -61,6 +64,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
+- [Soumya Agrawal](https://github.com/SouMy16) 
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
@@ -2910,9 +2914,9 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
 - [Sumit Sharma](https://github.com/sumit16sharma)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
+- [Anil Poudel](https://github.com/pdlanl)
+- [Anand Kamble](https://github.com/anand-kamble)
 - [Chukwuebuka Okoli](https://github.com/X4MU-L)
 
 <!-- prettier-ignore-end -->
-
 -[Shivangi Tiwari](https://github.com/Shivangi708)
-
