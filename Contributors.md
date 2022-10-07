@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
+- [Utsab Kundu](https://github.com/Utsab5)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
