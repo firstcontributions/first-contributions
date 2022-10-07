@@ -26,6 +26,7 @@
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
 - [Dipesh Patel](https://github.com/Dipesh049)
+- [Aishwary Singh](https://github.com/aishwarysingh7754)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
 - [Siggy73](https://github.com/Siggy73)
 - [Olayinka Adebisi](https://github.com/Olaaa30)
