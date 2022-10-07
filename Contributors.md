@@ -30,6 +30,7 @@
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Patil 2104](https://github.com/patil2104)
+- [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
 - [Laaaaksh](https://github.com/Laaaaksh)
 - [Sri Ram](https://github.com/sriram-km)
