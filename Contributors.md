@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Moinuddin Mulla](https://github.com/moinmulla)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
@@ -2912,5 +2913,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
 
 <!-- prettier-ignore-end -->
--[Shivangi Tiwari](https://github.com/Shivangi708)
 
+-[Shivangi Tiwari](https://github.com/Shivangi708)
