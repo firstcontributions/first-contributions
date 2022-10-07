@@ -17,6 +17,7 @@
 - [Adnan Ahmed](https://github.com/fidato818)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
+- [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
