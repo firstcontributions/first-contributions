@@ -47,7 +47,7 @@
 - [Anirudh Handa](https://github.com/AnirudhHanda)
 - [Norbert Majer](https://github.com/azotamiota)
 - [James Neal](https://github.com/thekingofhyrule)
-- [Astha Mishra](https://github.com/asthami)
+- [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
 - [Simply-Sujal](https://github.com/Simply-Sujal)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
