@@ -2943,6 +2943,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Mihir Srivastava](https://github.com/MihirSrivastava-tech)
 - [Chirayu Garg] (https://github.com/gargchirayu)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
+- [Philip Mello](https://github.com/PhilipMello)
 
 <!-- prettier-ignore-end -->
 
