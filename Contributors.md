@@ -72,7 +72,8 @@
 - [James Neal](https://github.com/thekingofhyrule)
 - [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
-- [Simply-Sujal](https://github.com/Simply-Sujal)
+- [Simply-Sujal](https://github.com/Simply-Sujal
+- [Shreya Singh]
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [Toms Joseph](https://github.com/TomJosephKavalam)
 - [JOY JAIN](https://github.com/joy529)
@@ -311,7 +312,8 @@
 - [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
-- [ashutosh_sankpal](https://github.com/ashutoshj30)
+- [Shreya Singh] 
+[ashutosh_sankpal](https://github.com/ashutoshj30)
 - [Francis Okonkwo](https://github.com/Bluebberies)
 - [Joshua Ruffolo](https://github.com/jruffolo)
 - [George Tzinetas](https://github.com/kriminals)
