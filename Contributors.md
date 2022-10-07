@@ -2802,4 +2802,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Tezzish](https://github.com/Tezzish)
 - [Abu Talha](https://github.com/Abu-Talha-24)
 - [Chirag kapoor](https://github.com/chiragkapoor20)
+- [Álvaro Emanuel](https://github.com/AlvaroEmanuel20)
 <!-- prettier-ignore-end -->
