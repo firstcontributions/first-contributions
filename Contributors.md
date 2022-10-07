@@ -2860,5 +2860,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Iqbal Nugraha](https://github.com/iqballa24)
 - [Archita](https://github.com/Archita21518)
 - [Aniket Jadhav](https://github.com/aniyy117)
-
+- [Aditya Chaurasia](https://github.com/ChaurasiaAditya)
 <!-- prettier-ignore-end -->
