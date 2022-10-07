@@ -2929,7 +2929,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Lav Kumar](https://github.com/lavkumargupta)
 - [Ishaan Jain](https://github.com/ishaanjain1898)
 - [Giacomo Guadagnini](https://github.com/Flipper97)
-
+- [wmazoni](https://github.com/wmazoni)
 <!-- prettier-ignore-end -->
 
 -[Shivangi Tiwari](https://github.com/Shivangi708)
