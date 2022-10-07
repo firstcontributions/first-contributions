@@ -2893,6 +2893,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [SarthakA24](https://github.com/SarthakA24/)
 - [Aditya Chaurasia](https://github.com/ChaurasiaAditya)
 - [Animesh Dhakal](https://github.com/animeshdhakal)
-
+- [Harshal Deshattiwar](https://github.com/Harshal-Deshattiwar)
 <!-- prettier-ignore-end -->
 -[Shivangi Tiwari](https://github.com/Shivangi708)
