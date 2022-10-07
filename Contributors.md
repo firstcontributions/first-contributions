@@ -53,6 +53,7 @@
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
+- [Sakshi K](https://github.com/Sakshi-Kulkarni)
 - [Dipesh Patel](https://github.com/Dipesh049)
 - [Aishwary Singh](https://github.com/aishwarysingh7754)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
@@ -2928,6 +2929,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Gnanaprakash R](https://github.com/GNANA1306)
 - [Lav Kumar](https://github.com/lavkumargupta)
 - [Ishaan Jain](https://github.com/ishaanjain1898)
+- [Giacomo Guadagnini](https://github.com/Flipper97)
 
 <!-- prettier-ignore-end -->
 
