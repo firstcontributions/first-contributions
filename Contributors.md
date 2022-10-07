@@ -20,6 +20,7 @@
 - [Laaaaksh](https://github.com/Laaaaksh)
 - [Sri Ram](https://github.com/sriram-km)
 - [Avicii_029](https://github.com/avicii029)
+- [Hardik Jain](https://github.com/hardikjain0101)
 - [frank john](https://guthub.com/frank2ny)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
