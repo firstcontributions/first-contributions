@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
