@@ -7,6 +7,7 @@
 - [Adnan Ahmed](https://github.com/fidato818)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
+- [shrthk-7](https://github.com/shrthk-7)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
@@ -298,9 +299,7 @@
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie](https://github.com/a-nn-t-s)
-
-
-harsh vijay (https://github.com/harshvijay63)
+- [harsh vijay] (https://github.com/harshvijay63)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
 - [Jongsik Kim](https://github.com/neomax7)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
