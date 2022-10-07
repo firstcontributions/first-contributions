@@ -2481,6 +2481,7 @@
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Frits Sasia](https://github.com/fritssasia)
 - [Patryk Skonieczny] (https://github.com/bmalvo)
+- [Sohan Patchigolla](https://github.com/SohanPatchigolla)
 - [Kallyne Layane](https://github.com/hellokallyne)
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Tashfin Shahid](https://github.com/Tashfinz)
