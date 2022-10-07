@@ -2814,4 +2814,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ishan](https://github.com/ishanjogalekar)
 - [Sathi](https://github.com/sathi7029)
 - [Rohan](https://github.com/Rohan-A-V)
+- [Zomal](https://github.com/t-tatarski)
 <!-- prettier-ignore-end -->
