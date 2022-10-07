@@ -2927,6 +2927,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Gnanaprakash R](https://github.com/GNANA1306)
 - [Lav Kumar](https://github.com/lavkumargupta)
 - [Ishaan Jain](https://github.com/ishaanjain1898)
+- [Giacomo Guadagnini](https://github.com/Flipper97)
 
 <!-- prettier-ignore-end -->
 
