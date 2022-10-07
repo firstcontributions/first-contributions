@@ -2821,5 +2821,4 @@ harsh vijay (https://github.com/harshvijay63)
 - [Rohan](https://github.com/Rohan-A-V)
 - [Rellot's Screwdriver](https://github.com/rellotscrewdriver)
 - [Robi Hamdani](https://github.com/robikasep)
-
 <!-- prettier-ignore-end -->
