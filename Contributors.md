@@ -2794,4 +2794,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Sergey Sereda](https://github.com/SergeySereda0218)
 - [Thiago Santana](https://github.com/ThiagoSousaSantana)
 - [Tezzish](https://github.com/Tezzish)
+- [Abu Talha](https://github.com/Abu-Talha-24)
 <!-- prettier-ignore-end -->
