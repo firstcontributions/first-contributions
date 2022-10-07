@@ -13,7 +13,6 @@ Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är
 
 #### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.](#Handledningar-för-andra-verktyg)*
 
-#### *Läs detta på [andra språk](../Translations.md).*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 

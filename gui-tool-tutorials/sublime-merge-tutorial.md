@@ -24,6 +24,10 @@ Fork this repo by clicking on the fork button on the top of this page.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/fork.png" alt="fork this repository" />
 This will create of copy of this repository in your account.
 
+<br>
+<br>
+<br>
+<br>
 
 ## Clone the repository
 

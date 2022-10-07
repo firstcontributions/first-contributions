@@ -182,10 +182,10 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.de.md">Deutsch</a>
         </td>
         <td>
-           <a href="../translations/README.chs.md">中文(Simplified)</a>
+           <a href="../translations/README.zh-cn.md">中文(Simplified)</a>
         </td>
         <td>
-           <a href="../translations/README.cht.md">中文(Traditional)</a>
+           <a href="../translations/README.zh-tw.md">中文(Traditional)</a>
         </td>
         <td>
            <a href="../translations/README.gr.md">ελληνικά</a>
