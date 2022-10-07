@@ -11,6 +11,7 @@
 - [L Rajat Mohan] (https://github.com/rajatmohan22)
 -[Rishabh Sharma](https://github.com/rishabh2209)
 - [Abishek](https://github.com/keshiba)
+- [Shubham Bansal] (https://github.com/SensationalShubham)
 - [Zach J Murphy](https://github.com/zachjmurphy)
 -[Jobin John Abraham](https://github.com/jobs-code)
 - [Aadarsh Jha](https://github.com/jha-adrs)
