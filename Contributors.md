@@ -15,6 +15,7 @@
 - [Patil 2104](https://github.com/patil2104)
 - [Laaaaksh](https://github.com/Laaaaksh)
 - [Avicii_029](https://github.com/avicii029)
+- [frank john](https://guthub.com/frank2ny)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
 - [Yashaswini Shivathaya](https://github.com/y-ashaswini)
