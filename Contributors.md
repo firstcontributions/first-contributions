@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Shantanu29kumar](https://github.com/Shantanu29kumar)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
@@ -201,6 +201,7 @@
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
 - [iilou] (https://github.com/iilou)
+- [Shantanu kumar](https://github.com/Shantanu29kumar)
 - [Ayushi kumari](https://github.com/18Ayushi)
 - [Milind Shukla](https://github.com/MILINDSHUKLA)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
