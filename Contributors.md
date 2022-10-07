@@ -36,6 +36,7 @@
 - [Kevin] (https://github.com/ZaBarudo)
 - [Alon Cohen] (https://github.com/Alon2904)  
 - [Shrey Jaiswal](https://github.com/Shrey2002)
+- [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
 - [Dipesh Patel](https://github.com/Dipesh049)
 - [Aishwary Singh](https://github.com/aishwarysingh7754)
