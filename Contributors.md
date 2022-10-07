@@ -28,6 +28,7 @@
 - [Toms Joseph](https://github.com/TomJosephKavalam)
 - [JOY JAIN](https://github.com/joy529)
 - [Ashish Patel](https://github.com/ashishxcode)
+- [Srinidhi Gopalan](https://github.com/srinidhigopalan)
 - [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
