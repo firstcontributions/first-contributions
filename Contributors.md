@@ -713,6 +713,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
 - [Dhananjay Patel](https://github.com/dhanu0510)
 - [Pratham Goenka](https://github.com/prathamthe1st)
+- [John Doe](https://github.com/johndoe123)
 - [Manas Rai](https://github.com/manas-0407)
 - [Ishan Katoch](https://github.com/ishan-1010)
 - [Kiran Shete](https://github.com/Kiran270999)
@@ -2938,11 +2939,12 @@ harsh vijay (https://github.com/harshvijay63)
 - [Ishaan Jain](https://github.com/ishaanjain1898)https://github.com/marianapcorrea
 - [Giacomo Guadagnini](https://github.com/Flipper97)
 - [Mariana P Correa](https://github.com/marianapcorrea)
--[Sidhant kaushal(https://github.com/sidhantkaushal)
+- [Sidhant kaushal(https://github.com/sidhantkaushal)
 - [Marcelo Dantas](https://github.com/MarceloLuisDantas)
 - [Mihir Srivastava](https://github.com/MihirSrivastava-tech)
 - [Chirayu Garg] (https://github.com/gargchirayu)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
+- [Robert A Conde](https://github.com/RobertConde)
 
 <!-- prettier-ignore-end -->
 
