@@ -1030,6 +1030,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Poya Fraji](https://github.com/IWBTFY)
 - [Deep Jawale]
 - [Usman Fani] (https://github.com/usmanfani)
+- [Ismail Al Riyami](https://github.com/IsmailAlr)
 - [Tanmaya Biswal](https://github.com/tbiswal)
 - [Anurag Lodhi](https://github.com/AnuragLodhi)
 - [Daniel Youngbar](https://github.com/DYoungbar3)
