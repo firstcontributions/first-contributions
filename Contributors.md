@@ -30,6 +30,7 @@
 - [Aaditya Dev Sharma](https://github.com/Aadi1659)
 - [Pankaj Chugh](https://github.com/pchugh17)
 - [Upanshu Kumar](https://github.com/UpanshuKumar)
+- [Shubhamsk2003](https://github.com/Shubhamsk2003)
 - [Vansh Patel] (https://github.com/vansh-patel-8123/)
 - [Rohit Roy] (https://github.com/rohitroy12)
 - [Tieran Dysart](https://github.com/whyyy1)
