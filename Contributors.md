@@ -2944,6 +2944,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Chirayu Garg] (https://github.com/gargchirayu)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
 - [Philip Mello](https://github.com/PhilipMello)
+- [Akshat](https://github.com/akshtt)
 
 <!-- prettier-ignore-end -->
 
