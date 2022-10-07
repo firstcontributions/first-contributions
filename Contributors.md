@@ -2811,4 +2811,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Omkar Sarodey](https://github.com/Omkar243-sys)
 - [Arghadip Biswas](https://github.com/arghadipbiswas)
 - [Crazyc4t](https://github.com/crazyc4t)
+- [Ishan](https://github.com/ishanjogalekar)
 <!-- prettier-ignore-end -->
