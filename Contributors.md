@@ -7,6 +7,7 @@
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
+- [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
