@@ -100,6 +100,7 @@
 - [Ali Shakiba](https://github.com/alishakiba)
 - [Nathan Speich](https://github.com/nathanspeich)
 - [X]
+- [Jatin Gera] (https://github.com/JatinGera-noob)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
 - [Vishal Mishra](https://github.com/vishalaadee)
