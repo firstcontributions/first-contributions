@@ -2803,4 +2803,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Abu Talha](https://github.com/Abu-Talha-24)
 - [Chirag kapoor](https://github.com/chiragkapoor20)
 - [Álvaro Emanuel](https://github.com/AlvaroEmanuel20)
+- [Isaac L](https://github.com/cardosoIsaac)
 <!-- prettier-ignore-end -->
