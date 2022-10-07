@@ -50,6 +50,7 @@
 - [Prajwal Kedari](https://github.com/prajwalkedari)
 - [Jassim](https://github.com/jazz96)
 - [Ved Chadderwala](https://github.com/ved-2004)
+- [Md Adnan Khan](https://github.com/mdadnankhan242)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
 - [Adenle Abiodun](https://github.com/abbeyseto)
