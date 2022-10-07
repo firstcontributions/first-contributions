@@ -2798,4 +2798,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Thiago Santana](https://github.com/ThiagoSousaSantana)
 - [Tezzish](https://github.com/Tezzish)
 - [Abu Talha](https://github.com/Abu-Talha-24)
+- [Chirag kapoor](https://github.com/chiragkapoor20)
 <!-- prettier-ignore-end -->
