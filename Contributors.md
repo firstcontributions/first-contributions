@@ -59,6 +59,7 @@
 - [Aatish malik](https://github.com/zenghost1)
 - [Ved Chadderwala](https://github.com/ved-2004)
 - [Md Adnan Khan](https://github.com/mdadnankhan242)
+- [Vita Tran](https://github.com/vita-tran)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
 - [Adenle Abiodun](https://github.com/abbeyseto)
