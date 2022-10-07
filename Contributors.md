@@ -2906,6 +2906,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Maged Faiz](https://github.com/maiz27)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
 - [Sumit Sharma](https://github.com/sumit16sharma)
+- [Paramhans Singh](https://github.com/Paramhans-Singh)
 
 <!-- prettier-ignore-end -->
 -[Shivangi Tiwari](https://github.com/Shivangi708)
