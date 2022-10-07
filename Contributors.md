@@ -8,7 +8,6 @@
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Utsab Kundu](https://github.com/Utsab5)
-- [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
@@ -2914,7 +2913,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Sumit Sharma](https://github.com/sumit16sharma)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
 - [Anil Poudel](https://github.com/pdlanl)
-
+- [Tipu](https://github.com/baradatipu)
 <!-- prettier-ignore-end -->
 
 -[Shivangi Tiwari](https://github.com/Shivangi708)
