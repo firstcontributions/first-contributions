@@ -60,7 +60,9 @@
 - [Hydrotho](https://github.com/hydrotho)
 - [Gabriel Moreira Silva](https://github.com/GabMoreiraSilva)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
+- [Madhurjya Sarma] (https://github.com/TheBatMad)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
+
 - [xAlexus] (https://github.com/xAlexus) 
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
