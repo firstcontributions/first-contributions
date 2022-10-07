@@ -2936,6 +2936,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Giacomo Guadagnini](https://github.com/Flipper97)
 - [Mariana P Correa](https://github.com/marianapcorrea)
 -[Sidhant kaushal(https://github.com/sidhantkaushal)
+- [Marcelo Dantas](https://github.com/MarceloLuisDantas)
 
 <!-- prettier-ignore-end -->
 
