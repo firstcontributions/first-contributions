@@ -2807,4 +2807,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Álvaro Emanuel](https://github.com/AlvaroEmanuel20)
 - [Ronak Sharma](https://github.com/Ronak50)
 - [Omkar Sarodey](https://github.com/Omkar243-sys)
+- [Arghadip Biswas](https://github.com/arghadipbiswas)
 <!-- prettier-ignore-end -->
