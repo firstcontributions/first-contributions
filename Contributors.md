@@ -66,6 +66,7 @@
 - [Brad Carrico](https://github.com/BCarrico)
 - [Anirudh Handa](https://github.com/AnirudhHanda)
 - [Norbert Majer](https://github.com/azotamiota)
+- [Rohith Kumar](https://github.com/rohithkumar27)
 - [James Neal](https://github.com/thekingofhyrule)
 - [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
