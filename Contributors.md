@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Shashi Raj](https://github.com/shashirajraja)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Megan Moulos](https://github.com/meganmoulos/)
