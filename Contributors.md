@@ -4,6 +4,7 @@
 - [Martarion](https://github.com/Martarion-Code)
 - [vishal dhavale](https://github.com/vishu1893)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
+- [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
