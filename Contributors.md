@@ -2924,6 +2924,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Anand Kamble](https://github.com/anand-kamble)
 - [Gnanaprakash R](https://github.com/GNANA1306)
 - [Lav Kumar](https://github.com/lavkumargupta)
+- [Ishaan Jain](https://github.com/ishaanjain1898)
 
 <!-- prettier-ignore-end -->
 
