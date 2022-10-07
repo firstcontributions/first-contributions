@@ -22,6 +22,7 @@
 - [Rohit Roy] (https://github.com/rohitroy12)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Kevin] (https://github.com/ZaBarudo)
+- [Alon Cohen] (https://github.com/Alon2904)  
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Dipesh Patel](https://github.com/Dipesh049)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
