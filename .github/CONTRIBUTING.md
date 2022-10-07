@@ -309,6 +309,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/nunofca">nunofca</a>
         </td>
         <td>
+            <a href="https://github.com/lealee92">lealee92</a>
+        </td>
+        <td>
             <a href="https://github.com/platipo">platipo</a>
         </td>
         <td>
@@ -466,5 +469,3 @@ If you're making changes to a translation, please request a review from our prev
         </td>
     </tr>
  </table>
-    
-
