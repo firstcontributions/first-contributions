@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sanath Raj Petkar](https://github.com/kar108)
+- [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
 - [vishal dhavale](https://github.com/vishu1893)
