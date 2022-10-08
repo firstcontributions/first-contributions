@@ -2258,7 +2258,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
-- 
+- [Tara Lukose](https://github.com/Tara-1022)
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
