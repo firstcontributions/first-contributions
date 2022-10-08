@@ -7,6 +7,7 @@
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
 - [Kiran Bakale](https://github.com/kiranbakale)
+- [Rajanit](https://github.com/rajanitnavapara8)
 - [Shashi Raj](https://github.com/shashirajraja)
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Moinuddin Mulla](https://github.com/moinmulla)
