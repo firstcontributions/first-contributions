@@ -7,6 +7,7 @@
 - [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
+- [Vladimir Cvejanov](https://github.com/VladenCode)
 - [Suman Raj](https://github.com/the-suman)
 - [Kiran Bakale](https://github.com/kiranbakale)
 - [Rajanit](https://github.com/rajanitnavapara8)
