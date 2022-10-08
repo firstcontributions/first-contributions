@@ -3008,6 +3008,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Anish Goyal](https://github.com/AnishGoyal18)
 - [Gourav Kumar Shaw](https://github.com/Gourav1695)
 - [Mandeep Mahra](https://github.com/mandeep-mahra)
+- [Xing Chen](https://github.com/ChenXing-tech)
 
 <!-- prettier-ignore-end -->
 
