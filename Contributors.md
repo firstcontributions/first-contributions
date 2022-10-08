@@ -538,6 +538,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Jonah Uka](https://github.com/Jojo-GitH2)
 - Julien
 - [Farhad](https://github.com/farhad2306)
+- [Lhoussaine Ouarhou](https://github.com/lhousaine)
 - [Ashish Tiwari](https://github.com/Ashish-100-tiwari)
 - [El Arif Amine](https://github.com/AmineArif1)
 - [forno] (https://github.com/fornclakess)
@@ -3028,7 +3029,6 @@ harsh vijay (https://github.com/harshvijay63)
 
 <!-- prettier-ignore-end -->
 
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
+-[Shivangi Tiwari](https://github.com/Shivangi708) -[Jinyoung](https://github.com/diligejy)
 [Swapnil Ranmale]https://github.com/swapnilranmale2003
 [Arghya Bhattacharya](https://github.com/arghya501)
