@@ -2976,6 +2976,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Akshat](https://github.com/akshtt)
 - [Akshat Verma](https://github.com/iamakshu29)
 - [Kartik Batra](https://github.com/devilsboss-dev)
+Jimmy Li
 
 <!-- prettier-ignore-end -->
 
