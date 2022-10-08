@@ -32,6 +32,7 @@
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Phibersoft](https://github.com/phibersoft)
 - [Anish Doshi](https://github.com/doshianish8)
+- [Saurabh Sinha](https://github.com/sinhasaurabh3104)
 - [Girish Nair](https://github.com/javagirish)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
