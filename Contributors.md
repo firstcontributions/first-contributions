@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Sai Rahul](https://github.com/Sai3Rahul)
 - [Khushi Saxena](https://github.com/khushi11saxena)
