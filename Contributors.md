@@ -3041,6 +3041,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Himanshu Mahato](https://github.com/m7-Selenophile)
 - [Buffersolve](https://github.com/Buffersolve)
 - [Krnlsoft](https://github.com/Krnlsoft)
+- [afflato](https://github.com/afflato)
 
 <!-- prettier-ignore-end -->
 
