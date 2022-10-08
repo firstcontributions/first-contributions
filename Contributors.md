@@ -2665,6 +2665,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Selma](https://selma.dance)
+- [Maddy](https://github.com/mvsangh)
 - [Jia Jing](https://github.com/jiajing1993)
 - [Erick Sarabia](https://github.com/ericksarabia)
 - [Mateus Bozzi F](https://github.com/Mateus-Bozzi)
@@ -3042,9 +3043,11 @@ harsh vijay (https://github.com/harshvijay63)
 - [Buffersolve](https://github.com/Buffersolve)
 - [Krnlsoft](https://github.com/Krnlsoft)
 - [afflato](https://github.com/afflato)
+- [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
+- [Rahmat Subandi](https://github.com/rahmatsubandi)
 
 <!-- prettier-ignore-end -->
-
+<!-- Just a comment -->
 -[Shivangi Tiwari](https://github.com/Shivangi708)
 -[Jinyoung](https://github.com/diligejy)
 [Swapnil Ranmale]https://github.com/swapnilranmale2003
@@ -3053,3 +3056,4 @@ harsh vijay (https://github.com/harshvijay63)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
 - [Arindam Dutta](https://github.com/iarindamofficial)
+- [Rahul Roy](https://github.com/iamrahulroy11)
