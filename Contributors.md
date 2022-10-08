@@ -227,6 +227,7 @@
 - [Karim](https://github.com/abkarim)
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Manav Sharma](https://github.com/vanam30)
+- [Vaibhav Agarwal](https://github.com/vaibhava17)
 - [Mercy Avwenagbiku](https://github.com/messiovo)
 - [Varsha Gupta](https://github.com/varsha080)
 - [Shashank Shukla](https://github.com/Wodlfvllf)
