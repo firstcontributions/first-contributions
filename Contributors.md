@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
