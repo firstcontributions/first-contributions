@@ -2638,6 +2638,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Chirayu Gupta](https://github.com/ChirayuGupta2003)
 - [Kshitiz Tayal](https://github.com/KshitizTayal)
 - [Sahil Arora](https://github.com/sahilarora02)
+- [Sahil Rohera](https://github.com/sahilrohera10)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Siddhant Kumar](https://github.com/Siddhant87)
 - [Kshitij Pandey](https://github.com/Kshitij-1373)
@@ -3030,7 +3031,6 @@ harsh vijay (https://github.com/harshvijay63)
 
 <!-- prettier-ignore-end -->
 
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
+-[Shivangi Tiwari](https://github.com/Shivangi708) -[Jinyoung](https://github.com/diligejy)
 [Swapnil Ranmale]https://github.com/swapnilranmale2003
 [Arghya Bhattacharya](https://github.com/arghya501)
