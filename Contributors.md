@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Khushi Saxena](https://github.com/khushi11saxena)
 - [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
@@ -45,6 +46,7 @@
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
+- [Aman Kumar Pandey](https://github.com/amanpandey2101)
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
@@ -114,6 +116,7 @@
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [Toms Joseph](https://github.com/TomJosephKavalam)
 - [JOY JAIN](https://github.com/joy529)
+- [Abhay H Kashyap](https://github.com/abhayhk2001)
 - [Ashish Patel](https://github.com/ashishxcode)
 - [Srinidhi Gopalan](https://github.com/srinidhigopalan)
 - [Pablo Escobar](https://github.com/esc20936)
