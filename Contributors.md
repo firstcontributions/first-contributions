@@ -2981,3 +2981,4 @@ harsh vijay (https://github.com/harshvijay63)
 <!-- prettier-ignore-end -->
 
 -[Shivangi Tiwari](https://github.com/Shivangi708)
+-[Leticia Hashimoto](https://github.com/letyhashimoto)
