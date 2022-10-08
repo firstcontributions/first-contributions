@@ -3040,6 +3040,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Rahul Aryan](https://github.com/Rahularyan2211)
 - [Himanshu Mahato](https://github.com/m7-Selenophile)
 - [Buffersolve](https://github.com/Buffersolve)
+- [Krnlsoft](https://github.com/Krnlsoft)
 
 <!-- prettier-ignore-end -->
 
