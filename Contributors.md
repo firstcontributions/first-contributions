@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Khushi Saxena](https://github.com/khushi11saxena)
 - [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
