@@ -22,6 +22,7 @@
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Sunera Sunilaka] (https://github.com/Sunera-2216)
 - [Boban Djordjevic] (https://github.com/boban1911)
+- [Chinatomuto nnaji] (https://github.com/chinatomuto)
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
