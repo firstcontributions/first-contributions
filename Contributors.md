@@ -553,6 +553,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Raul](https://github.com/raul-404)
 - [RotrixX 🇪🇸](https://github.com/RotrixLOL)
 - [Tushar Sinha](https://github.com/tusharsinha-2908)
+- [Sanjai](https://github.com/marshmello765)
 - [Madhav Milan](https://github.com/m2-madhav)
 - [Ashish Kumar](https://github.com/Ashish16Kumar)
 - [mazino]
