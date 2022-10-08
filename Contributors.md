@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sanath Raj Petkar](https://github.com/kar108)
+- [Shreya Singh]
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Utsab Kundu](https://github.com/Utsab5)
 - [Prathamesh Sable](https://github.com/prathameshks)
