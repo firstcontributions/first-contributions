@@ -30,6 +30,7 @@
 - [Martins Ngene](https://github.com/Martinsngene)
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
+- [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
 - [Alan Flores](https://github.com/AlanF20)
 - [SK Luffa](https://github.com/SK-Luffa)
 - [Amit Roy](https://github.com/amitroy-thedev)
