@@ -24,6 +24,7 @@
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
 - [katdotfasta](https://github.com/katdotfasta)
+- [Kunal Bhavare](https://github.com/kbhavre)
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
 - [Thomas Adler](https://github.com/thomas0299)
