@@ -2991,6 +2991,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Mihir Srivastava](https://github.com/MihirSrivastava-tech)
 - [Chirayu Garg] (https://github.com/gargchirayu)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
+- [Shiva Shankar](https://github.com/shivashankar-741)
 - [Philip Mello](https://github.com/PhilipMello)
 - [Akshat](https://github.com/akshtt)
 - [Akshat Verma](https://github.com/iamakshu29)
@@ -3002,7 +3003,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Neeraj](https://github.com/neeraj779)
 - [Anish Goyal](https://github.com/AnishGoyal18)
 - [Gourav Kumar Shaw](https://github.com/Gourav1695)
-- [Shiva Shankar](https://github.com/shivashankar-741)
 
 <!-- prettier-ignore-end -->
 
