@@ -135,6 +135,7 @@
 - [Tannistha Biswas](https://github.com/TannisthaBiswas)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Nikhil gowda T P](https://github.com/Nikhil-Gowda-T-P)
+- [Adil Ansari](https://github.com/adilansari488)
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Tooba Rashid](https://github.com/toobaarashid)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
