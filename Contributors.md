@@ -5,6 +5,7 @@
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
+- [Victor F.](https://github.com/victorfyonemoto)
 - [Sai Rahul](https://github.com/Sai3Rahul)
 - [Khushi Saxena](https://github.com/khushi11saxena)
 - [wubiwen](https://github.com/s1084796293)
