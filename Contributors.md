@@ -3058,6 +3058,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
 - [Rahmat Subandi](https://github.com/rahmatsubandi)
 - [Divyansh Kumar](https://github.com/coris01)
+- [Andres Arrieta](https://github.com/lsomacruzl)
 
 <!-- prettier-ignore-end -->
 <!-- Just a comment -->
