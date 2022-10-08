@@ -3052,3 +3052,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
 - [Arindam Dutta](https://github.com/iarindamofficial)
+- [Trisha Thakur](https://github.com/trisha-thakur)
+
