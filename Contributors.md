@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [AkT-01](https://githhub.com/AkT-01)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Sai Rahul](https://github.com/Sai3Rahul)
 - [Khushi Saxena](https://github.com/khushi11saxena)
