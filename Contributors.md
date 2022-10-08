@@ -3020,6 +3020,7 @@
 - [Iqbal Nugraha](https://github.com/iqballa24)
 - [Derrick Mac] (https://github.com/DerrickMac)
 - [Archita](https://github.com/Archita21518)
+- [Sai Charan Sigiri](https://github.com/saicharansigiri)
 - [Aniket Jadhav](https://github.com/aniyy117)
 - [CASIO15](https://github.com/CASIO15/)
 - [Unicifer](https://github.com/vaibhavmittal1998)
