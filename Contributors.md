@@ -12,6 +12,7 @@
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
+- [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aman Sharma](https://github.com/amansharma703)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
