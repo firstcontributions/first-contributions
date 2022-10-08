@@ -2998,6 +2998,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Aditya](https://github.com/adityahajari14)
 - [Sourabh Yadav ❤](https://github.com/SOURABH358)
 - [Neeraj](https://github.com/neeraj779)
+- [Anish Goyal](https://github.com/AnishGoyal18)
 
 <!-- prettier-ignore-end -->
 
