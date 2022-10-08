@@ -197,6 +197,7 @@
 - [Chris] (https://github.com/chickenCHRISpy)
 - [Alonso Tigerheart] (https://github.com/ezez1237)
 - [Bharti Patel](https://github.com/Indiana-S-coder)
+- [Vedant Sonawane](https://github.com/Vedant003)
 - [DataDaimon] (https://github.com/DataDaimon)
 - [Lakhwinder-Singh](https://github.com/Lakhwinderr)
 - [akashaw] (https://github.com/akashaw)
