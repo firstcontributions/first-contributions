@@ -216,6 +216,7 @@
 - [Anurag Nayak](https://github.com/Anurag-Nayak)
 - [Will Menezes](https://github.com/uiuzih)
 - [Disha Gupta](https://github.com/Dishag2611)
+- [Chijioke Ibekwe](https://github.com/chijioke-ibekwe)
 - [Josuan Leonardo](https://github.com/josleonardo)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
 - [Suthar Yash](https://github.com/Yash-suthar)
