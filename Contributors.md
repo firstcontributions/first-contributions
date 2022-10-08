@@ -33,6 +33,7 @@
 - [Alan Flores](https://github.com/AlanF20)
 - [SK Luffa](https://github.com/SK-Luffa)
 - [Amit Roy](https://github.com/amitroy-thedev)
+- [Siddhi Khade](https://github.com/SiddhiKhade)
 - [Pavanteja](https://github.com/Pavanteja17)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Yash Thakur](https://github.com/philomathaf)
