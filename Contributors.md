@@ -61,6 +61,7 @@
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Shivodit Gill](https://github.com/HotDogEnemy)
 - [Shantanu29kumar](https://github.com/Shantanu29kumar)
+- [IsaacNewTom](https://github.com/IsaacNewTom)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
