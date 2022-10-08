@@ -3099,4 +3099,5 @@
 - [Nikhil Reddy](https://github.com/n1ght-k1ng)
 - [neo](https://github.com/neocollege)
 - [Arthur Fernades](https://github.com/Ploita)
+- [Himanshu Mahato](https://github.com/m7-selenophile)
 <!-- prettier-ignore-end -->
