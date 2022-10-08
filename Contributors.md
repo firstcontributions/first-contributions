@@ -3000,6 +3000,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Philip Mello](https://github.com/PhilipMello)
 - [Akshat](https://github.com/akshtt)
 - [Akshat Verma](https://github.com/iamakshu29)
+- [Vishal Chaurasia](https://github.com/vishal00923)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
 - [harsh savani](https://github.com/harshsavani)
@@ -3013,6 +3014,5 @@ harsh vijay (https://github.com/harshvijay63)
 
 <!-- prettier-ignore-end -->
 
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
+-[Shivangi Tiwari](https://github.com/Shivangi708) -[Jinyoung](https://github.com/diligejy)
 [Swapnil Ranmale]https://github.com/swapnilranmale2003
