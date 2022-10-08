@@ -2978,7 +2978,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Akshat Verma](https://github.com/iamakshu29)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
-
+- [Dean](https://github.com/SomallSeanis)
 <!-- prettier-ignore-end -->
 
 -[Shivangi Tiwari](https://github.com/Shivangi708)
