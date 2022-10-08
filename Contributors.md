@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [JSTN](https://github.com/JSTNSNE)
+- [JSTNSNE](https://github.com/JSTNSNE)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Sai Rahul](https://github.com/Sai3Rahul)
