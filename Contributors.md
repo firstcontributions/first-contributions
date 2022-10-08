@@ -3042,8 +3042,8 @@ harsh vijay (https://github.com/harshvijay63)
 - [Himanshu Mahato](https://github.com/m7-Selenophile)
 - [Buffersolve](https://github.com/Buffersolve)
 - [Krnlsoft](https://github.com/Krnlsoft)
-- [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
-- [Rahmat Subandi](https://github.com/rahmatsubandi)
+- [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara)
+- [Ed Tosoy](https://github.com/edtosoy)
 
 <!-- prettier-ignore-end -->
 <!-- Just a comment -->
