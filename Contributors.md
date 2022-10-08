@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [JSTNSNE](https://github.com/JSTNSNE)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Sai Rahul](https://github.com/Sai3Rahul)
@@ -24,6 +25,7 @@
 - [Aman Sharma](https://github.com/amansharma703)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
+- [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Utsab Kundu](https://github.com/Utsab5)
@@ -31,6 +33,7 @@
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Phibersoft](https://github.com/phibersoft)
 - [Anish Doshi](https://github.com/doshianish8)
+- [Saurabh Sinha](https://github.com/sinhasaurabh3104)
 - [Girish Nair](https://github.com/javagirish)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
@@ -1513,6 +1516,7 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Temoteo Sabado](https://github.com/Sabado123)
+- [Aban Qureshi](https://github.com/QuestyFella)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
@@ -2659,6 +2663,7 @@
 - [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Selma](https://selma.dance)
+- [Maddy](https://github.com/mvsangh)
 - [Jia Jing](https://github.com/jiajing1993)
 - [Erick Sarabia](https://github.com/ericksarabia)
 - [Mateus Bozzi F](https://github.com/Mateus-Bozzi)
@@ -2790,6 +2795,7 @@
 - [Dr. Asshat](https://github.com/drasshat)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
 - [Shubham Kumar](https://github.com/Noobham)
+- [Kandarp Solanki](https://github.com/KandarpSolanki)
 - [victhupy](https://github.com/victhupy)
 - [victhupy](https://github.com/victhupy)
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
@@ -3014,6 +3020,8 @@
 - [Mihir Srivastava](https://github.com/MihirSrivastava-tech)
 - [Chirayu Garg](https://github.com/gargchirayu)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
+- [Shiva Shankar](https://github.com/shivashankar-741)
+- [Natasha Srivastava](https://github.com/natashasrivastava)
 - [Philip Mello](https://github.com/PhilipMello)
 - [Akshat](https://github.com/akshtt)
 - [Akshat Verma](https://github.com/iamakshu29)
@@ -3034,6 +3042,12 @@
 - [Jinyoung](https://github.com/diligejy)
 - [Swapnil Ranmale](https://github.com/swapnilranmale2003)
 - [Arghya Bhattacharya](https://github.com/arghya501)
+- [Shobhit Goyal](https://github.com/shobhit9070/)
+- [Aryan Gurung](https://github.com/h3athen)
+- [Neeraj Meena](https://github.com/neeraj542)
+- [Arindam Dutta](https://github.com/iarindamofficial)
+- [Rahul Roy](https://github.com/iamrahulroy11)
+- [Buffersolve](https://github.com/Buffersolve)
+- [Krnlsoft](https://github.com/Krnlsoft)
+- [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara)
 <!-- prettier-ignore-end -->
-
-
