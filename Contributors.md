@@ -70,6 +70,7 @@
 - [Avicii_029](https://github.com/avicii029)
 - [Hardik Jain](https://github.com/hardikjain0101)
 - [frank john](https://guthub.com/frank2ny)
+- [Nishtha Jethani](https://github.com/NishthaJethani)
 - [Sirio Negri](https://github.com/ziriuz84)
 - [Debayan Sen](https://github.com/Debayan-Sen)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
