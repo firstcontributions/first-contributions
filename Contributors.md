@@ -52,6 +52,7 @@
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
+- [Shivodit Gill](https://github.com/HotDogEnemy)
 - [Shantanu29kumar](https://github.com/Shantanu29kumar)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
