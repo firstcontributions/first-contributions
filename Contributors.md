@@ -4,6 +4,7 @@
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
+- [Kiran Bakale](https://github.com/kiranbakale)
 - [Shashi Raj](https://github.com/shashirajraja)
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Moinuddin Mulla](https://github.com/moinmulla)
