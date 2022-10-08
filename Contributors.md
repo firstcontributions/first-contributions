@@ -3093,3 +3093,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Nikhil Reddy](https://github.com/n1ght-k1ng)
 - [neo](https://github.com/neocollege)
 - [Arthur Fernades](https://github.com/Ploita)
+- [Omar Cardoze](https://github.com/OmarCardoze)
+
