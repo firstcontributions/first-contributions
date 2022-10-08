@@ -2988,6 +2988,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
 - [harsh savani](https://github.com/harshsavani)
+- [Hrishin](https://github.com/Greybuoy)
 
 <!-- prettier-ignore-end -->
 
