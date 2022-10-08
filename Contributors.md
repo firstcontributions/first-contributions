@@ -3045,6 +3045,11 @@ harsh vijay(https://github.com/harshvijay63)
 - [Jinyoung](https://github.com/diligejy)
 - [Swapnil Ranmale](https://github.com/swapnilranmale2003)
 - [Arghya Bhattacharya](https://github.com/arghya501)
+- [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
+- [Shivangi Tiwari](https://github.com/Shivangi708)
+- [Jinyoung](https://github.com/diligejy)
+- [Swapnil Ranmale]https://github.com/swapnilranmale2003
+- [Arghya Bhattacharya](https://github.com/arghya501)
 - [Shobhit Goyal](https://github.com/shobhit9070/)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
