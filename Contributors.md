@@ -39,6 +39,7 @@
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [Shantanu29kumar](https://github.com/Shantanu29kumar)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
+- [Raj Bagaria](https://github.com/bagariaraj23)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
@@ -2990,5 +2991,4 @@ harsh vijay (https://github.com/harshvijay63)
 
 <!-- prettier-ignore-end -->
 
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
+-[Shivangi Tiwari](https://github.com/Shivangi708) -[Jinyoung](https://github.com/diligejy)
