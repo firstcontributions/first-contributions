@@ -72,6 +72,7 @@
 - [Mukutmani Das] (https://github.com/mukut-d)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Kevin] (https://github.com/ZaBarudo)
+- [Devansh] (https://github.com/Devansh-Walia)
 - [Alon Cohen] (https://github.com/Alon2904)  
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
