@@ -102,6 +102,7 @@
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
+- [Mubarak CH](https://github.com/ch-mubarak)
 - [LeGrandMAG](https://github.com/LeGrandMAG)
 - [Sabohat](https://github.com/sabohat)
 - [Benson Imoh](https://github.com/stbensonimoh)
