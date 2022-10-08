@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 - [AkT-01](https://githhub.com/AkT-01)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
-- [Sai Rahul](https://github.com/Sai3Rahul)
+- [Shubhanshu Gupta](https://github.com/Gptshubh)
 - [Khushi Saxena](https://github.com/khushi11saxena)
 - [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
