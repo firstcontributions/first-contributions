@@ -18,7 +18,6 @@
 - [Utsab Kundu](https://github.com/Utsab5)
 - [xhemals](https://github.com/xhemals)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
-- [Phibersoft](https://github.com/phibersoft)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
@@ -26,7 +25,6 @@
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Alan Flores](https://github.com/AlanF20)
-- [SK Luffa](https://github.com/SK-Luffa)
 - [Amit Roy](https://github.com/amitroy-thedev)
 - [Pavanteja](https://github.com/Pavanteja17)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
@@ -2985,6 +2983,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
 - [harsh savani](https://github.com/harshsavani)
+- [Jimmy Li](https://github.com/jimmyli123)
 
 <!-- prettier-ignore-end -->
 
