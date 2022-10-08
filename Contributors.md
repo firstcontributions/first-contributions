@@ -3008,6 +3008,7 @@
 - [Shivangi Tiwari](https://github.com/Shivangi708)
 - [Sathi](https://github.com/sathi7029)
 - [Rohan](https://github.com/Rohan-A-V)
+- [Zomal](https://github.com/t-tatarski)
 - [Abedy Gathaba](https://github.com/abedygathaba)
 - [Rellot's Screwdriver](https://github.com/rellotscrewdriver)
 - [Robi Hamdani](https://github.com/robikasep)
