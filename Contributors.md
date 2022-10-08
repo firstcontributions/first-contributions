@@ -1713,6 +1713,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Matin Kouchakzadeh](https://github.com/lepetitmatin)
 - [Baroon Jha](https://github.com/baroonjha)
 - [Sulabh Shrestha] (https://github.com/SulabhShrestha)
+- [Ivan L.](https://github.com/Pequicu1)
 - [Sam Brands](https://github.com/MoosMas)
 - [Sohaib Ahmad](https://github.com/sohaibahmed40)
 - [Anupam Bista](https://github.com/theanupambista)
@@ -3059,18 +3060,20 @@ harsh vijay (https://github.com/harshvijay63)
 - [Divyansh Kumar](https://github.com/coris01)
 
 <!-- prettier-ignore-end -->
+
 <!-- Just a comment -->
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
+
+-[Shivangi Tiwari](https://github.com/Shivangi708) -[Jinyoung](https://github.com/diligejy)
 [Swapnil Ranmale]https://github.com/swapnilranmale2003
 [Arghya Bhattacharya](https://github.com/arghya501)
+
 - [Shobhit Goyal](https://github.com/shobhit9070/)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
 - [Arindam Dutta](https://github.com/iarindamofficial)
 - [Rahul Roy](https://github.com/iamrahulroy11)
 - [Shivam Singh](https://github.com/Shivamgits)
--  [Anand Singh](https://github.com/AnandThakur2001)
+- [Anand Singh](https://github.com/AnandThakur2001)
 - [Subramaniyan Nallasivam](https://github.com/subbi12)
 - [Umar Ali](https://github.com/umar136)
 - [Siddharthsinh Bihola](https://github.com/SiddharthBihola)
