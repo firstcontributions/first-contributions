@@ -66,6 +66,7 @@
 - [Supriadi](https://github.com/obocloud)
 - [Laaaaksh](https://github.com/Laaaaksh)
 - [hawkiq](https://github.com/hawkiq)
+- [Jann Marc Villablanca](https://github.com/jfvillablanca)
 - [Sri Ram](https://github.com/sriram-km)
 - [Melissa Kirabo](https://github.com/melissakirabo)
 - [Avicii_029](https://github.com/avicii029)
