@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
 - [Shashi Raj](https://github.com/shashirajraja)
@@ -24,6 +25,7 @@
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Alan Flores](https://github.com/AlanF20)
 - [Amit Roy](https://github.com/amitroy-thedev)
+- [Pavanteja](https://github.com/Pavanteja17)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
@@ -2950,6 +2952,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [roatgrammer](https://github.com/roastgrammer)
 - [Muthulakshimi](https://github.com/Muthulakshimi)'
 - [Iqbal Nugraha](https://github.com/iqballa24)
+- [Derrick Mac] (https://github.com/DerrickMac)
 - [Archita](https://github.com/Archita21518)
 - [Aniket Jadhav](https://github.com/aniyy117)
 - [CASIO15](https://github.com/CASIO15/)
@@ -2979,6 +2982,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
 - [Dean](https://github.com/SomallSeanis)
+- [harsh savani](https://github.com/harshsavani)
 <!-- prettier-ignore-end -->
 
 -[Shivangi Tiwari](https://github.com/Shivangi708)
