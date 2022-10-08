@@ -3029,6 +3029,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [SarthakA24](https://github.com/SarthakA24/)
 - [Aditya Chaurasia](https://github.com/ChaurasiaAditya)
 - [Animesh Dhakal](https://github.com/animeshdhakal)
+- [Chandan Sahoo](https://github.com/chandan23sde)
 - [Maged Faiz](https://github.com/maiz27)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
 - [Sumit Sharma](https://github.com/sumit16sharma)
@@ -3071,8 +3072,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Rahmat Subandi](https://github.com/rahmatsubandi)
 - [Divyansh Kumar](https://github.com/coris01)
 - [Andres Arrieta](https://github.com/lsomacruzl)
-
-<!-- prettier-ignore-end -->
 <!-- Just a comment -->
 -[Shivangi Tiwari](https://github.com/Shivangi708)
 -[Jinyoung](https://github.com/diligejy)
@@ -3095,3 +3094,4 @@ harsh vijay (https://github.com/harshvijay63)
 - [Nikhil Reddy](https://github.com/n1ght-k1ng)
 - [neo](https://github.com/neocollege)
 - [Arthur Fernades](https://github.com/Ploita)
+<!-- prettier-ignore-end -->
