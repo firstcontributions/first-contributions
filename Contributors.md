@@ -5,6 +5,7 @@
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
 - [Shashi Raj](https://github.com/shashirajraja)
+- [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Megan Moulos](https://github.com/meganmoulos/)
