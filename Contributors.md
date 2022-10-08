@@ -3048,6 +3048,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Krnlsoft](https://github.com/Krnlsoft)
 - [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
 - [Rahmat Subandi](https://github.com/rahmatsubandi)
+- [Divyansh Kumar](https://github.com/coris01)
 
 <!-- prettier-ignore-end -->
 <!-- Just a comment -->
