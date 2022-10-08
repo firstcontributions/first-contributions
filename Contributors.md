@@ -1146,6 +1146,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Charlie Gomez](https://github.com/CGDev-TheMidnightWalker)
 - [Erick Salazar]
 - [Justin Liang]
+- [director8]
 - [Junaid Khan](https://github.com/JunaidKhan444)
 - [Aaron S]
 - [gjerman](https://github.com/gjerman)
