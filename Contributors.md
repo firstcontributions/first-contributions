@@ -3006,6 +3006,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Anish Goyal](https://github.com/AnishGoyal18)
 - [Gourav Kumar Shaw](https://github.com/Gourav1695)
 - [Mandeep Mahra](https://github.com/mandeep-mahra)
+- [Tejas JM](https://github.com/Shisui-12)
 
 <!-- prettier-ignore-end -->
 
