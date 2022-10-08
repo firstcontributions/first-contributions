@@ -2813,6 +2813,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [victhupy] (https://github.com/victhupy)
 - [victhupy] (https://github.com/victhupy)
 - [Mohit Prasad] https://github.com/ProgrammerMohit/Website
+- [Vox] (https://github.com/voxdotdev)
 - [Max] (https://github.com/datadrivenmax)
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
