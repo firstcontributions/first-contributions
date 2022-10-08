@@ -2987,6 +2987,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Robi Hamdani](https://github.com/robikasep)
 - [Vishal](https://github.com/vishalrock1912)
 - [roatgrammer](https://github.com/roastgrammer)
+- [Arisandi Jeujanan] (https://github.com/ArisandiSatria)
 - [Muthulakshimi](https://github.com/Muthulakshimi)'
 - [Iqbal Nugraha](https://github.com/iqballa24)
 - [Derrick Mac] (https://github.com/DerrickMac)
