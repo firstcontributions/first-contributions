@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
@@ -9,8 +10,10 @@
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
+- [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
+- [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aman Sharma](https://github.com/amansharma703)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
@@ -132,6 +135,7 @@
 - [Tannistha Biswas](https://github.com/TannisthaBiswas)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Nikhil gowda T P](https://github.com/Nikhil-Gowda-T-P)
+- [Adil Ansari](https://github.com/adilansari488)
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
 - [Tooba Rashid](https://github.com/toobaarashid)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
@@ -2987,6 +2991,8 @@ harsh vijay (https://github.com/harshvijay63)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
 - [harsh savani](https://github.com/harshsavani)
+- [Aditya](https://github.com/adityahajari14)
+- [Sourabh Yadav ❤](https://github.com/SOURABH358)
 
 <!-- prettier-ignore-end -->
 
