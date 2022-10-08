@@ -1714,6 +1714,9 @@ harsh vijay (https://github.com/harshvijay63)
 - [Nickolas Tazes](https://github.com/nickolastazes)
 - [Mahrukh Zulfiqar](https://github.com/Mahrukhz)
 - [Fran Munoz](https://github.com/Salex1323)
+
+-[Mubarak CH](https://github.com/ch-mubarak)
+
 - [Emmanuel Oloyede](https://github.com/techemmy/)
 - [Justin Fiset](https://github.com/requin5)
 - [Ahmad Afghan](https://github.com/AhmadCR7)
