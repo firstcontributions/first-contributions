@@ -10,6 +10,7 @@
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
+- [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Aman Sharma](https://github.com/amansharma703)
