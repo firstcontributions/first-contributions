@@ -24,6 +24,7 @@
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Alan Flores](https://github.com/AlanF20)
 - [Amit Roy](https://github.com/amitroy-thedev)
+- [Pavanteja](https://github.com/Pavanteja17)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
