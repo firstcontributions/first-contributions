@@ -32,6 +32,7 @@
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
+- [Melanga Dissanayake](https://github.com/melanga)
 - [Utsab Kundu](https://github.com/Utsab5)
 - [xhemals](https://github.com/xhemals)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
