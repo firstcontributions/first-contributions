@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Suman Raj](https://github.com/the-suman)
 - [Shashi Raj](https://github.com/shashirajraja)
