@@ -49,6 +49,7 @@
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
 - [Laaaaksh](https://github.com/Laaaaksh)
+- [hawkiq](https://github.com/hawkiq)
 - [Sri Ram](https://github.com/sriram-km)
 - [Avicii_029](https://github.com/avicii029)
 - [Hardik Jain](https://github.com/hardikjain0101)
