@@ -8,6 +8,7 @@
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Kunal Kartik](https://github.com/KunalKartik02)
+- [Kunal Kartik](https://github.com/KunalKartik02)
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Abhighyaa](https://github.com/Abhighyaa)
