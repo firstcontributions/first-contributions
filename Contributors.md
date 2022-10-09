@@ -83,6 +83,7 @@
 - [xhemals](https://github.com/xhemals)
 - [Siddharth Bhardwaj](https://github.com/TheUnofficialGod)
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
+- [Aditya Singhal](https://github.com/adityaacse)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Phibersoft](https://github.com/phibersoft)
 - [Anish Doshi](https://github.com/doshianish8)
