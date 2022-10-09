@@ -9,6 +9,7 @@
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
+- [Syed Jailani](https://github.com/syedjailani)
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Victor F.](https://github.com/victorfyonemoto)
