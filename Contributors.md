@@ -3208,4 +3208,5 @@
 - [Sohini Bhattacharjee](https://github.com/Sohini3018)
 - [Toni T](https://github.com/velebyte)
 - [Himanshu] (https://github.com/himanshus110)
+- [Mariana Jager] (https://github.com/marianajms)
 <!-- prettier-ignore-end -->
