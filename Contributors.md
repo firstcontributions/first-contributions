@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
 - [Griffin](https://github.com/Midnightific)
