@@ -3171,5 +3171,5 @@
 - [kanz] (https://github.com/arkansendy)
 - [Jijo Johnson](https://github.com/jijonj)
 - [Pushkar Yadav](https://github.com/pushkaryadavin)
-- [Riya Jain] ((https://github.com/Riyajain115)
+- [Sanket Mense](https://github.com/Strada2000)
 <!-- prettier-ignore-end -->
