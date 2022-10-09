@@ -58,7 +58,7 @@ Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomen
 
 ## Efetue as alterações necessárias e faça um Commit
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. 
+Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -104,10 +104,9 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 
 ### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
-
 ## Tutoriais usando outras ferramentas
 
 |<a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-|---|---|---|---|
+|---|---|
 |[GitHub Desktop](../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md)|[IntelliJ IDEA](../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md)         |
 
