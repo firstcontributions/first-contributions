@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Sarath Adhithya](https://github.com/SarathAdhi)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
