@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
+- [Kewal Ghosalkar](https://github.com/Kewal-Ghosalkar)
 - [Darshan Patel](https://github.com/darshan260802)
 - [CSanjana](https://github.com/Sanjana20304)
 - [Karanjot Singh](https://karanjot.vercel.app)
