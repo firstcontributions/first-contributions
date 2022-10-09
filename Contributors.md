@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
+- [Huifeng Fu](https://github.com/huifengfu)
 - [Harman Ro](https://github.com/HarmanRo)
 - [Patrick Haley](https://github.com/patrickhaley)
 - [Ayush Jha](https://github.com/Ayush0054)
