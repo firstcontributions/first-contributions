@@ -64,6 +64,7 @@
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Teju_1212](https://github.com/teju_1212)
+- [Aaron Geo Binoy](https://github.com/aarongeo1)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
