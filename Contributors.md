@@ -9,6 +9,7 @@
 - [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
+- [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Anushka Das ](https://github.com/Soumi-igtm)
