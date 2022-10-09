@@ -48,6 +48,7 @@
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
+- [Kanha Korgaonkar] (https://github.com/KanhaKorgaonkar)
 - [Aditya Singh](https://github.com/second007)
 - [Aman Sharma](https://github.com/amansharma703)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
