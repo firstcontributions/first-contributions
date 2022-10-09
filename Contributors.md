@@ -52,6 +52,7 @@
 - [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aditya Singh](https://github.com/second007)
 - [Aman Sharma](https://github.com/amansharma703)
+- [Karan banjade(https://github.com/karanbanajde)]
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Raji Roqeeb](https://github.com/Codebox124) 
