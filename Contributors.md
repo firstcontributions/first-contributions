@@ -21,6 +21,7 @@
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Jakob Nietzsche] (https://github.com/jakobnietzsche)
+- [Christine Amuzie](https://github.com/broaderimpact)
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
