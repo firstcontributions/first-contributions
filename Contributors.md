@@ -3103,4 +3103,5 @@
 - [neo](https://github.com/neocollege)
 - [Arthur Fernades](https://github.com/Ploita)
 - [Himanshu Mahato](https://github.com/m7-selenophile)
+- [Moti Kumar Yadav](https://github.com/moti9)
 <!-- prettier-ignore-end -->
