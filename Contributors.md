@@ -3107,4 +3107,5 @@
 - [Himanshu Mahato](https://github.com/m7-selenophile)
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
+- [Parag Dewangan (https://github.com/Parag-dwn)]
 <!-- prettier-ignore-end -->
