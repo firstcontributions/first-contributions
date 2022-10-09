@@ -2998,6 +2998,7 @@
 - [Simply-Sujal](https://github.com/Simply-Sujal)
 - [K Samarth N Kamath](https://github.com/k-samarth)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
+- [ARUN FRANCIS TELLIS](https://github.com/ArunTellis)
 - [Arya Chakraborty](https://github.com/AryaChakraborty)
 - [Disha Goel](https://github.com/disha100)
 - [MOHAMMAD ZEESHAN JAWED](https://github.com/zeeshan8281)
