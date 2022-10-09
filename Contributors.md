@@ -31,6 +31,7 @@
 - [AkT-01](https://githhub.com/AkT-01)
 - [Syed Jailani](https://github.com/syedjailani)
 - [Abhighyaa](https://github.com/Abhighyaa)
+- [Kaif Shakeel] (https://github.com/KaifShakeel76)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
