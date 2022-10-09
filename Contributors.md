@@ -2058,7 +2058,6 @@
 - [Felix Ortiz](https://github.com/FelixOrtiz97)
 - [Rainb0-0](https://github.com/Rainb0-0)
 - [Jayant Kishnani](https://github.com/Jay-Kishn)
-- [Nitish Kumar](https://github.com/nitisharav)
 - [Himanshu Rai](https://github.com/markellofff)
 - [Meghna Yadav](https://github.com/crayx)
 - [Gunnar Raßmann](https://github.com/grumiumxd)
