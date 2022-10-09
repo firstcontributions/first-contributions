@@ -3006,6 +3006,7 @@
 - [Bhawin Ameta](https://github.com/bhawinameta)
 - [Harsh Gupta](https://github.com/HarshGupta74)
 - [Hitalo de Araujo](https://github.com/HitaloDeAraujo)
+- [André Moraes](https://github.com/andremoraes98)
 - [Rahul Singh](https://github.com/rahuldhirendersingh)
 - [Cindy Um](https://github.com/CindyU-beep)
 - [Sebin CM](https://github.com/sebzz2k2)
