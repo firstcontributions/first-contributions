@@ -1,11 +1,15 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Anugrah Rachman](https://github.com/kidomega-byte/)
+- [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
+- [Karanjot Singh](https://karanjot.vercel.app)
+- [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Ronaldo Kereh](https://github.com/kereh)
+- [Anushka Das ](https://github.com/Soumi-igtm)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [JSTNSNE](https://github.com/JSTNSNE)
@@ -30,12 +34,14 @@
 - [Rajanit](https://github.com/rajanitnavapara8)
 - [Shashi Raj](https://github.com/shashirajraja)
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
+- [Shehbaz Khan](https://github.com/shehbazk)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Sunera Sunilaka] (https://github.com/Sunera-2216)
 - [Chinatomuto nnaji] (https://github.com/chinatomuto)
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
+- [Teju_1212](https://github.com/teju_1212)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
@@ -2992,6 +2998,7 @@
 - [Simply-Sujal](https://github.com/Simply-Sujal)
 - [K Samarth N Kamath](https://github.com/k-samarth)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
+- [ARUN FRANCIS TELLIS](https://github.com/ArunTellis)
 - [Arya Chakraborty](https://github.com/AryaChakraborty)
 - [Disha Goel](https://github.com/disha100)
 - [MOHAMMAD ZEESHAN JAWED](https://github.com/zeeshan8281)
@@ -3126,4 +3133,7 @@
 - [Samuele Bella](https://github.com/Novaenn)
 - [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
 - [Warrior Coder](https://github.com/hanielchids)
+- [Tanmay Churi](https://github.com/tanmay-churi?tab=repositories)
+- [cris yi](https://github.com/Crisyix)
+- [Vani Singh](https://github.com/vanisingh-24)
 <!-- prettier-ignore-end -->
