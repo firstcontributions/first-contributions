@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Darshan Patel](https://github.com/darshan260802)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
