@@ -37,6 +37,7 @@
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
 - [SOE](https://github.com/Soe-sandar-win)
+- [Akshay S Rajan](https://github.com/Akshaysrajan)
 - [Sai Rahul](https://github.com/Sai3Rahul)
 - [Aditya Badve](https://github.com/adityab05)
 - [Shivam Garg](https://github.com/Shivam311201)
