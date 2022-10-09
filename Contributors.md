@@ -2985,6 +2985,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
 - [harsh savani](https://github.com/harshsavani)
+- [Mohit Singh Tanwar](https://github.com/mohitjpr)
 
 <!-- prettier-ignore-end -->
 
