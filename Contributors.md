@@ -155,6 +155,7 @@
 - [Mubarak CH](https://github.com/ch-mubarak)
 - [LeGrandMAG](https://github.com/LeGrandMAG)
 - [Sabohat](https://github.com/sabohat)
+- [Shagun Maurya](https://github.com/ShagunMaurya17)
 - [Benson Imoh](https://github.com/stbensonimoh)
 - [Himalaya Pal](https://github.com/palhimalaya)
 - [Shubham Garg](https://github.com/shubhamgarg1299)
