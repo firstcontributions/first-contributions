@@ -3134,4 +3134,5 @@
 - [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
 - [Tanmay Churi](https://github.com/tanmay-churi?tab=repositories)
 - [Benny233](https://github.com/Benny233)
+- [cris yi](https://github.com/Crisyix)
 <!-- prettier-ignore-end -->
