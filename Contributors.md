@@ -2642,5 +2642,6 @@
 - [Sebin CM](https://github.com/sebzz2k2)
 - [Avik Kumar Ghosh](https://github.com/avik712)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
+- [ARUN FRANCIS TELLIS](https://github.com/ArunTellis)
 - [Arya Chakraborty](https://github.com/AryaChakraborty)
 <!-- prettier-ignore-end -->
