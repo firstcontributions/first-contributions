@@ -34,7 +34,7 @@
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Vijayalaxmi Kadham](https://github.com/KadhamVj23)
 - [Syed Jailani](https://github.com/syedjailani)
-- [AkT-01](https://github.com/AkT-01)
+- [AkT-01](https://githhub.com/AkT-01)
 - [Syed Jailani](https://github.com/syedjailani)
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Kaif Shakeel] (https://github.com/KaifShakeel76)
@@ -3199,4 +3199,5 @@
 - [Tirtharaj Roy](https://github.com/tirtharajroy)
 - [Saurabh] (https://github.com/saurabh1965)
 - [Utkarsh] (https://github.com/utkarshtrivedi7)
+- [Sohini Bhattacharjee](https://github.com/Sohini3018)
 <!-- prettier-ignore-end -->
