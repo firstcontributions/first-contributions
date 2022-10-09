@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
@@ -63,6 +64,7 @@
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Teju_1212](https://github.com/teju_1212)
+- [Aaron Geo Binoy](https://github.com/aarongeo1)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
@@ -171,6 +173,7 @@
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
+- [riyadhami](https://github.com/riyadhami)
 - [Mubarak CH](https://github.com/ch-mubarak)
 - [LeGrandMAG](https://github.com/LeGrandMAG)
 - [Sabohat](https://github.com/sabohat)
@@ -3183,4 +3186,6 @@
 - [Silicon Merc](https://github.com/SiliconMerc)
 - [Shashank K V] (https://github.com/Shashank-K-V)
 - [N N Goswami] (https://github.com/imNilabja)
+- [Ayushi Gautam] (https://github.com/AyushiGautam9)
+- [Alain Seys] (https://github.com/alainseys)
 <!-- prettier-ignore-end -->
