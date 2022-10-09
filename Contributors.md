@@ -7,6 +7,7 @@
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Ronaldo Kereh](https://github.com/kereh)
+- [Anushka Das](https://github.com/Soumi-igtm)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [JSTNSNE](https://github.com/JSTNSNE)
