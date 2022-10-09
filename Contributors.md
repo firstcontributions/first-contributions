@@ -18,6 +18,7 @@
 - [Jakob Nietzsche] (https://github.com/jakobnietzsche)
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
 - [Ronaldo Kereh](https://github.com/kereh)
+- [Saurabh Singh](https://github.com/saurabhsingh720)
 - [Anushka Das ](https://github.com/Soumi-igtm)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
