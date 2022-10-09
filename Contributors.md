@@ -67,6 +67,7 @@
 - [Utsab Kundu](https://github.com/Utsab5)
 - [xhemals](https://github.com/xhemals)
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
+- [Aditya Singhal](https://github.com/adityaacse)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Phibersoft](https://github.com/phibersoft)
 - [Anish Doshi](https://github.com/doshianish8)
