@@ -3154,4 +3154,5 @@
 - [Vani Singh](https://github.com/vanisingh-24)
 - [shiker1996](https://github.com/shiker1996)
 - [Ankur Gupta](https://github.com/Ankurgupta271)
+- [PathuS13](https://github.com/pathuS13)
 <!-- prettier-ignore-end -->
