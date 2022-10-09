@@ -2881,6 +2881,7 @@
 - [Andiani Putri] (https://github.com/andianiputri)
 - [Firman] (https://github.com/firmanJS)
 - [Khushi Agarwal] (https://github.com/curriee11)
+- [Gabriel Donadel Dall'Agnol](https://github.com/gabrieldonadel)
 - [Ashish Antony Pauly](https://github.com/ashishantonytsr)
 - [Aman Jain](https://github.com/amannayak0007)
 - [Syariful Msth](https://github.com/SyarifulMsth)

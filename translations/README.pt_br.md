@@ -58,7 +58,7 @@ Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomen
 
 ## Efetue as alterações necessárias e faça um Commit
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. 
+Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -103,7 +103,6 @@ Você também pode se juntar à nossa equipe no Slack caso precise de alguma aju
 Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
-
 
 ## Tutoriais usando outras ferramentas
 
