@@ -493,6 +493,7 @@
 - [Sahil Kamate](https://github.com/sahilkamate03)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Jahnvi ] (https://github.com/jahnvi15/)
+- [Vikanksh](https://github.com/vikanksh15/)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
 - [Priyansh Maheshwari] (https://github.com/priyanshm07)
