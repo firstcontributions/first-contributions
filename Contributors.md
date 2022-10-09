@@ -3111,5 +3111,5 @@
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
 - [Parag Dewangan (https://github.com/Parag-dwn)]
-- [Pushkar Yadav](https://github.com/pushkarydv)
+- [Soubhagya Kumar Nayak](https://github.com/SoubhagyaKumaNayak)
 <!-- prettier-ignore-end -->
