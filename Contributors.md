@@ -5,7 +5,6 @@
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [JSTNSNE](https://github.com/JSTNSNE)
-- [Kunal Kartik](https://github.com/KunalKartik02)
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Abhighyaa](https://github.com/Abhighyaa)
@@ -3113,5 +3112,6 @@
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
 - [Parag Dewangan (https://github.com/Parag-dwn)]
+- [Rishu Chaudhary (https://github.com/RyshuCdy)]
 - [Pushkar Yadav](https://github.com/pushkarydv)
 <!-- prettier-ignore-end -->
